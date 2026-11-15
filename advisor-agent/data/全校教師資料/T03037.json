@@ -1,0 +1,211 @@
+{
+  "teacherId": "T03037",
+  "name": "洪維志",
+  "mainUnit": "資訊電機學院",
+  "detailUnit": "資訊工程學系",
+  "skill": [
+    "無線網路Wireless Networks",
+    "行動網路Mobile Networks",
+    "資訊安全Information Security",
+    "密碼分析Cryptanalysis",
+    "硬體安全Hardware Security"
+  ],
+  "edu": [
+    "台灣大學 電信工程學系 博士",
+    "台灣大學 電機工程學系 碩士",
+    "台灣大學 電機工程學系 學士"
+  ],
+  "fcuExp": [
+    "資訊工程學系 助理教授",
+    "資訊工程學系 副教授",
+    "資訊工程學系 副教授"
+  ],
+  "currjob": [],
+  "otherExp": [
+    "中央研究院 資訊科學研究所 博士後研究人員",
+    "中華電信研究所 網路維運研究室 助理研究員"
+  ],
+  "journal": [
+    {
+      "論文名稱": "Efficient Peer-to-Peer E-Payment based on Asynchronous Dual Blockchain",
+      "期刊名稱": "Journal of Internet Technology (SCIE)",
+      "作者群": "Hong, W.C. Yang, R. K., Chen, Y. C, Li, B., and Lee, J.S."
+    },
+    {
+      "論文名稱": "Towards Accurate and Efficient Classification of Power System Contingencies and Cyber-Attacks Using Recurrent Neural Networks",
+      "期刊名稱": "IEEE Access (SCIE)",
+      "作者群": "Hong, W.C. Huang, D. Y., Chen, C. L, and Lee, J.S."
+    },
+    {
+      "論文名稱": "Reputation-oriented electronic micro-loaning based on smart contracts in a solidarity group",
+      "期刊名稱": "Journal of Internet Technology (SCIE)",
+      "作者群": "Lee, J.S., Chen, Y. C, Hong, W.C., Yang, R. K., and Lee, K.Y."
+    },
+    {
+      "論文名稱": "A Model for Aggregation and Filtering on Encrypted XML Streams in Fog Computing",
+      "期刊名稱": "International Journal of Distributed Sensor Networks (SCIE)",
+      "作者群": "J.-Y. Huang, W.-C. Hong, P.-S. Tsai, I-E. Liao*"
+    },
+    {
+      "論文名稱": "A Multichannel Scheduler for High-Speed Wireless Backhaul Links with Packet Concatenation",
+      "期刊名稱": "IEEE Transactions on Mobile Computing (SCIE)",
+      "作者群": "W.C. Hong* and Z. Tsai"
+    }
+  ],
+  "journal2": [],
+  "conference": [
+    {
+      "論文名稱": "Design and Implementation of Smart Contract Based IoT Services",
+      "會議名稱": "The International Conference on Innovative Computing and Management Science (ICMS 2019)",
+      "作者群": "Jia-Ying Chuang, Bing-Jie Ji, Wei-Chih Hong*, Chu-Hsiang Lee, Jeng-Da Huang and Huang-Kai Huang"
+    },
+    {
+      "論文名稱": "Framework for efficient SCA resistance verification of IoT devices",
+      "會議名稱": "2018 IEEE International Conference on Applied System Invention (ICASI)",
+      "作者群": "Shao-Yu Peng, Wei-Chih Hong*, Jun-Ting Li, Sheng-Jun Huang"
+    },
+    {
+      "論文名稱": "A Memory Efficient Variant of an Implementation of the F4 Algorithm for Computing Gröbner Bases",
+      "會議名稱": "The 6th International conference on Trustworthy Computing, InTrust 2014",
+      "作者群": "Y.-J. Huang, W.-C. Hong, C.-M. Cheng, J.-M. Chen and B.-Y. Yang"
+    },
+    {
+      "論文名稱": "A User-friendly Authentication Solution Using NFC Card Emulation on Android",
+      "會議名稱": "IEEE 7th International Conference on Service-Oriented Computing and Applications",
+      "作者群": "H. Lee, W.-C. Hong, C.-H. Kao, and C.-M. Cheng"
+    },
+    {
+      "論文名稱": "Dynamic Curve Adaptation for Geographic Routing in Wireless Multihop Networks",
+      "會議名稱": "The 39th IEEE Conference on Local Computer Networks (LCN)",
+      "作者群": "A. Loch*, W.-C. Hong and M. Hollick"
+    },
+    {
+      "論文名稱": "Hydra: An Energy-efficient Programmable Cryptographic Coprocessor Supporting Elliptic-curve Pairings over Fields of Large Characteristics",
+      "會議名稱": "The 9th International Workshop on Security, IWSEC2014",
+      "作者群": "Y.-A. Chang, W.-C. Hong, M.-C. Hsiao, B.-Y Yang, and C.-M. Cheng*"
+    },
+    {
+      "論文名稱": "A Practical Attack on Patched MIFARE Classic",
+      "會議名稱": "9th China International Conference on Information Security and Cryptology (Inscrypt 2013)",
+      "作者群": "Y.-H. Chiu, W.-C. Hong, L.-P. Chou, J. Ding, B.-Y. Yang and C.-M. Cheng*"
+    },
+    {
+      "論文名稱": "Design and Implementation of Multi-user Secure Indices for Encrypted Cloud Storage",
+      "會議名稱": "Eleventh Annual Conference on Privacy, Security and Trust (PST 2013)",
+      "作者群": "M.-P. Lin, W.-C. Hong*, C.-H. Chen, and C.-M. Cheng"
+    },
+    {
+      "論文名稱": "Improving the Autonomous Component Carrier Selection for Home eNodeBs in LTE-Advanced",
+      "會議名稱": "IEEE Consumer Communications and Networking Conference (CCNC 2011)",
+      "作者群": "W.-C. Hong* and Z. Tsai"
+    },
+    {
+      "論文名稱": "On the Femtocell-based MVNO Model: A Game Theoretic Approach for Optimal Power Setting",
+      "會議名稱": "IEEE 71st Vehicular Technology Conference: VTC2010-Spring",
+      "作者群": "W.-C. Hong* and Z. Tsai"
+    },
+    {
+      "論文名稱": "Adaptive Bandwidth Allocation via Dynamic Programming in a Shared Wireless Network",
+      "會議名稱": "18th IEEE International Symposium on Personal, Indoor and Mobile Radio Communications (PIMRC 2007)",
+      "作者群": "W.-C. Hong* and Z. Tsai"
+    }
+  ],
+  "book": [],
+  "patent": [],
+  "most": [
+    {
+      "name": "以深度學習技術改進旁通道抵禦能力檢測與訊號軌跡預處理",
+      "schoolYear": "110"
+    },
+    {
+      "name": "(興大)人工智慧時代的硬體安全：威脅與防護(1/2)",
+      "schoolYear": "109"
+    },
+    {
+      "name": "(中興)關鍵資訊基礎設施的資安與隱私防護機制的設計與實作",
+      "schoolYear": "108"
+    },
+    {
+      "name": "(中興)關鍵資訊基礎設施的資安與隱私防護機制的設計與實作-關鍵資訊基礎設施的資安與隱私防護機制的設計與實作(3/3)",
+      "schoolYear": "107"
+    },
+    {
+      "name": "控制物聯網之智慧合約技術",
+      "schoolYear": "107"
+    },
+    {
+      "name": "(中興)關鍵資訊基礎設施的資安與隱私防護機制的設計與實作-關鍵資訊基礎設施的資安與隱私防護機制的設計與實作(2/3)",
+      "schoolYear": "106"
+    },
+    {
+      "name": "以通用圖形處理器加速之旁通道攻防能力檢測工具研究與開發",
+      "schoolYear": "106"
+    },
+    {
+      "name": "物聯網裝置旁通道攻擊抵禦能力之高效檢測方法",
+      "schoolYear": "105"
+    },
+    {
+      "name": "新型代數側通道攻擊之研究—以RC6區塊密碼演算法為例",
+      "schoolYear": "103"
+    }
+  ],
+  "tech": [],
+  "induAca": [
+    "密碼裝置硬體旁通道抵禦分析能力訓練暨顧問專案計畫 (2022-05 to 2022-11)",
+    "資安服務 (2022-01 to 2022-12)",
+    "111年度學術網路資訊分享與分析暨縣市網資訊安全維運計畫 (2022-01 to 2022-12)",
+    "旁通道攻擊自動化偵測與防禦計畫 (2021-04 to 2021-12)",
+    "「資安服務」專案 (2021-01 to 2021-12)",
+    "學術網路資訊分享與分析暨縣市網資訊安全維運計畫 (2021-01 to 2021-12)",
+    "資安服務專案 (2019-01 to 2019-12)",
+    "學術網路資訊分享與分析暨縣市網資訊安全維運計畫 (2019-01 to 2019-12)",
+    "資安服務專案 (2018-01 to 2018-12)",
+    "A-ISAC暨Mini-SOC服務與維運計畫 (2018-01 to 2018-12)",
+    "A-ISAC暨 Mini-SOC服務與維運計畫 (2018-01 to 2018-12)",
+    "106年度新型態資安實務課程計畫─課程計畫名稱：「資訊與網路安全」 (2017-02 to 2018-01)",
+    "資安服務專案 (2017-01 to 2017-12)",
+    "A-ISAC暨Mini-SOC維運與服務計畫 (2017-01 to 2017-12)",
+    "欣銓科技-『105年主機弱點掃描服務專案』 (2016-05 to 2016-12)",
+    "105年度新型態資安實務課程計畫-「系統安全」 (2016-02 to 2017-01)",
+    "A-ISAC暨Mini-SOC維運與服務計畫 (2016-01 to 2016-12)",
+    "A-ISAC暨Mini-SOC維運與服務-性能提升暨可用性強化計畫 (2015-08 to 2016-02)",
+    "A-ISAC暨MiniSOC-維運與服務計畫 (2015-01 to 2015-12)",
+    "資安服務專案 (2014-10 to 2015-10)"
+  ],
+  "perform": [],
+  "reward": [
+    "逢甲大學論文著作獎勵傑出獎 (110, 2021-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (110, 2021-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (110, 2021-11) - 逢甲大學"
+  ],
+  "speech": [
+    {
+      "演講題目": "設計與實作下一個世代智慧型電表-密碼裝置硬體之旁通道攻擊抵禦能力分析",
+      "邀請單位": "TWISC",
+      "演講日期": "2019-01"
+    },
+    {
+      "演講題目": "即時傳輸方式與影像辨識研究說明",
+      "邀請單位": "中央健康保險署台北業務組、逢甲大學",
+      "演講日期": "2018-10"
+    },
+    {
+      "演講題目": "Design and Implementation of a Side-Channel Resistance Verification System for IoT Devices",
+      "邀請單位": "中央研究院資訊科技創新研究中心",
+      "演講日期": "2018-02"
+    },
+    {
+      "演講題目": "A Practical Attack on EasyCard 2.0",
+      "邀請單位": "逢甲大學資訊工程學系",
+      "演講日期": "2014-11"
+    },
+    {
+      "演講題目": "An Algebraic Side Channel Attack on RC6",
+      "邀請單位": "中興大學",
+      "演講日期": "2014-10"
+    }
+  ],
+  "material": [],
+  "tal": []
+}

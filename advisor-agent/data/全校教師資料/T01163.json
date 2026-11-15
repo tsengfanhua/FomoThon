@@ -1,0 +1,401 @@
+{
+  "teacherId": "T01163",
+  "name": "陳鏡崑",
+  "mainUnit": "資訊電機學院",
+  "detailUnit": "自動控制工程學系",
+  "skill": [
+    "生醫訊號與資訊安全加密Biomedical signal and information security encryption",
+    "混沌編碼Chaos coding",
+    "電子電路應用Electronic circuit applications"
+  ],
+  "edu": [
+    "中興大學 電機工程學系 博士",
+    "逢甲大學 自動控制工程學系 碩士",
+    "大葉大學 自動化工程技術 學士"
+  ],
+  "fcuExp": [
+    "自動控制工程學系 兼任助理教授",
+    "自動控制工程學系 助理教授",
+    "自動控制工程學系 副教授"
+  ],
+  "currjob": [],
+  "otherExp": [
+    "達佛羅企業有限公司 管理部 資深機電技術研究員兼經理",
+    "中興大學 電機工程學系 博士後研究人員",
+    "勤益科技大學 冷凍空調系 助理教授",
+    "勤益科技大學 冷凍空調系 講師",
+    "修平技術學院 電機系 講師",
+    "慶鴻機電工業(股)公司 研發部 研發工程師兼課長"
+  ],
+  "journal": [
+    {
+      "論文名稱": "Object Pose Estimation and Feature Extraction Based on PVNet",
+      "期刊名稱": "IEEE Access (SCIE)",
+      "作者群": "Yi-Hsiang Kao, Ching-Kun Chen*, Chin-Cheng Chen, and Chen-Yen Lan"
+    },
+    {
+      "論文名稱": "Lower-Limb Electromyography Signal Analysis for the Bottom Group of Muscles Fitness Norm Before and After Intensive Exercise",
+      "期刊名稱": "Electronics (SCIE)",
+      "作者群": "Ching-Kun Chen*, Shyan-Lung Lin, Tasi-Chu Wang, Yang-Si Huang, and Chieh-Liang Wu"
+    },
+    {
+      "論文名稱": "Heart Rate Variability Analysis for Distinct Cardiopulmonary Fitness Norms Under Different Exercise Intensities",
+      "期刊名稱": "Sports ＆ Exercise Research (TSSCI)",
+      "作者群": "Ching-Kun Chen*, Cheng-Yi Huang, Tasi-Chu Wang, Shyan-Lung Lin, Chieh-Liang Wu, Jer-Yan Lin, Ting-Yen Yao, and Yi-Hua Ko"
+    },
+    {
+      "論文名稱": "A Study of Automatic Judgment of Food Color and Cooking Conditions with Artificial Intelligence Technology",
+      "期刊名稱": "Processes (SCIE)",
+      "作者群": "Chern Sheng Lin*, Yu-Ching Pan, Yu-Xin Kuo, Ching-Kun Chen, Chuen-Lin Tien"
+    },
+    {
+      "論文名稱": "Lower-Limb Electromyography Signal Analysis of Distinct Muscle Fitness Norms under Graded Exercise Intensity",
+      "期刊名稱": "Electronics (SCIE)",
+      "作者群": "Ching-Kun Chen*, Shyan-Lung Lin, Tasi-Chu Wang, Yu-Jie Lin, and Chieh-Liang Wu"
+    },
+    {
+      "論文名稱": "Comparisons of the Nonlinear Relationship of Cerebral Blood Flow Response and Cerebral Vasomotor Reactivity to Carbon Dioxide under Hyperventilation between Postural Orthostatic Tachycardia Syndrome Patients and Healthy Subjects",
+      "期刊名稱": "Journal of Clinical Medicine (SCIE)",
+      "作者群": "Shyan-Lung Lin*, Shoou-Jeng Yeh, Ching-Kun Chen, Yu-Liang Hsu, Chih-En Kuo, Wei-Yu Chen and Cheng-Pu Hsieh"
+    },
+    {
+      "論文名稱": "Statistical Analysis on Heart Rate Variability for Graded Cardiopulmonary Groups with Different Exercise Intensities",
+      "期刊名稱": "Journal of Medical and Biological Engineering (SCIE)",
+      "作者群": "Ching-Kun Chen*, Shyan-Lung Lin, Cheng-Yi Huang, Tasi-Chu Wang, Ting-Yen Yao & Chieh-Liang Wu"
+    },
+    {
+      "論文名稱": "Data Encryption and Transmission Based on Personal ECG Signals",
+      "期刊名稱": "International Journal of Sensor Networks & Data Communication (Open Access)",
+      "作者群": "C. K. Chen*, C. L. Lin, S. L. Lin, and C. T. Chiang"
+    },
+    {
+      "論文名稱": "Individual identification based on chaotic electrocardiogram signals during muscular exercise",
+      "期刊名稱": "IET Biometrics (SCIE)",
+      "作者群": "S. L. Lin, C. K. Chen, C. L. Lin*, W. C. Yang, and C. T. Chiang"
+    },
+    {
+      "論文名稱": "A chaotic theoretical approach to ECG-Based identity recognition",
+      "期刊名稱": "IEEE Computational Intelligence Magazine‏ (SCIE)",
+      "作者群": "C. K. Chen, C. L. Lin*, S. L. Lin, Y. M. Chiu, and C. T. Chiang"
+    },
+    {
+      "論文名稱": "Implementation and validation of ECG-derived respiration with QRS characteristics",
+      "期刊名稱": "Applied Mechanics and Materials (ECONLIT)",
+      "作者群": "S. L. Lin*, C. K. Chen, and C. S. Chien"
+    },
+    {
+      "論文名稱": "A Novel and Experimental Design for Mechanical Ventilation with Optimal Spontaneous Flow Pattern and WOB Feedback Control,",
+      "期刊名稱": "Applied Mechanics and Materials (ECONLIT)",
+      "作者群": "S. L. Lin*, S. S. Hung, C. K. Chen, and H. C. Chang"
+    },
+    {
+      "論文名稱": "Personalized information encryption using ECG signals with chaotic functions",
+      "期刊名稱": "Information Sciences (SCIE)",
+      "作者群": "C. K. Chen, C. L. Lin*, C. T. Chiang, and S. L. Lin"
+    },
+    {
+      "論文名稱": "Balance of emulated MDOF human postural systems",
+      "期刊名稱": "International Journal of Engineering Science (SCIE)",
+      "作者群": "C. L. Lin*, S. L. Hsiao, and C. K. Chen"
+    },
+    {
+      "論文名稱": "Stabilizing postural control for emulated human balancing systems",
+      "期刊名稱": "International Journal of Engineering Science (SCIE)",
+      "作者群": "C. L. Li, C. L. Lin*, and C. K. Chen"
+    },
+    {
+      "論文名稱": "Decoupling control design for dual axes platforms",
+      "期刊名稱": "Journal of the Chinese Society of Mechanical Engineers (SCIE)",
+      "作者群": "H.Y. Jan, C. L. Lin, C. H. Hwang, and C. K. Chen"
+    }
+  ],
+  "journal2": [],
+  "conference": [
+    {
+      "論文名稱": "Lower Limbs EMG Signal Analysis for Bottom Group of Muscles Fitness Norm Before and After Intensive Exercise",
+      "會議名稱": "2021 IEEE 3rd Eurasia Conference on Biomedical Engineering, Healthcare and Sustainability (ECBIOS 2021)",
+      "作者群": "Ching-Kun Chen*, Shyan-Lung Lin, Tasi-Chu Wang, Chih-Cheng Chen, Yang-Si Huang, and Chieh-Liang Wu"
+    },
+    {
+      "論文名稱": "Lower Limbs EMG Signal Analysis for Bottom Group of Muscles Fitness Norm before and after Intensive Exercise",
+      "會議名稱": "2020臺灣運動生物力學年會暨國際運動科學研討會",
+      "作者群": "Yang-Si Huang, Ching-Kun Chen*, Shyan-Lung Lin, Tasi-Chu Wang, Cheng-Yi Huang"
+    },
+    {
+      "論文名稱": "Lower Limbs EMG Signal Analysis of Distinct Muscle Fitness’s Norm under Graded Exercise Intensities",
+      "會議名稱": "2020臺灣運動生物力學年會暨國際運動科學研討會",
+      "作者群": "Yu-Jie Lin, Shyan-Lung Lin*, Ching-Kun Chen, Tasi-Chu Wang, Cheng-Yi Huang"
+    },
+    {
+      "論文名稱": "The Cerebrovascular Response to Carbon Dioxide during Hyperventilation for the Postural Orthostatic Tachycardia Syndrome Patients",
+      "會議名稱": "2nd IEEE Eurasia Conference on IOT, Communication and Engineering 2020 (IEEE ECICE 2020)",
+      "作者群": "Shyan-Lung Lin*, Shoou-Jeng Yeh, Ching-Kun Chen, Chih-En Ku, and Yu-Liang Hsu"
+    },
+    {
+      "論文名稱": "Lower-Limb Electromyography Signal Analysis of Distinct Muscle Fitness Norms under Graded Exercise Intensity",
+      "會議名稱": "2nd IEEE Eurasia Conference on IOT, Communication and Engineering 2020 (IEEE ECICE 2020)",
+      "作者群": "Ching-Kun Chen*, Shyan-Lung Lin, Tasi-Chu Wang, Yu-Jie Lin, and Chieh-Liang Wu"
+    },
+    {
+      "論文名稱": "Analysis of Dynamic Cardiopulmonary Signals and Heart Rate Variability for Distinct Cardiopulmonary Fitness Norms under Graded Exercise and Recovery Periods",
+      "會議名稱": "2019 IEEE Eurasia Conference on Biomedical Engineering, Healthcare and Sustainability(IEEE ECBIOS 2019)",
+      "作者群": "C.K. Chen , S.L. Lin,*, C.Y. Huang , T.C. Wang , T.Y. Yao , C.L. Wu"
+    },
+    {
+      "論文名稱": "Innovated noninvasive assessment of Parkinson’s disease based on measurement of cerebral vasomotor reactivity with transcranial Doppler ultrasonography and capnography",
+      "會議名稱": "4th IEEE International Conference on Applied System Innovation 2018 (IEEE ICASI 2018)",
+      "作者群": "Ching-Kun Chen, Shoou-Jeng Yeh, Shyan-Lung Lin*, Yu-Liang Hsu, and Hsing-Cheng Chang"
+    },
+    {
+      "論文名稱": "Implementation and Validation of ECG-Derived Respiration with QRS Characteristics",
+      "會議名稱": "2013 International Applied Science and Precision Engineering Conference (ASPEC2013)",
+      "作者群": "Shyan-Lung Lin, Ching-Kun Chen, Ching-Sheng Chien"
+    },
+    {
+      "論文名稱": "A Novel and Experimental Design for Mechanical Ventilation with Optimal Spontaneous Flow Pattern and WOB Feedback Control",
+      "會議名稱": "The 2nd International Conference on Engineering and Technology Innovation 2012 (ICETI2012)",
+      "作者群": "Shyan-Lung Lin*, San Shan Hung, Ching-Kun Chen, Hsing-Cheng Chang,"
+    },
+    {
+      "論文名稱": "Reconstruction of Respiratory Pattern from Electrocardiogram based on Characterized QRS with Heart Rate Variability",
+      "會議名稱": "2012 International Conference on New Energy, Biological Engineering and Food Security (NEBEFS 2012)",
+      "作者群": "Shyan-Lung Lin*, Ching-Sheng Chien, Ching-Kun Chen, Wen-Chan Yang"
+    },
+    {
+      "論文名稱": "Health Care Platform Based on Acquisition of ECG for HRV analysis",
+      "會議名稱": "2012 10th IEEE International Conference on Industrial Informatics (INDIN)",
+      "作者群": "Y. H. Hsu, C. L. Lin, C. K. Chen, C. T. Chiang, and W. T. Yang"
+    },
+    {
+      "論文名稱": "Adaptive IPM-Based Lane Filtering for Night Forward Vehicle Detection",
+      "會議名稱": "The 6th IEEE Conference on Industrial Electronics and Applications",
+      "作者群": "Y. C. Lin, C. C. Lin, L. T. Chen, and C. K. Chen"
+    },
+    {
+      "論文名稱": "Individual identification based on chaotic electrocardiogram signals",
+      "會議名稱": "The 6th IEEE Conference on Industrial Electronics and Applications",
+      "作者群": "C. K. Chen, C. L. Lin, and Y. M. Chiu"
+    },
+    {
+      "論文名稱": "Text encryption using ECG signals with chaotic logistic map",
+      "會議名稱": "The 5th IEEE Conference on Industrial Electronics and Applicationsis",
+      "作者群": "C. K. Chen and C. L. Lin"
+    },
+    {
+      "論文名稱": "Data encryption using ECG signals with chaotic Henon map",
+      "會議名稱": "International Conference on Information Science and Applications(ICISA 2010)",
+      "作者群": "C. K. Chen, C. L. Lin, and Y. M. Chiu"
+    },
+    {
+      "論文名稱": "Point stabilization for autonomous lawnmower using backstepping adaptive control",
+      "會議名稱": "2010 IEEE International Conference on Industrial Technology",
+      "作者群": "P. M. Hsu, C. L. Lin, C. K. Chen, and C. H. Huang"
+    },
+    {
+      "論文名稱": "Signal transduction networks in biological systems based on Michaelis-Menten equation and S-System",
+      "會議名稱": "The 7th WSEAS international conference on Computational intelligence, man-machine systems and cybernetics",
+      "作者群": "Y. W. Liu, C. K. Chen and C. L. Lin"
+    },
+    {
+      "論文名稱": "Decoupling control design for dual axes platforms",
+      "會議名稱": "International Conference on Advanced Manufacture",
+      "作者群": "H. Y. Jan, C. L. Lin, C. H. Hwang, and C. K. Chen"
+    },
+    {
+      "論文名稱": "具最佳呼吸範型形之送氣裝置與控制\r\n",
+      "會議名稱": "中華民國九十四年度生物醫學工程科技研討會",
+      "作者群": "林賢龍、楊正宏、洪三山、陳鏡崑"
+    },
+    {
+      "論文名稱": "免噴流快速排渣高速形雕放電加工機",
+      "會議名稱": " 92國防工業訓儲制度研發論文集",
+      "作者群": "陳鏡崑、盧志明、陳耀騰、李賢良"
+    },
+    {
+      "論文名稱": "呼吸控制模擬系統中送氣裝置之改良研究",
+      "會議名稱": "中華民國八十九年Y2K生醫科技研討會",
+      "作者群": "林賢龍、陳鏡崑、馮俊瑋、楊正宏"
+    },
+    {
+      "論文名稱": "以最佳化與類神經控制器為基礎之人工呼吸器模擬機構",
+      "會議名稱": "2000工程科技與中西醫學應用研討會",
+      "作者群": "林賢龍、楊正宏、陳鏡崑"
+    },
+    {
+      "論文名稱": "具最佳呼吸氣流波形之送氣裝置與控制",
+      "會議名稱": "中華民國八十八年醫學工程科技研討會",
+      "作者群": "林賢龍、楊正宏、陳鏡崑"
+    }
+  ],
+  "book": [],
+  "patent": [
+    {
+      "title": "發明",
+      "desc": "手持式自動刺激穴道系統"
+    },
+    {
+      "title": "發明",
+      "desc": "手持式自動刺激穴道系統"
+    },
+    {
+      "title": "發明",
+      "desc": "以指紋與混沌心電訊號為基礎之個人資料加/解密系統"
+    },
+    {
+      "title": "新型",
+      "desc": "使用於線切割機的細修加工電路"
+    },
+    {
+      "title": "新型",
+      "desc": "放電加工機之放電保護電路"
+    },
+    {
+      "title": "發明",
+      "desc": "自主式除草機的最佳路徑之運算方法"
+    }
+  ],
+  "most": [
+    {
+      "name": "基於智慧視覺辨識之自助式垃圾與回收分類系統",
+      "schoolYear": "112"
+    },
+    {
+      "name": "移動物體感測定位之月台無障礙系統",
+      "schoolYear": "111"
+    },
+    {
+      "name": "基於3D立體視覺之工件特徵描述與辨識",
+      "schoolYear": "110"
+    },
+    {
+      "name": "基於非線性腦血管調控的自律神經功能失調臨床決策支持系統研發II",
+      "schoolYear": "110"
+    },
+    {
+      "name": "機動車輛之大車盲區主動預警系統",
+      "schoolYear": "110"
+    },
+    {
+      "name": "基於人體穴道影像辨識與定位技術之手持式自動針灸/按摩系統",
+      "schoolYear": "109"
+    },
+    {
+      "name": "利用智慧型手機實現病床與輪椅之變形控制",
+      "schoolYear": "108"
+    },
+    {
+      "name": "基於影像處理與機械手臂整合應用之咖啡豆自動瑕疵檢測系統",
+      "schoolYear": "107"
+    }
+  ],
+  "tech": [],
+  "induAca": [
+    "智慧機械之關鍵零組件生產技術整合與提升 (2020-06 to 2020-12)"
+  ],
+  "perform": [],
+  "reward": [
+    "112-2教學滿意度全校前10% (113, 2024-10) - 逢甲大學",
+    "112-2教學滿意度全校前10% (113, 2024-10) - 逢甲大學",
+    "112-1教學滿意度全校前10% (112, 2024-04) - 逢甲大學",
+    "112-1教學滿意度全校前10% (112, 2024-04) - 逢甲大學",
+    "112-1教學滿意度全校前10% (112, 2024-04) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "111-2教學滿意度全校前10% (112, 2023-10) - 逢甲大學",
+    "111-1教學滿意度全校前10% (111, 2023-04) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (111, 2022-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (111, 2022-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (111, 2022-11) - 逢甲大學",
+    "110-1教學滿意度全校前10% (110, 2022-04) - 逢甲大學",
+    "110-1教學滿意度全校前10% (110, 2022-04) - 逢甲大學",
+    "110-1勤學有禮2.0活動競賽第一名 (110, 2022-01) - 逢甲大學",
+    "2021永續智慧創新黑客松競賽第三名 (110, 2021-12) - 中國醫大附設醫院",
+    "逢甲大學論文著作獎勵傑出獎 (110, 2021-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (110, 2021-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (110, 2021-11) - 逢甲大學",
+    "109-2教學滿意度全校前10% (110, 2021-11) - 逢甲大學",
+    "109-2教學滿意度全校前10% (110, 2021-11) - 逢甲大學",
+    "109學年度行政服務優良教師 (109, 2021-06) - 逢甲大學",
+    "2021 IEEE Eurasia Conference on Biomedical Engineering, Healthcare and Sustainability--Best Paper Award (109, 2021-06) - International Institute of Knowledge Innovation and Invention",
+    "109-1教學滿意度全校前10% (109, 2021-05) - 逢甲大學",
+    "108-2教學滿意度全校前10% (109, 2020-11) - 逢甲大學",
+    "108-1教學滿意度全校前10% (108, 2020-05) - 逢甲大學",
+    "107-2教學滿意度全校前10% (108, 2019-11) - 逢甲大學",
+    "107-2教學滿意度全校前10% (108, 2019-11) - 逢甲大學",
+    "107學年度行政服務優良教師 (108, 2019-09) - 逢甲大學",
+    "2019 IEEE Eurasia Conference on Biomedical Engineering, Healthcare and Sustainability--Best Paper Award (107, 2019-05) - International Institute of Knowledge Innovation and Invention",
+    "107-1教學滿意度全校前10% (107, 2019-05) - 逢甲大學",
+    "106-2教學滿意度全校前10% (107, 2018-11) - 逢甲大學",
+    "2018 Pickathon 競賽『機器人技術闖關組』團隊合作獎 (107, 2018-11) - 中科管理局",
+    "102-1教學滿意度全校前10% (102, 2014-03) - 逢甲大學"
+  ],
+  "speech": [
+    {
+      "演講題目": "「學習不一樣」之物物相聯，以Python結合溫溼度感測顯示的電子紙",
+      "邀請單位": "臺中市立大理高中",
+      "演講日期": "2022-12"
+    },
+    {
+      "演講題目": "電子電路控制應用技術(線上)",
+      "邀請單位": "經濟部工業局金屬機電智機化暨人才扎根計畫",
+      "演講日期": "2022-08"
+    },
+    {
+      "演講題目": "「學習不一樣」之物物相聯，以Python結合溫溼度感測顯示的電子紙",
+      "邀請單位": "臺中市立大理高中",
+      "演講日期": "2022-04"
+    },
+    {
+      "演講題目": "2022預見逢甲(Open House)_學系特色與應試重點說明",
+      "邀請單位": "逢甲大學招生事務處",
+      "演講日期": "2022-03"
+    },
+    {
+      "演講題目": "111逢甲大學特殊選才招生說明會(台中場)-自動控制工程學系介紹與入學準備",
+      "邀請單位": "逢甲大學招生事務處",
+      "演講日期": "2021-10"
+    },
+    {
+      "演講題目": "逢甲大學校系宣講-自動控制工程學系介紹",
+      "邀請單位": "臺中市立龍津高中",
+      "演講日期": "2021-10"
+    },
+    {
+      "演講題目": "電子電路控制應用技術(線上)",
+      "邀請單位": "經濟部工業局金屬機電智機化暨人才扎根計畫",
+      "演講日期": "2021-07"
+    },
+    {
+      "演講題目": "電子電路控制應用技術",
+      "邀請單位": "經濟部工業局金屬機電智機化暨人才扎根計畫",
+      "演講日期": "2020-05"
+    },
+    {
+      "演講題目": "電子電路控制應用技術",
+      "邀請單位": "經濟部工業局金屬機電智機化暨人才扎根計畫",
+      "演講日期": "2019-08"
+    },
+    {
+      "演講題目": "當代台灣工業化、機械化及自動化問題",
+      "邀請單位": "2019年春季文化經濟研習班",
+      "演講日期": "2019-03"
+    },
+    {
+      "演講題目": "電子電路控制應用技術",
+      "邀請單位": "經濟部工業局金屬機電智機化暨人才扎根計畫",
+      "演講日期": "2018-07"
+    },
+    {
+      "演講題目": "提升個人競爭力-學日本年輕人最火紅的PDCA循環",
+      "邀請單位": "自動控制工程學系",
+      "演講日期": "2017-12"
+    },
+    {
+      "演講題目": "以混沌心電訊號為基礎之資訊安全傳輸",
+      "邀請單位": "自動控制工程學系",
+      "演講日期": "2017-10"
+    }
+  ],
+  "material": [],
+  "tal": []
+}

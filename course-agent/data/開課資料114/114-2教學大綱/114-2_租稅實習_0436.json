@@ -1,0 +1,680 @@
+{
+  "success": true,
+  "info": {
+    "yms_year": 114.0,
+    "yms_smester": 2.0,
+    "sub_id": "37006",
+    "cls_id": "CB05139",
+    "scr_dup": "001",
+    "sub_id3": "PF3965",
+    "cls_name": "財稅三合",
+    "cls_ename": "Department of Public Finance",
+    "sub_name": "租稅實習",
+    "sub_ename": "TAXATION INTERNSHIP",
+    "scr_mso": "選修",
+    "scr_mso_en": "Elective",
+    "scr_credit": 2.0,
+    "scr_periodly": "(一)00",
+    "scr_periodly_eng": "(Mon)00",
+    "lang_name": "中文                                                      ",
+    "lang_ename": "Chinese",
+    "scr_room": "待排",
+    "scr_room_eng": "TBD",
+    "scr_teacher": "梁景洋,黃瓊如,游慧光,黃定遠,陳盛通,黃琝琇,孫鈺峯,吳朝欽,林美惠",
+    "scr_teacher_eng": "Mei-Hui Lin,Chiung-Ju Huang,Hui-Kuang Yu,Ting-Yuan Huang,Sheng-Tung Chen,Wen-Hsiu Huang,Yu-Fong Sun,Tsaur-Chin Wu,Mei-Hui Lin",
+    "scr_selcode": "0436",
+    "scr_elearning": "全學期",
+    "scr_elearning_en": "Full semester",
+    "scr_hours": "1",
+    "scr_english": "N",
+    "unt_name": null,
+    "unt_ename": null,
+    "link_traminal": null,
+    "link_traminal_en": null,
+    "scr_ldl": "D",
+    "course_mk": "N",
+    "teams_mk": "N",
+    "sub_title": null,
+    "sub_title_en": null,
+    "sub_describe": null,
+    "sub_describe_en": null,
+    "hasDescription": null,
+    "hasInstructor": null,
+    "hasTA": null,
+    "hasTextBooks": null,
+    "hasReadings": null,
+    "hasiSoftwares": null,
+    "hasAssistSoftwares": null,
+    "hasObjective": null,
+    "hasWeeklyScds": null,
+    "hasGradeRules": null,
+    "hasGradeRuleDescribe": null,
+    "hasIntegrity": null,
+    "hasCoursePol": null,
+    "hasCourseRem": null,
+    "hasObjectiveReleation": null,
+    "hasTopicSdgs": null,
+    "hasTopicAiIndicators": null,
+    "hasSubTitleDesc": null
+  },
+  "subTitleDesc": null,
+  "description": {
+    "sub_id3": null,
+    "sub_name": "租稅實習",
+    "sub_ename": "TAXATION INTERNSHIP",
+    "describe_ch": "本課程提供租稅實務訓練，安排學生至稅務機關參與租稅稽徵業務的實際作業，以瞭解租稅申報實務、稽徵程序、租稅罰則等，將理論與實務相結合，落實學習成效。",
+    "describe_eh": "This course offers practical training for taxation. Arrange for students to the tax authorities to participate in actual tax administrative services in order to gain hands-on experience pertaining to tax declaration practices, tax levy procedures, tax penalty regulations and so on. Combine the tax theory and tax practices and promote the learning outcome.",
+    "pre_subname": "PF2040租稅法(一)、PF2041租稅法(二)",
+    "pre_sub_id3": "PF2040",
+    "pre_sub_ename": "PF2040 TAX LAW(1)、PF2041 TAX LAW(2)",
+    "pre_describe": null,
+    "pre_describe_en": null,
+    "scr_credit": 2.0
+  },
+  "targets": [
+    {
+      "seq": 1,
+      "describe_ch": " 能使用相關資料，進行網路及一般租稅申報",
+      "describe_en": "Use related data to file tax via network or tax forms."
+    },
+    {
+      "seq": 2,
+      "describe_ch": "能以書面或口頭方式將所獲結果與納稅人、稅務人員、同儕及教師溝通　",
+      "describe_en": " Communicate results in written or oral form to taxpayers, tax officials, schoolmates, and the instructor."
+    },
+    {
+      "seq": 3,
+      "describe_ch": "能運用資訊科技處理稅務資料的能力　",
+      "describe_en": "Use computer information technology to process and analyze tax data."
+    }
+  ],
+  "teachersInfo": [
+    {
+      "cname": "梁景洋",
+      "ename": "Ching-Yang Liang",
+      "period": " ",
+      "roletype": 0,
+      "email": "liangcy@o365.fcu.edu.tw",
+      "ext": "4314"
+    },
+    {
+      "cname": "黃瓊如",
+      "ename": "Chiung-Ju Huang",
+      "period": "(Mon)07-08 商801A,(Tue)07-08 商801A",
+      "roletype": 0,
+      "email": "cjhuang@o365.fcu.edu.tw",
+      "ext": "4307"
+    },
+    {
+      "cname": "游慧光",
+      "ename": "Hui-Kuang Yu",
+      "period": "(Mon)06-07 行二308,(Tue)06-07 行二308",
+      "roletype": 0,
+      "email": "hkyu@o365.fcu.edu.tw",
+      "ext": "4309"
+    },
+    {
+      "cname": "黃定遠",
+      "ename": "Ting-Yuan Huang",
+      "period": "(Wed)07-08 商1158,(Thu)03-04 商1158",
+      "roletype": 0,
+      "email": "tyhuang@o365.fcu.edu.tw",
+      "ext": "4313"
+    },
+    {
+      "cname": "陳盛通",
+      "ename": "Sheng-Tung Chen",
+      "period": "(Mon)03-04 商1139,(Wed)03-04 商1139",
+      "roletype": 0,
+      "email": "stonchen@o365.fcu.edu.tw",
+      "ext": "4310"
+    },
+    {
+      "cname": "黃琝琇",
+      "ename": "Wen-Hsiu Huang",
+      "period": "(Tue)05  商1118,(Wed)06-07 商1118,(Thu)06-07 商1118",
+      "roletype": 0,
+      "email": "wenhhuang@o365.fcu.edu.tw",
+      "ext": "4308"
+    },
+    {
+      "cname": "孫鈺峯",
+      "ename": "Yu-Fong Sun",
+      "period": "(Tue)06  商1014,(Wed)02-03 商1014,(Wed)04  商1014",
+      "roletype": 0,
+      "email": "yfsun@o365.fcu.edu.tw",
+      "ext": "4322"
+    },
+    {
+      "cname": "吳朝欽",
+      "ename": "Tsaur-Chin Wu",
+      "period": "(Tue)02-03 商1115,(Wed)02-03 商1115",
+      "roletype": 0,
+      "email": "wutc@o365.fcu.edu.tw",
+      "ext": "4305"
+    },
+    {
+      "cname": "林美惠",
+      "ename": "Mei-Hui Lin",
+      "period": "(Wed)02-03 商1124,(Thu)02-03 商1124",
+      "roletype": 0,
+      "email": "meihlin@o365.fcu.edu.tw",
+      "ext": "4302"
+    }
+  ],
+  "textBooks": {
+    "yms_year": 114.0,
+    "yms_smester": 2.0,
+    "cls_id": "CB05139",
+    "sub_id": "37006",
+    "scr_dup": "001",
+    "tpb_seq": 1,
+    "tpb_book": "<div>會計與租稅時論：法規、理論與實務</div>\n",
+    "tpb_book_en": " "
+  },
+  "readings": {
+    "yms_year": 114.0,
+    "yms_smester": 2.0,
+    "cls_id": "CB05139",
+    "sub_id": "37006",
+    "scr_dup": "001",
+    "tpc_seq": 1,
+    "tpc_book": "<div>謹守職場倫理、良好職場人際關係的維持</div>\n",
+    "tpc_book_en": " "
+  },
+  "iSoftwares": [],
+  "assistSoftwares": [],
+  "weeklyScds": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CB05139",
+      "sub_id": "37006",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "1-4",
+      "tpd_reading": "<div>1.準備階段:由授課教師與分發企業共同完成實習內容及架構之規劃與企業導師之選定</div>\n",
+      "tpd_reading_en": " ",
+      "tpd_learn": " ",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CB05139",
+      "sub_id": "37006",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "1-4",
+      "tpd_reading": "<div>2.準備階段:學生選定國稅局實習單位</div>\n",
+      "tpd_reading_en": " ",
+      "tpd_learn": " ",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CB05139",
+      "sub_id": "37006",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "1-4",
+      "tpd_reading": "<div>3.準備階段: 學習導論課程融入，學生參加行前說明會</div>\n",
+      "tpd_reading_en": " ",
+      "tpd_learn": " ",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CB05139",
+      "sub_id": "37006",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "1-4",
+      "tpd_reading": "<div>4.實習階段：由學生赴分發企業實習</div>\n",
+      "tpd_reading_en": " ",
+      "tpd_learn": " ",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CB05139",
+      "sub_id": "37006",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "1-4",
+      "tpd_reading": "<div>5.實習階段：老師前往實習單位訪視</div>\n",
+      "tpd_reading_en": " ",
+      "tpd_learn": " ",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CB05139",
+      "sub_id": "37006",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "1-4",
+      "tpd_reading": "<div>6.檢討階段：實習階段結束後學生繳交實習心得及各項應繳回的資料</div>\n",
+      "tpd_reading_en": " ",
+      "tpd_learn": " ",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CB05139",
+      "sub_id": "37006",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "1-4",
+      "tpd_reading": "<div>7.檢討階段：實習階段結束後由授課教師根據學生及企業導師所繳各項資料，評估學生實習課程之最後成績</div>\n",
+      "tpd_reading_en": " ",
+      "tpd_learn": " ",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    }
+  ],
+  "gradeRules": [],
+  "gradeRuleDescribe": {
+    "yms_year": 114.0,
+    "yms_smester": 2.0,
+    "cls_id": "CB05139",
+    "sub_id": "37006",
+    "scr_dup": "001",
+    "tpa_score_new": "實習考核評量由授課教師負責，評鑑項目包括下列各項：\n\n一、 實習週記：佔 30%。\n\n二、 實習生考核評量表：佔 30%。\n\n三、 實習報告：佔 40%。\n\n四、 實習學生請假應依實習機構相關規定辦理，若缺勤時數累計超過該課程總時數三分之一，則該次校外實習成績以零分計算。",
+    "tpa_score_new_en": " ",
+    "course_pol": "實習期間不准使用影印及盜版教材。工作期間在辦公室請勿吃食、玩手機或趴睡。若有需要短暫離開工作崗位，應盡快返回。",
+    "course_pol_en": null,
+    "course_rem": "溫馨提醒：希望同學實習前做好相關準備工，實習成效加倍。",
+    "course_rem_en": null,
+    "ais_meno": "<div>參加職前訓練、在職訓練或工作團隊畣誡時，應信守誠實及榮譽原則，提供專業正確有益的建言鼓，與學長姊相互砥勵，以提昇實習成效。</div>\n",
+    "ais_meno_en": null,
+    "ilearn_mk": null
+  },
+  "integrity": {
+    "yms_year": 114.0,
+    "yms_smester": 2.0,
+    "cls_id": "CB05139",
+    "sub_id": "37006",
+    "scr_dup": "001",
+    "tpa_score_new": "實習考核評量由授課教師負責，評鑑項目包括下列各項：\n\n一、 實習週記：佔 30%。\n\n二、 實習生考核評量表：佔 30%。\n\n三、 實習報告：佔 40%。\n\n四、 實習學生請假應依實習機構相關規定辦理，若缺勤時數累計超過該課程總時數三分之一，則該次校外實習成績以零分計算。",
+    "tpa_score_new_en": " ",
+    "course_pol": "實習期間不准使用影印及盜版教材。工作期間在辦公室請勿吃食、玩手機或趴睡。若有需要短暫離開工作崗位，應盡快返回。",
+    "course_pol_en": null,
+    "course_rem": "溫馨提醒：希望同學實習前做好相關準備工，實習成效加倍。",
+    "course_rem_en": null,
+    "ais_meno": "<div>參加職前訓練、在職訓練或工作團隊畣誡時，應信守誠實及榮譽原則，提供專業正確有益的建言鼓，與學長姊相互砥勵，以提昇實習成效。</div>\n",
+    "ais_meno_en": null,
+    "ilearn_mk": null
+  },
+  "policy": {
+    "yms_year": 114.0,
+    "yms_smester": 2.0,
+    "cls_id": "CB05139",
+    "sub_id": "37006",
+    "scr_dup": "001",
+    "tpa_score_new": "實習考核評量由授課教師負責，評鑑項目包括下列各項：\n\n一、 實習週記：佔 30%。\n\n二、 實習生考核評量表：佔 30%。\n\n三、 實習報告：佔 40%。\n\n四、 實習學生請假應依實習機構相關規定辦理，若缺勤時數累計超過該課程總時數三分之一，則該次校外實習成績以零分計算。",
+    "tpa_score_new_en": " ",
+    "course_pol": "實習期間不准使用影印及盜版教材。工作期間在辦公室請勿吃食、玩手機或趴睡。若有需要短暫離開工作崗位，應盡快返回。",
+    "course_pol_en": null,
+    "course_rem": "溫馨提醒：希望同學實習前做好相關準備工，實習成效加倍。",
+    "course_rem_en": null,
+    "ais_meno": "<div>參加職前訓練、在職訓練或工作團隊畣誡時，應信守誠實及榮譽原則，提供專業正確有益的建言鼓，與學長姊相互砥勵，以提昇實習成效。</div>\n",
+    "ais_meno_en": null,
+    "ilearn_mk": null
+  },
+  "courseBankC": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CB05139",
+      "sub_id": "37006",
+      "scr_dup": "001",
+      "seq": 1,
+      "describe_ch": " 能使用相關資料，進行網路及一般租稅申報",
+      "describe_en": "Use related data to file tax via network or tax forms.",
+      "core_id": "D",
+      "core_item": "學生具備跨領域及問題解決能力",
+      "core_eng": "Students possess interdisciplinary capabilities and problem-solving skills, supported by appropriate analytical techniques.",
+      "core_level": "3 ",
+      "strgy": [
+        "17"
+      ],
+      "evalb": [
+        "F2",
+        "G3"
+      ],
+      "strgy_name": [
+        "產業實習"
+      ],
+      "strgy_name_en": [
+        "Internship"
+      ],
+      "evalb_name": [
+        "口頭評量",
+        "心得報告"
+      ],
+      "evalb_name_en": [
+        "Oral evaluation",
+        "Report on gained knowledge"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CB05139",
+          "sub_id": "37006",
+          "scr_dup": "001",
+          "seq": 1,
+          "strgy_id": "17",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CB05139",
+          "sub_id": "37006",
+          "scr_dup": "001",
+          "seq": 1,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "F2",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CB05139",
+          "sub_id": "37006",
+          "scr_dup": "001",
+          "seq": 1,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "G3",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CB05139",
+      "sub_id": "37006",
+      "scr_dup": "001",
+      "seq": 2,
+      "describe_ch": "能以書面或口頭方式將所獲結果與納稅人、稅務人員、同儕及教師溝通　",
+      "describe_en": " Communicate results in written or oral form to taxpayers, tax officials, schoolmates, and the instructor.",
+      "core_id": "B",
+      "core_item": "學生具備溝通技巧",
+      "core_eng": "Students are able to be effective communicators.",
+      "core_level": "2 ",
+      "strgy": [
+        "17"
+      ],
+      "evalb": [
+        "F2",
+        "G3"
+      ],
+      "strgy_name": [
+        "產業實習"
+      ],
+      "strgy_name_en": [
+        "Internship"
+      ],
+      "evalb_name": [
+        "口頭評量",
+        "心得報告"
+      ],
+      "evalb_name_en": [
+        "Oral evaluation",
+        "Report on gained knowledge"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CB05139",
+          "sub_id": "37006",
+          "scr_dup": "001",
+          "seq": 2,
+          "strgy_id": "17",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CB05139",
+          "sub_id": "37006",
+          "scr_dup": "001",
+          "seq": 2,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "F2",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CB05139",
+          "sub_id": "37006",
+          "scr_dup": "001",
+          "seq": 2,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "G3",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CB05139",
+      "sub_id": "37006",
+      "scr_dup": "001",
+      "seq": 3,
+      "describe_ch": "能運用資訊科技處理稅務資料的能力　",
+      "describe_en": "Use computer information technology to process and analyze tax data.",
+      "core_id": "E",
+      "core_item": "學生具備國際觀",
+      "core_eng": "Students are able to have a global perspective.",
+      "core_level": "5 ",
+      "strgy": [
+        "17"
+      ],
+      "evalb": [
+        "F2",
+        "G3"
+      ],
+      "strgy_name": [
+        "產業實習"
+      ],
+      "strgy_name_en": [
+        "Internship"
+      ],
+      "evalb_name": [
+        "口頭評量",
+        "心得報告"
+      ],
+      "evalb_name_en": [
+        "Oral evaluation",
+        "Report on gained knowledge"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CB05139",
+          "sub_id": "37006",
+          "scr_dup": "001",
+          "seq": 3,
+          "strgy_id": "17",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CB05139",
+          "sub_id": "37006",
+          "scr_dup": "001",
+          "seq": 3,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "F2",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CB05139",
+          "sub_id": "37006",
+          "scr_dup": "001",
+          "seq": 3,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "G3",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    }
+  ],
+  "topicSdgs": [],
+  "topicAiIndicators": [],
+  "learnHours": {
+    "total": 0.0,
+    "tpdOnlineAsyTotal": 0.0,
+    "tpdOnlineSynTotal": 0.0,
+    "tpdOnlineFaceTotal": 0.0,
+    "asySynInTotalPercent": 0.0
+  },
+  "crossVerYear": 114
+}

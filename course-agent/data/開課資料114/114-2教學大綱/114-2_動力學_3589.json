@@ -1,0 +1,1320 @@
+{
+  "success": true,
+  "info": {
+    "yms_year": 114.0,
+    "yms_smester": 2.0,
+    "sub_id": "36680",
+    "cls_id": "CE01129",
+    "scr_dup": "001",
+    "sub_id3": "CE2011",
+    "cls_name": "土木二合",
+    "cls_ename": "Department of Civil Engineering",
+    "sub_name": "動力學",
+    "sub_ename": "DYNAMICS",
+    "scr_mso": "選修",
+    "scr_mso_en": "Elective",
+    "scr_credit": 2.0,
+    "scr_periodly": "(五)06-07",
+    "scr_periodly_eng": "(Fri)06-07",
+    "lang_name": "中文                                                      ",
+    "lang_ename": "Chinese",
+    "scr_room": "學101",
+    "scr_room_eng": "XSB101",
+    "scr_teacher": "紀懿恩",
+    "scr_teacher_eng": "Yi-En Ji",
+    "scr_selcode": "3589",
+    "scr_elearning": "全學期",
+    "scr_elearning_en": "Full semester",
+    "scr_hours": "2",
+    "scr_english": "N",
+    "unt_name": null,
+    "unt_ename": null,
+    "link_traminal": null,
+    "link_traminal_en": null,
+    "scr_ldl": "D",
+    "course_mk": "N",
+    "teams_mk": "N",
+    "sub_title": null,
+    "sub_title_en": null,
+    "sub_describe": null,
+    "sub_describe_en": null,
+    "hasDescription": null,
+    "hasInstructor": null,
+    "hasTA": null,
+    "hasTextBooks": null,
+    "hasReadings": null,
+    "hasiSoftwares": null,
+    "hasAssistSoftwares": null,
+    "hasObjective": null,
+    "hasWeeklyScds": null,
+    "hasGradeRules": null,
+    "hasGradeRuleDescribe": null,
+    "hasIntegrity": null,
+    "hasCoursePol": null,
+    "hasCourseRem": null,
+    "hasObjectiveReleation": null,
+    "hasTopicSdgs": null,
+    "hasTopicAiIndicators": null,
+    "hasSubTitleDesc": null
+  },
+  "subTitleDesc": null,
+  "description": {
+    "sub_id3": null,
+    "sub_name": "動力學",
+    "sub_ename": "DYNAMICS",
+    "describe_ch": "學習質點與剛體運動學，包括位置、速度及加速度等。學習質點與剛體動力學，包括牛頓第二運動定律、功與能量、衝量與動量等。。",
+    "describe_eh": "Study of the kinematics of particles and rigid bodies, including position, velocity and acceleration. Kinetics of particles and rigid bodies, including Newton's 2nd law of motion, work and energy, impulse and momentum.",
+    "pre_subname": "CEM1006微積分、ENGS1006應用力學",
+    "pre_sub_id3": "CEM1006",
+    "pre_sub_ename": "CEM1006 CALCULUS、ENGS1006 APPLIED MECHANICS",
+    "pre_describe": null,
+    "pre_describe_en": null,
+    "scr_credit": 2.0
+  },
+  "targets": [
+    {
+      "seq": 1,
+      "describe_ch": "能瞭解工程動力學之基本觀念。",
+      "describe_en": "Learn the fundamental concepts of engineering dynamics."
+    },
+    {
+      "seq": 2,
+      "describe_ch": "能建立動力學問題之數學模型。\n",
+      "describe_en": "Learn the mathematical formulations of dynamics problems."
+    },
+    {
+      "seq": 3,
+      "describe_ch": "能分析質點與剛體之動力學應用問題。",
+      "describe_en": "Analyze the dynamics of particles and rigid bodies with application."
+    },
+    {
+      "seq": 4,
+      "describe_ch": "學會應用於動力學及座標轉換之向量代數及向量微積分。",
+      "describe_en": "To study vector algebra and vector calculus in dynamics and transformation of coordinates."
+    },
+    {
+      "seq": 5,
+      "describe_ch": "學會不同坐標下之質點運動學及剛體運動學。",
+      "describe_en": "To study the kinematics of particles in various coordinates and kinematics of rigid bodies."
+    },
+    {
+      "seq": 6,
+      "describe_ch": "學會質點及剛體動力學-牛頓運動定律。",
+      "describe_en": "To study the kinetics of a particle and a rigid body under Newton laws of motion."
+    },
+    {
+      "seq": 7,
+      "describe_ch": "學會質點及剛體動力學另一型式-功與能量、衝量與動量。",
+      "describe_en": "To study the kinetics of a particle and a rigid body in alternate forms: work and energy, impulse and momentum."
+    }
+  ],
+  "teachersInfo": [
+    {
+      "cname": "紀懿恩",
+      "ename": "Yi-En Ji",
+      "period": " ",
+      "roletype": 0,
+      "email": "yeji@o365.fcu.edu.tw",
+      "ext": "3122"
+    },
+    {
+      "cname": "朱韻如",
+      "ename": "CHU YUN JU",
+      "period": " ",
+      "roletype": 1,
+      "email": "m1305466@o365.fcu.edu.tw",
+      "ext": " "
+    }
+  ],
+  "textBooks": {
+    "yms_year": 114.0,
+    "yms_smester": 2.0,
+    "cls_id": "CE01129",
+    "sub_id": "36680",
+    "scr_dup": "001",
+    "tpb_seq": 1,
+    "tpb_book": "<div>應用力學－動力學 (2017) ，R. C. Hibbeler&nbsp;原著， 溫炯亮、王派祥 編譯， 高立圖書</div>\n",
+    "tpb_book_en": null
+  },
+  "readings": {
+    "yms_year": 114.0,
+    "yms_smester": 2.0,
+    "cls_id": "CE01129",
+    "sub_id": "36680",
+    "scr_dup": "001",
+    "tpc_seq": 1,
+    "tpc_book": "<div>Russell C. Hibbeler, Engineering Mechanics－Dynamics 14/E (SI Units) (2017)</div>\n",
+    "tpc_book_en": null
+  },
+  "iSoftwares": [],
+  "assistSoftwares": [],
+  "weeklyScds": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CE01129",
+      "sub_id": "36680",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "1",
+      "tpd_reading": "<div>和平紀念日調整放假一天&nbsp;</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": null,
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": " ",
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": 0.0,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CE01129",
+      "sub_id": "36680",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "2",
+      "tpd_reading": "<div>動力學簡介</div>\n\n<div>質點的直線運動</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": null,
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CE01129",
+      "sub_id": "36680",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "3",
+      "tpd_reading": "<div>質點的直線運動</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": null,
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CE01129",
+      "sub_id": "36680",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "4",
+      "tpd_reading": "<div>質點的曲線運動</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": null,
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CE01129",
+      "sub_id": "36680",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "5-6",
+      "tpd_reading": "<div>質點的曲線運動</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": null,
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CE01129",
+      "sub_id": "36680",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "7",
+      "tpd_reading": "<div>質點動力學</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": null,
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CE01129",
+      "sub_id": "36680",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "8",
+      "tpd_reading": "<div>期中考</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": null,
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CE01129",
+      "sub_id": "36680",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "9-10",
+      "tpd_reading": "<div>質點運動的功與能</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": null,
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CE01129",
+      "sub_id": "36680",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "11",
+      "tpd_reading": "<div>質點運動的功能原理</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": null,
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CE01129",
+      "sub_id": "36680",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "12",
+      "tpd_reading": "<div>衝量與動量</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": null,
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CE01129",
+      "sub_id": "36680",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "13",
+      "tpd_reading": "<div>期中考</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": null,
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CE01129",
+      "sub_id": "36680",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "14-17",
+      "tpd_reading": "<div>實作</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": null,
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CE01129",
+      "sub_id": "36680",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "18",
+      "tpd_reading": "<div>期末競賽</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": null,
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    }
+  ],
+  "gradeRules": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CE01129",
+      "sub_id": "36680",
+      "scr_dup": "001",
+      "evalb_id": "D1",
+      "score_rate": 40,
+      "evalb_memo": "兩次考試各佔20%",
+      "evalb_memo_en": null,
+      "evalb_name": "期中考",
+      "evalb_name_en": "Midterm examination",
+      "seq": 1
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CE01129",
+      "sub_id": "36680",
+      "scr_dup": "001",
+      "evalb_id": "D5",
+      "score_rate": 40,
+      "evalb_memo": "期末競賽25% 期末報告15%",
+      "evalb_memo_en": null,
+      "evalb_name": "期末專題",
+      "evalb_name_en": "Final presentation",
+      "seq": 2
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CE01129",
+      "sub_id": "36680",
+      "scr_dup": "001",
+      "evalb_id": "L4",
+      "score_rate": 20,
+      "evalb_memo": "點名一次未到-2分",
+      "evalb_memo_en": null,
+      "evalb_name": "出席狀況",
+      "evalb_name_en": "Attendances",
+      "seq": 3
+    }
+  ],
+  "gradeRuleDescribe": {
+    "yms_year": 114.0,
+    "yms_smester": 2.0,
+    "cls_id": "CE01129",
+    "sub_id": "36680",
+    "scr_dup": "001",
+    "tpa_score_new": null,
+    "tpa_score_new_en": null,
+    "course_pol": "以不蹺課，上課安靜為原則，課堂上若有問題可以舉手發問，休息時間也歡迎學生發問，學習上若有困難，請務必提出。",
+    "course_pol_en": null,
+    "course_rem": null,
+    "course_rem_en": null,
+    "ais_meno": "<div>本課程中的核心價值，要求誠實、正直、嚴謹地進行學習，避免抄襲。遵守學術倫理規範，維護學術品質和推動科學進步的基本原則。</div>\n",
+    "ais_meno_en": null,
+    "ilearn_mk": "N"
+  },
+  "integrity": {
+    "yms_year": 114.0,
+    "yms_smester": 2.0,
+    "cls_id": "CE01129",
+    "sub_id": "36680",
+    "scr_dup": "001",
+    "tpa_score_new": null,
+    "tpa_score_new_en": null,
+    "course_pol": "以不蹺課，上課安靜為原則，課堂上若有問題可以舉手發問，休息時間也歡迎學生發問，學習上若有困難，請務必提出。",
+    "course_pol_en": null,
+    "course_rem": null,
+    "course_rem_en": null,
+    "ais_meno": "<div>本課程中的核心價值，要求誠實、正直、嚴謹地進行學習，避免抄襲。遵守學術倫理規範，維護學術品質和推動科學進步的基本原則。</div>\n",
+    "ais_meno_en": null,
+    "ilearn_mk": "N"
+  },
+  "policy": {
+    "yms_year": 114.0,
+    "yms_smester": 2.0,
+    "cls_id": "CE01129",
+    "sub_id": "36680",
+    "scr_dup": "001",
+    "tpa_score_new": null,
+    "tpa_score_new_en": null,
+    "course_pol": "以不蹺課，上課安靜為原則，課堂上若有問題可以舉手發問，休息時間也歡迎學生發問，學習上若有困難，請務必提出。",
+    "course_pol_en": null,
+    "course_rem": null,
+    "course_rem_en": null,
+    "ais_meno": "<div>本課程中的核心價值，要求誠實、正直、嚴謹地進行學習，避免抄襲。遵守學術倫理規範，維護學術品質和推動科學進步的基本原則。</div>\n",
+    "ais_meno_en": null,
+    "ilearn_mk": "N"
+  },
+  "courseBankC": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CE01129",
+      "sub_id": "36680",
+      "scr_dup": "001",
+      "seq": 1,
+      "describe_ch": "能瞭解工程動力學之基本觀念。",
+      "describe_en": "Learn the fundamental concepts of engineering dynamics.",
+      "core_id": "A",
+      "core_item": "使用物理學、數學、力學與土木工程知識之能力。",
+      "core_eng": "Possess the relevant capability to use physics, mathematics, mechanics, and civil engineering knowledge",
+      "core_level": "1 ",
+      "strgy": [
+        "01"
+      ],
+      "evalb": [
+        "D1",
+        "L2",
+        "L3"
+      ],
+      "strgy_name": [
+        "課堂授課"
+      ],
+      "strgy_name_en": [
+        "Classroom instruction"
+      ],
+      "evalb_name": [
+        "期中考",
+        "點名",
+        "課堂討論參與"
+      ],
+      "evalb_name_en": [
+        "Midterm examination",
+        "Roll call",
+        "Participation"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE01129",
+          "sub_id": "36680",
+          "scr_dup": "001",
+          "seq": 1,
+          "strgy_id": "01",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE01129",
+          "sub_id": "36680",
+          "scr_dup": "001",
+          "seq": 1,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D1",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE01129",
+          "sub_id": "36680",
+          "scr_dup": "001",
+          "seq": 1,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "L2",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE01129",
+          "sub_id": "36680",
+          "scr_dup": "001",
+          "seq": 1,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "L3",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CE01129",
+      "sub_id": "36680",
+      "scr_dup": "001",
+      "seq": 2,
+      "describe_ch": "能建立動力學問題之數學模型。\n",
+      "describe_en": "Learn the mathematical formulations of dynamics problems.",
+      "core_id": "A",
+      "core_item": "使用物理學、數學、力學與土木工程知識之能力。",
+      "core_eng": "Possess the relevant capability to use physics, mathematics, mechanics, and civil engineering knowledge",
+      "core_level": "3 ",
+      "strgy": [
+        "01"
+      ],
+      "evalb": [
+        "D1",
+        "L2",
+        "L3"
+      ],
+      "strgy_name": [
+        "課堂授課"
+      ],
+      "strgy_name_en": [
+        "Classroom instruction"
+      ],
+      "evalb_name": [
+        "期中考",
+        "點名",
+        "課堂討論參與"
+      ],
+      "evalb_name_en": [
+        "Midterm examination",
+        "Roll call",
+        "Participation"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE01129",
+          "sub_id": "36680",
+          "scr_dup": "001",
+          "seq": 2,
+          "strgy_id": "01",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE01129",
+          "sub_id": "36680",
+          "scr_dup": "001",
+          "seq": 2,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D1",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE01129",
+          "sub_id": "36680",
+          "scr_dup": "001",
+          "seq": 2,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "L2",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE01129",
+          "sub_id": "36680",
+          "scr_dup": "001",
+          "seq": 2,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "L3",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CE01129",
+      "sub_id": "36680",
+      "scr_dup": "001",
+      "seq": 3,
+      "describe_ch": "能分析質點與剛體之動力學應用問題。",
+      "describe_en": "Analyze the dynamics of particles and rigid bodies with application.",
+      "core_id": "A",
+      "core_item": "使用物理學、數學、力學與土木工程知識之能力。",
+      "core_eng": "Possess the relevant capability to use physics, mathematics, mechanics, and civil engineering knowledge",
+      "core_level": "4 ",
+      "strgy": [
+        "01"
+      ],
+      "evalb": [
+        "D1",
+        "L2",
+        "L3"
+      ],
+      "strgy_name": [
+        "課堂授課"
+      ],
+      "strgy_name_en": [
+        "Classroom instruction"
+      ],
+      "evalb_name": [
+        "期中考",
+        "點名",
+        "課堂討論參與"
+      ],
+      "evalb_name_en": [
+        "Midterm examination",
+        "Roll call",
+        "Participation"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE01129",
+          "sub_id": "36680",
+          "scr_dup": "001",
+          "seq": 3,
+          "strgy_id": "01",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE01129",
+          "sub_id": "36680",
+          "scr_dup": "001",
+          "seq": 3,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D1",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE01129",
+          "sub_id": "36680",
+          "scr_dup": "001",
+          "seq": 3,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "L2",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE01129",
+          "sub_id": "36680",
+          "scr_dup": "001",
+          "seq": 3,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "L3",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CE01129",
+      "sub_id": "36680",
+      "scr_dup": "001",
+      "seq": 4,
+      "describe_ch": "學會應用於動力學及座標轉換之向量代數及向量微積分。",
+      "describe_en": "To study vector algebra and vector calculus in dynamics and transformation of coordinates.",
+      "core_id": "A",
+      "core_item": "使用物理學、數學、力學與土木工程知識之能力。",
+      "core_eng": "Possess the relevant capability to use physics, mathematics, mechanics, and civil engineering knowledge",
+      "core_level": "3 ",
+      "strgy": [
+        "01"
+      ],
+      "evalb": [
+        "D1",
+        "L2",
+        "L3"
+      ],
+      "strgy_name": [
+        "課堂授課"
+      ],
+      "strgy_name_en": [
+        "Classroom instruction"
+      ],
+      "evalb_name": [
+        "期中考",
+        "點名",
+        "課堂討論參與"
+      ],
+      "evalb_name_en": [
+        "Midterm examination",
+        "Roll call",
+        "Participation"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE01129",
+          "sub_id": "36680",
+          "scr_dup": "001",
+          "seq": 4,
+          "strgy_id": "01",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE01129",
+          "sub_id": "36680",
+          "scr_dup": "001",
+          "seq": 4,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D1",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE01129",
+          "sub_id": "36680",
+          "scr_dup": "001",
+          "seq": 4,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "L2",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE01129",
+          "sub_id": "36680",
+          "scr_dup": "001",
+          "seq": 4,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "L3",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CE01129",
+      "sub_id": "36680",
+      "scr_dup": "001",
+      "seq": 5,
+      "describe_ch": "學會不同坐標下之質點運動學及剛體運動學。",
+      "describe_en": "To study the kinematics of particles in various coordinates and kinematics of rigid bodies.",
+      "core_id": "A",
+      "core_item": "使用物理學、數學、力學與土木工程知識之能力。",
+      "core_eng": "Possess the relevant capability to use physics, mathematics, mechanics, and civil engineering knowledge",
+      "core_level": "2 ",
+      "strgy": [
+        "01"
+      ],
+      "evalb": [
+        "D1",
+        "L2",
+        "L3"
+      ],
+      "strgy_name": [
+        "課堂授課"
+      ],
+      "strgy_name_en": [
+        "Classroom instruction"
+      ],
+      "evalb_name": [
+        "期中考",
+        "點名",
+        "課堂討論參與"
+      ],
+      "evalb_name_en": [
+        "Midterm examination",
+        "Roll call",
+        "Participation"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE01129",
+          "sub_id": "36680",
+          "scr_dup": "001",
+          "seq": 5,
+          "strgy_id": "01",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE01129",
+          "sub_id": "36680",
+          "scr_dup": "001",
+          "seq": 5,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D1",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE01129",
+          "sub_id": "36680",
+          "scr_dup": "001",
+          "seq": 5,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "L2",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE01129",
+          "sub_id": "36680",
+          "scr_dup": "001",
+          "seq": 5,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "L3",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CE01129",
+      "sub_id": "36680",
+      "scr_dup": "001",
+      "seq": 6,
+      "describe_ch": "學會質點及剛體動力學-牛頓運動定律。",
+      "describe_en": "To study the kinetics of a particle and a rigid body under Newton laws of motion.",
+      "core_id": "A",
+      "core_item": "使用物理學、數學、力學與土木工程知識之能力。",
+      "core_eng": "Possess the relevant capability to use physics, mathematics, mechanics, and civil engineering knowledge",
+      "core_level": "3 ",
+      "strgy": [
+        "01"
+      ],
+      "evalb": [
+        "D1",
+        "L2",
+        "L3"
+      ],
+      "strgy_name": [
+        "課堂授課"
+      ],
+      "strgy_name_en": [
+        "Classroom instruction"
+      ],
+      "evalb_name": [
+        "期中考",
+        "點名",
+        "課堂討論參與"
+      ],
+      "evalb_name_en": [
+        "Midterm examination",
+        "Roll call",
+        "Participation"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE01129",
+          "sub_id": "36680",
+          "scr_dup": "001",
+          "seq": 6,
+          "strgy_id": "01",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE01129",
+          "sub_id": "36680",
+          "scr_dup": "001",
+          "seq": 6,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D1",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE01129",
+          "sub_id": "36680",
+          "scr_dup": "001",
+          "seq": 6,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "L2",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE01129",
+          "sub_id": "36680",
+          "scr_dup": "001",
+          "seq": 6,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "L3",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CE01129",
+      "sub_id": "36680",
+      "scr_dup": "001",
+      "seq": 7,
+      "describe_ch": "學會質點及剛體動力學另一型式-功與能量、衝量與動量。",
+      "describe_en": "To study the kinetics of a particle and a rigid body in alternate forms: work and energy, impulse and momentum.",
+      "core_id": "A",
+      "core_item": "使用物理學、數學、力學與土木工程知識之能力。",
+      "core_eng": "Possess the relevant capability to use physics, mathematics, mechanics, and civil engineering knowledge",
+      "core_level": "3 ",
+      "strgy": [
+        "01"
+      ],
+      "evalb": [
+        "D1",
+        "D5",
+        "I3",
+        "L3",
+        "L4"
+      ],
+      "strgy_name": [
+        "課堂授課"
+      ],
+      "strgy_name_en": [
+        "Classroom instruction"
+      ],
+      "evalb_name": [
+        "期中考",
+        "期末專題",
+        "實務演練(課堂)",
+        "課堂討論參與",
+        "出席狀況"
+      ],
+      "evalb_name_en": [
+        "Midterm examination",
+        "Final presentation",
+        "Practical test",
+        "Participation",
+        "Attendances"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE01129",
+          "sub_id": "36680",
+          "scr_dup": "001",
+          "seq": 7,
+          "strgy_id": "01",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE01129",
+          "sub_id": "36680",
+          "scr_dup": "001",
+          "seq": 7,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D1",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE01129",
+          "sub_id": "36680",
+          "scr_dup": "001",
+          "seq": 7,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D5",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE01129",
+          "sub_id": "36680",
+          "scr_dup": "001",
+          "seq": 7,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "I3",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE01129",
+          "sub_id": "36680",
+          "scr_dup": "001",
+          "seq": 7,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "L3",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE01129",
+          "sub_id": "36680",
+          "scr_dup": "001",
+          "seq": 7,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "L4",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    }
+  ],
+  "topicSdgs": [],
+  "topicAiIndicators": [],
+  "learnHours": {
+    "total": 0.0,
+    "tpdOnlineAsyTotal": 0.0,
+    "tpdOnlineSynTotal": 0.0,
+    "tpdOnlineFaceTotal": 0.0,
+    "asySynInTotalPercent": 0.0
+  },
+  "crossVerYear": 114
+}

@@ -1,0 +1,475 @@
+{
+  "teacherId": "T07039",
+  "name": "張哲誠",
+  "mainUnit": "資訊電機學院",
+  "detailUnit": "資訊工程學系",
+  "skill": [
+    "平行分散式系統Parallel and Distributed Systems",
+    "嵌入式系統Embedded Systems",
+    "自動駕駛系統Autonomous Driving System"
+  ],
+  "edu": [
+    "國立中興大學 電機工程所 博士",
+    "國立中興大學 電機工程所 碩士"
+  ],
+  "fcuExp": [
+    "教學科技中心 主任",
+    "資訊工程學系 助理教授",
+    "資訊工程學系 副教授"
+  ],
+  "currjob": [],
+  "otherExp": [
+    "財團法人車輛研究測試中心 資通訊技術專案室 副工程師"
+  ],
+  "journal": [
+    {
+      "論文名稱": "Effects of Light Variations on Drone's Visual Positioning",
+      "期刊名稱": "Internet of Things (SCIE)",
+      "作者群": "Che-Cheng Chang*, Po-Ting Wu, Bo-Yu Liu and Bo-Ren Chen"
+    },
+    {
+      "論文名稱": "Chinese Story Generation Based on Style Control of Transformer Model and Content Evaluation Method",
+      "期刊名稱": "Algorithms (SCIE)",
+      "作者群": "Jhe-Wei Lin, Tang-Wei Su and Che-Cheng Chang*"
+    },
+    {
+      "論文名稱": "Vision-Based UAV Localization on Various Viewpoints",
+      "期刊名稱": "IEEE Access (SCIE)",
+      "作者群": "Yee-Ming Ooi, Che-Cheng Chang*, Yu-Min Su and Chiao-Ming Chang"
+    },
+    {
+      "論文名稱": "Improving Recurrent Deterministic Policy Gradient Strategy in Autonomous Driving",
+      "期刊名稱": "Soft Computing (SCIE)",
+      "作者群": "Yee-Ming Ooi and Che-Cheng Chang*"
+    },
+    {
+      "論文名稱": "Importing Diffusion and Re-Designed Backward Process for Image De-Raining",
+      "期刊名稱": "Sensors (SCIE)",
+      "作者群": "Jhe-Wei Lin*, Cheng-Hsuan Lee, Tang-Wei Su and Che-Cheng Chang"
+    },
+    {
+      "論文名稱": "Positioning Improvement with Multiple GPS Receivers Based on Shallow Asymmetric Neural Network",
+      "期刊名稱": "Electronics (SCIE)",
+      "作者群": "Che-Cheng Chang*, Yee-Ming Ooi, Yu-Chun Chen and Jhe-Wei Lin"
+    },
+    {
+      "論文名稱": "Development of a Lightweight Convolutional Neural Network-Based Visual Model for Sediment Concentration Prediction by Incorporating the IoT Concept",
+      "期刊名稱": "Journal of Hydroinformatics (SCIE)",
+      "作者群": "Cheng-Chia Huang*, Che-Cheng Chang, Chiao-Ming Chang and Ming-Han Tsai"
+    },
+    {
+      "論文名稱": "URNet: An UNet-Based Model with Residual Mechanism for Monocular Depth Estimation",
+      "期刊名稱": "Electronics (SCIE)",
+      "作者群": "Hoang-Thanh Duong, Hsi-Min Chen and Che-Cheng Chang*"
+    },
+    {
+      "論文名稱": "Autonomous Driving Control Based on the Technique of Semantic Segmentation",
+      "期刊名稱": "Sensors (SCIE)",
+      "作者群": "Jichiang Tsai, Che-Cheng Chang* and Tzu Li"
+    },
+    {
+      "論文名稱": "Attention-Based Background/Foreground Monocular Depth Prediction Model Using Image Segmentation",
+      "期刊名稱": "Applied Sciences (SCIE)",
+      "作者群": "Ting-Hui Chiang*, Meng-Hsiu Chiang, Ming-Han Tsai and Che-Cheng Chang"
+    },
+    {
+      "論文名稱": "Comparative Evaluation of Different Following Mechanisms in VR Guided Tour: A Preliminary Study",
+      "期刊名稱": "Applied Sciences (SCIE)",
+      "作者群": "Hung-Yu Tsai, Ming-Han Tsai*, Ting-Hui Chiang and Che-Cheng Chang"
+    },
+    {
+      "論文名稱": "Utilizing Ensemble Learning to Improve the Distance Information for UWB Positioning",
+      "期刊名稱": "Applied Sciences (SCIE)",
+      "作者群": "Che-Cheng Chang*, Yee-Ming Ooi, Shih-Tung Tsui, Ting-Hui Chiang and Ming-Han Tsai"
+    },
+    {
+      "論文名稱": "Autonomous Driving Control Based on the Perception of a Lidar Sensor and Odometer",
+      "期刊名稱": "Applied Sciences (SCIE)",
+      "作者群": "Jichiang Tsai, Che-Cheng Chang*, Yu-Cheng Ou, Bing-Herng Sieh and Yee-Ming Ooi"
+    },
+    {
+      "論文名稱": "Autonomous Driving Control Using the DDPG and RDPG Algorithms",
+      "期刊名稱": "Applied Sciences (SCIE)",
+      "作者群": "Che-Cheng Chang, Jichiang Tsai, Jun-Han Lin and Yee-Ming Ooi"
+    },
+    {
+      "論文名稱": "Using Machine Learning Approaches to Improve Ultra-Wideband Positioning",
+      "期刊名稱": "Journal of Internet Technology (SCIE)",
+      "作者群": "Che-Cheng Chang, Hong-Wen Wang, Yu-Xiang Zeng and Jin-Da Huang"
+    },
+    {
+      "論文名稱": "IoV-Based Collision Avoidance Architecture Using Machine Learning Prediction",
+      "期刊名稱": "IEEE Access (SCIE)",
+      "作者群": "Che-Cheng Chang, Yee-Ming Ooi and Bing-Herng Sieh"
+    },
+    {
+      "論文名稱": "On the Distributed Trigger Counting Problem for Dynamic Networks",
+      "期刊名稱": "Journal of Internet Technology (SCIE)",
+      "作者群": "Che-Cheng Chang, Jichiang Tsai and Tien-Yu Chang"
+    },
+    {
+      "論文名稱": "Accuracy Improvement of Autonomous Straight Take-off, Flying Forward, and Landing of a Drone with Deep Reinforcement Learning",
+      "期刊名稱": "International Journal of Computational Intelligence Systems (SCIE)",
+      "作者群": "Che-Cheng Chang, Jichiang Tsai, Peng-Chen Lu and Chuan-An Lai"
+    },
+    {
+      "論文名稱": "Using Real-Time Dynamic Prediction to Implement IoV-Based Collision Avoidance",
+      "期刊名稱": "Applied Sciences (SCIE)",
+      "作者群": "Che-Cheng Chang, Wei-Ming Lin and Chuan-An Lai"
+    },
+    {
+      "論文名稱": "An Innovative Vehicular Positioning System",
+      "期刊名稱": "Journal of Industrial Mechatronics (-)",
+      "作者群": "Che-Cheng Chang, Wun-Sheng Yao and Yi Yan"
+    },
+    {
+      "論文名稱": "Distributed Collaborative Surveillance System Based on Leader Election Protocols",
+      "期刊名稱": "IET Wireless Sensor Systems (EI)",
+      "作者群": "Che-Cheng Chang and Jichiang Tsai"
+    },
+    {
+      "論文名稱": "Distributed Trigger Counting Algorithms for Arbitrary Network Topology",
+      "期刊名稱": "Wireless Communications and Mobile Computing (SCIE)",
+      "作者群": "Che-Cheng Chang and Jichiang Tsai"
+    },
+    {
+      "論文名稱": "Solving the Problem of Consensus with Unknown Participants Regardless of Process Crashes",
+      "期刊名稱": "Journal of Engineering, National Chung Hsing University (-)",
+      "作者群": "Jichiang Tsai and Che-Cheng Chang"
+    },
+    {
+      "論文名稱": "Quantum Particle Swarm Optimisation Algorithm for Feedback Control of Semi-Autonomous Driver Assistance Systems",
+      "期刊名稱": "IET Intelligent Transport Systems (SCIE)",
+      "作者群": "Che-Cheng Chang, Jichiang Tsai and Shi-Jia Pei"
+    },
+    {
+      "論文名稱": "Solving Dynamic Leader Election Problem with Performance-Related Characteristics",
+      "期刊名稱": "Journal of Engineering, National Chung Hsing University (-)",
+      "作者群": "Che-Cheng Chang and Jichiang Tsai"
+    },
+    {
+      "論文名稱": "Less Restrictive Knowledge Connectivity Condition for Achieving Consensus with Unknown Participants",
+      "期刊名稱": "IET Communications (SCIE)",
+      "作者群": "Jichiang Tsai and Che-Cheng Chang"
+    }
+  ],
+  "journal2": [],
+  "conference": [
+    {
+      "論文名稱": "Lightweight Model for Weather Perception",
+      "會議名稱": "IEEE International Conference on Electronic Communications, Internet of Things and Big Data 2025",
+      "作者群": "Po-Ting Wu, Ting-Yu Tsai and Che-Cheng Chang*"
+    },
+    {
+      "論文名稱": "Real-time Super Resolution Utilizing Dilation and Depthwise Separable Convolution",
+      "會議名稱": "IEEE Eurasia Conference on IOT, Communication and Engineering 2024",
+      "作者群": "Che-Cheng Chang*, Wen-Pin Chen, Yi-Wei Lin, Yu-Jhan Lin, and Po-Jui Pan"
+    },
+    {
+      "論文名稱": "Assessing the Impact of Seasonal Lighting Variations on Drone Visual Positioning",
+      "會議名稱": "IEEE Eurasia Conference on IOT, Communication and Engineering 2024",
+      "作者群": "Che-Cheng Chang*, Bo-Yu Liu, Bo-Ren Chen, and Po-Ting Wu"
+    },
+    {
+      "論文名稱": "Discussions on Performance Improvement of Reinforcement Learning via Karting Microgame",
+      "會議名稱": "IEEE International Conference on Consumer Electronics - Taiwan 2024",
+      "作者群": "Che-Cheng Chang*, Po-Ting Wu and Yee-Ming Ooi"
+    },
+    {
+      "論文名稱": "Lightweight Super-Resolution: Combining FSRCNN and Inception for Efficient Improvement",
+      "會議名稱": "IEEE International Conference on Consumer Electronics - Taiwan 2024",
+      "作者群": "Yee-Ming Ooi, Chiao-Ming Chang and Che-Cheng Chang*"
+    },
+    {
+      "論文名稱": "A Drone Visual Positioning Algorithm with Convolutional Neural Network",
+      "會議名稱": "IEEE Eurasia Conference on IOT, Communication and Engineering 2023",
+      "作者群": "Che-Cheng Chang*, Die-Ting Lin, Yuki Ikema and Yee-Ming Ooi"
+    },
+    {
+      "論文名稱": "Utilizing Machine Learning to Improve the Distance Information from Depth Camera",
+      "會議名稱": "IEEE Eurasia Conference on IOT, Communication and Engineering 2021",
+      "作者群": "Che-Cheng Chang, Kuan-Chang Shih, Hung-Che Ting and Yi-Syuan Su"
+    },
+    {
+      "論文名稱": "A Distributed Fall Detection Architecture Using Ensemble Learning",
+      "會議名稱": "IEEE International Conference on Knowledge Innovation and Invention 2021",
+      "作者群": "Che-Cheng Chang, Yo-Chun Chen, Bing-Herng Sieh and Yee-Ming Ooi"
+    },
+    {
+      "論文名稱": "Scenario Analysis for Road Following by Using JetBot",
+      "會議名稱": "IEEE Eurasia Conference on IOT, Communication and Engineering 2020",
+      "作者群": "Che-Cheng Chang, Yu-Heng Juan, Cheng-Ling Huang and Hsuan-Ju Chen"
+    },
+    {
+      "論文名稱": "Ultra-Wideband Positioning Using Machine Learning Approaches",
+      "會議名稱": "IEEE International Conference on Knowledge Innovation and Invention 2020",
+      "作者群": "Che-Cheng Chang, Hong-Wen Wang, Yu-Xiang Zeng and Jin-Da Huang"
+    },
+    {
+      "論文名稱": "IoV-Based Collision Avoidance by Using Confidence Region",
+      "會議名稱": "IEEE Eurasia Conference on IOT, Communication and Engineering 2019",
+      "作者群": "Che-Cheng Chang, Chuan-An Lai and Wei-Ming Lin"
+    },
+    {
+      "論文名稱": "Collision Avoidance Architecture Based on Computer Vision with Predictive Ability",
+      "會議名稱": "International Workshop of ICAROB in Taiwan 2019",
+      "作者群": "Che-Cheng Chang and Kuo-Lun Chan"
+    },
+    {
+      "論文名稱": "An Information Fusion Method for Vehicle Positioning System",
+      "會議名稱": "IEEE International Conference on System Science and Engineering",
+      "作者群": "Yi Yan, Che-Cheng Chang and Wun-Sheng Yao"
+    },
+    {
+      "論文名稱": "Development of a Plug-and-Play ROS-based Land Vehicular Navigation Suite",
+      "會議名稱": "Proceedings of the 30th International Technical Meeting of the Satellite Division of the Institute of Navigation (ION GNSS+ 2017)",
+      "作者群": "Jyh-Ching Juang, Wen-Lin Hsieh and Che-Cheng Chang"
+    },
+    {
+      "論文名稱": "Cooperative Vehicular Surrounding Sensing System",
+      "會議名稱": "23rd ITS World Congress",
+      "作者群": "Che-Cheng Chang, Po-Kai Tseng, Wun-Sheng Yao and Chao-Yang Lee"
+    },
+    {
+      "論文名稱": "Distributed Vehicular Network System Regardless of Node Crashes",
+      "會議名稱": "23rd ITS World Congress",
+      "作者群": "Che-Cheng Chang and Yi-Chen Lu"
+    },
+    {
+      "論文名稱": "Efficient Distributed Trigger Counting Algorithms for Dynamic Network Topology",
+      "會議名稱": "International Conference on Telecommunications and Signal Processing",
+      "作者群": "Che-Cheng Chang and Jichiang Tsai"
+    },
+    {
+      "論文名稱": "Resource Allocation for Downlink Traffic of WiFi-Based Multi-Hop Relay Networks",
+      "會議名稱": "IEEE Vehicular Technology Society Asia Pacific Wireless Communications Symposium",
+      "作者群": "Jichiang Tsai, Che-Cheng Chang, Chin-Yen Ko and Yung-Sheng Chang"
+    },
+    {
+      "論文名稱": "A Chameleon-Like Two-Eyed Visual Surveillance System",
+      "會議名稱": "IEEE International Conference on Machine Learning and Cybernetics",
+      "作者群": "Jichiang Tsai, Chih-Wei Wang, Che-Cheng Chang, Kou-Chih Hu and Ting-Hsuan Wei"
+    },
+    {
+      "論文名稱": "Solving the Distributed Trigger Counting Problem without Any Global Assumption",
+      "會議名稱": "IEEE Annual Computer Software and Applications Conference",
+      "作者群": "Che-Cheng Chang and Jichiang Tsai"
+    },
+    {
+      "論文名稱": "An Optimal Replica Placement Algorithm for Symphony P2P Networks",
+      "會議名稱": "IEEE International Symposium on Parallel Architectures, Algorithms and Programming",
+      "作者群": "Tien-Yu Chang, Jichiang Tsai and Che-Cheng Chang"
+    },
+    {
+      "論文名稱": "A Quantum PSO Algorithm for Feedback Control of Semi-Autonomous Driver Assistance Systems",
+      "會議名稱": "International Conference on Intelligent Transport Systems Telecommunications",
+      "作者群": "Che-Cheng Chang, Jichiang Tsai and Shi-Jia Pei"
+    },
+    {
+      "論文名稱": "An Efficient Leader Election Algorithm of Performance-Related Characteristics for Dynamic Networks",
+      "會議名稱": "International Conference on Smart Grid Systems",
+      "作者群": "Che-Cheng Chang and Jichiang Tsai"
+    },
+    {
+      "論文名稱": "An Improved Knowledge Connectivity Condition for Fault-Tolerant Consensus with Unknown Participants",
+      "會議名稱": "IEEE Pacific Rim International Symposium on Dependable Computing",
+      "作者群": "Jichiang Tsai and Che-Cheng Chang"
+    },
+    {
+      "論文名稱": "A Weaker Knowledge Connectivity Condition Sufficient for Fault-Tolerant Consensus with Unknown Participants",
+      "會議名稱": "IEEE Annual Computer Software and Applications Conference",
+      "作者群": "Jichiang Tsai and Che-Cheng Chang"
+    },
+    {
+      "論文名稱": "Achieving Consensus with Unknown Participants Regardless of Process Crashes",
+      "會議名稱": "IEEE Taiwan/Hong Kong/Macau Joint Workshop on Information Theory and Communications",
+      "作者群": "Jichiang Tsai and Che-Cheng Chang"
+    },
+    {
+      "論文名稱": "Efficient Dynamic Indexing Methods for Communication-Induced Checkpointing Protocols",
+      "會議名稱": "IEEE Pacific Rim International Symposium on Dependable Computing",
+      "作者群": "Jichiang Tsai, Wu-Hong Chen and Che-Cheng Chang"
+    }
+  ],
+  "book": [],
+  "patent": [
+    {
+      "title": "發明",
+      "desc": "車輛協同式物體定位優化方法及車輛協同定位裝置"
+    },
+    {
+      "title": "發明",
+      "desc": "Optimizing method for vehicle cooperative object positioning and vehicle cooperative positioning apparatus"
+    },
+    {
+      "title": "發明",
+      "desc": "车辆协同式物体定位优化方法及车辆协同定位装置"
+    },
+    {
+      "title": "發明",
+      "desc": "車用分散式網路管理系統及方法"
+    },
+    {
+      "title": "發明",
+      "desc": "Distributed network management system and method for a vehicle"
+    },
+    {
+      "title": "發明",
+      "desc": "车用分散式网络管理系统及方法"
+    },
+    {
+      "title": "發明",
+      "desc": "適應性權重調適的定位方法"
+    },
+    {
+      "title": "發明",
+      "desc": "Method of adaptive weighting adjustment positioning"
+    },
+    {
+      "title": "發明",
+      "desc": "影像定位方法及其影像定位裝置"
+    },
+    {
+      "title": "發明",
+      "desc": "Image positioning method and image positioning device for using the same"
+    },
+    {
+      "title": "發明",
+      "desc": "影像定位方法及其影像定位装置"
+    }
+  ],
+  "most": [
+    {
+      "name": "多代理強化學習於數位雙生架構之整合研究(2/3)",
+      "schoolYear": "113"
+    },
+    {
+      "name": "(博士增核)多代理強化學習於數位雙生架構之整合研究(1/3)",
+      "schoolYear": "112"
+    },
+    {
+      "name": "多代理強化學習於數位雙生架構之整合研究(1/3)",
+      "schoolYear": "112"
+    },
+    {
+      "name": "無人機視覺定位",
+      "schoolYear": "112"
+    },
+    {
+      "name": "以協同式機器學習架構實現多感知同步定位與地圖建構(3/3)",
+      "schoolYear": "111"
+    },
+    {
+      "name": "以協同式機器學習架構實現多感知同步定位與地圖建構(2/3)",
+      "schoolYear": "110"
+    },
+    {
+      "name": "使用串聯式遞迴神經網路建置之中文唇語辨讀系統",
+      "schoolYear": "110"
+    },
+    {
+      "name": "(個別型)產學合作計畫－透過機器學習自動執行會計處理之雲端記帳平台",
+      "schoolYear": "109"
+    },
+    {
+      "name": "(廠配)晏晟資訊有限公司(個別型)產學合作計畫－透過機器學習自動執行會計處理之雲端記帳平台",
+      "schoolYear": "109"
+    },
+    {
+      "name": "以協同式機器學習架構實現多感知同步定位與地圖建構(1/3)",
+      "schoolYear": "109"
+    },
+    {
+      "name": "基於機器學習及環景立體視覺之智慧車輛防撞系統",
+      "schoolYear": "108"
+    },
+    {
+      "name": "基於機器學習及車輛動態之智慧車輛決策系統",
+      "schoolYear": "107"
+    }
+  ],
+  "tech": [],
+  "induAca": [
+    "超解析度之技術應用於製鞋影像 (2024-08 to 2025-07)",
+    "瑕疵檢測平臺開發 (2024-03 to 2025-03)",
+    "110年度智慧創新跨域人才培育聯盟計畫(C類)—開源創作分項「自動化軟體品質檢測開源工具」 (2021-02 to 2022-01)",
+    "大學伴‧偏鄉善：打造銀享智融的移動服務影響圈 (2021-01 to 2021-12)",
+    "（109年）大學伴∙偏鄉善：打造銀享智融的移動服務影響圈 (2020-01 to 2020-12)"
+  ],
+  "perform": [],
+  "reward": [
+    "113年度國科會補助大專校院研究獎勵 (113, 2024-11) - 逢甲大學",
+    "Best Paper Award (113, 2024-11) - IEEE ECICE 2024",
+    "Best Paper Award (113, 2024-11) - IEEE ECICE 2024",
+    "逢甲大學論文著作獎勵傑出獎 (113, 2024-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (113, 2024-11) - 逢甲大學",
+    "2024工業機器人競賽-無人車競速賽（大專組） (112, 2024-03) - 台灣工業機器人協會",
+    "112年度國科會補助大專校院研究獎勵 (112, 2023-12) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "Best Paper Award (112, 2023-11) - IEEE ECICE 2023",
+    "2022永續智慧創新黑客松競賽 (111, 2022-12) - 靜宜大學",
+    "逢甲大學論文著作獎勵傑出獎 (111, 2022-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (111, 2022-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (111, 2022-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (111, 2022-11) - 逢甲大學",
+    "111學年度教學績優獎 (111, 2022-11) - 逢甲大學",
+    "111年度國科會補助大專校院研究獎勵 (111, 2022-10) - 研究發展處",
+    "逢甲大學論文著作獎勵傑出獎 (110, 2021-11) - 逢甲大學",
+    "110學年度教學績優獎 (110, 2021-11) - 逢甲大學",
+    "Best Paper Award (110, 2021-11) - IEEE ECICE 2021",
+    "110年度科技部補助大專校院研究獎勵 (110, 2021-10) - 產學合作處",
+    "逢甲大學論文著作獎勵傑出獎 (109, 2020-11) - 逢甲大學",
+    "109年度科技部補助大專校院研究獎勵 (109, 2020-10) - 逢甲大學",
+    "Best Paper Award (109, 2020-09) - IEEE ICKII 2020",
+    "Best Paper Award (108, 2019-10) - IEEE ECICE 2019",
+    "Best Paper Award (102, 2014-06) - National Chung Hsing University",
+    "Best Paper Award (101, 2012-11) - ITST 2012"
+  ],
+  "speech": [
+    {
+      "演講題目": "學習不一樣-動動手來玩程式操控",
+      "邀請單位": "國立善化高級中學",
+      "演講日期": "2024-12"
+    },
+    {
+      "演講題目": "學習不一樣-動動手來玩程式操控",
+      "邀請單位": "台中市立東山高中",
+      "演講日期": "2024-12"
+    },
+    {
+      "演講題目": "電商巨量資料處理",
+      "邀請單位": "銘傳大學企業管理系",
+      "演講日期": "2023-10"
+    },
+    {
+      "演講題目": "智慧創新人才躍升課程",
+      "邀請單位": "銘傳大學企業管理系",
+      "演講日期": "2023-08"
+    },
+    {
+      "演講題目": "資訊工程發展",
+      "邀請單位": "台中市立后綜高級中學",
+      "演講日期": "2021-11"
+    },
+    {
+      "演講題目": "資訊工程發展",
+      "邀請單位": "台中市立西苑高級中學",
+      "演講日期": "2021-10"
+    },
+    {
+      "演講題目": "資訊工程與智慧車輛之發展",
+      "邀請單位": "台中市立忠明高級中學",
+      "演講日期": "2020-01"
+    },
+    {
+      "演講題目": "智慧車輛的研究與發展",
+      "邀請單位": "逢甲大學資訊工程學系",
+      "演講日期": "2018-09"
+    }
+  ],
+  "material": [],
+  "tal": []
+}

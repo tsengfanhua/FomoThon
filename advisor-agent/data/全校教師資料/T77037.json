@@ -1,0 +1,471 @@
+{
+  "teacherId": "T77037",
+  "name": "林文欽",
+  "mainUnit": "商學院",
+  "detailUnit": "統計學系",
+  "skill": [
+    "統計學Statistics",
+    "統計實驗設計Design of Experiment",
+    "排程問題Scheduling"
+  ],
+  "edu": [
+    "美國愛荷華州立大學 統計研究所 博士",
+    "國立成功大學 應用數學研究所 碩士",
+    "逢甲大學 應用數學系 學士"
+  ],
+  "fcuExp": [
+    "統計學系 系主任",
+    "應用數學學系(所) 助教",
+    "統計學系 講師",
+    "統計學系 講師",
+    "統計學系 講師",
+    "統計學系 副教授",
+    "統計學系 教授",
+    "統計學系 教授"
+  ],
+  "currjob": [],
+  "otherExp": [],
+  "journal": [
+    {
+      "論文名稱": "A Robust Single-Machine Scheduling Problem with Two Job Parameter Scenarios",
+      "期刊名稱": "International Journal of Industrial Engineering Computations (SCIE)",
+      "作者群": "C.-C. Wu, J.H. Chen*, W.C. Lin, X. Zhang, T. Ren, Z.L. Wu, Y.H. Chung"
+    },
+    {
+      "論文名稱": "Sequencing a tri-criteria multiple job classes and customer orders problem on a single machine by using heuristics and simulated annealing method",
+      "期刊名稱": "Operational Research (SCIE)",
+      "作者群": "C.-C. Wu, X. Zhang, D. Bai, A. Azzouz, W.H. Wu, X.R. Chen, W.C. Lin*"
+    },
+    {
+      "論文名稱": "A bi-criterion sequence-dependent scheduling problem with order deliveries",
+      "期刊名稱": "PeerJ Computer Science (SCIE)",
+      "作者群": "J.Y. Xu, W.C. Lin, K.X. Hu, Y.W. Chang,W.H. Wu, P.H. Hsu, T.H. Wu, C.-C. Wu"
+    },
+    {
+      "論文名稱": "A two-machine learning-date flowshop scheduling problem with heuristics and population-based GA to minimize the makespan.",
+      "期刊名稱": "Mathematics (SCIE)",
+      "作者群": "J.Y. Xu, W.C. Lin, Y.W. Chang, Y.H. Chung, J.H. Chen, C.-C. Wu*"
+    },
+    {
+      "論文名稱": "Bicriteria Single-Machine Scheduling with Multiple Job Classes and Customer Orders",
+      "期刊名稱": "Applied Soft Computing (SCIE)",
+      "作者群": "J.N.D. Gupta, C.-C. Wu, W.C. Lin, XG Zhang, D. Bai, C.C. Lia"
+    },
+    {
+      "論文名稱": "Sequencing single machine multiple-class customer order jobs using heuristics and improved simulated annealing algorithms",
+      "期刊名稱": "RAIRO - Operations Research (SCIE)",
+      "作者群": "W.C. Lin, X. Zhang, X. Liu, K.X. Hu, S.R. Cheng, A. Azzouz, C.C. Wu*"
+    },
+    {
+      "論文名稱": "Composite heuristics and water wave optimality algorithms for tri-criteria multiple job classes and customer order scheduling on a single machine",
+      "期刊名稱": "International Journal of Industrial Engineering Computations (SCIE)",
+      "作者群": "L.Y. Li, W.C. Lin, D. Bai, X. Zhang, A. Azzouze, S.R. Cheng, Y.L. Wu, C.-C. Wu*"
+    },
+    {
+      "論文名稱": "Single-machine slack due-window assignment scheduling with multi-maintenance activities and position-and resource-dependent processing times",
+      "期刊名稱": "International Journal of Systems Science- Operations & Logistics (SCIE)",
+      "作者群": "X. Zhang, D Bai, WC Lin*, SR Chang, C.-C. WuX. Zhang, D Bai, WC Lin*, SR Chang, C.-C. Wu"
+    },
+    {
+      "論文名稱": "A genetic hyper-heuristic for an order scheduling problem with two scenario-dependent parameters in a parallel-machine environment",
+      "期刊名稱": "Mathematics (SCIE)",
+      "作者群": "L.Y. Li, J.Y. Xu, S.R. Cheng, X.G. Zhang, W.C. Lin *, J.C. Lin, Z.L. Wu, C.-C. Wu"
+    },
+    {
+      "論文名稱": "Application of adaptive adjacency matrix-based graph convolutional neural network in taxi demand forecasting",
+      "期刊名稱": "Mathematics (SCIE)",
+      "作者群": "J.Y. Xu*, S. Zhang, C.-C. Wu, W.C. Lin, Q.L. Yuan"
+    },
+    {
+      "論文名稱": "A bi-criterion single-machine scheduling problem with a step-improving processing times",
+      "期刊名稱": "Computers & Industrial Engineering (SCIE)",
+      "作者群": "C.-C. Wu, W.C. Lin*, A. Azzouz, J. Xu, Y.L. Chiu, Y.W. Tsai, P. Shen"
+    },
+    {
+      "論文名稱": "A robust single-machine scheduling problem with two scenarios of job parameters",
+      "期刊名稱": "Mathematics (SCIE)",
+      "作者群": "G. Xuan, W.C.* Lin, S.R. Cheng, W.L. Shen, P.A. Pan, C.L. Kuo,  C.-C. Wu"
+    },
+    {
+      "論文名稱": "Robust scheduling of Two-Agent Customer Orders with Scenario-Dependent Component Processing Times and Release Dates",
+      "期刊名稱": "Mathematics (SCIE)",
+      "作者群": "C.-C. Wu, J.N.D. Gupta, W.C. Lin, S.R. Cheng, Y.L. Chiu, C.J. Chen, L.Y. Lee*"
+    },
+    {
+      "論文名稱": "Rescheduling problems with allowing for the unexpected arrival of new jobs",
+      "期刊名稱": "Journal of Combinatorial Optimization (SCIE)",
+      "作者群": "X. Zhang, W.C. Lin, C.-C. Wu*"
+    },
+    {
+      "論文名稱": "A two-agent one-machine multitasking scheduling problem solving by exact and metaheuristics",
+      "期刊名稱": "Complex & Intelligent Systems (SCIE)",
+      "作者群": "C.-C. Wu, A. Azzouz, J.Y. Chen, J. Xu, W.L. Shen, L. Lu, L. Ben Said, W.C. Lin*"
+    },
+    {
+      "論文名稱": "A robust customer order scheduling problem along with scenario-dependent component processing times and due dates.",
+      "期刊名稱": "Journal of Manufacturing Systems (SCIE)",
+      "作者群": "C.-C. Wu, D. Bai, X. Zhang, S.R. Cheng, J.C. Lin, Z.L. Wu, W.C. Lin*"
+    },
+    {
+      "論文名稱": "Robust scheduling of a two-stage assembly shop with scenario-dependent processing times.",
+      "期刊名稱": "International Journal of Production Research (SCIE)",
+      "作者群": "C.-C. Wu, J.N.D. Gupta, SR Cheng, B.M.T. Lin, S.H. Yip, W.C. Lin*,"
+    },
+    {
+      "論文名稱": "Cloud theory-based simulated annealing for a single- machine past sequence setup scheduling with scenario-dependent processing times.",
+      "期刊名稱": "Complex & Intelligent Systems (SCIE)",
+      "作者群": "C.-C. Wu, W.-C. Lin*, X.G. Zhang, D.Y. Bai, Y.W. Tsai, T. Ren, S.R. Cheng"
+    },
+    {
+      "論文名稱": "Metaheuristics for two-stage flow-shop assembly problem with a truncation learning function.",
+      "期刊名稱": "Engineering Optimization. (SCIE)",
+      "作者群": "C.-C. Wu, X. Zhang, A., Ameni, WL Shen, SR Cheng, PH Hsu, WC Lin*"
+    },
+    {
+      "論文名稱": "Several variants of simulated annealing hyper-heuristic for a single-machine scheduling with two-scenario-based dependent processing times.",
+      "期刊名稱": "Swarm and Evolutionary Computation (SCIE)",
+      "作者群": "C.-C. Wu, D.Y. Bai, J.-H. Chen, W.-C. Lin, L. Xing, J.-C. Lin, S.R. Cheng*"
+    },
+    {
+      "論文名稱": "Effective algorithms for single-machine learning-effect scheduling to minimize completion-time-based criteria with release dates",
+      "期刊名稱": "Expert Systems with Applications (SCIE)",
+      "作者群": "D. Bai, H. Xue, L. Wang, C,-C, Wu, W.C. Lin, D.H. Abdulkadir"
+    },
+    {
+      "論文名稱": "A Hybrid Discrete Differential Evolution Algorithm to Solve the Split Delivery Vehicle Routing Problem.",
+      "期刊名稱": "IEEE Access (SCIE)",
+      "作者群": "L. Xing, Y. Liu, H. Li, C.-C. Wu, W.-C. Lin, W. Song*"
+    },
+    {
+      "論文名稱": "A two-stage three-machine assembly scheduling problem with a truncation position-based learning effect.",
+      "期刊名稱": "Soft Computing (SCIE)",
+      "作者群": "A. Ameni*, P.A. Pan, P.H. Hsu, W.C. Lin, S.C. Liu, L. Ben Said, C.-C. Wu"
+    },
+    {
+      "論文名稱": "A robust two-machine flow-shop scheduling model with scenario- dependent processing times",
+      "期刊名稱": "Discrete Dynamics in Nature and Society (SCIE)",
+      "作者群": "C.L. Hsu, W.C. Lin*, L. Duan, J.R. Liao, C.-C. Wu, J.H. Chen"
+    },
+    {
+      "論文名稱": "Parallel-machine scheduling with linear deteriorating jobs and preventive maintenance activities under a potential machine disruption",
+      "期刊名稱": "Computers & Industrial Engineering (SCIE)",
+      "作者群": "X. Zhang, SC Liu, WC Lin, C.-C. Wu*"
+    },
+    {
+      "論文名稱": "Two-stage three-machine assembly scheduling problem with sum-of-processing-times based learning effect.",
+      "期刊名稱": "Soft Computing (SCIE)",
+      "作者群": "Y. Zou, D.J. Wang*, W.C. Lin, J.Y. Chen, P.W. Yu, W.H. Wu, Y.P. Chao, C.-C. Wu"
+    },
+    {
+      "論文名稱": "A Novel Tabu Search Algorithm for Multi-AGV Routing Problem.",
+      "期刊名稱": "Mathematics (SCIE)",
+      "作者群": "L. Xing, Y. Liu, H. Li, C.-C. Wu, W.-C. Lin, X. Chen*"
+    },
+    {
+      "論文名稱": "Dominance rule and opposition based particle swarm optimization for two-stage assembly scheduling with time cumulated learning effect",
+      "期刊名稱": "Soft Computing (SCIE)",
+      "作者群": "D.J. Wang, H. Qiu*, C.-C. Wu, W.-C. Lin, K. Lai, and S.R. Cheng."
+    },
+    {
+      "論文名稱": "A two-stage three-machine assembly scheduling problem with deterioration effect",
+      "期刊名稱": "International Journal of Production Research (SCIE)",
+      "作者群": "C.-C. Wu, A. Azzouz*, I-H. Chung, Win-Chin Lin & L. Ben Said."
+    },
+    {
+      "論文名稱": "Artificial bee colony algorithms for the order scheduling with release dates",
+      "期刊名稱": "Soft Computing (SCIE)",
+      "作者群": "Win-Chin Lin, J. Xu, D. Bai, I-H. Chung, S.-C. Liu, C.-C. Wu"
+    },
+    {
+      "論文名稱": "A two-stage three-machine assembly scheduling flowshop problem with both two-agent and learning phenomenon",
+      "期刊名稱": "Computers & Industrial Engineering (SCIE)",
+      "作者群": "C.-C.Wu, J.-Y. Chen, Win-Chin Lin*, K. Lai, D. Bai, S.-Y. Lai"
+    },
+    {
+      "論文名稱": "Tardiness minimization for a customer order scheduling problem with sum-of- processing-time-based learning effect",
+      "期刊名稱": "Journal of the Operational Research Society (SCIE)",
+      "作者群": "C.-C. Wu, WC Lin*, X. Zhang, I.-H. Chung, T.H. Yang, K. Lai"
+    },
+    {
+      "論文名稱": "An iterated local search and tabu search for two-parallel machine scheduling problem to minimize the maximum total completion time",
+      "期刊名稱": "Journal of Information and Optimization Sciences (EI)",
+      "作者群": "J. Xu, S.-C.Liu*, C. Zhao, J. Wu, Win-Chin Lin , P.-W. Yu."
+    },
+    {
+      "論文名稱": "Using heuristic and iterative greedy algorithms for the total weighted completion time order scheduling with release times",
+      "期刊名稱": "Swarm and Evolutionary Computation (SWEVO) (SCIE)",
+      "作者群": "Chin-Chia. Wu, Tzu-Hsuan Yang, Xingong Zhang, Chao-Chung Kang, I-Hong Chung, and Win-Chin Lin*"
+    },
+    {
+      "論文名稱": "A two-stage three-machine assembly scheduling problem with deterioration effect\"",
+      "期刊名稱": "International Journal of Production Research (SCIE)",
+      "作者群": "C.-C. Wu, A. Azzouz*, I.H. Chung, W.C. Lin, L. Ben Said"
+    },
+    {
+      "論文名稱": "A two-stage three-machine assembly scheduling flowshop problem with both two-agent and learning phenomenon",
+      "期刊名稱": "Computers & Industrial Engineering (SCIE)",
+      "作者群": "C.-C. Wu, JY Chen, WC Lin*, K Lai, D Bai, SY Lai"
+    },
+    {
+      "論文名稱": "A tabu and branch-and-bound algorithm for two-agent scheduling with learning effect and late work criterion.",
+      "期刊名稱": "Asia-Pacific Journal of Operational Research (SCIE)",
+      "作者群": "S.-C. Liu, J. Duan, W.-C. Lin, W.-H. Wu,J.-Y. Kung, H. Chen, and C.-C. Wu*"
+    },
+    {
+      "論文名稱": "Metaheuristics for Order Scheduling Problem with Unequal Ready Times",
+      "期刊名稱": "Discrete Dynamics in Nature and Society (SCIE)",
+      "作者群": "J.-Y. Kung, J. Duan, J. Xu, I-H. Chung, S.-R. Cheng, C.-C. Wu, and W.-C. Lin*"
+    },
+    {
+      "論文名稱": "A two-stage three-machine assembly scheduling\r\nproblem with a position-based learning effect",
+      "期刊名稱": "International Journal of Production Research, (SCIE)",
+      "作者群": "Chin-Chia Wu, Du-Juan Wang, Shuenn-Ren Cheng, I-Hong Chung and Win-Chin Lin"
+    },
+    {
+      "論文名稱": "Re-Entrant Flowshop Scheduling With Learning Considerations\r\nto Minimize The Makespan",
+      "期刊名稱": "Iranian Journal of Science and Technology, Transactions A: Science (SCIE)",
+      "作者群": "Chin-Chia Wu, Shang-Chia Liu, T. C. E. Cheng, Yu Cheng, Shi-Yuan Liu & Win-Chin Lin"
+    },
+    {
+      "論文名稱": "Minimizing the Makespan for a Two-Stage Three-Machine\r\nAssembly Flow Shop Problem with the Sum-of-Processing-Time\r\nBased Learning Effect",
+      "期刊名稱": "Discrete Dynamics in Nature and Society (SCIE)",
+      "作者群": "Win-Chin Lin"
+    },
+    {
+      "論文名稱": "A Two-Machine Flowshop Scheduling Problem with a Job Precedence Constraint to Minimize the Total Completion Time",
+      "期刊名稱": "Journal of Scientific & Industrial Research (SCIE)",
+      "作者群": " Jianyou Xu, Win-Chin Lin*, Yunqiang Yin, Yu Cheng, and Chin-Chia Wu"
+    },
+    {
+      "論文名稱": "An investigation of single-machine due-window assignment with time-dependent processing times and a controllable rate-modifying activity",
+      "期刊名稱": "The Computer Journal (SCIE)",
+      "作者群": "Chuanli Zhao, Chou-Jung Hsu, Win-Chin Lin, Wen-Hsiang Wu, Chin-Chia Wu*"
+    },
+    {
+      "論文名稱": "Resource constrained scheduling problems with general truncated\r\nsum-of-processing time dependent effect under single machine and unrelated parallel machines",
+      "期刊名稱": "Computers & Industrial Engineering (SCIE)",
+      "作者群": "Xingong Zhang, Win-Chin Lin, Chou-Jung Hsu, Chin-Chia Wu*"
+    },
+    {
+      "論文名稱": "Single-machine common/slack due window assignment problems with linear decreasing processing times",
+      "期刊名稱": "Engineering Optimization (SCIE)",
+      "作者群": "Xingong Zhang, Win-Chin Lin, Wen-Hsiang Wu, Chin-Chia Wu*"
+    },
+    {
+      "論文名稱": "A two-machine flowshop scheduling problem with a job constraint",
+      "期刊名稱": "Soft Computing (SCIE)",
+      "作者群": "Shuenn-Ren Cheng, Yunqiang Yin, Chih-Hou Wen, Win-Chin Lin, and Chin-Chia Wu*"
+    },
+    {
+      "論文名稱": "Particle swarm optimization and opposite-based particle swarm optimization for two-agent multi-facility customer order scheduling with ready times",
+      "期刊名稱": "Applied Soft Computing (SCIE)",
+      "作者群": "Win-Chin Lin, Yunqiang Yin, Shuenn-Ren Cheng, T.C.E. Cheng, Chia-Han Wu, Chin-Chia Wu*"
+    },
+    {
+      "論文名稱": "An iterated local search for the multi-objective permutation flowshop scheduling problem with sequence-dependent setup times",
+      "期刊名稱": "Applied Soft Computing (SCIE)",
+      "作者群": "Jianyou Xu*, Chin-Chia Wu, Yunqiang Yin, Win-Chin Lin"
+    },
+    {
+      "論文名稱": "A combined approach for two-agent scheduling with sum-of-processing-times-based learning effect",
+      "期刊名稱": "Journal of the Operational Research Society (SCIE)",
+      "作者群": "Wen-Hung Wu, Yunqiang Yin, TCE Cheng, Juei-Chao Chen, Win-Chin Lin, Shin-Yi Luo, and Chin-Chia Wu*"
+    },
+    {
+      "論文名稱": "Heuristic based genetic algorithms for the re-entrant total completion time flowshop scheduling with learning consideration",
+      "期刊名稱": "International Journal of Computational Intelligence Systems (SCIE)",
+      "作者群": "Jianyou Xu, Win-Chin Lin, Junjie Wu, Shuenn-Ren Cheng, Zi-Ling Wang, and Chin-Chia Wu"
+    },
+    {
+      "論文名稱": "An order scheduling problem with position-based learning effect",
+      "期刊名稱": "Computers & Operations Research (SCIE)",
+      "作者群": "Jianyou Xu, Chin-Chia Wu, Yunqiang Yin, Chuanli Zhao, Yi-Tang Chiou, Win-Chin Lin*"
+    },
+    {
+      "論文名稱": "產品品質、夜市形象和消費者購買意願-以大陸旅客到逢甲夜市消費為例",
+      "期刊名稱": "育達科大學報 (華藝線上圖書館)",
+      "作者群": "吳惠珠 許鎦響 林文欽"
+    },
+    {
+      "論文名稱": "A heuristic-based genetic algorithm for the two-machine flowshop scheduling with learning consideration.",
+      "期刊名稱": "Journal of Manufacturing Systems (SCIE)",
+      "作者群": "Wen-Hsiang Wu, Wen-Hung Wu, Jui-Chao Chen, Win-Chin Lin, Jungpin Wu, and Chin-Chia Wu*"
+    },
+    {
+      "論文名稱": "A single-machine two-agent scheduling problem by a branch-and-bound and three simulated annealing algorithm",
+      "期刊名稱": "Discrete Dynamics in Nature and Society (SCIE)",
+      "作者群": "Shangchia Liu*, Wen-Hsiang Wu, Chao-Chung Kang, Win-Chin Lin, and Zhenmin Cheng"
+    },
+    {
+      "論文名稱": "A Note on Minimizing the Total Loss for Two Quality Characteristics with One-Sided Specification Limit",
+      "期刊名稱": "Advances in Industrial Engineering and Management ()",
+      "作者群": "Chun-His Wang, Jan-Yee Kung, Kuei-I Lee, Win-Chin Lin*, Chin-Chia Wu, Nae-Sheng Wang"
+    },
+    {
+      "論文名稱": "Two-Agent Single-Machine Scheduling of Jobs with Time-Dependent Processing Times and Ready Times",
+      "期刊名稱": "Mathematical Problems in Engineering (SCIE)",
+      "作者群": "Jan-Yee Kung, Yuan-Po Chao*, Kuei-I Lee, Chao-Chung Kang, and Win-Chin Lin"
+    },
+    {
+      "論文名稱": "適當的使用判定係數評估兩組量測值的一致性",
+      "期刊名稱": "華醫學報 ()",
+      "作者群": "林文欽 林明泉 吳孟珍 郭淑貞"
+    },
+    {
+      "論文名稱": "Strongly linear trend-free block designs and 1-factors of representative graphs",
+      "期刊名稱": "Journal of statistical planning and inference (SCIE)",
+      "作者群": "Win-Chin Lin, John Stufken"
+    },
+    {
+      "論文名稱": "Varietal Trials in the Presence of Trends",
+      "期刊名稱": "Journal of Combinatorics, Information & System Sciences ()",
+      "作者群": "林文欽、John Stufken"
+    },
+    {
+      "論文名稱": "On Finding Trend-Free Block Designs",
+      "期刊名稱": "Journal of Statistical Planning and Inference (SCIE)",
+      "作者群": "林文欽、John Stufken"
+    }
+  ],
+  "journal2": [],
+  "conference": [
+    {
+      "論文名稱": "Minimizing the order tardiness for a single-machine multiple-class customer order jobs problem by applying three meta-heuristics.",
+      "會議名稱": "The 22nd APIEMS Conference, APIEMS2022,",
+      "作者群": "K.-X. Hu,Win-Chin Lin, C.-C. Wu"
+    },
+    {
+      "論文名稱": "Solving a Two-stage Three-machine Flowshop Assembly Scheduling Problem with Learning Consideration",
+      "會議名稱": "2018 3rd International Conference on Education, Management, and Systems Engineering (EMSE2018)",
+      "作者群": "Win-Chin LIN, S.-R CHENG, K.-C. TSAI, S.-C. LIU, C.-T. LIN2 and C.-C. WU"
+    },
+    {
+      "論文名稱": "Exploring a two-criterion order scheduling problem by using five heuristics.",
+      "會議名稱": "The 2nd International Conference on Economic and Business Management (FEBM2017)",
+      "作者群": "Win-Chin Lin, Carol Yu, Shuenn-Ren Cheng, Tzu-Yun Lin, Yuan-Po Chao, Shang-Chia Liu, and Chin-Chia Wu*"
+    },
+    {
+      "論文名稱": "Simulated Annealing with four Different Initials for m-machine Scheduling Problems",
+      "會議名稱": "International Conference on Social Science (CONFSS)",
+      "作者群": "Win-Chin Lin, Yuan-Po Chao, Cheng-Hsiung Shih, Yi-Tang Chiou, Shuenn-Ren Cheng, Chin-Chia Wu"
+    },
+    {
+      "論文名稱": "A Genetic Algorithm and a Largest-order-value Method for the Two-machine Flowshop Scheduling Problem to Minimize the Total Tardiness",
+      "會議名稱": "International Symposium on Business, Banking, Marketing and Economy",
+      "作者群": "Wei-Chieh Liang, Chih-Hou Wen, Win-Chin Lin, Cheng-Hsiung Shin, Chin-Chia Wu,Shuenn-Ren Cheng"
+    },
+    {
+      "論文名稱": "Solve the single-machine two-agent scheduling problem with deteriorating jobs by using some heuristic-based simulated annealing algorithms",
+      "會議名稱": "The 13th Asia Pacific Industrial Engineering and Management Systems Conference (APIEMS 2012)",
+      "作者群": "Shuenn Ren Cheng, Win Chin Lin,Wen Hung Wu, Jungpin Wu, I Fan Cheng"
+    },
+    {
+      "論文名稱": "不等變異數與失衡設計的詹森-內曼非顯著區域",
+      "會議名稱": "第十八屆南區統計研討會",
+      "作者群": "楊美婷, 林文欽, 吳榮彬"
+    },
+    {
+      "論文名稱": "在有限區間上檢定兩迴歸直線是否相交",
+      "會議名稱": "第十八屆南區統計研討會",
+      "作者群": "任海峽, 吳榮彬, 林文欽"
+    },
+    {
+      "論文名稱": "兩條迴歸線交叉點的信賴區間",
+      "會議名稱": "97年統計學術研討會",
+      "作者群": "吳榮彬, 徐君岳, 林文欽"
+    },
+    {
+      "論文名稱": "交換法尋找一個共變量存在時A-最佳化的一因子設計",
+      "會議名稱": "95年統計學術研討會",
+      "作者群": "廖偲秀, 吳榮彬, 林文欽"
+    },
+    {
+      "論文名稱": "Reactor operating conditions for fermentative hydrogen production",
+      "會議名稱": "15th World Hydrogen Energy Conference",
+      "作者群": "F.-Y. Chang, C.-Y. Lin, W.-C. Lin, J. Wu"
+    }
+  ],
+  "book": [],
+  "patent": [],
+  "most": [
+    {
+      "name": "以焠煉法創造存在趨勢時的最佳區集設計",
+      "schoolYear": "91"
+    },
+    {
+      "name": "非強的去線性趨勢的區集設計",
+      "schoolYear": "90"
+    },
+    {
+      "name": "存在趨勢時搜尋有效的區集實驗設計的組合最佳化問題",
+      "schoolYear": "89"
+    },
+    {
+      "name": "去線性趨勢的區集實驗設計與圖形論",
+      "schoolYear": "88"
+    }
+  ],
+  "tech": [],
+  "induAca": [
+    "106年度臺灣通用電子地圖使用者滿意度調查採購案 (2017-01 to 2017-12)",
+    "104年度為民服務暨員工滿意度調查 (2015-04 to 2015-09)",
+    "103年度e-GPS即時動態定位系統服務滿意度調查分析 (2014-05 to 2014-08)",
+    "財政部南區國稅局103年度為民服務意見調查分析 (2014-02 to 2014-10)",
+    "財政部賦稅署重要施政民意調查--開徵特種貨物及勞務稅 (2011-07 to 2011-10)",
+    "財政部賦稅署重要施政民意調查--遺產稅及贈與稅減稅措施 (2011-07 to 2011-10)",
+    "100年度服務中心滿意度問卷調查 (2011-03 to 2011-12)",
+    "「南投縣政府資訊大樓後續建置計畫委託專業務案」民意調查專案 (2011-01 to 2011-02)",
+    "財政部臺灣省中區國稅局「99年度為民服務意見調查」 (2010-04 to 2010-10)",
+    "99年度服務中心滿意度問卷調查 (2010-04 to 2010-12)",
+    "財政部臺灣省中區國稅局98年度為民服務意見調查 (2009-05 to 2009-12)",
+    "財政部臺灣省中區國稅局97年度為民服務意見調查 (2008-05 to 2008-11)"
+  ],
+  "perform": [],
+  "reward": [
+    "逢甲大學論文著作獎勵傑出獎 (113, 2024-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (113, 2024-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優等獎 (113, 2024-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (113, 2024-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (113, 2024-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優等獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (111, 2022-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (111, 2022-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (111, 2022-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (111, 2022-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (110, 2021-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (110, 2021-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (110, 2021-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (110, 2021-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (110, 2021-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (110, 2021-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (110, 2021-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (110, 2021-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (110, 2021-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (109, 2020-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (109, 2020-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (109, 2020-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (109, 2020-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (109, 2020-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (109, 2020-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (108, 2019-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (108, 2019-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (108, 2019-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (107, 2018-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (106, 2017-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (105, 2016-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (103, 2014-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (92, 2003-11) - 逢甲大學"
+  ],
+  "speech": [],
+  "material": [
+    "問題導向學習教案：同學的網購時數的變異數是否為卡方分配？\t逢甲大學商管教育創新中心\t林文欽、鍾冬川、魏裕中\tPBL教案",
+    "問題導向學習教案：究竟哪個球員的投籃命中率高呢?\t逢甲大學商管教育創新中心\t林文欽、鍾冬川、魏裕中\tPBL教案"
+  ],
+  "tal": []
+}

@@ -1,0 +1,374 @@
+{
+  "success": true,
+  "info": {
+    "yms_year": 114.0,
+    "yms_smester": 1.0,
+    "sub_id": "52800",
+    "cls_id": "CE07129",
+    "scr_dup": "001",
+    "sub_id3": "IECS2002",
+    "cls_name": "資訊二合",
+    "cls_ename": "Department of Information Engineering and Computer Science",
+    "sub_name": "電子學",
+    "sub_ename": "ELECTRONICS",
+    "scr_mso": "選修",
+    "scr_mso_en": "Elective",
+    "scr_credit": 3.0,
+    "scr_periodly": "(一)11-13",
+    "scr_periodly_eng": "(Mon)11-13",
+    "lang_name": "中文                                                      ",
+    "lang_ename": "Chinese",
+    "scr_room": "資電306",
+    "scr_room_eng": "IEB306",
+    "scr_teacher": "吳育倫",
+    "scr_teacher_eng": "Yu-Lun Wu",
+    "scr_selcode": "1381",
+    "scr_elearning": "全學期",
+    "scr_elearning_en": "Full semester",
+    "scr_hours": "3",
+    "scr_english": "N",
+    "unt_name": null,
+    "unt_ename": null,
+    "link_traminal": null,
+    "link_traminal_en": null,
+    "scr_ldl": "D",
+    "course_mk": "N",
+    "teams_mk": "N",
+    "sub_title": null,
+    "sub_title_en": null,
+    "sub_describe": null,
+    "sub_describe_en": null,
+    "hasDescription": null,
+    "hasInstructor": null,
+    "hasTA": null,
+    "hasTextBooks": null,
+    "hasReadings": null,
+    "hasiSoftwares": null,
+    "hasAssistSoftwares": null,
+    "hasObjective": null,
+    "hasWeeklyScds": null,
+    "hasGradeRules": null,
+    "hasGradeRuleDescribe": null,
+    "hasIntegrity": null,
+    "hasCoursePol": null,
+    "hasCourseRem": null,
+    "hasObjectiveReleation": null,
+    "hasTopicSdgs": null,
+    "hasSubTitleDesc": null
+  },
+  "subTitleDesc": null,
+  "description": {
+    "sub_id3": null,
+    "sub_name": "電子學",
+    "sub_ename": "ELECTRONICS",
+    "describe_ch": "本課程介紹基礎電子學原理、電子元件特性和基本電子電路分析。課程包括半導體電子元件的特性與操作應用講授，含半導體物理概論、二極體、雙載子電晶體、場效電晶體、和運算放大器。",
+    "describe_eh": "The course is design to introduce fundamental principle of electronics, electronic device's characteristics, and electronic circuit analysis. Students will engage in the study of basic concepts including basic semiconductor physics, electronic device models such as diodes, bipolar junction transistors, field effect transistors, and operational amplifiers, . A student fulfills the course requirements who will have demonstrated a familiarity with basic electrical characteristics of common semiconductor devices and DC bias analysis.",
+    "pre_subname": "PHYS1003普通物理(一)、IEE1010普通物理-電、磁、光",
+    "pre_sub_id3": "PHYS1003",
+    "pre_sub_ename": "PHYS1003 GENERAL PHYSICS(1)、IEE1010 GENERAL PHYSICS - ELECTRIC, MAGNETIC, OPTICS",
+    "pre_describe": null,
+    "pre_describe_en": null,
+    "scr_credit": 3.0
+  },
+  "targets": [
+    {
+      "seq": 1,
+      "describe_ch": "運用數學科學與工程基本原理能力",
+      "describe_en": " "
+    },
+    {
+      "seq": 2,
+      "describe_ch": "讓學生獲得分析電子電路的基礎能力。",
+      "describe_en": " "
+    }
+  ],
+  "teachersInfo": [
+    {
+      "cname": "吳育倫",
+      "ename": "Yu-Lun Wu",
+      "period": " ",
+      "roletype": 0,
+      "email": null,
+      "ext": null
+    }
+  ],
+  "textBooks": {
+    "yms_year": 114.0,
+    "yms_smester": 1.0,
+    "cls_id": "CE07129",
+    "sub_id": "52800",
+    "scr_dup": "001",
+    "tpb_seq": 1,
+    "tpb_book": "<div>書名:基礎電子學(第三版)</div>\n\n<div>作者:高銘盛</div>\n\n<div>出版社:滄海圖書</div>\n",
+    "tpb_book_en": null
+  },
+  "readings": {
+    "yms_year": 114.0,
+    "yms_smester": 1.0,
+    "cls_id": "CE07129",
+    "sub_id": "52800",
+    "scr_dup": "001",
+    "tpc_seq": 1,
+    "tpc_book": "<div>Electronic Circuit analysis and Design X Ed. by Donald A. Neamen</div>\n",
+    "tpc_book_en": null
+  },
+  "iSoftwares": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CE07129",
+      "sub_id": "52800",
+      "scr_dup": "001",
+      "seq_no": 1,
+      "soft_kind": "2",
+      "soft_name": "LTspice 電路模擬軟體",
+      "soft_memo": "<div>https://www.analog.com/en/resources/design-tools-and-calculators/ltspice-simulator.html</div>\n",
+      "soft_name_en": null,
+      "soft_memo_en": null
+    }
+  ],
+  "assistSoftwares": [],
+  "weeklyScds": [],
+  "gradeRules": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CE07129",
+      "sub_id": "52800",
+      "scr_dup": "001",
+      "evalb_id": "D4",
+      "score_rate": 30,
+      "evalb_memo": "電路模擬作業",
+      "evalb_memo_en": null,
+      "evalb_name": "作業",
+      "evalb_name_en": "Homework",
+      "seq": 1
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CE07129",
+      "sub_id": "52800",
+      "scr_dup": "001",
+      "evalb_id": "D5",
+      "score_rate": 40,
+      "evalb_memo": "濾波器電路",
+      "evalb_memo_en": null,
+      "evalb_name": "期末專題",
+      "evalb_name_en": "Final presentation",
+      "seq": 2
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CE07129",
+      "sub_id": "52800",
+      "scr_dup": "001",
+      "evalb_id": "L2",
+      "score_rate": 30,
+      "evalb_memo": "以週為單位",
+      "evalb_memo_en": null,
+      "evalb_name": "點名",
+      "evalb_name_en": "Roll call",
+      "seq": 3
+    }
+  ],
+  "gradeRuleDescribe": {
+    "yms_year": 114.0,
+    "yms_smester": 1.0,
+    "cls_id": "CE07129",
+    "sub_id": "52800",
+    "scr_dup": "001",
+    "tpa_score_new": "<div>期末專題未繳視同沒參加期末考試</div>\n\n<div>&nbsp;</div>\n",
+    "tpa_score_new_en": null,
+    "course_pol": null,
+    "course_pol_en": null,
+    "course_rem": null,
+    "course_rem_en": null,
+    "ais_meno": null,
+    "ais_meno_en": null,
+    "ilearn_mk": null
+  },
+  "integrity": {
+    "yms_year": 114.0,
+    "yms_smester": 1.0,
+    "cls_id": "CE07129",
+    "sub_id": "52800",
+    "scr_dup": "001",
+    "tpa_score_new": "<div>期末專題未繳視同沒參加期末考試</div>\n\n<div>&nbsp;</div>\n",
+    "tpa_score_new_en": null,
+    "course_pol": null,
+    "course_pol_en": null,
+    "course_rem": null,
+    "course_rem_en": null,
+    "ais_meno": null,
+    "ais_meno_en": null,
+    "ilearn_mk": null
+  },
+  "policy": {
+    "yms_year": 114.0,
+    "yms_smester": 1.0,
+    "cls_id": "CE07129",
+    "sub_id": "52800",
+    "scr_dup": "001",
+    "tpa_score_new": "<div>期末專題未繳視同沒參加期末考試</div>\n\n<div>&nbsp;</div>\n",
+    "tpa_score_new_en": null,
+    "course_pol": null,
+    "course_pol_en": null,
+    "course_rem": null,
+    "course_rem_en": null,
+    "ais_meno": null,
+    "ais_meno_en": null,
+    "ilearn_mk": null
+  },
+  "courseBankC": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CE07129",
+      "sub_id": "52800",
+      "scr_dup": "001",
+      "seq": 1,
+      "describe_ch": "運用數學科學與工程基本原理能力",
+      "describe_en": " ",
+      "core_id": "A",
+      "core_item": "運用數學、科學及工程知識的能力。",
+      "core_eng": "The ability of applying the knowledge of mathematics, science and engineering",
+      "core_level": "2 ",
+      "strgy": [
+        "01"
+      ],
+      "evalb": [
+        "D4"
+      ],
+      "strgy_name": [
+        "課堂授課"
+      ],
+      "strgy_name_en": [
+        "Classroom instruction"
+      ],
+      "evalb_name": [
+        "作業"
+      ],
+      "evalb_name_en": [
+        "Homework"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CE07129",
+          "sub_id": "52800",
+          "scr_dup": "001",
+          "seq": 1,
+          "strgy_id": "01",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CE07129",
+          "sub_id": "52800",
+          "scr_dup": "001",
+          "seq": 1,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D4",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CE07129",
+      "sub_id": "52800",
+      "scr_dup": "001",
+      "seq": 2,
+      "describe_ch": "讓學生獲得分析電子電路的基礎能力。",
+      "describe_en": " ",
+      "core_id": "B",
+      "core_item": "設計、執行實驗、分析與詮釋數據的能力。",
+      "core_eng": "The ability of designing and executing experiments, and the ability of analyzing and interpreting experimental results",
+      "core_level": "2 ",
+      "strgy": [
+        "05"
+      ],
+      "evalb": [
+        "D4",
+        "D5"
+      ],
+      "strgy_name": [
+        "實驗實習"
+      ],
+      "strgy_name_en": [
+        "Experimental practice"
+      ],
+      "evalb_name": [
+        "作業",
+        "期末專題"
+      ],
+      "evalb_name_en": [
+        "Homework",
+        "Final presentation"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CE07129",
+          "sub_id": "52800",
+          "scr_dup": "001",
+          "seq": 2,
+          "strgy_id": "05",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CE07129",
+          "sub_id": "52800",
+          "scr_dup": "001",
+          "seq": 2,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D4",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CE07129",
+          "sub_id": "52800",
+          "scr_dup": "001",
+          "seq": 2,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D5",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    }
+  ],
+  "topicSdgs": [],
+  "learnHours": {
+    "total": 0.0,
+    "tpdOnlineAsyTotal": 0.0,
+    "tpdOnlineSynTotal": 0.0,
+    "tpdOnlineFaceTotal": 0.0,
+    "asySynInTotalPercent": 0.0
+  },
+  "crossVerYear": 114
+}

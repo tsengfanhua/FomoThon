@@ -1,0 +1,1109 @@
+{
+  "success": true,
+  "info": {
+    "yms_year": 114.0,
+    "yms_smester": 2.0,
+    "sub_id": "27420",
+    "cls_id": "CI05112",
+    "scr_dup": "001",
+    "sub_id3": "IEE1001",
+    "cls_name": "資電一乙",
+    "cls_ename": "Honor Program of Information and Electrical Engineering",
+    "sub_name": "計算機概論(二)",
+    "sub_ename": "INTRODUCTION TO COMPUTER(2)",
+    "scr_mso": "必修",
+    "scr_mso_en": "Required",
+    "scr_credit": 3.0,
+    "scr_periodly": "(一)03-04 (三)06",
+    "scr_periodly_eng": "(Mon)03-04 (Wed)06",
+    "lang_name": "中文                                                      ",
+    "lang_ename": "Chinese",
+    "scr_room": "資電512,資電404",
+    "scr_room_eng": "IEB512,IEB404",
+    "scr_teacher": "王益文",
+    "scr_teacher_eng": "Yi-Wen Wang",
+    "scr_selcode": "2101",
+    "scr_elearning": "全學期",
+    "scr_elearning_en": "Full semester",
+    "scr_hours": "3",
+    "scr_english": "N",
+    "unt_name": null,
+    "unt_ename": null,
+    "link_traminal": null,
+    "link_traminal_en": null,
+    "scr_ldl": "D",
+    "course_mk": "N",
+    "teams_mk": "N",
+    "sub_title": null,
+    "sub_title_en": null,
+    "sub_describe": null,
+    "sub_describe_en": null,
+    "hasDescription": null,
+    "hasInstructor": null,
+    "hasTA": null,
+    "hasTextBooks": null,
+    "hasReadings": null,
+    "hasiSoftwares": null,
+    "hasAssistSoftwares": null,
+    "hasObjective": null,
+    "hasWeeklyScds": null,
+    "hasGradeRules": null,
+    "hasGradeRuleDescribe": null,
+    "hasIntegrity": null,
+    "hasCoursePol": null,
+    "hasCourseRem": null,
+    "hasObjectiveReleation": null,
+    "hasTopicSdgs": null,
+    "hasTopicAiIndicators": null,
+    "hasSubTitleDesc": null
+  },
+  "subTitleDesc": null,
+  "description": {
+    "sub_id3": null,
+    "sub_name": "計算機概論(二)",
+    "sub_ename": "INTRODUCTION TO COMPUTER(2)",
+    "describe_ch": "本課程的目標在於讓學生廣泛地認識電腦科學相關的主題，概述計算機中軟體與硬體相關的基本知識。課程主要為電腦原理的介紹，及使用計算機來解決方法論與演算法的問題。　",
+    "describe_eh": "The purpose of this course is to make the students know the related topics of Computer Science, and to state the knowledge of software/hardware in Computer Science. The course mainly focuses on the introduction of the computer theories, and the use of computer to solve the problems of methodology and algorithm.",
+    "pre_subname": "",
+    "pre_sub_id3": null,
+    "pre_sub_ename": "",
+    "pre_describe": null,
+    "pre_describe_en": null,
+    "scr_credit": 3.0
+  },
+  "targets": [
+    {
+      "seq": 1,
+      "describe_ch": "1介紹計算機相關軟硬體基本術語及觀念，使學生能以專業的詞彙做溝通",
+      "describe_en": "1. To introduce the basic technology terms of computer to help students to communicate with professional engineer."
+    },
+    {
+      "seq": 2,
+      "describe_ch": "2 使學生瞭解計算機運作原理以及各項影響計算機效能的關鍵技術",
+      "describe_en": "2. To teach students to understand computer hardware processing model and know the factors that will influence the performance of computer."
+    },
+    {
+      "seq": 3,
+      "describe_ch": "3使學生能瞭解程式語言的發展趨勢及相關技巧，以及發展應用程式的能力",
+      "describe_en": "3. The knowledge about programming language is introduced to make students to understand the related issues about the developing for computer applications."
+    },
+    {
+      "seq": 4,
+      "describe_ch": "4. 以C及C++語言的介紹為主軸，介紹諸項程式設計的技術與思考習慣",
+      "describe_en": "4. By introducing the C and C++ language to introduce the skills of programming."
+    },
+    {
+      "seq": 5,
+      "describe_ch": "5. 訓練學生程式設計的邏輯思維，建立日後專業程式撰寫的基礎",
+      "describe_en": "5. Training the capability of logic reasoning and building the basics for professional programming."
+    },
+    {
+      "seq": 6,
+      "describe_ch": "6. 增進學生以專業的知識思維以解決問題，奠定優良的工程師專業素養",
+      "describe_en": "6. To improve students' ability for professional thinking and to establish good features to be a good engineer."
+    }
+  ],
+  "teachersInfo": [
+    {
+      "cname": "王益文",
+      "ename": "Yi-Wen Wang",
+      "period": " ",
+      "roletype": 0,
+      "email": "ywang@o365.fcu.edu.tw",
+      "ext": "3763"
+    },
+    {
+      "cname": "禇翊喨",
+      "ename": "CHU, I-LIANG",
+      "period": " ",
+      "roletype": 1,
+      "email": "d1158787@o365.fcu.edu.tw",
+      "ext": " "
+    },
+    {
+      "cname": "黃淯祐",
+      "ename": "HUANG YU YU",
+      "period": " ",
+      "roletype": 1,
+      "email": "d1158889@o365.fcu.edu.tw",
+      "ext": " "
+    }
+  ],
+  "textBooks": {
+    "yms_year": 114.0,
+    "yms_smester": 2.0,
+    "cls_id": "CI05112",
+    "sub_id": "27420",
+    "scr_dup": "001",
+    "tpb_seq": 1,
+    "tpb_book": "<div>Foundation of Computer Science,<br />\nBehrouz A. Forouzan&nbsp;&nbsp; &nbsp;</div>\n\n<div>　　　　　　　　　　　　　　</div>\n",
+    "tpb_book_en": null
+  },
+  "readings": {
+    "yms_year": 114.0,
+    "yms_smester": 2.0,
+    "cls_id": "CI05112",
+    "sub_id": "27420",
+    "scr_dup": "001",
+    "tpc_seq": 1,
+    "tpc_book": "<div>Course materials developed by Prof. Chua-Huang Huang, Department of Computer and Information Science, Feng Chia University</div>\n\n<div>&nbsp;</div>\n",
+    "tpc_book_en": null
+  },
+  "iSoftwares": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CI05112",
+      "sub_id": "27420",
+      "scr_dup": "001",
+      "seq_no": 1,
+      "soft_kind": "2",
+      "soft_name": "Dev-C++ 5.0 (4.9.9.2) with Mingw/GCC 3.4.2 compiler and GDB 5.2.1 debugger",
+      "soft_memo": "<div>\n<div>\n<div>\n<div>Open Source C/C++ IDE for Windows</div>\n</div>\n</div>\n</div>\n\n<div>\n<div>\n<div>\n<div><a href=\"http://dev-cpp.com/\">Dev-C++</a>&nbsp;is a full-featured C and C++ Integrated Development Environment (IDE) for Windows platforms. Millions of developers,&nbsp;students and researchers use Dev-C++ since the first version was released in 1998. It has been featured in dozens of C++ and scientific books and remains one of the favorite learning tool among universities &amp; schools worldwide.</div>\n</div>\n</div>\n</div>\n",
+      "soft_name_en": null,
+      "soft_memo_en": null
+    }
+  ],
+  "assistSoftwares": [],
+  "weeklyScds": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CI05112",
+      "sub_id": "27420",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "1",
+      "tpd_reading": "Basic Data Structure - Arrays, Records, Linked Lists",
+      "tpd_reading_en": null,
+      "tpd_learn": null,
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CI05112",
+      "sub_id": "27420",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "2 - 3",
+      "tpd_reading": "Implementation of Links - C Pointers, Call by Reference by pointers, Examples of Using Pointers, Pointer Arithmetic, Arrays of Pointers, Pointers to Functions",
+      "tpd_reading_en": null,
+      "tpd_learn": null,
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CI05112",
+      "sub_id": "27420",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "4 - 5",
+      "tpd_reading": "More Data Structures and Abstract Data Types - Stacks, Queues, Trees, Binary Trees, Binary Search Trees, Graphs",
+      "tpd_reading_en": null,
+      "tpd_learn": null,
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CI05112",
+      "sub_id": "27420",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "6 - 7",
+      "tpd_reading": "File Structures - Access Methods, Sequential Files, Index Files, Hashed Files, Directories,",
+      "tpd_reading_en": null,
+      "tpd_learn": null,
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CI05112",
+      "sub_id": "27420",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "8",
+      "tpd_reading": "Review",
+      "tpd_reading_en": null,
+      "tpd_learn": null,
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CI05112",
+      "sub_id": "27420",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "9-10",
+      "tpd_reading": "Databases -Database Management Systems, Database Architecture, Database Models, The Relational Database Model, Operations on Relations, Database Design",
+      "tpd_reading_en": null,
+      "tpd_learn": null,
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CI05112",
+      "sub_id": "27420",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "11",
+      "tpd_reading": "Software Engineering - Software Life Cycle, Software Requirement Phase, Software Design Phase, Implementation Phase, Testing Phase, Documentation",
+      "tpd_reading_en": null,
+      "tpd_learn": null,
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CI05112",
+      "sub_id": "27420",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "12-13",
+      "tpd_reading": "Computer Networks - OSI Model, Layer STructure, TCP/IP Suite, Internet Applications",
+      "tpd_reading_en": null,
+      "tpd_learn": null,
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CI05112",
+      "sub_id": "27420",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "14-15",
+      "tpd_reading": "Information Security - Cryptographiy, Key Management, Security Attacks, Prevention Methods",
+      "tpd_reading_en": null,
+      "tpd_learn": null,
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CI05112",
+      "sub_id": "27420",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "16-17",
+      "tpd_reading": "Data Compression, Artificial Intelligence",
+      "tpd_reading_en": null,
+      "tpd_learn": null,
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CI05112",
+      "sub_id": "27420",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "18",
+      "tpd_reading": "Review",
+      "tpd_reading_en": null,
+      "tpd_learn": null,
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    }
+  ],
+  "gradeRules": [],
+  "gradeRuleDescribe": {
+    "yms_year": 114.0,
+    "yms_smester": 2.0,
+    "cls_id": "CI05112",
+    "sub_id": "27420",
+    "scr_dup": "001",
+    "tpa_score_new": "Midterm\t\t\t\t:  30%\nFinal\t\t\t\t:  35%\nAssignment  X 7\t\t\t:  35%",
+    "tpa_score_new_en": null,
+    "course_pol": "Copy Right Disclaimer\nYou may NOT distribute, display, modify, repost, transmit or sale\nall or part of any material used in this class.\n\nAI Helps\nEncourage you to use the ChatGPT to obtain the reference solutions of any problems of your homework\nassignments.\nIf your solutions are originated from the ChatGPT, you should markup the differences between the ChatGPT\nsolutions and your submitted solutions as well as answer the following questions.\n1. Why did your instructor assign you this problem as a homework?\n2. Why did the ChatGPT give you this solution to reply the problem that your instructor assigned?\n3. Does the ChatGPT solution fulfill the education purpose of your instructor to assign this problem?\nIf you did NOT reply above three questions for each problem, you may get a zero point for that solution.\nFor exams or on-site tests, the ChatGPT or any other networking communication is prohibited",
+    "course_pol_en": null,
+    "course_rem": "Copy Right Disclaimer\nYou may NOT distribute, display, modify, repost, transmit or sale\nall or part of any material used in this class.\n\nAI Helps\nEncourage you to use any AI tools to obtain the reference solutions of any problems of your homework\nassignments.\nIf your solutions are originated from the  AI tools, you should markup the differences between the  AI tool\nsolutions and your submitted solutions as well as answer the following questions.\n1. Why did your instructor assign you this problem as a homework?\n2. Why did the  AI tools give you this solution to reply the problem that your instructor assigned?\n3. Does the  AI tool solution fulfill the education purpose of your instructor to assign this problem?\nIf you did NOT reply above three questions for each problem, you may get a zero point for that solution.\nFor exams or on-site tests, the  AI tools or any other networking communication is prohibited",
+    "course_rem_en": null,
+    "ais_meno": "<table>\n\t<tbody>\n\t\t<tr>\n\t\t\t<th>綜合說明</th>\n\t\t</tr>\n\t</tbody>\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<div>\n\t\t\t<div>\n\t\t\t<div>\n\t\t\t<div>Academic Honesty<br />\n\t\t\tAs a FCU student, you&rsquo;ve joined a community that upholds integrity in all of its academic<br />\n\t\t\tendeavours, and you&rsquo;ve made a personal commitment to studying with academic integrity.<br />\n\t\t\tThis means that, whenever you work on an assignment or submit an assessment, you do so<br />\n\t\t\thonestly, fairly, respectfully and responsibly.<br />\n\t\t\tUnderstand that plagiarism, collusion and cheating bring serious consequences. Not only<br />\n\t\t\twhile you&rsquo;re at FCU, but well beyond. Such misconduct could harm you personally and<br />\n\t\t\tprofessionally for the rest of your life.</div>\n\n\t\t\t<div>學術誠信</div>\n\n\t\t\t<div>作為FCU的學生，您加入了一個在所有學術方面都秉持誠信的社區努力，<br />\n\t\t\t並且您已做出個人承諾以學術誠信的方式學習。</div>\n\n\t\t\t<div>這意味著，每當您完成作業或提交評估時，<br />\n\t\t\t您都會誠實、公平、尊重和負責任這樣做。</div>\n\n\t\t\t<div>您了解抄襲、串通和作弊會帶來嚴重後果，<br />\n\t\t\t當你在FCU時，此類不當行為，可能會傷害您個人並<br />\n\t\t\t您餘生提供專業的服務。</div>\n\t\t\t</div>\n\t\t\t</div>\n\t\t\t</div>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>\n",
+    "ais_meno_en": null,
+    "ilearn_mk": null
+  },
+  "integrity": {
+    "yms_year": 114.0,
+    "yms_smester": 2.0,
+    "cls_id": "CI05112",
+    "sub_id": "27420",
+    "scr_dup": "001",
+    "tpa_score_new": "Midterm\t\t\t\t:  30%\nFinal\t\t\t\t:  35%\nAssignment  X 7\t\t\t:  35%",
+    "tpa_score_new_en": null,
+    "course_pol": "Copy Right Disclaimer\nYou may NOT distribute, display, modify, repost, transmit or sale\nall or part of any material used in this class.\n\nAI Helps\nEncourage you to use the ChatGPT to obtain the reference solutions of any problems of your homework\nassignments.\nIf your solutions are originated from the ChatGPT, you should markup the differences between the ChatGPT\nsolutions and your submitted solutions as well as answer the following questions.\n1. Why did your instructor assign you this problem as a homework?\n2. Why did the ChatGPT give you this solution to reply the problem that your instructor assigned?\n3. Does the ChatGPT solution fulfill the education purpose of your instructor to assign this problem?\nIf you did NOT reply above three questions for each problem, you may get a zero point for that solution.\nFor exams or on-site tests, the ChatGPT or any other networking communication is prohibited",
+    "course_pol_en": null,
+    "course_rem": "Copy Right Disclaimer\nYou may NOT distribute, display, modify, repost, transmit or sale\nall or part of any material used in this class.\n\nAI Helps\nEncourage you to use any AI tools to obtain the reference solutions of any problems of your homework\nassignments.\nIf your solutions are originated from the  AI tools, you should markup the differences between the  AI tool\nsolutions and your submitted solutions as well as answer the following questions.\n1. Why did your instructor assign you this problem as a homework?\n2. Why did the  AI tools give you this solution to reply the problem that your instructor assigned?\n3. Does the  AI tool solution fulfill the education purpose of your instructor to assign this problem?\nIf you did NOT reply above three questions for each problem, you may get a zero point for that solution.\nFor exams or on-site tests, the  AI tools or any other networking communication is prohibited",
+    "course_rem_en": null,
+    "ais_meno": "<table>\n\t<tbody>\n\t\t<tr>\n\t\t\t<th>綜合說明</th>\n\t\t</tr>\n\t</tbody>\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<div>\n\t\t\t<div>\n\t\t\t<div>\n\t\t\t<div>Academic Honesty<br />\n\t\t\tAs a FCU student, you&rsquo;ve joined a community that upholds integrity in all of its academic<br />\n\t\t\tendeavours, and you&rsquo;ve made a personal commitment to studying with academic integrity.<br />\n\t\t\tThis means that, whenever you work on an assignment or submit an assessment, you do so<br />\n\t\t\thonestly, fairly, respectfully and responsibly.<br />\n\t\t\tUnderstand that plagiarism, collusion and cheating bring serious consequences. Not only<br />\n\t\t\twhile you&rsquo;re at FCU, but well beyond. Such misconduct could harm you personally and<br />\n\t\t\tprofessionally for the rest of your life.</div>\n\n\t\t\t<div>學術誠信</div>\n\n\t\t\t<div>作為FCU的學生，您加入了一個在所有學術方面都秉持誠信的社區努力，<br />\n\t\t\t並且您已做出個人承諾以學術誠信的方式學習。</div>\n\n\t\t\t<div>這意味著，每當您完成作業或提交評估時，<br />\n\t\t\t您都會誠實、公平、尊重和負責任這樣做。</div>\n\n\t\t\t<div>您了解抄襲、串通和作弊會帶來嚴重後果，<br />\n\t\t\t當你在FCU時，此類不當行為，可能會傷害您個人並<br />\n\t\t\t您餘生提供專業的服務。</div>\n\t\t\t</div>\n\t\t\t</div>\n\t\t\t</div>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>\n",
+    "ais_meno_en": null,
+    "ilearn_mk": null
+  },
+  "policy": {
+    "yms_year": 114.0,
+    "yms_smester": 2.0,
+    "cls_id": "CI05112",
+    "sub_id": "27420",
+    "scr_dup": "001",
+    "tpa_score_new": "Midterm\t\t\t\t:  30%\nFinal\t\t\t\t:  35%\nAssignment  X 7\t\t\t:  35%",
+    "tpa_score_new_en": null,
+    "course_pol": "Copy Right Disclaimer\nYou may NOT distribute, display, modify, repost, transmit or sale\nall or part of any material used in this class.\n\nAI Helps\nEncourage you to use the ChatGPT to obtain the reference solutions of any problems of your homework\nassignments.\nIf your solutions are originated from the ChatGPT, you should markup the differences between the ChatGPT\nsolutions and your submitted solutions as well as answer the following questions.\n1. Why did your instructor assign you this problem as a homework?\n2. Why did the ChatGPT give you this solution to reply the problem that your instructor assigned?\n3. Does the ChatGPT solution fulfill the education purpose of your instructor to assign this problem?\nIf you did NOT reply above three questions for each problem, you may get a zero point for that solution.\nFor exams or on-site tests, the ChatGPT or any other networking communication is prohibited",
+    "course_pol_en": null,
+    "course_rem": "Copy Right Disclaimer\nYou may NOT distribute, display, modify, repost, transmit or sale\nall or part of any material used in this class.\n\nAI Helps\nEncourage you to use any AI tools to obtain the reference solutions of any problems of your homework\nassignments.\nIf your solutions are originated from the  AI tools, you should markup the differences between the  AI tool\nsolutions and your submitted solutions as well as answer the following questions.\n1. Why did your instructor assign you this problem as a homework?\n2. Why did the  AI tools give you this solution to reply the problem that your instructor assigned?\n3. Does the  AI tool solution fulfill the education purpose of your instructor to assign this problem?\nIf you did NOT reply above three questions for each problem, you may get a zero point for that solution.\nFor exams or on-site tests, the  AI tools or any other networking communication is prohibited",
+    "course_rem_en": null,
+    "ais_meno": "<table>\n\t<tbody>\n\t\t<tr>\n\t\t\t<th>綜合說明</th>\n\t\t</tr>\n\t</tbody>\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<div>\n\t\t\t<div>\n\t\t\t<div>\n\t\t\t<div>Academic Honesty<br />\n\t\t\tAs a FCU student, you&rsquo;ve joined a community that upholds integrity in all of its academic<br />\n\t\t\tendeavours, and you&rsquo;ve made a personal commitment to studying with academic integrity.<br />\n\t\t\tThis means that, whenever you work on an assignment or submit an assessment, you do so<br />\n\t\t\thonestly, fairly, respectfully and responsibly.<br />\n\t\t\tUnderstand that plagiarism, collusion and cheating bring serious consequences. Not only<br />\n\t\t\twhile you&rsquo;re at FCU, but well beyond. Such misconduct could harm you personally and<br />\n\t\t\tprofessionally for the rest of your life.</div>\n\n\t\t\t<div>學術誠信</div>\n\n\t\t\t<div>作為FCU的學生，您加入了一個在所有學術方面都秉持誠信的社區努力，<br />\n\t\t\t並且您已做出個人承諾以學術誠信的方式學習。</div>\n\n\t\t\t<div>這意味著，每當您完成作業或提交評估時，<br />\n\t\t\t您都會誠實、公平、尊重和負責任這樣做。</div>\n\n\t\t\t<div>您了解抄襲、串通和作弊會帶來嚴重後果，<br />\n\t\t\t當你在FCU時，此類不當行為，可能會傷害您個人並<br />\n\t\t\t您餘生提供專業的服務。</div>\n\t\t\t</div>\n\t\t\t</div>\n\t\t\t</div>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>\n",
+    "ais_meno_en": null,
+    "ilearn_mk": null
+  },
+  "courseBankC": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CI05112",
+      "sub_id": "27420",
+      "scr_dup": "001",
+      "seq": 1,
+      "describe_ch": "1介紹計算機相關軟硬體基本術語及觀念，使學生能以專業的詞彙做溝通",
+      "describe_en": "1. To introduce the basic technology terms of computer to help students to communicate with professional engineer.",
+      "core_id": null,
+      "core_item": null,
+      "core_eng": null,
+      "core_level": "1 ",
+      "strgy": [
+        "01"
+      ],
+      "evalb": [
+        "D1",
+        "D2",
+        "D4"
+      ],
+      "strgy_name": [
+        "課堂授課"
+      ],
+      "strgy_name_en": [
+        "Classroom instruction"
+      ],
+      "evalb_name": [
+        "期中考",
+        "期末考",
+        "作業"
+      ],
+      "evalb_name_en": [
+        "Midterm examination",
+        "Final examination",
+        "Homework"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CI05112",
+          "sub_id": "27420",
+          "scr_dup": "001",
+          "seq": 1,
+          "strgy_id": "01",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CI05112",
+          "sub_id": "27420",
+          "scr_dup": "001",
+          "seq": 1,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D1",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CI05112",
+          "sub_id": "27420",
+          "scr_dup": "001",
+          "seq": 1,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D2",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CI05112",
+          "sub_id": "27420",
+          "scr_dup": "001",
+          "seq": 1,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D4",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CI05112",
+      "sub_id": "27420",
+      "scr_dup": "001",
+      "seq": 2,
+      "describe_ch": "2 使學生瞭解計算機運作原理以及各項影響計算機效能的關鍵技術",
+      "describe_en": "2. To teach students to understand computer hardware processing model and know the factors that will influence the performance of computer.",
+      "core_id": null,
+      "core_item": null,
+      "core_eng": null,
+      "core_level": "1 ",
+      "strgy": [
+        "01"
+      ],
+      "evalb": [
+        "D1",
+        "D2",
+        "D4"
+      ],
+      "strgy_name": [
+        "課堂授課"
+      ],
+      "strgy_name_en": [
+        "Classroom instruction"
+      ],
+      "evalb_name": [
+        "期中考",
+        "期末考",
+        "作業"
+      ],
+      "evalb_name_en": [
+        "Midterm examination",
+        "Final examination",
+        "Homework"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CI05112",
+          "sub_id": "27420",
+          "scr_dup": "001",
+          "seq": 2,
+          "strgy_id": "01",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CI05112",
+          "sub_id": "27420",
+          "scr_dup": "001",
+          "seq": 2,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D1",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CI05112",
+          "sub_id": "27420",
+          "scr_dup": "001",
+          "seq": 2,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D2",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CI05112",
+          "sub_id": "27420",
+          "scr_dup": "001",
+          "seq": 2,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D4",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CI05112",
+      "sub_id": "27420",
+      "scr_dup": "001",
+      "seq": 3,
+      "describe_ch": "3使學生能瞭解程式語言的發展趨勢及相關技巧，以及發展應用程式的能力",
+      "describe_en": "3. The knowledge about programming language is introduced to make students to understand the related issues about the developing for computer applications.",
+      "core_id": null,
+      "core_item": null,
+      "core_eng": null,
+      "core_level": "2 ",
+      "strgy": [
+        "01"
+      ],
+      "evalb": [
+        "D1",
+        "D2",
+        "D4"
+      ],
+      "strgy_name": [
+        "課堂授課"
+      ],
+      "strgy_name_en": [
+        "Classroom instruction"
+      ],
+      "evalb_name": [
+        "期中考",
+        "期末考",
+        "作業"
+      ],
+      "evalb_name_en": [
+        "Midterm examination",
+        "Final examination",
+        "Homework"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CI05112",
+          "sub_id": "27420",
+          "scr_dup": "001",
+          "seq": 3,
+          "strgy_id": "01",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CI05112",
+          "sub_id": "27420",
+          "scr_dup": "001",
+          "seq": 3,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D1",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CI05112",
+          "sub_id": "27420",
+          "scr_dup": "001",
+          "seq": 3,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D2",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CI05112",
+          "sub_id": "27420",
+          "scr_dup": "001",
+          "seq": 3,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D4",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CI05112",
+      "sub_id": "27420",
+      "scr_dup": "001",
+      "seq": 4,
+      "describe_ch": "4. 以C及C++語言的介紹為主軸，介紹諸項程式設計的技術與思考習慣",
+      "describe_en": "4. By introducing the C and C++ language to introduce the skills of programming.",
+      "core_id": null,
+      "core_item": null,
+      "core_eng": null,
+      "core_level": "2 ",
+      "strgy": [
+        "01"
+      ],
+      "evalb": [
+        "D1",
+        "D2",
+        "D4"
+      ],
+      "strgy_name": [
+        "課堂授課"
+      ],
+      "strgy_name_en": [
+        "Classroom instruction"
+      ],
+      "evalb_name": [
+        "期中考",
+        "期末考",
+        "作業"
+      ],
+      "evalb_name_en": [
+        "Midterm examination",
+        "Final examination",
+        "Homework"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CI05112",
+          "sub_id": "27420",
+          "scr_dup": "001",
+          "seq": 4,
+          "strgy_id": "01",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CI05112",
+          "sub_id": "27420",
+          "scr_dup": "001",
+          "seq": 4,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D1",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CI05112",
+          "sub_id": "27420",
+          "scr_dup": "001",
+          "seq": 4,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D2",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CI05112",
+          "sub_id": "27420",
+          "scr_dup": "001",
+          "seq": 4,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D4",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CI05112",
+      "sub_id": "27420",
+      "scr_dup": "001",
+      "seq": 5,
+      "describe_ch": "5. 訓練學生程式設計的邏輯思維，建立日後專業程式撰寫的基礎",
+      "describe_en": "5. Training the capability of logic reasoning and building the basics for professional programming.",
+      "core_id": null,
+      "core_item": null,
+      "core_eng": null,
+      "core_level": "3 ",
+      "strgy": [
+        "01"
+      ],
+      "evalb": [
+        "D1",
+        "D2",
+        "D4"
+      ],
+      "strgy_name": [
+        "課堂授課"
+      ],
+      "strgy_name_en": [
+        "Classroom instruction"
+      ],
+      "evalb_name": [
+        "期中考",
+        "期末考",
+        "作業"
+      ],
+      "evalb_name_en": [
+        "Midterm examination",
+        "Final examination",
+        "Homework"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CI05112",
+          "sub_id": "27420",
+          "scr_dup": "001",
+          "seq": 5,
+          "strgy_id": "01",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CI05112",
+          "sub_id": "27420",
+          "scr_dup": "001",
+          "seq": 5,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D1",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CI05112",
+          "sub_id": "27420",
+          "scr_dup": "001",
+          "seq": 5,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D2",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CI05112",
+          "sub_id": "27420",
+          "scr_dup": "001",
+          "seq": 5,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D4",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CI05112",
+      "sub_id": "27420",
+      "scr_dup": "001",
+      "seq": 6,
+      "describe_ch": "6. 增進學生以專業的知識思維以解決問題，奠定優良的工程師專業素養",
+      "describe_en": "6. To improve students' ability for professional thinking and to establish good features to be a good engineer.",
+      "core_id": null,
+      "core_item": null,
+      "core_eng": null,
+      "core_level": "3 ",
+      "strgy": [
+        "01"
+      ],
+      "evalb": [
+        "D1",
+        "D2",
+        "D4"
+      ],
+      "strgy_name": [
+        "課堂授課"
+      ],
+      "strgy_name_en": [
+        "Classroom instruction"
+      ],
+      "evalb_name": [
+        "期中考",
+        "期末考",
+        "作業"
+      ],
+      "evalb_name_en": [
+        "Midterm examination",
+        "Final examination",
+        "Homework"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CI05112",
+          "sub_id": "27420",
+          "scr_dup": "001",
+          "seq": 6,
+          "strgy_id": "01",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CI05112",
+          "sub_id": "27420",
+          "scr_dup": "001",
+          "seq": 6,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D1",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CI05112",
+          "sub_id": "27420",
+          "scr_dup": "001",
+          "seq": 6,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D2",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CI05112",
+          "sub_id": "27420",
+          "scr_dup": "001",
+          "seq": 6,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D4",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    }
+  ],
+  "topicSdgs": [],
+  "topicAiIndicators": [],
+  "learnHours": {
+    "total": 0.0,
+    "tpdOnlineAsyTotal": 0.0,
+    "tpdOnlineSynTotal": 0.0,
+    "tpdOnlineFaceTotal": 0.0,
+    "asySynInTotalPercent": 0.0
+  },
+  "crossVerYear": 114
+}

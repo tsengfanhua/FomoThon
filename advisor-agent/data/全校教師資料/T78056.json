@@ -1,0 +1,785 @@
+{
+  "teacherId": "T78056",
+  "name": "劉安之",
+  "mainUnit": "資訊電機學院",
+  "detailUnit": "資訊工程學系",
+  "skill": [
+    "網路管理Network Management",
+    "分散式系統Distributed System",
+    "資料庫系統Database System"
+  ],
+  "edu": [
+    "美國伊利諾大學芝加哥分校 電機電腦 博士",
+    "國立交通大學 計算機工程 碩士",
+    "國立交通大學 控制工程系 學士"
+  ],
+  "fcuExp": [
+    "資訊工程學系(所) 系主任",
+    "資訊工程學系(所) 所長",
+    "工學院 院長",
+    "資訊中心 主任",
+    "校長室 副校長",
+    "領導知能發展中心 主任",
+    "校長室 代理校長",
+    "校長室 校長",
+    "資訊處 資訊長",
+    "圖書館 館長",
+    "國際事務處 國際事務長",
+    "資訊發展委員會 召集人",
+    "資訊工程學系(所) 教授",
+    "資訊工程學系 教授",
+    "資訊工程學系 教授",
+    "資訊工程學系 教授",
+    "董事會 特聘講座教授",
+    "資訊工程學系 教授",
+    "董事會 特聘講座教授",
+    "資訊工程學系 教授",
+    "資訊工程學系 教授",
+    "資訊工程學系 教授",
+    "資訊工程學系 教授",
+    "資訊工程學系 榮譽特聘講座教授",
+    "資訊工程學系 教授",
+    "資訊工程學系 教授",
+    "資訊工程學系 教授"
+  ],
+  "currjob": [],
+  "otherExp": [
+    "教育部  研究員兼領域召集人",
+    "法鼓大學 籌備處 主任",
+    "美國伊利諾大學 工學院 助理教授",
+    "美國Gemini Computers  系統工程師",
+    "美國達克達大學助理教授  助理教授"
+  ],
+  "journal": [
+    {
+      "論文名稱": "Exploring time-related micro-behavioral patterns in a Python programming online course",
+      "期刊名稱": "Journal of Information Science and Engineering (SCIE)",
+      "作者群": "Hsi-Min Chen, Nguyen Bao-An, Chyi-Ren Dow, Nien-Lin Hsueh,  An-Chi Liu"
+    },
+    {
+      "論文名稱": "Adopting software product lines to implement an efficient learning analytics framework in MOOCs",
+      "期刊名稱": "Journal of Information Science and Engineering (SCIE,EI)",
+      "作者群": "Chen-Hsiang Yu, Jungpin Wu, Ming-Chi Liu, An-Chi Liu,"
+    },
+    {
+      "論文名稱": "Development of Key Performance Measures for E-Learning Knowledge Systems: The Case of Higher Education Institutions in Taiwan",
+      "期刊名稱": "Frontiers in Education (Frontiers in Education)",
+      "作者群": "Shu-Ping Chang, Sheng-Yi Wu, An-Chi Liu"
+    },
+    {
+      "論文名稱": "Predicting Learning Outcomes with MOOCs Clickstreams",
+      "期刊名稱": "Education Sciences (MDPI)",
+      "作者群": "Chen-Hsiang Yu *, Jungpin Wu, An-Chi Liu"
+    },
+    {
+      "論文名稱": "Study on Learning Data Analysis of MOOCs on\r\nMOOCs Online Courses",
+      "期刊名稱": "Journal of Computers (ECONLIT)",
+      "作者群": "Chao-Hsi Huang*, Yu-Jyun Ciou, An-Chi Liu, Shu-Ping Chang"
+    },
+    {
+      "論文名稱": "Applying learning analytics to deconstruct user engagement by using log data of MOOCs",
+      "期刊名稱": "Journal of Information Science and Engineering (SCIE,EI)",
+      "作者群": "Ming-Chi Liu, Chen-Hsiang Yu, Jungpin Wu, An-Chi Liu, Hsi-Min Chen*"
+    },
+    {
+      "論文名稱": "建設人間淨土：法鼓大學的願景",
+      "期刊名稱": "香港中文大學通識學報 (University General Education Bulletin)",
+      "作者群": "劉安之"
+    },
+    {
+      "論文名稱": "A Study of WiMAX Implementation at University Campuses",
+      "期刊名稱": "Int. Journal of Future Generation Communication & Networking (EI)",
+      "作者群": "Chen-Hsiang Yu, Don-Lin Yang and An-Chi Liu"
+    },
+    {
+      "論文名稱": "A Distributed Management Framework for Enterprise VoIP Networks",
+      "期刊名稱": "Journal of Internet Technology (SCIE,EI)",
+      "作者群": "C. S. Chao and A. C. Liu"
+    },
+    {
+      "論文名稱": "Abnormal Event Detection for Network Flooding Attacks",
+      "期刊名稱": "Journal of Information Science and Engineering (SCIE)",
+      "作者群": "C. S. Chao and A. C. Liu"
+    },
+    {
+      "論文名稱": "An Alarm Management Framework for Automated Network Fault Identification",
+      "期刊名稱": "Computer Communications (SCIE,EI)",
+      "作者群": "C. S. Chao and A. C. Liu"
+    },
+    {
+      "論文名稱": "網路電話管理系統的規劃與建置",
+      "期刊名稱": "網路通訊雜誌 ()",
+      "作者群": "S. C. Ke, C. S. Chao, and A. C. Liu"
+    },
+    {
+      "論文名稱": "A LAN Fault Diagnosis System",
+      "期刊名稱": "Computer Communications (SCIE,EI)",
+      "作者群": "C. S. Chao, D. L. Yang, and A. C. Liu"
+    },
+    {
+      "論文名稱": "An Automated Fault Diagnosis System Using Hierarchical Reasoning and Alarm Correlation",
+      "期刊名稱": "The Journal of Network and Systems Management (SCIE,EI)",
+      "作者群": "C. S. Chao, D. L. Yang, and A. C. Liu"
+    },
+    {
+      "論文名稱": "A Visualization Modeling Framework for a CSP-Based System",
+      "期刊名稱": "Journal of Visual Languages and Computing (SCIE,EI)",
+      "作者群": "C. S. Chao, A. C. Liu"
+    },
+    {
+      "論文名稱": "DESIGN AND MODEL OF A RATE-BASED FLOW CONTROL SCHEME",
+      "期刊名稱": "Journal of Information Science and Engineering (EI)",
+      "作者群": "劉安之，Chang, Y.-H."
+    },
+    {
+      "論文名稱": "A Model for Dynamic Channel Allocation in an ISDN",
+      "期刊名稱": "Proceedings of the IEEE ()",
+      "作者群": "D.M. Liou and A.C. Liu"
+    },
+    {
+      "論文名稱": "Hardware Monitoring of a Multiprocessor System",
+      "期刊名稱": "IEEE Micro ()",
+      "作者群": "A.C. Liu and R. Parthasarathi"
+    },
+    {
+      "論文名稱": "Modeling and Performance Analysis of Single Bus Tightly Coupled Multiprocessors",
+      "期刊名稱": "IEEE Transactions on Computers ()",
+      "作者群": "B. Bodnar and A.C. Liu"
+    },
+    {
+      "論文名稱": "Processor Allocation in a Distributed System\", Journal on Policy and Information",
+      "期刊名稱": "Journal on Policy and Information ()",
+      "作者群": "A.C. Liu and H.M. Harb"
+    },
+    {
+      "論文名稱": "Automatic Generation of Process Flow Diagrams",
+      "期刊名稱": "Journal of Computers and Graphics ()",
+      "作者群": "A.C. Liu and K.S. Wong"
+    },
+    {
+      "論文名稱": "Simulation and Modeling of a Single Bus Tightly Coupled Multiprocessor System",
+      "期刊名稱": "Mathematics and Computers in Simulation ()",
+      "作者群": "M. Witten, B. Bodnar, and A.C. Liu"
+    },
+    {
+      "論文名稱": "Database Alerters and Triggers in an Automated Library Circulation System",
+      "期刊名稱": "Management and Office Information System ()",
+      "作者群": "A.C. Liu and D.A. Olson"
+    },
+    {
+      "論文名稱": "File Allocation in a Distributed Database",
+      "期刊名稱": "International Journal of Computer and Information Sciences ()",
+      "作者群": "S.K. Chang and A.C. Liu"
+    }
+  ],
+  "journal2": [],
+  "conference": [
+    {
+      "論文名稱": "Exploring time-related behavioral patterns in MOOCs: The Example of Python Courses",
+      "會議名稱": "2021台灣軟體工程研討會 (TCSE 2021)",
+      "作者群": "Bao-An Nguyen, Hsi-Min Chen, Nien-Lin Hsueh, An-Chi Liu, and Chyi-Ren Dow"
+    },
+    {
+      "論文名稱": "以知識本體論為基礎之OER資源整合搜尋框架",
+      "會議名稱": "National Computer Symposium 2019",
+      "作者群": "邱義州, 余禎祥, 林峰正, 劉安之"
+    },
+    {
+      "論文名稱": "Predicting Learning Outcomes with MOOCs\nClickstreams",
+      "會議名稱": "2nd Eurasian Conference on Educational Innovation",
+      "作者群": "Chen-Hsiang Yu, Jungpin Wu, An-Chi Liu"
+    },
+    {
+      "論文名稱": "Research trends in learning analytics of MOOCs",
+      "會議名稱": "2018 eLearning Forum Asia (eLFA, 2018)",
+      "作者群": "Ming-Chi Liu, Chen-Hsiang Yu and An-Chi Liu"
+    },
+    {
+      "論文名稱": "Video Watching Behavior Pattern Comparison of\nMOOCs Clickstream",
+      "會議名稱": "第十三屆台灣數位學習發展研討會(TWELF 2018)",
+      "作者群": "Chen-Hsiang Liu, Jungpin Wu, Don-Lin Yang, Ming-Chi Liu, An-Chi Liu"
+    },
+    {
+      "論文名稱": "System log analysis for understanding user engagement: The case of MOOCs",
+      "會議名稱": "2017 台灣軟體工程研討會 (TCSE  2017)",
+      "作者群": "Ming-Chi Liu, Chen-Hsiang Yu, Jungpin Wu, An-Chi Liu"
+    },
+    {
+      "論文名稱": "An Analysis Framework for MOOCs Learning-A Case Study in OpenEdu",
+      "會議名稱": "eLearning Forum Asia 2016",
+      "作者群": "Y.S. Chen, Nien-Lin Hsueh*, A.C. Liu and Hsi-Min Chen"
+    },
+    {
+      "論文名稱": "Taiwan’s Self-evaluation Standards for MOOCs and Teaching Quality",
+      "會議名稱": "International Academic Conference on Social Sciences and Management",
+      "作者群": "Shu-Ping Chang, An-Chi Liu, Chao-Hsi Huang and Ming-Hsiu Yu"
+    },
+    {
+      "論文名稱": "政策性宿舍網路管理系統",
+      "會議名稱": "TANET 2009",
+      "作者群": "邱清鴻，劉安之"
+    },
+    {
+      "論文名稱": "A Study of WiMAX Implementation at University Campuses",
+      "會議名稱": "The 2nd International Conference on Future Generation Communication and Networking",
+      "作者群": "Chen-Hsiang Yu, Don-Lin Yang and An-Chi Liu"
+    },
+    {
+      "論文名稱": "An Internet Firewall Policy Verification System",
+      "會議名稱": "2006 IEICE/KNOM Asia-Pacific Network Operations and Management Symposium (APNOMS2006)",
+      "作者群": "C. S. Chao and A. C. Liu"
+    },
+    {
+      "論文名稱": "Management and Construction Issues for Enterprise-Wide IP Telephony",
+      "會議名稱": "the 2005 IEICE/KNOM Asia-Pacific Network Operations and Management Symposium (APNOMS2005)",
+      "作者群": "C. S. Chao and A. C. Liu"
+    },
+    {
+      "論文名稱": "Statistical Detection for Network Flooding Attacks",
+      "會議名稱": "Proceedings of the 2003 National Computer Symposium",
+      "作者群": "C. S. Chao, Y. S. Chen, and A. C. Liu"
+    },
+    {
+      "論文名稱": "逢甲大學VoIP網路之頻寬規劃與管理",
+      "會議名稱": "TANET 2003",
+      "作者群": "M. H. Liu, C. S. Chao, and A. C. Liu"
+    },
+    {
+      "論文名稱": "網路電話之效能監測與路徑選擇",
+      "會議名稱": "TANET 2003",
+      "作者群": "S. C. Ke, C. S. Chao, and A. C. Liu"
+    },
+    {
+      "論文名稱": "A Distributed Management Framework for VoIP Networks",
+      "會議名稱": "Proceedings of the 2003 IEICE/IEEE Asia-Pacific Network Operations and Management Symposium (APNOMS2003)",
+      "作者群": "C. S. Chao, C. C. Huang, and A. C. Liu"
+    },
+    {
+      "論文名稱": "A Distributed Management Framework for H.323-Based VoIP System",
+      "會議名稱": "Proceedings of the 2003 International Conference on Communications in Computing",
+      "作者群": "C. C. Huang, C. S. Chao, and A. C. Liu"
+    },
+    {
+      "論文名稱": "FCU VoIP Network Management -- A Case Study",
+      "會議名稱": "TANET 2002",
+      "作者群": "S. C. Ke, C. S. Chao, and A. C. Liu"
+    },
+    {
+      "論文名稱": "Network Information on Users' Perspectives",
+      "會議名稱": "Proceedings of the International Conference on Parallel and Distributed Processing Techniques and Ap",
+      "作者群": "C.S. Chao、J.C. Chang、A.C. Liu"
+    },
+    {
+      "論文名稱": "A Time-Aware Fault Diagnosis System in LAN",
+      "會議名稱": "Proceedings of the 2001 IFIP/IEEE International Symposium on Integrated Network Management(IM2001)",
+      "作者群": "C. S. Chao, D. L. Yang and A. C. Liu"
+    },
+    {
+      "論文名稱": "An Autonomous and Automated Network Fault Identification for Distributed Software Systems",
+      "會議名稱": "Proceedings of the 4th World Multiconference on Systemics, Cybernetics and Informatics",
+      "作者群": "C. S. Chao, D. L. Yang and A. C. Liu"
+    },
+    {
+      "論文名稱": "A Dynamic Visual Interface for Network Fault Management",
+      "會議名稱": "14th International Conference on Information Networking",
+      "作者群": "Shen-Feng Lin, Don-Lin Yang, A.C. Liu"
+    },
+    {
+      "論文名稱": "TCP/IP Alarm Transformation in a Network Management Environment",
+      "會議名稱": "14th International Conference on Information Networking",
+      "作者群": "E. T. Liang, D.L. Yang and A.C. Liu"
+    },
+    {
+      "論文名稱": "An Automated Fault Diagnosis System Using Hierarchical Reasoning and Alarm Correlation",
+      "會議名稱": "Proceedings of 1999 IEEE Workshop on Internet Applications",
+      "作者群": "C.S. Chao, D.L. Yang, A.C. Liu"
+    },
+    {
+      "論文名稱": "Experimental Analysis of Causality Relations Between Network Alarms and Faults",
+      "會議名稱": "Proceedings of 1999 Workshop on Distributed System Technologies & Applications",
+      "作者群": "C.H. Yu, D.L. Yang, and A.C. Liu"
+    },
+    {
+      "論文名稱": "A Segment-Based TCP/IP Alarm Correlation Engine,",
+      "會議名稱": "Proceedings of 1999 Workshop on Distributed System Technologies & Applications",
+      "作者群": "J.Z. Lu, C.S. Chao, D.L. Yang, and A.C. Liu"
+    },
+    {
+      "論文名稱": "A Model-based Object-Oriented Topology Specification for Network Management,",
+      "會議名稱": "Proceedings of 1998 International Computer Symposium",
+      "作者群": "J.Y. Chen, D.L. Yang, A.C. Liu"
+    },
+    {
+      "論文名稱": "Distributed Software System Fault Management in a Heterogeneous Environment",
+      "會議名稱": "Proceedings of 1998 Workshop on Distributed System Technologies & Applications",
+      "作者群": "C. S. Chao, D. L. Yang, and A. C. Liu"
+    },
+    {
+      "論文名稱": "Distributed System Management in a Heterogeneous Environment",
+      "會議名稱": "1997 National Computer Symposium",
+      "作者群": "M. L. Hsiao, S. F. Lin, and A. C. Liu"
+    },
+    {
+      "論文名稱": "A CSP-based Visual Distributed Programming Environment",
+      "會議名稱": "Visual '97",
+      "作者群": "C. S. Chao and A. C. Liu"
+    },
+    {
+      "論文名稱": "A Three-Dimensional Visualization Information Framework for a Distributed Programming Environment",
+      "會議名稱": "Proceedings of the 4th International Conference on Information Systems, Analysis and Synthesis",
+      "作者群": "C. S. Chao and A. C. Liu"
+    },
+    {
+      "論文名稱": "Applying Distributed Breakpoints to a Replay-based Debugger",
+      "會議名稱": "1997分散式系統技術及應用研討會",
+      "作者群": "趙啟時、王天助、劉安之"
+    },
+    {
+      "論文名稱": "校園網路管理與網管系統的運用",
+      "會議名稱": "TANET 1996",
+      "作者群": "陳振庸、劉安之"
+    },
+    {
+      "論文名稱": "A System for Distributed Software Development and Management",
+      "會議名稱": "International Conference on Circuits and Systems Science",
+      "作者群": "A.C. Liu and S.U. Cheng"
+    },
+    {
+      "論文名稱": "A CSP-based Visual Distributed Programming Environment",
+      "會議名稱": "1996分散式系統技術及應用研討會",
+      "作者群": "趙啟時、劉安之"
+    },
+    {
+      "論文名稱": "智慧型迷思概念診斷系統之設計與製作",
+      "會議名稱": "ICCAI'95",
+      "作者群": "劉安之、孫家麟、黃溪春"
+    },
+    {
+      "論文名稱": "Network Management Support for Monitoring Distributed Applications",
+      "會議名稱": "1994 電腦應用研討會",
+      "作者群": "H.C. Cheng and A.C. Liu"
+    },
+    {
+      "論文名稱": "A Synchronization Mechanism for Distributed Multimedia Systems",
+      "會議名稱": " Proceedings of 1994 Pacific Distributed Multimedia Systems Workshop",
+      "作者群": "D.L. Yang, A.C. Liu, D.M. Liou, and J.R. Chen"
+    },
+    {
+      "論文名稱": "On OCPN-Based Presentation Model for Distributed Multimedia System",
+      "會議名稱": "Proceedings of 8th International Joint Workshop on Computer Communication",
+      "作者群": "D.L. Yang, A.C. Liu, and J.D. Lin"
+    },
+    {
+      "論文名稱": "SD2-A System for Distributed Software Development",
+      "會議名稱": "Proceedings of 17th International Computer Software and Applications Conference",
+      "作者群": "H.Y. Yang, D.L. Yang, and A.C. Liu"
+    },
+    {
+      "論文名稱": "Petri Net-based Program Transformation and Monitoring",
+      "會議名稱": " International Computer Symposium",
+      "作者群": "G.I. Shieh, Y.C. Kao, M. Chao, and A.C. Liu"
+    },
+    {
+      "論文名稱": "Design and Implementation of a Replay Mechanism in a Distributed Environment",
+      "會議名稱": "Proceedings of the 13th International Telecommunication Symposium",
+      "作者群": "C.H. Tuan, M. Chao, D.M. Liou, and A.C. Liu"
+    },
+    {
+      "論文名稱": "A Petri Net-based Distributed Debugger",
+      "會議名稱": "Proceedings of the 14th International Computer Software and Applications Conference",
+      "作者群": "A.C. Liu and A. Engberts"
+    },
+    {
+      "論文名稱": "Error Recovery and Data Consistency in a Fault-Tolerant Distributed System",
+      "會議名稱": "1989 ISMM International Conference on Intelligent Distributed Processing",
+      "作者群": "C. T. Hwang, W. B. Tsay, C. H. Chang, A. C. Liu, and Ted C. Yang"
+    },
+    {
+      "論文名稱": "Process Synchronization in a Multi-Media Distributed System",
+      "會議名稱": "1988 International Conference on Advanced Science and Technology",
+      "作者群": "Y.H. Chang and A.C. Liu"
+    },
+    {
+      "論文名稱": "Divide-and-Conquer for a Shortest Path Problem",
+      "會議名稱": "1987 International Conference on Parallel Processing",
+      "作者群": "A.C. Liu, Y.M. Zou, and D.M. Liou"
+    },
+    {
+      "論文名稱": "Single-Bus Tightly-Coupled Multiprocessor Modeling and Analysis",
+      "會議名稱": "ISMM International Symposium on Mini and Microcomputers and Their Applications",
+      "作者群": "B. Bodnar and A.C. Liu"
+    },
+    {
+      "論文名稱": "Modeling Nuclear Power Plant by Petri Nets",
+      "會議名稱": "Proceedings of the 1986 International Conference on Computers in Engineering Conference",
+      "作者群": "A.C. Liu and H.C. Lin"
+    },
+    {
+      "論文名稱": "A Model for Task Allocation in a Distributed System",
+      "會議名稱": " International AMSE Conference on Modeling and Simulation",
+      "作者群": "A.C. Liu and H.M. Harb"
+    },
+    {
+      "論文名稱": "IMS - A System for Multiprocessing",
+      "會議名稱": "1984 International Computer Symposium",
+      "作者群": "A.C. Liu"
+    },
+    {
+      "論文名稱": "AND/OR Graphs: A Model for Implementing a Distributed Program",
+      "會議名稱": " Proceedings of the 8th International Computer Software and Applications Conference",
+      "作者群": "A.C. Liu"
+    },
+    {
+      "論文名稱": "An AND/OR Language for Distributed Processes",
+      "會議名稱": "1984 IEEE Workshop on Languages for Automation",
+      "作者群": "A.C. Liu"
+    },
+    {
+      "論文名稱": "Site Selection in Distributed Query Processing",
+      "會議名稱": "Proceedings of the 3rd International Conference on Distributed Computing Systems",
+      "作者群": "A.C. Liu and S.K. Chang"
+    },
+    {
+      "論文名稱": "IRAIN - An Instructional Relational Database System Designed for Small Computer System",
+      "會議名稱": "Proceedings of the 5th ACM SIGSMALL Symposium on Small System",
+      "作者群": "A.C. Liu and S.K. Chang"
+    },
+    {
+      "論文名稱": "A Database File Allocation Problem",
+      "會議名稱": "Proceedings of the 5th International Computer Software and Applications Conference",
+      "作者群": "S.K. Chang and A.C. Liu"
+    }
+  ],
+  "book": [
+    {
+      "專業書籍": "國家災害防救科技中心加強彰化縣、台中市防救災作業能力",
+      "出版單位": "國家災害防救科技中心",
+      "作者群": "劉安之、李秉乾、楊龍士、連惠邦、周天穎"
+    },
+    {
+      "專業書籍": "利用SNMP MIB建置WLAN管理系統",
+      "出版單位": "網路通訊雜誌",
+      "作者群": "趙啟時、劉安之"
+    },
+    {
+      "專業書籍": "VoIP管理功課不能少",
+      "出版單位": "網路通訊雜誌",
+      "作者群": "趙啟時、劉安之"
+    },
+    {
+      "專業書籍": "網路電話管理系統的規劃與建置",
+      "出版單位": "網路通訊雜誌",
+      "作者群": "S.C. Ke, C.S. Chao,and A.C. Liu"
+    },
+    {
+      "專業書籍": "整合式自動化網路錯誤診斷系統",
+      "出版單位": "工程科技通訊(第60期)",
+      "作者群": "劉安之、楊東麟、趙啟時"
+    },
+    {
+      "專業書籍": "分散式軟體發展測試床",
+      "出版單位": "工程科技通訊(第24期)",
+      "作者群": "劉安之、楊東麟、朱正忠"
+    },
+    {
+      "專業書籍": "網路管理",
+      "出版單位": "資訊與電腦雜誌社出版",
+      "作者群": "劉安之"
+    },
+    {
+      "專業書籍": "Proceedings of International Computer Symposium 1992",
+      "出版單位": "逢甲大學",
+      "作者群": "An-Chi Liu"
+    },
+    {
+      "專業書籍": "縱橫UNIX導引篇",
+      "出版單位": "資訊與電腦雜誌社出版",
+      "作者群": "劉安之"
+    }
+  ],
+  "patent": [
+    {
+      "title": "發明",
+      "desc": "非侵入式微型感測訊號的量測電路"
+    }
+  ],
+  "most": [
+    {
+      "name": "網際網路防火牆政策驗證系統",
+      "schoolYear": "94"
+    },
+    {
+      "name": "以規劃設計為導向之全方位型數位學習科技計畫(III)",
+      "schoolYear": "93"
+    },
+    {
+      "name": "以規劃設計為導向之全方位型數位學習科技計畫(II)",
+      "schoolYear": "92"
+    },
+    {
+      "name": "提升產業技術及人才培育研究計畫–具通話品質監控之VoIP網路故障偵測系統",
+      "schoolYear": "92"
+    },
+    {
+      "name": "(廠配)提升產業技術及人才培育研究計畫–具通話品質監控之VoIP網路故障偵測系統(國庭科技股份有限公司)",
+      "schoolYear": "92"
+    },
+    {
+      "name": "以規劃設計為導向之全方位型數位學習科技計畫(Ⅰ)",
+      "schoolYear": "91"
+    },
+    {
+      "name": "以事件關聯推理為主之網路服務管理(Ⅰ)",
+      "schoolYear": "91"
+    },
+    {
+      "name": "網路電話服務存取管理系統之研發與實作",
+      "schoolYear": "90"
+    },
+    {
+      "name": "網路電話服務存取管理系統之研發與實作(國庭科技股份有限公司配合款)",
+      "schoolYear": "90"
+    },
+    {
+      "name": "互動式網路事件管理服務系統",
+      "schoolYear": "90"
+    },
+    {
+      "name": "互動式網路事件管理服務系統(博士後研究：趙啟時)",
+      "schoolYear": "90"
+    },
+    {
+      "name": "整合式自動化網路錯誤診斷系統(Ⅲ)",
+      "schoolYear": "89"
+    },
+    {
+      "name": "資訊學門因應廿一世紀資訊科技規劃(Ⅰ)",
+      "schoolYear": "88"
+    },
+    {
+      "name": "整合式自動化網路錯誤診斷系統(Ⅱ)",
+      "schoolYear": "88"
+    },
+    {
+      "name": "整合式自動化網路錯誤診斷系統-管理模型規格設定環境",
+      "schoolYear": "87"
+    },
+    {
+      "name": "整合式網路管理專家系統",
+      "schoolYear": "86"
+    },
+    {
+      "name": "異質環境下之分散式系統管理",
+      "schoolYear": "85"
+    },
+    {
+      "name": "中斷點和檢查點在分散式除錯器之應用",
+      "schoolYear": "84"
+    },
+    {
+      "name": "分散式軟體發展測試床(Ⅲ)",
+      "schoolYear": "83"
+    },
+    {
+      "name": "智慧型物理科補助學習系統(Ⅱ)",
+      "schoolYear": "82"
+    },
+    {
+      "name": "分散式軟體發展測試床(Ⅱ)",
+      "schoolYear": "82"
+    },
+    {
+      "name": "智慧型物理科輔助學習系統",
+      "schoolYear": "81"
+    },
+    {
+      "name": "分散式軟體發展測試床",
+      "schoolYear": "81"
+    },
+    {
+      "name": "分散式軟體發展測試床(中型儀器費)",
+      "schoolYear": "81"
+    }
+  ],
+  "tech": [],
+  "induAca": [
+    "偉穎科技服務股份有限公司申請投資設立於南部科學園區之諮詢顧問案 (2018-12 to 2018-12)",
+    "臺中軟體園區智慧應用創新領航計畫 (2018-02 to 2018-11)",
+    "新一代數位學習計畫磨課師分項計畫暨數位學習深耕推動計畫 (2017-06 to 2018-12)",
+    "新一代數位學習計畫磨課師分項計畫─磨課師學習資料分析計畫-openedu (2017-05 to 2018-04)",
+    "數位學習深耕計畫 (2017-01 to 2017-07)",
+    "嘉義市建構智慧樂活城計畫委託專業服務案 (2016-04 to 2017-03)",
+    "新一代數位學習計畫磨課師分項計畫─MOOCs學習資料分析子計畫 (2016-02 to 2017-03)",
+    "臺中市智慧城區推動規劃案 (2015-06 to 2016-02)",
+    "104新一代數位學習計畫-磨課師分項計畫辦公室 (2015-06 to 2017-05)",
+    "新一代數位學習計畫-磨課師分項計畫辦公室 (2014-06 to 2015-05)",
+    "新ㄧ代數位學習計畫-磨課師分項計畫辦公室 (2014-06 to 2015-05)",
+    "新一代數位學習計畫-磨課師分項計畫辦公室 (2013-08 to 2014-03)",
+    "新一代數位學習計畫磨課師分項計畫-教學平台議題研究子計畫 (2013-08 to 2014-03)",
+    "新一代數位學習計畫磨課師分項計畫-教學發展議題研究子計畫 (2013-08 to 2014-03)",
+    "新一代數位學習計畫磨課師分項計畫-智慧財產權議題研究子計畫 (2013-08 to 2014-03)",
+    "新一代數位學習計畫磨課師分項計畫-學習成效檢測議題研究子計畫 (2013-08 to 2014-03)",
+    "新一代數位學習計畫磨課師分項計畫-營運規劃發展議題研究子計畫 (2013-08 to 2014-03)",
+    "大宅門特區－『資訊交流、智慧電網、再生能源及園區保安推動計畫』 (2013-01 to 2014-07)",
+    "95年度中區區域教學資源中心計畫 (2007-04 to 2007-07)",
+    "96年大專校院校園保護智慧財產權訪視計畫 (2007-03 to 2007-09)",
+    "大專院校辦理健康促進學校_逢甲樂活「持續以健康方式過生活」 (2007-03 to 2007-12)",
+    "逢甲大學95年度e三五教學卓越計畫 (2006-08 to 2007-07)",
+    "逢甲大學94年度e三五教學卓越計畫 (2005-05 to 2005-12)",
+    "數位學習認證作業暨學位試辦專案規劃－數位學習學位試辦專案 (2005-04 to 2005-12)",
+    "提昇大學基礎教育計畫─逢甲大學通識教育質量提昇─總計畫(4/4) (2004-08 to 2005-07)",
+    "提昇大學基礎教育計畫─逢甲大學提昇學生語文表達能力與人文、科學素養教學改進計畫─總計畫(3/3) (2004-08 to 2005-07)",
+    "加強彰化縣、台中市防救災作業能力 (2003-12 to 2004-12)",
+    "提昇大學基礎教育計畫─逢甲大學通識教育質量提昇─總計畫(3/4) (2003-08 to 2004-07)",
+    "提昇大學基礎教育計畫(第二梯次)─逢甲大學提昇學生語文表達能力與人文、科學素養教學改進計畫─總計畫(2/3) (2003-08 to 2004-07)",
+    "台中市警察局「各項硬體設備及相關系統軟體維護」 (2003-04 to 2003-12)",
+    "通訊科技教育改進計畫─網路應用與服務組─區域共同教學實驗室 (2003-03 to 2003-12)",
+    "工業局委辦訓練課程場地費(92.01-92.04) (2003-01 to 2003-04)",
+    "工業局委辦訓練課程場地費(92.01-92.04) (2003-01 to 2003-04)",
+    "加強糧政管理-加強建置糧食資訊體系 (2003-01 to 2003-12)",
+    "國立空中大學「人事薪資管理系統」維護 (2003-01 to 2003-12)",
+    "九十二年度輔導辦理水旱田利用調整業務 (2003-01 to 2003-12)",
+    "資策會自辦收費訓練課程場地費(92.01-92.04) (2003-01 to 2003-04)",
+    "工業局委辦訓練課程機器使用費(92.01-92.04) (2003-01 to 2003-04)",
+    "工業局委辦訓練課程軟硬體使用費(92.1-92.04) (2003-01 to 2003-04)",
+    "資策會自辦收費訓練課程機器使用費(92.01-92.04) (2003-01 to 2003-04)",
+    "辦理漢翔公司「九十二年度全國技術士技能檢定報名及學科測驗」電腦作業事宜 (2003-01 to 2003-12)",
+    "建置及維護糧食資訊體系資料庫管理系統 (2002-12 to 2003-12)",
+    "九十二學年度四技二專日間部聯合登記分發電子計算機作業 (2002-11 to 2003-12)",
+    "工業局委辦訓練課程場地費(91/09-91/12) (2002-09 to 2002-12)",
+    "工業局委辦訓練課程機器使用費(91/09-91/12) (2002-09 to 2002-12)",
+    "資策會自辦收費訓練課程場地費(91/09-91/12) (2002-09 to 2002-12)",
+    "勞委會職訓局委辦訓練課程場地費(91/09-91/10) (2002-09 to 2002-10)",
+    "資策會自辦收費訓練課程機器使用費(91/09-91/12) (2002-09 to 2002-12)",
+    "勞委會職訓局委辦訓練課程軟硬體使用費(91/09-91/10) (2002-09 to 2002-10)",
+    "糧商公會完整糧商基本資料庫開發與建置 (2002-08 to 2002-12)",
+    "提昇大學基礎教育計畫─逢甲大學通識教育質量提昇─總計畫(2/4) (2002-08 to 2003-07)",
+    "提昇大學基礎教育計畫(第二梯次)─逢甲大學提昇學生語文表達能力與人文、科學素養教學改進計畫─總計畫(1/3) (2002-08 to 2003-07)",
+    "九十一年度修改農政資訊系統暨系統操作講習 (2002-06 to 2002-10)",
+    "工業局委辦訓練課程場地費(91/05-91/08) (2002-05 to 2002-08)",
+    "工業局委辦訓練課程場地費(91/05-91/08) (2002-05 to 2002-08)",
+    "工業局委辦訓練課程機器使用費(91/05-91/08) (2002-05 to 2002-08)",
+    "工業局委辦訓練課程機器使用費(91/05-91/08) (2002-05 to 2002-08)",
+    "資策會自辦收費訓練課程場地費(91/05-91/08) (2002-05 to 2002-08)",
+    "資策會自辦收費訓練課程機器使用費(91/05-91/08) (2002-05 to 2002-08)",
+    "台中市警察局「各項硬體設備及相關系統軟體維護」 (2002-05 to 2002-12)",
+    "國立空中大學「人事薪資管理系統」 (2002-01 to 2002-12)",
+    "工業局委辦訓練課程場地費(91/01-91/04) (2002-01 to 2002-04)",
+    "工業局委辦訓練課程場地費(91/01-91/04) (2002-01 to 2002-04)",
+    "工業局委辦訓練課程機器使用費(91/01-91/04) (2002-01 to 2002-04)",
+    "工業局委辦訓練課程機器使用費(91/01-91/04) (2002-01 to 2002-04)",
+    "資策會自辦收費訓練課程場地費(91/01-91/04) (2002-01 to 2002-04)",
+    "違規車輛拖吊場拖吊業務電腦管理系統維護 (2002-01 to 2002-04)",
+    "九十一年度技術士技能檢定學科測驗電腦作業 (2002-01 to 2002-12)",
+    "資策會自辦收費訓練課程機器使用費(91/01-91/04) (2002-01 to 2002-04)",
+    "辦理漢翔公司「全國技術士技能檢定報名及學科測驗」電腦作業事宜 (2002-01 to 2002-12)",
+    "資訊月活動費(代辦演講比賽及軟體競賽) (2001-12 to 2001-12)",
+    "九十一學年度四技二專日間部聯合登記分發電子計算機作業 (2001-11 to 2002-12)",
+    "糧商資料管理系統 (2001-10 to 2002-01)",
+    "公會會員管理系統 (2001-10 to 2001-12)",
+    "工業局委辦訓練課程場地費(90/10-90/11) (2001-10 to 2001-11)",
+    "工業局委辦訓練課程場地費(90/10-90/11) (2001-10 to 2001-11)",
+    "工業局委辦訓練課程場地費(90/10-90/11) (2001-10 to 2001-11)",
+    "工業局委辦訓練課程機器使用費(90/10-90/11) (2001-10 to 2001-11)",
+    "工業局委辦訓練課程機器使用費(90/10-90/11) (2001-10 to 2001-11)",
+    "工業局委辦訓練課程機器使用費(90/10-90/11) (2001-10 to 2001-11)",
+    "資策會自辦收費訓練課程場地費(90/10-90/12) (2001-10 to 2001-12)",
+    "資策會自辦收費訓練課程機器使用費(90/10-90/12) (2001-10 to 2001-12)",
+    "職訓局委辦訓練課程場地費(90/09-90/10) (2001-09 to 2001-10)",
+    "職訓局委辦訓練課程機器使用費(90/09-90/10) (2001-09 to 2001-10)",
+    "提昇大學基礎教育計畫－逢甲大學通識教育教學質量提昇－總計畫(1/4) (2001-09 to 2002-08)",
+    "工業局委辦訓練課程場地費(90/07-90/09) (2001-08 to 2001-09)",
+    "工業局委辦訓練課程場地費(90/07-90/09) (2001-08 to 2001-09)",
+    "工業局委辦訓練課程機器使用費(90/07-90/09) (2001-08 to 2001-09)",
+    "工業局委辦訓練課程機器使用費(90/07-90/09) (2001-08 to 2001-09)",
+    "強化農會業務資訊化管理及應用計畫–修改系統功能及辦理相關教育訓練 (2001-08 to 2001-12)",
+    "可傳送語音與數據之集群無線電網路及移動載具之設計與製作(2/2)-東訊 (1999-06 to 2000-05)",
+    "可傳送語音與數據之集群無線電網路及移動載具之設計與製作(2/2)-國科會 (1999-06 to 2000-05)",
+    "航空博物館規劃可行性分析研究 (1999-05 to 1999-10)",
+    "教育廳八十七年度教師登記等五個行政資訊系統新增異動需求軟體設計 (1998-07 to 1999-07)",
+    "各項硬體設備及相關系統軟體維護 (1998-07 to 1998-12)",
+    "視窗NT作業系統管理班之機器使用費 (1998-07 to 1998-09)",
+    "主從架構程式設計師班之機器使用費 (1998-07 to 1998-09)",
+    "國立空中大學「人事薪資管理系統」維護 (1998-07 to 1999-06)",
+    "微軟系統工程師(MCSE)精修班(一)之機器使用費 (1998-07 to 1998-09)",
+    "微軟系統工程師(MCSE)精修班(二)之機器使用費 (1998-07 to 1998-09)",
+    "八十八年度技術士技能檢定學科測驗電腦作業 (1998-07 to 1999-06)",
+    "台中市警察局清理交通違規案件委託代募工讀生(半年) (1998-07 to 1998-12)",
+    "苗栗縣警察局清理交通違規案件委託代募工讀生(七個月) (1998-07 to 1999-01)",
+    "微軟系統工程師(MCSE)精修班(一)、微軟系統工程師(MCSE)精修班(二)、視窗NT作業系統管理班、主從架構程式設計師班之場地費 (1998-07 to 1998-09)",
+    "八十七學年度二技進修部招生電子計算機作業 (1998-06 to 1998-09)",
+    "可傳送語音與數據之集群無線電網路及移動載具之設計與製作(1/2)-東訊 (1998-06 to 1999-05)",
+    "可傳送語音與數據之集群無線電網路及移動載具之設計與製作(1/2)-國科會 (1998-06 to 1999-05)",
+    "八十七學年度四技二專日間部工業等類科聯招會-聯合招生電子計算機作業 (1998-04 to 1998-11)",
+    "八十七年度實施土地登記複丈地價地用電腦作業資料登錄: 南投縣埔里 (1998-04 to 1998-06)",
+    "MCSE網路工程師精修認證班機器使用費、場地費 (1998-03 to 1998-05)",
+    "微電腦系統應用網際網路班之機器使用費、場地費 (1998-03 to 1998-05)",
+    "八十六學年度在職教師資訊培訓-電子計算機概論(BCC)高中職教師班 (1998-03 to 1998-06)",
+    "職訓局三項課程之機器使用費、場地使用費 (1998-03 to 1998-06)",
+    "使用「市警局違規拖吊場管理系統」:長宏運輸 (1998-03 to 1999-02)",
+    "使用「市警局違規拖吊場管理系統」:治平汽車 (1998-03 to 1999-02)",
+    "使用「市警局違規拖吊場管理系統」:百毅有限公司 (1998-03 to 1999-02)",
+    "教育廳八十七年度公務統計管理系統新增異動需求軟體設計 (1998-03 to 1998-06)",
+    "青輔會微電腦系統應用(網際網路)班之機器使用費、場地使用費 (1998-03 to 1998-06)",
+    "內政部社會福利團體網際網路應用基礎班之機器使用費、場地使用費 (1998-03 to 1998-06)",
+    "勞委會「勞工行政主管人員業務電腦化研習會」租借場地及設備使用費 (1998-03 to 1998-06)",
+    "八十六學年度在職教師資訊培訓-台灣學術網路技術管理班 (1998-02 to 1998-06)",
+    "省屬各機關經管省有土地資料處理工作 (1998-02 to 1998-02)",
+    "苗栗縣警察局清理交通違規案件委託代募工讀生(五個月) (1998-02 to 1998-06)",
+    "八十七年度實施土地登記複丈地價地用電腦作業資料登錄: 雲林縣斗南 (1998-01 to 1998-06)",
+    "八十七年度實施土地登記複丈地價地用電腦作業資料登錄: 雲林縣斗六 (1998-01 to 1998-06)",
+    "交通違規裁決業務系統電腦應用軟體 (1998-01 to 1999-01)",
+    "八十七年度實施土地登記複丈地價地用電腦作業資料登錄: 台中縣大甲 (1997-12 to 1998-06)",
+    "東南亞地區電腦教師訓練班第七期電腦實習費 (1997-12 to 1997-12)",
+    "「天圖進銷存管理資訊系統」系統維護諮詢作業 (1997-12 to 1998-12)",
+    "農業合作社場經營管理電腦化系統 (1997-11 to 1998-05)",
+    "八十七年度技術士技能檢定學科測驗電腦作業 (1997-11 to 1998-06)",
+    "八十六學年度在職教師資訊培訓-電子計算機概論(BCC)國中教師班 (1997-11 to 1998-01)",
+    "縣市政府教育局公務統計管理系統電腦研習班經費 (1997-10 to 1997-10)",
+    "實用技能班資格考驗電子計算機作業 (1997-10 to 1998-06)",
+    "退輔會、勞委會包班之場地費 (1997-09 to 1997-12)",
+    "「飛行音樂站」網站技術諮詢支援及教育訓練 (1997-09 to 1997-10)",
+    "微軟認證系統工程師MCSE班.主從架構程式設計師班之場地費 (1997-09 to 1997-12)",
+    "微軟認證系統工程師MCSE班.主從架構程式設計師班之機器使用費 (1997-09 to 1997-12)",
+    "中區資訊服務中心教育訓練收入 (1997-08 to 1997-09)",
+    "區域網路規劃師課程 (1997-08 to 1997-09)",
+    "Template軟體(含教育訓練) (1997-08 to 1998-05)",
+    "台中市警察局拖吊場管理系統(包括軟體規劃、硬體設備) (1997-08 to 1997-10)",
+    "地政資訊管理方案台灣省後續實施計畫地籍資料登錄建檔 (1997-08 to 1998-12)",
+    "八十六年度實施土地登記複丈地價地用電腦作業資料登錄: 雲林縣斗六 (1997-08 to 1997-12)",
+    "XMP RDBMS 效能分析及管理軟體設計 (1995-07 to 1996-06)",
+    "八十三年(八十二學年度)暑期計算機講習班(第四十七,四十八期) (1983-07 to 1983-09)",
+    "電腦程式設計班 (1982-12 to 1983-03)",
+    "在OSI網路環境下設計一分散式偵錯環境(Ⅱ) (1982-08 to 1983-07)",
+    "(八十一學年度)暑期計算機講習班第四十五期與第四十六期 (1982-07 to 1982-09)",
+    "一九九二年國際計算機會議 (1981-12 to 1981-12)",
+    "八十二年度產自動化技術訓練班(中文微軟視窗程式設計班) (1981-10 to 1981-12)",
+    "第44期暑期電腦講習班 (1981-08 to 1981-09)",
+    "在OSI網路環境下設計-分散式偵錯環境(Ⅰ) (1981-08 to 1982-07)",
+    "第43期暑期電腦講習班 (1981-07 to 1981-08)",
+    "第42期暑期電腦講習班 (1980-08 to 1980-09)",
+    "第41期暑期電腦講習班 (1980-07 to 1980-08)",
+    "FTDAS 多媒體電腦輔助訓練器之研究與設計(一) (1980-01 to 1980-12)",
+    "第40期電腦講習班 (1979-08 to 1979-09)",
+    "第39期講習班 (1979-07 to 1979-08)",
+    "分散式偵錯系統之設計與實作(TL：79-113) (1979-05 to 1981-04)",
+    "計算機輔助設計軟體之研究與推廣 (1978-11 to 1979-06)"
+  ],
+  "perform": [],
+  "reward": [
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (111, 2022-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (108, 2019-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (94, 2005-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (94, 2005-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (93, 2004-11) - 逢甲大學",
+    "九十二年論文佳作獎 (92, 2004-04) - 中華民國電腦學會",
+    "全民資訊應用技術能力大賽-PDA程式設計第一名 (90, 2002-08) - 中華民國電腦基金會",
+    "Pocket PC應用程式開發暨創意競賽第一名 (90, 2001-08) - 卡西歐",
+    "國科會甲種獎勵 (89, 2000-08) - 行政院國科會",
+    "國科會甲種獎勵 (88, 1999-08) - 行政院國科會"
+  ],
+  "speech": [],
+  "material": [],
+  "tal": []
+}

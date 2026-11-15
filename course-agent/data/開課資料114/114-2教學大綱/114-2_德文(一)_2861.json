@@ -1,0 +1,973 @@
+{
+  "success": true,
+  "info": {
+    "yms_year": 114.0,
+    "yms_smester": 2.0,
+    "sub_id": "97700",
+    "cls_id": "XA01101",
+    "scr_dup": "003",
+    "sub_id3": "GERM1001",
+    "cls_name": "應用外語選修",
+    "cls_ename": "Applied Second Foreign Language Elective Courses",
+    "sub_name": "德文(一)",
+    "sub_ename": "GERMAN(1)",
+    "scr_mso": "選修",
+    "scr_mso_en": "Elective",
+    "scr_credit": 2.0,
+    "scr_periodly": "(五)06-07",
+    "scr_periodly_eng": "(Fri)06-07",
+    "lang_name": "德語                                                      ",
+    "lang_ename": "German",
+    "scr_room": "忠209",
+    "scr_room_eng": "JCB209",
+    "scr_teacher": "游曉嵐",
+    "scr_teacher_eng": "Shau-lan You",
+    "scr_selcode": "2861",
+    "scr_elearning": "全學期",
+    "scr_elearning_en": "Full semester",
+    "scr_hours": "2",
+    "scr_english": "N",
+    "unt_name": null,
+    "unt_ename": null,
+    "link_traminal": null,
+    "link_traminal_en": null,
+    "scr_ldl": "D",
+    "course_mk": "N",
+    "teams_mk": "Y",
+    "sub_title": null,
+    "sub_title_en": null,
+    "sub_describe": null,
+    "sub_describe_en": null,
+    "hasDescription": null,
+    "hasInstructor": null,
+    "hasTA": null,
+    "hasTextBooks": null,
+    "hasReadings": null,
+    "hasiSoftwares": null,
+    "hasAssistSoftwares": null,
+    "hasObjective": null,
+    "hasWeeklyScds": null,
+    "hasGradeRules": null,
+    "hasGradeRuleDescribe": null,
+    "hasIntegrity": null,
+    "hasCoursePol": null,
+    "hasCourseRem": null,
+    "hasObjectiveReleation": null,
+    "hasTopicSdgs": null,
+    "hasTopicAiIndicators": null,
+    "hasSubTitleDesc": null
+  },
+  "subTitleDesc": null,
+  "description": {
+    "sub_id3": null,
+    "sub_name": "德文(一)",
+    "sub_ename": "GERMAN(1)",
+    "describe_ch": "該科目為一入門課程，以中文及德文教學，以基本之聽說讀寫為教學目標。 內容為導論(字母、發音)、文法(現在式動詞變化、定冠詞、不定冠詞、人稱代名詞、複數)主題(問候、自我介紹、親屬、德國生活)",
+    "describe_eh": "German I is an introductory course for the beginners in German. It is taught in German and Mandarin Chinese. The main goal is to equip students with basic reading, writing, speaking , and writing skills. The course objects are: 1.Introduction: alphabet and pronunciation 2. Grammar :present tense, definite and indefinite articles, personal pronouns, plurals 3. Functions: greetings, introducing self: nationalities, languages, addresses, telephone numbers, 3. introducing family members: hobbies, jobs, leisure activities, time of day 4. introducing Germany: city life and country life.",
+    "pre_subname": "",
+    "pre_sub_id3": null,
+    "pre_sub_ename": "",
+    "pre_describe": null,
+    "pre_describe_en": null,
+    "scr_credit": 2.0
+  },
+  "targets": [
+    {
+      "seq": 1,
+      "describe_ch": "1.能用德文介紹自己",
+      "describe_en": "1. Able to introduce themselves in German.\t"
+    },
+    {
+      "seq": 2,
+      "describe_ch": "2.能聽懂他人所敘述之基本資料",
+      "describe_en": "2.able to understand other person's personal information."
+    },
+    {
+      "seq": 3,
+      "describe_ch": "3.能讀出並寫出數字",
+      "describe_en": "3.able to read and write numbers."
+    },
+    {
+      "seq": 4,
+      "describe_ch": "4.能分辨肯、否定、直述、疑問及命令等句型",
+      "describe_en": "4.able to tell the differences between different sentence patterns.\t"
+    },
+    {
+      "seq": 5,
+      "describe_ch": "5.能正確說出親屬稱謂\n",
+      "describe_en": "5.able to use the correct terms of their family members.\t"
+    }
+  ],
+  "teachersInfo": [
+    {
+      "cname": "游曉嵐",
+      "ename": "Shau-lan You",
+      "period": " ",
+      "roletype": 0,
+      "email": "slyou.t10@o365.fcu.edu.tw",
+      "ext": null
+    }
+  ],
+  "textBooks": {
+    "yms_year": 114.0,
+    "yms_smester": 2.0,
+    "cls_id": "XA01101",
+    "sub_id": "97700",
+    "scr_dup": "003",
+    "tpb_seq": 1,
+    "tpb_book": "<div>Panorama A1 (2015; 德國 Cornelsen 出版社) ISBN: 978-3-06-12048-2</div>\n",
+    "tpb_book_en": null
+  },
+  "readings": {
+    "yms_year": 114.0,
+    "yms_smester": 2.0,
+    "cls_id": "XA01101",
+    "sub_id": "97700",
+    "scr_dup": "003",
+    "tpc_seq": 1,
+    "tpc_book": "<div><a href=\"https://learngerman.dw.com/en/nicos-weg/c-36519789\">https://learngerman.dw.com/en/nicos-weg/c-36519789</a></div>\n",
+    "tpc_book_en": null
+  },
+  "iSoftwares": [],
+  "assistSoftwares": [],
+  "weeklyScds": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "XA01101",
+      "sub_id": "97700",
+      "scr_dup": "003",
+      "tpd_seq": 0,
+      "tpd_week": "第一週",
+      "tpd_reading": "<div>導論</div>\n\n<div>德文發音、認識德國</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": "<div>學習發音</div>\n",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "XA01101",
+      "sub_id": "97700",
+      "scr_dup": "003",
+      "tpd_seq": 0,
+      "tpd_week": "第二、",
+      "tpd_reading": "<div>第一課：打招呼、再見、簡單自我介紹</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": "<div>學習最基本用語</div>\n",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "XA01101",
+      "sub_id": "97700",
+      "scr_dup": "003",
+      "tpd_seq": 0,
+      "tpd_week": "第四、",
+      "tpd_reading": "<div>第ㄧ課：喜好</div>\n\n<div><em>文法：人稱、動詞字尾變化</em></div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": "<div>學習基本文法</div>\n",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "XA01101",
+      "sub_id": "97700",
+      "scr_dup": "003",
+      "tpd_seq": 0,
+      "tpd_week": "第六、",
+      "tpd_reading": "<div>第二課：問候、職業、數字</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": "<div>學習基本用語</div>\n",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "XA01101",
+      "sub_id": "97700",
+      "scr_dup": "003",
+      "tpd_seq": 0,
+      "tpd_week": "第八週",
+      "tpd_reading": "<div>複習</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": "<div>複習</div>\n",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "XA01101",
+      "sub_id": "97700",
+      "scr_dup": "003",
+      "tpd_seq": 0,
+      "tpd_week": "第九週",
+      "tpd_reading": "<div>期中考</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": "<div>期中考</div>\n",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "XA01101",
+      "sub_id": "97700",
+      "scr_dup": "003",
+      "tpd_seq": 0,
+      "tpd_week": "第十、\n",
+      "tpd_reading": "<div>第二課：是非問句練習</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": "<div>學習是非問句</div>\n",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "XA01101",
+      "sub_id": "97700",
+      "scr_dup": "003",
+      "tpd_seq": 0,
+      "tpd_week": "第十二",
+      "tpd_reading": "<div>第三課：這是什麼？</div>\n\n<div><em>文法：定冠詞、不定冠詞</em></div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": "<div>學習定與不定冠詞</div>\n",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "XA01101",
+      "sub_id": "97700",
+      "scr_dup": "003",
+      "tpd_seq": 0,
+      "tpd_week": "第十四",
+      "tpd_reading": "<div>第三課：教室裡的東西</div>\n\n<div><em>文法：複數、代名詞</em></div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": "<div>學習名詞複數、代名詞</div>\n",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "XA01101",
+      "sub_id": "97700",
+      "scr_dup": "003",
+      "tpd_seq": 0,
+      "tpd_week": "第十六",
+      "tpd_reading": "<div>第四課：購物</div>\n\n<div>喜歡買的東西</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": "<div>學習購物情境</div>\n",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "XA01101",
+      "sub_id": "97700",
+      "scr_dup": "003",
+      "tpd_seq": 0,
+      "tpd_week": "第十八",
+      "tpd_reading": "<div>期末考</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": "<div>期末考</div>\n",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    }
+  ],
+  "gradeRules": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "XA01101",
+      "sub_id": "97700",
+      "scr_dup": "003",
+      "evalb_id": "D1",
+      "score_rate": 30,
+      "evalb_memo": "期中筆試",
+      "evalb_memo_en": null,
+      "evalb_name": "期中考",
+      "evalb_name_en": "Midterm examination",
+      "seq": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "XA01101",
+      "sub_id": "97700",
+      "scr_dup": "003",
+      "evalb_id": "D2",
+      "score_rate": 30,
+      "evalb_memo": "期末筆試",
+      "evalb_memo_en": null,
+      "evalb_name": "期末考",
+      "evalb_name_en": "Final examination",
+      "seq": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "XA01101",
+      "sub_id": "97700",
+      "scr_dup": "003",
+      "evalb_id": "L3",
+      "score_rate": 30,
+      "evalb_memo": "舉手回答問題加分、一次小考",
+      "evalb_memo_en": null,
+      "evalb_name": "課堂討論參與",
+      "evalb_name_en": "Participation",
+      "seq": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "XA01101",
+      "sub_id": "97700",
+      "scr_dup": "003",
+      "evalb_id": "L4",
+      "score_rate": 10,
+      "evalb_memo": "無故未到總分扣一分",
+      "evalb_memo_en": null,
+      "evalb_name": "出席狀況",
+      "evalb_name_en": "Attendances",
+      "seq": 0
+    }
+  ],
+  "gradeRuleDescribe": {
+    "yms_year": 114.0,
+    "yms_smester": 2.0,
+    "cls_id": "XA01101",
+    "sub_id": "97700",
+    "scr_dup": "003",
+    "tpa_score_new": null,
+    "tpa_score_new_en": null,
+    "course_pol": "本課程重視學生主動參與，例如：舉手回答問題、跟同學練習對話。\n有專心聽課，平時都有寫功課，期中期末筆試一定能考高分。\n嚴禁考試作弊。",
+    "course_pol_en": null,
+    "course_rem": "本課程重視學生主動參與，例如：舉手回答問題、跟同學練習對話。\n有專心聽課，平時都有寫功課，期中期末筆試一定能考高分。\n嚴禁考試作弊。",
+    "course_rem_en": null,
+    "ais_meno": "<div>本課程重視學生主動參與，例如：舉手回答問題、跟同學練習對話。</div>\n\n<div>有專心聽課，平時都有寫功課，期中期末筆試一定能考高分。</div>\n\n<div>嚴禁考試作弊。</div>\n\n<div>&nbsp;</div>\n",
+    "ais_meno_en": null,
+    "ilearn_mk": null
+  },
+  "integrity": {
+    "yms_year": 114.0,
+    "yms_smester": 2.0,
+    "cls_id": "XA01101",
+    "sub_id": "97700",
+    "scr_dup": "003",
+    "tpa_score_new": null,
+    "tpa_score_new_en": null,
+    "course_pol": "本課程重視學生主動參與，例如：舉手回答問題、跟同學練習對話。\n有專心聽課，平時都有寫功課，期中期末筆試一定能考高分。\n嚴禁考試作弊。",
+    "course_pol_en": null,
+    "course_rem": "本課程重視學生主動參與，例如：舉手回答問題、跟同學練習對話。\n有專心聽課，平時都有寫功課，期中期末筆試一定能考高分。\n嚴禁考試作弊。",
+    "course_rem_en": null,
+    "ais_meno": "<div>本課程重視學生主動參與，例如：舉手回答問題、跟同學練習對話。</div>\n\n<div>有專心聽課，平時都有寫功課，期中期末筆試一定能考高分。</div>\n\n<div>嚴禁考試作弊。</div>\n\n<div>&nbsp;</div>\n",
+    "ais_meno_en": null,
+    "ilearn_mk": null
+  },
+  "policy": {
+    "yms_year": 114.0,
+    "yms_smester": 2.0,
+    "cls_id": "XA01101",
+    "sub_id": "97700",
+    "scr_dup": "003",
+    "tpa_score_new": null,
+    "tpa_score_new_en": null,
+    "course_pol": "本課程重視學生主動參與，例如：舉手回答問題、跟同學練習對話。\n有專心聽課，平時都有寫功課，期中期末筆試一定能考高分。\n嚴禁考試作弊。",
+    "course_pol_en": null,
+    "course_rem": "本課程重視學生主動參與，例如：舉手回答問題、跟同學練習對話。\n有專心聽課，平時都有寫功課，期中期末筆試一定能考高分。\n嚴禁考試作弊。",
+    "course_rem_en": null,
+    "ais_meno": "<div>本課程重視學生主動參與，例如：舉手回答問題、跟同學練習對話。</div>\n\n<div>有專心聽課，平時都有寫功課，期中期末筆試一定能考高分。</div>\n\n<div>嚴禁考試作弊。</div>\n\n<div>&nbsp;</div>\n",
+    "ais_meno_en": null,
+    "ilearn_mk": null
+  },
+  "courseBankC": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "XA01101",
+      "sub_id": "97700",
+      "scr_dup": "003",
+      "seq": 1,
+      "describe_ch": "1.能用德文介紹自己",
+      "describe_en": "1. Able to introduce themselves in German.\t",
+      "core_id": null,
+      "core_item": null,
+      "core_eng": null,
+      "core_level": "3 ",
+      "strgy": [
+        "01",
+        "10"
+      ],
+      "evalb": [
+        "D1",
+        "L3"
+      ],
+      "strgy_name": [
+        "課堂授課",
+        "小組討論及活動"
+      ],
+      "strgy_name_en": [
+        "Classroom instruction",
+        "Group activity & discussion"
+      ],
+      "evalb_name": [
+        "期中考",
+        "課堂討論參與"
+      ],
+      "evalb_name_en": [
+        "Midterm examination",
+        "Participation"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "XA01101",
+          "sub_id": "97700",
+          "scr_dup": "003",
+          "seq": 1,
+          "strgy_id": "01",
+          "strgy_name": null,
+          "strgy_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "XA01101",
+          "sub_id": "97700",
+          "scr_dup": "003",
+          "seq": 1,
+          "strgy_id": "10",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "XA01101",
+          "sub_id": "97700",
+          "scr_dup": "003",
+          "seq": 1,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D1",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "XA01101",
+          "sub_id": "97700",
+          "scr_dup": "003",
+          "seq": 1,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "L3",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "XA01101",
+      "sub_id": "97700",
+      "scr_dup": "003",
+      "seq": 2,
+      "describe_ch": "2.能聽懂他人所敘述之基本資料",
+      "describe_en": "2.able to understand other person's personal information.",
+      "core_id": null,
+      "core_item": null,
+      "core_eng": null,
+      "core_level": "2 ",
+      "strgy": [
+        "01",
+        "10"
+      ],
+      "evalb": [
+        "L3"
+      ],
+      "strgy_name": [
+        "課堂授課",
+        "小組討論及活動"
+      ],
+      "strgy_name_en": [
+        "Classroom instruction",
+        "Group activity & discussion"
+      ],
+      "evalb_name": [
+        "課堂討論參與"
+      ],
+      "evalb_name_en": [
+        "Participation"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "XA01101",
+          "sub_id": "97700",
+          "scr_dup": "003",
+          "seq": 2,
+          "strgy_id": "01",
+          "strgy_name": null,
+          "strgy_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "XA01101",
+          "sub_id": "97700",
+          "scr_dup": "003",
+          "seq": 2,
+          "strgy_id": "10",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "XA01101",
+          "sub_id": "97700",
+          "scr_dup": "003",
+          "seq": 2,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "L3",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "XA01101",
+      "sub_id": "97700",
+      "scr_dup": "003",
+      "seq": 3,
+      "describe_ch": "3.能讀出並寫出數字",
+      "describe_en": "3.able to read and write numbers.",
+      "core_id": null,
+      "core_item": null,
+      "core_eng": null,
+      "core_level": "2 ",
+      "strgy": [
+        "01",
+        "10"
+      ],
+      "evalb": [
+        "D1",
+        "L3"
+      ],
+      "strgy_name": [
+        "課堂授課",
+        "小組討論及活動"
+      ],
+      "strgy_name_en": [
+        "Classroom instruction",
+        "Group activity & discussion"
+      ],
+      "evalb_name": [
+        "期中考",
+        "課堂討論參與"
+      ],
+      "evalb_name_en": [
+        "Midterm examination",
+        "Participation"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "XA01101",
+          "sub_id": "97700",
+          "scr_dup": "003",
+          "seq": 3,
+          "strgy_id": "01",
+          "strgy_name": null,
+          "strgy_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "XA01101",
+          "sub_id": "97700",
+          "scr_dup": "003",
+          "seq": 3,
+          "strgy_id": "10",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "XA01101",
+          "sub_id": "97700",
+          "scr_dup": "003",
+          "seq": 3,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D1",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "XA01101",
+          "sub_id": "97700",
+          "scr_dup": "003",
+          "seq": 3,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "L3",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "XA01101",
+      "sub_id": "97700",
+      "scr_dup": "003",
+      "seq": 4,
+      "describe_ch": "4.能分辨肯、否定、直述、疑問及命令等句型",
+      "describe_en": "4.able to tell the differences between different sentence patterns.\t",
+      "core_id": null,
+      "core_item": null,
+      "core_eng": null,
+      "core_level": "4 ",
+      "strgy": [
+        "01",
+        "10"
+      ],
+      "evalb": [
+        "D2",
+        "L3"
+      ],
+      "strgy_name": [
+        "課堂授課",
+        "小組討論及活動"
+      ],
+      "strgy_name_en": [
+        "Classroom instruction",
+        "Group activity & discussion"
+      ],
+      "evalb_name": [
+        "期末考",
+        "課堂討論參與"
+      ],
+      "evalb_name_en": [
+        "Final examination",
+        "Participation"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "XA01101",
+          "sub_id": "97700",
+          "scr_dup": "003",
+          "seq": 4,
+          "strgy_id": "01",
+          "strgy_name": null,
+          "strgy_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "XA01101",
+          "sub_id": "97700",
+          "scr_dup": "003",
+          "seq": 4,
+          "strgy_id": "10",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "XA01101",
+          "sub_id": "97700",
+          "scr_dup": "003",
+          "seq": 4,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D2",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "XA01101",
+          "sub_id": "97700",
+          "scr_dup": "003",
+          "seq": 4,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "L3",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "XA01101",
+      "sub_id": "97700",
+      "scr_dup": "003",
+      "seq": 5,
+      "describe_ch": "5.能正確說出親屬稱謂\n",
+      "describe_en": "5.able to use the correct terms of their family members.\t",
+      "core_id": null,
+      "core_item": null,
+      "core_eng": null,
+      "core_level": "1 ",
+      "strgy": [
+        "01"
+      ],
+      "evalb": [
+        "L3"
+      ],
+      "strgy_name": [
+        "課堂授課"
+      ],
+      "strgy_name_en": [
+        "Classroom instruction"
+      ],
+      "evalb_name": [
+        "課堂討論參與"
+      ],
+      "evalb_name_en": [
+        "Participation"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "XA01101",
+          "sub_id": "97700",
+          "scr_dup": "003",
+          "seq": 5,
+          "strgy_id": "01",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "XA01101",
+          "sub_id": "97700",
+          "scr_dup": "003",
+          "seq": 5,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "L3",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    }
+  ],
+  "topicSdgs": [],
+  "topicAiIndicators": [],
+  "learnHours": {
+    "total": 0.0,
+    "tpdOnlineAsyTotal": 0.0,
+    "tpdOnlineSynTotal": 0.0,
+    "tpdOnlineFaceTotal": 0.0,
+    "asySynInTotalPercent": 0.0
+  },
+  "crossVerYear": 114
+}

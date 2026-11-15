@@ -1,0 +1,519 @@
+{
+  "teacherId": "T09056",
+  "name": "沈育安",
+  "mainUnit": "工程與科學學院",
+  "detailUnit": "材料科學與工程學系",
+  "skill": [
+    "半導體封裝技術Electronic Packaging",
+    "低熔點合金Low-Temperature Alloy",
+    "高熵合金High-entropy Alloy",
+    "功率元件封裝技術Packaging of Power Semiconductor Devices",
+    "材料冶金Materials Metallurgy",
+    "金屬接合Metallic Bonding"
+  ],
+  "edu": [
+    "國立交通大學 材料科學與工程學系 博士",
+    "國立交通大學 機械系 碩士",
+    "逢甲大學 機械與電腦輔助工程 學士"
+  ],
+  "fcuExp": [
+    "材料科學與工程學系 助理教授",
+    "材料科學與工程學系 副教授"
+  ],
+  "currjob": [],
+  "otherExp": [
+    "日本大阪大學 接合科學研究所 研究員",
+    "國立交通大學 材料科學與工程學系 博士後研究人員"
+  ],
+  "journal": [
+    {
+      "論文名稱": "Effect of Bi Addition on Melting Behavior, Solder Joint Strength, and Thermal Aging Resistance of Sn-3.5Ag/Cu Joints",
+      "期刊名稱": "JOM (SCIE)",
+      "作者群": "Yu-An Shen*, Fang-Yu Chen, Runhua Gao, Cheng-En Ho, Hiroshi Nishikawa, Chih-Ming Chen*"
+    },
+    {
+      "論文名稱": "Enhanced Mechanical Strength and Biodegradation Resistance of Zn with Addition of Sn3.5Ag Alloy for Implant Applications",
+      "期刊名稱": "Journal of Alloys and Compounds (SCIE)",
+      "作者群": "Pei-Chun Wong, Siliang He, Chieh-Ying Chen, Minho Oh, Equo Kobayashi, Hao-Zhe Kao, Yu-An Shen*"
+    },
+    {
+      "論文名稱": "Pinhole formation and its mitigation for Cu electrodeposition on the Ajinomoto build-up film (ABF) with different surface roughnesses",
+      "期刊名稱": "Journal of Materials Research and Technology-JMR&T (SCIE)",
+      "作者群": "Pei-Chia Hsu,  Zhao-Yu Yang,  Chi Lee,  Cheng-En Ho,  Chih-Ming Chen,  Yu-An Shen"
+    },
+    {
+      "論文名稱": "Investigating Microstructure and Interfacial Stability of Bi-Enhanced Sn-9Zn Alloy on Electroplated Cu during Aging",
+      "期刊名稱": "Materials Science in Semiconductor Processing (SCIE)",
+      "作者群": "Chan-Ying Lin, Minho Oh, Equo Kobayashi, Chih-Ming Chen*, Yu-An Shen*"
+    },
+    {
+      "論文名稱": "Interfacial reaction and thermomigration of copper/indium joints",
+      "期刊名稱": "Journal of Materials Research and Technology-JMR&T (SCIE)",
+      "作者群": "Zi-Yu Huang, Yen-Ju Chu, Cheng-En Ho, Yu-An Shen, Chih-Ming Chen*"
+    },
+    {
+      "論文名稱": "Effect of Thermal Aging on Joint with Eutectic SnIn Solder by TLP Bonding",
+      "期刊名稱": "Materials Science in Semiconductor Processing (SCIE)",
+      "作者群": "Haibin Jin, Jianhao Wang*, Yuyuan Yao, Shuiqing Wang, Yu-An Shen*"
+    },
+    {
+      "論文名稱": "Influence of Ag and Zn on the Microstructure and Properties of Sn-40Bi Alloy for Improved Soldering Applications",
+      "期刊名稱": "ACS Applied Electronic Materials (SCIE)",
+      "作者群": "Yu-An Shen*"
+    },
+    {
+      "論文名稱": "Cu-Cu Joint with Great Strength Using In/Sn-58Bi Hybrid Soldering at Low Temperature (90°C)",
+      "期刊名稱": "Journal of Materials Research and Technology-JMR&T (SCIE)",
+      "作者群": "Yu-An Shen*"
+    },
+    {
+      "論文名稱": "Exploring Mechanism of Suppressing Void Formation at Interface of Sn-9Zn and Cu",
+      "期刊名稱": "Journal of Materials Science: Materials in Electronics (SCIE)",
+      "作者群": "Yu-An Shen*, Chan-Ying Lin, Chih-Ming Chen*"
+    },
+    {
+      "論文名稱": "Effect of indium addition on mechanical, thermal, and soldering properties of eutectic Sn–9Zn alloy",
+      "期刊名稱": "Materials Chemistry and Physics (SCIE)",
+      "作者群": "Yu-An Shen*"
+    },
+    {
+      "論文名稱": "Dissolution Behavior of Cu-2.0 wt.% Be (Alloy 25) and Cu-0.1 wt.% Fe (C19210) Substrates in Molten Sn-9 wt.%Zn Solder",
+      "期刊名稱": "JOM (SCIE)",
+      "作者群": "Andromeda Dwi Laksono, Yu-An Shen, Ting Chen, and Yee-Wen Yen*"
+    },
+    {
+      "論文名稱": "Improvement of Solder Joint Shear Strength under Formic Acid Atmosphere at a  Low Temperature",
+      "期刊名稱": "Materials (SCIE)",
+      "作者群": "Siliang He, Jian Jiang, Yu-An Shen, Lanqing Mo, Yuhao Bi, Junke Wu, and Chan Guo*"
+    },
+    {
+      "論文名稱": "Cu-Cu Joint with Sn-58Bi/Porous Cu/Sn-58Bi Transient Liquid Phase Bonding under Formic Acid Atmosphere",
+      "期刊名稱": "Soldering and Surface Mount Technology (SCIE)",
+      "作者群": "Xiong, Bifu; He, Siliang*; Ge, Jinguo; Li, Quantong; Hu, Chuan; Yan, Haidong; Shen, Yu-An*"
+    },
+    {
+      "論文名稱": "Void-Free Interface between In and High-Impurity Cu Joint",
+      "期刊名稱": "Science and Technology of Welding and Joining (SCIE)",
+      "作者群": "Jia-Yi Lee, Yu-An Shen*, Chih-Ming Chen*"
+    },
+    {
+      "論文名稱": "Bi Dispersion Hardening in Sn-Bi Alloys by Solid-State Aging",
+      "期刊名稱": "JOM (SCIE)",
+      "作者群": "Yu-An Shen*"
+    },
+    {
+      "論文名稱": "Thermomigration suppression in Sn3.5Ag solder joints by hot-end FeCoNiMn alloy",
+      "期刊名稱": "Intermetallics (SCIE)",
+      "作者群": "Yu-An Shen*, Yun-Xuan Lin, Fan-Yi Ouyang*, Hiroshi Nishikawa, Ming-Hung Tsai"
+    },
+    {
+      "論文名稱": "Low-Temperature Transient Liquid Phase Bonding Technology via Cu Porous-Sn58Bi Solid–Liquid System under Formic Acid Atmosphere",
+      "期刊名稱": "Materials (SCIE)",
+      "作者群": "Siliang He, Bifu Xiong, Fangyi Xu, Biyang Chen, Yinhua Cui, Chuan Hu, Gao Yue* and Yu-An Shen*"
+    },
+    {
+      "論文名稱": "Significant Hall–Petch effect in micro-nanocrystalline electroplated copper controlled by SPS concentration",
+      "期刊名稱": "Scientific Reports (SCIE)",
+      "作者群": "Yu-Jyun Kao, Yu-Ju Li, Yu-An Shen* & Chih-Ming Chen*"
+    },
+    {
+      "論文名稱": "Behavior of Sn-3.0Ag-0.5Cu Solder/Cu Fluxless Soldering via Sn Steaming under Formic Acid Atmosphere",
+      "期刊名稱": "Journal of Materials Research and Technology-JMR&T (SCIE)",
+      "作者群": "Siliang He*,1, Yu-An Shen 1, Bifu Xiong, Fupeng Huo, Jiahui Li, Jinguo Ge, Zhiliang Pan, Wangyun Li, Chuan Hu, Hiroshi Nishikawa"
+    },
+    {
+      "論文名稱": "Contact Angle Analysis and Intermetallic Compounds Formation Between Solders and Substrates under Formic acid Atmosphere",
+      "期刊名稱": "Journal of Advanced Joining Processes (EI)",
+      "作者群": "Siliang He*, Yuhao Bi, Yu-An Shen, Zhikuan Chen, Gao Yue*, Chuan Hu, Hiroshi Nishikawa"
+    },
+    {
+      "論文名稱": "Effect of Sn Grain Orientation on Reliability Issues of Sn-Rich Solder Joints",
+      "期刊名稱": "Materials (SCIE)",
+      "作者群": "Yu-An Shen* and John A. Wu"
+    },
+    {
+      "論文名稱": "Effect of Cu on the Interfacial Reaction Between Sn-based Solders and FeCoNiCu Alloys",
+      "期刊名稱": "Intermetallics (SCIE)",
+      "作者群": "Yu-An Shen*, Xiu-Mei Yang#, Cheng-Yu Tsai#, Yu-Hung Ouyang, Ming-Hung Tsai, Tao-Tsung Shun"
+    },
+    {
+      "論文名稱": "Graphene as a Diffusion Barrier at the Interface of Liquid-State Low-Melting Sn–58Bi Alloy and Copper Foil",
+      "期刊名稱": "Applied Surface Science (SCIE)",
+      "作者群": "Yu-An Shen*, Hao-Zhe Chen, Sheng-Wen Chen, Sheng-Kuei Chiu, Xing-You Guo, Ya-Ping Hsieh"
+    },
+    {
+      "論文名稱": "Nanotwin orientation on history-dependent stress decay in Cu nanopillar under constant strain",
+      "期刊名稱": "Nanotechnology (SCIE)",
+      "作者群": "Yu-An Shen, Li Chang*, Shou-Yi Chang, Y-C Chou, K. N. Tu* and Chih Chen*"
+    },
+    {
+      "論文名稱": "Microstructure Evolution and Shear Strength of Tin-Indium-xCu/Cu Joints",
+      "期刊名稱": "Metals (SCIE)",
+      "作者群": "Duy Le Han, Yu-An Shen, Fupeng Huo, Hiroshi Nishikawa"
+    },
+    {
+      "論文名稱": "Fabrication of NiO/ZrO2 nanocomposites using ball milling-pyrolysis method",
+      "期刊名稱": "Vacuum (SCIE)",
+      "作者群": "Fupeng Huo, Yu-An Shen, Siliang He, Keke Zhang, Hiroshi Nishikawa"
+    },
+    {
+      "論文名稱": "Extremely Thin Interlayer of Multi-Element Intermetallic Compound between Sn-Based Solders and FeCoNiMn High-Entropy Alloy",
+      "期刊名稱": "Applied Surface Science (SCIE)",
+      "作者群": "Yu-An Shen*, Sheng-Wen Chen, Hao-Zhe Chen, Chun-Ming Chang, Yu-Hong Ouyang"
+    },
+    {
+      "論文名稱": "Observation of Void Formation Patterns in SnAg Films undergoing Electromigration and Simulation using Random Walk Methods",
+      "期刊名稱": "Scientific Reports (SCIE)",
+      "作者群": "Zhi Jin*, Yu-An Shen, Yang Zuo, Y.C. Chan, S.H. Mannan, Hiroshi Nishikawa"
+    },
+    {
+      "論文名稱": "Investigation of FeCoNiCu properties: thermal stability, corrosion behavior, wettability with Sn-3.0Ag-0.5Cu and interlayer formation of multi-element intermetallic compound",
+      "期刊名稱": "Applied Surface Science (SCIE)",
+      "作者群": "Yu-An Shen*, Han-Ming Hsieh, Shih-Hsun Chen, Jiahui Li, Sheng-Wen Chen, Hiroshi Nishikawa"
+    },
+    {
+      "論文名稱": "Effects of Impurities on Void Formation at the Interface between Sn-3.0Ag-0.5Cu and Cu Electroplated Films",
+      "期刊名稱": "Journal of Materials Science: Materials in Electronics (SCIE)",
+      "作者群": "Ping-Chen Chiang, Yu-An Shen*, Chih-Ming Chen*"
+    },
+    {
+      "論文名稱": "Effect of Cu addition on the microstructure and mechanical properties of In-Sn-based\nlow-temperature alloy",
+      "期刊名稱": "Materials Science & Engineering A (SCIE)",
+      "作者群": "Duy Le Han, Yu-An Shen, Siliang He and Hiroshi Nishikawa"
+    },
+    {
+      "論文名稱": "Electromigration Behavior of Silver Thin Film Fabricated by Electron-Beam Physical Vapor Deposition",
+      "期刊名稱": "Journal of Materials Science (SCIE)",
+      "作者群": "Zhi Jin*, Yu-An Shen*, Fupeng  Huo, Y.C. Chan, Hiroshi Nishikawa*"
+    },
+    {
+      "論文名稱": "Electrodeposition of twinned Cu with strong texture effect on voiding propensity in electroplated Cu solder joints",
+      "期刊名稱": "Journal of The Electrochemical Society (SCIE)",
+      "作者群": "P.C. Chiang, Yu-An Shen*, S.P. Feng and Chih-Ming Chen*"
+    },
+    {
+      "論文名稱": "Mechanical and Microstructural Enhancements of Ag Microparticle Sintered Joint by Ultrasonic Vibration",
+      "期刊名稱": "Journal of Materials Science: Materials in Electronics (SCIE)",
+      "作者群": "Runhua Gao, Yu-An Shen, Jiahui Li, Siliang He, Hiroshi Nishikawa"
+    },
+    {
+      "論文名稱": "Interfacial Transformation of Preoxidized Cu Microparticles in a Formic-acid Atmosphere for Pressureless Cu-Cu Bonding",
+      "期刊名稱": "Journal of Materials Science: Materials in Electronics (SCIE)",
+      "作者群": "Runhua Gao; Siliang He; Jiahui Li; Yu-An Shen; Hiroshi Nishikawa"
+    },
+    {
+      "論文名稱": "Microstructure and mechanical properties of the In–48Sn–xAg low-temperature alloy",
+      "期刊名稱": "Journal of Materials Science (SCIE)",
+      "作者群": "Duy Le Han, Yu-An Shen, Sanghun Jin, Hiroshi Nishikawa"
+    },
+    {
+      "論文名稱": "Wettability, interfacial reactions, and impact strength of Sn–3.0 Ag–0.5 Cu solder/ENIG substrate used for fluxless soldering under formic acid atmosphere",
+      "期刊名稱": "Journal of Materials Science (SCIE)",
+      "作者群": "Siliang He, Runhua Gao, Yu-An Shen, Jiahui Li, Hiroshi Nishikawa"
+    },
+    {
+      "論文名稱": "Anisotropic Grain Growth in (111) Nanotwinned Cu Films by DC Electrodeposition",
+      "期刊名稱": "Materials (SCIE)",
+      "作者群": "Tien-Lin Lu, Yu-An Shen, John A Wu, Chih Chen"
+    },
+    {
+      "論文名稱": "In-situ observation of fluxless soldering of Sn-3.0 Ag-0.5 Cu/Cu under a formic acid atmosphere",
+      "期刊名稱": "Materials Chemistry and Physics (SCIE)",
+      "作者群": "Siliang He, Runhua Gao, Jiahui Li, Yu-An Shen, Hiroshi Nishikawa"
+    },
+    {
+      "論文名稱": "Sn-3.0 Ag-0.5 Cu/Sn-58Bi composite solder joint assembled using a low-temperature reflow process for PoP technology",
+      "期刊名稱": "Materials & Design (SCIE)",
+      "作者群": "Yu-An Shen*, Shiqi Zhou, Jiahui Li, Chih-han Yang, Sijie Huang, Shih-kang Lin, Hiroshi Nishikawa"
+    },
+    {
+      "論文名稱": "Novel polarity effect on intermetallic compound thickness changes during electromigration in Cu/Sn-3.0 Ag-0.5 Cu/Cu solder joints",
+      "期刊名稱": "Journal of Applied Physics (SCIE)",
+      "作者群": "Zhi Jin#, Yu-An Shen#, Siliang He, Shiqi Zhou, YC Chan, Hiroshi Nishikawa"
+    },
+    {
+      "論文名稱": "Suppressed Growth of (Fe, Cr, Co, Ni, Cu) Sn 2 Intermetallic Compound at Interface between Sn-3.0 Ag-0.5 Cu Solder and FeCoNiCrCu 0.5 Substrate during Solid-state Aging",
+      "期刊名稱": "Scientific reports (SCIE)",
+      "作者群": "Yu-An Shen*, Chun-Ming Lin, Jiahui Li, Runhua Gao, Hiroshi Nishikawa"
+    },
+    {
+      "論文名稱": "Preferred orientation of Bi and effect of Sn-Bi microstructure on mechanical and thermomechanical properties in eutectic Sn-Bi alloy",
+      "期刊名稱": "Materialia (SCIE)",
+      "作者群": "Yu-An Shen*, Shiqi Zhou, Hiroshi Nishikawa"
+    },
+    {
+      "論文名稱": "The newly developed Sn–Bi–Zn alloy with a low melting point, improved ductility, and high ultimate tensile strength",
+      "期刊名稱": "Materialia (SCIE)",
+      "作者群": "Shiqi Zhou, Chih-han Yang, Yu-An Shen, Shih-kang Lin, Hiroshi Nishikawa"
+    },
+    {
+      "論文名稱": "Effects of In and Zn Double Addition on Eutectic Sn-58Bi Alloy",
+      "期刊名稱": "2019 IEEE 69th Electronic Components and Technology Conference (ECTC) (EI)",
+      "作者群": "Shiqi Zhou, Yu-An Shen, Tiffani Uresti, Vasanth Shunmugasamy, Bilal Mansoor, Hiroshi Nishikawa"
+    },
+    {
+      "論文名稱": "Microstructure and Property Changes in Cu/Sn-58Bi/Cu Solder Joints During Thermomigration",
+      "期刊名稱": "2019 IEEE 69th Electronic Components and Technology Conference (ECTC) (EI)",
+      "作者群": "Yu-An Shen*, Shiqi Zhou, Jiahui Li, KN Tu, Hiroshi Nishikawa"
+    },
+    {
+      "論文名稱": "A Cu-Cu Bonding Method Using Preoxidized Cu Microparticles under Formic Acid Atmosphere",
+      "期刊名稱": "2019 International Conference on Electronics Packaging (ICEP) (EI)",
+      "作者群": "Runhua Gao, Jiahui Li, Yu-An Shen, Hiroshi Nishikawa"
+    },
+    {
+      "論文名稱": "The study of Sn-45Bi-2.6 Zn alloy before and after thermal aging",
+      "期刊名稱": "2019 International Conference on Electronics Packaging (ICEP) (EI)",
+      "作者群": "Shiqi Zhou, Chih-han Yang, Yu-An Shen, Shih-kang Lin, Hiroshi Nishikawa"
+    },
+    {
+      "論文名稱": "Effect of Substrates on Fracture Mechanism and Process Optimization of Oxidation–Reduction Bonding with Copper Microparticles",
+      "期刊名稱": "Journal of Electronic Materials (SCIE)",
+      "作者群": "Runhua Gao, Siliang He, Yu-An Shen, Hiroshi Nishikawa"
+    },
+    {
+      "論文名稱": "Effect of FeCoNiCrCu0.5 High-entropy-alloy Substrate on Sn Grain Size in Sn-3.0Ag-0.5Cu Solder",
+      "期刊名稱": "Scientific Reports (SCIE)",
+      "作者群": "Yu-An Shen*, Chun-Ming Lin, Jiahui Li, Siliang He, Hiroshi Nishikawa"
+    },
+    {
+      "論文名稱": "Improved mechanical properties induced by In and In & Zn double additions to eutectic Sn58Bi alloy",
+      "期刊名稱": "Journal of Materials Science: Materials in Electronics (SCIE)",
+      "作者群": "Shiqi Zhou, Yu-An Shen, Tiffani Uresti, Vasanth C. Shunmugasamy, Bilal Mansoor, Hiroshi Nishikawa"
+    },
+    {
+      "論文名稱": "Thermomigration induced microstructure and property changes in Sn-58Bi solders",
+      "期刊名稱": "Materials & Design (SCIE)",
+      "作者群": "Yu-An Shen*, Shiqi Zhou, Jiahui Li, K.N. Tu, Hiroshi Nishikawa"
+    },
+    {
+      "論文名稱": "Effect of Sn grain orientation on growth of Cu-Sn intermetallic compounds during thermomigration in Cu-Sn2.3Ag-Ni microbumps",
+      "期刊名稱": "Materials Letters (SCIE)",
+      "作者群": "Yu-An Shen, Fan-Yi Ouyang, Chih Chen"
+    },
+    {
+      "論文名稱": "Effect of Sn grain orientation on formation of Cu6Sn5 intermetallic compounds during electromigration",
+      "期刊名稱": "Scripta Materialia (SCIE)",
+      "作者群": "Yu-An Shen, Chih Chen"
+    }
+  ],
+  "journal2": [],
+  "conference": [
+    {
+      "論文名稱": "微量鉍添加對錫-鋅低溫合金機械性質與熱時效性的影響研究",
+      "會議名稱": "中國材料科學學會113年年會",
+      "作者群": "高浩哲、梁志銘、沈育安"
+    },
+    {
+      "論文名稱": "銀和鋅的微量添加對錫鉍合金性質之影響",
+      "會議名稱": "中國材料科學學會113年會",
+      "作者群": "劉稚祥, 高家祥, 廖梓翔, 沈育安"
+    },
+    {
+      "論文名稱": "鉍強化錫銀低溫合金之接合強度及耐熱時效性之研究",
+      "會議名稱": "中國材料科學學會113年會",
+      "作者群": "沈育安*, 陳方煜, 陳志銘"
+    },
+    {
+      "論文名稱": "單邊Co和Ni對Sn3.5Ag/Cu接點界面反應的影響",
+      "會議名稱": "台灣化學工程學會71週年年會",
+      "作者群": "Yu-Hsuan Yang, Yu-An Shen, and Chih-Ming Chen"
+    },
+    {
+      "論文名稱": "Interfacial Reaction of Sn-Zn and Sn-Zn-Bi Alloys with Electroplated Cu",
+      "會議名稱": "2024 ICGET-Tw",
+      "作者群": "Yu-An Shen*, Chan-Ying Lin, Chih-Ming Chen"
+    },
+    {
+      "論文名稱": "The Role of FeCoNiMn as a Diffusion Barrier in Solder Joints during Thermomigration",
+      "會議名稱": "TMS2024 (Symposium Electronic Packaging and Interconnection Materials)",
+      "作者群": "Yu-An Shen"
+    },
+    {
+      "論文名稱": "Improving Mechanical Properties of Eutectic Sn-Zn Low-Melting Alloy by Indium Addition",
+      "會議名稱": "TMS2024 (Symposium: Phase Stability, Phase Transformations, and Reactive Phase Formation in Electronic Materials XXIII)",
+      "作者群": "Yu-An Shen"
+    },
+    {
+      "論文名稱": "Interfacial reactions between electroplated copper and different solders  (Sn-9Zn-5Bi and Sn-3Ag-0.5Cu)",
+      "會議名稱": "TMS2024 (Symposium: Phase Stability, Phase Transformations, and Reactive Phase Formation in Electronic Materials XXIII)",
+      "作者群": "Fang-Yu Chen, Chan-Ying LIn, Chih-Ming Chen* and Yu-An Shen*"
+    },
+    {
+      "論文名稱": "Investigating Thermomigration in Cu/Sn3.5Ag/FeCoNiMn Solder Joint",
+      "會議名稱": "MRM/IUMRS-ICA 2023",
+      "作者群": "Yu-An Shen"
+    },
+    {
+      "論文名稱": "Inhibition of Thermomigration in Solder Joints with FeCoNiMn Alloy",
+      "會議名稱": "MRSTIC 2023",
+      "作者群": "Yu-An Shen*, Fan-Yi Ouyang, Ming-Hung Tsai"
+    },
+    {
+      "論文名稱": "Effect of trace Bi on the mechanical strength of Sn solder before and after thermal aging",
+      "會議名稱": "TMS 2023 Annual Meeting & Exhibition",
+      "作者群": "Yu-An Shen"
+    },
+    {
+      "論文名稱": "鐵鈷鎳銅高熵合金中銅含量對與錫銀銅銲料介面反應之影響",
+      "會議名稱": "中國材料科學學會111年年會",
+      "作者群": "沈育安，蔡銘洪，孫道中"
+    },
+    {
+      "論文名稱": "微量鉍添加對於錫強度及熱時效的影響",
+      "會議名稱": "中國鑛冶工程學會111年年會",
+      "作者群": "沈育安"
+    },
+    {
+      "論文名稱": "A Study on Strengthening Mechanisms in Sn-0.7Cu via Microstructural Observation, Elemental Distribution, and Grain-Size Analysis",
+      "會議名稱": "2022 International Conference on Electronics Packaging (ICEP)",
+      "作者群": "Yu-An Shen*, Yu-Hong Ouyang"
+    },
+    {
+      "論文名稱": "Interfacial Reaction between Sn-rich solder and FeCoNiCu High-entropy Alloy",
+      "會議名稱": "TMS 2022 Annual Meeting & Exhibition",
+      "作者群": "Yu-An Shen*, Sheng-Wen Chen, Hao-Zhe Chen"
+    },
+    {
+      "論文名稱": "Interfacial Reaction between FeCoNiMn High-entropy Alloy and Sn-3.0Ag-0.5Cu Solder Wettability, Thermal Aging and Multiple Reflow",
+      "會議名稱": "2021MRSTIC",
+      "作者群": "Cheng-Yu Tsai, Yu-Hung Ouyang, Ya-Qi Chen, Bo-Lin Tsai, Yu-An Shen*"
+    },
+    {
+      "論文名稱": "Investigation of Interfacial Reaction between FeCoNiMn High-entropy Alloy and Sn-3.0Ag-0.5Cu Solder- Wettability, Thermal Aging and Multiple Reflow",
+      "會議名稱": "2021MRSTIC",
+      "作者群": "Sheng-Wen Chen, Yu-An Shen*"
+    },
+    {
+      "論文名稱": "Significant Suppression of Cu Diffusion by Graphene at Interface between Sn-58Bi Solder and Cu Foil During Reflow Process",
+      "會議名稱": "2021MRSTIC",
+      "作者群": "Hao-Zhe Chen, Yu-An Shen*"
+    },
+    {
+      "論文名稱": "Effect of Cu Content in FeCoNiCu Alloy on Interfacial Reaction with Sn-3.0Ag-0.5Cu Solder",
+      "會議名稱": "2021MRSTIC",
+      "作者群": "Xiu-Mei Yang, Y.H. Ouyang, S.W. Chen, Y.K. Chou and Y.A. Shen*"
+    },
+    {
+      "論文名稱": "The voids growth path on Sn-Ag thin film under high current density",
+      "會議名稱": "2021 International Conference on Electronics Packaging (ICEP)",
+      "作者群": "Zhi Jin; Yu-An Shen; Yang Zuo; S.H. Mannan; Hiroshi Nishikawa"
+    }
+  ],
+  "book": [],
+  "patent": [],
+  "most": [
+    {
+      "name": "三主成分BiInSn低溫高強度合金之開發(1/3)",
+      "schoolYear": "113"
+    },
+    {
+      "name": "新穎低熔點多元合金之機械、熱及焊接性質研究",
+      "schoolYear": "112"
+    },
+    {
+      "name": "少量元素添加對共晶錫-鋅銲料之力學性能及與高熵合金介面反應的影響",
+      "schoolYear": "111"
+    },
+    {
+      "name": "無鉛銲料與高熵合金之界面反應(2/2)",
+      "schoolYear": "110"
+    },
+    {
+      "name": "FeCoNiCu合金中Cu含量對Sn-3.0Ag-0.5Cu銲料潤濕性及介面反應的影響",
+      "schoolYear": "110"
+    },
+    {
+      "name": "無鉛銲料與高熵合金之界面反應(1/2)",
+      "schoolYear": "109"
+    }
+  ],
+  "tech": [],
+  "induAca": [],
+  "perform": [],
+  "reward": [
+    "2025第十三屆台灣相圖年會-海報佳作 (113, 2025-02) - 材料學門-相圖與熱力學委員會",
+    "113中國材料年會-論文海報佳作 (113, 2024-11) - 中國材料年會",
+    "2024材料學會年會-海報競賽優等 (113, 2024-11) - 中國材料科學學會",
+    "逢甲大學論文著作獎勵傑出獎 (113, 2024-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (113, 2024-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (113, 2024-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (113, 2024-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (113, 2024-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (113, 2024-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優等獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (111, 2022-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (111, 2022-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (111, 2022-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (111, 2022-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (111, 2022-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (111, 2022-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (111, 2022-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (111, 2022-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (111, 2022-11) - 逢甲大學",
+    "勤學有禮2.0活動競賽第一名 (110, 2022-01) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (110, 2021-11) - 逢甲大學",
+    "110科技部大專生計畫補助獎勵 (110, 2021-09) - 科技部",
+    "材料系專題實作期末發表會競賽第三名 (109, 2021-06) - 逢甲大學",
+    "材料系專題實作期中發表會競賽第二名 (109, 2020-12) - 逢甲大學"
+  ],
+  "speech": [
+    {
+      "演講題目": "電子封裝中接點材料之物理性質 (Physical Properties of Interconnect Materials in Electronic Packaging)",
+      "邀請單位": "國立中興大學物理學系",
+      "演講日期": "2024-09"
+    },
+    {
+      "演講題目": "應用於電子封裝技術之冶金科學",
+      "邀請單位": "國立中興大學循環經濟研究學院",
+      "演講日期": "2024-03"
+    },
+    {
+      "演講題目": "Materials Science in Low-Melting Alloy for Electronic Packaging",
+      "邀請單位": "國立清華大學材料系",
+      "演講日期": "2023-12"
+    },
+    {
+      "演講題目": "Introduction of Materials Science in Electronic Packaging",
+      "邀請單位": "國立中興大學化工系",
+      "演講日期": "2021-12"
+    },
+    {
+      "演講題目": "半導體科技與產業概論",
+      "邀請單位": "通識中心",
+      "演講日期": "2021-10"
+    },
+    {
+      "演講題目": "Metallurgy of Solder Alloy for Electronic Packaging",
+      "邀請單位": "國立中興大學機械系",
+      "演講日期": "2021-10"
+    },
+    {
+      "演講題目": "材料冶金學應用於提升電子封裝內部之焊料接點之議題",
+      "邀請單位": "通識中心",
+      "演講日期": "2021-05"
+    },
+    {
+      "演講題目": "Materials Characterization and Analysis in Solder Alloys for Electronic Packaging",
+      "邀請單位": "第一屆奈米元件電路與技術研討會",
+      "演講日期": "2021-05"
+    },
+    {
+      "演講題目": "Metallurgy of Solder Alloy for Electronic Packaging",
+      "邀請單位": "聯合大學材料系",
+      "演講日期": "2021-04"
+    },
+    {
+      "演講題目": "Metallurgy of Solder Alloy for Electronic Packaging",
+      "邀請單位": "Micron Memory Technology",
+      "演講日期": "2020-11"
+    }
+  ],
+  "material": [],
+  "tal": []
+}

@@ -1,0 +1,335 @@
+{
+  "teacherId": "T81207",
+  "name": "林南州",
+  "mainUnit": "資訊電機學院",
+  "detailUnit": "自動控制工程學系",
+  "skill": [
+    "機器人學Robotics",
+    "仿生控制Biologically-Inspired Control",
+    "系統模擬System Simulation"
+  ],
+  "edu": [
+    "美國凱斯西儲大學 機械工程學系 博士",
+    "美國凱斯西儲大學 機械工程學系 碩士",
+    "大同工學院 機械工程學系 學士",
+    "台北市成功高中  高中",
+    "台北市仁愛國中  國(初)中",
+    "台北市長安國小  國小"
+  ],
+  "fcuExp": [
+    "自動控制工程學系(所) 副教授"
+  ],
+  "currjob": [],
+  "otherExp": [],
+  "journal": [
+    {
+      "論文名稱": "Quality Improvement to The Spinless Coating Process of Touch Panel with Taguchi Methods",
+      "期刊名稱": "Indian Journal of Engineering & Materials Sciences (EI)",
+      "作者群": "Chern-Sheng Lin*, Te-Neng Kao, Nin-Chun Chang, Nan-Jou Lin, Shiaw-Wu Chen"
+    },
+    {
+      "論文名稱": "The Auto-Measurement of The Gap of LCD Glass Plates Using Sub-Pixel Accuracy Estimation",
+      "期刊名稱": "International Journal for Light and Electron Optics (SCIE)",
+      "作者群": "Chern-Sheng Lin, Jason Cho, Yun-Long Lay, Chia-Hau Lin, Nanjou Lin"
+    },
+    {
+      "論文名稱": "The method of diagonal-box checker search for measuring one's blink in eyeball tracking device",
+      "期刊名稱": "Optics And Lasers Technology (SCIE,EI)",
+      "作者群": "林宸生、簡志忠、林南州、Chiao-Hsiang Chen"
+    }
+  ],
+  "journal2": [],
+  "conference": [
+    {
+      "論文名稱": "兼具安全距離避障與路徑平滑能力的修改型A-star演算法",
+      "會議名稱": "中國機械工程學會第四十一屆全國學術研討會",
+      "作者群": "彭成安*、林南州"
+    },
+    {
+      "論文名稱": "An Algorithm for the Workspace Surface Generation of a Delta Robot",
+      "會議名稱": "中國機械工程學會第四十屆全國學術研討會論文集",
+      "作者群": "林南州*、李昀晏"
+    },
+    {
+      "論文名稱": "Development of the Omnidirectional-Wheeled Mobile Robot Obstacle Avoidance Based on a 2-D Lidar",
+      "會議名稱": "中國機械工程學會第三十九屆全國學術研討會",
+      "作者群": "林南州*、陳威翔"
+    },
+    {
+      "論文名稱": "基於順向運動學和蒙特卡羅法的平面並聯機械手臂之工作空間輪廓分析",
+      "會議名稱": "中國機械工程學會第三十九屆全國學術研討會",
+      "作者群": "林南州、李昀晏*"
+    },
+    {
+      "論文名稱": "基於 2D Lidar 之移動機器人障礙物迴避與路徑最佳化",
+      "會議名稱": "中國機械工程學會第三十八屆全國學術研討會",
+      "作者群": "林南州、陳威翔*"
+    },
+    {
+      "論文名稱": "Fast Collision Avoidance Path Planning with Improved Joint-Space Multi-Layer A* Search Algorithm for a 3-DOF Manipulator",
+      "會議名稱": "中國機械工程學會第三十七屆全國學術研討會",
+      "作者群": "林南州*、徐雋欽"
+    },
+    {
+      "論文名稱": "Manipulator Obstacle Avoidance Based on Modified Artificial Potential Field Method",
+      "會議名稱": "中國機械工程學會第三十六屆全國學術研討會論文集",
+      "作者群": "林南州、鄭東澤*"
+    },
+    {
+      "論文名稱": "改進的A*搜索演算法結合B-spline用於機械手臂路徑規劃",
+      "會議名稱": "中國機械工程學會第三十六屆全國學術研討會論文集",
+      "作者群": "林南州、徐雋欽*"
+    },
+    {
+      "論文名稱": "基於人工位能場法之機械手臂路徑規劃",
+      "會議名稱": "中國機械工程學會第三十五屆全國學術研討會論文集",
+      "作者群": "林南州、鄭東澤*"
+    },
+    {
+      "論文名稱": "康達飛行器運動方程式建立與動態模擬",
+      "會議名稱": "中國機械工程學會第三十四屆全國學術研討會論文集",
+      "作者群": "林南州、劉家新*"
+    },
+    {
+      "論文名稱": "單輪機器人之建模與運動分析",
+      "會議名稱": "中國機械工程學會第三十四屆全國學術研討會論文集",
+      "作者群": "林南州、林昰辰*"
+    },
+    {
+      "論文名稱": "六足機器人的全方位運動",
+      "會議名稱": "中國機械工程學會第三十三屆全國學術研討會",
+      "作者群": "林南州、黃鈺雯*"
+    },
+    {
+      "論文名稱": "Pseudoinverse之應用於雙足機器人",
+      "會議名稱": "中國機械工程學會第三十三屆全國學術研討會",
+      "作者群": "林南州、謝明瑾*"
+    },
+    {
+      "論文名稱": "四旋翼飛行器之建模與運動分析",
+      "會議名稱": "中國機械工程學會第三十二屆全國學術研討會",
+      "作者群": "林南州、蘇彥霖*"
+    },
+    {
+      "論文名稱": "全方位輪控制器的設計與實現",
+      "會議名稱": "中國機械工程學會第三十一屆全國學術研討會",
+      "作者群": "林南州、黃久紘*"
+    },
+    {
+      "論文名稱": "具有前蹼之履帶型機器人攀爬階梯及傾斜測量之研究",
+      "會議名稱": "中國機械工程學會第三十一屆全國學術研討會",
+      "作者群": "林南州、李孟諺*"
+    },
+    {
+      "論文名稱": "仿生式腳協調機制之應用於六足機器人",
+      "會議名稱": "中國機械工程學會第三十屆全國學術研討會",
+      "作者群": "林南州、葉昱辰*"
+    },
+    {
+      "論文名稱": "簡易力量模型之應用於以SimMechanics建模的六足走路機器人",
+      "會議名稱": "中國機械工程學會第三十屆全國學術研討會",
+      "作者群": "林南州、廖哲偉*"
+    },
+    {
+      "論文名稱": "以減速機控制線切割機張力之研究",
+      "會議名稱": "中國機械工程學會第二十九屆全國學術研討會",
+      "作者群": "林南州、柯智偉*"
+    },
+    {
+      "論文名稱": "以數值方法分析線切割機弦線振動之研究",
+      "會議名稱": "中國機械工程學會第二十九屆全國學術研討會",
+      "作者群": "林南州、張一騰*"
+    },
+    {
+      "論文名稱": "複線切割機弦線振動分析",
+      "會議名稱": "中國機械工程學會第二十八屆全國學術研討會",
+      "作者群": "林南州、黃思瑋、黃榮興"
+    },
+    {
+      "論文名稱": "六足機器人參數化速度與步伐控制器",
+      "會議名稱": "中國機械工程學會第二十八屆全國學術研討會",
+      "作者群": "林南州、黃俊凱"
+    },
+    {
+      "論文名稱": "Modeling of An Axially-Moving String",
+      "會議名稱": "2011中華民國系統科學與工程研討會",
+      "作者群": "林南州、張家誠、黃榮興"
+    },
+    {
+      "論文名稱": "應用田口實驗法則於鑽石複線切割最佳化設計",
+      "會議名稱": "2011中華民國系統科學與工程研討會",
+      "作者群": "賴韋仁、黃榮興、林南州"
+    },
+    {
+      "論文名稱": "運用於六足機器人轉彎行為的仿昆蟲控制策略",
+      "會議名稱": "中國機械工程學會第26屆全國學術研討會",
+      "作者群": "林南州、郭品易"
+    },
+    {
+      "論文名稱": "設計六足步行機器人之力量感測器以運用於具有高度反射能力之仿生控制",
+      "會議名稱": "中國機械工程學會第26屆全國學術研討會",
+      "作者群": "林南州、王湘均"
+    },
+    {
+      "論文名稱": "應用最小平方法於快速逆向運動學",
+      "會議名稱": "2009機電整合科技應用研討會",
+      "作者群": "林南州、王俊程"
+    },
+    {
+      "論文名稱": "仿生物反射動作應用於六足機器人在凹凸不平地面行走",
+      "會議名稱": "中國機械工程學會第二十五屆全國學術研討會",
+      "作者群": "林南州、林德耀"
+    },
+    {
+      "論文名稱": "喬登矩陣法應用於六自由度史都華平台之奇異點分析",
+      "會議名稱": "中國機械工程學會第二十四屆全國學術研討會",
+      "作者群": "林南州、林德耀、陳致豪"
+    },
+    {
+      "論文名稱": "仿生控制法則應用於六足走路機器人",
+      "會議名稱": "2006第九屆工程科技與中西醫學研討會",
+      "作者群": "林南州、葉士賢"
+    },
+    {
+      "論文名稱": "六足史都華平台之奇異點分析",
+      "會議名稱": "2005年中華民國自動控制研討會",
+      "作者群": "林南州、陳致豪、劉憲文"
+    },
+    {
+      "論文名稱": "Modeling and Simulation of The Multi-Chain and Multi-Body Manipulator with Kinematic Constraints",
+      "會議名稱": "International Conference on Systems and Signals",
+      "作者群": "Hsien-Wen Liu, Nanjou Lin, Jia-Liang Guo, and Jhih-Hao Chen"
+    },
+    {
+      "論文名稱": "Optimal Active Suspension Design of Rail Vehicles Using Evolutionary Approach",
+      "會議名稱": "23rd IASTED Int. Multi-Conf. Artificial Intelligence and Applications",
+      "作者群": "Y.C. Lin, C.L. Lin, N.C. Shieh, and N. Lin"
+    },
+    {
+      "論文名稱": "三滑軌式六足史都華平台動態模擬拘束條件穩定現象之研究",
+      "會議名稱": "中國機械工程學會第二十一屆全國學術研討會",
+      "作者群": "林南州、黃奇慶、白鍚煒"
+    },
+    {
+      "論文名稱": "Optimal Path Planning on 3D Space Using A DNA Computing Algorithm",
+      "會議名稱": "2004 IEEE International Symposium on Industrial Electronics",
+      "作者群": "C.L. Lin, N. Lin, J.R. Lin, and H.Y. Jan"
+    },
+    {
+      "論文名稱": "以進化演算法則輔助輕軌車主動懸吊系統之最佳化設計",
+      "會議名稱": "2004中華民國自動控制研討會",
+      "作者群": "謝念中，林俊良，林昱成，林南州"
+    },
+    {
+      "論文名稱": "Application of DNA Computing Algorithm on Three-Dimension Path Planning Problem",
+      "會議名稱": "2004中華民國自動控制研討會",
+      "作者群": "Chun-Liang Lin, Jr-Rung Lin, Horn-Yong Jan, and Nanjou Lin"
+    },
+    {
+      "論文名稱": "Optimal Design for Passion of A Light Rail Vehicle using Constrained Multiobjective Evolutionary Search",
+      "會議名稱": "IEEE International Conference on Networking, Sensing & Contr",
+      "作者群": "N.C. Shieh, C.L. Lin, N. Lin, and Y.C. Lin"
+    },
+    {
+      "論文名稱": "應用廣義逆矩陣於史都華平台之控制法則",
+      "會議名稱": "中國機械工程學會第二十屆全國學術研討會",
+      "作者群": "林南州，郭家良"
+    },
+    {
+      "論文名稱": "Singularity Characterization and Optimal Path Planning for A Mixed Linear and Rotary Motors-Based Dynamic Platform",
+      "會議名稱": "7th International Conference on Mechatronics Technology",
+      "作者群": "C.L. Lin, N. Lin, J.R. Lin, and R.C. Tsai"
+    },
+    {
+      "論文名稱": "以質量分割法建立具有拘束條件之多鏈多體機械系統的動態模擬",
+      "會議名稱": "中國機械工程學會第十九屆全國學術研討會",
+      "作者群": "林南州，李榮仁，白錫煒"
+    },
+    {
+      "論文名稱": "準座標系在多鏈多體機械系統模擬分析上之應用",
+      "會議名稱": "2002中華民國自動控制研討會",
+      "作者群": "林南州"
+    },
+    {
+      "論文名稱": "A Fuzzy Controller for Hexapod Robot with Modified Fuzzy Identification",
+      "會議名稱": "The 5th IEEE International Conference on Fuzzy Systems",
+      "作者群": "S.L. Lin*, N. Lin, and M.C. Chen"
+    },
+    {
+      "論文名稱": "Parallel Simulation for the Dynamics of Hexapod System",
+      "會議名稱": "1995 National Computer Symposium",
+      "作者群": "S.S. Wang, S.L. Lin*, N.J. Lin, and C.C. Chiu"
+    },
+    {
+      "論文名稱": "The Fuzzy Identification in the Fuzzy Controller Design",
+      "會議名稱": "1995中華民國自動控制研討會",
+      "作者群": "陳明志，林賢龍*，林南洲"
+    }
+  ],
+  "book": [
+    {
+      "專業書籍": "六腳機械人之平行化動態模擬研究",
+      "出版單位": "國科會",
+      "作者群": "林賢龍*，林南州，陳孝武"
+    }
+  ],
+  "patent": [],
+  "most": [
+    {
+      "name": "基於聲音辨識之管道內部智慧檢漏系統",
+      "schoolYear": "113"
+    },
+    {
+      "name": "基於光學字元辨識之自動化食品成分標示檢測與分類系統",
+      "schoolYear": "111"
+    },
+    {
+      "name": "基於路面坡度及騎乘車速實現電動自行車扭力之優化補償設計",
+      "schoolYear": "110"
+    },
+    {
+      "name": "具可分離監控功能之手持式環境VOC監控裝置",
+      "schoolYear": "108"
+    },
+    {
+      "name": "可攜式智慧型紫外線偵測裝置",
+      "schoolYear": "104"
+    },
+    {
+      "name": "(應用型)產學合作計畫─鑽石複線切割系統之動態分析與控制設計",
+      "schoolYear": "99"
+    },
+    {
+      "name": "(廠配)(應用型)產學合作計畫─鑽石複線切割系統之動態分析與控制設計(揚朋科技股份有限公司)",
+      "schoolYear": "99"
+    },
+    {
+      "name": "大型多鏈多體機械系統之模糊控制研究",
+      "schoolYear": "90"
+    },
+    {
+      "name": "光電感測及溫度感測與伺服控制之系統整合-控制系統實驗工程教育改進計劃",
+      "schoolYear": "85"
+    },
+    {
+      "name": "六腳機械人之平行化動態模擬研究",
+      "schoolYear": "83"
+    }
+  ],
+  "tech": [],
+  "induAca": [
+    "預兆診斷技術電路板測試(含AI技術) (2021-05 to 2021-06)",
+    "智慧機械手臂運動姿態量測模組與人機分析介面開發 (2021-02 to 2021-03)",
+    "鑽石複線機加工最佳化研究(一) (2010-03 to 2010-12)"
+  ],
+  "perform": [],
+  "reward": [
+    "Maker Faire Taipei 2017 技藝技能暨IoT創客松設計競賽產業務聯網組（B組）第一名 (106, 2017-11) - Make:Taiwan",
+    "Maker Faire Taipei 2017 技藝技能暨IoT創客松設計競賽產業務聯網組（B組）3D列印造型設計獎 (106, 2017-11) - Make:Taiwan",
+    "102學年度逢甲大學優良導師 (102, 2014-09) - 逢甲大學",
+    "96學年度優良導師 (96, 2008-08) - 逢甲大學"
+  ],
+  "speech": [],
+  "material": [],
+  "tal": []
+}

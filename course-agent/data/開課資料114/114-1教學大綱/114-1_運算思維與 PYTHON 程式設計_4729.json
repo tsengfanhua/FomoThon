@@ -1,0 +1,839 @@
+{
+  "success": true,
+  "info": {
+    "yms_year": 114.0,
+    "yms_smester": 1.0,
+    "sub_id": "41031",
+    "cls_id": "CI00101",
+    "scr_dup": "001",
+    "sub_id3": "IEE1004",
+    "cls_name": "資電學院綜合班",
+    "cls_ename": "College of Information and Electrical Engineering",
+    "sub_name": "運算思維與 PYTHON 程式設計",
+    "sub_ename": "COMPUTATIONAL THINKING AND PYTHON PROGRAMMING",
+    "scr_mso": "選修",
+    "scr_mso_en": "Elective",
+    "scr_credit": 1.0,
+    "scr_periodly": "(一)00",
+    "scr_periodly_eng": "(Mon)00",
+    "lang_name": "中文                                                      ",
+    "lang_ename": "Chinese",
+    "scr_room": " ",
+    "scr_room_eng": " ",
+    "scr_teacher": "薛念林",
+    "scr_teacher_eng": "Nien-Lin Hsueh",
+    "scr_selcode": "4729",
+    "scr_elearning": "全學期",
+    "scr_elearning_en": "Full semester",
+    "scr_hours": "1",
+    "scr_english": "N",
+    "unt_name": null,
+    "unt_ename": null,
+    "link_traminal": null,
+    "link_traminal_en": null,
+    "scr_ldl": "E",
+    "course_mk": "N",
+    "teams_mk": "N",
+    "sub_title": null,
+    "sub_title_en": null,
+    "sub_describe": null,
+    "sub_describe_en": null,
+    "hasDescription": null,
+    "hasInstructor": null,
+    "hasTA": null,
+    "hasTextBooks": null,
+    "hasReadings": null,
+    "hasiSoftwares": null,
+    "hasAssistSoftwares": null,
+    "hasObjective": null,
+    "hasWeeklyScds": null,
+    "hasGradeRules": null,
+    "hasGradeRuleDescribe": null,
+    "hasIntegrity": null,
+    "hasCoursePol": null,
+    "hasCourseRem": null,
+    "hasObjectiveReleation": null,
+    "hasTopicSdgs": null,
+    "hasSubTitleDesc": null
+  },
+  "subTitleDesc": null,
+  "description": {
+    "sub_id3": null,
+    "sub_name": "運算思維與 PYTHON 程式設計",
+    "sub_ename": "COMPUTATIONAL THINKING AND PYTHON PROGRAMMING",
+    "describe_ch": "Python是目前最廣泛被使用的語言之一，除了設計簡潔、語法易讀易懂、學習曲線相對較低的優點以外，它可以應用於各種不同的領域，包括科學、數據分析、人工智能、網路開發等。本課程透過線上非同步的方式來講授課程，除了可以讓學生有彈性的時間空間進行學習外，也可以反覆的複習，並結合AI助教，提供24小時的學習輔助。課程主要範圍包含：Python程式語言簡介; 程式的基本結構與運算; 邏輯運算; 集合物件; 函式; 資料處理等。",
+    "describe_eh": "Python is one of the most widely used programming languages today. In addition to its clean design, readable syntax, and relatively gentle learning curve, Python can be applied across a variety of domains, including scientific computing, data analysis, artificial intelligence, and web development.\nThis course is delivered asynchronously online, providing students with flexible access to learning materials anytime and anywhere. The format also allows for repeated review of content. Additionally, the course integrates AI-assisted support, offering 24/7 learning assistance.\nThe main topics of this course include an introduction to the Python programming language, the basic structure and operations of programs, logical operations, collection objects, functions, and data processing.",
+    "pre_subname": "",
+    "pre_sub_id3": null,
+    "pre_sub_ename": "",
+    "pre_describe": null,
+    "pre_describe_en": null,
+    "scr_credit": 1.0
+  },
+  "targets": [
+    {
+      "seq": 1,
+      "describe_ch": "了解程式的運算思維",
+      "describe_en": "Understand the computational thinking behind programming"
+    },
+    {
+      "seq": 2,
+      "describe_ch": "了解如何撰寫 Python 程式碼",
+      "describe_en": "Learn how to write Python code"
+    },
+    {
+      "seq": 3,
+      "describe_ch": "了解如何應用 AI 輔助進行程式撰寫",
+      "describe_en": "Understand how to utilize AI-assisted tools in programming"
+    },
+    {
+      "seq": 4,
+      "describe_ch": "培養自學能力",
+      "describe_en": "Develop self-directed learning skills"
+    }
+  ],
+  "teachersInfo": [
+    {
+      "cname": "薛念林",
+      "ename": "Nien-Lin Hsueh",
+      "period": "(Wed)07-08 資電309,(Thu)07-08 資電309",
+      "roletype": 0,
+      "email": "nlhsueh@o365.fcu.edu.tw",
+      "ext": "3773"
+    }
+  ],
+  "textBooks": {
+    "yms_year": 114.0,
+    "yms_smester": 1.0,
+    "cls_id": "CI00101",
+    "sub_id": "41031",
+    "scr_dup": "001",
+    "tpb_seq": 1,
+    "tpb_book": "<div>&nbsp; &nbsp;</div>\n",
+    "tpb_book_en": null
+  },
+  "readings": {
+    "yms_year": 114.0,
+    "yms_smester": 1.0,
+    "cls_id": "CI00101",
+    "sub_id": "41031",
+    "scr_dup": "001",
+    "tpc_seq": 1,
+    "tpc_book": "<div><a href=\"https://hackmd.io/@nlhsueh/HJWLb3502/https%3A%2F%2Fhackmd.io%2F%40nlhsueh%2FByzdb2cRh\">https://hackmd.io/@nlhsueh/HJWLb3502/https%3A%2F%2Fhackmd.io%2F%40nlhsueh%2FByzdb2cRh</a> (老師的文字講義）</div>\n",
+    "tpc_book_en": null
+  },
+  "iSoftwares": [],
+  "assistSoftwares": [],
+  "weeklyScds": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CI00101",
+      "sub_id": "41031",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "1",
+      "tpd_reading": "<div>相見歡、課程介紹&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": null,
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": "課程介紹 (Teams 直播上課)",
+      "tpd_ass_en": null,
+      "tpd_online_asy": 1.67,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CI00101",
+      "sub_id": "41031",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "2",
+      "tpd_reading": "<div>Ch1 Python 簡介與環境安裝</div>\n\n<div>Ch2 基本語法介紹</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": null,
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": "Python，開發環境、\n變數，程式基本結構、基本運算、輸入與輸出、各式運算元",
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": 3.33,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CI00101",
+      "sub_id": "41031",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "3",
+      "tpd_reading": "<div>Ch3 控制與迴圈</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": null,
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": "邏輯運算，分支結構; \n迴圈結構，for, while, for range, break 與 continue",
+      "tpd_ass_en": null,
+      "tpd_online_asy": 2.0,
+      "tpd_online_syn": 1.5,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CI00101",
+      "sub_id": "41031",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "4",
+      "tpd_reading": "<div>Ch4 List 等集合物件</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": null,
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": ".List, tuple 資料結構、Set dict 資料結構\n.邏輯與集合綜合應用",
+      "tpd_ass_en": null,
+      "tpd_online_asy": 0.0,
+      "tpd_online_syn": 2.5,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CI00101",
+      "sub_id": "41031",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "5",
+      "tpd_reading": "<div>Ch5 函式與例外處理</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": null,
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": ".模組化設計與函示架構;\n.參數傳遞，Lambda，例外處理，函式應用",
+      "tpd_ass_en": null,
+      "tpd_online_asy": 0.0,
+      "tpd_online_syn": 2.5,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CI00101",
+      "sub_id": "41031",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "6",
+      "tpd_reading": "<div>Ch6 資料分析</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": null,
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": "Pandas 簡介，Pandas 實作，遺失資料之處理，資料表合併，圖表繪製、Youbike 資料應用，大專生學籍資料應用",
+      "tpd_ass_en": null,
+      "tpd_online_asy": 0.0,
+      "tpd_online_syn": 2.5,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CI00101",
+      "sub_id": "41031",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "7",
+      "tpd_reading": "<div>期末實機測驗</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": null,
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": "線上課程分數達 50 分者，始可參與測驗。需到校進行測驗，若交通不便者，可於開學後進行測驗。時間另行通知。",
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": 2.0,
+      "tpd_week_en": null,
+      "mode": 0
+    }
+  ],
+  "gradeRules": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CI00101",
+      "sub_id": "41031",
+      "scr_dup": "001",
+      "evalb_id": "L4",
+      "score_rate": 10,
+      "evalb_memo": "影片觀看狀況及互動",
+      "evalb_memo_en": null,
+      "evalb_name": "出席狀況",
+      "evalb_name_en": "Attendances",
+      "seq": 1
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CI00101",
+      "sub_id": "41031",
+      "scr_dup": "001",
+      "evalb_id": "D3",
+      "score_rate": 60,
+      "evalb_memo": "包含線上測驗 30% 、線上程式作業 30%",
+      "evalb_memo_en": null,
+      "evalb_name": "隨堂測驗",
+      "evalb_name_en": "In-class examination",
+      "seq": 2
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CI00101",
+      "sub_id": "41031",
+      "scr_dup": "001",
+      "evalb_id": "D2",
+      "score_rate": 30,
+      "evalb_memo": "需線上課程原始成績達 50 分",
+      "evalb_memo_en": null,
+      "evalb_name": "期末考",
+      "evalb_name_en": "Final examination",
+      "seq": 3
+    }
+  ],
+  "gradeRuleDescribe": {
+    "yms_year": 114.0,
+    "yms_smester": 1.0,
+    "cls_id": "CI00101",
+    "sub_id": "41031",
+    "scr_dup": "001",
+    "tpa_score_new": null,
+    "tpa_score_new_en": null,
+    "course_pol": "雖是線上課程，我們還是安排有部分的同步教學。同步教學表示是直播，同學應依指示準時上線，並遵守線上上課的一些禮儀規範\n* 進入時先靜音，需要發言時再打開麥克風。 \n* 準備鏡頭，需要時依老師指示打開鏡頭，服裝儀容及房間要稍微注意一下，不要太亂。\n* 需要提問時，不要直接打開麥克風中斷，應以該軟體舉手的方式提問。\n\n實體考試時，也請準時到。",
+    "course_pol_en": null,
+    "course_rem": null,
+    "course_rem_en": null,
+    "ais_meno": "<div>線上課程相當自由，同學們的影片觀看紀錄會被記錄為出席狀況，請同學以誠信原則來播放影片，切勿刻意透過播放影片來刷紀錄（沒有實際觀看）。您可以透過暫停、快轉來播放影片進行學習，但不應造假播放紀錄。</div>\n\n<div>程式碼必須自己完成，可以與老師或同學相互討論，但最終上傳的作業，必須是自己完成。學習系統上有許多的隨堂測驗，你可以找網路上的任何資料，透過自身的一些實驗獲得解答。但不可直接抄襲同學的答案。你可能會使用 ChatGPT 等軟體來協助，但詢問時不應直接問答案，應只詢問提示。</div>\n\n<div>考試時不可作弊。若有發現，該考試零分計算。</div>\n",
+    "ais_meno_en": null,
+    "ilearn_mk": "N"
+  },
+  "integrity": {
+    "yms_year": 114.0,
+    "yms_smester": 1.0,
+    "cls_id": "CI00101",
+    "sub_id": "41031",
+    "scr_dup": "001",
+    "tpa_score_new": null,
+    "tpa_score_new_en": null,
+    "course_pol": "雖是線上課程，我們還是安排有部分的同步教學。同步教學表示是直播，同學應依指示準時上線，並遵守線上上課的一些禮儀規範\n* 進入時先靜音，需要發言時再打開麥克風。 \n* 準備鏡頭，需要時依老師指示打開鏡頭，服裝儀容及房間要稍微注意一下，不要太亂。\n* 需要提問時，不要直接打開麥克風中斷，應以該軟體舉手的方式提問。\n\n實體考試時，也請準時到。",
+    "course_pol_en": null,
+    "course_rem": null,
+    "course_rem_en": null,
+    "ais_meno": "<div>線上課程相當自由，同學們的影片觀看紀錄會被記錄為出席狀況，請同學以誠信原則來播放影片，切勿刻意透過播放影片來刷紀錄（沒有實際觀看）。您可以透過暫停、快轉來播放影片進行學習，但不應造假播放紀錄。</div>\n\n<div>程式碼必須自己完成，可以與老師或同學相互討論，但最終上傳的作業，必須是自己完成。學習系統上有許多的隨堂測驗，你可以找網路上的任何資料，透過自身的一些實驗獲得解答。但不可直接抄襲同學的答案。你可能會使用 ChatGPT 等軟體來協助，但詢問時不應直接問答案，應只詢問提示。</div>\n\n<div>考試時不可作弊。若有發現，該考試零分計算。</div>\n",
+    "ais_meno_en": null,
+    "ilearn_mk": "N"
+  },
+  "policy": {
+    "yms_year": 114.0,
+    "yms_smester": 1.0,
+    "cls_id": "CI00101",
+    "sub_id": "41031",
+    "scr_dup": "001",
+    "tpa_score_new": null,
+    "tpa_score_new_en": null,
+    "course_pol": "雖是線上課程，我們還是安排有部分的同步教學。同步教學表示是直播，同學應依指示準時上線，並遵守線上上課的一些禮儀規範\n* 進入時先靜音，需要發言時再打開麥克風。 \n* 準備鏡頭，需要時依老師指示打開鏡頭，服裝儀容及房間要稍微注意一下，不要太亂。\n* 需要提問時，不要直接打開麥克風中斷，應以該軟體舉手的方式提問。\n\n實體考試時，也請準時到。",
+    "course_pol_en": null,
+    "course_rem": null,
+    "course_rem_en": null,
+    "ais_meno": "<div>線上課程相當自由，同學們的影片觀看紀錄會被記錄為出席狀況，請同學以誠信原則來播放影片，切勿刻意透過播放影片來刷紀錄（沒有實際觀看）。您可以透過暫停、快轉來播放影片進行學習，但不應造假播放紀錄。</div>\n\n<div>程式碼必須自己完成，可以與老師或同學相互討論，但最終上傳的作業，必須是自己完成。學習系統上有許多的隨堂測驗，你可以找網路上的任何資料，透過自身的一些實驗獲得解答。但不可直接抄襲同學的答案。你可能會使用 ChatGPT 等軟體來協助，但詢問時不應直接問答案，應只詢問提示。</div>\n\n<div>考試時不可作弊。若有發現，該考試零分計算。</div>\n",
+    "ais_meno_en": null,
+    "ilearn_mk": "N"
+  },
+  "courseBankC": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CI00101",
+      "sub_id": "41031",
+      "scr_dup": "001",
+      "seq": 1,
+      "describe_ch": "了解程式的運算思維",
+      "describe_en": "Understand the computational thinking behind programming",
+      "core_id": "A",
+      "core_item": "具備與運用數學、科學及工程領域專業知識的能力。",
+      "core_eng": "Possess and apply Mathematics、Science and Engineering field professional knowledge ability.",
+      "core_level": "2 ",
+      "strgy": [
+        "01",
+        "05",
+        "31"
+      ],
+      "evalb": [
+        "D2",
+        "D3",
+        "D4"
+      ],
+      "strgy_name": [
+        "課堂授課",
+        "實驗實習",
+        "線上學習"
+      ],
+      "strgy_name_en": [
+        "Classroom instruction",
+        "Experimental practice",
+        "Online Learning, OLL"
+      ],
+      "evalb_name": [
+        "期末考",
+        "隨堂測驗",
+        "作業"
+      ],
+      "evalb_name_en": [
+        "Final examination",
+        "In-class examination",
+        "Homework"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CI00101",
+          "sub_id": "41031",
+          "scr_dup": "001",
+          "seq": 1,
+          "strgy_id": "01",
+          "strgy_name": null,
+          "strgy_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CI00101",
+          "sub_id": "41031",
+          "scr_dup": "001",
+          "seq": 1,
+          "strgy_id": "05",
+          "strgy_name": null,
+          "strgy_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CI00101",
+          "sub_id": "41031",
+          "scr_dup": "001",
+          "seq": 1,
+          "strgy_id": "31",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CI00101",
+          "sub_id": "41031",
+          "scr_dup": "001",
+          "seq": 1,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D2",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CI00101",
+          "sub_id": "41031",
+          "scr_dup": "001",
+          "seq": 1,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D3",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CI00101",
+          "sub_id": "41031",
+          "scr_dup": "001",
+          "seq": 1,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D4",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CI00101",
+      "sub_id": "41031",
+      "scr_dup": "001",
+      "seq": 2,
+      "describe_ch": "了解如何撰寫 Python 程式碼",
+      "describe_en": "Learn how to write Python code",
+      "core_id": "B",
+      "core_item": "設計、執行實驗與工程實務，以及分析與詮釋數據的能力。",
+      "core_eng": "Design、implement experiment and engineering practical，analyze and interpret data ability.",
+      "core_level": "3 ",
+      "strgy": [
+        "01",
+        "05",
+        "31"
+      ],
+      "evalb": [
+        "D2"
+      ],
+      "strgy_name": [
+        "課堂授課",
+        "實驗實習",
+        "線上學習"
+      ],
+      "strgy_name_en": [
+        "Classroom instruction",
+        "Experimental practice",
+        "Online Learning, OLL"
+      ],
+      "evalb_name": [
+        "期末考"
+      ],
+      "evalb_name_en": [
+        "Final examination"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CI00101",
+          "sub_id": "41031",
+          "scr_dup": "001",
+          "seq": 2,
+          "strgy_id": "01",
+          "strgy_name": null,
+          "strgy_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CI00101",
+          "sub_id": "41031",
+          "scr_dup": "001",
+          "seq": 2,
+          "strgy_id": "05",
+          "strgy_name": null,
+          "strgy_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CI00101",
+          "sub_id": "41031",
+          "scr_dup": "001",
+          "seq": 2,
+          "strgy_id": "31",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CI00101",
+          "sub_id": "41031",
+          "scr_dup": "001",
+          "seq": 2,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D2",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CI00101",
+      "sub_id": "41031",
+      "scr_dup": "001",
+      "seq": 3,
+      "describe_ch": "了解如何應用 AI 輔助進行程式撰寫",
+      "describe_en": "Understand how to utilize AI-assisted tools in programming",
+      "core_id": "F",
+      "core_item": "認識國際科技議題，持續學習成長的能力。",
+      "core_eng": "Understand international science and technology issue，sustainable learning and growth ability.",
+      "core_level": "2 ",
+      "strgy": [
+        "05",
+        "31"
+      ],
+      "evalb": [
+        "D2",
+        "D4"
+      ],
+      "strgy_name": [
+        "實驗實習",
+        "線上學習"
+      ],
+      "strgy_name_en": [
+        "Experimental practice",
+        "Online Learning, OLL"
+      ],
+      "evalb_name": [
+        "期末考",
+        "作業"
+      ],
+      "evalb_name_en": [
+        "Final examination",
+        "Homework"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CI00101",
+          "sub_id": "41031",
+          "scr_dup": "001",
+          "seq": 3,
+          "strgy_id": "05",
+          "strgy_name": null,
+          "strgy_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CI00101",
+          "sub_id": "41031",
+          "scr_dup": "001",
+          "seq": 3,
+          "strgy_id": "31",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CI00101",
+          "sub_id": "41031",
+          "scr_dup": "001",
+          "seq": 3,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D2",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CI00101",
+          "sub_id": "41031",
+          "scr_dup": "001",
+          "seq": 3,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D4",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CI00101",
+      "sub_id": "41031",
+      "scr_dup": "001",
+      "seq": 4,
+      "describe_ch": "培養自學能力",
+      "describe_en": "Develop self-directed learning skills",
+      "core_id": "F",
+      "core_item": "認識國際科技議題，持續學習成長的能力。",
+      "core_eng": "Understand international science and technology issue，sustainable learning and growth ability.",
+      "core_level": "3 ",
+      "strgy": [
+        "05",
+        "31"
+      ],
+      "evalb": [
+        "L4",
+        "L5"
+      ],
+      "strgy_name": [
+        "實驗實習",
+        "線上學習"
+      ],
+      "strgy_name_en": [
+        "Experimental practice",
+        "Online Learning, OLL"
+      ],
+      "evalb_name": [
+        "出席狀況",
+        "線上參與"
+      ],
+      "evalb_name_en": [
+        "Attendances",
+        "Online Participation"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CI00101",
+          "sub_id": "41031",
+          "scr_dup": "001",
+          "seq": 4,
+          "strgy_id": "05",
+          "strgy_name": null,
+          "strgy_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CI00101",
+          "sub_id": "41031",
+          "scr_dup": "001",
+          "seq": 4,
+          "strgy_id": "31",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CI00101",
+          "sub_id": "41031",
+          "scr_dup": "001",
+          "seq": 4,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "L4",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CI00101",
+          "sub_id": "41031",
+          "scr_dup": "001",
+          "seq": 4,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "L5",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    }
+  ],
+  "topicSdgs": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CI00101",
+      "sub_id": "41031",
+      "scr_dup": "001",
+      "sdgs_seq": 4,
+      "main_related": "Y",
+      "ind_related": "N",
+      "iss_name": "社會進步面",
+      "iss_ename": "Social Progress",
+      "content_name": "提供全民教育",
+      "content_ename": "Quality Education"
+    }
+  ],
+  "learnHours": {
+    "total": 18.00,
+    "tpdOnlineAsyTotal": 3.67,
+    "tpdOnlineSynTotal": 12.33,
+    "tpdOnlineFaceTotal": 2.0,
+    "asySynInTotalPercent": 88.89
+  },
+  "crossVerYear": 114
+}

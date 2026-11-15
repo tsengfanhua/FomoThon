@@ -1,0 +1,780 @@
+{
+  "teacherId": "T89190",
+  "name": "鄭仙志",
+  "mainUnit": "工程與科學學院",
+  "detailUnit": "航太與系統工程學系",
+  "skill": [
+    "結構最佳化設計Optimal Structural Design",
+    "電子構裝力學分析及設計Thermal-mechanical Analysis and Design of Electronic Packaging",
+    "有限元素法/分析Finite Element Methods and Analysis",
+    "固體力學與結構動力學Solid Mechanics and Structural Dynamics",
+    "分子模擬及微奈米結構力學Molecular Dynamics and Nano-Micro Mechanics",
+    "網路分散式計算Web-based Distributed Computing"
+  ],
+  "edu": [
+    "密西根大學安娜堡分校 機械暨應用力學研究所 博士",
+    "國立成功大學 土木工程學系 學士"
+  ],
+  "fcuExp": [
+    "校務企劃組 副研究員",
+    "航太與系統工程學系 系主任",
+    "航空工程學系 副教授",
+    "航太與系統工程學系 教授",
+    "航太與系統工程學系 特聘教授",
+    "航太與系統工程學系 特聘教授",
+    "航太與系統工程學系 教授",
+    "航太與系統工程學系 教授"
+  ],
+  "currjob": [],
+  "otherExp": [],
+  "journal": [
+    {
+      "論文名稱": "Power Cycling Modeling and Lifetime Evaluation of SiC Power MOSFET Module Using a Modified Physical Lifetime Model",
+      "期刊名稱": "IEEE TRANSACTIONS ON DEVICE AND MATERIALS RELIABILITY (SCIE)",
+      "作者群": "Cheng, H.-C.*;  Syu, J.-Y.;  Wang, H.-H.; Liu, Y.-C.; Kao, K.-S.; Chang, T.-C."
+    },
+    {
+      "論文名稱": "Effective Macroscopic Thermomechanical Characterization of Multilayer Circuit Laminates for Advanced Electronic Packaging",
+      "期刊名稱": "Materials (SCIE,ECONLIT)",
+      "作者群": "Cheng, H.C.* ; Jhu, W.Y."
+    },
+    {
+      "論文名稱": "Solder die attach lifetime characterization of SOT-227 power MOSFET module in a 3-phase inverter under power cycling",
+      "期刊名稱": "Journal of Mechanics (SCIE)",
+      "作者群": "Cheng, H.C.*; Hsu, C.W."
+    },
+    {
+      "論文名稱": "Development and Performance Evaluation of Integrated Hybrid Power Module for Three-phase Servo Motor Applications",
+      "期刊名稱": "Micromachines (SCIE)",
+      "作者群": "Cheng, H.-C.*; Liu, Y.-C.;  Lin, H.-H.; Chiou, S.-C.; Tzeng, C.-M.; Chang, T.-C."
+    },
+    {
+      "論文名稱": "Development of ANN-Based Warpage Prediction Model for FCCSP via Subdomain Sampling and Taguchi Hyperparameter Optimization",
+      "期刊名稱": "Micromachines (SCIE)",
+      "作者群": "Cheng, H.C.*; Ma, C.L.; Liu, Y.L."
+    },
+    {
+      "論文名稱": "Dynamic Modeling Framework for Evaluating Electromagnetic-Electro-Thermal Behavior of Power Conversion System During Load Operation",
+      "期刊名稱": "Journal of Electronic Packaging, ASME Transactions (SCIE)",
+      "作者群": "Cheng, H.-C.* ; Liu, Y.-C."
+    },
+    {
+      "論文名稱": "A DFT Characterization of Structural, Mechanical, and Thermodynamic Properties of Ag9In4 Binary Intermetallic Compound",
+      "期刊名稱": "Metals (SCIE)",
+      "作者群": "Hsien-Chie Cheng and Ching-Feng Yu"
+    },
+    {
+      "論文名稱": "Transient Electro-Thermal Coupled Modeling of Three-Phase Power MOSFET Inverter during Load Cycles",
+      "期刊名稱": "Materials (SCIE)",
+      "作者群": "Hsien-Chie Cheng, Siang-Yu Lin and Yan-Cheng Liu"
+    },
+    {
+      "論文名稱": "Theoretical and Experimental Investigation of Warpage Evolution of Flip Chip Package on Packaging during Fabrication",
+      "期刊名稱": "Materials (SCIE)",
+      "作者群": "Hsien-Chie Cheng, Ling-Ching Tai and Yan-Cheng Liu"
+    },
+    {
+      "論文名稱": "PARASITIC EXTRACTION AND POWER LOSS ESTIMATION OF POWER DEVICES",
+      "期刊名稱": "Journal of Mechanics (SCIE)",
+      "作者群": "H.-C. Cheng, Y.-H. Shen, W.-H. Chen"
+    },
+    {
+      "論文名稱": "Viscoelastic Warpage Modeling of Fan-Out Wafer Level Packaging During Wafer-Level Mold Cure Process",
+      "期刊名稱": "IEEE Transactions on Components, Packaging and Manufacturing Technology (SCIE)",
+      "作者群": "H.-C. Cheng*, Z.-D. Wu, and Y.-C. Liu"
+    },
+    {
+      "論文名稱": "Die Shift Assessment of Reconstituted Wafer for Fan-out Wafer-Level Packaging",
+      "期刊名稱": "IEEE Transactions on Device and Material Reliability (SCIE)",
+      "作者群": "H.-C. Cheng*, C.-H. Chung, and W.-H. Chen"
+    },
+    {
+      "論文名稱": "Thermal and Electrical Characterization of Power MOSFET Module Using Coupled Field Analysis",
+      "期刊名稱": "Journal of Mechanics (SCIE)",
+      "作者群": "H.-C. Cheng*, C.-H. Wu, and S.-Y. Lin"
+    },
+    {
+      "論文名稱": "Warpage Characterization of Molded Wafer for Fan-out Wafer-level Packaging",
+      "期刊名稱": "Journal of Electronic Packaging, ASME Transactions (SCIE)",
+      "作者群": "H.-C. Cheng* and Y.-C. Liu"
+    },
+    {
+      "論文名稱": "Characterization of the Flexural Strength and Fatigue Life of Ultra-thin Glass After Dicing",
+      "期刊名稱": "IEEE Transactions on Components, Packaging and Manufacturing Technology (SCIE)",
+      "作者群": "H.-C. Cheng*, K.-H. Li, C. Y. Shih, and W.-H. Chen,"
+    },
+    {
+      "論文名稱": "Assessment of Elastic-plastic and Electrical Properties of Printed Silver-based Interconnects for Flexible Electronics",
+      "期刊名稱": "Journal of Electronic Packaging, ASME Transactions (SCIE)",
+      "作者群": "H.-C. Cheng*, R.-Y. Hong and W.-H. Chen*"
+    },
+    {
+      "論文名稱": "Investigation of Stress-Strain Constitutive Behavior of Intermetallic Alloys",
+      "期刊名稱": "Journal of Mechanics (SCIE)",
+      "作者群": "H.-C. Cheng*, H.-C. Hu, R.-Y. Hong, and W.-H. Chen*"
+    },
+    {
+      "論文名稱": "Assessing Ink Transfer Performance of Gravure Offset Fine Line Circuitry Printing",
+      "期刊名稱": " Journal of Electronic Materials (SCIE)",
+      "作者群": "H.-C. Cheng*, Y.-W. Chen, W.-H. Chen*, S.-T. Lu and S.-M. Lin"
+    },
+    {
+      "論文名稱": "Role of Plastic behaviors of Ni3Sn4 Intermetallic Compound on Solder Joint Reliability",
+      "期刊名稱": "IEEE Transactions on Device and Materials Reliability (SCIE)",
+      "作者群": "H.-C. Cheng*, R.-Y. Hong, H.-C. Hu and W.-H. Chen*"
+    },
+    {
+      "論文名稱": "Mechanical property assessment of black phosphorene nanotube using molecular dynamics simulation",
+      "期刊名稱": " Computational Materials Science (SCIE)",
+      "作者群": "W.-H. Chen, C.-F. Yu*, I-C. Chen and H.-C. Cheng*"
+    },
+    {
+      "論文名稱": "Theoretical Assessment of Structural, Mechanical and Thermodynamic Properties of Pd2Al",
+      "期刊名稱": "Solid State Sciences (SCIE)",
+      "作者群": "W.-H. Chen, C.-F. Yu*, and H.-C. Cheng*"
+    },
+    {
+      "論文名稱": "Influence of structural defect on thermal-mechanical properties of phosphorene sheets",
+      "期刊名稱": "Journal of Materials Science (SCIE)",
+      "作者群": "W.-H. Chen, I-C. Chen, H.-C. Cheng* and C.-F. Yu*"
+    },
+    {
+      "論文名稱": "The mechanical, thermodynamic and electronic properties of cubic Au4Al crystal via first-principles calculations",
+      "期刊名稱": "Journal of Alloys and Compounds (SCIE)",
+      "作者群": "Wen-Hwa Chen, Hsien-Chie Cheng*, Ching-Feng Yu*,"
+    },
+    {
+      "論文名稱": "Influences of Ignition Timing, Spark Plug and Intake Port Locations on the Combustion Performance of a Simulated Rotary Engine",
+      "期刊名稱": " Journal of Mechanics (SCIE,EI)",
+      "作者群": "Po-Wen Hwang, Xin-Chang Chen, Hsien-Chie Cheng*"
+    },
+    {
+      "論文名稱": "Board-Level Drop Impact Reliability of Silicon Interposer-Based 2.5-D IC Integration",
+      "期刊名稱": "IEEE Transactions on Components, Packaging and Manufacturing Technology (SCIE)",
+      "作者群": "Hsien-Chie Cheng*, Tzu-Hsuan Cheng, Wen-Hwa Chen*, Tao-Chih Chang and Hsin-Yi Huang,"
+    },
+    {
+      "論文名稱": "An Ab-initio study of structural, elastic, electronic and thermodynamic properties of triclinic Cu7In3",
+      "期刊名稱": "Materials Chemistry and Physics (SCIE)",
+      "作者群": "Ching-Feng Yu, Hsien-Chie Cheng*, and Wen-Hwa Chen*"
+    },
+    {
+      "論文名稱": "A Study of Mechanical Properties of Multi-Layered Graphene using Modified Nosé-Hoover based Molecular Dynamics",
+      "期刊名稱": "Computational Materials Science (SCIE)",
+      "作者群": "Ching-Feng Yu, Kun-Ling Chen, Hsien-Chie Cheng* and Wen-Hwa Chen*"
+    },
+    {
+      "論文名稱": "Heat Dissipation Assessment of Through Silicon Via (TSV)-based 3D IC packaging for CMOS image sensing",
+      "期刊名稱": "Microelectronics Reliability (SCIE)",
+      "作者群": "Hsien-Chie Cheng*, Tzu-Chin Huang, Po-Wen Hwang and Wen-Hwa Chen*"
+    },
+    {
+      "論文名稱": "First-Principles Calculation of Interfacial Adhesion Strength and Electromigration for the Micro-bump Interconnect of 3D Chip Stacking Packaging",
+      "期刊名稱": "CMES-Computer Modeling in Engineering & Science (SCIE)",
+      "作者群": "W.H. Chen, H. C. Cheng*, and C. F. Yu"
+    },
+    {
+      "論文名稱": "Structural, mechanical, thermodynamic and electronic properties of AgIn2 and Ag3In intermetallic compounds: Ab initio investigation",
+      "期刊名稱": " RSC Advances (SCIE)",
+      "作者群": "C.-F. Yu, H.-C. Cheng* and W.-H. Chen*,"
+    },
+    {
+      "論文名稱": "First-principles Density Functional Calculations of Physical Properties of Orthorhombic Au2Al Crystal",
+      "期刊名稱": "Intermetallics (SCIE)",
+      "作者群": "W.-H. Chen, C.-F. Yu, K.-N. Chiang, H.-C. Cheng*"
+    },
+    {
+      "論文名稱": "Hygro-Thermo-Mechanical Behavior of Adhesive-based Flexible Chip-on-Flex Packaging",
+      "期刊名稱": "Journal of Electronic Materials (SCIE)",
+      "作者群": "H.-C. Cheng*, H.-H. Huang, W.-H. Chen* and S.-T. Lu"
+    },
+    {
+      "論文名稱": "Structural Optimizations of Silicon Based NMOSFETs with a Sunken STI Pattern by Using a Robust Stress Simulation Methodology",
+      "期刊名稱": "Journal of Nanoscience and Nanotechnology (SCIE)",
+      "作者群": "C.-C. Lee*, C.-H. Liu, H.-C. Cheng, R. H. Deng"
+    },
+    {
+      "論文名稱": "Bending Characteristics of Foldable Touch Display Panel with a Protection Structure Design",
+      "期刊名稱": "Advances in Materials Science and Engineering (SCIE)",
+      "作者群": "H.-C. Cheng*, W.-H. Xu, W.-H. Chen*, P.-H. Wang, K.-F. Chen, and C.-C. Chang"
+    },
+    {
+      "論文名稱": "Structural, Mechanical and Thermodynamic Properties of AuIn2 Crystal under Pressure: A First-Principles Density Functional Theory Calculation",
+      "期刊名稱": "Journal of Alloys and Compounds (SCIE)",
+      "作者群": "C.-F. Yu, H.-C. Cheng* and W.-H. Chen*"
+    },
+    {
+      "論文名稱": "An RDL UBM Structural Design for Solving Ultralow-K Delamination Problem of Cu Pillar Bump Flip Chip BGA Packaging",
+      "期刊名稱": "Journal of Electronic Materials (SCIE)",
+      "作者群": "K. M. Chen*, C. Y. Wu, C. H. Wang, H.-C. Cheng*, N. C. Huang"
+    },
+    {
+      "論文名稱": "Bending stress analysis of flexible touch panel",
+      "期刊名稱": "Microsystem Technologies (SCIE)",
+      "作者群": "M.-K. Yeh*, L.-Y. Chang, M.-R. Lu, H.-C. Cheng and P.-H. Wang"
+    },
+    {
+      "論文名稱": "Size, Temperature and Strain-rate Dependence on Tensile Mechanical Behaviors of Ni3Sn4 Intermetallic Compound using Molecular Dynamics Simulation",
+      "期刊名稱": "Journal of Nanomaterials (SCIE)",
+      "作者群": "H.-C. Cheng*, C.-F. Yu, and W.-H. Chen*"
+    },
+    {
+      "論文名稱": "On the First-principles Density Functional Theory Calculation of Electromigration Resistance Ability for Sn-based Intermetallic Compounds",
+      "期刊名稱": "CMES-Computer Modeling in Engineering & Sciences (SCIE)",
+      "作者群": "W. H. Chen*, C. F. Yu and H. C. Cheng*"
+    },
+    {
+      "論文名稱": "Mechanical property effects of Si1−xGex channel and stressed contact etching stop layer on nano-scaled n-type metal–oxide–semiconductor field effect transistors",
+      "期刊名稱": "Thin Solid Films (SCIE)",
+      "作者群": "C.-C. Lee*, H.-C. Cheng, H.-W. Hsu, Z.-H. Chen, H.-H. Teng, and C. H. Liu,"
+    },
+    {
+      "論文名稱": "Drop Impact Reliability Analysis of 3-D Chip-on-Chip Packaging: Numerical Modeling and Experimental Validation",
+      "期刊名稱": "IEEE Transactions on Device and Materials Reliability (SCIE)",
+      "作者群": "H.-C. Cheng*, H.-K. Cheng, S.-T. Lu, and W.-H. Chen*"
+    },
+    {
+      "論文名稱": "Physical, Mechanical, Thermodynamic and Electronic Characterization of Cu11In9 Crystal Using First-principles Density Functional Theory Calculation",
+      "期刊名稱": "Computational Materials Science (SCIE)",
+      "作者群": "H.-C. Cheng*, C.-F. Yu, and W.-H. Chen*"
+    },
+    {
+      "論文名稱": "Process-dependent Thermal-Mechanical Behaviors of an Advanced Thin-Flip-Chip-on-Flex Interconnect Technology with Anisotropic Conductive Adhesive Joints",
+      "期刊名稱": "Computers, Materials & Continua (SCIE)",
+      "作者群": "H.-C. Cheng*, C.-H. Ma1, C.-F. Yu, S.-T. Lu and W.-H. Chen"
+    },
+    {
+      "論文名稱": "Interconnect Reliability Characterization of a High-density 3-D Chip-on-Chip Interconnect Technology",
+      "期刊名稱": "IEEE Transactions on Components, Packaging and Manufacturing (SCIE)",
+      "作者群": "H.-C. Cheng*, Y.-M. Tsai, S.-T. Lu, J.-Y. Juang and W.-H. Chen*"
+    },
+    {
+      "論文名稱": "Thermal-Mechanical and Thermodynamic Properties of Graphene Sheets using a Modified Nosé-Hoover Thermostat",
+      "期刊名稱": "Computers, Materials & Continua (SCIE)",
+      "作者群": "H.-C. Cheng*, C.-F. Yu, K.-L. Chen and W.-H. Chen*"
+    },
+    {
+      "論文名稱": "Heat Dissipation Analysis and Design of a Board-Level Phased-Array Transmitter Module for 60-GHz Communication",
+      "期刊名稱": "Applied Thermal Engineering (SCIE)",
+      "作者群": "H.-C. Cheng*, W.-R. Ciou, W.-H. Chen*, J.-L. Kuo, H.-C. Lu and R.-B. Wu"
+    },
+    {
+      "論文名稱": "First-principles Density Functional Calculation of Mechanical, Thermodynamic and Electronic Properties of CuIn and Cu2In Crystals",
+      "期刊名稱": "Journal of Alloy and Compounds (SCIE)",
+      "作者群": "H.-C. Cheng*, C.-F. Yu, and W.-H. Chen*"
+    },
+    {
+      "論文名稱": "IMC Growth Reaction and Its Effects on Solder Joint Thermal Cycling Reliability of 3D Chip Stacking Packaging",
+      "期刊名稱": "Microelectronics Reliability (SCIE)",
+      "作者群": "W.-H. Chen*, C.-F. Yu, H.-C. Cheng*, Y.-M. Tsai, and S.-T. Lu"
+    },
+    {
+      "論文名稱": "Low-Temperature Thermal Conductivity of Short Single-Walled Carbon Nanotubes Using a Modified Nos?-Hoover Thermostat",
+      "期刊名稱": "Nanoscale and Microscale Thermophysical Engineering (SCIE)",
+      "作者群": "H. C. Cheng, C.-H. Wu and W.-H. Chen*"
+    },
+    {
+      "論文名稱": "Crystal Size and Direction Dependence of the Elastic Properties of Cu3Sn through Molecular Dynamics Simulation and Nanoindentation Testing",
+      "期刊名稱": "Microelectronics Reliability (SCIE)",
+      "作者群": "W.-H. Chen, C.-F. Yu, H. C. Cheng*, S.-T. Lu,"
+    },
+    {
+      "論文名稱": "Effects of Bonding Parameters on the Reliability of Fine-Pitch Cu/Ni/SnAg Micro Bump Chip-to-Chip (C2C) Interconnection for 3D Chip Stacking",
+      "期刊名稱": "IEEE Transactions on Device and Materials Reliability (SCIE)",
+      "作者群": "S.-T. Lu, J.-Y. Juang, H.C. Cheng, Y.-M. Tsai, T.-H. Chen, W.-H. Chen"
+    },
+    {
+      "論文名稱": "On the Thermal Characterization of an RGB LED-based White Light Module",
+      "期刊名稱": "Applied Thermal Engineering (SCIE)",
+      "作者群": "H.C. Cheng, J.Y. Lin, and W.H. Chen"
+    },
+    {
+      "論文名稱": "Thermal Chip Placement in MCMs Using a Novel Hybrid Optimization Algorithm",
+      "期刊名稱": " IEEE Transactions on Components, Packaging and Manufacturin (SCIE)",
+      "作者群": "H.C. Cheng, I-C Chung, and W-H Chen"
+    },
+    {
+      "論文名稱": "Strain- and Strain-Rate-dependent Mechanical Properties and Behaviors of Cu3Sn Compound using Molecular Dynamics Simulation",
+      "期刊名稱": "Journal of Materials Science (SCIE)",
+      "作者群": "H.C. Cheng, C.-F. Yu and W.-H. Chen"
+    },
+    {
+      "論文名稱": "Temperature-dependent Thermodynamic Behaviors of Carbon Fullerene Molecules at Atmospheric Pressure",
+      "期刊名稱": "Journal of Computers, Materials, & Continua (SCIE)",
+      "作者群": "W.-H. Chen, C.-H. Wu, and H.C. Cheng"
+    },
+    {
+      "論文名稱": "A theoretical investigation of thermal effects on vibrational behaviors\nof single-walled carbon nanotubes",
+      "期刊名稱": "Computational Materials Science (SCIE)",
+      "作者群": "W. H. Chen, C. H. Wu, Y. L. Liu, and *H. C. Cheng"
+    },
+    {
+      "論文名稱": "Molecular Dynamics Study of Interfacial Bonding Strength of Self-Assembled Monolayer-Coated Au-Epoxy and Au-Au Systems",
+      "期刊名稱": "Applied Surface Science (SCIE)",
+      "作者群": "H.C. Cheng, Y.-L. Liu, C.-H. Wu, W.H. Chen,"
+    },
+    {
+      "論文名稱": "Modified Nose-Hoover Thermostat for Solid State for Constant Temperature Molecular Dynamics Simulation",
+      "期刊名稱": "Journal of Computational Physics (SCIE)",
+      "作者群": "W.H. Chen,C.H. Wu and H.C. Cheng"
+    },
+    {
+      "論文名稱": "Thermal-mechanical optimization of a novel nanocomposite-film typed flip chip technology",
+      "期刊名稱": "Microelectronics Reliability (SCIE)",
+      "作者群": "H.C. Cheng, K.-Y. Hsieh and K.-M. Chen"
+    },
+    {
+      "論文名稱": "Thermal Placement Optimization of Multichip Modules Using a Sequential Metamodeling-based Optimization Approach",
+      "期刊名稱": "Applied Thermal Engineering (SCIE)",
+      "作者群": "H.C. Cheng, Yang-Howa Tsai, Kun-Nan Chen, Jiunn Fang,"
+    },
+    {
+      "論文名稱": "On radial breathing vibration of carbon nanotubes",
+      "期刊名稱": "Computer Methods in Applied Mechanics and Engineering (SCIE)",
+      "作者群": "H.C. Cheng, Y.L. Liu, C.-H.Wu and W.H. Chen,"
+    },
+    {
+      "論文名稱": "On radial breathing vibration of carbon nanotubes",
+      "期刊名稱": "Computer Methods in Applied Mechanics and Engineering (SCIE)",
+      "作者群": "H. C. Cheng, *Y. L. Liu, C. H. Wu and W. H. Chen"
+    },
+    {
+      "論文名稱": "Development of Three-dimensional Chip Stacking Technology Using a Clamped Through Silicon Via Interconnection",
+      "期刊名稱": "Microelectronics Reliability (SCIE)",
+      "作者群": "L.-C. Shen, C.-W. Chien, H.C. Cheng and C.-T. Lin"
+    },
+    {
+      "論文名稱": "Radial Mechanical Properties of Single-Walled Carbon Nanotubes Using Modified Molecular Structure Mechanics",
+      "期刊名稱": "Computational Materials Science (SCIE)",
+      "作者群": "W.H. Chen, H.C. Cheng, and Y.L. Liu"
+    },
+    {
+      "論文名稱": "Radial Mechanical Properties of Single-Walled Carbon Nanotubes Using Modified Molecular Structure Mechanics",
+      "期刊名稱": "Computational Materials Science (SCIE)",
+      "作者群": "W. H. Chen, H. C. Cheng and *Y. L. Liu"
+    },
+    {
+      "論文名稱": "Thermal-mechanical Process Simulation of an Advanced NCF Technology",
+      "期刊名稱": "IEEE Transactions on Electronics Packaging Manufacturing, (SCIE)",
+      "作者群": "H.C. Cheng, W.Y. Hwang, K. S. Kao, J. Tsang, S. S. Yang, C. C. An, and S. M. Chang"
+    },
+    {
+      "論文名稱": "Response Surface based Thermal Optimization Approach for Chip Placement Design of Multiple-Chip Modules",
+      "期刊名稱": "IEEE Transactions on Components and Packaging Technologies (SCIE)",
+      "作者群": "H.C. Cheng, I-C Chung and W.H. Chen"
+    },
+    {
+      "論文名稱": "The Influence of Structural Defect on Mechanical Properties and Fracture Behaviors of Carbon Nanotubes",
+      "期刊名稱": "Journal of Computers, Materials, & Continua (SCIE)",
+      "作者群": "H.C. Cheng, Y.-C. Hsu, W.-H. Chen"
+    },
+    {
+      "論文名稱": "On the Thermal-mechanical Behaviors of a Novel Nanowire-based Anisotropic Conductive Film Technology",
+      "期刊名稱": " IEEE Transactions on Advanced Packaging (SCIE)",
+      "作者群": "Hsien-Chie Cheng, Wen-Hwa Chen, Chieh-Sheng Lin, Yung-Yu Hsu, and Ruoh-Huey Uang"
+    },
+    {
+      "論文名稱": "Assessing a response surface-based optimization approach for soil vapor extraction system design",
+      "期刊名稱": "Journal of Water Resources Planning and Management (SCIE)",
+      "作者群": "Fen, C.-S., C. Chan, and H.-C. Cheng"
+    },
+    {
+      "論文名稱": "Atomistic-Continuum Modeling for Mechanical Properties of Single-Walled Carbon Nanotubes",
+      "期刊名稱": "International Journal of Solids and Structures (SCIE)",
+      "作者群": "H.C. Cheng, Y.L. Liu, and W.H. Chen"
+    },
+    {
+      "論文名稱": "Atomistic-Continuum Modeling for Mechanical Properties of Single-Walled Carbon Nanotubes",
+      "期刊名稱": "International Journal of Solids and Structures (SCIE)",
+      "作者群": "H. C. Cheng, Y. L. Liu, Y. C. Hsu and *W. H. Chen"
+    },
+    {
+      "論文名稱": "An effective response surface-based optimization approach for soil vapor extraction system design",
+      "期刊名稱": "Civil Engineering and Environmental Systems (SCIE)",
+      "作者群": "CHIU-SHIA FEN, HSIEN-CHIE CHENG and CHEN-CHI KU"
+    },
+    {
+      "論文名稱": "Mechanical Material Characterization of Co Nanowires and Their Nanocomposite",
+      "期刊名稱": "Composite Science and Technology (SCIE)",
+      "作者群": "W.H. Chen, H.C. Cheng, Y.-C. Hsu, R.-H. Uang, J.S. Hsu"
+    },
+    {
+      "論文名稱": "Theoretical and Experimental Characterization of Heat Dissipation in a Board-Level Microelectronic Component,",
+      "期刊名稱": "Applied Thermal Science (SCIE)",
+      "作者群": "H.C. Cheng, W.H. Chen and H.F. Cheng"
+    },
+    {
+      "論文名稱": "Effects of Surface and In-layer van der Waals Interaction on Mechanical Properties for Carbon Nanotubes",
+      "期刊名稱": "Advanced Materials Research (EI)",
+      "作者群": "W.H. Chen, H.C. Cheng, and Y. L. Liu"
+    },
+    {
+      "論文名稱": "Mechanical Properties of Carbon Nanotubes Using Molecular Dynamics Simulations with the Inlayer van der Waals Interactions",
+      "期刊名稱": "Computer Modeling in Engineering and Science (SCIE)",
+      "作者群": "W.H. Chen, H.C. Cheng and Y.C. Hsu"
+    },
+    {
+      "論文名稱": "A Force-Directed Based Optimization Scheme for Thermal Placement Design of MCMs",
+      "期刊名稱": "IEEE Transactions on Advanced Packaging (SCIE)",
+      "作者群": "H.C. Cheng, Y.C. Huang, W.H. Chen"
+    },
+    {
+      "論文名稱": "A Study of Process-induced Deformations of Anisotropic \r\nConductive Film (ACF) Assembly\r\n",
+      "期刊名稱": "IEEE Transactions, Component Packaging and Technologies (SCIE)",
+      "作者群": "H.C. Cheng, C.L. Ho, W.C. Chen and S.S. Yang"
+    },
+    {
+      "論文名稱": "Design and Analysis of Wafer-Level CSP with Double-Pad-Structure",
+      "期刊名稱": "IEEE Transactions on Components and Packaging Technologies (SCIE)",
+      "作者群": "J.C. Lin, H.C. Cheng, K.N. Chiang"
+    },
+    {
+      "論文名稱": "A Web-based Distributed Problem-Solving Environment for\r\nEngineering Applications\r\n",
+      "期刊名稱": "Advanced Sofware in Engineering (SCIE)",
+      "作者群": "HC. Cheng & C.S. Fen"
+    },
+    {
+      "論文名稱": "An Effective Thermal-mechanical Modeling Methodology for Large-scale Area Array Typed Packages",
+      "期刊名稱": "Computer Modeling in Engineering and Sciences (SCIE)",
+      "作者群": "H. C. Cheng, C. Y. Yu and W. H. Chen"
+    },
+    {
+      "論文名稱": "Reliability Analysis and Design for the Fine-pitch Flip Chip BGA Packaging",
+      "期刊名稱": "IEEE Transactions on Components and Packaging Technologies (SCIE)",
+      "作者群": "C.T. Peng, C.M. Liu, J.C. Lin, H.C. Cheng, K.N. Chiang"
+    },
+    {
+      "論文名稱": "On the Thermal Performance Characteristics of 3-D Multichip Modules",
+      "期刊名稱": "ASME Transactions, Journal of Electronic Packaging (SCIE)",
+      "作者群": "W.H. Chen, H.C. Cheng, C.H. Lin"
+    },
+    {
+      "論文名稱": "Integration of Simulation and Response Surface Methods for Thermal Design of Multichip Modules",
+      "期刊名稱": "IEEE Transactions on Components, Packaging and Technology (SCIE)",
+      "作者群": "H.C. Cheng, W.H.Chen and I-C Chung"
+    },
+    {
+      "論文名稱": "Process-dependent Contact Characteristics of NCA Assemblies",
+      "期刊名稱": "IEEE Transactions on Components, Packaging and Technology (SCIE)",
+      "作者群": "H.C. Cheng, C.L. Ho, K.N Chiang and S.M. Chang"
+    },
+    {
+      "論文名稱": "An Effective Methodology for Thermal Characterization of Electronic Packaging",
+      "期刊名稱": "IEEE Transactions on Components, Packaging and Technology (SCIE)",
+      "作者群": "W.H.Chen, H.C. Cheng and H.A. Shen"
+    },
+    {
+      "論文名稱": "Topology Optimization of Elastic Structures for Stability",
+      "期刊名稱": "Journal of Chinese Society of Mechanical Engineers (EI)",
+      "作者群": "H.C. Cheng, K.N. Chiang, and T.Y. Chen"
+    },
+    {
+      "論文名稱": "Solder Joint Reliability of Thermal Enhanced BGA Using a Finite-Volume-Weighted Averaging Technique",
+      "期刊名稱": "Journal of the Chinese Institute of Engineers ()",
+      "作者群": "H.C. Cheng, K.N. Chiang, C. K. Chen, and J.C. Lin,"
+    },
+    {
+      "論文名稱": "A Study of Factors Affecting Solder Joint Fatigue Life of Thermally Enhanced Ball Grid Array Assemblies",
+      "期刊名稱": "Transactions of the Chinese Institute of Engineers, Seires A (SCIE)",
+      "作者群": "H.-C. Cheng, K.-N. Chiang, C.-K. Chen, and J.-C. Lin"
+    }
+  ],
+  "journal2": [],
+  "conference": [
+    {
+      "論文名稱": "Warpage Modeling and Prediction of SiC MOSFET Power Module During Fabrication",
+      "會議名稱": "40th International Electronics Manufacturing Technology Conference (IEMT 2024)",
+      "作者群": "Ming-Yuan Chen, Hsien-Chie Cheng*, Yang-Lun Liu, Yi-Hsin Liao, Kuo-Shu Kao, Tao-Chih Chang"
+    },
+    {
+      "論文名稱": "On the Thermal Performance Analysis of Three-dimensional Chip Stacking Electronic Packaging with Through Silicon Vias",
+      "會議名稱": "ICEP-IAAC 2015",
+      "作者群": "Hsuan-Chi Hu, Hsien-Chie Cheng, Tzu-Chin Huang, Wen-Hwa Chen, Shen-Tsai Wu, and Wei-Chung Lo"
+    },
+    {
+      "論文名稱": "高功率白光LED光學分析與二次光學透鏡設計",
+      "會議名稱": "第九屆海峽兩岸航空太空學術研討會會議議程",
+      "作者群": "鄭仙志*、王聖夫、連韋翔"
+    },
+    {
+      "論文名稱": "Structural, Mechanical and Thermodynamic Properties of AuIn2 Crystal under Pressure: A First-Principles Density Functional Theory Calculation",
+      "會議名稱": " IMPACT2014",
+      "作者群": "Ching-Feng Yu, Hsien-Chie Cheng* and Wen-Hwa Chen*"
+    },
+    {
+      "論文名稱": "Investigation of Bending Characteristics of Foldable Touch Display Panel with a Protection Structure Design",
+      "會議名稱": "IMPACT2014",
+      "作者群": "Hsien-Chie Cheng, Wei-Heng Xu, Wen-Hwa Chen and Pi-Hsien Wang"
+    },
+    {
+      "論文名稱": "混合式數值法模擬黏性不可壓縮流體流經一圓柱體",
+      "會議名稱": "2004航太/民航聯合學術研討會",
+      "作者群": "方俊、夏育群、鄭仙志及廖崇鈞"
+    },
+    {
+      "論文名稱": "BEM Analysis of Anisotropic Heat Conduction With Volume Heat Source",
+      "會議名稱": "第二十五屆中華民國力學學會年會暨全國力學會議",
+      "作者群": "Y. C. Shiah、J. Fang、H. C. Cheng"
+    },
+    {
+      "論文名稱": "A Prototype of a Web-based Distributed Computing and Collaborative Design System",
+      "會議名稱": "The CAFA Conference of Aviation Safety and Management",
+      "作者群": "H.C. Cheng、Yui-chuin Shiah、Jiunn Fang、Kun-Nan Chen"
+    }
+  ],
+  "book": [],
+  "patent": [
+    {
+      "title": "發明",
+      "desc": "Circuit Board and Electronic Device"
+    },
+    {
+      "title": "發明",
+      "desc": "發光二極體散熱結構"
+    },
+    {
+      "title": "發明",
+      "desc": "記憶體電容的電極結構及其製造方法"
+    },
+    {
+      "title": "發明",
+      "desc": "Stacked Capacitor Structure and Manufacturing Method Thereof"
+    },
+    {
+      "title": "發明",
+      "desc": "堆疊式電容器架構及其製造方法"
+    },
+    {
+      "title": "發明",
+      "desc": "Electrode Structure of Memory Capacitor and Manufacturing Method Thereof"
+    },
+    {
+      "title": "發明",
+      "desc": "存儲器電容的電極結構以及存儲器電容結構的製造方法"
+    },
+    {
+      "title": "發明",
+      "desc": "Electrode Structure of Memory Capacitor and Manufacturing Method Thereof"
+    },
+    {
+      "title": "發明",
+      "desc": "Composite bump"
+    },
+    {
+      "title": "發明",
+      "desc": "Composite bump"
+    },
+    {
+      "title": "發明",
+      "desc": "Three-dimensional Multichip Stack Electronic Package Structure"
+    },
+    {
+      "title": "發明",
+      "desc": "超微間距電子構裝凸塊結構"
+    },
+    {
+      "title": "發明",
+      "desc": "晶片封裝體及其可形變之複合凸塊結構(Electronic Packaging and Its Deformable Composite Bump Structure)"
+    },
+    {
+      "title": "發明",
+      "desc": "多晶片堆疊立體電子構裝結構"
+    },
+    {
+      "title": "發明",
+      "desc": "具基板側凸塊結構之電子構裝結構"
+    }
+  ],
+  "most": [
+    {
+      "name": "應用於電動車單相雙向二階二級車載充電系統之高電壓半橋碳化矽功率模組封裝技術之設計、分析與開發(1/3)",
+      "schoolYear": "113"
+    },
+    {
+      "name": "應用於工業伺服馬達變頻驅動之高性能高功率三相橋式碳化矽/矽混合型功率整合模組封裝技術開發、設計、製造、性能評估與多重物理動態分析(2/3)",
+      "schoolYear": "113"
+    },
+    {
+      "name": "三相全橋碳化矽功率模組電性及散熱性能評估",
+      "schoolYear": "113"
+    },
+    {
+      "name": "先進三維覆晶堆疊式整合單/多小晶片異質整合封裝技術製程翹曲分析與深度學習預測(3/3)",
+      "schoolYear": "112"
+    },
+    {
+      "name": "應用於工業伺服馬達變頻驅動之高性能高功率三相橋式碳化矽/矽混合型功率整合模組封裝技術開發、設計、製造、性能評估與多重物理動態分析(1/3)",
+      "schoolYear": "112"
+    },
+    {
+      "name": "碳化矽功率模組電熱性能評估",
+      "schoolYear": "112"
+    },
+    {
+      "name": "先進三維覆晶堆疊式整合單/多小晶片異質整合封裝技術製程翹曲分析與深度學習預測(2/3)",
+      "schoolYear": "111"
+    },
+    {
+      "name": "寬頻隙高頻SiC MOSFET 功率半導體為基三相T型三階逆變器封裝的磁電熱機械耦合行為評估(3/3)",
+      "schoolYear": "111"
+    },
+    {
+      "name": "基板對IGBT功率模組電性行為與功率損耗的影響",
+      "schoolYear": "111"
+    },
+    {
+      "name": "先進三維覆晶堆疊式整合單/多小晶片異質整合封裝技術製程翹曲分析與深度學習預測(1/3)",
+      "schoolYear": "110"
+    },
+    {
+      "name": "寬頻隙高頻SiC MOSFET 功率半導體為基三相T型三階逆變器封裝的磁電熱機械耦合行為評估(2/3)",
+      "schoolYear": "110"
+    },
+    {
+      "name": "IGBT功率模組切換行為與損耗以及熱傳分析",
+      "schoolYear": "110"
+    },
+    {
+      "name": "先進單/多晶片扇出型晶圓層級構裝製程良率關鍵力學因子研究(3/3)",
+      "schoolYear": "109"
+    },
+    {
+      "name": "寬頻隙高頻SiC MOSFET 功率半導體為基三相T型三階逆變器封裝的磁電熱機械耦合行為評估(1/3)",
+      "schoolYear": "109"
+    },
+    {
+      "name": "先進單/多晶片扇出型晶圓層級構裝製程良率關鍵力學因子研究(2/3)",
+      "schoolYear": "108"
+    },
+    {
+      "name": "先進馬達變頻驅動器電力電子封裝元件/模組的 電性、熱傳以及機械耦合分析與設計(3/3)",
+      "schoolYear": "108"
+    },
+    {
+      "name": "先進單/多晶片扇出型晶圓層級構裝製程良率關鍵力學因子研究(1/3)",
+      "schoolYear": "107"
+    },
+    {
+      "name": "先進馬達變頻驅動器電力電子封裝元件/模組的 電性、熱傳以及機械耦合分析與設計(2/3)",
+      "schoolYear": "107"
+    },
+    {
+      "name": "高微凸塊接點可靠度及散熱效能3D IC構裝技術開發(3/3)",
+      "schoolYear": "102"
+    },
+    {
+      "name": "高微凸塊接點可靠度及散熱效能3D IC構裝技術開發(2/3)",
+      "schoolYear": "101"
+    },
+    {
+      "name": "ACF型態超薄覆晶軟膜構裝可靠度、可撓性及吸濕特性分析與設計(2/2)",
+      "schoolYear": "101"
+    },
+    {
+      "name": "高微凸塊接點可靠度及散熱效能3D IC構裝技術開發(1/3)",
+      "schoolYear": "100"
+    },
+    {
+      "name": "ACF型態超薄覆晶軟膜構裝可靠度、可撓性及吸濕特性分析與設計(1/2)",
+      "schoolYear": "100"
+    },
+    {
+      "name": "創新先進之矽通孔型態三維晶片堆疊構裝技術的設計、分析與製造",
+      "schoolYear": "99"
+    },
+    {
+      "name": "以奈米碳管束為凸塊之超細微間距覆晶構裝技術之設計、分析與開發",
+      "schoolYear": "98"
+    },
+    {
+      "name": "下世代先進超細微接腳覆晶構裝技術之設計、分析與製造(3/3)",
+      "schoolYear": "97"
+    }
+  ],
+  "tech": [
+    {
+      "論文名稱": "Molecular Modeling and Simulation of Physical Properties and Behavior of Low-Dimensional Carbon Allotropes (2014-08)",
+      "書名": "Trends in Nanoscale Mechanics (Vasyl Harik )",
+      "作者群": "Wen-Hwa Chen, Hsien-Chie Cheng"
+    },
+    {
+      "論文名稱": "產學合作系列-矽品精密工業股份有限公司  矽統先驅、品質認證－積體電路封裝測試導領者 (2011-08)",
+      "書名": "逢甲大學產學合作案例選粹-黃錦煌主編",
+      "作者群": "黃錦煌,鄭仙志等"
+    }
+  ],
+  "induAca": [
+    "高效率供電模組可靠度AI預測模型 (2024-10 to 2024-11)",
+    "帶級覆晶晶片尺寸封裝製程翹曲分析 (2024-03 to 2024-12)",
+    "SiC功率模組可靠度預測模型 (2023-10 to 2024-08)",
+    "翹曲機器學習預測模型之統合 (2023-03 to 2023-12)",
+    "血糖試劑高速攝影 (2023-01 to 2023-01)",
+    "半橋形式高壓功率模組可靠度預測模式 (2022-09 to 2022-12)",
+    "FCCSP製程翹曲ANN學習模式的建立 (2022-02 to 2022-12)",
+    "先進微電子構裝製程形變深度學習預測 (2021-02 to 2021-09)",
+    "FCCSP製程翹曲預測及不確定分析 (2020-05 to 2020-08)",
+    "FCCSP翹曲研究 (2019-02 to 2019-05)",
+    "HBW構裝製程翹曲研究 (2018-03 to 2018-10)",
+    "可拉伸電子電路金屬導線界面黏著強度分析與結構幾何最佳化設計計畫 (2018-01 to 2018-12)",
+    "可伸縮電子電路金屬導線力學分析與設計 (2017-08 to 2017-12)",
+    "FOWLP構裝製程翹曲研究 (2016-11 to 2017-09)",
+    "卷對卷凹版轉印金屬電極於超薄玻璃基板之製程力學與彎曲疲勞分析 (2015-12 to 2016-12)",
+    "功率模組模擬分析研究專案之熱傳應力模擬分析 (2015-07 to 2015-12)",
+    "卷軸式細導線凹版轉印製程熱機械分析 (2014-12 to 2015-12)",
+    "FPC軟板熱應力機制研究 (2014-11 to 2014-12)",
+    "Glass Interposer 計畫熱機械力學與破裂行為模擬 (2014-04 to 2014-06)",
+    "摺疊式觸控面板的保護機構應力分析 (2014-03 to 2014-12)",
+    "TSV等效熱膨脹係數計算技術開發 (2013-01 to 2013-12)",
+    "功率模組之可靠度分析 (2012-08 to 2012-12)",
+    "先進超薄晶片堆疊技術熱傳及應力有限元素分析技術服務 (2012-03 to 2012-12)",
+    "構裝層級/板層級/系統層級FCBGA元件錫球疲勞壽命分析與關聯性研究 (2008-07 to 2009-06)"
+  ],
+  "perform": [],
+  "reward": [
+    "逢甲大學論文著作獎勵傑出獎 (113, 2024-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優等獎 (113, 2024-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (113, 2024-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (113, 2024-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優等獎 (113, 2024-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (111, 2022-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (111, 2022-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (110, 2021-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (110, 2021-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (110, 2021-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (109, 2020-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (109, 2020-11) - 逢甲大學",
+    "Best Associate Editor Award (107, 2019-05) - IEEE Electronics Packaging Society",
+    "Best Student Paper Award (107, 2018-10) - 2018 International Microsystems, Packaging, Assembly and Circuits Technology (IM",
+    "107年度科技部獎勵特殊優秀人才 (107, 2018-09) - 科技部",
+    "Best Paper Award (107, 2018-09) - IEEE 38th International Electronics Manufacturing Technology Conference",
+    "106年度科技部獎勵特殊優秀人才 (106, 2017-09) - 科技部",
+    "105年度科技部獎勵特殊優秀人才 (105, 2016-09) - 科技部",
+    "104年度科技部獎勵特殊優秀人才 (104, 2015-09) - 科技部",
+    "103年度科技部獎勵特殊優秀人才 (103, 2014-09) - 科技部",
+    "Best Student Paper Award(Gold) (102, 2013-10) - IMPACT2013",
+    "102年度科技部獎勵特殊優秀人才 (102, 2013-09) - 科技部",
+    "101年度科技部獎勵特殊優秀人才 (101, 2012-09) - 科技部",
+    "功在學會獎牌 (100, 2012-03) - IMAPS Taiwan 學會",
+    "Best Student Paper Award (100, 2011-10) - IMPACT2011",
+    "100年度科技部獎勵特殊優秀人才 (100, 2011-09) - 科技部",
+    "ADAMS課程教學滿意度全校前10% (98, 2010-11) - 逢甲大學教務處",
+    "Best Student Paper Award (99, 2010-10) - IMPACT2010",
+    "99年度科技部獎勵特殊優秀人才 (99, 2010-09) - 科技部",
+    "課程學習歷程檔案協作優良教師 (98, 2010-03) - 逢甲大學圖書館",
+    "ProE 課程教學滿意度全校前10% (98, 2010-03) - 逢甲大學教務處",
+    "Best Student Paper Award (98, 2009-10) - IMPACT2009",
+    "95學年度研發成果傑出獎 (95, 2006-11) - 逢甲大學",
+    "94學年度計劃績優獎 (94, 2005-11) - 逢甲大學",
+    "第二十七屆全國力學會議學生論文競賽固力組佳作 (92, 2003-08) - 第二十七屆全國力學會議",
+    "第二十六屆全國力學會議學生論文競賽熱流組第一名 (91, 2002-08) - 全國力學會議",
+    "最佳論文發表獎 (89, 2000-10) - MSC.Software Taiwan Solution Forum 2000",
+    "中華民國力學期刊論文獎第三名 (88, 1999-12) - 中華民國力學學會",
+    "88年度甲等研究獎 (88, 1999-08) - 國科會",
+    "88年度甲等研究獎 (87, 1998-08) - 國科會"
+  ],
+  "speech": [],
+  "material": [],
+  "tal": []
+}

@@ -1,0 +1,459 @@
+{
+  "teacherId": "T97041",
+  "name": "林暘桂",
+  "mainUnit": "工程與科學學院",
+  "detailUnit": "工業工程與系統管理學系",
+  "skill": [
+    "生產排程Scheduling",
+    "最佳化Optimization",
+    "作業研究Operations Research",
+    "系統模擬Simulation",
+    "實驗設計Design of Experiment",
+    "統計Statisitic"
+  ],
+  "edu": [
+    "Arizona State 工業工程 博士"
+  ],
+  "fcuExp": [
+    "工業工程與系統管理學系 助理教授",
+    "工業工程與系統管理學系 副教授",
+    "工業工程與系統管理學系 教授",
+    "工業工程與系統管理學系 教授"
+  ],
+  "currjob": [],
+  "otherExp": [
+    "CSX Transportation Operations Research Analyst"
+  ],
+  "journal": [
+    {
+      "論文名稱": "Developing algorithm and dispatching rules for scheduling a realistic flexible flow shop with setups to minimize total weighted tardiness",
+      "期刊名稱": "The International Journal of Advanced Manufacturing Technology (SCIE)",
+      "作者群": "Feng Yu Hsieh, Yang Kuei Lin and Yi-Chi Wang"
+    },
+    {
+      "論文名稱": "Developing Prediction Model of Travel Times of the Logistics\nFleets of Large Convenience Store Chains Using\nMachine Learning",
+      "期刊名稱": "Algorithms (ESCI)",
+      "作者群": "Yang-Kuei Lin, Chien-Fu Chen*, and Tien-Yin Chou"
+    },
+    {
+      "論文名稱": "Genetic Algorithm for Solving the No-Wait Three-Stage Surgery Scheduling Problem",
+      "期刊名稱": "Healthcare (SCIE)",
+      "作者群": "Yang-Kuei Lin * and Chen-Hao Yen"
+    },
+    {
+      "論文名稱": "Solving Operating Room Scheduling Problem Using Artificial Bee Colony Algorithm",
+      "期刊名稱": "Healthcare (SCIE)",
+      "作者群": "Yang-Kuei Lin* and Min-Yang Li"
+    },
+    {
+      "論文名稱": "Generating bicriteria schedules for correlated parallel machines involving tardy jobs and weighted completion time",
+      "期刊名稱": "Annals of Operations Research (SCIE)",
+      "作者群": "Yang-Kuei Lin*, Tzu-Yueh, Yin"
+    },
+    {
+      "論文名稱": "A hybrid genetic algorithm for operating room scheduling",
+      "期刊名稱": "Health Care Management Science (SCIE)",
+      "作者群": "Yang-Kuei Lin*, Yin-Yi Chou"
+    },
+    {
+      "論文名稱": "Scheduling efficiency on correlated parallel machine scheduling problems",
+      "期刊名稱": "Operational Research (SCIE)",
+      "作者群": "Yang-Kuei Lin*"
+    },
+    {
+      "論文名稱": "Simulation for balancing bike-sharing systems",
+      "期刊名稱": "International Journal of Modeling and Optimization (EI)",
+      "作者群": "Yang-Kuei Lin*、 Francois Liang"
+    },
+    {
+      "論文名稱": "Uniform parallel machine scheduling problems with a truncation sum-of-logarithm-processing-times based learning effect",
+      "期刊名稱": "International Journal of Internet Manufacturing and Services (EI)",
+      "作者群": "Yang-Kuei Lin*, Wei-Hsiang Chuang"
+    },
+    {
+      "論文名稱": "A tabu search algorithm to minimize total weighted tardiness for the job shop scheduling problem",
+      "期刊名稱": "Journal of Industrial and Management Optimization (SCIE)",
+      "作者群": "Yang-Kuei Lin*,Chin Soon Chong"
+    },
+    {
+      "論文名稱": "Fast GA-based project scheduling for computing resources allocation in a cloud manufacturing system",
+      "期刊名稱": "Journal of Intelligent Manufacturing (SCIE)",
+      "作者群": "Yang-Kuei Lin*, Chin Soon Chong"
+    },
+    {
+      "論文名稱": "Bicriteria scheduling problem for unrelated parallel machines with release dates (doi:10.1016/j.cor.2015.04.025)",
+      "期刊名稱": "Computers & Operations Research (SCIE)",
+      "作者群": "Yang-Kuei Lin*, Hao-Chen Lin"
+    },
+    {
+      "論文名稱": "Bicriteria Heuristic for Unrelated Parallel Machine Scheduling Problem",
+      "期刊名稱": "Advanced Materials Research (EI)",
+      "作者群": "Yang-Kuei Lin*, Hao-Chen Lin"
+    },
+    {
+      "論文名稱": "Processing time generation schemes for parallel machine scheduling problems with various correlation structures",
+      "期刊名稱": "Journal of Scheduling (SCIE)",
+      "作者群": "Yang-Kuei Lin*,Michele E. Pfund,John W. Fowler"
+    },
+    {
+      "論文名稱": "Scheduling Identical Jobs on Uniform Parallel Machines Under Position-Based Learning Effects",
+      "期刊名稱": "Arabian Journal for Science and Engineering (SCIE)",
+      "作者群": "Yang-Kuei Lin*"
+    },
+    {
+      "論文名稱": "Unrelated parallel machine scheduling with setup times and ready times",
+      "期刊名稱": "International Journal of Production Research (SCIE)",
+      "作者群": "Yang-Kuei Lin*, Feng-Yu Hsieh"
+    },
+    {
+      "論文名稱": "Fast LP models and algorithms for identical jobs on uniform\r\nparallel machines",
+      "期刊名稱": "Applied Mathematical Modelling (SCIE)",
+      "作者群": "Yang-Kuei Lin*"
+    },
+    {
+      "論文名稱": "Product and process parameters determination for quality and cost",
+      "期刊名稱": "International Journal of Systems Science (SCIE)",
+      "作者群": "Angus Jeang*, Yang-Kuei Lin"
+    },
+    {
+      "論文名稱": "Dynamic models and design of spindle-bearing systems of machine tools: a review",
+      "期刊名稱": "International Journal of Precision Engineering and Manufactu (SCIE)",
+      "作者群": "Chi-Wei Lin ,Yang-Kuei Lin, and Chih-Hsing Chu*"
+    },
+    {
+      "論文名稱": "Ant colony optimization for unrelated parallel machine scheduling",
+      "期刊名稱": "The International Journal of Advanced Manufacturing Technolo (SCIE)",
+      "作者群": "Lin, Chi-Wei; Lin, Yang-Kuei*; Hsieh, Han-Ting"
+    },
+    {
+      "論文名稱": "Dispatching rules for unrelated parallel machine scheduling with release dates",
+      "期刊名稱": "The International Journal of Advanced Manufacturing Technolo (SCIE)",
+      "作者群": "Lin, Yang-Kuei; Lin, Chi-Wei*"
+    },
+    {
+      "論文名稱": "Particle swarm optimization algorithm for unrelated\r\nparallel machine scheduling with release dates",
+      "期刊名稱": "Mathematical Problems in Engineering (SCIE)",
+      "作者群": "Yang-Kuei Lin*"
+    },
+    {
+      "論文名稱": "Multiple-Objective Heuristics for Scheduling Unrelated Parallel Machines",
+      "期刊名稱": "European Journal of Operational Research (SCIE)",
+      "作者群": "Yangkuei Lin, John W. Fowler*, Michele E. Pfund"
+    },
+    {
+      "論文名稱": "Heuristics for minimizing regular performance measures in unrelated parallel machine scheduling problems",
+      "期刊名稱": "Computers & Operations Research (SCIE)",
+      "作者群": "Y.K. Lin, M.E. Pfund and J.W. Fowler*"
+    }
+  ],
+  "journal2": [],
+  "conference": [
+    {
+      "論文名稱": "考慮工件家族不相容限制以最小化加權延遲時間與電力成本之等效並行批量機台排程問題",
+      "會議名稱": "2024中國工業工程學會年會暨學術研討會",
+      "作者群": "劉秉紘*、林暘桂"
+    },
+    {
+      "論文名稱": "手術室考慮可重複使用醫療器材滅菌之排程問題",
+      "會議名稱": "2024中國工業工程學會年會暨學術研討會",
+      "作者群": "林昕韵*、林暘桂"
+    },
+    {
+      "論文名稱": "在有模具限制下等效平行機之排程問題",
+      "會議名稱": "2024第二十屆台灣作業研究學會年會暨國際研討會",
+      "作者群": "呂函湘*、李堉慈、洪紫軒、賀元姮、林暘桂"
+    },
+    {
+      "論文名稱": "考慮機器限制和運送時間之不相關平行機最小化總加權延遲之排程問題",
+      "會議名稱": "2024第二十屆台灣作業研究學會年會暨國際研討會",
+      "作者群": "吳侑縉*、廖奕勳、匡彣、陳維君、陳佳筠、林暘桂"
+    },
+    {
+      "論文名稱": "考慮最大化利潤之外包策略與生產排程",
+      "會議名稱": "2024第二十屆台灣作業研究學會年會暨國際研討會",
+      "作者群": "許姿婷*、林暘桂"
+    },
+    {
+      "論文名稱": "Solving three-stage operating room scheduling problems with uncertain surgery durations",
+      "會議名稱": "33rd European Conference on Operational Research",
+      "作者群": "Yang Kuei Lin"
+    },
+    {
+      "論文名稱": "實施MRP II系統以提升不同部門之間的資訊共享",
+      "會議名稱": "2023中國工業工程學會年會暨學術研討會",
+      "作者群": "張宇昕、林暘桂"
+    },
+    {
+      "論文名稱": "Developing dispatching rules for flexible flowshop scheduling\nproblem",
+      "會議名稱": "27th International Conference on Production Research",
+      "作者群": "Feng Yu Hsieh, Yang Kuei Lin* and Yi Chi Wang"
+    },
+    {
+      "論文名稱": "Development of a Data-Driven Simulation Model for an Assembly-to-Order System",
+      "會議名稱": "Proceedings of the 2022 Winter Simulation Conference",
+      "作者群": "Chin Soon Chong, Chin Sheng Tan, Peng Yu Tan, Guan Leong Tnay and Yang Kuei Lin"
+    },
+    {
+      "論文名稱": "考慮無等待及階段間靈活性之兩階段手術室排程問題",
+      "會議名稱": "2022第十八屆台灣作業研究學會年會暨學術研討會",
+      "作者群": "高新豪、林暘桂"
+    },
+    {
+      "論文名稱": "考慮插單之彈性流程式生產排程問題",
+      "會議名稱": "2022第十八屆台灣作業研究學會年會暨學術研討會",
+      "作者群": "鄭傑仁、林暘桂"
+    },
+    {
+      "論文名稱": "考慮緊急插單的動態彈性流程式生產排程問題",
+      "會議名稱": "2022第十八屆台灣作業研究學會年會暨學術研討會",
+      "作者群": "陳彥霖、林暘桂"
+    },
+    {
+      "論文名稱": "鋼珠製造廠三階段研磨之產能規劃",
+      "會議名稱": "2022第十八屆台灣作業研究學會年會暨學術研討會",
+      "作者群": "林宸禕、林暘桂"
+    },
+    {
+      "論文名稱": "最小化手術室與恢復床總時程之排程問題",
+      "會議名稱": "2020 中國工業工程學會年會暨學術研討會",
+      "作者群": "鄭又維、李御豪、黃宣皓、林暘桂"
+    },
+    {
+      "論文名稱": "Heuristic for Scheduling Correlated Parallel Machine to Minimize Maximum Lateness and Total Weighed Completion Time",
+      "會議名稱": "ICIMSE 2019 : International Conference on Industrial and Manufacturing Systems Engineering",
+      "作者群": "Yang-Kuei Lin"
+    },
+    {
+      "論文名稱": "有資源限制之不相關平行機最小化總時程之排程問題",
+      "會議名稱": "ISQM 2018 54th國際品質管理研討會",
+      "作者群": "劉緣蓮、鄧羽雯、林暘桂"
+    },
+    {
+      "論文名稱": "啟發式演算法求解彈性流程問",
+      "會議名稱": "ISQM 2018 54th國際品質管理研討會",
+      "作者群": "陳茂晟、王緒安、翁智揚、林暘桂"
+    },
+    {
+      "論文名稱": "Solving Operating Room Scheduling Problem by Using Dispatching Rule",
+      "會議名稱": "ICMIE 2018 : 20th International Conference on Mechanical and Industrial Engineering",
+      "作者群": "Yang-Kuei Lin, Yin-Yi Chou"
+    },
+    {
+      "論文名稱": "Bicriteria Heuristic for Correlated Parallel Machine Scheduling Problem",
+      "會議名稱": "RTET 2018：International Conference on Advances in Engineering and Technology",
+      "作者群": "Yang-Kuei, Lin, Tzu-Yueh, Yin"
+    },
+    {
+      "論文名稱": "以遺傳基因演算法求解手術室排程問題",
+      "會議名稱": "第十五屆(2017)產業管理創新研討會",
+      "作者群": "周吟憶*、林暘桂"
+    },
+    {
+      "論文名稱": "平行機在工件具有群組限制與釋放時間之排程問題",
+      "會議名稱": "2016第十二屆台灣作業研究學會年會暨學術研討會(ORSTW 2016)",
+      "作者群": "何孟鐸 林暘桂*"
+    },
+    {
+      "論文名稱": "Variable Neighborhood Search Approaches for Correlated Parallel Machine Scheduling Problems",
+      "會議名稱": "RQD2016-22nd ISSAT International Conference on Reliability and Quality in Design",
+      "作者群": "Yang-Kuei Lin*"
+    },
+    {
+      "論文名稱": "Parallel Machine Scheduling Problems with Machine and job Correlations",
+      "會議名稱": "The 2016 World Congress in Computer Science, Computer Engineering, & Applied Computing: The 22nd International Conference on Parallel and Distributed Processing Techniques and Applications (PDPTA'16)",
+      "作者群": "Yang-Kuei Lin*"
+    },
+    {
+      "論文名稱": "公共自行車之運補改善-以台北市公共自行車為例",
+      "會議名稱": "第十四屆(2016)產業管理創新研討會-精實服務之應用",
+      "作者群": "黃政逸,林暘桂"
+    },
+    {
+      "論文名稱": "單機在工件具有釋放時間和群組限制下求解最小化總加權延遲之排程問題",
+      "會議名稱": "中國工業工程學會103年年會暨學術研討會",
+      "作者群": "林暘桂*、林勁宇、黃政逸"
+    },
+    {
+      "論文名稱": "Bicriteria heuristic for unrelated parallel machine scheduling problem",
+      "會議名稱": "ICMAE國際研討會",
+      "作者群": "林暘桂"
+    },
+    {
+      "論文名稱": "求解不相關平行機考慮工件有釋放時間排程問題",
+      "會議名稱": "中國工業工程學會102年年會暨學術研討會",
+      "作者群": "林暘桂*、郭佩宜"
+    },
+    {
+      "論文名稱": "Unrelated Parallel Machines Scheduling Problem Using an Ant Colony Optimization Approach",
+      "會議名稱": "ICMIE 2012 : International Conference on Manufacturing and Industrial Engineering",
+      "作者群": "Y. K. Lin*, H. T. Hsieh, F. Y. Hsieh"
+    },
+    {
+      "論文名稱": "Scheduling identical jobs on uniform parallel machines to minimize maximum lateness",
+      "會議名稱": "5th Multidisciplinary International Scheduling Conference",
+      "作者群": "Y.K. Lin*, F.Y. Hsieh and G.J. Lin"
+    },
+    {
+      "論文名稱": "Tabu search algorithm for job shop total weighted tardiness problem",
+      "會議名稱": "FAIM2011 Flexible Automation and Intelligent Manufacturing, Taichung , Taiwan",
+      "作者群": "Lin*, Y.K., Liu, M.L., and Chong, C.S."
+    },
+    {
+      "論文名稱": "考慮有中斷點的學習效應下等速率平行機之排程問題",
+      "會議名稱": "2012 第 15 屆科技整合管理研討會",
+      "作者群": "莊惟翔, 林暘桂*"
+    },
+    {
+      "論文名稱": "應用等候線理論協助台中逢甲郵局改善其等候線問題",
+      "會議名稱": "CIIE 2010工業工程與管理年會暨學術研討會",
+      "作者群": "謝逢祐* 林暘桂 陳文進 李世鈞 張紋賓 黃家慶"
+    },
+    {
+      "論文名稱": "考慮學習效應下相同工件在等速率平行機之排程問題",
+      "會議名稱": "CIIE 2010工業工程與管理年會暨學術研討會",
+      "作者群": "謝瀚霆* 林暘桂 莊惟翔 黃榆渙"
+    },
+    {
+      "論文名稱": "Bi-Criteria Heuristic for Scheduling on Unrelated Parallel Machines",
+      "會議名稱": "Proceedings of the 2nd International Conference on Applied Operational Research, ICAOR'10",
+      "作者群": "Y.K. Lin*, J.W. Fowler and M.E. Pfund"
+    },
+    {
+      "論文名稱": "全球天然資源與能源基金績效評估之研究",
+      "會議名稱": "2010 華人經濟圈企業競爭力與經營管理學術研討會",
+      "作者群": "林冠仲*、吳泰熙、林暘桂"
+    },
+    {
+      "論文名稱": "啟發式演算法求解平行機加權延遲工件數最小化之排程問題",
+      "會議名稱": "中國工業工程學會98年度年會暨學術研討會",
+      "作者群": "林暘桂*，謝逢祐，洪榮慈"
+    },
+    {
+      "論文名稱": "Minimize Makespans for Unrelated Parallel Machine Scheduling Peroblrms (EI Indexed)",
+      "會議名稱": "2009 IEEE International Conference on Service Operations, Logistics and Informatics",
+      "作者群": "Y.K. Lin, M.E. Pfund, and J.W. Fowler"
+    }
+  ],
+  "book": [],
+  "patent": [],
+  "most": [
+    {
+      "name": "(國外短期研究)每個作業多訂單的零工式生產排程問題",
+      "schoolYear": "113"
+    },
+    {
+      "name": "考慮不相容工件族具設置時間和釋放時間的平行機串行批量處理之排程問題(I)",
+      "schoolYear": "113"
+    },
+    {
+      "name": "考慮病患偏好的預約排程",
+      "schoolYear": "113"
+    },
+    {
+      "name": "(博士增核)漸進式排程規劃應用於彈性流程式生產系統_以A鋼珠製造廠為例(2/2)",
+      "schoolYear": "112"
+    },
+    {
+      "name": "漸進式排程規劃應用於彈性流程式生產系統_以A鋼珠製造廠為例(2/2)",
+      "schoolYear": "112"
+    },
+    {
+      "name": "漸進式排程規劃應用於彈性流程式生產系統_以A鋼珠製造廠為例(1/2)",
+      "schoolYear": "111"
+    },
+    {
+      "name": "考慮有設置時間之等效平行機總加權延遲時間最小化之排程問題",
+      "schoolYear": "111"
+    },
+    {
+      "name": "漸進式排程規劃應用於彈性流程式生產系統_以A鋼珠製造廠為例",
+      "schoolYear": "110"
+    },
+    {
+      "name": "求解滿足多資源限制之三階段手術室排程問題",
+      "schoolYear": "109"
+    },
+    {
+      "name": "醫院手術室排程問題(II)",
+      "schoolYear": "108"
+    },
+    {
+      "name": "醫院手術室排程問題(I)",
+      "schoolYear": "107"
+    },
+    {
+      "name": "考慮有相關性之平行機排程問題之求解效率",
+      "schoolYear": "106"
+    },
+    {
+      "name": "工件有不確定釋放時間的印刷電路板鑽孔作業排程問題",
+      "schoolYear": "105"
+    },
+    {
+      "name": "印刷電路板鑽孔作業雙目標的排程問題",
+      "schoolYear": "104"
+    },
+    {
+      "name": "不相關平行機考慮釋放日期之排程問題",
+      "schoolYear": "102"
+    },
+    {
+      "name": "考慮以位置為基礎的學習效應應用於相同工件等速率平行機的排程問題",
+      "schoolYear": "100"
+    },
+    {
+      "name": "粒子群演算法求解醫院急診室之排程問題-以台中榮總醫院為例",
+      "schoolYear": "100"
+    },
+    {
+      "name": "相同工件在等速率平行機之排程問題",
+      "schoolYear": "99"
+    },
+    {
+      "name": "網路分析法求解鐵軌維修工作之排程問題(I)",
+      "schoolYear": "98"
+    },
+    {
+      "name": "多目標遺傳基因演算法應用於不相關平行機排程問題",
+      "schoolYear": "97"
+    }
+  ],
+  "tech": [],
+  "induAca": [
+    "「產能規劃」計畫 (2020-08 to 2021-07)",
+    "(諮詢顧問)工業工程管理教育計畫 (2020-02 to 2020-07)",
+    "AGV派車系統模擬諮詢顧問專案計畫 (2019-04 to 2019-08)",
+    "自行車產業高值化下世代先進製造方案技術開發計畫 (2014-08 to 2015-03)",
+    "皮革產業之企業診斷與諮詢顧問輔導計畫(諮詢顧問計畫) (2009-12 to 2011-12)"
+  ],
+  "perform": [],
+  "reward": [
+    "113年度國科會補助大專校院研究獎勵 (113, 2024-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (113, 2024-11) - 逢甲大學",
+    "112年度國科會補助大專校院研究獎勵 (112, 2023-12) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (111, 2022-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (111, 2022-11) - 逢甲大學",
+    "111年度國科會補助大專校院研究獎勵 (111, 2022-10) - 研究發展處",
+    "逢甲大學論文著作獎勵傑出獎 (109, 2020-11) - 逢甲大學",
+    "109年度科技部補助大專校院研究獎勵 (109, 2020-10) - 逢甲大學",
+    "106學年度優良導師 (106, 2018-11) - 學生事務處",
+    "逢甲大學論文著作獎勵優良獎 (107, 2018-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (107, 2018-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (105, 2016-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (105, 2016-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (105, 2016-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (104, 2015-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (104, 2015-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (103, 2014-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (103, 2014-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (102, 2013-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (102, 2013-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (102, 2013-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (102, 2013-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (102, 2013-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (100, 2011-11) - 逢甲大學"
+  ],
+  "speech": [],
+  "material": [],
+  "tal": []
+}

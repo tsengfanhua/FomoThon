@@ -1,0 +1,369 @@
+{
+  "teacherId": "T81044",
+  "name": "陳啟鏘",
+  "mainUnit": "資訊電機學院",
+  "detailUnit": "資訊工程學系",
+  "skill": [
+    "單晶片系統設計與應用SOC Design and Applications",
+    "影像與視訊處理Image and Video Processing",
+    "計算機算術與VLSI設計Computer Arithmetic and VLSI Design"
+  ],
+  "edu": [
+    "美國俄亥俄州立大學 電機工程學系 博士",
+    "美國俄亥俄州立大學 電機工程學系 碩士",
+    "國立成功大學 電機工程學系 學士"
+  ],
+  "fcuExp": [
+    "研究生教務組 組長",
+    "招生組 組長",
+    "資訊工程學系 系主任",
+    "資訊工程學系(所) 副教授",
+    "資訊工程學系 教授",
+    "資訊工程學系 教授",
+    "資訊工程學系 教授",
+    "資訊工程學系 教授",
+    "資訊工程學系 教授",
+    "資訊工程學系 教授",
+    "資訊工程學系 教授",
+    "資訊工程學系 教授",
+    "資訊工程學系 教授"
+  ],
+  "currjob": [],
+  "otherExp": [
+    "台灣國際標準電子公司 產品開發部 設計工程師"
+  ],
+  "journal": [
+    {
+      "論文名稱": "High-order Taylor series approximation for\r\nefficient computation of elementary functions",
+      "期刊名稱": "IET Computers & Digital Techniques (SCIE)",
+      "作者群": "陳啟鏘*"
+    },
+    {
+      "論文名稱": "Efficient computation of very high effective-precision exponential function with additive normalization method",
+      "期刊名稱": "Journal of the Chinese Institute of Engineers (SCIE)",
+      "作者群": "Rui-Lin Chen,Chichyang Chen"
+    },
+    {
+      "論文名稱": "Error analysis of LNS addition/subtraction with direct-computation implementation",
+      "期刊名稱": "IET Journals-Computers and Digital Techniques (SCIE)",
+      "作者群": "Chichyang Chen"
+    },
+    {
+      "論文名稱": "Error analysis of LNS addition/subtraction with direct-computation implementation",
+      "期刊名稱": "IET Journals-Computers and Digital Techniques (SCIE)",
+      "作者群": "Chichyang Chen"
+    },
+    {
+      "論文名稱": "對數數字系統算術與傳統浮點數及定點數算術的比較研究(III)",
+      "期刊名稱": "工程科技通訊 ()",
+      "作者群": "陳啟鏘"
+    },
+    {
+      "論文名稱": "Performance-Improved computation of very large word-length LNS addition/subtraction using signed-digit arithmetic",
+      "期刊名稱": "Journal of Information Science and Engineering (SCIE,EI)",
+      "作者群": "Chichyang Chen and Rui-Lin Chen"
+    },
+    {
+      "論文名稱": "A hardware algorithm for fast logarithmic computation with exponential convergence rate",
+      "期刊名稱": "Journal of the Chinese Institute of Engineers (SCIE)",
+      "作者群": "Chichyang Chen, Rui-Lin Chen, and Ming-Hwa Sheu"
+    },
+    {
+      "論文名稱": "Design of a New Divider/Multiplier Fused Unit for Floating-Point Arithmetic",
+      "期刊名稱": "International Journal of Electrical Engineering ()",
+      "作者群": "Chichyang Chen, Hsin-Lin Yen and Ming-Hwa Sheu"
+    },
+    {
+      "論文名稱": "An efficient VLSI Design for a Residue to Binary Converter for General Balance Moduli (2^n-3 ,2^n+1 ,2^n-1 ,2^n+3)",
+      "期刊名稱": "IEEE Transactions on Circuits and Systems II-Analog and Digi (SCIE)",
+      "作者群": "Ming-Hwa Sheu, Su-Hon Lin, Chichyang Chen, and Shyue-Wen Yang"
+    },
+    {
+      "論文名稱": "Built-in Test with Modified-Booth High-Speed Pipelined Multipliers and Dividers",
+      "期刊名稱": "JOURNAL OF ELECTRONIC TESTING: Theory and Applications (SCIE)",
+      "作者群": "Hao-Yung Lo, Hsiu-Feng Lin, Chichyang Chen, Jenshiuh Liu and Chia-Cheng Liu"
+    },
+    {
+      "論文名稱": "A Fast Additive Normalization Method for Exponential Computation",
+      "期刊名稱": "Proceedings of Euromicro Symposium on Digital Dystem Design (SCIE)",
+      "作者群": "Chichyang Chen, Rui-Lin Chen and Ming-Hwa Sheu"
+    },
+    {
+      "論文名稱": "Electrical Characterization and structure investigation of quad flat non-lead package for RFIC applications",
+      "期刊名稱": "Solid State Electronics ()",
+      "作者群": "Nansen Chen，Kevin Chiang，T.D. Her，Yeong-Lin Lai and Chichyang Chen"
+    },
+    {
+      "論文名稱": "Architectural design of a fast floating-point multiplication-add fused unit using signed-digit addition",
+      "期刊名稱": "IEE Proceedings -Computer and Digital Techniques (SCIE)",
+      "作者群": "Chichyang Chen, L.-A. Chen and C.-J. Cheng"
+    },
+    {
+      "論文名稱": "Content-based hybrid DPCM/classified vector quantization for coding video telephony sequences",
+      "期刊名稱": "Journal of visual communication and image representation (SCIE,EI)",
+      "作者群": "Chichyang Chen and Chiun-Wen Hsu"
+    },
+    {
+      "論文名稱": "Image prediction using face detection and triangulation",
+      "期刊名稱": "Pattern Recognition Letters (SCIE)",
+      "作者群": "Chichyang Chen, Chiun-Wen Hsu and Te-Lung Lin"
+    },
+    {
+      "論文名稱": "Pipelined computation of very large word-length LNS addition/subtraction with polynomial hardware cost",
+      "期刊名稱": "IEEE Transactions on Computers (SCIE)",
+      "作者群": "Chichyang Chen, Rui-Lin Chen and Chih-Huan Yang"
+    },
+    {
+      "論文名稱": "A Simple edge-preserving filter technique for constructing multi-resolution systems of images",
+      "期刊名稱": "Pattern Recognition Letters (SCIE)",
+      "作者群": "Chichyang Chen and C.D. Wang"
+    },
+    {
+      "論文名稱": "A Simple Edge-Preserving Filtering Technique for Constructing Multi-resolution Systems of Images",
+      "期刊名稱": "Pattern Recognition Letters (SCIE,EI)",
+      "作者群": "陳啟鏘"
+    },
+    {
+      "論文名稱": "Design of 40-Digit On-Line Addition Unit in Logarithmic Number System",
+      "期刊名稱": "Journal of Feng Chinese Institute of Electrical Engineering ()",
+      "作者群": "陳啟鏘、卓國雄"
+    },
+    {
+      "論文名稱": "Design of 32-Digit On-Line Exponential and Logarithmic Computational Units",
+      "期刊名稱": "Journal of Feng Chia University ()",
+      "作者群": "陳啟鏘、卓國雄、蔣序平"
+    }
+  ],
+  "journal2": [],
+  "conference": [
+    {
+      "論文名稱": "利用語義分割與立體視覺重建三維場景",
+      "會議名稱": "第二十屆離島資訊技術與應用研討會",
+      "作者群": "郭哲瑋 徐崇涵 陳啟鏘"
+    },
+    {
+      "論文名稱": "利用雙眼視覺進行三維物體重建",
+      "會議名稱": "2021 第十九屆離島資訊技術與應用研討會, 2021-05.",
+      "作者群": "M.-T. Liao* and C.-C. Chen"
+    },
+    {
+      "論文名稱": "改良CANNY演算法實做準確的KINECT深度影像邊緣偵測",
+      "會議名稱": "數位生活科技研討會",
+      "作者群": "王以碩、黃偉豪、林恩宇、陳啟鏘"
+    },
+    {
+      "論文名稱": "使用圖形處理單元加速立體視覺",
+      "會議名稱": "第十三屆離島資訊技術與應用研討會",
+      "作者群": "許仕明*、劉環瑀、陳啟鏘"
+    },
+    {
+      "論文名稱": "使用客製化指令在系統上實現快速的嵌入式人臉偵測",
+      "會議名稱": "第十二屆離島資訊技術與應用研討會",
+      "作者群": "陳威宇，陳啟鏘*"
+    },
+    {
+      "論文名稱": "Software Implementation of LNS Arithmetic in an ARM Embedded System",
+      "會議名稱": "Proceedings of the 13th IEEE International Symposium on Consumer Electronics",
+      "作者群": "1.\tChichyang Chen, Li-Wei Liu, and Jun-Wen Jou"
+    },
+    {
+      "論文名稱": "Application-Specific Instruction Design for LNS Addition/Subtraction Computation on an SOPC System",
+      "會議名稱": "Proceeding of the International conference of Electrical Engineering/Electronics, Computer, Telecommunications and Information Technology",
+      "作者群": "2.\tChichyang Chen and Tsung Che Tsai"
+    },
+    {
+      "論文名稱": "Design of an Automatic Instruction Selection Algorithm for Enhancing Arithmetic Performance",
+      "會議名稱": "IEEE Symposium on Low-Power and High-Speed Chips, CoolChip XI",
+      "作者群": "Yung Ching Yang and Chichyang Chen"
+    },
+    {
+      "論文名稱": "Altera SOPC系統處理器傳輸方法的研究與其應用",
+      "會議名稱": "2007年系統雛型與電路設計創新應用研討會",
+      "作者群": "盧麗娟、陳啟鏘"
+    },
+    {
+      "論文名稱": "A comparative study of LNS and floating- point arithmetic",
+      "會議名稱": "18th VLSI Design/CAD Symposium",
+      "作者群": "Chih-Yen Fan and Chi-Chyang Chen"
+    },
+    {
+      "論文名稱": "Design of a versatile cost-effective hybird floating-point/LNS arithmetic processor",
+      "會議名稱": "ACM Great Lakes Symposium on VLSI(GLSVLSI)",
+      "作者群": "Chichyang Chen and Paul Chow"
+    },
+    {
+      "論文名稱": "Error analysis of large word-length LNS addition/substraction computation",
+      "會議名稱": "the International MultiConference of Engineers and Computer Scientists",
+      "作者群": "Chichyang Chen"
+    },
+    {
+      "論文名稱": "Implementation of speech recognotion with floating-point and LNS arithmetic in an SOPC system",
+      "會議名稱": "the 16th VLSI Design/CAD Symposium",
+      "作者群": "Heng-Sheng Shen and Chichyang Chen"
+    },
+    {
+      "論文名稱": "An efficient exponential algorithm with exponential convergence rate",
+      "會議名稱": "Euromicro Symposium on Digital System Design",
+      "作者群": "Chichyang Chen and Kuo-Shen Cheng"
+    },
+    {
+      "論文名稱": "A fast additive normalization method for exponential computation",
+      "會議名稱": "Euromicro Symposium on Digital System Design",
+      "作者群": "Chichyang Chen, Rui-Lin Chen and Ming-Hwa Sheu"
+    },
+    {
+      "論文名稱": "Performance-improved computation of very large word-length LNS addition/subtraction using signed-digit arithmetic",
+      "會議名稱": "IEEE International Conference on Application-Specific Systems, Architectures, and Processors",
+      "作者群": "Chichyang Chen and Rui-Lin Chen"
+    },
+    {
+      "論文名稱": "Architectural design of a fast floating-point multiplication-add fused unit using signed-digit addition",
+      "會議名稱": "the Euromicro Symposium on Digital Systems Design",
+      "作者群": "Chichyang Chen, Liang-An Chen and Jih-Ren Cheng"
+    },
+    {
+      "論文名稱": "Electrical characterization of quad flat non-lead package for RFIC applications",
+      "會議名稱": "the International Semiconductor Device Research Symposiu",
+      "作者群": "Nansen Chen, Kevin Chiang, T. D. Her, Teong-Lin Lai, and Chichyang Chen"
+    },
+    {
+      "論文名稱": "Design of a fast signed-digit divider for floating-point arithmetic",
+      "會議名稱": "the 12th VLSI Design/CAD Symposium",
+      "作者群": "Yung-Ling Chen and Chichyang Chen"
+    },
+    {
+      "論文名稱": "Pipelined Computation of LNS Addition/Subtraction with Very Small Lookup Tables",
+      "會議名稱": "Proceedings of IEEE International Conference on Computer Design",
+      "作者群": "ChiChyang Chen"
+    }
+  ],
+  "book": [],
+  "patent": [],
+  "most": [
+    {
+      "name": "Happy As a Clam: 智慧文蛤養殖",
+      "schoolYear": "108"
+    },
+    {
+      "name": "使用高階泰勒級數近似法從事高效率對數數字系統算術加減法的計算",
+      "schoolYear": "105"
+    },
+    {
+      "name": "使用泰勒級數逼近法應用於高效率多種基本函數計算之創新性硬體架構",
+      "schoolYear": "102"
+    },
+    {
+      "name": "高效率浮點數與對數數字系統算術計算之客製化指令集的設計",
+      "schoolYear": "101"
+    },
+    {
+      "name": "嵌入式高精密度複雜函數計算之客製化指令的設計",
+      "schoolYear": "99"
+    },
+    {
+      "name": "系統效率最佳化之自動算術指令選擇方法的設計及其應用（Ⅱ）",
+      "schoolYear": "97"
+    },
+    {
+      "name": "系統效率最佳化之自動算術指令選擇方法的設計及其應用",
+      "schoolYear": "96"
+    },
+    {
+      "name": "一個多功能與高成本效率之六十四位元浮點數與對數數字系統混合算術處理器的設計與實現",
+      "schoolYear": "95"
+    },
+    {
+      "name": "動態可重組式計算之對數數字系統算術單元的設計—以自動語音辨認為應用實例",
+      "schoolYear": "94"
+    },
+    {
+      "name": "對數數字系統算術與傳統浮點數及定點數算術的比較研究(III)",
+      "schoolYear": "93"
+    },
+    {
+      "name": "對數數字系統與傳統浮點數及定點數算術的比較研究(II)",
+      "schoolYear": "92"
+    },
+    {
+      "name": "對數數字系統算術與傳統浮點數及定點數算數的比較研究(Ⅰ)",
+      "schoolYear": "91"
+    },
+    {
+      "name": "使用帶號位元數字系統加法設計快速浮點數乘加混合單元",
+      "schoolYear": "90"
+    },
+    {
+      "name": "利用一種新的陣列乘法器設計浮點數乘除法混合運算之算術單元",
+      "schoolYear": "89"
+    },
+    {
+      "name": "高精密度與管線式之極小查表對數數字系統加減法單元之IC設計與實作",
+      "schoolYear": "88"
+    },
+    {
+      "name": "使用FPGA從事管線式與小查表之對數數字系統加減法單元之硬體設計與實現",
+      "schoolYear": "87"
+    },
+    {
+      "name": "使用影像三角化及影像扭曲之超低位元率視訊編碼",
+      "schoolYear": "86"
+    },
+    {
+      "name": "離散餘旋轉換演算法在浮點數及對數數字系統的誤差分析",
+      "schoolYear": "86"
+    },
+    {
+      "name": "影像處理實驗用之pc介面卡的設計與製作(大專生暑期)",
+      "schoolYear": "86"
+    },
+    {
+      "name": "連續影像中臉面特徵的自動追蹤",
+      "schoolYear": "85"
+    },
+    {
+      "name": "彩色影像中的臉面偵測",
+      "schoolYear": "84"
+    },
+    {
+      "name": "序向運算(On-Line)對數數字系統處理器的設計",
+      "schoolYear": "83"
+    },
+    {
+      "name": "序向運算對數數字系統處理器的設計",
+      "schoolYear": "82"
+    },
+    {
+      "name": "使用數學形態學識別重疊之物體",
+      "schoolYear": "81"
+    }
+  ],
+  "tech": [],
+  "induAca": [
+    "大尺寸立式偏光板貼附工作站研發計畫 (2009-11 to 2011-05)",
+    "97年度「資通安全學程推廣計畫」 (2008-09 to 2009-08)",
+    "前瞻晶片系統(soC)學程計畫－系統晶片 (2008-03 to 2009-02)",
+    "資通安全學程推廣計畫_資通安全學程 (2007-09 to 2008-08)",
+    "前瞻晶片系統設計（SoC）學程計畫-系統晶片 (2007-03 to 2008-02)",
+    "資通安全學程推廣計畫-資通安全學程 (2006-09 to 2006-08)",
+    "逢甲大學95年度e三五教學卓越計畫 (2006-08 to 2007-07)",
+    "超大型積體電路與系統設計教育改進計畫─課程推廣計畫：「FPGA系統設計」課程 (2003-03 to 2003-12)",
+    "具高速算術運算能力之微控制器的設計 (2001-08 to 2002-07)"
+  ],
+  "perform": [],
+  "reward": [
+    "逢甲大學論文著作獎勵優良獎 (105, 2016-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (101, 2012-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (99, 2010-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵 (97, 2008-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (97, 2008-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (95, 2006-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (94, 2005-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (92, 2003-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (91, 2002-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (91, 2002-11) - 逢甲大學",
+    "國科會甲種獎勵 (89, 2000-08) - 行政院國科會"
+  ],
+  "speech": [],
+  "material": [],
+  "tal": []
+}

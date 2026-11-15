@@ -1,0 +1,84 @@
+{
+  "teacherId": "T10275",
+  "name": "黃清輝",
+  "mainUnit": "資訊電機學院",
+  "detailUnit": "自動控制工程學系",
+  "skill": [
+    "人工智慧輔助外形參數化設計Design parametric identification research",
+    "無人載具最適化導航路徑研究Optimal navigation path planning research",
+    "智慧型控制及精密量測研究Intelligent control and precision measurement",
+    "數位化智能控制及機電整合測試Electromechanical integration testing"
+  ],
+  "edu": [
+    "國立中興大學 電機工程學系 博士",
+    "國立中興大學 電機工程學系 碩士",
+    "中正理工學院 機械工程學系 學士"
+  ],
+  "fcuExp": [
+    "逢甲大學帆宣智慧城市5G實驗室 研究員",
+    "電子工程學系 兼任助理教授",
+    "電子工程學系 兼任助理教授",
+    "自動控制工程學系 助理教授"
+  ],
+  "currjob": [],
+  "otherExp": [
+    "國家中山科學研究院 航空所 工程師",
+    "中科院 航空所氣動組 組長",
+    "東海大學 電機工程學系 助理教授",
+    "明道大學 光電暨能源工程學系 助理教授",
+    "中科院 航空所氣動組 工程師"
+  ],
+  "journal": [],
+  "journal2": [],
+  "conference": [
+    {
+      "論文名稱": "Development of Aero AI for initial flight shape design of small fixed-wing UAV",
+      "會議名稱": "2024 IEEE 4th International Conference on Electronic Communications,Internet of Things and Big Data",
+      "作者群": "Yu-Lin Ye, Shih-Ting Tseng, Ching-Huei Huang*, Kun-Lin Tsai"
+    },
+    {
+      "論文名稱": "Real-time image identification for vehicle positioning system",
+      "會議名稱": "2024 IEEE 4th International Conference on Electronic Communications,Internet of Things and Big Data",
+      "作者群": "Chun-Yu Liu, Ching-Huei Huang, Rong-Terng Juang"
+    },
+    {
+      "論文名稱": "Intelligent Eye Tracking Control Combined with the Needs of Patients with Inconvenience",
+      "會議名稱": "2024 International Symposia on Striving for Excellence in Higher Education",
+      "作者群": "Zhang-Fu, Sheng、Chun-Yu, Liu、Ching-Huei, Huang*"
+    },
+    {
+      "論文名稱": "創新操控介面運用於固定翼型無人飛機之模擬驗證",
+      "會議名稱": "2023中華民國航太學會學術研討會",
+      "作者群": "高嘉鴻、葉育麟、劉峻瑀、黃清輝"
+    }
+  ],
+  "book": [],
+  "patent": [],
+  "most": [
+    {
+      "name": "運用圖像拼接及影像辨識於無衛星導航(GPS)之車輛定位技術開發",
+      "schoolYear": "113"
+    },
+    {
+      "name": "具新6G無線光傳輸之智慧型無人飛行載具異質系統平台之建置－具新6G無線光傳輸之智慧型無人飛行載具異質系統平台之建置(1/2)",
+      "schoolYear": "112"
+    },
+    {
+      "name": "人工智慧數值分析運用於前瞻無人飛行載具外形設計及體感飛行驗證技術研究",
+      "schoolYear": "112"
+    }
+  ],
+  "tech": [],
+  "induAca": [],
+  "perform": [],
+  "reward": [],
+  "speech": [
+    {
+      "演講題目": "MATLAB背後的斜槓人生",
+      "邀請單位": "MATLAB 教學社群",
+      "演講日期": "2023-10"
+    }
+  ],
+  "material": [],
+  "tal": []
+}

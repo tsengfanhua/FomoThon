@@ -1,0 +1,710 @@
+{
+  "success": true,
+  "info": {
+    "yms_year": 114.0,
+    "yms_smester": 1.0,
+    "sub_id": "18901",
+    "cls_id": "CE06310",
+    "scr_dup": "001",
+    "sub_id3": "INEN6089",
+    "cls_name": "工業碩一",
+    "cls_ename": "Master's Program, Department of Industrial Engineering and Systems Management",
+    "sub_name": "決策支援系統與企業智慧專題",
+    "sub_ename": "SPECIAL TOPICS ON DECISION SUPPORT SYSTEMS AND BUSINESS INTELLIGENCE",
+    "scr_mso": "選修",
+    "scr_mso_en": "Elective",
+    "scr_credit": 3.0,
+    "scr_periodly": "(三)06-08",
+    "scr_periodly_eng": "(Wed)06-08",
+    "lang_name": "中文                                                      ",
+    "lang_ename": "Chinese",
+    "scr_room": "工316(電腦實習室)",
+    "scr_room_eng": "EGB316",
+    "scr_teacher": "莊文傑",
+    "scr_teacher_eng": "Wen-Chieh Chuang",
+    "scr_selcode": "1318",
+    "scr_elearning": "全學期",
+    "scr_elearning_en": "Full semester",
+    "scr_hours": "3",
+    "scr_english": "N",
+    "unt_name": null,
+    "unt_ename": null,
+    "link_traminal": null,
+    "link_traminal_en": null,
+    "scr_ldl": "D",
+    "course_mk": "N",
+    "teams_mk": "N",
+    "sub_title": null,
+    "sub_title_en": null,
+    "sub_describe": null,
+    "sub_describe_en": null,
+    "hasDescription": null,
+    "hasInstructor": null,
+    "hasTA": null,
+    "hasTextBooks": null,
+    "hasReadings": null,
+    "hasiSoftwares": null,
+    "hasAssistSoftwares": null,
+    "hasObjective": null,
+    "hasWeeklyScds": null,
+    "hasGradeRules": null,
+    "hasGradeRuleDescribe": null,
+    "hasIntegrity": null,
+    "hasCoursePol": null,
+    "hasCourseRem": null,
+    "hasObjectiveReleation": null,
+    "hasTopicSdgs": null,
+    "hasSubTitleDesc": null
+  },
+  "subTitleDesc": null,
+  "description": {
+    "sub_id3": null,
+    "sub_name": "決策支援系統與企業智慧專題",
+    "sub_ename": "SPECIAL TOPICS ON DECISION SUPPORT SYSTEMS AND BUSINESS INTELLIGENCE",
+    "describe_ch": "本課程將介紹各種決策支援系統與企業智慧工具如Excel Solver、Power BI與Weka等的使用，讓學生以實務案例建構各種相關應用。",
+    "describe_eh": "This course will introduce the utilization of various decision support systems and business intelligence tools such as Excel Solver, Power BI, and Weka. Students will construct various relevant applications through practical case studies.",
+    "pre_subname": "",
+    "pre_sub_id3": null,
+    "pre_sub_ename": "",
+    "pre_describe": null,
+    "pre_describe_en": null,
+    "scr_credit": 3.0
+  },
+  "targets": [
+    {
+      "seq": 1,
+      "describe_ch": "能用自己的詞彙定義何謂決策支援系統與企業智慧",
+      "describe_en": "A.\tEnabling students to articulate their own interpretations of decision support systems and business intelligence."
+    },
+    {
+      "seq": 2,
+      "describe_ch": "能夠選擇、應用適當的決策支援工具解決實務問題並有效解釋結果。",
+      "describe_en": "B.\tEnabling students to select, apply appropriate decision support tools to solve practical problems, and effectively interpret the results."
+    },
+    {
+      "seq": 3,
+      "describe_ch": "能以書面或口頭方式將所學與同儕及教師溝通、說明提呈結果",
+      "describe_en": "C.\tEmpowering students to communicate, explain, and present their learning outcomes to peers and instructors in written or oral form."
+    }
+  ],
+  "teachersInfo": [
+    {
+      "cname": "莊文傑",
+      "ename": "Wen-Chieh Chuang",
+      "period": "(Mon)07-08 工308-2,(Tue)07-08 工308-2",
+      "roletype": 0,
+      "email": "wcchuang@o365.fcu.edu.tw",
+      "ext": "3631"
+    }
+  ],
+  "textBooks": {
+    "yms_year": 114.0,
+    "yms_smester": 1.0,
+    "cls_id": "CE06310",
+    "sub_id": "18901",
+    "scr_dup": "001",
+    "tpb_seq": 1,
+    "tpb_book": "<div>自編教材自編教材自編教材</div>\n\n<div>&nbsp;</div>\n",
+    "tpb_book_en": " "
+  },
+  "readings": {
+    "yms_year": 114.0,
+    "yms_smester": 1.0,
+    "cls_id": "CE06310",
+    "sub_id": "18901",
+    "scr_dup": "001",
+    "tpc_seq": 1,
+    "tpc_book": "<div>ChatGPT</div>\n\n<div>Power BI 商業智慧分析</div>\n\n<div>資料科學X機器學習</div>\n\n<div>&nbsp;</div>\n\n<div>&nbsp;</div>\n\n<div>&nbsp;</div>\n\n<div>&nbsp;</div>\n\n<div>&nbsp;</div>\n\n<div>&nbsp;</div>\n\n<div>&nbsp;</div>\n",
+    "tpc_book_en": null
+  },
+  "iSoftwares": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CE06310",
+      "sub_id": "18901",
+      "scr_dup": "001",
+      "seq_no": 1,
+      "soft_kind": "2",
+      "soft_name": "MS Excel",
+      "soft_memo": " ",
+      "soft_name_en": null,
+      "soft_memo_en": null
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CE06310",
+      "sub_id": "18901",
+      "scr_dup": "001",
+      "seq_no": 2,
+      "soft_kind": "2",
+      "soft_name": "Weka",
+      "soft_memo": " ",
+      "soft_name_en": null,
+      "soft_memo_en": null
+    }
+  ],
+  "assistSoftwares": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CE06310",
+      "sub_id": "18901",
+      "scr_dup": "001",
+      "seq_no": 3,
+      "soft_kind": "3",
+      "soft_name": "Power BI",
+      "soft_memo": " ",
+      "soft_name_en": null,
+      "soft_memo_en": null
+    }
+  ],
+  "weeklyScds": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CE06310",
+      "sub_id": "18901",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "1-7",
+      "tpd_reading": "<div>Build your own Decision Support Systems&nbsp;</div>\n",
+      "tpd_reading_en": " ",
+      "tpd_learn": " ",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CE06310",
+      "sub_id": "18901",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "8",
+      "tpd_reading": "<div>Mid-term Exam</div>\n",
+      "tpd_reading_en": " ",
+      "tpd_learn": " ",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CE06310",
+      "sub_id": "18901",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "9~17",
+      "tpd_reading": "<div>Use AI Tools to build DSS&nbsp;</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": " ",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CE06310",
+      "sub_id": "18901",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "18",
+      "tpd_reading": "<div>Final Exam</div>\n",
+      "tpd_reading_en": " ",
+      "tpd_learn": " ",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CE06310",
+      "sub_id": "18901",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": null,
+      "tpd_reading": " ",
+      "tpd_reading_en": null,
+      "tpd_learn": " ",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CE06310",
+      "sub_id": "18901",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": null,
+      "tpd_reading": " ",
+      "tpd_reading_en": null,
+      "tpd_learn": " ",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CE06310",
+      "sub_id": "18901",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": null,
+      "tpd_reading": " ",
+      "tpd_reading_en": null,
+      "tpd_learn": " ",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    }
+  ],
+  "gradeRules": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CE06310",
+      "sub_id": "18901",
+      "scr_dup": "001",
+      "evalb_id": "D4",
+      "score_rate": 40,
+      "evalb_memo": "期中考前學習成效",
+      "evalb_memo_en": null,
+      "evalb_name": "作業",
+      "evalb_name_en": "Homework",
+      "seq": 1
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CE06310",
+      "sub_id": "18901",
+      "scr_dup": "001",
+      "evalb_id": "D1",
+      "score_rate": 0,
+      "evalb_memo": "期中考週舉行補分上機考 (只有平時表現不如預期的同學需參加)",
+      "evalb_memo_en": null,
+      "evalb_name": "期中考",
+      "evalb_name_en": "Midterm examination",
+      "seq": 2
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CE06310",
+      "sub_id": "18901",
+      "scr_dup": "001",
+      "evalb_id": "I1",
+      "score_rate": 40,
+      "evalb_memo": "期中考後學習成效",
+      "evalb_memo_en": null,
+      "evalb_name": "上機操作",
+      "evalb_name_en": "Equipment operation",
+      "seq": 3
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CE06310",
+      "sub_id": "18901",
+      "scr_dup": "001",
+      "evalb_id": "G1",
+      "score_rate": 20,
+      "evalb_memo": "期末自我評量",
+      "evalb_memo_en": null,
+      "evalb_name": "學習歷程檔案「個人/小組」紀錄",
+      "evalb_name_en": "Learning process file record (individual/group)",
+      "seq": 4
+    }
+  ],
+  "gradeRuleDescribe": {
+    "yms_year": 114.0,
+    "yms_smester": 1.0,
+    "cls_id": "CE06310",
+    "sub_id": "18901",
+    "scr_dup": "001",
+    "tpa_score_new": "<div>1. 基本上呢，我們有約10~12個作業(也許更多)在課堂上完成。如果做不完帶回家做也沒關係。重點不是交作業，重點是要學會自己做。所謂&quot;學會自己做&quot;的意思就是之後遇到類似的東西，您可以獨力做的出來。老師會用各種手段確認您有學會自己做這些作業。 2. 有40%期中考前學習成效(期中考前作業繳交速度、品質、是否自己完成、是否可以教會別人完成、是否可以講解給別人聽)。就是說期中考前會結算一次作業成效。期中考前的作業在結算後補交就不會影響成績了。成績太差或老師不確定您的狀況者會被老師請來在期中考週舉行補分上機考 (只有平時表現不如預期的同學需參加，老師在考前一週會公布需應考名單)。參加考試表現良好者最高可將期中考前學習成效分數補至80分。 3. 40%期中考後的學習成效會在期末前再結算一次 4. 最後一週會有一個佔比20%的期末自我評量 (自己幫自己的學習成果打分數。自評結果與老師記錄差異太大者，還是有可能會被老師要求上機考期末考證明學習成果)</div>\n\n<div>&nbsp;</div>\n",
+    "tpa_score_new_en": " ",
+    "course_pol": "多元化和包容性\n所有課程活動都將在同學之間的友好參與和互動氛圍中進行，彼此間尊重和欣賞每位同學的個人經歷、背景和觀點，如國內外各學制、多元入學及學習文化、性別等。希望您始終在本課程中應用最高的學術標準，並以有尊嚴和尊重的態度對待同學。\n課堂行為\n課堂上的行為始終應要及時、要專業、要做好準備、要有禮貌。同學、教師或其他講師間，應保有彼此尊嚴和相互尊重，才能進行有效的學習。為了確保有利於學習環境，冀望每個人都能做到以下幾點，彼此遵守課堂行為規則，習慣禮貌的文化。\n學生應準時出席上課。如果您有某種原因必須提早下課，請提前告知我。\n所有學生在課堂上都應尊重每個人，並且在任何時候都應以合理、負責和禮貌的態度行事。\n課堂作業請自己做，但是老師要鼓勵大家互相學習，不懂的可以問別人，已經找到方法的同學可以教其他同學。嫌教室電腦太難用的可以使用自己的筆記型電腦或平板等載具。",
+    "course_pol_en": null,
+    "course_rem": null,
+    "course_rem_en": null,
+    "ais_meno": "<div>作業自己做</div>\n\n<div>凡是學生曲解自己的學習任務、或損害學術任務之不端正行為，包括在作業或考試中作弊、剽竊、串改；或將他人完成的作品作為自己的作品；或未經教師批准和同意，提交相同或相似的論文、報告，以滿足多門課程的要求；凡被認定有學術不端行為的學生，其學業成績將扣分，若第二次勸說不聽者，該學期成績以不及格計算，並依本校學生獎懲辦法提報處分。</div>\n",
+    "ais_meno_en": null,
+    "ilearn_mk": "N"
+  },
+  "integrity": {
+    "yms_year": 114.0,
+    "yms_smester": 1.0,
+    "cls_id": "CE06310",
+    "sub_id": "18901",
+    "scr_dup": "001",
+    "tpa_score_new": "<div>1. 基本上呢，我們有約10~12個作業(也許更多)在課堂上完成。如果做不完帶回家做也沒關係。重點不是交作業，重點是要學會自己做。所謂&quot;學會自己做&quot;的意思就是之後遇到類似的東西，您可以獨力做的出來。老師會用各種手段確認您有學會自己做這些作業。 2. 有40%期中考前學習成效(期中考前作業繳交速度、品質、是否自己完成、是否可以教會別人完成、是否可以講解給別人聽)。就是說期中考前會結算一次作業成效。期中考前的作業在結算後補交就不會影響成績了。成績太差或老師不確定您的狀況者會被老師請來在期中考週舉行補分上機考 (只有平時表現不如預期的同學需參加，老師在考前一週會公布需應考名單)。參加考試表現良好者最高可將期中考前學習成效分數補至80分。 3. 40%期中考後的學習成效會在期末前再結算一次 4. 最後一週會有一個佔比20%的期末自我評量 (自己幫自己的學習成果打分數。自評結果與老師記錄差異太大者，還是有可能會被老師要求上機考期末考證明學習成果)</div>\n\n<div>&nbsp;</div>\n",
+    "tpa_score_new_en": " ",
+    "course_pol": "多元化和包容性\n所有課程活動都將在同學之間的友好參與和互動氛圍中進行，彼此間尊重和欣賞每位同學的個人經歷、背景和觀點，如國內外各學制、多元入學及學習文化、性別等。希望您始終在本課程中應用最高的學術標準，並以有尊嚴和尊重的態度對待同學。\n課堂行為\n課堂上的行為始終應要及時、要專業、要做好準備、要有禮貌。同學、教師或其他講師間，應保有彼此尊嚴和相互尊重，才能進行有效的學習。為了確保有利於學習環境，冀望每個人都能做到以下幾點，彼此遵守課堂行為規則，習慣禮貌的文化。\n學生應準時出席上課。如果您有某種原因必須提早下課，請提前告知我。\n所有學生在課堂上都應尊重每個人，並且在任何時候都應以合理、負責和禮貌的態度行事。\n課堂作業請自己做，但是老師要鼓勵大家互相學習，不懂的可以問別人，已經找到方法的同學可以教其他同學。嫌教室電腦太難用的可以使用自己的筆記型電腦或平板等載具。",
+    "course_pol_en": null,
+    "course_rem": null,
+    "course_rem_en": null,
+    "ais_meno": "<div>作業自己做</div>\n\n<div>凡是學生曲解自己的學習任務、或損害學術任務之不端正行為，包括在作業或考試中作弊、剽竊、串改；或將他人完成的作品作為自己的作品；或未經教師批准和同意，提交相同或相似的論文、報告，以滿足多門課程的要求；凡被認定有學術不端行為的學生，其學業成績將扣分，若第二次勸說不聽者，該學期成績以不及格計算，並依本校學生獎懲辦法提報處分。</div>\n",
+    "ais_meno_en": null,
+    "ilearn_mk": "N"
+  },
+  "policy": {
+    "yms_year": 114.0,
+    "yms_smester": 1.0,
+    "cls_id": "CE06310",
+    "sub_id": "18901",
+    "scr_dup": "001",
+    "tpa_score_new": "<div>1. 基本上呢，我們有約10~12個作業(也許更多)在課堂上完成。如果做不完帶回家做也沒關係。重點不是交作業，重點是要學會自己做。所謂&quot;學會自己做&quot;的意思就是之後遇到類似的東西，您可以獨力做的出來。老師會用各種手段確認您有學會自己做這些作業。 2. 有40%期中考前學習成效(期中考前作業繳交速度、品質、是否自己完成、是否可以教會別人完成、是否可以講解給別人聽)。就是說期中考前會結算一次作業成效。期中考前的作業在結算後補交就不會影響成績了。成績太差或老師不確定您的狀況者會被老師請來在期中考週舉行補分上機考 (只有平時表現不如預期的同學需參加，老師在考前一週會公布需應考名單)。參加考試表現良好者最高可將期中考前學習成效分數補至80分。 3. 40%期中考後的學習成效會在期末前再結算一次 4. 最後一週會有一個佔比20%的期末自我評量 (自己幫自己的學習成果打分數。自評結果與老師記錄差異太大者，還是有可能會被老師要求上機考期末考證明學習成果)</div>\n\n<div>&nbsp;</div>\n",
+    "tpa_score_new_en": " ",
+    "course_pol": "多元化和包容性\n所有課程活動都將在同學之間的友好參與和互動氛圍中進行，彼此間尊重和欣賞每位同學的個人經歷、背景和觀點，如國內外各學制、多元入學及學習文化、性別等。希望您始終在本課程中應用最高的學術標準，並以有尊嚴和尊重的態度對待同學。\n課堂行為\n課堂上的行為始終應要及時、要專業、要做好準備、要有禮貌。同學、教師或其他講師間，應保有彼此尊嚴和相互尊重，才能進行有效的學習。為了確保有利於學習環境，冀望每個人都能做到以下幾點，彼此遵守課堂行為規則，習慣禮貌的文化。\n學生應準時出席上課。如果您有某種原因必須提早下課，請提前告知我。\n所有學生在課堂上都應尊重每個人，並且在任何時候都應以合理、負責和禮貌的態度行事。\n課堂作業請自己做，但是老師要鼓勵大家互相學習，不懂的可以問別人，已經找到方法的同學可以教其他同學。嫌教室電腦太難用的可以使用自己的筆記型電腦或平板等載具。",
+    "course_pol_en": null,
+    "course_rem": null,
+    "course_rem_en": null,
+    "ais_meno": "<div>作業自己做</div>\n\n<div>凡是學生曲解自己的學習任務、或損害學術任務之不端正行為，包括在作業或考試中作弊、剽竊、串改；或將他人完成的作品作為自己的作品；或未經教師批准和同意，提交相同或相似的論文、報告，以滿足多門課程的要求；凡被認定有學術不端行為的學生，其學業成績將扣分，若第二次勸說不聽者，該學期成績以不及格計算，並依本校學生獎懲辦法提報處分。</div>\n",
+    "ais_meno_en": null,
+    "ilearn_mk": "N"
+  },
+  "courseBankC": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CE06310",
+      "sub_id": "18901",
+      "scr_dup": "001",
+      "seq": 1,
+      "describe_ch": "能用自己的詞彙定義何謂決策支援系統與企業智慧",
+      "describe_en": "A.\tEnabling students to articulate their own interpretations of decision support systems and business intelligence.",
+      "core_id": "A",
+      "core_item": "熟稔數理統計及應用資訊技術與相關分析、管制工具之能力。",
+      "core_eng": "To cultivate the capability for being acquainted with Mathematics,Physics, and statistics, applied information techniques and their related analyses & management tools.",
+      "core_level": "1 ",
+      "strgy": [
+        "03"
+      ],
+      "evalb": [
+        "D4"
+      ],
+      "strgy_name": [
+        "個案討論"
+      ],
+      "strgy_name_en": [
+        "Case study"
+      ],
+      "evalb_name": [
+        "作業"
+      ],
+      "evalb_name_en": [
+        "Homework"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CE06310",
+          "sub_id": "18901",
+          "scr_dup": "001",
+          "seq": 1,
+          "strgy_id": "03",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CE06310",
+          "sub_id": "18901",
+          "scr_dup": "001",
+          "seq": 1,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D4",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CE06310",
+      "sub_id": "18901",
+      "scr_dup": "001",
+      "seq": 2,
+      "describe_ch": "能夠選擇、應用適當的決策支援工具解決實務問題並有效解釋結果。",
+      "describe_en": "B.\tEnabling students to select, apply appropriate decision support tools to solve practical problems, and effectively interpret the results.",
+      "core_id": null,
+      "core_item": null,
+      "core_eng": null,
+      "core_level": null,
+      "strgy": [
+        "03"
+      ],
+      "evalb": [
+        "D4"
+      ],
+      "strgy_name": [
+        "個案討論"
+      ],
+      "strgy_name_en": [
+        "Case study"
+      ],
+      "evalb_name": [
+        "作業"
+      ],
+      "evalb_name_en": [
+        "Homework"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CE06310",
+          "sub_id": "18901",
+          "scr_dup": "001",
+          "seq": 2,
+          "strgy_id": "03",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CE06310",
+          "sub_id": "18901",
+          "scr_dup": "001",
+          "seq": 2,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D4",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CE06310",
+      "sub_id": "18901",
+      "scr_dup": "001",
+      "seq": 3,
+      "describe_ch": "能以書面或口頭方式將所學與同儕及教師溝通、說明提呈結果",
+      "describe_en": "C.\tEmpowering students to communicate, explain, and present their learning outcomes to peers and instructors in written or oral form.",
+      "core_id": "C",
+      "core_item": "具備溝通、表達、管理、規劃、合作、分工、協調、整合及領導統御之能力。",
+      "core_eng": "To acquire the capability of communication, expression, management, planning, cooperation, team work, coordination, integration, and leadership.",
+      "core_level": "3 ",
+      "strgy": [
+        "01"
+      ],
+      "evalb": [
+        "D1",
+        "D2",
+        "D3"
+      ],
+      "strgy_name": [
+        "課堂授課"
+      ],
+      "strgy_name_en": [
+        "Classroom instruction"
+      ],
+      "evalb_name": [
+        "期中考",
+        "期末考",
+        "隨堂測驗"
+      ],
+      "evalb_name_en": [
+        "Midterm examination",
+        "Final examination",
+        "In-class examination"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CE06310",
+          "sub_id": "18901",
+          "scr_dup": "001",
+          "seq": 3,
+          "strgy_id": "01",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CE06310",
+          "sub_id": "18901",
+          "scr_dup": "001",
+          "seq": 3,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D1",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CE06310",
+          "sub_id": "18901",
+          "scr_dup": "001",
+          "seq": 3,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D2",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CE06310",
+          "sub_id": "18901",
+          "scr_dup": "001",
+          "seq": 3,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D3",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    }
+  ],
+  "topicSdgs": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CE06310",
+      "sub_id": "18901",
+      "scr_dup": "001",
+      "sdgs_seq": 10,
+      "main_related": "Y",
+      "ind_related": "N",
+      "iss_name": "經濟成長面",
+      "iss_ename": "Economic Growth",
+      "content_name": "研發創新和建立工業建設",
+      "content_ename": "Industry, Innovation and Infrastructure"
+    }
+  ],
+  "learnHours": {
+    "total": 0.0,
+    "tpdOnlineAsyTotal": 0.0,
+    "tpdOnlineSynTotal": 0.0,
+    "tpdOnlineFaceTotal": 0.0,
+    "asySynInTotalPercent": 0.0
+  },
+  "crossVerYear": 114
+}

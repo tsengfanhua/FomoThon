@@ -1,0 +1,626 @@
+{
+  "success": true,
+  "info": {
+    "yms_year": 114.0,
+    "yms_smester": 2.0,
+    "sub_id": "16639",
+    "cls_id": "CE08139",
+    "scr_dup": "001",
+    "sub_id3": "CHE3024",
+    "cls_name": "化工三合",
+    "cls_ename": "Department of Chemical Engineering",
+    "sub_name": "有機光電材料概論",
+    "sub_ename": "INTRODUCTION TO ORGANIC ELECTRO-OPTIC MATERIAL",
+    "scr_mso": "選修",
+    "scr_mso_en": "Elective",
+    "scr_credit": 3.0,
+    "scr_periodly": "(一)06-08",
+    "scr_periodly_eng": "(Mon)06-08",
+    "lang_name": "中文                                                      ",
+    "lang_ename": "Chinese",
+    "scr_room": "忠305",
+    "scr_room_eng": "JCB305",
+    "scr_teacher": "蘇啟榮",
+    "scr_teacher_eng": "Chi-Jung Su",
+    "scr_selcode": "1396",
+    "scr_elearning": "全學期",
+    "scr_elearning_en": "Full semester",
+    "scr_hours": "3",
+    "scr_english": "N",
+    "unt_name": null,
+    "unt_ename": null,
+    "link_traminal": null,
+    "link_traminal_en": null,
+    "scr_ldl": "D",
+    "course_mk": "N",
+    "teams_mk": "Y",
+    "sub_title": null,
+    "sub_title_en": null,
+    "sub_describe": null,
+    "sub_describe_en": null,
+    "hasDescription": null,
+    "hasInstructor": null,
+    "hasTA": null,
+    "hasTextBooks": null,
+    "hasReadings": null,
+    "hasiSoftwares": null,
+    "hasAssistSoftwares": null,
+    "hasObjective": null,
+    "hasWeeklyScds": null,
+    "hasGradeRules": null,
+    "hasGradeRuleDescribe": null,
+    "hasIntegrity": null,
+    "hasCoursePol": null,
+    "hasCourseRem": null,
+    "hasObjectiveReleation": null,
+    "hasTopicSdgs": null,
+    "hasTopicAiIndicators": null,
+    "hasSubTitleDesc": null
+  },
+  "subTitleDesc": null,
+  "description": {
+    "sub_id3": null,
+    "sub_name": "有機光電材料概論",
+    "sub_ename": "INTRODUCTION TO ORGANIC ELECTRO-OPTIC MATERIAL",
+    "describe_ch": "使學生了解下列基本觀念：能階理論；摻雜效應；高分子導電機構；有機發光二極體理論；導電高分子的應用、合成與加工。",
+    "describe_eh": "The purpose of this course is to present an exposition of the basic conceptions of the following topics: What is electrical conductivity? Mechanism of polymer conductivity. Role of doping. Molecular electron-transfer theory. Application of Conductive polymers. Synthesis and processing.",
+    "pre_subname": "",
+    "pre_sub_id3": null,
+    "pre_sub_ename": "",
+    "pre_describe": null,
+    "pre_describe_en": null,
+    "scr_credit": 3.0
+  },
+  "targets": [
+    {
+      "seq": 1,
+      "describe_ch": "能用自己之意思，向社會大眾簡潔扼要的清楚介紹\"有機發光二極體\"之意義及應用。",
+      "describe_en": "You can explan concisely and clearly about the meaningful , application of  \"OLED\" to the people."
+    },
+    {
+      "seq": 2,
+      "describe_ch": "知道如何從網路找到\"有機發光二極體\"之知識及研究結果。",
+      "describe_en": "You can search the knowledge and research results of OLED from the webs."
+    },
+    {
+      "seq": 3,
+      "describe_ch": "能寫出不錯之\"有機發光二極體\"之書面報告。　",
+      "describe_en": "You can write the good report about the topic:OLED."
+    }
+  ],
+  "teachersInfo": [
+    {
+      "cname": "蘇啟榮",
+      "ename": "Chi-Jung Su",
+      "period": " ",
+      "roletype": 0,
+      "email": "cjsu@o365.fcu.edu.tw",
+      "ext": null
+    }
+  ],
+  "textBooks": {
+    "yms_year": 114.0,
+    "yms_smester": 2.0,
+    "cls_id": "CE08139",
+    "sub_id": "16639",
+    "scr_dup": "001",
+    "tpb_seq": 1,
+    "tpb_book": "<div>\n<div>\n<div>\n<div>\n<div>\n<div>OLED有機發光二極體顯示器技術 (第4版)</div>\n\n<div>\n<div>\n<div>\n<div>\n<div>作者：</div>\n\n<div><a href=\"https://www.eslite.com/search?author=WyLpmbPlv5flvLciXQ\">陳志強</a></div>\n</div>\n\n<div>\n<div>出版社：</div>\n\n<div><a href=\"https://www.eslite.com/search?manufacturer=WyLlhajoj6_lnJbmm7jogqHku73mnInpmZDlhazlj7giXQ\">全華圖書股份有限公司</a></div>\n</div>\n\n<div>\n<div>出版日期：</div>\n\n<div>2023/05/15</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n\n<div>&nbsp;</div>\n</div>\n</div>\n</div>\n\n<div>&nbsp;</div>\n",
+    "tpb_book_en": null
+  },
+  "readings": {
+    "yms_year": 114.0,
+    "yms_smester": 2.0,
+    "cls_id": "CE08139",
+    "sub_id": "16639",
+    "scr_dup": "001",
+    "tpc_seq": 1,
+    "tpc_book": "<div>\n<div>\n<div>OLED：有機電激發光材料與元件</div>\n\n<div>\n<div>OLED : Organic Electroluminescent Materials &amp; Devices</div>\n</div>\n\n<div>\n<div>\n<div>\n<div>\n<div>作者：</div>\n\n<div><a href=\"https://www.eslite.com/search?author=WyLpmbPph5Hpkasv6buD5a2d5paHIl0\">陳金鑫/黃孝文</a></div>\n</div>\n\n<div>\n<div>出版社：</div>\n\n<div><a href=\"https://www.eslite.com/search?manufacturer=WyLkupTljZflnJbmm7jlh7rniYjogqHku73mnInpmZDlhazlj7giXQ\">五南圖書出版股份有限公司</a></div>\n</div>\n\n<div>\n<div>出版日期：</div>\n\n<div>2005/09/05</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n",
+    "tpc_book_en": null
+  },
+  "iSoftwares": [],
+  "assistSoftwares": [],
+  "weeklyScds": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CE08139",
+      "sub_id": "16639",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "第1~7周",
+      "tpd_reading": "<div>\n<div>\n<div>\n<div>\n<div><strong>第1~2周: 第1章 諸論-顯示未來 1-1</strong><br />\n1.1 前言 1-1<br />\n1.2 平面顯示世代 1-2<br />\n1.3 液晶顯示器的發展與沿革 1-4<br />\n1.4 無機發光二極體之發展 1-10<br />\n1.5 小分子有機發光二極體之發展 1-10<br />\n1.6 高分子有機發光二極體之發展 1-14<br />\n1.7 主動式有機發光二極體的優勢 1-19<br />\n<strong>第3~4周:第2章 有機發光二極體應用與規格 2-1</strong><br />\n2.1 前言 2-1<br />\n2.2 有機發光二極體應用 2-2<br />\n2.3 面板解析度 2-12<br />\n2.4 直視型立體顯示設計 2-20<br />\n2.5 內嵌式觸控面板 2-24<br />\n2.6 綠色概念設計 2-25<br />\n2.7 綠色概念製造 2-28<br />\n<strong>第5~7周:第3章 有機發光二極體顯示原理 3-1</strong><br />\n3.1 前言 3-1<br />\n3.2 發光二極體顯示原理 3-2<br />\n3.3 有機發光二極體顯示原理 3-3<br />\n3.4 元件結構 3-6<br />\n3.5 發光效率 3-15</div>\n\n<div>3.6 亮度加強&",
+      "tpd_reading_en": null,
+      "tpd_learn": null,
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": "第四周: 公告家庭作業,  開始繳交家庭作業!!  愈早交! 成績愈高!!",
+      "tpd_ass_en": null,
+      "tpd_online_asy": 21.0,
+      "tpd_online_syn": 0.0,
+      "tpd_online_face": 21.0,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CE08139",
+      "sub_id": "16639",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "第8~10周",
+      "tpd_reading": "<div><strong>第9周:第5章 被動式矩陣背板技術 5-1</strong><br />\n5.1 前言 5-1<br />\n5.2 被動式矩陣架構 5-1<br />\n5.3 被動式SMOLED製造流程 5-7<br />\n5.4 被動式LEP製造流程 5-11<br />\n5.5 被動式驅動系統 5-12<br />\n5.6 驅動IC封裝 5-23<br />\n<br />\n<strong>第10周:第6章 主動式矩陣背板技術 6-1</strong><br />\n6.1 前言 6-1<br />\n6.2 單晶矽電晶體 6-2<br />\n6.3 低溫複晶矽薄膜電晶體 6-2<br />\n6.4 非晶矽薄膜電晶體 6-18<br />\n6.5 有機薄膜電晶體 6-34<br />\n6.6 畫素發光架構 6-44<br />\n6.7 低阻值導線 6-48</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": null,
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": "第8周:期中考",
+      "tpd_ass_en": null,
+      "tpd_online_asy": 9.0,
+      "tpd_online_syn": 0.0,
+      "tpd_online_face": 9.0,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CE08139",
+      "sub_id": "16639",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "第11~13",
+      "tpd_reading": "<div><strong>第11周:第7章 有機發光二極體陽極製程 7-1</strong><br />\n7.1 前言 7-1<br />\n7.2 陽極電極特性 7-2<br />\n7.3 氧化銦錫 7-5<br />\n7.4 氧化銦鋅 7-12<br />\n7.5 氧化鋅 7-15<br />\n7.6 堆疊型陽極 7-16<br />\n7.7 反射型陽極 7-17<br />\n7.8 微共振腔結構 7-18<br />\n7.9 陽極表面處理 7-22<br />\n<br />\n<strong>第12周:第8章 有機發光二極體陰極製程 8-1</strong><br />\n8.1 前言 8-1<br />\n8.2 陰極電極特性 8-2<br />\n8.3 單層型陰極 8-4<br />\n8.4 合金型陰極 8-5<br />\n8.5 多層型陰極 8-6<br />\n8.6 半穿透金屬型陰極 8-7<br />\n8.7 對比加強架構 8-8<br />\n<br />\n<strong>第13周:第9章 主動式類比畫素設計 9-1</strong><br />\n9.1 前言 9-1<br />\n9.2 畫素設計設定 9-1<br />\n9.3 差異性衰減 9-8<br />\n9.4 畫素驅動分類 9-12<br />\n9.5 電壓定義型畫素 9-14<br />\n9.6 電流定義型畫素 9-22<br />\n9.7 畫素補償架構 9-25</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": null,
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": "第12周:隨堂測驗\n第13周:發完已改完的隨堂測驗試卷, 學生閱卷.",
+      "tpd_ass_en": null,
+      "tpd_online_asy": 9.0,
+      "tpd_online_syn": 0.0,
+      "tpd_online_face": 9.0,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CE08139",
+      "sub_id": "16639",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "第14~18",
+      "tpd_reading": "<div>\n<div><strong>第14周:&nbsp; 第10章 主動式數位畫素設計 10-1</strong><br />\n10.1 前言 10-1<br />\n10.2 數位驅動設計 10-2<br />\n10.3 面積比例灰階型 10-2<br />\n10.4 訊號時間比例灰階型 10-5<br />\n10.5 時間面積混合比例灰階型 10-10<br />\n<br />\n<strong>第15周:第11章 有機發光二極體封裝技術 11-1</strong><br />\n11.1 前言 11-1<br />\n11.2 畫素暗點 11-2<br />\n11.3 封裝規格需求 11-6<br />\n11.4 外蓋封裝 11-7<br />\n11.5 單層薄膜封裝 11-19<br />\n11.6 多層薄膜封裝 11-27<br />\n<br />\n<strong>第15周:第12章 有機發光二極體技術藍圖 12-1</strong><br />\n12.1 平面顯示技術藍圖 12-1<br />\n12.2 有機發光二極體顯示器的未來 12-9<br />\n12.3 結語 12-12</div>\n\n<div>\n<div><strong>第16周:期末考</strong></div>\n\n<div><strong>第17周:發完已改完的期末考試卷</strong></div>\n</div>\n</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": null,
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": "第16周:期末考\n第17周:發完已改完的期末考試卷, 學生閱卷.",
+      "tpd_ass_en": null,
+      "tpd_online_asy": 15.0,
+      "tpd_online_syn": 0.0,
+      "tpd_online_face": 15.0,
+      "tpd_week_en": null,
+      "mode": 0
+    }
+  ],
+  "gradeRules": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CE08139",
+      "sub_id": "16639",
+      "scr_dup": "001",
+      "evalb_id": "D5",
+      "score_rate": 40,
+      "evalb_memo": "應屆畢業生: 期末報告(佔40% ) 非應屆畢業生: 期末考(佔40% )",
+      "evalb_memo_en": null,
+      "evalb_name": "期末專題",
+      "evalb_name_en": "Final presentation",
+      "seq": 1
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CE08139",
+      "sub_id": "16639",
+      "scr_dup": "001",
+      "evalb_id": "D3",
+      "score_rate": 30,
+      "evalb_memo": "平常考試(作為[平時成績, 佔30% ),  家庭作業的題目佔考試總分70~80% , 其餘為上課強調及補充內容!!",
+      "evalb_memo_en": null,
+      "evalb_name": "隨堂測驗",
+      "evalb_name_en": "In-class examination",
+      "seq": 2
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CE08139",
+      "sub_id": "16639",
+      "scr_dup": "001",
+      "evalb_id": "D4",
+      "score_rate": 30,
+      "evalb_memo": "繳交家庭作業一份(作為[期中考成績], 佔30%, 乃本學期 \"期中考周\" 結束後(第10周第2天為截止日期) )。",
+      "evalb_memo_en": null,
+      "evalb_name": "作業",
+      "evalb_name_en": "Homework",
+      "seq": 3
+    }
+  ],
+  "gradeRuleDescribe": {
+    "yms_year": 114.0,
+    "yms_smester": 2.0,
+    "cls_id": "CE08139",
+    "sub_id": "16639",
+    "scr_dup": "001",
+    "tpa_score_new": "<table>\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>家庭作業</td>\n\t\t\t<td>\n\t\t\t<div>30%</div>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<div>\n\t\t\t<div>\n\t\t\t<div>繳交家庭作業一份(作為[期中考成績], 佔30%, 乃本學期 &quot;期中考周&quot; 結束後(第10周第2天為截止日期) )。</div>\n\t\t\t</div>\n\t\t\t</div>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<div>\n\t\t\t<div>隨堂測驗</div>\n\t\t\t</div>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<div>30%</div>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<div>\n\t\t\t<div>\n\t\t\t<div>平常考試(作為[平時成績, 佔30% ),&nbsp; 家庭作業的題目佔考試總分70~80% , 其餘為上課強調及補充內容!!</div>\n\n\t\t\t<div>&nbsp;</div>\n\t\t\t</div>\n\t\t\t</div>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<div>\n\t\t\t<div>期末報告</div>\n\t\t\t</div>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<div>40%</div>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<div>\n\t\t\t<div>\n\t\t\t<div>應屆畢業生: 期末報告(佔40% ) 非應屆畢業生: 期末考(佔40% )</div>\n\t\t\t</div>\n\t\t\t</div>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>\n",
+    "tpa_score_new_en": null,
+    "course_pol": "1.\n隨堂測驗 不能作弊!!   違者 ,  死當! \n2.\n[不允許合作共寫作業] 善意提醒你: 請互相尊重, 不要抄襲別人的作業!\n若被抓到, 你的期中家庭作業只有 40 分 [總平均最多60分].",
+    "course_pol_en": null,
+    "course_rem": null,
+    "course_rem_en": null,
+    "ais_meno": "<div>1. 隨堂測驗 不能作弊!!&nbsp; &nbsp;違者 ,&nbsp; 死當!&nbsp; 2. [不允許合作共寫作業] 善意提醒你:&nbsp;請互相尊重, 不要抄襲別人的作業! 若被抓到, 你的期中家庭作業只有 40 分 [總平均最多60分].</div>\n",
+    "ais_meno_en": null,
+    "ilearn_mk": "Y"
+  },
+  "integrity": {
+    "yms_year": 114.0,
+    "yms_smester": 2.0,
+    "cls_id": "CE08139",
+    "sub_id": "16639",
+    "scr_dup": "001",
+    "tpa_score_new": "<table>\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>家庭作業</td>\n\t\t\t<td>\n\t\t\t<div>30%</div>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<div>\n\t\t\t<div>\n\t\t\t<div>繳交家庭作業一份(作為[期中考成績], 佔30%, 乃本學期 &quot;期中考周&quot; 結束後(第10周第2天為截止日期) )。</div>\n\t\t\t</div>\n\t\t\t</div>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<div>\n\t\t\t<div>隨堂測驗</div>\n\t\t\t</div>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<div>30%</div>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<div>\n\t\t\t<div>\n\t\t\t<div>平常考試(作為[平時成績, 佔30% ),&nbsp; 家庭作業的題目佔考試總分70~80% , 其餘為上課強調及補充內容!!</div>\n\n\t\t\t<div>&nbsp;</div>\n\t\t\t</div>\n\t\t\t</div>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<div>\n\t\t\t<div>期末報告</div>\n\t\t\t</div>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<div>40%</div>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<div>\n\t\t\t<div>\n\t\t\t<div>應屆畢業生: 期末報告(佔40% ) 非應屆畢業生: 期末考(佔40% )</div>\n\t\t\t</div>\n\t\t\t</div>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>\n",
+    "tpa_score_new_en": null,
+    "course_pol": "1.\n隨堂測驗 不能作弊!!   違者 ,  死當! \n2.\n[不允許合作共寫作業] 善意提醒你: 請互相尊重, 不要抄襲別人的作業!\n若被抓到, 你的期中家庭作業只有 40 分 [總平均最多60分].",
+    "course_pol_en": null,
+    "course_rem": null,
+    "course_rem_en": null,
+    "ais_meno": "<div>1. 隨堂測驗 不能作弊!!&nbsp; &nbsp;違者 ,&nbsp; 死當!&nbsp; 2. [不允許合作共寫作業] 善意提醒你:&nbsp;請互相尊重, 不要抄襲別人的作業! 若被抓到, 你的期中家庭作業只有 40 分 [總平均最多60分].</div>\n",
+    "ais_meno_en": null,
+    "ilearn_mk": "Y"
+  },
+  "policy": {
+    "yms_year": 114.0,
+    "yms_smester": 2.0,
+    "cls_id": "CE08139",
+    "sub_id": "16639",
+    "scr_dup": "001",
+    "tpa_score_new": "<table>\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>家庭作業</td>\n\t\t\t<td>\n\t\t\t<div>30%</div>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<div>\n\t\t\t<div>\n\t\t\t<div>繳交家庭作業一份(作為[期中考成績], 佔30%, 乃本學期 &quot;期中考周&quot; 結束後(第10周第2天為截止日期) )。</div>\n\t\t\t</div>\n\t\t\t</div>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<div>\n\t\t\t<div>隨堂測驗</div>\n\t\t\t</div>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<div>30%</div>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<div>\n\t\t\t<div>\n\t\t\t<div>平常考試(作為[平時成績, 佔30% ),&nbsp; 家庭作業的題目佔考試總分70~80% , 其餘為上課強調及補充內容!!</div>\n\n\t\t\t<div>&nbsp;</div>\n\t\t\t</div>\n\t\t\t</div>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<div>\n\t\t\t<div>期末報告</div>\n\t\t\t</div>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<div>40%</div>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<div>\n\t\t\t<div>\n\t\t\t<div>應屆畢業生: 期末報告(佔40% ) 非應屆畢業生: 期末考(佔40% )</div>\n\t\t\t</div>\n\t\t\t</div>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>\n",
+    "tpa_score_new_en": null,
+    "course_pol": "1.\n隨堂測驗 不能作弊!!   違者 ,  死當! \n2.\n[不允許合作共寫作業] 善意提醒你: 請互相尊重, 不要抄襲別人的作業!\n若被抓到, 你的期中家庭作業只有 40 分 [總平均最多60分].",
+    "course_pol_en": null,
+    "course_rem": null,
+    "course_rem_en": null,
+    "ais_meno": "<div>1. 隨堂測驗 不能作弊!!&nbsp; &nbsp;違者 ,&nbsp; 死當!&nbsp; 2. [不允許合作共寫作業] 善意提醒你:&nbsp;請互相尊重, 不要抄襲別人的作業! 若被抓到, 你的期中家庭作業只有 40 分 [總平均最多60分].</div>\n",
+    "ais_meno_en": null,
+    "ilearn_mk": "Y"
+  },
+  "courseBankC": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CE08139",
+      "sub_id": "16639",
+      "scr_dup": "001",
+      "seq": 1,
+      "describe_ch": "能用自己之意思，向社會大眾簡潔扼要的清楚介紹\"有機發光二極體\"之意義及應用。",
+      "describe_en": "You can explan concisely and clearly about the meaningful , application of  \"OLED\" to the people.",
+      "core_id": "E",
+      "core_item": "具備專案管理、協調整合、與團隊合作之能力。",
+      "core_eng": "Possess the ability to manage, coordinate, and team up in carrying out a project.",
+      "core_level": "5 ",
+      "strgy": [
+        "01"
+      ],
+      "evalb": [
+        "D3",
+        "D4",
+        "D5"
+      ],
+      "strgy_name": [
+        "課堂授課"
+      ],
+      "strgy_name_en": [
+        "Classroom instruction"
+      ],
+      "evalb_name": [
+        "隨堂測驗",
+        "作業",
+        "期末專題"
+      ],
+      "evalb_name_en": [
+        "In-class examination",
+        "Homework",
+        "Final presentation"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE08139",
+          "sub_id": "16639",
+          "scr_dup": "001",
+          "seq": 1,
+          "strgy_id": "01",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE08139",
+          "sub_id": "16639",
+          "scr_dup": "001",
+          "seq": 1,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D3",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE08139",
+          "sub_id": "16639",
+          "scr_dup": "001",
+          "seq": 1,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D4",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE08139",
+          "sub_id": "16639",
+          "scr_dup": "001",
+          "seq": 1,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D5",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CE08139",
+      "sub_id": "16639",
+      "scr_dup": "001",
+      "seq": 2,
+      "describe_ch": "知道如何從網路找到\"有機發光二極體\"之知識及研究結果。",
+      "describe_en": "You can search the knowledge and research results of OLED from the webs.",
+      "core_id": "E",
+      "core_item": "具備專案管理、協調整合、與團隊合作之能力。",
+      "core_eng": "Possess the ability to manage, coordinate, and team up in carrying out a project.",
+      "core_level": "5 ",
+      "strgy": [
+        "01"
+      ],
+      "evalb": [
+        "D3",
+        "D4",
+        "D5"
+      ],
+      "strgy_name": [
+        "課堂授課"
+      ],
+      "strgy_name_en": [
+        "Classroom instruction"
+      ],
+      "evalb_name": [
+        "隨堂測驗",
+        "作業",
+        "期末專題"
+      ],
+      "evalb_name_en": [
+        "In-class examination",
+        "Homework",
+        "Final presentation"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE08139",
+          "sub_id": "16639",
+          "scr_dup": "001",
+          "seq": 2,
+          "strgy_id": "01",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE08139",
+          "sub_id": "16639",
+          "scr_dup": "001",
+          "seq": 2,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D3",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE08139",
+          "sub_id": "16639",
+          "scr_dup": "001",
+          "seq": 2,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D4",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE08139",
+          "sub_id": "16639",
+          "scr_dup": "001",
+          "seq": 2,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D5",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CE08139",
+      "sub_id": "16639",
+      "scr_dup": "001",
+      "seq": 3,
+      "describe_ch": "能寫出不錯之\"有機發光二極體\"之書面報告。　",
+      "describe_en": "You can write the good report about the topic:OLED.",
+      "core_id": "E",
+      "core_item": "具備專案管理、協調整合、與團隊合作之能力。",
+      "core_eng": "Possess the ability to manage, coordinate, and team up in carrying out a project.",
+      "core_level": "5 ",
+      "strgy": [
+        "08"
+      ],
+      "evalb": [
+        "D3",
+        "D4",
+        "D5"
+      ],
+      "strgy_name": [
+        "書面報告"
+      ],
+      "strgy_name_en": [
+        "Written report"
+      ],
+      "evalb_name": [
+        "隨堂測驗",
+        "作業",
+        "期末專題"
+      ],
+      "evalb_name_en": [
+        "In-class examination",
+        "Homework",
+        "Final presentation"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE08139",
+          "sub_id": "16639",
+          "scr_dup": "001",
+          "seq": 3,
+          "strgy_id": "08",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE08139",
+          "sub_id": "16639",
+          "scr_dup": "001",
+          "seq": 3,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D3",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE08139",
+          "sub_id": "16639",
+          "scr_dup": "001",
+          "seq": 3,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D4",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE08139",
+          "sub_id": "16639",
+          "scr_dup": "001",
+          "seq": 3,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D5",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    }
+  ],
+  "topicSdgs": [],
+  "topicAiIndicators": [],
+  "learnHours": {
+    "total": 108.0,
+    "tpdOnlineAsyTotal": 54.0,
+    "tpdOnlineSynTotal": 0.0,
+    "tpdOnlineFaceTotal": 54.0,
+    "asySynInTotalPercent": 50.0
+  },
+  "crossVerYear": 114
+}

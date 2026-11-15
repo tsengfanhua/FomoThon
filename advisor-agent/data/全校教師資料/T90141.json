@@ -1,0 +1,1351 @@
+{
+  "teacherId": "T90141",
+  "name": "林育德",
+  "mainUnit": "資訊電機學院",
+  "detailUnit": "自動控制工程學系",
+  "skill": [
+    "生醫信號處理Biomedical Signal Processing",
+    "生醫感測系統設計Biomedical Sensing System Design",
+    "MCU-Based 嵌入式系統MCU-Based Embedded System",
+    "數位信號處理Digital Signal Processing",
+    "智慧型信號處理Intelligent Signal Processing",
+    "機器學習Machine Learning",
+    "型樣識別Pattern Recognition"
+  ],
+  "edu": [
+    "國立台灣大學 電機工程學系 博士",
+    "國立台灣大學 電機工程學系 碩士",
+    "私立中原大學 電機工程學系 學士"
+  ],
+  "fcuExp": [
+    "生醫資訊暨生醫工程碩士學位學程 主任",
+    "3D列印研究發展中心 副主任",
+    "自動控制工程學系 系主任",
+    "3D列印研究發展中心 副主任",
+    "3D列印研究發展中心 副主任",
+    "自動控制工程學系 兼任助理教授",
+    "自動控制工程學系 副教授",
+    "自動控制工程學系 副教授",
+    "自動控制工程學系 副教授",
+    "自動控制工程學系 教授",
+    "自動控制工程學系 教授",
+    "自動控制工程學系 教授"
+  ],
+  "currjob": [],
+  "otherExp": [
+    "私立中國醫藥學院 學士後中醫系 助理教授",
+    "國立台灣大學 電機工程學系 助教",
+    "私立吳鳳工商專科學校 電機工程科 講師"
+  ],
+  "journal": [
+    {
+      "論文名稱": "Fall detection based on data-adaptive Gaussian average filtering decomposition and machine learning",
+      "期刊名稱": "Information (EI,ESCI)",
+      "作者群": "Yue-Der Lin*, Chi-Jen Lu, Ming-Hsuan Sun and Ju-Hsuan Hung,"
+    },
+    {
+      "論文名稱": "Envelope extraction algorithm for magnetic resonance sounding signals based on adaptive Gaussian filters",
+      "期刊名稱": "Remote Sensing (SCIE)",
+      "作者群": "Baofeng Tian, Haoyu Duan, Yue-Der Lin and Hui Luan"
+    },
+    {
+      "論文名稱": "VEGF detection via impedance spectroscopy on surface functionalized interdigitated biosensor",
+      "期刊名稱": "Journal of Functional Biomaterials (SCIE)",
+      "作者群": "Yue-Der Lin*, Serge Ismael Zida, Chu-Chun Yang and Yit Lung Khung*"
+    },
+    {
+      "論文名稱": "A frequency estimation scheme based on Gaussian average filtering decomposition and Hilbert transform: with estimation of respiratory rate as an example",
+      "期刊名稱": "Sensors (SCIE)",
+      "作者群": "Yue-Der Lin*, Yong-Kok Tan, Tienhsiung Ku and Baofeng Tian"
+    },
+    {
+      "論文名稱": "Envelope extraction algorithm for magnetic resonance sounding signals based on adaptive local iterative filtering",
+      "期刊名稱": "Frontiers in Earth Science (SCIE)",
+      "作者群": "Baofeng Tian, Chao Sun, Longchang Liu, Yue-Der Lin, Chuang-Chien Chiu, Haoyu Duan and Hui Luan*"
+    },
+    {
+      "論文名稱": "A novel method for baroreflex sensitivity estimation using modulated Gaussian filter",
+      "期刊名稱": "Sensors (SCIE)",
+      "作者群": "Tienhsiung Ku, Serge Ismael Zida, Latifa Nabila Harfiya, Yung-Hui Li and Yue-Der Lin*"
+    },
+    {
+      "論文名稱": "Editorial: Methods on the assessment of human baroreflex function",
+      "期刊名稱": "Frontiers in Neuroscience (SCIE)",
+      "作者群": "Yue-Der Lin and André Diedrich*"
+    },
+    {
+      "論文名稱": "A novel approach for decomposition of biomedical signals in different applications based on data-adaptive Gaussian average filtering",
+      "期刊名稱": "Biomedical Signal Processing and Control (SCIE)",
+      "作者群": "Yue-Der Lin*, Yong Kok Tan and Baofeng Tian"
+    },
+    {
+      "論文名稱": "Resolving two-dimensional ambiguity in subspace-based frequency estimation for harmonic signals",
+      "期刊名稱": "Circuits, Systems and Signal Processing (SCIE)",
+      "作者群": "Yi-Sheng Chen, Ho-En Liao and Yue-Der Lin*"
+    },
+    {
+      "論文名稱": "Sonochemical reaction of bifunctional molecules on silicon (111) hydride surface",
+      "期刊名稱": "Molecules (SCIE)",
+      "作者群": "Serge Ismael Zida, Yue-Der Lin and Yit Lung Khung*"
+    },
+    {
+      "論文名稱": "Estimation of Baroreflex Sensitivity by Gaussian Average Filtering Decomposition",
+      "期刊名稱": "Biomedical Signal Processing and Control (SCIE)",
+      "作者群": "Yue-Der Lin* and Serge Ismael Zida"
+    },
+    {
+      "論文名稱": "Current trends on surface acoustic wave biosensors",
+      "期刊名稱": "Advanced Materials Technologies (SCIE)",
+      "作者群": "Serge Ismael Zida, Yue-Der Lin* and Yit Lung Khung*"
+    },
+    {
+      "論文名稱": "A novel PLI suppression method in ECG by notch filtering with a modulation-based detection and frequency estimation scheme",
+      "期刊名稱": "Biomedical Signal Processing and Control (SCIE)",
+      "作者群": "Yi-Sheng Chen, Po-Yen Lin and Yue-Der Lin*"
+    },
+    {
+      "論文名稱": "Real-time cuffless continuous blood pressure estimation using deep learning model",
+      "期刊名稱": "Sensors (SCIE)",
+      "作者群": "Yung-Hui Li, Latifa Nabila Harfiya, Kartika Purwandari and Yue-Der Lin*"
+    },
+    {
+      "論文名稱": "Fabrication and characterization of an aptamer-based n-type silicon nanowire FET biosensor for VEGF detection",
+      "期刊名稱": "Journal of Medical and Biological Engineering (SCIE)",
+      "作者群": "Serge Ismael Zida, Chu-Chun Yang, Yit Lung Khung* and Yue-Der Lin*"
+    },
+    {
+      "論文名稱": "Impaired microvascular response to muscle stretching in chronic smokers with type 2 diabetes",
+      "期刊名稱": "Frontiers in Bioengineering and Biotechnology (SCIE)",
+      "作者群": "Boon-Hua Low, Yue-Der Lin, Bo-Wen Huang, Taipau Chia, Jian-Guo Bau* and Hao-Yu Huang"
+    },
+    {
+      "論文名稱": "Estimation of heart rate and respiratory rate from the seismocardiogram under resting state",
+      "期刊名稱": "Biomedical Signal Processing and Control (SCIE)",
+      "作者群": "Yue-Der Lin* and Ya-Fen Jhou"
+    },
+    {
+      "論文名稱": "Grafting behavior for the resonating variants of ethynylaniline on hydrogenated silicon (100) surfaces under thermal hydrosilylation",
+      "期刊名稱": "Chemistry--A European Journal (SCIE)",
+      "作者群": "Joline Tung, Lih Shih Tew, Carmine Coluccini, Yue-Der Lin and Yit Lung Khung*"
+    },
+    {
+      "論文名稱": "The remote cruise method for the robot with multiple sensors",
+      "期刊名稱": "Measurement (SCIE,ECONLIT)",
+      "作者群": "Chern-Sheng Lin*, Yen-Chen Huang, Chung-Ting Chen, Yue-Der Lin, Pei-Chi Chen"
+    },
+    {
+      "論文名稱": "An automatic inspection system for the coating quality of the edge of mirror elements",
+      "期刊名稱": "Optik (SCIE,ECONLIT)",
+      "作者群": "Chern-Sheng Lin*, Yu-Han Chen, Tung-Fang Chiang, Jhih-Wei Lee, Wei-Cheng Lin, Yue-Der Lin"
+    },
+    {
+      "論文名稱": "Novel subspace method for frequencies estimation of two sinusoids with applications to vital signals",
+      "期刊名稱": "IET Signal Processing (SCIE,EI)",
+      "作者群": "Yi-Sheng Chen and Yue-Der Lin*"
+    },
+    {
+      "論文名稱": "Wavelet-based embedded algorithm for respiratory rate estimation from PPG signal",
+      "期刊名稱": "Biomedical Signal Processing and Control (SCIE)",
+      "作者群": "Yue-Der Lin*, Ya-Hsueh Chien, and Yi-Sheng Chen"
+    },
+    {
+      "論文名稱": "The study of remote monitoring and real-time signal processing of the pulse generator for thin film coating",
+      "期刊名稱": "Journal of Materials Science: Materials in Electronics (SCIE)",
+      "作者群": "Chern-Sheng Lin*, Zhen-Huan Fan, Pei-Chi Chen, Chen-Jui Liang and Yue-Der Lin"
+    },
+    {
+      "論文名稱": "32位元平台之行動心電圖即時量測系統",
+      "期刊名稱": "東南學報 ()",
+      "作者群": "林育德，蔡長達*，楊証傑"
+    },
+    {
+      "論文名稱": "L2-EMD filter design for photoplethysmography signal",
+      "期刊名稱": "Applied Mechanics and Materials (EI)",
+      "作者群": "Ya-Wen Tang* and Yue-Der Lin"
+    },
+    {
+      "論文名稱": "Implementation of multiple-channel capacitive ECG measurement based on conductive fabric",
+      "期刊名稱": "Biomedical Engineering－Applications, Basis and Communication (SCIE)",
+      "作者群": "Yue-Der Lin*, Ya-Hsueh Chien, Shih-Fan Wang, Cheng-Lun Tsai, Hen-Hong Chang and Kang-Ping Lin"
+    },
+    {
+      "論文名稱": "Simultaneous heartbeat and respiration monitoring using PPG and RIIV on a smartphone device",
+      "期刊名稱": "Biomedical Engineering－Applications, Basis and Communication (SCIE)",
+      "作者群": "Yue-Der Lin*, Hu-Ying Ho, Ching-Che Tsai, Shih-Fan Wang, Kang-Ping Lin and Heng-Hong Chang"
+    },
+    {
+      "論文名稱": "Efficient block-wise independent component analysis with optimal learning rate",
+      "期刊名稱": "Neurocomputing (SCIE)",
+      "作者群": "Yue-Der Lin, Chih-Yu Hsu*, Hung-Yun Chen and Kuo-Kun Tseng"
+    },
+    {
+      "論文名稱": "Using conductive fabric for capacitive EEG measurements",
+      "期刊名稱": "IETE Technical Review (SCIE)",
+      "作者群": "Ya-Wen Tang, Yue-Der Lin*, Yen-Ting Lin and Jinghom Chakhap"
+    },
+    {
+      "論文名稱": "Image quality improvement in three-dimensional time-of-flight magnetic resonance angiography using the subtraction method for brain and temporal bone diseases",
+      "期刊名稱": "Journal of the Chinese Medical Association (SCIE)",
+      "作者群": "Shu-Hui Peng, Chao-Yu Shen, Ming-Chi Wu, Yue-Der Lin, Chun-Huang Huang, Ruei-Jin Kang, Yeu-Sheng Tyan, Teng-Fu Tsao*"
+    },
+    {
+      "論文名稱": "Real-Time Analysis of Beats in Music for Entertainment Robots",
+      "期刊名稱": "Automation and Smart Technology ()",
+      "作者群": "Yue-Der Lin*, Ting-Tsao Wu, Yu-Ren Chen, Yen-Ting Lin, Wen-Hsiu Chen, Shih-Fan Wang and Jinghom Chakhap"
+    },
+    {
+      "論文名稱": "Simulation and measurement of skull vibration with a bone conduction hearing aid",
+      "期刊名稱": "Biomedical Engineering－Applications, Basis and Communication (SCIE)",
+      "作者群": "Yi-Rou Lin, Cheng-Lun Tsai, Shu-Fen Cheng, Chao-Min Wu, Yue-Der Lin, Hen-Hong Chang and Kang-Ping Lin"
+    },
+    {
+      "論文名稱": "An efficient string matching algorithm using bidirectional and poarallel processing structure for intrusion detection system",
+      "期刊名稱": "KSII Transactions on Internet and Information System (SCIE)",
+      "作者群": "Gwo-Ching Chang* and Yue-Der Lin"
+    },
+    {
+      "論文名稱": "An efficient ICA approach based on neural network framework for biomedical applications",
+      "期刊名稱": "2010 World Congress on Computational Intelligence (EI)",
+      "作者群": "Yue-Der Lin, Chih-Yu Hsu,Hung-Yun Chen and Kuo-Kun Tseng"
+    },
+    {
+      "論文名稱": "Respiratory information in arterial oxygen saturation measurement",
+      "期刊名稱": "Proceedings of Bio-inspired Systems and Signal Processing (EI)",
+      "作者群": "Yue-Der Lin"
+    },
+    {
+      "論文名稱": "Coherence analysis between respiration and PPG signal by bivariate AR model",
+      "期刊名稱": "Proc. World Academy of Science Engineering and Technology (EI)",
+      "作者群": "Yue-Der Lin*, Wei-Ting Liu, Ching-Che Tsai and Wen-Hsiu Chen"
+    },
+    {
+      "論文名稱": "Autonomic neuropathy precedes cardiovascular dysfunction in rats with diabetes",
+      "期刊名稱": "European Journal of Clinical Investigation (SCIE)",
+      "作者群": "Yue-Der. Lin, K-L. Hsu, E-T. Wu, M-S. Tsai, C-H. Wang, C-Y. Chang and K-C. Chang"
+    },
+    {
+      "論文名稱": "Block wise ICA: An efficient approach for biomedical applications",
+      "期刊名稱": "EURASIP Journal on Advances in Signal Processing (SCIE)",
+      "作者群": "Yue-Der Lin, Chin-Yu Hsu*, Hung-Yun Chen and Kuo-Kun Tseng"
+    },
+    {
+      "論文名稱": "Aminoguanidine prevents the impairment of cardiac pumping mechanics in rats with streptozotocin and nicotinamide-induced type 2 diabetes\r\ncardiac pumping mechanics in rats with\r\nstreptozotocin and nicotinamide-induced type 2\r\n",
+      "期刊名稱": "Britich Journal of Pharmacology (SCIE)",
+      "作者群": "M-S Wu, J-T Liang, Yue-Der Lin, E-T Wu, Y-Z Tseng and K-C Chang"
+    },
+    {
+      "論文名稱": "Power line interference detection and suppression in ECG signal processing",
+      "期刊名稱": "IEEE Trans Biomedical Engineering (SCIE,EI)",
+      "作者群": "Yue-Der Lin and Yu Hen Hu"
+    },
+    {
+      "論文名稱": "An EEG spike prescreening algorithm using radial basis function artificial neural network with multi-channel correlation",
+      "期刊名稱": "Journal of Medical and Biomedical Engineering (EI)",
+      "作者群": "Cheng-Wen Ko, Yue-Der Lin, Gwo-Jen Jan, Hsiao-Wen Chung and Shing-Ming Sung"
+    },
+    {
+      "論文名稱": "Variations of HRV analysis in different approaches",
+      "期刊名稱": "Computers in Cardiology (EI)",
+      "作者群": "Fu-Chi Chang, Ching-Kang Chang, Chuan-Chien Chiu, Sheng-Feng Hsu, Yue-Der Lin"
+    },
+    {
+      "論文名稱": "Detection and suppression of power-line interference in electrocardiogram signals",
+      "期刊名稱": "Computers in Cardiology (EI)",
+      "作者群": "Yu Hen Hu and Yue-Der Lin"
+    },
+    {
+      "論文名稱": "Evaluation measures for adaptive PLI filters in ECG signal processing",
+      "期刊名稱": "Computers in Cardiology (EI)",
+      "作者群": "Fu-Chi Chang, Ching-Kong Chang, Kang-Yi Chi, Yue-Der Lin"
+    },
+    {
+      "論文名稱": "Different patterns of pulse spectrum between survivors and non-survivors during progressive hemorrhage in rats",
+      "期刊名稱": "The American Journal of Chinese Medicine (SCIE)",
+      "作者群": "Yu-Hsin Chang, Jui-Shan Lin, Jaung-Geng Lin, Yue-Der Lin, Tsai-Chung Li and Yi-Chang Su"
+    },
+    {
+      "論文名稱": "The study of dynamic response to acute hemorrhage by pulse spectrum analysis",
+      "期刊名稱": "The American Journal of Chinese Medicine (SCIE)",
+      "作者群": "Yu-Hsin Chang, Chia-I Tsai, Jaung-Geng Lin, Yue-Der Lin, Tsai-Chung Li and Yi-Chang Su"
+    },
+    {
+      "論文名稱": "Aminoguanidine prevents arterial stuffening and cardiac hypertrophy in streptozotocin- induced diabetes in rats",
+      "期刊名稱": "British Journal of Pharmacology (SCIE)",
+      "作者群": "Kuo-Chu Chang,  Kwan-Lih Hsu, Chuen-Den Tseng, Yue-Der Lin, Yi-Li Cho and Yung-Zu Tseng"
+    },
+    {
+      "論文名稱": "An Adaptive Algorithm for Canceling Power-Line Interference in\r\nBiopotential Measurement",
+      "期刊名稱": "Biomedical Engineering--Applications, Basis & Communications (EI)",
+      "作者群": "Yun-Li Liu,Nin-Chun Chang,Sheng-Feng Hsu,Dong-Long Lin,Yue-Der Lin"
+    },
+    {
+      "論文名稱": "SPICE model for computer-aided design of biopotential amplifier",
+      "期刊名稱": "Biomedical Engineering--Applications, Basis & Communications (EI)",
+      "作者群": "Yun-Li Liu, Dong-Long Lin, Yue-Der Lin"
+    },
+    {
+      "論文名稱": "Use of acupuncture to improve gastrointestinal motility in women after trans-abdominal hysterectomy",
+      "期刊名稱": "The American Journal of Chinese Medicine (SCIE)",
+      "作者群": "Li-Li Chen, Sheng-Feng Hsu, Min-Hung Wang, Chao-Ling Chen, Yue-Der Lin and Jim-Shoung Lai"
+    },
+    {
+      "論文名稱": "便於遠距監測的傳真式心電圖之設計與製作",
+      "期刊名稱": "台大工程學刊 ()",
+      "作者群": "黃騰毅, 吳明龍, 江惇裕, 林育德, 鍾孝文"
+    },
+    {
+      "論文名稱": "An image processing architecture to enhance image contrast",
+      "期刊名稱": "Biomedical Engineering--Applications, Basis and Communicatio (EI)",
+      "作者群": "Yue-Der Lin, Hen-Wei Tsao anf Fok-Ching Chong"
+    },
+    {
+      "論文名稱": "Comments on \"Line patterns in the mosaic electric properties of human skin--A cross-correlation study\"",
+      "期刊名稱": "IEEE Transactions on Biomedical Engineering (SCIE,EI)",
+      "作者群": "Yue-Der Lin, Bih-Chern Chen, Sheng-Feng Hsu and Jaung-Geng Lin"
+    },
+    {
+      "論文名稱": "癌症末期病患在不同季節的死亡比率之分析",
+      "期刊名稱": "中華針灸醫學會雜誌 ()",
+      "作者群": "吳孟浩, 林育德, 歐乃慈, 陳光慧, 莊淑婷, 許昇峰"
+    },
+    {
+      "論文名稱": "The performance estimate for biopotential amplifier",
+      "期刊名稱": "Biomedical Engineering--Applications, Basis and Communicatio (EI)",
+      "作者群": "Yue-Der Lin, Fok-Ching Chong, Fun-Jou Chen, Shung-Te Kao, Bih-Chern Chen, Sheng-Feng Hsu and Jaung-Geng Lin"
+    },
+    {
+      "論文名稱": "An adaptive power-line interference removal technique for biopotential measurement",
+      "期刊名稱": "Biomedical Engineering--Applications, Basis and Communicatio (EI)",
+      "作者群": "Yue-Der Lin, Fok-Ching Chong, Fun-Jou Chen, Shung-Te Kao, Bih-Chern Chen and Jaung-Geng Lin"
+    },
+    {
+      "論文名稱": "Preamplifier with a second-order high-pass filtering characteristic",
+      "期刊名稱": "IEEE Transactions on Biomedical Engineering (SCIE,EI)",
+      "作者群": "Yue-Der Lin, Chang-Da Tsai, Hui-Hsun Huang, Dah-Chuan Chiou and Chien-Ping Wu"
+    },
+    {
+      "論文名稱": "The calculation of complexity in normal and apoplectic EEG signals",
+      "期刊名稱": "Journal of the Chinese Institute of Engineers (EI)",
+      "作者群": "Yue-Der Lin, Shing-Ming Sung, Fok-Ching Chong, Te-Son Kuo and Chi-Hung Liu"
+    },
+    {
+      "論文名稱": "An active comb filter structure for harmonic interference removal",
+      "期刊名稱": "Journal of the Chinese Institute of Engineers (EI)",
+      "作者群": "Chang-Da Tsai, Dah-Chuan Chiu, Yue-Der Lin, Hsiao-Lung Chan and Chien-Ping Wu"
+    }
+  ],
+  "journal2": [],
+  "conference": [
+    {
+      "論文名稱": "量子世代新穎解憂療法",
+      "會議名稱": "2024健康管理學術研討會",
+      "作者群": "蔡淑慧，劉靜秀，趙志強，郭晉榮，林育德，董書屏，劉春媛，汪惠芬"
+    },
+    {
+      "論文名稱": "Immersive virtual reality cruise garden relaxation train: A novel BCI platform for depression",
+      "會議名稱": "the 6th International Conference on Biomedical and Health Informatics (ICBHI 2024)",
+      "作者群": "Shu-Hui Tsai*, Chih-Chiang Chao, Yue-Der Lin, Chin-Jung Kuo, Shu-Ping Dong, Chun-Yuan Liu, Hsin-Yi Ko, Jenn-Hann Wang and Ching-Hsiu Liu"
+    },
+    {
+      "論文名稱": "Cuffless blood pressure estimation based on PPG features",
+      "會議名稱": "the 6th International Conference on Biomedical and Health Informatics (ICBHI 2024)",
+      "作者群": "Yu-Xian Chen, Ming-Hsuan Sun, Chi-Jen Lu, Wen-Kai Hung and Yue-Der Lin*"
+    },
+    {
+      "論文名稱": "Continuous blood pressure estimation using PPG signal without cuff",
+      "會議名稱": "the 6th International Conference on Biomedical and Health Informatics (ICBHI 2024)",
+      "作者群": "Wen-Kai Hung, Ming-Hsuan Sun, Chi-Jen Lu, Yu-Xian Chen and Yue-Der Lin*"
+    },
+    {
+      "論文名稱": "Deep learning combined with data-adaptive Gaussian average filtering decomposition for fall detection",
+      "會議名稱": "Annual Symposium of Taiwanese Society of Biomedical Engineering (TSBME 2023)",
+      "作者群": "Chi-Ren Lu, Ming-Shiaun Sun, Ru-Shuan Hong, Kai-Chun Liu and Yue-Der Lin*"
+    },
+    {
+      "論文名稱": "Contactless ECG measurement and ESD protection circuit design",
+      "會議名稱": "34th Annual International Society for Medical Innovation and Technology Conference (iSMIT 2023)",
+      "作者群": "Ling Chun Liao, Yin Sheng Chen, Tai-Jui Wang, Hsien Wei Chiu, Chun Lin Lin, Ya Chen Chen and Yue-Der Lin*"
+    },
+    {
+      "論文名稱": "Capacitive EMG measurement using biosensors with thin film technology at high thickness",
+      "會議名稱": "34th Annual International Society for Medical Innovation and Technology Conference (iSMIT 2023)",
+      "作者群": "Ling Chun Liao, Yin Sheng Chen, Tai-Jui Wang, Hsien Wei Chiu, Chun Lin Lin, Ya Chen Chen and Yue-Der Lin*"
+    },
+    {
+      "論文名稱": "基於AlexNet模型之諧波減速機智能故障診斷",
+      "會議名稱": "第二十一屆離島資訊技術與應用研討會",
+      "作者群": "謝男凱,陳澤龍, 梁詩婷, 林育德, 曾柏硯, 董志彥"
+    },
+    {
+      "論文名稱": "Using conductive fabric for multi-channel capacitive ECG measurement",
+      "會議名稱": "22nd IEEE International Conference on BioInformatics and BioEngineering (IEEE BIBE 2022)",
+      "作者群": "Yin Sheng Chen, Tai-Jui Wang, Hsien Wei Chiu and Yue-Der Lin*"
+    },
+    {
+      "論文名稱": "Capacitive EMG measurement with passive capacitive electrode",
+      "會議名稱": "22nd IEEE International Conference on BioInformatics and BioEngineering (IEEE BIBE 2022)",
+      "作者群": "Yin Sheng Chen, Tai-Jui Wang, Hsien Wei Chiu and Yue-Der Lin*"
+    },
+    {
+      "論文名稱": "A CNN approach to predicting non-invasive blood pressure of surgical patients",
+      "會議名稱": "2022 the 5th IEEE International Conference on Knowledge Innovation and Invention (ICKII 2022)",
+      "作者群": "Pin-You Ko, Lien-Fu Lai, Tienhsiung Ku and Yue-Der Lin*"
+    },
+    {
+      "論文名稱": "Evaluation of an Intelligent Edge Computing System for the Hospital Intensive Care Unit",
+      "會議名稱": "2021 IEEE 3rd Eurasia Conference on Biomedical Engineering, Healthcare and Sustainability (ECBIOS)",
+      "作者群": "Serge Ismael Zida, Yue-Der Lin*, Cheng Lin Lee and Yi Lun Tsai"
+    },
+    {
+      "論文名稱": "Fall detection based on depth camera and image fusion",
+      "會議名稱": "the 4th Global Conference on Biomedical Engineering & Annual Meeting of TSME (GCBME 2020)",
+      "作者群": "Yi-Ling Liu, Yue-Der Lin*, Cheng-Lin Lee, Serge Ismael Zida and Yi-Lun Tsai"
+    },
+    {
+      "論文名稱": "Development of intelligent analysis software for patient’s respiratory sounds in clinical settings",
+      "會議名稱": "the 4th Global Conference on Biomedical Engineering & Annual Meeting of TSME (GCBME 2020)",
+      "作者群": "Serge Ismael Zida, Yue-Der Lin*, Yi-Ling Liu and Cheng-Lin Lee"
+    },
+    {
+      "論文名稱": "Development of the innovative multi-channel stree stimulator and its application to the biomedicine",
+      "會議名稱": "the 4th Global Conference on Biomedical Engineering & Annual Meeting of TSME (GCBME 2020)",
+      "作者群": "Ming-Tzu Tsai, Cheng-Lin Lee, Yue-Der Lin, En Lin, Rui-Ting Hong, Yu-Chien Cheng and Chun-Min Wang"
+    },
+    {
+      "論文名稱": "Precise education applied in medical teaching",
+      "會議名稱": "The 3rd International Conference on Biomedical and Health Informatics (ICBHI 2019)",
+      "作者群": "Tan Yong Kok and Yue-Der Lin*"
+    },
+    {
+      "論文名稱": "Digital clinical health parameters monitoring platform by Rasperberry Pi 3 for the hospitals in developing countries",
+      "會議名稱": "2018 Global Conference on Biomedical Engineering (GCBME 2018)",
+      "作者群": "Serge Ismael Zida and Yue-Der Lin*"
+    },
+    {
+      "論文名稱": "Spectral characteristics of microcirculatory signals response to muscle stretching among diabetic smokers",
+      "會議名稱": "2017 4th International Conference on Biomedical and Bioinformatics Engineering (ICBBE 2017)",
+      "作者群": "Jian-Guo Bao, Yue-Der Lin and Bo-Wen Huang"
+    },
+    {
+      "論文名稱": "Development of fNIRS-EEG based Brain Activation Energy Monitor System",
+      "會議名稱": "2016 IEEE International Instrumentation and Measurement Technology Conference (I2MTC 2016)",
+      "作者群": "Ya-Wen Tang* and Yue-Der Lin"
+    },
+    {
+      "論文名稱": "Disturbance Elimination in Near-infrared Spectroscopy through L2-Correlated Empirical Mode Decomposition",
+      "會議名稱": "the 23rd International Conference on Systems, Signals and Image Processing (IWSSIP 2016)",
+      "作者群": "Ya-Wen Tang* and Yue-Der Lin"
+    },
+    {
+      "論文名稱": "Brain activation energy evaluation based on EEG-NIRS measurement system",
+      "會議名稱": "the 12th International Symposium on Measurement Technology and Intelligent Instruments (ISMTII 2015)",
+      "作者群": "Ya-Wen Tang* and Yue-Der Lin"
+    },
+    {
+      "論文名稱": "Disturbance elimination in near-infrared spectroscopy by correlated empirical mode decomposition",
+      "會議名稱": "2015 IEEE International Instrumentation and Measurement Technology Conference (I2MTC 2015)",
+      "作者群": "Ya-Wen Tang* and Yue-Der Lin"
+    },
+    {
+      "論文名稱": "Method of digital ankle brachial index evaluated by PPG signal",
+      "會議名稱": "the 1st Global Conference on Biomedical Engineering (GCBME 2014)",
+      "作者群": "Da-Ya Feng, Yue-Der Lin*, Yu-Lun Chen, Kang-Ping Lin, Wen-Che Hsieh, Wen-Hsin Liu and Hsin-Jia Huang"
+    },
+    {
+      "論文名稱": "The correlation between the pulse wave velocity detector and constitution of traditional Chinese medicine",
+      "會議名稱": "the 1st Global Conference on Biomedical Engineering (GCBME 2014)",
+      "作者群": "Yu-Lun Chen, Yue-Der Lin*, Da-Ya Feng, Hen-Hong Chang, Kang-Ping Lin and Hsin-Jia Huang"
+    },
+    {
+      "論文名稱": "呼吸用加熱潮濕器之濕度反應量測研究",
+      "會議名稱": "2013生物醫學工程科技研討會暨國科會醫學工程學門成果發表會",
+      "作者群": "馮達亞，王偉全，李淨程，林賢龍*，林育德"
+    },
+    {
+      "論文名稱": "聲波式脈波傳導速率",
+      "會議名稱": "2013生物醫學工程科技研討會暨國科會醫學工程學門成果發表會",
+      "作者群": "林欣汝，陳珈合，鄭鈞鴻，林育德*"
+    },
+    {
+      "論文名稱": "自動體外除顫器的全景鏡頭設計",
+      "會議名稱": "2013生物醫學工程科技研討會暨國科會醫學工程學門成果發表會",
+      "作者群": "游智翔，蔡正倫*，林育德，張恆鴻，林康平"
+    },
+    {
+      "論文名稱": "呼吸器用加熱潮濕器之濕度反應量測研究",
+      "會議名稱": "中華民國2012 生物醫學工程科技研討會",
+      "作者群": "馮達亞、王偉全、李淨程、林賢龍 、林育德"
+    },
+    {
+      "論文名稱": "Autonomic feedback with brain entrainment",
+      "會議名稱": "2013 International Joint Conference on Awareness Science and Technology & Ubi-Media Computing (iCAST 2013 & UMEDIA 2013)",
+      "作者群": "Shu-Hui Tsai* and Yue-Der Lin"
+    },
+    {
+      "論文名稱": "L2-EMD filter design for photoplethysmography signal",
+      "會議名稱": "2013 International Applied Science and Precision Engineering Conference (ASPEC 2013)",
+      "作者群": "Ya-Wen Tang* and Yue-Der Lin"
+    },
+    {
+      "論文名稱": "利用雙向電擊電路測量身體阻抗",
+      "會議名稱": "2013生物醫學工程科技研討會暨國科會醫學工程學門成果發表會",
+      "作者群": "詹棋荃，蔡正倫*，林育德，張恆鴻，林康平"
+    },
+    {
+      "論文名稱": "居家照護之反射式光體積變化描記設計",
+      "會議名稱": "2013智慧型系統工程應用研討會",
+      "作者群": "林欣汝，陳珈合，鄭鈞鴻，蔡青哲，李建利，林育德*"
+    },
+    {
+      "論文名稱": "反射式PPG之設計",
+      "會議名稱": "2012生物醫學工程科技研討會暨國科會醫學工程學門成果發表會",
+      "作者群": "林欣汝，陳珈合，鄭鈞鴻，王仕帆，林育德*"
+    },
+    {
+      "論文名稱": "心電圖演算法測試平台",
+      "會議名稱": "2012生物醫學工程科技研討會暨國科會醫學工程學門成果發表會",
+      "作者群": "戴志平，蔡正倫*，林育德，張恆鴻，林康平"
+    },
+    {
+      "論文名稱": "心電圖自動自我檢測系統",
+      "會議名稱": "2012生物醫學工程科技研討會暨國科會醫學工程學門成果發表會",
+      "作者群": "林俊逸，蔡正倫*，林育德，張恆鴻，林康平"
+    },
+    {
+      "論文名稱": "由呼吸氣流中擷取電能",
+      "會議名稱": "2012生物醫學工程科技研討會暨國科會醫學工程學門成果發表會",
+      "作者群": "梁佑任，蔡正倫*，林育德，張恆鴻，林康平"
+    },
+    {
+      "論文名稱": "Real-time analysis of beats in music for entertainment robot",
+      "會議名稱": "2012 the 43rd International Symposium on Robotics (ISR 2012)",
+      "作者群": "Ting-Tsao Wu, Yu-Ren Chen, Yen-Ting Lin, Wen-Hsiu Chen, Shih-Fan Wang and Yue-Der Lin*"
+    },
+    {
+      "論文名稱": "Multichannel capacitive ECG measurement with conductive fabric tape",
+      "會議名稱": "2012 International Conference on Bioinformatics, Computational Biology and Biomedical Engineering (ICBCBBE 2012)",
+      "作者群": "Ya-Hsueh Chien, Yue-Der Lin*, Yen-Ting Lin, Shih Fan Wang, Cheng-Lun Tsai and Ching-Che Tsai"
+    },
+    {
+      "論文名稱": "Evaluation of respiratory rate from PPG signal by AR decomposition",
+      "會議名稱": "5th World Association for Chinese Biomedical Engineers World Congress on Bioengineering",
+      "作者群": "Hu-Ying Ho, Ching-Che Tsai, Shih-Fan Wang, Yue-Der Lin*, Kang-Ping Lin, and Hen-Hong Chang"
+    },
+    {
+      "論文名稱": "Frequency-domain HRV analysis by different approaches",
+      "會議名稱": "5th World Association for Chinese Biomedical Engineers World Congress on Bioengineering",
+      "作者群": "Shih-Fan Wang, Ching-Che Tsai, Hu-Ying Ho, Ching-Kang Chang, Yue-Der Lin*, Kang-Ping Lin, and Hen-Hong Chang"
+    },
+    {
+      "論文名稱": "Evaluation of arterial stiffness by PPG",
+      "會議名稱": "2011 the 5th World Association for Chinese Biomedical Engineers World Congress on Bioengineering",
+      "作者群": "Ching-Che Tsai, Hu-Ying Ho, Shih-Fan Wang, Yue-Der Lin*, Kang-Ping Lin, and Hen-Hong Chang"
+    },
+    {
+      "論文名稱": "以機器視覺整合復健運動系統之開發",
+      "會議名稱": "第三屆智慧生活科技研討會",
+      "作者群": "李坤城，林宸生，張家昌"
+    },
+    {
+      "論文名稱": "即時音樂節拍分析用於娛樂型機器人",
+      "會議名稱": "2012資訊技術應用與管理研討會",
+      "作者群": "吳定澤，陳鈺仁，林彥廷，陳雯琇，王仕帆，林育德*"
+    },
+    {
+      "論文名稱": "ECG acquisition via microphone port for HRV analysis",
+      "會議名稱": "3rd World Congress in Applied Computing, Computer Science, and Computer Engineering",
+      "作者群": "Yue-Der Lin*, Shih-Fan Wang, Ching-Che Tsai, Hu-Ying Ho, Ching-Kang Chang, Kang-Ping Lin and Hen-Hong Chang"
+    },
+    {
+      "論文名稱": "Power line interference detection and rejection in ECG",
+      "會議名稱": "3rd World Congress in Applied Computing, Computer Science, and Computer Engineering",
+      "作者群": "Yue-Der Lin*, Ching-Che Tsai, Hu-Ying Ho, Shih-Fan Wang, Kang-Ping Lin and Hen-Hong Chang"
+    },
+    {
+      "論文名稱": "Block-Wise ICA: An efficient approach for biomedical applications",
+      "會議名稱": "International Conference on Bioinformatics, Computational Biology and Biomedical Engineering",
+      "作者群": "Yue-Der Lin* and Hung-Yun Chen"
+    },
+    {
+      "論文名稱": "基於最小二成法取線你和分析Ｔ波交替之研究",
+      "會議名稱": "2010生物醫學工程科技研討會暨科會醫學工程學門成果發表會",
+      "作者群": "許明宗,林育德*,廖和恩"
+    },
+    {
+      "論文名稱": "An efficient lossless ECG compression method using delta coding and optimal selective Huffman coding",
+      "會議名稱": "the 6th World Congress on Biomechanics in conjunction with 14th International Conference on Biomedical Engineering (ICBME) & 5TH Asian Pacific Conference on Biomechanics (SP Biomech)",
+      "作者群": "Kuo-Ching Chang and Yue-Der Lin*"
+    },
+    {
+      "論文名稱": "旋律辨識技術",
+      "會議名稱": "2010雛形系統與電路設計創新應用研討會",
+      "作者群": "陳鈺仁, 林彥廷, 史彥倫, 林英宏, 林育德*"
+    },
+    {
+      "論文名稱": "Respiratory information in arterial oxygen saturation measurement",
+      "會議名稱": "International Conference on Bio-inspired Systems and Signal Processing 2010 (BIOSIGNALS 2010)",
+      "作者群": "Yue-Der Lin"
+    },
+    {
+      "論文名稱": "以FPAA為基礎的生理訊號量測",
+      "會議名稱": "2009生物醫學工程科技研討會暨國科會醫學工程學門成果發表會",
+      "作者群": "簡雅雪，蔡青哲，林育德*"
+    },
+    {
+      "論文名稱": "脈波與PPG信號之相關性與圖型識別研究",
+      "會議名稱": "2009生物醫學工程科技研討會暨國科會醫學工程學門成果發表會",
+      "作者群": "楊禮鍾，何湖瑩，陳雯琇，張富祺，林育德*"
+    },
+    {
+      "論文名稱": "以PPG實現多生理參數分析平台",
+      "會議名稱": "2009生物醫學工程科技研討會暨國科會醫學工程學門成果發表會",
+      "作者群": "何湖瑩，楊禮鍾，劉威廷，蔡青哲，陳雯琇，林育德*"
+    },
+    {
+      "論文名稱": "旋律辨識技術",
+      "會議名稱": "2010電子工程技術研討會",
+      "作者群": "陳鈺仁, 林彥廷, 史彥倫, 林育德"
+    },
+    {
+      "論文名稱": "An efficient ICA approach based on neural network framework for biomedical applications",
+      "會議名稱": "2010 IEEE World Congress on Computational Intelligence",
+      "作者群": "Yue-Der Lin, Chih-Yu Hsu, Hunf-Yun Chen and Kuo-Kun Tseng"
+    },
+    {
+      "論文名稱": "Coherence analysis between respiration and PPG signal by bivariate AR model",
+      "會議名稱": "2009 International Conference on Medical Information Systems Engineering（ICMISE 2009）",
+      "作者群": "Yue-Der Lin*, Wei-Ting Liu, Ching-Che Tsai and Wen-Hsiu Chen"
+    },
+    {
+      "論文名稱": "脈波信號與PPG信號特徵之相關性研究",
+      "會議名稱": "2008生物醫學工程科技研討會暨國科會醫學工程學門成果發表會",
+      "作者群": "陳雯琇，高志清，常晉綱，張富祺，劉威廷，蔡青哲，林育德*"
+    },
+    {
+      "論文名稱": "脈波信號與PPG信號特徵之相關性研究",
+      "會議名稱": "2008年第十一屆工程 科技與中西醫藥應用研討會",
+      "作者群": "陳雯琇，常晉綱，張富祺，林育德*"
+    },
+    {
+      "論文名稱": "胎兒心電圖信號之擷取 – 使用EASI 演算法",
+      "會議名稱": "2007年生物醫學工程科技研討會暨國科會醫學工程學門成果發表會",
+      "作者群": "陳宏昀, 張富祺, 常晉綱, 林育德*"
+    },
+    {
+      "論文名稱": "簡易心電圖量測暨心率變異信賴度比較",
+      "會議名稱": "2007年生物醫學工程科技研討會暨國科會醫學工程學門成果發表會",
+      "作者群": "常晉綱, 張富祺, 陳宏昀, 林育德*"
+    },
+    {
+      "論文名稱": "以球型內插法實現動態腦波",
+      "會議名稱": "2007年生物醫學工程科技研討會暨國科會醫學工程學門成果發表會",
+      "作者群": "劉奕汝, 陳煒燁, 張寧群*, 林育德"
+    },
+    {
+      "論文名稱": "由PPG信號評估自主神經, 呼吸與心血管系統之相關生理參數",
+      "會議名稱": "2007生物醫學工程科技研討會暨國科會醫學工程學門成果發表會",
+      "作者群": "林育德, 張富祺, 陳宏昀, 常晉綱"
+    },
+    {
+      "論文名稱": "Detection and suppression of power-line interference in electrocardiogram signals",
+      "會議名稱": "the 34th Annual International Conference of Computers in Cardiology",
+      "作者群": "Yu Hen Hu and Yue-Der Lin*"
+    },
+    {
+      "論文名稱": "Evaluation measures for adaptive PLI filters in ECG signal processing",
+      "會議名稱": "the 34th Annual International Conference of Computers in Cardiology",
+      "作者群": "Fu-Chi Chang, Ching-Kang Chang, Kang-Yi Chi, Yue-Der Lin*"
+    },
+    {
+      "論文名稱": "Variations of HRV analysis in different approaches",
+      "會議名稱": "the 34th Annual International Conference of Computers in Cardiology",
+      "作者群": "Fu-Chi Chang, Ching-Kang Chang, Yue-Der Lin*"
+    },
+    {
+      "論文名稱": "以OMAP晶片製作打刻機控制介面",
+      "會議名稱": "2006多媒體及通訊系統研討會",
+      "作者群": "簡連誼，陳宏昀，常晉綱，張寧群，林育德*"
+    },
+    {
+      "論文名稱": "HRECG與HRPPG的相關性研究",
+      "會議名稱": "2006生物醫學工程科技研討會暨國科會醫學工程學門成果發表會",
+      "作者群": "張富祺，林育德*，邱創乾，陳建志"
+    },
+    {
+      "論文名稱": "A study of heart sound and lung sound separation by independent component analysis technique",
+      "會議名稱": "IEEE Engineering in Medicine and Biology, 28th Annual International Conference",
+      "作者群": "Jen-Chien Chien, M. C. Huang, Fok-Ching Chong* and Yue-Der Lin"
+    },
+    {
+      "論文名稱": "可適性濾波器於生醫信號電源干擾濾除之評估",
+      "會議名稱": "第九屆工程科技與中西醫學應用研討會",
+      "作者群": "吉剛儀，張富祺，簡連誼，林育德*"
+    },
+    {
+      "論文名稱": "以OMAP晶片為基礎之打刻機控制界面研製",
+      "會議名稱": "第四屆精密機械與製造技術研討會",
+      "作者群": "簡連誼、張文權 、陳宏昀、林育德*、張寧群、洪子倫"
+    },
+    {
+      "論文名稱": "The system chip design for biomedical signal measurement",
+      "會議名稱": "生物與醫療科技研發成果推廣發表會",
+      "作者群": "林育德"
+    },
+    {
+      "論文名稱": "利用PPG探討周邊血液循環系統與自主神經之相關性分析",
+      "會議名稱": "2005第八屆中西醫藥應用與工程科技研討會",
+      "作者群": "蕭名秀,黃千芳,丘馥嘉,林育德*"
+    },
+    {
+      "論文名稱": "以藍芽為基礎的無線可攜式多通道心電圖量測系統",
+      "會議名稱": "2004生物醫學工程科技研討會",
+      "作者群": "曾永進,簡連誼,林育德*"
+    },
+    {
+      "論文名稱": "非侵入式心血管循環相關生理參數之整合分析系統",
+      "會議名稱": "2004生物醫學工程科技研討會",
+      "作者群": "陳耀勳,吉剛儀,林育德*"
+    },
+    {
+      "論文名稱": "為基礎之多功能生理信號量測系統以PDA及FPAA",
+      "會議名稱": "2003第六屆工程科技與中西醫學應用研討會",
+      "作者群": "李皖琦,廖良展,林育德,張璞曾*"
+    },
+    {
+      "論文名稱": "PDA及WLAN為基礎之行動式生理監控暨醫學資訊系統",
+      "會議名稱": "2003第六屆工程科技與中西醫學應用研討會",
+      "作者群": "廖良展,李皖琦,林育德,張璞曾*"
+    },
+    {
+      "論文名稱": "以近似熵與複雜度C偵測動脈血壓波之複雜度分析",
+      "會議名稱": "2003第六屆工程科技與中西醫學應用研討會",
+      "作者群": "劉芸澧,邱創乾*,林育德,葉守正"
+    },
+    {
+      "論文名稱": "OOFIR在PDA上實現生醫訊號監視系統",
+      "會議名稱": "2002工程科技與中西醫學應用研討會",
+      "作者群": "葉春甫, 林伯?,林伯星,林育德,張璞曾*"
+    }
+  ],
+  "book": [
+    {
+      "專業書籍": "Methods on the Assessment of Human Baroreflex Function",
+      "出版單位": "Frontiers",
+      "作者群": "Yue-Der Lin, André Diedrich"
+    },
+    {
+      "專業書籍": "以導電織料為基礎的電容式心電信號量測與心率變異性的雲端運算技術開發",
+      "出版單位": "國科會",
+      "作者群": "林育德"
+    },
+    {
+      "專業書籍": "脈波傳導速率儀之實質比對臨床測試報告",
+      "出版單位": "經濟部",
+      "作者群": "李建利，林育德*，林康平，蔡青哲，陳冠廷"
+    },
+    {
+      "專業書籍": "影像式脈波傳導速度量測儀技術報告書",
+      "出版單位": "經濟部",
+      "作者群": "李建利，林育德*，林康平，蔡青哲，陳冠廷"
+    },
+    {
+      "專業書籍": "血液動力聲波在脈波傳導速率量測之實現",
+      "出版單位": "國科會",
+      "作者群": "林育德"
+    },
+    {
+      "專業書籍": "耳道內血液循行參數評估裝置之實現",
+      "出版單位": "國科會",
+      "作者群": "林育德"
+    },
+    {
+      "專業書籍": "即時節拍分析與預測研究期末技術報告",
+      "出版單位": "精密機械研究發展中心",
+      "作者群": "林育德*，吳定澤，陳雯琇"
+    },
+    {
+      "專業書籍": "以多波長PPG實現多訊息生理參數量測期末報告",
+      "出版單位": "國科會",
+      "作者群": "林育德"
+    },
+    {
+      "專業書籍": "即時節拍分析與預測研究第二年期中技術報告",
+      "出版單位": "精密機械研究發展中心",
+      "作者群": "林育德*，吳定澤，陳鈺仁，林彥廷"
+    },
+    {
+      "專業書籍": "以PPG信號取代ECG及呼吸信號評估心血管系統之可行性研究",
+      "出版單位": "國科會",
+      "作者群": "林育德"
+    },
+    {
+      "專業書籍": "以多波長PPG實現多訊息生理參數量測期中報告",
+      "出版單位": "國科會",
+      "作者群": "林育德"
+    },
+    {
+      "專業書籍": "以多波長PPG實現多訊息生理參數量測期中報告",
+      "出版單位": "國科會",
+      "作者群": "林育德"
+    },
+    {
+      "專業書籍": "以PPG信號取代ECG及呼吸信號評估心血管系統之可行性研究",
+      "出版單位": "國科會",
+      "作者群": "林育德"
+    },
+    {
+      "專業書籍": "以PPG信號評估心肺暨自主神經系統相關參數之研究",
+      "出版單位": "逢甲大學",
+      "作者群": "林育德"
+    },
+    {
+      "專業書籍": "脈波信號與PPG信號特徵之相關性研究",
+      "出版單位": "行政院衛生署中醫藥委員會",
+      "作者群": "林育德"
+    },
+    {
+      "專業書籍": "由PPG信號評估自主神經、呼吸與心血管系統之相關生理參數",
+      "出版單位": "國科會",
+      "作者群": "林育德"
+    },
+    {
+      "專業書籍": "高速打刻機核心技術開發",
+      "出版單位": "國科會",
+      "作者群": "林育德"
+    },
+    {
+      "專業書籍": "生醫電信號之互補式金氧半積體電路設計--單通道之心電信號積體電路設計",
+      "出版單位": "國科會",
+      "作者群": "林育德"
+    },
+    {
+      "專業書籍": "生醫電訊號之互補式金氧半積體電路設計",
+      "出版單位": "國科會",
+      "作者群": "林育德"
+    }
+  ],
+  "patent": [
+    {
+      "title": "發明",
+      "desc": "電子吸濕系統及其吸濕感測方法"
+    },
+    {
+      "title": "發明",
+      "desc": "Monopolar physiological signal detection device and its operating method"
+    },
+    {
+      "title": "發明",
+      "desc": "單極生理訊號偵測裝置及其運作方法"
+    },
+    {
+      "title": "發明",
+      "desc": "用於耳部之多通道生理訊號量測裝置及其方法"
+    },
+    {
+      "title": "發明",
+      "desc": "現場可程式化的類比信號處理裝置"
+    },
+    {
+      "title": "新型",
+      "desc": "影像式脈衝傳導速度的量測裝置"
+    },
+    {
+      "title": "新型",
+      "desc": "影像式二極體法動脈硬化之量測裝置"
+    },
+    {
+      "title": "新型",
+      "desc": "影像式脈波傳導速度量測裝置"
+    },
+    {
+      "title": "新型",
+      "desc": "PPG信號之光學成像裝置"
+    },
+    {
+      "title": "新型",
+      "desc": "動脈硬化簡易量測裝置"
+    }
+  ],
+  "most": [
+    {
+      "name": "異質生理信號的感壓反射靈敏度變形網路模型開發及其臨床應用",
+      "schoolYear": "113"
+    },
+    {
+      "name": "AI智慧追蹤與自動取景系統",
+      "schoolYear": "113"
+    },
+    {
+      "name": "基於深度學習與高斯濾波分解的非侵入式單一信號源感壓反射靈敏度估測技術開發(3/3)",
+      "schoolYear": "112"
+    },
+    {
+      "name": "結合行人辨識與人流分析之智慧引導系統",
+      "schoolYear": "112"
+    },
+    {
+      "name": "基於深度學習與高斯濾波分解的非侵入式單一信號源感壓反射靈敏度估測技術開發(2/3)",
+      "schoolYear": "111"
+    },
+    {
+      "name": "整合光達SLAM之自主移動式堆高機",
+      "schoolYear": "111"
+    },
+    {
+      "name": "基於深度學習與高斯濾波分解的非侵入式單一信號源感壓反射靈敏度估測技術開發(1/3)",
+      "schoolYear": "110"
+    },
+    {
+      "name": "醫療環境病患呼吸音之智慧型分析軟體開發",
+      "schoolYear": "108"
+    },
+    {
+      "name": "基於巨量睡眠生理訊號資料庫與深度學習技術的睡眠輔助診斷系統之研發與驗證",
+      "schoolYear": "108"
+    },
+    {
+      "name": "手術中全身麻醉病患呼吸音之即時監測裝置開發(2/2)",
+      "schoolYear": "107"
+    },
+    {
+      "name": "手術中全身麻醉病患呼吸音之即時監測裝置開發(1/2)",
+      "schoolYear": "106"
+    },
+    {
+      "name": "具重複使用性之奈米線場效電晶體感測元件設計與檢測平台之開發",
+      "schoolYear": "106"
+    },
+    {
+      "name": "由高流量呼吸加濕器的血氧量測信號估測呼吸狀態之技術開發",
+      "schoolYear": "105"
+    },
+    {
+      "name": "嵌入式雷射都卜勒血流儀之設計及其在第二型糖尿病患者復健效能評估之應用",
+      "schoolYear": "104"
+    },
+    {
+      "name": "3D列印普及與深耕推廣計畫(ST4)",
+      "schoolYear": "102"
+    },
+    {
+      "name": "(開發型)產學合作計畫－呼吸用加熱潮溼器之實驗用病患模型建置暨供氣管路溫濕度控制之實現",
+      "schoolYear": "102"
+    },
+    {
+      "name": "(廠配)(開發型)產學合作計畫－呼吸用加熱潮溼器之實驗用病患模型建置暨供氣管路溫濕度控制之實現(鉅邦醫材股份有限公司)",
+      "schoolYear": "102"
+    },
+    {
+      "name": "以導電織料為基礎的電容式心電信號量測與心率變異性的雲端運算技術開發",
+      "schoolYear": "102"
+    },
+    {
+      "name": "血液動力聲波在脈波傳導速率量測之實現",
+      "schoolYear": "101"
+    },
+    {
+      "name": "耳道內血液循行參數評估裝置之實現",
+      "schoolYear": "100"
+    },
+    {
+      "name": "以多波長PPG實現多訊息生理參數量測(3/3)",
+      "schoolYear": "99"
+    },
+    {
+      "name": "以多波長PPG實現多訊息生理參數量測(2/3)",
+      "schoolYear": "98"
+    },
+    {
+      "name": "以多波長PPG實現多訊息生理參數量測(1/3)",
+      "schoolYear": "97"
+    },
+    {
+      "name": "以PPG信號取代ECG及呼吸信號評估心血管系統之可行性研究",
+      "schoolYear": "97"
+    },
+    {
+      "name": "具智慧型生理監測的居家照護仿生視覺感知與機械臂輔具之研發(II)",
+      "schoolYear": "97"
+    },
+    {
+      "name": "由PPG信號評估自主神經、呼吸與心血管系統之相關生理參數(重點研究計畫)",
+      "schoolYear": "95"
+    },
+    {
+      "name": "提升產業技術及人才培育研究計畫–高速打刻機核心技術開發",
+      "schoolYear": "93"
+    },
+    {
+      "name": "(廠配)提升產業技術及人才培育研究計畫–高速打刻機核心技術開發(天麗工業有限公司)",
+      "schoolYear": "93"
+    },
+    {
+      "name": "心電信號之CMOS類比積體電路設計",
+      "schoolYear": "93"
+    },
+    {
+      "name": "生醫電訊號之互補式金氧半積體電路設計-單通道心電信號之積體電路設計",
+      "schoolYear": "92"
+    }
+  ],
+  "tech": [
+    {
+      "論文名稱": "開關場電力調度監控系統設計 (2009-07)",
+      "書名": "碩士論文",
+      "作者群": "張建聰, 林育德"
+    },
+    {
+      "論文名稱": "生醫訊號處理 (2008-08)",
+      "書名": "生物醫學工程導論",
+      "作者群": "邱創乾, 林育德, 劉益瑞, 徐良育"
+    },
+    {
+      "論文名稱": "開關場電力調度監控系統設計 (2008-08)",
+      "書名": "逢甲大學碩士論文",
+      "作者群": "張建聰，林育德*"
+    },
+    {
+      "論文名稱": "脈波與PPG信號之相關性與圖型識別研究 (2008-08)",
+      "書名": "逢甲大學碩士論文",
+      "作者群": "陳雯琇，林育德*"
+    },
+    {
+      "論文名稱": "以PPG實現多訊息生理參數之量測與評估 (2008-08)",
+      "書名": "逢甲大學碩士論文",
+      "作者群": "劉威廷，林育德*"
+    },
+    {
+      "論文名稱": "PPG的移動干擾偵測與信號重建 (2008-08)",
+      "書名": "逢甲大學碩士論文",
+      "作者群": "蔡青哲，林育德*"
+    },
+    {
+      "論文名稱": "嬰兒頭圍曲線之擬合研究 (2008-08)",
+      "書名": "逢甲大學碩士論文",
+      "作者群": "蕭凱鴻，張寧群，林育德*"
+    },
+    {
+      "論文名稱": "PPG信號之多生理參數分析 (2008-08)",
+      "書名": "逢甲大學碩士論文",
+      "作者群": "何湖瑩，林育德*"
+    },
+    {
+      "論文名稱": "多訊息脈博血氧濃度計之設計 (2008-08)",
+      "書名": "逢甲大學碩士論文",
+      "作者群": "楊禮鍾，林育德*"
+    },
+    {
+      "論文名稱": "盲蔽訊號分離之理論探討及其應用之研究 (2008-06)",
+      "書名": "林育德",
+      "作者群": "陳宏昀 林育德"
+    },
+    {
+      "論文名稱": "簡易心電圖量測與心率變異頻譜分析之信賴度比較 (2008-06)",
+      "書名": "林育德",
+      "作者群": "常晉綱 林育德"
+    },
+    {
+      "論文名稱": "PPG信號量測系統之設計與應用 (2008-06)",
+      "書名": "林育德",
+      "作者群": "梁紋賓 蕭傳偉 薛力豪 林育德"
+    },
+    {
+      "論文名稱": "以肌電信號判斷肌肉疲勞之研究 (2008-06)",
+      "書名": "林育德",
+      "作者群": "巫雅嵐 許時鈞 林育德"
+    },
+    {
+      "論文名稱": "呼吸信號量測系統之設計與應用 (2008-06)",
+      "書名": "林育德",
+      "作者群": "楊禮鍾 謝宏偉 吳家寶 林育德"
+    },
+    {
+      "論文名稱": "語音信號之識別分析 (2008-06)",
+      "書名": "林育德",
+      "作者群": "崔致豪 郭鈴莉 劉宗憲 林育德"
+    },
+    {
+      "論文名稱": "脈搏信號量測系統之設計與應用 (2008-06)",
+      "書名": "林育德",
+      "作者群": "甘文強 林聖皓 林育德"
+    },
+    {
+      "論文名稱": "可適性濾波器於生醫電信號市電干擾濾除之評估研究 (2006-12)",
+      "書名": "林育德",
+      "作者群": "吉剛儀 林育德"
+    },
+    {
+      "論文名稱": "高速打刻機系統之核心技術開發 (2005-08)",
+      "書名": "林育德",
+      "作者群": "簡連誼 林育德"
+    },
+    {
+      "論文名稱": "PPG與心率之相關性分析 (2005-08)",
+      "書名": "林育德",
+      "作者群": "林筱莉 呂宗憲 陳智傑 林育德"
+    },
+    {
+      "論文名稱": "EMG之生物迴饋分析系統 (2005-08)",
+      "書名": "林育德",
+      "作者群": "常晉綱 陳世杰 林育德"
+    },
+    {
+      "論文名稱": "心律, PPG和非侵入脈搏波信號之相關性研究 (2005-07)",
+      "書名": "林育德",
+      "作者群": "陳耀勳, 林育德"
+    },
+    {
+      "論文名稱": "以藍芽為基礎的無線可攜式心電圖量測系統 (2004-08)",
+      "書名": "林育德",
+      "作者群": "曾永進 林育德"
+    },
+    {
+      "論文名稱": "心率、PPG和非侵入脈搏波信號之相關性研究 (2004-08)",
+      "書名": "林育德",
+      "作者群": "陳耀勳 林育德"
+    },
+    {
+      "論文名稱": "USB型信號擷取介面卡 (2004-08)",
+      "書名": "林育德",
+      "作者群": "王嘉麒 林育德"
+    },
+    {
+      "論文名稱": "生醫信號之藍芽無線傳輸 (2004-08)",
+      "書名": "林育德",
+      "作者群": "黃奕倫 林家宏 許毓仁 林育德"
+    },
+    {
+      "論文名稱": "心電圖訊號放大器設計之原理與驗證 (2004-08)",
+      "書名": "林育德",
+      "作者群": "邱俊傑 張裕厚 涂舜文 林育德"
+    },
+    {
+      "論文名稱": "利用PPG探討末梢血管與自主神經之相關性分析 (2004-08)",
+      "書名": "林育德",
+      "作者群": "蕭名秀 黃千芳 丘馥嘉 林育德"
+    }
+  ],
+  "induAca": [
+    "非接觸式高增益生理訊號之訊號增強電路設計技術 (2023-03 to 2023-12)",
+    "非接觸生理訊號雜訊抑制技術 (2022-03 to 2022-12)",
+    "長照場域尿濕偵測技術之協助開發 (2020-08 to 2021-05)",
+    "TOF LiDAR 的深度開發與應用 (2019-04 to 2020-08)",
+    "智慧型超音波拉提機人機介面軟體設計 (2018-02 to 2020-04)",
+    "數據分析 (2015-08 to 2015-10)",
+    "光脈式血氧儀之雛型製作及技術研發 (2014-08 to 2015-09)",
+    "即時節拍分析與預測研究 (2011-03 to 2011-11)",
+    "旋律辨識技術研究 (2010-03 to 2010-11)",
+    "中醫醫療照護現代化與醫工資源整合研究--脈波信號與PPG信號特徵之相關性研究 (2007-11 to 2008-06)",
+    "大學校院自行選送人才出國研修-林育德 (2006-01 to 2006-06)",
+    "光敏式車道保持警告裝置晶片程式合作發展計畫 (2004-12 to 2005-10)"
+  ],
+  "perform": [],
+  "reward": [
+    "113年度國科會補助大專校院研究獎勵 (113, 2024-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵 (113, 2024-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (113, 2024-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (113, 2024-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (113, 2024-11) - 逢甲大學",
+    "112年度國科會補助大專校院研究獎勵 (112, 2023-12) - 逢甲大學",
+    "逢甲大學優良教材獎勵優等獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "電聲工程特別獎 (112, 2023-11) - 美律實業",
+    "第十四屆『電聲工程特別獎』 (112, 2023-11) - 美律實業",
+    "逢甲大學論文著作獎勵傑出獎 (111, 2022-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (111, 2022-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (111, 2022-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (111, 2022-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (111, 2022-11) - 逢甲大學",
+    "111學年度教學傑出獎 (111, 2022-11) - 逢甲大學",
+    "111年度國科會補助大專校院研究獎勵 (111, 2022-10) - 研究發展處",
+    "逢甲大學論文著作獎勵傑出獎 (110, 2021-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (110, 2021-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (110, 2021-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (110, 2021-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (110, 2021-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (110, 2021-11) - 逢甲大學",
+    "109年度科技部補助大專校院研究獎勵 (109, 2020-10) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (108, 2019-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (108, 2019-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (108, 2019-11) - 逢甲大學",
+    "108學年度科技部補助大專校院研究獎勵 (108, 2019-09) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (107, 2018-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (107, 2018-11) - 逢甲大學",
+    "107年度科技部補助大專校院研究獎勵 (107, 2018-08) - 逢甲大學",
+    "第十六屆旺宏金矽獎優勝獎 (104, 2016-07) - 旺宏電子",
+    "第十六屆旺宏金矽獎『優勝獎』 (104, 2016-07) - 旺宏電子股份有限公司暨財團法人旺宏教育基金會",
+    "論文著作傑出獎 (104, 2015-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (104, 2015-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (104, 2015-11) - 逢甲大學",
+    "Outstanding Engineering Achievement (104, 2015-08) - International Biographical Center (IBC)",
+    "104年度科技部獎勵特殊優秀人才 (104, 2015-08) - 產學合作處",
+    "2015生醫機電與臨床創意設計、製作競賽 (103, 2015-05) - 南部科學園區管理局",
+    "2015生醫機電與臨床創意設計製作競賽『潛能獎』 (103, 2015-05) - 科技部南部科學工業園區管理局",
+    "資電學院專題競賽自控組第一名 (103, 2015-05) - 逢甲大學",
+    "Leading Engineers of the World (103, 2015-04) - International Biographical Center (IBC)",
+    "論文著作傑出獎 (103, 2014-11) - 逢甲大學",
+    "論文著作優等獎 (103, 2014-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (103, 2014-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (103, 2014-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (103, 2014-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (103, 2014-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (103, 2014-11) - 逢甲大學",
+    "103年度科技部獎勵特殊優秀人才 (103, 2014-08) - 研究發展處",
+    "Who is Who in the World (102, 2013-11) - Marquis Who is Who",
+    "102年度科技部獎勵特殊優秀人才 (102, 2013-08) - 研究發展處",
+    "Top 100 Engineers (101, 2013-03) - International Biographical Center (IBC)",
+    "Leading Engineers of the World (101, 2013-02) - International Biographical Center (IBC)",
+    "研究生王仕帆獲得『張冠諒教授紀念獎學金』 (101, 2012-11) - 中華民國生物醫學工程學會",
+    "Who is Who in the World (101, 2012-11) - Marquis Who is Who",
+    "資電學院專題競賽自控組第一名 (100, 2012-05) - 逢甲大學",
+    "謝哲光特約講座教授特別獎學金 (100, 2012-05) - 逢甲大學",
+    "論文著作優等獎 (100, 2011-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (100, 2011-11) - 逢甲大學",
+    "99年度科技部獎勵特殊優秀人才 (99, 2010-10) - 研究發展處",
+    "2000 Outstanding Intellectuals of the 21th Century (99, 2010-09) - International Biographical Center (IBC)",
+    "論文著作傑出獎 (98, 2009-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (98, 2009-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (98, 2009-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (98, 2009-11) - 逢甲大學",
+    "Who is Who in the World (98, 2009-11) - Marquis Who is Who",
+    "Who is Who in the World 2010 (97, 2009-03) - Marquis Who's Who",
+    "學術研究獎勵論文著作優等獎 (97, 2008-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (97, 2008-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (97, 2008-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (97, 2008-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (97, 2008-11) - 逢甲大學",
+    "Top 100 Educators 2008 (97, 2008-09) - International Biographical Center",
+    "Top 100 Educators (97, 2008-09) - International Biographical Center (IBC)",
+    "IBC Foremost Engineers 2008 (97, 2008-08) - International Biographical Center",
+    "IBC Foremost Engineers of the World (97, 2008-08) - International Biographical Center (IBC)",
+    "Who is Who in the World 2009 (97, 2008-08) - Marquis Who's Who",
+    "Century Award for Achievement (97, 2008-08) - International Biographical Center",
+    "21th Century Award for Achievement (97, 2008-08) - International Biographical Center (IBC)",
+    "Leading Engineers of the World (96, 2008-05) - International Biographical Center",
+    "Leading Engineers of the World (96, 2008-05) - International Biographical Center (IBC)",
+    "Leading Educators of the World (96, 2008-05) - International Biographical Center",
+    "自控系畢業專題競賽佳作 (96, 2008-05) - 逢甲大學",
+    "自控系畢業專題競賽佳作 (96, 2008-05) - 逢甲大學",
+    "自控系畢業專題競賽佳作 (96, 2008-05) - 逢甲大學",
+    "Outstanding Intellectuals (96, 2008-04) - International Biographical Center",
+    "2000 Outstanding Intellectuals of the 21th Century (96, 2008-04) - International Biographical Center (IBC)",
+    "逢甲大學論文著作獎勵傑出獎 (96, 2007-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (96, 2007-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (96, 2007-11) - 逢甲大學",
+    "Who's Who in the World 2008 (96, 2007-11) - Marquis Who's Who",
+    "Who is Who in the World (96, 2007-11) - Marquis Who is Who",
+    "學術研究獎勵論文著作傑出獎 (96, 2007-11) - 逢甲大學",
+    "IEEE Senior Member (95, 2006-09) - 電機電子工程師學會 (IEEE）",
+    "學術研究獎勵研發成果優等獎 (94, 2005-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (94, 2005-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (94, 2005-11) - 逢甲大學",
+    "第八屆中西醫藥應用與工程科技科技研討會『優勝論文』 (93, 2005-05) - 第八屆中西醫藥應用與工程科技科技研討會"
+  ],
+  "speech": [
+    {
+      "演講題目": "An Introduction to Heart Rate Variability",
+      "邀請單位": "美思科技股份有限公司",
+      "演講日期": "2018-09"
+    },
+    {
+      "演講題目": "因應工業 4.0 需求的產品研發",
+      "邀請單位": "高鹿興業有限公司",
+      "演講日期": "2018-04"
+    },
+    {
+      "演講題目": "數學工具在生醫工程的應用-以生理信號的處理為例",
+      "邀請單位": "中臺科技大學生物科技暨醫學工程研究所",
+      "演講日期": "2017-11"
+    },
+    {
+      "演講題目": "Evaluation of Baroreflex Sensitivity May be a Potential Tool for the Prescreening of Type 2 Diabetes",
+      "邀請單位": "東海大學電機工程學系",
+      "演講日期": "2016-11"
+    },
+    {
+      "演講題目": "感壓反射在第二型糖尿病篩檢的應用",
+      "邀請單位": "台灣科技大學醫學工程研究所",
+      "演講日期": "2016-04"
+    },
+    {
+      "演講題目": "電容式生醫電信號量測的原理介紹",
+      "邀請單位": "國立彰化師範大學機電工程學系",
+      "演講日期": "2014-11"
+    },
+    {
+      "演講題目": "生醫信號處理技術在醫學上的應用",
+      "邀請單位": "中國醫藥大學針灸研究所",
+      "演講日期": "2012-11"
+    },
+    {
+      "演講題目": "多訊息光學脈搏計",
+      "邀請單位": "台灣科技大學 (居家照護研討會)",
+      "演講日期": "2011-11"
+    },
+    {
+      "演講題目": "非接觸式多通道心電訊號量測",
+      "邀請單位": "台灣科技大學 (居家照護研討會)",
+      "演講日期": "2011-11"
+    },
+    {
+      "演講題目": "心血管系統居家醫材之簡介",
+      "邀請單位": "長庚大學 (心血管疾病之中西醫)",
+      "演講日期": "2011-10"
+    },
+    {
+      "演講題目": "The Applications of Biomedical Signals",
+      "邀請單位": "中興大學電機系",
+      "演講日期": "2011-05"
+    },
+    {
+      "演講題目": "The Implementation of Multi-function Pulse Oximeter",
+      "邀請單位": "早稻田大學電腦科學與工程系",
+      "演講日期": "2009-12"
+    },
+    {
+      "演講題目": "光脈波信號之臨床應用",
+      "邀請單位": "國立彰化師範大學機電工程學系",
+      "演講日期": "2009-10"
+    },
+    {
+      "演講題目": "生醫信號處理在生理功能評估的重要性及其所面臨的挑戰",
+      "邀請單位": "國立彰化師範大學機電工程學系",
+      "演講日期": "2008-05"
+    },
+    {
+      "演講題目": "Power Line Interference Detection and Suppression in ECG",
+      "邀請單位": "中原大學生醫工程學系",
+      "演講日期": "2006-12"
+    },
+    {
+      "演講題目": "生醫信號量測之系統晶片設計",
+      "邀請單位": "2005生物與醫療科技研發成果推廣",
+      "演講日期": "2005-05"
+    }
+  ],
+  "material": [
+    "計算機輔助電路設計\t逢甲大學\t林育德\tPowerPoint",
+    "醫用電子\t逢甲大學\t林育德\tPowerPoint",
+    "醫學量測及儀表\t逢甲大學\t林育德\tPowerPoint",
+    "高等數位信號處理\t逢甲大學\t林育德\tPowerPoint",
+    "計算機輔助電路設計\t逢甲大學\t林育德\tPowerPoint",
+    "高等醫學儀表與量測\t逢甲大學\t林育德\tPowerPoint",
+    "高等生物醫學信號處理\t逢甲大學\t林育德\tPowerPoint",
+    "醫用電子\t逢甲大學\t林育德\tPowerPoint",
+    "高等醫學工程\t逢甲大學\t林育德\tPowerPoint",
+    "醫學量測與儀表\t逢甲大學\t林育德\tPowerPoint",
+    "計算機輔助電路設計\t逢甲大學\t林育德\tPowerPoint",
+    "高等醫學儀表與量測\t逢甲大學\t林育德\tPowerPoint",
+    "高等生物醫學信號處理\t逢甲大學\t林育德\tPowerPoint",
+    "醫用電子\t逢甲大學\t林育德\t講義",
+    "醫學量測及儀表\t逢甲大學\t林育德\t講義",
+    "高等數位信號處理\t逢甲大學\t林育德\t講義",
+    "高等生醫信號處理\t逢甲大學\t林育德\t講義",
+    "高等醫學儀表與量測\t逢甲大學\t林育德\t講義",
+    "醫學量測及儀表\t逢甲大學\t林育德\t講義",
+    "Methods on the assessment of human baroreflex function\tFrontiers\tYue-Der Lin and André Diedrich*\t個案教材"
+  ],
+  "tal": []
+}

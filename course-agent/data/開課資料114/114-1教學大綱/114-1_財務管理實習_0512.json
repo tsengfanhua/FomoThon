@@ -1,0 +1,1039 @@
+{
+  "success": true,
+  "info": {
+    "yms_year": 114.0,
+    "yms_smester": 1.0,
+    "sub_id": "37740",
+    "cls_id": "CB06130",
+    "scr_dup": "001",
+    "sub_id3": "FINA2034P",
+    "cls_name": "合經三",
+    "cls_ename": "Department of Cooperative Economics",
+    "sub_name": "財務管理實習",
+    "sub_ename": "FINANCIAL MANAGEMENT PRACTICE",
+    "scr_mso": "必修",
+    "scr_mso_en": "Required",
+    "scr_credit": 0.0,
+    "scr_periodly": "(三)01",
+    "scr_periodly_eng": "(Wed)01",
+    "lang_name": "中文                                                      ",
+    "lang_ename": "Chinese",
+    "scr_room": "商402",
+    "scr_room_eng": "BB402",
+    "scr_teacher": "葉俐廷",
+    "scr_teacher_eng": "Li-Ting Yeh",
+    "scr_selcode": "0512",
+    "scr_elearning": "全學期",
+    "scr_elearning_en": "Full semester",
+    "scr_hours": "1",
+    "scr_english": "N",
+    "unt_name": null,
+    "unt_ename": null,
+    "link_traminal": null,
+    "link_traminal_en": null,
+    "scr_ldl": "D",
+    "course_mk": "N",
+    "teams_mk": "N",
+    "sub_title": null,
+    "sub_title_en": null,
+    "sub_describe": null,
+    "sub_describe_en": null,
+    "hasDescription": null,
+    "hasInstructor": null,
+    "hasTA": null,
+    "hasTextBooks": null,
+    "hasReadings": null,
+    "hasiSoftwares": null,
+    "hasAssistSoftwares": null,
+    "hasObjective": null,
+    "hasWeeklyScds": null,
+    "hasGradeRules": null,
+    "hasGradeRuleDescribe": null,
+    "hasIntegrity": null,
+    "hasCoursePol": null,
+    "hasCourseRem": null,
+    "hasObjectiveReleation": null,
+    "hasTopicSdgs": null,
+    "hasSubTitleDesc": null
+  },
+  "subTitleDesc": null,
+  "description": {
+    "sub_id3": null,
+    "sub_name": "財務管理實習",
+    "sub_ename": "FINANCIAL MANAGEMENT PRACTICE",
+    "describe_ch": "此為財務管理的入門課程，旨在熟悉財務資產評價、資本預算、及公司投資決策等重要課題，學期中需作研究報告，以期將財務理論與實務予以融會貫通。",
+    "describe_eh": "This is an introductory course in the field of financial management.  It will provide students with the basic understanding of financial asset valuation and corporate investment decision.  Research projects will be assigned to students during the semester.  The purpose is to familiarize students with the theories and concepts learned from the class and apply them to the real financial world.",
+    "pre_subname": "ECON1001經濟學(一)、ECON1002經濟學(二)、ACCT1011會計學(一)、ACCT1012會計學(二)",
+    "pre_sub_id3": "ECON1001",
+    "pre_sub_ename": "ECON1001 ECONOMICS(1)、ECON1002 ECONOMICS(2)、ACCT1011 ACCOUNTING(1)、ACCT1012 ACCOUNTING(2)",
+    "pre_describe": null,
+    "pre_describe_en": null,
+    "scr_credit": 0.0
+  },
+  "targets": [
+    {
+      "seq": 1,
+      "describe_ch": "瞭解財務資產評價",
+      "describe_en": "Understand the financial asset valuation"
+    },
+    {
+      "seq": 2,
+      "describe_ch": "瞭解資本預算",
+      "describe_en": "Understand the capital budgeting"
+    },
+    {
+      "seq": 3,
+      "describe_ch": "瞭解公司投資決策。",
+      "describe_en": "Understand the corporate investment decision"
+    },
+    {
+      "seq": 4,
+      "describe_ch": "瞭解資本結構管理",
+      "describe_en": "Understand the capital structure management"
+    },
+    {
+      "seq": 5,
+      "describe_ch": "瞭解股利政策",
+      "describe_en": " Understand the dividend policy"
+    },
+    {
+      "seq": 6,
+      "describe_ch": "將財務理論與實務予以融會貫通",
+      "describe_en": "Integrate the Financial Theory with Practice"
+    }
+  ],
+  "teachersInfo": [
+    {
+      "cname": "葉俐廷",
+      "ename": "Li-Ting Yeh",
+      "period": "(Mon)04  商936,(Tue)02-03 商936,(Tue)04  商936",
+      "roletype": 0,
+      "email": "lityeh@o365.fcu.edu.tw",
+      "ext": "4355"
+    },
+    {
+      "cname": "賴宗裕",
+      "ename": "ZONGYU LAI",
+      "period": " ",
+      "roletype": 1,
+      "email": "d1122359@o365.fcu.edu.tw",
+      "ext": " "
+    }
+  ],
+  "textBooks": {
+    "yms_year": 114.0,
+    "yms_smester": 1.0,
+    "cls_id": "CB06130",
+    "sub_id": "37740",
+    "scr_dup": "001",
+    "tpb_seq": 1,
+    "tpb_book": "<div>與正課教師相同，並於上課時公布。&nbsp;</div>\n",
+    "tpb_book_en": " "
+  },
+  "readings": {
+    "yms_year": 114.0,
+    "yms_smester": 1.0,
+    "cls_id": "CB06130",
+    "sub_id": "37740",
+    "scr_dup": "001",
+    "tpc_seq": 1,
+    "tpc_book": "<div>與正課教師相同，並於上課時公布。&nbsp;</div>\n",
+    "tpc_book_en": null
+  },
+  "iSoftwares": [],
+  "assistSoftwares": [],
+  "weeklyScds": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CB06130",
+      "sub_id": "37740",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "1",
+      "tpd_reading": null,
+      "tpd_reading_en": null,
+      "tpd_learn": null,
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CB06130",
+      "sub_id": "37740",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "2",
+      "tpd_reading": null,
+      "tpd_reading_en": null,
+      "tpd_learn": null,
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CB06130",
+      "sub_id": "37740",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "3-5",
+      "tpd_reading": null,
+      "tpd_reading_en": null,
+      "tpd_learn": null,
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CB06130",
+      "sub_id": "37740",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "6",
+      "tpd_reading": null,
+      "tpd_reading_en": null,
+      "tpd_learn": null,
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CB06130",
+      "sub_id": "37740",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "7",
+      "tpd_reading": null,
+      "tpd_reading_en": null,
+      "tpd_learn": null,
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CB06130",
+      "sub_id": "37740",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "8",
+      "tpd_reading": null,
+      "tpd_reading_en": null,
+      "tpd_learn": null,
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CB06130",
+      "sub_id": "37740",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "9",
+      "tpd_reading": null,
+      "tpd_reading_en": null,
+      "tpd_learn": null,
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CB06130",
+      "sub_id": "37740",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "10",
+      "tpd_reading": null,
+      "tpd_reading_en": null,
+      "tpd_learn": null,
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CB06130",
+      "sub_id": "37740",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "11",
+      "tpd_reading": null,
+      "tpd_reading_en": null,
+      "tpd_learn": null,
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CB06130",
+      "sub_id": "37740",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "12-13",
+      "tpd_reading": null,
+      "tpd_reading_en": null,
+      "tpd_learn": null,
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CB06130",
+      "sub_id": "37740",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "14",
+      "tpd_reading": null,
+      "tpd_reading_en": null,
+      "tpd_learn": null,
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CB06130",
+      "sub_id": "37740",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "15-16",
+      "tpd_reading": null,
+      "tpd_reading_en": null,
+      "tpd_learn": null,
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CB06130",
+      "sub_id": "37740",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "17",
+      "tpd_reading": null,
+      "tpd_reading_en": null,
+      "tpd_learn": null,
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    }
+  ],
+  "gradeRules": [],
+  "gradeRuleDescribe": {
+    "yms_year": 114.0,
+    "yms_smester": 1.0,
+    "cls_id": "CB06130",
+    "sub_id": "37740",
+    "scr_dup": "001",
+    "tpa_score_new": "<div>出缺席及課堂表現狀況</div>\n",
+    "tpa_score_new_en": null,
+    "course_pol": "期中考、期末考與小考若當日若無法參加考試，務必於考試前事先告知老師或實習助教。\n若有事先告知者，才可以請老師與助教聯繫與安排補考時間，補考時間必須安排在三日內完成(補考成績將打8折)。\n若無收到老師與實習助教聯繫，請與我們再次確認請假問題。\n其他規定將依照實際上課情況調整，請同學們務必專心上課喔!!!",
+    "course_pol_en": null,
+    "course_rem": null,
+    "course_rem_en": null,
+    "ais_meno": "<div>在期末報告中，我強烈鼓勵同學們互助合作完成期末書面報告及其他學習任務。請注意，當我們撰寫期末報告時，我們必須嚴格遵守有關確認語詞和想法來源的標準規則。如果我們使用其他作者或網路文章的用語或想法，必須清楚標示這些用語或想法的來源，並在報告中提供這些素材的出處。這包括作者的姓名以及在句子末尾包含使用原材料的頁碼。如果我們抄襲或以任何方式隱藏我們作品的來源，我們的作業將被視為零分。</div>\n",
+    "ais_meno_en": null,
+    "ilearn_mk": null
+  },
+  "integrity": {
+    "yms_year": 114.0,
+    "yms_smester": 1.0,
+    "cls_id": "CB06130",
+    "sub_id": "37740",
+    "scr_dup": "001",
+    "tpa_score_new": "<div>出缺席及課堂表現狀況</div>\n",
+    "tpa_score_new_en": null,
+    "course_pol": "期中考、期末考與小考若當日若無法參加考試，務必於考試前事先告知老師或實習助教。\n若有事先告知者，才可以請老師與助教聯繫與安排補考時間，補考時間必須安排在三日內完成(補考成績將打8折)。\n若無收到老師與實習助教聯繫，請與我們再次確認請假問題。\n其他規定將依照實際上課情況調整，請同學們務必專心上課喔!!!",
+    "course_pol_en": null,
+    "course_rem": null,
+    "course_rem_en": null,
+    "ais_meno": "<div>在期末報告中，我強烈鼓勵同學們互助合作完成期末書面報告及其他學習任務。請注意，當我們撰寫期末報告時，我們必須嚴格遵守有關確認語詞和想法來源的標準規則。如果我們使用其他作者或網路文章的用語或想法，必須清楚標示這些用語或想法的來源，並在報告中提供這些素材的出處。這包括作者的姓名以及在句子末尾包含使用原材料的頁碼。如果我們抄襲或以任何方式隱藏我們作品的來源，我們的作業將被視為零分。</div>\n",
+    "ais_meno_en": null,
+    "ilearn_mk": null
+  },
+  "policy": {
+    "yms_year": 114.0,
+    "yms_smester": 1.0,
+    "cls_id": "CB06130",
+    "sub_id": "37740",
+    "scr_dup": "001",
+    "tpa_score_new": "<div>出缺席及課堂表現狀況</div>\n",
+    "tpa_score_new_en": null,
+    "course_pol": "期中考、期末考與小考若當日若無法參加考試，務必於考試前事先告知老師或實習助教。\n若有事先告知者，才可以請老師與助教聯繫與安排補考時間，補考時間必須安排在三日內完成(補考成績將打8折)。\n若無收到老師與實習助教聯繫，請與我們再次確認請假問題。\n其他規定將依照實際上課情況調整，請同學們務必專心上課喔!!!",
+    "course_pol_en": null,
+    "course_rem": null,
+    "course_rem_en": null,
+    "ais_meno": "<div>在期末報告中，我強烈鼓勵同學們互助合作完成期末書面報告及其他學習任務。請注意，當我們撰寫期末報告時，我們必須嚴格遵守有關確認語詞和想法來源的標準規則。如果我們使用其他作者或網路文章的用語或想法，必須清楚標示這些用語或想法的來源，並在報告中提供這些素材的出處。這包括作者的姓名以及在句子末尾包含使用原材料的頁碼。如果我們抄襲或以任何方式隱藏我們作品的來源，我們的作業將被視為零分。</div>\n",
+    "ais_meno_en": null,
+    "ilearn_mk": null
+  },
+  "courseBankC": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CB06130",
+      "sub_id": "37740",
+      "scr_dup": "001",
+      "seq": 1,
+      "describe_ch": "瞭解財務資產評價",
+      "describe_en": "Understand the financial asset valuation",
+      "core_id": null,
+      "core_item": null,
+      "core_eng": null,
+      "core_level": null,
+      "strgy": [
+        "01"
+      ],
+      "evalb": [
+        "L3",
+        "L4"
+      ],
+      "strgy_name": [
+        "課堂授課"
+      ],
+      "strgy_name_en": [
+        "Classroom instruction"
+      ],
+      "evalb_name": [
+        "課堂討論參與",
+        "出席狀況"
+      ],
+      "evalb_name_en": [
+        "Participation",
+        "Attendances"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CB06130",
+          "sub_id": "37740",
+          "scr_dup": "001",
+          "seq": 1,
+          "strgy_id": "01",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CB06130",
+          "sub_id": "37740",
+          "scr_dup": "001",
+          "seq": 1,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "L3",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CB06130",
+          "sub_id": "37740",
+          "scr_dup": "001",
+          "seq": 1,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "L4",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CB06130",
+      "sub_id": "37740",
+      "scr_dup": "001",
+      "seq": 2,
+      "describe_ch": "瞭解資本預算",
+      "describe_en": "Understand the capital budgeting",
+      "core_id": null,
+      "core_item": null,
+      "core_eng": null,
+      "core_level": null,
+      "strgy": [
+        "01"
+      ],
+      "evalb": [
+        "L3",
+        "L4"
+      ],
+      "strgy_name": [
+        "課堂授課"
+      ],
+      "strgy_name_en": [
+        "Classroom instruction"
+      ],
+      "evalb_name": [
+        "課堂討論參與",
+        "出席狀況"
+      ],
+      "evalb_name_en": [
+        "Participation",
+        "Attendances"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CB06130",
+          "sub_id": "37740",
+          "scr_dup": "001",
+          "seq": 2,
+          "strgy_id": "01",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CB06130",
+          "sub_id": "37740",
+          "scr_dup": "001",
+          "seq": 2,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "L3",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CB06130",
+          "sub_id": "37740",
+          "scr_dup": "001",
+          "seq": 2,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "L4",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CB06130",
+      "sub_id": "37740",
+      "scr_dup": "001",
+      "seq": 3,
+      "describe_ch": "瞭解公司投資決策。",
+      "describe_en": "Understand the corporate investment decision",
+      "core_id": null,
+      "core_item": null,
+      "core_eng": null,
+      "core_level": null,
+      "strgy": [
+        "01"
+      ],
+      "evalb": [
+        "L3",
+        "L4"
+      ],
+      "strgy_name": [
+        "課堂授課"
+      ],
+      "strgy_name_en": [
+        "Classroom instruction"
+      ],
+      "evalb_name": [
+        "課堂討論參與",
+        "出席狀況"
+      ],
+      "evalb_name_en": [
+        "Participation",
+        "Attendances"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CB06130",
+          "sub_id": "37740",
+          "scr_dup": "001",
+          "seq": 3,
+          "strgy_id": "01",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CB06130",
+          "sub_id": "37740",
+          "scr_dup": "001",
+          "seq": 3,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "L3",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CB06130",
+          "sub_id": "37740",
+          "scr_dup": "001",
+          "seq": 3,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "L4",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CB06130",
+      "sub_id": "37740",
+      "scr_dup": "001",
+      "seq": 4,
+      "describe_ch": "瞭解資本結構管理",
+      "describe_en": "Understand the capital structure management",
+      "core_id": null,
+      "core_item": null,
+      "core_eng": null,
+      "core_level": null,
+      "strgy": [
+        "01"
+      ],
+      "evalb": [
+        "L3",
+        "L4"
+      ],
+      "strgy_name": [
+        "課堂授課"
+      ],
+      "strgy_name_en": [
+        "Classroom instruction"
+      ],
+      "evalb_name": [
+        "課堂討論參與",
+        "出席狀況"
+      ],
+      "evalb_name_en": [
+        "Participation",
+        "Attendances"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CB06130",
+          "sub_id": "37740",
+          "scr_dup": "001",
+          "seq": 4,
+          "strgy_id": "01",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CB06130",
+          "sub_id": "37740",
+          "scr_dup": "001",
+          "seq": 4,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "L3",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CB06130",
+          "sub_id": "37740",
+          "scr_dup": "001",
+          "seq": 4,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "L4",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CB06130",
+      "sub_id": "37740",
+      "scr_dup": "001",
+      "seq": 5,
+      "describe_ch": "瞭解股利政策",
+      "describe_en": " Understand the dividend policy",
+      "core_id": null,
+      "core_item": null,
+      "core_eng": null,
+      "core_level": null,
+      "strgy": [
+        "01"
+      ],
+      "evalb": [
+        "L3",
+        "L4"
+      ],
+      "strgy_name": [
+        "課堂授課"
+      ],
+      "strgy_name_en": [
+        "Classroom instruction"
+      ],
+      "evalb_name": [
+        "課堂討論參與",
+        "出席狀況"
+      ],
+      "evalb_name_en": [
+        "Participation",
+        "Attendances"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CB06130",
+          "sub_id": "37740",
+          "scr_dup": "001",
+          "seq": 5,
+          "strgy_id": "01",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CB06130",
+          "sub_id": "37740",
+          "scr_dup": "001",
+          "seq": 5,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "L3",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CB06130",
+          "sub_id": "37740",
+          "scr_dup": "001",
+          "seq": 5,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "L4",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CB06130",
+      "sub_id": "37740",
+      "scr_dup": "001",
+      "seq": 6,
+      "describe_ch": "將財務理論與實務予以融會貫通",
+      "describe_en": "Integrate the Financial Theory with Practice",
+      "core_id": null,
+      "core_item": null,
+      "core_eng": null,
+      "core_level": null,
+      "strgy": [
+        "01"
+      ],
+      "evalb": [
+        "L3",
+        "L4"
+      ],
+      "strgy_name": [
+        "課堂授課"
+      ],
+      "strgy_name_en": [
+        "Classroom instruction"
+      ],
+      "evalb_name": [
+        "課堂討論參與",
+        "出席狀況"
+      ],
+      "evalb_name_en": [
+        "Participation",
+        "Attendances"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CB06130",
+          "sub_id": "37740",
+          "scr_dup": "001",
+          "seq": 6,
+          "strgy_id": "01",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CB06130",
+          "sub_id": "37740",
+          "scr_dup": "001",
+          "seq": 6,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "L3",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CB06130",
+          "sub_id": "37740",
+          "scr_dup": "001",
+          "seq": 6,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "L4",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    }
+  ],
+  "topicSdgs": [],
+  "learnHours": {
+    "total": 0.0,
+    "tpdOnlineAsyTotal": 0.0,
+    "tpdOnlineSynTotal": 0.0,
+    "tpdOnlineFaceTotal": 0.0,
+    "asySynInTotalPercent": 0.0
+  },
+  "crossVerYear": 114
+}

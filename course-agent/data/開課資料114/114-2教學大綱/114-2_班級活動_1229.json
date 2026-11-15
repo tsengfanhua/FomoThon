@@ -1,0 +1,755 @@
+{
+  "success": true,
+  "info": {
+    "yms_year": 114.0,
+    "yms_smester": 2.0,
+    "sub_id": "00001",
+    "cls_id": "CE07111",
+    "scr_dup": "001",
+    "sub_id3": "GEID0010",
+    "cls_name": "資訊一甲",
+    "cls_ename": "Department of Information Engineering and Computer Science",
+    "sub_name": "班級活動",
+    "sub_ename": "CLASS ACTIVITY",
+    "scr_mso": "必修",
+    "scr_mso_en": "Required",
+    "scr_credit": 0.0,
+    "scr_periodly": "(一)09",
+    "scr_periodly_eng": "(Mon)09",
+    "lang_name": "中文                                                      ",
+    "lang_ename": "Chinese",
+    "scr_room": "商206",
+    "scr_room_eng": "BB206",
+    "scr_teacher": "郭士煒",
+    "scr_teacher_eng": "SHIH-WEI GUO",
+    "scr_selcode": "1229",
+    "scr_elearning": "全學期",
+    "scr_elearning_en": "Full semester",
+    "scr_hours": "1",
+    "scr_english": "N",
+    "unt_name": null,
+    "unt_ename": null,
+    "link_traminal": null,
+    "link_traminal_en": null,
+    "scr_ldl": "D",
+    "course_mk": "N",
+    "teams_mk": "N",
+    "sub_title": null,
+    "sub_title_en": null,
+    "sub_describe": null,
+    "sub_describe_en": null,
+    "hasDescription": null,
+    "hasInstructor": null,
+    "hasTA": null,
+    "hasTextBooks": null,
+    "hasReadings": null,
+    "hasiSoftwares": null,
+    "hasAssistSoftwares": null,
+    "hasObjective": null,
+    "hasWeeklyScds": null,
+    "hasGradeRules": null,
+    "hasGradeRuleDescribe": null,
+    "hasIntegrity": null,
+    "hasCoursePol": null,
+    "hasCourseRem": null,
+    "hasObjectiveReleation": null,
+    "hasTopicSdgs": null,
+    "hasTopicAiIndicators": null,
+    "hasSubTitleDesc": null
+  },
+  "subTitleDesc": null,
+  "description": {
+    "sub_id3": null,
+    "sub_name": "班級活動",
+    "sub_ename": "CLASS ACTIVITY",
+    "describe_ch": "提供學生們與導師建立互動機會，形成良好夥伴關係，以發展實現學生個人、學業、職涯目標，確保及達成學生學習成就。提供生涯規劃及選課諮詢，並導引善用學校各項學習資源與服務，獲得各種學習能力資訊及機會，輔助學生建立完整的學習經驗及歷程，讓學生個人的學習發展，朝向永續學習及成功之路。",
+    "describe_eh": "Providing the interactive opportunity establishes in the students and academic advisor, forms the good partnership. develops realizes student individual, the studies, the duty border goal, guarantees and achieves the student to study the achievement. Provides the profession plan and chooses the class consultation, and guides makes good use of the school each study resources and the service, obtains each kind of learning capability information and the opportunity, the auxiliary student establishes the complete learning experience and the course, lets the student individual study development, faces continues forever to study and the steps to success.",
+    "pre_subname": "",
+    "pre_sub_id3": null,
+    "pre_sub_ename": "",
+    "pre_describe": null,
+    "pre_describe_en": null,
+    "scr_credit": 0.0
+  },
+  "targets": [
+    {
+      "seq": 1,
+      "describe_ch": "班級活動及諮詢：培養學生責任感與凝聚班級向心力。",
+      "describe_en": "Class Activities Operation and Advising: Cultivate students' responsibilities and enhance the sense of belonging."
+    },
+    {
+      "seq": 2,
+      "describe_ch": "個人成長：協助同學發展核心軟技能及決策制訂能力，以及從各種學習經驗當中獲得綜合技能並能適時運用之。",
+      "describe_en": "Personal growth: Develop core soft skills and decision-making. Be able to identify and communicate the transferable skills gained through your educational experience."
+    },
+    {
+      "seq": 3,
+      "describe_ch": "資源應用：幫助同學分配與有效利用校園資源服務的技巧以達成學生目標。",
+      "describe_en": "Resource identification: Develop skills in locating and effectively using information and resources that help you achieve your goals."
+    },
+    {
+      "seq": 4,
+      "describe_ch": "職涯規劃：讓同學瞭解在課堂學習經驗與個人學業、職涯及制訂目標之間的關係。",
+      "describe_en": "Curriculum integration: Understand the relationship between your classroom experiences and your academic, career, and personal goals."
+    },
+    {
+      "seq": 5,
+      "describe_ch": "經驗學習：瞭解包含課堂外學習經驗的重要性。",
+      "describe_en": "Experiential learning: Understand the importance of including experiences outside of the classroom in your educational plan."
+    }
+  ],
+  "teachersInfo": [
+    {
+      "cname": "郭士煒",
+      "ename": "SHIH-WEI GUO",
+      "period": "(Mon)06-07 資電218,(Wed)03-04 資電218",
+      "roletype": 0,
+      "email": "swguo@o365.fcu.edu.tw",
+      "ext": "3756"
+    }
+  ],
+  "textBooks": {
+    "yms_year": 114.0,
+    "yms_smester": 2.0,
+    "cls_id": "CE07111",
+    "sub_id": "00001",
+    "scr_dup": "001",
+    "tpb_seq": 1,
+    "tpb_book": "<div>教師自編學習內容</div>\n",
+    "tpb_book_en": null
+  },
+  "readings": {
+    "yms_year": 114.0,
+    "yms_smester": 2.0,
+    "cls_id": "CE07111",
+    "sub_id": "00001",
+    "scr_dup": "001",
+    "tpc_seq": 1,
+    "tpc_book": "<div>教師自編學習內容</div>\n",
+    "tpc_book_en": null
+  },
+  "iSoftwares": [],
+  "assistSoftwares": [],
+  "weeklyScds": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CE07111",
+      "sub_id": "00001",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "2",
+      "tpd_reading": "<div><strong>班級經營及凝聚</strong></div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": null,
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": "班級導師宣講",
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CE07111",
+      "sub_id": "00001",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "3",
+      "tpd_reading": "<div><strong>生活導師</strong></div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": null,
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": "學務處宣講：生活教育、交通安全、品德教育、防詐騙等。",
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CE07111",
+      "sub_id": "00001",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "4-5",
+      "tpd_reading": "<div>班會或專題演講</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": null,
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": "視班級需求安排 班會 或 專題演講，班會著重於處理班級行政事務、增進師生與同儕互動，強化班級凝聚力；專題演講則邀請校內外專家或校友，針對學術誠信、學習策略、心理健康、職涯探索等議題進行分享，引導學生拓展視野並連結大學學習與未來發展。",
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CE07111",
+      "sub_id": "00001",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "6",
+      "tpd_reading": "<div>學生出國研習</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": null,
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": "由國際處介紹介紹短期遊學、校級交換學生、校級雙聯學制以及出國研修獎助學金等相關資訊與經驗分享。",
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CE07111",
+      "sub_id": "00001",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "7",
+      "tpd_reading": "<div>清明連假</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": null,
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": "停課",
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CE07111",
+      "sub_id": "00001",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "8-15",
+      "tpd_reading": "<div>班會或專題演講</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": null,
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": "視班級需求安排 班會 或 專題演講，班會著重於處理班級行政事務、增進師生與同儕互動，強化班級凝聚力；專題演講則邀請校內外專家或校友，針對學術誠信、學習策略、心理健康、職涯探索等議題進行分享，引導學生拓展視野並連結大學學習與未來發展。",
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CE07111",
+      "sub_id": "00001",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "16",
+      "tpd_reading": "<div>畢典補假</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": null,
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": "停課",
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    }
+  ],
+  "gradeRules": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CE07111",
+      "sub_id": "00001",
+      "scr_dup": "001",
+      "evalb_id": "L4",
+      "score_rate": 40,
+      "evalb_memo": "課堂討論參與",
+      "evalb_memo_en": "Attendances",
+      "evalb_name": "出席狀況",
+      "evalb_name_en": "Attendances",
+      "seq": 1
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CE07111",
+      "sub_id": "00001",
+      "scr_dup": "001",
+      "evalb_id": "L3",
+      "score_rate": 60,
+      "evalb_memo": "課堂討論參與",
+      "evalb_memo_en": "Participation",
+      "evalb_name": "課堂討論參與",
+      "evalb_name_en": "Participation",
+      "seq": 2
+    }
+  ],
+  "gradeRuleDescribe": {
+    "yms_year": 114.0,
+    "yms_smester": 2.0,
+    "cls_id": "CE07111",
+    "sub_id": "00001",
+    "scr_dup": "001",
+    "tpa_score_new": "<div>本課程以議題單元方式，引導學生探索內容，於班級活動課程中依單元性質，進行測評、或訪談等作法，以了解學生單元學習情形，並將結果回饋相關課程進行後續之課程學習成效評估。</div>\n",
+    "tpa_score_new_en": "<div>This course is organized around thematic units designed to guide students in exploring specific topics. Depending on the nature of each unit, classroom activities may include assessments, interviews, or other evaluative methods to determine students&rsquo; understanding of the material. The results will be used to provide feedback and to inform subsequent evaluations of overall course learning outcomes.</div>\n",
+    "course_pol": "1. 準時出席\n準時到課，不遲到、不早退。\n若需請假，事先告知並完成請假手續。\n\n2. 尊重他人\n發言前先舉手，不打斷同學或老師的發言。\n尊重不同的想法與意見，營造友善的學習環境。\n\n3. 積極參與\n認真聽講，專心參與課堂活動與討論。\n勇於提問，主動分享想法。\n\n3. 專注學習\n上課時避免滑手機、聊天或做與課程無關的事。\n電子設備以「學習為優先」，需要用電腦/平板者請先徵得老師同意。\n\n4. 誠信原則\n作業、報告與考試應獨立完成，不抄襲、不作弊。\n尊重智慧財產權，引用資料須註明來源。\n\n5. 維護環境\n保持教室整潔，桌椅回復原位。\n珍惜公共設備，愛護校園資源。",
+    "course_pol_en": "1. Punctual Attendance\n   Students are expected to arrive on time for each class session and to remain in class for the full duration. Late arrival and early departure should be avoided. In the event that an absence is necessary, students must notify the instructor in advance and complete the required leave procedures.\n\n2. Respect for Others\n   Students should raise their hands before speaking and refrain from interrupting classmates or the instructor. All participants are expected to respect diverse perspectives and opinions in order to maintain a constructive and supportive learning environment.\n\n3. Active Participation\n   Students are expected to listen attentively and engage fully in classroom activities and discussions. Asking questions and contributing ideas are encouraged as part of the learning process.\n\n4. Focused Learning\n   During class, students should avoid using mobile phones, engaging in side conversations, or participating in activities unrelated to the course. Electronic devices should be used primarily for academic purposes. Students who need to use a laptop or tablet must obtain the instructor’s permission in advance.\n\n5. Academic Integrity\n   All assignments, reports, and examinations must be completed independently. Plagiarism and other forms of academic dishonesty are not permitted. Students are required to respect intellectual property rights and provide proper citations for all referenced materials.\n\n6. Maintenance of the Learning Environment\n   Students are responsible for keeping the classroom clean and returning desks and chairs to their original positions after use. Public equipment and campus resources should be handled with care and respect.",
+    "course_rem": "請隨時留意iLearn公告&訊息，課後有任何疑慮亦可透過Teams & iLearn聯絡",
+    "course_rem_en": "Students are expected to regularly review announcements and messages posted on iLearn to remain informed about course updates. If any questions or concerns arise after class, students may contact the instructor through Teams or iLearn for further clarification.",
+    "ais_meno": "<ol>\n\t<li>\n\t<div><strong>不收補交作業</strong>：所有作業須依照規定期限繳交，逾期一律不收。</div>\n\t</li>\n\t<li>\n\t<div><strong>不調整學期成績</strong>：學期成績依據平時表現、作業與考試評量結果計算，不另行加分或調分。</div>\n\t</li>\n\t<li>\n\t<div><strong>請假須事先告知</strong>：若有事需請假，務必於課前依程序完成請假手續，否則以缺課論。</div>\n\t</li>\n\t<li>\n\t<div><strong>作業須獨立完成</strong>：嚴禁抄襲、重複提交或未經允許之合作。</div>\n\t</li>\n\t<li>\n\t<div><strong>考試誠信原則</strong>：如有作弊行為，依校規送校嚴辦。</div>\n\t</li>\n</ol>\n",
+    "ais_meno_en": "<div><strong>No Acceptance of Late Assignments</strong><br />\nAll assignments must be submitted by the specified deadlines. Late submissions will not be accepted under any circumstances.</div>\n\n<div><strong>No Adjustment of Final Grades</strong><br />\nFinal course grades are calculated based on overall performance, including coursework, assignments, and examination results. Additional points or grade adjustments will not be granted.</div>\n\n<div><strong>Advance Notice Required for Absences</strong><br />\nStudents who need to be absent must complete the required leave procedures prior to the class session. Failure to do so will result in the absence being recorded accordingly.</div>\n\n<div><strong>Independent Completion of Assignments</strong><br />\nAll coursework must be completed independently. Plagiarism, duplicate submissions, or unauthorized collaboration are strictly prohibited.</div>\n\n<div><strong>Examination Integrity Policy</strong><br />\nAny form of academic dishonesty during examinations will be handled in accordance with university regulations and may be referred to the appropriate institutional authorities for disciplinary action.</div>\n",
+    "ilearn_mk": "Y"
+  },
+  "integrity": {
+    "yms_year": 114.0,
+    "yms_smester": 2.0,
+    "cls_id": "CE07111",
+    "sub_id": "00001",
+    "scr_dup": "001",
+    "tpa_score_new": "<div>本課程以議題單元方式，引導學生探索內容，於班級活動課程中依單元性質，進行測評、或訪談等作法，以了解學生單元學習情形，並將結果回饋相關課程進行後續之課程學習成效評估。</div>\n",
+    "tpa_score_new_en": "<div>This course is organized around thematic units designed to guide students in exploring specific topics. Depending on the nature of each unit, classroom activities may include assessments, interviews, or other evaluative methods to determine students&rsquo; understanding of the material. The results will be used to provide feedback and to inform subsequent evaluations of overall course learning outcomes.</div>\n",
+    "course_pol": "1. 準時出席\n準時到課，不遲到、不早退。\n若需請假，事先告知並完成請假手續。\n\n2. 尊重他人\n發言前先舉手，不打斷同學或老師的發言。\n尊重不同的想法與意見，營造友善的學習環境。\n\n3. 積極參與\n認真聽講，專心參與課堂活動與討論。\n勇於提問，主動分享想法。\n\n3. 專注學習\n上課時避免滑手機、聊天或做與課程無關的事。\n電子設備以「學習為優先」，需要用電腦/平板者請先徵得老師同意。\n\n4. 誠信原則\n作業、報告與考試應獨立完成，不抄襲、不作弊。\n尊重智慧財產權，引用資料須註明來源。\n\n5. 維護環境\n保持教室整潔，桌椅回復原位。\n珍惜公共設備，愛護校園資源。",
+    "course_pol_en": "1. Punctual Attendance\n   Students are expected to arrive on time for each class session and to remain in class for the full duration. Late arrival and early departure should be avoided. In the event that an absence is necessary, students must notify the instructor in advance and complete the required leave procedures.\n\n2. Respect for Others\n   Students should raise their hands before speaking and refrain from interrupting classmates or the instructor. All participants are expected to respect diverse perspectives and opinions in order to maintain a constructive and supportive learning environment.\n\n3. Active Participation\n   Students are expected to listen attentively and engage fully in classroom activities and discussions. Asking questions and contributing ideas are encouraged as part of the learning process.\n\n4. Focused Learning\n   During class, students should avoid using mobile phones, engaging in side conversations, or participating in activities unrelated to the course. Electronic devices should be used primarily for academic purposes. Students who need to use a laptop or tablet must obtain the instructor’s permission in advance.\n\n5. Academic Integrity\n   All assignments, reports, and examinations must be completed independently. Plagiarism and other forms of academic dishonesty are not permitted. Students are required to respect intellectual property rights and provide proper citations for all referenced materials.\n\n6. Maintenance of the Learning Environment\n   Students are responsible for keeping the classroom clean and returning desks and chairs to their original positions after use. Public equipment and campus resources should be handled with care and respect.",
+    "course_rem": "請隨時留意iLearn公告&訊息，課後有任何疑慮亦可透過Teams & iLearn聯絡",
+    "course_rem_en": "Students are expected to regularly review announcements and messages posted on iLearn to remain informed about course updates. If any questions or concerns arise after class, students may contact the instructor through Teams or iLearn for further clarification.",
+    "ais_meno": "<ol>\n\t<li>\n\t<div><strong>不收補交作業</strong>：所有作業須依照規定期限繳交，逾期一律不收。</div>\n\t</li>\n\t<li>\n\t<div><strong>不調整學期成績</strong>：學期成績依據平時表現、作業與考試評量結果計算，不另行加分或調分。</div>\n\t</li>\n\t<li>\n\t<div><strong>請假須事先告知</strong>：若有事需請假，務必於課前依程序完成請假手續，否則以缺課論。</div>\n\t</li>\n\t<li>\n\t<div><strong>作業須獨立完成</strong>：嚴禁抄襲、重複提交或未經允許之合作。</div>\n\t</li>\n\t<li>\n\t<div><strong>考試誠信原則</strong>：如有作弊行為，依校規送校嚴辦。</div>\n\t</li>\n</ol>\n",
+    "ais_meno_en": "<div><strong>No Acceptance of Late Assignments</strong><br />\nAll assignments must be submitted by the specified deadlines. Late submissions will not be accepted under any circumstances.</div>\n\n<div><strong>No Adjustment of Final Grades</strong><br />\nFinal course grades are calculated based on overall performance, including coursework, assignments, and examination results. Additional points or grade adjustments will not be granted.</div>\n\n<div><strong>Advance Notice Required for Absences</strong><br />\nStudents who need to be absent must complete the required leave procedures prior to the class session. Failure to do so will result in the absence being recorded accordingly.</div>\n\n<div><strong>Independent Completion of Assignments</strong><br />\nAll coursework must be completed independently. Plagiarism, duplicate submissions, or unauthorized collaboration are strictly prohibited.</div>\n\n<div><strong>Examination Integrity Policy</strong><br />\nAny form of academic dishonesty during examinations will be handled in accordance with university regulations and may be referred to the appropriate institutional authorities for disciplinary action.</div>\n",
+    "ilearn_mk": "Y"
+  },
+  "policy": {
+    "yms_year": 114.0,
+    "yms_smester": 2.0,
+    "cls_id": "CE07111",
+    "sub_id": "00001",
+    "scr_dup": "001",
+    "tpa_score_new": "<div>本課程以議題單元方式，引導學生探索內容，於班級活動課程中依單元性質，進行測評、或訪談等作法，以了解學生單元學習情形，並將結果回饋相關課程進行後續之課程學習成效評估。</div>\n",
+    "tpa_score_new_en": "<div>This course is organized around thematic units designed to guide students in exploring specific topics. Depending on the nature of each unit, classroom activities may include assessments, interviews, or other evaluative methods to determine students&rsquo; understanding of the material. The results will be used to provide feedback and to inform subsequent evaluations of overall course learning outcomes.</div>\n",
+    "course_pol": "1. 準時出席\n準時到課，不遲到、不早退。\n若需請假，事先告知並完成請假手續。\n\n2. 尊重他人\n發言前先舉手，不打斷同學或老師的發言。\n尊重不同的想法與意見，營造友善的學習環境。\n\n3. 積極參與\n認真聽講，專心參與課堂活動與討論。\n勇於提問，主動分享想法。\n\n3. 專注學習\n上課時避免滑手機、聊天或做與課程無關的事。\n電子設備以「學習為優先」，需要用電腦/平板者請先徵得老師同意。\n\n4. 誠信原則\n作業、報告與考試應獨立完成，不抄襲、不作弊。\n尊重智慧財產權，引用資料須註明來源。\n\n5. 維護環境\n保持教室整潔，桌椅回復原位。\n珍惜公共設備，愛護校園資源。",
+    "course_pol_en": "1. Punctual Attendance\n   Students are expected to arrive on time for each class session and to remain in class for the full duration. Late arrival and early departure should be avoided. In the event that an absence is necessary, students must notify the instructor in advance and complete the required leave procedures.\n\n2. Respect for Others\n   Students should raise their hands before speaking and refrain from interrupting classmates or the instructor. All participants are expected to respect diverse perspectives and opinions in order to maintain a constructive and supportive learning environment.\n\n3. Active Participation\n   Students are expected to listen attentively and engage fully in classroom activities and discussions. Asking questions and contributing ideas are encouraged as part of the learning process.\n\n4. Focused Learning\n   During class, students should avoid using mobile phones, engaging in side conversations, or participating in activities unrelated to the course. Electronic devices should be used primarily for academic purposes. Students who need to use a laptop or tablet must obtain the instructor’s permission in advance.\n\n5. Academic Integrity\n   All assignments, reports, and examinations must be completed independently. Plagiarism and other forms of academic dishonesty are not permitted. Students are required to respect intellectual property rights and provide proper citations for all referenced materials.\n\n6. Maintenance of the Learning Environment\n   Students are responsible for keeping the classroom clean and returning desks and chairs to their original positions after use. Public equipment and campus resources should be handled with care and respect.",
+    "course_rem": "請隨時留意iLearn公告&訊息，課後有任何疑慮亦可透過Teams & iLearn聯絡",
+    "course_rem_en": "Students are expected to regularly review announcements and messages posted on iLearn to remain informed about course updates. If any questions or concerns arise after class, students may contact the instructor through Teams or iLearn for further clarification.",
+    "ais_meno": "<ol>\n\t<li>\n\t<div><strong>不收補交作業</strong>：所有作業須依照規定期限繳交，逾期一律不收。</div>\n\t</li>\n\t<li>\n\t<div><strong>不調整學期成績</strong>：學期成績依據平時表現、作業與考試評量結果計算，不另行加分或調分。</div>\n\t</li>\n\t<li>\n\t<div><strong>請假須事先告知</strong>：若有事需請假，務必於課前依程序完成請假手續，否則以缺課論。</div>\n\t</li>\n\t<li>\n\t<div><strong>作業須獨立完成</strong>：嚴禁抄襲、重複提交或未經允許之合作。</div>\n\t</li>\n\t<li>\n\t<div><strong>考試誠信原則</strong>：如有作弊行為，依校規送校嚴辦。</div>\n\t</li>\n</ol>\n",
+    "ais_meno_en": "<div><strong>No Acceptance of Late Assignments</strong><br />\nAll assignments must be submitted by the specified deadlines. Late submissions will not be accepted under any circumstances.</div>\n\n<div><strong>No Adjustment of Final Grades</strong><br />\nFinal course grades are calculated based on overall performance, including coursework, assignments, and examination results. Additional points or grade adjustments will not be granted.</div>\n\n<div><strong>Advance Notice Required for Absences</strong><br />\nStudents who need to be absent must complete the required leave procedures prior to the class session. Failure to do so will result in the absence being recorded accordingly.</div>\n\n<div><strong>Independent Completion of Assignments</strong><br />\nAll coursework must be completed independently. Plagiarism, duplicate submissions, or unauthorized collaboration are strictly prohibited.</div>\n\n<div><strong>Examination Integrity Policy</strong><br />\nAny form of academic dishonesty during examinations will be handled in accordance with university regulations and may be referred to the appropriate institutional authorities for disciplinary action.</div>\n",
+    "ilearn_mk": "Y"
+  },
+  "courseBankC": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CE07111",
+      "sub_id": "00001",
+      "scr_dup": "001",
+      "seq": 1,
+      "describe_ch": "班級活動及諮詢：培養學生責任感與凝聚班級向心力。",
+      "describe_en": "Class Activities Operation and Advising: Cultivate students' responsibilities and enhance the sense of belonging.",
+      "core_id": "F",
+      "core_item": "團隊合作的能力：能與團隊成員共享合作目標，一同建構與成就集體的理想與抱負。 \r\n\r\n",
+      "core_eng": "Teamwork and Collaboration：Ability to work collaboratively with others to achieve shared objectives. \r\n\r\n",
+      "core_level": "3 ",
+      "strgy": [
+        "10"
+      ],
+      "evalb": [
+        "L3"
+      ],
+      "strgy_name": [
+        "小組討論及活動"
+      ],
+      "strgy_name_en": [
+        "Group activity & discussion"
+      ],
+      "evalb_name": [
+        "課堂討論參與"
+      ],
+      "evalb_name_en": [
+        "Participation"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE07111",
+          "sub_id": "00001",
+          "scr_dup": "001",
+          "seq": 1,
+          "strgy_id": "10",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE07111",
+          "sub_id": "00001",
+          "scr_dup": "001",
+          "seq": 1,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "L3",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CE07111",
+      "sub_id": "00001",
+      "scr_dup": "001",
+      "seq": 2,
+      "describe_ch": "個人成長：協助同學發展核心軟技能及決策制訂能力，以及從各種學習經驗當中獲得綜合技能並能適時運用之。",
+      "describe_en": "Personal growth: Develop core soft skills and decision-making. Be able to identify and communicate the transferable skills gained through your educational experience.",
+      "core_id": "F",
+      "core_item": "團隊合作的能力：能與團隊成員共享合作目標，一同建構與成就集體的理想與抱負。 \r\n\r\n",
+      "core_eng": "Teamwork and Collaboration：Ability to work collaboratively with others to achieve shared objectives. \r\n\r\n",
+      "core_level": "3 ",
+      "strgy": [
+        "10"
+      ],
+      "evalb": [
+        "L3"
+      ],
+      "strgy_name": [
+        "小組討論及活動"
+      ],
+      "strgy_name_en": [
+        "Group activity & discussion"
+      ],
+      "evalb_name": [
+        "課堂討論參與"
+      ],
+      "evalb_name_en": [
+        "Participation"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE07111",
+          "sub_id": "00001",
+          "scr_dup": "001",
+          "seq": 2,
+          "strgy_id": "10",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE07111",
+          "sub_id": "00001",
+          "scr_dup": "001",
+          "seq": 2,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "L3",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CE07111",
+      "sub_id": "00001",
+      "scr_dup": "001",
+      "seq": 3,
+      "describe_ch": "資源應用：幫助同學分配與有效利用校園資源服務的技巧以達成學生目標。",
+      "describe_en": "Resource identification: Develop skills in locating and effectively using information and resources that help you achieve your goals.",
+      "core_id": "C",
+      "core_item": "跨域整合的能力：能夠連結不同學科領域的知識，融會貫通，以應對社會複雜挑戰。 \r\n\r\n",
+      "core_eng": "Interdisciplinary Integration：Ability to integrate knowledge from different academic fields to address complex issues.",
+      "core_level": "3 ",
+      "strgy": [
+        "10"
+      ],
+      "evalb": [
+        "L3"
+      ],
+      "strgy_name": [
+        "小組討論及活動"
+      ],
+      "strgy_name_en": [
+        "Group activity & discussion"
+      ],
+      "evalb_name": [
+        "課堂討論參與"
+      ],
+      "evalb_name_en": [
+        "Participation"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE07111",
+          "sub_id": "00001",
+          "scr_dup": "001",
+          "seq": 3,
+          "strgy_id": "10",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE07111",
+          "sub_id": "00001",
+          "scr_dup": "001",
+          "seq": 3,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "L3",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CE07111",
+      "sub_id": "00001",
+      "scr_dup": "001",
+      "seq": 4,
+      "describe_ch": "職涯規劃：讓同學瞭解在課堂學習經驗與個人學業、職涯及制訂目標之間的關係。",
+      "describe_en": "Curriculum integration: Understand the relationship between your classroom experiences and your academic, career, and personal goals.",
+      "core_id": "A",
+      "core_item": "邏輯思辨的能力：具備清晰的邏輯思維，能夠深入分析議題並建構嚴謹論述。 \r\n\r\n",
+      "core_eng": "Logical Thinking：Ability to apply clear logical reasoning to analyzing issues and developing well-structured arguments.",
+      "core_level": "3 ",
+      "strgy": [
+        "10"
+      ],
+      "evalb": [
+        "L3"
+      ],
+      "strgy_name": [
+        "小組討論及活動"
+      ],
+      "strgy_name_en": [
+        "Group activity & discussion"
+      ],
+      "evalb_name": [
+        "課堂討論參與"
+      ],
+      "evalb_name_en": [
+        "Participation"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE07111",
+          "sub_id": "00001",
+          "scr_dup": "001",
+          "seq": 4,
+          "strgy_id": "10",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE07111",
+          "sub_id": "00001",
+          "scr_dup": "001",
+          "seq": 4,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "L3",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CE07111",
+      "sub_id": "00001",
+      "scr_dup": "001",
+      "seq": 5,
+      "describe_ch": "經驗學習：瞭解包含課堂外學習經驗的重要性。",
+      "describe_en": "Experiential learning: Understand the importance of including experiences outside of the classroom in your educational plan.",
+      "core_id": "F",
+      "core_item": "團隊合作的能力：能與團隊成員共享合作目標，一同建構與成就集體的理想與抱負。 \r\n\r\n",
+      "core_eng": "Teamwork and Collaboration：Ability to work collaboratively with others to achieve shared objectives. \r\n\r\n",
+      "core_level": "3 ",
+      "strgy": [
+        "10"
+      ],
+      "evalb": [
+        "L3"
+      ],
+      "strgy_name": [
+        "小組討論及活動"
+      ],
+      "strgy_name_en": [
+        "Group activity & discussion"
+      ],
+      "evalb_name": [
+        "課堂討論參與"
+      ],
+      "evalb_name_en": [
+        "Participation"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE07111",
+          "sub_id": "00001",
+          "scr_dup": "001",
+          "seq": 5,
+          "strgy_id": "10",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE07111",
+          "sub_id": "00001",
+          "scr_dup": "001",
+          "seq": 5,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "L3",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    }
+  ],
+  "topicSdgs": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CE07111",
+      "sub_id": "00001",
+      "scr_dup": "001",
+      "sdgs_seq": 3,
+      "main_related": "Y",
+      "ind_related": "N",
+      "iss_name": "社會進步面",
+      "iss_ename": "Social Progress",
+      "content_name": "促進身心健康",
+      "content_ename": "Good Health and Well-Being"
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CE07111",
+      "sub_id": "00001",
+      "scr_dup": "001",
+      "sdgs_seq": 5,
+      "main_related": "Y",
+      "ind_related": "N",
+      "iss_name": "社會進步面",
+      "iss_ename": "Social Progress",
+      "content_name": "性別平權",
+      "content_ename": "Gender Equity"
+    }
+  ],
+  "topicAiIndicators": [],
+  "learnHours": {
+    "total": 0.0,
+    "tpdOnlineAsyTotal": 0.0,
+    "tpdOnlineSynTotal": 0.0,
+    "tpdOnlineFaceTotal": 0.0,
+    "asySynInTotalPercent": 0.0
+  },
+  "crossVerYear": 114
+}

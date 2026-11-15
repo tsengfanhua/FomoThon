@@ -1,0 +1,50 @@
+[
+  {
+    "academic_year": 114,
+    "semester": 2,
+    "course_code": "0772",
+    "course_name": "Python程式設計與應用",
+    "credits": 3.0,
+    "grade": 86
+  },
+  {
+    "academic_year": 114,
+    "semester": 2,
+    "course_code": "1193",
+    "course_name": "資料庫設計",
+    "credits": 3.0,
+    "grade": 79
+  },
+  {
+    "academic_year": 114,
+    "semester": 2,
+    "course_code": "0051",
+    "course_name": "機器學習",
+    "credits": 3.0,
+    "grade": 91
+  },
+  {
+    "academic_year": 114,
+    "semester": 2,
+    "course_code": "1817",
+    "course_name": "資料科學實務應用",
+    "credits": 3.0,
+    "grade": 84
+  },
+  {
+    "academic_year": 114,
+    "semester": 2,
+    "course_code": "0066",
+    "course_name": "統計學(二)",
+    "credits": 3.0,
+    "grade": 88
+  },
+  {
+    "academic_year": 114,
+    "semester": 2,
+    "course_code": "0766",
+    "course_name": "人工智慧導論",
+    "credits": 3.0,
+    "grade": 82
+  }
+]

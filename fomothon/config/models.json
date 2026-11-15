@@ -1,0 +1,65 @@
+{
+  "_meta": {
+    "version": "2026-11-12",
+    "note": "模型路由表。以 FOMO_LLM_PROFILE 選擇一組路由；每個用途依序嘗試清單中的模型，呼叫失敗或輸出未通過檢核就換下一個，全部失敗才退回規則。字串中的 ${變數:-預設值} 會以環境變數替換；金鑰只以環境變數名稱引用，不寫在檔案裡。OpenAI、Gemini 與地端模型的預設名稱只是範例，請依帳號或主機實際可用的模型設定對應的環境變數。",
+    "purposes": {
+      "intent": "任務辨識（分類，輸出受列舉值限制）",
+      "next_action": "協調器選擇下一步（只能從政策允許的動作中選）",
+      "syllabus_extract": "課綱技能萃取（技能 ID 必須在指標庫內、出處必須是課綱原文）",
+      "narrative": "建議說明（必須通過事實檢核；送出前人名一律以代號取代）"
+    },
+    "locations": {
+      "cloud": "雲端 API：送出前遮蔽個資（Email、電話、身分證字號、學號），人名以代號取代",
+      "local": "校內主機（例如 Ollama、vLLM）：資料不離開校園"
+    }
+  },
+  "endpoints": {
+    "claude-opus": {"provider": "anthropic", "model": "claude-opus-5-5", "location": "cloud"},
+    "claude-sonnet": {"provider": "anthropic", "model": "claude-sonnet-5-5", "location": "cloud"},
+    "claude-haiku": {"provider": "anthropic", "model": "claude-haiku-5-5", "location": "cloud"},
+    "openai": {
+      "provider": "openai-compatible", "model": "${FOMO_OPENAI_MODEL:-gpt-5-mini}", "baseUrl": "${FOMO_OPENAI_BASE_URL:-https://api.openai.com/v1}",
+      "apiKeyEnv": "OPENAI_API_KEY", "location": "cloud", "price": {"in": "${FOMO_OPENAI_PRICE_IN:-}", "out": "${FOMO_OPENAI_PRICE_OUT:-}"}
+    },
+    "gemini": {
+      "provider": "openai-compatible", "model": "${FOMO_GEMINI_MODEL:-gemini-2.5-flash}", "baseUrl": "https://generativelanguage.googleapis.com/v1beta/openai",
+      "apiKeyEnv": "GEMINI_API_KEY", "location": "cloud", "price": {"in": "${FOMO_GEMINI_PRICE_IN:-}", "out": "${FOMO_GEMINI_PRICE_OUT:-}"}
+    },
+    "local": {
+      "provider": "openai-compatible", "model": "${FOMO_LOCAL_MODEL:-qwen3:8b}", "baseUrl": "${FOMO_LOCAL_BASE_URL:-http://127.0.0.1:11434/v1}",
+      "apiKeyEnv": null, "location": "local", "price": {"in": 0, "out": 0}
+    }
+  },
+  "profiles": {
+    "claude": {
+      "description": "全部使用 Claude Opus 5.5",
+      "routes": {"default": ["claude-opus"]}
+    },
+    "claude-tiered": {
+      "description": "依任務難度分流：分類用 Haiku 5.5，萃取與說明用 Sonnet 5.5；未通過檢核就升級到更強的模型",
+      "routes": {
+        "intent": ["claude-haiku", "claude-sonnet"],
+        "next_action": ["claude-haiku", "claude-sonnet"],
+        "syllabus_extract": ["claude-sonnet", "claude-opus"],
+        "narrative": ["claude-sonnet", "claude-opus"],
+        "default": ["claude-sonnet"]
+      }
+    },
+    "local": {
+      "description": "全部在校內主機執行（OpenAI 相容 API，例如 Ollama），資料不離開校園",
+      "routes": {"default": ["local"]}
+    },
+    "hybrid": {
+      "description": "地端優先、雲端備援：先用校內模型，呼叫失敗或未通過檢核才升級雲端模型",
+      "routes": {"default": ["local", "claude-sonnet"]}
+    },
+    "openai": {
+      "description": "OpenAI 相容端點",
+      "routes": {"default": ["openai"]}
+    },
+    "gemini": {
+      "description": "Gemini（OpenAI 相容端點）",
+      "routes": {"default": ["gemini"]}
+    }
+  }
+}

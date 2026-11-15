@@ -1,0 +1,391 @@
+{
+  "teacherId": "T91003",
+  "name": "魏秀娟",
+  "mainUnit": "工程與科學學院",
+  "detailUnit": "應用數學系",
+  "skill": [
+    "動態系統Dynamical system",
+    "科學計算Scientific computation",
+    "微分方程Differential equation",
+    "生物動態系統建模Mathematical modeling of biological dynamics",
+    "派調最佳化建模Dispatch Optimization Modeling",
+    "腫瘤生長與治療建模Mathematical modeling of tumor growth and treatment"
+  ],
+  "edu": [
+    "美國密西根州立大學 應用數學系 博士",
+    "清華大學 工業工程學系 碩士",
+    "交通大學 應用數學系 學士"
+  ],
+  "fcuExp": [
+    "應用數學系 系主任",
+    "數據科學碩士學位學程 主任",
+    "應用數學學系 助理教授",
+    "應用數學系 副教授",
+    "應用數學系 教授",
+    "應用數學系 教授",
+    "應用數學系 教授",
+    "應用數學系 教授",
+    "應用數學系 教授"
+  ],
+  "currjob": [],
+  "otherExp": [
+    "嘉義大同商專 資訊管理科 助理教授",
+    "中央研究院  博士後研究人員",
+    "美國密西根州立大學  博士後研究人員",
+    "美國密西根州立大學  助教",
+    "中山科學研究院 航空發展研究中心 "
+  ],
+  "journal": [
+    {
+      "論文名稱": "The role of immune cells in resistance to oncolytic viral therapy",
+      "期刊名稱": "Mathematical Biosciences and Engineering (SCIE)",
+      "作者群": "Prathibha Ambegoda, Hsiu-Chuan Wei, and Sophia R-J Jang*"
+    },
+    {
+      "論文名稱": "The role of tumor activation and inhibition with saturation effects in a mathematical model of tumor and immune system interactions undergoing oncolytic viral therapy",
+      "期刊名稱": "Mathematical Methods in the Applied Sciences (SCIE)",
+      "作者群": "G. V. R. K. Vithanage, Hsiu-Chuan Wei and Sophia R-J Jang"
+    },
+    {
+      "論文名稱": "Mathematical modeling of tumor growth and treatment: Triple\nnegative breast cancer",
+      "期刊名稱": "Mathematics and Computers in Simulation (SCIE)",
+      "作者群": "Hsiu-Chuan Wei*"
+    },
+    {
+      "論文名稱": "Mathematical modeling of SARS-nCoV-2 virus in Tamil Nadu, South India",
+      "期刊名稱": "Mathematical Biosciences and Engineering (SCIE)",
+      "作者群": "Avinash Shankaranarayanan and Hsiu-Chuan Wei*"
+    },
+    {
+      "論文名稱": "ON A MATHEMATICAL MODEL OF TUMOR-IMMUNE\nSYSTEM INTERACTIONS WITH AN ONCOLYTIC\nVIRUS THERAPY",
+      "期刊名稱": "Discrete and Continuous Dynamical Systems series B (SCIE)",
+      "作者群": "Sophia R-J Jang*, Hsiu-Chuan Wei"
+    },
+    {
+      "論文名稱": "A model of tumor-immune system interactions with\nhealthy cells and immunotherapies",
+      "期刊名稱": "Mathematical Methods in the Applied Sciences (SCIE)",
+      "作者群": "Jui-Ling Yu*, Hsiu-Chuan Wei, Sophia R-J Jang"
+    },
+    {
+      "論文名稱": "Bistability in a model of tumor-immune system interactions with an\noncolytic viral therapy",
+      "期刊名稱": "Mathematical Biosciences and Engineering (SCIE)",
+      "作者群": "G.V.R.K. Vithanage, Hsiu-Chuan Wei, Sophia R-J Jang*"
+    },
+    {
+      "論文名稱": "Deterministic Predator-Prey Models With Disease in the Prey Population",
+      "期刊名稱": "Journal of Biological Systems (SCIE)",
+      "作者群": "Sophia R.-J. Jang, Hsiu-Chuan Wei"
+    },
+    {
+      "論文名稱": "Mathematical modeling of ER-positive breast cancer treatment with\nAZD9496 and Palbociclib",
+      "期刊名稱": "AIMS Mathematics (SCIE)",
+      "作者群": "Hsiu-Chuan Wei"
+    },
+    {
+      "論文名稱": "Bifurcation Analysis of a Mathematical Model of Tumor\nGrowth in MCF-7 Breast Cancer Cell Line",
+      "期刊名稱": "EPiC Series in Computing (Scopus)",
+      "作者群": "Hsiu-Chuan Wei"
+    },
+    {
+      "論文名稱": "Mathematical modeling of tumor growth: the MCF-7 breast cancer cell line",
+      "期刊名稱": "Mathematical Biosciences and Engineering (SCIE)",
+      "作者群": "Hsiu-Chuan Wei"
+    },
+    {
+      "論文名稱": "A mathematical model of intraguild predation with prey switching",
+      "期刊名稱": "Mathematics and Computers in Simulation (SCIE)",
+      "作者群": "Hsiu-Chuan Wei"
+    },
+    {
+      "論文名稱": "A Mathematical Model of Tumor Growth with Beddington-DeAngelis Functional Response: A Case of Cancer without Disease",
+      "期刊名稱": "Journal of Biological Dynamics (SCIE)",
+      "作者群": "Wei, Hsiu-Chuan*"
+    },
+    {
+      "論文名稱": "Periodically Pulsed Immunotherapy in a Mathematical Model of\r\nTumor, CD4+ T Cells, and Antitumor Cytokine Interactions",
+      "期刊名稱": "Computational and Mathematical Methods in Medicine (SCIE)",
+      "作者群": "Hsiu-Chuan Wei, Jui-Ling Yu,  and Chia-Yu Hsu1"
+    },
+    {
+      "論文名稱": "Periodically Pulsed Immunotherapy in a Mathematical Model of Tumor, CD4^+ T Cells, and Antitumor Cytokine Interactions",
+      "期刊名稱": "Computational and Mathematical Methods in Medicine (SCIE)",
+      "作者群": "Hsiu-Chuan Wei, Jui-Ling Yu*, and Chia-Yu Hsu"
+    },
+    {
+      "論文名稱": "MATHEMATICAL AND NUMERICAL ANALYSIS OF A\r\nMATHEMATICAL MODEL OF MIXED IMMUNOTHERAPY AND\r\nCHEMOTHERAPY OF CANCER",
+      "期刊名稱": "Discrete and Continuous Dynamical Systems Series B (SCIE)",
+      "作者群": "Wei, Hsiu-Chuan*"
+    },
+    {
+      "論文名稱": "On the Codimension-Two and -Three Bifurcations of a Food Web of Four Species",
+      "期刊名稱": "Konuralp Journal of Mathematics ()",
+      "作者群": "1.\tHsiu-Chuan Wei*, Jenn-Tsann Lin, Shin-Feng Hwang, Yuh-Yih Chen"
+    },
+    {
+      "論文名稱": "Mathematical Analysis of a Class of Surface-Tension Driven Flows",
+      "期刊名稱": "Advances in Research ()",
+      "作者群": "Yuh-Yih Chen, Jenn-Tsann Lin*, Hsiu-Chuan Wei"
+    },
+    {
+      "論文名稱": "A modified numerical method for bifurcations of fixed points of ODE systems with periodically pulsed inputs",
+      "期刊名稱": "Applied Mathematics and computation (SCIE)",
+      "作者群": "Hsui-Chuan Wei*"
+    },
+    {
+      "論文名稱": "A numerical study of a mathematical model of pulsed immunotherapy for superficial bladder tumor",
+      "期刊名稱": "Japan Journal of Industrial and Applied Mathematics (SCIE)",
+      "作者群": "Wei, Hsiu-Chuan*"
+    },
+    {
+      "論文名稱": "Periodically Pulsed Immunotherapy in a Mathematical Model of Tumor-Immune Interaction",
+      "期刊名稱": "International Journal of Bifurcation and Chaos (SCIE)",
+      "作者群": "Wei, Hsiu-Chuan*, Lin, Jenn-Tsann"
+    },
+    {
+      "論文名稱": "The role of initial tumor biomass size in a mathematical model of periodically pulsed chemotherapy",
+      "期刊名稱": "Computers and Mathematics with Applications (SCIE)",
+      "作者群": "Hsiu-Chuan Wei, Shin-Feng Hwang, Jenn-Tsann Lin, Tze-Jang Chen"
+    },
+    {
+      "論文名稱": "Qualitative simulation of the growth of electrolessly deposited Cu thin films",
+      "期刊名稱": "Mathematical Problems in Engineering (SCIE)",
+      "作者群": "Wei, Hsiu-Chuan*"
+    },
+    {
+      "論文名稱": "The dynamics of the Luo-Rudy model",
+      "期刊名稱": "International Journal of Bifurcation and Chaos (SCIE)",
+      "作者群": "Hsiu-Chuan Wei*"
+    },
+    {
+      "論文名稱": "Numerical revisit to a class of one-predator, two-prey models",
+      "期刊名稱": "International Journal of Bifurcation and Chaos (SCIE)",
+      "作者群": "Hsiu-Chuan Wei*"
+    },
+    {
+      "論文名稱": "On the bifurcation analysis of a food web of four species",
+      "期刊名稱": "Applied Mathematics and Computation (SCIE)",
+      "作者群": "Hsiu-Chuan Wei*"
+    },
+    {
+      "論文名稱": "Oregonator-Based Simulation of the Belousov-Zhabotinskii Reaction",
+      "期刊名稱": "International Journal of Bifurcation and Chaos (SCIE)",
+      "作者群": "Mo-Hong Chou,  Hsiu-Chuan Wei, and Yu-Tuan Lin"
+    },
+    {
+      "論文名稱": "An anatomy of Lagrangian chaos in low Renolds number flow between two eccentric rotating cylinders",
+      "期刊名稱": "International Journal of Bifurcation and Chaos (SCIE)",
+      "作者群": "Mo-Hong Chou and Hsiu-Chuan Wei"
+    },
+    {
+      "論文名稱": "A multigrid method for pattern formation problems in biology",
+      "期刊名稱": "Differential and Integral Equations (SCIE)",
+      "作者群": "C. Chiu* and H. Wei"
+    }
+  ],
+  "journal2": [],
+  "conference": [
+    {
+      "論文名稱": "Mathematical modeling of triple negative breast\ncancer with checkpoint blockade immunotherapy",
+      "會議名稱": "2023 Workshop on Nonlinear Analysis, Optimization and Applications (NAOA2023)",
+      "作者群": "Hsiu-Chuan Wei"
+    },
+    {
+      "論文名稱": "Parameter estimation and uncertainty quantification for a mathematical model of breast cancer",
+      "會議名稱": "Foundations of Computational Mathematics (FoCM 2023)",
+      "作者群": "Hsiu-Chuan Wei"
+    },
+    {
+      "論文名稱": "MATHEMATICAL MODELING OF THE COVID-19 PANDEMIC",
+      "會議名稱": "11th International Eurasian Conference on Mathematical Sciences and Applications (IECMSA-2022)",
+      "作者群": "Hsiu-Chuan Wei"
+    },
+    {
+      "論文名稱": "MATHEMATICAL MODELLING OF BREAST CANCER WITH CHECKPOINT INHIBITOR THERAPY",
+      "會議名稱": "10th INTERNATIONAL EURASIAN CONFERENCE ON MATHEMATICAL SCIENCES AND APPLICATIONS",
+      "作者群": "Hsiu-Chuan Wei"
+    },
+    {
+      "論文名稱": "Bifurcation Analysis of a Mathematical Model of Tumor Growth in MCF-7 Breast Cancer Cell Line",
+      "會議名稱": "12th International Conference on Bioinformatics and Computational Biology",
+      "作者群": "Hsiu-Chuan Wei"
+    },
+    {
+      "論文名稱": "The Dynamics of an Intraguild Predation Model with Prey Switching",
+      "會議名稱": "2017 International Conference of Numerical Analysis and Applied Mathematics",
+      "作者群": "Hsiu-Chuan Wei, Yuh-Yih Chen, Jenn-Tsann Lin, and Shin-Feng Hwang"
+    },
+    {
+      "論文名稱": "On the dynamics of a mathematical tumor model with the\r\nBeddington-DeAngelis functional response",
+      "會議名稱": "2016 The international symposium on Engineering and Applied Science",
+      "作者群": "Hsiu-Chuan Weia"
+    },
+    {
+      "論文名稱": "MATHEMATICAL AND NUMERICAL ANALYSIS OF A MATHEMATICAL MODEL OF MIXED IMMUNOTHERAPY AND CHEMOTHERAPY OF CANCER",
+      "會議名稱": "2014 年國際數學學術研討會暨中華民國術學會年會",
+      "作者群": "Wei, Hsiu-Chuan"
+    },
+    {
+      "論文名稱": "Numerical simulation of a mathematical model of combination of immunotherapy and chemotherapy of cancer",
+      "會議名稱": "International Conference of Numerical Analysis and Applied Mathematics 2013",
+      "作者群": "Hsiu-Chuan Wei, Shin-Feng Hwang, Yuh-Yih Chen and Tze-Jang Chen"
+    },
+    {
+      "論文名稱": "A direct method for bifurcation analysis of equilibria in continuous dynamical systems in biology",
+      "會議名稱": "International conference on computational and mathematical sciences",
+      "作者群": "Wei, Hsiu-Chuan"
+    },
+    {
+      "論文名稱": "Numerical Revisit to a Food Web of Four Species",
+      "會議名稱": "參加在美國夏威夷舉辦之International Conference on Computational and Experimental Engineering and Sciences",
+      "作者群": "魏秀娟"
+    },
+    {
+      "論文名稱": "Recursive Linearization of an inverse Medium Problem",
+      "會議名稱": "Progress in Analysis",
+      "作者群": "Gang Bao, Jun Liu, and Haiu-Chuan Wei"
+    }
+  ],
+  "book": [],
+  "patent": [],
+  "most": [
+    {
+      "name": "延遲ODE系統之Hopf分歧分析數值方法及其在溶瘤病毒治療的應用",
+      "schoolYear": "113"
+    },
+    {
+      "name": "具有感染延遲的溶瘤病毒療法之數學建模與模擬",
+      "schoolYear": "112"
+    },
+    {
+      "name": "數學建模：社交距離、封鎖和疫苗接種在 COVID-19 流行演變中的作用",
+      "schoolYear": "111"
+    },
+    {
+      "name": "溶瘤病毒療法之數學模型分歧分析與數值模擬",
+      "schoolYear": "110"
+    },
+    {
+      "name": "乳癌及乳癌治療之數學建模",
+      "schoolYear": "109"
+    },
+    {
+      "name": "腫瘤生長及免疫反應的數學建模--MCF-7 乳癌細胞腺",
+      "schoolYear": "108"
+    },
+    {
+      "name": "癌症的免疫反應與癌症療法的數學建模",
+      "schoolYear": "107"
+    },
+    {
+      "name": "具有Beddington-Deangelis功能反應及獵物轉換之同功群間捕食之數學模型",
+      "schoolYear": "106"
+    },
+    {
+      "name": "一個修正的混合免疫療法及化學療法的數學模型",
+      "schoolYear": "105"
+    },
+    {
+      "name": "一個具獵物轉換的食物網的共存與混沌之研究",
+      "schoolYear": "104"
+    },
+    {
+      "name": "相同生態捕食的數學模型--食物替代效果",
+      "schoolYear": "103"
+    },
+    {
+      "name": "週期性脈衝的ODE系統之固定點分岐分析的數值方法",
+      "schoolYear": "102"
+    },
+    {
+      "name": "免疫與化學治療腫瘤的數學模型的數學分析及數值模擬",
+      "schoolYear": "100"
+    },
+    {
+      "name": "連續型動態系統均衡點分歧分析之平行計算數值方法",
+      "schoolYear": "98"
+    },
+    {
+      "name": "一個四物種的食物網之數值研究",
+      "schoolYear": "97"
+    },
+    {
+      "name": "電腦輔助研究一獵食者二獵物之動態系統",
+      "schoolYear": "96"
+    },
+    {
+      "name": "圖形之距離標號與電腦網路之控制碼",
+      "schoolYear": "94"
+    },
+    {
+      "name": "返復線性法解反散射問題之誤差估計：單頻率測量值",
+      "schoolYear": "91"
+    }
+  ],
+  "tech": [],
+  "induAca": [
+    "基礎科學教育改進計畫─數學B類─「大學數學預備知識」之預前教學與「高中基礎數學」之輔助教學 (2004-02 to 2004-12)",
+    "基礎科學教育改進計畫─數學A類計畫─「計算科學與數學」 (2003-03 to 2003-12)",
+    "基礎科學教育改進計畫─數學B類計畫─「大學數學預備知識」之預前教學與「高中基礎數學」之輔導教學 (2003-03 to 2003-12)"
+  ],
+  "perform": [],
+  "reward": [
+    "逢甲大學論文著作獎勵傑出獎 (113, 2024-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (113, 2024-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優等獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優等獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (110, 2021-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (110, 2021-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (109, 2020-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (109, 2020-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (108, 2019-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (107, 2018-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (106, 2017-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (104, 2015-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (103, 2014-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (103, 2014-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (101, 2012-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (100, 2011-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (100, 2011-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (100, 2011-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (97, 2008-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (95, 2006-11) - 逢甲大學"
+  ],
+  "speech": [
+    {
+      "演講題目": "A Modified Mathematical Model of Tumor Growth: a Case of Cancer without Disease",
+      "邀請單位": "高雄大學",
+      "演講日期": "2016-09"
+    },
+    {
+      "演講題目": "A cell to cell mapping method for ODE systems",
+      "邀請單位": "淡江大學數學系",
+      "演講日期": "2013-03"
+    },
+    {
+      "演講題目": "A Numerical Study of a Mathematical Model of Pulsed Immunotherapy for Superficial Bladder Cancer",
+      "邀請單位": "中興大學物理系",
+      "演講日期": "2011-10"
+    },
+    {
+      "演講題目": "A Numerical Study of a Mathematical Model of Pulsed Immunotherapy for Superficial Bladder Cancer",
+      "邀請單位": "One Day Workshop on Dynamical",
+      "演講日期": "2011-09"
+    },
+    {
+      "演講題目": "A Direct Method for Bifurcations of Equilibria in Continuous Dynamical Systems",
+      "邀請單位": "靜宜大學財務與計算數學系",
+      "演講日期": "2010-11"
+    },
+    {
+      "演講題目": "Multigrid Methods for solving reaction-Diffusion systems",
+      "邀請單位": "中興大學應用數學系",
+      "演講日期": "2005-10"
+    }
+  ],
+  "material": [
+    "線性代數\t滄海書局\t陳子建 黃新峰 林震燦 魏秀娟\t複合教材"
+  ],
+  "tal": []
+}

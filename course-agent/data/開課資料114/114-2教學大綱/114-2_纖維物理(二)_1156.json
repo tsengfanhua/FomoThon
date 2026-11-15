@@ -1,0 +1,807 @@
+{
+  "success": true,
+  "info": {
+    "yms_year": 114.0,
+    "yms_smester": 2.0,
+    "sub_id": "77007",
+    "cls_id": "CE05130",
+    "scr_dup": "001",
+    "sub_id3": "FCME3002",
+    "cls_name": "纖複三",
+    "cls_ename": "Department of Fiber and Composite Materials",
+    "sub_name": "纖維物理(二)",
+    "sub_ename": "FIBER PHYSICS(2)",
+    "scr_mso": "必修",
+    "scr_mso_en": "Required",
+    "scr_credit": 2.0,
+    "scr_periodly": "(三)06-07",
+    "scr_periodly_eng": "(Wed)06-07",
+    "lang_name": "中文                                                      ",
+    "lang_ename": "Chinese",
+    "scr_room": "忠203",
+    "scr_room_eng": "JCB203",
+    "scr_teacher": "陳安邦",
+    "scr_teacher_eng": "An-Pang Chen",
+    "scr_selcode": "1156",
+    "scr_elearning": "全學期",
+    "scr_elearning_en": "Full semester",
+    "scr_hours": "2",
+    "scr_english": "N",
+    "unt_name": null,
+    "unt_ename": null,
+    "link_traminal": null,
+    "link_traminal_en": null,
+    "scr_ldl": "D",
+    "course_mk": "N",
+    "teams_mk": "N",
+    "sub_title": null,
+    "sub_title_en": null,
+    "sub_describe": null,
+    "sub_describe_en": null,
+    "hasDescription": null,
+    "hasInstructor": null,
+    "hasTA": null,
+    "hasTextBooks": null,
+    "hasReadings": null,
+    "hasiSoftwares": null,
+    "hasAssistSoftwares": null,
+    "hasObjective": null,
+    "hasWeeklyScds": null,
+    "hasGradeRules": null,
+    "hasGradeRuleDescribe": null,
+    "hasIntegrity": null,
+    "hasCoursePol": null,
+    "hasCourseRem": null,
+    "hasObjectiveReleation": null,
+    "hasTopicSdgs": null,
+    "hasTopicAiIndicators": null,
+    "hasSubTitleDesc": null
+  },
+  "subTitleDesc": null,
+  "description": {
+    "sub_id3": null,
+    "sub_name": "纖維物理(二)",
+    "sub_ename": "FIBER PHYSICS(2)",
+    "describe_ch": " 使學生瞭解纖維物理及高分子領域中相關化學與物理的基本概念，數學模型的建立、公式推導與計算以及在工業上之應用。其內容主要包括吸濕理論、熱力學、光學、聲學、電學、磁學及纖維與高分子的表面性質等。",
+    "describe_eh": "Enable students to understand the basic concepts of the relevant chemical and physical properties, mathematic modeling and formula derivation and calculation as well as industrial applications in the field of Fiber Physics and polymer, including the theories of moisture sorption, thermodynamics, optics, acoustics, electrical, magnetic and the surface properties of fibers and polymer.",
+    "pre_subname": "",
+    "pre_sub_id3": null,
+    "pre_sub_ename": "",
+    "pre_describe": null,
+    "pre_describe_en": null,
+    "scr_credit": 2.0
+  },
+  "targets": [
+    {
+      "seq": 1,
+      "describe_ch": " 理解纖維物理及高分子領域中相關物理與化學的基本概念。",
+      "describe_en": " Comprehension for the basic concept of physics and chemistry properties in the field of fiber physics and polymer."
+    },
+    {
+      "seq": 2,
+      "describe_ch": " 理解數學模型的建立、公式推導與計算。",
+      "describe_en": "Comprehension for mathematic modeling and formula derivation and calculation."
+    },
+    {
+      "seq": 3,
+      "describe_ch": " 理解纖維物理領域在工業上之應用。",
+      "describe_en": " Comprehension for fiber physics in  industrial applications.\t"
+    },
+    {
+      "seq": 4,
+      "describe_ch": "使學生瞭解纖維物理相關領域國內外的研究現況",
+      "describe_en": "Let students realize the recent national and international researches in the field of Fiber Physics."
+    }
+  ],
+  "teachersInfo": [
+    {
+      "cname": "陳安邦",
+      "ename": "An-Pang Chen",
+      "period": "(Mon)06-07 工222,(Tue)07-08 工222",
+      "roletype": 0,
+      "email": "apchen@o365.fcu.edu.tw",
+      "ext": "3433"
+    }
+  ],
+  "textBooks": {
+    "yms_year": 114.0,
+    "yms_smester": 2.0,
+    "cls_id": "CE05130",
+    "sub_id": "77007",
+    "scr_dup": "001",
+    "tpb_seq": 1,
+    "tpb_book": "<div>1纖維物理, 2出版: 中國紡織工業研究中心</div>\n",
+    "tpb_book_en": null
+  },
+  "readings": {
+    "yms_year": 114.0,
+    "yms_smester": 2.0,
+    "cls_id": "CE05130",
+    "sub_id": "77007",
+    "scr_dup": "001",
+    "tpc_seq": 1,
+    "tpc_book": "<div>1纖維物理, 2出版: 中國紡織工業研究中心</div>\n",
+    "tpc_book_en": null
+  },
+  "iSoftwares": [],
+  "assistSoftwares": [],
+  "weeklyScds": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CE05130",
+      "sub_id": "77007",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "1-2",
+      "tpd_reading": "<div>熱力學第1-3定律</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": " ",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CE05130",
+      "sub_id": "77007",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "3-4",
+      "tpd_reading": "<div>纖維熱力學</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": " ",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CE05130",
+      "sub_id": "77007",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "5-6",
+      "tpd_reading": "<div>光學原理&amp;纖維光特性</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": " ",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CE05130",
+      "sub_id": "77007",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "7-8",
+      "tpd_reading": "<div>纖維物理相關領域國內外的研究</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": " ",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CE05130",
+      "sub_id": "77007",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "9-10",
+      "tpd_reading": "<div>纖維電特性</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": " ",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CE05130",
+      "sub_id": "77007",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "11-12",
+      "tpd_reading": "<div>纖維力學特性</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": " ",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CE05130",
+      "sub_id": "77007",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "13-14",
+      "tpd_reading": "<div>纖維物化性分析</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": " ",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    }
+  ],
+  "gradeRules": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CE05130",
+      "sub_id": "77007",
+      "scr_dup": "001",
+      "evalb_id": "D1",
+      "score_rate": 30,
+      "evalb_memo": "小組報告",
+      "evalb_memo_en": null,
+      "evalb_name": "期中考",
+      "evalb_name_en": "Midterm examination",
+      "seq": 1
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CE05130",
+      "sub_id": "77007",
+      "scr_dup": "001",
+      "evalb_id": "D2",
+      "score_rate": 30,
+      "evalb_memo": "期末考試",
+      "evalb_memo_en": null,
+      "evalb_name": "期末考",
+      "evalb_name_en": "Final examination",
+      "seq": 2
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CE05130",
+      "sub_id": "77007",
+      "scr_dup": "001",
+      "evalb_id": "L2",
+      "score_rate": 40,
+      "evalb_memo": "出席狀況&課堂表現",
+      "evalb_memo_en": null,
+      "evalb_name": "點名",
+      "evalb_name_en": "Roll call",
+      "seq": 3
+    }
+  ],
+  "gradeRuleDescribe": {
+    "yms_year": 114.0,
+    "yms_smester": 2.0,
+    "cls_id": "CE05130",
+    "sub_id": "77007",
+    "scr_dup": "001",
+    "tpa_score_new": null,
+    "tpa_score_new_en": null,
+    "course_pol": "秉持開放的心態與他人互動，能實踐「尊重」的作法，學習認真聆聽他人的意見，並從中獲得值得學習或效法之處。",
+    "course_pol_en": null,
+    "course_rem": null,
+    "course_rem_en": null,
+    "ais_meno": "<div>期望學生於考試、與報告時，朝向「瞭解目前我的學習狀況，找出還可以加強自己」的動機為出發。在溝通時，秉持「知之為知之，不知為不知」的態度，坦誠討論。能實踐「尊重」的作法，學習認真聆聽他人的意見，並從中獲得值得學習或效法之處。</div>\n",
+    "ais_meno_en": null,
+    "ilearn_mk": null
+  },
+  "integrity": {
+    "yms_year": 114.0,
+    "yms_smester": 2.0,
+    "cls_id": "CE05130",
+    "sub_id": "77007",
+    "scr_dup": "001",
+    "tpa_score_new": null,
+    "tpa_score_new_en": null,
+    "course_pol": "秉持開放的心態與他人互動，能實踐「尊重」的作法，學習認真聆聽他人的意見，並從中獲得值得學習或效法之處。",
+    "course_pol_en": null,
+    "course_rem": null,
+    "course_rem_en": null,
+    "ais_meno": "<div>期望學生於考試、與報告時，朝向「瞭解目前我的學習狀況，找出還可以加強自己」的動機為出發。在溝通時，秉持「知之為知之，不知為不知」的態度，坦誠討論。能實踐「尊重」的作法，學習認真聆聽他人的意見，並從中獲得值得學習或效法之處。</div>\n",
+    "ais_meno_en": null,
+    "ilearn_mk": null
+  },
+  "policy": {
+    "yms_year": 114.0,
+    "yms_smester": 2.0,
+    "cls_id": "CE05130",
+    "sub_id": "77007",
+    "scr_dup": "001",
+    "tpa_score_new": null,
+    "tpa_score_new_en": null,
+    "course_pol": "秉持開放的心態與他人互動，能實踐「尊重」的作法，學習認真聆聽他人的意見，並從中獲得值得學習或效法之處。",
+    "course_pol_en": null,
+    "course_rem": null,
+    "course_rem_en": null,
+    "ais_meno": "<div>期望學生於考試、與報告時，朝向「瞭解目前我的學習狀況，找出還可以加強自己」的動機為出發。在溝通時，秉持「知之為知之，不知為不知」的態度，坦誠討論。能實踐「尊重」的作法，學習認真聆聽他人的意見，並從中獲得值得學習或效法之處。</div>\n",
+    "ais_meno_en": null,
+    "ilearn_mk": null
+  },
+  "courseBankC": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CE05130",
+      "sub_id": "77007",
+      "scr_dup": "001",
+      "seq": 1,
+      "describe_ch": " 理解纖維物理及高分子領域中相關物理與化學的基本概念。",
+      "describe_en": " Comprehension for the basic concept of physics and chemistry properties in the field of fiber physics and polymer.",
+      "core_id": "A",
+      "core_item": "具備纖維與複合材料工程專業知識及應用數學、物理、化學、資訊及外文的能力。",
+      "core_eng": "Acquire professional knowledge in fiber and composite materials engineering, mathematics, physics, chemistry, information technology and foreign language.",
+      "core_level": "2 ",
+      "strgy": [
+        "01"
+      ],
+      "evalb": [
+        "D2",
+        "L2",
+        "L4"
+      ],
+      "strgy_name": [
+        "課堂授課"
+      ],
+      "strgy_name_en": [
+        "Classroom instruction"
+      ],
+      "evalb_name": [
+        "期末考",
+        "點名",
+        "出席狀況"
+      ],
+      "evalb_name_en": [
+        "Final examination",
+        "Roll call",
+        "Attendances"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE05130",
+          "sub_id": "77007",
+          "scr_dup": "001",
+          "seq": 1,
+          "strgy_id": "01",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE05130",
+          "sub_id": "77007",
+          "scr_dup": "001",
+          "seq": 1,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D2",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE05130",
+          "sub_id": "77007",
+          "scr_dup": "001",
+          "seq": 1,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "L2",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE05130",
+          "sub_id": "77007",
+          "scr_dup": "001",
+          "seq": 1,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "L4",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CE05130",
+      "sub_id": "77007",
+      "scr_dup": "001",
+      "seq": 2,
+      "describe_ch": " 理解數學模型的建立、公式推導與計算。",
+      "describe_en": "Comprehension for mathematic modeling and formula derivation and calculation.",
+      "core_id": "D",
+      "core_item": "具備專案管理、溝通協調與團隊合作暨終身學習意願的能力。",
+      "core_eng": "Develop project management, communication, teamwork, and lifelong learning capability.",
+      "core_level": "2 ",
+      "strgy": [
+        "01"
+      ],
+      "evalb": [
+        "D2",
+        "L1",
+        "L4"
+      ],
+      "strgy_name": [
+        "課堂授課"
+      ],
+      "strgy_name_en": [
+        "Classroom instruction"
+      ],
+      "evalb_name": [
+        "期末考",
+        "印象分數",
+        "出席狀況"
+      ],
+      "evalb_name_en": [
+        "Final examination",
+        "General impression",
+        "Attendances"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE05130",
+          "sub_id": "77007",
+          "scr_dup": "001",
+          "seq": 2,
+          "strgy_id": "01",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE05130",
+          "sub_id": "77007",
+          "scr_dup": "001",
+          "seq": 2,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D2",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE05130",
+          "sub_id": "77007",
+          "scr_dup": "001",
+          "seq": 2,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "L1",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE05130",
+          "sub_id": "77007",
+          "scr_dup": "001",
+          "seq": 2,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "L4",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CE05130",
+      "sub_id": "77007",
+      "scr_dup": "001",
+      "seq": 3,
+      "describe_ch": " 理解纖維物理領域在工業上之應用。",
+      "describe_en": " Comprehension for fiber physics in  industrial applications.\t",
+      "core_id": "F",
+      "core_item": "具備分析、應用研究成果及兼顧永續發展，以解決複雜且整合性工程問題的能力。",
+      "core_eng": "Develop research analysis, application, sustainability skills to solve complex engineering problems.",
+      "core_level": "5 ",
+      "strgy": [
+        "01"
+      ],
+      "evalb": [
+        "D2",
+        "L1",
+        "L4"
+      ],
+      "strgy_name": [
+        "課堂授課"
+      ],
+      "strgy_name_en": [
+        "Classroom instruction"
+      ],
+      "evalb_name": [
+        "期末考",
+        "印象分數",
+        "出席狀況"
+      ],
+      "evalb_name_en": [
+        "Final examination",
+        "General impression",
+        "Attendances"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE05130",
+          "sub_id": "77007",
+          "scr_dup": "001",
+          "seq": 3,
+          "strgy_id": "01",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE05130",
+          "sub_id": "77007",
+          "scr_dup": "001",
+          "seq": 3,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D2",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE05130",
+          "sub_id": "77007",
+          "scr_dup": "001",
+          "seq": 3,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "L1",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE05130",
+          "sub_id": "77007",
+          "scr_dup": "001",
+          "seq": 3,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "L4",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CE05130",
+      "sub_id": "77007",
+      "scr_dup": "001",
+      "seq": 4,
+      "describe_ch": "使學生瞭解纖維物理相關領域國內外的研究現況",
+      "describe_en": "Let students realize the recent national and international researches in the field of Fiber Physics.",
+      "core_id": "G",
+      "core_item": "認知專業與資訊倫理及道德責任的能力，具備自我要求、負責的態度。",
+      "core_eng": "Develop professional and information ethics, and moral responsibility.",
+      "core_level": "5 ",
+      "strgy": [
+        "09",
+        "29"
+      ],
+      "evalb": [
+        "D1",
+        "K2"
+      ],
+      "strgy_name": [
+        "口頭報告",
+        "合作學習"
+      ],
+      "strgy_name_en": [
+        "Oral report",
+        "Cooperative Learning, CL"
+      ],
+      "evalb_name": [
+        "期中考",
+        "口頭報告"
+      ],
+      "evalb_name_en": [
+        "Midterm examination",
+        "Oral presentation"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE05130",
+          "sub_id": "77007",
+          "scr_dup": "001",
+          "seq": 4,
+          "strgy_id": "09",
+          "strgy_name": null,
+          "strgy_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE05130",
+          "sub_id": "77007",
+          "scr_dup": "001",
+          "seq": 4,
+          "strgy_id": "29",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE05130",
+          "sub_id": "77007",
+          "scr_dup": "001",
+          "seq": 4,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D1",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE05130",
+          "sub_id": "77007",
+          "scr_dup": "001",
+          "seq": 4,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "K2",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    }
+  ],
+  "topicSdgs": [],
+  "topicAiIndicators": [],
+  "learnHours": {
+    "total": 0.0,
+    "tpdOnlineAsyTotal": 0.0,
+    "tpdOnlineSynTotal": 0.0,
+    "tpdOnlineFaceTotal": 0.0,
+    "asySynInTotalPercent": 0.0
+  },
+  "crossVerYear": 114
+}

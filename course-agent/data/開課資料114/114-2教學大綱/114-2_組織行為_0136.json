@@ -1,0 +1,820 @@
+{
+  "success": true,
+  "info": {
+    "yms_year": 114.0,
+    "yms_smester": 2.0,
+    "sub_id": "39110",
+    "cls_id": "CB01129",
+    "scr_dup": "001",
+    "sub_id3": "MGT2091",
+    "cls_name": "會計二合",
+    "cls_ename": "Department of Accounting",
+    "sub_name": "組織行為",
+    "sub_ename": "ORGANIZATIONAL BEHAVIOR",
+    "scr_mso": "選修",
+    "scr_mso_en": "Elective",
+    "scr_credit": 3.0,
+    "scr_periodly": "(二)11-13",
+    "scr_periodly_eng": "(Tue)11-13",
+    "lang_name": "中文                                                      ",
+    "lang_ename": "Chinese",
+    "scr_room": "商208",
+    "scr_room_eng": "BB208",
+    "scr_teacher": "賴璟鋒",
+    "scr_teacher_eng": "Ching-Feng Lai",
+    "scr_selcode": "0136",
+    "scr_elearning": "全學期",
+    "scr_elearning_en": "Full semester",
+    "scr_hours": "3",
+    "scr_english": "N",
+    "unt_name": null,
+    "unt_ename": null,
+    "link_traminal": null,
+    "link_traminal_en": null,
+    "scr_ldl": "D",
+    "course_mk": "N",
+    "teams_mk": "N",
+    "sub_title": null,
+    "sub_title_en": null,
+    "sub_describe": null,
+    "sub_describe_en": null,
+    "hasDescription": null,
+    "hasInstructor": null,
+    "hasTA": null,
+    "hasTextBooks": null,
+    "hasReadings": null,
+    "hasiSoftwares": null,
+    "hasAssistSoftwares": null,
+    "hasObjective": null,
+    "hasWeeklyScds": null,
+    "hasGradeRules": null,
+    "hasGradeRuleDescribe": null,
+    "hasIntegrity": null,
+    "hasCoursePol": null,
+    "hasCourseRem": null,
+    "hasObjectiveReleation": null,
+    "hasTopicSdgs": null,
+    "hasTopicAiIndicators": null,
+    "hasSubTitleDesc": null
+  },
+  "subTitleDesc": {
+    "yms_year": 114.0,
+    "yms_smester": 2.0,
+    "cls_id": "CB01129",
+    "sub_id": "39110",
+    "scr_dup": "001",
+    "sub_title": "組織行為知識與真務運用",
+    "sub_title_en": null,
+    "sub_describe": "1.組織理解\n2.研究運用\n3.案例討論",
+    "sub_describe_en": null
+  },
+  "description": {
+    "sub_id3": null,
+    "sub_name": "組織行為",
+    "sub_ename": "ORGANIZATIONAL BEHAVIOR",
+    "describe_ch": "如何妥善處理人際間之互動關係，為管理者應面對正視之一重要任務，而欲能有效管理與『人』相關之各種事務，則首應瞭解『人』（包括個人及團體）的行為及行為背後之原因，此即是本課程目的與內涵之所在。",
+    "describe_eh": "In this course, students learn the roles, contents and context of organizational behavior. After they enhance their skills by studying organizational behavior, they can apply their fundamental knowledge to management.",
+    "pre_subname": "",
+    "pre_sub_id3": null,
+    "pre_sub_ename": "",
+    "pre_describe": null,
+    "pre_describe_en": null,
+    "scr_credit": 3.0
+  },
+  "targets": [
+    {
+      "seq": 1,
+      "describe_ch": "瞭解一般商業行為與環境之能力",
+      "describe_en": "Ability to comprehend the behavior and environment ob business."
+    },
+    {
+      "seq": 2,
+      "describe_ch": "處理與提供企業財務資訊之能力",
+      "describe_en": "Dealing and Processing financial and accounting information in business."
+    },
+    {
+      "seq": 3,
+      "describe_ch": "有效溝通及團隊合作的能力",
+      "describe_en": "Ability to communicate, Coordinate and cooperate as a team."
+    },
+    {
+      "seq": 4,
+      "describe_ch": "辨識、分析及解決企業財務問題的能力",
+      "describe_en": "Ability to recognize, analyses and solve financial and budgeting problem."
+    },
+    {
+      "seq": 5,
+      "describe_ch": "當代議題，瞭解會計資訊內容對經濟環境、社會及全球的影響，並能持續學習的能力",
+      "describe_en": "Figure out economic social and global issues for accounting."
+    }
+  ],
+  "teachersInfo": [
+    {
+      "cname": "賴璟鋒",
+      "ename": "Ching-Feng Lai",
+      "period": " ",
+      "roletype": 0,
+      "email": "chflai.t11@o365.fcu.edu.tw",
+      "ext": null
+    }
+  ],
+  "textBooks": {
+    "yms_year": 114.0,
+    "yms_smester": 2.0,
+    "cls_id": "CB01129",
+    "sub_id": "39110",
+    "scr_dup": "001",
+    "tpb_seq": 1,
+    "tpb_book": "<div>老師自訂上課簡報教材，於課堂授課。</div>\n",
+    "tpb_book_en": null
+  },
+  "readings": {
+    "yms_year": 114.0,
+    "yms_smester": 2.0,
+    "cls_id": "CB01129",
+    "sub_id": "39110",
+    "scr_dup": "001",
+    "tpc_seq": 1,
+    "tpc_book": "<div>老師自訂上課簡報教材，於課堂授課。</div>\n",
+    "tpc_book_en": null
+  },
+  "iSoftwares": [],
+  "assistSoftwares": [],
+  "weeklyScds": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CB01129",
+      "sub_id": "39110",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "介紹",
+      "tpd_reading": "<div>介紹組織行爲課程內容，與相關名詞介紹。</div>\n",
+      "tpd_reading_en": "<div>Introduces the content of the organizational behavior course and introduces related terms.</div>\n",
+      "tpd_learn": "<div>課堂討論</div>\n",
+      "tpd_learn_en": " ",
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": "理解內涵",
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": 3.0,
+      "tpd_week_en": "1-2",
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CB01129",
+      "sub_id": "39110",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "範圍",
+      "tpd_reading": "<div>講解組織行為的面相與所涉及的科學領域。</div>\n",
+      "tpd_reading_en": "<div>Explain the aspects of organizational behavior and the scientific fields involved.</div>\n",
+      "tpd_learn": "<div>課堂討論</div>\n",
+      "tpd_learn_en": " ",
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": "理解內涵",
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": 3.0,
+      "tpd_week_en": "3-4",
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CB01129",
+      "sub_id": "39110",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "方法",
+      "tpd_reading": "<div>組織行為所產生目標與方法。</div>\n",
+      "tpd_reading_en": "<div>The goals and methods resulting from organizational behavior.</div>\n",
+      "tpd_learn": "<div>課堂討論</div>\n",
+      "tpd_learn_en": " ",
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": "目標設定與方法運用。",
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": 6.0,
+      "tpd_week_en": "5-6",
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CB01129",
+      "sub_id": "39110",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "執行",
+      "tpd_reading": "<div>組織行為所產生的架構與執行層級。</div>\n",
+      "tpd_reading_en": "<div>The structure and execution levels resulting from organizational behavior.</div>\n",
+      "tpd_learn": "<div>繳交報告</div>\n",
+      "tpd_learn_en": " ",
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": "架構理解",
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": 6.0,
+      "tpd_week_en": "7-9",
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CB01129",
+      "sub_id": "39110",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "運用",
+      "tpd_reading": "<div>組織行為於社會上的應用與環境。</div>\n",
+      "tpd_reading_en": "<div>The application and environment of organizational behavior in society.</div>\n",
+      "tpd_learn": "<div>繳交報告</div>\n",
+      "tpd_learn_en": " ",
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": "應用理解",
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": 6.0,
+      "tpd_week_en": "16-18",
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CB01129",
+      "sub_id": "39110",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "架構",
+      "tpd_reading": "<div>組織行為系統架構現實運用方法</div>\n",
+      "tpd_reading_en": "<div>Organizational behavior system architecture and hierarchy.</div>\n",
+      "tpd_learn": "<div>課堂討論</div>\n",
+      "tpd_learn_en": " ",
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": "架構與運用",
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": 12.0,
+      "tpd_week_en": "13-15",
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CB01129",
+      "sub_id": "39110",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "討論",
+      "tpd_reading": "<div>組織行為案例討論。</div>\n",
+      "tpd_reading_en": "<div>Organizational Behavior Case Discussion.</div>\n",
+      "tpd_learn": "<div>繳交報告</div>\n",
+      "tpd_learn_en": " ",
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": "案例討論",
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": 12.0,
+      "tpd_week_en": "10-12",
+      "mode": 0
+    }
+  ],
+  "gradeRules": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CB01129",
+      "sub_id": "39110",
+      "scr_dup": "001",
+      "evalb_id": "D1",
+      "score_rate": 20,
+      "evalb_memo": "期中考",
+      "evalb_memo_en": null,
+      "evalb_name": "期中考",
+      "evalb_name_en": "Midterm examination",
+      "seq": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CB01129",
+      "sub_id": "39110",
+      "scr_dup": "001",
+      "evalb_id": "D2",
+      "score_rate": 30,
+      "evalb_memo": "期末考",
+      "evalb_memo_en": null,
+      "evalb_name": "期末考",
+      "evalb_name_en": "Final examination",
+      "seq": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CB01129",
+      "sub_id": "39110",
+      "scr_dup": "001",
+      "evalb_id": "K2",
+      "score_rate": 40,
+      "evalb_memo": "期末專題報告",
+      "evalb_memo_en": null,
+      "evalb_name": "口頭報告",
+      "evalb_name_en": "Oral presentation",
+      "seq": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CB01129",
+      "sub_id": "39110",
+      "scr_dup": "001",
+      "evalb_id": "L3",
+      "score_rate": 10,
+      "evalb_memo": "期中專題報告",
+      "evalb_memo_en": null,
+      "evalb_name": "課堂討論參與",
+      "evalb_name_en": "Participation",
+      "seq": 0
+    }
+  ],
+  "gradeRuleDescribe": {
+    "yms_year": 114.0,
+    "yms_smester": 2.0,
+    "cls_id": "CB01129",
+    "sub_id": "39110",
+    "scr_dup": "001",
+    "tpa_score_new": null,
+    "tpa_score_new_en": null,
+    "course_pol": "1. 上課一次點名一次，全勤加分。\n2. 缺席超過時數，警示依學校規定處理。\n3. 上課期間不定期休息，自行上廁所。\n4. 不可群聚手遊，大聲交談。",
+    "course_pol_en": null,
+    "course_rem": null,
+    "course_rem_en": null,
+    "ais_meno": "<div>\n<div>\n<div>\n<div>\n<div>&nbsp;</div>\n</div>\n</div>\n</div>\n</div>\n\n<div>\n<ol>\n\t<li>&nbsp;學生應該自己完成其學術工作，並遵循任何給定的指導或規定。抄襲、剽竊或其他不正當手段，例如使用未經授權的筆記或通訊工具，都是不被允許的。</li>\n\t<li>\n\t<div>學生應該在課堂上積極參與、尊重他人的意見，並遵守課堂規則。</div>\n\t</li>\n\t<li>\n\t<div>&nbsp;學生應該在課程結束後繼續展現所學，並避免使用他人的作品或研究結果而不加引用。</div>\n\t</li>\n</ol>\n</div>\n",
+    "ais_meno_en": null,
+    "ilearn_mk": "N"
+  },
+  "integrity": {
+    "yms_year": 114.0,
+    "yms_smester": 2.0,
+    "cls_id": "CB01129",
+    "sub_id": "39110",
+    "scr_dup": "001",
+    "tpa_score_new": null,
+    "tpa_score_new_en": null,
+    "course_pol": "1. 上課一次點名一次，全勤加分。\n2. 缺席超過時數，警示依學校規定處理。\n3. 上課期間不定期休息，自行上廁所。\n4. 不可群聚手遊，大聲交談。",
+    "course_pol_en": null,
+    "course_rem": null,
+    "course_rem_en": null,
+    "ais_meno": "<div>\n<div>\n<div>\n<div>\n<div>&nbsp;</div>\n</div>\n</div>\n</div>\n</div>\n\n<div>\n<ol>\n\t<li>&nbsp;學生應該自己完成其學術工作，並遵循任何給定的指導或規定。抄襲、剽竊或其他不正當手段，例如使用未經授權的筆記或通訊工具，都是不被允許的。</li>\n\t<li>\n\t<div>學生應該在課堂上積極參與、尊重他人的意見，並遵守課堂規則。</div>\n\t</li>\n\t<li>\n\t<div>&nbsp;學生應該在課程結束後繼續展現所學，並避免使用他人的作品或研究結果而不加引用。</div>\n\t</li>\n</ol>\n</div>\n",
+    "ais_meno_en": null,
+    "ilearn_mk": "N"
+  },
+  "policy": {
+    "yms_year": 114.0,
+    "yms_smester": 2.0,
+    "cls_id": "CB01129",
+    "sub_id": "39110",
+    "scr_dup": "001",
+    "tpa_score_new": null,
+    "tpa_score_new_en": null,
+    "course_pol": "1. 上課一次點名一次，全勤加分。\n2. 缺席超過時數，警示依學校規定處理。\n3. 上課期間不定期休息，自行上廁所。\n4. 不可群聚手遊，大聲交談。",
+    "course_pol_en": null,
+    "course_rem": null,
+    "course_rem_en": null,
+    "ais_meno": "<div>\n<div>\n<div>\n<div>\n<div>&nbsp;</div>\n</div>\n</div>\n</div>\n</div>\n\n<div>\n<ol>\n\t<li>&nbsp;學生應該自己完成其學術工作，並遵循任何給定的指導或規定。抄襲、剽竊或其他不正當手段，例如使用未經授權的筆記或通訊工具，都是不被允許的。</li>\n\t<li>\n\t<div>學生應該在課堂上積極參與、尊重他人的意見，並遵守課堂規則。</div>\n\t</li>\n\t<li>\n\t<div>&nbsp;學生應該在課程結束後繼續展現所學，並避免使用他人的作品或研究結果而不加引用。</div>\n\t</li>\n</ol>\n</div>\n",
+    "ais_meno_en": null,
+    "ilearn_mk": "N"
+  },
+  "courseBankC": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CB01129",
+      "sub_id": "39110",
+      "scr_dup": "001",
+      "seq": 1,
+      "describe_ch": "瞭解一般商業行為與環境之能力",
+      "describe_en": "Ability to comprehend the behavior and environment ob business.",
+      "core_id": "A",
+      "core_item": "學生具備商管專業的思辨學習能力",
+      "core_eng": "Students possess critical thinking capability in business and management issue.",
+      "core_level": "4 ",
+      "strgy": [
+        "01",
+        "03"
+      ],
+      "evalb": [
+        "L3"
+      ],
+      "strgy_name": [
+        "課堂授課",
+        "個案討論"
+      ],
+      "strgy_name_en": [
+        "Classroom instruction",
+        "Case study"
+      ],
+      "evalb_name": [
+        "課堂討論參與"
+      ],
+      "evalb_name_en": [
+        "Participation"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CB01129",
+          "sub_id": "39110",
+          "scr_dup": "001",
+          "seq": 1,
+          "strgy_id": "01",
+          "strgy_name": null,
+          "strgy_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CB01129",
+          "sub_id": "39110",
+          "scr_dup": "001",
+          "seq": 1,
+          "strgy_id": "03",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CB01129",
+          "sub_id": "39110",
+          "scr_dup": "001",
+          "seq": 1,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "L3",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CB01129",
+      "sub_id": "39110",
+      "scr_dup": "001",
+      "seq": 2,
+      "describe_ch": "處理與提供企業財務資訊之能力",
+      "describe_en": "Dealing and Processing financial and accounting information in business.",
+      "core_id": "B",
+      "core_item": "學生具備溝通技巧",
+      "core_eng": "Students are able to be effective communicators.",
+      "core_level": "2 ",
+      "strgy": [
+        "01",
+        "03"
+      ],
+      "evalb": [
+        "D4"
+      ],
+      "strgy_name": [
+        "課堂授課",
+        "個案討論"
+      ],
+      "strgy_name_en": [
+        "Classroom instruction",
+        "Case study"
+      ],
+      "evalb_name": [
+        "作業"
+      ],
+      "evalb_name_en": [
+        "Homework"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CB01129",
+          "sub_id": "39110",
+          "scr_dup": "001",
+          "seq": 2,
+          "strgy_id": "01",
+          "strgy_name": null,
+          "strgy_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CB01129",
+          "sub_id": "39110",
+          "scr_dup": "001",
+          "seq": 2,
+          "strgy_id": "03",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CB01129",
+          "sub_id": "39110",
+          "scr_dup": "001",
+          "seq": 2,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D4",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CB01129",
+      "sub_id": "39110",
+      "scr_dup": "001",
+      "seq": 3,
+      "describe_ch": "有效溝通及團隊合作的能力",
+      "describe_en": "Ability to communicate, Coordinate and cooperate as a team.",
+      "core_id": "C",
+      "core_item": "學生具備專業倫理觀念與態度",
+      "core_eng": "Students have professional concepts and attitudes of ethics.",
+      "core_level": "5 ",
+      "strgy": [
+        "04"
+      ],
+      "evalb": [
+        "D1"
+      ],
+      "strgy_name": [
+        "專題討論"
+      ],
+      "strgy_name_en": [
+        "Seminar"
+      ],
+      "evalb_name": [
+        "期中考"
+      ],
+      "evalb_name_en": [
+        "Midterm examination"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CB01129",
+          "sub_id": "39110",
+          "scr_dup": "001",
+          "seq": 3,
+          "strgy_id": "04",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CB01129",
+          "sub_id": "39110",
+          "scr_dup": "001",
+          "seq": 3,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D1",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CB01129",
+      "sub_id": "39110",
+      "scr_dup": "001",
+      "seq": 4,
+      "describe_ch": "辨識、分析及解決企業財務問題的能力",
+      "describe_en": "Ability to recognize, analyses and solve financial and budgeting problem.",
+      "core_id": "D",
+      "core_item": "學生具備跨領域及問題解決能力",
+      "core_eng": "Students possess interdisciplinary capabilities and problem-solving skills, supported by appropriate analytical techniques.",
+      "core_level": "1 ",
+      "strgy": [
+        "01",
+        "04"
+      ],
+      "evalb": [
+        "D5"
+      ],
+      "strgy_name": [
+        "課堂授課",
+        "專題討論"
+      ],
+      "strgy_name_en": [
+        "Classroom instruction",
+        "Seminar"
+      ],
+      "evalb_name": [
+        "期末專題"
+      ],
+      "evalb_name_en": [
+        "Final presentation"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CB01129",
+          "sub_id": "39110",
+          "scr_dup": "001",
+          "seq": 4,
+          "strgy_id": "01",
+          "strgy_name": null,
+          "strgy_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CB01129",
+          "sub_id": "39110",
+          "scr_dup": "001",
+          "seq": 4,
+          "strgy_id": "04",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CB01129",
+          "sub_id": "39110",
+          "scr_dup": "001",
+          "seq": 4,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D5",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CB01129",
+      "sub_id": "39110",
+      "scr_dup": "001",
+      "seq": 5,
+      "describe_ch": "當代議題，瞭解會計資訊內容對經濟環境、社會及全球的影響，並能持續學習的能力",
+      "describe_en": "Figure out economic social and global issues for accounting.",
+      "core_id": "E",
+      "core_item": "學生具備國際觀",
+      "core_eng": "Students are able to have a global perspective.",
+      "core_level": "2 ",
+      "strgy": [
+        "01",
+        "04"
+      ],
+      "evalb": [
+        "D2"
+      ],
+      "strgy_name": [
+        "課堂授課",
+        "專題討論"
+      ],
+      "strgy_name_en": [
+        "Classroom instruction",
+        "Seminar"
+      ],
+      "evalb_name": [
+        "期末考"
+      ],
+      "evalb_name_en": [
+        "Final examination"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CB01129",
+          "sub_id": "39110",
+          "scr_dup": "001",
+          "seq": 5,
+          "strgy_id": "01",
+          "strgy_name": null,
+          "strgy_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CB01129",
+          "sub_id": "39110",
+          "scr_dup": "001",
+          "seq": 5,
+          "strgy_id": "04",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CB01129",
+          "sub_id": "39110",
+          "scr_dup": "001",
+          "seq": 5,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D2",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    }
+  ],
+  "topicSdgs": [],
+  "topicAiIndicators": [],
+  "learnHours": {
+    "total": 48.0,
+    "tpdOnlineAsyTotal": 0.0,
+    "tpdOnlineSynTotal": 0.0,
+    "tpdOnlineFaceTotal": 48.0,
+    "asySynInTotalPercent": 0.0
+  },
+  "crossVerYear": 114
+}

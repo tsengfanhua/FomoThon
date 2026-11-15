@@ -1,0 +1,3082 @@
+{
+  "teacherId": "T03028",
+  "name": "葉建宏",
+  "mainUnit": "工程與科學學院",
+  "detailUnit": "光電科學與工程學系",
+  "skill": [
+    "光通訊系統與元件Photonics Communication System and Device",
+    "5G/6G無線-光纖整合系統5G/6G Wireless-Fiber Integration System",
+    "無線光通訊/可見光通訊技術Optical Wireless Communications / Visible Light Communication (VLC) Technology",
+    "光纖雷射與光感測Fiber Laser and Optical Sensor"
+  ],
+  "edu": [
+    "國立交通大學 光電工程研究所 博士"
+  ],
+  "fcuExp": [
+    "物理教學研究中心 主任",
+    "光電科學與工程學系 系主任",
+    "逢甲大學帆宣智慧城市5G實驗室 研究員",
+    "工程與科學學院 副院長",
+    "光電學系 助理教授",
+    "光電學系 副教授",
+    "光電科學與工程學系 副教授",
+    "光電科學與工程學系 教授",
+    "光電科學與工程學系 教授",
+    "光電科學與工程學系 教授",
+    "光電科學與工程學系 特聘教授"
+  ],
+  "currjob": [],
+  "otherExp": [
+    "工業技術研究院 資訊與通訊研究所 正研究員",
+    "工業技術研究院 資訊與通訊研究所 研究員"
+  ],
+  "journal": [
+    {
+      "論文名稱": "Deep learning and time series signal processing for bending detection in mining environment using optical fiber sensor",
+      "期刊名稱": "Optical Fiber Technology (SCIE)",
+      "作者群": "B. Pamukti, Z. Wang, M. F. F. Pradipta, S. K. Liaw*, C. H. Yeh, and F. L. Yang"
+    },
+    {
+      "論文名稱": "Eight-wavelength selectable single-longitudinal-mode fiber laser using 1× 8 arrayed waveguide grating and passive triple subring resonators",
+      "期刊名稱": "IEEE Photonics Journal (SCIE)",
+      "作者群": "Z. Wang, J. K. Wei, P. C. Chen, S. K. Liaw*, J. K. Chen, and C. H. Yeh"
+    },
+    {
+      "論文名稱": "Stable and tunable erbium ring laser by Rayleigh backscattering feedback and saturable absorber for single-mode operation",
+      "期刊名稱": "Quantum Beam Science (SCIE)",
+      "作者群": "C. Y. Liao, Y. H. Kao, Y. Z. Chen, K. M. Cheng, C. Y. Lin, T. H. Wu, T. Y. Yang, and C. H. Yeh*"
+    },
+    {
+      "論文名稱": "Utilization of optical OFDM modulation on blue LED VLC datacom without equalization for 4 m wireless link",
+      "期刊名稱": "Micromachines (SCIE)",
+      "作者群": "C. Z. Lin, C. H. Yeh*, W. P. Lin, and C. W. Chow"
+    },
+    {
+      "論文名稱": "Holographic Multi-Notch Filters Recorded with Simultaneous Double-Exposure Contact Mirror-Based Method",
+      "期刊名稱": "Photonics (SCIE)",
+      "作者群": "Bing-Han Zhuang, Sheng-Chun Hung, Kun-Huang Chen, Chien-Hung Yeh and Jing-Heng Chen*"
+    },
+    {
+      "論文名稱": "Broad, tunable and stable single-frequency erbium fiber compound-ring laser based on parallel and series structures in L-Band operation",
+      "期刊名稱": "Photonics (SCIE)",
+      "作者群": "Y. T. Lai, L. Y. Chen, T. Y. Yang, T. H. Wu, C. H. Yeh*, K. M. Cheng, C. Y. Lin, C. W. Chow, and S. K. Liaw"
+    },
+    {
+      "論文名稱": "A selectable single-frequency erbium fiber laser with septuple-ring apparatus for narrow linewidth and uniform power output",
+      "期刊名稱": "Optics and Laser Technology (SCIE)",
+      "作者群": "Y. H. Lin, L. Y. Chen, Y. T. Lai, C. H. Yeh*, J. H. Chen, and C. W. Chow"
+    },
+    {
+      "論文名稱": "Broadband fiber laser with selective and stable narrow linewidth wavelength over 68 nm selectable bandwidth",
+      "期刊名稱": "Optical and Quantum Electronics (SCIE)",
+      "作者群": "S. Y. Lai, Y. H. Lin, C. Y. Lin, K. M. Cheng, T. Y. Yang, Y. T. Lai, L. Y. Chen, C. H. Yeh*, S. K. Liaw, and C. W. Chow"
+    },
+    {
+      "論文名稱": "Stable sub-kHz linewidth fiber laser using saturable absorber integrated four-subring resonators",
+      "期刊名稱": "IEEE Photonics Technology Letters (SCIE)",
+      "作者群": "Z. Wang, S. Afifah, S. K. Liaw*, C. H. Yeh, and J. K. Chen"
+    },
+    {
+      "論文名稱": "Design of a passive silicon-on-insulator-based on-chip optical circulating network supporting mode conversion and high optical isolation",
+      "期刊名稱": "Photonics (SCIE)",
+      "作者群": "Y. Z. Lin, J. W. Chen, C. W. Chow, and C. H. Yeh"
+    },
+    {
+      "論文名稱": "Unidirectional ring-based WDM fiber network for both downlink and uplink signal access",
+      "期刊名稱": "Electronics (SCIE)",
+      "作者群": "C. H. Yeh*, W. P. Lin, Y. T. Lai, L. Y. Chen, C. Y. Lin, K. M. Cheng, T. Y. Yang, and C. W. Chow"
+    },
+    {
+      "論文名稱": "Selectable and stable single-frequency fiber laser with flattened power range and sub-kHz linewidth output",
+      "期刊名稱": "Physica Scripta (SCIE)",
+      "作者群": "S. E. Hsieh, L. Y. Chen, C. H. Hsu, Y. T. Lai, C. H. Yeh*, S. Y. Jiang, S. K. Liaw, and C. W. Chow"
+    },
+    {
+      "論文名稱": "L-band erbium fiber laser with tunable and narrow sub-kHz linewidth output",
+      "期刊名稱": "Applied Sciences (SCIE)",
+      "作者群": "L. Y. Chen, Y. T. Lai, C. H. Yeh*, C. Y. Lin, K. M. Cheng, and C. W. Chow"
+    },
+    {
+      "論文名稱": "Tunable and stable single-frequency fiber laser by applying Rayleigh feedback Light and saturable absorber filter",
+      "期刊名稱": "Optical Fiber Technology (SCIE)",
+      "作者群": "C. H. Hsu, Y. T. Lai, L. Y. Chen, C. H. Yeh*, S. E. Hsieh, S. Y. Jiang, S. K. Liaw, and C. W. Chow"
+    },
+    {
+      "論文名稱": "Flexible data rate allocation using non-orthogonal multiple access (NOMA) in a mode division multiplexing (MDM) optical power splitter for system-on-chip networks",
+      "期刊名稱": "Sensors (SSCI)",
+      "作者群": "Y. Z. Lin, C. W. Chow, T. W. Yu, Y. H. Jian, T. Y. Hung, J. W. Chen, and C. H. Yeh"
+    },
+    {
+      "論文名稱": "Utilizing same WDM wavelengths for delivering both baseband and FSO signals in ring-type access network",
+      "期刊名稱": "Optical and Quantum Electronics (SCIE)",
+      "作者群": "L. C. Chen, Y. T. Lai, L. H. Liu, C. H. Yeh*, W. P. Lin, and C. W. Chow"
+    },
+    {
+      "論文名稱": "Design of silicon photonics integrated bulk zigzag and sinusoidal structured mode conversion devices using genetic algorithm (GA) optimization",
+      "期刊名稱": "Photonics (SCIE)",
+      "作者群": "T. W. Yu, C. W. Chow, P. C. Kuo, Y. Z. Lin, T. Y. Hung, Y. H. Jian, and C. H. Yeh"
+    },
+    {
+      "論文名稱": "Optical beam steerable orthogonal frequency division multiplexing (OFDM) non-orthogonal multiple access (NOMA) visible light communication using spatial-light modulator based reconfigurable intelligent surface",
+      "期刊名稱": "IEEE Photonics Journal (SCIE)",
+      "作者群": "Y. H. Jian, C. C. Wang, W. H. Gunawan, T. C. Wei, C. W. Chow*, Y. Liu, and C. H. Yeh*"
+    },
+    {
+      "論文名稱": "Bi-directional free-space visible light communication supporting multiple moveable clients using light diffusing optical fiber",
+      "期刊名稱": "Sensors (SCIE)",
+      "作者群": "Y. H. Chang, C. W. Chow, Y. Z. Lin, Y. H. Jian, C. C. Wang, Y. Liu, and C. H. Yeh"
+    },
+    {
+      "論文名稱": "Unmanned-aerial-vehicle based optical camera communication system using light-diffusing fiber and rolling-shutter image-sensor",
+      "期刊名稱": "Optics Express (SCIE)",
+      "作者群": "Y. H. Chang, S. Y. Tsai, C. W. Chow, C. C. Wang, D. C. Tsai, Y. Liu, and C. H. Yeh"
+    },
+    {
+      "論文名稱": "Mitigation of PAM4 rolling shuttered pattern grayscale ambiguity in demodulation utilizing long short term memory neural network (LSTM-NN) in optical wireless communication systems",
+      "期刊名稱": "Optics Communications (SCIE)",
+      "作者群": "C. W. Peng, C. W. Chow*, D. C. Tsai, Y. Liu, and C. H. Yeh*"
+    },
+    {
+      "論文名稱": "Design and analyses of BER performance in a tri-directional optical transmission system",
+      "期刊名稱": "Optics Communications (SCIE)",
+      "作者群": "H. C. Lee, Y. Liu, S. K. Liaw, Y. L. Yu, and C. H. Yeh"
+    },
+    {
+      "論文名稱": "Stable wavelength-swept single-frequency erbium fiber laser in L-band tuning bandwidth",
+      "期刊名稱": "Physica Scripta (SCIE)",
+      "作者群": "Y. T. Lai, Y. Y. Chen, H. Z. Chen, C. H. Yeh*, C. Y. Lin, Y. Z. Chen, C. Y. Liao, D. C. Chang, L. Y. Chen, and C. W. Chow"
+    },
+    {
+      "論文名稱": "Design consideration, numerical and experimental analyses of mode-division-multiplexed (MDM) silicon photonics integrated circuit with sharp bends",
+      "期刊名稱": "Sensors (SCIE)",
+      "作者群": "T. Y. Hung, G. H. Chen, Y. Z. Lin, C. W. Chow, Y. H. Jian, P. C. Kuo, C. W. Peng, J. F. Tsai, Y. Liu, and C. H. Yeh"
+    },
+    {
+      "論文名稱": "Study on temperature and water turbulence impact on saline water-based wireless optical communication",
+      "期刊名稱": "Photonics (SCIE)",
+      "作者群": "S. Afifah, A. Wijayanto, Y. L. Liu, S. K. Liaw, P. J. Lee, C. H. Yeh, and O. Hiroshi"
+    },
+    {
+      "論文名稱": "Long short term memory neural network (LSTMNN) and inter-symbol feature extraction for 160 Gbit/s PAM4 from silicon micro-ring transmitter",
+      "期刊名稱": "Optics Communications (SCIE)",
+      "作者群": "C. W. Peng, D. W. U. Chan, C. W. Chow, T. Y. Hung, Y. H. Jian, Y. Tong, P. C. Kuo, G. H. Chen, Y. Liu, C. H. Yeh, and H. K. Tsang"
+    },
+    {
+      "論文名稱": "Actively controllable beam steering optical wireless communication (OWC) using integrated optical phased array (OPA)",
+      "期刊名稱": "Journal of Lightwave Technology (SCIE)",
+      "作者群": "C. W. Chow, Y. C. Chang, S. I. Kuo, P. C. Kuo, J. W. Wang, Y. H. Jian, Z. Ahmad, P. H. Fu, J. W. Shi, D. W. Huang, T. Y. Hung, Y. Z. Lin, C. H. Yeh, and Y. Liu"
+    },
+    {
+      "論文名稱": "Wideband and channel switchable mode division multiplexing (MDM) optical power divider supporting 7.682 Tbit/s for on-chip optical interconnects",
+      "期刊名稱": "Sensors (SCIE)",
+      "作者群": "T. Y. Hung, G. H. Chen, Y. Z. Lin, C. W. Chow, Y. H. Jian, P. C. Kuo, C. W. Peng, J. F. Tsai, Y. Liu, and C. H. Yeh"
+    },
+    {
+      "論文名稱": "Utilizing single light-emitting-diode (LED) lamp and silicon solar-cells visible light positioning (VLP) based on angle-of-arrival (AOA) and long-short-term-memory-neural-network (LSTMNN)",
+      "期刊名稱": "Optics Communications (SCIE)",
+      "作者群": "L. S. Hsu, C. W. Chow, Y. Liu, Y. H. Chang, T. T. Tsai, T. Y. Hung, Y. Z. Lin, Y. H. Jian, and C. H. Yeh*"
+    },
+    {
+      "論文名稱": "Tunable sub-kHz linewidth erbium fiber laser by utilizing eight fiber ring design in L-band range",
+      "期刊名稱": "Optical Fiber Technology (SCIE)",
+      "作者群": "W. C. Wang, S. E. Hsieh, C. H. Yeh*, Y. C. Lin, Y. H. Lin, C. H. Hsu, S. Y. Jiang, and C. W. Chow"
+    },
+    {
+      "論文名稱": "A single-mode wavelength-selectable erbium laser based on multiple-fiber-ring design",
+      "期刊名稱": "Optical and Quantum Electronics (SCIE)",
+      "作者群": "C. J. Tsai, H. Z. Chen, W. C. Wang, C. H. Yeh*, Y. Y. Chen, D. Y. Yang, C. H. Hsu, and C. W. Chow"
+    },
+    {
+      "論文名稱": "Utilizing lighting design software for simulation and planning of machine learning based angle-of-arrival (AOA) visible light positioning (VLP) Systems",
+      "期刊名稱": "IEEE Photonics Journal (SCIE)",
+      "作者群": "H. M. Chan, C. W. Chow*, L. S. Hsu, Y. Liu, C. W. Peng, Y. H. Jian and C. H. Yeh*"
+    },
+    {
+      "論文名稱": "3D visible light-based indoor positioning system using two-stage neural network (TSNN) and received intensity selective enhancement (RISE) to alleviate light non-overlap zones",
+      "期刊名稱": "Sensors (SCIE)",
+      "作者群": "L. S. Hsu, C. H. Chow, Y. Liu and, C. H. Yeh"
+    },
+    {
+      "論文名稱": "Hybrid self-protected fiber-FSO WDM-PON system with fiber breakage prevention",
+      "期刊名稱": "Photonics (SCIE)",
+      "作者群": "C. H. Hsu, S. Y. Jiang, S. E. Hsieh, C. H. Yeh*, Y. T. Lai, L. Y. Chen, S. K. Liaw, and C. W. Chow,"
+    },
+    {
+      "論文名稱": "Optical beam steerable visible light communication (VLC) system supporting multiple users using RGB and orthogonal frequency division multiplexed (OFDM) non-orthogonal multiple access (NOMA)",
+      "期刊名稱": "Sensors (SCIE)",
+      "作者群": "W. H. Gunawan, C. W. Chow, Y. Liu, Y. H. Chang, and C. H. Yeh"
+    },
+    {
+      "論文名稱": "Wide and stabilized erbium laser with single-mode and kHz linewidth output",
+      "期刊名稱": "Optical Fiber Technology (SCIE)",
+      "作者群": "H. S. Ko, C. H. Yeh*, L. H. Liu, Y. T. Lai, S. E. Hsieh, S. K. Liaw, and C. W. Chow"
+    },
+    {
+      "論文名稱": "130-m image sensor based visible light communication (VLC) using under-sample modulation and spatial modulation",
+      "期刊名稱": "Optics Communications (SCIE)",
+      "作者群": "T. T. Tsai, C. W. Chow, Y. H. Chang, Y. H. Jian, Y. Liu, and C. H. Yeh*"
+    },
+    {
+      "論文名稱": "Using data pre-processing and convolutional neural network (CNN) to mitigate light deficient regions in visible light positioning (VLP) systems",
+      "期刊名稱": "Journal of Lightwave Technology (SCIE)",
+      "作者群": "L. S. Hsu, D. C. Tsai, C. W. Chow, Y. Liu, Y. H. Chang, Y. Z. Lin, C. H. Yeh*, Y. C. Wang, and Y. Y. Chen"
+    },
+    {
+      "論文名稱": "L-band wavelength-selectable erbium laser with stable single-frequency oscillation",
+      "期刊名稱": "Electronics (SCIE)",
+      "作者群": "S. E. Hsieh, C. H. Hsu, C. H. Yeh*, S. Y. Jiang, Y. T. Lai, C. W. Chow, and S. K. Liaw"
+    },
+    {
+      "論文名稱": "One kHz order narrow linewidth fiber laser using Rayleigh backscattering mechanism in an additional piece optical fiber",
+      "期刊名稱": "Photonics (SCIE)",
+      "作者群": "Z. Wang, D. C. Li, G. Y. Chen, L. E. Wang, S. K. Liaw, C. H. Yeh, Y. L. Yu, and H. H. Tsai"
+    },
+    {
+      "論文名稱": "One KHz Order Narrow Linewidth Fiber Laser Using Rayleigh Backscattering Mechanism in an Additional Piece Optical Fiber",
+      "期刊名稱": "Photonics (SCIE)",
+      "作者群": "Z. Wang, D. C. Li, G. Y. Chen, L. E. Wang, S. K. Liaw, C. H. Yeh, Yi-Lin Yu and H. H. Tsai"
+    },
+    {
+      "論文名稱": "Recording of a holographic cylindrical vector beam converter with a truncated cone prism",
+      "期刊名稱": "Optics Letters (SCIE)",
+      "作者群": "Hung-Lung Tseng, Chien-Yuan Han, Kun-Huang Chen, Chien-Hung Yeh, Jing-Heng Chen*"
+    },
+    {
+      "論文名稱": "Digital domain power division multiplexing optical OFDM for free space optical communication (FSOC) using 10-GHz bandwidth optical components",
+      "期刊名稱": "IEEE Photonics Journal (SCIE)",
+      "作者群": "W. H. Gunawan, C. W. Chow, Y. Liu, Y. H. Chang, Y. H. Jian, C. W. Peng, and C. H. Yeh*"
+    },
+    {
+      "論文名稱": "Using lighting design tool to simplify the visible light positioning plan and reduce the deep learning loading",
+      "期刊名稱": "Optics Express (SCIE)",
+      "作者群": "H. M. Chan, C. W. Chow, Y. Liu, C. H. Yeh, Y. H. Chang, L. S. Hsu, D. C. Tsai, T. W. Yu, and Y. H. Jian"
+    },
+    {
+      "論文名稱": "Integrated fiber-FSO WDM access system with fiber fault protection",
+      "期刊名稱": "Electronics (SCIE)",
+      "作者群": "C. H. Yeh*, W. P. Lin, S. Y. Jiang, S. E. Hsieh, C. H. Hsu, and C. W. Chow"
+    },
+    {
+      "論文名稱": "Vernier effect based fiber laser with switchable and stable single-mode output behavior",
+      "期刊名稱": "Optical and Quantum Electronics (SCIE)",
+      "作者群": "Y. T. Lai, L. C. Chen, C. H. Yeh*, C. W. Chow, and S. K. Liaw"
+    },
+    {
+      "論文名稱": "A Selectable single-mode erbium fiber laser with Mach-Zehnder interferometer and Rayleigh injection scheme",
+      "期刊名稱": "IEEE Photonics Journal (SCIE)",
+      "作者群": "C. H. Yeh*, L. H. Liu, H. S. Ko, Y. T. Lai, and C. W. Chow"
+    },
+    {
+      "論文名稱": "Stable and wavelength-selectable quad-ring based erbium laser with 2-kHz linewidth output",
+      "期刊名稱": "Optics and Laser Technology (SCIE)",
+      "作者群": "C. H. Yeh*, H. S. Ko, L. H. Liu, S. K. Liaw, and C. W. Chow"
+    },
+    {
+      "論文名稱": "Optical camera communication (OCC) using a laser-diode coupled optical-diffusing fiber (ODF) and rolling shutter image sensor",
+      "期刊名稱": "Optics Express (SCIE)",
+      "作者群": "D. C. Tsai, Y. H. Chang, C. W. Chow, Y. Liu, C. H. Yeh, C. W. Peng, and L. S. Hsu"
+    },
+    {
+      "論文名稱": "2.805 Gbit/s high-bandwidth phosphor white light visible light communication utilizing an InGaN/GaN semipolar blue micro-LED",
+      "期刊名稱": "Optics Express (SCIE)",
+      "作者群": "Y. H. Chang, Y. M. Huang, F. J. Liou, C. W. Chow, Y. Liu, H. C. Kuo, C. H. Yeh, W. H. Gunawan, T. Y. Hung, and Y. H. Jian"
+    },
+    {
+      "論文名稱": "A stabilized single-longitudinal-mode and wide wavelength tunability erbium laser",
+      "期刊名稱": "Photonics (SCIE)",
+      "作者群": "L. C. Chen, Y. T. Lai, C. H. Yeh*, W. P. Lin, C. W. Chow, and J. H. Chen"
+    },
+    {
+      "論文名稱": "Use of simple octa-ring configuration for tunable erbium laser with single-mode output",
+      "期刊名稱": "IEEE Access (SCIE)",
+      "作者群": "C. H. Yeh*, Y. T. Lai, L. H. Liu, H. S. Ko, Y. T. Lai, Y. C. Chan, and C. W. Chow"
+    },
+    {
+      "論文名稱": "A survivable optical network for WDM access against fiber breakpoint",
+      "期刊名稱": "IEEE Access (SCIE)",
+      "作者群": "C. H. Yeh*, L. H. Liu, W. P. Lin, H. S. Ko, Y. T. Lai, and C. W. Chow"
+    },
+    {
+      "論文名稱": "A survivable and flexible WDM access network by alternate FSO- and fiber-paths for fault protection",
+      "期刊名稱": "IEEE Photonics Journal (SCIE)",
+      "作者群": "C. H. Yeh*, H. S. Ko, S. K. Liaw, L. H. Liu, J. H. Chen, and C. W. Chow"
+    },
+    {
+      "論文名稱": "Use of symmetric Sagnac dual-ring scheme for tunable single-mode erbium fiber laser",
+      "期刊名稱": "Physica Scripta (SCIE)",
+      "作者群": "Y. C. Chen, C. H. Yeh*, W. P. Lin, L. H. Liu, H. S. Ko, Y. T. Lai, and C. W. Chow"
+    },
+    {
+      "論文名稱": "A single-mode erbium laser with switchable single- and dual-wavelength operation",
+      "期刊名稱": "Physica Scripta (SCIE)",
+      "作者群": "B. Y. Wang, W. H. Hsu, C. H. Yeh*, S. K. Liaw, and C. W. Chow"
+    },
+    {
+      "論文名稱": "High-bandwidth InGaN/GaN semipolar micro-LED acting as fast photodetector for visible light communications",
+      "期刊名稱": "Optics Express (SCIE)",
+      "作者群": "Y. H. Chang, T. C. Hsu, F. J. Liou, C. W. Chow, Y. Liu, H. C. Kuo, C. H. Yeh, and P. H. Yang"
+    },
+    {
+      "論文名稱": "High speed visible light communication using digital power domain multiplexing of orthogonal frequency division multiplexed (OFDM) signals",
+      "期刊名稱": "Photonics (SCIE)",
+      "作者群": "W. H. Gunawan, Y. Liu, C. W. Chow, Y. H. Chang, and C. H. Yeh"
+    },
+    {
+      "論文名稱": "Stable and selectable erbium multiple-ring laser with self-injection loop",
+      "期刊名稱": "Optics and Laser Technology (SCIE)",
+      "作者群": "C. H. Yeh*, B. Y. Wang, W. H. Hsu, W. Y. You, J. R. Chen, C. W. Chow, and J. H. Chen"
+    },
+    {
+      "論文名稱": "Symmetry 28 Gbps/ WDM access network together with confidential connection between two specific clients",
+      "期刊名稱": "IEEE Access (SCIE)",
+      "作者群": "C. H. Yeh*, B. Y. Wang, W. H. Hsu, W. P. Lin, and C. W. Chow"
+    },
+    {
+      "論文名稱": "A simple WDM-PON architecture together with private interconnected ONUs",
+      "期刊名稱": "IEEE Access (SCIE)",
+      "作者群": "C. H. Yeh*, B. Y. Wang, W. H. Hsu, L. H. Liu, and H. S. Ko"
+    },
+    {
+      "論文名稱": "Dual-polarized WDM access network with fiber to the extension (FTTE) connection",
+      "期刊名稱": "IEEE Photonics Journal (SCIE)",
+      "作者群": "C. H. Yeh*, W. H. Hsu, B. Y. Wang, J. R. Chen, W. Y. You, and C. W. Chow"
+    },
+    {
+      "論文名稱": "4.343-Gbit/s green semipolar (20-21) μ-LED for high speed visible light communication",
+      "期刊名稱": "IEEE Photonics Journal (SCIE)",
+      "作者群": "Y. H. Chang, Y. M. Huang, W. H. Gunawan, G. H. Chang, F. J. Liou, C. W. Chow, H. C. Kuo, Y. Liu, and C. H. Yeh"
+    },
+    {
+      "論文名稱": "Display light panel and rolling shutter image sensor based optical camera communication (OCC) using frame-averaging background removal and neural network",
+      "期刊名稱": "Journal of Lightwave Technology (SCIE)",
+      "作者群": "C. W. Chow, Y. Liu, C. H. Yeh*, Y. H. Chang, Y. S. Lin, K. L. Hsu, X. L. Liao, and K. H. Lin"
+    },
+    {
+      "論文名稱": "Analysis and investigation of dual-polarized color LED based visible light communication system",
+      "期刊名稱": "Photonics (SCIE)",
+      "作者群": "Y. C. Yang, C. H. Yeh*, S. K. Liaw, C. W. Chow, W. H. Hsu, and B. Y. Wang"
+    },
+    {
+      "論文名稱": "Hybrid fiber-optic sensing integrating Brillouin optical time-domain analysis and fiber Bragg grating for long-range two-parameter measurement",
+      "期刊名稱": "Sensors (SCIE)",
+      "作者群": "S. K. Liaw, C. W. Liao, M. H. Tsai, D. C. Li, S. M. Yang, Z. Y. Xia, C. H. Yeh, and W. F. Liu"
+    },
+    {
+      "論文名稱": "Applying self-injection and dual-ring based fiber laser for wide tunability and stable single-frequency output",
+      "期刊名稱": "Optics and Laser Technology (SCIE)",
+      "作者群": "Y. Z. Lin, P. M. Yen, B. W. Huang, C. H. Yeh*, C. W. Chow, W. H. Hsu, B. Y. Wang, and J. H. Chen"
+    },
+    {
+      "論文名稱": "Two-level laser diode color-shift-keying orthogonal-frequency-division-multiplexing (LD-CSK-OFDM) for optical wireless communications (OWC)",
+      "期刊名稱": "Journal of Lightwave Technology (SCIE)",
+      "作者群": "W. H. Gunawan, C. W. Chow, Y. Liu, Y. H. Chang, C. W. Peng, and C. H. Yeh*"
+    },
+    {
+      "論文名稱": "Performance evaluation of underwater wireless optical communication system by varying the environmental parameters",
+      "期刊名稱": "Photonics (SCIE)",
+      "作者群": "D. C. Li, C. C. Chen, S. K. Liaw, S. Afifah, J. Y. Sung, and C. H. Yeh"
+    },
+    {
+      "論文名稱": "DP-QPSK coherent detection using 2D grating coupled silicon based receiver",
+      "期刊名稱": "IEEE Photonics Journal (SCIE)",
+      "作者群": "C. W. Peng, C. W. Chow, P. C. Kuo, G. H. Chen, C. H. Yeh, J. Chen, and Y. Lai"
+    },
+    {
+      "論文名稱": "Stabilized single-longitudinal-mode fiber laser with broadband and flat wavelength output",
+      "期刊名稱": "Physica Scripta (SCIE)",
+      "作者群": "G. H. Li, Y. Z. Lin, H. W. Chang, C. H. Yeh*, J. R. Chen, B. Y. Wang, W. H. Hsu, C. W. Chow, and S. K. Liaw"
+    },
+    {
+      "論文名稱": "Quad-ring based erbium fiber laser for switchable and stable single-longitudinal-mode operation",
+      "期刊名稱": "Optical Fiber Technology (SCIE)",
+      "作者群": "C. H. Yeh*, L. H. Liu, H. S. Ko, B. Y. Wang, W. H. Hsu, C. W. Chow, and J. H. Chen"
+    },
+    {
+      "論文名稱": "A single-mode erbium fiber laser with flat power output and wide wavelength tunability",
+      "期刊名稱": "IEEE Photonics Journal (SCIE)",
+      "作者群": "C. H. Yeh*, W. Y. You, J. R. Chen, W. P. Lin, C. W. Chow and J. H. Chen"
+    },
+    {
+      "論文名稱": "Received-signal-strength (RSS) based 3D visible-light-positioning (VLP) system using Kernel ridge regression machine learning algorithm with sigmoid function data preprocessing method",
+      "期刊名稱": "IEEE Access (SCIE)",
+      "作者群": "Y. C. Wu, C. W. Chow, Y. Liu, Y. S. Lin, C. Y. Hong, D. C. Lin, S. H. Song, and C. H. Yeh*"
+    },
+    {
+      "論文名稱": "Compact mode division MUX/DEMUX using enhanced evanescent-wave coupling on silicon-on-insulator (SOI) platform for 11-Tbit/s broadband transmission",
+      "期刊名稱": "IEEE Access (SCIE)",
+      "作者群": "G. H. Chen, J. F. Tsai, C. W. Peng, P. C. Guo, C. J. Chen, C. W. Chow, C. H. Yeh*, Y. Lai, and Y. Liu"
+    },
+    {
+      "論文名稱": "2.333-Tbit/s bi-directional optical mobile networks using optical wireless communication (OWC)",
+      "期刊名稱": "Optics Communications (SCIE)",
+      "作者群": "L.Y. Wei, S.-I. Chen, C. H. Yeh, Y. Liu, G. H. Chen, C. W. Peng, W. H. Gunawan, Y. H. Chang, P. C. Guo, and C. W. Chow"
+    },
+    {
+      "論文名稱": "Analysis of non-Hermitian symmetry (NHS) IFFT/FFT size efficient OFDM for multiple-client non-orthogonal multiple access (NOMA) visible light communication (VLC) System",
+      "期刊名稱": "Optics Communications (SCIE)",
+      "作者群": "A. Adnan, Y. Liu, C. W. Chow, and C. H. Yeh"
+    },
+    {
+      "論文名稱": "An erbium fiber laser with single-frequency oscillation and wavelength-upconverted output",
+      "期刊名稱": "IEEE Photonics Journal (SCIE)",
+      "作者群": "C. H. Yeh*, W. Y. You, J. R. Chen, C. W. Chow, and W. P. Lin"
+    },
+    {
+      "論文名稱": "Color-shift-keying embedded direct-current optical-orthogonal-frequency-division-multiplexing (CSK-DCO-OFDM) for visible light communications (VLC)",
+      "期刊名稱": "IEEE Photonics Journal (SCIE)",
+      "作者群": "W. H. Gunawan, Y. Liu, C. H. Yeh, and C. W. Chow"
+    },
+    {
+      "論文名稱": "VCSEL and LED based visible light communication system by applying decode-and-forward relay transmission",
+      "期刊名稱": "Journal of Lightwave Technology (SCIE)",
+      "作者群": "C. H. Yeh*, Y. C. Yang, C. W. Chow, Y. W. Chen, and T. A. Hsu"
+    },
+    {
+      "論文名稱": "Design and Fabrication of a Holographic Radial Polarization Converter",
+      "期刊名稱": "Photonics (SCIE)",
+      "作者群": "Jing-Heng Chen*, Hung-Lung Tseng, Fan-Hsi Hsu, Chien-Yuan Han, Kun-Huang Chen, Chien-Hung Yeh and Ken-Yuh Hsu"
+    },
+    {
+      "論文名稱": "Feedback-injected erbium fiber laser with selectable tunability and constant single-longitudinal-mode characteristic",
+      "期刊名稱": "IEEE Access (SCIE)",
+      "作者群": "C. H. Yeh*, W. Y. You, J. R. Chen, W. P. Lin, and C. W. Chow"
+    },
+    {
+      "論文名稱": "Fiber- and FSO-protected connections for long-reach TWDM access architecture with fault protection",
+      "期刊名稱": "IEEE Access (SCIE)",
+      "作者群": "C. H. Yeh*, W. H. Hsu, B. Y. Wang, W. Y. You, J. R. Chen, C. W. Chow, and S. K. Liaw"
+    },
+    {
+      "論文名稱": "Utilizing single-wavelength for OFDM wireless downstream and remodulated OOK upstream in colorless access network to mitigate Rayleigh backscattering noise",
+      "期刊名稱": "Optical Fiber Technology (SCIE)",
+      "作者群": "C. H. Yeh*, C. W. Chow, W. P. Lin, J. R. Chen, and W. Y. You"
+    },
+    {
+      "論文名稱": "Adaptive and secure VCSEL FSO based on simple dual-polarized architecture for short distance transmission",
+      "期刊名稱": "Physica Scripta (SCIE)",
+      "作者群": "C. H. Yeh*, Y. C. Yang, T. A. Hsu, Y. W. Chen, C. W. Chow, and J. H. Chen"
+    },
+    {
+      "論文名稱": "Free space optical communication in long-reach unidirectional ring-architecture fiber network",
+      "期刊名稱": "IEEE Access (SCIE)",
+      "作者群": "C. H. Yeh*, J. R. Chen, W. Y. You, W. P. Lin, and C. W. Chow"
+    },
+    {
+      "論文名稱": "6.915-Gbit/s white-light phosphor laser diode based DCO-OFDM visible light communication (VLC) system with functional transmission distance",
+      "期刊名稱": "Electronics Letters (SCIE)",
+      "作者群": "L. Y. Wei, Y. Liu, C. W. Chow, G. H. Chen, C. W. Peng, P. C. Guo, J. F. Tsai, and C. H. Yeh"
+    },
+    {
+      "論文名稱": "Using silicon photovoltaic cells and machine learning and neural network algorithms for visible-light positioning systems",
+      "期刊名稱": "Optical Engineering (SCIE)",
+      "作者群": "C. Y. Hong, Y. C. Wu, Y. Liu, K. L. Hsu, W. H. Gunawan, A. Adnan, L. Y. Wei, C. H. Yeh, and C. W. Chow"
+    },
+    {
+      "論文名稱": "Visible light positioning (VLP) system using low-cost organic photovoltaic cell (OPVC) for low illumination environments",
+      "期刊名稱": "Optics Express (SCIE)",
+      "作者群": "C. Y. Hong, Y. C. Wu, Y. H. Lin, Y. Liu, C. W. Chow, H. F. Meng, Y. M. Chang, C. H. Yeh, K. L. Hsu, and S. H. Song"
+    },
+    {
+      "論文名稱": "Utilizing self-injection Rayleigh backscattering feedback for channel-selected erbium laser with single-frequency oscillation",
+      "期刊名稱": "Physica Scripta (SCIE)",
+      "作者群": "C. H. Yeh*, W. Y. You, J. R. Chen, C. W. Chow, and W. P. Lin"
+    },
+    {
+      "論文名稱": "Demonstration of non-Hermitian symmetry (NHS) IFFT/FFT size efficient OFDM non-orthogonal multiple access (NOMA) for visible light communication",
+      "期刊名稱": "IEEE Photonics Journal (SCIE)",
+      "作者群": "A. Adnan, Y. Liu, C. W. Chow, and C. H. Yeh"
+    },
+    {
+      "論文名稱": "Demonstration of 1-Gbps real-time optical wireless communication by simple transmission scheme",
+      "期刊名稱": "Optical and Quantum Electronics (SCIE)",
+      "作者群": "C. H. Yeh*, C. M. Luo, Y. R. Xie, C. W. Chow, R. B. Chen, and M. C. Tseng"
+    },
+    {
+      "論文名稱": "Angle-of-arrival (AOA) visible light positioning (VLP) system using solar cells with third-order regression and ridge regression algorithms",
+      "期刊名稱": "IEEE Photonics Journal (SCIE)",
+      "作者群": "C. Y. Hong, Y. C. Wu, Y. Liu, C. W. Chow, C. H. Yeh, K. L. Hsu, D. C. Lin, X. L. Liao, K. H. Lin, and Y. Y. Chen"
+    },
+    {
+      "論文名稱": "Hybrid WDM FSO fiber access network with Rayleigh backscattering noise mitigation",
+      "期刊名稱": "IEEE Access (SCIE)",
+      "作者群": "C. H. Yeh*, J. R. Chen, W. Y. You, and C. W. Chow"
+    },
+    {
+      "論文名稱": "Rayleigh backscattering noise alleviation in long-reach ring-based WDM access communication",
+      "期刊名稱": "IEEE Access (SCIE)",
+      "作者群": "C. H. Yeh*, J. R. Chen, W. Y. You, W. P. Lin, and C. W. Chow"
+    },
+    {
+      "論文名稱": "Demonstration of non-Hermitian symmetry (NHS) serial-complex-valued orthogonal frequency division multiplexing (SCV-OFDM) for white-light visible light communication (VLC)",
+      "期刊名稱": "Continuum (EI)",
+      "作者群": "A. Adnan, Y. Liu, C. W. Chow, and C. H. Yeh"
+    },
+    {
+      "論文名稱": "Using linear interpolation to reduce the training samples for regression based visible light positioning system",
+      "期刊名稱": "IEEE Photonics Journal (SCIE)",
+      "作者群": "Y. C. Wu, K. L. Hsu, Y. Liu, C. Y. Hong, C. W. Chow, C. H. Yeh, X. L. Liao, K. H. Lin, and Y. Y. Chen"
+    },
+    {
+      "論文名稱": "Multi-Gbit/s phosphor-based white-light and blue-filter-free visible light communication and lighting system with practical transmission distance",
+      "期刊名稱": "Optics Express (SCIE)",
+      "作者群": "L. Y. Wei, C. W. Chow, Y. Liu, and C. H. Yeh"
+    },
+    {
+      "論文名稱": "Single-mode erbium laser with CW tunability by exploiting saturable absorber and self-injected loop",
+      "期刊名稱": "Optics Communications (SCIE)",
+      "作者群": "C. H. Yeh*, C. M. Luo, Y. R. Xie, and C. W. Chow"
+    },
+    {
+      "論文名稱": "Utilizing C-band erbium fiber and saturable absorber for broadband and continuous wavelength tunability laser with single-mode oscillation",
+      "期刊名稱": "Laser Physics (SCIE)",
+      "作者群": "Y. R. Xie, C. M. Luo, C. H. Yeh*, and C. W. Chow"
+    },
+    {
+      "論文名稱": "Integration of FSO traffic in ring-topology bidirectional fiber access network with fault protection",
+      "期刊名稱": "IEEE Communications Letters (SCIE)",
+      "作者群": "C. H. Yeh*, Y. R. Xie, C. M. Luo, and C. W. Chow"
+    },
+    {
+      "論文名稱": "Symmetric >67 Gbps OFDM-IMDD based WDM access network for mitigating Rayleigh backscattering interference noise",
+      "期刊名稱": "Optics Communications (SCIE)",
+      "作者群": "C. H. Yeh*, C. W. Chow, and L. Y. Wei"
+    },
+    {
+      "論文名稱": "Widely 70-nm wavelength tunability single-frequency erbium laser utilizing multiple-ring architecture",
+      "期刊名稱": "Optics and Laser Technology (SCIE)",
+      "作者群": "C. H. Yeh*, Y. R. Xie, C. M. Luo, and Y. J. Chang"
+    },
+    {
+      "論文名稱": "62-nm CW wavelength-selectable erbium-doped fiber compound-ring laser with stable single-mode output",
+      "期刊名稱": "Physica Scripta (SCIE)",
+      "作者群": "C. H. Yeh*, Y. J. Chang, W. P. Lin, Y. R. Xie, C. M. Luo, C. W. Chow, and J. H. Chen"
+    },
+    {
+      "論文名稱": "Use of same WDM channels in fiber network for bidirectional free space optical communication with Rayleigh backscattering interference alleviation",
+      "期刊名稱": "IEEE Access (SCIE)",
+      "作者群": "C. H. Yeh*, B. S. Guo, C. S. Gu, C. W. Chow, and W. P. Lin"
+    },
+    {
+      "論文名稱": "Use of C-band erbium gain-medium and compound-fiber-ring design for single-longitudinal-mode fiber laser with 84-nm achievable tunability",
+      "期刊名稱": "Optical Fiber Technology (SCIE)",
+      "作者群": "Y. R. Xie, C. M. Luo, and C. H. Yeh*"
+    },
+    {
+      "論文名稱": "Utilizing polarization-multiplexing for free space optical communication transmission with security operation",
+      "期刊名稱": "Optical Fiber Technology (SCIE)",
+      "作者群": "C. H. Yeh*, Y. J. Chang, C. W. Chow, and W. P. Lin"
+    },
+    {
+      "論文名稱": "Survivable and reliable WDM-PON system with self-protected mechanism against fiber fault",
+      "期刊名稱": "IEEE Access (SCIE)",
+      "作者群": "C. H. Yeh*, C. M. Luo, Y. R. Xie, C. W. Chow, Y. W. Chen and T. A. Hsu"
+    },
+    {
+      "論文名稱": "Utilizing single lightwave for delivering baseband/FSO/MMW traffics simultaneously in PON architecture",
+      "期刊名稱": "IEEE Access (SCIE)",
+      "作者群": "C. H. Yeh*, W. P. Lin, C. M. Luo, Y. R. Xie, Y. J. Chang, and C. W. Chow"
+    },
+    {
+      "論文名稱": "Using logistic regression classification for mitigating high noise-ratio advisement light-panel in rolling-shutter based visible light communications",
+      "期刊名稱": "Optics Express (SCIE)",
+      "作者群": "Y. C. Chuang, C. W. Chow, Y. Liu, C. H. Yeh, X. L. Liao, K. H. Lin, and Y. Y. Chen"
+    },
+    {
+      "論文名稱": "Reliability of stable fiber Bragg grating sensor system for monitoring temperature and strain individually",
+      "期刊名稱": "Measurement Science and Technology (SCIE)",
+      "作者群": "Y. J. Chang, C. H. Yeh*, and C. W. Chow"
+    },
+    {
+      "論文名稱": "Tricolor visible-light laser diodes based visible light communication operated at 40.665-Gbit/s and 2-m free-space transmission",
+      "期刊名稱": "Optics Express (SCIE)",
+      "作者群": "L. Y. Wie, C. W. Chow, G. H. Chen, Y. Liu, C. H. Yeh, and C. W. Hsu"
+    },
+    {
+      "論文名稱": "Mode-division-multiplexing (MDM) of 9.4-Tbit/s OFDM signals on silicon-on-insulator (SOI) platform",
+      "期刊名稱": "IEEE Access (SCIE)",
+      "作者群": "G. H. Chen, C. W. Chow, C. H. Yeh, C. W. Peng, P. C. Guo, J. F. Tsai, M. W. Cheng, Y. Tong, and H. K. Tsang"
+    },
+    {
+      "論文名稱": "Alternative method for measuring the phase retardation and fast axis of a wave plate",
+      "期刊名稱": "Optical Review (SCIE)",
+      "作者群": "Kun‑Huang Chen, Jen‑Te Tseng, Chien‑Hung Yeh, Jing‑Heng Chen"
+    },
+    {
+      "論文名稱": "1.7 to 2.3 Gbps OOK LED VLC transmission based on 4x4 color-polarization-multiplexing at extremely low illumination",
+      "期刊名稱": "IEEE Photonics Journal (SCIE)",
+      "作者群": "C. H. Yeh*, J. H. Weng, C. W. Chow, C. M. Luo, Y. R. Xie, C. J. Chen, and M. C. Wu"
+    },
+    {
+      "論文名稱": "A selectable single-mode erbium laser with power-flattened output employing dual-Sagnac-ring",
+      "期刊名稱": "IEEE Access (SCIE)",
+      "作者群": "C. H. Yeh*, W. P. Lin, Y. J. Chang, Y. R. Xie, C. M. Luo, and C. W. Chow"
+    },
+    {
+      "論文名稱": "Single-mode erbium fiber dual-ring laser with 60-nm workable wavelength tunability",
+      "期刊名稱": "Optics and Laser Technology (SCIE)",
+      "作者群": "Y. L. Yang, C. H. Yeh*, C. K. Tsai, Y. R. Xie, C. M. Luo, Y. J. Chang, J. H. Chen, and C. W. Chow"
+    },
+    {
+      "論文名稱": "1250 Mbit/s OOK wireless white-light VLC transmission based on phosphor laser diode",
+      "期刊名稱": "IEEE Photonics Journal (SCIE)",
+      "作者群": "C. H. Yeh*, C. W. Chow, and L. Y. Wei"
+    },
+    {
+      "論文名稱": "Integrated silicon photonics remote radio frontend (RRF) for single-sideband (SSB) millimeter-wave radio-over-fiber (ROF) systems",
+      "期刊名稱": "IEEE Photonics Journal (SCIE)",
+      "作者群": "Y. Tong, C. W. Chow, C. W. Peng, C. H. Yeh, and H. K. Tsang"
+    },
+    {
+      "論文名稱": "Bidirectional free space optical communication (FSO) in WDM access network with 1000-m supportable free space link",
+      "期刊名稱": "Optics Communications (SCIE)",
+      "作者群": "C. H. Yeh*, B. S. Guo, Y. J. Chang, C. W. Chow, and C. S. Gu"
+    },
+    {
+      "論文名稱": "A fiber Bragg grating based passive semicircular sensor architecture with fault monitoring",
+      "期刊名稱": "Optical Fiber Technology (SCIE)",
+      "作者群": "C. H. Yeh*, Y. J. Chang, T. J. Huang, Z. Q. Yang, C. W. Chow, and K. H. Chen"
+    },
+    {
+      "論文名稱": "Hybrid free space optical communication system and passive optical network with high splitting ratio for broadcasting data traffic",
+      "期刊名稱": "Journal of Optics (SCIE)",
+      "作者群": "C. H. Yeh*, C. S. Gu, B. S. Guo, Y. J. Chang, C. W. Chow, M. C. Tseng, and R. B. Chen"
+    },
+    {
+      "論文名稱": "400 Mbit/s OOK green-LED visible light communication with low illumination",
+      "期刊名稱": "Optical and Quantum Electronics (SCIE)",
+      "作者群": "C. H. Yeh*, C. W. Chow, C. S. Gu, B. S. Guo, Y. J. Chang, J. H. Weng, and M. C. Wu"
+    },
+    {
+      "論文名稱": "Adaptive thresholding scheme for demodulation of rolling-shutter images obtained in CMOS image sensor based visible light communications",
+      "期刊名稱": "IEEE Photonics Journal (SCIE)",
+      "作者群": "C. W. Chow, Y. C. Liu, R. J. Shiu, and C. H. Yeh"
+    },
+    {
+      "論文名稱": "Erbium-doped fiber dual-ring laser with stable single-longitudinal-mode and 55-nm tuning range",
+      "期刊名稱": "Optics and Laser Technology (SCIE)",
+      "作者群": "C. H. Yeh*, Z. Q. Yang, T. J. Huang, C. W. Chow, Y. J. Chang, M. J. Chen"
+    },
+    {
+      "論文名稱": "Performance analysis of free space optical communication traffic integrated with passive optical network",
+      "期刊名稱": "Electronics Letters (SCIE)",
+      "作者群": "C. H. Yeh*, C. W. Chow, C. S. Gu, B. S. Guo, Y. J. Cheng, and J. H. Chen"
+    },
+    {
+      "論文名稱": "Employment of silicon-micro-ring resonator and compound-ring architecture for stable and tunable single-longitudinal-mode fiber laser",
+      "期刊名稱": "Optics and Laser Technology (SCIE)",
+      "作者群": "Y. Hsu, C. H. Yeh*, H. Y. Cheng, Y. C. Chang, and C. W. Chow"
+    },
+    {
+      "論文名稱": "Using adaptive equalization and polarization-multiplexing technology for Gigabit-per-second phosphor-LED wireless visible light communication",
+      "期刊名稱": "Optics and Laser Technology (SCIE)",
+      "作者群": "C. W. Hsu, C. H. Yeh*, and C. W. Chow"
+    },
+    {
+      "論文名稱": "Stabilized single-longitudinal-mode erbium fiber laser employing silicon-micro-ring resonator and saturable absorber",
+      "期刊名稱": "Laser Physics (SCIE)",
+      "作者群": "Y. Hsu, C. H. Yeh*, C. W. Chow, Y. C. Chang, and H. Y. Cheng"
+    },
+    {
+      "論文名稱": "2.6 Tbit/s on-chip optical interconnect using 4-level pulse amplitude modulation (PAM-4) signals",
+      "期刊名稱": "IEEE Photonics Technology Letters (SCIE)",
+      "作者群": "Y. Hsu, C. Y. Chuang, X. Wu, G. H. Chen, C. W. Hsu, C. W. Chow, J. Chen, Y. C. Lai, C. H. Yeh, and H. K. Tsang"
+    },
+    {
+      "論文名稱": "Bi-directional visible light communication system using a single VCSEL with pre-distortion to enhance the upstream re-modulation",
+      "期刊名稱": "IEEE Photonics Journal (SCIE)",
+      "作者群": "L. Y. Wei, C. W. Chow, C. W. Hsu, and C. H. Yeh"
+    },
+    {
+      "論文名稱": "Switchable dual-wavelength single-longitudinal-mode erbium fiber laser utilizing dual-ring scheme with saturable absorber",
+      "期刊名稱": "Laser Physics (SCIE)",
+      "作者群": "Z. Q. Yang, T. J. Huang, Y. J. Chang, C. H. Yeh*, C. W. Chow, J. H. Chen, and K. H. Chen"
+    },
+    {
+      "論文名稱": "Silicon-micro-ring resonator based erbium fiber laser with single-longitudinal-mode oscillation",
+      "期刊名稱": "IEEE Photonics Journal (SCIE)",
+      "作者群": "C. H. Yeh*, H. Y. Cheng, Y. C. Chang, C. W. Chow, and J. H. Chen"
+    },
+    {
+      "論文名稱": "20.231 Gbit/s tricolor R/G/B laser diode based bi-directional signal remodulation visible light communication system",
+      "期刊名稱": "Photonics Research (SCIE)",
+      "作者群": "L. Y. Wei, C. W. Hsu, C. W. Chow, and C. H. Yeh"
+    },
+    {
+      "論文名稱": "Secure mobile-phone based visible light communications with different noise-ratio light-panel",
+      "期刊名稱": "IEEE Photonics Journal (SCIE)",
+      "作者群": "C. W. Chow, R. J. Shiu, Y. C. Liu, C. H. Yeh, X. L. Liao, K. H. Lin, Y. C. Wang, and Y. Y. Cheng"
+    },
+    {
+      "論文名稱": "Pre-distortion scheme to enhance the transmission performance of organic photo-detector (OPD) based visible light communication (VLC)",
+      "期刊名稱": "IEEE Access (SCIE)",
+      "作者群": "C. W. Chow, H. Y. Wang, C. H. Chen, H. W. Zan, C. H. Yeh, and H. F. Meng"
+    },
+    {
+      "論文名稱": "Utilizing wheel-ring architecture for stable and selectable single-longitudinal-mode erbium fiber laser",
+      "期刊名稱": "Optics Communications (SCIE)",
+      "作者群": "C. H. Yeh*, Z. Q. Yang, T. J. Huang, and C. W. Chow"
+    },
+    {
+      "論文名稱": "Non-flickering 100 m RGB visible light communication transmission based on CMOS image sensor",
+      "期刊名稱": "Optics Express (SCIE)",
+      "作者群": "C. W. Chow, R. J. Shiu, Y. C. Liu, Y. Liu, and C. H. Yeh"
+    },
+    {
+      "論文名稱": "Using pre-distorted PAM-4 signal and parallel resistance circuit to enhance the passive solar cell based visible light communication",
+      "期刊名稱": "Optics Communications (SCIE)",
+      "作者群": "H. Y. Wang, J. T. Wu, C. W. Chow, Y. Liu, C. H. Yeh, X. L. Liao, K. H. Lin, W. L. Wu, and Y. Y. Chen"
+    },
+    {
+      "論文名稱": "In-fiber Long-period Grating and Fiber Bragg Grating-based Sensor for Simultaneously Monitoring Remote Temperature and Stress",
+      "期刊名稱": "Sensors and Materials (SCIE)",
+      "作者群": "Hung-Ying Chang, Chien-Hung Yeh, Chuan-Ying Huang, Ming-Yue Fu, Chi-Wai Chow, and Wen-Fung Liu"
+    },
+    {
+      "論文名稱": "Smart architecture for stable multipoint fiber Bragg grating sensor system",
+      "期刊名稱": "Laser Physics (SCIE)",
+      "作者群": "C. H. Yeh*, N. Tsai, Y. H. Zhuang, T. J. Huang, C. W. Chow, J. H. Chen, and W. F. Liu"
+    },
+    {
+      "論文名稱": "Stable single-longitudinal-mode erbium fiber ring laser utilizing self-injection and saturable absorber",
+      "期刊名稱": "IEEE Photonics Journal (SCIE)",
+      "作者群": "C. H. Yeh*, T. J. Huang, Z. Q. Yang, C. W. Chow, and J. H. Chen"
+    },
+    {
+      "論文名稱": "Using multi-ring structure for suppression of mode competition in stable single-longitudinal-mode erbium fiber laser",
+      "期刊名稱": "Journal of Physics B: Atomic, Molecular and Optical Physics (SCIE)",
+      "作者群": "C. H. Yeh*, T. J. Huang, Z. Q.Yang, and C. W. Chow"
+    },
+    {
+      "論文名稱": "Mode-locking S-Band erbium fiber laser by employing alcohol-based saturable-absorber",
+      "期刊名稱": "Optical and Quantum Electronics (SCIE)",
+      "作者群": "Y. Hsu, C. H. Yeh*, and C. W. Chow"
+    },
+    {
+      "論文名稱": "Wavelength-selectable and steady single-mode erbium-doped fiber multiple-ring laser",
+      "期刊名稱": "Laser Physics (SCIE)",
+      "作者群": "C. H. Yeh*, Z. Q. Yang, T. J. Huang, C. W. Chow, J. H. Chen, and K. H. Chen"
+    },
+    {
+      "論文名稱": "Equalization of PAM-4 signal generated by silicon micro-ring modulator for 64-Gbit/s transmission",
+      "期刊名稱": "Journal of Lightwave Technology (SCIE)",
+      "作者群": "T. C. Tzu, Y. Hsu, C. Y. Chuang, X. Wu, C. W. Chow, J. Chen, C. H. Yeh, and H. K. Tsang"
+    },
+    {
+      "論文名稱": "Using a single VCSEL source employing OFDM downstream signal and remodulated OOK upstream signal for bi-directional visible light communications",
+      "期刊名稱": "Scientific Reports (SCIE)",
+      "作者群": "C. H. Yeh, L. Y. Wei, and C. W. Chow"
+    },
+    {
+      "論文名稱": "Efficient demodulation scheme for rolling-shutter-patterning of CMOS image sensor based visible light communications",
+      "期刊名稱": "Optics Express (SCIE)",
+      "作者群": "C. W. Chen, C. W. Chow, Y. Liu, and C. H. Yeh"
+    },
+    {
+      "論文名稱": "Performance enhancement technique of visible light communications using passive photovoltaic cell",
+      "期刊名稱": "Optics Communications (SCIE)",
+      "作者群": "J. T. Wu, C. W. Chow, Y. Liu, C. W. Hsu, and C. H. Yeh"
+    },
+    {
+      "論文名稱": "Use of proper cavity loss for stable single-longitudinal-mode erbium fiber laser",
+      "期刊名稱": "Laser Physics (SCIE)",
+      "作者群": "C. H. Yeh*, Y. H. Zhuang, N. Tsai, C. W. Chow, and J. H. Chen"
+    },
+    {
+      "論文名稱": "Long distance non-line-of-sight (NLOS) visible light signal detection based on rolling-shutter-patterning of mobile-phone camera",
+      "期刊名稱": "Optics Express (SCIE)",
+      "作者群": "W. C. Wang, C. W. Chow, L. Y. Wei, Y. Liu, and C. H. Yeh"
+    },
+    {
+      "論文名稱": "Capacity and capability enhancements of FBG sensor system by utilizing intensity and WDM detection technique",
+      "期刊名稱": "Smart Materials and Structures (SCIE)",
+      "作者群": "C. H. Yeh*, Y. H. Zhuang, N. Tsai, and C. W. Chow"
+    },
+    {
+      "論文名稱": "Stabilized and tunable single-longitudinal-mode erbium fiber laser employing ytterbium-doped fiber based interference filter",
+      "期刊名稱": "Optics and Laser Technology (SCIE)",
+      "作者群": "C. H. Yeh*, N. Tsai, Y. H. Zhuang, C. W. Chow, and J. H. Chen"
+    },
+    {
+      "論文名稱": "Adaptive filtering for white-light LED visible light communication",
+      "期刊名稱": "Optical Engineering (SCIE)",
+      "作者群": "C. W. Hsu, G. H. Chen, L. Y. Wei, C. W. Chow, I. C. Lu, Y. L. Liang, H. Y. Chen, C. H. Yeh, and Y. Liu"
+    },
+    {
+      "論文名稱": "High speed imaging 3×3 MIMO phosphor white-light LED based visible light communication system",
+      "期刊名稱": "IEEE Photonics Journal (SCIE)",
+      "作者群": "C. W. Hsu, C. W. Chow, I. C. Lu, Y. L. Liu, C. H. Yeh, and Y. Liu"
+    },
+    {
+      "論文名稱": "Thresholding schemes for visible light communications with CMOS camera using entropy-based algorithms",
+      "期刊名稱": "Optics Express (SCIE)",
+      "作者群": "K. Liang, C. W. Chow, Y. Liu, and C. H. Yeh"
+    },
+    {
+      "論文名稱": "Two-level modulation scheme to reduce latency for optical mobile fronthaul networks",
+      "期刊名稱": "Optics Express (SCIE)",
+      "作者群": "J. Y. Sung, C. W. Chow, C. H. Yeh, and G. K. Chang"
+    },
+    {
+      "論文名稱": "Fault self-detection technique in fiber Bragg grating-based passive sensor network",
+      "期刊名稱": "IEEE Sensors Journal (SCIE)",
+      "作者群": "C. H. Yeh*, N. Tsai, Y. H. Zhuang, C. W. Chow, and W. F. Liu"
+    },
+    {
+      "論文名稱": "Utilizing dual-pass composite-ring architecture for stabilized and wavelength-selectable single-longitudinal-mode erbium-doped fiber laser",
+      "期刊名稱": "Laser Physics (SCIE)",
+      "作者群": "C. H. Yeh*, Y. H. Zhuang, N. Tsai, J. H. Chen, and C. W. Chow"
+    },
+    {
+      "論文名稱": "Generating radially and azimuthally polarized beams by using a pair of lateral displacement beamsplitters",
+      "期刊名稱": "Applied Sciences (SCIE)",
+      "作者群": "C. Y. Han, Z. H. Wei, Y. Hsu, K. H. Chen, C. H. Yeh, W. X. Wu, J. H. Chen"
+    },
+    {
+      "論文名稱": "0.52–11.86 Gbit/s OFDM modulation for power-sharing VLC transmission by using VCSEL laser",
+      "期刊名稱": "Optics Express (SCIE)",
+      "作者群": "C. H. Yeh* and I. C. Lu"
+    },
+    {
+      "論文名稱": "Selectable dual-wavelength erbium-doped fiber laser with stable single-longitudinal-mode utilizing eye-type compound-ring configuration",
+      "期刊名稱": "Optics and Laser Technology (SCIE)",
+      "作者群": "C. H. Yeh*, J. Y. Chen, H. Z. Chen, and C. W. Chow"
+    },
+    {
+      "論文名稱": "Visible light positioning and lighting based on identity positioning and RF carrier allocation technique using a solar cell receiver",
+      "期刊名稱": "IEEE Photonics Journal (SCIE)",
+      "作者群": "C. W. Hsu, J. T. Wu, H. Y. Wang, C. W Chow, C. H. Lee, M. T. Chu, and C. H. Yeh"
+    },
+    {
+      "論文名稱": "Utilization of 1-GHz VCSEL for 11.1-Gbps OFDM VLC wireless communication",
+      "期刊名稱": "IEEE Photonics Journal (SCIE)",
+      "作者群": "I. C. Lu, C. H. Yeh*, D. Z. Hsu, and C. W. Chow"
+    },
+    {
+      "論文名稱": "Utilizing silicon-photonic micro-ring-resonator and multi-ring scheme for wavelength-switchable erbium fiber laser in single-longitudinal-mode",
+      "期刊名稱": "Laser Physics Letters (SCIE)",
+      "作者群": "C. H. Yeh*, Y. Hsu, and C. W. Chow"
+    },
+    {
+      "論文名稱": "Network architecture of bidirectional visible light communication and passive optical network",
+      "期刊名稱": "IEEE Photonics Journal (SCIE)",
+      "作者群": "C. W. Chow, C. H. Yeh, Y. Liu, J. Y. Sung, and C. W. Hsu"
+    },
+    {
+      "論文名稱": "Investigation of phosphor-LED lamp for real-time half-duplex wireless VLC system",
+      "期刊名稱": "Journal of Optics (SCIE)",
+      "作者群": "C. H. Yeh*, C. W. Chow, H. Y. Chen, Y. L. Liu, and D. Z. Hsu"
+    },
+    {
+      "論文名稱": "Visible light communications for the implementation of internet-of-things",
+      "期刊名稱": "Optical Engineering (SCIE)",
+      "作者群": "C. W. Chen, W. C. Wang, J. T. Wu, H. Y. Chen, K. Liang, L. Y. Wei, Y. Hsu, C. W. Hsu, C. W. Chow, C. H. Yeh, Y. Liu, H. C. Hsieh, and Y. T. Chen"
+    },
+    {
+      "論文名稱": "Utilizing ytterbium- and erbium-doped fibers for selectable and stable single-longitudinal-mode fiber ring laser",
+      "期刊名稱": "Laser Physics (SCIE)",
+      "作者群": "C. H. Yeh*, N. Tsai, and Y. H. Zhuang"
+    },
+    {
+      "論文名稱": "Using single side-band modulation for colorless OFDM-WDM access network to alleviate Rayleigh backscattering effects",
+      "期刊名稱": "Optics Express (SCIE)",
+      "作者群": "C. H. Yeh* and C. W. Chow"
+    },
+    {
+      "論文名稱": "Use of RSOA-transmitter for OFDM colorless WDM-PON communication",
+      "期刊名稱": "Optical and Quantum Electronics (SCIE)",
+      "作者群": "C. H. Yeh*, C.W. Chow, J. Y. Sung, and Y. F. Wu"
+    },
+    {
+      "論文名稱": "Stable and tunable single-longitudinal-mode erbium-doped fiber triple-ring laser with power-equalized output",
+      "期刊名稱": "IEEE Photonics Journal (SCIE)",
+      "作者群": "C. H. Yeh*, J. Y. Chen, H. Z. Chen, J. H. Chen, and C. W. Chow"
+    },
+    {
+      "論文名稱": "110 GHz hybrid mode-locked fiber laser with enhanced extinction ratio based on nonlinear silicon-on-insulator micro-ring-resonator (SOI MRR)",
+      "期刊名稱": "Laser Physics Letters (SCIE)",
+      "作者群": "Y. Liu, Y. Hsu, C. W. Chow, L. G. Yang, C. H. Yeh, Y. C. Lai, and H. K. Tseng"
+    },
+    {
+      "論文名稱": "Erbium-doped fiber triple-ring laser configuration with single-longitudinal-mode dual-wavelength output",
+      "期刊名稱": "Laser Physics (SCIE)",
+      "作者群": "C. H. Yeh*, H. Z. Chen, J. Y. Chen, N. Tsai, Y. H. Zhuang, J. H. Chen, and F. Lin"
+    },
+    {
+      "論文名稱": "Light encryption scheme using light emitting diode and camera image sensor",
+      "期刊名稱": "IEEE Photonics Journal (SCIE)",
+      "作者群": "Y. Liu, K. Liang, H. Y. Chen, L. Y. Wei, C. W. Hsu, C. W. Chow, and C. H. Yeh"
+    },
+    {
+      "論文名稱": "Stabilized dual-wavelength erbium-doped fiber laser with single-longitudinal-mode by utilizing fiber Bragg grating and compound-ring filter",
+      "期刊名稱": "Laser Physics Letters (SCIE)",
+      "作者群": "C. H. Yeh*, H. Z. Chen, J. Y. Chen, and C. W. Chow"
+    },
+    {
+      "論文名稱": "Visible light communication using receivers of camera image sensor and solar cell",
+      "期刊名稱": "IEEE Photonics Journal (SCIE)",
+      "作者群": "Y. Liu, H. Y. Chen, K. Liang, C. W. Hsu, C. W. Chow, and C. H. Yeh"
+    },
+    {
+      "論文名稱": "Narrow line-width single-longitudinal-mode fiber laser using silicon-on-insulator based micro-ring-resonator",
+      "期刊名稱": "Laser Physics Letter (SCIE)",
+      "作者群": "Y. Liu, Y. Hsu, C. W. Hsu, L. G. Yang, C. W. Chow, C. H. Yeh, Y. C. Lia, and H. K. Tsang"
+    },
+    {
+      "論文名稱": "Visible light communications using predistortion signal to enhance the response of passive optical receiver",
+      "期刊名稱": "Optical Engineering (SCIE)",
+      "作者群": "Y. Liu, H. Y. Chen, K. Liang, L. Y. Wei, C. W. Chow, and C. H. Yeh"
+    },
+    {
+      "論文名稱": "Stable single-longitudinal-mode erbium-doped fiber laser with dual-ring structure",
+      "期刊名稱": "Optical Fiber Technolog (SCIE)",
+      "作者群": "C. H. Yeh*, J. Y. Chen, H. Z. Chen, and C. W. Chow"
+    },
+    {
+      "論文名稱": "Cost-effective mobile backhaul network using existing ODN of PONs for the 5G wireless systems",
+      "期刊名稱": "IEEE Photonics Journal (SCIE)",
+      "作者群": "J. Y. Sung, C. W. Chow, C. H. Yeh, Y. Liu, and G. K. Chang"
+    },
+    {
+      "論文名稱": "A flexible and reliable 40 Gb/s OFDM downstream TWDM-PON architecture",
+      "期刊名稱": "IEEE Photonics Journal (SCIE)",
+      "作者群": "C. H. Yeh*, C. W. Chow, M. H. Yang, and D. Z. Hsu"
+    },
+    {
+      "論文名稱": "Visible-light communication multiple-input multiple-output technology for indoor lighting, communication, and positioning",
+      "期刊名稱": "Optical Engineering (SCIE)",
+      "作者群": "Y. Liu, C. W. Hsu, H. Y. Chen, K. Liang C. W. Chow, and C. H. Yeh"
+    },
+    {
+      "論文名稱": "Orthogonal frequency-division multiplexing access (OFDMA) based wireless visible light communication (VLC) system",
+      "期刊名稱": "Optics Communications (SCIE)",
+      "作者群": "J. Y. Sung, C. H. Yeh*, C. W. Chow, W. F. Lin, and Y. Liu"
+    },
+    {
+      "論文名稱": "Use of fiber Bragg grating (FBG) for stable and tunable erbium-doped fiber ring laser with single-longitudinal-mode (SLM) output",
+      "期刊名稱": "Laser Physics (SCIE)",
+      "作者群": "C. H. Yeh*, H. Z. Chen, J. Y. Chen, and C. W. Chow"
+    },
+    {
+      "論文名稱": "Utilizing FBG-based erbium-doped fiber architecture for remote temperature sensing",
+      "期刊名稱": "Laser Physics (SCIE)",
+      "作者群": "C. H. Yeh*, C. W. Chow, J. Y. Chen, H. Z. Chen, J. H. Chen, and W. F. Liu"
+    },
+    {
+      "論文名稱": "Optical filter analyses for demultiplexing all-optical OFDM transmission systems",
+      "期刊名稱": "Optical and Quantum Electronics (SCIE)",
+      "作者群": "J. Y. Sung, C. W. Hsu, H. Q. Su, C. W. Chow, and C. H. Yeh*"
+    },
+    {
+      "論文名稱": "Square-core single-mode-fiber (SC-SMF) with high bending tolerance for data center networks",
+      "期刊名稱": "Optics Communications (SCIE)",
+      "作者群": "C. W. Chow, S. P. Huang, C. H. Yeh*, J. Y. Sung, P. F. Liu, G. Chou, and C. L. Pan"
+    },
+    {
+      "論文名稱": "Stable and wavelength-tunable self-injected reflective semiconductor optical amplifier-based fiber laser",
+      "期刊名稱": "IEEE Photonics Journal (SCIE)",
+      "作者群": "Y. F. Wu, C. H. Yeh*, C. W. Chow, J. Y. Sung, and J. H. Chen"
+    },
+    {
+      "論文名稱": "Cost-effective direct-detection all-optical OOK-OFDM system with analysis of modulator bandwidth and driving power",
+      "期刊名稱": "IEEE Photonics Journal (SCIE)",
+      "作者群": "C. W. Hsu, C. W. Chow, and C. H. Yeh"
+    },
+    {
+      "論文名稱": "Investigation of no analogue-equalization and blue filter for 185 Mbps phosphor-LED wireless communication",
+      "期刊名稱": "Optical and Quantum Electronics (SCIE)",
+      "作者群": "C. H. Yeh*, C. W. Chow, Y. L. Liu, H. Y. Chen, Y. Liu, and J. C. Hsu"
+    },
+    {
+      "論文名稱": "Secure communication zone for white-light LED visible light communication",
+      "期刊名稱": "Optics Communications (SCIE)",
+      "作者群": "C. W. Chow, Y. Liu, C. H. Yeh*, C. Y. Chen, C. N. Lin, and D. Z. Hsu"
+    },
+    {
+      "論文名稱": "A convergent wireline and wireless time-and-wavelength-division-multiplexed passive-optical-network",
+      "期刊名稱": "IEEE Photonics Journal (SCIE)",
+      "作者群": "C. W. Chow, J. Y. Sung, and C. H. Yeh"
+    },
+    {
+      "論文名稱": "A practical in-home illumination consideration to reduce data rate fluctuation in visible light communication",
+      "期刊名稱": "IEEE Wireless Communications (SCIE)",
+      "作者群": "C. W. Chow, Y. Liu, C. H. Yeh, J. Y. Sung, and Y. L. Liu"
+    },
+    {
+      "論文名稱": "Using specific and adaptive arrangement of grid-type pilot in channel estimation for white-light LED-based OFDM visible light communication system",
+      "期刊名稱": "Optics Communications (SCIE)",
+      "作者群": "W. F. Lin, C. W. Chow, and C. H. Yeh*"
+    },
+    {
+      "論文名稱": "56 Gb/s OOK transmission in robust and bend-insensitive GGP 80-μm ultra-large-core (ULC) MMF for Lightpeak",
+      "期刊名稱": "Optical and Quantum Electronics (SCIE)",
+      "作者群": "C. W. Chow, L. G. Yang, J. Y. Sung, C. H. Yeh*, C. L. Pan, and G. Chuo"
+    },
+    {
+      "論文名稱": "Polarization-multiplexed 2X2 phosphor-LED wireless light communication without using analog equalization and optical blue filter",
+      "期刊名稱": "Optics Communications (SCIE)",
+      "作者群": "C. H. Yeh*, H. Y. Chen, Y. L. Liu, and C. W. Chow"
+    },
+    {
+      "論文名稱": "Utilization of multi-band OFDM modulation to increase traffic rate of phosphor-LED wireless VLC",
+      "期刊名稱": "Optics Express (SCIE)",
+      "作者群": "C. H. Yeh*, H. Y. Chen, C. W. Chow, and Y. L. Liu"
+    },
+    {
+      "論文名稱": "Wired and wireless convergent extended-reach optical access network using direct-detection of all-optical OFDM super-channel signal",
+      "期刊名稱": "Optics Express (SCIE)",
+      "作者群": "C. W. Chow, C. H. Yeh, J. Y. Sung, and C. W. Hsu"
+    },
+    {
+      "論文名稱": "OFDM RF power-fading circumvention for long-reach WDM-PON",
+      "期刊名稱": "Optics Express (SCIE)",
+      "作者群": "C. W. Chow, C. H. Yeh, and J. Y. Sung"
+    },
+    {
+      "論文名稱": "Coding for stable and low-cost W-band radio-over-fiber access communications using local-carrier generation by direct-beating of two independent lasers",
+      "期刊名稱": "Optics Express (SCIE)",
+      "作者群": "L. G. Yang, J. Y. Sung, C. W. Chow, C. H. Yeh, K T. Cheng, J. W. Shi, and C. L. Pan"
+    },
+    {
+      "論文名稱": "A secure WDM ring access network employing silicon micro-ring based remote node",
+      "期刊名稱": "Optical Fiber Technology (SCIE)",
+      "作者群": "J. Y. Sung, C. W. Chow, C. H. Yeh*, K. Xu, C. W. Hsu, H. Q. Su, and H. K. Tsang"
+    },
+    {
+      "論文名稱": "Is blue optical filter necessary in high speed phosphor-based white light LED visible light communications?",
+      "期刊名稱": "Optics Express (SCIE)",
+      "作者群": "J. Y. Sung, C. W. Chow, and C. H. Yeh"
+    },
+    {
+      "論文名稱": "Demonstration of self-injected Fabry-Perot laser for dual-wavelength tuning together with different mode-spacing",
+      "期刊名稱": "Laser Physics (SCIE)",
+      "作者群": "C. H. Yeh*, C. W. Chow, Y. F. Wu, and S. S. Lu"
+    },
+    {
+      "論文名稱": "110 GHz passive mode-locked fiber laser based on nonlinear silicon-micro-ring-resonator (SMRR)",
+      "期刊名稱": "Laser Physics Letters (SCIE)",
+      "作者群": "L. G. Yang, S. S. Jyu, C. W. Chow, C. H. Yeh, C. Y. Wong, H. K. Tsang, and Y. Lai"
+    },
+    {
+      "論文名稱": "A scalable and continuous-upgradable optical wireless and wired convergent access network",
+      "期刊名稱": "Optics Express (SCIE)",
+      "作者群": "J. Y. sung, K. T. Cheng, C. W. Chow, C. H. Yeh, and C. L. Pan"
+    },
+    {
+      "論文名稱": "Stable and wavelength-tunable RSOA-and SOA-based fiber ring laser",
+      "期刊名稱": "Optical Fiber Technology (SCIE)",
+      "作者群": "C. H. Yeh*, J. Y. Sung, L. G. Yang, C. W. Chow, and J. H. Chen"
+    },
+    {
+      "論文名稱": "Optimized design of multiport optical circulator",
+      "期刊名稱": "Optik (SCIE)",
+      "作者群": "F. H. Hsu, J. H. Chen, K. H. Chen, C. H. Yeh, K. Y. Hsu"
+    },
+    {
+      "論文名稱": "Use of reflective semiconductor optical amplifier and dual-ring architecture design for stable multi-wavelength fiber laser",
+      "期刊名稱": "Laser Physics (SCIE)",
+      "作者群": "C. H. Yeh*, C. W. Chow, and S. S. Lu"
+    },
+    {
+      "論文名稱": "Bend and twist insensitive large core multimode fiber (LCMMF) for baseband and ROF in-home data transmission",
+      "期刊名稱": "Optics Communications (SCIE)",
+      "作者群": "C. W. Chow, C. H. Yeh, L. G. Yang, J. Y. Sung, S. P. Huang, G. Chou, and C. L. Pan"
+    },
+    {
+      "論文名稱": "Adaptive 84.44–190 Mbit/s phosphor-LED wireless communication utilizing no blue filter at practical transmission distance",
+      "期刊名稱": "Optics Express (SCIE)",
+      "作者群": "C. H. Yeh*, C. W. Chow, H. Y. Chen, J. Chen, and Y. L. Liu"
+    },
+    {
+      "論文名稱": "Dimming-discrete-multi-tone (DMT) for simultaneous color control and high speed visible light communication",
+      "期刊名稱": "Optics Express (SCIE)",
+      "作者群": "J. Y. Sung, C. W. Chow, and C. H. Yeh"
+    },
+    {
+      "論文名稱": "115 Gbit/s downstream and 10 Gbit/s upstream TWDM-PON together with 11.25 Gbit/s wireless signal utilizing OFDM-QAM modulation",
+      "期刊名稱": "Optical Fiber Technology (SCIE)",
+      "作者群": "C. H. Yeh*, C. W. Chow, H. Y. Chen, and Y. L. Liu"
+    },
+    {
+      "論文名稱": "Demonstration of using multi-band 16-QAM OFDM modulation with direct-detection in 10 GHz bandwidth for 37.3-Gb/s PON",
+      "期刊名稱": "Photonic Network Communications (SCIE)",
+      "作者群": "C. H. Yeh*, H. Y. Chen, C. W. Chow, and J. Y. Sung"
+    },
+    {
+      "論文名稱": "S-band pulse generation by polarization additive-pulse mode-locking in an erbium-doped all-fiber ring laser",
+      "期刊名稱": "Laser Physics Letters (SCIE)",
+      "作者群": "L. G. Yang, S. S. Jyu, C. W. Chow, C. H. Yeh, and Y. Lai"
+    },
+    {
+      "論文名稱": "2.5−10 Gbit/s laser source based on two optical-injection Fabry-Perot laser diodes",
+      "期刊名稱": "Optical Fiber Technology (SCIE)",
+      "作者群": "Y. F. Wu, C. H. Yeh*, C. W. Chow, Y. L. Liu, and J. Y. Sung"
+    },
+    {
+      "論文名稱": "TWDM-PON with signal remodulation and Rayleigh noise circumvention for NG-PON2",
+      "期刊名稱": "IEEE Photonics Journal (SCIE)",
+      "作者群": "C. W. Chow, C. H. Yeh, K. Xu, J. Y. Sung, and H. K. Tsang"
+    },
+    {
+      "論文名稱": "Real-time white-light phosphor-LED visible light communication (VLC) with compact size",
+      "期刊名稱": "Optics Express (SCIE)",
+      "作者群": "C. H. Yeh*, Y. L. Liu, and C. W. Chow"
+    },
+    {
+      "論文名稱": "Utilizing 1.2 GHz bandwidth reflective semiconductor optical amplifier for 1.25−10 Gbit/s for colourless and cooler-less wavelength conversion",
+      "期刊名稱": "Optical and Quantum Electronics (SCIE)",
+      "作者群": "C. H. Yeh*, C. W. Chow, Y. F. Wu, and F. Y. Shih"
+    },
+    {
+      "論文名稱": "250 GHz passive harmonic mode-locked Er-doped fiber laser by dissipative four-wave mixing with silicon-based micro-ring",
+      "期刊名稱": "IEEE Photonics Journal (SCIE)",
+      "作者群": "S. S. Jyu, L. G. Yang, C. Y. Wong, C. H. Yeh, C. W. Chow, H. K. Tsang, and Y. Lai"
+    },
+    {
+      "論文名稱": "AC-based phosphor LED visible light communication by utilizing novel signal modulation",
+      "期刊名稱": "Optical and Quantum Electronics (SCIE)",
+      "作者群": "Y. F. Liu, C. H. Yeh*, C. W. Chow, and Y. L. Liu"
+    },
+    {
+      "論文名稱": "Alternating-signal-biased system design and demonstration for visible light communication",
+      "期刊名稱": "IEEE Photonics Journal (SCIE)",
+      "作者群": "Y. F. Liu, C. H. Yeh*, and C. W. Chow"
+    },
+    {
+      "論文名稱": "Compatibility of silicon Mach-Zehnder modulators for advanced modulation formats",
+      "期刊名稱": "IEEE/OSA Journal of Lightwave Technology (SCIE)",
+      "作者群": "K. Xu, L. G. Yang, J. Y. Sung, Y. M. Chen, Z. Z. Cheng, C. W. Chow, C. H. Yeh, and H. K. Tsang"
+    },
+    {
+      "論文名稱": "Simple digital FIR equalizer design for improving the phosphor LED modulation bandwidth in visible light communication",
+      "期刊名稱": "Optical and Quantum Electronics (SCIE)",
+      "作者群": "C. H. Yeh*, C. W. Chow, Y. F. Liu, and P. Y. Huang"
+    },
+    {
+      "論文名稱": "Performance of long-reach passive access networks using injection-locked Fabry-Perot laser diodes with finite front-facet reflectivities",
+      "期刊名稱": "IEEE/OSA Journal of Lightwave Technology (SCIE)",
+      "作者群": "C. H. Yeh, C. W. Chow, Y. F. Wu, J. Y. Sung, Y. L. Liu, and C. L. Pan"
+    },
+    {
+      "論文名稱": "Investigation of using injection-locked Fabry-Perot laser diode with 10% front-facet reflectivity for short-reach to long-reach upstream PON access",
+      "期刊名稱": "IEEE Photonics Journal (SCIE)",
+      "作者群": "H. Y. Chen, C. H. Yeh*, C. W. Chow, J. Y. Sung, Y. L. Liu, and J. Chen"
+    },
+    {
+      "論文名稱": "Broadband C- plus L-band CW wavelength-tunable fiber laser based on hybrid EDFA and SOA",
+      "期刊名稱": "Optical Fiber Technology (SCIE)",
+      "作者群": "C. H. Yeh*, C. W. Chow, J. H. Chen, K. H. Chen, and S. S. Lu"
+    },
+    {
+      "論文名稱": "Using a C-band reflective semiconductor optical amplifier and linear cavity laser scheme for L-band multi-wavelength lasing",
+      "期刊名稱": "Laser Physics Letters (SCIE)",
+      "作者群": "C. H. Yeh, C. W. Chow, and S. S. Lu"
+    },
+    {
+      "論文名稱": "Background optical noises circumvention in LED optical wireless systems using OFDM",
+      "期刊名稱": "IEEE Photonics Journal (SCIE)",
+      "作者群": "C. W. Chow, C. H. Yeh, Y. F. Liu, and P. Y. Huang"
+    },
+    {
+      "論文名稱": "Using downstream DPSK and upstream wavelength-shifted ASK for Rayleigh backscattering mitigation in TDM-PON to WDM-PON migration scheme",
+      "期刊名稱": "IEEE Photonics Journal (SCIE)",
+      "作者群": "C. W. Chow and C. H. Yeh"
+    },
+    {
+      "論文名稱": "Adaptive scheme for maintaining the performance of the in-home white-LED visible light wireless communications using OFDM",
+      "期刊名稱": "Optics Communications (SCIE)",
+      "作者群": "C. W. Chow, C. H. Yeh, Y. F. Liu, P. Y. Huang, and Y. Liu"
+    },
+    {
+      "論文名稱": "Service integrated access network using highly spectral-efficient MASK-MQAM-OFDM coding",
+      "期刊名稱": "Optics Express (SCIE)",
+      "作者群": "J. Y. Sung, C. W. Chow, C. H. Yeh, and Y. C. Wang"
+    },
+    {
+      "論文名稱": "Mitigation of optical background noise in light-emitting diode (LED) optical wireless communication systems",
+      "期刊名稱": "IEEE Photonics Journal (SCIE)",
+      "作者群": "C. W. Chow, C. H. Yeh, Y. F. Liu, and P. Y. Huang"
+    },
+    {
+      "論文名稱": "Stable and wavelength-tunable silicon-micro-ring-resonator based erbium-doped fiber laser",
+      "期刊名稱": "Optics Express (SCIE)",
+      "作者群": "L. G. Yang, C. H. Yeh, C. Y. Wong, C. W. Chow, F. G. Tseng, and H. K. Tsang"
+    },
+    {
+      "論文名稱": "Ultra-broadband amplified spontaneous emission source by using heterogeneous optical amplifier",
+      "期刊名稱": "Laser Physics (SCIE)",
+      "作者群": "C. H. Yeh*, C. W. Chow, J. H. Chen, and S. S. Lu"
+    },
+    {
+      "論文名稱": "Semiconductor optical amplifier-based Sagnac ring laser structure with 25 km long cavity length",
+      "期刊名稱": "Laser Physics (SCIE)",
+      "作者群": "C. H. Yeh* and C. W. Chow"
+    },
+    {
+      "論文名稱": "Adaptive upstream optical power adjustment depending on required power budget in PON access",
+      "期刊名稱": "Optics Communications (SCIE)",
+      "作者群": "C. H. Yeh*, C. W. Chow, and Y. L. Liu"
+    },
+    {
+      "論文名稱": "Ring-based WDM access network providing both Rayleigh backscattering noise mitigation and fiber-fault protection",
+      "期刊名稱": "IEEE/OSA Journal of Lightwave Technology (SCIE)",
+      "作者群": "C. H. Yeh, C. W. Chow, S. P. Huang, J. Y. Sung, Y. L. Liu, and C. L. Pan"
+    },
+    {
+      "論文名稱": "10 Gb/s optical carrier distributed network with W-band (0.1 THz) short-reach wireless communication system",
+      "期刊名稱": "Optics Communications (SCIE)",
+      "作者群": "C. W. Chow, L. G. Yang, C. H. Yeh, C. B. Huang, J. W. Shi, and C. L. Pan"
+    },
+    {
+      "論文名稱": "An energy-efficient tie-type architecture for stable and wavelength-tunable SOA-based fiber laser",
+      "期刊名稱": "Optics Communications (SCIE)",
+      "作者群": "C. H. Yeh*, C. W. Chow, Y. F. Wu, and S. S. Lu"
+    },
+    {
+      "論文名稱": "Demonstration of bi-directional LED visible light communication using TDD traffic with mitigation of reflection interference",
+      "期刊名稱": "Optics Express (SCIE)",
+      "作者群": "Y. F. Liu, C. H. Yeh, C. W. Chow, Y. Liu, Y. L. Liu, and H. K. Tsang"
+    },
+    {
+      "論文名稱": "Adaptive upstream rate adjustment by RSOA-ONU depending on different injection power of seeding light in standard-reach and long-reach PON systems",
+      "期刊名稱": "Optics Communications (SCIE)",
+      "作者群": "C. H. Yeh*, C. W. Chow, F. Y. Shih, and C. L. Pan"
+    },
+    {
+      "論文名稱": "Demonstration of using injection-locked Fabry-Perot laser diode for 10 Gbit/s 16-QAM OFDM WDM-PON",
+      "期刊名稱": "Electronics Letters (SCIE)",
+      "作者群": "C. H. Yeh*, C. W. Chow, H. Y. Chen, J. Y. Sung, and Y. L. Liu"
+    },
+    {
+      "論文名稱": "Simple colorless WDM-PON with Rayleigh backscattering noise circumvention Employing m-QAM OFDM downstream and remodulated OOK upstream signals",
+      "期刊名稱": "IEEE/OSA Journal of Lightwave Technology (SCIE)",
+      "作者群": "C. H. Yeh, C. W. Chow, and H. Y. Chen"
+    },
+    {
+      "論文名稱": "Extended-reach access network with downstream radio-over-fiber (ROF) signal and upstream NRZ signal using orthogonal-WDM",
+      "期刊名稱": "Optics Express (SCIE)",
+      "作者群": "C. W. Chow, S. P. Huang, L. G. Yang, and C. H. Yeh"
+    },
+    {
+      "論文名稱": "Investigation of 4-ASK modulation with digital filtering to increase 20 times of direct modulation speed of white-light LED visible light communication system",
+      "期刊名稱": "Optics Express (SCIE)",
+      "作者群": "C. H. Yeh, Y. F. Liu, C. W. Chow, Y. Liu, P. Y. Huang, and H. K. Tsang"
+    },
+    {
+      "論文名稱": "Dual-reflected-structure erbium-doped fiber laser in single-longitudinal-mode for wavelength-tuning",
+      "期刊名稱": "Laser Physics (SCIE)",
+      "作者群": "C. H. Yeh*, C. W. Chow, J. Y. Sung, S. S. Lu, and Y. F. Wu"
+    },
+    {
+      "論文名稱": "Self-protected time-division-multiplexed passive access networks in tree and ring topology architectures",
+      "期刊名稱": "Photonic Network Communications (SCIE)",
+      "作者群": "C. H. Yeh*, C. W. Chow, Y. F. Wu, F. Y. Shih, and S. Chi"
+    },
+    {
+      "論文名稱": "Fiber-fault protection WDM-PON using new apparatus in optical networking unit",
+      "期刊名稱": "Optics Communications (SCIE)",
+      "作者群": "C. H. Yeh*, C. W. Chow, F. Y. Shih, Y. F. Wu, and J. Y. Sung"
+    },
+    {
+      "論文名稱": "Hybrid OFDM-based multi-band wireless and baseband signal transmission in PON access",
+      "期刊名稱": "Electronics Letters (SCIE)",
+      "作者群": "C. H. Yeh*, C. W. Chow, H. Y. Chen, and J. Y. Sung"
+    },
+    {
+      "論文名稱": "Demonstrations of 10 and 40 Gbps upstream transmissions using 1.2 GHz RSOA-based ONU in long-reach access networks",
+      "期刊名稱": "Optical Fiber Technology (SCIE)",
+      "作者群": "C. H. Yeh*, C. W. Chow, Y. F. Wu, and H. Y. Chen"
+    },
+    {
+      "論文名稱": "Design and characterization of large-core optical fiber for light-peak applications",
+      "期刊名稱": "Optical Engineering (SCIE)",
+      "作者群": "C. W. Chow, C. H. Yeh, L. G. Yang, S. B. Huang , J. Y. Sung, C. L. Pan, and G. Chou"
+    },
+    {
+      "論文名稱": "Using 1.2 GHz bandwidth reflective Semiconductor optical amplifier with seeding-light by 64-quadrature amplitude modulation orthogonal frequency division multiplexing modulation to achieve 10 Gbps upstream rate in long-reach passive optical network access",
+      "期刊名稱": "Optical Engineering (SCIE)",
+      "作者群": "C. H. Yeh*, H. Y. Chen, C. W. Chow, and Y. F. Wu"
+    },
+    {
+      "論文名稱": "Measurement of organic chemical refractive index using optical time-domain reflectometer",
+      "期刊名稱": "Sensors (SCIE)",
+      "作者群": "C. H. Yeh*, C. W. Chow, J. Y. Sung, P. C. Wu, W. T. Whang, and F. G. Tseng"
+    },
+    {
+      "論文名稱": "Using Sagnac loop of optical-injected semiconductor laser scheme for stable and continuous CW wavelength-tuning",
+      "期刊名稱": "Laser Physics (SCIE)",
+      "作者群": "C. H. Yeh*, C. W. Chow, S. S. Lu, and Y. F. Wu"
+    },
+    {
+      "論文名稱": "Stable wavelength-tuning laser in single-frequency by optical-injected Fabry-Perot laser diode and RSOA for long distance fiber propagation",
+      "期刊名稱": "Laser Physics (SCIE)",
+      "作者群": "C. H. Yeh*, C. W. Chow, Y. F. Wu, S. S. Lu, and Y. H. Lin"
+    },
+    {
+      "論文名稱": "Using adaptive four-band OFDM modulation with 40 Gb/s downstream and 10 Gb/s upstream signals for next generation long-reach PON",
+      "期刊名稱": "Optics Express (SCIE)",
+      "作者群": "C. H. Yeh*, C. W. Chow, H. Y. Chen, and B. W. Chen"
+    },
+    {
+      "論文名稱": "40 Gb/s on-off keying downstream and 10 Gb/s on-off keying remodulated upstream signals in long-reach access network with multi-video services",
+      "期刊名稱": "Optical Engineering (SCIE)",
+      "作者群": "C. H. Yeh*, C. W. Chow, Y. L. Liu, and C. L. Pan"
+    },
+    {
+      "論文名稱": "C+L band wavelength division multiplexing access network with distributed-controlled protection architecture",
+      "期刊名稱": "Optical Engineering (SCIE)",
+      "作者群": "C. H. Yeh* and C. W. Chow"
+    },
+    {
+      "論文名稱": "Simplified design of multiport optical circulator with parallel connection of mirror-image arranged spatial- and polarization-modules",
+      "期刊名稱": "IEEE Photonics Technology Letters (SCIE)",
+      "作者群": "J. H. Chen, K. H. Chen, C. H. Yeh, and P. H. Weng"
+    },
+    {
+      "論文名稱": "13-Gb/s WDM-OFDM PON using RSOA-based colorless ONU with seeding light source in the local exchange",
+      "期刊名稱": "Electronics Letters (SCIE)",
+      "作者群": "C. W. Chow, C. H. Yeh, Y. F. Wu, H. Y. Chen, Y. H. Lin, J. Y. Sung, Y. Liu, and C. L. Pan"
+    },
+    {
+      "論文名稱": "Stable multiwavelength semiconductor laser using FWM and SBS-assisted filter",
+      "期刊名稱": "IEEE Photonics Technology Letters (SCIE)",
+      "作者群": "C. H. Yeh*, C. W. Chow, Y. F. Wu, F. Y. Shih, J. H. Chen, and C. L. Pan"
+    },
+    {
+      "論文名稱": "Signal remodulation ring WDM passive optical network with Rayleigh backscattering interferometric noise mitigation",
+      "期刊名稱": "IEEE Communications Letters (SCIE)",
+      "作者群": "C. H. Yeh* and C. W. Chow"
+    },
+    {
+      "論文名稱": "Using Fabry-Perot laser diode and reflective semiconductor optical amplifier for long reach WDM-PON system",
+      "期刊名稱": "Optics Communications (SCIE)",
+      "作者群": "C. H. Yeh*, C. W. Chow, Y. F. Wu, F. Y. Shih, and S. Chi"
+    },
+    {
+      "論文名稱": "Compensation of power drops in reflective semiconductor optical amplifier-based PON with upstream data rate adjustment",
+      "期刊名稱": "Optical Engineering (SCIE)",
+      "作者群": "C. H. Yeh*, C. W. Chow, M. F. Chiang, F. Y. Shih, and C. L. Pan"
+    },
+    {
+      "論文名稱": "Using optimal cavity loss and saturable-absorber passive filter for stable and tunable dual-wavelength erbium fiber laser in single-longitudinal-mode operation",
+      "期刊名稱": "Laser Physics Letters (SCIE)",
+      "作者群": "C. H. Yeh*, C. W. Chow, Y. F. Wu, Y. H. Lin, B. C. Cheng, and J. H. Chen"
+    },
+    {
+      "論文名稱": "Simple erbium-doped dual-ring fiber laser configuration for stable and tunable dual-wavelength output",
+      "期刊名稱": "Laser Physics (SCIE)",
+      "作者群": "C. H. Yeh*, C. W. Chow, B. C. Cheng, J. H. Chen, and K. H. Chen"
+    },
+    {
+      "論文名稱": "Rayleigh backscattering circumvention in ring-based access network using RSOA-ONU",
+      "期刊名稱": "IEEE Photonics Technology Letters (SCIE)",
+      "作者群": "C. W. Chow, C. H. Yeh, Y. F. Wu, F. Y. Shih, and S. Chi"
+    },
+    {
+      "論文名稱": "Improved modulation speed of the LED visible light communication system integrated to the main electricity network",
+      "期刊名稱": "Electronics Letters (SCIE)",
+      "作者群": "C. W. Chow, C. H. Yeh, Y. F. Liu, and Y. Liu"
+    },
+    {
+      "論文名稱": "Characterization of Rayleigh backscattering performance of CS-SSB signal in carrier distributed passive optical network",
+      "期刊名稱": "Optics Communications (SCIE)",
+      "作者群": "C. H. Wang, C. H. Yeh, C. W. Chow, Y. F. Wu, F. Y. Shih, and S. Chi"
+    },
+    {
+      "論文名稱": "Self-protected ring-star-architecture TDM passive optical network with triple-play management",
+      "期刊名稱": "Optics Communications (SCIE)",
+      "作者群": "C. H. Yeh*, C. W. Chow, and Y. L. Liu"
+    },
+    {
+      "論文名稱": "Long-reach radio-over-fiber signal distribution using single-sideband signal generated by a silicon-modulator",
+      "期刊名稱": "Optics Express (SCIE)",
+      "作者群": "C. W. Chow, C. H. Yeh, S. M. G. Lo, C. Li, and H. K. Tsang"
+    },
+    {
+      "論文名稱": "Employing dual-saturable-absorber-based filter for stable and tunable erbium-doped fiber ring laser in single-frequency",
+      "期刊名稱": "Laser Physics (SCIE)",
+      "作者群": "C. H. Yeh*, C. W. Chow, K. H. Chen, and J. H. Chen"
+    },
+    {
+      "論文名稱": "Analysis of the carrier-suppressed single-sideband modulators used to mitigate Rayleigh backscattering in carrier-distributed PON",
+      "期刊名稱": "Optics Express (SCIE)",
+      "作者群": "C. W. Chow, C. H. Wang, C. H. Yeh, and S. Chi"
+    },
+    {
+      "論文名稱": "Employing external injection-locked Fabry-Perot laser scheme for mm-wave generation",
+      "期刊名稱": "Laser Physics (SCIE)",
+      "作者群": "Y. F. Wu, C. H. Yeh*, C. W. Chow, Y. F. Shih, and S. Chi"
+    },
+    {
+      "論文名稱": "Heterogeneous radio-over-fiber passive access network architecture to mitigate Rayleigh backscattering interferometric beat noise",
+      "期刊名稱": "Optics Express (SCIE)",
+      "作者群": "C. H. Yeh* and C. W. Chow"
+    },
+    {
+      "論文名稱": "Mitigation of Rayleigh backscattering in 10-Gb/s downstream and 2.5-Gb/s upstream DWDM 100-km long-reach PONs",
+      "期刊名稱": "Optics Express (SCIE)",
+      "作者群": "C. W. Chow and C. H. Yeh"
+    },
+    {
+      "論文名稱": "Using dual-mode self-locked semiconductor laser for optical millimeter-wave application",
+      "期刊名稱": "Laser Physics (SCIE)",
+      "作者群": "C. H. Yeh*, C. W. Chow, Y. F. Liu, and C. L. Pan"
+    },
+    {
+      "論文名稱": "A simple fiber Bragg grating-based sensor network architecture with self-protecting and monitoring function",
+      "期刊名稱": "Sensors (SCIE)",
+      "作者群": "C. H. Yeh*, C. W. Chow, P. C. Wu, and F. C. Tseng"
+    },
+    {
+      "論文名稱": "Utilizing erbium fiber ring scheme and Fabry-Perot laser diode for stable and wavelength-tunable laser in single-longitudinal-mode output",
+      "期刊名稱": "Laser Physics Letters (SCIE)",
+      "作者群": "C. H. Yeh*, C. W. Chow, and C. L. Pan"
+    },
+    {
+      "論文名稱": "40-Gb/s downstream DPSK and 40-Gb/s upstream OOK signal remodulation PON using reduced modulation index",
+      "期刊名稱": "Optics Express (SCIE)",
+      "作者群": "C. W. Chow and C. H. Yeh"
+    },
+    {
+      "論文名稱": "Wavelength-selectable single-longitudinal-mode Fabry-Perot laser source using inter-injection mode-locked technique",
+      "期刊名稱": "Optical Fiber Technology (SCIE)",
+      "作者群": "C. H. Yeh* and C. W. Chow"
+    },
+    {
+      "論文名稱": "Rayleigh backscattering mitigation using wavelength splitting for heterogeneous optical wired and wireless access networks",
+      "期刊名稱": "IEEE Photonics Technology Letters (SCIE)",
+      "作者群": "C. W. Chow, C. H. Yeh, L. Xu, and H. K. Tsang"
+    },
+    {
+      "論文名稱": "Studies of OFDM signal for broadband optical access networks",
+      "期刊名稱": "IEEE Journal on Selected Areas in Communication (SCIE)",
+      "作者群": "C. W. Chow, C. H. Yeh, C. H. Wang, C. L. Wu, S. Chi, and C. Lin"
+    },
+    {
+      "論文名稱": "Theory and technology for WiMAX over fiber in high speed train systems",
+      "期刊名稱": "IEEE/OSA Journal of Lightwave Technology (SCIE)",
+      "作者群": "C. H. Yeh*, C. W. Chow, Y. L. Liu, S. K. Wen, S. Y. Chen, C. R. Sheu, M. C. Tseng, J. L. Lin, D. Z. Hsu, and S. Chi"
+    },
+    {
+      "論文名稱": "Rayleigh noise mitigation using single sideband modulation generated by a dual-parallel MZM for carrier distributed PON",
+      "期刊名稱": "IEEE Photonics Technology Letters (SCIE)",
+      "作者群": "C. H. Wang, C. W. Chow, C. H. Yeh, C. L. Wu, S. Chi, and C. Lin"
+    },
+    {
+      "論文名稱": "Experimental demonstration of CW light injection effect in upstream traffic TDM-PON",
+      "期刊名稱": "Optical Fiber Technology (SCIE)",
+      "作者群": "C. H. Yeh*, C. W. Chow, Y. F. Wu, F. Y. Shih, and S. Chi"
+    },
+    {
+      "論文名稱": "Using OOK modulation for symmetric 40 Gb/s long reach time-sharing passive optical networks",
+      "期刊名稱": "IEEE Photonics Technology Letters (SCIE)",
+      "作者群": "C. H. Yeh*, C. W. Chow, C. H. Wang, Y. F. Wu, F. Y. Shih, and S. Chi"
+    },
+    {
+      "論文名稱": "Wavelength-selection erbium fiber laser with single-mode operation using simple ring design",
+      "期刊名稱": "Laser Physics (SCIE)",
+      "作者群": "C. H. Yeh*, C. W. Chow, and Y. C. Chang"
+    },
+    {
+      "論文名稱": "40 Gb/s upstream transmitters using directly-modulated 1.55 μm VCSEL array for high-split-ratio PONs",
+      "期刊名稱": "IEEE Photonics Technology Letters (SCIE)",
+      "作者群": "C. W. Chow, L. Xu, C. H. Yeh, H. K. Tsang, W. Hofmann, and M. C. Amann"
+    },
+    {
+      "論文名稱": "Single-longitudinal-mode erbium-doped fiber laser with novel scheme utilizing fiber Bragg grating inside ring cavity",
+      "期刊名稱": "Laser Physics (SCIE)",
+      "作者群": "C. H. Yeh* and C. W. Chow"
+    },
+    {
+      "論文名稱": "Broadband wavelength-tunable single-longitudinal-mode erbium-doped fiber ring laser using saturable-absorber filter",
+      "期刊名稱": "Laser Physics Letters (SCIE)",
+      "作者群": "C. H. Yeh* and C. W. Chow"
+    },
+    {
+      "論文名稱": "40 Gb/s time division multiplexed passive optical networks using downstream OOK and upstream OFDM modulations",
+      "期刊名稱": "IEEE Photonics Technology Letters (SCIE)",
+      "作者群": "C. H. Yeh*, C. W. Chow, and C. H. Hsu"
+    },
+    {
+      "論文名稱": "100 GHz ultra-wideband (UWB) fiber-to-the-antenna (FTTA) system for in-building and in-home networks",
+      "期刊名稱": "Optics Express (SCIE)",
+      "作者群": "C. W. Chow, F. M. Kuo, J. W. Shi, C. H. Yeh*, Y. F. Wu, C. H. Wang, Y. T. Li, and C. L. Pan"
+    },
+    {
+      "論文名稱": "Utilization of self-injection Fabry-Perot laser diode for long-reach WDM-PON",
+      "期刊名稱": "Optical Fiber Technology (SCIE)",
+      "作者群": "F. Y. Shih, C. H. Yeh*, C. W. Chow, C. H. Wang, and S. Chi"
+    },
+    {
+      "論文名稱": "Advanced modulation formats for delivery of heterogeneous wired and wireless access networks",
+      "期刊名稱": "Optics Communications (SCIE)",
+      "作者群": "C. W. Chow and C. H. Yeh"
+    },
+    {
+      "論文名稱": "Wavelength tunable laser for signal remodulation in WDM access networks using DPSK downlink and OOK uplink",
+      "期刊名稱": "IEEE Photonics Technology Letters (SCIE)",
+      "作者群": "C. H. Yeh*, C. W. Chow, F. Y. Shih, C. H. Wang, Y. F. Wu, and S. Chi"
+    },
+    {
+      "論文名稱": "Mitigation of signal distortions using separate optical clock distribution with colorless remote antenna units for radio-over-fiber applications",
+      "期刊名稱": "IEEE/OSA Journal of Lightwave Technology (SCIE)",
+      "作者群": "C. W. Chow, L. Xu, C. H. Yeh, C. H. Wang, F. Y. Shih, H. K. Tsang, C. L. Pan, and S. Chi"
+    },
+    {
+      "論文名稱": "Understanding standard OFDM WiMAX signal access in radio over fiber system",
+      "期刊名稱": "Progress in Electromagnetics Research (PIER) C (EI)",
+      "作者群": "C. H. Yeh*, C. W. Chow, C. H. Wang, F. Y. Shih, Y. F. Wu, Y. L. Liu, and S. Chi"
+    },
+    {
+      "論文名稱": "Signal remodulated wired/wireless access using reflective semiconductor optical amplifier with wireless signal broadcast",
+      "期刊名稱": "IEEE Photonics Technology Letters (SCIE)",
+      "作者群": "C. W. Chow, C. H. Yeh, C. H. Wang, F. Y. Shih, and S. Chi"
+    },
+    {
+      "論文名稱": "Utilization of four WDM channels with signal remodulation of OFDM-QAM for 10-Gb/s uplink passive optical networks",
+      "期刊名稱": "Optics Communications (SCIE)",
+      "作者群": "C. H. Yeh* and C. W. Chow"
+    },
+    {
+      "論文名稱": "Signal remodulation high split-ratio hybrid WDM-TDM PONs using RSOA-based ONUs",
+      "期刊名稱": "Electronics Letters (SCIE)",
+      "作者群": "C. W. Chow, C. H. Yeh, C. H. Wang, F. Y. Shih, and S. Chi"
+    },
+    {
+      "論文名稱": "Multiwavelength erbium-doped fiber ring laser employing Fabry-Perot etalon inside cavity operating in room-temperature",
+      "期刊名稱": "Optical Fiber Technology (SCIE)",
+      "作者群": "C. H. Yeh*, C. W. Chow, Y. F. Wu, F. Y. Shih, C. H. Wang, and S. Chi"
+    },
+    {
+      "論文名稱": "Characterization of phase modulated non-return-to-zero (PM-NRZ) format for DWDM long reach PON",
+      "期刊名稱": "Optics Communications (SCIE)",
+      "作者群": "C. W. Chow and C. H. Yeh"
+    },
+    {
+      "論文名稱": "10 Gb/s TDM passive optical networks using four wavelengths multiplexed channels",
+      "期刊名稱": "Optics Communications (SCIE)",
+      "作者群": "C. H. Wang, F. Y. Shih, C. H. Yeh, C. W. Chow, and S. Chi"
+    },
+    {
+      "論文名稱": "Signal remodulation of OFDM-QAM for long reach carrier distributed passive optical networks",
+      "期刊名稱": "IEEE Photonics Technology Letters (SCIE)",
+      "作者群": "C. W. Chow, C. H. Yeh, C. H. Wang, F. Y. Shih, and S. Chi"
+    },
+    {
+      "論文名稱": "Simultaneously gain-flattened and gain-clamped erbium fiber amplifier",
+      "期刊名稱": "Laser Physics (SCIE)",
+      "作者群": "C. H. Yeh*, T. T. Huang, M. C. Lin, C. W. Chow, and S. Chi"
+    },
+    {
+      "論文名稱": "Using 10 Gb/s remodulation DPSK signal for self-restored colorless WDM-PON system",
+      "期刊名稱": "Optical Fiber Technology (SCIE)",
+      "作者群": "C. H. Yeh*, C. W. Chow, and S. Chi"
+    },
+    {
+      "論文名稱": "A simple self-restored fiber Bragg grating (FBG)-based passive sensing network",
+      "期刊名稱": "Measurement Science and Technology (SCIE)",
+      "作者群": "C. H. Yeh*, C. W. Chow, C. H. Wang, F. Y. Shih, Y. F. Wu, and S. Chi"
+    },
+    {
+      "論文名稱": "Signal remodulation without power sacrifice for carrier distributed hybrid WDM-TDM PONs using PolSK",
+      "期刊名稱": "Optics Communications (SCIE)",
+      "作者群": "C. W. Chow and C. H. Yeh"
+    },
+    {
+      "論文名稱": "Using multi-mode Fabry-Perot laser without external-injection for wavelength conversion",
+      "期刊名稱": "Electronics Letters (SCIE)",
+      "作者群": "C. H. Yeh*, C. W. Chow, C. H. Wang, F. Y. Shih, Y. F. Wu, and S. Chi"
+    },
+    {
+      "論文名稱": "Using C-band erbium-doped fiber amplifier with two-ring scheme for broadly wavelength-tuning fiber ring laser",
+      "期刊名稱": "Optics Communications (SCIE)",
+      "作者群": "C. H. Yeh*, F. Y. Shih, S. Wen, C. W. Chow, and S. Chi"
+    },
+    {
+      "論文名稱": "Tunable dual-wavelength fiber laser using optical-injection Fabry-Perot laser",
+      "期刊名稱": "IEEE Photonics Technology Letters (SCIE)",
+      "作者群": "C. H. Yeh*, C. W. Chow, F. Y. Shih, C. H. Wang, Y. F. Wu, and S. Chi"
+    }
+  ],
+  "journal2": [],
+  "conference": [
+    {
+      "論文名稱": "Utilization of Free Space Optical Communication Technology for Integrating Wire-Wireless WDM Access Network",
+      "會議名稱": "8th International Symposium on Fundamental and Applied Sciences (ISFAS)",
+      "作者群": "T. H. Wu, C. Y. Liao, S. Y. Lin, Y. W. Chen, Y. H. Kao, Y. H. Lin, C. H. Yeh*, and C. W. Chow"
+    },
+    {
+      "論文名稱": "Application of optical communication technology for the inter-satellite and UAV link (Invited Talk)",
+      "會議名稱": "Polish-Taiwanese Scientific Seminar on Aeronautical & Aerospace Technology (NSTC and NCRD)",
+      "作者群": "C. H. Yeh"
+    },
+    {
+      "論文名稱": "Using PMMA side-glow optical fiber for underwater optical camera communication (UWOCC)",
+      "會議名稱": "33rd Annual Wireless and Optical Communications Conference (WOCC 2024)",
+      "作者群": "J. F. Li, Y. J. Chen, Y. H. Chang, H. Y. Wen, C. W. Chow, and C. H. Yeh"
+    },
+    {
+      "論文名稱": "25 Gbit/s transmission over 25 km optical fiber with adaptive optical tracking in fiber-free-space-optical-communication (FSOC) network",
+      "會議名稱": "33rd Annual Wireless and Optical Communications Conference (WOCC 2024)",
+      "作者群": "Y. Z. Lin, Y. H. Lin, J. W. Chen, K. Z. Cai, C. W. Chow, and C. H. Yeh"
+    },
+    {
+      "論文名稱": "Enhanced atmospheric turbulence resiliency in free space optical communication with silicon-photonics based grating coupler array and maximal-ratio-combining (MRC) algorithm",
+      "會議名稱": "European Conference on Optical Communication (ECOC)",
+      "作者群": "T. C. Wei, Y. Z. Lin, P. C. Kuo, Y. H. Jian, C. W. Chow, D. W. U. Chan, Y. Tong, C. H. Yeh, and H. K. Tsang"
+    },
+    {
+      "論文名稱": "Performance analysis of subcarrier-based maximal-ratio combining (MRC) algorithm for intensity modulation and direct detection (IM/DD) free space optical communication (FSOC)",
+      "會議名稱": "OptoElectronics and Communications Conference (OECC)",
+      "作者群": "T. C. Wei, Y. H. Jian, Y. Z. Lin, C. W. Chow, and C. H. Yeh"
+    },
+    {
+      "論文名稱": "Free space optical communication (FSOC) with high-precision adaptive tracking using optical light spot approaching method",
+      "會議名稱": "OptoElectronics and Communications Conference (OECC)",
+      "作者群": "J. W. Chen, Y. Z. Lin, M. C. Tsai, C. W. Chow, and C. H. Yeh"
+    },
+    {
+      "論文名稱": "Phase correction algorithm (PCA) for spatial light modulator (SLM)-based optical wireless communication (OWC) system",
+      "會議名稱": "OptoElectronics and Communications Conference (OECC)",
+      "作者群": "K. J. Yang, Y. H. Jian, T. C. Wei, C. W. Chow, and C. H. Yeh"
+    },
+    {
+      "論文名稱": "Unmanned aerial vehicle (UAV) based optical camera communication (OCC) in water-to-air data transmission",
+      "會議名稱": "OptoElectronics and Communications Conference (OECC)",
+      "作者群": "M C. Tsai, J. W. Chem, Y. H. Chang, C. W. Chow, Y. C. Chang, and C. H. Yeh"
+    },
+    {
+      "論文名稱": "Visible light positioning (VLP) system utilizing support vector regression (SVR) with principal component analysis (PCA)",
+      "會議名稱": "OptoElectronics and Communications Conference (OECC)",
+      "作者群": "Y. H. Shu, M C. Tsai, Y. H. Chang, C. W. Chow, Y. C. Chang, and C. H. Yeh"
+    },
+    {
+      "論文名稱": "Temperature and vibration sensing based on integrated FBG and φ-OTDR",
+      "會議名稱": "OptoElectronics and Communications Conference (OECC)",
+      "作者群": "S. Afifah, Z. Wang, C.-Y. Guo, S.-K. Liaw, J.-Y. Sung, and C. H. Yeh"
+    },
+    {
+      "論文名稱": "Design and analysis of optical transmitter and receiver modules for inter-satellite link application",
+      "會議名稱": "Optics and Photonics International Congress (OPIC)",
+      "作者群": "K. M. Cheng, T. H. Wu, T. Y. Yang, C. Y. Lin, L. Y. Chen, Y. T. La, C. H. Yeh*, C. W. Chen, and L. T. Chen"
+    },
+    {
+      "論文名稱": "Utilizing single fiber Bragg grating inside fiber ring cavity to reach dual-wavelength output with single-longitudinal-mode",
+      "會議名稱": "Optics and Photonics International Congress (OPIC)",
+      "作者群": "K. M. Cheng, T. H. Wu, T. Y. Yang, Y. T. Lai, L. Y. Chen, C. Y. Lin, C. H. Yeh*, J. H. Chan, and C. W. Chow"
+    },
+    {
+      "論文名稱": "Manufacturing a holographic cylindrical vector beam converter",
+      "會議名稱": "Optics and Photonics International Congress (OPIC)",
+      "作者群": "J. H. Chen, C. H. Yeh, and K. H. Chan"
+    },
+    {
+      "論文名稱": "PAM4 signal regenerator using Mach-Zehnder interferometer based optical neural network (ONN)",
+      "會議名稱": "IEEE Silicon Photonics Conference",
+      "作者群": "T. Y. Hung, C. C. Wang, C. W. Chow, Y. C. Chang, and C. H. Yeh"
+    },
+    {
+      "論文名稱": "Utilizing non-orthogonal multiple access (NOMA) for flexible data rate allocation in integrated mode division multiplexing (MDM) optical power divider",
+      "會議名稱": "IEEE Silicon Photonics Conference",
+      "作者群": "Y. Z. Lin, Y. H. Jian, C. W. Chow, and C. H. Yeh"
+    },
+    {
+      "論文名稱": "Miniaturized optical power splitter with arbitrary output modes using inverse design and active phase shifters",
+      "會議名稱": "IEEE Silicon Photonics Conference",
+      "作者群": "Y. Z. Lin, C. W. Chow, and C. H. Yeh"
+    },
+    {
+      "論文名稱": "Optical beam steerable and beam dividable of non-orthogonal multiple access (NOMA) signal with low density parity-check (LDPC) for multi-user optical wireless communication system",
+      "會議名稱": "Optical Fiber Communication Conference and Exposition (OFC)",
+      "作者群": "Y. H. Jian, C. C. Wang, J. W. Chen, T. C. Wei, C. W. Chow, and C. H. Yeh"
+    },
+    {
+      "論文名稱": "Is ultra-high order QAM necessary for delta-sigma modulator in mobile front-haul?",
+      "會議名稱": "Optical Fiber Communication Conference and Exposition (OFC)",
+      "作者群": "Y. H. Jian, J. W. Chen, C. C. Wang, T. C. Wei, C. W. Chow, and C. H. Yeh"
+    },
+    {
+      "論文名稱": "Water-to-air PAM4 optical camera communication using long short term memory neural network (LSTM-NN)",
+      "會議名稱": "Optical Fiber Communication Conference and Exposition (OFC)",
+      "作者群": "Y. H. Chang, S. Y. Tsai, M. C. Tsai, J. F. Li, Y. H. Jian, C. W. Chow, and C. H. Yeh"
+    },
+    {
+      "論文名稱": "300-Gbit/s/λ PAM8 modulation with a silicon microring modulator using long short term memory regression and deep neural network classification",
+      "會議名稱": "Optical Fiber Communication Conference and Exposition (OFC)",
+      "作者群": "T. Y. Hung, D. W. U. Chan, C. W. Peng, C. W. Chow, C. H. Yeh, and H. K. Tsang"
+    },
+    {
+      "論文名稱": "Utilizing optical communication terminal for internal data link of CubeSat",
+      "會議名稱": "Taiwan International Assembly of Space Science, Technology, and Industry (TASTI)",
+      "作者群": "L. Y. Chen, Y. T. Lai, C. Y. Lin, C. W. Chen, L. T. Chen, and C. H. Yeh*"
+    },
+    {
+      "論文名稱": "Spatial Light Modulator (SLM) Steering Enabled NOMA in Multi-User Optical Wireless Communication System",
+      "會議名稱": "European Conference on Optical Communication (ECOC)",
+      "作者群": "T. C. Wei, Y. H. Jian, T. Y. Hung, C. W. Chow, C. C. Wang, J. W. Chen, Y. Z. Lin, and C. H. Yeh"
+    },
+    {
+      "論文名稱": "Optical beam steerable and flexible data rate orthogonal frequency division multiplexing non-orthogonal multiple access (OFDM-NOMA) visible light communication",
+      "會議名稱": "Optical Fiber Communication Conference and Exposition (OFC)",
+      "作者群": "Y. H. Jian, C. C. Wang, T. C. Wei, Y. K. Hong, H. M. Chen, C. W. Chow, Y. Liu, C. H. Yeh"
+    },
+    {
+      "論文名稱": "Lightweight light-diffusing fiber transmitter equipped unmanned-aerial-vehicle (UAV) for large field-of-view (FOV) optical wireless communication",
+      "會議名稱": "Optical Fiber Communication Conference and Exposition (OFC)",
+      "作者群": "Y. H. Chang, D. C. Tsai, C. W. Chow, C. C. Wang, S. Y. Tsai, Y. Liu, and C. H. Yeh"
+    },
+    {
+      "論文名稱": "Free-space visible light communication with downstream and upstream transmissions supporting multiple moveable receivers using light-diffusing fiber",
+      "會議名稱": "Optical Fiber Communication Conference and Exposition (OFC)",
+      "作者群": "Y. H. Chang, C. W. Chow, C. C. Wang, Y. H. Jian, W. H. Gunawan, Y. Liu, and C. H. Yeh"
+    },
+    {
+      "論文名稱": "Selectable and stabilized single-mode erbium fiber laser in C+L band operation",
+      "會議名稱": "Optics & Photonics Taiwan, the International Conference (OPTIC)",
+      "作者群": "S. E. Hsieh, S. Y. Jiang, C. H. Hsu, Y. T. Lai, L. Y. Chen, H. S. Ko, C. H. Yeh*, S. K. Liaw, and C. W. Chow"
+    },
+    {
+      "論文名稱": "Hybrid FSO-WDM passive network together with fiber fault prevention",
+      "會議名稱": "Optics & Photonics Taiwan, the International Conference (OPTIC)",
+      "作者群": "C. H. Hsu, S. Y. Jiang, S. E. Hsieh, Y. T. Lai, L. Y. Chen, C. H. Yeh*, W. P. Lin, and C. W. Chow"
+    },
+    {
+      "論文名稱": "L-Band Single-Frequency Erbium Fiber Laser Based on Eight-Fiber-Ring Configuration",
+      "會議名稱": "Optics & Photonics Taiwan, the International Conference (OPTIC)",
+      "作者群": "W. C. Wang, C. J. Tsai, Y. Y. Chen, Y. C. Lin, Y. H. Lin, C. H. Yeh*, S. E. Hsieh, and C. W. Chow"
+    },
+    {
+      "論文名稱": "166-m rolling shutter based free space optical communication (FSO) utilizing long short term memory neural network (LSTM-NN) for decoding PAM4 signal",
+      "會議名稱": "European Conference on Optical Communication (ECOC)",
+      "作者群": "D. C. Tsai, Y. H. Chang, S. Y. Tsai, L. S. Hsu, C. W. Chow, C. W. Peng, Y. Z. Lin, Y. H. Jian, Y. Liu, and C. H. Yeh"
+    },
+    {
+      "論文名稱": "3-dimensional visible light positioning (VLP) using two-stage neural network (TSNN) and signal-strength-enhancement (SSE) to mitigate light non-overlapping regions",
+      "會議名稱": "European Conference on Optical Communication (ECOC)",
+      "作者群": "L. S. Hsu, C. W. Chow, Y. Liu, Y. H. Chang, D. C. Tsai, T. Y. Hung, Y. Z. Lin, Y. H. Jian, and C. H. Yeh"
+    },
+    {
+      "論文名稱": "Using received-signal-strength (RSS) pre-processing and convolutional neural network (CNN) to enhance position accuracy in visible light positioning (VLP)",
+      "會議名稱": "Optical Fiber Communication Conference and Exposition (OFC)",
+      "作者群": "L S. Hsu, D. C. Tsai, H. M. Chen, Y. H. Chang, Y. Liu, C. W. Chow, S. H. Song, and C. H. Yeh"
+    },
+    {
+      "論文名稱": "High-speed white light visible light communication (VLC) based on semipolar (20-21) blue micro-light emitting diode (μ-LED)",
+      "會議名稱": "Optical Fiber Communication Conference and Exposition (OFC)",
+      "作者群": "Y. H. Chang, F. J. Liou, Y. M. Huang, W. H. Gunawan, C. W. Chow, H. C. Kuo, Y. Liu, and C. H. Yeh"
+    },
+    {
+      "論文名稱": "High speed RGB visible light communication (VLC) using digital power-domain multiplexing (DPDM) of orthogonal frequency division multiplexed (OFDM) signals",
+      "會議名稱": "Optical Fiber Communication Conference and Exposition (OFC)",
+      "作者群": "W. H. Gunawan, Y. H. Chang, C. W. Chow, Y. Liu, and C. H. Yeh"
+    },
+    {
+      "論文名稱": "Actively steerable integrated optical phased array (OPA) for optical wireless communication (OWC)",
+      "會議名稱": "Optical Fiber Communication Conference and Exposition (OFC)",
+      "作者群": "P. C. Kuo, S. I. Kuo, J. W. Wang, Y. H. Jian, Z. Ahmad, P. H. Fu, Y. C. Chang, J. W. Shi, D. W. Huang, Y. Liu, C. H. Yeh, and C. W. Chow"
+    },
+    {
+      "論文名稱": "Long short-term memory neural network to enhance the data rate and performance for rolling shutter camera based visible light communication (VLC)",
+      "會議名稱": "Optical Fiber Communication Conference and Exposition (OFC)",
+      "作者群": "C. W. Peng, D. C. Tsai, Y. S. Lin, C. W. Chow, Y. Liu, and C. H. Yeh"
+    },
+    {
+      "論文名稱": "Wide field-of-view (FOV) light-diffusing fiber optical transmitter for rolling shutter based optical camera communication (OCC)",
+      "會議名稱": "Optical Fiber Communication Conference and Exposition (OFC)",
+      "作者群": "D. C. Tsai, Y. H. Chang, Y. Liu, C. W. Chow, Y. S. Lin, and C. H. Yeh"
+    },
+    {
+      "論文名稱": "Stabilized single-frequency and switchable-wavelength erbium laser applying multi-ring design",
+      "會議名稱": "Optics & Photonics Taiwan, the International Conference (OPTIC)",
+      "作者群": "L. C. Chen, Y. T. Lai, C. H. Yeh*, J. H. Chen, and C. W. Chow"
+    },
+    {
+      "論文名稱": "Steady single-mode fiber laser exploiting quad-ring architecture",
+      "會議名稱": "Optics & Photonics Taiwan, the International Conference (OPTIC)",
+      "作者群": "L. H. Liu, H. S. Ko, C. H. Yeh*, C. W. Chow, and J. H. Chen"
+    },
+    {
+      "論文名稱": "Utilization of dual-polarized signal in WDM-PON with long-reach fiber transmission",
+      "會議名稱": "Optics & Photonics Taiwan, the International Conference (OPTIC)",
+      "作者群": "B. Y. Wang, W. H. Hsu, C. H. Yeh*, and C. W. Chow"
+    },
+    {
+      "論文名稱": "A self-protected TWDM-PON based on fiber- and FSO-links for long-reach application",
+      "會議名稱": "Optics & Photonics Taiwan, the International Conference (OPTIC)",
+      "作者群": "W. H. Hsu, B. Y. Wang, Y. C. Chen, C. H. Yeh*, C. W. Chow, and S. K. Liaw"
+    },
+    {
+      "論文名稱": "Impact of artificial seawater and turbulence factors on underwater optical wireless communication",
+      "會議名稱": "The 30th Wireless and Optical Communications Conference (WOCC)",
+      "作者群": "S. Afifah, L. Marlina, C. C. Chen, Y. L. Liu, S. K. Liaw, and C. H. Yeh"
+    },
+    {
+      "論文名稱": "Using pixel-per-bit neural network for two rolling shutter patterns decoding in optical camera communication (OCC)",
+      "會議名稱": "The 30th Wireless and Optical Communications Conference (WOCC)",
+      "作者群": "D. C. Tsai, Y. S. Lin, Y. H. Chang, C. W. Chow, Y. Liu, C. H. Yeh, and K. H. Lin"
+    },
+    {
+      "論文名稱": "Using machine learning and light spatial sequence arrangement for copying positioning unit cell to reduce training burden in visible light positioning (VLP)",
+      "會議名稱": "The 30th Wireless and Optical Communications Conference (WOCC)",
+      "作者群": "D. C. Lin, L. S. Hsu, C. W. Chow, T. Y. Hung, Y. H. Chang, C. W. Peng, Y. Liu, C. H. Yeh, and K. H. Lin"
+    },
+    {
+      "論文名稱": "High bandwidth semipolar (20-21) μ-LED serving as photo-receiver for visible light communication",
+      "會議名稱": "European Conference on Optical Communication (ECOC)",
+      "作者群": "Y. H. Chang, F. J. Liou, W. H. Gunawan, C. W. Chow, Y. Liu, H. C. Kuo, and C. H. Yeh"
+    },
+    {
+      "論文名稱": "Embedded orthogonal-frequency-division-multiplexing (OFDM) to color-shift-keying (CSK) modulation for laser-diode based visible light communication (VLC)",
+      "會議名稱": "Optical Fiber Communication Conference and Exposition (OFC)",
+      "作者群": "W. H. Gunawan, C. W. Chow, Y. Liu, and C. H. Yeh"
+    },
+    {
+      "論文名稱": "Using DIALux and regression-based machine learning algorithm for designing indoor visible light positioning (VLP) and reducing training data collection",
+      "會議名稱": "Optical Fiber Communication Conference and Exposition (OFC)",
+      "作者群": "S. H. Song, D. C. Lin, Y. H. Chang, Y. S. Lin, C. W. Chow, Y. Liu, C. H. Yeh, K. H. Lin, Y. C. Wang, and Y. Y. Chen"
+    },
+    {
+      "論文名稱": "4.36 Tbit/s silicon chip-to-chip transmission via few-mode fiber (FMF) using 2D sub-wavelength grating couplers",
+      "會議名稱": "Optical Fiber Communication Conference and Exposition (OFC)",
+      "作者群": "P. C. Kuo, Y. Tong, C. W. Chow, J. F. Tsai, Y. Liu, Y. C. Chang, C. H. Yeh, and H. K. Tsang"
+    },
+    {
+      "論文名稱": "Long short-term memory neural network for mitigating transmission impairments of 160 Gbit/s PAM4 microring modulation",
+      "會議名稱": "Optical Fiber Communication Conference and Exposition (OFC)",
+      "作者群": "C. W. Peng, D. W. U. Chan, Y. Tong, C. W. Chow, Y. Liu, C. H. Yeh, and H. K. Tsang"
+    },
+    {
+      "論文名稱": "Z-score averaging neural network and background content removal for high performance rolling shutter based optical camera communication (OCC)",
+      "會議名稱": "Optical Fiber Communication Conference and Exposition (OFC)",
+      "作者群": "Y. S. Lin, Y. Liu, C. W. Chow, Y. H. Chang, D. C. Lin, S. H. Song, K. L. Hsu, and C. H. Yeh"
+    },
+    {
+      "論文名稱": "3.129-Gbit/s OFDM visible light communication using semipolar green μ-light emitting diode (μ-LED) array",
+      "會議名稱": "Optical Fiber Communication Conference and Exposition (OFC)",
+      "作者群": "Y. H. Chang, G. H. Chang, F. J. Liou, C. W. Peng, W. H. Gunawan, C. W. Chow, H. C. Kuo, Y. Liu, and C. H. Yeh"
+    },
+    {
+      "論文名稱": "3-D indoor visible light positioning (VLP) system based on linear regression or Kernel ridge regression algorithms",
+      "會議名稱": "IEEE Globecom Workshops (GC Wkshps)",
+      "作者群": "D. C. Lin, Y. C. Wu, C. Y. Hong, S. H. Song, Y. S. Lin, Y. Liu, C. H. Yeh, and C. W. Chow"
+    },
+    {
+      "論文名稱": "Use of FSO signal in WDM access architecture to avoid Rayleigh backscattering noise",
+      "會議名稱": "Optics & Photonics Taiwan, the International Conference (OPTIC)",
+      "作者群": "J. R. Chen, W. Y. You, C. H. Yeh, and C. W. Chow"
+    },
+    {
+      "論文名稱": "Long-reach ring-type WDM-PON with Rayleigh backscattering beat noise alleviation",
+      "會議名稱": "Optics & Photonics Taiwan, the International Conference (OPTIC)",
+      "作者群": "W. Y. You, J. R. Chen, C. H. Yeh, W. P. Lin, and C. W. Chow"
+    },
+    {
+      "論文名稱": "Utilizing multiple-fiber-ring design for 60 nm tunability fiber laser with single-longitudinal-mode output",
+      "會議名稱": "Optics & Photonics Taiwan, the International Conference (OPTIC)",
+      "作者群": "Y. Z. Lin, G. H. Li. H. W. Chang, C. H. Yeh, J. H. Chen, and C. W. Chow"
+    },
+    {
+      "論文名稱": "Applying self-injected loop for continuous and adjustable single-longitudinal-mode erbium laser",
+      "會議名稱": "Optics & Photonics Taiwan, the International Conference (OPTIC)",
+      "作者群": "Y. Z. Lin, B. W. Huang, P. M. Yen, C. H. Yeh, and C. W. Chow"
+    },
+    {
+      "論文名稱": "Optical wireless communications (OWC) - Technologies and applications",
+      "會議名稱": "OptoElectronics and Communications Conference (OECC)",
+      "作者群": "C. W. Chow, C. H. Yeh, and Y. Liu"
+    },
+    {
+      "論文名稱": "26.228-Gbit/s RGBV visible light communication (VLC) with 2-m free space transmission",
+      "會議名稱": "OptoElectronics and Communications Conference (OECC)",
+      "作者群": "C. W. Chow, Y. H. Chang, L. Y. Wei, C. H. Yeh, and Y. Liu"
+    },
+    {
+      "論文名稱": "Passive 100W high power bias-tee for visible light communication systems",
+      "會議名稱": "OptoElectronics and Communications Conference (OECC)",
+      "作者群": "Y. H. Chang, P. H. Yang, C. H. Yeh, and C. W. Chow"
+    },
+    {
+      "論文名稱": "Enabling techniques for optical wireless communication systems",
+      "會議名稱": "Optical Fiber Communication Conference and Exposition (OFC)",
+      "作者群": "C. W. Chow, C. H. Yeh, Y. Liu, Y. Lai, L. Y. Wei, C. W. Hsu, G. H. Chen, X. L. Liao, and K. H. Lin"
+    },
+    {
+      "論文名稱": "Utilizing polarization-color-multiplexing technology for broadband LED visible Li-Fi communication indoors",
+      "會議名稱": "Optics & Photonics Taiwan, the International Conference (OPTIC)",
+      "作者群": "Y. R. Xie, C. M. Luo, J. H. Weng, Y. C. Yang, Y. W. Chen, T. A. Hsu, B. C. Wu, C. W. Chow, and C. H. Yeh"
+    },
+    {
+      "論文名稱": "Bidirectional >67 Gbit/s OFDM-WDM-PON architecture without Rayleigh backscattering noise Effect",
+      "會議名稱": "Optics & Photonics Taiwan, the International Conference (OPTIC)",
+      "作者群": "L. Y. Wei, C. M. Luo, Y. R. Xie, C. W. Chow, and C. H. Yeh"
+    },
+    {
+      "論文名稱": "Polarization-multiplexing based VCSEL laser VLC transmission and analysis",
+      "會議名稱": "Optics & Photonics Taiwan, the International Conference (OPTIC)",
+      "作者群": "Y. C. Yang, Y. W. Chen, T. A. Hsu, C. H. Yeh, and C. W. Chow"
+    },
+    {
+      "論文名稱": "Silicon-on-insulator based broadband multimode 3-dB power splitter",
+      "會議名稱": "Optics & Photonics Taiwan, the International Conference (OPTIC)",
+      "作者群": "J. F. Tsai, P. C. Guo, G. H. Chen, C. W. Peng, C. W. Chow, and C. H. Yeh"
+    },
+    {
+      "論文名稱": "Using linear interpolation to reduce the training samples for machine learning based visible light positioning system",
+      "會議名稱": "Optics & Photonics Taiwan, the International Conference (OPTIC)",
+      "作者群": "Y. C. Wu, K. L. Hsu, C. Y. Hong, C. W. Peng, C. W. Chow, and C. H. Yeh"
+    },
+    {
+      "論文名稱": "Angle of arrival based visible light positioning system using a quadrant solar-cell",
+      "會議名稱": "Optics & Photonics Taiwan, the International Conference (OPTIC)",
+      "作者群": "C. Y. Hong, L. Y. Wei, Y. C. Wu, K. L. Hsu, C. W. Chow, and C. H. Yeh"
+    },
+    {
+      "論文名稱": "Employing frequency shift keying (FSK) for the display panel and CMOS image sensor based visible light communications",
+      "會議名稱": "Optics & Photonics Taiwan, the International Conference (OPTIC)",
+      "作者群": "K. L. Hsu, Y. C. Wu, C. W. Peng, C. W. Chow, and C. H. Yeh"
+    },
+    {
+      "論文名稱": "Silicon-on-insulator based mode-division-multiplexed waveguide supporting bends",
+      "會議名稱": "Optics & Photonics Taiwan, the International Conference (OPTIC)",
+      "作者群": "P. C. Guo, J. F. Tsai, G. H. Chen, C. W. Peng, C. W. Chow, and C. H. Yeh"
+    },
+    {
+      "論文名稱": "Digital signal processing for visible light communication applications",
+      "會議名稱": "Asia Communications and Photonics Conference (ACP)",
+      "作者群": "C. W. Chow, G. H. Chen, C. W. Peng, L. Y. Wei, C. H. Yeh, Y. Liu"
+    },
+    {
+      "論文名稱": "Silicon-photonics based remote-radio-head using mode and wavelength division multiplexing with capacity of 4.781 Tbit/s for radio-over-fiber massive MIMO",
+      "會議名稱": "European Conference on Optical Communication (ECOC)",
+      "作者群": "G. H. Chen, C. W. Peng, M. W. Cheng, P. C. Guo, J. F. Tsai, Y. Tong, C. W. Chow, C. H. Yeh, H. K. Tsang"
+    },
+    {
+      "論文名稱": "Implementing deep neural network for signal transmission distortion mitigation of PAM-4 generated by silicon Mach-Zehnder modulator",
+      "會議名稱": "OptoElectronics and Communications Conference (OECC)",
+      "作者群": "Y. Hsu, C. Y. Chuang, Y. Tong, C. W. Chow, J. Chen, Y. C. Lai, C. H. Yeh, Y. K. Chen, and H. K. Tsang"
+    },
+    {
+      "論文名稱": "Uses of silicon microring resonator and saturable absorber for tunable single-mode erbium fiber laser",
+      "會議名稱": "OptoElectronics and Communications Conference (OECC)",
+      "作者群": "Y. R. Xie, C. M. Luo, C. H. Yeh, C. W. Chow, Y. C. Chang, J. H. Chen, and K. H. Chen"
+    },
+    {
+      "論文名稱": "Uses of silicon microring resonator and saturable absorber for tunable single-mode erbium fiber laser",
+      "會議名稱": "24TH OptoElectronics and Communications Conference (OECC)",
+      "作者群": "Jing-Heng Chen, Kun-Huang Chen, Chien-Hung Yeh, Yung Hsu, Yih-Suan Tseng, and Wan-Yu Lin"
+    },
+    {
+      "論文名稱": "40-Gbit/s visible light communication using polarization-multiplexed R/G/B laser diodes with 2-m free-space transmission",
+      "會議名稱": "Optical Fiber Communication Conference and Exposition (OFC)",
+      "作者群": "L. Y. Wei, C. W. Hsu, C. W. Chow, and C. H. Yeh"
+    },
+    {
+      "論文名稱": "Utilization of complex-fiber-ring architecture for erbium fiber laser with broadband continuous-wave tuning",
+      "會議名稱": "International Symposium on Fundamental and Applied Sciences (ISFAS)",
+      "作者群": "Y. J. Chang, Y. R. Xie, C. M. Luo, C. W. Chow, C. H. Yeh"
+    },
+    {
+      "論文名稱": "Stable and selectable dual-wavelength erbium-based compound-ring laser with single-longitudinal-mode",
+      "會議名稱": "Optics & Photonics Taiwan, the International Conference (OPTIC)",
+      "作者群": "Y. J. Chang, C. M. Luo, Y. R. Xie, C. W. Chow, and C. H. Yeh"
+    },
+    {
+      "論文名稱": "Indoor visible light positioning and illumination",
+      "會議名稱": "Optics & Photonics Taiwan, the International Conference (OPTIC)",
+      "作者群": "Y. C. Chuang, Z. Q. Li, C. W. Chow, and C. H. Yeh"
+    },
+    {
+      "論文名稱": "Visible light communication using light-panel and moving CMOS image sensor",
+      "會議名稱": "Optics & Photonics Taiwan, the International Conference (OPTIC)",
+      "作者群": "Z. Q. Li, Y. C. Chuang, C. W. Chow, and C. H. Yeh"
+    },
+    {
+      "論文名稱": "4x4 silicon photonics based mode-division multiplexer and de-multiplexer",
+      "會議名稱": "Optics & Photonics Taiwan, the International Conference (OPTIC)",
+      "作者群": "M. W. Cheng, C. W. Peng, G. H. Chen, C. W. Chow, and C. H. Yeh"
+    },
+    {
+      "論文名稱": "A simple method for simultaneously measuring the characteristic parameters of wave plate",
+      "會議名稱": "Optics & Photonics Taiwan, the International Conference (OPTIC)",
+      "作者群": "K. C. Chen, C. H. Yeh, J. Y. Lin, J. H. Chen, and K. H. Chen"
+    },
+    {
+      "論文名稱": "A dual-wavelength interferometry for measuring the object surface profile",
+      "會議名稱": "Optics & Photonics Taiwan, the International Conference (OPTIC)",
+      "作者群": "C. H. Tsai, J. Y. Lin, C. H. Yeh, J. H. Chen, and K. H. Chen"
+    },
+    {
+      "論文名稱": "Based on silicon-micro-ring-resonator and triple-ring cavity for stable and tunable erbium fiber laser",
+      "會議名稱": "Progress in Electromagnetics Research Symposium (PIERS)",
+      "作者群": "Y. Hsu, Y. C. Chang, C. H. Yeh, C. W. Chow, and J. H. Chen"
+    },
+    {
+      "論文名稱": "Visible light communication using advertisement-light-board and rolling-shutter-effect based CMOS mobile-phone camera",
+      "會議名稱": "OptoElectronics and Communications Conference (OECC)",
+      "作者群": "R. J. Shiu, Y. C. Liu, C. W. Chow, L. Y. Wei, Y. Hsu, C. W. Hsu, C. H. Yeh, X. L. Liao, K. H. Lin, Y. C. Wang, and Y. Y. Chen"
+    },
+    {
+      "論文名稱": "Silicon-on-insulator (SOI) based polarization-exchanger using asymmetric directional coupler",
+      "會議名稱": "OptoElectronics and Communications Conference (OECC)",
+      "作者群": "C. W. Peng, Y. C. Chang, M. W. Cheng, Y. Hsu, L. Y. Wei, C. W. Chow, and C. H. Yeh"
+    },
+    {
+      "論文名稱": "Polarization-multiplexed rolling shutter demodulation in mobile-phone based visible light communication",
+      "會議名稱": "OptoElectronics and Communications Conference (OECC)",
+      "作者群": "Y. C. Chang, C. W. Chen, Y. C. Liu, R. J. Shiu, C. W. Chow, and C. H. Yeh"
+    },
+    {
+      "論文名稱": "512-Gbit/s PAM-4 signals direct-detection using silicon photonics receiver with Volterra equalization",
+      "會議名稱": "Conference on Lasers and Electro-Optics (CLEO)",
+      "作者群": "Y. Hsu, C. Y. Chuang, L. Y. Wei, C. W. Chow, X. Wu, H. K. Tsang, J. Chen, and C. H. Yeh"
+    },
+    {
+      "論文名稱": "192-Gbit/s PAM-4 optical interconnect using mode-division multiplexing",
+      "會議名稱": "Conference on Lasers and Electro-Optics (CLEO)",
+      "作者群": "Y. Hsu, X. Wu, C. Y. Chuang, C. W. Chow, H. K. Tsang, J. Chen, and C. H. Yeh"
+    },
+    {
+      "論文名稱": "20 Gbit/s tricolor R/G/B laser diode based bi-directional signal remodulation visible light communication system",
+      "會議名稱": "Optical Fiber Communication Conference and Exposition (OFC)",
+      "作者群": "L. Y. Wei, C. W. Hsu, Y. Hsu, C. W. Chow, and C. H. Yeh"
+    },
+    {
+      "論文名稱": "Accurate indoor visible light positioning system utilizing machine learning technique with height tolerance",
+      "會議名稱": "Optical Fiber Communication Conference and Exposition (OFC)",
+      "作者群": "C. W. Hsu, S. Liu, C. W. Chow, C. H. Yeh, and G. K. Chang"
+    },
+    {
+      "論文名稱": "Use of novel multiple-fiber-ring scheme for stable single-frequency erbium fiber laser",
+      "會議名稱": "Asian Conference on Engineering and Natural Sciences (ACENS)",
+      "作者群": "C. S. Gua, B. S. Guo, Y. J. Chang, M. J. Chen, Z. Q. Yang, T. J. Huang, C. H. Yeh, C. W. Chow, and J. H. Chen"
+    },
+    {
+      "論文名稱": "Based on triple-ring configuration to reach stable single-longitudinal-mode erbium fiber laser",
+      "會議名稱": "Optics & Photonics Taiwan, the International Conference (OPTIC)",
+      "作者群": "T. J. Huang, Z. Q. Yang, C. H. Yeh, and C. W. Chow"
+    },
+    {
+      "論文名稱": "Selectable and stabilized single-mode erbium-doped fiber multiple ring laser",
+      "會議名稱": "Optics & Photonics Taiwan, the International Conference (OPTIC)",
+      "作者群": "Z. Q, Yang, T. J. Huang, C. H. Yeh, C. W. Chow, and J. H. Chen"
+    },
+    {
+      "論文名稱": "Utilizing silicon-photonic micro-ring-resonator and multiple-ring cavity for stable and switchable erbium fiber laser with single-longitudinal-mode",
+      "會議名稱": "Optics & Photonics Taiwan, the International Conference (OPTIC)",
+      "作者群": "Y. C. Chang, Y. Hsu, C. H. Yeh, C. W. Chow, and H. Y. Cheng"
+    },
+    {
+      "論文名稱": "Mitigation of LED nonlinearity using adaptive equalization for visible light communications",
+      "會議名稱": "Asia Communications and Photonics Conference (ACP)",
+      "作者群": "C. W. Hsu, Y. Hsu, G. H. Chen, L. Y. Wei, C. W. Chow, I. C. Lu, Y. L. Liu, and C. H. Yeh"
+    },
+    {
+      "論文名稱": "Transmission performance improvement of PAM-4 signal direct-detected by Ge-Si photodiode using Volterra equalization",
+      "會議名稱": "Asia Communications and Photonics Conference (ACP)",
+      "作者群": "Y. Hsu, C. Y. Chuang, G. H. Chen, Y. C. Chang, X. Wu, L. Y. Wei, C. W. Chow, J. Chen, C. H. Yeh, and H. K. Tsang"
+    },
+    {
+      "論文名稱": "Stable and tunable single-mode erbium fiber laser by utilizing silicon-based micro ring resonator and multi-ring scheme",
+      "會議名稱": "OSA Advanced Solid State Lasers Conference (ASSL)",
+      "作者群": "H. Y. Cheng, Y. Hsu, T. J. Huang, Z. Q. Yang, C. H. Yeh, and C. W. Chow"
+    },
+    {
+      "論文名稱": "Bi-directional visible light communication using a single 682 nm visible vertical-cavity surface-emitting laser (VCSEL) and signal remodulation",
+      "會議名稱": "European Conference on Optical Communication (ECOC)",
+      "作者群": "L. Y. Wei, C. W. Hsu, Y. Hsu, C. H. Yeh, and C. W. Chow"
+    },
+    {
+      "論文名稱": "Visible light communication (VLC) using smart-phone with different light-source offsets",
+      "會議名稱": "24th General Congress of the International Commission for Optics (ICO-24)",
+      "作者群": "K. Liang, C. W. Chow, C. H. Yeh, X. L. Liao, K. H. Lin, W. L. Wu, and Y. Y. Chen"
+    },
+    {
+      "論文名稱": "Deploying mobile fronthaul network using OFDM over passive optical network (PON) optical distribution network (ODN)",
+      "會議名稱": "24th General Congress of the International Commission for Optics (ICO-24)",
+      "作者群": "J. Y. Sung, C. W. Chow, and C. H. Yeh"
+    },
+    {
+      "論文名稱": "0.75-3.05 Gbps OOK VCSEL-based visible light wireless communication system",
+      "會議名稱": "24th General Congress of the International Commission for Optics (ICO-24)",
+      "作者群": "I. C. Lo, C. H. Yeh, C. W. Chow, P. H. Chiang, and H. Y. Huang"
+    },
+    {
+      "論文名稱": "Adaptive dual-wavelength-switchable erbium fiber multiple-ring laser with single frequency output",
+      "會議名稱": "24th General Congress of the International Commission for Optics (ICO-24)",
+      "作者群": "C. H. Yeh, C. W. Chow, J. Y. Chen, H. Z. Chen, and J. H. Chen"
+    },
+    {
+      "論文名稱": "Curvature measurement of lenses and mirrors by using virtual-grating Moiré interferometry",
+      "會議名稱": "24th General Congress of the International Commission for Optics (ICO-24)",
+      "作者群": "W. T. Lo, Y. C. Chu, C. Y. Han, K. H. Chen, C. H. Yeh, and J. H. Chen"
+    },
+    {
+      "論文名稱": "White light phosphor-based blue laser diode illumination and communication using bit-loading OFDM",
+      "會議名稱": "OptoElectronics and Communications Conference (OECC)",
+      "作者群": "L. Y. Wei, C. W. Hsu, G. H. Chen, C. H. Yeh, C. K. Chan, and C. W. Chow"
+    },
+    {
+      "論文名稱": "Using root raised cosine filtering and time domain equalizer to enhance the data rate and performance of low-speed optical transceiver",
+      "會議名稱": "International Research Conference on Engineering and Technology (IRCET)",
+      "作者群": "Y. F. Liu, Y. C. Chen, C. W. Chow, and C. H. Yeh"
+    },
+    {
+      "論文名稱": "64-Gbit/s PAM-4 20-km transmission using silicon micro-ring modulator for optical access networks",
+      "會議名稱": "Optical Fiber Communication Conference and Exposition (OFC)",
+      "作者群": "Y. Hsu, T. C. Tzu, T. C. Lin, C. Y. Chuang, X. Wu, J. Chen, C. H. Yeh, H. K. Tsang, and C. W. Chow"
+    },
+    {
+      "論文名稱": "6.36 Gbit/s RGB LED-based WDM MIMO visible light communication system employing OFDM modulation",
+      "會議名稱": "Optical Fiber Communication Conference and Exposition (OFC)",
+      "作者群": "I. C. Lu, C. H. Lai, C. H. Yeh, and J. Chen"
+    },
+    {
+      "論文名稱": "Using ytterbium fiber based interference filter for stable and selectable erbium fiber laser for WDM communications",
+      "會議名稱": "International Conference on Applied Sciences (ICAS)",
+      "作者群": "N. Tsai, Y. H. Zhuang, C. H. Yeh, J. H. Chen, C. Y. Chen, and C. W. Chow"
+    },
+    {
+      "論文名稱": "Generating of 2×1 outputs for radially and azimuthally polarized beams",
+      "會議名稱": "International Conference on Applied Sciences (ICAS)",
+      "作者群": "W. X. Wu, C. Y. Han, Z. H. Wei, C. Y. Chen, K. H. Chen, C. H. Yeh, and J. H. Chen"
+    },
+    {
+      "論文名稱": "Silicon photonics for access networks and data centers",
+      "會議名稱": "2016 EMN Power Semiconductor Devices and ICs Meeting",
+      "作者群": "C. W. Chow, C. H. Yeh, and H. K. Tsang"
+    },
+    {
+      "論文名稱": "IR synchronization for optical camera communications",
+      "會議名稱": "Optics & Photonics Taiwan, the International Conference (OPTIC)",
+      "作者群": "C. C. Su, C. W. Chow, and C. H. Yeh"
+    },
+    {
+      "論文名稱": "Pre-distortion PAM-4 to enhance performance in solar-cell receiver based visible light communication",
+      "會議名稱": "Optics & Photonics Taiwan, the International Conference (OPTIC)",
+      "作者群": "H. Y. Wang, J. T. Wu, C. W. Hsu, C. W. Chow, and C. H. Yeh"
+    },
+    {
+      "論文名稱": "Positioning and lighting system using visible light communications",
+      "會議名稱": "Optics & Photonics Taiwan, the International Conference (OPTIC)",
+      "作者群": "J. T. Wu, H. Y. Wang, C. W. Hsu, C. W. Chow, and C. H. Yeh"
+    },
+    {
+      "論文名稱": "Thresholding schemes for visible light communication using mobile-phone image sensor",
+      "會議名稱": "Optics & Photonics Taiwan, the International Conference (OPTIC)",
+      "作者群": "W. C. Wang, K. Liang, C. Y. Chen, C. W. Chow, and C. H. Yeh"
+    },
+    {
+      "論文名稱": "Integrated intensity and WDM detection technique to increase FBG-sensor capacity",
+      "會議名稱": "Optics & Photonics Taiwan, the International Conference (OPTIC)",
+      "作者群": "Y. H. Zhuang, N. Tsai, C. H. Yeh, C. W. Chow, and J. H. Chen"
+    },
+    {
+      "論文名稱": "Fault-detection FBG-sensor architecture for sensing strain and temperature",
+      "會議名稱": "Optics & Photonics Taiwan, the International Conference (OPTIC)",
+      "作者群": "N. Tsai, Y. H. Zhuang, C. H. Yeh, C. W. Chow, and J. H. Chen"
+    },
+    {
+      "論文名稱": "Demonstration of high speed imaging 3×3 MIMO-OFDM visible light communication system",
+      "會議名稱": "IEEE Photonics Conference (IPC)",
+      "作者群": "C. W. Hsu, I. C. Lu, Y. L. Liu, C. H. Yeh, and C. W. Chow"
+    },
+    {
+      "論文名稱": "Dynamic bandwidth allocation for multi-band OFDM wireless VLC system",
+      "會議名稱": "IEEE Photonics Conference (IPC)",
+      "作者群": "C. H. Yeh, C. W. Chow, H. Y. Chen, and Y. L. Liu"
+    },
+    {
+      "論文名稱": "Centralized WDM-OFDM PON system with Rayleigh backscattering noise circumvention",
+      "會議名稱": "IEEE Photonics Conference (IPC)",
+      "作者群": "C. H. Yeh, C. W. Chow, and J. H. Chen"
+    },
+    {
+      "論文名稱": "Germanium-on-silicon photodetector-based IMDD OFDM PON employing Volterra filtering for nonlinear compensation",
+      "會議名稱": "European Conference on Optical Communication (ECOC)",
+      "作者群": "Y. Hsu, J. J. Liu, X. Wu, H. Y. Wu, C. H. Yeh, H. K. Tsang, J. Chen, and C. W. Chow"
+    },
+    {
+      "論文名稱": "Tunable and stable dual-wavelength erbium fiber laser with single-longitudinal-mode utilizing novel multi-ring architecture",
+      "會議名稱": "34th Symposium on Spectroscopic Technologies and Surface Sciences",
+      "作者群": "Y. H. Zhung, N. Tsia, J. Y. Chen, H. Z. Chen, C. W. Chow, J. H. Chen, and C. H. Yeh"
+    },
+    {
+      "論文名稱": "High power radially and azimuthally polarization converter",
+      "會議名稱": "34th Symposium on Spectroscopic Technologies and Surface Sciences",
+      "作者群": "C. Y. Han, Z. H. Wei, Y. Hsu, K. H. Chen, C. H. Yeh, W. X. Wu and J. H. Chen"
+    },
+    {
+      "論文名稱": "Visible light encryption system using camera image sensor",
+      "會議名稱": "OptoElectronics and Communications Conference (OECC)",
+      "作者群": "C. W. Hsu, K. Liang, H. Y. Chen, L. Y. Wei, C. H. Yeh, Y. Liu and C. W. Chow"
+    },
+    {
+      "論文名稱": "Integrated SOI-based receiver module for TWDM-PON",
+      "會議名稱": "OptoElectronics and Communications Conference (OECC)",
+      "作者群": "Y. Hsu, X. R. Wu, L. Y. Wei, K. Xu, C. W. Hsu, J. Y. Sung, C. H. Yeh, H. K. Tsang, and C. W. Chow"
+    },
+    {
+      "論文名稱": "Using simple FBG-based sensor system together with fault-detection for strain and temperature sensing",
+      "會議名稱": "IEEE International Conference on Applied System Innovation (ICASI)",
+      "作者群": "N. Tsai, Y. H. Chuang, C. H. Yeh, C. W. Chow, and J. H. Chen"
+    },
+    {
+      "論文名稱": "Utilizing FBG-based sensor with power and WDM detection for increasing sensor capacity",
+      "會議名稱": "IEEE International Conference on Applied System Innovation (ICASI)",
+      "作者群": "Y. H. Chuang, N. Tsai, C. H. Yeh, C. W. Chow, and J. H. Chen"
+    },
+    {
+      "論文名稱": "Utilizing novel ring architecture for wavelength-selectable erbium fiber laser with single-longitudinal-mode output",
+      "會議名稱": "IEEE International Conference on Applied System Innovation (ICASI)",
+      "作者群": "H. Z. Chen, J. Y. Chen, Y. H. Chuang, N. Tsai, C. W. Chow and C. H. Yeh"
+    },
+    {
+      "論文名稱": "Using FBG for stabilized and wavelength-tunable EDF laser in single-longitudinal-mode",
+      "會議名稱": "Optics & Photonics Taiwan, the International Conference (OPTIC)",
+      "作者群": "H. Z. Chen, J. Y. Chen, C. H. Yeh, and C. W. Chow"
+    },
+    {
+      "論文名稱": "Employing erbium-doped Fiber laser architecture for FBG-based remote temperature sensing",
+      "會議名稱": "Optics & Photonics Taiwan, the International Conference (OPTIC)",
+      "作者群": "J. Y. Chen, H. Z. Chen, C. H. Yeh, C. W. Chow, J. H. Chen, and W. F. Liu"
+    },
+    {
+      "論文名稱": "DWDM transceivers for 120-km long-reach TWDM-PON",
+      "會議名稱": "Optics & Photonics Taiwan, the International Conference (OPTIC)",
+      "作者群": "Y. C, Chen, C. W. Hsu, C. H. Yeh, and C. W. Chow"
+    },
+    {
+      "論文名稱": "Smartphone-based Visible Light Communication",
+      "會議名稱": "Optics & Photonics Taiwan, the International Conference (OPTIC)",
+      "作者群": "K. Liang, H. Y. Chen, C. Y. Chen, C. W. Hsu, S. H. Chen, C. H. Yeh, and C. W. Chow"
+    },
+    {
+      "論文名稱": "Driving circuit designs for LED based visible light communication (VLC)",
+      "會議名稱": "Optics & Photonics Taiwan, the International Conference (OPTIC)",
+      "作者群": "W. Y. Kuo, K. Liang, H. Y. Chen, C. W. Hsu, C. Y. Chen, C. H. Yeh, and C. W. Chow"
+    },
+    {
+      "論文名稱": "Measurement of thin-film stress by Moiré method",
+      "會議名稱": "Optics & Photonics Taiwan, the International Conference (OPTIC)",
+      "作者群": "J. T. Tseng, C. Y. Tsai, H. K. Tseng, J. H. Chen, C. H. Yeh, and K. H. Chen"
+    },
+    {
+      "論文名稱": "Measuremeat of Thin-film Stress by Moiré Method",
+      "會議名稱": "Optics & Photonics Taiwan, International Conference 2015 (OPTIC 2015)",
+      "作者群": "Jen-Te Tseng, Chia-Yan Tsai, Hus-Ken Tseng, Jing-Heng Chen, Chien-Hung Yeh, and Kun-Huang Chen"
+    },
+    {
+      "論文名稱": "Measuremeat of small displacements with characteristic of surface plasmon resonance",
+      "會議名稱": "Optics & Photonics Taiwan, International Conference 2015 (OPTIC 2015)",
+      "作者群": "Yen-Chang Chu, Yu-Shing Lin, Chien-Hung Yeh, Jing-Heng Chen, Jiun-You Lin, and Kun-Huang Chen"
+    },
+    {
+      "論文名稱": "Passive optical receiver for visible light communication (VLC)",
+      "會議名稱": "IEEE TENCON",
+      "作者群": "H. Y. Chen, K. Liang, C. Y. Chen, H. S. Chen, C. W. Chow, and C. H. Yeh"
+    },
+    {
+      "論文名稱": "Optical wireless communications using visible LED",
+      "會議名稱": "IEEE TENCON",
+      "作者群": "C. W. Chow and C. H. Yeh"
+    },
+    {
+      "論文名稱": "Utilizing new erbium-doped fiber laser scheme for long-distance fiber Bragg grating (FBG) sensor system",
+      "會議名稱": "IEEE SENSORS Conference",
+      "作者群": "C. H. Yeh, C. W. Chow, H. Z. Chen, and J. Y. Chen"
+    },
+    {
+      "論文名稱": "Visible light communications (VLC) – Possibilities and challenges for future wireless communications",
+      "會議名稱": "Wireless and Optical Communications Conference (WOCC)",
+      "作者群": "C. W. Chow, C. H. Yeh, and Y. Liu"
+    },
+    {
+      "論文名稱": "Short-reach light emitting diode (LED) based visible light communications (VLC)",
+      "會議名稱": "Asia Communications and Photonics Conference (ACP)",
+      "作者群": "C. W. Chow, C. H. Yeh, and Y. Liu"
+    },
+    {
+      "論文名稱": "Measurement of small wavelength differences with heterodyne interferometry and optical activity of chiral crystal",
+      "會議名稱": "33th Symposium on Spectroscopic Technologies and Surface Sciences",
+      "作者群": "J. H. Chen, K. H. Chen, C. H. Yeh, and Y. C. Chu"
+    },
+    {
+      "論文名稱": "Using FBG for stable and tunable erbium-doped fiber ring laser in single-mode",
+      "會議名稱": "33th Symposium on Spectroscopic Technologies and Surface Sciences",
+      "作者群": "C. H. Yeh, H. Z. Chen, J. Y. Chen, C. W. Chow, and J. H. Chen"
+    },
+    {
+      "論文名稱": "Low-bending loss square-core optical fiber for optical communication",
+      "會議名稱": "SPIE Optics+Optoelectronics",
+      "作者群": "P. F. Liu, J. Y. Sung, C. W. Chow, C. H. Yeh, G. Chou, and C. L. Pan"
+    },
+    {
+      "論文名稱": "Wavelength-tunable erbium-doped fiber laser using silicon-on-insulator (SOI) based micro-ring",
+      "會議名稱": "SPIE Optics+Optoelectronics",
+      "作者群": "L. G. Yang, C. W. Chow, C. H. Yeh, and H. K. Tsang"
+    },
+    {
+      "論文名稱": "Utilizing inter-injection Fabry-Perot laser scheme for stable wavelength-tuning",
+      "會議名稱": "PSROC 2015 Annual Meeting",
+      "作者群": "Y. F. Wu, C. H. Yeh, C. W. Chow, J. Y. Sung, J. H. Chen, and Y. L. Liu"
+    },
+    {
+      "論文名稱": "2X2 MIMO system for simultaneously visible light communication (VLC) and positioning",
+      "會議名稱": "Optics & Photonics Taiwan, the International Conference (OPTIC)",
+      "作者群": "C. Y. Chen, S. H. Chen, C. N. Lin, Y. F. Liu, C. H. Yeh, and C. W. Chow"
+    },
+    {
+      "論文名稱": "125-Gbit/s high spectral efficient all-optical OFDM system",
+      "會議名稱": "Optics & Photonics Taiwan, the International Conference (OPTIC)",
+      "作者群": "C. W. Hsu, J. Y. Sung, C. W. Chow, and C. H. Yeh"
+    },
+    {
+      "論文名稱": "Novel square-core optical fiber for short-reach optical networks",
+      "會議名稱": "Optics & Photonics Taiwan, the International Conference (OPTIC)",
+      "作者群": "H. Q. Su, P. F. Liu, J. Y. Sung, L. G. Yang, C. W. Chow, G. Chou, C. H. Yeh, and C. L. Pan"
+    },
+    {
+      "論文名稱": "Development of calibration systems",
+      "會議名稱": "Optics & Photonics Taiwan, the International Conference (OPTIC)",
+      "作者群": "W. Y. Chang, Y. C. Chu, F. H. Hsu, C. H. Yeh, J. H. Chen, J. Y. Lin, K. Y. Hsu, and and K. H. Chen"
+    },
+    {
+      "論文名稱": "White-light LED-based visible light communications (VLC)",
+      "會議名稱": "Optics & Photonics Taiwan, the International Conference (OPTIC)",
+      "作者群": "C. W. Chow and C. H. Yeh"
+    },
+    {
+      "論文名稱": "Direct-detection all-optical OFDM superchannel for long-reach PON",
+      "會議名稱": "International Conference on Optical Communications and Networks (ICOCN)",
+      "作者群": "C. W. Chow, C. H. Yeh, J. Y. Sung, and S. H. Chen"
+    },
+    {
+      "論文名稱": "High-speed phosphor-LED wireless communication system utilizing no blue filter",
+      "會議名稱": "SPIE Optics+Photonics",
+      "作者群": "C. H. Yeh*, C. W. Chow, H. Y. Chen, J. Chen, Y. L. Liu, and Y. F. Wu"
+    },
+    {
+      "論文名稱": "Utilizing self-seeding RSOA with Faraday rotator mirror for colorless access network",
+      "會議名稱": "SPIE Optics+Photonics",
+      "作者群": "Y. F. Wu, J. Y. Sung, C. W. Chow, and C. H. Yeh"
+    },
+    {
+      "論文名稱": "Design of visible light communication system for maintaining uniform data rate",
+      "會議名稱": "SPIE Optics+Photonics",
+      "作者群": "J. Y. Sung, W. F. Lin, Y. F. Wu, C. W. Chow, and C. H. Yeh"
+    }
+  ],
+  "book": [
+    {
+      "專業書籍": "具WDM應用之LED可見光通訊傳輸技術與效能分析期末報告",
+      "出版單位": "自行出版",
+      "作者群": "葉建宏"
+    },
+    {
+      "專業書籍": "Fiber Laser [Chapter 8: Utilization of Reflective Semiconductor Optical Amplifier (RSOA) for Multiwavelength and Wavelength-Tunable Fiber Lasers]",
+      "出版單位": "InTech",
+      "作者群": "Chien-Hung Yeh and Chi-Wai Chow"
+    },
+    {
+      "專業書籍": "具反射重新光調變之上傳光信號技術期末技術分析報告",
+      "出版單位": "自行出版",
+      "作者群": "葉建宏"
+    },
+    {
+      "專業書籍": "Some Advanced Functionalities of Optical Amplifiers [Chapter 6: Investigation of Broadband S-Band to L-Band Erbium-Doped Fiber Amplifier (EDFA) Module]",
+      "出版單位": "InTech",
+      "作者群": "Chien-Hung Yeh"
+    },
+    {
+      "專業書籍": "具反射重新光調變之上傳光信號技術期中技術分析報告",
+      "出版單位": "自行出版",
+      "作者群": "葉建宏"
+    },
+    {
+      "專業書籍": "The Current Trends of Optics and Photonics [Chapter 4 : Visible Light Communication]",
+      "出版單位": "Springer",
+      "作者群": "Chi-Wai Chow and Chien-Hung Yeh"
+    },
+    {
+      "專業書籍": "Optical Sensors - New Developments and Practical Applications [Chapter 6 : Self-Protected Sensor System Utilizing Fiber Bragg Grating (FBG)-Based Sensors]",
+      "出版單位": "InTech",
+      "作者群": "Chien-Hung Yeh and Chi-Wai Chow"
+    },
+    {
+      "專業書籍": "Photonic Science and Technologies for THz and Millimeter Waves [Chapter 6 : Photonic THz and Millimeter Wave Wireless Communication Systems]",
+      "出版單位": "Wiley",
+      "作者群": "Chi-Wai Chow and Chien-Hung Yeh"
+    },
+    {
+      "專業書籍": "Semiconductor Laser Diode Technology and Applications, Chapter 11 : Tunable Dual-Wavelength Scheme by Optical-Injection Fabry-Perot Laser Diode",
+      "出版單位": "InTech",
+      "作者群": "Chien-Hung Yeh"
+    },
+    {
+      "專業書籍": "電信科技與產業發展\r\n「被動光纖網路的分歧監測與保護裝置」",
+      "出版單位": "國立暨南大學出版",
+      "作者群": "葉建宏、吳政勳"
+    },
+    {
+      "專業書籍": "電信國家型科技計畫簡訊\r\n「乙太被動光纖網路的歧支監測與保護裝置」",
+      "出版單位": "NSC電信國家型",
+      "作者群": "吳政勳、葉建宏"
+    }
+  ],
+  "patent": [
+    {
+      "title": "發明",
+      "desc": "製作徑向或方位偏極轉換元件之裝置及製法"
+    },
+    {
+      "title": "發明",
+      "desc": "徑向偏極轉換元件、方位偏極轉換元件及其製法"
+    }
+  ],
+  "most": [
+    {
+      "name": "邁向整合新6G-無人機(UAV)-虛擬私人網路(VPN)的光纖-無線接取傳輸技術(2/3)",
+      "schoolYear": "113"
+    },
+    {
+      "name": "具新6G無線光傳輸之智慧型無人飛行載具異質系統平台之建置－具新6G無線光傳輸之智慧型無人飛行載具異質系統平台之建置(1/2)",
+      "schoolYear": "112"
+    },
+    {
+      "name": "(中興)採用低功耗、高頻寬內封裝光學I/O之Tb/s 晶片對晶片資料鏈(1/2)",
+      "schoolYear": "112"
+    },
+    {
+      "name": "邁向整合新6G-無人機(UAV)-虛擬私人網路(VPN)的光纖-無線接取傳輸技術(1/3)",
+      "schoolYear": "112"
+    },
+    {
+      "name": "整合多頻網信號傳輸的高彈性光接取網路系統之研究 (II) (III)(2/2)",
+      "schoolYear": "111"
+    },
+    {
+      "name": "整合多頻網信號傳輸的高彈性光接取網路系統之研究 (II) (III)(1/2)",
+      "schoolYear": "110"
+    },
+    {
+      "name": "整合多頻網信號傳輸的高彈性光接取網路系統之研究",
+      "schoolYear": "109"
+    },
+    {
+      "name": "可調式且具單縱模連續光波的摻鉺光纖雷射之設計",
+      "schoolYear": "109"
+    },
+    {
+      "name": "具多頻網合一應用的光纖接取網路系統",
+      "schoolYear": "108"
+    },
+    {
+      "name": "基於偏極多工的雷射無線光通訊技術 Polarization-Multiplexing Based Laser Wireless Communication Technology",
+      "schoolYear": "108"
+    },
+    {
+      "name": "應用於智慧寬頻接取網路的光纖-無線通訊整合系統之研發",
+      "schoolYear": "107"
+    },
+    {
+      "name": "LED無線可見光通訊系統之研究",
+      "schoolYear": "107"
+    },
+    {
+      "name": "智能化5G行動通訊與光纖接取網路整合技術之研究",
+      "schoolYear": "106"
+    },
+    {
+      "name": "應用Vernier效應之波長可調且具單頻輸出的摻鉺光纖雷射系統",
+      "schoolYear": "106"
+    },
+    {
+      "name": "同時支援5G通訊之寬頻光纖接取網路關鍵技術(3/3)",
+      "schoolYear": "105"
+    },
+    {
+      "name": "基於VCSEL雷射的雙向可見光通訊系統之研究",
+      "schoolYear": "105"
+    },
+    {
+      "name": "同時支援5G通訊之寬頻光纖接取網路關鍵技術(2/3)",
+      "schoolYear": "104"
+    },
+    {
+      "name": "新式雷射設計於光纖接取網路之應用",
+      "schoolYear": "104"
+    },
+    {
+      "name": "同時支援5G通訊之寬頻光纖接取網路關鍵技術(1/3)",
+      "schoolYear": "103"
+    }
+  ],
+  "tech": [],
+  "induAca": [
+    "雷射光通訊地面測試平台評估 (2024-05 to 2024-12)",
+    "衛星雷射光通訊系統雛形體研製 (2023-01 to 2023-12)",
+    "用於低軌衛星的無線光通訊模組雛型開發 (2023-01 to 2023-12)",
+    "用於低軌衛星的無線光通訊技術之評估 (2022-04 to 2022-12)",
+    "高均光度軟質導光條量測技術輔導計畫 (2019-08 to 2020-06)",
+    "Gb/s可見光通訊系統數位調變與前端電路設計分析 (2017-01 to 2017-12)",
+    "具WDM應用之LED可見光通訊傳輸技術與效能分析 (2016-01 to 2016-12)",
+    "具反射重新光調變之上傳光信號技術 (2015-03 to 2015-12)"
+  ],
+  "perform": [],
+  "reward": [
+    "逢甲大學論文著作獎勵傑出獎 (113, 2024-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵 (113, 2024-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (113, 2024-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵 (113, 2024-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (113, 2024-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (113, 2024-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優等獎 (113, 2024-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (113, 2024-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (113, 2024-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (113, 2024-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵 (113, 2024-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (113, 2024-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (113, 2024-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (113, 2024-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (113, 2024-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (113, 2024-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優等獎 (113, 2024-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (113, 2024-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (113, 2024-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (113, 2024-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (113, 2024-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優等獎 (113, 2024-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (113, 2024-11) - 逢甲大學",
+    "Charles Kao Best Paper Award (113, 2024-10) - 33rd Wireless and Optical Communications Conference (WOCC2024)",
+    "發明競賽銅牌獎 (113, 2024-10) - 台灣創新技術博覽會",
+    "全球前2%頂尖科學家名單 (113, 2024-10) - 史丹佛大學_Elsevier",
+    "全球排名前0.5%學者 (113, 2024-09) - 知名學術分析平台ScholarGPS",
+    "全球電子電機領域頂尖科學家名單 (112, 2024-04) - Research.com",
+    "112年度國科會補助大專校院研究獎勵 (112, 2023-12) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優等獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優等獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "全球前2%頂尖科學家名單 (112, 2023-10) - 史丹佛大學_Elsevier",
+    "2023年全球電子電機工程領域頂尖科學家 (111, 2023-04) - Research.com",
+    "逢甲大學論文著作獎勵傑出獎 (111, 2022-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (111, 2022-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (111, 2022-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (111, 2022-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (111, 2022-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (111, 2022-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (111, 2022-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (111, 2022-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (111, 2022-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (111, 2022-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (111, 2022-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (111, 2022-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (111, 2022-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (111, 2022-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (111, 2022-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (111, 2022-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (111, 2022-11) - 逢甲大學",
+    "111學年度教學績優獎 (111, 2022-11) - 逢甲大學",
+    "111年度國科會補助大專校院研究獎勵 (111, 2022-10) - 研究發展處",
+    "全球前2%頂尖科學家名單 (111, 2022-10) - 史丹佛大學_Elsevier",
+    "2022年全球電子電機工程領域頂尖科學家 (110, 2022-04) - Research.com",
+    "全球前2%頂尖科學家名單 (110, 2021-12) - 史丹佛大學_Elsevier",
+    "逢甲大學論文著作獎勵傑出獎 (110, 2021-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (110, 2021-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (110, 2021-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (110, 2021-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (110, 2021-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (110, 2021-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (110, 2021-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (110, 2021-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (110, 2021-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (110, 2021-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (110, 2021-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (110, 2021-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (110, 2021-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (110, 2021-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (110, 2021-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (110, 2021-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (110, 2021-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (110, 2021-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (110, 2021-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (110, 2021-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (110, 2021-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (110, 2021-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (110, 2021-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (110, 2021-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (110, 2021-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (110, 2021-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (110, 2021-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (110, 2021-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (110, 2021-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (110, 2021-11) - 逢甲大學",
+    "110年度科技部補助大專校院研究獎勵 (110, 2021-10) - 產學合作處",
+    "AAEE Best Paper Award (110, 2021-10) - 30th WOCC 2021",
+    "大專學生研究創作獎 (110, 2021-10) - 科技部",
+    "全球前2%頂尖科學家名單 (109, 2020-12) - 史丹佛大學_Elsevier",
+    "優秀論文獎 (109, 2020-11) - 2020光電與通訊工程應用研討會",
+    "逢甲大學論文著作獎勵傑出獎 (109, 2020-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (109, 2020-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (109, 2020-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (109, 2020-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (109, 2020-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (109, 2020-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (109, 2020-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (109, 2020-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (109, 2020-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (109, 2020-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (109, 2020-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (109, 2020-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (109, 2020-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (109, 2020-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (109, 2020-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (109, 2020-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (109, 2020-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (109, 2020-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (109, 2020-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (109, 2020-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (109, 2020-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (109, 2020-11) - 逢甲大學",
+    "109年度科技部補助大專校院研究獎勵 (109, 2020-10) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (108, 2019-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (108, 2019-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (108, 2019-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (108, 2019-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (108, 2019-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (108, 2019-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (108, 2019-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (108, 2019-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (108, 2019-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (108, 2019-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (108, 2019-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (108, 2019-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (108, 2019-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (108, 2019-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (108, 2019-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (108, 2019-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (108, 2019-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (108, 2019-11) - 逢甲大學",
+    "年度論文獎 (108, 2019-10) - 工業技術研究院",
+    "108學年度科技部補助大專校院研究獎勵 (108, 2019-09) - 逢甲大學",
+    "理學院「學生論文競賽：佳作獎」 (107, 2019-05) - 逢甲大學",
+    "理學院「學生論文競賽：優等獎」 (107, 2019-05) - 逢甲大學",
+    "未來科技突破獎 (107, 2018-12) - 科技部",
+    "逢甲大學論文著作獎勵優良獎 (107, 2018-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (107, 2018-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (107, 2018-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (107, 2018-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (107, 2018-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (107, 2018-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (107, 2018-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (107, 2018-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (107, 2018-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (107, 2018-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (107, 2018-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (107, 2018-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (107, 2018-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (107, 2018-11) - 逢甲大學",
+    "107年度科技部補助大專校院研究獎勵 (107, 2018-08) - 逢甲大學",
+    "榮譽會員 (106, 2018-06) - 中華民國斐陶斐榮譽學會",
+    "理學院「學生論文競賽：優等獎」 (106, 2018-06) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (106, 2017-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (106, 2017-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (106, 2017-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (106, 2017-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (106, 2017-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (106, 2017-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (106, 2017-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (106, 2017-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (106, 2017-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (106, 2017-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (106, 2017-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (106, 2017-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (106, 2017-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (106, 2017-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (106, 2017-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (106, 2017-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (106, 2017-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (106, 2017-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (106, 2017-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (106, 2017-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (106, 2017-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (106, 2017-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (106, 2017-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (106, 2017-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (106, 2017-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (106, 2017-11) - 逢甲大學",
+    "逢甲大學優良教材獎勵優等獎 (106, 2017-11) - 逢甲大學",
+    "106年度科技部獎勵特殊優秀人才 (106, 2017-08) - 產學合作處",
+    "理學院「學生論文競賽：佳作獎」 (105, 2017-05) - 逢甲大學",
+    "理學院「學生論文競賽：佳作獎」 (105, 2017-05) - 逢甲大學",
+    "第六屆理事 (105, 2017-04) - 台灣產業科技推動協會",
+    "優良教材佳作獎 (105, 2016-11) - 逢甲大學",
+    "論文著作傑出獎 (105, 2016-11) - 逢甲大學",
+    "論文著作優等獎 (105, 2016-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (105, 2016-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (105, 2016-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (105, 2016-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (105, 2016-11) - 逢甲大學",
+    "逢甲大學優良教材獎勵佳作獎 (105, 2016-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (105, 2016-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (105, 2016-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (105, 2016-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (105, 2016-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (105, 2016-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (105, 2016-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (105, 2016-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (105, 2016-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (105, 2016-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (105, 2016-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (105, 2016-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (105, 2016-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (105, 2016-11) - 逢甲大學",
+    "逢甲大學優良教材獎勵佳作獎 (105, 2016-11) - 逢甲大學",
+    "學生壁報論文獎/佳作獎 (104, 2016-07) - 光譜技術與表面科學研討會",
+    "Best Conference Paper Award (104, 2016-06) - IEEE ICASI 2016",
+    "Best Conference Paper Award (104, 2016-06) - IEEE ICASI 2016",
+    "Best Conference Paper Award (104, 2016-06) - IEEE ICASI 2016",
+    "理學院「學生論文競賽：佳作獎」 (104, 2016-05) - 逢甲大學",
+    "論文著作傑出獎 (104, 2015-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (104, 2015-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (104, 2015-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (104, 2015-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (104, 2015-11) - 逢甲大學",
+    "圖書館部落格(103)專題文章 [感謝狀] (104, 2015-10) - 逢甲大學",
+    "產業導師 (103, 2014-04) - 國立台北科技大學教學卓越計畫",
+    "業界專家 (103, 2014-04) - 國立台北科技大學光電工程研究所遴選業界專家",
+    "第五屆理事 (102, 2014-04) - 台灣產業科技推動協會",
+    "主編兼編輯委員 (103, 2014-01) - 工業技術研究院/電腦與通訊期刊 (ICL Journal)",
+    "年度論文獎 (102, 2013-12) - 工業技術研究院",
+    "國家產業創新獎/卓越創新研究機構獎 (102, 2013-10) - 經濟部",
+    "業界專家 (102, 2013-04) - 國立台北科技大學光電工程研究所遴選業界專家",
+    "產業導師 (101, 2012-12) - 國立台北科技大學教學卓越計畫",
+    "業界專家 (101, 2012-12) - 國立台北科技大學光電工程研究所遴選業界專家",
+    "年度論文獎 (100, 2011-12) - 工業技術研究院",
+    "國家發明創作獎/貢獻獎 (100, 2011-10) - 經濟部智慧財產局",
+    "資通楷模 (100, 2011-07) - 工業技術研究院",
+    "傑出研究獎/銅牌獎 (100, 2011-07) - 工業技術研究院",
+    "年度績優人員 (98, 2009-12) - 國防工業訓儲役",
+    "年度論文獎 (98, 2009-12) - 工業技術研究院",
+    "企業講師 (98, 2009-09) - 國立台北科技大學教學卓越計畫雙師計畫",
+    "成果貢獻獎/銅牌獎 (98, 2009-07) - 工業技術研究院",
+    "最佳論文獎 (98, 2009-07) - 工業技術研究院電腦與通訊期刊",
+    "年度績優人員 (97, 2008-12) - 國防工業訓儲役",
+    "挑戰高難度研究獎 (97, 2008-12) - 工業技術研究院",
+    "青年獎章 (97, 2008-03) - 中國青年救國團",
+    "年度績優人員 (96, 2007-12) - 國防工業訓儲役",
+    "專利行政訴訟事件小組諮詢委員 (96, 2007-12) - 司法院",
+    "年度論文獎 (96, 2007-12) - 工業技術研究院",
+    "技術貢獻獎 (96, 2007-12) - 中華民國光學工程學會",
+    "傑出資訊人才獎 (96, 2007-12) - 台北市電腦公會資訊月",
+    "優質專利 (96, 2007-10) - 工業技術研究院",
+    "工研菁英 (96, 2007-07) - 工業技術研究院",
+    "傑出研究獎/金牌獎 (96, 2007-07) - 工業技術研究院",
+    "最佳論文獎 (96, 2007-07) - 工業技術研究院電腦與通訊期刊",
+    "考察研究獎 (96, 2007-06) - 潘文淵文教基金會",
+    "年度績優人員 (95, 2006-12) - 國防工業訓儲役",
+    "錸德青年光學工程獎章 (95, 2006-12) - 中華民國光學工程學會",
+    "研究論文獎 (94, 2005-12) - 工業技術研究院",
+    "優良技術獎 (94, 2005-07) - 經濟部工業局技術處科技專案",
+    "研究論文獎 (94, 2005-06) - 工業技術研究院",
+    "卓越技術獎 (94, 2005-03) - 台灣光通訊產業聯盟",
+    "專利委員 (93, 2004-10) - 工業技術研究院資訊與通訊研究所",
+    "榮譽會員 (89, 2000-06) - 中華民國斐陶斐榮譽學會"
+  ],
+  "speech": [
+    {
+      "演講題目": "光通訊技術於地面與非地面通訊網路的應用",
+      "邀請單位": "輔仁大學物理學系",
+      "演講日期": "2024-12"
+    },
+    {
+      "演講題目": "Application of Optical Communication Technology for the Inter-Satellite and UAV Link",
+      "邀請單位": "Polish-Taiwanese Scientific Seminar on Aeronautical & Aerosp",
+      "演講日期": "2024-11"
+    },
+    {
+      "演講題目": "B5G/6G光信號傳輸與低軌衛星間通訊的關鍵技術",
+      "邀請單位": "財團法人自強工業科學基金會",
+      "演講日期": "2024-07"
+    },
+    {
+      "演講題目": "用於衛星間光通訊的關鍵技術與發展",
+      "邀請單位": "輔仁大學物理學系",
+      "演講日期": "2023-10"
+    },
+    {
+      "演講題目": "可見光通訊的技術挑戰與發展",
+      "邀請單位": "台灣光電暨化合物半導體產業協會(TOSIA)",
+      "演講日期": "2023-09"
+    },
+    {
+      "演講題目": "B5G/6G與太空衛星間無線-光纖通訊整合技術",
+      "邀請單位": "財團法人自強工業科學基金會",
+      "演講日期": "2023-07"
+    },
+    {
+      "演講題目": "新時代 5G / B5G / 6G 無線光通訊技術",
+      "邀請單位": "南部科學園區產學協會",
+      "演講日期": "2022-10"
+    },
+    {
+      "演講題目": "新時代 5G / B5G / 6G 無線光通訊技術",
+      "邀請單位": "財團法人自強工業科學基金會",
+      "演講日期": "2021-11"
+    },
+    {
+      "演講題目": "Integrated Optical Fiber-Wireless Transmission Networks for Multi-Play Service",
+      "邀請單位": "國立台灣科技大學電子系",
+      "演講日期": "2020-12"
+    },
+    {
+      "演講題目": "具多頻網合一光接取網路之關鍵技術",
+      "邀請單位": "國立嘉義大學電子物理學系",
+      "演講日期": "2020-01"
+    },
+    {
+      "演講題目": "5G行動寬頻、光通訊網路與智慧城市的發展新趨勢",
+      "邀請單位": "輔仁大學物理學系",
+      "演講日期": "2019-10"
+    },
+    {
+      "演講題目": "5G行動/光通訊網路與智慧城市應用發展",
+      "邀請單位": "工研院產業學院",
+      "演講日期": "2019-08"
+    },
+    {
+      "演講題目": "未來無線行動與寬頻固網整合網路技術",
+      "邀請單位": "國立彰化師範大學機電工程學系",
+      "演講日期": "2019-05"
+    },
+    {
+      "演講題目": "無線與光通訊技術的整合及應用",
+      "邀請單位": "輔仁大學物理學系",
+      "演講日期": "2018-05"
+    },
+    {
+      "演講題目": "無線/光纖通訊整合技術於智慧城市的應用與分析",
+      "邀請單位": "國立台北科技大學光電工程學系",
+      "演講日期": "2017-11"
+    },
+    {
+      "演講題目": "整合5G行動/光通訊網路於綠能智慧城市之發展",
+      "邀請單位": "國立彰化師範大學機電工程系",
+      "演講日期": "2016-11"
+    },
+    {
+      "演講題目": "光通訊技術於智慧城市的應用與分析",
+      "邀請單位": "[經濟部] 新興通訊技術創新應用研討會-以物",
+      "演講日期": "2016-10"
+    },
+    {
+      "演講題目": "可見光通訊技術發展剖析",
+      "邀請單位": "[經濟部工業局] 智慧照明應用商機與設計實務",
+      "演講日期": "2016-09"
+    },
+    {
+      "演講題目": "可見光通訊",
+      "邀請單位": "[經濟部技術處] 2016解密科技寶藏活動",
+      "演講日期": "2016-07"
+    },
+    {
+      "演講題目": "Core Technology of LED Visible Light Communication",
+      "邀請單位": "2015新興通訊技術創新應用研討會",
+      "演講日期": "2015-11"
+    },
+    {
+      "演講題目": "全光化5G微波通訊整合系統",
+      "邀請單位": "逢甲大學光電學系",
+      "演講日期": "2015-11"
+    },
+    {
+      "演講題目": "可見光通訊技術於水下通訊應用",
+      "邀請單位": "工業技術研究院產業學院",
+      "演講日期": "2015-10"
+    },
+    {
+      "演講題目": "LED可見光通訊關鍵技術與系統應用",
+      "邀請單位": "財團法人自強工業科學基金會",
+      "演講日期": "2015-08"
+    },
+    {
+      "演講題目": "LED照明、通訊、定位關鍵技術及其應用",
+      "邀請單位": "光學元件技術發展諮詢委員會",
+      "演講日期": "2015-06"
+    },
+    {
+      "演講題目": "未來寬頻5G與光接取網路整合技術",
+      "邀請單位": "台北科技大學光纖有線電視與光通訊產學聯盟",
+      "演講日期": "2014-11"
+    },
+    {
+      "演講題目": "LED照明/通訊/定位應用技術與產業發展",
+      "邀請單位": "東海大學應用物理系",
+      "演講日期": "2014-10"
+    },
+    {
+      "演講題目": "LED照明兼通訊技術發展趨勢",
+      "邀請單位": "逢甲大學光電系",
+      "演講日期": "2014-09"
+    },
+    {
+      "演講題目": "可見光通訊產業趨勢",
+      "邀請單位": "國立台北科技大學光電系",
+      "演講日期": "2014-06"
+    },
+    {
+      "演講題目": "可見光通訊應用技術介紹",
+      "邀請單位": "經濟部技術處:4G無線通訊技術與應用研討會",
+      "演講日期": "2014-05"
+    },
+    {
+      "演講題目": "光電與通訊技術之發展",
+      "邀請單位": "華夏技術學院機械工程學系",
+      "演講日期": "2014-05"
+    },
+    {
+      "演講題目": "高速寬頻光通訊與可見光通訊技術",
+      "邀請單位": "國立中央大學電機工程學系",
+      "演講日期": "2013-12"
+    },
+    {
+      "演講題目": "LED通訊應用",
+      "邀請單位": "第二屆白光LED照明產業技術與策略高峰論壇",
+      "演講日期": "2013-06"
+    },
+    {
+      "演講題目": "具寬頻照明之LED可見光通訊技術及其應用",
+      "邀請單位": "國立嘉義大學電機工程系",
+      "演講日期": "2013-05"
+    },
+    {
+      "演講題目": "Core Technology of Broadband Optical Communication",
+      "邀請單位": "國立交通大學資訊工程系網路工程Seminar",
+      "演講日期": "2013-01"
+    },
+    {
+      "演講題目": "特殊數位信號處理技術於LED可見光通訊系統",
+      "邀請單位": "淡江大學電機工程研究所",
+      "演講日期": "2012-12"
+    },
+    {
+      "演講題目": "兼具照明/通訊之LED可見光通訊系統",
+      "邀請單位": "國立彰化師範大學機電工程系",
+      "演講日期": "2012-11"
+    },
+    {
+      "演講題目": "具照明與通訊之LED可見光通訊關鍵技術",
+      "邀請單位": "國立台北技大學光電工程系",
+      "演講日期": "2012-11"
+    },
+    {
+      "演講題目": "LED可見光通訊（VCL）之應用與技術現況",
+      "邀請單位": "LED智慧照明創新應用與技術論壇",
+      "演講日期": "2012-08"
+    },
+    {
+      "演講題目": "LED-Based Visible Light Communication（VLC）System",
+      "邀請單位": "逢甲大學光電學系",
+      "演講日期": "2012-04"
+    },
+    {
+      "演講題目": "光纖通訊技術及其應用",
+      "邀請單位": "輔仁大學應用科學與工程研究所",
+      "演講日期": "2011-06"
+    },
+    {
+      "演講題目": "New Generation Optical Access Networks",
+      "邀請單位": "東海大學物理學系",
+      "演講日期": "2010-12"
+    },
+    {
+      "演講題目": "關鍵光纖接取網路技術",
+      "邀請單位": "淡江大學電機系網路通訊人才培育先導型計畫",
+      "演講日期": "2010-11"
+    },
+    {
+      "演講題目": "Application of Fiber Laser Technology in FTTx Access Network",
+      "邀請單位": "國立台北科技大學光電工程研究所",
+      "演講日期": "2009-11"
+    },
+    {
+      "演講題目": "Advanced Technology for Fiber Access Networks",
+      "邀請單位": "逢甲大學光電學系",
+      "演講日期": "2009-10"
+    },
+    {
+      "演講題目": "光纖網路工程技術",
+      "邀請單位": "工業技術研究院產業學院專業課程研討會",
+      "演講日期": "2009-04"
+    },
+    {
+      "演講題目": "Fiber to the Home Access Networks",
+      "邀請單位": "國立台北科技大學光電工程學系",
+      "演講日期": "2009-03"
+    },
+    {
+      "演講題目": "光電元件設計於光纖通訊之應用",
+      "邀請單位": "國立台灣師範大學物理學系",
+      "演講日期": "2009-03"
+    },
+    {
+      "演講題目": "Fiber Access Technology in Passive Optical Networks",
+      "邀請單位": "國立聯合大學光電工程學系",
+      "演講日期": "2009-02"
+    },
+    {
+      "演講題目": "Fiber Access Technology for WDM/TDM Passive Optical Network",
+      "邀請單位": "國立台北科技大學光電工程研究所",
+      "演講日期": "2008-11"
+    },
+    {
+      "演講題目": "Broadband Access Technology for Passive Optical Networks",
+      "邀請單位": "國立中央大學電機工程學系",
+      "演講日期": "2008-10"
+    },
+    {
+      "演講題目": "光纖通訊元件與網路系統之簡介",
+      "邀請單位": "萬能科技大學光電工程學系",
+      "演講日期": "2007-05"
+    },
+    {
+      "演講題目": "被動光纖網路(PON)測試與保護機制",
+      "邀請單位": "[工業局] FTTx網路保護機制及DBA效能測試技術",
+      "演講日期": "2006-11"
+    },
+    {
+      "演講題目": "光纖到戶接取網路關鍵技術",
+      "邀請單位": "國防工業訓儲役說明會",
+      "演講日期": "2006-11"
+    },
+    {
+      "演講題目": "Broadband Passive Optical Network for Next Generation FTTH",
+      "邀請單位": "國立清華大學光電工程研究所",
+      "演講日期": "2005-09"
+    }
+  ],
+  "material": [],
+  "tal": []
+}

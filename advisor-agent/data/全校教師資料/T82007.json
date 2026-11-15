@@ -1,0 +1,2291 @@
+{
+  "teacherId": "T82007",
+  "name": "邱創乾",
+  "mainUnit": "資訊電機學院",
+  "detailUnit": "自動控制工程學系",
+  "skill": [
+    "語音識別Speech Recognition",
+    "影像處理Image Processing",
+    "電腦輔助醫學診斷Computer-aided Medical Diagnosis",
+    "生醫訊號處理Biosignal Processing"
+  ],
+  "edu": [
+    "美國密西根州立大學 電機工程研究所 博士",
+    "美國密西根州立大學 電機工程研究所 碩士",
+    "逢甲大學 電機工程學系 學士"
+  ],
+  "fcuExp": [
+    "自動控制工程學系(所) 系主任",
+    "資訊電機學院 副院長",
+    "資訊電機學院 代理院長",
+    "資訊電機學院 電機與通訊博士班主任",
+    "資訊電機學院 院長",
+    "教務處 教務長",
+    "教師教學成長中心 主任",
+    "通識教育中心 中心主任",
+    "100學年度身心障礙學生升學大專校院甄試委員會 總幹事",
+    "校長室 副校長",
+    "計畫辦公室 主任",
+    "教師教學成長中心 主任",
+    "教學資源中心 中心主任",
+    "性別平等教育委員會 召集人",
+    "招生事務處 招生事務長",
+    "校長室 副校長",
+    "境外生輔導工作小組 召集人",
+    "招生事務處 招生事務長",
+    "校園安全暨災害防救通報處理中心 副主委",
+    "國際科技與管理學院 院長",
+    "國際雙學士學位學程 主任",
+    "國際經營管理碩士學位學程 主任",
+    "澳洲墨爾本皇家理工大學商學與創新雙學士學位學程 主任",
+    "美國加州聖荷西州立大學商學大數據分析雙學士學位學程 主任",
+    "國際雙學士學位學程 主任",
+    "美國普渡大學電機資訊雙學士學位學程 主任",
+    "澳洲蒙納許大學資訊工程雙學士學位學程 主任",
+    "美國加州聖荷西州立大學電機工程雙學士學位學程 主任",
+    "美國加州舊金山州立大學資訊工程雙學士學位學程 主任",
+    "電機工程學系(所) 助教",
+    "自動控制工程學系(所) 副教授",
+    "自動控制工程學系 教授",
+    "自動控制工程學系 教授",
+    "自動控制工程學系 教授",
+    "逢甲大學 特聘教授",
+    "自動控制工程學系 講座教授"
+  ],
+  "currjob": [
+    "明道學校財團法人 第8屆董事"
+  ],
+  "otherExp": [],
+  "journal": [
+    {
+      "論文名稱": "Envelope extraction algorithm for magnetic resonance sounding signals based on adaptive local iterative filtering",
+      "期刊名稱": "Frontiers in Earth Science (SCIE)",
+      "作者群": "Baofeng Tian, Chao Sun, Longchang Liu, Yue-Der Lin, Chuang-Chien Chiu, Haoyu Duan and Hui Luan*"
+    },
+    {
+      "論文名稱": "A RISK CLASSIFICATION SYSTEM FOR ELDERLY FALLS USING SUPPORT VECTOR MACHINE",
+      "期刊名稱": "Biomedical Engineering: Applications, Basis and Communications (EI)",
+      "作者群": "Chi-Chih Wu, Chuang-Chien Chiu, and Su-Yi Fu"
+    },
+    {
+      "論文名稱": "Development of Wearable Posture Monitoring System for Dynamic Assessment of Sitting Posture",
+      "期刊名稱": "Physical and Engineering Sciences in Medicine (SCIE)",
+      "作者群": "C.C. Wu, C.C. Chiu, C.Y. Yeh"
+    },
+    {
+      "論文名稱": "Noninvasive Physiological Signal Analysis and Implementation of Monitoring and Control System for Premature Infants",
+      "期刊名稱": " International Journal of Bioscience, Biochemistry and Bioinformatics ()",
+      "作者群": "H.W. Chen, C.C. Chiu, and T.M. Wang"
+    },
+    {
+      "論文名稱": "Assessment of Sleep Quality Based on Automatic Detection of Emotional Arousal Epochs from EEG Signals",
+      "期刊名稱": "Asian Academic Research Journal of Multidisciplinary (SCIE)",
+      "作者群": "C.C. Chiu, H.H. Bui, S.J. Yeh, and Ken Y.K. Liao"
+    },
+    {
+      "論文名稱": "Linear Assessment of Cerebral Autoregulation in Idiopathic Parkinson's Disease",
+      "期刊名稱": "International Journal of Pharmacy and Pharmaceutical Sciences (SCIE)",
+      "作者群": "C.C. Chiu, K.Y.K. Liao, and S.J. Yeh"
+    },
+    {
+      "論文名稱": "翻轉學習路徑-提供多元實習落實學用合一",
+      "期刊名稱": "評鑑雙月刊 ()",
+      "作者群": "邱創乾、許盈松、鄧鈞文"
+    },
+    {
+      "論文名稱": "SVM Classification for Diabetics with Various Degrees of Autonomic Neuropathy Based on Cross-Correlation Features",
+      "期刊名稱": "Journal of Medical and Biological Engineering (SCIE)",
+      "作者群": "C.C. Chiu, S.J. Yeh, Yu-Hen Hu, and K.Y.K. Liao"
+    },
+    {
+      "論文名稱": "Recovering EEG Signals: Muscle Artifact Suppression Using Wavelet-Enhanced, Independent Component Analysis Integrated with Adaptive Filter",
+      "期刊名稱": "Biomedical Engineering-Application, Basis & Communications (SCIE)",
+      "作者群": "C.C. Chiu, H.H. Bui, S.J. Yeh, and Ken Y.K. Liao"
+    },
+    {
+      "論文名稱": "Recognition of Sleep Stages Based on a Combined Neural Network and Fuzzy System Using Wavelet Transform Features",
+      "期刊名稱": "Biomedical Engineering-Application, Basis & Communications (SCIE)",
+      "作者群": "C.C. Chiu, H.H. Bui, and S.J. Yeh"
+    },
+    {
+      "論文名稱": "逢甲大學工程教育認證之推動與成效",
+      "期刊名稱": "工程會刊 (國內期刊)",
+      "作者群": "邱創乾"
+    },
+    {
+      "論文名稱": "逢甲大學工程教育認證之推動與成效",
+      "期刊名稱": "工程會刊 (國內期刊)",
+      "作者群": "邱創乾"
+    },
+    {
+      "論文名稱": "THE CHEMICAL STAIN INSPECTION OF POLYSILICON SOLAR CELL\r\nWAFER BY THE FUZZY THEORY METHOD",
+      "期刊名稱": "Intelligent automation & Soft Computing (SCIE)",
+      "作者群": "Chern-Sheng Lin , Chih-Wei Lin , Shih-Wei Yang , Shir-Kuan Lin & Chuang-Chien Chiu"
+    },
+    {
+      "論文名稱": "Development of a body motion interactive system with a weight voting mechanism and computer vision technology",
+      "期刊名稱": "Optics and Laser Technology ()",
+      "作者群": "C.S. Lin, C.T. Chen, H.J. Shei, Y.L. Lay, and C.C. Chiu"
+    },
+    {
+      "論文名稱": "The quality improvement of PI coating process of TFT-LCD panels with Taguchi methods",
+      "期刊名稱": "Optik (SCIE)",
+      "作者群": "Chern-Sheng Lin Shun-Jeh Shih An-Tsung Lu San-Shan Hung Chuang-Chien Chiu"
+    },
+    {
+      "論文名稱": "Modelling and Simulation of Respiratory Control with LabVIEW",
+      "期刊名稱": "Journal of Medical and Biological Engineering (SCIE)",
+      "作者群": "Shyan-Lung Lin*, Nai-Ren Guo, Chuang-Chien Chiu"
+    },
+    {
+      "論文名稱": "Modeling and simulation of respiratory control with LabVIEW",
+      "期刊名稱": "Journal of Medical and Biological Engineering (SCIE)",
+      "作者群": "S.L. Lin, N.R. Guo, C.C. Chiu"
+    },
+    {
+      "論文名稱": " Higher order crossings-based analysis to assess the effects of diabetics autonomic neuropathy on dynamic cerebral autoregulation",
+      "期刊名稱": "Hungkuang Journal ()",
+      "作者群": "Shoou-Jeng Yeh, Chuang-Chien Chiu, Ben-Yi Liau, Andre' Diedrich"
+    },
+    {
+      "論文名稱": "腦血流調控之量測、分析與應用",
+      "期刊名稱": "中風文摘 ()",
+      "作者群": "邱創乾"
+    },
+    {
+      "論文名稱": "Assessment of dynamic cerebral autoregulation using spectral and cross-correlation analyses of different antihypertensive drug treatments",
+      "期刊名稱": "Journal of Medical and Biological Engineering (SCIE,EI)",
+      "作者群": "B.Y. Liau, C.C. Chiu, and S. J. Yeh"
+    },
+    {
+      "論文名稱": "Classification of Diabetics with Various Degrees of Autonomic Neuropathy Based on Linear and Nonlinear Features Using Support Vector Machine",
+      "期刊名稱": "Lecture Notes in Computer Science 6165: Medical Biometrics (EI)",
+      "作者群": "C.C. Chiu, S.J. Yeh , and T.Y. Li"
+    },
+    {
+      "論文名稱": "Automatic inspection for etching transistors in TFT-LCD panel using binary tree structure and bintree searching and gradient orientation code",
+      "期刊名稱": "International Journal of Robotics and Automation (SCIE)",
+      "作者群": "C.S. Lin*, C.-W. Tsai, C.M. Tseng, C.C. Chiu, and S.C. Chang"
+    },
+    {
+      "論文名稱": "A novel personal identity verification approach using a discrete wavelet transform of the ECG signal",
+      "期刊名稱": "Intl. J. of Wavelets, Multiresolution and Information Proces (SCIE,EI)",
+      "作者群": "C.C. Chiu, C.M. Chuang, and C.Y. Hsu"
+    },
+    {
+      "論文名稱": "Image password lock system by tracing position information of the pupil",
+      "期刊名稱": "Optica Applicata (SCIE)",
+      "作者群": "C.S. Lin, Y.L. Lay, C.C. Lin, C.C. Chiu, and M.S. Yeh"
+    },
+    {
+      "論文名稱": "Dynamic cerebral autoregulation assessment using chaotic analysis in diabetic autonomic neuropathy",
+      "期刊名稱": "Medical & Biological Engineering & Computing (SCIE)",
+      "作者群": "Ben-Yi Liau, Shoou-Jeng Yeh, Chuang-Chien Chiu, Yu-Chou Tsai"
+    },
+    {
+      "論文名稱": "Dynamic cerebral autoregulation assessment using chaotic analysis in diabetic autonomic neuropathy",
+      "期刊名稱": "Medical & Biological Engineering & Computing (SCIE)",
+      "作者群": "B.Y. Liau, S.J. Yeh, C.C. Chiu, and Y.C. Tsai"
+    },
+    {
+      "論文名稱": "A PDA Based Wearable System for Real-Time Monitoring of Human Falls",
+      "期刊名稱": "IETE Journal of Research (SCIE)",
+      "作者群": "Lin, Chern-Sheng, Hung-Chun Hsu, Chuang-Chien Chiu, Shyan-Lung Lin, Chi-Shie Chao"
+    },
+    {
+      "論文名稱": "Powered Wheelchair Controlled by Eye-Tracking System",
+      "期刊名稱": " Optica Applicata (SCIE)",
+      "作者群": "Chern-Sheng Lin, Chien-Wa Ho, Wen-Chen Chen, Chuang-Chien Chiu, Mau-Shiun Yeh"
+    },
+    {
+      "論文名稱": "Powered Wheelchair Controlled by Eye-Tracking System",
+      "期刊名稱": "Optica Applicata (SCIE)",
+      "作者群": "C.S. Lin, C.W. Ho, W.C. Chen, C.C. Chiu, and M.S. Yeh"
+    },
+    {
+      "論文名稱": "Using Correlation Coefficient in ECG Waveform for Arrhythmia Detection",
+      "期刊名稱": "Biomedical Engineering, Applications, Basis and Communicatio (EI)",
+      "作者群": "C.C. Chiu, T.H. Lin, and B.Y. Liau"
+    },
+    {
+      "論文名稱": "Assessment of cerebral autoregulation dynamics in diabetes using time-domain cross-correlation analysis",
+      "期刊名稱": "Journal of Medical and Biological Engineering (EI)",
+      "作者群": "C.C. Chiu, S.J. Yeh, and B.Y. Liau"
+    },
+    {
+      "論文名稱": "Assessment of mean arterial blood pressure using spectral and chaotic analyses in different antihypertensive drug treatments",
+      "期刊名稱": "2004 IEEE Computers in Cardiology (EI)",
+      "作者群": "B.Y. Liau,C.C. Chiu,S.J. Yeh"
+    },
+    {
+      "論文名稱": "Dynamic change of blood pressure and cerebral blood flow in acute phase of the dopamine agonist treatment in the denovo Parkinson's disease",
+      "期刊名稱": "Clinical Autonomic Research (SCIE)",
+      "作者群": "S.J. Yeh, E.Y. Tu, and C.C. Chiu"
+    },
+    {
+      "論文名稱": "Time-domain cross-correlation analysis of cerebral autoregulation in diabetic autonomic neuropathy",
+      "期刊名稱": "Clinical Autonomic Research (SCIE)",
+      "作者群": "S.J. Yeh, B.Y. Liau, C.L. Shen, and C.C. Chiu"
+    },
+    {
+      "論文名稱": "Nonlinear dynamic analysis of blood pressure variability in diabetics with autonomic neuropathy using approximate entropy",
+      "期刊名稱": "Clinical Autonomic Research (SCIE)",
+      "作者群": "C.C. Chiu, S.J. Yeh, Y.L. Liu, and B.Y. Liau"
+    },
+    {
+      "論文名稱": "The design of a computer game using an eye tracking device for eye's activity rehabilitation",
+      "期刊名稱": "Optics and Lasers in Engineering (SCIE)",
+      "作者群": "C.S. Lin, C.C. Huan, C.N. Chan, M.S. Yeh, and C.C. Chiu"
+    },
+    {
+      "論文名稱": "Effect of acupuncture on heart rate variability in the peripheral facial palsy patients",
+      "期刊名稱": "Journal of Chinese Medical Association of Acupuncture ()",
+      "作者群": "Y.C. Lee, Y.H. Chang, C.C. Chiu, T.K. Kao, D.M. Liu, and S.F. Xu"
+    },
+    {
+      "論文名稱": "Using fractal dimension analysis on objective auscultation of traditional Chinese medical diagnosis",
+      "期刊名稱": "Journal of Medical and Biological Engineering ()",
+      "作者群": "C.C. Chiu, M.T. Yang, and C.S. Lin"
+    },
+    {
+      "論文名稱": "Objective assessment of blood stasis using computerized inspection of sublingual veins",
+      "期刊名稱": " Computer Methods and Programs in Biomedicine (SCIE,EI)",
+      "作者群": "C.C. Chiu, C.Y. Lan, and Y.H. Chang"
+    },
+    {
+      "論文名稱": "Assessment of yin-yang constitution in Chinese medicine using heart rate variability",
+      "期刊名稱": "Journal of Medical and Biological Engineering ()",
+      "作者群": " C.H. Chen, C.C. Chiu, C.L. Sun, and Y.H. Chang"
+    },
+    {
+      "論文名稱": "The physiological mechanisms of 2 Hz Electroacupuncture: A study using blink and H Reflex",
+      "期刊名稱": "American Journal of Chinese Medicine (SCIE)",
+      "作者群": "C.L. Hsieh, C.H. Wu, J.G. Lin, C.C. Chiu, M. Chen, and C.T. Hsieh"
+    },
+    {
+      "論文名稱": "Cross-correlation analysis of cerebral autoregulation during sympathetic stimulation",
+      "期刊名稱": "Clinical Autonomic Research (SCIE)",
+      "作者群": "S.J. Yeh, C.C. Chiu"
+    },
+    {
+      "論文名稱": "Objective assessment of blood stasis using computerized inspection of sublingual veins",
+      "期刊名稱": "Computer Methods and Programs in Biomedicine (SCIE,EI)",
+      "作者群": "C.C. Chiu, C.Y. Lan, and Y.H. Chang"
+    },
+    {
+      "論文名稱": "Assessment of yin-yang constitution in Chinese medicine using heart rate variability",
+      "期刊名稱": "Journal of Medical and Biological Engineering ()",
+      "作者群": "C.H. Chen, C.C. Chiu, C.L. Sun, and Y.H. Chang"
+    },
+    {
+      "論文名稱": "Effects of autonomic neuropathy on dynamic regulation of middle cerebral artery blood flow velocity in diabetes mellitus (Abstract)",
+      "期刊名稱": "Journal of Cerebral Blood Flow and Metabolism (SCIE)",
+      "作者群": "S.J. Yeh, C.C. Chiu, E.Y. Tu, and J.S. Kuo"
+    },
+    {
+      "論文名稱": "Assessment of cerebral autoregulation under different sympathetic tests using time-domain cross-correlation analysis (Abstract)",
+      "期刊名稱": "Journal of Cerebral Blood Flow and Metabolism (SCIE)",
+      "作者群": "C.C. Chiu and S.J. Yeh"
+    },
+    {
+      "論文名稱": "Assessment of cerebral auto regulation using time-domain cross- correlation analysis",
+      "期刊名稱": "Computers in Biology and Medicine ()",
+      "作者群": "C.C. Chiu，S.J. Yeh"
+    },
+    {
+      "論文名稱": "Fractal analysis of heart rate dynamics in patients with diabetic autonomic neuropathy",
+      "期刊名稱": "Clinical Autonomic Research (SCIE)",
+      "作者群": "S.J. Yeh, H.L. Hung, E.Y. Tu, and C.C. Chiu"
+    },
+    {
+      "論文名稱": "以心率變異性分析探討針剌非穴位與自律神經的關係",
+      "期刊名稱": "中醫藥雜誌 ()",
+      "作者群": "劉定明,張永賢,邱創乾,紀美智,李燊銘"
+    },
+    {
+      "論文名稱": "Assessment of cerebral autoregulation under different sympathetic tests using time-domain cross-correlation analysis",
+      "期刊名稱": "Journal of Cerebral Blood Flow and Metabolism (SCIE)",
+      "作者群": "C. C. Chiu and S. J. Yeh"
+    },
+    {
+      "論文名稱": "Effects of autonomic neuropathy on dynamic regulation of middle cerebral artery blood flow velocity in diabetes mellitus",
+      "期刊名稱": "Journal of Cerebral Blood Flow and Metabolism (SCIE)",
+      "作者群": " S. J. Yeh, C. C. Chiu, E. Y. Tu, and J. S. Kuo"
+    },
+    {
+      "論文名稱": "Measurement of heart rate variability as an interactive determinant of the autonomic nervous system: Correlation with Chinese medical constitution",
+      "期刊名稱": "Mid-Taiwan Journal of Medicine ()",
+      "作者群": "Y. H. Chang, C. C. Chiu, and Y. H. Chen"
+    },
+    {
+      "論文名稱": "The design of microstructures for multifunctional pulse measurements",
+      "期刊名稱": " Biomedical Engineering, Applications, Basis and Communicati (EI)",
+      "作者群": " H.C. Cheng, C.Y. Lin, C.C. Chiu, C.C. Lai, S.R. Huang, C.L. Wang, Y.H. Chang, and Y.C. Lin"
+    },
+    {
+      "論文名稱": "A Novel Approach Based on Computerized Image Analysis for Traditional Chinese Medical Diagnosis of the Tongue",
+      "期刊名稱": "Computer Methods and Programs in Biomedicine (SCIE)",
+      "作者群": "邱創乾"
+    },
+    {
+      "論文名稱": "Objective Auscultation for Traditional Chinese Medical Diagnosis Using Novel Acoustic Parameters",
+      "期刊名稱": "Computer Methods and Programs in Biomedicine (SCIE,EI)",
+      "作者群": "邱創乾、張恆鴻、楊中賢"
+    },
+    {
+      "論文名稱": "Self-Organizing Arterial Pressure Pulse Classification Using Neural Networks: Theoretical Considerations and Clinical Applicability",
+      "期刊名稱": "Computers in Biology and Medicine (SCIE,EI)",
+      "作者群": "邱創乾、葉守正、陳敬修"
+    },
+    {
+      "論文名稱": "Thermoregulatory sweating abnormalities in lateral medullar infarction (Abstract)",
+      "期刊名稱": "Clinical Autonomic Research (SCIE)",
+      "作者群": " S.J. Yeh, S. Lai, and C.C. Chiu"
+    },
+    {
+      "論文名稱": "陰虛患者之語音特性初探",
+      "期刊名稱": "中國醫藥學院雜誌 ()",
+      "作者群": "楊中賢、張恆鴻、邱創乾、陳瑞照、卓家祥、吳文祥、羅綸謙"
+    },
+    {
+      "論文名稱": "語者識別晶片之研製",
+      "期刊名稱": "逢甲學報 ()",
+      "作者群": "曾憲輝、邱創乾、張良羽"
+    },
+    {
+      "論文名稱": "Using the Word-based Triphone Model for Continuous Speech",
+      "期刊名稱": "逢甲學報 ()",
+      "作者群": "邱創乾，黃世中"
+    },
+    {
+      "論文名稱": "The Quantitatine Analysis of Tongue Color for Healthy Persons",
+      "期刊名稱": "中台灣醫學科學雜誌 ()",
+      "作者群": "張永賢，邱創乾，鄭宗信"
+    },
+    {
+      "論文名稱": "The Quantitatine000 Analysis of Acoustic Waveforms for Qi-Deficient Patients",
+      "期刊名稱": "Biomedical Engineering Application, Basis and Communication (EI)",
+      "作者群": "邱創乾，張恒鴻，楊中賢"
+    },
+    {
+      "論文名稱": "Analysis of autonomic nervous system by applying artificial neural network to categorize pulse signals from Finapres (Abstract)",
+      "期刊名稱": "Clinical Autonomic Research (SCIE)",
+      "作者群": "Y.C. Yu, S.J. Yeh, and C.C. Chiu"
+    },
+    {
+      "論文名稱": "Validation of spectral analysis for Finapres signals after removal of servo components (Abstract)",
+      "期刊名稱": "Clinical Autonomic Research (SCIE)",
+      "作者群": "S.J. Yeh and C.C. Chiu"
+    },
+    {
+      "論文名稱": "The Development of a Computerized Tongue Diagnosis System",
+      "期刊名稱": "Biomedical Engineering, Application, Basis and Communication (EI)",
+      "作者群": "邱創乾"
+    },
+    {
+      "論文名稱": "Classification of the Pulse Signals Based on Self-Organizing Neural Network for the Analysis of the Autonomic Nervous System",
+      "期刊名稱": "Chinese Journal of Medical and Biological Engineering ()",
+      "作者群": "邱創乾、葉守正、余遠渠"
+    },
+    {
+      "論文名稱": "The Fundamental Analysis and Comparative Experiments for Highly Confusing Abrupt-Tone Syllables of Taiwanese Hokkian",
+      "期刊名稱": "逢甲學報 ()",
+      "作者群": "邱創乾、賴彥君"
+    },
+    {
+      "論文名稱": "Autonomic Consequences of Middle Cerebral Artery Infarction",
+      "期刊名稱": "Biomedical Engineering, Application, Basis and Communication (EI)",
+      "作者群": "葉守正、邱創乾、余遠渠"
+    },
+    {
+      "論文名稱": "An algorithm for finding a cycle in planar graph subpartitioning",
+      "期刊名稱": " Journal of Feng Chia University ()",
+      "作者群": "C.C. Chiu"
+    },
+    {
+      "論文名稱": "A structural texture recognition approach for medical diagnosis through tongue",
+      "期刊名稱": "Biomedical Engineering, Applications, Basis and Communicatio (EI)",
+      "作者群": "C.C. Chiu, H.S. Lin, and S.L. Lin"
+    },
+    {
+      "論文名稱": "Data acquisition and validation analysis for Finapres signals",
+      "期刊名稱": "Chinese Journal of Medical and Biological Engineering ()",
+      "作者群": "C.C. Chiu, S.J. Yeh, and R.C. Lin"
+    },
+    {
+      "論文名稱": "Optimizing the neuro-mechanical drive for human respiratory system",
+      "期刊名稱": "Biomedical Engineering, Applications, Basis and Communicatio (EI)",
+      "作者群": "S.L. Lin and C.C. Chiu"
+    }
+  ],
+  "journal2": [],
+  "conference": [
+    {
+      "論文名稱": "CDIO-Based Curriculum Design and Evaluation—A Case Study of Feng-Chia University",
+      "會議名稱": "12th International CDIO Conference 2016",
+      "作者群": "B.T. Wang, C.Y. Lee, and C.C. Chiu"
+    },
+    {
+      "論文名稱": "CDIO-Based Curriculum Design and Evaluation—A Case Study of Feng-Chia University",
+      "會議名稱": "12th International CDIO Conference 2016",
+      "作者群": "B.T. Wang, C.Y. Lee, and C.C. Chiu"
+    },
+    {
+      "論文名稱": "Linear Assessment of Cerebral Autoregulation in Idiopathic Parkinson's Disease",
+      "會議名稱": "2016 3rd International Conference on Biomedical and Pharmaceutical Engineering (ICBPE 2016)",
+      "作者群": "C.C. Chiu, K. Y.K. Liao, and S.J. Yeh"
+    },
+    {
+      "論文名稱": "A Novel Approach for Classification of Congestive Heart Failure Using Relatively Short-term ECG Waveforms and SVM Classifier",
+      "會議名稱": "International MultiConference of Engineers and Computer Scientists 2015",
+      "作者群": "Ken Y.K. Liao*, C.C. Chiu, S.J. Yeh"
+    },
+    {
+      "論文名稱": "Implementation of Noninvasive Physiological Signal Analysis and Monitoring System for Premature Infants”, 1st Global Conference on Biomedical Engineering (GCBME 2014) / 9th Asian Pacific Conference on Medical and Biological Engineering (APCMBE 2014)",
+      "會議名稱": "1st Global Conference on Biomedical Engineering (GCBME 2014) / 9th Asian Pacific Conference on Medical and Biological Engineering (APCMBE 2014)",
+      "作者群": "C.C. Chiu, T.M. Wang, N.H. Peng, and H.W. Chen"
+    },
+    {
+      "論文名稱": "Assessment of Diabetic Autonomic Neuropathy Using Power Spectral Density and Approximate Entropy Analysis under Cold Pressor Test",
+      "會議名稱": "1st Global Conference on Biomedical Engineering (GCBME 2014) / 9th Asian Pacific Conference on Medical and Biological Engineering (APCMBE 2014)",
+      "作者群": "Y.L. Tsai, C.C. Chiu, S.J. Yeh, B.Y. Liau, and K.Y.K. Liao"
+    },
+    {
+      "論文名稱": "利用電力線傳輸資訊進行大樓照明設備之即時流 利用電力線傳輸資訊進行大樓照明設備之即時流 利用電力線傳輸資訊進行大樓照明設備之即時電流分析",
+      "會議名稱": "2015年資訊科技國際研討會",
+      "作者群": "洪啟豪、邱創乾、張智元"
+    },
+    {
+      "論文名稱": "逢甲大學推動教師教學成長之理念、策略與實踐",
+      "會議名稱": "第九屆海峽兩岸高等教育論壇",
+      "作者群": "邱創乾、鄧鈞文"
+    },
+    {
+      "論文名稱": "早產新生兒之非侵入式生理訊號分析與監測系統研製",
+      "會議名稱": "2013 Consumer Electronics Forum",
+      "作者群": "陳祥文,邱創乾,王德明"
+    },
+    {
+      "論文名稱": "Quantitative Assessment of Diabetics with Various Degrees of Autonomic Neuropathy",
+      "會議名稱": "6th International Joint Conference on Biomedical Engineering Systems and Technologies (BIOSTEC 2013)",
+      "作者群": "C.C. Chiu, S.J. Yeh, Y.C. Kuo"
+    },
+    {
+      "論文名稱": "以時頻域分析方法評估高血壓治療對感壓反射之影響",
+      "會議名稱": "Proc. of the Biomedical Engineering Society 2010 Annual Symposium",
+      "作者群": "廖本義,葉守正,邱創乾,鮑建國,蔡明慈,高材"
+    },
+    {
+      "論文名稱": "利用開放生理訊號格式實現遠距健康照護平台之長期資訊交換",
+      "會議名稱": "Proc. of the Biomedical Engineering Society 2010 Annual Symposium",
+      "作者群": "賴允昱,藍振晏,邱創乾,蔡明欣"
+    },
+    {
+      "論文名稱": "診斷e化之多媒體資料擷取、交換與分析平台建置研究",
+      "會議名稱": "Proc. of the Biomedical Engineering Society 2010 Annual Symposium",
+      "作者群": "鄭媛心,簡郅融,邱創乾,張永賢"
+    },
+    {
+      "論文名稱": "以行動裝置為基礎之可穿戴式生理量測個人化健康照護系統",
+      "會議名稱": "Proc. of the Biomedical Engineering Society 2010 Annual Symposium",
+      "作者群": "鄭桂銘,邱創乾,藍振晏"
+    },
+    {
+      "論文名稱": "Medicare-Grid: A Grid Based E-Health System",
+      "會議名稱": "International Workshop on U-Healthcare Technologies and Services (U-Healthcare)",
+      "作者群": "Po-Chi Shih, Yeh-Ching Chung, Kuan-Ching Li, Chao-Tung Yang, Ching-Hsien Hsu*, Fang-Rong Hsu, Don-Lin Yang, Chia-Hsien Wen, Chuang-Chien Chiu"
+    },
+    {
+      "論文名稱": "腦血流自動調控在臨床神經科之應用",
+      "會議名稱": "2010 Annual Meeting of Taiwan Stroke Society",
+      "作者群": "葉守正、邱創乾"
+    },
+    {
+      "論文名稱": "動態腦血流調控之非侵入式資料擷取、評估與分類研究",
+      "會議名稱": "2010 Annual Meeting of Taiwan Stroke Society",
+      "作者群": "邱創乾、葉守正、李臺育"
+    },
+    {
+      "論文名稱": "Medicare-Grid: new trends on the development of E-Health System based on Grid Technology",
+      "會議名稱": "Proceedings of the First IMIA/IFIP Joint Symposium, E-Health 2010, Held as Part of World Computer Congress 2010",
+      "作者群": "Yeh-Ching Chung, Po-Chi Shih, Kuan-Ching Li, Chao-Tung Yang, Ching-Hsien Hsu, Fang-Rong Hsu, Don-Lin Yang, Chia-Hsien Wen, Chuang-Chien Chiu"
+    },
+    {
+      "論文名稱": "Classification of Sleep Stages Using Self-Organizing Neural Network",
+      "會議名稱": "ICBECS 2010, International Conference on Biomedical Engineering and Computer Science",
+      "作者群": "Chuang-Chien Chiu,Shoou-Jeng Yeh,De-Yi Chou"
+    },
+    {
+      "論文名稱": "以轉移函數增益值評估腦中風病人之感壓反射",
+      "會議名稱": "Proc. of the Biomedical Engineering Society 2009 Annual Symposium",
+      "作者群": "5.\t廖本義,葉守正,邱創乾, 高材, 鮑建國, 蔡明慈"
+    },
+    {
+      "論文名稱": "音樂介入對睡眠品質之影響研究",
+      "會議名稱": "Proc. of the Biomedical Engineering Society 2009 Annual Symposium",
+      "作者群": "4.\t王嘉麒,邱創乾,葉守正,李毓玲"
+    },
+    {
+      "論文名稱": "互動式線上中醫診斷平台之建置研究",
+      "會議名稱": "Proc. of the Biomedical Engineering Society 2009 Annual Symposium",
+      "作者群": "鄭媛心,邱創乾,羅綸謙"
+    },
+    {
+      "論文名稱": "可穿戴式呼吸型態量測系統之訊號傳輸與分析",
+      "會議名稱": "Proc. of the Biomedical Engineering Society 2009 Annual Symposium",
+      "作者群": "2.\t吳奇熾,藍振晏,邱創乾,石天威"
+    },
+    {
+      "論文名稱": "個人化身心健康服務人機介面與格網健康服務應用之發展",
+      "會議名稱": "Proc. of the Biomedical Engineering Society 2009 Annual Symposium",
+      "作者群": "藍振晏,邱創乾,蔡明欣"
+    },
+    {
+      "論文名稱": "Assessment of Baroreflex Using Cross-Correlation Function in Diabetic Autonomic Neuropathy",
+      "會議名稱": "World Congress on Medical Physics and Biomedical Engineering",
+      "作者群": "B.Y. Liau, S. J. Yeh, and C.C. Chiu"
+    },
+    {
+      "論文名稱": "Classification of Dynamic Cerebral Autoregulation in Diabetics with Autonomic Neuropathy Using Support Vector Machine",
+      "會議名稱": "Proceedings of the 2009 International Conference on Bioinformatics & Computational Biology (BIOCOMP'09)",
+      "作者群": "Chuang-Chien Chiu, Yu-Hen Hu, Shoou-Jeng Yeh, and De-Yi Chou"
+    },
+    {
+      "論文名稱": "Real-time electrocardiogram waveform classification using self-organization neural network",
+      "會議名稱": "13th International Conference on Biomedical Engineering",
+      "作者群": "C.C. Chiu, C.L. Hsu, B.Y. Liau, and C.Y. Lan"
+    },
+    {
+      "論文名稱": "Artificial Neural Network Classification of Arterial Pulse Waveforms in Cardiovascular Diseases",
+      "會議名稱": "Biomed 2008, the 4th Kuala Lumpur International Conference on Biomedical Engineering",
+      "作者群": "C.C. Chiu, B.Y. Liau, S.J. Yeh, and C.L. Hsu"
+    },
+    {
+      "論文名稱": "Assessment of Severity in Diabetic Autonomic Neuropathy Using Cumulative Linear Index of Higher Order Crossings",
+      "會議名稱": "Biomed 2008, the 4th Kuala Lumpur International Conference on Biomedical Engineering",
+      "作者群": "S.J. Yeh, C.C. Chiu, and B.Y. Liau"
+    },
+    {
+      "論文名稱": "音樂律動與自律神經調節之關聯性初步探",
+      "會議名稱": "2008工程科技暨中西醫學應用研討會",
+      "作者群": "3.\t周德毅, 邱創乾, 葉守正, 李毓玲"
+    },
+    {
+      "論文名稱": "A Novel Personal Identity Verification Approach Using a Discrete Wavelet Transform of the ECG Signal",
+      "會議名稱": "The 2nd International Conference on Multimedia and Ubiquitous Engineering (MUE 2008)",
+      "作者群": "C.C. Chiu, Chou-Min Chuang, and Chih-Yu Hsu"
+    },
+    {
+      "論文名稱": "聞診現代化之過去、現在及未來",
+      "會議名稱": "國際中醫藥學術研討會",
+      "作者群": "邱創乾"
+    },
+    {
+      "論文名稱": "以去趨勢波動分析評估糖尿病神經病變之腦血流調控",
+      "會議名稱": "Biomedical Engineering Society 2007 Annual Symposium",
+      "作者群": "廖本義, Andre Diedrich, 邱創乾, 葉守正"
+    },
+    {
+      "論文名稱": "以關聯維分析評估高血壓治療對中風病人腦血流調控之影響",
+      "會議名稱": "Biomedical Engineering Society 2007 Annual Symposium",
+      "作者群": "廖本義, 邱創乾, 葉守正"
+    },
+    {
+      "論文名稱": "氣虛證程度與語音參數相關性之初步探討",
+      "會議名稱": "Biomedical Engineering Society 2007 Annual Symposium",
+      "作者群": "陳清宏, 邱創乾, 楊中賢, 林彩蕙, 賴佳鈺"
+    },
+    {
+      "論文名稱": "心電基線飄移與呼吸訊號之關連影響研究",
+      "會議名稱": "中華民國九十六年度生物醫學工程科技研討會",
+      "作者群": "劉光勝、林賢龍*、邱創乾"
+    },
+    {
+      "論文名稱": "自我組織式類神經網路應用於長時心電圖波形分類",
+      "會議名稱": "Biomedical Engineering Society 2007 Annual Symposium",
+      "作者群": "許濬麟, 邱創乾, 劉益瑞"
+    },
+    {
+      "論文名稱": "心電基線飄移與呼吸訊號之關聯影響研究",
+      "會議名稱": "Biomedical Engineering Society 2007 Annual Symposium",
+      "作者群": " 劉光勝, 林賢龍,邱創乾"
+    },
+    {
+      "論文名稱": "以交越相關函數評估降血壓藥物對腦中風病人腦血流調控之影響",
+      "會議名稱": "2007工程科技暨中西醫學應用研討會",
+      "作者群": "廖本義, 邱創乾, 葉守正"
+    },
+    {
+      "論文名稱": "A Novel Approach Using Higher Order Crossings to Assess Dynamic Cerebral Autoregulation in Diabetics with Autonomic Neuropathy",
+      "會議名稱": "The 23rd International Syposium on Cerebral Blood Flow, Metabolium & Function (Brain'07)",
+      "作者群": "邱創乾,廖本義,葉守正"
+    },
+    {
+      "論文名稱": "HRECG與HRPPG的相關性研究",
+      "會議名稱": "2006生物醫學工程科技研討會暨國科會醫學工程學門成果發表會",
+      "作者群": "張富祺，林育德*，邱創乾，陳建志"
+    },
+    {
+      "論文名稱": "A Wearable e-Health System with Multi-functional Physiological Measurement",
+      "會議名稱": "World congress on medical physics and biomedical engineering 2006",
+      "作者群": "C.C. Chiu, T.W. Shyr, H.C. Chu, Y.C. Chung and C.Y. Lan"
+    },
+    {
+      "論文名稱": "Assessment of Cerebral Autoregulation Using Cross-Correlation Functions in Different Antihypertensive Drug Treatments",
+      "會議名稱": "World congress on medical physics and biomedical engineering 2006",
+      "作者群": "B.Y. Liau, C.C. Chiu , and S.J. Yeh"
+    },
+    {
+      "論文名稱": "彩色影像空間之舌面影像量化分析輔助食道逆流治療評估",
+      "會議名稱": "第一屆中西醫?合診斷學術會議",
+      "作者群": "邱創乾,王嘉麒,鄭振鴻,馬繼平"
+    },
+    {
+      "論文名稱": "利用高階交越評估糖尿病患者動態腦血流調控",
+      "會議名稱": "Proc. of the Biomedical Engineering Society 2006 Annual Symposium",
+      "作者群": "廖本義, 邱創乾, 葉守正"
+    },
+    {
+      "論文名稱": "運動心電圖R點偵測方法",
+      "會議名稱": "Proc. of the Biomedical Engineering Society 2006 Annual Symposium",
+      "作者群": "許耿綸, 劉益瑞, 邱創乾, 沈乾龍"
+    },
+    {
+      "論文名稱": "胃食道逆流症之舌象量化分析",
+      "會議名稱": "Proc. of the Biomedical Engineering Society 2006 Annual Symposium",
+      "作者群": "王嘉麒, 賴姿吟, 鄭振鴻, 邱創乾"
+    },
+    {
+      "論文名稱": "肺活量與語音參數相關性之初步探討",
+      "會議名稱": "2007工程科技暨中西醫學應用研討會",
+      "作者群": "陳清宏,邱創乾,楊中賢,林彩蕙,梁信杰"
+    },
+    {
+      "論文名稱": "以移動相關係數之變異分析評估糖尿病患者之腦血流調控",
+      "會議名稱": "2006工程科技暨中西醫學應用研討會",
+      "作者群": "廖本義, 邱創乾, 葉守正"
+    },
+    {
+      "論文名稱": "以心率變異與體溫頻譜特性評估自律神經系統調節之研究",
+      "會議名稱": "2006工程科技暨中西醫學應用研討會",
+      "作者群": "傅傳志, 邱創乾"
+    },
+    {
+      "論文名稱": "利用語音時域參數於嬰兒哭聲之分析與識別研究",
+      "會議名稱": "2006工程科技暨中西醫學應用研討會",
+      "作者群": "黃泰元, 邱創乾"
+    },
+    {
+      "論文名稱": "電腦化舌象診察系統之舌面影像自動切割",
+      "會議名稱": "2006工程科技暨中西醫學應用研討會",
+      "作者群": "王嘉麒, 邱創乾, 趙德馨"
+    },
+    {
+      "論文名稱": "利用自動調控指標量化糖尿病患者動態腦血流調控機制",
+      "會議名稱": "Biomedical Engineering Society 2005 Annual Symposium",
+      "作者群": "廖本義, 邱創乾, 葉守正"
+    },
+    {
+      "論文名稱": "一種醫療用智慧衣之無線網路傳輸系統研製",
+      "會議名稱": "2005國際醫學資訊研討會（MIST2005）",
+      "作者群": "賴辰彥、朱嘯秋、邱創乾、陳勇華、黃志仁"
+    },
+    {
+      "論文名稱": "利用獨立組成元素分析法於嬰兒哭聲分類之研究",
+      "會議名稱": "Biomedical Engineering Society 2005 Annual Symposium",
+      "作者群": "黃泰元, 邱創乾, 張永賢"
+    },
+    {
+      "論文名稱": "A Tele-Medical Monitoring System for Human Falls",
+      "會議名稱": "2005 Symposium on Digital Life and Internet Technologies",
+      "作者群": "趙啟時, 張文華, 邱創乾"
+    },
+    {
+      "論文名稱": "非侵入式腦血流調控定量評估系統輔助缺血性腦中風臨床治療",
+      "會議名稱": "2005年神經醫學聯合學術研討會",
+      "作者群": "邱創乾, 葉守正, 廖本義"
+    },
+    {
+      "論文名稱": "核磁共振模擬訊號之雜訊降低方法研究",
+      "會議名稱": "Proc. of the Biomedical Engineering Society 2004 Annual Symposium",
+      "作者群": "莊周敏, 許志宇, 許建文, 邱創乾"
+    },
+    {
+      "論文名稱": "以非侵入式方法評估糖尿病患動態腦血流調控機制",
+      "會議名稱": "Proc. of the Biomedical Engineering Society 2004 Annual Symposium",
+      "作者群": " 廖本義, 邱創乾, 葉守正"
+    },
+    {
+      "論文名稱": "以樣板比對法之嬰兒哭聲辨識",
+      "會議名稱": "Biomedical Engineering Society 2004 Annual Symposium",
+      "作者群": "張銘豐, 邱創乾, 張永賢"
+    },
+    {
+      "論文名稱": "利用交越相關線性分析方法評估糖尿病患動態腦血流調控",
+      "會議名稱": "2005年神經醫學聯合學術研討會",
+      "作者群": "葉守正, 沈乾龍, 邱創乾"
+    },
+    {
+      "論文名稱": "以時頻域分析方法評估不同抗高血壓藥對動態腦血流調控之影響",
+      "會議名稱": "2004年第七屆工程科技暨中西醫藥應用研討會",
+      "作者群": "廖本義、邱創乾、葉守正"
+    },
+    {
+      "論文名稱": "利用小波轉換分析探討腦血流調控機制",
+      "會議名稱": "2004年第七屆工程科技暨中西醫藥應用研討會",
+      "作者群": "紀鈺杰、邱創乾、葉守正"
+    },
+    {
+      "論文名稱": "利用波形相關係數輔助心律不整檢測",
+      "會議名稱": "2004年第七屆工程科技暨中西醫藥應用研討會",
+      "作者群": "林東宏、劉芸澧、邱創乾、沈乾龍"
+    },
+    {
+      "論文名稱": "一種醫療用智慧衣無線傳輸系統之實現",
+      "會議名稱": "2003民生電子研討會（2003 Workshop on Consumer Electronics）",
+      "作者群": "賴辰彥、朱嘯秋、邱創乾、許致偉、紀運錦"
+    },
+    {
+      "論文名稱": "身體跌倒之數位式即時微監測裝置",
+      "會議名稱": "2003工程科技暨中西醫學應用研討會",
+      "作者群": "許宏駿, 林宸生, 邱創乾, 趙啟時"
+    },
+    {
+      "論文名稱": "新式感壓反射評估指標於姿勢性心率過速症候群病人之研究",
+      "會議名稱": "2003工程科技暨中西醫學應用研討會",
+      "作者群": "林東龍, 邱創乾, 葉守正"
+    },
+    {
+      "論文名稱": "The study of effect on qi-gong practice using heart rate variability analysis",
+      "會議名稱": "2003工程科技暨中西醫學應用研討會",
+      "作者群": "張永賢, 陳金城, 陳方周, 邱創乾"
+    },
+    {
+      "論文名稱": "利用關聯維和K2評估動態腦血流自動調控之研究",
+      "會議名稱": "2003工程科技暨中西醫學應用研討會",
+      "作者群": "蔡育周, 邱創乾, 葉守正, 劉芸澧"
+    },
+    {
+      "論文名稱": "Nonlinear analysis of dynamic cerebral autoregulation associated with autonomic nervous system dysfunction",
+      "會議名稱": "2003 World Congress on Medical Physics and Biomedical Engineering (WC2003)",
+      "作者群": "C.C. Chiu, S.J. Yeh and Y.C. Tsai"
+    },
+    {
+      "論文名稱": "Using computerized speech examination for objective auscultation of traditional Chinese medical diagnosis",
+      "會議名稱": " 2003 World Congress on Medical Physics and Biomedical Engineering (WC2003)",
+      "作者群": "C.C. Chiu"
+    },
+    {
+      "論文名稱": "Using time and frequency domain analyses of heart rate variability for assessment of colorectal intestinal cancer patients",
+      "會議名稱": "Proc. of the Biomedical Engineering Society 2003 Annual Symposium",
+      "作者群": "T.H. Lin, C,C,Chiu, and T.H. Chao"
+    },
+    {
+      "論文名稱": "Using of noninvasive computerized speech examination system for therapeutical assessment of colorectal cancer patients after surgical operation",
+      "會議名稱": "Proc. of the Biomedical Engineering Society 2003 Annual Symposium",
+      "作者群": "L.Y. Chen, C.C. Chiu, and T.H. Chao"
+    },
+    {
+      "論文名稱": "The study of nonlinear characteristics of heart rate variability using chaotic analysis approach",
+      "會議名稱": "Proc. of the Biomedical Engineering Society 2002 Annual Symp",
+      "作者群": "Y.C. Tsai, C.C. Chiu, and S.J. Yeh"
+    },
+    {
+      "論文名稱": "Cross-correlation analysis between heart rate and blood pressure",
+      "會議名稱": "Proc. of the Biomedical Engineering Society 2002 Annual Symp",
+      "作者群": "D.L. Lin, C.C. Chiu, and S.J. Yeh"
+    },
+    {
+      "論文名稱": "利用渾沌理論分析應用於心率變異之研究",
+      "會議名稱": "2002工程科技暨中西醫學應用研討會",
+      "作者群": "蔡育周, 邱創乾, 葉守正"
+    },
+    {
+      "論文名稱": "腦血流自動調控之時域分析",
+      "會議名稱": "2002工程科技暨中西醫學應用研討會",
+      "作者群": "江宗勳, 邱創乾, 葉守正"
+    },
+    {
+      "論文名稱": "特定疾病舌苔影像定量之研究",
+      "會議名稱": "2002工程科技暨中西醫學應用研討會",
+      "作者群": "邱創乾, 張漢斌, 張永賢, 趙德馨"
+    },
+    {
+      "論文名稱": "特定疾病舌苔影像定量之研究",
+      "會議名稱": "工程科技與中西醫學應用研討會",
+      "作者群": "邱創乾、張漢斌、張永賢、趙德馨"
+    },
+    {
+      "論文名稱": "腦血流自動調控之時域分析",
+      "會議名稱": "工程科技與中西醫學應用研討會",
+      "作者群": "江宗勳、邱創乾、葉守正"
+    },
+    {
+      "論文名稱": "利用渾沌理論分析應用於心率變異之研究",
+      "會議名稱": "工程科技與中西醫學應用研討會",
+      "作者群": "蔡育周、邱創乾、葉守正"
+    },
+    {
+      "論文名稱": "Using clustering analysis to the study of cerebral autoregulation",
+      "會議名稱": "Proc. of the Biomedical Engineering Society 2001 Annual Symp",
+      "作者群": " Z.X. Jiang, C.C. Chiu, and S.J. Yeh"
+    },
+    {
+      "論文名稱": "he effects of Losartan on dynamic cerebral autoregulation in mild to moderate essential hypertension",
+      "會議名稱": "XVII World Congress of Neurology",
+      "作者群": "S.J. Yeh, C.C. Chiu, E.Y. Tu and J.S. Kuo"
+    },
+    {
+      "論文名稱": "中醫聞診現代化---血瘀患者之語音分析",
+      "會議名稱": "2001中醫藥暨工程科技研討會",
+      "作者群": "李克成, 張恆鴻, 邱創乾"
+    },
+    {
+      "論文名稱": "利用資料挖掘技術於舌診專家系統之建立",
+      "會議名稱": "2001中醫藥暨工程科技研討會",
+      "作者群": "張漢斌, 邱創乾, 張永賢"
+    },
+    {
+      "論文名稱": "利用短時距傅立葉分析探討腦血流自動調控機制",
+      "會議名稱": "2001中醫藥暨工程科技研討會",
+      "作者群": "江宗勳, 邱創乾, 葉守正"
+    },
+    {
+      "論文名稱": "中醫聞診現代化---血瘀患者之語音分析",
+      "會議名稱": " 2001中醫藥暨工程科技研討會",
+      "作者群": "李克成, 張恆鴻, 邱創乾"
+    },
+    {
+      "論文名稱": "利用短時距傅立葉分析探討腦血流自動調控機制",
+      "會議名稱": " 2001中醫藥暨工程科技研討會",
+      "作者群": "江宗勳, 邱創乾, 葉守正"
+    },
+    {
+      "論文名稱": "利用資料挖掘技術於舌診專家系統之建立",
+      "會議名稱": " 2001中醫藥暨工程科技研討會",
+      "作者群": "張漢斌, 邱創乾, 張永賢"
+    },
+    {
+      "論文名稱": "Assessment of Cerebral Autoregulation under different sympathetic tests using time-domain cross-corr",
+      "會議名稱": "XXth International Symposium on Cerebral Blood Flow, Metabolism and Function",
+      "作者群": "C.C. Chiu、S.J. Yeh"
+    },
+    {
+      "論文名稱": "Assessment of Chinese medical constitution using heart rate variability",
+      "會議名稱": "Proc. of the Biomedical Engineering Society 2000 Annual Symposium",
+      "作者群": "C.H. Chen、C.C. Chiu、C.L. Sun、Y.H. Chang"
+    },
+    {
+      "論文名稱": "The quantitative measures analysis of tongue and heart rate variability in normal adults",
+      "會議名稱": "Proc. of the Biomedical Engineering Society 2000 Annual Symposium",
+      "作者群": "C.Y. Lan、C.C. Chiu、H.B. Chang、C.Y. Chen、Y.C. Chang"
+    },
+    {
+      "論文名稱": "Using the visualized graphical method to represent the speech parameters of deficient patients in tr",
+      "會議名稱": "Proc. of the Biomedical Engineering Society 2000 Annual Symposium",
+      "作者群": "M.D. Yang、C.C. Chiu、C.H. Yang、H.H. Chang、Y.T. Tsai"
+    },
+    {
+      "論文名稱": "The design of new curricular program with multi-disciplinary integration-biomedical engineering educ",
+      "會議名稱": "2000 International Conference on Engineering Education",
+      "作者群": "Chuang-Chien Chiu*, Shyan-Lung Lin, and Shen-Ming Lee"
+    },
+    {
+      "論文名稱": "中醫虛症患者語音碎形維度之初步研究",
+      "會議名稱": "2000工程科技暨中西醫學應用研討會",
+      "作者群": "楊明達、邱創乾、楊中賢"
+    },
+    {
+      "論文名稱": "腦血流調控機制之穩態與動態分析",
+      "會議名稱": "2000工程科技暨中西醫學應用研討會",
+      "作者群": "沈乾龍、邱創乾、葉守正"
+    },
+    {
+      "論文名稱": "虛証患者之語音分析",
+      "會議名稱": "2000工程科技暨中西醫學應用研討會",
+      "作者群": "張恆鴻、楊中賢、邱創乾"
+    },
+    {
+      "論文名稱": "最佳機化呼吸系統之系統整合鑑別、機構製作、與應用研究",
+      "會議名稱": "中華民國八十八年度醫學工程科技研討會",
+      "作者群": "林賢龍、邱創乾、紀崑山"
+    },
+    {
+      "論文名稱": "非監督式型樣分類技術應用於連續擷取生理訊號之研究",
+      "會議名稱": "中華民國八十八年醫學工程科技研討會",
+      "作者群": "陳敬修、邱創乾、葉守正"
+    },
+    {
+      "論文名稱": "利用交越相關分析探討腦血流調控機制",
+      "會議名稱": "中華民國八十八年醫學工程科技研討會",
+      "作者群": "沈乾龍、邱創乾、葉守正"
+    },
+    {
+      "論文名稱": "舌下脈絡特徵萃取與量化分析",
+      "會議名稱": "中華民國八十八年醫學工程科技研討會",
+      "作者群": "藍振晏、邱創乾、張永賢"
+    },
+    {
+      "論文名稱": "Novel Acoustic Parameters for Objective Auscultation of Traditional Chinese Medical Diagnosis",
+      "會議名稱": "中華民國八十八年醫學工程科技研討會",
+      "作者群": "邱創乾、張鴻恆、楊中賢、楊明達"
+    },
+    {
+      "論文名稱": "Transfer function analysis of dynamic cerebral autoregulation in young adults",
+      "會議名稱": "Acta Neurologica Taiwanica",
+      "作者群": "沈乾龍、葉守正、邱創乾"
+    },
+    {
+      "論文名稱": "經指連續血壓脈搏計伺服雜訊處理方法之比較",
+      "會議名稱": "一九九九中醫藥暨工程科技與中西醫學應用研討會",
+      "作者群": "沈乾龍、邱創乾、葉守正"
+    },
+    {
+      "論文名稱": "瞬目反射量化分析視丘與內囊出血的病患",
+      "會議名稱": "一九九九中醫藥暨工程科技與中西醫學應用研討會",
+      "作者群": "陳永杰、邱創乾、謝慶良、劉崇祥"
+    },
+    {
+      "論文名稱": "瞬目反射之量化分析研究",
+      "會議名稱": "中華民國八十七年醫學工程科技研討會",
+      "作者群": "陳永杰、邱創乾、謝慶良"
+    },
+    {
+      "論文名稱": "利用心率變異信號探討中醫體質與自律神經功能相關性之研究",
+      "會議名稱": "中華民國八十七年醫學工程科技研討會",
+      "作者群": "陳彥宏、邱創乾、張永賢"
+    },
+    {
+      "論文名稱": "利用腦血流與血壓變化探討腦血流自動調控機制",
+      "會議名稱": "中華民國八十七年醫學工程科技研討會",
+      "作者群": "沈乾龍、邱創乾、葉守正"
+    },
+    {
+      "論文名稱": "The quantitative analysis of blink reflex for neurophysiological study",
+      "會議名稱": "Proc. of the Biomedical Engineering Society 1998 Annual Symp",
+      "作者群": "Y.C. Chen, C.C. Chiu, and C.L. Hsien"
+    },
+    {
+      "論文名稱": "Using heart rate variability to investigate the relationship between the autonomic nervous system and Chinese medical constitution",
+      "會議名稱": "Proc. of the Biomedical Engineering Society 1998 Annual Symp",
+      "作者群": "Y.H. Chen, C.C. Chiu, and Y.H. Chang"
+    },
+    {
+      "論文名稱": "The study of cerebral flow autoregulation based on the arterial blood pressure and cerebral blood flow velocity",
+      "會議名稱": "Proc. of the Biomedical Engineering Society 1998 Annual Symp",
+      "作者群": "C.L. Shen, C.C. Chiu, and S.J. Yeh"
+    },
+    {
+      "論文名稱": "電腦化於舌下望診之研究",
+      "會議名稱": "1999工程科技與中西醫學應用研討會",
+      "作者群": "邱創乾,張永賢,藍振晏"
+    },
+    {
+      "論文名稱": "The automatic image analysis of sublingual veins using chromatic approaches",
+      "會議名稱": "第十一屆電腦視覺、圖學暨影像處理研討會",
+      "作者群": "邱創乾、張永賢、鄭宗信"
+    },
+    {
+      "論文名稱": "Thermoregulatory sweating abnormalities in lateral medullar infarction",
+      "會議名稱": "IX International Symposium on the Autonomic Nervous System",
+      "作者群": "Yeh, S. J.、Lai, S.、邱創乾"
+    },
+    {
+      "論文名稱": "以LabVIEWR為架構的人體呼吸控制模擬器",
+      "會議名稱": "八十六年度醫學工程科技研討會",
+      "作者群": "林賢龍*、邱創乾、楊正宏、王錫文"
+    },
+    {
+      "論文名稱": "The clustering analysis for clinical speech data in Chinese medicine",
+      "會議名稱": "Proc. of 10th IPPR Conference on Computer Vision, Graphics,",
+      "作者群": "C.C. Chiu and C.S. Jwo"
+    },
+    {
+      "論文名稱": "The insensitivity analysis of lighting system and chromaticity analysis of normal subjects for computerized tongue diagnosis system",
+      "會議名稱": "Proc. of 10th IPPR Conference on Computer Vision, Graphics,",
+      "作者群": "C.C. Chiu, Y.H. Chang, and T.S. Cheng"
+    },
+    {
+      "論文名稱": "A tentative approach based on Wiener filter for the reduction of respiratory effect in pulse signals",
+      "會議名稱": "Proc. of the 19th Annual International Conference IEEE/EMBS",
+      "作者群": "C.C. Chiu and S.J. Yeh, 1997 October"
+    },
+    {
+      "論文名稱": "The comparative study of ECG and Finapres signals for the examination of autonomic nervous system",
+      "會議名稱": " Proc. of the Biomedical Engineering Society 1997 Annual Sym",
+      "作者群": "C.C. Chiu and S.J. Yeh"
+    },
+    {
+      "論文名稱": "The quantitative analysis for the textural properties of tongue coating based on hierarchical clustering approaches",
+      "會議名稱": "Proc. of the Biomedical Engineering Society 1997 Annual Symp",
+      "作者群": "C.C. Chiu, T.S. Cheng, and Y.H. Chang"
+    },
+    {
+      "論文名稱": "The study of computerized listening diagnosis for yin-deficient persons in Chinese medicine",
+      "會議名稱": "Proc. of the Biomedical Engineering Society 1997 Annual Symp",
+      "作者群": "C.C. Chiu, H.H. Chang, C.S. Jwo, and C.H. Yang"
+    },
+    {
+      "論文名稱": "LabVIEW based real-time human respiratory control simulator",
+      "會議名稱": " Proc. of the Biomedical Engineering Society 1997 Annual Sym",
+      "作者群": "S.L. Lin, C.C. Chiu, C.H. Yang, C.S. Jwo, and S.W. Wang"
+    },
+    {
+      "論文名稱": "資料擷取系統實務\", 機電整合應用技術研討會專題演講, 樹德工商專科學校",
+      "會議名稱": "機電整合應用技術研討會專題演講",
+      "作者群": "邱創乾"
+    },
+    {
+      "論文名稱": "中醫聞診現代化之研究-氣虛患者之語音分析",
+      "會議名稱": "第68屆國醫節中醫學術研討會",
+      "作者群": "楊家儒,張恆鴻,邱創乾,陳瑞照,楊中賢,卓家祥"
+    },
+    {
+      "論文名稱": "PC-Based資料擷取與分析系統實務",
+      "會議名稱": "自動控制與訊號處理技術之實際運用研討會專題演講",
+      "作者群": "邱創乾"
+    },
+    {
+      "論文名稱": "心電圖輔助評估臥姿對自律神經功能調節之研究",
+      "會議名稱": " 第五屆三軍官校",
+      "作者群": " 陳彥宏,郭昭霖,邱創乾"
+    },
+    {
+      "論文名稱": "中醫舌診輔助儀器之統計相關問題探討",
+      "會議名稱": "1998工程科技與中西醫學應用研討會",
+      "作者群": "邱創乾"
+    },
+    {
+      "論文名稱": "人體神經生理H reflex量化分析方法之研究",
+      "會議名稱": "1998工程科技與中西醫學應用研討會",
+      "作者群": "陳永杰,邱創乾,謝慶良"
+    },
+    {
+      "論文名稱": "中醫聞診現代化之研究-氣虛與陰虛患者之語音分析",
+      "會議名稱": "1998工程科技與中西醫學應用研討會",
+      "作者群": "張恆鴻,邱創乾,楊中賢,卓家祥,羅綸謙,楊家儒,吳文祥,陳瑞照"
+    },
+    {
+      "論文名稱": "Study on the traditional Chinese tongue diagnosis by chromatic methods",
+      "會議名稱": " Proc. of The Fourth World Conference on Acupuncture",
+      "作者群": "Y.H. Chang and C.C. Chiu"
+    },
+    {
+      "論文名稱": "Validation of spectral analysis for Finapres signals after the removal of servo components",
+      "會議名稱": " Clinical Autonomic Research",
+      "作者群": "S.J. Yeh and C.C. Chiu"
+    },
+    {
+      "論文名稱": "Analysis of the autonomic nervous system by applying the artificial neural network to categorize pulse signals from Finapres",
+      "會議名稱": "Clinical Autonomic Research",
+      "作者群": "Y.C. Yu, C.C. Chiu, and S.J. Yeh"
+    },
+    {
+      "論文名稱": "The development of PC-based score recognizer using neural network approach",
+      "會議名稱": "Proc. of the 9th Symposium of the Acoustical Society of the",
+      "作者群": "C.W. Lin, S.W. Chen, and C.C. Chiu"
+    },
+    {
+      "論文名稱": "Simulation of Imposed Resistive and Elastic Loading in a Human Respiratory Control System",
+      "會議名稱": "The 2nd Medical Engineering Week of the World, 4th International Symposium of Biomedical Engineering",
+      "作者群": "S.L. Lin*, C.C. Chiu, and W.S. Chen"
+    },
+    {
+      "論文名稱": "MATLAB Based Real-Time Signal Simulator and Monitor for Human Respiratory System",
+      "會議名稱": "The 2nd Medical Engineering Week of the World, 4th International Symposium of Biomedical Engineering",
+      "作者群": "S.L. Lin*, C.R. Pai, C.H. Yang, and C.C. Chiu"
+    },
+    {
+      "論文名稱": "Parallel Simulation for the Dynamics of Hexapod System",
+      "會議名稱": "1995 National Computer Symposium",
+      "作者群": "S.S. Wang, S.L. Lin*, N.J. Lin, and C.C. Chiu"
+    },
+    {
+      "論文名稱": "Effects of Inspiratory Resistive Loading in the Optimal Chemical-Mechanical Respiratory Control System",
+      "會議名稱": "中華民國八十四年醫學工程科技研討會",
+      "作者群": "S.L. Lin*, and C.C. Chiu"
+    },
+    {
+      "論文名稱": "Algorithms for determining chromatic and textural properties of tongue images",
+      "會議名稱": "Proc. of 8th IPPR Conference on Computer Vision, Graphics, a",
+      "作者群": " H.S. Lin, C.C. Chiu, C.Y. Lin, and S.F. Hsu"
+    },
+    {
+      "論文名稱": "The design of a wireless modem for GPS application of vehicle navigation and control center",
+      "會議名稱": "Proc. of 8th IPPR Conference on Computer Vision, Graphics, a",
+      "作者群": " C.Y. Lin, T.Y. Chou, C.C. Chiu, and S.H. Lee"
+    },
+    {
+      "論文名稱": "VLSI architecture for tree search in VQ encoding",
+      "會議名稱": "Proc. of International Workshop on HDTV and the Evolution of",
+      "作者群": " W.S. Chen, M.S. Shiau, C.C. Chiu, L.C. Lin, and S.R. Huang"
+    },
+    {
+      "論文名稱": "Structural recognition approaches for machine-based tongue diagnosis",
+      "會議名稱": "Proc. of 3rd Asia-Pacific Regional Conference of IEEE Engine",
+      "作者群": "C.C. Chiu, H.S. Lin, and S.L. Lin"
+    },
+    {
+      "論文名稱": "Data acquisition and investigation of autonomic nervous system through Finapres",
+      "會議名稱": "Proc. of 3rd Asia-Pacific Regional Conference of IEEE Engine",
+      "作者群": " S.J. Yeh and C.C. Chiu"
+    },
+    {
+      "論文名稱": "An initial study of quantitative analysis on tongue images",
+      "會議名稱": "Proc. of the Biomedical Engineering Society 1995 Annual Symp",
+      "作者群": "C.C. Chiu, S.F. Hsu, and W.S. Chen"
+    },
+    {
+      "論文名稱": "Spectral analysis of blood pressure and heart rate through Finapres in diabetic autonomic neuropathy",
+      "會議名稱": "Proc. of the Biomedical Engineering Society 1995 Annual Symp",
+      "作者群": "S.J. Yeh and C.C. Chiu"
+    },
+    {
+      "論文名稱": "Effects of inspiratory resistive loading in the optimal chemical-mechanical respiratory control system",
+      "會議名稱": "Proc. of the Biomedical Engineering Society 1995 Annual Symp",
+      "作者群": "S.L. Lin and C.C. Chiu"
+    },
+    {
+      "論文名稱": "The fundamental analysis and comparative experiments for highly confusing abrupt-tone syllables of Taiwanese Hokkian",
+      "會議名稱": "Proc. of 1995 National Computer Symposium",
+      "作者群": "C.C. Chiu, S. Lai, and S. L. Lin"
+    },
+    {
+      "論文名稱": "Parallel simulation for the dynamics of hexapod system",
+      "會議名稱": " Proc. of 1995 National Computer Symposium",
+      "作者群": "S.S. Wang, S.L. Lin, N.J. Lin, and C.C. Chiu"
+    },
+    {
+      "論文名稱": "The removal of servo components from Finapres signals",
+      "會議名稱": "Proc. of the Biomedical Engineering Society 1995 Annual Symp",
+      "作者群": "C.C. Chiu, S.J. Yeh, and S.L. Lin"
+    },
+    {
+      "論文名稱": "以色彩學探討中醫舌象之研究",
+      "會議名稱": "第66屆國醫節中醫學術研討會",
+      "作者群": "張永賢, 邱創乾"
+    },
+    {
+      "論文名稱": "Chromatic and textural approaches for traditional Chinese tongue diagnosis",
+      "會議名稱": "Proc. of The 3rd Asian-Pacific Conference of Medico-Biologic",
+      "作者群": "C.C. Chiu and Y.H. Chang"
+    },
+    {
+      "論文名稱": "Autonomic consequences of middle cerebral atery infarction",
+      "會議名稱": "Proc. The 3rd Asian-Pacific Conference of Medico-Biological",
+      "作者群": " S.J. Yeh, C.C. Chiu, and Y.C. Yu"
+    },
+    {
+      "論文名稱": "The quantitative analysis of acoustic waveforms for Qi-Deficient patients",
+      "會議名稱": "Proc. of The 3rd Asian-Pacific Conference of Medico-Biologic",
+      "作者群": " C.C. Chiu, H.H. Chang, and C.S. Yang"
+    },
+    {
+      "論文名稱": "Simulation of the Optimal Chemical-Mechanical Respiratory Control System",
+      "會議名稱": "IASTED International Conference on Modeling and Simulation",
+      "作者群": "S.L. Lin* and C.C. Chiu"
+    },
+    {
+      "論文名稱": "Optimizing the Neuro-Mechanical Drive for Human Respiratory System",
+      "會議名稱": "The 1st Medical Engineering Week of the World, 3rd International Symposium of Biomedical Engineering",
+      "作者群": "S.L. Lin*, C.C. Chiu"
+    },
+    {
+      "論文名稱": "A Structure Texture Recognition Approach for Medical Diagnosis Through Tongue",
+      "會議名稱": "The 1st Medical Engineering Week of the World, 3rd  International Symposium of Biomedical Engineering",
+      "作者群": "C.C. Chiu*, H.S. Lin, and S.L. Lin"
+    },
+    {
+      "論文名稱": "A structural texture recognition approach for medical diagnosis through tongue",
+      "會議名稱": "IEEE/EMBS Region 10 International Conference & Clinical Engi",
+      "作者群": "C.C. Chiu, H.S. Lin, and S.L. Lin"
+    },
+    {
+      "論文名稱": "Optimizing the neuro-mechanical drive for human respiratory system",
+      "會議名稱": " IEEE/EMBS Region 10 International Conference & Clinical Eng",
+      "作者群": "S.L. Lin and C.C. Chiu"
+    },
+    {
+      "論文名稱": "A two-pass decoding algorithm for partitioned search in continuous speech recognition",
+      "會議名稱": "Proc. of IEEE Asia-Pacific Conference on Circuits and System",
+      "作者群": "C.C. Chiu and J.R. Deller, Jr."
+    },
+    {
+      "論文名稱": "The analysis and recognition of human vocal emotions",
+      "會議名稱": " Proc. of 1994 International Computer Symposium",
+      "作者群": "C.C. Chiu, Y.L. Chang, and Y.J. Lai"
+    },
+    {
+      "論文名稱": "機電整合系統實習",
+      "會議名稱": "教育部八十四會計年度「機電整合」科技教育改進計畫教學成果研討",
+      "作者群": "邱創乾"
+    },
+    {
+      "論文名稱": "Simulation of the optimal chemical-mechanical respiratory control system",
+      "會議名稱": "Proc. of 1995 IASTED International Conference on Modelling &",
+      "作者群": " S.L. Lin and C.C. Chiu"
+    },
+    {
+      "論文名稱": "A decoding strategy using graph partitioning for continuous-speech recognition",
+      "會議名稱": "IEEE International Symposium on Circuits and Systems (ISCAS)",
+      "作者群": "J.R. Deller, Jr., C.C. Chiu, and Y.P. Yang"
+    }
+  ],
+  "book": [
+    {
+      "專業書籍": "中醫在國際醫療服務基礎建置：建構診斷e化之多媒體資料擷取、交換與分析平台",
+      "出版單位": "行政院衛生署中醫藥委員會",
+      "作者群": "邱創乾"
+    },
+    {
+      "專業書籍": "互動式線上中醫診斷平台之建置基準研究",
+      "出版單位": "行政院衛生署中醫藥委員會",
+      "作者群": "邱創乾"
+    },
+    {
+      "專業書籍": "中醫診斷科學化網路教育訓練資料庫之建立",
+      "出版單位": "行政院衛生署中醫藥委員會專題計",
+      "作者群": "邱創乾"
+    },
+    {
+      "專業書籍": "中醫診斷學術之實證研究子計畫(5)---利用現代語音科技發展中醫聞診輔助儀器",
+      "出版單位": "行政院衛生署中醫藥委員會專題計",
+      "作者群": "邱創乾"
+    },
+    {
+      "專業書籍": "中部科學園區推動計畫：基於 OFDM 調變技術之無線通訊系統開發(II)",
+      "出版單位": "國科會",
+      "作者群": "邱創乾,何滿龍,王健仁,廖和恩,曾憲輝,王壘"
+    },
+    {
+      "專業書籍": "中醫舌診標準化之研究(3-3)- 特定疾病舌苔證型資料庫之知識探勘",
+      "出版單位": "行政院衛生署中醫藥委員會專題計",
+      "作者群": "邱創乾"
+    },
+    {
+      "專業書籍": "利用線性與非線性分析方法評估糖尿病患動態腦血流調控(1/2)(2/2)",
+      "出版單位": "行政院國家科學委員會專題計畫研",
+      "作者群": "邱創乾"
+    },
+    {
+      "專業書籍": "發展非侵入式電腦診察系統輔助腸癌病患的術後治療評估",
+      "出版單位": "行政院國家科學委員會專題計畫研",
+      "作者群": "邱創乾"
+    },
+    {
+      "專業書籍": "中醫舌診標準化之研究(3-1)-舌診特徵參數量化標準之研究",
+      "出版單位": "行政院衛生署中醫藥委員會",
+      "作者群": "邱創乾"
+    },
+    {
+      "專業書籍": "中醫舌診標準化之研究(3-2)- 特定疾病舌苔影像定量之研究",
+      "出版單位": "行政院衛生署中醫藥委員會",
+      "作者群": "邱創乾"
+    },
+    {
+      "專業書籍": "八十七~九十學年度醫學工程科技教育改進計畫執行成果報告",
+      "出版單位": "教育部顧問室",
+      "作者群": "邱創乾"
+    },
+    {
+      "專業書籍": "現代化舌下望診之發展與臨床評估",
+      "出版單位": "行政院國家科學委員會",
+      "作者群": "邱創乾"
+    },
+    {
+      "專業書籍": "可用於檢測自律神經病變與腦血流調控之非侵入式生理信號擷取與分析系統",
+      "出版單位": "工程科技通訊",
+      "作者群": "邱創乾, 葉守正"
+    },
+    {
+      "專業書籍": "利用線性與非線性分析方法評估糖尿病患動態腦血流調控(1/2)",
+      "出版單位": "行政院國家科學委員會",
+      "作者群": "邱創乾,"
+    },
+    {
+      "專業書籍": "九十學年度醫學工程科技教育改進計畫執行成果報告",
+      "出版單位": "教育部顧問室",
+      "作者群": "邱創乾, 林賢龍, 李燊銘"
+    },
+    {
+      "專業書籍": "現代化舌下望診之發展與臨床評估",
+      "出版單位": "行政院國家科學委員會",
+      "作者群": "邱創乾"
+    },
+    {
+      "專業書籍": "中醫舌診標準化之研究(3-1)-舌診特徵參數量化標準之研究(1/3)",
+      "出版單位": "行政院衛生署中醫藥委員會",
+      "作者群": "邱創乾"
+    },
+    {
+      "專業書籍": "現代化舌下望診之發展與臨床評估",
+      "出版單位": "國科會研究成果報告",
+      "作者群": "邱創乾"
+    },
+    {
+      "專業書籍": "醫舌診標準化之研究(3-1)-舌診特徵參數量化標準之研究(1/3)",
+      "出版單位": "衛生署中醫藥委員會專題計畫研究",
+      "作者群": "邱創乾"
+    },
+    {
+      "專業書籍": "八十九學年度醫學工程科技教育改進計畫執行成果報告",
+      "出版單位": "教育部顧問室",
+      "作者群": "邱創乾、 林賢龍、 李燊銘"
+    },
+    {
+      "專業書籍": "醫舌診輔助儀器之環境評估與臨床驗證",
+      "出版單位": "行政院衛生署中醫藥委員會",
+      "作者群": "邱創乾"
+    },
+    {
+      "專業書籍": "中醫聞診現代化之研究（四）血虛患者之語音分析",
+      "出版單位": "行政院衛生署中醫藥委員會",
+      "作者群": "楊中賢,張恆鴻,邱創乾"
+    },
+    {
+      "專業書籍": "腦血流自動調控模式之建立與臨床應用",
+      "出版單位": "行政院國家科學委員會",
+      "作者群": "邱創乾"
+    },
+    {
+      "專業書籍": "八十九學年度醫學工程科技教育改進計畫執行成果報告",
+      "出版單位": "教育部顧問室",
+      "作者群": "邱創乾, 林賢龍, 李燊銘"
+    },
+    {
+      "專業書籍": "現代化舌下望診之研究 - 利用相鄰點標記演算法輔助舌下二脈之定量分析",
+      "出版單位": "行政院國家科學委員會",
+      "作者群": "邱創乾"
+    },
+    {
+      "專業書籍": "第十九屆醫學與生物工程國際會議",
+      "出版單位": "科學發展月刊",
+      "作者群": "邱創乾"
+    },
+    {
+      "專業書籍": "中醫聞診現代化之研究（三）陽虛患者之語音分析",
+      "出版單位": "行政院衛生署中醫藥委員會",
+      "作者群": "張恆鴻,邱創乾,楊中賢"
+    },
+    {
+      "專業書籍": "中醫聞診現代化之研究（二）陰虛患者之語音分析",
+      "出版單位": "行政院衛生署中醫藥委員會",
+      "作者群": "張恆鴻,邱創乾,楊中賢"
+    },
+    {
+      "專業書籍": "光電產業之自動化檢測技術課程講義",
+      "出版單位": "行政院勞委會職訓局委辨.",
+      "作者群": "邱創乾"
+    },
+    {
+      "專業書籍": "利用非侵入式生理信號擷取及分析系統於糖尿病性自律神經障礙之研究",
+      "出版單位": "行政院國家科學委員會",
+      "作者群": "邱創乾"
+    },
+    {
+      "專業書籍": "從自律神經功能探討中醫体質之研究",
+      "出版單位": "行政院衛生署中醫藥委員會",
+      "作者群": "張永賢,邱創乾"
+    },
+    {
+      "專業書籍": "中醫脈診脈波訊號處理系統之研究",
+      "出版單位": "行政院衛生署中醫藥委員會",
+      "作者群": "林欽裕,邱創乾,張永賢"
+    },
+    {
+      "專業書籍": "中醫脈診脈波訊號擷取系統之設計",
+      "出版單位": "衛生署",
+      "作者群": "林欽裕，邱創乾，張永賢"
+    },
+    {
+      "專業書籍": "資料擷取系統實務",
+      "出版單位": "立治公司代理出版",
+      "作者群": "邱創乾"
+    },
+    {
+      "專業書籍": "非侵入式生理信號即時擷取及分析系統之建立-應用於腦中風病人自律神經變化之研究",
+      "出版單位": "行政院國家科學委員會",
+      "作者群": "邱創乾"
+    },
+    {
+      "專業書籍": "利用影像處理技術對舌苔性質作定量分析之研究",
+      "出版單位": " 行政院衛生署中醫藥委員會",
+      "作者群": "邱創乾"
+    },
+    {
+      "專業書籍": "使用高解析度彩色攝影系統對中醫舌診作定性及定量分析之研究",
+      "出版單位": "行政院衛生署中醫藥委員會",
+      "作者群": "陳文秀,張永賢,邱創乾"
+    },
+    {
+      "專業書籍": "中醫聞診現代化之研究（二）陰虛患者之語音分析",
+      "出版單位": " 行政院衛生署中醫藥委員會",
+      "作者群": "羅綸謙,張恆鴻,邱創乾"
+    },
+    {
+      "專業書籍": "中醫脈診脈波訊號感測系統之設計",
+      "出版單位": "行政院衛生署中醫藥委員會",
+      "作者群": "林欽裕,邱創乾,張永賢"
+    },
+    {
+      "專業書籍": "中醫聞診現代化之研究（一）氣虛患者之語音分析",
+      "出版單位": "國立中國醫藥研究所",
+      "作者群": "張恆鴻,邱創乾,陳瑞照"
+    },
+    {
+      "專業書籍": "中醫脈診脈波訊號感測系統之設計",
+      "出版單位": "衛生署",
+      "作者群": "林欽裕，邱創乾，張永賢"
+    },
+    {
+      "專業書籍": "台中澄清醫院神經內科整合檢查系統操作手冊.",
+      "出版單位": "自行出版",
+      "作者群": "邱創乾, 葉守正, 余遠渠"
+    },
+    {
+      "專業書籍": "自動語音分析系統操作說明與技術手冊",
+      "出版單位": "自行出版",
+      "作者群": "邱創乾"
+    },
+    {
+      "專業書籍": "電腦化舌象診斷系統操作說明與技術手冊",
+      "出版單位": "自行出版",
+      "作者群": "邱創乾"
+    },
+    {
+      "專業書籍": " 數位信號處理-實務入門",
+      "出版單位": "數位信號處理-實務入門高立公司",
+      "作者群": "林宸生,邱創乾,陳德請"
+    },
+    {
+      "專業書籍": "機電整合系統實習-人機介面設計與專題製作",
+      "出版單位": "立治公司代理出版",
+      "作者群": "邱創乾"
+    },
+    {
+      "專業書籍": " 利用分割圖搜尋技術於大型字彙連續語音辨識之研究與改進",
+      "出版單位": "行政院國家科學委員會",
+      "作者群": "邱創乾"
+    },
+    {
+      "專業書籍": " 機電整合系統實習教材",
+      "出版單位": "教育部顧問室",
+      "作者群": "邱創乾"
+    }
+  ],
+  "patent": [
+    {
+      "title": "新型",
+      "desc": "廢電池回收裝置"
+    },
+    {
+      "title": "發明",
+      "desc": "利用心律變異數之中醫陰陽體質評估系統"
+    },
+    {
+      "title": "發明",
+      "desc": "生理量測智慧衣系統"
+    },
+    {
+      "title": "發明",
+      "desc": "即時監測的人身保護裝置及方法"
+    }
+  ],
+  "most": [
+    {
+      "name": "開發具聲源辨識功能之全罩式安全帽",
+      "schoolYear": "113"
+    },
+    {
+      "name": "利用臉部表情及特定手指動作發展偵測帕金森氏症之前驅症狀量化評估系統",
+      "schoolYear": "112"
+    },
+    {
+      "name": "發展簡易且新穎之快速動眼期睡眠行為障礙評估系統於早期偵測帕金森氏症",
+      "schoolYear": "111"
+    },
+    {
+      "name": "利用深度神經網路發展非侵入式聲音診察系統輔助虛證診斷與評估",
+      "schoolYear": "110"
+    },
+    {
+      "name": "發展可用於檢測睡眠呼吸中止症與評估睡眠品質之智慧枕",
+      "schoolYear": "109"
+    },
+    {
+      "name": "利用行動跌倒偵測量化評估系統與機器學習於跌倒危險族群之分類研究",
+      "schoolYear": "108"
+    },
+    {
+      "name": "發展行動平衡控制能力與跌倒偵測量化評估系統",
+      "schoolYear": "107"
+    },
+    {
+      "name": "(3/3)CDIO架構之跨領域創新工程領域人才培育計畫-啟動學生專業想像的新鮮人專題計畫(想像力與創新思維融入工程教育人才培育與研究)",
+      "schoolYear": "106"
+    },
+    {
+      "name": "(3/3)CDIO架構之跨領域創新工程領域人才培育計畫-智慧城市與智慧生活的構思、設計、實施及運作(想像力與創新思維融入工程教育人才培育與研究)",
+      "schoolYear": "106"
+    },
+    {
+      "name": "(2/3)CDIO架構之跨領域創新工程領域人才培育計畫-啟動學生專業想像的新鮮人專題計畫(想像力與創新思維融入工程教育人才培育與研究)",
+      "schoolYear": "105"
+    },
+    {
+      "name": "(2/3)CDIO架構之跨領域創新工程領域人才培育計畫-智慧城市與智慧生活的構思、設計、實施及運作(想像力與創新思維融入工程教育人才培育與研究)",
+      "schoolYear": "105"
+    },
+    {
+      "name": "發展穿戴式姿勢監測系統於坐姿之動態評估",
+      "schoolYear": "105"
+    },
+    {
+      "name": "(1/3)CDIO架構之跨領域創新工程領域人才培育計畫-啟動學生專業想像的新鮮人專題計畫(想像力與創新思維融入工程教育人才培育與研究)",
+      "schoolYear": "104"
+    },
+    {
+      "name": "(1/3)CDIO架構之跨領域創新工程領域人才培育計畫-智慧城市與智慧生活的構思、設計、實施及運作(想像力與創新思維融入工程教育人才培育與研究)",
+      "schoolYear": "104"
+    },
+    {
+      "name": "發展動態腦血管與平衡特徵參數以輔助典型巴金森氏症與巴金森氏症候群之早期診斷與量化評估",
+      "schoolYear": "104"
+    },
+    {
+      "name": "科學傳播系列課程計畫(3/3)",
+      "schoolYear": "103"
+    },
+    {
+      "name": "發展動態腦血管與平衡特徵參數以輔助典型巴金森氏症與巴金森氏症候群之早期診斷與量化評估(2/3)",
+      "schoolYear": "103"
+    },
+    {
+      "name": "科學傳播系列課程計畫(2/3)",
+      "schoolYear": "102"
+    },
+    {
+      "name": "發展動態腦血管與平衡特徵參數以輔助典型巴金森氏症與巴金森氏症候群之早期診斷與量化評估(1/3)",
+      "schoolYear": "102"
+    },
+    {
+      "name": "科學傳播系列課程計畫(1/3)",
+      "schoolYear": "101"
+    },
+    {
+      "name": "科學傳播人才培育計畫(2/2)",
+      "schoolYear": "101"
+    },
+    {
+      "name": "結合多變量動態腦血管功能評估及支援向量機於糖尿病患自律神經病變程度之自動分類研究(3/3)",
+      "schoolYear": "101"
+    },
+    {
+      "name": "科學傳播人才培育計畫(1/2)",
+      "schoolYear": "100"
+    },
+    {
+      "name": "結合多變量動態腦血管功能評估及支援向量機於糖尿病患自律神經病變程度之自動分類研究(2/3)",
+      "schoolYear": "100"
+    },
+    {
+      "name": "結合多變量動態腦血管功能評估及支援向量機於糖尿病患自律神經病變程度之自動分類研究(1/3)",
+      "schoolYear": "99"
+    },
+    {
+      "name": "結合腦血流調控定量評估技術與智慧型脈波辨識方法輔助心血管疾病之診療研究(3/3)",
+      "schoolYear": "98"
+    },
+    {
+      "name": "結合生理智慧衣及多媒體回饋於呼吸習慣改善之研究(3/3)",
+      "schoolYear": "97"
+    },
+    {
+      "name": "結合腦血流調控定量評估技術與智慧型脈波辨識方法輔助心血管疾病之診療研究(2/3)",
+      "schoolYear": "97"
+    },
+    {
+      "name": "發展具抗雜訊功能之心率變異近似(熵)分析系統",
+      "schoolYear": "97"
+    },
+    {
+      "name": "結合生理智慧衣及多媒體回饋於呼吸習慣改善之研究(2/3)",
+      "schoolYear": "96"
+    },
+    {
+      "name": "結合腦血流調控定量評估技術與智慧型脈波辨識方法輔助心血管疾病之診療研究(1/3)",
+      "schoolYear": "96"
+    },
+    {
+      "name": "結合生理智慧衣及多媒體回饋於呼吸習慣改善之研究(1/3)",
+      "schoolYear": "95"
+    },
+    {
+      "name": "腦中風急性期診療與預後認知功能之定量評估技術研發(重點研究計畫)",
+      "schoolYear": "95"
+    },
+    {
+      "name": "利用血壓與心電信號之時頻域交越相關參數輔助自律神經檢測",
+      "schoolYear": "95"
+    },
+    {
+      "name": "發展非侵入式腦血流調控定量評估系統輔助缺血性腦中風臨床治療研究(3/3)",
+      "schoolYear": "94"
+    },
+    {
+      "name": "發展非侵入式腦血流調控定量評估系統輔助缺血性腦中風臨床治療研究(2/3)",
+      "schoolYear": "93"
+    },
+    {
+      "name": "中部科學園區推動計畫：基於OFDM調變技術之無線通訊系統開發(II)",
+      "schoolYear": "92"
+    },
+    {
+      "name": "發展非侵入式腦血流調控定量評估系統輔助缺血性腦中風臨床治療研究(1/3)",
+      "schoolYear": "92"
+    },
+    {
+      "name": "中部科學園區推動計畫：基於OFDM調變技術之無線通訊系統開發",
+      "schoolYear": "91"
+    },
+    {
+      "name": "發展非侵入式電腦診察系統輔助腸癌病患術後治療評估",
+      "schoolYear": "91"
+    },
+    {
+      "name": "利用線性與非線性分析方法評估糖尿病患動態腦血流調控(2/2)",
+      "schoolYear": "91"
+    },
+    {
+      "name": "利用線性與非線性分析方法評估糖尿病患動態腦血流調控(1/2)",
+      "schoolYear": "90"
+    },
+    {
+      "name": "利用時域交越相關分析方法評估心率與血壓信號之關聯性",
+      "schoolYear": "90"
+    },
+    {
+      "name": "現代化舌下望診之發展與臨床評估",
+      "schoolYear": "89"
+    },
+    {
+      "name": "適應共振理論神經網路之線上訓練介面設計及其於脈象分類之應用",
+      "schoolYear": "89"
+    },
+    {
+      "name": "腦血流自動調控模式之建立與臨床應用",
+      "schoolYear": "88"
+    },
+    {
+      "name": "利用適應性共振理論類神經網路作脈象分類之研究",
+      "schoolYear": "87"
+    },
+    {
+      "name": "最佳機化呼吸控制系統之系統整合鑑別、機構製作與應用研究(Ⅰ)",
+      "schoolYear": "87"
+    },
+    {
+      "name": "現代化舌下望診之研究 - 利用相鄰點標記演算法輔助舌下二脈之定量分析",
+      "schoolYear": "87"
+    },
+    {
+      "name": "利用非侵犯性生理信號擷取及分析系統於糖尿病性自律神經障礙之研究",
+      "schoolYear": "86"
+    },
+    {
+      "name": "利用心電圖作自律神經檢測系統之研究(大專生暑期)",
+      "schoolYear": "86"
+    },
+    {
+      "name": "非侵入式生理信號即時擷取及分析系統之建立-應用於腦中風病人自律神經變化之研究",
+      "schoolYear": "85"
+    },
+    {
+      "name": "利用分割圖搜尋技術於大型字彙連續語音辨識之研究與改進",
+      "schoolYear": "83"
+    }
+  ],
+  "tech": [
+    {
+      "論文名稱": "Effect of acupuncture on heart rate variability in the peripheral facial palsy patients (2003-08)",
+      "書名": "Journal of Chinese Medical Association of Acupuncture",
+      "作者群": "Y.C. Lee, Y.H. Chang, C.C. Chiu, T.K. Kao"
+    },
+    {
+      "論文名稱": "A new baroreflex index to assess the baroreceptor mechanisms of postural tachycardia syndrome patien (2003-08)",
+      "書名": "Journal of Medical and Biological Engineering",
+      "作者群": "C.C. Chiu, D.L. Lin, and S.J. Yeh"
+    },
+    {
+      "論文名稱": "Evaluation of autonomic nerve system activity using heart rate variability on the qigong practice (2003-08)",
+      "書名": "Evidence-based Complementary and Alternative Medicine",
+      "作者群": "Y.H. Chang, C.C. Chen, F.J. Chen, and C.C. Chiu"
+    },
+    {
+      "論文名稱": "Quantifying the complexity in arterial blood pressure waveform using approximate entropy (2003-08)",
+      "書名": "Medical & Biological Engineering & Computing",
+      "作者群": "C.C. Chiu, Y.L. Liu, S.J. Yeh, and Y.D. Lin"
+    },
+    {
+      "論文名稱": "Assessment of dynamic cerebral autoregulation using chaotic analysis in diabetes with autonomic neur (2003-08)",
+      "書名": "Clinical Autonomic Research",
+      "作者群": "S.J. Yeh, C.C. Chiu, and Y.C. Tsai"
+    },
+    {
+      "論文名稱": "以心率變異性分析探討針剌非穴位與自律神經的關係 (2002-08)",
+      "書名": "中醫藥雜誌",
+      "作者群": "劉定明,張永賢,邱創乾,紀美智,李燊銘"
+    },
+    {
+      "論文名稱": "Cross-correlation analysis of cerebral autoregulation during sympathetic stimulation (2002-08)",
+      "書名": "Clinical Autonomic Research",
+      "作者群": "S.J. Yeh, C.C. Chiu"
+    },
+    {
+      "論文名稱": "Objective assessment of blood stasis using computerized inspection of sublingual veins (2002-08)",
+      "書名": "Computer Methods and Programs in Biomedicine",
+      "作者群": "C.C. Chiu, C.Y. Lan, and Y.H. Chang"
+    },
+    {
+      "論文名稱": "Assessment of yin-yang constitution in Chinese medicine using heart rate variability (2002-08)",
+      "書名": "Journal of Medical and Biological Engineering",
+      "作者群": "C.H. Chen, C.C. Chiu, C.L. Sun, and Y.H. Chang"
+    },
+    {
+      "論文名稱": "The physiological mechanisms of 2 Hz Electroacupuncture: A study using blink and H Reflex (2002-08)",
+      "書名": "American Journal of Chinese Medicine",
+      "作者群": "C.L. Hsieh, C.H. Wu, J.G. Lin, C.C. Chiu, M. Chen"
+    },
+    {
+      "論文名稱": "Using fractal dimension analysis on objective auscultation of traditional Chinese medical diagnosis (2002-08)",
+      "書名": "Journal of Medical and Biological Engineering",
+      "作者群": "C.C. Chiu, M.T. Yang, and C.S. Lin"
+    },
+    {
+      "論文名稱": "以心率變異性分析探討臥姿與自律神經的關係 (2001-08)",
+      "書名": "中醫藥雜誌",
+      "作者群": "劉定明,張永賢,林昭庚,邱創乾,紀美智,李燊銘"
+    },
+    {
+      "論文名稱": "Assessment of cerebral autoregulation using time-domain cross-correlation analysis (2001-08)",
+      "書名": "Computers in Biology and Medicine",
+      "作者群": "C.C. Chiu and S.J. Yeh"
+    },
+    {
+      "論文名稱": "Assessment of cerebral autoregulation under different sympathetic tests using time-domain cross-corr (2001-08)",
+      "書名": "Journal of Cerebral Blood Flow and Metabolism",
+      "作者群": "C.C. Chiu and S.J. Yeh"
+    },
+    {
+      "論文名稱": "Effects of autonomic neuropathy on dynamic regulation of middle cerebral artery blood flow velocity (2001-08)",
+      "書名": "Journal of Cerebral Blood Flow and Metabolism",
+      "作者群": "S.J. Yeh, C.C. Chiu, E.Y. Tu, and J.S. Kuo"
+    },
+    {
+      "論文名稱": "Measurement of heart rate variability as an interactive determinant of the autonomic nervous system: (2000-08)",
+      "書名": "Mid-Taiwan Journal of Medicine",
+      "作者群": "Y.H. Chang, C.C. Chiu, and Y.H. Chen"
+    },
+    {
+      "論文名稱": "Objective auscultation for traditional Chinese medical diagnosis using novel acoustic parameters (2000-08)",
+      "書名": "Computer Methods and Programs in Biomedicine",
+      "作者群": "C.C. Chiu, H.H. Chang, and C.H. Yang"
+    },
+    {
+      "論文名稱": "Self-organizing arterial pressure pulse classification using neural networks: theoretical considerat (2000-08)",
+      "書名": "Computers in Biology and Medicine",
+      "作者群": "C.C. Chiu, S.J. Yeh, and C.H. Chen"
+    },
+    {
+      "論文名稱": "A novel approach based on computerized image analysis for traditional Chinese medical diagnosis of t (2000-08)",
+      "書名": "Computer Methods and Programs in Biomedicine",
+      "作者群": "C.C. Chiu"
+    },
+    {
+      "論文名稱": "The design of microstructures for multifunctional pulse measurements (1999-08)",
+      "書名": "Biomedical Engineering, Applications, Basis and Communications",
+      "作者群": "H.C. Cheng, C.Y. Lin, C.C. Chiu"
+    },
+    {
+      "論文名稱": "The design of a pulse sensor and a signal conditioning circuit using a pressure die-manufacture and (1999-08)",
+      "書名": "Biomedical Engineering, Applications, Basis and Communications",
+      "作者群": "C.Y. Lin, S.R. Huang, C.L. Wang, C.C. Chiu"
+    },
+    {
+      "論文名稱": "The effects of diabetic autonomic neuropathy on CO2 cerebrovascular reactivity (Abstract) (1999-08)",
+      "書名": "Journal of Cerebral Blood Flow and Metabolism",
+      "作者群": "S.J. Yeh, S. Lai, C.C. Chiu, and J.S. Kuo"
+    },
+    {
+      "論文名稱": "中醫聞診現代化研究(二)-陰虛患者之語音分析 (1999-08)",
+      "書名": "中醫藥雜誌",
+      "作者群": "楊中賢,張恒鴻,邱創乾,卓家祥,楊家儒"
+    },
+    {
+      "論文名稱": "The quantitative analysis of acoustic waveforms for Qi-Deficient patients (1998-08)",
+      "書名": "Biomedical Engineering, Applications, Basis and Communication",
+      "作者群": "C.C. Chiu, H.H. Chang, and C.S. Yang"
+    },
+    {
+      "論文名稱": "The quantitative analysis of tongue color for healthy persons (1998-08)",
+      "書名": "Mid-Taiwan Journal of Medicine",
+      "作者群": "Y.H. Chang, C.C. Chiu, and T.S. Cheng"
+    },
+    {
+      "論文名稱": "Thermoregulatory sweating abnormalities in lateral medullar infarction (Abstract) (1998-08)",
+      "書名": "Clinical Autonomic Research",
+      "作者群": "S.J. Yeh, S. Lai, and C.C. Chiu"
+    },
+    {
+      "論文名稱": "Using the word-based triphone model for continuous-speech recognition (1997-08)",
+      "書名": "Journal of Feng Chia University",
+      "作者群": "C.C. Chiu and S.J. Huang"
+    },
+    {
+      "論文名稱": "VLSI design of speaker identification (1997-08)",
+      "書名": "Journal of Feng Chia University",
+      "作者群": "H.H. Tseng, C.C. Chiu, and L.Y. Chang"
+    },
+    {
+      "論文名稱": "Classification of the pulse signals based on self-organizing neural network for the analysis of the (1996-08)",
+      "書名": "Chinese Journal of Medical and Biological Engineering",
+      "作者群": "C.C. Chiu, S.J. Yeh, and Y.C. Yu"
+    },
+    {
+      "論文名稱": "The fundamental analysis and comparative experiments for highly confusing abrupt-tone syllables of T (1996-08)",
+      "書名": "Journal of Feng Chia University",
+      "作者群": "C.C. Chiu and Steven Lai"
+    },
+    {
+      "論文名稱": "The development of a computerized tongue diagnosis system (1996-08)",
+      "書名": "Biomedical Engineering, Applications, Basis and Communications",
+      "作者群": "C.C. Chiu"
+    },
+    {
+      "論文名稱": "Autonomic consequences of middle cerebral artery infarction (1996-08)",
+      "書名": "Biomedical Engineering, Applications, Basis and Communications",
+      "作者群": "S.J. Yeh, C.C. Chiu, and Y.C. Yu"
+    },
+    {
+      "論文名稱": "Validation of spectral analysis for Finapres signals after removal of servo components (Abstract) (1996-08)",
+      "書名": "Clinical Autonomic Research",
+      "作者群": "S.J. Yeh and C.C. Chiu"
+    },
+    {
+      "論文名稱": "Analysis of autonomic nervous system by applying artificial neural network to categorize pulse signa (1996-08)",
+      "書名": "Clinical Autonomic Research",
+      "作者群": "Y.C. Yu, S.J. Yeh, and C.C. Chiu"
+    }
+  ],
+  "induAca": [
+    "2021年逢甲大學-欣銓科技產學合作先導計畫 (2021-04 to 2021-07)",
+    "106年度「區域文化及經貿人才養成方案」計畫 (2017-03 to 2017-12)",
+    "105年度全校型中文閱讀書寫課程革新推動計畫「閱讀書寫‧建構反思」 (2016-08 to 2017-07)",
+    "逢甲大學105年度教學卓越計畫 (2016-01 to 2016-12)",
+    "基礎語文及多元文化能力培育計畫─全校型中文語文教養課程革新推動計畫A類 (2015-08 to 2016-07)",
+    "逢甲大學104年度教學卓越計畫 (2015-01 to 2015-12)",
+    "103年度新進人員甄試試務工作 (2014-04 to 2014-11)",
+    "逢甲大學103年度教學卓越計畫 (2014-01 to 2014-12)",
+    "臺中快捷巴士股份有限公司102年度新進人員甄試 (2013-10 to 2014-01)",
+    "102年度強化人文藝術及社會科學基礎應用人才培育中程計畫-全校性閱讀書寫課程推動與革新A類計畫 (2013-02 to 2014-01)",
+    "中醫舌像取像及顯示模組 (2012-12 to 2013-03)",
+    "中醫虛證電腦語音分析與輔助判斷 (2012-08 to 2012-12)",
+    "100年度「強化台灣特色之人文藝術及社會科學基礎應用人才培育中程計畫」-全校性閱讀書寫課程推動與革新計畫(A類)-逢甲大學中文語文教養課程推動與革新計畫 (2011-12 to 2013-01)",
+    "智慧綠建築實務專討－992智慧化生活空間課程補助計畫 (2011-02 to 2011-09)",
+    "中醫在國際醫療服務基礎建置：建構診斷e化之多媒體資料擷取、交換與分析平台 (2009-09 to 2010-09)",
+    "互動式線上中醫診斷平台之建置基準研究 (2009-01 to 2009-12)",
+    "代謝症候群之運動生活型態監測與體質評估系統 (2008-12 to 2009-11)",
+    "中醫診斷科學化網路教育訓練資料庫之建立 (2008-03 to 2008-12)",
+    "保林資訊圖台顯示系統更新建置計畫 (2006-11 to 2007-03)",
+    "中醫診斷學術之實證研究子計畫(5)--利用現代語音科技發展中醫聞診輔助儀器 (2006-08 to 2007-12)",
+    "逢甲大學95年度e三五教學卓越計畫 (2006-08 to 2007-07)",
+    "遠距穿戴式心電圖及體溫監測系統研製 (2005-02 to 2006-12)",
+    "居家照護產業之IT技術應用與市場報告書 (2004-10 to 2004-10)",
+    "中醫科學化-舌診工程計畫 (2004-08 to 2004-10)",
+    "居家照護系統 (2004-07 to 2004-09)",
+    "感測性紡織品複合生理訊號回饋分析研究 (2004-04 to 2004-11)",
+    "聞診系統之開發與研究 (2004-01 to 2004-04)",
+    "提昇大學基礎教育計畫－資電科技整合與創新課程教育計畫－總計畫(3/4) (2003-08 to 2004-07)",
+    "紡織品生理感測訊號分析研究 (2003-04 to 2003-12)",
+    "中醫舌診標準化之研究(3-3)-特定疾病舌苔證型資料庫之知識探勘 (2003-01 to 2003-12)",
+    "提昇大學競爭力重點發展計畫─B計畫：大學科技系所人才培育計畫 (2002-08 to 2003-07)",
+    "提昇大學基礎教育計畫－資電科技整合與創新課程教育計畫－總計畫(2/4) (2002-08 to 2003-07)",
+    "肌電信號處理器 (2002-05 to 2002-07)",
+    "中醫舌診標準化之研究(3-2)-特定疾病舌苔影像定量之研究 (2002-01 to 2002-12)",
+    "提昇大學基礎教育計畫－資電科技整合與創新課程教育計畫－總計畫(1/4) (2001-09 to 2002-08)",
+    "中醫舌診標準化之研究(3-1)-舌診特徵參數量化標準之研究 (2001-06 to 2001-12)",
+    "生理醫學監測系統開發 (2001-02 to 2002-06)",
+    "『醫學工程科技』教育改進計畫 (2001-01 to 2001-12)",
+    "中醫舌診輔助儀器之環境評估與臨床驗證 (1999-07 to 2000-06)",
+    "利用影像處理技術對舌苔性質作定量分析之研究 (1996-12 to 1997-06)",
+    "利用類神經網路擷取之脈象特徵作自律神經系統分析 (1996-08 to 1997-01)",
+    "腦中風後病人之生理參數信號變化之研究－時域及頻譜分析 (1996-01 to 1996-06)",
+    "臨床人體信號擷取與自動分析研究–自律神精系統 (1994-12 to 1995-11)",
+    "機電整合科技教育改進計畫- 基本控制實驗室、信號處理實驗室 (1994-07 to 1995-06)"
+  ],
+  "perform": [],
+  "reward": [
+    "逢甲大學論文著作獎勵傑出獎 (113, 2024-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優等獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (110, 2021-11) - 逢甲大學",
+    "106年度科技部獎勵特殊優秀人才 (106, 2017-08) - 產學合作處",
+    "105年度科技部獎勵特殊優秀人才 (105, 2016-08) - 產學合作處",
+    "逢甲大學論文著作獎勵優良獎 (104, 2015-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (104, 2015-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (104, 2015-11) - 逢甲大學",
+    "104年度科技部獎勵特殊優秀人才 (104, 2015-08) - 產學合作處",
+    "103年度全國優良教育影片徵集佳作 (103, 2014-10) - 國家教育研究院",
+    "103年度科技部獎勵特殊優秀人才 (103, 2014-08) - 研究發展處",
+    "逢甲大學論文著作獎勵傑出獎 (102, 2013-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (102, 2013-11) - 逢甲大學",
+    "102年度科技部獎勵特殊優秀人才 (102, 2013-08) - 研究發展處",
+    "101年度科技部獎勵特殊優秀人才 (101, 2012-08) - 研究發展處",
+    "「100學年度身心障礙學生升學大專校院甄試之試務工作」督導全國考區試務事項，圓滿完成任務。 (100, 2012-02) - 教育部",
+    "逢甲大學論文著作獎勵優良獎 (100, 2011-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (100, 2011-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (100, 2011-11) - 逢甲大學",
+    "100年度科技部獎勵特殊優秀人才 (100, 2011-08) - 研究發展處",
+    "教職員工保齡球團體賽第二名 (99, 2011-01) - 中華民國大專院校體育總會",
+    "逢甲大學論文著作獎勵優良獎 (99, 2010-11) - 逢甲大學",
+    "99年度科技部獎勵特殊優秀人才 (99, 2010-10) - 研究發展處",
+    "公開男子組團體賽第三名 (98, 2010-01) - 中華民國大專院校體育總會",
+    "公開男子組雙人賽第二名 (98, 2010-01) - 中華民國大專院校體育總會",
+    "逢甲大學論文著作獎勵傑出獎 (98, 2009-11) - 逢甲大學",
+    "辦理優先採購身心障礙福利機構團體或庇護工場生產物品及服務獲得內政部推薦獎勵 (97, 2009-02) - 逢甲大學/人事室",
+    "逢甲大學論文著作獎勵傑出獎 (97, 2008-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (96, 2007-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (96, 2007-11) - 逢甲大學",
+    "佳作論文 (95, 2007-05) - 第十屆工程科技與中西醫藥應用研討會",
+    "中部院校大專生專題競賽第三名 (95, 2007-05) - 中國電機工程學會台中分會",
+    "優等論文 (95, 2006-12) - 中華民國生物醫學工程學會",
+    "公開男子組雙人組第一名 (95, 2006-12) - 中華民國大專院校體育總會",
+    "產學合作個人貢獻獎 (95, 2006-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (95, 2006-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (95, 2006-11) - 逢甲大學",
+    "學術研究獎勵優等獎 (95, 2006-08) - 逢甲大學",
+    "優等論文 (94, 2006-05) - 第九屆工程科技與中西醫學應用研討會",
+    "逢甲大學論文著作獎勵傑出獎 (94, 2005-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (94, 2005-11) - 逢甲大學",
+    "優勝論文 (93, 2005-05) - 第八屆中西醫藥應用與工程科技研討會",
+    "佳作論文 (93, 2004-11) - NIDays 2004- Taiwan",
+    "逢甲大學論文著作獎勵 (92, 2003-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵 (92, 2003-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (92, 2003-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (92, 2003-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (91, 2002-11) - 逢甲大學",
+    "壁報論文競賽優等獎 (91, 2002-08) - 中華民國生物醫學工程學會",
+    "「90年度優良論文」第五名 (91, 2002-08) - 中台灣醫學科學雜誌",
+    "個人組第四名 (90, 2001-08) - 中區大專教師保齡球賽",
+    "榮譽會員 (90, 2001-08) - 中華民國婓陶斐(Phi Tau Phi)榮譽學會",
+    "89年度壁報論文競賽第一名 (89, 2000-12) - 中華民國生物醫學工程學會",
+    "本校工程論文獎佳作作品 (88, 1999-08) - 逢甲大學",
+    "本校工程論文獎優等作品 (87, 1998-08) - 逢甲大學",
+    "「科學技術研究發明獎」銀牌獎。 (87, 1998-01) - 八十七年度中華文化復興運動總會",
+    "第十二屆龍騰論文獎之資訊科技類碩士佳作獎 (87, 1998-01) - 宏♫基金會",
+    "第十二屆龍騰論文獎之碩士佳作獎 (86, 1997-08) - 宏♫基金會",
+    "本校工程論文獎入選作品 (85, 1996-08) - 逢甲大學",
+    "龍騰論文獎之碩士佳作獎 (85, 1996-08) - 宏♫基金會",
+    "國科會甲種獎勵 (85, 1996-08) - 行政院國科會",
+    "本校工程論文獎入選作品 (84, 1995-08) - 逢甲大學"
+  ],
+  "speech": [
+    {
+      "演講題目": "逢甲大學教育品保之機制與作法",
+      "邀請單位": "東海大學",
+      "演講日期": "2015-04"
+    },
+    {
+      "演講題目": "韓國大學治理-以成均館大學為例",
+      "邀請單位": "教育部",
+      "演講日期": "2015-03"
+    },
+    {
+      "演講題目": "建立教學品保機制-從系所評鑑談起",
+      "邀請單位": "金門大學",
+      "演講日期": "2015-02"
+    },
+    {
+      "演講題目": "From Assessment of Learning to Assement as Learning",
+      "邀請單位": "輔仁大學",
+      "演講日期": "2014-04"
+    },
+    {
+      "演講題目": "跨領域學程推動與經驗分享",
+      "邀請單位": "中山醫學大學",
+      "演講日期": "2012-12"
+    },
+    {
+      "演講題目": "動態腦血流調控之非侵入式資料擷取、評估與分類研究",
+      "邀請單位": "台灣腦中風學會",
+      "演講日期": "2010-10"
+    },
+    {
+      "演講題目": "生理智慧衣之發展與應用",
+      "邀請單位": "智慧型健康照護成果發表會",
+      "演講日期": "2010-06"
+    },
+    {
+      "演講題目": "工程科技在中西醫學之應用",
+      "邀請單位": "慈技大學醫資系",
+      "演講日期": "2010-05"
+    },
+    {
+      "演講題目": "舞動生命 數位傳情",
+      "邀請單位": "法鼓佛教學院",
+      "演講日期": "2009-12"
+    },
+    {
+      "演講題目": "舞動生命 數位傳情",
+      "邀請單位": "勤益科大機械系",
+      "演講日期": "2009-12"
+    },
+    {
+      "演講題目": "Classification of Dynamic Cerebral Autoregulation in Diabetics with Autonomic Neuropathy Using Support Vector Machine",
+      "邀請單位": "逢甲大學工學院",
+      "演講日期": "2009-11"
+    },
+    {
+      "演講題目": "工程科技在中西醫學之應用",
+      "邀請單位": "師大光電系所",
+      "演講日期": "2009-11"
+    },
+    {
+      "演講題目": "行動照護智慧衣之研發",
+      "邀請單位": "台中榮民總醫院",
+      "演講日期": "2009-11"
+    },
+    {
+      "演講題目": "舞動生命 數位傳情",
+      "邀請單位": "台中市西南扶輪社",
+      "演講日期": "2008-07"
+    },
+    {
+      "演講題目": "多功能生理量測智慧衣系統",
+      "邀請單位": "台俄技術論壇暨技術展",
+      "演講日期": "2008-06"
+    },
+    {
+      "演講題目": "聞診現代化之過去、現在及未來",
+      "邀請單位": "國際中醫藥學術研討會",
+      "演講日期": "2008-03"
+    },
+    {
+      "演講題目": "舞動生命_數位傳情",
+      "邀請單位": "朝陽科技大學",
+      "演講日期": "2007-05"
+    },
+    {
+      "演講題目": "舞動生命_數位傳情",
+      "邀請單位": "勤益科技大學",
+      "演講日期": "2006-12"
+    },
+    {
+      "演講題目": "中醫診斷現代化的發展與趨勢",
+      "邀請單位": "中國醫藥大學",
+      "演講日期": "2006-11"
+    },
+    {
+      "演講題目": "如何撰寫計畫書－ 以國科會計畫為例",
+      "邀請單位": "台中澄清醫院",
+      "演講日期": "2006-11"
+    },
+    {
+      "演講題目": "中醫診斷現代化的發展",
+      "邀請單位": "台北醫學大學附設醫院中醫科",
+      "演講日期": "2006-11"
+    },
+    {
+      "演講題目": "從成長經歷再看人生目標",
+      "邀請單位": "靜宜大學國企系",
+      "演講日期": "2006-10"
+    },
+    {
+      "演講題目": "居家照護智慧衣(e-texcare)研發現況與發展",
+      "邀請單位": "勤益技術學院",
+      "演講日期": "2006-08"
+    },
+    {
+      "演講題目": "居家照護研發現況與發展",
+      "邀請單位": "成功大學",
+      "演講日期": "2006-06"
+    },
+    {
+      "演講題目": "中醫診斷現代化的發展與趨勢",
+      "邀請單位": "台北榮民總醫院",
+      "演講日期": "2006-04"
+    },
+    {
+      "演講題目": "工程科技在中西醫上之創新研究",
+      "邀請單位": "衛生署中區區域聯盟",
+      "演講日期": "2006-01"
+    },
+    {
+      "演講題目": "工程科技在中西醫上之創新研究",
+      "邀請單位": "中山醫學大學",
+      "演講日期": "2005-12"
+    },
+    {
+      "演講題目": "工程科技在中西醫上之創新研究",
+      "邀請單位": "國立海洋科技大學",
+      "演講日期": "2005-10"
+    },
+    {
+      "演講題目": "非侵入式腦血流調控定量評估系統輔助缺血性腦中風臨床治療",
+      "邀請單位": "2005年臺灣神經醫學聯合學術研討",
+      "演講日期": "2005-04"
+    },
+    {
+      "演講題目": "工程科技在中西醫上之創新研究",
+      "邀請單位": "義守大學資訊系",
+      "演講日期": "2004-12"
+    },
+    {
+      "演講題目": "工程科技在中西醫上之創新研究",
+      "邀請單位": "建國技術學院機光電研究所",
+      "演講日期": "2004-12"
+    },
+    {
+      "演講題目": "隨身智慧型生理量測",
+      "邀請單位": "紡織產業綜合研究所",
+      "演講日期": "2004-12"
+    },
+    {
+      "演講題目": "工程科技在中西醫上之創新研究",
+      "邀請單位": "嶺東技術學院資科系",
+      "演講日期": "2004-11"
+    },
+    {
+      "演講題目": "工程科技在中西醫上之創新研究",
+      "邀請單位": "修平技術學院電機系",
+      "演講日期": "2004-11"
+    },
+    {
+      "演講題目": "醫療電子產業創新產學座談會引言",
+      "邀請單位": "國科會工程處醫學工程學門",
+      "演講日期": "2004-10"
+    },
+    {
+      "演講題目": "中醫診斷現代化的發展與趨勢",
+      "邀請單位": "工研院機械所",
+      "演講日期": "2004-09"
+    },
+    {
+      "演講題目": "利用線性與非線性分析方法評估糖尿病患動態腦血流調控",
+      "邀請單位": "臺灣神經學會",
+      "演講日期": "2004-04"
+    },
+    {
+      "演講題目": "利用影像處理技術輔助舌診現代化研究",
+      "邀請單位": "中山醫學大學",
+      "演講日期": "2004-01"
+    },
+    {
+      "演講題目": "從成長經歷再看人生目標",
+      "邀請單位": "勤益技術學院",
+      "演講日期": "2003-05"
+    },
+    {
+      "演講題目": "從成長經歷再看人生目標",
+      "邀請單位": "修平技術學院",
+      "演講日期": "2003-04"
+    },
+    {
+      "演講題目": "學程化教學與延後分流學制之規畫與推動-以逢甲大學資訊電機學院",
+      "邀請單位": "國科會、教育部、台灣大學工學院",
+      "演講日期": "2003-01"
+    },
+    {
+      "演講題目": "中醫舌診標準化工程問題剖析與解決方法探究",
+      "邀請單位": "林口長庚醫院、逢甲大學",
+      "演講日期": "2002-11"
+    },
+    {
+      "演講題目": "加速推動中部科學園區產官學研第二次研討會-電子、資訊、光電、",
+      "邀請單位": "中興大學、台中市政府、台中縣政",
+      "演講日期": "2002-09"
+    },
+    {
+      "演講題目": "生醫信號處理技術在中醫學上之應用",
+      "邀請單位": "中山大學資訊工程學系",
+      "演講日期": "2002-08"
+    },
+    {
+      "演講題目": "生醫信號處理技術在中醫學上之應用",
+      "邀請單位": "國立彰化師範大學機械工程研究所",
+      "演講日期": "2001-10"
+    },
+    {
+      "演講題目": "醫信號處理技術在中醫學上之應用",
+      "邀請單位": "中國醫藥學院附設醫院",
+      "演講日期": "2001-08"
+    },
+    {
+      "演講題目": "利用語音分析輔助中醫聞診現代化之研究",
+      "邀請單位": "台北市立中醫醫院",
+      "演講日期": "2000-08"
+    },
+    {
+      "演講題目": "中醫聞診與舌診現代化之思路與方法",
+      "邀請單位": "國立台灣大學醫學工程學研究所",
+      "演講日期": "1999-08"
+    },
+    {
+      "演講題目": "逢甲大學醫工發展現況及中醫診斷現代化之研究成果",
+      "邀請單位": "原大學醫學工程研究所",
+      "演講日期": "1999-08"
+    },
+    {
+      "演講題目": "利用語音訊號處理與影像處理技術輔助中醫聞診與舌診現代化之",
+      "邀請單位": "國立中山大學機械工程學系/所",
+      "演講日期": "1998-08"
+    },
+    {
+      "演講題目": "利用語音訊號處理與影像處理技術輔助中醫聞診與舌診現代化之",
+      "邀請單位": "國立陽明大學醫學工程研究所",
+      "演講日期": "1998-08"
+    },
+    {
+      "演講題目": "利用語音訊號處理與影像處理技術輔助中醫聞診與舌診現代化之",
+      "邀請單位": "義守大學電機工程研究所",
+      "演講日期": "1998-08"
+    },
+    {
+      "演講題目": "利用語音訊號處理與影像處理技術輔助中醫聞診與舌診現代化之研究",
+      "邀請單位": "國立勤益技術學院電子技術工程系",
+      "演講日期": "1998-08"
+    },
+    {
+      "演講題目": "PC-Based資料擷取與分析系統實務",
+      "邀請單位": "私立南榮工專電機科",
+      "演講日期": "1997-08"
+    },
+    {
+      "演講題目": "利用影像處理技術作中醫舌診現代化之研究",
+      "邀請單位": "國立中興大學電機工程學系/所",
+      "演講日期": "1997-08"
+    },
+    {
+      "演講題目": "利用影像處理技術對舌診作定量分析之研究",
+      "邀請單位": "國立雲林科技大學電機工程研究所",
+      "演講日期": "1997-08"
+    },
+    {
+      "演講題目": "生理信號擷取與自律神經系統分析之研究",
+      "邀請單位": "淡江大學電機工程研究所",
+      "演講日期": "1996-08"
+    }
+  ],
+  "material": [
+    "「數位信號處理」課程講義及投影片\t自控系\t邱創乾\t複合教材",
+    "「醫學工程導論」課程講義及投影片\t自控系\t邱創乾\t複合教材",
+    "「醫學工程專題」課程講義及投影片\t自控系\t邱創乾\t複合教材",
+    "「線性系統分析」課程講義及投影片\t自控系\t邱創乾\t複合教材",
+    "「線性系統分析」課程講義及投影片\t自控系\t邱創乾\t複合教材",
+    "「醫學工程專題」課程講義及投影片\t自控系\t邱創乾\t複合教材",
+    "「醫學工程導論」課程講義及投影片\t自控系\t邱創乾\t複合教材",
+    "「數位信號處理」課程講義及投影片\t自控系\t邱創乾\t複合教材",
+    "「數位信號處理與應用」課程講義及投影片\t自控系\t 邱創乾\t複合教材",
+    "「數位信號處理與應用」課程講義及投影片\t自控系\t邱創乾\t複合教材"
+  ],
+  "tal": []
+}

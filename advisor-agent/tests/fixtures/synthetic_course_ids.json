@@ -1,0 +1,43 @@
+{
+  "student_demo_001": [
+    "demo_course_001",
+    "demo_course_002",
+    "demo_course_008",
+    "demo_course_009",
+    "demo_course_013",
+    "demo_course_010"
+  ],
+  "student_demo_002": [
+    "demo_course_001",
+    "demo_course_003",
+    "demo_course_005",
+    "demo_course_006",
+    "demo_course_011",
+    "demo_course_014"
+  ],
+  "student_demo_003": [
+    "demo_course_003",
+    "demo_course_004",
+    "demo_course_007",
+    "demo_course_011",
+    "demo_course_012",
+    "demo_course_016"
+  ],
+  "student_demo_004": [
+    "demo_course_004",
+    "demo_course_005",
+    "demo_course_012",
+    "demo_course_014",
+    "demo_course_015",
+    "demo_course_016"
+  ],
+  "student_demo_005": [
+    "demo_course_001",
+    "demo_course_002",
+    "demo_course_006",
+    "demo_course_007",
+    "demo_course_011",
+    "demo_course_013",
+    "demo_course_015"
+  ]
+}

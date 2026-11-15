@@ -1,0 +1,1825 @@
+{
+  "success": true,
+  "info": {
+    "yms_year": 114.0,
+    "yms_smester": 2.0,
+    "sub_id": "43096",
+    "cls_id": "CS03132",
+    "scr_dup": "001",
+    "sub_id3": "MSE3012",
+    "cls_name": "材料三乙",
+    "cls_ename": "Department of Materials Science and Engineering",
+    "sub_name": "專題實作(二)",
+    "sub_ename": "PRACTICE OF SPECIAL TOPICS (2)",
+    "scr_mso": "必修",
+    "scr_mso_en": "Required",
+    "scr_credit": 1.0,
+    "scr_periodly": "(三)03-04",
+    "scr_periodly_eng": "(Wed)03-04",
+    "lang_name": "中文                                                      ",
+    "lang_ename": "Chinese",
+    "scr_room": "學219(第九國會廳)",
+    "scr_room_eng": "XSB219",
+    "scr_teacher": "葉丞豪,駱榮富,孫道中,陳錦毅,蔡健益,李立鼎,邱國峰,沈育安,張育誠,黃浚瑋,簡儀欣,呂晃志,何主亮,謝秉諺,梁辰睿,林巧奇",
+    "scr_teacher_eng": "Chiao-Chi Lin,Rong-Fuh Louh,Tao-Tsung Shun,Chin-Yi Chen,Chien-Yie Tsay,Li-Ting Lee,Kuo-Feng Chiu,Yu-An Shen,Yu-Cheng Chang,Chun-Wei Huang,Yi-Hsin Chien,Leu, Hoang Jyh,Ju-Liang He,Ping-Yen Hsieh,Chen-J",
+    "scr_selcode": "2475",
+    "scr_elearning": "全學期",
+    "scr_elearning_en": "Full semester",
+    "scr_hours": "2",
+    "scr_english": "N",
+    "unt_name": null,
+    "unt_ename": null,
+    "link_traminal": null,
+    "link_traminal_en": null,
+    "scr_ldl": "D",
+    "course_mk": "N",
+    "teams_mk": "N",
+    "sub_title": null,
+    "sub_title_en": null,
+    "sub_describe": null,
+    "sub_describe_en": null,
+    "hasDescription": null,
+    "hasInstructor": null,
+    "hasTA": null,
+    "hasTextBooks": null,
+    "hasReadings": null,
+    "hasiSoftwares": null,
+    "hasAssistSoftwares": null,
+    "hasObjective": null,
+    "hasWeeklyScds": null,
+    "hasGradeRules": null,
+    "hasGradeRuleDescribe": null,
+    "hasIntegrity": null,
+    "hasCoursePol": null,
+    "hasCourseRem": null,
+    "hasObjectiveReleation": null,
+    "hasTopicSdgs": null,
+    "hasTopicAiIndicators": null,
+    "hasSubTitleDesc": null
+  },
+  "subTitleDesc": null,
+  "description": {
+    "sub_id3": null,
+    "sub_name": "專題實作(二)",
+    "sub_ename": "PRACTICE OF SPECIAL TOPICS (2)",
+    "describe_ch": "本課程為終端課程並延續上學期研究主題與實驗規劃，進行實驗、數據分析與探討，最後進行實驗報告的撰寫與海報發表，期望學生可獲得全方面之學習，以培養獨立思考及解決問題之能力。",
+    "describe_eh": "This course is a terminal course and continues the research theme and experiment planning of the previous semester, conducts experiments, data analysis, and discussion, and finally writes experimental reports and publishes posters. It is expected that students can learn in all aspects to cultivate independent thinking and problem-solving ability.",
+    "pre_subname": "",
+    "pre_sub_id3": null,
+    "pre_sub_ename": "",
+    "pre_describe": null,
+    "pre_describe_en": null,
+    "scr_credit": 1.0
+  },
+  "targets": [
+    {
+      "seq": 1,
+      "describe_ch": "培養團隊合作進行材料工程相關實驗設計之能力。",
+      "describe_en": "Be able to organize a team for performing materials experiments and designs."
+    },
+    {
+      "seq": 2,
+      "describe_ch": "培養團隊合作進行設計材料製程或元件，並分析其操作數據之能力。",
+      "describe_en": "Be able to organize a team for designing materials processes or devices, and analyzing the performance data."
+    },
+    {
+      "seq": 3,
+      "describe_ch": "培養材料工程實驗技術、技巧及使用工具之能力。",
+      "describe_en": "Be able to executing materials experimental skills/techniques and utilizing experimental tools."
+    },
+    {
+      "seq": 4,
+      "describe_ch": "能清楚規劃研究之主題及各項參數之設定，並能以口頭方式將所獲結果清楚表達與研究團隊及指導教師溝通。",
+      "describe_en": "Be able to understand clearly how to plan projects and the meanings of each parameter in experiment. Be able to express experiment results clearly and well communicate with research team members and supervisors."
+    },
+    {
+      "seq": 5,
+      "describe_ch": "透過實驗之規畫進行，能使用相關設備，管理實驗經費，並由實驗中歸納出適當結論。",
+      "describe_en": "Through experiment organizing and executing, students will be able to operate relative experimental instruments, manage budget and conclude proper results from experiments."
+    },
+    {
+      "seq": 6,
+      "describe_ch": "於規劃及執行研究之過程，培養發掘並解決問題之能力。",
+      "describe_en": "Be able to identify and address problems during planning and executing research projects."
+    },
+    {
+      "seq": 7,
+      "describe_ch": "培養工程專業道德與團隊責任感責任感",
+      "describe_en": "Be able to maintain engineering ethic and responsibility as a research team member."
+    },
+    {
+      "seq": 8,
+      "describe_ch": "從課程訓練中，培養學生解決複雜整合性問題，主動、終身學習之能力。",
+      "describe_en": "From these training courses, students ought to resolve complicated and integrated problems, and will be able to"
+    },
+    {
+      "seq": 9,
+      "describe_ch": "理解三大材料專業學程含高性能合金與積層製造、奈米電子元件與智慧感測、再生能源材料與永續發展領域技術原理及應用",
+      "describe_en": "Understanding the technical principles and applications of the three major materials professional programs, including high-performance alloys and additive manufacturing, nanoelectronic devices and smart sensing, renewable energy materials and sustainable development."
+    }
+  ],
+  "teachersInfo": [
+    {
+      "cname": "駱榮富",
+      "ename": "Rong-Fuh Louh",
+      "period": " ",
+      "roletype": 0,
+      "email": "rflouh@o365.fcu.edu.tw",
+      "ext": "5314"
+    },
+    {
+      "cname": "孫道中",
+      "ename": "Tao-Tsung Shun",
+      "period": "(Tue)02  學216,(Wed)07-08 學216,(Thu)07  學216",
+      "roletype": 0,
+      "email": "ttshun@o365.fcu.edu.tw",
+      "ext": "5308"
+    },
+    {
+      "cname": "陳錦毅",
+      "ename": "Chin-Yi Chen",
+      "period": "(Tue)02-03 學312,(Thu)02-03 學312",
+      "roletype": 0,
+      "email": "chencyi@o365.fcu.edu.tw",
+      "ext": "5313"
+    },
+    {
+      "cname": "蔡健益",
+      "ename": "Chien-Yie Tsay",
+      "period": " ",
+      "roletype": 0,
+      "email": "cytsay@o365.fcu.edu.tw",
+      "ext": "5312"
+    },
+    {
+      "cname": "李立鼎",
+      "ename": "Li-Ting Lee",
+      "period": " ",
+      "roletype": 0,
+      "email": "ltlee@o365.fcu.edu.tw",
+      "ext": null
+    },
+    {
+      "cname": "邱國峰",
+      "ename": "Kuo-Feng Chiu",
+      "period": " ",
+      "roletype": 0,
+      "email": "kfchiu@o365.fcu.edu.tw",
+      "ext": "5336"
+    },
+    {
+      "cname": "沈育安",
+      "ename": "Yu-An Shen",
+      "period": "(Mon)08  學314,(Tue)03  學314,(Wed)05  學314,(Thu)03  學314",
+      "roletype": 0,
+      "email": "yashen@o365.fcu.edu.tw",
+      "ext": "5309"
+    },
+    {
+      "cname": "葉丞豪",
+      "ename": "Chen-Hao Yeh",
+      "period": "(Mon)06-07 學420,(Mon)09  學420,(Tue)06-07 學420,(Tue)08  學420,(Wed)08  學420,(Thu)07  學420",
+      "roletype": 0,
+      "email": "chenhyeh@o365.fcu.edu.tw",
+      "ext": "5305"
+    },
+    {
+      "cname": "張育誠",
+      "ename": "Yu-Cheng Chang",
+      "period": "(Mon)06  學422,(Tue)02-03 學422,(Thu)06-07 學422",
+      "roletype": 0,
+      "email": "yuchchang@o365.fcu.edu.tw",
+      "ext": "5345"
+    },
+    {
+      "cname": "黃浚瑋",
+      "ename": "Chun-Wei Huang",
+      "period": "(Mon)06-07 學412",
+      "roletype": 0,
+      "email": "huangcw@o365.fcu.edu.tw",
+      "ext": "5303"
+    },
+    {
+      "cname": "簡儀欣",
+      "ename": "Yi-Hsin Chien",
+      "period": "(Mon)06-07 學406,(Mon)08-09 學406,(Tue)02-03 學406,(Tue)04  學406",
+      "roletype": 0,
+      "email": "yhchien@o365.fcu.edu.tw",
+      "ext": "6818"
+    },
+    {
+      "cname": "呂晃志",
+      "ename": "Leu, Hoang Jyh",
+      "period": " ",
+      "roletype": 0,
+      "email": "hjleu@o365.fcu.edu.tw",
+      "ext": "6220"
+    },
+    {
+      "cname": "何主亮",
+      "ename": "Ju-Liang He",
+      "period": "(Tue)11-12 學209",
+      "roletype": 0,
+      "email": "jlhe@o365.fcu.edu.tw",
+      "ext": "5315"
+    },
+    {
+      "cname": "謝秉諺",
+      "ename": "Ping-Yen Hsieh",
+      "period": "(Fri)03-04 學320",
+      "roletype": 0,
+      "email": "pyhsieh@o365.fcu.edu.tw",
+      "ext": "5321"
+    },
+    {
+      "cname": "梁辰睿",
+      "ename": "Chen-Jui Liang",
+      "period": " ",
+      "roletype": 0,
+      "email": "cjliang@o365.fcu.edu.tw",
+      "ext": "6622"
+    },
+    {
+      "cname": "林巧奇",
+      "ename": "Chiao-Chi Lin",
+      "period": "(Mon)03-04 學402,(Thu)03-04 學402",
+      "roletype": 0,
+      "email": "chiaochi@o365.fcu.edu.tw",
+      "ext": "5311"
+    },
+    {
+      "cname": "魏子元",
+      "ename": "WEI, TZU-YUAN",
+      "period": " ",
+      "roletype": 1,
+      "email": "d1109410@o365.fcu.edu.tw",
+      "ext": " "
+    },
+    {
+      "cname": "李承峻",
+      "ename": "LEE, CHENG-JYUN",
+      "period": " ",
+      "roletype": 1,
+      "email": "d1165105@o365.fcu.edu.tw",
+      "ext": " "
+    }
+  ],
+  "textBooks": {
+    "yms_year": 114.0,
+    "yms_smester": 2.0,
+    "cls_id": "CS03132",
+    "sub_id": "43096",
+    "scr_dup": "001",
+    "tpb_seq": 1,
+    "tpb_book": "<div>\n<div>\n<div>\n<div>\n<div>\n<div>材料分析(2版)&nbsp; 汪建民 中國材料科學學會 Materials Analysis</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n",
+    "tpb_book_en": null
+  },
+  "readings": {
+    "yms_year": 114.0,
+    "yms_smester": 2.0,
+    "cls_id": "CS03132",
+    "sub_id": "43096",
+    "scr_dup": "001",
+    "tpc_seq": 1,
+    "tpc_book": "<div>相關英文或中文期刊文獻及碩博士論文集。</div>\n",
+    "tpc_book_en": null
+  },
+  "iSoftwares": [],
+  "assistSoftwares": [],
+  "weeklyScds": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CS03132",
+      "sub_id": "43096",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "1",
+      "tpd_reading": "<div>主任講解課程內容與進度報告</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": "<div>實驗室實作</div>\n",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CS03132",
+      "sub_id": "43096",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "2",
+      "tpd_reading": "<div>專題演講及專題實作實驗</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": "<div>實驗室實作</div>\n",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CS03132",
+      "sub_id": "43096",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "3",
+      "tpd_reading": "<div>專題演講及專題實作實驗</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": "<div>實驗室實作</div>\n",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CS03132",
+      "sub_id": "43096",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "4",
+      "tpd_reading": "<div>專題演講及專題實作實驗</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": "<div>實驗室實作</div>\n",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CS03132",
+      "sub_id": "43096",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "5",
+      "tpd_reading": "<div>專題演講及專題實作實驗</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": "<div>實驗室實作</div>\n",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CS03132",
+      "sub_id": "43096",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "6",
+      "tpd_reading": "<div>專題演講及專題實作實驗</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": "<div>實驗室實作</div>\n",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CS03132",
+      "sub_id": "43096",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "7",
+      "tpd_reading": "<div>專題演講及專題實作實驗</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": "<div>實驗室實作</div>\n",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CS03132",
+      "sub_id": "43096",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "8",
+      "tpd_reading": "<div>專題演講及專題實作實驗</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": "<div>實驗室實作</div>\n",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CS03132",
+      "sub_id": "43096",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "9",
+      "tpd_reading": "<div>期中考週</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": "<div>實驗室實作及計畫執行期中檢討</div>\n",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CS03132",
+      "sub_id": "43096",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "10",
+      "tpd_reading": "<div>專題演講及專題實作實驗</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": "<div>實驗室實作</div>\n",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CS03132",
+      "sub_id": "43096",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "11",
+      "tpd_reading": "<div>專題演講及專題實作實驗</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": "<div>實驗室實作</div>\n",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CS03132",
+      "sub_id": "43096",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "12",
+      "tpd_reading": "<div>專題演講及專題實作實驗</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": "<div>實驗室實作</div>\n",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CS03132",
+      "sub_id": "43096",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "12",
+      "tpd_reading": "<div>專題演講及專題實作實驗</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": "<div>實驗室實作</div>\n",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CS03132",
+      "sub_id": "43096",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "13",
+      "tpd_reading": "<div>專題演講及專題實作計畫成果分析檢討</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": "<div>實驗室實作</div>\n",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CS03132",
+      "sub_id": "43096",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "14",
+      "tpd_reading": "<div>專題演講及專題實作計畫成果分析檢討</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": "<div>實驗室實作</div>\n",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CS03132",
+      "sub_id": "43096",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "15",
+      "tpd_reading": "<div>專題演講及專題實作計畫成果分析檢討</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": "<div>實驗室實作</div>\n",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CS03132",
+      "sub_id": "43096",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "16",
+      "tpd_reading": "<div>專題演講及專題實作計畫成果報告撰寫</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": "<div>成果報告撰寫</div>\n",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CS03132",
+      "sub_id": "43096",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "17",
+      "tpd_reading": "<div>專題實作計畫成果海報競賽</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": "<div>海報製作</div>\n",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CS03132",
+      "sub_id": "43096",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "18",
+      "tpd_reading": "<div>期末考週</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": "<div>成果報告</div>\n",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    }
+  ],
+  "gradeRules": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CS03132",
+      "sub_id": "43096",
+      "scr_dup": "001",
+      "evalb_id": "G5",
+      "score_rate": 50,
+      "evalb_memo": "學期末繳交成果報告",
+      "evalb_memo_en": null,
+      "evalb_name": "書面報告",
+      "evalb_name_en": "Writing report",
+      "seq": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CS03132",
+      "sub_id": "43096",
+      "scr_dup": "001",
+      "evalb_id": "K2",
+      "score_rate": 50,
+      "evalb_memo": "海報成果競賽",
+      "evalb_memo_en": null,
+      "evalb_name": "口頭報告",
+      "evalb_name_en": "Oral presentation",
+      "seq": 0
+    }
+  ],
+  "gradeRuleDescribe": {
+    "yms_year": 114.0,
+    "yms_smester": 2.0,
+    "cls_id": "CS03132",
+    "sub_id": "43096",
+    "scr_dup": "001",
+    "tpa_score_new": "<div>計畫書50％ 期末發表50％ 依「逢甲大學材料科學與工程學系專題實作修課須知」辦理。此外，也會針對於出缺席狀況進行調整分數。</div>\n",
+    "tpa_score_new_en": null,
+    "course_pol": "尊重和考慮其他學生之感受，意外的噪音和動作會自動轉移和吸引人們的注意力，如服裝禮儀、課堂食物/飲料、聲音(音樂、講話、敲打等)、誇大動作等。",
+    "course_pol_en": null,
+    "course_rem": "希望各位同學能按授課進度完成各項學習任務，有規矩地、主動積極地參與各項學習活動、準時繳交作業，完成各項學習任務，並符合本課程的學 習目標者，以獲得應得的成績。",
+    "course_rem_en": null,
+    "ais_meno": "<div>針對期末繳交書面報告要遵守學術誠信，避免抄襲其他著作。此外，針對使用的文獻都要適時進行引用以避免著作權問題。</div>\n",
+    "ais_meno_en": null,
+    "ilearn_mk": null
+  },
+  "integrity": {
+    "yms_year": 114.0,
+    "yms_smester": 2.0,
+    "cls_id": "CS03132",
+    "sub_id": "43096",
+    "scr_dup": "001",
+    "tpa_score_new": "<div>計畫書50％ 期末發表50％ 依「逢甲大學材料科學與工程學系專題實作修課須知」辦理。此外，也會針對於出缺席狀況進行調整分數。</div>\n",
+    "tpa_score_new_en": null,
+    "course_pol": "尊重和考慮其他學生之感受，意外的噪音和動作會自動轉移和吸引人們的注意力，如服裝禮儀、課堂食物/飲料、聲音(音樂、講話、敲打等)、誇大動作等。",
+    "course_pol_en": null,
+    "course_rem": "希望各位同學能按授課進度完成各項學習任務，有規矩地、主動積極地參與各項學習活動、準時繳交作業，完成各項學習任務，並符合本課程的學 習目標者，以獲得應得的成績。",
+    "course_rem_en": null,
+    "ais_meno": "<div>針對期末繳交書面報告要遵守學術誠信，避免抄襲其他著作。此外，針對使用的文獻都要適時進行引用以避免著作權問題。</div>\n",
+    "ais_meno_en": null,
+    "ilearn_mk": null
+  },
+  "policy": {
+    "yms_year": 114.0,
+    "yms_smester": 2.0,
+    "cls_id": "CS03132",
+    "sub_id": "43096",
+    "scr_dup": "001",
+    "tpa_score_new": "<div>計畫書50％ 期末發表50％ 依「逢甲大學材料科學與工程學系專題實作修課須知」辦理。此外，也會針對於出缺席狀況進行調整分數。</div>\n",
+    "tpa_score_new_en": null,
+    "course_pol": "尊重和考慮其他學生之感受，意外的噪音和動作會自動轉移和吸引人們的注意力，如服裝禮儀、課堂食物/飲料、聲音(音樂、講話、敲打等)、誇大動作等。",
+    "course_pol_en": null,
+    "course_rem": "希望各位同學能按授課進度完成各項學習任務，有規矩地、主動積極地參與各項學習活動、準時繳交作業，完成各項學習任務，並符合本課程的學 習目標者，以獲得應得的成績。",
+    "course_rem_en": null,
+    "ais_meno": "<div>針對期末繳交書面報告要遵守學術誠信，避免抄襲其他著作。此外，針對使用的文獻都要適時進行引用以避免著作權問題。</div>\n",
+    "ais_meno_en": null,
+    "ilearn_mk": null
+  },
+  "courseBankC": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CS03132",
+      "sub_id": "43096",
+      "scr_dup": "001",
+      "seq": 1,
+      "describe_ch": "培養團隊合作進行材料工程相關實驗設計之能力。",
+      "describe_en": "Be able to organize a team for performing materials experiments and designs.",
+      "core_id": "B",
+      "core_item": "設計與執行材料實驗，以及分析與解釋數據的能力。",
+      "core_eng": "Able to design and implement a materials-related experiment and to carry out data analysis.",
+      "core_level": "2 ",
+      "strgy": [
+        "18",
+        "19",
+        "23"
+      ],
+      "evalb": [
+        "G3",
+        "G5"
+      ],
+      "strgy_name": [
+        "主動學習",
+        "探索式學習",
+        "專題導向學習"
+      ],
+      "strgy_name_en": [
+        "Active Learning, AL",
+        "Inquiry-based Learning, IBL",
+        "Project-based Learning, PjBL"
+      ],
+      "evalb_name": [
+        "心得報告",
+        "書面報告"
+      ],
+      "evalb_name_en": [
+        "Report on gained knowledge",
+        "Writing report"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CS03132",
+          "sub_id": "43096",
+          "scr_dup": "001",
+          "seq": 1,
+          "strgy_id": "18",
+          "strgy_name": null,
+          "strgy_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CS03132",
+          "sub_id": "43096",
+          "scr_dup": "001",
+          "seq": 1,
+          "strgy_id": "19",
+          "strgy_name": null,
+          "strgy_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CS03132",
+          "sub_id": "43096",
+          "scr_dup": "001",
+          "seq": 1,
+          "strgy_id": "23",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CS03132",
+          "sub_id": "43096",
+          "scr_dup": "001",
+          "seq": 1,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "G3",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CS03132",
+          "sub_id": "43096",
+          "scr_dup": "001",
+          "seq": 1,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "G5",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CS03132",
+      "sub_id": "43096",
+      "scr_dup": "001",
+      "seq": 2,
+      "describe_ch": "培養團隊合作進行設計材料製程或元件，並分析其操作數據之能力。",
+      "describe_en": "Be able to organize a team for designing materials processes or devices, and analyzing the performance data.",
+      "core_id": "D",
+      "core_item": "材料選用、設計與製程的能力。",
+      "core_eng": "Material selection, design, and process capabilities.",
+      "core_level": "3 ",
+      "strgy": [
+        "10",
+        "23",
+        "29"
+      ],
+      "evalb": [
+        "F3"
+      ],
+      "strgy_name": [
+        "小組討論及活動",
+        "專題導向學習",
+        "合作學習"
+      ],
+      "strgy_name_en": [
+        "Group activity & discussion",
+        "Project-based Learning, PjBL",
+        "Cooperative Learning, CL"
+      ],
+      "evalb_name": [
+        "小組討論"
+      ],
+      "evalb_name_en": [
+        "Group discussion"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CS03132",
+          "sub_id": "43096",
+          "scr_dup": "001",
+          "seq": 2,
+          "strgy_id": "10",
+          "strgy_name": null,
+          "strgy_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CS03132",
+          "sub_id": "43096",
+          "scr_dup": "001",
+          "seq": 2,
+          "strgy_id": "23",
+          "strgy_name": null,
+          "strgy_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CS03132",
+          "sub_id": "43096",
+          "scr_dup": "001",
+          "seq": 2,
+          "strgy_id": "29",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CS03132",
+          "sub_id": "43096",
+          "scr_dup": "001",
+          "seq": 2,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "F3",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CS03132",
+      "sub_id": "43096",
+      "scr_dup": "001",
+      "seq": 3,
+      "describe_ch": "培養材料工程實驗技術、技巧及使用工具之能力。",
+      "describe_en": "Be able to executing materials experimental skills/techniques and utilizing experimental tools.",
+      "core_id": "C",
+      "core_item": "執行工程實務所需技術、技巧及使用現代工具的能力。",
+      "core_eng": "Equipped with all necessary materials, engineering skills, and tools.",
+      "core_level": "3 ",
+      "strgy": [
+        "10",
+        "20",
+        "23",
+        "31"
+      ],
+      "evalb": [
+        "F3"
+      ],
+      "strgy_name": [
+        "小組討論及活動",
+        "協作學習",
+        "專題導向學習",
+        "線上學習"
+      ],
+      "strgy_name_en": [
+        "Group activity & discussion",
+        "Collaborative Learning, CoL",
+        "Project-based Learning, PjBL",
+        "Online Learning, OLL"
+      ],
+      "evalb_name": [
+        "小組討論"
+      ],
+      "evalb_name_en": [
+        "Group discussion"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CS03132",
+          "sub_id": "43096",
+          "scr_dup": "001",
+          "seq": 3,
+          "strgy_id": "10",
+          "strgy_name": null,
+          "strgy_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CS03132",
+          "sub_id": "43096",
+          "scr_dup": "001",
+          "seq": 3,
+          "strgy_id": "20",
+          "strgy_name": null,
+          "strgy_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CS03132",
+          "sub_id": "43096",
+          "scr_dup": "001",
+          "seq": 3,
+          "strgy_id": "23",
+          "strgy_name": null,
+          "strgy_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CS03132",
+          "sub_id": "43096",
+          "scr_dup": "001",
+          "seq": 3,
+          "strgy_id": "31",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CS03132",
+          "sub_id": "43096",
+          "scr_dup": "001",
+          "seq": 3,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "F3",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CS03132",
+      "sub_id": "43096",
+      "scr_dup": "001",
+      "seq": 4,
+      "describe_ch": "能清楚規劃研究之主題及各項參數之設定，並能以口頭方式將所獲結果清楚表達與研究團隊及指導教師溝通。",
+      "describe_en": "Be able to understand clearly how to plan projects and the meanings of each parameter in experiment. Be able to express experiment results clearly and well communicate with research team members and supervisors.",
+      "core_id": "E",
+      "core_item": "專案管理（含經費規劃）、有效溝通、領域整合與團隊合作的能力。",
+      "core_eng": "Capabilities of project management (including funding planning), effective communication, domain integration, and teamwork.",
+      "core_level": "3 ",
+      "strgy": [
+        "04",
+        "19",
+        "29"
+      ],
+      "evalb": [
+        "F3"
+      ],
+      "strgy_name": [
+        "專題討論",
+        "探索式學習",
+        "合作學習"
+      ],
+      "strgy_name_en": [
+        "Seminar",
+        "Inquiry-based Learning, IBL",
+        "Cooperative Learning, CL"
+      ],
+      "evalb_name": [
+        "小組討論"
+      ],
+      "evalb_name_en": [
+        "Group discussion"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CS03132",
+          "sub_id": "43096",
+          "scr_dup": "001",
+          "seq": 4,
+          "strgy_id": "04",
+          "strgy_name": null,
+          "strgy_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CS03132",
+          "sub_id": "43096",
+          "scr_dup": "001",
+          "seq": 4,
+          "strgy_id": "19",
+          "strgy_name": null,
+          "strgy_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CS03132",
+          "sub_id": "43096",
+          "scr_dup": "001",
+          "seq": 4,
+          "strgy_id": "29",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CS03132",
+          "sub_id": "43096",
+          "scr_dup": "001",
+          "seq": 4,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "F3",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CS03132",
+      "sub_id": "43096",
+      "scr_dup": "001",
+      "seq": 5,
+      "describe_ch": "透過實驗之規畫進行，能使用相關設備，管理實驗經費，並由實驗中歸納出適當結論。",
+      "describe_en": "Through experiment organizing and executing, students will be able to operate relative experimental instruments, manage budget and conclude proper results from experiments.",
+      "core_id": "E",
+      "core_item": "專案管理（含經費規劃）、有效溝通、領域整合與團隊合作的能力。",
+      "core_eng": "Capabilities of project management (including funding planning), effective communication, domain integration, and teamwork.",
+      "core_level": "4 ",
+      "strgy": [
+        "05",
+        "10",
+        "18",
+        "20"
+      ],
+      "evalb": [
+        "F3"
+      ],
+      "strgy_name": [
+        "實驗實習",
+        "小組討論及活動",
+        "主動學習",
+        "協作學習"
+      ],
+      "strgy_name_en": [
+        "Experimental practice",
+        "Group activity & discussion",
+        "Active Learning, AL",
+        "Collaborative Learning, CoL"
+      ],
+      "evalb_name": [
+        "小組討論"
+      ],
+      "evalb_name_en": [
+        "Group discussion"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CS03132",
+          "sub_id": "43096",
+          "scr_dup": "001",
+          "seq": 5,
+          "strgy_id": "05",
+          "strgy_name": null,
+          "strgy_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CS03132",
+          "sub_id": "43096",
+          "scr_dup": "001",
+          "seq": 5,
+          "strgy_id": "10",
+          "strgy_name": null,
+          "strgy_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CS03132",
+          "sub_id": "43096",
+          "scr_dup": "001",
+          "seq": 5,
+          "strgy_id": "18",
+          "strgy_name": null,
+          "strgy_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CS03132",
+          "sub_id": "43096",
+          "scr_dup": "001",
+          "seq": 5,
+          "strgy_id": "20",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CS03132",
+          "sub_id": "43096",
+          "scr_dup": "001",
+          "seq": 5,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "F3",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CS03132",
+      "sub_id": "43096",
+      "scr_dup": "001",
+      "seq": 6,
+      "describe_ch": "於規劃及執行研究之過程，培養發掘並解決問題之能力。",
+      "describe_en": "Be able to identify and address problems during planning and executing research projects.",
+      "core_id": "F",
+      "core_item": "發掘、分析、應用研究成果及兼顧永續發展，以解決複雜且整合性材料工程問題的能力。",
+      "core_eng": "The ability to discover, analyze, apply research results, and consider sustainable development to solve complex and integrated materials engineering problems.",
+      "core_level": "3 ",
+      "strgy": [
+        "06",
+        "18",
+        "19"
+      ],
+      "evalb": [
+        "G3"
+      ],
+      "strgy_name": [
+        "課堂檢討",
+        "主動學習",
+        "探索式學習"
+      ],
+      "strgy_name_en": [
+        "In-class discussion",
+        "Active Learning, AL",
+        "Inquiry-based Learning, IBL"
+      ],
+      "evalb_name": [
+        "心得報告"
+      ],
+      "evalb_name_en": [
+        "Report on gained knowledge"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CS03132",
+          "sub_id": "43096",
+          "scr_dup": "001",
+          "seq": 6,
+          "strgy_id": "06",
+          "strgy_name": null,
+          "strgy_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CS03132",
+          "sub_id": "43096",
+          "scr_dup": "001",
+          "seq": 6,
+          "strgy_id": "18",
+          "strgy_name": null,
+          "strgy_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CS03132",
+          "sub_id": "43096",
+          "scr_dup": "001",
+          "seq": 6,
+          "strgy_id": "19",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CS03132",
+          "sub_id": "43096",
+          "scr_dup": "001",
+          "seq": 6,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "G3",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CS03132",
+      "sub_id": "43096",
+      "scr_dup": "001",
+      "seq": 7,
+      "describe_ch": "培養工程專業道德與團隊責任感責任感",
+      "describe_en": "Be able to maintain engineering ethic and responsibility as a research team member.",
+      "core_id": "H",
+      "core_item": "理解及應用專業與資訊倫理，認知社會責任及尊重多元觀點。",
+      "core_eng": "Understand and apply professional and information ethics, recognize social responsibility and respect diverse perspectives.",
+      "core_level": "5 ",
+      "strgy": [
+        "20",
+        "23"
+      ],
+      "evalb": [
+        "G3",
+        "L3"
+      ],
+      "strgy_name": [
+        "協作學習",
+        "專題導向學習"
+      ],
+      "strgy_name_en": [
+        "Collaborative Learning, CoL",
+        "Project-based Learning, PjBL"
+      ],
+      "evalb_name": [
+        "心得報告",
+        "課堂討論參與"
+      ],
+      "evalb_name_en": [
+        "Report on gained knowledge",
+        "Participation"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CS03132",
+          "sub_id": "43096",
+          "scr_dup": "001",
+          "seq": 7,
+          "strgy_id": "20",
+          "strgy_name": null,
+          "strgy_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CS03132",
+          "sub_id": "43096",
+          "scr_dup": "001",
+          "seq": 7,
+          "strgy_id": "23",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CS03132",
+          "sub_id": "43096",
+          "scr_dup": "001",
+          "seq": 7,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "G3",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CS03132",
+          "sub_id": "43096",
+          "scr_dup": "001",
+          "seq": 7,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "L3",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CS03132",
+      "sub_id": "43096",
+      "scr_dup": "001",
+      "seq": 8,
+      "describe_ch": "從課程訓練中，培養學生解決複雜整合性問題，主動、終身學習之能力。",
+      "describe_en": "From these training courses, students ought to resolve complicated and integrated problems, and will be able to",
+      "core_id": "G",
+      "core_item": "認識時事議題，瞭解材料工程技術對環境永續、社會共好及全球發展的影響，並培養持續學習的習慣與能力。",
+      "core_eng": "Understand current issues, understand the impact of material engineering technology on environmental sustainability, social good, and global development, and cultivate the habit and ability of continuous learning.",
+      "core_level": "5 ",
+      "strgy": [
+        "03",
+        "04",
+        "10",
+        "23"
+      ],
+      "evalb": [
+        "G3",
+        "G5"
+      ],
+      "strgy_name": [
+        "個案討論",
+        "專題討論",
+        "小組討論及活動",
+        "專題導向學習"
+      ],
+      "strgy_name_en": [
+        "Case study",
+        "Seminar",
+        "Group activity & discussion",
+        "Project-based Learning, PjBL"
+      ],
+      "evalb_name": [
+        "心得報告",
+        "書面報告"
+      ],
+      "evalb_name_en": [
+        "Report on gained knowledge",
+        "Writing report"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CS03132",
+          "sub_id": "43096",
+          "scr_dup": "001",
+          "seq": 8,
+          "strgy_id": "03",
+          "strgy_name": null,
+          "strgy_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CS03132",
+          "sub_id": "43096",
+          "scr_dup": "001",
+          "seq": 8,
+          "strgy_id": "04",
+          "strgy_name": null,
+          "strgy_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CS03132",
+          "sub_id": "43096",
+          "scr_dup": "001",
+          "seq": 8,
+          "strgy_id": "10",
+          "strgy_name": null,
+          "strgy_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CS03132",
+          "sub_id": "43096",
+          "scr_dup": "001",
+          "seq": 8,
+          "strgy_id": "23",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CS03132",
+          "sub_id": "43096",
+          "scr_dup": "001",
+          "seq": 8,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "G3",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CS03132",
+          "sub_id": "43096",
+          "scr_dup": "001",
+          "seq": 8,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "G5",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CS03132",
+      "sub_id": "43096",
+      "scr_dup": "001",
+      "seq": 9,
+      "describe_ch": "理解三大材料專業學程含高性能合金與積層製造、奈米電子元件與智慧感測、再生能源材料與永續發展領域技術原理及應用",
+      "describe_en": "Understanding the technical principles and applications of the three major materials professional programs, including high-performance alloys and additive manufacturing, nanoelectronic devices and smart sensing, renewable energy materials and sustainable development.",
+      "core_id": "A",
+      "core_item": "運用數學、材料科學及工程知識的能力。",
+      "core_eng": "Possess fundamental mathematical and materials science and engineering skills.",
+      "core_level": "5 ",
+      "strgy": [
+        "03",
+        "04"
+      ],
+      "evalb": [
+        "G3",
+        "G5"
+      ],
+      "strgy_name": [
+        "個案討論",
+        "專題討論"
+      ],
+      "strgy_name_en": [
+        "Case study",
+        "Seminar"
+      ],
+      "evalb_name": [
+        "心得報告",
+        "書面報告"
+      ],
+      "evalb_name_en": [
+        "Report on gained knowledge",
+        "Writing report"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CS03132",
+          "sub_id": "43096",
+          "scr_dup": "001",
+          "seq": 9,
+          "strgy_id": "03",
+          "strgy_name": null,
+          "strgy_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CS03132",
+          "sub_id": "43096",
+          "scr_dup": "001",
+          "seq": 9,
+          "strgy_id": "04",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CS03132",
+          "sub_id": "43096",
+          "scr_dup": "001",
+          "seq": 9,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "G3",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CS03132",
+          "sub_id": "43096",
+          "scr_dup": "001",
+          "seq": 9,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "G5",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    }
+  ],
+  "topicSdgs": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CS03132",
+      "sub_id": "43096",
+      "scr_dup": "001",
+      "sdgs_seq": 8,
+      "main_related": "N",
+      "ind_related": "Y",
+      "iss_name": "經濟成長面",
+      "iss_ename": "Economic Growth",
+      "content_name": "永續能源",
+      "content_ename": "Affordable and Clean Energy"
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CS03132",
+      "sub_id": "43096",
+      "scr_dup": "001",
+      "sdgs_seq": 14,
+      "main_related": "N",
+      "ind_related": "Y",
+      "iss_name": "環境保護面",
+      "iss_ename": "Environmental Protection",
+      "content_name": "減緩氣候變遷",
+      "content_ename": "Climate Action"
+    }
+  ],
+  "topicAiIndicators": [],
+  "learnHours": {
+    "total": 0.0,
+    "tpdOnlineAsyTotal": 0.0,
+    "tpdOnlineSynTotal": 0.0,
+    "tpdOnlineFaceTotal": 0.0,
+    "asySynInTotalPercent": 0.0
+  },
+  "crossVerYear": 114
+}

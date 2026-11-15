@@ -1,0 +1,438 @@
+{
+  "teacherId": "T93144",
+  "name": "孫道中",
+  "mainUnit": "工程與科學學院",
+  "detailUnit": "材料科學與工程學系",
+  "skill": [
+    "高清淨金屬High cleanness metal",
+    "鋼鐵製程 Processing of iron and steel",
+    "特殊鋼製造Specialty steel making",
+    "高熵合金High-entropy alloy",
+    "抗菌不鏽鋼Anti-bacteria stainless steel",
+    "高熵合金High-entropy alloy",
+    "無鎳高氮不鏽鋼Nickel free high nitrogen stainless steel"
+  ],
+  "edu": [
+    "猶他大學 冶金工程系 博士",
+    "國立清華大學 材料科學工程學系 學士"
+  ],
+  "fcuExp": [
+    "材料科學與工程學系 助理教授",
+    "材料科學與工程學系 副教授",
+    "材料科學與工程學系 教授",
+    "材料科學與工程學系 教授",
+    "材料科學與工程學系 教授"
+  ],
+  "currjob": [],
+  "otherExp": [
+    "工研院 材料所 研究員",
+    "華新卡本特特殊鋼股  高級工程師",
+    "經濟部 技術處 研究員"
+  ],
+  "journal": [
+    {
+      "論文名稱": "Effect of Cu on the Interfacial Reaction Between Sn-based Solders and FeCoNiCu Alloys",
+      "期刊名稱": "Intermetallics (SCIE)",
+      "作者群": "Yu-An Shen*, Xiu-Mei Yang#, Cheng-Yu Tsai#, Yu-Hung Ouyang, Ming-Hung Tsai, Tao-Tsung Shun"
+    },
+    {
+      "論文名稱": "Effects of the replacement of Co with Ni on the microstructure, mechanical properties, and age hardening of AlCo1-xCrFeNi1+x high-entropy alloys",
+      "期刊名稱": "Materials (SCIE)",
+      "作者群": "Che-Fu Lee and Tao-Tsung Shun*"
+    },
+    {
+      "論文名稱": "Age Heat Treatment of Al0.5CoCrFe1.5NiTi0.5 High-Entropy Alloy",
+      "期刊名稱": "metals (SCIE)",
+      "作者群": "Che-Fu Lee and Tao-Tsung Shun*"
+    },
+    {
+      "論文名稱": "The effects of substitution of Co with Ni on microstructure, mechanical properties, and age hardening of Co1-xCrFeNi1+xTi0.3 high-entropy alloys",
+      "期刊名稱": "Materials Sciences & Engineering A (SCIE)",
+      "作者群": "Tao-Tsung Shun*, Chieh-Hsiang Chang"
+    },
+    {
+      "論文名稱": "Effects of Cr content on microstructure and mechanical properties of AlCoCrxFeNi high-entropy alloy",
+      "期刊名稱": "Advances in Materials Science and Engineering (SCIE)",
+      "作者群": "Tao-Tsung Shun* and Wei-Jhe Hung"
+    },
+    {
+      "論文名稱": "Microstructures and properties of Al0.3CoCrFeNiMnx high-entropy alloys",
+      "期刊名稱": "Materials Chemistry and Physics (SCIE)",
+      "作者群": "Sze-Kwan Wong, Tao-Tsung Shun*, Chieh-Hsiang Chang, Che-Fu Lee"
+    },
+    {
+      "論文名稱": "Effects of reducing Co content on microstructure and mechanical properties of CoxCrFeNiTi0.3 high-entropy alloys",
+      "期刊名稱": "Materials Chemistry and Physics (SCIE)",
+      "作者群": "Wei-Jhe Hung, Tao-Tsung Shun*, Cheng-Ju Chiang"
+    },
+    {
+      "論文名稱": "Age heat treatment of the CoCrFeNiTi0.3 high-entropy alloy",
+      "期刊名稱": "Materials Transactions (SCIE)",
+      "作者群": "Tao-Tsung Shun*, Cheng-Ying Hsieh, Wei-Jhe Hung, Che-Fu Lee"
+    },
+    {
+      "論文名稱": "Effect of Fe content on microstructure and mechanical properties of Al0.5CoCrFexNiTi0.5 high-entropy alloys",
+      "期刊名稱": "Materials Characterization (SCIE)",
+      "作者群": "Che-Fu Lee and Tao-Tsung Shun*"
+    },
+    {
+      "論文名稱": "Age Hardening of the Al0.5CoCrNiTi0.5 High-Entropy Alloy",
+      "期刊名稱": "Metallurgical and Materials Transaction A (SCIE)",
+      "作者群": "CHE-FU LEE and TAO-TSUNG SHUN*"
+    },
+    {
+      "論文名稱": "Age-hardening of the CoCrFeNiMo0.85 high-entropy alloy",
+      "期刊名稱": "Materials Characterization (SCIE)",
+      "作者群": "Tao-Tsung Shun*, Liang-Yi Chang, Ming-Hua Shiu"
+    },
+    {
+      "論文名稱": "Microstructures and mechanical properties of multiprincipal component CoCrFeNiTix alloys",
+      "期刊名稱": "Materials Science & Engineering A (SCIE)",
+      "作者群": "Tao-Tsung Shun*, Liang-Yi Chang, Ming-Hua Shiu"
+    },
+    {
+      "論文名稱": "Microstructure and mechanical properties of multiprincipal component CoCrFeNiMox alloys",
+      "期刊名稱": "Materials Characterization (SCIE)",
+      "作者群": "Tao-Tsung Shun*, Liang-Yi Chang, Ming-Hua Shiu"
+    },
+    {
+      "論文名稱": "Microstructure and properties of age-hardenable AlxCrFe1.5MnNi0.5 alloys",
+      "期刊名稱": "Materials Science and Engineering A (SCIE)",
+      "作者群": "Shin-Tsung Chen, Wei-Yeh Tang, Yen-Fu Kuo, Sheng-Yao Chen, Chun-Huei Tsau,Tao-Tsung Shun, Jien-Wei Yeh*"
+    },
+    {
+      "論文名稱": "The effects of secondary elemental Mo or Ti addition in Al0.3CoCrFeNi high-entropy alloy on age hardening at 700 C",
+      "期刊名稱": "Journal of Alloys and Compounds (SCIE)",
+      "作者群": "Tao-Tsung Shun*, Cheng-Hsin Hung, Che-Fu Lee"
+    },
+    {
+      "論文名稱": "Formation of ordered/disordered nanoparticles in FCC high entropy alloys",
+      "期刊名稱": "Journal of Alloys and Compounds (SCIE)",
+      "作者群": "Tao-Tsung Shun*, Cheng-Hsin Hung, Che-Fu Lee"
+    },
+    {
+      "論文名稱": "Deformation and annealing behaviors of high-entropy alloy Al0.5CoCrCuFeNi",
+      "期刊名稱": "Journal of Alloys and Compounds (SCIE)",
+      "作者群": "Che-Wei Tsai a, Yu-Liang Chena, Ming-Hung Tsai a, Jien-Wei Yeha,., Tao-Tsung Shunb, Swe-Kai Chenc"
+    },
+    {
+      "論文名稱": "Age hardening of the Al0.3CoCrFeNiC0.1 high entropy alloy",
+      "期刊名稱": "Journal of Alloys and Compounds (SCIE)",
+      "作者群": "Tao-Tsung Shun., Yu-Chin Du"
+    },
+    {
+      "論文名稱": "Microstructure and tensile behaviors of FCC Al0.3CoCrFeNi high entropy alloy",
+      "期刊名稱": "Journal of Alloys and Compounds (SCIE)",
+      "作者群": "Tao-Tsung Shun., Yu-Chin Du"
+    },
+    {
+      "論文名稱": "The study of the influence of Cr,Mn and liquid alloy temperature on austenitization for nickel-free nitrogen stainless steel in atmospheric melting",
+      "期刊名稱": "Journal of Taiwan Foundry Society ()",
+      "作者群": "Li-Wen Haung,Tao-Tsung Shun,Chu-Wei Shih,I-Hung Chou,Shen Tsao"
+    },
+    {
+      "論文名稱": "鉻、錳及合金液態溫度對常壓熔煉無鎳含氮不♫鋼沃斯田鐵化影響之研究\r\n",
+      "期刊名稱": "鑄造工程學刊 ()",
+      "作者群": "黃禮汶 孫道中 施均崴 周宜弘 曹申"
+    },
+    {
+      "論文名稱": "A Study of Inclusions in Al0,0.5CoCrCuFeNi High Entropy Alloys",
+      "期刊名稱": "Journal of Taiwan Foundry Society ()",
+      "作者群": "Yu-Chin Du,Tao-Tsung Shun"
+    },
+    {
+      "論文名稱": "Al0,0.5CoCrCuFeNi高熵合金介在物研究",
+      "期刊名稱": "鑄造工程學刊 ()",
+      "作者群": "杜宇欽"
+    },
+    {
+      "論文名稱": "On the elemental effect of AlCoCrCuFeNi high-entropy alloy system",
+      "期刊名稱": "Materials latters (SCIE)",
+      "作者群": "Chung-Chin Tung Jien-Wei Yeh, Swe-Kai Chen Yuan-Sheng Huang, Hung-Cheng Chen"
+    },
+    {
+      "論文名稱": "Effect of the Substitution of Co by Mn in Al-Cr-Cu-Fe-Ni High-Entropy Alloys",
+      "期刊名稱": "Annales de chimie-Science des materiaux (SCIE)",
+      "作者群": "Hsuan-You Chen, Che-Wei Tsai, Chung-Chin Tung, Jien-Wei Yeh, Chih-Chao Yang, Swe-Kai Chen"
+    },
+    {
+      "論文名稱": "Mechanical Performance of the AlxCoCrCuFeNi High-Entropy Alloy System with Multiprincipal Elements",
+      "期刊名稱": "Metallurgical and Materials Transactions A ()",
+      "作者群": "CHUNG-JIN TONG, MIN-RUI CHEN, SWE-KAI CHEN, JIEN-WEI YEH, TAO-TSUNG SHUN, SU-JIEN LIN, SHOU-YI CHANG"
+    }
+  ],
+  "journal2": [],
+  "conference": [
+    {
+      "論文名稱": "碳對CrFeNi2Al0.3Ti0.1高熵合金微結構與機械性質的作用",
+      "會議名稱": "2022年材料年會",
+      "作者群": "汪方建璋 孫道中 柯文翔*"
+    },
+    {
+      "論文名稱": "無鈷FCC高熵合金之時效硬化、微結構與機械性質之研究",
+      "會議名稱": "2020材料年會",
+      "作者群": "楊孟宗 孫道中 李哲甫 汪方建璋*"
+    },
+    {
+      "論文名稱": "碳對TRIP高熵合金微結構與機械性質的作用",
+      "會議名稱": "2020材料年會",
+      "作者群": "潘證鈞 孫道中 李哲甫 汪方建璋*"
+    },
+    {
+      "論文名稱": "開發一種含FCC麻田散鐵相的Fe-Cr-Mn-Al-Si-C高熵合金",
+      "會議名稱": "2019材料年會",
+      "作者群": "趙子慶 李哲甫 潘證鈞* 孫道中"
+    },
+    {
+      "論文名稱": "以鎳取代鈷對CoCrFeNiTi0.3 FCC高熵合金微結構與機械性質研究",
+      "會議名稱": "2018材料年會",
+      "作者群": "張傑翔, 吳冠儒*, 孫道中"
+    },
+    {
+      "論文名稱": "Co0.2CrFeNi1.8Ti0.3高熵合金時效硬化",
+      "會議名稱": "2018材料年會",
+      "作者群": "張傑翔, 楊孟宗*, 孫道中"
+    },
+    {
+      "論文名稱": "含α′麻田散鐵相變的FCC高熵合金",
+      "會議名稱": "2018材料年會",
+      "作者群": "鄧立朋, 趙子慶*, 孫道中"
+    },
+    {
+      "論文名稱": "CoxCrFeNiTi0.3高熵合金微結構與硬度研究",
+      "會議名稱": "2016材料年會",
+      "作者群": "洪偉哲  江承儒*  孫道中"
+    },
+    {
+      "論文名稱": "Al0.3CoCrFeNiMnx高熵合金微結構與機械性質研究",
+      "會議名稱": "2016材料年會",
+      "作者群": "黃史軍   張傑翔*    孫道中"
+    },
+    {
+      "論文名稱": "EFFECT OF Ni CONTENT ON MICROSTRUCTURE AND MECHANICAL PROPERTIES OF CoCrFeNiXTi0.3 HIGH-ENTROPY ALLOYS",
+      "會議名稱": "MS&T 2016",
+      "作者群": "Tao-Tsung Shun, Che-Fu Lee*, Cheng-Ying Hsieh"
+    },
+    {
+      "論文名稱": "Cr對AlCoCrFeNi高熵合金微結構與機械性質作用",
+      "會議名稱": "2015材料年會",
+      "作者群": "張翔丞  洪偉哲*  孫道中"
+    },
+    {
+      "論文名稱": "Ni含量的變化對CoCrFeNixTi0.3高熵合金微結構與性質之影響",
+      "會議名稱": "2015材料年會",
+      "作者群": "謝政穎 李哲甫* 孫道中"
+    },
+    {
+      "論文名稱": "Age hardening of the Al0.5CoCrNiTi0.5 high entropy alloy",
+      "會議名稱": "TMS2013 Annual Meeting",
+      "作者群": "C.-F. Lee* and T.-T. Shun"
+    },
+    {
+      "論文名稱": "CoCrFeNiMo1.2高熵合金時效硬化與微結構研究",
+      "會議名稱": "2012中國材料科學學會年會",
+      "作者群": "*張翔丞,許銘化,孫道中"
+    },
+    {
+      "論文名稱": "CoCrFeNiMo0.5 高熵合金600-1000℃時效硬化與微結構研究",
+      "會議名稱": "台灣金屬熱處理學會2011年論文研討會",
+      "作者群": "許銘化* 張良奕 李哲甫 孫道中"
+    },
+    {
+      "論文名稱": "Characteristics of Al0.3CoCrFeNiCx High Entropy Alloys",
+      "會議名稱": "MS&T2011",
+      "作者群": "C.-F. Lee and T.-T. Shun*"
+    },
+    {
+      "論文名稱": "Effects of constituent elements on austenitization for Fe-Cr-Mn high-nitrogen stainless steels",
+      "會議名稱": "MS&T 2010",
+      "作者群": "H.-L. Chen and T.-T. Shun*"
+    },
+    {
+      "論文名稱": "組成元素對Fe-Cr-Mn含氮不銹鋼腐蝕性質之作用",
+      "會議名稱": "中華民國防蝕工程學會 99 年度防蝕工程年會",
+      "作者群": "陳炫霖, 張良奕*, 李哲甫, 孫道中"
+    },
+    {
+      "論文名稱": "Microstructure and Wear Resistance of FCC Al0.3CoCrFeNiCx High Entropy Alloys",
+      "會議名稱": "Materials Science and Technology (MS&T) 2009",
+      "作者群": "T.-T. Shun and Y.-C. Du"
+    },
+    {
+      "論文名稱": "無鎳沃斯田鐵不銹鋼耐腐蝕性",
+      "會議名稱": "98 年度防蝕工程年會",
+      "作者群": "黃禮汶、李哲甫、孫道中"
+    },
+    {
+      "論文名稱": "組成元素對無鎳高氮不鏽鋼沃斯田鐵化與平衡相作用之研究",
+      "會議名稱": "中華民國真空年會",
+      "作者群": "孫道中,陳炫霖"
+    },
+    {
+      "論文名稱": "鉻、錳、及合金液態溫度對常壓熔煉無鎳含氮不銹鋼沃斯田鐵化影響之研究",
+      "會議名稱": "96年度鑄造年會",
+      "作者群": "黃禮汶 孫道中 施均崴 周宜弘 曹申"
+    },
+    {
+      "論文名稱": "Al0.3CoCrFeNiCx高熵合金微結構與磨耗性質研究",
+      "會議名稱": "2007材料年會",
+      "作者群": "杜宇欽 洪吉弘 陳冠澄 孫道中"
+    },
+    {
+      "論文名稱": "Al0.3CoCrFeNiC0.1高熵合金碳化物形成與強化效應之研究",
+      "會議名稱": "2006材料年會",
+      "作者群": "杜宇欽"
+    },
+    {
+      "論文名稱": "Al0,0.5CoCrCuFeNi高熵合金介在物研究",
+      "會議名稱": "2006鑄造年會",
+      "作者群": "杜宇欽"
+    },
+    {
+      "論文名稱": "多元高功能材料之研製與分析",
+      "會議名稱": "2005材料年會",
+      "作者群": "許清賢,王偉仁,孫道中"
+    },
+    {
+      "論文名稱": "C對AlxCoCrCuFeNi高熵合金鑄材顯微組織影響",
+      "會議名稱": "2005台灣鑄造年會",
+      "作者群": "賴竣暉,陳泓政,王偉仁,杜經邦,孫道中"
+    }
+  ],
+  "book": [
+    {
+      "專業書籍": "金屬與塑膠接合面特性研究 (四)",
+      "出版單位": "逢甲大學材料科學與工程學系",
+      "作者群": "李哲甫、孫道中"
+    },
+    {
+      "專業書籍": "金屬與塑膠接合面特性研究(三)",
+      "出版單位": "逢甲大學材料科學與工程學系",
+      "作者群": "李哲甫、孫道中"
+    },
+    {
+      "專業書籍": "金屬與塑膠接合面特性研究 (二)",
+      "出版單位": "逢甲大學材料科學與工程學系",
+      "作者群": "李哲甫、孫道中"
+    },
+    {
+      "專業書籍": "金屬與塑膠接合面特性研究",
+      "出版單位": "逢甲大學材料科學與工程學系",
+      "作者群": "李哲甫、孫道中"
+    },
+    {
+      "專業書籍": "Skutterudite compound FeSb3材料製備技術",
+      "出版單位": "逢甲大學材料科學與工程學系",
+      "作者群": "孫道中、李哲甫"
+    },
+    {
+      "專業書籍": "陶瓷永久模具性能與鑄造不銹鋼界面反應研究",
+      "出版單位": "逢甲大學材料科學與工程學系",
+      "作者群": "孫道中、張良奕"
+    },
+    {
+      "專業書籍": "不銹鋼鑄造與陶瓷模具界面反應評估\r\n",
+      "出版單位": "逢甲大學材料科學與工程學系",
+      "作者群": "孫道中、陳炫霖"
+    }
+  ],
+  "patent": [],
+  "most": [
+    {
+      "name": "開發低成本共晶高熵合金(2/2)",
+      "schoolYear": "112"
+    },
+    {
+      "name": "開發低成本共晶高熵合金(1/2)",
+      "schoolYear": "111"
+    },
+    {
+      "name": "(中興)強韌先進高熵合金之設計與開發(3/3)",
+      "schoolYear": "108"
+    },
+    {
+      "name": "(中興)強韌先進高熵合金之設計與開發(2/3)",
+      "schoolYear": "107"
+    },
+    {
+      "name": "(中興)強韌先進高熵合金之設計與開發",
+      "schoolYear": "106"
+    },
+    {
+      "name": "(應用型)產學合作計畫－新世代銀合金線之合金設計與熔煉研究",
+      "schoolYear": "105"
+    },
+    {
+      "name": "(廠配)樂金股份有限公司(應用型)產學合作計畫－新世代銀合金線之合金設計與熔煉研究",
+      "schoolYear": "105"
+    },
+    {
+      "name": "以鎳取代鈷對AlCo(1-x)CrFeNi(1+x)高熵合金微結構與機械性質的作用",
+      "schoolYear": "104"
+    },
+    {
+      "name": "Fe-Cr-Mn 無鎳沃斯田鐵不♫鋼中的錳當量式與鉻當量式",
+      "schoolYear": "98"
+    },
+    {
+      "name": "組成元素對無鎳高氮不♫鋼沃斯田鐵化與平衡相作用之研究",
+      "schoolYear": "97"
+    },
+    {
+      "name": "鉻、錳、及合金液態溫度對常壓熔煉無鎳高氮不♫鋼沃斯田鐵化影響之研究(重點研究計畫)",
+      "schoolYear": "95"
+    },
+    {
+      "name": "多元高熵合金中碳化物形成與強化效應之研究",
+      "schoolYear": "94"
+    }
+  ],
+  "tech": [],
+  "induAca": [
+    "金屬與塑膠接合面特性研究(四) (2017-01 to 2017-12)",
+    "金屬與塑膠接合面特性研究(三) (2016-01 to 2016-12)",
+    "金屬與塑膠接合面特性研究(二) (2015-01 to 2015-12)",
+    "金屬與塑膠結合面特性研究 (2014-01 to 2014-12)",
+    "腳踏車傳動系統材料分析探討計畫 (2012-06 to 2012-12)",
+    "新型高溫銲錫合金系統研製 (2011-11 to 2012-04)",
+    "腳踏車傳動系統材料分析評估 (2011-10 to 2012-03)",
+    "SnCuNi新型銲錫合金系統研製 (2011-04 to 2011-09)",
+    "Skutterudite compound FeSb3 材料製備技術 (2010-03 to 2010-12)",
+    "陶瓷永久模具性能與鑄造不♫鋼界面反應研究 (2009-10 to 2010-09)",
+    "高熵合金熔煉 (2009-09 to 2009-12)",
+    "高熵合金熔煉 (2009-02 to 2009-06)",
+    "不♫鋼鑄造與陶瓷模具界面反應評估 (2008-12 to 2009-05)",
+    "高熵合金熔煉 (2008-06 to 2008-12)",
+    "不♫鋼培林熱處理氛氛委託試驗 (2006-06 to 2006-08)",
+    "工程及科技教育認證第二屆先導型計畫-材料科學與工程學系 (2005-10 to 2006-09)"
+  ],
+  "perform": [],
+  "reward": [
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (111, 2022-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (111, 2022-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (109, 2020-11) - 逢甲大學",
+    "勤學有禮2.0競賽個別組ˋ優勝 (108, 2019-12) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (108, 2019-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (108, 2019-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (108, 2019-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (108, 2019-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (106, 2017-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (104, 2015-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (103, 2014-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (102, 2013-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (102, 2013-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (100, 2011-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (100, 2011-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (100, 2011-11) - 逢甲大學",
+    "99學年度優良導師 (99, 2011-08) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (99, 2010-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (99, 2010-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (99, 2010-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵 (98, 2009-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (96, 2007-11) - 逢甲大學"
+  ],
+  "speech": [],
+  "material": [],
+  "tal": []
+}

@@ -1,0 +1,658 @@
+{
+  "teacherId": "T94059",
+  "name": "謝宗翰",
+  "mainUnit": "工程與科學學院",
+  "detailUnit": "航太與系統工程學系",
+  "skill": [
+    "計算空氣動力學Computational gasdyanamcs",
+    "高速流力High speed fluid mechanics",
+    "噴射推進熱流及計算Aerothermodynamics & computation of propulsion",
+    "多尺度(微奈米尺度)流力計算Computational multiscales fluidmechanics",
+    "熱氣動力學與計算",
+    "多尺寸熱流",
+    "渦輪噴射引擎熱氣動力與計算",
+    "能源工程"
+  ],
+  "edu": [
+    "德國Hannover大學 機械工程學院 博士",
+    "德國Hannover大學 機械工程學院 碩士",
+    "德國Hannover大學 機械工程學院 學士"
+  ],
+  "fcuExp": [
+    "航太與系統工程學系 助理教授",
+    "航太與系統工程學系 副教授",
+    "航太與系統工程學系 副教授",
+    "航太與系統工程學系 副教授",
+    "航太與系統工程學系 教授"
+  ],
+  "currjob": [],
+  "otherExp": [],
+  "journal": [
+    {
+      "論文名稱": "Flow Effects and Propulsion Performance on Various Single Expansion Ramp Nozzle Configurations of Scramjet Engine",
+      "期刊名稱": "Symmetry-Basel (SCIE)",
+      "作者群": "Tzong-Hann Shieh; Kuei-Wen Lin; Yu-Tso Li"
+    },
+    {
+      "論文名稱": "Formation of Silicide/Spinel Ceramic Composites via Al- and Mg-based Thermitic Combustion Synthesis",
+      "期刊名稱": "Journal of the Australian Ceramic Society (SCIE)",
+      "作者群": "Yeh, C. L.,* Chen, M. C., and Shieh, T. H."
+    },
+    {
+      "論文名稱": "Study of Asian Indexes by a Newly Derived Dynamic Model",
+      "期刊名稱": "PLoS One (SCIE)",
+      "作者群": "Tsung-Jui Chiang-Lin, Yong-Shiuan Lee*, Tzong-Hann Shieh, Chien-Chang Yeh and Shang-Yueh Tsai"
+    },
+    {
+      "論文名稱": "Research on the New Drones Design to Improve Transportation of Supplies and Medical Care for Remote Mountain Area in Taiwan",
+      "期刊名稱": "IEEE Xplore (EI,Inspec)",
+      "作者群": "Yen-Huai  Ma, Tzong-Hann  Shieh*, Lon-Chen Hung, Lin-Chuan Tsai"
+    },
+    {
+      "論文名稱": "Effects of Fe/Si Stoichiometry on Formation of Fe3Si/FeSi-Al2O3 Composites by Aluminothermic Combustion Synthesis",
+      "期刊名稱": "Metals (SCIE)",
+      "作者群": "Yeh, C. L.,* Chen, K. T., and Shieh, T. H."
+    },
+    {
+      "論文名稱": "Study of New Accurate Supplementary Energy Modelling with Multi-Components Based on Newly Developed High Resolution Scheme",
+      "期刊名稱": "International communications in heat and mass transfer (SCIE)",
+      "作者群": "Tzong-Hann Shieh, Meng-Rong Li, Yu-Tso Li"
+    },
+    {
+      "論文名稱": "Numerical Treatment of Parametric Gradient Problems in Source Term by New Difference Methods",
+      "期刊名稱": "Journal of the Chinese Society of Mechanical Engineers (SCIE)",
+      "作者群": "Tzong-Hann Shieh, Meng-Rong Li, Yu-Tso Li, Yung-Ting Chen"
+    },
+    {
+      "論文名稱": "Study of Influencing Characteristics on Boundary-Layer Separation Controlled by Using DBD Plasma Actuator with Modified Model",
+      "期刊名稱": "International Journal of Heat and Mass Transfer (SCIE)",
+      "作者群": "Tzong-Hann Shieh*"
+    },
+    {
+      "論文名稱": "Software and Hardware Environments for Simulation and Verification of an Autonomous Flight Control Based on Fuzzy Logic Control for Small Unmanned Helicopter",
+      "期刊名稱": "IEEE Xplore (EI)",
+      "作者群": "Ying-Chih Lai*, Yu-Chen Ke, Quang Le Tri, Fuh-Sen Yang and Tzong-Hann Shieh"
+    },
+    {
+      "論文名稱": "Aerothermodynamic effects and Modeling of the tangential curvature of guide vanes in an axial turbine stage",
+      "期刊名稱": "International Journal of Rotating Machinery (EI,ESCI)",
+      "作者群": "Tzong-Hann Shieh*"
+    },
+    {
+      "論文名稱": "Aerodynamic Effects of Unsteady Blade-Tower Interaction",
+      "期刊名稱": "Journal of Aeronautics, Astronautics and Aviation (EI)",
+      "作者群": "Tzong-Hann Shieh*, Shy-Yea Lin, Fuh-Sen Yang, Yung-Ting Chen"
+    },
+    {
+      "論文名稱": "Study of High-Order Accurate Limiters for Time-Dependent Contact Discontinuity and Capturing Shock",
+      "期刊名稱": "Numerical Heat Transfer, Part B: Fundamentals (SCIE)",
+      "作者群": "Tzong-Hann Shieh*, Min-Chun Chen"
+    },
+    {
+      "論文名稱": "A Comparative Study of Flux Limiters Using New Numerical Methods in Unsteady Supersonic Flows",
+      "期刊名稱": "Numerical Heat Transfer, Part B: Fundamentals (SCIE)",
+      "作者群": "Tzong-Hann Shieh, Meng-Rong Li*, Yu-Tso Li, Min-Chun Chen"
+    },
+    {
+      "論文名稱": "The space-jump model of the movement of tumor cells and health cells",
+      "期刊名稱": "Abstract and Applied Analysis: Advanced Nonlinear Dynamics o (SCIE)",
+      "作者群": "Meng-Rong Li, Yu-Ju Lin, Tzong-Hann Shieh*"
+    },
+    {
+      "論文名稱": "Numerical and Experimental Analysis of Harmonic Distortion in a Moving-Coil Loudspeaker",
+      "期刊名稱": "Communications in Nonlinear Science and Numerical Simulation (SCIE)",
+      "作者群": "Chun Chang, Chi-Chang Wang, Y.C. Shiah, and J. H. Huang"
+    },
+    {
+      "論文名稱": "The flux model of the movement of tumor cells and health cells using a system of nonlinear heat equations",
+      "期刊名稱": "Journal of Computational Biology (SCIE)",
+      "作者群": "Meng-Rong Li, Yu-Ju Lin, Tzong-Hann Shieh*"
+    },
+    {
+      "論文名稱": "Parabola Method in Ordinary Differential Equation",
+      "期刊名稱": "Taiwanese journal of mathematics (SCIE)",
+      "作者群": "Meng-Rong Li*, Tzong-Hann Shieh, C. Jack Yue, Pin Lee, Yu-Tso Li"
+    },
+    {
+      "論文名稱": "Study of aerodynamical interference for a wind turbine",
+      "期刊名稱": "International communications in heat and mass transfer (SCIE)",
+      "作者群": "S.Y. Lin, T.H. Shieh*"
+    },
+    {
+      "論文名稱": "Numeric treatment of contact discontinuity with multi gases",
+      "期刊名稱": "Journal of computational and applied mathematics (SCIE)",
+      "作者群": "T.H. Shieh*, M.R. Li."
+    },
+    {
+      "論文名稱": "Analysis on numerical results for stage separation with different exhaust holes",
+      "期刊名稱": " International communications in heat and mass transfer (SCIE)",
+      "作者群": "T.H. Shieh*, T.M. Liou, M.R. Li, C.H. Liu, W.J. Wu"
+    },
+    {
+      "論文名稱": "Investigation of an axial turbine stage with tangentially curved guide vanes - Part II: Modelling for throughflow codes",
+      "期刊名稱": "Forschung im Ingenieurwesen - Engineering research (SCIE)",
+      "作者群": "T.H. Shieh* & W. Riess"
+    },
+    {
+      "論文名稱": "Investigation of an axial turbine stage with tangentially curved guide vanes - Part I: Flow structure in the blade channel",
+      "期刊名稱": "Forschung im Ingenieurwesen - Engineering research (SCIE)",
+      "作者群": "T.H. Shieh* & W. Riess"
+    }
+  ],
+  "journal2": [],
+  "conference": [
+    {
+      "論文名稱": "Study on new methods for accurate modeling of energy equation with multi species",
+      "會議名稱": "The 12th Asia Conference on Mechanical and Materials Engineering",
+      "作者群": "Yu-Tso Li and Tzong-Hann Shieh"
+    },
+    {
+      "論文名稱": "Study of Flow Effects for a Sparkjet Actuator",
+      "會議名稱": "2018 AASRC Conference",
+      "作者群": "Tzong-Hann Shieh, Yung-Ting Chen"
+    },
+    {
+      "論文名稱": "An Analysis of Taiwan Stock Index and The TXO Options by The Dynamic Model",
+      "會議名稱": "The 2018 International Conference in Management Sciences and Decision Making (ICMSDM)",
+      "作者群": "Yong-Shiuan Lee, Meng-Rong Li, Tzong-Hann Shieh, Tsung-Jui Chiang Lin, Jack C. Yue"
+    },
+    {
+      "論文名稱": "Simulation and Verification of an Autonomous Flight Control Based on Fuzzy Logic Control for an Unmanned Helicopter",
+      "會議名稱": "International Conference on Control, Automation and Robotics (ICCAR 2017)",
+      "作者群": "Ying-Chih Lai*, Yu-Chen Ke, Quang Le Tri and Fuh-Sen Yang and Tzong-Hann Shieh"
+    },
+    {
+      "論文名稱": "Interference of unsteady flow-field with two mutual movement blades for an aerial surveillance robot",
+      "會議名稱": "International Conference on Robotics and Automaten Science (ICRAS-2016)",
+      "作者群": "Fuh-Sen Yang, Tzong-Hann Shieh*, Chyi-Yeou. Soong, Po-Wen Hwang, Yung-Ming Lee, Chen-Yu Sung"
+    },
+    {
+      "論文名稱": "Parametric Studies on Flow Field of Proportional Valve",
+      "會議名稱": "Twelfth International Conference on Flow Dynamics (ICFD-2015)",
+      "作者群": "Yu-Li Chen, Tzong-Hann Shieh*, Chun-Liang Yeh, Hao-Ting Lin, Ping-Cheng Yu, Po-Hsun Yu"
+    },
+    {
+      "論文名稱": "Study of Unsteady Aerodynamic Effects for a Vertical Axial Wind Turbine",
+      "會議名稱": "The 12th International Symposium on Measurement Technology and Intelligent Instruments (ISMTII 2015)",
+      "作者群": "Tzong-Hann Shieh*, Charng-Chin Hsiao, Yung-Ting Chen, Ya-Tzu Hsu"
+    },
+    {
+      "論文名稱": "Study of Parametric Analysis on Flow Field of Pneumatic Proportional Valve",
+      "會議名稱": "The 12th International Symposium on Measurement Technology and Intelligent Instruments (ISMTII 2015)",
+      "作者群": "Yu-Li Chen, Tzong-Hann Shieh*, Chun-Liang Yeh, Hao-Ting Lin, Yung-Ting Chen, Ping-Cheng Yu and Po-Hsun Yu"
+    },
+    {
+      "論文名稱": "Study of Flow Control Using Plasma Actuator",
+      "會議名稱": "The 12th International Symposium on Measurement Technology and Intelligent Instruments (ISMTII 2015)",
+      "作者群": "Yung-Ting Chen, Tzong-Hann Shieh*, Ya-Ting Hsu"
+    },
+    {
+      "論文名稱": "Study of Various Numeric Treatments for Flux Limiters",
+      "會議名稱": "The 12th International Symposium on Measurement Technology and Intelligent Instruments (ISMTII 2015)",
+      "作者群": "Yu-Tso Li, Tzong-Hann Shieh*, Meng-Rong Li"
+    },
+    {
+      "論文名稱": "Numerical Computation of Rotor-Induced Aerodynamic Flow for Parametric Analysis of Coaxial Rotor System Design",
+      "會議名稱": "9th International Conference on Advanced Computational Engineering and Experimenting (ACEX-2015)",
+      "作者群": "T.H. Shieh*, C.Y. Soong, P.W. Hwang, Y.M. Lee, Y.T. Chen, C.Y Soong"
+    },
+    {
+      "論文名稱": "介電質電漿流參數特性研究",
+      "會議名稱": "21th National Computational Fluid Dynamics Conference",
+      "作者群": "謝宗翰*、陳勇廷"
+    },
+    {
+      "論文名稱": "小型垂直軸水力發電機葉片流場特性研究",
+      "會議名稱": "21th National Computational Fluid Dynamics Conference",
+      "作者群": "謝宗翰*、陳勇廷"
+    },
+    {
+      "論文名稱": "Study of Aerodynamic Performance for Waverider Configuration",
+      "會議名稱": "21th National Computational Fluid Dynamics Conference",
+      "作者群": "Tzong-Hann Shieh*, Kai Tung, Yang"
+    },
+    {
+      "論文名稱": "Thermal Flows Simulation and Measurement of Cooling Fins",
+      "會議名稱": "21th National Computational Fluid Dynamics Conference",
+      "作者群": "Tzong-Hann Shieh*, Yu-Jie Chiu, Kai Tung, Yang"
+    },
+    {
+      "論文名稱": "Numerical Treatment of Unsteady Flow for Runge-Kutta Method",
+      "會議名稱": "21th National Computational Fluid Dynamics Conference",
+      "作者群": "Tzong-Hann Shieh*, Meng-Rong Li, Yu-Tso Li"
+    },
+    {
+      "論文名稱": "Numerical Study of Flux Limiters for Supersonic Flows",
+      "會議名稱": "2013 AASRC Conference",
+      "作者群": "13.\tTzong-Hann Shieh*, Meng-Rong Li, Yu-Tso Li, Min-Chun Chen"
+    },
+    {
+      "論文名稱": "Study of Aerothermodynamical Effects for a Waverider Configuration",
+      "會議名稱": "2013 AASRC Conference",
+      "作者群": "Tzong-Hann Shieh*"
+    },
+    {
+      "論文名稱": "磁流變液阻尼器活塞設計參數對磁力之影響特性",
+      "會議名稱": "20th National Computational Fluid Dynamics Conference",
+      "作者群": "14.\tYang-Hsu Liao, Chia-Bao Chu, Tzong-Hann Shieh*, Kun-Yuan Lin"
+    },
+    {
+      "論文名稱": "Numerical Study of Unsteady Hypersonic Shock Modelling",
+      "會議名稱": "2012 AASRC Conference",
+      "作者群": "Tzong-Hann Shieh*, Meng-Rong Li, Min-Chun Chen"
+    },
+    {
+      "論文名稱": "Investigation of Non-Equilibrium Hypersonic Aerothermodynamical Interactions",
+      "會議名稱": "2012 AASRC Conference",
+      "作者群": "Tzong-Hann Shieh*, Meng-Rong Li, Chien-Hsun Liao"
+    },
+    {
+      "論文名稱": "Study of Shock Waves/Boundary Layer Interactions on Hypersonic Intake Flows",
+      "會議名稱": "2012 AASRC Conference",
+      "作者群": "Tzong-Hann Shieh*, Meng-Rong Li, Pin-Chian Tseng"
+    },
+    {
+      "論文名稱": "Study on Design Method for Magnetorheological Dampers",
+      "會議名稱": "2012 AASRC Conference",
+      "作者群": "1.\tYang-Hsu Liao, Chia-Bao Chu, Tzong-Hann Shieh*, Kun-Yuan Lin"
+    },
+    {
+      "論文名稱": "Simulation of Shock/Boundary Layer Interactions in a 2-D Hypersonic Intake",
+      "會議名稱": "2011 AASRC Conference",
+      "作者群": "2.\tTzong-Hann Shieh*, Meng-Rong Li, Wei-Jen Lo"
+    },
+    {
+      "論文名稱": "Discussions on Performance Design and Loss Mechanisms of Small Turbo-Expanders with Low Pressure Difference",
+      "會議名稱": "2011 AASRC Conference",
+      "作者群": "1.\tTzong-Hann Shieh*, Jin-Huang Huang, Ying-Sung Hsu, Kuang-Chih Chang, Min-Chun Chen, Yi-Rong Chuo"
+    },
+    {
+      "論文名稱": "A Comparative Investigation of Flux Limiters and Riemann Solvers in Unsteady Flows",
+      "會議名稱": "2010 AASRC Conference",
+      "作者群": "Tzong-Hann Shieh*, C.-C. Hung"
+    },
+    {
+      "論文名稱": "Study of Unsteady Flow Field for Stage Separation Using Dynamic Mesh with 6-DOF",
+      "會議名稱": "2010 AASRC Conference",
+      "作者群": "Tzong-Hann Shieh*, Meng-Rong Li, Yu-Lin Hsueh"
+    },
+    {
+      "論文名稱": "Parallel computational investigation of the two-dimensional unsteady aerodynamics for an upwind wind turbine",
+      "會議名稱": "22nd International Conference on Parallel Computational Fluid Dynamics 2010 (PARCFD 2010)",
+      "作者群": "Shy-Yea Lin, Tzong-Hann Shieh*"
+    },
+    {
+      "論文名稱": "Numerical Investigation of Thermal Stage Separation in 2D Flow Field",
+      "會議名稱": "2009 AASRC/CSCA Joint Conference",
+      "作者群": "Tzong-Hann Shieh*, Meng-Rong Li, W.-S. Wang"
+    },
+    {
+      "論文名稱": "Numerical aspects of shock capturing methods for aerothermodynamics",
+      "會議名稱": "2009 AASRC/CSCA Joint Conference",
+      "作者群": "Tzong-Hann Shieh*, Meng-Rong Li"
+    },
+    {
+      "論文名稱": "Modeling of the radial force for curved blade in an axial turbine stage",
+      "會議名稱": "15th National, Computational Fluid Dynamics Conference",
+      "作者群": "T.H. Shieh*"
+    },
+    {
+      "論文名稱": "Numerical investigation and analysis of unsteady flow field for interstage separation",
+      "會議名稱": "14th National Computational Fluid Dynamics Conference",
+      "作者群": "T.H. Shieh*; T.M. Liou; C.H. Liu; W.J. Wu"
+    },
+    {
+      "論文名稱": "固體火箭發動機過度膨脹噴嘴三維非穩態流場研究",
+      "會議名稱": "95年度國防科技學術合作計畫成果發表會",
+      "作者群": "謝宗翰*、劉通敏、劉正賢、李福生"
+    },
+    {
+      "論文名稱": "Numerical investigation of the contact discontinuity",
+      "會議名稱": "12th National, Computational Fluid Dynamics Conference",
+      "作者群": "T.H. Shieh*"
+    },
+    {
+      "論文名稱": "Study for Design of Creative Apparel in Combination with Green Materials",
+      "會議名稱": "2015 National Conference on Fashion Design",
+      "作者群": "Ya-Ting Hsu, Ya-Tzu Hsu, Tzong-Hann Shieh*"
+    },
+    {
+      "論文名稱": "Study for Design of Creative Apparel Using Metalworking Materials",
+      "會議名稱": "2015 National Conference on Fashion Design",
+      "作者群": "Ya-Tzu Hsu, Ya-Ting Hsu, Tzong-Hann Shieh*"
+    }
+  ],
+  "book": [
+    {
+      "專業書籍": "同軸雙旋翼無人載具暨監控系統技術-(1/3)",
+      "出版單位": "科技部",
+      "作者群": "宋齊有,許盈松,周天穎,方俊,賴盈誌,謝宗翰,黃,"
+    },
+    {
+      "專業書籍": "應用電漿致動器控制震波與邊界層交互作用之計算與實驗研究",
+      "出版單位": "科技部",
+      "作者群": "謝宗翰, 李明融"
+    },
+    {
+      "專業書籍": "非平衡態下超音速和極音速進氣道熱氣動力耦合特性平行計算與實驗研究-(3/3)",
+      "出版單位": "國科會專題研究計畫完整結案報告",
+      "作者群": "謝宗翰, 李明融"
+    },
+    {
+      "專業書籍": "非線性擾動下高維有界域半線性波方式爆炸解之穩定性研究(I)",
+      "出版單位": "國科會專題研究計畫成果報告",
+      "作者群": "李明融, 謝宗翰"
+    },
+    {
+      "專業書籍": "深層海水及溫泉水溫差發電可行性探討",
+      "出版單位": "經濟部水利署計劃期末報告書",
+      "作者群": "黃錦煌、王啟昌、謝宗翰, et. al."
+    },
+    {
+      "專業書籍": "非線性擾動下三維有界域半線性波方式爆炸解之穩定性研究",
+      "出版單位": "國科會專題研究計畫成果報告",
+      "作者群": "李明融, 謝宗翰"
+    },
+    {
+      "專業書籍": "軸流式風力發電機葉片和結構之氣動力氣彈交互作用研究",
+      "出版單位": "國科會台德國際合作計畫期末報告",
+      "作者群": "謝宗翰, 李明融"
+    },
+    {
+      "專業書籍": "邀請德國太空中心K. Hannemann教授來台訪問計畫",
+      "出版單位": "邀請國際人士短期訪問結案報告",
+      "作者群": "謝宗翰"
+    },
+    {
+      "專業書籍": "非平衡態下超音速和極音速進氣道熱氣動力耦合特性平行計算與實驗研究-(2/3)",
+      "出版單位": "國科會專題研究計畫期中報告",
+      "作者群": "謝宗翰, 李明融"
+    },
+    {
+      "專業書籍": "非平衡態下超音速和極音速進氣道熱氣動力耦合特性平行計算與實驗研究-(2/3)",
+      "出版單位": "國科會專題研究計畫出國心得報告",
+      "作者群": "謝宗翰"
+    },
+    {
+      "專業書籍": "非線性擾動下二維有界域半線性波方程爆炸解之穩定性研究(II)",
+      "出版單位": "國科會專題研究計畫成果報告",
+      "作者群": "李明融, 謝宗翰"
+    },
+    {
+      "專業書籍": "非平衡態下超音速和極音速進氣道熱氣動力耦合特性平行計算與實驗研究-(1/3),",
+      "出版單位": "國科會專題研究計畫期中報告",
+      "作者群": "謝宗翰, 李明融"
+    },
+    {
+      "專業書籍": "非定常熱脫節耦合流場氣動特性之平行計算研究-(2/2)",
+      "出版單位": "國科會專題研究計畫完整成果報告",
+      "作者群": "謝宗翰, 李明融"
+    },
+    {
+      "專業書籍": "非線性擾動下有界域半線性波方程爆炸解之穩定性研究",
+      "出版單位": "國科會專題研究計畫成果報告",
+      "作者群": "李明融, 謝宗翰"
+    },
+    {
+      "專業書籍": "非平衡態下超音速和極音速進氣道熱氣動力耦合特性平行計算與實驗研究-(1/3)",
+      "出版單位": "國科會專題研究計畫出國心得報告",
+      "作者群": "謝宗翰"
+    },
+    {
+      "專業書籍": "非定常熱脫節耦合流場氣動特性之平行計算研究-(1/2)",
+      "出版單位": "國科會專題研究計畫期中報告",
+      "作者群": "謝宗翰, 李明融"
+    },
+    {
+      "專業書籍": "2維半線性波方程式解的暴破集研究",
+      "出版單位": "NSC",
+      "作者群": "李明融, 謝宗翰"
+    },
+    {
+      "專業書籍": "一些n維半線性波方程解的暴破速度與暴破常數研究(II)",
+      "出版單位": "國科會專題研究計畫成果報告",
+      "作者群": "李明融, 謝宗翰"
+    },
+    {
+      "專業書籍": "固體火箭發動機過度膨脹噴嘴三維非穩態流場研究",
+      "出版單位": "中科院95年度學術合作案結案報告",
+      "作者群": "劉通敏、謝宗翰"
+    },
+    {
+      "專業書籍": "一些一維半線性波方程解的暴破集研究",
+      "出版單位": "國科會專題研究計畫成果報告",
+      "作者群": "李明融, 謝宗翰"
+    }
+  ],
+  "patent": [],
+  "most": [
+    {
+      "name": "非平衡態極音速流之PIV量測電漿控制小型超音速燃燒交互作用特性研究(1/3)",
+      "schoolYear": "113"
+    },
+    {
+      "name": "(博士增核)非平衡態極音速流之PIV量測電漿控制小型超音速燃燒交互作用特性研究(1/3)",
+      "schoolYear": "113"
+    },
+    {
+      "name": "(博士增核)應用3D列印技術之N2O與石蠟-ABS實驗室規格混合式火箭燃燒特性及其推進性能研究",
+      "schoolYear": "112"
+    },
+    {
+      "name": "應用3D列印技術之N2O與石蠟-ABS實驗室規格混合式火箭燃燒特性及其推進性能研究",
+      "schoolYear": "112"
+    },
+    {
+      "name": "具電漿射流之Scramjet極音速噴嘴震波-邊界層/膨脹波交互作用之高解析算則數值建模與實驗研究(3/3)",
+      "schoolYear": "110"
+    },
+    {
+      "name": "傾轉式多軸螺旋槳推進之仿生微型無人飛行載具設計",
+      "schoolYear": "110"
+    },
+    {
+      "name": "具電漿射流之Scramjet極音速噴嘴震波-邊界層/膨脹波交互作用之高解析算則數值建模與實驗研究(2/3)",
+      "schoolYear": "109"
+    },
+    {
+      "name": "具葉尖改良之同軸雙旋翼氣彈響應與氣動負載數值與實驗研究(2/2)",
+      "schoolYear": "108"
+    },
+    {
+      "name": "具電漿射流之Scramjet極音速噴嘴震波-邊界層/膨脹波交互作用之高解析算則數值建模與實驗研究(1/3)",
+      "schoolYear": "108"
+    },
+    {
+      "name": "具葉尖改良之同軸雙旋翼氣彈響應與氣動負載數值與實驗研究(1/2)",
+      "schoolYear": "107"
+    },
+    {
+      "name": "基於低溫電漿控制黏性震波耦合流場之計算與實驗研究",
+      "schoolYear": "104"
+    },
+    {
+      "name": "提昇私校研發能量-微水力發電技術與經濟之研究(3/3)",
+      "schoolYear": "103"
+    },
+    {
+      "name": "應用電漿致動器控制震波與邊界層交互作用之計算與實驗研究(二)(三)",
+      "schoolYear": "103"
+    },
+    {
+      "name": "提昇私校研發能量-微水力發電技術與經濟之研究(2/3)",
+      "schoolYear": "102"
+    },
+    {
+      "name": "應用電漿致動器控制震波與邊界層交互作用之計算與實驗研究",
+      "schoolYear": "102"
+    },
+    {
+      "name": "提昇私校研發能量-微水力發電技術與經濟之研究(1/3)",
+      "schoolYear": "101"
+    },
+    {
+      "name": "考慮非平衡熱氣動力干擾之基於黏性震波的超音速至極音速乘波構型研究",
+      "schoolYear": "101"
+    },
+    {
+      "name": "非平衡態下超音速和極音速進氣道熱氣動力耦合特性平行計算與實驗研究(3/3)",
+      "schoolYear": "100"
+    },
+    {
+      "name": "非平衡態下超音速和極音速進氣道熱氣動力耦合特性平行計算與實驗研究(2/3)",
+      "schoolYear": "99"
+    },
+    {
+      "name": "非定常熱脫節耦合流場氣動特性之平行計算研究(2/2)",
+      "schoolYear": "98"
+    },
+    {
+      "name": "非平衡態下超音速和極音速進氣道熱氣動力耦合特性平行計算與實驗研究(1/3)",
+      "schoolYear": "98"
+    },
+    {
+      "name": "非定常熱脫節耦合流場氣動特性之平行計算研究(1/2)",
+      "schoolYear": "97"
+    }
+  ],
+  "tech": [],
+  "induAca": [
+    "無人直升機旋翼氣動力分析及機體結構分析 (2022-07 to 2024-12)",
+    "小型科研火箭研製(C) (2022-02 to 2025-02)",
+    "超音速風洞噴嘴量測系統設計 (2021-06 to 2021-11)",
+    "油壓比例伺服閥電子控制器開發與設計 (2017-12 to 2018-11)",
+    "電控比例閥制動無桿氣壓缸之分析研究 (2016-10 to 2017-01)",
+    "氣動式元件量測系統整合研發 (2016-09 to 2016-11)",
+    "壓力傳感器數字顯示器PPE型與PPD型之研發 (2016-09 to 2017-01)",
+    "壓力傳感器數字顯示器研發 (2015-12 to 2016-08)",
+    "油壓伺服閥數學控制模型開發與設計分析之研究 (2015-04 to 2016-06)",
+    "103年度臺灣氣立股份有限公司與逢甲大學工學院科技人才培育方案 (2015-02 to 2016-07)",
+    "104年度臺灣氣立股份有限公司與逢甲大學工學院科技人才培育方案 (2015-02 to 2015-09)",
+    "高壓氣體增壓元件創意美學設計 (2014-07 to 2016-07)",
+    "微型風力發電機之發電功率模擬與優化 (2014-07 to 2014-09)",
+    "氣壓致動系統比例方向控制閥氣動性能與控制模組整合研發 (2014-07 to 2016-06)",
+    "空油壓傳動元件創意美學設計 (2014-05 to 2016-06)",
+    "結合再生能源之綠建築創意美學設計(諮詢顧問計畫) (2014-01 to 2014-07)",
+    "103年度臺灣氣立股份有限公司與逢甲大學工學院科技人才培育方案 (2014-01 to 2015-03)",
+    "可控式氣壓比例閥與電子式流量計開發研究 (2013-01 to 2014-06)",
+    "可控式磁流變液阻尼器開發研究 (2012-07 to 2013-12)",
+    "1kW風力發電機之CAE流場分析 (2011-09 to 2012-02)",
+    "(註銷)壓力元件多工數據傳輸與藍芽通訊處理之研發計畫 (1970-01 to 1970-01)"
+  ],
+  "perform": [],
+  "reward": [
+    "113年度國科會補助大專校院研究獎勵 (113, 2024-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優等獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (111, 2022-11) - 逢甲大學",
+    "111年度國科會補助大專校院研究獎勵 (111, 2022-10) - 研究發展處",
+    "逢甲大學論文著作獎勵優良獎 (110, 2021-11) - 逢甲大學",
+    "110年度科技部補助大專校院研究獎勵 (110, 2021-10) - 產學合作處",
+    "逢甲大學論文著作獎勵優良獎 (109, 2020-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (109, 2020-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (109, 2020-11) - 逢甲大學",
+    "109年度科技部補助大專校院研究獎勵 (109, 2020-10) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (108, 2019-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (108, 2019-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (108, 2019-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (108, 2019-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (108, 2019-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (107, 2018-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (107, 2018-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (106, 2017-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (106, 2017-11) - 逢甲大學",
+    "106年度科技部獎勵特殊優秀人才 (106, 2017-08) - 產學合作處",
+    "逢甲大學論文著作獎勵傑出獎 (104, 2015-11) - 逢甲大學",
+    "104年度科技部獎勵特殊優秀人才 (104, 2015-08) - 產學合作處",
+    "逢甲大學論文著作獎勵傑出獎 (103, 2014-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (101, 2012-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (101, 2012-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (100, 2011-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (99, 2010-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (99, 2010-11) - 逢甲大學"
+  ],
+  "speech": [
+    {
+      "演講題目": "Numerical aspects of shock capturing methods for aerothermodynamics",
+      "邀請單位": "2009 AASRC/CSCA Joint Conf.",
+      "演講日期": "2009-12"
+    },
+    {
+      "演講題目": "守恆方程與其計算",
+      "邀請單位": "國立政治大學-應用數學系",
+      "演講日期": "2009-01"
+    },
+    {
+      "演講題目": "接觸不連續現象數值計算法",
+      "邀請單位": "國立政治大學-應用數學系",
+      "演講日期": "2007-10"
+    },
+    {
+      "演講題目": "Numerical investigation and analysis of unsteady flow field for interstage separation",
+      "邀請單位": "14th National CFD Conference",
+      "演講日期": "2007-08"
+    },
+    {
+      "演講題目": "高真空壓縮機以及微流體元件",
+      "邀請單位": "台灣流體傳動工業同業公會(TFPA)",
+      "演講日期": "2006-12"
+    },
+    {
+      "演講題目": "飛行的奧秘",
+      "邀請單位": "台中中科扶輪社",
+      "演講日期": "2006-04"
+    },
+    {
+      "演講題目": "多尺度熱流與接觸不連續現象數值計算法",
+      "邀請單位": "香港城市大學數學系",
+      "演講日期": "2006-01"
+    },
+    {
+      "演講題目": "稀薄氣動力-3",
+      "邀請單位": "國立政治大學-應用數學系",
+      "演講日期": "2005-06"
+    },
+    {
+      "演講題目": "稀薄氣動力-2",
+      "邀請單位": "國立政治大學-應用數學系",
+      "演講日期": "2005-05"
+    },
+    {
+      "演講題目": "稀薄氣動力-1",
+      "邀請單位": "國立政治大學-應用數學系",
+      "演講日期": "2005-04"
+    },
+    {
+      "演講題目": "守恆律與氣動力應用-5",
+      "邀請單位": "國立政治大學-應用數學系",
+      "演講日期": "2004-11"
+    },
+    {
+      "演講題目": "守恆律與氣動力應用-2",
+      "邀請單位": "國立政治大學-應用數學系",
+      "演講日期": "2004-10"
+    },
+    {
+      "演講題目": "守恆律與氣動力應用-4",
+      "邀請單位": "國立政治大學-應用數學系",
+      "演講日期": "2004-10"
+    },
+    {
+      "演講題目": "航太機械熱流",
+      "邀請單位": "國立雲林科技大學-機械工程系",
+      "演講日期": "2004-10"
+    },
+    {
+      "演講題目": "守恆律與氣動力應用-1",
+      "邀請單位": "國立政治大學-應用數學系",
+      "演講日期": "2004-10"
+    },
+    {
+      "演講題目": "守恆律與氣動力應用-3",
+      "邀請單位": "國立政治大學-應用數學系",
+      "演講日期": "2004-10"
+    }
+  ],
+  "material": [],
+  "tal": []
+}

@@ -1,0 +1,76 @@
+{
+  "teacherId": "T10242",
+  "name": "周哲維",
+  "mainUnit": "工程與科學學院",
+  "detailUnit": "工業工程與系統管理學系",
+  "skill": [
+    "智慧製造Intelligent Manufacturing",
+    "決策分析Decision Analysis",
+    "工程資料分析與最佳化Engineering Data Analytics and Optimization",
+    "系統模擬System Simulation",
+    "智能營運Intelligent Operation Management"
+  ],
+  "edu": [
+    "國立清華大學 工業工程與工程管理學系 博士",
+    "元智大學 工業工程與管理學系 碩士",
+    "元智大學 工業工程與管理學系 學士"
+  ],
+  "fcuExp": [
+    "工業工程與系統管理學系 助理教授"
+  ],
+  "currjob": [],
+  "otherExp": [
+    "國立清華大學 智慧製造跨院高階主管碩士在職學位學程 約聘助理教授",
+    "國立清華大學 科技部人工智慧製造系統研究中心 執行長",
+    "友達光電 行銷部/製造部 Marketing Manager/IE Manager"
+  ],
+  "journal": [
+    {
+      "論文名稱": "Surrogate-based optimization framework for enhancing SMT process quality and productivity in electronics manufacturing services",
+      "期刊名稱": "The International Journal of Advanced Manufacturing Technology (SCIE)",
+      "作者群": "Ching‑Hung Lee, Kai‑Xiang Lin, Che‑Wei Chou*"
+    },
+    {
+      "論文名稱": "Sustainable scheduling of TFT-LCD cell production: A hybrid dispatching rule and two-phase genetic algorithm",
+      "期刊名稱": "International Journal of Production Economics (SCIE)",
+      "作者群": "Hung-Kai Wang,  Che-Wei Chou*,  Chien-Han Wang,  Li-An Ho"
+    },
+    {
+      "論文名稱": "Digital transformation in manufacturing industries: Effects of firm size, product innovation, and production type",
+      "期刊名稱": "Technological Forecasting and Social Change (SSCI)",
+      "作者群": "Chia-Hung Wu, Che-Wei Chou*, Chen-Fu Chien, Yun-Siang Lin"
+    }
+  ],
+  "journal2": [],
+  "conference": [],
+  "book": [],
+  "patent": [],
+  "most": [
+    {
+      "name": "智能自動物料搬運系統–AMHS資源調度最佳化之研究",
+      "schoolYear": "112"
+    },
+    {
+      "name": "智能自動物料搬運系統–先期管理指標與交通堵塞預測之研究",
+      "schoolYear": "110"
+    }
+  ],
+  "tech": [],
+  "induAca": [
+    "車床加工品質與刀具磨耗AI預診系統開發與應用_第二期(子計畫) (2025-01 to 2025-12)",
+    "LLM服務框架概念驗證與3D藍圖製程辨識 (2024-11 to 2025-05)",
+    "整合3D視覺技術和基因演算法之機械手臂自適應物體堆最佳化技術 (2024-11 to 2025-08)",
+    "車床加工品質與刀具磨耗AI預診系統開發與應用(子計畫:模型微調) (2024-04 to 2024-12)",
+    "自行車生產排程最佳化 (2023-10 to 2024-03)",
+    "整合機器視覺辨識技術之創新應用：鑄造廠生產工件數量監控 (2023-10 to 2024-09)",
+    "建立因材網程式語言類科目AI tutor計畫-以生成式AI增能國民教育程式設計教學 (2023-09 to 2024-12)",
+    "AI風火輪開源平台金屬加工基礎模型開發與場域驗證計畫(子計畫二) (2023-01 to 2023-12)",
+    "半導體智慧製造實務應用人才培育潛力學程 (2022-07 to 2022-11)",
+    "自行車製造廠區數位模擬模型與分析 (2022-04 to 2022-12)"
+  ],
+  "perform": [],
+  "reward": [],
+  "speech": [],
+  "material": [],
+  "tal": []
+}

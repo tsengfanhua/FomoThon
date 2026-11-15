@@ -1,0 +1,628 @@
+{
+  "success": true,
+  "info": {
+    "yms_year": 114.0,
+    "yms_smester": 2.0,
+    "sub_id": "06074",
+    "cls_id": "CE05130",
+    "scr_dup": "001",
+    "sub_id3": "FCME3075",
+    "cls_name": "纖複三",
+    "cls_ename": "Department of Fiber and Composite Materials",
+    "sub_name": "不織布工程實習",
+    "sub_ename": "NON-WOVEN  TECHNOLOGY PRACTICE",
+    "scr_mso": "必修",
+    "scr_mso_en": "Required",
+    "scr_credit": 1.0,
+    "scr_periodly": "(四)03-04",
+    "scr_periodly_eng": "(Thu)03-04",
+    "lang_name": "中文                                                      ",
+    "lang_ename": "Chinese",
+    "scr_room": "待排",
+    "scr_room_eng": "TBD",
+    "scr_teacher": "莊瑀珺",
+    "scr_teacher_eng": "Yu-Chun Chuang",
+    "scr_selcode": "1153",
+    "scr_elearning": "全學期",
+    "scr_elearning_en": "Full semester",
+    "scr_hours": "2",
+    "scr_english": "N",
+    "unt_name": null,
+    "unt_ename": null,
+    "link_traminal": null,
+    "link_traminal_en": null,
+    "scr_ldl": "D",
+    "course_mk": "N",
+    "teams_mk": "N",
+    "sub_title": null,
+    "sub_title_en": null,
+    "sub_describe": null,
+    "sub_describe_en": null,
+    "hasDescription": null,
+    "hasInstructor": null,
+    "hasTA": null,
+    "hasTextBooks": null,
+    "hasReadings": null,
+    "hasiSoftwares": null,
+    "hasAssistSoftwares": null,
+    "hasObjective": null,
+    "hasWeeklyScds": null,
+    "hasGradeRules": null,
+    "hasGradeRuleDescribe": null,
+    "hasIntegrity": null,
+    "hasCoursePol": null,
+    "hasCourseRem": null,
+    "hasObjectiveReleation": null,
+    "hasTopicSdgs": null,
+    "hasTopicAiIndicators": null,
+    "hasSubTitleDesc": null
+  },
+  "subTitleDesc": null,
+  "description": {
+    "sub_id3": null,
+    "sub_name": "不織布工程實習",
+    "sub_ename": "NON-WOVEN  TECHNOLOGY PRACTICE",
+    "describe_ch": "介紹不織布之成型原理及不織布工程中各運動之動作原理。使學習者擁有不織布之理論基礎，並啟發學習者研究與開發的實作能力。",
+    "describe_eh": "To introduce principles of nonwoven formation and the motion of the process. To help the student to build up the foundation of theory and practical training, and to enlighten the study on the topic.",
+    "pre_subname": "",
+    "pre_sub_id3": null,
+    "pre_sub_ename": "",
+    "pre_describe": null,
+    "pre_describe_en": null,
+    "scr_credit": 1.0
+  },
+  "targets": [
+    {
+      "seq": 1,
+      "describe_ch": "探討與瞭解不織布工程各式機器的 操作原理",
+      "describe_en": "To understand the operation principles of nonwoven processes."
+    },
+    {
+      "seq": 2,
+      "describe_ch": "探討與瞭解各種不織布製品的實作 原理",
+      "describe_en": "To study functions and principles of nonwoven in the practical training."
+    },
+    {
+      "seq": 3,
+      "describe_ch": "探討與培養針織及非織物的研究及開發實作能力",
+      "describe_en": "To train up the abilities about the research and development of nonwoven."
+    }
+  ],
+  "teachersInfo": [
+    {
+      "cname": "莊瑀珺",
+      "ename": "Yu-Chun Chuang",
+      "period": "(Mon)06-07 工219,(Wed)03-04 工219",
+      "roletype": 0,
+      "email": "yucchuang@o365.fcu.edu.tw",
+      "ext": "3422"
+    },
+    {
+      "cname": "蔡詩穎",
+      "ename": "蔡詩穎",
+      "period": " ",
+      "roletype": 1,
+      "email": "m1401877@o365.fcu.edu.tw",
+      "ext": " "
+    }
+  ],
+  "textBooks": {
+    "yms_year": 114.0,
+    "yms_smester": 2.0,
+    "cls_id": "CE05130",
+    "sub_id": "06074",
+    "scr_dup": "001",
+    "tpb_seq": 1,
+    "tpb_book": "<div>林敬文，織造學</div>\n\n<div>A R Horrocks and S C Anand，HANDBOOK OF TECHNICAL TEXTILES，Woodhead Publishing Limited.</div>\n",
+    "tpb_book_en": null
+  },
+  "readings": {
+    "yms_year": 114.0,
+    "yms_smester": 2.0,
+    "cls_id": "CE05130",
+    "sub_id": "06074",
+    "scr_dup": "001",
+    "tpc_seq": 1,
+    "tpc_book": "<div>林敬文，織造學</div>\n\n<div>A R Horrocks and S C Anand，HANDBOOK OF TECHNICAL TEXTILES，Woodhead Publishing Limited.</div>\n",
+    "tpc_book_en": null
+  },
+  "iSoftwares": [],
+  "assistSoftwares": [],
+  "weeklyScds": [],
+  "gradeRules": [],
+  "gradeRuleDescribe": {
+    "yms_year": 114.0,
+    "yms_smester": 2.0,
+    "cls_id": "CE05130",
+    "sub_id": "06074",
+    "scr_dup": "001",
+    "tpa_score_new": null,
+    "tpa_score_new_en": null,
+    "course_pol": "學習必須以誠信為基礎，任何學生企圖將自己未製作的作品，作為自己的作品，此行為是為不誠實行為。\n因此，在作業、測驗或任何考核進行時作弊或抄襲的學生或協助他人的行為，該次成績以“0”或“不及格”計，若是累犯，將依逢甲大學學生獎懲辦法提送。\n\n(1) 學生應準時出席上課。如果您的上課時間，無法按時到課，請不要選課。 除非您生病或有緊急情況，否則應在上課前，要準時到達教室，並坐在位子上。如果您有某種原因必須提早下課，請提前告知我。\n(2) 所有學生在課堂上都應尊重每個人，並且在任何時候都應以合理、負責和禮貌的態度行事。\n(3) 上課時請勿講話、閱讀、睡覺或做其他非本課程相關作業，除分組進行討論外，否則應盡量減少邊際對話。如果您正坐在一個可能在上課時和您聊天的人旁邊，請移到另一個座位，以免您屈服於誘惑。\n(4) 當同學簡報或提問時，您應該專心地聆聽。當您簡報時，您應該面對自己的小組或全班同學大聲說話，讓同學能聽清楚。\n(5) 允許使用筆記型電腦或平板等載具，進行課堂記筆記，否則應將其收起。\n(6) 要確保在上課時，將手機、PDA等移動設備收起並保持靜音。",
+    "course_pol_en": null,
+    "course_rem": "1. 出席率會影響平時成績\n2. 課堂中任何疑慮皆可隨時進行發問\n3. 定期查閱iLearn公告、訊息\n4. 課後有任何疑慮亦可透過Teams、iLearn等工具聯絡",
+    "course_rem_en": null,
+    "ais_meno": "<table>\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<div>\n\t\t\t<div>\n\t\t\t<div>\n\t\t\t<div>學習必須以誠信為基礎，任何學生企圖將自己未製作的作品，作為自己的作品，此行為是為不誠實行為。</div>\n\n\t\t\t<div>因此，在作業、測驗或任何考核進行時作弊或抄襲的學生或協助他人的行為，該次成績以&ldquo;0&rdquo;或&ldquo;不及格&rdquo;計，若是累犯，將依逢甲大學學生獎懲辦法提送。</div>\n\t\t\t</div>\n\t\t\t</div>\n\t\t\t</div>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>\n",
+    "ais_meno_en": null,
+    "ilearn_mk": null
+  },
+  "integrity": {
+    "yms_year": 114.0,
+    "yms_smester": 2.0,
+    "cls_id": "CE05130",
+    "sub_id": "06074",
+    "scr_dup": "001",
+    "tpa_score_new": null,
+    "tpa_score_new_en": null,
+    "course_pol": "學習必須以誠信為基礎，任何學生企圖將自己未製作的作品，作為自己的作品，此行為是為不誠實行為。\n因此，在作業、測驗或任何考核進行時作弊或抄襲的學生或協助他人的行為，該次成績以“0”或“不及格”計，若是累犯，將依逢甲大學學生獎懲辦法提送。\n\n(1) 學生應準時出席上課。如果您的上課時間，無法按時到課，請不要選課。 除非您生病或有緊急情況，否則應在上課前，要準時到達教室，並坐在位子上。如果您有某種原因必須提早下課，請提前告知我。\n(2) 所有學生在課堂上都應尊重每個人，並且在任何時候都應以合理、負責和禮貌的態度行事。\n(3) 上課時請勿講話、閱讀、睡覺或做其他非本課程相關作業，除分組進行討論外，否則應盡量減少邊際對話。如果您正坐在一個可能在上課時和您聊天的人旁邊，請移到另一個座位，以免您屈服於誘惑。\n(4) 當同學簡報或提問時，您應該專心地聆聽。當您簡報時，您應該面對自己的小組或全班同學大聲說話，讓同學能聽清楚。\n(5) 允許使用筆記型電腦或平板等載具，進行課堂記筆記，否則應將其收起。\n(6) 要確保在上課時，將手機、PDA等移動設備收起並保持靜音。",
+    "course_pol_en": null,
+    "course_rem": "1. 出席率會影響平時成績\n2. 課堂中任何疑慮皆可隨時進行發問\n3. 定期查閱iLearn公告、訊息\n4. 課後有任何疑慮亦可透過Teams、iLearn等工具聯絡",
+    "course_rem_en": null,
+    "ais_meno": "<table>\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<div>\n\t\t\t<div>\n\t\t\t<div>\n\t\t\t<div>學習必須以誠信為基礎，任何學生企圖將自己未製作的作品，作為自己的作品，此行為是為不誠實行為。</div>\n\n\t\t\t<div>因此，在作業、測驗或任何考核進行時作弊或抄襲的學生或協助他人的行為，該次成績以&ldquo;0&rdquo;或&ldquo;不及格&rdquo;計，若是累犯，將依逢甲大學學生獎懲辦法提送。</div>\n\t\t\t</div>\n\t\t\t</div>\n\t\t\t</div>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>\n",
+    "ais_meno_en": null,
+    "ilearn_mk": null
+  },
+  "policy": {
+    "yms_year": 114.0,
+    "yms_smester": 2.0,
+    "cls_id": "CE05130",
+    "sub_id": "06074",
+    "scr_dup": "001",
+    "tpa_score_new": null,
+    "tpa_score_new_en": null,
+    "course_pol": "學習必須以誠信為基礎，任何學生企圖將自己未製作的作品，作為自己的作品，此行為是為不誠實行為。\n因此，在作業、測驗或任何考核進行時作弊或抄襲的學生或協助他人的行為，該次成績以“0”或“不及格”計，若是累犯，將依逢甲大學學生獎懲辦法提送。\n\n(1) 學生應準時出席上課。如果您的上課時間，無法按時到課，請不要選課。 除非您生病或有緊急情況，否則應在上課前，要準時到達教室，並坐在位子上。如果您有某種原因必須提早下課，請提前告知我。\n(2) 所有學生在課堂上都應尊重每個人，並且在任何時候都應以合理、負責和禮貌的態度行事。\n(3) 上課時請勿講話、閱讀、睡覺或做其他非本課程相關作業，除分組進行討論外，否則應盡量減少邊際對話。如果您正坐在一個可能在上課時和您聊天的人旁邊，請移到另一個座位，以免您屈服於誘惑。\n(4) 當同學簡報或提問時，您應該專心地聆聽。當您簡報時，您應該面對自己的小組或全班同學大聲說話，讓同學能聽清楚。\n(5) 允許使用筆記型電腦或平板等載具，進行課堂記筆記，否則應將其收起。\n(6) 要確保在上課時，將手機、PDA等移動設備收起並保持靜音。",
+    "course_pol_en": null,
+    "course_rem": "1. 出席率會影響平時成績\n2. 課堂中任何疑慮皆可隨時進行發問\n3. 定期查閱iLearn公告、訊息\n4. 課後有任何疑慮亦可透過Teams、iLearn等工具聯絡",
+    "course_rem_en": null,
+    "ais_meno": "<table>\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<div>\n\t\t\t<div>\n\t\t\t<div>\n\t\t\t<div>學習必須以誠信為基礎，任何學生企圖將自己未製作的作品，作為自己的作品，此行為是為不誠實行為。</div>\n\n\t\t\t<div>因此，在作業、測驗或任何考核進行時作弊或抄襲的學生或協助他人的行為，該次成績以&ldquo;0&rdquo;或&ldquo;不及格&rdquo;計，若是累犯，將依逢甲大學學生獎懲辦法提送。</div>\n\t\t\t</div>\n\t\t\t</div>\n\t\t\t</div>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>\n",
+    "ais_meno_en": null,
+    "ilearn_mk": null
+  },
+  "courseBankC": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CE05130",
+      "sub_id": "06074",
+      "scr_dup": "001",
+      "seq": 1,
+      "describe_ch": "探討與瞭解不織布工程各式機器的 操作原理",
+      "describe_en": "To understand the operation principles of nonwoven processes.",
+      "core_id": "B",
+      "core_item": "應用技能、技術與現代工程工具的能力。",
+      "core_eng": "Develop skills and tools in modern engineering.",
+      "core_level": "2 ",
+      "strgy": [
+        "05",
+        "08",
+        "10"
+      ],
+      "evalb": [
+        "D4",
+        "K3",
+        "L3",
+        "L4"
+      ],
+      "strgy_name": [
+        "實驗實習",
+        "書面報告",
+        "小組討論及活動"
+      ],
+      "strgy_name_en": [
+        "Experimental practice",
+        "Written report",
+        "Group activity & discussion"
+      ],
+      "evalb_name": [
+        "作業",
+        "上課即時問與答",
+        "課堂討論參與",
+        "出席狀況"
+      ],
+      "evalb_name_en": [
+        "Homework",
+        "In-class oral assessment",
+        "Participation",
+        "Attendances"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE05130",
+          "sub_id": "06074",
+          "scr_dup": "001",
+          "seq": 1,
+          "strgy_id": "05",
+          "strgy_name": null,
+          "strgy_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE05130",
+          "sub_id": "06074",
+          "scr_dup": "001",
+          "seq": 1,
+          "strgy_id": "08",
+          "strgy_name": null,
+          "strgy_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE05130",
+          "sub_id": "06074",
+          "scr_dup": "001",
+          "seq": 1,
+          "strgy_id": "10",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE05130",
+          "sub_id": "06074",
+          "scr_dup": "001",
+          "seq": 1,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D4",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE05130",
+          "sub_id": "06074",
+          "scr_dup": "001",
+          "seq": 1,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "K3",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE05130",
+          "sub_id": "06074",
+          "scr_dup": "001",
+          "seq": 1,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "L3",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE05130",
+          "sub_id": "06074",
+          "scr_dup": "001",
+          "seq": 1,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "L4",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CE05130",
+      "sub_id": "06074",
+      "scr_dup": "001",
+      "seq": 2,
+      "describe_ch": "探討與瞭解各種不織布製品的實作 原理",
+      "describe_en": "To study functions and principles of nonwoven in the practical training.",
+      "core_id": "C",
+      "core_item": "具備構思、創新、設計與執行工程專題，以及分析與解釋數據的能力。",
+      "core_eng": "Develop ability to conceive, design, and execute engineering projects, and to analyze and interpret data.",
+      "core_level": "3 ",
+      "strgy": [
+        "05",
+        "08",
+        "10"
+      ],
+      "evalb": [
+        "D4",
+        "K3",
+        "L3",
+        "L4"
+      ],
+      "strgy_name": [
+        "實驗實習",
+        "書面報告",
+        "小組討論及活動"
+      ],
+      "strgy_name_en": [
+        "Experimental practice",
+        "Written report",
+        "Group activity & discussion"
+      ],
+      "evalb_name": [
+        "作業",
+        "上課即時問與答",
+        "課堂討論參與",
+        "出席狀況"
+      ],
+      "evalb_name_en": [
+        "Homework",
+        "In-class oral assessment",
+        "Participation",
+        "Attendances"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE05130",
+          "sub_id": "06074",
+          "scr_dup": "001",
+          "seq": 2,
+          "strgy_id": "05",
+          "strgy_name": null,
+          "strgy_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE05130",
+          "sub_id": "06074",
+          "scr_dup": "001",
+          "seq": 2,
+          "strgy_id": "08",
+          "strgy_name": null,
+          "strgy_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE05130",
+          "sub_id": "06074",
+          "scr_dup": "001",
+          "seq": 2,
+          "strgy_id": "10",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE05130",
+          "sub_id": "06074",
+          "scr_dup": "001",
+          "seq": 2,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D4",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE05130",
+          "sub_id": "06074",
+          "scr_dup": "001",
+          "seq": 2,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "K3",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE05130",
+          "sub_id": "06074",
+          "scr_dup": "001",
+          "seq": 2,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "L3",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE05130",
+          "sub_id": "06074",
+          "scr_dup": "001",
+          "seq": 2,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "L4",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CE05130",
+      "sub_id": "06074",
+      "scr_dup": "001",
+      "seq": 3,
+      "describe_ch": "探討與培養針織及非織物的研究及開發實作能力",
+      "describe_en": "To train up the abilities about the research and development of nonwoven.",
+      "core_id": "D",
+      "core_item": "具備專案管理、溝通協調與團隊合作暨終身學習意願的能力。",
+      "core_eng": "Develop project management, communication, teamwork, and lifelong learning capability.",
+      "core_level": "4 ",
+      "strgy": [
+        "05",
+        "08",
+        "10"
+      ],
+      "evalb": [
+        "D4",
+        "K3",
+        "L3",
+        "L4"
+      ],
+      "strgy_name": [
+        "實驗實習",
+        "書面報告",
+        "小組討論及活動"
+      ],
+      "strgy_name_en": [
+        "Experimental practice",
+        "Written report",
+        "Group activity & discussion"
+      ],
+      "evalb_name": [
+        "作業",
+        "上課即時問與答",
+        "課堂討論參與",
+        "出席狀況"
+      ],
+      "evalb_name_en": [
+        "Homework",
+        "In-class oral assessment",
+        "Participation",
+        "Attendances"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE05130",
+          "sub_id": "06074",
+          "scr_dup": "001",
+          "seq": 3,
+          "strgy_id": "05",
+          "strgy_name": null,
+          "strgy_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE05130",
+          "sub_id": "06074",
+          "scr_dup": "001",
+          "seq": 3,
+          "strgy_id": "08",
+          "strgy_name": null,
+          "strgy_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE05130",
+          "sub_id": "06074",
+          "scr_dup": "001",
+          "seq": 3,
+          "strgy_id": "10",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE05130",
+          "sub_id": "06074",
+          "scr_dup": "001",
+          "seq": 3,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D4",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE05130",
+          "sub_id": "06074",
+          "scr_dup": "001",
+          "seq": 3,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "K3",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE05130",
+          "sub_id": "06074",
+          "scr_dup": "001",
+          "seq": 3,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "L3",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE05130",
+          "sub_id": "06074",
+          "scr_dup": "001",
+          "seq": 3,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "L4",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    }
+  ],
+  "topicSdgs": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CE05130",
+      "sub_id": "06074",
+      "scr_dup": "001",
+      "sdgs_seq": 10,
+      "main_related": "N",
+      "ind_related": "Y",
+      "iss_name": "經濟成長面",
+      "iss_ename": "Economic Growth",
+      "content_name": "研發創新和建立工業建設",
+      "content_ename": "Industry, Innovation and Infrastructure"
+    }
+  ],
+  "topicAiIndicators": [],
+  "learnHours": {
+    "total": 0.0,
+    "tpdOnlineAsyTotal": 0.0,
+    "tpdOnlineSynTotal": 0.0,
+    "tpdOnlineFaceTotal": 0.0,
+    "asySynInTotalPercent": 0.0
+  },
+  "crossVerYear": 114
+}

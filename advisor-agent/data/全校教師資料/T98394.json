@@ -1,0 +1,735 @@
+{
+  "teacherId": "T98394",
+  "name": "馬仕信",
+  "mainUnit": "工程與科學學院",
+  "detailUnit": "光電科學與工程學系",
+  "skill": [
+    "成像與非成像光學設計與系統開發Development and optical design of imaging and non-imaging optical systemSolid-state light source lighting design and optical simulation analysis",
+    "光散射元件開發與應用Development and application of optical diffuser",
+    "體積全像亂相編碼光資訊處理Random phase multiplexing in volume hologram",
+    "無光罩曝光系統開發Development of maskless exposure system",
+    "生醫光學系統設計與開發Development and design of biomedical optical system",
+    "太空光學系統設計與開發Development design of space optical systems"
+  ],
+  "edu": [
+    "中央大學 光電科學研究所 博士",
+    "中正大學 物理研究所 碩士",
+    "中原大學 物理學系 學士"
+  ],
+  "fcuExp": [
+    "光電學系 助理教授",
+    "光電學系 副教授",
+    "光電科學與工程學系 副教授",
+    "光電科學與工程學系 教授"
+  ],
+  "currjob": [],
+  "otherExp": [
+    "德霖技術學院 光電工程系 助理教授",
+    "中央大學 光電科學研究中心 博士後研究人員"
+  ],
+  "journal": [
+    {
+      "論文名稱": "Improvement of imaging quality with a donut-shaped LED fill light for smartphone flashlight",
+      "期刊名稱": "Optics Express (SCIE)",
+      "作者群": "Ching-Cherng Sun, Po-Yuan Chen, Chih-Shou Wu, Tsung-Hsun Yang, Yeh-Wei Yu, Shih-Hsin Ma*"
+    },
+    {
+      "論文名稱": "Optical Design of Low Beam Headlight and Channel Modelling for Visible Light Vehicular Communication",
+      "期刊名稱": "International Journal of Electrical and Electronics Engineering (Scopus)",
+      "作者群": "Charu Priya S, Deepa T*, Shih-Hsin Ma, Po-Sung Huang, Cheng-Hung Tsai"
+    },
+    {
+      "論文名稱": "Drawing the light paths at a lens to find its effective focal length and principal \nplanes",
+      "期刊名稱": "The Physics Teacher (SCIE)",
+      "作者群": "Shih-Hsin Ma, Jun-Yi Wu, Chun-Ming Chiang*"
+    },
+    {
+      "論文名稱": "Application of optical paths drawing technology: the light intensity problem of double-slit interference",
+      "期刊名稱": "The Physics Teacher (SCIE)",
+      "作者群": "Chun-Ming Chiang*, Shih-Hsin Ma, Shou-Tai Lin, Wel-Hung Hsu, Pin-Jui Huang"
+    },
+    {
+      "論文名稱": "Optimization of Photobiomodulation Dose in Biological Tissue by Adjusting the Focal Point of Lens",
+      "期刊名稱": "Photonics (SCIE)",
+      "作者群": "Chuan-Tsung Su, Fu-Chien Chiu, Shih-Hsin Ma and Jih-Huah Wu*"
+    },
+    {
+      "論文名稱": "Passive anti-sunlight glare traffic signs with non-axisymmetric freeform lens design",
+      "期刊名稱": "Optics Express (SCIE)",
+      "作者群": "Shih-Hsin Ma* Ting-Jou Ding, Tsung-Xian Lee, Yu-Xiang Lin, Yung-Yi Chen"
+    },
+    {
+      "論文名稱": "Detection of Scratch on Transparent Plate with Strong Scattering Noise by Digital Holographic Technique",
+      "期刊名稱": "Crystals (SCIE)",
+      "作者群": "Yeh-Wei Yu,  Wen-Li Wang, Yong-Sheng Lin, Han-Shin Ko, Shih-Hsin Ma*, Ching-Cherng Sun,  Wen-Hsuan Wu and Tsung-Hsun Yang"
+    },
+    {
+      "論文名稱": "Optical profile: A key determinant of antibacterial efficacy of photodynamic therapy in dentistry",
+      "期刊名稱": "Photodiagnosis and Photodynamic Therapy (SCIE)",
+      "作者群": "Chuan-Tsung Su, Chun-Ju Chen, Chung-Ming Chen, Chun-Cheng Chen, Shih-Hsin Ma, Jih-Huah Wu*"
+    },
+    {
+      "論文名稱": "Optical design of dual-elliptical mirrors of near-infrared absorption spectroscopy for diabetes detection",
+      "期刊名稱": "Optical Engineering (SCIE)",
+      "作者群": "Ting-Jou Ding, Shih-Hsin Ma,* and Ker-Ching Chang"
+    },
+    {
+      "論文名稱": "Advanced LED Solid-State Lighting Optics",
+      "期刊名稱": "Crystals (SCIE)",
+      "作者群": "Ching-Cherng Sun*, Shih-Hsin Ma and Quang-Khoi Nguyen"
+    },
+    {
+      "論文名稱": "Optical Design of an LED Lighting Source for Fluorescence Microscopes",
+      "期刊名稱": "Applied Sciences (SCIE)",
+      "作者群": "Tai-Chih Kuo, Ting-Jou Ding, Jui-Hui Lin, and Shih-Hsin Ma*"
+    },
+    {
+      "論文名稱": "Achromatic LED-based Projection Lens Design for Automobile Headlamp",
+      "期刊名稱": "OPTIK (SCIE)",
+      "作者群": "Shih-Hsin Ma*, Chi-Hung Lee, Chia-Hsian Yang"
+    },
+    {
+      "論文名稱": "3-D Optical Path Drawing Method",
+      "期刊名稱": "The Physics Teacher (SCIE)",
+      "作者群": "Chun-Ming Chiang*, Shih-Hsin Ma, Jyun-Yi Will and Yao-Chen Hung"
+    },
+    {
+      "論文名稱": "Dispersion effect of white light LED lamp with hemisphere reflector",
+      "期刊名稱": "照明學刊 (台灣照明學會照明學刊)",
+      "作者群": "Bo-Yan Chen, Yung-Yi Chen, Shu-Hao Shie and Shih-Hsin Ma*"
+    },
+    {
+      "論文名稱": "Improved Design of UV- and Blue-Light-Inhibited White Light-Emitting Diode",
+      "期刊名稱": "IEEE Photonics Journal (SCIE)",
+      "作者群": "Yen-Chang Chu, Gang-Juan Lee, Chin-Yi Chen, Shih-HsinMa, Jerry J. Wu, Tzyy-Leng Horng, Kun-Huang Chen, Yi-Wen Huang, Li-Ya Lai, and Jing-Heng Chen*"
+    },
+    {
+      "論文名稱": "Synthesis of MoO3 Nanoparticles for Azo Dye Degradation by Catalytic\r\nOzonation",
+      "期刊名稱": "Materials Research Bulletin (SCIE)",
+      "作者群": "A. Manivel, G.J. Lee, C.Y. Chen, J.H. Chen, S.H. Ma, T.L. Horng, and J.J. Wu*"
+    },
+    {
+      "論文名稱": "Photocatalyst ZnO-Doped Bi2O3 Powder Prepared by Spray Pyrolysis",
+      "期刊名稱": "Powder Technology (SCIE,EI)",
+      "作者群": "Chin-Yi Chen*, Jui-Chung Weng, Jing-Heng Chen, Shih-Hsin Ma, Kun-Huang Chen,  Tzyy-Leng Horng, Chien-Yie Tsay, Chi-Jung Chang, Chung-Kwei Lin, and Jerry J. Wu"
+    },
+    {
+      "論文名稱": "Effects of volume scattering diffusers on the color variation of white light LEDs",
+      "期刊名稱": "journal of display technology (SCIE,EI)",
+      "作者群": "Shih-Hsin Ma*, Liang-Shiun Chen and Wen-Chao Huang"
+    },
+    {
+      "論文名稱": "LED Collimation Module for Time Sequential Back Light System",
+      "期刊名稱": "Journal of Display Technology (SCIE)",
+      "作者群": "Shih-Hsin Ma*, Chi-Hung Lee, An-Ching Tai"
+    },
+    {
+      "論文名稱": "Mechanical Properties Measurement of Polymer Films by Bulge Test and Fringe Projection",
+      "期刊名稱": "Advances in Materials Science and Engineering (SCIE)",
+      "作者群": "Ching-Sen Lin, Tzyy-Leng Horng*, Jing-Heng Chen, Kun-Huang Chen, Jerry J. Wu, Chin-Yi Chen, and Shih-Hsin Ma"
+    },
+    {
+      "論文名稱": "Preparation of Bismuth Oxide Photocatalyst and Its Application in White-light LEDs",
+      "期刊名稱": "Journal of Nanomaterials (SCIE)",
+      "作者群": "Yen-Chang Chu, Gang-Juan Lee, Chin-Yi Chen, Shih-Hsin Ma, Jerry J. Wu, Tzyy-Leng Horng, Kun-Huang Chen, and Jing-Heng Chen*"
+    },
+    {
+      "論文名稱": "Hydrothermal Synthesis of Mesoporous Bi2O3/Co3O4 Microsphere and Photocatalytic Degradation of Orange II Dyes by Visible Light",
+      "期刊名稱": "Topics in Catalysis (SCIE)",
+      "作者群": "Shu-Han Hsieh, Gang-Juan Lee, Chin-Yi Chen, Jing-Heng Chen, Shih-Hsin Ma, Tzyy-Leng Horng, Kun-Huang Chen, and Jerry J. Wu*"
+    },
+    {
+      "論文名稱": "Generation of a uniform-square focal spot by a compound lens for solar concentration applications",
+      "期刊名稱": "Applied Optics (SCIE,EI)",
+      "作者群": "Shih-Hsin Ma*, Chun-Ming Tseng, Yun-Parn Lee"
+    },
+    {
+      "論文名稱": "Random phase encoding in holographic optical storage with energy-effective phase modulation by a phase plate of micro-lens array",
+      "期刊名稱": "Optics Communications (SCIE,EI)",
+      "作者群": "Xuan-Hao Lee, Yeh-Wei Yu, Kuan-Hung Lee, Shih-Hsin Ma, Ching-Cherng Sun*"
+    },
+    {
+      "論文名稱": "Synthesis of Pt Doped Bi2O3/RuO2 Photocatalysts for Hydrogen Production\r\nfrom Water Splitting Using Visible Light",
+      "期刊名稱": "Journal of Nanoscience and Nanotechnology (SCIE)",
+      "作者群": "S.H. Hsieh, G.J. Lee, C.Y. Chen, J.H. Chen, S.H. Ma, T.L. Horng, K.H. Chen, and J.J. Wu*"
+    },
+    {
+      "論文名稱": "Dual-layer blazed grating fabricated by the roll-to-roll microreplication process for chromostereoscopy",
+      "期刊名稱": "Applied Optics (SCIE,EI)",
+      "作者群": "Chi-Hung Lee* and Shih-Hsin Ma"
+    },
+    {
+      "論文名稱": "Blind guidance system based on laser triangulation",
+      "期刊名稱": "Optical Engineering (SCIE,EI)",
+      "作者群": "Jih-Huah Wu, Jinner-Der Wang, Wei Fang, Yun-Parn Lee, Yi-Chia Shan, Hai-Ko Kao, Shih-Hsin Ma, Joe-Air Jiang*"
+    },
+    {
+      "論文名稱": "Analysis and Design of a Single-Axis Automatic Solar Tracking and Power Filtering System for Solar Power Generation",
+      "期刊名稱": "Sensor Letters (SCIE,EI)",
+      "作者群": "Yun-Parn Lee*, Chen Sin-Hong, Gau Yau-Quen, Wang Kai-Der, Shih-Hsin Ma, and Jih-Huah Wu"
+    },
+    {
+      "論文名稱": "Preparation of Spray Pyrolyzed Bismuth Oxide and Its Application in Inhibition of Ultraviolet from Light-Emitting Diode (LED)",
+      "期刊名稱": "Advanced Materials Research (EI)",
+      "作者群": "C.-Y. Chen*, J.-C. Weng, J.-H. Chen, S.-H. Ma, T.-L. Horng, J. J. Wu and C.-Y. Tsay,"
+    },
+    {
+      "論文名稱": "Surface-structured diffuser by iterative down-size\r\nmolding with glass sintering technology",
+      "期刊名稱": "Optics Express (SCIE,EI)",
+      "作者群": "Xuan-Hao Lee, Jung-Lin Tsai, Shih-Hsin Ma and Ching-Cherng Sun*"
+    },
+    {
+      "論文名稱": "A volume holographic optical element for optical coupling to single-mode fibers",
+      "期刊名稱": "Optics Communications (SCIE,EI)",
+      "作者群": "Ching-Cherng Sun*, Yau-Jen Chang, Shih-Hsin Ma and Tun-Chien Teng"
+    },
+    {
+      "論文名稱": "Enhanced Rotational Bragg Selectivity with Random Phase Encoding in Volume Holographic Filter",
+      "期刊名稱": "Applied Optics (SCIE,EI)",
+      "作者群": "Shih-Hsin Ma, Xuan-Hao Lee, Tun-Chien Teng, Ye-Wei Yu and Ching-Cherng Sun*"
+    },
+    {
+      "論文名稱": "Volume-Holographic Filters for Rotational Sensing of three-dimensional Objects",
+      "期刊名稱": "Applied Optics (SCIE,EI)",
+      "作者群": "Tun-Chien Teng, Wen-Jay Zhong, Shi-Hsin Ma, Ching-Cherng Sun*"
+    },
+    {
+      "論文名稱": "Rotation Selectivity of Random Phase Encoding in Volume Holograms",
+      "期刊名稱": "Optics Communications (SCIE,EI)",
+      "作者群": "Ching-Cherng Sun*, Chih-Yuan Hsu, Shih-Hsin Ma and Wei-Chia Su"
+    },
+    {
+      "論文名稱": "Displacement Sensing of Enhanced Sensitivity and Noise Suppression with Twin-fiber Algorithm",
+      "期刊名稱": "Microwave and Optics Technology Letters (EI)",
+      "作者群": "Ching-Cherng Sun*, Chih-Li Chang and Shih-Hsin Ma"
+    },
+    {
+      "論文名稱": "Precise optical modeling for LED lighting based on cross-correlation in mid-field region",
+      "期刊名稱": "Optics Letters (SCIE,EI)",
+      "作者群": "Ching-Cherng Sun*, Tsung-Xian Lee, Shih-Hsin Ma Ya-Luan Lee and Shih-Ming Huang"
+    },
+    {
+      "論文名稱": "Analysis of position-dependent light extraction of GaN-based LEDs",
+      "期刊名稱": "Optics Express (SCIE,EI)",
+      "作者群": "Tsung-Xian Lee, Chao-Ying Lin, Shin-Hsin Ma and Ching-Cherng Sun*"
+    }
+  ],
+  "journal2": [],
+  "conference": [
+    {
+      "論文名稱": "Optical simulation of the white light display color change of the bulk scattering diffuser used in the mini-LED backlight module",
+      "會議名稱": "SPIE Optics+Photonics 2024",
+      "作者群": "Jhih-Ling Syu, Po-Sung Huang, Shih-Hsin Ma*"
+    },
+    {
+      "論文名稱": "Optical design of a single freeform lens for both counter-beam and pro-beam in LED tunnel lighting",
+      "會議名稱": "SPIE Optics+Photonics 2024",
+      "作者群": "Jhih-Ling Syu, Tsung-Xian Lee, Cheng-Hung Tsai, Shih-Hsin Ma*"
+    },
+    {
+      "論文名稱": "Design of Freeform Secondary Lens for Comprehensive Illumination in LED Tunnel Lighting",
+      "會議名稱": "OPTIC 2023",
+      "作者群": "Cheng-Hung Tsai, Tsung-Xian Lee, and Shih-Hsin Ma*"
+    },
+    {
+      "論文名稱": "Optical Simulation Analysis of the effect of Bulk Scattering Diffuser on the Color Performance of Mini-LED Backlight Module",
+      "會議名稱": "OPTIC 2023",
+      "作者群": "Po-Sung Huang, Jhih-Ling Syu, Shih-Hsin Ma*"
+    },
+    {
+      "論文名稱": "White Light Lamp with Axial Adjustable Spatial Colour Distribution",
+      "會議名稱": "OPTIC 2021",
+      "作者群": "Nai-Te Yin, Ting-Jou Ding, Shih-Hsin Ma*"
+    },
+    {
+      "論文名稱": "Enhancement of the Spatial Colorful Uniformity of an Anti-glare White Light LED Lamp by Modulating the Shape of Diffuser",
+      "會議名稱": "Optics-photonics Design & Fabrication 2020 (ODF'20)",
+      "作者群": "Nai-Te Yin, Pin-Jui Huang, Pei-Yang Chen, Shih-Hsin Ma*"
+    },
+    {
+      "論文名稱": "Design an anti-glare and uniform colour distribution white LED lighting lamp by modulation the shape of the diffuser",
+      "會議名稱": "OPTIC 2019",
+      "作者群": "Pin Jui Huang, Pei Yang Chen, Shih Hsin Ma*"
+    },
+    {
+      "論文名稱": "Improvement and application of Abbe refractometer",
+      "會議名稱": "IC3 2019",
+      "作者群": "Pei-Yang Chen, Wen-Chao Huang, Shih-Hsin Ma*"
+    },
+    {
+      "論文名稱": "Affections of the imaging quality in the human eye by the optical design of the optical zone in the orthokeratology lens",
+      "會議名稱": "IC3 2019",
+      "作者群": "Yu-Qing Wang, Shih-Hsin Ma*, Jiann-Hwa Lue"
+    },
+    {
+      "論文名稱": "Development of a calculation method of multi-color mixed phosphor spectrum prediction in white-light LED",
+      "會議名稱": "SPIE Optics + Photonics 2019",
+      "作者群": "Yong-Sheng Lin*, Shih-Hsin Ma, Chun-Ming Tseng"
+    },
+    {
+      "論文名稱": "Development of a calculating method of two colors mixed phosphor spectrum prediction",
+      "會議名稱": "OPTIC 2018",
+      "作者群": "Yong-Sheng Lin, Chun-Ming Tseng, Shih-Hsin Ma*"
+    },
+    {
+      "論文名稱": "LED lighting source design for fluorescent microscope",
+      "會議名稱": "IC3 2018",
+      "作者群": "Pei-Yang Chen, Rou-Hui Lin, Shih-Hsin Ma*, Chien-Hua Lu, Ting-Jou Ding"
+    },
+    {
+      "論文名稱": "Improvement of LED Non-Invasive Blood Glucose Meter",
+      "會議名稱": "IC3 2018",
+      "作者群": "Ke-Ching Chang, Po-Hao Chen, Shih-Hsin Ma*, Jiann-Hwa Lue, Ting-Jou Ding"
+    },
+    {
+      "論文名稱": "ACHROMATIC DESIGN OF PACKAGING LENS IN WHITE LIGHT LED",
+      "會議名稱": "CIE 2018",
+      "作者群": "Wu, J. Y. and Ma, S. H.*"
+    },
+    {
+      "論文名稱": "ANALYSIS OF TOLERANCE IN CONCENTRATION OF VOLUME SCATTERING DIFFUSER AND COLOUR CONSISTENCY IN AN ANTI-GLARE WHITE LED LIGHTING",
+      "會議名稱": "CIE 2018",
+      "作者群": "P. Y. Chen, B. Y. Chen, W. C. Huang, S. H. Ma*"
+    },
+    {
+      "論文名稱": "A Triple-band Notch Filter Design for Head-up Display System",
+      "會議名稱": "Optics & Photonics Taiwan, the International Conference (OPTIC 2017)",
+      "作者群": "Chien-Jen Tang*, Syuan-Ying Lin, Po-Chun Huang, Shih-Hsin Ma"
+    },
+    {
+      "論文名稱": "Color Changing of White Light by Volume Scattering Diffuser in Anti-glare White LED Lighting",
+      "會議名稱": "24th Congress of the International Commission for Optics (ICO24)",
+      "作者群": "Shih-Hsin Ma*, Bo-Yan Chen, Po-Hao Chen, Wen-Chao Huang"
+    },
+    {
+      "論文名稱": "Color temperature variation analyses by volume scattering diffuser in anti-glare white light LED lamp",
+      "會議名稱": "OPTIC 2016",
+      "作者群": "Po-Hao Chen, Bo-Yan Chen, Fey Lin, Wen-Chao Huang, Shih-Hsin Ma*"
+    },
+    {
+      "論文名稱": "Non-axisymmetric light pipe design for transmitting sunlight to daytime traffic sign display",
+      "會議名稱": "OPTIC 2016",
+      "作者群": "Ke-Ching Chang, Yung-Yi Chen, Fey Lin, Yu-Xiang Lin and Shih-Hsin Ma*"
+    },
+    {
+      "論文名稱": "Design of LED Lighting System for Fluorescence Microscopy \r\n",
+      "會議名稱": "15th International symposium on the science and technology of lighting (LS15)",
+      "作者群": "Shih-Hsin Ma*, Ting-Jou Ding, Tai-Chih Kuo, Jui-Hui Lin"
+    },
+    {
+      "論文名稱": "Dispersion Effect of White Light LED Lamp With Hemisphere Reflector",
+      "會議名稱": "OPTIC 2015",
+      "作者群": "Bo-Yan Chen, Yung-Yi Chen, Shu-Hao Shie and Shih-Hsin Ma*"
+    },
+    {
+      "論文名稱": "Achromatic projection low beam design",
+      "會議名稱": "OPTIC 2014",
+      "作者群": "Min-Cheng Huang, Chi-Hung Lee, Chia-Hsian Yang, Shih-Hsin Ma*"
+    },
+    {
+      "論文名稱": "Color variation of white light by diffuser",
+      "會議名稱": "RALS 2014",
+      "作者群": "Bo-Yan Chen, Wen-Chao Huang, Liang-Shiun Chen, Shih-Hsin Ma*"
+    },
+    {
+      "論文名稱": "LED collimation module based two field driving back light",
+      "會議名稱": "RALS 2014",
+      "作者群": "Yung-Yi Chen, Chi-Hung Lee, An-Ching Tai, Shih-Hsin Ma*"
+    },
+    {
+      "論文名稱": "Color dispersion effect in white light LED packaging lens",
+      "會議名稱": "RALS 2014",
+      "作者群": "Shih-Hsin Ma*, Shu-Hao Shie, Pang-Chiang Huang, Yu-Xiang Lin"
+    },
+    {
+      "論文名稱": "Study of CCT varying by volume scattering diffuser with moving and rotating white light LED",
+      "會議名稱": "SPIE Optics+Photonics 2014",
+      "作者群": "Shih-Hsin Ma*, Wen-Chao Huang, Yu-Hsuan Chen, Jou-Hui Lin"
+    },
+    {
+      "論文名稱": "Analyzing of light pattern uniformity in Multi-chips LED lighting",
+      "會議名稱": "SPIE Optics+Photonics 2014",
+      "作者群": "Yu-Hsuan Chen, Chi-Hung Lee, Jou-Hui Lin, Shih-Hsin Ma*"
+    },
+    {
+      "論文名稱": "LED Collimation Module for Time Sequential Back Light System",
+      "會議名稱": "SPIE Optics+Photonics 2014",
+      "作者群": "Jou-Hui Lin, Chi-Hung Lee, An-Ching Tai, Yu-Hsuan Chen and Shih-Hsin Ma*"
+    },
+    {
+      "論文名稱": "Analysis of the Far Field Regions with Red and Blue Wavelengths of White Light LEDs",
+      "會議名稱": "OPTIC 2013",
+      "作者群": "Shu-Hao Shie, Yu-Xiang Lin, Pang-Chiang Huang, Chi-Hung Lee, Shih-Hsin Ma*"
+    },
+    {
+      "論文名稱": "Size effect of scattering particles on the variation of correlated color temperature",
+      "會議名稱": "OPTIC 2013",
+      "作者群": "Wen-Chao Huang, Liang-Shiun Chen, Chi-Hung Lee, Shih-Hsin Ma*"
+    },
+    {
+      "論文名稱": "Photocatalyst ZnO-Added Bi2O3 Powder Prepared by Spray Pyrolysis",
+      "會議名稱": "7th International Conference on Advanced Computational Engineering and Experimenting (ACEX2013)",
+      "作者群": "C.-Y. Chen*, J.-C. Weng, J.-H. Chen, S.-H. Ma, K.-H. Chen, T.-L. Horng, and J. J. Wu,"
+    },
+    {
+      "論文名稱": "An Angularly Positioned LED-based Spatial-temporal Color Separation System",
+      "會議名稱": "CLEO-PR 2013",
+      "作者群": "Chi-Hung Lee*, Shih-Hsin Ma, and Chia-Hsien Yang"
+    },
+    {
+      "論文名稱": "LED Collimation Module for a Color Separation System",
+      "會議名稱": "OPTIC 2012",
+      "作者群": "Shih-Hsin Ma, Chi-Hung Lee, An-Ching Tai"
+    },
+    {
+      "論文名稱": "Study of Colorful Halo of White Light LED With Different Packaging Lens",
+      "會議名稱": "OPTIC 2012",
+      "作者群": "Shih-Hsin Ma* and Pang-Chiang Huang"
+    },
+    {
+      "論文名稱": "Bismuth Oxide Photocatalyst and its Application on White-light LEDs",
+      "會議名稱": "Optics & Photonics Taiwan, International Conference 2012",
+      "作者群": "Yen-Chang Chu, Jing-Heng Chen, Gang-Juan Lee, Po-Hao Weng, Shih-Hsin Ma, Chin-Yi Chen, Jerry J. Wu, Tzyy-Leng Horng,  Kun-Huang Chen"
+    },
+    {
+      "論文名稱": "Phosphor-converted White Light LED Coated with a Layer of Bismuth Oxide Photocatalyst",
+      "會議名稱": "8th International Conference on Optics-photonics Design & Fabrication (ODF'12)",
+      "作者群": "Jing-Heng Chen, Po-Hao Weng, Gang-Juan Lee, Shih-Hsin Ma, Chin-Yi Chen, Jerry J. Wu, Tzyy-Leng Horng, and Kun-Huang Chen"
+    },
+    {
+      "論文名稱": "Inhibition of Ultraviolet from Light-Emitting Diode (LED) Using Bismuth Oxide Coating",
+      "會議名稱": "8th International Conference on Optics-photonics Design & Fabrication (ODF'12)",
+      "作者群": "C.-Y. Chen*, J.-C. Weng, J.-H. Chen, S.-H. Ma, T.-L. Horng, J. J. Wu, C.-Y. Tsay"
+    },
+    {
+      "論文名稱": "Chromatic aberration of light pattern in white light LED",
+      "會議名稱": "IWSSLHF 2012",
+      "作者群": "Shih-Hsin Ma* and Chiang-Pang Huang"
+    },
+    {
+      "論文名稱": "Chromatic Difference by Bulk-Scattering Diffuser Applied in White Light LED Lighting",
+      "會議名稱": "IWSSLHF 2012",
+      "作者群": "Shih-Hsin Ma*, Chi-Hung Lee, Cheng-Chien Chen, Liang-Shiun Chen and Jing-Heng Chen"
+    },
+    {
+      "論文名稱": "Healthy, Safe and Environment Benign LED Lighting Source",
+      "會議名稱": "International Workshop of Solid?state Lighting with Human Factors Technology (IWSSLHF 2012)",
+      "作者群": "22.\tJing-Heng Chen, Po-Hao Weng, Gang-Juan Lee, Shih-Hsin Ma, Chun-Feng Lai, Chin-Yi Chen, Jerry J. Wu, Tzyy-Leng Horng, and Kun-Huang Chen"
+    },
+    {
+      "論文名稱": "Study of Variation in Color Temperature Applied in White Light LED Lighting",
+      "會議名稱": "International Photonics Conference (IPC 2011)",
+      "作者群": "Liang-Shiun Chen, Chi-Hung Lee, Cheng-Chien Chen, Jing-Heng Chen, and Shih-Hsin Ma"
+    },
+    {
+      "論文名稱": "白光LED螢光粉之沉澱現象改善與其發光效能之分析",
+      "會議名稱": "2011光電與通訊工程研討會",
+      "作者群": "王銘煒，馬仕信，陳敬恒，吳俊哲，陳錦毅，洪子倫，賴俊峰"
+    },
+    {
+      "論文名稱": "Dual-layer Grating Pair for Chromo-stereoscopy",
+      "會議名稱": "2011光電與通訊研討會",
+      "作者群": "Chi-Hung Lee*, Shih-Hsin Ma"
+    },
+    {
+      "論文名稱": "Preparation of Spray Pyrolyzed Bismuth Oxide and Its Application in Inhibition of Ultraviolet from Light-Emitting Diode (LED)",
+      "會議名稱": "The Sixth Cross-strait Workshop on the Engineering Materials (CSWEM-6)",
+      "作者群": "C.-Y. Chen, J.-C. Weng, J.-H. Chen, S.-H. Ma, T.-L. Horng, J. J. Wu, C.-Y. Tsay"
+    },
+    {
+      "論文名稱": "Synthesis of Ru Doped Bi2O3/Pt Nanophotocatalysts for Hydrogen Production from Water Splitting under Visible Light Irradiation",
+      "會議名稱": "Nano Korea 2011 Symposium",
+      "作者群": "S.H. Hsieh, G.J. Lee, C.Y. Chen, J.H. Chen, S.H. Ma, T.L. Horng, and J.J. Wu*"
+    },
+    {
+      "論文名稱": "The application of laser triangulation method on the blind guidance",
+      "會議名稱": "SPIE Optics+Photonics 2011",
+      "作者群": "Jih-Huah Wu*, Jinn-Der Wang, Wei Feng, Yi-Chia Shan, Shih-Hsin Ma, Hai-Ko Kao, Joe-Air Jiang and Yun-Parn Lee"
+    },
+    {
+      "論文名稱": "The Design of Beam Shaping Focused Lens Applied in Solar Energy Concentration",
+      "會議名稱": "SPIE Optics+Photonics 2011",
+      "作者群": "Shih-Hsin Ma*, Chi-Hung Lee, Yun-Parn Lee, Jih-Huah Wu and Chun-Ming Tseng"
+    },
+    {
+      "論文名稱": "Spatial color-separation for backlight display application",
+      "會議名稱": "APLSW 2011",
+      "作者群": "Chi-Hung Lee*, Shih-Hsin Ma, Po-Chou Chen, Chun-Ming Tseng and An-Chung Tai"
+    },
+    {
+      "論文名稱": "The design of focusing lens applied in concentrator photovoltaic system",
+      "會議名稱": "OPT 2010-台灣光電研討會 2010",
+      "作者群": "Shih-Hsin Ma* and Chun-Ming Tseng"
+    },
+    {
+      "論文名稱": "LED phototherapy system in skin treatment and detecting",
+      "會議名稱": "SPIE Optics+Photonics 2010",
+      "作者群": "Hsi-Chao, Chen, Jih-Huah, Wu, Ching-Huang, Lin, and Shih-Hsin Ma*"
+    }
+  ],
+  "book": [
+    {
+      "專業書籍": "像差光學概論",
+      "出版單位": "五南出版社",
+      "作者群": "Virendra N. Mahajan著:孫慶成等譯"
+    }
+  ],
+  "patent": [
+    {
+      "title": "發明",
+      "desc": "具有高均勻矩形聚焦光暈之透鏡組及其調整光暈尺寸之方法"
+    },
+    {
+      "title": "發明",
+      "desc": "具光觸媒與抑制短波長光功能之發光二極體"
+    },
+    {
+      "title": "發明",
+      "desc": "汽車近光燈"
+    },
+    {
+      "title": "發明",
+      "desc": "產生方形聚焦光暈的透鏡及其製造方法"
+    },
+    {
+      "title": "發明",
+      "desc": "背光模組及使用其之顯示裝置"
+    }
+  ],
+  "most": [
+    {
+      "name": "紫外光發光二極體集光模組輕量化設計與無光罩曝光系統之開發",
+      "schoolYear": "113"
+    },
+    {
+      "name": "體散射擴散片對mini-LED背光模組色彩表現影響之光學模擬分析",
+      "schoolYear": "111"
+    },
+    {
+      "name": "利用體散射光擴散片外形設計均勻化白光雷射照明之空間色彩分布",
+      "schoolYear": "109"
+    },
+    {
+      "name": "以光學擴散片外形調制來設計兼顧防眩光與色彩均勻之白光LED照明燈具",
+      "schoolYear": "107"
+    },
+    {
+      "name": "考量膠體色散效應的螢光粉光學模型之開發",
+      "schoolYear": "106"
+    },
+    {
+      "name": "非連續任意折射率分佈於三波長陷波濾光片設計及製鍍於高對比及高色彩飽和度抬頭顯示器之應用",
+      "schoolYear": "106"
+    },
+    {
+      "name": "光散射元件對白光LED照明燈具的色溫變異影響及容忍度分析",
+      "schoolYear": "105"
+    },
+    {
+      "name": "曲面形曝光系統",
+      "schoolYear": "104"
+    },
+    {
+      "name": "光散射元件應用於白光LED照明顯示系統之白光色溫變異計算模型開發與分析",
+      "schoolYear": "104"
+    },
+    {
+      "name": "光散射元件應用於白光LED照明顯示色溫變異之研究",
+      "schoolYear": "103"
+    },
+    {
+      "name": "白光LED照明燈具光形邊緣色散補償之研究",
+      "schoolYear": "102"
+    },
+    {
+      "name": "高度可穿視型太陽能集光窗戶",
+      "schoolYear": "101"
+    },
+    {
+      "name": "白光LED全波長光學模型及照明色散補償之研究",
+      "schoolYear": "101"
+    },
+    {
+      "name": "白光LED照明色彩空間分布與色散補償之研究",
+      "schoolYear": "100"
+    }
+  ],
+  "tech": [],
+  "induAca": [
+    "多元微米球擴散板設計與製作(訂購單3000802344) (2024-10 to 2024-10)",
+    "多元微米球擴散板設計與製作 (2024-05 to 2024-08)",
+    "智慧照明系統應用技術用擴散板設計與製作 (2023-04 to 2023-08)",
+    "微米球擴散板製作 (2022-06 to 2022-10)",
+    "學界推動在地產業科技加值創新專案計畫\n-智能化生產及製程精密檢測技術計畫 (2022-04 to 2022-11)",
+    "LED配光量測 (2018-01 to 2018-02)",
+    "逆光折射透鏡光學特性分析 (2015-12 to 2016-02)",
+    "LED路燈成本效益分析計算服務 (2015-08 to 2015-10)",
+    "光學膜片特性檢測 (2014-09 to 2014-10)",
+    "LED光學元件設計分析諮詢顧問計畫 (2013-01 to 2013-12)",
+    "用於道路交通標誌顯示之光學系統及導光元件設計與開發 (2012-09 to 2013-08)",
+    "高發光效率LED光源之封裝及燈具設計之輔助工具開發計畫 (2011-09 to 2012-08)",
+    "100年度環保創新科技研發計畫－兼具節能及環保效益之新型發光二極體(LED)的開發 (2011-03 to 2011-11)",
+    "ASAP程式碼撰寫 (2011-03 to 2011-05)",
+    "高發光效率LED光源之封裝及其日光燈燈具設計與效能分析 (2010-04 to 2011-03)"
+  ],
+  "perform": [],
+  "reward": [
+    "113學年度國立中正大學傑出校友獎 (113, 2024-10) - 國立中正大學理學院",
+    "2024台灣創新技術博覽會發明競賽金牌獎 (113, 2024-10) - 2024台灣創新技術博覽會發明競賽",
+    "逢甲大學論文著作獎勵優等獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優等獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (111, 2022-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (111, 2022-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (111, 2022-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (111, 2022-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (110, 2021-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (109, 2020-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (109, 2020-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (109, 2020-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (107, 2018-11) - 逢甲大學",
+    "2018年IC3國際研討會workshop最佳論文獎 (107, 2018-08) - IC3 2018",
+    "107年度科技部補助大專校院研究獎勵 (107, 2018-08) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (106, 2017-11) - 逢甲大學",
+    "106年度科技部獎勵特殊優秀人才 (106, 2017-08) - 產學合作處",
+    "2016年台灣光電研討會(OPTIC2016)/學生壁報論文獎 (105, 2016-12) - 2016年台灣光電研討會 (OPTIC2016)",
+    "逢甲大學論文著作獎勵傑出獎 (105, 2016-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (105, 2016-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (105, 2016-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (105, 2016-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (105, 2016-11) - 逢甲大學",
+    "2016年德國紅點設計獎 (104, 2016-07) - Design Zentrum Nordrhein Westfalen",
+    "逢甲大學論文著作獎勵傑出獎 (104, 2015-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (104, 2015-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (104, 2015-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (103, 2014-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (103, 2014-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (103, 2014-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (102, 2013-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (102, 2013-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (102, 2013-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (102, 2013-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (102, 2013-11) - 逢甲大學",
+    "龍騰論文獎/第三名 (101, 2012-09) - 宏碁文教基金會",
+    "能源科技創意實作競賽/入圍 (101, 2012-08) - 教育部"
+  ],
+  "speech": [
+    {
+      "演講題目": "109學年度第2學期CDIO系列工作坊-執行經驗分享 定錨專題(新鮮人專題併入定錨課程)",
+      "邀請單位": "逢甲大學教務處",
+      "演講日期": "2021-04"
+    },
+    {
+      "演講題目": "淺談光學設計及應用",
+      "邀請單位": "勤益科大電子系",
+      "演講日期": "2020-05"
+    },
+    {
+      "演講題目": "綠能光學模擬應用",
+      "邀請單位": "中央大學光電所",
+      "演講日期": "2019-12"
+    },
+    {
+      "演講題目": "日本宇都宮大學學者來訪演講-Non-imaging Optical Design for Green Energy Applications",
+      "邀請單位": "逢甲大學光電科學與工程學系",
+      "演講日期": "2019-09"
+    },
+    {
+      "演講題目": "逢甲大學國際產學聯盟(FCU GLORIA)舉辦之光學設計、製造、檢測及設備研習會(非成像光學設計與模擬應用)",
+      "邀請單位": "逢甲大學國際產學聯盟(FCU GLORIA)",
+      "演講日期": "2019-08"
+    },
+    {
+      "演講題目": "綠能光學設計應用-有趣的\"捏光\"術",
+      "邀請單位": "嘉義市北興國中",
+      "演講日期": "2018-05"
+    },
+    {
+      "演講題目": "綠能光學與生活應用",
+      "邀請單位": "明道大學材料與能源工程學系",
+      "演講日期": "2018-03"
+    },
+    {
+      "演講題目": "綠能光學設計應用",
+      "邀請單位": "中央大學光電所",
+      "演講日期": "2017-12"
+    },
+    {
+      "演講題目": "非成像光學設計之綠能應用",
+      "邀請單位": "逢甲大學電機系",
+      "演講日期": "2017-02"
+    },
+    {
+      "演講題目": "綠色能源光學設計",
+      "邀請單位": "雲林科技大學機械所",
+      "演講日期": "2016-12"
+    },
+    {
+      "演講題目": "綠能光學設計與產業應用",
+      "邀請單位": "屏東大學應用物理系",
+      "演講日期": "2016-05"
+    },
+    {
+      "演講題目": "綠能光學系統設計",
+      "邀請單位": "屏東大學物理系",
+      "演講日期": "2014-11"
+    },
+    {
+      "演講題目": "Color dispersion effect in white light LED packaging lens",
+      "邀請單位": "中央大學光電所(RALS 2014 研討會受邀演講)",
+      "演講日期": "2014-10"
+    },
+    {
+      "演講題目": "綠能光學系統設計與應用",
+      "邀請單位": "雲林科技大學電子所",
+      "演講日期": "2014-09"
+    },
+    {
+      "演講題目": "綠色能源之光學設計發展",
+      "邀請單位": "工研院光學元件技術發展諮詢委員會",
+      "演講日期": "2014-06"
+    },
+    {
+      "演講題目": "綠能光學系統設計與發展",
+      "邀請單位": "雲林科技大學機械所",
+      "演講日期": "2014-06"
+    },
+    {
+      "演講題目": "綠能光學系統發展",
+      "邀請單位": "明道大學材料與能源工程學系",
+      "演講日期": "2014-05"
+    },
+    {
+      "演講題目": "光學設計於綠能光電之應用",
+      "邀請單位": "中興大學物理所",
+      "演講日期": "2014-05"
+    },
+    {
+      "演講題目": "綠能光學設計",
+      "邀請單位": "彰化師範大學光電所",
+      "演講日期": "2014-04"
+    },
+    {
+      "演講題目": "光學設計之綠能光電應用",
+      "邀請單位": "彰化師範大學光電所",
+      "演講日期": "2011-09"
+    },
+    {
+      "演講題目": "LED光學設計之發展",
+      "邀請單位": "中正大學物理所",
+      "演講日期": "2011-05"
+    },
+    {
+      "演講題目": "發光二極體與照明設計之發展與應用",
+      "邀請單位": "中原大學物理系",
+      "演講日期": "2010-12"
+    },
+    {
+      "演講題目": "LED之照明設計與應用",
+      "邀請單位": "彰化師範大學光電所",
+      "演講日期": "2010-11"
+    }
+  ],
+  "material": [],
+  "tal": []
+}

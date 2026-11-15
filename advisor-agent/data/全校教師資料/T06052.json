@@ -1,0 +1,765 @@
+{
+  "teacherId": "T06052",
+  "name": "劉明機",
+  "mainUnit": "資訊電機學院",
+  "detailUnit": "資訊工程學系",
+  "skill": [
+    "創新學習軟體設計Innovative Design of Learning Software",
+    "教育資料科學Educational Data Science",
+    "情感運算Affective Computing",
+    "認知神經科學Cognitive Neuroscience"
+  ],
+  "edu": [
+    "成功大學 工程科學系 博士",
+    "臺南大學 資訊教育所 碩士",
+    "逢甲大學 資訊工程系 學士"
+  ],
+  "fcuExp": [
+    "資訊工程學系學士後專班 主任",
+    "資訊工程學系 助理教授",
+    "資訊工程學系 副教授"
+  ],
+  "currjob": [],
+  "otherExp": [],
+  "journal": [
+    {
+      "論文名稱": "Adopting software product lines to implement an efficient learning analytics framework in MOOCs",
+      "期刊名稱": "Journal of Information Science and Engineering (SCIE,EI)",
+      "作者群": "Chen-Hsiang Yu, Jungpin Wu, Ming-Chi Liu, An-Chi Liu,"
+    },
+    {
+      "論文名稱": "Discussion-record-based prediction model for creativity education using clustering methods",
+      "期刊名稱": "Thinking Skills and Creativity (SSCI)",
+      "作者群": "Yu-Cheng Chien, Ming-Chi Liu, Ting-Ting Wu"
+    },
+    {
+      "論文名稱": "Facilitating vocabulary note taking on computers through the deep processing strategy",
+      "期刊名稱": "Journal of Educational Computing Research (SSCI)",
+      "作者群": "Ming-Chi Liu, Yueh-Min Huang*, Yu-Cheng Chien"
+    },
+    {
+      "論文名稱": "Applying learning analytics to deconstruct user engagement by using log data of MOOCs",
+      "期刊名稱": "Journal of Information Science and Engineering (SCIE,EI)",
+      "作者群": "Ming-Chi Liu, Chen-Hsiang Yu, Jungpin Wu, An-Chi Liu, Hsi-Min Chen*"
+    },
+    {
+      "論文名稱": "A video annotation learning approach to improve the effects of video learning",
+      "期刊名稱": "Innovations in Education and Teaching International (SSCI)",
+      "作者群": "Po-Sheng Chiu, Hsin-Chin Chen, Yueh-Min Huang, Chia-Ju Liu, Ming-Chi Liu, Ming-Hsun Shen"
+    },
+    {
+      "論文名稱": "Effects of individual versus group work on learner autonomy and emotion in digital storytelling",
+      "期刊名稱": "Educational Technology Research and Development (SSCI)",
+      "作者群": "Ming-Chi Liu, Yueh-Min Huang*, Yo-Hsin Xu"
+    },
+    {
+      "論文名稱": "Using humorous images to lighten the learning experience through questioning in class",
+      "期刊名稱": "British Journal of Educational Technology (SSCI)",
+      "作者群": "Yueh-Min Huang, Ming-Chi Liu, Chia-Hung Lai, Chia-Ju Liu"
+    },
+    {
+      "論文名稱": "Stop-motion to foster digital literacy in elementary school",
+      "期刊名稱": "Comunicar (SSCI)",
+      "作者群": "Koun-Tem Sun, Chun-Huang Wang, Ming-Chi Liu*"
+    },
+    {
+      "論文名稱": "The use of data science for education: The case of social-emotional learning",
+      "期刊名稱": "Smart Learning Environments (DOAJ)",
+      "作者群": "Ming-Chi Liu, Yueh-Min Huang"
+    },
+    {
+      "論文名稱": "Using positive visual stimuli to lighten the online synchronous learning experience through in-class questioning",
+      "期刊名稱": "International Review of Research in Open and Distance Learning (SSCI)",
+      "作者群": "Chia-Hung Lai, Ming-Chi Liu, Chia-Ju Liu, Yueh-Min Huang"
+    },
+    {
+      "論文名稱": "Enriching search queries to construct comprehensive concept maps for online inquiries: A case study of a food web",
+      "期刊名稱": "Journal of Internet Technology (SCIE)",
+      "作者群": "Yu-Cheng Chien, Ming-Chi Liu, Ting-Ting Wu, Chia-Hung Lai, Yueh-Min Huang"
+    },
+    {
+      "論文名稱": "Does gender influence emotions resulting from positive applause feedback in self-assessment testing? Evidence from neuroscience",
+      "期刊名稱": "Educational Technology & Society (SSCI)",
+      "作者群": "Chia-Ju Liu, Chin-Fei Huang, Ming-Chi Liu, Yu-Cheng Chien, Chia-Hung Lai, Yueh-Min Huang"
+    },
+    {
+      "論文名稱": "Collaborative experience sharing with the support of Mobile Learning 2.0: A fundamental framework, a case study and research issues",
+      "期刊名稱": "International Journal of Mobile Learning and Organisation (Scopus (Elsevier))",
+      "作者群": "Ming-Chi Liu, Yueh-Min Huang"
+    },
+    {
+      "論文名稱": "Facilitating learners' Web-based information problem solving by query expansion-based concept mapping",
+      "期刊名稱": "Australasian Journal of Educational Technology (SSCI)",
+      "作者群": "Yueh-Min Huang, Ming-Chi Liu, Nian-Shing Chen*, Kinshuk, Dunwei Wen"
+    },
+    {
+      "論文名稱": "Fostering learners' metacognitive skills of keyword reformulation in image seeking by location-based hierarchical navigation",
+      "期刊名稱": "Educational Technology Research and Development (SSCI)",
+      "作者群": "Ming-Chi Liu, Yueh-Min Huang*, Kinshuk, Dunwei Wen"
+    },
+    {
+      "論文名稱": "Design of a learning companion recommendation system based on learning style on Facebook using an artificial bee colony algorithm",
+      "期刊名稱": "Journal of Internet Technology (SCIE)",
+      "作者群": "Jan-Pan Hwang, Chia-Cheng Hsu, Hsin-Chin Chen, Ming-Chi Liu, Yueh-Min Huang"
+    },
+    {
+      "論文名稱": "A WordNet-based near-synonyms and similar-looking word learning system",
+      "期刊名稱": "Educational Technology & Society (SSCI)",
+      "作者群": "Koun-Tem Sun, Yueh-Min Huang, Ming-Chi Liu"
+    }
+  ],
+  "journal2": [],
+  "conference": [
+    {
+      "論文名稱": "Developing a visualized data guessing game to assess data literacy",
+      "會議名稱": "The 32nd International Conference on Computers in Education (ICCE 2024) 25-29 Nov. 2024",
+      "作者群": "Xie, R.-Y., & Liu, M.-C.*"
+    },
+    {
+      "論文名稱": "開發以數位聯網看板為中心的情緒收集與AI情感共創系統",
+      "會議名稱": "第20屆台灣軟體工程研討會(TCSE, 2024)",
+      "作者群": "黃莉媞, 謝采蓁, & 劉明機*"
+    },
+    {
+      "論文名稱": "探討體現認知應用於教育服務型機器人互動之影響",
+      "會議名稱": "第13屆工程、技術與STEM教育研討會(ETS, 2024)",
+      "作者群": "陳正隆, 劉宇翔, & 劉明機*"
+    },
+    {
+      "論文名稱": "導入情境興趣於體現式演算法學習 APP 之成效探討",
+      "會議名稱": "第13屆工程、技術與STEM教育研討會(ETS, 2024)",
+      "作者群": "黃晟旺, 劉上銘, & 劉明機*"
+    },
+    {
+      "論文名稱": "演算法家家酒：具 LEGO 遊戲關卡影像辨識與體現操作之遊戲式演算法學習系統開發與評估",
+      "會議名稱": "2024 學生計算機年會 (SITCON, 2024)",
+      "作者群": "王昱智, 王子杰, 白雋揚, & 劉明機*"
+    },
+    {
+      "論文名稱": "應用大型語言模型於設計調節焦點回饋之初探",
+      "會議名稱": "第十九屆台灣數位學習發展研討會(TWELF, 2024)  Mar. 7-8 2024",
+      "作者群": "廖玹驊, & 劉明機*"
+    },
+    {
+      "論文名稱": "結合情感化設計與社群追蹤於推廣減塑行為之行動 App 開發與評估",
+      "會議名稱": "第19屆台灣軟體工程研討會(TCSE, 2023)",
+      "作者群": "王廣馨, 李柏霖, & 劉明機*"
+    },
+    {
+      "論文名稱": "Virtual class: An English learning mobile application assistant for teachers",
+      "會議名稱": "International Conference of Innovative Technologies and Learning (ICITL, 2022)",
+      "作者群": "Wijaya, H. B., Mauricia, A., Herlan, D. S., Lee, W.-Z., Liu, Y.-F., & Liu, M.-C.*"
+    },
+    {
+      "論文名稱": "開發語音互動機器人於運算思維學習",
+      "會議名稱": "第18屆台灣軟體工程研討會(TCSE, 2022)",
+      "作者群": "陳正隆, 田以謙, 陳毅 & 劉明機*"
+    },
+    {
+      "論文名稱": "英語自動出題 CHATBOT 之形似近義詞學習系統",
+      "會議名稱": "第11屆工程、技術與STEM教育研討會(ETS, 2022)",
+      "作者群": "廖玹驊 & 劉明機*"
+    },
+    {
+      "論文名稱": "導入自動化生成圖形於設計遊戲化獎章以輔助自我調整學習: 以線上解題系統為例",
+      "會議名稱": "第17屆台灣軟體工程研討會(TCSE, 2021)",
+      "作者群": "孫青雲 & 劉明機*"
+    },
+    {
+      "論文名稱": "以筆記照片情境感知系統即時連結聽眾與促進學習社群討論",
+      "會議名稱": "第十六屆台灣數位學習發展研討會 (TWELF 2021), 宜蘭, 宜蘭大學.",
+      "作者群": "謝瑞誼, 許賀凱, 劉羽筑, 劉曛綺, & 劉明機*"
+    },
+    {
+      "論文名稱": "基於體現認知的演算法學習系統",
+      "會議名稱": "第十六屆台灣數位學習發展研討會 (TWELF 2021)",
+      "作者群": "林思言, 王聖閔, & 劉明機*"
+    },
+    {
+      "論文名稱": "以 CDIO 方法設計資料驅動的語言學習聊天機器人",
+      "會議名稱": "第16屆台灣軟體工程研討會(TCSE, 2020)",
+      "作者群": "林永義, 孫青雲, & 劉明機*"
+    },
+    {
+      "論文名稱": "Analysis of video-watching behavior in MOOCs to understanding learner engagement",
+      "會議名稱": "International Conference of Innovative Technologies and Learning (ICITL, 2018)",
+      "作者群": "Ming-Chi Liu"
+    },
+    {
+      "論文名稱": "Research trends in learning analytics of MOOCs",
+      "會議名稱": "2018 eLearning Forum Asia (eLFA, 2018)",
+      "作者群": "Ming-Chi Liu, Chen-Hsiang Yu and An-Chi Liu"
+    },
+    {
+      "論文名稱": "Video Watching Behavior Pattern Comparison of\nMOOCs Clickstream",
+      "會議名稱": "第十三屆台灣數位學習發展研討會(TWELF 2018)",
+      "作者群": "Chen-Hsiang Liu, Jungpin Wu, Don-Lin Yang, Ming-Chi Liu, An-Chi Liu"
+    },
+    {
+      "論文名稱": "The assessment of computational thinking ability using brainwave data",
+      "會議名稱": "第十三屆台灣數位學習發展研討會(TWELF, 2018)",
+      "作者群": "Robert-Andrei Boran, Ming-Chi Liu, Tsung-Chih Lin"
+    },
+    {
+      "論文名稱": "A survey of research goals for future social-emotional education: The case of MOOCs",
+      "會議名稱": "第8屆全球華人探究學習創新應用大會, (GCCIL 2017)",
+      "作者群": "Ming-Chi Liu"
+    },
+    {
+      "論文名稱": "System log analysis for understanding user engagement: The case of MOOCs",
+      "會議名稱": "2017 台灣軟體工程研討會 (TCSE  2017)",
+      "作者群": "Ming-Chi Liu, Chen-Hsiang Yu, Jungpin Wu, An-Chi Liu"
+    },
+    {
+      "論文名稱": "Performing a phenomenographic text mining to understand the students' experiences of software programming",
+      "會議名稱": "2017 Taiwan Conference on Software Engineering, (TCSE 2017)",
+      "作者群": "Ming-Chi Liu, Yueh-Min Huang"
+    },
+    {
+      "論文名稱": "以神經回饋機制於電子書學習系統之評估",
+      "會議名稱": "2015 全國計算機會議, (NCS 2015)",
+      "作者群": "簡佑丞, 賴嘉宏, 陳冠宇, 鄭培宇, 盧佾暐, 蔡惠曲, 劉明機, 黃悅民*"
+    },
+    {
+      "論文名稱": "以社群情感支持機制促進網路海洋保育知識的反思與學習",
+      "會議名稱": "第十四屆離島資訊技術與應用研討會",
+      "作者群": "劉明機, 簡佑丞, 盧佾暐, 劉嘉茹, 黃悅民"
+    },
+    {
+      "論文名稱": "融入社群反思機制於網路測驗系統對海洋保育議題學習之影響",
+      "會議名稱": "第十屆台灣數位學習發展研討會, (TWELF 2014)",
+      "作者群": "劉明機, 盧佾暐, 劉嘉茹, 黃悅民"
+    },
+    {
+      "論文名稱": "開發街景實境式的旅遊導覽學習平台",
+      "會議名稱": "第八屆台灣數位學習發展研討會 (TWELF 2012)",
+      "作者群": "龔佩珍, 劉明機, 王建宏, 林新力"
+    },
+    {
+      "論文名稱": "圖片色差對代表性食物喜愛程度決策之影響",
+      "會議名稱": "第51屆台灣心理學會年會暨學術研討會",
+      "作者群": "劉明機, 黃琴扉, 陳志銘, 劉嘉茹, 黃悅民"
+    },
+    {
+      "論文名稱": "以web2.0概念強化社群感與影片式生活情境連結為目標的英語學習平台",
+      "會議名稱": "第5屆台灣數位學習發展研討會(TWELF 2009)",
+      "作者群": "周鉅閔, 何鴻略, 劉明機, 吳婷婷, 黃悅民"
+    },
+    {
+      "論文名稱": "大腦認知訊號於游標控制之研究",
+      "會議名稱": "2006年多媒體及通訊系統研討會 (MNSC, 2006)",
+      "作者群": "孫光天, 劉明機, 黃悅民"
+    },
+    {
+      "論文名稱": "類神經網路於腦波辨識之游標控制研究",
+      "會議名稱": "2005年國際醫學資訊研討會 (MIST, 2005)",
+      "作者群": "孫光天, 黃昭翰, 劉明機, 李怡慧"
+    },
+    {
+      "論文名稱": "人腦-電腦介面系統臨床實驗流程之分析研究",
+      "會議名稱": "2005年國際醫學資訊研討會, (MIST 2005)",
+      "作者群": "孫光天, 劉育芳, 劉明機, 李怡慧"
+    }
+  ],
+  "book": [
+    {
+      "專業書籍": "AI的發展與應用：一本人工智慧的科普書",
+      "出版單位": "永齡教育基金會、全華圖書",
+      "作者群": "李傑、孔令傑、李怡志、孫誠、朱宸佐、王科植、陳冠宇、吳俊逸、林筱玫、吳信輝、許懷中、梁馨予、劉明機、陳翔瀚"
+    }
+  ],
+  "patent": [],
+  "most": [
+    {
+      "name": "開發以個人實景照片驅動的收納整理知識養成系統",
+      "schoolYear": "113"
+    },
+    {
+      "name": "把壓力說出來：開發以數位聯網看板為中心的情緒收集與 AI 情感共創系統",
+      "schoolYear": "113"
+    },
+    {
+      "name": "開發具遊玩歷程收集與學習分析之視覺化資料猜測遊戲以評估資料識讀能力",
+      "schoolYear": "112"
+    },
+    {
+      "name": "科技促進體現學習環境應用於演算法學習之個人化與遊戲化的體現認知整合設計",
+      "schoolYear": "111"
+    },
+    {
+      "name": "結合情感化設計與社群追蹤於推廣減塑行為之行動app開發與評估",
+      "schoolYear": "111"
+    },
+    {
+      "name": "開發虛實融合的遊戲化行動 app 以探討推廣海洋保育行為之執行成效",
+      "schoolYear": "111"
+    },
+    {
+      "name": "支援對話式介面的社交遊戲編輯平台於提升社群互動：以小時候童玩為例",
+      "schoolYear": "110"
+    },
+    {
+      "name": "誰坐第一排？ 應用影像辨識分析於探討大學生座位選擇改變與課堂參與關係",
+      "schoolYear": "110"
+    },
+    {
+      "name": "以教學策略驅動的學習分析來開發影片註記提示系統、對談式智慧學伴與遊戲化回饋於提升磨課師課程之學習成功率-以資料分析課程為例(2/2)",
+      "schoolYear": "109"
+    },
+    {
+      "name": "應用激勵式學習策略於線上影片註記系統開發與成效比較",
+      "schoolYear": "109"
+    },
+    {
+      "name": "以教學策略驅動的學習分析來開發影片註記提示系統、對談式智慧學伴與遊戲化回饋於提升磨課師課程之學習成功率-以資料分析課程為例(1/2)",
+      "schoolYear": "108"
+    },
+    {
+      "name": "誰在帶風向?留言討論串的視覺化懶人包之成效比較",
+      "schoolYear": "108"
+    },
+    {
+      "name": "開發筆記照片的情境感知系統以即時連結聽眾與促進學習社群討論",
+      "schoolYear": "108"
+    },
+    {
+      "name": "運用深度學習技術於評量與培養運算思維能力(2/2)",
+      "schoolYear": "106"
+    }
+  ],
+  "tech": [
+    {
+      "論文名稱": "Learning with great care: the adoption of the multi-sensor technology in education (2015-03)",
+      "書名": "In Alex Mason, Subhas C. Mukhopadhyay, & Krishanthi Padmarani Jayasundera (Eds.), Sensing Technology: Current Status and Future Trends III",
+      "作者群": "Liu, Ming-Chi, Lai, Chia-Hung, Su, Yen-Ning, Huang, Shu-Hsien, Chien, Yu-Cheng, Huang, Yueh-Min, & Hwang, Jan-Pan"
+    }
+  ],
+  "induAca": [
+    "第二期教育大數據微學程計畫 (2023-11 to 2025-01)",
+    "教育大數據微學程計畫 (2022-11 to 2024-01)",
+    "107年度「扎根高中職資訊科學教育計畫」 (2018-08 to 2019-07)",
+    "特色人物語音模擬研究 (2018-01 to 2018-12)",
+    "高中數學概念的語意網路建立與分析 (2017-10 to 2018-06)"
+  ],
+  "perform": [],
+  "reward": [
+    "113學年度畢業專題成果發表「佳作」 (113, 2024-12) - 逢甲大學",
+    "佳作 (113, 2024-11) - 2024 國際大學生程式競賽(ICPC)台中區域賽",
+    "銅獎 (113, 2024-11) - 2024 國際大學生程式競賽(ICPC)台中區域賽",
+    "佳作 (113, 2024-11) - 2024 國際大學生程式競賽(ICPC)台中區域賽",
+    "112學年度優良導師 (113, 2024-11) - 逢甲大學",
+    "數位+組「銅獎」 (113, 2024-11) - 2024臺灣數創大賞",
+    "中區團體組(第二名) (113, 2024-11) - 113 資訊月資訊應用技能競賽-程式語言C/C++",
+    "銅獎 (113, 2024-10) - 南投縣2024山城數位黑客松競賽",
+    "佳作 (113, 2024-10) - 113 年度全國大專電腦軟體設計競賽",
+    "佳作 (113, 2024-10) - 113 年度全國大專電腦軟體設計競賽",
+    "4佳作 (113, 2024-09) - 2024 ICPC 臺灣線上程式競賽(TOPC 2024)",
+    "銅獎 (113, 2024-09) - 2024 ICPC 臺灣線上程式競賽(TOPC 2024)",
+    "銅獎 (113, 2024-09) - 2024 ICPC 臺灣線上程式競賽(TOPC 2024)",
+    "佳作海報論文 (112, 2024-07) - 第20屆台灣軟體工程研討會(TCSE, 2024)",
+    "金獎 (112, 2024-07) - 第十四屆全國私立大專校院程式競賽(PUPC 2024)",
+    "銀獎 (112, 2024-07) - 第十四屆全國私立大專校院程式競賽(PUPC 2024)",
+    "銀獎 (112, 2024-07) - 第十四屆全國私立大專校院程式競賽(PUPC 2024)",
+    "銀獎 (112, 2024-07) - 第十四屆全國私立大專校院程式競賽(PUPC 2024)",
+    "銀獎 (112, 2024-07) - 第十四屆全國私立大專校院程式競賽(PUPC 2024)",
+    "銅獎 (112, 2024-07) - 第十四屆全國私立大專校院程式競賽(PUPC 2024)",
+    "銅獎 (112, 2024-07) - 第十四屆全國私立大專校院程式競賽(PUPC 2024)",
+    "2024人文與科技跨域創新實踐競賽「佳作」 (112, 2024-06) - 逢甲大學",
+    "2024人文與科技跨域創新實踐競賽「佳作」 (112, 2024-06) - 逢甲大學",
+    "特優 (112, 2024-06) - 2024 全國健康科技創新創意競賽",
+    "優等獎 (112, 2024-05) - 2024 第7屆 致青春‧創未來全國選拔大賽",
+    "資訊系統與網頁設計應用組(佳作) (112, 2023-12) - 2023 ITSA 全國大專校院程式設計極客挑戰賽",
+    "112年度國科會補助大專校院研究獎勵 (112, 2023-12) - 逢甲大學",
+    "佳作 (112, 2023-12) - 112 年度全國大專電腦軟體設計競賽",
+    "佳作 (112, 2023-12) - 112 年度全國大專電腦軟體設計競賽",
+    "中區團體組(第一名) (112, 2023-11) - 112 資訊月資訊應用技能競賽-程式語言C/C++",
+    "全國團體組(第一名) (112, 2023-11) - 112 資訊月資訊應用技能競賽-程式語言C/C++",
+    "鈦坦敏捷開發特別獎(第一名) (112, 2023-11) - 2023大專校院資訊應用服務創新競賽",
+    "佳作 (112, 2023-10) - 2023 國際大學生程式競賽(ICPC)桃園區域賽",
+    "佳作 (112, 2023-10) - 2023 國際大學生程式競賽(ICPC)桃園區域賽",
+    "佳作 (112, 2023-10) - 2023 國際大學生程式競賽(ICPC)桃園區域賽",
+    "佳作 (112, 2023-10) - 2023 國際大學生程式競賽(ICPC)桃園區域賽",
+    "3佳作 (112, 2023-09) - 2023 ICPC 臺灣線上程式競賽(TOPC 2023)",
+    "銀獎 (112, 2023-09) - 2023 ICPC 臺灣線上程式競賽(TOPC 2023)",
+    "銅獎 (112, 2023-09) - 2023 ICPC 臺灣線上程式競賽(TOPC 2023)",
+    "佳作 (111, 2023-07) - 2023 數據驅動創新應用大賽",
+    "金獎 (111, 2023-06) - 第十三屆全國私立大專校院程式競賽(PUPC 2023)",
+    "金獎 (111, 2023-06) - 第十三屆全國私立大專校院程式競賽(PUPC 2023)",
+    "銀獎 (111, 2023-06) - 第十三屆全國私立大專校院程式競賽(PUPC 2023)",
+    "銀獎 (111, 2023-06) - 第十三屆全國私立大專校院程式競賽(PUPC 2023)",
+    "銀獎 (111, 2023-06) - 第十三屆全國私立大專校院程式競賽(PUPC 2023)",
+    "銅獎 (111, 2023-06) - 第十三屆全國私立大專校院程式競賽(PUPC 2023)",
+    "銅獎 (111, 2023-06) - 第十三屆全國私立大專校院程式競賽(PUPC 2023)",
+    "佳作 (111, 2022-11) - 2022 國際大學生程式競賽(ICPC)桃園區域賽",
+    "佳作 (111, 2022-11) - 2022 國際大學生程式競賽(ICPC)桃園區域賽",
+    "佳作 (111, 2022-11) - 2022 國際大學生程式競賽(ICPC)桃園區域賽",
+    "逢甲大學論文著作獎勵優良獎 (111, 2022-11) - 逢甲大學",
+    "金獎 (110, 2022-06) - 第十二屆全國私立大專校院程式競賽(PUPC 2022)",
+    "銀獎 (110, 2022-06) - 第十二屆全國私立大專校院程式競賽(PUPC 2022)",
+    "銅獎 (110, 2022-06) - 第十二屆全國私立大專校院程式競賽(PUPC 2022)",
+    "踏實組「第一名」 (110, 2022-04) - 全國大學校院數位人文大數據學生競賽(110年)",
+    "113學年度畢業專題成果發表「佳作」 (110, 2021-12) - 逢甲大學",
+    "三等獎 (110, 2021-12) - 「2021 APP 移動應用創新賽」大中華區總決賽",
+    "逢甲大學論文著作獎勵傑出獎 (110, 2021-11) - 逢甲大學",
+    "二獎 (110, 2021-08) - 「2021 APP 移動應用創新賽」台灣區決賽",
+    "佳作海報 (109, 2021-07) - 第17屆台灣軟體工程研討會(TCSE, 2021)",
+    "2021逢甲大學創新應用專題競賽「優勝」 (109, 2021-06) - 逢甲大學",
+    "踏實組「第三名」 (109, 2021-04) - 全國大學校院數位人文大數據學生競賽(109年)",
+    "109學年度畢業專題成果發表「第五名」 (109, 2020-12) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (109, 2020-11) - 逢甲大學",
+    "逢甲A'搖籃計畫創業競賽 學生創新組「傑出團隊獎」 (109, 2020-11) - 逢甲大學",
+    "大專學生研究創作獎(108年) (108, 2020-07) - 科技部",
+    "銅獎 (108, 2020-07) - 第十屆全國私立大專校院程式競賽",
+    "遊戲化教學設計組「佳作」 (108, 2020-05) - 2020全球華人教育遊戲設計大賽",
+    "踏實組「佳作」 (108, 2020-03) - 全國大學校院數位人文大數據學生競賽(108年)",
+    "108學年度畢業專題成果發表「優勝」 (108, 2019-12) - 逢甲大學",
+    "107學年度優良導師 (107, 2019-11) - 學生事務處",
+    "逢甲大學論文著作獎勵優良獎 (108, 2019-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (108, 2019-11) - 逢甲大學",
+    "107學年度行政服務優良教師 (108, 2019-09) - 逢甲大學",
+    "踏實組「第二名」 (107, 2019-02) - 全國大學校院數位人文大數據學生競賽(107年)",
+    "107學年度畢業專題成果發表「優勝」 (107, 2018-12) - 逢甲大學"
+  ],
+  "speech": [
+    {
+      "演講題目": "將生成式 AI 融入 CDIO 教學：打造新世代學習體驗",
+      "邀請單位": "教務處教學發展中心【1131教學論壇】",
+      "演講日期": "2025-01"
+    },
+    {
+      "演講題目": "生成式 AI 於自動化教學任務的小分享",
+      "邀請單位": "教務處教學發展中心",
+      "演講日期": "2024-12"
+    },
+    {
+      "演講題目": "用AI工具加值你的資訊能力",
+      "邀請單位": "臺中市工商發展投資策進會",
+      "演講日期": "2024-12"
+    },
+    {
+      "演講題目": "「如何邁向可信任的AI治理時代」與談人",
+      "邀請單位": "2024第七屆人工智慧與法律國際學術研討會",
+      "演講日期": "2024-11"
+    },
+    {
+      "演講題目": "生成式 AI 應用於厭世代教學的實例化解方",
+      "邀請單位": "健行科技大學 教學卓越中心",
+      "演講日期": "2024-10"
+    },
+    {
+      "演講題目": "生成式 AI 是厭世代教學的解方嗎？",
+      "邀請單位": "中臺科技大學 教學發展中心",
+      "演講日期": "2024-07"
+    },
+    {
+      "演講題目": "如果國文課本沒有教，就跟 AI 一起學吧!",
+      "邀請單位": "臺中二中 國文科教學【數位前導計畫】",
+      "演講日期": "2024-04"
+    },
+    {
+      "演講題目": "資工系應試九大金句",
+      "邀請單位": "預見逢甲 Open Festival 2024",
+      "演講日期": "2024-04"
+    },
+    {
+      "演講題目": "把動「手」做帶回計算機科學教育：體現認知與學習應用",
+      "邀請單位": "國立東華大學 資訊工程學系",
+      "演講日期": "2024-03"
+    },
+    {
+      "演講題目": "AI 人工智慧應用教學工作坊",
+      "邀請單位": "馬來西亞 留台校友會聯合總會",
+      "演講日期": "2024-01"
+    },
+    {
+      "演講題目": "AI 人工智慧應用教學工作坊",
+      "邀請單位": "馬來西亞 尊孔獨立中學",
+      "演講日期": "2024-01"
+    },
+    {
+      "演講題目": "AI 融入國中國語文領域教學",
+      "邀請單位": "臺中市政府教育局",
+      "演講日期": "2023-12"
+    },
+    {
+      "演講題目": "Adopting technology-enhanced embodied learning in computer science education",
+      "邀請單位": "國立中央大學 網路學習科技研究所",
+      "演講日期": "2023-11"
+    },
+    {
+      "演講題目": "利用 No-code 工具帶你從頭到尾玩一遍教育資料分析",
+      "邀請單位": "國立高雄師範大學 教育大數據微學程",
+      "演講日期": "2023-11"
+    },
+    {
+      "演講題目": "應用 AI 於輔助厭世代的教學：以會考國文為例",
+      "邀請單位": "國立雲林科技大學 師資培育中心",
+      "演講日期": "2023-10"
+    },
+    {
+      "演講題目": "「當教育大數據遇見AI」課程教學經驗分享",
+      "邀請單位": "教育部【教育大數據分析計畫】",
+      "演講日期": "2023-09"
+    },
+    {
+      "演講題目": "活用ChatGPT提升教學效能",
+      "邀請單位": "國立勤益科技大學 教師科技資訊與媒體素養",
+      "演講日期": "2023-08"
+    },
+    {
+      "演講題目": "當教育大數據遇見 AI 工具",
+      "邀請單位": "國立勤益科技大學 教師科技資訊與媒體素養",
+      "演講日期": "2023-08"
+    },
+    {
+      "演講題目": "應用 ChatGPT 於輔助厭世代的教學",
+      "邀請單位": "國立屏東科技大學 人文學院教師增能研習",
+      "演講日期": "2023-06"
+    },
+    {
+      "演講題目": "活用 ChatGPT 工具升級數位學習腦",
+      "邀請單位": "國立宜蘭大學 圖書資訊館",
+      "演講日期": "2023-05"
+    },
+    {
+      "演講題目": "站在AI肩膀上學習：如何活用 ChatGPT 工具升級學習腦並成就夢想",
+      "邀請單位": "國立清華大學 學習系列講座",
+      "演講日期": "2023-05"
+    },
+    {
+      "演講題目": "選科系? 除了九天玄女，你還可以問問 ChatGPT",
+      "邀請單位": "嘉義縣永慶高中",
+      "演講日期": "2023-01"
+    },
+    {
+      "演講題目": "新工程教育 DIY：科技促進體現學習之虛實融合設計",
+      "邀請單位": "國立雲林科技大學 技術及職業教育所",
+      "演講日期": "2022-11"
+    },
+    {
+      "演講題目": "Adopting technology-enhanced embodied learning in computer science education",
+      "邀請單位": "國立臺灣師範大學 資訊工程學系",
+      "演講日期": "2022-04"
+    },
+    {
+      "演講題目": "從教育理論看我們與資料分析的距離",
+      "邀請單位": "國立臺中科技大學 資訊工程學系",
+      "演講日期": "2022-03"
+    },
+    {
+      "演講題目": "科技部大專生計畫之魷魚遊戲：要參加闖關拿獎金嗎?",
+      "邀請單位": "指導科技部大專生計畫教師工作坊",
+      "演講日期": "2021-11"
+    },
+    {
+      "演講題目": "「三隻小豬」童話中的軟體開發思維",
+      "邀請單位": "資電不分系「資電概論與倫理」",
+      "演講日期": "2021-11"
+    },
+    {
+      "演講題目": "摸的到的演算法：基於體現認知的演算法學習與診斷系統",
+      "邀請單位": "國立成功大學 教育所",
+      "演講日期": "2021-03"
+    },
+    {
+      "演講題目": "線上課程出奇蛋：「教學、研究、計畫」一次滿足",
+      "邀請單位": "國立臺南大學 教務處數位影音學習組",
+      "演講日期": "2020-12"
+    },
+    {
+      "演講題目": "教學實踐計畫作文衝刺：十大問答題各個擊破",
+      "邀請單位": "逢甲大學 110年教學實踐研究計畫徵件說明會",
+      "演講日期": "2020-10"
+    },
+    {
+      "演講題目": "對話式機器人開發工作坊",
+      "邀請單位": "臺北醫學大學 跨領域學院 學習中心",
+      "演講日期": "2020-10"
+    },
+    {
+      "演講題目": "資料哪裡來之網路爬蟲工作坊",
+      "邀請單位": "臺北醫學大學 跨領域學院 學習中心",
+      "演講日期": "2020-10"
+    },
+    {
+      "演講題目": "最佳化知識學習：DATA can help!",
+      "邀請單位": "東吳大學 巨量資料管理學院",
+      "演講日期": "2020-08"
+    },
+    {
+      "演講題目": "演算板：摸的到的演算法",
+      "邀請單位": "互動模擬課程組件支援環境建置計畫",
+      "演講日期": "2020-05"
+    },
+    {
+      "演講題目": "從運算思維到運算行動：實體社交互動遊戲的設計思考實踐",
+      "邀請單位": "國立臺中教育大學通識教育中心",
+      "演講日期": "2020-05"
+    },
+    {
+      "演講題目": "教育資料科學：Sound Can Help",
+      "邀請單位": "電聲碩士專題研討",
+      "演講日期": "2020-05"
+    },
+    {
+      "演講題目": "如何拿到資工系  兩顆無限寶石",
+      "邀請單位": "臺中市立龍津高中",
+      "演講日期": "2020-03"
+    },
+    {
+      "演講題目": "導生你會不會回來 休學個案處理分享",
+      "邀請單位": "導師輔導工作座談會",
+      "演講日期": "2020-02"
+    },
+    {
+      "演講題目": "從運算思維到運算行動：一個實體社交互動遊戲的實踐",
+      "邀請單位": "國立臺中教育大學通識教育中心",
+      "演講日期": "2019-11"
+    },
+    {
+      "演講題目": "給非資訊科系學生的人工智慧",
+      "邀請單位": "國立臺中教育大學通識教育中心",
+      "演講日期": "2019-11"
+    },
+    {
+      "演講題目": "以教育資料科學看《我們與理論的距離》",
+      "邀請單位": "國防大學 資工系",
+      "演講日期": "2019-05"
+    },
+    {
+      "演講題目": "從磨課師學習分析談線上教學實務",
+      "邀請單位": "南臺科大多樂系 創新教學之人才培育工作坊",
+      "演講日期": "2019-05"
+    },
+    {
+      "演講題目": "專題指導新手的料理東西軍",
+      "邀請單位": "教育部大數據學生競賽經驗分享與互動工作",
+      "演講日期": "2019-05"
+    },
+    {
+      "演講題目": "The experience of applying learning analytics in MOOCs: Freestyle or Confucian style?",
+      "邀請單位": "國立東華大學 資工所",
+      "演講日期": "2019-04"
+    },
+    {
+      "演講題目": "計算機概論與實習(IV) 課程執行成果與經驗分享",
+      "邀請單位": "107學年度逢甲大學MOOCs/SPOCs課程推動經驗分享",
+      "演講日期": "2019-03"
+    },
+    {
+      "演講題目": "讀資工系必搶的兩顆無限寶石",
+      "邀請單位": "國立嘉義高級工業職業學校",
+      "演講日期": "2019-03"
+    },
+    {
+      "演講題目": "人工智慧導入中小學 電腦科學教學實務",
+      "邀請單位": "臺南市教育局資訊中心",
+      "演講日期": "2018-07"
+    },
+    {
+      "演講題目": "用ChatBot，講意義(Semantic Meaning)！",
+      "邀請單位": "逢甲大學黑客社 金融科技與資料科學活動",
+      "演講日期": "2018-05"
+    },
+    {
+      "演講題目": "用ChatBot，接地氣(活動推薦)！",
+      "邀請單位": "逢甲大學黑客社 金融科技與資料科學活動",
+      "演講日期": "2018-05"
+    },
+    {
+      "演講題目": "Together We Can Do It！ 淺談運算思維與創客教育",
+      "邀請單位": "創客教育與智慧學習產學聯盟",
+      "演講日期": "2018-04"
+    },
+    {
+      "演講題目": "中小學生也學得會的AI",
+      "邀請單位": "臺南市教育局 創客暨運算思維社區資訊站",
+      "演講日期": "2018-02"
+    },
+    {
+      "演講題目": "手把手教你文字分析 (Hands-on Tutorial of Text Analytics)",
+      "邀請單位": "NCS 2017 全國計算機會議",
+      "演講日期": "2017-12"
+    },
+    {
+      "演講題目": "資料哪裡來：爬蟲實戰",
+      "邀請單位": "國立東華大學 資工所",
+      "演講日期": "2017-12"
+    },
+    {
+      "演講題目": "My way of applying Learning Analytics in  MOOCs",
+      "邀請單位": "2017 磨課師推動成果發表暨開放教育論壇",
+      "演講日期": "2017-12"
+    },
+    {
+      "演講題目": "如何教會電腦聯想力： 計算思維CT Style",
+      "邀請單位": "國立成功大學 教育所",
+      "演講日期": "2017-10"
+    },
+    {
+      "演講題目": "以聊天機器人檢驗與提升服務品質",
+      "邀請單位": "iThome Chatbot Day",
+      "演講日期": "2017-04"
+    },
+    {
+      "演講題目": "How to Prepare, Write, and Publish Research on Educational Technology Journal",
+      "邀請單位": "泰國 Khon Kaen University",
+      "演講日期": "2017-04"
+    },
+    {
+      "演講題目": "Measurement of Cognitive Neuroscience",
+      "邀請單位": "泰國 Khon Kaen University",
+      "演講日期": "2017-04"
+    },
+    {
+      "演講題目": "教育資料思考：人工智慧對教育的衝擊",
+      "邀請單位": "國立台南大學 教育所",
+      "演講日期": "2017-03"
+    },
+    {
+      "演講題目": "教育資料思考：如何應用資料科學於OSCE中",
+      "邀請單位": "大仁科大 OSCE創新學習與雲端大數據高峰論壇",
+      "演講日期": "2016-12"
+    },
+    {
+      "演講題目": "教育資料思考：如何應用資料科學於測驗中",
+      "邀請單位": "國立台中教育大學 教育資訊與測驗統計所",
+      "演講日期": "2016-10"
+    },
+    {
+      "演講題目": "教育中的資料科學",
+      "邀請單位": "國立雲科大 技職教育前瞻趨勢發展系列講座",
+      "演講日期": "2016-03"
+    },
+    {
+      "演講題目": "情感取向數位教育訓練: 讓學習更有Feel",
+      "邀請單位": "國立雲林科技大學 技術及職業教育所",
+      "演講日期": "2015-04"
+    },
+    {
+      "演講題目": "燃起學習小希望: 如何以電腦輔助正向的情感學習",
+      "邀請單位": "2014 創新學習軟體設計主題研究群研討會(IDOLS)",
+      "演講日期": "2014-05"
+    },
+    {
+      "演講題目": "類神經網路、語意相似度",
+      "邀請單位": "國立鳳新高中 電腦研究社",
+      "演講日期": "2014-01"
+    },
+    {
+      "演講題目": "發展智慧型雲端化學習歷程之多媒體電子書學習系統",
+      "邀請單位": "中華民國資訊軟體協會CISA",
+      "演講日期": "2013-09"
+    },
+    {
+      "演講題目": "順理成章：從 APA 格式談文獻寫作",
+      "邀請單位": "2013 創新學習軟體設計主題研究群研討會(IDOLS)",
+      "演講日期": "2012-02"
+    }
+  ],
+  "material": [],
+  "tal": [
+    "112年度大專校院教學實踐研究計畫「應用 Instagram社群媒體平台於學生出題策略對計算機概論學習之成效分析」 (112)",
+    "不遞迴的重修課：專題導向的程式設計線上重修課程開發與學習分析 (109)"
+  ]
+}

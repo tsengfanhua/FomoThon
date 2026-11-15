@@ -1,0 +1,605 @@
+{
+  "success": true,
+  "info": {
+    "yms_year": 114.0,
+    "yms_smester": 1.0,
+    "sub_id": "61530",
+    "cls_id": "CB04320",
+    "scr_dup": "001",
+    "sub_id3": "BUS7990",
+    "cls_name": "風保碩二",
+    "cls_ename": "Master's Program, Department of Risk Management and Insurance",
+    "sub_name": "碩士論文",
+    "sub_ename": "MASTER THESIS",
+    "scr_mso": "必修",
+    "scr_mso_en": "Required",
+    "scr_credit": 0.0,
+    "scr_periodly": "(三)00",
+    "scr_periodly_eng": "(Wed)00",
+    "lang_name": "中文                                                      ",
+    "lang_ename": "Chinese",
+    "scr_room": "待排",
+    "scr_room_eng": "TBD",
+    "scr_teacher": "張永郎",
+    "scr_teacher_eng": "Young-Lang Chang",
+    "scr_selcode": "0421",
+    "scr_elearning": "全學期",
+    "scr_elearning_en": "Full semester",
+    "scr_hours": "1",
+    "scr_english": "N",
+    "unt_name": null,
+    "unt_ename": null,
+    "link_traminal": null,
+    "link_traminal_en": null,
+    "scr_ldl": "D",
+    "course_mk": "N",
+    "teams_mk": "N",
+    "sub_title": null,
+    "sub_title_en": null,
+    "sub_describe": null,
+    "sub_describe_en": null,
+    "hasDescription": null,
+    "hasInstructor": null,
+    "hasTA": null,
+    "hasTextBooks": null,
+    "hasReadings": null,
+    "hasiSoftwares": null,
+    "hasAssistSoftwares": null,
+    "hasObjective": null,
+    "hasWeeklyScds": null,
+    "hasGradeRules": null,
+    "hasGradeRuleDescribe": null,
+    "hasIntegrity": null,
+    "hasCoursePol": null,
+    "hasCourseRem": null,
+    "hasObjectiveReleation": null,
+    "hasTopicSdgs": null,
+    "hasSubTitleDesc": null
+  },
+  "subTitleDesc": null,
+  "description": {
+    "sub_id3": null,
+    "sub_name": "碩士論文",
+    "sub_ename": "MASTER THESIS",
+    "describe_ch": "就其研究議題邀請從事該議題相關研究之教師擔任指導教授，經論文計畫書報告及學位考後取得碩士學位。",
+    "describe_eh": "To search advisor to teach students understand how to collect and analysis the data, also understand how to writing thesis. To get the MBA students have to pass proposal and degree examination.",
+    "pre_subname": "",
+    "pre_sub_id3": null,
+    "pre_sub_ename": "",
+    "pre_describe": null,
+    "pre_describe_en": null,
+    "scr_credit": 0.0
+  },
+  "targets": [
+    {
+      "seq": 1,
+      "describe_ch": "瞭解如何收集資料",
+      "describe_en": "understand how to collect data"
+    },
+    {
+      "seq": 2,
+      "describe_ch": "瞭解資料之整理分析",
+      "describe_en": "understand how to analyze the data"
+    },
+    {
+      "seq": 3,
+      "describe_ch": "瞭解論文之撰寫",
+      "describe_en": "understand how to writing"
+    }
+  ],
+  "teachersInfo": [
+    {
+      "cname": "張永郎",
+      "ename": "Young-Lang Chang",
+      "period": "(Tue)07-08 商1036,(Thu)03-04 商1036",
+      "roletype": 0,
+      "email": "yunlchang@o365.fcu.edu.tw",
+      "ext": "4128"
+    }
+  ],
+  "textBooks": {
+    "yms_year": 114.0,
+    "yms_smester": 1.0,
+    "cls_id": "CB04320",
+    "sub_id": "61530",
+    "scr_dup": "001",
+    "tpb_seq": 1,
+    "tpb_book": "<div>由指導教授自行規定相關文獻與資料</div>\n",
+    "tpb_book_en": null
+  },
+  "readings": {
+    "yms_year": 114.0,
+    "yms_smester": 1.0,
+    "cls_id": "CB04320",
+    "sub_id": "61530",
+    "scr_dup": "001",
+    "tpc_seq": 1,
+    "tpc_book": "<div>由指導教授自行規定相關文獻與資料</div>\n",
+    "tpc_book_en": null
+  },
+  "iSoftwares": [],
+  "assistSoftwares": [],
+  "weeklyScds": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CB04320",
+      "sub_id": "61530",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "1-3",
+      "tpd_reading": "<div>指導教授個別指導研究生-包含文獻回顧、收集資料、整理分析，以及論文撰寫</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": " ",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CB04320",
+      "sub_id": "61530",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "4-6",
+      "tpd_reading": "<div>指導教授個別指導研究生-包含文獻回顧、收集資料、整理分析，以及論文撰寫</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": " ",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CB04320",
+      "sub_id": "61530",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "7-9",
+      "tpd_reading": "<div>指導教授個別指導研究生-包含文獻回顧、收集資料、整理分析，以及論文撰寫</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": " ",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CB04320",
+      "sub_id": "61530",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "10-12",
+      "tpd_reading": "<div>指導教授個別指導研究生-包含文獻回顧、收集資料、整理分析，以及論文撰寫</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": " ",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CB04320",
+      "sub_id": "61530",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "13-15",
+      "tpd_reading": "<div>指導教授個別指導研究生-包含文獻回顧、收集資料、整理分析，以及論文撰寫</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": " ",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CB04320",
+      "sub_id": "61530",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "16-17",
+      "tpd_reading": "<div>指導教授個別指導研究生-包含文獻回顧、收集資料、整理分析，以及論文撰寫</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": " ",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CB04320",
+      "sub_id": "61530",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "18",
+      "tpd_reading": "<div>指導教授個別指導研究生-包含文獻回顧、收集資料、整理分析，以及論文撰寫</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": " ",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    }
+  ],
+  "gradeRules": [],
+  "gradeRuleDescribe": {
+    "yms_year": 114.0,
+    "yms_smester": 1.0,
+    "cls_id": "CB04320",
+    "sub_id": "61530",
+    "scr_dup": "001",
+    "tpa_score_new": "<div>由指導老師自訂</div>\n",
+    "tpa_score_new_en": null,
+    "course_pol": "依照各指導教授要求進行論文指導與寫作。 \n相關規定請至MyFCU/學校資源/訊息公告/法規查詢詳閱 : 逢甲大學研究生學位考試要點、逢甲大學學位論文指導教授與研究生互動要點、逢甲大學研究生學位論文專業檢核要點、逢甲大學風險管理與保險學系碩士班指導教授與研究生互動須知及逢甲大學風險管理與保險學系碩士班研究生修業須知。",
+    "course_pol_en": null,
+    "course_rem": null,
+    "course_rem_en": null,
+    "ais_meno": "<div>1.學習必須以誠信為基礎，任何學生企圖將自己未製作的論文，作為自己的論文，此行為是為不誠實行為。</div>\n\n<div>&nbsp;</div>\n\n<div>\n<div>2.必須認真遵守用於確認語詞和想法來源的標準規則。如果您使用了文獻，或者是另一位作者的用語或想法，則必須確認這些用語或想法的來源，並在報告中標註這些素材的出處。作者的姓名和在句子末尾，包含使用原材料的頁碼。</div>\n\n<div>&nbsp;</div>\n\n<div>3.用Turnitin 原創性比對系統，論文相似度不得超過20%</div>\n</div>\n",
+    "ais_meno_en": null,
+    "ilearn_mk": null
+  },
+  "integrity": {
+    "yms_year": 114.0,
+    "yms_smester": 1.0,
+    "cls_id": "CB04320",
+    "sub_id": "61530",
+    "scr_dup": "001",
+    "tpa_score_new": "<div>由指導老師自訂</div>\n",
+    "tpa_score_new_en": null,
+    "course_pol": "依照各指導教授要求進行論文指導與寫作。 \n相關規定請至MyFCU/學校資源/訊息公告/法規查詢詳閱 : 逢甲大學研究生學位考試要點、逢甲大學學位論文指導教授與研究生互動要點、逢甲大學研究生學位論文專業檢核要點、逢甲大學風險管理與保險學系碩士班指導教授與研究生互動須知及逢甲大學風險管理與保險學系碩士班研究生修業須知。",
+    "course_pol_en": null,
+    "course_rem": null,
+    "course_rem_en": null,
+    "ais_meno": "<div>1.學習必須以誠信為基礎，任何學生企圖將自己未製作的論文，作為自己的論文，此行為是為不誠實行為。</div>\n\n<div>&nbsp;</div>\n\n<div>\n<div>2.必須認真遵守用於確認語詞和想法來源的標準規則。如果您使用了文獻，或者是另一位作者的用語或想法，則必須確認這些用語或想法的來源，並在報告中標註這些素材的出處。作者的姓名和在句子末尾，包含使用原材料的頁碼。</div>\n\n<div>&nbsp;</div>\n\n<div>3.用Turnitin 原創性比對系統，論文相似度不得超過20%</div>\n</div>\n",
+    "ais_meno_en": null,
+    "ilearn_mk": null
+  },
+  "policy": {
+    "yms_year": 114.0,
+    "yms_smester": 1.0,
+    "cls_id": "CB04320",
+    "sub_id": "61530",
+    "scr_dup": "001",
+    "tpa_score_new": "<div>由指導老師自訂</div>\n",
+    "tpa_score_new_en": null,
+    "course_pol": "依照各指導教授要求進行論文指導與寫作。 \n相關規定請至MyFCU/學校資源/訊息公告/法規查詢詳閱 : 逢甲大學研究生學位考試要點、逢甲大學學位論文指導教授與研究生互動要點、逢甲大學研究生學位論文專業檢核要點、逢甲大學風險管理與保險學系碩士班指導教授與研究生互動須知及逢甲大學風險管理與保險學系碩士班研究生修業須知。",
+    "course_pol_en": null,
+    "course_rem": null,
+    "course_rem_en": null,
+    "ais_meno": "<div>1.學習必須以誠信為基礎，任何學生企圖將自己未製作的論文，作為自己的論文，此行為是為不誠實行為。</div>\n\n<div>&nbsp;</div>\n\n<div>\n<div>2.必須認真遵守用於確認語詞和想法來源的標準規則。如果您使用了文獻，或者是另一位作者的用語或想法，則必須確認這些用語或想法的來源，並在報告中標註這些素材的出處。作者的姓名和在句子末尾，包含使用原材料的頁碼。</div>\n\n<div>&nbsp;</div>\n\n<div>3.用Turnitin 原創性比對系統，論文相似度不得超過20%</div>\n</div>\n",
+    "ais_meno_en": null,
+    "ilearn_mk": null
+  },
+  "courseBankC": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CB04320",
+      "sub_id": "61530",
+      "scr_dup": "001",
+      "seq": 1,
+      "describe_ch": "瞭解如何收集資料",
+      "describe_en": "understand how to collect data",
+      "core_id": "C",
+      "core_item": "學生具備企業倫理與社會責任理解能力",
+      "core_eng": "Students are able to demonstrate awareness of business ethics and social responsibility",
+      "core_level": "2 ",
+      "strgy": [
+        "07",
+        "08"
+      ],
+      "evalb": [
+        "K1"
+      ],
+      "strgy_name": [
+        "指定閱讀",
+        "書面報告"
+      ],
+      "strgy_name_en": [
+        "Extensive reading",
+        "Written report"
+      ],
+      "evalb_name": [
+        "口試"
+      ],
+      "evalb_name_en": [
+        "Oral exam"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CB04320",
+          "sub_id": "61530",
+          "scr_dup": "001",
+          "seq": 1,
+          "strgy_id": "07",
+          "strgy_name": null,
+          "strgy_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CB04320",
+          "sub_id": "61530",
+          "scr_dup": "001",
+          "seq": 1,
+          "strgy_id": "08",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CB04320",
+          "sub_id": "61530",
+          "scr_dup": "001",
+          "seq": 1,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "K1",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CB04320",
+      "sub_id": "61530",
+      "scr_dup": "001",
+      "seq": 2,
+      "describe_ch": "瞭解資料之整理分析",
+      "describe_en": "understand how to analyze the data",
+      "core_id": "D",
+      "core_item": "學生具備應用資訊科技以整合跨領域及解決問題的能力",
+      "core_eng": "Students possess the abilities to integrate interdisciplinary expertise and solve problems by leveraging information technology",
+      "core_level": "2 ",
+      "strgy": [
+        "07",
+        "08"
+      ],
+      "evalb": [
+        "K1"
+      ],
+      "strgy_name": [
+        "指定閱讀",
+        "書面報告"
+      ],
+      "strgy_name_en": [
+        "Extensive reading",
+        "Written report"
+      ],
+      "evalb_name": [
+        "口試"
+      ],
+      "evalb_name_en": [
+        "Oral exam"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CB04320",
+          "sub_id": "61530",
+          "scr_dup": "001",
+          "seq": 2,
+          "strgy_id": "07",
+          "strgy_name": null,
+          "strgy_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CB04320",
+          "sub_id": "61530",
+          "scr_dup": "001",
+          "seq": 2,
+          "strgy_id": "08",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CB04320",
+          "sub_id": "61530",
+          "scr_dup": "001",
+          "seq": 2,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "K1",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CB04320",
+      "sub_id": "61530",
+      "scr_dup": "001",
+      "seq": 3,
+      "describe_ch": "瞭解論文之撰寫",
+      "describe_en": "understand how to writing",
+      "core_id": "D",
+      "core_item": "學生具備應用資訊科技以整合跨領域及解決問題的能力",
+      "core_eng": "Students possess the abilities to integrate interdisciplinary expertise and solve problems by leveraging information technology",
+      "core_level": "2 ",
+      "strgy": [
+        "07",
+        "08"
+      ],
+      "evalb": [
+        "K1"
+      ],
+      "strgy_name": [
+        "指定閱讀",
+        "書面報告"
+      ],
+      "strgy_name_en": [
+        "Extensive reading",
+        "Written report"
+      ],
+      "evalb_name": [
+        "口試"
+      ],
+      "evalb_name_en": [
+        "Oral exam"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CB04320",
+          "sub_id": "61530",
+          "scr_dup": "001",
+          "seq": 3,
+          "strgy_id": "07",
+          "strgy_name": null,
+          "strgy_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CB04320",
+          "sub_id": "61530",
+          "scr_dup": "001",
+          "seq": 3,
+          "strgy_id": "08",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CB04320",
+          "sub_id": "61530",
+          "scr_dup": "001",
+          "seq": 3,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "K1",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    }
+  ],
+  "topicSdgs": [],
+  "learnHours": {
+    "total": 0.0,
+    "tpdOnlineAsyTotal": 0.0,
+    "tpdOnlineSynTotal": 0.0,
+    "tpdOnlineFaceTotal": 0.0,
+    "asySynInTotalPercent": 0.0
+  },
+  "crossVerYear": 114
+}

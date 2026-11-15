@@ -1,0 +1,763 @@
+{
+  "teacherId": "T91140",
+  "name": "張立德",
+  "mainUnit": "工程與科學學院",
+  "detailUnit": "環境工程與科學學系",
+  "skill": [
+    "空氣污染監測分析Air Pollution Monitoring",
+    "暴露評估Exposure Assessment",
+    "健康風險評估Health Risk Assessment",
+    "室內空氣品質Indoor Air Quality",
+    "環境衛生Environmental Health",
+    "職業衛生Occupational Hygiene",
+    "環境統計Environmental Statistics"
+  ],
+  "edu": [
+    "哈佛大學 環境衛生學系 博士",
+    "哈佛大學 環境衛生學系 碩士",
+    "國立台灣大學 公共衛生學系 學士"
+  ],
+  "fcuExp": [
+    "環境工程與科學學系 系主任",
+    "環境工程與科學學系 助理教授",
+    "環境工程與科學學系 副教授"
+  ],
+  "currjob": [],
+  "otherExp": [
+    "哈佛大學 環境衛生學系 博士後研究人員"
+  ],
+  "journal": [
+    {
+      "論文名稱": "Eosinophilic Inflammation: A Key Player in COPD Pathogenesis and Progression",
+      "期刊名稱": "Annals of Medicine (SCIE)",
+      "作者群": "Lee YL, Heriyanto DS, Yuliani FS, Laiman V, Choridah L, Lee KY, Chang JH, Chung KF, Chang LT, Chang TY, Chen XY, Peng SW, Chuang KJ, Chuang HC*"
+    },
+    {
+      "論文名稱": "Exposure and Health Risk Assessment of Volatile Organic Compounds among Drivers and Passengers in Long-distance Buses",
+      "期刊名稱": "Environmental Research (SCIE)",
+      "作者群": "Chen JJ, Wang TB, Chang LT, Chuang KJ, Chuang HC, Chang TY*"
+    },
+    {
+      "論文名稱": "Changes in Indoor Air Quality in Public Facilities before and after the Enactment of Taiwan's Indoor Air Quality Management Act",
+      "期刊名稱": "Indoor Air (SCIE)",
+      "作者群": "Chen HL, Chih PS, Chuang KJ, Chuang HC, Chang LT*"
+    },
+    {
+      "論文名稱": "Application of Artificial Intelligence Algorithms and Low-cost Sensors to Estimate Respirable Dust in the Workplace",
+      "期刊名稱": "Environment International (SCIE)",
+      "作者群": "Chang TY*, Chen GY, Chen JJ, Young LH, Chang LT"
+    },
+    {
+      "論文名稱": "The Impact of Air Pollution on Respiratory Diseases in an Era of Climate Change: A Review of the Current Evidence",
+      "期刊名稱": "Science of the Total Environment (SCIE)",
+      "作者群": "Tran HM, Tsai FJ, Lee YL, Chang JH, Chang LT, Chang TY, Chung KF, Kuo HP, Lee KY, Chuang KJ, Chuang HC*"
+    },
+    {
+      "論文名稱": "Climate Change, Air Quality, and Respiratory Health: A Focus on Particle Deposition in the Lungs",
+      "期刊名稱": "Annals of Medicine (SCIE)",
+      "作者群": "Chang JH, Lee YL, Chang LT, Chang TY, Hsiao TC, Chung KF, Ho KF, Kuo HP, Lee KY, Chuang KJ, Chuang HC*"
+    },
+    {
+      "論文名稱": "Ambient Relative Humidity-dependent Obstructive Sleep Apnea Severity in Cold Season: A Case-control Study",
+      "期刊名稱": "Science of the Total Environment (SCIE)",
+      "作者群": "Bai KJ, Liu WT, Lin YC, He Y, Lee YL, Wu D, Chang TY, Chang LT, Lai CY, Tsai CY, Chung KF, Ho KF, Chuang KJ, Chuang HC*"
+    },
+    {
+      "論文名稱": "Exposure to Volatile Organic Compounds and Risk Perception among Workers: An Industry-based Cross-sectional Survey",
+      "期刊名稱": "Human and Ecological Risk Assessment: An International Journal (SCIE)",
+      "作者群": "Chang LT, Mai CJ, Yang SY, Chang TY*"
+    },
+    {
+      "論文名稱": "Ranking the Environmental Factors of Indoor Air Quality of Metropolitan Independent Coffee Shops by Random Forests Model",
+      "期刊名稱": "Scientific Reports (SCIE)",
+      "作者群": "Lin YW, Tang CS*, Liu HC, Lee TY, Huang HY, Hsu TA, Chang LT"
+    },
+    {
+      "論文名稱": "The Impacts of Ambient Relative Humidity and Temperature on Supine Position-related Obstructive Sleep Apnea in Adults",
+      "期刊名稱": "Environmental Science and Pollution Research (SCIE)",
+      "作者群": "Liu WT, Wang YH, Chang LT, Wu CD, Wu D, Tsai CY, Lo CC, Lo K, Chung KF, Chang TY, Chuang KJ, Lee YL, Chuang HC*"
+    },
+    {
+      "論文名稱": "Association of Long-term Indoor Exposure to Fine Particles with Pulmonary Effects in Northern Taiwan",
+      "期刊名稱": "Science of The Total Environment (SCIE)",
+      "作者群": "Chang LT, Liu IJ, Chang TY, Hong GB, Lin LY, Chuang HC, Ho KF, Chuang KJ*"
+    },
+    {
+      "論文名稱": "Development of Land-use Regression Models to Estimate Particle Mass and Number Concentrations in Taichung, Taiwan",
+      "期刊名稱": "Atmospheric Environment (SCIE)",
+      "作者群": "Chang TY*, Tsai CC, Wu CF, Chang LT, Chuang KJ, Chuang HC, Young LH"
+    },
+    {
+      "論文名稱": "Hepatotoxicity Caused by Repeated and Subchronic Pulmonary Exposure to Low-level Vinyl Chloride in Mice",
+      "期刊名稱": "Atmosphere (SCIE)",
+      "作者群": "Chang LT, Lee YL, Yuan TH, Chang JH, Chang TY, Lee CH, Ho KF, Chuang HC*"
+    },
+    {
+      "論文名稱": "Risk Assessment for People Exposed to PM2.5 and Constituents at Different Vertical Heights in an Urban Area of Taiwan",
+      "期刊名稱": "Atmosphere (SCIE)",
+      "作者群": "Chen HL, Li CP, Tang CS, Lung SCC, Chuang HC, Chou DW, Chang LT*"
+    },
+    {
+      "論文名稱": "Investigation of Microenvironmental Exposures to Particle-Bound Polycyclic Aromatic Hydrocarbons for Elementary School Children",
+      "期刊名稱": "International Journal of Environmental Research and Public Health (SCIE)",
+      "作者群": "Tang CS, Lung SCC, Chang TY, Tu HH, Chang LT*"
+    },
+    {
+      "論文名稱": "Effects of Personal Exposures to Micro- and Nano-Particulate Matter, Black Carbon, Particle-Bound Polycyclic Aromatic Hydrocarbons, and Carbon Monoxide on Heart Rate Variability in a Panel of Healthy Older Subjects",
+      "期刊名稱": "International Journal of Environmental Research and Public Health (SCIE)",
+      "作者群": "Tang CS, Chuang KJ, Chang TY, Chuang HC, Chen LH, Lung SCC, Chang LT*"
+    },
+    {
+      "論文名稱": "Application of Land-use Regression Models to Estimate Sound Pressure Levels and Frequency Components of Road Traffic Noise in Taichung, Taiwan",
+      "期刊名稱": "Environment International (SCIE)",
+      "作者群": "Chang TY*, Liang CH, Wu CF, Chang LT"
+    },
+    {
+      "論文名稱": "Microglial Activation and Inflammation Caused by Traffic-related Particulate Matter",
+      "期刊名稱": "Chemico-Biological Interactions (SCIE)",
+      "作者群": "Bai KJ, Chuang KJ, Chen CL, Jhan MK, Hsiao TC, Cheng TJ, Chang LT, Chang TY, Chuang HC*"
+    },
+    {
+      "論文名稱": "Impacts of In-Cabin Exposure to Size-fractionated Particulate Matters and Carbon Monoxide on Changes in Heart Rate Variability for Healthy Public Transit Commuters",
+      "期刊名稱": "Atmosphere (SCIE)",
+      "作者群": "Tang CS, Wu TY, Chuang KJ, Chang TY, Chuang HC, Lung SCC, Chang LT*"
+    },
+    {
+      "論文名稱": "Indoor Ozone Levels, Houseplants and Peak Expiratory Flow Rates among Healthy Adults in Taipei, Taiwan",
+      "期刊名稱": "Environment International (SCIE)",
+      "作者群": "Chang LT, Hong GB, Weng SP, Chuang HC, Chang TY, Liu CW, Chuang WY, Chuang KJ*"
+    },
+    {
+      "論文名稱": "Effects of Diesel Exhaust Particles on the Expression of Tau and Autophagy Proteins in Human Neuroblastoma Cells",
+      "期刊名稱": "Environmental Toxicology and Pharmacology (SCIE)",
+      "作者群": "Bai KJ, Chuang KJ, Wu SM, Chang LT, Chang TY, Ho KF, Chuang HC"
+    },
+    {
+      "論文名稱": "Road Traffic Noise, Air Pollutants, and the Prevalence of Cardiovascular Disease in Taichung, Taiwan",
+      "期刊名稱": "International Journal of Environmental Research and Public Health (SCIE)",
+      "作者群": "Yang WT, Wang VS, Chang LT, Chuang KJ, Chuang HC, Liu CS, Bao BY, Chang TY"
+    },
+    {
+      "論文名稱": "Short-term Exposure to Noise, Fine Particulate Matter and Nitrogen Oxides on Ambulatory Blood Pressure:A Repeated-measure Study",
+      "期刊名稱": "Environmental Research (SCIE)",
+      "作者群": "Chang LT, Chuang KJ, Yang WT, Wang VS, Chuang HC, Bao BY, Liu CS, Chang TY"
+    },
+    {
+      "論文名稱": "Catalytic Ozonation of Oxalic Acid Using SrTiO3 Catalyst",
+      "期刊名稱": "Ozone: Science & Engineering (SCIE)",
+      "作者群": "Wu JJ*, Muruganandham M, Chang LT, Lee GJ, Batalova VN, Mokrousov GM"
+    },
+    {
+      "論文名稱": "Oxidation of Propylene Glycol Methyl Ether Acetate Using Ozone-based Advanced Oxidation Processes",
+      "期刊名稱": "Ozone: Science and Engineering (SCIE)",
+      "作者群": "J.J. Wu, M. Muruganandham, L.T. Chang, and S.H. Chen"
+    },
+    {
+      "論文名稱": "Association of Heart Rate Variability of the Elderly with Personal Exposure to PM1, PM1-2.5, and PM2.5-10",
+      "期刊名稱": "Bulletin of Environmental Contamination and Toxicology (SCIE)",
+      "作者群": "Chang LT, Tang CS, Pan YZ, Chan CC"
+    },
+    {
+      "論文名稱": "Effects of Personal Particulate Matter on Peak Expiratory Flow Rate of Asthmatic Children",
+      "期刊名稱": "Science of the Total Environment (SCIE)",
+      "作者群": "Tang CS, Chang LT, Lee HC, Chan CC"
+    },
+    {
+      "論文名稱": "Ozone-based Advanced Oxidation Processes for the Decomposition of N-Methyl-2-Pyrolidone in Aqueous Medium",
+      "期刊名稱": "Ozone Science and Engineering (SCIE)",
+      "作者群": "Wu JJ, Muruganandham M, Chang LT, Yang, JS, Chen SH"
+    },
+    {
+      "論文名稱": "台北縣八鄉鎮國小學童氣喘盛行率之調查",
+      "期刊名稱": "輔仁醫學期刊 ()",
+      "作者群": "張立德、林佑蓉、唐進勝"
+    },
+    {
+      "論文名稱": "Assessing the Importance of Different Exposure Metrics and Time-Activity Data to Predict 24-h Personal PM2.5 Exposures",
+      "期刊名稱": "Journal of Toxicology and Environmental Health-Part A (SCIE)",
+      "作者群": "Chang LT, Koutrakis P, Catalano PJ, Suh HH"
+    }
+  ],
+  "journal2": [],
+  "conference": [
+    {
+      "論文名稱": "Investigation of Indoor Air Quality for the Announced Facilities under Taiwan’s Indoor Air Quality Management Act: 2014-2021",
+      "會議名稱": "International Symposium on Engineering and Applied Science (The 6th ISEAS)",
+      "作者群": "Chang LT, Chao PH, Tang CS, Chen HL"
+    },
+    {
+      "論文名稱": "半導體封裝測試製程之危害暴露與認知調查研究",
+      "會議名稱": "2023年廠務與潔淨室技術學術研討會",
+      "作者群": "張立德、張大元、麥家睿、楊秀宜"
+    },
+    {
+      "論文名稱": "Aerosol Compositions in Three Urban Areas in Taiwan during 2016-2021",
+      "會議名稱": "The 20th Annual Meeting of Asia Oceania Geosciences Society (AOGS 2023)",
+      "作者群": "Lung SCC, Wen TYJ, Lee CW, Chang LT"
+    },
+    {
+      "論文名稱": "Indoor Air Quality in Public Facilities before and after the Enactment of Taiwan's Indoor Air Quality Act",
+      "會議名稱": "The 11th International Conference on Indoor Air Quality, Ventilation & Energy Conservation in Buildings (IAQVEC 2023)",
+      "作者群": "Chen HL, Chang LT"
+    },
+    {
+      "論文名稱": "利用簡易微型感測器探討國小孩童之微環境微粒暴露與熱暴露",
+      "會議名稱": "2021 Conference on Indoor Environmental Quality Health, Infection Prevention and Intelligent Living in Asia",
+      "作者群": "林薪祐、張立德、唐進勝、龍世俊"
+    },
+    {
+      "論文名稱": "國小學童微粒及熱暴露與呼吸道健康之相關性分析",
+      "會議名稱": "第27屆國際氣膠科技研討會",
+      "作者群": "陳宜寧、林薪祐、張立德、唐進勝"
+    },
+    {
+      "論文名稱": "Investigation of Contributing Factors for Nano- and Micro-particulate Concentrations in Urban Street Market Area",
+      "會議名稱": "11th Asian Aerosol Conference (AAC 2019)",
+      "作者群": "Chang LT, Tang CS, Lung SCC"
+    },
+    {
+      "論文名稱": "夜市商圈多粒徑微粒暴露濃度之貢獻因子探討",
+      "會議名稱": "第25屆國際氣膠科技研討會",
+      "作者群": "羅毓璇，張立德，唐進勝"
+    },
+    {
+      "論文名稱": "The Correlation Analysis between Particulate Exposures and Respiratory\r\nIndices for College Students",
+      "會議名稱": "International Conference on Engineering and Applied Science",
+      "作者群": "Chang LT, Tang CS, Lung SCC, Lo CL"
+    },
+    {
+      "論文名稱": "Characterization and Health Risk Assessment of Exposure to Volatile Organic Compounds in the Region of an Integrated Circuit Assembly and Testing Company",
+      "會議名稱": " ISEE/ES-AC 2018",
+      "作者群": "Sakala NC, Chang LT, Lee SA, Chang TY"
+    },
+    {
+      "論文名稱": "Policy Effectiveness of\r\nIndoor Air Quality Act in Taiwan",
+      "會議名稱": "Healthy Buildings 2017 Asia",
+      "作者群": "Wang MC, Hsu NY, Chang LT, Su HJ"
+    },
+    {
+      "論文名稱": "Investigating Tourist Exposures to Ultrafine and Multi-Sized Particles in an Asian Street Market",
+      "會議名稱": "10th Asian Aerosol Conference (AAC2017)",
+      "作者群": "Lin TY, Chang LT, Tang CS and Lung SCC"
+    },
+    {
+      "論文名稱": "Surveillance for Work-related Hearing Loss in Taiwan: 2004–2015",
+      "會議名稱": "The 22nd Asian Conference on Occupational Health (ACOH2017)",
+      "作者群": "Chang LT, Chang CK, Lin TY, Chen YW"
+    },
+    {
+      "論文名稱": "噪音測站多音源環境下音源貢獻解析",
+      "會議名稱": "台灣聲學學會第29屆學術研討會",
+      "作者群": "陳威升、蔡宗佑、謝長霖、張立德、劉霈、吳志超"
+    },
+    {
+      "論文名稱": "溫度變化與WBGT對健康成年人心跳速率變異性之影響",
+      "會議名稱": "2016台灣公共衛生學會聯合大會暨學術研討會",
+      "作者群": "林芸筠，馬翊綺，唐進勝，張立德"
+    },
+    {
+      "論文名稱": "Baseline Evaluation of Indoor Air Quality in Public Facilities after Enactment of Taiwan's Indoor Air Quality Management Act",
+      "會議名稱": "ISEE-ISES AC2016",
+      "作者群": "Chang LT, Tang CS, Chen HL"
+    },
+    {
+      "論文名稱": "「室內空氣品質管理法」實施後公共場所室內空氣品質之探討",
+      "會議名稱": "2016職業衛生研討會",
+      "作者群": "彭浩德，陳品樺，洪碧伶，王素蜜，朱鈺琳，李文惠，張立德，陳秀玲"
+    },
+    {
+      "論文名稱": "不同粒徑微粒與細懸浮微粒成分對健康成年人心跳速率變異性之影響",
+      "會議名稱": "2016職業衛生研討會",
+      "作者群": "馬翊綺，唐進勝，張立德"
+    },
+    {
+      "論文名稱": "高層建築大樓室內空氣品質之垂直分佈",
+      "會議名稱": "2015空氣污染控制技術研討會",
+      "作者群": "蕭大智，陳宏碩，張立德"
+    },
+    {
+      "論文名稱": "Seasonal and Regional Characteristics of PM2.5 and Speciation in Taiwan from 2006-2009",
+      "會議名稱": "2015 Asian Aerosol Conference (AAC2015)",
+      "作者群": "Chang LT, Chou CCK, Tang CS, Su HJ"
+    },
+    {
+      "論文名稱": "The Effects of Seasonal Temperature Changes on Heart Rate Variability for Healthy Elder People in a Subtropical City",
+      "會議名稱": "International Society of Environmental Epidemiology (ISEE) 26th Annual Conference",
+      "作者群": "Chang LT, Tang CS, Huang PC, Lung SCC"
+    },
+    {
+      "論文名稱": "The Effects of In-cabin Exposures to Multi-sized Particulate Matters and Carbon Monoxide on Changes in Heart Rate Variability for Healthy Public Transit Commuters",
+      "會議名稱": "The 13th International Conference on Indoor Air Quality and Climate (Indoor Air 2014)",
+      "作者群": "Chang LT, Tang CS, Lung SCC"
+    },
+    {
+      "論文名稱": "醫院空氣中甲醛、臭氧及室內空氣品質指標分佈研究",
+      "會議名稱": "2014職業衛生研討會",
+      "作者群": "鄭安邑，唐進勝，董道興，張立德"
+    },
+    {
+      "論文名稱": "積體電路封裝測試產業勞工之揮發性有機物暴露評估",
+      "會議名稱": "2014職業衛生研討會",
+      "作者群": "麥家睿，張立德，楊秀宜，張大元"
+    },
+    {
+      "論文名稱": "半導體封裝測試製程有害物暴露調查",
+      "會議名稱": "2014職業衛生研討會",
+      "作者群": "楊秀宜，張大元，張立德 ，麥家睿，李聯雄"
+    },
+    {
+      "論文名稱": "\"Taiwan Megacity Environmental Research\"-Impacts of Climate Change on Air Quality and Health in Urban Areas",
+      "會議名稱": "The 9th APRU Research Symposium on Multi-Hazards around the Pacific Rim",
+      "作者群": "Lung SCC, Chang CC, Chou CCK, Chen WN, Lin CY, Chen JP, Hung HM, Lin PH, Chen WT, Lee CW, Chang LT, Tang CS, Guo HR"
+    },
+    {
+      "論文名稱": "不同季節之溫度變化對健康老年人心跳速率變異性之影響",
+      "會議名稱": "2013職業衛生研討會",
+      "作者群": "黃柏鈞，唐進勝，張立德"
+    },
+    {
+      "論文名稱": "Application of Global Positioning System Technology to Explore the Relationship Between Air Quality Monitoring Station Data and Personal Exposure Measurements",
+      "會議名稱": "International Society of Exposure Science (ISES) 2012 Annual Conference",
+      "作者群": "Chang LT, Tang CS, Chi TT, Lung SCC"
+    },
+    {
+      "論文名稱": "The Investigation of Nano- and Micro-particulate Concentrations in an Asian Street Market",
+      "會議名稱": "The 12th International Global Atmospheric Chemistry (IGAC) Science Conference",
+      "作者群": "Chang LT, Tang CS, Lung SCC"
+    },
+    {
+      "論文名稱": "Using Heart Rate Variability to Assess the Effects of Particulate and Carbon Monoxide Exposures in Different Public Transits for Healthy Young Adults",
+      "會議名稱": "The 12th International Global Atmospheric Chemistry (IGAC) Science Conference",
+      "作者群": "Tang CS, Chang LT, Lung SCC"
+    },
+    {
+      "論文名稱": "\"Taiwan Megacity Environmental Research\"-Impacts of Secondary Organic Aerosols",
+      "會議名稱": "The 12th International Global Atmospheric Chemistry (IGAC) Science Conference",
+      "作者群": "Lung SCC, Chen JP, Lee CW, Hung HM, Chang CC, Chou CCK, Chen WN, Lin PH, Chang LT, Tang CS, Lin CY"
+    },
+    {
+      "論文名稱": "Exposure Assessment of a Tourist to Ultrafine Particles in an Asian Street Market",
+      "會議名稱": "International Society of Exposure Science (ISES) 2011 Annual Conference",
+      "作者群": "Chang LT, Tang CS, Wang LJ, Lung SC"
+    },
+    {
+      "論文名稱": "空氣污染物暴露對大專生呼氣生理指標的影響",
+      "會議名稱": "2012年工業衛生暨環境職業醫學國際學術研討會",
+      "作者群": "卓正義，唐進勝，張立德，楊惠麟"
+    },
+    {
+      "論文名稱": "應用GPS探討空氣品質測站與周圍微環境空氣污染物之相關性",
+      "會議名稱": "2012年工業衛生暨環境職業醫學國際學術研討會",
+      "作者群": "林子涵，董道興，張立德，唐進勝"
+    },
+    {
+      "論文名稱": "影響都會型夜市商圈奈米-微米微粒濃度變化之因素探討",
+      "會議名稱": "2012年工業衛生暨環境職業醫學國際學術研討會",
+      "作者群": "謝佳馨，張立德，唐進勝"
+    },
+    {
+      "論文名稱": "逢甲商圈多粒徑微粒暴露濃度之時空分佈探討",
+      "會議名稱": "2011年工業衛生暨環境職業醫學國際學術研討會",
+      "作者群": "林志遠，張立德，唐進勝"
+    },
+    {
+      "論文名稱": "應用GPS探討空氣品質測站測值與微環境空氣污染物濃度之相關性",
+      "會議名稱": "2011年工業衛生暨環境職業醫學國際學術研討會",
+      "作者群": "紀宗廷，唐進勝，張立德"
+    },
+    {
+      "論文名稱": "道路交通低頻噪音評析",
+      "會議名稱": "中華民國音響學會第二十三屆學術研討會",
+      "作者群": "吳志超，張立德，陳矜任"
+    },
+    {
+      "論文名稱": "結合GPS探討都會區夜市商圈次微米微粒暴露濃度之分佈變化",
+      "會議名稱": "2010空氣污染控制技術研討會",
+      "作者群": "王莉蓉，張立德，唐進勝"
+    },
+    {
+      "論文名稱": "Personal Exposures to Particle-Bound Polycyclic Aromatic Hydrocarbons for the Elderly and Elementary-School Children",
+      "會議名稱": "ISES-ISEE 2010",
+      "作者群": "Chang LT, Tang CS, Tu HH, Lung CS"
+    },
+    {
+      "論文名稱": "Effects of Particulate and Carbon Monoxide Exposures in Different Public Transits on Heart Rate Variability in Healthy Young Adults",
+      "會議名稱": "EPICOH-MEDICHEM 2010",
+      "作者群": "Wu TZ, Hsu LY, Tang CS, Chang LT, Huang HY"
+    },
+    {
+      "論文名稱": "台中都會區夜市商圈微粒空氣品質與車流量之初探研究",
+      "會議名稱": "2009空氣污染控制技術研討會",
+      "作者群": "吳家豪，張立德，唐進勝"
+    },
+    {
+      "論文名稱": "Assessment of Particle-Bound Polycyclic Aromatic Hydrocarbons Exposures for Two Susceptible Cohorts",
+      "會議名稱": "ISES 2009 Annual Conference",
+      "作者群": "Lung CS, Chang LT, Tang CS, Tu HH"
+    },
+    {
+      "論文名稱": "台中都會區大專生居家多粒徑微粒濃度之探討",
+      "會議名稱": "2009年第16屆國際氣膠科技研討會",
+      "作者群": "劉郁旻，張立德，唐進勝"
+    },
+    {
+      "論文名稱": "台北縣新莊市成年人與學童粒相多環芳香烴的暴露評估",
+      "會議名稱": "2009年工業衛生暨環境職業醫學學術研討會",
+      "作者群": "杜翰翔，唐進勝，張立德，龍世俊"
+    },
+    {
+      "論文名稱": "Initial Results of Outdoor, Personal, and Indoor Particulate and Gaseous Concentrations for College Students in Taichung Metropolitan Area",
+      "會議名稱": "2008 Joint Annual Conference of Environmental Epidemiology & Exposure Analysis (ISEE-ISEA 2008)",
+      "作者群": "Chang LT, Tang CS, Chan CT, Wu WC, Pan YF, Lee CC, Lung SC"
+    },
+    {
+      "論文名稱": "中部某都會區不同通勤生活型態大專生之粒狀污染物成分暴露評估",
+      "會議名稱": "2008年第15屆國際氣膠科技研討會",
+      "作者群": "潘怡芳，張立德，唐進勝"
+    },
+    {
+      "論文名稱": "中二高對南投縣主要交通動線周遭空氣品質之影響探討",
+      "會議名稱": "2007第24屆空氣污染控制技術研討會",
+      "作者群": "劉昆宸，黃東池，童翔新，張立德，陳俊佑，陳俊吉"
+    },
+    {
+      "論文名稱": "以總量指標評估中二高對南投縣主要動線車流型態之影響",
+      "會議名稱": "2007第4屆環境資訊研討會",
+      "作者群": "劉昆宸，黃東池，童翔新，李柏勳，張立德"
+    },
+    {
+      "論文名稱": "中部都會區大專生指標氣狀污染物暴露之先驅性研究",
+      "會議名稱": "2007第24屆空氣污染控制技術研討會",
+      "作者群": "吳婉琪，張立德，唐進勝"
+    },
+    {
+      "論文名稱": "Investigation of Indoor Multi-sized Particulate Exposures for Residents in Taipei County",
+      "會議名稱": "17th Annual Conference of the International Society of Exposure Analysis",
+      "作者群": "Chang LT, Tang CS, Chan CC"
+    },
+    {
+      "論文名稱": "中部地區大學生居家環境之多粒徑懸浮微粒暴露評估",
+      "會議名稱": "2007年工業衛生暨環境職業醫學國際學術研討會",
+      "作者群": "詹俊庭，唐進勝，張立德"
+    },
+    {
+      "論文名稱": "南投縣境內中二高及其引導之觀光車流型態分析",
+      "會議名稱": "2006第4屆環境資訊研討會",
+      "作者群": "童翔新，黃東池，張立德，李柏勳，陳俊佑，方信雄"
+    },
+    {
+      "論文名稱": "中二高及假日觀光車潮對南投縣空氣品質影響初探",
+      "會議名稱": "2006第23屆空氣污染控制技術研討會",
+      "作者群": "黃東池，童翔新，張立德，陳俊佑，劉昆宸，方信雄"
+    },
+    {
+      "論文名稱": "台北縣老人居家室內微粒暴露預測之研究",
+      "會議名稱": "2006第23屆空氣污染控制技術研討會",
+      "作者群": "張夢帆，張立德，唐進勝"
+    },
+    {
+      "論文名稱": "台北縣居民居家多粒徑懸浮微粒暴露濃度之探討",
+      "會議名稱": "2006年第13屆中華民國國際氣膠科技研討會",
+      "作者群": "張夢帆，張立德，唐進勝"
+    },
+    {
+      "論文名稱": "Effects of Different Size Particulate Matters on Heart Rate Variability in the Elderly People",
+      "會議名稱": "International Conference on Environmental Epidemiology & Exposure (ISEE/ISEA 2006)",
+      "作者群": "Chang LT, Tang CS, Pan YZ, Chan CC"
+    },
+    {
+      "論文名稱": "Effect of Microenvironmental Particulate Matters on Peak Expiratory Flow Rate of Asthmatic Children",
+      "會議名稱": "Indoor Environmental Quality: Problems, Research and Solutions",
+      "作者群": "Chang LT, Tang CS, Lee HC, Chan CC"
+    },
+    {
+      "論文名稱": "台北縣氣喘學童在不同微環境下之多粒徑懸浮微粒暴露評估",
+      "會議名稱": "2005年中華民國國際氣膠科技研討會",
+      "作者群": "買明賢，唐進勝，張立德"
+    },
+    {
+      "論文名稱": "Comparison of Particulate Exposures for Sensitive Subpopulations during the Asian Dust Storm Event and Non-Event Days",
+      "會議名稱": "The 10th International Conference on Indoor Air Quality and Climate (Indoor Air 2005)",
+      "作者群": "Chang LT, Huang KM, Chuang KJ, Chan CC"
+    },
+    {
+      "論文名稱": "微粒空氣污染物暴露對氣喘學童肺功能之影響",
+      "會議名稱": "2005年工業衛生暨環境職業醫學學術研討會",
+      "作者群": "李賢致，唐進勝，張立德"
+    },
+    {
+      "論文名稱": "沙塵暴與非沙塵暴期間易感受族群之懸浮微粒暴露評估",
+      "會議名稱": "第二十一屆空氣污染控制技術研討會",
+      "作者群": "張立德，黃楷茗，莊凱任，詹長權"
+    },
+    {
+      "論文名稱": "軍用直昇機起降噪音之影響研究",
+      "會議名稱": "中華民國音響學會第十七屆學術研討會",
+      "作者群": "洪若宣，盧明俊，吳志超，張立德"
+    },
+    {
+      "論文名稱": "Short-term Effect of Different Size Particulate Matters on Peak Expiratory Flow Rate of Asthmatic Children in Elementary School",
+      "會議名稱": "The 16th Conference of the International Society for Environmental Epidemiology",
+      "作者群": "Chang LT, Tang CS, Chan CC"
+    },
+    {
+      "論文名稱": "Factors Affecting Personal and Indoor Concentrations of PM2.5, Particulate Nitrate, and Elemental Carbon for Individuals with COPD in Los Angeles, CA",
+      "會議名稱": "13th Annual Conference of the International Society of Exposure Analysis",
+      "作者群": "Chang LT, Wheeler A, Suh HH"
+    },
+    {
+      "論文名稱": "Assessment of Submicon Particulate, Carbon Monoxide, and Elemental Exposures for Two Sensitive Cohorts",
+      "會議名稱": "13th Annual Conference of the International Society of Exposure Analysis",
+      "作者群": "Chang LT, Chuang KZ, Chan CC"
+    }
+  ],
+  "book": [
+    {
+      "專業書籍": "職業健康危害程度因素納入職業災害保險費率計算基礎可行性評估",
+      "出版單位": "行政院勞動部勞動及職業安全衛生研究所",
+      "作者群": "張智凱,余清祥,張立德,林彩玉"
+    },
+    {
+      "專業書籍": "半導體封裝測試製程安全衛生調查研究",
+      "出版單位": "行政院勞工委員會勞工安全衛生研究所",
+      "作者群": "張大元、張立德"
+    },
+    {
+      "專業書籍": "飲用水中揮發性有機物含量分析研究(第3年)",
+      "出版單位": "台灣自來水公司",
+      "作者群": "張立德,吳俊哲,陳豈凡"
+    },
+    {
+      "專業書籍": "飲用水中揮發性有機物含量分析研究(第2年)",
+      "出版單位": "台灣自來水公司",
+      "作者群": "張立德,吳俊哲,陳豈凡"
+    },
+    {
+      "專業書籍": "室內空氣品質標準檢討及自主管理診斷機制建立與推動",
+      "出版單位": "行政院環境保護署",
+      "作者群": "吳佩芝,蘇慧貞,李家偉,曾昭衡,張立德"
+    },
+    {
+      "專業書籍": "飲用水中揮發性有機物含量分析研究(第1年)",
+      "出版單位": "台灣自來水公司",
+      "作者群": "張立德,吳俊哲,陳豈凡"
+    },
+    {
+      "專業書籍": "推動公共場所自主管理制度及室內空氣品質管理法相關子法訂定",
+      "出版單位": "行政院環境保護署",
+      "作者群": "張立德,蘇慧貞,曾昭衡,劭文政,顏秀慧,陳錦煌"
+    },
+    {
+      "專業書籍": "觸媒氧化技術應用於高科技產業無塵室空氣品質改善設備之開發",
+      "出版單位": "行政院環境保護署",
+      "作者群": "吳俊哲,林樹榮,張立德"
+    },
+    {
+      "專業書籍": "96年度中二高、國道六號及其他道路等交通噪音及環境音量監測評析計畫",
+      "出版單位": "南投縣政府環境保護局",
+      "作者群": "張立德,吳志超"
+    },
+    {
+      "專業書籍": "室內空氣品質標準檢討及自主管理診斷機制建立與推動",
+      "出版單位": "行政院環境保護署",
+      "作者群": "李家偉,蘇慧貞,賴啟銘,張立德,邵文政,曾昭衡"
+    },
+    {
+      "專業書籍": "觸媒氧化技術淨化室內空氣品質設備開發",
+      "出版單位": "行政院環境保護署",
+      "作者群": "吳俊哲,林樹榮,張立德"
+    },
+    {
+      "專業書籍": "餐飲業油煙及臭味處理之設備開發\t",
+      "出版單位": "行政院環境保護署",
+      "作者群": "吳俊哲,張立德,蔡耀輝,楊仁泊"
+    },
+    {
+      "專業書籍": "95年度中二高交通噪音及環境音量監測評析計畫",
+      "出版單位": "南投縣政府環境保護局",
+      "作者群": "張立德,吳志超"
+    },
+    {
+      "專業書籍": "國道及觀光車潮對南投縣空氣品質影響之調查計畫",
+      "出版單位": "南投縣政府環境保護局",
+      "作者群": "黃東池,童翔新,張立德"
+    },
+    {
+      "專業書籍": "94年度中二高及假日觀光車潮對南投縣空氣品質影響之調查計畫",
+      "出版單位": "南投縣政府環境保護局",
+      "作者群": "黃東池,童翔新,張立德,吳照雄"
+    },
+    {
+      "專業書籍": "94年度中二高交通噪音環境音量監測評析計畫",
+      "出版單位": "南投縣政府環境保護局",
+      "作者群": "張立德,吳志超"
+    },
+    {
+      "專業書籍": "台北縣微粒空氣污染對居民健康影響之研究(2)",
+      "出版單位": "台北縣政府環境保護局",
+      "作者群": "詹長權,唐進勝,張立德"
+    },
+    {
+      "專業書籍": "台北縣微粒空氣污染對居民健康影響之研究(1)",
+      "出版單位": "台北縣政府環境保護局",
+      "作者群": "詹長權,唐進勝,張立德"
+    }
+  ],
+  "patent": [],
+  "most": [
+    {
+      "name": "中部都會區不同通勤微環境之粒狀,氣狀及噪音污染暴露變異性評估(II)",
+      "schoolYear": "113"
+    },
+    {
+      "name": "中部都會區不同通勤微環境之粒狀,氣狀及噪音污染暴露變異性評估",
+      "schoolYear": "112"
+    },
+    {
+      "name": "都市型態燃燒活動對都會區微粒及氣狀空氣污染物暴露之影響評估(II)",
+      "schoolYear": "111"
+    },
+    {
+      "name": "都市型態燃燒活動對都會區微粒及氣狀空氣污染物暴露之影響評估",
+      "schoolYear": "110"
+    },
+    {
+      "name": "利用時間-活動整合性資訊建構都會區微粒、粒狀多環芳香烴及黑碳污染物之個人暴露模式",
+      "schoolYear": "109"
+    },
+    {
+      "name": "台灣巨型城市環境研究III-都市空氣污染與低雲及霧霾之物理化學交互作用-子計畫：利用多粒徑微粒及細懸浮微粒成分之微環境暴露觀測資料探討其與國小學童呼吸道健康指標關聯性",
+      "schoolYear": "108"
+    },
+    {
+      "name": "利用水平/垂直監測及空氣污染暴露模式探討都會型態燃燒活動對室外微粒及其成分濃度之影響",
+      "schoolYear": "107"
+    },
+    {
+      "name": "台灣巨型城市環境研究(II) -- 邊界層細微粒之氣膠化學及環境衝擊-都會區不同微環境懸浮微粒成分污染物之暴露評估-全球衛星定位系",
+      "schoolYear": "102"
+    },
+    {
+      "name": "臺灣地區氣候條件與空氣品質變異對疾病發生、傳播及公共衛生脆弱度評估與調適策略研究-臺灣地區氣侯..化學組成及健康效應評估(I)",
+      "schoolYear": "102"
+    },
+    {
+      "name": "(應用型)產學合作計畫－健康工作環境管理系統在企業社會責任推展之應用",
+      "schoolYear": "100"
+    },
+    {
+      "name": "(廠配)(應用型)產學合作計畫─健康工作環境管理系統在企業社會責任推展之應用(台灣積體電路製造股份有限公司)",
+      "schoolYear": "100"
+    },
+    {
+      "name": "微粒空氣污染、熱環境與心跳速率變異性指標之時空相關性探討",
+      "schoolYear": "100"
+    },
+    {
+      "name": "不同微環境之多重粒徑微粒成分及指標氣狀污染物暴露對個人心跳速率變異性及吐氣指標影響之探討",
+      "schoolYear": "97"
+    },
+    {
+      "name": "吐氣一氧化氮與個人細懸浮微粒成分及相關空氣污染物暴露相關性之都會區研究",
+      "schoolYear": "95"
+    },
+    {
+      "name": "都會區民眾個人與戶外細懸浮微粒成分與相關空氣污染物變異性之研究",
+      "schoolYear": "94"
+    }
+  ],
+  "tech": [
+    {
+      "論文名稱": "Investigating the Spatial-temporal Variability between Microenvironmental Personal Exposures and Stationary Ambient Concentrations of Particulate and Gaseous Pollutants Using Real-time Measurements (2017-11)",
+      "書名": "International Proceedings of Chemical, Biological and Environmental Engineering",
+      "作者群": "Chang LT, Tang CS, Lung SCC"
+    }
+  ],
+  "induAca": [
+    "105年度矽品產學合作計畫 (2016-08 to 2017-03)",
+    "103年教育部補助大專校院安全衛生通識課程計畫—職業安全與衛生 (2014-08 to 2015-02)",
+    "飲用水中揮發性有機物含量分析研究(第3年) (2011-06 to 2012-03)",
+    "99年教育部補助大專校院安全衛生通識課程及教育訓練計畫 (2010-08 to 2011-07)",
+    "飲用水中揮發性有機物含量分析研究(第2年) (2010-05 to 2011-03)",
+    "99年「教育部補助大專校院安全衛生通識課程及教育訓練計畫」 (2009-08 to 2010-01)",
+    "飲用水中揮發性有機物含量分析研究(第1年) (2009-03 to 2010-01)",
+    "台中市溫室氣體排放量調查暨減量宣導計畫 (2008-09 to 2009-04)",
+    "教育部補助大專校院安全衛生通識課程及教育訓練計畫 (2008-08 to 2009-01)",
+    "96年度環保科技育成中心計畫－觸媒氧化技術淨化室內空氣品質設備之開發 (2007-11 to 2008-09)",
+    "96年度中二高、國道六號及其他道路等交通噪音及環境音量監測評析計畫 (2007-09 to 2008-09)",
+    "教育部補助大專校院安全衛生通識課程計畫 (2007-08 to 2008-01)",
+    "95年度環保科技育成中心計畫－餐飲業油煙及臭味處理之設備開發 (2006-11 to 2007-08)",
+    "教育部補助大專校院安全衛生通識課程計畫 (2006-08 to 2007-02)",
+    "95年度中二高交通噪音及環境音量監測評析計畫 (2006-06 to 2007-05)",
+    "95年度「國道及觀光車潮對南投縣空氣品質影響調查計畫」 (2006-03 to 2007-02)",
+    "94年度「中二高及觀光車潮對南投縣空氣品質影響調查計畫」 (2005-08 to 2006-03)",
+    "94年度「中二高交通噪音環境音量監測評析計畫」 (2005-08 to 2005-12)"
+  ],
+  "perform": [],
+  "reward": [
+    "113年度國科會補助大專校院研究獎勵 (113, 2024-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (113, 2024-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (113, 2024-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (113, 2024-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (113, 2024-11) - 逢甲大學",
+    "113學年度教學績優獎 (113, 2024-11) - 逢甲大學",
+    "教務長感謝函(環境衛生學) (112, 2024-04) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "教務長感謝函(工業衛生) (111, 2023-04) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (111, 2022-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (111, 2022-11) - 逢甲大學",
+    "教務長感謝函(風險評估) (111, 2022-11) - 逢甲大學",
+    "教務長感謝函(工業衛生) (110, 2022-04) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (110, 2021-11) - 逢甲大學",
+    "教務長感謝函(風險評估) (110, 2021-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (109, 2020-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (109, 2020-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (109, 2020-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (109, 2020-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (109, 2020-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (109, 2020-11) - 逢甲大學",
+    "教務長感謝函(環境衛生學) (108, 2020-05) - 逢甲大學",
+    "教務長感謝函(風險評估) (108, 2019-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (108, 2019-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (108, 2019-11) - 逢甲大學",
+    "教務長感謝函(環境化學與環境生態) (107, 2019-05) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (107, 2018-11) - 逢甲大學",
+    "教務長感謝函(環境衛生學) (106, 2018-05) - 逢甲大學",
+    "教務長感謝函(毒性物質管理及風險評估) (106, 2017-12) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (105, 2016-11) - 逢甲大學",
+    "104學年度環科系優良導師 (104, 2016-05) - 逢甲大學",
+    "教務長感謝函(大氣環境導論) (103, 2015-11) - 逢甲大學",
+    "教務長感謝函(環境衛生學) (103, 2015-05) - 逢甲大學",
+    "教務長感謝函(職業安全與衛生) (103, 2015-05) - 逢甲大學",
+    "102學年度環科系教學優良教師 (102, 2014-04) - 逢甲大學",
+    "教務長感謝函(安全衛生概論) (102, 2014-03) - 逢甲大學",
+    "101學年度環科系優良導師 (101, 2013-03) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (101, 2012-11) - 逢甲大學",
+    "教務長感謝函(環境影響評估) (98, 2010-03) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (98, 2009-11) - 逢甲大學",
+    "教務長感謝函(流行病學導論) (97, 2009-03) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (97, 2008-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (97, 2008-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (97, 2008-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵 (96, 2007-11) - 逢甲大學",
+    "教務長感謝函(環境衛生學) (95, 2007-05) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (93, 2004-11) - 逢甲大學"
+  ],
+  "speech": [
+    {
+      "演講題目": "台灣的室內空氣品質管理與現況分析",
+      "邀請單位": "東海大學生命科學系",
+      "演講日期": "2017-12"
+    },
+    {
+      "演講題目": "Indoor Air Quality Management and Measurement in Taiwan",
+      "邀請單位": "Korea Society of Indoor Environment",
+      "演講日期": "2015-09"
+    }
+  ],
+  "material": [],
+  "tal": []
+}

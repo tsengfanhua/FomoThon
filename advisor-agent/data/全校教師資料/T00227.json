@@ -1,0 +1,396 @@
+{
+  "teacherId": "T00227",
+  "name": "林維崙",
+  "mainUnit": "資訊電機學院",
+  "detailUnit": "通訊工程學系",
+  "skill": [
+    "通訊系統信號處理Signal Processing of Communication Systems",
+    "未來世代通訊系統Future Generation Communication Systems",
+    "人工智慧系統Artificial Intelligence Systems",
+    "機器人系統Robotic Systems",
+    "深度學習Deep Learning",
+    "物聯網系統Internet of Things"
+  ],
+  "edu": [
+    "國立中央大學 電機工程學系 博士",
+    "國立中央大學 電機工程學系 學士"
+  ],
+  "fcuExp": [
+    "資訊電機學院學士班 主任",
+    "智慧運輸與物流創新中心 顧問",
+    "逢甲大學帆宣智慧城市5G實驗室 研究員",
+    "通訊工程學系 助理教授",
+    "通訊工程學系 副教授"
+  ],
+  "currjob": [],
+  "otherExp": [
+    "國立台灣大學 電信研究所 博士後研究人員",
+    "財團法人資訊工業策進會 行動寬頻中心 系統工程師"
+  ],
+  "journal": [
+    {
+      "論文名稱": "Finite-Order Filter Designs of Source and Multiple Full-Duplex Relays for Cooperative Communications in Presence of Frequency-Selective Fading and Inter-Relay Interference",
+      "期刊名稱": "IEEE Transactions on Communications (SCIE,EI)",
+      "作者群": "Fan-Shuo Tseng, Chun-Tao Lin*, Wei-Lun Lin, and Kuei-Yuan Chen"
+    },
+    {
+      "論文名稱": "Theory and Applications of Active Constellation Extension",
+      "期刊名稱": "IEEE ACCESS (SCIE,EI)",
+      "作者群": "Wei-Lun Lin* and FAN-SHUO TSENG"
+    },
+    {
+      "論文名稱": "PAPR reduction in OFDM systems using active constellation extension and subcarrier grouping techniques",
+      "期刊名稱": "IEEE Communications Letters (SCIE,ECONLIT)",
+      "作者群": "Sen-Hung Wang, Wei-Lun Lin, Bo-Rong Huang, and Chih-Peng Li"
+    },
+    {
+      "論文名稱": "A Near-Nyquist Rate Transmission: A New Minimum-Bandwidth Direct-Sequence Code Division Multiple Access Scheme",
+      "期刊名稱": "International Journal of Communication Systems (SCIE,ECONLIT)",
+      "作者群": "Wei-Lun Lin"
+    },
+    {
+      "論文名稱": "Orthogonal time/frequency multiplexed modulation families for software defined radio",
+      "期刊名稱": "Recent Advances in Communications and Networking Technology (EI)",
+      "作者群": "Wei-Lun Lin*"
+    },
+    {
+      "論文名稱": "Performance analysis and power allocation strategy in single-antenna cognitive overlay systems",
+      "期刊名稱": "EURASIP Journal on Wireless Communications and Networking (SCIE,EI)",
+      "作者群": "Wei-Lun Lin*, Chih-Hao Lin and Fan-Shuo Tseng"
+    },
+    {
+      "論文名稱": "Realizable bandlimited DS-CDMA system occupying Nyquist bandwidth",
+      "期刊名稱": "IEEE Commun. Lett. (SCIE,EI)",
+      "作者群": "C.-D. Chung, W.-C. Chang, and W.-L. Lin"
+    },
+    {
+      "論文名稱": "Adaptive differentially coherent orthogonally multiplexed orthogonal phase modulation over flat fading channels",
+      "期刊名稱": "IEEE Trans. Wireless Commun. (SCIE,EI)",
+      "作者群": "W.-L. Lin and C.-D. Chung"
+    },
+    {
+      "論文名稱": "Constant-power adaptive orthogonally multiplexed modulations under flat Rayleigh fading",
+      "期刊名稱": "IEEE Trans. Wireless Commun. (SCIE,EI)",
+      "作者群": "W.-L. Lin and C.-D. Chung"
+    },
+    {
+      "論文名稱": "Spectrally Efficient Full-Response Q2PSK Signals",
+      "期刊名稱": "Electron. Lett. (SCIE,EI)",
+      "作者群": "C.-D. Chung and W.-L. Lin"
+    }
+  ],
+  "journal2": [],
+  "conference": [
+    {
+      "論文名稱": "The stereo neural network: The mathematical architecture and weight optimization",
+      "會議名稱": "2024 IEEE 10th International Conference on Applied System Innovation (IEEE ICASI 2024)",
+      "作者群": "Wei-Lun Lin* and I-Ta Wu"
+    },
+    {
+      "論文名稱": "A Novel Common Beamforming and Superposition Coding Design for Massive MISO-NOMA Systems",
+      "會議名稱": "IEEE Wireless Communications and Networking Conference",
+      "作者群": "Fan-Shuo Tseng*, Chun-Tao Lin, Wei-Lun Lin, and Hao Chung"
+    },
+    {
+      "論文名稱": "Finite-Order Filter Designs for Source and Multiple FDRs in Wideband Cooperative Systems",
+      "會議名稱": "IEEE Wireless Communications and Networking Conference",
+      "作者群": "Chun-Tao Lin, Wei-Lun Lin,  Fan-Shuo Tseng*,  and Kuei-Yuan Chen"
+    },
+    {
+      "論文名稱": "Close Forms for Power Spectral Density of Orthogonally Multiplexed Modulation",
+      "會議名稱": "ACEAIT",
+      "作者群": "Wei-Lun Lin"
+    },
+    {
+      "論文名稱": "A New Distributed Space-Time Coding Scheme",
+      "會議名稱": "2017 2nd International Conference on Signal and Image Processing (ICSIP 2017)",
+      "作者群": "Wei-Lun Lin* and Chih-Wei Liao"
+    },
+    {
+      "論文名稱": "Cyclic-prefixed orthogonally time multiplexed orthogonal amplitude modulation",
+      "會議名稱": "PIMRC",
+      "作者群": "Wei-Lun Lin*"
+    },
+    {
+      "論文名稱": "Performance Evaluation of Minimum-Bandwidth Direct-Sequence Code Division Multiple Access in Multipath Fading",
+      "會議名稱": "ICUFN 2015",
+      "作者群": "Wei-Lun Lin*"
+    },
+    {
+      "論文名稱": "Generalized Minimum-Bandwidth DS-CDMA System",
+      "會議名稱": "ICTC 2014",
+      "作者群": "Wei-Lun Lin*"
+    },
+    {
+      "論文名稱": "Modified minimum bandwidth DS-CDMA system",
+      "會議名稱": "International Conference on ICT Convergence (ICTC 2013)",
+      "作者群": "Wei-Lun Lin"
+    },
+    {
+      "論文名稱": "Cramer-Rao bounds for channel estimation in amplify-and-forward cooperative communication systems",
+      "會議名稱": "Proc. APSIPA ASC'11",
+      "作者群": "W.-L. Lin*, C.-H. Huang, P.-Y. Li, and C.-D. Chung"
+    },
+    {
+      "論文名稱": "Adaptive spectrally-precoded OFDM under flat fading",
+      "會議名稱": "Proc. ICACT'10",
+      "作者群": "Y.-R. Peng, W.-L. Lin*.\tY.-R. Peng, W.-L. Lin, and C.-D. Chung, and C.-D. Chung"
+    },
+    {
+      "論文名稱": "Adaptive UL-coded spectrally-precoded OFDM with zero-forcing equalization under flat fading",
+      "會議名稱": "Proc. APSIPA ASC'09",
+      "作者群": "W.-L. Lin*, Y.-R. Peng, and C.-D. Chung"
+    },
+    {
+      "論文名稱": "Adaptive GL-coded spectrally-precoded OFDM with constant transmission power",
+      "會議名稱": "Proc. IASTED WOC'09",
+      "作者群": "W.-L. Lin*, C.-D. Chung, and Y.-R. Peng"
+    },
+    {
+      "論文名稱": "Adaptive orthogonally multiplexed modulations with constant transmission power under flat Rayleigh fading",
+      "會議名稱": "Proc. the 8th Wireless and Optical Communications",
+      "作者群": "W.-L. Lin* and C.-D. Chung"
+    },
+    {
+      "論文名稱": "Constant-power adaptive differentially coherent orthogonally multiplexed orthogonal phase modulation for flat fading channels",
+      "會議名稱": "Proc. the 18th International Symposium on Personal, Indoor and Mobile Radio Communications",
+      "作者群": "W.-L. Lin* and C.-D. Chung"
+    },
+    {
+      "論文名稱": "New full-response Q2PSK signal format",
+      "會議名稱": "Proc. the 2006 Networks and Communication Systems",
+      "作者群": "C.-D. Chung and W.-L. Lin*"
+    },
+    {
+      "論文名稱": "Noncoherent equicorrelated modulation signals",
+      "會議名稱": "Proc. the 2005 Networks and Communication Systems",
+      "作者群": "C.-D. Chung, S.-M. Cho, and W.-L. Lin*"
+    },
+    {
+      "論文名稱": "Estimation of delay phase offset in multi-carrier differential phase modulation systems",
+      "會議名稱": "Proc. the 2003 International Conference on Communication Technology",
+      "作者群": "C.-D. Chung, W.-L. Lin*, and C.-Y. Wu"
+    }
+  ],
+  "book": [
+    {
+      "專業書籍": "數位通訊系統實習---MatLab/Simulink---",
+      "出版單位": "逢甲大學",
+      "作者群": "廖和恩 陳益生 林維崙"
+    },
+    {
+      "專業書籍": "類比通訊系統實習---MatLab/Simulink",
+      "出版單位": "逢甲大學",
+      "作者群": "廖和恩 陳益生 林維崙"
+    }
+  ],
+  "patent": [
+    {
+      "title": "發明",
+      "desc": "具有無法辨識物件記憶機制的圖像檢測方法"
+    },
+    {
+      "title": "發明",
+      "desc": "可適性正交多工調變機制之控制系統及方法"
+    },
+    {
+      "title": "新型",
+      "desc": "自動化智慧植物栽培系統"
+    }
+  ],
+  "most": [
+    {
+      "name": "(個別型)產學合作計畫－車後物件軌跡偵測預警系統",
+      "schoolYear": "113"
+    },
+    {
+      "name": "(廠配)綠捷能智控股份有限公司(個別型)產學合作計畫－車後物件軌跡偵測預警系統",
+      "schoolYear": "113"
+    },
+    {
+      "name": "大型車輛後方行人預警系統",
+      "schoolYear": "113"
+    },
+    {
+      "name": "道路潛在危險行為預測之次世代行車助理系統－道路潛在危險行為預測之次世代行車助理系統(3/4)",
+      "schoolYear": "112"
+    },
+    {
+      "name": "(個別型)產學合作計畫－車用冶金零件人工智慧瑕疵檢驗排除系統",
+      "schoolYear": "111"
+    },
+    {
+      "name": "道路潛在危險行為預測之次世代行車助理系統－道路潛在危險行為預測之次世代行車助理系統(2/4)",
+      "schoolYear": "111"
+    },
+    {
+      "name": "(廠配)青志金屬工業股份有限(個別型)產學合作計畫－車用冶金零件人工智慧瑕疵檢驗排除系統",
+      "schoolYear": "111"
+    },
+    {
+      "name": "道路潛在危險行為預測之次世代行車助理系統－道路潛在危險行為預測之次世代行車助理系統(1/4)",
+      "schoolYear": "111"
+    },
+    {
+      "name": "(個別型)產學合作計畫－定點巡航之環境安全系統",
+      "schoolYear": "110"
+    },
+    {
+      "name": "(廠配)綠捷能智控股份有限公司(個別型)產學合作計畫－定點巡航之環境安全系統",
+      "schoolYear": "110"
+    },
+    {
+      "name": "整合深度學習智慧感知與自主決策技術於國產化主動懸吊系統研製－整合深度學習智慧感知與自主決策技術於國產化主動懸吊系統研製(3/3)",
+      "schoolYear": "109"
+    },
+    {
+      "name": "(開發型)產學合作計畫－智慧交通系統之路口及匝道路況資訊偵蒐控管",
+      "schoolYear": "108"
+    },
+    {
+      "name": "(廠配)綠捷能智控股份有限公司(開發型)產學合作計畫－智慧交通系統之路口及匝道路況資訊偵蒐控管",
+      "schoolYear": "108"
+    },
+    {
+      "name": "整合深度學習智慧感知與自主決策技術於國產化主動懸吊系統研製－整合深度學習智慧感知與自主決策技術於國產化主動懸吊系統研製(2/3)",
+      "schoolYear": "108"
+    },
+    {
+      "name": "整合深度學習智慧感知與自主決策技術於國產化主動懸吊系統研製(1/3)",
+      "schoolYear": "108"
+    },
+    {
+      "name": "基於人工神經網絡之OFDM通道估測",
+      "schoolYear": "108"
+    },
+    {
+      "name": "可移動星座延伸系統之進階研究",
+      "schoolYear": "107"
+    },
+    {
+      "name": "採用可移動星座點之廣義正交分頻多工之實現 Implementation of GFDM Systems Using Active Constellation Extension",
+      "schoolYear": "107"
+    },
+    {
+      "name": "可移動星座延伸之正交調變系統",
+      "schoolYear": "106"
+    },
+    {
+      "name": "合作式正交多工調變系統",
+      "schoolYear": "105"
+    },
+    {
+      "name": "廣義之最小頻寬直接序列分碼多重接取系統",
+      "schoolYear": "104"
+    },
+    {
+      "name": "修正之最小頻寬直接序列展頻分碼多工系統",
+      "schoolYear": "103"
+    },
+    {
+      "name": "趨近奈奎斯特頻寬之直接序列展頻分碼多重接取系統",
+      "schoolYear": "102"
+    },
+    {
+      "name": "正交多工調變信號之通道估測與時序/頻率偏移估測研究",
+      "schoolYear": "101"
+    }
+  ],
+  "tech": [],
+  "induAca": [
+    "脊椎影像及植入物動態分析之深度學習模型建立 (2025-03 to 2025-12)",
+    "整合性預警機制之研究-5G偵測設施應用於優先號誌路網最佳化 (2023-03 to 2024-03)",
+    "人工智慧輔助之物聯智慧農場系統 (2020-02 to 2020-12)",
+    "物聯網於智慧農場監測系統之應用 (2018-02 to 2018-12)"
+  ],
+  "perform": [],
+  "reward": [
+    "逢甲大學論文著作獎勵優等獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "112學年度教學傑出獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (111, 2022-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (111, 2022-11) - 逢甲大學",
+    "2020 大學教師優良創新課程及教學競賽 (109, 2020-10) - 國立清華大學",
+    "技術領袖培訓班成果發表競賽第二名 (108, 2020-07) - 台灣人工智慧學校",
+    "108學年度科技部補助大專校院研究獎勵 (108, 2019-09) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (106, 2017-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (106, 2017-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (105, 2016-11) - 逢甲大學",
+    "102學年度逢甲大學優良導師 (102, 2014-09) - 逢甲大學"
+  ],
+  "speech": [
+    {
+      "演講題目": "探索類神經網路於醫療影像的應用",
+      "邀請單位": "中興大學",
+      "演講日期": "2024-08"
+    },
+    {
+      "演講題目": "卷積神經網路於醫療影像的應用",
+      "邀請單位": "中興大學",
+      "演講日期": "2024-08"
+    },
+    {
+      "演講題目": "人工智慧的物件追蹤與分類技術在醫療的應用",
+      "邀請單位": "中興大學",
+      "演講日期": "2024-08"
+    },
+    {
+      "演講題目": "AI的過去現在未來",
+      "邀請單位": "游於藝",
+      "演講日期": "2024-06"
+    },
+    {
+      "演講題目": "人工智慧簡介",
+      "邀請單位": "綠節能智控股份有限公司",
+      "演講日期": "2024-01"
+    },
+    {
+      "演講題目": "走入AI人工智慧",
+      "邀請單位": "光華高工",
+      "演講日期": "2023-04"
+    },
+    {
+      "演講題目": "先進駕駛輔助系統(ADAS)之深度剖析",
+      "邀請單位": "財團法人自強工業科學基金會",
+      "演講日期": "2022-10"
+    },
+    {
+      "演講題目": "人工智慧簡介",
+      "邀請單位": "明椿電氣機械股份有限公司",
+      "演講日期": "2021-11"
+    },
+    {
+      "演講題目": "先進駕駛輔助系統 (ADAS)",
+      "邀請單位": "財團法人自強工業科學基金會",
+      "演講日期": "2021-11"
+    },
+    {
+      "演講題目": "AI現況與應用",
+      "邀請單位": "國興資訊股份有限公司",
+      "演講日期": "2020-10"
+    },
+    {
+      "演講題目": "A UNIFIED ORTHOGONALLY MULTIPLEXED MODULATION SYSTEM FOR SDR IMPLEMENTATION",
+      "邀請單位": "2018 3rd International Conference on Signal and Image Proces",
+      "演講日期": "2018-07"
+    },
+    {
+      "演講題目": "參訪",
+      "邀請單位": "京都大學",
+      "演講日期": "2014-08"
+    },
+    {
+      "演講題目": "Adaptive orthogonal multiplexed modulation families",
+      "邀請單位": "國立暨南大學電機工程學系",
+      "演講日期": "2013-05"
+    }
+  ],
+  "material": [
+    "數位通訊系統實習教材\t逢甲通訊系\t廖和恩、陳益生、林維崙\t複合教材",
+    "類比通訊系統實習教材\t逢甲通訊系\t廖和恩、陳益生、林維崙\t複合教材"
+  ],
+  "tal": [
+    "112年度大專校院教學實踐研究計畫「融合協作與遊戲化學習於學習動機與心流之影響」 (112)",
+    "107年度大專校院教學實踐研究計畫「線性代數之遊戲化學習」 (107)"
+  ]
+}

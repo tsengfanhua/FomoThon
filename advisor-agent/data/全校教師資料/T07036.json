@@ -1,0 +1,524 @@
+{
+  "teacherId": "T07036",
+  "name": "賴哲儇",
+  "mainUnit": "建設學院",
+  "detailUnit": "土木工程學系",
+  "skill": [
+    "測量與空間資訊Surveying and Geomatics",
+    "遙感探測與影像處理Remote Sensing and Image Processing",
+    "地理資訊系統與空間分析Geographic Information System and Spatial Analysis",
+    "資料探勘與機器學習Data Mining and Machine Learning",
+    "土地覆蓋與災害監測Land-Cover and Disaster Monitoring",
+    "數值地形與智慧城市Digital Terrain and Smart City"
+  ],
+  "edu": [
+    "國立中央大學 土木工程學系 博士",
+    "國立中央大學 土木工程學系 碩士",
+    "國立臺北科技大學 土木工程學系 學士"
+  ],
+  "fcuExp": [
+    "土木工程學系 助理教授",
+    "測量教學研究中心 研發組組長",
+    "測量教學研究中心 主任",
+    "土木工程學系 副教授"
+  ],
+  "currjob": [],
+  "otherExp": [
+    "中華測繪聯合會 測繪教育與訓練委員會 委員",
+    "中華民國航空測量及遙感探測學會 秘書處 副秘書長",
+    "國立中央大學 太空及遙測研究中心 博士後研究",
+    "國際航遙測學會暨亞洲遙測學會 學生組織 National Coordinator"
+  ],
+  "journal": [
+    {
+      "論文名稱": "Unsupervised machine learning with different sampling strategies and topographic factors for distinguishing between landslide source and runout areas to improve landslide inventory production",
+      "期刊名稱": "Geomatics, Natural Hazards and Risk (Current Impact Factor: 4.5; 5-year Impact Factor: 4.3) (SCIE)",
+      "作者群": "Jhe-Syuan Lai (賴哲儇)；Jun-Yi Huang (黃俊議)；Hong-Mao Huang (黃宏楙)；Yung-Chung Chuang (莊永忠)*"
+    },
+    {
+      "論文名稱": "A model for forest type identification and forest regeneration monitoring based on deep learning and hyperspectral imagery",
+      "期刊名稱": "Ecological Informatics  (Current Impact Factor: 5.1; 5-year Impact Factor: 3.489) (SCIE)",
+      "作者群": "Feng-Cheng Lin(林峰正)；Yi-Shiang Shiu(徐逸祥)；Pei-Jung Wang；Uen-Hao Wang；Jhe-Syuan Lai(賴哲儇)；Yung-Chung Chuang(莊永忠)*"
+    },
+    {
+      "論文名稱": "應用InSAR於南化水庫集水區土砂流失區域分析",
+      "期刊名稱": "水保技術 (華藝線上)",
+      "作者群": "林秉賢、陳思瑋、賴哲儇、蔡政修、諸予涵"
+    },
+    {
+      "論文名稱": "A technical and operational perspective on quality analysis of stitching images with multi-row panorama and multimedia sources for visualizing the tourism site of onshore wind farm",
+      "期刊名稱": "ISPRS International Journal of Geo-Information (SCIE)",
+      "作者群": "Lai, J.-S., Tsai, Y.-H., Chang, M.-J., Huang, J.-Y., and Chi*, C.-M."
+    },
+    {
+      "論文名稱": "廣域崩塌偵測品質精進初探：以經典群集分析為例",
+      "期刊名稱": "中國土木水利工程學刊 (EI)",
+      "作者群": "賴哲儇、黃俊議"
+    },
+    {
+      "論文名稱": "Determining cover management factor with remote sensing and spatial analysis for improving long-term soil loss estimation in watersheds",
+      "期刊名稱": "ISPRS International Journal of Geo-Information (SCIE)",
+      "作者群": "Tsai, F., Lai, J.-S., Nguyen, K.A., and Chen, W."
+    },
+    {
+      "論文名稱": "Panoramic mapping with information technologies for supporting engineering education: a preliminary exploration",
+      "期刊名稱": "ISPRS International Journal of Geo-Information (SCIE)",
+      "作者群": "Lai, J.-S., Peng, Y.-C., Chang, M.-J., and Huang, J.-Y."
+    },
+    {
+      "論文名稱": "Separating landslide source and runout signatures with topographic attributes and data mining to increase the quality of landslide inventory",
+      "期刊名稱": "Applied Sciences (SCIE)",
+      "作者群": "Lai, J.-S."
+    },
+    {
+      "論文名稱": "Exploring influence of sampling strategies on event-based landslide susceptibility modeling",
+      "期刊名稱": "ISPRS International Journal of Geo-Information (SCIE)",
+      "作者群": "Lai, J.-S., Chiang, S.-H., and Tsai, F."
+    },
+    {
+      "論文名稱": "Improving GIS-based landslide susceptibility assessments with multi-temporal remote sensing and machine learning",
+      "期刊名稱": "Sensors (SCIE)",
+      "作者群": "Lai, J.-S., and Tsai, F."
+    },
+    {
+      "論文名稱": "廣域崩塌潛勢模型的空間分析",
+      "期刊名稱": "航測及遙測學刊 (華藝線上)",
+      "作者群": "賴哲儇、蔡富安、姜壽浩"
+    },
+    {
+      "論文名稱": "Waveform fitting and geometry analysis for full-waveform LiDAR feature extraction",
+      "期刊名稱": "Proceedings of SPIE (EI)",
+      "作者群": "Tsai, F., Lai, J.-S., and Cheng, Y.-H."
+    },
+    {
+      "論文名稱": "Full-waveform LiDAR point cloud land cover classification with volumetric texture measures",
+      "期刊名稱": "Terrestrial, Atmospheric and Oceanic Sciences (SCIE)",
+      "作者群": "Tsai, F., Lai, J.-S., and Lu, Y.-H."
+    },
+    {
+      "論文名稱": "二次微分法於空載全波形光達之高斯波形擬合與地物分類",
+      "期刊名稱": "航測及遙測學刊 (華藝線上)",
+      "作者群": "盧佑樺、蔡富安、賴哲儇"
+    },
+    {
+      "論文名稱": "Integrating geo-spatial data for regional landslide susceptibility modeling in consideration of run-out signature",
+      "期刊名稱": "International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences (EI)",
+      "作者群": "Lai, J.-S., Tsai, F., and Chiang, S.-H."
+    },
+    {
+      "論文名稱": "Analysis of topographic and vegetative factors with data mining for landslide verification",
+      "期刊名稱": "Ecological Engineering (SCIE)",
+      "作者群": "Tsai, F., Lai, J.-S., Chen, W. W., and Lin, T.-H."
+    },
+    {
+      "論文名稱": "資料探勘技術於坡地崩塌之驗證與潛勢評估",
+      "期刊名稱": "航測及遙測學刊 (華藝線上)",
+      "作者群": "賴哲儇、蔡富安、林岑彧、陳偉堯、林唐煌"
+    },
+    {
+      "論文名稱": "Feature extraction of hyperspectral image cubes using three-dimensional gray-level cooccurrence",
+      "期刊名稱": "IEEE Transaction on Geoscience and Remote Sensing (SCIE)",
+      "作者群": "Tsai, F., and Lai, J.-S."
+    },
+    {
+      "論文名稱": "Verification and risk assessment for landslides in the Shimen reservoir watershed of Taiwan using spatial analysis and data mining",
+      "期刊名稱": "International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences (EI)",
+      "作者群": "Lai, J.-S., and Tsai, F."
+    },
+    {
+      "論文名稱": "高光譜影像立方體於特徵空間之三維紋理計算",
+      "期刊名稱": "航測及遙測學刊 (華藝線上)",
+      "作者群": "賴哲儇、蔡富安"
+    }
+  ],
+  "journal2": [],
+  "conference": [
+    {
+      "論文名稱": "整合資料探勘光譜分割式波段篩選策略與地形因子精進高光譜影像林型判釋",
+      "會議名稱": "第42屆測量及空間資訊研討會",
+      "作者群": "張育維、孫翊晴、江秉諭、賴哲儇、莊永忠"
+    },
+    {
+      "論文名稱": "基於光學遙測影像物件式崩塌影響範圍偵測之成效評估",
+      "會議名稱": "第20屆大地工程學術研討會",
+      "作者群": "吳聖偉、杜昀真、賴哲儇"
+    },
+    {
+      "論文名稱": "Hyperspectral band reductions for improving land cover classifications using data mining based spectrally segmented strategies with texture measures and principal component analysis",
+      "會議名稱": "International Symposium on Remote Sensing 2024",
+      "作者群": "Chiang, B.-Y., Sun, Y.-C., Lai, J.-S."
+    },
+    {
+      "論文名稱": "Combining Sentinel-1 DInSAR technique with field monitoring data to evaluate the trend of land deformation in the Hualien area of Taiwan",
+      "會議名稱": "The 44th Asian Conference on Remote Sensing",
+      "作者群": "Wu, Y.-Y., Tu, Y.-C., Huang, H.-M., Lai, J.-S., Lin, B.-S."
+    },
+    {
+      "論文名稱": "數位孿生博物館—結合低成本設備與高效率流程之執行架構建立",
+      "會議名稱": "第41屆測量及空間資訊研討會",
+      "作者群": "余灝 、許皓香 、藍元君、侯統文、趙璋翰、賴哲儇"
+    },
+    {
+      "論文名稱": "Sentinel-1差分干涉合成孔徑雷達技術結合現地監測資料評估花蓮區域地表變形趨勢",
+      "會議名稱": "第41屆測量及空間資訊研討會",
+      "作者群": "吳盈盈、杜昀真、黃宏楙、賴哲儇、林秉賢"
+    },
+    {
+      "論文名稱": "室內三維製圖導入低成本點雲輔助策略之成效與成本評估",
+      "會議名稱": "第41屆測量及空間資訊研討會",
+      "作者群": "孫翊晴、賴哲儇"
+    },
+    {
+      "論文名稱": "低成本歷史文物模型建置",
+      "會議名稱": "第九屆都市計畫與空間資訊研討會",
+      "作者群": "藍元君、余灝、 侯統文、趙璋翰、 賴哲儇、許皓香"
+    },
+    {
+      "論文名稱": "數位孿生博物館—結合低成本設備與高效率流程之執行架構建立",
+      "會議名稱": "第九屆都市計畫與空間資訊研討會",
+      "作者群": "余灝 、許皓香 、藍元君、侯統文、趙璋翰、賴哲儇"
+    },
+    {
+      "論文名稱": "主被動式遙測資料探勘產製崩塌目錄之成效與精進",
+      "會議名稱": "第39屆測量及空間資訊研討會",
+      "作者群": "賴哲儇"
+    },
+    {
+      "論文名稱": "資料探勘光譜分割式波段篩選策略精進高光譜影像地物分類",
+      "會議名稱": "第39屆測量及空間資訊研討會",
+      "作者群": "江秉諭、賴哲儇"
+    },
+    {
+      "論文名稱": "群集分析演算法精進崩塌目錄品質",
+      "會議名稱": "第24屆營建工程與管理學術研討會",
+      "作者群": "黃俊議、賴哲儇*"
+    },
+    {
+      "論文名稱": "應用環景拍攝與虛擬實境技術記錄消防設備空間分布與屬性資訊",
+      "會議名稱": "第24屆營建工程與管理學術研討會",
+      "作者群": "江承澤、張珉榛、李品毅、洪冠楨、楊千弘、賴哲儇*"
+    },
+    {
+      "論文名稱": "陸域風機之環景視覺化場域建置",
+      "會議名稱": "第24屆營建工程與管理學術研討會",
+      "作者群": "蔡翊紘、張丙宗、蘇培鈞、何冠霖、吳庭瑜、賴哲儇*"
+    },
+    {
+      "論文名稱": "Separation of landslide source and run-out areas with machine learning for landslide inventory refinement",
+      "會議名稱": "The 40th Asian Conference on Remote Sensing",
+      "作者群": "Lai, J.-S."
+    },
+    {
+      "論文名稱": "機器學習與地形因子分離崩塌源頭與Run-out之可行性評估",
+      "會議名稱": "第三十八屆測量及空間資訊研討會",
+      "作者群": "賴哲儇"
+    },
+    {
+      "論文名稱": "群集分析分離崩塌源頭與Run-out初探",
+      "會議名稱": "第三十八屆測量及空間資訊研討會",
+      "作者群": "黃俊議、賴哲儇"
+    },
+    {
+      "論文名稱": "Adjusting the machine learning based classification decision boundary for improvement of landslide susceptibility models",
+      "會議名稱": "International Symposium on Remote Sensing 2019",
+      "作者群": "Lai, J.-S., Tsai, F."
+    },
+    {
+      "論文名稱": "Improving CityGML LOD-1 building models using terrestrial point cloud data",
+      "會議名稱": "The 39th Asian Conference on Remote Sensing",
+      "作者群": "Tsai, F., Lai, J.-S., and Liu, Y.-C."
+    },
+    {
+      "論文名稱": "Upgrading CityGML LOD-1 building models using airborne LiDAR data",
+      "會議名稱": "The 39th Asian Conference on Remote Sensing",
+      "作者群": "Lai, J.-S., Tsai, F., Liu, Y.-C., and Yang, C.-S."
+    },
+    {
+      "論文名稱": "以大比例尺地形圖與空載光達點雲建置CityGML LOD-2建物模型",
+      "會議名稱": "第三十七屆測量及空間資訊研討會",
+      "作者群": "賴哲儇、蔡富安、劉育青、楊清松"
+    },
+    {
+      "論文名稱": "以近景影像點雲提升CityGML LOD-1建物模型細緻度",
+      "會議名稱": "第三十七屆測量及空間資訊研討會",
+      "作者群": "賴哲儇、蔡富安、劉育青"
+    },
+    {
+      "論文名稱": "CityGML LOD-2 building model reconstruction using topographic maps and point cloud data",
+      "會議名稱": "International Symposium on Remote Sensing 2018",
+      "作者群": "Tsai, F., Lai, J.-S., Liu, Y.-C., and Yang, C.-S."
+    },
+    {
+      "論文名稱": "Generic façade texture generation for realistic 3D building reconstruction",
+      "會議名稱": "International Symposium on Remote Sensing 2018",
+      "作者群": "Liu, Y.-C., Lai, J.-S., and Tsai, F."
+    },
+    {
+      "論文名稱": "Development of LBS-based indoor and outdoor car parking guiding system",
+      "會議名稱": "The 38th Asian Conference on Remote Sensing",
+      "作者群": "Tsai, F., Lai, J.-S., and Liu, Y.-C."
+    },
+    {
+      "論文名稱": "Improving GIS-based landslide susceptibility modeling by adjusting the classification decision boundary",
+      "會議名稱": "Taiwan-Japan Joint Symposium on the Advancement of Urban Earthquake Hazard Mitigation Technology",
+      "作者群": "Lai, J.-S., and Tsai, F."
+    },
+    {
+      "論文名稱": "Developing 3D GIS platform for visualizing flood susceptibility",
+      "會議名稱": "International Symposium on Remote Sensing 2017",
+      "作者群": "Tsai, F., Lai, J.-S., Liu, Y.-C., and Yang, C.-S."
+    },
+    {
+      "論文名稱": "Integrating rule-based algorithms with fuzzy rule induction on landslide susceptibility modeling",
+      "會議名稱": "The 37th Asian Conference on Remote Sensing",
+      "作者群": "Lai, J.-S., and Tsai, F."
+    },
+    {
+      "論文名稱": "Relationship between cover-management factor and spatial data",
+      "會議名稱": "The 37th Asian Conference on Remote Sensing",
+      "作者群": "Lin, T.-C., Lai, J.-S., Tsai, F., and Chen, W.W."
+    },
+    {
+      "論文名稱": "Visualization of cultural heritage sites using panoramic images",
+      "會議名稱": "The 37th Asian Conference on Remote Sensing",
+      "作者群": "Tsai, F., and Lai, J.-S."
+    },
+    {
+      "論文名稱": "Waveform fitting and geometry analysis for full-waveform LiDAR feature extraction",
+      "會議名稱": "SPIE Remote Sensing Conference on Earth Resources and Environmental Remote Sensing/GIS Applications",
+      "作者群": "Tsai, F., Lai, J.-S., and Cheng, Y.-H."
+    },
+    {
+      "論文名稱": "開發3D Web GIS：以Cesium為例",
+      "會議名稱": "第三十五屆測量及空間資訊研討會",
+      "作者群": "賴哲儇、蔡富安、劉育青、楊清松"
+    },
+    {
+      "論文名稱": "Integrating geo-spatial data for regional landslide susceptibility modeling in consideration of run-out signature",
+      "會議名稱": "The XXIII Congress of International Society for Photogrammetry and Remote Sensing",
+      "作者群": "Lai, J.-S., Tsai, F., and Chiang, S. H."
+    },
+    {
+      "論文名稱": "探討GIS崩塌潛勢模型獨立Run-out類別之可行性",
+      "會議名稱": "海峽兩岸遙測/遙感研討會",
+      "作者群": "賴哲儇、蔡富安、姜壽浩"
+    },
+    {
+      "論文名稱": "Combining particle swarm optimization and fuzzy rule induction for landslide susceptibility modeling",
+      "會議名稱": "International Symposium on Remote Sensing 2016",
+      "作者群": "Lai, J.-S., and Tsai, F."
+    },
+    {
+      "論文名稱": "Indoor environment visualization and navigation under Unity 3D engine framework",
+      "會議名稱": "International Symposium on Remote Sensing 2016",
+      "作者群": "Tsai, F., Lai, J.-S., and Liu, Y.-C."
+    },
+    {
+      "論文名稱": "Improving landslide susceptibility modeling using an empirical threshold scheme for excluding landslide deposition",
+      "會議名稱": "AGU Fall Meeting",
+      "作者群": "Tsai, F., Lai, J.-S."
+    },
+    {
+      "論文名稱": "Integration of decision tree and fuzzy rule induction on landslide susceptibility modeling",
+      "會議名稱": "The 36th Asian Conference on Remote Sensing",
+      "作者群": "Lai, J.-S., and Tsai, F."
+    },
+    {
+      "論文名稱": "Topographic correction of NDVI in mountainous regions",
+      "會議名稱": "The 36th Asian Conference on Remote Sensing",
+      "作者群": "Lin, T.-C., Lai, J.-S., Tsai, F., and Lin, T.-H."
+    },
+    {
+      "論文名稱": "An alternative open source web-based 3D GIS: Cesium engine environment",
+      "會議名稱": "The 36th Asian Conference on Remote Sensing",
+      "作者群": "Tsai, F., Lai, J.-S., and Liu, Y.-C."
+    },
+    {
+      "論文名稱": "Full-waveform LiDAR point cloud classification with volumetric texture measures for land-cover identification",
+      "會議名稱": "International Symposium on Remote Sensing 2015",
+      "作者群": "Tsai, F., Lai, J.-S., and Lu, Y.-H."
+    },
+    {
+      "論文名稱": "Application of swarm intelligence for landslide susceptibility modeling from geospatial data fusion",
+      "會議名稱": "The 35th Asian Conference on Remote Sensing",
+      "作者群": "Lai, J.-S., and Tsai, F."
+    },
+    {
+      "論文名稱": "Construction of fuzzy membership function by bi-directional histogram normalization for landslide susceptibility evaluation and verification using satellite imagery and spatial attributes",
+      "會議名稱": "International Symposium on Remote Sensing 2014",
+      "作者群": "Lai, J.-S., and Tsai, F."
+    },
+    {
+      "論文名稱": "Sequent data mining analysis for rainfall-based landslide events with the refinement of landslide samples and feature reduction",
+      "會議名稱": "The 34th Asian Conference on Remote Sensing",
+      "作者群": "Lai, J.-S., Tsai, F., and Hwang J.-H."
+    },
+    {
+      "論文名稱": "Using data mining techniques to predict sequent post-landslide events by multi-classifier strategy and combination",
+      "會議名稱": "International Symposium on Remote Sensing 2013",
+      "作者群": "Lai, J.-S., and Tsai, F."
+    },
+    {
+      "論文名稱": "資料探勘技術預測豪雨促發之崩塌事件",
+      "會議名稱": "海峽兩岸遙測/遙感研討會",
+      "作者群": "賴哲儇、蔡富安"
+    },
+    {
+      "論文名稱": "Feature extraction for hyperspectral image cubes by noise-adjusted canonical analysis",
+      "會議名稱": "The 33th Asian Conference on Remote Sensing",
+      "作者群": "Lai, J.-S., and Tsai, F."
+    },
+    {
+      "論文名稱": "Mitigating multi-temporal difference of NDVI by pseudo invariant features normalization for mountain region",
+      "會議名稱": "International Symposium on Remote Sensing 2012",
+      "作者群": "Tsai, F., Lai, J.-S., and Lin, T.-H."
+    },
+    {
+      "論文名稱": "Landslide factor analysis with spatial data mining",
+      "會議名稱": "Taiwan-Japan Joint Symposium on the Advancement of Urban Earthquake Hazard Mitigation Technology",
+      "作者群": "Lai, J.-S., Tsai, F., and Lin, T.-H."
+    },
+    {
+      "論文名稱": "Verification and risk assessment for landslides in the Shimen reservoir watershed of Taiwan using spatial analysis and data mining",
+      "會議名稱": "The XXII Congress of International Society for Photogrammetry and Remote Sensing",
+      "作者群": "Lai, J.-S., and Tsai, F."
+    },
+    {
+      "論文名稱": "Topographic and vegetative factors of data mining for landslide verification and risk assessment",
+      "會議名稱": "The 3rd International Conference on Soil Bio- and Eco-Engineering: The Use of Vegetation to Improve Slope Stability",
+      "作者群": "Tsai, F., Lai, J.-S., Chen, W. W., and Lin, T.-H."
+    }
+  ],
+  "book": [],
+  "patent": [],
+  "most": [
+    {
+      "name": "基於無人機調查與測繪之大面積森林蓄積量推估研究 -結合空載光達與多光譜影像",
+      "schoolYear": "113"
+    },
+    {
+      "name": "從潛勢評估觀點探討主被動式遙測資料結合機器學習偵測崩塌範圍及建置目錄之盲點和精進",
+      "schoolYear": "112"
+    },
+    {
+      "name": "基於光學遙測影像物件式崩塌影響範圍偵測之成效評估",
+      "schoolYear": "112"
+    },
+    {
+      "name": "主被動式遙測資料探勘產製崩塌目錄之成效與精進",
+      "schoolYear": "109"
+    },
+    {
+      "name": "環景拍攝與虛擬實境技術建構風機視覺化場域",
+      "schoolYear": "109"
+    },
+    {
+      "name": "結合資料探勘演算法與空間資料分離崩塌源頭與Run-out之可行性評估",
+      "schoolYear": "107"
+    }
+  ],
+  "tech": [
+    {
+      "論文名稱": "Improving Regional Landslide Susceptibility Assessments by Integrating Geo-spatial Data and Data Mining Algorithms (2018-03)",
+      "書名": "Doctoral Dissertation",
+      "作者群": "Lai, J.-S.*"
+    },
+    {
+      "論文名稱": "高光譜影像立方體於特徵空間之三維紋理計算 (2009-06)",
+      "書名": "碩士論文",
+      "作者群": "賴哲儇*"
+    }
+  ],
+  "induAca": [
+    "111年度臺南分局水庫集水區減砂入庫方案及保育治理專案管理計畫 (2022-01 to 2022-12)",
+    "運用光達點雲及高光譜資料於林型樹種分類與蓄積量推估模式建置 (2021-12 to 2022-12)",
+    "多元遙測與空間資訊整合應用 (2021-03 to 2024-12)",
+    "智慧營建 深耕土木 永續防災 (2021-03 to 2023-01)",
+    "智慧營建在海陸域風力發電設施之理論設計與實務應用108年度新工程教育方法實驗與建構計畫「B類計畫：主題式課群之創建」— (2019-06 to 2021-02)"
+  ],
+  "perform": [],
+  "reward": [
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "111學年度第一學期土木二甲「測量學」教學滿意度於全校大學部課程之前10% (111, 2023-04) - 逢甲大學",
+    "111學年度第一學期土木二甲「測量學實習」教學滿意度於全校大學部課程之前10% (111, 2023-04) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (111, 2022-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (111, 2022-11) - 逢甲大學",
+    "第六屆大專生3S創客競賽佳作 (111, 2022-09) - 中華民國航空測量及遙感探測學會",
+    "110學年度第二學期土木二乙「地形測量」勤學有禮2.0活動競賽績優 (110, 2022-06) - 逢甲大學",
+    "AI產業化創新競賽第一名 (110, 2022-04) - 台灣人工智慧學校台中分校",
+    "110學年度第一學期土木二乙「測量學」教學滿意度於全校大學部課程之前10% (110, 2022-04) - 逢甲大學",
+    "110學年度第一學期土木二乙「測量學實習」教學滿意度於全校大學部課程之前10% (110, 2022-04) - 逢甲大學",
+    "110學年度第一學期土水博一「土木工程特論」教學滿意度於全校研究所課程之前10% (110, 2022-04) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (110, 2021-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (110, 2021-11) - 逢甲大學",
+    "109學年度第二學期土木二合「地形測量」教學滿意度於全校大學部課程之前10% (110, 2021-11) - 逢甲大學",
+    "109學年度第二學期土木二合「地形測量實習」教學滿意度於全校大學部課程之前10% (110, 2021-11) - 逢甲大學",
+    "第五屆大專生3S創客競賽實作獎 (110, 2021-10) - 中華民國航空測量及遙感探測學會",
+    "110年度科技部補助大專校院研究獎勵 (110, 2021-10) - 產學合作處",
+    "2021逢甲大學創新應用專題競賽佳作 (109, 2021-07) - 逢甲大學",
+    "109學年度第一學期土木二甲「測量學」教學滿意度於全校大學部課程之前10% (109, 2021-05) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (109, 2020-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (109, 2020-11) - 逢甲大學",
+    "109年度科技部補助大專校院研究獎勵 (109, 2020-10) - 逢甲大學",
+    "第24屆營建工程與管理學術研討會特優論文獎(Best Paper Award) (109, 2020-08) - 第24屆營建工程與管理學術研討會",
+    "108學年度第一學期土木二甲「測量學」教學滿意度於全校大學部課程之前10% (108, 2020-05) - 逢甲大學",
+    "108學年度第一學期土木二甲「測量學實習」教學滿意度於全校大學部課程之前10% (108, 2020-05) - 逢甲大學",
+    "107學年度第二學期土木二合「地形測量」教學滿意度於全校大學部課程之前10% (108, 2019-11) - 逢甲大學",
+    "107學年度第二學期土木二合「地形測量實習」教學滿意度於全校大學部課程之前10% (108, 2019-11) - 逢甲大學",
+    "106年中華民國航空測量及遙感探測學會年會論文獎 (107, 2018-11) - 中華民國航空測量及遙感探測學會"
+  ],
+  "speech": [
+    {
+      "演講題目": "遙測衛星影像特性與光譜介紹、遙測影像資料應用及影像處理軟體實作",
+      "邀請單位": "2025 高中遙測微課程研習營",
+      "演講日期": "2025-03"
+    },
+    {
+      "演講題目": "Improvement of multi-temporal and event-based landslide susceptibility modeling with geospatial data mining",
+      "邀請單位": "國立臺灣師範大學地理學系",
+      "演講日期": "2024-11"
+    },
+    {
+      "演講題目": "從潛勢評估探討崩塌目錄製作流程與品質提升之可行性",
+      "邀請單位": "國立陽明交通大學土木工程學系",
+      "演講日期": "2024-10"
+    },
+    {
+      "演講題目": "遙測影像資料應用及影像處理軟體實作",
+      "邀請單位": "2024 高中遙測微課程研習營",
+      "演講日期": "2024-03"
+    },
+    {
+      "演講題目": "遙測衛星影像特性與光譜介紹、遙測影像資料應用及影像處理軟體實作",
+      "邀請單位": "2023福衛五號衛星影像應用研習營",
+      "演講日期": "2023-03"
+    },
+    {
+      "演講題目": "Data infrastructure in smart cities: 3D digital cities (與談人)",
+      "邀請單位": "逢甲大學建設學院智慧城市國際論壇",
+      "演講日期": "2019-05"
+    },
+    {
+      "演講題目": "遙測衛星影像特性與光譜介紹",
+      "邀請單位": "2019福衛五號衛星影像應用研習營",
+      "演講日期": "2019-02"
+    },
+    {
+      "演講題目": "Regional landslide susceptibility modeling using geo-spatial data and data mining algorithms",
+      "邀請單位": "國立成功大學測量及空間資訊學系",
+      "演講日期": "2018-11"
+    },
+    {
+      "演講題目": "廣域崩塌潛勢模型的空間分析",
+      "邀請單位": "中華民國航空測量及遙感探測學會",
+      "演講日期": "2018-11"
+    },
+    {
+      "演講題目": "測量(Surveying)、空間資訊(Geomatics)到數位城市(Digital City)",
+      "邀請單位": "逢甲大學土木工程學系",
+      "演講日期": "2018-09"
+    }
+  ],
+  "material": [],
+  "tal": []
+}

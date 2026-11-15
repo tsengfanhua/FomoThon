@@ -1,0 +1,340 @@
+{
+  "teacherId": "T91041",
+  "name": "李君屏",
+  "mainUnit": "金融學院",
+  "detailUnit": "財務金融學系",
+  "skill": [
+    "金融機構管理Financial Institution Management",
+    "衍生性金融商品Derivatives",
+    "風險管理Risk Management"
+  ],
+  "edu": [
+    "國立中央大學 財務管理系 博士",
+    "逢甲大學 保險學系 碩士",
+    "國立台灣大學 農業經濟學系 學士"
+  ],
+  "fcuExp": [
+    "財務金融學系 副教授",
+    "財務金融學系 教授",
+    "財務金融學系 教授",
+    "財務金融學系 教授",
+    "財務金融學系 教授",
+    "財務金融學系 教授",
+    "財務金融學系 教授",
+    "財務金融學系 教授"
+  ],
+  "currjob": [],
+  "otherExp": [
+    "朝陽科技大學 保險金融管理系 副教授",
+    "朝陽科技大學 保險金融管理系 講師"
+  ],
+  "journal": [
+    {
+      "論文名稱": "Pricing catastrophe swaps with default risk and stochastic interest rates",
+      "期刊名稱": "Pacific-Basin Finance Journal (SSCI,ECONLIT)",
+      "作者群": "Chien-Ling Lo, Carolyn W. Chang, Jin-Ping Lee, Min-Teh Yu"
+    },
+    {
+      "論文名稱": "Bank systemic risk and CEO overconfidence",
+      "期刊名稱": "The North American Journal of Economics and Finance (SSCI)",
+      "作者群": "Lee, Jin-Ping, Edward H.M. Lin, James Juichia Lin, Yang Zhao"
+    },
+    {
+      "論文名稱": "Pair-trading profitability and short-selling restriction: Evidence from the Taiwan stock market",
+      "期刊名稱": "International Review of Economics & Finance (SSCI,科技部財務類期刊 B+ 級)",
+      "作者群": "Jai-Jen Wang, Jin-Ping Lee, and Yang Zhao"
+    },
+    {
+      "論文名稱": "台灣金融機構的系統風險—ΔCoVaR、分量迴歸模型、與隨機優勢檢定的應用",
+      "期刊名稱": "風險管理學報 (其他)",
+      "作者群": "李君屏、楊子萱、王佳真"
+    },
+    {
+      "論文名稱": "何人、何時、何處購買投資型保險較有利？",
+      "期刊名稱": "證券市場發展季刊 (TSSCI)",
+      "作者群": "張文武、賴靜美、李君屏"
+    },
+    {
+      "論文名稱": "Connections between Volatility Skew Measures and TAIEX Return (波動性偏態指標與台灣加權股價指數變動率間的關聯)",
+      "期刊名稱": "期貨與選擇權學刊 (TSSCI)",
+      "作者群": "王佳真、王尹柔、李君屏*"
+    },
+    {
+      "論文名稱": " Financial reform and the adequacy of deposit insurance fund: Lessons from Taiwanese experience",
+      "期刊名稱": "International Review of Economics & Finance (SSCI)",
+      "作者群": "Chia-Ling Ho, Gene C. Lai, Jin-Ping Lee*"
+    },
+    {
+      "論文名稱": "Valuation of insurers’contingent capital with counterparty risk and price endogeneity",
+      "期刊名稱": "Journal of Banking and Finance (SSCI)",
+      "作者群": "Chien-Ling Lo, Jin-Ping Lee and Min-Teh Yu*\r\n"
+    },
+    {
+      "論文名稱": "Organizational Structure, Board Composition, and Risk Taking in the U.S. Property Casualty Insurance Industry",
+      "期刊名稱": "Journal of Risk and Insurance (SSCI,ECONLIT)",
+      "作者群": "Chia-Ling Ho, Gene Lai and Jin-Ping Lee"
+    },
+    {
+      "論文名稱": "風險因子相關性與產險公司資本要求",
+      "期刊名稱": "風險管理學報] ()",
+      "作者群": "李君屏 張佑任"
+    },
+    {
+      "論文名稱": "Corporate Governance, Audit Quality and Risk Taking in the U.S. Property and Casualty Insuance",
+      "期刊名稱": "Corporate Ownership & Control ()",
+      "作者群": "Chia-Ling Ho,Gene Lai,Jin-Ping Lee"
+    },
+    {
+      "論文名稱": "Internal Model-Based Capital Standard and the Cost of Deposit Insurance",
+      "期刊名稱": "Research in Finance (ECONLIT)",
+      "作者群": "Jin-Ping Lee"
+    },
+    {
+      "論文名稱": "Valuation of Catastrophe Reinsurance with Catastrophe Bonds",
+      "期刊名稱": "Insurance:Mathematics and Economics (SSCI,ECONLIT)",
+      "作者群": "Jin-Ping Lee and Min-Teh Yu"
+    },
+    {
+      "論文名稱": "存款保險之評價:信用風險模型之應用",
+      "期刊名稱": "風險管理學報 ()",
+      "作者群": "李君屏,陳宏輝"
+    },
+    {
+      "論文名稱": "Bank Capital Forbearance and Valuation of Deposit Insurance",
+      "期刊名稱": "Canadian Journal of Administrative Science (SSCI,ECONLIT)",
+      "作者群": "Lee, Shih-Cheng, Jin-Ping Lee(李君屏) and Min-Teh Yu"
+    },
+    {
+      "論文名稱": "Valuation of Pension Benefit Guarantees and Termination Conditions",
+      "期刊名稱": "Research in Finance (ECONLIT)",
+      "作者群": "Shih-Cheng Lee, Min-Teh Yu"
+    }
+  ],
+  "journal2": [],
+  "conference": [
+    {
+      "論文名稱": "Counterparty default risk and the catastrophe swap valuation",
+      "會議名稱": "WEAI 91st Annual Conference",
+      "作者群": "Jin-Ping Lee"
+    },
+    {
+      "論文名稱": "Pension terminations, plan conversion, and the cost of pension benefit guarantees",
+      "會議名稱": "The 90th WEAI Annual Conference",
+      "作者群": "Jin-Ping Lee"
+    },
+    {
+      "論文名稱": "Connections between Volatility Skew Measures and TAIEX Return",
+      "會議名稱": "2015臺灣財務金融學會年會暨國際研討會",
+      "作者群": "李君屏、王佳真*、王尹柔"
+    },
+    {
+      "論文名稱": "Volatility Skew Measures and TAIEX Return",
+      "會議名稱": "2015中部財金學術聯盟研討會",
+      "作者群": "李君屏*、王佳真、王尹柔"
+    },
+    {
+      "論文名稱": "Liquidity Risk and the Cost of Deposit Insurance",
+      "會議名稱": "Western Economic Association International第89屆學術研討會",
+      "作者群": "李君屏"
+    },
+    {
+      "論文名稱": "Valuation of Catastrophe Equity Puts with Counterparty Risk and Price Endogeneity",
+      "會議名稱": "台灣風險與保險學會第五屆年會暨國際學術研討會",
+      "作者群": "Jin-Pin Lee, Chien-Ling Lo, and Min-Teh Yu"
+    },
+    {
+      "論文名稱": "Counterparty Default Risk and the Valuation of Catastrophe Equity Puts",
+      "會議名稱": "WEAI 86th Annual Conference",
+      "作者群": "Jin-Ping Lee and Min-Teh Yu"
+    },
+    {
+      "論文名稱": "Termination Rules and the Pension Benefit Guaranty Valuation",
+      "會議名稱": "WEAI 85th Annual Conference",
+      "作者群": "Jin-Ping Lee and Min-Teh Yu"
+    },
+    {
+      "論文名稱": "Forbearance, Prompt Closure, and the Valuation of Subordinated Debt",
+      "會議名稱": "the 4th International Symposium on Economic Theory, Policy and Applications",
+      "作者群": "Jin-Ping Lee and Min-Teh Yu"
+    },
+    {
+      "論文名稱": "Bank regulations and Solvency Issues of Deposit Insurance Fund in Taiwan",
+      "會議名稱": "Western Economic Association International 84th Annual Meeting",
+      "作者群": "Chia-Ling Ho, Gene Lai and Jin-Ping Lee"
+    },
+    {
+      "論文名稱": "Risk Management for Catastrophe Loss",
+      "會議名稱": "數量財務與風險管理研討會",
+      "作者群": "Min-Teh Yu"
+    },
+    {
+      "論文名稱": "Closure Rules and the Valuation of Pension Benefit Guaranty",
+      "會議名稱": "2006 FMA Annual Meeting",
+      "作者群": "Jin-Ping Lee and Min-Teh Yu"
+    },
+    {
+      "論文名稱": "Prompt Corrective Actions and the Valuation of Deposit Insurance",
+      "會議名稱": "2006 FMA European Meeting",
+      "作者群": "Jin-Ping Lee and Min-Teh Yu"
+    },
+    {
+      "論文名稱": "Subordinated Debt Valuation, Capital Standards and Regulatory Responses",
+      "會議名稱": "2006 Symposium on Financial Innovations and Corporate Governance",
+      "作者群": "Min-Teh Yu"
+    },
+    {
+      "論文名稱": "Bank Runs, Regulatory Responses, and the Cost of Deposit Insurance",
+      "會議名稱": "2004 FMA Annual Meeting",
+      "作者群": "Jin-Ping Lee and Min-Teh Yu"
+    },
+    {
+      "論文名稱": "Catastrophe Reinsurance Valuation with CAT Bond Issuance",
+      "會議名稱": "The 8th APRIA Annual Conference",
+      "作者群": "Jin-Ping Lee and Min-Teh Yu"
+    },
+    {
+      "論文名稱": "Capital Standard, Forbearance and Subordinated Debt Valuation",
+      "會議名稱": "2003 FMA Annual Meeting",
+      "作者群": "Jin-Ping Lee and Min-Teh Yu"
+    },
+    {
+      "論文名稱": "Closure Rules and Valuation of Pension Benefit Insurance",
+      "會議名稱": "2002 FMA Annual Meeting",
+      "作者群": "Jin-Ping Lee and Min-Teh Yu"
+    }
+  ],
+  "book": [],
+  "patent": [],
+  "most": [
+    {
+      "name": "死亡率跳躍、違約風險與長壽交換契約之評價",
+      "schoolYear": "110"
+    },
+    {
+      "name": "道德風險、市場監督力量與資本市場基礎保險權益保證之評價",
+      "schoolYear": "109"
+    },
+    {
+      "name": "系統風險、資本規範與保險安定基金成本",
+      "schoolYear": "108"
+    },
+    {
+      "name": "政治關係對銀行盈餘平滑的影響",
+      "schoolYear": "108"
+    },
+    {
+      "name": "或有資本、巨災再保險價值與附或有反向轉換權巨災債券之評價(2/2)",
+      "schoolYear": "107"
+    },
+    {
+      "name": "空氣污染、油價與綠能產業股票報酬關聯性之探討",
+      "schoolYear": "107"
+    },
+    {
+      "name": "或有資本、巨災再保險價值與附或有反向轉換權巨災債券之評價(1/2)",
+      "schoolYear": "106"
+    },
+    {
+      "name": "系統風險、存款保險基金與存款保險費率",
+      "schoolYear": "105"
+    },
+    {
+      "name": "交易對手違約風險、巨災交換契約與再保險契約之評價(2/2)",
+      "schoolYear": "104"
+    },
+    {
+      "name": "交易對手違約風險、巨災交換契約與再保險契約之評價(1/2)",
+      "schoolYear": "103"
+    },
+    {
+      "name": "退休基金監理措施、退休基金轉換與退休金保險成本",
+      "schoolYear": "102"
+    },
+    {
+      "name": "資本改善與壽險有效契約證券化",
+      "schoolYear": "101"
+    },
+    {
+      "name": "公營銀行與民營銀行員工積極度之差異比較－以臺灣銀行及國泰世華銀行為例",
+      "schoolYear": "101"
+    },
+    {
+      "name": "巨災權益賣權與巨災避險(2/2)",
+      "schoolYear": "99"
+    },
+    {
+      "name": "巨災權益賣權與巨災避險(1/2)",
+      "schoolYear": "98"
+    },
+    {
+      "name": "存款保險費率、覆蓋率與存款保險基金適足性(2/2)",
+      "schoolYear": "97"
+    },
+    {
+      "name": "存款保險費率、覆蓋率與存款保險基金適足性(1/2)",
+      "schoolYear": "96"
+    },
+    {
+      "name": "流動性風險與存款保險成本之研究",
+      "schoolYear": "95"
+    },
+    {
+      "name": "內部模型基礎之資本規範對存款保險成本之影響",
+      "schoolYear": "94"
+    },
+    {
+      "name": "寬容，擠兌與存款保險之評價",
+      "schoolYear": "93"
+    },
+    {
+      "name": "銀行監理，資本寬容與次順位債券之評價",
+      "schoolYear": "92"
+    },
+    {
+      "name": "考慮中途提領條件下權益連結保險契約最低保障收益之評價",
+      "schoolYear": "91"
+    }
+  ],
+  "tech": [
+    {
+      "論文名稱": "Bank Capital Standards and Subordinated Debt Prices (2017-12)",
+      "書名": "Advances in Pacific Basin Business, Economics and Finance",
+      "作者群": "Jin-Ping Lee, Edward M.H. Lin, Min-Teh Yu and Yang Zhao"
+    },
+    {
+      "論文名稱": "Catastrophe Losses and Alternative Risk Transfer Instrutments (2010-08)",
+      "書名": "Handbook of Quantitative Finance and Risk Management",
+      "作者群": "Jin-Ping Lee and Min-Teh Yu"
+    }
+  ],
+  "induAca": [],
+  "perform": [],
+  "reward": [
+    "逢甲大學論文著作獎勵優良獎 (111, 2022-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (110, 2021-11) - 逢甲大學",
+    "110年度科技部補助大專校院研究獎勵 (110, 2021-10) - 產學合作處",
+    "逢甲大學論文著作獎勵優良獎 (109, 2020-11) - 逢甲大學",
+    "109年度科技部補助大專校院研究獎勵 (109, 2020-10) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (108, 2019-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (107, 2018-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (106, 2017-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (106, 2017-11) - 逢甲大學",
+    "106年度科技部獎勵特殊優秀人才 (106, 2017-08) - 產學合作處",
+    "逢甲大學論文著作獎勵傑出獎 (104, 2015-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (103, 2014-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (103, 2014-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (102, 2013-11) - 逢甲大學",
+    "102年度科技部獎勵特殊優秀人才 (102, 2013-08) - 研究發展處",
+    "101年度科技部獎勵特殊優秀人才 (101, 2012-08) - 研究發展處",
+    "100年度科技部獎勵特殊優秀人才 (100, 2011-08) - 研究發展處",
+    "逢甲大學論文著作獎勵優良獎 (99, 2010-11) - 逢甲大學",
+    "99年度科技部獎勵特殊優秀人才 (99, 2010-10) - 研究發展處",
+    "逢甲大學論文著作獎勵優良獎 (98, 2009-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (97, 2008-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (97, 2008-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (95, 2006-11) - 逢甲大學"
+  ],
+  "speech": [],
+  "material": [],
+  "tal": []
+}

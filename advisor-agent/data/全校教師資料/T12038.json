@@ -1,0 +1,107 @@
+{
+  "teacherId": "T12038",
+  "name": "王啟宏",
+  "mainUnit": "創能學院",
+  "detailUnit": "創能學院",
+  "skill": [
+    "醫學復健系統",
+    "影像辨識",
+    "人工智慧",
+    "色彩管理"
+  ],
+  "edu": [
+    "國立台北科技大學 電子工程系博士班 博士",
+    "國立台北教育大學 資訊科學系碩士學位在職進修專班 碩士"
+  ],
+  "fcuExp": [
+    "創能學院 助理教授"
+  ],
+  "currjob": [],
+  "otherExp": [
+    "康軒文教事業股份有限公司 發行部 經理",
+    "康橋高級中學 採購部 經理",
+    "綺益彩印科技股份有限公司 印前輸出部 副理",
+    "安欣印藝股份有限公司 印前輸出部 副理",
+    "翰林出版事業股份有限公司 編管部 組長"
+  ],
+  "journal": [
+    {
+      "論文名稱": "Improved Palm Print Identification Technique Leveraging YOLOv9",
+      "期刊名稱": "Journal of Information and Communication Engineering (JICE) (AscsPub)",
+      "作者群": "Chi-Hung Wang*, Jun-Jie Yen, Wei-Ren Chen"
+    },
+    {
+      "論文名稱": "Optimization of machine learning method combined with brain-computer interface rehabilitation system",
+      "期刊名稱": "The Journal of Physical Therapy Science (SCIE)",
+      "作者群": "Chi Hung Wang, Kuo Yu Tsai*"
+    },
+    {
+      "論文名稱": "Use improved KINECT to recognize whole-body images to enhance accuracy",
+      "期刊名稱": "The Visual Computer (SCIE)",
+      "作者群": "Chi Hung Wang, Kuo Yu Tsai*, Yuh Shyan Hwang"
+    },
+    {
+      "論文名稱": "Microstructure overlapping image with optical decryptionapplication",
+      "期刊名稱": "Journal of the Optical Society of America A (SCIE)",
+      "作者群": "Chi-Hung Wang*, Yuh-Shyan Hwang,Hsi-Chun Wang, Yu-Ling Wang, and Kuo-Yu Tsai"
+    },
+    {
+      "論文名稱": "Implementation of interactive games to a shoulder rehabilitation and evaluation system",
+      "期刊名稱": "Technology and Health Care (SCIE)",
+      "作者群": "Chi-Hung Wang*, Yuh-Shyan Hwang,Yu-Luen Chen,Chih-Chen Chen, and Kuo-Yu Tsai"
+    }
+  ],
+  "journal2": [],
+  "conference": [
+    {
+      "論文名稱": "Comparative Analysis of Palmprint Detection Using Different YOLO Models",
+      "會議名稱": "IEEE International Conference on Consumer Technology – Pacific 2025",
+      "作者群": "Chi-Hung Wang*, Jun-Jie Yen and Wei-Ren Chen"
+    },
+    {
+      "論文名稱": "DE-OVDR: Depth Estimation and Open Vocabulary Detection for Object Removal",
+      "會議名稱": "International Congress on Information and Communication Technology(ICICT 2025)",
+      "作者群": "Chi-Hung Wang*, Yu-Siang Siang, Yu-Hsuan Lin and Cheng-Hsien Lin"
+    },
+    {
+      "論文名稱": "Contract Pre-Review Assistance System Based on RAG and LLM",
+      "會議名稱": "International Congress on Information and Communication Technology(ICICT 2025)",
+      "作者群": "Chi-Hung Wang*, Xiang-Shun Yang, Jun-Yi Liu and Yao-Jun Liu"
+    },
+    {
+      "論文名稱": "Palm print identification method based on YOLOv9 and Real-ESRGAN",
+      "會議名稱": "The 9th International Conference on Intelligent Informatics and BioMedical Sciences",
+      "作者群": "Chi-Hung Wang*, Jun-Jie Yen and Wei-Ren Chen"
+    },
+    {
+      "論文名稱": "Research on Two-factor Authentication of Palm Print Image Recognition and Palm Vein Graphic",
+      "會議名稱": "IEEE International Conference on Consumer Electronics – Taiwan(IEEE ICCE-TW 2024)",
+      "作者群": "Chi-Hung Wang*, Juan-Ling Guo and Yuh-Shyan Hwang"
+    },
+    {
+      "論文名稱": "Deer Species and Gender Detection system based on YOLO v9",
+      "會議名稱": "IEEE International Conference on Consumer Electronics – Taiwan(IEEE ICCE-TW 2024)",
+      "作者群": "Jun-Jie Yen, Yu-Hao Pan and Chi-Hung Wang*"
+    },
+    {
+      "論文名稱": "Practical Authentication Scheme Privacy Protection for the Internet of Things",
+      "會議名稱": "2019 3rd International Conference on Security with Intelligent Computing and Big-data Services",
+      "作者群": "Kuo-Yu Tsai, Ching-Wei Lai, Chen-Hua Fu, Chi-Hung Wang* and Yuh-Shyan Hwang"
+    }
+  ],
+  "book": [],
+  "patent": [],
+  "most": [
+    {
+      "name": "設計掌紋結合靜脈影像之雙重身分識別研究",
+      "schoolYear": "112"
+    }
+  ],
+  "tech": [],
+  "induAca": [],
+  "perform": [],
+  "reward": [],
+  "speech": [],
+  "material": [],
+  "tal": []
+}

@@ -1,0 +1,293 @@
+{
+  "teacherId": "T09182",
+  "name": "蔡昂勳",
+  "mainUnit": "資訊電機學院",
+  "detailUnit": "通訊工程學系",
+  "skill": [
+    "6G行動通訊網路6G Mobile Communication Network",
+    "非地面通訊網路Non-Terrestrial Communication Networks",
+    "無線通訊系統Wireless Communication System",
+    "空域通訊網路Aerial Communication Network",
+    "災害復原通訊網路Disaster-Resilient Communication Network",
+    "無線資源管理Radio Resource Management",
+    "低軌道多波束衛星通訊網路LEO Multibeam Satellite Communication Networks"
+  ],
+  "edu": [
+    "國立交通大學 電信工程研究所 博士"
+  ],
+  "fcuExp": [
+    "逢甲大學帆宣智慧城市5G實驗室 研究員",
+    "通訊工程學系 兼任助理教授",
+    "通訊工程學系 助理教授"
+  ],
+  "currjob": [],
+  "otherExp": [
+    "國立交通大學 電機工程學系 助理研究員"
+  ],
+  "journal": [
+    {
+      "論文名稱": "Adaptive Stabilization Control by Deep Reinforcement Learning for Hovering Drone Surveillance",
+      "期刊名稱": "IEEE Transactions on Mobile Computing (Early Access) (SCIE,IF: 7.7, Rank: 11/250, Q1, Computer Science, Informat)",
+      "作者群": "Chao-Yang Lee, Ang-Hsun Tsai, and Li-Chun Wang*"
+    },
+    {
+      "論文名稱": "Relay Network Planning with Geography Information System and Genetic Algorithm in an Actual Multicell Environment",
+      "期刊名稱": "IEEE Systems Journal (SCIE,IF: 4.4, Rank: 32/88, Telecommunications (2022))",
+      "作者群": "Ang-Hsun Tsai*"
+    },
+    {
+      "論文名稱": "Interference-Aware Deployment for Maximizing User Satisfaction in Multi-UAV Wireless Networks",
+      "期刊名稱": "IEEE Wireless Communications Letters (SCIE,IF: 6.3, Rank: 17/88, Telecommunications)",
+      "作者群": "Chuan-Chi Lai*, Ang-Hsun Tsai, Chia-Wei Ting, Ko-Han Lin, Jing-Chi Ling, and Chia-En Tsai"
+    },
+    {
+      "論文名稱": "Adaptive and Fair Deployment Approach to Balance Offload Trafﬁc in Multi-UAV Cellular Networks",
+      "期刊名稱": "IEEE Transactions on Vehicular Technology (SCIE,IF: 6.8, Rank: 14/88, Telecommunications)",
+      "作者群": "Chuan-Chi Lai, Bhola, Ang-Hsun Tsai, and Li-Chun Wang*"
+    },
+    {
+      "論文名稱": "LEOPARD: Parallel Optimal Deep Echo State Network Prediction Improves Service Coverage for UAV-Assisted Outdoor Hotspots",
+      "期刊名稱": "IEEE Transactions on Cognitive Communications and Networking (SCIE,IF: 8.6, Rank: 8/88, Telecommunications)",
+      "作者群": "Haoran Peng, Ang-Hsun Tsai, Li-Chun Wang*, and Zhu Han"
+    },
+    {
+      "論文名稱": "The Hybrid Traffic Offloading Mode for Disaster-Resilient Communication Networks Based on User Mobility",
+      "期刊名稱": "Wireless Communications and Mobile Computing (SCIE,IF: 2.146, Rank: 63/94, Telecommunications)",
+      "作者群": "Ang-Hsun Tsai* and Chung-Hsien Tsai"
+    },
+    {
+      "論文名稱": "Smart Traffic Offloading with Mobile Edge Computing for Disaster‑Resilient Communication Networks",
+      "期刊名稱": "Journal of Network and Systems Management (SCIE,IF: 2.250, Rank: 48/90, Telecommunications)",
+      "作者群": "Wen‑Pin Chen, Ang‑Hsun Tsai*, and Chung‑Hsien Tsai"
+    },
+    {
+      "論文名稱": "High-Capacity OFDMA Femtocells by Directional Antennas and Location Awareness",
+      "期刊名稱": "IEEE Systems Journal (SCIE, IF: 1.270, Rank: 27/78, Telecommunications)",
+      "作者群": "Ang-Hsun Tsai, Li-Chun Wang*, Jane-Hwa Huang, and Ruey-Bing Hwang"
+    }
+  ],
+  "journal2": [],
+  "conference": [
+    {
+      "論文名稱": "5G無人機之稀有保育植物之智慧檢測系統",
+      "會議名稱": "2024台灣網際網路研討會(Taiwan Academic Network Conference, TANET)",
+      "作者群": "章勝凱, 陳冠宇, 蔡昂勳*"
+    },
+    {
+      "論文名稱": "5G無人機之磁磚瑕疵智慧檢測系統",
+      "會議名稱": "2024台灣網際網路研討會(Taiwan Academic Network Conference, TANET)",
+      "作者群": "戴侑庭, 林昱銓, 蔡昂勳*, 袁世一"
+    },
+    {
+      "論文名稱": "無人機之電塔鏽蝕檢測系統",
+      "會議名稱": "2024台灣網際網路研討會(Taiwan Academic Network Conference, TANET)",
+      "作者群": "陳宣瑜, 蔡豐丞, 李辰浩, 蔡昂勳*"
+    },
+    {
+      "論文名稱": "無人機智慧巡檢於稻病害之應用",
+      "會議名稱": "2024台灣網際網路研討會(Taiwan Academic Network Conference, TANET)",
+      "作者群": "蔡捷帆, 潘冠諺, 李宗遠, 蔡昂勳*"
+    },
+    {
+      "論文名稱": "Utilizing Machine Learning for Indoor Localization with Multiple Wi-Fi Assistance",
+      "會議名稱": "2024 IEEE VTS Asia Pacific Wireless Communications Symposium (APWCS) [EI]",
+      "作者群": "Chung-Ruei Huang,  Ang-Hsun Tsai*, Chao-Yang Lee"
+    },
+    {
+      "論文名稱": "具多Wi-Fi網路之室內定位實現",
+      "會議名稱": "第十四屆網路智能與應用研討會(NCWIA 2024)",
+      "作者群": "黃崇瑞、梁傑耘、蔡昂勳*、李朝陽"
+    },
+    {
+      "論文名稱": "無人機偵測距離與高度對人體骨架辨識率之影響",
+      "會議名稱": "第十三屆網路智能與應用研討會(NCWIA 2023)",
+      "作者群": "彭泓翔、張帛龍、黃崇瑞、蔡昂勳*"
+    },
+    {
+      "論文名稱": "Long-Lasting UAV-aided RIS Communications based on SWIPT",
+      "會議名稱": "2022 IEEE Wireless Communications and Networking Conference (WCNC) [EI]",
+      "作者群": "Haoran Peng, Li-Chun Wang, Geoffrey Ye Li, and Ang-Hsun Tsai"
+    },
+    {
+      "論文名稱": "Latest Advances in Spectrum Management for 6G Communications",
+      "會議名稱": "2021 30th Wireless and Optical Communications Conference (WOCC) [EI]",
+      "作者群": "Li-Chun Wang*, Haoran Peng, Arvin Cheng-Sen Huang, and Ang-Hsun Tsai"
+    },
+    {
+      "論文名稱": "Channel Modeling of Air-to-Ground Signal Measurement with Two-Ray Ground-Reflection Model for UAV Communication Systems (FET Best Paper Award)",
+      "會議名稱": "The 30th Wireless and Optical Communications Conference (WOCC 2021) [EI]",
+      "作者群": "Chia-Chuan Chiu, Ang-Hsun Tsai*, Hsin-Piao Lin, Chao-Yang Lee, and Li-Chun Wang"
+    },
+    {
+      "論文名稱": "Throughput Comparison for Orthogonal and Non-Orthogonal Mobile Small-Cell Networks",
+      "會議名稱": "2019 IEEE 90th Vehicular Technology Conference (VTC2019-Fall) [EI]",
+      "作者群": "Ang-Hsun Tsai*"
+    },
+    {
+      "論文名稱": "Affinity Propagation Clustering for Interference Management in Aerial Small Cells",
+      "會議名稱": "2019 IEEE VTS Asia Pacific Wireless Communications Symposium (APWCS) [EI]",
+      "作者群": "Shao-Hung Cheng*, Yung-Sheng Chao, Li-Chun Wang, and Ang-Hsun Tsai"
+    },
+    {
+      "論文名稱": "Coverage Extension with UAV Based on Constrained Uplink and Downlink Phases for Disaster-Resilient Communication Networks",
+      "會議名稱": "2019 IEEE VTS Asia Pacific Wireless Communications Symposium (APWCS) [EI]",
+      "作者群": "Ming-Han Yang, Wen-Pin Chen, Ang-Hsun Tsai*, Shao-Hung Cheng"
+    },
+    {
+      "論文名稱": "Two-Tier Interference Mitigation with Directional Antennas for Small-Cells in an Apartment Building",
+      "會議名稱": "2018 15th International Symposium on Wireless Communication Systems (ISWCS) [EI]",
+      "作者群": "Ang-Hsun Tsai*"
+    },
+    {
+      "論文名稱": "Data-Driven Power Control of Ultra-Dense Femtocells: A Clustering Based Approach",
+      "會議名稱": "2017 26th Wireless and Optical Communication Conference (WOCC) [EI]",
+      "作者群": "Li-Chun Wang, Shao-Hung Cheng*, and Ang-Hsun Tsai"
+    },
+    {
+      "論文名稱": "Bi-SON: Big-Data Self Organizing Network for Energy Efficient Ultra-Dense Small Cells",
+      "會議名稱": "2016 IEEE 84th Vehicular Technology Conference (VTC-Fall) [EI]",
+      "作者群": "Li-Chun Wang, Shao-Hung Cheng* and Ang-Hsun Tsai"
+    },
+    {
+      "論文名稱": "Channel-Oriented Channel Allocation Scheme (COCAS) for Multi-Antenna OFDMA Femtocells",
+      "會議名稱": "2015 IEEE 81st Vehicular Technology Conference (VTC Spring) [EI]",
+      "作者群": "Ang-Hsun Tsai* and Li-Chun Wang"
+    },
+    {
+      "論文名稱": "Network-assisted device-decided channel selection and power control for multi-pair device-to-device (D2D) communications in heterogeneous networks",
+      "會議名稱": "2014 IEEE Wireless Communications and Networking Conference (WCNC) [EI]",
+      "作者群": "Shu-Hao Yang*, Li-Chun Wang, Jane-Hwa Huang, and Ang-Hsun Tsai"
+    },
+    {
+      "論文名稱": "Intelligent Resource Management for Device-to-Device (D2D) Communications in Heterogeneous Networks",
+      "會議名稱": "The 15th International Symposium on Wireless Personal Multimedia Communications (WPMC) [EI]",
+      "作者群": "Ang-Hsun Tsai*, Li-Chun Wang, Jane-Hwa Huang, and Tzu-Ming Lin"
+    },
+    {
+      "論文名稱": "Overload Control for Machine Type Communications with Femtocells",
+      "會議名稱": "2012 IEEE Vehicular Technology Conference (VTC Fall) [EI]",
+      "作者群": "Ang-Hsun Tsai*, Li-Chun Wang, Jane-Hwa Huang, and Tzu-Ming Lin"
+    },
+    {
+      "論文名稱": "Stable Subchannel Allocation for OFDMA Femtocells with Switched Multi-Beam Directional Antennas",
+      "會議名稱": "2011 IEEE Global Communications Conference - GLOBECOM 2011 [EI]",
+      "作者群": "Ang-Hsun Tsai*, Li-Chun Wang, Jane-Hwa Huang, and Ruey-Bing Hwang"
+    },
+    {
+      "論文名稱": "Capacity Comparison for CSG and OSG OFDMA Femtocells",
+      "會議名稱": "2010 IEEE Globecom Workshops [EI]",
+      "作者群": "Ang-Hsun Tsai*, Jane-Hwa Huang, Li-Chun Wang, and Ruey-Bing Hwang"
+    },
+    {
+      "論文名稱": "High Capacity Femtocells with Directional Antennas",
+      "會議名稱": "2010 IEEE Wireless Communication and Networking Conference (WCNC) [EI]",
+      "作者群": "Ang-Hsun Tsai*, Li-Chun Wang, Jane-Hwa Huang, and Ruey-Bing Hwang"
+    }
+  ],
+  "book": [],
+  "patent": [
+    {
+      "title": "發明",
+      "desc": "無人機及其飛行控制系統與方法"
+    },
+    {
+      "title": "發明",
+      "desc": "在機器類型通信網路中對機器類型通信裝置分組之方法以及通信方法"
+    },
+    {
+      "title": "發明",
+      "desc": "Method for Grouping MTC Devices in MTC Networks and Communication Method"
+    },
+    {
+      "title": "發明",
+      "desc": "Network-Assisted Channel Selection and Power Control for Mobile Devices"
+    }
+  ],
+  "most": [
+    {
+      "name": "適用於無人航空載具之人體影像骨架跌倒偵測系統設計與開發",
+      "schoolYear": "112"
+    }
+  ],
+  "tech": [],
+  "induAca": [
+    "教育部5G行動寬頻課程推廣計畫(第2期)—5G NR實體層技術課程模組「通訊科技專論」 (2022-02 to 2023-01)"
+  ],
+  "perform": [],
+  "reward": [
+    "數位通訊領域佳作 (113, 2024-12) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (113, 2024-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (113, 2024-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (113, 2024-11) - 逢甲大學",
+    "智慧環境類入選獎，獎金貳仟元整 (112, 2024-07) - 2024教育部智慧晶片系統應用創新專題實作競賽",
+    "行政服務優良教師 (112, 2024-06) - 逢甲大學",
+    "數位通訊領域佳作 (112, 2023-12) - 逢甲大學",
+    "無人機應用組(Drone-innovation)入圍決賽 (112, 2023-11) - 2023第28屆大專校院資訊應用服務創新競賽(Innoserve 2023)",
+    "無人機應用組(Drone-innovation)入圍決賽 (112, 2023-11) - 2023第28屆大專校院資訊應用服務創新競賽(Innoserve 2023)",
+    "無人機應用組(Drone-innovation) 第三名，獎金伍萬元整 (112, 2023-11) - 2023第28屆大專校院資訊應用服務創新競賽(Innoserve 2023)",
+    "智慧環境類入選獎，獎金貳仟元整 (112, 2023-08) - 2023教育部智慧晶片系統應用創新專題實作競賽",
+    "入圍決賽，獲得獎助金壹萬元整 (111, 2022-10) - 2022中華電信5G創新應用大賽",
+    "Gold Award (金牌獎) (110, 2022-05) - The 36 World Genius Convention 2022 (日本東京創新天才國際發明展)",
+    "未來科技獎 (110, 2021-10) - 科技部、中央研究院、教育部、衛生福利部",
+    "FET Best Paper Award (110, 2021-10) - The 30th Wireless and Optical Communications Conference (WOCC 2021)"
+  ],
+  "speech": [
+    {
+      "演講題目": "5G專網連網實務與應用工作坊",
+      "邀請單位": "逢甲大學帆宣智慧城市5G實驗室",
+      "演講日期": "2025-01"
+    },
+    {
+      "演講題目": "5G專網連網實務與應用工作坊",
+      "邀請單位": "逢甲大學帆宣智慧城市5G實驗室",
+      "演講日期": "2024-06"
+    },
+    {
+      "演講題目": "無人機網路與應用",
+      "邀請單位": "國立雲林科技大學資訊工程系",
+      "演講日期": "2024-06"
+    },
+    {
+      "演講題目": "5G專網連網實務與應用",
+      "邀請單位": "逢甲大學帆宣智慧城市5G實驗室",
+      "演講日期": "2024-01"
+    },
+    {
+      "演講題目": "5G智慧城市之5G專網與應用",
+      "邀請單位": "臺中市光華高級工業職業學校",
+      "演講日期": "2023-10"
+    },
+    {
+      "演講題目": "無人機網路：應用、挑戰與法規",
+      "邀請單位": "國立暨南國際大學電機工程學系",
+      "演講日期": "2023-10"
+    },
+    {
+      "演講題目": "5G專網場域連網實務工作坊",
+      "邀請單位": "逢甲大學帆宣智慧城市5G實驗室",
+      "演講日期": "2023-06"
+    },
+    {
+      "演講題目": "如何在Matlab/Simulink中使用軟體定義無線電機來實現無線通訊傳輸？",
+      "邀請單位": "逢甲大學自動控制工程學系(111學年度教師成",
+      "演講日期": "2023-05"
+    },
+    {
+      "演講題目": "逢甲大學帆宣智慧城市5G實驗室簡介",
+      "邀請單位": "逢甲大學資電學院",
+      "演講日期": "2023-01"
+    },
+    {
+      "演講題目": "行動通訊網路之歷史演進與未來展望",
+      "邀請單位": "東海大學電機工程學系",
+      "演講日期": "2021-11"
+    },
+    {
+      "演講題目": "5G行動網路中無人載具技術與應用簡介",
+      "邀請單位": "國立暨南國際大學電機工程學系",
+      "演講日期": "2021-05"
+    }
+  ],
+  "material": [],
+  "tal": []
+}

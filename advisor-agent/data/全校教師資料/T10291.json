@@ -1,0 +1,130 @@
+{
+  "teacherId": "T10291",
+  "name": "詹彥信",
+  "mainUnit": "工程與科學學院",
+  "detailUnit": "機械與電腦輔助工程學系",
+  "skill": [
+    "高/低溫燃料電池系統整合設計與效能評估Integration design and Performance evaluation of  High/Low temperature fuel cell system",
+    "系統熱質能分析Thermodynamic analysis of Power generation system",
+    "高溫熱流體質傳現象探討Investigate of Mass Transfer Phenomenon in High-temperature Thermal Fluid",
+    "微尺度材料結構與質傳現象分析Material's Heat Transfer & Transport Phenomena in Microscale"
+  ],
+  "edu": [
+    "國立成功大學 機械工程學系 博士",
+    "國立中央大學 機械工程學系 碩士",
+    "元智大學 機械工程學系 學士"
+  ],
+  "fcuExp": [
+    "機械與電腦輔助工程學系 助理教授"
+  ],
+  "currjob": [],
+  "otherExp": [
+    "工業技術研究院 綠能所-氫能與燃料電池研究室 研究員"
+  ],
+  "journal": [
+    {
+      "論文名稱": "Enhancing the diffusion capabilities of oxygen ions and hydrogen protons in protonic ceramic fuel cells at intermediate temperatures through doping material and ratio adjustments",
+      "期刊名稱": "Modelling and Simulation in Materials Science and Engineering (SCIE)",
+      "作者群": "Yen-Hsin Chan"
+    },
+    {
+      "論文名稱": "Parameter Analysis of Anion Exchange Membrane Water Electrolysis System by Numerical Simulation",
+      "期刊名稱": "Energies (SCIE)",
+      "作者群": "Shing-Cheng Chang, Ru-En Gu, Yen-Hsin Chan"
+    },
+    {
+      "論文名稱": "高溫固態氧化物電解水產氫模擬分析",
+      "期刊名稱": "石油季刊 (ACI)",
+      "作者群": "顏子翔、盧信宏、張靖偉、張揚狀、詹彥信、蔡睿洋"
+    },
+    {
+      "論文名稱": "Impact of SOFC Anode Carbon Deposition and Hydrogen Adsorption on the Cell Performance by Molecular Simulation",
+      "期刊名稱": "Journal of Molecular Modeling (SCIE)",
+      "作者群": "Hsin‑Yi Lai, Ding‑Yi Cheng, Yen‑Hsin Chan"
+    },
+    {
+      "論文名稱": "Evaluating the Impact of Afterburner and Reformer on the Power Generation and Efficiency of SOFC",
+      "期刊名稱": "Journal of the Chinese Society of Mechanical Engineers (SCIE)",
+      "作者群": "Yen-Hsin Chan"
+    },
+    {
+      "論文名稱": "Analysis of the Effects of Temperature and Doping on the Oxygen Ion and Proton Conduction of SOFC Electrolyte BZY",
+      "期刊名稱": "Journal of the Chinese Society of Mechanical Engineers (SCIE)",
+      "作者群": "C.H. Chiang, L.S. Chao and Y.H. Chan"
+    }
+  ],
+  "journal2": [],
+  "conference": [
+    {
+      "論文名稱": "Evaluating the performance and efficiency of hydrogen carriers for the SOEC/SOFC system in daytime energy storage and nighttime power generation with thermodynamic methods",
+      "會議名稱": "Hydrogen Power Theoretical & Engineering Solutions International Symposium",
+      "作者群": "S.H. Xu, C.K. Chen, and Y.H. Chan"
+    }
+  ],
+  "book": [],
+  "patent": [],
+  "most": [
+    {
+      "name": "超高速流體動力主軸及智能化監控裝置開發計畫",
+      "schoolYear": "113"
+    },
+    {
+      "name": "以數值結合實驗方式評估單元電池物理特性對於再生能源結合SOFC/SOEC系統效率影響(1/3)",
+      "schoolYear": "113"
+    },
+    {
+      "name": "應用模擬與實驗方法探討影響SOFC/SOEC性能的關鍵因子",
+      "schoolYear": "112"
+    },
+    {
+      "name": "應用熱力學法評估迴路設計與參數條件對於再生能源與SOFC/SOEC系統效率影響",
+      "schoolYear": "112"
+    },
+    {
+      "name": "高效率SOFC/SOEC關鍵電池組件傳輸特性與性能探討",
+      "schoolYear": "110"
+    }
+  ],
+  "tech": [],
+  "induAca": [
+    "（詹彥信）低能耗半導體產業加熱設備優化產學合作計畫 (2025-02 to 2025-11)",
+    "水電解產氫及增壓整合系統分析委託研究 (2024-11 to 2024-12)",
+    "真空壓膜機硬對硬壓力均勻性評估計畫 (2024-11 to 2025-10)",
+    "齒輪箱殼體熱變形分析及熱源反算 (2024-10 to 2025-09)",
+    "再生能源儲能及後端應用研析 (2024-08 to 2024-11)",
+    "海上型太陽能發電系統數值分析模型建立與能校品質評估測試 (2024-07 to 2024-11)",
+    "開發高值PEEK螺絲暨導入虛實整合開模系統產學合作計畫 (2024-02 to 2024-11)",
+    "多料源於定置型燃料電池系統之性能與尾氫處理分析 (2024-02 to 2024-04)",
+    "主軸預熱與控溫技術開發 (2024-01 to 2025-12)",
+    "高溫組件燃燒性能測試平台設計與數值模型建置 (2023-11 to 2023-12)",
+    "太陽能系統測試模組建置與結構應力評估 (2023-10 to 2023-12)",
+    "固態電解與鹼性膜電解模組分析及系統運轉性能研究 (2023-08 to 2023-12)",
+    "高溫固態氧化物電解產氫系統模擬分析工作 (2023-07 to 2023-10)",
+    "氣冷式控制箱散熱模型設計與驗證計畫 (2023-03 to 2024-02)",
+    "天然氣鍋爐混燒氫氣模擬評估 (2023-01 to 2023-03)",
+    "高低溫電解模組對於電解系統之性能及效率影響評估 (2022-08 to 2022-11)",
+    "應用管壁及分子模擬於天然氣管線混氫洩漏及氫脆評估研究 (2022-08 to 2022-11)",
+    "燃燒組件對發電系統性能模擬評估與優化 (2022-04 to 2022-08)"
+  ],
+  "perform": [],
+  "reward": [],
+  "speech": [
+    {
+      "演講題目": "固態氧化物燃料電池與水電解介紹與近期趨勢發展",
+      "邀請單位": "台灣氫能與燃料電池學會",
+      "演講日期": "2024-09"
+    },
+    {
+      "演講題目": "氫能與熱流能源管理對於機械領域之應用",
+      "邀請單位": "機電系",
+      "演講日期": "2024-03"
+    },
+    {
+      "演講題目": "跨領域學習與研究方法探討",
+      "邀請單位": "國立彰化師範大學彰化師範大學/機電工程學",
+      "演講日期": "2023-12"
+    }
+  ],
+  "material": [],
+  "tal": []
+}

@@ -1,0 +1,100 @@
+{
+  "teacherId": "T88073",
+  "name": "張志宏",
+  "mainUnit": "資訊電機學院",
+  "detailUnit": "資訊工程學系",
+  "skill": [
+    "軟體工程Software Engineering",
+    "雲端服務Cloud Service",
+    "深度學習Deep Learing",
+    "智慧醫療Smart Healthcare",
+    "巨量資料Big Data"
+  ],
+  "edu": [
+    "逢甲大學 資訊工程學系 博士",
+    "逢甲大學 資訊工程學系 碩士",
+    "逢甲大學 資訊工程系 學士"
+  ],
+  "fcuExp": [
+    "資訊工程學系(所) 兼任講師",
+    "資訊工程學系 副教授"
+  ],
+  "currjob": [],
+  "otherExp": [
+    "靜宜大學 資訊工程學系 副教授",
+    "靜宜大學 資訊學院 副教授",
+    "修平科技大學 資訊管理系 副教授",
+    "修平技術學院 資訊管理系 助理教授",
+    "修平技術學院 資訊管理系 講師"
+  ],
+  "journal": [
+    {
+      "論文名稱": "A predictive maintenance architecture for TFT-LCD manufacturing using machine learning on the cloud service",
+      "期刊名稱": "Internet of Things (SCIE)",
+      "作者群": "Chang, C.H., Chiao, H.T., Chang, H.C., Kristiani, E., Yang, C.T.*"
+    },
+    {
+      "論文名稱": "Using the Ceph File System and RADOS Gateway to Construct an Integrated Shared Storage",
+      "期刊名稱": "Human-centric Computing and Information Sciences (SCIE)",
+      "作者群": "Chang, C.H.; Weng, J.Y.; Uen, N.Y.; and Yang, C.T.*"
+    }
+  ],
+  "journal2": [],
+  "conference": [
+    {
+      "論文名稱": "he Research on Transformer Dual-Channel Attention Architecture for Depression Recognition",
+      "會議名稱": "The 8th International Conference on Innovative Computing (IC2025)",
+      "作者群": "Lin, P.Y., Chang, C.H.*, Chan, Y.W., Hung, J.C."
+    }
+  ],
+  "book": [
+    {
+      "專業書籍": "Python程式設計輕鬆學",
+      "出版單位": "普林斯頓",
+      "作者群": "張志宏、詹毓偉、簡廷軒、楊靜怡、簡立仁"
+    },
+    {
+      "專業書籍": "EEC雲端服務規劃CSL特訓教材",
+      "出版單位": "電腦技能基金會/碁峰/松崗",
+      "作者群": "楊朝棟、張志宏著，彭勝龍審閱"
+    },
+    {
+      "專業書籍": "支援老年醫學健康照護之巨量資料處理與資訊倉儲設計與實作",
+      "出版單位": "科技部工程推廣中心",
+      "作者群": "張志宏、朱正忠、陳文敬、謝志明、翁碩駿、盧志偉"
+    },
+    {
+      "專業書籍": "朱正忠教授等「具服務品質保證之企業雲端計算」",
+      "出版單位": "科技部工程推廣中心",
+      "作者群": "朱正忠、楊朝棟、盧志偉、張志宏、薛念林"
+    }
+  ],
+  "patent": [],
+  "most": [
+    {
+      "name": "(靜宜)支援邊雲人工智慧模型操作與服務管理系統",
+      "schoolYear": "113"
+    },
+    {
+      "name": "(靜宜)基於大語言模型之感染照護衛教聊天機器人開發與實作",
+      "schoolYear": "113"
+    },
+    {
+      "name": "多核心嵌入式軟體之模型驅動整合開發環境-總計畫",
+      "schoolYear": "97"
+    }
+  ],
+  "tech": [],
+  "induAca": [],
+  "perform": [],
+  "reward": [],
+  "speech": [
+    {
+      "演講題目": "生成式AI與其在智慧醫療應用",
+      "邀請單位": "台中榮民總醫院感染科",
+      "演講日期": "2025-01"
+    }
+  ],
+  "material": [],
+  "tal": []
+}

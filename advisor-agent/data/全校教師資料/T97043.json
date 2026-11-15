@@ -1,0 +1,1238 @@
+{
+  "teacherId": "T97043",
+  "name": "葉俊良",
+  "mainUnit": "工程與科學學院",
+  "detailUnit": "航太與系統工程學系",
+  "skill": [
+    "燃燒合成Combustion Synthesis",
+    "火箭推進Rocket Propulsion",
+    "能源科技Energy Technology",
+    "熱流分析Thermal/Fluid Analysis"
+  ],
+  "edu": [
+    "美國賓州州立大學 機械工程學系 博士",
+    "美國賓州州立大學 機械工程學系 碩士",
+    "國立台灣大學 機械工程學系 學士"
+  ],
+  "fcuExp": [
+    "航太與系統工程學系 系主任",
+    "機械與航空工程博士學位學程 主任",
+    "航太與系統工程學系 教授",
+    "航太與系統工程學系 特聘教授"
+  ],
+  "currjob": [],
+  "otherExp": [
+    "大葉大學 機械與自動化工程學系 教授",
+    "大葉大學 機械與自動化工程學系 副主任",
+    "大葉大學 機械工程學系 副教授",
+    "大葉大學 機械工程學系 助理教授"
+  ],
+  "journal": [
+    {
+      "論文名稱": "Effects of Ti/Al Ratio on Formation of Ti-Al Intermetallics/TiB2 Composites by SHS from Ti-Al-B Powder Mixtures",
+      "期刊名稱": "Processes (SCIE)",
+      "作者群": "Yeh, C. L.* and Chan, Y. C."
+    },
+    {
+      "論文名稱": "In Situ Formation of Titanium Diboride/Magnesium Titanate Composites by Magnesiothermic-Based Combustion Synthesis",
+      "期刊名稱": "Processes (SCIE)",
+      "作者群": "Yeh, C. L.* and Chen, C."
+    },
+    {
+      "論文名稱": "Effects of TiC, Si, and Al on Combustion Synthesis of Ti3SiC2/TiC/Ti5Si3 Composites",
+      "期刊名稱": "Materials (SCIE)",
+      "作者群": "Yeh, C. L.* and Lai, K. L."
+    },
+    {
+      "論文名稱": "Effects of Excess Si and Al on Synthesis of Ti3SiC2 by Self-sustaining Combustion in the Ti-Si-C-Al System",
+      "期刊名稱": "Journal of the Australian Ceramic Society (SCIE)",
+      "作者群": "Yeh, C. L.* and Lai, K. L."
+    },
+    {
+      "論文名稱": "Formation of TiB2-MgAl2O4 Composites by SHS Metallurgy",
+      "期刊名稱": "Materials (SCIE)",
+      "作者群": "Yeh, C. L.* and Zheng, F. Y."
+    },
+    {
+      "論文名稱": "Formation of Silicide/Spinel Ceramic Composites via Al- and Mg-based Thermitic Combustion Synthesis",
+      "期刊名稱": "Journal of the Australian Ceramic Society (SCIE)",
+      "作者群": "Yeh, C. L.,* Chen, M. C., and Shieh, T. H."
+    },
+    {
+      "論文名稱": "Fe-Si Intermetallics/Al2O3 Composites Formed between Fe-20% Si and Fe-70.5% Si by SHS Metallurgy Method",
+      "期刊名稱": "Metals (SCIE)",
+      "作者群": "Yeh, C. L.,* Lu, A., and Liang, W. C."
+    },
+    {
+      "論文名稱": "Synthesis of TiB2/TiC/Al2O3 and ZrB2/ZrC/Al2O3 Composites by Low-exotherm Thermitic Combustion with PTFE Activation",
+      "期刊名稱": "Journal of Composites Science (Scopus, ESCI)",
+      "作者群": "Yeh, C. L.* and Liu, K. T."
+    },
+    {
+      "論文名稱": "Fabrication of FeSi/a-FeSi2–based Composites by Metallothermically Assisted Combustion Synthesis",
+      "期刊名稱": "Journal of the Australian Ceramic Society (SCIE)",
+      "作者群": "Yeh, C. L.* and Chen, K. T."
+    },
+    {
+      "論文名稱": "Effects of Fe/Si Stoichiometry on Formation of Fe3Si/FeSi-Al2O3 Composites by Aluminothermic Combustion Synthesis",
+      "期刊名稱": "Metals (SCIE)",
+      "作者群": "Yeh, C. L.,* Chen, K. T., and Shieh, T. H."
+    },
+    {
+      "論文名稱": "Metallothermic Reduction of MoO3 on Combustion Synthesis of Molybdenum Silicides/MgAl2O4 Composites",
+      "期刊名稱": "Materials (SCIE)",
+      "作者群": "Yeh, C. L.* and Chen, M. C."
+    },
+    {
+      "論文名稱": "Preparation of ZrB2–SiC–Al2O3 Composites by SHS Method with Aluminothermic Reduction",
+      "期刊名稱": "Ceramics International (SCIE)",
+      "作者群": "Yeh, C. L.* and Wang, Y. H."
+    },
+    {
+      "論文名稱": "Formation of Zirconium Silicide–Al2O3 Composites from PTFE-assisted ZrO2/Si/Al Combustion Synthesis",
+      "期刊名稱": "Vacuum (SCIE)",
+      "作者群": "Yeh, C. L.* and Wang, Y. H."
+    },
+    {
+      "論文名稱": "Synthesis of FeSi–Al2O3 Composites by Autowave Combustion with Metallothermic Reduction",
+      "期刊名稱": "Metals (SCIE)",
+      "作者群": "Yeh, C. L.* and Chen, K. T."
+    },
+    {
+      "論文名稱": "Combustion Synthesis of FeAl–Al2O3 Composites with TiB2 and TiC Additions via Metallothermic Reduction of Fe2O3 and TiO2",
+      "期刊名稱": "Transactions of Nonferrous Metals Society of China (SCIE)",
+      "作者群": "Yeh, C. L.* and Ke, C. Y."
+    },
+    {
+      "論文名稱": "Boron Source and Extra Amount on Formation of WB2–Al2O3 Composites by Combustion Synthesis",
+      "期刊名稱": "Vacuum (SCIE)",
+      "作者群": "Yeh, C. L.* and Chen, W. L."
+    },
+    {
+      "論文名稱": "Intermetallic/Ceramic Composites Synthesized from Al–Ni–Ti Combustion with B4C Addition",
+      "期刊名稱": "Metals (SCIE)",
+      "作者群": "Yeh, C. L.* and Ke, C. Y."
+    },
+    {
+      "論文名稱": "Combustion Synthesis of NbB2–Spinel MgAl2O4 Composites from MgO-Added Thermite-Based Reactants with Excess Boron",
+      "期刊名稱": "Crystals (SCIE)",
+      "作者群": "Yeh, C. L.* and Chen, Y. C."
+    },
+    {
+      "論文名稱": "Formation of Mo5Si3/Mo3Si–MgAl2O4 Composites via Self-propagating High-temperature Synthesis",
+      "期刊名稱": "Molecules (SCIE)",
+      "作者群": "Yeh, C. L.* and Chen, Y. C."
+    },
+    {
+      "論文名稱": "Facile and Rapid Synthesis of Mo5SiB2-based Ceramics from Solid-phase Combustion Reaction with Reducing Stages",
+      "期刊名稱": "Journal of Alloys and Compounds (SCIE)",
+      "作者群": "Yeh, C. L.* and Chen, W. L."
+    },
+    {
+      "論文名稱": "Fabrication of MoSi2–MgAl2O4 in situ Composites by Combustion Synthesis Involving Intermetallic and Aluminothermic Reactions",
+      "期刊名稱": "Vacuum (SCIE)",
+      "作者群": "Yeh, C. L.* and Chen, Y. C."
+    },
+    {
+      "論文名稱": "A Combustion Route to Synthesize Mo5SiB2–Al2O3 Composites",
+      "期刊名稱": "Vacuum (SCIE)",
+      "作者群": "Yeh, C. L.* and Chen, W. L."
+    },
+    {
+      "論文名稱": "Fabrication of Mo5SiB2-based Composites by Combustion Synthesis Involving Aluminothermic Reduction of MoO3",
+      "期刊名稱": "Ceramics International (SCIE)",
+      "作者群": "Yeh, C. L.* and Chen, W. L."
+    },
+    {
+      "論文名稱": "Combustion Synthesis of FeAl-based Composites from Thermitic and Intermetallic Reactions",
+      "期刊名稱": "Crystals (SCIE)",
+      "作者群": "Yeh, C. L.* and Ke, C. Y."
+    },
+    {
+      "論文名稱": "Aluminothermic Reduction of ZrSiO4 in the Presence of Carbon for in situ Formation of Zr-based Silicides/Carbides Composite",
+      "期刊名稱": "Journal of Alloys and Compounds (SCIE)",
+      "作者群": "Yeh, C. L.* and Liou, G. T."
+    },
+    {
+      "論文名稱": "Adaptive Tracking Control Based on Neural Approximation for the Yaw Motion of a Small-scale Unmanned Helicopter",
+      "期刊名稱": "International Journal of Advanced Robotic Systems (SCIE)",
+      "作者群": "Le, Tri-Quang, Lai, Ying-Chih*., and Yeh, Chun-Liang"
+    },
+    {
+      "論文名稱": "A Novel Route for Synthesis of Alumina–Chromium Carbide Composites from PTFE-activated Cr2O3/Al/C Combustion",
+      "期刊名稱": "Ceramics International (SCIE)",
+      "作者群": "Yeh, C. L.* and Liou, G. T."
+    },
+    {
+      "論文名稱": "In situ Formation of Zr2Al3C4/Al2O3 Composites by Combustion Synthesis with PTFE and Thermal Activations",
+      "期刊名稱": "Transactions of Nonferrous Metals Society of China (SCIE)",
+      "作者群": "Yeh, C. L.* and Chen, Y. C."
+    },
+    {
+      "論文名稱": "Synthesis of TiB2–Al2O3–FeAl composites via Self-sustaining Combustion with Fe2O3/TiO2-based Thermite Mixtures",
+      "期刊名稱": "Ceramics International (SCIE)",
+      "作者群": "Yeh, C. L.* and  Ke, C. Y."
+    },
+    {
+      "論文名稱": "Effects of PTFE Activation and Excess Al on Combustion Synthesis of SiC– and ZrC–Al2O3 Composites",
+      "期刊名稱": "Vacuum (SCIE)",
+      "作者群": "Yeh, C. L.* and  Liou, G. T."
+    },
+    {
+      "論文名稱": "In situ Formation of TiB2/TiC and TiB2/TiN Reinforced NiAl by Self-propagating Combustion Synthesis",
+      "期刊名稱": "Vacuum (SCIE)",
+      "作者群": "Yeh, C. L.,* Ke, C. Y., and Chen, Y. C."
+    },
+    {
+      "論文名稱": "In situ Formation of TiB2/Al2O3 Reinforced Fe3Al by Combustion Synthesis with Thermite Reduction",
+      "期刊名稱": "Metals (SCIE)",
+      "作者群": "Yeh, C. L.* and Ke, C. Y."
+    },
+    {
+      "論文名稱": "Effects of PTFE Activation and Carbon Sources on Combustion Synthesis of Cr2AlC/Al2O3 Composites",
+      "期刊名稱": "Ceramics International (SCIE,EI)",
+      "作者群": "Yeh, C. L.* and Chen, Y. C."
+    },
+    {
+      "論文名稱": "Effects of Al Content on Formation of TaC, Ta2C, and Ta2AlC by Combustion Synthesis with Aluminothermic Reactions",
+      "期刊名稱": "Ceramics International (SCIE,EI)",
+      "作者群": "Yeh, C. L.* and Chen, Y. S."
+    },
+    {
+      "論文名稱": "Formation of WB2/mullite Composites by Reduction- based Combustion Synthesis with Al and Si as reductants and excess B2O3 addition",
+      "期刊名稱": "Ceramics International (SCIE,EI)",
+      "作者群": "Yeh, C. L.* and Kang, C. H."
+    },
+    {
+      "論文名稱": "Effects of B4C and BN Additions on Formation of NbB2–Al2O3 Composites from Reduction-based Combustion Synthesis",
+      "期刊名稱": "Ceramics International (SCIE,EI)",
+      "作者群": "Yeh, C. L.* and Chong, M. H."
+    },
+    {
+      "論文名稱": "Formation of Ti5Si3 and V5Si3 by Self- propagating High-temperature Synthesis and Evaluation of Combustion Wave Kinetics",
+      "期刊名稱": "Journal of Alloys and Compounds (SCIE,EI)",
+      "作者群": "Yeh, C. L.,* Hwang, P. W., and Chen, Y. L."
+    },
+    {
+      "論文名稱": "Combustion Synthesis of UHTC Composites from Ti-B4C Solid State Reaction with Addition of VIb Transition Metals",
+      "期刊名稱": "Coatings (SCIE,EI)",
+      "作者群": "Yeh, C. L.* and Lin, W. Z."
+    },
+    {
+      "論文名稱": "Effects of Oxide Precursors on Fabrication of Mo5Si3–Al2O3 Composites via Thermite-based Combustion Synthesis",
+      "期刊名稱": "Intermetallics (SCIE,EI)",
+      "作者群": "Yeh, C. L.* and Peng, J. A."
+    },
+    {
+      "論文名稱": "Effects of Metal Carbides as Additives on Combustion Synthesis of Ti3(Al,Sn)C2 Solid Solutions",
+      "期刊名稱": "Journal of Alloys and Compounds (SCIE,EI)",
+      "作者群": "Yeh, C. L.* and Chiang, C. H."
+    },
+    {
+      "論文名稱": "Combustion Synthesis of MoSi2-Al2O3 Composites from Thermite-based Reagents",
+      "期刊名稱": "Metals (SCIE,EI)",
+      "作者群": "Yeh, C. L.* and Peng, J. A."
+    },
+    {
+      "論文名稱": "Formation of Ti5Si3 by combustion synthesis in a self-propagating mode: experimental study and numerical simulation",
+      "期刊名稱": "High Temperature Materials and Processes (SCIE,EI)",
+      "作者群": "Yeh, C. L.,* Chou, C. C., and Hwang, P. W."
+    },
+    {
+      "論文名稱": "Fabrication of WSi2–Al2O3 and W5Si3–Al2O3 Composites by Combustion Synthesis Involving Thermite Reduction",
+      "期刊名稱": "Ceramics International (SCIE,EI)",
+      "作者群": "Yeh, C. L.* and Peng, J. A."
+    },
+    {
+      "論文名稱": "Fabrication of TaB2/mullite Composites by Combustion Synthesis with Excess Silicon and B2O3 Additions",
+      "期刊名稱": "Ceramics International (SCIE,EI)",
+      "作者群": "Yeh, C. L.* and  Kang, C. H.,"
+    },
+    {
+      "論文名稱": "Use of TiH2 as a Reactant in Combustion Synthesis of Porous Ti5Si3 and Ti5Si3/TiAl Intermetallics",
+      "期刊名稱": "Journal of Alloys and Compounds (SCIE,EI)",
+      "作者群": "Yeh, C. L.* and Sun, W. E."
+    },
+    {
+      "論文名稱": "Effects of Excess Boron and B4C Addition on Combustion Synthesis of NbB2/mullite Composites",
+      "期刊名稱": "Ceramics International (SCIE,EI)",
+      "作者群": "Yeh, C. L.,* and Chou, C. C."
+    },
+    {
+      "論文名稱": "Formation of NbB2/mullite Composites by Combustion Synthesis Involving Metallothermic Reduction of Nb2O5 and B2O3",
+      "期刊名稱": "Ceramics International (SCIE,EI)",
+      "作者群": "Yeh, C. L.* and Chou, C. C."
+    },
+    {
+      "論文名稱": "Effects of pre-added and in situ formed SiO2 on combustion synthesis of TiB2/mullite composites",
+      "期刊名稱": "Materials Research Innovations (EI)",
+      "作者群": "Yeh, C. L.,* and Kao, W. C."
+    },
+    {
+      "論文名稱": "Role of BN as a Reactant in Combustion Synthesis of TiB2/Ti2Al(C,N) Solid Solution Composites",
+      "期刊名稱": "Ceramics International (SCIE,EI)",
+      "作者群": "Yeh, C. L.* and Chiang, C. H."
+    },
+    {
+      "論文名稱": "Experimental and Numerical Studies on Self-propagating High-temperature Synthesis of Ta5Si3 Intermetallics",
+      "期刊名稱": "Metals (SCIE,EI)",
+      "作者群": "Yeh, C. L.,* Chou, C. C., and Hwang, P. W."
+    },
+    {
+      "論文名稱": "Combustion Synthesis of Ti2(Al,Sn)C Solid Solutions from Ti/Al/Sn/C Samples with Addition of TiC and Al4C3",
+      "期刊名稱": "Ceramics International (SCIE,EI)",
+      "作者群": "Yeh, C. L.* and Chiang, C. H."
+    },
+    {
+      "論文名稱": "Effects of TiO2, B2O3, and SiO2 on formation of TiB2/ mullite composites by thermite-based combustion synthesis",
+      "期刊名稱": "Ceramics International (SCIE,EI)",
+      "作者群": "Yeh, C. L.* and Kao, W. C."
+    },
+    {
+      "論文名稱": "Effects of Ti and TiO2 on Combustion Synthesis of (Ti,V)2AlC/Al2O3 Solid Solution Composites",
+      "期刊名稱": "Materials and Manufacturing Processes (SCIE,EI)",
+      "作者群": "Yeh, C. L.* and Yang, W. J."
+    },
+    {
+      "論文名稱": "Studies of Ta, Al and Carbon Sources on Combustion Synthesis of Alumina-Tantalum Carbide Composites",
+      "期刊名稱": "Materials and Manufacturing Processes (SCIE,EI)",
+      "作者群": "Yeh, C. L.* and Chen, Y. S."
+    },
+    {
+      "論文名稱": "Preparation of TaB/TaB2/mullite composites by Combustion Synthesis Involving Aluminothermic Reduction of Oxide Precursors",
+      "期刊名稱": "Journal of Alloys and Compounds (SCIE,EI)",
+      "作者群": "Yeh, C. L.* and Kao, W. C."
+    },
+    {
+      "論文名稱": "Effects of Co-reduction of Cr2O3 and V2O5 on Combustion Synthesis of (Cr1-xVx)2AlC/Al2O3 Solid Solution Composites",
+      "期刊名稱": "Journal of Alloys and Compounds (SCIE,EI)",
+      "作者群": "Yeh, C. L.* and Yang, W. J."
+    },
+    {
+      "論文名稱": "Effects of Excess Boron on Combustion Synthesis of Alumina-Tantalum Boride Composites",
+      "期刊名稱": "Ceramics International (SCIE,EI)",
+      "作者群": "Yeh, C. L.* and Huang, Y. S."
+    },
+    {
+      "論文名稱": "Use of Al4C3 for fabrication of alumina-niobium carbide composites by combustion synthesis",
+      "期刊名稱": "Journal of Alloys and Compounds (SCIE,EI)",
+      "作者群": "Yeh, C. L.* and Chen, Y. S."
+    },
+    {
+      "論文名稱": "Combustion Synthesis of (Ti,V)2AlC Solid Solutions",
+      "期刊名稱": "Advanced Materials Research (EI)",
+      "作者群": "Yeh, C. L.* and Yang, W. J."
+    },
+    {
+      "論文名稱": "Effects of Boron Source on Combustion Synthesis of Chromium Boride/Al2O3 Composites",
+      "期刊名稱": "Materials and Manufacturing Processes (SCIE,EI)",
+      "作者群": "Yeh, C. L.* and Lin, J. Z."
+    },
+    {
+      "論文名稱": "Formation of MAX Solid Solutions (Ti,V)2AlC and (Cr,V)2AlC with Al2O3 Addition by SHS Involving Aluminothermic Reduction",
+      "期刊名稱": "Ceramics International (SCIE,EI)",
+      "作者群": "Yeh, C. L.* and Yang, W. J."
+    },
+    {
+      "論文名稱": "Modeling Evaluation of Arrhenius Factor and Thermal Conductivity for Combustion Synthesis of Transition Metal Aluminides",
+      "期刊名稱": "Intermetallics (SCIE,EI)",
+      "作者群": "Yeh, C. L.,* Hwang, P. W., Chen, W. K., Li, J. Y."
+    },
+    {
+      "論文名稱": "Combustion Synthesis of Cr-Al and Cr-Si Intermetallics with Al2O3 Additions from Cr2O3-Al and Cr2O3-Al-Si Reaction Systems",
+      "期刊名稱": "Intermetallics (SCIE,EI)",
+      "作者群": "Yeh, C. L.* and Lin, J. Z."
+    },
+    {
+      "論文名稱": "High-Temperature Combustion Synthesis of Tantalum Boride/Nitride Composites",
+      "期刊名稱": "High Temperature Material Processes (SCIE,EI)",
+      "作者群": "Yeh, C. L.* and Teng, G. S."
+    },
+    {
+      "論文名稱": "Thermite-based Combustion Synthesis of Niobium Silicides/Al2O3 Composites",
+      "期刊名稱": "High Temperature Material Processes (SCIE,EI)",
+      "作者群": "Yeh, C. L.* and Huang, Y. S."
+    },
+    {
+      "論文名稱": "Formation of Chromium Borides by Combustion Synthesis involving Borothermic and Aluminothermic Reduction of Cr2O3",
+      "期刊名稱": "Ceramics International (SCIE,EI)",
+      "作者群": "Yeh, C. L.*, Lin, J. Z., Wang, H. J."
+    },
+    {
+      "論文名稱": "Combustion Synthesis of Advanced Ceramics, Intermetallics, and Composites",
+      "期刊名稱": "International Journal of Energetic Materials and Chemical Pr (EI)",
+      "作者群": "Yeh, C. L."
+    },
+    {
+      "論文名稱": "Combustion Synthesis of (Ti1-xNbx)2AlC Solid Solutions from Elemental and Nb2O5/Al4C3-containing Powder Compacts",
+      "期刊名稱": "Ceramics International (SCIE,EI)",
+      "作者群": "Yeh, C. L. and Chen, J. H."
+    },
+    {
+      "論文名稱": "Preparation of Tungsten Borides by Combustion Synthesis Involving Borothermic Reduction of WO3",
+      "期刊名稱": "Ceramics International (SCIE,EI)",
+      "作者群": "Yeh, C. L., and Wang, H. J."
+    },
+    {
+      "論文名稱": "A Comparative Study on Combustion Synthesis of Ta-B Compounds",
+      "期刊名稱": "Ceramics International (SCIE,EI)",
+      "作者群": "Yeh, C. L. and Wang, H. J."
+    },
+    {
+      "論文名稱": "Combustion Synthesis of Ti3Si1-xAlxC2 Solid Solutions from TiC-, SiC-, and Al4C3-containing Powder Compacts",
+      "期刊名稱": "Journal of Alloys and Compounds (SCIE,EI)",
+      "作者群": "Yeh, C. L. and Chen, J. H."
+    },
+    {
+      "論文名稱": "Thermite Reduction of Ta2O5/SiO2 Powder Mixtures for Combustion Synthesis of Ta-based Silicides",
+      "期刊名稱": "Journal of Alloys and Compounds (SCIE,EI)",
+      "作者群": "Yeh, C. L. and Huang, Y. S."
+    },
+    {
+      "論文名稱": "Effects of a- and b-Si3N4 as Precursors on Combustion Synthesis of (a+b)-SiAlON Composites",
+      "期刊名稱": "Journal of Alloys and Compounds (SCIE,EI)",
+      "作者群": "Yeh, C. L., Wu, F. S., and Chen, Y. L."
+    },
+    {
+      "論文名稱": "Combustion Synthesis of Vanadium Borides",
+      "期刊名稱": "Journal of Alloys and Compounds (SCIE,EI)",
+      "作者群": "Yeh, C. L. and Wang, H. J."
+    },
+    {
+      "論文名稱": "Effects of  -Si3N4 and AlN Addition on Formation of  -SiAlON by Combustion Synthesis",
+      "期刊名稱": "Journal of Alloys and Compounds (SCIE,EI)",
+      "作者群": "Yeh, C. L. and Sheng, K. C."
+    },
+    {
+      "論文名稱": "Effects of Al and Al4C3 Contents on Combustion Synthesis of Cr2AlC from Cr2O3-Al-Al4C3 Powder Compacts",
+      "期刊名稱": "Journal of Alloys and Compounds (SCIE,EI)",
+      "作者群": "Yeh, C. L., and Kuo, C. W."
+    },
+    {
+      "論文名稱": "Formation of Ti2AlN by Solid-Gas Combustion Synthesis with AlN- and TiN-Diluted Samples in Nitrogen",
+      "期刊名稱": "International Journal of Applied Ceramic Technology (SCIE,EI)",
+      "作者群": "Yeh, C. L., Kuo, C. W., Wu, F. S."
+    },
+    {
+      "論文名稱": "Formation of Ti2AlC0.5N0.5 Solid Solutions by Combustion Synthesis of Al4C3-containing Samples in Nitrogen",
+      "期刊名稱": "Journal of Alloys and Compounds (SCIE,EI)",
+      "作者群": "Yeh, C. L., Kuo, C. W., and Wu, F. S."
+    },
+    {
+      "論文名稱": "Effects of TiC and TiN Addition on Combustion Synthesis of Ti2AlC0.5N0.5 Solid Solutions",
+      "期刊名稱": "Journal of Alloys and Compounds (SCIE,EI)",
+      "作者群": "Yeh, C. L., Kuo, C. W., Wu, F. S."
+    },
+    {
+      "論文名稱": "Effects of TiC Addition on Formation of Ti2SnC by Self-propagating Combustion of Ti-Sn-C-TiC Powder Compacts",
+      "期刊名稱": "Journal of Alloys and Compounds (SCIE)",
+      "作者群": "Yeh, C. L. and Kuo, C. W."
+    },
+    {
+      "論文名稱": "Formation of Ti3AlC2/Al2O3 and Ti2AlC/ Al2O3 Composites by Combustion Synthesis in Ti-Al-C-TiO2 Systems",
+      "期刊名稱": "Journal of Alloys and Compounds (SCIE)",
+      "作者群": "Yeh, C. L., Kuo, C. W., and Chu, Y. C."
+    },
+    {
+      "論文名稱": "An Investigation on Formation of Nb2AlC by Combustion Synthesis of Nb2O5-Al-Al4C3 Powder Compacts",
+      "期刊名稱": "Journal of Alloys and Compounds (SCIE)",
+      "作者群": "Yeh, C. L. and Kuo, C. W."
+    },
+    {
+      "論文名稱": "Preparation of Borides in Nb-B and Cr-B Systems by Combustion Synthesis Involving Borothermic Reduction of Nb2O5 and Cr2O3",
+      "期刊名稱": "Journal of Alloys and Compounds (SCIE)",
+      "作者群": "Yeh, C. L. and Wang, H. J."
+    },
+    {
+      "論文名稱": "Formation of Ta-Al intermetallics by Combustion Synthesis Involving Al-based Thermite Reactions",
+      "期刊名稱": "Journal of Alloys and Compounds (SCIE)",
+      "作者群": "Yeh, C. L. and Wang, H. J."
+    },
+    {
+      "論文名稱": "Combustion Synthesis of TiN-Ti Silicide and TiN-Si3N4 Composites from Ti-Si3N4 Powder Compacts in Ar and N2",
+      "期刊名稱": "Journal of Alloys and Compounds (SCIE)",
+      "作者群": "Yeh, C. L. and Chen, C. Y."
+    },
+    {
+      "論文名稱": "Effects of Sample Stoichiometry of Thermite-based SHS Reactions on Formation of Nb-Al Intermetallics",
+      "期刊名稱": "Journal of Alloys and Compounds (SCIE)",
+      "作者群": "Yeh, C. L. and Wang, H. J."
+    },
+    {
+      "論文名稱": "Effects of Al Content on Formation of Ta2AlC by Self-propagating High-temperature Synthesis",
+      "期刊名稱": "Journal of Alloys and Compounds (SCIE)",
+      "作者群": "Yeh, C. L. and Shen, Y. G."
+    },
+    {
+      "論文名稱": "An Experimental Study on Self-propagating High-temperature Synthesis in the Ta-B4C System",
+      "期刊名稱": "Journal of Alloys and Compounds (SCIE)",
+      "作者群": "Yeh, C. L. and Chen, Y. L."
+    },
+    {
+      "論文名稱": "Formation of Ti3SiC2-Al2O3 in situ Composites by SHS Involving Thermite Reactions",
+      "期刊名稱": "Journal of Alloys and Compounds (SCIE)",
+      "作者群": "Yeh, C. L., Li, R. F., and Shen, Y. G."
+    },
+    {
+      "論文名稱": "Formation of TiB2-Al2O3 and NbB2-Al2O3 Composites by Combustion Synthesis Involving Thermite Reactions",
+      "期刊名稱": "Chemical Engineering Journal (SCIE)",
+      "作者群": "Yeh, C. L. and Li, R. F."
+    },
+    {
+      "論文名稱": "Effects of Using Al4C3 as a Reactant on Formation of Ti3AlC2 by Combustion Synthesis in SHS Mode",
+      "期刊名稱": "Journal of Alloys and Compounds (SCIE)",
+      "作者群": "Yeh, C. L. and Shen, Y. G."
+    },
+    {
+      "論文名稱": "Formation of TiAl-Ti2AlC in situ Composites by Combustion Synthesis",
+      "期刊名稱": "Intermetallics (SCIE)",
+      "作者群": "Yeh, C. L. and Shen, Y. G."
+    },
+    {
+      "論文名稱": "Effects of TiC and Al4C3 Addition on Combustion Synthesis of Ti2AlC",
+      "期刊名稱": "Journal of Alloys and Compounds (SCIE)",
+      "作者群": "Yeh, C. L. and Shen, Y. G."
+    },
+    {
+      "論文名稱": "Combustion Synthesis of Ti3AlC2 from Ti/Al/C/TiC Powder Compacts",
+      "期刊名稱": "Journal of Alloys and Compounds (SCIE)",
+      "作者群": "Yeh, C. L. and Shen, Y. G."
+    },
+    {
+      "論文名稱": "Combustion Synthesis of TiC-TiB2 Composites",
+      "期刊名稱": "Journal of Alloys and Compounds (SCIE)",
+      "作者群": "Yeh, C. L. and Chen, Y. L."
+    },
+    {
+      "論文名稱": "Effects of SiC Addition on Formation of Ti3SiC2 by Self-propagating High-temperature Synthesis",
+      "期刊名稱": "Journal of Alloys and Compounds (SCIE)",
+      "作者群": "Yeh, C. L. and Shen, Y. G"
+    }
+  ],
+  "journal2": [],
+  "conference": [
+    {
+      "論文名稱": "探討Al、TiC和TiH2含量對燃燒合成Ti3AlC2之效應",
+      "會議名稱": "中華民國航太學會第66屆學術研討會",
+      "作者群": "陳昱廷,* 葉俊良"
+    },
+    {
+      "論文名稱": "Formation of Ti-Al Intermetallics/TiB2 Composites by Combustion Synthesis",
+      "會議名稱": "Biomaterials International 2024",
+      "作者群": "Yeh, C. L.* and Zhan, Y. C."
+    },
+    {
+      "論文名稱": "探討Al含量於燃燒合成TiB2/Ti-Al介金屬複材之影響",
+      "會議名稱": "中華民國燃燒學會第34屆燃燒與能源學術研討會",
+      "作者群": "詹益承,* 葉俊良"
+    },
+    {
+      "論文名稱": "探討TiC與SiC對燃燒合成Ti3SiC2之效應",
+      "會議名稱": "中華民國燃燒學會第34屆燃燒與能源學術研討會",
+      "作者群": "賴冠伶,* 葉俊良"
+    },
+    {
+      "論文名稱": "鋁增量與TiC添加對燃燒合成Ti3AlC2之效應",
+      "會議名稱": "中華民國燃燒學會第34屆燃燒與能源學術研討會",
+      "作者群": "陳昱廷,* 葉俊良"
+    },
+    {
+      "論文名稱": "探討SiC生成模式對燃燒合成Ti3SiC2/SiC複材之效應",
+      "會議名稱": "中華民國航太學會第65屆學術研討會",
+      "作者群": "賴冠伶,* 葉俊良"
+    },
+    {
+      "論文名稱": "燃燒合成TiB2/Ti-Al介金屬複合材料之研究",
+      "會議名稱": "中華民國航太學會第65屆學術研討會",
+      "作者群": "詹益承,* 葉俊良"
+    },
+    {
+      "論文名稱": "探討TiH2與PTFE對燃燒合成Ti3SiC2之影響",
+      "會議名稱": "中華民國航太學會第65屆學術研討會",
+      "作者群": "陳昱廷,* 葉俊良"
+    },
+    {
+      "論文名稱": "Metallothermic Combustion Reaction on Synthesis of Titanium Boride-Spinel Composites",
+      "會議名稱": "The 29th International Colloquium on the Dynamics of Explosions and Reactive Systems (ICDERS 2023)",
+      "作者群": "Chun-Liang Yeh*, Fu-You Zheng"
+    },
+    {
+      "論文名稱": "Effects of Gas-phase Diffusion Transport on Solid-state Combustion Synthesis",
+      "會議名稱": "14th Asia-Pacific Conference on Combustion (ASPACC)",
+      "作者群": "Chun-Liang Yeh*, Kuan-Ting Liu"
+    },
+    {
+      "論文名稱": "探討固相燃燒結合鎂熱還原於TiB2/Mg2TiO4/MgTiO3複材的合成效應",
+      "會議名稱": "中華民國燃燒學會第33屆燃燒與能源學術研討會",
+      "作者群": "陳蓁,* 葉俊良"
+    },
+    {
+      "論文名稱": "矽增量與鋁添加對燃燒合成Ti3SiC2之效應",
+      "會議名稱": "中華民國燃燒學會第33屆燃燒與能源學術研討會",
+      "作者群": "賴冠伶,* 葉俊良"
+    },
+    {
+      "論文名稱": "探討固相燃燒結合鎂熱還原於TiB2/Mg2TiO4複材的合成效應",
+      "會議名稱": "中華民國航太學會第64屆學術研討會",
+      "作者群": "陳蓁,* 葉俊良"
+    },
+    {
+      "論文名稱": "矽增量與TiC添加對燃燒合成Ti3SiC2之效應",
+      "會議名稱": "中華民國航太學會第64屆學術研討會",
+      "作者群": "葉俊良,* 賴冠伶, 盧安"
+    },
+    {
+      "論文名稱": "探討不同鋁熱劑與稀釋劑對燃燒合成TiB2/MgAl2O4複材的影響",
+      "會議名稱": "中華民國燃燒學會第32屆燃燒與能源學術研討會",
+      "作者群": "鄭富友,* 陳蓁, 葉俊良"
+    },
+    {
+      "論文名稱": "矽含量對鐵矽介金屬複合材料的燃燒合成影響",
+      "會議名稱": "中華民國燃燒學會第32屆燃燒與能源學術研討會",
+      "作者群": "盧安,* 梁唯哲, 葉俊良"
+    },
+    {
+      "論文名稱": "Synthesis of ZrB2–SiC–Al2O3 Composites by PTFE-activated Aluminothermic Combustion",
+      "會議名稱": "13th Asia-Pacific Conference on Combustion (ASPACC)",
+      "作者群": "Chun-Liang Yeh*, Yi-Hsiang Wang"
+    },
+    {
+      "論文名稱": "探討PTFE對低焓鋁熱燃燒反應於合成ZrSi/ZrSi2-ZrB2-Al2O3複材之效應",
+      "會議名稱": "中華民國航太學會第63屆學術研討會",
+      "作者群": "張芸肇,* 葉俊良"
+    },
+    {
+      "論文名稱": "探討固相燃燒結合鋁鎂熱還原於TiB2/MgAl2O4複材的合成效應",
+      "會議名稱": "中華民國航太學會第63屆學術研討會",
+      "作者群": "鄭富友,* 葉俊良"
+    },
+    {
+      "論文名稱": "應用金屬熱還原於燃燒合成尖晶石強化之鉬矽介金屬",
+      "會議名稱": "中華民國燃燒學會第31屆燃燒與能源學術研討會",
+      "作者群": "陳旻加,* 葉俊良"
+    },
+    {
+      "論文名稱": "探討PTFE對燃燒合成 FeSi與FeSi2之促進效應",
+      "會議名稱": "中華民國燃燒學會第31屆燃燒與能源學術研討會",
+      "作者群": "陳冠廷,* 葉俊良"
+    },
+    {
+      "論文名稱": "探討PTFE對燃燒合成ZrB2/ZrC/Al2O3複材之促進效應",
+      "會議名稱": "中華民國燃燒學會第31屆燃燒與能源學術研討會",
+      "作者群": "張芸肇,* 葉俊良"
+    },
+    {
+      "論文名稱": "結合鋁鎂熱還原MoO3進行MoSi2/MgAl2O4複材之燃燒合成",
+      "會議名稱": "中華民國航太學會第62屆學術研討會",
+      "作者群": "陳旻加,* 葉俊良"
+    },
+    {
+      "論文名稱": "探討不同鐵矽介金屬(Fe3Si, FeSi與FeSi2)的燃燒合成研究",
+      "會議名稱": "中華民國航太學會第62屆學術研討會",
+      "作者群": "陳冠廷,* 葉俊良"
+    },
+    {
+      "論文名稱": "三相陶瓷複材ZrB2/SiC/Al2O3之燃燒合成研究",
+      "會議名稱": "中華民國燃燒學會第30屆燃燒與能源學術研討會",
+      "作者群": "王奕翔,* 葉俊良"
+    },
+    {
+      "論文名稱": "應用鋁鎂金屬熱還原於燃燒合成MoSi2/MgAl2O4之複合材料",
+      "會議名稱": "中華民國燃燒學會第30屆燃燒與能源學術研討會",
+      "作者群": "陳旻加,* 葉俊良"
+    },
+    {
+      "論文名稱": "探討鋁熱組成對燃燒合成FeSi/Al2O3複合材料之效應",
+      "會議名稱": "中華民國燃燒學會第30屆燃燒與能源學術研討會",
+      "作者群": "陳冠廷,* 陳旻加, 葉俊良"
+    },
+    {
+      "論文名稱": "燃燒合成ZrC/ZrB2/Al2O3強化之Zr-Al介金屬",
+      "會議名稱": "中華民國航太學會第61屆學術研討會",
+      "作者群": "王奕翔,* 葉俊良"
+    },
+    {
+      "論文名稱": "探討ZrSiO4與PTFE對燃燒合成ZrB2與SiC的效應",
+      "會議名稱": "中華民國燃燒學會第29屆燃燒與能源學術研討會",
+      "作者群": "王奕翔,* 葉俊良"
+    },
+    {
+      "論文名稱": "探討合成矽化鉬/鎂鋁尖晶石複材之鋁熱燃燒反應",
+      "會議名稱": "第十一屆海峽兩岸航空太空學術研討會",
+      "作者群": "陳盈茜,* 葉俊良"
+    },
+    {
+      "論文名稱": "Combustion Synthesis of Mo5SiB2–Al2O3 Composites",
+      "會議名稱": "468th International Conference on Mining, Material, and Metallurgical Engineering (ICMMME)",
+      "作者群": "Yeh, C. L.* and Chen, W. L."
+    },
+    {
+      "論文名稱": "應用鋁熱燃燒法合成TiB2/Al2O3強化之鐵鋁介金屬",
+      "會議名稱": "中華民國航太學會第60屆學術研討會",
+      "作者群": "柯智耀,* 葉俊良"
+    },
+    {
+      "論文名稱": "探討合成鉬矽化物/尖晶石複材之鋁熱燃燒反應",
+      "會議名稱": "中華民國航太學會第60屆學術研討會",
+      "作者群": "陳盈茜,* 葉俊良"
+    },
+    {
+      "論文名稱": "Effects of PTFE Activation on Combustion Synthesis of SiC– and ZrC–Al2O3 Composites",
+      "會議名稱": "The 9th Taiwan–Japan Workshop on Mechanical and Aerospace Engineering",
+      "作者群": "Yeh, C. L.* and Liu, G. T."
+    },
+    {
+      "論文名稱": "應用燃燒合成製備陶瓷強化之鐵鋁介金屬",
+      "會議名稱": "中華民國燃燒學會第28屆燃燒與能源學術研討會",
+      "作者群": "柯智耀,* 葉俊良"
+    },
+    {
+      "論文名稱": "結合燃燒合成與鋁熱還原於過渡金屬矽化物/尖晶石複材之合成",
+      "會議名稱": "中華民國燃燒學會第28屆燃燒與能源學術研討會",
+      "作者群": "陳盈茜,* 葉俊良"
+    },
+    {
+      "論文名稱": "Self-propagating High-temperature Synthesis of Ceramics, Intermetallics, and Composite Materials",
+      "會議名稱": "11th Asia-Pacific Conference on Combustion (ASPACC)",
+      "作者群": "Yeh, C. L.*"
+    },
+    {
+      "論文名稱": "探討PTFE激發矽酸鋯(ZrSiO4)鋁熱燃燒合成反應",
+      "會議名稱": "中華民國航太學會第59屆學術研討會",
+      "作者群": "劉冠廷,* 葉俊良"
+    },
+    {
+      "論文名稱": "添加不同陶瓷組成(TiB2/TiC/TiN)對燃燒合成鎳鋁介金屬之影響",
+      "會議名稱": "中華民國航太學會第59屆學術研討會",
+      "作者群": "柯智耀,* 陳盈茜, 葉俊良"
+    },
+    {
+      "論文名稱": "探討硼來源對燃燒合成鉬矽硼化物(Mo5SiB2)之效應",
+      "會議名稱": "中華民國燃燒學會第27屆燃燒與能源學術研討會",
+      "作者群": "陳韋霖,* 葉俊良"
+    },
+    {
+      "論文名稱": "研究PTFE對燃燒合成金屬碳化物之促發效應",
+      "會議名稱": "中華民國燃燒學會第27屆燃燒與能源學術研討會",
+      "作者群": "劉冠廷,* 葉俊良"
+    },
+    {
+      "論文名稱": "Combustion Synthesis of MAX Phase Solid Solution Ti3(Al,Sn)C2",
+      "會議名稱": "2017 5th International Conference on Nano and Materials Science (ICNMS 2017)",
+      "作者群": "Yeh, C. L.* and Chiang, C. H."
+    },
+    {
+      "論文名稱": "增量硼來自不同來源對燃燒合成WB2/Al2O3之研究",
+      "會議名稱": "中國機械工程學會第33屆全國學術研討會",
+      "作者群": "陳韋霖,* 劉冠廷, 葉俊良"
+    },
+    {
+      "論文名稱": "不同碳源及PTFE添加對燃燒合成Cr2AlC/Al2O3複合材料之研究",
+      "會議名稱": "中華民國航太學會第58屆學術研討會",
+      "作者群": "陳奕昌,* 葉俊良"
+    },
+    {
+      "論文名稱": "Combustion Synthesis of Mullite/Metal Boride Composites",
+      "會議名稱": "International Conference on Advanced Technology Innovation 2016 (ICATI 2016)",
+      "作者群": "Yeh, C. L.,* Chou, C. C., and Kang, C. H."
+    },
+    {
+      "論文名稱": "探討鋁與碳含量對Ta2AlC/Al2O3複合材料之效應",
+      "會議名稱": "中華民國燃燒學會第26屆燃燒與能源學術研討會",
+      "作者群": "陳奕昌,* 葉俊良"
+    },
+    {
+      "論文名稱": "探討B4C與BN對燃燒合成NbB2之效應",
+      "會議名稱": "中華民國燃燒學會第26屆燃燒與能源學術研討會",
+      "作者群": "鍾明瀚,* 葉俊良"
+    },
+    {
+      "論文名稱": "提升氧化硼含量於燃燒合成WB2/Mullite複合材料之研究",
+      "會議名稱": "中國機械工程學會第32屆全國學術研討會",
+      "作者群": "康哲瀚,* 葉俊良"
+    },
+    {
+      "論文名稱": "金屬矽化物WSi2與MoSi2之燃燒合成研究",
+      "會議名稱": "中華民國航太學會第57屆學術研討會",
+      "作者群": "彭哲安,* 葉俊良"
+    },
+    {
+      "論文名稱": "添加元素矽於燃燒合成TaB2/TaB/Mullite複合材料之研究",
+      "會議名稱": "中華民國燃燒學會第25屆燃燒與能源學術研討會",
+      "作者群": "康哲瀚,* 葉俊良"
+    },
+    {
+      "論文名稱": "利用鋁熱還原進行鎢-矽介金屬之燃燒合成",
+      "會議名稱": "中華民國燃燒學會第25屆燃燒與能源學術研討會",
+      "作者群": "彭哲安,* 葉俊良"
+    },
+    {
+      "論文名稱": "Effects of Pre-added and in situ Formed SiO2 on Combustion Synthesis of TiB2/mullite Composites",
+      "會議名稱": "2015 International Conference on Materials Research and Engineering",
+      "作者群": "Yeh, C. L.* and Kao, W. C."
+    },
+    {
+      "論文名稱": "添加TiH2於燃燒合成Ti5Si3/TiN/TiB2複合材料之效應",
+      "會議名稱": "中國機械工程學會第31屆全國學術研討會",
+      "作者群": "孫偉恩,* 葉俊良"
+    },
+    {
+      "論文名稱": "燃燒合成過渡金屬矽化物之數值模擬研究",
+      "會議名稱": "第九屆海峽兩岸航空航天學術研討會",
+      "作者群": "江長鴻, 周至兼, 葉俊良*"
+    },
+    {
+      "論文名稱": "探討Si與SiO2對燃燒合成NbB2-Mullite複合材料之效應",
+      "會議名稱": "中華民國航太學會第56屆學術研討會",
+      "作者群": "周至兼,* 葉俊良"
+    },
+    {
+      "論文名稱": "不同硼來源對燃燒合成NbB2-Mullite複合材料之效應",
+      "會議名稱": "中華民國燃燒學會第24屆燃燒與能源學術研討會",
+      "作者群": "周志兼, 葉俊良"
+    },
+    {
+      "論文名稱": "應用TiH2於燃燒合成含Ti5Si3之多孔複合材料",
+      "會議名稱": "中華民國燃燒學會第24屆燃燒與能源學術研討會",
+      "作者群": "孫偉恩, 葉俊良"
+    },
+    {
+      "論文名稱": "Combustion Synthesis of (Ti,V)2AlC Solid Solutions",
+      "會議名稱": "2014 2nd International Conference on Manufacturing",
+      "作者群": "Yeh, C. L.* and Yang, W. J."
+    },
+    {
+      "論文名稱": "結合鋁熱還原與固相燃燒進行Mullite/TaB2之合成",
+      "會議名稱": "中華民國航太學會第55屆學術研討會",
+      "作者群": "高瑋慈, 葉俊良"
+    },
+    {
+      "論文名稱": "探討不同固相氮源對燃燒合成三元固溶體Ti2Al(C,N)之效應",
+      "會議名稱": "中華民國航太學會第55屆學術研討會",
+      "作者群": "江長鴻, 葉俊良"
+    },
+    {
+      "論文名稱": "Formation of Cr-Al and Cr-Si Intermetallics with Al2O3 Additions by Combustion Synthesis",
+      "會議名稱": "The 9th Asia-Pacific Conference on Combustion (ASPACC)",
+      "作者群": "Yeh, C. L.,* and Lin, J. Z."
+    },
+    {
+      "論文名稱": "燃燒合成TaB2-Mullite複合材料之研究",
+      "會議名稱": "中華民國燃燒學會第23屆燃燒與能源學術研討會",
+      "作者群": "高瑋慈, 葉俊良"
+    },
+    {
+      "論文名稱": "燃燒合成過渡金屬(VB)矽化物之數值模擬研究",
+      "會議名稱": "中華民國燃燒學會第23屆燃燒與能源學術研討會",
+      "作者群": "周志兼, 江長鴻, 葉俊良"
+    },
+    {
+      "論文名稱": "三元碳化物固溶體(Ti,V)2AlC與(Cr,V)2AlC之燃燒合成比較",
+      "會議名稱": "中華民國航太學會第54屆學術研討會",
+      "作者群": "楊文榮, 葉俊良"
+    },
+    {
+      "論文名稱": "自持性傳遞燃燒合成金屬矽化物Ti5Si3與Ta5Si3之數值模擬研究",
+      "會議名稱": "中華民國航太學會第54屆學術研討會",
+      "作者群": "江長鴻, 周志兼, 葉俊良"
+    },
+    {
+      "論文名稱": "MAX三元碳化物固溶體(Cr,V)2AlC之燃燒合成研究",
+      "會議名稱": "中國機械工程學會第29屆全國學術研討會",
+      "作者群": "楊文榮, 葉俊良"
+    },
+    {
+      "論文名稱": "研究Ti-B4C-Cr, Mo或W燃燒系統生成之硼化物/碳化物複合材料",
+      "會議名稱": "中國機械工程學會第29屆全國學術研討會",
+      "作者群": "林韋佐, 葉俊良"
+    },
+    {
+      "論文名稱": "自蔓延燃燒合成鉻鋁與鉻矽介金屬之研究",
+      "會議名稱": "第八屆海峽兩岸航空航天學術研討會",
+      "作者群": "葉俊良,林加展"
+    },
+    {
+      "論文名稱": "Combustion Synthesis of Advanced Ceramics,Intermetallics, and Composites",
+      "會議名稱": "The 9th International Symposium on Special Topics in Chemical Propulsion (9-ISICP)",
+      "作者群": "Yeh, C. L"
+    },
+    {
+      "論文名稱": "Study on Theoretical Models for Simulation of Self-Propagating High-Temperature Synthesis",
+      "會議名稱": "The 6th Internation Conference on Advanced Computational Engineering and Experimenting",
+      "作者群": "P.W. Hwang*, C.L. Yeh, C.C. Wang"
+    },
+    {
+      "論文名稱": "燃燒合成三元固溶體碳化物(Ti,V)2AlC之實驗研究",
+      "會議名稱": "中華民國燃燒學會第22屆燃燒與能源學術研討會",
+      "作者群": "楊文榮, 葉俊良"
+    },
+    {
+      "論文名稱": "探討VIB元素之添加對Ti-B4C燃燒之研究",
+      "會議名稱": "中華民國燃燒學會第22屆燃燒與能源學術研討會",
+      "作者群": "林韋佐, 葉俊良"
+    },
+    {
+      "論文名稱": "燃燒合成二元及三元鉭基碳化物之實驗研究",
+      "會議名稱": "中華民國航太學會第53屆學術研討會",
+      "作者群": "陳逸軒, 葉俊良"
+    },
+    {
+      "論文名稱": "燃燒合成鉻硼化合物與鉻矽介金屬之研究",
+      "會議名稱": "中華民國航太學會第53屆學術研討會",
+      "作者群": "林加展, 葉俊良"
+    },
+    {
+      "論文名稱": "Combustion Synthesis of (a+b)-SiAlON Composites",
+      "會議名稱": "19th Annual International Conference on Composites/Nano Engineering",
+      "作者群": "C.L. Yeh, K.C. Sheng, and F.S. Wu"
+    },
+    {
+      "論文名稱": "燃燒合成NbC、Nb2C及Nb2AlC之實驗研究",
+      "會議名稱": "中華民國燃燒學會第二十一屆燃燒與能源學術研討會",
+      "作者群": "陳逸軒、葉俊良"
+    },
+    {
+      "論文名稱": "鉻鋁介金屬與鉻硼化合物之燃燒合成研究",
+      "會議名稱": "中華民國燃燒學會第二十一屆燃燒與能源學術研討會",
+      "作者群": "林加展、葉俊良"
+    },
+    {
+      "論文名稱": "探討不同形式鋁熱反應對合成Ta-Si化合物之影響",
+      "會議名稱": "中國機械工程學會第二十七屆全國學術研討會",
+      "作者群": "黃裕善, 葉俊良"
+    },
+    {
+      "論文名稱": "自持性傳遞燃燒合成三元碳化物固溶體(Ti,Nb)2AlC",
+      "會議名稱": "中國機械工程學會第二十七屆全國學術研討會",
+      "作者群": "陳俊宏, 葉俊良"
+    },
+    {
+      "論文名稱": "自持性傳遞燃燒合成鎳鋁與鈷鋁介金屬之數值研究",
+      "會議名稱": "中國機械工程學會第二十七屆全國學術研討會",
+      "作者群": "陳韋康, 李哲語, 葉俊良"
+    },
+    {
+      "論文名稱": "反應物中TiC含量對燃燒合成Ti2SnC之影響",
+      "會議名稱": "中華民國燃燒學會第二十屆燃燒與能源學術研討會",
+      "作者群": "郭仲威, 葉俊良"
+    },
+    {
+      "論文名稱": "自持性傳遞燃燒合成鋁基介金屬之數值研究",
+      "會議名稱": "中華民國燃燒學會第二十屆燃燒與能源學術研討會",
+      "作者群": "林昇澔, 陳俊宏, 黃柏文, 葉俊良*"
+    },
+    {
+      "論文名稱": "結合固相燃燒與鋁熱反應進行NbSi2-Al2O3複合材料的合成研究",
+      "會議名稱": "中華民國燃燒學會第二十屆燃燒與能源學術研討會",
+      "作者群": "黃裕善, 葉俊良"
+    },
+    {
+      "論文名稱": "探討反應物Nb2O5/Al/Al4C3組成對燃燒合成Nb2AlC之實驗研究",
+      "會議名稱": "中國機械工程學會第二十六屆全國學術研討會",
+      "作者群": "郭仲威, 葉俊良"
+    },
+    {
+      "論文名稱": "自持性傳遞燃燒合成Ti-Si介金屬之實驗研究",
+      "會議名稱": "中國機械工程學會第二十六屆全國學術研討會",
+      "作者群": "林昇澔, 黃柏文, 葉俊良*"
+    },
+    {
+      "論文名稱": "Formation of TiN-Ti Silicide and TiN-Si3N4 Composites from Solid-state and Sold-gas Combustion Synthesis",
+      "會議名稱": "The Fifth Taiwan-Japan Workshop on Mechanical and Aerospace Engineering",
+      "作者群": "Yeh, C. L. and Chen, C. Y."
+    },
+    {
+      "論文名稱": "探討TiN與AlN的添加對燃燒合成三元氮化物Ti2AlN之影響",
+      "會議名稱": "中華民國燃燒學會第十九屆學術研討會",
+      "作者群": "伍芳嫺, 郭仲威, 葉俊良"
+    },
+    {
+      "論文名稱": "Combustion Synthesis of Ti3AlC2 from TiC- and Al4C3-containing Samples",
+      "會議名稱": "The 7th Asia-Pacific Conference on Combustion",
+      "作者群": "Yeh, C. L. and Shen, Y. G."
+    },
+    {
+      "論文名稱": "利用不同相的氮化矽對燃燒合成賽隆陶瓷材料之影響",
+      "會議名稱": "中國機械工程學會第二十五屆全國學術研討會",
+      "作者群": "伍芳嫺, 陳郁澧, 葉俊良"
+    }
+  ],
+  "book": [],
+  "patent": [],
+  "most": [
+    {
+      "name": "燃燒合成多孔性與全緻密鈦鋁與鎳鈦介金屬(2/2)",
+      "schoolYear": "113"
+    },
+    {
+      "name": "燃燒合成多孔性與全緻密鈦鋁與鎳鈦介金屬(1/2)",
+      "schoolYear": "112"
+    },
+    {
+      "name": "應用3D列印技術之N2O與石蠟-ABS實驗室規格混合式火箭燃燒特性及其推進性能研究",
+      "schoolYear": "112"
+    },
+    {
+      "name": "探討氣體擴散傳輸作用對固相燃燒合成的增益效應(2/2)",
+      "schoolYear": "111"
+    },
+    {
+      "name": "探討矽含量對鐵矽介金屬之燃燒合成效應",
+      "schoolYear": "111"
+    },
+    {
+      "name": "探討氣體擴散傳輸作用對固相燃燒合成的增益效應(1/2)",
+      "schoolYear": "110"
+    },
+    {
+      "name": "燃燒合成航太用高溫絕熱複合陶瓷材料",
+      "schoolYear": "110"
+    },
+    {
+      "name": "金屬熱還原應用於燃燒合成複雜金屬氧化物固溶體之研究",
+      "schoolYear": "109"
+    },
+    {
+      "name": "燃燒合成應用於鉬/矽/硼、鉭/矽/碳、鋯/矽/硼三元系統複合材料製備與反應機制研究",
+      "schoolYear": "108"
+    },
+    {
+      "name": "應用化學爐促發及結合鋁熱還原之燃燒合成法進行製備鉬-矽-硼三元系統的高溫結構複合材料",
+      "schoolYear": "107"
+    },
+    {
+      "name": "探討PTFE的促發效應對增進全固相與固相/氣相燃燒合成反應之研究(2/2)",
+      "schoolYear": "106"
+    },
+    {
+      "name": "探討PTFE的促發效應對增進全固相與固相/氣相燃燒合成反應之研究(1/2)",
+      "schoolYear": "105"
+    },
+    {
+      "name": "探討不同含矽、硼與碳之前驅物對燃燒合成莫來石/金屬硼化物/金屬碳化物複合材料之效應",
+      "schoolYear": "104"
+    },
+    {
+      "name": "結合鋁熱還原與固相燃燒進行莫來石(Mullite)強化的超高溫陶瓷複材製備之研究",
+      "schoolYear": "103"
+    },
+    {
+      "name": "MAX三元化合物固溶體之燃燒合成研究",
+      "schoolYear": "102"
+    },
+    {
+      "name": "置換型式固相燃燒應用於合成介金屬、金屬硼化物與矽化物之研究(2/2)",
+      "schoolYear": "101"
+    },
+    {
+      "name": "固相燃燒合成金屬矽化物之實驗與數值探討",
+      "schoolYear": "101"
+    },
+    {
+      "name": "自蔓延燃燒合成模擬之理論模式研究",
+      "schoolYear": "100"
+    },
+    {
+      "name": "置換型式固相燃燒應用於合成介金屬、金屬硼化物與矽化物之研究(1/2)",
+      "schoolYear": "100"
+    },
+    {
+      "name": "氣相-固相自蔓延燃燒合成賽隆(SiAlON)陶瓷之實驗研究與反應機制探討(2/2)",
+      "schoolYear": "99"
+    },
+    {
+      "name": "氣相-固相自蔓延燃燒合成賽隆(SiAlON)陶瓷之實驗研究與反應機制探討(1/2)",
+      "schoolYear": "98"
+    },
+    {
+      "name": "新穎材料三元碳化物(Ti3SiC2, Ti3AlC2和Ti2AlC)之燃燒合成與反應機制研究",
+      "schoolYear": "97"
+    }
+  ],
+  "tech": [
+    {
+      "論文名稱": "Combustion Synthesis of MAX Phase Solid Solution Ti3(Al,Sn)C2 (2017-07)",
+      "書名": "Nano Hybrids and Composites (Edited by Ramesh K. Agarwal)",
+      "作者群": "Yeh, C. L.* and Chiang, C. H."
+    },
+    {
+      "論文名稱": "Combustion Synthesis: Principles and Applications (2016-01)",
+      "書名": "Reference Module in Materials Science and Materials Engineering (Edited by S. Hashmi)",
+      "作者群": "Yeh, C. L.*"
+    },
+    {
+      "論文名稱": "Combustion Synthesis of Nitrides of Vanadium, Niobium, and Tantalum (2015-01)",
+      "書名": "Nitride Ceramics: Combustion Synthesis, Properties, and Applications (A.A. Gromov and L.N. Chukhlomina)",
+      "作者群": "Yeh, C. L.*"
+    },
+    {
+      "論文名稱": "Combustion Synthesis Involving Thermite Reactions (2010-08)",
+      "書名": "Combustion Synthesis: Novel Routes to Novel Materials (M. Lackner)",
+      "作者群": "Yeh, C. L."
+    },
+    {
+      "論文名稱": "Combustion Synthesis: Principles and Applications (2010-01)",
+      "書名": "Encyclopaedia of Materials: Science and Technology, Edited by K.H.J. Buschow, R.W. Cahn, M.C. Flemings, E.J. Kramer, S, Mahajan, and P. Veyssiere",
+      "作者群": "Yeh, C. L.*"
+    }
+  ],
+  "induAca": [
+    "Ti3SiC2陶瓷複合材料結構與機械性質之研究 (2022-03 to 2022-11)",
+    "小型科研火箭研製(C) (2022-02 to 2025-02)",
+    "壓力傳感器數字顯示器研發 (2015-12 to 2016-08)",
+    "氣壓致動系統比例方向控制閥氣動性能與控制模組整合研發 (2014-07 to 2016-06)"
+  ],
+  "perform": [],
+  "reward": [
+    "逢甲大學論文著作獎勵傑出獎 (113, 2024-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (113, 2024-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (113, 2024-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優等獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優等獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (111, 2022-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (111, 2022-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (111, 2022-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (111, 2022-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (111, 2022-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (111, 2022-11) - 逢甲大學",
+    "111學年度教學績優獎 (111, 2022-11) - 逢甲大學",
+    "111年度國科會補助大專校院研究獎勵 (111, 2022-10) - 研究發展處",
+    "逢甲大學論文著作獎勵優良獎 (110, 2021-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (110, 2021-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (110, 2021-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (110, 2021-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (110, 2021-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (110, 2021-11) - 逢甲大學",
+    "110年度科技部補助大專校院研究獎勵 (110, 2021-10) - 產學合作處",
+    "逢甲大學論文著作獎勵傑出獎 (109, 2020-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (109, 2020-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (109, 2020-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (109, 2020-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (109, 2020-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (109, 2020-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (109, 2020-11) - 逢甲大學",
+    "109年度科技部補助大專校院研究獎勵 (109, 2020-10) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (108, 2019-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (108, 2019-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (108, 2019-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (108, 2019-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (108, 2019-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (108, 2019-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (108, 2019-11) - 逢甲大學",
+    "108學年度科技部補助大專校院研究獎勵 (108, 2019-09) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (107, 2018-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (107, 2018-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (107, 2018-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (107, 2018-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (107, 2018-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (107, 2018-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (107, 2018-11) - 逢甲大學",
+    "107年度科技部補助大專校院研究獎勵 (107, 2018-08) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (106, 2017-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (106, 2017-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (106, 2017-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (106, 2017-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (106, 2017-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (106, 2017-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (106, 2017-11) - 逢甲大學",
+    "論文競賽第一名 (105, 2017-04) - 中華民國燃燒學會第27屆燃燒與能源學術研討會",
+    "逢甲大學論文著作獎勵傑出獎 (105, 2016-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (105, 2016-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (105, 2016-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (105, 2016-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (105, 2016-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (105, 2016-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (105, 2016-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (105, 2016-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (105, 2016-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (104, 2015-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (104, 2015-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (104, 2015-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (104, 2015-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (104, 2015-11) - 逢甲大學",
+    "論文競賽第三名 (103, 2015-04) - 中華民國燃燒學會第25屆燃燒與能源學術研討會",
+    "逢甲大學論文著作獎勵傑出獎 (103, 2014-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (103, 2014-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (103, 2014-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (103, 2014-11) - 逢甲大學",
+    "103年度科技部獎勵特殊優秀人才 (103, 2014-08) - 研究發展處",
+    "逢甲大學論文著作獎勵優良獎 (102, 2013-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (102, 2013-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (102, 2013-11) - 逢甲大學",
+    "102年度科技部獎勵特殊優秀人才 (102, 2013-08) - 研究發展處",
+    "逢甲大學論文著作獎勵傑出獎 (101, 2012-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (101, 2012-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (101, 2012-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (101, 2012-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (101, 2012-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (101, 2012-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (101, 2012-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (101, 2012-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (101, 2012-11) - 逢甲大學",
+    "101年度科技部獎勵特殊優秀人才 (101, 2012-08) - 研究發展處",
+    "逢甲大學優良教材獎勵優等獎 (100, 2011-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (100, 2011-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (100, 2011-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (100, 2011-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (100, 2011-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (100, 2011-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (100, 2011-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (100, 2011-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (100, 2011-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (99, 2010-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (99, 2010-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (99, 2010-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (99, 2010-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (99, 2010-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (99, 2010-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (99, 2010-11) - 逢甲大學",
+    "99年度科技部獎勵特殊優秀人才 (99, 2010-10) - 研究發展處"
+  ],
+  "speech": [
+    {
+      "演講題目": "結合鋁熱反應與固相燃燒於複合材料之製備",
+      "邀請單位": "成功大學 航空與太空工程學系",
+      "演講日期": "2017-04"
+    },
+    {
+      "演講題目": "自蔓延固相燃燒法於合成陶瓷、介金屬與複合材料之應用",
+      "邀請單位": "台灣大學 機械工程研究所",
+      "演講日期": "2015-11"
+    },
+    {
+      "演講題目": "燃燒合成－節能省時的材料製程",
+      "邀請單位": "彰化師範大學 車輛科技研究所",
+      "演講日期": "2014-03"
+    },
+    {
+      "演講題目": "燃燒合成－節能省時的材料製程",
+      "邀請單位": "台南大學 機電系統工程研究所",
+      "演講日期": "2013-05"
+    },
+    {
+      "演講題目": "Combustion Synthesis of Advanced Ceramics, Intermetallics, and Composites",
+      "邀請單位": "9-ISICP Symposium",
+      "演講日期": "2012-07"
+    },
+    {
+      "演講題目": "燃燒合成介金屬之實驗與數值模擬研究",
+      "邀請單位": "成功大學 航空與太空工程學系",
+      "演講日期": "2012-03"
+    },
+    {
+      "演講題目": "Combustion Synthesis: Materials Formed from Fire",
+      "邀請單位": "台灣大學 機械工程研究所",
+      "演講日期": "2009-11"
+    },
+    {
+      "演講題目": "Combustion Synthesis: Materials Formed from Fire",
+      "邀請單位": "成功大學 航空與太空工程研究所",
+      "演講日期": "2009-06"
+    }
+  ],
+  "material": [
+    "Combustion Synthesis Involving Thermite Reactions\tBentham Science\tYeh, C.L*\t複合教材"
+  ],
+  "tal": []
+}

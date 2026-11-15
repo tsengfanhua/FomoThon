@@ -1,0 +1,738 @@
+{
+  "teacherId": "T94126",
+  "name": "陳志強",
+  "mainUnit": "資訊電機學院",
+  "detailUnit": "電機工程學系",
+  "skill": [
+    "平面天線設計與分析Design and Analysis of Planar Antennas",
+    "平面波導傳輸線電路設計與分析Design and Analysis of Planar Guided-Wave Transmission Line Circuits",
+    "天線、電路縮裝設計與分析Miniaturization of Antennas and Circuits",
+    "轉換結構設計與分析Design and Analysis of Transition Structures",
+    "電磁應用Electromagnetic Applications",
+    "微型化電磁感測器之設計與分析Design and Analysis of Miniaturizing Electromagnetic Sensors",
+    "平面微帶天線",
+    "波導被動元件",
+    "微波積體電路縮裝",
+    "微波信號處理",
+    "射頻辨識器RFID應用"
+  ],
+  "edu": [
+    "國立交通大學 電信工程學系 博士",
+    "中正理工學院 電子研究所 碩士",
+    "中正理工學院 電機系 學士"
+  ],
+  "fcuExp": [
+    "天線暨微波電路創新研究中心 主任",
+    "電機工程學系 助理教授",
+    "電機工程學系 副教授"
+  ],
+  "currjob": [],
+  "otherExp": [
+    "南亞技術學院 資訊管理系 助理教授",
+    "中山科學研究院 系統製造中心 課長",
+    "中山科學研究院 系統製造中心 助理研究員",
+    "海軍第一造船廠 電子中心 副工程師",
+    "中正理工學院 電子科 助教"
+  ],
+  "journal": [
+    {
+      "論文名稱": "Microstrip-fed circular ring-slot antennas with very wideband harmonic suppression",
+      "期刊名稱": "IEEE Antennas and Wireless Propagation Letters (SCIE,EI)",
+      "作者群": "Chih-Chiang Chen*, Sheng-Yang Huang, Xiu Yin Zhang, and Chow-Yen-Desmond Sim"
+    },
+    {
+      "論文名稱": "Compact LTE/WWAN antenna with reduced ground effects for tablet/laptop applications",
+      "期刊名稱": "IEICE Transactions on Communications (SCIE,EI)",
+      "作者群": "Chow-Yen-Desmond Sim, Chih-Chiang Chen*, Zhe-Yu Li, and Sheng-Yang Huang"
+    },
+    {
+      "論文名稱": "Compact size flexible UHF RFID tag antenna for racing pigeon ring applications",
+      "期刊名稱": "International Journal of RF and Microwave Computer-aided Engineering (SCIE,EI)",
+      "作者群": "Chow-Yen-Desmond Sim*, Chih-Chiang Chen, Bo-Shau Chen, and Shu-Yao Liang"
+    },
+    {
+      "論文名稱": "A novel uniplanar antenna with dual wideband characteristics for tablet/laptop applications",
+      "期刊名稱": "International Journal of RF and Microwave Computer-aided Engineering (SCIE,EI)",
+      "作者群": "Chow-Yen-Desmond Sim, Chih-Chiang Chen, Che-Yu Li, and Lei Ge*"
+    },
+    {
+      "論文名稱": "Miniaturised Wilkinson power divider with wide-stopband using synthetic transmission line",
+      "期刊名稱": "Electronics Letters (SCIE,EI)",
+      "作者群": "Chih-Chiang Chen*, Chow-Yen-Desmond Sim, Jia-Wei Chen, and Jia-Hui Lin,"
+    },
+    {
+      "論文名稱": "Very small-size uniplanar printed monopole antenna for dual-band WLAN laptop computer applications",
+      "期刊名稱": " IEEE Transactions on Antennas and Propagation (SCIE,EI)",
+      "作者群": "Chow-Yen-Desmond Sim*, Chih-Chiang Chen, Xiu Yin Zhang, Yuan-Lung Lee, and Chih-Yang Chiang"
+    },
+    {
+      "論文名稱": "Miniaturised dual-band rat-race coupler with harmonic suppression using synthetic transmission line",
+      "期刊名稱": "Electronics Letters (SCIE,EI)",
+      "作者群": "Chih-Chiang Chen*, Chow-Yen-Desmond Sim and Yu-Rung Wu"
+    },
+    {
+      "論文名稱": "Annular ring slot antenna design with reconfigurable polarization",
+      "期刊名稱": "International Journal of RF and Microwave Computer-aided Engineering (SCIE,EI)",
+      "作者群": "Chih-Chiang Chen*, Chow-Yen-Desmond Sim, Hen-Lun Lin"
+    },
+    {
+      "論文名稱": "A Miniature Coupled-Line-Based 3-dB Directional Coupler Using GaAs PHEMT Process",
+      "期刊名稱": "International Journal of RF and Microwave Computer-aided Engineering (SCIE,EI)",
+      "作者群": "Chih-Chiang Chen*, Chow-Yen-Desmond Sim, Sao-An Ho"
+    },
+    {
+      "論文名稱": "A dual-band antenna design for MIMO LTE applications with reduced ground effects",
+      "期刊名稱": "International Journal of RF and Microwave Computer-aided Engineering (SCIE,EI)",
+      "作者群": "Chow-Yen-Desmond Sim*, Chih-Chiang Chen, and Yuan-Lung Lee"
+    },
+    {
+      "論文名稱": "Broadband circularly polarized stacked patch antenna for universal UHF RFID applications",
+      "期刊名稱": "IEICE Transactions on Communications (SCIE,EI)",
+      "作者群": "Chih-Chiang Chen, and Bo-Shau Chen, and Chow-Yen-Desmond Sim*"
+    },
+    {
+      "論文名稱": "A Circular Patch Antenna with Parasitic Element for UHF RFID Applications",
+      "期刊名稱": "International Journal of RF and Microwave Computer-Aided Engineering (SCIE,EI)",
+      "作者群": "Chow-Yen-Desmond Sim*, Chih-Chiang Chen, Rong Cao, and Bo-Shau Chen"
+    },
+    {
+      "論文名稱": "Design of X-Ku Band Wilkinson Power Divider Using Synthetic Quasi-TEM Transmission Line",
+      "期刊名稱": "Advanced Materials Research (EI)",
+      "作者群": "Chih-Chiang Chen* and Jhen-Jie Cin"
+    },
+    {
+      "論文名稱": "Dual-Band Circularly Polarized Aperture-coupled Stack Antenna with Fractal Patch for WLAN and WiMAX Applications",
+      "期刊名稱": "International Journal of RF and Microwave Computer-Aided Eng (SCIE,EI)",
+      "作者群": "Tian-Fu Hung, Ji-Chyun Liu*, Chia-Yen Wei, Chih-Chiang Chen, Sheau-Shong Bor"
+    },
+    {
+      "論文名稱": "COMPACT SINGLE-FEED CIRCULAR SLOT ANTENNA WITH ASYMMETRICAL C-SHAPED STRIPS FOR WLAN/WiMAX TRIBAND AND CIRCULAR/ELLIPTICAL POLARIZATIONS",
+      "期刊名稱": "MICROWAVE AND OPTICAL TECHNOLOGY LETTERS (SCIE,EI)",
+      "作者群": "Chia-Yen Wei, Ji-Chyun Liu*, Sheau-Shong Bor, Tian-Fu Hung, Chih-Chiang Chen"
+    },
+    {
+      "論文名稱": "Compact single-feed circularly polarized aperture-coupled stack antenna with Minkowski-island-based fractal patch",
+      "期刊名稱": "Microwave and Optical Technology Letters (SCIE,EI)",
+      "作者群": "Tian-Fu Hung, Ji-Chyun Liu, Sheau-Shong Bor, and Chih-Chiang Chen"
+    },
+    {
+      "論文名稱": "Novel measurement of chromaticity of color ball",
+      "期刊名稱": "Journal of Chung Cheng Institute of Technology (EI)",
+      "作者群": "Der-Chin Chen, Rung-Sheng Chen*, Chih-Chiang Chen, and Chi-Chieh Hsieh"
+    },
+    {
+      "論文名稱": "Wideband miniature rat-race using a novel phase inverter with fishbone slot-line structure",
+      "期刊名稱": "Electronics Letters (SCIE,EI)",
+      "作者群": "Chih-Chiang Chen*, Hai-Tao Sun and Tsung-Te Wen"
+    },
+    {
+      "論文名稱": "A novel fast-and-effective methodology for CMOS MMIC syntheses",
+      "期刊名稱": "Microwave and Optical Technology Letters (SCIE,EI)",
+      "作者群": "Chih-Chiang Chen*, Hai-Tao Sun and Jhen-Jie Cin"
+    },
+    {
+      "論文名稱": "The tunable dispersion based on side-polished fiber Bragg gratings",
+      "期刊名稱": "Microwave and Optical Technology Letters (SCIE)",
+      "作者群": "Hai-Tao Sun, En-Chiang Chang, Hao-Jan Sheng, Chih-Chiang Chen, and Wen-Fung Liu"
+    },
+    {
+      "論文名稱": "A novel unequal-power divider based on synthetic quasi-TEM transmission line design",
+      "期刊名稱": "Microwave and Optical Technology Letters (SCIE,EI)",
+      "作者群": "Chih-Chiang Chen*, Hai-Tao Sun and Yu-Ruei Chen"
+    },
+    {
+      "論文名稱": "Miniaturized dual-mode resonators with Minkowski-island-based fractal patch for WLAN dual-band systems",
+      "期刊名稱": "Progress In Electromagnetics Research C (PIER C) (EI)",
+      "作者群": "Ji-Chyun Liu*, Hsin-Hsiang Liu, Kuan-Dih Yeh, Chin-Yen Liu, Bing-Hao Zeng and  Chih-Chiang Chen"
+    },
+    {
+      "論文名稱": "Miniaturized dual-mode resonators with improved double square loop and inter-digital coupler for WLAN dual-bands",
+      "期刊名稱": "Progress In Electromagnetics Research C (EI)",
+      "作者群": "Ji-Chyun Liu*, Kuan-Dih Yeh, C. C. Yen, Chin-Yen Liu, Bing-Hao Zeng and Chih-Chiang Chen"
+    },
+    {
+      "論文名稱": "Dual-mode CPW-fed double square-loop resonators for WLAN and WiMAX Tri-band design",
+      "期刊名稱": "Progress In Electromagnetics Research C (EI)",
+      "作者群": "Chin-Yen Liu, Bing-Hao Zeng, Ji-Chyun Liu*, Chih-Chiang Chen and Dau-Chyrh Chang"
+    },
+    {
+      "論文名稱": "Comparative Layout Study of Stacked CMOS Synthetic Quasi-TEM Lines Separated by the Meshed Ground Shield and its Application to 180 Hybrid Design\r\n\r\nto 180 Hybrid Design",
+      "期刊名稱": "IEEE MICROWAVE AND WIRELESS COMPONENTS LETTERS (SCIE,EI)",
+      "作者群": "Chih-Chiang Chen*,Liang-Cheng Wang, and Sao-An Ho"
+    },
+    {
+      "論文名稱": "A Compact Size and Small Frequency Ratio CPW-Fed Circular Slot Antenna for GPS/WLAN Dual-Band and Circular Polarizations",
+      "期刊名稱": "Progress In Electromagnetics Research C (EI)",
+      "作者群": "Chai-Yen Wei , Ji-Chyun Liu* , Tian-Fu Hung, Sheau-Shong Bor, and Chih-Chiang Chen"
+    },
+    {
+      "論文名稱": "觀功念恩 真是件好事情",
+      "期刊名稱": "福智之友(大類︰杏壇飄香) (ISSN 1680-7723)",
+      "作者群": "陳志強"
+    },
+    {
+      "論文名稱": "寬頻微小化功率分配器之設計研究",
+      "期刊名稱": "新新科技年刊(Hsin Hsin Technology) (ISSN:1814-8816)",
+      "作者群": "林清泉、余建德、陳志強"
+    },
+    {
+      "論文名稱": "A novel compact quad-band narrow strip-loaded printed monopole antenna",
+      "期刊名稱": "IEEE Antennas and Wireless Propagation Letters (SCIE,EI)",
+      "作者群": "Chih-Chiang Chen, Chow-Yen-Desmond Sim, and Fu-Syuan Chen"
+    },
+    {
+      "論文名稱": "Synthetic Quasi-TEM Meandered Transmission Lines for Compacted Microwave Integrated Circuits",
+      "期刊名稱": "IEEE Transaction on Microwave Theory and Techniques (SCIE)",
+      "作者群": "Chih-Chiang Chen and Ching-Kuang C. Tzuang"
+    },
+    {
+      "論文名稱": "平面式縮小化傾斜主波柱天線之研製",
+      "期刊名稱": "新新季刊A (http://www.csistdup.org.tw/techreport.aspx?n=23&sn=23)",
+      "作者群": "杜德雲、陳志強、林祺琅"
+    },
+    {
+      "論文名稱": "Phase-Shifterless Beam-Steering Micro-Slotline Antenna",
+      "期刊名稱": "Electronics Letters (SCIE,EI)",
+      "作者群": "Chih-Chiang Chen and Ching-Kuang C. Tzuang"
+    },
+    {
+      "論文名稱": "Analyzing Microstrip Discontinuities with Time Domain De-embedding Techniques",
+      "期刊名稱": "Journal of Chung Cheng Institute of Technology (EI)",
+      "作者群": "Ji-Chyu Liu, His-Chiang Chou, Jui-Jung Liu, Jyh-Chyang Chen(陳志強), Yin-Kwang Lin, and Sheau-Shong Bor,"
+    }
+  ],
+  "journal2": [],
+  "conference": [
+    {
+      "論文名稱": "微小化、三頻段天線之設計研究",
+      "會議名稱": "2024全國電信研討會",
+      "作者群": "陳志強*, 吳翔恩*, 林佑丞, 吳俊興, 李明龍, 李爾立, 林辰達, 張仲傑"
+    },
+    {
+      "論文名稱": "應用於Wi-Fi 6E之4x4 UWB MIMO天線設計",
+      "會議名稱": "2024全國電信研討會",
+      "作者群": "陳志強*, 蔡秉哲, 黃柏瑞, 邱鼎詒, 王晉隆, 張智凱*"
+    },
+    {
+      "論文名稱": "MIMO laptop antenna for WiFi 6E",
+      "會議名稱": "2023 5th IEEE Eurasia Conference on IoT, Communication and Engineering",
+      "作者群": "Wan Hsuan Chang, Wei Chin Lee, Cao Rong*, Chih Chiang Chen*"
+    },
+    {
+      "論文名稱": "A PIFA design with WLAN and Wi-Fi 6E band for laptop computer applications",
+      "會議名稱": "2022 IEEE International Symposium on Antennas and Propagation and USNC-URSI Radio Science Meeting (2022 AP-S/URSI)",
+      "作者群": "Chow-Yen-Desmond Sim*, Jayshri Kulkarni, Anisha M. Apte, Rong Cao, Chih-Chiang Chen, Shr-Hua Wang, Yu-Ru Shu, and Hui-Zhi Lai"
+    },
+    {
+      "論文名稱": "MIMO antenna with hexagonal split ring resonator for LTE, Wireless LAN, and Wi-Fi 6 services",
+      "會議名稱": "2022 IEEE International Symposium on Antennas and Propagation and USNC-URSI Radio Science Meeting (2022 AP-S/URSI)",
+      "作者群": "Chow-Yen-Desmond Sim, Jayshri Kulkarni*, Anisha M. Apte, Rong Cao, Chih-Chiang Chen, Shr-Hua Wang, Yu-Ru Shu, and Hui-Zhi Lai"
+    },
+    {
+      "論文名稱": "Coplanar Antenna Design for GNSS and WiFi Applications",
+      "會議名稱": "2020 IEEE International Workshop on Electromagnetics: Applications and Student Innovation Competition (iWEM 2020)",
+      "作者群": "Chih-Chiang Chen*, Zei-Wei Huang, Kai-Hong Jheng, Zhi-De Lin, Chow-Yen-Desmond Sim, and Horng-Dean Chen"
+    },
+    {
+      "論文名稱": "可應用於GNSS及WiFi頻段之共平面天線設計",
+      "會議名稱": "2020全國電信研討會",
+      "作者群": "陳志強、林晊德*、林裕軒、黃子維"
+    },
+    {
+      "論文名稱": "多功能威爾京生功率分配器之設計研究",
+      "會議名稱": "2019全國電信研討會(NST2019)",
+      "作者群": "陳志強*、洪秉豪、王柏皓、林裕軒"
+    },
+    {
+      "論文名稱": "Microstrip-Fed Ring Slot Antenna with Wideband Harmonic Suppression",
+      "會議名稱": "2017 IEEE Progress In Electromagnetics Research Symposium (PIERS)",
+      "作者群": "Chow-Yen-Desmond Sim, Chih-Chiang Chen*, Jin-Sen Chen, and Sheng-Yang Huang"
+    },
+    {
+      "論文名稱": "Very small size UHF RFID tag for racing pigeon ring applications",
+      "會議名稱": " 2017  IEEE Wireless Power Transfer Conference International Conference (WPTC 2017)",
+      "作者群": "Shu-Yao Liang, Chih-Chiang Chen, Bo-Shau Chen, and Chow-Yen-Desmond Sim"
+    },
+    {
+      "論文名稱": "一種新型寬頻諧波抑制暨微小化CMOS功率分配器之設計研究",
+      "會議名稱": " 2017全國電信研討會(NST2017)",
+      "作者群": "陳志強*、林家暉、鄭明仁"
+    },
+    {
+      "論文名稱": "Modeling of Lumped and Distributed Elements for Dual-Band with Harmonic Suppression +-90 degree Unit Module",
+      "會議名稱": "IEEE MTT-S International Conference on Numerical Electromagnetic and Multiphysics Modeling and Optimization for RF, Microwave and Terahertz Applications (NEMO2016)",
+      "作者群": "Chih-Chiang Chen* and Ming-Jen Cheng"
+    },
+    {
+      "論文名稱": "Compact broadband circularly polarized antenna with coplanar waveguide feed for universal UHF RFID reader",
+      "會議名稱": "2016 Cross Strait Quad-Regional Radio Science and Wireless Technology Conference (CSQRWC2016)",
+      "作者群": "Chih-Chiang Chen*, Kai-Tang Lin, Ting-Wei Hsu, and Chow-Yen-Desmond Sim"
+    },
+    {
+      "論文名稱": "一種雙頻、不等功率及微小化CCS分合波器",
+      "會議名稱": "2015全國電信研討會(NST2015)",
+      "作者群": "陳志強*、鄭建泰、吳昱融、陳佳緯"
+    },
+    {
+      "論文名稱": "A compact size CPW-fed UWB planar antenna",
+      "會議名稱": "2015 International Workshop on Electromagnetics and R&S Student Competition (IWEM 2015)",
+      "作者群": "Chih-Chiang Chen*, Yu-Rung Wu, Yu-Wen Peng, and Chow-Yen-Desmond Sim,"
+    },
+    {
+      "論文名稱": "L-shaped probe feed patch antenna with circular polarization radiation for UHF RFID applications",
+      "會議名稱": "2015 International Microwave Workshop Series on RF and Wireless Technologies for Biomedical and Healthcare Applications (iMWS Bio 2015)",
+      "作者群": "Chia-Hsun Yeh, Bo-Shau Chen, Chih-Chiang hen, and Chow-Yen-Desmond Sim*,"
+    },
+    {
+      "論文名稱": "一種新型寬頻、諧波抑制之微小化威爾京生功率分配器",
+      "會議名稱": "2014全國電信研討會",
+      "作者群": "陳志強*、陳佳緯、葉冠毅、李沅龍"
+    },
+    {
+      "論文名稱": "Design of X-Ku Band Wilkinson Power Divider Using Synthetic Quasi-TEM Transmission Line",
+      "會議名稱": "2014 International Conference on Frontiers of Energy, Materials and Information Engineering",
+      "作者群": "Chih-Chiang Chen* and Jhen-Jie Cin"
+    },
+    {
+      "論文名稱": "一種新型雙頻兼具諧波抑制之微小化CCS分合波器",
+      "會議名稱": "2013年全國電信研討會",
+      "作者群": "陳志強、王舜煥、陳明瑜、李沅龍"
+    },
+    {
+      "論文名稱": "一種新型寬頻、高分配比暨微小化 CMOS不等功率威爾京生功率分配器",
+      "會議名稱": "2013全國電磁相容技術與實務研討會",
+      "作者群": "陳志強*、李沅龍、王舜煥、柏小松"
+    },
+    {
+      "論文名稱": "應用於WLAN/WiMAX之平面多頻單極天線",
+      "會議名稱": "2012全國電信研討會",
+      "作者群": "葉至軒*、陳志強、沈昭元"
+    },
+    {
+      "論文名稱": "A Circularly polarized Curved surface Array Antenna with High Gain",
+      "會議名稱": "2012 Cross Strait Quad-Regional Radio Science and Wireless Technology Conference (CSQRWC2012)",
+      "作者群": "Sheng-Ming Deng, Ching-Long Tsai, Sheau-Shong Bor, Wei-Chung Tseng*, and Chih-Chiang Chen"
+    },
+    {
+      "論文名稱": "一種新型ISM-2.4 GHz 微小化180°分合波器的設計",
+      "會議名稱": "2012全國電磁相容技術與實務研討會暨展示會",
+      "作者群": "陳志強*、溫宗德、張家豪"
+    },
+    {
+      "論文名稱": "運用相位反轉結構設計之微小化180°分合波器",
+      "會議名稱": "2011年全國電信研討會",
+      "作者群": "陳志強*、溫宗德、蔡仁豪、程元、葉至軒、何宗彥"
+    },
+    {
+      "論文名稱": "共平面波導饋入之小型雙頻天線",
+      "會議名稱": "2011全國電磁相容技術與實務研討會",
+      "作者群": "陳志強、賴昱澄、蔡仁豪、溫宗德"
+    },
+    {
+      "論文名稱": "大環境倫理課程的建構實施與省思-以逢甲大學電機系為例",
+      "會議名稱": "2011新世紀生命教育之願景與實踐研討會",
+      "作者群": "梁寶芝*、李瑞陽、許少華、陳志強、尤正祺"
+    },
+    {
+      "論文名稱": "一種新型、微小化180°分合波器之設計研究",
+      "會議名稱": "2010海峽兩岸四地無線電科技研討會",
+      "作者群": "陳志強、溫宗德"
+    },
+    {
+      "論文名稱": "一種不等功率輸出威爾京生功率分配器之微小化設計研究",
+      "會議名稱": "2010海峽兩岸四地無線電科技研討會",
+      "作者群": "陳志強、陳郁叡"
+    },
+    {
+      "論文名稱": "一種超寬頻平面單極天線之設計",
+      "會議名稱": "2010全國電磁相容技術與實務研討會",
+      "作者群": "陳志強、牟嘉鴻、溫宗德"
+    },
+    {
+      "論文名稱": "CMOS 60 GHz微型化寬頻威爾京生功率分配器之設計研究",
+      "會議名稱": "2009年全國電信研討會",
+      "作者群": "陳志強、何紹安、王亮程、李岱昀"
+    },
+    {
+      "論文名稱": "運用多重耦合機制設計之小型堆疊微帶天線",
+      "會議名稱": "2009年全國電信研討會",
+      "作者群": "陳志強、陳甫玹、溫宗德"
+    },
+    {
+      "論文名稱": "運用於砷化鎵製程之一種新型微小化、高耦合量方向耦合器的設計研究",
+      "會議名稱": "2009年海峽兩岸三地無線電科技研討會",
+      "作者群": "陳志強、何紹安"
+    },
+    {
+      "論文名稱": "利用耦合寄生線帶設計之平面單極多頻天線",
+      "會議名稱": "第四屆智慧生活科技研討會",
+      "作者群": "陳志強、陳甫玹、沈昭元"
+    },
+    {
+      "論文名稱": "合成近橫向電磁模傳輸線之損耗研究暨縮裝應用(Losses Study and Miniaturized Application of Synthetic Quasi-TEM Transmission Line)",
+      "會議名稱": "2009年全國電磁相容技術與實務研討會",
+      "作者群": "陳志強、溫宗德"
+    },
+    {
+      "論文名稱": "新型近橫向電磁模(Quasi-TEM)傳輸線在CMOS RF製程下之導波特性暨縮裝應用研究",
+      "會議名稱": "2008年全國電信研討會",
+      "作者群": "陳志強、李岱昀、王亮程、林清泉"
+    },
+    {
+      "論文名稱": "高密度信號處理器研製",
+      "會議名稱": "中山科學研究院97年度科專計畫期末成果發表會",
+      "作者群": "陳志強、王亮程、李岱昀、何紹安、林清泉"
+    },
+    {
+      "論文名稱": "運用一種新型二維傳輸線設計之微型化180°分合波器",
+      "會議名稱": "2008年海峽兩岸三地無線電科技研討會",
+      "作者群": "陳志強、王亮程、李岱昀"
+    },
+    {
+      "論文名稱": "利用堆疊二維傳輸線之微小化方向耦合器研究設計",
+      "會議名稱": "2008年全國電磁相容技術與實務研討會",
+      "作者群": "陳志強、何紹安、林清泉"
+    },
+    {
+      "論文名稱": "空間電磁能譜自動化監測系統之開發研究",
+      "會議名稱": "2008年全國電磁相容技術與實務研討會",
+      "作者群": "陳志強、陳宗銘"
+    },
+    {
+      "論文名稱": "A NOVEL MINIATURIZED WIDE-BAND WILKINSON POWER DIVIDER EMPLOYING TWO-DIMENSIONAL TRANSMISSION LINE",
+      "會議名稱": "The IEEE 2008 International Symposium on VLSI Design, Automation & Test (VLSI-DAT)",
+      "作者群": "Chih-Chiang Chen,Jhen-Jie Cin, Sheng-Huei Wang, Ching-Chyuan Lin*, and Ching-Kuang C. Tzuang"
+    },
+    {
+      "論文名稱": "運用合成傳輸線設計之微型化寬頻CMOS威爾京生功率分配器(Compacted Wide-band CMOS Wilkinson Power Divider Using Synthesized Transmission Lines)",
+      "會議名稱": "2007年國防產業機械系統關鍵模組研製年度成果發表暨工作檢討會",
+      "作者群": "陳志強、林清泉"
+    },
+    {
+      "論文名稱": "運用於設計CCS CMOS威爾京生功率分配器之一種有效的方法論(An efficient methodology to design of CCS CMOS Wilkinson Power Divider)",
+      "會議名稱": "2007年國防產業機械系統關鍵模組研製年度成果發表暨工作檢討會",
+      "作者群": "陳志強、林清泉"
+    },
+    {
+      "論文名稱": "微型化寬頻威爾京生功率分配器之研究",
+      "會議名稱": "2007年海峽兩岸三地無線科技研討會",
+      "作者群": "陳志強、王勝暉、秦振傑"
+    },
+    {
+      "論文名稱": "平面式縮小化傾斜主波柱天線與微帶線路之整合研究",
+      "會議名稱": "2007年全國電磁相容技術與實務研討會",
+      "作者群": "陳志強、秦振傑、鄭慶"
+    },
+    {
+      "論文名稱": "寬頻段跳頻主動式感測器之研製",
+      "會議名稱": "中山科學研究院94年度國防科技學術合作計畫研究成果發表會",
+      "作者群": "莊晴光、陳志強、吳憲順、張繼禾"
+    }
+  ],
+  "book": [
+    {
+      "專業書籍": "逢甲大學專案研究計畫成果報告-一種新型寬頻、諧波抑制暨微小化CMOS功率分配器之設計研究",
+      "出版單位": "逢甲大學(研發處)",
+      "作者群": "陳志強"
+    },
+    {
+      "專業書籍": "逢甲大學專案研究計畫成果報告-一種雙頻、不等功率及微小化之CCS分合波器設計",
+      "出版單位": "逢甲大學(研發處)",
+      "作者群": "陳志強"
+    },
+    {
+      "專業書籍": "一種新型寬頻、諧波抑制暨微小化威爾京生功率分配器之設計研究",
+      "出版單位": "行政院國家科學委員會",
+      "作者群": "陳志強"
+    },
+    {
+      "專業書籍": "一種新型雙頻、諧波抑制暨微小化180°分合波器之設計研究",
+      "出版單位": "行政院國家科學委員會、自行出版",
+      "作者群": "陳志強"
+    },
+    {
+      "專業書籍": "一種新型寬頻、高分配比暨微小化CMOS不等功率威爾京生功率分配器之設計研究",
+      "出版單位": "行政院國家科學委員會、自行出版",
+      "作者群": "陳志強"
+    },
+    {
+      "專業書籍": "一種新型寬頻、低損耗暨微小化 CMOS 180°分合波器之設計研究(Miniaturized 180° Hybrid Using Phase Inve",
+      "出版單位": "行政院國家科學委員會、自行出版",
+      "作者群": "陳志強"
+    },
+    {
+      "專業書籍": "多重縮裝技術整合之微波積體電路設計研究",
+      "出版單位": "逢甲大學、自行出版",
+      "作者群": "陳志強"
+    },
+    {
+      "專業書籍": "高密度微型化微波積體電路之設計研究(Design and Study of High Density Miniaturization Microwave ICs)",
+      "出版單位": "行政院國家科學委員會、自行出版",
+      "作者群": "陳志強"
+    },
+    {
+      "專業書籍": "高密度信號處理器研製-期末研發執行報告書",
+      "出版單位": "自行出版",
+      "作者群": "陳志強"
+    },
+    {
+      "專業書籍": "高密度信號處理器研製-研發成果結案報告",
+      "出版單位": "自行出版",
+      "作者群": "陳志強"
+    },
+    {
+      "專業書籍": "微型化微波積體電路之設計研究(Design and Study of Miniaturized Microwave Integrated Circuits)",
+      "出版單位": "行政院國家科學委員會、自行出版",
+      "作者群": "陳志強"
+    },
+    {
+      "專業書籍": "高密度信號處理器研製-期中研發執行報告書",
+      "出版單位": "自行出版",
+      "作者群": "陳志強"
+    },
+    {
+      "專業書籍": "高密度信號處理技術研究期中報告",
+      "出版單位": "自行出版",
+      "作者群": "陳志強"
+    },
+    {
+      "專業書籍": "高密度信號處理技術研究期末報告",
+      "出版單位": "自行出版",
+      "作者群": "陳志強"
+    },
+    {
+      "專業書籍": "高密度信號處理技術研究總結報告",
+      "出版單位": "自行出版",
+      "作者群": "陳志強"
+    },
+    {
+      "專業書籍": "利用CCS互補導電面佈局之微型化微波積體電路研究設計-研發成果期初報告",
+      "出版單位": "自行出版",
+      "作者群": "陳志強"
+    },
+    {
+      "專業書籍": "利用CCS互補導電面佈局之微型化微波積體電路研究設計-研發成果期末報告",
+      "出版單位": "自行出版",
+      "作者群": "陳志強"
+    },
+    {
+      "專業書籍": "利用CCS互補導電面佈局之微型化微波積體電路研究設計-研發成果結案報告",
+      "出版單位": "自行出版",
+      "作者群": "陳志強"
+    }
+  ],
+  "patent": [
+    {
+      "title": "新型",
+      "desc": "自動化線性溫度量測裝置"
+    },
+    {
+      "title": "發明",
+      "desc": "Miniaturized microwave integrated circuit using complementary conducting surfaces"
+    },
+    {
+      "title": "新型",
+      "desc": "線帶帶通濾波器"
+    },
+    {
+      "title": "發明",
+      "desc": "利用互補導電面之微型化微波積體電路"
+    },
+    {
+      "title": "發明",
+      "desc": "Miniaturized microwave integrated circuit using complementary conducting surfaces"
+    }
+  ],
+  "most": [
+    {
+      "name": "5G NR n77/n78/n79應用頻段之手機天線設計",
+      "schoolYear": "111"
+    },
+    {
+      "name": "多功能威爾京生功率分配器",
+      "schoolYear": "107"
+    },
+    {
+      "name": "一種新型寬頻、諧波抑制暨微小化威爾京生功率分配器之設計研究",
+      "schoolYear": "102"
+    },
+    {
+      "name": "一種新型雙頻、諧波抑制暨微小化180°分合波器之設計研究",
+      "schoolYear": "101"
+    },
+    {
+      "name": "一種新型寬頻、高分配比暨微小化CMOS不等功率威爾京生功率分配器之設計研究",
+      "schoolYear": "100"
+    },
+    {
+      "name": "一種新型寬頻、低損耗暨微小化 CMOS 180°分合波器之設計研究",
+      "schoolYear": "99"
+    },
+    {
+      "name": "運用合成近橫向電磁模傳輸線(quasi-TEM transmission line)設計之一種新穎、高度不等功率分配且微小化之威爾金森功率分配器(Wilk",
+      "schoolYear": "99"
+    },
+    {
+      "name": "高密度微型化微波積體電路之設計研究",
+      "schoolYear": "97"
+    },
+    {
+      "name": "堆疊式多頻微帶天線之饋入設計研究",
+      "schoolYear": "97"
+    },
+    {
+      "name": "微型化微波積體電路之設計研究",
+      "schoolYear": "96"
+    }
+  ],
+  "tech": [
+    {
+      "論文名稱": "微帶傳輸線合成：近橫向電磁模及第一高階模 (2004-07)",
+      "書名": "陳志強",
+      "作者群": "陳志強"
+    },
+    {
+      "論文名稱": "改良型寬頻帶圓形極化微帶天線之研製 (1992-01)",
+      "書名": "陳志強",
+      "作者群": "陳志強"
+    }
+  ],
+  "induAca": [
+    "行動通訊專業核心課程改進及推廣計畫 (2023-02 to 2025-01)",
+    "教育部5G行動寬頻課程推廣計畫(第2期)—5G毫米波天線設計課程模組「電波技術與實務」 (2021-02 to 2023-01)",
+    "桃園捷運的無線電傳輸系統斷訊問題先期研究 (2016-07 to 2016-10)",
+    "高密度信號處理器研製 (2008-05 to 2008-12)",
+    "高密度信號處理技術研究 (2007-10 to 2007-12)",
+    "利用CCS互補導電面佈局之微型化微波積體電路研究設計 (2006-08 to 2006-12)"
+  ],
+  "perform": [],
+  "reward": [
+    "逢甲大學論文著作獎勵傑出獎 (110, 2021-11) - 逢甲大學",
+    "教育部5G行動寬頻課程推廣計畫之行動終端多天線設計課程模組-優良實作獎 (110, 2021-10) - 教育部5G行動寬頻人才培育計畫",
+    "2020大專校院機電創意實作競賽-佳作 (109, 2020-11) - 澄德科技教育基金會",
+    "2020大專校院機電創意實作競賽-人氣獎 (109, 2020-11) - V　澄德科技教育基金會",
+    "108-1微波元件教學滿意度前10% (108, 2020-05) - V　逢甲大學(教務長王葳用印-函件",
+    "終身優良導師 (107, 2019-11) - 學生事務處",
+    "107學年度優良導師 (107, 2019-11) - 學生事務處",
+    "逢甲大學論文著作獎勵傑出獎 (108, 2019-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (107, 2018-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (107, 2018-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (107, 2018-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (107, 2018-11) - 逢甲大學",
+    "2018 Albert Nelson Marquis Lifttime Achievement Award (106, 2018-01) - Marquis Who's Who",
+    "105-2微波電路技術與實務教學滿意度前10% (106, 2017-12) - 逢甲大學(教務長王葳用印-函件",
+    "逢甲大學論文著作獎勵優良獎 (106, 2017-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (106, 2017-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (106, 2017-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (106, 2017-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (106, 2017-11) - 逢甲大學",
+    "105-1高頻電路概論教學滿意度前10% (105, 2017-05) - 逢甲大學(教務長王葳用印-函件)",
+    "104學年度優良導師 (104, 2016-11) - 學務處",
+    "逢甲大學論文著作獎勵優良獎 (105, 2016-11) - 逢甲大學",
+    "104學年度論文著作傑出獎 (104, 2015-11) - 逢甲大學",
+    "104學年度論文著作優等獎 (104, 2015-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (104, 2015-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (104, 2015-11) - 逢甲大學",
+    "103-2高頻電路設計教學滿意度前10% (104, 2015-11) - 逢甲大學(副校長兼教務長-函件)",
+    "獲選列入MARQUIS Who'sWHo名人錄 (104, 2015-11) - MARQUIS Who'sWHo",
+    "獲選教育部資深優良教師 (103, 2015-07) - 教育部-逢甲大學",
+    "獲選列入MARQUIS Who'sWHo名人錄 (103, 2015-06) - MARQUIS Who'sWHo",
+    "103學年度論文著作傑出獎 (103, 2014-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (103, 2014-11) - 逢甲大學",
+    "獲選列入MARQUIS Who'sWHo名人錄 (102, 2014-02) - MARQUIS Who'sWHo",
+    "102學年度論文著作優等獎 (102, 2013-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (102, 2013-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (102, 2013-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (102, 2013-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (102, 2013-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (102, 2013-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (102, 2013-11) - 逢甲大學",
+    "102學年度論文著作傑出獎 (102, 2013-08) - 逢甲大學",
+    "獲選列入MARQUIS Who'sWHo名人錄 (102, 2013-08) - MARQUIS Who'sWHo",
+    "101學年度論文著作傑出獎 (101, 2012-11) - 逢甲大學",
+    "101學年度論文著作優等獎 (101, 2012-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (101, 2012-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (101, 2012-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (101, 2012-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (101, 2012-11) - 逢甲大學",
+    "100學年度行政服務優良教師獎 (101, 2012-08) - 資訊電機學院",
+    "獲選列入MARQUIS Who'sWHo名人錄 (101, 2012-08) - MARQUIS Who'sWHo",
+    "100學年度行政服務優良教師 (100, 2012-06) - 資訊電機學院",
+    "獲選列入MARQUIS Who'sWHo名人錄 (100, 2012-02) - MARQUIS Who'sWHo",
+    "逢甲大學論文著作獎勵優良獎 (100, 2011-11) - 逢甲大學",
+    "本校100學年度論文著作優等獎 (100, 2011-11) - 教務處",
+    "獲選列入MARQUIS Who'sWHo名人錄 (100, 2011-08) - MARQUIS Who'sWHo",
+    "獲選列入MARQUIS Who'sWHo名人錄 (99, 2011-06) - MARQUIS Who'sWHo",
+    "榮獲ILT 2011通訊技術佳作 (99, 2011-06) - 第六屆智慧生活科技研討會(ILT 2011)",
+    "獲選列入MARQUIS Who'sWHo名人錄 (99, 2011-05) - MARQUIS Who'sWHo",
+    "論文著作傑出獎 (99, 2010-11) - 逢甲大學/教務處",
+    "逢甲大學論文著作獎勵傑出獎 (99, 2010-11) - 逢甲大學",
+    "獲選列入MARQUIS Who'sWHo名人錄 (99, 2010-08) - MARQUIS Who'sWHo",
+    "獲選列入MARQUIS Who'sWHo名人錄 (99, 2010-08) - MARQUIS Who'sWHo",
+    "感謝狀 (98, 2010-05) - 國立雲林科技大學",
+    "獲選列入「優秀論文獎」 (98, 2009-08) - 2009海峽兩岸三地無線電科技研討會-評審團",
+    "97學年度優良導師 (97, 2009-08) - 逢甲大學",
+    "感謝狀(逢圖98學年度證字第032) (98, 2009-08) - 逢甲大學圖書館",
+    "獲選列入MARQUIS Who'sWHo名人錄 (98, 2009-08) - MARQUIS Who'sWHo",
+    "獲選97年度優良導師 (97, 2009-06) - 逢甲大學(學務處)",
+    "獲選列入MARQUIS Who'sWHo名人錄 (97, 2009-03) - MARQUIS Who'sWHo",
+    "手機天線設計競賽-優良團隊獎 (97, 2008-08) - 經濟部通訊產業發展推動小組/工研院",
+    "學生優秀論文競賽-第一名 (97, 2008-08) - 2008年海峽兩岸三地無線電科技研討會-評審",
+    "獲選列入MARQUIS Who'sWHo名人錄 (96, 2008-06) - MARQUIS Who'sWHo",
+    "1000元(第三名) (96, 2008-04) - 逢甲大學圖書館",
+    "感謝狀 (96, 2008-04) - 逢甲大學圖書館",
+    "獲選列入MARQUIS Who'sWHo名人錄 (96, 2008-03) - MARQUIS Who'sWHo",
+    "學術研究獎勵論文著作傑出獎 (96, 2007-11) - 逢甲大學/教務處",
+    "逢甲大學論文著作獎勵傑出獎 (96, 2007-11) - 逢甲大學",
+    "獲選列入MARQUIS Who'sWHo名人錄 (96, 2007-10) - MARQUIS Who'sWHo",
+    "獲選列入MARQUIS Who'sWHo名人錄 (96, 2007-09) - MARQUIS Who'sWHo",
+    "獲選列入MARQUIS Who'sWHo名人錄 (95, 2006-12) - MARQUIS Who'sWHo",
+    "e-paper contributor(紀念牌) (95, 2006-11) - 本校",
+    "獲選列入MARQUIS Who'sWHo名人錄 (95, 2006-09) - MARQUIS Who'sWHo",
+    "二等績學獎章 (94, 2005-10) - 總統",
+    "景風甲種獎章 (93, 2005-04) - 國防部",
+    "陸光甲種獎章 (93, 2005-02) - 國防部"
+  ],
+  "speech": [
+    {
+      "演講題目": "Synthetic Quasi-TEM Meandered Transmission Lines for Compacted Microwave Integrated Circuits",
+      "邀請單位": "香港控制工程與信息科學研究協會",
+      "演講日期": "2014-08"
+    },
+    {
+      "演講題目": "高密度信號處理技術研究",
+      "邀請單位": "中山科學研究院(電子系統研究所)",
+      "演講日期": "2007-12"
+    },
+    {
+      "演講題目": "資電e點通 專題講座-第七週︰天線寶寶",
+      "邀請單位": "通識教育中心-資訊電機學院",
+      "演講日期": "2007-04"
+    },
+    {
+      "演講題目": "資電e點通 專題講座-第九週︰天線寶寶",
+      "邀請單位": "通識教育中心-資訊電機學院",
+      "演講日期": "2006-11"
+    },
+    {
+      "演講題目": "互補式傳輸線合成波導之特性與應用",
+      "邀請單位": "中山科學研究院",
+      "演講日期": "2006-07"
+    },
+    {
+      "演講題目": "微波積體電路先進縮裝技術",
+      "邀請單位": "逢甲大學電機工程學系",
+      "演講日期": "2005-03"
+    },
+    {
+      "演講題目": "微波積體電路先進縮裝技術",
+      "邀請單位": "通訊產業聯盟--國防通訊軍品SIG",
+      "演講日期": "2005-03"
+    }
+  ],
+  "material": [],
+  "tal": [
+    "111年度大專校院教學實踐研究計畫「應用於高頻電路設計之PBL與CDIO創新教 學模式」 (111)",
+    "108年度大專校院教學實踐研究計畫「應用於微處理機系統之CDIO創新教學模式」 (108)"
+  ]
+}

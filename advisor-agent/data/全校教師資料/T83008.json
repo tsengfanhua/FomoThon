@@ -1,0 +1,415 @@
+{
+  "teacherId": "T83008",
+  "name": "辛正和",
+  "mainUnit": "資訊電機學院",
+  "detailUnit": "通訊工程學系",
+  "skill": [
+    "數位影像處理Digital image processing",
+    "數位訊號處理Digital Signal Processing",
+    "電腦視覺Computer Vision",
+    "視訊編碼Video Coding",
+    "機器學習，  深度學習Machine Learning, Deep Learning",
+    "色彩工程Color Engineering",
+    "照相機成像機制Camera Imaging Mechanism"
+  ],
+  "edu": [
+    "美國維吉尼亞大 電機工程 博士",
+    "美國維吉尼亞大 電機工程 碩士",
+    "國立台北工業專科學校 電機工程 五專"
+  ],
+  "fcuExp": [
+    "通訊工程學系(籌備) 系主任",
+    "電子工程學系(所) 副教授",
+    "通訊工程學系 副教授"
+  ],
+  "currjob": [],
+  "otherExp": [
+    "協和工商  教師"
+  ],
+  "journal": [
+    {
+      "論文名稱": "A no-reference objective image sharpness metric based on a filter bank of Gaussian derivative wavelets",
+      "期刊名稱": "Int J Multimedia Technology ()",
+      "作者群": "[3]\tC. Hsin*, J. W. Jang, S. J. Shin, and S.-H. Chen"
+    },
+    {
+      "論文名稱": "Image coding using vector quantization with a hierarchical codebook in wavelet domain",
+      "期刊名稱": "IEEE Transaction on Consumer Electronics (SCIE,EI)",
+      "作者群": "Chen, W. S、Ou, F. C.、Lin, L. C.、辛正和"
+    }
+  ],
+  "journal2": [],
+  "conference": [
+    {
+      "論文名稱": "A Feature Similarity Index Based on the Opponent Weighting Function for Image Quality Assessment",
+      "會議名稱": "11th International Conference on Computer Graphics, Visualization, Computer Vision and Image Processing (CGVCVIP 2017)",
+      "作者群": "Chengho Hsin*, Zheng Chiu Chen and Shaw-Jyh Shin"
+    },
+    {
+      "論文名稱": "A No-Reference Image Blur Metric based on Multi-Orientation and Multi-Scale Filter Banks",
+      "會議名稱": "The 3rd IInternatiionall Symposiium on Advanced and Applliied Convergence (IISAAC 2015) In conjjunctiion wiith IInternatiionall Conference on Advanced Cullture Technollogy",
+      "作者群": "Chengho Hsin*, You-Cheng Chen, Shaw-Jyh Shin, Yi-Chang Lee"
+    },
+    {
+      "論文名稱": "Color preservation for tone reproduction and image enhancement",
+      "會議名稱": "2014 IS&T/SPIE Electronic Imaging Science and Technology",
+      "作者群": "Chengho Hsin*, Zong Wei Lee, Zheng Zhan Lee, Shaw-Jyh Shin"
+    },
+    {
+      "論文名稱": "Single-image 3-d depth estimation for urban scenes",
+      "會議名稱": "the International Conference on Image Processing (ICIP 2013)",
+      "作者群": "Hsin-Min Cheng, Chen-Yu Tseng, Cheng-Ho Hsin, and Sheng-Jyh Wang*"
+    },
+    {
+      "論文名稱": "Affine invariant local features based on novel keypoint detection and grouping",
+      "會議名稱": "the Fourth International Conference on Communications and Electronics",
+      "作者群": "C. Hsin*, B. V. Hau"
+    },
+    {
+      "論文名稱": "Anisotropic image blur assessment based on a no-reference framework",
+      "會議名稱": "the International Conference on Management Sciences and Information Technology (MSIT 2012)",
+      "作者群": "C. Hsin, S. H. Chen, S. J. Shin, and, Y. C. Chen"
+    },
+    {
+      "論文名稱": "A warm hue-ordering based color-to-gary transformation",
+      "會議名稱": "International Conference on Electronics, Communication and Computer Science (ICECCS 2012)",
+      "作者群": "Chengho Hsin, Shaw-Jyh Shin, and Hung-Kai Hsueh"
+    },
+    {
+      "論文名稱": "非參考式影像非均勻模糊度量測機制(A No-Reference Objective Non-Uniform Image Blur Metric Measurement)",
+      "會議名稱": "Workshop on Consumer Electronics",
+      "作者群": "陳世軒辛正和辛紹志"
+    },
+    {
+      "論文名稱": "A no-reference objective image sharpness metric based on a filter bank of gaussian derivative wavelets",
+      "會議名稱": "the 2nd International Conference on Multimedia Technology (ICMT2011)",
+      "作者群": "[1]\tC. Hsin*, J. W. Jang, S. J. Shin, Shin-Hsien Chen"
+    },
+    {
+      "論文名稱": "Color to grayscale transform preserving natural order of hues",
+      "會議名稱": "International Conference on Electrical Engineering and Informatics",
+      "作者群": "[2]\tC. Hsin, H. N. Le, and S. J. Shin"
+    },
+    {
+      "論文名稱": "A No-Reference Objective Image Blur Metric based on a Filter Bank of Gaussian Derivative Wavelets",
+      "會議名稱": "2010 Workshop on Consumer Electronics (WCE 2010)",
+      "作者群": "Jr-Wei Jang,Chengho Hsin,Shaw-Jyh Shin"
+    },
+    {
+      "論文名稱": "Automatic Adjustment of Image Luminance through Recurrent Local Intensity Adaptation",
+      "會議名稱": "International Conference on Image and Video Processing and Computer Vision (IVPCV-10)",
+      "作者群": "Chengho Hsin*, Nien-Tsu Hung, Jui-Jung Kao, Shaw-Jyh Shin"
+    },
+    {
+      "論文名稱": "Improving Image Luminance Appearance through Recurrent Local Intensity Adaptation",
+      "會議名稱": "2010 2nd International Conference on Signal Processing Systems (ICSPS)",
+      "作者群": "Chengho Hsin*, Nien-Tsu Hung, Jui-Jung Kao, Shaw-Jyh Shin"
+    },
+    {
+      "論文名稱": "Improving Color Image Appearance through Local Intensity Adaptation",
+      "會議名稱": "National symposium on telecommunications",
+      "作者群": " C. Hsin, N. T. Hung, S.J. Shin"
+    },
+    {
+      "論文名稱": "Visual saliency detection based on feature-pair distribution",
+      "會議名稱": "Computer Vision, Graphics, and Image Processing",
+      "作者群": "Huang, W. C., Wang, S. J., and Hsin, C."
+    },
+    {
+      "論文名稱": "A Wireless Personal Identification System by Face Recognition Using PDA Platform",
+      "會議名稱": "Workshop on Consumer Electronics (WCE) 2008",
+      "作者群": "Tsung-Han Wu, Chengho Hsin, Shaw-Jyh Shin"
+    },
+    {
+      "論文名稱": "Separating Contours from Texture Edges in Natural Images",
+      "會議名稱": "2007 IEEE International Conference on Electro/Information Technology",
+      "作者群": "Hsin, C., Chen S. C., Lin, Y. K., and Shin, S. J."
+    },
+    {
+      "論文名稱": "A general edge-based image reconstruction platform and its application to irregular sampling",
+      "會議名稱": "18th IPPR Conference on Computer Vision, Graphics and Image Processing",
+      "作者群": "Hsin, C., Chen, Y. C., and Shin, S. J."
+    },
+    {
+      "論文名稱": "Image reconstruction from edges based on a wavelet frame of Gaussian derivatives",
+      "會議名稱": "Visual Communications and Image Processing (VCIP2005)",
+      "作者群": "Hsin, C., Chen, Y. C., and  Shin, S. J."
+    },
+    {
+      "論文名稱": "Annual national communications engineering project contest in Taiwan",
+      "會議名稱": "iNEER International Conference for Engineering Education & Research (iCEER)",
+      "作者群": "Hsin, C."
+    },
+    {
+      "論文名稱": "Sinusoidal Texture Analysis and Reconstruction based on Gabor Frames",
+      "會議名稱": "Workshop on consumer electronics and signal processing, 2004",
+      "作者群": "Hsin, C., Cheng, S. H., and  Shin, S. J"
+    },
+    {
+      "論文名稱": "Detection of Image Contours",
+      "會議名稱": "Workshop on consumer electronics and signal processing, 2004.",
+      "作者群": "Chen, S. C., Hsin, C., and Shin, S. J."
+    },
+    {
+      "論文名稱": "Contour Detection based on suppression of Texture-like Edges",
+      "會議名稱": "17th IPPR Conference on Computer Vision, Graphics, and Image Processing",
+      "作者群": "Cheng, S. H., Hsin, C., and Shin, S. J."
+    },
+    {
+      "論文名稱": "Edge and Singular Point Detection based on an Adaptive Local Grey-Level Mapping",
+      "會議名稱": "Workshop on Consumer Electronics (電信學門成果發表)",
+      "作者群": "Hsin, C. and Wang, H.T."
+    },
+    {
+      "論文名稱": "Edge and Singular Point Detection based on an Adaptive Local Grey-Level Mapping",
+      "會議名稱": "Proceedings of the 2002 National Symposium on Telecommunications",
+      "作者群": "Hsin, C. and Wang, H. T."
+    },
+    {
+      "論文名稱": "Edge Detction based on an Adaptive Local Grey-Level Mapping",
+      "會議名稱": "15th IPPR Conference on Computer Vision, Graphics, and Image Processing",
+      "作者群": "Hsin, C., Wang, H. T., and Shin, S. J."
+    },
+    {
+      "論文名稱": "Analysis of Autonomic Regulation of Heart Rate Variability in Time Domain by Using IPFM Model  以積",
+      "會議名稱": "2002 Conference on Engineering Technology and Applications of Chinese and Western Medicine.",
+      "作者群": "Shaw-Jyh Shin、Chengho Hsin、Chih-Fang Su"
+    },
+    {
+      "論文名稱": "a fast fractal image coding technique with range block rotation,",
+      "會議名稱": " 14th IPPR Conference on Computer Vision, Graphics, and Image Processing",
+      "作者群": "W.S. Chen、C. H. Liu、W. Z. Wang、C. Hsin"
+    },
+    {
+      "論文名稱": "A Nonlinear Edge and Line Detection Scheme Based on Gaussian Derivatives",
+      "會議名稱": "14th IPDR Conference on Computer Vision, Graphics, and Image Processing",
+      "作者群": "Chengho Hsin、H.Tang Chang、W.Shiumg Chen、Shaw-Jyh Shin"
+    },
+    {
+      "論文名稱": "Video Compression based on Shift-invariant Wavelet Decomposition and Adaptive Quadtree Structured Mo",
+      "會議名稱": "2000 National Symposium on Telecommunications",
+      "作者群": "辛正和、辛紹志、王明全、蔡忠智"
+    },
+    {
+      "論文名稱": "Image Reconstruction based on Wavelets and Featuresestimation",
+      "會議名稱": "The 13th IPPR Conference on Computer Vision, Graphics and Image Processing",
+      "作者群": "辛正和、蔡忠智、辛紹志"
+    },
+    {
+      "論文名稱": "Video compression based on shift-invariant wavelet decomposition and adaptive quadtree structure mot",
+      "會議名稱": "OCAPA Conference",
+      "作者群": "Shin, S、辛正和、Wang, M."
+    },
+    {
+      "論文名稱": "Shift-invariant wavelet-based video compression scheme using quadtree structured block-matching moti",
+      "會議名稱": "IPPR Conference on Computer Vision, Graphics and Image Processing",
+      "作者群": "辛正和、王明全、陳文雄、辛紹志"
+    },
+    {
+      "論文名稱": "A preliminary study of binocular disparity estimation using the generalized differential method",
+      "會議名稱": "IPPR Conference on Computer Vision Graphics and Image Processing",
+      "作者群": "辛正和、林志導"
+    },
+    {
+      "論文名稱": "Predictive coding of digital images based on a Gaussian wavelet frame and feature extraction",
+      "會議名稱": "IPPR Conference on Computer Vision, Graphics and Image Processing",
+      "作者群": "辛正和、陳家祥、辛紹志"
+    }
+  ],
+  "book": [
+    {
+      "專業書籍": "建構一個群組化輪廓點、交點與高曲率點及紋理邊界點之影像分割架構 結案報告",
+      "出版單位": "自行出版",
+      "作者群": "辛正和"
+    },
+    {
+      "專業書籍": "群組化輪廓層及紋理層之影像分割架構 結案報告",
+      "出版單位": "自行出版",
+      "作者群": "辛正和"
+    },
+    {
+      "專業書籍": "影像邊界輪廓偵測和表面重建方法之建構及其應用於影像壓縮(Ⅲ) 結案報告",
+      "出版單位": "自行出版",
+      "作者群": "辛正和"
+    },
+    {
+      "專業書籍": "影像邊界輪廓偵測和表面重建方法之建構及其應用於影像壓縮(II) 結案報告",
+      "出版單位": "自行出版",
+      "作者群": "辛正和"
+    },
+    {
+      "專業書籍": "資電概論",
+      "出版單位": "全華科技圖書股份有限公司",
+      "作者群": "逢甲大學資訊電機學院"
+    },
+    {
+      "專業書籍": "影像邊界輪廓偵測和表面重建方法之建構及其應用於影像壓縮(I) 結案報告",
+      "出版單位": "自行出版",
+      "作者群": "辛正和"
+    },
+    {
+      "專業書籍": "建構影像特徵擷取統一理論",
+      "出版單位": "國科會",
+      "作者群": "辛正和"
+    },
+    {
+      "專業書籍": "Microtexture Analysis and Synthesis based on Gaussian Derivatives Wavelet Frames",
+      "出版單位": "國科會",
+      "作者群": "辛正和"
+    },
+    {
+      "專業書籍": "建構於高斯微分小波框架之微紋理分析及重建方法",
+      "出版單位": "國科會",
+      "作者群": "辛正和"
+    },
+    {
+      "專業書籍": "數位通訊系統教材大網",
+      "出版單位": "教育部",
+      "作者群": "辛正和"
+    }
+  ],
+  "patent": [],
+  "most": [
+    {
+      "name": "利用完全卷積神經網路進行數位相機之白平衡",
+      "schoolYear": "107"
+    },
+    {
+      "name": "以卷積神經網路建構無參考式影像銳利度評估方法",
+      "schoolYear": "107"
+    },
+    {
+      "name": "基於深層卷積神經網路之色彩恆常性演算法",
+      "schoolYear": "105"
+    },
+    {
+      "name": "實現一個新穎的取像流程關鍵技術:精進的白平衡與色彩不變的色調映射",
+      "schoolYear": "104"
+    },
+    {
+      "name": "從白平衡到色彩平衡：達成多光源環境下的色彩恆常性",
+      "schoolYear": "103"
+    },
+    {
+      "name": "從消除光源影響到恢復光源資訊:重新檢視色彩校正機制",
+      "schoolYear": "101"
+    },
+    {
+      "name": "色彩恆常性與光度不變量: 統合兩個不可分離的處理機制",
+      "schoolYear": "100"
+    },
+    {
+      "name": "達成精確的彩色影像外貌：建構一個融合影像強化與色彩恆常性的演算法",
+      "schoolYear": "99"
+    },
+    {
+      "name": "通往真實色彩之路：建構一個基於亮度與對比適應機制的彩色影像自動調整演算方法",
+      "schoolYear": "98"
+    },
+    {
+      "name": "建構一個群組化輪廓點、交點與高曲率點及紋理邊界點之影像分割架構",
+      "schoolYear": "95"
+    },
+    {
+      "name": "影像邊界輪廓偵測和表面重建方法之建構及其應用於影像壓縮(III)",
+      "schoolYear": "93"
+    },
+    {
+      "name": "影像邊界輪廓偵測和表面重建方法之建構及其應用於影像壓縮(II)",
+      "schoolYear": "92"
+    },
+    {
+      "name": "影像邊界輪廓偵測和表面重建方法之建構及其應用於影像壓縮(Ⅰ)",
+      "schoolYear": "91"
+    },
+    {
+      "name": "建構影像特徵擷取統一理論",
+      "schoolYear": "90"
+    },
+    {
+      "name": "建構於高斯微分小波框架之微紋理分析及重建方法",
+      "schoolYear": "89"
+    },
+    {
+      "name": "900MHZ行動視訊電話系統(Ⅲ)-子計畫四：用於行動視訊電話系統之小波變換視訊編碼/解碼器設計",
+      "schoolYear": "88"
+    },
+    {
+      "name": "建構於傅立葉及非傅立葉動態現象之光流估測模式:遮擋及透明運動",
+      "schoolYear": "87"
+    },
+    {
+      "name": "900MHZ行動視訊電話系統-子計畫三：應用於行動視訊電話系統之小波變換視訊編碼/解碼器設計",
+      "schoolYear": "87"
+    },
+    {
+      "name": "使用廣義微分法估計雙眼立體視差錯",
+      "schoolYear": "86"
+    },
+    {
+      "name": "應用於行動視訊電話系統之小波變換視訊編碼/解碼器設計",
+      "schoolYear": "86"
+    },
+    {
+      "name": "使用高斯微分小波之低階影像表示系統及其應用",
+      "schoolYear": "85"
+    }
+  ],
+  "tech": [],
+  "induAca": [
+    "大台中地區路口監視系統結合警勤e化機制與資通安全架構之研究 (2010-01 to 2010-04)",
+    "大專校院通訊科技專題製作競賽 (2006-03 to 2006-09)",
+    "通訊科技人才培育先導型計畫-通訊元件教學推動中心(共同教學實驗室) (2006-01 to 2006-12)",
+    "工程及科技教育認證第三屆先導型計畫-通訊工程學系 (2005-10 to 2006-09)",
+    "通訊科技人才培育先導型計畫/通訊專題製作競賽 (2005-01 to 2005-12)",
+    "通訊科技人才培育先導型計畫-通訊元件教學推動中心 (2005-01 to 2005-12)",
+    "通訊科技教育改進計畫 - 通訊元件組 - 高頻元件與為波電路教學實驗室之架設 (2004-02 to 2004-12)",
+    "通訊科技教育改進計畫 - 第七屆大專校院通訊科技專題製作競賽暨亞太地區名校邀請觀摩賽 (2004-01 to 2004-07)",
+    "通訊科技教育改進計畫─通訊元件組─高頻元件與微波電路教學實驗室之架設 (2003-03 to 2003-12)",
+    "土石流觀測示範站建置與系統整合(第一年) (2002-01 to 2002-11)",
+    "通訊科技教育改進計畫- 無線通訊 (1998-03 to 1998-12)"
+  ],
+  "perform": [],
+  "reward": [
+    "Best Paper Award (99, 2011-07) - ICMT 2011",
+    "96學年度優良導師 (96, 2008-08) - 逢甲大學",
+    "專任教職員優良教材佳作獎 (91, 2002-08) - 逢甲大學"
+  ],
+  "speech": [
+    {
+      "演講題目": "Separating Contours from Texture Edges in Natural Images",
+      "邀請單位": "EIT2007研討會",
+      "演講日期": "2007-05"
+    },
+    {
+      "演講題目": "Annual national communications engineering project contest i",
+      "邀請單位": "iNEER International Conference",
+      "演講日期": "2005-03"
+    },
+    {
+      "演講題目": "Detection of Image Contours",
+      "邀請單位": "Workshop on consumer electroni",
+      "演講日期": "2004-11"
+    },
+    {
+      "演講題目": "Edge and Singular Point Detection based on an Adaptive Local",
+      "邀請單位": "2002 National Symposium Teleco",
+      "演講日期": "2002-12"
+    },
+    {
+      "演講題目": "Edge Detection based on an Adaptive Local Gray-Level Mapping",
+      "邀請單位": "15th IPPR Conference on Comput",
+      "演講日期": "2002-08"
+    },
+    {
+      "演講題目": "A Nonlinear Edge and Line Detection Schemebased on Gaussian",
+      "邀請單位": "2001 IPPR",
+      "演講日期": "2001-08"
+    }
+  ],
+  "material": [
+    "數位信號處理講義\t資電學院\t辛正和\t教具",
+    "數位影像處理講義\t資電學院\t辛正和\t教具"
+  ],
+  "tal": []
+}

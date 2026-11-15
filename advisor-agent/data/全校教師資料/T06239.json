@@ -1,0 +1,471 @@
+{
+  "teacherId": "T06239",
+  "name": "楊士霆",
+  "mainUnit": "工程與科學學院",
+  "detailUnit": "工業工程與系統管理學系",
+  "skill": [
+    "資料探勘、巨量資料分析、商業智慧、知識管理、企業電子化、行動商務"
+  ],
+  "edu": [
+    "清華大學 工業工程與工程管理學系 博士",
+    "逢甲大學 工業工程學系 學士"
+  ],
+  "fcuExp": [
+    "校友聯絡處 校友聯絡長",
+    "工業工程與系統管理學系 副教授"
+  ],
+  "currjob": [],
+  "otherExp": [
+    "南華大學 資訊管理學系 副教授兼系主任",
+    "南華大學 資訊管理學系 副系主任",
+    "南華大學 資訊管理學系 助理教授"
+  ],
+  "journal": [
+    {
+      "論文名稱": "An Article Reorganization Model Based on Emotion Implied in Forum Articles",
+      "期刊名稱": "Malaysian Journal of Computer Science (SCIE)",
+      "作者群": "Shih-Ting Yang* and Yao-Chang Tsai"
+    },
+    {
+      "論文名稱": "A Virtual Community Member's Referability Determination Model",
+      "期刊名稱": "Journal of Internet Technology (SCIE)",
+      "作者群": "Shih-Ting Yang*"
+    },
+    {
+      "論文名稱": "A Medical Documents Rewriting Model based on Medical Knowledge Demanders' Feelings and Emotions",
+      "期刊名稱": "International Journal of Software Engineering and Knowledge Engineering (SCIE)",
+      "作者群": "Shih-Ting Yang*"
+    },
+    {
+      "論文名稱": "A Two-dimensional Webpage Classification Model",
+      "期刊名稱": "International Journal of Data Warehousing and Mining (SCIE)",
+      "作者群": "Shih-Ting Yang* and Chia-Wei Huang"
+    },
+    {
+      "論文名稱": "An automatic key medical information generating model",
+      "期刊名稱": "Health Policy and Technology (SSCI,SCIE)",
+      "作者群": "Shih-TingYang*"
+    },
+    {
+      "論文名稱": "A knowledge document semantic analysis technology",
+      "期刊名稱": "International Journal of Electronic Business Management (EI)",
+      "作者群": "Shih-Ting Yang* and Yu-Ting Gong"
+    },
+    {
+      "論文名稱": "A virtual community question and answer suitability determination model",
+      "期刊名稱": "Journal of Industrial and Production Engineering (EI,TSSCI)",
+      "作者群": "Shih-Ting Yang* and Yu-You Chen"
+    },
+    {
+      "論文名稱": "A color-based webpage image style judgment model",
+      "期刊名稱": "International Journal of Electronic Business Management (EI)",
+      "作者群": "Shih-Ting Yang* and Chia-Wei Huang"
+    },
+    {
+      "論文名稱": "An incremental e-mail classification model",
+      "期刊名稱": "International Journal of Reliability and Quality Performance (AHCI)",
+      "作者群": "Shih-Ting Yang*"
+    },
+    {
+      "論文名稱": "A model for book inquiry history analysis and book-acquisition recommendation of libraries",
+      "期刊名稱": "Library Collections, Acquisitions, and Technical Services (SSCI,SCIE)",
+      "作者群": "Shih-Ting Yang* and Ming-Chien Hung"
+    }
+  ],
+  "journal2": [],
+  "conference": [
+    {
+      "論文名稱": "以分群架構為基礎之流程式摘要模式",
+      "會議名稱": "第31屆國際資訊管理學術研討會(ICIM 2020)",
+      "作者群": "楊士霆*、李明宇"
+    },
+    {
+      "論文名稱": "結合個人化與適地性之檢索模式",
+      "會議名稱": "第31屆國際資訊管理學術研討會(ICIM 2020)",
+      "作者群": "楊士霆*、林芷芸"
+    },
+    {
+      "論文名稱": "利用TRIZ 理論萃取意見領袖文章之摘要技術",
+      "會議名稱": "第31屆國際資訊管理學術研討會(ICIM 2020)",
+      "作者群": "楊士霆*、薛仲廷"
+    },
+    {
+      "論文名稱": "以類神經網路為基礎之Hashtag與文章的關聯程度判斷模式",
+      "會議名稱": "2020中國工業工程年會暨學術研討會(CIIE 2020)",
+      "作者群": "楊士霆*、王韻婷、張瑜庭、李采蓁、周昕霈、高新豪、邱偉恩"
+    },
+    {
+      "論文名稱": "基於發散思維之意見領袖萃取與摘要建構模式",
+      "會議名稱": "2020中國工業工程年會暨學術研討會(CIIE 2020)",
+      "作者群": "楊士霆*、柯品瑈、張邦育、江盈盈、鄭雅絮"
+    },
+    {
+      "論文名稱": "以特徵選取優化學習模型之網路文章真實性辨別技術",
+      "會議名稱": "2020中國工業工程年會暨學術研討會(CIIE 2020)",
+      "作者群": "楊士霆*、黃韋銘"
+    },
+    {
+      "論文名稱": "以TRIZ理論整合意見領袖擷取技術摘要模式",
+      "會議名稱": "2020中國工業工程年會暨學術研討會(CIIE 2020)",
+      "作者群": "楊士霆*、薛仲廷"
+    },
+    {
+      "論文名稱": "Crowd Wisdom Filtering and Recommendation Technology",
+      "會議名稱": "the 8th International Conference on Experiments / Process / System Modeling / Simulation / Optimization (8th IC-EpsMsO)",
+      "作者群": "Shih-Ting Yang*, Jhong-Ting Syue, Ming-Yu Li and Chih-Yun Lin"
+    },
+    {
+      "論文名稱": "以框架理論為基之社群媒體文章客觀性判定模式",
+      "會議名稱": "第30屆國際資訊管理學術研討會(ICIM 2019)",
+      "作者群": "楊士霆*、侯名家、吳佳蓉、陳俊翰、蔡文鴻"
+    },
+    {
+      "論文名稱": "以計畫行為理論為基之業配文章審核模式",
+      "會議名稱": "第30屆國際資訊管理學術研討會(ICIM 2019)",
+      "作者群": "楊士霆*、黃韋銘、唐學志、劉冠麟、林大鈞"
+    },
+    {
+      "論文名稱": "以情境式學習技術為基礎之最佳化評論產生模式",
+      "會議名稱": "第30屆國際資訊管理學術研討會(ICIM 2019)",
+      "作者群": "楊士霆*、張育嘉"
+    },
+    {
+      "論文名稱": "批判性思考與反諷性陳述改寫及推薦模式",
+      "會議名稱": "第30屆國際資訊管理學術研討會(ICIM 2019)",
+      "作者群": "楊士霆、廖偉哲"
+    },
+    {
+      "論文名稱": "A Sorting and Fitness Determination Technology for Medical Knowledge Articles",
+      "會議名稱": "International Conference on Engineering and Applied Science (2018 ICEAS)",
+      "作者群": "Yang, S.-T.*, Liao, W.-J. and Chang, Y.-C."
+    },
+    {
+      "論文名稱": "非客觀意見及反語表達改寫技術",
+      "會議名稱": "第29屆國際資訊管理學術研討會(ICIM 2018)",
+      "作者群": "楊士霆*、廖偉哲"
+    },
+    {
+      "論文名稱": "以賽局理論解析新聞事件之評論偏向模式",
+      "會議名稱": "第29屆國際資訊管理學術研討會(ICIM 2018)",
+      "作者群": "楊士霆*、蔡旻晉、徐櫻綺"
+    },
+    {
+      "論文名稱": "議題評論之最佳化情境呈現技術",
+      "會議名稱": "第29屆國際資訊管理學術研討會(ICIM 2018)",
+      "作者群": "楊士霆*、張育嘉"
+    },
+    {
+      "論文名稱": "醫療文件之時序性解析模式",
+      "會議名稱": "第29屆國際資訊管理學術研討會(ICIM 2018)",
+      "作者群": "楊士霆、廖瑜哲、謝函恩"
+    },
+    {
+      "論文名稱": "醫療文件時間屬性解析及時序性判定技術",
+      "會議名稱": "106年中國工業工程學會年會暨學術研討會",
+      "作者群": "楊士霆*、廖瑜哲、謝函恩"
+    },
+    {
+      "論文名稱": "運用賽局理論分析非理性互動評論技術",
+      "會議名稱": "106年中國工業工程學會年會暨學術研討會",
+      "作者群": "楊士霆*、蔡旻晉、徐櫻綺"
+    },
+    {
+      "論文名稱": "以群眾智慧為基之醫療建議產生模式",
+      "會議名稱": "第28屆國際資訊管理學術研討會(ICIM 2017)",
+      "作者群": "楊士霆*、廖瑜瑄、陳禹廷、林建名"
+    },
+    {
+      "論文名稱": "以群體意見為基之負面事件情緒衡量模式",
+      "會議名稱": "第28屆國際資訊管理學術研討會(ICIM 2017)",
+      "作者群": "楊士霆*、廖偉哲 、張育嘉"
+    },
+    {
+      "論文名稱": "以需求者使用情境為基之適地性搜尋模式",
+      "會議名稱": "第28屆國際資訊管理學術研討會(ICIM 2017)",
+      "作者群": "楊士霆*、陳昭閔、徐崇鄴、張倇瑄"
+    },
+    {
+      "論文名稱": "適地性服務之使用者情境推估技術",
+      "會議名稱": "第十二屆台灣作業研究學會年會暨學術研討會(ORSTW 2016)",
+      "作者群": "楊士霆*、陳昭閔、徐崇鄴、張倇瑄"
+    },
+    {
+      "論文名稱": "群眾意見解析與事件議題氛圍衡量技術",
+      "會議名稱": "第十二屆台灣作業研究學會年會暨學術研討會(ORSTW 2016)",
+      "作者群": "楊士霆*、廖偉哲 、張育嘉"
+    },
+    {
+      "論文名稱": "醫療群眾智慧篩選及醫療建議生成技術",
+      "會議名稱": "第十二屆台灣作業研究學會年會暨學術研討會(ORSTW 2016)",
+      "作者群": "楊士霆*、廖瑜瑄、陳禹廷、林建名"
+    },
+    {
+      "論文名稱": "A Member’s Reference Degree Analysis Approach for Virtual Community",
+      "會議名稱": "2016 Global Conference on Engineering and Applied Science (2016 GCEAS)",
+      "作者群": "Yang, S.-T.* and Chen, Y.-Y."
+    },
+    {
+      "論文名稱": "A Domain Knowledge Document Retrieval Platform",
+      "會議名稱": "International Conference on Innovation and Management (IAM2017 Summer)",
+      "作者群": "Yang, S.-T.*, Gong, Y.-T., Liao, W.-J. and Chang, Y.-C."
+    },
+    {
+      "論文名稱": "評估醫療知識品質之醫療文章審核模式",
+      "會議名稱": "第二十七屆國際資訊管理學術研討會(ICIM 2016)",
+      "作者群": "楊士霆*、段正有、卜書婷、蘇品伃、蔡維倫、黃玠軒"
+    },
+    {
+      "論文名稱": "以醫療知識需求者心理感受與情緒反應為基之醫療文件改寫模式",
+      "會議名稱": "中國工業工程學會104年度年會暨學術研討會",
+      "作者群": "楊士霆*、莊翔智"
+    },
+    {
+      "論文名稱": "醫療文章最佳排序及符合度判定技術",
+      "會議名稱": "中國工業工程學會104年度年會暨學術研討會",
+      "作者群": "楊士霆*、段正有、卜書婷、蘇品伃、蔡維倫、黃玠軒"
+    },
+    {
+      "論文名稱": "以論壇文章蘊含情緒為基之文章重組模式",
+      "會議名稱": "第二十六屆國際資訊管理學術研討會(ICIM 2015)",
+      "作者群": "楊士霆*、蔡耀昌"
+    },
+    {
+      "論文名稱": "基於網頁圖片顏色配置之網頁情緒特徵解析模式",
+      "會議名稱": "第二十六屆國際資訊管理學術研討會(ICIM 2015)",
+      "作者群": "楊士霆*、 李俊隆、梁政彬、彭敬庭、劉耕里、林彥廷"
+    },
+    {
+      "論文名稱": "電子醫療文件配色重置與內文改寫技術",
+      "會議名稱": "第二十六屆國際資訊管理學術研討會(ICIM 2015)",
+      "作者群": "楊士霆*、莊翔智"
+    },
+    {
+      "論文名稱": "基於醫病共診之醫療文章摘要模式",
+      "會議名稱": "中國工業工程學會103年度年會暨學術研討會",
+      "作者群": "楊士霆*、韓進富"
+    },
+    {
+      "論文名稱": "論壇文章負面情緒解析模式",
+      "會議名稱": "中國工業工程學會103年度年會暨學術研討會",
+      "作者群": "楊士霆*、蔡耀昌"
+    },
+    {
+      "論文名稱": "The parameter selection and average run length computation for EWMA control charts",
+      "會議名稱": "The 6th International Conference on Neural Computation Theory and Applications (NCTA 2014)",
+      "作者群": "Cheng, S.-S., Yu, F.-J.*, Yang, S.-T. and Hou, J.-L."
+    },
+    {
+      "論文名稱": "虛擬社群知識群聚度判定模式",
+      "會議名稱": "第九屆國際健康資訊管理研討會(UHIMA2014)",
+      "作者群": "楊士霆*、陳俞佑"
+    },
+    {
+      "論文名稱": "重點醫療資訊自動化生成技術",
+      "會議名稱": "第九屆國際健康資訊管理研討會(UHIMA2014)",
+      "作者群": "楊士霆*、韓進富"
+    },
+    {
+      "論文名稱": "虛擬社群成員參考度判定模式",
+      "會議名稱": "第廿五屆國際資訊管理學術研討會(ICIM 2014)",
+      "作者群": "楊士霆*、陳俞佑"
+    },
+    {
+      "論文名稱": "A semantic analysis technology between domain vocabulary and colloquial query string for knowledge document",
+      "會議名稱": "The 2nd Annual Conference on Engineering & Information Technology",
+      "作者群": "Yang, S.-T.* and Gong, Y.-T."
+    },
+    {
+      "論文名稱": "虛擬社群問答契合度判定模式",
+      "會議名稱": "中國工業工程學會102年度年會暨學術研討會",
+      "作者群": "楊士霆*、 陳俞佑"
+    },
+    {
+      "論文名稱": "虛擬社群知識索引分析與知識推薦模式",
+      "會議名稱": "中國工業工程學會102年度年會暨學術研討會",
+      "作者群": "楊士霆*、鍾晏寧"
+    },
+    {
+      "論文名稱": "A webpage emotional category determination methodology based on color psychology and browser’s eye movement tracking",
+      "會議名稱": "International Academic Conference on Social Sciences – IACSS 2013",
+      "作者群": "Yang, S.-T.* and Huang, C.-W."
+    },
+    {
+      "論文名稱": "個人化郵件類別推論模式",
+      "會議名稱": "2012工業工程學會年會暨學術研討會",
+      "作者群": "楊士霆*、吳朝宏"
+    },
+    {
+      "論文名稱": "整合圖片特徵之相似圖片判定模式",
+      "會議名稱": "工業工程學會年會暨學術研討會",
+      "作者群": "楊士霆*、 鐘恩賜、蔡耀昌、陳俞佑"
+    },
+    {
+      "論文名稱": "Investigation of feature dimension reduction based GLCM/SVM for color filter defect classification",
+      "會議名稱": "The 25th EURO Conference",
+      "作者群": "Chiang, Y.-M.*, Lin, Y.-C, Hou, J.-L. and Yang, S.-T."
+    },
+    {
+      "論文名稱": "A qualitative model for collective intelligence analysis",
+      "會議名稱": "The 25th EURO Conference",
+      "作者群": "Hou, J.-L.*, Lin, H.-H., Yang, S.-T. and Chiang, Y.-M."
+    },
+    {
+      "論文名稱": "虛擬社群知識可用度分析模式",
+      "會議名稱": "第23屆國際資訊管理研討會 (ICIM 2012",
+      "作者群": "楊士霆*、蔡耀昌"
+    },
+    {
+      "論文名稱": "多維度網頁文件分類模式",
+      "會議名稱": "第23屆國際資訊管理研討會 (ICIM 2012",
+      "作者群": "楊士霆*、黃家偉"
+    },
+    {
+      "論文名稱": "結合語意解析與文件摘要技術之知識文件檢索模式",
+      "會議名稱": "第23屆國際資訊管理研討會 (ICIM 2012)",
+      "作者群": "楊士霆*、龔鈺婷"
+    },
+    {
+      "論文名稱": "知識文件結構化摘要模式",
+      "會議名稱": "2011年產業資訊應用研討會",
+      "作者群": "楊士霆*、龔鈺婷"
+    },
+    {
+      "論文名稱": "以顏色為基之網頁文件意象風格判定模式",
+      "會議名稱": "2011年產業資訊應用研討會",
+      "作者群": "楊士霆*、黃家偉"
+    },
+    {
+      "論文名稱": "A model for generating outputs for multiple location-based services,",
+      "會議名稱": "Information Technologies in Environmental Engineering (ITEE 2011)",
+      "作者群": "Hou, J.-L.*, Yang, S.-T. and Su, Y.-H."
+    },
+    {
+      "論文名稱": "An additional component for webpage classification technology",
+      "會議名稱": "The 2011 International Conference on Asia Pacific Business Innovation & Technology Management",
+      "作者群": "Yang, S.-T.*"
+    },
+    {
+      "論文名稱": "漸進式郵件分類模式",
+      "會議名稱": "2010 工業工程與管理年會暨學術研討會",
+      "作者群": "楊士霆*、吳朝宏、丁偉哲、鄭建良、莊貽任"
+    },
+    {
+      "論文名稱": "以代表性學習履歷為基礎之個人化學習建議推論模式",
+      "會議名稱": "2010提升學習生產力研討會",
+      "作者群": "鍾佩潔、侯建良*、楊士霆、陸明怡"
+    },
+    {
+      "論文名稱": "Factors affecting the continued intention of mobile shopping",
+      "會議名稱": "The IEEE International Conference on Industrial Engineering and Engineering Management (IEEM 2010)",
+      "作者群": "Kang, C.-R., Hung, M.-C.*, Yang, S.-T., Hsieh, T.-C. and Tang, S.-M."
+    },
+    {
+      "論文名稱": "A model for customized learning services based on intellectual behaviors of representative characters",
+      "會議名稱": "An International Conference on Mass Customization and Personalization (MCP-AP 2010)",
+      "作者群": "Hou, J.-L.*, Yang, S.-T. and Chung, P.-C."
+    },
+    {
+      "論文名稱": "Visualization and representation of temporal knowledge",
+      "會議名稱": "The 24th European Conference on Operational Research",
+      "作者群": "Yang, S.-T.*, Hou, J.-L., Pi, W.-N. and Chen, Y.-L."
+    },
+    {
+      "論文名稱": "A book-acquisition recommendation model for libraries using text mining technology",
+      "會議名稱": "2010 INFORMS Service Science Conference",
+      "作者群": "Yang, S.-T.*"
+    },
+    {
+      "論文名稱": "以標籤區域為基之網頁文件分類模式",
+      "會議名稱": "第二十一屆國際資訊管理學術研討會",
+      "作者群": "楊士霆* 、黃家偉、林大千、王冠程、蘇泰郡、呂敏如"
+    },
+    {
+      "論文名稱": "結合文字探勘技術之圖書採購推薦模式",
+      "會議名稱": "中國工業工程學會九十八年度年會暨學術研討會",
+      "作者群": "楊士霆* 、楊長盈、林建江、談繼安、楊子毅、簡三能"
+    },
+    {
+      "論文名稱": "A business model for potential customers identification and personalized knowledge provision of TSPs",
+      "會議名稱": "The 13th IFAC Symposium on Information Control Problems in Manufacturing",
+      "作者群": "Yang, S.-T.* and Hou, J.-L."
+    }
+  ],
+  "book": [],
+  "patent": [],
+  "most": [
+    {
+      "name": "以GPT-2模型為基之社群評論情緒分類與評論自動生成模式(2/2)",
+      "schoolYear": "113"
+    },
+    {
+      "name": "以GPT模型生成個人化智能問答模式",
+      "schoolYear": "113"
+    },
+    {
+      "name": "以LSTM模型之文章客觀評分與評語生成模式",
+      "schoolYear": "113"
+    },
+    {
+      "name": "以GPT-2模型為基之社群評論情緒分類與評論自動生成模式(1/2)",
+      "schoolYear": "112"
+    },
+    {
+      "name": "結合關聯性分析與LSTM模型建構產品銷售熱度與輿情預測模式",
+      "schoolYear": "112"
+    },
+    {
+      "name": "整合BERT模型與群眾智慧萃取技術之智能問答系統知識提供模式",
+      "schoolYear": "111"
+    },
+    {
+      "name": "以LDA為基礎結合協方差矩陣分析群眾外包類別和相互配對模型",
+      "schoolYear": "111"
+    },
+    {
+      "name": "提升社群文章分享效益之誘餌式標題判定與文章內容相關性解析模式",
+      "schoolYear": "110"
+    },
+    {
+      "name": "以案例推理法生成新聞文章之客觀評論模式",
+      "schoolYear": "110"
+    },
+    {
+      "name": "結合TRIZ理論與意見領袖擷取技術之社群知識表達與摘要模式",
+      "schoolYear": "109"
+    },
+    {
+      "name": "以類神經網路為基礎之Hashtag與文章的關聯程度判斷模式",
+      "schoolYear": "109"
+    },
+    {
+      "name": "改善論壇知識表達方式之利用情境式學習技術生成最佳化評論情境模式(2/2)",
+      "schoolYear": "108"
+    },
+    {
+      "name": "改善論壇知識表達方式之利用情境式學習技術生成最佳化評論情境模式(1/2)",
+      "schoolYear": "107"
+    },
+    {
+      "name": "以框架理論為基之社群媒體文章客觀性判定模式",
+      "schoolYear": "107"
+    },
+    {
+      "name": "以虛擬社群群眾意見為基之議題情緒類別判定與情緒意見群集互動解析模式(I)(他校移轉)",
+      "schoolYear": "106"
+    }
+  ],
+  "tech": [],
+  "induAca": [
+    "(諮詢顧問)工業工程管理教育計畫 (2020-02 to 2020-07)"
+  ],
+  "perform": [],
+  "reward": [
+    "111學年度教學績優獎 (111, 2022-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (110, 2021-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (109, 2020-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (108, 2019-11) - 逢甲大學"
+  ],
+  "speech": [],
+  "material": [],
+  "tal": []
+}

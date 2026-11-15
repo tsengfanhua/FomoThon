@@ -1,0 +1,410 @@
+{
+  "teacherId": "T09051",
+  "name": "王坤卿",
+  "mainUnit": "工程與科學學院",
+  "detailUnit": "機械與電腦輔助工程學系",
+  "skill": [
+    "信號處理Signal Processing",
+    "人工智慧Artificial Intelligent",
+    "電腦視覺Computer Vision",
+    "物聯網應用Application for Internet of Thing"
+  ],
+  "edu": [
+    "國立交通大學 電機與控制工程研究所 博士"
+  ],
+  "fcuExp": [
+    "數位轉型研究中心 主任",
+    "逢甲大學帆宣智慧城市5G實驗室 研究員",
+    "教學品保中心 主任",
+    "機械與電腦輔助工程學系 教授"
+  ],
+  "currjob": [],
+  "otherExp": [
+    "實踐大學 資訊科技與通訊學系 教授",
+    "實踐大學 教學發展二中心 中心主任",
+    "實踐大學 資訊科技與通訊學系 系主任",
+    "實踐大學 資訊科技與通訊學系 副教授",
+    "實踐大學 資訊科技與通訊學系 助理教授"
+  ],
+  "journal": [
+    {
+      "論文名稱": "Application of a Deep Learning Neural Network for Voiding Dysfunction Diagnosis Using a Vibration Sensor",
+      "期刊名稱": "Applied Sciences (SCIE)",
+      "作者群": "Pong, Yuan-Hung, Vincent F.S. Tsai, Yu-Hsuan Hsu, Chien-Hui Lee, Kun-Ching Wang, and Yu-Ting Tsai*"
+    },
+    {
+      "論文名稱": "EfficientNet: A Low-bandwidth IoT Image Sensor Framework for Cassava Leaf Disease Classification",
+      "期刊名稱": "Sensors and Materials (SCIE)",
+      "作者群": "Chih-Cheng Chen, Ju Yan Ba, Tie Jun Li, Christopher Chun Ki Chan, Kun-Ching Wang* (通訊作者), and Zhen Liu"
+    },
+    {
+      "論文名稱": "Design of Multi-Receptive Field Fusion-Based Network for Surface Defect Inspection on Hot-Rolled Steel Strip Using Lightweight Dataset",
+      "期刊名稱": "Applied Sciences (SCIE)",
+      "作者群": "Wei-Peng Tang, Sze-Teng Liong, Chih-Cheng Chen, Ming-Han Tsai, Ping-Cheng Hsieh, Yu-Ting Tsai, Shih-Hsin Chen and Kun-Ching Wang*"
+    },
+    {
+      "論文名稱": "Robust Audio Content Classification Using Hybrid-Based SMD and Entropy-Based VAD",
+      "期刊名稱": "Entropy (SCIE)",
+      "作者群": "Kun-Ching Wang*"
+    },
+    {
+      "論文名稱": "Dynamical Control for the Parametric Uncertain Cancer Systems",
+      "期刊名稱": "International Journal of Control, Automation and Systems (SCIE)",
+      "作者群": "Yi-Horng Lai, Lan-Yuen Guo, Kun-Ching Wang, Jau-Woei Perng*"
+    },
+    {
+      "論文名稱": "A polynomial-fuzzy-model-based synchronization methodology for the multi-scroll Chen chaotic secure communication system",
+      "期刊名稱": "Engineering Applications of Artificial Intelligence (SCIE)",
+      "作者群": "Ying-Jen Chen*, Hao-Gong Chou, Wen-June Wang, Shun-Hung Tsai, Kazuo Tanaka, Hua O. Wang, and Kun-Ching Wang"
+    },
+    {
+      "論文名稱": "Order Acceptance and Scheduling Problem with Carbon Emission Reduction and Electricity Tariffs on a Single Machine",
+      "期刊名稱": "Sustainability (SCIE)",
+      "作者群": "Shih-Hsin Chen*, Yeong-Cheng Liou, Yi-Hui Chen and Kun-Ching Wang"
+    },
+    {
+      "論文名稱": "Speech Emotion Classification using Texture Image Information Feature",
+      "期刊名稱": "International Journal of Signal Processing System (EI)",
+      "作者群": "K. C. Wang"
+    },
+    {
+      "論文名稱": "Time-Frequency Feature Representation Using Multi-Resolution Texture Analysis and Acoustic Activity Detector for Real-Life Speech Emotion Recognition",
+      "期刊名稱": "SENSORS (SCIE)",
+      "作者群": "K. C. Wang"
+    },
+    {
+      "論文名稱": "The Feature Extraction Based on Texture Image Information for Emotion Sensing in Speech",
+      "期刊名稱": "SENSORS (SCIE)",
+      "作者群": "K. C. Wang"
+    },
+    {
+      "論文名稱": "A Novel Voice Sensor for the Detection of Speech Signals",
+      "期刊名稱": "SENSORS (SCIE)",
+      "作者群": "K. C. Wang"
+    },
+    {
+      "論文名稱": "Horizontal Spectral Entropy with Long-Span of Time for Robust Voice Activity Detection",
+      "期刊名稱": "IEICE Trans. on Information and Systems (SCIE)",
+      "作者群": "K. C. Wang"
+    },
+    {
+      "論文名稱": "A Novel Approach Based on Adaptive Long-term Sub-band Entropy and Multi-thresholding Scheme for Detecting Speech Signal",
+      "期刊名稱": "IEICE Trans. on Information and Systems (SCIE)",
+      "作者群": "K. C. Wang"
+    },
+    {
+      "論文名稱": "Voice-Activity Detection Using Long-Term Sub-Band Entropy Measure",
+      "期刊名稱": "IEICE Trans. on Fundamentals (SCIE)",
+      "作者群": "K. C. Wang"
+    },
+    {
+      "論文名稱": "Multi-functional Health Monitoring System",
+      "期刊名稱": "The Chung Shan Medical Journal (EI)",
+      "作者群": "Chuin-Li Chin, Kun-Ching Wang, Wei-Zong Cheng, Wen-Yu Lin"
+    },
+    {
+      "論文名稱": "An Approach Using Combination of Multiple Features through Sigmoid Function for Speech-presence/absence Discrimination",
+      "期刊名稱": "IEICE Trans. on Fundamentals (SCIE)",
+      "作者群": "K. C. Wang and C. L. Chin"
+    },
+    {
+      "論文名稱": "Voice Activity Detector for Noise Spectrum Estimation Using a Dynamic Band-Splitting Entropy Estimate",
+      "期刊名稱": "International Journal of Computers and Applications (EI)",
+      "作者群": "K. C. Wang"
+    },
+    {
+      "論文名稱": "An Adaptive Wavelet-Based Denoising Algorithm for Enhancing Speech in Non-Stationary Noise Environment",
+      "期刊名稱": "IEICE Transactions on Information and Systems (SCIE)",
+      "作者群": "K. C. Wang"
+    },
+    {
+      "論文名稱": "A Time-Frequency Adaptation Based on Quantum Neural Networks for Speech Enhancement",
+      "期刊名稱": "WSEAS Transactions on Information Science and Applications (EI)",
+      "作者群": "K. C. Wang and C. L. Chin"
+    },
+    {
+      "論文名稱": "Wavelet-Based Speech Enhancement Using Time-Frequency Adaptation",
+      "期刊名稱": "EURASIP Journal on Advances in Signal Processing (SCIE)",
+      "作者群": "K. C. Wang"
+    },
+    {
+      "論文名稱": "A Wavelet-Based Voice Activity Detection Algorithm in Variable-Level Noise Environment",
+      "期刊名稱": "WSEAS Transactions on Computers (EI)",
+      "作者群": "K. C. Wang"
+    },
+    {
+      "論文名稱": "An Efficient Voice Activity Detection in Realistic Environments",
+      "期刊名稱": "WSEAS Transactions on Systems (EI)",
+      "作者群": "K. C. Wang and C. L. Chin"
+    },
+    {
+      "論文名稱": "Noise Spectrum Estimation with Entropy-based VAD in Non-Stationary Environments",
+      "期刊名稱": "IEICE Transactions on Fundamentals of Electronics Communications and Computer Sciences (SCIE)",
+      "作者群": "B. F. Wu and K. C. Wang"
+    },
+    {
+      "論文名稱": "Speech Activity Detection Based on Auto-Correlation Function Using Wavelet Transform and Teager Energy Operator",
+      "期刊名稱": "International Journal of Computational Linguistics and Chinese Language Processing (EI)",
+      "作者群": "B. F. Wu and K. C. Wang"
+    },
+    {
+      "論文名稱": "A Robust Endpoint Detection Algorithm Based on the Adaptive Band-Partitioning Spectral Entropy in Adverse Environments",
+      "期刊名稱": "IEEE Transactions on Speech and Audio Processing (SCIE)",
+      "作者群": "B. F. Wu and K. C. Wang"
+    },
+    {
+      "論文名稱": "A Robust Entropy-Based Speech Detection in High Noisy Environments",
+      "期刊名稱": "GESTS International Transactions on Speech Science and Engineering (EI)",
+      "作者群": "B. F. Wu and K. C. Wang"
+    }
+  ],
+  "journal2": [],
+  "conference": [
+    {
+      "論文名稱": "Urban Guide Dog Robot Using Real-Time Instance Segmentation Technology",
+      "會議名稱": "The 2nd International Conference on Machine Learning and Pattern Recognition (MLPR 2024)",
+      "作者群": "Yu Tung  Cheng and Kun-Ching Wang*"
+    },
+    {
+      "論文名稱": "Metal Defect Detection Method via Semantic Segmentation Assisted by Weakly Supervised Learning in Fully Supervised Models",
+      "會議名稱": "the 2024 International Conference on System Science and Engineering (ICSSE 2024)",
+      "作者群": "Fang-Wei Li, Sze Teng Liong, Kun-Ching Wang*"
+    },
+    {
+      "論文名稱": "Tool wear analysis and prediction system based on feature engineering combined with various supervised learning",
+      "會議名稱": "the 2024 International Conference on System Science and Engineering (ICSSE 2024)",
+      "作者群": "Wei Chung, Shang-Chih Lin, Kun-Ching Wang*"
+    },
+    {
+      "論文名稱": "DEDR-Nets: A Data Efficient Steel Surface Defect Recognition Approach for Lightweight and Imbalanced Dataset",
+      "會議名稱": "the 3rd International Conference on Big Data and Computational Intelligence(BDCI 2023)",
+      "作者群": "Wei-Peng Tang, Sze-Teng Liong, Kun-Ching Wang*"
+    },
+    {
+      "論文名稱": "Application of Additive Manufacturing Technology with Multiple Processes for Epoxy Resin Objects",
+      "會議名稱": "The 8th International Society of Mechatronic Engineering (ISME)",
+      "作者群": "Heng-Fu Zhang, Zheng-Han Li, Shang-Chih Lin, and Kun-Ching Wang"
+    },
+    {
+      "論文名稱": "Audio Content Classification with Hierarchical System Based on Spectral Entropy Information and Hybrid Feature Set",
+      "會議名稱": "2020 The 4th International Conference on Circuits, Systems and Devices (ICCSD 2020",
+      "作者群": "Kun-Ching Wang, Pin-Chuan Hung, Gu-Hao Zhang, Chiou-Ting Guo, Chia-Li Lin"
+    },
+    {
+      "論文名稱": "應用於音頻內容分類的分層式系統",
+      "會議名稱": "2020中華民國系統科學與工程研討會",
+      "作者群": "王坤卿*、洪品權、張家豪、郭秋廷、林家立、楊穎儒"
+    },
+    {
+      "論文名稱": "A Driving Behavior Analysis System Based on Bi-Modal Deep Convolution Neural Network Technology from Acoustical-Visual Features",
+      "會議名稱": "3rd International Conference on Recent Developments in Computer, Applied Science and Engineering Innovations (RDCAE2020)",
+      "作者群": "Kun-Ching Wang, Pin-Chuan Hung, Gu-Hao Zhang"
+    },
+    {
+      "論文名稱": "The Study of Driving Behavior Analysis Combined with Acoustical-Visual Emotion Recognition and OBD-II",
+      "會議名稱": "2020 International Conference on Industry, Business and Social Sciences (IBSS 2020)",
+      "作者群": "Kun-Ching Wang"
+    },
+    {
+      "論文名稱": "The Study on Infant Cry Recognition Using Multi-Resolution Deep CNN Architecture",
+      "會議名稱": "2019 International Conference on Technology, Engineering, Science, and Application (ICTESA 2019)",
+      "作者群": "K. C. Wang, Y. R. Yang and Y. M. Yang"
+    },
+    {
+      "論文名稱": "Voice Activity Detection Based on Deep Learning (paper ID: 10)",
+      "會議名稱": "2018 3rd International Conference on Biomedical Signal and Image Processing (ICBSIP 2018)",
+      "作者群": "K. C. Wang, Y. R. Yang and Y. M. Yang"
+    },
+    {
+      "論文名稱": "Speech/Music Discrimination using Hybrid-Based Feature Extraction for Audio Data Indexing",
+      "會議名稱": "International Conference on System Science and Engineering 2017 (ICSSE 2017)",
+      "作者群": "K. C. Wang, Y. M. Yang and Y. R. Yang"
+    },
+    {
+      "論文名稱": "The Study of Automobile-Used Voice-Activity Detection System Based on Two-Dimensional Long-Time and Short-Frequency Spectral Entropy",
+      "會議名稱": "The Fourth International Conference on Technological Advances in Electrical, Electronics and Computer Engineering (TAEECE 2016)",
+      "作者群": "K. C. Wang"
+    },
+    {
+      "論文名稱": "A Novel Feature Extraction Based on Multi-Resolutions Texture Image Information and Acoustic Activity Detector for Emotion Recognition in Speech",
+      "會議名稱": "International Conference on Engineering and Natural Science (ICENS 2015)",
+      "作者群": "K. C. Wang"
+    },
+    {
+      "論文名稱": "Speech Emotional Classification Using Texture Image Information Features",
+      "會議名稱": "2014 International Conference on Communication and Signal Processing (ICCSP 2014)",
+      "作者群": "K. C. Wang"
+    },
+    {
+      "論文名稱": "Innovative VAD Based on Horizontal Spectral Entropy with Long-Span of Time",
+      "會議名稱": "International MultiConference of Engineers and Computer Scientists 2013",
+      "作者群": "K. C. Wang, C. L. Chin and C. M. Wang"
+    },
+    {
+      "論文名稱": "Decision-making and Recognition in Emotional Speech",
+      "會議名稱": "18th Cross Strait Conference on Information Management Development and Strategy (CSIM 2012)",
+      "作者群": "C. M. Wang, K. C. Wang and C. L. Chin"
+    },
+    {
+      "論文名稱": "A Novel Voice Activity Detection Method Using Improved Long-Term Spectral Analysis and Wavelet Entropy (Paper ID: 206)",
+      "會議名稱": "Third International Conference on Audio, Language and Image Processing (ICALIP 2012)",
+      "作者群": "K. C. Wang, Chiun-Li Chin and Yi-Hsing Tsai"
+    },
+    {
+      "論文名稱": "A Robust Document Image Binarization Algorithm with Artificial Intelligent Method",
+      "會議名稱": "2010 International Congress on Computer Applications and Computational Science (CACS 2010)",
+      "作者群": "C. L. Chin, W. S. Jhao and K. C. Wang"
+    },
+    {
+      "論文名稱": "Voice Activity Detection based on Combination of Weighted Sub-band Features using Auto-Correlation",
+      "會議名稱": "DiSS-LPSS Joint Workshop 2010",
+      "作者群": "K. C. Wang, C. L. Chin and Y. H. Tsai"
+    },
+    {
+      "論文名稱": "A Document Image Binarization Algorithm with Fuzzy Inference Method",
+      "會議名稱": "第23屆電腦視覺、圖學暨影像處理研討會",
+      "作者群": "C. L. Chin and W. S. Jhao and K. C. Wang"
+    },
+    {
+      "論文名稱": "Automatic Content-Based Classification of MP3 Music Objects Radial Basis Function Network",
+      "會議名稱": "7th International Conference on Fuzzy Systems and Knowledge Discovery (FSKD'10)",
+      "作者群": "Y. H. Tsai, C. C. Tsai and K. C. Wang"
+    },
+    {
+      "論文名稱": "A Wavelet De-noising System Using Time-Frequency Adaptation for Speech Enhancement Adaptation for Speech Enhancement",
+      "會議名稱": "International Conference on Asian Languages Processing 2009 (IALP2009)",
+      "作者群": "K. C. Wang, C. L. Chin and Y. H. Tsai"
+    },
+    {
+      "論文名稱": "A Novel Entropy-Based Voice Activity Detection Algorithm",
+      "會議名稱": "2009年商業與資訊國際研討會-21世紀之挑戰與前瞻",
+      "作者群": "K. C. Wang"
+    },
+    {
+      "論文名稱": "A Method with Entropy-Based Measure for Detecting Voice Activity in Noisy Environments",
+      "會議名稱": "6th International Symposium on Chinese Spoken Language Processing, ISCSLP 2008",
+      "作者群": "K. C. Wang"
+    },
+    {
+      "論文名稱": "Voice Activity Detection Algorithm with Low Signal-to-Noise Ratios Based on Spectrum Entropy",
+      "會議名稱": "Second International Symposium on Universal Communication, ISUC 2008",
+      "作者群": "K. C. Wang and Y. H. Tsai"
+    },
+    {
+      "論文名稱": "An Entropy-Based VAD Technique Using Bark-Scale Wavelet Decomposition and Adaptive Frequency Sub-band Extraction",
+      "會議名稱": "Oriental COCOSDA 2008",
+      "作者群": "K. C. Wang"
+    },
+    {
+      "論文名稱": "A Novel Speech Enhancement Based on Time-Frequency Adaptive Thresholding of the Perceptual Wavelet Packet Transform",
+      "會議名稱": "Oriental COCOSDA 2008",
+      "作者群": "K. C. Wang"
+    },
+    {
+      "論文名稱": "Voice Activity Detection Based on Discrete Wavelet Transform",
+      "會議名稱": "ROCLING-2008",
+      "作者群": "K. C. Wang"
+    },
+    {
+      "論文名稱": "An Adaptive Band-Partitioning Spectral Entropy Based Speech Detection in Realistic Noisy Environments",
+      "會議名稱": "INTERSPEECH 2004 ICSLP",
+      "作者群": "B. F. Wu and K. C. Wang"
+    },
+    {
+      "論文名稱": "A Noise Estimator with Rapid Adaptation in Variable-Level Noisy Environments",
+      "會議名稱": "ROCLING XVI",
+      "作者群": "B. F. Wu, K. C. Wang and L. Y. Kuo"
+    }
+  ],
+  "book": [],
+  "patent": [],
+  "most": [
+    {
+      "name": "超高速流體動力主軸及智能化監控裝置開發計畫",
+      "schoolYear": "113"
+    },
+    {
+      "name": "基於聲射訊號之砂輪振動狀態線上監測暨回控技術",
+      "schoolYear": "113"
+    },
+    {
+      "name": "以Yolact Edge實例分割網絡和深度視覺為基礎的導盲犬機器人之研究",
+      "schoolYear": "112"
+    },
+    {
+      "name": "聲紋辨識智慧回收分類系統",
+      "schoolYear": "112"
+    },
+    {
+      "name": "(個別型)產學合作計畫－利用機器學習於智慧型複合式刀座之故障診斷與健康度預測",
+      "schoolYear": "111"
+    },
+    {
+      "name": "(廠配)豪力輝工業股份有限公司(個別型)產學合作計畫－利用機器學習於智慧型複合式刀座之故障診斷與健康度預測",
+      "schoolYear": "111"
+    },
+    {
+      "name": "研究半監督強化元學習方法應用於工具機加工系統的序列行為診斷分析",
+      "schoolYear": "111"
+    },
+    {
+      "name": "VSAM-Net: 基於視覺化之自我引導類神經網路–以輕量化且不平衡之金屬表面瑕疵分類為例",
+      "schoolYear": "111"
+    },
+    {
+      "name": "(個別型)產學合作計畫－利用AI卷積神經網路分析異常音頻訊號-以機台故障診斷為例",
+      "schoolYear": "110"
+    },
+    {
+      "name": "(廠配)高明精機工業股份有限公司(個別型)產學合作計畫－利用AI卷積神經網路分析異常音頻訊號-以機台故障診斷為例",
+      "schoolYear": "110"
+    },
+    {
+      "name": "(個別型)產學合作計畫－基於深度多尺度小波捲積式神經網路之AI智慧蜂箱監控系統研發實作",
+      "schoolYear": "109"
+    },
+    {
+      "name": "(廠配)華亨科技股份有限公司(個別型)產學合作計畫－基於深度多尺度小波捲積式神經網路之AI智慧蜂箱監控系統研發實作",
+      "schoolYear": "109"
+    },
+    {
+      "name": "基於AI聲音識別與物聯網技術之蜂群健康監測與警示系統",
+      "schoolYear": "109"
+    },
+    {
+      "name": "基於音頻與視覺特徵的雙模深度卷積式神經網路技術以解析駕駛行為之研究與實現",
+      "schoolYear": "108"
+    }
+  ],
+  "tech": [],
+  "induAca": [
+    "（王坤卿）由AI輔助或建議難切削材(鈦合金/鎳基合金)的切削條件 (2025-02 to 2025-11)",
+    "工具機智慧化推動計畫 (2022-03 to 2022-06)"
+  ],
+  "perform": [],
+  "reward": [
+    "113年度國科會補助大專校院研究獎勵 (113, 2024-11) - 逢甲大學",
+    "112年度國科會補助大專校院研究獎勵 (112, 2023-12) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (111, 2022-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (111, 2022-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (111, 2022-11) - 逢甲大學",
+    "2019經濟部搶鮮⼤賽 (創新實 作類) 優選入圍 (108, 2019-08) - 經濟部⼯業局",
+    "108年度科技部獎勵特殊優秀 ⼈才 (108, 2019-08) - 實踐⼤學研究發展處",
+    "2018經濟部搶鮮⼤賽(創意發 想類)亞軍 (107, 2018-12) - 經濟部⼯業局"
+  ],
+  "speech": [
+    {
+      "演講題目": "聲學分析與AIoT應用案例研究",
+      "邀請單位": "國立臺灣師範大學電機工程學系",
+      "演講日期": "2020-10"
+    },
+    {
+      "演講題目": "Audio processing with AI deep learning for IoT Applications",
+      "邀請單位": "國立台北科技大學機電學院",
+      "演講日期": "2020-06"
+    }
+  ],
+  "material": [],
+  "tal": []
+}

@@ -1,0 +1,571 @@
+{
+  "success": true,
+  "info": {
+    "yms_year": 114.0,
+    "yms_smester": 1.0,
+    "sub_id": "61530",
+    "cls_id": "MB0332J",
+    "scr_dup": "001",
+    "sub_id3": "EMBA7990",
+    "cls_name": "經專碩二學位學程經管組甲班",
+    "cls_ename": "Executive Master's Program of Business Administration:General Management Program",
+    "sub_name": "碩士論文",
+    "sub_ename": "MASTER THESIS",
+    "scr_mso": "必修",
+    "scr_mso_en": "Required",
+    "scr_credit": 0.0,
+    "scr_periodly": "(六)00",
+    "scr_periodly_eng": "(Sat)00",
+    "lang_name": "中文                                                      ",
+    "lang_ename": "Chinese",
+    "scr_room": "待排",
+    "scr_room_eng": "TBD",
+    "scr_teacher": "邱安安,李元恕",
+    "scr_teacher_eng": "Yuan-Shuh Lii,Yuan-Shuh Lii",
+    "scr_selcode": "2772",
+    "scr_elearning": "全學期",
+    "scr_elearning_en": "Full semester",
+    "scr_hours": "1",
+    "scr_english": "N",
+    "unt_name": null,
+    "unt_ename": null,
+    "link_traminal": null,
+    "link_traminal_en": null,
+    "scr_ldl": "D",
+    "course_mk": "N",
+    "teams_mk": "N",
+    "sub_title": null,
+    "sub_title_en": null,
+    "sub_describe": null,
+    "sub_describe_en": null,
+    "hasDescription": null,
+    "hasInstructor": null,
+    "hasTA": null,
+    "hasTextBooks": null,
+    "hasReadings": null,
+    "hasiSoftwares": null,
+    "hasAssistSoftwares": null,
+    "hasObjective": null,
+    "hasWeeklyScds": null,
+    "hasGradeRules": null,
+    "hasGradeRuleDescribe": null,
+    "hasIntegrity": null,
+    "hasCoursePol": null,
+    "hasCourseRem": null,
+    "hasObjectiveReleation": null,
+    "hasTopicSdgs": null,
+    "hasSubTitleDesc": null
+  },
+  "subTitleDesc": null,
+  "description": {
+    "sub_id3": null,
+    "sub_name": "碩士論文",
+    "sub_ename": "MASTER THESIS",
+    "describe_ch": "這門課是針對學生的論文寫作與指導教授之間的研討而設計。為加強學生執行研究與解決問題的能力，本課程要求學生針對學術或產業問題進行專業探討，進而拉近理論與實務之間的距離。",
+    "describe_eh": "This course is designed for the dissertation writing and the discussion between students and supervisors. In order to strengthen students' ability to perform research and problem-solving, this course requires students to conduct professional researches on academic or industrial topics, thereby narrowing the distance between theory and practice.",
+    "pre_subname": "",
+    "pre_sub_id3": null,
+    "pre_sub_ename": "",
+    "pre_describe": null,
+    "pre_describe_en": null,
+    "scr_credit": 0.0
+  },
+  "targets": [
+    {
+      "seq": 1,
+      "describe_ch": "提升相關管理知識並能綜合運用於自我的工作",
+      "describe_en": "Can synthesis the related management knowledge and skill on their job"
+    },
+    {
+      "seq": 2,
+      "describe_ch": "分析自我的市場優勢與發展潛能",
+      "describe_en": "Can analysis their advantages and recognize their potential in the market"
+    },
+    {
+      "seq": 3,
+      "describe_ch": "評鑑最新的市場動態並能清楚掌握",
+      "describe_en": "Can evaluate the current market dynamics"
+    }
+  ],
+  "teachersInfo": [
+    {
+      "cname": "邱安安",
+      "ename": "An-An Chiu",
+      "period": "(Tue)05-06 1112,(Tue)07  1112,(Thu)05-06 1112",
+      "roletype": 0,
+      "email": "aachiu@o365.fcu.edu.tw",
+      "ext": "4254"
+    },
+    {
+      "cname": "李元恕",
+      "ename": "Yuan-Shuh Lii",
+      "period": "(Tue)05  V171,(Wed)05  商1228",
+      "roletype": 0,
+      "email": "yslii@o365.fcu.edu.tw",
+      "ext": "6020"
+    }
+  ],
+  "textBooks": {
+    "yms_year": 114.0,
+    "yms_smester": 1.0,
+    "cls_id": "MB0332J",
+    "sub_id": "61530",
+    "scr_dup": "001",
+    "tpb_seq": 1,
+    "tpb_book": "<div>依個別研究主題自行尋找參考資料</div>\n",
+    "tpb_book_en": " "
+  },
+  "readings": {
+    "yms_year": 114.0,
+    "yms_smester": 1.0,
+    "cls_id": "MB0332J",
+    "sub_id": "61530",
+    "scr_dup": "001",
+    "tpc_seq": 1,
+    "tpc_book": "<div>指定相關專業資料研讀</div>\n",
+    "tpc_book_en": " "
+  },
+  "iSoftwares": [],
+  "assistSoftwares": [],
+  "weeklyScds": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "MB0332J",
+      "sub_id": "61530",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "1",
+      "tpd_reading": "<div>學生自行與教師討論論文上問題</div>\n",
+      "tpd_reading_en": " ",
+      "tpd_learn": " ",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "MB0332J",
+      "sub_id": "61530",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "2",
+      "tpd_reading": "<div>學生自行與教師討論論文上問題</div>\n",
+      "tpd_reading_en": " ",
+      "tpd_learn": " ",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "MB0332J",
+      "sub_id": "61530",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "3",
+      "tpd_reading": "<div>學生自行與教師討論論文上問題</div>\n",
+      "tpd_reading_en": " ",
+      "tpd_learn": " ",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "MB0332J",
+      "sub_id": "61530",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "4",
+      "tpd_reading": "<div>學生自行與教師討論論文上問題</div>\n",
+      "tpd_reading_en": " ",
+      "tpd_learn": " ",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "MB0332J",
+      "sub_id": "61530",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "5",
+      "tpd_reading": "<div>學生自行與教師討論論文上問題</div>\n",
+      "tpd_reading_en": " ",
+      "tpd_learn": " ",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "MB0332J",
+      "sub_id": "61530",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "6",
+      "tpd_reading": "<div>學生自行與教師討論論文上問題</div>\n",
+      "tpd_reading_en": " ",
+      "tpd_learn": " ",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "MB0332J",
+      "sub_id": "61530",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "7",
+      "tpd_reading": "<div>學生自行與教師討論論文上問題</div>\n",
+      "tpd_reading_en": " ",
+      "tpd_learn": " ",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    }
+  ],
+  "gradeRules": [],
+  "gradeRuleDescribe": {
+    "yms_year": 114.0,
+    "yms_smester": 1.0,
+    "cls_id": "MB0332J",
+    "sub_id": "61530",
+    "scr_dup": "001",
+    "tpa_score_new": "<div>學科考試：採論文計畫書審議，以書面審查及口試方式進行，並於口試時檢核論文題目與內容是否符合學位學程之教育目標、核心能力及所屬專業領域。 學位考試：採論文審議，以書面審查及口試方式進行。由研究生於考試日期前提交論文初稿及原創性比對報告供學位考試委員審閱。</div>\n",
+    "tpa_score_new_en": " ",
+    "course_pol": "1.研究生學位論文原創性比對報告之標準不得高於20%。\n2.學位論文以公開為原則，若涉及機密、專利事項或依法不得提供者，需填具學位論文延後公開申請書，經指導教授同意，提送系級、院級、校級研究生事務相關委員會審議認定，並送交圖書館及教務處備查。",
+    "course_pol_en": null,
+    "course_rem": "研究生於學位考試前，需提交論文初稿及原創性比對報告供指導教授、學位考試委員審閱。",
+    "course_rem_en": null,
+    "ais_meno": "<div>剽竊是對學術信任的嚴重破壞。在學習作業中，我們的言論和想法就是我們作業的價值；因此將他人的作品當作自己的作品繳交，是一種盜竊行為。當您使用別人的文字和想法時，無論是著名作家還是同學的作品，而不註明這些文章、詞語和想法的來源出處，您的行為就是在抄襲。原創性作品是我的底線，抄襲的作品將會收到&ldquo;0&rdquo;或&ldquo;不及格&rdquo;的分數。</div>\n",
+    "ais_meno_en": null,
+    "ilearn_mk": null
+  },
+  "integrity": {
+    "yms_year": 114.0,
+    "yms_smester": 1.0,
+    "cls_id": "MB0332J",
+    "sub_id": "61530",
+    "scr_dup": "001",
+    "tpa_score_new": "<div>學科考試：採論文計畫書審議，以書面審查及口試方式進行，並於口試時檢核論文題目與內容是否符合學位學程之教育目標、核心能力及所屬專業領域。 學位考試：採論文審議，以書面審查及口試方式進行。由研究生於考試日期前提交論文初稿及原創性比對報告供學位考試委員審閱。</div>\n",
+    "tpa_score_new_en": " ",
+    "course_pol": "1.研究生學位論文原創性比對報告之標準不得高於20%。\n2.學位論文以公開為原則，若涉及機密、專利事項或依法不得提供者，需填具學位論文延後公開申請書，經指導教授同意，提送系級、院級、校級研究生事務相關委員會審議認定，並送交圖書館及教務處備查。",
+    "course_pol_en": null,
+    "course_rem": "研究生於學位考試前，需提交論文初稿及原創性比對報告供指導教授、學位考試委員審閱。",
+    "course_rem_en": null,
+    "ais_meno": "<div>剽竊是對學術信任的嚴重破壞。在學習作業中，我們的言論和想法就是我們作業的價值；因此將他人的作品當作自己的作品繳交，是一種盜竊行為。當您使用別人的文字和想法時，無論是著名作家還是同學的作品，而不註明這些文章、詞語和想法的來源出處，您的行為就是在抄襲。原創性作品是我的底線，抄襲的作品將會收到&ldquo;0&rdquo;或&ldquo;不及格&rdquo;的分數。</div>\n",
+    "ais_meno_en": null,
+    "ilearn_mk": null
+  },
+  "policy": {
+    "yms_year": 114.0,
+    "yms_smester": 1.0,
+    "cls_id": "MB0332J",
+    "sub_id": "61530",
+    "scr_dup": "001",
+    "tpa_score_new": "<div>學科考試：採論文計畫書審議，以書面審查及口試方式進行，並於口試時檢核論文題目與內容是否符合學位學程之教育目標、核心能力及所屬專業領域。 學位考試：採論文審議，以書面審查及口試方式進行。由研究生於考試日期前提交論文初稿及原創性比對報告供學位考試委員審閱。</div>\n",
+    "tpa_score_new_en": " ",
+    "course_pol": "1.研究生學位論文原創性比對報告之標準不得高於20%。\n2.學位論文以公開為原則，若涉及機密、專利事項或依法不得提供者，需填具學位論文延後公開申請書，經指導教授同意，提送系級、院級、校級研究生事務相關委員會審議認定，並送交圖書館及教務處備查。",
+    "course_pol_en": null,
+    "course_rem": "研究生於學位考試前，需提交論文初稿及原創性比對報告供指導教授、學位考試委員審閱。",
+    "course_rem_en": null,
+    "ais_meno": "<div>剽竊是對學術信任的嚴重破壞。在學習作業中，我們的言論和想法就是我們作業的價值；因此將他人的作品當作自己的作品繳交，是一種盜竊行為。當您使用別人的文字和想法時，無論是著名作家還是同學的作品，而不註明這些文章、詞語和想法的來源出處，您的行為就是在抄襲。原創性作品是我的底線，抄襲的作品將會收到&ldquo;0&rdquo;或&ldquo;不及格&rdquo;的分數。</div>\n",
+    "ais_meno_en": null,
+    "ilearn_mk": null
+  },
+  "courseBankC": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "MB0332J",
+      "sub_id": "61530",
+      "scr_dup": "001",
+      "seq": 1,
+      "describe_ch": "提升相關管理知識並能綜合運用於自我的工作",
+      "describe_en": "Can synthesis the related management knowledge and skill on their job",
+      "core_id": "A",
+      "core_item": "學生具備經營管理核心知識",
+      "core_eng": "Students possess the core knowledge of business management",
+      "core_level": "5 ",
+      "strgy": [
+        "18"
+      ],
+      "evalb": [
+        "B3"
+      ],
+      "strgy_name": [
+        "主動學習"
+      ],
+      "strgy_name_en": [
+        "Active Learning, AL"
+      ],
+      "evalb_name": [
+        "學生個別請益"
+      ],
+      "evalb_name_en": [
+        "Individual tutoring"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "MB0332J",
+          "sub_id": "61530",
+          "scr_dup": "001",
+          "seq": 1,
+          "strgy_id": "18",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "MB0332J",
+          "sub_id": "61530",
+          "scr_dup": "001",
+          "seq": 1,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "B3",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "MB0332J",
+      "sub_id": "61530",
+      "scr_dup": "001",
+      "seq": 2,
+      "describe_ch": "分析自我的市場優勢與發展潛能",
+      "describe_en": "Can analysis their advantages and recognize their potential in the market",
+      "core_id": "E",
+      "core_item": "學生具備台灣優勢文化之應用能力",
+      "core_eng": "Students possess the ability to utilize the Taiwanese culture advantage",
+      "core_level": "4 ",
+      "strgy": [
+        "18"
+      ],
+      "evalb": [
+        "B3"
+      ],
+      "strgy_name": [
+        "主動學習"
+      ],
+      "strgy_name_en": [
+        "Active Learning, AL"
+      ],
+      "evalb_name": [
+        "學生個別請益"
+      ],
+      "evalb_name_en": [
+        "Individual tutoring"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "MB0332J",
+          "sub_id": "61530",
+          "scr_dup": "001",
+          "seq": 2,
+          "strgy_id": "18",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "MB0332J",
+          "sub_id": "61530",
+          "scr_dup": "001",
+          "seq": 2,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "B3",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "MB0332J",
+      "sub_id": "61530",
+      "scr_dup": "001",
+      "seq": 3,
+      "describe_ch": "評鑑最新的市場動態並能清楚掌握",
+      "describe_en": "Can evaluate the current market dynamics",
+      "core_id": "E",
+      "core_item": "學生具備台灣優勢文化之應用能力",
+      "core_eng": "Students possess the ability to utilize the Taiwanese culture advantage",
+      "core_level": "6 ",
+      "strgy": [
+        "18"
+      ],
+      "evalb": [
+        "B3"
+      ],
+      "strgy_name": [
+        "主動學習"
+      ],
+      "strgy_name_en": [
+        "Active Learning, AL"
+      ],
+      "evalb_name": [
+        "學生個別請益"
+      ],
+      "evalb_name_en": [
+        "Individual tutoring"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "MB0332J",
+          "sub_id": "61530",
+          "scr_dup": "001",
+          "seq": 3,
+          "strgy_id": "18",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "MB0332J",
+          "sub_id": "61530",
+          "scr_dup": "001",
+          "seq": 3,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "B3",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    }
+  ],
+  "topicSdgs": [],
+  "learnHours": {
+    "total": 0.0,
+    "tpdOnlineAsyTotal": 0.0,
+    "tpdOnlineSynTotal": 0.0,
+    "tpdOnlineFaceTotal": 0.0,
+    "asySynInTotalPercent": 0.0
+  },
+  "crossVerYear": 114
+}

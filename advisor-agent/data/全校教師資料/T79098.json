@@ -1,0 +1,536 @@
+{
+  "teacherId": "T79098",
+  "name": "王壘",
+  "mainUnit": "資訊電機學院",
+  "detailUnit": "電機工程學系",
+  "skill": [
+    "計算機結構Computer Architecture",
+    "嵌入式系統Embedded System",
+    "網路協定Network Protocols",
+    "系統安全System Security"
+  ],
+  "edu": [
+    "逢甲大學 資訊工程所 博士",
+    "逢甲大學 資訊工程所 碩士",
+    "逢甲大學 資訊系 學士"
+  ],
+  "fcuExp": [
+    "資訊電機學院 秘書",
+    "嵌入式系統發展研究中心 主任",
+    "資電學院不分系榮譽班 主任",
+    "資訊電機工程碩士在職專班 主任",
+    "校友聯絡暨就業輔導處 校友聯絡暨就業輔導長",
+    "校友聯絡暨就業輔導處 校友聯絡暨就業輔導長",
+    "產業研發碩士專班 主任",
+    "智慧聯網產業博士學位學程 主任",
+    "視光科技碩士在職學位學程 主任",
+    "資訊電機工程碩士在職專班 主任",
+    "資訊電機工程碩士在職學位學程 主任",
+    "光電能源與視覺科技碩士在職專班 主任",
+    "電機工程學系(所) 講師",
+    "電機工程學系(所) 講師",
+    "電機工程學系(所) 講師",
+    "電機工程學系(所) 講師",
+    "電機工程學系 副教授",
+    "電機工程學系 副教授",
+    "電機工程學系 副教授"
+  ],
+  "currjob": [],
+  "otherExp": [
+    "私立僑光商業專科學校  講師"
+  ],
+  "journal": [
+    {
+      "論文名稱": "Modified photoplethysmography signal processing and analysis procedure for obtaining reliable stiffness index reflecting arteriosclerosis severity",
+      "期刊名稱": "Physiological  Measurement (SCIE)",
+      "作者群": "Meng-Ting Wu , I-Fan Liu , Yun-Hsuan Tzeng , Lei Wang"
+    },
+    {
+      "論文名稱": "Using Partial Coverage Strategy to Prolong Service Time of a Cluster-Based Wireless Sensor Network",
+      "期刊名稱": "Journal of Internet Technology (SCIE)",
+      "作者群": "Wang Lei*, Kao Peng-Hsiang, Wu Meng-Ting"
+    },
+    {
+      "論文名稱": "Keeping Desired QoS by a Partial Coverage Algorithm for Cluster-Based Wireless Sensor Networks",
+      "期刊名稱": "Journal of Networks (EI)",
+      "作者群": "Lei Wang, Jui-Yu Yang , Yu-Yun Lin, and Wei-Jun Lin"
+    },
+    {
+      "論文名稱": "Multi-source Coalition Transmissions with Fault Tolerant Routing for Data Centric WSNs",
+      "期刊名稱": "Journal of Computers (EI)",
+      "作者群": "Lei Wang;Wei Lin;Jyh-Ming Huang"
+    },
+    {
+      "論文名稱": "Practical and Efficient Contrast Enhancement Method (PECE) (Chinese)",
+      "期刊名稱": "Journal of Computer Research and Development (EI)",
+      "作者群": "謝文達*, 邱竣鴻, 王壘"
+    },
+    {
+      "論文名稱": "A Practical Evaluation Model for the Improvement of the Quality of Image Contrast",
+      "期刊名稱": "Journal of Computers (EI)",
+      "作者群": "Lei Wang*, Wenta Hsieh"
+    },
+    {
+      "論文名稱": "BBQ - A Simple and Effective Approach to Backward Branch Predictions for Embedded Processors",
+      "期刊名稱": "Journal of Computers (EI)",
+      "作者群": "Lei Wang*, and Qiong-Xian Zeng"
+    },
+    {
+      "論文名稱": "A Platform Implementation for Real Time Image Processing",
+      "期刊名稱": "Springer Lecture Notes in Computer Science (EI)",
+      "作者群": "Ching-Hsi Lu, Yu-Sheng Wang, Lei Wang, and Hong-Yang Hsu"
+    },
+    {
+      "論文名稱": "On the Boosting of Instruction Scheduling by Renaming",
+      "期刊名稱": "The Journal of Supercomputing, ()",
+      "作者群": "L. Wang  and Ted C. Yang"
+    },
+    {
+      "論文名稱": "A Compiler-Based Speculative Execution Scheme for ILP Enhancement",
+      "期刊名稱": "Journal of Information Science and Engineering (SCIE)",
+      "作者群": "L. Wang and Ted C. Yang"
+    },
+    {
+      "論文名稱": "Compiler/Hardware Co-design for Instruction Boosting in ILP Processors",
+      "期刊名稱": "IEE Proceedings-Computers and Digital Techniques ()",
+      "作者群": "L. Wang and Ted C. Yang"
+    },
+    {
+      "論文名稱": "極長指令集處理機設計原理概述",
+      "期刊名稱": "電子月刊, 六月號, 第35期 ()",
+      "作者群": "楊濬中, 王壘"
+    },
+    {
+      "論文名稱": "On the Design and Modeling of a Homogeneous VLIW Architecture",
+      "期刊名稱": "International Journal of Systems Science ()",
+      "作者群": "王壘、楊濬中"
+    }
+  ],
+  "journal2": [],
+  "conference": [
+    {
+      "論文名稱": "Keeping Desired QoS by a Partial Coverage Algorithm for Cluster-Based Wireless Sensor Networks",
+      "會議名稱": "2013 National Computer Symposium (NCS 2013)",
+      "作者群": "21.\t楊瑞宇,林郁芸,王壘"
+    },
+    {
+      "論文名稱": "A Real-Time Image Contrast Enhancement Technique for Medical Usage",
+      "會議名稱": "2013 National Computer Symposium (NCS 2013)",
+      "作者群": "葉書豪, 吳孟庭, 王壘"
+    },
+    {
+      "論文名稱": "The study of Image quality and distortion assessment",
+      "會議名稱": "2013 National Computer Symposium (NCS 2013)",
+      "作者群": "鄭韋彥, 張家華, 邱灴彰, 王壘"
+    },
+    {
+      "論文名稱": "Bi-Displacement Histogram Equalization for Dark Images",
+      "會議名稱": "2013 National Computer Symposium (NCS 2013)",
+      "作者群": "孫榮澤, 王壘"
+    },
+    {
+      "論文名稱": "Histogram Equalization with Automatic Weighted Matching for Contrast Enhancement",
+      "會議名稱": "2013 National Computer Symposium (NCS 2013)",
+      "作者群": "戴浩仲, 王壘"
+    },
+    {
+      "論文名稱": "醫療影像自動局部搜尋對比增強之設計",
+      "會議名稱": "2013 National Computer Symposium (NCS 2013)",
+      "作者群": "李孟儒, 王壘"
+    },
+    {
+      "論文名稱": "Design a monopole antenna with three-tier small semicircles for ultra-wideband operation",
+      "會議名稱": "2013 IEEE International Symposium on Antennas and Propagation and USNC-URSI National Radio Science Meeting",
+      "作者群": "Meng-Ting Wu, Lei Wang, Meng-Ju Lee, Sheau-Shong Bor, Tian-Fu Hung, Chia-Yen Wei, and Chung-Che Lien"
+    },
+    {
+      "論文名稱": "Comprehensive Evaluation for HE Based Contrast Enhancement Techniques",
+      "會議名稱": "2012 International Computer Symposium (ICS 2012)",
+      "作者群": "Ming-Zhi Gao, Zhi-Gang Wu, and Lei Wang"
+    },
+    {
+      "論文名稱": "IARC-An Improved Coverage Based Sensor Network Topology Control Algorithm",
+      "會議名稱": "2012 International Computer Symposium (ICS 2012)",
+      "作者群": "Wei-Jun Lin, Tsen-Jui Lin, and Lei Wang"
+    },
+    {
+      "論文名稱": "Theoretical Analysis and Realistic Implementation of Secure Servers Switching System",
+      "會議名稱": "2012 International Computer Symposium (ICS 2012)",
+      "作者群": "Yu-Hong Chen, Kuang-Tse Chen, and Lei Wang"
+    },
+    {
+      "論文名稱": "Design and implementation of Secure Server Switching System",
+      "會議名稱": "2011 National Computer Symposium (NCS)",
+      "作者群": "Yu-Hong Chen, Kuan-Tse Chen, Lei Wang"
+    },
+    {
+      "論文名稱": "Backward Branch Prediction for a Low-Cost Microcontroller",
+      "會議名稱": "2011 National Computer Symposium (NCS)",
+      "作者群": "Shu-Hao Yeh, Hsiao-Chiao Juan, Lei Wang"
+    },
+    {
+      "論文名稱": "Image Contrast Enhancement Quality Evaluation Model",
+      "會議名稱": "2011 National Computer Symposium (NCS)",
+      "作者群": "Wen-Ta Hsieh, Chun-Hua Hung, Lei Wang"
+    },
+    {
+      "論文名稱": "A Secure Server Switching Architecture for DNS Service",
+      "會議名稱": "2011 2ND International Conference on Innovative Computing and Communication and 2011 Asia-Pacific Conference on Information Technology and Ocean Engineering (CICC-ITOE 2011)",
+      "作者群": "Li Bo Wen, Lei Wang"
+    },
+    {
+      "論文名稱": "Practical Image Contrast Enhancement Quality Index",
+      "會議名稱": "2011 2ND International Conference on Innovative Computing and Communication and 2011 Asia-Pacific Conference on Information Technology and Ocean Engineering (CICC-ITOE 2011)",
+      "作者群": "Wen-Ta Hsieh, Lei Wang"
+    },
+    {
+      "論文名稱": "Dynamic Control for Secure Server Switching System",
+      "會議名稱": "2011 2ND International Conference on Innovative Computing and Communication and 2011 Asia-Pacific Conference on Information Technology and Ocean Engineering (CICC-ITOE 2011)",
+      "作者群": "Yu-13.\tYu-Hong Chen, Lei Wang"
+    },
+    {
+      "論文名稱": "A Contrast Enhancement Method for video images",
+      "會議名稱": "Proc of 2010 Cross-Strait Conference on Information Science and Technology",
+      "作者群": "Kuen-Jan He, Kuan-Yu Chen, Lei Wang"
+    },
+    {
+      "論文名稱": "Implementation of a new contrast enhancement method for video images",
+      "會議名稱": "2010 the 5th IEEE Conference on Industrial Electronics and Applications (ICIEA)",
+      "作者群": "Kuen-Jan He;   Chien-Chih Chen;   Ching-Hsi Lu;  Lei Wang"
+    },
+    {
+      "論文名稱": "Secure Server Switching System",
+      "會議名稱": "International Conference on Computer Engineering and Applications (ICCEA)",
+      "作者群": "Yu-Sheng Wang, Lei Wang"
+    },
+    {
+      "論文名稱": "Platform For Real Time Image Processing",
+      "會議名稱": "Workshop of Image Processig, Computer Graphics, and Multimedia Technologies, ICM",
+      "作者群": "Kuan-Yu Chen, Kuan-Cheng Huang, Lei Wang"
+    },
+    {
+      "論文名稱": "Image Contrast Enhancement Technique Be Applied Standard Definition Television",
+      "會議名稱": "Workshop of Image Processig, Computer Graphics, and Multimedia Technologies, ICM",
+      "作者群": "Kun-Zhan He, Chien-Chin Chen, Lei Wang"
+    },
+    {
+      "論文名稱": "Secure Server Switching System with extensibility",
+      "會議名稱": "National Computer Symposium (NCS)",
+      "作者群": "Yu-Sheng Wang, Lei Wang"
+    },
+    {
+      "論文名稱": "A New Contrast Enhancement Technique Implemented on FPGA for Real Time Image Processing",
+      "會議名稱": "2009 Fifth International Conference on Intelligent Information Hiding and Multimedia Signal Processing",
+      "作者群": "Ching-Hsi Lu, Hong-Yang Hsu, Lei Wang"
+    },
+    {
+      "論文名稱": "Secure Server Switching System",
+      "會議名稱": "Cryptology and Information Security Conference (CISC)",
+      "作者群": "Yu-Sheng Wang, Lei Wang"
+    },
+    {
+      "論文名稱": "A New Contrast Enhancement Technique by Adaptively Increasing the Value of Histogram",
+      "會議名稱": "2009 IEEE Workshop on Imaging Systems and Techniques (IST 2009)",
+      "作者群": "Ching-Hsi Lu, Hong-Yang Hsu, Lei Wang,"
+    },
+    {
+      "論文名稱": "行動電子裝置之資料隱私保護架構",
+      "會議名稱": "Workshop on Consumer Electronics, (WCE2008)",
+      "作者群": "王鈺勝, 王壘"
+    },
+    {
+      "論文名稱": "迴向分支預測的循環佇列機制",
+      "會議名稱": "全國計算機會議(NCS2007)",
+      "作者群": "羅宏毅, 王壘"
+    },
+    {
+      "論文名稱": "Efficient and Secure Authentication Protocols for Mobile VoIP Communications",
+      "會議名稱": "The 2006 International Conference on Security and Management",
+      "作者群": "Huang-Ju Chen, Jyh-Ming Huang, and Lei Wang"
+    },
+    {
+      "論文名稱": "應用於行動式網路電話之安全有效的認證協定",
+      "會議名稱": "the 12th Mobile Computing Workshop",
+      "作者群": "陳皇車, 蕭有程, 黃志銘, 王壘"
+    },
+    {
+      "論文名稱": "Efficient and Secure Authentication Protocols for Mobile VoIP Applications",
+      "會議名稱": "the 12th Mobile Computing Workshop",
+      "作者群": "Huang-Jyu Chen, Yu-Cheng Hsiao, Jyh-Ming Huang, and Lei Wang"
+    },
+    {
+      "論文名稱": " SmartARM-An Improved Microarchitecture Design for ARM Processor",
+      "會議名稱": "中華民國九十四年全國計算機會議(NCS2005)",
+      "作者群": "羅宏毅, 王壘"
+    },
+    {
+      "論文名稱": " BBQ_A simple and effective prediction circuit for backward branches",
+      "會議名稱": "中華民國九十四年全國計算機會議(NCS2005)",
+      "作者群": "曾瓊賢, 王壘"
+    },
+    {
+      "論文名稱": "Dynamic Optimization for IEEE 802.11 DCF Access Method for Noisy Channels",
+      "會議名稱": "Proceedings of the 2004 International Computer Symposium (ICS2004)",
+      "作者群": "Li-Fu Wu, Dr-Jiunn Deng, L. Wang"
+    },
+    {
+      "論文名稱": "CSET Convenience Secure Electronic Transaction: 便利安全電子交易",
+      "會議名稱": "Information Security Conference 2004 (ISC2004)",
+      "作者群": "李宗沂, 蔡憲邦, 王壘"
+    },
+    {
+      "論文名稱": "使用C++在Linux上實作事件驅動式之文字介面視窗類別庫",
+      "會議名稱": "中華民國九十二年全國計算機會議(NCS2003)",
+      "作者群": "馮振祥、王壘、柏小松"
+    },
+    {
+      "論文名稱": "具最佳化繞徑之行動區網設計",
+      "會議名稱": "中華民國九十二年全國計算機會議(NCS2003)",
+      "作者群": "陳政揚, 王壘"
+    },
+    {
+      "論文名稱": "具特殊指令支援的ARM處理器之電路設計",
+      "會議名稱": "中華民國九十二年全國計算機會議(NCS2003)",
+      "作者群": "范佐毅, 王壘"
+    },
+    {
+      "論文名稱": "Equipping the SIMD MAC Operations into embedded RISC Processors",
+      "會議名稱": "Proceedings of the 2002 International Computer Symposium (ICS2002)",
+      "作者群": "L. Wang, Leo Fang and H. Y. Hsu"
+    },
+    {
+      "論文名稱": "由指令集架構提昇加密演算之效能",
+      "會議名稱": "12屆全國資訊安全會議",
+      "作者群": "劉嘉樺、王壘、徐弘洋"
+    },
+    {
+      "論文名稱": "一個行動網路系統之設計",
+      "會議名稱": "Proceedings of the 13th International Conference on Information Management(ICIM2002)",
+      "作者群": "廖琮偉、徐弘洋、王壘"
+    },
+    {
+      "論文名稱": "A Theoretical Analysis for Instruction Boosting in ILP Processors",
+      "會議名稱": "The 2001 International Symposium on Information Systems and Engineering (ISE'2001)",
+      "作者群": "L. Wang and Ted C. Yang"
+    },
+    {
+      "論文名稱": "On the Design and Modeling of a Homogeneous VLIW Architecture",
+      "會議名稱": "International Conference on Computer Architecture, ICS",
+      "作者群": "Ted C. Yang and L. Wang"
+    },
+    {
+      "論文名稱": "A Dual-Mode Homogeneous VLIW Computer and Its System Features",
+      "會議名稱": "the Workshop on CPU Research and Development",
+      "作者群": "L. Wang, J. W. Jou, H. Y. Hsu, and Ted C. Yang"
+    },
+    {
+      "論文名稱": "On Performance Evaluation of Shift Scheduling and HVLIW Architecture",
+      "會議名稱": "the first Workshop on Compiler Techniques for High-Performance Computing",
+      "作者群": "C. R. Huang, J. W. Jou, L. Wang, and Ted C. Yang"
+    },
+    {
+      "論文名稱": "The Design of Asymmetrical Register Structure for VLIW/FC",
+      "會議名稱": "International Computer Symposium",
+      "作者群": "W. C. Tseng, L. Wang, H. Y. Hsu, and Ted C. Yang"
+    }
+  ],
+  "book": [
+    {
+      "專業書籍": "ARM Cortex-M3 32位元微控制器原理與應用－HT32F1655/1656",
+      "出版單位": "全華科技圖書",
+      "作者群": "王 壘, 袁世一, 王益文, 陳德生"
+    },
+    {
+      "專業書籍": "計算機概論",
+      "出版單位": "自行出版",
+      "作者群": "王壘"
+    },
+    {
+      "專業書籍": "中部科學園區推動計畫：基於 OFDM 調變技術之無線通訊系統開發(II)",
+      "出版單位": "國科會",
+      "作者群": "邱創乾,何滿龍,王健仁,廖和恩,曾憲輝,王壘"
+    }
+  ],
+  "patent": [
+    {
+      "title": "發明",
+      "desc": "動脈硬化風險評估系統"
+    },
+    {
+      "title": "發明",
+      "desc": "用於團隊活動之穿戴式生理感測系統"
+    },
+    {
+      "title": "發明",
+      "desc": "直方圖局部影像對比增強的方法與裝置"
+    },
+    {
+      "title": "發明",
+      "desc": "可擴充式安全伺服器交替系統"
+    },
+    {
+      "title": "發明",
+      "desc": "A prediction mechanism for backward branch instructions"
+    }
+  ],
+  "most": [
+    {
+      "name": "基於PPG訊號之多重特徵提取以實現複合式多通道卷積神經網路模型的血壓量測",
+      "schoolYear": "112"
+    },
+    {
+      "name": "結合模組化AIoT感應器無線網路與深度學習技術之雲端即時工具機維護診斷系統",
+      "schoolYear": "110"
+    },
+    {
+      "name": "以PPG訊號開發並實作一個穿戴式血壓監控系統",
+      "schoolYear": "109"
+    },
+    {
+      "name": "團隊用穿戴式裝置整合服務平台",
+      "schoolYear": "107"
+    },
+    {
+      "name": "智慧型聽音辨位監視系統",
+      "schoolYear": "102"
+    },
+    {
+      "name": "交替式安全伺服器系統之動態輪轉策略研究與實作",
+      "schoolYear": "101"
+    },
+    {
+      "name": "影像對比增強之AIVHE實作",
+      "schoolYear": "98"
+    },
+    {
+      "name": "以SmartARM為基礎的可重組計算系統平台之FPGA研製(2/2)",
+      "schoolYear": "95"
+    },
+    {
+      "name": "將Smart ARM處理器微架構以Cell-Based展現",
+      "schoolYear": "95"
+    },
+    {
+      "name": "以SmartARM為基礎的可重組計算系統平台之FPGA研製(1/2)",
+      "schoolYear": "94"
+    },
+    {
+      "name": "SmartARM-一個與ARM相容的嵌入式處理器核心之設計 (II)",
+      "schoolYear": "93"
+    },
+    {
+      "name": "中部科學園區推動計畫：基於OFDM調變技術之無線通訊系統開發(II)",
+      "schoolYear": "92"
+    },
+    {
+      "name": "SmartARM-一個與ARM相容的嵌入式處理器核心之設計",
+      "schoolYear": "92"
+    },
+    {
+      "name": "中部科學園區推動計畫：基於OFDM調變技術之無線通訊系統開發",
+      "schoolYear": "91"
+    },
+    {
+      "name": "由指令集到微架構的改良以提昇ARM處理器之效能",
+      "schoolYear": "91"
+    },
+    {
+      "name": "提昇嵌入式處理器效能之技術研究",
+      "schoolYear": "90"
+    }
+  ],
+  "tech": [
+    {
+      "論文名稱": "ARM Cortex-M3 32位元微控制器原理與應用－HT32F1655/1656 (2017-04)",
+      "書名": "ARM Cortex-M3 32位元微控制器原理與應用－HT32F1655/1656",
+      "作者群": "王 壘/袁世一/王益文/陳德生"
+    },
+    {
+      "論文名稱": "嵌入式系統設計實務-電路與驅動程式 (2007-08)",
+      "書名": "嵌入式系統設計實務-電路與驅動程式",
+      "作者群": "袁世一、王壘、劉嘉政"
+    }
+  ],
+  "induAca": [
+    "基於PPG信號多面向改進血糖預測模型 (2024-09 to 2025-08)",
+    "「表面紋理特徵提取平台」計畫 (2021-07 to 2021-10)",
+    "具人工智慧深度學習能力之智慧感測平台 (2019-12 to 2020-01)",
+    "運動團隊穿戴式即時生理感測裝置開發計畫 (2018-09 to 2019-05)",
+    "桃園捷運的無線電傳輸系統斷訊問題先期研究 (2016-07 to 2016-10)",
+    "智慧停車場之車位感測及彩光指示系統 (2016-06 to 2017-05)",
+    "自行車智慧駐車系統開發-資通訊整合技術開發 (2015-05 to 2015-11)",
+    "智慧停車場平台 (2015-05 to 2016-02)",
+    "104年度磨課師課程推動計畫-A類新星計畫【把智慧嵌入這個大千世界】 (2015-05 to 2016-04)",
+    "光脈式血氧儀之雛型製作及技術研發 (2014-08 to 2015-09)",
+    "大學校院自行選送人才出國研修-王壘 (2006-02 to 2006-07)"
+  ],
+  "perform": [],
+  "reward": [
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "最佳全球學術研發伙伴 (108, 2019-11) - 泰科電子(TE Connectivity)",
+    "逢甲大學優良教材獎勵優等獎 (107, 2018-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (107, 2018-11) - 逢甲大學",
+    "106學年度教學績優獎 (106, 2017-11) - 逢甲大學",
+    "第十二屆盛群創意大賽銀牌獎 (106, 2017-11) - 盛群電子",
+    "第十二屆盛群創意大賽銅牌獎 (106, 2017-11) - 盛群電子",
+    "逢甲大學優良教師 (105, 2016-11) - 逢甲大學",
+    "逢甲大學優良教材獎勵佳作獎 (105, 2016-11) - 逢甲大學",
+    "第16屆金矽獎 (104, 2016-05) - 旺宏電子",
+    "逢甲大學論文著作獎勵優良獎 (104, 2015-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (104, 2015-11) - 逢甲大學",
+    "智慧電子系統設計競賽Intel 特別獎 (103, 2015-07) - Intel",
+    "全國大專校院智慧電子系統設計競賽獲優等獎 (103, 2015-07) - 教育部",
+    "逢甲大學論文著作獎勵優良獎 (103, 2014-11) - 逢甲大學",
+    "第九屆盛群創意大賽傑出獎 (103, 2014-11) - 盛群電子",
+    "第14屆金矽獎 (102, 2014-05) - 旺宏電子",
+    "102學年度社團評鑑自治性社團第 (102, 2013-12) - 逢甲大學",
+    "第八屆盛群創意大賽傑出獎 (102, 2013-11) - 盛群半導體",
+    "逢甲大學論文著作獎勵優良獎 (102, 2013-11) - 逢甲大學",
+    "第三屆MATLAB & Simulink論文佳 (101, 2013-05) - 鈦思科技/逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (100, 2011-11) - 逢甲大學",
+    "論文著作傑出獎 (99, 2010-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (99, 2010-11) - 逢甲大學",
+    "中華民國斐陶斐學會榮譽會員 (98, 2010-06) - 中華民國斐陶斐學會",
+    "逢甲大學斐陶斐榮譽學會榮譽會員 (98, 2010-06) - 逢甲大學斐陶斐學會",
+    "電機系優良教師 (94, 2005-09) - 資電學院",
+    "逢甲大學論文著作獎勵優良獎 (91, 2002-11) - 逢甲大學"
+  ],
+  "speech": [
+    {
+      "演講題目": "逢甲的職輔系統之發展與展望",
+      "邀請單位": "銘傳大學",
+      "演講日期": "2018-10"
+    },
+    {
+      "演講題目": "學校與企業如何合作，較易產生互信、互利和互惠",
+      "邀請單位": "至聖工業",
+      "演講日期": "2017-12"
+    },
+    {
+      "演講題目": "逢甲大學就輔工作之現況與展望",
+      "邀請單位": "遠東科技大學",
+      "演講日期": "2017-07"
+    },
+    {
+      "演講題目": "可擴充式安全伺服器交替系統-一種兼具容錯與負載平衡的容侵架構",
+      "邀請單位": "國立中興大學資訊科學與工程學系",
+      "演講日期": "2010-01"
+    },
+    {
+      "演講題目": "Enhancing the Performance of ARM Processor From the View Poi",
+      "邀請單位": "上海大學通信與信息工程學院",
+      "演講日期": "2006-04"
+    },
+    {
+      "演講題目": "由ARM處理器的演進看嵌入式處理器的發展",
+      "邀請單位": "彰化師範大學電子工程所",
+      "演講日期": "2004-05"
+    }
+  ],
+  "material": [
+    "嵌入式系統核心電路設計實驗\t嵌入式研究中心\t王壘\t複合教材",
+    "把智慧嵌入這個大千世界\t雲端學院\t王 壘, 王益文, 陳德生, 袁世一\t磨課師課程"
+  ],
+  "tal": []
+}

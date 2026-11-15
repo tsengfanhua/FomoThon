@@ -1,0 +1,914 @@
+{
+  "teacherId": "T04062",
+  "name": "陳錫民",
+  "mainUnit": "資訊電機學院",
+  "detailUnit": "資訊工程學系",
+  "skill": [
+    "軟體工程(Software Engineering)",
+    "DevOps技術(DevOps Technology)",
+    "服務導向運算(Service-oriented Computing)",
+    "分散式運算(Distributed Computing)"
+  ],
+  "edu": [
+    "中央大學 資訊工程學系 博士",
+    "中央大學 資訊工程學系 碩士"
+  ],
+  "fcuExp": [
+    "資訊工程學系學士後專班(籌備) 主任",
+    "蘋果公司區域教育培訓中心 副主任",
+    "資訊工程學系學士後專班 主任",
+    "資訊工程學系 系主任",
+    "蘋果公司區域教育培訓中心 副主任",
+    "永續發展與社會責任處 研究員",
+    "資訊工程學系 助理教授",
+    "資訊工程學系 副教授",
+    "資訊工程學系 教授"
+  ],
+  "currjob": [],
+  "otherExp": [
+    "台灣軟體工程學會  秘書長",
+    "台灣軟體工程學會  理事",
+    "MYCOM OSI TW R&D Center 軟體架構師"
+  ],
+  "journal": [
+    {
+      "論文名稱": "A gamified method for teaching version control concepts in programming courses using the Git Education Game",
+      "期刊名稱": "Electronics (SCIE)",
+      "作者群": "Hsi-Min Chen, Bao-An Nguyen, You-Wei Chang, Chyi-Ren Dow"
+    },
+    {
+      "論文名稱": "ProgEdu4Web: An Automated Assessment Tool for Motivating the Learning of Web Programming Course",
+      "期刊名稱": "Computer Applications in Engineering Education (SCIE)",
+      "作者群": "Thanh Hoang Duong, Hsi-Min Chen"
+    },
+    {
+      "論文名稱": "An Educational Card Game Approach to Motivating the Learning of Software Engineering",
+      "期刊名稱": "Journal of Information Science and Engineering (SCIE)",
+      "作者群": "Nguyen Bao-An, Thanh Hoang Duong, Ling Ling Tsao, Hsi-Min Chen"
+    },
+    {
+      "論文名稱": "URNet: An UNet-Based Model with Residual Mechanism for Monocular Depth Estimation",
+      "期刊名稱": "Electronics (SCIE)",
+      "作者群": "Hoang-Thanh Duong, Hsi-Min Chen and Che-Cheng Chang*"
+    },
+    {
+      "論文名稱": "Identifying nonconformities in contributions to programming projects: From an engagement perspective in improving code quality",
+      "期刊名稱": "Behaviour & Information Technology (SSCI,SCIE)",
+      "作者群": "Bao-An Nguyen, Hsi-Min Chen*, Chyi-Ren Dow"
+    },
+    {
+      "論文名稱": "Exploring time-related micro-behavioral patterns in a Python programming online course",
+      "期刊名稱": "Journal of Information Science and Engineering (SCIE)",
+      "作者群": "Hsi-Min Chen, Nguyen Bao-An, Chyi-Ren Dow, Nien-Lin Hsueh,  An-Chi Liu"
+    },
+    {
+      "論文名稱": "Code-quality evaluation scheme for assessment of student contributions to programming projects",
+      "期刊名稱": "Journal of Systems and Software (SCIE,EI)",
+      "作者群": "Hsi-Min Chen, Bao-An Nguyen, Chyi-Ren Dow"
+    },
+    {
+      "論文名稱": "Identification and Validation of Web Themes: A DOM-structure Matching Approach",
+      "期刊名稱": "Journal of Information Science and Engineering (SCIE,EI)",
+      "作者群": "Bao-An Nguyen , Hsi-Min Chen*, Chyi-Ren Dow, Yan-Ting Chen, Hoang-Thanh Duong"
+    },
+    {
+      "論文名稱": "Navigation Flow Modeling as a Basis for the Automatic Generation of Android APPs",
+      "期刊名稱": "Journal of Information Science and Engineering (SCIE,EI)",
+      "作者群": "Hsi-Min Chen*, Tsung-Chi Lin, Lien-Wu Chen, Bao-An Nguyen, Yi-Chung Chen"
+    },
+    {
+      "論文名稱": "Cache-Enabled and Context-Aware Approach to Building Composite Mobile Apps",
+      "期刊名稱": "Journal of Information Science and Engineering (SCIE,EI)",
+      "作者群": "Shang-Pin Ma,  Chi-Chia Li,  Shin-Jie Lee,  Hsi-Min Chen,  Wen-Tin Lee"
+    },
+    {
+      "論文名稱": "Intelligent Item Searching with Gesture-Based Interfaces through Mobile Cloud Computing",
+      "期刊名稱": "IEEE Transactions on Emerging Topics in Computational Intelligence (EI)",
+      "作者群": "L.-W. Chen*, Y.-E. Li, J.-X. Liu, H.-M. Chen, and M.-F. Tsai"
+    },
+    {
+      "論文名稱": "Analysis of Learning Behavior in an Automated Programming Assessment Environment: a Code Quality Perspective",
+      "期刊名稱": "IEEE Access (SCIE,EI)",
+      "作者群": "Hsi-Min Chen*, Bao-An Nguyen, Yi-Xiang Yan, Chyi-Ren Dow"
+    },
+    {
+      "論文名稱": "A Low-Cost Add-On Sensor and Algorithm to Help Small- and Medium-sized Enterprises Monitor Machinery and Schedule Processes",
+      "期刊名稱": "Applied Sciences (SCIE)",
+      "作者群": "Yi-Chung Chen, Kuo-Cheng Ting, Yo-Ming Chen, Don-Lin Yang, Hsi-Min Chen, Jia-Ching Ying*"
+    },
+    {
+      "論文名稱": "Web API Discovery Using Semantic Similarity and Hungarian Algorithm. Journal of Internet Technology",
+      "期刊名稱": "Journal of Internet Technology (SCIE,EI)",
+      "作者群": "Shang-Pin Ma, Hsuan-Ju Lin, Hsi-Min Chen, Ying-Jen Chen, Wen-Tin Lee"
+    },
+    {
+      "論文名稱": "An Automated Assessment System for Analysis of Coding Convention Violations in Java Programming Assignments",
+      "期刊名稱": "Journal of Information Science and Engineering (SCIE,EI)",
+      "作者群": "Hsi-Min Chen, Wei-Han Chen, Chi-Chen Lee"
+    },
+    {
+      "論文名稱": "Applying learning analytics to deconstruct user engagement by using log data of MOOCs",
+      "期刊名稱": "Journal of Information Science and Engineering (SCIE,EI)",
+      "作者群": "Ming-Chi Liu, Chen-Hsiang Yu, Jungpin Wu, An-Chi Liu, Hsi-Min Chen*"
+    },
+    {
+      "論文名稱": "A Comment-Driven Approach to API Usage Patterns Discovery and Search",
+      "期刊名稱": "Journal of Internet Technology (SCIE)",
+      "作者群": "Shin-Jie Lee, Xavier Lin, Wu-Chen Su, Hsi-Min Chen"
+    },
+    {
+      "論文名稱": "Machine Monitoring by Using Fuzzy-Neural Networks\r\n",
+      "期刊名稱": "International Journal of Automation and Smart Technology (INSPEC)",
+      "作者群": "Kuo-Cheng Ting, Tzu-Yu Lin, Yi-Chung Chen, Jia-Ching Ying, Don-Lin Yang, and Hsi-Min Chen"
+    },
+    {
+      "論文名稱": "Finding m-Similar Users in Social Networks Using the m-representative Skyline Query",
+      "期刊名稱": "Information Discovery and Delivery (ESCI)",
+      "作者群": "Kuo-Cheng Ting, Ruei-Ping Wang, Yi-Chung Chen, Don-Lin Yang, and Hsi-Min Chen"
+    },
+    {
+      "論文名稱": "Automatic machine status prediction in the era of Industry 4.0: Case study of machines in a spring factory",
+      "期刊名稱": "Journal of Systems Architecture (SCIE,EI)",
+      "作者群": "Cheng-Ju Kuo, Kuo-Cheng Ting, Yi-Chung Chen, Don-Lin Yang, Hsi-Min Chen"
+    },
+    {
+      "論文名稱": "Multi-criteria Path Planning for Disaster Relief: An Example Using the Flood Risk Map of Shalu District, Taiwan",
+      "期刊名稱": "Advances in Intelligent Systems and Computing (EI)",
+      "作者群": "Sheng-Wei Qiu, Yi-Chung Chen*, Tsu-Chiang Lei, Hsin-Ping Wang, Hsi-Min Chen"
+    },
+    {
+      "論文名稱": "Cyber-Physical Signage Interacting with Gesture-Based Human-Machine Interfaces through Mobile Cloud Computing",
+      "期刊名稱": "IEEE Access (SCIE,EI)",
+      "作者群": "Lien-Wu Chen, Yu-Fan Ho, Ming-Fong Tsai, Hsi-Min Chen and Chi-Fu Huang"
+    },
+    {
+      "論文名稱": "Itinerary-based Mobile Agent as a Basis for Distributed OSGi Services",
+      "期刊名稱": "IEEE Transactions on Computers (SCIE)",
+      "作者群": "Jonathan Lee, Shin-Jie Lee, Hsi-Min Chen, and Kuo-Hsun Hsu"
+    },
+    {
+      "論文名稱": "Composing web services enacted by autonomous agents through agent-centric contract net protocol",
+      "期刊名稱": "Information and Software Technology (SCIE)",
+      "作者群": "Jonathan Lee, Shin-Jie Lee, Hsi-Min Chen, and Chia-Ling Wu"
+    },
+    {
+      "論文名稱": "A Service-oriented Collaborative Framework for High-performance Data Transfer in Grids",
+      "期刊名稱": "Journal of Internet Technology (SCIE,EI)",
+      "作者群": "Chien-Min Wang, Hsi-Min Chen, Chun-Chen Hsu, and Jonathan Lee"
+    },
+    {
+      "論文名稱": "Dynamic resource selection heuristics for a non-reserved bidding-based Grid environment",
+      "期刊名稱": "Future Generation Computer Systems (SCIE)",
+      "作者群": "Chien-Min Wang, Hsi-Min Chen, Chun-Chen Hsu, and Jonathan Lee"
+    },
+    {
+      "論文名稱": "Optimizing Server Placement in Hierarchical Grid Environments",
+      "期刊名稱": "The Journal of Supercomputing (SCIE)",
+      "作者群": "Chien-Min Wang, Chun-Chen Hsu, Pangfeng Liu, Hsi-Min Chen, and Jan-Jan Wu"
+    },
+    {
+      "論文名稱": "A Dual-Mode Exerciser for a Collaborative Computing Environment",
+      "期刊名稱": "Journal of Internet Technology (SCIE,EI)",
+      "作者群": "Chien-Min Wang, Shyh-Fong Hong, Shun-Te Wang, Hsi-Min Chen"
+    },
+    {
+      "論文名稱": "Experiences in Implementing a Java Collaborative IDE over the Internet",
+      "期刊名稱": "Journal of Internet Technology (SCIE,EI)",
+      "作者群": "Chien-Min Wang, Shun-Te Wang, Shyh-Fong Hong, Hsi-Min Chen"
+    }
+  ],
+  "journal2": [],
+  "conference": [
+    {
+      "論文名稱": "Engaging Students in Learning Version Control Systems: GITainment - A Serious Game\nApproach to Bridging Theory and Practice",
+      "會議名稱": "2024 5th International Conference on Artificial Intelligence in Education Technology",
+      "作者群": "Tzu-Yuan Chen, Hsi-Min Chen, Yen-Tse Hsueh"
+    },
+    {
+      "論文名稱": "Design-Implementation Discrepancy Analysis for Mobile Application Interfaces Using Object Detection Methods",
+      "會議名稱": "International Conference on Information and Education Technology (ICIET2024)",
+      "作者群": "Yen-Tse Hsueh, Hsi-Min Chen*, Tzu-Yuan Chen"
+    },
+    {
+      "論文名稱": "GitHub-Driven Learning: A Case Study in Agile-Infused Software Design Courses",
+      "會議名稱": "The 2023 8th International Conference on Information Systems Engineering (ICISE2023)",
+      "作者群": "Wei-Yang Chen, Hsi-Min Chen, Yen-Tse Hsueh"
+    },
+    {
+      "論文名稱": "Applying Visualization Dashboard with Peer Review Activity on Programming Assignment Assessment System",
+      "會議名稱": "The 6th International Symposium on Engineering and Applied Science",
+      "作者群": "Chuan-Lin Huang, Hsi-Min Chen, Wei-Yang Chen"
+    },
+    {
+      "論文名稱": "基於程式碼審查活動之學生學習行為分析",
+      "會議名稱": "2023 台灣軟體工程研討會 (TCSE2023)",
+      "作者群": "黃傳霖, 陳錫民, 陳維陽"
+    },
+    {
+      "論文名稱": "Building an Effective IT Team for Developing Large-scale Healthcare Information Systems",
+      "會議名稱": "2023 台灣軟體工程研討會 (TCSE 2022) English Paper Session",
+      "作者群": "Jonathan Lee, Jin-Chuan Sheu, Hsiao-Ching Nien, Hsi-Min Chen, Kuo-Hsun Hsu, Yi-Ling Lin"
+    },
+    {
+      "論文名稱": "Augmented Reality Based Tutorial for Learning Arduino",
+      "會議名稱": "European Advanced Educational Technology Conference (EAET 2023)",
+      "作者群": "Hsi-Min Chen, Bo-Yu Chen, Feng-Yi XUE, Yu-Hsun Chen"
+    },
+    {
+      "論文名稱": "Applying Two-rounds Collaborative Peer Review to Assess Students’ Programming Assignments",
+      "會議名稱": "IEEE International Conference on E-Business Engineering",
+      "作者群": "Ya-Chi Wang, Hsi-Min Chen and Chuan-Lin Huang"
+    },
+    {
+      "論文名稱": "從軟體品質的角度分析開源軟體專案成功影響因素之研究",
+      "會議名稱": "2022 台灣軟體工程研討會 (TCSE2022)",
+      "作者群": "黃鈺珊, 陳錫民"
+    },
+    {
+      "論文名稱": "整合雙回合同儕審查機制於程式評量系統之研發",
+      "會議名稱": "2022 台灣軟體工程研討會 (TCSE2022)",
+      "作者群": "王雅琪, 陳錫民, 黃傳霖"
+    },
+    {
+      "論文名稱": "Git Education Game - 程式碼版本控制學習遊戲之研發",
+      "會議名稱": "2022 台灣軟體工程研討會 (TCSE2022)",
+      "作者群": "張佑瑋, 陳維陽, 陳錫民"
+    },
+    {
+      "論文名稱": "Development of game cards for software engineering teaching",
+      "會議名稱": "2022 台灣軟體工程研討會 (TCSE 2022) English Paper Session",
+      "作者群": "Ling-Ling Tsao, Hsi-Min Chen"
+    },
+    {
+      "論文名稱": "Beriv: A platform applying Behavior-Driven Development to Web Application Testing",
+      "會議名稱": "全國計算機會議 (NCS 2021)",
+      "作者群": "Chih-Hsuan Cheng, Hsi-Min Chen"
+    },
+    {
+      "論文名稱": "應用行為驅動開發於Web 應用程式檢測",
+      "會議名稱": "2021台灣軟體工程研討會 (TCSE 2021)",
+      "作者群": "鄭志軒, 陳錫民"
+    },
+    {
+      "論文名稱": "Exploring time-related behavioral patterns in MOOCs: The Example of Python Courses",
+      "會議名稱": "2021台灣軟體工程研討會 (TCSE 2021)",
+      "作者群": "Bao-An Nguyen, Hsi-Min Chen, Nien-Lin Hsueh, An-Chi Liu, and Chyi-Ren Dow"
+    },
+    {
+      "論文名稱": "ProgEdu4Web: An Automated Programming Assessment System for Web Programming Courses",
+      "會議名稱": "2021台灣軟體工程研討會 (TCSE 2021)",
+      "作者群": "Hoang-Thanh Duong, Hsi-Min Chen"
+    },
+    {
+      "論文名稱": "基於程式碼品質的同儕互評系統之研發",
+      "會議名稱": "2021台灣軟體工程研討會 (TCSE 2021)",
+      "作者群": "陳俊瑋, 王雅琪. 曹綾玲, 陳錫民"
+    },
+    {
+      "論文名稱": "Measure Students' Contribution in Web Programming Projects by Exploring Source Code Repository",
+      "會議名稱": "International Computer Symposium 2020",
+      "作者群": "Bao-An Nguyen, Kuan-Yu Ho and Hsi-Min Chen"
+    },
+    {
+      "論文名稱": "基於 DevOps 技術之軟體品質驅動的 Android 作業檢測系統",
+      "會議名稱": "2020 台灣軟體工程研討會 (TCSE 2020)",
+      "作者群": "陳佳和, 陳冠合, 江瑋仁, 陳錫民*"
+    },
+    {
+      "論文名稱": "The Impact of Iterative Assessment System on Programming Learning Behavior",
+      "會議名稱": "International Conference on Educational and Information Technology (ICEIT 2020)",
+      "作者群": "Yi-Xiang Yan, Jung-Pin Wu, Bao-An Nguyen, Hsi-Min Chen*"
+    },
+    {
+      "論文名稱": "Towards Identification and Validation of Web Themes",
+      "會議名稱": "2019 International Conference on e-Business Engineering (ICEBE 2019)",
+      "作者群": "Yan-Ting Chen, Bao-An Nguyen, Kuan-Yu Ho, Hsi-Min Chen"
+    },
+    {
+      "論文名稱": "網頁主題樣板之辦別與檢測",
+      "會議名稱": "2019 台灣軟體工程研討會 (TCSE 2019)",
+      "作者群": "陳彥廷  and 陳錫民*"
+    },
+    {
+      "論文名稱": "Teaching Python Programming in Different Themes: An Experience Report",
+      "會議名稱": "eLearning forum Asia 2019",
+      "作者群": "Nien-Lin Hsueh and Hsi-Min Chen"
+    },
+    {
+      "論文名稱": "Using Online Judge System in an e-Learning and Programming Education",
+      "會議名稱": "eLearning Asia Forum 2019",
+      "作者群": "Nien Lin HSUEH and Hsi-Min CHEN"
+    },
+    {
+      "論文名稱": "Web程式設計之即時學習評量系統",
+      "會議名稱": "臺灣網際網路研討會 (TANET 2018)",
+      "作者群": "何禹, 嚴奕翔, 陳彥廷, 陳錫民*"
+    },
+    {
+      "論文名稱": "AR-based Taxi Recommendation by Leveraging Crowd Sharing Comments",
+      "會議名稱": "The 15th International Symposium on Pervasive Systems, Algorithms and Networks (I-SPAN 2018)",
+      "作者群": "Yan Ting Chen, Yu Ho, Yi Xiang Yan, Hsi-Min Chen*"
+    },
+    {
+      "論文名稱": "The Best Practice of University and Community Cooperation in Open Source Software Project - TV Station\nMedia Images Query System for Example",
+      "會議名稱": "The 15th International Symposium on Pervasive Systems, Algorithms, and Networks (I-SPAN 2018)",
+      "作者群": "Feng-Cheng Lin, Hsi-Min Chen, Shih-Feng Lin, Hsing-Yi Chu"
+    },
+    {
+      "論文名稱": "The Best Practice of University and Community Cooperation in Open Source Software Project - TV Station Media Images Query System for Example",
+      "會議名稱": "2018 IEEE 15th International Symposium on Pervasive Systems, Algorithms and Networks",
+      "作者群": "Feng-Cheng Lin, Hsi-Min Chen, Shih-Feng Lin, and Hsing-Yi Chu"
+    },
+    {
+      "論文名稱": "Scenario-Based Microservice Retrieval Using Word2Vec",
+      "會議名稱": "IEEE International Conference on e-Business Engineering (ICEBE 2018)",
+      "作者群": "Shang-Pin Ma, Yen Chuang, Ci-Wei Lan, Hsi-Min Chen, Chun-Ying Huang, Chia-Yu Li"
+    },
+    {
+      "論文名稱": "以操作流程模型為基礎的自動化生成Android App測試案例方法",
+      "會議名稱": "2018台灣軟體工程研討會(TCSE 2018)",
+      "作者群": "林宗祺, 陳彥廷, 何禹, 陳錫民*"
+    },
+    {
+      "論文名稱": "使用者視覺化規格轉換測試程式碼之自動化工具",
+      "會議名稱": "2018台灣軟體工程研討會(TCSE 2018)",
+      "作者群": "施智翔, 薛念林, 陳錫民"
+    },
+    {
+      "論文名稱": "建立於影片觀看分析之磨課師學習歷程分析",
+      "會議名稱": "2018台灣軟體工程研討會(TCSE 2018)",
+      "作者群": "薛念林, 莫剛, 陳錫民"
+    },
+    {
+      "論文名稱": "MDA-Based Android APP Generation By Using Screen Navigation Flows",
+      "會議名稱": "International Conference on INTERNET STUDIES (NETs 2018)",
+      "作者群": "Hsi-Min Chen*, Tsung-Chi Lin, Jun-Yong Huang, Nien-Lin Hsueh"
+    },
+    {
+      "論文名稱": "Multi-tasking multi-machine scheduling system for multi-stage multi-criteria production",
+      "會議名稱": "2018 International Conference on Precision Machinery and Manufacturing Technology (ICPMMT 2018)",
+      "作者群": "Shao-Chen Liu, Yu-Ren Chen, Cheng-Ju Kuo, Tzu-Yu Lin, Kuo-Cheng Ting, Don-Lin Yang, Hsi-Min Chen, Yi-Chung Chen"
+    },
+    {
+      "論文名稱": "從操作流程觀點生成Android應用程式的MDA軟體開發方法(最佳論文佳作)",
+      "會議名稱": "臺灣網際網路研討會 (TANET 2017)",
+      "作者群": "林宗祺, 陳錫民*"
+    },
+    {
+      "論文名稱": "以虛擬容器為基底的IoT服務管理機制",
+      "會議名稱": "2017台灣軟體工程研討會",
+      "作者群": "黃俊詠, 陳錫民*, 陳奕中"
+    },
+    {
+      "論文名稱": "基於共享機制的計程車評價分享平台 (最佳展示論文)",
+      "會議名稱": "2017台灣軟體工程研討會",
+      "作者群": "李霽烝, 陳薇涵, 陳錫民*"
+    },
+    {
+      "論文名稱": "OpenEdu磨課師系統學習資料分析報告",
+      "會議名稱": "2017 台灣軟體工程研討會",
+      "作者群": "薛念林, 莫剛, 陳錫民"
+    },
+    {
+      "論文名稱": "在社群網路中利用m-代表性天際線查詢搜尋m-相似的用戶",
+      "會議名稱": "2017 Taiwan Conference on Software Engineering",
+      "作者群": "Wing-Lun Siu, Kuo-Cheng Ting, Yi-Chung Chen, Don-Lin Yang, and Hsi-Min Chen"
+    },
+    {
+      "論文名稱": "The Development of an Ontology-Based Literature Recommender System：A Case Study on Nutrition Literature",
+      "會議名稱": "2017 IAARHIES 64th International Conference on IT & Computer Science",
+      "作者群": "Kuo-Hung Hsiao, Yi-Chung Chen, Hsi-Min Chen, Don-Lin Yang"
+    },
+    {
+      "論文名稱": "ProgEdu - An Automatic Assessment Platform for Programming Courses",
+      "會議名稱": "2017 IEEE International Conference on Applied System Innovation (ICASI 2017)",
+      "作者群": "Hsi-Min Chen*, Wei-Han Chen, Nien-Lin Hsueh, Chi-Chen Lee, Chia-Hsiu Li"
+    },
+    {
+      "論文名稱": "Multi-criteria path planning for disaster relief: An example using the flood risk map of Shalu District, Taiwan",
+      "會議名稱": "International Conference on Advances in Information and Communication Technology",
+      "作者群": "Sheng-Wei Qiu, Yi-Chung Chen*, Tsu-Chiang Lei, Hsin-Ping Wang, and Hsi-Min Chen"
+    },
+    {
+      "論文名稱": "Testing of AJAX-based Web Applications Using Hierarchical State Model",
+      "會議名稱": "IEEE International Conference on e-Business Engineering (ICEBE2016)",
+      "作者群": "Chien-Hung Liu, Chia-Jung Wu, Hsi-Min Chen*"
+    },
+    {
+      "論文名稱": "Interface-Compatibility-Based Semantic Web API Discovery",
+      "會議名稱": "2016 Taiwan Conference on Software Engineering",
+      "作者群": "Shang-Pin Ma, Hsuan-Ju Lin, Ying-Jen Chen, Wen-Tin Lee, Hsi-Min Chen"
+    },
+    {
+      "論文名稱": "Towards a Monitoring Framework for Microservices Applications Using Software Agents and ELK Stack",
+      "會議名稱": "International Conference on Internet Studies (NETs 2016)",
+      "作者群": "Hsi-Min Chen*, Nien-Lin Hsueh, Yi-Chung Chen, Xuan-Ye Yang, and Yang-Syuan Chen"
+    },
+    {
+      "論文名稱": "A Fast Way for Finding Similar Friends in Social Networks by using Neuro-Fuzzy Networks",
+      "會議名稱": "2016 International Conference on Machine Learning and Cybernetics (ICMLC 2016)",
+      "作者群": "Sheng-Min Chiu, Yi-Chung Chen*, Tien-Yen Chang, Yu-Liang Hsu, Heng-Yi Su, Hsi-Min Chen, Tzu-Yu Lin"
+    },
+    {
+      "論文名稱": "基於倒傳遞模糊類神經網路之快速天際線朋友尋找演算法",
+      "會議名稱": "2016 台灣軟體工程研討會(TCSE2016)",
+      "作者群": "邱勝敏, 陳奕中*, 楊東麟, 薛念林, 陳錫民"
+    },
+    {
+      "論文名稱": "針對Microservices 應用程式之以代理人為基底的監控機制",
+      "會議名稱": "2016 台灣軟體工程研討會(TCSE2016)",
+      "作者群": "陳錫民*,薛念林,陳奕中,李霽烝,陳仰萱"
+    },
+    {
+      "論文名稱": "An Efficient and Precise Algorithm for Finding Similar Friends in Distributed Social Networks",
+      "會議名稱": "International Conference on Information and Social Science (ISS 2016)",
+      "作者群": "Yi-Chung Chen*, Sheng-Min Chiu, Heng-Yi Su, Hsi-Min Chen, Yu-Liang Hsu, and Yu-Ren Yang"
+    },
+    {
+      "論文名稱": "An Analysis Framework for MOOCs Learning-A Case Study in OpenEdu",
+      "會議名稱": "eLearning Forum Asia 2016",
+      "作者群": "Y.S. Chen, Nien-Lin Hsueh*, A.C. Liu and Hsi-Min Chen"
+    },
+    {
+      "論文名稱": "Mercury: a Negotiation-based Resource Management System for Grids",
+      "會議名稱": "International Conference on Parallel and Distributed Systems",
+      "作者群": "Chien-Min Wang, Shao-Ting Wang, Hsi-Min Chen and Chun-Chen Hsu"
+    },
+    {
+      "論文名稱": "Delivery of Telematics Services Using OSGi and Mobile Agents",
+      "會議名稱": "IEEE International Conference on Systems, Man, and Cybernetics",
+      "作者群": "Jonathan Lee, Hsi-Min Chen, Shin-Jie Lee, Chia-Ling Wu, Wen-Tin Lee, Yao-Chiang Wang and Yong-Ling Chen"
+    },
+    {
+      "論文名稱": "Activating Mobile Agents from Contactless Smart Cards through a Java Bytecode Extractor",
+      "會議名稱": "IEEE International Conference on Systems, Man, and Cybernetics",
+      "作者群": "Jonathan Lee, Shin-Jie Lee, Hsi-Min Chen. Liang, J., Chia-Ling Wu, Yao-Chiang Wang"
+    },
+    {
+      "論文名稱": "Online Examination System for Software Engineering Courses using OpenID and RIA",
+      "會議名稱": "Conference on Object-Oriented Technology and Applications and Software Engineering",
+      "作者群": "Jonathan Lee, Lai-Kuo Hsu, Hsi-Min Chen"
+    },
+    {
+      "論文名稱": "FedMi: A Federation Middleware for Integrating Heterogeneous Data Grids",
+      "會議名稱": "IEEE International Symposium on Parallel and Distributed Processing with Applications",
+      "作者群": "Chien-Min Wang, Hsi-Min Chen, Chun-Chen Hsu, Chi-Chang Huang"
+    },
+    {
+      "論文名稱": "Telematics Services through Mobile Agents",
+      "會議名稱": "Seventh International Symposium on Neural Networks",
+      "作者群": "Jonathan Lee, Shin-Jie Lee, Hsi-Min Chen, Wen-Tin Lee"
+    },
+    {
+      "論文名稱": "A Mobile Agents Scheduling Mechanism",
+      "會議名稱": "National Computer Symposium",
+      "作者群": "Jonathan Lee, Shin-Jie Lee, Y.-L. Chen, Hsi-Min Chen,P.-F. Wang"
+    },
+    {
+      "論文名稱": "Design and Implementation of OSGi-Based Mobile Agent",
+      "會議名稱": "Fifth Taiwan Conference on Software Engineering",
+      "作者群": "Jonathan Lee, Shin-Jie Lee, Y.-L. Chen, Hsi-Min Chen, P.-F. Wang"
+    },
+    {
+      "論文名稱": "Online Metatask Scheduling Heuristics for a Bidding-based Distributed System",
+      "會議名稱": "IEEE International Conference on High Performance Computing and Communications",
+      "作者群": "Chien-Min Wang, Hsi-Min Chen, Chun-Chen Hsu"
+    },
+    {
+      "論文名稱": "Dynamic Role Binding with Agent-centric Contract Net Protocol in Agent Organizations",
+      "會議名稱": "IEEE International Conference on Systems, Man, and Cybernetics",
+      "作者群": "Jonathan Lee, Shin-Jie Lee, Hsi-Min Chen"
+    },
+    {
+      "論文名稱": "Dynamic Reconfigurable Mechanism for Delivering ATIS Services",
+      "會議名稱": "11th SDPS Transdisciplinary Conference on Integrated Design and Process Technology",
+      "作者群": "Jonathan Lee, Hsi-Min Chen, Shin-Jie Lee"
+    },
+    {
+      "論文名稱": "Resource Selection Strategies for a CNP-based Resource Management Model",
+      "會議名稱": "IEEE Asia-Pacific Services Computing Conference",
+      "作者群": "Chien-Min Wang, Hsi-Min Chen, Chun-Chen Hsu, Jonathan Lee"
+    },
+    {
+      "論文名稱": "Middleware of Taiwan UniGrid",
+      "會議名稱": "ACM symposium on Applied computing",
+      "作者群": "Po-Chi Shih, Hsi-Min Chen, Yeh-Ching Chung, Chien-Min Wang, Ruay-Shiung Chang, Ching-Hsien Hsu, Kuo-Chan Huang, Chao-Tung Yang"
+    },
+    {
+      "論文名稱": "Conformance Checking of Running Programs in Dynamic Aspect-Oriented Systems",
+      "會議名稱": "Asia-Pacific Software Engineering Conference",
+      "作者群": "Chien-Min Wang, Chi-Chang Huang, Hsi-Min Chen, Shun-Te Wang"
+    },
+    {
+      "論文名稱": "A Reliability-Aware Approach for Web Services Execution Planning",
+      "會議名稱": "IEEE Congress on Services",
+      "作者群": "Chien-Min Wang, Shun-Te Wang, Hsi-Min Chen, Chi-Chang Huang"
+    },
+    {
+      "論文名稱": "A High-Performance Virtual Storage System for Taiwan UniGrid",
+      "會議名稱": "International Conference on Grid and Pervasive Computing",
+      "作者群": "Chien-Min Wang, Hsi-Min Chen, Chun-Chen Hsu, Jan-Jan Wu"
+    },
+    {
+      "論文名稱": "Optimizing Server Placement for QoS Requirements in Hierarchical Grid Environments",
+      "會議名稱": "International Conference on Grid and Pervasive Computing",
+      "作者群": "Chien-Min Wang, Chun-Chen Hsu, Pangfeng Liu, Hsi-Min Chen, Jan-Jan Wu"
+    },
+    {
+      "論文名稱": "Possibilistic Petri Nets as a Basis for CNP-Based Bidding Mechanism",
+      "會議名稱": "IEEE International Conference on Systems, Man, and Cybernetics",
+      "作者群": "Jonathan Lee, Hsi-Min Chen, Shang-Pin Ma, Yao-Chiang Wang; Shin-Jie Lee"
+    },
+    {
+      "論文名稱": "An Extensible Mechanism for Long-Term Persistence of JavaBeans Components",
+      "會議名稱": "International Symposium on the Principles and Practice of Programming in Java",
+      "作者群": "Chien-Min Wang, Shun-Te Wang, Hsi-Min Chen,Chi-Chang Huang"
+    },
+    {
+      "論文名稱": "Optimizing Server Placement in Hierarchical Grid Environments",
+      "會議名稱": "International Conference on Grid and Pervasive Computing",
+      "作者群": "Chien-Min Wang, Chun-Chen Hsu, Pangfeng Liu, Hsi-Min Chen, Jan-Jan Wu"
+    },
+    {
+      "論文名稱": "Efficient Multi-Source Data Transfer in Data Grids",
+      "會議名稱": "International Symposium on Cluster Computing and the Grid",
+      "作者群": "Chien-Min Wang, Chun-Chen Hsu, Hsi-Min Chen, Jan-Jan Wu"
+    },
+    {
+      "論文名稱": "A Tree-Structured Persistence Server for Data Management of Collaborative Applications",
+      "會議名稱": "International Conference on Advanced Information Networking and Applications",
+      "作者群": "Chien-Min Wang, Hsi-Min Chen, Gen-Cher Lee, Shun-Te Wang, Shyh-Fong Hong"
+    },
+    {
+      "論文名稱": "Towards a Service-based Collaborative Framework for Data-intensive Grid Applications",
+      "會議名稱": "International Conference on Parallel and Distributed Systems",
+      "作者群": "Hsi-Min Chen,Chao-Chin Chang, Jan-Jan Wu, Chien-Min Wang, Chun-Chen Hsu"
+    },
+    {
+      "論文名稱": "Java Event Broadcasting in CSCW Environment",
+      "會議名稱": "International Conference on the Principles and Practice of Programming in Java",
+      "作者群": "Chien-Min Wang, Shun-Te Wang, Shyh-Fong Hong, Hsi-Min Chen"
+    }
+  ],
+  "book": [
+    {
+      "專業書籍": "Utilizing Learning Analytics in an Automated Programming Assessment System to Enhance Software Practice Education",
+      "出版單位": "IGI Global",
+      "作者群": "Bao-An Nguyen, Nhut-Lam Nguyen, Hsi-Min Chen"
+    }
+  ],
+  "patent": [],
+  "most": [
+    {
+      "name": "以同儕審查為基礎的學生軟體專案之貢獻分析洞察系統(2/2)",
+      "schoolYear": "113"
+    },
+    {
+      "name": "(博士增核)以同儕審查為基礎的學生軟體專案之貢獻分析洞察系統(2/2)",
+      "schoolYear": "113"
+    },
+    {
+      "name": "程式單元開發歷程管理系統之研發",
+      "schoolYear": "113"
+    },
+    {
+      "name": "(博士增核)以同儕審查為基礎的學生軟體專案之貢獻分析洞察系統(1/2)",
+      "schoolYear": "112"
+    },
+    {
+      "name": "以同儕審查為基礎的學生軟體專案之貢獻分析洞察系統(1/2)",
+      "schoolYear": "112"
+    },
+    {
+      "name": "API測試之除錯視覺化輔助工具",
+      "schoolYear": "112"
+    },
+    {
+      "name": "以程式品質驅動的自動化Web作業評量系統之研發(3/3)",
+      "schoolYear": "111"
+    },
+    {
+      "name": "應用非同質化代幣技術於軟體檢測外包機制之研發",
+      "schoolYear": "111"
+    },
+    {
+      "name": "以程式品質驅動的自動化Web作業評量系統之研發(2/3)",
+      "schoolYear": "110"
+    },
+    {
+      "name": "基於區塊鏈技術的學伴共學平台之研發",
+      "schoolYear": "110"
+    },
+    {
+      "name": "應用於Web受測系統之行為驅動開發的測試案例設計與檢測平台",
+      "schoolYear": "110"
+    },
+    {
+      "name": "(1/3)產學技術聯盟合作計畫-移動服務社會產學小聯盟",
+      "schoolYear": "109"
+    },
+    {
+      "name": "以程式品質驅動的自動化Web作業評量系統之研發(1/3)",
+      "schoolYear": "109"
+    },
+    {
+      "name": "應用行為驅動開發於Web應用程式檢測",
+      "schoolYear": "109"
+    },
+    {
+      "name": "以導航流程塑模為基礎的自動化Android APP開發與測試之研究(2/2)",
+      "schoolYear": "108"
+    },
+    {
+      "name": "應用機器學習之樂譜轉換",
+      "schoolYear": "108"
+    },
+    {
+      "name": "(創新營運)產學合作計畫－一鍵式社區長照行動服務之研發",
+      "schoolYear": "107"
+    },
+    {
+      "name": "(廠配)小驢行股份有限公司(創新營運)產學合作計畫－一鍵式社區長照行動服務之研發",
+      "schoolYear": "107"
+    },
+    {
+      "name": "設計樣式之測試模型與工具設計(2/2)",
+      "schoolYear": "107"
+    },
+    {
+      "name": "以導航流程塑模為基礎的自動化Android APP開發與測試之研究(1/2)",
+      "schoolYear": "107"
+    },
+    {
+      "name": "基於Beacon技術之兒童居家危險示警平台",
+      "schoolYear": "107"
+    },
+    {
+      "name": "(深耕)精密主軸於智慧型滾齒機之應用暨推廣(2/2)",
+      "schoolYear": "106"
+    },
+    {
+      "name": "以使用者故事驅動Microservices塑模之研究",
+      "schoolYear": "106"
+    },
+    {
+      "name": "設計樣式之測試模型與工具設計(1/2)",
+      "schoolYear": "106"
+    },
+    {
+      "name": "計程車評價分享平台",
+      "schoolYear": "106"
+    },
+    {
+      "name": "研發一個基於微型服務的在地老化服務平台",
+      "schoolYear": "105"
+    },
+    {
+      "name": "Microservices應用程式視覺化營運分析之三維洞察系統",
+      "schoolYear": "105"
+    },
+    {
+      "name": "基於手機GPS訊號之點餐與推薦系統",
+      "schoolYear": "105"
+    },
+    {
+      "name": "Microservices軟體架構之以應用程式為中心的營運支援平台",
+      "schoolYear": "104"
+    }
+  ],
+  "tech": [],
+  "induAca": [
+    "如何有效提升本公司應用系統軟體品質及生產力探討 (2023-05 to 2023-10)",
+    "(國合)Design and Development of NX SAAS Application Cloud Services NX SAAS 應用雲服務的設計與開發Ⅵ (2023-04 to 2024-03)",
+    "提升大學通識教育中程計畫(第一期)分項4-2軟體創作統合與運算表達理解培育計畫 (2022-06 to 2024-07)",
+    "(國合)Design and Development of NX SAAS Application Cloud Services NX SAAS應用雲服務的設計與開發 Ⅴ (2022-04 to 2023-03)",
+    "111年度智慧創新跨域人才培育聯盟計畫(C類)開源創作分項 (2022-02 to 2023-01)",
+    "(國合)Design and Development of NX SAAS Application Cloud Services NX SAAS 應用雲服務的設計與開發IV (2021-04 to 2022-03)",
+    "110年度智慧創新跨域人才培育聯盟計畫(C類)—開源創作分項「自動化軟體品質檢測開源工具」 (2021-02 to 2022-01)",
+    "大學伴‧偏鄉善：打造銀享智融的移動服務影響圈 (2021-01 to 2021-12)",
+    "(國合)Design and Development of NX SAAS Application Cloud Services NX SAAS 應用雲服務的設計與開發III (2020-04 to 2021-03)",
+    "109年度智慧創新跨域人才培育聯盟計畫(C類)—開源創作分項：自動化軟體品質檢測開源工具 (2020-02 to 2021-01)",
+    "（109年）大學伴∙偏鄉善：打造銀享智融的移動服務影響圈 (2020-01 to 2020-12)",
+    "(國合)Design and Development of NX SAAS Application Cloud Services NX SAAS 应用云服务的设计与开发Ⅱ (2019-04 to 2020-03)",
+    "108年度智慧創新跨域人才培育聯盟計畫「開源系統軟體創作聯盟推動計畫(C類)—開源創作分項」 (2019-03 to 2020-01)",
+    "（108年〉中台灣弱勢與偏鄉行動服務支持系統 (2019-01 to 2019-12)",
+    "107年度「扎根高中職資訊科學教育計畫」 (2018-08 to 2019-07)",
+    "(國合)Design and Development of NX SAAS Application Cloud Services NX SAAS 應用雲服务的設計與開發 (2018-04 to 2019-03)",
+    "107年度教育部資通訊軟體創新人才推升推廣計畫—「B類：社群運算與巨量資料」 (2018-02 to 2019-01)",
+    "（107年）中台灣弱勢與偏鄉行動服務支持系統 (2018-01 to 2018-12)",
+    "授信評估輔助與審查預警系統研究 (2017-09 to 2018-06)",
+    "106年度教育部扎根高中職資訊科學教育計畫 (2017-08 to 2018-07)",
+    "106 年度教育部補助大學社會責任實踐計畫(B類：萌芽型計畫)「中台灣弱勢與偏鄉行動服務支持系統」 (2017-08 to 2018-03)",
+    "新一代數位學習計畫磨課師分項計畫─磨課師學習資料分析計畫-openedu (2017-05 to 2018-04)",
+    "(國合)Development of Design Review Platform on Cloud (2017-04 to 2018-03)",
+    "106年度資通訊軟體創新人才推升推廣計畫─A類：「智慧終端與人機互動」 (2017-02 to 2018-01)",
+    "105年度扎根高中職資訊科學教育計畫 (2016-08 to 2017-07)",
+    "新一代數位學習計畫磨課師分項計畫─MOOCs學習資料分析子計畫 (2016-02 to 2017-03)"
+  ],
+  "perform": [],
+  "reward": [
+    "113年度國科會補助大專校院研究獎勵 (113, 2024-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (113, 2024-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (113, 2024-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (113, 2024-11) - 逢甲大學",
+    "Best Presentation Award (112, 2024-03) - ICIET 2024",
+    "112年度國科會補助大專校院研究獎勵 (112, 2023-12) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "第28屆大專校院資訊應用服務創新競賽-鈦坦敏捷開發特別獎次:第一名 (112, 2023-11) - 台北市電腦商業同業公會",
+    "ITSA 教育部智慧創新跨域人才培育計畫-績優團隊 (111, 2023-01) - 教育部",
+    "111學年度專題成果發表-佳作獎 (嗨！Buddy-基於區塊鏈的學伴共學平台) (111, 2022-12) - 逢甲大學",
+    "111學年度專題成果發表-第一名 (運用擴增實境技術於嵌入式系統之教學應用-以Arduino為例) (111, 2022-12) - 逢甲大學",
+    "2022永續智慧創新黑客松競賽-智慧物聯網應用與管理組 (111, 2022-12) - 靜宜大學",
+    "逢甲大學論文著作獎勵優良獎 (111, 2022-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (111, 2022-11) - 逢甲大學",
+    "111年度國科會補助大專校院研究獎勵 (111, 2022-10) - 研究發展處",
+    "逢甲大學論文著作獎勵優良獎 (110, 2021-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (110, 2021-11) - 逢甲大學",
+    "110年度科技部補助大專校院研究獎勵 (110, 2021-10) - 產學合作處",
+    "最佳英文摘要論文 (109, 2021-07) - 2021台灣軟體工程研討會",
+    "109學年度專題成果發表-佳作獎 (109, 2020-12) - 逢甲大學",
+    "2020 ITSA極客挑戰賽-佳作 (109, 2020-12) - 教育部",
+    "逢甲大學論文著作獎勵傑出獎 (109, 2020-11) - 逢甲大學",
+    "109年度科技部補助大專校院研究獎勵 (109, 2020-10) - 逢甲大學",
+    "108學年度專題成果發表-專題優勝 (108, 2019-12) - 逢甲大學",
+    "108學年度專題成果發表-專題優勝 (108, 2019-12) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (108, 2019-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (108, 2019-11) - 逢甲大學",
+    "108學年度科技部補助大專校院研究獎勵 (108, 2019-09) - 逢甲大學",
+    "Best Paper (107, 2019-07) - TCSE 2019",
+    "107學年度專題成果發表-專題優勝 (107, 2018-12) - 逢甲大學",
+    "107學年度專題成果發表-專題優勝 (107, 2018-12) - 逢甲大學",
+    "107學年度專題成果發表-最佳專題海報 (107, 2018-12) - 逢甲大學",
+    "智慧終端與人機互動軟體創作專題競賽-佳作 (107, 2018-11) - 教育部",
+    "逢甲大學論文著作獎勵傑出獎 (107, 2018-11) - 逢甲大學",
+    "107年度科技部補助大專校院研究獎勵 (107, 2018-08) - 逢甲大學",
+    "論文佳作 (106, 2017-10) - 臺灣網際網路研討會 (TANET 2017)",
+    "最佳展示論文 (Best Demo Paper) (105, 2017-07) - 2017台灣軟體工程研討會",
+    "行政服務優良教師 (105, 2017-06) - 逢甲大學",
+    "智慧終端與人機互動軟體創作專題競賽-第二名 (105, 2017-06) - 教育部",
+    "資電學院專題競賽-最佳人氣獎、資訊組第二名 (105, 2017-03) - 逢甲大學",
+    "校園行動應用服務人才培育計畫-佳作 (105, 2016-12) - 教育部",
+    "第六屆全國私立大專校院程式競賽-佳作 (104, 2016-07) - ACM/大同大學"
+  ],
+  "speech": [
+    {
+      "演講題目": "Git與GitHub 運作機制及設定管理",
+      "邀請單位": "金管會檢查局",
+      "演講日期": "2025-02"
+    },
+    {
+      "演講題目": "Software Quality in Programming Education",
+      "邀請單位": "中央大學 資訊工程學系",
+      "演講日期": "2024-10"
+    },
+    {
+      "演講題目": "GitHub Copilot入門實務線上講座",
+      "邀請單位": "提升大學通識教育計畫",
+      "演講日期": "2024-05"
+    },
+    {
+      "演講題目": "Large-scale Software Development:  Take a Health Information System  as an Example",
+      "邀請單位": "台達研究院",
+      "演講日期": "2023-07"
+    },
+    {
+      "演講題目": "版本控管與GitHub簡介",
+      "邀請單位": "教育部智慧創新跨域人才培育計畫",
+      "演講日期": "2022-08"
+    },
+    {
+      "演講題目": "Continuous Integration Server - Jenkins",
+      "邀請單位": "海洋大學 資訊工程學系",
+      "演講日期": "2022-05"
+    },
+    {
+      "演講題目": "Continuous Integration Server - Jenkins",
+      "邀請單位": "嘉義大學 資訊工程學系",
+      "演講日期": "2022-04"
+    },
+    {
+      "演講題目": "基於自動化程式評量系統的學生程式學習行為之研究",
+      "邀請單位": "臺北科技大學 資訊工程學系",
+      "演講日期": "2021-12"
+    },
+    {
+      "演講題目": "程式寫作標準與檢測工具",
+      "邀請單位": "教育部推動大學{程式設計}教學計畫",
+      "演講日期": "2021-11"
+    },
+    {
+      "演講題目": "第二屆精誠雲學院 - Microservices 架構概論",
+      "邀請單位": "精誠資訊",
+      "演講日期": "2021-07"
+    },
+    {
+      "演講題目": "如何精進程式開發能力-開源軟體社群參與和開發",
+      "邀請單位": "ITSA 教育部智慧創新跨域人才培育計畫",
+      "演講日期": "2021-05"
+    },
+    {
+      "演講題目": "敏捷開發、DevOps與程式碼品質",
+      "邀請單位": "中正大學 資訊工程學系",
+      "演講日期": "2020-10"
+    },
+    {
+      "演講題目": "ProgEdu: 以程式品質驅動的自動作業評量系統",
+      "邀請單位": "軟體測試開源系統軟體創作聯盟推動計畫",
+      "演講日期": "2020-06"
+    },
+    {
+      "演講題目": "敏捷軟體發展模式",
+      "邀請單位": "勤益科技大學",
+      "演講日期": "2019-10"
+    },
+    {
+      "演講題目": "程式教育之軟體品質分析介紹",
+      "邀請單位": "磨課師(MOOC) AI教育大數據研討會",
+      "演講日期": "2019-01"
+    },
+    {
+      "演講題目": "敏捷開發與持續整合",
+      "邀請單位": "嘉義大學 資訊工程學系",
+      "演講日期": "2018-11"
+    },
+    {
+      "演講題目": "安全軟體設計",
+      "邀請單位": "國立海洋大學 資訊工程學系",
+      "演講日期": "2018-11"
+    },
+    {
+      "演講題目": "安全軟體設計",
+      "邀請單位": "臺北科技大學 資訊工程學系",
+      "演講日期": "2018-10"
+    },
+    {
+      "演講題目": "DevOps持續整合與測試",
+      "邀請單位": "寶成工業",
+      "演講日期": "2018-08"
+    },
+    {
+      "演講題目": "敏捷開發與持續整合",
+      "邀請單位": "心世代工作坊講座",
+      "演講日期": "2017-11"
+    },
+    {
+      "演講題目": "資訊學群介紹與未來生涯發展",
+      "邀請單位": "西苑高中",
+      "演講日期": "2017-10"
+    },
+    {
+      "演講題目": "Web安全程式設計",
+      "邀請單位": "嘉義大學 資訊工程學系",
+      "演講日期": "2017-10"
+    },
+    {
+      "演講題目": "軟體工程概念與文件設計",
+      "邀請單位": "106 年度全國微電腦應用系統設計創作競賽",
+      "演講日期": "2017-08"
+    },
+    {
+      "演講題目": "從敏捷方法到微服務架構",
+      "邀請單位": "輔仁大學 資訊工程研究所",
+      "演講日期": "2016-12"
+    },
+    {
+      "演講題目": "安全軟體設計",
+      "邀請單位": "東海大學 資訊工程學系",
+      "演講日期": "2016-12"
+    },
+    {
+      "演講題目": "安全程式設計初探",
+      "邀請單位": "輔仁大學 資訊工程研究所",
+      "演講日期": "2016-11"
+    },
+    {
+      "演講題目": "安全軟體設計",
+      "邀請單位": "高雄師範大學 軟體工程與管理學系",
+      "演講日期": "2016-10"
+    },
+    {
+      "演講題目": "軟體測試進階 - 建構管理與持續整合測試",
+      "邀請單位": "教育部",
+      "演講日期": "2016-07"
+    },
+    {
+      "演講題目": "軟體測試方法及測試工具",
+      "邀請單位": "教育部",
+      "演講日期": "2016-03"
+    },
+    {
+      "演講題目": "軟體設計",
+      "邀請單位": "嶺東科技大學 資訊網路系",
+      "演講日期": "2015-12"
+    }
+  ],
+  "material": [
+    "安全軟體設計\t軟體工程聯盟\t范姜永益、林楚迪、陳錫民\tMOOCs/SPOCs",
+    "WEB 安全程式設計\t軟體工程聯盟\t林楚迪、李文廷、陳錫民\tMOOCs/SPOCs",
+    "Git與GitHub版本控制\t教育部提升大學通識教育計畫\t陳錫民\tMOOCs/SPOCs",
+    "程式開發協作夥伴 - GitHub Copilot\t教育部提升大學通識教育計畫\t陳錫民\tMOOCs/SPOCs"
+  ],
+  "tal": []
+}

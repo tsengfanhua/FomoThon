@@ -1,0 +1,905 @@
+{
+  "success": true,
+  "info": {
+    "yms_year": 114.0,
+    "yms_smester": 1.0,
+    "sub_id": "40511",
+    "cls_id": "CD01510",
+    "scr_dup": "001",
+    "sub_id3": "ID1001",
+    "cls_name": "室設進修一",
+    "cls_ename": "Continuing Education Bachelor's Program of Interior Design",
+    "sub_name": "基本設計(一)",
+    "sub_ename": "BASIC DESIGN(1)",
+    "scr_mso": "必修",
+    "scr_mso_en": "Required",
+    "scr_credit": 3.0,
+    "scr_periodly": "(六)06-09",
+    "scr_periodly_eng": "(Sat)06-09",
+    "lang_name": "中文                                                      ",
+    "lang_ename": "Chinese",
+    "scr_room": "忠502",
+    "scr_room_eng": "JCB502",
+    "scr_teacher": "凃昭伃,莊澤均,楊淨伍,葉建甫",
+    "scr_teacher_eng": "Chien-Fu Yeh,Kuo-Chen Chuang,Ching-Wu Yang,Chien-Fu Yeh",
+    "scr_selcode": "0899",
+    "scr_elearning": "全學期",
+    "scr_elearning_en": "Full semester",
+    "scr_hours": "4",
+    "scr_english": "N",
+    "unt_name": null,
+    "unt_ename": null,
+    "link_traminal": null,
+    "link_traminal_en": null,
+    "scr_ldl": "D",
+    "course_mk": "N",
+    "teams_mk": "N",
+    "sub_title": null,
+    "sub_title_en": null,
+    "sub_describe": null,
+    "sub_describe_en": null,
+    "hasDescription": null,
+    "hasInstructor": null,
+    "hasTA": null,
+    "hasTextBooks": null,
+    "hasReadings": null,
+    "hasiSoftwares": null,
+    "hasAssistSoftwares": null,
+    "hasObjective": null,
+    "hasWeeklyScds": null,
+    "hasGradeRules": null,
+    "hasGradeRuleDescribe": null,
+    "hasIntegrity": null,
+    "hasCoursePol": null,
+    "hasCourseRem": null,
+    "hasObjectiveReleation": null,
+    "hasTopicSdgs": null,
+    "hasSubTitleDesc": null
+  },
+  "subTitleDesc": null,
+  "description": {
+    "sub_id3": null,
+    "sub_name": "基本設計(一)",
+    "sub_ename": "BASIC DESIGN(1)",
+    "describe_ch": "本課程為基本設計入門。課程目標為介紹設計的基本元素與組合原理，尤其著重光、影、造型、空間與材料的呈現和設計概念的操作技巧。模型製作的製造與過程亦是設計概念訓練項目重點之一，必須能夠將其設計概念完整呈現於2-D版面與立體模型，課程核心希望成果能綜合理性、知性與感性於思考及創作的過程中。",
+    "describe_eh": "This is the introduction course in architectural design. The aim of the course is to introduce fundamental knowledge of design elements and principles, particular emphasis on light and shadow, form and space, and materials. Modeling making is also part of the design training, because the conceptual approach might be discovered through the making and creating process. The result of the course is the ability to represent the design concept and idea graphically in 2-dimension and translate into a quality 3-dimensional model at the end of first semester. It is also the central core of the course to think and create rationally, intellectually, and sensationally.",
+    "pre_subname": "",
+    "pre_sub_id3": null,
+    "pre_sub_ename": "",
+    "pre_describe": null,
+    "pre_describe_en": null,
+    "scr_credit": 3.0
+  },
+  "targets": [
+    {
+      "seq": 1,
+      "describe_ch": "能理解基本元素操作",
+      "describe_en": "Be able to understand the fundamental elements of architecture and its application"
+    },
+    {
+      "seq": 2,
+      "describe_ch": "能理解基本設計原則",
+      "describe_en": "Be able to understand the fundamental design principles of architecture."
+    },
+    {
+      "seq": 3,
+      "describe_ch": "能應用圖面與模型表現於設計創作",
+      "describe_en": "Be able to present the design concepts and ideas in 2-D architectural drawing and 3-D model."
+    },
+    {
+      "seq": 4,
+      "describe_ch": "能綜合理性、知性與感性於創作思考上",
+      "describe_en": "Be able to think and create rationally, intellectually, and sensationally in design process."
+    }
+  ],
+  "teachersInfo": [
+    {
+      "cname": "凃昭伃",
+      "ename": "Chao-Yu Tu",
+      "period": "(Thu)03-04 忠801C,(Thu)05  忠801C,(Fri)05  忠801C",
+      "roletype": 0,
+      "email": "cytu@o365.fcu.edu.tw",
+      "ext": "3318"
+    },
+    {
+      "cname": "莊澤均",
+      "ename": "Kuo-Chen Chuang",
+      "period": " ",
+      "roletype": 0,
+      "email": "kcchuang.t95@o365.fcu.edu.tw",
+      "ext": null
+    },
+    {
+      "cname": "楊淨伍",
+      "ename": "Ching-Wu Yang",
+      "period": " ",
+      "roletype": 0,
+      "email": "cwyang.t00@o365.fcu.edu.tw",
+      "ext": null
+    },
+    {
+      "cname": "葉建甫",
+      "ename": "Chien-Fu Yeh",
+      "period": " ",
+      "roletype": 0,
+      "email": "cfyeh.t11@o365.fcu.edu.tw",
+      "ext": null
+    }
+  ],
+  "textBooks": {
+    "yms_year": 114.0,
+    "yms_smester": 1.0,
+    "cls_id": "CD01510",
+    "sub_id": "40511",
+    "scr_dup": "001",
+    "tpb_seq": 1,
+    "tpb_book": "<div>室內設計圖解 Interior Design Illustrated，作者：<a href=\"https://www.eslite.com/search?author=WyJGcmFuY2lzIEQuIEsuIENoaW5nLyBDb3JreSBCaW5nZ2VsaSJd\">Francis D. K. Ching/ Corky Bingeli</a>，譯者：<a href=\"https://www.eslite.com/search?translator=WyLlkYLku6Xlr6cvIOiMg-aMr-a5mC8g5by16IGW6Zm2Il0\">呂以寧/ 范振湘/ 張聖陶</a>，出版社：<a href=\"https://www.eslite.com/search?manufacturer=WyLlha3lkIjlh7rniYjnpL4iXQ\">六合出版社</a></div>\n",
+    "tpb_book_en": null
+  },
+  "readings": {
+    "yms_year": 114.0,
+    "yms_smester": 1.0,
+    "cls_id": "CD01510",
+    "sub_id": "40511",
+    "scr_dup": "001",
+    "tpc_seq": 1,
+    "tpc_book": "<div>［空間&amp;尺度］ 室內設計基本數據參考手冊：5大家居空間＋3大商業空間 基礎尺寸全面圖解，作者：&nbsp;<a href=\"https://search.books.com.tw/search/query/key/%E7%90%86%E6%83%B3%EF%BC%8E%E5%AE%85/adv_author/1/\">理想．宅</a>&nbsp;&nbsp;<a href=\"javascript:setFollow('setFollowAuthorAjax','%E7%90%86%E6%83%B3%EF%BC%8E%E5%AE%85');\">追蹤作者</a>&nbsp;<a href=\"https://www.books.com.tw/activity/2015/06/trace/index.html#author\" target=\"_blank\">新功能介紹</a>，出版社：<a href=\"https://www.books.com.tw/web/sys_puballb/books/?pubid=banlian\">邦聯文化</a>&nbsp;</div>\n",
+    "tpc_book_en": null
+  },
+  "iSoftwares": [],
+  "assistSoftwares": [],
+  "weeklyScds": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CD01510",
+      "sub_id": "40511",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "1",
+      "tpd_reading": "<div>課程與題目(一)+分組討論</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": null,
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": "課程與題目(一)+分組討論",
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CD01510",
+      "sub_id": "40511",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "2-8",
+      "tpd_reading": "<div>設計題目一</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": null,
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": "分組討論",
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CD01510",
+      "sub_id": "40511",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "9",
+      "tpd_reading": "<div>設計題目一(總評)</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": null,
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CD01510",
+      "sub_id": "40511",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "10",
+      "tpd_reading": "<div>設計題目二發題+分組討論</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": null,
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": "設計題目二發題+分組討論",
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CD01510",
+      "sub_id": "40511",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "10-17",
+      "tpd_reading": "<div>設計題目二</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": null,
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": "分組討論",
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CD01510",
+      "sub_id": "40511",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "17",
+      "tpd_reading": "<div>正草評圖</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": null,
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CD01510",
+      "sub_id": "40511",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "18",
+      "tpd_reading": "<div>設計題目二(總評)</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": null,
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    }
+  ],
+  "gradeRules": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CD01510",
+      "sub_id": "40511",
+      "scr_dup": "001",
+      "evalb_id": "L4",
+      "score_rate": 40,
+      "evalb_memo": "出席狀況考核",
+      "evalb_memo_en": null,
+      "evalb_name": "出席狀況",
+      "evalb_name_en": "Attendances",
+      "seq": 1
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CD01510",
+      "sub_id": "40511",
+      "scr_dup": "001",
+      "evalb_id": "D1",
+      "score_rate": 30,
+      "evalb_memo": "第一次設計評圖",
+      "evalb_memo_en": null,
+      "evalb_name": "期中考",
+      "evalb_name_en": "Midterm examination",
+      "seq": 2
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CD01510",
+      "sub_id": "40511",
+      "scr_dup": "001",
+      "evalb_id": "D2",
+      "score_rate": 30,
+      "evalb_memo": "第二次設計評圖",
+      "evalb_memo_en": null,
+      "evalb_name": "期末考",
+      "evalb_name_en": "Final examination",
+      "seq": 3
+    }
+  ],
+  "gradeRuleDescribe": {
+    "yms_year": 114.0,
+    "yms_smester": 1.0,
+    "cls_id": "CD01510",
+    "sub_id": "40511",
+    "scr_dup": "001",
+    "tpa_score_new": "<ul>\n\t<li>平時成績 40% (由自己組老師評分) 出席率、上課態度、作業成果</li>\n\t<li>第一次設計 30% (由所有老師評分) 設計、圖面、模型</li>\n\t<li>第二次設計 30% (由所有老師評分) 設計、圖面、模型</li>\n</ul>\n\n<div>**三次(含)以上未出席者，將嚴重影響總成績。</div>\n",
+    "tpa_score_new_en": null,
+    "course_pol": "1.每週上課請於09:30前依照課前公告完上課準備工作，如作品布置，準備投影器材……等!\n2.出席依照正式課程原則處理，老師分上下午直接點名，遲到未請假將以曠課計之，直接影響平時成績，如遇不可抗力的因素務必提前聯繫告知，否則視同缺席。\n3.課前課後請留意Messenger群組訊息，確保掌握課前準備工作，跟上課程進度。有問題隨時在群組中發問!",
+    "course_pol_en": null,
+    "course_rem": null,
+    "course_rem_en": null,
+    "ais_meno": "<div>課程期間所有個人及小組作業及作品，引用外部資料的部分務必標註來源出處，作品內容嚴禁抄襲及代理作業，如發生觸及學術誠信的事件將交由課程會議議處。</div>\n",
+    "ais_meno_en": null,
+    "ilearn_mk": "N"
+  },
+  "integrity": {
+    "yms_year": 114.0,
+    "yms_smester": 1.0,
+    "cls_id": "CD01510",
+    "sub_id": "40511",
+    "scr_dup": "001",
+    "tpa_score_new": "<ul>\n\t<li>平時成績 40% (由自己組老師評分) 出席率、上課態度、作業成果</li>\n\t<li>第一次設計 30% (由所有老師評分) 設計、圖面、模型</li>\n\t<li>第二次設計 30% (由所有老師評分) 設計、圖面、模型</li>\n</ul>\n\n<div>**三次(含)以上未出席者，將嚴重影響總成績。</div>\n",
+    "tpa_score_new_en": null,
+    "course_pol": "1.每週上課請於09:30前依照課前公告完上課準備工作，如作品布置，準備投影器材……等!\n2.出席依照正式課程原則處理，老師分上下午直接點名，遲到未請假將以曠課計之，直接影響平時成績，如遇不可抗力的因素務必提前聯繫告知，否則視同缺席。\n3.課前課後請留意Messenger群組訊息，確保掌握課前準備工作，跟上課程進度。有問題隨時在群組中發問!",
+    "course_pol_en": null,
+    "course_rem": null,
+    "course_rem_en": null,
+    "ais_meno": "<div>課程期間所有個人及小組作業及作品，引用外部資料的部分務必標註來源出處，作品內容嚴禁抄襲及代理作業，如發生觸及學術誠信的事件將交由課程會議議處。</div>\n",
+    "ais_meno_en": null,
+    "ilearn_mk": "N"
+  },
+  "policy": {
+    "yms_year": 114.0,
+    "yms_smester": 1.0,
+    "cls_id": "CD01510",
+    "sub_id": "40511",
+    "scr_dup": "001",
+    "tpa_score_new": "<ul>\n\t<li>平時成績 40% (由自己組老師評分) 出席率、上課態度、作業成果</li>\n\t<li>第一次設計 30% (由所有老師評分) 設計、圖面、模型</li>\n\t<li>第二次設計 30% (由所有老師評分) 設計、圖面、模型</li>\n</ul>\n\n<div>**三次(含)以上未出席者，將嚴重影響總成績。</div>\n",
+    "tpa_score_new_en": null,
+    "course_pol": "1.每週上課請於09:30前依照課前公告完上課準備工作，如作品布置，準備投影器材……等!\n2.出席依照正式課程原則處理，老師分上下午直接點名，遲到未請假將以曠課計之，直接影響平時成績，如遇不可抗力的因素務必提前聯繫告知，否則視同缺席。\n3.課前課後請留意Messenger群組訊息，確保掌握課前準備工作，跟上課程進度。有問題隨時在群組中發問!",
+    "course_pol_en": null,
+    "course_rem": null,
+    "course_rem_en": null,
+    "ais_meno": "<div>課程期間所有個人及小組作業及作品，引用外部資料的部分務必標註來源出處，作品內容嚴禁抄襲及代理作業，如發生觸及學術誠信的事件將交由課程會議議處。</div>\n",
+    "ais_meno_en": null,
+    "ilearn_mk": "N"
+  },
+  "courseBankC": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CD01510",
+      "sub_id": "40511",
+      "scr_dup": "001",
+      "seq": 1,
+      "describe_ch": "能理解基本元素操作",
+      "describe_en": "Be able to understand the fundamental elements of architecture and its application",
+      "core_id": "A",
+      "core_item": "具室內設計之能力。",
+      "core_eng": "To have the ability of interior design.",
+      "core_level": "2 ",
+      "strgy": [
+        "01",
+        "04",
+        "10"
+      ],
+      "evalb": [
+        "I4",
+        "K2"
+      ],
+      "strgy_name": [
+        "課堂授課",
+        "專題討論",
+        "小組討論及活動"
+      ],
+      "strgy_name_en": [
+        "Classroom instruction",
+        "Seminar",
+        "Group activity & discussion"
+      ],
+      "evalb_name": [
+        "專題/成果發表(專家審查)",
+        "口頭報告"
+      ],
+      "evalb_name_en": [
+        "Specialized presentation",
+        "Oral presentation"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CD01510",
+          "sub_id": "40511",
+          "scr_dup": "001",
+          "seq": 1,
+          "strgy_id": "01",
+          "strgy_name": null,
+          "strgy_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CD01510",
+          "sub_id": "40511",
+          "scr_dup": "001",
+          "seq": 1,
+          "strgy_id": "04",
+          "strgy_name": null,
+          "strgy_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CD01510",
+          "sub_id": "40511",
+          "scr_dup": "001",
+          "seq": 1,
+          "strgy_id": "10",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CD01510",
+          "sub_id": "40511",
+          "scr_dup": "001",
+          "seq": 1,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "I4",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CD01510",
+          "sub_id": "40511",
+          "scr_dup": "001",
+          "seq": 1,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "K2",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CD01510",
+      "sub_id": "40511",
+      "scr_dup": "001",
+      "seq": 2,
+      "describe_ch": "能理解基本設計原則",
+      "describe_en": "Be able to understand the fundamental design principles of architecture.",
+      "core_id": "A",
+      "core_item": "具室內設計之能力。",
+      "core_eng": "To have the ability of interior design.",
+      "core_level": "2 ",
+      "strgy": [
+        "01",
+        "04",
+        "10"
+      ],
+      "evalb": [
+        "I4",
+        "K2"
+      ],
+      "strgy_name": [
+        "課堂授課",
+        "專題討論",
+        "小組討論及活動"
+      ],
+      "strgy_name_en": [
+        "Classroom instruction",
+        "Seminar",
+        "Group activity & discussion"
+      ],
+      "evalb_name": [
+        "專題/成果發表(專家審查)",
+        "口頭報告"
+      ],
+      "evalb_name_en": [
+        "Specialized presentation",
+        "Oral presentation"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CD01510",
+          "sub_id": "40511",
+          "scr_dup": "001",
+          "seq": 2,
+          "strgy_id": "01",
+          "strgy_name": null,
+          "strgy_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CD01510",
+          "sub_id": "40511",
+          "scr_dup": "001",
+          "seq": 2,
+          "strgy_id": "04",
+          "strgy_name": null,
+          "strgy_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CD01510",
+          "sub_id": "40511",
+          "scr_dup": "001",
+          "seq": 2,
+          "strgy_id": "10",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CD01510",
+          "sub_id": "40511",
+          "scr_dup": "001",
+          "seq": 2,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "I4",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CD01510",
+          "sub_id": "40511",
+          "scr_dup": "001",
+          "seq": 2,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "K2",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CD01510",
+      "sub_id": "40511",
+      "scr_dup": "001",
+      "seq": 3,
+      "describe_ch": "能應用圖面與模型表現於設計創作",
+      "describe_en": "Be able to present the design concepts and ideas in 2-D architectural drawing and 3-D model.",
+      "core_id": "E",
+      "core_item": "具備協調溝通、團隊合作、專業倫理及社會責任之專業從業能力",
+      "core_eng": "To have the ability of organization, communication, coordination, professional ethics, and social responsibilities.",
+      "core_level": "3 ",
+      "strgy": [
+        "01",
+        "04",
+        "10"
+      ],
+      "evalb": [
+        "I4",
+        "K2"
+      ],
+      "strgy_name": [
+        "課堂授課",
+        "專題討論",
+        "小組討論及活動"
+      ],
+      "strgy_name_en": [
+        "Classroom instruction",
+        "Seminar",
+        "Group activity & discussion"
+      ],
+      "evalb_name": [
+        "專題/成果發表(專家審查)",
+        "口頭報告"
+      ],
+      "evalb_name_en": [
+        "Specialized presentation",
+        "Oral presentation"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CD01510",
+          "sub_id": "40511",
+          "scr_dup": "001",
+          "seq": 3,
+          "strgy_id": "01",
+          "strgy_name": null,
+          "strgy_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CD01510",
+          "sub_id": "40511",
+          "scr_dup": "001",
+          "seq": 3,
+          "strgy_id": "04",
+          "strgy_name": null,
+          "strgy_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CD01510",
+          "sub_id": "40511",
+          "scr_dup": "001",
+          "seq": 3,
+          "strgy_id": "10",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CD01510",
+          "sub_id": "40511",
+          "scr_dup": "001",
+          "seq": 3,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "I4",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CD01510",
+          "sub_id": "40511",
+          "scr_dup": "001",
+          "seq": 3,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "K2",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CD01510",
+      "sub_id": "40511",
+      "scr_dup": "001",
+      "seq": 4,
+      "describe_ch": "能綜合理性、知性與感性於創作思考上",
+      "describe_en": "Be able to think and create rationally, intellectually, and sensationally in design process.",
+      "core_id": "A",
+      "core_item": "具室內設計之能力。",
+      "core_eng": "To have the ability of interior design.",
+      "core_level": "3 ",
+      "strgy": [
+        "01",
+        "04",
+        "10"
+      ],
+      "evalb": [
+        "I4",
+        "K2"
+      ],
+      "strgy_name": [
+        "課堂授課",
+        "專題討論",
+        "小組討論及活動"
+      ],
+      "strgy_name_en": [
+        "Classroom instruction",
+        "Seminar",
+        "Group activity & discussion"
+      ],
+      "evalb_name": [
+        "專題/成果發表(專家審查)",
+        "口頭報告"
+      ],
+      "evalb_name_en": [
+        "Specialized presentation",
+        "Oral presentation"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CD01510",
+          "sub_id": "40511",
+          "scr_dup": "001",
+          "seq": 4,
+          "strgy_id": "01",
+          "strgy_name": null,
+          "strgy_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CD01510",
+          "sub_id": "40511",
+          "scr_dup": "001",
+          "seq": 4,
+          "strgy_id": "04",
+          "strgy_name": null,
+          "strgy_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CD01510",
+          "sub_id": "40511",
+          "scr_dup": "001",
+          "seq": 4,
+          "strgy_id": "10",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CD01510",
+          "sub_id": "40511",
+          "scr_dup": "001",
+          "seq": 4,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "I4",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CD01510",
+          "sub_id": "40511",
+          "scr_dup": "001",
+          "seq": 4,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "K2",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    }
+  ],
+  "topicSdgs": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CD01510",
+      "sub_id": "40511",
+      "scr_dup": "001",
+      "sdgs_seq": 3,
+      "main_related": "N",
+      "ind_related": "Y",
+      "iss_name": "社會進步面",
+      "iss_ename": "Social Progress",
+      "content_name": "促進身心健康",
+      "content_ename": "Good Health and Well-Being"
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CD01510",
+      "sub_id": "40511",
+      "scr_dup": "001",
+      "sdgs_seq": 9,
+      "main_related": "Y",
+      "ind_related": "N",
+      "iss_name": "經濟成長面",
+      "iss_ename": "Economic Growth",
+      "content_name": "健全就業制度與經濟成長",
+      "content_ename": "Decent Work and Economic Growth"
+    }
+  ],
+  "learnHours": {
+    "total": 0.0,
+    "tpdOnlineAsyTotal": 0.0,
+    "tpdOnlineSynTotal": 0.0,
+    "tpdOnlineFaceTotal": 0.0,
+    "asySynInTotalPercent": 0.0
+  },
+  "crossVerYear": 114
+}

@@ -1,0 +1,770 @@
+{
+  "teacherId": "T00074",
+  "name": "賴俊峰",
+  "mainUnit": "工程與科學學院",
+  "detailUnit": "光電科學與工程學系",
+  "skill": [
+    "全維度光子晶體製備與應用Full-dimensional photonic crystals fabrication and application for sensors",
+    "新穎量子點光電材料開發與顯示器應用Development of novel quantum dot materials and application for displays",
+    "新穎奈米生醫材料開發與生醫檢測應用Development of Novel nano-biomedical materials and application for detection"
+  ],
+  "edu": [
+    "交通大學 光電工程學系 博士"
+  ],
+  "fcuExp": [
+    "光電學系 助理教授",
+    "光電學系 助理教授",
+    "光電學系 副教授",
+    "光電學系 教授",
+    "光電科學與工程學系 教授",
+    "光電科學與工程學系 特聘教授",
+    "光電科學與工程學系 教授",
+    "光電科學與工程學系 教授"
+  ],
+  "currjob": [],
+  "otherExp": [],
+  "journal": [
+    {
+      "論文名稱": "Enhancement of Light Efficiency of Deep-Ultraviolet Light-Emitting Diodes by Encapsulation with a 3D Photonic Crystal Reflecting Layer",
+      "期刊名稱": "Nanomaterials (I.F.:5.3; Ranking:39/160) (SCIE)",
+      "作者群": "C. F. Lai*, C. P. Lin, and Y. C. Lee"
+    },
+    {
+      "論文名稱": "Hydrogel Contact Lenses Embedded with Amine-Functionalized Large-Pore Mesoporous Silica Nanoparticles with Extended Hyaluronic Acid Release",
+      "期刊名稱": "Nanomaterials (SCIE)",
+      "作者群": "Chun-Feng Lai* and F. J. Shiau"
+    },
+    {
+      "論文名稱": "Enhanced and Extended Ophthalmic Drug Delivery by pH-Triggered Drug-Eluting Contact Lenses with Large-Pore Mesoporous Silica Nanoparticles",
+      "期刊名稱": "ACS Applied Materials & Interfaces (SCIE)",
+      "作者群": "Chun-Feng Lai* and F. J. Shiau"
+    },
+    {
+      "論文名稱": "Ultrastable and Highly Luminescent Quantum Dots Coating Highly Dense Protective Layers of Na-Poly(Al-O-Si) Nanocomposites for Light-Emitting Diodes",
+      "期刊名稱": "Advanced Materials Interfaces (SCIE)",
+      "作者群": "Chun-Feng Lai,* C. Z. Zhong, and Y. C. Lee"
+    },
+    {
+      "論文名稱": "Enhanced Luminous Efficacy and Stability of InP/ZnSeS/ZnS Quantum Dot-embedded SBA-15 Mesoporous Particles for White Light-Emitting Diodes",
+      "期刊名稱": "Nanomaterials (SCIE)",
+      "作者群": "Chun-Feng Lai,* Y. C. Chang, and Y. S. Huang"
+    },
+    {
+      "論文名稱": "Stable Lead-Free Cesium Tin Halide Double Perovskite Nanocrystals Embedded in Polydimethylsiloxane for Candlelight Light-Emitting Diodes",
+      "期刊名稱": "ACS Applied Nano Materials (I.F.: 5.097; Ranking: 101/334) (SCIE)",
+      "作者群": "Chun-Feng Lai,*  Yu-Ching Chang, and Yu-Chien Tien"
+    },
+    {
+      "論文名稱": "High luminous efficacy and enhanced stability of QDs via a network silica and methylphenyl silicone hybrid for the long-term operation of on-chip white light-emitting diodes with a wide color gamut",
+      "期刊名稱": "Appl. Mater. Today (IF: 8.352; Ranking: 34/314) (SCIE)",
+      "作者群": "Chun-Feng Lai,* C. Z. Zhong, H. C. Tong, and Y. C. Lee"
+    },
+    {
+      "論文名稱": "Active visualized solvent sensor based on copolymer hydrogel photonic crystals containing white LEDs",
+      "期刊名稱": "Sensors and Actuators B: Chemical (IF: 6.393; Ranking: 2/61) (SCIE)",
+      "作者群": "Chun-Feng Lai,* and J. S. Li"
+    },
+    {
+      "論文名稱": "Self-assembly of colloidal Poly(St-MMA-AA) core/shell photonic crystals with tunable structural colors of the full visible spectrum",
+      "期刊名稱": "Optical Materials (IF:2.687, Ranking: 34/95) (SCIE)",
+      "作者群": "Chun-Feng Lai,* and J. S. Li"
+    },
+    {
+      "論文名稱": "High-Performance Quantum Dot Light-Emitting Diodes using Chip-Scale Package Structures with High Reliability and Wide Color Gamut for Backlight Displays",
+      "期刊名稱": "RSC Advances (IF:2.936, Ranking:71/171) (SCIE)",
+      "作者群": "Chun-Feng Lai,* Y. C. Tien, H. C. Tong, C. Z. Zhong, and Y. C. Lee"
+    },
+    {
+      "論文名稱": "Improved organic-inorganic/graphene hybrid composite as encapsulant for white LEDs: Role of graphene, titanium (IV) isopropoxide and diphenylsilanediol",
+      "期刊名稱": "Composites Science and Technology (IF= 5.160, Ranking: 1/26) (SCIE)",
+      "作者群": "P. M. Reddy, C. J. Chang*, Chun-Feng Lai, M. J. Su, and M. H. Tsai"
+    },
+    {
+      "論文名稱": "UV and blue-light anti-reflective structurally colored contact lenses based on copolymer hydrogel with amorphous array nanostructures",
+      "期刊名稱": "RSC Advances (IF:2.936, Ranking:71/171) (SCIE)",
+      "作者群": "Chun-Feng Lai*, J. S. Li, Y. T. Fang, C. J. Chien, and C. H. Lee"
+    },
+    {
+      "論文名稱": "Performance of white light emitting diodes prepared by casting wavelength-converting polymer on InGaN devices",
+      "期刊名稱": "Journal of Applied Polymer Science (IF:1.866, Ranking:35/85) (SSCI)",
+      "作者群": "C. J. Chang,* Y. Y. Leong, Chun-Feng Lai, W. Y. Chiou, M. J. Su, and S. J. Chang"
+    },
+    {
+      "論文名稱": "Effects of hydrosilyl monomers on the performance of polysiloxane encapsulant/phosphor blend based hybrid white light-emitting diodes",
+      "期刊名稱": "Journal of Applied Polymer Science (IF:1.866, Ranking:35/85) (SCIE)",
+      "作者群": "C. J. Chang*, Chun-Feng Lai, W. Y. Chiou, P. M. Reddy, and M. J. Su"
+    },
+    {
+      "論文名稱": "High-Efficiency Robust Free-Standing Composited Phosphor Films with 2D and 3D Nanostructures for High-Power Remote White LEDs",
+      "期刊名稱": "ACS Applied Materials & Interfaces (IF:7.145, Ranking:25/271) (SSCI)",
+      "作者群": "Chun-Feng Lai,* Jia-Sian Li, and Chung-Wen Shen"
+    },
+    {
+      "論文名稱": "InGaN Light-Emitting Diodes with an Embedded Nanoporous GaN Distributed Bragg Reflectors",
+      "期刊名稱": "Scientific Reports (IF:5.228; Ranking:7/63) (SCIE)",
+      "作者群": "G.-Y. Shiu, K.-T. Chen, F.-H. Fan, K.-P. Huang, W.-J. Hsu, J.-J. Dai, Chun-Feng Lai, and C. F. Lin*"
+    },
+    {
+      "論文名稱": "Colloidal photonic crystals containing silver nanoparticles with tunable structural colors",
+      "期刊名稱": "Crystals (IF:2.075; Ranking:101/271) (SCIE)",
+      "作者群": "Chun-Feng Lai*, and Y. C. Wang"
+    },
+    {
+      "論文名稱": "High Transparency in the Structural Color Resin Films through Quasi-Amorphous Arrays of Colloidal Silica Nanospheres",
+      "期刊名稱": "J. Mater. Chem. C (IF:5.066; Ranking:18/145) (SCIE)",
+      "作者群": "Chun-Feng Lai*, Y. C. Wang, and H. C. Hsu"
+    },
+    {
+      "論文名稱": "Preparation of Colloidal Photonic Crystal containing CuO Nanoparticles with Tunable Structural Colors",
+      "期刊名稱": "RSC Advances (IF:3.84; Ranking:33/155) (SCIE)",
+      "作者群": "Chun-Feng Lai*, Y. C. Wang, C. L. Wu, J. Y. Zeng, and C. F. Lin"
+    },
+    {
+      "論文名稱": "InGaN light-emitting diodes with embedded nanoporous GaN distributed Bragg reflectors",
+      "期刊名稱": "Appl. Phys. Express (IF:2.365; Ranking:35/143) (SCIE)",
+      "作者群": "B. C. Shieh, Y. C. Jhang, K. P. Huang, W. C. Huang, J. J. Dai, Chun-Feng Lai, and C. F. Lin"
+    },
+    {
+      "論文名稱": "Characteristics of GaN-Based Photonic Crystal Micro-Vertical Light-Emitting Diodes for \r\nétendue-Limited Applications\r\n",
+      "期刊名稱": "AASCIT Journal of Physics ()",
+      "作者群": "Chun-Feng Lai*"
+    },
+    {
+      "論文名稱": "Color optimization of conjugated-polymer/InGaN hybrid white light emitting diodes by\r\nincomplete energy transfer",
+      "期刊名稱": "J. Lumin. (IF:2.367; Ranking:18/82) (SCIE)",
+      "作者群": "C. J. Chang*, Chun-Feng Lai, P. M. Reddy, Y. L. Chen, W. Y. Chiou, and S. J. Chang"
+    },
+    {
+      "論文名稱": "Candlelight LEDs fabricated by using composite silica photonic crystals",
+      "期刊名稱": "Opt. Mater. Express (IF:2.923; Ranking:14/83) (SCIE)",
+      "作者群": "Chun-Feng Lai*, Y. C. Lee, and T. L. Tsai"
+    },
+    {
+      "論文名稱": "Highly reliable and low-cost fabrication of warm-white LEDs using composite silica photonic crystals",
+      "期刊名稱": "Int. J. Photoenergy (IF:2.663; Ranking:10/80) (SCIE)",
+      "作者群": "Chun-Feng Lai*, Y. C. Lee, T. L. Tsai, C. C. Chang, and M. K. Wu"
+    },
+    {
+      "論文名稱": "Saving Phosphor by 150% and Producing High Color-Rendering Index Candlelight LEDs Containing Composite Photonic Crystals",
+      "期刊名稱": "IEEE/OSA J. Light. Technol. (IF:2.555; Ranking:12/80) (SCIE)",
+      "作者群": "Chun-Feng Lai*, Y. C. Lee, and C. T. Kuo"
+    },
+    {
+      "論文名稱": "Highly bright broadband red light produced by fluorescence polymer/InGaN hybrid light-emitting diodes",
+      "期刊名稱": "Opt. Letters (SCIE)",
+      "作者群": "Chun-Feng Lai*, C. J. Chang*, C. L. Hsieh, Y. L. Chen, and C. S. Tuan"
+    },
+    {
+      "論文名稱": "Light-spectrum modification of warm white-light-emitting diodes with 3D colloidal photonic crystals to approximate candlelight",
+      "期刊名稱": "Opt. Letters (SCIE)",
+      "作者群": "Chun-Feng Lai*, C. L. Hsieh, and C. J. Wu"
+    },
+    {
+      "論文名稱": "Fabricated InGaN membranes through a wet lateral etching process",
+      "期刊名稱": "Applied Physics Express (SCIE)",
+      "作者群": "K. C. Wu, K. P. Huang, P. F. Cheng, W. P. Tseng, Y. C. Huang, R. H. Jiang, J. H. Wang, B. C. Shieh, Chun-Feng Lai, and C. F. Lin*"
+    },
+    {
+      "論文名稱": "3D photonic crystal creates high-quality warm-white LED",
+      "期刊名稱": "LASER FOCUS WORLD (IF:0.215; Ranking:77/79) (SCIE)",
+      "作者群": "Chun-Feng Lai*"
+    },
+    {
+      "論文名稱": "CCT- and CRI-tuning of white light-emitting diodes using three-dimensional non-close-packed colloidal photonic crystals with photonic stop-bands",
+      "期刊名稱": "Optics Express (SCIE)",
+      "作者群": "Chun-Feng Lai*, C. C. Chang, M. J. Wang, and M. K. Wu"
+    },
+    {
+      "論文名稱": "Enhanced efficiency in InGaN-based photovoltaic devices combined with nanocrystalline Bi2O3/P3HT heterojunction structures",
+      "期刊名稱": "Phys. Status Solidi A (SCIE)",
+      "作者群": "Chun-Feng Lai*, C. C. Chang, M. H. Wen, C. K. Lin, and M. K. Wu"
+    },
+    {
+      "論文名稱": "Emission aperture size limited the guided mode extraction characteristics of GaN-based ultrathin-film photonic crystal micro-light-emitting diodes",
+      "期刊名稱": "Appl. Phys. Lett. (IF:3.794; Ranking: 19/127) (SCIE)",
+      "作者群": "Chun-Feng Lai*"
+    },
+    {
+      "論文名稱": "Optimized microcavity and photonic crystal in GaN-based ultrathin-film light-emitting diodes for highly-directional beam profiles",
+      "期刊名稱": " IEEE Photon. Tech. Lett. (SCIE)",
+      "作者群": "C. F. Lai*, C. H. Chao, and W. Y. Yeh"
+    },
+    {
+      "論文名稱": "Structural effects on highly-directional far-field emission pattern in GaN-based microcavity light-emitting diodes with photonic crystals",
+      "期刊名稱": "IEEE J. Light. Technol. (SCIE)",
+      "作者群": "C. F. Lai, H. C. Kuo*, C. H. Chao, P. Yu, and W. Y. Yeh"
+    },
+    {
+      "論文名稱": "Highly-directional emission pattern based on near single guided mode extraction from GaN-based ultrathin microcavity light-emitting diodes with photonic crystals",
+      "期刊名稱": "Appl. Phys. Lett. (SCIE)",
+      "作者群": "C. F. Lai, H. C. Kuo*, P. Yu*, T. C. Lu, C. H. Chao, H. H. Yen, and W. Y. Yeh"
+    },
+    {
+      "論文名稱": "GaN Thickness Effect on Directional Light Enhancement from GaN-based Film-Transferred Photonic Crystal Light-Emitting Diodes",
+      "期刊名稱": "Jpn. J Appl. Phys. (SCIE)",
+      "作者群": "C. F. Lai, C. H. Chao, H. C. Kuo*, P. Yu, H. H. Yen, and W. Y. Yeh"
+    },
+    {
+      "論文名稱": "Divergent Far-Field III-Nitride Ultrathin Film-Transferred Photonic Crystal Light-Emitting Diodes",
+      "期刊名稱": "Jpn. J Appl. Phys. (SCIE)",
+      "作者群": "C. F. Lai, C. H. Chao, H. C. Kuo*, P. Yu, H. H. Yen, and W. Y. Yeh"
+    },
+    {
+      "論文名稱": "Far-Field and Near-Field Distribution of GaN-Based Photonic Crystal LEDs With Guided Mode Extraction",
+      "期刊名稱": "IEEE. J. Sel. Top. Quant. Electron. (SCIE)",
+      "作者群": "C. F. Lai, J. Y. Chi, H. C. Kuo*, H. H. Yen, C. E. Lee, C. H. Chao, W. Y. Yeh, and T. C. Lu"
+    },
+    {
+      "論文名稱": "Far-field of GaN film-transferred green light-emitting diodes with two-dimensional photonic crystals",
+      "期刊名稱": "Optics Express (SCIE)",
+      "作者群": "C. F. Lai, J. Y. Chi, H. C. Kuo*, H. H. Yen, C. E. Lee, C. H. Chao, H. T. Hsueh, and W. Y. Yeh"
+    },
+    {
+      "論文名稱": "Directional light extraction enhancement from GaN-based film-transferred photonic crystal light-emitting diodes",
+      "期刊名稱": "Appl. Phys. Lett. (SCIE)",
+      "作者群": "C. F. Lai, C. H. Chao, H. C. Kuo*, H. H. Yen, C. E. Lee, W. Y. Yeh"
+    },
+    {
+      "論文名稱": "Nitride-Based Thin-Film Light-Emitting Diodes With Photonic Quasi-Crystal Surface",
+      "期刊名稱": " IEEE Photon. Tech. Lett. (SCIE)",
+      "作者群": "C. E. Lee, C. F. Lai, Y. C. Lee, H. C. Kuo*, T. C. Lu, and S. C. Wang"
+    },
+    {
+      "論文名稱": "Polarized light emission from photonic crystal light-emitting diodes",
+      "期刊名稱": " Appl. Phys. Lett. (SCIE)",
+      "作者群": "C. F. Lai, J. Y. Chi, H. H. Yen, H. C. Kuo*, C. H. Chao, H. T. Hsueh, J.-F. T. Wang, C. Y. Huang and W. Y. Yeh"
+    },
+    {
+      "論文名稱": "Anisotropy of light extraction from GaN two-dimensional photonic crystal light-emitting diodes",
+      "期刊名稱": "Optics Express (SCIE)",
+      "作者群": "C. F. Lai, J. Y. Chi, H. C. Kuo*, C. H. Chao, H. T. Hsueh, J.-F. T. Wang and W. Y. Yeh"
+    },
+    {
+      "論文名稱": "Lasing characteristics of a GaN photonic crystal nanocavity light source",
+      "期刊名稱": "Appl. Phys. Lett. (SCIE)",
+      "作者群": "C. F. Lai, P. Yu, T. C. Wang, H. C. Kuo*, T. C. Lu, S. C. Wang, and C. K. Lee"
+    },
+    {
+      "論文名稱": "Anisotropy of light extraction from two-dimensional photonic crystal light-emitting diodes",
+      "期刊名稱": "Appl. Phys. Lett. (SCIE)",
+      "作者群": "C. F. Lai, H. C. Kuo*, C. H. Chao, H. T. Hsueh, J.-F. T. Wang, W. Y. Yeh, and J. Y. Chi"
+    }
+  ],
+  "journal2": [],
+  "conference": [
+    {
+      "論文名稱": "Low-cost fabrication of warm-white LEDs using composite silica photonic crystals",
+      "會議名稱": "The 3rd International Conference on Light-Emitting Devices and Their Industrial Applications (LEDIA'15)",
+      "作者群": "C. F. Lai*, H. C. Hsu, Y. C. Lee, and T. L. Tsai"
+    },
+    {
+      "論文名稱": "Excellent Color-Rendering Index Candlelight LEDs Containing Composite Photonic Crystals",
+      "會議名稱": "Optics & Photonics Taiwan, the International Conference (OPTIC) 2014",
+      "作者群": "J. Y. Zeng, Y. C. Wang, Y. C. Lai, Z. L. Huang, H. C. Hsu, and Chun-Feng Lai*"
+    },
+    {
+      "論文名稱": "High-Reliability of Warm-White LEDs Containing Composite Silica Photonic Crystals",
+      "會議名稱": "Optics & Photonics Taiwan, the International Conference (OPTIC) 2014",
+      "作者群": "Y. C. Wang, J. Y. Zeng, Y. C. Lai, Z. L. Huang, H. C. Hsu, and Chun-Feng Lai*"
+    },
+    {
+      "論文名稱": "Phosphor-saving, Excellent Color-Rendering Index Candlelight LEDs Containing Composite Photonic Crystals",
+      "會議名稱": "CLEO:2014 Conference",
+      "作者群": "Chun-Feng Lai* and C. J. Wu"
+    },
+    {
+      "論文名稱": "Highly bright red light produced by fluorescence polymer/InGaN hybrid light-emitting diodes",
+      "會議名稱": "Optics & Photonics Taiwan, the International Conference (OPTIC) 2013",
+      "作者群": "C. L. Hsieh,Chun-Feng Lai,* C. J. Chang,Y. L. Chen, and C. S. Tuan"
+    },
+    {
+      "論文名稱": "High brightness red light emission from fluorescence polymer/InGaN hybrid light-emitting diodes",
+      "會議名稱": "2013 International Conference on Solid State Devices and Materials (SSDM2013)",
+      "作者群": "C. L. Hsieh, C. Y. Lin, Chun-Feng Lai*, and C. J. Chang"
+    },
+    {
+      "論文名稱": "Emission aperture limited the guided mode extraction characteristics of GaN microcavity micro-LED diodes with photonic crystals",
+      "會議名稱": "Optics & Photonics Taiwan, International Conference 2012",
+      "作者群": "Chun-Feng Lai*, and Cheng-Liang Hsieh"
+    },
+    {
+      "論文名稱": "Enhanced photovoltaic properties in InGaN-based solar cells for hybrid Bi 2O3/P3HT heterojunction structures",
+      "會議名稱": "Optics & Photonics Taiwan, International Conference 2012",
+      "作者群": "Chun-Feng Lai*, Chung-Chieh Chang, Cheng-Liang Hsieh, and Mau-Kuen Wu"
+    },
+    {
+      "論文名稱": "Holographic polarization-selective elements with a low refractive index modulation strength and a wide splitting angle",
+      "會議名稱": "International Workshop on Holography and related Technologies 2012",
+      "作者群": "Fan-His Hsu, Jing-Heng Chen*, Kun-Huang Chen, Jiun-You Lin, Fey Lin, and Ken Y. Hsu"
+    },
+    {
+      "論文名稱": "Guided mode emission characteristics of GaN-based ultrathin-film micro-light-emitting diodes with photonic crystals",
+      "會議名稱": "2012 International Conference on Solid State Devices and Materials (SSDM2012)",
+      "作者群": "Chun-Feng Lai*"
+    },
+    {
+      "論文名稱": "Characterization of pulsed laser deposited bismuth oxide ultrathin-film enhanced photovoltaic properties of InGaN solar cells",
+      "會議名稱": "2012 International Conference on Solid State Devices and Materials (SSDM2012)",
+      "作者群": "Chun-Feng Lai*, Chung-Chieh Chang, Min-Hsueh Wen, Chung-Kwei Lin, Mau-Kuen Wu"
+    },
+    {
+      "論文名稱": "Healthy, Safe and Environment Benign LED Lighting Source",
+      "會議名稱": "International Workshop of Solid?state Lighting with Human Factors Technology (IWSSLHF 2012)",
+      "作者群": "22.\tJing-Heng Chen, Po-Hao Weng, Gang-Juan Lee, Shih-Hsin Ma, Chun-Feng Lai, Chin-Yi Chen, Jerry J. Wu, Tzyy-Leng Horng, and Kun-Huang Chen"
+    },
+    {
+      "論文名稱": "白光LED螢光粉之沉澱現象改善與其發光效能之分析",
+      "會議名稱": "2011光電與通訊工程研討會",
+      "作者群": "王銘煒，馬仕信，陳敬恒，吳俊哲，陳錦毅，洪子倫，賴俊峰"
+    },
+    {
+      "論文名稱": "Optimized Micro-Cavity and Photonic Crystal in GaN-based            Thin-Film Light-Emitting Diodes for Highly Directional Beam Profiles",
+      "會議名稱": "SSDM2010 Conference",
+      "作者群": "C. F. Lai*, C. H. Chao, and W. Y. Yeh"
+    },
+    {
+      "論文名稱": "Hole shape effect of photonic crystals on the guided resonance modes in GaN-based ultra-thin film-transferred light-emitting diodes",
+      "會議名稱": "CLEO/QELS2010 Conference",
+      "作者群": "C. F. Lai*, C. H. Chao, H. C. Kuo, P. Yu, and W. Y. Yeh"
+    },
+    {
+      "論文名稱": "Divergent Far-Field III-Nitride Ultrathin Film-Transferred Photonic Crystal Light-Emitting Diodes",
+      "會議名稱": "SSDM2009 Conference",
+      "作者群": "C. F. Lai, C. C. Chao, H. C. Kuo*, P. Yu, H. H. Yen, and W. Y. Yeh"
+    },
+    {
+      "論文名稱": "GaN-based film-transferred light-emitting diodes with photonic crystal",
+      "會議名稱": "CLEO/QELS2009 Conference",
+      "作者群": "C. F. Lai, J. Y. Chi, C. H. Chao, C. E. Lee, H. C. Kuo*, C. Y. Huang, W. Y. Yeh, and T. C. Lu"
+    }
+  ],
+  "book": [
+    {
+      "專業書籍": "Advances in Colloid Science, Chapter 4 Colloidal Photonic Crystals Containing Copper-Oxide and Silver Nanoparticles with Tunable Structural Colors",
+      "出版單位": "InTech",
+      "作者群": "Chun-Feng Lai*"
+    },
+    {
+      "專業書籍": "Photonic Crystals",
+      "出版單位": "IN-TECH",
+      "作者群": "Chun-Feng Lai*"
+    },
+    {
+      "專業書籍": "Nitride semiconductor LEDs, Chapter 6 Fabrication of nitride LEDs",
+      "出版單位": "Woodhead Publishing",
+      "作者群": "R.-H.Horng,D.-S.Wuu,C.-F.Lin,and C.-F. Lai*"
+    },
+    {
+      "專業書籍": "Recent Optical and Photonic Technologies",
+      "出版單位": "IN-TECH",
+      "作者群": " C. F. Lai, C. H. Chao, and H. C. Kuo*"
+    }
+  ],
+  "patent": [
+    {
+      "title": "發明",
+      "desc": "高緻密性複合發光材料、其製備方法及發光裝置"
+    },
+    {
+      "title": "發明",
+      "desc": "具負載與釋放活性成分的奈米粒子、其製造方法與眼用裝置之應用"
+    },
+    {
+      "title": "發明",
+      "desc": "發光半導體材料與其應用"
+    },
+    {
+      "title": "發明",
+      "desc": "量子點顯示裝置"
+    },
+    {
+      "title": "發明",
+      "desc": "量子點材料及其製備方法"
+    },
+    {
+      "title": "發明",
+      "desc": "利用水凝膠膜之隱形眼鏡及其製造方法"
+    },
+    {
+      "title": "發明",
+      "desc": "Hydrogel-based contact lens and methods of manufacturing thereof"
+    },
+    {
+      "title": "發明",
+      "desc": "發光元件"
+    },
+    {
+      "title": "發明",
+      "desc": "发光二极管灯具"
+    },
+    {
+      "title": "發明",
+      "desc": "發光裝置"
+    },
+    {
+      "title": "發明",
+      "desc": "增透膠膜及其製作方法"
+    },
+    {
+      "title": "發明",
+      "desc": "發光元件"
+    },
+    {
+      "title": "發明",
+      "desc": "發光二極管燈具"
+    },
+    {
+      "title": "發明",
+      "desc": "有機發光裝置及其製作方法"
+    },
+    {
+      "title": "發明",
+      "desc": "發光元件"
+    },
+    {
+      "title": "發明",
+      "desc": "發光裝置及其操作與製造方法"
+    },
+    {
+      "title": "發明",
+      "desc": "發光元件"
+    },
+    {
+      "title": "發明",
+      "desc": "發光單元陣列、用以製造其之方法及成像裝置"
+    },
+    {
+      "title": "發明",
+      "desc": "發光裝置"
+    },
+    {
+      "title": "發明",
+      "desc": "Imaging apparatus having an optical sensor"
+    },
+    {
+      "title": "發明",
+      "desc": "發光裝置"
+    },
+    {
+      "title": "發明",
+      "desc": "Light emitting devices"
+    },
+    {
+      "title": "發明",
+      "desc": "Light-Polarizing structure"
+    },
+    {
+      "title": "發明",
+      "desc": "光偏極化結構及發光裝置"
+    },
+    {
+      "title": "發明",
+      "desc": "發光元件"
+    },
+    {
+      "title": "發明",
+      "desc": "利用水凝膠膜之隱形眼鏡及其製造方法"
+    },
+    {
+      "title": "發明",
+      "desc": "Quantum dot materials and method of manufacturing thereof"
+    }
+  ],
+  "most": [
+    {
+      "name": "(個別型)產學合作計畫－開發近紅外寬頻LEDs結合光感測器之光學檢測模組應用於糖份檢測",
+      "schoolYear": "113"
+    },
+    {
+      "name": "(廠配)明揚光學有限公司(個別型)產學合作計畫－開發近紅外寬頻LEDs結合光感測器之光學檢測模組應用於糖份檢測",
+      "schoolYear": "113"
+    },
+    {
+      "name": "超寬頻螢光(可見光-近紅外光)之複合磷化銦基核/殼量子柱製備和動力學特性研究及其偏振LEDs光源開發(3/3)",
+      "schoolYear": "113"
+    },
+    {
+      "name": "II-VI族多腳體奈米晶體之光催化CO2還原性能研究",
+      "schoolYear": "113"
+    },
+    {
+      "name": "超寬頻螢光(可見光-近紅外光)之複合磷化銦基核/殼量子柱製備和動力學特性研究及其偏振LEDs光源開發(2/3)",
+      "schoolYear": "112"
+    },
+    {
+      "name": "(個別型)產學合作計畫－超寬頻(白光-近紅外)LEDs應用於非侵入式光學檢測模組開發",
+      "schoolYear": "111"
+    },
+    {
+      "name": "(廠配)明揚光學有限公司(個別型)產學合作計畫－超寬頻(白光-近紅外)LEDs應用於非侵入式光學檢測模組開發",
+      "schoolYear": "111"
+    },
+    {
+      "name": "超解析彩色全像三維顯示技術開發(3/3)",
+      "schoolYear": "111"
+    },
+    {
+      "name": "超寬頻螢光(可見光-近紅外光)之複合磷化銦基核/殼量子柱製備和動力學特性研究及其偏振LEDs光源開發(1/3)",
+      "schoolYear": "111"
+    },
+    {
+      "name": "大孔介孔矽奈米粒子共軛大分子量玻尿酸之保濕能力特性研究",
+      "schoolYear": "111"
+    },
+    {
+      "name": "超解析彩色全像三維顯示技術開發(2/3)",
+      "schoolYear": "110"
+    },
+    {
+      "name": "高量子效率與窄半高寬之磷化銦合金核殼量子點製備與光學特性研究",
+      "schoolYear": "110"
+    },
+    {
+      "name": "(個別型)產學合作計畫－開發高量子效率和高穩定性之複合磷化銦合金核殼量子點應用於白光mini-LED背光模組",
+      "schoolYear": "109"
+    },
+    {
+      "name": "(廠配)隆達電子股份有限公司(個別型)產學合作計畫－開發高量子效率和高穩定性之複合磷化銦合金核殼量子點應用於白光mini-LED背光模組",
+      "schoolYear": "109"
+    },
+    {
+      "name": "超解析彩色全像三維顯示技術開發(1/3)",
+      "schoolYear": "109"
+    },
+    {
+      "name": "開發官能性介孔二氧化矽奈米粒子載藥隱形眼鏡之藥物載體構建及其性能研究",
+      "schoolYear": "109"
+    },
+    {
+      "name": "(應用型)產學合作計畫－高穩定性複合量子點應用於mini LED之全彩顯示裝置",
+      "schoolYear": "108"
+    },
+    {
+      "name": "(廠配)隆達電子股份有限公司(應用型)產學合作計畫－高穩定性複合量子點應用於mini LED之全彩顯示裝置",
+      "schoolYear": "108"
+    },
+    {
+      "name": "(萌芽計畫)逢甲大學－國際產學聯盟計畫II",
+      "schoolYear": "108"
+    },
+    {
+      "name": "環保高穩定性複合全無機銫錫鹵鈣鈦礦奈米晶體開發及動力學研究並應用於白光LED照明",
+      "schoolYear": "108"
+    },
+    {
+      "name": "(應用型)產學合作計畫－夜視成像系統(NVIS)兼容之複合全無機鈣鈦礦量子點LEDs背光模組",
+      "schoolYear": "107"
+    },
+    {
+      "name": "(開發型)產學合作計畫－新穎複合鈣鈦礦量子點結合三維多孔洞奈米結構增益技術之白光LEDs應用於背光模組(2/2)",
+      "schoolYear": "107"
+    },
+    {
+      "name": "(廠配)明揚光學有限公司(應用型)產學合作計畫－夜視成像系統(NVIS)兼容之複合全無機鈣鈦礦量子點LEDs背光模組",
+      "schoolYear": "107"
+    },
+    {
+      "name": "(廠配)隆達電子股份有限公司(開發型)產學合作計畫－新穎複合鈣鈦礦量子點結合三維多孔洞奈米結構增益技術之白光LEDs應用於背光模組(2/2)",
+      "schoolYear": "107"
+    },
+    {
+      "name": "(應用型)產學合作計畫－有機/無機複合奈米結構之螢光膠膜應用於提升NTSC之白光LED背光模組",
+      "schoolYear": "106"
+    },
+    {
+      "name": "(開發型)產學合作計畫－新穎複合鈣鈦礦量子點結合三維多孔洞奈米結構增益技術之白光LEDs應用於背光模組(1/2)",
+      "schoolYear": "106"
+    },
+    {
+      "name": "(廠配)明揚光學有限公司(應用型)產學合作計畫－有機/無機複合奈米結構之螢光膠膜應用於提升NTSC之白光LED背光模組",
+      "schoolYear": "106"
+    },
+    {
+      "name": "(廠配)隆達電子股份有限公司(開發型)產學合作計畫－新穎複合鈣鈦礦量子點結合三維多孔洞奈米結構增益技術之白光LEDs應用於背光模組(1/2)",
+      "schoolYear": "106"
+    },
+    {
+      "name": "三維巨孔複合共軛染料膠膜之螢光光譜調變與動力學分析",
+      "schoolYear": "106"
+    },
+    {
+      "name": "(應用型)產學合作計畫－新型螢光膠膜應用於白光LED照明燈具",
+      "schoolYear": "105"
+    },
+    {
+      "name": "(廠配)明揚光學有限公司(應用型)產學合作計畫－新型螢光膠膜應用於白光LED照明燈具",
+      "schoolYear": "105"
+    },
+    {
+      "name": "準非晶奈米結構結合矽水凝膠材料開發新型濾藍光角膜接觸鏡之特性研究",
+      "schoolYear": "105"
+    },
+    {
+      "name": "新穎複合結構染料螢光膠膜之製備及應用於白光LEDs之光源特性提升研究",
+      "schoolYear": "105"
+    },
+    {
+      "name": "製作多重對稱性之準晶格光子晶體提升發光二極體之光萃取效率",
+      "schoolYear": "104"
+    },
+    {
+      "name": "(開發型)產學合作計畫－高演色性暖白光及健康安全燭光LED光源之螢光粉減量技術研發(2/2)",
+      "schoolYear": "103"
+    },
+    {
+      "name": "(廠配)隆達電子股份有限公司(開發型)產學合作計畫－高演色性暖白光及健康安全燭光LED光源之螢光粉減量技術研發(2/2)",
+      "schoolYear": "103"
+    },
+    {
+      "name": "三維光子晶體結合奈米粒子應用於新穎光電元件之技術開發與研究",
+      "schoolYear": "103"
+    },
+    {
+      "name": "(開發型)產學合作計畫─高演色性暖白光及健康安全燭光LED光源之螢光粉減量技術研發(1/2)",
+      "schoolYear": "102"
+    },
+    {
+      "name": "(廠配)(開發型)產開合作計畫─高演色性暖白光及健康安全燭光LED光源之螢光粉減量技術研發(1/2)(隆達電子股份有限公司)",
+      "schoolYear": "102"
+    },
+    {
+      "name": "三維膠體和金屬光子晶體之新穎奈米光學和光電元件技術開發與應用",
+      "schoolYear": "102"
+    },
+    {
+      "name": "全彩高準直光場形發光二極體光機引擎之技術開發應用於嵌入式超微型投影機",
+      "schoolYear": "101"
+    },
+    {
+      "name": "全彩化高準直光場形之發光二極體光源技術開發應用於超微型投影機",
+      "schoolYear": "100"
+    }
+  ],
+  "tech": [],
+  "induAca": [
+    "PD Spectral response (SR) 代測服務24 (2025-12 to 2026-12)",
+    "PD Spectral response (SR) 代測服務68 (2025-01 to 2026-01)",
+    "PD Spectral response（SR）代測服務 (2024-12 to 2025-03)",
+    "PD Spectral response (SR) 代測服務 (2024-08 to 2024-11)",
+    "PD Spectral response (SR) 代測服務 (2024-07 to 2025-07)",
+    "PD Spectral response (SR)代測服務 (2024-05 to 2025-05)",
+    "寬光譜螢光量子點發光二極體(II) (2022-05 to 2022-08)",
+    "寬光譜螢光量子點發光二極體 (2022-03 to 2022-05)",
+    "「載藥隱形眼鏡特性評估（I）」研究計畫 (2021-07 to 2021-09)",
+    "壓克力基矽奈米球 (2020-12 to 2021-02)",
+    "FCU silica nanospheres產品製備計畫-1 (2020-06 to 2020-08)",
+    "高穩定性複合量子點之光學特性研究 (2020-06 to 2021-05)",
+    "FCU silica nanospheres產品製備計畫 (2020-02 to 2020-03)",
+    "夜視影像系統(NVIS)兼容之新型白光LEDs開發 (2020-02 to 2021-01)",
+    "應用於OLED取光效率提升之光子晶體結構模擬與製程技術 (2014-01 to 2014-12)",
+    "大角度發光場形之藍光LED晶粒 (2013-04 to 2013-04)"
+  ],
+  "perform": [],
+  "reward": [
+    "113年度國科會補助大專校院研究獎勵 (113, 2024-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (113, 2024-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (113, 2024-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (113, 2024-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (113, 2024-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (113, 2024-11) - 逢甲大學",
+    "113年度科技部產學合作計畫成果發表暨績效考評會之「產學成果海報展示優良獎」 (113, 2024-10) - 國科會工程處",
+    "2024台灣創新技術博覽會/金牌獎 (113, 2024-10) - 中華民國對外貿易發展協會",
+    "2024台灣創新技術博覽會/銀牌獎 (113, 2024-10) - 中華民國對外貿易發展協會",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "111年度科技部產學合作計畫成果發表暨績效考評會之「產學成果海報展示優良獎」 (111, 2022-12) - 國科會工程處",
+    "2022 華立創新材料大賽/優選獎 (111, 2022-11) - 中國材料科學學會",
+    "逢甲大學論文著作獎勵傑出獎 (111, 2022-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (111, 2022-11) - 逢甲大學",
+    "111年度國科會補助大專校院研究獎勵 (111, 2022-10) - 研究發展處",
+    "110年度科技部產學合作計畫成果發表暨績效考評會之「產學成果口頭報告特優獎」 (110, 2021-12) - 科技部工程司",
+    "逢甲大學論文著作獎勵傑出獎 (110, 2021-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (110, 2021-11) - 逢甲大學",
+    "2021 華立創新材料大賽/銀質獎 (110, 2021-11) - 中國材料科學學會",
+    "110年度科技部補助大專校院研究獎勵 (110, 2021-10) - 產學合作處",
+    "逢甲大學論文著作獎勵傑出獎 (109, 2020-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (109, 2020-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (109, 2020-11) - 逢甲大學",
+    "109年度科技部產學合作計畫成果發表暨績效考評會之「產學成果海報展示優良獎」 (109, 2020-10) - 科技部工程司",
+    "109年度科技部補助大專校院研究獎勵 (109, 2020-10) - 逢甲大學",
+    "2020台灣創新技術博覽會/金牌獎 (109, 2020-09) - 中華民國對外貿易發展協會",
+    "2020台灣創新技術博覽會/銀牌獎 (109, 2020-09) - 中華民國對外貿易發展協會",
+    "第九屆有庠科技發明獎 (108, 2020-05) - 財團法人徐有庠先生紀念基金會",
+    "逢甲大學論文著作獎勵傑出獎 (108, 2019-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (108, 2019-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (108, 2019-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (108, 2019-11) - 逢甲大學",
+    "「2019台灣創新技術博覽會-創新發明館」榮獲入選「創新發明館」現場展示研發成果 (108, 2019-09) - 科技部/教育部",
+    "108學年度科技部補助大專校院研究獎勵 (108, 2019-09) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (107, 2018-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (107, 2018-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (107, 2018-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (107, 2018-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (107, 2018-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (107, 2018-11) - 逢甲大學",
+    "107年度科技部產學合作計畫成果發表暨績效考評會之「產學成果海報展示特優獎」 (107, 2018-10) - 科技部工程司",
+    "107年度科技部補助大專校院研究獎勵 (107, 2018-08) - 逢甲大學",
+    "2017 IIP 第十三屆國際傑出發明家獎 「國際傑出發明家國光獎章」 (106, 2017-11) - 台灣國際發明得獎協會",
+    "逢甲大學論文著作獎勵傑出獎 (106, 2017-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (106, 2017-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (106, 2017-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (106, 2017-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (106, 2017-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (106, 2017-11) - 逢甲大學",
+    "逢甲大學優良教材獎勵優等獎 (106, 2017-11) - 逢甲大學",
+    "106年度科技部獎勵特殊優秀人才 (106, 2017-08) - 產學合作處",
+    "2017 Albert Nelson Marquis Lifetime Achievement Award (105, 2017-05) - Marquis Who's Who",
+    "105學年度優良教材佳作獎 (105, 2016-11) - 逢甲大學",
+    "105學年度論文著作傑出獎 (105, 2016-11) - 逢甲大學",
+    "逢甲大學優良教材獎勵佳作獎 (105, 2016-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (105, 2016-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (105, 2016-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (105, 2016-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (105, 2016-11) - 逢甲大學",
+    "104年度大專學生研究計畫研究創作獎 (105, 2016-09) - 科技部",
+    "105年度科技部獎勵特殊優秀人才 (105, 2016-08) - 產學合作處",
+    "Who's Who in the World 2016 (104, 2016-01) - Marquis Who's Who",
+    "104學年度優良教材優等獎 (104, 2015-11) - 逢甲大學",
+    "104學年度論文著作傑出獎 (104, 2015-11) - 逢甲大學",
+    "逢甲大學優良教材獎勵優等獎 (104, 2015-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (104, 2015-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (104, 2015-11) - 逢甲大學",
+    "104年度科技部獎勵特殊優秀人才 (104, 2015-08) - 產學合作處",
+    "103學年度論文著作傑出獎 (103, 2014-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (103, 2014-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (103, 2014-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (103, 2014-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (103, 2014-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (103, 2014-11) - 逢甲大學",
+    "理學院論文競賽 (102, 2014-05) - 優等獎/逢甲大學理學院",
+    "102學年度論文著作傑出獎 (102, 2013-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (102, 2013-11) - 逢甲大學",
+    "101學年度論文著作傑出獎 (101, 2012-11) - 逢甲大學",
+    "2009 崇越論文大賞競賽 (98, 2009-07) - 優等/台灣電子商務學會"
+  ],
+  "speech": [
+    {
+      "演講題目": "高穩定性複合量子點於顯示器與生醫檢測應用",
+      "邀請單位": "科技部中部科學園區管理局",
+      "演講日期": "2020-10"
+    },
+    {
+      "演講題目": "各種維度奈米結構於發光二極體之應用",
+      "邀請單位": "彰化師範大學/物理系",
+      "演講日期": "2015-11"
+    },
+    {
+      "演講題目": "LED透明基板封裝技術",
+      "邀請單位": "三建產業情報",
+      "演講日期": "2014-07"
+    },
+    {
+      "演講題目": "不同維度光子晶體於發光二極體之應用",
+      "邀請單位": "隆達電子股份有限公司",
+      "演講日期": "2014-01"
+    }
+  ],
+  "material": [],
+  "tal": []
+}

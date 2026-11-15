@@ -1,0 +1,78 @@
+{
+  "teacherId": "T01156",
+  "name": "葉俊亨",
+  "mainUnit": "商學院",
+  "detailUnit": "行銷學系",
+  "skill": [
+    "情意計算Affective Computing",
+    "行銷資料科學Data Science for Marketing",
+    "使用者經驗度量Measuring the User Experience",
+    "行為偵測及分析Human Behavior Detection and Analysis",
+    "型別辨識Pattern Recognition",
+    "數位行銷分析Digital Marketing Analysis"
+  ],
+  "edu": [
+    "大同大學 資訊工程研究所 博士"
+  ],
+  "fcuExp": [
+    "數位與全球行銷研究中心 主任",
+    "行銷學系 兼任助理教授",
+    "行銷學系 兼任助理教授",
+    "行銷學系 兼任助理教授",
+    "行銷學系 助理教授"
+  ],
+  "currjob": [],
+  "otherExp": [
+    "銘傳大學 電腦與通訊工程學系/所 講師"
+  ],
+  "journal": [],
+  "journal2": [],
+  "conference": [
+    {
+      "論文名稱": "Applying Green Synergy Technology forward an International Symbiotic Eco-community: A Case Study in Dongshi District, Taichung City, Taiwan",
+      "會議名稱": "1st International Conference on Pollution Prevention and Clean Technologies (ICPPCT) & Taiwan-India Workshop on Emerging Environment and Energy Challenges of Technology Exchange",
+      "作者群": "Shu-Yii Wu, Chiu-Yue Lin, Chyi-How Lay, Shu-Hui Chen, Jun-Heng Yeh, Chun-Yuan Chu, Chia-Min Chang, and Xin-Yu Zeng"
+    }
+  ],
+  "book": [],
+  "patent": [],
+  "most": [
+    {
+      "name": "基於電商GA資料，應用馬可夫鏈探討食品業者之顧客旅程地圖，並以類神經網路預測顧客價值",
+      "schoolYear": "112"
+    },
+    {
+      "name": "應用K-means Elbow 方法與HDBSCAN 演算法對客戶分群效果之比較 —以電商平台消費者行為分析為例",
+      "schoolYear": "111"
+    }
+  ],
+  "tech": [],
+  "induAca": [
+    "大鵬灣國家風景區品牌視覺計畫 (2024-11 to 2024-12)",
+    "大鵬灣國家風景區社群行銷數據分析及行銷建議計畫 (2024-03 to 2024-07)",
+    "大鵬灣國家風景區影音拍攝及社群擴展計畫 (2024-02 to 2024-07)",
+    "幸福良食影片拍攝計畫 (2021-10 to 2021-12)",
+    "「inooknit 在後疫情時代的品牌推廣改進與行銷策略建議」計畫 (2021-02 to 2021-07)",
+    "綠色諧能．循環永續之國際共好計畫 (2021-01 to 2021-12)"
+  ],
+  "perform": [],
+  "reward": [
+    "110學年度優良導師 (110, 2022-11) - 學生事務處",
+    "110 (2021) 年全國大學校院數位人文大數據學生競賽 (110, 2022-04) - 教育部",
+    "2021年臺灣經貿網跨境電商實戰營競賽 (110, 2021-09) - 經濟部國際貿易局, 中華民國對外貿易發展協會"
+  ],
+  "speech": [
+    {
+      "演講題目": "品牌設計與經營-數位行銷數據",
+      "邀請單位": "逢甲大學「綠色諧能•循環永續之國際共好計",
+      "演講日期": "2021-09"
+    },
+    {
+      "演講題目": "永續智慧創新黑客松-商業模式",
+      "邀請單位": "逢甲大學",
+      "演講日期": "2020-11"
+    }
+  ],
+  "material": [],
+  "tal": []
+}

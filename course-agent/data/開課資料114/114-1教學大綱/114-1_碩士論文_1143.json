@@ -1,0 +1,591 @@
+{
+  "success": true,
+  "info": {
+    "yms_year": 114.0,
+    "yms_smester": 1.0,
+    "sub_id": "61530",
+    "cls_id": "CE03320",
+    "scr_dup": "001",
+    "sub_id3": "ARCH7990",
+    "cls_name": "建築碩二學位學程",
+    "cls_ename": "Master's Program of Architecture",
+    "sub_name": "碩士論文",
+    "sub_ename": "MASTER THESIS",
+    "scr_mso": "必修",
+    "scr_mso_en": "Required",
+    "scr_credit": 0.0,
+    "scr_periodly": "(五)00",
+    "scr_periodly_eng": "(Fri)00",
+    "lang_name": "中文                                                      ",
+    "lang_ename": "Chinese",
+    "scr_room": " ",
+    "scr_room_eng": " ",
+    "scr_teacher": "吳保寬",
+    "scr_teacher_eng": "Pao-Kuan Wu",
+    "scr_selcode": "1143",
+    "scr_elearning": "全學期",
+    "scr_elearning_en": "Full semester",
+    "scr_hours": "1",
+    "scr_english": "N",
+    "unt_name": null,
+    "unt_ename": null,
+    "link_traminal": null,
+    "link_traminal_en": null,
+    "scr_ldl": "D",
+    "course_mk": "N",
+    "teams_mk": "N",
+    "sub_title": null,
+    "sub_title_en": null,
+    "sub_describe": null,
+    "sub_describe_en": null,
+    "hasDescription": null,
+    "hasInstructor": null,
+    "hasTA": null,
+    "hasTextBooks": null,
+    "hasReadings": null,
+    "hasiSoftwares": null,
+    "hasAssistSoftwares": null,
+    "hasObjective": null,
+    "hasWeeklyScds": null,
+    "hasGradeRules": null,
+    "hasGradeRuleDescribe": null,
+    "hasIntegrity": null,
+    "hasCoursePol": null,
+    "hasCourseRem": null,
+    "hasObjectiveReleation": null,
+    "hasTopicSdgs": null,
+    "hasSubTitleDesc": null
+  },
+  "subTitleDesc": null,
+  "description": {
+    "sub_id3": null,
+    "sub_name": "碩士論文",
+    "sub_ename": "MASTER THESIS",
+    "describe_ch": "為碩士班必修課程，需就其研究議題邀請從事該議題相關研究之教師擔任指導教授， 經學科考及學位考後取得學位",
+    "describe_eh": "Understand  how to collect and alalysis the data, also understand how to writing",
+    "pre_subname": "",
+    "pre_sub_id3": null,
+    "pre_sub_ename": "",
+    "pre_describe": null,
+    "pre_describe_en": null,
+    "scr_credit": 0.0
+  },
+  "targets": [
+    {
+      "seq": 1,
+      "describe_ch": "瞭解如何收集資料",
+      "describe_en": "understand how to collect data"
+    },
+    {
+      "seq": 2,
+      "describe_ch": "瞭解資料之整理分析",
+      "describe_en": "understand how to alalysis the data"
+    },
+    {
+      "seq": 3,
+      "describe_ch": "瞭解論文之撰寫",
+      "describe_en": "understand how to writing"
+    }
+  ],
+  "teachersInfo": [
+    {
+      "cname": "吳保寬",
+      "ename": "Pao-Kuan Wu",
+      "period": " ",
+      "roletype": 0,
+      "email": "pkwu@o365.fcu.edu.tw",
+      "ext": "3309"
+    }
+  ],
+  "textBooks": {
+    "yms_year": 114.0,
+    "yms_smester": 1.0,
+    "cls_id": "CE03320",
+    "sub_id": "61530",
+    "scr_dup": "001",
+    "tpb_seq": 1,
+    "tpb_book": "<div>碩士論文課程教科書由論文指導教授指定。</div>\n",
+    "tpb_book_en": null
+  },
+  "readings": {
+    "yms_year": 114.0,
+    "yms_smester": 1.0,
+    "cls_id": "CE03320",
+    "sub_id": "61530",
+    "scr_dup": "001",
+    "tpc_seq": 1,
+    "tpc_book": "<div>碩士論文課程教科書由論文指導教授指定。</div>\n",
+    "tpc_book_en": null
+  },
+  "iSoftwares": [],
+  "assistSoftwares": [],
+  "weeklyScds": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CE03320",
+      "sub_id": "61530",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "1-7",
+      "tpd_reading": null,
+      "tpd_reading_en": null,
+      "tpd_learn": null,
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CE03320",
+      "sub_id": "61530",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "8",
+      "tpd_reading": null,
+      "tpd_reading_en": null,
+      "tpd_learn": null,
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CE03320",
+      "sub_id": "61530",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "9",
+      "tpd_reading": null,
+      "tpd_reading_en": null,
+      "tpd_learn": null,
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CE03320",
+      "sub_id": "61530",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "10",
+      "tpd_reading": null,
+      "tpd_reading_en": null,
+      "tpd_learn": null,
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CE03320",
+      "sub_id": "61530",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "11-13",
+      "tpd_reading": null,
+      "tpd_reading_en": null,
+      "tpd_learn": null,
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CE03320",
+      "sub_id": "61530",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "14-15",
+      "tpd_reading": null,
+      "tpd_reading_en": null,
+      "tpd_learn": null,
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CE03320",
+      "sub_id": "61530",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "16-17",
+      "tpd_reading": null,
+      "tpd_reading_en": null,
+      "tpd_learn": null,
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CE03320",
+      "sub_id": "61530",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "18-19",
+      "tpd_reading": null,
+      "tpd_reading_en": null,
+      "tpd_learn": null,
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    }
+  ],
+  "gradeRules": [],
+  "gradeRuleDescribe": {
+    "yms_year": 114.0,
+    "yms_smester": 1.0,
+    "cls_id": "CE03320",
+    "sub_id": "61530",
+    "scr_dup": "001",
+    "tpa_score_new": "<div>專題報告</div>\n",
+    "tpa_score_new_en": null,
+    "course_pol": "1. 定期會議\n\n   * 學生須依指導教授或課程安排，定期參與討論或進度報告，並準時出席。\n\n2. 進度回報\n\n   * 須依課程規劃，提交研究計畫、文獻回顧、研究方法、分析結果與論文草稿等階段性成果。\n\n3. 學術誠信\n\n   * 所有研究與寫作須遵守學術倫理規範，嚴禁抄襲、捏造或偽造數據。\n\n4. 積極溝通\n\n   * 學生須與指導教授保持良好溝通，遇到困難應主動尋求協助，不得長期失聯。\n\n5. 遵守時程\n\n   * 須依學校及系所公告之時程完成論文初稿、定稿及送審，若未能配合將影響畢業進度。\n\n6. 尊重合作（若為團隊研究）\n\n   * 在合作研究中，須清楚界定並落實各自責任，尊重他人貢獻。",
+    "course_pol_en": null,
+    "course_rem": "1. 論文是學術能力的展現\n\n   * 碩士論文不僅是畢業門檻，更是專業領域的研究成果，應以嚴謹態度完成。\n\n2. 時間管理是關鍵\n\n   * 建議及早規劃，避免將研究與寫作壓縮在最後階段，以免影響品質。\n\n3. 持續閱讀與反思\n\n   * 文獻回顧與理論基礎應隨研究進行不斷更新，確保研究與前人知識對話。\n\n4. 善用資源\n\n   * 可利用圖書館資料庫、學術研討會、研究方法課程，以及校內外學術資源。\n\n5. 尊重指導教授建議\n\n   * 主動接受並回應指導教授的意見，將其納入研究修正與精進。\n\n6. 論文口試準備\n\n   * 除了完成書面論文，口試表達能力與答辯技巧同樣重要，需事先演練。",
+    "course_rem_en": null,
+    "ais_meno": "<div>&nbsp;</div>\n\n<ol>\n\t<li>\n\t<div><strong>原創性要求</strong></div>\n\n\t<ul>\n\t\t<li>\n\t\t<div>論文內容須由學生本人獨立完成，不得抄襲、剽竊或委託他人代寫。</div>\n\t\t</li>\n\t</ul>\n\t</li>\n\t<li>\n\t<div><strong>正確引用</strong></div>\n\n\t<ul>\n\t\t<li>\n\t\t<div>所有引用之文獻、圖表、數據、圖片與研究成果，均須依照學術引用規範（如 APA、Chicago、IEEE 或本系所規定格式）明確標註來源。</div>\n\t\t</li>\n\t</ul>\n\t</li>\n\t<li>\n\t<div><strong>研究倫理</strong></div>\n\n\t<ul>\n\t\t<li>\n\t\t<div>涉及人類受試者、動物實驗、或機構專案時，須遵循相關倫理審查與規範，取得必要之同意與許可。</div>\n\t\t</li>\n\t</ul>\n\t</li>\n\t<li>\n\t<div><strong>誠實呈現資料</strong></div>\n\n\t<ul>\n\t\t<li>\n\t\t<div>實驗數據、調查結果、設計圖稿與研究分析，須真實呈現，不得任意刪改、偽造或操弄。</div>\n\t\t</li>\n\t</ul>\n\t</li>\n\t<li>\n\t<div><strong>尊重智慧財產權</strong></div>\n\n\t<ul>\n\t\t<li>\n\t\t<div>不得未經授權使用或公開他人之研究成果、設計或專案資料。</div>\n\t\t</li>\n\t</ul>\n\t</li>\n\t<li>\n\t<div><strong>共同作者與感謝</strong></div>\n\n\t<ul>\n\t\t<li>\n\t\t<div>如論文涉及合作研究，須正確標示合作者之貢獻，並在致謝中適當表達。</div>\n\t\t</li>\n\t</ul>\n\t</li>\n\t<li>\n\t<div><strong>違反規範之處理</strong></div>\n\n\t<ul>\n\t\t<li>\n\t\t<div>違反學術誠信者，依本校「學術倫理規範」與「學生獎懲辦法」處理，並可能影響論文審查與學位授予。</div>\n\t\t</li>\n\t</ul>\n\t</li>\n</ol>\n\n<div>&nbsp;</div>\n",
+    "ais_meno_en": null,
+    "ilearn_mk": null
+  },
+  "integrity": {
+    "yms_year": 114.0,
+    "yms_smester": 1.0,
+    "cls_id": "CE03320",
+    "sub_id": "61530",
+    "scr_dup": "001",
+    "tpa_score_new": "<div>專題報告</div>\n",
+    "tpa_score_new_en": null,
+    "course_pol": "1. 定期會議\n\n   * 學生須依指導教授或課程安排，定期參與討論或進度報告，並準時出席。\n\n2. 進度回報\n\n   * 須依課程規劃，提交研究計畫、文獻回顧、研究方法、分析結果與論文草稿等階段性成果。\n\n3. 學術誠信\n\n   * 所有研究與寫作須遵守學術倫理規範，嚴禁抄襲、捏造或偽造數據。\n\n4. 積極溝通\n\n   * 學生須與指導教授保持良好溝通，遇到困難應主動尋求協助，不得長期失聯。\n\n5. 遵守時程\n\n   * 須依學校及系所公告之時程完成論文初稿、定稿及送審，若未能配合將影響畢業進度。\n\n6. 尊重合作（若為團隊研究）\n\n   * 在合作研究中，須清楚界定並落實各自責任，尊重他人貢獻。",
+    "course_pol_en": null,
+    "course_rem": "1. 論文是學術能力的展現\n\n   * 碩士論文不僅是畢業門檻，更是專業領域的研究成果，應以嚴謹態度完成。\n\n2. 時間管理是關鍵\n\n   * 建議及早規劃，避免將研究與寫作壓縮在最後階段，以免影響品質。\n\n3. 持續閱讀與反思\n\n   * 文獻回顧與理論基礎應隨研究進行不斷更新，確保研究與前人知識對話。\n\n4. 善用資源\n\n   * 可利用圖書館資料庫、學術研討會、研究方法課程，以及校內外學術資源。\n\n5. 尊重指導教授建議\n\n   * 主動接受並回應指導教授的意見，將其納入研究修正與精進。\n\n6. 論文口試準備\n\n   * 除了完成書面論文，口試表達能力與答辯技巧同樣重要，需事先演練。",
+    "course_rem_en": null,
+    "ais_meno": "<div>&nbsp;</div>\n\n<ol>\n\t<li>\n\t<div><strong>原創性要求</strong></div>\n\n\t<ul>\n\t\t<li>\n\t\t<div>論文內容須由學生本人獨立完成，不得抄襲、剽竊或委託他人代寫。</div>\n\t\t</li>\n\t</ul>\n\t</li>\n\t<li>\n\t<div><strong>正確引用</strong></div>\n\n\t<ul>\n\t\t<li>\n\t\t<div>所有引用之文獻、圖表、數據、圖片與研究成果，均須依照學術引用規範（如 APA、Chicago、IEEE 或本系所規定格式）明確標註來源。</div>\n\t\t</li>\n\t</ul>\n\t</li>\n\t<li>\n\t<div><strong>研究倫理</strong></div>\n\n\t<ul>\n\t\t<li>\n\t\t<div>涉及人類受試者、動物實驗、或機構專案時，須遵循相關倫理審查與規範，取得必要之同意與許可。</div>\n\t\t</li>\n\t</ul>\n\t</li>\n\t<li>\n\t<div><strong>誠實呈現資料</strong></div>\n\n\t<ul>\n\t\t<li>\n\t\t<div>實驗數據、調查結果、設計圖稿與研究分析，須真實呈現，不得任意刪改、偽造或操弄。</div>\n\t\t</li>\n\t</ul>\n\t</li>\n\t<li>\n\t<div><strong>尊重智慧財產權</strong></div>\n\n\t<ul>\n\t\t<li>\n\t\t<div>不得未經授權使用或公開他人之研究成果、設計或專案資料。</div>\n\t\t</li>\n\t</ul>\n\t</li>\n\t<li>\n\t<div><strong>共同作者與感謝</strong></div>\n\n\t<ul>\n\t\t<li>\n\t\t<div>如論文涉及合作研究，須正確標示合作者之貢獻，並在致謝中適當表達。</div>\n\t\t</li>\n\t</ul>\n\t</li>\n\t<li>\n\t<div><strong>違反規範之處理</strong></div>\n\n\t<ul>\n\t\t<li>\n\t\t<div>違反學術誠信者，依本校「學術倫理規範」與「學生獎懲辦法」處理，並可能影響論文審查與學位授予。</div>\n\t\t</li>\n\t</ul>\n\t</li>\n</ol>\n\n<div>&nbsp;</div>\n",
+    "ais_meno_en": null,
+    "ilearn_mk": null
+  },
+  "policy": {
+    "yms_year": 114.0,
+    "yms_smester": 1.0,
+    "cls_id": "CE03320",
+    "sub_id": "61530",
+    "scr_dup": "001",
+    "tpa_score_new": "<div>專題報告</div>\n",
+    "tpa_score_new_en": null,
+    "course_pol": "1. 定期會議\n\n   * 學生須依指導教授或課程安排，定期參與討論或進度報告，並準時出席。\n\n2. 進度回報\n\n   * 須依課程規劃，提交研究計畫、文獻回顧、研究方法、分析結果與論文草稿等階段性成果。\n\n3. 學術誠信\n\n   * 所有研究與寫作須遵守學術倫理規範，嚴禁抄襲、捏造或偽造數據。\n\n4. 積極溝通\n\n   * 學生須與指導教授保持良好溝通，遇到困難應主動尋求協助，不得長期失聯。\n\n5. 遵守時程\n\n   * 須依學校及系所公告之時程完成論文初稿、定稿及送審，若未能配合將影響畢業進度。\n\n6. 尊重合作（若為團隊研究）\n\n   * 在合作研究中，須清楚界定並落實各自責任，尊重他人貢獻。",
+    "course_pol_en": null,
+    "course_rem": "1. 論文是學術能力的展現\n\n   * 碩士論文不僅是畢業門檻，更是專業領域的研究成果，應以嚴謹態度完成。\n\n2. 時間管理是關鍵\n\n   * 建議及早規劃，避免將研究與寫作壓縮在最後階段，以免影響品質。\n\n3. 持續閱讀與反思\n\n   * 文獻回顧與理論基礎應隨研究進行不斷更新，確保研究與前人知識對話。\n\n4. 善用資源\n\n   * 可利用圖書館資料庫、學術研討會、研究方法課程，以及校內外學術資源。\n\n5. 尊重指導教授建議\n\n   * 主動接受並回應指導教授的意見，將其納入研究修正與精進。\n\n6. 論文口試準備\n\n   * 除了完成書面論文，口試表達能力與答辯技巧同樣重要，需事先演練。",
+    "course_rem_en": null,
+    "ais_meno": "<div>&nbsp;</div>\n\n<ol>\n\t<li>\n\t<div><strong>原創性要求</strong></div>\n\n\t<ul>\n\t\t<li>\n\t\t<div>論文內容須由學生本人獨立完成，不得抄襲、剽竊或委託他人代寫。</div>\n\t\t</li>\n\t</ul>\n\t</li>\n\t<li>\n\t<div><strong>正確引用</strong></div>\n\n\t<ul>\n\t\t<li>\n\t\t<div>所有引用之文獻、圖表、數據、圖片與研究成果，均須依照學術引用規範（如 APA、Chicago、IEEE 或本系所規定格式）明確標註來源。</div>\n\t\t</li>\n\t</ul>\n\t</li>\n\t<li>\n\t<div><strong>研究倫理</strong></div>\n\n\t<ul>\n\t\t<li>\n\t\t<div>涉及人類受試者、動物實驗、或機構專案時，須遵循相關倫理審查與規範，取得必要之同意與許可。</div>\n\t\t</li>\n\t</ul>\n\t</li>\n\t<li>\n\t<div><strong>誠實呈現資料</strong></div>\n\n\t<ul>\n\t\t<li>\n\t\t<div>實驗數據、調查結果、設計圖稿與研究分析，須真實呈現，不得任意刪改、偽造或操弄。</div>\n\t\t</li>\n\t</ul>\n\t</li>\n\t<li>\n\t<div><strong>尊重智慧財產權</strong></div>\n\n\t<ul>\n\t\t<li>\n\t\t<div>不得未經授權使用或公開他人之研究成果、設計或專案資料。</div>\n\t\t</li>\n\t</ul>\n\t</li>\n\t<li>\n\t<div><strong>共同作者與感謝</strong></div>\n\n\t<ul>\n\t\t<li>\n\t\t<div>如論文涉及合作研究，須正確標示合作者之貢獻，並在致謝中適當表達。</div>\n\t\t</li>\n\t</ul>\n\t</li>\n\t<li>\n\t<div><strong>違反規範之處理</strong></div>\n\n\t<ul>\n\t\t<li>\n\t\t<div>違反學術誠信者，依本校「學術倫理規範」與「學生獎懲辦法」處理，並可能影響論文審查與學位授予。</div>\n\t\t</li>\n\t</ul>\n\t</li>\n</ol>\n\n<div>&nbsp;</div>\n",
+    "ais_meno_en": null,
+    "ilearn_mk": null
+  },
+  "courseBankC": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CE03320",
+      "sub_id": "61530",
+      "scr_dup": "001",
+      "seq": 1,
+      "describe_ch": "瞭解如何收集資料",
+      "describe_en": "understand how to collect data",
+      "core_id": "D",
+      "core_item": "具備論述建築歷史與理論之能力",
+      "core_eng": "The ability to discuss architectural history and theory.",
+      "core_level": "2 ",
+      "strgy": [
+        "03"
+      ],
+      "evalb": [
+        "D5"
+      ],
+      "strgy_name": [
+        "個案討論"
+      ],
+      "strgy_name_en": [
+        "Case study"
+      ],
+      "evalb_name": [
+        "期末專題"
+      ],
+      "evalb_name_en": [
+        "Final presentation"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CE03320",
+          "sub_id": "61530",
+          "scr_dup": "001",
+          "seq": 1,
+          "strgy_id": "03",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CE03320",
+          "sub_id": "61530",
+          "scr_dup": "001",
+          "seq": 1,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D5",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CE03320",
+      "sub_id": "61530",
+      "scr_dup": "001",
+      "seq": 2,
+      "describe_ch": "瞭解資料之整理分析",
+      "describe_en": "understand how to alalysis the data",
+      "core_id": "C",
+      "core_item": "具備進階建築結構、營建管理、環境控制等工程科技之能力",
+      "core_eng": "Have advanced capability of building structures, construction management, environmental control, engineering science and technology.",
+      "core_level": "2 ",
+      "strgy": [
+        "03"
+      ],
+      "evalb": [
+        "D5"
+      ],
+      "strgy_name": [
+        "個案討論"
+      ],
+      "strgy_name_en": [
+        "Case study"
+      ],
+      "evalb_name": [
+        "期末專題"
+      ],
+      "evalb_name_en": [
+        "Final presentation"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CE03320",
+          "sub_id": "61530",
+          "scr_dup": "001",
+          "seq": 2,
+          "strgy_id": "03",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CE03320",
+          "sub_id": "61530",
+          "scr_dup": "001",
+          "seq": 2,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D5",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CE03320",
+      "sub_id": "61530",
+      "scr_dup": "001",
+      "seq": 3,
+      "describe_ch": "瞭解論文之撰寫",
+      "describe_en": "understand how to writing",
+      "core_id": "D",
+      "core_item": "具備論述建築歷史與理論之能力",
+      "core_eng": "The ability to discuss architectural history and theory.",
+      "core_level": "3 ",
+      "strgy": [
+        "03"
+      ],
+      "evalb": [
+        "D5"
+      ],
+      "strgy_name": [
+        "個案討論"
+      ],
+      "strgy_name_en": [
+        "Case study"
+      ],
+      "evalb_name": [
+        "期末專題"
+      ],
+      "evalb_name_en": [
+        "Final presentation"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CE03320",
+          "sub_id": "61530",
+          "scr_dup": "001",
+          "seq": 3,
+          "strgy_id": "03",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CE03320",
+          "sub_id": "61530",
+          "scr_dup": "001",
+          "seq": 3,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D5",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    }
+  ],
+  "topicSdgs": [],
+  "learnHours": {
+    "total": 0.0,
+    "tpdOnlineAsyTotal": 0.0,
+    "tpdOnlineSynTotal": 0.0,
+    "tpdOnlineFaceTotal": 0.0,
+    "asySynInTotalPercent": 0.0
+  },
+  "crossVerYear": 114
+}

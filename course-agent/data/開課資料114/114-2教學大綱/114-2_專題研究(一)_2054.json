@@ -1,0 +1,909 @@
+{
+  "success": true,
+  "info": {
+    "yms_year": 114.0,
+    "yms_smester": 2.0,
+    "sub_id": "43080",
+    "cls_id": "CI02132",
+    "scr_dup": "001",
+    "sub_id3": "COME4926",
+    "cls_name": "通訊三乙",
+    "cls_ename": "Department of Communications Engineering",
+    "sub_name": "專題研究(一)",
+    "sub_ename": "SPECIAL TOPICS STUDY (1)",
+    "scr_mso": "必修",
+    "scr_mso_en": "Required",
+    "scr_credit": 1.0,
+    "scr_periodly": "(五)00",
+    "scr_periodly_eng": "(Fri)00",
+    "lang_name": "中文                                                      ",
+    "lang_ename": "Chinese",
+    "scr_room": "待排",
+    "scr_room_eng": "TBD",
+    "scr_teacher": "呂威甫,趙啟時,袁世一,何子豪,陳益生,蔡昂勳,林維崙,辛正和,彭嘉美,朱嘯秋,陸清達,蔡淵裕,尤正祺,謝瑞民,陳家豪,楊豐瑞",
+    "scr_teacher_eng": "Fongray Frank Young,Chi-Shih Chao,Shih-Yi Yuan,Tzu-Hao Ho,Yi-Sheng Chen,Ang-Hsun Tsai,Wei-Lun Lin,Cheng-Ho Hsin,Chia-Mei Peng,Hsiao-Chiu CHU,Ching-Ta Lu,Yuan-Yu Tsai,Cheng-Chi Yu,Dray-Ming Shien,Chia-",
+    "scr_selcode": "2054",
+    "scr_elearning": "全學期",
+    "scr_elearning_en": "Full semester",
+    "scr_hours": "1",
+    "scr_english": "N",
+    "unt_name": null,
+    "unt_ename": null,
+    "link_traminal": null,
+    "link_traminal_en": null,
+    "scr_ldl": "D",
+    "course_mk": "N",
+    "teams_mk": "N",
+    "sub_title": null,
+    "sub_title_en": null,
+    "sub_describe": null,
+    "sub_describe_en": null,
+    "hasDescription": null,
+    "hasInstructor": null,
+    "hasTA": null,
+    "hasTextBooks": null,
+    "hasReadings": null,
+    "hasiSoftwares": null,
+    "hasAssistSoftwares": null,
+    "hasObjective": null,
+    "hasWeeklyScds": null,
+    "hasGradeRules": null,
+    "hasGradeRuleDescribe": null,
+    "hasIntegrity": null,
+    "hasCoursePol": null,
+    "hasCourseRem": null,
+    "hasObjectiveReleation": null,
+    "hasTopicSdgs": null,
+    "hasTopicAiIndicators": null,
+    "hasSubTitleDesc": null
+  },
+  "subTitleDesc": null,
+  "description": {
+    "sub_id3": null,
+    "sub_name": "專題研究(一)",
+    "sub_ename": "SPECIAL TOPICS STUDY (1)",
+    "describe_ch": "本「專題研究」課程為兩學期的大學部課程，其目標在綜合所學加以實務的考量來完成一項專題研究。在專題指導教授的指導下，學生需提出專題研究的題目並執行之，而執行的內容包含有規畫設計、分析評估、模擬測試、及撰寫發表成果報告。",
+    "describe_eh": "A research oriented course of two semesters. The objective of the course is to accomplish a study topic that can join knowledge studied and practice considered. Under the instruction and supervision of a study supervisor, students are requested to propose and execute a study topic. The study processes include configuration and design, analysis and evaluation, simulations and testing, and, at last, report written.",
+    "pre_subname": "",
+    "pre_sub_id3": null,
+    "pre_sub_ename": "",
+    "pre_describe": null,
+    "pre_describe_en": null,
+    "scr_credit": 1.0
+  },
+  "targets": [
+    {
+      "seq": 1,
+      "describe_ch": "能運用所學的專業知識並考量實務的需求進行專題製作。",
+      "describe_en": "Be able to utilize expertized knowledge and considering the requirement in practice to propose and proceed to study topic."
+    },
+    {
+      "seq": 2,
+      "describe_ch": "能與同儕協調溝通，能訂定預期的成效，能依據專題研究的執行及結果，撰寫成書面報告並做成口頭報告。",
+      "describe_en": "Be able to communicate and cooperate with teammate to conduct the study. Be able to estimate the final results expected and be able to make written reports and oral presentations."
+    },
+    {
+      "seq": 3,
+      "describe_ch": "請分析說明可能遭遇的困難及提出解決方法。",
+      "describe_en": "Be able to offer the difficulties that may confront and suggest resolutions."
+    },
+    {
+      "seq": 4,
+      "describe_ch": "能於專題研究的學習過程，培養自我學習的能力與終身學習的態度。",
+      "describe_en": "Be able to train the ability of self- learning and the attitude of lifelong learning during the learning period."
+    },
+    {
+      "seq": 5,
+      "describe_ch": "能由專題研究的學習過程，理解專業倫理及社會責任",
+      "describe_en": "Be able to comprehend the vocational ethics and responsibility of engineers on the whole society during the learning period."
+    }
+  ],
+  "teachersInfo": [
+    {
+      "cname": "呂威甫",
+      "ename": "Wei-Fu Lu",
+      "period": "(Mon)02  人社201,(Wed)02  人社201,(Thu)02-03 人社201",
+      "roletype": 0,
+      "email": "wflu@o365.fcu.edu.tw",
+      "ext": "4824"
+    },
+    {
+      "cname": "趙啟時",
+      "ename": "Chi-Shih Chao",
+      "period": "(Tue)03-04 電通212,(Wed)03-04 電通212",
+      "roletype": 0,
+      "email": "cschao@o365.fcu.edu.tw",
+      "ext": "4822"
+    },
+    {
+      "cname": "袁世一",
+      "ename": "Shih-Yi Yuan",
+      "period": "(Mon)06-07 電通203,(Tue)05-06 電通203",
+      "roletype": 0,
+      "email": "syyuan@o365.fcu.edu.tw",
+      "ext": "4813"
+    },
+    {
+      "cname": "何子豪",
+      "ename": "Tzu-Hao Ho",
+      "period": "(Tue)06-07 電通204,(Wed)06-07 電通204",
+      "roletype": 0,
+      "email": "tzuhho@o365.fcu.edu.tw",
+      "ext": "4814"
+    },
+    {
+      "cname": "陳益生",
+      "ename": "Yi-Sheng Chen",
+      "period": "(Mon)06  電通217-2,(Tue)02-03 電通217-2,(Thu)03  電通217-2",
+      "roletype": 0,
+      "email": "yischen@o365.fcu.edu.tw",
+      "ext": "4811"
+    },
+    {
+      "cname": "蔡昂勳",
+      "ename": "Ang-Hsun Tsai",
+      "period": "(Mon)09-10 電通207,(Wed)09-10 電通207",
+      "roletype": 0,
+      "email": "ahtsai@o365.fcu.edu.tw",
+      "ext": "4817"
+    },
+    {
+      "cname": "林維崙",
+      "ename": "Wei-Lun Lin",
+      "period": "(Mon)05  電通208,(Tue)05  電通208,(Wed)05  電通208,(Thu)05  電通208",
+      "roletype": 0,
+      "email": "wllin@o365.fcu.edu.tw",
+      "ext": "4818"
+    },
+    {
+      "cname": "辛正和",
+      "ename": "Cheng-Ho Hsin",
+      "period": "(Tue)09  電通211,(Wed)06-07 電通211,(Thu)06  電通211",
+      "roletype": 0,
+      "email": "chhsin@o365.fcu.edu.tw",
+      "ext": "4821"
+    },
+    {
+      "cname": "彭嘉美",
+      "ename": "Chia-Mei Peng",
+      "period": "(Mon)08  電通202,(Tue)02  電通202,(Tue)05-06 電通202,(Wed)05  電通202,(Thu)05  電通202",
+      "roletype": 0,
+      "email": "chiampeng@o365.fcu.edu.tw",
+      "ext": "4810"
+    },
+    {
+      "cname": "朱嘯秋",
+      "ename": "Hsiao-Chiu CHU",
+      "period": " ",
+      "roletype": 0,
+      "email": "hchu@o365.fcu.edu.tw",
+      "ext": "4823"
+    },
+    {
+      "cname": "陸清達",
+      "ename": "Ching-Ta Lu",
+      "period": "(Mon)07-08 電通214,(Tue)07-08 電通214",
+      "roletype": 0,
+      "email": "chingtlu@o365.fcu.edu.tw",
+      "ext": "4839"
+    },
+    {
+      "cname": "蔡淵裕",
+      "ename": "Yuan-Yu Tsai",
+      "period": " ",
+      "roletype": 0,
+      "email": "yuanytsai@o365.fcu.edu.tw",
+      "ext": "4845"
+    },
+    {
+      "cname": "尤正祺",
+      "ename": "Cheng-Chi Yu",
+      "period": "(Mon)03-04 電通205,(Wed)04  電通205,(Thu)07  電通205",
+      "roletype": 0,
+      "email": "ccyu@o365.fcu.edu.tw",
+      "ext": "4815"
+    },
+    {
+      "cname": "謝瑞民",
+      "ename": "Dray-Ming Shien",
+      "period": "(Mon)08-09 電通405,(Tue)08-09 電通405,(Fri)03-04 電通405",
+      "roletype": 0,
+      "email": "dmshien@o365.fcu.edu.tw",
+      "ext": "4819"
+    },
+    {
+      "cname": "陳家豪",
+      "ename": "Chia-Hao Chen",
+      "period": "(Thu)03-04 電通209,(Thu)05  電通209,(Fri)09  電通209",
+      "roletype": 0,
+      "email": "chiahaoc@o365.fcu.edu.tw",
+      "ext": "4835"
+    },
+    {
+      "cname": "楊豐瑞",
+      "ename": "Fongray Frank Young",
+      "period": "(Mon)08  電通210,(Tue)03-04 電通210,(Tue)05  電通210",
+      "roletype": 0,
+      "email": "fryoung@o365.fcu.edu.tw",
+      "ext": "4820"
+    }
+  ],
+  "textBooks": {
+    "yms_year": 114.0,
+    "yms_smester": 2.0,
+    "cls_id": "CI02132",
+    "sub_id": "43080",
+    "scr_dup": "001",
+    "tpb_seq": 1,
+    "tpb_book": "<div>國內外期刊論文、書籍、網路資訊</div>\n",
+    "tpb_book_en": " "
+  },
+  "readings": {
+    "yms_year": 114.0,
+    "yms_smester": 2.0,
+    "cls_id": "CI02132",
+    "sub_id": "43080",
+    "scr_dup": "001",
+    "tpc_seq": 1,
+    "tpc_book": "<div>談論文撰寫歷程 [電子書]</div>\n",
+    "tpc_book_en": " "
+  },
+  "iSoftwares": [],
+  "assistSoftwares": [],
+  "weeklyScds": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CI02132",
+      "sub_id": "43080",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "1-3",
+      "tpd_reading": "<div>專題內容蒐集與討論</div>\n",
+      "tpd_reading_en": "<div>Collection and Discussion of Project Content</div>\n",
+      "tpd_learn": "<div>專題內容蒐集與討論</div>\n",
+      "tpd_learn_en": "<div><strong>The collection and discussion of project content</strong> is a core stage in the research process, focusing on searching, organizing, and filtering information to ensure the relevance and comprehensiveness of the research topic. Through team discussions, the accuracy and applicability of the data can be verified, creativity can be stimulated, and challenges in the research process can be addressed. Additionally, discussions help align team members&#39; perspectives, ensuring a unified project direction and formulating a concrete execution plan. This process enhances the depth and quality of the research, laying a solid foundation for subsequent analysis and report writing.</div>\n",
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": 3.0,
+      "tpd_week_en": "1-3",
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CI02132",
+      "sub_id": "43080",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "4-6",
+      "tpd_reading": "<div>專題內容蒐集與討論</div>\n",
+      "tpd_reading_en": "<div>Collection and Discussion of Project Content</div>\n",
+      "tpd_learn": "<div>專題內容蒐集與討論</div>\n",
+      "tpd_learn_en": "<div><strong>The collection and discussion of project content</strong> is a core stage in the research process, focusing on searching, organizing, and filtering information to ensure the relevance and comprehensiveness of the research topic. Through team discussions, the accuracy and applicability of the data can be verified, creativity can be stimulated, and challenges in the research process can be addressed. Additionally, discussions help align team members&#39; perspectives, ensuring a unified project direction and formulating a concrete execution plan. This process enhances the depth and quality of the research, laying a solid foundation for subsequent analysis and report writing.</div>\n",
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": 3.0,
+      "tpd_week_en": "4-6",
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CI02132",
+      "sub_id": "43080",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "7-9",
+      "tpd_reading": "<div>專題內容蒐集與討論</div>\n",
+      "tpd_reading_en": "<div>Collection and Discussion of Project Content</div>\n",
+      "tpd_learn": "<div>專題內容蒐集與討論</div>\n",
+      "tpd_learn_en": "<div><strong>The collection and discussion of project content</strong> is a core stage in the research process, focusing on searching, organizing, and filtering information to ensure the relevance and comprehensiveness of the research topic. Through team discussions, the accuracy and applicability of the data can be verified, creativity can be stimulated, and challenges in the research process can be addressed. Additionally, discussions help align team members&#39; perspectives, ensuring a unified project direction and formulating a concrete execution plan. This process enhances the depth and quality of the research, laying a solid foundation for subsequent analysis and report writing.</div>\n",
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": 3.0,
+      "tpd_week_en": "7-9",
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CI02132",
+      "sub_id": "43080",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "10-12",
+      "tpd_reading": "<div>專題內容蒐集與討論</div>\n",
+      "tpd_reading_en": "<div>Collection and Discussion of Project Content</div>\n",
+      "tpd_learn": "<div>專題內容蒐集與討論</div>\n",
+      "tpd_learn_en": "<div><strong>The collection and discussion of project content</strong> is a core stage in the research process, focusing on searching, organizing, and filtering information to ensure the relevance and comprehensiveness of the research topic. Through team discussions, the accuracy and applicability of the data can be verified, creativity can be stimulated, and challenges in the research process can be addressed. Additionally, discussions help align team members&#39; perspectives, ensuring a unified project direction and formulating a concrete execution plan. This process enhances the depth and quality of the research, laying a solid foundation for subsequent analysis and report writing.</div>\n",
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": 3.0,
+      "tpd_week_en": "10-12",
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CI02132",
+      "sub_id": "43080",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "13-15",
+      "tpd_reading": "<div>專題內容蒐集與討論</div>\n",
+      "tpd_reading_en": "<div>Collection and Discussion of Project Content</div>\n",
+      "tpd_learn": "<div>專題內容蒐集與討論</div>\n",
+      "tpd_learn_en": "<div><strong>The collection and discussion of project content</strong> is a core stage in the research process, focusing on searching, organizing, and filtering information to ensure the relevance and comprehensiveness of the research topic. Through team discussions, the accuracy and applicability of the data can be verified, creativity can be stimulated, and challenges in the research process can be addressed. Additionally, discussions help align team members&#39; perspectives, ensuring a unified project direction and formulating a concrete execution plan. This process enhances the depth and quality of the research, laying a solid foundation for subsequent analysis and report writing.</div>\n",
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": 3.0,
+      "tpd_week_en": "13-15",
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CI02132",
+      "sub_id": "43080",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "16-17",
+      "tpd_reading": "<div>專題內容蒐集與討論</div>\n",
+      "tpd_reading_en": "<div>Collection and Discussion of Project Content</div>\n",
+      "tpd_learn": "<div>專題內容蒐集與討論</div>\n",
+      "tpd_learn_en": "<div><strong>The collection and discussion of project content</strong> is a core stage in the research process, focusing on searching, organizing, and filtering information to ensure the relevance and comprehensiveness of the research topic. Through team discussions, the accuracy and applicability of the data can be verified, creativity can be stimulated, and challenges in the research process can be addressed. Additionally, discussions help align team members&#39; perspectives, ensuring a unified project direction and formulating a concrete execution plan. This process enhances the depth and quality of the research, laying a solid foundation for subsequent analysis and report writing.</div>\n",
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": 2.0,
+      "tpd_week_en": "16-18",
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CI02132",
+      "sub_id": "43080",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "18",
+      "tpd_reading": "<div>專題內容蒐集與討論</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": null,
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": 1.0,
+      "tpd_week_en": null,
+      "mode": 0
+    }
+  ],
+  "gradeRules": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CI02132",
+      "sub_id": "43080",
+      "scr_dup": "001",
+      "evalb_id": "G5",
+      "score_rate": 34,
+      "evalb_memo": "1. 專題資料蒐集 30% 2. 專題內容執行 50% 3. 團隊合作 20% 相關專業研究實驗室，擁有通訊相關儀器與軟硬體設備，每間實驗室皆有指導教授指導研究生進行教學研究，並執行各項產學合作計畫。",
+      "evalb_memo_en": null,
+      "evalb_name": "書面報告",
+      "evalb_name_en": "Writing report",
+      "seq": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CI02132",
+      "sub_id": "43080",
+      "scr_dup": "001",
+      "evalb_id": "I4",
+      "score_rate": 33,
+      "evalb_memo": "1. 專題資料蒐集 30% 2. 專題內容執行 50% 3. 團隊合作 20% 相關專業研究實驗室，擁有通訊相關儀器與軟硬體設備，每間實驗室皆有指導教授指導研究生進行教學研究，並執行各項產學合作計畫。",
+      "evalb_memo_en": null,
+      "evalb_name": "專題/成果發表(專家審查)",
+      "evalb_name_en": "Specialized presentation",
+      "seq": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CI02132",
+      "sub_id": "43080",
+      "scr_dup": "001",
+      "evalb_id": "L3",
+      "score_rate": 33,
+      "evalb_memo": "1. 專題資料蒐集 30% 2. 專題內容執行 50% 3. 團隊合作 20% 相關專業研究實驗室，擁有通訊相關儀器與軟硬體設備，每間實驗室皆有指導教授指導研究生進行教學研究，並執行各項產學合作計畫。",
+      "evalb_memo_en": null,
+      "evalb_name": "課堂討論參與",
+      "evalb_name_en": "Participation",
+      "seq": 0
+    }
+  ],
+  "gradeRuleDescribe": {
+    "yms_year": 114.0,
+    "yms_smester": 2.0,
+    "cls_id": "CI02132",
+    "sub_id": "43080",
+    "scr_dup": "001",
+    "tpa_score_new": "<div>1. 專題資料蒐集 30% 2. 專題內容執行 50% 3. 團隊合作 20% 相關專業研究實驗室，擁有通訊相關儀器與軟硬體設備，每間實驗室皆有指導教授指導研究生進行教學研究，並執行各項產學合作計畫。&nbsp;</div>\n",
+    "tpa_score_new_en": " ",
+    "course_pol": "1. 專題為重要學習成果展現，請務必準時繳交成果。\n2. 能運用所學的專業知識並考量實務的需求進行專題製作。\n3. 能與同儕協調溝通，能訂定預期的成效，能依據專題研究的執行及結果，撰寫成書面報告並做成口頭報告。\n4. 能分析說明可能遭遇的困難及提出解決方法。\n5. 能於專題研究的學習過程，培養自我學習的能力與終身學習的態度。\n6. 能由專題研究的學習過程，理解專業倫理及社會責任。",
+    "course_pol_en": "\"The project is a significant demonstration of learning outcomes; please ensure to submit your results on time.\"\n\"Able to apply professional knowledge and consider practical needs in project production.\"\n\"Capable of coordinating and communicating with peers, setting expected outcomes, and writing both written and oral reports based on the execution and results of the project research.\"\n\"Able to analyze and explain potential challenges and propose solutions.\"\n\"During the project research learning process, able to cultivate self-learning abilities and a lifelong learning attitude.\"\n\"Through the project research learning process, able to understand professional ethics and social responsibility.\"",
+    "course_rem": "1. 專題為重要學習成果展現，請務必準時繳交成果。\n2. 能運用所學的專業知識並考量實務的需求進行專題製作。\n3. 能與同儕協調溝通，能訂定預期的成效，能依據專題研究的執行及結果，撰寫成書面報告並做成口頭報告。\n4. 能分析說明可能遭遇的困難及提出解決方法。\n5. 能於專題研究的學習過程，培養自我學習的能力與終身學習的態度。  \n6. 能由專題研究的學習過程，理解專業倫理及社會責任。",
+    "course_rem_en": "\"The project is a significant demonstration of learning outcomes; please ensure to submit your results on time.\"\n\"Able to apply professional knowledge and consider practical needs in project production.\"\n\"Capable of coordinating and communicating with peers, setting expected outcomes, and writing both written and oral reports based on the execution and results of the project research.\"\n\"Able to analyze and explain potential challenges and propose solutions.\"\n\"During the project research learning process, able to cultivate self-learning abilities and a lifelong learning attitude.\"\n\"Through the project research learning process, able to understand professional ethics and social responsibility.\"",
+    "ais_meno": "<table>\n\t<tbody>\n\t\t<tr>\n\t\t\t<th>綜合說明</th>\n\t\t</tr>\n\t</tbody>\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<div>\n\t\t\t<div>\n\t\t\t<div>\n\t\t\t<div>1.文字段落、圖片及公式等，都有確實標示參考出處，尤其是高度類似題目。<br />\n\t\t\t2.設計過程及引用或參考的來源都有清楚說明，並避免不當引用來源，及來源出處具有一定公信程度。<br />\n\t\t\t3.已確實進入碩博士論文網/專利系統搜尋相關題目及內容，及IEEE/IEE/IEICE等重要論文資料庫搜尋相關題目及內容，避免高度相似內容產生抄襲疑慮。</div>\n\n\t\t\t<div>4.實驗數據應清楚及提供完整說明，不得造假。<br />\n\t\t\t5.文章內容避免中英文混雜描述，應為 &ldquo;中文（英文）&rdquo;，亦可全英文撰寫。<br />\n\t\t\t6.參考文獻格式及表述方式，請查閱相關規定。</div>\n\n\t\t\t<div>7.&quot;圖下表上&rdquo;，請正確標示，圖表內容清晰，避免模糊。&nbsp;&nbsp;</div>\n\t\t\t</div>\n\t\t\t</div>\n\t\t\t</div>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>\n",
+    "ais_meno_en": "<ul>\n\t<li>Text paragraphs, images, and formulas must clearly indicate their references, especially for topics with high similarity.</li>\n\t<li>The design process and sources referenced or cited should be clearly explained. Avoid improper citations and ensure the credibility of the sources.</li>\n\t<li>A thorough search has been conducted on master&#39;s and doctoral thesis databases, patent systems, and major academic databases such as IEEE, IEE, and IEICE to avoid concerns of plagiarism from highly similar content.</li>\n\t<li>Experimental data should be clearly and comprehensively explained, with no falsification allowed.</li>\n\t<li>The article should avoid mixed descriptions in Chinese and English; use &quot;Chinese (English)&quot; format, or write entirely in English.</li>\n\t<li>Reference formatting and citation styles should comply with relevant regulations.</li>\n\t<li>&quot;Figure below, table above&quot; &ndash; ensure proper labeling, with clear and unambiguous content in figures and tables to avoid any blurriness.</li>\n</ul>\n",
+    "ilearn_mk": null
+  },
+  "integrity": {
+    "yms_year": 114.0,
+    "yms_smester": 2.0,
+    "cls_id": "CI02132",
+    "sub_id": "43080",
+    "scr_dup": "001",
+    "tpa_score_new": "<div>1. 專題資料蒐集 30% 2. 專題內容執行 50% 3. 團隊合作 20% 相關專業研究實驗室，擁有通訊相關儀器與軟硬體設備，每間實驗室皆有指導教授指導研究生進行教學研究，並執行各項產學合作計畫。&nbsp;</div>\n",
+    "tpa_score_new_en": " ",
+    "course_pol": "1. 專題為重要學習成果展現，請務必準時繳交成果。\n2. 能運用所學的專業知識並考量實務的需求進行專題製作。\n3. 能與同儕協調溝通，能訂定預期的成效，能依據專題研究的執行及結果，撰寫成書面報告並做成口頭報告。\n4. 能分析說明可能遭遇的困難及提出解決方法。\n5. 能於專題研究的學習過程，培養自我學習的能力與終身學習的態度。\n6. 能由專題研究的學習過程，理解專業倫理及社會責任。",
+    "course_pol_en": "\"The project is a significant demonstration of learning outcomes; please ensure to submit your results on time.\"\n\"Able to apply professional knowledge and consider practical needs in project production.\"\n\"Capable of coordinating and communicating with peers, setting expected outcomes, and writing both written and oral reports based on the execution and results of the project research.\"\n\"Able to analyze and explain potential challenges and propose solutions.\"\n\"During the project research learning process, able to cultivate self-learning abilities and a lifelong learning attitude.\"\n\"Through the project research learning process, able to understand professional ethics and social responsibility.\"",
+    "course_rem": "1. 專題為重要學習成果展現，請務必準時繳交成果。\n2. 能運用所學的專業知識並考量實務的需求進行專題製作。\n3. 能與同儕協調溝通，能訂定預期的成效，能依據專題研究的執行及結果，撰寫成書面報告並做成口頭報告。\n4. 能分析說明可能遭遇的困難及提出解決方法。\n5. 能於專題研究的學習過程，培養自我學習的能力與終身學習的態度。  \n6. 能由專題研究的學習過程，理解專業倫理及社會責任。",
+    "course_rem_en": "\"The project is a significant demonstration of learning outcomes; please ensure to submit your results on time.\"\n\"Able to apply professional knowledge and consider practical needs in project production.\"\n\"Capable of coordinating and communicating with peers, setting expected outcomes, and writing both written and oral reports based on the execution and results of the project research.\"\n\"Able to analyze and explain potential challenges and propose solutions.\"\n\"During the project research learning process, able to cultivate self-learning abilities and a lifelong learning attitude.\"\n\"Through the project research learning process, able to understand professional ethics and social responsibility.\"",
+    "ais_meno": "<table>\n\t<tbody>\n\t\t<tr>\n\t\t\t<th>綜合說明</th>\n\t\t</tr>\n\t</tbody>\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<div>\n\t\t\t<div>\n\t\t\t<div>\n\t\t\t<div>1.文字段落、圖片及公式等，都有確實標示參考出處，尤其是高度類似題目。<br />\n\t\t\t2.設計過程及引用或參考的來源都有清楚說明，並避免不當引用來源，及來源出處具有一定公信程度。<br />\n\t\t\t3.已確實進入碩博士論文網/專利系統搜尋相關題目及內容，及IEEE/IEE/IEICE等重要論文資料庫搜尋相關題目及內容，避免高度相似內容產生抄襲疑慮。</div>\n\n\t\t\t<div>4.實驗數據應清楚及提供完整說明，不得造假。<br />\n\t\t\t5.文章內容避免中英文混雜描述，應為 &ldquo;中文（英文）&rdquo;，亦可全英文撰寫。<br />\n\t\t\t6.參考文獻格式及表述方式，請查閱相關規定。</div>\n\n\t\t\t<div>7.&quot;圖下表上&rdquo;，請正確標示，圖表內容清晰，避免模糊。&nbsp;&nbsp;</div>\n\t\t\t</div>\n\t\t\t</div>\n\t\t\t</div>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>\n",
+    "ais_meno_en": "<ul>\n\t<li>Text paragraphs, images, and formulas must clearly indicate their references, especially for topics with high similarity.</li>\n\t<li>The design process and sources referenced or cited should be clearly explained. Avoid improper citations and ensure the credibility of the sources.</li>\n\t<li>A thorough search has been conducted on master&#39;s and doctoral thesis databases, patent systems, and major academic databases such as IEEE, IEE, and IEICE to avoid concerns of plagiarism from highly similar content.</li>\n\t<li>Experimental data should be clearly and comprehensively explained, with no falsification allowed.</li>\n\t<li>The article should avoid mixed descriptions in Chinese and English; use &quot;Chinese (English)&quot; format, or write entirely in English.</li>\n\t<li>Reference formatting and citation styles should comply with relevant regulations.</li>\n\t<li>&quot;Figure below, table above&quot; &ndash; ensure proper labeling, with clear and unambiguous content in figures and tables to avoid any blurriness.</li>\n</ul>\n",
+    "ilearn_mk": null
+  },
+  "policy": {
+    "yms_year": 114.0,
+    "yms_smester": 2.0,
+    "cls_id": "CI02132",
+    "sub_id": "43080",
+    "scr_dup": "001",
+    "tpa_score_new": "<div>1. 專題資料蒐集 30% 2. 專題內容執行 50% 3. 團隊合作 20% 相關專業研究實驗室，擁有通訊相關儀器與軟硬體設備，每間實驗室皆有指導教授指導研究生進行教學研究，並執行各項產學合作計畫。&nbsp;</div>\n",
+    "tpa_score_new_en": " ",
+    "course_pol": "1. 專題為重要學習成果展現，請務必準時繳交成果。\n2. 能運用所學的專業知識並考量實務的需求進行專題製作。\n3. 能與同儕協調溝通，能訂定預期的成效，能依據專題研究的執行及結果，撰寫成書面報告並做成口頭報告。\n4. 能分析說明可能遭遇的困難及提出解決方法。\n5. 能於專題研究的學習過程，培養自我學習的能力與終身學習的態度。\n6. 能由專題研究的學習過程，理解專業倫理及社會責任。",
+    "course_pol_en": "\"The project is a significant demonstration of learning outcomes; please ensure to submit your results on time.\"\n\"Able to apply professional knowledge and consider practical needs in project production.\"\n\"Capable of coordinating and communicating with peers, setting expected outcomes, and writing both written and oral reports based on the execution and results of the project research.\"\n\"Able to analyze and explain potential challenges and propose solutions.\"\n\"During the project research learning process, able to cultivate self-learning abilities and a lifelong learning attitude.\"\n\"Through the project research learning process, able to understand professional ethics and social responsibility.\"",
+    "course_rem": "1. 專題為重要學習成果展現，請務必準時繳交成果。\n2. 能運用所學的專業知識並考量實務的需求進行專題製作。\n3. 能與同儕協調溝通，能訂定預期的成效，能依據專題研究的執行及結果，撰寫成書面報告並做成口頭報告。\n4. 能分析說明可能遭遇的困難及提出解決方法。\n5. 能於專題研究的學習過程，培養自我學習的能力與終身學習的態度。  \n6. 能由專題研究的學習過程，理解專業倫理及社會責任。",
+    "course_rem_en": "\"The project is a significant demonstration of learning outcomes; please ensure to submit your results on time.\"\n\"Able to apply professional knowledge and consider practical needs in project production.\"\n\"Capable of coordinating and communicating with peers, setting expected outcomes, and writing both written and oral reports based on the execution and results of the project research.\"\n\"Able to analyze and explain potential challenges and propose solutions.\"\n\"During the project research learning process, able to cultivate self-learning abilities and a lifelong learning attitude.\"\n\"Through the project research learning process, able to understand professional ethics and social responsibility.\"",
+    "ais_meno": "<table>\n\t<tbody>\n\t\t<tr>\n\t\t\t<th>綜合說明</th>\n\t\t</tr>\n\t</tbody>\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<div>\n\t\t\t<div>\n\t\t\t<div>\n\t\t\t<div>1.文字段落、圖片及公式等，都有確實標示參考出處，尤其是高度類似題目。<br />\n\t\t\t2.設計過程及引用或參考的來源都有清楚說明，並避免不當引用來源，及來源出處具有一定公信程度。<br />\n\t\t\t3.已確實進入碩博士論文網/專利系統搜尋相關題目及內容，及IEEE/IEE/IEICE等重要論文資料庫搜尋相關題目及內容，避免高度相似內容產生抄襲疑慮。</div>\n\n\t\t\t<div>4.實驗數據應清楚及提供完整說明，不得造假。<br />\n\t\t\t5.文章內容避免中英文混雜描述，應為 &ldquo;中文（英文）&rdquo;，亦可全英文撰寫。<br />\n\t\t\t6.參考文獻格式及表述方式，請查閱相關規定。</div>\n\n\t\t\t<div>7.&quot;圖下表上&rdquo;，請正確標示，圖表內容清晰，避免模糊。&nbsp;&nbsp;</div>\n\t\t\t</div>\n\t\t\t</div>\n\t\t\t</div>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>\n",
+    "ais_meno_en": "<ul>\n\t<li>Text paragraphs, images, and formulas must clearly indicate their references, especially for topics with high similarity.</li>\n\t<li>The design process and sources referenced or cited should be clearly explained. Avoid improper citations and ensure the credibility of the sources.</li>\n\t<li>A thorough search has been conducted on master&#39;s and doctoral thesis databases, patent systems, and major academic databases such as IEEE, IEE, and IEICE to avoid concerns of plagiarism from highly similar content.</li>\n\t<li>Experimental data should be clearly and comprehensively explained, with no falsification allowed.</li>\n\t<li>The article should avoid mixed descriptions in Chinese and English; use &quot;Chinese (English)&quot; format, or write entirely in English.</li>\n\t<li>Reference formatting and citation styles should comply with relevant regulations.</li>\n\t<li>&quot;Figure below, table above&quot; &ndash; ensure proper labeling, with clear and unambiguous content in figures and tables to avoid any blurriness.</li>\n</ul>\n",
+    "ilearn_mk": null
+  },
+  "courseBankC": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CI02132",
+      "sub_id": "43080",
+      "scr_dup": "001",
+      "seq": 1,
+      "describe_ch": "能運用所學的專業知識並考量實務的需求進行專題製作。",
+      "describe_en": "Be able to utilize expertized knowledge and considering the requirement in practice to propose and proceed to study topic.",
+      "core_id": "D",
+      "core_item": "設計與製作通訊系統或元件所需之能力",
+      "core_eng": "The design and manufacture of essential Communications systems or components",
+      "core_level": "3 ",
+      "strgy": [
+        "04"
+      ],
+      "evalb": [
+        "D5"
+      ],
+      "strgy_name": [
+        "專題討論"
+      ],
+      "strgy_name_en": [
+        "Seminar"
+      ],
+      "evalb_name": [
+        "期末專題"
+      ],
+      "evalb_name_en": [
+        "Final presentation"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CI02132",
+          "sub_id": "43080",
+          "scr_dup": "001",
+          "seq": 1,
+          "strgy_id": "04",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CI02132",
+          "sub_id": "43080",
+          "scr_dup": "001",
+          "seq": 1,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D5",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CI02132",
+      "sub_id": "43080",
+      "scr_dup": "001",
+      "seq": 2,
+      "describe_ch": "能與同儕協調溝通，能訂定預期的成效，能依據專題研究的執行及結果，撰寫成書面報告並做成口頭報告。",
+      "describe_en": "Be able to communicate and cooperate with teammate to conduct the study. Be able to estimate the final results expected and be able to make written reports and oral presentations.",
+      "core_id": "E",
+      "core_item": "團隊工作、有效溝通、專案管理及領域整合之能力",
+      "core_eng": "Team work, effective communication, project management and leadership abilities",
+      "core_level": "5 ",
+      "strgy": [
+        "03"
+      ],
+      "evalb": [
+        "D5"
+      ],
+      "strgy_name": [
+        "個案討論"
+      ],
+      "strgy_name_en": [
+        "Case study"
+      ],
+      "evalb_name": [
+        "期末專題"
+      ],
+      "evalb_name_en": [
+        "Final presentation"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CI02132",
+          "sub_id": "43080",
+          "scr_dup": "001",
+          "seq": 2,
+          "strgy_id": "03",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CI02132",
+          "sub_id": "43080",
+          "scr_dup": "001",
+          "seq": 2,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D5",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CI02132",
+      "sub_id": "43080",
+      "scr_dup": "001",
+      "seq": 3,
+      "describe_ch": "請分析說明可能遭遇的困難及提出解決方法。",
+      "describe_en": "Be able to offer the difficulties that may confront and suggest resolutions.",
+      "core_id": "F",
+      "core_item": "能發掘、分析、應用研究成果及兼顧永續發展，以具備因應複雜且整合性通訊工程問題的求解能力。",
+      "core_eng": "To foster Communications professionalism, to design solutions for Communication Engineering problems",
+      "core_level": "4 ",
+      "strgy": [
+        "04"
+      ],
+      "evalb": [
+        "D5"
+      ],
+      "strgy_name": [
+        "專題討論"
+      ],
+      "strgy_name_en": [
+        "Seminar"
+      ],
+      "evalb_name": [
+        "期末專題"
+      ],
+      "evalb_name_en": [
+        "Final presentation"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CI02132",
+          "sub_id": "43080",
+          "scr_dup": "001",
+          "seq": 3,
+          "strgy_id": "04",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CI02132",
+          "sub_id": "43080",
+          "scr_dup": "001",
+          "seq": 3,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D5",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CI02132",
+      "sub_id": "43080",
+      "scr_dup": "001",
+      "seq": 4,
+      "describe_ch": "能於專題研究的學習過程，培養自我學習的能力與終身學習的態度。",
+      "describe_en": "Be able to train the ability of self- learning and the attitude of lifelong learning during the learning period.",
+      "core_id": "G",
+      "core_item": "認知通訊工程對社會與環境之影響並能持續學習。",
+      "core_eng": "Acknowledging the social and environmental impact of Communication Engineering and continuous learning",
+      "core_level": "5 ",
+      "strgy": [
+        "07"
+      ],
+      "evalb": [
+        "F3",
+        "K3"
+      ],
+      "strgy_name": [
+        "指定閱讀"
+      ],
+      "strgy_name_en": [
+        "Extensive reading"
+      ],
+      "evalb_name": [
+        "小組討論",
+        "上課即時問與答"
+      ],
+      "evalb_name_en": [
+        "Group discussion",
+        "In-class oral assessment"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CI02132",
+          "sub_id": "43080",
+          "scr_dup": "001",
+          "seq": 4,
+          "strgy_id": "07",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CI02132",
+          "sub_id": "43080",
+          "scr_dup": "001",
+          "seq": 4,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "F3",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CI02132",
+          "sub_id": "43080",
+          "scr_dup": "001",
+          "seq": 4,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "K3",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CI02132",
+      "sub_id": "43080",
+      "scr_dup": "001",
+      "seq": 5,
+      "describe_ch": "能由專題研究的學習過程，理解專業倫理及社會責任",
+      "describe_en": "Be able to comprehend the vocational ethics and responsibility of engineers on the whole society during the learning period.",
+      "core_id": "H",
+      "core_item": "理解及應用專業與資訊倫理，認知社會責任及尊重多元觀點。",
+      "core_eng": "Understand professional ethics and social responsibility",
+      "core_level": "2 ",
+      "strgy": [
+        "10"
+      ],
+      "evalb": [
+        "F3",
+        "K3"
+      ],
+      "strgy_name": [
+        "小組討論及活動"
+      ],
+      "strgy_name_en": [
+        "Group activity & discussion"
+      ],
+      "evalb_name": [
+        "小組討論",
+        "上課即時問與答"
+      ],
+      "evalb_name_en": [
+        "Group discussion",
+        "In-class oral assessment"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CI02132",
+          "sub_id": "43080",
+          "scr_dup": "001",
+          "seq": 5,
+          "strgy_id": "10",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CI02132",
+          "sub_id": "43080",
+          "scr_dup": "001",
+          "seq": 5,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "F3",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CI02132",
+          "sub_id": "43080",
+          "scr_dup": "001",
+          "seq": 5,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "K3",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    }
+  ],
+  "topicSdgs": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CI02132",
+      "sub_id": "43080",
+      "scr_dup": "001",
+      "sdgs_seq": 10,
+      "main_related": "N",
+      "ind_related": "Y",
+      "iss_name": "經濟成長面",
+      "iss_ename": "Economic Growth",
+      "content_name": "研發創新和建立工業建設",
+      "content_ename": "Industry, Innovation and Infrastructure"
+    }
+  ],
+  "topicAiIndicators": [],
+  "learnHours": {
+    "total": 18.0,
+    "tpdOnlineAsyTotal": 0.0,
+    "tpdOnlineSynTotal": 0.0,
+    "tpdOnlineFaceTotal": 18.0,
+    "asySynInTotalPercent": 0.0
+  },
+  "crossVerYear": 114
+}

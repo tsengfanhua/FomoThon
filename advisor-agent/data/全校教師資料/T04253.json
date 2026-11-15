@@ -1,0 +1,319 @@
+{
+  "teacherId": "T04253",
+  "name": "黃定彝",
+  "mainUnit": "資訊電機學院",
+  "detailUnit": "電機工程學系",
+  "skill": [
+    "電磁理論分析與數值計算",
+    "天線與電波傳播",
+    "微波與毫米波元件與電路",
+    "封裝與系統整合"
+  ],
+  "edu": [
+    "國立台灣大學 電信工程研究所 博士",
+    "國立台灣大學 電信工程研究所 碩士",
+    "國立台灣大學 電機工程學系 學士"
+  ],
+  "fcuExp": [
+    "電機工程學系 助理教授",
+    "電機工程學系 副教授"
+  ],
+  "currjob": [],
+  "otherExp": [
+    "國立台灣大學 電信工程研究所 博士後研究人員"
+  ],
+  "journal": [
+    {
+      "論文名稱": "Design of Microstrip Antenna Arrays with Rotated Elements Using Wilkinson Power Dividers for 5 G Customer Premise Equipment Applications",
+      "期刊名稱": "Intl. J. Antennas Propagat. (SCIE,EI)",
+      "作者群": "Ting-Yi Huang*, Yun-Jhang Lee"
+    },
+    {
+      "論文名稱": "A 77-GHz\r\n2T6R Transceiver with injection-lock frequency sextupler using 65-nm CMOS\r\nfor automotive radar system application",
+      "期刊名稱": "IEEE Trans. Microw. Theory Tech. (SCIE,EI)",
+      "作者群": "Y.-H. Hsiao, Y.-C. Chang, C.-H. Tsai, T.-Y. Huang*, S. Aloui, D.-J. Huang, Y.-H. Chen, P.-H. Tsai, J.-C. Kao, Y.-H. Lin, B.-Y. Chen, J.-H. Cheng, T.-W. Huang, H.-C. Lu, K.-Y. Lin, R.-B. Wu, S.-J. Chung, and H. Wang"
+    },
+    {
+      "論文名稱": "Varactor-tuned compact\r\ndual-mode tunable filter with constant passband characteristics",
+      "期刊名稱": "IEEE Trans. Compon., Packag. Manufact. Technol. (SCIE,EI)",
+      "作者群": "H.-Y. Tsai, T.-Y. Huang*, and R.-B. Wu"
+    },
+    {
+      "論文名稱": "Ringing noise suppression for differential signaling in unshielded flexible flat cable",
+      "期刊名稱": "IEEE Trans. Compon., Packag. Manufact. Technol. (SCIE,EI)",
+      "作者群": "S.-Y. Huang, T.-Y. Huang*, C.-T. Liu, and R.-B. Wu"
+    },
+    {
+      "論文名稱": "Triband filter design using laminated waveguide cavity in LTCC",
+      "期刊名稱": "IEEE Trans. Compon., Packag. Manufact. Technol. ()",
+      "作者群": "W.-L. Tsai, T.-M. Shen, B.-J. Chen, T.-Y. Huang, and R.-B. Wu"
+    },
+    {
+      "論文名稱": "Design of single-branch laminated waveguide diplexers using modal orthogonality",
+      "期刊名稱": "IEEE Trans. Microw. Theory Tech. ()",
+      "作者群": "W.-L. Tsai, T.-M. Shen, B.-J. Chen, T.-Y. Huang, and R.-B. Wu"
+    },
+    {
+      "論文名稱": "Design of miniaturized filtering power dividers for system-in-a-package",
+      "期刊名稱": "IEEE Trans. Compon., Packag. Manufact. Technol. ()",
+      "作者群": "C.-F. Chen, T.-Y. Huang, T.-M. Shen, and R.-B. Wu"
+    },
+    {
+      "論文名稱": "Antenna design of 60-GHz micro-radar system-in-package for noncontact vital sign detection",
+      "期刊名稱": "IEEE Antenna Wireless Propagat. Lett. ()",
+      "作者群": "T.-M. Shen, T.-Y. J. Kao, T.-Y. Huang, J. Tu, J. lin, and R.-B. Wu"
+    },
+    {
+      "論文名稱": "60GHz four-element phased-array transmit/receive system-in-package using phase compensation techniques in 65nm flip-chip CMOS process",
+      "期刊名稱": "IEEE Trans. Microw. Theory Tech. ()",
+      "作者群": "J.-L. Kuo, Y.-F. Lu, T.-Y. Huang, Y.-L. Chang, Y.-K. Hsieh, P.-J. Peng, I–C. Chang, T.-C. Tsai, K.-Y. Kao, N. Hsiung, J. Wang, Y. A. Hsu, K.-Y. Lin, H.-C. Lu, Y.-C. Lin, L.-H. Lu, T.-W. Huang, R.-B. Wu, and H. Wang"
+    },
+    {
+      "論文名稱": "Design of compact quadruplexer based on the tri-mode net-type resonators",
+      "期刊名稱": "IEEE Microw. Wireless Compon. Lett. ()",
+      "作者群": "C.-F. Chen, T.-M. Shen, T.-Y. Huang, and R.-B. Wu"
+    },
+    {
+      "論文名稱": "Design of modified net-type resonators and their application to filters and multiplexers",
+      "期刊名稱": "IEEE Trans. Microw. Theory Tech. ()",
+      "作者群": "C.-F. Chen, T.-M. Shen, T.-Y. Huang, and R.-B. Wu"
+    },
+    {
+      "論文名稱": "Design of microstrip-to-microstrip via transition in multilayered LTCC for frequencies up to 67 GHz",
+      "期刊名稱": "IEEE Trans. Compon., Packag. Manufact. Technol. ()",
+      "作者群": "C.-C. Tsai, Y.-S. Cheng, T.-Y. Huang, Y. A. Hsu, and R.-B. Wu"
+    },
+    {
+      "論文名稱": "A laminated waveguide magic-T with bandpass filter response in multilayer LTCC",
+      "期刊名稱": "IEEE Trans. Microw. Theory Tech. ()",
+      "作者群": "T.-M. Shen, T.-Y. Huang, C.-F. Chen, and R.-B. Wu"
+    },
+    {
+      "論文名稱": "Miniaturized bandpass filter with double-folded substrate integrated waveguide resonators in LTCC",
+      "期刊名稱": "IEEE Trans. Microw. Theory Tech. ()",
+      "作者群": "H.-Y. Chien, T.-M. Shen, T.-Y. Huang, W.-H. Wang, and R.-B. Wu"
+    },
+    {
+      "論文名稱": "A dual wide-band filter design using frequency mapping and stepped-impedance resonators",
+      "期刊名稱": "IEEE Trans. Microw. Theory Tech. ()",
+      "作者群": "A.-S. Liu, T.-Y. Huang, and R.-B. Wu"
+    },
+    {
+      "論文名稱": "Design of vertically stacked waveguide filters in LTCC",
+      "期刊名稱": "IEEE Trans. Microw. Theory Tech. ()",
+      "作者群": "T.-M. Shen, C.-F. Chen, T.-Y. Huang, and R.-B. Wu"
+    },
+    {
+      "論文名稱": "Design of dual- and triple-passband filters using alternately cascaded multiband resonators",
+      "期刊名稱": "IEEE Trans. Microw. Theory Tech. ()",
+      "作者群": "T.-M. Shen, C.-F. Chen, T.-Y. Huang, and R.-B. Wu"
+    },
+    {
+      "論文名稱": "Steady-state response by finite-difference time-domain method and Lanczos algorithm",
+      "期刊名稱": "IEEE Trans. Microw. Theory Tech. ()",
+      "作者群": "T.-Y. Huang and R.-B. Wu"
+    },
+    {
+      "論文名稱": "Microstrip diplexers design with common resonator sections for compact size, but high isolation",
+      "期刊名稱": "IEEE Trans. Microw. Theory Tech. ()",
+      "作者群": "C.-F. Chen, T.-Y. Huang, C.-P. Chou, and R.-B. Wu"
+    },
+    {
+      "論文名稱": "Novel compact net-type resonators and their applications to microstrip bandpass filters",
+      "期刊名稱": "IEEE Trans. Microw. Theory Tech. ()",
+      "作者群": "C.-F. Chen, T.-Y. Huang, and R.-B. Wu"
+    },
+    {
+      "論文名稱": "Design of microstrip bandpass filters with multiorder spurious-mode suppression",
+      "期刊名稱": "IEEE Trans. Microw. Theory Tech. ()",
+      "作者群": "C.-F. Chen, T.-Y. Huang, and R.-B. Wu"
+    },
+    {
+      "論文名稱": "A miniaturized multilayer quasi-elliptic bandpass filter with aperture-coupled microstrip resonators",
+      "期刊名稱": "IEEE Trans. Microw. Theory Tech. ()",
+      "作者群": "C.-F. Chen, T.-Y. Huang, C.-H. Tseng, R.-B. Wu, and T.-W. Chen"
+    },
+    {
+      "論文名稱": "Fast waveguide eigenanalysis by wide-band finite-element model-order reduction",
+      "期刊名稱": "IEEE Trans. Microw. Theory Tech. (SCIE,EI)",
+      "作者群": "S.-H. Lee, T.-Y. Huang, and R.-B. Wu"
+    },
+    {
+      "論文名稱": "A miniaturized net-type microstrip bandpass filter using λ/8 resonators",
+      "期刊名稱": "IEEE Microw. Guided Wave Lett. (SCIE,EI)",
+      "作者群": "C.-F. Chen, T.-Y. Huang, and R.-B. Wu"
+    }
+  ],
+  "journal2": [],
+  "conference": [
+    {
+      "論文名稱": "Millimeter-wave bandpass filter on printed circuit board with conventional microstrip line structure",
+      "會議名稱": "26th International Symposium on Antennas and Propagation, ISAP 2021",
+      "作者群": "Y.-C. Lin, S.-C. Lin, Y.-J. Li, and T.-Y. Huang*"
+    },
+    {
+      "論文名稱": "A polarization reconfigurable microstrip circular patch filtering antenna",
+      "會議名稱": "2019 Asia-Pacific Microwave Conference",
+      "作者群": "T.-Y. Huang*, H.-W. Chou, and W.-H. Hsiao"
+    },
+    {
+      "論文名稱": "A microstrip antenna with frequency and polarization reconfigurability",
+      "會議名稱": "2019 Progress In Electromagnetics Research Symposium",
+      "作者群": "T.-Y. Huang*, W.-H. Hsiao, and H.-W. Chou"
+    },
+    {
+      "論文名稱": "A frequency reconfigurable rat-race coupler with filtering responses using varactor-tuned coupled resonators",
+      "會議名稱": "2019 Progress In Electromagnetics Research Symposium",
+      "作者群": "T.-Y. Huang*, C.-H. Wu, and S.-C. Lin"
+    },
+    {
+      "論文名稱": "Microstrip filtering power dividers with novel isolating method for good in-band isolation performance",
+      "會議名稱": "2018 Progress In Electromagnetics Research Symposium",
+      "作者群": "Ting-Yi Huang*, Cheng-Hsien Wu, and Chih-Heng Lin"
+    },
+    {
+      "論文名稱": "Passive compensation design for inductive non-contact interfaces in modular mobile devices",
+      "會議名稱": "2018 Progress In Electromagnetics Research Symposium",
+      "作者群": "Ting-Yi Huang*, Hong-Wei Chou, and Chih-Heng Lin"
+    },
+    {
+      "論文名稱": "Design of dual-mode tunable filter with constant fractional bandwidth using varactors",
+      "會議名稱": "2014 Asia Pacific Microwave Conference",
+      "作者群": "H.-Y. Tsai, T.-Y. Huang, and R.-B. Wu"
+    },
+    {
+      "論文名稱": "A novel noise mitigation design for TSV-to-device coupling using power distribution network",
+      "會議名稱": "IEEE 23nd Topical Meeting Electrical Performance of Electronic Packaging Systems",
+      "作者群": "C.-P. Chang, M.-K. Kang, T.-Y. Huang, K.-B. Wu, and R.-B. Wu"
+    },
+    {
+      "論文名稱": "Artificial neural network modeling for extrinsic capacitance of FinFET",
+      "會議名稱": "IEEE 23nd Topical Meeting Electrical Performance of Electronic Packaging Systems",
+      "作者群": "W.-C. Chen, C.-P. Chang, M.-K. Kang, T.-Y. Huang, K.-B. Wu, and R.-B. Wu"
+    },
+    {
+      "論文名稱": "Millimeter wave non-contact flip-chip transitions with Chebyshev filtering response using coupled microstrip resonators",
+      "會議名稱": "2013 Asia Pacific Microwave Conference",
+      "作者群": "H.-Y. Tsai, T.-Y. Huang, T.-M. Shen, and R.-B. Wu"
+    },
+    {
+      "論文名稱": "Development of millimeter-wave passive components and system-in-packages by LTCC technology",
+      "會議名稱": "2013 Asia Pacific Microwave Conference",
+      "作者群": "T.-M. Shen, T.-Y. Huang, and R.-B. Wu"
+    },
+    {
+      "論文名稱": "Characterization of TSVs by cascaded daisy chains. IEEE 22nd Topical Meeting Electrical Performance of Electronic Packaging Systems",
+      "會議名稱": "IEEE 22nd Topical Meeting Electrical Performance of Electronic Packaging Systems",
+      "作者群": "Y.-C. Wu, K.-B. Wu, K.-Y. Yang, T.-Y. Huang, and R.-B. Wu"
+    },
+    {
+      "論文名稱": "Inductance modeling of TSV for time domain simulation",
+      "會議名稱": "2013 Asia-pacific Radio Science Conference",
+      "作者群": "C.-B. Chang, T.-Y. Huang, and R.-B. Wu"
+    },
+    {
+      "論文名稱": "Design of a 180-Degree Hybrid with Chebyshev Filtering Response Using Coupled Resonators",
+      "會議名稱": "2013 IEEE International Microwave Symposium",
+      "作者群": "W.-R. Liu, T.-Y. Huang, C.-F. Chen, T.-M. Shen, and R.-B. Wu"
+    },
+    {
+      "論文名稱": "Design of microstrip contiguous broadband diplexers for cosmic microwave background detection",
+      "會議名稱": "URSI/SAS 2007 Radio Science Conference and Taiwan-Japan Joint Meeting on Antennas and Propagation",
+      "作者群": "C.-F. Chen, T.-M. Shen, T.-Y. Huang, and R.-B. Wu"
+    },
+    {
+      "論文名稱": "Design of a Vertically stacked waveguide filter with novel cross coupling structures in LTCC",
+      "會議名稱": "2006 Asia-Pacific Microwave Conference",
+      "作者群": "T.-M. Shen, T.-Y. Hung, C.-F. Chen, and R.-B. Wu"
+    },
+    {
+      "論文名稱": "A miniaturized microstrip common resonator triplexer without extra matching network",
+      "會議名稱": "2006 Asia-Pacific Microwave Conference",
+      "作者群": "C.-F. Chen, T.-Y. Huang, and R.-B. Wu"
+    },
+    {
+      "論文名稱": "Miniaturized microstrip quasi-elliptical bandpass filters using slotted resonators",
+      "會議名稱": "2006 IEEE MTT-S International Microwave Symposium",
+      "作者群": "C.-F. Chen, T.-Y. Huang, and R.-B. Wu"
+    },
+    {
+      "論文名稱": "Dual-band/broadband circular polarizers designed with cascaded dielectric septum loadings",
+      "會議名稱": "Progress in Electromagnetics Research Symposium",
+      "作者群": "T.-Y. Huang, Y.-C. Yu, and R.-B. Wu"
+    },
+    {
+      "論文名稱": "A 60GHz LTCC transition between microstrip line and substrate integrated waveguide",
+      "會議名稱": "2005 Asia-Pacific Microwave Conference",
+      "作者群": "T.-H. Yang, C.-F. Chen, T.-Y. Huang, C.-L. Wang, and R.-B. Wu"
+    },
+    {
+      "論文名稱": "Compact microstrip cross-coupled bandpass filters using miniaturized stepped impedance resonators",
+      "會議名稱": "2005 Asia-Pacific Microwave Conference",
+      "作者群": "C.-F. Chen, T.-Y. Huang, and R.-B. Wu"
+    },
+    {
+      "論文名稱": "Design of 60GHz vertically stacked waveguide filters in LTCC",
+      "會議名稱": "2005 Asia-Pacific Microwave Conference",
+      "作者群": "T.-M. Shen, T.-Y. Huang, C.-F. Chen, and R.-B. Wu"
+    },
+    {
+      "論文名稱": "Steady-state response by time-reversal FD-TD method with Lanczos algorithm",
+      "會議名稱": "2003 IEEE AP-S International Symposium on Antennas and Propagation",
+      "作者群": "Y.-H. Pang, T.-Y. Huang, and R.-B. Wu"
+    },
+    {
+      "論文名稱": "Full-wave optimization by EM3D technology and genetic algorithm",
+      "會議名稱": "2002 Asia-Pacific Microwave Conference",
+      "作者群": "T.-Y. Huang, Y.-H. Pang, and R.-B. Wu"
+    }
+  ],
+  "book": [],
+  "patent": [],
+  "most": [
+    {
+      "name": "應用於n257頻段之毫米波圓極化天線",
+      "schoolYear": "112"
+    },
+    {
+      "name": "模組化智慧型行動裝置中差動訊號的非接觸傳輸介面分析與補償設計",
+      "schoolYear": "110"
+    },
+    {
+      "name": "適用於次世代行動平台的平面式可重構濾波元件與天線(2/2)",
+      "schoolYear": "109"
+    },
+    {
+      "name": "適用於次世代行動平台的平面式可重構濾波元件與天線(1/2)",
+      "schoolYear": "108"
+    },
+    {
+      "name": "以廣義耦合共振器理論實作適用於次世代行動平台之系統整合微波元件",
+      "schoolYear": "107"
+    },
+    {
+      "name": "模組化智慧型行動裝置中非接觸傳輸介面的分析與補償設計",
+      "schoolYear": "106"
+    }
+  ],
+  "tech": [
+    {
+      "論文名稱": "Design and Modeling of Microstrip Line to Substrate Integrated Waveguide Transitions (2010-04)",
+      "書名": "Passive Microwave Components and Antennas",
+      "作者群": "T.-Y. Huang, T.-M. Shen and R.-B. Wu"
+    }
+  ],
+  "induAca": [],
+  "perform": [],
+  "reward": [
+    "112學年度教學績優獎 (112, 2023-11) - 逢甲大學",
+    "109學年度教學滿意度全校前10% (110, 2021-11) - 逢甲大學",
+    "108學年度教學滿意度全校前10% (109, 2020-11) - 逢甲大學",
+    "108學年度教學績優獎 (108, 2019-11) - 逢甲大學",
+    "106學年度教學滿意度全校前10% (107, 2018-11) - 逢甲大學",
+    "106學年度教學滿意度全校前10% (106, 2018-05) - 逢甲大學",
+    "105學年度教學滿意度全校前10% (106, 2017-12) - 逢甲大學"
+  ],
+  "speech": [],
+  "material": [],
+  "tal": []
+}

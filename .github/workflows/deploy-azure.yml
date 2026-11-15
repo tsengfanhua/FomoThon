@@ -1,0 +1,64 @@
+# 推 main → 部署到 Azure：https://fomothon.koreacentral.cloudapp.azure.com
+#
+# 需要 repo secret FOMOTHON_DEPLOY_KEY（個人 repo 只有擁有者能設定）；還沒設定時這個 workflow 只會略過，不算失敗。
+# 這把 key 在 VM 上被鎖成「只能送程式碼來部署」：VM 把程式解到新資料夾、重啟、做健康檢查，失敗會自動退回上一版。
+# 資料庫（*.sqlite）不在 Git，部署不會帶上去；重跑分析後要更新線上資料，請聯絡管理 VM 的老師。
+name: Deploy to Azure
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+concurrency:
+  group: deploy-azure
+  cancel-in-progress: false
+
+permissions:
+  contents: read
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    env:
+      DEPLOY_KEY: ${{ secrets.FOMOTHON_DEPLOY_KEY }}
+      VM: coursego@52.141.17.169
+      SITE: https://fomothon.koreacentral.cloudapp.azure.com
+    steps:
+      - name: 尚未設定部署金鑰
+        if: env.DEPLOY_KEY == ''
+        run: echo "::notice::尚未設定 repo secret FOMOTHON_DEPLOY_KEY，略過部署"
+
+      - uses: actions/checkout@v7
+        if: env.DEPLOY_KEY != ''
+
+      - name: 送程式碼到 VM 並部署
+        if: env.DEPLOY_KEY != ''
+        run: |
+          install -d -m 700 ~/.ssh
+          # 從網頁貼 secret 常混進 Windows 換行（\r）或前後空白，ssh 會讀不了；先清掉
+          printf '%s\n' "$DEPLOY_KEY" | tr -d '\r' | sed -e 's/^[[:space:]]*//' -e 's/[[:space:]]*$//' | sed '/^$/d' > "$RUNNER_TEMP/key"
+          # 只貼了中間那段（漏了 BEGIN / END 兩行）時自動補回
+          if grep -qx -- '-----BEGIN OPENSSH PRIVATE KEY-----' "$RUNNER_TEMP/key"; then
+            cp "$RUNNER_TEMP/key" ~/.ssh/deploy_key
+          else
+            { echo '-----BEGIN OPENSSH PRIVATE KEY-----'; grep -v -- '-----' "$RUNNER_TEMP/key"; echo '-----END OPENSSH PRIVATE KEY-----'; } > ~/.ssh/deploy_key
+            echo "::warning::FOMOTHON_DEPLOY_KEY 少了 BEGIN / END 兩行，已自動補上；有空請重新貼上完整私鑰"
+          fi
+          rm -f "$RUNNER_TEMP/key"
+          chmod 600 ~/.ssh/deploy_key
+          if ! ssh-keygen -y -f ~/.ssh/deploy_key > "$RUNNER_TEMP/deploy_key.pub" 2>/dev/null; then
+            first=$(head -1 ~/.ssh/deploy_key | grep -qx -- '-----BEGIN OPENSSH PRIVATE KEY-----' && echo 正確 || echo 不對)
+            last=$(tail -1 ~/.ssh/deploy_key | grep -qx -- '-----END OPENSSH PRIVATE KEY-----' && echo 正確 || echo 不對)
+            echo "::error::FOMOTHON_DEPLOY_KEY 讀不了：要貼私鑰全文（含 BEGIN / END 兩行）。行數 $(wc -l < ~/.ssh/deploy_key)，第一行$first，最後一行$last"
+            exit 1
+          fi
+          echo "金鑰指紋：$(ssh-keygen -lf "$RUNNER_TEMP/deploy_key.pub" | awk '{print $2}')"
+          echo '52.141.17.169 ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIGAmFaHZY45Uz5voPojAnFAxaFJ0GZBRFcTq1rDZQflz' > ~/.ssh/known_hosts
+          git archive --format=tar.gz HEAD \
+            | ssh -i ~/.ssh/deploy_key -o BatchMode=yes -o StrictHostKeyChecking=yes "$VM" "deploy $GITHUB_SHA"
+
+      - name: 檢查線上網站
+        if: env.DEPLOY_KEY != ''
+        run: curl -fsS --retry 5 --retry-delay 3 "$SITE/healthz"

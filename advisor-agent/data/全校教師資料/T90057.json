@@ -1,0 +1,789 @@
+{
+  "teacherId": "T90057",
+  "name": "黃柏文",
+  "mainUnit": "工程與科學學院",
+  "detailUnit": "航太與系統工程學系",
+  "skill": [
+    "計算流體力學Computational Fluid Dynamics",
+    "微尺度熱流Micro-Scale Thermal-Fluid",
+    "紊流理論Turbulence Theory",
+    "燃燒學Combustion Theory",
+    "噴射推進Jet Propulsion",
+    "機器學習Machine Learning"
+  ],
+  "edu": [
+    "國立清華大學 動力機械工程學系 博士",
+    "國立清華大學 動力機械工程學系 碩士",
+    "國立台灣海洋學院 輪機工程學系 學士"
+  ],
+  "fcuExp": [
+    "航太與系統工程學系 系主任",
+    "航空工程學系 助理教授",
+    "航太與系統工程學系 副教授",
+    "航太與系統工程學系 教授"
+  ],
+  "currjob": [
+    "機智雲股份有限公司 監察人"
+  ],
+  "otherExp": [
+    "私立光武技術學院 機械工程學系 助理教授",
+    "國立清華大學 動力機械工程學系 博士後研究"
+  ],
+  "journal": [
+    {
+      "論文名稱": "Comparison and Optimization of Generalized Stamping Machine Fault Diagnosis Models Using Various Transfer Learning Methodologies",
+      "期刊名稱": "Sensors (SCIE)",
+      "作者群": "Hwang P-W, Chang Y-J.*, Hsieh-Chih Tsai, Yu-Ta Tu and Hung-Pin Yang"
+    },
+    {
+      "論文名稱": "Optimization Based on Computational Fluid Dynamics and Machine Learning for the Performance of Diffuser-Augmented Wind Turbines with Inlet Shrouds",
+      "期刊名稱": "Sustainability (SCIE)",
+      "作者群": "Po-Wen Hwang* , Jia-HengWu, Yuan-Jen Chang"
+    },
+    {
+      "論文名稱": "The Optimization of a Model for Predicting the Remaining Useful Life and Fault Diagnosis of Landing Gear",
+      "期刊名稱": "Aerospace (SCIE)",
+      "作者群": "Yuan-Jen Chang *, He-Kai Hsu, Tzu-Hsuan Hsu, Tsung-Ti Chen, Po-Wen Hwang"
+    },
+    {
+      "論文名稱": "Predicting the Remaining Useful Life of Landing Gear with Prognostics and Health Management (PHM)",
+      "期刊名稱": "Aerospace (SCIE)",
+      "作者群": "Tzu-Hsuan Hsu, Yuan-Jen Chang*, He-Kai Hsu, Tsung-Ti Chen and Po-Wen Hwang"
+    },
+    {
+      "論文名稱": "Efficient Modeling of Heat Conduction across Thin Surface Coatings on 3D Anisotropic Substrate",
+      "期刊名稱": "Aerospace (SCIE)",
+      "作者群": "Yui-Chuin Shiah*, Po-Wen Hwang, Mohammad-Rahim Hematiyan, Nguyen Anh Tuan"
+    },
+    {
+      "論文名稱": "Synergistic effects of micro-/nano-fillers on conductive and electromagnetic shielding properties of polypropylene nanocomposites",
+      "期刊名稱": "materials and manufacturing processes (SCIE)",
+      "作者群": "Ting-Ting Li, An-Pang Chen,Po-Wen Hwang, Yi-Jun Pan, Wen-Hao Hsing, Ching-Wen Lou,Yueh-Sheng Chen,Jia-Horng Lin*"
+    },
+    {
+      "論文名稱": "Electromagnetic Shielding and Far Infrared Composite Woven Fabrics: Manufacturing Technique and Function Evaluation",
+      "期刊名稱": "Textile Research Journal (SCIE)",
+      "作者群": "Lin, J. H., Hwang, P. W., Hsieh, C. T., Pan, Y. J., Chen, Y. S., Chuang, Y. C., Chen, L. C., Lou, C. W."
+    },
+    {
+      "論文名稱": "Formation of Ti5Si3 and V5Si3 by Self- propagating High-temperature Synthesis and Evaluation of Combustion Wave Kinetics",
+      "期刊名稱": "Journal of Alloys and Compounds (SCIE,EI)",
+      "作者群": "Yeh, C. L.,* Hwang, P. W., and Chen, Y. L."
+    },
+    {
+      "論文名稱": "Influences of Ignition Timing, Spark Plug and Intake Port Locations on the Combustion Performance of a Simulated Rotary Engine",
+      "期刊名稱": " Journal of Mechanics (SCIE,EI)",
+      "作者群": "Po-Wen Hwang, Xin-Chang Chen, Hsien-Chie Cheng*"
+    },
+    {
+      "論文名稱": "Formation of Ti5Si3 by combustion synthesis in a self-propagating mode: experimental study and numerical simulation",
+      "期刊名稱": "High Temperature Materials and Processes (SCIE,EI)",
+      "作者群": "Yeh, C. L.,* Chou, C. C., and Hwang, P. W."
+    },
+    {
+      "論文名稱": "Heat Dissipation Assessment of Through Silicon Via (TSV)-based 3D IC packaging for CMOS image sensing",
+      "期刊名稱": "Microelectronics Reliability (SCIE)",
+      "作者群": "Hsien-Chie Cheng*, Tzu-Chin Huang, Po-Wen Hwang and Wen-Hwa Chen*"
+    },
+    {
+      "論文名稱": "Structure Design and Property Evaluation of Silver/Stainless Steel Composite Fabric",
+      "期刊名稱": "Journal of Industrial Textiles (SCIE,EI)",
+      "作者群": "Hwang, P. W., Chen, A. P., Li, T. T., Lou, C. W., Lin, J. H."
+    },
+    {
+      "論文名稱": "Experimental and Numerical Studies on Self-Propagating High-Temperature Synthesis of Ta5Si3\r\nIntermetallics",
+      "期刊名稱": "Metal (SCIE,EI)",
+      "作者群": "Yeh, C. L., Chou, C. C., Hwang, P. W."
+    },
+    {
+      "論文名稱": "Heat Ttransfer of Twin-Fin Piezo Fan at Various Orientations and Buoyancy Levels",
+      "期刊名稱": "International Journal of Heat and Mass Transfer (SCIE)",
+      "作者群": "Chang, S. W., Hwang, P. W., Chiang, K. F., and Cai, C. L."
+    },
+    {
+      "論文名稱": "Dynamic Behavior of Droplets in AC Electrowetting",
+      "期刊名稱": "Journal of Aeronautics, Astronautics and Aviation (EI)",
+      "作者群": "Hwang, P. W., Cai, Y. L., and Soong, C. Y."
+    },
+    {
+      "論文名稱": "Electromagnetic Shielding Effectiveness and Functions of Stainless Steel/Bamboo Charcoal Conductive Fabrics",
+      "期刊名稱": "Journal of Industrial Textiles (SCIE)",
+      "作者群": "Po-Wen Hwang, An-Pang Chen, Ching-Wen Lou, and Jia-Horng Lin*"
+    },
+    {
+      "論文名稱": "Manufacturing Technique and Properties Evaluation of Ni-Coated Copper Composite Fabrics",
+      "期刊名稱": "Applied Mechanics and Materials (EI)",
+      "作者群": "An-Pang Chen, Po-Wen Hwang*, Ching-Wen Lin*, Ting-An Lin, Ya-Yuan Chuang, Jia-Horng Lin*"
+    },
+    {
+      "論文名稱": "Modeling Evaluation of Arrhenius Factor and Thermal Conductivity for Combustion Synthesis of Transition Metal Aluminides",
+      "期刊名稱": "Intermetallics (SCIE,EI)",
+      "作者群": "Yeh, C. L.,* Hwang, P. W., Chen, W. K., Li, J. Y."
+    },
+    {
+      "論文名稱": "Manufacturing and Functions of Bamboo Charcoal/Stainless Steel Composite Fabric",
+      "期刊名稱": "Advanced Materials Research (SCIE)",
+      "作者群": "Chen, A. P., Hwang, P. W., Lin J. H"
+    },
+    {
+      "論文名稱": "Analysis of pressure-driven electrokinetic flows in hydrophobic\r\nmicrochannels with slip-dependent zeta potential",
+      "期刊名稱": "Microfluidics and Nanofluidics (SCIE,ECONLIT)",
+      "作者群": "C. Y. Soong • P. W. Hwang • J. C. Wang"
+    },
+    {
+      "論文名稱": "Analytic Solutions and Model Assessment for Electrokinetic Flow in Hydrophobic Microchannels with Various Boundary Conditions of Interfacial Electric and Slippage Phenomena",
+      "期刊名稱": "Journal of the Chinese Society of Mechanical Engineers (SCIE,EI)",
+      "作者群": "1.\tWang, J. C., Soong, C. Y. and Hwang, P. W."
+    },
+    {
+      "論文名稱": "Study of Nanoscale Pressure-Driven Electrokinetic Flow with Effects of -Wall Lattice Plane",
+      "期刊名稱": "Journal Of Mechanics (SCIE)",
+      "作者群": "Yen T. H., Soong C. Y., Tzeng P. Y."
+    },
+    {
+      "論文名稱": "Investigation of Variable-Property Microchannel Flows with Electro-Thermo- Hydrodynamic Interactions at Constant Pressure Gradient or Constant Flow Rate",
+      "期刊名稱": "International Journal of Heat and Mass Transfer (SCIE)",
+      "作者群": "Hwang, P. W. and Soong, C. Y."
+    },
+    {
+      "論文名稱": "Heat Conduction In Multiply Adjoined Anisotropic Media With Embedded Point Heat Sources",
+      "期刊名稱": "ASME Journal of Heat Transfer (SCIE)",
+      "作者群": "Shiah, Y. C., Hwang, P. W., and Yang, R. B."
+    },
+    {
+      "論文名稱": "具45度交錯排列肋條U型銳轉靜止管道流場之數值模擬",
+      "期刊名稱": "中國航空太空學會學刊 (EI)",
+      "作者群": "李宜宸、劉通敏、戴昌賢、黃柏文"
+    },
+    {
+      "論文名稱": "Heat Conduction in Dissimilar Anisotropic Media with Bonding Defects/Interface Cracks",
+      "期刊名稱": "Journal of Mechanics (SCIE)",
+      "作者群": "Y. C. Shiah, Ruey-Bin Yang, and Po-Wen Hwang"
+    },
+    {
+      "論文名稱": "燃燒效應對於背向階梯流場駐焰特性之影響",
+      "期刊名稱": "中國航空太空學會學刊 (EI)",
+      "作者群": "黃柏文、劉通敏"
+    },
+    {
+      "論文名稱": "Heat Conduction In Multiply Adjoined Anisotropic Media With Embedded Point Heat Sources",
+      "期刊名稱": "ASME Journal of Heat Transfer (SCIE,EI)",
+      "作者群": "Y. C. Shiah, Po-Wen Hwang, and Ruey-Bin Yang"
+    },
+    {
+      "論文名稱": "Heat Conduction in Dissimilar Anisotropic Media with Bonding Defects/Interface Cracks",
+      "期刊名稱": "Journal of Mechanics (SCIE,EI)",
+      "作者群": "Y. C. Shiah, Ruey-Bin Yang, and Po-Wen Hwang"
+    },
+    {
+      "論文名稱": "Large Eddy Simulation of Turbulent Wake Behind a Square Cylinder with Near by Wall",
+      "期刊名稱": "ASME Journal of Fluid Engineering (SCIE,EI)",
+      "作者群": "Liou, T. M, Chen, S. H., and Hwang, P. W."
+    },
+    {
+      "論文名稱": "Flame Stability Analysis of Turbulent Non-Premixed Reacting Flow in a Simulated Solid-Fuel Ramjet Combustor",
+      "期刊名稱": "The Chinese Journal of Mechanics-Series A (SCIE,EI)",
+      "作者群": "Liou, T. M, Hwang, P. W., and Li, Y. C."
+    }
+  ],
+  "journal2": [],
+  "conference": [
+    {
+      "論文名稱": "基於計算流體力學與機器學習之工程應用研究",
+      "會議名稱": "第八屆視覺科學與藝術論壇",
+      "作者群": "張柄晟, 黃鏇諺, 林文培, 吳浩玄, 黃柏文*"
+    },
+    {
+      "論文名稱": "整合數值模擬與機器學習於含前機身無附面層隔道超音速進氣道之氣動特性優化研究",
+      "會議名稱": "2024中華民國航太學會學術研討會",
+      "作者群": "張柄晟, 林文培,黃柏文*"
+    },
+    {
+      "論文名稱": "預測與健康管理（PHM）在無人機健康監測與預知保養之應用",
+      "會議名稱": "2024 中華民國航太學會學術研討會",
+      "作者群": "温鈞皓 、沈品志 、謝仲嘉 、黃柏文*、張淵仁*"
+    },
+    {
+      "論文名稱": "應用機器學習於抽油煙機降噪與捕集效率優化之數值研究",
+      "會議名稱": "第29屆全國計算流體力學學術研討會",
+      "作者群": "黃鏇諺, 吳浩玄, 黃柏文*"
+    },
+    {
+      "論文名稱": "應用基因演算法於擴散器增強型風力機氣動性能優化之研究",
+      "會議名稱": "第28屆全國計算流體力學學術研討會",
+      "作者群": "吳佳恒, 張柄晟, 黃柏文*"
+    },
+    {
+      "論文名稱": "Apply Optimization on the Improved Design of Range Hood with Consideration of Various Factors Based on Techniques of Computational Fluid Dynamics and Machine Learning",
+      "會議名稱": "The 7th Annual Conference on Engineering and Information Technology",
+      "作者群": "Po-Wen Hwang*, Shiuan-Yan Huang"
+    },
+    {
+      "論文名稱": "擴散器增強型風力機之性能優化與流場特性分析",
+      "會議名稱": "2022中華視覺科學與藝術學會論壇(CSVSA Forum 2022)",
+      "作者群": "吳佳恒、黃柏文*"
+    },
+    {
+      "論文名稱": "優化無附面層隔道超音速進氣道流況和雷達散射截面之數值研究",
+      "會議名稱": "2022中華視覺科學與藝術學會論壇(CSVSA Forum 2022)",
+      "作者群": "陳正倫、黃鏇諺、黃柏文*"
+    },
+    {
+      "論文名稱": "擴散器增強型風力機氣動性能優化之研究",
+      "會議名稱": "2022中華民國航太學會學術研討會",
+      "作者群": "吳佳恒, 黃柏文*"
+    },
+    {
+      "論文名稱": "應用田口方法與機器學習於抽油煙機性能優化之數值研究",
+      "會議名稱": "第27屆全國計算流體力學學術研討會(大會海報競賽佳作獎)",
+      "作者群": "黃柏文*、謝字品"
+    },
+    {
+      "論文名稱": "協同計算流體力學與機器學習於現代廚具改良設計之應用",
+      "會議名稱": "2021中華視覺科學與藝術學會論壇(CSVSA Forum 2021)",
+      "作者群": "黃柏文*、史宏弈、李俊賢 、謝字品"
+    },
+    {
+      "論文名稱": "基於數值模擬與機器學習之自然/強制對流烤箱溫度均勻度優化",
+      "會議名稱": "2020中華視覺科學與藝術學會論壇(CSVSA Forum 2020)(海報論文競賽佳作獎)",
+      "作者群": "黃柏文*、李俊賢、陳正倫、鍾匡能"
+    },
+    {
+      "論文名稱": "Numerical Study on Flow-field Optimization and Noise Reduction of a Range Hood",
+      "會議名稱": "The 26th National Computational Fluid Dynamics Conference",
+      "作者群": "Hwang, P. W.*, Wu, Y. S., Xie, Z. P."
+    },
+    {
+      "論文名稱": "以機器學習理論結合紅外線熱成像預測植物病徵之研究",
+      "會議名稱": "第三十屆國際資訊管理學術研討會 (ICIM 2019)(最佳論文獎)",
+      "作者群": "陳錦杏，謝聲偉，黃柏文，張淵仁*"
+    },
+    {
+      "論文名稱": "Numerical Study on Aerodynamic Interaction and Aeroacoustics Characteristics between Rotor Disks of Coaxial Helicopter",
+      "會議名稱": "The 11th Cross-straits Conference on Aeronautics and Astronautics",
+      "作者群": "Hwang, P. W.*, Wei, Y. J."
+    },
+    {
+      "論文名稱": "Numerical Study on improvement of Thermal Efficiency for Domestic Gas Burner",
+      "會議名稱": "The Second Forum of Chinese Society of Visualization Science and Art",
+      "作者群": "Hwang, P. W.*, Hwang, Y. C., Wu, Y. S."
+    },
+    {
+      "論文名稱": "Numerical Analysis of Spray Combustion in a Stratified-Charge Rotary Engine with Optimization of Fuel Injection Parameters",
+      "會議名稱": "2017 AASRC Conference",
+      "作者群": "Hwang, P. W., Pan, S. S., Huang, Y. C., 2017"
+    },
+    {
+      "論文名稱": "A Study on Energy Strategy of a Plant Factory using Sustainable Energy Combined with Computational Fluid Dynamics",
+      "會議名稱": "Computing Conference 2017",
+      "作者群": "Hwang, P. W., Chen, C. C., Chang, Y. J.*"
+    },
+    {
+      "論文名稱": "Numerical Study of Flowfiel and Combustion Characteristics in Gas-Powered Nailers",
+      "會議名稱": "The 40th National Conference on Theoretical and Applied Mechanics",
+      "作者群": "P. W. Hwang, Y. Z. Chen"
+    },
+    {
+      "論文名稱": "Numerical Study on Combustion Performance of a Stratified Charge Rotary Engine",
+      "會議名稱": "The 10th Cross-straits Conference on Aeronautics and Astronautics, Shanghai",
+      "作者群": "P. W. Hwang, P. H., Liu, S. S. Pan"
+    },
+    {
+      "論文名稱": "Numerical Study on the Effects of Fan Configurations on Thermal Performance of a Piezo-Fan",
+      "會議名稱": "The 23rd National Computational Fluid Dynamics Conference",
+      "作者群": "P. W. Hwang, Z. T. Lin"
+    },
+    {
+      "論文名稱": "A Preliminary Numerical Study on Flowfields of Coaxial Rotors and Fuselage in Hover and Forward Flight",
+      "會議名稱": "The 10th International Conference on Advanced Computational Engineering and Experimenting",
+      "作者群": "P. W. Hwang,  J. Fang, C. Y. Soong, T. H.Shieh, Y. R. Wei"
+    },
+    {
+      "論文名稱": "Numercial Study of Electrowetting Charateristics of Liquid Droplet",
+      "會議名稱": "The 22nd National Computational Fluid Dynamics Conference",
+      "作者群": "C. Y. Soong, P. W. Hwang*, Y. L. Cai"
+    },
+    {
+      "論文名稱": "Numerical Study of Spray Combustion in a Stratified-Charge Rotary Engine",
+      "會議名稱": "The 21st National Computational Fluid Dynamics Conference",
+      "作者群": "Hwang, P. W., and Lin, Y. H."
+    },
+    {
+      "論文名稱": "Dynamic Behavior of Droplets in AC Electrowetting",
+      "會議名稱": "The 21st National Computational Fluid Dynamics Conference",
+      "作者群": "Soong, C. Y., Hwang, P. W., and Cai, Y. L."
+    },
+    {
+      "論文名稱": "Numerical Simulation of Multiphase Flows in Electrospinning",
+      "會議名稱": "The 3rd International Conference on Electrospinning",
+      "作者群": "Hwang, P. W., Wu, Y. Z., Chen, C. C."
+    },
+    {
+      "論文名稱": "A Preliminary Numerical Study on Multiphase Fluid Dynamics for Electrospinning Process",
+      "會議名稱": "The 8th International Conference on Advanced Computational Engineering and Experimenting",
+      "作者群": "Hwang, P. W., Wu, Y. Z., Chen, C. C."
+    },
+    {
+      "論文名稱": "Hwang, P. W. Fang, J. Liu, P. H., Liao, H. W., Yao, F. X., 2014, “Numerical Simulation of Multi-Atmosphere Distributions in a IGZO Thermal Annealing Oven",
+      "會議名稱": "The 24th National Conference on Combustion and Energy",
+      "作者群": "Hwang, P. W. Fang, J. Liu, P. H., Liao, H. W., Yao, F. X."
+    },
+    {
+      "論文名稱": "The Thermo-Flow Simulation of IGZO Thermal Annealing Oven",
+      "會議名稱": "The 24th National Conference on Combustion and Energy",
+      "作者群": "Fang, J., Hwang, P. W., Liao, H. W., Yao, F. X."
+    },
+    {
+      "論文名稱": "Numerical Study on the Flow Structures and Power Coefficients for Drag-Type Small Vertical Axis Wind Turbines",
+      "會議名稱": "The 37th National Conference on Theoretical and Applied Mechanics",
+      "作者群": "Hwang, P. W., Jiang, G. S., Fang, J."
+    },
+    {
+      "論文名稱": "Analysis on the Hydrogen Sorption/Desorption Performances of Metal Hydride Tank with Different Cooling Fin Arrangements",
+      "會議名稱": "The 20th National Computational Fluid Dynamics Conference",
+      "作者群": "Hwang, P. W., Wang, Y. A., Lin, C. Y."
+    },
+    {
+      "論文名稱": "Numerical Analysis on the Design of Heat Transfer Enhancement for Hydrogen Desorption Performance in Metal Hydride Tank",
+      "會議名稱": "2013 AASRC Conference",
+      "作者群": "Hwang, P. W., Wang, Y. A., Wu, Y. Z., , Lin, C. Y."
+    },
+    {
+      "論文名稱": "Numerical Study on Two-Phase Flow in Microchannels with Considerations of Boiling and Electrokinetic Phenomena",
+      "會議名稱": "The 7th International Conference on Advanced Computational Engineering and Experimenting",
+      "作者群": "Po-Wen Hwang*"
+    },
+    {
+      "論文名稱": "The Influences of Ignition Timing, Spark Plug and Intake Port Locations on the Combustion Performance of a Simulated Rotary Engine",
+      "會議名稱": "The 12th Asian Symposium on Visualization",
+      "作者群": "Po-Wen Hwang*, Xin-Chang Chen"
+    },
+    {
+      "論文名稱": "Numerical Analysis of Rotary Engine Combustion Performance with the Influences of Ignition Timing, Spark Plug and Intake Port Locations",
+      "會議名稱": "The 8th Cross-straits Conference on Aeronautics and Astronautics",
+      "作者群": "Hwang, P. W.*, and Chen, X. C."
+    },
+    {
+      "論文名稱": "Numerical Analysis of Evaporation Performance in a Shell-and-Tube Heat Exchanger with Refrigerant Flowing through the Shell-Side or Tube-Side",
+      "會議名稱": "The 19th National Computational Fluid Dynamics Conference",
+      "作者群": "Hwang, P. W.*, and Liu, G. Y."
+    },
+    {
+      "論文名稱": "Study on Theoretical Models for Simulation of Self-Propagating High-Temperature Synthesis",
+      "會議名稱": "The 6th Internation Conference on Advanced Computational Engineering and Experimenting",
+      "作者群": "P.W. Hwang*, C.L. Yeh, C.C. Wang"
+    },
+    {
+      "論文名稱": "Numerical Simulation of Boiling Heat Transfer in Shell-Tube Heat Exchanger with Different Arrangement of Manifolds",
+      "會議名稱": "2011 AASRC Conference",
+      "作者群": "Hwang, P. W.*, Liu, K. H., Huang, J. H.,  Hsu, Y. S., and Chang, K. C."
+    },
+    {
+      "論文名稱": "Numerical Study on Deformation Process of Liquid Droplets Impinging on Solid Substrates under Different Injection Modes",
+      "會議名稱": "2011 AASRC Conference",
+      "作者群": "Hwang, P. W.*, Wu, Y. T., and Wang, Y. A."
+    },
+    {
+      "論文名稱": "Numerical Study on Combustion Performance of Rotary Engines with Different Arrangement and Aspect Ratio of Rotor Recess",
+      "會議名稱": "2011 AASRC Conference",
+      "作者群": "Hwang, P. W.*, Chuang, J. J., Chen, X. C., and Cui, Y. M."
+    },
+    {
+      "論文名稱": "Study of Electrokinetic Energy Conversion in Hydrophobic Microchannels",
+      "會議名稱": "2011 AASRC Conference",
+      "作者群": "Hwang, P. W.*, Wang, J. C., and Soong, C. Y."
+    },
+    {
+      "論文名稱": "Numerical Study of Electrokinetic Energy Conversion in Hydrophobic Microchannels with a Variable-Property Flow Model,\" The Asian Symposium on Computational Heat Transfer and Fluid Flow",
+      "會議名稱": "The Asian Symposium on Computational Heat Transfer and Fluid Flow",
+      "作者群": "Soong, C. Y*, Hwang, P.W. and Wang, J. C."
+    },
+    {
+      "論文名稱": "Analysis of Electrokinetic Energy Conversion in Hydrophobic Microchannels with Slip-Dependent Zeta Potential",
+      "會議名稱": "The 1st International Symposium on Colloids and Materials: New  Scientific Horizons",
+      "作者群": "Hwang, P. W., Wang, J. C. and  Soong, C. Y.*"
+    },
+    {
+      "論文名稱": "自持性傳遞燃燒合成鋁基介金屬之數值研究",
+      "會議名稱": "中華民國燃燒學會第二十屆燃燒與能源學術研討會",
+      "作者群": "林昇澔, 陳俊宏, 黃柏文, 葉俊良*"
+    },
+    {
+      "論文名稱": "自持性傳遞燃燒合成Ti-Si介金屬之實驗研究",
+      "會議名稱": "中國機械工程學會第二十六屆全國學術研討會",
+      "作者群": "林昇澔, 黃柏文, 葉俊良*"
+    },
+    {
+      "論文名稱": "Analytic Solutions of High-K Electrokinetic Flow in Hydrophobic Microchannels with Coupling of Interfacial Electric and Slippage Phenomena",
+      "會議名稱": "中國機械工程學會第二十六屆全國學術研討會",
+      "作者群": "Wang, J. C., Hwang, P. W., and Soong, C. Y.*"
+    },
+    {
+      "論文名稱": "EffectsofSpark Plug Number and Location on Combustion Characteristics in Rotary Engine",
+      "會議名稱": "The 4th Global Chinese Aerospace Science and Technology Conference",
+      "作者群": "Hwang,P.W.*,Huang,G.Z.,and Jiang,H.Y."
+    },
+    {
+      "論文名稱": "Application of Numerical Simulation to Flow Field inside Combustion Chambers",
+      "會議名稱": "The 16th National Computational Fluid Dynamics Conference",
+      "作者群": "Hwang, P.W.*"
+    },
+    {
+      "論文名稱": "Transmit Mechanism and Engine Cooling of Rotating Wing UAV",
+      "會議名稱": "2008 National Defense Technology Conference on Project Achievement of Academic Corporation",
+      "作者群": "Hwang, P.W.*, Soong, C. Y., Huang, J. W., and Ma, H. L"
+    },
+    {
+      "論文名稱": "Numerical Simulation of Combustor Flow in Rotary Engine",
+      "會議名稱": "The 15th National Computational Fluid Dynamics Conference",
+      "作者群": "Hwang, P.W.*, Soong, C. Y., Huang, J. W., and Ma, H. L"
+    },
+    {
+      "論文名稱": "Numerical Simulation of Flowfield and Heat Transfer in 45° Staggered Multi-Rib Square Duct (AR=2) at High Rotational Speed",
+      "會議名稱": "2007 AASRC Conference",
+      "作者群": "Liou, T. M.*, Tai, C. H., Hwang, P. W., Chang, S. W., and Li, Y. C."
+    },
+    {
+      "論文名稱": "Numerical Study on Slippage Effects of Electrokinetic Flow in Microchannel",
+      "會議名稱": "The 14th National Computational Fluid Dynamics Conference",
+      "作者群": "Hwang, P.W.*, Soong, C. Y., and Wang, J. C."
+    },
+    {
+      "論文名稱": "Numerical Simulation for the Mixing Characteristics of Electroosmotic Flow in Double T-Shaped Microchannels with Heterogeneous Surface Charge",
+      "會議名稱": "2006 AASRC/CCAS Joint Conference",
+      "作者群": "Hwang, P.W.*, and Wang, S. W."
+    },
+    {
+      "論文名稱": "Development of Rotating Systems in Micro Gas Turbine Cells",
+      "會議名稱": "95年度國防科技學術合作計畫成果發表會論文集",
+      "作者群": "Soong, C. Y.*, Hwang, P. W., Liu, C. P., Liang, Y. S., and Hwang, J. S."
+    },
+    {
+      "論文名稱": "具不同緣封幾何轉子定子盤系統熱傳及攝入現象之數值模擬",
+      "會議名稱": "第十三屆全國計算流體力學學術研討會",
+      "作者群": "黃柏文*、宋齊有、方俊、黃致達"
+    },
+    {
+      "論文名稱": "Preconditioned Large Eddy Simulation on Rotating and Non-Rotating Fully Developed Channel Flows Disturbed by Periodic Ribs",
+      "會議名稱": "第五屆海峽兩岸航空太空學術研討會",
+      "作者群": "Liou, T. M., Li, Y. C., Wu, J. H., Tai, C. H., and Hwang, P. W."
+    },
+    {
+      "論文名稱": "Study on Micro Scale Thermal-Fluid Flow Characteristics of Electrokinetic Flows Under Rotating Conditions",
+      "會議名稱": "2005 AASRC/CCAS Joint Conference",
+      "作者群": "Hwang, P.W.*, Soong, C. Y., and Shiah, Y. C"
+    },
+    {
+      "論文名稱": "BEM's Analysis Of Anisotropic Heat Conduction Of Contact Surfaces",
+      "會議名稱": "2005 AASRC/CCAS Joint Conference",
+      "作者群": "Shiah, Y. C, Hwang, P.W., and Shih, Y. S"
+    },
+    {
+      "論文名稱": "接合面異向熱傳導之邊界元素法分析",
+      "會議名稱": "2005航太/民航學會年會暨會員大會暨聯合學術研討會",
+      "作者群": "夏育群*,黃柏文,施宜孝"
+    },
+    {
+      "論文名稱": "薄層異向性結構熱彈分析之邊界元素法",
+      "會議名稱": "2005航太/ 民航學會年會會員大會暨聯合學術發表會",
+      "作者群": "夏育群*,黃柏文,施宜孝"
+    },
+    {
+      "論文名稱": "A Pseudo Real-Time Minimum Model Error (RTMME) Estimation Algorithm",
+      "會議名稱": "AASRC/CCAS Joint Conference",
+      "作者群": "Chii-Chuan Chen, D. Joseph Mook"
+    },
+    {
+      "論文名稱": "Numerical Study of Microfludic Mixing With Combined Effects of Periodic Electric and Zeta Potential Variation",
+      "會議名稱": "ESI-CFD User Conference",
+      "作者群": "Hwang, P.W.*, Lee, J. K., and Wang, S. W."
+    },
+    {
+      "論文名稱": "Numerical Analysis of Transport Phenomena in Microchannel Flows with Variable Properties and Wall-Fluid Relative Motion",
+      "會議名稱": "The 6th Asian Computational Fluid Dynamic Conference",
+      "作者群": "Soong, C. Y., Hwang, P. W. and Wang, J. C."
+    },
+    {
+      "論文名稱": "Effects of Liquid Slip and Wall Sliding on Transport Phenomena in Microchannels",
+      "會議名稱": "The 16th International Symposium on Transport Phenomena",
+      "作者群": "Soong, C. Y., Hwang, P. W., and Wang, J. C."
+    },
+    {
+      "論文名稱": "Thermal Conductance of the Interface Crack between Dissimilar Anisotropic Materials",
+      "會議名稱": "The 12th National Computational Fluid Dynamics Conference",
+      "作者群": "Shiah, Y. C., Hwang, P. W., and Shi, Y. X"
+    },
+    {
+      "論文名稱": "Numerical Study of Flow Characteristics in Rim-Shrouded Rotor-Stator Disk Systems With Consideration of External Flow Effect",
+      "會議名稱": "ESI-CFD User Conference",
+      "作者群": "Hwang, P.W.*, Liang, Z. Y., and Hwang, Z. D."
+    },
+    {
+      "論文名稱": "Numerical Investigation of Electrokinetic Flow and Heat Transfer in Microchannels under Various Electro-Thermal-Flow Conditions",
+      "會議名稱": "the Fourth International Conference on Computational Heat and Mass Transfer (ICCHMT-4)",
+      "作者群": "Soong, C.Y. and Hwang, P.W."
+    },
+    {
+      "論文名稱": "Numerical Simulation of flowfields in a Stationary Two-Pass Duct with Staggered Rounded Ribs Skewed 45-deg to The Flow",
+      "會議名稱": "2004 AASRC/CCAS Joint Conference",
+      "作者群": "Liou, T. M., Tai, C. H., Hwang, P. W., and Li, Y. C."
+    },
+    {
+      "論文名稱": "Development and Perspective of Rotating Thermal-Fluids analysis",
+      "會議名稱": "2004 AASRC/CCAS Joint Conference",
+      "作者群": "Soong, C. Y., Hwang, P. W., and Kuo, C. R."
+    },
+    {
+      "論文名稱": "PLANE STRESS/STRAIN ANALYSIS AT INTERIOR POINTS FOR 2D STATIC THERMOELASTICITY INVOLVING ARBITRARY VOLUME HEAT SOURCES",
+      "會議名稱": "航空機械工程學術研討會",
+      "作者群": "夏育群、楊瑞彬、黃柏文"
+    },
+    {
+      "論文名稱": "Numerical Study of the Fluid Flow in a U Type Smooth-Walled Duct With a 180-deg Sharp Turn",
+      "會議名稱": "The 11th National Computational Fluid Dynamics Conference",
+      "作者群": "Liou, T. M., Hwang, P. W., Tai, C. H., and Li, Y. C."
+    },
+    {
+      "論文名稱": "Numerical Simulation of Electrokinetic Flow in Microchannels at High Zeta-Potentials Under Different Flow Conditions",
+      "會議名稱": "The 11th National Computational Fluid Dynamics Conference",
+      "作者群": " Hwang, P. W.*, Soong, C. Y., Shiah, Y. C., and Yang, R. B."
+    },
+    {
+      "論文名稱": "Heat Conduction in Dissimilar Anisotropic Media with Bonding Defects/Interface Cracks",
+      "會議名稱": "The 11th National Computational Fluid Dynamics Conference",
+      "作者群": "Lai, C. H., Shiah, Y. C., and Hwang, P. W."
+    },
+    {
+      "論文名稱": "BEM Thermoelastic analysis of Anisotropic Media With Concentrated Heat Sources",
+      "會議名稱": "2004 AASRC/CCAS Joint Conference",
+      "作者群": "Shiah, Y. C., Hwang, P. W., Yang, R. B., and Lai, H. C."
+    },
+    {
+      "論文名稱": "具外罩轉子-定子盤系統內對流熱傳特性之研究",
+      "會議名稱": "2004航太/民航聯合學術研討會",
+      "作者群": "宋齊有、黃柏文、方俊、林俊甫、梁植堯"
+    },
+    {
+      "論文名稱": "限界效應對於具不同流場型態之可壓縮混合層的影響",
+      "會議名稱": "2003年中國航空太空學會/中華民用航空學會學術研討會",
+      "作者群": "黃柏文*"
+    },
+    {
+      "論文名稱": "Effects of Confinement on the Vortical Structure of Mixing Layers",
+      "會議名稱": "The 4th Cross-Strait CFD Workshop",
+      "作者群": "Hwang, P. W.*, and Liou, T. M."
+    },
+    {
+      "論文名稱": "Large-Eddy Simulation of Fluid Flow in a Rotating Two-Pass Square Duct with In-Line 90-Deg Ribs",
+      "會議名稱": "The 10th National Computational Fluid Dynamics Conference",
+      "作者群": "Liou, T. M., Li, Y. C., Chen, S.H., Hwang, P. W."
+    },
+    {
+      "論文名稱": "Combustion Effects on the Flame-Holding Characteristics of Backstep Flows",
+      "會議名稱": "The 13th National Conference on Combustion Science and Technology",
+      "作者群": "Hwang, P. W.* and Liou, T. M."
+    },
+    {
+      "論文名稱": "Primary Development of Time-Accureate Numerical Code at All Speeds",
+      "會議名稱": "The 9th National Conference of Computational Fluid Dynamics",
+      "作者群": "Liou, T. M., Hwang, P. W., Li, Y. C."
+    },
+    {
+      "論文名稱": "Variation of Flame Sustainability of Solid-Fuel Ramjet Combustor with Geometry and External Excitati",
+      "會議名稱": "2002 CIROC/CSCA/AASRC Joint Conference",
+      "作者群": "Liou T. M.、Hwang P.W.、Li Y. C.、Chan C. Y."
+    },
+    {
+      "論文名稱": "Applications of Passive and Active Control in 3-D Turbulent Free Mixing Layers",
+      "會議名稱": "The 8th National CFD Conference",
+      "作者群": "P.W. Hwang*、T.M. Liou"
+    },
+    {
+      "論文名稱": "The Applications of Passive and Active Control on Three-Dimensional Free Shear Layers",
+      "會議名稱": "The 8th National Conference of Computational Fluid Dynamics",
+      "作者群": "Hwang P. W.*、Liou T. M."
+    }
+  ],
+  "book": [],
+  "patent": [],
+  "most": [
+    {
+      "name": "協同數值模擬與機器學習於含前機身無附面層隔道超音速進氣道之氣動/匿蹤特性優化研究",
+      "schoolYear": "113"
+    },
+    {
+      "name": "考慮各式因素下基於計算流體力學及機器學習技術應用多目標優化於抽油煙機之改良設計",
+      "schoolYear": "111"
+    },
+    {
+      "name": "擴散器增強型風力機氣動性能優化之數值與實驗研究",
+      "schoolYear": "110"
+    },
+    {
+      "name": "自然/強制對流烤箱內熱流場均溫性之優化研究",
+      "schoolYear": "108"
+    },
+    {
+      "name": "UAV推進系統之分層燃燒技術建立－三維轉子引擎重油分層燃燒性能參數模擬分析(III)",
+      "schoolYear": "105"
+    },
+    {
+      "name": "同軸雙旋翼無人載具暨監控系統技術研發(3/3)",
+      "schoolYear": "105"
+    },
+    {
+      "name": "以永續能源搭配智慧型環控技術進行植物工廠能源策略之研究",
+      "schoolYear": "105"
+    },
+    {
+      "name": "UAV推進系統之分層燃燒技術建立－子計畫一：轉子引擎分層燃燒之性能模擬分析(II)",
+      "schoolYear": "104"
+    },
+    {
+      "name": "高推力渦輪引擎技術研究整合－總計畫暨子計畫一：高負載軸流式壓縮器設計與分析技術(I)",
+      "schoolYear": "104"
+    },
+    {
+      "name": "提昇私校研發能量-同軸雙旋翼無人載具暨監控系統技術研發(2/3)",
+      "schoolYear": "104"
+    },
+    {
+      "name": "UAV推進系統之分層燃燒技術建立－子計畫二：轉子引擎分層燃燒之性能模擬分析(I)",
+      "schoolYear": "103"
+    },
+    {
+      "name": "提昇私校研發能量-同軸雙旋翼無人載具暨監控系統技術研發(1/3)",
+      "schoolYear": "103"
+    },
+    {
+      "name": "電紡製程之多相流體動力學數值研究",
+      "schoolYear": "102"
+    },
+    {
+      "name": "微流道內考慮沸騰及電動力現象之雙相流數值研究",
+      "schoolYear": "101"
+    },
+    {
+      "name": "自蔓延燃燒合成模擬之理論模式研究",
+      "schoolYear": "100"
+    },
+    {
+      "name": "考慮滑移及熱傳效應之微/奈米通道內電動力能量轉換效率之數值與實驗研究",
+      "schoolYear": "99"
+    },
+    {
+      "name": "考慮壁面滑移效應下發電用微/奈尺度裝置內電動力能量轉換效率之數值分析",
+      "schoolYear": "97"
+    },
+    {
+      "name": "旋轉微通道內具熱效應電動力流之三維數值模擬",
+      "schoolYear": "95"
+    },
+    {
+      "name": "微型渦輪引擎電池轉動系統開發",
+      "schoolYear": "94"
+    },
+    {
+      "name": "微通道內具熱效應與電導梯度之電動不穩定性的研究",
+      "schoolYear": "94"
+    },
+    {
+      "name": "微型渦輪引擎元件關鍵技術研究",
+      "schoolYear": "93"
+    },
+    {
+      "name": "旋轉驅動電動力流之微尺度熱流流場特性研究",
+      "schoolYear": "93"
+    },
+    {
+      "name": "限界效應對於具側向激擾之可壓縮紊流混合層縱向渦流結構的影響",
+      "schoolYear": "91"
+    }
+  ],
+  "tech": [],
+  "induAca": [
+    "以機器理論結合紅外線熱成像與微氣候預測植物病徵之研究 (2019-01 to 2019-12)",
+    "智慧預測維護系統開發與應用 (2018-03 to 2019-09)",
+    "高靜壓油煙機流道優化降噪技術研究 (2018-01 to 2020-02)",
+    "以機器理論結合紅外線熱成像與微氣候預測植物病徵之研究計畫 (2018-01 to 2018-12)",
+    "無油螺旋轉子壓縮機熱流固耦合模擬 (2017-08 to 2018-07)",
+    "燃氣台爐燃燒流場模擬與分析 (2016-04 to 2017-03)",
+    "105年新進師、員級甄選測驗試務 (2015-11 to 2016-01)",
+    "104年基層職位從業人員調升專業職位及勞務人員轉任從業人員甄選測驗試場事宜 (2015-11 to 2015-12)",
+    "高膨脹比渦輪葉片設計 (2015-04 to 2015-12)",
+    "漢翔公司103年基層職位從業人員調升專業職位甄試及勞派人員轉任從業人員甄選測驗試場事宜 (2014-11 to 2014-12)",
+    "漢翔公司102年新進員級甄選筆試測驗試務 (2014-02 to 2014-02)",
+    "高效節能環保玻璃基板IGZO熱處理設備相關模擬研究分析與輔導計畫－子計畫一:多重氣體、氣氛流場耦合分析計畫 (2013-05 to 2014-03)",
+    "1kW風力發電機之CAE流場分析 (2011-09 to 2012-02)",
+    "三角氣封及凹坑對轉子引擎馬力損失之研究 (2010-07 to 2010-12)",
+    "UAV消音屋內流場進排氣量及溫升量之評估 (2010-03 to 2010-03)",
+    "應用SoildWorks之API界面於運動型輪椅的設計與分析 (2009-01 to 2009-12)",
+    "瓦斯動力釘槍內部風扇性能之分析與改良 (2008-08 to 2008-12)",
+    "旋翼型UAV動力傳輸機構與引擎散熱探討 (2008-05 to 2008-12)",
+    "旋缸式引擎性能分析與馬力損失原因探討 (2007-04 to 2007-12)",
+    "外罩與氣封設計對渦輪盤冷卻流動與熱傳性能之影響(II) (2005-05 to 2006-04)",
+    "外罩與氣封設計對渦輪盤冷卻流動與熱傳性能之影響(Ⅰ) (2003-07 to 2004-06)",
+    "旋轉葉片及旋轉盤流場特性及解析方法研究 (2003-04 to 2003-12)"
+  ],
+  "perform": [],
+  "reward": [
+    "逢甲大學論文著作獎勵傑出獎 (113, 2024-11) - 逢甲大學",
+    "第七屆中華視覺科學與藝術學會論壇海報論文競賽(科學組)銅牌獎 (112, 2023-12) - 中華視覺科學與藝術學會",
+    "112年度國科會補助大專校院研究獎勵 (112, 2023-12) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "第二十七屆全國計算流體力學研討會大會海報競賽佳作獎 (111, 2022-08) - 第二十七屆全國計算流體力學學術研討會籌備委員會",
+    "第四屆中華視覺科學與藝術學會論壇海報論文競賽佳作獎 (109, 2020-12) - 中華視覺科學與藝術學會",
+    "108學年度優良導師 (108, 2020-11) - 學生事務處",
+    "107學年度優良導師 (107, 2019-11) - 學生事務處",
+    "逢甲大學論文著作獎勵傑出獎 (108, 2019-11) - 逢甲大學",
+    "第三十屆國際資訊管理學術研討會論文競賽最佳論文獎 (107, 2019-05) - 中華民國資訊管理學會",
+    "逢甲大學論文著作獎勵傑出獎 (107, 2018-11) - 逢甲大學",
+    "第二屆中華視覺科學與藝術學會論壇海報論文競賽佳作獎 (107, 2018-10) - 中華視覺科學與藝術學會",
+    "逢甲大學論文著作獎勵傑出獎 (106, 2017-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (106, 2017-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (106, 2017-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (105, 2016-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (104, 2015-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (103, 2014-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (103, 2014-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (103, 2014-11) - 逢甲大學",
+    "第二十一屆全國計算流體力學研討會大會海報論文競賽佳作獎 (103, 2014-08) - 第二十一屆全國計算流體力學學術研討會籌備委員會",
+    "第二十一屆全國計算流體力學研討會[流體之力與美]圖像競賽入選獎 (103, 2014-08) - 第二十一屆全國計算流體力學學術研討會籌備委員會",
+    "逢甲大學論文著作獎勵優良獎 (100, 2011-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (99, 2010-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (98, 2009-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (95, 2006-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (95, 2006-11) - 逢甲大學",
+    "第八屆全國計算流體力學研討會最佳論文獎 (90, 2001-08) - 第八屆全國計算流體力學學術研討會籌備委員會"
+  ],
+  "speech": [
+    {
+      "演講題目": "協同計算流體力學與機器學習於民生工業之應用",
+      "邀請單位": "國防大學理工學院機械及航太工程學系",
+      "演講日期": "2021-09"
+    },
+    {
+      "演講題目": "漫談我國航太大小事",
+      "邀請單位": "東海扶輪社",
+      "演講日期": "2017-11"
+    },
+    {
+      "演講題目": "Visualization of Thermal-Fluid Flows Based on CFD Simulations",
+      "邀請單位": "2017視覺科學與藝術論壇",
+      "演講日期": "2017-09"
+    },
+    {
+      "演講題目": "計算流體力學於燃燒室流場模擬之應用",
+      "邀請單位": "國立清華大學動力機械系",
+      "演講日期": "2010-11"
+    },
+    {
+      "演講題目": "Application of Numerical Simulation to Flow Field inside Combustion Chambers",
+      "邀請單位": "第16 屆全國計算流體力學研討會",
+      "演講日期": "2009-07"
+    }
+  ],
+  "material": [],
+  "tal": []
+}

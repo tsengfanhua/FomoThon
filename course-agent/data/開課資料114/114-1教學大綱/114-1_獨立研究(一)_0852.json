@@ -1,0 +1,818 @@
+{
+  "success": true,
+  "info": {
+    "yms_year": 114.0,
+    "yms_smester": 1.0,
+    "sub_id": "10050",
+    "cls_id": "CB3632A",
+    "scr_dup": "001",
+    "sub_id3": "BUS7991",
+    "cls_name": "商學專業碩專二學位學程",
+    "cls_ename": "Professional Master's Program of Business",
+    "sub_name": "獨立研究(一)",
+    "sub_ename": "INDEPENDENT STUDY(1)",
+    "scr_mso": "必修",
+    "scr_mso_en": "Required",
+    "scr_credit": 3.0,
+    "scr_periodly": "(日)02-04",
+    "scr_periodly_eng": "(Sun)02-04",
+    "lang_name": "中文                                                      ",
+    "lang_ename": "Chinese",
+    "scr_room": " ",
+    "scr_room_eng": " ",
+    "scr_teacher": "吳廣文,翁慈青,吳如娟,董正玫,黃娟娟,吳清池,林呈昱,王文聖,張森河,賴奇厚,吳朝欽",
+    "scr_teacher_eng": "Wu, Kuang-Wen,Tzu-Ching Weng,Ju-Chuan Wu,Cheng-Mei Tung,Chuan-Chuan Huang,Ching-Chih Wu,Chen-Yu Lin,Wen-Sheng Wang,Chang, Shen-Ho,Chyi-How Lay,Tsaur-Chin Wu",
+    "scr_selcode": "0852",
+    "scr_elearning": "全學期",
+    "scr_elearning_en": "Full semester",
+    "scr_hours": "3",
+    "scr_english": "N",
+    "unt_name": null,
+    "unt_ename": null,
+    "link_traminal": null,
+    "link_traminal_en": null,
+    "scr_ldl": "D",
+    "course_mk": "N",
+    "teams_mk": "N",
+    "sub_title": null,
+    "sub_title_en": null,
+    "sub_describe": null,
+    "sub_describe_en": null,
+    "hasDescription": null,
+    "hasInstructor": null,
+    "hasTA": null,
+    "hasTextBooks": null,
+    "hasReadings": null,
+    "hasiSoftwares": null,
+    "hasAssistSoftwares": null,
+    "hasObjective": null,
+    "hasWeeklyScds": null,
+    "hasGradeRules": null,
+    "hasGradeRuleDescribe": null,
+    "hasIntegrity": null,
+    "hasCoursePol": null,
+    "hasCourseRem": null,
+    "hasObjectiveReleation": null,
+    "hasTopicSdgs": null,
+    "hasSubTitleDesc": null
+  },
+  "subTitleDesc": null,
+  "description": {
+    "sub_id3": null,
+    "sub_name": "獨立研究(一)",
+    "sub_ename": "INDEPENDENT STUDY(1)",
+    "describe_ch": "為本學位學程必修課程。學生就其研究議題由該相關研究領域之教師擔任指導教授，經由研究動機、文獻探討與假說發展等訓練，將研究發現撰寫成研究計畫書，並且經由學科考之程序，完成該學分。",
+    "describe_eh": "This is a required class for Master students. They should invite the adviser to teach them writing the research proposal according to business theory. Through the training of how to collect and analyze the research data, they could write the research proposal. Finally, students can complete the whole process after making an oral presentation.",
+    "pre_subname": "",
+    "pre_sub_id3": null,
+    "pre_sub_ename": "",
+    "pre_describe": null,
+    "pre_describe_en": null,
+    "scr_credit": 3.0
+  },
+  "targets": [
+    {
+      "seq": 1,
+      "describe_ch": "能批判性地檢視學術文獻，並找出商管進階議題中的研究缺口。",
+      "describe_en": "Critically review academic literature and identify research gaps in advanced business and management topics."
+    },
+    {
+      "seq": 2,
+      "describe_ch": "能在學術研討場合中清晰且具說服力地發表研究計畫與成果。能撰寫結構完整、論述清晰、方法嚴謹且引用正確的碩士論文。",
+      "describe_en": "Present research proposals and findings clearly and persuasively in academic seminars. Write a well-structured thesis with clear arguments, rigorous methodology, and accurate academic citation."
+    },
+    {
+      "seq": 3,
+      "describe_ch": "能在研究設計與結論建議中納入倫理與社會責任的考量。",
+      "describe_en": "Integrate ethical considerations and social responsibility into research design and recommendations."
+    },
+    {
+      "seq": 4,
+      "describe_ch": "能運用適切的研究工具與資料分析軟體，解決跨領域的商業研究問題。",
+      "describe_en": "Utilize appropriate research tools and data analysis software to solve interdisciplinary business problems."
+    },
+    {
+      "seq": 5,
+      "describe_ch": "能比較全球研究趨勢，並將國際觀融入碩士論文研究中。",
+      "describe_en": "Compare global research trends and incorporate international perspectives into thesis work."
+    }
+  ],
+  "teachersInfo": [
+    {
+      "cname": "吳廣文",
+      "ename": "Wu, Kuang-Wen",
+      "period": "(Mon)07-08 商1222,(Tue)03-04 商1222",
+      "roletype": 0,
+      "email": "kwwu@o365.fcu.edu.tw",
+      "ext": "4265"
+    },
+    {
+      "cname": "黃娟娟",
+      "ename": "Chuan-Chuan Huang",
+      "period": "(Mon)05-06 商1129,(Mon)07-08 商1129",
+      "roletype": 0,
+      "email": "huangcc@o365.fcu.edu.tw",
+      "ext": "4210"
+    },
+    {
+      "cname": "張森河",
+      "ename": "Chang, Shen-Ho",
+      "period": "(Mon)01-02 商1142,(Tue)01-02 商1142",
+      "roletype": 0,
+      "email": "shchang@o365.fcu.edu.tw",
+      "ext": "4231"
+    },
+    {
+      "cname": "翁慈青",
+      "ename": "Tzu-Ching Weng",
+      "period": "(Wed)06-07 商1103,(Thu)06-07 商1103",
+      "roletype": 0,
+      "email": "tcweng@o365.fcu.edu.tw",
+      "ext": "4211"
+    },
+    {
+      "cname": "吳清池",
+      "ename": "Ching-Chih Wu",
+      "period": "(Tue)08-09 商1154,(Wed)03-04 商1154",
+      "roletype": 0,
+      "email": "cchihwu@o365.fcu.edu.tw",
+      "ext": "4311"
+    },
+    {
+      "cname": "林呈昱",
+      "ename": "Chen-Yu Lin",
+      "period": "(Mon)03-04 商1201A,(Tue)03-04 商1201A",
+      "roletype": 0,
+      "email": "chenylin@o365.fcu.edu.tw",
+      "ext": "4277"
+    },
+    {
+      "cname": "賴奇厚",
+      "ename": "Chyi-How Lay",
+      "period": "(Tue)07-08 學912",
+      "roletype": 0,
+      "email": "chlay@o365.fcu.edu.tw",
+      "ext": "6225"
+    },
+    {
+      "cname": "吳朝欽",
+      "ename": "Tsaur-Chin Wu",
+      "period": "(Mon)01-02 商1115,(Wed)01-02 商1115",
+      "roletype": 0,
+      "email": "wutc@o365.fcu.edu.tw",
+      "ext": "4305"
+    },
+    {
+      "cname": "吳如娟",
+      "ename": "Ju-Chuan Wu",
+      "period": "(Mon)09  商563,(Wed)08-09 商563,(Wed)10  商563",
+      "roletype": 0,
+      "email": "wujc@o365.fcu.edu.tw",
+      "ext": "4625"
+    },
+    {
+      "cname": "董正玫",
+      "ename": "Cheng-Mei Tung",
+      "period": "(Tue)05  922,(Tue)09  922,(Wed)04-05 922",
+      "roletype": 0,
+      "email": "cmtung@o365.fcu.edu.tw",
+      "ext": "6030"
+    },
+    {
+      "cname": "王文聖",
+      "ename": "Wen-Sheng Wang",
+      "period": "(Mon)03-04 商1128,(Fri)06-07 商1128",
+      "roletype": 0,
+      "email": "wswang@o365.fcu.edu.tw",
+      "ext": "4216"
+    }
+  ],
+  "textBooks": {
+    "yms_year": 114.0,
+    "yms_smester": 1.0,
+    "cls_id": "CB3632A",
+    "sub_id": "10050",
+    "scr_dup": "001",
+    "tpb_seq": 1,
+    "tpb_book": "<div>指導教授指定之教材、文獻等。</div>\n\n<div>&nbsp;</div>\n",
+    "tpb_book_en": " "
+  },
+  "readings": {
+    "yms_year": 114.0,
+    "yms_smester": 1.0,
+    "cls_id": "CB3632A",
+    "sub_id": "10050",
+    "scr_dup": "001",
+    "tpc_seq": 1,
+    "tpc_book": "<div>指導教授指定之教材、文獻等。</div>\n",
+    "tpc_book_en": null
+  },
+  "iSoftwares": [],
+  "assistSoftwares": [],
+  "weeklyScds": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CB3632A",
+      "sub_id": "10050",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "1-2",
+      "tpd_reading": "<div>論文研討</div>\n\n<div>&nbsp;</div>\n",
+      "tpd_reading_en": " ",
+      "tpd_learn": " ",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CB3632A",
+      "sub_id": "10050",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "3-4",
+      "tpd_reading": "<div>論文研討</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": " ",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CB3632A",
+      "sub_id": "10050",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "5-6",
+      "tpd_reading": "<div>論文研討</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": " ",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CB3632A",
+      "sub_id": "10050",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "7-8",
+      "tpd_reading": "<div>論文研討</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": " ",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CB3632A",
+      "sub_id": "10050",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "9-10",
+      "tpd_reading": "<div>論文研討</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": " ",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CB3632A",
+      "sub_id": "10050",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "11-12",
+      "tpd_reading": "<div>論文研討</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": " ",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CB3632A",
+      "sub_id": "10050",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "13-14",
+      "tpd_reading": "<div>論文研討</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": " ",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CB3632A",
+      "sub_id": "10050",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "15-16",
+      "tpd_reading": "<div>論文研討</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": " ",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    }
+  ],
+  "gradeRules": [],
+  "gradeRuleDescribe": {
+    "yms_year": 114.0,
+    "yms_smester": 1.0,
+    "cls_id": "CB3632A",
+    "sub_id": "10050",
+    "scr_dup": "001",
+    "tpa_score_new": "<div>論文meeting</div>\n",
+    "tpa_score_new_en": " ",
+    "course_pol": "應課前預習指定進度。\n確認小組成員, 分組討論。\n上課參與討論並發表想法。\n遵守授課老師排定日期(期中報告以及期末報告)，準時完成學習成果。\n未參與報告製作或繳交相關指定報告考試的同學，成績不予評分。(除因特殊情況經授課老師同意者不在此限。)",
+    "course_pol_en": null,
+    "course_rem": "NA",
+    "course_rem_en": null,
+    "ais_meno": "<div>\n<div>學生應尊重學術道德，避免未經授權使用他人作品。</div>\n\n<div>禁止任何抄襲、作弊、偽造或違反著作權法...等違反學術倫理之行為。</div>\n\n<div>所有資料來源須清楚說明，相關文獻引用須適當。</div>\n\n<div>如違反學術誠信與倫理之行為，將自行承擔所有法律責任，以及概括承受一切後果。</div>\n\n<div>&nbsp;</div>\n</div>\n",
+    "ais_meno_en": null,
+    "ilearn_mk": null
+  },
+  "integrity": {
+    "yms_year": 114.0,
+    "yms_smester": 1.0,
+    "cls_id": "CB3632A",
+    "sub_id": "10050",
+    "scr_dup": "001",
+    "tpa_score_new": "<div>論文meeting</div>\n",
+    "tpa_score_new_en": " ",
+    "course_pol": "應課前預習指定進度。\n確認小組成員, 分組討論。\n上課參與討論並發表想法。\n遵守授課老師排定日期(期中報告以及期末報告)，準時完成學習成果。\n未參與報告製作或繳交相關指定報告考試的同學，成績不予評分。(除因特殊情況經授課老師同意者不在此限。)",
+    "course_pol_en": null,
+    "course_rem": "NA",
+    "course_rem_en": null,
+    "ais_meno": "<div>\n<div>學生應尊重學術道德，避免未經授權使用他人作品。</div>\n\n<div>禁止任何抄襲、作弊、偽造或違反著作權法...等違反學術倫理之行為。</div>\n\n<div>所有資料來源須清楚說明，相關文獻引用須適當。</div>\n\n<div>如違反學術誠信與倫理之行為，將自行承擔所有法律責任，以及概括承受一切後果。</div>\n\n<div>&nbsp;</div>\n</div>\n",
+    "ais_meno_en": null,
+    "ilearn_mk": null
+  },
+  "policy": {
+    "yms_year": 114.0,
+    "yms_smester": 1.0,
+    "cls_id": "CB3632A",
+    "sub_id": "10050",
+    "scr_dup": "001",
+    "tpa_score_new": "<div>論文meeting</div>\n",
+    "tpa_score_new_en": " ",
+    "course_pol": "應課前預習指定進度。\n確認小組成員, 分組討論。\n上課參與討論並發表想法。\n遵守授課老師排定日期(期中報告以及期末報告)，準時完成學習成果。\n未參與報告製作或繳交相關指定報告考試的同學，成績不予評分。(除因特殊情況經授課老師同意者不在此限。)",
+    "course_pol_en": null,
+    "course_rem": "NA",
+    "course_rem_en": null,
+    "ais_meno": "<div>\n<div>學生應尊重學術道德，避免未經授權使用他人作品。</div>\n\n<div>禁止任何抄襲、作弊、偽造或違反著作權法...等違反學術倫理之行為。</div>\n\n<div>所有資料來源須清楚說明，相關文獻引用須適當。</div>\n\n<div>如違反學術誠信與倫理之行為，將自行承擔所有法律責任，以及概括承受一切後果。</div>\n\n<div>&nbsp;</div>\n</div>\n",
+    "ais_meno_en": null,
+    "ilearn_mk": null
+  },
+  "courseBankC": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CB3632A",
+      "sub_id": "10050",
+      "scr_dup": "001",
+      "seq": 1,
+      "describe_ch": "能批判性地檢視學術文獻，並找出商管進階議題中的研究缺口。",
+      "describe_en": "Critically review academic literature and identify research gaps in advanced business and management topics.",
+      "core_id": "A",
+      "core_item": "學生具備商管進階專業知識",
+      "core_eng": "Students possess advanced program-specific knowledge and understanding in relation to business and management.\r\n",
+      "core_level": "2 ",
+      "strgy": [
+        "04"
+      ],
+      "evalb": [
+        "B3"
+      ],
+      "strgy_name": [
+        "專題討論"
+      ],
+      "strgy_name_en": [
+        "Seminar"
+      ],
+      "evalb_name": [
+        "學生個別請益"
+      ],
+      "evalb_name_en": [
+        "Individual tutoring"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CB3632A",
+          "sub_id": "10050",
+          "scr_dup": "001",
+          "seq": 1,
+          "strgy_id": "04",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CB3632A",
+          "sub_id": "10050",
+          "scr_dup": "001",
+          "seq": 1,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "B3",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CB3632A",
+      "sub_id": "10050",
+      "scr_dup": "001",
+      "seq": 2,
+      "describe_ch": "能在學術研討場合中清晰且具說服力地發表研究計畫與成果。能撰寫結構完整、論述清晰、方法嚴謹且引用正確的碩士論文。",
+      "describe_en": "Present research proposals and findings clearly and persuasively in academic seminars. Write a well-structured thesis with clear arguments, rigorous methodology, and accurate academic citation.",
+      "core_id": "B",
+      "core_item": "學生具備溝通技巧",
+      "core_eng": "Students are able to be effective communicators.",
+      "core_level": "6 ",
+      "strgy": [
+        "04"
+      ],
+      "evalb": [
+        "B3"
+      ],
+      "strgy_name": [
+        "專題討論"
+      ],
+      "strgy_name_en": [
+        "Seminar"
+      ],
+      "evalb_name": [
+        "學生個別請益"
+      ],
+      "evalb_name_en": [
+        "Individual tutoring"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CB3632A",
+          "sub_id": "10050",
+          "scr_dup": "001",
+          "seq": 2,
+          "strgy_id": "04",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CB3632A",
+          "sub_id": "10050",
+          "scr_dup": "001",
+          "seq": 2,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "B3",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CB3632A",
+      "sub_id": "10050",
+      "scr_dup": "001",
+      "seq": 3,
+      "describe_ch": "能在研究設計與結論建議中納入倫理與社會責任的考量。",
+      "describe_en": "Integrate ethical considerations and social responsibility into research design and recommendations.",
+      "core_id": "C",
+      "core_item": "學生具備企業倫理與社會責任理解能力",
+      "core_eng": "Students are able to demonstrate awareness of business ethics and social responsibility\r\n",
+      "core_level": "5 ",
+      "strgy": [
+        "04"
+      ],
+      "evalb": [
+        "B3"
+      ],
+      "strgy_name": [
+        "專題討論"
+      ],
+      "strgy_name_en": [
+        "Seminar"
+      ],
+      "evalb_name": [
+        "學生個別請益"
+      ],
+      "evalb_name_en": [
+        "Individual tutoring"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CB3632A",
+          "sub_id": "10050",
+          "scr_dup": "001",
+          "seq": 3,
+          "strgy_id": "04",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CB3632A",
+          "sub_id": "10050",
+          "scr_dup": "001",
+          "seq": 3,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "B3",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CB3632A",
+      "sub_id": "10050",
+      "scr_dup": "001",
+      "seq": 4,
+      "describe_ch": "能運用適切的研究工具與資料分析軟體，解決跨領域的商業研究問題。",
+      "describe_en": "Utilize appropriate research tools and data analysis software to solve interdisciplinary business problems.",
+      "core_id": "D",
+      "core_item": "學生具備應用資訊科技以整合跨領域及解決問題之能力",
+      "core_eng": "Students possess the abilities to integrate interdisciplinary expertise and solve problems by leveraging information technology.",
+      "core_level": "4 ",
+      "strgy": [
+        "04"
+      ],
+      "evalb": [
+        "B3"
+      ],
+      "strgy_name": [
+        "專題討論"
+      ],
+      "strgy_name_en": [
+        "Seminar"
+      ],
+      "evalb_name": [
+        "學生個別請益"
+      ],
+      "evalb_name_en": [
+        "Individual tutoring"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CB3632A",
+          "sub_id": "10050",
+          "scr_dup": "001",
+          "seq": 4,
+          "strgy_id": "04",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CB3632A",
+          "sub_id": "10050",
+          "scr_dup": "001",
+          "seq": 4,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "B3",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CB3632A",
+      "sub_id": "10050",
+      "scr_dup": "001",
+      "seq": 5,
+      "describe_ch": "能比較全球研究趨勢，並將國際觀融入碩士論文研究中。",
+      "describe_en": "Compare global research trends and incorporate international perspectives into thesis work.",
+      "core_id": "E",
+      "core_item": "學生具備國際觀",
+      "core_eng": "Students are able to have a global perspective.",
+      "core_level": "3 ",
+      "strgy": [
+        "04"
+      ],
+      "evalb": [
+        "B3"
+      ],
+      "strgy_name": [
+        "專題討論"
+      ],
+      "strgy_name_en": [
+        "Seminar"
+      ],
+      "evalb_name": [
+        "學生個別請益"
+      ],
+      "evalb_name_en": [
+        "Individual tutoring"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CB3632A",
+          "sub_id": "10050",
+          "scr_dup": "001",
+          "seq": 5,
+          "strgy_id": "04",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CB3632A",
+          "sub_id": "10050",
+          "scr_dup": "001",
+          "seq": 5,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "B3",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    }
+  ],
+  "topicSdgs": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CB3632A",
+      "sub_id": "10050",
+      "scr_dup": "001",
+      "sdgs_seq": 17,
+      "main_related": "N",
+      "ind_related": "Y",
+      "iss_name": "多元合作",
+      "iss_ename": "Cooperation",
+      "content_name": "建立全球夥伴關係",
+      "content_ename": "Partnerships for the Goals"
+    }
+  ],
+  "learnHours": {
+    "total": 0.0,
+    "tpdOnlineAsyTotal": 0.0,
+    "tpdOnlineSynTotal": 0.0,
+    "tpdOnlineFaceTotal": 0.0,
+    "asySynInTotalPercent": 0.0
+  },
+  "crossVerYear": 114
+}

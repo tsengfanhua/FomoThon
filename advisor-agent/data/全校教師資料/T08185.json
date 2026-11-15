@@ -1,0 +1,325 @@
+{
+  "teacherId": "T08185",
+  "name": "楊松岳",
+  "mainUnit": "建設學院",
+  "detailUnit": "都市計畫與空間資訊學系",
+  "skill": [
+    "測量學Surveying",
+    "水災風險分析與管理Flood risk analysis and management",
+    "都市防災規劃Urban disaster prevention planning",
+    "逕流分擔與出流管制Runoff distribution and outflow regulation",
+    "人工智慧Artificial intelligence",
+    "全球氣候變遷Global climate change",
+    "淹水模擬Flood simulation",
+    "治水規劃Flood control planning"
+  ],
+  "edu": [
+    "國立臺灣大學 生物環境系統工程學系 博士",
+    "國立臺灣大學 農業工程學系 碩士",
+    "國立中興大學 水土保持學系 學士"
+  ],
+  "fcuExp": [
+    "城鄉發展研究中心 研究員",
+    "都市計畫與空間資訊學系 助理教授",
+    "都市計畫與空間資訊學系 副教授"
+  ],
+  "currjob": [],
+  "otherExp": [
+    "經濟部水利署 河川海岸組 科長",
+    "經濟部水利署 水利規劃試驗所 正工程司",
+    "行政院農業委員會水土保持局 南投分局 技士"
+  ],
+  "journal": [
+    {
+      "論文名稱": "Enhancing Flooding Depth Forecasting Accuracy in an Urban Area Using a Novel Trend Forecasting Method",
+      "期刊名稱": "Water Resources Management (SCIE)",
+      "作者群": "Song‑Yue Yang, You‑Da Jhong, Bing‑Chen Jhong, Yun‑Yang Lin"
+    },
+    {
+      "論文名稱": "Optimization of LSTM Parameters for Flash Flood Forecasting Using Genetic Algorithm",
+      "期刊名稱": "Water Resources Management (SCIE)",
+      "作者群": "You‑Da Jhong, Chang‑Shian Chen, Bing‑Chen Jhong, Cheng‑Han Tsai, Song‑Yue Yang*"
+    },
+    {
+      "論文名稱": "Adaptation strategy with public space for pluvial flood risk mitigation in a densely populated city: A case study in Huwei, Taiwan",
+      "期刊名稱": "Journal of Hydrology: Regional Studies (SCIE)",
+      "作者群": "Song-Yue Yang, Wei-Ting Chen, Cheng-Hao Lin, Ling-Fang Chang, Wen-Tsun Fang, Bing-Chen Jhong*"
+    },
+    {
+      "論文名稱": "Long Short-Term Memory Integrating Moving Average Method for Flood Inundation Depth Forecasting Based on Observed Data in Urban Area",
+      "期刊名稱": "Natural Hazards (SCIE)",
+      "作者群": "Song-Yue Yang, Bing-Chen Jhong, You-Da Jhong*, Tsung-Tang Tsai, Chang-Shian Chen"
+    },
+    {
+      "論文名稱": "Digital Elevation Models for High-Resolution Base Flood Elevation Mapping in a Densely Populated City",
+      "期刊名稱": "Natural Hazards (SCIE)",
+      "作者群": "Song-Yue Yang*, Shaohua Marko Hsu, Ching Hsiao, Che-Hao Chang"
+    },
+    {
+      "論文名稱": "Variation of Uncertainty of Drainage Density in Flood Hazard Mapping Assessment with Coupled 1D-2D Hydrodynamics Model",
+      "期刊名稱": "Natural Hazards (SCIE)",
+      "作者群": "Song-Yue Yang, Che-Hao Chang*, Chih-Tsung Hsu, Shiang-Jen Wu"
+    },
+    {
+      "論文名稱": "A Case Study for the Application of an Operational Two-Dimensional Real-Time Flooding Forecasting System and Smart Water Level Gauges on Roads in Tainan City, Taiwan",
+      "期刊名稱": "Water (SCIE)",
+      "作者群": "Chang, C-H, M-K Chung, S-Y Yang*, C-T Hsu and S-J Wu"
+    },
+    {
+      "論文名稱": "The Damage Assessment of Flood Risk Transfer Effect on Surrounding Areas Arising from the Land Development in Tainan, Taiwan",
+      "期刊名稱": "Water (SCIE)",
+      "作者群": "Yang, S-Y, M-H Chan*, C-H Chang, L-F Chang"
+    },
+    {
+      "論文名稱": "Improving the Computational Performance of an Operational Two-Dimensional Real-Time Flooding Forecasting System by Active-Cell and Multi-Grid Methods in Taichung City, Taiwan",
+      "期刊名稱": "Water (SCIE)",
+      "作者群": "Chang, C-H, M-K Chung, S-Y Yang*, C-T Hsu and S-J Wu"
+    },
+    {
+      "論文名稱": "A Case Study of Flood Risk Transfer Effect Caused by Land Development in Flood-Prone Lowlands",
+      "期刊名稱": "Natural Hazards (SCIE)",
+      "作者群": "Yang, S-Y, M-H Chan*, C-H Chang, and C-T Hsu"
+    },
+    {
+      "論文名稱": "Impact of dike construction on biodiversity on the Chihlan River",
+      "期刊名稱": "水土保持學報 (無)",
+      "作者群": "楊松岳、莊明德"
+    },
+    {
+      "論文名稱": "從仙臺減災綱領看臺灣歷年水利防災工程之成效",
+      "期刊名稱": "土木水利 (EI)",
+      "作者群": "李欣輯、黃桂卿、楊松岳"
+    },
+    {
+      "論文名稱": "逕流分擔規劃打造韌性城市-以嘉義縣故宮南院周邊排水路為例",
+      "期刊名稱": "土木水利 (EI)",
+      "作者群": "楊松岳*、陳葦庭、林政浩"
+    },
+    {
+      "論文名稱": "洪災曝險街區之即時動態演算架構",
+      "期刊名稱": "土木水利 (EI)",
+      "作者群": "張哲豪、鍾明格、許至璁、吳祥禎、陳春宏、楊松岳、黃思瑋"
+    },
+    {
+      "論文名稱": "建設海綿保水臺灣",
+      "期刊名稱": "土木水利 (EI)",
+      "作者群": "陳弘凷、楊松岳、陳葦庭"
+    },
+    {
+      "論文名稱": "The Analysis and Application of Biological Hydrodynamics on the Freshwater Snails Sinotaia quadrata and Thiara granifera",
+      "期刊名稱": "中華水土保持學報 (Scopus)",
+      "作者群": "楊松岳*、林秉石、張文亮"
+    },
+    {
+      "論文名稱": "Use of Finite Mixture Distribution Theory to Determine the Criteria of Cadmium Concentrations in Taiwan Farmland Soils",
+      "期刊名稱": "Soil Science (SCIE)",
+      "作者群": "Yang, S-Y, W-L Chang*"
+    },
+    {
+      "論文名稱": "Comparing the Classification the Copper Concentrations in Taiwan Farmland Soils by Baseline Method and Finite Mixture Distribution Model",
+      "期刊名稱": "農業工程學報 (EI)",
+      "作者群": "楊松岳*、張文亮"
+    },
+    {
+      "論文名稱": "以有限混合分佈理論區分土壤鎘污染的分級",
+      "期刊名稱": "農業工程學報 (EI)",
+      "作者群": "張文亮、楊松岳"
+    },
+    {
+      "論文名稱": "由熱力學觀點模擬鎘在水-土之傳輸",
+      "期刊名稱": "農業工程學報 (EI)",
+      "作者群": "張文亮、楊松岳"
+    }
+  ],
+  "journal2": [],
+  "conference": [
+    {
+      "論文名稱": "Using an artificial intelligence model to develop a real-time prediction technology for landslides",
+      "會議名稱": "15th Congress INTERPRAEVENT 2024",
+      "作者群": "Song-Yue Yang*, Shih-Chao Wei, Hsin-Chi Li, Eric Tan Chen Hee"
+    },
+    {
+      "論文名稱": "應用 U-Net 模型預測都市淹水深度—以台南市安南區為例",
+      "會議名稱": "2023第十屆都市計畫與空間資訊研討會",
+      "作者群": "林雲暘、陳貞熹、楊松岳*、周家琳"
+    },
+    {
+      "論文名稱": "Flooding Depth Forecasting with Gated Recurrent Unit Model in a Coastal City",
+      "會議名稱": "The 11th Asian Society of Agricultural Economists (ASAE) International Conference",
+      "作者群": "Song-Yue Yang*, Yun-Yang Lin"
+    },
+    {
+      "論文名稱": "Using Deep Learning Models to Predict Floods in Regional Drainage in Urban Area",
+      "會議名稱": "2021 Asian Seminar in Regional Science",
+      "作者群": "Song-Yue Yang*, Chun Tim Timmy Ng"
+    },
+    {
+      "論文名稱": "不同長短期記憶模式於淹水深度預測之應用",
+      "會議名稱": "第二十五屆水利工程研討會",
+      "作者群": "楊松岳*, 林雲暘"
+    },
+    {
+      "論文名稱": "Newly enforcement of the Outflow Regulation Law for flood reduction in Taiwan",
+      "會議名稱": "8th International Conference on Flood Management",
+      "作者群": "Song-Yue Yang*、Shaohua Hsu"
+    },
+    {
+      "論文名稱": "都會區即時淹水預報之構想",
+      "會議名稱": "2020國際智慧城市線上論壇",
+      "作者群": "楊松岳"
+    }
+  ],
+  "book": [],
+  "patent": [],
+  "most": [
+    {
+      "name": "(臺義雙邊研討會)無人機在土地和生物多樣性監測的應用",
+      "schoolYear": "113"
+    },
+    {
+      "name": "建構城市智慧防汛:基於Seq2Seq與Transformer模型的水災預報系統(1/3)",
+      "schoolYear": "113"
+    },
+    {
+      "name": "(臺灣)學門主題式計畫-永續水資源治理：南區水資源供需網絡與產業發產策略之整併提升(3/3)",
+      "schoolYear": "113"
+    },
+    {
+      "name": "氣候變遷下高淹水潛勢區之永續發展策略-氣候變遷下自然為本解決方案調適策略：在地滯洪實踐的經濟效益評估(子計畫二)(I)",
+      "schoolYear": "113"
+    },
+    {
+      "name": "都市韌性評估指標—以舊臺中市為例",
+      "schoolYear": "113"
+    },
+    {
+      "name": "(臺灣)學門主題式計畫-永續水資源治理：南區水資源供需網絡與產業發產策略之整併提升(2/3)",
+      "schoolYear": "112"
+    },
+    {
+      "name": "(海洋)極端氣候影響下之洪災預測與管理技術研發－考慮環境與氣候變異的洪旱時期流量分析與其於工程設計之應用(總計畫及子計畫二)(1/2)",
+      "schoolYear": "112"
+    },
+    {
+      "name": "深度學習與物聯網技術應用於都市地區淹水預測之研究(3/3)",
+      "schoolYear": "111"
+    },
+    {
+      "name": "(台大)學門主題式計畫-永續水資源治理：南區水資源供需網絡與產業發產策略之整併提升",
+      "schoolYear": "111"
+    },
+    {
+      "name": "各類型彩繪村差異性之探討及後續建議",
+      "schoolYear": "111"
+    },
+    {
+      "name": "深度學習與物聯網技術應用於都市地區淹水預測之研究(2/3)",
+      "schoolYear": "110"
+    },
+    {
+      "name": "深度學習與物聯網技術應用於都市地區淹水預測之研究(1/3)",
+      "schoolYear": "109"
+    }
+  ],
+  "tech": [
+    {
+      "論文名稱": "Preparing for the future. Cooperation in hydrology and hydraulic modeling technology (2024-05)",
+      "書名": "Since 1624 Taiwanese Dutch Connections (Mila Davids, Ann Heylen, Tim Riswick, Eric Berkers)",
+      "作者群": "Song-Yue Yang"
+    }
+  ],
+  "induAca": [
+    "逕流分擔技術與手冊精進研究 (2024-05 to 2024-11)",
+    "運用人工智慧模式開發即時洪水預測技術 (2024-01 to 2024-12)",
+    "氣候變遷下土石流潛勢溪流流量長期趨勢評估 (2022-01 to 2022-12)",
+    "桃園市三維下水道地理資訊管理系統(二期) (2021-09 to 2023-09)",
+    "重要聚落建築群望安花宅聚落區域保存環境模擬與對策分析 (2020-06 to 2021-01)"
+  ],
+  "perform": [],
+  "reward": [
+    "逢甲大學論文著作獎勵傑出獎 (113, 2024-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "111年度國科會補助大專校院研究獎勵 (111, 2022-10) - 研究發展處"
+  ],
+  "speech": [
+    {
+      "演講題目": "逕流分擔技術手冊修正技術交流(北部場)",
+      "邀請單位": "經濟部水利署",
+      "演講日期": "2024-11"
+    },
+    {
+      "演講題目": "逕流分擔技術手冊修正技術交流(南部場)",
+      "邀請單位": "經濟部水利署",
+      "演講日期": "2024-11"
+    },
+    {
+      "演講題目": "逕流分擔技術手冊修正技術交流(中部場)",
+      "邀請單位": "經濟部水利署",
+      "演講日期": "2024-11"
+    },
+    {
+      "演講題目": "人工智慧模式在天然災害即時預測技術之應用",
+      "邀請單位": "台灣水資源與農業研究院",
+      "演講日期": "2024-08"
+    },
+    {
+      "演講題目": "氣候變遷下土石流潛勢溪流流量長期趨勢評估",
+      "邀請單位": "農業部農村發展及水土保持署",
+      "演講日期": "2023-08"
+    },
+    {
+      "演講題目": "逕流分擔策略",
+      "邀請單位": "經濟部水利署第五河川局",
+      "演講日期": "2023-06"
+    },
+    {
+      "演講題目": "逕流分擔之概念、規劃方法與成本效益分析",
+      "邀請單位": "國立臺灣大學生物環境及系統工程學系",
+      "演講日期": "2023-03"
+    },
+    {
+      "演講題目": "專業研究報告書撰寫技巧分析",
+      "邀請單位": "禾唐工程顧問有限公司",
+      "演講日期": "2023-02"
+    },
+    {
+      "演講題目": "淹水潛勢圖之繪製與應用",
+      "邀請單位": "內政部國土測繪中心",
+      "演講日期": "2022-11"
+    },
+    {
+      "演講題目": "氣象水文災害特性與案例",
+      "邀請單位": "國立成功大學水利及海洋工程學系",
+      "演講日期": "2022-08"
+    },
+    {
+      "演講題目": "Flood Disaster Mitigation and Management",
+      "邀請單位": "國立成功大學自然災害減災學程",
+      "演講日期": "2021-11"
+    },
+    {
+      "演講題目": "出流管制相關法規介紹",
+      "邀請單位": "長豐工程顧問股份有限公司",
+      "演講日期": "2021-10"
+    },
+    {
+      "演講題目": "應用HydroDEM劃設洪水基準高程之研究",
+      "邀請單位": "內政部國土測繪中心",
+      "演講日期": "2021-10"
+    },
+    {
+      "演講題目": "逕流分擔規劃強化都市防洪韌性 -以雲林縣虎尾鎮為例",
+      "邀請單位": "國立陽明交通大學土木工程學系",
+      "演講日期": "2021-03"
+    },
+    {
+      "演講題目": "逕流分擔與出流管制法規介紹",
+      "邀請單位": "禾唐工程顧問有限公司",
+      "演講日期": "2020-11"
+    }
+  ],
+  "material": [],
+  "tal": []
+}

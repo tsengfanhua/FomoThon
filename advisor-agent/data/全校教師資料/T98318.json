@@ -1,0 +1,97 @@
+{
+  "teacherId": "T98318",
+  "name": "秦群立",
+  "mainUnit": "資訊電機學院",
+  "detailUnit": "自動控制工程學系",
+  "skill": [
+    "人工智慧、嵌入式系統、醫學影像處理、圖形識別、系統分析與設計(Artificial intelligent、Embedded system、Medical image processing、Pattern recognition、System analysis and design)"
+  ],
+  "edu": [
+    "國立交通大學 電機與控制工程所 博士",
+    "中華大學 電機工程所 碩士"
+  ],
+  "fcuExp": [
+    "逢甲大學帆宣智慧城市5G實驗室 研究員",
+    "工業工程與系統管理學系 兼任助理教授",
+    "工業工程與系統管理學系 兼任助理教授",
+    "自動控制工程學系 副教授"
+  ],
+  "currjob": [],
+  "otherExp": [
+    "中山醫學大學 應用資訊科學學系 助理教授"
+  ],
+  "journal": [
+    {
+      "論文名稱": "Using Bodily Weight-Fat Scale for Cuffless Blood Pressure Measurement Based on Edge Computing System",
+      "期刊名稱": "sensors (SCIE)",
+      "作者群": "Shing-Hong Liu, Bo-Yan Wu, Xin Zhu, Chiun-Li Chin"
+    },
+    {
+      "論文名稱": "Enhancing Situational Awareness with VAS-Compass Net for the Recognition of Directional Vehicle Alert Sounds",
+      "期刊名稱": "Sensors (SCIE)",
+      "作者群": "Chiun-Li Chin, Jun-Ren Chen, Wan-Xuan Lin, Hsuan-Chiao Hung, Shang-En Chiang, Chih-Hui Wang, Liang-Ching Lee and Shing-Hong Liu"
+    },
+    {
+      "論文名稱": "A Wearable Assistant Device for the Hearing Impaired to Recognize Emergency Vehicle Sirens with Edge Computing,",
+      "期刊名稱": "Sensors (SCIE)",
+      "作者群": "Chiun-Li Chin, Chia-Chun Lin, Jing-Wen Wang, Wei-Cheng Chin, Yu-Hsiang Chen, Sheng-Wen Chang, Pei-Chen Huang, Xin Zhu, Yu-Lun Hsu and Shing-Hong Liu *"
+    },
+    {
+      "論文名稱": "A Novel Fuzzy DBNet for Medical Image Segmentation",
+      "期刊名稱": "Electronics (SCIE)",
+      "作者群": "Chiun-Li Chin, Jun-Cheng Lin, Chieh-Yu Li, Tzu-Yu Sun, Ting Chen, Yan-Ming Lai, Pei-Chen Huang, Sheng-Wen Chang*, and Alok Kumar Sharma"
+    },
+    {
+      "論文名稱": "3D VOSNet: Segmentation of Endoscopic Images of the Larynx with Subsequent Generation of Indicators",
+      "期刊名稱": "Heliyon (SCIE)",
+      "作者群": "I-Miao Chen, Pin-Yu Yeh, Ya-Chu Hsieh, Ting-Chi Chang, Samantha Shih, Wen-Fang Shen, and Chiun-Li Chin"
+    },
+    {
+      "論文名稱": "Using Ballistocardiogram and Impedance Plethysmogram for Minimal Contact Measurement of Blood Pressure Based on a Body Weight-Fat Scale",
+      "期刊名稱": "Sensors (SCIE)",
+      "作者群": "Shing-Hong Liu, Yan-Rong Wu, Wenxi Chen, Chun-Hung Su, and Chiun-Li Chin*"
+    },
+    {
+      "論文名稱": "CWD2GAN: Generative Adversarial Network of Chronic Wound Depth Detection for Predicting Chronic Wound Depth",
+      "期刊名稱": "International Journal of Pattern Recognition and Artificial Intelligence (SCIE)",
+      "作者群": "Chiun-Li Chin, Chieh-Yu Li, Yan-Ming Lai, Ting Chen, Tzu-Yu Sun and Jun-Cheng Lin*"
+    }
+  ],
+  "journal2": [],
+  "conference": [
+    {
+      "論文名稱": "Round Pill Shape Recognition System Based on AY Deep Learning Model",
+      "會議名稱": "ICCE-TW 2022",
+      "作者群": "Po-Tseng Wu, Tzu-Yu Sun, Jun-Cheng Lin, and Chiun-Li Chin"
+    }
+  ],
+  "book": [],
+  "patent": [],
+  "most": [
+    {
+      "name": "MDF0 Aeticulate GAN:聽障者語音清晰度提升系統",
+      "schoolYear": "113"
+    },
+    {
+      "name": "(臺灣師大)促進聽覺障礙者多面向溝通的新世代科技—促進聽覺障礙者多面向溝通的新世代科技(2/2)",
+      "schoolYear": "112"
+    },
+    {
+      "name": "(臺灣師大)促進聽覺障礙者多面向溝通的新世代科技—促進聽覺障礙者多面向溝通的新世代科技(1/2)",
+      "schoolYear": "111"
+    }
+  ],
+  "tech": [],
+  "induAca": [],
+  "perform": [],
+  "reward": [
+    "第29屆大專校院資訊應用服務創新競賽 榮獲 教育AI組 第二名 (113, 2024-11) - 數位發展部-教育部",
+    "第29屆大專校院資訊應用服務創新競賽 榮獲資訊應用組 佳作 (113, 2024-11) - 數位發展部-教育部",
+    "2024全國大專校院智慧創新暨跨域整合創作競賽 榮獲 數位永續科技組 佳作 (113, 2024-10) - 中央大學-教育部",
+    "2024全國大專校院智慧創新暨跨域整合創作競賽 榮獲 數位永續科技組 跨域整合特別獎 (113, 2024-10) - 中央大學-教育部",
+    "第八屆全國大專院校創新創意及創業競賽 創新科技組 冠軍 (112, 2023-11) - 中山醫學大學"
+  ],
+  "speech": [],
+  "material": [],
+  "tal": []
+}

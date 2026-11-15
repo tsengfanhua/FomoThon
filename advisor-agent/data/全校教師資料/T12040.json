@@ -1,0 +1,261 @@
+{
+  "teacherId": "T12040",
+  "name": "陳宗毅",
+  "mainUnit": "資訊電機學院",
+  "detailUnit": "電子工程學系",
+  "skill": [
+    "數位晶片設計",
+    "系統單晶片(SoC)",
+    "數位電路",
+    "醫學影像處理",
+    "人工智慧"
+  ],
+  "edu": [
+    "中原大學 電子工程所 博士",
+    "中原大學 電子工程學系 學士"
+  ],
+  "fcuExp": [
+    "電子工程學系 助理教授"
+  ],
+  "currjob": [],
+  "otherExp": [],
+  "journal": [
+    {
+      "論文名稱": "Insight into the Impact of Electron Drift Trajectory on Charge Collection in Silicon Drift Detector",
+      "期刊名稱": "Journal of the Electrochemical Society (SCIE)",
+      "作者群": "Rongrong Guo, Yujia Peng, Huixiang Huang, Chih-Ching Chen* andTsung-Yi Chen"
+    },
+    {
+      "論文名稱": "Evaluation of the alveolar crest and cemento-enamel junction in periodontitis using object detection on periapical radiographs",
+      "期刊名稱": "diagnostics (SCIE)",
+      "作者群": "Tai-Jung Lin; Yi-Cheng Mao; Yuan-Jin Lin; Chin-Hao Liang; Yi-Qing He; Yun-Chen Hsu; Shih-Lun Chen*; Tsung-Yi Chen; Chiung-An Chen*; Kuo-Chen Li; Patricia Angela R. Abu"
+    },
+    {
+      "論文名稱": "Paper-Recorded ECG digitization method with automatic reference voltage selection for telemonitoring and diagnosis",
+      "期刊名稱": "diagnostics (SSCI)",
+      "作者群": "4.\tLiang-Hung Wang; Chao-Xin Xie; Tao Yang; Hong-Xin Tan; Ming-Hui Fan*; I-Chun Kuo; Zne-Jung Lee*; Tsung-Yi Chen; Pao-Cheng Huang; Shih-Lun Chen; Patricia Angela R. Abu"
+    },
+    {
+      "論文名稱": "Auxiliary diagnosis of dental calculus based on deep learning and image enhancement by bitewing radiographs",
+      "期刊名稱": "bioengineering (SCIE)",
+      "作者群": "Tai-Jung Lin; Yen-Ting Lin; Yuan-Jin Lin; Ai-Yun Tseng; Chien-Yu Lin; Li-Ting Lo; Tsung-Yi Chen; Shih-Lun Chen*; Chiung-An Chen*; Kuo-Chen Li; Patricia Angela R. Abu"
+    },
+    {
+      "論文名稱": "An Edge Computing System with AMD Xilinx FPGA AI Customer Platform for Advanced Driver Assistance System",
+      "期刊名稱": "Sensors (SCIE)",
+      "作者群": "Tsun-Kuang Chi, Tsung-Yi Chen*, Yu-Chen Lin, Ting-Lan Lin, Jun-Ting Zhang, Cheng-Lin Lu, Shih-Lun Chen*, Kuo-Chen Li and Patricia Angela R. Abu"
+    },
+    {
+      "論文名稱": "Classification of the relative position between the third molar and the inferior alveolar nerve using a convolutional neural network based on transfer learning",
+      "期刊名稱": "Electronics (SCIE)",
+      "作者群": "Shih-Lun Chen; He-Sheng Chou; Yueh Chuo; Yuan-Jin Lin; Tzu-Hsiang Tsai; Cheng-Hao Peng; Ai-Yun Tseng; Kuo-Chen Li; Chiung-An Chen*; Tsung-Yi Chen*"
+    },
+    {
+      "論文名稱": "Detection of Tooth Position by YOLOv4 and Various Dental Problems Based on CNN With Bitewing Radiograph",
+      "期刊名稱": "IEEE Access (SCIE)",
+      "作者群": "Kuo-Chen Li , Yi-Cheng Mao, Mu-Feng Lin, Yi-Qian Li, Chiung-An Chen , Tsung-Yi Chen*, And Patricia Angela R. Abu,"
+    },
+    {
+      "論文名稱": "Detection of various dental conditions on dental panoramic radiography using faster R-CNN",
+      "期刊名稱": "IEEE Access (SCIE)",
+      "作者群": "Shih-Lun Chen; Tsung-Yi Chen; Yi-Cheng Mao; Szu-Yin Lin*; Ya-Yun Huang; Chiung-An Chen; Yuan-Jin Lin; Mian-Heng Chuang; Patricia Angela R. Abu"
+    },
+    {
+      "論文名稱": "Deep Learning for Dental Diagnosis: A Novel Approach to Furcation Involvement Detection on Periapical Radiographs",
+      "期刊名稱": "Bioengineering (SCIE)",
+      "作者群": "Yi-Cheng Mao; Yen-Cheng Huang; Tsung-Yi Chen†; Kuo-Chen Li *; Yuan-Jin Lin; Yu-Lin Liu; Hong-Rong Yan; Yu-Jie Yang; Chiung-An Chen *; Shih-Lun Chen†; Chun-Wei Li; Mei-Ling Chan†; Yueh Chuo; Patricia Angela R. Abu"
+    },
+    {
+      "論文名稱": "Improving Dental Implant Outcomes: CNN-Based System Accurately Measures Degree of Periodontitis Erosion on Periapical Film",
+      "期刊名稱": "bioengineering (SCIE)",
+      "作者群": "Yi-Chieh Chen, Ming-Yi Chen, Tsung-Yi Chen, Mei-Ling Chan*, Ya-Yun Huang, Yu-Lin Liu, Pei-Ting Lee, Guan-Jhih Lin, Tai-Feng Li, Chiung-An Chen, Shih-Lun Chen*, Kuo-Chen Li, and Patricia Angela R. Abu"
+    },
+    {
+      "論文名稱": "VLSI Design Based on Block Truncation Coding for Real-Time Color Image Compression for Wireless Camera Sensing Networks",
+      "期刊名稱": "Sensors (SCIE)",
+      "作者群": "Shih-Lun Chen, He-Sheng Chou, Shih-Yao Ke, Chiung-An Chen*, Tsung-Yi Chen, Mei-Ling Chan*, Patricia Angela R. Abu and Wei-Yuan Chiang*"
+    },
+    {
+      "論文名稱": "A high-accuracy detection system: based on transfer learning for apical lesions on periapical radiograph",
+      "期刊名稱": "bioengineering (SCIE)",
+      "作者群": "Yueh Chuo, Wen-Ming Lin, Tsung-Yi Chen, Mei-Ling Chan*, Yu-Sung Chang, Yan-Ru Lin, Yuan-Jin Lin, Yu-Han Shao, Chiung-An Chen*, Shih-Lun Chen*, and Patricia Angela R. Abu"
+    },
+    {
+      "論文名稱": "Automated detection system based on convolution neural networks for retained root, endodontic treated teeth, and implant recognition on dental panoramic images",
+      "期刊名稱": "IEEE Sensors Journal (SCIE)",
+      "作者群": "Shih-Lun Chen; Tsung-Yi Chen; Yi-Cheng Mao; Szu-Yin Lin*; Ya-Yun Huang; Chiung-An Chen; Yuan-Jin Lin; Yo-Ming Hsu; Chi-An Li; Wei-Yuan Chiang; Kai-Yi Wong; Patricia Angela R. Abu"
+    },
+    {
+      "論文名稱": "Fast control for backlight power-saving algorithm using motion vectors from the decoded video stream",
+      "期刊名稱": "Sensors (SCIE)",
+      "作者群": "Shih-Lun Chen, Tsung-Yi Chen, Ting-Lan Lin*, Chiung-An Chen*, Szu-Yin Lin, Yu-Liang Chiang, Kun-Hsien Tung, and Wei-Yuan Chiang*"
+    },
+    {
+      "論文名稱": "Missing teeth and restoration detection using dental panoramic radiography based on transfer learning with CNNs",
+      "期刊名稱": "IEEE Access (SCIE)",
+      "作者群": "Shih-Lun Chen, Tsung-Yi Chen, Yen-Cheng Huang, Chiung-An Chen*, He-Sheng Chou, Ya-Yun Huang, Wei-Chi Lin, Tzu-Chien Li, Jia-Jun Yuan, Patricia Angela R. Abu, and Wei-Yuan Chiang"
+    },
+    {
+      "論文名稱": "Tooth position determination by automatic cutting and marking of dental panoramic X-ray film in medical image processing",
+      "期刊名稱": "Applied Sciences (SCIE)",
+      "作者群": "Yen-Cheng Huang, Chiung-An Chen*, Tsung-Yi Chen, He-Sheng Chou, Wei-Chi Lin, Tzu-Chien Li, Jia-Jun Yuan, Szu-Yin Lin*, Chun-Wei Li, Shih-Lun Chen*, Yi-Cheng Mao, Patricia Angela R. Abu, Wei-Yuan Chiang, and Wen-Shen Lo"
+    },
+    {
+      "論文名稱": "Detection of dental apical lesions using CNNs on periapical radiograph",
+      "期刊名稱": "Sensors (SCIE)",
+      "作者群": "Chun-Wei Li, Szu-Yin Lin*, He-Sheng Chou, Tsung-Yi Chen, Yu-An Chen, Sheng-Yu Liu, Yu-Lin Liu, Chiung-An Chen *, Yen-Cheng Huang, Shih-Lun Chen*, Yi-Cheng Mao, Patricia Angela R. Abu, Wei-Yuan Chiang, and Wen-Shen Lo"
+    },
+    {
+      "論文名稱": "Caries and restoration detection using bitewing film based on transfer learning with CNNs",
+      "期刊名稱": "Sensors (SCIE)",
+      "作者群": "Yi-Cheng Mao, Tsung-Yi Chen, He-Sheng Chou, Szu-Yin Lin*, Sheng-Yu Liu, Yu-An Chen, Yu-Lin Liu, Chiung-An Chen*, Yen-Cheng Huang, Shih-Lun Chen*, Chun-Wei Li, Patricia Angela R. Abu, and Wei-Yuan Chiang"
+    },
+    {
+      "論文名稱": "Dental shade matching method based on hue, saturation, value color model with machine learning and fuzzy decision",
+      "期刊名稱": "Sensors and Materials (SCIE)",
+      "作者群": "Shih-Lun Chen, He-Sheng Zhou, Tsung-Yi Chen, Tsung-Han Lee, Chiung-An Chen*, Ting-Lan Lin, Nung-Hsiang Lin, Liang-Hung Wang, Szu-Yin Lin, Wei-Yuan Chiang, Patricia Angela R. Abu, and Ming-Yi Lin"
+    }
+  ],
+  "journal2": [],
+  "conference": [
+    {
+      "論文名稱": "Innovative Approach to Supernumerary Teeth Identification: CNN-Based Intelligent Medical Auxiliary System for Occlusal Radiographs",
+      "會議名稱": "2024 IEEE 11th International Conference on Cyber Security and Cloud Computing (CSCloud)",
+      "作者群": "Tsung-Yi Chen; Hung-I Wu; Zhi-Han Li; Jui-An Fu; Chiung-An Chen; Kuo-Chen Li; Sze-Teng Liong; Tsun-Kuang Chi; Shih-Lun Chen*"
+    },
+    {
+      "論文名稱": "Application of Deep Learning Techniques for Thermal Imagery Analysis in Abnormal Identification of Floor Tiles in Heritage Environments",
+      "會議名稱": "2023 Asia Pacific Signal and Information Processing Association Annual Summit and Conference (APSIPA ASC)",
+      "作者群": "Xin-Yu Chen, Pei-Chen Wu, Li Kuo-Chen, Chu Yu-Chieh, Tsung-Yi Chen and Yu-Lin Liu; Yuan-Jin Lin; Chiung-An Chen; Mei-Ling Chan; Huang Ching-Hui and Shih-Lun Chen*"
+    },
+    {
+      "論文名稱": "The color demosaicing and image scaling based on improve Hamilton-Adams",
+      "會議名稱": "2023 Asia Pacific Signal and Information Processing Association Annual Summit and Conference (APSIPA ASC)",
+      "作者群": "Yu-Wen Peng, Chia-Yu Hu, Yen-Ju Chin, He-Sheng Chou, Yuan-Jin Lin, Yu-Lin Liu, Shih-Lun Chen* Tsung-Yi Chen , Kuo-Chen Li , and Chiung-An Chen"
+    },
+    {
+      "論文名稱": "Dental Positioning Medical Assistance System for BW Radiograph Based on YOLOV4",
+      "會議名稱": "2023 Asia Pacific Signal and Information Processing Association Annual Summit and Conference (APSIPA ASC)",
+      "作者群": "Mu-Feng Lin, Yi-Qian Li, Tsung-Yi Chen, Yu-Lin Liu, Yuan-Jin Lin, Mei-Ling Chan, Chiung-An Chen, KuoChen Li, and Shih-Lun Chen*"
+    },
+    {
+      "論文名稱": "An Intelligent Water Level Detection and Automatic Control System Based on IoT, Big Data and Artificial Intelligence for Smart City",
+      "會議名稱": "The 6th International Conference on Big Data and Smart Computing (ICBDSC 2023)",
+      "作者群": "Tsung-Yi Chen, Shih-Lun Chen, Chun-Hsiang Huang, Liang-Yu Li, Chih-Yun Chen, Yu-Yu Chen, Chie-Peng Chen, Je-Sheng Huang, Li-Yu Chen, Yi-Pei Hsu, Yi-An Hung, Jyh-Haw Tang, Ching-Hui Huang, and Wen-Hui Chang"
+    },
+    {
+      "論文名稱": "Automatic Detection of Restoration, Periodontal Disease, and Missing Teeth Using Dental Panoramic X-Rays Films Based on CNN",
+      "會議名稱": "The 6th International Conference on Big Data and Smart Computing (ICBDSC 2023)",
+      "作者群": "Ya-Yun Huang, Tsung-Yi Chen, Shih-Lun Chen, Chun-Wei Li, Yuan-Jin Lin, Chiung-An Chen, and Patricia Angela R. Abu"
+    },
+    {
+      "論文名稱": "Based on faster R-CNN in dental panoramic XRays accomplished automatic detection of implants, retained root, and root canal",
+      "會議名稱": "IEEE International Conference on Recent Advances in Systems Science and Engineering (RASSE 2022)",
+      "作者群": "Yuan-Jin Lin, Mian-Heng Chuang, Zi-Ling Zhang, Tsung-Yi Chen, Ya-Yun Huang, Chi-An Li, Chiung-An Chen, Mei-ling Chan, Kai-Yi Wong, and Shih-Lun Chen*"
+    },
+    {
+      "論文名稱": "Laplacian of Gaussian Based on Color Constancy Algorithm for Surrounding Image Stitching Application",
+      "會議名稱": "IEEE International Conference on Consumer Electronics-Taiwan (ICCE-TW)",
+      "作者群": "Tsung-Han Lee, He-Sheng Chou, Tsung-Yi Chen, Wen-Shen Lo, Jun-Ting Zhang, Chiung-An Chen, Ting-Lan Lin, and Shih-Lun Chen*"
+    },
+    {
+      "論文名稱": "An Improved Image Feature Detection Algorithm Based on Oriented FAST and Rotated BRIEF for Nighttime Images",
+      "會議名稱": "IEEE International Conference on Consumer Electronics-Taiwan (ICCE-TW)",
+      "作者群": "Chi-An Li, Tsung-Yi Chen, He-Sheng Chou, Ya-Yun Huang, Chiung-An Chen, Wen-Shen Lo, Tzu-Yu Chen, Ting-Lan Lin, and Shih-Lun Chen"
+    },
+    {
+      "論文名稱": "Deblocking Filter Chip Design Based on Image Fusion for Surrounding View System",
+      "會議名稱": "第廿屆離島資訊技術與應用研討會",
+      "作者群": "Tzu-Yu Chen, Tsung-Yi Chen, Ya-Yun Huang, Chi-An Li, Tsung-Han Lee, Wen-Shen Lo, Chiung-An Chen, Ting-Lan Lin, and Shih-Lun Chen"
+    },
+    {
+      "論文名稱": "Retinex based on weaken factor with truncated AGCWD for backlight image enhancement",
+      "會議名稱": "40th IEEE International Conference on Consumer Electronics (ICCE2022)",
+      "作者群": "He-Sheng Chou; Hsiang-Yun Cheng; Jun-Xiang Qiu; Tsun-Huang Chi; Tsung-Yi Chen; Shih-Lun Chen*"
+    },
+    {
+      "論文名稱": "Based on periapical film with SURF image stitching technology for complete oral cavity’s integration",
+      "會議名稱": "The 1st IET Conference on Engineering Technology and Applications Conference",
+      "作者群": "Hung-Jui Chang, Kang-Yu Lin, Min-Chih Fang, Tsung-Yi Chen, Chi-An Li, Ya-Yun Huang, Mei-Ling Chan, Chiung-An Chen, Szu-Yin Lin, Wen-Shen Lo, Ming-Yi Chen, Yi-Chieh Chen, Fang-Chun Liu, and Shih-Lun Chen*"
+    },
+    {
+      "論文名稱": "Implant erosion alveolar bone judgment system based on CNN technology based on bitewing film",
+      "會議名稱": "The 1st IET Conference on Engineering Technology and Applications Conference",
+      "作者群": "Yu-Shiang Lin, Zih-Yu Huang, Hsueh Chen, Tsung-Yi Chen, Chi-An Li, Ya-Yun Huang, Mei-Ling Chan, Chiung-An Chen, Szu-Yin Lin, Wen-Shen Lo, Fang-Chun Liu, Ming-Yi Chen, Yi-Chieh Chen, and Shih-Lun Chen*"
+    },
+    {
+      "論文名稱": "Using dental panoramic radiograph for implants, root canal treatment and residual roots based on transfer learning with convolutional neural network",
+      "會議名稱": "The 1st IET Conference on Engineering Technology and Applications Conference",
+      "作者群": "Yuan-Jin Lin, Yo-Ming Hsu, Zi-Ling Zang, Tsung-Yi Chen, Chi-An Li, Ya-Yun Huang, Jia-Jun Yuan, Mei-Ling Chan, Chiung-An Chen, Wen-Shen Lo, Chun-Wei Li, Yen-Cheng Huang, Yi-Cheng Mao, and Shih-Lun Chen*"
+    },
+    {
+      "論文名稱": "Image stitching based on periapical film with oriented FAST and rotated BRIEF",
+      "會議名稱": "The 1st IET Conference on Engineering Technology and Applications Conference",
+      "作者群": "Hao-Chang Zhuang, Yen-Po Huang, Hao-Yuan Wu, Tsung-Yi Chen, Chi-An Li, Ya-Yun Huang, Mei-Ling Chan, Chiung-An Chen, Szu-Yin Lin, Wen-Shen Lo, Yi-Chieh Chen, Fang-Chun Liu, Ming-Yi Chen, and Shih-Lun Chen*"
+    }
+  ],
+  "book": [],
+  "patent": [
+    {
+      "title": "發明",
+      "desc": "具有環境參數數據與色彩空間圖像雙向轉換功能之互動式系統"
+    }
+  ],
+  "most": [
+    {
+      "name": "應用人工智慧於根尖片影像之多病徵先進智慧牙科綜合診斷輔助系統",
+      "schoolYear": "112"
+    }
+  ],
+  "tech": [],
+  "induAca": [],
+  "perform": [],
+  "reward": [
+    "113年度國科會補助大專校院研究獎勵 (113, 2024-11) - 逢甲大學",
+    "2024全國大專暨高中職學生專題製作競賽暨成果展示 (113, 2024-11) - 國立虎尾科技大學",
+    "逢甲大學論文著作獎勵傑出獎 (113, 2024-11) - 逢甲大學",
+    "第二届海峡两岸（福州）人工智能——工业机器人竞赛 (112, 2024-06) - 福州大学",
+    "第二届海峡两岸（福州）人工智能——工业机器人竞赛 (112, 2024-06) - 福州大学",
+    "2023 斐陶斐榮譽會員 (111, 2023-06) - 中華民國斐陶斐榮譽學會",
+    "Best Speeker (111, 2023-02) - ICBDSC 2023",
+    "2022全國大專校院智慧創新暨跨域整合創作競賽 第二名 (111, 2022-10) - 教育部",
+    "中華民國111 年大專優秀青年 (110, 2022-03) - 救國團",
+    "第十八屆國家新創獎 學研新創獎 (110, 2021-12) - 社團法人國家生技醫療產業策進會",
+    "Best Paper Award (110, 2021-11) - IET ICETA 2021",
+    "2021全國大專校院智慧創新暨跨域整合創作競賽 第三名 (110, 2021-10) - 教育部"
+  ],
+  "speech": [
+    {
+      "演講題目": "從氣候變遷到人工智慧：探索AI如何助力文物保存以歐盟為例",
+      "邀請單位": "文化部文化資產局",
+      "演講日期": "2024-08"
+    },
+    {
+      "演講題目": "創新影像系統：運用智能醫學輔助技術，精準檢測各種問題",
+      "邀請單位": "社團法人亞太中華醫學世界聯合會",
+      "演講日期": "2024-04"
+    },
+    {
+      "演講題目": "數學醫學影像和古蹟監測：AI如何幫助我們保護過去和未來",
+      "邀請單位": "福州大學物理與信息工程學院",
+      "演講日期": "2024-01"
+    },
+    {
+      "演講題目": "數學醫學影像和古蹟監測：AI如何幫助我們保護過去和未來",
+      "邀請單位": "嘉應學院",
+      "演講日期": "2024-01"
+    },
+    {
+      "演講題目": "數位醫學影像和古蹟監測：AI如何幫助我們保護過去和未來",
+      "邀請單位": "福州大學先进制造学院",
+      "演講日期": "2024-01"
+    },
+    {
+      "演講題目": "數位醫學影像和古蹟監測：AI如何幫助我們保護過去和未來",
+      "邀請單位": "逢甲大學資訊電機學院",
+      "演講日期": "2023-09"
+    }
+  ],
+  "material": [],
+  "tal": []
+}

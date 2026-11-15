@@ -1,0 +1,693 @@
+{
+  "teacherId": "T07018",
+  "name": "謝秉諺",
+  "mainUnit": "工程與科學學院",
+  "detailUnit": "材料科學與工程學系",
+  "skill": [
+    "材料分析技術Material Analysis",
+    "表面改質與薄膜技術Surface Modification and Coating Technology",
+    "生醫植入材開發Development of Biomedical Implant Material",
+    "半導體光電與能源元件Semiconductor Optoelectronics and Energy Devices",
+    "綠色環境淨化材料Green Environmental Purification Material",
+    "新穎高密度電漿源設計Novel High Density Plasma Source Design"
+  ],
+  "edu": [
+    "國立清華大學 材料科學工程學系 博士",
+    "逢甲大學 材料科學與工程學系 學士"
+  ],
+  "fcuExp": [
+    "先進被動元件研發中心 主任",
+    "材料科學與工程學系 兼任助理教授",
+    "紡織與材料工業研究中心 博士後研究人員",
+    "紡織與材料工業研究中心 博士後研究人員",
+    "國際產學聯盟 研究助理教授",
+    "國際產學聯盟 研究助理教授",
+    "工程與科學學院 助理教授",
+    "材料科學與工程學系 助理教授"
+  ],
+  "currjob": [],
+  "otherExp": [
+    "台灣碳材料學會 理事會 監事",
+    "台灣碳材料學會 理事會 理事",
+    "逢甲大學 國際產學聯盟 研究助理教授",
+    "財團法人金屬工業研究中心 醫療器材研發組 博士後研究",
+    "台灣碳材料學會  執行秘書",
+    "明志科技大學 材料工程系 助理教授",
+    "國立清華大學 材料科學工程學系 博士後研究人員"
+  ],
+  "journal": [
+    {
+      "論文名稱": "A combinatorial hollow cathode discharge/ plasma polymerization system for silver containing plasma parylene coating",
+      "期刊名稱": "Surface and Coatings Technology (SCIE)",
+      "作者群": "Ping-Yen Hsieh, Yu-Han Wei, Ying-Hung Chen, Hsi-Kai Tsou, Ju-Liang He"
+    },
+    {
+      "論文名稱": "Tunable, graded band-gap TiO2 thin film solar cell deposited by HIPIMS on flexible substrate",
+      "期刊名稱": "Surface and Coatings Technology (SCIE)",
+      "作者群": "Ying-Hung Chen, Sheng-Kuei Chiu, Meng-Cheng Lai, Ping-Yen Hsieh, Ju-Liang He"
+    },
+    {
+      "論文名稱": "High-power impulse magnetron sputter-deposited chromium-based coatings for corrosion protection",
+      "期刊名稱": "Coatings (SCIE)",
+      "作者群": "Yen-Chun Liu, Shih-Nan Hsiao,Ying-Hung Chen, Ping-Yen Hsieh, Ju-Liang He"
+    },
+    {
+      "論文名稱": "High power impulse magnetron sputtering (HiPIMS) prepared ultrathin gold film for plasmonic biosensor application",
+      "期刊名稱": "Gold Bulletin (SCIE)",
+      "作者群": "Sheng-Yang Huang, Ping-Yen Hsieh, Chi-Jen Chung, Chia-Man Chou, Ju-Liang He"
+    },
+    {
+      "論文名稱": "HiPIMS obtained carbon nano-coatings on copper foil and their thermal conductivity",
+      "期刊名稱": "Surface & Coatings Technology (SCIE)",
+      "作者群": "Ping-Yen Hsieh, Ying-Hung Chen, David T. A. Matthews, Ju-Liang He, Allan Matthews"
+    },
+    {
+      "論文名稱": "Nanoarchitectonics for ultrathin gold films deposited on collagen fabric by high-power impulse magnetron sputtering",
+      "期刊名稱": "Nanomaterials (SCIE)",
+      "作者群": "Sheng-Yang Huang, Ping-Yen Hsieh, Chi-Jen Chung, Chia-Man Chou, Ju-Liang He"
+    },
+    {
+      "論文名稱": "Femtosecond laser surface roughening and pulsed plasma polymerization duplex treatment on medical-grade stainless steel substrates for orthodontic purpose",
+      "期刊名稱": "Surface & Coatings Technology (SCIE)",
+      "作者群": "C.W. Lin, P.Y. Hsieh, C.M. Chou, C.J. Chung and J.L. He"
+    },
+    {
+      "論文名稱": "電弧離子鍍類鑽碳膜的新興產業應用",
+      "期刊名稱": "真空科技 (ISSN 1017–091X)",
+      "作者群": "謝秉諺、張惠柔、陳柏昱、林琇梅、王仁宗、陳宗漢、陳瑛鴻、何主亮"
+    }
+  ],
+  "journal2": [],
+  "conference": [
+    {
+      "論文名稱": "Plasma etching resistance of silicon carbide coating prepared by gas flow sputtering",
+      "會議名稱": "2025 2nd International Symposium on Carbon Materials (ISCM-2 2025) for Energy, Environment, Sustainability, and Bio-applications with the 8th Taiwan Carbon Conference",
+      "作者群": "Chia-Ying Liou, Shin-Jung Chiu, Ping-Yen Hsieh, Ying-Hung Chen, Ju-Liang He"
+    },
+    {
+      "論文名稱": "Enhanced thermal spreading of HiPIMS heterogrown graphene film on silicon by incorporation of copper",
+      "會議名稱": "2025 2nd International Symposium on Carbon Materials (ISCM-2 2025) for Energy, Environment, Sustainability, and Bio-applications with the 8th Taiwan Carbon Conference",
+      "作者群": "Chi-Ya Hsia, Ping-Yen Hsieh, Ying-Hung Chen, Ju-Liang He"
+    },
+    {
+      "論文名稱": "氣流濺鍍生長多孔鈦金屬結構應用於電解電容電極箔",
+      "會議名稱": "2024中國材料科學學會113年年會",
+      "作者群": "陳柏愷、顏仕傑、謝秉諺、陳瑛鴻、何主亮"
+    },
+    {
+      "論文名稱": "介電質阻障放電大氣電漿應用於蔬果保鮮之細菌滅活試驗",
+      "會議名稱": "2024中國材料科學學會113年年會",
+      "作者群": "黃柏榮、陳信宏、鍾彥綸、陳瑛鴻、謝秉諺、何主亮"
+    },
+    {
+      "論文名稱": "結合導電纖維與Arduino來發展顏色辨識智能手套",
+      "會議名稱": "2024中國材料科學學會113年年會",
+      "作者群": "林子敬、陳瑛鴻、謝秉諺、何主亮"
+    },
+    {
+      "論文名稱": "以光激發光譜儀來評估超高頻電容耦合電漿源蝕刻味之素增層膜的蝕刻終點",
+      "會議名稱": "2024中國材料科學學會113年年會",
+      "作者群": "于力穎、郭博昇、陳瑛鴻、謝秉諺、何主亮"
+    },
+    {
+      "論文名稱": "Improved plasma etching resistance of focus ring by applying gas flow sputtered SiC coating",
+      "會議名稱": "45th International Symposium on Dry Process (DPS2024)",
+      "作者群": "Chia-Ying Liou, Ping-Yen Hsieh, Shih-Nan Hsiao, Ying-Hung Chen, Masaru Hori, Ju-Liang He"
+    },
+    {
+      "論文名稱": "Enhanced conformal-type electromagnetic shielding by high power impulse magnetron sputter deposited copper",
+      "會議名稱": "45th International Symposium on Dry Process (DPS2024)",
+      "作者群": "Huai-Hsuan Huang, Ying-Hung Chen, Ping-Yen Hsieh, Ju-Liang He"
+    },
+    {
+      "論文名稱": "氣流濺鍍製備複合銅箔應用於鋰電池負極集流電極",
+      "會議名稱": "2024台灣鍍膜科技協會年會暨國科會專題計畫研究成果發表會",
+      "作者群": "黃俊曄、謝秉諺、陳瑛鴻、何主亮"
+    },
+    {
+      "論文名稱": "氣流濺鍍鉬金屬厚膜應用於穿透式微型X光源靶材",
+      "會議名稱": "2024台灣鍍膜科技協會年會暨國科會專題計畫研究成果發表會",
+      "作者群": "邱羿寧、謝秉諺、陳瑛鴻、何主亮"
+    },
+    {
+      "論文名稱": "高功率脈衝磁控濺鍍製備用於腦電圖方面的可撓乾式電極",
+      "會議名稱": "2024台灣鍍膜科技協會年會暨國科會專題計畫研究成果發表會",
+      "作者群": "盧怡瑄、崔睿彰、陳瑛鴻、謝秉諺、何主亮"
+    },
+    {
+      "論文名稱": "高功率脈衝磁控濺鍍製備金屬光澤之熱塑性聚氨酯膜材開發",
+      "會議名稱": "，2024台灣鍍膜科技協會年會暨國科會專題計畫研究成果發表會",
+      "作者群": "劉宣序、陳瑛鴻、謝秉諺、何主亮"
+    },
+    {
+      "論文名稱": "Layer structure design of HiPIMS Cr-based hard coating to improve wear and corrosion resistance",
+      "會議名稱": "The 17th International Symposium on Sputtering & Plasma Processes (ISSP 2024)",
+      "作者群": "Yen-Chun Liu, Yao-Hsin Tsai, Ying-Hung Chen, Ping-Yen Hsieh, Ju-Liang He"
+    },
+    {
+      "論文名稱": "Flexible conformal electromagnetic shielding films prepared by using HiPIMS",
+      "會議名稱": "The 17th International Symposium on Sputtering & Plasma Processes (ISSP 2024)",
+      "作者群": "Huai-Hsuan Huang, Ying-Hung Chen, Ping-Yen Hsieh, Ju-Liang He"
+    },
+    {
+      "論文名稱": "Plasma etching resistance of gas flow sputter prepared yttrium oxyfluoride coating against different fluorine plasma",
+      "會議名稱": "67th Annual SVC Technical Conference (SVC TechCon 2024)",
+      "作者群": "Ping-Yen Hsieh, Tzu-Chun Lin, Ying-Hung Chen, Ju-Liang He"
+    },
+    {
+      "論文名稱": "Heterogrown graphene on silicon for thermal spreading",
+      "會議名稱": "67th Annual SVC Technical Conference (SVC TechCon 2024)",
+      "作者群": "Chi-Ya Hsia, Ping-Yen Hsieh, Ying-Hung Chen, Ju-Liang He"
+    },
+    {
+      "論文名稱": "Miniaturized rTMS coil powered by SCR high current supply",
+      "會議名稱": "67th Annual SVC Technical Conference (SVC TechCon 2024)",
+      "作者群": "Han-Ping Hung, Ping-Yen Hsieh, Ying-Hung Chen, Eric Kuo-Hao Tang, Sheng-Nan Tsai, Ju-Liang He"
+    },
+    {
+      "論文名稱": "Reactive gas flow sputtering prepared SiC coating for plasma etching resistance",
+      "會議名稱": "67th Annual SVC Technical Conference (SVC TechCon 2024)",
+      "作者群": "Chia-Ying Liou, Ping-Yen Hsieh, Shih-Nan Hsiao, Ying-Hung Chen, Ju-Liang He"
+    },
+    {
+      "論文名稱": "Gas flow sputter system for yttria-stabilized zirconia deposition",
+      "會議名稱": "67th Annual SVC Technical Conference (SVC TechCon 2024)",
+      "作者群": "Yinan Li, Ying-Hung Chen, Ping-Yen Hsieh, Ju-Ling He, Allan Matthews"
+    },
+    {
+      "論文名稱": "HiPIMS prepared metal films on stretchable substrate for thin-film strain gauge",
+      "會議名稱": "67th Annual SVC Technical Conference (SVC TechCon 2024)",
+      "作者群": "Ying-Hung Chen, Ping-Yen Hsieh, Yu-Te Liu, Yueh-Lin Hung, Yu-Wen Chen, Ju-Liang He"
+    },
+    {
+      "論文名稱": "Reactive gas flow sputtering prepared Y-O-F coating for anti-plasma etching purpose",
+      "會議名稱": "16th International Symposium on Advanced Plasma Science and its Application for Nitrides and Nanomaterials (ISPlasma 2024)",
+      "作者群": "Ping-Yen Hsieh, Tzu-Chun Lin, Shih-Nan Hsiao, Ying-Hung Chen, Masaru Hori, Ju-Liang He"
+    },
+    {
+      "論文名稱": "A multi-electrode cold atmospheric pressure DBD plasma reactor aiming at sprout growth application",
+      "會議名稱": "16th International Symposium on Advanced Plasma Science and its Application for Nitrides and Nanomaterials (ISPlasma 2024)",
+      "作者群": "Yu-Ren Wei, Ying-Hung Chen, Ping-Yen Hsieh, Cheng-Hao Lee, Shin-Hung Chen, Yen-Lun Chung, Jyun-Ye Huang, Po-Jung Huang, Ju-Liang He"
+    },
+    {
+      "論文名稱": "A DBD reactor with high RNS concentration: experimental and modelling approach",
+      "會議名稱": "16th International Symposium on Advanced Plasma Science and its Application for Nitrides and Nanomaterials (ISPlasma 2024)",
+      "作者群": "Ju-Liang He, Ying-Hung Chen, Ping-Yen Hsieh, Shin-Hung Chen, Jyun-Ye Huang, Yen-Lun Chung, Po-Jung Huang, Yu-Ren Wei, Cheng-Hao Lee"
+    },
+    {
+      "論文名稱": "60 MHz VHF-CCP Plasma to Produce Via on ABF Film.",
+      "會議名稱": "16th International Symposium on Advanced Plasma Science and its Application for Nitrides and Nanomaterials (ISPlasma 2024)",
+      "作者群": "Po-Sheng Kuo, Ying-Hung Chen, Ping-Yen Hsieh, Yoshinobu Kawai, Ju-Liang He"
+    },
+    {
+      "論文名稱": "Acute toxicity test using zebrafish embryos to evaluate the concentration of plasma-activated water",
+      "會議名稱": "16th International Symposium on Advanced Plasma Science and its Application for Nitrides and Nanomaterials (ISPlasma 2024)",
+      "作者群": "Ying-Hung Chen, Ping-Yen Hsieh, Yi-Jun Chung, Shin-Hung Chen, Yen-Lun Chung, Po-Jung Huang, Yu-Ren Wei, Ju-Liang He"
+    },
+    {
+      "論文名稱": "GFS dry process for preparing aluminum electrolytic capacitor electrode",
+      "會議名稱": "2023 MRS-T International Conference",
+      "作者群": "Po-Kai Chen, Chao-Wen Lin, Ping-Yen Hsieh,  Ying-Hung Chen, Ju-Liang He"
+    },
+    {
+      "論文名稱": "DBD plasma deposition for polymeric tube inner wall",
+      "會議名稱": "2023 MRS-T International Conference",
+      "作者群": "Liang-Yu Lu, Ping-Yen Hsieh, Ying-Hung Chen, Ju-Liang He"
+    },
+    {
+      "論文名稱": "Ag incorporated DLC coating prepared by hybrid HCD/PECVD system",
+      "會議名稱": "2023 MRS-T International Conference",
+      "作者群": "Tien-Hang Lee, Ping-Yen Hsieh, Ying-Hung Chen, Ju-Liang He"
+    },
+    {
+      "論文名稱": "Plasma activated water with different nitrate to affect lettuce seedling",
+      "會議名稱": "2023 MRS-T International Conference",
+      "作者群": "Yen-Lun Chung, Ying-Hung Chen, Ping-Yen Hsieh, Ju-Liang He"
+    },
+    {
+      "論文名稱": "Cytotoxicity evaluation of plasma activated water by Zebrafish animal model",
+      "會議名稱": "2023 MRS-T International Conference",
+      "作者群": "Yi-Jun Chung, Ying-Hung Chen, Ping-Yen Hsieh, Ju-Liang He"
+    },
+    {
+      "論文名稱": "Gas flow sputtering prepared Y2O3 for plasma etching resistance",
+      "會議名稱": "TACT 2023 International Thin Films Conference",
+      "作者群": "Tzu-Chun Lin, Ping-Yen Hsieh, Ying-Hung Chen, Ju-Liang He"
+    },
+    {
+      "論文名稱": "HiPIMS-DLC for improved performance of linear guide",
+      "會議名稱": "TACT 2023 International Thin Films Conference",
+      "作者群": "Pin-Wen Wang, Ping-Yen Hsieh, Ying-Hung Chen, Ju-Liang He"
+    },
+    {
+      "論文名稱": "Building VHF-CCP plasma etcher for 8-inch wafer",
+      "會議名稱": "TACT 2023 International Thin Films Conference",
+      "作者群": "Hao-Ying Lin, Ying-Hung Chen, Ping-Yen Hsieh, Ju-Liang He"
+    },
+    {
+      "論文名稱": "銀摻雜類鑽碳薄膜應用於抗菌骨科植入材",
+      "會議名稱": "2023第七屆臺灣碳材料學術研討會",
+      "作者群": "李典航、謝秉諺、陳瑛鴻、鍾啟仁、何主亮"
+    },
+    {
+      "論文名稱": "Yttrium-based plasma etching resistant coating obtained by gas flow sputter deposition",
+      "會議名稱": "Global Plasma Forum",
+      "作者群": "Ping-Yen Hsieh, Tzu-Chun Lin, Ying-Hung Chen, Ju-Liang He"
+    },
+    {
+      "論文名稱": "Broadening plasma polymerization process for functional coatings",
+      "會議名稱": "Global Plasma Forum",
+      "作者群": "Ju-Liang He, Xuan-Xuan Chang, Yu-Han Wei, Ping-Yen Hsieh, Ying-Hung Chen, Meng-Heng Lai"
+    },
+    {
+      "論文名稱": "In vivo toxicity test of DBD plasma activated water by using Zebrafish",
+      "會議名稱": "Global Plasma Forum",
+      "作者群": "Ying-Hung Chen, Yi-Jun Chung, Chen-Shin Chen, Yen-Lun Chung, Yu-Ren Wei, Ping-Yen Hsieh, Ju-Liang He"
+    },
+    {
+      "論文名稱": "HiPIMS Deposited Silver for Periprosthetic Joint Antimicrobial Purpose",
+      "會議名稱": "66th Annual SVC Technical Conference (SVC TechCon 2023)",
+      "作者群": "Ning-Chien Chin, Shu-Ting Li, Ping-Yen Hsieh, Ying-Hung Chen, Ju-Liang He"
+    },
+    {
+      "論文名稱": "A Combinatorial HCD/PECVD System for Gradient Ag Containing Plasma Parylene Coating",
+      "會議名稱": "66th Annual SVC Technical Conference (SVC TechCon 2023)",
+      "作者群": "Ping-Yen Hsieh, Yu-Han Wei, Ying-Hung Chen, Ju-Liang He"
+    },
+    {
+      "論文名稱": "Performance of HiPIMS-DLC on Silent Chain Plate for Wear Protection",
+      "會議名稱": "66th Annual SVC Technical Conference (SVC TechCon 2023)",
+      "作者群": "Ying-Hung Chen, Yao-Hsin Tsai, Ping-Yen Heish, Ju-Liang He"
+    },
+    {
+      "論文名稱": "Tunable, Graded Band-gap TiO2 Thin Film Solar Cell Deposited by High Power Impulse Magnetron Sputtering on Flexible Substrate",
+      "會議名稱": "66th Annual SVC Technical Conference (SVC TechCon 2023)",
+      "作者群": "Ying-Hung Chen, Sheng-Kuei Chiu, Meng-Cheng Lai, Ping-Yen Hsieh, Ju-Liang He"
+    },
+    {
+      "論文名稱": "Can HiPIMS Silver Survive for Commonly Used Sterilization?",
+      "會議名稱": "66th Annual SVC Technical Conference (SVC TechCon 2023)",
+      "作者群": "Shu-Ting Li, Sheng-Yang Huang, Ning-Chien Chin, Ping-Yen Hsieh, Ying-Hung Chen, Ju-Liang He"
+    },
+    {
+      "論文名稱": "HiPIMS Prepared Ultrathin Gold Film for Plasmonic Biosensor Application",
+      "會議名稱": "66th Annual SVC Technical Conference (SVC TechCon 2023)",
+      "作者群": "Sheng-Yang Huang, Ping-Yen Hsieh, Chi-Jen Chung, Chia-Man Chou, Ju-Liang He"
+    },
+    {
+      "論文名稱": "Soft Dry Electrode Prepared by Carbon Nanotubes Mixed Polydimethylsiloxane with High Power Impulse Magnetron Sputter Deposited Silver Coating for Electrocardiography Measurements",
+      "會議名稱": "66th Annual SVC Technical Conference (SVC TechCon 2023)",
+      "作者群": "Sin-Ei Juang, Rui-Xian Wang, Ying-Hung Chen, Ping-Yen Hsieh, Ju-Liang He"
+    },
+    {
+      "論文名稱": "HiPIMS Silver Deposition for Antibacterial Bone Implant",
+      "會議名稱": "15th International Symposium on Advanced Plasma Science and its Application for Nitrides and Nanomaterials (ISPlasma 2023)",
+      "作者群": "Shu-Ting Li, Ning-Chien Chin, Ping-Yen Hsieh, Ying-Hung Chen, Hsi-Kai Tsou, Ju-Liang He"
+    },
+    {
+      "論文名稱": "Silver Containing Porous Bioceramic Coating for Antimicrobial Titanium Implant",
+      "會議名稱": "15th International Symposium on Advanced Plasma Science and its Application for Nitrides and Nanomaterials (ISPlasma 2023)",
+      "作者群": "Ping-Yen Hsieh, Cih-Wun Ke, Ying-Hung Chen, Hsi-Kai Tsou, Hsien-Te Chen, Ju-Liang He"
+    },
+    {
+      "論文名稱": "DBD plasma water irrigation on soil farmed A-Choy: from seed to table",
+      "會議名稱": "15th International Symposium on Advanced Plasma Science and its Application for Nitrides and Nanomaterials (ISPlasma 2023)",
+      "作者群": "Shin-Hung Chen, Ying-Hung Chen, Ping-Yen Hsieh, Ju-Liang He"
+    },
+    {
+      "論文名稱": "Dielectric barrier discharge plasma aerophonic to grow vegetable",
+      "會議名稱": "15th International Symposium on Advanced Plasma Science and its Application for Nitrides and Nanomaterials (ISPlasma 2023)",
+      "作者群": "Ying-Hung Chen, Guan-Heng Lyu, Ping-Yen Hsieh, Ju-Liang He"
+    },
+    {
+      "論文名稱": "Carbonization over anodized TiO2 nanostructure on titanium to form a CDI electrode",
+      "會議名稱": "2023 1st International Symposium on Carbon Materials (2023 ISCM-1) for Energy, Environment, Sustainability, and Bio-applications with the 6th Taiwan Carbon Conference",
+      "作者群": "Ping-Yen Hsieh, Jung-Ta Huang, Ying-Hung Chen, Ju-Liang He"
+    },
+    {
+      "論文名稱": "碳被覆二氧化鈦奈米結構於電容去離子電極",
+      "會議名稱": "2022中國材料科學學會111年年會",
+      "作者群": "盧夆軒、黃榮達、謝秉諺、何主亮"
+    },
+    {
+      "論文名稱": "Angstrom's Method熱擴散係數量測方法的建置",
+      "會議名稱": "2022中國材料科學學會111年年會",
+      "作者群": "夏祺雅、謝秉諺、何主亮"
+    },
+    {
+      "論文名稱": "小型化氣冷式經顱磁刺激線圈開發",
+      "會議名稱": "2022中國材料科學學會111年年會",
+      "作者群": "洪翰評、謝秉諺、何主亮"
+    },
+    {
+      "論文名稱": "Hollow Cathode Discharge Used for Silver Incorporation into Plasma Parylene Film for Antibacterial Purpose",
+      "會議名稱": "The 22nd International Vacuum Congress (IVC-22)",
+      "作者群": "Ping-Yen Hsieh, Yu-Han Wei, Ying-Hung Chen, Ju-Liang He"
+    },
+    {
+      "論文名稱": "Hollow Cathode Discharge Used for Silver Incorporation into PECVD Diamond-like Carbon Coating",
+      "會議名稱": "The 22nd International Vacuum Congress (IVC-22)",
+      "作者群": "Yu-Han Wei, Ping-Yen Hsieh, Ying-Hung Chen, Ju-Liang He"
+    },
+    {
+      "論文名稱": "A Very Short Impulse Plasma Generator for Plasma Polymerization Purpose– Plasma Parylene Film as an Example",
+      "會議名稱": "The 22nd International Vacuum Congress (IVC-22)",
+      "作者群": "Ping-Yen Hsieh, Xuan-Xuan Chang, Ying-Hung Chen, Ju-Liang He"
+    },
+    {
+      "論文名稱": "Ultrathin Gold Films Deposited on Collagen Fabric by High-Power Impulse Magnetron Sputtering",
+      "會議名稱": "2022中華民國生醫材料及藥物制放學會年會暨國科會生科處工程醫學學門成果發表會",
+      "作者群": "黃勝揚、周佳滿、謝秉諺、鍾啟仁、何主亮"
+    },
+    {
+      "論文名稱": "電漿聚對二甲苯薄膜於工業用軟管內視鏡之抗化學蝕刻應用",
+      "會議名稱": "111年度防蝕工程年會暨論文發表會",
+      "作者群": "張璇玹、謝秉諺、陳瑛鴻、賴孟恒、何主亮"
+    },
+    {
+      "論文名稱": "Titanium Coating on Laser Roughened PEEK for Spinal Implant",
+      "會議名稱": "Global Advanced Materials & Surface (GAMS 2022)",
+      "作者群": "Hsi-Kai Tsou, Ping-Yen Hsieh, Ju-Liang He"
+    },
+    {
+      "論文名稱": "氣流濺鍍鈦金屬於鋁箔用於電容陰極箔",
+      "會議名稱": "110年度防蝕工程年會暨論文發表會",
+      "作者群": "吳俊輝、林昭文、謝秉諺、陳瑛鴻、Muthaiah Annalakshmi、何主亮"
+    },
+    {
+      "論文名稱": "氣流濺鍍鍍多孔鋁於鋁箔用於電容陽極箔",
+      "會議名稱": "110年度防蝕工程年會暨論文發表會",
+      "作者群": "吳俊輝、林昭文、謝秉諺、陳瑛鴻、MuthaiahAnnalakshmi、何主亮"
+    },
+    {
+      "論文名稱": "Plasma Parylene Film Incorporated with Silver for Antibacterial Purpose",
+      "會議名稱": "TACT 2021 International Thin Films Conference",
+      "作者群": "Yu-Han Wei, Ning-Chien Chin, Ping-Yen Hsieh, Chia-Man Chou, Ju-Liang He"
+    },
+    {
+      "論文名稱": "Antibacterial efficacy of high power impulse magnetron sputter deposited silver film on titanium",
+      "會議名稱": "TACT 2021 International Thin Films Conference",
+      "作者群": "Shu-Ting Li, Ning-Chien Chin, Ping-Yen Hsieh, Ying-Hung Chen, Hsi-Kai Tsou, Chi-Jen Chung, Ju-Liang He"
+    },
+    {
+      "論文名稱": "Antibacterial Bioceramic Coating on Titanium by Using Micro-arc Oxidation with Silver-containing Electrolyte",
+      "會議名稱": "2021 Materials Research Society- Taiwan International Conference (2021 MRSTIC)",
+      "作者群": "Cih-Wun Ke, Ning-Chien Chin, Ping-Yen Hsieh, Ju-Liang He"
+    },
+    {
+      "論文名稱": "Three-dimensional titanium dioxide nanostructure modified with carbon for capacitive desalination electrode purpose",
+      "會議名稱": "2021第十八屆海峽兩岸碳材料暨第五屆臺灣碳材料學術研討會",
+      "作者群": "謝秉諺、黃榮達、何主亮"
+    },
+    {
+      "論文名稱": "Hetero-growth of HIPIMS-graphene film on silicon substrate",
+      "會議名稱": "2021第十八屆海峽兩岸碳材料暨第五屆臺灣碳材料學術研討會",
+      "作者群": "謝秉諺、何星緯、陳瑛鴻、何主亮"
+    },
+    {
+      "論文名稱": "長效主動抗菌之含銀類鑽碳薄膜",
+      "會議名稱": "2021第十八屆海峽兩岸碳材料暨第五屆臺灣碳材料學術研討會",
+      "作者群": "魏妤涵、金寧建、謝秉諺、周佳滿、何主亮"
+    },
+    {
+      "論文名稱": "Hetero-growth of graphene film on silicon substrate assisted with copper",
+      "會議名稱": "64th Annual SVC Virtual Technical Conference (SVC TechCon 2021)",
+      "作者群": "Ping-Yen Hsieh, Jonathan Ho, Ying-Hung Chen, and Ju-Liang He"
+    },
+    {
+      "論文名稱": "Tailoring HIPIMS-graphene growth to achieve high thermal spreading by incorporating copper",
+      "會議名稱": "64th Annual SVC Virtual Technical Conference (SVC TechCon 2021)",
+      "作者群": "Jonathan Ho, Ping-Yen Hsieh, and Ju-Liang He"
+    },
+    {
+      "論文名稱": "Using magnetic fixture to realize decorative coatings for small workpiece via batch-type HIPIMS system",
+      "會議名稱": "64th Annual SVC Virtual Technical Conference (SVC TechCon 2021)",
+      "作者群": "Yu-Chen Lin, Ying-Hung Chen, Ping Yen Hsieh, Tsung-Han Chen, and Ju-Liang He"
+    },
+    {
+      "論文名稱": "High power impulse magnetron sputter deposited copper for conformal type EMI shielding purpose",
+      "會議名稱": "64th Annual SVC Virtual Technical Conference (SVC TechCon 2021)",
+      "作者群": "Huai-Hsuan Huang, Ying-Hung Chen, Ping-Yen Hsieh, and Ju-Liang He"
+    },
+    {
+      "論文名稱": "Pulsed plasma polymerization using para-xylene as precursor for biomedical purpose",
+      "會議名稱": "64th Annual SVC Virtual Technical Conference (SVC TechCon 2021)",
+      "作者群": "Xuan-Xuan Chang, Ping-Yen Hsieh, and Ju-Liang He"
+    },
+    {
+      "論文名稱": "Carbon coating on three-dimensional anodically oxidized titanium foam with hierarchical nanostructure for capacitive deionization electrode",
+      "會議名稱": "47th International Conference on Metallurgical Coatings and Thin Films – Virtual Conference (ICMCTF 2021)",
+      "作者群": "Jung-Ta Huang, Ping-Yen Hsieh, and Ju-Liang He"
+    },
+    {
+      "論文名稱": "Enhancing osteointegration on PEEK spinal implant by using laser surface roughening and HIPIMS titanium coating",
+      "會議名稱": "47th International Conference on Metallurgical Coatings and Thin Films – Virtual Conference (ICMCTF 2021)",
+      "作者群": "Ping-Yen Hsieh, Hsi-Kai Tsou, Chi-Jen Chung, and Ju-Liang He"
+    },
+    {
+      "論文名稱": "Very thin gold films deposited collagen to improve skin wound healing in animal study",
+      "會議名稱": "47th International Conference on Metallurgical Coatings and Thin Films – Virtual Conference (ICMCTF 2021)",
+      "作者群": "Sheng-Yang Huang, Ping-Yen Hsieh, Ren-Han Chang, Chia-Man Chou, Chi-Jen Chung, and Ju-Liang He"
+    },
+    {
+      "論文名稱": "In Vitro study of very thin gold film deposited collagen fabric",
+      "會議名稱": "47th International Conference on Metallurgical Coatings and Thin Films – Virtual Conference (ICMCTF 2021)",
+      "作者群": "Sheng-Yang Huang, Ping-Yen Hsieh, Ren-Han Chang, Chia-Man Chou, Chi-Jen Chung, and Ju-Liang He"
+    },
+    {
+      "論文名稱": "Superamphiphobic stainless steel surface prepared by femtosecond laser patterning and pulsed plasma-polymerization",
+      "會議名稱": "47th International Conference on Metallurgical Coatings and Thin Films – Virtual Conference (ICMCTF 2021)",
+      "作者群": "Cheng-Wei Lin, Ping-Yen Hsieh, Chia-Man Chou, Chi-Jen Chung, and Ju-Liang He"
+    },
+    {
+      "論文名稱": "高密度電漿碳薄膜的產業應用",
+      "會議名稱": "2020中國材料科學學會年會",
+      "作者群": "謝秉諺"
+    },
+    {
+      "論文名稱": "低成本熱擴散係數量測方法的建立-以石墨烯/銅箔為例",
+      "會議名稱": "2019第十七屆海峽兩岸碳材料學術研討會",
+      "作者群": "謝秉諺、施冠宇、蔡勝男、何主亮"
+    },
+    {
+      "論文名稱": "低溫物理氣相沉積石墨烯薄膜於銅箔以作為超薄型均熱板之應用",
+      "會議名稱": "2019第十七屆海峽兩岸碳材料學術研討會",
+      "作者群": "謝秉諺、周佳宏、施冠宇、蔡勝男、何主亮"
+    },
+    {
+      "論文名稱": "Graphene film grown on copper foil by using bipolar HIPIMS for thermal management",
+      "會議名稱": "10th International Conference on Power Electronics for Plasma Engineering Conference (PE² 2019)",
+      "作者群": "Ju-Liang He, Ping-Yen Hsieh, and Ying-Hung Chen"
+    },
+    {
+      "論文名稱": "低溫物理氣相沉積石墨烯薄膜於銅箔以作為超薄型均熱片之應用",
+      "會議名稱": "2019第三屆臺灣碳材料學術研討會",
+      "作者群": "謝秉諺、周佳宏、施冠宇、何主亮"
+    },
+    {
+      "論文名稱": "滲氮類鑽碳膜的電化學氧化汙水降解",
+      "會議名稱": "2019第三屆臺灣碳材料學術研討會",
+      "作者群": "陳資翰、謝秉諺、吳志超、何主亮"
+    },
+    {
+      "論文名稱": "低成本熱擴散係數量測方法的建立–以石墨烯/銅箔為例",
+      "會議名稱": "2019第三屆臺灣碳材料學術研討會",
+      "作者群": "施冠宇、謝秉諺、何主亮"
+    },
+    {
+      "論文名稱": "直流極化檢測鋁箔鍍碳保護性",
+      "會議名稱": "2019第三屆臺灣碳材料學術研討會",
+      "作者群": "陳瑛鴻、謝秉諺、何主亮"
+    },
+    {
+      "論文名稱": "超薄碳膜可撓發熱體之研製",
+      "會議名稱": "2019第三屆臺灣碳材料學術研討會",
+      "作者群": "周佳宏、謝秉諺、陳瑛鴻、何主亮"
+    }
+  ],
+  "book": [],
+  "patent": [
+    {
+      "title": "發明",
+      "desc": "Plasma aerosol device"
+    },
+    {
+      "title": "發明",
+      "desc": "一種異質摻雜電漿有機薄膜之製造方法與其設備"
+    },
+    {
+      "title": "發明",
+      "desc": "Flexible transparent conductive composite film and manufacturing method thereof"
+    },
+    {
+      "title": "發明",
+      "desc": "Organic polymer film and manufacturing method thereof"
+    },
+    {
+      "title": "發明",
+      "desc": "一種碳矽化合物製備方法"
+    },
+    {
+      "title": "發明",
+      "desc": "半導體製程設備部件及其製作方法"
+    }
+  ],
+  "most": [
+    {
+      "name": "(個別型)產學合作計畫－管式中空陰極放電裝置於異質金屬摻雜之技術開發",
+      "schoolYear": "113"
+    },
+    {
+      "name": "(廠配)廣繼科技有限公司(個別型)產學合作計畫－管式中空陰極放電裝置於異質金屬摻雜之技術開發",
+      "schoolYear": "113"
+    },
+    {
+      "name": "氣流濺鍍製備碳化矽鍍層於半導體抗電漿蝕刻之應用(2/2)",
+      "schoolYear": "113"
+    },
+    {
+      "name": "濕式高介電化成膜之鈦電解電容箔 Wet formed high dielectric layer for titanium electrolytic capacitor",
+      "schoolYear": "113"
+    },
+    {
+      "name": "(個別型)產學合作計畫－線柵型氣流濺鍍源之關鍵設計與製程技術開發",
+      "schoolYear": "112"
+    },
+    {
+      "name": "(廠配)廣繼科技有限公司(個別型)產學合作計畫－線柵型氣流濺鍍源之關鍵設計與製程技術開發",
+      "schoolYear": "112"
+    },
+    {
+      "name": "氣流濺鍍製備碳化矽鍍層於半導體抗電漿蝕刻之應用(1/2)",
+      "schoolYear": "112"
+    },
+    {
+      "name": "氣流濺鍍製備氟氧化釔薄膜於半導體電漿抗蝕刻之應用 Yttrium Oxyfluoride Film Prepared by Using Gas Flow Sputtering for Semicond",
+      "schoolYear": "112"
+    },
+    {
+      "name": "科研創業計畫：氣流濺鍍發展多孔性電極材料",
+      "schoolYear": "110"
+    },
+    {
+      "name": "銀薄膜被覆雷射表面結構化之抗菌骨科鈦金屬植入材",
+      "schoolYear": "110"
+    },
+    {
+      "name": "新型三維二氧化鈦多層次奈米結構應用於電容去離子電極",
+      "schoolYear": "109"
+    },
+    {
+      "name": "(博士後研究：謝秉諺)(深耕)智能纖維與紡織品之創新研發(3/4)",
+      "schoolYear": "107"
+    }
+  ],
+  "tech": [
+    {
+      "論文名稱": "Anticorrosive, antimicrobial and bioactive titanium dioxide coating for the surface modification of biomedical material (2017-07)",
+      "書名": "Magdalena Janus",
+      "作者群": "Hsi-Kai Tsou, Ping-Yen Hsieh"
+    }
+  ],
+  "induAca": [
+    "低電阻氣流濺鍍碳化矽鍍膜之開發 (2024-12 to 2025-06)",
+    "高功率脈衝磁控濺鍍抗菌裝飾鍍膜開發(打樣驗證) (2024-07 to 2024-10)",
+    "高功率脈衝磁控濺鍍二硼化鈦鍍膜於提升圓盤刀性能之開發 (2024-06 to 2025-05)",
+    "有機高分子薄膜及其製作方法諮詢顧問專案計畫(謝秉諺) (2024-05 to 2025-04)",
+    "2024 Plasma(電漿)技術顧問委任計畫(謝秉諺) (2024-03 to 2026-02)",
+    "高功率脈衝磁控濺鍍抗菌裝飾鍍膜開發(前導型) (2024-03 to 2024-06)",
+    "鋁電解電容用材料合成及智慧製造研發先期計畫 (2024-01 to 2024-06)",
+    "氣流濺鍍銅薄膜應用於電流收集電極(前導型打樣試驗) (2023-07 to 2023-09)",
+    "Plasma(電漿)技術顧問委任計畫(謝秉諺) (2023-03 to 2024-02)",
+    "(采昌)逢甲大學永續合作夥伴網絡專案 (2022-12 to 2023-11)",
+    "(未茉設計)逢甲大學永續合作夥伴網絡專案 (2022-12 to 2023-11)",
+    "(國震實業)逢甲大學永續合作夥伴網絡專案 (2022-12 to 2023-11)",
+    "(佳典管理)逢甲大學永續合作夥伴網絡專案 (2022-11 to 2023-11)",
+    "(聯曜企業)逢甲大學永續合作夥伴網絡專案 (2022-11 to 2023-10)",
+    "111年度臺中市地方產業創新研發推動計畫-預充填活塞注射筒之高階鍍膜開發諮詢顧問專案計畫 (2022-09 to 2023-05)",
+    "高速沉積氧化物之中試量產設備開發 (2022-06 to 2024-05)",
+    "Plasma(電漿)技術顧問委任計畫(謝秉諺) (2022-03 to 2023-02)",
+    "製備非晶碳化矽膜用於電漿抗蝕刻 (2022-02 to 2022-06)",
+    "製備非晶碳化矽膜用於電漿抗蝕刻 (2022-02 to 2022-06)",
+    "以高功率脈衝磁控濺鍍發展電磁波遮蔽膜及彩色鏈片 (2022-01 to 2023-06)",
+    "(國合)氣流濺鍍發展電容陽極箔 (2021-06 to 2021-12)"
+  ],
+  "perform": [],
+  "reward": [
+    "113年度國科會補助大專校院研究獎勵 (113, 2024-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (113, 2024-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (113, 2024-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (113, 2024-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優等獎 (113, 2024-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (111, 2022-11) - 逢甲大學"
+  ],
+  "speech": [
+    {
+      "演講題目": "氣流濺鍍技術的原理及其新興應用",
+      "邀請單位": "東海大學 化學工程與材料工程學系",
+      "演講日期": "2024-10"
+    },
+    {
+      "演講題目": "內外兼修的電漿鍍膜應用",
+      "邀請單位": "113年度防蝕工程年會暨論文發表會",
+      "演講日期": "2024-09"
+    },
+    {
+      "演講題目": "Yttrium-based plasma etching resistant coating obtained by gas flow sputter deposition",
+      "邀請單位": "Global Plasma Forum in Aomori",
+      "演講日期": "2023-10"
+    },
+    {
+      "演講題目": "HiPIMS copper layer on flexible substrate for conformal electromagnetic shielding purpose",
+      "邀請單位": "2023高密度電漿鍍膜與製程控制國際論壇",
+      "演講日期": "2023-03"
+    },
+    {
+      "演講題目": "Impulse Plasma Polymerization Technique – Plasma Parylene Film as an Example",
+      "邀請單位": "明志科技大學 材料工程系",
+      "演講日期": "2022-09"
+    },
+    {
+      "演講題目": "Three-dimensional titanium dioxide nanostructure modified with carbon for capacitive desalination electrode purpose",
+      "邀請單位": "2021第十八屆海峽兩岸碳材料暨第五屆臺灣碳",
+      "演講日期": "2021-11"
+    },
+    {
+      "演講題目": "脊椎植入材的電漿表面改質技術",
+      "邀請單位": "國立臺南大學 材料科學系",
+      "演講日期": "2021-03"
+    },
+    {
+      "演講題目": "低溫物理氣相沉積石墨烯薄膜於銅箔以作為超薄型均熱板之應用",
+      "邀請單位": "第17屆海峽兩岸碳材料學術研討會",
+      "演講日期": "2019-11"
+    },
+    {
+      "演講題目": "Multilayer diamond-like carbon film on polymeric diaphragm for improving sound quality of micro speaker",
+      "邀請單位": "第16屆海峽兩岸碳材料學術研討會",
+      "演講日期": "2018-11"
+    },
+    {
+      "演講題目": "脊椎植入材之表面改質演進",
+      "邀請單位": "明志科技大學 材料工程系",
+      "演講日期": "2018-09"
+    },
+    {
+      "演講題目": "石墨烯海綿於處理非水相液體之應用",
+      "邀請單位": "明志科技大學 材料工程系",
+      "演講日期": "2016-11"
+    },
+    {
+      "演講題目": "Gold nanoparticle-decorated three-dimensional graphene foam for ammonia gas sensor",
+      "邀請單位": "2016石墨烯產業•技術高峰論壇暨第14屆海峽兩",
+      "演講日期": "2016-08"
+    }
+  ],
+  "material": [],
+  "tal": []
+}

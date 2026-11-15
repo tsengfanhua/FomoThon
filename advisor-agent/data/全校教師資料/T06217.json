@@ -1,0 +1,207 @@
+{
+  "teacherId": "T06217",
+  "name": "盛郁庭",
+  "mainUnit": "建築專業學院",
+  "detailUnit": "建築專業學院",
+  "skill": [
+    "運算設計Computational Design",
+    "機器人構築Robotic Fabrication",
+    "數位製造Digital Manufacturing"
+  ],
+  "edu": [
+    "國立交通大學 建築研究所 碩士",
+    "瑞士聯邦理工大學 電腦輔助建築設計 碩士",
+    "淡江大學 建築系 學士"
+  ],
+  "fcuExp": [
+    "逢甲大學帆宣智慧城市5G實驗室 研究員",
+    "建築專業學院 助理教授(專)",
+    "建築專業學院 助理教授",
+    "建築專業學院 副教授"
+  ],
+  "currjob": [
+    "邏數股份有限公司 董事長及執行長"
+  ],
+  "otherExp": [
+    "瑞士聯邦理工大學 媒體與設計實驗室 拜訪研究員",
+    "奧地利Innsbruck大學 實驗性建築實驗室 REX|LAB 講師"
+  ],
+  "journal": [
+    {
+      "論文名稱": "Cost-effective concrete fabrication for large irregularly shaped architectural structures",
+      "期刊名稱": "Automation in Construction (SCIE)",
+      "作者群": "Shih-Yuan Wang, Sze-Teng Liong, YS Gan, Yu-Ting Sheng"
+    },
+    {
+      "論文名稱": "Predicting trajectory of crane-lifted load using LSTM network: A comparative study of simulated and real-world scenarios",
+      "期刊名稱": "Expert Systems with Applications (SCIE)",
+      "作者群": "Sze-Teng Liong, Feng-Wei Kuo, Yee Siang Gan, Yu-Ting Sheng, Shih-Yuan Wang"
+    },
+    {
+      "論文名稱": "3D printing on freeform surface: Real-time and accurate 3D dynamic dense surface reconstruction with HoloLens and displacement measurement sensors",
+      "期刊名稱": "Advances in Mechanical Engineering (SCIE)",
+      "作者群": "Yu-Ting Sheng, Sze-Teng Liong, Shih-Yuan Wang, Yee-Siang Gan"
+    },
+    {
+      "論文名稱": "What does it look like? An artificial neural network model to predict the physical dense 3D appearance of a large-scale object",
+      "期刊名稱": "Expert Systems with Applications (SCIE)",
+      "作者群": "Shih-Yuan Wang , Fei-Fan Sung , Sze-Teng Liong , Yu-Ting Sheng , Y.S. Gan"
+    }
+  ],
+  "journal2": [],
+  "conference": [
+    {
+      "論文名稱": "Robotic Additive Manufacturing of Glass Structures",
+      "會議名稱": "Conference40th Conference on Education and Research in Computer Aided Architectural Design in Europe, eCAADe 2022",
+      "作者群": "Li, Han, Tsai, Tsung-Ha, Chen, Ting-Chia, Sheng, Yu-Ting, Wang, Shih-Yuan *"
+    },
+    {
+      "論文名稱": "Robotic Fabrication Process of Glued Laminated Bamboo for Material Efficient Construction",
+      "會議名稱": "CAADRIA (International Conference of the Association for Computer-Aided Architectural Design Research in Asia)",
+      "作者群": "Cheng, Chung-Chieh, *Sheng, Yu-Ting and Wang, Shih-Yuan"
+    },
+    {
+      "論文名稱": "Transient Materialization-Robotic Metal Curving",
+      "會議名稱": "25th International Conference on Computer-Aided Architectural Design Research in Asia, CAADRIA 2020",
+      "作者群": "Lu, Yi-Heng, Wang, Shih-Yuan, Sheng, Yu-Ting, Lin, Che-Wei, Pang, Yu-Hsuan and Hung, Wei-Tse"
+    }
+  ],
+  "book": [],
+  "patent": [
+    {
+      "title": "發明",
+      "desc": "施工機器人智能系統"
+    },
+    {
+      "title": "設計/新式樣",
+      "desc": "牆面處理機器人"
+    },
+    {
+      "title": "發明",
+      "desc": "水泥粉刷自動化系統及其運作方法"
+    },
+    {
+      "title": "發明",
+      "desc": "左官作業自動化システム及びその運用方法"
+    }
+  ],
+  "most": [
+    {
+      "name": "回收材料3D列印自由曲面模板與灌注方法的開發(1/2)",
+      "schoolYear": "113"
+    },
+    {
+      "name": "科研創業計畫：營建自動化-現場施工機器人之泥作工項",
+      "schoolYear": "110"
+    },
+    {
+      "name": "開發牆面批土機器人(2/2)",
+      "schoolYear": "110"
+    },
+    {
+      "name": "科研創業計畫：營建機器人之粉刷工項",
+      "schoolYear": "109"
+    },
+    {
+      "name": "開發牆面批土機器人(1/2)",
+      "schoolYear": "109"
+    },
+    {
+      "name": "(萌芽計畫)逢甲大學－國際產學聯盟計畫II",
+      "schoolYear": "108"
+    },
+    {
+      "name": "機器手臂加法製造之折板構築",
+      "schoolYear": "108"
+    }
+  ],
+  "tech": [
+    {
+      "論文名稱": "逢甲數位製造合作社，發展智慧營建 (2020-12)",
+      "書名": "營建知訊",
+      "作者群": "盛郁庭 、林庭如"
+    }
+  ],
+  "induAca": [
+    "低碳建築趨勢與智慧營建 (2024-12 to 2025-10)",
+    "機器人3D列印家具案 (2024-02 to 2025-12)",
+    "3D 列印室內裝置藝術案 (2024-01 to 2025-12)",
+    "智慧營建之機器人建造流程碳計算 (2023-11 to 2024-10)",
+    "機器人3D列印藝術製品 (2023-02 to 2024-12)",
+    "地下室打底粉刷工程案 (2023-02 to 2023-06)",
+    "滾筒油漆施工機器人 (2022-11 to 2023-10)",
+    "羽公共藝術作品案 (2022-08 to 2026-12)",
+    "機器人水泥3D列印街道家具與花台製作 (2022-03 to 2023-12)",
+    "目流-起 公共藝術作品案 (2022-02 to 2026-12)",
+    "110年新竹市兒童探索館展示設計規劃執行委託專業服務案之五樓天花展示裝置與桌上型教學展示之設計及監造 (2022-02 to 2023-06)",
+    "竹構設計人才培育─竹構作品 (2022-01 to 2022-12)",
+    "「2021海洋藝術季-地景藝術設置案」一案 (2021-07 to 2022-12)",
+    "Rhino 與Grasshopper諮詢與教育訓練案 (2021-04 to 2021-07)",
+    "營建機器人 (2020-12 to 2021-11)",
+    "杉林溪生態渡假園區整體發展策略 (2020-12 to 2021-06)",
+    "110年度新⽵市客家主題燈區策展計畫燈品製作 (2020-10 to 2021-12)",
+    "噴塗機器人開發合作案 (2020-08 to 2021-07)",
+    "下一代智慧營建人才培育與產業創新應用計畫 (2020-08 to 2021-07)",
+    "(國合)日本森美術館Muqarna Installation (2019-09 to 2020-12)",
+    "TACO-HIWIN 6軸機械手臂型號RA620-1739參數化模擬軟體外掛開發合作案 (2019-03 to 2020-02)"
+  ],
+  "perform": [],
+  "reward": [
+    "逢甲大學論文著作獎勵傑出獎 (113, 2024-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (113, 2024-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (113, 2024-11) - 逢甲大學",
+    "113學年度教學績優獎 (113, 2024-11) - 逢甲大學",
+    "112年度國科會補助大專校院研究獎勵 (112, 2023-12) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "112學年度教學績優獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (111, 2022-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (111, 2022-11) - 逢甲大學",
+    "111學年度教學績優獎 (111, 2022-11) - 逢甲大學",
+    "111年度國科會補助大專校院研究獎勵 (111, 2022-10) - 研究發展處"
+  ],
+  "speech": [
+    {
+      "演講題目": "智慧營造新工法",
+      "邀請單位": "內政部建築研究所",
+      "演講日期": "2023-07"
+    },
+    {
+      "演講題目": "淨零碳底下新技術",
+      "邀請單位": "臺中市建築文化教育基金會",
+      "演講日期": "2023-07"
+    },
+    {
+      "演講題目": "建築機器人(DigitalFUTURES 工作營論壇)",
+      "邀請單位": "上海同濟大學",
+      "演講日期": "2023-06"
+    },
+    {
+      "演講題目": "5分之2--不同維度的詮釋",
+      "邀請單位": "淡江大學",
+      "演講日期": "2023-06"
+    },
+    {
+      "演講題目": "運算設計與機器人建造",
+      "邀請單位": "淡江大學",
+      "演講日期": "2023-04"
+    },
+    {
+      "演講題目": "機器人構築",
+      "邀請單位": "中國醫藥大學 醫學工程學院",
+      "演講日期": "2023-03"
+    },
+    {
+      "演講題目": "機器人建造與運算設計",
+      "邀請單位": "順天建設",
+      "演講日期": "2022-11"
+    },
+    {
+      "演講題目": "機器人構築與數位製造",
+      "邀請單位": "國立台南大學",
+      "演講日期": "2022-05"
+    }
+  ],
+  "material": [],
+  "tal": []
+}

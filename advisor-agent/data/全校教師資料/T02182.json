@@ -1,0 +1,1101 @@
+{
+  "teacherId": "T02182",
+  "name": "林昱成",
+  "mainUnit": "資訊電機學院",
+  "detailUnit": "自動控制工程學系",
+  "skill": [
+    "智慧型控制 Intelligent Control",
+    "最佳控制、強健控制Optimal Control, Robust Control",
+    "車輛影像安全輔助系統Vision-Based Driver Assistance System",
+    "嵌入式系統Embedded System",
+    "深度學習Deep Learning"
+  ],
+  "edu": [
+    "中興大學 電機工程系 博士",
+    "逢甲大學 自動控制工程學系 碩士",
+    "虎尾科技大學 電機系 學士"
+  ],
+  "fcuExp": [
+    "產業研發碩士專班 主任",
+    "資訊電機學院不分系榮譽班 主任",
+    "自動控制工程學系 系主任",
+    "逢甲大學帆宣智慧城市5G實驗室 研究員",
+    "自動控制工程學系 助理教授",
+    "自動控制工程學系 副教授",
+    "自動控制工程學系 教授"
+  ],
+  "currjob": [],
+  "otherExp": [
+    "工業技術研究院 機械所 研究員",
+    "明新科技大學 電機工程系 講師",
+    "南開科技大學 電機工程系 講師"
+  ],
+  "journal": [
+    {
+      "論文名稱": "Temporal Attention with Gated Residual Network for Stepwise Multimodal Trajectory Prediction",
+      "期刊名稱": "IEEE Transactions on Instrumentation and Measurement (SCIE)",
+      "作者群": "Chui-Hong Chiu, Yu-Chen Lin*, Yu-Jou Chen"
+    },
+    {
+      "論文名稱": "A Novel Virtual Navigation Route Generation Scheme for Augmented Reality Car Navigation System",
+      "期刊名稱": "Sensors (SCIE)",
+      "作者群": "Yu-Chen Lin *, Yu-Ching Chan and Ming-Chih Lin"
+    },
+    {
+      "論文名稱": "Transformer-CNN for small image object detection",
+      "期刊名稱": "Signal Processing: Image Communication (SSCI)",
+      "作者群": "Yan-Lin Chen,  Chun-Liang Lin*,  Yu-Chen Lin,  Tzu-Chun Chen"
+    },
+    {
+      "論文名稱": "Predicting Vulnerable Road User Behavior With Transformer-Based Gumbel Distribution Networks",
+      "期刊名稱": "IEEE Transactions on Automation Science and Engineering (SCIE)",
+      "作者群": "Lia Astuti, Yu-Chen Lin*, Chui-Hong Chiu, Wen-Hui Chen"
+    },
+    {
+      "論文名稱": "Impact of Perception Errors in Vision-Based Detection and Tracking Pipelines on Pedestrian Trajectory Prediction in Autonomous Driving Systems",
+      "期刊名稱": "Sensors (SCIE)",
+      "作者群": "Wen-Hui Chen ,Jiann-Cherng Wu, Yury Davydov, Wei-Chen Yeh, Yu-Chen Lin*"
+    },
+    {
+      "論文名稱": "An Edge Computing System with AMD Xilinx FPGA AI Customer Platform for Advanced Driver Assistance System",
+      "期刊名稱": "Sensors (SCIE)",
+      "作者群": "Tsun-Kuang Chi, Tsung-Yi Chen*, Yu-Chen Lin, Ting-Lan Lin, Jun-Ting Zhang, Cheng-Lin Lu, Shih-Lun Chen*, Kuo-Chen Li and Patricia Angela R. Abu"
+    },
+    {
+      "論文名稱": "GAT TransPruning: Progressive Channel Pruning Strategy Combining Graph Attention Network and Transformer",
+      "期刊名稱": "PeerJ Computer Science (SCIE)",
+      "作者群": "Yu-Chen Lin*, Chia-Hung Wang, Yu-Cheng Lin"
+    },
+    {
+      "論文名稱": "Pedestrian Potentially Dangerous Behavior Prediction Based on Attention-LSTM with Egocentric Vision",
+      "期刊名稱": "IET Intelligent Transport Systems (SCIE)",
+      "作者群": "Ming-Chih Lin, Yu-Chen Lin*, and Ming-Ku Hung"
+    },
+    {
+      "論文名稱": "Supervised Object-Specific Distance Estimation from Monocular Images for Autonomous Driving",
+      "期刊名稱": "Sensors (SCIE)",
+      "作者群": "Yury Davydov*, Wen-Hui Chen, Yu-Chen Lin"
+    },
+    {
+      "論文名稱": "A Reinforcement Learning Backstepping-Based Control Design for a Full Vehicle Active Macpherson Suspension System",
+      "期刊名稱": "IET Control Theory & Applications (SCIE)",
+      "作者群": "Yu-Chen Lin*, Ha Ly Thi Nguyen, Ji-Fan Yang, Hung-Jui Chiou"
+    },
+    {
+      "論文名稱": "Intelligent Contact Force Regulation of Pantograph-Catenary Based on Novel Type-Reduction Technology",
+      "期刊名稱": "Electronics (SCIE)",
+      "作者群": "Tsung-Chih Lin, Chien-Wen Sun, Yu-Chen Lin*, Majid Moradi Zirkohi"
+    },
+    {
+      "論文名稱": "Implementation of an Autonomous Overtaking System Based on Time to Lane Crossing Estimation and Model Predictive Control",
+      "期刊名稱": "Electronics (SCIE)",
+      "作者群": "Yu-Chen Lin* , Chun-Liang Lin, Shih-Ting Huang, Cheng-Hsuan Kuo"
+    },
+    {
+      "論文名稱": "Implementation of Pavement Defect Detection System on Edge Computing Platform",
+      "期刊名稱": "Applied Sciences (SCIE)",
+      "作者群": "Yu-Chen Lin*, Wen-Hui Chen and Cheng-Hsuan Kuo"
+    },
+    {
+      "論文名稱": "Adaptive Takagi–Sugeno Fuzzy Model Predictive Control for Permanent Magnet Synchronous Generator-Based Hydrokinetic Turbine Systems",
+      "期刊名稱": "Energies (SCIE)",
+      "作者群": "Yu-Chen Lin, Valentina E. Balas*, Ji-Fan Yang and Yu-Heng Chang"
+    },
+    {
+      "論文名稱": "Adaptive Prediction-Based Control for an Ecological Cruise Control System on Curved and Hilly Roads",
+      "期刊名稱": "Journal of Intelligent & Fuzzy Systems (SCIE)",
+      "作者群": "Yu-Chen Lin*, Ha Ly Thi Nguyen, Valentina Emilia Balas, Tsung-Chihd Lin, I-Chune Kuo"
+    },
+    {
+      "論文名稱": "Adaptive Backstepping Nonsingular Fast Terminal Sliding Mode Control for Hydro-Turbine Governor Design",
+      "期刊名稱": "Energies (SCIE)",
+      "作者群": "Yu‐Chen Lin,*, Valentina Emilia Balas, Marius Mircea Balas, and Jian‐Zhang Peng"
+    },
+    {
+      "論文名稱": "Adaptive Neuro-Fuzzy Predictor-Based Control for Cooperative Adaptive Cruise Control System",
+      "期刊名稱": "IEEE Transactions on Intelligent Transportation Systems (SCIE)",
+      "作者群": "Yu-Chen Lin*, and Ha Ly Thi Nguyen"
+    },
+    {
+      "論文名稱": "The application of deep learning and image processing technology in laser positioning",
+      "期刊名稱": "Applied Sciences-Basel (SCIE)",
+      "作者群": "Chern-Sheng Lin*, Yu-Chia Huang, Shih-Hua Chen, Yu-Liang Hsu, and Yu-Chen Lin"
+    },
+    {
+      "論文名稱": "Using Deep Learning and Gaussian Mixture Models for Road Scene Segmentation",
+      "期刊名稱": "International Journal of Engineering Science and Innovative Technology (SJIF)",
+      "作者群": "Yu-Chen Lin*, Peng-Cheng Chen, Cheng-Hsien Wang"
+    },
+    {
+      "論文名稱": "Fuzzy Mixed H2/H∞ Sampled-Data Control Design for Nonlinear Dynamic Systems",
+      "期刊名稱": "Journal of Control Engineering and Applied Informatics (SCIE)",
+      "作者群": "Zhenbin Du*. Tsung-Chih Lin. Peng Song. Yu-Chen Lin"
+    },
+    {
+      "論文名稱": "An Optimal Vibration Control Strategy for Robust Active Suspension Systems Design with Actuator Delays and Uncertainties",
+      "期刊名稱": "Journal of Intelligent Decision Technologies (ESCI)",
+      "作者群": "Yu-Chen Lin*, Tsung-Chih Lin, Chih-Kai Peng, Valentina Emilia Balas"
+    },
+    {
+      "論文名稱": "X-Ray Imaging Inspection System for Blind Holes in the Intermediate Layer of Printed Circuit Boards with Neural Network Identification",
+      "期刊名稱": "Journal of Testing and Evaluation (SCIE)",
+      "作者群": "Chern-Sheng Lin*, Bing-En Chan, Yen-Chen Huang, Hsien-Tse Chen, Yu-Chen Lin"
+    },
+    {
+      "論文名稱": "Indirect Adaptive Fuzzy Supervisory Control with State Observer for Unknown Nonlinear Time Delay System",
+      "期刊名稱": "International Journal of Fuzzy Systems (SCIE)",
+      "作者群": "Tsung-Chih Lin*, Yu-Chen Lin, Zhenbin Du, Ting-Ching Chu"
+    },
+    {
+      "論文名稱": "Direct Adaptive Fuzzy Moving Sliding Mode Proportional Integral Tracking Control of a Three-Dimensional Overhead Crane",
+      "期刊名稱": "ASME Journal of Dynamic Systems, Measurement, and Control (SCIE)",
+      "作者群": "Tsung-Chih Lin*, Yu-Chen Lin, Majid Moradi Zirkohi, Hsi-Chun Huang"
+    },
+    {
+      "論文名稱": "Development of an Eco-Cruise Control System Based on Digital Topographical Data",
+      "期刊名稱": "Inventions (ECONLIT,MDPI)",
+      "作者群": "Yu-Chen Lin*, Ha Ly Thi Nguyen"
+    },
+    {
+      "論文名稱": "Multi-camera interface with novel copositioning",
+      "期刊名稱": "Instrumentation Science & Technology (SCIE)",
+      "作者群": "Chern-Sheng Lin*, Kai-Sheng Chen, Yen-Chen Huang & Yu-Chen Lin"
+    },
+    {
+      "論文名稱": "Optimal control for rail vehicle pantograph systems with actuator delays",
+      "期刊名稱": "IET Control Theory & Applications (SCIE)",
+      "作者群": "Yu-Chen Lin*, Niahn-Chung Shieh, Van-Tsai Liu"
+    },
+    {
+      "論文名稱": "Adaptive Interval Type-2 Fuzzy PI Control for Uncertain Nonlinear Time\r\nDelay Systems Fast and Large Disturbance Rejection",
+      "期刊名稱": "International Journal of Computational Intelligence in Contr ()",
+      "作者群": "Tsung-Chih Lin*, Yu-Chen Lin, Zhenbin Du and Chien-Liang Chen"
+    },
+    {
+      "論文名稱": "Revolutionary Non-Blind Areas Intelligent Surveillance Systems with See-Through Technology",
+      "期刊名稱": "International Journal of Computational Intelligence in Control (EI)",
+      "作者群": "Yu-Chen Lin*, Che-Tsung Lin and Cheng-Chuan Chang"
+    },
+    {
+      "論文名稱": "Synchronization of Fuzzy Modeling Chaotic Time Delay\r\nMemristor-Based Chua’s Circuits with Application to Secure\r\nCommunication",
+      "期刊名稱": "International Journal of Fuzzy Systems (SCIE)",
+      "作者群": "Tsung-Chih Lin*, Fu-Yu Huang, Zhenbin Du, Yu-Chen Lin"
+    },
+    {
+      "論文名稱": "Robust Optimal Control of Time-Delay Systems Based on Razumikhin Theorem",
+      "期刊名稱": "Asian Journal of Control (SCIE)",
+      "作者群": "C. H. Chuang and C. L. Lin and Y. C. Lin"
+    },
+    {
+      "論文名稱": "Measurement and tracking control of the z-tilts error compensating stage of the the nano-measuring machine",
+      "期刊名稱": "Kybernetes: The International Journal of Systems & Cybernetics (SCIE)",
+      "作者群": "V. T. Liu, C. H. Liu, H. W. Li C. L. Lin and Y. C. Lin"
+    },
+    {
+      "論文名稱": "Dither-based compensating strategy for radome boresight error and gimbal friction",
+      "期刊名稱": "The Aeronautical Journal (SCIE)",
+      "作者群": "Y. C. Lin, C. L. Lin and W. C. Shi"
+    },
+    {
+      "論文名稱": "Optimal control approach for robust control design of neutral systems",
+      "期刊名稱": "Optimal Control, Applications and Methods (SCIE)",
+      "作者群": "Y. C. Lin and C. L. Lin"
+    },
+    {
+      "論文名稱": "Robust active control for rail vehicle pantograph",
+      "期刊名稱": "IEEE Transactions on Vehicular Technology (SCIE)",
+      "作者群": "Y. C. Lin C. L. Lin and C. C. Yang"
+    },
+    {
+      "論文名稱": "Adaptive control design for a mixed linear and rotary motor-based dynamic platform",
+      "期刊名稱": "International Journal of Electrical Engineering (EI)",
+      "作者群": "C. L. Lin, Y. C. Lin, R. C. Tsai, and T. H. Hwang"
+    },
+    {
+      "論文名稱": "An evolutionary approach to active suspension design of rail vehicles",
+      "期刊名稱": "Journal of the Chinese Institute of Engineers (SCIE)",
+      "作者群": "Y. C. Lin, C. L. Lin and N. C. Hsieh"
+    },
+    {
+      "論文名稱": "A hybrid evolutionary approach for robust active suspension design of light rail vehicles",
+      "期刊名稱": "IEEE Transactions Control Systems Technology (SCIE)",
+      "作者群": "Y. C. Lin, C. L. Lin and N. C. Hsieh"
+    },
+    {
+      "論文名稱": "Optimal design for passive suspension of a light rail vehicle using constrained multiobjective evolutionary",
+      "期刊名稱": "Journal of Sound and Vibration (SCIE)",
+      "作者群": "N. C. Hsieh, C. L. Lin, Y. C. Lin, and K. Z. Liang"
+    }
+  ],
+  "journal2": [],
+  "conference": [
+    {
+      "論文名稱": "Evaluating the Influence of Object Detection Models and Dataset Selection on Traffic Accident Prediction Performance",
+      "會議名稱": "2025 IEEE International Conference on Consumer Electronics (ICCE)",
+      "作者群": "Wen-Hui Chen*, Yu-Hung Huang, Yu-Chen Lin"
+    },
+    {
+      "論文名稱": "A Dynamic Lane-Changing Trajectory Planning Scheme for Urban Environments Using Hierarchical Reinforcement Learning",
+      "會議名稱": "2024 International Automatic Control Conference (CACS 2024)",
+      "作者群": "Bo-Yu Wei and Yu-Chen Lin"
+    },
+    {
+      "論文名稱": "Integrating 3D Surround View and Force Feedback Technologies for Remote-Controlled Robotic Excavation Design",
+      "會議名稱": "2024 International Automatic Control Conference (CACS 2024)",
+      "作者群": "Pao-Kai Wang, Yu-Chen Lin*, Yu-Hui Wang, Yi-Chun Huang"
+    },
+    {
+      "論文名稱": "Smooth Speed Control for an Autonomous Vehicle and On-Road Verification",
+      "會議名稱": "IEEE SENSORS 2024",
+      "作者群": "Hui-Wen You, Mao-Jen Ko, Yu-Chen Lin*, Jia-Yi Zhao, Yu-Jou Chen"
+    },
+    {
+      "論文名稱": "Monocular camera and IMU integration for Pedestrian Trajectory Prediction",
+      "會議名稱": "IEEE SENSORS 2024",
+      "作者群": "Yu-Jou Chen, Chui-Hong Chiu, Yu-Chen Lin*, Pao-Kai Wang"
+    },
+    {
+      "論文名稱": "Intelligent People Flow Guidance System in Crowded Spaces",
+      "會議名稱": "The International Conference on System Science and Engineering 2024 (ICSSE 2024)",
+      "作者群": "Yu-Jou Chen, Yu-Chen Lin*, Han Wang, Yu-lin Chien, and Hao-Wei Lee"
+    },
+    {
+      "論文名稱": "Dual-Attention Mechanism for Monocular Depth Estimation",
+      "會議名稱": "2024 IEEE International Conference on Computer and Automation Engineering (ICCAE 2024)",
+      "作者群": "Chui-Hong Chiu, Lia Astuti, Yu-Chen Lin*, Ming-Ku Hung"
+    },
+    {
+      "論文名稱": "Integrating Visual SLAM and Smooth Speed Control for realizing Real-Time Autonomous System",
+      "會議名稱": "2024 IEEE International Conference on Computer and Automation Engineering (ICCAE 2024)",
+      "作者群": "Mao-Jen Ko, Yu-Chen Lin*, Chih-Hung Cheng, Thanh-Tan Nguyen"
+    },
+    {
+      "論文名稱": "An Attention Mechanism-Based Pruning Compression Scheme",
+      "會議名稱": "The International Automatic Control Conference (CACS 2023)",
+      "作者群": "Yu-Chen Lin*, Chia-Hung Wang, Chui-Hong Chiu, Yu-Cheng Lin"
+    },
+    {
+      "論文名稱": "Improved ELBO-assisted Transformer for Skeleton-Based Action Recognition",
+      "會議名稱": "26th IEEE International Conference on Intelligent Transportation Systems (ITSC 2023)",
+      "作者群": "Arnab Bhattacharjee, Wen-Hui Chen*, Yu-Chen Lin"
+    },
+    {
+      "論文名稱": "An Adaptive Semi-Active Suspension System for Design of Vehicle Stability Control System",
+      "會議名稱": "26th IEEE International Conference on Intelligent Transportation Systems (ITSC 2023)",
+      "作者群": "Yu-Chen Lin*, Chien-Wen Sun, Bo-Han Lyu, Ting-Jia Yeh"
+    },
+    {
+      "論文名稱": "Multi-Trajectory Prediction of Pedestrians Based on Deep Neural Network Architecture",
+      "會議名稱": "6th IEEE International Conference on Knowledge Innovation and Invention (ICKII) 2023",
+      "作者群": "Lia Astuti*, Yu-Chen Lin, Wen-Hui Chen"
+    },
+    {
+      "論文名稱": "A Pre-Distillation Strategy for Object Detection Task",
+      "會議名稱": "International Conference on Control, Decision and Information Technologies, (CoDiT 2023)",
+      "作者群": "Yu-Chen Lin*, Wen-Hui Chen, Hung-Cheng Chen, Chia-Hung Wang"
+    },
+    {
+      "論文名稱": "Evaluating the Impact of Detection and Tracking Errors on Pedestrian Trajectory Prediction in Autonomous Driving",
+      "會議名稱": "The 15th International Conference on Advanced Computational Intelligence",
+      "作者群": "Wei-Chen Yeh, Wen-Hui Chen*, Jiann-Cherng Wu, Yu-Chen Lin"
+    },
+    {
+      "論文名稱": "A High Accuracy Full Vehicle Modeling Scheme with Air Suspension Systems",
+      "會議名稱": "The 2022 International Automatic Control Conference (CACS 2022)",
+      "作者群": "Wei-Feng Hsu, Po-Han Lu, Yu-Chen Lin*, Chia-Hung Wang, Zhi-Cheng Yan"
+    },
+    {
+      "論文名稱": "A One-Stage Lightweight Object Detection Scheme Based on Knowledge Distillation",
+      "會議名稱": "The 2021 International Automatic Control Conference (CACS 2021)",
+      "作者群": "Hung-Cheng Chen, Yu-Chen Lin*"
+    },
+    {
+      "論文名稱": "A Semi-Active Suspension System Design Using Reinforcement Learning Scheme",
+      "會議名稱": "The 2021 International Automatic Control Conference (CACS 2021)",
+      "作者群": "Yu-Chen Lin*, Hung-Jui Chiou"
+    },
+    {
+      "論文名稱": "Research on Adjustable K and C Values of Analogous Active Suspension System with Automotive Chip Electronic Control Technology",
+      "會議名稱": "THE 12TH INTERNATIONAL CONFERENCE ON MECHANICAL AND ELECTRICAL TECHNOLOGIES ICMET 2021",
+      "作者群": "San-Shan. Hung, Chi-Chun. Hung, Yu-Chen. Lin, Kuo-Wei. Lin"
+    },
+    {
+      "論文名稱": "Pothole Detection and Avoidance via Deep Learning on Edge Devices",
+      "會議名稱": "2020 International Automatic Control Conference (CACS 2020)",
+      "作者群": "Chi-Wei Kuan*, Wen-Hui Chen, Yu-Chen Lin"
+    },
+    {
+      "論文名稱": "Design and Implementation of Intelligent Overtaking System Using Model Predictive Control",
+      "會議名稱": "2020 International Automatic Control Conference (CACS 2020)",
+      "作者群": "Shih-Ting Huang, Yu-Chen Lin*, Chun-Liang Lin"
+    },
+    {
+      "論文名稱": "Pavement Defects Detection Using Deep Learning Scheme and Quantitative Analysis",
+      "會議名稱": "2020 International Automatic Control Conference (CACS 2020)",
+      "作者群": "Yu-Chen Lin*, Cheng-Hsuan Kuo, Ming-Chih Lin"
+    },
+    {
+      "論文名稱": "Development and Dynamic Analysis of Analogous Active Suspension System with Adjustable Spring K Value and Damping C Value",
+      "會議名稱": "2020 5th International Conference on Control and Robotics Engineering (ICCRE)",
+      "作者群": "San-Shan Hung, Yu-Chen Lin, Jia-Ping Shen and Chi-Chun Hung"
+    },
+    {
+      "論文名稱": "Time to Lane Crossing Estimation Using Deep Learning-Based Instance Segmentation Scheme",
+      "會議名稱": "The 3rd International Conference on Advances in Artificial Intelligence (ICAAI 2019)",
+      "作者群": "Shih-Ting Huang, Yu-Ching Chan, Yu-Chen Lin*, Chun-Liang Lin"
+    },
+    {
+      "論文名稱": "Adaptive Predictive Control with Fuzzy Neural Networks for an Ecological Cruise Control System",
+      "會議名稱": "The Third International Conference on Smart Vehicular Technology, Transportation, Communication and Applications (VTCA 2019)",
+      "作者群": "Yu-Chen Lin*, Ha Ly Thi Nguyen, Valentina Emilia Balas, Tsung-Chih Lin, I-Chun Kuo"
+    },
+    {
+      "論文名稱": "Adaptive Controller Design for Full Vehicle Active Suspension Systems Based on Reinforcement Learning",
+      "會議名稱": "2019 International Conference on Mechatronic, Automobile, and Environment Engineering",
+      "作者群": "Ji-Fan Yang, Yu-Chen Lin*, San Shan Hung, Ha Ly Thi Nguyen, Hsin-Chang Chen"
+    },
+    {
+      "論文名稱": "Adaptive T-S Fuzzy Observer-Based Model Predictive Torque Control for Design of PMSG-Based Hydrokinetic Energy Conversion Systems",
+      "會議名稱": "2019 International Conference on Mechatronic, Automobile, and Environment Engineering",
+      "作者群": "Yu-Heng Chang, Yu-Chen Lin*, Tsung-Chih Lin and Hung-Jui Chiu"
+    },
+    {
+      "論文名稱": "Adaptive Backstepping-Based Terminal Sliding Mode Control for Hydro-Turbine Governor Control Design Considering Energy Losses Minimization",
+      "會議名稱": "The IEEE International Conference on Advanced Robotics and Mechatronics (ICARM)",
+      "作者群": "Yu-Chen Lin*, Wen-Hui Chen, Jian-Zhang Peng"
+    },
+    {
+      "論文名稱": "Comparisons of Machine Learning Algorithms for Driving Behavior Recognition Using In-Vehicle CAN Bus Data",
+      "會議名稱": "3rd  IEEE International Conference on Imaging, Vision & Pattern Recognition (IVPR)",
+      "作者群": "Wen-Hui Chen*, Yu-Chen Lin, Wei-Hao Chen"
+    },
+    {
+      "論文名稱": "Lane Mark and Drivable Area Detection Using a Novel Instance Segmentation Scheme",
+      "會議名稱": "2019 IEEE/SICE International Symposium on System Integration",
+      "作者群": "Yu-Ching Chan, Yu-Chen Lin*, Peng-Cheng Chen"
+    },
+    {
+      "論文名稱": "An Actor-Critic Reinforcement Learning Control Approach for Discrete-Time Linear System with Uncertainty",
+      "會議名稱": "The 2018 International Automatic Control Conference (CACS 2018)",
+      "作者群": "Hsin-Chang Chen, Yu-Chen Lin*, and Yu-Heng Chang"
+    },
+    {
+      "論文名稱": "A Nearly Optimal Control Approach for Uncertainty Input-Delay Systems Based on Adaptive Dynamic Programming",
+      "會議名稱": "The 2017 International Automatic Control Conference (CACS 2017)",
+      "作者群": "Yu-Chen Lin*, Hsin-Chang Chen, and Chih-Kai Peng"
+    },
+    {
+      "論文名稱": "Using Deep Learning and Gaussian Mixture Models for Road Scene Segmentation",
+      "會議名稱": "The Annual Conference on Engineering and Applied Science (ACEAT2017)",
+      "作者群": "Yu-Chen Lin*, Cheng-Hsien Wang, Peng-Cheng Chen"
+    },
+    {
+      "論文名稱": "Adaptive Tracking Control For Nonlinear Systems By An Adaptive Model-Based FNNs Sliding Mode Control Scheme",
+      "會議名稱": "2017 IEEE International Conference on Networking, Sensing and Control (ICNSC 2017)",
+      "作者群": "Yu-Chen Lin*, Tsung-Chih Lin, Yi-Chao Chen, I-Chun Kuo"
+    },
+    {
+      "論文名稱": "Adaptive Neuro-Fuzzy Predictive Control for Design of Adaptive Cruise Control System",
+      "會議名稱": "2017 IEEE International Conference on Networking, Sensing and Control (ICNSC 2017)",
+      "作者群": "Yu-Chen Lin*, Ha-Ly Thi Nguyen, Cheng-Hsien Wang"
+    },
+    {
+      "論文名稱": "An Eco-Cruising Control Systems Using Nonlinear Predictive Control Approach",
+      "會議名稱": "2016 International Automatic Control Conference (CACS 2016)",
+      "作者群": "Yu-Chen Lin*, Hsiang-Chieh Hsu, I-Chun Kuo"
+    },
+    {
+      "論文名稱": "Adaptive Fuzzy Sliding Mode Active Vibration Control for Rail Vehicle Pantograph",
+      "會議名稱": "2016 IEEE WCCI - IEEE International Conference on Fuzzy Systems (FUZZ-IEEE 2016)",
+      "作者群": "Tsung-Chih Lin*, Jian-Lin Yeh, Chia-Hao Kuo, Yu-Chen Lin, E. Balas Valentina"
+    },
+    {
+      "論文名稱": "Synchronous Tracking Control of Gantry Stage Using Adptive Fuzzy Moving Sliding Mode Approach",
+      "會議名稱": " 2016 IEEE WCCI - IEEE International Conference on Fuzzy Systems (FUZZ-IEEE 2016)",
+      "作者群": "Yu-Chen Lin*, Tsung-Chih Lin, Yi-Chao Chen, Tai-Yi Liu"
+    },
+    {
+      "論文名稱": "Experimental Study of Synchronous Motion Adaptive Fuzzy Sliding Mode Control for the Gantry Position System",
+      "會議名稱": "The 13th International Conference on Automation Technology (Automation 2015)",
+      "作者群": "Yu-Chen Lin*, Tsung-Chih Lin, Tai-yi Liu"
+    },
+    {
+      "論文名稱": "Dynamic Programming for Model Predictive Control of Adaptive Cruise Control Systems",
+      "會議名稱": "2015 IEEE International Conference on Vehicular Electronics and Safety",
+      "作者群": "Yu-Chen Lin*, Hsiang-Chieh Hsu, Wen-Jen Chen"
+    },
+    {
+      "論文名稱": "結合MatLab-Mexfunction與Raspberry Pi之影像式道路導盲輔助系統",
+      "會議名稱": "15th MATLAB & SIMULINK TechForum & EXPO",
+      "作者群": "Y.C.Lin*,C.H.Wang,Y.C.Chen,Z.S.Huang"
+    },
+    {
+      "論文名稱": "模擬器動感平台模擬技術開發",
+      "會議名稱": "103年度國防科技學術合作計畫成果發表會",
+      "作者群": "黃榮興*，陳孝武，林昱成，林子洋，歐庭佑，劉泰邑"
+    },
+    {
+      "論文名稱": "廣域無視覺盲區之智慧監視系統",
+      "會議名稱": "14th MATLAB & SIMULINK TechForum & EXPO",
+      "作者群": "C. C. Chang, Y. C. Lin*, C. T. Lin, and L. T. Chen"
+    },
+    {
+      "論文名稱": "Intelligent Surveillance System with See-Through Technology",
+      "會議名稱": "The 17th IEEE International Conference on Intelligent Transportation Systems",
+      "作者群": "Y. C. Lin*, C. T. Lin, C. C. Chang, L. T. Chen"
+    },
+    {
+      "論文名稱": "Enhancing Vehicular Safety in Adverse Weather using Computer Vision Analysis",
+      "會議名稱": "IEEE 80th Vehicular Technology Conference",
+      "作者群": "C. T. Lin, Y. C. Lin, L. T. Chen, Y. F. Wang*"
+    },
+    {
+      "論文名稱": "In-Image Rain Wiper Elimination for Vision-Based Advanced Driver Assistance Systems",
+      "會議名稱": "The 11th IEEE International Conference on Control and Automation",
+      "作者群": "C. T. Lin*, Y. C. Lin, L. T. Chen, Y. F. Wang"
+    },
+    {
+      "論文名稱": "Front Vehicle Blind Spot Translucentization Based on Augmented Reality",
+      "會議名稱": "IEEE 78th Vehicular Technology Conference",
+      "作者群": "C. T. Lin, Y. C. Lin, L. T. Chen, Y. F. Wang"
+    },
+    {
+      "論文名稱": "Real-time Vehicle Surrounding Monitoring System with Variable Viewpoint",
+      "會議名稱": "The 26th IPPR Conference on Computer Vision, Graphics, and Image Processing",
+      "作者群": "Y. T. Yeh, C. K. Peng, Y. S. Chen, Y. C. Lin, W. C. Liu, Y. P. Hung"
+    },
+    {
+      "論文名稱": "A Vision-Based Obstacle Detection System for Parking Assistance",
+      "會議名稱": "The 8th IEEE Conference on Industrial Electronics and Applications",
+      "作者群": "Y. C. Lin, C. T. Lin, W. C. Liu, L. T. Chen"
+    },
+    {
+      "論文名稱": "A Real-Time Rear Obstacle Detection System Based On a Fish-Eye Camera",
+      "會議名稱": "International Conference on Asia Pacific Signal and Information Processing Association (APSIPA)",
+      "作者群": "C. T. Lin, Y. C. Lin, W. C. Liu, C. W. Lin"
+    },
+    {
+      "論文名稱": "Self-Learning-based Rain Streak Removal for Image/Video",
+      "會議名稱": "IEEE International Symposium on Circuits and Systems",
+      "作者群": "L. W. Kang, C. W. Lin, C. T. Lin, and Y. C. Lin"
+    },
+    {
+      "論文名稱": "Adaptive IPM-Based Lane Filtering for Night Forward Vehicle Detection",
+      "會議名稱": "The 6th IEEE Conference on Industrial Electronics and Applications",
+      "作者群": "Y. C. Lin, C. C. Lin, L. T. Chen, and C. K. Chen"
+    },
+    {
+      "論文名稱": "Optimal Control Approach for Robust Control Design of Uncertain Time-Delay Systems",
+      "會議名稱": "The 4th IEEE Conference on Industrial Electronics and Applications",
+      "作者群": "Y. C. Lin and C. L. Lin"
+    },
+    {
+      "論文名稱": "Anaysis and control design for human postural balancing systems",
+      "會議名稱": "International Conference on 7th IFAC Symposium on Nonlinear Control Systems",
+      "作者群": "C. L. Lee, Y. C. Lin and C. L. Lin"
+    },
+    {
+      "論文名稱": "Robust active vibration Control of rail vehicle pantograph",
+      "會議名稱": "International Conference Control",
+      "作者群": "Y. C. Lin, C. L. Lin and C. C. Yang"
+    },
+    {
+      "論文名稱": "Robust optimal design for active pantograph of a light rail vehicle using evolutionary search",
+      "會議名稱": "Proceedings of the 8th International Symposium on Advanced Vehicle Control",
+      "作者群": "Y. C. Lin, C. L. Lin and C. C. Yang"
+    },
+    {
+      "論文名稱": "A Hybrid Evolutionary Approach for Robust Active Suspension Design of Light Rail Vehicles",
+      "會議名稱": "Proceedings of National  Conference on Mechanical Engineers",
+      "作者群": "Y. C. Lin, C. L. Lin, N. C. Shieh"
+    },
+    {
+      "論文名稱": "Robust optimal design for active pantograph of a light rail vehicle using evolutionary search",
+      "會議名稱": "Proceedings of the 25th IASTED International Conference on Modeling, Identification, and Control",
+      "作者群": "Y. C. Lin, C. L. Lin and N. C. Shieh"
+    },
+    {
+      "論文名稱": "Optimal active suspension design of rail vehicles using evolutionary approach",
+      "會議名稱": "Proceedings of 2005 IASTED International Conference on Artificial Intelligence and Applications",
+      "作者群": "Y. C. Lin, C. L. Lin, N. C. Shieh and N. J. Lin"
+    },
+    {
+      "論文名稱": "Design for passive suspensors of a light rail vehicle using evolutionary search",
+      "會議名稱": "Proceedings of IEEE International Conference on Networking, Sensing and Control",
+      "作者群": "N. C. Hsieh, C. L. Lin, N. J. Lin and Y. C. Lin"
+    },
+    {
+      "論文名稱": "以進化演算法則輔助輕軌車主動懸吊系統之最佳化設計",
+      "會議名稱": "Proceedings of National Symposium on Automatic Control",
+      "作者群": "N. C. Hsieh, C. L. Lin, Y. C. Lin and N. J. Lin"
+    }
+  ],
+  "book": [
+    {
+      "專業書籍": "工研院成果技術報告書：先進安全感知與控制技術研討會",
+      "出版單位": "工研院",
+      "作者群": "林昱成"
+    },
+    {
+      "專業書籍": "工研院委託研究成果報告: 融合式定位演算法技術評估",
+      "出版單位": "工研院",
+      "作者群": "林俊良，林昱成"
+    },
+    {
+      "專業書籍": "中山科學研究院委託研究計畫期初報告：新興產業精密機械系統關鍵技術研究發展；軌道車輛系統整合─輕軌車結構疲勞分析與振動抑制(Ⅱ)",
+      "出版單位": "中山科學研究院",
+      "作者群": "劉永生，林俊良，林昱成"
+    },
+    {
+      "專業書籍": "中山科學研究院委託研究計畫期末報告：新興產業精密機械系統關鍵技術研究發展；軌道車輛系統整合─輕軌車結構疲勞分析與振動抑制",
+      "出版單位": "中山科學研究院",
+      "作者群": "劉永生，林俊良，林昱成"
+    }
+  ],
+  "patent": [
+    {
+      "title": "發明",
+      "desc": "手持式自動刺激穴道系統"
+    },
+    {
+      "title": "發明",
+      "desc": "水上自主救援裝置及系統"
+    },
+    {
+      "title": "發明",
+      "desc": "前方車輛的盲區預警系統"
+    },
+    {
+      "title": "發明",
+      "desc": "METHOD FOR GENERATING VIRTUAL NAVIGATION ROUTE"
+    },
+    {
+      "title": "發明",
+      "desc": "虛擬導航路徑生成方法"
+    },
+    {
+      "title": "發明",
+      "desc": "手持式自動刺激穴道系統"
+    },
+    {
+      "title": "發明",
+      "desc": "自行循跡回家導引裝置及方法"
+    },
+    {
+      "title": "發明",
+      "desc": "Superimposition device of virtual guiding indication and reality image and the superimposition method thereof"
+    },
+    {
+      "title": "發明",
+      "desc": "齒輪嚙合區域辨識系統與方法"
+    },
+    {
+      "title": "發明",
+      "desc": "Surrounding bird view monitoring image generation method and training method, automobile-side device, and training device thereof"
+    },
+    {
+      "title": "發明",
+      "desc": "Method and apparatus for single-image-based rain streak removal"
+    },
+    {
+      "title": "發明",
+      "desc": "Warning method and system for detecting lane-changing condition of rear-approaching vehicles"
+    },
+    {
+      "title": "新型",
+      "desc": "可更換式發光蓮蓬頭"
+    },
+    {
+      "title": "發明",
+      "desc": "集電弓式主動式抑振控制器"
+    },
+    {
+      "title": "發明",
+      "desc": "Dynamic Fusion Method and Device of Images"
+    },
+    {
+      "title": "發明",
+      "desc": "Voltage regulator and control method thereof"
+    },
+    {
+      "title": "發明",
+      "desc": "Method for in-image periodic noise pixel inpainting"
+    },
+    {
+      "title": "發明",
+      "desc": "Image conversion method and device using calibration reference pattern"
+    }
+  ],
+  "most": [
+    {
+      "name": "結合數位孿生實現具全域觀之自駕車認知決策與控制系統(2/3)",
+      "schoolYear": "113"
+    },
+    {
+      "name": "影像辨識嫌犯危險度之主動式警察防護裝備",
+      "schoolYear": "113"
+    },
+    {
+      "name": "基於生成式AI之交通事故重建與智慧鑑定輔助系統",
+      "schoolYear": "113"
+    },
+    {
+      "name": "道路潛在危險行為預測之次世代行車助理系統－道路潛在危險行為預測之次世代行車助理系統(3/4)",
+      "schoolYear": "112"
+    },
+    {
+      "name": "(博士增核)道路潛在危險行為預測之次世代行車助理系統－道路潛在危險行為預測之次世代行車助理系統(3/4)",
+      "schoolYear": "112"
+    },
+    {
+      "name": "(博士增核)結合數位孿生實現具全域觀之自駕車認知決策與控制系統(1/3)",
+      "schoolYear": "112"
+    },
+    {
+      "name": "(博士增核)道路潛在危險行為預測之次世代行車助理系統－道路潛在危險行為預測之次世代行車助理系統(2/4)",
+      "schoolYear": "111"
+    },
+    {
+      "name": "結合數位孿生實現具全域觀之自駕車認知決策與控制系統(1/3)",
+      "schoolYear": "112"
+    },
+    {
+      "name": "非接觸式之次世代智慧導盲杖",
+      "schoolYear": "112"
+    },
+    {
+      "name": "道路潛在危險行為預測之次世代行車助理系統－道路潛在危險行為預測之次世代行車助理系統(2/4)",
+      "schoolYear": "111"
+    },
+    {
+      "name": "道路潛在危險行為預測之次世代行車助理系統－道路潛在危險行為預測之次世代行車助理系統(1/4)",
+      "schoolYear": "111"
+    },
+    {
+      "name": "基於GAN-LSTM於危險突發行為意圖推論、軌跡預測及行車決策控制設計之車輛主動安全預防系統研製(3/3)",
+      "schoolYear": "111"
+    },
+    {
+      "name": "個人化自動耳穴針灸系統",
+      "schoolYear": "111"
+    },
+    {
+      "name": "基於GAN-LSTM於危險突發行為意圖推論、軌跡預測及行車決策控制設計之車輛主動安全預防系統研製(2/3)",
+      "schoolYear": "110"
+    },
+    {
+      "name": "基於機器聽覺技術之聽障駕駛輔助系統",
+      "schoolYear": "110"
+    },
+    {
+      "name": "整合深度學習智慧感知與自主決策技術於國產化主動懸吊系統研製－整合深度學習智慧感知與自主決策技術於國產化主動懸吊系統研製(3/3)",
+      "schoolYear": "109"
+    },
+    {
+      "name": "基於GAN-LSTM於危險突發行為意圖推論、軌跡預測及行車決策控制設計之車輛主動安全預防系統研製(1/3)",
+      "schoolYear": "109"
+    },
+    {
+      "name": "基於影像辨識與機電整合技術之自動化淨灘機器人",
+      "schoolYear": "109"
+    },
+    {
+      "name": "整合深度學習智慧感知與自主決策技術於國產化主動懸吊系統研製－整合深度學習智慧感知與自主決策技術於國產化主動懸吊系統研製(2/3)",
+      "schoolYear": "108"
+    },
+    {
+      "name": "整合深度學習智慧感知與自主決策技術於國產化主動懸吊系統研製(1/3)",
+      "schoolYear": "108"
+    },
+    {
+      "name": "基於深度學習技術之次世代擴增實境導航系統發展暨嵌入式平台實現(3/3)",
+      "schoolYear": "108"
+    },
+    {
+      "name": "基於深度學習之影像式自適應性頭燈調控與方向導引系統",
+      "schoolYear": "108"
+    },
+    {
+      "name": "基於感知融合與深度學習技術於路面辨識及危險衝突預測之國產化主動懸吊系統研製",
+      "schoolYear": "107"
+    },
+    {
+      "name": "基於深度學習技術之次世代擴增實境導航系統發展暨嵌入式平台實現(2/3)",
+      "schoolYear": "107"
+    },
+    {
+      "name": "無人駕駛貨櫃曳引車設計暨自動化貨櫃停放系統",
+      "schoolYear": "107"
+    },
+    {
+      "name": "智慧型市民農園之研發與推廣－智慧型市民農園之研發與推廣",
+      "schoolYear": "106"
+    },
+    {
+      "name": "(應用型)產學合作計畫－基於深度學習語義分割方法於車道偏離時間預估與行車安全決策設計",
+      "schoolYear": "106"
+    },
+    {
+      "name": "(廠配)奇美車電股份有限公司(應用型)產學合作計畫－基於深度學習語義分割方法於車道偏離時間預估與行車安全決策設計",
+      "schoolYear": "106"
+    },
+    {
+      "name": "基於深度學習技術之次世代擴增實境導航系統發展暨嵌入式平台實現(1/3)",
+      "schoolYear": "106"
+    },
+    {
+      "name": "基於深度學習與金字塔光流法之倒車安全輔助系統設計與嵌入式系統實現",
+      "schoolYear": "106"
+    },
+    {
+      "name": "基於車聯網技術之非線性模型預估控制設計暨智慧節能駕駛輔助系統開發",
+      "schoolYear": "105"
+    },
+    {
+      "name": "具聯結車輛之無縫環周影像安全輔助系統",
+      "schoolYear": "105"
+    },
+    {
+      "name": "基於雙眼動態視覺導引與辨識技術暨六軸機械手臂物件抓取控制應用",
+      "schoolYear": "105"
+    },
+    {
+      "name": "基於擴增實境之視覺盲區透視技術開發暨智慧監視系統應用",
+      "schoolYear": "104"
+    },
+    {
+      "name": "應用DGPS輔助失智患者自行循跡回家之智能照護鞋設計與實現",
+      "schoolYear": "104"
+    },
+    {
+      "name": "基於遠端監控與語音識別之智能自動化倉儲系統設計與雛型建置",
+      "schoolYear": "104"
+    },
+    {
+      "name": "複數影像動態融合技術於協同式車前盲區消除系統之應用",
+      "schoolYear": "102"
+    }
+  ],
+  "tech": [
+    {
+      "論文名稱": "台灣在自駕車與AI浪潮下的機會與挑戰 (Opportunities and Challenges for Taiwan in Driverless Cars and Artificial Intelligence) (2018-09)",
+      "書名": "IEK 產業焦點報導",
+      "作者群": "林昱成"
+    },
+    {
+      "論文名稱": "基於預估控制之自適應巡航控制決策設計 (2016-04)",
+      "書名": "機械工業雜誌",
+      "作者群": "林昱成、徐祥傑、彭志凱、陳文仁"
+    },
+    {
+      "論文名稱": "從歐盟InteractIVe計畫看先進駕駛輔助系統(ADAS)技術應用與發展趨勢 (2014-04)",
+      "書名": "機械工業雜誌",
+      "作者群": "林昱成"
+    },
+    {
+      "論文名稱": "前視安全警示系統之去霧演算法量化分析架構探討 (2012-11)",
+      "書名": "機械工業雜誌",
+      "作者群": "林哲聰，林昱成"
+    },
+    {
+      "論文名稱": "基於單張影像之雨紋抹除於影像式駕駛輔助系統之應用 (2012-09)",
+      "書名": "電機月刊",
+      "作者群": "林哲聰，林昱成"
+    },
+    {
+      "論文名稱": "全周影像障礙物偵測系統 (2012-07)",
+      "書名": "車輛工業月刊",
+      "作者群": "林哲聰，林昱成，段宗廷"
+    },
+    {
+      "論文名稱": "車輛後向安全輔助系統開發簡介 (2011-11)",
+      "書名": "機械工業雜誌",
+      "作者群": "林昱成，林紀瑋，林哲聰"
+    },
+    {
+      "論文名稱": "惡劣天候視覺輔助及警示系統 (2011-11)",
+      "書名": "車輛工業月刊",
+      "作者群": "林哲聰，林昱成，林紀瑋"
+    },
+    {
+      "論文名稱": "後方車道偏移警示系統簡介 (2011-06)",
+      "書名": "車輛工業月刊",
+      "作者群": "林紀瑋，林昱成，林哲聰"
+    },
+    {
+      "論文名稱": "夜間前車辨識演算暨系統開發架構探討 (2010-11)",
+      "書名": "機械工業雜誌",
+      "作者群": "林昱成，林哲聰，林紀瑋"
+    },
+    {
+      "論文名稱": "以動態視覺為基礎偵測前車停止、啟動警示系統 (2010-11)",
+      "書名": "機械工業雜誌",
+      "作者群": "定章，林紀瑋，藍易康，林昱成，林哲聰"
+    },
+    {
+      "論文名稱": "夜間嵌入式前車防撞警示系統開發 (2010-10)",
+      "書名": "車輛工業月刊",
+      "作者群": "林昱成，林哲聰，林紀瑋"
+    },
+    {
+      "論文名稱": "具拘束限制之多目標進化法則於輔助輕軌車懸吊系統之最佳化設計 (2004-07)",
+      "書名": "機械工業雜誌專欄報導",
+      "作者群": "謝念中，張欽宗，林俊良，林昱成"
+    }
+  ],
+  "induAca": [
+    "先進駕駛輔助暨預警系統 (2023-11 to 2024-11)",
+    "Visual SLAM前期演算法評估與驗證 (2022-06 to 2022-12)",
+    "車輛影像安全系統樣本資料建置與分析(III) (2022-03 to 2022-10)",
+    "AI訓練資料庫標註 (2022-02 to 2022-11)",
+    "「輕量化深度學習模型於交通號誌辨識」計畫 (2021-05 to 2021-11)",
+    "「車輛影像安全系統樣本資料建置與分析II」計畫 (2021-04 to 2021-12)",
+    "馬達驅動控制委託研究 (2020-10 to 2020-12)",
+    "深度學習車道線檢測 (2020-08 to 2020-12)",
+    "車輛影像安全系統樣本資料建置與分析 (2020-04 to 2020-12)",
+    "高機動性姿態控制技術研發 (2019-08 to 2020-08)",
+    "微小衛星備援姿態估測器發展計畫 (2018-07 to 2019-07)",
+    "影像處理之齒輪咬合受力區域識別與量化分析 (2016-10 to 2016-12)",
+    "AR導航與路面偵測演算法設計與評估 (2016-09 to 2016-11)",
+    "人工勢場演算技術與避障應用之先期技術評估 (2015-09 to 2015-11)",
+    "基於影像處理之齒輪咬合受力區域識別與量化分析 (2015-08 to 2015-12)",
+    "節能智慧化車電關鍵技術計畫(1/4)-全速域節能駕駛決策與控制系統 (2015-03 to 2015-11)",
+    "廣域透視演算法及時運算模組 (2014-08 to 2014-12)",
+    "新世代個人行動載具與服務(1/3)-低速近距離停走控制理論模型建構及模擬分析 (2014-06 to 2014-11)",
+    "模擬器動感平台模擬技術開發 (2014-04 to 2014-12)",
+    "廣域透視軟體演算法模組 (2014-03 to 2014-07)"
+  ],
+  "perform": [],
+  "reward": [
+    "2024 EE Times 創意挑戰賽 優選獎與最佳人氣獎 (113, 2024-12) - 電子工程專輯| Electronics Engineering Times, Taiwan.",
+    "2024 EE Times 創意挑戰賽 人氣獎與現場展示人氣獎 (113, 2024-12) - 電子工程專輯| Electronics Engineering Times, Taiwan.",
+    "113年度國科會補助大專校院研究獎勵 (113, 2024-11) - 逢甲大學",
+    "113學年度教學傑出獎 (113, 2024-11) - 逢甲大學",
+    "113年中華民國自動控制學會碩士論文獎 佳作 (113, 2024-11) - 中華民國自動控制學會",
+    "112年度國科會工程處控制學門成果發表會 最佳海報獎 (113, 2024-11) - 國家科學及技術委員會(國科會NSTC)控制學門",
+    "2024年國際系統科學與工程研討會(ICSSE 2024) 最佳論文獎 (112, 2024-06) - Taiwan Association of System Science and Engineering (TASSE)",
+    "112年度國科會補助大專校院研究獎勵 (112, 2023-12) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "111年度國科會工程處控制學門成果發表會 特優 (112, 2023-10) - 國家科學及技術委員會(國科會NSTC)控制學門",
+    "2023 未來科技獎 (112, 2023-10) - 國家科學及技術委員會(國科會NSTC)",
+    "2023大專校院機電智慧暨電動載具創意實作競賽 冠軍 (112, 2023-10) - 財團法人臺中市澄德科技教育基金會",
+    "112年中華民國自動控制學會碩士論文獎 佳作 (112, 2023-10) - 中華民國自動控制學會",
+    "2023巨鷗跨界智慧生活智慧應用獎學金(大專組) (111, 2023-07) - 巨鷗科技",
+    "112年度中華民國系統學會第九屆傑出青年獎 (111, 2023-06) - 中華民國系統學會",
+    "2022大專校院機電暨智慧創意實作競賽 (111, 2022-12) - 財團法人臺中市澄德科技教育基金會",
+    "逢甲大學論文著作獎勵傑出獎 (111, 2022-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (111, 2022-11) - 逢甲大學",
+    "110學年度優良導師 (110, 2022-11) - 學生事務處",
+    "111年度國科會補助大專校院研究獎勵 (111, 2022-10) - 研究發展處",
+    "逢甲大學論文著作獎勵傑出獎 (110, 2021-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (110, 2021-11) - 逢甲大學",
+    "2021 全國大專校院智慧創新暨跨域整合創作競賽　數位永續科技組-第三名 (110, 2021-10) - 教育部",
+    "110年度科技部補助大專校院研究獎勵 (110, 2021-10) - 產學合作處",
+    "第21屆旺宏金矽獎應用組- 銅獎、新手獎 (110, 2021-08) - 財團法人旺宏教育基金會",
+    "109學年度教學傑出獎 (109, 2020-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (109, 2020-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (109, 2020-11) - 逢甲大學",
+    "2020大專院校資訊應用服務創新競賽-亞太交流組: 第一名、資訊應用組: 第三名 (109, 2020-11) - 經濟部工業局",
+    "109年度科技部補助大專校院研究獎勵 (109, 2020-10) - 逢甲大學",
+    "第20屆旺宏金矽獎應用組-優選獎 (108, 2020-05) - 財團法人旺宏基金會",
+    "109年度巨鷗科技智慧獎學金(大專組) (108, 2020-05) - 巨鷗科技",
+    "2019 全國大專校院智慧創新暨跨域整合創作競賽 (108, 2019-12) - 教育部",
+    "逢甲大學論文著作獎勵傑出獎 (108, 2019-11) - 逢甲大學",
+    "108學年度科技部補助大專校院研究獎勵 (108, 2019-09) - 逢甲大學",
+    "第一屆智慧聯網專題實作競賽　智慧工業聯網應用組佳作 (107, 2019-07) - 教育部",
+    "科技部107年度大專學生研究計畫研究 創作獎 (107, 2019-07) - 科技部",
+    "106學年度優良導師 (106, 2018-11) - 學生事務處",
+    "逢甲大學論文著作獎勵傑出獎 (107, 2018-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (107, 2018-11) - 逢甲大學",
+    "107年中華民國自動控制學會碩士論文獎 優等 (107, 2018-11) - 中華民國自動控制學會",
+    "107年度科技部補助大專校院研究獎勵 (107, 2018-08) - 逢甲大學",
+    "2017車用電子創新發明競賽-系統實現組:佳作 (106, 2017-11) - 台灣車用電子協會",
+    "2017全國大專院校產學創新實作競賽- 佳作 (106, 2017-11) - 中華民國青年創業協會總會/國立彰化師範大學",
+    "2017全國大專院校產學創新實作競賽- 最佳實作獎 (106, 2017-11) - 中華民國青年創業協會總會/國立彰化師範大學",
+    "106學年度教學績優獎 (106, 2017-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (106, 2017-11) - 逢甲大學",
+    "科技部105年度大專學生研究計畫研究 創作獎 (106, 2017-08) - 科技部",
+    "106年度科技部獎勵特殊優秀人才 (106, 2017-08) - 產學合作處",
+    "2017臺灣國際創新發明暨設計競賽-金牌獎 (105, 2017-07) - 台灣知識創新協會",
+    "2016 全國大專院校產學創新實作競賽　機械與自動化組－傑出獎 (105, 2016-11) - 國立彰化師範大學/彰化縣青年創業協會",
+    "2016車用電子車用電子創新發明競賽-實作組第一名 (105, 2016-11) - 台灣車用電子協會",
+    "論文著作傑出獎 (105, 2016-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (105, 2016-11) - 逢甲大學",
+    "105年中華民國自動控制學會碩士論文獎 佳作 (105, 2016-11) - 中華民國自動控制學會",
+    "2016飆機器人全國智能創新應用大賽 (104, 2016-06) - 普特企業有限公司",
+    "13th International Conference on Automation Technology-Best Paper Award (104, 2015-11) - 中華民國自動化科技學會",
+    "2015iPOE智慧機器人全國競賽-大專院校組第一名 (104, 2015-10) - 台灣創新科技管理發展協會/勁園國際公司",
+    "2015中部地區大專院校產學創新競賽-機械自動化 (104, 2015-10) - 國立彰化師範大學/教育部",
+    "2015Matlab/Simulink技術與應用文章-佳作 (104, 2015-10) - 鈦思科技",
+    "2015智慧校園創意競賽-金牌獎 (104, 2015-08) - 經濟部工業局/資訊工業策進會",
+    "ESNC Winners 2013 - Switzerlan (102, 2013-11) - European Satellite Navigation Competitio",
+    "碩士論文獎第一名 (94, 2005-09) - 中華民國模糊協會",
+    "斐陶斐榮譽會員 (94, 2005-06) - 中華民國斐陶斐榮譽學會"
+  ],
+  "speech": [
+    {
+      "演講題目": "智駕AI驅動與創新應用",
+      "邀請單位": "勤益科技大學電機工程學系",
+      "演講日期": "2024-05"
+    },
+    {
+      "演講題目": "Personalized & Automatic Ear-Acupuncture Treatment System",
+      "邀請單位": "中國醫藥大學附設醫院中醫部",
+      "演講日期": "2023-08"
+    },
+    {
+      "演講題目": "「電機資訊學院」面面觀",
+      "邀請單位": "EDC專長探索中心",
+      "演講日期": "2023-07"
+    },
+    {
+      "演講題目": "自駕車離我們還有多遠！",
+      "邀請單位": "臺灣師範大學電機系專題演講",
+      "演講日期": "2023-03"
+    },
+    {
+      "演講題目": "自駕車離我們還有多遠！",
+      "邀請單位": "陽明交通大學電控研究所",
+      "演講日期": "2023-02"
+    },
+    {
+      "演講題目": "讓車子「看見」行人—車輛影像安全輔助系統",
+      "邀請單位": "EDC專長探索中心",
+      "演講日期": "2023-02"
+    },
+    {
+      "演講題目": "基於深度學習之智慧車輛創新應用",
+      "邀請單位": "財團法人自強工業科技基金會",
+      "演講日期": "2022-10"
+    },
+    {
+      "演講題目": "先進駕駛輔助系統(ADAS)",
+      "邀請單位": "矽統科技股份有限公司",
+      "演講日期": "2022-08"
+    },
+    {
+      "演講題目": "基於深度學習之智慧車輛創新應用",
+      "邀請單位": "AMPA聯盟智慧車發展趨勢研討會",
+      "演講日期": "2022-04"
+    },
+    {
+      "演講題目": "科技人才的搖籃，電資科系到底學什麼?",
+      "邀請單位": "EDC專長探索中心_銘傳大學",
+      "演講日期": "2022-01"
+    },
+    {
+      "演講題目": "先進駕駛輔助系統(ADAS)",
+      "邀請單位": "財團法人自強工業科技基金會",
+      "演講日期": "2021-11"
+    },
+    {
+      "演講題目": "自駕車感測技術與關鍵元件開發",
+      "邀請單位": "經濟部加工出口區管理處臺中分處自駕車及電",
+      "演講日期": "2021-09"
+    },
+    {
+      "演講題目": "Deep Learning-Based Technology in Autonomous Driving Application",
+      "邀請單位": "漢陽大學、吉林大學及逢甲大學三校聯合研究",
+      "演講日期": "2021-09"
+    },
+    {
+      "演講題目": "Keynote Speech: Artificial Intelligence in Autonomous Vehicle Applications",
+      "邀請單位": "The 4th Int. Conf. Smart Veh.Tech., Transportation(2021VTCA)",
+      "演講日期": "2021-05"
+    },
+    {
+      "演講題目": "手持個人化自動穴道刺激系統",
+      "邀請單位": "中國醫藥大學附設醫院中醫部",
+      "演講日期": "2021-02"
+    },
+    {
+      "演講題目": "Keynote Speech: Artificial Intelligence in Autonomous Vehicle Applications",
+      "邀請單位": "9th International Workshop on Soft Computing Application",
+      "演講日期": "2020-11"
+    },
+    {
+      "演講題目": "超乎你我想像的未來車輛與創新應用",
+      "邀請單位": "國立東華大學資訊管理學系",
+      "演講日期": "2020-05"
+    },
+    {
+      "演講題目": "Keynote Speech: Deep Learning-Based Intelligent Perception, Automated Decision Making Techniques for Development of the Localized Active Suspension Systems",
+      "邀請單位": "Mercedes Benz – MOST Technology Exchange Conference",
+      "演講日期": "2019-12"
+    },
+    {
+      "演講題目": "Keynote Speech: Development of the ADAS and Vehicle Control System Based on AI Technology and Embedded Platform Realization",
+      "邀請單位": "國研院－波蘭科技部NCBR",
+      "演講日期": "2019-11"
+    },
+    {
+      "演講題目": "ADAS, AI Smart Sensing, Decision Control Cyber-Physical System",
+      "邀請單位": "吉林大學、漢陽大學、逢甲大學三校學術交流",
+      "演講日期": "2019-08"
+    },
+    {
+      "演講題目": "從ADAS、車聯網、AI人工智慧到無人駕駛",
+      "邀請單位": "國立師範大學車輛與能源工程學位學程",
+      "演講日期": "2018-12"
+    },
+    {
+      "演講題目": "Keynote Speech: Development of the ADAS and Vehicle Control System Based on AI Technology and Embedded Platform Realization",
+      "邀請單位": "Uber Open Summit 2018",
+      "演講日期": "2018-11"
+    },
+    {
+      "演講題目": "從ADAS/車聯網到無人駕駛–智能化、自動化、網聯化",
+      "邀請單位": "工研院產業學院",
+      "演講日期": "2017-04"
+    },
+    {
+      "演講題目": "從ADAS車聯網到無人駕駛",
+      "邀請單位": "台北科技大學車輛系",
+      "演講日期": "2017-04"
+    },
+    {
+      "演講題目": "工業4.0 - 研華科技:智慧廠務能源管理系統案例解析",
+      "邀請單位": "經濟部工業局-工業技術研究院產業學院",
+      "演講日期": "2016-11"
+    },
+    {
+      "演講題目": "從車聯網/ADAS到無人駕駛 –  智能化、自動化、網聯化",
+      "邀請單位": "工研院電光系統所先進微系統與構裝技術聯盟",
+      "演講日期": "2016-10"
+    },
+    {
+      "演講題目": "智慧車輛-車輛影像安全輔助系統課程",
+      "邀請單位": "TEEIA台灣電子設備協會",
+      "演講日期": "2016-07"
+    },
+    {
+      "演講題目": "先進車輛輔助系統-為全自動駕駛鋪路",
+      "邀請單位": "佳世達科技公司-前瞻技術講座",
+      "演講日期": "2016-04"
+    },
+    {
+      "演講題目": "機器人於資電領域整合應用-資工系,電子系",
+      "邀請單位": "逢甲資電學院",
+      "演講日期": "2015-09"
+    },
+    {
+      "演講題目": "智慧車輛安全輔助系統、應用與未來趨勢",
+      "邀請單位": "元智大學電機系",
+      "演講日期": "2014-05"
+    },
+    {
+      "演講題目": "車輛智慧化 - 先進車輛安全輔助系統",
+      "邀請單位": "SOC教師教學專業成長社群教學研討會",
+      "演講日期": "2014-04"
+    }
+  ],
+  "material": [],
+  "tal": [
+    "110年度大專校院教學實踐研究計畫「基於CDIO理念之可程式控制(含實驗)課程改造與實踐」 (110)"
+  ]
+}

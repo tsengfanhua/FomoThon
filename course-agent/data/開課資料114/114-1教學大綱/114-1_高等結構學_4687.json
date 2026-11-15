@@ -1,0 +1,662 @@
+{
+  "success": true,
+  "info": {
+    "yms_year": 114.0,
+    "yms_smester": 1.0,
+    "sub_id": "32400",
+    "cls_id": "CE01310",
+    "scr_dup": "001",
+    "sub_id3": "CE6093",
+    "cls_name": "土木碩一",
+    "cls_ename": "Master's Program, Department of Civil Engineering",
+    "sub_name": "高等結構學",
+    "sub_ename": "ADVANCED STRUCTURAL THEORY",
+    "scr_mso": "選修",
+    "scr_mso_en": "Elective",
+    "scr_credit": 3.0,
+    "scr_periodly": "(二)07-09",
+    "scr_periodly_eng": "(Tue)07-09",
+    "lang_name": "中文                                                      ",
+    "lang_ename": "Chinese",
+    "scr_room": "學415",
+    "scr_room_eng": "XSB415",
+    "scr_teacher": "楊晏瑜",
+    "scr_teacher_eng": "Yen-Yu Yang",
+    "scr_selcode": "4687",
+    "scr_elearning": "全學期",
+    "scr_elearning_en": "Full semester",
+    "scr_hours": "3",
+    "scr_english": "N",
+    "unt_name": null,
+    "unt_ename": null,
+    "link_traminal": null,
+    "link_traminal_en": null,
+    "scr_ldl": "D",
+    "course_mk": "N",
+    "teams_mk": "N",
+    "sub_title": null,
+    "sub_title_en": null,
+    "sub_describe": null,
+    "sub_describe_en": null,
+    "hasDescription": null,
+    "hasInstructor": null,
+    "hasTA": null,
+    "hasTextBooks": null,
+    "hasReadings": null,
+    "hasiSoftwares": null,
+    "hasAssistSoftwares": null,
+    "hasObjective": null,
+    "hasWeeklyScds": null,
+    "hasGradeRules": null,
+    "hasGradeRuleDescribe": null,
+    "hasIntegrity": null,
+    "hasCoursePol": null,
+    "hasCourseRem": null,
+    "hasObjectiveReleation": null,
+    "hasTopicSdgs": null,
+    "hasSubTitleDesc": null
+  },
+  "subTitleDesc": null,
+  "description": {
+    "sub_id3": null,
+    "sub_name": "高等結構學",
+    "sub_ename": "ADVANCED STRUCTURAL THEORY",
+    "describe_ch": "讓學生有系統地掌握結構分析的理論基礎，課程內容包括矩陣的直接勁度法、柔度法與能量法，並與結構分析程式結合，達到理論與實作並重的學習成果。",
+    "describe_eh": "This course provides students with a systematic foundation in structural analysis theories—covering the matrix stiffness method, flexibility method, and energy method—and integrates theoretical learning with structural analysis programming to foster a comprehensive understanding that bridges theory and practice.",
+    "pre_subname": "",
+    "pre_sub_id3": null,
+    "pre_sub_ename": "",
+    "pre_describe": null,
+    "pre_describe_en": null,
+    "scr_credit": 3.0
+  },
+  "targets": [
+    {
+      "seq": 1,
+      "describe_ch": "具備使用物理學、數學、力學與土木工程知識之相關能力。",
+      "describe_en": "Possess the relevant capability to use physics, mathematics, mechanics, and civil engineering knowledge"
+    },
+    {
+      "seq": 2,
+      "describe_ch": "應用管理技術、測量、量測、資訊處理等工具，分析方法與軟體，及土木工程材料的能力。",
+      "describe_en": "Possess the relevant capability to apply management techniques, survey, measurement, information processing tools, analysis methods and software, as well as civil engineering materials"
+    },
+    {
+      "seq": 3,
+      "describe_ch": "具備結構、大地、運輸工程構造物的相關基本設計能力。",
+      "describe_en": "Possess the relevant basic design capability for structure, geotechnics and transportation engineering structures"
+    }
+  ],
+  "teachersInfo": [
+    {
+      "cname": "楊晏瑜",
+      "ename": "Yen-Yu Yang",
+      "period": "(Tue)03-04 土405,(Wed)03-04 土405,(Thu)03  土405",
+      "roletype": 0,
+      "email": "yyyang@o365.fcu.edu.tw",
+      "ext": "3115"
+    },
+    {
+      "cname": "王彥筑",
+      "ename": "WANG YEN CHU",
+      "period": " ",
+      "roletype": 1,
+      "email": "m1216694@o365.fcu.edu.tw",
+      "ext": " "
+    }
+  ],
+  "textBooks": {
+    "yms_year": 114.0,
+    "yms_smester": 1.0,
+    "cls_id": "CE01310",
+    "sub_id": "32400",
+    "scr_dup": "001",
+    "tpb_seq": 1,
+    "tpb_book": "<div>McGuire, W., Gallagher, R.H. and Ziemian, R.D. (2000): <em>Matrix Structural Analysis</em>, 2nd Ed., John Wiley &amp; Sons, New York, N.Y.</div>\n",
+    "tpb_book_en": null
+  },
+  "readings": {
+    "yms_year": 114.0,
+    "yms_smester": 1.0,
+    "cls_id": "CE01310",
+    "sub_id": "32400",
+    "scr_dup": "001",
+    "tpc_seq": 1,
+    "tpc_book": "<div>McGuire, W., Gallagher, R.H. and Ziemian, R.D. (2000): <em>Matrix Structural Analysis</em>, 2nd Ed., John Wiley &amp; Sons, New York, N.Y.</div>\n",
+    "tpc_book_en": null
+  },
+  "iSoftwares": [],
+  "assistSoftwares": [],
+  "weeklyScds": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CE01310",
+      "sub_id": "32400",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "1-4",
+      "tpd_reading": "<div>Direct stiffness method</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": null,
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CE01310",
+      "sub_id": "32400",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "5,6&8",
+      "tpd_reading": "<div>1. 3D beam-column element &ndash; strength of materials approach</div>\n\n<div>\n<div>2. Coordinate transformation; contragredient principle and congruent transformations</div>\n\n<div>3.&nbsp;Solution of linear algebraic equations</div>\n</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": null,
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CE01310",
+      "sub_id": "32400",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "7",
+      "tpd_reading": "<div>Matlab Programming</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": null,
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CE01310",
+      "sub_id": "32400",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "9",
+      "tpd_reading": "<div>Midterm exam</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": null,
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CE01310",
+      "sub_id": "32400",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "10-13",
+      "tpd_reading": "<div>1.&nbsp;Equivalent nodal loads; self-straining problems; support settlement</div>\n\n<div>2.&nbsp;Principle of virtual displacements</div>\n\n<div>3.&nbsp;Principle of virtual displacements in framework analysis</div>\n\n<div>&nbsp;</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": null,
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CE01310",
+      "sub_id": "32400",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "14-17",
+      "tpd_reading": "<div>4.&nbsp;Special analysis procedures</div>\n\n<div>5.&nbsp;Element flexibility matrix&nbsp;</div>\n\n<div>6.&nbsp;Principle of virtual force</div>\n\n<div>7.&nbsp;Flexibility method</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": null,
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CE01310",
+      "sub_id": "32400",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "18",
+      "tpd_reading": "<div>Final Exam</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": null,
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    }
+  ],
+  "gradeRules": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CE01310",
+      "sub_id": "32400",
+      "scr_dup": "001",
+      "evalb_id": "D1",
+      "score_rate": 35,
+      "evalb_memo": "written test",
+      "evalb_memo_en": null,
+      "evalb_name": "期中考",
+      "evalb_name_en": "Midterm examination",
+      "seq": 1
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CE01310",
+      "sub_id": "32400",
+      "scr_dup": "001",
+      "evalb_id": "D2",
+      "score_rate": 35,
+      "evalb_memo": "written test",
+      "evalb_memo_en": null,
+      "evalb_name": "期末考",
+      "evalb_name_en": "Final examination",
+      "seq": 2
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CE01310",
+      "sub_id": "32400",
+      "scr_dup": "001",
+      "evalb_id": "D4",
+      "score_rate": 30,
+      "evalb_memo": "Homework and programming\n (Programming exam score is a weighted percentage for the homework score)",
+      "evalb_memo_en": null,
+      "evalb_name": "作業",
+      "evalb_name_en": "Homework",
+      "seq": 3
+    }
+  ],
+  "gradeRuleDescribe": {
+    "yms_year": 114.0,
+    "yms_smester": 1.0,
+    "cls_id": "CE01310",
+    "sub_id": "32400",
+    "scr_dup": "001",
+    "tpa_score_new": null,
+    "tpa_score_new_en": null,
+    "course_pol": "課堂規則\n考試日期依課程內容及進度表所列。\n期中考、期末考之考試時間為14：10~17：10 (180分鐘)，\n期中期末考之時間不得請假。\n所有考試範圍會在一週前課堂上宣佈並公佈於網路教室ilearn。",
+    "course_pol_en": null,
+    "course_rem": "課程提醒\n因故不克到課須請假，除非正當之特殊理由，不接受事後請假。",
+    "course_rem_en": null,
+    "ais_meno": "<table>\n\t<tbody>\n\t\t<tr>\n\t\t\t<th>綜合說明</th>\n\t\t</tr>\n\t</tbody>\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<div>\n\t\t\t<div>\n\t\t\t<div>\n\t\t\t<div><strong>1.&nbsp;&nbsp; &nbsp;誠信是基本的態度與專業價值的宣言，是將學術理想轉化為行動的行為原則以及落實社會責任。<br />\n\t\t\t2.&nbsp;&nbsp; &nbsp;學術誠信最重要的價值觀之一是思想自由流動與尊重他人智慧財產權之間的平衡。</strong></div>\n\n\t\t\t<ul>\n\t\t\t\t<li>學生應重視及恪遵智慧財產權。不得在學術活動中給予、使用或接受未經授權的援助。使用圖書館館藏、有版權的教材讀本與影音資料。</li>\n\t\t\t\t<li>恪守誠信，積極出席和參與課堂的學習承諾。</li>\n\t\t\t\t<li>學生在課堂上都應尊重每個人，並且在任何時候都應以負責和禮貌的態度行事。</li>\n\t\t\t</ul>\n\n\t\t\t<div><strong>3.&nbsp;&nbsp; &nbsp;學生有責任做好自己的學習任務，並避免一切形式的學術不誠實行為。</strong></div>\n\n\t\t\t<ul>\n\t\t\t\t<li>不作弊：紙筆測驗時，不得交談、窺竊他人試卷或故意便利鄰座竊窺，或有夾帶、抄襲或傳遞資料等情事經發現時，違者該次考試成績以零分計算。並視違者情節，或有替考情事，其舞弊之雙方，將依逢甲大學學生考試辦法、學生獎懲辦法之相關規定處理。</li>\n\t\t\t\t<li>不抄襲：提交原創作品，嚴禁任何形式的抄襲。</li>\n\t\t\t\t<li>不偽造：篡改成績或其他正式文件，如診所就醫證明。</li>\n\t\t\t\t<li>不篡改/不捏造：從實驗中蒐集數據過程，以人為方式創建數據或編造不存在的數據或資料來源，均被視為捏造或篡改</li>\n\t\t\t\t<li>不破壞：破壞他人的藝術品、實驗或設計成果被視為破壞行為。未能為團隊專題做出貢獻，也被視為學術破壞。</li>\n\t\t\t</ul>\n\n\t\t\t<div>以上情況視違者情節，將依逢甲大學學生獎懲辦法等相關規定提送處分。</div>\n\t\t\t</div>\n\t\t\t</div>\n\t\t\t</div>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>\n",
+    "ais_meno_en": null,
+    "ilearn_mk": null
+  },
+  "integrity": {
+    "yms_year": 114.0,
+    "yms_smester": 1.0,
+    "cls_id": "CE01310",
+    "sub_id": "32400",
+    "scr_dup": "001",
+    "tpa_score_new": null,
+    "tpa_score_new_en": null,
+    "course_pol": "課堂規則\n考試日期依課程內容及進度表所列。\n期中考、期末考之考試時間為14：10~17：10 (180分鐘)，\n期中期末考之時間不得請假。\n所有考試範圍會在一週前課堂上宣佈並公佈於網路教室ilearn。",
+    "course_pol_en": null,
+    "course_rem": "課程提醒\n因故不克到課須請假，除非正當之特殊理由，不接受事後請假。",
+    "course_rem_en": null,
+    "ais_meno": "<table>\n\t<tbody>\n\t\t<tr>\n\t\t\t<th>綜合說明</th>\n\t\t</tr>\n\t</tbody>\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<div>\n\t\t\t<div>\n\t\t\t<div>\n\t\t\t<div><strong>1.&nbsp;&nbsp; &nbsp;誠信是基本的態度與專業價值的宣言，是將學術理想轉化為行動的行為原則以及落實社會責任。<br />\n\t\t\t2.&nbsp;&nbsp; &nbsp;學術誠信最重要的價值觀之一是思想自由流動與尊重他人智慧財產權之間的平衡。</strong></div>\n\n\t\t\t<ul>\n\t\t\t\t<li>學生應重視及恪遵智慧財產權。不得在學術活動中給予、使用或接受未經授權的援助。使用圖書館館藏、有版權的教材讀本與影音資料。</li>\n\t\t\t\t<li>恪守誠信，積極出席和參與課堂的學習承諾。</li>\n\t\t\t\t<li>學生在課堂上都應尊重每個人，並且在任何時候都應以負責和禮貌的態度行事。</li>\n\t\t\t</ul>\n\n\t\t\t<div><strong>3.&nbsp;&nbsp; &nbsp;學生有責任做好自己的學習任務，並避免一切形式的學術不誠實行為。</strong></div>\n\n\t\t\t<ul>\n\t\t\t\t<li>不作弊：紙筆測驗時，不得交談、窺竊他人試卷或故意便利鄰座竊窺，或有夾帶、抄襲或傳遞資料等情事經發現時，違者該次考試成績以零分計算。並視違者情節，或有替考情事，其舞弊之雙方，將依逢甲大學學生考試辦法、學生獎懲辦法之相關規定處理。</li>\n\t\t\t\t<li>不抄襲：提交原創作品，嚴禁任何形式的抄襲。</li>\n\t\t\t\t<li>不偽造：篡改成績或其他正式文件，如診所就醫證明。</li>\n\t\t\t\t<li>不篡改/不捏造：從實驗中蒐集數據過程，以人為方式創建數據或編造不存在的數據或資料來源，均被視為捏造或篡改</li>\n\t\t\t\t<li>不破壞：破壞他人的藝術品、實驗或設計成果被視為破壞行為。未能為團隊專題做出貢獻，也被視為學術破壞。</li>\n\t\t\t</ul>\n\n\t\t\t<div>以上情況視違者情節，將依逢甲大學學生獎懲辦法等相關規定提送處分。</div>\n\t\t\t</div>\n\t\t\t</div>\n\t\t\t</div>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>\n",
+    "ais_meno_en": null,
+    "ilearn_mk": null
+  },
+  "policy": {
+    "yms_year": 114.0,
+    "yms_smester": 1.0,
+    "cls_id": "CE01310",
+    "sub_id": "32400",
+    "scr_dup": "001",
+    "tpa_score_new": null,
+    "tpa_score_new_en": null,
+    "course_pol": "課堂規則\n考試日期依課程內容及進度表所列。\n期中考、期末考之考試時間為14：10~17：10 (180分鐘)，\n期中期末考之時間不得請假。\n所有考試範圍會在一週前課堂上宣佈並公佈於網路教室ilearn。",
+    "course_pol_en": null,
+    "course_rem": "課程提醒\n因故不克到課須請假，除非正當之特殊理由，不接受事後請假。",
+    "course_rem_en": null,
+    "ais_meno": "<table>\n\t<tbody>\n\t\t<tr>\n\t\t\t<th>綜合說明</th>\n\t\t</tr>\n\t</tbody>\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<div>\n\t\t\t<div>\n\t\t\t<div>\n\t\t\t<div><strong>1.&nbsp;&nbsp; &nbsp;誠信是基本的態度與專業價值的宣言，是將學術理想轉化為行動的行為原則以及落實社會責任。<br />\n\t\t\t2.&nbsp;&nbsp; &nbsp;學術誠信最重要的價值觀之一是思想自由流動與尊重他人智慧財產權之間的平衡。</strong></div>\n\n\t\t\t<ul>\n\t\t\t\t<li>學生應重視及恪遵智慧財產權。不得在學術活動中給予、使用或接受未經授權的援助。使用圖書館館藏、有版權的教材讀本與影音資料。</li>\n\t\t\t\t<li>恪守誠信，積極出席和參與課堂的學習承諾。</li>\n\t\t\t\t<li>學生在課堂上都應尊重每個人，並且在任何時候都應以負責和禮貌的態度行事。</li>\n\t\t\t</ul>\n\n\t\t\t<div><strong>3.&nbsp;&nbsp; &nbsp;學生有責任做好自己的學習任務，並避免一切形式的學術不誠實行為。</strong></div>\n\n\t\t\t<ul>\n\t\t\t\t<li>不作弊：紙筆測驗時，不得交談、窺竊他人試卷或故意便利鄰座竊窺，或有夾帶、抄襲或傳遞資料等情事經發現時，違者該次考試成績以零分計算。並視違者情節，或有替考情事，其舞弊之雙方，將依逢甲大學學生考試辦法、學生獎懲辦法之相關規定處理。</li>\n\t\t\t\t<li>不抄襲：提交原創作品，嚴禁任何形式的抄襲。</li>\n\t\t\t\t<li>不偽造：篡改成績或其他正式文件，如診所就醫證明。</li>\n\t\t\t\t<li>不篡改/不捏造：從實驗中蒐集數據過程，以人為方式創建數據或編造不存在的數據或資料來源，均被視為捏造或篡改</li>\n\t\t\t\t<li>不破壞：破壞他人的藝術品、實驗或設計成果被視為破壞行為。未能為團隊專題做出貢獻，也被視為學術破壞。</li>\n\t\t\t</ul>\n\n\t\t\t<div>以上情況視違者情節，將依逢甲大學學生獎懲辦法等相關規定提送處分。</div>\n\t\t\t</div>\n\t\t\t</div>\n\t\t\t</div>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>\n",
+    "ais_meno_en": null,
+    "ilearn_mk": null
+  },
+  "courseBankC": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CE01310",
+      "sub_id": "32400",
+      "scr_dup": "001",
+      "seq": 1,
+      "describe_ch": "具備使用物理學、數學、力學與土木工程知識之相關能力。",
+      "describe_en": "Possess the relevant capability to use physics, mathematics, mechanics, and civil engineering knowledge",
+      "core_id": "A",
+      "core_item": "具備運用與研發土木工程相關領域的專業知識及科技。",
+      "core_eng": "Possess utilization and R & D of civil engineering related field’s professional knowledge and technology",
+      "core_level": "2 ",
+      "strgy": [
+        "01"
+      ],
+      "evalb": [
+        "D1",
+        "D2"
+      ],
+      "strgy_name": [
+        "課堂授課"
+      ],
+      "strgy_name_en": [
+        "Classroom instruction"
+      ],
+      "evalb_name": [
+        "期中考",
+        "期末考"
+      ],
+      "evalb_name_en": [
+        "Midterm examination",
+        "Final examination"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CE01310",
+          "sub_id": "32400",
+          "scr_dup": "001",
+          "seq": 1,
+          "strgy_id": "01",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CE01310",
+          "sub_id": "32400",
+          "scr_dup": "001",
+          "seq": 1,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D1",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CE01310",
+          "sub_id": "32400",
+          "scr_dup": "001",
+          "seq": 1,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D2",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CE01310",
+      "sub_id": "32400",
+      "scr_dup": "001",
+      "seq": 2,
+      "describe_ch": "應用管理技術、測量、量測、資訊處理等工具，分析方法與軟體，及土木工程材料的能力。",
+      "describe_en": "Possess the relevant capability to apply management techniques, survey, measurement, information processing tools, analysis methods and software, as well as civil engineering materials",
+      "core_id": "C",
+      "core_item": "具備撰寫專業報告或論文之能力。",
+      "core_eng": "Possess the capability to write professional reports or papers",
+      "core_level": "2 ",
+      "strgy": [
+        "01",
+        "15"
+      ],
+      "evalb": [
+        "D2",
+        "D4"
+      ],
+      "strgy_name": [
+        "課堂授課",
+        "資訊技術"
+      ],
+      "strgy_name_en": [
+        "Classroom instruction",
+        "Information Technology"
+      ],
+      "evalb_name": [
+        "期末考",
+        "作業"
+      ],
+      "evalb_name_en": [
+        "Final examination",
+        "Homework"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CE01310",
+          "sub_id": "32400",
+          "scr_dup": "001",
+          "seq": 2,
+          "strgy_id": "01",
+          "strgy_name": null,
+          "strgy_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CE01310",
+          "sub_id": "32400",
+          "scr_dup": "001",
+          "seq": 2,
+          "strgy_id": "15",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CE01310",
+          "sub_id": "32400",
+          "scr_dup": "001",
+          "seq": 2,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D2",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CE01310",
+          "sub_id": "32400",
+          "scr_dup": "001",
+          "seq": 2,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D4",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CE01310",
+      "sub_id": "32400",
+      "scr_dup": "001",
+      "seq": 3,
+      "describe_ch": "具備結構、大地、運輸工程構造物的相關基本設計能力。",
+      "describe_en": "Possess the relevant basic design capability for structure, geotechnics and transportation engineering structures",
+      "core_id": "D",
+      "core_item": "具備創新思考及獨立解決土木工程相關領域專業問題之能力。",
+      "core_eng": "Possess the capability for innovative thinking and independently solving professional problems of civil engineering related fields",
+      "core_level": "2 ",
+      "strgy": [
+        "01"
+      ],
+      "evalb": [
+        "D2"
+      ],
+      "strgy_name": [
+        "課堂授課"
+      ],
+      "strgy_name_en": [
+        "Classroom instruction"
+      ],
+      "evalb_name": [
+        "期末考"
+      ],
+      "evalb_name_en": [
+        "Final examination"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CE01310",
+          "sub_id": "32400",
+          "scr_dup": "001",
+          "seq": 3,
+          "strgy_id": "01",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CE01310",
+          "sub_id": "32400",
+          "scr_dup": "001",
+          "seq": 3,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D2",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    }
+  ],
+  "topicSdgs": [],
+  "learnHours": {
+    "total": 0.0,
+    "tpdOnlineAsyTotal": 0.0,
+    "tpdOnlineSynTotal": 0.0,
+    "tpdOnlineFaceTotal": 0.0,
+    "asySynInTotalPercent": 0.0
+  },
+  "crossVerYear": 114
+}

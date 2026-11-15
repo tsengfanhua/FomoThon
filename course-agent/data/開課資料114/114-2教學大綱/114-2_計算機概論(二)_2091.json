@@ -1,0 +1,1281 @@
+{
+  "success": true,
+  "info": {
+    "yms_year": 114.0,
+    "yms_smester": 2.0,
+    "sub_id": "27420",
+    "cls_id": "CI05111",
+    "scr_dup": "001",
+    "sub_id3": "IEE1001",
+    "cls_name": "資電一甲",
+    "cls_ename": "Honor Program of Information and Electrical Engineering",
+    "sub_name": "計算機概論(二)",
+    "sub_ename": "INTRODUCTION TO COMPUTER(2)",
+    "scr_mso": "必修",
+    "scr_mso_en": "Required",
+    "scr_credit": 3.0,
+    "scr_periodly": "(二)02     (五)06-07",
+    "scr_periodly_eng": "(Tue)02     (Fri)06-07",
+    "lang_name": "英語                                                      ",
+    "lang_ename": "English",
+    "scr_room": "資電402,資電102",
+    "scr_room_eng": "IEB402,IEB102",
+    "scr_teacher": "洪振偉",
+    "scr_teacher_eng": "Chen-Wei Hung",
+    "scr_selcode": "2091",
+    "scr_elearning": "全學期",
+    "scr_elearning_en": "Full semester",
+    "scr_hours": "3",
+    "scr_english": "N",
+    "unt_name": null,
+    "unt_ename": null,
+    "link_traminal": null,
+    "link_traminal_en": null,
+    "scr_ldl": "D",
+    "course_mk": "N",
+    "teams_mk": "N",
+    "sub_title": null,
+    "sub_title_en": null,
+    "sub_describe": null,
+    "sub_describe_en": null,
+    "hasDescription": null,
+    "hasInstructor": null,
+    "hasTA": null,
+    "hasTextBooks": null,
+    "hasReadings": null,
+    "hasiSoftwares": null,
+    "hasAssistSoftwares": null,
+    "hasObjective": null,
+    "hasWeeklyScds": null,
+    "hasGradeRules": null,
+    "hasGradeRuleDescribe": null,
+    "hasIntegrity": null,
+    "hasCoursePol": null,
+    "hasCourseRem": null,
+    "hasObjectiveReleation": null,
+    "hasTopicSdgs": null,
+    "hasTopicAiIndicators": null,
+    "hasSubTitleDesc": null
+  },
+  "subTitleDesc": null,
+  "description": {
+    "sub_id3": null,
+    "sub_name": "計算機概論(二)",
+    "sub_ename": "INTRODUCTION TO COMPUTER(2)",
+    "describe_ch": "本課程的目標在於讓學生廣泛地認識電腦科學相關的主題，概述計算機中軟體與硬體相關的基本知識。課程主要為電腦原理的介紹，及使用計算機來解決方法論與演算法的問題。　",
+    "describe_eh": "The purpose of this course is to make the students know the related topics of Computer Science, and to state the knowledge of software/hardware in Computer Science. The course mainly focuses on the introduction of the computer theories, and the use of computer to solve the problems of methodology and algorithm.",
+    "pre_subname": "",
+    "pre_sub_id3": null,
+    "pre_sub_ename": "",
+    "pre_describe": null,
+    "pre_describe_en": null,
+    "scr_credit": 3.0
+  },
+  "targets": [
+    {
+      "seq": 1,
+      "describe_ch": "1介紹計算機相關軟硬體基本術語及觀念，使學生能以專業的詞彙做溝通",
+      "describe_en": "1. To introduce the basic technology terms of computer to help students to communicate with professional engineer."
+    },
+    {
+      "seq": 2,
+      "describe_ch": "2 使學生瞭解計算機運作原理以及各項影響計算機效能的關鍵技術",
+      "describe_en": "2. To teach students to understand computer hardware processing model and know the factors that will influence the performance of computer."
+    },
+    {
+      "seq": 3,
+      "describe_ch": "3使學生能瞭解程式語言的發展趨勢及相關技巧，以及發展應用程式的能力",
+      "describe_en": "3. The knowledge about programming language is introduced to make students to understand the related issues about the developing for computer applications."
+    },
+    {
+      "seq": 4,
+      "describe_ch": "4. 以C及C++語言的介紹為主軸，介紹諸項程式設計的技術與思考習慣",
+      "describe_en": "4. By introducing the C and C++ language to introduce the skills of programming."
+    },
+    {
+      "seq": 5,
+      "describe_ch": "5. 訓練學生程式設計的邏輯思維，建立日後專業程式撰寫的基礎",
+      "describe_en": "5. Training the capability of logic reasoning and building the basics for professional programming."
+    },
+    {
+      "seq": 6,
+      "describe_ch": "6. 增進學生以專業的知識思維以解決問題，奠定優良的工程師專業素養",
+      "describe_en": "6. To improve students' ability for professional thinking and to establish good features to be a good engineer."
+    }
+  ],
+  "teachersInfo": [
+    {
+      "cname": "洪振偉",
+      "ename": "Chen-Wei Hung",
+      "period": "(Mon)03-04 資電215,(Tue)03-04 資電215",
+      "roletype": 0,
+      "email": "zwhong@o365.fcu.edu.tw",
+      "ext": "3743"
+    }
+  ],
+  "textBooks": {
+    "yms_year": 114.0,
+    "yms_smester": 2.0,
+    "cls_id": "CI05111",
+    "sub_id": "27420",
+    "scr_dup": "001",
+    "tpb_seq": 1,
+    "tpb_book": "<div>計算機概論 - AI與科技的共舞。</div>\n\n<div>趙坤茂,&nbsp;張雅惠,&nbsp;黃俊穎,&nbsp;黃寶萱&nbsp;</div>\n\n<div>全華圖書</div>\n\n<div>&nbsp;</div>\n",
+    "tpb_book_en": "<div>計算機概論：AI與科技的共舞(第19版)&nbsp;</div>\n\n<div>Introduction to Computer Science</div>\n\n<div>&nbsp;趙坤茂,&nbsp;張雅惠,&nbsp;黃俊穎,&nbsp;黃寶萱</div>\n\n<div>全華圖書&nbsp;</div>\n"
+  },
+  "readings": {
+    "yms_year": 114.0,
+    "yms_smester": 2.0,
+    "cls_id": "CI05111",
+    "sub_id": "27420",
+    "scr_dup": "001",
+    "tpc_seq": 1,
+    "tpc_book": "<div>原文書目請參考以下</div>\n\n<div>Foundations of Computer Science (ISBN: 1473751047)</div>\n",
+    "tpc_book_en": "<div>Foundations of Computer Science (ISBN: 1473751047)</div>\n"
+  },
+  "iSoftwares": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CI05111",
+      "sub_id": "27420",
+      "scr_dup": "001",
+      "seq_no": 1,
+      "soft_kind": "2",
+      "soft_name": "Wordwall\nSlido",
+      "soft_memo": "<div>設計線上即時小測驗，學生可掃描QR code進行測驗</div>\n",
+      "soft_name_en": null,
+      "soft_memo_en": " "
+    }
+  ],
+  "assistSoftwares": [],
+  "weeklyScds": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CI05111",
+      "sub_id": "27420",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "1-2",
+      "tpd_reading": "<div>Unit 6 - 網際網路</div>\n",
+      "tpd_reading_en": "<div>Internet</div>\n",
+      "tpd_learn": " ",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": 4.0,
+      "tpd_online_face": 6.0,
+      "tpd_week_en": "1-2",
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CI05111",
+      "sub_id": "27420",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "3-4",
+      "tpd_reading": "<div>Unit 8&nbsp;- 網路安全</div>\n\n<div>&nbsp;</div>\n",
+      "tpd_reading_en": "<div>Network Security</div>\n",
+      "tpd_learn": " ",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": 4.0,
+      "tpd_online_face": 8.0,
+      "tpd_week_en": "3-4",
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CI05111",
+      "sub_id": "27420",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "5-6",
+      "tpd_reading": "<div>Unit 9 - 程式語言</div>\n",
+      "tpd_reading_en": "<div>Programming Language</div>\n",
+      "tpd_learn": "<div>Quiz 1</div>\n",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": "Quiz",
+      "tpd_online_asy": null,
+      "tpd_online_syn": 4.0,
+      "tpd_online_face": 8.0,
+      "tpd_week_en": "5-6",
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CI05111",
+      "sub_id": "27420",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "7-8",
+      "tpd_reading": "<div>Unit 10 - 資料結構</div>\n",
+      "tpd_reading_en": "<div>Data Structure</div>\n",
+      "tpd_learn": " ",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": 4.0,
+      "tpd_online_face": 8.0,
+      "tpd_week_en": "7-8",
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CI05111",
+      "sub_id": "27420",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": null,
+      "tpd_reading": null,
+      "tpd_reading_en": "<div>Midterm exam</div>\n",
+      "tpd_learn": null,
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": 4.0,
+      "tpd_online_face": null,
+      "tpd_week_en": "9-10",
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CI05111",
+      "sub_id": "27420",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "9-10",
+      "tpd_reading": "<div>期中考核</div>\n",
+      "tpd_reading_en": "<div>Algorithm</div>\n",
+      "tpd_learn": " ",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": 4.0,
+      "tpd_online_face": 8.0,
+      "tpd_week_en": "11-12",
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CI05111",
+      "sub_id": "27420",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": null,
+      "tpd_reading": null,
+      "tpd_reading_en": "<div>Database</div>\n",
+      "tpd_learn": null,
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": 4.0,
+      "tpd_online_face": 8.0,
+      "tpd_week_en": "13-14",
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CI05111",
+      "sub_id": "27420",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "11-12",
+      "tpd_reading": "<div>Unit 11 - 演算法</div>\n",
+      "tpd_reading_en": "<div>Software Engineering</div>\n",
+      "tpd_learn": " ",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": 4.0,
+      "tpd_online_face": 8.0,
+      "tpd_week_en": "15-16",
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CI05111",
+      "sub_id": "27420",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "13-14",
+      "tpd_reading": "<div>Unit 12&nbsp;- 資料庫</div>\n",
+      "tpd_reading_en": "<div>Final exam</div>\n",
+      "tpd_learn": "<div>Quiz 2</div>\n",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": 4.0,
+      "tpd_online_face": null,
+      "tpd_week_en": "17-18",
+      "mode": 0
+    }
+  ],
+  "gradeRules": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CI05111",
+      "sub_id": "27420",
+      "scr_dup": "001",
+      "evalb_id": "D1",
+      "score_rate": 30,
+      "evalb_memo": "紙筆考試",
+      "evalb_memo_en": "Paper exam",
+      "evalb_name": "期中考",
+      "evalb_name_en": "Midterm examination",
+      "seq": 1
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CI05111",
+      "sub_id": "27420",
+      "scr_dup": "001",
+      "evalb_id": "D2",
+      "score_rate": 30,
+      "evalb_memo": "紙筆考試",
+      "evalb_memo_en": "Paper exam",
+      "evalb_name": "期末考",
+      "evalb_name_en": "Final examination",
+      "seq": 2
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CI05111",
+      "sub_id": "27420",
+      "scr_dup": "001",
+      "evalb_id": "L4",
+      "score_rate": 40,
+      "evalb_memo": "含分組討論簡報、平時上機實習參與度、出席狀況",
+      "evalb_memo_en": "Group discussion and presentation, attendace rate, etc.",
+      "evalb_name": "出席狀況",
+      "evalb_name_en": "Attendances",
+      "seq": 3
+    }
+  ],
+  "gradeRuleDescribe": {
+    "yms_year": 114.0,
+    "yms_smester": 2.0,
+    "cls_id": "CI05111",
+    "sub_id": "27420",
+    "scr_dup": "001",
+    "tpa_score_new": "<div>評分標準含平時表現、期中考、期末考</div>\n\n<div>&nbsp;</div>\n\n<div>期中考與期末考採取紙筆考試</div>\n\n<div>&nbsp;</div>\n",
+    "tpa_score_new_en": "<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>The grading components include coursework, the midterm exam, and the final exam.<br />\nBoth the midterm and final exams will be administered as paper&nbsp;tests.</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n",
+    "course_pol": "課堂行為\n\n1. 學生應準時出席上課。如果您的上課時間，無法按時到課，請不要選課。 除非您生病或有緊急情況，否則應在上課前，要準時到達教室，並坐在位子上。如果您有某種原因必須提早下課，請提前告知我。\n2. 本課程實施點名到課率至少80%，未達標準則平時成績以零分計算並且期末考扣考。\n3. 上課時請勿講話、閱讀、睡覺或做其他非本課程相關作業，除分組進行討論外，否則應盡量減少邊際對話。\n4. 允許使用筆記型電腦或平板等載具，進行課堂記筆記，否則應將其收起。\n5. 要確保在上課時，關閉手機，如全程上課期間過度使用手機者將視為曠課。\n6. 不得戴耳機上課。\n7. 穿著整潔，不要暴露。",
+    "course_pol_en": "Classroom Conduct\n\n1. Students are expected to attend class on time. If you cannot arrive punctually for this course, please do not enroll. Unless you are ill or facing an emergency, you should arrive before class begins, be seated, and ready for instruction. If you must leave early for any reason, please inform me in advance.\n2. Attendance will be taken. Students must attend at least 80% of class meetings. Those who do not meet this requirement will receive a zero for class participation and will not be allowed to take the final exam.\n3. During class, please refrain from talking, reading, sleeping, or doing work unrelated to this course. Except during group discussions, side conversations should be kept to a minimum.\n4. Laptops or tablets may be used for taking notes. Otherwise, they should be put away.\n5. Please ensure that your mobile phone is turned off during class. Excessive phone use during the entire class session will be considered an absence.\n6. Wearing earphones in class is not permitted.\n7. Students should dress neatly and avoid overly revealing clothing.",
+    "course_rem": "1. 請避免使用 iLearn 2的聊天功能與授課教師聯繫重要事務。\n2. 各項聯繫請盡量使用電子郵件。\n3. 電子郵寄中請詳細闡明寄件者與信件主旨，信件內容起頭請說明寄件者姓名與班級，並學習以\"您\"稱為授課教師。",
+    "course_rem_en": "1. Please avoid using the iLearn 2 chat function to communicate important matters with the instructor.\n2. For all course-related communication, please use email whenever possible.\n3. In your emails, clearly specify the sender and the subject of the message. At the beginning of the email, please state your name and class, and address the instructor respectfully using the appropriate honorific form.",
+    "ais_meno": "<div>學習必須以誠信為基礎，在作業、測驗或考試中作弊或抄襲的學生或協助他人的行為，該次成績以零分計，若是累犯，將依逢甲大學學生獎懲辦法提送。\n<ul>\n\t<li>各項考試如小考、期中考、期末考時如果抄襲他人的答案則視為作弊。</li>\n\t<li>繳交作業或是各項報告時若抄襲全部或部分由他人撰寫的內容(含直接複製線上得到的內容)，則被視為作弊。</li>\n</ul>\n</div>\n",
+    "ais_meno_en": "<div>Learning must be grounded in academic integrity. Students who cheat or plagiarize on assignments, quizzes, or exams&mdash;or assist others in doing so&mdash;will receive a zero for that task. Repeat offenders will be referred for disciplinary action in accordance with Feng Chia University&rsquo;s Student Conduct Regulations.</div>\n\n<ul>\n\t<li>\n\t<div>Cheating includes copying answers from others during quizzes, midterm exams, or final exams.</div>\n\t</li>\n\t<li>\n\t<div>Plagiarism includes submitting assignments or reports that contain, in whole or in part, content written by someone else (including material directly copied from online sources).</div>\n\t</li>\n</ul>\n",
+    "ilearn_mk": "N"
+  },
+  "integrity": {
+    "yms_year": 114.0,
+    "yms_smester": 2.0,
+    "cls_id": "CI05111",
+    "sub_id": "27420",
+    "scr_dup": "001",
+    "tpa_score_new": "<div>評分標準含平時表現、期中考、期末考</div>\n\n<div>&nbsp;</div>\n\n<div>期中考與期末考採取紙筆考試</div>\n\n<div>&nbsp;</div>\n",
+    "tpa_score_new_en": "<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>The grading components include coursework, the midterm exam, and the final exam.<br />\nBoth the midterm and final exams will be administered as paper&nbsp;tests.</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n",
+    "course_pol": "課堂行為\n\n1. 學生應準時出席上課。如果您的上課時間，無法按時到課，請不要選課。 除非您生病或有緊急情況，否則應在上課前，要準時到達教室，並坐在位子上。如果您有某種原因必須提早下課，請提前告知我。\n2. 本課程實施點名到課率至少80%，未達標準則平時成績以零分計算並且期末考扣考。\n3. 上課時請勿講話、閱讀、睡覺或做其他非本課程相關作業，除分組進行討論外，否則應盡量減少邊際對話。\n4. 允許使用筆記型電腦或平板等載具，進行課堂記筆記，否則應將其收起。\n5. 要確保在上課時，關閉手機，如全程上課期間過度使用手機者將視為曠課。\n6. 不得戴耳機上課。\n7. 穿著整潔，不要暴露。",
+    "course_pol_en": "Classroom Conduct\n\n1. Students are expected to attend class on time. If you cannot arrive punctually for this course, please do not enroll. Unless you are ill or facing an emergency, you should arrive before class begins, be seated, and ready for instruction. If you must leave early for any reason, please inform me in advance.\n2. Attendance will be taken. Students must attend at least 80% of class meetings. Those who do not meet this requirement will receive a zero for class participation and will not be allowed to take the final exam.\n3. During class, please refrain from talking, reading, sleeping, or doing work unrelated to this course. Except during group discussions, side conversations should be kept to a minimum.\n4. Laptops or tablets may be used for taking notes. Otherwise, they should be put away.\n5. Please ensure that your mobile phone is turned off during class. Excessive phone use during the entire class session will be considered an absence.\n6. Wearing earphones in class is not permitted.\n7. Students should dress neatly and avoid overly revealing clothing.",
+    "course_rem": "1. 請避免使用 iLearn 2的聊天功能與授課教師聯繫重要事務。\n2. 各項聯繫請盡量使用電子郵件。\n3. 電子郵寄中請詳細闡明寄件者與信件主旨，信件內容起頭請說明寄件者姓名與班級，並學習以\"您\"稱為授課教師。",
+    "course_rem_en": "1. Please avoid using the iLearn 2 chat function to communicate important matters with the instructor.\n2. For all course-related communication, please use email whenever possible.\n3. In your emails, clearly specify the sender and the subject of the message. At the beginning of the email, please state your name and class, and address the instructor respectfully using the appropriate honorific form.",
+    "ais_meno": "<div>學習必須以誠信為基礎，在作業、測驗或考試中作弊或抄襲的學生或協助他人的行為，該次成績以零分計，若是累犯，將依逢甲大學學生獎懲辦法提送。\n<ul>\n\t<li>各項考試如小考、期中考、期末考時如果抄襲他人的答案則視為作弊。</li>\n\t<li>繳交作業或是各項報告時若抄襲全部或部分由他人撰寫的內容(含直接複製線上得到的內容)，則被視為作弊。</li>\n</ul>\n</div>\n",
+    "ais_meno_en": "<div>Learning must be grounded in academic integrity. Students who cheat or plagiarize on assignments, quizzes, or exams&mdash;or assist others in doing so&mdash;will receive a zero for that task. Repeat offenders will be referred for disciplinary action in accordance with Feng Chia University&rsquo;s Student Conduct Regulations.</div>\n\n<ul>\n\t<li>\n\t<div>Cheating includes copying answers from others during quizzes, midterm exams, or final exams.</div>\n\t</li>\n\t<li>\n\t<div>Plagiarism includes submitting assignments or reports that contain, in whole or in part, content written by someone else (including material directly copied from online sources).</div>\n\t</li>\n</ul>\n",
+    "ilearn_mk": "N"
+  },
+  "policy": {
+    "yms_year": 114.0,
+    "yms_smester": 2.0,
+    "cls_id": "CI05111",
+    "sub_id": "27420",
+    "scr_dup": "001",
+    "tpa_score_new": "<div>評分標準含平時表現、期中考、期末考</div>\n\n<div>&nbsp;</div>\n\n<div>期中考與期末考採取紙筆考試</div>\n\n<div>&nbsp;</div>\n",
+    "tpa_score_new_en": "<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>The grading components include coursework, the midterm exam, and the final exam.<br />\nBoth the midterm and final exams will be administered as paper&nbsp;tests.</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n",
+    "course_pol": "課堂行為\n\n1. 學生應準時出席上課。如果您的上課時間，無法按時到課，請不要選課。 除非您生病或有緊急情況，否則應在上課前，要準時到達教室，並坐在位子上。如果您有某種原因必須提早下課，請提前告知我。\n2. 本課程實施點名到課率至少80%，未達標準則平時成績以零分計算並且期末考扣考。\n3. 上課時請勿講話、閱讀、睡覺或做其他非本課程相關作業，除分組進行討論外，否則應盡量減少邊際對話。\n4. 允許使用筆記型電腦或平板等載具，進行課堂記筆記，否則應將其收起。\n5. 要確保在上課時，關閉手機，如全程上課期間過度使用手機者將視為曠課。\n6. 不得戴耳機上課。\n7. 穿著整潔，不要暴露。",
+    "course_pol_en": "Classroom Conduct\n\n1. Students are expected to attend class on time. If you cannot arrive punctually for this course, please do not enroll. Unless you are ill or facing an emergency, you should arrive before class begins, be seated, and ready for instruction. If you must leave early for any reason, please inform me in advance.\n2. Attendance will be taken. Students must attend at least 80% of class meetings. Those who do not meet this requirement will receive a zero for class participation and will not be allowed to take the final exam.\n3. During class, please refrain from talking, reading, sleeping, or doing work unrelated to this course. Except during group discussions, side conversations should be kept to a minimum.\n4. Laptops or tablets may be used for taking notes. Otherwise, they should be put away.\n5. Please ensure that your mobile phone is turned off during class. Excessive phone use during the entire class session will be considered an absence.\n6. Wearing earphones in class is not permitted.\n7. Students should dress neatly and avoid overly revealing clothing.",
+    "course_rem": "1. 請避免使用 iLearn 2的聊天功能與授課教師聯繫重要事務。\n2. 各項聯繫請盡量使用電子郵件。\n3. 電子郵寄中請詳細闡明寄件者與信件主旨，信件內容起頭請說明寄件者姓名與班級，並學習以\"您\"稱為授課教師。",
+    "course_rem_en": "1. Please avoid using the iLearn 2 chat function to communicate important matters with the instructor.\n2. For all course-related communication, please use email whenever possible.\n3. In your emails, clearly specify the sender and the subject of the message. At the beginning of the email, please state your name and class, and address the instructor respectfully using the appropriate honorific form.",
+    "ais_meno": "<div>學習必須以誠信為基礎，在作業、測驗或考試中作弊或抄襲的學生或協助他人的行為，該次成績以零分計，若是累犯，將依逢甲大學學生獎懲辦法提送。\n<ul>\n\t<li>各項考試如小考、期中考、期末考時如果抄襲他人的答案則視為作弊。</li>\n\t<li>繳交作業或是各項報告時若抄襲全部或部分由他人撰寫的內容(含直接複製線上得到的內容)，則被視為作弊。</li>\n</ul>\n</div>\n",
+    "ais_meno_en": "<div>Learning must be grounded in academic integrity. Students who cheat or plagiarize on assignments, quizzes, or exams&mdash;or assist others in doing so&mdash;will receive a zero for that task. Repeat offenders will be referred for disciplinary action in accordance with Feng Chia University&rsquo;s Student Conduct Regulations.</div>\n\n<ul>\n\t<li>\n\t<div>Cheating includes copying answers from others during quizzes, midterm exams, or final exams.</div>\n\t</li>\n\t<li>\n\t<div>Plagiarism includes submitting assignments or reports that contain, in whole or in part, content written by someone else (including material directly copied from online sources).</div>\n\t</li>\n</ul>\n",
+    "ilearn_mk": "N"
+  },
+  "courseBankC": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CI05111",
+      "sub_id": "27420",
+      "scr_dup": "001",
+      "seq": 1,
+      "describe_ch": "1介紹計算機相關軟硬體基本術語及觀念，使學生能以專業的詞彙做溝通",
+      "describe_en": "1. To introduce the basic technology terms of computer to help students to communicate with professional engineer.",
+      "core_id": null,
+      "core_item": null,
+      "core_eng": null,
+      "core_level": "1 ",
+      "strgy": [
+        "01",
+        "05"
+      ],
+      "evalb": [
+        "D1",
+        "D2",
+        "D3",
+        "D4"
+      ],
+      "strgy_name": [
+        "課堂授課",
+        "實驗實習"
+      ],
+      "strgy_name_en": [
+        "Classroom instruction",
+        "Experimental practice"
+      ],
+      "evalb_name": [
+        "期中考",
+        "期末考",
+        "隨堂測驗",
+        "作業"
+      ],
+      "evalb_name_en": [
+        "Midterm examination",
+        "Final examination",
+        "In-class examination",
+        "Homework"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CI05111",
+          "sub_id": "27420",
+          "scr_dup": "001",
+          "seq": 1,
+          "strgy_id": "01",
+          "strgy_name": null,
+          "strgy_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CI05111",
+          "sub_id": "27420",
+          "scr_dup": "001",
+          "seq": 1,
+          "strgy_id": "05",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CI05111",
+          "sub_id": "27420",
+          "scr_dup": "001",
+          "seq": 1,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D1",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CI05111",
+          "sub_id": "27420",
+          "scr_dup": "001",
+          "seq": 1,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D2",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CI05111",
+          "sub_id": "27420",
+          "scr_dup": "001",
+          "seq": 1,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D3",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CI05111",
+          "sub_id": "27420",
+          "scr_dup": "001",
+          "seq": 1,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D4",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CI05111",
+      "sub_id": "27420",
+      "scr_dup": "001",
+      "seq": 2,
+      "describe_ch": "2 使學生瞭解計算機運作原理以及各項影響計算機效能的關鍵技術",
+      "describe_en": "2. To teach students to understand computer hardware processing model and know the factors that will influence the performance of computer.",
+      "core_id": null,
+      "core_item": null,
+      "core_eng": null,
+      "core_level": "1 ",
+      "strgy": [
+        "01",
+        "05"
+      ],
+      "evalb": [
+        "D1",
+        "D2",
+        "D3",
+        "D4"
+      ],
+      "strgy_name": [
+        "課堂授課",
+        "實驗實習"
+      ],
+      "strgy_name_en": [
+        "Classroom instruction",
+        "Experimental practice"
+      ],
+      "evalb_name": [
+        "期中考",
+        "期末考",
+        "隨堂測驗",
+        "作業"
+      ],
+      "evalb_name_en": [
+        "Midterm examination",
+        "Final examination",
+        "In-class examination",
+        "Homework"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CI05111",
+          "sub_id": "27420",
+          "scr_dup": "001",
+          "seq": 2,
+          "strgy_id": "01",
+          "strgy_name": null,
+          "strgy_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CI05111",
+          "sub_id": "27420",
+          "scr_dup": "001",
+          "seq": 2,
+          "strgy_id": "05",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CI05111",
+          "sub_id": "27420",
+          "scr_dup": "001",
+          "seq": 2,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D1",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CI05111",
+          "sub_id": "27420",
+          "scr_dup": "001",
+          "seq": 2,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D2",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CI05111",
+          "sub_id": "27420",
+          "scr_dup": "001",
+          "seq": 2,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D3",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CI05111",
+          "sub_id": "27420",
+          "scr_dup": "001",
+          "seq": 2,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D4",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CI05111",
+      "sub_id": "27420",
+      "scr_dup": "001",
+      "seq": 3,
+      "describe_ch": "3使學生能瞭解程式語言的發展趨勢及相關技巧，以及發展應用程式的能力",
+      "describe_en": "3. The knowledge about programming language is introduced to make students to understand the related issues about the developing for computer applications.",
+      "core_id": null,
+      "core_item": null,
+      "core_eng": null,
+      "core_level": "2 ",
+      "strgy": [
+        "01",
+        "05"
+      ],
+      "evalb": [
+        "D1",
+        "D2",
+        "D3",
+        "D4"
+      ],
+      "strgy_name": [
+        "課堂授課",
+        "實驗實習"
+      ],
+      "strgy_name_en": [
+        "Classroom instruction",
+        "Experimental practice"
+      ],
+      "evalb_name": [
+        "期中考",
+        "期末考",
+        "隨堂測驗",
+        "作業"
+      ],
+      "evalb_name_en": [
+        "Midterm examination",
+        "Final examination",
+        "In-class examination",
+        "Homework"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CI05111",
+          "sub_id": "27420",
+          "scr_dup": "001",
+          "seq": 3,
+          "strgy_id": "01",
+          "strgy_name": null,
+          "strgy_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CI05111",
+          "sub_id": "27420",
+          "scr_dup": "001",
+          "seq": 3,
+          "strgy_id": "05",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CI05111",
+          "sub_id": "27420",
+          "scr_dup": "001",
+          "seq": 3,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D1",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CI05111",
+          "sub_id": "27420",
+          "scr_dup": "001",
+          "seq": 3,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D2",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CI05111",
+          "sub_id": "27420",
+          "scr_dup": "001",
+          "seq": 3,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D3",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CI05111",
+          "sub_id": "27420",
+          "scr_dup": "001",
+          "seq": 3,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D4",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CI05111",
+      "sub_id": "27420",
+      "scr_dup": "001",
+      "seq": 4,
+      "describe_ch": "4. 以C及C++語言的介紹為主軸，介紹諸項程式設計的技術與思考習慣",
+      "describe_en": "4. By introducing the C and C++ language to introduce the skills of programming.",
+      "core_id": null,
+      "core_item": null,
+      "core_eng": null,
+      "core_level": "2 ",
+      "strgy": [
+        "01",
+        "02"
+      ],
+      "evalb": [
+        "D1",
+        "D2",
+        "D3",
+        "D4"
+      ],
+      "strgy_name": [
+        "課堂授課",
+        "專題演講"
+      ],
+      "strgy_name_en": [
+        "Classroom instruction",
+        "Topical lecture"
+      ],
+      "evalb_name": [
+        "期中考",
+        "期末考",
+        "隨堂測驗",
+        "作業"
+      ],
+      "evalb_name_en": [
+        "Midterm examination",
+        "Final examination",
+        "In-class examination",
+        "Homework"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CI05111",
+          "sub_id": "27420",
+          "scr_dup": "001",
+          "seq": 4,
+          "strgy_id": "01",
+          "strgy_name": null,
+          "strgy_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CI05111",
+          "sub_id": "27420",
+          "scr_dup": "001",
+          "seq": 4,
+          "strgy_id": "02",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CI05111",
+          "sub_id": "27420",
+          "scr_dup": "001",
+          "seq": 4,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D1",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CI05111",
+          "sub_id": "27420",
+          "scr_dup": "001",
+          "seq": 4,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D2",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CI05111",
+          "sub_id": "27420",
+          "scr_dup": "001",
+          "seq": 4,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D3",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CI05111",
+          "sub_id": "27420",
+          "scr_dup": "001",
+          "seq": 4,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D4",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CI05111",
+      "sub_id": "27420",
+      "scr_dup": "001",
+      "seq": 5,
+      "describe_ch": "5. 訓練學生程式設計的邏輯思維，建立日後專業程式撰寫的基礎",
+      "describe_en": "5. Training the capability of logic reasoning and building the basics for professional programming.",
+      "core_id": null,
+      "core_item": null,
+      "core_eng": null,
+      "core_level": "3 ",
+      "strgy": [
+        "01",
+        "05"
+      ],
+      "evalb": [
+        "D1",
+        "D2",
+        "D3",
+        "D4"
+      ],
+      "strgy_name": [
+        "課堂授課",
+        "實驗實習"
+      ],
+      "strgy_name_en": [
+        "Classroom instruction",
+        "Experimental practice"
+      ],
+      "evalb_name": [
+        "期中考",
+        "期末考",
+        "隨堂測驗",
+        "作業"
+      ],
+      "evalb_name_en": [
+        "Midterm examination",
+        "Final examination",
+        "In-class examination",
+        "Homework"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CI05111",
+          "sub_id": "27420",
+          "scr_dup": "001",
+          "seq": 5,
+          "strgy_id": "01",
+          "strgy_name": null,
+          "strgy_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CI05111",
+          "sub_id": "27420",
+          "scr_dup": "001",
+          "seq": 5,
+          "strgy_id": "05",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CI05111",
+          "sub_id": "27420",
+          "scr_dup": "001",
+          "seq": 5,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D1",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CI05111",
+          "sub_id": "27420",
+          "scr_dup": "001",
+          "seq": 5,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D2",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CI05111",
+          "sub_id": "27420",
+          "scr_dup": "001",
+          "seq": 5,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D3",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CI05111",
+          "sub_id": "27420",
+          "scr_dup": "001",
+          "seq": 5,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D4",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CI05111",
+      "sub_id": "27420",
+      "scr_dup": "001",
+      "seq": 6,
+      "describe_ch": "6. 增進學生以專業的知識思維以解決問題，奠定優良的工程師專業素養",
+      "describe_en": "6. To improve students' ability for professional thinking and to establish good features to be a good engineer.",
+      "core_id": null,
+      "core_item": null,
+      "core_eng": null,
+      "core_level": "3 ",
+      "strgy": [
+        "01",
+        "05"
+      ],
+      "evalb": [
+        "D1",
+        "D2",
+        "D3",
+        "D4"
+      ],
+      "strgy_name": [
+        "課堂授課",
+        "實驗實習"
+      ],
+      "strgy_name_en": [
+        "Classroom instruction",
+        "Experimental practice"
+      ],
+      "evalb_name": [
+        "期中考",
+        "期末考",
+        "隨堂測驗",
+        "作業"
+      ],
+      "evalb_name_en": [
+        "Midterm examination",
+        "Final examination",
+        "In-class examination",
+        "Homework"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CI05111",
+          "sub_id": "27420",
+          "scr_dup": "001",
+          "seq": 6,
+          "strgy_id": "01",
+          "strgy_name": null,
+          "strgy_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CI05111",
+          "sub_id": "27420",
+          "scr_dup": "001",
+          "seq": 6,
+          "strgy_id": "05",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CI05111",
+          "sub_id": "27420",
+          "scr_dup": "001",
+          "seq": 6,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D1",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CI05111",
+          "sub_id": "27420",
+          "scr_dup": "001",
+          "seq": 6,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D2",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CI05111",
+          "sub_id": "27420",
+          "scr_dup": "001",
+          "seq": 6,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D3",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CI05111",
+          "sub_id": "27420",
+          "scr_dup": "001",
+          "seq": 6,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D4",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    }
+  ],
+  "topicSdgs": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CI05111",
+      "sub_id": "27420",
+      "scr_dup": "001",
+      "sdgs_seq": 4,
+      "main_related": "N",
+      "ind_related": "Y",
+      "iss_name": "社會進步面",
+      "iss_ename": "Social Progress",
+      "content_name": "提供全民教育",
+      "content_ename": "Quality Education"
+    }
+  ],
+  "topicAiIndicators": [],
+  "learnHours": {
+    "total": 90.0,
+    "tpdOnlineAsyTotal": 0.0,
+    "tpdOnlineSynTotal": 36.0,
+    "tpdOnlineFaceTotal": 54.0,
+    "asySynInTotalPercent": 40.0
+  },
+  "crossVerYear": 114
+}

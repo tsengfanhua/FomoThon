@@ -1,0 +1,331 @@
+{
+  "success": true,
+  "info": {
+    "yms_year": 114.0,
+    "yms_smester": 2.0,
+    "sub_id": "63708",
+    "cls_id": "CS04110",
+    "scr_dup": "001",
+    "sub_id3": "CHIN1083",
+    "cls_name": "中文一",
+    "cls_ename": "Department of Chinese Literature",
+    "sub_name": "漢字書寫與書法概論",
+    "sub_ename": "INTRODUCTION TO CHINESE CHARACTER WRITING AND CALLIGRAPHY",
+    "scr_mso": "選修",
+    "scr_mso_en": "Elective",
+    "scr_credit": 2.0,
+    "scr_periodly": "(三)03-04",
+    "scr_periodly_eng": "(Wed)03-04",
+    "lang_name": "中文                                                      ",
+    "lang_ename": "Chinese",
+    "scr_room": "圖116游翰堂",
+    "scr_room_eng": "LIB116",
+    "scr_teacher": "蕭世瓊",
+    "scr_teacher_eng": "Shih-Chiung Hsiao",
+    "scr_selcode": "3497",
+    "scr_elearning": "全學期",
+    "scr_elearning_en": "Full semester",
+    "scr_hours": "2",
+    "scr_english": "N",
+    "unt_name": null,
+    "unt_ename": null,
+    "link_traminal": null,
+    "link_traminal_en": null,
+    "scr_ldl": "D",
+    "course_mk": "N",
+    "teams_mk": "N",
+    "sub_title": null,
+    "sub_title_en": null,
+    "sub_describe": null,
+    "sub_describe_en": null,
+    "hasDescription": null,
+    "hasInstructor": null,
+    "hasTA": null,
+    "hasTextBooks": null,
+    "hasReadings": null,
+    "hasiSoftwares": null,
+    "hasAssistSoftwares": null,
+    "hasObjective": null,
+    "hasWeeklyScds": null,
+    "hasGradeRules": null,
+    "hasGradeRuleDescribe": null,
+    "hasIntegrity": null,
+    "hasCoursePol": null,
+    "hasCourseRem": null,
+    "hasObjectiveReleation": null,
+    "hasTopicSdgs": null,
+    "hasTopicAiIndicators": null,
+    "hasSubTitleDesc": null
+  },
+  "subTitleDesc": null,
+  "description": {
+    "sub_id3": null,
+    "sub_name": "漢字書寫與書法概論",
+    "sub_ename": "INTRODUCTION TO CHINESE CHARACTER WRITING AND CALLIGRAPHY",
+    "describe_ch": "使學生具備書法相關知識及欣賞能力，並掌握書法基本書寫要領，進而培養學生書法研習興趣，提升文字書寫能力，同時透過教學引導，一探書法黑白奧區，涵泳線條與結構之三維空間世界，領受中國特有之筆墨魅力與中國文化之博大精深。",
+    "describe_eh": "To enable students to have the knowledge and appreciation of calligraphy, and to master the basic essentials of calligraphy, so as to cultivate their interest in calligraphy study and improve their writing skills. \r\nAt the same time, through teaching and guidance, explore the black and white mysteries of calligraphy, understand the three-dimensional world of lines and structures, and receive the unique charm of Chinese brushwork and the profoundness of Chinese culture.\r\n",
+    "pre_subname": "",
+    "pre_sub_id3": null,
+    "pre_sub_ename": "",
+    "pre_describe": null,
+    "pre_describe_en": null,
+    "scr_credit": 2.0
+  },
+  "targets": [
+    {
+      "seq": 1,
+      "describe_ch": "使學生能瞭解書法的藝術性與美學要素",
+      "describe_en": "Enable students to understand the artistic and aesthetic elements of calligraphy"
+    },
+    {
+      "seq": 2,
+      "describe_ch": "使學生能掌握各體書法創作技巧與要領",
+      "describe_en": "Enable students to master the skills and essentials of various calligraphy creations"
+    }
+  ],
+  "teachersInfo": [
+    {
+      "cname": "蕭世瓊",
+      "ename": "Shih-Chiung Hsiao",
+      "period": " ",
+      "roletype": 0,
+      "email": "scshiao@o365.fcu.edu.tw",
+      "ext": "5520"
+    },
+    {
+      "cname": "吳　華",
+      "ename": "WU HUA",
+      "period": " ",
+      "roletype": 1,
+      "email": "d1149915@o365.fcu.edu.tw",
+      "ext": " "
+    }
+  ],
+  "textBooks": null,
+  "readings": null,
+  "iSoftwares": [],
+  "assistSoftwares": [],
+  "weeklyScds": [],
+  "gradeRules": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CS04110",
+      "sub_id": "63708",
+      "scr_dup": "001",
+      "evalb_id": "D1",
+      "score_rate": 30,
+      "evalb_memo": "期中考試或作業30％",
+      "evalb_memo_en": null,
+      "evalb_name": "期中考",
+      "evalb_name_en": "Midterm examination",
+      "seq": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CS04110",
+      "sub_id": "63708",
+      "scr_dup": "001",
+      "evalb_id": "D2",
+      "score_rate": 30,
+      "evalb_memo": "期末考試或作業30％",
+      "evalb_memo_en": null,
+      "evalb_name": "期末考",
+      "evalb_name_en": "Final examination",
+      "seq": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CS04110",
+      "sub_id": "63708",
+      "scr_dup": "001",
+      "evalb_id": "L3",
+      "score_rate": 40,
+      "evalb_memo": "出勤狀況10％\n課堂互動10％\n平常作業20％",
+      "evalb_memo_en": null,
+      "evalb_name": "課堂討論參與",
+      "evalb_name_en": "Participation",
+      "seq": 0
+    }
+  ],
+  "gradeRuleDescribe": {
+    "yms_year": 114.0,
+    "yms_smester": 2.0,
+    "cls_id": "CS04110",
+    "sub_id": "63708",
+    "scr_dup": "001",
+    "tpa_score_new": null,
+    "tpa_score_new_en": null,
+    "course_pol": "所有課程活動都將在同學之間的友好參與和互動氛圍中進行，彼此間尊重和欣賞每位同學的個人經歷、背景和觀點，如國內外各學制、多元入學及學習文化、性別等。希望您始終在本課程中應用最高的學術標準，並以有尊嚴和尊重的態度對待同學。",
+    "course_pol_en": null,
+    "course_rem": "請同學準時繳交作業，如有需要諮詢，歡迎於課餘時間或請益時間一起討論。",
+    "course_rem_en": null,
+    "ais_meno": "<div>學習必須以誠信為基礎，任何學生企圖將自己未製作的作品，作為自己的作品，此行為是為不誠實行為。在作業、測驗或考試中作弊或抄襲的學生或協助他人的行為，該次成績以零分計，若是累犯，將依逢甲大學學生獎懲辦法提送。</div>\n",
+    "ais_meno_en": null,
+    "ilearn_mk": null
+  },
+  "integrity": {
+    "yms_year": 114.0,
+    "yms_smester": 2.0,
+    "cls_id": "CS04110",
+    "sub_id": "63708",
+    "scr_dup": "001",
+    "tpa_score_new": null,
+    "tpa_score_new_en": null,
+    "course_pol": "所有課程活動都將在同學之間的友好參與和互動氛圍中進行，彼此間尊重和欣賞每位同學的個人經歷、背景和觀點，如國內外各學制、多元入學及學習文化、性別等。希望您始終在本課程中應用最高的學術標準，並以有尊嚴和尊重的態度對待同學。",
+    "course_pol_en": null,
+    "course_rem": "請同學準時繳交作業，如有需要諮詢，歡迎於課餘時間或請益時間一起討論。",
+    "course_rem_en": null,
+    "ais_meno": "<div>學習必須以誠信為基礎，任何學生企圖將自己未製作的作品，作為自己的作品，此行為是為不誠實行為。在作業、測驗或考試中作弊或抄襲的學生或協助他人的行為，該次成績以零分計，若是累犯，將依逢甲大學學生獎懲辦法提送。</div>\n",
+    "ais_meno_en": null,
+    "ilearn_mk": null
+  },
+  "policy": {
+    "yms_year": 114.0,
+    "yms_smester": 2.0,
+    "cls_id": "CS04110",
+    "sub_id": "63708",
+    "scr_dup": "001",
+    "tpa_score_new": null,
+    "tpa_score_new_en": null,
+    "course_pol": "所有課程活動都將在同學之間的友好參與和互動氛圍中進行，彼此間尊重和欣賞每位同學的個人經歷、背景和觀點，如國內外各學制、多元入學及學習文化、性別等。希望您始終在本課程中應用最高的學術標準，並以有尊嚴和尊重的態度對待同學。",
+    "course_pol_en": null,
+    "course_rem": "請同學準時繳交作業，如有需要諮詢，歡迎於課餘時間或請益時間一起討論。",
+    "course_rem_en": null,
+    "ais_meno": "<div>學習必須以誠信為基礎，任何學生企圖將自己未製作的作品，作為自己的作品，此行為是為不誠實行為。在作業、測驗或考試中作弊或抄襲的學生或協助他人的行為，該次成績以零分計，若是累犯，將依逢甲大學學生獎懲辦法提送。</div>\n",
+    "ais_meno_en": null,
+    "ilearn_mk": null
+  },
+  "courseBankC": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CS04110",
+      "sub_id": "63708",
+      "scr_dup": "001",
+      "seq": 1,
+      "describe_ch": "使學生能瞭解書法的藝術性與美學要素",
+      "describe_en": "Enable students to understand the artistic and aesthetic elements of calligraphy",
+      "core_id": "C",
+      "core_item": "具備藝文賞析與創作的能力。",
+      "core_eng": " ",
+      "core_level": "2 ",
+      "strgy": [],
+      "evalb": [
+        "D1",
+        "D2"
+      ],
+      "strgy_name": [],
+      "strgy_name_en": [],
+      "evalb_name": [
+        "期中考",
+        "期末考"
+      ],
+      "evalb_name_en": [
+        "Midterm examination",
+        "Final examination"
+      ],
+      "GetTchstrgys": [],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CS04110",
+          "sub_id": "63708",
+          "scr_dup": "001",
+          "seq": 1,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D1",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CS04110",
+          "sub_id": "63708",
+          "scr_dup": "001",
+          "seq": 1,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D2",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CS04110",
+      "sub_id": "63708",
+      "scr_dup": "001",
+      "seq": 2,
+      "describe_ch": "使學生能掌握各體書法創作技巧與要領",
+      "describe_en": "Enable students to master the skills and essentials of various calligraphy creations",
+      "core_id": "D",
+      "core_item": "具備運用數位科技的能力",
+      "core_eng": " ",
+      "core_level": "3 ",
+      "strgy": [],
+      "evalb": [
+        "D4"
+      ],
+      "strgy_name": [],
+      "strgy_name_en": [],
+      "evalb_name": [
+        "作業"
+      ],
+      "evalb_name_en": [
+        "Homework"
+      ],
+      "GetTchstrgys": [],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CS04110",
+          "sub_id": "63708",
+          "scr_dup": "001",
+          "seq": 2,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D4",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    }
+  ],
+  "topicSdgs": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CS04110",
+      "sub_id": "63708",
+      "scr_dup": "001",
+      "sdgs_seq": 4,
+      "main_related": "Y",
+      "ind_related": "N",
+      "iss_name": "社會進步面",
+      "iss_ename": "Social Progress",
+      "content_name": "提供全民教育",
+      "content_ename": "Quality Education"
+    }
+  ],
+  "topicAiIndicators": [],
+  "learnHours": {
+    "total": 0.0,
+    "tpdOnlineAsyTotal": 0.0,
+    "tpdOnlineSynTotal": 0.0,
+    "tpdOnlineFaceTotal": 0.0,
+    "asySynInTotalPercent": 0.0
+  },
+  "crossVerYear": 114
+}

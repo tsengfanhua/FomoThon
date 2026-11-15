@@ -1,0 +1,1459 @@
+{
+  "success": true,
+  "info": {
+    "yms_year": 114.0,
+    "yms_smester": 1.0,
+    "sub_id": "05122",
+    "cls_id": "CS02149",
+    "scr_dup": "001",
+    "sub_id3": "EES4043",
+    "cls_name": "環境四合",
+    "cls_ename": "Department of Environmental Engineering and Science",
+    "sub_name": "土壤與地下水污染整治技術",
+    "sub_ename": "REMEDIAL TECHNOLOGIES FOR SOIL AND GROUNDWATER CONTAMINATION",
+    "scr_mso": "必修",
+    "scr_mso_en": "Required",
+    "scr_credit": 2.0,
+    "scr_periodly": "(五)03-04",
+    "scr_periodly_eng": "(Fri)03-04",
+    "lang_name": "中文                                                      ",
+    "lang_ename": "Chinese",
+    "scr_room": "忠201",
+    "scr_room_eng": "JCB201",
+    "scr_teacher": "陳建隆,周奮興,劉政樺",
+    "scr_teacher_eng": "Jiann-Long Chen,Fun-Hsin Chou,Cheng-Hua Liu",
+    "scr_selcode": "2515",
+    "scr_elearning": "全學期",
+    "scr_elearning_en": "Full semester",
+    "scr_hours": "2",
+    "scr_english": "N",
+    "unt_name": null,
+    "unt_ename": null,
+    "link_traminal": "跨學期畢業專題",
+    "link_traminal_en": "Capstone Course",
+    "scr_ldl": "D",
+    "course_mk": "0",
+    "teams_mk": "N",
+    "sub_title": null,
+    "sub_title_en": null,
+    "sub_describe": null,
+    "sub_describe_en": null,
+    "hasDescription": null,
+    "hasInstructor": null,
+    "hasTA": null,
+    "hasTextBooks": null,
+    "hasReadings": null,
+    "hasiSoftwares": null,
+    "hasAssistSoftwares": null,
+    "hasObjective": null,
+    "hasWeeklyScds": null,
+    "hasGradeRules": null,
+    "hasGradeRuleDescribe": null,
+    "hasIntegrity": null,
+    "hasCoursePol": null,
+    "hasCourseRem": null,
+    "hasObjectiveReleation": null,
+    "hasTopicSdgs": null,
+    "hasSubTitleDesc": null
+  },
+  "subTitleDesc": null,
+  "description": {
+    "sub_id3": null,
+    "sub_name": "土壤與地下水污染整治技術",
+    "sub_ename": "REMEDIAL TECHNOLOGIES FOR SOIL AND GROUNDWATER CONTAMINATION",
+    "describe_ch": " 以實際土壤/地下水污染情境為基礎，規劃可行之應變改善策略及目標，並提出包含設計、驗證，及經費預估之計畫書。課程內容包含地下水土壤地質調查、土壤/地下水污染簡介、廠址環境評估、污染場址調查、整治方法簡介及篩選等。學生以分組方式成立團隊，教師以2-3星期為單位規劃單元進度及相關查核項目，各團隊根據教師要求提出書面報告。期末彙整各單元結果並進行口頭報告。",
+    "describe_eh": "This course uses real-life cases of soil/groundwater contaminated sites for students to design a cleanup scheme. Each group writes a proposal that includes site investigation, remediation technique screening, design, and cleanup cost.  The lectures include the following topics: hydrogeology investigation methods, introduction of soil/groundwater contamination, contaminated site evaluation and investigation, introduction of remediation techniques screening, design of contaminated site cleanup. The students are divided into several 4 to 6-member groups. Each group turns in progress report every 2 weeks.  Theses progress reports will be combined into final reports of which contents will be used to prepare an oval report by each group.",
+    "pre_subname": "",
+    "pre_sub_id3": null,
+    "pre_sub_ename": "",
+    "pre_describe": null,
+    "pre_describe_en": null,
+    "scr_credit": 2.0
+  },
+  "targets": [
+    {
+      "seq": 1,
+      "describe_ch": "認識土壤/地下水種類及途徑\t",
+      "describe_en": "Know soil/groundwater contamination types and routes of contamination"
+    },
+    {
+      "seq": 2,
+      "describe_ch": "理解地下水文及地質判斷程序\t",
+      "describe_en": "Characterize aquifer properties using standard procedures"
+    },
+    {
+      "seq": 3,
+      "describe_ch": "應用圖學，工程經濟等相關技能，呈現處理流程並推估整治費用\t",
+      "describe_en": "Using engineering graphics, engineering economics, present a remediation flowchart and estimate the cost"
+    },
+    {
+      "seq": 4,
+      "describe_ch": "根據處理流程圖，說明各單元應用原理並提供設計參數\t",
+      "describe_en": "Based on the remediation flowchart, describe the reason for using each unit and provide key design parameters for each unit"
+    },
+    {
+      "seq": 5,
+      "describe_ch": "應用專案管理、團隊合作與溝通協調能力\t",
+      "describe_en": "Apply the basics of project management, effective communication and persuasion to achieve project goals"
+    },
+    {
+      "seq": 6,
+      "describe_ch": "分析環境問題並構思解決問題的方法\t",
+      "describe_en": "Conceptualize and analyze the problems at hand and find feasible alternative solutions"
+    },
+    {
+      "seq": 7,
+      "describe_ch": "關心環境問題並能持續學習與謀求解決方案\t",
+      "describe_en": "Continue to care about the environmental problems and to learn new solutions"
+    },
+    {
+      "seq": 8,
+      "describe_ch": "認知專業倫理與社會道德責任，培養自我管理能力\t",
+      "describe_en": "Recognize and be obliged to the professional ethics and society moral responsibility and develop the ability of self-management."
+    }
+  ],
+  "teachersInfo": [
+    {
+      "cname": "陳建隆",
+      "ename": "Jiann-Long Chen",
+      "period": "(Mon)07  理302A,(Tue)08-09 理302A,(Wed)07  理302A",
+      "roletype": 0,
+      "email": "chenjl@o365.fcu.edu.tw",
+      "ext": "5223"
+    },
+    {
+      "cname": "周奮興",
+      "ename": "Fun-Hsin Chou",
+      "period": " ",
+      "roletype": 0,
+      "email": "fhchou.t09@o365.fcu.edu.tw",
+      "ext": null
+    },
+    {
+      "cname": "劉政樺",
+      "ename": "Cheng-Hua Liu",
+      "period": "(Mon)01-02 理102A,(Mon)06-07 理102A",
+      "roletype": 0,
+      "email": "chhengliu@o365.fcu.edu.tw",
+      "ext": "5208"
+    }
+  ],
+  "textBooks": {
+    "yms_year": 114.0,
+    "yms_smester": 1.0,
+    "cls_id": "CS02149",
+    "sub_id": "05122",
+    "scr_dup": "001",
+    "tpb_seq": 1,
+    "tpb_book": "<div>根據土壤和地下水污染整治技術課程的需求，由教師編制自製教材。</div>\n",
+    "tpb_book_en": " "
+  },
+  "readings": {
+    "yms_year": 114.0,
+    "yms_smester": 1.0,
+    "cls_id": "CS02149",
+    "sub_id": "05122",
+    "scr_dup": "001",
+    "tpc_seq": 1,
+    "tpc_book": "<div>環境部環境管理署土壤及地下水整治網 (網址:https://sgw.epa.gov.tw/public)</div>\n",
+    "tpc_book_en": null
+  },
+  "iSoftwares": [],
+  "assistSoftwares": [],
+  "weeklyScds": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CS02149",
+      "sub_id": "05122",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "1",
+      "tpd_reading": "<div>土壤及地下水污染整治法相關法規說明</div>\n",
+      "tpd_reading_en": " ",
+      "tpd_learn": " ",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CS02149",
+      "sub_id": "05122",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "2",
+      "tpd_reading": "<div>課程簡介 土壤與地下水污染特性、成因與傳輸概念</div>\n",
+      "tpd_reading_en": " ",
+      "tpd_learn": " ",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CS02149",
+      "sub_id": "05122",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "3",
+      "tpd_reading": "<div>土壤及地下水污染調查與整治技術概論</div>\n",
+      "tpd_reading_en": " ",
+      "tpd_learn": " ",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CS02149",
+      "sub_id": "05122",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "4",
+      "tpd_reading": "<div>油品類土壤及地下水污染整治技術及案例說明</div>\n",
+      "tpd_reading_en": " ",
+      "tpd_learn": " ",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CS02149",
+      "sub_id": "05122",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "5",
+      "tpd_reading": "<div>油品類土壤及地下水污染整治技術及案例說明</div>\n",
+      "tpd_reading_en": " ",
+      "tpd_learn": " ",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CS02149",
+      "sub_id": "05122",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "6",
+      "tpd_reading": "<div>油品類土壤及地下水污染整治技術及案例說明</div>\n",
+      "tpd_reading_en": " ",
+      "tpd_learn": " ",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CS02149",
+      "sub_id": "05122",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "7",
+      "tpd_reading": "<div>AUTOCAD繪圖軟體基本操作與應用教學(上)</div>\n",
+      "tpd_reading_en": " ",
+      "tpd_learn": " ",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CS02149",
+      "sub_id": "05122",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "8",
+      "tpd_reading": "<div>AUTOCAD繪圖軟體基本操作與應用教學(下)</div>\n",
+      "tpd_reading_en": " ",
+      "tpd_learn": " ",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CS02149",
+      "sub_id": "05122",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "9",
+      "tpd_reading": "<div>油品(柴油)整治及成效篩測實作討論(期中成績) 分組作業提問及討論</div>\n",
+      "tpd_reading_en": " ",
+      "tpd_learn": " ",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CS02149",
+      "sub_id": "05122",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "10",
+      "tpd_reading": "<div>含氯有機物土壤及地下水污染整治技術及案例說明</div>\n",
+      "tpd_reading_en": " ",
+      "tpd_learn": " ",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CS02149",
+      "sub_id": "05122",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "11",
+      "tpd_reading": "<div>整治案例實場觀摩</div>\n",
+      "tpd_reading_en": " ",
+      "tpd_learn": " ",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CS02149",
+      "sub_id": "05122",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "12",
+      "tpd_reading": "<div>含氯有機物土壤及地下水污染整治技術及案例說明</div>\n",
+      "tpd_reading_en": " ",
+      "tpd_learn": " ",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CS02149",
+      "sub_id": "05122",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "13",
+      "tpd_reading": "<div>重金屬類土壤及地下水污染整治技術及案例說明</div>\n",
+      "tpd_reading_en": " ",
+      "tpd_learn": " ",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CS02149",
+      "sub_id": "05122",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "14",
+      "tpd_reading": "<div>整治案例規劃設計實作與簡報-預報</div>\n",
+      "tpd_reading_en": " ",
+      "tpd_learn": " ",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CS02149",
+      "sub_id": "05122",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "15",
+      "tpd_reading": "<div>整治案例規劃設計實作與簡報-預報</div>\n",
+      "tpd_reading_en": " ",
+      "tpd_learn": " ",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CS02149",
+      "sub_id": "05122",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "16",
+      "tpd_reading": "<div>整治案例規劃設計實作與簡報-正式(期末成績)</div>\n",
+      "tpd_reading_en": " ",
+      "tpd_learn": " ",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CS02149",
+      "sub_id": "05122",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "17",
+      "tpd_reading": "<div>整治案例規劃設計實作與簡報-正式(期末成績)</div>\n",
+      "tpd_reading_en": " ",
+      "tpd_learn": " ",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CS02149",
+      "sub_id": "05122",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "18",
+      "tpd_reading": "<div>報告彙整繳交</div>\n",
+      "tpd_reading_en": " ",
+      "tpd_learn": " ",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    }
+  ],
+  "gradeRules": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CS02149",
+      "sub_id": "05122",
+      "scr_dup": "001",
+      "evalb_id": "D5",
+      "score_rate": 30,
+      "evalb_memo": "期末專題報告(書面以及口頭報告)",
+      "evalb_memo_en": null,
+      "evalb_name": "期末專題",
+      "evalb_name_en": "Final presentation",
+      "seq": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CS02149",
+      "sub_id": "05122",
+      "scr_dup": "001",
+      "evalb_id": "G1",
+      "score_rate": 50,
+      "evalb_memo": "出席率以及進度報告",
+      "evalb_memo_en": null,
+      "evalb_name": "學習歷程檔案「個人/小組」紀錄",
+      "evalb_name_en": "Learning process file record (individual/group)",
+      "seq": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CS02149",
+      "sub_id": "05122",
+      "scr_dup": "001",
+      "evalb_id": "G5",
+      "score_rate": 20,
+      "evalb_memo": "期中專題報告(書面報告)",
+      "evalb_memo_en": null,
+      "evalb_name": "書面報告",
+      "evalb_name_en": "Writing report",
+      "seq": 0
+    }
+  ],
+  "gradeRuleDescribe": {
+    "yms_year": 114.0,
+    "yms_smester": 1.0,
+    "cls_id": "CS02149",
+    "sub_id": "05122",
+    "scr_dup": "001",
+    "tpa_score_new": "<div><strong>一、平常成績(50%)</strong></div>\n\n<div>※出席率(10%)</div>\n\n<div>※113年10月14日(5%) : 完成彙整所屬案例第一章至第四章內容(理解公告場址污染背景及環境背景)</div>\n\n<div>※113年11月04日(5%) : 完成彙整所屬案例第五章至第六章內容(確認公告場址污染調查結果及污染概念模型)</div>\n\n<div>※113年12月05日(10%) : 整治案例實場觀摩參訪報告(個人成績)</div>\n\n<div>※113年12月09日(10%) : 完成所屬案例第七章前半段整治工法設計流程、整治工法原理及成功案例說明</div>\n\n<div>※113年12月16日(10%) : 完成所屬案例第七章後半段整治工法細部規劃設計(各工法佈設範圍及深度、確認相關機具設備規格及操作參數等) ；完成第十二章計畫執行期程及第十三章經費預估</div>\n\n<div><strong>二、期中成績(20%)</strong></div>\n\n<div>※111年11月11日 ․繳交油品(柴油)整治及成效篩測實作報告</div>\n\n<div><strong>三、期末成績(30%)</strong></div>\n\n<div>※111年12月30日及112年1月06日(整治案例規劃設計實作與簡報-正式) ․</div>\n\n<div>書面報告(10%)&nbsp;</div>\n\n<div>口頭報告(20%)</div>\n",
+    "tpa_score_new_en": " ",
+    "course_pol": "土壤與地下水污染整治技術為環科系大四終端課程，課程主要以實際土壤/地下水污染情境為基礎，規劃可行之應變改善策略及目標，並提出包含設計、驗證，及經費預估之計畫書。以下是課程規則和提醒：\n1. 配合課程進度: 課程中的專題和學習任務將需要同學們合作設計和實施土壤與地下水污染整治解決方案，除平時授課聽講之外，修課同學應按照課程規劃達成專題進度。\n2. 團隊合作要求: 每個團隊的成員應該共同分擔責任，確保每個人都參與並貢獻。團隊應該有效地管理時間和資源，以確保專案進展順利。這包括設定目標、制定計畫、定期檢討進度並調整計畫，並學會協商和解決可能出現的分歧。\n3. 尊重學術誠信: 團隊合作不應該包括任何學術誠信違規行為，例如抄襲或讓他人代為完成工作。學術誠信是這門課程的基本原則之一，違反者將受到相應的處分。",
+    "course_pol_en": null,
+    "course_rem": "本課程內容包含地下水土壤地質調查、土壤/地下水污染簡介、廠址環境評估、污染場址調查、整治方法簡介及篩選等，期望修課同學能夠從中學習如何綜合應用這些關鍵概念和技術，以有效解決現實世界的土壤和地下水污染問題。",
+    "course_rem_en": null,
+    "ais_meno": "<ul>\n\t<li>學術誠信是學習的不可或缺之基石。學生必須以誠實為原則，絕不允許將他人的作品冒充為自己的成果，任何形式的作弊或抄襲行為都會被視為重大不誠實。</li>\n\t<li>在專題報告、觀察和審閱同學的學習任務方面，我們希望同學之間能夠相互合作以完成專題實作報告，然而，必須確保文字是原創的。同學們應該嚴格遵守有關確認引用和引用來源的標準規則。如果使用了短語、引文、或其他作者的語言或思想，必須明確標示這些素材的來源，包括作者的姓名和頁碼在句子末尾。</li>\n\t<li>如果發現有抄襲行為或其他方式試圖掩飾作品來源的行為，將會受到嚴厲處罰，作業將被評為零分。</li>\n\t<li>以上規則目的在於維護學術誠信，確保每位學生都有平等的學習機會。</li>\n</ul>\n",
+    "ais_meno_en": null,
+    "ilearn_mk": null
+  },
+  "integrity": {
+    "yms_year": 114.0,
+    "yms_smester": 1.0,
+    "cls_id": "CS02149",
+    "sub_id": "05122",
+    "scr_dup": "001",
+    "tpa_score_new": "<div><strong>一、平常成績(50%)</strong></div>\n\n<div>※出席率(10%)</div>\n\n<div>※113年10月14日(5%) : 完成彙整所屬案例第一章至第四章內容(理解公告場址污染背景及環境背景)</div>\n\n<div>※113年11月04日(5%) : 完成彙整所屬案例第五章至第六章內容(確認公告場址污染調查結果及污染概念模型)</div>\n\n<div>※113年12月05日(10%) : 整治案例實場觀摩參訪報告(個人成績)</div>\n\n<div>※113年12月09日(10%) : 完成所屬案例第七章前半段整治工法設計流程、整治工法原理及成功案例說明</div>\n\n<div>※113年12月16日(10%) : 完成所屬案例第七章後半段整治工法細部規劃設計(各工法佈設範圍及深度、確認相關機具設備規格及操作參數等) ；完成第十二章計畫執行期程及第十三章經費預估</div>\n\n<div><strong>二、期中成績(20%)</strong></div>\n\n<div>※111年11月11日 ․繳交油品(柴油)整治及成效篩測實作報告</div>\n\n<div><strong>三、期末成績(30%)</strong></div>\n\n<div>※111年12月30日及112年1月06日(整治案例規劃設計實作與簡報-正式) ․</div>\n\n<div>書面報告(10%)&nbsp;</div>\n\n<div>口頭報告(20%)</div>\n",
+    "tpa_score_new_en": " ",
+    "course_pol": "土壤與地下水污染整治技術為環科系大四終端課程，課程主要以實際土壤/地下水污染情境為基礎，規劃可行之應變改善策略及目標，並提出包含設計、驗證，及經費預估之計畫書。以下是課程規則和提醒：\n1. 配合課程進度: 課程中的專題和學習任務將需要同學們合作設計和實施土壤與地下水污染整治解決方案，除平時授課聽講之外，修課同學應按照課程規劃達成專題進度。\n2. 團隊合作要求: 每個團隊的成員應該共同分擔責任，確保每個人都參與並貢獻。團隊應該有效地管理時間和資源，以確保專案進展順利。這包括設定目標、制定計畫、定期檢討進度並調整計畫，並學會協商和解決可能出現的分歧。\n3. 尊重學術誠信: 團隊合作不應該包括任何學術誠信違規行為，例如抄襲或讓他人代為完成工作。學術誠信是這門課程的基本原則之一，違反者將受到相應的處分。",
+    "course_pol_en": null,
+    "course_rem": "本課程內容包含地下水土壤地質調查、土壤/地下水污染簡介、廠址環境評估、污染場址調查、整治方法簡介及篩選等，期望修課同學能夠從中學習如何綜合應用這些關鍵概念和技術，以有效解決現實世界的土壤和地下水污染問題。",
+    "course_rem_en": null,
+    "ais_meno": "<ul>\n\t<li>學術誠信是學習的不可或缺之基石。學生必須以誠實為原則，絕不允許將他人的作品冒充為自己的成果，任何形式的作弊或抄襲行為都會被視為重大不誠實。</li>\n\t<li>在專題報告、觀察和審閱同學的學習任務方面，我們希望同學之間能夠相互合作以完成專題實作報告，然而，必須確保文字是原創的。同學們應該嚴格遵守有關確認引用和引用來源的標準規則。如果使用了短語、引文、或其他作者的語言或思想，必須明確標示這些素材的來源，包括作者的姓名和頁碼在句子末尾。</li>\n\t<li>如果發現有抄襲行為或其他方式試圖掩飾作品來源的行為，將會受到嚴厲處罰，作業將被評為零分。</li>\n\t<li>以上規則目的在於維護學術誠信，確保每位學生都有平等的學習機會。</li>\n</ul>\n",
+    "ais_meno_en": null,
+    "ilearn_mk": null
+  },
+  "policy": {
+    "yms_year": 114.0,
+    "yms_smester": 1.0,
+    "cls_id": "CS02149",
+    "sub_id": "05122",
+    "scr_dup": "001",
+    "tpa_score_new": "<div><strong>一、平常成績(50%)</strong></div>\n\n<div>※出席率(10%)</div>\n\n<div>※113年10月14日(5%) : 完成彙整所屬案例第一章至第四章內容(理解公告場址污染背景及環境背景)</div>\n\n<div>※113年11月04日(5%) : 完成彙整所屬案例第五章至第六章內容(確認公告場址污染調查結果及污染概念模型)</div>\n\n<div>※113年12月05日(10%) : 整治案例實場觀摩參訪報告(個人成績)</div>\n\n<div>※113年12月09日(10%) : 完成所屬案例第七章前半段整治工法設計流程、整治工法原理及成功案例說明</div>\n\n<div>※113年12月16日(10%) : 完成所屬案例第七章後半段整治工法細部規劃設計(各工法佈設範圍及深度、確認相關機具設備規格及操作參數等) ；完成第十二章計畫執行期程及第十三章經費預估</div>\n\n<div><strong>二、期中成績(20%)</strong></div>\n\n<div>※111年11月11日 ․繳交油品(柴油)整治及成效篩測實作報告</div>\n\n<div><strong>三、期末成績(30%)</strong></div>\n\n<div>※111年12月30日及112年1月06日(整治案例規劃設計實作與簡報-正式) ․</div>\n\n<div>書面報告(10%)&nbsp;</div>\n\n<div>口頭報告(20%)</div>\n",
+    "tpa_score_new_en": " ",
+    "course_pol": "土壤與地下水污染整治技術為環科系大四終端課程，課程主要以實際土壤/地下水污染情境為基礎，規劃可行之應變改善策略及目標，並提出包含設計、驗證，及經費預估之計畫書。以下是課程規則和提醒：\n1. 配合課程進度: 課程中的專題和學習任務將需要同學們合作設計和實施土壤與地下水污染整治解決方案，除平時授課聽講之外，修課同學應按照課程規劃達成專題進度。\n2. 團隊合作要求: 每個團隊的成員應該共同分擔責任，確保每個人都參與並貢獻。團隊應該有效地管理時間和資源，以確保專案進展順利。這包括設定目標、制定計畫、定期檢討進度並調整計畫，並學會協商和解決可能出現的分歧。\n3. 尊重學術誠信: 團隊合作不應該包括任何學術誠信違規行為，例如抄襲或讓他人代為完成工作。學術誠信是這門課程的基本原則之一，違反者將受到相應的處分。",
+    "course_pol_en": null,
+    "course_rem": "本課程內容包含地下水土壤地質調查、土壤/地下水污染簡介、廠址環境評估、污染場址調查、整治方法簡介及篩選等，期望修課同學能夠從中學習如何綜合應用這些關鍵概念和技術，以有效解決現實世界的土壤和地下水污染問題。",
+    "course_rem_en": null,
+    "ais_meno": "<ul>\n\t<li>學術誠信是學習的不可或缺之基石。學生必須以誠實為原則，絕不允許將他人的作品冒充為自己的成果，任何形式的作弊或抄襲行為都會被視為重大不誠實。</li>\n\t<li>在專題報告、觀察和審閱同學的學習任務方面，我們希望同學之間能夠相互合作以完成專題實作報告，然而，必須確保文字是原創的。同學們應該嚴格遵守有關確認引用和引用來源的標準規則。如果使用了短語、引文、或其他作者的語言或思想，必須明確標示這些素材的來源，包括作者的姓名和頁碼在句子末尾。</li>\n\t<li>如果發現有抄襲行為或其他方式試圖掩飾作品來源的行為，將會受到嚴厲處罰，作業將被評為零分。</li>\n\t<li>以上規則目的在於維護學術誠信，確保每位學生都有平等的學習機會。</li>\n</ul>\n",
+    "ais_meno_en": null,
+    "ilearn_mk": null
+  },
+  "courseBankC": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CS02149",
+      "sub_id": "05122",
+      "scr_dup": "001",
+      "seq": 1,
+      "describe_ch": "認識土壤/地下水種類及途徑\t",
+      "describe_en": "Know soil/groundwater contamination types and routes of contamination",
+      "core_id": "A",
+      "core_item": "具備理解環境議題之語文、數學，科學與工程知識的基本能力。",
+      "core_eng": "Able to acquire knowledge in languages, mathematics, science and engineering, as well as an understanding of environmental issues.",
+      "core_level": "1 ",
+      "strgy": [
+        "01"
+      ],
+      "evalb": [
+        "L2"
+      ],
+      "strgy_name": [
+        "課堂授課"
+      ],
+      "strgy_name_en": [
+        "Classroom instruction"
+      ],
+      "evalb_name": [
+        "點名"
+      ],
+      "evalb_name_en": [
+        "Roll call"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CS02149",
+          "sub_id": "05122",
+          "scr_dup": "001",
+          "seq": 1,
+          "strgy_id": "01",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CS02149",
+          "sub_id": "05122",
+          "scr_dup": "001",
+          "seq": 1,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "L2",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CS02149",
+      "sub_id": "05122",
+      "scr_dup": "001",
+      "seq": 2,
+      "describe_ch": "理解地下水文及地質判斷程序\t",
+      "describe_en": "Characterize aquifer properties using standard procedures",
+      "core_id": "B",
+      "core_item": "執行實驗操作、解析數據與歸納結論的專業能力。",
+      "core_eng": "Able to carry out experiments, analyze data and draw conclusions.",
+      "core_level": "4 ",
+      "strgy": [
+        "01"
+      ],
+      "evalb": [
+        "F3",
+        "K3",
+        "L2"
+      ],
+      "strgy_name": [
+        "課堂授課"
+      ],
+      "strgy_name_en": [
+        "Classroom instruction"
+      ],
+      "evalb_name": [
+        "小組討論",
+        "上課即時問與答",
+        "點名"
+      ],
+      "evalb_name_en": [
+        "Group discussion",
+        "In-class oral assessment",
+        "Roll call"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CS02149",
+          "sub_id": "05122",
+          "scr_dup": "001",
+          "seq": 2,
+          "strgy_id": "01",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CS02149",
+          "sub_id": "05122",
+          "scr_dup": "001",
+          "seq": 2,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "F3",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CS02149",
+          "sub_id": "05122",
+          "scr_dup": "001",
+          "seq": 2,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "K3",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CS02149",
+          "sub_id": "05122",
+          "scr_dup": "001",
+          "seq": 2,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "L2",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CS02149",
+      "sub_id": "05122",
+      "scr_dup": "001",
+      "seq": 3,
+      "describe_ch": "應用圖學，工程經濟等相關技能，呈現處理流程並推估整治費用\t",
+      "describe_en": "Using engineering graphics, engineering economics, present a remediation flowchart and estimate the cost",
+      "core_id": "C",
+      "core_item": "具備執行環境工程實務所需之技能。",
+      "core_eng": "Possess the competencies required of an environmental engineering professional.",
+      "core_level": "3 ",
+      "strgy": [
+        "01"
+      ],
+      "evalb": [
+        "D4",
+        "F3",
+        "L2"
+      ],
+      "strgy_name": [
+        "課堂授課"
+      ],
+      "strgy_name_en": [
+        "Classroom instruction"
+      ],
+      "evalb_name": [
+        "作業",
+        "小組討論",
+        "點名"
+      ],
+      "evalb_name_en": [
+        "Homework",
+        "Group discussion",
+        "Roll call"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CS02149",
+          "sub_id": "05122",
+          "scr_dup": "001",
+          "seq": 3,
+          "strgy_id": "01",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CS02149",
+          "sub_id": "05122",
+          "scr_dup": "001",
+          "seq": 3,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D4",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CS02149",
+          "sub_id": "05122",
+          "scr_dup": "001",
+          "seq": 3,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "F3",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CS02149",
+          "sub_id": "05122",
+          "scr_dup": "001",
+          "seq": 3,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "L2",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CS02149",
+      "sub_id": "05122",
+      "scr_dup": "001",
+      "seq": 4,
+      "describe_ch": "根據處理流程圖，說明各單元應用原理並提供設計參數\t",
+      "describe_en": "Based on the remediation flowchart, describe the reason for using each unit and provide key design parameters for each unit",
+      "core_id": "D",
+      "core_item": "具備理解環境相關工程系統或單元規劃設計的能力。",
+      "core_eng": "Possess an understanding of environmental engineering systems and components or process design.",
+      "core_level": "6 ",
+      "strgy": [
+        "01"
+      ],
+      "evalb": [
+        "F3",
+        "L2"
+      ],
+      "strgy_name": [
+        "課堂授課"
+      ],
+      "strgy_name_en": [
+        "Classroom instruction"
+      ],
+      "evalb_name": [
+        "小組討論",
+        "點名"
+      ],
+      "evalb_name_en": [
+        "Group discussion",
+        "Roll call"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CS02149",
+          "sub_id": "05122",
+          "scr_dup": "001",
+          "seq": 4,
+          "strgy_id": "01",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CS02149",
+          "sub_id": "05122",
+          "scr_dup": "001",
+          "seq": 4,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "F3",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CS02149",
+          "sub_id": "05122",
+          "scr_dup": "001",
+          "seq": 4,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "L2",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CS02149",
+      "sub_id": "05122",
+      "scr_dup": "001",
+      "seq": 5,
+      "describe_ch": "應用專案管理、團隊合作與溝通協調能力\t",
+      "describe_en": "Apply the basics of project management, effective communication and persuasion to achieve project goals",
+      "core_id": "E",
+      "core_item": "具備計畫管理、溝通協調與團隊合作的能力。",
+      "core_eng": "Possess project management competencies, as well as communication, coordination and team collaboration skills.",
+      "core_level": "3 ",
+      "strgy": [
+        "01"
+      ],
+      "evalb": [
+        "F3",
+        "K3",
+        "L2"
+      ],
+      "strgy_name": [
+        "課堂授課"
+      ],
+      "strgy_name_en": [
+        "Classroom instruction"
+      ],
+      "evalb_name": [
+        "小組討論",
+        "上課即時問與答",
+        "點名"
+      ],
+      "evalb_name_en": [
+        "Group discussion",
+        "In-class oral assessment",
+        "Roll call"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CS02149",
+          "sub_id": "05122",
+          "scr_dup": "001",
+          "seq": 5,
+          "strgy_id": "01",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CS02149",
+          "sub_id": "05122",
+          "scr_dup": "001",
+          "seq": 5,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "F3",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CS02149",
+          "sub_id": "05122",
+          "scr_dup": "001",
+          "seq": 5,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "K3",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CS02149",
+          "sub_id": "05122",
+          "scr_dup": "001",
+          "seq": 5,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "L2",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CS02149",
+      "sub_id": "05122",
+      "scr_dup": "001",
+      "seq": 6,
+      "describe_ch": "分析環境問題並構思解決問題的方法\t",
+      "describe_en": "Conceptualize and analyze the problems at hand and find feasible alternative solutions",
+      "core_id": "F",
+      "core_item": "發掘、分析、應用研究成果及兼顧環境永續發展，以解決複雜且整合性工程問題的能力。",
+      "core_eng": "Able to identify and resolve problems.",
+      "core_level": "4 ",
+      "strgy": [
+        "03"
+      ],
+      "evalb": [
+        "F3",
+        "L2"
+      ],
+      "strgy_name": [
+        "個案討論"
+      ],
+      "strgy_name_en": [
+        "Case study"
+      ],
+      "evalb_name": [
+        "小組討論",
+        "點名"
+      ],
+      "evalb_name_en": [
+        "Group discussion",
+        "Roll call"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CS02149",
+          "sub_id": "05122",
+          "scr_dup": "001",
+          "seq": 6,
+          "strgy_id": "03",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CS02149",
+          "sub_id": "05122",
+          "scr_dup": "001",
+          "seq": 6,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "F3",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CS02149",
+          "sub_id": "05122",
+          "scr_dup": "001",
+          "seq": 6,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "L2",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CS02149",
+      "sub_id": "05122",
+      "scr_dup": "001",
+      "seq": 7,
+      "describe_ch": "關心環境問題並能持續學習與謀求解決方案\t",
+      "describe_en": "Continue to care about the environmental problems and to learn new solutions",
+      "core_id": "G",
+      "core_item": "瞭解當代工程及文明對環境永續議題、社會共好及全球發展的影響，並能持續終身學習。",
+      "core_eng": "Able to understand contemporary environmental issues, strengthen professional environmental management competencies and pursue lifelong learning opportunities.",
+      "core_level": "3 ",
+      "strgy": [
+        "01"
+      ],
+      "evalb": [
+        "L2"
+      ],
+      "strgy_name": [
+        "課堂授課"
+      ],
+      "strgy_name_en": [
+        "Classroom instruction"
+      ],
+      "evalb_name": [
+        "點名"
+      ],
+      "evalb_name_en": [
+        "Roll call"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CS02149",
+          "sub_id": "05122",
+          "scr_dup": "001",
+          "seq": 7,
+          "strgy_id": "01",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CS02149",
+          "sub_id": "05122",
+          "scr_dup": "001",
+          "seq": 7,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "L2",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CS02149",
+      "sub_id": "05122",
+      "scr_dup": "001",
+      "seq": 8,
+      "describe_ch": "認知專業倫理與社會道德責任，培養自我管理能力\t",
+      "describe_en": "Recognize and be obliged to the professional ethics and society moral responsibility and develop the ability of self-management.",
+      "core_id": "H",
+      "core_item": "認知工程專業與資訊倫理與社會道德責任，及培養自我管理能力。",
+      "core_eng": "Able to comprehend professional engineering ethics and social responsibility, as well as cultivate self-discipline.",
+      "core_level": "2 ",
+      "strgy": [
+        "03"
+      ],
+      "evalb": [
+        "F3",
+        "K2",
+        "L2"
+      ],
+      "strgy_name": [
+        "個案討論"
+      ],
+      "strgy_name_en": [
+        "Case study"
+      ],
+      "evalb_name": [
+        "小組討論",
+        "口頭報告",
+        "點名"
+      ],
+      "evalb_name_en": [
+        "Group discussion",
+        "Oral presentation",
+        "Roll call"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CS02149",
+          "sub_id": "05122",
+          "scr_dup": "001",
+          "seq": 8,
+          "strgy_id": "03",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CS02149",
+          "sub_id": "05122",
+          "scr_dup": "001",
+          "seq": 8,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "F3",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CS02149",
+          "sub_id": "05122",
+          "scr_dup": "001",
+          "seq": 8,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "K2",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CS02149",
+          "sub_id": "05122",
+          "scr_dup": "001",
+          "seq": 8,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "L2",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    }
+  ],
+  "topicSdgs": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CS02149",
+      "sub_id": "05122",
+      "scr_dup": "001",
+      "sdgs_seq": 12,
+      "main_related": "Y",
+      "ind_related": "N",
+      "iss_name": "環境保護面",
+      "iss_ename": "Environmental Protection",
+      "content_name": "水資源與衛生",
+      "content_ename": "Clean Water and Sanitation"
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CS02149",
+      "sub_id": "05122",
+      "scr_dup": "001",
+      "sdgs_seq": 16,
+      "main_related": "Y",
+      "ind_related": "N",
+      "iss_name": "環境保護面",
+      "iss_ename": "Environmental Protection",
+      "content_name": "保育陸地生態",
+      "content_ename": "Life on Land"
+    }
+  ],
+  "learnHours": {
+    "total": 0.0,
+    "tpdOnlineAsyTotal": 0.0,
+    "tpdOnlineSynTotal": 0.0,
+    "tpdOnlineFaceTotal": 0.0,
+    "asySynInTotalPercent": 0.0
+  },
+  "crossVerYear": 114
+}

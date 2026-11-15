@@ -1,0 +1,744 @@
+{
+  "success": true,
+  "info": {
+    "yms_year": 114.0,
+    "yms_smester": 2.0,
+    "sub_id": "41139",
+    "cls_id": "CE06310",
+    "scr_dup": "001",
+    "sub_id3": "INEN6078",
+    "cls_name": "工業碩一",
+    "cls_ename": "Master's Program, Department of Industrial Engineering and Systems Management",
+    "sub_name": "產業專利實務",
+    "sub_ename": "INDUSTRY PATENT PRACTICE",
+    "scr_mso": "選修",
+    "scr_mso_en": "Elective",
+    "scr_credit": 1.0,
+    "scr_periodly": "(二)02",
+    "scr_periodly_eng": "(Tue)02",
+    "lang_name": "中文                                                      ",
+    "lang_ename": "Chinese",
+    "scr_room": "工504",
+    "scr_room_eng": "EGB504",
+    "scr_teacher": "丘紀堇",
+    "scr_teacher_eng": "Chi-Chin Chiu",
+    "scr_selcode": "1222",
+    "scr_elearning": "全學期",
+    "scr_elearning_en": "Full semester",
+    "scr_hours": "1",
+    "scr_english": "N",
+    "unt_name": null,
+    "unt_ename": null,
+    "link_traminal": null,
+    "link_traminal_en": null,
+    "scr_ldl": "D",
+    "course_mk": "N",
+    "teams_mk": "N",
+    "sub_title": null,
+    "sub_title_en": null,
+    "sub_describe": null,
+    "sub_describe_en": null,
+    "hasDescription": null,
+    "hasInstructor": null,
+    "hasTA": null,
+    "hasTextBooks": null,
+    "hasReadings": null,
+    "hasiSoftwares": null,
+    "hasAssistSoftwares": null,
+    "hasObjective": null,
+    "hasWeeklyScds": null,
+    "hasGradeRules": null,
+    "hasGradeRuleDescribe": null,
+    "hasIntegrity": null,
+    "hasCoursePol": null,
+    "hasCourseRem": null,
+    "hasObjectiveReleation": null,
+    "hasTopicSdgs": null,
+    "hasTopicAiIndicators": null,
+    "hasSubTitleDesc": null
+  },
+  "subTitleDesc": null,
+  "description": {
+    "sub_id3": null,
+    "sub_name": "產業專利實務",
+    "sub_ename": "INDUSTRY PATENT PRACTICE",
+    "describe_ch": "在產品開發的議題中，「智慧財產權」係指受法律保護的構想、概念、名稱、設計，以及和新產品相關的流程。智慧財產權使產業與企業中最有價值之一，因此本課程主要的目的是指導學生研究分析創意研發、科技以及專利之間的關係， 進而學習國內外專利檢所以及專利寫作實務。",
+    "describe_eh": " In the issue of product development, \"intellectual property rights\" refer to concepts, concepts, names, designs, and processes related to new products that are protected by law. Intellectual property rights make one of the most valuable industries and enterprises, so the main purpose of this course is to guide students to study and analyze the relationship between creative R & D, technology and patents, and then learn about domestic and foreign patent inspection offices and patent writing practices.",
+    "pre_subname": "",
+    "pre_sub_id3": null,
+    "pre_sub_ename": "",
+    "pre_describe": null,
+    "pre_describe_en": null,
+    "scr_credit": 1.0
+  },
+  "targets": [
+    {
+      "seq": 1,
+      "describe_ch": "具備自我學習專業領域知識，並具有策劃與執行專題研究及撰寫學術論文之能力。",
+      "describe_en": "Possess professional knowledge of self-learing , and has the ability to plan and execute special research and write academic papers."
+    },
+    {
+      "seq": 2,
+      "describe_ch": "具備創新思維及能夠獨立解決問題之能力",
+      "describe_en": "Possess innovative thinking and ability to solve problems independently."
+    },
+    {
+      "seq": 3,
+      "describe_ch": "具備掌握全球產業發展趨勢及技術接軌之能力",
+      "describe_en": "Ability to master global industry development trends and technology integration"
+    },
+    {
+      "seq": 4,
+      "describe_ch": "具備健全之職場倫理、社會責任及國際觀之思維。",
+      "describe_en": "Possess sound thinking about workplace ethics, social responsibility and international outlook"
+    }
+  ],
+  "teachersInfo": [
+    {
+      "cname": "丘紀堇",
+      "ename": "Chiu Chi-Chin (Sophie Colline)",
+      "period": "(Tue)08-09 工313-2,(Thu)03-04 工313-2",
+      "roletype": 0,
+      "email": "ccchiu@o365.fcu.edu.tw",
+      "ext": "3625"
+    }
+  ],
+  "textBooks": {
+    "yms_year": 114.0,
+    "yms_smester": 2.0,
+    "cls_id": "CE06310",
+    "sub_id": "41139",
+    "scr_dup": "001",
+    "tpb_seq": 1,
+    "tpb_book": "<div>1-智慧財產權導論與專利實務(第五版)，王世仁，全華圖書。</div>\n\n<div>&nbsp;</div>\n\n<div>2-創新與專利管理：建構研發人員之創新與專利競爭力，龍仕璋，華泰文化。</div>\n",
+    "tpb_book_en": " "
+  },
+  "readings": {
+    "yms_year": 114.0,
+    "yms_smester": 2.0,
+    "cls_id": "CE06310",
+    "sub_id": "41139",
+    "scr_dup": "001",
+    "tpc_seq": 1,
+    "tpc_book": "<div>https://www.tipo.gov.tw/tw/mp-1.html</div>\n",
+    "tpc_book_en": " "
+  },
+  "iSoftwares": [],
+  "assistSoftwares": [],
+  "weeklyScds": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CE06310",
+      "sub_id": "41139",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "1",
+      "tpd_reading": "<div>2/24&nbsp;9:10-12:00 &nbsp;\n<div><strong>第</strong><strong>三章&nbsp; 專利導論 </strong>/</div>\n\n<div>\n<div>&nbsp;分組討論 (一)專利實務</div>\n</div>\n</div>\n\n<div>&nbsp;</div>\n",
+      "tpd_reading_en": " ",
+      "tpd_learn": null,
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": "課程說明與分組(4-5個人)\n分組討論(一)專利實務",
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": 3.0,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CE06310",
+      "sub_id": "41139",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "2",
+      "tpd_reading": "<div>3/3&nbsp;9:10-12:00 丘紀堇老師/</div>\n\n<div><strong>第四章 美國與中國之專利制度</strong></div>\n\n<div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>\n",
+      "tpd_reading_en": " ",
+      "tpd_learn": null,
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": "分組討論(二)專利實務",
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": 3.0,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CE06310",
+      "sub_id": "41139",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "3",
+      "tpd_reading": "<div>3／10&nbsp;9:10-12:00 丘紀堇老師</div>\n\n<div>\n<div><strong>第五章 專利說明書</strong></div>\n\n<div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; /分組討論(四)專利實務</div>\n</div>\n",
+      "tpd_reading_en": " ",
+      "tpd_learn": null,
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": "分組討論(三)專利實務",
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": 3.0,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CE06310",
+      "sub_id": "41139",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "4",
+      "tpd_reading": "<div>3/17 9:10-12:00 丘紀堇老師</div>\n\n<div><strong>第六章 專利檢索</strong></div>\n",
+      "tpd_reading_en": " ",
+      "tpd_learn": null,
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": "分組討論(四)專利實務",
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": 3.0,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CE06310",
+      "sub_id": "41139",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "5",
+      "tpd_reading": "<div>3/24&nbsp;9:10-12:00 丘紀堇老師</div>\n\n<div>\n<div><strong>第八章 專利分析 </strong></div>\n</div>\n",
+      "tpd_reading_en": " ",
+      "tpd_learn": null,
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": "分組討論(五)專利實務",
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": 3.0,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CE06310",
+      "sub_id": "41139",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "6",
+      "tpd_reading": "<div>4/79:10-12:00 丘紀堇老師</div>\n",
+      "tpd_reading_en": " ",
+      "tpd_learn": null,
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": "期末報告：根據一件產品新型專利撰寫實務",
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": 3.0,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CE06310",
+      "sub_id": "41139",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "7",
+      "tpd_reading": "<div>4/146 9:10-11:00 期末報告</div>\n",
+      "tpd_reading_en": " ",
+      "tpd_learn": null,
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": "期末報告",
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    }
+  ],
+  "gradeRules": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CE06310",
+      "sub_id": "41139",
+      "scr_dup": "001",
+      "evalb_id": "D4",
+      "score_rate": 50,
+      "evalb_memo": "平時出席與作業",
+      "evalb_memo_en": null,
+      "evalb_name": "作業",
+      "evalb_name_en": "Homework",
+      "seq": 1
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CE06310",
+      "sub_id": "41139",
+      "scr_dup": "001",
+      "evalb_id": "K2",
+      "score_rate": 50,
+      "evalb_memo": "期末報告",
+      "evalb_memo_en": null,
+      "evalb_name": "口頭報告",
+      "evalb_name_en": "Oral presentation",
+      "seq": 2
+    }
+  ],
+  "gradeRuleDescribe": {
+    "yms_year": 114.0,
+    "yms_smester": 2.0,
+    "cls_id": "CE06310",
+    "sub_id": "41139",
+    "scr_dup": "001",
+    "tpa_score_new": "<div>本課程上課時間總共18小時, 課程主要分為:1.「創新與專利管理：建構研發人員之創新與專利競爭力」2.書籍導讀與專利實務兩部分。總共分為六週上課，每次3個小時。 成績分為兩部分: 平時成績(50%)+期末報告(50%) 期末報告: 為各組分組撰寫專利的成果發表 平時成績: 課堂分組作業(三次未出席無法通過本課程，<strong>曠課缺課以加權方式計算</strong>)</div>\n",
+    "tpa_score_new_en": " ",
+    "course_pol": "三次未出席，無論是否有請假都不會通過本課程，因為本課程只有18小時課程，故請務必出席。為鼓勵出席，全勤加2分。",
+    "course_pol_en": null,
+    "course_rem": null,
+    "course_rem_en": null,
+    "ais_meno": "<div>作業禁止抄襲&nbsp;分組討論互動分配均衡、重視團隊合作、 未出席隨堂考與期末報告除非特殊理由(提供證明)否則以零分計算</div>\n\n<div>&nbsp;</div>\n\n<div>剽竊是對學術信任的嚴重破壞。在學習作業中，我們的言論和想法就是我們作業的價值；因此將他人的作品當作自己的作品繳交，是一種盜竊行為。當您使用別人的文字和想法時，無論是著名作家還是同學的作品，而不註明這些文章、詞語和想法的來源出處，您的行為就是在抄襲。原創性作品是我的底線，抄襲的作品將會收到&ldquo;0&rdquo;或&ldquo;不及格&rdquo;的分數。</div>\n",
+    "ais_meno_en": null,
+    "ilearn_mk": "Y"
+  },
+  "integrity": {
+    "yms_year": 114.0,
+    "yms_smester": 2.0,
+    "cls_id": "CE06310",
+    "sub_id": "41139",
+    "scr_dup": "001",
+    "tpa_score_new": "<div>本課程上課時間總共18小時, 課程主要分為:1.「創新與專利管理：建構研發人員之創新與專利競爭力」2.書籍導讀與專利實務兩部分。總共分為六週上課，每次3個小時。 成績分為兩部分: 平時成績(50%)+期末報告(50%) 期末報告: 為各組分組撰寫專利的成果發表 平時成績: 課堂分組作業(三次未出席無法通過本課程，<strong>曠課缺課以加權方式計算</strong>)</div>\n",
+    "tpa_score_new_en": " ",
+    "course_pol": "三次未出席，無論是否有請假都不會通過本課程，因為本課程只有18小時課程，故請務必出席。為鼓勵出席，全勤加2分。",
+    "course_pol_en": null,
+    "course_rem": null,
+    "course_rem_en": null,
+    "ais_meno": "<div>作業禁止抄襲&nbsp;分組討論互動分配均衡、重視團隊合作、 未出席隨堂考與期末報告除非特殊理由(提供證明)否則以零分計算</div>\n\n<div>&nbsp;</div>\n\n<div>剽竊是對學術信任的嚴重破壞。在學習作業中，我們的言論和想法就是我們作業的價值；因此將他人的作品當作自己的作品繳交，是一種盜竊行為。當您使用別人的文字和想法時，無論是著名作家還是同學的作品，而不註明這些文章、詞語和想法的來源出處，您的行為就是在抄襲。原創性作品是我的底線，抄襲的作品將會收到&ldquo;0&rdquo;或&ldquo;不及格&rdquo;的分數。</div>\n",
+    "ais_meno_en": null,
+    "ilearn_mk": "Y"
+  },
+  "policy": {
+    "yms_year": 114.0,
+    "yms_smester": 2.0,
+    "cls_id": "CE06310",
+    "sub_id": "41139",
+    "scr_dup": "001",
+    "tpa_score_new": "<div>本課程上課時間總共18小時, 課程主要分為:1.「創新與專利管理：建構研發人員之創新與專利競爭力」2.書籍導讀與專利實務兩部分。總共分為六週上課，每次3個小時。 成績分為兩部分: 平時成績(50%)+期末報告(50%) 期末報告: 為各組分組撰寫專利的成果發表 平時成績: 課堂分組作業(三次未出席無法通過本課程，<strong>曠課缺課以加權方式計算</strong>)</div>\n",
+    "tpa_score_new_en": " ",
+    "course_pol": "三次未出席，無論是否有請假都不會通過本課程，因為本課程只有18小時課程，故請務必出席。為鼓勵出席，全勤加2分。",
+    "course_pol_en": null,
+    "course_rem": null,
+    "course_rem_en": null,
+    "ais_meno": "<div>作業禁止抄襲&nbsp;分組討論互動分配均衡、重視團隊合作、 未出席隨堂考與期末報告除非特殊理由(提供證明)否則以零分計算</div>\n\n<div>&nbsp;</div>\n\n<div>剽竊是對學術信任的嚴重破壞。在學習作業中，我們的言論和想法就是我們作業的價值；因此將他人的作品當作自己的作品繳交，是一種盜竊行為。當您使用別人的文字和想法時，無論是著名作家還是同學的作品，而不註明這些文章、詞語和想法的來源出處，您的行為就是在抄襲。原創性作品是我的底線，抄襲的作品將會收到&ldquo;0&rdquo;或&ldquo;不及格&rdquo;的分數。</div>\n",
+    "ais_meno_en": null,
+    "ilearn_mk": "Y"
+  },
+  "courseBankC": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CE06310",
+      "sub_id": "41139",
+      "scr_dup": "001",
+      "seq": 1,
+      "describe_ch": "具備自我學習專業領域知識，並具有策劃與執行專題研究及撰寫學術論文之能力。",
+      "describe_en": "Possess professional knowledge of self-learing , and has the ability to plan and execute special research and write academic papers.",
+      "core_id": "B",
+      "core_item": "具備自我學習專業領域知識，並具有策劃與執行專題研究及撰寫學術論文之能力。",
+      "core_eng": "To cultivate the capability for solving actual problem on Industrial Engineering and System Management, and for planning and execution of project studies, and for writing theses.",
+      "core_level": "3 ",
+      "strgy": [
+        "01",
+        "03",
+        "07"
+      ],
+      "evalb": [
+        "D5"
+      ],
+      "strgy_name": [
+        "課堂授課",
+        "個案討論",
+        "指定閱讀"
+      ],
+      "strgy_name_en": [
+        "Classroom instruction",
+        "Case study",
+        "Extensive reading"
+      ],
+      "evalb_name": [
+        "期末專題"
+      ],
+      "evalb_name_en": [
+        "Final presentation"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE06310",
+          "sub_id": "41139",
+          "scr_dup": "001",
+          "seq": 1,
+          "strgy_id": "01",
+          "strgy_name": null,
+          "strgy_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE06310",
+          "sub_id": "41139",
+          "scr_dup": "001",
+          "seq": 1,
+          "strgy_id": "03",
+          "strgy_name": null,
+          "strgy_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE06310",
+          "sub_id": "41139",
+          "scr_dup": "001",
+          "seq": 1,
+          "strgy_id": "07",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE06310",
+          "sub_id": "41139",
+          "scr_dup": "001",
+          "seq": 1,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D5",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CE06310",
+      "sub_id": "41139",
+      "scr_dup": "001",
+      "seq": 2,
+      "describe_ch": "具備創新思維及能夠獨立解決問題之能力",
+      "describe_en": "Possess innovative thinking and ability to solve problems independently.",
+      "core_id": "D",
+      "core_item": "具備創新思維及能夠獨立解決問題之能力。",
+      "core_eng": "To acquire innovatory thought and the capability be able to independently solve problems.",
+      "core_level": "3 ",
+      "strgy": [
+        "01",
+        "18"
+      ],
+      "evalb": [
+        "D5"
+      ],
+      "strgy_name": [
+        "課堂授課",
+        "主動學習"
+      ],
+      "strgy_name_en": [
+        "Classroom instruction",
+        "Active Learning, AL"
+      ],
+      "evalb_name": [
+        "期末專題"
+      ],
+      "evalb_name_en": [
+        "Final presentation"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE06310",
+          "sub_id": "41139",
+          "scr_dup": "001",
+          "seq": 2,
+          "strgy_id": "01",
+          "strgy_name": null,
+          "strgy_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE06310",
+          "sub_id": "41139",
+          "scr_dup": "001",
+          "seq": 2,
+          "strgy_id": "18",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE06310",
+          "sub_id": "41139",
+          "scr_dup": "001",
+          "seq": 2,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D5",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CE06310",
+      "sub_id": "41139",
+      "scr_dup": "001",
+      "seq": 3,
+      "describe_ch": "具備掌握全球產業發展趨勢及技術接軌之能力",
+      "describe_en": "Ability to master global industry development trends and technology integration",
+      "core_id": "E",
+      "core_item": "具備掌握全球產業發展趨勢及對於環境永續、社會共好的影響，培養技術接軌之能力。",
+      "core_eng": "To acquire the capability of holding the trend of global production and technical business development.",
+      "core_level": "3 ",
+      "strgy": [
+        "01",
+        "07"
+      ],
+      "evalb": [
+        "D5"
+      ],
+      "strgy_name": [
+        "課堂授課",
+        "指定閱讀"
+      ],
+      "strgy_name_en": [
+        "Classroom instruction",
+        "Extensive reading"
+      ],
+      "evalb_name": [
+        "期末專題"
+      ],
+      "evalb_name_en": [
+        "Final presentation"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE06310",
+          "sub_id": "41139",
+          "scr_dup": "001",
+          "seq": 3,
+          "strgy_id": "01",
+          "strgy_name": null,
+          "strgy_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE06310",
+          "sub_id": "41139",
+          "scr_dup": "001",
+          "seq": 3,
+          "strgy_id": "07",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE06310",
+          "sub_id": "41139",
+          "scr_dup": "001",
+          "seq": 3,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D5",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CE06310",
+      "sub_id": "41139",
+      "scr_dup": "001",
+      "seq": 4,
+      "describe_ch": "具備健全之職場倫理、社會責任及國際觀之思維。",
+      "describe_en": "Possess sound thinking about workplace ethics, social responsibility and international outlook",
+      "core_id": "F",
+      "core_item": "具備健全之職場與資訊倫理、社會責任及國際觀之思維。",
+      "core_eng": "To acquire the sound occupational ethics, , social responsibility and thought with international viewpoint.",
+      "core_level": "3 ",
+      "strgy": [
+        "01",
+        "03",
+        "10"
+      ],
+      "evalb": [
+        "D5"
+      ],
+      "strgy_name": [
+        "課堂授課",
+        "個案討論",
+        "小組討論及活動"
+      ],
+      "strgy_name_en": [
+        "Classroom instruction",
+        "Case study",
+        "Group activity & discussion"
+      ],
+      "evalb_name": [
+        "期末專題"
+      ],
+      "evalb_name_en": [
+        "Final presentation"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE06310",
+          "sub_id": "41139",
+          "scr_dup": "001",
+          "seq": 4,
+          "strgy_id": "01",
+          "strgy_name": null,
+          "strgy_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE06310",
+          "sub_id": "41139",
+          "scr_dup": "001",
+          "seq": 4,
+          "strgy_id": "03",
+          "strgy_name": null,
+          "strgy_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE06310",
+          "sub_id": "41139",
+          "scr_dup": "001",
+          "seq": 4,
+          "strgy_id": "10",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE06310",
+          "sub_id": "41139",
+          "scr_dup": "001",
+          "seq": 4,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D5",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    }
+  ],
+  "topicSdgs": [],
+  "topicAiIndicators": [],
+  "learnHours": {
+    "total": 18.0,
+    "tpdOnlineAsyTotal": 0.0,
+    "tpdOnlineSynTotal": 0.0,
+    "tpdOnlineFaceTotal": 18.0,
+    "asySynInTotalPercent": 0.0
+  },
+  "crossVerYear": 114
+}

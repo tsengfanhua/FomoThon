@@ -1,0 +1,952 @@
+{
+  "success": true,
+  "info": {
+    "yms_year": 114.0,
+    "yms_smester": 2.0,
+    "sub_id": "19470",
+    "cls_id": "CE01129",
+    "scr_dup": "001",
+    "sub_id3": "CE2086",
+    "cls_name": "土木二合",
+    "cls_ename": "Department of Civil Engineering",
+    "sub_name": "材料力學(二)",
+    "sub_ename": "MECHANICS OF MATERIALS(2)",
+    "scr_mso": "選修",
+    "scr_mso_en": "Elective",
+    "scr_credit": 3.0,
+    "scr_periodly": "(二)02-04",
+    "scr_periodly_eng": "(Tue)02-04",
+    "lang_name": "中文                                                      ",
+    "lang_ename": "Chinese",
+    "scr_room": "語204",
+    "scr_room_eng": "LB204",
+    "scr_teacher": "莊財福",
+    "scr_teacher_eng": "Tsai-Fu Chuang",
+    "scr_selcode": "0920",
+    "scr_elearning": "全學期",
+    "scr_elearning_en": "Full semester",
+    "scr_hours": "3",
+    "scr_english": "N",
+    "unt_name": null,
+    "unt_ename": null,
+    "link_traminal": null,
+    "link_traminal_en": null,
+    "scr_ldl": "D",
+    "course_mk": "N",
+    "teams_mk": "N",
+    "sub_title": null,
+    "sub_title_en": null,
+    "sub_describe": null,
+    "sub_describe_en": null,
+    "hasDescription": null,
+    "hasInstructor": null,
+    "hasTA": null,
+    "hasTextBooks": null,
+    "hasReadings": null,
+    "hasiSoftwares": null,
+    "hasAssistSoftwares": null,
+    "hasObjective": null,
+    "hasWeeklyScds": null,
+    "hasGradeRules": null,
+    "hasGradeRuleDescribe": null,
+    "hasIntegrity": null,
+    "hasCoursePol": null,
+    "hasCourseRem": null,
+    "hasObjectiveReleation": null,
+    "hasTopicSdgs": null,
+    "hasTopicAiIndicators": null,
+    "hasSubTitleDesc": null
+  },
+  "subTitleDesc": null,
+  "description": {
+    "sub_id3": null,
+    "sub_name": "材料力學(二)",
+    "sub_ename": "MECHANICS OF MATERIALS(2)",
+    "describe_ch": "材料力學(二)介紹結構物承受不同外力作用下之內力、形變及載重承載力等進階力學行為，課程目標為培養學生解決進階材料與結構力學問題的基本能力。主要內容包括進階應力、應變、材料力學性質、軸力桿件、扭力桿件、梁之應力分析、應力轉換及柱之挫屈等。",
+    "describe_eh": "This course introduces the advanced mechanical behaviors such as internal forces, deformations, and loading capacity of structures subjected to various external forces. The objective of the course is to develop students’ basic ability to solve advanced mechanical problems of materials and structures. The main contents include advanced stress, strain, mechanical properties of materials, members under axial loading, torsion members, stress analysis of beams, transformations of stress, and buckling of columns.",
+    "pre_subname": "",
+    "pre_sub_id3": null,
+    "pre_sub_ename": "",
+    "pre_describe": null,
+    "pre_describe_en": null,
+    "scr_credit": 3.0
+  },
+  "targets": [
+    {
+      "seq": 1,
+      "describe_ch": "能培養解決進階材料與結構力學問題之基本能力",
+      "describe_en": null
+    },
+    {
+      "seq": 2,
+      "describe_ch": "能理解並應用進階應力與應變分析",
+      "describe_en": null
+    },
+    {
+      "seq": 3,
+      "describe_ch": "能掌握材料力學性質與軸力、扭力構件之設計概念",
+      "describe_en": null
+    },
+    {
+      "seq": 4,
+      "describe_ch": "能分析梁之應力與變形行為，進行應力轉換",
+      "describe_en": null
+    },
+    {
+      "seq": 5,
+      "describe_ch": "能理解柱之挫屈特性並進行基本判斷與計算",
+      "describe_en": null
+    }
+  ],
+  "teachersInfo": [
+    {
+      "cname": "莊財福",
+      "ename": "Tsai-Fu Chuang",
+      "period": "(Mon)03-04 土509,(Thu)07-08 土509",
+      "roletype": 0,
+      "email": "tfchuang@o365.fcu.edu.tw",
+      "ext": "3119"
+    }
+  ],
+  "textBooks": {
+    "yms_year": 114.0,
+    "yms_smester": 2.0,
+    "cls_id": "CE01129",
+    "sub_id": "19470",
+    "scr_dup": "001",
+    "tpb_seq": 1,
+    "tpb_book": "Structural Analysis,10th edition (SI units) (2020).",
+    "tpb_book_en": " "
+  },
+  "readings": {
+    "yms_year": 114.0,
+    "yms_smester": 2.0,
+    "cls_id": "CE01129",
+    "sub_id": "19470",
+    "scr_dup": "001",
+    "tpc_seq": 1,
+    "tpc_book": "結構分析，第八版 (2018)",
+    "tpc_book_en": " "
+  },
+  "iSoftwares": [],
+  "assistSoftwares": [],
+  "weeklyScds": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CE01129",
+      "sub_id": "19470",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "1",
+      "tpd_reading": "<div>第 1 週｜課程介紹 &amp; 回顧材料力學（一）</div>\n",
+      "tpd_reading_en": " ",
+      "tpd_learn": null,
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": 3.0,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CE01129",
+      "sub_id": "19470",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "2-4",
+      "tpd_reading": "<div>第 2&ndash;4 週：第 9 章 應力轉換</div>\n",
+      "tpd_reading_en": " ",
+      "tpd_learn": null,
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": 9.0,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CE01129",
+      "sub_id": "19470",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "5~7",
+      "tpd_reading": "<div>第 5&ndash;7 週：第 10 章 應變轉換</div>\n",
+      "tpd_reading_en": " ",
+      "tpd_learn": null,
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": 9.0,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CE01129",
+      "sub_id": "19470",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "8",
+      "tpd_reading": "<div>第 8 週｜期中考</div>\n",
+      "tpd_reading_en": " ",
+      "tpd_learn": null,
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": 3.0,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CE01129",
+      "sub_id": "19470",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "9~11",
+      "tpd_reading": "<div>第 9&ndash;11 週：第 11 章 梁與軸的設計</div>\n",
+      "tpd_reading_en": " ",
+      "tpd_learn": null,
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": 9.0,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CE01129",
+      "sub_id": "19470",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "12-14",
+      "tpd_reading": "<div>第 12&ndash;14 週：第 12&ndash;13 章 挫曲分析</div>\n",
+      "tpd_reading_en": " ",
+      "tpd_learn": null,
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": 9.0,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CE01129",
+      "sub_id": "19470",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "15-18",
+      "tpd_reading": "<div>第 15&ndash;17 週：第 14 章 能量法</div>\n\n<div>第 18 周：期末考</div>\n",
+      "tpd_reading_en": " ",
+      "tpd_learn": null,
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": 12.0,
+      "tpd_week_en": null,
+      "mode": 0
+    }
+  ],
+  "gradeRules": [],
+  "gradeRuleDescribe": {
+    "yms_year": 114.0,
+    "yms_smester": 2.0,
+    "cls_id": "CE01129",
+    "sub_id": "19470",
+    "scr_dup": "001",
+    "tpa_score_new": "A.   Midterm Exam   25% \nB.   Final Exam     25% \nC.   Quizzes         20% \nD.   Homework Assignments 10%\nE.   Group Project Report     10%\nF.   Attending      10%",
+    "tpa_score_new_en": null,
+    "course_pol": "課堂規則\n1. 為保障同學行車安全，第一節上課10min後開始點名， 但仍請同學盡量準時上課，點名結束後再進教室者，視為遲到。\n2. 最後一節下課前10min開始點名，此時未在座位者，視為早退。\n3. 每節課依照出席率變化情形，會不定期點名。",
+    "course_pol_en": null,
+    "course_rem": null,
+    "course_rem_en": null,
+    "ais_meno": "<table cellspacing=\"0\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<div><strong>綜合說明</strong></div>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<div><strong>1.&nbsp;&nbsp; &nbsp;</strong><strong>誠信是基本的態度與專業價值的宣言，是將學術理想轉化為行動的行為原則以及落實社會責任。<br />\n\t\t\t2.&nbsp;&nbsp; &nbsp;</strong><strong>學術誠信最重要的價值觀之一是思想自由流動與尊重他人智慧財產權之間的平衡。</strong></div>\n\n\t\t\t<ul>\n\t\t\t\t<li>學生應重視及恪遵智慧財產權。不得在學術活動中給予、使用或接受未經授權的援助。使用圖書館館藏、有版權的教材讀本與影音資料。</li>\n\t\t\t\t<li>恪守誠信，積極出席和參與課堂的學習承諾。</li>\n\t\t\t\t<li>學生在課堂上都應尊重每個人，並且在任何時候都應以負責和禮貌的態度行事。</li>\n\t\t\t</ul>\n\n\t\t\t<div><strong>3.&nbsp;&nbsp; &nbsp;</strong><strong>學生有責任做好自己的學習任務，並避免一切形式的學術不誠實行為。</strong></div>\n\n\t\t\t<ul>\n\t\t\t\t<li>不作弊：紙筆測驗時，不得交談、窺竊他人試卷或故意便利鄰座竊窺，或有夾帶、抄襲或傳遞資料等情事經發現時，違者該次考試成績以零分計算。並視違者情節，或有替考情事，其舞弊之雙方，將依逢甲大學學生考試辦法、學生獎懲辦法之相關規定處理。</li>\n\t\t\t\t<li>不抄襲：提交原創作品，嚴禁任何形式的抄襲。</li>\n\t\t\t\t<li>不偽造：篡改成績或其他正式文件，如診所就醫證明。</li>\n\t\t\t\t<li>不篡改/不捏造：從實驗中蒐集數據過程，以人為方式創建數據或編造不存在的數據或資料來源，均被視為捏造或篡改</li>\n\t\t\t\t<li>不破壞：破壞他人的藝術品、實驗或設計成果被視為破壞行為。未能為團隊專題做出貢獻，也被視為學術破壞。</li>\n\t\t\t</ul>\n\n\t\t\t<div>以上情況視違者情節，將依逢甲大學學生獎懲辦法等相關規定提送處分。</div>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>\n",
+    "ais_meno_en": null,
+    "ilearn_mk": "N"
+  },
+  "integrity": {
+    "yms_year": 114.0,
+    "yms_smester": 2.0,
+    "cls_id": "CE01129",
+    "sub_id": "19470",
+    "scr_dup": "001",
+    "tpa_score_new": "A.   Midterm Exam   25% \nB.   Final Exam     25% \nC.   Quizzes         20% \nD.   Homework Assignments 10%\nE.   Group Project Report     10%\nF.   Attending      10%",
+    "tpa_score_new_en": null,
+    "course_pol": "課堂規則\n1. 為保障同學行車安全，第一節上課10min後開始點名， 但仍請同學盡量準時上課，點名結束後再進教室者，視為遲到。\n2. 最後一節下課前10min開始點名，此時未在座位者，視為早退。\n3. 每節課依照出席率變化情形，會不定期點名。",
+    "course_pol_en": null,
+    "course_rem": null,
+    "course_rem_en": null,
+    "ais_meno": "<table cellspacing=\"0\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<div><strong>綜合說明</strong></div>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<div><strong>1.&nbsp;&nbsp; &nbsp;</strong><strong>誠信是基本的態度與專業價值的宣言，是將學術理想轉化為行動的行為原則以及落實社會責任。<br />\n\t\t\t2.&nbsp;&nbsp; &nbsp;</strong><strong>學術誠信最重要的價值觀之一是思想自由流動與尊重他人智慧財產權之間的平衡。</strong></div>\n\n\t\t\t<ul>\n\t\t\t\t<li>學生應重視及恪遵智慧財產權。不得在學術活動中給予、使用或接受未經授權的援助。使用圖書館館藏、有版權的教材讀本與影音資料。</li>\n\t\t\t\t<li>恪守誠信，積極出席和參與課堂的學習承諾。</li>\n\t\t\t\t<li>學生在課堂上都應尊重每個人，並且在任何時候都應以負責和禮貌的態度行事。</li>\n\t\t\t</ul>\n\n\t\t\t<div><strong>3.&nbsp;&nbsp; &nbsp;</strong><strong>學生有責任做好自己的學習任務，並避免一切形式的學術不誠實行為。</strong></div>\n\n\t\t\t<ul>\n\t\t\t\t<li>不作弊：紙筆測驗時，不得交談、窺竊他人試卷或故意便利鄰座竊窺，或有夾帶、抄襲或傳遞資料等情事經發現時，違者該次考試成績以零分計算。並視違者情節，或有替考情事，其舞弊之雙方，將依逢甲大學學生考試辦法、學生獎懲辦法之相關規定處理。</li>\n\t\t\t\t<li>不抄襲：提交原創作品，嚴禁任何形式的抄襲。</li>\n\t\t\t\t<li>不偽造：篡改成績或其他正式文件，如診所就醫證明。</li>\n\t\t\t\t<li>不篡改/不捏造：從實驗中蒐集數據過程，以人為方式創建數據或編造不存在的數據或資料來源，均被視為捏造或篡改</li>\n\t\t\t\t<li>不破壞：破壞他人的藝術品、實驗或設計成果被視為破壞行為。未能為團隊專題做出貢獻，也被視為學術破壞。</li>\n\t\t\t</ul>\n\n\t\t\t<div>以上情況視違者情節，將依逢甲大學學生獎懲辦法等相關規定提送處分。</div>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>\n",
+    "ais_meno_en": null,
+    "ilearn_mk": "N"
+  },
+  "policy": {
+    "yms_year": 114.0,
+    "yms_smester": 2.0,
+    "cls_id": "CE01129",
+    "sub_id": "19470",
+    "scr_dup": "001",
+    "tpa_score_new": "A.   Midterm Exam   25% \nB.   Final Exam     25% \nC.   Quizzes         20% \nD.   Homework Assignments 10%\nE.   Group Project Report     10%\nF.   Attending      10%",
+    "tpa_score_new_en": null,
+    "course_pol": "課堂規則\n1. 為保障同學行車安全，第一節上課10min後開始點名， 但仍請同學盡量準時上課，點名結束後再進教室者，視為遲到。\n2. 最後一節下課前10min開始點名，此時未在座位者，視為早退。\n3. 每節課依照出席率變化情形，會不定期點名。",
+    "course_pol_en": null,
+    "course_rem": null,
+    "course_rem_en": null,
+    "ais_meno": "<table cellspacing=\"0\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<div><strong>綜合說明</strong></div>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<div><strong>1.&nbsp;&nbsp; &nbsp;</strong><strong>誠信是基本的態度與專業價值的宣言，是將學術理想轉化為行動的行為原則以及落實社會責任。<br />\n\t\t\t2.&nbsp;&nbsp; &nbsp;</strong><strong>學術誠信最重要的價值觀之一是思想自由流動與尊重他人智慧財產權之間的平衡。</strong></div>\n\n\t\t\t<ul>\n\t\t\t\t<li>學生應重視及恪遵智慧財產權。不得在學術活動中給予、使用或接受未經授權的援助。使用圖書館館藏、有版權的教材讀本與影音資料。</li>\n\t\t\t\t<li>恪守誠信，積極出席和參與課堂的學習承諾。</li>\n\t\t\t\t<li>學生在課堂上都應尊重每個人，並且在任何時候都應以負責和禮貌的態度行事。</li>\n\t\t\t</ul>\n\n\t\t\t<div><strong>3.&nbsp;&nbsp; &nbsp;</strong><strong>學生有責任做好自己的學習任務，並避免一切形式的學術不誠實行為。</strong></div>\n\n\t\t\t<ul>\n\t\t\t\t<li>不作弊：紙筆測驗時，不得交談、窺竊他人試卷或故意便利鄰座竊窺，或有夾帶、抄襲或傳遞資料等情事經發現時，違者該次考試成績以零分計算。並視違者情節，或有替考情事，其舞弊之雙方，將依逢甲大學學生考試辦法、學生獎懲辦法之相關規定處理。</li>\n\t\t\t\t<li>不抄襲：提交原創作品，嚴禁任何形式的抄襲。</li>\n\t\t\t\t<li>不偽造：篡改成績或其他正式文件，如診所就醫證明。</li>\n\t\t\t\t<li>不篡改/不捏造：從實驗中蒐集數據過程，以人為方式創建數據或編造不存在的數據或資料來源，均被視為捏造或篡改</li>\n\t\t\t\t<li>不破壞：破壞他人的藝術品、實驗或設計成果被視為破壞行為。未能為團隊專題做出貢獻，也被視為學術破壞。</li>\n\t\t\t</ul>\n\n\t\t\t<div>以上情況視違者情節，將依逢甲大學學生獎懲辦法等相關規定提送處分。</div>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>\n",
+    "ais_meno_en": null,
+    "ilearn_mk": "N"
+  },
+  "courseBankC": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CE01129",
+      "sub_id": "19470",
+      "scr_dup": "001",
+      "seq": 1,
+      "describe_ch": "能培養解決進階材料與結構力學問題之基本能力",
+      "describe_en": null,
+      "core_id": "A",
+      "core_item": "使用物理學、數學、力學與土木工程知識之能力。",
+      "core_eng": "Possess the relevant capability to use physics, mathematics, mechanics, and civil engineering knowledge",
+      "core_level": "3 ",
+      "strgy": [
+        "01",
+        "10"
+      ],
+      "evalb": [
+        "D1",
+        "D2",
+        "D4"
+      ],
+      "strgy_name": [
+        "課堂授課",
+        "小組討論及活動"
+      ],
+      "strgy_name_en": [
+        "Classroom instruction",
+        "Group activity & discussion"
+      ],
+      "evalb_name": [
+        "期中考",
+        "期末考",
+        "作業"
+      ],
+      "evalb_name_en": [
+        "Midterm examination",
+        "Final examination",
+        "Homework"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE01129",
+          "sub_id": "19470",
+          "scr_dup": "001",
+          "seq": 1,
+          "strgy_id": "01",
+          "strgy_name": null,
+          "strgy_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE01129",
+          "sub_id": "19470",
+          "scr_dup": "001",
+          "seq": 1,
+          "strgy_id": "10",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE01129",
+          "sub_id": "19470",
+          "scr_dup": "001",
+          "seq": 1,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D1",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE01129",
+          "sub_id": "19470",
+          "scr_dup": "001",
+          "seq": 1,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D2",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE01129",
+          "sub_id": "19470",
+          "scr_dup": "001",
+          "seq": 1,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D4",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CE01129",
+      "sub_id": "19470",
+      "scr_dup": "001",
+      "seq": 2,
+      "describe_ch": "能理解並應用進階應力與應變分析",
+      "describe_en": null,
+      "core_id": "A",
+      "core_item": "使用物理學、數學、力學與土木工程知識之能力。",
+      "core_eng": "Possess the relevant capability to use physics, mathematics, mechanics, and civil engineering knowledge",
+      "core_level": "2 ",
+      "strgy": [
+        "01",
+        "10"
+      ],
+      "evalb": [
+        "D1",
+        "D2",
+        "D4"
+      ],
+      "strgy_name": [
+        "課堂授課",
+        "小組討論及活動"
+      ],
+      "strgy_name_en": [
+        "Classroom instruction",
+        "Group activity & discussion"
+      ],
+      "evalb_name": [
+        "期中考",
+        "期末考",
+        "作業"
+      ],
+      "evalb_name_en": [
+        "Midterm examination",
+        "Final examination",
+        "Homework"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE01129",
+          "sub_id": "19470",
+          "scr_dup": "001",
+          "seq": 2,
+          "strgy_id": "01",
+          "strgy_name": null,
+          "strgy_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE01129",
+          "sub_id": "19470",
+          "scr_dup": "001",
+          "seq": 2,
+          "strgy_id": "10",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE01129",
+          "sub_id": "19470",
+          "scr_dup": "001",
+          "seq": 2,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D1",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE01129",
+          "sub_id": "19470",
+          "scr_dup": "001",
+          "seq": 2,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D2",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE01129",
+          "sub_id": "19470",
+          "scr_dup": "001",
+          "seq": 2,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D4",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CE01129",
+      "sub_id": "19470",
+      "scr_dup": "001",
+      "seq": 3,
+      "describe_ch": "能掌握材料力學性質與軸力、扭力構件之設計概念",
+      "describe_en": null,
+      "core_id": "B",
+      "core_item": "設計與執行土壤力學及工程材料實驗，以及分析數據與解釋結果之能力。",
+      "core_eng": "Possess the relevant capability to design and execute experimentation of soil mechanics and engineering material as well as to analyze data and interpret results",
+      "core_level": "4 ",
+      "strgy": [
+        "01",
+        "10"
+      ],
+      "evalb": [
+        "D1",
+        "D2",
+        "D4"
+      ],
+      "strgy_name": [
+        "課堂授課",
+        "小組討論及活動"
+      ],
+      "strgy_name_en": [
+        "Classroom instruction",
+        "Group activity & discussion"
+      ],
+      "evalb_name": [
+        "期中考",
+        "期末考",
+        "作業"
+      ],
+      "evalb_name_en": [
+        "Midterm examination",
+        "Final examination",
+        "Homework"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE01129",
+          "sub_id": "19470",
+          "scr_dup": "001",
+          "seq": 3,
+          "strgy_id": "01",
+          "strgy_name": null,
+          "strgy_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE01129",
+          "sub_id": "19470",
+          "scr_dup": "001",
+          "seq": 3,
+          "strgy_id": "10",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE01129",
+          "sub_id": "19470",
+          "scr_dup": "001",
+          "seq": 3,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D1",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE01129",
+          "sub_id": "19470",
+          "scr_dup": "001",
+          "seq": 3,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D2",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE01129",
+          "sub_id": "19470",
+          "scr_dup": "001",
+          "seq": 3,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D4",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CE01129",
+      "sub_id": "19470",
+      "scr_dup": "001",
+      "seq": 4,
+      "describe_ch": "能分析梁之應力與變形行為，進行應力轉換",
+      "describe_en": null,
+      "core_id": "F",
+      "core_item": "發掘、分析土木工程規劃、設計、採購、施工、營運、維修補強及兼顧永續發展之相關問題及處理之能力。",
+      "core_eng": "Possess the capability to explore and analyze civil engineering life-cycle: planning, design, procurement, construction, operation and maintenance relevant problems and resolutions",
+      "core_level": "4 ",
+      "strgy": [
+        "01",
+        "10"
+      ],
+      "evalb": [
+        "D1",
+        "D2",
+        "D4"
+      ],
+      "strgy_name": [
+        "課堂授課",
+        "小組討論及活動"
+      ],
+      "strgy_name_en": [
+        "Classroom instruction",
+        "Group activity & discussion"
+      ],
+      "evalb_name": [
+        "期中考",
+        "期末考",
+        "作業"
+      ],
+      "evalb_name_en": [
+        "Midterm examination",
+        "Final examination",
+        "Homework"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE01129",
+          "sub_id": "19470",
+          "scr_dup": "001",
+          "seq": 4,
+          "strgy_id": "01",
+          "strgy_name": null,
+          "strgy_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE01129",
+          "sub_id": "19470",
+          "scr_dup": "001",
+          "seq": 4,
+          "strgy_id": "10",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE01129",
+          "sub_id": "19470",
+          "scr_dup": "001",
+          "seq": 4,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D1",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE01129",
+          "sub_id": "19470",
+          "scr_dup": "001",
+          "seq": 4,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D2",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE01129",
+          "sub_id": "19470",
+          "scr_dup": "001",
+          "seq": 4,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D4",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CE01129",
+      "sub_id": "19470",
+      "scr_dup": "001",
+      "seq": 5,
+      "describe_ch": "能理解柱之挫屈特性並進行基本判斷與計算",
+      "describe_en": null,
+      "core_id": "C",
+      "core_item": "應用管理技術、測量、量測、資訊處理等工具，分析方法與軟體，及土木工程材料的能力。",
+      "core_eng": "Possess the relevant capability to apply management techniques, survey, measurement, information processing tools, analysis methods and software, as well as civil engineering materials",
+      "core_level": "2 ",
+      "strgy": [
+        "01",
+        "10"
+      ],
+      "evalb": [
+        "D1",
+        "D2",
+        "D4"
+      ],
+      "strgy_name": [
+        "課堂授課",
+        "小組討論及活動"
+      ],
+      "strgy_name_en": [
+        "Classroom instruction",
+        "Group activity & discussion"
+      ],
+      "evalb_name": [
+        "期中考",
+        "期末考",
+        "作業"
+      ],
+      "evalb_name_en": [
+        "Midterm examination",
+        "Final examination",
+        "Homework"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE01129",
+          "sub_id": "19470",
+          "scr_dup": "001",
+          "seq": 5,
+          "strgy_id": "01",
+          "strgy_name": null,
+          "strgy_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE01129",
+          "sub_id": "19470",
+          "scr_dup": "001",
+          "seq": 5,
+          "strgy_id": "10",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE01129",
+          "sub_id": "19470",
+          "scr_dup": "001",
+          "seq": 5,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D1",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE01129",
+          "sub_id": "19470",
+          "scr_dup": "001",
+          "seq": 5,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D2",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE01129",
+          "sub_id": "19470",
+          "scr_dup": "001",
+          "seq": 5,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D4",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    }
+  ],
+  "topicSdgs": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CE01129",
+      "sub_id": "19470",
+      "scr_dup": "001",
+      "sdgs_seq": 9,
+      "main_related": "N",
+      "ind_related": "Y",
+      "iss_name": "經濟成長面",
+      "iss_ename": "Economic Growth",
+      "content_name": "健全就業制度與經濟成長",
+      "content_ename": "Decent Work and Economic Growth"
+    }
+  ],
+  "topicAiIndicators": [],
+  "learnHours": {
+    "total": 54.0,
+    "tpdOnlineAsyTotal": 0.0,
+    "tpdOnlineSynTotal": 0.0,
+    "tpdOnlineFaceTotal": 54.0,
+    "asySynInTotalPercent": 0.0
+  },
+  "crossVerYear": 114
+}

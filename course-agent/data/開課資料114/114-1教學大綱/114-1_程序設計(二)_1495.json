@@ -1,0 +1,1548 @@
+{
+  "success": true,
+  "info": {
+    "yms_year": 114.0,
+    "yms_smester": 1.0,
+    "sub_id": "48712",
+    "cls_id": "CE08142",
+    "scr_dup": "001",
+    "sub_id3": "CHE3038",
+    "cls_name": "化工四乙",
+    "cls_ename": "Department of Chemical Engineering",
+    "sub_name": "程序設計(二)",
+    "sub_ename": "PROCESS DESIGN (2)",
+    "scr_mso": "必修",
+    "scr_mso_en": "Required",
+    "scr_credit": 2.0,
+    "scr_periodly": "(二)03-04",
+    "scr_periodly_eng": "(Tue)03-04",
+    "lang_name": "中文                                                      ",
+    "lang_ename": "Chinese",
+    "scr_room": "學415",
+    "scr_room_eng": "XSB415",
+    "scr_teacher": "林志韋,曾怡享",
+    "scr_teacher_eng": "I-Hsiang Tseng,I-Hsiang Tseng",
+    "scr_selcode": "1495",
+    "scr_elearning": "全學期",
+    "scr_elearning_en": "Full semester",
+    "scr_hours": "2",
+    "scr_english": "N",
+    "unt_name": null,
+    "unt_ename": null,
+    "link_traminal": "跨學期畢業專題",
+    "link_traminal_en": "Capstone Course",
+    "scr_ldl": "D",
+    "course_mk": "N",
+    "teams_mk": "N",
+    "sub_title": null,
+    "sub_title_en": null,
+    "sub_describe": null,
+    "sub_describe_en": null,
+    "hasDescription": null,
+    "hasInstructor": null,
+    "hasTA": null,
+    "hasTextBooks": null,
+    "hasReadings": null,
+    "hasiSoftwares": null,
+    "hasAssistSoftwares": null,
+    "hasObjective": null,
+    "hasWeeklyScds": null,
+    "hasGradeRules": null,
+    "hasGradeRuleDescribe": null,
+    "hasIntegrity": null,
+    "hasCoursePol": null,
+    "hasCourseRem": null,
+    "hasObjectiveReleation": null,
+    "hasTopicSdgs": null,
+    "hasSubTitleDesc": null
+  },
+  "subTitleDesc": null,
+  "description": {
+    "sub_id3": null,
+    "sub_name": "程序設計(二)",
+    "sub_ename": "PROCESS DESIGN (2)",
+    "describe_ch": "各團隊延續程序設計(一)所規劃之專題，為所選擇的實際工程問題設計、實施與運作合理的解決方案，同學將可強化化工專業科目的整合與程序設計應用能力，並提升表達能力與專案管理能力。",
+    "describe_eh": "Students continue the team-based capstone project developed in Process Design (I) to design, implement and operate reasonable solution for the issue. Students strengthen the integration of ChE professions and capability of process design, and then enhance their capabilities of presentation and project management.",
+    "pre_subname": "",
+    "pre_sub_id3": null,
+    "pre_sub_ename": "",
+    "pre_describe": null,
+    "pre_describe_en": null,
+    "scr_credit": 2.0
+  },
+  "targets": [
+    {
+      "seq": 1,
+      "describe_ch": "瞭解化工程序設計之原理與應用",
+      "describe_en": "Understand the principles and applications of chemical process design"
+    },
+    {
+      "seq": 2,
+      "describe_ch": "具有資料蒐集、數據分析、書面及口頭表達之能力",
+      "describe_en": "Be able to collect data, analyze data and have presentation skills"
+    },
+    {
+      "seq": 3,
+      "describe_ch": "應用電腦軟體於工程實務",
+      "describe_en": "Apply computer software in engineering practice"
+    },
+    {
+      "seq": 4,
+      "describe_ch": "可規劃實驗與分析化工程序",
+      "describe_en": "Be able to propose experiments and analyze chemical process"
+    },
+    {
+      "seq": 5,
+      "describe_ch": "具有團隊合作、專案管理之能力",
+      "describe_en": "Be able to work in teams and manage projects"
+    },
+    {
+      "seq": 6,
+      "describe_ch": "具有規劃與執行工程問題之能力",
+      "describe_en": "Be able to conceive and implement engineering problem"
+    },
+    {
+      "seq": 7,
+      "describe_ch": "認識國際工程技術、瞭解化工產業之現況與永續發展",
+      "describe_en": "Understand international engineering technique, current situation and sustainable development of chemical industry"
+    },
+    {
+      "seq": 8,
+      "describe_ch": "可分析作業場所之危害風險與具有工程倫理觀念",
+      "describe_en": "Be able to analyze the hazard risk of workplaces and have engineering ethics"
+    }
+  ],
+  "teachersInfo": [
+    {
+      "cname": "林志韋",
+      "ename": "Chih-Wei Lin",
+      "period": "(Mon)06-07 學606,(Mon)08  學606,(Tue)04  學606",
+      "roletype": 0,
+      "email": "chihwlin@o365.fcu.edu.tw",
+      "ext": "3686"
+    },
+    {
+      "cname": "曾怡享",
+      "ename": "I-Hsiang Tseng",
+      "period": "(Mon)04  學512,(Mon)07  學512,(Tue)08  學512,(Wed)07  學512,(Thu)04  學512,(Thu)07  學512,(Fri)04  學512",
+      "roletype": 0,
+      "email": "ihtseng@o365.fcu.edu.tw",
+      "ext": "3666"
+    },
+    {
+      "cname": "李韋震",
+      "ename": "LI,WEI-ZHEN",
+      "period": " ",
+      "roletype": 1,
+      "email": "m1316206@o365.fcu.edu.tw",
+      "ext": " "
+    },
+    {
+      "cname": "林祐增",
+      "ename": "LIN,YU-TSENG",
+      "period": " ",
+      "roletype": 1,
+      "email": "m1408271@o365.fcu.edu.tw",
+      "ext": " "
+    }
+  ],
+  "textBooks": {
+    "yms_year": 114.0,
+    "yms_smester": 1.0,
+    "cls_id": "CE08142",
+    "sub_id": "48712",
+    "scr_dup": "001",
+    "tpb_seq": 1,
+    "tpb_book": "<div>Chemical Engineering Design &amp; Analysis: An Introduction by&nbsp;T. Michael Duncan (Cambridge)&nbsp;\n<div>ISBN:&nbsp;9781108377096</div>\n</div>\n\n<div>\n<div><em>Analysis, Synthesis, and Design of Chemical Processes b</em>y R. Turton, R.C. Bailie, W.B. Whiting, J. A. Shaeiwitz, D. Bhattacharyya</div>\n\n<div>ISBN:&nbsp;9780134177403</div>\n\n<div><em>Chemical Process Technology b</em>y J.A.Moulijn, M. Makkee, A. van Diepen</div>\n\n<div>ISBN:&nbsp;9780471630098</div>\n</div>\n",
+    "tpb_book_en": " "
+  },
+  "readings": {
+    "yms_year": 114.0,
+    "yms_smester": 1.0,
+    "cls_id": "CE08142",
+    "sub_id": "48712",
+    "scr_dup": "001",
+    "tpc_seq": 1,
+    "tpc_book": "<div>Perry&#39;s Chemical Engineers&#39; Handbook by Don W. Green and Robert H. Perry</div>\n",
+    "tpc_book_en": " "
+  },
+  "iSoftwares": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CE08142",
+      "sub_id": "48712",
+      "scr_dup": "001",
+      "seq_no": 1,
+      "soft_kind": "2",
+      "soft_name": "Design II\nDWSIM\nCheCalc\nAspen Plus",
+      "soft_memo": "<div><strong>DWSIM</strong>&nbsp;is a&nbsp;&nbsp;CAPE-OPEN compliant&nbsp;Chemical Process Simulator.</div>\n\n<div>\n<div><strong>Chemical Engineering Calculations (CheCalc)</strong>: A web applications to assist process, plant operation and maintenance engineers.</div>\n</div>\n",
+      "soft_name_en": null,
+      "soft_memo_en": null
+    }
+  ],
+  "assistSoftwares": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CE08142",
+      "sub_id": "48712",
+      "scr_dup": "001",
+      "seq_no": 2,
+      "soft_kind": "3",
+      "soft_name": "筆記型電腦、計算機",
+      "soft_memo": "<div>製作PFD</div>\n",
+      "soft_name_en": null,
+      "soft_memo_en": null
+    }
+  ],
+  "weeklyScds": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CE08142",
+      "sub_id": "48712",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "1 (9/9)",
+      "tpd_reading": "<div>化工程序規劃與與經濟評估</div>\n",
+      "tpd_reading_en": " ",
+      "tpd_learn": "<div>線上小考</div>\n",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": "課堂小考",
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": 2.0,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CE08142",
+      "sub_id": "48712",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "2 (9/16)",
+      "tpd_reading": "<div>程序模擬-1(林志韋老師)</div>\n",
+      "tpd_reading_en": " ",
+      "tpd_learn": "<div>線上小考</div>\n",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": 2.0,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CE08142",
+      "sub_id": "48712",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "3 (9/23)",
+      "tpd_reading": "<div>專題進度報告與討論-1 (part 1)</div>\n",
+      "tpd_reading_en": " ",
+      "tpd_learn": "<div>口頭報告與同儕互評</div>\n",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": "口頭報告",
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": 2.0,
+      "tpd_online_face": 2.0,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CE08142",
+      "sub_id": "48712",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "4 (9/30)",
+      "tpd_reading": "<div>專題進度報告與討論-1 (part 2)</div>\n",
+      "tpd_reading_en": " ",
+      "tpd_learn": "<div>口頭報告與同儕互評</div>\n",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": "口頭報告",
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": 2.0,
+      "tpd_online_face": 2.0,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CE08142",
+      "sub_id": "48712",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "5 (10/7)",
+      "tpd_reading": "<div>專題進度報告與討論-2</div>\n",
+      "tpd_reading_en": " ",
+      "tpd_learn": "<div>x</div>\n",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": "口頭報告",
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": 2.0,
+      "tpd_online_face": 2.0,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CE08142",
+      "sub_id": "48712",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "6 (10/14)",
+      "tpd_reading": "<div>程序模擬-2(林志韋老師)</div>\n",
+      "tpd_reading_en": " ",
+      "tpd_learn": "<div>口頭報告與同儕互評</div>\n",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": 2.0,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CE08142",
+      "sub_id": "48712",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "7 (10/21)",
+      "tpd_reading": "<div>業界參訪</div>\n",
+      "tpd_reading_en": " ",
+      "tpd_learn": "<div>移地教學/參訪報告</div>\n",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": "參訪心得",
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": 6.0,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CE08142",
+      "sub_id": "48712",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "8 (10/28)",
+      "tpd_reading": "<div>程序模擬-3(林志韋老師)</div>\n",
+      "tpd_reading_en": " ",
+      "tpd_learn": "<div>口頭報告與同儕互評</div>\n",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": " ",
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": 0.0,
+      "tpd_online_face": 2.0,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CE08142",
+      "sub_id": "48712",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "9 (11/4)",
+      "tpd_reading": "<div>專題進度報告與討論-3&nbsp;</div>\n",
+      "tpd_reading_en": " ",
+      "tpd_learn": "<div>口頭報告與同儕互評</div>\n",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": "口頭報告",
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": 2.0,
+      "tpd_online_face": 2.0,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CE08142",
+      "sub_id": "48712",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "10 (11/11)",
+      "tpd_reading": "<div>專題進度報告與討論-4&nbsp;(part 1)</div>\n",
+      "tpd_reading_en": " ",
+      "tpd_learn": "<div>Group activity report</div>\n",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": "口頭報告",
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": 2.0,
+      "tpd_online_face": 2.0,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CE08142",
+      "sub_id": "48712",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "11 (11/18)",
+      "tpd_reading": "<div>專題進度報告與討論-4 (part 2)</div>\n",
+      "tpd_reading_en": " ",
+      "tpd_learn": "<div>口頭報告與同儕互評</div>\n",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": "口頭報告",
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": 2.0,
+      "tpd_online_face": 2.0,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CE08142",
+      "sub_id": "48712",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "12 (11/25)",
+      "tpd_reading": "<div>專題進度報告與討論-4 (part 3)</div>\n",
+      "tpd_reading_en": " ",
+      "tpd_learn": "<div>口頭報告與同儕互評</div>\n",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": "口頭報告",
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": 2.0,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CE08142",
+      "sub_id": "48712",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "13 (12/2)",
+      "tpd_reading": "<div>Group activity</div>\n",
+      "tpd_reading_en": " ",
+      "tpd_learn": "<div>Group activity report (word 初稿)</div>\n",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": "上傳Word初稿",
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": 2.0,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CE08142",
+      "sub_id": "48712",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "14 (12/9)",
+      "tpd_reading": "<div>Group activity</div>\n",
+      "tpd_reading_en": " ",
+      "tpd_learn": "<div>口頭報告與同儕互評</div>\n",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": " ",
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": 2.0,
+      "tpd_online_face": 2.0,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CE08142",
+      "sub_id": "48712",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "15 (12/16)",
+      "tpd_reading": "<div>專題進度報告與討論-5 (part 1)</div>\n",
+      "tpd_reading_en": " ",
+      "tpd_learn": "<div>口頭報告與同儕互評</div>\n",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": "口頭報告",
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": 2.0,
+      "tpd_online_face": 2.0,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CE08142",
+      "sub_id": "48712",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "16 (12/23)",
+      "tpd_reading": "<div>專題進度報告與討論-5 (part 1)</div>\n",
+      "tpd_reading_en": " ",
+      "tpd_learn": "<div>Group activity report (word + poster)</div>\n",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": "口頭報告",
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": 2.0,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CE08142",
+      "sub_id": "48712",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "17 (12/30)",
+      "tpd_reading": "<div>Group activity&nbsp;</div>\n",
+      "tpd_reading_en": " ",
+      "tpd_learn": "<div>ppt for competition</div>\n",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": "上傳Word + Poster",
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": 2.0,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CE08142",
+      "sub_id": "48712",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "18\n(1/6)",
+      "tpd_reading": "<div>專題發表競賽 時間: 2026/1/6(二) 下午1:00-5:00 地點: 九國/啟垣廳</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": null,
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": "上傳ppt",
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": 2.0,
+      "tpd_online_face": 4.0,
+      "tpd_week_en": null,
+      "mode": 0
+    }
+  ],
+  "gradeRules": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CE08142",
+      "sub_id": "48712",
+      "scr_dup": "001",
+      "evalb_id": "B4",
+      "score_rate": 5,
+      "evalb_memo": "平時進度報告同儕互評結果",
+      "evalb_memo_en": null,
+      "evalb_name": "同儕互評",
+      "evalb_name_en": "Peer review",
+      "seq": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CE08142",
+      "sub_id": "48712",
+      "scr_dup": "001",
+      "evalb_id": "D3",
+      "score_rate": 25,
+      "evalb_memo": "每周上課隨堂測驗成績。",
+      "evalb_memo_en": null,
+      "evalb_name": "隨堂測驗",
+      "evalb_name_en": "In-class examination",
+      "seq": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CE08142",
+      "sub_id": "48712",
+      "scr_dup": "001",
+      "evalb_id": "D5",
+      "score_rate": 30,
+      "evalb_memo": "期末專題競賽成績(含書面及口頭報告)",
+      "evalb_memo_en": null,
+      "evalb_name": "期末專題",
+      "evalb_name_en": "Final presentation",
+      "seq": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CE08142",
+      "sub_id": "48712",
+      "scr_dup": "001",
+      "evalb_id": "G3",
+      "score_rate": 10,
+      "evalb_memo": "參訪心得",
+      "evalb_memo_en": null,
+      "evalb_name": "心得報告",
+      "evalb_name_en": "Report on gained knowledge",
+      "seq": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CE08142",
+      "sub_id": "48712",
+      "scr_dup": "001",
+      "evalb_id": "K2",
+      "score_rate": 30,
+      "evalb_memo": "3~4次進度報告成績(含書面報告)",
+      "evalb_memo_en": null,
+      "evalb_name": "口頭報告",
+      "evalb_name_en": "Oral presentation",
+      "seq": 0
+    }
+  ],
+  "gradeRuleDescribe": {
+    "yms_year": 114.0,
+    "yms_smester": 1.0,
+    "cls_id": "CE08142",
+    "sub_id": "48712",
+    "scr_dup": "001",
+    "tpa_score_new": "<div>依據上述五項評分項目之比例計算期末成績。每周上課出席才有成績，若未參訪則須自行詢問老師補教作法，進度報告每次由老師指定報告者。</div>\n",
+    "tpa_score_new_en": null,
+    "course_pol": "本課程每堂課均已課堂小考方式於ilearn平台點名。\n各式作業請於繳交期限前上傳ilearn，並依據規定之檔名命名。\n各組同學報告時請尊重報告者之感受，注意聆聽不要在台下與同學討論發出聲響。\n團隊合作進行專題時請積極主動參與，若有組員多次不參與討論，請一定即時向授課老師反應。\n若有任何疑問(組員問題)請盡早主動於授課老師之請益時間找老師討論。",
+    "course_pol_en": null,
+    "course_rem": "本課程所安排的各項學習活動，都是為了訓練同學的八大核心能力。相信各位同學依據每周的指定進度，積極參與團隊討論或與授課老師或指導老師討論，一定可以循序漸進完成團隊專題，強化每位同學的八項核心能力。找老師討論或借用實驗室時，請先預約並要有禮貌。所有耗材需報支請記得打統一編號52005505。",
+    "course_rem_en": null,
+    "ais_meno": "<div>各組同學需積極參與團隊專體實作，每次進度報告及期末報告須繳交分工表及同儕評分，所有書面與口頭報告都需詳細註明參考文獻，期末繳交之書面報告必須附上抄襲比對系統(Turnitin)之比對結果，不可超過20%。</div>\n",
+    "ais_meno_en": null,
+    "ilearn_mk": "N"
+  },
+  "integrity": {
+    "yms_year": 114.0,
+    "yms_smester": 1.0,
+    "cls_id": "CE08142",
+    "sub_id": "48712",
+    "scr_dup": "001",
+    "tpa_score_new": "<div>依據上述五項評分項目之比例計算期末成績。每周上課出席才有成績，若未參訪則須自行詢問老師補教作法，進度報告每次由老師指定報告者。</div>\n",
+    "tpa_score_new_en": null,
+    "course_pol": "本課程每堂課均已課堂小考方式於ilearn平台點名。\n各式作業請於繳交期限前上傳ilearn，並依據規定之檔名命名。\n各組同學報告時請尊重報告者之感受，注意聆聽不要在台下與同學討論發出聲響。\n團隊合作進行專題時請積極主動參與，若有組員多次不參與討論，請一定即時向授課老師反應。\n若有任何疑問(組員問題)請盡早主動於授課老師之請益時間找老師討論。",
+    "course_pol_en": null,
+    "course_rem": "本課程所安排的各項學習活動，都是為了訓練同學的八大核心能力。相信各位同學依據每周的指定進度，積極參與團隊討論或與授課老師或指導老師討論，一定可以循序漸進完成團隊專題，強化每位同學的八項核心能力。找老師討論或借用實驗室時，請先預約並要有禮貌。所有耗材需報支請記得打統一編號52005505。",
+    "course_rem_en": null,
+    "ais_meno": "<div>各組同學需積極參與團隊專體實作，每次進度報告及期末報告須繳交分工表及同儕評分，所有書面與口頭報告都需詳細註明參考文獻，期末繳交之書面報告必須附上抄襲比對系統(Turnitin)之比對結果，不可超過20%。</div>\n",
+    "ais_meno_en": null,
+    "ilearn_mk": "N"
+  },
+  "policy": {
+    "yms_year": 114.0,
+    "yms_smester": 1.0,
+    "cls_id": "CE08142",
+    "sub_id": "48712",
+    "scr_dup": "001",
+    "tpa_score_new": "<div>依據上述五項評分項目之比例計算期末成績。每周上課出席才有成績，若未參訪則須自行詢問老師補教作法，進度報告每次由老師指定報告者。</div>\n",
+    "tpa_score_new_en": null,
+    "course_pol": "本課程每堂課均已課堂小考方式於ilearn平台點名。\n各式作業請於繳交期限前上傳ilearn，並依據規定之檔名命名。\n各組同學報告時請尊重報告者之感受，注意聆聽不要在台下與同學討論發出聲響。\n團隊合作進行專題時請積極主動參與，若有組員多次不參與討論，請一定即時向授課老師反應。\n若有任何疑問(組員問題)請盡早主動於授課老師之請益時間找老師討論。",
+    "course_pol_en": null,
+    "course_rem": "本課程所安排的各項學習活動，都是為了訓練同學的八大核心能力。相信各位同學依據每周的指定進度，積極參與團隊討論或與授課老師或指導老師討論，一定可以循序漸進完成團隊專題，強化每位同學的八項核心能力。找老師討論或借用實驗室時，請先預約並要有禮貌。所有耗材需報支請記得打統一編號52005505。",
+    "course_rem_en": null,
+    "ais_meno": "<div>各組同學需積極參與團隊專體實作，每次進度報告及期末報告須繳交分工表及同儕評分，所有書面與口頭報告都需詳細註明參考文獻，期末繳交之書面報告必須附上抄襲比對系統(Turnitin)之比對結果，不可超過20%。</div>\n",
+    "ais_meno_en": null,
+    "ilearn_mk": "N"
+  },
+  "courseBankC": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CE08142",
+      "sub_id": "48712",
+      "scr_dup": "001",
+      "seq": 1,
+      "describe_ch": "瞭解化工程序設計之原理與應用",
+      "describe_en": "Understand the principles and applications of chemical process design",
+      "core_id": "A",
+      "core_item": "具備應用數學、科學及工程知識的能力。",
+      "core_eng": "Possess the ability to apply the knowledge of mathematics, science, and engineering in solving problems.",
+      "core_level": "3 ",
+      "strgy": [
+        "01",
+        "04"
+      ],
+      "evalb": [
+        "A1",
+        "A3",
+        "B3",
+        "D3",
+        "D5",
+        "K2",
+        "B4"
+      ],
+      "strgy_name": [
+        "課堂授課",
+        "專題討論"
+      ],
+      "strgy_name_en": [
+        "Classroom instruction",
+        "Seminar"
+      ],
+      "evalb_name": [
+        "學生問卷",
+        "課程問卷",
+        "學生個別請益",
+        "隨堂測驗",
+        "期末專題",
+        "口頭報告",
+        "同儕互評"
+      ],
+      "evalb_name_en": [
+        "Student questionnaire",
+        "Curriculum questionnaire",
+        "Individual tutoring",
+        "In-class examination",
+        "Final presentation",
+        "Oral presentation",
+        "Peer review"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CE08142",
+          "sub_id": "48712",
+          "scr_dup": "001",
+          "seq": 1,
+          "strgy_id": "01",
+          "strgy_name": null,
+          "strgy_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CE08142",
+          "sub_id": "48712",
+          "scr_dup": "001",
+          "seq": 1,
+          "strgy_id": "04",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CE08142",
+          "sub_id": "48712",
+          "scr_dup": "001",
+          "seq": 1,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "A1",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CE08142",
+          "sub_id": "48712",
+          "scr_dup": "001",
+          "seq": 1,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "A3",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CE08142",
+          "sub_id": "48712",
+          "scr_dup": "001",
+          "seq": 1,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "B3",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CE08142",
+          "sub_id": "48712",
+          "scr_dup": "001",
+          "seq": 1,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D3",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CE08142",
+          "sub_id": "48712",
+          "scr_dup": "001",
+          "seq": 1,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D5",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CE08142",
+          "sub_id": "48712",
+          "scr_dup": "001",
+          "seq": 1,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "K2",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CE08142",
+          "sub_id": "48712",
+          "scr_dup": "001",
+          "seq": 1,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "B4",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CE08142",
+      "sub_id": "48712",
+      "scr_dup": "001",
+      "seq": 2,
+      "describe_ch": "具有資料蒐集、數據分析、書面及口頭表達之能力",
+      "describe_en": "Be able to collect data, analyze data and have presentation skills",
+      "core_id": "B",
+      "core_item": "具備資料蒐集、數據分析、書面及口頭報告能力。",
+      "core_eng": "Possess the ability of data collecting and analysis, and presentations.",
+      "core_level": "5 ",
+      "strgy": [
+        "08"
+      ],
+      "evalb": [
+        "D5",
+        "K2"
+      ],
+      "strgy_name": [
+        "書面報告"
+      ],
+      "strgy_name_en": [
+        "Written report"
+      ],
+      "evalb_name": [
+        "期末專題",
+        "口頭報告"
+      ],
+      "evalb_name_en": [
+        "Final presentation",
+        "Oral presentation"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CE08142",
+          "sub_id": "48712",
+          "scr_dup": "001",
+          "seq": 2,
+          "strgy_id": "08",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CE08142",
+          "sub_id": "48712",
+          "scr_dup": "001",
+          "seq": 2,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D5",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CE08142",
+          "sub_id": "48712",
+          "scr_dup": "001",
+          "seq": 2,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "K2",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CE08142",
+      "sub_id": "48712",
+      "scr_dup": "001",
+      "seq": 3,
+      "describe_ch": "應用電腦軟體於工程實務",
+      "describe_en": "Apply computer software in engineering practice",
+      "core_id": "C",
+      "core_item": "具備應用現代工具、技術、技巧從事工程實務的能力。",
+      "core_eng": " Possess the ability to apply modern tools, techniques, and skills in engineering practices.",
+      "core_level": "5 ",
+      "strgy": [
+        "03",
+        "18"
+      ],
+      "evalb": [
+        "D5"
+      ],
+      "strgy_name": [
+        "個案討論",
+        "主動學習"
+      ],
+      "strgy_name_en": [
+        "Case study",
+        "Active Learning, AL"
+      ],
+      "evalb_name": [
+        "期末專題"
+      ],
+      "evalb_name_en": [
+        "Final presentation"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CE08142",
+          "sub_id": "48712",
+          "scr_dup": "001",
+          "seq": 3,
+          "strgy_id": "03",
+          "strgy_name": null,
+          "strgy_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CE08142",
+          "sub_id": "48712",
+          "scr_dup": "001",
+          "seq": 3,
+          "strgy_id": "18",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CE08142",
+          "sub_id": "48712",
+          "scr_dup": "001",
+          "seq": 3,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D5",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CE08142",
+      "sub_id": "48712",
+      "scr_dup": "001",
+      "seq": 4,
+      "describe_ch": "可規劃實驗與分析化工程序",
+      "describe_en": "Be able to propose experiments and analyze chemical process",
+      "core_id": "D",
+      "core_item": "具備程序設計、系統分析、及實驗規劃的能力。",
+      "core_eng": "Possess the ability to conduct process design, system analysis, and experiment design.",
+      "core_level": "5 ",
+      "strgy": [
+        "10"
+      ],
+      "evalb": [
+        "D5"
+      ],
+      "strgy_name": [
+        "小組討論及活動"
+      ],
+      "strgy_name_en": [
+        "Group activity & discussion"
+      ],
+      "evalb_name": [
+        "期末專題"
+      ],
+      "evalb_name_en": [
+        "Final presentation"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CE08142",
+          "sub_id": "48712",
+          "scr_dup": "001",
+          "seq": 4,
+          "strgy_id": "10",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CE08142",
+          "sub_id": "48712",
+          "scr_dup": "001",
+          "seq": 4,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D5",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CE08142",
+      "sub_id": "48712",
+      "scr_dup": "001",
+      "seq": 5,
+      "describe_ch": "具有團隊合作、專案管理之能力",
+      "describe_en": "Be able to work in teams and manage projects",
+      "core_id": "E",
+      "core_item": "具備專案管理、協調整合、與團隊合作之能力。",
+      "core_eng": "Possess the ability to manage, coordinate, and team up in carrying out a project.",
+      "core_level": "5 ",
+      "strgy": [
+        "10"
+      ],
+      "evalb": [
+        "D5"
+      ],
+      "strgy_name": [
+        "小組討論及活動"
+      ],
+      "strgy_name_en": [
+        "Group activity & discussion"
+      ],
+      "evalb_name": [
+        "期末專題"
+      ],
+      "evalb_name_en": [
+        "Final presentation"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CE08142",
+          "sub_id": "48712",
+          "scr_dup": "001",
+          "seq": 5,
+          "strgy_id": "10",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CE08142",
+          "sub_id": "48712",
+          "scr_dup": "001",
+          "seq": 5,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D5",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CE08142",
+      "sub_id": "48712",
+      "scr_dup": "001",
+      "seq": 6,
+      "describe_ch": "具有規劃與執行工程問題之能力",
+      "describe_en": "Be able to conceive and implement engineering problem",
+      "core_id": "F",
+      "core_item": "具備構思規劃及執行工程問題的能力。",
+      "core_eng": "Possess the ability to plan and execute projects in solving engineering problems.",
+      "core_level": "5 ",
+      "strgy": [
+        "18"
+      ],
+      "evalb": [
+        "D5"
+      ],
+      "strgy_name": [
+        "主動學習"
+      ],
+      "strgy_name_en": [
+        "Active Learning, AL"
+      ],
+      "evalb_name": [
+        "期末專題"
+      ],
+      "evalb_name_en": [
+        "Final presentation"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CE08142",
+          "sub_id": "48712",
+          "scr_dup": "001",
+          "seq": 6,
+          "strgy_id": "18",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CE08142",
+          "sub_id": "48712",
+          "scr_dup": "001",
+          "seq": 6,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D5",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CE08142",
+      "sub_id": "48712",
+      "scr_dup": "001",
+      "seq": 7,
+      "describe_ch": "認識國際工程技術、瞭解化工產業之現況與永續發展",
+      "describe_en": "Understand international engineering technique, current situation and sustainable development of chemical industry",
+      "core_id": "G",
+      "core_item": "認識時事議題，瞭解化工技術對環境、社會及全球的影響，並培養持續學習的能力。",
+      "core_eng": "Understand current issues about the impacts of chemical engineering technologies on the environment, the society and the globe; maintain the spirit of life-long learning.",
+      "core_level": "5 ",
+      "strgy": [
+        "17",
+        "18"
+      ],
+      "evalb": [
+        "D5",
+        "G3"
+      ],
+      "strgy_name": [
+        "產業實習",
+        "主動學習"
+      ],
+      "strgy_name_en": [
+        "Internship",
+        "Active Learning, AL"
+      ],
+      "evalb_name": [
+        "期末專題",
+        "心得報告"
+      ],
+      "evalb_name_en": [
+        "Final presentation",
+        "Report on gained knowledge"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CE08142",
+          "sub_id": "48712",
+          "scr_dup": "001",
+          "seq": 7,
+          "strgy_id": "17",
+          "strgy_name": null,
+          "strgy_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CE08142",
+          "sub_id": "48712",
+          "scr_dup": "001",
+          "seq": 7,
+          "strgy_id": "18",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CE08142",
+          "sub_id": "48712",
+          "scr_dup": "001",
+          "seq": 7,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D5",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CE08142",
+          "sub_id": "48712",
+          "scr_dup": "001",
+          "seq": 7,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "G3",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CE08142",
+      "sub_id": "48712",
+      "scr_dup": "001",
+      "seq": 8,
+      "describe_ch": "可分析作業場所之危害風險與具有工程倫理觀念",
+      "describe_en": "Be able to analyze the hazard risk of workplaces and have engineering ethics",
+      "core_id": "H",
+      "core_item": "具備作業安全、專業倫理、 社會責任及尊重多元觀點。",
+      "core_eng": "Possess awareness of operational safety, professional ethics, social responsibility, and respect for multiple perspectives.",
+      "core_level": "5 ",
+      "strgy": [
+        "18"
+      ],
+      "evalb": [
+        "D5",
+        "G3"
+      ],
+      "strgy_name": [
+        "主動學習"
+      ],
+      "strgy_name_en": [
+        "Active Learning, AL"
+      ],
+      "evalb_name": [
+        "期末專題",
+        "心得報告"
+      ],
+      "evalb_name_en": [
+        "Final presentation",
+        "Report on gained knowledge"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CE08142",
+          "sub_id": "48712",
+          "scr_dup": "001",
+          "seq": 8,
+          "strgy_id": "18",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CE08142",
+          "sub_id": "48712",
+          "scr_dup": "001",
+          "seq": 8,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D5",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CE08142",
+          "sub_id": "48712",
+          "scr_dup": "001",
+          "seq": 8,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "G3",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    }
+  ],
+  "topicSdgs": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CE08142",
+      "sub_id": "48712",
+      "scr_dup": "001",
+      "sdgs_seq": 11,
+      "main_related": "N",
+      "ind_related": "Y",
+      "iss_name": "經濟成長面",
+      "iss_ename": "Economic Growth",
+      "content_name": "永續消費與生產循環",
+      "content_ename": "Responsible Consumption and Production"
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CE08142",
+      "sub_id": "48712",
+      "scr_dup": "001",
+      "sdgs_seq": 14,
+      "main_related": "N",
+      "ind_related": "Y",
+      "iss_name": "環境保護面",
+      "iss_ename": "Environmental Protection",
+      "content_name": "減緩氣候變遷",
+      "content_ename": "Climate Action"
+    }
+  ],
+  "learnHours": {
+    "total": 60.0,
+    "tpdOnlineAsyTotal": 0.0,
+    "tpdOnlineSynTotal": 26.0,
+    "tpdOnlineFaceTotal": 34.0,
+    "asySynInTotalPercent": 43.33
+  },
+  "crossVerYear": 114
+}

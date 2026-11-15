@@ -1,0 +1,1347 @@
+{
+  "success": true,
+  "info": {
+    "yms_year": 114.0,
+    "yms_smester": 1.0,
+    "sub_id": "45353",
+    "cls_id": "CE06141",
+    "scr_dup": "001",
+    "sub_id3": "INEN5990",
+    "cls_name": "工業四甲",
+    "cls_ename": "Department of Industrial Engineering and Systems Management",
+    "sub_name": "畢業專題",
+    "sub_ename": "GRADUATION PROJECT",
+    "scr_mso": "必修",
+    "scr_mso_en": "Required",
+    "scr_credit": 3.0,
+    "scr_periodly": "(三)00",
+    "scr_periodly_eng": "(Wed)00",
+    "lang_name": "中文                                                      ",
+    "lang_ename": "Chinese",
+    "scr_room": "待排",
+    "scr_room_eng": "TBD",
+    "scr_teacher": "陳兆衡,王履梅,丘紀堇,王逸琦,莊文傑,周哲維,楊士霆,林棋瑋,王姿惠,鍾健平,蕭堯仁,周育樂",
+    "scr_teacher_eng": "Ywh-Leh Chou,Lu-Mei Wang,Chi-Chin Chiu,Yi-Chi Wang,Wen-Chieh Chuang,Che-Wei Chou,Shih-Ting Yang,Chi-Wei Lin,Zih-Huei Wang,Chien-Ping Chung,Yau-Ren Shiau,Ywh-Leh Chou",
+    "scr_selcode": "1310",
+    "scr_elearning": "全學期",
+    "scr_elearning_en": "Full semester",
+    "scr_hours": "1",
+    "scr_english": "N",
+    "unt_name": null,
+    "unt_ename": null,
+    "link_traminal": "跨學期畢業專題",
+    "link_traminal_en": "Capstone Course",
+    "scr_ldl": "D",
+    "course_mk": "N",
+    "teams_mk": "N",
+    "sub_title": null,
+    "sub_title_en": null,
+    "sub_describe": null,
+    "sub_describe_en": null,
+    "hasDescription": null,
+    "hasInstructor": null,
+    "hasTA": null,
+    "hasTextBooks": null,
+    "hasReadings": null,
+    "hasiSoftwares": null,
+    "hasAssistSoftwares": null,
+    "hasObjective": null,
+    "hasWeeklyScds": null,
+    "hasGradeRules": null,
+    "hasGradeRuleDescribe": null,
+    "hasIntegrity": null,
+    "hasCoursePol": null,
+    "hasCourseRem": null,
+    "hasObjectiveReleation": null,
+    "hasTopicSdgs": null,
+    "hasSubTitleDesc": null
+  },
+  "subTitleDesc": null,
+  "description": {
+    "sub_id3": null,
+    "sub_name": "畢業專題",
+    "sub_ename": "GRADUATION PROJECT",
+    "describe_ch": "本課程為本系終端課程，由全系所有教師共同開設，每組3~5位大四學生於此門課程中與其指導老師討論專題實作之題目與方向，由擬定計畫書開始，內容包含動機、背景說明、實行方法、時程及經費規劃等，逐步確實執行並完成計畫，以培育學生解決實務問題之整合能力。",
+    "describe_eh": "The course is taught by all IESM faculty members. 3~5 senior students team up to complete a project under guidance of their advisor. The course is designed to move students away from departmentalized learning toward a more interdisciplinary approach allowing students to use a variety of skills in the areas of writing, speaking, documentation , and research.",
+    "pre_subname": "",
+    "pre_sub_id3": null,
+    "pre_sub_ename": "",
+    "pre_describe": null,
+    "pre_describe_en": null,
+    "scr_credit": 3.0
+  },
+  "targets": [
+    {
+      "seq": 1,
+      "describe_ch": "提升學生專業領域的知識學習與分析技能。\r\n\r\n",
+      "describe_en": "Improve students' knowledge learning and analytical skills in the field of expertise."
+    },
+    {
+      "seq": 2,
+      "describe_ch": "訓練學生定義、瞭解問題及蒐集資料之能力。\r\n\t",
+      "describe_en": "Train students' ability to define, understand problems and collect data.\r\n"
+    },
+    {
+      "seq": 3,
+      "describe_ch": "訓練學生整合不同課程作一綜合應用之能力。\r\n\t",
+      "describe_en": "Train students' ability to integrate different courses for a comprehensive application.\r\n"
+    },
+    {
+      "seq": 4,
+      "describe_ch": "訓練學生應用專案管理技巧和團隊合作能力完成專題工作。\r\n\t",
+      "describe_en": "Train students to apply project management skills and teamwork skills to complete project work.\r\n"
+    },
+    {
+      "seq": 5,
+      "describe_ch": "培養學生具有引導團隊問題持續改善、培育創新思維的能力。\r\n\t",
+      "describe_en": "Cultivate students' ability to guide the continuous improvement of team problems and cultivate innovative thinking.\r\n"
+    },
+    {
+      "seq": 6,
+      "describe_ch": "訓練學生問題分析與獨立思考能力，及撰寫研究報告與口頭發表之能力。\r\n\t",
+      "describe_en": "Train students' problem analysis and independent thinking skills, as well as the ability to write research reports and make oral presentations.\r\n\r\n"
+    },
+    {
+      "seq": 7,
+      "describe_ch": "增進學生增進學生對工程時事議題的認識，培養學生持續學習的習慣與能力。\r\n\t\r\n\r\n\r\n",
+      "describe_en": "To enhance students' understanding of current engineering issues and cultivate students' habit and ability of continuous learning.\r\n"
+    },
+    {
+      "seq": 8,
+      "describe_ch": "培養學生從專題研究過程中，理解與實踐專業倫理及社會責任之觀念。\r\n\t",
+      "describe_en": "Cultivate students to understand and practice the concepts of professional ethics and social responsibility from the process of special research.\r\n\r\n"
+    }
+  ],
+  "teachersInfo": [
+    {
+      "cname": "陳兆衡",
+      "ename": "Siu-Hang Chan",
+      "period": "(Wed)05  工315,(Thu)02-03 工315,(Thu)04  工315",
+      "roletype": 0,
+      "email": "shchan@o365.fcu.edu.tw",
+      "ext": "3620"
+    },
+    {
+      "cname": "王履梅",
+      "ename": "Lu-Mei Wang",
+      "period": "(Mon)03-04 工408,(Wed)03-04 工408",
+      "roletype": 0,
+      "email": "lwang@o365.fcu.edu.tw",
+      "ext": "3630"
+    },
+    {
+      "cname": "丘紀堇",
+      "ename": "Chiu Chi-Chin (Sophie Colline)",
+      "period": "(Mon)08-09 工313-2,(Thu)03-04 工313-2",
+      "roletype": 0,
+      "email": "ccchiu@o365.fcu.edu.tw",
+      "ext": "3625"
+    },
+    {
+      "cname": "王逸琦",
+      "ename": "Yi-Chi Wang",
+      "period": "(Wed)07-08 工407-3,(Fri)03-04 工407-3",
+      "roletype": 0,
+      "email": "wangyc@o365.fcu.edu.tw",
+      "ext": null
+    },
+    {
+      "cname": "莊文傑",
+      "ename": "Wen-Chieh Chuang",
+      "period": "(Mon)07-08 工308-2,(Tue)07-08 工308-2",
+      "roletype": 0,
+      "email": "wcchuang@o365.fcu.edu.tw",
+      "ext": "3631"
+    },
+    {
+      "cname": "周哲維",
+      "ename": "Che-Wei Chou",
+      "period": " ",
+      "roletype": 0,
+      "email": "cwchou@o365.fcu.edu.tw",
+      "ext": "3608"
+    },
+    {
+      "cname": "楊士霆",
+      "ename": "Shih-Ting Yang",
+      "period": " ",
+      "roletype": 0,
+      "email": "styang@o365.fcu.edu.tw",
+      "ext": "3622"
+    },
+    {
+      "cname": "林棋瑋",
+      "ename": "Chi-Wei Lin",
+      "period": "(Mon)02  工415-2,(Wed)03-04 工415-2,(Thu)06  工415-2",
+      "roletype": 0,
+      "email": "cwlin@o365.fcu.edu.tw",
+      "ext": "3636"
+    },
+    {
+      "cname": "王姿惠",
+      "ename": "Zih-Huei Wang",
+      "period": "(Wed)06-07 工408-3,(Wed)08-09 工408-3",
+      "roletype": 0,
+      "email": "zhwang@o365.fcu.edu.tw",
+      "ext": "3626"
+    },
+    {
+      "cname": "鍾健平",
+      "ename": "Chien-Ping Chung",
+      "period": "(Mon)02-03 工408,(Wed)07-08 工408",
+      "roletype": 0,
+      "email": "cpchung@o365.fcu.edu.tw",
+      "ext": "3632"
+    },
+    {
+      "cname": "蕭堯仁",
+      "ename": "Yau-Ren Shiau",
+      "period": "(Mon)05-06 工307-1,(Mon)07  工307-1,(Tue)05  工307-1,(Thu)05  工307-1",
+      "roletype": 0,
+      "email": "yrshiau@o365.fcu.edu.tw",
+      "ext": "5500"
+    },
+    {
+      "cname": "周育樂",
+      "ename": "Ywh-Leh Chou",
+      "period": "(Mon)02-03 工313,(Mon)04  工313,(Mon)09  工313,(Wed)03-04 工313,(Fri)03-04 工313,(Fri)09  工313",
+      "roletype": 0,
+      "email": "ylchou@o365.fcu.edu.tw",
+      "ext": "3623"
+    }
+  ],
+  "textBooks": {
+    "yms_year": 114.0,
+    "yms_smester": 1.0,
+    "cls_id": "CE06141",
+    "sub_id": "45353",
+    "scr_dup": "001",
+    "tpb_seq": 1,
+    "tpb_book": "<div>主要與專題老師討論專題內容，依專題指導老師指定的教材為主</div>\n",
+    "tpb_book_en": " "
+  },
+  "readings": {
+    "yms_year": 114.0,
+    "yms_smester": 1.0,
+    "cls_id": "CE06141",
+    "sub_id": "45353",
+    "scr_dup": "001",
+    "tpc_seq": 1,
+    "tpc_book": "<div>主要與專題老師討論專題內容，依專題指導老師指定的教材為主</div>\n",
+    "tpc_book_en": " "
+  },
+  "iSoftwares": [],
+  "assistSoftwares": [],
+  "weeklyScds": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CE06141",
+      "sub_id": "45353",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "1",
+      "tpd_reading": "<div>分組討論</div>\n",
+      "tpd_reading_en": " ",
+      "tpd_learn": "<div>專題生進度報告</div>\n",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CE06141",
+      "sub_id": "45353",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "2",
+      "tpd_reading": "<div>分組討論</div>\n",
+      "tpd_reading_en": " ",
+      "tpd_learn": "<div>專題生進度報告</div>\n",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CE06141",
+      "sub_id": "45353",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "3",
+      "tpd_reading": "<div>分組討論</div>\n",
+      "tpd_reading_en": " ",
+      "tpd_learn": "<div>專題生進度報告</div>\n",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CE06141",
+      "sub_id": "45353",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "4",
+      "tpd_reading": "<div>分組討論</div>\n",
+      "tpd_reading_en": " ",
+      "tpd_learn": "<div>專題生進度報告</div>\n",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CE06141",
+      "sub_id": "45353",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "5",
+      "tpd_reading": "<div>分組討論</div>\n",
+      "tpd_reading_en": " ",
+      "tpd_learn": "<div>專題生進度報告</div>\n",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CE06141",
+      "sub_id": "45353",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "6",
+      "tpd_reading": "<div>分組討論</div>\n",
+      "tpd_reading_en": " ",
+      "tpd_learn": "<div>專題生進度報告</div>\n",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CE06141",
+      "sub_id": "45353",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "7",
+      "tpd_reading": "<div>分組討論</div>\n",
+      "tpd_reading_en": " ",
+      "tpd_learn": "<div>專題生進度報告</div>\n",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CE06141",
+      "sub_id": "45353",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "8",
+      "tpd_reading": "<div>分組討論</div>\n",
+      "tpd_reading_en": " ",
+      "tpd_learn": "<div>專題生進度報告</div>\n",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CE06141",
+      "sub_id": "45353",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "9",
+      "tpd_reading": "<div>分組討論</div>\n",
+      "tpd_reading_en": " ",
+      "tpd_learn": "<div>專題生進度報告</div>\n",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CE06141",
+      "sub_id": "45353",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "10",
+      "tpd_reading": "<div>分組討論</div>\n",
+      "tpd_reading_en": " ",
+      "tpd_learn": "<div>專題生進度報告</div>\n",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CE06141",
+      "sub_id": "45353",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "11",
+      "tpd_reading": "<div>分組討論</div>\n",
+      "tpd_reading_en": " ",
+      "tpd_learn": "<div>專題生進度報告</div>\n",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CE06141",
+      "sub_id": "45353",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "12",
+      "tpd_reading": "<div>分組討論</div>\n",
+      "tpd_reading_en": " ",
+      "tpd_learn": "<div>專題生進度報告</div>\n",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CE06141",
+      "sub_id": "45353",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "13",
+      "tpd_reading": "<div>分組討論</div>\n",
+      "tpd_reading_en": " ",
+      "tpd_learn": "<div>專題生進度報告</div>\n",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CE06141",
+      "sub_id": "45353",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "14",
+      "tpd_reading": "<div>分組討論</div>\n",
+      "tpd_reading_en": " ",
+      "tpd_learn": "<div>專題生進度報告</div>\n",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CE06141",
+      "sub_id": "45353",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "15",
+      "tpd_reading": "<div>期末上台報告</div>\n",
+      "tpd_reading_en": " ",
+      "tpd_learn": " ",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CE06141",
+      "sub_id": "45353",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "16",
+      "tpd_reading": "<div>期末上台報告</div>\n",
+      "tpd_reading_en": " ",
+      "tpd_learn": " ",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CE06141",
+      "sub_id": "45353",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "17",
+      "tpd_reading": "<div>期末上台報告</div>\n",
+      "tpd_reading_en": " ",
+      "tpd_learn": " ",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CE06141",
+      "sub_id": "45353",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "18",
+      "tpd_reading": "<div>期末上台報告</div>\n",
+      "tpd_reading_en": " ",
+      "tpd_learn": " ",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    }
+  ],
+  "gradeRules": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CE06141",
+      "sub_id": "45353",
+      "scr_dup": "001",
+      "evalb_id": "D4",
+      "score_rate": 70,
+      "evalb_memo": "專題生進度報告",
+      "evalb_memo_en": null,
+      "evalb_name": "作業",
+      "evalb_name_en": "Homework",
+      "seq": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CE06141",
+      "sub_id": "45353",
+      "scr_dup": "001",
+      "evalb_id": "L1",
+      "score_rate": 10,
+      "evalb_memo": "印象分數",
+      "evalb_memo_en": null,
+      "evalb_name": "印象分數",
+      "evalb_name_en": "General impression",
+      "seq": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CE06141",
+      "sub_id": "45353",
+      "scr_dup": "001",
+      "evalb_id": "L4",
+      "score_rate": 20,
+      "evalb_memo": "出缺勤紀錄",
+      "evalb_memo_en": null,
+      "evalb_name": "出席狀況",
+      "evalb_name_en": "Attendances",
+      "seq": 0
+    }
+  ],
+  "gradeRuleDescribe": {
+    "yms_year": 114.0,
+    "yms_smester": 1.0,
+    "cls_id": "CE06141",
+    "sub_id": "45353",
+    "scr_dup": "001",
+    "tpa_score_new": "<div>一、 專業管理導論成果檢視 (一) 專業管理基本能力檢視：由授課教師根據學生學習成果，評定修課學生個人學習表現分數，佔學期成績百分之五十。 (二) 書面報告檢視：由分組指導教授，根據各組學員預定進度實際表現，評定各組成績，佔學期成績百分之五十。</div>\n",
+    "tpa_score_new_en": null,
+    "course_pol": "本課程主要在強調學生應具備有大學生基本學習態度，課堂上不作弊，具有良好的誠信品格，尊師重道，同儕之間維持良好的人際關係。",
+    "course_pol_en": null,
+    "course_rem": null,
+    "course_rem_en": null,
+    "ais_meno": "<div>本課程主要在強調學生應具備有大學生基本學習態度，課堂上不作弊，具有良好的誠信品格，尊師重道，同儕之間維持良好的人際關係。</div>\n",
+    "ais_meno_en": null,
+    "ilearn_mk": null
+  },
+  "integrity": {
+    "yms_year": 114.0,
+    "yms_smester": 1.0,
+    "cls_id": "CE06141",
+    "sub_id": "45353",
+    "scr_dup": "001",
+    "tpa_score_new": "<div>一、 專業管理導論成果檢視 (一) 專業管理基本能力檢視：由授課教師根據學生學習成果，評定修課學生個人學習表現分數，佔學期成績百分之五十。 (二) 書面報告檢視：由分組指導教授，根據各組學員預定進度實際表現，評定各組成績，佔學期成績百分之五十。</div>\n",
+    "tpa_score_new_en": null,
+    "course_pol": "本課程主要在強調學生應具備有大學生基本學習態度，課堂上不作弊，具有良好的誠信品格，尊師重道，同儕之間維持良好的人際關係。",
+    "course_pol_en": null,
+    "course_rem": null,
+    "course_rem_en": null,
+    "ais_meno": "<div>本課程主要在強調學生應具備有大學生基本學習態度，課堂上不作弊，具有良好的誠信品格，尊師重道，同儕之間維持良好的人際關係。</div>\n",
+    "ais_meno_en": null,
+    "ilearn_mk": null
+  },
+  "policy": {
+    "yms_year": 114.0,
+    "yms_smester": 1.0,
+    "cls_id": "CE06141",
+    "sub_id": "45353",
+    "scr_dup": "001",
+    "tpa_score_new": "<div>一、 專業管理導論成果檢視 (一) 專業管理基本能力檢視：由授課教師根據學生學習成果，評定修課學生個人學習表現分數，佔學期成績百分之五十。 (二) 書面報告檢視：由分組指導教授，根據各組學員預定進度實際表現，評定各組成績，佔學期成績百分之五十。</div>\n",
+    "tpa_score_new_en": null,
+    "course_pol": "本課程主要在強調學生應具備有大學生基本學習態度，課堂上不作弊，具有良好的誠信品格，尊師重道，同儕之間維持良好的人際關係。",
+    "course_pol_en": null,
+    "course_rem": null,
+    "course_rem_en": null,
+    "ais_meno": "<div>本課程主要在強調學生應具備有大學生基本學習態度，課堂上不作弊，具有良好的誠信品格，尊師重道，同儕之間維持良好的人際關係。</div>\n",
+    "ais_meno_en": null,
+    "ilearn_mk": null
+  },
+  "courseBankC": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CE06141",
+      "sub_id": "45353",
+      "scr_dup": "001",
+      "seq": 1,
+      "describe_ch": "提升學生專業領域的知識學習與分析技能。\r\n\r\n",
+      "describe_en": "Improve students' knowledge learning and analytical skills in the field of expertise.",
+      "core_id": "A",
+      "core_item": "具有應用數學、統計、資訊、工程與系統管理之能力。",
+      "core_eng": "To acquire the capability in App;ied Nathematics, Statistics,Information, Engineering and System Management.",
+      "core_level": "1 ",
+      "strgy": [
+        "04"
+      ],
+      "evalb": [
+        "D5"
+      ],
+      "strgy_name": [
+        "專題討論"
+      ],
+      "strgy_name_en": [
+        "Seminar"
+      ],
+      "evalb_name": [
+        "期末專題"
+      ],
+      "evalb_name_en": [
+        "Final presentation"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CE06141",
+          "sub_id": "45353",
+          "scr_dup": "001",
+          "seq": 1,
+          "strgy_id": "04",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CE06141",
+          "sub_id": "45353",
+          "scr_dup": "001",
+          "seq": 1,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D5",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CE06141",
+      "sub_id": "45353",
+      "scr_dup": "001",
+      "seq": 2,
+      "describe_ch": "訓練學生定義、瞭解問題及蒐集資料之能力。\r\n\t",
+      "describe_en": "Train students' ability to define, understand problems and collect data.\r\n",
+      "core_id": "B",
+      "core_item": "具有系統分析、設計與管理之能力。",
+      "core_eng": "To acquire the capability in System Analyses, Design and Management.",
+      "core_level": "2 ",
+      "strgy": [
+        "04"
+      ],
+      "evalb": [
+        "D5"
+      ],
+      "strgy_name": [
+        "專題討論"
+      ],
+      "strgy_name_en": [
+        "Seminar"
+      ],
+      "evalb_name": [
+        "期末專題"
+      ],
+      "evalb_name_en": [
+        "Final presentation"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CE06141",
+          "sub_id": "45353",
+          "scr_dup": "001",
+          "seq": 2,
+          "strgy_id": "04",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CE06141",
+          "sub_id": "45353",
+          "scr_dup": "001",
+          "seq": 2,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D5",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CE06141",
+      "sub_id": "45353",
+      "scr_dup": "001",
+      "seq": 3,
+      "describe_ch": "訓練學生整合不同課程作一綜合應用之能力。\r\n\t",
+      "describe_en": "Train students' ability to integrate different courses for a comprehensive application.\r\n",
+      "core_id": "C",
+      "core_item": "具有流程及模式的資料蒐集、分析、驗證、推論及整合能力。",
+      "core_eng": "To acquire the capability in collection, analyses, verification, theorization and integration of data with Processes & Modules.",
+      "core_level": "5 ",
+      "strgy": [
+        "04"
+      ],
+      "evalb": [
+        "D5"
+      ],
+      "strgy_name": [
+        "專題討論"
+      ],
+      "strgy_name_en": [
+        "Seminar"
+      ],
+      "evalb_name": [
+        "期末專題"
+      ],
+      "evalb_name_en": [
+        "Final presentation"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CE06141",
+          "sub_id": "45353",
+          "scr_dup": "001",
+          "seq": 3,
+          "strgy_id": "04",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CE06141",
+          "sub_id": "45353",
+          "scr_dup": "001",
+          "seq": 3,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D5",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CE06141",
+      "sub_id": "45353",
+      "scr_dup": "001",
+      "seq": 4,
+      "describe_ch": "訓練學生應用專案管理技巧和團隊合作能力完成專題工作。\r\n\t",
+      "describe_en": "Train students to apply project management skills and teamwork skills to complete project work.\r\n",
+      "core_id": "D",
+      "core_item": "具備專案管理、有效的溝通及團隊合作之能力。",
+      "core_eng": "To acquire the capability for an effective communication, Project Management and team cooperation.",
+      "core_level": "3 ",
+      "strgy": [
+        "04"
+      ],
+      "evalb": [
+        "D5"
+      ],
+      "strgy_name": [
+        "專題討論"
+      ],
+      "strgy_name_en": [
+        "Seminar"
+      ],
+      "evalb_name": [
+        "期末專題"
+      ],
+      "evalb_name_en": [
+        "Final presentation"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CE06141",
+          "sub_id": "45353",
+          "scr_dup": "001",
+          "seq": 4,
+          "strgy_id": "04",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CE06141",
+          "sub_id": "45353",
+          "scr_dup": "001",
+          "seq": 4,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D5",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CE06141",
+      "sub_id": "45353",
+      "scr_dup": "001",
+      "seq": 5,
+      "describe_ch": "培養學生具有引導團隊問題持續改善、培育創新思維的能力。\r\n\t",
+      "describe_en": "Cultivate students' ability to guide the continuous improvement of team problems and cultivate innovative thinking.\r\n",
+      "core_id": "E",
+      "core_item": "具有引導團隊持續改善、創新思維。",
+      "core_eng": "To acquire the capability of leading a team to constantly improvement, innovatory thought.",
+      "core_level": "5 ",
+      "strgy": [
+        "04"
+      ],
+      "evalb": [
+        "D5"
+      ],
+      "strgy_name": [
+        "專題討論"
+      ],
+      "strgy_name_en": [
+        "Seminar"
+      ],
+      "evalb_name": [
+        "期末專題"
+      ],
+      "evalb_name_en": [
+        "Final presentation"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CE06141",
+          "sub_id": "45353",
+          "scr_dup": "001",
+          "seq": 5,
+          "strgy_id": "04",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CE06141",
+          "sub_id": "45353",
+          "scr_dup": "001",
+          "seq": 5,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D5",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CE06141",
+      "sub_id": "45353",
+      "scr_dup": "001",
+      "seq": 6,
+      "describe_ch": "訓練學生問題分析與獨立思考能力，及撰寫研究報告與口頭發表之能力。\r\n\t",
+      "describe_en": "Train students' problem analysis and independent thinking skills, as well as the ability to write research reports and make oral presentations.\r\n\r\n",
+      "core_id": "F",
+      "core_item": "具有發掘、分析、應用研究成果及因應複雜且整合性系統問題的能力。",
+      "core_eng": "To acquire the capability of discover, analysis and dealing with the problem.",
+      "core_level": "5 ",
+      "strgy": [
+        "04"
+      ],
+      "evalb": [
+        "D5"
+      ],
+      "strgy_name": [
+        "專題討論"
+      ],
+      "strgy_name_en": [
+        "Seminar"
+      ],
+      "evalb_name": [
+        "期末專題"
+      ],
+      "evalb_name_en": [
+        "Final presentation"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CE06141",
+          "sub_id": "45353",
+          "scr_dup": "001",
+          "seq": 6,
+          "strgy_id": "04",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CE06141",
+          "sub_id": "45353",
+          "scr_dup": "001",
+          "seq": 6,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D5",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CE06141",
+      "sub_id": "45353",
+      "scr_dup": "001",
+      "seq": 7,
+      "describe_ch": "增進學生增進學生對工程時事議題的認識，培養學生持續學習的習慣與能力。\r\n\t\r\n\r\n\r\n",
+      "describe_en": "To enhance students' understanding of current engineering issues and cultivate students' habit and ability of continuous learning.\r\n",
+      "core_id": "G",
+      "core_item": "認識時事議題，瞭解工程技術對環境，社會及全球的影響，並培養持續學習的習慣與能力。",
+      "core_eng": "To acquire the capability of know the current issues,understand of engineering technology on the environment,social,global implications, developing the habit of continuous learning.",
+      "core_level": "1 ",
+      "strgy": [
+        "04"
+      ],
+      "evalb": [
+        "D5"
+      ],
+      "strgy_name": [
+        "專題討論"
+      ],
+      "strgy_name_en": [
+        "Seminar"
+      ],
+      "evalb_name": [
+        "期末專題"
+      ],
+      "evalb_name_en": [
+        "Final presentation"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CE06141",
+          "sub_id": "45353",
+          "scr_dup": "001",
+          "seq": 7,
+          "strgy_id": "04",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CE06141",
+          "sub_id": "45353",
+          "scr_dup": "001",
+          "seq": 7,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D5",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CE06141",
+      "sub_id": "45353",
+      "scr_dup": "001",
+      "seq": 8,
+      "describe_ch": "培養學生從專題研究過程中，理解與實踐專業倫理及社會責任之觀念。\r\n\t",
+      "describe_en": "Cultivate students to understand and practice the concepts of professional ethics and social responsibility from the process of special research.\r\n\r\n",
+      "core_id": "H",
+      "core_item": "理解專業倫理及具有社會責任與國際觀之理念。",
+      "core_eng": "Understand of professional ethics and to acquire the idea of social responsibility and international viewpoint.",
+      "core_level": "2 ",
+      "strgy": [
+        "04"
+      ],
+      "evalb": [
+        "D5"
+      ],
+      "strgy_name": [
+        "專題討論"
+      ],
+      "strgy_name_en": [
+        "Seminar"
+      ],
+      "evalb_name": [
+        "期末專題"
+      ],
+      "evalb_name_en": [
+        "Final presentation"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CE06141",
+          "sub_id": "45353",
+          "scr_dup": "001",
+          "seq": 8,
+          "strgy_id": "04",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CE06141",
+          "sub_id": "45353",
+          "scr_dup": "001",
+          "seq": 8,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D5",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    }
+  ],
+  "topicSdgs": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CE06141",
+      "sub_id": "45353",
+      "scr_dup": "001",
+      "sdgs_seq": 11,
+      "main_related": "Y",
+      "ind_related": "N",
+      "iss_name": "經濟成長面",
+      "iss_ename": "Economic Growth",
+      "content_name": "永續消費與生產循環",
+      "content_ename": "Responsible Consumption and Production"
+    }
+  ],
+  "learnHours": {
+    "total": 0.0,
+    "tpdOnlineAsyTotal": 0.0,
+    "tpdOnlineSynTotal": 0.0,
+    "tpdOnlineFaceTotal": 0.0,
+    "asySynInTotalPercent": 0.0
+  },
+  "crossVerYear": 114
+}

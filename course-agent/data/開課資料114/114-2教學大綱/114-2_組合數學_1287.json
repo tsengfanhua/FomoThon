@@ -1,0 +1,890 @@
+{
+  "success": true,
+  "info": {
+    "yms_year": 114.0,
+    "yms_smester": 2.0,
+    "sub_id": "39150",
+    "cls_id": "CE07129",
+    "scr_dup": "001",
+    "sub_id3": "IECS3053",
+    "cls_name": "資訊二合",
+    "cls_ename": "Department of Information Engineering and Computer Science",
+    "sub_name": "組合數學",
+    "sub_ename": "COMBINATIONAL MATHEMATICS",
+    "scr_mso": "選修",
+    "scr_mso_en": "Elective",
+    "scr_credit": 3.0,
+    "scr_periodly": "(一)09-10 (四)09",
+    "scr_periodly_eng": "(Mon)09-10 (Thu)09",
+    "lang_name": "中文                                                      ",
+    "lang_ename": "Chinese",
+    "scr_room": "資電306",
+    "scr_room_eng": "IEB306",
+    "scr_teacher": "游景盛",
+    "scr_teacher_eng": "Chin-Sheng Yu",
+    "scr_selcode": "1287",
+    "scr_elearning": "全學期",
+    "scr_elearning_en": "Full semester",
+    "scr_hours": "3",
+    "scr_english": "N",
+    "unt_name": null,
+    "unt_ename": null,
+    "link_traminal": null,
+    "link_traminal_en": null,
+    "scr_ldl": "D",
+    "course_mk": "N",
+    "teams_mk": "N",
+    "sub_title": null,
+    "sub_title_en": null,
+    "sub_describe": null,
+    "sub_describe_en": null,
+    "hasDescription": null,
+    "hasInstructor": null,
+    "hasTA": null,
+    "hasTextBooks": null,
+    "hasReadings": null,
+    "hasiSoftwares": null,
+    "hasAssistSoftwares": null,
+    "hasObjective": null,
+    "hasWeeklyScds": null,
+    "hasGradeRules": null,
+    "hasGradeRuleDescribe": null,
+    "hasIntegrity": null,
+    "hasCoursePol": null,
+    "hasCourseRem": null,
+    "hasObjectiveReleation": null,
+    "hasTopicSdgs": null,
+    "hasTopicAiIndicators": null,
+    "hasSubTitleDesc": null
+  },
+  "subTitleDesc": null,
+  "description": {
+    "sub_id3": null,
+    "sub_name": "組合數學",
+    "sub_ename": "COMBINATIONAL MATHEMATICS",
+    "describe_ch": "教導學生在離散方法及組合推理上的觀念及技巧；涉及圖論基本概念、基本的技術方法、生成函數模型、遞迴關係模型、容斥原理等理論與應用",
+    "describe_eh": "To introduce the students to the topics and techniques of discrete methods and combinatorial reasoning. We will discuss the concept and application about graph theory, counting methods, generating functions, and recurrence relations in this course.",
+    "pre_subname": "",
+    "pre_sub_id3": null,
+    "pre_sub_ename": "",
+    "pre_describe": null,
+    "pre_describe_en": null,
+    "scr_credit": 3.0
+  },
+  "targets": [
+    {
+      "seq": 1,
+      "describe_ch": "理解包含和排除定律",
+      "describe_en": "To understand inclusion and exclusion"
+    },
+    {
+      "seq": 2,
+      "describe_ch": "理解與應用生成函數",
+      "describe_en": "To understand the generating functions and its application"
+    },
+    {
+      "seq": 3,
+      "describe_ch": "理解遞迴關係式的技巧",
+      "describe_en": "To understand the usage of recurrence relations"
+    },
+    {
+      "seq": 4,
+      "describe_ch": "理解圖論的觀念及其應用",
+      "describe_en": "To understand graph theory and its applications"
+    }
+  ],
+  "teachersInfo": [
+    {
+      "cname": "游景盛",
+      "ename": "Chin-Sheng Yu",
+      "period": "(Mon)04  資電227,(Tue)07-08 資電227,(Thu)08  資電227",
+      "roletype": 0,
+      "email": "yucs@o365.fcu.edu.tw",
+      "ext": "3742"
+    },
+    {
+      "cname": "洪奕承",
+      "ename": "HUNG, YI-CHENG",
+      "period": " ",
+      "roletype": 1,
+      "email": "d1289156@o365.fcu.edu.tw",
+      "ext": " "
+    },
+    {
+      "cname": "洪嘉儀",
+      "ename": "HUNG,CHIA-I",
+      "period": " ",
+      "roletype": 1,
+      "email": "d1291989@o365.fcu.edu.tw",
+      "ext": " "
+    },
+    {
+      "cname": "羅駿杰",
+      "ename": "Chun-Chieh Lo",
+      "period": " ",
+      "roletype": 1,
+      "email": "m1469864@o365.fcu.edu.tw",
+      "ext": " "
+    }
+  ],
+  "textBooks": {
+    "yms_year": 114.0,
+    "yms_smester": 2.0,
+    "cls_id": "CE07129",
+    "sub_id": "39150",
+    "scr_dup": "001",
+    "tpb_seq": 1,
+    "tpb_book": "<div>\n<div>書名：Discrete Mathematics and Its Applications 8/e</div>\n</div>\n\n<div>\n<div>作者：&nbsp;Kenneth H. Rosen</div>\n出版社：McGraw-Hill Education\n\n<div>出版日期：2019</div>\n</div>\n",
+    "tpb_book_en": null
+  },
+  "readings": {
+    "yms_year": 114.0,
+    "yms_smester": 2.0,
+    "cls_id": "CE07129",
+    "sub_id": "39150",
+    "scr_dup": "001",
+    "tpc_seq": 1,
+    "tpc_book": "<div>\n<div>書名：Introductory Combinatorics&nbsp;5/e</div>\n</div>\n\n<div>\n<div>作者：&nbsp;Richard A. Brualdi&nbsp;</div>\n出版社：Pearson Prentice Hall</div>\n",
+    "tpc_book_en": null
+  },
+  "iSoftwares": [],
+  "assistSoftwares": [],
+  "weeklyScds": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CE07129",
+      "sub_id": "39150",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "Chap. 4",
+      "tpd_reading": "<div>Number Theorm - about integers,&nbsp;modular arithmetic</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": " ",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CE07129",
+      "sub_id": "39150",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "Chap. 6",
+      "tpd_reading": "<div><strong>Counting Methods -&nbsp;</strong><strong>Arrangement, distribution, binomial identities</strong></div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": " ",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CE07129",
+      "sub_id": "39150",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "Chap. 8",
+      "tpd_reading": "<div>Advanced Counting -&nbsp;<strong>Generating Functions,&nbsp;Inclusion &ndash; Exclusion</strong></div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": " ",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CE07129",
+      "sub_id": "39150",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "Chap. 9",
+      "tpd_reading": "<div><strong>Relations - basis, representing, properties</strong></div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": " ",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CE07129",
+      "sub_id": "39150",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "Chap. 10",
+      "tpd_reading": "<div><strong>Graph - basis, models, relative algorithms</strong></div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": " ",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CE07129",
+      "sub_id": "39150",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "Chap. 11",
+      "tpd_reading": "<div><strong>Tree - basis, spanning tree, relative algorithms</strong></div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": " ",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CE07129",
+      "sub_id": "39150",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "Chap. X",
+      "tpd_reading": "<div><strong>Modeling Computing -&nbsp;</strong><strong>Polya&rsquo;s formula,&nbsp;</strong><strong>Finite&ndash;State Machines</strong></div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": " ",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    }
+  ],
+  "gradeRules": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CE07129",
+      "sub_id": "39150",
+      "scr_dup": "001",
+      "evalb_id": "D1",
+      "score_rate": 30,
+      "evalb_memo": "期中考試",
+      "evalb_memo_en": null,
+      "evalb_name": "期中考",
+      "evalb_name_en": "Midterm examination",
+      "seq": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CE07129",
+      "sub_id": "39150",
+      "scr_dup": "001",
+      "evalb_id": "D2",
+      "score_rate": 40,
+      "evalb_memo": "期末考試",
+      "evalb_memo_en": null,
+      "evalb_name": "期末考",
+      "evalb_name_en": "Final examination",
+      "seq": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CE07129",
+      "sub_id": "39150",
+      "scr_dup": "001",
+      "evalb_id": "D3",
+      "score_rate": 30,
+      "evalb_memo": "平時成績",
+      "evalb_memo_en": null,
+      "evalb_name": "隨堂測驗",
+      "evalb_name_en": "In-class examination",
+      "seq": 0
+    }
+  ],
+  "gradeRuleDescribe": {
+    "yms_year": 114.0,
+    "yms_smester": 2.0,
+    "cls_id": "CE07129",
+    "sub_id": "39150",
+    "scr_dup": "001",
+    "tpa_score_new": null,
+    "tpa_score_new_en": null,
+    "course_pol": "本課程為實體授課，並無特殊禮儀與其他規定，上課時間學生與老師間彼此互相尊重保持秩序即可，講課期間老師歡迎同學隨時提問分享想法。",
+    "course_pol_en": null,
+    "course_rem": "同學須注意成績結算規則，學期成績掌握於同學自身，確實練習每一章節介紹完成後的小考檢測，以掌握上下半學期的期中考試與期末考試。",
+    "course_rem_en": null,
+    "ais_meno": "<div>平時與期中、期末考試全數依本校集中考試規則執行，嚴禁抄襲作弊，違者以0分計，如有無法避免的事件無法到場考試，亦須依本校學校規定請假申請和與補考申請。</div>\n",
+    "ais_meno_en": null,
+    "ilearn_mk": null
+  },
+  "integrity": {
+    "yms_year": 114.0,
+    "yms_smester": 2.0,
+    "cls_id": "CE07129",
+    "sub_id": "39150",
+    "scr_dup": "001",
+    "tpa_score_new": null,
+    "tpa_score_new_en": null,
+    "course_pol": "本課程為實體授課，並無特殊禮儀與其他規定，上課時間學生與老師間彼此互相尊重保持秩序即可，講課期間老師歡迎同學隨時提問分享想法。",
+    "course_pol_en": null,
+    "course_rem": "同學須注意成績結算規則，學期成績掌握於同學自身，確實練習每一章節介紹完成後的小考檢測，以掌握上下半學期的期中考試與期末考試。",
+    "course_rem_en": null,
+    "ais_meno": "<div>平時與期中、期末考試全數依本校集中考試規則執行，嚴禁抄襲作弊，違者以0分計，如有無法避免的事件無法到場考試，亦須依本校學校規定請假申請和與補考申請。</div>\n",
+    "ais_meno_en": null,
+    "ilearn_mk": null
+  },
+  "policy": {
+    "yms_year": 114.0,
+    "yms_smester": 2.0,
+    "cls_id": "CE07129",
+    "sub_id": "39150",
+    "scr_dup": "001",
+    "tpa_score_new": null,
+    "tpa_score_new_en": null,
+    "course_pol": "本課程為實體授課，並無特殊禮儀與其他規定，上課時間學生與老師間彼此互相尊重保持秩序即可，講課期間老師歡迎同學隨時提問分享想法。",
+    "course_pol_en": null,
+    "course_rem": "同學須注意成績結算規則，學期成績掌握於同學自身，確實練習每一章節介紹完成後的小考檢測，以掌握上下半學期的期中考試與期末考試。",
+    "course_rem_en": null,
+    "ais_meno": "<div>平時與期中、期末考試全數依本校集中考試規則執行，嚴禁抄襲作弊，違者以0分計，如有無法避免的事件無法到場考試，亦須依本校學校規定請假申請和與補考申請。</div>\n",
+    "ais_meno_en": null,
+    "ilearn_mk": null
+  },
+  "courseBankC": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CE07129",
+      "sub_id": "39150",
+      "scr_dup": "001",
+      "seq": 1,
+      "describe_ch": "理解包含和排除定律",
+      "describe_en": "To understand inclusion and exclusion",
+      "core_id": "A",
+      "core_item": "運用數學、科學及工程知識的能力。",
+      "core_eng": "The ability of applying the knowledge of mathematics, science and engineering",
+      "core_level": "2 ",
+      "strgy": [
+        "01",
+        "06"
+      ],
+      "evalb": [
+        "D1",
+        "D2",
+        "D3"
+      ],
+      "strgy_name": [
+        "課堂授課",
+        "課堂檢討"
+      ],
+      "strgy_name_en": [
+        "Classroom instruction",
+        "In-class discussion"
+      ],
+      "evalb_name": [
+        "期中考",
+        "期末考",
+        "隨堂測驗"
+      ],
+      "evalb_name_en": [
+        "Midterm examination",
+        "Final examination",
+        "In-class examination"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE07129",
+          "sub_id": "39150",
+          "scr_dup": "001",
+          "seq": 1,
+          "strgy_id": "01",
+          "strgy_name": null,
+          "strgy_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE07129",
+          "sub_id": "39150",
+          "scr_dup": "001",
+          "seq": 1,
+          "strgy_id": "06",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE07129",
+          "sub_id": "39150",
+          "scr_dup": "001",
+          "seq": 1,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D1",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE07129",
+          "sub_id": "39150",
+          "scr_dup": "001",
+          "seq": 1,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D2",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE07129",
+          "sub_id": "39150",
+          "scr_dup": "001",
+          "seq": 1,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D3",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CE07129",
+      "sub_id": "39150",
+      "scr_dup": "001",
+      "seq": 2,
+      "describe_ch": "理解與應用生成函數",
+      "describe_en": "To understand the generating functions and its application",
+      "core_id": "A",
+      "core_item": "運用數學、科學及工程知識的能力。",
+      "core_eng": "The ability of applying the knowledge of mathematics, science and engineering",
+      "core_level": "3 ",
+      "strgy": [
+        "01",
+        "06"
+      ],
+      "evalb": [
+        "D1",
+        "D2",
+        "D3"
+      ],
+      "strgy_name": [
+        "課堂授課",
+        "課堂檢討"
+      ],
+      "strgy_name_en": [
+        "Classroom instruction",
+        "In-class discussion"
+      ],
+      "evalb_name": [
+        "期中考",
+        "期末考",
+        "隨堂測驗"
+      ],
+      "evalb_name_en": [
+        "Midterm examination",
+        "Final examination",
+        "In-class examination"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE07129",
+          "sub_id": "39150",
+          "scr_dup": "001",
+          "seq": 2,
+          "strgy_id": "01",
+          "strgy_name": null,
+          "strgy_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE07129",
+          "sub_id": "39150",
+          "scr_dup": "001",
+          "seq": 2,
+          "strgy_id": "06",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE07129",
+          "sub_id": "39150",
+          "scr_dup": "001",
+          "seq": 2,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D1",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE07129",
+          "sub_id": "39150",
+          "scr_dup": "001",
+          "seq": 2,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D2",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE07129",
+          "sub_id": "39150",
+          "scr_dup": "001",
+          "seq": 2,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D3",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CE07129",
+      "sub_id": "39150",
+      "scr_dup": "001",
+      "seq": 3,
+      "describe_ch": "理解遞迴關係式的技巧",
+      "describe_en": "To understand the usage of recurrence relations",
+      "core_id": "A",
+      "core_item": "運用數學、科學及工程知識的能力。",
+      "core_eng": "The ability of applying the knowledge of mathematics, science and engineering",
+      "core_level": "2 ",
+      "strgy": [
+        "01",
+        "06"
+      ],
+      "evalb": [
+        "D1",
+        "D2",
+        "D3"
+      ],
+      "strgy_name": [
+        "課堂授課",
+        "課堂檢討"
+      ],
+      "strgy_name_en": [
+        "Classroom instruction",
+        "In-class discussion"
+      ],
+      "evalb_name": [
+        "期中考",
+        "期末考",
+        "隨堂測驗"
+      ],
+      "evalb_name_en": [
+        "Midterm examination",
+        "Final examination",
+        "In-class examination"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE07129",
+          "sub_id": "39150",
+          "scr_dup": "001",
+          "seq": 3,
+          "strgy_id": "01",
+          "strgy_name": null,
+          "strgy_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE07129",
+          "sub_id": "39150",
+          "scr_dup": "001",
+          "seq": 3,
+          "strgy_id": "06",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE07129",
+          "sub_id": "39150",
+          "scr_dup": "001",
+          "seq": 3,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D1",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE07129",
+          "sub_id": "39150",
+          "scr_dup": "001",
+          "seq": 3,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D2",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE07129",
+          "sub_id": "39150",
+          "scr_dup": "001",
+          "seq": 3,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D3",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CE07129",
+      "sub_id": "39150",
+      "scr_dup": "001",
+      "seq": 4,
+      "describe_ch": "理解圖論的觀念及其應用",
+      "describe_en": "To understand graph theory and its applications",
+      "core_id": "A",
+      "core_item": "運用數學、科學及工程知識的能力。",
+      "core_eng": "The ability of applying the knowledge of mathematics, science and engineering",
+      "core_level": "3 ",
+      "strgy": [
+        "01",
+        "06"
+      ],
+      "evalb": [
+        "D1",
+        "D2",
+        "D3"
+      ],
+      "strgy_name": [
+        "課堂授課",
+        "課堂檢討"
+      ],
+      "strgy_name_en": [
+        "Classroom instruction",
+        "In-class discussion"
+      ],
+      "evalb_name": [
+        "期中考",
+        "期末考",
+        "隨堂測驗"
+      ],
+      "evalb_name_en": [
+        "Midterm examination",
+        "Final examination",
+        "In-class examination"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE07129",
+          "sub_id": "39150",
+          "scr_dup": "001",
+          "seq": 4,
+          "strgy_id": "01",
+          "strgy_name": null,
+          "strgy_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE07129",
+          "sub_id": "39150",
+          "scr_dup": "001",
+          "seq": 4,
+          "strgy_id": "06",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE07129",
+          "sub_id": "39150",
+          "scr_dup": "001",
+          "seq": 4,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D1",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE07129",
+          "sub_id": "39150",
+          "scr_dup": "001",
+          "seq": 4,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D2",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE07129",
+          "sub_id": "39150",
+          "scr_dup": "001",
+          "seq": 4,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D3",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    }
+  ],
+  "topicSdgs": [],
+  "topicAiIndicators": [],
+  "learnHours": {
+    "total": 0.0,
+    "tpdOnlineAsyTotal": 0.0,
+    "tpdOnlineSynTotal": 0.0,
+    "tpdOnlineFaceTotal": 0.0,
+    "asySynInTotalPercent": 0.0
+  },
+  "crossVerYear": 114
+}

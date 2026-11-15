@@ -1,0 +1,298 @@
+{
+  "student_demo_001": [
+    {
+      "academic_year": 114,
+      "semester": 2,
+      "course_code": "0772",
+      "course_name": "Python程式設計與應用",
+      "credits": 3.0,
+      "grade": 86
+    },
+    {
+      "academic_year": 114,
+      "semester": 2,
+      "course_code": "1193",
+      "course_name": "資料庫設計",
+      "credits": 3.0,
+      "grade": 79
+    },
+    {
+      "academic_year": 114,
+      "semester": 2,
+      "course_code": "2061",
+      "course_name": "網路程式設計",
+      "credits": 3.0,
+      "grade": 91
+    },
+    {
+      "academic_year": 114,
+      "semester": 2,
+      "course_code": "1279",
+      "course_name": "資料結構",
+      "credits": 3.0,
+      "grade": 84
+    },
+    {
+      "academic_year": 114,
+      "semester": 2,
+      "course_code": "1298",
+      "course_name": "計算機演算法",
+      "credits": 3.0,
+      "grade": 88
+    },
+    {
+      "academic_year": 114,
+      "semester": 2,
+      "course_code": "0766",
+      "course_name": "人工智慧導論",
+      "credits": 3.0,
+      "grade": 82
+    }
+  ],
+  "student_demo_002": [
+    {
+      "academic_year": 114,
+      "semester": 2,
+      "course_code": "0772",
+      "course_name": "Python程式設計與應用",
+      "credits": 3.0,
+      "grade": 86
+    },
+    {
+      "academic_year": 114,
+      "semester": 2,
+      "course_code": "1193",
+      "course_name": "資料庫設計",
+      "credits": 3.0,
+      "grade": 79
+    },
+    {
+      "academic_year": 114,
+      "semester": 2,
+      "course_code": "0051",
+      "course_name": "機器學習",
+      "credits": 3.0,
+      "grade": 91
+    },
+    {
+      "academic_year": 114,
+      "semester": 2,
+      "course_code": "1817",
+      "course_name": "資料科學實務應用",
+      "credits": 3.0,
+      "grade": 84
+    },
+    {
+      "academic_year": 114,
+      "semester": 2,
+      "course_code": "0066",
+      "course_name": "統計學(二)",
+      "credits": 3.0,
+      "grade": 88
+    },
+    {
+      "academic_year": 114,
+      "semester": 2,
+      "course_code": "0766",
+      "course_name": "人工智慧導論",
+      "credits": 3.0,
+      "grade": 82
+    }
+  ],
+  "student_demo_003": [
+    {
+      "academic_year": 114,
+      "semester": 2,
+      "course_code": "0772",
+      "course_name": "Python程式設計與應用",
+      "credits": 3.0,
+      "grade": 86
+    },
+    {
+      "academic_year": 114,
+      "semester": 2,
+      "course_code": "1193",
+      "course_name": "資料庫設計",
+      "credits": 3.0,
+      "grade": 79
+    },
+    {
+      "academic_year": 114,
+      "semester": 2,
+      "course_code": "1332",
+      "course_name": "高等資訊安全",
+      "credits": 3.0,
+      "grade": 91
+    },
+    {
+      "academic_year": 114,
+      "semester": 2,
+      "course_code": "2776",
+      "course_name": "密碼學",
+      "credits": 3.0,
+      "grade": 84
+    },
+    {
+      "academic_year": 114,
+      "semester": 2,
+      "course_code": "1278",
+      "course_name": "資料結構實習",
+      "credits": 3.0,
+      "grade": 88
+    },
+    {
+      "academic_year": 114,
+      "semester": 2,
+      "course_code": "1264",
+      "course_name": "資料庫系統",
+      "credits": 3.0,
+      "grade": 82
+    }
+  ],
+  "student_demo_004": [
+    {
+      "academic_year": 114,
+      "semester": 2,
+      "course_code": "0772",
+      "course_name": "Python程式設計與應用",
+      "credits": 3.0,
+      "grade": 86
+    },
+    {
+      "academic_year": 114,
+      "semester": 2,
+      "course_code": "1193",
+      "course_name": "資料庫設計",
+      "credits": 3.0,
+      "grade": 79
+    },
+    {
+      "academic_year": 114,
+      "semester": 2,
+      "course_code": "0701",
+      "course_name": "敘事視覺化",
+      "credits": 3.0,
+      "grade": 91
+    },
+    {
+      "academic_year": 114,
+      "semester": 2,
+      "course_code": "1681",
+      "course_name": "數位影像處理",
+      "credits": 3.0,
+      "grade": 84
+    },
+    {
+      "academic_year": 114,
+      "semester": 2,
+      "course_code": "0689",
+      "course_name": "智能化數位行銷",
+      "credits": 3.0,
+      "grade": 88
+    },
+    {
+      "academic_year": 114,
+      "semester": 2,
+      "course_code": "0721",
+      "course_name": "數位行銷策略與工具",
+      "credits": 3.0,
+      "grade": 82
+    }
+  ],
+  "student_demo_005": [
+    {
+      "academic_year": 114,
+      "semester": 2,
+      "course_code": "0772",
+      "course_name": "Python程式設計與應用",
+      "credits": 3.0,
+      "grade": 86
+    },
+    {
+      "academic_year": 114,
+      "semester": 2,
+      "course_code": "1193",
+      "course_name": "資料庫設計",
+      "credits": 3.0,
+      "grade": 79
+    },
+    {
+      "academic_year": 114,
+      "semester": 2,
+      "course_code": "0457",
+      "course_name": "專案管理與AI協作",
+      "credits": 3.0,
+      "grade": 91
+    },
+    {
+      "academic_year": 114,
+      "semester": 2,
+      "course_code": "0795",
+      "course_name": "AI專案管理規劃與協作",
+      "credits": 3.0,
+      "grade": 84
+    },
+    {
+      "academic_year": 114,
+      "semester": 2,
+      "course_code": "1503",
+      "course_name": "儀器人機介面設計與分析",
+      "credits": 3.0,
+      "grade": 88
+    },
+    {
+      "academic_year": 114,
+      "semester": 2,
+      "course_code": "1264",
+      "course_name": "資料庫系統",
+      "credits": 3.0,
+      "grade": 82
+    },
+    {
+      "academic_year": 114,
+      "semester": 2,
+      "course_code": "1817",
+      "course_name": "資料科學實務應用",
+      "credits": 3.0,
+      "grade": null
+    }
+  ],
+  "case_missing_grade": [
+    {
+      "academic_year": 114,
+      "semester": 2,
+      "course_code": "0772",
+      "course_name": "Python程式設計與應用",
+      "credits": 3.0,
+      "grade": null
+    }
+  ],
+  "case_unmatched_course": [
+    {
+      "academic_year": 114,
+      "semester": 2,
+      "course_code": "1193",
+      "course_name": "Python程式設計與應用",
+      "credits": 3.0,
+      "grade": 80
+    }
+  ],
+  "case_duplicate_enrollment": [
+    {
+      "academic_year": 114,
+      "semester": 2,
+      "course_code": "1193",
+      "course_name": "資料庫設計",
+      "credits": 3.0,
+      "grade": 79
+    },
+    {
+      "academic_year": 114,
+      "semester": 2,
+      "course_code": "1193",
+      "course_name": "資料庫設計",
+      "credits": 3.0,
+      "grade": 79
+    }
+  ]
+}

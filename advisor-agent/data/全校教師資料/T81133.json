@@ -1,0 +1,746 @@
+{
+  "teacherId": "T81133",
+  "name": "何子儀",
+  "mainUnit": "資訊電機學院",
+  "detailUnit": "電機工程學系",
+  "skill": [
+    "微處理機應用設計，馬達驅動器設計與製作Power Electronics, The Protection and Mitigation of EMI",
+    "電力電子電路設計，EMI防制與對策Motor Drive Control, The Applications Based on Microcontroller and Arm Control",
+    "電力電子系統",
+    "微處理機之應用",
+    "驅動器控制工程"
+  ],
+  "edu": [
+    "美國德州大學 電機系 博士",
+    "國立台灣大學 電機研究研 碩士",
+    "國立海洋大學 電子系 學士"
+  ],
+  "fcuExp": [
+    "電機工程學系(所) 副教授",
+    "電機工程學系 教授",
+    "電機工程學系 教授",
+    "電機工程學系 教授",
+    "電機工程學系 教授"
+  ],
+  "currjob": [],
+  "otherExp": [],
+  "journal": [
+    {
+      "論文名稱": "The Design and Implementation of a Sensorless Power Tool Based on a Microcontroller",
+      "期刊名稱": "Electronics (SCIE)",
+      "作者群": "Tze-Yee Ho *, Cong-Khoi Huynh , Tsung-Hsien Lin, Shih-Wei Yang"
+    },
+    {
+      "論文名稱": "The Implementation of a Measurement System for Brushless DC Motor Parameters",
+      "期刊名稱": "International Journal of Green Energy (SCIE)",
+      "作者群": "Tze-Yee Ho,Fang-Ta Liu, Guan-Wei Ho, Yan-Ru Lin"
+    },
+    {
+      "論文名稱": "The Design of a Motor Drive Based on Neural Network",
+      "期刊名稱": "Proceedings of the 2017 IEEE International Conference on Applied System Innovation (EI)",
+      "作者群": "Tze-Yee Ho, Yuan-Joan Chen, Po-Hung Chen, Po-Chun Hu"
+    },
+    {
+      "論文名稱": "The Design and Implementation of a Spindle Motor Drive",
+      "期刊名稱": "Journal Smart Science (SCOPUS)",
+      "作者群": "Tze-Yee Ho, Jun-Gu Lin and Ting-Yu Jian,"
+    },
+    {
+      "論文名稱": "The Design and Implementation of a Motor Drive for Foot Rehabilitation",
+      "期刊名稱": "Computers and Electrical Engineering (SCIE,EI)",
+      "作者群": "Tze-Yee Ho, Yuan-Joan Chen and Po-Hung Chen"
+    },
+    {
+      "論文名稱": "The Design of EMG Measurement System for Arm Strength Training Machine",
+      "期刊名稱": "MATHEMATICAL PROBLEMS IN ENGINEERING (SCIE)",
+      "作者群": "Tze-Yee Ho*, Yuan-Joan Chen,Wei-Chang Hung,Kuan-Wei Ho,Mu-Song Chen"
+    },
+    {
+      "論文名稱": "The Arm Strength Training Machine with Biofeedback",
+      "期刊名稱": "Lecture Notes in Electrical Engineering (EI)",
+      "作者群": "Tze-Yee Ho, Mu-Song Chen, Yuan-Joan Chen, Hung-Yi Chen"
+    },
+    {
+      "論文名稱": "The Design of a High Power Factor Brushless DC Motor Drive",
+      "期刊名稱": "International Journal of Advancements in Computing Technolog (EI)",
+      "作者群": "Tze-Yee Ho, Mu-Song Chen, Lung-Hsian Yang, Jia-Shen, Lin, Po-Hung Chen,"
+    },
+    {
+      "論文名稱": "The Design and Implementation of a BLDC Motor Drive with DTC",
+      "期刊名稱": "Journal of Applied Mechanics and Materials (EI)",
+      "作者群": "Tze-Yee Ho, Li-Yuan Chen, Lung-Hsian Yang, Wei-Lun Lin"
+    },
+    {
+      "論文名稱": " The design of a flyback converter based on simulation",
+      "期刊名稱": "IEEE Proceeding,ICECC2011 (ECONLIT)",
+      "作者群": "Tze-Yee Ho, Mu-Song Chen, Li-Yuan Chen, Lung-Hsian Yang and Chen-Wen Chang"
+    },
+    {
+      "論文名稱": "變頻式感應電動機使用在大型火力發電機組之經濟效益評估",
+      "期刊名稱": "台電工程月刊 ()",
+      "作者群": "何子儀，郭宗益，張文曜，王熙堂"
+    },
+    {
+      "論文名稱": " Negative sequence current reduction for generator/turbine protection",
+      "期刊名稱": "Proceedings of IEEE Industry Application Society Annual Meeting (SCIE)",
+      "作者群": "W. J. Lee, T. Y. Ho, J. P. Liu and Y. H. Liu"
+    }
+  ],
+  "journal2": [],
+  "conference": [
+    {
+      "論文名稱": "音圈馬達驅動控制之研究",
+      "會議名稱": "電力工程及電力電子研討會",
+      "作者群": "何子儀、賴映瑔"
+    },
+    {
+      "論文名稱": "音圈馬達驅動之設計",
+      "會議名稱": "工程科技應用研討會",
+      "作者群": "何子儀、賴映瑔"
+    },
+    {
+      "論文名稱": "具生物感測功能之再生電動 車設計",
+      "會議名稱": "數位生活科技研討會",
+      "作者群": "何子儀、顏琮峰、黃智偉、陳木松"
+    },
+    {
+      "論文名稱": "The Design and Implementation of a Sensorless Power Tool Based on a Microcontroller",
+      "會議名稱": "2019 IEEE Eurasia Conference on IOT, Communication and Engineering (IEEE ECICE 2019)-----[Best paper award].",
+      "作者群": "Tze-Yee Ho, Cong Khoi Huynh, Tsung-Hsien Lin, Shih-Wei Yang"
+    },
+    {
+      "論文名稱": "基於直流無刷馬達之智慧抽油煙 機,",
+      "會議名稱": "中華民國電力工程研討會",
+      "作者群": "Tze-Yee Ho, Chien-Jung Wei, Xuan-You Chen, Shih-Wei Yang"
+    },
+    {
+      "論文名稱": "電動車馬達之PID 結合類神經控制",
+      "會議名稱": "中華民國電力 工程研討會",
+      "作者群": "Tze-Yee Ho, Po-Chun Hu, Tsung-Hsien Lin"
+    },
+    {
+      "論文名稱": "智慧居家太陽能電源系統之研究",
+      "會議名稱": "智慧生活科技研討會",
+      "作者群": "Tze-Yee Ho, Gu-Kai Chen, Chen Xuan-You, Shih-Wei Yang"
+    },
+    {
+      "論文名稱": "電動車馬達驅動器之設計與研製",
+      "會議名稱": "智慧生活科技研 討會",
+      "作者群": "Tze-Yee Ho, Po-Chun Hu, Tsung-Hsien Lin"
+    },
+    {
+      "論文名稱": "The Study of a Neural Network Based Motor Drive for a Range Hood",
+      "會議名稱": "The 3rd International Conference on Intelligent Green Building and Smart Grid (IGBSG 2018)",
+      "作者群": "Tze-Yee Ho, Cong-Khoi Huynh, Jun-Gu Lin, Po-Chun Hu"
+    },
+    {
+      "論文名稱": "The Design of Radial Basis Function Neural Network Based PID Control for a Motor Drive",
+      "會議名稱": "IEEE 2018 International Conference on Applied System Innovation ( IEEE ICASI 2018)",
+      "作者群": "Tze-Yee Ho, Po-Hung Chen, Kuan-Wei Ho, Po-Chun Hu"
+    },
+    {
+      "論文名稱": "抽油煙機馬達驅動器驅動模式之比較",
+      "會議名稱": "中華民國第三十八屆電力工程研討會",
+      "作者群": "何子儀、林俊谷、胡博竣、陳祈向"
+    },
+    {
+      "論文名稱": "空間向量控制變頻器之研究",
+      "會議名稱": "中華民國第三十八屆電力工程研討會",
+      "作者群": "何子儀、簡廷諭、陳家塏、魏健融"
+    },
+    {
+      "論文名稱": "行動椅之手機APP設計",
+      "會議名稱": "民生電子學術研討會",
+      "作者群": "何子儀、楊欣霓、簡廷諭、陳家塏"
+    },
+    {
+      "論文名稱": "無刷直流馬達驅動器SVPWM控制之研製",
+      "會議名稱": "民生電子學術研討會，2017年11月18日，台灣，台北市。",
+      "作者群": "何子儀、林俊谷、胡博竣、陳祈向"
+    },
+    {
+      "論文名稱": "電動機車無感測馬達驅動器之設計",
+      "會議名稱": "中華民國第37屆電力工程研討會",
+      "作者群": "何子儀，何冠緯，胡博竣，林俊谷"
+    },
+    {
+      "論文名稱": "智慧行動椅系統硬體之設計與製作",
+      "會議名稱": "中華民國第37屆電力工程研討會",
+      "作者群": "何子儀，林彥儒，陳家塏，簡廷諭"
+    },
+    {
+      "論文名稱": "The Design and\r\nImplementation of a Spindle Motor Drive",
+      "會議名稱": "The 2nd International Conference on ICCPE2016",
+      "作者群": "Tze-Yee Ho, Jun-Gu Lin, and Ting-Yu Jian"
+    },
+    {
+      "論文名稱": "The Study of Electric Motor Drive for Foot Rehabilitation",
+      "會議名稱": "第十四屆台灣電力電子研討會暨展覽會",
+      "作者群": "Tze-Yee Ho,Jun-Gu Lin,Po-Chun Hu"
+    },
+    {
+      "論文名稱": "智慧行動椅系統之研製",
+      "會議名稱": "第十四屆台灣電力電子研討會暨展覽會",
+      "作者群": "何子儀，簡廷諭，陳家塏"
+    },
+    {
+      "論文名稱": "局部放電雲端監控系統之研究",
+      "會議名稱": "第36屆電力工程研討會",
+      "作者群": "何子儀 蘇庭儀"
+    },
+    {
+      "論文名稱": "The Design and Implementation of Motor Measurement System",
+      "會議名稱": "The 10th International Green Energy Conference",
+      "作者群": "Tze-Yee Ho, Fang-Ta Liu, Guan-Wei Ho, Yan-Ru Lin"
+    },
+    {
+      "論文名稱": "The Design and\r\nImplementation of Motor Drive for Foot Rehabilitation",
+      "會議名稱": "International Conference on Applied System Innovation",
+      "作者群": "Tze-Yee Ho, Po-Hung Chen, Yuan-Joan Chen"
+    },
+    {
+      "論文名稱": "馬達量測系統之設計與製作",
+      "會議名稱": "中華民國第三十五屆電力工程研討會",
+      "作者群": "何子儀、劉枋達、林彥儒、何冠緯"
+    },
+    {
+      "論文名稱": "馬達參數量測系統之研究與製作",
+      "會議名稱": "2014民生電子研討會",
+      "作者群": "何子儀\t劉枋達\t何冠緯\t洪瑋成"
+    },
+    {
+      "論文名稱": "The Modelling Design for Arm Strength Training Machine with Biofeedback",
+      "會議名稱": "The 2014 World Congress in Computer Science, Computer Engineering & Applied Computing",
+      "作者群": "Tze-Yee Ho, Yuan-Joan Chen, Mu-Song Chen , Chih-Hao Chiang, Wei-Chang Hung"
+    },
+    {
+      "論文名稱": "Graphical User Interface for Arm Strength Training Machine",
+      "會議名稱": "2014 International Conference on Scientific Computing (CSC'14)",
+      "作者群": "Mu-Song Chen, Tze-Yee Ho, Chih-Hao Chiang, Wei-Chang Hung,"
+    },
+    {
+      "論文名稱": "The Design of Motor Drive with Speed Control for an Electric Bicycle",
+      "會議名稱": "IEEE 2014 International symposium on computer, consumer and control",
+      "作者群": "Tze-Yee Ho, Wei-Chieh Chen, Chih-Hao Chiang,Mu-Song Chen"
+    },
+    {
+      "論文名稱": "影像追蹤系統之設計",
+      "會議名稱": "The 9th Intelligent Living Technology Conference",
+      "作者群": "何子儀,林彥儒,洪瑋成"
+    },
+    {
+      "論文名稱": "The Design and Implementation of Arm Strength Training Machine",
+      "會議名稱": "IEEE EUROCON 2013",
+      "作者群": "Tze-Yee Ho, Mu-Song Chen, Hung-Yi Chen, and Po-Hung Chen"
+    },
+    {
+      "論文名稱": "The Design and Implementation of Motor Drive for an Electric Bicycle",
+      "會議名稱": "4th International Conference on Swarm Intelligence",
+      "作者群": "Tze-Yee Ho, Mu-Song Chen, Wei-Chieh Chen, and Chih-Hao Chiang"
+    },
+    {
+      "論文名稱": "The PC Based Human Interface for Arm Strength Training Machine",
+      "會議名稱": "10th int'l conference on Power Electronics and Drive Systems",
+      "作者群": "Tze-Yee Ho, Yuan-Joan Chen, Mu-Song Chen, Po-Hung Chen, and Chih-Hao Chiang,"
+    },
+    {
+      "論文名稱": "The Design and Implementation of the BLDC Motor Drive for a Washing Machine",
+      "會議名稱": "The 1st IEEE Global Conference on Consumer Electronics 2012",
+      "作者群": "Tze-Yee Ho, Mu-Song Chen, Jia-Shen Lin, Po-Hung Chen"
+    },
+    {
+      "論文名稱": "The Design and Implementation of Windowing Interface Arm Strength Training Machine",
+      "會議名稱": "The 1st IEEE Global Conference on Consumer Electronics 2012",
+      "作者群": "Tze-Yee Ho, Yuan-Joan Chen, Po-Hung Chen, Chih-Hao Chiang"
+    },
+    {
+      "論文名稱": "Cultivating Power Converter Talents on Campus through the Design Methodology of Flyback Converter",
+      "會議名稱": "IEEE International Conference on Teaching, Assessment, and Learning for Engineering 2012",
+      "作者群": "Tze-Yee Ho, Yuan-Joan Chen, Mu-Song Chen, Jia-Shen Lin"
+    },
+    {
+      "論文名稱": "The Design of a High Power Factor Brushless DC Motor Drive",
+      "會議名稱": "2012 International Symposium on Computer, Consumer and Control",
+      "作者群": "Tze-Yee Ho, Mu-Song Chen, Lung-Hsian Yang, Wei-Lun, Lin"
+    },
+    {
+      "論文名稱": "以ARM為基礎乒乓球遊戲機之設計與製作",
+      "會議名稱": "第七屆智慧生活科技研討會",
+      "作者群": "何子儀、陳柏宏"
+    },
+    {
+      "論文名稱": "Analysis and Design of the Finite Length Multi-Queue M/M/1 Model",
+      "會議名稱": "The 11th International Conference on Automation Technology",
+      "作者群": "Mu-Song Chen, Hao-Wei Yen, Chipan Hwang, Tze-Yee Ho, and Deng-Yuan Huang"
+    },
+    {
+      "論文名稱": "The design of a flyback converter based on simulation",
+      "會議名稱": "The International Conference on Electronics, Communications and Control",
+      "作者群": "Tze-Yee Ho, Mu-Song Chen, Li-Yuan Chen and Lung-Hsian Yang and Chen-Wen Chang,"
+    },
+    {
+      "論文名稱": "The design practice and implementation of a flyback converter",
+      "會議名稱": "2011 2nd International Conference on Electronics and Information Engineering",
+      "作者群": "62.\tTze-Yee Ho, Chih-Hsien Lin and Lung-Hsian Yang"
+    },
+    {
+      "論文名稱": "The Design of a PMSM Motor Drive with Active Power Factor Correction",
+      "會議名稱": "2011 2nd International Conference on Artificial Intelligence Management Science and Electronic Commerce",
+      "作者群": "Tze-Yee Ho, Mu-Song Chen, Li-Yuan Chen and Lung-Hsian Yang"
+    },
+    {
+      "論文名稱": "A Novel Approach for Message Scheduling with Deadline Constraints",
+      "會議名稱": "The 2nd International conference on Artificial Intelligence, Management Science and Electronic Commerce",
+      "作者群": "59.\tMu-Song Chen, Seng Chi Chen, Deng-Yuan Huang, and Tze-Yee Ho"
+    },
+    {
+      "論文名稱": "電動輔助自行車控制器之設計",
+      "會議名稱": "第三十一屆電力工程研討會",
+      "作者群": "何子儀、白朝順、朱平宇、楊榮翔、張朕文"
+    },
+    {
+      "論文名稱": "以嵌入式系統為基礎之電子重量訓練機之設計與製作",
+      "會議名稱": "第三十一屆電力工程研討會",
+      "作者群": "何子儀、朱平宇、楊榮翔、張朕文"
+    },
+    {
+      "論文名稱": "具溫度感測USB變頻風扇",
+      "會議名稱": "2010年民生電子研討會",
+      "作者群": "何子儀、阮筱喬、楊榮翔、林暐倫"
+    },
+    {
+      "論文名稱": "返馳式電源轉換器之設計與製作",
+      "會議名稱": "第九屆台灣電力電子研討會",
+      "作者群": "何子儀、林志賢、楊榮翔、朱平宇"
+    },
+    {
+      "論文名稱": "以USB微控制器及人機介面為基礎之無線遙控自走車的設計與製作",
+      "會議名稱": "2010海峽兩岸四地無線電科技研討會",
+      "作者群": "何子儀、陳木松、楊榮翔、朱平宇、張朕文"
+    },
+    {
+      "論文名稱": "The Design and Implementation of a Windowing Interface Pinch Force Measurement System",
+      "會議名稱": "SPIE symposium on BIoS",
+      "作者群": "Tze-Yee Ho, Yuan-Joan Chen, Chin-Teng Chung, Ming-Heng Hsiao"
+    },
+    {
+      "論文名稱": "無刷直流馬達驅動器之設計與製作",
+      "會議名稱": "中華民國第三十屆電力工程研討會",
+      "作者群": "黃冠霖、楊榮翔、朱平宇"
+    },
+    {
+      "論文名稱": "USB 控制器硬體應用電路與韌體之設計",
+      "會議名稱": "2009年民生電子研討會",
+      "作者群": "楊榮翔、蕭明亨"
+    },
+    {
+      "論文名稱": "手部旋轉感測裝置之設計與製作",
+      "會議名稱": "台中，國立勤益科技大學",
+      "作者群": "蕭明亨、楊榮翔、張朕文"
+    },
+    {
+      "論文名稱": "手部運動感測硬體電?設計與製作",
+      "會議名稱": "第八屆電力電子研討會",
+      "作者群": "蕭名亨、楊榮翔"
+    },
+    {
+      "論文名稱": "手部指捏力感測器之設計與製作",
+      "會議名稱": "2009海峽兩岸三地無線電科技研討會",
+      "作者群": "余松益、鍾進燈"
+    },
+    {
+      "論文名稱": "USB 控制器視窗化圖形介面設計",
+      "會議名稱": "第八屆電力電子研討會",
+      "作者群": "楊榮翔、蕭名亨"
+    },
+    {
+      "論文名稱": "CPLD 於四個開關變頻驅動器之研究",
+      "會議名稱": "第七屆電力電子研討會",
+      "作者群": "林鴻鐘"
+    },
+    {
+      "論文名稱": "高功因永磁同步馬達驅動器設計與製作",
+      "會議名稱": "2008年全國電磁相容技術與實務研討會",
+      "作者群": "何子儀，陳立原"
+    },
+    {
+      "論文名稱": "高功因永磁同步馬達驅動器設計與製作2008年7月10-11日。A5-4",
+      "會議名稱": "電磁相容研討會",
+      "作者群": "何子儀、陳立原"
+    },
+    {
+      "論文名稱": "取煤機系統分散式控制之規劃與建置",
+      "會議名稱": "中華民國第二十八屆電力工程研討會",
+      "作者群": "何子儀、李中平"
+    },
+    {
+      "論文名稱": "頸椎牽引機力量感測器之改良與人機介面之設計",
+      "會議名稱": "2007 第六屆台灣電力電子研討會",
+      "作者群": "何子儀、田朝元、余松益、鍾進燈"
+    },
+    {
+      "論文名稱": "以磁阻型解角器為基礎之解角器電路設計與製作",
+      "會議名稱": "，第六屆台灣電力電子研討會",
+      "作者群": "何子儀、黃列峰、陳立原"
+    },
+    {
+      "論文名稱": "The Study of Aging Phenomenon for MOV Component2007年8月23-24日。",
+      "會議名稱": "2007年海峽兩岸三地無線科技研討會",
+      "作者群": "何子儀、蕭鉑杰、余松益"
+    },
+    {
+      "論文名稱": "MOV元件偵測電路之設計與研製",
+      "會議名稱": "2007全國電磁相容技術與實務研討會",
+      "作者群": "何子儀、蕭鉑杰、張衍智"
+    },
+    {
+      "論文名稱": "四段開關三相線性馬達驅動器之研製",
+      "會議名稱": "中華民國第二十七屆電力工程研討會",
+      "作者群": "何子儀、陳志宏、陳彥夫"
+    },
+    {
+      "論文名稱": "工廠電力負載之監視與控制",
+      "會議名稱": "中華民國第二十七屆電力工程研討會",
+      "作者群": "何子儀、黃建榮"
+    },
+    {
+      "論文名稱": "以USB為基礎之儀錶驅動控制系統分析與模擬",
+      "會議名稱": "中華民國第二十七屆電力工程研討會",
+      "作者群": "何子儀、陳彥夫、陳立原"
+    },
+    {
+      "論文名稱": "網路電力監控系統之設計與製作",
+      "會議名稱": "2006第五屆台灣電力電子研討會",
+      "作者群": "何子儀、黃建榮"
+    },
+    {
+      "論文名稱": "緩啟動交流馬達電壓控制器之研製",
+      "會議名稱": "第26屆電力工程研討會",
+      "作者群": "何子儀、陳宗漢、劉建峰、陳志宏"
+    },
+    {
+      "論文名稱": "高功因半橋轉換器之設計與研製",
+      "會議名稱": "第26屆電力工程研討會",
+      "作者群": "何子儀、劉崇正、林忠賢、朱華煌、陳志宏"
+    },
+    {
+      "論文名稱": "高功因半橋轉換器之電磁干擾濾波器研製",
+      "會議名稱": "第26屆電力工程研討會",
+      "作者群": "何子儀、林忠賢、劉崇正、吳昇威"
+    },
+    {
+      "論文名稱": "電磁脈衝元件之測試與模擬",
+      "會議名稱": "第26屆電力工程研討會",
+      "作者群": "何子儀、張詩聰、吳昇威、劉建峰"
+    },
+    {
+      "論文名稱": "電磁脈衝對電力傳輸線影響之探討",
+      "會議名稱": "第25屆電力研討會",
+      "作者群": "何子儀、李進雲、張詩聰"
+    },
+    {
+      "論文名稱": "天車之交流電壓控制器設計與製作",
+      "會議名稱": "第25屆電力研討會",
+      "作者群": "何子儀、侯宗武、陳宗漢"
+    },
+    {
+      "論文名稱": "網際網路遠端監控系統之研究與開發",
+      "會議名稱": "第25屆電力研討會",
+      "作者群": "何子儀、簡健州、陳宗漢"
+    },
+    {
+      "論文名稱": "電磁脈衝元件之研究與模擬",
+      "會議名稱": "第25屆電力研討會",
+      "作者群": "何子儀、曾思齊、張衍智、張詩聰"
+    },
+    {
+      "論文名稱": "線性馬達驅動控制系統之設計與製作",
+      "會議名稱": "第二十四屆電力工程研討會",
+      "作者群": " 何子儀 ，鍾豐駿"
+    },
+    {
+      "論文名稱": "數位訊號處理器為基礎之線性馬達驅動器設計與製作",
+      "會議名稱": "第二十四屆電力工程研討會",
+      "作者群": " 何子儀 鄭其原"
+    },
+    {
+      "論文名稱": "火花間隙模型之建立與測試",
+      "會議名稱": "台灣電磁相容研討會",
+      "作者群": " 何子儀 李以文"
+    },
+    {
+      "論文名稱": "電磁脈衝防護之探討",
+      "會議名稱": "第二十四屆電力工程研討會",
+      "作者群": " 何子儀 李以文"
+    },
+    {
+      "論文名稱": "智慧型馬達速度與扭力控制",
+      "會議名稱": "22屆電力研討會",
+      "作者群": "何子儀"
+    },
+    {
+      "論文名稱": "壓力流量複合電控板數位化設計",
+      "會議名稱": "22屆電力研討會",
+      "作者群": "何子儀"
+    },
+    {
+      "論文名稱": "電腦輔助雜訊濾波器設計",
+      "會議名稱": "22屆電力研討會",
+      "作者群": "何子儀"
+    },
+    {
+      "論文名稱": "馬達驅動器之雜訊濾波器設計與製作",
+      "會議名稱": "EMC研討會",
+      "作者群": "何子儀"
+    },
+    {
+      "論文名稱": "馬達速度控制扭力控制研究",
+      "會議名稱": "",
+      "作者群": "何子儀"
+    },
+    {
+      "論文名稱": "電腦輔助雜訊濾波器設計",
+      "會議名稱": "",
+      "作者群": "何子儀"
+    },
+    {
+      "論文名稱": "無感測試轉速馬達驅動器之開發期末報告",
+      "會議名稱": "經濟部",
+      "作者群": "何子儀"
+    },
+    {
+      "論文名稱": "電磁干擾三相濾波器之架構比較與討論",
+      "會議名稱": "國科會電力學門88年度研究計劃成果發表會",
+      "作者群": "何子儀, 魏嘉延"
+    },
+    {
+      "論文名稱": "感應電動機控制器延製與設計法則之探討",
+      "會議名稱": "第二十屆電力工程研討會",
+      "作者群": "何子儀"
+    },
+    {
+      "論文名稱": "電磁干擾濾波器之製造與研究",
+      "會議名稱": "第二十屆電力研討會",
+      "作者群": "何子儀, 魏嘉延"
+    },
+    {
+      "論文名稱": "NC車床之EMI濾波器設計與製作",
+      "會議名稱": "1999台灣電磁相容研討會",
+      "作者群": "何子儀, 魏嘉延"
+    }
+  ],
+  "book": [
+    {
+      "專業書籍": "國造八輪甲車嵌入式電控影像強化設計(II)",
+      "出版單位": " ",
+      "作者群": "何子儀、陳柏宏、林佳信、江志晧"
+    },
+    {
+      "專業書籍": "即時安全檢出",
+      "出版單位": " ",
+      "作者群": "何子儀"
+    },
+    {
+      "專業書籍": "國造八輪甲車嵌入式電控影像強化設計(I)",
+      "出版單位": " ",
+      "作者群": "何子儀, 陳柏宏,林佳信,江志晧"
+    },
+    {
+      "專業書籍": "手部功能感測器之設計與製作-技術報告",
+      "出版單位": "台中榮總",
+      "作者群": "何子儀、余松益、鍾進燈"
+    },
+    {
+      "專業書籍": "電力電子概論: 使用MATLAB",
+      "出版單位": "高立",
+      "作者群": "何子儀、李尚懿、陳宏良、蔡志輝"
+    },
+    {
+      "專業書籍": "電磁相容理論與實務",
+      "出版單位": "全華圖書股份有限公司",
+      "作者群": "林明星,許崇宜,林漢年,何子儀"
+    },
+    {
+      "專業書籍": "電腦輔助雜訊濾波器設計",
+      "出版單位": "國科會計畫成果報告",
+      "作者群": "何子儀"
+    },
+    {
+      "專業書籍": "電磁脈衝防護技術分析之研究",
+      "出版單位": "中科院計畫成果報告",
+      "作者群": "林明星，邱政男，何子儀"
+    }
+  ],
+  "patent": [
+    {
+      "title": "發明",
+      "desc": "智慧型行動椅及其控制電路"
+    }
+  ],
+  "most": [
+    {
+      "name": "以徑向基底函數類神基網路為基礎之主軸馬達驅動器設計與製作",
+      "schoolYear": "105"
+    },
+    {
+      "name": "具零轉速無感測永磁同步馬達驅動器之設計與製作",
+      "schoolYear": "104"
+    },
+    {
+      "name": "直流變頻洗衣機及監控系統之設計與製作",
+      "schoolYear": "102"
+    },
+    {
+      "name": "國造八輪甲車嵌入式電控影像強化設計(II)",
+      "schoolYear": "101"
+    },
+    {
+      "name": "以ARM及DSP雙核心為基礎之銀髮族智慧型行動椅之設計與製作",
+      "schoolYear": "101"
+    },
+    {
+      "name": "國造八輪甲車嵌入式電控影像強化設計",
+      "schoolYear": "100"
+    },
+    {
+      "name": "以ARM為基礎之乒乓球遊戲機設計",
+      "schoolYear": "100"
+    },
+    {
+      "name": "以嵌入式系統為基礎之電子重量訓練機設計與製作(智慧行動裝置之定位生活輔助科技)",
+      "schoolYear": "98"
+    },
+    {
+      "name": "USB應用於嵌入式儀錶控制系統之設計與製作(自由軟體關鍵技術研究規劃)",
+      "schoolYear": "96"
+    },
+    {
+      "name": "電力防衛系統之研究-子計畫三：電力系統之電磁脈衝技術分析與防衛能力之研究(2/2)",
+      "schoolYear": "93"
+    },
+    {
+      "name": "中部科學園區推動計畫：編織複合材料雙螺旋槳葉片結構件之設計與製程研究(II)",
+      "schoolYear": "92"
+    },
+    {
+      "name": "電力防衛系統之研究-子計畫三：電力系統之電磁脈衝技術分析與防衛能力之研究(1/2)",
+      "schoolYear": "92"
+    },
+    {
+      "name": "中部科學園區推動計畫：航太級混成編織複合材料結構件之設計、製程與性能驗證",
+      "schoolYear": "91"
+    },
+    {
+      "name": "電力防衛系統之研究-子計畫三：電力系統之電磁脈衝技術分析與防衛能力之研究(Ⅰ)",
+      "schoolYear": "91"
+    },
+    {
+      "name": "電力品質分析與改善(3/3)-子計畫五：電腦輔助雜訊濾波器設計",
+      "schoolYear": "89"
+    },
+    {
+      "name": "電力品質分析與改善(2/3)-子計畫五：電腦輔助雜訊濾波器設計",
+      "schoolYear": "88"
+    },
+    {
+      "name": "電力品質分析與改善-子計畫七：電力電子之傳導干擾分析與研究(Ⅰ)",
+      "schoolYear": "87"
+    },
+    {
+      "name": "電子工程教育實習改進計畫：子計畫四：以微處理機為基礎的電子控制實作研 究",
+      "schoolYear": "83"
+    },
+    {
+      "name": "閘流體控制電抗器之控制系統分析與設計",
+      "schoolYear": "83"
+    },
+    {
+      "name": "非對稱負載引起之功率因子之補償",
+      "schoolYear": "81"
+    }
+  ],
+  "tech": [],
+  "induAca": [
+    "智慧機械之關鍵零組件生產技術整合與提升 (2020-06 to 2020-12)",
+    "VD5000J鑽床BLDC驅動器開發 (2019-09 to 2020-08)",
+    "即時安全檢出 (2012-09 to 2013-02)",
+    "經濟部協助中小企業科技關懷計畫─USB控制器開發模組應用之設計與改善 (2009-03 to 2009-08)",
+    "HEMP電源濾波器前端箝壓保護技術之研究與開發 (2006-05 to 2006-11)",
+    "儀錶驅動控制系統研發 (2006-03 to 2006-11)",
+    "電磁脈衝箝制電路分析與設計 (2003-07 to 2004-06)",
+    "電子式馬達控制迴路之設計與製作 (2002-09 to 2003-06)",
+    "馬達速度控制、扭力控制研究 (1999-12 to 2000-11)",
+    "壓力流量複合電控板數位化設計 (1999-07 to 2000-10)",
+    "電源擬似網路暫態分析(88電力科技-第二期) (1999-02 to 1999-07)",
+    "無感測轉速馬達驅動器之開發(愛德利公司) (1998-05 to 2000-04)",
+    "無感測轉速馬達驅動器之開發(台灣電力公司) (1998-05 to 2000-04)",
+    "全數位交流伺服控制器之研究與製作(87電力科技) (1998-01 to 1998-12)",
+    "變頻式大型感應電動機使用在大型火力發電機組之經濟效益評估 (1996-02 to 1997-01)"
+  ],
+  "perform": [],
+  "reward": [
+    "第六屆第一次電網學校暨人才發展聯盟獎學金得獎 (112, 2024-06) - 工研院",
+    "第六屆第一次電網學校暨人才發展聯盟獎學金得獎 (112, 2024-06) - 工研院",
+    "電池能源領域-佳作 (112, 2023-12) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (110, 2021-11) - 逢甲大學",
+    "2020 智慧聯網專題實務競賽 (108, 2020-05) - 國立雲林科技大學",
+    "逢甲大學論文著作獎勵優良獎 (107, 2018-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (107, 2018-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (107, 2018-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (106, 2017-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (106, 2017-11) - 逢甲大學",
+    "優良創意獎 (106, 2017-09) - 2017年第三屆旭泰科技論文獎",
+    "優良創意獎 (106, 2017-09) - 2017年第三屆旭泰科技論文獎",
+    "優良創意獎 (106, 2017-09) - 旭泰科技",
+    "優良創意獎 (106, 2017-09) - 旭泰科技",
+    "Best paper award (105, 2017-05) - 2017 IEEE International Conference on Applied System Innovation",
+    "電機組-佳作 (105, 2017-03) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (105, 2016-11) - 逢甲大學",
+    "第一名 (105, 2016-11) - 逢甲大學",
+    "2016年中區跨校優質學生報告發表競賽第一名 (105, 2016-11) - 逢甲大學",
+    "優質專題報告 (105, 2016-10) - 逢甲大學",
+    "Best Paper Award (105, 2016-10) - The 2nd International Conference on Computing and Precision Engineering",
+    "優良創意獎。 (105, 2016-10) - 旭泰科技",
+    "優良創意獎 (105, 2016-10) - 2016年第二屆旭泰科技論文獎",
+    "優質專題報告 (104, 2015-12) - 逢甲大學",
+    "優質專題報告 (104, 2015-10) - 逢甲大學",
+    "獲得決賽 (104, 2015-10) - Texas Instruments",
+    "優質專題報告 (104, 2015-10) - 逢甲大學",
+    "佳作 (102, 2014-05) - 逢甲大學",
+    "優選作品 (102, 2014-02) - 國立中山大學",
+    "逢甲大學論文著作獎勵優良獎 (102, 2013-11) - 逢甲大學",
+    "優質專題報告 (102, 2013-10) - 逢甲大學",
+    "優質專題報告 (102, 2013-10) - 逢甲大學",
+    "優質專題報告 (102, 2013-10) - 逢甲大學",
+    "101學年度教學優良教師 (101, 2012-11) - 逢甲大學",
+    "優質專題報告 (100, 2012-03) - 逢甲大學",
+    "優質專題報告 (100, 2012-03) - 逢甲大學",
+    "優質專題報告 (100, 2012-03) - 逢甲大學",
+    "優質專題報告 (99, 2010-11) - 逢甲大學",
+    "九十九年度全國微電腦應用系統設計製作競賽(第二名，第一名從缺) (99, 2010-11) - 教育部",
+    "優質專題報告 (98, 2009-12) - 逢甲大學",
+    "九十八年度全國微電腦應用系統設計製作競賽-佳作 (98, 2009-11) - 教育部",
+    "資電學院優良教師 (98, 2009-10) - 逢甲大學",
+    "優質專題報告 (97, 2009-01) - 逢甲大學"
+  ],
+  "speech": [
+    {
+      "演講題目": "台灣風力能源發展的趨勢與展望",
+      "邀請單位": "大葉大學",
+      "演講日期": "2024-03"
+    },
+    {
+      "演講題目": "節能推廣宣導",
+      "邀請單位": "彰化縣工業會",
+      "演講日期": "2015-10"
+    }
+  ],
+  "material": [
+    "電磁相容理論與實務\t全華圖書股份有限公司\t林明星,許崇宜,林漢年,邱政男,陳居毓,吳俊德,何子儀,謝翰\t複合教材",
+    "電磁相容理論與實務\t全華圖書股份有限公司\t林名星,許崇宜,林漢年,邱政男,陳居毓,吳俊德,何子儀,謝翰\t複合教材"
+  ],
+  "tal": [
+    "110年度大專校院教學實踐研究計畫「結合翻轉教室與合作學習於電子學課程之創新教學實踐研究」 (110)",
+    "108年度大專校院教學實踐研究計畫「以問題及專題為導向之微處理機課程創新教學實踐研究」 (108)"
+  ]
+}

@@ -1,0 +1,348 @@
+{
+  "success": true,
+  "info": {
+    "yms_year": 114.0,
+    "yms_smester": 1.0,
+    "sub_id": "24210",
+    "cls_id": "CE03150",
+    "scr_dup": "001",
+    "sub_id3": "ARCH5001",
+    "cls_name": "建築五學位學程",
+    "cls_ename": "Bachelor's Program of Architecture",
+    "sub_name": "建築設計(九)",
+    "sub_ename": "ARCHITECTURAL DESIGN(9)",
+    "scr_mso": "必修",
+    "scr_mso_en": "Required",
+    "scr_credit": 5.0,
+    "scr_periodly": "(一)01-04 (一)06-07 (五)01",
+    "scr_periodly_eng": "(Mon)01-04 (Mon)06-07 (Fri)01",
+    "lang_name": "中文                                                      ",
+    "lang_ename": "Chinese",
+    "scr_room": "忠603(建製圖室)",
+    "scr_room_eng": "JCB603",
+    "scr_teacher": "劉柏昇,曾韋翔,吳保寬,呂耀中,周郁森,盛郁庭,謝銘峯,林衍良,戴群峰,劉志仁,呂政道,戴宏一,蕭俊碩,高敬賢,謝文泰,凃昭伃,羅元均,簡志穎,賴人碩,廖嘉舜,",
+    "scr_teacher_eng": "Bo-Sheng Liu,Wei-Hsiang Tseng,Pao-Kuan Wu,Yao-Chung Lu,Yu-Sen Chou,Yu-Ting Sheng,Min-Feng Hsieh,Yen-Liang Lin,Chun-Feng Tai,Chih-Jen Liu,Cheng-Tao Lu,ehong-i Tai",
+    "scr_selcode": "1134",
+    "scr_elearning": "全學期",
+    "scr_elearning_en": "Full semester",
+    "scr_hours": "16",
+    "scr_english": "N",
+    "unt_name": null,
+    "unt_ename": null,
+    "link_traminal": "跨學期畢業專題",
+    "link_traminal_en": "Capstone Course",
+    "scr_ldl": "D",
+    "course_mk": "N",
+    "teams_mk": "N",
+    "sub_title": null,
+    "sub_title_en": null,
+    "sub_describe": null,
+    "sub_describe_en": null,
+    "hasDescription": null,
+    "hasInstructor": null,
+    "hasTA": null,
+    "hasTextBooks": null,
+    "hasReadings": null,
+    "hasiSoftwares": null,
+    "hasAssistSoftwares": null,
+    "hasObjective": null,
+    "hasWeeklyScds": null,
+    "hasGradeRules": null,
+    "hasGradeRuleDescribe": null,
+    "hasIntegrity": null,
+    "hasCoursePol": null,
+    "hasCourseRem": null,
+    "hasObjectiveReleation": null,
+    "hasTopicSdgs": null,
+    "hasSubTitleDesc": null
+  },
+  "subTitleDesc": null,
+  "description": {
+    "sub_id3": null,
+    "sub_name": "建築設計(九)",
+    "sub_ename": "ARCHITECTURAL DESIGN(9)",
+    "describe_ch": "畢業設計為二學期一年的課程,第一學期鼓勵同學挑戰當今複雜的都市議題,學生個人或二人一組各自選擇自己的題目.內容則著眼于基地分析與計畫書之寫作流程,特定基地建構特定的地域特質.期末繳交設計草案與模型.",
+    "describe_eh": "The studio of finac graduate architecture design work is structured two semesters. The first semester, we encourage students to challenge any issues on the complexities of comtemporary urban conditions. Student individual or group team will select their own topics. Focus on site knowledge effect programming procedvres  and specific sites constructing particular localities. Student will propose primary schematic plan and model in the end of first semester.",
+    "pre_subname": "ARCH4001建築設計(七)、ARCH3001建築設計(五)、ARCH4002建築設計(八)、ARCH3002建築設計(六)",
+    "pre_sub_id3": "ARCH4001",
+    "pre_sub_ename": "ARCH4001 ARCHITECTURAL DESIGN(7)、ARCH3001 ARCHITECTURAL DESIGN(5)、ARCH4002 ARCHITECTURAL DESIGN(8)、ARCH3002 ARCHITECTURAL DESIGN(6)",
+    "pre_describe": null,
+    "pre_describe_en": null,
+    "scr_credit": 5.0
+  },
+  "targets": [],
+  "teachersInfo": [
+    {
+      "cname": "謝文泰",
+      "ename": "Wen-Tai Hsieh",
+      "period": " ",
+      "roletype": 0,
+      "email": "wthsieh.t08@o365.fcu.edu.tw",
+      "ext": null
+    },
+    {
+      "cname": "葉嘉",
+      "ename": "Jia Yeh",
+      "period": " ",
+      "roletype": 0,
+      "email": "jiayeh.t89@o365.fcu.edu.tw",
+      "ext": null
+    },
+    {
+      "cname": "廖嘉舜",
+      "ename": "Chia-Shun Liao",
+      "period": " ",
+      "roletype": 0,
+      "email": "csliao.t05@o365.fcu.edu.tw",
+      "ext": null
+    },
+    {
+      "cname": "粘晉榕",
+      "ename": "Chin-Jung Nien",
+      "period": " ",
+      "roletype": 0,
+      "email": "cjnien.t08@o365.fcu.edu.tw",
+      "ext": null
+    },
+    {
+      "cname": "呂耀中",
+      "ename": "Yao-Chung Lu",
+      "period": " ",
+      "roletype": 0,
+      "email": "yaoclu@o365.fcu.edu.tw",
+      "ext": "3346"
+    },
+    {
+      "cname": "曾韋翔",
+      "ename": "Wei-Hsiang Tseng",
+      "period": "(Mon)06-07 忠504B,(Mon)08  忠504B,(Mon)10  忠504B",
+      "roletype": 0,
+      "email": "whtseng@o365.fcu.edu.tw",
+      "ext": "3342"
+    },
+    {
+      "cname": "劉柏昇",
+      "ename": "Bo-Sheng Liu",
+      "period": "(Thu)01-02 忠807E,(Thu)03-04 忠807E",
+      "roletype": 0,
+      "email": "bsliu@o365.fcu.edu.tw",
+      "ext": "3337"
+    },
+    {
+      "cname": "凃昭伃",
+      "ename": "Chao-Yu Tu",
+      "period": "(Thu)03-04 忠801C,(Thu)05  忠801C,(Fri)05  忠801C",
+      "roletype": 0,
+      "email": "cytu@o365.fcu.edu.tw",
+      "ext": "3318"
+    },
+    {
+      "cname": "吳承軒",
+      "ename": "Cheng-Hsuan Wu",
+      "period": " ",
+      "roletype": 0,
+      "email": "chwu.t03@o365.fcu.edu.tw",
+      "ext": null
+    },
+    {
+      "cname": "謝舒惠",
+      "ename": "Shu-Hui hsieh",
+      "period": " ",
+      "roletype": 0,
+      "email": "shhsieh.t91@o365.fcu.edu.tw",
+      "ext": null
+    },
+    {
+      "cname": "盛郁庭",
+      "ename": "Yu-Ting Sheng",
+      "period": "(Mon)09-10 RC101",
+      "roletype": 0,
+      "email": "ytsheng@o365.fcu.edu.tw",
+      "ext": "3331"
+    },
+    {
+      "cname": "鄭博仁",
+      "ename": "Po-Jen Cheng",
+      "period": " ",
+      "roletype": 0,
+      "email": "pjcheng@o365.fcu.edu.tw",
+      "ext": null
+    },
+    {
+      "cname": "羅元均",
+      "ename": "Yuan-Chun Lo",
+      "period": " ",
+      "roletype": 0,
+      "email": "yclo.t99@o365.fcu.edu.tw",
+      "ext": null
+    },
+    {
+      "cname": "謝銘峯",
+      "ename": "Min-Feng Hsieh",
+      "period": " ",
+      "roletype": 0,
+      "email": "mfhsieh@o365.fcu.edu.tw",
+      "ext": "3324"
+    },
+    {
+      "cname": "林衍良",
+      "ename": "Yen-Liang Lin",
+      "period": "(Mon)06  忠802A林衍良教授研究室,(Wed)06-07 忠802A林衍良教授研究室,(Fri)06  忠802A林衍良教授研究室",
+      "roletype": 0,
+      "email": "yenllin@o365.fcu.edu.tw",
+      "ext": "3319"
+    },
+    {
+      "cname": "林葳",
+      "ename": "Wei Lin",
+      "period": "(Tue)09-10 802-1,(Fri)03-04 802-1",
+      "roletype": 0,
+      "email": "wlin@o365.fcu.edu.tw",
+      "ext": "3321"
+    },
+    {
+      "cname": "戴群峰",
+      "ename": "Chun-Feng Tai",
+      "period": " ",
+      "roletype": 0,
+      "email": "cftai.t09@o365.fcu.edu.tw",
+      "ext": null
+    },
+    {
+      "cname": "劉志仁",
+      "ename": "Chih-Jen Liu",
+      "period": " ",
+      "roletype": 0,
+      "email": "cjliu.t07@o365.fcu.edu.tw",
+      "ext": null
+    },
+    {
+      "cname": "簡志穎",
+      "ename": "Chih-Yin Chien",
+      "period": " ",
+      "roletype": 0,
+      "email": "cychien.t01@o365.fcu.edu.tw",
+      "ext": null
+    },
+    {
+      "cname": "呂政道",
+      "ename": "Cheng-Tao Lu",
+      "period": " ",
+      "roletype": 0,
+      "email": "ctlu.t91@o365.fcu.edu.tw",
+      "ext": null
+    },
+    {
+      "cname": "戴宏一",
+      "ename": "ehong-i Tai",
+      "period": " ",
+      "roletype": 0,
+      "email": "eitai.t05@o365.fcu.edu.tw",
+      "ext": null
+    },
+    {
+      "cname": "周郁森",
+      "ename": "Yu-Sen Chou",
+      "period": " ",
+      "roletype": 0,
+      "email": "yuschou@o365.fcu.edu.tw",
+      "ext": "3310"
+    },
+    {
+      "cname": "賴人碩",
+      "ename": "Ren Lai",
+      "period": " ",
+      "roletype": 0,
+      "email": "relai.t07@o365.fcu.edu.tw",
+      "ext": null
+    },
+    {
+      "cname": "蕭俊碩",
+      "ename": "Chun-Shuo Hsiao",
+      "period": " ",
+      "roletype": 0,
+      "email": "chhsiao@o365.fcu.edu.tw",
+      "ext": "3323"
+    },
+    {
+      "cname": "吳保寬",
+      "ename": "Pao-Kuan Wu",
+      "period": " ",
+      "roletype": 0,
+      "email": "pkwu@o365.fcu.edu.tw",
+      "ext": "3309"
+    },
+    {
+      "cname": "高敬賢",
+      "ename": "Edward Kao",
+      "period": "(Mon)05-06 忠508B,(Wed)05-06 忠508B",
+      "roletype": 0,
+      "email": "ekao@o365.fcu.edu.tw",
+      "ext": "3328"
+    }
+  ],
+  "textBooks": null,
+  "readings": null,
+  "iSoftwares": [],
+  "assistSoftwares": [],
+  "weeklyScds": [],
+  "gradeRules": [],
+  "gradeRuleDescribe": {
+    "yms_year": 114.0,
+    "yms_smester": 1.0,
+    "cls_id": "CE03150",
+    "sub_id": "24210",
+    "scr_dup": "001",
+    "tpa_score_new": null,
+    "tpa_score_new_en": null,
+    "course_pol": null,
+    "course_pol_en": null,
+    "course_rem": null,
+    "course_rem_en": null,
+    "ais_meno": null,
+    "ais_meno_en": null,
+    "ilearn_mk": null
+  },
+  "integrity": {
+    "yms_year": 114.0,
+    "yms_smester": 1.0,
+    "cls_id": "CE03150",
+    "sub_id": "24210",
+    "scr_dup": "001",
+    "tpa_score_new": null,
+    "tpa_score_new_en": null,
+    "course_pol": null,
+    "course_pol_en": null,
+    "course_rem": null,
+    "course_rem_en": null,
+    "ais_meno": null,
+    "ais_meno_en": null,
+    "ilearn_mk": null
+  },
+  "policy": {
+    "yms_year": 114.0,
+    "yms_smester": 1.0,
+    "cls_id": "CE03150",
+    "sub_id": "24210",
+    "scr_dup": "001",
+    "tpa_score_new": null,
+    "tpa_score_new_en": null,
+    "course_pol": null,
+    "course_pol_en": null,
+    "course_rem": null,
+    "course_rem_en": null,
+    "ais_meno": null,
+    "ais_meno_en": null,
+    "ilearn_mk": null
+  },
+  "courseBankC": [],
+  "topicSdgs": [],
+  "learnHours": {
+    "total": 0.0,
+    "tpdOnlineAsyTotal": 0.0,
+    "tpdOnlineSynTotal": 0.0,
+    "tpdOnlineFaceTotal": 0.0,
+    "asySynInTotalPercent": 0.0
+  },
+  "crossVerYear": 114
+}

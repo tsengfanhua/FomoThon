@@ -1,0 +1,348 @@
+{
+  "teacherId": "T01217",
+  "name": "林英志",
+  "mainUnit": "工程與科學學院",
+  "detailUnit": "應用數學系",
+  "skill": [
+    "演算法設計與分析Algorithm design and analysis",
+    "機器學習Machine learning",
+    "數據科學Data science",
+    "多媒體應用與開發Multimedia application and development"
+  ],
+  "edu": [
+    "國立清華大學 資訊工程系 博士",
+    "國立清華大學 資訊工程系 碩士",
+    "國立中興大學 應用數學系 學士"
+  ],
+  "fcuExp": [
+    "應用數學系 助理教授",
+    "3D列印研究發展中心 自造服務組組長",
+    "應用數學系 副教授"
+  ],
+  "currjob": [],
+  "otherExp": [
+    "正修科技大學 資訊工程系 助理教授",
+    "嘉實資訊股份有限公司 研發部 資深工程師",
+    "國立中山大學 資訊工程系 助理教授",
+    "國立中山大學 資訊工程系 博士後研究人員",
+    "國立中山大學 應用數學系 助理教授"
+  ],
+  "journal": [
+    {
+      "論文名稱": "A Demand‐Centric Repositioning Strategy for Bike‐Sharing Systems",
+      "期刊名稱": "Sensors (SCIE)",
+      "作者群": "Ying‐Chih Lin"
+    },
+    {
+      "論文名稱": "應用擴增實境輔助學習系統於微積分教育之成效評估",
+      "期刊名稱": "高等教育研究紀要 (無)",
+      "作者群": "王俊堯、林英志*"
+    },
+    {
+      "論文名稱": "Approximation algorithms for the Terminal Steiner Tree Problem",
+      "期刊名稱": "Applied and Computational Mathematics (SCIE)",
+      "作者群": "Y.H. Chen and Y.-C. Lin"
+    },
+    {
+      "論文名稱": "A case study on mathematical expression recognition to GPU",
+      "期刊名稱": "The Journal of Supercomputing (SCIE)",
+      "作者群": "Y.-C. Lin*, C.-Y. Wang and J.-Y. Zeng"
+    },
+    {
+      "論文名稱": "An efficient tabu search for cell planning problem in mobile communication",
+      "期刊名稱": "Wireless Communications and Mobile Computing (SCIE)",
+      "作者群": "C.-H. R. Lin, H.-J. Liao, Y.-C. Lin, Y.-H. Huang and J.-S. Liu"
+    },
+    {
+      "論文名稱": "Maximizing Capacity Channel Assignment in Multi‐Rate Multi‐Channel Multi‐Hop Wireless Networks",
+      "期刊名稱": "Journal of Internet Technology (SCIE)",
+      "作者群": "C.‐H. R. Lin, T.‐W. Kuo and Y.-C. Lin"
+    },
+    {
+      "論文名稱": "Complete mitochondrial DNA genome of Parazacco spilurus (Cypriniformes: Cyprinidae)",
+      "期刊名稱": "Mitochondrial DNA (SCIE)",
+      "作者群": "Hsiao-Yun Chang, Le-Yang Yuan, Tai-Lee Hu, Cheng-I Chien, Ying Chih Lin, Sung-Fan Tseng, Ting-Wei Chang, Wei-Kuang Wang*"
+    },
+    {
+      "論文名稱": "Enabling Large-Scale Biomedical Analysis in the Cloud",
+      "期刊名稱": "BioMed Research International (SCIE)",
+      "作者群": "Lin Y.-C.*, Yu C.-S. and Lin Y.-J."
+    },
+    {
+      "論文名稱": "GPU application on multi‐pattern matching of network intrusion detection",
+      "期刊名稱": "Journal of Internet Technology (SCIE)",
+      "作者群": "R. C.‐H. Lin, Y.‐H. Huang, C.‐Y. Lin and Y.-C. Lin"
+    },
+    {
+      "論文名稱": "A P2P Framework for Developing Bioinformatics Applications\r\nA P2P framework for developing bioinformatics applications in dynamic cloud environments",
+      "期刊名稱": "International Journal of Genomics (SCIE)",
+      "作者群": "C.-H.R. Lin, C.-H. Wen, Y.-C. Lin*, K.-Y. Tung, R.-W. Lin and C.-Y. Lin"
+    },
+    {
+      "論文名稱": "Network traffic analysis with cloud platform",
+      "期刊名稱": "Journal of Internet Technology (SCIE)",
+      "作者群": "R.C.-H. Lin*, H.-J. Liao, K.-Y. Tung, Y.-C. Lin, and S.-L. Wu"
+    },
+    {
+      "論文名稱": "Intrusion detection system: a comprehensive review",
+      "期刊名稱": "Journal of Network and Computer Applications (SCIE)",
+      "作者群": "H.-J. Liao, C.-H.R. Lin*, Y.-C. Lin, K.-Y. Tung"
+    },
+    {
+      "論文名稱": "Toward maximizing throughput in multichannel multirate wireless networks",
+      "期刊名稱": "IEEE Communications Letters (SCIE)",
+      "作者群": "Y.C. Lin, R.C.-H. Lin* and T.-W Kuo"
+    },
+    {
+      "論文名稱": "Sorting by reversals and block-interchanges with various weight assignments",
+      "期刊名稱": "BMC Bioinformatics (SCIE)",
+      "作者群": "Y.C. Lin, C.-Y. Lin* and C.R. Lin"
+    },
+    {
+      "論文名稱": "Analysis of genome rearrangement by block-interchanges",
+      "期刊名稱": "Methods in Molecular Biology (MEDLINE)",
+      "作者群": "C.L. Lu*, Y.C. Lin, Y.L. Huang and C.Y. Tang"
+    },
+    {
+      "論文名稱": "SPRING: a tool for the analysis of genome rearrangement using reversals and block-interchanges",
+      "期刊名稱": "Nucleic Acids Research (SCIE)",
+      "作者群": "Y.C. Lin, C.L. Lu*, Y.-C. Liu and C.Y. Tang"
+    },
+    {
+      "論文名稱": "ROBIN: a tool for genome rearrangement of block-interchanges",
+      "期刊名稱": "Bioinformatics (SCIE)",
+      "作者群": "C.L. Lu*, T.C. Wang, Y.C. Lin and C.Y. Tang"
+    },
+    {
+      "論文名稱": "An efficient algorithm for sorting by block-interchanges and its application to the evolution of vibrio species",
+      "期刊名稱": "Journal of Computational Biology (SCIE)",
+      "作者群": "Y.C. Lin, C.L. Lu*, H.-Y. Chang and C.Y. Tang"
+    }
+  ],
+  "journal2": [],
+  "conference": [
+    {
+      "論文名稱": "DESIGN-BASED INSTRUCTION INTEGRATING COMPUTATIONAL THINKING FOR UNIVERSITY STATISTICS – FROM PROBABILITY TO ERRORS IN HYPOTHESIS TESTING",
+      "會議名稱": "Swan Delta 2019",
+      "作者群": "Ching-Ching Yang*, Jenn-Tsann Lin, Ying Chih Lin"
+    },
+    {
+      "論文名稱": "LSTM neural network for electricity consumption forecast",
+      "會議名稱": "18th International Conference on Information & Knowledge Engineering (IKE’19)",
+      "作者群": "Y.-C. Lin*, Y.-M. Zhang, Y.H. Chen and W.-K. Wang"
+    },
+    {
+      "論文名稱": "設計為基礎之機率論教學融入運算思維與CDIO",
+      "會議名稱": "創新時代的教育：2019創新教育與教學科技論壇",
+      "作者群": "楊菁菁*、林英志"
+    },
+    {
+      "論文名稱": "Electricity consumption analysis and forecast from meter data",
+      "會議名稱": "Global Conference on Engineering and Applied Science (GCEAS18)",
+      "作者群": "X. Zhou, Y.-C. Lin*, D.-H. Xu, C.-Y. Wang"
+    },
+    {
+      "論文名稱": "Augmented reality in calculus teaching and learning",
+      "會議名稱": "Global Conference on Engineering and Applied Science (GCEAS18)",
+      "作者群": "C.-Y. Wang, Y.-C. Lin*, X. Zhou"
+    },
+    {
+      "論文名稱": "The composition of biological aerosols in different type indoor environments via next generation sequencing",
+      "會議名稱": "2018 Asian Conference on Engineering and Natural Sciences",
+      "作者群": "Wei-Kuang Wang*, Ying-Chih Lin, Tai-Lee Hu, Chih-Chao Wu"
+    },
+    {
+      "論文名稱": "基於LSTM深度神經網絡模型之用電量預測",
+      "會議名稱": "2017 TANET",
+      "作者群": "張育珉、林英志、周洵、王俊堯"
+    },
+    {
+      "論文名稱": "Conditional random field for Chinese unknown word recognition",
+      "會議名稱": "34th Workshop on Combinatorial Mathematics and Computation Theory (CMCT17)",
+      "作者群": "X. Zhou, J.-Y. Zeng, Y.-C. Lin*, C.-C. Yang and C.-C. Kao"
+    },
+    {
+      "論文名稱": "Harnessing Entropy and Good–Turing Estimation to Internet News Recommendation",
+      "會議名稱": "34th Workshop on Combinatorial Mathematics and Computation Theory (CMCT17)",
+      "作者群": "Y.-M. Zhang, X. Zhou, Y.-C. Lin*, C.-Y. Wang and W.-K. Wang"
+    },
+    {
+      "論文名稱": "News Recommendation based on Entropy Computation",
+      "會議名稱": "33th Workshop on Combinatorial Mathematics and Computation Theory(CMCT16)",
+      "作者群": "Y.-M. Zhang, Y.-C. Lin* and X. Zhou"
+    },
+    {
+      "論文名稱": "Understanding mathematical expressions from camera image",
+      "會議名稱": "33th Workshop on Combinatorial Mathematics and Computation Theory (CMCT16)",
+      "作者群": "C.-Y. Wang, Y.-C. Lin*, H.Y. Tan, J.-Y. Zeng"
+    },
+    {
+      "論文名稱": "Concept mining to Chinese news similarity measure",
+      "會議名稱": "International Conference on Computer Science and Technology (CST16)",
+      "作者群": "X. Zhou, C.-Y. Wang, Y.-C. Lin* and Y.-M. Zhang"
+    },
+    {
+      "論文名稱": "Automatic recognition of printed mathematical Expression",
+      "會議名稱": "28th IPPR Conference on Computer Vision, Graphics and Image Processing (CVGIP15)",
+      "作者群": "C.-Y. Wang, Y.-C. Lin*, J.-Y. Zeng, H.Y. Tan and X. Zhou"
+    },
+    {
+      "論文名稱": "A comparison of slicing-tools for fused deposition modeling 3D-printer",
+      "會議名稱": "32th Workshop on Combinatorial Mathematics and Computation Theory",
+      "作者群": "J.-H. Chen, Y.-C. Lin*, H.Y. Tan"
+    },
+    {
+      "論文名稱": "以新穎分子生物技術評估室內公共空間空氣品質-生物性氣膠之探討",
+      "會議名稱": "前瞻微生物生態學研討會",
+      "作者群": "王唯匡，胡苔莉，李哲欣，林英志"
+    },
+    {
+      "論文名稱": "Mutual fund investment based on genetic algorithm",
+      "會議名稱": "International Conference on Business and Information (BAI12)",
+      "作者群": "Y.-C. Lin, R.C.-H. Lin*, C.-S. Chen, H.-J. Liao, Y.-H. Huang and K.-H. Tseng"
+    },
+    {
+      "論文名稱": "Application of GPU platform in intrusion prevention system",
+      "會議名稱": "International Conference on Computer and Communication Devices (ICCCD11)",
+      "作者群": "R.C.-H. Lin*, Y.-H. Huang, Y.C. Lin and C.-Y. Lin"
+    },
+    {
+      "論文名稱": "Measurement and improvement of the delay of SCTP multihoming path switch",
+      "會議名稱": "International Conference on Data Engineering and Internet Technology (DEIT11)",
+      "作者群": "K.-Y. Tung, R.C.-H. Lin*, Y.C. Lin* and Y.-H. Huang"
+    },
+    {
+      "論文名稱": "Minimum conflict degree channel assignment in multi-rate multi-channel wireless networks",
+      "會議名稱": "5th International ICST Conference on Communications and Networking in China (CHINACOM10)",
+      "作者群": "D.-W. Kuo, C.R. Lin* and Y.C. Lin"
+    }
+  ],
+  "book": [
+    {
+      "專業書籍": "程式語言第2版入門特訓教材 Python",
+      "出版單位": "基峰、全華",
+      "作者群": "林英志"
+    },
+    {
+      "專業書籍": "TQC+ Python3.x 機器學習基礎與應用特訓教材",
+      "出版單位": "基峰、全華",
+      "作者群": "林英志"
+    }
+  ],
+  "patent": [],
+  "most": [
+    {
+      "name": "結合GeoGebra的線上輔助學習與評量之二重積分教案研究",
+      "schoolYear": "112"
+    },
+    {
+      "name": "以運算思維翻轉大學統計學教學(二)(2/2)",
+      "schoolYear": "111"
+    },
+    {
+      "name": "以運算思維翻轉大學統計學教學(二)(1/2)",
+      "schoolYear": "110"
+    },
+    {
+      "name": "糖尿病患者血糖值之預測與調控研究",
+      "schoolYear": "110"
+    },
+    {
+      "name": "共享單車使用分群與調度策略之研究",
+      "schoolYear": "110"
+    },
+    {
+      "name": "以運算思維翻轉大學統計學教學(3/3)",
+      "schoolYear": "109"
+    },
+    {
+      "name": "以GeoGebra融入微分連鎖律與積分的變數變換之研究",
+      "schoolYear": "109"
+    },
+    {
+      "name": "以運算思維翻轉大學統計學教學(2/3)",
+      "schoolYear": "108"
+    },
+    {
+      "name": "以運算思維翻轉大學統計學教學(1/3)",
+      "schoolYear": "107"
+    },
+    {
+      "name": "應用GeoGebra與擴增實境於多變數微積分教學之研究",
+      "schoolYear": "107"
+    },
+    {
+      "name": "應用隨機森林建構股市動能投資策略之研究",
+      "schoolYear": "107"
+    },
+    {
+      "name": "(應用型)產學合作計畫－使用數位影像評估於進料檢驗計畫：辨識反光玻璃珠之良窳",
+      "schoolYear": "106"
+    },
+    {
+      "name": "(廠配)煜盛股份有限公司(應用型)產學合作計畫－使用數位影像評估於進料檢驗計畫：辨識反光玻璃珠之良窳",
+      "schoolYear": "106"
+    },
+    {
+      "name": "結合未知詞識別之個人化推薦機制研究",
+      "schoolYear": "106"
+    },
+    {
+      "name": "結合Beacon定位與場域互動之研究",
+      "schoolYear": "106"
+    },
+    {
+      "name": "結合資訊量計算之網路新聞推薦系統",
+      "schoolYear": "105"
+    },
+    {
+      "name": "應用擴增實境於繪製數學函數圖形之開發與實作(2/2)",
+      "schoolYear": "104"
+    },
+    {
+      "name": "數學方程式的圖像辨識及其在擴增實境的應用",
+      "schoolYear": "104"
+    },
+    {
+      "name": "應用擴增實境於繪製數學函數圖形之開發與實作(1/2)",
+      "schoolYear": "103"
+    },
+    {
+      "name": "3D列印普及與深耕推廣計畫(ST4)",
+      "schoolYear": "102"
+    },
+    {
+      "name": "應用平行化超啟發式方法建構有彈性的基金投資策略",
+      "schoolYear": "101"
+    }
+  ],
+  "tech": [],
+  "induAca": [
+    "工業4.0整合型計畫-「自動光學檢測與人機作業分析之初期規劃」 (2020-07 to 2020-12)",
+    "超高頻RFID Sensor Tag之Low power RFID data log平台初期設計 (2017-07 to 2018-12)"
+  ],
+  "perform": [],
+  "reward": [
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學優良教材獎勵傑出獎 (111, 2022-11) - 逢甲大學",
+    "109學年度教學績優獎 (109, 2020-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (108, 2019-11) - 逢甲大學",
+    "Python全國大專校院程式設計競賽 (106, 2018-07) - 電腦技能基金會",
+    "黑客松-學習數據分析 (106, 2017-12) - 逢甲大學",
+    "106低壓智慧電表大數據分析&設計競賽 (106, 2017-10) - 工研院",
+    "TCN創客世紀公仔夢 (106, 2017-10) - 勞動力發展署中彰投分署",
+    "理學院學生論文競賽佳作 (105, 2017-05) - 逢甲大學理學院",
+    "學用合一「數學應用競賽」 (105, 2016-12) - 逢甲大學應數系",
+    "理學院學生論文競賽佳作 (104, 2016-05) - 逢甲大學理學院",
+    "2015KT科藝-互動科技藝術組 (104, 2015-11) - 國立台灣藝術大學",
+    "創意公仔設計競賽 (104, 2015-09) - 勞動部勞動力發展署(高屏澎東)",
+    "2015創意3D列印設計競賽 (103, 2015-07) - 逢甲大學3D列印研究發展中心",
+    "2014生活美學流行商品 (103, 2015-01) - 逢甲大學創意設計碩士學位學程",
+    "Autodesk創意設計競 賽-數媒類 (102, 2014-04) - 逢甲大學 資訊處"
+  ],
+  "speech": [],
+  "material": [
+    "TQC+ Python3.x 機器學習基礎與應用特訓教材\t碁峰資訊\t林英志\t教科書"
+  ],
+  "tal": []
+}

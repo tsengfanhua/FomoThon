@@ -1,0 +1,642 @@
+{
+  "teacherId": "T97069",
+  "name": "高惠松",
+  "mainUnit": "商學院",
+  "detailUnit": "會計學系",
+  "skill": [
+    "財務會計Financial Accounting",
+    "公司治理Corporate governance",
+    "人工智慧Artificial Intelligence"
+  ],
+  "edu": [
+    "國立臺北大學 會計學系 博士",
+    "國立臺灣海洋大學 航運管理學系 碩士"
+  ],
+  "fcuExp": [
+    "商學進修學士班 主任",
+    "商學進修學士學位學程 籌備主任",
+    "商學進修學士班 主任",
+    "商學進修學士學位學程 主任",
+    "商學進修學士班 主任",
+    "商學進修學士學位學程 主任",
+    "會計學系 講師",
+    "會計學系 助理教授",
+    "會計學系 副教授"
+  ],
+  "currjob": [],
+  "otherExp": [
+    "義守大學 企業管理學系 講師",
+    "樹德科技大學 休閒管理學系 講師",
+    "正修科技大學 企業管理學系 講師"
+  ],
+  "journal": [
+    {
+      "論文名稱": "Supply Chain Relationship, Earnings Management, and Operational Risks",
+      "期刊名稱": "Journal of Business and Management Sciences (ECONLIT)",
+      "作者群": "Hui-Sung Kao and Ming-Jiun Tsai*"
+    },
+    {
+      "論文名稱": "The Effect of CEO Power on Tax Avoidance: Evidence from Taiwan",
+      "期刊名稱": "Global Journal of Business Research (ECONLIT)",
+      "作者群": "Ru-Je Lee* and Hui-Sung Kao,"
+    },
+    {
+      "論文名稱": "Implications of Suppliers and Customers and Industry Competition Density on Accounting Conservatism",
+      "期刊名稱": "Global Journal of Business Research (ECONLIT)",
+      "作者群": "Hui-Sung Kao and Ming-Jiun Tsai*"
+    },
+    {
+      "論文名稱": "The Impacts of IFRSs and Auditor on Tax Avoidance",
+      "期刊名稱": "Advances in Management & Applied Economics (ECONLIT)",
+      "作者群": "Ru-Je Lee* and Hui-Sung Kao"
+    },
+    {
+      "論文名稱": "Audit Committee, Supervisor System and Accounting Conservatism",
+      "期刊名稱": "International Research Journal of Applied Finance (ECONLIT)",
+      "作者群": "Hui-Sung Kao* and Tsai-Wei Chu"
+    },
+    {
+      "論文名稱": "Accounting Conservatism Trends and Financial Distress: Considering the Endogeneity of the C-Score",
+      "期刊名稱": "International Journal of Financial Research (ECONLIT)",
+      "作者群": "Hui-Sung Kao* and Pei-Jhen Sie"
+    },
+    {
+      "論文名稱": "資本結構、股利政策對公司價值之影響：訊號理論觀點",
+      "期刊名稱": "會計與公司治理 ()",
+      "作者群": "高惠松、蔡純真"
+    },
+    {
+      "論文名稱": "The Relationships between IFRS, Earnings Losses Threshold and Earnings Management",
+      "期刊名稱": "Journal of Chinese Economic and Business Studies (ECONLIT)",
+      "作者群": "Kao, Hui-Sung*"
+    },
+    {
+      "論文名稱": "The Pricing Model of Initial Public Offerings: A New Approach",
+      "期刊名稱": "The Empirical Economics Letters (ECONLIT)",
+      "作者群": "Kao, Hui-Sung*"
+    },
+    {
+      "論文名稱": "The Effect of IFRS, Information Asymmetry and Corporate Governance on the Quality of Accounting Information",
+      "期刊名稱": "Asian Economic and Fnancial Review (ECONLIT)",
+      "作者群": "Kao, Hui-Sung* and Wei, Tzu-Han"
+    },
+    {
+      "論文名稱": "The Relationship between Board Characteristics, Social Welfare and Operational Performance in the Non-profit Hospitals",
+      "期刊名稱": "Journal of Strategic and International Studies (ISSN2326-3636)",
+      "作者群": "Kao, Hui-Sung* and Kao, Chia-Pei"
+    },
+    {
+      "論文名稱": "不景氣時期之高階經理人薪酬結構與公司未來績效",
+      "期刊名稱": "東吳經濟商學學報 ()",
+      "作者群": "高惠松、詹照潔"
+    },
+    {
+      "論文名稱": "以Cubist迴歸樹建構公司情境特質之股權評價模型",
+      "期刊名稱": "會計評論 (TSSCI)",
+      "作者群": "高惠松"
+    },
+    {
+      "論文名稱": "融合公司治理的信用評等模型：Cubist 迴歸樹模型之應用",
+      "期刊名稱": "當代會計 ()",
+      "作者群": "高惠松"
+    },
+    {
+      "論文名稱": "年度財務報表資訊揭露對預測財務危機之有用性：預視財務危機預測模型",
+      "期刊名稱": "中華管理評論國際學報 ()",
+      "作者群": "高惠松"
+    },
+    {
+      "論文名稱": "集團企業特性、公司治理與社會責任績效",
+      "期刊名稱": "中華管理評論國際學報 ()",
+      "作者群": "高惠松、鄭品卉"
+    },
+    {
+      "論文名稱": "不同公司治理情境之股權評價：類神經模糊專家系統之應用",
+      "期刊名稱": "管理與系統 (TSSCI)",
+      "作者群": "高惠松、李建然、陳樹衡"
+    },
+    {
+      "論文名稱": "Corporate Governance and Equity Evaluation: Nonlinear Modeling via Neural Networks",
+      "期刊名稱": "International Research Journal of Finance and Economics (ECONLIT)",
+      "作者群": "Kao, Hui-Sung, Lee, Jan-Zan and Chen, Shu-Heng"
+    },
+    {
+      "論文名稱": "實施作業基礎管理與公司績效之關聯性",
+      "期刊名稱": "當代會計 ()",
+      "作者群": "朱炫璉、高惠松•李怡穎"
+    },
+    {
+      "論文名稱": "公司治理機制對會計盈餘穩健性之影響-以台灣資本市場為例",
+      "期刊名稱": "中華管理評論國際學報 ()",
+      "作者群": "楊清溪、高惠松"
+    },
+    {
+      "論文名稱": "會計師事務所人力資本與審計品質之關聯性研究",
+      "期刊名稱": "人力資源管理學報 ()",
+      "作者群": "李建然、高惠松"
+    },
+    {
+      "論文名稱": "新上市櫃公司的公司治理架構與管理當局盈餘預測之關聯性研究",
+      "期刊名稱": "中國會計評論 (CSSCI)",
+      "作者群": "楊清溪、高惠松"
+    },
+    {
+      "論文名稱": "平衡計分卡之規劃與設計-以基隆港務局為例",
+      "期刊名稱": "海運學報 ()",
+      "作者群": "劉金鳳、高惠松"
+    }
+  ],
+  "journal2": [],
+  "conference": [
+    {
+      "論文名稱": "The Relationship between Female Senior Manager and Management Crisis",
+      "會議名稱": "2024 Summer Global Business Research Symposium Conference",
+      "作者群": "Hui-Sung Kao* and Mei-Huei Wu"
+    },
+    {
+      "論文名稱": "虛擬通貨會計處理之價值攸關性—以採用NFT之企業為例",
+      "會議名稱": "2024 中部財金學術聯盟研討會(The Conference of CTFA)",
+      "作者群": "高惠松*, 蔡佩倪, 楊嘉育, 謝雨彤, 胡劭瑜"
+    },
+    {
+      "論文名稱": "永續環境指標與公司未來績效",
+      "會議名稱": "2024 中部財金學術聯盟研討會(The Conference of CTFA)",
+      "作者群": "高惠松*, 邱獻儀, 呂翔致, 駱俊宇, 徐榮慳, 趙梓茗"
+    },
+    {
+      "論文名稱": "CEO權力與超額薪酬-論薪酬委員會之調節效果",
+      "會議名稱": "2021現代會計論壇學術研討會",
+      "作者群": "高惠松, 陳宜均"
+    },
+    {
+      "論文名稱": "CEO權力與內部控制缺失-會計師經驗之調節效果",
+      "會議名稱": "2018中華會計教育學會年會與亞洲會計學會研討會",
+      "作者群": "高惠松、陳佑任"
+    },
+    {
+      "論文名稱": "台灣家族企業接班模式對公司績效之影響",
+      "會議名稱": "2018中華會計教育學會年會與亞洲會計學會研討會",
+      "作者群": "高惠松、劉景文"
+    },
+    {
+      "論文名稱": "CEO權力與盈餘平穩化之關聯性研究",
+      "會議名稱": "2018中華會計教育學會年會與亞洲會計學會研討會",
+      "作者群": "高惠松、賴冠甫"
+    },
+    {
+      "論文名稱": "The Establishment and Characteristics of Audit Committee and Earnings Persistence",
+      "會議名稱": "IABE-2017 Las Vegas - Annual Conference",
+      "作者群": "Hui-Sung Kao* and Shu-Hsien Lin"
+    },
+    {
+      "論文名稱": "The Relationship between Corporate Governance Evaluation and Internal Control Weakness",
+      "會議名稱": "IABE-2017 Las Vegas - Annual Conference",
+      "作者群": "Hui-Sung Kao* and Wei-Ting Chen"
+    },
+    {
+      "論文名稱": "審計委員會設置及其特性與盈餘持續性",
+      "會議名稱": "2017會計理論與實務國際研討會&亞洲會計學會聯合研討會",
+      "作者群": "高惠松*、林書賢"
+    },
+    {
+      "論文名稱": "The Establishment and Characteristics of Audit Committee and Value Relevance",
+      "會議名稱": "2017 International Academic Conference on Business Stockholm Sweden",
+      "作者群": "Hui-Sung, Kao* and Man-Hsuan, Chang"
+    },
+    {
+      "論文名稱": "審計委員會設置及其特性與價值攸關性",
+      "會議名稱": "2016 ATPC會計理論與實務研討會",
+      "作者群": "高惠松、張嫚軒"
+    },
+    {
+      "論文名稱": "環境績效與公司未來財務績效之關聯性",
+      "會議名稱": "2016 ATPC會計理論與實務研討會",
+      "作者群": "高惠松、許婷娟"
+    },
+    {
+      "論文名稱": "Accounting Conservatism Trends and Financial Distress",
+      "會議名稱": "Annual Spain Business Research Conference (2016)",
+      "作者群": "Hui-Sung, Kao and Pei-Jhen, Sie"
+    },
+    {
+      "論文名稱": "會計穩健性趨勢與財務危機—C-Score之內生性影響",
+      "會議名稱": "2015 Accounting Theory and Practice Conference",
+      "作者群": "高惠松、謝佩真"
+    },
+    {
+      "論文名稱": "審計委員會與會計穩健性之關聯性研究",
+      "會議名稱": "2015現代會計論壇學術研討會",
+      "作者群": "高惠松、朱采葳"
+    },
+    {
+      "論文名稱": "企業社會責任與利害關係人報酬之關聯性研究",
+      "會議名稱": "2015現代會計論壇學術研討會",
+      "作者群": "高惠松、郭雅億"
+    },
+    {
+      "論文名稱": "IFRS, Earnings Conservatism and Value Relevance: A Cross Country Examination",
+      "會議名稱": "38th European Accounting Association Annual Congress 2015 ( EAA 2015 )",
+      "作者群": "Kao, Hui-Sung"
+    },
+    {
+      "論文名稱": "The Value Relevance of the Revaluation of Property Plant and Equipment",
+      "會議名稱": "The 3rd International Symposium on Business and Social Science (2014 ISBSS)",
+      "作者群": "Kao, Hui-Sung* and Chan, Chieh-Yu"
+    },
+    {
+      "論文名稱": "醫療財團法人之董事會特性與經營績效、社會公益之關聯性",
+      "會議名稱": "2013年會計理論與實務研討會",
+      "作者群": "高惠松*、高嘉珮"
+    },
+    {
+      "論文名稱": "The Relationships between IFRS, Earnings Thresholds and Earnings Management: Considering Corporate Governance Mechanism",
+      "會議名稱": "2013 ISIS-San Antonio Multidisciplinary Academic Conference",
+      "作者群": "Kao, Hui-Sung*"
+    },
+    {
+      "論文名稱": "The Relationship between Board Characteristics, Social Welfare and Operational Performance in the Non-profit Hospitals",
+      "會議名稱": "2013 ISIS-San Antonio Multidisciplinary Academic Conference",
+      "作者群": "Kao, Hui-Sung* and Kao, Chia-Pei"
+    },
+    {
+      "論文名稱": "會計師輪調任期與審計品質之關聯性研究",
+      "會議名稱": "2013年「商學與管理」學術研討會",
+      "作者群": "高惠松、姚易廷"
+    },
+    {
+      "論文名稱": "不動產廠房及設備重估價模式與價值攸關性",
+      "會議名稱": "2013年「商學與管理」學術研討會",
+      "作者群": "高惠松、詹潔予"
+    },
+    {
+      "論文名稱": "The Pricing Model of Initial Public Offerings: A New Approach",
+      "會議名稱": "36th Annual Congress European Accounting Association (2013 EAA)",
+      "作者群": "Kao, Hui-Sung"
+    },
+    {
+      "論文名稱": "買回庫藏股行為與審計品質",
+      "會議名稱": "2012年會計理論與實務研討會",
+      "作者群": "高惠松、汪秋容"
+    },
+    {
+      "論文名稱": "智慧資本與財務報表攸關性之關聯性研究：考量公司治理因素",
+      "會議名稱": "2012年會計理論與實務研討會",
+      "作者群": "高惠松、林鈺珊"
+    },
+    {
+      "論文名稱": "Dividend policy's decision making situation and dividend policy forecast model",
+      "會議名稱": "Finance and Economics Conference 2012 (FEC2012)",
+      "作者群": "Kao, Hui-Sung"
+    },
+    {
+      "論文名稱": "The Relationship between IFRS, Earnings Losses Threshold and Earnings Management",
+      "會議名稱": "2012 International Research Conference on Finance Perspectives",
+      "作者群": "Kao, Hui-Sung"
+    },
+    {
+      "論文名稱": "集團企業之股權結構對負債成本的影響",
+      "會議名稱": "2012商管與資訊研討會",
+      "作者群": "高惠松、張心瑜"
+    },
+    {
+      "論文名稱": "資本支出與公司績效之關聯性研究",
+      "會議名稱": "台灣經濟學會2011年年會",
+      "作者群": "高惠松、陳美霜"
+    },
+    {
+      "論文名稱": "探索企業股利政策之制定情境與股利政策預測模型",
+      "會議名稱": "台灣經濟學會2011年年會",
+      "作者群": "高惠松"
+    },
+    {
+      "論文名稱": "不景氣時代之高階經理人薪酬設計與公司未來績效：考慮企業生命週期",
+      "會議名稱": "2011年會計理論與實務研討會",
+      "作者群": "高惠松、詹照潔"
+    },
+    {
+      "論文名稱": "無形資產、智慧資本與企業價值：考量資訊透明度因素",
+      "會議名稱": "2011年會計理論與實務研討會",
+      "作者群": "高惠松、劉政勳"
+    },
+    {
+      "論文名稱": "誘因機制與不同盈餘操縱模式之研究",
+      "會議名稱": "2011年第六屆中華商管科技學會年會暨學術研討會",
+      "作者群": "高惠松、吳柏翰"
+    },
+    {
+      "論文名稱": "The Effect of IFRS, Information Asymmetry and Corporate Governance on the Quality of Accounting Information",
+      "會議名稱": "International Conference on Applied Business and Economics (ICABE 2011)",
+      "作者群": "Kao, Hui-Sung and Wei, Tzu-Han"
+    },
+    {
+      "論文名稱": "資本結構、股利政策對公司價值之影響：訊號理論觀點",
+      "會議名稱": "第六屆公司治理國際研討會",
+      "作者群": "高惠松、蔡純真"
+    },
+    {
+      "論文名稱": "集團企業、公司治理與社會責任績效",
+      "會議名稱": "2011臺灣商管與資訊研討會",
+      "作者群": "高惠松、鄭品卉"
+    },
+    {
+      "論文名稱": "以Cubist迴歸樹建構公司情境特質之股權評價模型",
+      "會議名稱": "台灣經濟學會2010年年會",
+      "作者群": "高惠松"
+    },
+    {
+      "論文名稱": "國際會計準則暨資訊不對稱、公司治理對會計資訊品質的影響：中國大陸資本市場A、B股之實證分析",
+      "會議名稱": "2010北商學術論壇-經營與管理研討會",
+      "作者群": "高惠松、魏子涵"
+    },
+    {
+      "論文名稱": "資本結構、股利政策對公司價值之影響：代理成本觀點",
+      "會議名稱": "2010年會計理論與實務研討會",
+      "作者群": "高惠松、蔡純真"
+    },
+    {
+      "論文名稱": "融合公司治理的信用評等模型：Cubist迴歸樹模型之應用",
+      "會議名稱": "2010年會計理論與實務研討會",
+      "作者群": "高惠松"
+    },
+    {
+      "論文名稱": "The optimal allocation model of corporate governance based on computational intelligence: Board composition and ownership structure to maximize the firm value",
+      "會議名稱": "2010 American Accounting Association Annual Meeting (2010AAA)",
+      "作者群": "Kao, Hui-Sung, Lee, Jan-Zan, and Chen, Shu-Heng"
+    },
+    {
+      "論文名稱": "Building firm value function based on computational intelligence: Applying Ohlson model and considering corporate governance",
+      "會議名稱": "2010 Accounting & Finance Association of Australia and New Zealand (AFAANZ) Conference",
+      "作者群": "Kao, Hui-Sung, Chen, Shu-Heng, and Lee, Jan-Zan"
+    },
+    {
+      "論文名稱": "不同公司治理情境之股權評價：類神經模糊專家系統之應用",
+      "會議名稱": "2009年會計理論與實務研討會",
+      "作者群": "高惠松、李建然、陳樹衡"
+    },
+    {
+      "論文名稱": "公司特性影響公司治理與公司價值之關聯性研究：自我組織映射圖法之應用",
+      "會議名稱": "第五屆公司治理國際研討會",
+      "作者群": "高惠松"
+    },
+    {
+      "論文名稱": "Corporate Governance and Equity Evaluation: Nonlinear Modeling via Neural Networks",
+      "會議名稱": "2009 Oxford Business & Economics Conference (OBEC)",
+      "作者群": "Lee, Jan-Zan, Chen, Shu-Heng and Kao, Hui-Sung"
+    },
+    {
+      "論文名稱": "公司治理與股權評價-類神經網路之非線性模型",
+      "會議名稱": "2008年會計理論與實務研討會",
+      "作者群": "高惠松、陳樹衡、李建然"
+    },
+    {
+      "論文名稱": "以演化式類神經網路評估資訊揭露評鑑系統對預測財務危機之影響",
+      "會議名稱": "2007年第二屆中國管理學年會",
+      "作者群": "高惠松、張應華"
+    },
+    {
+      "論文名稱": "公司治理機制與會計盈餘品質之關聯性研究",
+      "會議名稱": "2007年會計理論與實務研討會",
+      "作者群": "楊清溪、高惠松"
+    },
+    {
+      "論文名稱": "The Association between Management Earnings Forecast Errors and Corporate Governance Structure in IPO Firms.",
+      "會議名稱": "BAI 2007 International Conference on Business and Information.",
+      "作者群": "Yang, Ching-Hsi and Kao, Hui-Sung"
+    },
+    {
+      "論文名稱": "The Relationship between Human Capital and Audit Quality.",
+      "會議名稱": "International Conference on Information Technology and Management 2007 AND International Conference on Accounting and Information Technology (ICAIT 2007).",
+      "作者群": "Lee, Jan-zan and Kao, Hui-Sung"
+    },
+    {
+      "論文名稱": "作業基礎成本制對公司績效影響之實證研究",
+      "會議名稱": "2006年會計理論與實務研討會",
+      "作者群": "朱炫璉、高惠松、李怡穎"
+    },
+    {
+      "論文名稱": "從捷思偏誤探討券商盈餘預測有限理性之行為",
+      "會議名稱": "2006年會計理論與實務研討會",
+      "作者群": "黃瓊慧、高惠松"
+    },
+    {
+      "論文名稱": "誘因相容契約之一般設計模型-以公司治理觀點",
+      "會議名稱": "國科會管理一學門-『新進學者論文寫作研習營-會計組』",
+      "作者群": "高惠松"
+    }
+  ],
+  "book": [
+    {
+      "專業書籍": "財務報表分析",
+      "出版單位": "國立空中大學",
+      "作者群": "陳牡丹、王光華、江耕南、王瀅婷、高惠松等著"
+    },
+    {
+      "專業書籍": "國際財務報導準則、盈餘穩健性與價值攸關性之研究：跨國實證分析",
+      "出版單位": "科技部",
+      "作者群": "高惠松"
+    },
+    {
+      "專業書籍": "國際財務報導準則、盈餘門檻與盈餘管理之關聯性研究：考量公司治理機制",
+      "出版單位": "行政院國家科學委員會",
+      "作者群": "高惠松"
+    },
+    {
+      "專業書籍": "會計學概要",
+      "出版單位": "國立空中大學",
+      "作者群": "王光華、王瀅婷、陳牡丹、高惠松著"
+    },
+    {
+      "專業書籍": "Introduction to Accounting, ISBN 978-957-661-943-4",
+      "出版單位": "National Open University",
+      "作者群": "Wang, K.H., Y.T. Wang, M.T. Chen, and H.S. Kao"
+    },
+    {
+      "專業書籍": "初次上市（櫃）公司承銷價之訂價模型",
+      "出版單位": "逢甲大學",
+      "作者群": "高惠松"
+    },
+    {
+      "專業書籍": "探索企業股利政策之制定情境與股利政策預測模型",
+      "出版單位": "行政院國家科學委員會",
+      "作者群": "高惠松"
+    },
+    {
+      "專業書籍": "以Cubist迴歸樹建構公司情境特質之股權評價模型",
+      "出版單位": "行政院國家科學委員會",
+      "作者群": "高惠松"
+    },
+    {
+      "專業書籍": "融合公司治理的信用評等模型-Cubist迴歸樹模型之應用",
+      "出版單位": "逢甲大學",
+      "作者群": "高惠松"
+    },
+    {
+      "專業書籍": "公司特性影響公司治理公與公司價值之關聯性研究",
+      "出版單位": "逢甲大學",
+      "作者群": "高惠松"
+    }
+  ],
+  "patent": [],
+  "most": [
+    {
+      "name": "虛擬通貨會計處理之價值攸關性—以採用NFT之企業為例",
+      "schoolYear": "111"
+    },
+    {
+      "name": "經理人特質與內部控制缺失之關聯",
+      "schoolYear": "106"
+    },
+    {
+      "name": "IFRS差異調整數與買賣價差之關聯性研究",
+      "schoolYear": "103"
+    },
+    {
+      "name": "國際財務報導準則、盈餘穩健性與價值攸關性之研究：跨國實證分析",
+      "schoolYear": "102"
+    },
+    {
+      "name": "國際財務報導準則、盈餘門檻與盈餘管理之關聯性研究：考量公司治理機制",
+      "schoolYear": "101"
+    },
+    {
+      "name": "探索企業股利政策之制定情境與股利政策預測模型",
+      "schoolYear": "99"
+    },
+    {
+      "name": "以Cubist迴歸樹建構公司情境特質之股權評價模型",
+      "schoolYear": "98"
+    }
+  ],
+  "tech": [
+    {
+      "論文名稱": "計算智慧基礎之公司治理制度最適配置模型: 極大化公司價值之董事會與股權結構 (2009-06)",
+      "書名": "未出版博士論文",
+      "作者群": "高惠松"
+    },
+    {
+      "論文名稱": "平衡計分卡之規劃與設計-以基隆港務局為例 (2001-06)",
+      "書名": "未出版碩士論文",
+      "作者群": "高惠松"
+    }
+  ],
+  "induAca": [
+    "財富管理頂級客戶之開發研究 (2017-09 to 2018-06)",
+    "國營事業公司治理評量自評分析與建議 (2010-11 to 2011-01)",
+    "臺灣金控公司公司治理制度自評分析與建議 (2010-11 to 2011-01)",
+    "臺灣菸酒股份有限公司公司治理評量自評分析與建議 (2010-11 to 2011-01)"
+  ],
+  "perform": [],
+  "reward": [
+    "財務管理學期末報告競賽第一名 (112, 2024-05) - 逢甲大學",
+    "逢甲大學論文著作獎勵優等獎 (112, 2023-11) - 逢甲大學",
+    "財務管理學期末報告競賽第一名 (110, 2022-05) - 逢甲大學",
+    "博士組銀獎 (110, 2022-05) - 臺灣銀行(2021臺灣銀行經濟金融論文獎)",
+    "逢甲大學論文著作獎勵優良獎 (110, 2021-11) - 逢甲大學",
+    "論文著作優等獎 (108, 2019-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (108, 2019-11) - 逢甲大學",
+    "105(下)教學滿意度全校大學部課程前10% (106, 2017-12) - 逢甲大學",
+    "論文著作優等獎 (106, 2017-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (106, 2017-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (106, 2017-11) - 逢甲大學",
+    "105(上)教學滿意度全校研究所課程前10% (105, 2017-05) - 逢甲大學",
+    "Beta Gamma Sigma 國際商學榮譽學會  會員 (105, 2016-12) - Beta Gamma Sigma 國際商學榮譽學會",
+    "優良教材優等獎 (105, 2016-11) - 逢甲大學",
+    "優良教材優等獎 (105, 2016-11) - 逢甲大學",
+    "逢甲大學優良教材獎勵優等獎 (105, 2016-11) - 逢甲大學",
+    "Journal Best Paper Award (104, 2016-05) - Annual Spain Business Research Conference",
+    "104(上)教學滿意度全校研究所課程前10% (104, 2016-04) - 逢甲大學",
+    "論文著作優等獎 (104, 2015-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (104, 2015-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (104, 2015-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (104, 2015-11) - 逢甲大學",
+    "103(下)教學滿意度全校研究所課程前10% (104, 2015-11) - 逢甲大學",
+    "總決賽-二等獎 (103, 2015-06) - 中華國際經貿研究學會",
+    "台灣賽區-優勝 (103, 2015-05) - 2015年兩岸財務會計與商業管理案例競賽",
+    "優勝 (103, 2015-05) - 中華國際經貿研究學會",
+    "最佳論文獎 (103, 2015-05) - 2015現代會計論壇學術研討會",
+    "優良教材優等獎 (103, 2014-11) - 逢甲大學",
+    "優良教材優等獎 (103, 2014-11) - 逢甲大學",
+    "論文著作優等獎 (103, 2014-11) - 逢甲大學",
+    "逢甲大學優良教材獎勵優等獎 (103, 2014-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (103, 2014-11) - 逢甲大學",
+    "102(上)教學滿意度全校研究所課程前10% (102, 2014-03) - 逢甲大學",
+    "論文著作優等獎 (102, 2013-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (102, 2013-11) - 逢甲大學",
+    "會計與審計領域最佳論文獎 (101, 2013-06) - 2013年商學與管理學術研討會/台灣行銷科學",
+    "101(上)教學滿意度全校研究所課程前10% (101, 2013-04) - 逢甲大學",
+    "100(下)教學滿意度全校研究所課程前10% (101, 2012-11) - 逢甲大學",
+    "碩士組佳作論文獎 (101, 2012-07) - 2012TOPCO崇越論文大賞/台灣電子商務學會",
+    "佳作論文獎 (100, 2012-05) - 2012臺灣商管與資訊研討會",
+    "100級自治性社團評鑑第一名 (100, 2011-12) - 逢甲大學",
+    "論文著作優等獎 (100, 2011-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (100, 2011-11) - 逢甲大學",
+    "財務金融與經濟類最佳論文獎 (100, 2011-11) - 2011年中華商管科技學會年會暨學術研討會",
+    "碩士組佳作論文獎 (100, 2011-07) - 2011TOPCO崇越論文大賞/台灣電子商務學會",
+    "99級自治性社團評鑑第二名 (99, 2011-06) - 逢甲大學",
+    "佳作論文獎 (99, 2011-04) - 2011臺灣商管與資訊研討會",
+    "論文著作優等獎 (99, 2010-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵 (99, 2010-11) - 逢甲大學",
+    "98(下)教學滿意度全校研究所課程前10% (99, 2010-11) - 逢甲大學",
+    "財務金融與經濟類佳作論文獎 (99, 2010-10) - 2010年中華商管科技學會年會暨學術研討會",
+    "優秀論文獎 (98, 2009-09) - 第五屆公司治理國際研討會",
+    "博士組佳作論文獎 (98, 2009-07) - 2009TOPCO崇越論文大賞/台灣電子商務學會",
+    "2009年度新榮譽會員 (98, 2009-06) - 中華民國斐陶斐榮譽學會"
+  ],
+  "speech": [
+    {
+      "演講題目": "會計研究之過去、現在、未來與我的發現",
+      "邀請單位": "國立台中科技大學會計學系",
+      "演講日期": "2021-03"
+    },
+    {
+      "演講題目": "利用MOOCs教材學習會計研究方法",
+      "邀請單位": "逢甲大學會計學系",
+      "演講日期": "2016-12"
+    },
+    {
+      "演講題目": "財務報表分析",
+      "邀請單位": "欣中天然氣股份有限公司",
+      "演講日期": "2015-04"
+    },
+    {
+      "演講題目": "成本效益分析",
+      "邀請單位": "欣中天然氣股份有限公司",
+      "演講日期": "2015-04"
+    },
+    {
+      "演講題目": "公司治理與財務會計之相關研究",
+      "邀請單位": "逢甲大學會計學系",
+      "演講日期": "2013-09"
+    },
+    {
+      "演講題目": "公司治理與財務會計議題",
+      "邀請單位": "逢甲大學會計學系",
+      "演講日期": "2012-11"
+    },
+    {
+      "演講題目": "以Cubist迴歸樹建構公司情境特質之股權評價模型",
+      "邀請單位": "中原大學會計學系",
+      "演講日期": "2011-05"
+    },
+    {
+      "演講題目": "不同公司治理情境之股權評價：類神經模糊專家系統之應用",
+      "邀請單位": "政治大學人工智慧經濟學研究中心",
+      "演講日期": "2009-11"
+    },
+    {
+      "演講題目": "實施作業基礎管理與公司績效之關聯性",
+      "邀請單位": "國立暨南國際大學財務金融學系",
+      "演講日期": "2009-09"
+    },
+    {
+      "演講題目": "公司治理機制與會計盈餘品質之關聯性研究",
+      "邀請單位": "中原大學會計學系",
+      "演講日期": "2007-11"
+    }
+  ],
+  "material": [
+    "會計學概要\t國立空中大學\t王光華、王瀅婷、陳牡丹、高惠松\t教科書",
+    "財務報表分析\t國立空中大學出版中心\t陳牡丹、王光華、江耕南、王瀅婷、高惠松、周佩儀\t複合教材"
+  ],
+  "tal": []
+}

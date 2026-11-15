@@ -1,0 +1,146 @@
+{
+  "teacherId": "T11198",
+  "name": "周兆龍",
+  "mainUnit": "資訊電機學院",
+  "detailUnit": "資訊工程學系",
+  "skill": [
+    "資訊安全Information Security",
+    "藏密分析Steganalysis",
+    "影像處理Image Processing",
+    "模式識別Pattern Recognition"
+  ],
+  "edu": [
+    "國防大學 國防科學研究所電子組 博士",
+    "國防大學 電子工程研究所 碩士",
+    "中正理工學院 資訊科學系 學士"
+  ],
+  "fcuExp": [
+    "逢甲大學帆宣智慧城市5G實驗室 研究員",
+    "資通安全碩士學位學程(籌備) 主任",
+    "資訊工程學系 兼任副教授",
+    "資訊工程學系 副教授"
+  ],
+  "currjob": [],
+  "otherExp": [
+    "國防大學 資訊工程學系 副教授兼系主任",
+    "國防大學 資訊工程學系 副教授",
+    "國防大學 資訊工程學系 助理教授"
+  ],
+  "journal": [
+    {
+      "論文名稱": "Detecting and Classifying Ransomware Using Network Packet Analysis and Machine Learning",
+      "期刊名稱": "Journal of Information Science and Engineering (SCIE)",
+      "作者群": "TAI-HUNG LAI, WEN-TSUNG TSAI, SHAO-RU LIN, TE-MIN LIU, CHAO-LUNG CHOU*"
+    },
+    {
+      "論文名稱": "Video Detection Method Based on Temporal and Spatial Foundations for Accurate Authentication of Authenticity",
+      "期刊名稱": "Electronics (SCIE)",
+      "作者群": "Chin-Yuan Lin, Jen-Chun Lee, Shuenn-Jyi Wang, Chung-Shi Chiang and Chao-Lung Chou*"
+    },
+    {
+      "論文名稱": "JAVA 網頁系統之反序列化弱點偵測技術",
+      "期刊名稱": "資訊安全通訊期刊 (CEPS中文電子期刊資料庫)",
+      "作者群": "江竑緯、周兆龍*"
+    },
+    {
+      "論文名稱": "Fast Face Presentation Attack Detection in Thermal Infrared Images based on Morphological Filtering",
+      "期刊名稱": "International Journal of Network Security (EI)",
+      "作者群": "Tai-Hung Lai, Ching-Yu Peng, and Chao-Lung Chou*"
+    },
+    {
+      "論文名稱": "Fast Infrared Small Target Detection by Using Hadamard Product for Spatial-Temporal Matrices",
+      "期刊名稱": "IEEE Access (SCIE)",
+      "作者群": "Ping-Hsiu Wu, Yu-Pin Lan, Chao-Lung Chou* and Chun-Ting Lin*"
+    },
+    {
+      "論文名稱": "Generating Multi-Issued Session Key by Using Semi Quantum Key Distribution With Time-Constraint",
+      "期刊名稱": "IEEE Access (SCIE)",
+      "作者群": "Hsing-Chung Chen*, Cahya Damarjati, Eko Prasetyo, Chao-Lung Chou, Tzu-Liang Kung and Chien-Erh Weng"
+    },
+    {
+      "論文名稱": "Federated Compressed Learning Edge Computing Framework with Ensuring Data Privacy for PM2.5 Prediction in Smart City Sensing Applications",
+      "期刊名稱": "Sensors (SCIE)",
+      "作者群": "Karisma Trinanda Putra, Hsing-Chung Chen*, Prayitno, Marek R. Ogiela, Chao-Lung Chou, Chien-Erh Weng and Zon-Yin Shae"
+    },
+    {
+      "論文名稱": "Fast and Robust Infrared Image Small Target Detection Based on the Convolution of Layered Gradient Kernel",
+      "期刊名稱": "IEEE Access (SCIE)",
+      "作者群": "TUNG-HAN HSIEH, CHAO-LUNG CHOU*, YU-PIN LAN, PIN-HSUAN TING AND CHUN-TING LIN*"
+    },
+    {
+      "論文名稱": "Chi‑square‑based steganalysis method against modified pixel‑value differencing steganography",
+      "期刊名稱": "Arabian Journal for Science and Engineering (SCIE)",
+      "作者群": "Wen‑Bin Lin, Tai‑Hung Lai and Chao‑Lung Chou"
+    },
+    {
+      "論文名稱": "Presentation attack detection based on score level fusion and challenge‑response technique",
+      "期刊名稱": "The Journal of Supercomputing (SCIE)",
+      "作者群": "Chao‑Lung Chou"
+    }
+  ],
+  "journal2": [],
+  "conference": [
+    {
+      "論文名稱": "基於擊鍵行為與低維度CNN深度學習模型之身份認證",
+      "會議名稱": "2024 台灣網際網路研討會(Taiwan Academic Network Conference, TANET)",
+      "作者群": "楊東諺, 李仁軍, 周兆龍*"
+    },
+    {
+      "論文名稱": "Detection of 3D Mask Presentation Attacks by Using MAML Meta-Learning Algorithm",
+      "會議名稱": "2024 9th International Conference on Information and Network Technologies (ICINT 2024)",
+      "作者群": "Chao-Lung Chou, Hsing-Chung Chen and Ping-Tsung Chu"
+    },
+    {
+      "論文名稱": "White-box Penetration Testing for Hash Collision Attack on Web Applications.",
+      "會議名稱": "2023 International  Conference on Security and Information Technologies with AI, Internet  Computing and Big-data Applications (SITAIBA 2023)",
+      "作者群": "Chao-Lung Chou and Hung-Wei Chiang"
+    }
+  ],
+  "book": [],
+  "patent": [],
+  "most": [
+    {
+      "name": "基於集成學習與融合生物行為特徵之零信任架構持續性認證技術(2/2)",
+      "schoolYear": "113"
+    },
+    {
+      "name": "(國防)基於集成學習與融合生物行為特徵之零信任架構持續性認證技術(1/2)",
+      "schoolYear": "112"
+    }
+  ],
+  "tech": [],
+  "induAca": [
+    "無人機市場發展與應用現況 (2024-11 to 2024-12)"
+  ],
+  "perform": [],
+  "reward": [],
+  "speech": [
+    {
+      "演講題目": "數位洪流中的防線： 深入解析DDoS攻擊與資安挑戰",
+      "邀請單位": "工研院",
+      "演講日期": "2024-10"
+    },
+    {
+      "演講題目": "生活資安講座: 強化自我資安意識、預防社交工程詐騙",
+      "邀請單位": "元智大學",
+      "演講日期": "2024-08"
+    },
+    {
+      "演講題目": "生活資安講座: 資通安全基礎與AI世代之挑戰",
+      "邀請單位": "元智大學",
+      "演講日期": "2024-08"
+    },
+    {
+      "演講題目": "【資安工作坊】零信任架構(ZTA)：trust me bro! 我不會害你的~",
+      "邀請單位": "逢甲黑客社",
+      "演講日期": "2024-05"
+    },
+    {
+      "演講題目": "基於零信任架構之身分存取控管技術",
+      "邀請單位": "國防大學",
+      "演講日期": "2024-02"
+    }
+  ],
+  "material": [],
+  "tal": []
+}

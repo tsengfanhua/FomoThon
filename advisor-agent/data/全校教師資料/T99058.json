@@ -1,0 +1,499 @@
+{
+  "teacherId": "T99058",
+  "name": "林碩泰",
+  "mainUnit": "工程與科學學院",
+  "detailUnit": "光電科學與工程學系",
+  "skill": [
+    "固態雷射系統Solid-state laser system",
+    "非線性光學Nonlinear Optics",
+    "雷射加工應用Laser material processing"
+  ],
+  "edu": [
+    "國立清華大學 光電工程研究所 博士",
+    "國立交通大學 電子物理系 碩士",
+    "國立交通大學 電子物理系 學士"
+  ],
+  "fcuExp": [
+    "光電學系 助理教授",
+    "光電學系 副教授",
+    "光電科學與工程學系 副教授",
+    "光電科學與工程學系 教授"
+  ],
+  "currjob": [],
+  "otherExp": [
+    "中央研究院 原子分子研究所 博士後研究人員",
+    "國立清華大學 光電工程研究所 博士後研究人員",
+    "國立清華大學 電機工程學系 計畫案專任助理"
+  ],
+  "journal": [
+    {
+      "論文名稱": "Q-Switched Mode-Locking by Cascaded Second-Order Nonlinearity in a Nd:YVO4 Laser",
+      "期刊名稱": "Photonics (SSCI)",
+      "作者群": "Jia-Yang Chen, Wei-Wei Hsiang, and Shou-Tai Lin*"
+    },
+    {
+      "論文名稱": "Calibrated χ(2)-tensor polarization-resolved second harmonic generation microscopy for precise tissue imaging",
+      "期刊名稱": "Applied Physics Letters (SCIE)",
+      "作者群": "Ming-Xin Lee,  Wei-Hsun Wang, Wei-Liang Chen, Ming-Chi Chen, Chun-Yu Chou, Shou-Tai Lin, Chin-Yu Lin, Fu-Jen Kao, Guan-Yu Zhuo*"
+    },
+    {
+      "論文名稱": "Cascaded Mode-Locked Nd:YVO4 Laser Using MgO Doped Periodically-Poled LiNbO3 With Direct In-Band Diode Pumping at 914 nm",
+      "期刊名稱": "IEEE Photonics Journal (SCIE)",
+      "作者群": "Tin-Yu Yang, Yuan-Yao Lin, Shou-Tai Lin*, and An-Chung Chiang"
+    },
+    {
+      "論文名稱": "Diode-pumped 1-um Nd:YVO4 and Nd:YLF lasers with active thermal lensing compensation and manipulated beam quality",
+      "期刊名稱": "Optics Continuum (EI)",
+      "作者群": "SHOU-TAI LIN* AND CHENG-PO CHEN"
+    },
+    {
+      "論文名稱": "Observation of Neutron-Induced Absorption and Phase-Mismatch for Quasi-Phase-Matched Second Harmonic Generation in Congruent Lithium Niobate",
+      "期刊名稱": "Photonics (SCIE)",
+      "作者群": "An-Chung Chiang*, Jiunn-Hsing Chao, Shou-Tai Lin, and Yuan-Yao Lin"
+    },
+    {
+      "論文名稱": "Rapid Fabrication of High-Entropy Ceramic Nanomaterials for Catalytic Reactions",
+      "期刊名稱": "ACS Nano (SCIE)",
+      "作者群": "Jie Xiang Yang, Bai-Hao Dai, Ching-Yu Chiang, I-Chia Chiu, Chih-Wen Pao, Sheng-Yuan Lu, I-Yu Tsao, Shou-Tai Lin, Ching-Ting Chiu, Jien-Wei Yeh, Pai-Chun Chang, and Wei-Hsuan Hung*"
+    },
+    {
+      "論文名稱": "A Broadband High-Diffraction-Efficiency Electro-Optic Bragg Deflector Based on Monolithic Dual-Grating Periodically-Poled Lithium Niobate",
+      "期刊名稱": "Photonics (SCIE)",
+      "作者群": "An-Chung Chiang*, Yuan-Yao Lin, Shou-Tai Lin, and Yen-Yin Lin"
+    },
+    {
+      "論文名稱": "Actively Q-Switched Tm:YAP Laser Constructed Using an Electro-Optic Periodically Poled Lithium Niobate Bragg Modulator",
+      "期刊名稱": "IEEE Photonics Journal (SCIE)",
+      "作者群": "Shou-Tai Lin*, Zhao-Ren Qiu, and Cheng-Po Chen"
+    },
+    {
+      "論文名稱": "Direct observation of dynamic thermal lensing in nanoscale surfaces/interfaces of end-pumped Nd:YVO4 laser",
+      "期刊名稱": "Applied Physics Letters (SCIE)",
+      "作者群": "Shou-Tai Lin, Wei-Kuo Hung, Guan-Yu Zhuo, Hsien-Yi Wang and Ming-Che Chan*"
+    },
+    {
+      "論文名稱": "Effects of nonlinear phase in cascaded mode-locked Nd:YVO4 laser",
+      "期刊名稱": "Optics Express (SCIE)",
+      "作者群": "SHOU-TAI LIN* and CHUN-HUI HUANG"
+    },
+    {
+      "論文名稱": "Polarization bistability associated with 4F3/2→4I11/2 and 4F3/2→4I13/2 transitions in Nd:YVO4 laser with intra-cavity periodically poled lithium niobate Bragg modulator",
+      "期刊名稱": "Optics express (SCIE)",
+      "作者群": "Kun-Guei Hong,Shou-Tai Lin, and Ming-Dar Wei*"
+    },
+    {
+      "論文名稱": "Selectable Dual-Wavelength Actively Q-Switched Laser by Monolithic Electro-Optic Periodically Poled Lithium Niobate Bragg Modulator",
+      "期刊名稱": "IEEE Photonics Journal (SCIE)",
+      "作者群": "Shou-Tai Lin*, Shang-Yu Hsu, Yen-Yin Lin, and Yuan-Yao Lin"
+    },
+    {
+      "論文名稱": "Triple-wavelength Nd-laser system by cascaded electro-optic periodically poled lithium niobate Bragg modulator",
+      "期刊名稱": "Optics Express (SCIE)",
+      "作者群": "Shou-Tai Lin* and Chuan-Sheng Hsieh"
+    },
+    {
+      "論文名稱": "Saturation spectroscopy of CO2 and frequency stabilization of an optical parametric oscillator at 2.77 μm",
+      "期刊名稱": "Optics Letters (SCIE)",
+      "作者群": "Hsuan-Chen Chen*, Chung-Yun Hsiao, Wei-Jo Ting, Shou-Tai Lin, and Jow-Tsong Shy"
+    },
+    {
+      "論文名稱": "Actively Q-Switched Intracavity Frequency\u0002Doubled Nd:LuVO4/LBO Green Laser with an Acousto\u0002Optic Modulator",
+      "期刊名稱": "Laser Physics (SCIE)",
+      "作者群": "K. C. Chang, S. T. Lin, J. H. Lin, and M. D. Wei*"
+    },
+    {
+      "論文名稱": "Passively Q\u0002Switched Intracavity Frequency\u0002Doubled Nd:LuVO4/LBO Green Laser with a Cr4+:YAG Saturable Absorber",
+      "期刊名稱": "Laser Physics (SCIE)",
+      "作者群": "K.\u0002C. Chang, C.\u0002C. Hsu, S.\u0002T. Lin, and M.\u0002D. Wei*"
+    },
+    {
+      "論文名稱": "Two-dimensional PPLN for simultaneous laser Q-switching and optical parametric oscillation in a Nd:YVO4 laser",
+      "期刊名稱": "Optics Express (SCIE)",
+      "作者群": "W. K. Chang, Y. H. Chen*, H. H. Chang, J. W. Chang, C. Y. Chen, Y. Y. Lin, Y. C. Huang, and S. T. Lin"
+    },
+    {
+      "論文名稱": "Thermal waveguide OPO",
+      "期刊名稱": "Optics Express (SCIE)",
+      "作者群": " S. T. Lin, Y. Y. Lin, T. D. Wang, and Y. C. Huang*"
+    },
+    {
+      "論文名稱": "Fiber-laser-pumped CW OPO for Red, Green, Blue Laser Generation",
+      "期刊名稱": "Optics Express (SCIE)",
+      "作者群": "S. T. Lin, Y. Y. Lin, R. Y. Tu, T. D. Wang, and Y. C. Huang*"
+    },
+    {
+      "論文名稱": "Observation of thermal-induced optical guiding and bistability in a mid-IR continuous wave, singly resonant optical parametric oscillator",
+      "期刊名稱": "Optics Letters (SCIE)",
+      "作者群": "S. T. Lin, Y. Y. Lin, Y. C. Huang*, A. C. Chiang, and J. T. Shy"
+    },
+    {
+      "論文名稱": "Proton-exchanged OH- absorption spectra of highly Zn-doped LiNbO3 with and without polarization inversion",
+      "期刊名稱": "Applied Physics Letter (SCIE)",
+      "作者群": "Tsai, C. T. Chia*, S. T. Lin, Y. C. Huang, H. F. Lu, and S. H. Lin"
+    },
+    {
+      "論文名稱": "Monolithically integrated laser Bragg Q-switch and wavelength converter in a PPLN crystal",
+      "期刊名稱": "Optics Express (SCIE)",
+      "作者群": "S. T. Lin, G. W. Chang, Y. Y. Lin, Y. C. Huang*, A. C. Chiang, and Y. H. Chen"
+    },
+    {
+      "論文名稱": "Forward and backward Terahertz-wave difference-frequency generations from periodically poled lithium niobate",
+      "期刊名稱": "Optics Express (SCIE)",
+      "作者群": "T. D. Wang, S. T. Lin, Y. Y. Lin, A. C. Chiang, and Y. C. Huang*"
+    },
+    {
+      "論文名稱": "Electro-optic PPLN Bragg Modulator as a Laser Q-switch",
+      "期刊名稱": "Optics Letters (SCIE)",
+      "作者群": "Y. Y. Lin, S. T. Lin, G. W. Chang, A. C. Chiang, Y. C. Huang*, and Y. H. Chen"
+    }
+  ],
+  "journal2": [],
+  "conference": [
+    {
+      "論文名稱": "Femtosecond laser inscribed directional coupler in MgO:LN waveguide",
+      "會議名稱": "CLEO-PR 2024",
+      "作者群": "Shih-Zhe Pan, Yu-Ting Song, Ze-Wei Xu,  Zhi-Ming Hsieh, Wei-Wei Hsiang, and Shou-Tai Lin*"
+    },
+    {
+      "論文名稱": "Fabrication of MgO:LN depressed waveguide through ultrafast laser direct writing",
+      "會議名稱": "OPTIC-2023",
+      "作者群": "Hui-Mi Li, Shih-Zhe Pan, Zhi-Ming Hsieh, Wei-Wei Hsiang, and Shou-Tai Lin*"
+    },
+    {
+      "論文名稱": "Femtosecond laser direct writing beam splitters in MgO:LN waveguide",
+      "會議名稱": "Optica Nonlinear Optics Topical Meeting 2023",
+      "作者群": "Shih-Zhe Pan, Hui-Mi Li, Yu-Ting Song, Ze-Wei Xu,  Zhi-Ming Hsieh, Wei-Wei Hsiang, and Shou-Tai Lin*"
+    },
+    {
+      "論文名稱": "Femtosecond laser direct writing waveguide in MgO:LN",
+      "會議名稱": "OPTICS 2022",
+      "作者群": "Chao-Yuan Yang, Shih-Zhe Pan, Hui-Mi Li, Yu-Ting Song, Huan-Teng Su,  Zhi-Ming Hsieh, Wei-Wei Hsiang, and Shou-Tai Lin*"
+    },
+    {
+      "論文名稱": "The Study of Acetylene Photo-Thermal Signal \nBased on Laser Frequency Stabilization by Using the\nRed Pitaya STEMlab",
+      "會議名稱": "2022 Annual Meeting of the Physical Society of Taiwan",
+      "作者群": "Chang-Chi Chung*, Kai-Jhe Chen, Chun-Hung Chou, Che-Chung Chou, and Tyson Lin"
+    },
+    {
+      "論文名稱": "Passive mode-locking of a diode-pumped Nd:YVO4 laser by intracavity sum frequency generation",
+      "會議名稱": "OPTIC 2021",
+      "作者群": "Shou-Tai Lin*, Zheng-Yan Li, and Jin-Wei Lin"
+    },
+    {
+      "論文名稱": "Characterization of the noise in cascaded mode-locked Nd:GdVO4 laser",
+      "會議名稱": "OPTIC 2020",
+      "作者群": "Shou-Tai Lin* and Kuang-Ting Zheng"
+    },
+    {
+      "論文名稱": "Spatial hole burning, nonlinear phase, and SHG acceptance bandwidth effects in cascaded mode-locked Nd:YVO4 laser",
+      "會議名稱": "Laser Congress",
+      "作者群": "Shou-Tai Lin*, I-Hsiu Huang, and Kuang-Tin Cheng"
+    },
+    {
+      "論文名稱": "Spatial hole burning, nonlinear phase, and SHG acceptance bandwidth effects in cascaded mode-locked Nd:YVO4 laser",
+      "會議名稱": "OPTIC 2019",
+      "作者群": "Shou-Tai Lin*, I-Hsiu Huang, and Kuang-Tin Cheng"
+    },
+    {
+      "論文名稱": "Diode-pumped 1-um Nd:YVO4 and Nd:YLF lasers with dynamic thermal lensing compensation",
+      "會議名稱": "OPTIC 2019",
+      "作者群": "Shou-Tai Lin*, Cheng-Po Chen, and Ting-Yu Yang"
+    },
+    {
+      "論文名稱": "Nonlinear phase effects in cascaded mode-locked Nd:YVO4 laser",
+      "會議名稱": "OPTIC2018",
+      "作者群": "How-Wei Liu, I-Hsiu Huang and Shou-Tai Lin*"
+    },
+    {
+      "論文名稱": "Diode-pumped EO Q-switched Tm:YAP laser",
+      "會議名稱": "OPTIC2018",
+      "作者群": "Zhao-Ren Qiu, Cheng-Po Chen and Shou-Tai Lin*"
+    },
+    {
+      "論文名稱": "Passive mode-locking of a diode-pumped Nd laser based on cascaded second-order nonlinearity",
+      "會議名稱": "CLEOPR-2018",
+      "作者群": "S. T. Lin*, C. H. Huang, and H. W. Liu"
+    },
+    {
+      "論文名稱": "Passive mode-locking of a diode-pumped Nd laser based on cascaded second-order nonlinearity",
+      "會議名稱": "OPTIC 2017",
+      "作者群": "Shou-Tai Lin* and Chun-Hui Huang"
+    },
+    {
+      "論文名稱": "Dual-wavelength LG01 laser",
+      "會議名稱": "OPTIC 2017",
+      "作者群": "How-Wei Liu, Si-An Chen, and Shou-Tai Lin*"
+    },
+    {
+      "論文名稱": "利用固態與光纖架構產生2 um雷射系統",
+      "會議名稱": "中科院105 年國防科技學術合作計畫成果發表會",
+      "作者群": "邱昭仁、林碩泰*、林尹翔 、陳志宇 與李穎玟"
+    },
+    {
+      "論文名稱": "掃瞄式微型雷射收發系統研製",
+      "會議名稱": "中科院105 年國防科技學術合作計畫成果發表會",
+      "作者群": "周哲仲、 林碩泰、廖家緯、蔡易霖 、、陳又銘、 曾柏森 、林泰生*"
+    },
+    {
+      "論文名稱": "Passive mode-locking laser with focusing cascaded Kerr lensing in periodically poled LiNbO3",
+      "會議名稱": "OPTIC 2015",
+      "作者群": "Cheng-Yeh Kuo and Shou-Tai Lin*"
+    },
+    {
+      "論文名稱": "Broadband high-diffraction-efficiency electro-optic Bragg deflector based on periodically-poled lithium niobate",
+      "會議名稱": "OptoElectronics and Communications Conference and Australian Conference on Optical Fibre Technology (OECC/ACOFT 2014)",
+      "作者群": "Yen-Yin Lin, Yuan-Yao Lin, Po-Chun Liu, Shou-Tai Lin*"
+    },
+    {
+      "論文名稱": "Etalon’s birefringence measurement by using an optical heterodyne interferometer based on an acousto-optics frequency shifter",
+      "會議名稱": "2014中華民國物理學會年會",
+      "作者群": "Shang-Chen Chen *; Che-Chung Chou ; Tyson Lin and Shou Tai Lin"
+    },
+    {
+      "論文名稱": "Pulsed Single-Longitudinal-Mode Nd-laser with an Electro-Optic Periodically Poled Lithium Niobate Bragg Modulator",
+      "會議名稱": "CLEOPR-2013",
+      "作者群": "Shou-Tai Lin*, Bo-Cheng Chen, Po-Chun Liu, and Shin-Han Yu"
+    },
+    {
+      "論文名稱": "Dual-Wavelength Q-switched Laser by Cascaded Electro-Optic Periodically Poled Lithium Niobate Crystal",
+      "會議名稱": "CLEOPR-2013",
+      "作者群": "Shou-Tai Lin*, Shang-Yu Hsu, and Yen-Yin Lin"
+    },
+    {
+      "論文名稱": "Monolithically Integrated Laser Bragg Q-Switch, and Wavelength Selector by Electro-Optic Periodically Poled Lithium Niobate Crystal",
+      "會議名稱": "第五屆海峽兩岸光學微結構與雷射技術研討會",
+      "作者群": "S. T. Lin*, C. S. Hsieh, S. Y. Hsu, and Y. Y. Lin"
+    },
+    {
+      "論文名稱": "Triple-wavelength Nd-laser system by cascaded electro-optic periodically poled lithium niobate Bragg modulator",
+      "會議名稱": "雷射光電研討會(CLEO2013)",
+      "作者群": "Shou-Tai Lin* and Chuan-Sheng Hsieh"
+    },
+    {
+      "論文名稱": "Measurement of optical constants of the linear electro-optic effect by using heterodyne interferometer based on single acousto-optic modulator",
+      "會議名稱": "2013 中華民國物理年會暨成果發表會",
+      "作者群": "Shang-Chen Chen*,Che-Chung Chou,Tyson Lin,Shou-Tai Lin,Ru-Jong Jeng"
+    },
+    {
+      "論文名稱": "Triple-wavelength switchable Nd-laser system by electro-optic peridic poled lithium niobate Bragg modulator",
+      "會議名稱": "Optics & Photonics Taiwan, International Conference (OPTIC 2012)",
+      "作者群": "Chuan-Sheng Hsieh and Shou-Tai Lin*"
+    },
+    {
+      "論文名稱": "Pulsed single-longitudinal-mode Nd-laser with an electro-optic PPLN Bragg modulator and volume Bragg grating",
+      "會議名稱": "International Photonics Conference 2011",
+      "作者群": "Shou Tai Lin*, Bo Cheng Chen, Chuan Sheng Hsieh, Po Chun Liu, Guan Ru Huang and Heng Hsuan Huang"
+    },
+    {
+      "論文名稱": "2D PPLN for Simultaneous Laser Q-switching and Optical Parametric Oscillation in a Nd:YVO4 Laser",
+      "會議名稱": "CLEO Pacific Rim",
+      "作者群": "W. K. Chang, H. H. Chang,J. W. Chuang, Y. H. Chen*, S. T. Lin,Y. Y. Lin, and Y. C. Huang"
+    },
+    {
+      "論文名稱": "High-power master oscillation power amplifier with large-mode-area Yb-doped fiber",
+      "會議名稱": "2010 International conference on Optics and Photonics in Taiwan",
+      "作者群": "T. D. Wang*, H. L. Chang, S. T. Lin(林碩泰), S. J. Hung, W. C. Huang, R. Y. Tu, L. K. Dai"
+    }
+  ],
+  "book": [],
+  "patent": [
+    {
+      "title": "發明",
+      "desc": "螺旋相位調制共振腔渦漩雷射光產生器及渦旋雷射光的產生方法"
+    }
+  ],
+  "most": [
+    {
+      "name": "飛秒雷射直寫鐵電材料並建構光子晶體結構(II)(1/2)",
+      "schoolYear": "113"
+    },
+    {
+      "name": "應用空間光調制器(SLM)在超快雷射加工直寫",
+      "schoolYear": "113"
+    },
+    {
+      "name": "飛秒雷射直寫鐵電材料並建構光子晶體結構",
+      "schoolYear": "112"
+    },
+    {
+      "name": "飛秒雷射直寫鐵電材料波導結構(2/2)",
+      "schoolYear": "111"
+    },
+    {
+      "name": "飛秒雷射直寫鐵電材料波導結構(1/2)",
+      "schoolYear": "110"
+    },
+    {
+      "name": "(輔大)飛秒雷射直寫鈮酸鋰波導結構(2/2)",
+      "schoolYear": "109"
+    },
+    {
+      "name": "二階非線性效應引起之串列式鎖模雷射 (II)",
+      "schoolYear": "109"
+    },
+    {
+      "name": "(輔大)飛秒雷射直寫鈮酸鋰波導結構",
+      "schoolYear": "108"
+    },
+    {
+      "name": "二階非線性效應引起之串列式鎖模雷射",
+      "schoolYear": "108"
+    },
+    {
+      "name": "掃瞄式微型雷射收發器研製(II)",
+      "schoolYear": "105"
+    },
+    {
+      "name": "新型態柱狀雷射向量光束",
+      "schoolYear": "105"
+    },
+    {
+      "name": "(3/3)臺印(IN)國合計畫－製作與分析新穎三維光子晶體異質結構以增進光電元件效能",
+      "schoolYear": "104"
+    },
+    {
+      "name": "新頻譜光電收發模組技術開發－總計畫暨子計畫一：固體雷射技術開發",
+      "schoolYear": "104"
+    },
+    {
+      "name": "臺印(IN)國合計畫－製作與分析新穎三維光子晶體異質結構以增進光電元件效能(2/3)",
+      "schoolYear": "103"
+    },
+    {
+      "name": "發展脈衝式、單頻、波長可調之中紅外雷射光源於氣體感測應用",
+      "schoolYear": "103"
+    },
+    {
+      "name": "可切換式雙波長、徑向與方位角偏振之環形光束研究",
+      "schoolYear": "103"
+    },
+    {
+      "name": "在單一MgO:PPLN晶片上整合鎖模與波長轉換器(3/3)",
+      "schoolYear": "102"
+    },
+    {
+      "name": "在單一MgO:PPLN晶片上整合鎖模與波長轉換器(2/3)",
+      "schoolYear": "101"
+    },
+    {
+      "name": "在單一MgO:PPLN晶片上整合鎖模與波長轉換器(1/3)",
+      "schoolYear": "100"
+    },
+    {
+      "name": "利用超晶格電光效應對埃秒波束之生成與整形研究",
+      "schoolYear": "99"
+    }
+  ],
+  "tech": [],
+  "induAca": [
+    "雷射機密加工切割諮詢顧問專案計畫(II) (2022-11 to 2023-01)",
+    "雷射機密加工切割諮詢顧問專案計畫 (2022-08 to 2022-10)",
+    "雷射靶材破壞殺傷力分析1項 (2021-04 to 2021-11)",
+    "雷射破壞分析報告 (2020-09 to 2020-12)",
+    "聲光/電光式雷射光束掃描器設計案 (2018-02 to 2018-04)",
+    "雷射長波長轉換之光路設計與理論分析 (2017-05 to 2018-04)"
+  ],
+  "perform": [],
+  "reward": [
+    "113年度國科會補助大專校院研究獎勵 (113, 2024-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (113, 2024-11) - 逢甲大學",
+    "112年度國科會補助大專校院研究獎勵 (112, 2023-12) - 逢甲大學",
+    "逢甲大學論文著作獎勵優等獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優等獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (111, 2022-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (111, 2022-11) - 逢甲大學",
+    "111年度國科會補助大專校院研究獎勵 (111, 2022-10) - 研究發展處",
+    "逢甲大學論文著作獎勵傑出獎 (110, 2021-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (110, 2021-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (109, 2020-11) - 逢甲大學",
+    "106學年度教學績優獎 (106, 2017-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (105, 2016-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (103, 2014-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (102, 2013-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (102, 2013-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (102, 2013-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (102, 2013-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (101, 2012-11) - 逢甲大學"
+  ],
+  "speech": [
+    {
+      "演講題目": "非線性光學與應用",
+      "邀請單位": "聯合大學光電所",
+      "演講日期": "2023-03"
+    },
+    {
+      "演講題目": "非線性光學與應用",
+      "邀請單位": "勤益化材所",
+      "演講日期": "2022-04"
+    },
+    {
+      "演講題目": "Femtosecond pulsed laser direct writing in transparent materials",
+      "邀請單位": "日本宇都宮大學CORE",
+      "演講日期": "2022-03"
+    },
+    {
+      "演講題目": "非線性光學與應用",
+      "邀請單位": "成大光電所",
+      "演講日期": "2021-11"
+    },
+    {
+      "演講題目": "非線性光學與應用",
+      "邀請單位": "逢甲大學光電科學與工程學系",
+      "演講日期": "2020-04"
+    },
+    {
+      "演講題目": "日本都宮大學學者來訪演講-Cascaded mode-locking technique",
+      "邀請單位": "逢甲大學光電科學與工程學系",
+      "演講日期": "2019-09"
+    },
+    {
+      "演講題目": "雷射加工原理簡介",
+      "邀請單位": "經濟部",
+      "演講日期": "2014-06"
+    },
+    {
+      "演講題目": "非線性光學與應用",
+      "邀請單位": "中興物理",
+      "演講日期": "2013-11"
+    },
+    {
+      "演講題目": "非線性光學與應用",
+      "邀請單位": "中山大學光電系",
+      "演講日期": "2013-05"
+    },
+    {
+      "演講題目": "非線性光學與應用",
+      "邀請單位": "元智光電系",
+      "演講日期": "2012-11"
+    },
+    {
+      "演講題目": "非線性光電在顯示器上之應用",
+      "邀請單位": "台灣科技大學色彩與照明所",
+      "演講日期": "2011-12"
+    },
+    {
+      "演講題目": "非線性光學與應用",
+      "邀請單位": "東海大學物理系",
+      "演講日期": "2011-11"
+    },
+    {
+      "演講題目": "非線性光學與應用",
+      "邀請單位": "聯合科技大學光電所",
+      "演講日期": "2011-11"
+    },
+    {
+      "演講題目": "非線性光學與應用",
+      "邀請單位": "彰化師範大學光電所",
+      "演講日期": "2011-10"
+    },
+    {
+      "演講題目": "從博士班到教職",
+      "邀請單位": "清華大學光電所",
+      "演講日期": "2011-04"
+    }
+  ],
+  "material": [],
+  "tal": []
+}

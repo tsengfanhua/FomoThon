@@ -1,0 +1,400 @@
+{
+  "teacherId": "T09242",
+  "name": "陳志成",
+  "mainUnit": "資訊電機學院",
+  "detailUnit": "自動控制工程學系",
+  "skill": [
+    "智慧機器人步態控制演算法Smart robot gait control algorithm",
+    "AI智慧滾動軸承監測和故障診斷Deep learning-based rolling bearing monitoring and fault diagnosis method",
+    "人工智能醫療應用人工智能醫療應用",
+    "智慧載具運動軌跡控制系统Smart Vehicle Motion Trajectory Control Ssystem"
+  ],
+  "edu": [
+    "國立彰化師範大學 機電工程學系 博士",
+    "國立彰化師範大學 機電工程學系 碩士"
+  ],
+  "fcuExp": [
+    "共同貴重儀器中心 主任",
+    "產學經營與人才培育中心 主任",
+    "薄膜暨量測技術發展中心 副主任",
+    "產學經營與人才培育中心 主任",
+    "自動控制工程學系 助理教授",
+    "自動控制工程學系 副教授"
+  ],
+  "currjob": [],
+  "otherExp": [
+    "朝陽科技大學 資訊工程學系 助理教授",
+    "中山醫學大學 醫務管理學系 助理教授",
+    "勤益科技大學 工業工程學系 助理教授"
+  ],
+  "journal": [
+    {
+      "論文名稱": "HPDH-MI:AHighPayloadDataHiding Technique for Medical Images Based on AMBTC",
+      "期刊名稱": "Symmetry (SCIE)",
+      "作者群": "Chia-Chen Lin,* , Mostafa Mirzaei, En-Ting Chu and Chen Chih Cheng*"
+    },
+    {
+      "論文名稱": "Insight into the Impact of Electron Drift Trajectory on Charge Collection in Silicon Drift Detector",
+      "期刊名稱": "Journal of the Electrochemical Society (SCIE)",
+      "作者群": "Rongrong Guo, Yujia Peng, Huixiang Huang, Chih-Ching Chen* andTsung-Yi Chen"
+    },
+    {
+      "論文名稱": "AIoT-enabled defect detection with minimal data: A few-shot learning approach combining prototypical and relational networks for smart manufacturing",
+      "期刊名稱": "Internet of Things (SCIE)",
+      "作者群": "Chih-Cheng Chen * ,  Hsien-Yang Liao  ,  Chun-You Liu"
+    },
+    {
+      "論文名稱": "Heart Murmur Classification Using a Capsule Neural Network",
+      "期刊名稱": "Bioengineering (SCIE)",
+      "作者群": "Tsai, Yu-Ting, Yu-Hsuan Liu, Zi-Wei Zheng, Chih-Cheng Chen, and Ming-Chih Lin"
+    },
+    {
+      "論文名稱": "Object Pose Estimation and Feature Extraction Based on PVNet",
+      "期刊名稱": "IEEE Access (SCIE)",
+      "作者群": "Yi-Hsiang Kao, Ching-Kun Chen*, Chin-Cheng Chen, and Chen-Yen Lan"
+    },
+    {
+      "論文名稱": "Intelligent Healthcare System Using Mathematical Model and Simulated Annealing to Hide Patients Data in the Low-Frequency Amplitude of ECG Signals",
+      "期刊名稱": "Sensors (SCIE)",
+      "作者群": "Chih-Yu Hsu ,Chih-Cheng Chen *,Chun-You Liu ,Shuo-Tsung Chen  and Shu-Yi Tu"
+    },
+    {
+      "論文名稱": "Bearing Fault Diagnosis Based on Frequency Subbands Feature\nExtraction and Multibranch One-Dimension Convolutional\nNeural Network",
+      "期刊名稱": "Scientific Programming (SCIE)",
+      "作者群": "Chih-Cheng Chen  and Po-Yi Liu"
+    },
+    {
+      "論文名稱": "Mathematical and Computational Modeling of Inversion of Iron Content Mining in Tailings Reservoir Using Unmanned-aerial-vehicle-enabled Hyperspectral Imaging",
+      "期刊名稱": "Sensors and Materials (SCIE)",
+      "作者群": "Hui-wei Su, Zhongzheng Hu, Ri-hui Tan, Chih-Cheng Chen*, Avinash Shankaranarayanan, Xi Wang, Nan-Kai Hsieh, and Sheng-Nan Tsai"
+    },
+    {
+      "論文名稱": "Automated Classification System for Tick-Bite Defect on Leather",
+      "期刊名稱": "Mathematical Problems in Engineering  (SI: Mathematical Problems of Applied System Innovations for IoT Applications) (SCIE)",
+      "作者群": "Y. S. Gan, Wei-Chuen Yau, Sze-Teng Liong , and Chih-Cheng Chen*"
+    },
+    {
+      "論文名稱": "Automated Classification System for Tick Bite Defect on Leather",
+      "期刊名稱": "Mathematical Problems in Engineering (SCIE)",
+      "作者群": "Yee-Siang Gan, Wei-Chuen Yau, Sze-Teng Liong*, Chih-Cheng Chen*"
+    },
+    {
+      "論文名稱": "Hyperspectral Image Classification Based on Visible–Infrared Sensors and Residual Generative Adversarial Networks",
+      "期刊名稱": "Sensors and Materials (SSCI,SCIE,Web of Science; Scopus)",
+      "作者群": "Hui-Wei Su, Ri-hui Tan, Chih-Cheng Chen, Zhongzheng Hu and Avinash Shankaranarayanan*"
+    },
+    {
+      "論文名稱": "EfficientNet: A Low-bandwidth IoT Image Sensor Framework for Cassava Leaf Disease Classification",
+      "期刊名稱": "Sensors and Materials (SCIE)",
+      "作者群": "Chih-Cheng Chen, Ju Yan Ba, Tie Jun Li, Christopher Chun Ki Chan, Kun-Ching Wang* (通訊作者), and Zhen Liu"
+    },
+    {
+      "論文名稱": "Design of Multi-Receptive Field Fusion-Based Network for Surface Defect Inspection on Hot-Rolled Steel Strip Using Lightweight Dataset",
+      "期刊名稱": "Applied Sciences (SCIE)",
+      "作者群": "Wei-Peng Tang, Sze-Teng Liong, Chih-Cheng Chen, Ming-Han Tsai, Ping-Cheng Hsieh, Yu-Ting Tsai, Shih-Hsin Chen and Kun-Ching Wang*"
+    },
+    {
+      "論文名稱": "Influence Maximization Algorithm Based on Reverse Reachable Set",
+      "期刊名稱": "Mathematical Problems in Engineering (SCIE)",
+      "作者群": "Gengxin Sun and Chih-Cheng Chen *"
+    },
+    {
+      "論文名稱": "Analysis of functional brain network based on electroencephalography and complex network",
+      "期刊名稱": "MICROSYSTEM TECHNOLOGIES-MICRO-AND NANOSYSTEMS-INFORMATION STORAGE AND PROCESSING SYSTEMS (SCIE)",
+      "作者群": "Sheng Bin , Gengxin Sun and Chih Cheng Chen"
+    },
+    {
+      "論文名稱": "Electric Podded Propulsor Propeller with Control Algorithm of Boat Based on Data Processing from Sensors",
+      "期刊名稱": "Sensors and Materials (SCIE)",
+      "作者群": "Suwen Li, Wanneng Yu* ,Chih-Cheng Chen** and Christopher Chun Ki Chan"
+    },
+    {
+      "論文名稱": "High-Capacity Reversible Data Hiding in Encrypted Images Based on Prediction Error Compression and Block Selection",
+      "期刊名稱": "Security and Communication Networks (SCIE)",
+      "作者群": "Xu Wang , Li-Yao Li, Ching-Chun Chang ,  and Chih-Cheng Chen"
+    },
+    {
+      "論文名稱": "A hybrid-Sudoku based fragile watermarking scheme for image tampering detection",
+      "期刊名稱": "Multimedia Tools and Applications (SCIE)",
+      "作者群": "Guo-Dong Su, Chin-Chen Chang and Chih-Cheng Chen"
+    },
+    {
+      "論文名稱": "Study of cascading failure in multisubnet composite complex networks",
+      "期刊名稱": "Symmetry (SCIE)",
+      "作者群": "Gengxin Sun*,Chih-Cheng Chen* and Sheng Bin"
+    },
+    {
+      "論文名稱": "Multistep Prediction of Bus Arrival Time with the Recurrent Neural Network",
+      "期刊名稱": "Mathematical Problems in Engineering (SCIE)",
+      "作者群": "Zhi-ying Xie, Yuan-Rong He, Chih-Cheng Chen*, Qingquan Li and Chia-Chun Wu"
+    },
+    {
+      "論文名稱": "An Improved Fault Diagnosis Using 1D-Convolutional Neural\nNetwork Model",
+      "期刊名稱": "Electronics (SCIE)",
+      "作者群": "Chih-Cheng Chen, Zhen Liu , Guangsong Yang*, Chia-Chun Wu* and Qiubo Ye"
+    },
+    {
+      "論文名稱": "Research on Image Steganography Based on Sudoku Matrix",
+      "期刊名稱": "Symmetry (SCIE)",
+      "作者群": "Tsung-Chih Hsiao, Dong-Xu Liu, Tzer-Long Chen* and Chih-Cheng Chen*"
+    },
+    {
+      "論文名稱": "High-capacity reversible data hiding in encrypted image based on Huffman coding and differences of high nibbles of pixels",
+      "期刊名稱": "Journal of Visual Communication and Image Representation (SCIE)",
+      "作者群": "Chih-Cheng Chen,Chin-Chen Chang and Kaimeng Chen*"
+    },
+    {
+      "論文名稱": "Smart Device Monitoring System Based on Multi-type Inertial Sensor Machine Learning",
+      "期刊名稱": "Sensors and Materials (SCIE)",
+      "作者群": "Yingqi Zeng, Chen Wang* ,Chih-Cheng Chen** ,Wang-Ping Xiong, Zhen Liu, Yu-Chun Huang, and Chaochao Shen"
+    },
+    {
+      "論文名稱": "High-capacity Reversible Data Hiding in Encrypted Image Based on Huffman Coding and Differences of High Nibbles of Pixels",
+      "期刊名稱": "Journal of Visual Communication and Image Representation (SCIE)",
+      "作者群": "Chen, C. C., Chang, C. C. and Chen, K.*"
+    },
+    {
+      "論文名稱": "Effect of Center of Mass on Vibration-sensing Technology for Diesel Engine",
+      "期刊名稱": "Sensors and Materials (SCIE)",
+      "作者群": "Jianbin Liao, HongLiang Yu, Yuchao Song, Xueping Guo and Chih-Cheng Chen"
+    },
+    {
+      "論文名稱": "Content-based image copy detection using Inception convolutional neural network",
+      "期刊名稱": "Electronics (SCIE)",
+      "作者群": "Xiaolong Liu , Jinchao Liang , Zi-Yi Wang, Yi Te Tsai, Chia-Chen Lin* and Chih-Cheng Chen*"
+    },
+    {
+      "論文名稱": "Computed Tomography Image Recognition with Convolutional Neural Network Using Wearable Sensors",
+      "期刊名稱": "Sensors and Materials (SCIE)",
+      "作者群": "Yuqing He, Lei Lei, Guangsong Yang, Chin-Cheng Chen*, Christopher Chun Ki Chan, and Kuei-Kuei Lai"
+    },
+    {
+      "論文名稱": "A Secure IoT-Based Authentication System in Cloud Computing Environment",
+      "期刊名稱": "Sensors (SCIE)",
+      "作者群": "Hsiao-Ling Wu, Chin-Chen Chang, Yao-zZhu Zheng, Long-sSheng Chen and Chih-Cheng Chen*"
+    }
+  ],
+  "journal2": [],
+  "conference": [
+    {
+      "論文名稱": "Fault Diagnosis System Based on Convolutional Neural Network for Multimodal Sensor Fusion in an Automated High-Low Frequency Test Process Integration Platform",
+      "會議名稱": "2024 7th International Conference on Knowledge Innovation and Invention 2024 (ICKII 2024)",
+      "作者群": "Huang Tsung-Yi,Chih−Cheng Chen*"
+    },
+    {
+      "論文名稱": "Optimization of Ionic Liquid-Cellulose Hydrolysis for Glucose Extraction Using Regression Analysis and Particle Swarm Optimization",
+      "會議名稱": "IEEE 10th International Conference on Applied System Innovation (IEEE ICASI 2024)",
+      "作者群": "Chih-Ching Chen*, Po-Yuan Yang, Yu-Cheng Liao, Huang Tsung-Yi, Yi-Song Yan"
+    },
+    {
+      "論文名稱": "Digitizing Expert Manufacturing Experience with AI Detection Techniques and RGB-D Sensors",
+      "會議名稱": "6th IEEE Eurasian Conference on Educational Innovation 2023",
+      "作者群": "Chiu-Hung Chen,Jhih-Cheng Chen,Cai-Jhao Tsai"
+    },
+    {
+      "論文名稱": "Study of intelligent waste management system based on CNN and\nInternet of Things",
+      "會議名稱": "2022生態型市民農園學術論文暨成果觀摩研討會---學術論文",
+      "作者群": "FU-YU-CHAING , JUN-MIN-LIN , YU-HAO-CHANG and Chih Cheng Chen"
+    },
+    {
+      "論文名稱": "Intelligent fault diagnosis based on multi-resolution and one-dimension convolutional neural networks",
+      "會議名稱": "International Conference on System Science and Engineering (ICSSE)",
+      "作者群": "Liu, P.-Y., Chen, C.-C., Liong, S.-T., ...Hsieh, P.-C., Wang, K.-C."
+    },
+    {
+      "論文名稱": "Lower Limbs EMG Signal Analysis for Bottom Group of Muscles Fitness Norm Before and After Intensive Exercise",
+      "會議名稱": "2021 IEEE 3rd Eurasia Conference on Biomedical Engineering, Healthcare and Sustainability (ECBIOS 2021)",
+      "作者群": "Ching-Kun Chen*, Shyan-Lung Lin, Tasi-Chu Wang, Chih-Cheng Chen, Yang-Si Huang, and Chieh-Liang Wu"
+    },
+    {
+      "論文名稱": "Policy and Value Deep RL for Temporal Language-Agnostic Street Image Captioning",
+      "會議名稱": "2021 IEEE 3rd Eurasia Conference on Biomedical Engineering, Healthcare and Sustainability (ECBIOS)",
+      "作者群": "Christopher Chun Ki Chan; Chih-Cheng Chen; Steven Delaney; Cheng-Fu Yang"
+    },
+    {
+      "論文名稱": "A markerless high resolution structural health monitoring framework for smart cities",
+      "會議名稱": "2021 IEEE Technology & Engineering Management Conference – Europe",
+      "作者群": "Christopher Chun Ki Chan; Chih-Cheng Chen; Steven Delaney; Alexander Ferworn"
+    }
+  ],
+  "book": [],
+  "patent": [],
+  "most": [
+    {
+      "name": "基於多核模型對大型圖片的瑕疵檢測整合系統",
+      "schoolYear": "113"
+    },
+    {
+      "name": "智慧化複合生質料源產製氫烷氣/生物塑料之系統開發與全生命週期減碳評估(2/2)",
+      "schoolYear": "112"
+    },
+    {
+      "name": "基於小樣本學習演算法應用於3D瑕疵檢測",
+      "schoolYear": "112"
+    },
+    {
+      "name": "智慧化複合生質料源產製氫烷氣/生物塑料之系統開發與全生命週期減碳評估(1/2)",
+      "schoolYear": "111"
+    },
+    {
+      "name": "(個別型)產學合作計畫－利用機器學習於智慧型複合式刀座之故障診斷與健康度預測",
+      "schoolYear": "111"
+    },
+    {
+      "name": "(個別型)產學合作計畫－運用機器學習及深度學習於TFT-LCD 組裝廠之自動化產線AOI 瑕疵檢測",
+      "schoolYear": "111"
+    },
+    {
+      "name": "(廠配)勤友光電股份有限公司(個別型)產學合作計畫－運用機器學習及深度學習於TFT-LCD 組裝廠之自動化產線AOI 瑕疵檢測",
+      "schoolYear": "111"
+    },
+    {
+      "name": "(廠配)豪力輝工業股份有限公司(個別型)產學合作計畫－利用機器學習於智慧型複合式刀座之故障診斷與健康度預測",
+      "schoolYear": "111"
+    },
+    {
+      "name": "運用機聯網技術之TPMS自動化高低頻測試製程整合平台開發計畫",
+      "schoolYear": "111"
+    },
+    {
+      "name": "基於深度學習的滾動軸承監測和故障診斷方法",
+      "schoolYear": "111"
+    },
+    {
+      "name": "逢甲大學基礎研究核心設施共同使用服務計畫(2/5)",
+      "schoolYear": "110"
+    },
+    {
+      "name": "(個別型)產學合作計畫－利用AI卷積神經網路分析異常音頻訊號-以機台故障診斷為例",
+      "schoolYear": "110"
+    },
+    {
+      "name": "(廠配)高明精機工業股份有限公司(個別型)產學合作計畫－利用AI卷積神經網路分析異常音頻訊號-以機台故障診斷為例",
+      "schoolYear": "110"
+    },
+    {
+      "name": "逢甲大學基礎研究核心設施共同使用服務計畫(1/5)",
+      "schoolYear": "109"
+    }
+  ],
+  "tech": [],
+  "induAca": [
+    "台南零廢熱回收廠整體評估案顧問服務之熱回收鍋爐技術及循環經濟相關訓練諮詢等工作 (2024-05 to 2024-12)",
+    "HUD車用光學元件模具技術升級與綠色製程研發 (2024-02 to 2024-11)",
+    "鋁電解電容用材料合成及智慧製造研發先期計畫 (2024-01 to 2024-06)",
+    "內徑研磨製程之智慧產線供應鏈開發計畫 (2023-08 to 2024-07)",
+    "(榮富)(陳志成)溫室氣體盤查服務計畫 (2023-05 to 2023-10)",
+    "(陳志成)溫室氣體盤查服務計畫(訂購單號3000745981) (2023-05 to 2023-10)",
+    "C5E廠基於SLAM導引之牙叉式AGV開發驗證 (2023-03 to 2024-06)",
+    "辦理企業碳盤查應用(滿益金) (2022-07 to 2022-10)",
+    "能源管理系統建置與輔導計畫 (2022-06 to 2022-12)",
+    "數位製造管理產業聚落交流(採購單號3000702485) (2022-04 to 2022-10)",
+    "FCU-C6C-05-Hirata_Robot生產節能參數量佳化預測 (2022-04 to 2023-03)",
+    "籌春興業有限公司委託試驗 (2022-01 to 2024-12)",
+    "共儀中心委託試驗收入(110年11月1日至111年1月31日) (2021-11 to 2022-01)",
+    "共儀中心委託試驗收入1100802-1101027 (2021-08 to 2021-10)",
+    "共儀中心委託試驗(20210504-20210728) (2021-05 to 2021-07)"
+  ],
+  "perform": [],
+  "reward": [
+    "113年度國科會補助大專校院研究獎勵 (113, 2024-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (113, 2024-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (113, 2024-11) - 逢甲大學",
+    "112年度國科會補助大專校院研究獎勵 (112, 2023-12) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (111, 2022-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (111, 2022-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (111, 2022-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (111, 2022-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (111, 2022-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (111, 2022-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (111, 2022-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (111, 2022-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (111, 2022-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (111, 2022-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (111, 2022-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (111, 2022-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (111, 2022-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (111, 2022-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (111, 2022-11) - 逢甲大學"
+  ],
+  "speech": [
+    {
+      "演講題目": "AI生成融入課堂教學之應用",
+      "邀請單位": "景文科技大學 行政大樓1樓 AB103未來教室",
+      "演講日期": "2025-04"
+    },
+    {
+      "演講題目": "生成式AI於Python程式設計課程教學任務的分享",
+      "邀請單位": "高雄醫學大學",
+      "演講日期": "2025-02"
+    },
+    {
+      "演講題目": "探索生成式AI對資訊教育工作者發展與教學設計的協作工具",
+      "邀請單位": "[教育部提升大學通識計畫] 全國交流會演講:",
+      "演講日期": "2024-11"
+    },
+    {
+      "演講題目": "AI生成融入課堂教學之應用",
+      "邀請單位": "逢甲大學教學研發中心",
+      "演講日期": "2023-05"
+    },
+    {
+      "演講題目": "如何善用政府資源申請補助－中小企業年度教育訓練方案",
+      "邀請單位": "台中扶輪社",
+      "演講日期": "2022-10"
+    },
+    {
+      "演講題目": "應用AI演算法於中小企業在節能減碳的技術發展",
+      "邀請單位": "台灣機械公會台中林酒店",
+      "演講日期": "2022-08"
+    },
+    {
+      "演講題目": "AI生產節能參數最佳化之應用",
+      "邀請單位": "逢甲大學 碳中和與服務中心",
+      "演講日期": "2022-07"
+    },
+    {
+      "演講題目": "The application of AI in energy conservation and carbon reduction",
+      "邀請單位": "逢甲大學碳中和聯盟 第九國際會議廳",
+      "演講日期": "2022-06"
+    },
+    {
+      "演講題目": "AI人工智慧對職涯的發展",
+      "邀請單位": "靜宜大學",
+      "演講日期": "2022-04"
+    },
+    {
+      "演講題目": "探索AI人工智慧時代的產業變遷",
+      "邀請單位": "靜宜大學",
+      "演講日期": "2022-03"
+    },
+    {
+      "演講題目": "如何讓學生愛上學習",
+      "邀請單位": "靜宜大學",
+      "演講日期": "2021-09"
+    },
+    {
+      "演講題目": "如何應用教學互動軟體實踐於課堂並運用核心能力指標提升學習成效",
+      "邀請單位": "靜宜大學",
+      "演講日期": "2021-06"
+    },
+    {
+      "演講題目": "基於1D-CNN改進的軸承故障診斷方法",
+      "邀請單位": "逢甲大學自動控制研究所",
+      "演講日期": "2021-03"
+    },
+    {
+      "演講題目": "人工智能在醫療應用",
+      "邀請單位": "東海大學資訊管理研究所",
+      "演講日期": "2020-12"
+    }
+  ],
+  "material": [],
+  "tal": []
+}

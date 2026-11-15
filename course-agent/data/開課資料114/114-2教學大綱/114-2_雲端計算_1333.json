@@ -1,0 +1,847 @@
+{
+  "success": true,
+  "info": {
+    "yms_year": 114.0,
+    "yms_smester": 2.0,
+    "sub_id": "39622",
+    "cls_id": "CE07310",
+    "scr_dup": "001",
+    "sub_id3": "IECS6077",
+    "cls_name": "資訊碩一",
+    "cls_ename": "Master's Program, Department of Information Engineering and Computer Science",
+    "sub_name": "雲端計算",
+    "sub_ename": "CLOUD COMPUTING",
+    "scr_mso": "選修",
+    "scr_mso_en": "Elective",
+    "scr_credit": 3.0,
+    "scr_periodly": "(一)06-08",
+    "scr_periodly_eng": "(Mon)06-08",
+    "lang_name": "中文                                                      ",
+    "lang_ename": "Chinese",
+    "scr_room": "V019教室(共善樓)",
+    "scr_room_eng": "V019",
+    "scr_teacher": "竇其仁",
+    "scr_teacher_eng": "Chyi-Ren Dow",
+    "scr_selcode": "1333",
+    "scr_elearning": "全學期",
+    "scr_elearning_en": "Full semester",
+    "scr_hours": "3",
+    "scr_english": "N",
+    "unt_name": null,
+    "unt_ename": null,
+    "link_traminal": null,
+    "link_traminal_en": null,
+    "scr_ldl": "D",
+    "course_mk": "0",
+    "teams_mk": "N",
+    "sub_title": null,
+    "sub_title_en": null,
+    "sub_describe": null,
+    "sub_describe_en": null,
+    "hasDescription": null,
+    "hasInstructor": null,
+    "hasTA": null,
+    "hasTextBooks": null,
+    "hasReadings": null,
+    "hasiSoftwares": null,
+    "hasAssistSoftwares": null,
+    "hasObjective": null,
+    "hasWeeklyScds": null,
+    "hasGradeRules": null,
+    "hasGradeRuleDescribe": null,
+    "hasIntegrity": null,
+    "hasCoursePol": null,
+    "hasCourseRem": null,
+    "hasObjectiveReleation": null,
+    "hasTopicSdgs": null,
+    "hasTopicAiIndicators": null,
+    "hasSubTitleDesc": null
+  },
+  "subTitleDesc": {
+    "yms_year": 114.0,
+    "yms_smester": 2.0,
+    "cls_id": "CE07310",
+    "sub_id": "39622",
+    "scr_dup": "001",
+    "sub_title": "Cloud Computing",
+    "sub_title_en": null,
+    "sub_describe": "AWS Academy Cloud Foundations\nAWS Services for Associate Cloud Architect",
+    "sub_describe_en": null
+  },
+  "description": {
+    "sub_id3": null,
+    "sub_name": "雲端計算",
+    "sub_ename": "CLOUD COMPUTING",
+    "describe_ch": "雲端計算是一種由網際網提供的服務，且具有動態擴展及虛擬資源的計算形式。使用者通常不需要知曉支援這些服務的控制、技術、和基礎架構。雲端計算的基本觀念是結合基礎架構為服務、平台為服務、軟體為服務、與及其它的網路新進技術。雲端計算的服務通常是而軟體與資料存放於伺服器中，並透過網路瀏覽器提供一般的線上商業應用。",
+    "describe_eh": "Cloud computing is a style of computing in which dynamically scalable and often virtualized resources are provided as a service over the Internet. Users need not have knowledge of, expertise in, or control over the technology infrastructure \"in the cloud\" that supports them. The concept incorporates infrastructure as a service (IaaS), platform as a service (PaaS) and software as a service (SaaS) as well as other recent technology trends that have the common theme of reliance on the Internet for satisfying the computing needs of the users. Cloud computing services usually provide common business applications online that are accessed from a web browser, while the software and data are stored on the servers.",
+    "pre_subname": "",
+    "pre_sub_id3": null,
+    "pre_sub_ename": "",
+    "pre_describe": null,
+    "pre_describe_en": null,
+    "scr_credit": 3.0
+  },
+  "targets": [
+    {
+      "seq": 1,
+      "describe_ch": "瞭解雲端計算的特性",
+      "describe_en": "To understand the characteristics of cloud computing"
+    },
+    {
+      "seq": 2,
+      "describe_ch": "學習雲端計算的平台與技術",
+      "describe_en": "To learn platform and technology of cloud computing"
+    },
+    {
+      "seq": 3,
+      "describe_ch": "研讀雲端計算的實例",
+      "describe_en": "To study practical cases of cloud computing"
+    },
+    {
+      "seq": 4,
+      "describe_ch": "設計雲端設計的應用軟體",
+      "describe_en": "To design application software of cloud computing"
+    }
+  ],
+  "teachersInfo": [
+    {
+      "cname": "竇其仁",
+      "ename": "Chyi-Ren Dow",
+      "period": "(Mon)09  資電308,(Wed)04  資電308,(Wed)06  資電308,(Thu)04  資電308",
+      "roletype": 0,
+      "email": "crdow@o365.fcu.edu.tw",
+      "ext": "3739"
+    }
+  ],
+  "textBooks": {
+    "yms_year": 114.0,
+    "yms_smester": 2.0,
+    "cls_id": "CE07310",
+    "sub_id": "39622",
+    "scr_dup": "001",
+    "tpb_seq": 1,
+    "tpb_book": "<div>AWS 線上教材</div>\n",
+    "tpb_book_en": " "
+  },
+  "readings": {
+    "yms_year": 114.0,
+    "yms_smester": 2.0,
+    "cls_id": "CE07310",
+    "sub_id": "39622",
+    "scr_dup": "001",
+    "tpc_seq": 1,
+    "tpc_book": "<div>AWS 線上教材&amp;上課投影片</div>\n",
+    "tpc_book_en": null
+  },
+  "iSoftwares": [],
+  "assistSoftwares": [],
+  "weeklyScds": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CE07310",
+      "sub_id": "39622",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "1",
+      "tpd_reading": "Introduction",
+      "tpd_reading_en": " ",
+      "tpd_learn": null,
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CE07310",
+      "sub_id": "39622",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "2-3",
+      "tpd_reading": "Cloud Concepts and Infratructure",
+      "tpd_reading_en": " ",
+      "tpd_learn": null,
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CE07310",
+      "sub_id": "39622",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "4-5",
+      "tpd_reading": "Cloud Security and Networking",
+      "tpd_reading_en": " ",
+      "tpd_learn": null,
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CE07310",
+      "sub_id": "39622",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "6-9",
+      "tpd_reading": "Compute and Storage",
+      "tpd_reading_en": " ",
+      "tpd_learn": null,
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CE07310",
+      "sub_id": "39622",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "10-11",
+      "tpd_reading": "Databases and Cloud Arechetecture",
+      "tpd_reading_en": " ",
+      "tpd_learn": null,
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CE07310",
+      "sub_id": "39622",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "12-13",
+      "tpd_reading": "Autoscaling and Monitoring",
+      "tpd_reading_en": " ",
+      "tpd_learn": null,
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CE07310",
+      "sub_id": "39622",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "14-18",
+      "tpd_reading": "Case Studies/ Term Projects",
+      "tpd_reading_en": " ",
+      "tpd_learn": null,
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    }
+  ],
+  "gradeRules": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CE07310",
+      "sub_id": "39622",
+      "scr_dup": "001",
+      "evalb_id": "D2",
+      "score_rate": 30,
+      "evalb_memo": "Final",
+      "evalb_memo_en": null,
+      "evalb_name": "期末考",
+      "evalb_name_en": "Final examination",
+      "seq": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CE07310",
+      "sub_id": "39622",
+      "scr_dup": "001",
+      "evalb_id": "I1",
+      "score_rate": 40,
+      "evalb_memo": "Labs",
+      "evalb_memo_en": null,
+      "evalb_name": "上機操作",
+      "evalb_name_en": "Equipment operation",
+      "seq": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CE07310",
+      "sub_id": "39622",
+      "scr_dup": "001",
+      "evalb_id": "K2",
+      "score_rate": 20,
+      "evalb_memo": "Case Study",
+      "evalb_memo_en": null,
+      "evalb_name": "口頭報告",
+      "evalb_name_en": "Oral presentation",
+      "seq": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CE07310",
+      "sub_id": "39622",
+      "scr_dup": "001",
+      "evalb_id": "L4",
+      "score_rate": 10,
+      "evalb_memo": "Class Participation",
+      "evalb_memo_en": null,
+      "evalb_name": "出席狀況",
+      "evalb_name_en": "Attendances",
+      "seq": 0
+    }
+  ],
+  "gradeRuleDescribe": {
+    "yms_year": 114.0,
+    "yms_smester": 2.0,
+    "cls_id": "CE07310",
+    "sub_id": "39622",
+    "scr_dup": "001",
+    "tpa_score_new": "<div>AWS 實驗, 專題報告 &amp; 期末考 (課程名稱： 雲端計算; 開課學期： 111學年度第2學期; 開課班級： 資訊碩一; 修習別(學分數)： 選修(3); 授課語言 ： 中文) 上課時間： (一)02-04上課地點： 資電311)</div>\n",
+    "tpa_score_new_en": " ",
+    "course_pol": "課堂規則及提醒:教師會依上課型態之需求，將課堂禮儀、網路禮儀、或學生責任等要求同學們來遵守以及注意課堂之禮節及行為。",
+    "course_pol_en": null,
+    "course_rem": null,
+    "course_rem_en": null,
+    "ais_meno": "<div>期望學生在學習評量、在班上互動、在課程結束後的表現等學術誠信的樣態及可能的處分:重視學術誠信與資訊倫理,違反將依學校規定處理.</div>\n",
+    "ais_meno_en": null,
+    "ilearn_mk": null
+  },
+  "integrity": {
+    "yms_year": 114.0,
+    "yms_smester": 2.0,
+    "cls_id": "CE07310",
+    "sub_id": "39622",
+    "scr_dup": "001",
+    "tpa_score_new": "<div>AWS 實驗, 專題報告 &amp; 期末考 (課程名稱： 雲端計算; 開課學期： 111學年度第2學期; 開課班級： 資訊碩一; 修習別(學分數)： 選修(3); 授課語言 ： 中文) 上課時間： (一)02-04上課地點： 資電311)</div>\n",
+    "tpa_score_new_en": " ",
+    "course_pol": "課堂規則及提醒:教師會依上課型態之需求，將課堂禮儀、網路禮儀、或學生責任等要求同學們來遵守以及注意課堂之禮節及行為。",
+    "course_pol_en": null,
+    "course_rem": null,
+    "course_rem_en": null,
+    "ais_meno": "<div>期望學生在學習評量、在班上互動、在課程結束後的表現等學術誠信的樣態及可能的處分:重視學術誠信與資訊倫理,違反將依學校規定處理.</div>\n",
+    "ais_meno_en": null,
+    "ilearn_mk": null
+  },
+  "policy": {
+    "yms_year": 114.0,
+    "yms_smester": 2.0,
+    "cls_id": "CE07310",
+    "sub_id": "39622",
+    "scr_dup": "001",
+    "tpa_score_new": "<div>AWS 實驗, 專題報告 &amp; 期末考 (課程名稱： 雲端計算; 開課學期： 111學年度第2學期; 開課班級： 資訊碩一; 修習別(學分數)： 選修(3); 授課語言 ： 中文) 上課時間： (一)02-04上課地點： 資電311)</div>\n",
+    "tpa_score_new_en": " ",
+    "course_pol": "課堂規則及提醒:教師會依上課型態之需求，將課堂禮儀、網路禮儀、或學生責任等要求同學們來遵守以及注意課堂之禮節及行為。",
+    "course_pol_en": null,
+    "course_rem": null,
+    "course_rem_en": null,
+    "ais_meno": "<div>期望學生在學習評量、在班上互動、在課程結束後的表現等學術誠信的樣態及可能的處分:重視學術誠信與資訊倫理,違反將依學校規定處理.</div>\n",
+    "ais_meno_en": null,
+    "ilearn_mk": null
+  },
+  "courseBankC": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CE07310",
+      "sub_id": "39622",
+      "scr_dup": "001",
+      "seq": 1,
+      "describe_ch": "瞭解雲端計算的特性",
+      "describe_en": "To understand the characteristics of cloud computing",
+      "core_id": "A",
+      "core_item": "學習與運用特定專業領域之數學、科學及工程知識的能力。",
+      "core_eng": "The ability of learing and applying the knowledge of mathematics, science and engineering in specific professional area",
+      "core_level": "2 ",
+      "strgy": [
+        "01",
+        "04",
+        "05"
+      ],
+      "evalb": [
+        "I1",
+        "I2"
+      ],
+      "strgy_name": [
+        "課堂授課",
+        "專題討論",
+        "實驗實習"
+      ],
+      "strgy_name_en": [
+        "Classroom instruction",
+        "Seminar",
+        "Experimental practice"
+      ],
+      "evalb_name": [
+        "上機操作",
+        "實驗操作"
+      ],
+      "evalb_name_en": [
+        "Equipment operation",
+        "Experiment operation"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE07310",
+          "sub_id": "39622",
+          "scr_dup": "001",
+          "seq": 1,
+          "strgy_id": "01",
+          "strgy_name": null,
+          "strgy_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE07310",
+          "sub_id": "39622",
+          "scr_dup": "001",
+          "seq": 1,
+          "strgy_id": "04",
+          "strgy_name": null,
+          "strgy_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE07310",
+          "sub_id": "39622",
+          "scr_dup": "001",
+          "seq": 1,
+          "strgy_id": "05",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE07310",
+          "sub_id": "39622",
+          "scr_dup": "001",
+          "seq": 1,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "I1",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE07310",
+          "sub_id": "39622",
+          "scr_dup": "001",
+          "seq": 1,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "I2",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CE07310",
+      "sub_id": "39622",
+      "scr_dup": "001",
+      "seq": 2,
+      "describe_ch": "學習雲端計算的平台與技術",
+      "describe_en": "To learn platform and technology of cloud computing",
+      "core_id": "A",
+      "core_item": "學習與運用特定專業領域之數學、科學及工程知識的能力。",
+      "core_eng": "The ability of learing and applying the knowledge of mathematics, science and engineering in specific professional area",
+      "core_level": "1 ",
+      "strgy": [
+        "01",
+        "04",
+        "05"
+      ],
+      "evalb": [
+        "I1",
+        "I2"
+      ],
+      "strgy_name": [
+        "課堂授課",
+        "專題討論",
+        "實驗實習"
+      ],
+      "strgy_name_en": [
+        "Classroom instruction",
+        "Seminar",
+        "Experimental practice"
+      ],
+      "evalb_name": [
+        "上機操作",
+        "實驗操作"
+      ],
+      "evalb_name_en": [
+        "Equipment operation",
+        "Experiment operation"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE07310",
+          "sub_id": "39622",
+          "scr_dup": "001",
+          "seq": 2,
+          "strgy_id": "01",
+          "strgy_name": null,
+          "strgy_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE07310",
+          "sub_id": "39622",
+          "scr_dup": "001",
+          "seq": 2,
+          "strgy_id": "04",
+          "strgy_name": null,
+          "strgy_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE07310",
+          "sub_id": "39622",
+          "scr_dup": "001",
+          "seq": 2,
+          "strgy_id": "05",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE07310",
+          "sub_id": "39622",
+          "scr_dup": "001",
+          "seq": 2,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "I1",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE07310",
+          "sub_id": "39622",
+          "scr_dup": "001",
+          "seq": 2,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "I2",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CE07310",
+      "sub_id": "39622",
+      "scr_dup": "001",
+      "seq": 3,
+      "describe_ch": "研讀雲端計算的實例",
+      "describe_en": "To study practical cases of cloud computing",
+      "core_id": "B",
+      "core_item": "創新思考、明辨、構思、歸納與發掘問題的能力。",
+      "core_eng": "The ability of creative thinking, perceiving, conceiving, generalizing and discovering problems",
+      "core_level": "2 ",
+      "strgy": [
+        "04",
+        "09"
+      ],
+      "evalb": [
+        "D5"
+      ],
+      "strgy_name": [
+        "專題討論",
+        "口頭報告"
+      ],
+      "strgy_name_en": [
+        "Seminar",
+        "Oral report"
+      ],
+      "evalb_name": [
+        "期末專題"
+      ],
+      "evalb_name_en": [
+        "Final presentation"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE07310",
+          "sub_id": "39622",
+          "scr_dup": "001",
+          "seq": 3,
+          "strgy_id": "04",
+          "strgy_name": null,
+          "strgy_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE07310",
+          "sub_id": "39622",
+          "scr_dup": "001",
+          "seq": 3,
+          "strgy_id": "09",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE07310",
+          "sub_id": "39622",
+          "scr_dup": "001",
+          "seq": 3,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D5",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CE07310",
+      "sub_id": "39622",
+      "scr_dup": "001",
+      "seq": 4,
+      "describe_ch": "設計雲端設計的應用軟體",
+      "describe_en": "To design application software of cloud computing",
+      "core_id": "C",
+      "core_item": "在特定專業領域上，能夠獨立解決問題的能力。",
+      "core_eng": "The ability of independent problem solving in specific professional area",
+      "core_level": "3 ",
+      "strgy": [
+        "01",
+        "04",
+        "05"
+      ],
+      "evalb": [
+        "I1",
+        "I2"
+      ],
+      "strgy_name": [
+        "課堂授課",
+        "專題討論",
+        "實驗實習"
+      ],
+      "strgy_name_en": [
+        "Classroom instruction",
+        "Seminar",
+        "Experimental practice"
+      ],
+      "evalb_name": [
+        "上機操作",
+        "實驗操作"
+      ],
+      "evalb_name_en": [
+        "Equipment operation",
+        "Experiment operation"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE07310",
+          "sub_id": "39622",
+          "scr_dup": "001",
+          "seq": 4,
+          "strgy_id": "01",
+          "strgy_name": null,
+          "strgy_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE07310",
+          "sub_id": "39622",
+          "scr_dup": "001",
+          "seq": 4,
+          "strgy_id": "04",
+          "strgy_name": null,
+          "strgy_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE07310",
+          "sub_id": "39622",
+          "scr_dup": "001",
+          "seq": 4,
+          "strgy_id": "05",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE07310",
+          "sub_id": "39622",
+          "scr_dup": "001",
+          "seq": 4,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "I1",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE07310",
+          "sub_id": "39622",
+          "scr_dup": "001",
+          "seq": 4,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "I2",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    }
+  ],
+  "topicSdgs": [],
+  "topicAiIndicators": [],
+  "learnHours": {
+    "total": 0.0,
+    "tpdOnlineAsyTotal": 0.0,
+    "tpdOnlineSynTotal": 0.0,
+    "tpdOnlineFaceTotal": 0.0,
+    "asySynInTotalPercent": 0.0
+  },
+  "crossVerYear": 114
+}

@@ -1,0 +1,133 @@
+{
+  "teacherId": "T07056",
+  "name": "游承書",
+  "mainUnit": "工程與科學學院",
+  "detailUnit": "應用數學系",
+  "skill": [
+    "數值分析Numerical Analysis",
+    "計算與應用數學Computational and Applied Ｍathematics",
+    "影像科學Imaging Sciences",
+    "機器學習Machine Learning"
+  ],
+  "edu": [
+    "國立中央大學 數學系 博士"
+  ],
+  "fcuExp": [
+    "應用數學系 助理教授",
+    "應用數學系 副教授"
+  ],
+  "currjob": [],
+  "otherExp": [
+    "國立中央大學 數學系 博士後研究人員"
+  ],
+  "journal": [
+    {
+      "論文名稱": "An entropy-weighted local intensity clustering-based model for segmenting intensity inhomogeneous images",
+      "期刊名稱": "Multimedia Systems (SCIE)",
+      "作者群": "Wei-Ting Liao, Suh-Yuh Yang*, Cheng-Shu You"
+    },
+    {
+      "論文名稱": "A direct-forcing immersed boundary projection method for thermal fluid-solid interaction problems",
+      "期刊名稱": "Advances in Applied Mathematics and Mechanics (SCIE)",
+      "作者群": "Cheng-Shu You, Po-Wen Hsieh, Suh-Yuh Yang*"
+    },
+    {
+      "論文名稱": "A simple and effective multi-focus image fusion method based on local standard deviations enhanced by the guided filter",
+      "期刊名稱": "Displays (SCIE)",
+      "作者群": "Cheng-Shu You and Suh-Yuh Yang*"
+    },
+    {
+      "論文名稱": "Numerical investigation of freely falling objects using direct-forcing immersed boundary method",
+      "期刊名稱": "Mathematics (SCIE)",
+      "作者群": "Cheng-Shu You, Ming-Jyh Chern, Dedy Zulhidayat Noor, and Tzyy-Leng Horng*"
+    },
+    {
+      "論文名稱": "A direct-forcing immersed boundary projection method for simulating the dynamics of freely falling solid bodies in an incompressible viscous fluid",
+      "期刊名稱": "Annals of Mathematical Sciences and Applications (ESCI)",
+      "作者群": "Po-Wen Hsieh, Suh-Yuh Yang*, and Cheng-Shu You*"
+    },
+    {
+      "論文名稱": "A simple direct-forcing immersed boundary projection method with prediction-correction for fluid-solid interaction problems",
+      "期刊名稱": "Computers & Fluids (SCIE)",
+      "作者群": "Tzyy-Leng Horng, Po-Wen Hsieh, Suh-Yuh Yang*, Cheng-Shu You"
+    },
+    {
+      "論文名稱": "A mixed H1-conforming finite element method for solving Maxwell's equations with non-H1 solution",
+      "期刊名稱": "SIAM Journal on Scientific Computing (SCIE)",
+      "作者群": "Huo-Yuan Duan*, Roger Choon Ee Tan, Suh-Yuh Yang*, and Cheng-Shu You"
+    },
+    {
+      "論文名稱": "A robust finite difference scheme for strongly coupled systems of singularly perturbed convection-diffusion equations",
+      "期刊名稱": "Numerical Methods for Partial Differential Equations (SCIE)",
+      "作者群": "Po-Wen Hsieh, Suh-Yuh Yang*, and Cheng-Shu You"
+    },
+    {
+      "論文名稱": "A novel technique for constructing difference schemes for systems of singularly perturbed equations",
+      "期刊名稱": "Communications in Computational Physics (SCIE)",
+      "作者群": "Po-Wen Hsieh, Yintzer Shih, Suh-Yuh Yang*, and Cheng-Shu You"
+    },
+    {
+      "論文名稱": "An SPD stabilized finite element method for Stokes equations",
+      "期刊名稱": "IMA Journal of Numerical Analysis (SCIE)",
+      "作者群": "Huo-Yuan Duan, Roger Choon Ee Tan, Suh-Yuh Yang, and Cheng-Shu You"
+    },
+    {
+      "論文名稱": "An unconditionally energy stable penalty immersed boundary method for simulating the dynamics of an inextensible interface interacting with a solid particle",
+      "期刊名稱": "Journal of Scientific Computing (SCIE)",
+      "作者群": "Po-Wen Hsieh, Ming-Chih Lai, Suh-Yuh Yang*, and Cheng-Shu You"
+    },
+    {
+      "論文名稱": "A high-accuracy finite difference scheme for solving reaction-convection-diffusion problems with a small diffusivity",
+      "期刊名稱": "Advances in Applied Mathematics and Mechanics (SCIE)",
+      "作者群": "Po-Wen Hsieh, Suh-Yuh Yang*, and Cheng-Shu You"
+    },
+    {
+      "論文名稱": "Computation of Maxwell singular solution by nodal-continuous elements",
+      "期刊名稱": "Journal of Computational Physics (SCIE)",
+      "作者群": "Huo-Yuan Duan, Roger Choon Ee Tan, Suh-Yuh Yang*, and Cheng-Shu You"
+    }
+  ],
+  "journal2": [],
+  "conference": [
+    {
+      "論文名稱": "Developing machine learning models for membrane bioreactor in a full-scale wastewater treatment plant.",
+      "會議名稱": "The 13th International Congress on Membranes and Membrane Progresses (ICOM 2023)",
+      "作者群": "Cheng-Shu You, Tzyy-Leng Allen Horng, Justin Chun-Te Lin (林俊德)*"
+    },
+    {
+      "論文名稱": "Developing machine learning models of two anaerobic granular sludge bioreactors for whiskey distillery wastewater treatment",
+      "會議名稱": "2023 International Conference on Environmental Quality Concern,  Control and Conservation",
+      "作者群": "Cheng-Shu You , Justin Chun-Te Lin (林俊德)*"
+    },
+    {
+      "論文名稱": "Developing machine learning models of two anaerobic granular sludge bioreactors for whiskey distillery wastewater treatment",
+      "會議名稱": "2023 International Conference on Environmental Quality Concern, Control and Conservation",
+      "作者群": "Cheng-Shu You, Justin Chun-Te Lin*"
+    },
+    {
+      "論文名稱": "A direct-forcing immersed boundary projection method for simulating the dynamics of freely falling solid bodies in an incompressible viscous fluid",
+      "會議名稱": "The 14th SIAM East Asian Section Conference (EASIAM2019)",
+      "作者群": "Po-Wen Hsieh, Suh-Yuh Yang, and Cheng-Shu You"
+    },
+    {
+      "論文名稱": "A finite difference scheme for strongly coupled systems of singularly perturbed equations",
+      "會議名稱": "2018 Taiwan Mathematical Society Annual Meeting",
+      "作者群": "Po-Wen Hsieh, Suh-Yuh Yang, and Cheng-Shu You"
+    },
+    {
+      "論文名稱": "A direct-forcing immersed boundary projection method for fluid-solid interaction problems",
+      "會議名稱": "The 13th SIAM East Asian Section Conference (EASIAM 2018)",
+      "作者群": "Tzyy-Leng Horng, Po-Wen Hsieh, Suh-Yuh Yang, Cheng-Shu You"
+    }
+  ],
+  "book": [],
+  "patent": [],
+  "most": [],
+  "tech": [],
+  "induAca": [],
+  "perform": [],
+  "reward": [],
+  "speech": [],
+  "material": [],
+  "tal": []
+}

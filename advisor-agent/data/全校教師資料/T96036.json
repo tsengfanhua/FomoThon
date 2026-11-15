@@ -1,0 +1,2280 @@
+{
+  "teacherId": "T96036",
+  "name": "沈昭元",
+  "mainUnit": "資訊電機學院",
+  "detailUnit": "電機工程學系",
+  "skill": [
+    "天線設計Antenna Design",
+    "電磁傳播Electromagnetic Wave Propagation",
+    "無線射頻辨識技術Radio Frequency Indentification",
+    "5G 毫米波天線設計5G mmWave Antenna Design"
+  ],
+  "edu": [
+    "University of Leicester Radio System/Engineering  Department 博士",
+    "University of Leicester Electrical and Electronic Engineering/En 學士",
+    "Singapore Polytechnic Electrical Engineering "
+  ],
+  "fcuExp": [
+    "資訊電機學院 秘書",
+    "產業研發碩士專班 執行長",
+    "天線暨微波電路創新研究中心 主任",
+    "智慧聯網產業博士學位學程(籌備) 主任",
+    "產業研發碩士專班 主任",
+    "智慧聯網產業博士學位學程 主任",
+    "電機工程學系 系主任",
+    "天線暨微波電路創新研究中心 主任",
+    "逢甲大學帆宣智慧城市5G實驗室 研究員",
+    "電機工程學系 副教授",
+    "電機工程學系 教授",
+    "電機工程學系 特聘教授",
+    "電機工程學系 特聘教授",
+    "電機工程學系 特聘教授"
+  ],
+  "currjob": [],
+  "otherExp": [
+    "建國科技大學 電腦與通訊工程系 副教授",
+    "建國科技大學 電腦與通訊工程系 助理教授",
+    "Western Digital Failure Analysis Department FA Engineer",
+    "Western Digital Test Engineering Asist.Engineer",
+    "Seagate Technology Debug Engineering Asist.Engineer"
+  ],
+  "journal": [
+    {
+      "論文名稱": "An Aperture-Shared Vehicular Antenna With Large Frequency Ratio and Pattern Diversity for Future 5G Millimeter-Wave and DSRC Applications",
+      "期刊名稱": "IEEE Transaction on Vehicular Technology (SSCI,EI)",
+      "作者群": "Botao Feng, Haoming Li, Liwei Rao, Xiao Ding, Chow-Yen-Desmond Sim*, Kwok L. Chung"
+    },
+    {
+      "論文名稱": "Joint Microwave and Millimeter-Wave Antenna Design for UAV-Enabled Communications",
+      "期刊名稱": "IEEE Transactions on Industrial Informatics (SSCI,EI)",
+      "作者群": "Xujun Yang, Gang Zhang, Yuan Ji, Zhuowei Zhang, Lei Ge*, Chow-Yen-Desmond Sim, and Wenlong He"
+    },
+    {
+      "論文名稱": "A Two-Port RF Device Integrating Dual-Polarized Filtenna and Bandpass Filter Functions With Independent Reconfigurability",
+      "期刊名稱": "IEEE Transactions on Antennas and Propagation (SSCI,EI)",
+      "作者群": "Ri-Yao Guo, Qing-Yi Guo*, Yue Zhao, Peicong Chen, Xujun Yang, Yao Zhang, Chow-Yen-Desmond Sim, and Lei Ge"
+    },
+    {
+      "論文名稱": "Fringing Aperture Modulation of Transverse Electric Mode Excited Microstrip Antenna for Wireless Underground Sensor Networks",
+      "期刊名稱": "IEEE Transactions on Antennas and Propagation (SSCI,EI)",
+      "作者群": "Sarath K. Annavarapu, Abhijyoti Ghosh, L. Lolit K. Singh, Subdipta Chattopadhyay*, and Chow-Yen-Desmond Sim"
+    },
+    {
+      "論文名稱": "A Dual-CP Quad-Port MIMO Antenna With Reduced Mutual Coupling for X-Band Application",
+      "期刊名稱": "IEEE Antennas and Wireless Propagation Letters (SSCI,EI)",
+      "作者群": "Jayshri Kulkarni*, Chow-Yen-Desmond Sim, Brian Garner, and Yang Li"
+    },
+    {
+      "論文名稱": "Design of a Broadband Millimeter-Wave Array Antenna for 5G Applications",
+      "期刊名稱": "IEEE Antennas and Wireless Propagation Letters (SCIE)",
+      "作者群": "Chow-Yen-Desmond Sim*, Jeng-Jr Lo, and Zhi Ning Chen"
+    },
+    {
+      "論文名稱": "Circularly polarized three-element MIMO antenna with diversity and polarization reconfigurability techniques",
+      "期刊名稱": "AEU-International Journal of Electronics and Communications (SCIE)",
+      "作者群": "Rahul Kumar Jaiswal*, Ranjit Kumar Dutta, Gourab Das, Anuj Kumar Ojha, Chow-Yen-Desmond Sim, and Kumar Vaibhav Srivastava"
+    },
+    {
+      "論文名稱": "A Compact Vehicle-Mounted Garden-Themed Artistic Antenna With Isolation Improvement for 2G/3G/LTE/5G Sub-6-GHz/WiFi/Bluetooth Communications",
+      "期刊名稱": "IEEE Transactions on Vehicular Technology (SCIE)",
+      "作者群": "Botao Feng, Baifa Yang, Chow-Yen-Desmond Sim*, Li Deng, Zhengdong Zhou, and Xiao Ding"
+    },
+    {
+      "論文名稱": "A Dual-Polarized Shared-Aperture Antenna with Conical Radiation Patterns and High Gain for 5G Millimeter-Wave Ceiling Communications",
+      "期刊名稱": "IEEE Transactions on Antennas and Propagation (SCIE)",
+      "作者群": "Botao Feng, Jiexin Lai, Liangying Li, Chow-Yen-Desmond Sim*, Li Deng, and Xiao Ding"
+    },
+    {
+      "論文名稱": "Wideband Monopole Eight-Element MIMO Antenna for 5G Mobile Terminal",
+      "期刊名稱": "IEEE Access (SCIE)",
+      "作者群": "Anju Kumari Rai, Rahul Kumar Jaiswal, Kahani Kumari, Kuma Vaibhav Srivastava, Chow-Yen-Desmond Sim*"
+    },
+    {
+      "論文名稱": "Low-Profile Laptop Antenna Design for Wi-Fi 6E Band",
+      "期刊名稱": "IEEE Antennas and Wireless Propagation Letters (SCIE)",
+      "作者群": "Chow-Yen-Desmond Sim, Jayshri Kulkarni*, Shr-Hua Wang; Shi-Ying Zheng, Zhi-Hao Lin, and Shu-Chuan Chen"
+    },
+    {
+      "論文名稱": "Mutual Coupling Reduction in Dual-Band MIMO Antenna Using Parasitic Dollar-Shaped Structure for Modern Wireless Communication",
+      "期刊名稱": "IEEE Access (SCIE)",
+      "作者群": "Chow-Yen-Desmond Sim, Vigneswaran Dhasarathan, Thien Khanh Tran, Jayshri Kulkarni*, Brian A. Garner, and Yang Li"
+    },
+    {
+      "論文名稱": "Wideband low-profile endfire circularly polarized antenna using mode superposition technique",
+      "期刊名稱": "International Journal of RF and Microwave Computer-aided Engineering (SCIE,EI)",
+      "作者群": "Rahul Kumar Jaiswal*, Anuj Kumar Ojha, Kahani Kumari, Chow-Yen-Desmond Sim, and Kumar Vaibhav Srivastava"
+    },
+    {
+      "論文名稱": "Dual Polarized, Multiband Four-Port Decagon Shaped Flexible MIMO Antenna for Next Generation Wireless Applications",
+      "期刊名稱": "IEEE Access (SCIE,EI)",
+      "作者群": "Jayshri Kulkarni, Abdullah G. Alharbi, Chow-Yen-Desmond Sim, Issa. Elfergani*, Jaume Anguera, Chemseddine Zebiri, and Jonathan Rodrigues"
+    },
+    {
+      "論文名稱": "Application of Dielectric-Artificial Magnetic Conductor Composite Substrate to Design Miniaturized P-band Microstrip Antenna for Wireless Underground Sensor Network",
+      "期刊名稱": "IEEE Antennas and Wireless Propagation Letters (SCIE,EI)",
+      "作者群": "Sarath Kumar Annavarapu, Abhijyoti Ghosh, L. Lolit. Kumar Singh, Sudipta Chattopadhyay*, and Chow-Yen-Desmond Sim"
+    },
+    {
+      "論文名稱": "A simple coplanar waveguide fed polarization reconfigurable antenna design",
+      "期刊名稱": "International Journal of RF and Microwave Computer-aided Engineering (SCIE,EI)",
+      "作者群": "Chow-Yen-Desmond Sim, Hen-Lun Lin, and Lei Ge*"
+    },
+    {
+      "論文名稱": "Low-profile wideband 8-antenna array design for 5G smartphone application",
+      "期刊名稱": "International Journal of RF and Microwave Computer-aided Engineering (SCIE,EI)",
+      "作者群": "Chow-Yen-Desmond Sim, Ci-Jin Huang, Lei Ge*"
+    },
+    {
+      "論文名稱": "Millimeter-Wave Endfire Wide-Angle Scanning Circularly Polarized Antenna Array",
+      "期刊名稱": "IEEE Antennas and Wireless Propagation Letters (SCIE,EI)",
+      "作者群": "Yong Yang, Yong-Ling Ban*, Xiaofei Li, Qiang Sun, and Chow-Yen-Desmond Sim"
+    },
+    {
+      "論文名稱": "C-/Ka-band circularly polarized shared-aperture antenna array",
+      "期刊名稱": "International Journal of RF and Microwave Computer-aided Engineering (SCIE,EI)",
+      "作者群": "Yong Yang, Yong-Ling Ban*, Qiang Sun, and Chow-Yen-Desmond Sim"
+    },
+    {
+      "論文名稱": "Design of Electrically Large UHF RFID Near-Field Bidirectional Antenna With AMC-Based Unidirectional Improvement",
+      "期刊名稱": "IEEE Antennas and Wireless Propagation Letters (SCIE,EI)",
+      "作者群": "Xiaoting Wang, Zijian Xing*, Congyi Guo, Jianying Li, Dingyi Luo, and Chow-Yen-Desmond Sim"
+    },
+    {
+      "論文名稱": "A X-/Ka-Band Linearly Polarized Low Profile Shared-Aperture Antenna Array for Satellite Applications",
+      "期刊名稱": "IEEE Access (SCIE,EI)",
+      "作者群": "Yong Yang, Yong-Ling Ban*, Qiang Sun, and Chow-Yen-Desmond Sim"
+    },
+    {
+      "論文名稱": "A Dual-Polarized Wideband Ceiling-Mount Antenna With Low Gain Variations and High Isolation for 5G Sub-6 GHz Applications",
+      "期刊名稱": "IEEE Transactions on Antennas and Propagation (SCIE,EI)",
+      "作者群": "Botao Feng, Haoming Li, Kwok L. Chung*, Chow-Yen-Desmond Sim, and Li Deng"
+    },
+    {
+      "論文名稱": "Dual-Band Patch Antenna Matching Network Comprised of Separated Ground Layers and via Posts for Adjustable Return Current Path",
+      "期刊名稱": "IEEE Access (SCIE,EI)",
+      "作者群": "Youngno Youn, Jaehyun Choi, Bumhyun Kim, Woonbong Hwang, Chow-Yen-Desmond Sim, and Wonbin Hong*"
+    },
+    {
+      "論文名稱": "A low-profile ultrawideband circularly polarized slot antenna array based on artificial magnetic conductor array reflector",
+      "期刊名稱": "International Journal of RF and Microwave Computer-aided Engineering (SCIE,EI)",
+      "作者群": "Jinping Zhang, Zijian Xing*, Jianying Li, Dingyi Luo, and Chow-Yen-Desmond Sim"
+    },
+    {
+      "論文名稱": "Wideband Bidirectional Same Sense Endfire Circularly Polarized Antenna",
+      "期刊名稱": "IEEE Access (SCIE,EI)",
+      "作者群": "Rahul Kumar Jaiswal, Anuj Kumar Ojha, Kahani Kumari, and Kumar Vaibhav Srivastava Chow-Yen-Desmond Sim*"
+    },
+    {
+      "論文名稱": "A circularly polarized meander loop antenna for unmanned aerial vehicle satellite navigation system",
+      "期刊名稱": "International Journal of RF and Microwave Computer-aided Engineering (SCIE,EI)",
+      "作者群": "Tung-Yung Han*, Chow-Yen-Desmond Sim, and Chin-Yang Chen"
+    },
+    {
+      "論文名稱": "Broadband and Compact Circularly Polarized MIMO Antenna with Concentric Rings and Oval Slots for 5G Application",
+      "期刊名稱": "IEEE Access (SCIE,EI)",
+      "作者群": "Jayshri Kulkarni, Chow-Yen-Desmond Sim*, Ravi Kumar Gangwar, and Jaume Anguera"
+    },
+    {
+      "論文名稱": "COMPACT TRIPLE-BAND BANDPASS FILTER USING MULTILAYER STRUCTURE",
+      "期刊名稱": "International Journal of Electrical Engineering (EI)",
+      "作者群": "Shi-Peng Chen, Hung-Wei Wu, and Chow-Yen-Desmond Sim*"
+    },
+    {
+      "論文名稱": "A Multi-Slot Two-Antenna MIMO with High Isolation for Sub-6 GHz 5G/IEEE802.11ac/ax/C-Band/X-Band Wireless and Satellite Applications",
+      "期刊名稱": "Electronics (SCIE,EI)",
+      "作者群": "Abdullah G. Alharbi, Jayshri Kulkarni*, Arpan Desai, Chow-Yen-Desmond Sim, and Ajay Poddar"
+    },
+    {
+      "論文名稱": "A Compact Circularly Polarized Rotated L-Shaped Antenna with J-Shaped Defected Ground Strucutre for WLAN and V2X Applications",
+      "期刊名稱": "Progress In Electromagnetics Research Letters (SCIE,EI)",
+      "作者群": "Jayshri Kulkarni*, Chow-Yen-Desmond Sim, Ajay K. Poddar, Ulrich L. Rohde, and Abdullah G. Alharbi"
+    },
+    {
+      "論文名稱": "A Compact Four Port Ground-Coupled CPWG-Fed MIMO Antenna for Wireless Applications",
+      "期刊名稱": "Arabian Journal for Science and Engineering (SCIE,EI)",
+      "作者群": "Jayshri Kulkarni*, Chow-Yen-Desmond Sim, Arpan Desai, Eldad Holdengreber, Rajendra Talware, Vivek Deshpande, and Truong Khang Nguyen"
+    },
+    {
+      "論文名稱": "A Circularly Polarized Meander Loop Antenna Design for GNSS Application",
+      "期刊名稱": "IEEE Antennas and Wireless Propagation Letters (SCIE,EI)",
+      "作者群": "Tuan-Yung Han*, Chow-Yen-Desmond Sim, and Chin-Yang Chen"
+    },
+    {
+      "論文名稱": "Design and Analysis of Wideband Flexible Self-Isolating MIMO Antennas for Sub-6 GHz 5G and WLAN Smartphone Terminals",
+      "期刊名稱": "Electronics (SCIE,EI)",
+      "作者群": "Jayshri Kulkarni*, Abdullah G. Alharbi, Arpan Desai, Chow‐Yen‐Desmond Sim, and Ajay Poddar"
+    },
+    {
+      "論文名稱": "Ultra-Wideband RCS Reduction of Circular Polarization Slot Antenna Array Based on Polarization Conversion Structures and Frequency-Selective Rasorber",
+      "期刊名稱": "Progress In Electromagnetics Research M (EI)",
+      "作者群": "Yu-Xing Zhang, Yong-Ling Ban*, and Chow-Yen-Desmond Sim"
+    },
+    {
+      "論文名稱": "Three-port circularly polarized MIMO antenna for WLAN application with pattern and polarization diversity",
+      "期刊名稱": "Microwave and Optical Technology Letters (SCIE,EI)",
+      "作者群": "Rahul Kumar Jaiswal*, Kahani Kumari, Chow-Yen-Desmond Sim, and Kuma Vaibhav Srivastava"
+    },
+    {
+      "論文名稱": "Analysis of double-Xi-shaped millimetre-wave patch antenna backed by a high-order-mode cavity using characteristic mode design",
+      "期刊名稱": "IET Microwaves, Antennas & Propagation (SCIE,EI)",
+      "作者群": "Botao Feng*, Junlong Chen, and Chow-Yen-Desmond Sim"
+    },
+    {
+      "論文名稱": "Two port CPW-fed MIMO antenna with wide bandwidth and high isolation for future wireless applications",
+      "期刊名稱": "International Journal of RF and Microwave Computer-aided Engineering (SCIE,EI)",
+      "作者群": "Jayshri Kulkarni*, Arpan Desai, and Chow‐Yen‐Desmond Sim"
+    },
+    {
+      "論文名稱": "Design of a Single-Layer ±45° Dual-Polarized Directional Array Antenna for Millimeter Wave Applications",
+      "期刊名稱": "Sensors (SCIE,EI)",
+      "作者群": "Qinyi Lv, Yu-Hang Yang*, Shi-Gang Zhou, Chan Shao, Deyun Zhou, and Chow-Yen-Desmond Sim"
+    },
+    {
+      "論文名稱": "Reduced-Surface-Wave-Inspired Circular Microstrip Antenna for Concurrent Improvement in Radiation Characteristics",
+      "期刊名稱": "IEEE Antennas and Wireless Propagation Letters (SCIE,EI)",
+      "作者群": "Zonunmawii Abhijyoti Ghosh, L. Lolit K. Singh, Sudipta Chattopadhyay*, and Chow-Yen-Desmond Sim"
+    },
+    {
+      "論文名稱": "MIMO Antenna Based on Metamaterial Frequency Selective Surface",
+      "期刊名稱": "Applied Computational Electromagnetics Society Journal (SCIE,EI)",
+      "作者群": "Shengyuan Luo, Yingsong Li, Chow-Yen-Desmond Sim, Yinfeng Xia*, and Xiaoguang Liu"
+    },
+    {
+      "論文名稱": "A Dual-Band Dual-Polarized Antenna for Small Base Station Applications",
+      "期刊名稱": "Journal of Electrical Engineering & Technology (SCIE)",
+      "作者群": "Rong Cao*, Chow-Yen-Desmond Sim, Jia-He Zhuang"
+    },
+    {
+      "論文名稱": "A dual-polarized antenna with low cross polarization, high gain, and isolation for the fifth-generation array/multiple-input multiple-output communications",
+      "期刊名稱": "International Journal of RF and Microwave Computer-aided Engineering (SCIE,EI)",
+      "作者群": "Botao Feng*, Tao Luo, Tian Zhou, Chow-Yen-Desmond Sim"
+    },
+    {
+      "論文名稱": "Wideband four-port MIMO antenna array with high isolation for future wireless systems",
+      "期刊名稱": "AEU-International Journal of Electronics and Communications (SCIE,EI)",
+      "作者群": "Jayshri Kulkarni*, Arpan Desai, and Chow-Yen-Desmond Sim"
+    },
+    {
+      "論文名稱": "Multiband, miniaturized, maze shaped antenna with an air-gap for wireless applications",
+      "期刊名稱": "International Journal of RF and Microwave Computer-aided Engineering (SCIE,EI)",
+      "作者群": "Jayshri Kulkarni* and Chow-Yen-Desmond Sim"
+    },
+    {
+      "論文名稱": "Wideband CPW-Fed Oval-Shaped Monopole Antenna for Wi-Fi 5 and Wi-Fi 6 Applications",
+      "期刊名稱": "Progress In Electromagnetic Research C (EI)",
+      "作者群": "Jayshri Kulkarni* and Chow-Yen-Desmond Sim"
+    },
+    {
+      "論文名稱": "Microstrip-fed circular ring-slot antennas with very wideband harmonic suppression",
+      "期刊名稱": "IEEE Antennas and Wireless Propagation Letters (SCIE,EI)",
+      "作者群": "Chih-Chiang Chen*, Sheng-Yang Huang, Xiu Yin Zhang, and Chow-Yen-Desmond Sim"
+    },
+    {
+      "論文名稱": "Planar hexagonal broadband near-field antenna for UHF RFID application",
+      "期刊名稱": "IET Microwaves, Antennas & Propagation (SCIE,EI)",
+      "作者群": "Zijian Xing*, Haotian Li, Ling Wang, Chow-Yen-Desmond Sim, Jianying Li, Kun Wei"
+    },
+    {
+      "論文名稱": "A compact wideband circularly polarized magneto-electric dipole antenna array for 5G millimeter-wave applications",
+      "期刊名稱": "IEEE Transactions on Antennas and Propagation (SCIE,EI)",
+      "作者群": "Botao Feng, Jiexin Lai, Kwok L. Chung, Tieh-Yuh Chen, Yeyu Liu and Chow-Yen-Desmond Sim*"
+    },
+    {
+      "論文名稱": "A tri-polarized antenna with diverse radiation characteristics for 5G and V2X communications",
+      "期刊名稱": "IEEE Transactions on Vehicular Technology (SCIE,EI)",
+      "作者群": "Botao Feng, Jiaying Chen, Sixing Yin, Chow-Yen-Desmond Sim*, and Zhentao Zhao"
+    },
+    {
+      "論文名稱": "A low-profile wideband dual-polarized antenna with gain enhancement, low gain variations and low cross polarization for 5G indoor communications",
+      "期刊名稱": "International Journal of RF and Microwave Computer-aided Engineering (SCIE,EI)",
+      "作者群": "Botao Feng, Tao Luo, Zhentao Zhao, Kwok L. Chung, Chow-Yen-Desmond Sim*"
+    },
+    {
+      "論文名稱": "Broadband eight-antenna array design for Sub-6 GHz 5G NR bands metal-frame smartphone applications",
+      "期刊名稱": "IEEE Antennas and Wireless Propagation Letters (SCIE,EI)",
+      "作者群": "Horng-Dean Chen*, Yuan-Chung Tsai, Chow-Yen-Desmond Sim, and Colin Kuo"
+    },
+    {
+      "論文名稱": "A building block assembly dualband dual-polarized antenna with dual wide beamwidths for 5G microcell applications",
+      "期刊名稱": "IEEE Access (SCIE,EI)",
+      "作者群": "Botao Feng, Jiexin Lai, and Chow-Yen-Desmond Sim*"
+    },
+    {
+      "論文名稱": "Design of low RCS vivaldi antenna based on differential evolution algorithm",
+      "期刊名稱": "Applied Computational Electromagnetics Society Journal (SCIE,EI)",
+      "作者群": "Ge Zhao, Zi-Yu Pang, Xiao-Yu Ma, Guan-Long Huang*, Luyu Zhao*, Jia-Jun Liang, and Chow-Yen-Desmond Sim"
+    },
+    {
+      "論文名稱": "A metal-strip integrated filtering waveguide",
+      "期刊名稱": "Applied Computational Electromagnetics Society Journal (SCIE,EI)",
+      "作者群": "Xiao-Yu Ma, Zi-Yu Pang, Ge Zhao, Jia-Jun Liang*, Guan-Long Huang*, Luyu Zhao, and Chow-Yen-Desmond Sim"
+    },
+    {
+      "論文名稱": "A 3D printed filtering waveguide with simple metamaterial construction",
+      "期刊名稱": "Applied Computational Electromagnetics Society Journal (SCIE,EI)",
+      "作者群": "Zi-Yu Pang, Xiao-Yu Ma, Ge Zhao, Jia-Jun Liang*, Guan-Long Huang*, Luyu Zhao, and Chow-Yen-Desmond Sim"
+    },
+    {
+      "論文名稱": "Study of a multi-loop travelling wave UHF RFID near-field antenna",
+      "期刊名稱": "IEEE Access (SCIE,EI)",
+      "作者群": "Zijian Xing*, Haotian Li, Chow-Yen-Desmond Sim, Jianying Li, and Ziliang Li"
+    },
+    {
+      "論文名稱": "A dipole-type millimeter-wave antenna with directional radiation characteristics",
+      "期刊名稱": "International Journal of RF and Microwave Computer-aided Engineering (SCIE,EI)",
+      "作者群": "Yue Dong, Yingsong Li*, Chow-Yen-Desmond Sim, Yinfeng Xia and Xiaoguang Liu"
+    },
+    {
+      "論文名稱": "Dual-wideband dual-polarized metasurface antenna array for the 5G millimeter wave communications based on characteristic mode theory",
+      "期刊名稱": "IEEE Access (SCIE,EI)",
+      "作者群": "Botao Feng, Xiaoyuan He, Jui-Ching Cheng and Chow-Yen-Desmond Sim*"
+    },
+    {
+      "論文名稱": "A 28 GHz beam steering antenna for 5G cellular phones",
+      "期刊名稱": "Microwave Journal (SCIE,EI)",
+      "作者群": "Bin Yu, Kang Yang, Guangli Yang*, Zhanyi Qian, and Chow-Yen-Desmond Sim"
+    },
+    {
+      "論文名稱": "DGS-integrated air-loaded wideband microstrip antenna for X- and Ku-band",
+      "期刊名稱": "IEEE Antennas and Wireless Propagation Letters (SCIE,EI)",
+      "作者群": "Tanmoy Sarkar, Abhijyoti Ghosh, Lolit Singh, Chattopadhyay Sudipta*, and Chow-Yen-Desmond Sim"
+    },
+    {
+      "論文名稱": "Wideband MIMO antenna array design for future mobile devices operating in the 5G NR frequency bands n77/n78/n79 and LTE Band 46",
+      "期刊名稱": "IEEE Antennas and Wireless Propagation Letters (SCIE,EI)",
+      "作者群": "Chow-Yen-Desmond Sim*, Heng-You Liu, and Ci-Jing Huang"
+    },
+    {
+      "論文名稱": "A low-profile differentially fed dual-polarized antenna with high gain and isolation for 5G microcell communications",
+      "期刊名稱": "IEEE Transactions on Antennas and Propagation (SCIE,EI)",
+      "作者群": "Botao Feng, Xiaoyuan He, Jui-Ching Cheng, Qingsheng Zeng*, and Chow-Yen-Desmond Sim"
+    },
+    {
+      "論文名稱": "A high-isolation building block using stable current nulls for 5G smartphone applications",
+      "期刊名稱": "IEEE Access (SCIE,EI)",
+      "作者群": "Aidi Ren, Ying Liu*, Hong-Wei Yu, Yongtao Jia, Chow-Yen-Desmond Sim, Yunxue Xu,"
+    },
+    {
+      "論文名稱": "Package-in-dielectric liquid patch antenna based on liquid metal alloy",
+      "期刊名稱": "IEEE Antennas and Wireless Propagation Letters (SCIE,EI)",
+      "作者群": "Guan-Long Huang*, Jia-Jun Liang, Luyu Zhao, Daping He, and Chow-Yen-Desmond Sim"
+    },
+    {
+      "論文名稱": "An 8-element dual-band MIMO antenna with decoupling stub for 5G smartphone applications",
+      "期刊名稱": "IEEE Antennas and Wireless Propagation Letters (SCIE,EI)",
+      "作者群": "Lun Cui, Jingli Guo*, Ying Liu, and Chow-Yen-Desmond Sim"
+    },
+    {
+      "論文名稱": "A compact building block with two shared-aperture antennas for eight-antenna MIMO array in metal-rimmed smartphone",
+      "期刊名稱": "IEEE Transactions on Antennas and Propagation (SCIE,EI)",
+      "作者群": "Aidi Ren, Ying Liu*, and Chow-Yen-Desmond Sim"
+    },
+    {
+      "論文名稱": "Bracketed stub loaded single layer rectangular microstrip antenna: A novel approach for modulation of magnetic field locus to achieve improved matching, and low cross polarization",
+      "期刊名稱": "IET Microwaves, Antennas and Propagation (SCIE,EI)",
+      "作者群": "Umesh Ankush Pawar, Abhijyoti Ghosh, Subhradeep Chakraborty, L. Lolit Kumar Singh, Sudipta Chattopadhyay*, and Chow-Yen-Desmond Sim"
+    },
+    {
+      "論文名稱": "Dual-loop antenna for 4G LTE MIMO smart glasses applications",
+      "期刊名稱": "IEEE Antennas and Wireless Propagation Letters (SCIE,EI)",
+      "作者群": "Yan-Yan Wang, Yong-Ling Ban*, Zaiping Nie, and Chow-Yen-Desmond Sim"
+    },
+    {
+      "論文名稱": "A useful methodology to convert the smartphone metal cover into an antenna booster for NFC applications",
+      "期刊名稱": "IEEE Transactions on Antennas and Propagation (SCIE,EI)",
+      "作者群": "Jia-Qi Zhu, Yong-Ling Ban*, Rui-Min Xu, Ji-Wei Lian, Chow-Yen-Desmond Sim, Yiming Zhang, and Zaiping Nie"
+    },
+    {
+      "論文名稱": "A dual-band dual-polarized stacked microstrip antenna with high-isolation and band-notch characteristics for 5G microcell communications",
+      "期刊名稱": "IEEE Transactions on Antennas and Propagation (SCIE,EI)",
+      "作者群": "Botao Feng, Lei Li, Jui-Ching Cheng*, and Chow-Yen-Desmond Sim*"
+    },
+    {
+      "論文名稱": "A low profile aperture coupled antenna with broadband circular polarization characteristics for UHF RFID applications",
+      "期刊名稱": "International Journal of RF and Microwave Computer-aided Engineering (SCIE,EI)",
+      "作者群": "Zijian Xing*, Bo-Yu Chen, and Chow-Yen-Desmond Sim,"
+    },
+    {
+      "論文名稱": "High-isolation 3.5 GHz eight-antenna MIMO array using balanced open-slot antenna element for 5G smartphones",
+      "期刊名稱": "IEEE Transactions on Antennas and Propagation (SCIE,EI)",
+      "作者群": "Yixin Li, Chow-Yen-Desmond Sim, Yong Luo and Guangli Yang*,"
+    },
+    {
+      "論文名稱": "A dual-wideband dual-polarized magneto-electric dipole antenna with dual wide beamwidths for 5G MIMO microcell applications",
+      "期刊名稱": "IEEE Access (SCIE,EI)",
+      "作者群": "Botao Feng, Can Zhu, Jui-Ching Cheng*, and Chow-Yen-Desmond Sim*, and Xinyuan Wen"
+    },
+    {
+      "論文名稱": "Eight-port MIMO array using characteristic mode theory for 5G smartphone applications",
+      "期刊名稱": "IEEE Access (SCIE,EI)",
+      "作者群": "Ying Liu*, Aidi Ren, Hu Liu, Hanyang Wang, and Chow-Yen-Desmond Sim"
+    },
+    {
+      "論文名稱": "A frequency-reconfigurable antenna with 1-mm nonground portion for metal-frame and full-display screen handset applications using mode control method",
+      "期刊名稱": "IEEE Access (SCIE,EI)",
+      "作者群": "Chong-Zhi Han, Shu-Ming Liao, Kai-Dong Hong, Guan-Long Huang*, Tao Yuan*, Wonbin Hong, and Chow-Yen-Desmond Sim"
+    },
+    {
+      "論文名稱": "TCM-based hepta-band antenna with small clearance for metal-rimmed mobile phone applications",
+      "期刊名稱": "IEEE Antennas and Wireless Propagation Letters (SCIE,EI)",
+      "作者群": "Ying Liu*, Jiankang Zhang, Aidi Ren, Hanyang Wang, and Chow-Yen-Desmond Sim,"
+    },
+    {
+      "論文名稱": "Single ring slot-based antennas for metal-rimmed 4G/5G smartphones",
+      "期刊名稱": "IEEE Transactions on Antennas and Propagation (SCIE,EI)",
+      "作者群": "Quangang Chen, Huawei Lin, Jianpeng Wang, Lei Ge*, Yujian Li, Tainqi Pei, and Chow-Yen-Desmond Sim"
+    },
+    {
+      "論文名稱": "Metal-frame-integrated eight-element multiple-input multiple-output antenna array in the long term evolution bands 41/42/43 for fifth generation smartphones",
+      "期刊名稱": "International Journal of RF and Microwave Computer-aided Engineering (SCIE,EI)",
+      "作者群": "Yixin Li, Chow-Yen-Desmond Sim, Yong Luo and Guangli Yang*,"
+    },
+    {
+      "論文名稱": "Dual open-slot antennas integrated in metal frame and metal case of tablet computer for long-term evolution applications",
+      "期刊名稱": "International Journal of RF and Microwave Computer-aided Engineering (SCIE,EI)",
+      "作者群": "Yi-Fang Lin, Chien-Hung Chen, Chia-Te Liao, Chow-Yen-Desmond Sim, Chia-Cheng Tseng, and Hua-Ming Chen*"
+    },
+    {
+      "論文名稱": "Design of 8 × 8 dual-band MIMO antenna array for 5G smartphone applications",
+      "期刊名稱": "International Journal of RF and Microwave Computer-aided Engineering (SCIE,EI)",
+      "作者群": "Huanqing Zou, Yixin Li, Chow-Yen-Desmond Sim, and Guangli Yang*,"
+    },
+    {
+      "論文名稱": "A dual-polarized dual-band antenna with high gain for 2G/3G/LTE indoor communications",
+      "期刊名稱": "IEEE Access (SCIE,EI)",
+      "作者群": "Zhentao Zhao, Jiexin Lai, Botao Feng, and Chow-Yen-Desmond Sim*"
+    },
+    {
+      "論文名稱": "A frequency-reconfigurable tuner-loaded coupled-fed frame-antenna for all-metal-shell handsets",
+      "期刊名稱": "IEEE Access (SCIE,EI)",
+      "作者群": "Chong-Zhi Han, Guan-Long Huang*, Tao Yuan, Wonbin Hong, and Chow-Yen-Desmond Sim,"
+    },
+    {
+      "論文名稱": "Novel pattern-diversity-based decoupling method and its application to multielement MIMO antenna",
+      "期刊名稱": "IEEE Transactions on Antennas and Propagation (SCIE,EI)",
+      "作者群": "Chao-Feng Ding*, Xiu-Yin Zhang, Cheng-Dai Xue, and Chow-Yen-Desmond Sim"
+    },
+    {
+      "論文名稱": "A low-profile metamaterial loaded antenna array with anti-interference and polarization reconfigurable characteristics",
+      "期刊名稱": "IEEE Access (SCIE,EI)",
+      "作者群": "Botao Feng, Lei Li, Qingsheng Zeng*, and Chow-Yen-Desmond Sim"
+    },
+    {
+      "論文名稱": "A differentially driven dual-polarized high-gain stacked patch antenna",
+      "期刊名稱": " IEEE Antennas and Wireless Propagation Letters (SCIE,EI)",
+      "作者群": "Xujun Yang, Lei Ge*, Jianpeng Wang, and Chow-Yen-Desmond Sim"
+    },
+    {
+      "論文名稱": "Low-profile flexible UHF RFID tag design for wristbands applications",
+      "期刊名稱": "Wireless Communications and Mobile Computing (SCIE,EI)",
+      "作者群": "Guan-Long Huang, Chow-Yen-Desmond Sim*, Shu-Yao Liang, Wei-Sheng Liao, and Tao Yuan"
+    },
+    {
+      "論文名稱": "Multiband 10-antenna array for Sub-6 GHz MIMO applications in 5-G smartphones",
+      "期刊名稱": " IEEE Access (SCIE,EI)",
+      "作者群": "Yixin Li, Chow-Yen-Desmond Sim, Yong Luo, and Guangli Yang*"
+    },
+    {
+      "論文名稱": "A low VSWR and high efficiency waveguide feed antenna array",
+      "期刊名稱": "Wireless Communications and Mobile Computing (SCIE,EI)",
+      "作者群": "Xiao-Fang Zhao, Hua-Zhu Liu*, Li Yi, Shi-Gang Zhou, and Chow-Yen-Desmond Sim"
+    },
+    {
+      "論文名稱": "Magnetoelectric dipole antenna with dual polarization and high isolation",
+      "期刊名稱": "Wireless Communications and Mobile Computing (SCIE,EI)",
+      "作者群": "Xujun Yang, Lei Ge*, Dengguo Zhang , and Chow-Yen-Desmond Sim"
+    },
+    {
+      "論文名稱": "A CPW-fed square-ring slot antenna with reconfigurable polarization",
+      "期刊名稱": "IEEE Access (SCIE,EI)",
+      "作者群": "Shi-Gang Zhou, Guan-Long Huang, Heng-Yu Liu, An-Syuan Lin, and Chow-Yen-Desmond Sim*"
+    },
+    {
+      "論文名稱": "Parallel dual-loop antenna for WWAN/LTE metal-rimmed smartphone",
+      "期刊名稱": "IEEE Transactions on Antennas and Propagation (SCIE,EI)",
+      "作者群": "Li-Wei Zhang, Yong-Lin Ban*, Chow-Yen-Desmond Sim, Jinhong Guo, and Zhe-Feng Yu"
+    },
+    {
+      "論文名稱": "Miniaturized dual-loop NFC antenna with a very small slot clearance for metal-cover smartphone applications",
+      "期刊名稱": "IEEE Transactions on Antennas and Propagation (SCIE,EI)",
+      "作者群": "Jia-Qi Zhu, Yong-Ling Ban*, Ruimin Xu, Chow-Yen-Desmond Sim, Jinhong Guo, and Zhe-Feng Yu"
+    },
+    {
+      "論文名稱": "Compact LTE/WWAN antenna with reduced ground effects for tablet/laptop applications",
+      "期刊名稱": "IEICE Transactions on Communications (SCIE,EI)",
+      "作者群": "Chow-Yen-Desmond Sim, Chih-Chiang Chen*, Zhe-Yu Li, and Sheng-Yang Huang"
+    },
+    {
+      "論文名稱": "12-Port 5G massive MIMO antenna array in sub-6GHz mobile handset for LTE bands 42/43/46 applications",
+      "期刊名稱": "IEEE Access (SCIE,EI)",
+      "作者群": "Yixin Li, Chow-Yen-Desmond Sim, Yong Luo, and Guangli Yang*"
+    },
+    {
+      "論文名稱": "Single-layer dual-broadband circularly polarised annular-slot antenna for WLAN applications",
+      "期刊名稱": "IET Microwaves, Antennas and Propagation (SCIE,EI)",
+      "作者群": "Lei Ge*, Chow-Yen-Desmond Sim, Hsin-Lung Su, Jun-Yu Lu, and Chin Ku"
+    },
+    {
+      "論文名稱": "A novel 28 GHz beam steering array for 5G mobile device with metallic casing application",
+      "期刊名稱": "IEEE Transactions on Antennas and Propagation (SCIE,EI)",
+      "作者群": "Bin Yu, Kang Yang, Chow-Yen-Desmond Sim, and Guangli Yang*"
+    },
+    {
+      "論文名稱": "NFC loop antenna in conjunction with the lower section of a metal cover",
+      "期刊名稱": "IEEE Antennas and Wireless Propagation Letters (SCIE,EI)",
+      "作者群": "Jia-Qi Zhu, Yong-Ling Ban*, Rui-Min Xu, Chow-Yen-Desmond Sim, and Zhe-Feng Yu"
+    },
+    {
+      "論文名稱": "Compact size flexible UHF RFID tag antenna for racing pigeon ring applications",
+      "期刊名稱": "International Journal of RF and Microwave Computer-aided Engineering (SCIE,EI)",
+      "作者群": "Chow-Yen-Desmond Sim*, Chih-Chiang Chen, Bo-Shau Chen, and Shu-Yao Liang"
+    },
+    {
+      "論文名稱": "A novel uniplanar antenna with dual wideband characteristics for tablet/laptop applications",
+      "期刊名稱": "International Journal of RF and Microwave Computer-aided Engineering (SCIE,EI)",
+      "作者群": "Chow-Yen-Desmond Sim, Chih-Chiang Chen, Che-Yu Li, and Lei Ge*"
+    },
+    {
+      "論文名稱": "Eight-port orthogonally dual-polarised MIMO antennas using loop structures for 5G smartphone",
+      "期刊名稱": " IET Microwaves, Antennas and Propagation (SCIE,EI)",
+      "作者群": "Ming-Yang Li, Zi-Qiang Xu, Yong-Ling Ban*, Chow-Yen-Desmond Sim, and Zhe-Feng Yu"
+    },
+    {
+      "論文名稱": "Single open-slot antenna for LTE/WWAN smartphone application",
+      "期刊名稱": "IEEE Transactions on Antennas and Propagation (SCIE,EI)",
+      "作者群": "Horng-Dean Chen*, Hui-Wen Yang, and Chow-Yen-Desmond Sim"
+    },
+    {
+      "論文名稱": "Lightweight perforated waveguide structure realized by 3-D printing for RF applications",
+      "期刊名稱": "IEEE Transactions on Antennas and Propagation (SCIE,EI)",
+      "作者群": "Guan-Long Huang*, Shi-Gang Zhou, Chow-Yen-Desmond Sim, Tan-Huat Chio, and Tao Yuan"
+    },
+    {
+      "論文名稱": "Miniaturised Wilkinson power divider with wide-stopband using synthetic transmission line",
+      "期刊名稱": "Electronics Letters (SCIE,EI)",
+      "作者群": "Chih-Chiang Chen*, Chow-Yen-Desmond Sim, Jia-Wei Chen, and Jia-Hui Lin,"
+    },
+    {
+      "論文名稱": "Wideband antenna array with full metal structure and air-filled microstrip feeding Network",
+      "期刊名稱": " IEEE Transactions on Antennas and Propagation (SCIE,EI)",
+      "作者群": "Shi-Gang Zhou*, Pan Dong, Guan-Long Huang, Chow-Yen-Desmond Sim and Jian-Ying Li"
+    },
+    {
+      "論文名稱": "NFC antenna with nonuniform meandering line and partial coverage ferrite sheet for metal cover smartphone applications",
+      "期刊名稱": "IEEE Transaction Antennas and Propagation (SCIE,EI)",
+      "作者群": "Jia-Qi Zhu, Yong-Ling Ban*, Chow-Yen-Desmond, and Gang Wu,"
+    },
+    {
+      "論文名稱": "Very small-size uniplanar printed monopole antenna for dual-band WLAN laptop computer applications",
+      "期刊名稱": " IEEE Transactions on Antennas and Propagation (SCIE,EI)",
+      "作者群": "Chow-Yen-Desmond Sim*, Chih-Chiang Chen, Xiu Yin Zhang, Yuan-Lung Lee, and Chih-Yang Chiang"
+    },
+    {
+      "論文名稱": "Design of a novel wideband and dual-polarized magnetoelectric dipole antenna",
+      "期刊名稱": "IEEE Transactions on Antennas and Propagation (SCIE,EI)",
+      "作者群": "Shi-Gang Zhou*, Zhao-Hang Peng, Guan-Long Huang, and Chow-Yen-Desmond Sim"
+    },
+    {
+      "論文名稱": "A low-profile reconfigurable cavity-backed slot antenna with frequency, polarization and radiation pattern agility",
+      "期刊名稱": "IEEE Transactions on Antennas and Propagation (SCIE,EI)",
+      "作者群": "Lei Ge*, Yujian Li, Jianpeng Wang, Chow-Yen-Desmond Sim"
+    },
+    {
+      "論文名稱": "Eccentric annular slot patch antenna with frequency agility for UHF RFID Reader applications",
+      "期刊名稱": "International Journal of RF and Microwave Computer-aided Engineering (SCIE,EI)",
+      "作者群": "Lei Ge, Chow-Yen-Desmond Sim*, Chuan-Wei Lin, and Ting-An Chen"
+    },
+    {
+      "論文名稱": "Waveguide-stripline series-corporate hybrid-feed technique for dual-polarized antenna array applications",
+      "期刊名稱": " IEEE Transactions on Components, Packaging and Manufacturing Technology (SCIE,EI)",
+      "作者群": "Guan-Long Huang*, Shi-Gang Zhou, Tan-Huat Chio, Chow-Yen-Desmond Sim, and Tat-Soon Yeo"
+    },
+    {
+      "論文名稱": "Dual-Loop antenna with band-stop matching circuit for WWAN/LTE full metal-rimmed smartphone application",
+      "期刊名稱": "IET Microwaves, Antennas and Propagation (SCIE,EI)",
+      "作者群": "Yi Yan, Yong-Ling Ban*, Gang Wu, and Chow-Yen-Desmond Sim"
+    },
+    {
+      "論文名稱": "Low-profile UHF RFID reader antenna with CP radiation and coupled feeding technique",
+      "期刊名稱": "International Journal of RF and Microwave Computer-aided Engineering (SCIE,EI)",
+      "作者群": "Guan-Long Huang, Chow-Yen-Desmond Sim*, Chuan-Wei Lin, and Ming-Jie Gao"
+    },
+    {
+      "論文名稱": "A low-profile, dual-polarized and wideband square cavity-backed antenna",
+      "期刊名稱": "International Journal of RF and Microwave Computer-aided Engineering (SCIE,EI)",
+      "作者群": "Shi-Gang Zhou*, Zhao-Hang Peng, and Chow-Yen-Desmond Sim"
+    },
+    {
+      "論文名稱": "Design of wideband and dual polarized cavity antenna planar array",
+      "期刊名稱": "IEEE Transaction Antennas and Propagation (SCIE,EI)",
+      "作者群": "Shi-Gang Zhou*,  Zhao-Hang Peng, Guan-Long Huang, Jian-Ying Li, and Chow-Yen-Desmond Sim"
+    },
+    {
+      "論文名稱": "A compact tri-band antenna at GPS and WLAN a/b/g for tablet computer with full metal housing",
+      "期刊名稱": "International Journal of RF and Microwave Computer-aided Engineering (SCIE,EI)",
+      "作者群": "Peng Chen, Xiaojun Tang, Hao Wang, Chow-Yen-Desmond Sim, and Guangli Yang*"
+    },
+    {
+      "論文名稱": "Miniaturised dual-band rat-race coupler with harmonic suppression using synthetic transmission line",
+      "期刊名稱": "Electronics Letters (SCIE,EI)",
+      "作者群": "Chih-Chiang Chen*, Chow-Yen-Desmond Sim and Yu-Rung Wu"
+    },
+    {
+      "論文名稱": "Eight-port orthogonally dual-polarized antenna array for 5G smartphone applications",
+      "期刊名稱": " IEEE Transaction Antennas and Propagation (SCIE,EI)",
+      "作者群": "Ming-Yang Li, Yong-Ling Ban*, Zi-Qiang Xu, Chow-Yen-Desmond Sim, Gang Wu, Kai Kang, and Zhe-Feng Yu"
+    },
+    {
+      "論文名稱": "Hepta-band coupled-fed antenna for metal-ring-frame WWAN/LTE smartphone applications",
+      "期刊名稱": "International Journal of RF and Microwave Computer-aided Engineering (SCIE,EI)",
+      "作者群": "Yong-Ling Ban*, Li-Wan Zhang, Chow-Yen-Desmond Sim, Hanyang Wang, and Xiaodong Chen"
+    },
+    {
+      "論文名稱": "Compact circularly polarized meandered-loop antenna for UHF band RFID tag",
+      "期刊名稱": "IEEE Antennas and Wireless Propagation Letters (SCIE,EI)",
+      "作者群": "Horng-Dean Chen*, Chow-Yen-Desmond Sim, Ching-Han Tsai, and Colin Kuo"
+    },
+    {
+      "論文名稱": "Dual-feed full-metal-case antenna for WWAN/LTE smartphone applications",
+      "期刊名稱": "International Journal of RF and Microwave Computer-aided Engineering (SCIE,EI)",
+      "作者群": "Yong-Ling Ban*, Peng-Peng Li, Chow-Yen-Desmond Sim, and Xiaodong Chen"
+    },
+    {
+      "論文名稱": "A new quadri-polarization reconfigurable circular patch antenna",
+      "期刊名稱": "IEEE Access (SCIE,EI)",
+      "作者群": "Hui Gu, Jianpeng Wang, Lei Ge*, and Chow-Yen-Desmond Sim"
+    },
+    {
+      "論文名稱": "Small-size reconfigurable loop antenna for mobile phone applications",
+      "期刊名稱": "IEEE Access (SCIE,EI)",
+      "作者群": "Hao Wang, Yi-Bo Wang, Jian-Lan Wu, Peng Chen, Zhe-Qiang Wu, Chow-Yen-Desmond Sim, and Guang-Li Yang*"
+    },
+    {
+      "論文名稱": "Wideband dual-polarized and dual-monopulse compact array for SAR system integration applications",
+      "期刊名稱": "IEEE Geoscience and Remote Sensing Letters (SCIE,EI)",
+      "作者群": "Guan-Long Huang*, Shi-Gang Zhou, Tan-Huat Chio, Chow-Yen-Desmond Sim, and Tat-Soon Yeo"
+    },
+    {
+      "論文名稱": "Hybrid multi-mode narrow-frame antenna for WWAN/LTE metal-rimmed smartphone applications",
+      "期刊名稱": "IEEE Access (SCIE,EI)",
+      "作者群": "Ji-Wei Lian, Yong-Ling Ban*, Yan-Li Yang, Li-Wan Zhang, Chow-Yen-Desmond Sim, and Kai Kang"
+    },
+    {
+      "論文名稱": "Small-size folded monopole antenna with switchable matching circuit for ultra-thin mobile applications",
+      "期刊名稱": "Progress in Electromagnetic Research C (EI)",
+      "作者群": "Hao Wang, Zheqiang Wu, Yibo Wang, Chow-Yen-Desmond Sim, and Guangli Yang*"
+    },
+    {
+      "論文名稱": "4G/5G Multiple antennas for future multi-mode smartphone applications",
+      "期刊名稱": "IEEE Access (SCIE,EI)",
+      "作者群": "Yong-Ling Ban*, Chuan-Li, Chow-Yen-Desmond Sim, Gang Wu, and Kin-Lu Wong"
+    },
+    {
+      "論文名稱": "The living banana plant as a long-lasting battery cell",
+      "期刊名稱": "International Journal of Green Energy (SCIE,EI)",
+      "作者群": "Sy-Ruen Huang, Chih-Hung Chung*, Hoang-Jyh Leu, Chow-Yen-Desmond Sim, and Chiu-Yue Lin"
+    },
+    {
+      "論文名稱": "SIW multibeam array for 5G mobile devices",
+      "期刊名稱": "IEEE Access (SCIE,EI)",
+      "作者群": "Qing-Ling Yang, Yong-Ling Ban*, Kai Kang, Chow-Yen-Desmond Sim, and Gang Wu"
+    },
+    {
+      "論文名稱": "Broadband circularly polarized antenna with moon-shaped parasitic element",
+      "期刊名稱": " International Journal of RF and Microwave Computer-aided Engineering (SCIE,EI)",
+      "作者群": "Chow-Yen-Desmond Sim*, Yi-Wen Hsu, Chuan-Wei Lin, and Guangli Yang"
+    },
+    {
+      "論文名稱": "Circular slot antenna with capacitive loading technique for broad circularly polarized bandwidth",
+      "期刊名稱": "Microwave and Optical Technology Letters (SCIE,EI)",
+      "作者群": "Chow-Yen-Desmond Sim, Jiun-Ting Yeh, and Yong-Ling Ban*"
+    },
+    {
+      "論文名稱": "Annular ring slot antenna design with reconfigurable polarization",
+      "期刊名稱": "International Journal of RF and Microwave Computer-aided Engineering (SCIE,EI)",
+      "作者群": "Chih-Chiang Chen*, Chow-Yen-Desmond Sim, Hen-Lun Lin"
+    },
+    {
+      "論文名稱": "A Miniature Coupled-Line-Based 3-dB Directional Coupler Using GaAs PHEMT Process",
+      "期刊名稱": "International Journal of RF and Microwave Computer-aided Engineering (SCIE,EI)",
+      "作者群": "Chih-Chiang Chen*, Chow-Yen-Desmond Sim, Sao-An Ho"
+    },
+    {
+      "論文名稱": "A dual-band antenna design for MIMO LTE applications with reduced ground effects",
+      "期刊名稱": "International Journal of RF and Microwave Computer-aided Engineering (SCIE,EI)",
+      "作者群": "Chow-Yen-Desmond Sim*, Chih-Chiang Chen, and Yuan-Lung Lee"
+    },
+    {
+      "論文名稱": "Broadband circularly polarized stacked patch antenna for universal UHF RFID applications",
+      "期刊名稱": "IEICE Transactions on Communications (SCIE,EI)",
+      "作者群": "Chih-Chiang Chen, and Bo-Shau Chen, and Chow-Yen-Desmond Sim*"
+    },
+    {
+      "論文名稱": "Polarization reconfigurable eccentric annular ring slot antenna design",
+      "期刊名稱": "IEEE Transaction Antennas and Propagation (SCIE,EI)",
+      "作者群": "Chow-Yen-Desmond Sim*, Yan-Jie Liao and Hen-Lun Lin"
+    },
+    {
+      "論文名稱": "A Circular Patch Antenna with Parasitic Element for UHF RFID Applications",
+      "期刊名稱": "International Journal of RF and Microwave Computer-Aided Engineering (SCIE,EI)",
+      "作者群": "Chow-Yen-Desmond Sim*, Chih-Chiang Chen, Rong Cao, and Bo-Shau Chen"
+    },
+    {
+      "論文名稱": "Annular-ring slot antenna designs with CP radiation",
+      "期刊名稱": "International Journal of RF and Microwave Computer-aided Engineering (SCIE,EI)",
+      "作者群": "Chow-Yen-Desmond Sim, Wei-Chung Weng*, Ming-Husan Chang, and Bo-Yu Chen"
+    },
+    {
+      "論文名稱": "Compact slot antenna for wireless local area network 2.4/5.2/5.8 GHz applications",
+      "期刊名稱": "IET Microwaves, Antennas and Propagation (SCIE,EI)",
+      "作者群": "Chow-Yen-Desmond Sim*, Yuan-Kai Shih, and Ming-Hsuan Chang"
+    },
+    {
+      "論文名稱": "CPW-fed Square Ring Slot Antenna with CP Radiation for WiMAX 2.3 GHz and WLAN 2.4 GHz Applications",
+      "期刊名稱": "Microwave and Optical Technology Letters (SCIE,EI)",
+      "作者群": "Chow-Yen-Desmond Sim*, Horng-Dean Chen, Liang Zuo, and Ting-An Chen"
+    },
+    {
+      "論文名稱": "Slits loaded circularly polarized universal UHF RFID reader Antenna",
+      "期刊名稱": "IEEE Antennas and Wireless Propagation (SCIE,EI)",
+      "作者群": "Chow-Yen-Desmond Sim*, Yi-Wen Hsu, and Guanli Yang"
+    },
+    {
+      "論文名稱": "Small size tripleband monopole antenna with a parasitic element",
+      "期刊名稱": "Microwave and Optical Technology Letters (SCIE,EI)",
+      "作者群": "Chow-Yen-Desmond Sim*, Horng-Dean Chen, Chih-Hsuan Yeh, and Hen-Lun Lin"
+    },
+    {
+      "論文名稱": "High-gain circularly-polarized loop tag Antenna for long reading distance RFID application",
+      "期刊名稱": "Microwave and Optical Technology Letters (SCIE,EI)",
+      "作者群": "Ching-Han Tsai, Horng-Dean Chen*, and Chow-Yen-Desmond Sim"
+    },
+    {
+      "論文名稱": "Equilateral Triangular Patch Antenna for UHF RFID Applications",
+      "期刊名稱": "International Journal of RF and Microwave Computer-aided Engineering (SCIE,EI)",
+      "作者群": "Chia-Hsun Yeh, Yi-Wen Hsu, and Chow-Yen-Desmond Sim*"
+    },
+    {
+      "論文名稱": "An inverted-F antenna design for WLAN/WiMAX dual-network applications",
+      "期刊名稱": "International Journal of RF and Microwave Computer-aided Eng (SCIE,EI)",
+      "作者群": "Chow-Yen-Desmond Sim* and Yu-Nian Lai"
+    },
+    {
+      "論文名稱": "Microstrip-fed ring slot antenna design with wideband harmonic suppression",
+      "期刊名稱": "IEEE Transaction Antennas and Propagation (SCIE,EI)",
+      "作者群": "Chow-Yen-Desmond Sim*, Ming-Hsuan Chang, and Bo-Yu Chen"
+    },
+    {
+      "論文名稱": "A frequency reconfigurable half annular ring slot antenna design",
+      "期刊名稱": "IEEE Transaction Antennas and Propagation (SCIE,EI)",
+      "作者群": "Chow-Yen-Desmond Sim*, Tung-Yung Han, and Yan-Jie Liao"
+    },
+    {
+      "論文名稱": "Dual band quasi-self-complementary antennas for wireless local area network operation",
+      "期刊名稱": "International Journal of RF and Microwave Computer-aided Eng (SCIE,EI)",
+      "作者群": "Tuan-Yung Han, Chow-Yen-Desmond Sim*, and Yu-Nian Lai"
+    },
+    {
+      "論文名稱": "Dual broadband slot antenna design for WLAN applications",
+      "期刊名稱": "Microwave and Optical Technology Letters (SCIE,EI)",
+      "作者群": "Chow-Yen-Desmond Sim*, Yi-Wen Hsu, and Chun-Heng Chao"
+    },
+    {
+      "論文名稱": "A 2 × 2 array antenna with circular polarization and conical beam radiation",
+      "期刊名稱": "International Journal of RF and Microwave Computer-aided Eng (SCIE,EI)",
+      "作者群": "Chow-Yen-Desmond Sim*, Tuan-Yung Han, Chin-Jen Chi, and Bo-Yu Chen"
+    },
+    {
+      "論文名稱": "Uniplanar Antenna Design with Adhesive Ground Plane for Laptop WLAN Operation",
+      "期刊名稱": "IEEE Antennas and Wireless Propagation Letters (SCIE,EI)",
+      "作者群": "Chow-Yen-Desmond Sim, Hsuan-Yu Chien, and Ching-Her Lee*"
+    },
+    {
+      "論文名稱": "Circularly Polarized Loop Tag Antenna for Long Reading Range RFID Applications",
+      "期刊名稱": "IEEE Antennas and Wireless Propagation Letters (SCIE,EI)",
+      "作者群": "Horng-Dean Chen*, Ching-Han Tsai, Chow-Yen-Desmond Sim, and Che-Yang Kuo"
+    },
+    {
+      "論文名稱": "A dualband coupled-fed LTE/WWAN antenna for mobile devices",
+      "期刊名稱": "Microwave and Optical Technology Letters (SCIE,EI)",
+      "作者群": "Chow-Yen-Desmond Sim* and Yu-Lun Chien"
+    },
+    {
+      "論文名稱": "Dual-/Triple-band Asymmetric Dipole Antenna for WLAN Operation in Laptop Computer",
+      "期刊名稱": "IEEE Transaction Antennas and Propagation (SCIE,EI)",
+      "作者群": "Chow-Yen-Desmond Sim, Hsuan-Yu Chien, and Ching-Her Lee*"
+    },
+    {
+      "論文名稱": "A circularly polarized Olympic-like logo antenna for 900 MHz UHF RFID reader",
+      "期刊名稱": "Microwave and Optical Technology Letters (SCIE,EI)",
+      "作者群": "Chow-Yen-Desmond Sim* and Chin-Jen Chi"
+    },
+    {
+      "論文名稱": "Dual-band meander monopole antenna for WLAN operation in laptop computer",
+      "期刊名稱": "IEEE Antennas and Wireless Propagation Letters (SCIE,EI)",
+      "作者群": "Hsuan-Yu Chien, Chow-Yen-Desmond Sim, and Ching-Her Lee*"
+    },
+    {
+      "論文名稱": "A microstrip antenna design with multi-slots embedded into the ground plane for circular polarization",
+      "期刊名稱": "Int. Journal of RF and Microwave Computer-aided Engineering (SCIE,EI)",
+      "作者群": "Chow-Yen-Desmond Sim*, Tuan-Yung Han, and Bo-Hua Yang"
+    },
+    {
+      "論文名稱": "Compact broadband dual coupling-feed circularly polarized RFID microstrip tag antenna mountable on metallic surface",
+      "期刊名稱": "IEEE Transaction Antenna and Propagation (SCIE,EI)",
+      "作者群": "Horng-Dean Chen*, Chow-Yen-Desmond Sim, and Shang-Huang Kuo"
+    },
+    {
+      "論文名稱": "Coplanar waveguide-fed slot antenna for wireless local area network/worldwide interoperability for microwave access applications",
+      "期刊名稱": "IET Microwaves, Antennas and Propagation (SCIE,EI)",
+      "作者群": "Chow-Yen-Desmond Sim*, Horng-Dean Chen, Kuan-Chih Chiu, and Chun-Heng Chao"
+    },
+    {
+      "論文名稱": "Embroidered wearable antenna for ultrawideband applications",
+      "期刊名稱": "Microwave and Optical Technology Letters (SCIE,EI)",
+      "作者群": "Chow-Yen-Desmond Sim, Chih-Wei Tseng, and Hoang-Jyh Leu*"
+    },
+    {
+      "論文名稱": "A slot loaded circularly polarized patch antenna for UHF RFID reader",
+      "期刊名稱": "IEEE Transaction Antenna and Propagation (SCIE,EI)",
+      "作者群": "Chow-Yen-Desmond Sim* and Chin-Jen Chi"
+    },
+    {
+      "論文名稱": "Conical beam array antenna with polarization diversity",
+      "期刊名稱": "IEEE Transaction Antenna and Propagation (SCIE,EI)",
+      "作者群": "Chow-Yen-Desmond Sim*"
+    },
+    {
+      "論文名稱": "A uniplanar printed antenna with an inverted L-shaped coupling feed for LTE/GSM/DCS/PCS/UMTS operations",
+      "期刊名稱": "Int. Journal of RF and Microwave Computer-aided Engineering (SCIE,EI)",
+      "作者群": "Chow-Yen-Desmond Sim*, Ke-Ren Chen, and Wen-Bin He"
+    },
+    {
+      "論文名稱": "Broadband High-Gain Microstrip Array Antennas for WiMAX Base Station",
+      "期刊名稱": "IEEE Transaction Antenna and Propagation, (SCIE,EI)",
+      "作者群": "Horng-Dean Chen*, Chow-Yen-Desmond Sim, Jun-Yi Wu, and Tsung-Wen Chiu"
+    },
+    {
+      "論文名稱": "A multiband hybrid antenna with double layer structures for mobile devices",
+      "期刊名稱": "Microwave and Optical Technology Letters (SCIE,EI)",
+      "作者群": "Chow-Yen-Desmond Sim*, Chun-Heng Chao, and Wen-Bin He"
+    },
+    {
+      "論文名稱": "Coupling-feed circularly polarized RFID tag antenna mountable on metallic surface",
+      "期刊名稱": "IEEE Transaction Antenna and Propagation (SCIE,EI)",
+      "作者群": "Horng-Dean Chen*, Shang-Huang Kuo, Chow-Yen-Desmond Sim, and Chin-Han Tsai"
+    },
+    {
+      "論文名稱": "A dual circular-slot microstrip antenna for GPS application",
+      "期刊名稱": "International Journal of RF and Microwave Computer-aided Eng (SCIE,EI)",
+      "作者群": "Chow-Yen-Desmond Sim*"
+    },
+    {
+      "論文名稱": "A compact open-ended slot antenna design for UWB applications",
+      "期刊名稱": "Microwave and Optical Technology Letters (SCIE,EI)",
+      "作者群": "Chow-Yen-Desmond Sim, Chih-Wei Tseng, and Wei-Chung Weng*"
+    },
+    {
+      "論文名稱": "Multiband double-folded PIFA design for mobile applications",
+      "期刊名稱": "Microwave and Optical Technology Letters (SCIE,EI)",
+      "作者群": "Chow-Yen-Desmond Sim*, and Wen-Bin He"
+    },
+    {
+      "論文名稱": "Multiband slot-ring antenna with single and dual capacitive coupled patch for wireless local area network/worldwide interoperability for microwave access operation",
+      "期刊名稱": "IET Microwaves, Antennas and Propagation (SCIE,EI)",
+      "作者群": "Chow-Yen-Desmond Sim*, Fu-Ren Cai, and Yuan-Pu Hsieh"
+    },
+    {
+      "論文名稱": "Compact coplanar waveguide-fed monopole antenna with a folded ground strip for 5-GHz wireless applications",
+      "期刊名稱": "Microwave and Optical Technology Letters (SCIE,EI)",
+      "作者群": "Chow-Yen-Desmond Sim*, Chung-Hsien Ho, and Yu-Lun Chien"
+    },
+    {
+      "論文名稱": "Microstrip-fed polygon slot antenna design for WLAN applications",
+      "期刊名稱": "Microwave and Optical Technology Letters (SCIE,EI)",
+      "作者群": "Chow-Yen-Desmond Sim* and Fu-Ren Cai"
+    },
+    {
+      "論文名稱": "A compact monopole antenna for super wideband applications",
+      "期刊名稱": "IEEE Antennas and Wireless Propagation Letters (SCIE,EI)",
+      "作者群": "Ke-Ren Chen, Chow-Yen-Desmond Sim*, and Jeen-Sheen Row"
+    },
+    {
+      "論文名稱": "Compact size planar folded PIFA design for mobile handset",
+      "期刊名稱": "Microwave and Optical Technology Letters (SCIE,EI)",
+      "作者群": "Chow-Yen-Desmond Sim*, Po-Chun Cheng, and Ching-Her Lee"
+    },
+    {
+      "論文名稱": "Rectangular slot antenna design with two L-shaped slits for WLAN/WiMAX applications",
+      "期刊名稱": "Microwave and Optical Technology Letters (SCIE,EI)",
+      "作者群": "Chow-Yen-Desmond Sim* and Fu-Ren Cai"
+    },
+    {
+      "論文名稱": "Low-profile multiband planar hybrid antenna design for mobile handset applications",
+      "期刊名稱": "Microwave and Optical Technology Letters (SCIE,EI)",
+      "作者群": "Chow-Yen-Desmond Sim*, Po-Chun Cheng, and Ching-Her Lee"
+    },
+    {
+      "論文名稱": "CPW-fed equilateral triangular-ring slot antenna with capacitive loading",
+      "期刊名稱": "Microwave and Optical Technology Letters (SCIE,EI)",
+      "作者群": "Ke-Ren Chen, Chow-Yen-Desmond Sim*, Yuan-Pu Hsieh, and Jeen-Sheen Row"
+    },
+    {
+      "論文名稱": "Quad-band PIFA design for WLAN-Satellite applications",
+      "期刊名稱": "Microwave and Optical Technology Letters (SCIE,EI)",
+      "作者群": "Chow-Yen-Desmond Sim* and Yu-Ting Cheng"
+    },
+    {
+      "論文名稱": "Planar UWB antenna with 5 GHz band rejection switching function at ground plane",
+      "期刊名稱": "Progress In Electromagnetic Research (SCIE,EI)",
+      "作者群": "Chow-Yen-Desmond Sim, Po-Chun Cheng, and Ching-Her Lee"
+    },
+    {
+      "論文名稱": "Compact slot antenna for UWB applications",
+      "期刊名稱": " IEEE Antennas and Wireless Propagation Letters (SCIE,EI)",
+      "作者群": "Chow-Yen-Desmond Sim, Wen-Tsan Chung and Ching-Her Lee"
+    },
+    {
+      "論文名稱": "Cross-layer architecture with adaptive polarization diversity via reconfigurable antenna for WiMAX resource management",
+      "期刊名稱": "International Journal of Electrical Engineering (EI)",
+      "作者群": "Ke-Ren Chen, Jeen-Sheen Row, and Chow-Yen-Desmond Sim"
+    },
+    {
+      "論文名稱": "Planar multilateral disc monopole antenna with variable band-notch function for Bluetooth/UWB applications",
+      "期刊名稱": "Journal of Electromagnetic Waves and Applications (SCIE,EI)",
+      "作者群": "Tuan-Yung Han*, Chow-Yen-Desmond Sim, and Wen-Ching Wu"
+    },
+    {
+      "論文名稱": "Compact Monopole Antenna Design for WLAN/UWB Applications",
+      "期刊名稱": "Microwave and Optical Technology Letters (SCIE,EI)",
+      "作者群": "Wen-Tsan Chung, Ching-Her Lee, and Chow-Yen-Desmond Sim"
+    },
+    {
+      "論文名稱": "Multi-band printed internal monopole antenna for mobile handset applications",
+      "期刊名稱": "Journal of Electromagnetic Waves and Applications (SCIE,EI)",
+      "作者群": "Po-Chun Cheng, Chow-Yen-Desmond Sim, and Ching-Her Lee"
+    },
+    {
+      "論文名稱": "Dual-feed dual-polarized patch antenna with low cross polarization and high isolation",
+      "期刊名稱": "IEEE Transaction Antenna and Propagation (SCIE,EI)",
+      "作者群": "Chow-Yen-Desmond Sim, Chun-Chuan Chang and Jeen-Sheen Row"
+    },
+    {
+      "論文名稱": "Dual-feed dual-polarized patch antenna with low cross polarization and high isolation",
+      "期刊名稱": "IEEE Trans. Ant. & Prop.,Special Issue on Wireless Comm. (SCIE,EI)",
+      "作者群": "Chow-Yen-Desmond Sim, Chun-Chuan Chang and Jeen-Sheen Row"
+    },
+    {
+      "論文名稱": "Multi-band loop antenna design for mobile devices",
+      "期刊名稱": "Microwave and Optical Technology Letters (SCIE,EI)",
+      "作者群": "Chow-Yen-Desmond Sim, Po-Chun Cheng and Ching-Her Lee"
+    },
+    {
+      "論文名稱": "A novel compact quad-band narrow strip-loaded printed monopole antenna",
+      "期刊名稱": "IEEE Antennas and Wireless Propagation Letters (SCIE,EI)",
+      "作者群": "Chih-Chiang Chen, Chow-Yen-Desmond Sim, and Fu-Syuan Chen"
+    },
+    {
+      "論文名稱": "An aperture-coupled antenna with switchable polarization and frequency agility",
+      "期刊名稱": " Electronics Letters (SCIE,EI)",
+      "作者群": "Chow-Yen-Desmond Sim, Tin-Yi Lin and Jeen-Sheen Row"
+    },
+    {
+      "論文名稱": "A circular-disc monopole antenna with band-rejection function for ultrawideband application",
+      "期刊名稱": "Microwave and Optical Technology Letters (SCIE,EI)",
+      "作者群": "Chow-Yen-Desmond Sim, Wen-Tsan Chung, and Ching-Her Lee"
+    },
+    {
+      "論文名稱": "Shorted planar triangular patch antenna with dual-frequency operation",
+      "期刊名稱": "International Journal of Electronics and Communications (SCIE,EI)",
+      "作者群": "Tuan-Yung Han and Chow-Yen-Desmond Sim"
+    },
+    {
+      "論文名稱": "An octagonal UWB monopole antenna with 5 GHz band-notch function",
+      "期刊名稱": "Microwave and Optical Technology Letters (SCIE,EI)",
+      "作者群": "Chow-Yen-Desmond Sim, Wen-Tsan Chung and Ching-Her Lee"
+    },
+    {
+      "論文名稱": "Printed UWB monopole antenna embedded with L-shaped slots in the ground plane for 5-GHz band-notch function",
+      "期刊名稱": "Journal of Electromagnetic Waves and Applications (SCIE,EI)",
+      "作者群": "Chow-Yen-Desmond Sim, Wen-Tsan Chung and Ching-Her Lee"
+    },
+    {
+      "論文名稱": "Dual band CPW-fed monopole antenna with asymmetrical ground plane for bandwidth enhancement",
+      "期刊名稱": "Microwave and Optical Technology Letters (SCIE,EI)",
+      "作者群": "Chow-Yen-Desmond Sim"
+    },
+    {
+      "論文名稱": "Novel band-notch UWB antenna design with slit ground plane",
+      "期刊名稱": "Microwave and Optical Technology Letters (SCIE,EI)",
+      "作者群": "Chow-Yen-Desmond Sim, Wen-Tsan Chung, and Ching-Her Lee"
+    },
+    {
+      "論文名稱": "Multi-band planar antenna design for mobile handsets",
+      "期刊名稱": "Microwave and Optical Technology Letters (SCIE,EI)",
+      "作者群": "Chow-Yen-Desmond Sim"
+    },
+    {
+      "論文名稱": "A single layer dual-band CP microstrip antenna for GPS and DSRC application",
+      "期刊名稱": "of Electromagnetic Waves and Applications (SCIE,EI)",
+      "作者群": "Chow-Yen-Desmond Sim and Bo-Hua Yang"
+    },
+    {
+      "論文名稱": "Reconfigurable monopolar circular patch antenna for wireless communication systems",
+      "期刊名稱": "Journal of Electromagnetic Waves and Applications (SCIE,EI)",
+      "作者群": "Tuan-Yung Han and Chow-Yen-Desmond Sim"
+    },
+    {
+      "論文名稱": "GPS antenna design with slotted ground plane",
+      "期刊名稱": "Microwave and Optical Technology Letters (SCIE,EI)",
+      "作者群": "Chow-Yen-Desmond Sim and Tuan-Yung Han"
+    },
+    {
+      "論文名稱": "Dual and triple-band PIFA design for WLAN applications",
+      "期刊名稱": "Microwave and Optical Technology Letters (SCIE,EI)",
+      "作者群": "Chow-Yen-Desmond Sim*"
+    },
+    {
+      "論文名稱": "A dual-band antenna design for GPS and UMTS applications",
+      "期刊名稱": "Microwave and Optical Technology Letters (SCIE,EI)",
+      "作者群": "Chow-Yen-Desmond Sim*, Jeen-Sheen Row and Shing-Hau Chen"
+    },
+    {
+      "論文名稱": "Single-feed square-ring patch antenna with dual-frequency operation",
+      "期刊名稱": "Microwave and Optical Technology Letters (SCIE,EI)",
+      "作者群": "Shing-Hau Chen, Jeen-Sheen Row and Chow-Yen-Desmond Sim*"
+    },
+    {
+      "論文名稱": "A novel dual frequency PIFA design for ease of manufacturing",
+      "期刊名稱": "Journal of Electromagnetic Waves and Applications (SCIE,EI)",
+      "作者群": "Chow-Yen-Desmond Sim*"
+    },
+    {
+      "論文名稱": "Dual-frequency shorted patch antenna for WLAN application",
+      "期刊名稱": "Microwave and Optical Technology Letters (SCIE,EI)",
+      "作者群": "Chow-Yen-Desmond Sim and Shu-Yang Tu"
+    },
+    {
+      "論文名稱": "Experimental studies of a shorted triangular microstrip antenna embedded with dual V-shaped slots",
+      "期刊名稱": "Journal of Electromagnetic Waves and Applications (SCIE,EI)",
+      "作者群": "Chow-Yen-Desmond Sim, Jeen-Sheen Row and Yen-You Liou"
+    },
+    {
+      "論文名稱": "Probe-feed circularly polarized square-ring microstrip antennas with thick substrate",
+      "期刊名稱": "Journal of Electromagnetic Waves and Applications (SCIE,EI)",
+      "作者群": "Tuan-Yung Han and Chow-Yen-Desmond Sim"
+    },
+    {
+      "論文名稱": "Compact designs of a shorted triangular patch antenna with a V Slot",
+      "期刊名稱": "Microwave and Optical Technology Letters (SCIE,EI)",
+      "作者群": "Chow-Yen-Desmond Sim* and Tuan-Yung Han"
+    },
+    {
+      "論文名稱": "Signal strength measurements at frequencies of around 300 MHz over two sea paths in the British Channel Islands",
+      "期刊名稱": "Radio Science (SCIE,EI)",
+      "作者群": "Chow-Yen-Desmond Sim and Edward-Mike Warrington*"
+    },
+    {
+      "論文名稱": "Characteristics of superstrate-loaded circular polarization square-ring microstrip antenna on thick substrate",
+      "期刊名稱": "Microwave and Optical Technology Letters (SCIE,EI)",
+      "作者群": "Chow-Yen-Desmond Sim, Jeen-Sheen Row and Ming-Yu Chen"
+    },
+    {
+      "論文名稱": "Broadband printed ring-slot array with circular polarization",
+      "期刊名稱": "Electronics Letters (SCIE,EI)",
+      "作者群": "Jeen-Sheen Row, Chow-Yen-Desmond Sim and Kuang-Wei Lin"
+    }
+  ],
+  "journal2": [],
+  "conference": [
+    {
+      "論文名稱": "5G millimeter-Wave Antenna Solutions for Smartphones (Invited Talk)",
+      "會議名稱": "2024 IEEE Wireless Antenna and Microwave Symposium (WAMS)",
+      "作者群": "Chow-Yen-Desmond Sim*"
+    },
+    {
+      "論文名稱": "A Low Profile Laptop Antenna Design for Wi-Fi 7 Operations",
+      "會議名稱": "2023 Asia-Pacific Microwave Conference (APMC)",
+      "作者群": "Chow-Yen-Desmond Sim*, Po-Yu Chuang, Ming-Guan Chen, Jun-Wei Ju, and Wu-Chun Chen"
+    },
+    {
+      "論文名稱": "Design of Filtering 180O Hybrid Coupler Based on Coupled-Resonator Structures",
+      "會議名稱": "2023 IEEE 6th International Conference on Electronic Information and Communication Technology (ICEICT)",
+      "作者群": "Ning Yang, Qiang Shao, Ming-Ya Lun, Zi-Yu Pang, Guan-Long Huang*, and Chow-Yen-Desmond Sim"
+    },
+    {
+      "論文名稱": "High-efficiency full-metal dual-mode cavity-backed slot antenna array with filtering response",
+      "會議名稱": "2023 IEEE International Symposium on Antennas and Propagation and USNC-URSI Radio Science Meeting (USNC-URSI)",
+      "作者群": "Zhi-Cai Liao, Rui-Sen Chen, Qiang Shao, Mustafa K. Taher Al-Nuaimi, Guan-Long Huang*, Chow-Yen-Desmond Sim"
+    },
+    {
+      "論文名稱": "The Detrimental Effects Experienced by a 5G mmWave 1×4 Antenna Array when Integrated into a Smartphone",
+      "會議名稱": "2023 IEEE International Symposium on Antennas and Propagation and USNC-URSI Radio Science Meeting (USNC-URSI)",
+      "作者群": "Chow-Yen-Desmond Sim*, Jeng-Jr Lo, and Horng-Dean Chen"
+    },
+    {
+      "論文名稱": "Study on co-and cross-polarization radiation patterns of dipole antenna",
+      "會議名稱": "2023 IEEE International Symposium on Antennas and Propagation and USNC-URSI Radio Science Meeting (USNC-URSI)",
+      "作者群": "Rahul Kumar Jaiswal*, Ranjit Kumar Dutta, Sudeb Bhattacharya, Chow-Yen-Desmond Sim, and Kumar Vaibhav Srivastava"
+    },
+    {
+      "論文名稱": "Wideband Vertically Polarized Magnetic Dipole Antenna for MIMO Applications",
+      "會議名稱": "2023 IEEE Wireless Antenna and Microwave Symposium (WAMS)",
+      "作者群": "Rahul Kumar Jaiswal*, Baisakhi Bandyopadhyay, Chow-Yen-Desmond Sim, and Kumar Vaibhav Srivastava"
+    },
+    {
+      "論文名稱": "Novel Techniques Applied to MIMO Antenna Array for 5G Sub-7 GHz Smartphone Applications (Invited Talk)",
+      "會議名稱": "2023 IEEE Wireless Antenna and Microwave Symposium (WAMS)",
+      "作者群": "Chow-Yen-Desmond Sim*"
+    },
+    {
+      "論文名稱": "Novel techniques applied to MIMO antenna array for 5G Sub-7 GHz smartphone applications (Invited Talk)",
+      "會議名稱": "2023 International Workshop on Antenna Technology (iWAT)",
+      "作者群": "Chow-Yen-Desmond Sim*"
+    },
+    {
+      "論文名稱": "A simply-constructed wideband onmidirectional antenna for 2/3/4/5G application",
+      "會議名稱": "2022 Cross Strait Radio Science & Wireless Technology Conference (CSRSWTC)",
+      "作者群": "Zhong-Qi Zhang, Min Chen, Xiao-Dong Li, Hao-Lei Liu, Guan-Long Huang, Wei Fan, and Chow-Yen-Desmond Sim"
+    },
+    {
+      "論文名稱": "A shared-radiator dual-polarized wideband antenna for 5G application",
+      "會議名稱": "2022 Cross Strait Radio Science & Wireless Technology Conference (CSRSWTC)",
+      "作者群": "Min Chen, Zhong-Qi Zhang, Xiao-Dong Li, Hao-Lei Liu, Guan-Long Huan, Wei Fan, and Chow-Yen-Desmond Sim"
+    },
+    {
+      "論文名稱": "A linear decreasing inertia weight particle swarm optimization base on a K-means clustering chaotic sampling for antenna design",
+      "會議名稱": "2022 Cross Strait Radio Science & Wireless Technology Conference (CSRSWTC)",
+      "作者群": "Peng-Fei Qin, Wen-Hao Li, Dong Wang, Guan-Long Huang, Wei Fan, and Chow-Yen-Desmond Sim"
+    },
+    {
+      "論文名稱": "Wideband endfire circularly polarized antenna using magnetoelectric dipole",
+      "會議名稱": "2022 IEEE Microwaves, Antennas, and Propagation Conference (MAPCON)",
+      "作者群": "Rahul Kumar Jaiswal*, Anuj Kumar Ojha, Kahani Kumari, Gourab Das, Chow-Yen-Desmond Sim, and Kumar Vaibhav Srivastava"
+    },
+    {
+      "論文名稱": "Wideband endfire circularly polarized antenna using magnetoelectric dipole",
+      "會議名稱": "2022 IEEE Microwaves, Antennas, and Propagation Conference (MAPCON)",
+      "作者群": "Rahul Kumar Jaiswal*, Anuj Kumar Ojha, Kahani Kumari, Gourab Das, Chow-Yen-Desmond Sim, and Kumar Vaibhav Srivastava"
+    },
+    {
+      "論文名稱": "Ku-/Ka-Band Antenna Array Solutions for LEO Satellite Communication (Workshop Speaker)",
+      "會議名稱": "2022 Aisa-Pacific Microwave Conference (APMC 2022)",
+      "作者群": "Chow-Yen-Desmond Sim*"
+    },
+    {
+      "論文名稱": "Compact triple-passband bandpass filter using asymmetric stepped impedance resonators",
+      "會議名稱": "2022 Aisa-Pacific Microwave Conference (APMC 2022)",
+      "作者群": "Shi-Peng Chen*, Hung-Wei Wu, Yung-Wei Chen, and Chow-Yen-Desmond Sim"
+    },
+    {
+      "論文名稱": "The development of NFC antenna for metal-casing smartphone applications",
+      "會議名稱": "2022 IEEE 10th Asia-Pacific Conference on Antennas and Propagation (APCAP 2022)",
+      "作者群": "Chow-Yen-Desmond Sim*"
+    },
+    {
+      "論文名稱": "Wideband MIMO array design for 5G smartphone applications operating in the NR band n77/n78/n79 and NR-U band n46/n96 (Invited Talk)",
+      "會議名稱": "2022 IEEE 10th Asia-Pacific Conference on Antennas and Propagation (ISAP 2022)",
+      "作者群": "Chow-Yen-Desmond Sim*"
+    },
+    {
+      "論文名稱": "A wideband reconfigurable dielectric resonator antenna with polarization and pattern diversities",
+      "會議名稱": "2022 IEEE/CIC International Conference on Communications in China (ICCC 2022)",
+      "作者群": "Xujun Yang, Yuan Ji, Lei Ge*, and Chow-Yen-Desmond Sim"
+    },
+    {
+      "論文名稱": "Gap-coupled loop MIMO array design for smartphone applications",
+      "會議名稱": "2022 IEEE/CIC International Conference on Communications in China (ICCC 2022)",
+      "作者群": "Chow-Yen-Desmond Sim*, Yu-Hsuan Lin, and Ting-Yu Zhang"
+    },
+    {
+      "論文名稱": "A PIFA design with WLAN and Wi-Fi 6E band for laptop computer applications",
+      "會議名稱": "2022 IEEE International Symposium on Antennas and Propagation and USNC-URSI Radio Science Meeting (2022 AP-S/URSI)",
+      "作者群": "Chow-Yen-Desmond Sim*, Jayshri Kulkarni, Anisha M. Apte, Rong Cao, Chih-Chiang Chen, Shr-Hua Wang, Yu-Ru Shu, and Hui-Zhi Lai"
+    },
+    {
+      "論文名稱": "MIMO antenna with hexagonal split ring resonator for LTE, Wireless LAN, and Wi-Fi 6 services",
+      "會議名稱": "2022 IEEE International Symposium on Antennas and Propagation and USNC-URSI Radio Science Meeting (2022 AP-S/URSI)",
+      "作者群": "Chow-Yen-Desmond Sim, Jayshri Kulkarni*, Anisha M. Apte, Rong Cao, Chih-Chiang Chen, Shr-Hua Wang, Yu-Ru Shu, and Hui-Zhi Lai"
+    },
+    {
+      "論文名稱": "The development of NFC antenna for metal-casing smartphone applications (Invited Talk)",
+      "會議名稱": "2022 Wireless, Antenna & Microwave Symposium (WAMS 2022)",
+      "作者群": "Chow-Yen-Desmond Sim*"
+    },
+    {
+      "論文名稱": "Multiband and multifunctional microstrip fed antenna for WLAN/LTE/X/Ku band applications",
+      "會議名稱": "2022 IEEE 7th International conference for Convergence in Technology (I2CT 2022)",
+      "作者群": "Shraddha Habbu, Jayshri Kulkarni*, Gauri Ghule, Archana Ratnaparkhi, Abdullah G Alharbi, and Chow-Yen-Desmond Sim"
+    },
+    {
+      "論文名稱": "Quad-band bandpass filter using modified asymmetric stepped impedance resonators",
+      "會議名稱": "2021 European Microwave Conference (EuMC)",
+      "作者群": "Shi-Peng Chen, Yung-Wei Chen, Sung-Pu Wu, Hung-Wei Wu, and Chow-Yen-Desmond Sim"
+    },
+    {
+      "論文名稱": "Compact, multiband, flexible decagon ring monopole antenna for GSM/LTE/5G/WLAN applications",
+      "會議名稱": "2022 16th European Conference on Antennas and Propagation (2022 EuCAP)",
+      "作者群": "Jayshri Kulkarni*, Abdullah G. Alharbi, Chow-Yen-Desmond Sim, and Jaume Anguera"
+    },
+    {
+      "論文名稱": "使用多層結構實現微小化3 頻帶通濾波器",
+      "會議名稱": "2022全國電信研討會",
+      "作者群": "陳師鵬, 吳宏偉*, 沈昭元"
+    },
+    {
+      "論文名稱": "Design and analysis of dual band tapered-fed monopole antenna for 5G and satellite applications",
+      "會議名稱": "2021 IEEE 18th India Council International Conference (INDICON)",
+      "作者群": "Jayshri Kulkarni*, Chow-Yen-Desmond Sim, Rajendra Talware, Vivek Deshpande, Abhijit Chitre, and Jaume Anguera,"
+    },
+    {
+      "論文名稱": "A compact dual-band dual-antenna building block for 5G mobile communication application",
+      "會議名稱": "2021 IEEE International Symposium on Antennas and Propagation and USNC-URSI Radio Science Meeting (APS/URSI)",
+      "作者群": "Zi-Yu Pang, Guan-Long Huang, and Chow-Yen-Desmond Sim*"
+    },
+    {
+      "論文名稱": "Multiband 4-Port DGS MIMO antenna with DR isolating element for wireless applications",
+      "會議名稱": "2021 IEEE International Symposium on Antennas and Propagation and USNC-URSI Radio Science Meeting (APS/URSI)",
+      "作者群": "Jayshri Kulkarni, Tuan-Yung Han, Jeen-Sheen Row, and Chow-Yen-Desmond Sim"
+    },
+    {
+      "論文名稱": "Design of laptop antenna for WLAN and Wi-Fi 6E applications",
+      "會議名稱": "2021 International Symposium on Antennas and Propagation (ISAP 2021)",
+      "作者群": "Tuan-Yung Han*, Wei-Tzu Hsieh, Kai-Hong Jheng, Shih-Hua Wang, Chow-Yen-Desmond Sim"
+    },
+    {
+      "論文名稱": "A pattern reconfigurable antenna design for 5G communication system",
+      "會議名稱": "2021 International Symposium on Antennas and Propagation (ISAP 2021)",
+      "作者群": "Tuan-Yung Han*, Zhi-Kai Hsieh, Jeng Lo, Chow-Yen-Desmond Sim"
+    },
+    {
+      "論文名稱": "A broadband 8-antenna array design for 5G MIMO smartphone applications",
+      "會議名稱": "2021 International Symposium on Antennas and Propagation (ISAP 2021)",
+      "作者群": "Jayshri Kulkarni, Jia-Yu Chen, Tong-Yu Zhang, Chow-Yen-Desmond Sim*"
+    },
+    {
+      "論文名稱": "A circularly polarized UHF RFID tag antenna design",
+      "會議名稱": "2021 International Symposium on Antennas and Propagation (ISAP 2021)",
+      "作者群": "Chow-Yen-Desmond Sim*, Tzu-Wei Huang, Yu-Chieh Hsuan, Shun-Yu Tsai, Chuan-Kuei Weng"
+    },
+    {
+      "論文名稱": "Recent development in wideband antenna array for sub-6GHz 5G smartphones",
+      "會議名稱": "URSI General Assembly and Scientific Symposium (URSI GASS 2021)",
+      "作者群": "Chow-Yen-Desmond Sim*"
+    },
+    {
+      "論文名稱": "A dual-band flexible CPW fed interlocked concentric rings antenna",
+      "會議名稱": "2021 IEEE Madras Section International Conference (IEEE MASCON 2021)",
+      "作者群": "Jayshri Kulkarni, Chow-Yen-Desmond Sim, Abhijeet Chitre, Neeta Kulkarni, Shailesh Kulkarni, Rajendra Talware"
+    },
+    {
+      "論文名稱": "Design and analysis of compact 2D MIMO sub-6 GHz 5G flexible antenna",
+      "會議名稱": "2021 IEEE Madras Section International Conference (IEEE MASCON 2021)",
+      "作者群": "Jayshri Kulkarni*, Chow-Yen-Desmond Sim, Abhijeet Chitre, Neeta Kulkarni, Shailesh Kulkarni, Rajendra Talware"
+    },
+    {
+      "論文名稱": "Recent progress in wideband MIMO array design for 5G smartphone applications operating in the NR band n77/n78/n79 and NR-U band n46/n96",
+      "會議名稱": "The Korean Institute of Electromagnetic Engineering and Science (KIEES) Summer Conference 2021",
+      "作者群": "Chow-Yen-Desmond Sim*"
+    },
+    {
+      "論文名稱": "A two-port dual band microstrip feed based cylindrical dielectric resonator antenna array for sub-6 GHz 5G and super extended-C band applications",
+      "會議名稱": "IEEE International Conference on Communication information and Computing Technology (ICCICT 2021),",
+      "作者群": "Jayshri Kulkarni*, Neeta Kulkarni, Chow-Yen-Desmond Sim, and Arpan Desai"
+    },
+    {
+      "論文名稱": "Defected ground planar antenna for GSM 1800/1900, LTE 46/47 and Wi-Fi 5 wireless applications",
+      "會議名稱": "IEEE 2nd International Conference of Emerging Technologies (INCET 2021)",
+      "作者群": "Jayshri Sharad Kulkarni*, Shraddha Habbu, Gauri Ghule, Archana Ratnaparakhi, Pallavi Deshpande, and Chow-Yen-Desmond Sim"
+    },
+    {
+      "論文名稱": "Six-port symmetrical CPW-fed MIMO antenna for futuristic smartphone devices",
+      "會議名稱": "6th International Conference for Convergence in Technology (I2CT 2021)",
+      "作者群": "Jayshri Kulkarni*, Swapnita Dhabre, Shailesh Kulkarni, Chow-Yen Desmond Sim, Ravi Kumar Gangwar, and Korhan Cengiz"
+    },
+    {
+      "論文名稱": "A dual band dual-polarized sub-6GHz base station antenna",
+      "會議名稱": "15th European Conference on Antennas and Propagation (EuCAP 2021)",
+      "作者群": "Rong Cao*, Chow-Yen-Desmond Sim, and Jia-He Zhuang"
+    },
+    {
+      "論文名稱": "Recent designs to achieving wideband MIMO antenna for 5G NR sub-6GHz smartphone applications",
+      "會議名稱": "International Symposium on Antennas and Propagation (ISAP 2020)",
+      "作者群": "Chow-Yen-Desmond Sim*, Horng-Dean Chen, Jayshri S. Kulkarni, Jeng-Jr Lo, and Yu-Chieh Hsuan"
+    },
+    {
+      "論文名稱": "Recent development in NFC and RFID antennas designs",
+      "會議名稱": "IEEE Indian Conference on Antennas and Propagation (InCAP 2020)",
+      "作者群": "Chow-Yen-Desmond Sim*"
+    },
+    {
+      "論文名稱": "Low-profile, compact, two port MIMO antenna conforming Wi-Fi-5/Wi-Fi-6/V2X/DSRC/INSAT-C for wireless industrial applications",
+      "會議名稱": "IEEE 17th India Council International Conference (INDICON 2020)",
+      "作者群": "Jayshri Kulkarni*, Chow-Yen-Desmond Sim, and Vivek Deshpande"
+    },
+    {
+      "論文名稱": "Low-profile, multiband & wideband ‘C-Shaped’ monopole antenna for 5G and WLAN applications",
+      "會議名稱": "International Conference on Radar, Antenna, Microwave, Electronics, and Telecommunications (ICRAMET 2020)",
+      "作者群": "Jayshri Sharad Kulkarni* and Chow-Yen-Desmond Sim"
+    },
+    {
+      "論文名稱": "Coplanar Antenna Design for GNSS and WiFi Applications",
+      "會議名稱": "2020 IEEE International Workshop on Electromagnetics: Applications and Student Innovation Competition (iWEM 2020)",
+      "作者群": "Chih-Chiang Chen*, Zei-Wei Huang, Kai-Hong Jheng, Zhi-De Lin, Chow-Yen-Desmond Sim, and Horng-Dean Chen"
+    },
+    {
+      "論文名稱": "An inverted-F antenna for RFID tag mounted on a full container of liquid",
+      "會議名稱": "2020 IEEE AP-S Symposium on Antennas and Propagation and CNC/USNC-URSI joint meeting",
+      "作者群": "Nguyen Minh Tan, Hua-Ming Chen*, Chow-Yen-Desmond Sim, and Chien-Hung Chen"
+    },
+    {
+      "論文名稱": "Low-profile, multi-band monopole antenna for futuristic wireless applications",
+      "會議名稱": "6th International Conference on Electronics, Computing and Communication Technologies (IEEE CONECCT 2020)",
+      "作者群": "Jayshri Kulkarni* and Chow-Yen-Desmond Sim"
+    },
+    {
+      "論文名稱": "Recent isolation enhancement techniques applied to array antenna design for 5G sub-6GHz band smartphone applications",
+      "會議名稱": "International Symposium on Antennas and Propagation (ISAP 2019),",
+      "作者群": "Chow-Yen-Desmond Sim* and Heng-You Liu"
+    },
+    {
+      "論文名稱": "An eccentric annular slotted patch with parasitic element for UHF RFID reader applications",
+      "會議名稱": "2019 IEEE International Conference on RFID Technology and Apllications (RFID-TA)",
+      "作者群": "Chow-Yen-Desmond Sim*, Chuan-Wei Lin, Ting-An Chen, Jin-Rong Liou and Hsi-Tseng Chou"
+    },
+    {
+      "論文名稱": "Compact size printed reconfigurable antenna design with slotted ground structure",
+      "會議名稱": "8th Asia-Pacific Conference on Antennas and Propagation (APCAP 2019)",
+      "作者群": "Chow-Yen-Desmond Sim*, Gang-Yan Fan, and Yu-Hsuan Lin"
+    },
+    {
+      "論文名稱": "A dual-band millimeter-wave antenna for 5G mobile applications",
+      "會議名稱": "2019 IEEE Ap-S Symposium on Antennas and Propagation and URSI CNC/USNC Joint Meeting (APS/URSI 2019)",
+      "作者群": "Chong-Zhi Han, Guan-Long Huang*, Tao Yuan, and Chow-Yen-Desmond Sim"
+    },
+    {
+      "論文名稱": "A review on recent array antenna designs for 5G sub-6GHz band smartphone applications",
+      "會議名稱": "8th Asia-Pacific Conference on Antennas and Propagation (APCAP 2019)",
+      "作者群": "Chow-Yen-Desmond Sim* and Heng-You Liu"
+    },
+    {
+      "論文名稱": "A coupled-fed compact size UHF RFID reader antenna with parasitic slotted element",
+      "會議名稱": "2018 IEEE Indian Conference on Antennas and Propagation (InCAP 2018)",
+      "作者群": "Chow-Yen-Desmond Sim, Jai-He Zhuang and Wei-Sheng Liao,"
+    },
+    {
+      "論文名稱": "A coupled-feed monopole antenna for UHF RFID reader application",
+      "會議名稱": "International Symposium on Antennas and Propagation (ISAP 2018)",
+      "作者群": "Chow-Yen-Desmond Sim*, Jia-He Zhuang, Wei-Sheng Liao, Jin-Rong Liou, Chia-Chin Hsu, and Jian-Yu Huang"
+    },
+    {
+      "論文名稱": "Recent progress in practical waveguide-based antennas and passive components with additive manufacturing technology",
+      "會議名稱": "2018 IEEE 7th Asia-Pacific Conference on Antennas and Propagation (APCAP 2018)",
+      "作者群": "Guan-Long Huang*, Jin Li, Tao Yuan, and Chow-Yen-Desmond Sim"
+    },
+    {
+      "論文名稱": "Broadband Slot Antenna Design for On-Body UHF RFID Applications (Invited)",
+      "會議名稱": "2018 IEEE 7th Asia-Pacific Conference on Antennas and Propagation (APCAP 2018)",
+      "作者群": "Chow-Yen-Desmond Sim*, Wei-Sheng Liao, and Jin-Rong Liou"
+    },
+    {
+      "論文名稱": "Recent Advancements in RFID/NFC/WLAN Antenna Designs and its Applications (Keynote Talks)",
+      "會議名稱": "2018 IEEE International Conference on Service Operations and Logistics, and Informatics (SOLI 2018)",
+      "作者群": "Chow-Yen-Desmond Sim*"
+    },
+    {
+      "論文名稱": "Single-feed dual-excitation slot antenna for the LTE tablet device",
+      "會議名稱": "2018 IEEE AP-S Symposium on Antennas and Propagation and URSI CNC/USNC Joint Meeting (AP-S/URSI 2018)",
+      "作者群": "Chien-Hung Chen*, Hua-Ming Chen, Chow-Yen-Desmond Sim, Chia-Te Liao"
+    },
+    {
+      "論文名稱": "A novel NFC antenna for metal cover smartphone applications",
+      "會議名稱": "2018 IEEE AP-S Symposium on Antennas and Propagation and URSI CNC/USNC Joint Meeting (AP-S/URSI 2018)",
+      "作者群": "Jia-Qi Zhu*, Yong-Ling Ban, Rui-Min Xu, Ji-Wei Lian, Chow-Yen-Desmond Sim"
+    },
+    {
+      "論文名稱": "A simple aperture coupled circular patch antenna with CP radiation and frequency agility",
+      "會議名稱": "2018 IEEE AP-S Symposium on Antennas and Propagation and URSI CNC/USNC Joint Meeting (AP-S/URSI 2018)",
+      "作者群": "Chow-Yen-Desmond Sim*, Bo-Yu Chen, Chih-Heng Lin, Tuan-Yung Han, Hsin-Lung Su, Guan-Long Huang"
+    },
+    {
+      "論文名稱": "A compact wideband monopulse feed cluster implemented via 3-D metal printing",
+      "會議名稱": "2018 IEEE AP-S Symposium on Antennas and Propagation and URSI CNC/USNC Joint Meeting (AP-S/URSI 2018)",
+      "作者群": "Guan-Long Huang, Chow-Yen-Desmond Sim, and Tao Yuan"
+    },
+    {
+      "論文名稱": "An introduction to MIMO antenna array designs for future 5G smartphone applications",
+      "會議名稱": "2018 IEEE International Symposium on Electromagnetic Compatibility (APEMC 2018)",
+      "作者群": "Chih-Heng Lin, Heng-Yu Liu and Chow-Yen-Desmond Sim*"
+    },
+    {
+      "論文名稱": "WLAN MIMO antennas for smart watch applications",
+      "會議名稱": "2018 IEEE International Symposium on Electromagnetic Compatibility (APEMC 2018)",
+      "作者群": "Ting-Yan Zhuo*, Wen-Shan Chen, and Chow-Yen-Desmond Sim"
+    },
+    {
+      "論文名稱": "Broadband circularly polarized antenna designs for RFID reader application (Invited Talk)",
+      "會議名稱": "2018 International Workshop on Antenna Technology (iWAT 2018)",
+      "作者群": "Chow-Yen-Desmond Sim*"
+    },
+    {
+      "論文名稱": "Uniplanar Multiband MIMO Antennas for Laptop Computer Applications",
+      "會議名稱": "2017 IEEE International Conference on Antenna Innovations and Modern Technologies (iAIM-2017)",
+      "作者群": "Hsin-Lung Su*, Bo-Wei Huang, Hong-Rui Liang, Jing-Ying Tsai, Jian-Hua Lee, and Chow-Yen-Desmond Sim"
+    },
+    {
+      "論文名稱": "Microstrip-Fed Ring Slot Antenna with Wideband Harmonic Suppression",
+      "會議名稱": "2017 IEEE Progress In Electromagnetics Research Symposium (PIERS)",
+      "作者群": "Chow-Yen-Desmond Sim, Chih-Chiang Chen*, Jin-Sen Chen, and Sheng-Yang Huang"
+    },
+    {
+      "論文名稱": "Dual-wideband single open-slot antenna for LTE/WWAN smartphone",
+      "會議名稱": "2017 IEEE Progress In Electromagnetics Research Symposium (PIERS)",
+      "作者群": "Horng-Dean Chen, Chow-Yen-Desmond Sim, Ruenn-Bo Tsai, and Colin Kuo"
+    },
+    {
+      "論文名稱": "Small-size WLAN/5G MIMO Antenna for Laptop Computer Applications",
+      "會議名稱": "2017 IEEE 4th Asia-Pacific Conference on Antennas and Propagation (APCAP)",
+      "作者群": "Wen-Shan Chen, Jia-Hong Shu, and Chow-Yen-Desmond Sim"
+    },
+    {
+      "論文名稱": "Multiband Antennas for GSM/GPS/LTE/WLAN Smart Watch Applications",
+      "會議名稱": "2017 IEEE 4th Asia-Pacific Conference on Antennas and Propagation (APCAP)",
+      "作者群": "Wen-Shan Chen, Guan-Quan Lin, and Chow-Yen-Desmond Sim"
+    },
+    {
+      "論文名稱": "An ellipse-shaped with slanted slot circularly polarized monopole antenna for UHF RFID Readers",
+      "會議名稱": "2017 IEEE International Symposium on Antennas and Propagation/USNC-URSI National Radio Science meeting",
+      "作者群": "Hsin-Lung Su*, Hong-Sheng Huang, Sung-Lin Chen, and Chow-Yen-Desmond Sim"
+    },
+    {
+      "論文名稱": "Design of ground radiation antenna for RFID Tag mountable on metallic plane",
+      "會議名稱": "2017 IEEE International Symposium on Antennas and Propagation/USNC-URSI National Radio Science meeting",
+      "作者群": "Chia-Te Liao,* Hua-Ming Chen, Yi-Fang Lin, and Chow-Yen-Desmond Sim"
+    },
+    {
+      "論文名稱": "Massive MIMO 5G   small cell antenna with high isolation",
+      "會議名稱": "2017 International Workshop on Electromagnetics: Applications and Student Innovation Competition (iWEM 2017),",
+      "作者群": "Kuan-Chieh Liao, Wen-Shan Chen, and Chow-Yen-Desmond Sim,"
+    },
+    {
+      "論文名稱": "Very small size UHF RFID tag for racing pigeon ring applications",
+      "會議名稱": " 2017  IEEE Wireless Power Transfer Conference International Conference (WPTC 2017)",
+      "作者群": "Shu-Yao Liang, Chih-Chiang Chen, Bo-Shau Chen, and Chow-Yen-Desmond Sim"
+    },
+    {
+      "論文名稱": "MIMO dongle antenna design for next generation mobile communication system",
+      "會議名稱": "2017 International Conference on Computational Electromagnetics (ICCEM 2017)",
+      "作者群": "Wen-Shan Chen, Yung-Chuan Lai, and Chow-Yen-Desmond Sim"
+    },
+    {
+      "論文名稱": "Small USB dongle antenna for penta-band LTE/UMTS/WLAN applications",
+      "會議名稱": " 2017 International Conference on Computational Electromagnetics (ICCEM 2017)",
+      "作者群": "Wen-Shan Chen, Yung-Chuan Lai, and Chow-Yen-Desmond Sim"
+    },
+    {
+      "論文名稱": "A circularly polarized slits loaded UHF RFID antenna with parasitic element",
+      "會議名稱": "2017 International Conference on Computational Electromagnetics (ICCEM 2017)",
+      "作者群": "Chow-Yen-Desmond Sim, Shu-Yao Liang, Chih-Kai Hsieh, and Tuan-Yung Han"
+    },
+    {
+      "論文名稱": "Very low profile inverted-F antenna with 2.4/5.8 GHz WiFi for metal-cover tablet computer",
+      "會議名稱": "2017 International Conference on Computational Electromagnetics (ICCEM 2017)",
+      "作者群": "Jia Yu, Yong-Ling Ban, Li-Wei Zhang, and Chow-Yen-Desmond Sim"
+    },
+    {
+      "論文名稱": "應用於筆電之小型化 WLAN 多頻天線設計",
+      "會議名稱": " 2017 全國電信研討會 (NST 2017)",
+      "作者群": "蔣志暘*、沈昭元"
+    },
+    {
+      "論文名稱": "Compact LTE/WWAN Antenna with Reduced Ground Effects for Tablet/Laptop Applications",
+      "會議名稱": "International Symposium on Antennas and Propagation (ISAP 2016)",
+      "作者群": "Chow-Yen-Desmond Sim*, Zhe-Yu Li, and Chih-Yang Chiang"
+    },
+    {
+      "論文名稱": "Compact size UHF RFID tag for racing pigeon ring applications",
+      "會議名稱": "2016 IEEE 5th Asia-Pacific Conference on Antennas and Propagation (APCAP 2016)",
+      "作者群": "Bo-Shau Chen* and Chow-Yen-Desmond Sim"
+    },
+    {
+      "論文名稱": "Small size circularly polarized patch antenna for 2.4 GHz WLAN applications",
+      "會議名稱": "2016 IEEE 5th Asia-Pacific Conference on Antennas and Propagation (APCAP 2016)",
+      "作者群": "Jiun-Wen Yang, Ting-Yi Tsai, Chun-Cheng Chan, and Chow-Yen-Desmond Sim*"
+    },
+    {
+      "論文名稱": "Circularly polarized UHF RFID tag antenna with capacitive loading technique",
+      "會議名稱": "2016 IEEE 5th Asia-Pacific Conference on Antennas and Propagation (APCAP 2016)",
+      "作者群": "Chia-Hsun Yeh*, Pei-Shan Ho, Chuan-Wei Lin, and Chow-Yen-Desmond Sim"
+    },
+    {
+      "論文名稱": "An annular-ring slot antenna with CP radiation and harmonic suppression",
+      "會議名稱": "2016 IEEE International Symposium on Antennas and Propagation/USNC-URSI National Radio Science meeting",
+      "作者群": "Chow-Yen-Desmond Sim*, Ming-Hsuan Chang, Horng-Dean Chen, Tuan-Yung Han, and Jeen-Sheen Row"
+    },
+    {
+      "論文名稱": "A compact tri–band antenna at GPS and WLAN a/b/g frequencies for tablet with full metal housing",
+      "會議名稱": " 2016 IEEE International Symposium on Antennas and Propagation/USNC-URSI National Radio Science meeting",
+      "作者群": "Peng Chen, Ping Wang, Guangli Yang*, and Chow-Yen-Desmond Sim"
+    },
+    {
+      "論文名稱": "Observing the Phenomena of Loading a Reduced Ground Effects LTE Antenna into a Real   Laptop Computer",
+      "會議名稱": "APEMC 2016 (The 7th Asia-Pacific International Symposium on Electromagnetic Compatibility & Signal Integrity and Technical Exhibition)",
+      "作者群": "Chow-Yen-Desmond Sim*, Yuan-Lung Lee, Chun-Cheng Chan and Chih-Yang Chiang"
+    },
+    {
+      "論文名稱": "Compact broadband circularly polarized antenna with coplanar waveguide feed for universal UHF RFID reader",
+      "會議名稱": "2016 Cross Strait Quad-Regional Radio Science and Wireless Technology Conference (CSQRWC2016)",
+      "作者群": "Chih-Chiang Chen*, Kai-Tang Lin, Ting-Wei Hsu, and Chow-Yen-Desmond Sim"
+    },
+    {
+      "論文名稱": "操作於UHF RFID圓極化標籤貼片天線設計",
+      "會議名稱": "2015 全國電信研討會暨103 年度科技部電信學門計畫成果發表會 (NST 2015)",
+      "作者群": "林傳為、陳柏劭、韓端勇、沈昭元"
+    },
+    {
+      "論文名稱": "A compact size CPW-fed UWB planar antenna",
+      "會議名稱": "2015 International Workshop on Electromagnetics and R&S Student Competition (IWEM 2015)",
+      "作者群": "Chih-Chiang Chen*, Yu-Rung Wu, Yu-Wen Peng, and Chow-Yen-Desmond Sim,"
+    },
+    {
+      "論文名稱": "L-shaped probe feed patch antenna with circular polarization radiation for UHF RFID applications",
+      "會議名稱": "2015 International Microwave Workshop Series on RF and Wireless Technologies for Biomedical and Healthcare Applications (iMWS Bio 2015)",
+      "作者群": "Chia-Hsun Yeh, Bo-Shau Chen, Chih-Chiang hen, and Chow-Yen-Desmond Sim*,"
+    },
+    {
+      "論文名稱": "Compact size annular-ring slot antenna with broad circularly polarized bandwidth",
+      "會議名稱": "2015 IEEE International Symposium on Antennas and Propagation & CNC-USNC/URSI Radio Science Meeting",
+      "作者群": "Chow-Yen-Desmond Sim*, Chin Ku, Tuan-Yung Han, Horng-Dean Chen, and Hua-Ming Chen,"
+    },
+    {
+      "論文名稱": "A new compact folded patch GPS antenna using meandered line",
+      "會議名稱": "2015 IEEE International Symposium on Antennas and Propagation & CNC-USNC/URSI Radio Science Meeting",
+      "作者群": "Chien-Hung Chen*, Chow-Yen-Desmond Sim, Hua-Ming Chen, Yi-Fang Lin, and Yang-KaiWang,"
+    },
+    {
+      "論文名稱": "A slot antenna with circularly polarized radiation for WLAN applications",
+      "會議名稱": "2015 IEEE 4th Asia-Pacific Conference on Antennas and Propagation (APCAP 2015)",
+      "作者群": "Chow-Yen-Desmond Sim*, Jiun-Ting Yeh, Chuang-Wei Lin, Bo-Shau Chen, and Horng-Dean Chen,"
+    },
+    {
+      "論文名稱": "Compact circularly polarized loop tag antenna",
+      "會議名稱": "2015 IEEE 4th Asia-Pacific Conference on Antennas and Propagation (APCAP 2015)",
+      "作者群": "Horng-Dean Chen*, Ting-Yuan Liu, Hui-Wen Yang, Chow-Yen-Desmond Sim, and Colin Kuo"
+    },
+    {
+      "論文名稱": "Dual-band planar antenna for LTE 700/2300/2500 operation in laptop computer",
+      "會議名稱": "2015 Asia-Pacific International Symposium on Electromagnetic Compatibility (APEMC 2015)",
+      "作者群": "Chow-Yen-Desmond Sim* and Yuan-Lung Lee"
+    },
+    {
+      "論文名稱": "Broadband Circularly Polarized Stacked Patch Antenna for Universal UHF RFID Applications",
+      "會議名稱": "19th International Symposium on Antennas and Propagation, ISAP 2014",
+      "作者群": "Bo-Shau Chen* and Chow-Yen-Desmond Sim"
+    },
+    {
+      "論文名稱": "Compact size triple-band monopole antenna with parasitic element for WLAN/WiMAX Applications",
+      "會議名稱": "19th International Symposium on Antennas and Propagation, ISAP 2014",
+      "作者群": "Chow-Yen-Desmond Sim*, Chih-Hsuan Yeh, and Hen-Lun Lin"
+    },
+    {
+      "論文名稱": "Small Size Uniplanar Monopole Antenna with Triple-band Operation",
+      "會議名稱": "19th International Symposium on Antennas and Propagation, ISAP 2014",
+      "作者群": "Chow-Yen-Desmond Sim*, Chih-Hsuan Yeh, and Bo-Yu Chen"
+    },
+    {
+      "論文名稱": "應用於行動裝置之LTE 多頻小型化單平面天線設計",
+      "會議名稱": "2014全國電信研討會",
+      "作者群": "林亨倫*、李沅龍、韓端勇、沈昭元"
+    },
+    {
+      "論文名稱": "Circularly polarized annular-ring slot antenna for WiMAX 2.3 GHz and  WLAN 2.4 GHz applications",
+      "會議名稱": "2014 IEEE International Symposium on Antennas and Propagation & CNC-USNC/URSI Radio Science Meeting",
+      "作者群": "Chow-Yen-Desmond Sim*, Jeen-Sheen Row, Horng-Dean Chen, Tuan-Yung Han, and Ming-Husan Chang"
+    },
+    {
+      "論文名稱": "應用於超高頻無線射頻辨識系統之圓極化等邊三角形貼片天線",
+      "會議名稱": "2013全國電信研討會",
+      "作者群": "許溢文*、沈昭元"
+    },
+    {
+      "論文名稱": "應用於LTE多頻之單平面倒F型平板電腦天線",
+      "會議名稱": "2013全國電信研討會",
+      "作者群": "李哲宇*、韓端勇、沈昭元"
+    },
+    {
+      "論文名稱": "Circularly polarized equilateral triangular patch antenna for UHF RFID reader applications",
+      "會議名稱": "2013 Loughborough Antennas & Propagation Conference, LAPC 2013",
+      "作者群": "Chow-Yen-Desmond Sim* and Yi-Wen Hsu"
+    },
+    {
+      "論文名稱": "The effects of typhoon Morakot on FM 101.1 Radio Broadcast",
+      "會議名稱": "2013 Asia-Pacific Radio Science Conference, APRSC 2013",
+      "作者群": "Chow-Yen-Desmond Sim* and Hsi-Kuei Wang"
+    },
+    {
+      "論文名稱": "Compact CP RFID tag Antenna for Metallic Object Application",
+      "會議名稱": "2nd Asia-Pacific Conference on Antennas and Propagation",
+      "作者群": "Horng-Dean Chen*, Yen-Ming Tseng, Chow-Yen-Desmond Sim, Jin-Sen Chen, Wen-Shyang Chen, and Chien-hung Chen"
+    },
+    {
+      "論文名稱": "Circularly polarized array antenna with conical beam radiation",
+      "會議名稱": "2013 IEEE International Symposium on Antennas and Propagation & CNC-USNC/URSI Radio Science Meeting",
+      "作者群": "Chow-Yen-Desmond Sim*, Jeen-Sheen Row, Horng-Dean Chen, Tuan-Yung Han, and Bo-Yu Chen"
+    },
+    {
+      "論文名稱": "Circularly Polarized Circular Microstrip RFID Tag Antenna",
+      "會議名稱": "Asia Pacific Microwave Conference APMC 2012",
+      "作者群": "Yen-Ming Tseng*, Shang-Huang Kuo, Horng-Dean Chen, and Chow-Yen-Desmond Sim"
+    },
+    {
+      "論文名稱": "應用於WLAN 2.4/5.2/5.8 GHz操作頻帶之小型化微帶線饋入環型槽孔天線",
+      "會議名稱": "2012全國電信研討會",
+      "作者群": "張明軒*、施元凱、沈昭元"
+    },
+    {
+      "論文名稱": "應用在WLAN多頻帶之偏心環型槽孔天線",
+      "會議名稱": "2012全國電信研討會",
+      "作者群": "廖彥傑*、沈昭元"
+    },
+    {
+      "論文名稱": "應用於WLAN/WiMAX之平面多頻單極天線",
+      "會議名稱": "2012全國電信研討會",
+      "作者群": "葉至軒*、陳志強、沈昭元"
+    },
+    {
+      "論文名稱": "Compact size dual-band antenna printed on flexible substrate for WLAN operation",
+      "會議名稱": "2012 International Symposium on Antennas and Propagation (ISAP 2012)",
+      "作者群": "Hsuan-Yu Chien, Chow-Yen-Desmond Sim*, and Ching-Her Lee"
+    },
+    {
+      "論文名稱": "Compact Size Antenna on Thin Flexible Substrate for WLAN Applications",
+      "會議名稱": "2012 IEEE International Symposium on Antennas and Propagation & CNC-USNC/URSI Radio Science Meeting",
+      "作者群": "Chow-Yen-Desmond Sim*, Yu-Nian Lai, Horng-Dean Chen, Jeen-Sheen Row, and Tuan-Yung Han"
+    },
+    {
+      "論文名稱": "應用於WLAN/WiMAX系統之倒F型天線",
+      "會議名稱": "2012全國電磁相容技術與實務暨展示會",
+      "作者群": "賴昱* 、沈昭元"
+    },
+    {
+      "論文名稱": "應用在WLAN頻段的微帶線雙頻槽孔天線",
+      "會議名稱": "2012全國電磁相容技術與實務暨展示會",
+      "作者群": "許溢文*、韓端勇、趙君恒、沈昭元"
+    },
+    {
+      "論文名稱": "具有WLAN頻帶的類互補式筆記型天線",
+      "會議名稱": "2011全國電信研討會",
+      "作者群": "賴昱* 、韓端勇、沈昭元"
+    },
+    {
+      "論文名稱": "CP RFID tag design for metal surface mount",
+      "會議名稱": "2011 Cross Strait Quad-Regional Radio Science and Wireless Technology Conference",
+      "作者群": "Horng-Dean Chen*, Chow-Yen-Desmond Sim, Wen-Shan Chen, and Shang-Huang Kuo"
+    },
+    {
+      "論文名稱": "操作在LTE/GSM/UMTS之倒L型耦合饋入平面印刷手機天線",
+      "會議名稱": "2011全國電磁相容技術與實務暨展示會",
+      "作者群": "簡煜倫*、何文彬、沈昭元"
+    },
+    {
+      "論文名稱": "應用在WLAN系統之微帶線饋入多邊形槽孔天線",
+      "會議名稱": "2011全國電磁相容技術與實務暨展示會",
+      "作者群": "葉俊廷*、蔡富任、沈昭元"
+    },
+    {
+      "論文名稱": "小型化超寬頻槽孔天線設計",
+      "會議名稱": "2010全國電信研討會",
+      "作者群": "曾智偉*、韓端勇、沈昭元"
+    },
+    {
+      "論文名稱": "具有多頻操作的倒F型平面手機天線",
+      "會議名稱": "2010全國電信研討會",
+      "作者群": "何文彬*、紀智仁、施元凱、沈昭元"
+    },
+    {
+      "論文名稱": "應用在WLAN/WiMAX系統之共平面饋入矩形槽孔天線",
+      "會議名稱": "2010全國電信研討會",
+      "作者群": "蔡富任*、錢宣諭、沈昭元"
+    },
+    {
+      "論文名稱": "Multi-band PIFA design for WLAN/Satellite applications",
+      "會議名稱": "2010 IEEE International Symposium on Antennas and Propagation & CNC-USNC/URSI Radio Science Meeting",
+      "作者群": "Jeen-Sheen Row, Tuan-Yung Han, Yu-Ting Cheng, and Chow-Yen-Desmond Sim"
+    },
+    {
+      "論文名稱": "具有接地面槽孔之GPS 微帶天線設計",
+      "會議名稱": "2009全國電信研討會",
+      "作者群": "楊博樺*、韓端勇、賴昱念、沈昭元"
+    },
+    {
+      "論文名稱": "具有電容性負載的共平面三角環形槽孔天線",
+      "會議名稱": "2009全國電信研討會",
+      "作者群": "謝沅圃、蔡富任、沈昭元"
+    },
+    {
+      "論文名稱": "An aperture-coupled microstrip antenna with frequency agility and polarization diversity",
+      "會議名稱": "Asia-Pacific Microwave Conference 2009, APMC 2009",
+      "作者群": "Wen-Chin Wu, Jeen-Sheen Row, Tuan-Yung Han, and Chow-Yen-Desmond Sim"
+    },
+    {
+      "論文名稱": "Design of a Hexa-band Antenna for Mobile Devices",
+      "會議名稱": "International Symposium on Antennas and Propagation (ISAP 2009)",
+      "作者群": "Po-Chun Cheng, Chow-Yen-Desmond Sim, and Ching-Her Lee"
+    },
+    {
+      "論文名稱": "氣候變化對調頻廣播電臺電波傳播之影響",
+      "會議名稱": "2009 全國電信研討會",
+      "作者群": "王錫奎、沈昭元"
+    },
+    {
+      "論文名稱": "利用耦合寄生線帶設計之平面單極多頻天線",
+      "會議名稱": "第四屆智慧生活科技研討會",
+      "作者群": "陳志強、陳甫玹、沈昭元"
+    },
+    {
+      "論文名稱": "Dual-feed hybrid antenna with low isolation and cross polarization",
+      "會議名稱": "2009 IEEE International Symposium, Antenna and Propagation & USNC/URSI National Radio Science Meeting",
+      "作者群": "Jeen-Sheen Row, Chow-Yen-Desmond Sim, and Tuan-Yung Han"
+    },
+    {
+      "論文名稱": "具阻隔5-GHz WLAN系統功能之平面超寬頻天線設計",
+      "會議名稱": "2008全國電信研討會",
+      "作者群": "鐘文燦、李清和、沈昭元"
+    },
+    {
+      "論文名稱": "Dual-Band CPW-Fed Monopole Antenna with Asymmetrical Ground Plane",
+      "會議名稱": "2008全國電信研討會",
+      "作者群": "韓端勇、陳克任、沈昭元"
+    },
+    {
+      "論文名稱": "Cross-Layer architecture depending on adaptive polarization diversity via reconfigurable antenna for WiMAX resource management",
+      "會議名稱": "2008全國電信研討會",
+      "作者群": "陳克任、羅鈞壎、沈昭元"
+    },
+    {
+      "論文名稱": "A ground slot loaded UWB antenna with 5 GHz band notch function",
+      "會議名稱": "ISAP, International Symposium on Antennas and Propagation",
+      "作者群": "Wen-Tsan Chung, Ching-Her Lee, and Chow-Yen-Desmond Sim"
+    },
+    {
+      "論文名稱": "Shorted triangular microstrip antenna with dual V-shaped slots",
+      "會議名稱": "2007全國電信研討會",
+      "作者群": "賴順佶、羅鈞壎、沈昭元"
+    },
+    {
+      "論文名稱": "RFID 隱私權議題與未來對社會之衝擊研究",
+      "會議名稱": "2008 RFID科技論文研討會",
+      "作者群": "陳宗民、沈昭元"
+    },
+    {
+      "論文名稱": "GPS antenna design with slotted ground plane",
+      "會議名稱": "2007全國電信研討會",
+      "作者群": "馬順來、羅鈞壎、沈昭元"
+    }
+  ],
+  "book": [
+    {
+      "專業書籍": "Multifunctional and Multiband Planar Antennas for Emerging Wireless Applications",
+      "出版單位": "CRC Press, Taylor & Francis Group",
+      "作者群": "Jayshri Kulkarni, Chow-Yen-Desmond Sim, Jawad Yaseen Siddiqui, Anisha M. Apte, Ajay Kumar Poddar, and Ulrich L. Rohde"
+    },
+    {
+      "專業書籍": "Microwave and Millimeter-wave Antenna Design for 5G Smartphone Applications",
+      "出版單位": "IEEE Press and Wiley",
+      "作者群": "Wonbin Hong and Chow-Yen-Desmond Sim"
+    },
+    {
+      "專業書籍": "天線設計-IE3D教學手冊 (第二版)",
+      "出版單位": "全華圖書股份有限公司",
+      "作者群": "沈昭元"
+    },
+    {
+      "專業書籍": "基礎工程數學 - 第四版",
+      "出版單位": "全華科技圖書",
+      "作者群": "沈昭元*"
+    },
+    {
+      "專業書籍": "天線設計-IE3D教學手冊",
+      "出版單位": "全華圖書股份有限公司",
+      "作者群": "沈昭元"
+    },
+    {
+      "專業書籍": "基礎工程數學(修訂版)",
+      "出版單位": "全華科技圖書股份有限公司",
+      "作者群": "沈昭元"
+    }
+  ],
+  "patent": [
+    {
+      "title": "新型",
+      "desc": "26.5 - 40兆赫茲之毫米波頻段圓極化貼片天線結構"
+    },
+    {
+      "title": "新型",
+      "desc": "Ka Band Vivaldi 天線構造"
+    },
+    {
+      "title": "新型",
+      "desc": "毫米波陣列天線結構"
+    },
+    {
+      "title": "發明",
+      "desc": "利用三維金屬線路技術製作的太陽眼鏡"
+    },
+    {
+      "title": "新型",
+      "desc": "鴿環結構"
+    },
+    {
+      "title": "新型",
+      "desc": "多頻帶單平面天線結構及應用該天線結構的行動裝置"
+    },
+    {
+      "title": "新型",
+      "desc": "圓極化槽孔天線"
+    }
+  ],
+  "most": [
+    {
+      "name": "操作在(617-7125 MHz)頻段之車載天線設計(2/2)",
+      "schoolYear": "113"
+    },
+    {
+      "name": "應用於5G毫米波頻段之天線陣列設計",
+      "schoolYear": "113"
+    },
+    {
+      "name": "操作在(617-7125 MHz)頻段之車載天線設計(1/2)",
+      "schoolYear": "112"
+    },
+    {
+      "name": "應用於5G毫米波頻段之單極陣列天線設計",
+      "schoolYear": "112"
+    },
+    {
+      "name": "5G寬頻帶(Band-n257/n258/n261)操作之毫米波陣列天線設計",
+      "schoolYear": "111"
+    },
+    {
+      "name": "WLAN與WIFI 6E之低剖面單面印刷筆記型電腦天線設計",
+      "schoolYear": "111"
+    },
+    {
+      "name": "操作在5G毫米波頻段(n257)的陣列天線設計",
+      "schoolYear": "110"
+    },
+    {
+      "name": "混合式雙頻帶毫米波陣列天線設計",
+      "schoolYear": "110"
+    },
+    {
+      "name": "可應用於5G智慧型手機之寬頻8×8MIMO陣列天線",
+      "schoolYear": "109"
+    },
+    {
+      "name": "以脈波雷達檢測血管容積變化感測血壓技術裝置",
+      "schoolYear": "109"
+    },
+    {
+      "name": "應用於未來第五代新無線電技術之多頻帶陣列天線設計",
+      "schoolYear": "108"
+    },
+    {
+      "name": "應用於28/35GHz之超寬頻毫米波陣列天線",
+      "schoolYear": "108"
+    },
+    {
+      "name": "應用於未來第五代行動裝置並操作在6GHz以下頻段之MIMO陣列天線設計",
+      "schoolYear": "107"
+    },
+    {
+      "name": "UHF RFID標籤天線設計",
+      "schoolYear": "107"
+    },
+    {
+      "name": "應用於未來第五代無線通訊系統的場型可重置之天線設計",
+      "schoolYear": "106"
+    },
+    {
+      "name": "應用於第五代通訊系統之場型可重置天線",
+      "schoolYear": "106"
+    },
+    {
+      "name": "具有極化可重置之共平面波導饋入天線設計",
+      "schoolYear": "105"
+    },
+    {
+      "name": "應用於超高頻無線射頻辨識之圓極化天線設計",
+      "schoolYear": "105"
+    },
+    {
+      "name": "具減少接地面效應之多頻帶天線設計",
+      "schoolYear": "104"
+    },
+    {
+      "name": "應用於WLAN 2.4 GHz之小型圓極化微帶天線設計",
+      "schoolYear": "104"
+    },
+    {
+      "name": "應用於無線區域網路之極化重置槽孔天線設計",
+      "schoolYear": "103"
+    },
+    {
+      "name": "應用於筆記型電腦之小型化天線",
+      "schoolYear": "102"
+    },
+    {
+      "name": "應用於WLAN之新型圓極化槽孔天線設計",
+      "schoolYear": "102"
+    },
+    {
+      "name": "應用於WLAN (2.4GHz)系統之具有電容性負載之圓極化圓形槽孔天線",
+      "schoolYear": "100"
+    },
+    {
+      "name": "小型化超寬頻天線設計",
+      "schoolYear": "99"
+    }
+  ],
+  "tech": [],
+  "induAca": [
+    "114年度專案研究 (2025-01 to 2025-12)",
+    "113年度專案研究 (2024-01 to 2024-12)",
+    "112年度專案研究 (2023-04 to 2023-12)",
+    "天線應用與探討 (2022-05 to 2023-04)",
+    "5G毫米波先進基板元件製程開發與測試 (2021-08 to 2022-07)",
+    "「新型天線概念與探索」計畫 (2021-04 to 2022-03)",
+    "教育部5G行動寬頻課程推廣計畫(第2期)—5G毫米波天線設計課程模組「電波技術與實務」 (2021-02 to 2023-01)",
+    "「5G 毫米波頻段之天線陣列設計」專案研究計畫 (2021-01 to 2021-12)",
+    "工業4.0整合型計畫-「自動光學檢測與人機作業分析之初期規劃」 (2020-07 to 2020-12)",
+    "經營管理諮詢顧問專案計畫(臻鼎) (2019-05 to 2021-11)",
+    "經營管理諮詢顧問專案計畫 (2018-09 to 2019-08)",
+    "應用於全球導航衛星系統之右手圓極化天線設計 (2018-04 to 2018-10)",
+    "超高頻RFID Sensor Tag之Low power RFID data log平台初期設計 (2017-07 to 2018-12)",
+    "印刷式車用GPS右手圓極化天線設計 (2017-04 to 2017-09)",
+    "尋求UHF RFID單極天線抗環境干擾及增加讀距之方法 (2017-01 to 2017-06)",
+    "桃園捷運的無線電傳輸系統斷訊問題先期研究 (2016-07 to 2016-10)",
+    "貼附在矽膠材質之穿戴式UHF RFID標籤天線設計之二 (2016-07 to 2016-12)",
+    "操作於WLAN之金屬筆電及平板天線設計 (2016-02 to 2016-12)",
+    "貼附在矽膠材質之穿戴式UHF RFID標籤天線設計 (2016-01 to 2016-06)",
+    "UHF RFID 讀取天線初期設計 (2014-10 to 2014-12)"
+  ],
+  "perform": [],
+  "reward": [
+    "IEEE Fellow (113, 2024-12) - IEEE (電機電子工程師學會)",
+    "逢甲大學論文著作獎勵優等獎 (113, 2024-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (113, 2024-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵 (113, 2024-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵 (113, 2024-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優等獎 (113, 2024-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (113, 2024-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (113, 2024-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵 (113, 2024-11) - 逢甲大學",
+    "逢甲大學優良教材獎勵傑出獎 (113, 2024-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵 (113, 2024-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (113, 2024-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (113, 2024-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (113, 2024-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵 (113, 2024-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (113, 2024-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (113, 2024-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (113, 2024-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (113, 2024-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (113, 2024-11) - 逢甲大學",
+    "2024通訊大賽「通訊天線系統設計競賽-5G/5G+通訊應用賽」聯發科技特別獎 (113, 2024-11) - 經濟部產業發展署/國立中山大學南區促進產業發展研究中心",
+    "逢甲大學論文著作獎勵 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優等獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優等獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "2023通訊大賽「通訊天線系統設計競賽」廣達電腦特別獎 (112, 2023-11) - 經濟部產業發展署/國立中山大學南區促進產業發展研究中心",
+    "Elsevier世界排名前2%科學家 (World's Top 2% Scientists 2023) (112, 2023-10) - Stanford University",
+    "逢甲大學論文著作獎勵 (111, 2022-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (111, 2022-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (111, 2022-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (111, 2022-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (111, 2022-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (111, 2022-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (111, 2022-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵 (111, 2022-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (111, 2022-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (111, 2022-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (111, 2022-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (111, 2022-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (111, 2022-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (111, 2022-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (111, 2022-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (111, 2022-11) - 逢甲大學",
+    "最佳論文獎 (110, 2022-01) - 國立台灣大學",
+    "逢甲大學論文著作獎勵傑出獎 (110, 2021-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (110, 2021-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵 (110, 2021-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (110, 2021-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵 (110, 2021-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (110, 2021-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (110, 2021-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (110, 2021-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (110, 2021-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (110, 2021-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵 (110, 2021-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (110, 2021-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵 (110, 2021-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (110, 2021-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (110, 2021-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (110, 2021-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (110, 2021-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (110, 2021-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (110, 2021-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (110, 2021-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (110, 2021-11) - 逢甲大學",
+    "榮獲教育部5G課程推廣計畫期末優良選拔 「優良實作獎」 (110, 2021-10) - 教育部",
+    "第14屆全國行動通訊專題創意競賽第二名 (109, 2021-07) - 龍華科技大學",
+    "逢甲大學論文著作獎勵優良獎 (109, 2020-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (109, 2020-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (109, 2020-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (109, 2020-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (109, 2020-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (109, 2020-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (109, 2020-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (109, 2020-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (109, 2020-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (109, 2020-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (109, 2020-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (109, 2020-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (109, 2020-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (109, 2020-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (109, 2020-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (109, 2020-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (109, 2020-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (109, 2020-11) - 逢甲大學",
+    "美國史丹佛大學 2020世界排名前2%科學家 (109, 2020-10) - Stanford University",
+    "逢甲大學論文著作獎勵傑出獎 (108, 2019-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (108, 2019-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (108, 2019-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (108, 2019-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (108, 2019-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (108, 2019-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (108, 2019-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (108, 2019-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (108, 2019-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (108, 2019-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (108, 2019-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (108, 2019-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (108, 2019-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (108, 2019-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (108, 2019-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (108, 2019-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (108, 2019-11) - 逢甲大學",
+    "IEEE AP-Society Best Reviewer Award (最佳審稿人獎) ) (107, 2019-07) - IEEE Antenna and Propagation Society",
+    "逢甲大學論文著作獎勵傑出獎 (107, 2018-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (107, 2018-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (107, 2018-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (107, 2018-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (107, 2018-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (107, 2018-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (107, 2018-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (107, 2018-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (107, 2018-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (107, 2018-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (107, 2018-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (107, 2018-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (107, 2018-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (107, 2018-11) - 逢甲大學",
+    "107年度科技部補助大專校院研究獎勵 (107, 2018-08) - 逢甲大學",
+    "Top 10 Reviewer of IEEE TAP (106, 2018-07) - IEEE Antenna and Propagation Society",
+    "Best Associate Editor Award of IEEE AWPL (106, 2018-07) - IEEE Antenna and Propagation Society",
+    "逢甲大學論文著作獎勵傑出獎 (106, 2017-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (106, 2017-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (106, 2017-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (106, 2017-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (106, 2017-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (106, 2017-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (106, 2017-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (106, 2017-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (106, 2017-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (106, 2017-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (106, 2017-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (106, 2017-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (106, 2017-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (106, 2017-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (106, 2017-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (106, 2017-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (106, 2017-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (106, 2017-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (106, 2017-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (106, 2017-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (106, 2017-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (106, 2017-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (106, 2017-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (106, 2017-11) - 逢甲大學",
+    "Top 10 Reviewer of IEEE TAP (105, 2017-07) - IEEE Antenna and Propagation Society",
+    "逢甲大學論文著作獎勵優良獎 (105, 2016-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (105, 2016-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (105, 2016-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (105, 2016-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (105, 2016-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (105, 2016-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (105, 2016-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (105, 2016-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (105, 2016-11) - 逢甲大學",
+    "銀牌獎 (104, 2016-07) - 高雄第一科大",
+    "Top 10 Reviewer of IEEE TAP (104, 2016-06) - IEEE Antenna and Propagation Society",
+    "逢甲大學論文著作獎勵優良獎 (104, 2015-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (104, 2015-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (104, 2015-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (104, 2015-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (104, 2015-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (104, 2015-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (104, 2015-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (104, 2015-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (104, 2015-11) - 逢甲大學",
+    "Top 10 Reviewer of IEEE TAP (103, 2015-07) - IEEE Antenna and Propagation Society",
+    "ISAP 2014 最佳學生論文獎 (103, 2014-12) - ISAP 2014/中山大學",
+    "2014全國電信研討會 最佳論文獎 (103, 2014-11) - 科技部 電信學門/亞洲大學",
+    "103學年度教學優良教師 (103, 2014-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (103, 2014-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (103, 2014-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (103, 2014-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (103, 2014-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (103, 2014-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (103, 2014-11) - 逢甲大學",
+    "Top 10 Reviewer of IEEE TAP (102, 2014-07) - IEEE Antenna and Propagation Society",
+    "逢甲大學論文著作獎勵傑出獎 (102, 2013-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (102, 2013-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (102, 2013-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (102, 2013-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (102, 2013-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (102, 2013-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (102, 2013-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (102, 2013-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (102, 2013-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (102, 2013-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (102, 2013-11) - 逢甲大學",
+    "IET會士(IET Fellow) (101, 2013-02) - 英國工程技術學會(IET)",
+    "逢甲大學論文著作獎勵優良獎 (101, 2012-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (101, 2012-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (101, 2012-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (101, 2012-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (101, 2012-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (101, 2012-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (101, 2012-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (101, 2012-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (101, 2012-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (100, 2011-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (100, 2011-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (100, 2011-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (100, 2011-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (99, 2010-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (99, 2010-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (99, 2010-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (99, 2010-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (99, 2010-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (99, 2010-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (99, 2010-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (99, 2010-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (99, 2010-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (99, 2010-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (99, 2010-11) - 逢甲大學",
+    "逢甲大學優良教材獎勵優等獎 (98, 2009-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (98, 2009-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (98, 2009-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (98, 2009-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (98, 2009-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (98, 2009-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (98, 2009-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (98, 2009-11) - 逢甲大學",
+    "逢甲大學優良教材獎勵優等獎 (97, 2008-11) - 逢甲大學",
+    "特優獎 (96, 2008-05) - 教育部/雲林科技大學",
+    "榮獲校內社團評鑒第一名 (97, 2008-02) - 學務處"
+  ],
+  "speech": [
+    {
+      "演講題目": "具減少接地面效應的WLAN與MIMO天線設計",
+      "邀請單位": "國立高雄師範大學 光通系",
+      "演講日期": "2015-10"
+    },
+    {
+      "演講題目": "具減少接地面效應的WLAN與MIMO天線設計",
+      "邀請單位": "彰化師師範大學電機系",
+      "演講日期": "2015-05"
+    },
+    {
+      "演講題目": "2015(春季)Terminal Device Antenna Technology(TDAT)技術研討會, 演講 “Terminal Device Antenna with Reduced Ground Plane Effects\"",
+      "邀請單位": "臺灣天線工程師學會",
+      "演講日期": "2015-03"
+    },
+    {
+      "演講題目": "Recent and Future Antenna Designs Activities in FCU",
+      "邀請單位": "上海大學 通信與信息工程學院 通信工程系",
+      "演講日期": "2014-09"
+    },
+    {
+      "演講題目": "無線辨識標籤與讀取天線設計",
+      "邀請單位": "國立彰化師範大學電信工程研究所",
+      "演講日期": "2012-09"
+    },
+    {
+      "演講題目": "漫談手機天線設計",
+      "邀請單位": "國立彰化師範大學電信工程研究所",
+      "演講日期": "2010-08"
+    },
+    {
+      "演講題目": "手機天線設計技術發展現況",
+      "邀請單位": "建國科技大學電子系",
+      "演講日期": "2010-05"
+    },
+    {
+      "演講題目": "電磁波在對流層之傳播特性與實例",
+      "邀請單位": "國立暨南國際大學電機工程系",
+      "演講日期": "2009-12"
+    },
+    {
+      "演講題目": "電磁波在對流層之傳播特性與實例",
+      "邀請單位": "國家通訊傳播委員會 中區監理處",
+      "演講日期": "2009-09"
+    },
+    {
+      "演講題目": "RFID射頻技術，過去，現在，未來",
+      "邀請單位": "國立彰化師範大學 電機工程學系",
+      "演講日期": "2008-11"
+    },
+    {
+      "演講題目": "RFID射頻技術，過去，現在，未來",
+      "邀請單位": "陸軍軍官學校 電機系",
+      "演講日期": "2007-10"
+    }
+  ],
+  "material": [
+    "Microwave and Millimeter-wave Antenna Design for 5G Smartphone Applications\tIEEE Press and Wiley\tWonbin Hong and Chow-Yen-Desmond Sim*\t教科書",
+    "Multifunctional and Multiband Planar Antennas for Emerging Wireless Applications\tCRC Press, Taylor & Francis Group\tJayshri Kulkarni*, Chow-Yen-Desmond Sim, Jawad Yaseen Siddiqui, Anisha M. Apte, Ajay Kumar Poddar, and Ulrich L. Rohde\t教科書"
+  ],
+  "tal": []
+}

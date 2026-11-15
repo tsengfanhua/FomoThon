@@ -1,0 +1,687 @@
+{
+  "teacherId": "T95170",
+  "name": "黃振鴻",
+  "mainUnit": "工程與科學學院",
+  "detailUnit": "航太與系統工程學系",
+  "skill": [
+    "最佳化演算法、多領域/多目標設計最佳化Optimization Algorithms, Multidisciplinary/Multiobjective Design Optimization",
+    "電腦輔助設計最佳化Computer-aided Design Optimization",
+    "功能性纖維複合材料Functional Fiber Composites",
+    "系統控制System Control"
+  ],
+  "edu": [
+    "紐約州立大學水牛城分校 機械與航太工程 博士",
+    "紐約州立大學水牛城分校 機械與航太工程 碩士",
+    "國立交通大學 機械工程學系 學士"
+  ],
+  "fcuExp": [
+    "工學院 秘書",
+    "電聲碩士學位學程 主任",
+    "研究生處 執行長",
+    "航太與系統工程學系 系主任",
+    "航太與系統工程學系 兼任助理教授",
+    "航太與系統工程學系 助理教授",
+    "航太與系統工程學系 副教授"
+  ],
+  "currjob": [],
+  "otherExp": [
+    "工業技術研究院 機械與系統研究所 研究員",
+    "紐約州立大學水牛城 NYSCEDII 博士後研究"
+  ],
+  "journal": [
+    {
+      "論文名稱": "Mechanical behavior and property evaluations of electromagnetic shielding/far infrared functional composite boards made of nano carbon-stainless steel knitted fabrics and far infrared polypropylene",
+      "期刊名稱": "JOURNAL OF POLYMER RESEARCH (SCIE)",
+      "作者群": "Jia-Horng Lin, Chen-Hung Huang*, Zhao-Wei Ke, Mei-Chen Lin & Ching-Wen Lou"
+    },
+    {
+      "論文名稱": "Using Melt Extraction Technique to Produce Polypropylene/TiO2-Coated Stainless Steel Wrapped Yarns and Functional Fabrics: Evaluations of UV Resistances and Electromagnetic Shielding",
+      "期刊名稱": "FIBERS AND POLYMERS (SCIE)",
+      "作者群": "Mei-Feng Lai, Chen-Hung Huang, Ching-Wen Lou, Yu-Chun Chuang, Cyun-Yu Wei & Jia-Horng Lin*"
+    },
+    {
+      "論文名稱": "Construction Sheets Made of High-Performance Flame-Retardant Nonwoven Fabrics and Combustion-Resistant Polyurethane Foam: Preparation Process and Property Evaluations",
+      "期刊名稱": "POLYMERS (SCIE)",
+      "作者群": "Bing-Chiuan Shiu,Chen-Hung Huang*,Hua-Lin Yang,Yueh-Sheng Chen, Ching-Wen Lou* and Jia-Horng Lin*"
+    },
+    {
+      "論文名稱": "Reinforcement Effects of Shear Thickening Fluid over Mechanical Properties of Nonwoven Fabrics",
+      "期刊名稱": "POLYMERS (SCIE)",
+      "作者群": "Chen-Hung Huang, Chih-Hua Chien, Bing-Chiuan Shiu*, Yueh-Sheng Chen, Jia-Horng Lin* and Ching-Wen Lou*"
+    },
+    {
+      "論文名稱": "Application of polyhexamethylene guanidine hydrochloride to polylactic acid/polyphenylene block copolymer antibacterial composite membranes: Manufacturing technique and property evaluations",
+      "期刊名稱": "JOURNAL OF APPLIED POLYMER SCIENCE (SCIE)",
+      "作者群": "Jia-Ci Jhang, Chiao-Chi Cheng, Chen-Hung Huang, Yueh-Sheng Chen, Jia-Horng Lin, Ching-Wen Lou*"
+    },
+    {
+      "論文名稱": "A Study on Highly Effective Electromagnetic Wave Shield Textile Shell Fabrics Made of Point Polyester/Metallic Core-Spun Yarns",
+      "期刊名稱": "Polymers (SCIE)",
+      "作者群": "Chen-Hung Huang, Po-Wen Hsu, Zhao-We Ke, Jian-Hong Lin, Bing-Chiuan Shiu*, Ching-Wen Lou* and Jia-Horng Lin*"
+    },
+    {
+      "論文名稱": "Multi-walled Carbon Nanotubes/Polypropylene-based Coating Layer on the Composite Metal Filaments: Characteristic Evaluations and Radiation-shielded Fabric",
+      "期刊名稱": "FIBERS AND POLYMERS (SCIE)",
+      "作者群": "Mei-Feng Lai, Chen-Hung Huang*, Ching-Wen Lou, Yu-Chun Chuang, Cyun-Yu Wei & Jia-Horng Lin*"
+    },
+    {
+      "論文名稱": "Cell Type, Compression Performance, and Thermal Performance of Rigid Polyurethane Foam: Effects of Egg Shell Content and Size",
+      "期刊名稱": "FIBERS AND POLYMERS (SCIE)",
+      "作者群": "Ruei-Ren Ou, Chen-Hung Huang*, Mei-Feng Lai, Ching-Wen Lou & Jia-Horng Lin*"
+    },
+    {
+      "論文名稱": "A Study on Carbon Fiber Composites with Low-Melting-Point Polyester Nonwoven Fabric Reinforcement: A Highly Effective Electromagnetic Wave Shield Textile Material",
+      "期刊名稱": "POLYMERS (SCIE)",
+      "作者群": "Jia-Horng Lin, Po-Wen Hsu,Chen-Hung Huang*, Mei-Feng Lai*, Bing-Chiuan Shiu and Ching-Wen Lou*"
+    },
+    {
+      "論文名稱": "Preparation of Needleless Electrospinning Polyvinyl Alcohol/Water-Soluble Chitosan Nanofibrous Membranes: Antibacterial Property and Filter Efficiency",
+      "期刊名稱": "POLYMERS (SCIE)",
+      "作者群": "Ching-Wen Lou, Meng-Chen Lin*, Chen-Hung Huang, Mei-Feng Lai, Bing-Chiuan Shiu and Jia-Horng Lin*"
+    },
+    {
+      "論文名稱": "Lay-Up Compound Matrices for Application of Medical Protective Clothing: Manufacturing Techniques and Property Evaluations",
+      "期刊名稱": "POLYMERS (SCIE)",
+      "作者群": "Ching-Wen Lou, Jian-Hong Lin, Mei-Feng Lai*, Chen-Hung Huang*, Bing-Chiuan Shiu and Jia-Horng Lin*"
+    },
+    {
+      "論文名稱": "Functional Hollow Ceramic Microsphere/Flexible Polyurethane Foam Composites with a Cell Structure: Mechanical Property and Sound Absorptivity",
+      "期刊名稱": "POLYMERS (SCIE)",
+      "作者群": "Jia-Horng Lin, Po-Yang Hsu, Chen-Hung Huang*, Mei-Feng Lai*, Bing-Chiuan Shiu and Ching-Wen Lou*"
+    },
+    {
+      "論文名稱": "Polypropylene/Carbon Fiber Composite Layered Materials: Electromagnetic Interference Shielding Effect and Mechanical Performance",
+      "期刊名稱": "FIBERS AND POLYMERS (SCIE)",
+      "作者群": "Mei-Feng Lai, Chen-Hung Huang, Jia-Horng Lin*, Yu-Chun Chuang, Ching-Hua Wang & Ching-Wen Lou*"
+    },
+    {
+      "論文名稱": "Structural Design and Property Evaluations of Foam-based Composite Materials: Effect of Perforation Depth and Foam Density on the Mechanical, Sound Absorption, and Thermal Properties",
+      "期刊名稱": "FIBERS AND POLYMERS (SCIE)",
+      "作者群": "Ruei-Ren Ou, Chen-Hung Huang*, Ching-Wen Lou, and Jia-Horng Lin*"
+    },
+    {
+      "論文名稱": "Reinforcing Techniques and Property Evaluations of Electromagnetic Shielding Effective Fabrics Based on Polypropylene-coated Carbon Fibers",
+      "期刊名稱": "FIBERS AND POLYMERS (SCIE)",
+      "作者群": "Jan-Yi Lin, Mei-Chen Lin, Yan-Yu Lin, Ting An Lin, Chen-Hung Huang*, Ching-Wen Lou*, and Jia-Horng Lin*"
+    },
+    {
+      "論文名稱": "Effects of different structures on the functional and mechanical properties of elastic knitted fabrics",
+      "期刊名稱": "JOURNAL OF THE TEXTILE INSTITUTE (SCIE)",
+      "作者群": "Mei-Feng Lai , Chen-Hung Huang , Ching-Wen Lou , Yu-Chun Chuang , Ting An Lin , Chi-Zong Wang & Jia-Horng Lin"
+    },
+    {
+      "論文名稱": "Filtration efficiency of electret air filters reinforced by titanium dioxide",
+      "期刊名稱": "APPLIED SCIENCES-BASEL (SCIE)",
+      "作者群": "Ching-Wen Lou, Ying-Huei Shih, Chen-Hung Huang*, Shu-An Lee, Yueh-Sheng Chen and Jia-Horng Lin*"
+    },
+    {
+      "論文名稱": "Statistical analyses for tensile properties of nonwoven geotextiles at different ambient environmental temperatures",
+      "期刊名稱": "Journal of Industrial Textiles (SCIE)",
+      "作者群": "Jing-Chzi Hsieh, Jia-Hsun Li, Chen-Hung Huang, Ching-Wen Lou and Jia-Horng Lin*"
+    },
+    {
+      "論文名稱": "Numerical simulation of dynamic puncture behaviors of woven fabrics based on the Finite Element Method",
+      "期刊名稱": "TEXTILE RESEARCH JOURNAL (SCIE)",
+      "作者群": "Li, Ting-Ting ; Fang, Jiunn ; Huang, Chen-Hung ; Lou, Ching-Wen ; Lin, Jan-Yi ; Lin, Mei-Chen ; Chen, Yueh-Sheng ; Lin, Jia-Horng*"
+    },
+    {
+      "論文名稱": "Conductive fabrics made of polypropylene/multi-walled carbon nanotube coated polyester yarns: Mechanical properties and electromagnetic interference shielding effectiveness",
+      "期刊名稱": "COMPOSITES SCIENCE AND TECHNOLOGY (SCIE)",
+      "作者群": "Zheng-Ian Lin, Ching-Wen Lou. Yi-Jun Pan, Chien-Teng Hsieh, Chen-Hung Huang, Chien-Lin Huang, Yueh-Sheng Chen, Jia-Horng Lin*"
+    },
+    {
+      "論文名稱": "The effects of MWCNT length on the mechanical, crystallization and electromagnetic interference shielding effectiveness of PP/MWCNT composites",
+      "期刊名稱": "JOURNAL OF POLYMER RESEARCH (SCIE)",
+      "作者群": "Zheng-Ian Lin, Ching-Wen Lou, Yi-Jun Pan, Chien-Teng Hsieh, Chien-Lin Huang, Chen-Hung Huang, Yueh-Sheng Chen, Jia-Horng Lin*"
+    },
+    {
+      "論文名稱": "Protective Rigid Fiber-Reinforced Polyurethane Foam Composite Boards: Sound Absorption, Drop-Weight Impact and Mechanical Properties",
+      "期刊名稱": "Fibers and Polymers (SCIE)",
+      "作者群": "Yu-Chun Chuang, Ting-Ting Li, Chen-Hung Huang, Chien-Lin Huang, Ching-Wen Lou, Yueh-Sheng Chen and Jia-Horng Lin*"
+    },
+    {
+      "論文名稱": "Effects of Perforation Process on Rigid PU Foam Plates: Acoustic and Mechanical Properties\r\n",
+      "期刊名稱": "Materials (SCIE)",
+      "作者群": "Jia-Horng Lin, Yu-Chun Chuang, Ting-Ting Li, Chen-Hung Huang, Chien-Lin Huang, Yueh-Sheng Chen, Ching-Wen Lou*"
+    },
+    {
+      "論文名稱": "The Effects of MWCNT Length on the Mechanical, Crystallization and Electromagnetic Interference Shielding Effectiveness of PP/MWCNT Composites\r\n",
+      "期刊名稱": "Journal of Polymer Research (SCIE)",
+      "作者群": "Ching-Wen Lou, Zheng-Ian Lin, Yi-Jun Pan, Chien-Teng Hsieh, Chien-Lin Huang, Chen-Hung Huang and Jia-Horng Lin*"
+    },
+    {
+      "論文名稱": "Needle-Bonded Electromagnetic Shielding Thermally Insulating Nonwoven Composite Boards: Property Evaluations\r\n",
+      "期刊名稱": "Applied sciences-Basel (SCIE)",
+      "作者群": "Jia-Horng Lin, Yu-Chun Chuang, Chen-Hung Huang, Ting-Ting Li, Chien-Lin Huang, Yueh-Sheng Chen and Ching-Wen Lou"
+    },
+    {
+      "論文名稱": "Using multiple melt blending to improve the dispersion of montmorillonite in polyamide 6 nanocomposites\r\n",
+      "期刊名稱": "Polymer testing (SCIE)",
+      "作者群": "Jia-Horng Lin, Yi-Jun Pan, Chien-Teng Hsieh, Chen-Hung Huang, Zheng-Ian Lin, Yueh-Sheng Chen, Kuan-Hua Su, Ching-Wen Lou"
+    },
+    {
+      "論文名稱": "Effects of needle punching and hot pressing on mechanical properties of composite geotextiles \r\n",
+      "期刊名稱": "Journal of Industrial Textiles (SCIE)",
+      "作者群": "Jia-Horng Lin, Jing-Chzi Hsieh, Chen-Hung Huang, Wen-Hao Hsing, Hsueh-Jen Tan, Ching-Wen Lou*"
+    },
+    {
+      "論文名稱": "Manufacture and properties of protective sound-absorbing mesh-reinforced composite foam board: Effects of filler content and mesh opening",
+      "期刊名稱": "Fibers and Polymers (SCIE)",
+      "作者群": "Lin, J.-H.,Li, T.-T.,Huang, C.-H.,Chuang, Y.-C.,Lou, C.-W.*"
+    },
+    {
+      "論文名稱": "Electromagnetically shielding composite made from carbon fibers, glass fibers, and impact-resistant polypropylene: Manufacturing technique and evaluation of physical properties",
+      "期刊名稱": "Journal of Thermoplastic Composite Materials (SCIE)",
+      "作者群": "Ching-Wen Lin, Ching-Wen Lou, Chen-Hung Huang, Chien-Lin Huang and Jia-Horng Lin*"
+    },
+    {
+      "論文名稱": "Manufacturing process and property evaluation of sound-absorbing and thermal-insulating polyester fiber/polypropylene /thermoplastic polyurethane composite board",
+      "期刊名稱": "Journal of Industrial Textiles (SCIE)",
+      "作者群": "Chen-Hung Huang*, Jia-Horng Lin, Yu-Chun Chuang"
+    },
+    {
+      "論文名稱": "Preparation and Sound Absorption Evaluation of PET/Kevlar/PU Foam Composite Boards",
+      "期刊名稱": "Advanced Materials Research (EI)",
+      "作者群": "Jia-Horng Lin, Chen-Hung Huang*, Yu-Chun Chuang, Ching-Wen Lou*"
+    },
+    {
+      "論文名稱": "Preparation and Performance Evaluation of PU Foam Composite Board",
+      "期刊名稱": "Applied Mechanics and Materials (EI)",
+      "作者群": "Jia-Horng Lin*, Yu-Chun Chuang, Ching-Wen Lou, Ting-Ting Li, Chen-Hung Huang*"
+    },
+    {
+      "論文名稱": "Compressive Strength of Porous Bone Cement/Polylactic Acid Composite Bone Scaffolds.",
+      "期刊名稱": "Applied Mechanics and Materials (EI)",
+      "作者群": "Ching-Wen Lou, Wen-Cheng Chen, Chao-Tsang Lu*, Cheng-Chun Huang, Jia-Horng Lin*."
+    },
+    {
+      "論文名稱": "Impact-Resistant Polypropylene/Short Glass Fiber Composites with Far-Infrared Emission：Manufacturing Technique and Property Evaluation.",
+      "期刊名稱": "Applied Mechanics and Materials (EI)",
+      "作者群": "Jia-Horng Lin, Zheng-Yan Lin, Jin-Mao Chen*, Chen-Hung Huang, Ching-Wen Lou*."
+    },
+    {
+      "論文名稱": "Wood Plastic Composites: Using Carbon Fiber to Create Electromagnetic Shielding Effectiveness",
+      "期刊名稱": "Journal of Thermoplastic Composite Materials (SCIE)",
+      "作者群": "Ching-Wen Lin, Chen-Hung Huang, Ching-Wen Lou, Tung-Lung Kuo, Jia-Horng Lin*"
+    },
+    {
+      "論文名稱": "The Efficacy of Coconut Fibers on the Sound-Absorbing and Thermal-Insulating Nonwoven Composite Board",
+      "期刊名稱": "Fibers and Polymers (SCIE)",
+      "作者群": "Chen-Hung Huang*, Jia-Horng Lin, Ching-Wen Lou, Yi-Ting Tsai"
+    },
+    {
+      "論文名稱": "The Design and Optimization of Nonwoven Composite Boards on Sound Absorption Performance",
+      "期刊名稱": "Applied Mechanics and Materials (EI)",
+      "作者群": "Chen-Hung Huang*, Yu-Chun Chuang*"
+    },
+    {
+      "論文名稱": "Compatibility and mechanical properties of maleicanhydride modified the wood plastic composite",
+      "期刊名稱": "Journal of Reinforced Plastics and Composites (SCIE)",
+      "作者群": "Ching-Wen Lou, Ching-Wen Lin, Chen-Hung Huang, Cheng-Tien Hsieh, Jia-Horng Lin*"
+    },
+    {
+      "論文名稱": "Manufacturing Technique of Heat-Insulating and Flame-Retardant Three-Dimensional Composite Base Fabrics",
+      "期刊名稱": "Journal of Engineered Fibers and Fabrics (SCIE)",
+      "作者群": "Jia-Horng Lin, Chen-Hung Huang, Ching-Wen Lin, Ching Wen Lou"
+    },
+    {
+      "論文名稱": "Physical Properties of Electrically Conductive Complex-Ply Yarns and Woven Fabrics Made From Recycled Polypropylene",
+      "期刊名稱": "Journal of Engineered Fibers and Fabrics (SCIE)",
+      "作者群": "Jia-Horng Lin, Chin-Mei Lin, Chen-Hung Huang, An-Pang Chen, Chuan-Pin Chen, Ching Wen Lou"
+    },
+    {
+      "論文名稱": "Mechanical and Physical Properties of Puncture-Resistance Plank Made of Recycled Selvages",
+      "期刊名稱": "Fibers and Polymers (SCIE)",
+      "作者群": "Ting-Ting Li, Rui Wang, Ching-Wen Lou, Chen-Hung Huang and Jia-Horng Lin*"
+    },
+    {
+      "論文名稱": "Manufacturing technique and mechanical properties of plastic nanocomposite",
+      "期刊名稱": "Composites Part B-Engineering (SCIE)",
+      "作者群": "Jia-Horng Lin, Ching-Wen Lin, Chen-Hung Huang, Chien-Lin Huang, Ching-Wen Lou*"
+    },
+    {
+      "論文名稱": "Property Evaluation of Sound-Absorbent Nonwoven Fabrics Made of Polypropylene Nonwoven Selvages",
+      "期刊名稱": "Advanced Materials Research (EI)",
+      "作者群": "Jia-Horng Lin*, Chen-Hung Huang*, Ying-Huei Shih, Yu-Chun Chuang, Ching-Wen Lin and Ching-Wen Lou*"
+    },
+    {
+      "論文名稱": "Property Evaluation of Bletilla striata/Polyvinyl Alcohol Nano Fibers and Composite Dressings",
+      "期刊名稱": "Journal of Nanomaterials (SCIE)",
+      "作者群": "Jia-Horng Lin, Chao-Tsang Lu, Jin-Jia Hu, Yueh-Sheng Chen, Chen-Hung Huang, and Ching-Wen Lou"
+    },
+    {
+      "論文名稱": "Metal/PET Composite Knitted Fabrics and Composites: Structural Design and Electromagnetic Shielding Effectiveness",
+      "期刊名稱": "Journal of Electronic Materials (SCIE)",
+      "作者群": "Chen-Hung Huang, Jia-Horng Lin, Ruey-Bin Yang, Ching-Wen Lin, Ching-Wen Lou*"
+    },
+    {
+      "論文名稱": "Metal/PET Composite Knitted Fabrics and Composites: Structural Design and Electromagnetic Shielding Effectiveness",
+      "期刊名稱": "Journal of Electronic Materials (SCIE)",
+      "作者群": "Chen-Hung Huang, Jia-Horng Lin, Ruey-Bin Yang, Ching-Wen Lin, Ching-Wen Lou"
+    },
+    {
+      "論文名稱": "Recycling Polypropylene Non-woven Selvages to Create Far-Infrared Composite Plates",
+      "期刊名稱": "Journal of Thermoplastic Composite Materials (SCIE)",
+      "作者群": "Ching-Wen Lou, Chen-Hung Huang, Kuo-Cheng Tai, Ching-Wen Lin and Jia-Horng Lin*"
+    },
+    {
+      "論文名稱": "Preliminary Study of Polypropylene/Sawdust Green Composite",
+      "期刊名稱": "Advanced Materials Research (EI)",
+      "作者群": "Ching-Wen Lou*, Ching-Wen Lin, Chen-Hung Huang, Ting-Ting Li, Jin-Mao Chen, and Jia-Horng Lin*"
+    },
+    {
+      "論文名稱": "The Primary Study on PP/Sawdust/PU Sound-Absorbing Plank",
+      "期刊名稱": "Advanced Materials Research (EI)",
+      "作者群": "Chen-Hung Huang, Ting-Ting Li, Yu-Chun Chuang, Ching-Wen Lou*, Ching-Wen Lin, and Jia-Horng Lin*"
+    },
+    {
+      "論文名稱": "The Primary Study on Polyester/ Polypropylene Sound-Absorption Nonwoven Fabric",
+      "期刊名稱": "Advanced Materials Research (EI)",
+      "作者群": "Chen-Hung Huang, Ting-Ting Li, Yu-Chun Chuang, Ching-Wen Lou*, Jin-Mao Chen, and Jia-Horng Lin*"
+    },
+    {
+      "論文名稱": "The Primary Study on PET/PP/Kevlar Composite Nonwoven",
+      "期刊名稱": "Advanced Materials Research (EI)",
+      "作者群": "Chen-Hung Huang, Ting-Ting Li, Yu-Chun Chuang, Ching-Wen Lou*, An-Li Huang and Jia-Horng Lin*"
+    },
+    {
+      "論文名稱": "Earbud-type earphone modeling and measurement by head and torso simulator",
+      "期刊名稱": "Applied Acoustics (SCIE)",
+      "作者群": "Huang, Chen-Hung, Pawar, S. J., Hong, Zih-Jyun, and Huang, J.H.*"
+    },
+    {
+      "論文名稱": "Manufacturing Technique of High Modulus Complex Ply Yarn and Stiffening Geogrids",
+      "期刊名稱": "Advanced Materials Research (EI)",
+      "作者群": "Jia-Horng Lin, Chen-Hung Huang*,Chao-Yin Hsiao, Kuo-Cheng Tai, Jin-Mao Chen and Ching-Wen Lou*,"
+    },
+    {
+      "論文名稱": "Recycling Nonwoven Fabric and Polypropylene Selvage to Create Composite Fabric",
+      "期刊名稱": "Advanced Materials Research (EI)",
+      "作者群": "Jia-Horng Lin*, Chen-Hung Huang *, Kuo-Cheng Tai, Ching-Wen Lin, Jin-Mao Chen and Ching-Wen Lou*"
+    },
+    {
+      "論文名稱": "Insert earphone modeling and measurement by IEC-60711 coupler",
+      "期刊名稱": "IEEE Transactions on Ultrasonics, Ferroelectrics, and Freque (SCIE)",
+      "作者群": "Huang,Chen-Hung, Pawar, S. J., Hong, Zih-Jyun, and Huang, J.H.*"
+    },
+    {
+      "論文名稱": "Effect of Tacticity on Viscoelastic Properties of Polystyrene",
+      "期刊名稱": "Macromolecules (SCIE)",
+      "作者群": "Chien-Lin Huang, Yu-Chen Chen, Ting-Jui Hsiao,Jing-Cherng Tsai, and Chi Wang"
+    },
+    {
+      "論文名稱": "Processing Technique of Sound Absorbent/Thermal-Insulating/Flame Retardant Composite Material",
+      "期刊名稱": "Advanced Materials Research (EI)",
+      "作者群": "Jia-Horng Lin, Chen-Hung Huang*, Kuo-Cheng Tai*, Chia-Chang Lin, Yi-Ting Tsai and Ching-Wen Lou*"
+    },
+    {
+      "論文名稱": "Processing Technique of Fiber-Based Composite Sound Absorbent/Thermal-Insulating Board",
+      "期刊名稱": "Advanced Materials Research (EI)",
+      "作者群": "Jia-Horng Lin, Chen-Hung Huang*, Kuo-Cheng Tai*, Chia-Chang Lin, Yu-Chun Chuang and Ching-Wen Lou*"
+    },
+    {
+      "論文名稱": "Study of the Underfill Effect on the Thermal Fatigue Life of WLCSP-Experiments and Finite Element Simulations",
+      "期刊名稱": "CMSE-Computer Modeling in Engineering & Sciences (SCIE)",
+      "作者群": "Shin, Shaw-Jyh; Huang, Chen-Hung; Shiah, YC"
+    }
+  ],
+  "journal2": [],
+  "conference": [
+    {
+      "論文名稱": "Flame Retardant and Sound Absorbent Nonwoven/Polyurethane Foam Planks for Construction",
+      "會議名稱": "第10屆海峽兩岸紡織學術論壇",
+      "作者群": "Ruei-Ren Ou*, Chen-Hung Huang, Ching-Wen Lou, Jia-Horng Lin"
+    },
+    {
+      "論文名稱": "藉由回收纖維製備聚酯不織布地工織物：混棉比例與纖維細度對其機械性能之影響\r\n",
+      "會議名稱": "第64屆紡織年會",
+      "作者群": "張賀鈞、黃振鴻、樓靜文、歐睿仁、林佳弘*"
+    },
+    {
+      "論文名稱": "以仿乳膠纖維與中空捲曲聚酯纖維製備蓬鬆吸音不織布：混棉比例與熱處理溫度對其機械性能及吸音性能之影響\r\n",
+      "會議名稱": "第64屆紡織年會",
+      "作者群": "廖祜德、黃振鴻、樓靜文、歐睿仁、林佳弘*"
+    },
+    {
+      "論文名稱": " PET保溫多層基布之加工與吸音、機械特性評估 \r\n",
+      "會議名稱": "第32屆纖維紡織科技研討會",
+      "作者群": "賴御玄、黃振鴻、樓靜文、謝建騰、莊瑀珺、丁美至、林佳弘*"
+    },
+    {
+      "論文名稱": "阻燃性不織布及阻燃劑添加對阻燃PU發泡複合板材之影響：阻燃、機械性質效益\r\n",
+      "會議名稱": "第七屆海峽兩岸三地紡織學術論壇",
+      "作者群": "莊瑀珺，黃振鴻，黃詩育，樓靜文，林佳弘*"
+    },
+    {
+      "論文名稱": "纖維細度對PET非織物之機械性能及吸音特性評估",
+      "會議名稱": "第六十二屆紡織工程學會年會",
+      "作者群": "許庭益，黃振鴻，樓靜文，歐睿仁，林佳弘"
+    },
+    {
+      "論文名稱": "發泡聚氨酯添加奈米黏土之研究",
+      "會議名稱": "第六十二屆紡織工程學會年會",
+      "作者群": "潘昱廷，黃振鴻，樓靜文，李哲瑋，林佳弘"
+    },
+    {
+      "論文名稱": "聚酯不織布與吸音PU發泡板材在不同密度下其機械性質的評估",
+      "會議名稱": "第三十屆纖維紡織科技研討會",
+      "作者群": "陳俊志、張詠舜、莊瑀珺、黃振鴻、樓靜文、林佳弘"
+    },
+    {
+      "論文名稱": "改變Nylon纖維之細度對Nylon/LPET不織布之特性影響",
+      "會議名稱": "第29屆纖維紡織科技研討會",
+      "作者群": "歐睿仁、樓靜文、黃振鴻、許胤萱、林佳弘"
+    },
+    {
+      "論文名稱": "回收Kevlar複合織物之製備技術與抗穿刺特性",
+      "會議名稱": "第29屆纖維紡織科技研討會",
+      "作者群": "林展毅、林美辰、黃振鴻、陳安邦、林佳弘"
+    },
+    {
+      "論文名稱": "回收Kevlar複合織物之製備技術與緩衝性",
+      "會議名稱": "第29屆纖維紡織科技研討會",
+      "作者群": "莊雅媛、樓靜文、黃振鴻、陳安邦、林佳弘"
+    },
+    {
+      "論文名稱": "聚酯/銅複合紗與織物之製備技術與電性質評估",
+      "會議名稱": "第29屆纖維紡織科技研討會",
+      "作者群": "林庭安、樓靜文、黃振鴻、陳安邦、林佳弘"
+    },
+    {
+      "論文名稱": "The Design and Optimization of Nonwoven Composite Boards on Sound Absorption Performance",
+      "會議名稱": "The 2nd International Conference on Machine Design and Manufacturing Engineering",
+      "作者群": "Chen-Hung Huang*,Yu-Chun Chuang"
+    },
+    {
+      "論文名稱": "Nylon/LPET 吸音不織布之製備技術及其吸音特性",
+      "會議名稱": "中華民國第60屆紡織工程學會年會",
+      "作者群": "歐睿仁、黃振鴻、樓靜文、許胤萱、林佳弘"
+    },
+    {
+      "論文名稱": "Physical Properties of Puncture-Resistance Composites Made of Recycle Selvages",
+      "會議名稱": "The Textile International Forum and Exhibition & 3rd Asian Protective Clothing Conference (TIFE 2012 & 3rd APCC 2012)",
+      "作者群": "Ting-Ting Li, Rui Wang, Ching-Wen Lou, Chen-Hung Huang and Jia-Horng Lin*"
+    },
+    {
+      "論文名稱": "The Efficacy of Nonwoven Composite Boards on Noise Protection",
+      "會議名稱": "The Textile International Forum and Exhibition & 3rd Asian Protective Clothing Conference (TIFE 2012 & 3rd APCC 2012)",
+      "作者群": "Chen-Hung Huang, Yu-Chun Chung*, Ching-Wen Lou, and Jia-Horng Lin"
+    },
+    {
+      "論文名稱": "聚丙烯/玻璃纖維/SEBS 複合材料製備及力學性能評估",
+      "會議名稱": "中華民國第60屆紡織工程學會年會",
+      "作者群": "董宇傑、黃振鴻、陳錦茂、樓靜文、林政彥、林佳弘"
+    },
+    {
+      "論文名稱": "熱壓處裡對回收PP廢邊/Nylon 6/Kevlar抗穿刺複合不織布機械性能之影響",
+      "會議名稱": "第28屆纖維紡織科技研討會",
+      "作者群": "黃安立、李婷婷、莊瑀珺、黃振鴻、樓靜文、林佳弘"
+    },
+    {
+      "論文名稱": "椰纖/聚丙烯複合板材之製備技術及其特性評估",
+      "會議名稱": "中華民國紡織工程學會第59屆年會",
+      "作者群": "范家齊、黃振鴻、林敬文、樓靜文、郭東隆、林佳弘"
+    },
+    {
+      "論文名稱": "機能性 PET 隔熱複合基布之製備技術及其特性評估",
+      "會議名稱": "中華民國紡織工程學會第59屆年會",
+      "作者群": "謝振揚、黃振鴻、李婷婷、莊瑀珺、樓靜文、林佳弘"
+    },
+    {
+      "論文名稱": "嵌入式系統於無人飛行載具自主導航之實現",
+      "會議名稱": "中華民國航空太空工程學會第53屆全國學術研討會",
+      "作者群": "陳啟川、翁子傑、張嘉義、黃振鴻、黃竹模"
+    },
+    {
+      "論文名稱": "應用LabVIEW虛擬儀控於環境地圖建立之最佳化",
+      "會議名稱": "中華民國航空太空工程學會第53屆全國學術研討會",
+      "作者群": "黃源港、翁崧宸、許忠強、張嘉義、陳啟川、黃振鴻"
+    },
+    {
+      "論文名稱": "線段式環境地圖建構方法之改善",
+      "會議名稱": "中華民國航空太空工程學會第53屆全國學術研討會",
+      "作者群": "翁崧宸、鍾維哲、張嘉義、陳啟川、黃振鴻"
+    },
+    {
+      "論文名稱": "環境地圖資料點擬合方法之改善",
+      "會議名稱": "中華民國航空太空工程學會第53屆全國學術研討會",
+      "作者群": "薛旭佑、鄭景懋、張嘉義、陳啟川、黃振鴻"
+    },
+    {
+      "論文名稱": "阻燃PET製備非織物之吸音及機械性能評估",
+      "會議名稱": "第27屆纖維紡織科技研討會",
+      "作者群": "施英輝、莊瑀珺、黃振鴻、戴國政、樓靜文、林佳弘"
+    },
+    {
+      "論文名稱": "PP/PP廢布邊複合不織布之吸音及其機械性能評估",
+      "會議名稱": "第27屆纖維紡織科技研討會",
+      "作者群": "朱翊誠、莊瑀珺、黃振鴻、戴國政、樓靜文、林佳弘"
+    },
+    {
+      "論文名稱": "椰子纖維/聚丙烯複合材料之製備技術開發",
+      "會議名稱": "第27屆纖維紡織科技研討會",
+      "作者群": "吳偉民、黃振鴻、戴國政、蕭肇殷、樓靜文、林佳弘"
+    }
+  ],
+  "book": [
+    {
+      "專業書籍": "MATLAB程式設計入門",
+      "出版單位": "高立圖書有限公司",
+      "作者群": "陳啟川/方俊/黃振鴻/陳宗正 編譯"
+    }
+  ],
+  "patent": [],
+  "most": [
+    {
+      "name": "以光熱電轉換織物電池的製備設計及其應用研究",
+      "schoolYear": "113"
+    },
+    {
+      "name": "透過在機翼表面設計橫向或圓形凹槽以改善機體噪音問題之可行性分析",
+      "schoolYear": "113"
+    },
+    {
+      "name": "最佳化兼具導電性及電磁屏蔽效益之奈米碳管披覆紗線製備疊層織物立體複合材料製造技術研究",
+      "schoolYear": "112"
+    },
+    {
+      "name": "(個別型)產學合作計畫－回收花生殼生質功能性複合材料具吸音/阻燃/電磁屏蔽加工技術及其評估",
+      "schoolYear": "111"
+    },
+    {
+      "name": "(廠配)景安股份有限公司(個別型)產學合作計畫－回收花生殼生質功能性複合材料具吸音/阻燃/電磁屏蔽加工技術及其評估",
+      "schoolYear": "111"
+    },
+    {
+      "name": "(個別型)產學合作計畫－以環保加工技術製備複合防護抗菌緩衝護具及其性能評估",
+      "schoolYear": "110"
+    },
+    {
+      "name": "(廠配)信織實業股份有限公司(個別型)產學合作計畫－以環保加工技術製備複合防護抗菌緩衝護具及其性能評估",
+      "schoolYear": "110"
+    },
+    {
+      "name": "以3D立體格網複合強化電磁屏蔽 / 吸音多功能發泡板材之製備技術及其特性評估",
+      "schoolYear": "110"
+    },
+    {
+      "name": "以剪切增稠流體補強高模數Kevlar織物製備防刺三明治複合板材之加工技術及其特性評估",
+      "schoolYear": "109"
+    },
+    {
+      "name": "(應用型)產學合作計畫－以剪切增稠流體加工技術製備高模量抗穿刺/吸音功能性複合板材及其特性評估",
+      "schoolYear": "108"
+    },
+    {
+      "name": "(廠配)信織實業股份有限公司(應用型)產學合作計畫－以剪切增稠流體加工技術製備高模量抗穿刺/吸音功能性複合板材及其特性評估",
+      "schoolYear": "108"
+    },
+    {
+      "name": "工業阻燃硬質聚氨酯製備含剪切增稠流體複合吸音板材之加工技術及其效益評估(2/2)",
+      "schoolYear": "108"
+    },
+    {
+      "name": "(應用型)產學合作計畫－回收阻燃Nomex纖維複合剪切增稠流體製備多功能防護吸音之隔熱板材加工技術及其特性評估",
+      "schoolYear": "107"
+    },
+    {
+      "name": "(廠配)信織實業股份有限公司(應用型)產學合作計畫－回收阻燃Nomex纖維複合剪切增稠流體製備多功能防護吸音之隔熱板材加工技術及其特性評估",
+      "schoolYear": "107"
+    },
+    {
+      "name": "工業阻燃硬質聚氨酯製備含剪切增稠流體複合吸音板材之加工技術及其效益評估(1/2)",
+      "schoolYear": "107"
+    },
+    {
+      "name": "(應用型)產學合作計畫－工業阻燃型之吸音隔熱複合板材之加工技術及其特性評估",
+      "schoolYear": "106"
+    },
+    {
+      "name": "(廠配)信織實業股份有限公司(應用型)產學合作計畫－工業阻燃型之吸音隔熱複合板材之加工技術及其特性評估",
+      "schoolYear": "106"
+    },
+    {
+      "name": "建築用阻燃PU發泡微穿孔吸音複合板材之製備技術及其性能評估",
+      "schoolYear": "106"
+    },
+    {
+      "name": "(應用型)產學合作計畫－建築隔牆之吸音/隔熱防護板材加工製造及其特性評估",
+      "schoolYear": "105"
+    },
+    {
+      "name": "(廠配)信織實業股份有限公司(應用型)產學合作計畫－建築隔牆之吸音/隔熱防護板材加工製造及其特性評估",
+      "schoolYear": "105"
+    },
+    {
+      "name": "工業級阻燃複合吸音板材之製備技術及其特性評估",
+      "schoolYear": "104"
+    },
+    {
+      "name": "(開發型)產學合作計畫－防護級有機/無機立體軟式複合板材之加工技術及其特性評估(1/2)",
+      "schoolYear": "103"
+    },
+    {
+      "name": "(廠配)信織實業股份有限公司(開發型)產學合作計畫－防護級有機/無機立體軟式複合板材之加工技術及其特性評估(1/2)",
+      "schoolYear": "103"
+    },
+    {
+      "name": "產學技術聯盟合作計畫-電聲產學技術發展與驗證聯盟(1/3)",
+      "schoolYear": "103"
+    },
+    {
+      "name": "(應用型)產學合作計畫－工業級阻燃/電磁屏蔽/吸音隔熱複合板材之製造技術及其特性評估",
+      "schoolYear": "103"
+    },
+    {
+      "name": "(廠配)華暐應用材料股份有限公司(應用型)產學合作計畫－工業級阻燃/電磁屏蔽/吸音隔熱複合板材之製造技術及其特性評估",
+      "schoolYear": "103"
+    },
+    {
+      "name": "(應用型)產學合作計畫─工業建築隔牆用電磁遮蔽/吸音複合板材之製造技術及其特性評估",
+      "schoolYear": "101"
+    },
+    {
+      "name": "(廠配)(應用型)產學合作計畫─工業建築隔牆用電磁遮蔽/吸音複合板材之製造技術及其特性評估(信織實業股份有限公司)",
+      "schoolYear": "101"
+    },
+    {
+      "name": "多目標柏拉圖同步子空間最佳化演算法效能提升之研究",
+      "schoolYear": "100"
+    },
+    {
+      "name": "科普活動：航太科學研習營",
+      "schoolYear": "98"
+    }
+  ],
+  "tech": [],
+  "induAca": [
+    "風扇葉片之流場模擬 (2023-08 to 2024-01)",
+    "Dyno測試機台之CAE模擬與優化 (2020-09 to 2021-07)",
+    "軸流式與離心式風扇之流場模擬與性能優化 (2019-06 to 2020-01)",
+    "無人機機身槳葉與震動模擬分析報告 (2017-09 to 2017-11)",
+    "回收系統緩衝參數分析 (2015-09 to 2016-01)",
+    "102年度教育部補助大學校院推動課程分流計畫第2年「電聲碩士學位學程課程分流實施計畫」 (2014-12 to 2015-11)",
+    "揚聲器系統聲學特性參數測試 (2014-02 to 2015-05)",
+    "電聲碩士學位學程課程分流實施計畫 (2013-12 to 2014-11)",
+    "掛繩回收系統參數研究 (2013-03 to 2013-12)",
+    "平面顯示器設備自製率躍升-以濕式塗佈製程建構含石墨烯電洞傳遞層OLED發光元件計畫 (2013-03 to 2013-10)",
+    "電動車懸吊系統之彈簧零件開發研究及CAE分析 (2011-07 to 2011-11)",
+    "液晶模組噪音量測—第二期 (2010-05 to 2011-04)",
+    "液晶模組噪音量測 (2009-10 to 2010-07)",
+    "經濟部工業局98年度中小企業即時技術輔導計畫─全域式喇叭之設計分析 (2009-10 to 2009-12)",
+    "經濟部工業局98年度中小企業即時技術輔導計畫─全域式喇叭之設計分析(廠商配合款：宜芸股份有限公司) (2009-10 to 2009-12)",
+    "組裝式公文櫃之設計與結構分析 (2009-03 to 2009-08)"
+  ],
+  "perform": [],
+  "reward": [
+    "113年度國科會補助大專校院研究獎勵 (113, 2024-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (113, 2024-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (113, 2024-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (113, 2024-11) - 逢甲大學",
+    "112年度國科會補助大專校院研究獎勵 (112, 2023-12) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (111, 2022-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (111, 2022-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (111, 2022-11) - 逢甲大學",
+    "111年度國科會補助大專校院研究獎勵 (111, 2022-10) - 研究發展處",
+    "逢甲大學論文著作獎勵傑出獎 (110, 2021-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (110, 2021-11) - 逢甲大學",
+    "109年度科技部補助大專校院研究獎勵 (109, 2020-10) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (107, 2018-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (107, 2018-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (107, 2018-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (107, 2018-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (106, 2017-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (106, 2017-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (106, 2017-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (106, 2017-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (106, 2017-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (106, 2017-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (105, 2016-11) - 逢甲大學",
+    "105年度科技部獎勵特殊優秀人才 (105, 2016-08) - 產學合作處",
+    "逢甲大學論文著作獎勵優良獎 (104, 2015-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (104, 2015-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (104, 2015-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (103, 2014-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (103, 2014-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (103, 2014-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (103, 2014-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (103, 2014-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (103, 2014-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (103, 2014-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (103, 2014-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (103, 2014-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (103, 2014-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (103, 2014-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (103, 2014-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (102, 2013-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (102, 2013-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (102, 2013-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (102, 2013-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (102, 2013-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (102, 2013-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (102, 2013-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (102, 2013-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (101, 2012-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (101, 2012-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (101, 2012-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (101, 2012-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (99, 2010-11) - 逢甲大學",
+    "97學年度優良導師 (97, 2009-08) - 逢甲大學"
+  ],
+  "speech": [],
+  "material": [],
+  "tal": [
+    "111年度大專校院教學實踐研究計畫「應用APP於強化工程專業學習之研究」 (111)",
+    "110年度大專校院教學實踐研究計畫「以專題導向式學習強化學生工程專業整合能力」 (110)",
+    "108年度大專校院教學實踐研究計畫「CDIO與專題導向式學習整合應用於電腦程式語言學習之研究」 (108)"
+  ]
+}

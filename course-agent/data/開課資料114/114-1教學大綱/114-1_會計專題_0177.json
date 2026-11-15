@@ -1,0 +1,778 @@
+{
+  "success": true,
+  "info": {
+    "yms_year": 114.0,
+    "yms_smester": 1.0,
+    "sub_id": "56363",
+    "cls_id": "CB01143",
+    "scr_dup": "001",
+    "sub_id3": "ACCT4073",
+    "cls_name": "會計四丙",
+    "cls_ename": "Department of Accounting",
+    "sub_name": "會計專題",
+    "sub_ename": "SPECIAL TOPICS IN ACCOUNTING",
+    "scr_mso": "必修",
+    "scr_mso_en": "Required",
+    "scr_credit": 3.0,
+    "scr_periodly": "(三)05",
+    "scr_periodly_eng": "(Wed)05",
+    "lang_name": "中文                                                      ",
+    "lang_ename": "Chinese",
+    "scr_room": "待排",
+    "scr_room_eng": "TBD",
+    "scr_teacher": "伍大開,盧鈺欣,林書賢,吳周燕,李慧慈,王文聖",
+    "scr_teacher_eng": "Wen-Sheng Wang,Yu-Hsin Lu,Shu-Hsien Lin,Chou-Yen Wu,Hui-Tzu Lee,Wen-Sheng Wang",
+    "scr_selcode": "0177",
+    "scr_elearning": "全學期",
+    "scr_elearning_en": "Full semester",
+    "scr_hours": "1",
+    "scr_english": "N",
+    "unt_name": null,
+    "unt_ename": null,
+    "link_traminal": "跨學期畢業專題",
+    "link_traminal_en": "Capstone Course",
+    "scr_ldl": "D",
+    "course_mk": "N",
+    "teams_mk": "N",
+    "sub_title": null,
+    "sub_title_en": null,
+    "sub_describe": null,
+    "sub_describe_en": null,
+    "hasDescription": null,
+    "hasInstructor": null,
+    "hasTA": null,
+    "hasTextBooks": null,
+    "hasReadings": null,
+    "hasiSoftwares": null,
+    "hasAssistSoftwares": null,
+    "hasObjective": null,
+    "hasWeeklyScds": null,
+    "hasGradeRules": null,
+    "hasGradeRuleDescribe": null,
+    "hasIntegrity": null,
+    "hasCoursePol": null,
+    "hasCourseRem": null,
+    "hasObjectiveReleation": null,
+    "hasTopicSdgs": null,
+    "hasSubTitleDesc": null
+  },
+  "subTitleDesc": null,
+  "description": {
+    "sub_id3": null,
+    "sub_name": "會計專題",
+    "sub_ename": "SPECIAL TOPICS IN ACCOUNTING",
+    "describe_ch": "將學生分組對不同專題做深入廣泛的研討。冀望此專題的學習讓學生應用所學的會計理論、審計及稅務知識來解決企業問題。預期學生對會計相關議題有?廣的見解及想法。而團隊的討論與分工合作可培養學生溝通的能力。",
+    "describe_eh": "In this course students will be divided into groups to present and discuss various topics with breadth or depth. Students are expected to integrate what they have learned in accounting theory, auditing, and taxes knowledge to solve business problems. They also are expected to broaden their perspective and open their mind in doing related accounting issues. Emphasis is placed upon teamwork, written and oral communication in their presentations and discussions.",
+    "pre_subname": "",
+    "pre_sub_id3": null,
+    "pre_sub_ename": "",
+    "pre_describe": null,
+    "pre_describe_en": null,
+    "scr_credit": 3.0
+  },
+  "targets": [
+    {
+      "seq": 1,
+      "describe_ch": "能蒐集與研究問題相關的資料",
+      "describe_en": "Be able to collect data which is related to the research problem"
+    },
+    {
+      "seq": 2,
+      "describe_ch": "綜合組員討論並向同學及老師報告結果",
+      "describe_en": "Synthesize the discussion between team members and report the results to classmates and instructor."
+    },
+    {
+      "seq": 3,
+      "describe_ch": "了解專題涉及之專業倫理",
+      "describe_en": "Understand project related professional ethics."
+    },
+    {
+      "seq": 4,
+      "describe_ch": "能分析資料並適切歸納出結論",
+      "describe_en": "Be able to analyze data and draw appropriate conclusions"
+    },
+    {
+      "seq": 5,
+      "describe_ch": "了解研究問題的世界脈動",
+      "describe_en": "Understand the global nature of research problem"
+    }
+  ],
+  "teachersInfo": [
+    {
+      "cname": "伍大開",
+      "ename": "Da-Kai Wu",
+      "period": " ",
+      "roletype": 0,
+      "email": "dkwu@o365.fcu.edu.tw",
+      "ext": "4209"
+    },
+    {
+      "cname": "盧鈺欣",
+      "ename": "Yu-Hsin Lu",
+      "period": "(Tue)03-04 商1138,(Wed)07  商1138,(Thu)07  商1138",
+      "roletype": 0,
+      "email": "luyh@o365.fcu.edu.tw",
+      "ext": "4214"
+    },
+    {
+      "cname": "林書賢",
+      "ename": "Shu-Hsien Lin",
+      "period": "(Fri)01-02 商1125,(Fri)08-09 商1125",
+      "roletype": 0,
+      "email": "shsienlin@o365.fcu.edu.tw",
+      "ext": "4226"
+    },
+    {
+      "cname": "吳周燕",
+      "ename": "Chou-Yen Wu",
+      "period": "(Thu)06-07 商1136,(Thu)08-09 商1136",
+      "roletype": 0,
+      "email": "chouywu@o365.fcu.edu.tw",
+      "ext": "4223"
+    },
+    {
+      "cname": "李慧慈",
+      "ename": "Hui-Tzu Lee",
+      "period": "(Mon)04  商1116,(Tue)02-03 商1116,(Tue)04  商1116,(Wed)07-08 商1116,(Thu)04-05 商1116,(Thu)06  商1116",
+      "roletype": 0,
+      "email": "huitlee@o365.fcu.edu.tw",
+      "ext": "4228"
+    },
+    {
+      "cname": "王文聖",
+      "ename": "Wen-Sheng Wang",
+      "period": "(Mon)03-04 商1128,(Fri)06-07 商1128",
+      "roletype": 0,
+      "email": "wswang@o365.fcu.edu.tw",
+      "ext": "4216"
+    }
+  ],
+  "textBooks": {
+    "yms_year": 114.0,
+    "yms_smester": 1.0,
+    "cls_id": "CB01143",
+    "sub_id": "56363",
+    "scr_dup": "001",
+    "tpb_seq": 1,
+    "tpb_book": "<div>指導老師指定閱讀教材或是自編講義</div>\n",
+    "tpb_book_en": " "
+  },
+  "readings": {
+    "yms_year": 114.0,
+    "yms_smester": 1.0,
+    "cls_id": "CB01143",
+    "sub_id": "56363",
+    "scr_dup": "001",
+    "tpc_seq": 1,
+    "tpc_book": "<div>學術期刊、報章雜誌、老師指定閱讀教材</div>\n",
+    "tpc_book_en": " "
+  },
+  "iSoftwares": [],
+  "assistSoftwares": [],
+  "weeklyScds": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CB01143",
+      "sub_id": "56363",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "1-3",
+      "tpd_reading": "<div>專題研究議題發想與討論</div>\n",
+      "tpd_reading_en": " ",
+      "tpd_learn": " ",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CB01143",
+      "sub_id": "56363",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "4-6",
+      "tpd_reading": "<div>研究方法設計</div>\n",
+      "tpd_reading_en": " ",
+      "tpd_learn": " ",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CB01143",
+      "sub_id": "56363",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "7-8",
+      "tpd_reading": "<div>文獻回顧</div>\n",
+      "tpd_reading_en": " ",
+      "tpd_learn": " ",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CB01143",
+      "sub_id": "56363",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "9-11",
+      "tpd_reading": "<div>撰寫報告內容(包含題目、研究背景與目的、文獻回顧、研究方法與步驟、研究成果與結論等)</div>\n",
+      "tpd_reading_en": " ",
+      "tpd_learn": "<div>書面報告：於大四上學期期中考後一個月內繳交初稿給指導老師</div>\n",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CB01143",
+      "sub_id": "56363",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "12-14",
+      "tpd_reading": "<div>撰寫報告內容(包含題目、研究背景與目的、文獻回顧、研究方法與步驟、研究成果與結論等)</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": " ",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CB01143",
+      "sub_id": "56363",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "15-16",
+      "tpd_reading": "<div>撰寫報告內容(包含題目、研究背景與目的、文獻回顧、研究方法與步驟、研究成果與結論等)</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": " ",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CB01143",
+      "sub_id": "56363",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "17",
+      "tpd_reading": "<div>各組同學須與指導老師排定日期(期末考週結束前)，完成會計專題研究成果發表</div>\n",
+      "tpd_reading_en": " ",
+      "tpd_learn": "<div>書面報告：修改完成後請於&quot;教師送交學期成績截止日&quot;前繳交電子檔(PDF)給季汝助教jzhu@o365.fcu.edu.tw</div>\n",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    }
+  ],
+  "gradeRules": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CB01143",
+      "sub_id": "56363",
+      "scr_dup": "001",
+      "evalb_id": "F3",
+      "score_rate": 30,
+      "evalb_memo": "學生參與度",
+      "evalb_memo_en": null,
+      "evalb_name": "小組討論",
+      "evalb_name_en": "Group discussion",
+      "seq": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CB01143",
+      "sub_id": "56363",
+      "scr_dup": "001",
+      "evalb_id": "G5",
+      "score_rate": 30,
+      "evalb_memo": "書面報告",
+      "evalb_memo_en": null,
+      "evalb_name": "書面報告",
+      "evalb_name_en": "Writing report",
+      "seq": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CB01143",
+      "sub_id": "56363",
+      "scr_dup": "001",
+      "evalb_id": "K2",
+      "score_rate": 40,
+      "evalb_memo": "口頭成果發表",
+      "evalb_memo_en": null,
+      "evalb_name": "口頭報告",
+      "evalb_name_en": "Oral presentation",
+      "seq": 0
+    }
+  ],
+  "gradeRuleDescribe": {
+    "yms_year": 114.0,
+    "yms_smester": 1.0,
+    "cls_id": "CB01143",
+    "sub_id": "56363",
+    "scr_dup": "001",
+    "tpa_score_new": "<div>成績評分：書面報告30%，學生參與度30%，口頭成果發表40%。</div>\n",
+    "tpa_score_new_en": " ",
+    "course_pol": "定期與指導老師進行面談、討論，並遵守指導老師排定日期(期末考週結束前)，完成會計專題研究成果發表。\n未參加或出席會計專題口頭成果發表同學，會計專題課程發表相關成績不予評分。(除因特殊情況經指導老師同意者不在此限。)",
+    "course_pol_en": null,
+    "course_rem": "會計專題相關作業規定請至系網頁查看，路徑：會計系網頁-新聞與活動-校園新聞-單位新聞。\n網址：https://acct.fcu.edu.tw/news/2022_10_24_02/",
+    "course_rem_en": null,
+    "ais_meno": "<div>\n<div>學生應尊重學術道德，避免未經授權使用他人作品。</div>\n\n<div>禁止任何抄襲、作弊、偽造或違反著作權法...等違反學術倫理之行為。</div>\n\n<div>所有資料來源須清楚說明，相關文獻引用須適當。</div>\n\n<div>如違反學術誠信與倫理之行為，將自行承擔所有法律責任，以及概括承受一切後果。</div>\n</div>\n",
+    "ais_meno_en": null,
+    "ilearn_mk": null
+  },
+  "integrity": {
+    "yms_year": 114.0,
+    "yms_smester": 1.0,
+    "cls_id": "CB01143",
+    "sub_id": "56363",
+    "scr_dup": "001",
+    "tpa_score_new": "<div>成績評分：書面報告30%，學生參與度30%，口頭成果發表40%。</div>\n",
+    "tpa_score_new_en": " ",
+    "course_pol": "定期與指導老師進行面談、討論，並遵守指導老師排定日期(期末考週結束前)，完成會計專題研究成果發表。\n未參加或出席會計專題口頭成果發表同學，會計專題課程發表相關成績不予評分。(除因特殊情況經指導老師同意者不在此限。)",
+    "course_pol_en": null,
+    "course_rem": "會計專題相關作業規定請至系網頁查看，路徑：會計系網頁-新聞與活動-校園新聞-單位新聞。\n網址：https://acct.fcu.edu.tw/news/2022_10_24_02/",
+    "course_rem_en": null,
+    "ais_meno": "<div>\n<div>學生應尊重學術道德，避免未經授權使用他人作品。</div>\n\n<div>禁止任何抄襲、作弊、偽造或違反著作權法...等違反學術倫理之行為。</div>\n\n<div>所有資料來源須清楚說明，相關文獻引用須適當。</div>\n\n<div>如違反學術誠信與倫理之行為，將自行承擔所有法律責任，以及概括承受一切後果。</div>\n</div>\n",
+    "ais_meno_en": null,
+    "ilearn_mk": null
+  },
+  "policy": {
+    "yms_year": 114.0,
+    "yms_smester": 1.0,
+    "cls_id": "CB01143",
+    "sub_id": "56363",
+    "scr_dup": "001",
+    "tpa_score_new": "<div>成績評分：書面報告30%，學生參與度30%，口頭成果發表40%。</div>\n",
+    "tpa_score_new_en": " ",
+    "course_pol": "定期與指導老師進行面談、討論，並遵守指導老師排定日期(期末考週結束前)，完成會計專題研究成果發表。\n未參加或出席會計專題口頭成果發表同學，會計專題課程發表相關成績不予評分。(除因特殊情況經指導老師同意者不在此限。)",
+    "course_pol_en": null,
+    "course_rem": "會計專題相關作業規定請至系網頁查看，路徑：會計系網頁-新聞與活動-校園新聞-單位新聞。\n網址：https://acct.fcu.edu.tw/news/2022_10_24_02/",
+    "course_rem_en": null,
+    "ais_meno": "<div>\n<div>學生應尊重學術道德，避免未經授權使用他人作品。</div>\n\n<div>禁止任何抄襲、作弊、偽造或違反著作權法...等違反學術倫理之行為。</div>\n\n<div>所有資料來源須清楚說明，相關文獻引用須適當。</div>\n\n<div>如違反學術誠信與倫理之行為，將自行承擔所有法律責任，以及概括承受一切後果。</div>\n</div>\n",
+    "ais_meno_en": null,
+    "ilearn_mk": null
+  },
+  "courseBankC": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CB01143",
+      "sub_id": "56363",
+      "scr_dup": "001",
+      "seq": 1,
+      "describe_ch": "能蒐集與研究問題相關的資料",
+      "describe_en": "Be able to collect data which is related to the research problem",
+      "core_id": "A",
+      "core_item": "學生具備商管專業的思辨學習能力",
+      "core_eng": "Students possess critical thinking capability in business and management issue.",
+      "core_level": "2 ",
+      "strgy": [
+        "10"
+      ],
+      "evalb": [
+        "K2"
+      ],
+      "strgy_name": [
+        "小組討論及活動"
+      ],
+      "strgy_name_en": [
+        "Group activity & discussion"
+      ],
+      "evalb_name": [
+        "口頭報告"
+      ],
+      "evalb_name_en": [
+        "Oral presentation"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CB01143",
+          "sub_id": "56363",
+          "scr_dup": "001",
+          "seq": 1,
+          "strgy_id": "10",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CB01143",
+          "sub_id": "56363",
+          "scr_dup": "001",
+          "seq": 1,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "K2",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CB01143",
+      "sub_id": "56363",
+      "scr_dup": "001",
+      "seq": 2,
+      "describe_ch": "綜合組員討論並向同學及老師報告結果",
+      "describe_en": "Synthesize the discussion between team members and report the results to classmates and instructor.",
+      "core_id": "B",
+      "core_item": "學生具備溝通技巧",
+      "core_eng": "Students are able to be effective communicators.",
+      "core_level": "2 ",
+      "strgy": [
+        "10"
+      ],
+      "evalb": [
+        "K2"
+      ],
+      "strgy_name": [
+        "小組討論及活動"
+      ],
+      "strgy_name_en": [
+        "Group activity & discussion"
+      ],
+      "evalb_name": [
+        "口頭報告"
+      ],
+      "evalb_name_en": [
+        "Oral presentation"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CB01143",
+          "sub_id": "56363",
+          "scr_dup": "001",
+          "seq": 2,
+          "strgy_id": "10",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CB01143",
+          "sub_id": "56363",
+          "scr_dup": "001",
+          "seq": 2,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "K2",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CB01143",
+      "sub_id": "56363",
+      "scr_dup": "001",
+      "seq": 3,
+      "describe_ch": "了解專題涉及之專業倫理",
+      "describe_en": "Understand project related professional ethics.",
+      "core_id": "C",
+      "core_item": "學生具備專業倫理觀念與態度",
+      "core_eng": "Students have professional concepts and attitudes of ethics.",
+      "core_level": "2 ",
+      "strgy": [
+        "10"
+      ],
+      "evalb": [
+        "K2"
+      ],
+      "strgy_name": [
+        "小組討論及活動"
+      ],
+      "strgy_name_en": [
+        "Group activity & discussion"
+      ],
+      "evalb_name": [
+        "口頭報告"
+      ],
+      "evalb_name_en": [
+        "Oral presentation"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CB01143",
+          "sub_id": "56363",
+          "scr_dup": "001",
+          "seq": 3,
+          "strgy_id": "10",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CB01143",
+          "sub_id": "56363",
+          "scr_dup": "001",
+          "seq": 3,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "K2",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CB01143",
+      "sub_id": "56363",
+      "scr_dup": "001",
+      "seq": 4,
+      "describe_ch": "能分析資料並適切歸納出結論",
+      "describe_en": "Be able to analyze data and draw appropriate conclusions",
+      "core_id": "D",
+      "core_item": "學生具備跨領域及問題解決能力",
+      "core_eng": "Students possess interdisciplinary capabilities and problem-solving skills, supported by appropriate analytical techniques.",
+      "core_level": "4 ",
+      "strgy": [
+        "10"
+      ],
+      "evalb": [
+        "K2"
+      ],
+      "strgy_name": [
+        "小組討論及活動"
+      ],
+      "strgy_name_en": [
+        "Group activity & discussion"
+      ],
+      "evalb_name": [
+        "口頭報告"
+      ],
+      "evalb_name_en": [
+        "Oral presentation"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CB01143",
+          "sub_id": "56363",
+          "scr_dup": "001",
+          "seq": 4,
+          "strgy_id": "10",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CB01143",
+          "sub_id": "56363",
+          "scr_dup": "001",
+          "seq": 4,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "K2",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CB01143",
+      "sub_id": "56363",
+      "scr_dup": "001",
+      "seq": 5,
+      "describe_ch": "了解研究問題的世界脈動",
+      "describe_en": "Understand the global nature of research problem",
+      "core_id": "E",
+      "core_item": "學生具備國際觀",
+      "core_eng": "Students are able to have a global perspective.",
+      "core_level": "2 ",
+      "strgy": [
+        "10"
+      ],
+      "evalb": [
+        "K2"
+      ],
+      "strgy_name": [
+        "小組討論及活動"
+      ],
+      "strgy_name_en": [
+        "Group activity & discussion"
+      ],
+      "evalb_name": [
+        "口頭報告"
+      ],
+      "evalb_name_en": [
+        "Oral presentation"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CB01143",
+          "sub_id": "56363",
+          "scr_dup": "001",
+          "seq": 5,
+          "strgy_id": "10",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CB01143",
+          "sub_id": "56363",
+          "scr_dup": "001",
+          "seq": 5,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "K2",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    }
+  ],
+  "topicSdgs": [],
+  "learnHours": {
+    "total": 0.0,
+    "tpdOnlineAsyTotal": 0.0,
+    "tpdOnlineSynTotal": 0.0,
+    "tpdOnlineFaceTotal": 0.0,
+    "asySynInTotalPercent": 0.0
+  },
+  "crossVerYear": 114
+}

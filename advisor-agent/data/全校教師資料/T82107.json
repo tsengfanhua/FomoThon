@@ -1,0 +1,394 @@
+{
+  "teacherId": "T82107",
+  "name": "楊豐瑞",
+  "mainUnit": "資訊電機學院",
+  "detailUnit": "通訊工程學系",
+  "skill": [
+    "網路通訊Network Communications",
+    "平行處理Parallel Processing",
+    "人工智慧Artificial Intelligence"
+  ],
+  "edu": [
+    "美國奧本大學 電機工程研究所 博士"
+  ],
+  "fcuExp": [
+    "電子工程學系(所) 副教授",
+    "通訊工程學系 副教授"
+  ],
+  "currjob": [],
+  "otherExp": [],
+  "journal": [
+    {
+      "論文名稱": "Supporting Integrated Traffic Signal Controllers using Embedded System and Software Agent",
+      "期刊名稱": "Journal of Computers (EI)",
+      "作者群": "Jim-Min Lin, Liang-Tay Lin, Fongray Frank Young, Kuo-Ming Fang, and Kuo-Su Hong"
+    },
+    {
+      "論文名稱": "在U-Taiwan架構下無線通訊技術與智慧型交控系統之應用",
+      "期刊名稱": "中國土木水利雙月刊 ()",
+      "作者群": "楊豐瑞,林良泰,林志敏,陳炯宇"
+    },
+    {
+      "論文名稱": "構建新世代智慧型交通控制系統之雛議",
+      "期刊名稱": "Computer and Communications ()",
+      "作者群": "林良泰、謝長明、林志敏、楊豐瑞、黃宏仁"
+    },
+    {
+      "論文名稱": "A Seamless Handoff Approach of Mobile IP Protocal for Mobile Wireless Data Networks",
+      "期刊名稱": "IEEE Trans. Consumer Electronics (SCIE)",
+      "作者群": "I. W. Wu, W. S. Chen, H. E. Liao, and F. F. Y"
+    },
+    {
+      "論文名稱": "A Seamless Handoff Approach of Mobile IP Protocal for Mobile Wireless Data Networks",
+      "期刊名稱": "IEEE Trans. Consumer Electronics (SCIE)",
+      "作者群": "I. W. Wu, W. S. Chen, H. E. Liao, and F. F. Y"
+    },
+    {
+      "論文名稱": "A Seamless Handoff Approach of Mobile IP Protocal for Mobile Wireless Data Networks",
+      "期刊名稱": "IEEE Trans. Consumer Electronics (SCIE)",
+      "作者群": "I. W. Wu, W. S. Chen, H. E. Liao, and F. F. Y"
+    },
+    {
+      "論文名稱": "A Seamless Handoff Approach of Mobile IP Protocal for Mobile Wireless Data Networks",
+      "期刊名稱": "IEEE Trans. Consumer Electronics (SCIE)",
+      "作者群": "I. W. Wu, W. S. Chen, H. E. Liao, and F. F. Y"
+    }
+  ],
+  "journal2": [],
+  "conference": [
+    {
+      "論文名稱": "An Adaptive Sensor Management System",
+      "會議名稱": "14th International Conference on Information Technology : New Generations",
+      "作者群": "Chyi-Ren Dow, Yaun-Zone Wu, Bonnie Lu, Shiow-Fen Hwang and Fongray Frank Young"
+    },
+    {
+      "論文名稱": "Design of Transmission and Scheduling Mechanisms with Fairness and Throughput Improvement for D2D Relaying in LTE Networks",
+      "會議名稱": "2017 International Conference on Innovation and Management",
+      "作者群": "Jeng-Yueng Chen*, Yi-Ting Mai, Chun-Chuan Yang, and Fongray Frank Young"
+    },
+    {
+      "論文名稱": "Investigations of ARP Spoofing Defense by SDN",
+      "會議名稱": "2016彰雲嘉大學校院聯盟學術研討會",
+      "作者群": "Fongray Frank Young, Yu-Han You, Chyi-Ren Dow, and Jeng-Yueng Chen"
+    },
+    {
+      "論文名稱": "A Novel Vertical Handover Scheme for LTE-A Mobile Relay Systems",
+      "會議名稱": "2015 International Conference on Applied System & Innovation",
+      "作者群": "Jeng-Yueng Chen*, Yi-Ting Mai and Fongray Frank Young"
+    },
+    {
+      "論文名稱": "Resource Allocation Investigation of VoIP in LTE",
+      "會議名稱": "2014 Conference on Photonics and Communications",
+      "作者群": "Fongray Frank Young, Yo Chi Lou"
+    },
+    {
+      "論文名稱": "Efficacy Analysis Investigations for Loading Sensing Scheduler in MapReduce",
+      "會議名稱": "2014 Conference on Photonics and Communications",
+      "作者群": "Fongray Frank Young, Tzung Shiun Jan, Yo Chi Lou"
+    },
+    {
+      "論文名稱": "Investigation of a Priority Scheduling Scheme in LTE",
+      "會議名稱": "2014 Conference on Photonics and Communications",
+      "作者群": "Fongray Frank Young, Kai-Chen Chen, Zi-Yi Wan, Yo-Chi Lou"
+    },
+    {
+      "論文名稱": "Feedback Scheme Investigation of LTE Channel Quality Indicator",
+      "會議名稱": "2013光電與通訊工程應用研討會",
+      "作者群": "Dai-You Chen and Fongray Frank Young"
+    },
+    {
+      "論文名稱": " Investigations of Fast Topology Reconfiguration Scheme for ZigBee Nodes",
+      "會議名稱": "第七屆智慧生活科技研討會 ILT2012",
+      "作者群": "楊豐瑞、游承諭、陳岱佑"
+    },
+    {
+      "論文名稱": "Efficiency Investigation of Classified Routing Scheme on Multi-level Wireless Transmission",
+      "會議名稱": "2011 the seventh National Workshop on Internet and Communication Technology",
+      "作者群": "Fongray Frank Young and Kai-Wen Chang"
+    },
+    {
+      "論文名稱": "A Self-healing Routing Scheme on Wireless Mesh Networks",
+      "會議名稱": "AIT2010資訊科技國際研討會",
+      "作者群": "Fongray Frank Young,Sheng-Tsung Tseng,Liang-Tay Lin,Jim-Min Lin,Kai-Wen Chang"
+    },
+    {
+      "論文名稱": "Efficiency Investigation of Mobile Nodes on Wireless Mesh Networks using Associativity Multi-Backup Routing Scheme",
+      "會議名稱": "Network & RFID Technology Conference 2009",
+      "作者群": "Sheng-Tsung Tseng, Fongray Frank Young"
+    },
+    {
+      "論文名稱": "Using VPN and CIDR Schemes to Improve Transmission Performance in Traffic Control Systems",
+      "會議名稱": "Network & RFID Technology Conference 2009",
+      "作者群": "Tseng, S.-T., Young, F.-F., Lin, L.-T. & Lin, J.-M. (2009)."
+    },
+    {
+      "論文名稱": "Investigation Studies for Hierarchical ZigBee WiMAX Combined Networks",
+      "會議名稱": "Fourth Workshop on Wireless Ad Hoc and Sensor Networks",
+      "作者群": "Young, F.-F., Hong, J.-Y., Lin, L.-T. & Lin, J.-M. (2009)"
+    },
+    {
+      "論文名稱": "以嵌入式系統與軟體代理人支援整合式交通號誌控制裝置之研究",
+      "會議名稱": "2008 Symposium on Digital Life Technologies",
+      "作者群": "洪國書、林志敏、方郭洺、林良泰、楊豐瑞"
+    },
+    {
+      "論文名稱": "Investigations of Routing Performance Enhancement on Wireless Mesh Networks",
+      "會議名稱": "The 4th Workshop on Grid Technologies and Applications",
+      "作者群": "9.\tY. H. She and Fongray Frank Young"
+    },
+    {
+      "論文名稱": "Investigations of Gradient Flooding Scheme for Wireless Sensor Networks",
+      "會議名稱": "The 13th Mobile Computing Workshop",
+      "作者群": "Shen Ching Hui,Fongray Frank Young"
+    },
+    {
+      "論文名稱": "Strategy Investigations for Adaptive Network Channel Coding Selection",
+      "會議名稱": "2005 Symposium on Digital Life and Internet Technologies",
+      "作者群": "Wei-Lung Hsu, Fongray Frank Young"
+    },
+    {
+      "論文名稱": "Investigations for a MPLS High Performance Hierarchical Multicast Scheme",
+      "會議名稱": "2004 Symposium on Digital Life and Internet Technologies",
+      "作者群": "Yu-chieh Kung, Fongray Frank Young and Yu-Yuan Tu"
+    },
+    {
+      "論文名稱": "Performance Analyses and Studies for B3G Channel Coding",
+      "會議名稱": "2004 Symposium on Digital Life and Internet Technologies",
+      "作者群": "Wei-Lung Hsu, Fongray Frank Young, Hung-Chang Lee"
+    },
+    {
+      "論文名稱": "Congestion Scheme Investigations on TCP/IP Network",
+      "會議名稱": "2003 Symposium on Century Digital Life and Internet Technologies",
+      "作者群": "H. C. LEE and Fongray Frank Young"
+    },
+    {
+      "論文名稱": "Investigation for High Performance Mobile IPv6 Addressing Scheme",
+      "會議名稱": "2002 Symposium on Century Digital Life and Internet Technologies",
+      "作者群": "H. T. Wang, Fongray Frank Young and W. S. Chen"
+    },
+    {
+      "論文名稱": "Investigations for an Integrated Multiple-channel Mechanism Video-on Demand System",
+      "會議名稱": "2002 Symposium on Century Digital Life and Internet Technologies",
+      "作者群": "Fongray Frank Young, C. C. Lai and H. C. Lee"
+    },
+    {
+      "論文名稱": "A dynamic address allocation scheme in Mobile IP",
+      "會議名稱": "Proceedings of the 2001 Worshop on Consumer Electronics (WCE’2001)",
+      "作者群": "I.W. Wu、W. S. Chen、F. F. Young、H. E. Liao"
+    },
+    {
+      "論文名稱": "Design and implementation of software-based H.261 video codec",
+      "會議名稱": "Proceedings of the 5th Symposium on Computer and Communication Technology",
+      "作者群": "Y. Y. Peng、W. S. Chen、F. F. Young、C. H. Liu"
+    },
+    {
+      "論文名稱": "A Multi-channel Ethernet Scheme with Collision-free for Q S Supported Transmission",
+      "會議名稱": "2000 workshop on Internet &Distributed Systems",
+      "作者群": "Y.J Ma、F.F.Young"
+    },
+    {
+      "論文名稱": "Integrated Communication Technigul on Spread Spectram and Time-division Multiplexing",
+      "會議名稱": "2000 workshop on Internet＆Distributed Systems",
+      "作者群": "F.F.Young、M.N.Lee、Y.J.Ma"
+    }
+  ],
+  "book": [
+    {
+      "專業書籍": "數位邏輯設計附實習 第四版",
+      "出版單位": "旗標科技公司",
+      "作者群": "楊豐瑞、陳福春"
+    },
+    {
+      "專業書籍": "網路概論與實務(第六版)",
+      "出版單位": "旗標",
+      "作者群": "楊豐瑞、楊豐任"
+    },
+    {
+      "專業書籍": "數位邏輯設計附實習(第三版)",
+      "出版單位": "旗標",
+      "作者群": "楊豐瑞、陳福春"
+    },
+    {
+      "專業書籍": "數位邏輯設計 (第二版)",
+      "出版單位": "旗標出版公司",
+      "作者群": "楊豐瑞、陳福春"
+    },
+    {
+      "專業書籍": "網路概論與實務 (第五版)",
+      "出版單位": "旗標出版公司",
+      "作者群": "楊豐瑞、楊豐任"
+    },
+    {
+      "專業書籍": "網路概論與實務 第四版",
+      "出版單位": "學貫",
+      "作者群": "楊豐瑞、楊豐任"
+    },
+    {
+      "專業書籍": "TCP/IP概論",
+      "出版單位": "學貫行銷公司",
+      "作者群": "楊豐瑞、楊豐任"
+    },
+    {
+      "專業書籍": "網路概論與實務 (第三版)",
+      "出版單位": "學貫行銷公司",
+      "作者群": "楊豐瑞  楊豐任"
+    },
+    {
+      "專業書籍": "數位邏輯設計",
+      "出版單位": "旗標出版公司",
+      "作者群": "楊豐瑞 陳福春"
+    },
+    {
+      "專業書籍": "網路概論與實務",
+      "出版單位": "松崗",
+      "作者群": "楊豐瑞、楊豐任"
+    },
+    {
+      "專業書籍": "電腦網路原理",
+      "出版單位": "文魁",
+      "作者群": "楊豐瑞、楊豐任"
+    },
+    {
+      "專業書籍": "電腦網路原理",
+      "出版單位": "松崗電腦圖書資料公司",
+      "作者群": "楊豐瑞、楊豐任"
+    },
+    {
+      "專業書籍": "Internet實務與導論 - 網路e典通",
+      "出版單位": "松崗電腦圖書資料公司",
+      "作者群": "楊豐瑞、竇其仁、劉振緒"
+    },
+    {
+      "專業書籍": "智慧型寬頻網路教學系統建置研究成果報告",
+      "出版單位": "逢甲大學",
+      "作者群": "林欽裕，竇其仁，李維斌，楊豐瑞"
+    },
+    {
+      "專業書籍": "最新計算機網路實用教程",
+      "出版單位": "中國鐵道出版社",
+      "作者群": "楊豐瑞、楊豐任"
+    },
+    {
+      "專業書籍": "Internet 實務與導論 - 21世紀首部曲",
+      "出版單位": "松崗圖書公司",
+      "作者群": "楊豐瑞、劉振緒、竇其仁"
+    }
+  ],
+  "patent": [],
+  "most": [
+    {
+      "name": "高速公路智慧交通資訊平台開發-整合eTag資料與4G車機之技術",
+      "schoolYear": "105"
+    },
+    {
+      "name": "機動式智慧型交通控制系統之研究（II）-總計畫兼子計畫三：機動式智慧型交通控制系統之研究(II)",
+      "schoolYear": "98"
+    },
+    {
+      "name": "機動式智慧型交通控制系統之研究(II)-子計畫一：支援機動式智慧型交通控制系統之整合式無線通訊架構研究(II)",
+      "schoolYear": "98"
+    },
+    {
+      "name": "產學合作計畫─交通控制設施即時警示系統之研究",
+      "schoolYear": "97"
+    },
+    {
+      "name": "機動式智慧型交通控制系統之研究-總計畫兼子計畫三",
+      "schoolYear": "97"
+    },
+    {
+      "name": "(廠配)產學合作計畫─交通控制設施即時警示系統之研究(漢名科技股份有限公司)",
+      "schoolYear": "97"
+    },
+    {
+      "name": "機動式智慧型交通控制系統之研究-子計畫一：支援機動式智慧型交通控制系統之整合式無線通訊架構研究",
+      "schoolYear": "97"
+    },
+    {
+      "name": "分散式自我組織交通網路控制系統",
+      "schoolYear": "96"
+    },
+    {
+      "name": "架構在MPLS上之高效能階層式網路群播機制研究",
+      "schoolYear": "93"
+    },
+    {
+      "name": "新世代通訊網路封包損耗降低之策略研究",
+      "schoolYear": "92"
+    },
+    {
+      "name": "高效能 IPv6 行動定址架構研究",
+      "schoolYear": "91"
+    },
+    {
+      "name": "整合性多通道傳輸機制隨選視訊系統研究",
+      "schoolYear": "90"
+    },
+    {
+      "name": "整合性平行多工網路架構實作與應用分析研究",
+      "schoolYear": "88"
+    },
+    {
+      "name": "寬頻網路卡設計與訊號檢測",
+      "schoolYear": "88"
+    },
+    {
+      "name": "鋼琴樂譜之辨認系統設計",
+      "schoolYear": "87"
+    },
+    {
+      "name": "以展頻技術實踐無虛擬通道的路徑器架構之研究",
+      "schoolYear": "87"
+    },
+    {
+      "name": "一般方程式組之數值求解-DELTA-FET特性模擬與分析",
+      "schoolYear": "86"
+    },
+    {
+      "name": "影像移動估算之平均挽對差值積電話設計(大專生暑期)",
+      "schoolYear": "86"
+    },
+    {
+      "name": "數位信號處理VLSI架構設計之教學改進研究",
+      "schoolYear": "83"
+    },
+    {
+      "name": "電漿處理模擬模式數值技巧研究暨平行系統效益評估模式之建立",
+      "schoolYear": "83"
+    }
+  ],
+  "tech": [
+    {
+      "論文名稱": "網路通訊 (2003-09)",
+      "書名": "資電概論",
+      "作者群": "逢甲大學資訊電機學院"
+    }
+  ],
+  "induAca": [
+    "電漿處理模擬與網格生成工具箱之整合應用研究 (1996-08 to 1997-07)"
+  ],
+  "perform": [],
+  "reward": [
+    "逢甲大學優良教材獎勵優等獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學優良教材獎勵優等獎 (108, 2019-11) - 逢甲大學",
+    "106學年度優良導師 (106, 2018-11) - 學生事務處",
+    "103學年度優良導師 (103, 2015-11) - 逢甲大學",
+    "優秀論文獎 (103, 2014-11) - 2014光電與通訊工程應用研討會",
+    "專題競賽第一名 (102, 2014-03) - 資電學院",
+    "論文佳作 (100, 2012-06) - 第七屆智慧生活科技研討會",
+    "逢甲大學優良教材獎勵優等獎 (99, 2010-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵 (98, 2009-11) - 逢甲大學",
+    "逢甲大學優良教材獎勵優等獎 (96, 2007-11) - 逢甲大學",
+    "優良教師 (94, 2005-11) - 逢甲大學",
+    "優良教師 (93, 2004-09) - 資電學院",
+    "逢甲大學論文著作獎勵傑出獎 (92, 2003-11) - 逢甲大學",
+    "八十七學年教育部通訊改進計畫特優獎獎助 (87, 1999-05) - 教育部",
+    "國科會甲種獎勵 (85, 1996-08) - 行政院國科會",
+    "國科會甲種獎勵 (83, 1994-08) - 行政院國科會"
+  ],
+  "speech": [],
+  "material": [
+    "網路概論與實務(第七版)\t旗標科技公司\t楊豐瑞*、楊豐任\t教科書"
+  ],
+  "tal": []
+}

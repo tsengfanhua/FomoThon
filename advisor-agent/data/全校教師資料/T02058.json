@@ -1,0 +1,1333 @@
+{
+  "teacherId": "T02058",
+  "name": "張育誠",
+  "mainUnit": "工程與科學學院",
+  "detailUnit": "材料科學與工程學系",
+  "skill": [
+    "奈米材料合成與應用Synthesis and Applications of Nanomaterials",
+    "綠色能源材料Green-energy Materials",
+    "生醫感測Biomedical Sensing",
+    "材料分析Material Analysis"
+  ],
+  "edu": [
+    "清華大學 材料科學與工程學系 博士",
+    "清華大學 原子科學系 碩士",
+    "東海大學 化學系 學士"
+  ],
+  "fcuExp": [
+    "材料研究中心 主任",
+    "材料科學與工程學系 系主任",
+    "材料科學與工程學系 助理教授",
+    "材料科學與工程學系 助理教授",
+    "材料科學與工程學系 副教授",
+    "材料科學與工程學系 教授",
+    "材料科學與工程學系 特聘教授",
+    "材料科學與工程學系 教授",
+    "材料科學與工程學系 教授"
+  ],
+  "currjob": [],
+  "otherExp": [
+    "交通大學 材料科學與工程學系 博士後研究人員",
+    "清華大學 材料科學與工程學系 博士後研究人員",
+    "陸軍通訊電子資訊學校 教勤連 助教"
+  ],
+  "journal": [
+    {
+      "論文名稱": "Nitrogen-doped carbon dots/indium-doped zinc sulfide heterostructures for enhanced photocatalytic seawater splitting",
+      "期刊名稱": "Journal of Environmental Chemical Engineering (SCIE)",
+      "作者群": "Yu-Cheng Chang*,  Tzu-Jie Chen ,  Po-Chun Hsu"
+    },
+    {
+      "論文名稱": "Construction of novel N-doped CDs@CdS@ZnS composite via interfacial charge transfer effect for highly improved photocatalytic seawater splitting",
+      "期刊名稱": "International Journal of Hydrogen Energy (SCIE)",
+      "作者群": "Yu-Cheng Chang*,  Yi-Chun Lin,  Ming-Yen Lu*"
+    },
+    {
+      "論文名稱": "Indium-doped zinc sulfide nanopowders for boosting photocatalytic stream water splitting",
+      "期刊名稱": "Journal of Alloys and Compounds (SCIE)",
+      "作者群": "Yu-Cheng Chang*, Tzu-Jie Chen, Ming-Yen Lu*"
+    },
+    {
+      "論文名稱": "Precise Methylation Detection of Tumor Suppressor Gene Promoters by Magnetic Enrichment and Nano Silver Adduct–Promoted Surface‐Enhanced Raman Scattering.",
+      "期刊名稱": "Small (SSCI)",
+      "作者群": "S. Singh, Y. -W. Lin, W. -J. Wang, Y. -C. Chang, Y. -H. Chien*, W. ‐P. Li*."
+    },
+    {
+      "論文名稱": "Air plasma-treated titanium dioxide nanotubes for enhanced photoelectrochemical and photocatalytic properties",
+      "期刊名稱": "Journal of Alloys and Compounds (SSCI)",
+      "作者群": "Yu-Cheng Chang*, Pin-Ru Lai, Jason Hsiao Chun Yang, Nobuya Hayashi*"
+    },
+    {
+      "論文名稱": "Construction of In2S3–In(OH)3–ZnS nanofibers for boosting photocatalytic hydrogen evolution",
+      "期刊名稱": "International Journal of Hydrogen Energy (SCIE)",
+      "作者群": "Yu-Cheng Chang*,  Shih-Yue Syu,  Po-Chun Hsu"
+    },
+    {
+      "論文名稱": "Influence of Crystallinity and Reaction Integrity on the Photoresponse of Silicon-Doped Zinc Germanate Nanowires",
+      "期刊名稱": "Crystal Growth & Design (SSCI)",
+      "作者群": "Jing-Siou Lin,† Yu Hung Ou-Yang,† Zhong-You Huang, Yu-Cheng Chang, and Chun-Wei Huang*"
+    },
+    {
+      "論文名稱": "Fabrication of ZnCo2O4-Zn(OH)2 Microspheres on Carbon Cloth for Photocatalytic Decomposition of Tetracycline",
+      "期刊名稱": "Molecules (SCIE)",
+      "作者群": "Sin-Ei Juang, Ning-Chien Chin, Yu-Cheng Chang*, and Chia-Man Chou"
+    },
+    {
+      "論文名稱": "Visible Light-Induced Photocatalytic Hydrogen Generation from Seawater Using Ternary Indium Sulfide/Indium Oxide/Gold Nanocomposites Obtained via Microwave-Assisted Synthesis",
+      "期刊名稱": "ACS Applied Nano Materials (SSCI)",
+      "作者群": "Ying-Ru Lin, Fu-Hsiang Ko*, Yu-Cheng Chang*"
+    },
+    {
+      "論文名稱": "Microwave-Assisted Synthesis of SnO2@ZnIn2S4 Composites for Highly Efficient Photocatalytic Hydrogen Evolution",
+      "期刊名稱": "Materials (SSCI)",
+      "作者群": "Yu-Cheng Chang*,Jia-Ning Bi, Kuan-Yin Pan, Yung-Chang Chiao"
+    },
+    {
+      "論文名稱": "Defect-synergetic effect enhanced CO2 photoreduction efficiency of TiO2 nanostructures with Fe dopants",
+      "期刊名稱": "Journal of Environmental Chemical Engineering (SCIE)",
+      "作者群": "An-Ya Lo*, Chih-Chiang Wang*, Juifa Huang, Yi-Chen Chung, Yu-Cheng Chang"
+    },
+    {
+      "論文名稱": "PbS dendrites/graphene membranes as efficient solar steam generators",
+      "期刊名稱": "Journal of the Taiwan Institute of Chemical Engineers (SCIE)",
+      "作者群": "Chi-Jung Chang*, Arul Pundi, Shao-Ching Hsieh, Chien-Yie Tsay, Yu-Cheng Chang, Chih-Feng Wang"
+    },
+    {
+      "論文名稱": "Na2Ti3O7@RF@Ag Heterostructures as Efficient Substrates for SERS and Photocatalytic Applications",
+      "期刊名稱": "Molecules (SCIE)",
+      "作者群": "Yu-Cheng Chang*,I-Chun Lin,Ning-Chien Chin,Sin-Ei Juang, Chia-Man Chou*"
+    },
+    {
+      "論文名稱": "WS2–TiO2 hetero-photocatalysts for efficient hydrogen evolution via plasmon-induced resonance energy transfer",
+      "期刊名稱": "International Journal of Hydrogen Energy (SCIE)",
+      "作者群": "Lian-Ming Lyu, Kai-Yuan Hsiao, Cheng-Yi Lin, Yu-Han Tseng, Yu-Cheng Chang, Ming-Yen Lu*"
+    },
+    {
+      "論文名稱": "Synthesis of g-C3N4@ZnIn2S4 Heterostructures with Extremely High Photocatalytic Hydrogen Production and Reusability",
+      "期刊名稱": "Catalysts (SCIE)",
+      "作者群": "Yu-Cheng Chang*, Yung-Chang Chiao, Chi-Jung Chang"
+    },
+    {
+      "論文名稱": "Construction of Ag/Ag2S/CdS Heterostructures through a Facile Two-Step Wet Chemical Process for Efficient Photocatalytic Hydrogen Production",
+      "期刊名稱": "Nanomaterials (SCIE)",
+      "作者群": "Yu-Cheng Chang*, Ying-Ru Lin"
+    },
+    {
+      "論文名稱": "Rapid Microwave-Assisted Synthesis of ZnIn2S4 Nanosheets for Highly Efficient Photocatalytic Hydrogen Production",
+      "期刊名稱": "Nanomaterials (SSCI)",
+      "作者群": "Yu-Cheng Chang*, Yung-Chang Chiao, Po-Chun Hsu"
+    },
+    {
+      "論文名稱": "One-pot microwave-assisted synthesis of In2S3/In2O3 nanosheets as highly active visible light photocatalysts for seawater splitting",
+      "期刊名稱": "International Journal of Hydrogen Energy (SCIE)",
+      "作者群": "Ying-Ru Lin, Yu-Cheng Chang, Fu-Hsiang Ko"
+    },
+    {
+      "論文名稱": "In Situ/Operando Studies for Reduced Eletromigration in Ag Nanowires with Stacking Faults",
+      "期刊名稱": "Advanced Electronic Materials (SCIE)",
+      "作者群": "Yu-Hsiang Hsueh, Ashok Ranjan, Lian-Ming Lyu, Kai-Yuan Hsiao, Yu-Cheng Chang, Ming-Pei Lu, Ming-Yen Lu*"
+    },
+    {
+      "論文名稱": "Fabrication of In(OH)3–In2S3–Cu2O nanofiber for highly efficient photocatalytic hydrogen evolution under blue light LED excitation",
+      "期刊名稱": "International Journal of Hydrogen Energy (SCIE)",
+      "作者群": "Yu-Cheng Chang*, Shih-Yue Syu, Ming-Yen Lu"
+    },
+    {
+      "論文名稱": "Enhanced Photocatalytic Performance of Visible-Light-Driven BiVO4 Nanoparticles through W and Mo Substituting",
+      "期刊名稱": "Catalysts (SCIE)",
+      "作者群": "Chien-Yie Tsay* , Ching-Yu Chung, Chin-Yi Chen , Yu-Cheng Chang , Chi-Jung Chang and Jerry J.Wu"
+    },
+    {
+      "論文名稱": "NiS/Pt loaded on electrospun TiO2 nanofiber with enhanced visible-light-driven photocatalytic hydrogen production",
+      "期刊名稱": "Materials Research Bulletin (SCIE)",
+      "作者群": "Yu-Cheng Chang*, Cheng-Jyun Zeng, Chin-Yi Chen, Chien-Yie Tsay, Gang-Juan Lee, Jerry J. Wu"
+    },
+    {
+      "論文名稱": "Ag Nanoparticles Decorated CuO@RF Core-Shell Nanowires for High-Performance Surface-Enhanced Raman Spectroscopy Application",
+      "期刊名稱": "Molecules (SCIE)",
+      "作者群": "Tung-Hao Chang,Hsin-Wei Di,Yu-Cheng Chang*,Chia-Man Chou*"
+    },
+    {
+      "論文名稱": "Density-Controlled Growth of ZnO Nanowalls for High-Performance Photocatalysts",
+      "期刊名稱": "Materials (SCIE)",
+      "作者群": "Yu-Cheng Chang*, Ying-Ru Lin, Sheng-Wen Chen, Chia-Man Chou*"
+    },
+    {
+      "論文名稱": "Au@CdS Nanocomposites as a Visible-Light Photocatalyst for Hydrogen Generation from Tap Water",
+      "期刊名稱": "Catalysts (SCIE)",
+      "作者群": "Ying-Ru Lin, Yu-Cheng Chang*, Yung-Chang Chia, Fu-Hsiang Ko"
+    },
+    {
+      "論文名稱": "Fabrication of Three-Dimensional ZnO: Ga@ITO@Ag SERS-Active Substrate for Sensitive and Repeatable Detectability",
+      "期刊名稱": "Nanomaterials (SCIE)",
+      "作者群": "Tung-Hao Chang, Yun-Ting Liu, Yu-Cheng Chang*, An-Ya Lo"
+    },
+    {
+      "論文名稱": "Optimization Temperature Programming of Microwave-Assisted Synthesis ZnO Nanoneedle Arrays for Optical and Surface-Enhanced Raman Scattering Applications",
+      "期刊名稱": "Nanomaterials (SCIE)",
+      "作者群": "Tung-Hao Chang, Yu-Cheng Chang*, Chung-I Lee, Ying-Ru Lin, Fu-Hsiang Ko*"
+    },
+    {
+      "論文名稱": "Cu2O/CuS/ZnS Nanocomposite Boosts Blue LED-Light-Driven Photocatalytic Hydrogen Evolution",
+      "期刊名稱": "Catalysts (SCIE)",
+      "作者群": "Yu-Cheng Chang*, Yung-Chang Chiao, Ya-Xiu Fun"
+    },
+    {
+      "論文名稱": "Screen-Printable Silver Paste Material for Semitransparent and Flexible Metal–Semiconductor–Metal Photodetectors with Liquid-Phase Procedure",
+      "期刊名稱": "Nanomaterials (SCIE)",
+      "作者群": "Shang Yu Tsai, Ching-Chang Lin , Cheng-Tang Yu, Yen-Shuo Chen, Wei-Lin Wu, Yu-Cheng Chang, Chun Chi Chen and Fu-Hsiang Ko*"
+    },
+    {
+      "論文名稱": "Optimizing and improving the growth of Ag nanoparticles decorated on the silicon pyramid for surface-enhanced Raman spectroscopy",
+      "期刊名稱": "Materials Chemistry and Physics (SCIE)",
+      "作者群": "Tung-Hao Chang, Kai-Wei Chuang,Yu-Cheng Chang*, Chia-Man Chou*"
+    },
+    {
+      "論文名稱": "Ag/Ga-doped ZnO/pyramidal silicon as a multifunctional surface-enhanced Raman scattering substrate",
+      "期刊名稱": "Journal of Alloys and Compounds (SCIE)",
+      "作者群": "Tung-Hao Chang, Kai-Wei Chuang, Yu-Cheng Chang*"
+    },
+    {
+      "論文名稱": "Hydrothermal Synthesis of Co3O4/ZnCo2O4 Core-Shell Nanostructures for High-Performance Supercapacitors",
+      "期刊名稱": "Journal of The Electrochemical Society (SCIE)",
+      "作者群": "E.-S. Lin, F.-S. Chao, C.-J. Liang, C.-J. Chang, A. Fang, C.-K. Lin*, Y.-C. Chang, C.-Y. Tsay, J. J. Wu, C.-Y. Chen*"
+    },
+    {
+      "論文名稱": "Fabrication of ZnO-In2S3 composite nanofiber as highly efficient hydrogen evolution photocatalyst",
+      "期刊名稱": "Materials Letters (SCIE)",
+      "作者群": "Yu-Cheng Chang*, Shih-Yue Syu, Zi-Ying Wu"
+    },
+    {
+      "論文名稱": "Constructing Er-Doped ZnO/CuS/Au Core-Shell Nanowires with Enhanced Photocatalytic and SERS Properties",
+      "期刊名稱": "Catalysts (SCIE)",
+      "作者群": "Chia-Man Chou, Tan-Tzu Chang, Chin-Yi Chen, Yu-Cheng Chang*"
+    },
+    {
+      "論文名稱": "Construction of MoS2/ZnO heterostructures as highly efficient photocatalysts for enhanced visible-light decomposition of methylene blue and hydrogen evolution",
+      "期刊名稱": "Materials Chemistry and Physics (SCIE)",
+      "作者群": "Yu-Cheng Chang*, Yu-Wen Lin, Ming-Yen Lu"
+    },
+    {
+      "論文名稱": "A novel electronic assay based on a sol-gel transition reaction and a thin-film transistor of supramolecular hydrogels to detect alkaline phosphatase activity",
+      "期刊名稱": "Sensors and Actuators B: Chemical (SCIE)",
+      "作者群": "Yu-Ting Tai, Wei-Ning Chang, Dehui Wan, Yu-Cheng Chang, Fu-Hsiang Ko*"
+    },
+    {
+      "論文名稱": "Construction of ZnIn2S4/ZnO heterostructures with enhanced photocatalytic decomposition and hydrogen evolution under blue LED irradiation",
+      "期刊名稱": "International Journal of Hydrogen Energy (SCIE)",
+      "作者群": "Yu-Cheng Chang*, Chi-Lu Tasi, Fu-Hsiang Ko"
+    },
+    {
+      "論文名稱": "Enhanced Performance for Photocatalytic Hydrogen Evolution Using MoS2/graphene Hybrids",
+      "期刊名稱": "International Journal of Hydrogen Energy (SCIE)",
+      "作者群": "G.J. Lee, Y.H. Hou, C.Y. Chen, C.Y. Tsay, Y.C. Chang, J.H. Chen, T.L. Horng, S. Anandan, and J.J. Wu*"
+    },
+    {
+      "論文名稱": "A facile self-deposition of Ag nanosheets on silicon substrates for high-performance SERS sensing",
+      "期刊名稱": "Optical Materials (SCIE)",
+      "作者群": "Yu-Cheng Chang*, Chien-Ming Chen, Chia-Man Chou"
+    },
+    {
+      "論文名稱": "Ag nanoparticles decorated ZnO: Al nanoneedles as a high-performance surface-enhanced Raman scattering substrate",
+      "期刊名稱": "Journal of Alloys and Compounds (SCIE)",
+      "作者群": "Tung-Hao Chang, Yu-Cheng Chang*, Shuo-Hsiu Wu"
+    },
+    {
+      "論文名稱": "MoS2@SnO2 core-shell sub-microspheres for high efficient visible-light photodegradation and photocatalytic hydrogen production",
+      "期刊名稱": "Materials Research Bulletin (SCIE)",
+      "作者群": "Yu-Cheng Chang*, Yu-Wen Lin"
+    },
+    {
+      "論文名稱": "Synergetic effect of carbon black as co-catalyst for enhanced visible-light photocatalytic activity and stability on ZnO nanoparticles",
+      "期刊名稱": "Solid State Sciences (SCIE)",
+      "作者群": "Yu-Cheng Chang*, Chao-Chun Hsu"
+    },
+    {
+      "論文名稱": "H2Ti3O7 nanowires as a high-performance photocatalytic and surface-enhanced Raman scattering substrate",
+      "期刊名稱": "Journal of Photochemistry and Photobiology A: Chemistry (SCIE)",
+      "作者群": "Yu-Cheng Chang*, Jai-Cing Lin, Chia-Man Chou"
+    },
+    {
+      "論文名稱": "Preparation and photocatalytic properties of heterostructured ceria/polyaniline nanoparticles",
+      "期刊名稱": "Catalysts (SCIE)",
+      "作者群": "Y.-S. Li, A. Fang, G.-J. Lee, J. J. Wu, Y.-C. Chang, C.-Y. Tsay, J.-H. Chen, T.-L. Horng, C.-Y. Chen*"
+    },
+    {
+      "論文名稱": "Bi-functional Al-doped ZnO@SnO2 heteronanowires as efficient substrates for improving photocatalytic and SERS performance",
+      "期刊名稱": "Journal of Industrial and Engineering Chemistry (SCIE)",
+      "作者群": "Yu-Cheng Chang*, Shuo-Hsiu Wu"
+    },
+    {
+      "論文名稱": "Double-sided plasmonic silver nanoparticles decorated copper oxide/zinc oxide heterostructured nanomaces with improving photocatalytic performance",
+      "期刊名稱": "Journal of Photochemistry and Photobiology A: Chemistry (SCIE)",
+      "作者群": "Yu-Cheng Chang*, Jin-YouGuo"
+    },
+    {
+      "論文名稱": "A facile method to directly deposit the large-scale Ag nanoparticles on a silicon substrate for sensitive, uniform, reproducible and stable SERS substrate",
+      "期刊名稱": "Journal of Alloys and Compounds (SCIE)",
+      "作者群": "Tung-Hao Chang, Yu-Cheng Chang*, Chien-Ming Chen, Kai-Wei Chuang, Chia-Man Chou"
+    },
+    {
+      "論文名稱": "Optimizing pyramidal silicon substrates through the electroless deposition of Ag nanoparticles for high-performance surface-enhanced Raman scattering",
+      "期刊名稱": "Thin Solid Films (SCIE)",
+      "作者群": "Tung-Hao Chang, Yu-Cheng Chang*, Chien-Ming Chen, Kai-Wei Chuang"
+    },
+    {
+      "論文名稱": "High Response CO Sensor Based on a Polyaniline/SnO2 Nanocomposite",
+      "期刊名稱": "Polymers (SCIE)",
+      "作者群": "K.-S. Jian, C.-J. Chang, J. J. Wu, Y.-C. Chang, C.-Y. Tsay, J.-H. Chen, T.-L. Horng, G.-J. Lee, L. Karuppasamy, S. Anandan, C.-Y. Chen*"
+    },
+    {
+      "論文名稱": "Fabrication of Cu-doped ZnO nanoneedles on different substrate via wet chemical approach: Structural characterization and photocatalytic performance",
+      "期刊名稱": "Applied Surface Science (SCIE)",
+      "作者群": "Yu-Cheng Chang,* Chao-Chun Hsu, Shuo-Hsiu Wu, Kai-Wei Chuang, Yu-Fan Chen"
+    },
+    {
+      "論文名稱": "One-step growth of Na2Ti3O7 nanorods for enhanced photocatalytic activities and recyclability",
+      "期刊名稱": "Journal of Alloys and Compounds (SCIE)",
+      "作者群": "Yu-Cheng Chang,* Jai-Cing Lin, Shuo-Hsiu Wu"
+    },
+    {
+      "論文名稱": "Fabrication of novel ZnO nanoporous films for efficient photocatalytic applications",
+      "期刊名稱": "Journal of Photochemistry and Photobiology A: Chemistry (SCIE)",
+      "作者群": "Yu-Cheng Chang,* Chien-Ming Chen, Jin-You Guo"
+    },
+    {
+      "論文名稱": "Complex SnO2 nanoparticles and nanosheets with enhanced visible-light photocatalytic activity",
+      "期刊名稱": "Materials Research Bulletin (SCIE)",
+      "作者群": "Yu-Cheng Chang,* Jai-Cing Lin, Ssu-Ying Chen, Ling-Ya Hung, Ying-Ru Lin, Chin-Yi Chen"
+    },
+    {
+      "論文名稱": "Double-sided plasmonic Au nanoparticles on Cu-doped ZnO/ZnO heterostructures with enhanced photocatalytic activity",
+      "期刊名稱": "Materials Letters (SCIE)",
+      "作者群": "Yu-Cheng Chang,* Jin-You Guo, Chien-Ming Chen"
+    },
+    {
+      "論文名稱": "Growth of Cu-doped ZnO nanowires or ZnO-CuO nanowires on the same brass foil with high performance photocatalytic activity and stability",
+      "期刊名稱": "Materials Chemistry and Physics (SCIE)",
+      "作者群": "Chia-Man Chou, Yu-Cheng Chang,* Pei-Shih Lin, Fu-Ken Liu"
+    },
+    {
+      "論文名稱": "Cu-doped ZnO nanowires as highly efficient continuous-flow photocatalysts for dynamic degradation of organic pollutants",
+      "期刊名稱": "Journal of Photochemistry and Photobiology A: Chemistry (SCIE)",
+      "作者群": "Chia-Man Chou, Yu-Cheng Chang,* Pei-Shih Lin, Fu-Ken Liu"
+    },
+    {
+      "論文名稱": "Construction of CuO/In2S3/ZnO heterostructure arrays for enhanced photocatalytic efficiency",
+      "期刊名稱": "Nanoscale (SCIE)",
+      "作者群": "Yu-Cheng Chang,* Jin-You Guo, Chien-Ming Chen, Hsin-Wei Di, Chao-Chun Hsu"
+    },
+    {
+      "論文名稱": "Modulating the morphology of ZnO nanotower arrays by replenishing of the reaction precursors and their photodegradation properties",
+      "期刊名稱": "Materials Letters (SCIE)",
+      "作者群": "Yu-Cheng Chang*"
+    },
+    {
+      "論文名稱": "One-step and single source synthesis of Cu-doped ZnO nanowires on flexible brass foil for highly efficient field emission and photocatalytic applications",
+      "期刊名稱": "Journal of Alloys and Compounds (SCIE)",
+      "作者群": "Yu-Cheng Chang,* Pei-Shih Lin, Fu-Ken Liu, Jin-You Guo, Chien-Ming Chen"
+    },
+    {
+      "論文名稱": "Template-free, surfactantless route to synthesize cadmium hydroxide nanodisks and nanowires",
+      "期刊名稱": "Materials Research Bulletin (SCIE)",
+      "作者群": "Yu-Cheng Chang,* Chao-Chun Hsu, Jai-Cing Lin, Shuo-Hsiu Wu"
+    },
+    {
+      "論文名稱": "ZnO/Pt core-shell nanorods on the cotton threads with high enhanced photocatalytic properties",
+      "期刊名稱": "Materials Chemistry and Physics (SCIE)",
+      "作者群": "Yu-Cheng Chang,* Jin-You Guo"
+    },
+    {
+      "論文名稱": "ZnO nanowires coated stainless steel meshes as hierarchical photocatalysts for catalytic photodegradation of four kinds of organic pollutants",
+      "期刊名稱": "Journal of Alloys and Compounds (SCIE)",
+      "作者群": "Fu-Hsiang Ko, Wei-Ju Lo, Yu-Cheng Chang,* Jin-You Guo, Chien-Ming Chen"
+    },
+    {
+      "論文名稱": "Complex ZnO/ZnS nanocable and nanotube arrays with high performance photocatalytic activity",
+      "期刊名稱": "Journal of Alloys and Compounds (SCIE)",
+      "作者群": "Yu-Cheng Chang*"
+    },
+    {
+      "論文名稱": "Low temperature and large-scale growth of ZnO nanoneedle arrays with enhanced optical and surface-enhanced Raman scattering properties",
+      "期刊名稱": "Sensors and Actuators B: Chemical (SCIE)",
+      "作者群": "Yu-Cheng Chang*"
+    },
+    {
+      "論文名稱": "Cadmium hydroxide and oxide nanoporous walls with high performance photocatalytic properties",
+      "期刊名稱": "Journal of Alloys and Compounds (SCIE)",
+      "作者群": "Yu-Cheng Chang*"
+    },
+    {
+      "論文名稱": "Au-Ag core-shell nanoparticles with controllable shell thicknesses for the detection of adenosine by surface enhanced Raman scattering",
+      "期刊名稱": "Sensors and Actuators B: Chemical (SCIE)",
+      "作者群": "Fu-Hsiang Ko, Ming–Rou Tai, Fu-Ken Liu, Yu-Cheng Chang*"
+    },
+    {
+      "論文名稱": "Ni-doped ZnO nanotower arrays with enhanced optical and field emission properties",
+      "期刊名稱": "RSC Advances (SCIE)",
+      "作者群": "Yu-Cheng Chang*"
+    },
+    {
+      "論文名稱": "Temperature-dependence cathodoluminescence of ultra-sharp ZnO nanopagoda arrays",
+      "期刊名稱": "Journal of Alloys and Compounds (SCIE)",
+      "作者群": "Yu-Cheng Chang*"
+    },
+    {
+      "論文名稱": "Low temperature growth of ZnO nanowire arrays with enhanced high performance photocatalytic activity and reusability",
+      "期刊名稱": "Catalysis Communications (SCIE)",
+      "作者群": "Yu-Cheng Chang*"
+    },
+    {
+      "論文名稱": "Controlling growth of single-crystalline indium hydroxide nanocuboids with enhanced sharp cathodoluminescence peak",
+      "期刊名稱": "Journal of Alloys and Compounds (SCIE)",
+      "作者群": "Yu-Cheng Chang*"
+    },
+    {
+      "論文名稱": "Control of active semiconducting layer packing in organic thin film transistors through synthetic tailoring of dielectric materials",
+      "期刊名稱": "RSC Advances (SCIE)",
+      "作者群": "Ranjodh Singh, Jagan Singh Meena, Yu-Cheng Chang, Chung-Shu Wu and Fu-Hsiang Ko*"
+    },
+    {
+      "論文名稱": "Aptamer based surface enhanced Raman scattering detection of adenosine using various core sizes of Au–Ag core–shell nanoparticles",
+      "期刊名稱": "RSC Advances (SCIE)",
+      "作者群": "Fu-Hsiang Ko and Yu-Cheng Chang*"
+    },
+    {
+      "論文名稱": "ZnO nanopinecone arrays with enhanced photocatalytic performance in sunlight",
+      "期刊名稱": "RSC Advances (SCIE)",
+      "作者群": "Yu-Cheng Chang*"
+    },
+    {
+      "論文名稱": "Effect of oxygen plasma on the surface states of ZnO films used to produce thin-film transistors on soft plastic sheets",
+      "期刊名稱": "Journal of Materials Chemistry C (SCIE)",
+      "作者群": "Jagan Singh Meena, Min-Ching Chu, Yu-Cheng Chang, Hsin-Chiang You, Ranjodh Singh, Po-Tsun Liu, Han-Ping D. Shieh, Feng-Chih Chang and Fu-Hsiang Ko*"
+    },
+    {
+      "論文名稱": "Electroless Plating Growth Au-Ag Core-Shell Nanoparticles for Surface Enhanced Raman Scattering",
+      "期刊名稱": "Int. J. Electrochem. Sci. (SCIE)",
+      "作者群": "T. H. Chang, Y. C. Chang,* F. H. Ko, F. K. Liu,*"
+    },
+    {
+      "論文名稱": "Three-Dimensional Heterostructured ZnSe Nanoparticles/Si Wire Arrays with Enhanced Photodetection and Photocatalytic Performances",
+      "期刊名稱": "J. Mater. Chem. C (SCIE)",
+      "作者群": "Y. H. Chen, W. S. Li, C. Y. Liu, C. Y. Wang, Y. C. Chang, L. J. Chen,*"
+    },
+    {
+      "論文名稱": "Controlled Growth Density and Patterning of Silica Nanorings and Nanowires with Enhanced Ultraviolet Cathodoluminescence Peak",
+      "期刊名稱": "Int. J. Electrochem. Sci. (SCIE)",
+      "作者群": "T. H. Chang, Y. C. Lai, Y. C. Chang,*, Fu-Hsiang Ko, Fu-Ken Liu,*"
+    },
+    {
+      "論文名稱": "Novel Chemical Route to Prepare a New Polymer Blend Gate Dielectric for Flexible Low-Voltage Organic Thin-Film Transistor",
+      "期刊名稱": "ACS Appl. Mater. Interfaces (SCIE)",
+      "作者群": "J. S. Meena, M. C. Chu, Y. C. Chang, C. S. Wu, C. C. Cheng, F. C. Chang, and F. H. Ko*"
+    },
+    {
+      "論文名稱": "Facile Synthetic Route to Implement a Fully Bendable Oragnic Metal-Insulator-Semiconductor Device on Polyimide Sheet",
+      "期刊名稱": "Org. Electron. (SCIE)",
+      "作者群": "J. S. Meena, M. C. Chu, C. S. Wu, J. C. Liang, Y. C. Chang, S. Ravipati, F. C. Chang, F. H. Ko*"
+    },
+    {
+      "論文名稱": "Using Size-Exclusion Chromatography to Evaluate Changes in the Sizes of Au and Au/Pd Core/Shell Nanoparticles Under Thermal Treatment",
+      "期刊名稱": "Chromatographia (SCIE)",
+      "作者群": "F. K. Liu*, Y. C. Chang"
+    },
+    {
+      "論文名稱": "Using Thiol-Capped Au Nanoparticles in the Background Solution of Micellar Electrokinetic Chromatography to Concentrate and Separate Neutral Steroids",
+      "期刊名稱": "Chromatographia (SCIE)",
+      "作者群": "F. K. Liu*, Y. C. Chang"
+    },
+    {
+      "論文名稱": "Near UV LEDs Made with in Situ Doped p-n Homojunction ZnO Nanowire Arrays",
+      "期刊名稱": "Nano Lett. (SCIE)",
+      "作者群": "M. T. Chen, M. P. Lu, Y. J. Wu, J. Song, C. Y. Lee, M. Y. Lu, Y. C. Chang, L. J. Chou, Z. L. Wang, L. J. Chen*"
+    },
+    {
+      "論文名稱": "Controlling Growth Density and Patterning of Single Crystalline Silicon Nanowires",
+      "期刊名稱": "Appl. Surf. Sci. (SCIE)",
+      "作者群": "T. H. Chang, Y. C. Chang＊, F. K. Liu, T. C. Chu"
+    },
+    {
+      "論文名稱": "Using Reversed Phase Liquid Chromatography to Monitor the Sizes of Au/Pt Core/Shell Nanoparticles",
+      "期刊名稱": "J. Chromatogr. A (SCIE)",
+      "作者群": "F. K. Liu*, Y. C. Chang"
+    },
+    {
+      "論文名稱": "Synthesis and Properties of the Low Resistivity TiSi2 Nanowires Grown with TiF4 Precursor",
+      "期刊名稱": "J. Phys. Chem. C (SCIE)",
+      "作者群": "C. M. Chang, Y. C. Chang, Y. A. Chung, C. Y. Lee, L. J. Chen*"
+    },
+    {
+      "論文名稱": "Two-Dimensional Inverse Opal ZnO Nanorod Networks with Photonic Band Gap",
+      "期刊名稱": "J. Phys. Chem. C (SCIE)",
+      "作者群": "Y. C. Chang, H. W. Wu, H. L. Chen, W. Y. Wang and L. J. Chen*"
+    },
+    {
+      "論文名稱": "Controlled Growth of ZnO Nanopagoda Arrays with Varied Lamination and Apex",
+      "期刊名稱": "Crystal Growth & Design (SCIE)",
+      "作者群": "Y. C. Chang, W. C. Yang, C. M. Chang, P. C. Hsu and L. J. Chen*"
+    },
+    {
+      "論文名稱": "Ti5Si4 Nanobats with Excellent Field Emission Properties",
+      "期刊名稱": "J. Phys. Chem. C (SCIE)",
+      "作者群": "C. M. Chang, Y. C. Chang, C. Y. Lee, P. H. Yeh, W. F. Lee, L. J. Chen*"
+    },
+    {
+      "論文名稱": "Synthesis and Photocatalytic Activity of Small Diameter ZnO Nanorods",
+      "期刊名稱": "J. Electrochem. Soc. (SCIE)",
+      "作者群": "Y. A. Chung, Y. C. Chang, M. Y. Lu, C. Y. Wang and L. J. Chen*"
+    },
+    {
+      "論文名稱": "Aligned Er-Doped ZnO Nanorod Arrays with Enhanced 1.54 μm Infrared Emission",
+      "期刊名稱": "J. Nanosci. Nanotechnol. (SCIE)",
+      "作者群": "W. C. Yang, C. W. Wang, J. C. Wang, Y. C. Chang, H. C. Hsu, J. H. He, L. J. Chen*, T. E. Nee"
+    },
+    {
+      "論文名稱": "Rapidly Characterizing the Growth of Au Nanoparticles by CE",
+      "期刊名稱": "Chromatographia (SCIE)",
+      "作者群": "T. H. Chang, F. K. Liu*, Y. C. Chang and T. C. Chu"
+    },
+    {
+      "論文名稱": "Facile Synthesis of Large Scale Er-doped ZnO Flower-like Structures with Enhanced 1.54 μm Infrared Emission",
+      "期刊名稱": "Phys. Stat. Sol. (a) (SCIE)",
+      "作者群": "W. C. Yang, C. W. Wang, J. H. He, Y. C. Chang, J. C. Wang, L. J. Chen*, H. Y. Chen and S. Gwo"
+    },
+    {
+      "論文名稱": "Supramolecular Nanotubes with High Thermal Stability: a Rigidity Enhanced Structure Ttransformation Induced by Electron-beam Irradiation and Heat",
+      "期刊名稱": "J. Mater. Chem. (SCIE)",
+      "作者群": "K. W. Huang, J. H. Wang, H. C. Chen, H. C. Hsu, Y. C. Chang, M. Y. Lu, C. Y. Lee and L. J. Chen*"
+    },
+    {
+      "論文名稱": "ZnO Nanoneedles with Enhanced and Sharp Ultraviolet Cathodoluminescence Peak",
+      "期刊名稱": " J. Phys. Chem. C (SCIE)",
+      "作者群": "Y. C. Chang and L. J. Chen*"
+    },
+    {
+      "論文名稱": "ZnO Nanostructures and Device Applications",
+      "期刊名稱": " ECS transactions (EI)",
+      "作者群": "L. J. Chen*, Y. C. Chang, J. H. He"
+    },
+    {
+      "論文名稱": "Synthesis of Au Nanotubes with SiOx Nanowires as Sacrificial Templates",
+      "期刊名稱": "J. Vac. Sci. Technol. A (SCIE)",
+      "作者群": "M. Y. Lu, Y. C. Chang and L. J. Chen*"
+    },
+    {
+      "論文名稱": "Combining Optical Lithography with Rapid Microwave Heating for the Selective Growth of Au/Ag Bimetallic Core/Shell Structures on Patterned Silicon Wafers",
+      "期刊名稱": " Langmuir (SCIE)",
+      "作者群": "F. K. Liu*, P. W. Huang, Y. C. Chang, F. H. Ko, T. C. Chu"
+    },
+    {
+      "論文名稱": "Formation of Silver Nanorods by Microwave Heating in the Presence of Gold Seeds",
+      "期刊名稱": "J. Cryst. Growth (SCIE)",
+      "作者群": "F. K. Liu,* P. W. Huang, Y. C. Chang, C. J. Ko, F. H. Ko, T. C. Chu"
+    },
+    {
+      "論文名稱": "Probing the Microwave Degradation Mechanism of Phenol-containing Polymeric Compounds by Sample Pretreatment and GC–MS Analysis",
+      "期刊名稱": "Anal. Chim. Acta (SCIE)",
+      "作者群": "Y. C. Chang, C. J. Ko, F. H. Ko,* T. C. Chu"
+    },
+    {
+      "論文名稱": "Preparation of Silver Nanorods by Rapid Microwave Heating",
+      "期刊名稱": "Chem. Lett. (SCIE)",
+      "作者群": "F. K. Liu,* Y. C. Chang, P. W. Huang, F. H. Ko, T. C. Chu"
+    },
+    {
+      "論文名稱": "Microwave-assisted Synthesis of Silver Nanorods",
+      "期刊名稱": "J. Mater. Res. (SCIE)",
+      "作者群": "F. K. Liu,* P. W. Huang, Y. C. Chang, F. H. Ko, T. C. Chu"
+    },
+    {
+      "論文名稱": "Microwave Rapid Heating for the Synthesis of Gold Nanorods",
+      "期刊名稱": "Mater. Lett. (SCIE)",
+      "作者群": "F. K. Liu,* Y. C. Chang, F. H. Ko, T. C. Chu"
+    },
+    {
+      "論文名稱": "Microwave Heating for the Preparation of Nanometer Gold Particles",
+      "期刊名稱": "Jpn. J. Appl. Phys (SCIE)",
+      "作者群": "F. K. Liu,* C. J. Ker, Y. C. Chang, F. H. Ko, T. C. Chu, B. T. Dai"
+    },
+    {
+      "論文名稱": "Rapid Fabrication of High Quality Self-assembled Nanometer Gold Particles by Spin Coating Method",
+      "期刊名稱": "Microelectronic Engineering (SCIE)",
+      "作者群": "F. K. Liu,* Y. C. Chang, F. H. Ko, T. C. Chu, B. T. Dai"
+    }
+  ],
+  "journal2": [],
+  "conference": [
+    {
+      "論文名稱": "CONSTRUCTION OF IN2S3-IN(OH)3-ZNS NANOFIBERS FOR BOOSTING PHOTOCATALYTIC HYDROGEN EVOLUTION",
+      "會議名稱": "Polymer Engineering & Science International (PESI) Conference 2024",
+      "作者群": "Yu-Cheng Chang *, Shih-Yue Syu"
+    },
+    {
+      "論文名稱": "靜電紡絲製備鋅摻雜二氧化鈦奈米纖維於光催化之應用",
+      "會議名稱": "2024第六屆台灣紡織研究論文發表會",
+      "作者群": "陳姲儒*, 張育誠"
+    },
+    {
+      "論文名稱": "Fabrication of Zinc Cobalt Oxide Microspheres on Carbon Cloth for Photocatalytic Degradation of Tetracycline",
+      "會議名稱": "8th International Symposium on Advanced Ceramics and Technology for Sustainable Engineering Applications Conference",
+      "作者群": "Sin-Ei Juang *, Ning-Chien Chin, Yu-Cheng Chang"
+    },
+    {
+      "論文名稱": "Controllable medium layer of ZnS or CdS nanostructures as cocatalyst onto CuO-ZnO heterojunction for enhancing photocatalytic activity",
+      "會議名稱": "8th International Symposium on Advanced Ceramics and Technology for Sustainable Engineering Applications Conference",
+      "作者群": "Ning-Chien Chin *, Sin-Ei Juang, Jin-You Guo, Yu-Cheng Chang"
+    },
+    {
+      "論文名稱": "Ni(OH)2 composite coffee residue-derived biomass carbon for supercapacitors electrode materials",
+      "會議名稱": "8th International Symposium on Advanced Ceramics and Technology for Sustainable Engineering Applications Conference",
+      "作者群": "Shao-Ru Chang*, Pei-Lin Fu, Yu-Cheng Chang"
+    },
+    {
+      "論文名稱": "Low operating temperature and high response CO gas sensor based on a CuO-deposited SnO2 film",
+      "會議名稱": "8th International Symposium on Advanced Ceramics and Technology for Sustainable Engineering Applications (ACTSEA 2024)",
+      "作者群": "C.-Y. Hung, Y.-C. Chang, C.-Y. Tsay, C.-J. Chang, A. Fang, J. J. Wu, C.-K. Lin, C.-Y. Chen*"
+    },
+    {
+      "論文名稱": "Exploring Electrospinning Preparation of Polyvinyl Alcohol Nanofiber with Sodium Alginate for Drug Release of 5-Fluorouracil",
+      "會議名稱": "2023MRSTIC國際研討會暨中國材料科學學會112年會",
+      "作者群": "Sin-Ei Juang*, Chen-Yu Wu, and Yu-Cheng Chang"
+    },
+    {
+      "論文名稱": "Na2Ti3O7@RF@Ag heterostructures as efficient substrates for SERS and photocatalytic applications",
+      "會議名稱": "2023MRSTIC國際研討會暨中國材料科學學會112年會",
+      "作者群": "Ning-Chien Chin*, I-Chun Lin, and Yu-Cheng Chang"
+    },
+    {
+      "論文名稱": "Cu-doped ZnO/FTO/Ag nano-heterostructure arrays as the sensitive, stable, and multifunctional surface-enhanced Raman scattering substrate",
+      "會議名稱": "TACT 2023 International Thin Films Conference",
+      "作者群": "Ying-Ru Lin*, Yu-Cheng Chang, Yu-Fan Chen"
+    },
+    {
+      "論文名稱": "Construction of Ag/Ag2S/CdS heterostructures through a facile two-step wet chemical processes for efficient photocatalytic hydrogen production",
+      "會議名稱": "The 31st International Conference on Photochemistry",
+      "作者群": "Yu-Cheng Chang*, Ying-Ru Lin"
+    },
+    {
+      "論文名稱": "摻雜鎵之氧化鋅@氧化銦錫@銀奈米結構於高效能表面增強拉曼散射之應用",
+      "會議名稱": "2023年功能性材料研討會暨國科會專題研究計畫成果發表會",
+      "作者群": "黃婉婷*, 張育誠"
+    },
+    {
+      "論文名稱": "製備In(OH)3-In2S3-Cu2O奈米纖維於藍光LED激發下的高效率光催化產氫",
+      "會議名稱": "2023年第五屆台灣紡織研究論文發表會",
+      "作者群": "張劭汝*, 張育誠"
+    },
+    {
+      "論文名稱": "靜電紡絲製備聚乙烯醇添加海藻酸鈉及5-氟尿嘧啶於體外藥物釋放之研究",
+      "會議名稱": "2023年第五屆台灣紡織研究論文發表會",
+      "作者群": "吳振宇* ,張育誠"
+    },
+    {
+      "論文名稱": "高熵合金氧化物 (Fe-Co-Ni-Cu-Zn-O) 於光催化產氫之應用",
+      "會議名稱": "2023年台灣陶瓷學會年會暨國科會專題研究計畫成果發表會",
+      "作者群": "喬永彰*, 張育誠"
+    },
+    {
+      "論文名稱": "氧化亞銅/硫化銅/硫化鋅奈米複合物在藍色LED光驅動下的光催化產氫",
+      "會議名稱": "2023年台灣陶瓷學會年會暨國科會專題研究計畫成果發表會",
+      "作者群": "范雅琇*, 張育誠"
+    },
+    {
+      "論文名稱": "利用廢棄咖啡渣製備衍生生質碳並應用於超級電容器",
+      "會議名稱": "111年中國材料科學學會年會",
+      "作者群": "傅姵霖*, 張育誠"
+    },
+    {
+      "論文名稱": "微波輔助水熱法合成硫化銦鋅奈米粉末於光催化產氫之應用",
+      "會議名稱": "111年中國材料科學學會年會",
+      "作者群": "喬永彰*, 張育誠"
+    },
+    {
+      "論文名稱": "微波輔助合成 In2S3/In2O3 奈米片作為高效光催化劑用於可見光海水產氫",
+      "會議名稱": "111年中國材料科學學會年會",
+      "作者群": "林映汝*, 張育誠, 柯富祥"
+    },
+    {
+      "論文名稱": "In-Situ Solvothermal Deposition of a NiCo-LDH@ZnFe-LDH Nanostructure on Carbon Cloth as a Supercapacitor Electrode",
+      "會議名稱": "The 7th International Conference on the Characterization and Control of Interfaces for High Quality Advanced Materials (ICCCI 2022) and the 57th Summer Symposium on Powder Technology",
+      "作者群": "S.-H. Huang, C.-Y. Tsay, Y.-C. Chang, C.-J. Chang, C.-Y. Chen"
+    },
+    {
+      "論文名稱": "One-pot microwave-assisted synthesis of In2S3/In2O3 nanocomposites as highly active visible light photocatalyst for seawater splitting",
+      "會議名稱": "HYPOTHESIS XVII 2022",
+      "作者群": "Ying-Ru Lin, Yu-Cheng Chang *, Fu-Hsiang Ko"
+    },
+    {
+      "論文名稱": "鉺摻雜氧化鋅/硫化銅/金奈米異質陣列於光催化和表面增強拉曼散射之應用",
+      "會議名稱": "2022功能性材料研討會暨科技部專題研究計畫成果發表會",
+      "作者群": "賴品儒*、范雅琇、柯怡綺、張詩㚬、張育誠"
+    },
+    {
+      "論文名稱": "硫化銦鋅/銅奈米異質結構於光催化分解水產氫之應用",
+      "會議名稱": "2022功能性材料研討會暨科技部專題研究計畫成果發表會",
+      "作者群": "石長青*、邱台意、  陳姲儒、張育誠"
+    },
+    {
+      "論文名稱": "在鋁箔上成長氧化鋅奈米片於光催化降解有機汙染物之應用",
+      "會議名稱": "2022功能性材料研討會暨科技部專題研究計畫成果發表會",
+      "作者群": "陳聖文*、陳珮綸、 劉佩宜、張育誠"
+    },
+    {
+      "論文名稱": "二氧化鈦/硫化鎳/鉑奈米複合纖維於光催化之應用",
+      "會議名稱": "2022年第四屆台灣紡織研究論文發表會",
+      "作者群": "吳振宇,* 范雅琇, 張育誠"
+    },
+    {
+      "論文名稱": "製備ZnO-In2S3複合奈米纖維作為高效析氫光催化劑",
+      "會議名稱": "2022年第四屆台灣紡織研究論文發表會",
+      "作者群": "傅姵霖,* 張育誠, 邱台意"
+    },
+    {
+      "論文名稱": "微波輔助合成碳點/硫化鎘/硫化鋅奈米粉體於光催化產氫之應用",
+      "會議名稱": "2022年台灣陶瓷學會年會暨科技部專題研究計畫成果發表會",
+      "作者群": "林翊群*、張育誠"
+    },
+    {
+      "論文名稱": "碳奈米點/銦摻雜硫化鋅奈米複合材料於光催化分解水產生氫氣之應用",
+      "會議名稱": "2022年台灣陶瓷學會年會暨科技部專題研究計畫成果發表會",
+      "作者群": "陳子傑*、張育誠"
+    },
+    {
+      "論文名稱": "矽金字塔/銀奈米異質結構於表面增強拉曼散射之應用",
+      "會議名稱": "110年度防蝕工程年會暨論文發表會",
+      "作者群": "陳子傑*, 張育誠"
+    },
+    {
+      "論文名稱": "建構氧化鋅/石墨相氮化碳/二氧化鈦奈米異質結構陣列於光催化降解汙染物之應用",
+      "會議名稱": "110年度防蝕工程年會暨論文發表會",
+      "作者群": "石長青*, 張育誠"
+    },
+    {
+      "論文名稱": "Au@CdS nanocomposites as a highly active visible-light Photocatalyst for tap water splitting",
+      "會議名稱": "2021 Materials Research Society-Taiwan International Conference (2021 MRSTIC)",
+      "作者群": "Yu-Cheng Chang*, Ying-Ru Lin, Chih-Ling Chang, Pin-Chieh Pan"
+    },
+    {
+      "論文名稱": "鋁摻雜之氧化鋅/二氧化錫奈米異質結構於表面增強拉曼光譜與光催化之應用",
+      "會議名稱": "2021年功能性材料研討會暨科技部專題研究計畫成果發表會",
+      "作者群": "石長青*, 張育誠"
+    },
+    {
+      "論文名稱": "二硫化鉬/氧化鋅奈米異質結構於光催化分解有機物及分解水產生氫氣之應用",
+      "會議名稱": "2021年功能性材料研討會暨科技部專題研究計畫成果發表會",
+      "作者群": "林翊群*, 張育誠"
+    },
+    {
+      "論文名稱": "利用金屬有機骨架在製備氧化鋅氧化銅異質結構於超級電容之應用",
+      "會議名稱": "2021台灣陶瓷學會年會暨科技部專題研究計畫成果發表會",
+      "作者群": "林哲玄*, 張育誠"
+    },
+    {
+      "論文名稱": "二氧化鈦-金奈米異質結構於光催化分解水產生氫氣之應用",
+      "會議名稱": "2021台灣陶瓷學會年會暨科技部專題研究計畫成果發表會",
+      "作者群": "鐘志嘉*, 張育誠"
+    },
+    {
+      "論文名稱": "鎵摻雜之氧化鋅奈米異質結構陣列於表面增強拉曼散射的應用",
+      "會議名稱": "2021台灣陶瓷學會年會暨科技部專題研究計畫成果發表會",
+      "作者群": "劉芸廷*, 張育誠"
+    },
+    {
+      "論文名稱": "Construction of ZnIn2S4/ZnO heterostructures with enhanced photocatalytic decomposition and hydrogen evolution under blue LED irradiation",
+      "會議名稱": "The 2020 International Conference on Green Electrochemical Technologies (2020 ICGET-Tw) and the 2020 Annual Meeting of Electrochemical Society of Taiwan",
+      "作者群": "Che-Hsuan Lin*, Yu-Cheng Chang"
+    },
+    {
+      "論文名稱": "鋁摻雜之氧化鋅/銀奈米異質結構作為高性能表面增強拉曼散射之基材",
+      "會議名稱": "TVS2020台灣真空學會年度會員大會暨論文發表會",
+      "作者群": "劉芸廷*, 張育誠"
+    },
+    {
+      "論文名稱": "鈦酸氫奈米線作為高效能光催化與表面增強拉曼散射之基材",
+      "會議名稱": "TVS2020台灣真空學會年度會員大會暨論文發表會",
+      "作者群": "林翊群*, 張育誠"
+    },
+    {
+      "論文名稱": "氧化鋅與碳黑奈米複合材料於光催化降解有機汙染物之研究",
+      "會議名稱": "109年中國材料科學學會年會",
+      "作者群": "林哲玄,* 張育誠"
+    },
+    {
+      "論文名稱": "二硫化鉬/二氧化錫奈米異質結構於可見光光催化之應用",
+      "會議名稱": "109年中國材料科學學會年會",
+      "作者群": "尹瑞賢*, 張育誠"
+    },
+    {
+      "論文名稱": "Pyramidal silicon substrate decorated Ag nanoparticles for high-performance surface-enhanced Raman scattering",
+      "會議名稱": "108年中國材料科學學會年會",
+      "作者群": "Meng-Chien Wu*,  Yu-Cheng Chang"
+    },
+    {
+      "論文名稱": "Bi-functional Al-doped ZnO@SnO2 heteronanowires as efficient substrates for improving photocatalytic performance",
+      "會議名稱": "108年中國材料科學學會年會",
+      "作者群": "Shih-Yue Syu*, Yu-Cheng Chang"
+    },
+    {
+      "論文名稱": "MoS2/ZnO nanocomposites with enhanced visible-light-driven photocatalytic degradation and hydrogen production",
+      "會議名稱": "OKINAWA COLLOIDS 2019",
+      "作者群": "Yu-Cheng Chang*, Yu-Wen Lin"
+    },
+    {
+      "論文名稱": "氧化銅/銀/氧化鋅/銀之奈米異質結構於光催化降解有機汙染物的應用",
+      "會議名稱": "TVS2019台灣真空學會年度會員大會暨論文發表會",
+      "作者群": "鍾孟君*, 曾成峻, 張育誠"
+    },
+    {
+      "論文名稱": "氧化銅與銅奈米異質結構於表面增強拉曼散射之應用",
+      "會議名稱": "TVS2019台灣真空學會年度會員大會暨論文發表會",
+      "作者群": "林映汝,* 張育誠"
+    },
+    {
+      "論文名稱": "Fabrication of Cu-doped ZnO nanoneedles on different substrate via wet chemical approach: Structural characterization and photocatalytic\nperformance",
+      "會議名稱": "2019第三屆台灣碳材料學術研討會",
+      "作者群": "Shih-Yue Syu *, Yu-Cheng Chang"
+    },
+    {
+      "論文名稱": "Ag⁄Ga-Doped ZnO⁄Pyramidal Silicon as A Multifunctional Surface-Enhanced Raman Scattering Substrate",
+      "會議名稱": "10 th International Conference on Materials for Advanced Technologies",
+      "作者群": "Yu-Cheng Chang*, Kai-Wei Chuang"
+    },
+    {
+      "論文名稱": "Photocatalytic Properties of Ceria/Polyaniline Heterostructured Powder",
+      "會議名稱": "XVI ECerS Conference",
+      "作者群": "C.-Y. Chen*, Y.-S. Li, G.-J. Lee, J. J. Wu, Y.-C. Chang, C.-Y. Tsay, J.-H. Chen, T.-L. Horng"
+    },
+    {
+      "論文名稱": "Fabrication of CuO/In2S3/ZnO heterostructure arrays for improving photocatalytic activity",
+      "會議名稱": "2019年功能性材料研討會暨科技部專題研究計畫成果發表會",
+      "作者群": "Shih-Yue Syu*, Yu-Cheng Chang"
+    },
+    {
+      "論文名稱": "Fabrication of the Ag nanoparticles on a silicon substrate for sensitive, uniform, reproducible and stable SERS substrate",
+      "會議名稱": "2019年功能性材料研討會暨科技部專題研究計畫成果發表會",
+      "作者群": "Meng-Chien Wu*, Yu-Cheng Chang"
+    },
+    {
+      "論文名稱": "製備新型氧化鋅奈米多孔薄膜於光催化之應用",
+      "會議名稱": "107年中國材料科學學會年會暨五十週年慶",
+      "作者群": "吳胤呈*, 張育誠"
+    },
+    {
+      "論文名稱": "銀與二硫化鉬奈米異質結構於光催化分解有機汙染物之應用",
+      "會議名稱": "107年中國材料科學學會年會暨五十週年慶",
+      "作者群": "林映汝*, 江孟如, 曾于庭, 劉奕成, 曾成峻, 張育誠"
+    },
+    {
+      "論文名稱": "複合二氧化錫奈米粒子和奈米片於可見光光催化降解有機汙染物",
+      "會議名稱": "107年中國材料科學學會年會暨五十週年慶",
+      "作者群": "蔡奇陸*,  張育誠"
+    },
+    {
+      "論文名稱": "氧化銅/碳/銀奈米異質結構表面增強拉曼光譜之應用",
+      "會議名稱": "107年中國材料科學學會年會暨五十週年慶",
+      "作者群": "許仕岳,*  邸心緯,  張育誠"
+    },
+    {
+      "論文名稱": "在可撓式碳布上製備銅摻雜之氧化鋅奈米針於光催化降解有機汙染物之應用",
+      "會議名稱": "107年中國材料科學學會年會暨五十週年慶",
+      "作者群": "陳昱帆,*  莊凱崴,  張育誠"
+    },
+    {
+      "論文名稱": "二硫化鉬/氧化鋅奈米複合材料於光催化降解有機汙染物之應用",
+      "會議名稱": "107年中國材料科學學會年會暨五十週年慶",
+      "作者群": "曾成峻,* 林郁汶, 張育誠"
+    },
+    {
+      "論文名稱": "利用簡易水熱法製備鈦酸鈉奈米棒於光催化降解與重複使用性之應用",
+      "會議名稱": "107年中國材料科學學會年會暨五十週年慶",
+      "作者群": "蔡侑廷,*  張育誠"
+    },
+    {
+      "論文名稱": "二氧化鈦與銀奈米異質陣列於表面增強拉曼光譜之應用",
+      "會議名稱": "107年中國材料科學學會年會暨五十週年慶",
+      "作者群": "謝木善,* 曾嘉颉, 方省文, 許仕岳, 張育誠"
+    },
+    {
+      "論文名稱": "鋁摻雜之氧化鋅奈米針包覆銀奈米粒子於表面增強拉曼散射的應用",
+      "會議名稱": "TVS2018台灣真空學會年度會員大會暨論文發表會",
+      "作者群": "陳昱帆*, 張育誠"
+    },
+    {
+      "論文名稱": "銅摻雜之氧化鋅奈米線於動態光催化降解有機汙染物的應用",
+      "會議名稱": "TVS2018台灣真空學會年度會員大會暨論文發表會",
+      "作者群": "曾成峻* , 張育誠"
+    },
+    {
+      "論文名稱": "銀奈米粒子修飾氧化銅與氧化鋅奈米異質結構陣列於光催化之應用",
+      "會議名稱": "TVS2018台灣真空學會年度會員大會暨論文發表會",
+      "作者群": "蔡侑廷*, 張育誠"
+    },
+    {
+      "論文名稱": "Al-doped ZnO/SnO2 Heterostructured Arrays with High Performance Photocatalytic and SERS Properties",
+      "會議名稱": "2018 European Materials Research Society-Spring Meeting",
+      "作者群": "Kai-Wei Chuang, Yu-Cheng Chang, Shuo-Hsiu Wu, Jai-Cing Lin"
+    },
+    {
+      "論文名稱": "Fabrication of novel ZnO nanoporous films with enhanced high performance photocatalytic activity and reusability",
+      "會議名稱": "2018年功能性材料研討會暨科技部專題研究計畫成果發表會",
+      "作者群": "Yin-Cheng Wu*, Yu-Cheng Chang"
+    },
+    {
+      "論文名稱": "A facile fabrication of Cu-doped ZnO nanoneedles on the flexible carbon cloth with highly efficient photocatalytic activity and stability",
+      "會議名稱": "2018年功能性材料研討會暨科技部專題研究計畫成果發表會",
+      "作者群": "Yu-Fan Chen*, Yu-Cheng Chang, Kai-Wei Chuang"
+    },
+    {
+      "論文名稱": "One-step growth of Na2Ti3O7 nanorods on the Ti foil with enhanced visible-light photocatalytic activity",
+      "會議名稱": "2018年功能性材料研討會暨科技部專題研究計畫成果發表會",
+      "作者群": "Yu-Ting Tsai*, Yu-Cheng Chang"
+    },
+    {
+      "論文名稱": "Complex SnO2 nanoparticles and nanosheets with high visible-light driven photocatalytic activity",
+      "會議名稱": "2018年功能性材料研討會暨科技部專題研究計畫成果發表會",
+      "作者群": "Chi-Lu Tasi*, Yu-Cheng Chang"
+    },
+    {
+      "論文名稱": "Complex ZnO and graphene nanocomposites with high performance photocatalysts under UV and visible light irradiation",
+      "會議名稱": "2018 ISAF-FMA-AMF-AMEC-PFM Joint Conference",
+      "作者群": "Yu-Cheng Chang*, Chao-Chun Hsu, and Yi-Chang Liu"
+    },
+    {
+      "論文名稱": "二硫化鉬/氧化鋅奈米異質結構於光催化之應用",
+      "會議名稱": "2018台灣陶瓷學會年會暨科技部專題研究計畫成果發表會",
+      "作者群": "林郁汶*, 張育誠"
+    },
+    {
+      "論文名稱": "氧化銅異質結構於表面增強拉曼光譜之應用",
+      "會議名稱": "2018台灣陶瓷學會年會暨科技部專題研究計畫成果發表會",
+      "作者群": "邸心緯*, 張育誠"
+    },
+    {
+      "論文名稱": "Double-sided plasmonic silver nanoparticles decorated copper oxide/zinc oxide heterostructured nanomace arrays with high enhanced photocatalytic degradation performance",
+      "會議名稱": "2017 IUMRS International Conference in Asia",
+      "作者群": "Yu-Ting Tsai*, Yu-Cheng Chang, Jin-You Guo, Chien-Ming Chen"
+    },
+    {
+      "論文名稱": "Self-deposition of Ag nanoparticles on the silicon substrates for surface-enhanced Raman scattering",
+      "會議名稱": "2017 IUMRS International Conference in Asia",
+      "作者群": "Kai-Wei Chuang*, Yu-Cheng Chang, Chien-Ming Chen"
+    },
+    {
+      "論文名稱": "銅摻雜之氧化鋅/金/氧化鋅/金奈米異質結構於光催化特性之應用",
+      "會議名稱": "TVS2017台灣真空學會年度會員大會暨論文發表會",
+      "作者群": "邸心緯*、郭晉佑、陳建銘、張育誠"
+    },
+    {
+      "論文名稱": "鎵摻雜之氧化鋅奈米針陣列於表面增強拉曼散射之應用",
+      "會議名稱": "TVS2017台灣真空學會年度會員大會暨論文發表會",
+      "作者群": "曾建堯*、張育誠"
+    },
+    {
+      "論文名稱": "矽金字塔結構沉積銀奈米粒子於表面增強拉曼光譜之應用",
+      "會議名稱": "106年度防蝕工程年會暨論文發表會",
+      "作者群": "莊凱崴, 徐喬珍, 陳思穎, 張育誠"
+    },
+    {
+      "論文名稱": "氧化銅奈米線包覆銀奈米粒子於表面增強拉曼光譜之應用",
+      "會議名稱": "106年度防蝕工程年會暨論文發表會",
+      "作者群": "邸心緯, 陳思穎, 徐喬珍, 張育誠"
+    },
+    {
+      "論文名稱": "Fabrication of ZnO nanowires on the stainless steel mesh substrates for high performance photocatalytic applications",
+      "會議名稱": "2017年功能性材料研討會暨科技部專題研究計畫成果發表會",
+      "作者群": "Jia-Cing Lin,* Yu-Cheng Chang"
+    },
+    {
+      "論文名稱": "Fabrication of novel ZnO nanoporous films for enhancing photocatalytic activity",
+      "會議名稱": "2017年功能性材料研討會暨科技部專題研究計畫成果發表會",
+      "作者群": "Chao-Chun Hsu,* Yu-Cheng Chang"
+    },
+    {
+      "論文名稱": "鋁摻雜之氧化鋅奈米針於表面增強拉曼光譜應用",
+      "會議名稱": "2017年功能性材料研討會暨科技部專題研究計畫成果發表會",
+      "作者群": "吳碩脩,* 張育誠"
+    },
+    {
+      "論文名稱": "製備氧化銅/硫化銦/氧化鋅異質結構陣列於提高光催化之應用",
+      "會議名稱": " 2017年陶瓷學會年會暨科技部專題研究計畫成果發表會",
+      "作者群": "莊凱崴, * 張育誠, 郭晉佑, 陳建銘"
+    },
+    {
+      "論文名稱": "鈦酸鈉/銀異質陣列於光催化與表面增強拉曼散射之應用",
+      "會議名稱": "105年中國材料科學學會年會",
+      "作者群": "林佳慶,* 張育誠, 吳碩脩, 許兆鈞"
+    },
+    {
+      "論文名稱": "鋁摻雜之氧化鋅奈米針陣列於表面增強拉曼散射光譜之應用",
+      "會議名稱": "105年中國材料科學學會年會",
+      "作者群": "吳碩脩,* 張育誠, 許兆鈞, 林佳慶"
+    },
+    {
+      "論文名稱": "探討在不同基材上成長銅摻雜氧化鋅奈米線於光催化之應用",
+      "會議名稱": "105年中國材料科學學會年會",
+      "作者群": "許兆鈞,* 張育誠, 吳碩脩, 林佳慶"
+    },
+    {
+      "論文名稱": "One-step and single source synthesis of Cu-doped ZnO nanowires on flexible brass foil for high performance photocatalytic applications",
+      "會議名稱": "The 5th Asian Conference on Civil, Material and Environmental Sciences",
+      "作者群": "Yu-Cheng Chang,* Pei-Shih Lin, Fu-Ken Liu"
+    },
+    {
+      "論文名稱": "銀奈米片狀結構於表面增強拉曼光譜之應用",
+      "會議名稱": "2016年功能性材料研討會暨科技部專題研究計畫成果發表會",
+      "作者群": "陳建銘,* 張育誠"
+    },
+    {
+      "論文名稱": "鈦酸鈉奈米棒於光催化與表面增強拉曼散射之應用",
+      "會議名稱": "2016年功能性材料研討會暨科技部專題研究計畫成果發表會",
+      "作者群": "林佳慶,* 張育誠"
+    },
+    {
+      "論文名稱": "三維氧化銅/氧化鋅/銀之奈米結構於光催化之應用",
+      "會議名稱": "2016年陶瓷學會年會暨科技部專題研究計畫成果發表會",
+      "作者群": "郭晉佑,* 張育誠"
+    },
+    {
+      "論文名稱": "FABRICATION OF NOVEL ZNO/PT NANOPOROUS FILMS FOR EFFICIENT PHOTOCATALYTIC APPLICATIONS",
+      "會議名稱": "2015  INTERNATIONAL SYMPOSIUM ON NANO SCIENCE AND TECHNOLOGY",
+      "作者群": "Chien-Ming Chen, Jin-You Guo, and Yu-Cheng Chang*"
+    },
+    {
+      "論文名稱": "3D BRANCHED CUO/ZNO NANOWIRES ON THE COPPER MESH SUBSTRATES WITH HIGH ENHANCED PHOTOCATALYTIC DEGRADATION PERFORMANCE",
+      "會議名稱": "2015  INTERNATIONAL SYMPOSIUM ON NANO SCIENCE AND TECHNOLOGY",
+      "作者群": "Jin-You Guo, Chien-Ming Chen, and Yu-Cheng Chang*"
+    },
+    {
+      "論文名稱": "Novel One-Step Fabrication of Cu-Doped ZnO Nanowires for Photocatalytic Applications",
+      "會議名稱": "第21屆分析技術交流研討會",
+      "作者群": "林珮詩,* 劉福鯤, 張育誠"
+    },
+    {
+      "論文名稱": "Growth of Cu-Doped ZnO Nanowires on Brass Foils for Photocatalytic Applications",
+      "會議名稱": "2014中國化學年會",
+      "作者群": "林珮詩,* 劉福鯤, 張育誠"
+    },
+    {
+      "論文名稱": "Bio-friendly Synthesis of Complex ZnO Nanostructures",
+      "會議名稱": "Asian Conference on Civil, Material and Environmental Sciences",
+      "作者群": "Yu-Cheng Chang*"
+    },
+    {
+      "論文名稱": "Photocurrent and Photocatalytic Performances of ZnSe/SiNWs Heterostructure Arrays",
+      "會議名稱": "Materials Research Society (MRS) Fall Meeting & Exhibit",
+      "作者群": "Y. H. Chen*, C. Y. Liu, C. Y. Wang, Y. C. Chang, L. J. Chen,"
+    },
+    {
+      "論文名稱": "Design of Nanostructured ZnO Surface for Antireflection Coatings",
+      "會議名稱": "218th Meeting of the Electrochemical Society",
+      "作者群": "Z. C. Lin, C. A. Lin , Y. C. Chao , Y. C. Chang, L. J. Chen, R. J. Chung, J. H. He*"
+    },
+    {
+      "論文名稱": "Controlled Growth of ZnO Nanopagoda Arrays with Varied Lamination and Apex",
+      "會議名稱": "2009 European Materials Research Society (E-MRS) Spring Meeting",
+      "作者群": "Y. C. Chang,* W. C. Yang, C. M. Chang, P. C. Hsu, L. J. Chen"
+    },
+    {
+      "論文名稱": "Synthesis and the Properties of the Ti5Si4 Nanobats",
+      "會議名稱": "214th Meeting of The Electrochemical Society (ECS)",
+      "作者群": "C. M. Chang*, P. H. Yeh, C. Y. Lee, Y. C. Chang, W. F. Lee, L. J. Chen"
+    }
+  ],
+  "book": [
+    {
+      "專業書籍": "結合光學微影與微波快速加熱法製備選區成長金/銀核層奈米材料",
+      "出版單位": "奈米通訊",
+      "作者群": "劉福鯤*, 黃珮雯, 張育誠, 吳世全, 柯富祥, 朱鐵吉"
+    },
+    {
+      "專業書籍": "利用旋轉塗怖的方式快速且均勻的製備自組裝金奈米粒子",
+      "出版單位": "真空科技",
+      "作者群": "張育誠*, 劉福鯤, 范瑞雲, 朱鐵吉"
+    },
+    {
+      "專業書籍": "利用旋轉塗怖的方式快速且均勻的製備自組裝金奈米粒子",
+      "出版單位": "知識創新",
+      "作者群": "劉福鯤*,張育誠"
+    },
+    {
+      "專業書籍": "研究微波快速加熱製備金奈米棒",
+      "出版單位": "奈米通訊",
+      "作者群": "張育誠*, 劉福鯤, 黃珮雯, 范瑞雲, 朱鐵吉, 柯富祥"
+    }
+  ],
+  "patent": [],
+  "most": [
+    {
+      "name": "逢甲大學基礎研究核心設施共同使用服務計畫(5/5)",
+      "schoolYear": "113"
+    },
+    {
+      "name": "新穎大氣壓電漿技術於奈米結構的缺陷工程及催化應用之研究(1/3)",
+      "schoolYear": "113"
+    },
+    {
+      "name": "碳奈米點-半導體奈米異質結構於光催化分解溪水產生氫氣之應用(2/3)",
+      "schoolYear": "113"
+    },
+    {
+      "name": "(博士增核)新穎大氣壓電漿技術於奈米結構的缺陷工程及催化應用之研究(1/3)",
+      "schoolYear": "113"
+    },
+    {
+      "name": "一步驟法製備硫化鋅/硫化銦複合材料於高效能光催化分解水產生氫氣",
+      "schoolYear": "113"
+    },
+    {
+      "name": "(博士增核)碳奈米點-半導體奈米異質結構於光催化分解溪水產生氫氣之應用(1/3)",
+      "schoolYear": "112"
+    },
+    {
+      "name": "碳奈米點-半導體奈米異質結構於光催化分解溪水產生氫氣之應用(1/3)",
+      "schoolYear": "112"
+    },
+    {
+      "name": "二氧化錫奈米異質結構於光催化分解水產氫之應用",
+      "schoolYear": "112"
+    },
+    {
+      "name": "逢甲大學基礎研究核心設施共同使用服務計畫(3/5)",
+      "schoolYear": "111"
+    },
+    {
+      "name": "微波輔助合成硫化銦奈米異質結構於光催化產氫之應用(3/3)",
+      "schoolYear": "111"
+    },
+    {
+      "name": "製備奈米複合纖維於5-氟尿嘧啶之藥物釋放",
+      "schoolYear": "111"
+    },
+    {
+      "name": "微波輔助合成硫化銦奈米異質結構於光催化產氫之應用(2/3)",
+      "schoolYear": "110"
+    },
+    {
+      "name": "氧化鎢異質結構作為多功能性表面增強拉曼散射基材於抗生素檢測之應用",
+      "schoolYear": "110"
+    },
+    {
+      "name": "微波輔助合成硫化銦奈米異質結構於光催化產氫之應用(1/3)",
+      "schoolYear": "109"
+    },
+    {
+      "name": "二氧化錳奈米複合結構於超級電容器之應用",
+      "schoolYear": "109"
+    },
+    {
+      "name": "仿植物表面結構於光能儲存及轉換之應用(2/4)",
+      "schoolYear": "108"
+    },
+    {
+      "name": "新穎金屬表面電漿子結合異質接面與半導體奈米結構於表面增強拉曼散射之應用(3/3)",
+      "schoolYear": "108"
+    },
+    {
+      "name": "硫化銦/氧化鋅奈米複合材料於光催化產氫之應用",
+      "schoolYear": "108"
+    },
+    {
+      "name": "仿植物表面結構於光能儲存及轉換之應用(1/4)",
+      "schoolYear": "107"
+    },
+    {
+      "name": "新穎金屬表面電漿子結合異質接面與半導體奈米結構於表面增強拉曼散射之應用(2/3)",
+      "schoolYear": "107"
+    },
+    {
+      "name": "銀與二硫化鉬奈米異質結構於光催化之應用",
+      "schoolYear": "107"
+    },
+    {
+      "name": "氧化鋅異質結構陣列於光催化製氫之研究(3/3)",
+      "schoolYear": "106"
+    },
+    {
+      "name": "新穎金屬表面電漿子結合異質接面與半導體奈米結構於表面增強拉曼散射之應用(1/3)",
+      "schoolYear": "106"
+    },
+    {
+      "name": "氧化鋅與石墨烯奈米複合材料於光催化之應用",
+      "schoolYear": "106"
+    },
+    {
+      "name": "氧化鋅異質結構陣列於光催化製氫之研究(2/3)",
+      "schoolYear": "105"
+    },
+    {
+      "name": "氧化鋅異質結構陣列於光催化製氫之研究(1/3)",
+      "schoolYear": "104"
+    },
+    {
+      "name": "氧化鋅奈米結構的成長機制與其特性之研究",
+      "schoolYear": "102"
+    }
+  ],
+  "tech": [],
+  "induAca": [
+    "材料委託試驗(112/9/6-113/07/09) (2024-08 to 2025-07)",
+    "材料委託試驗(112/5/2/8-112/8/29) (2023-02 to 2023-08)",
+    "材料系委託試驗(111年08月01日起至112年01月31日) (2022-08 to 2023-01)",
+    "材料系委託試驗(202202016-20220725) (2022-02 to 2022-07)",
+    "材料系委託試驗(1090806-1100120) (2021-08 to 2022-01)",
+    "材料委託試驗(2020/12/30-2021/07/27) (2021-01 to 2021-07)",
+    "材料系委託試驗(1090831-1091225) (2020-08 to 2020-12)",
+    "材料委託試驗(2019/05/04-2020/07/30) (2020-05 to 2020-07)",
+    "材料委託試驗(2019/02/20-2020/05/01) (2020-02 to 2020-05)",
+    "材料委託試驗(2019/09/27至2020/02/09) (2019-09 to 2020-02)",
+    "材料委託試驗(2019/04/20至2019/07/03) (2019-04 to 2019-07)",
+    "鋰離子電池負極材料諮詢顧問專案計畫 (2019-03 to 2019-12)",
+    "材料委託試驗(2019/01/09至2019/04/19) (2019-01 to 2019-04)",
+    "材料委託試驗(107/11/22-108/01/08) (2018-11 to 2019-01)",
+    "鋰離子電池負極材料之鍍膜開發 (2018-10 to 2018-12)",
+    "材料委託試驗(107.5.16-7/31) (2018-08 to 2018-07)",
+    "材料委託試驗(107/8/1-107/11/23) (2018-08 to 2018-11)",
+    "材料委託試驗(107年3月24日起至107年5月15日) (2018-03 to 2018-05)",
+    "材料委託試驗(107/1/1-107/3/31) (2018-01 to 2018-03)",
+    "材料委託試驗(106/10/21~106/12/31) (2017-10 to 2017-12)",
+    "材料系委託試驗(106/8/8-106/10/20) (2017-08 to 2017-10)",
+    "材料委託試驗(106/5/23-7/31) (2017-05 to 2017-07)",
+    "材料委託試驗(106.2.23-106.5.22) (2017-02 to 2017-05)",
+    "材料委託試驗(105/12/17-106/2/22) (2016-12 to 2017-02)",
+    "材料委託試驗(105.11.01-105.12.16) (2016-11 to 2016-12)",
+    "材料委託試驗(105.9.7-105/10.31) (2016-09 to 2016-10)",
+    "材料委託試驗(105/6/9-105/9/6) (2016-06 to 2016-09)",
+    "材料委託試驗(105/5/12-105/6/8) (2016-05 to 2016-06)",
+    "材料委託試驗(105.4.1-5.11) (2016-04 to 2016-05)",
+    "材料委託試驗(105.1.1-105.3.31) (2016-01 to 2016-03)",
+    "材料委託試驗(104.12.22-105.03.31) (2015-12 to 2016-03)",
+    "材料委託試驗(104.10.13-104.12.21) (2015-10 to 2015-12)",
+    "材料委託試驗(104.07.21-104.10.12) (2015-07 to 2015-10)",
+    "材料委託試驗(104.06.9-104.7.20) (2015-06 to 2015-07)",
+    "材料委託試驗(104.4.14-104.6.8) (2015-04 to 2015-06)",
+    "材料委託試驗(104.1.14-104.4.13) (2015-01 to 2015-04)"
+  ],
+  "perform": [],
+  "reward": [
+    "逢甲大學論文著作獎勵 (113, 2024-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (113, 2024-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (113, 2024-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (113, 2024-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (113, 2024-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (113, 2024-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (113, 2024-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (113, 2024-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (113, 2024-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (113, 2024-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (113, 2024-11) - 逢甲大學",
+    "113學年度教學績優獎 (113, 2024-11) - 逢甲大學",
+    "2023 Materials Research Society-Taiwan International Conference-Excellent Poster Award (112, 2023-11) - 中國材料科學學會",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "2023第五屆台灣紡織研究論文發表會-第三名 (111, 2023-05) - 實踐大學 臺北校區",
+    "逢甲大學論文著作獎勵傑出獎 (111, 2022-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (111, 2022-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (111, 2022-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (111, 2022-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (111, 2022-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (111, 2022-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (111, 2022-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (111, 2022-11) - 逢甲大學",
+    "111年度國科會補助大專校院研究獎勵 (111, 2022-10) - 研究發展處",
+    "2022第四屆台灣紡織研究論文發表會-壁報佳作 (110, 2022-05) - 財團法人紡織產業綜合研究所",
+    "2022第四屆台灣紡織研究論文發表會-壁報優勝 (110, 2022-05) - 財團法人紡織產業綜合研究所",
+    "2022第四屆台灣紡織研究論文發表會-口頭報告佳作 (110, 2022-05) - 財團法人紡織產業綜合研究所",
+    "110年度防蝕工程年會暨論文發表會-佳作 (110, 2021-11) - 中華民國防蝕工程學會",
+    "逢甲大學論文著作獎勵傑出獎 (110, 2021-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (110, 2021-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (110, 2021-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (110, 2021-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (110, 2021-11) - 逢甲大學",
+    "110年度科技部補助大專校院研究獎勵 (110, 2021-10) - 產學合作處",
+    "逢甲大學論文著作獎勵傑出獎 (109, 2020-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (109, 2020-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (109, 2020-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (109, 2020-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (109, 2020-11) - 逢甲大學",
+    "109年度科技部補助大專校院研究獎勵 (109, 2020-10) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (108, 2019-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (108, 2019-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (108, 2019-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (108, 2019-11) - 逢甲大學",
+    "台灣真空學會2019年度會員大會暨論文發表會-佳作 (108, 2019-11) - 台灣真空學會",
+    "108學年度科技部補助大專校院研究獎勵 (108, 2019-09) - 逢甲大學",
+    "2019年功能性材料研討會暨科技部專題研究計畫成果發表會-佳作 (107, 2019-06) - 南臺科技大學化工與材料系",
+    "中國材料科學學會107年年會暨50週年慶-海報論文競賽-優等獎 (107, 2018-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (107, 2018-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (107, 2018-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (107, 2018-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (107, 2018-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (107, 2018-11) - 逢甲大學",
+    "107年度科技部補助大專校院研究獎勵 (107, 2018-08) - 逢甲大學",
+    "2018年功能性材料研討會暨科技部專題研究計畫成果發表會-佳作 (106, 2018-06) - 南臺科技大學化工與材料系",
+    "2018年功能性材料研討會暨科技部專題研究計畫成果發表會-佳作 (106, 2018-06) - 南臺科技大學化工與材料系",
+    "逢甲大學論文著作獎勵傑出獎 (106, 2017-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (106, 2017-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (106, 2017-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (106, 2017-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (106, 2017-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (106, 2017-11) - 逢甲大學",
+    "第三十七屆台灣顯微鏡學會學術研討會顯微攝影比賽-優選1 (105, 2017-06) - 台灣顯微鏡學會",
+    "2017年功能性材料研討會暨科技部專題研究計畫成果發表會-佳作 (105, 2017-06) - 南臺科技大學化工與材料系",
+    "2017年功能性材料研討會暨科技部專題研究計畫成果發表會-佳作 (105, 2017-06) - 南臺科技大學化工與材料系",
+    "2017年功能性材料研討會暨科技部專題研究計畫成果發表會-佳作 (105, 2017-06) - 南臺科技大學化工與材料系",
+    "逢甲大學論文著作獎勵傑出獎 (105, 2016-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (105, 2016-11) - 逢甲大學",
+    "2016年功能性材料研討會暨科技部專題研究計畫成果發表會-佳作 (104, 2016-06) - 南臺科技大學化工與材料系",
+    "2016年功能性材料研討會暨科技部專題研究計畫成果發表會-佳作 (104, 2016-06) - 南臺科技大學化工與材料系",
+    "逢甲大學論文著作獎勵傑出獎 (104, 2015-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (104, 2015-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (104, 2015-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (104, 2015-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (104, 2015-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (104, 2015-11) - 逢甲大學",
+    "2015年台灣奈米影像暨奈米新詩創作競賽-穿透式電子顯微鏡影像組 銀牌獎，作品名稱：奈米火星塞 (103, 2015-07) - 科技部奈米國家型創新科技研發成果轉化計畫"
+  ],
+  "speech": [
+    {
+      "演講題目": "奈米異質結構於光催化分解水產生氫氣之應用",
+      "邀請單位": "中興大學 材料科學與工程學系",
+      "演講日期": "2022-04"
+    },
+    {
+      "演講題目": "奈米異質結構於光催化的應用",
+      "邀請單位": "高雄大學 應用化學系",
+      "演講日期": "2021-10"
+    },
+    {
+      "演講題目": "氧化鋅奈米異質結構於光催化的應用",
+      "邀請單位": "中興大學 材料科學與工程學系",
+      "演講日期": "2019-12"
+    },
+    {
+      "演講題目": "奈米結構的製備與藥物感測之應用",
+      "邀請單位": "吉林大學材料科學與工程學院暑期實習團",
+      "演講日期": "2019-07"
+    },
+    {
+      "演講題目": "奈米結構的製備與藥物感測之應用",
+      "邀請單位": "吉林大學材料科學與工程學院暑期實習團",
+      "演講日期": "2018-08"
+    },
+    {
+      "演講題目": "簡易操控奈米結構的方法",
+      "邀請單位": "清華大學 材料科學與工程學系",
+      "演講日期": "2017-12"
+    },
+    {
+      "演講題目": "太陽能電池的發展現況",
+      "邀請單位": "PanSci 泛科學",
+      "演講日期": "2014-10"
+    }
+  ],
+  "material": [],
+  "tal": []
+}

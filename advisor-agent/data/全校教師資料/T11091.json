@@ -1,0 +1,82 @@
+{
+  "teacherId": "T11091",
+  "name": "廖揚立",
+  "mainUnit": "商學院",
+  "detailUnit": "統計學系",
+  "skill": [
+    "製程監控/集群分析/統計學習Process Monitoring/Clustering/Statistical Learning"
+  ],
+  "edu": [
+    "美國阿拉巴馬大學 應用統計系 博士",
+    "美國阿拉巴馬大學 應用統計系 碩士",
+    "逢甲大學 統計系 學士"
+  ],
+  "fcuExp": [
+    "統計學系 兼任助理教授",
+    "統計學系 助理教授"
+  ],
+  "currjob": [],
+  "otherExp": [
+    "美國阿拉巴馬大學 應用統計系 講師",
+    "美國阿拉巴馬大學 應用統計系 教學助理",
+    "美國阿拉巴馬大學 應用統計系 研究助理"
+  ],
+  "journal": [],
+  "journal2": [],
+  "conference": [],
+  "book": [],
+  "patent": [],
+  "most": [
+    {
+      "name": "改良的耦合型累積和方法在監控自相關過程之研究(2/2)",
+      "schoolYear": "112"
+    },
+    {
+      "name": "改良的耦合型累積和方法在監控自相關過程之研究(1/2)",
+      "schoolYear": "111"
+    }
+  ],
+  "tech": [],
+  "induAca": [],
+  "perform": [],
+  "reward": [],
+  "speech": [
+    {
+      "演講題目": "A Semi-parametric CUSUM Scheme Using Copula Formulation for Higher-order Autocorrelated Processes",
+      "邀請單位": "18th International Joint Conference on Computational and Fin",
+      "演講日期": "2024-12"
+    },
+    {
+      "演講題目": "A Semi-parametric CUSUM Scheme Using Copula Formulation for Higher-order Autocorrelated Processes",
+      "邀請單位": "2024 Joint Statistical Meetings, Portland OR",
+      "演講日期": "2024-08"
+    },
+    {
+      "演講題目": "A Semi-parametric CUSUM Scheme Using Copula Formulation for Higher-order Autocorrelated Processes",
+      "邀請單位": "The 33rd South Taiwan Statistics Conference, Kaoshiung",
+      "演講日期": "2024-06"
+    },
+    {
+      "演講題目": "A Semi-parametric CUSUM Scheme Using Copula Formulation for Higher-order Autocorrelated Processes",
+      "邀請單位": "Department of Statistics, Feng Chia University",
+      "演講日期": "2024-04"
+    },
+    {
+      "演講題目": "A Semi-parametric CUSUM Scheme Using Copula Formulation for Higher-order Autocorrelated Processes",
+      "邀請單位": "Institute of Statistics, National University of Kaoshiung",
+      "演講日期": "2024-03"
+    },
+    {
+      "演講題目": "Methods for Benford Processes",
+      "邀請單位": "Institute of Statistics, National Tsing Hua University",
+      "演講日期": "2023-11"
+    },
+    {
+      "演講題目": "Methods for Benford Processes",
+      "邀請單位": "Department of Statistics, Tunghai University",
+      "演講日期": "2023-05"
+    }
+  ],
+  "material": [],
+  "tal": []
+}

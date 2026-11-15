@@ -1,0 +1,769 @@
+{
+  "success": true,
+  "info": {
+    "yms_year": 114.0,
+    "yms_smester": 1.0,
+    "sub_id": "02270",
+    "cls_id": "CE08122",
+    "scr_dup": "001",
+    "sub_id3": "ENGS2011",
+    "cls_name": "化工二乙",
+    "cls_ename": "Department of Chemical Engineering",
+    "sub_name": "工程數學(一)",
+    "sub_ename": "ENGINEERING MATHEMATICS(1)",
+    "scr_mso": "必修",
+    "scr_mso_en": "Required",
+    "scr_credit": 3.0,
+    "scr_periodly": "(一)03-04 (二)06",
+    "scr_periodly_eng": "(Mon)03-04 (Tue)06",
+    "lang_name": "中文                                                      ",
+    "lang_ename": "Chinese",
+    "scr_room": "學319,學519",
+    "scr_room_eng": "XSB319,XSB519",
+    "scr_teacher": "曾琮瑋",
+    "scr_teacher_eng": "Tsung-Wei Zeng",
+    "scr_selcode": "1474",
+    "scr_elearning": "全學期",
+    "scr_elearning_en": "Full semester",
+    "scr_hours": "3",
+    "scr_english": "N",
+    "unt_name": null,
+    "unt_ename": null,
+    "link_traminal": null,
+    "link_traminal_en": null,
+    "scr_ldl": "D",
+    "course_mk": "N",
+    "teams_mk": "N",
+    "sub_title": null,
+    "sub_title_en": null,
+    "sub_describe": null,
+    "sub_describe_en": null,
+    "hasDescription": null,
+    "hasInstructor": null,
+    "hasTA": null,
+    "hasTextBooks": null,
+    "hasReadings": null,
+    "hasiSoftwares": null,
+    "hasAssistSoftwares": null,
+    "hasObjective": null,
+    "hasWeeklyScds": null,
+    "hasGradeRules": null,
+    "hasGradeRuleDescribe": null,
+    "hasIntegrity": null,
+    "hasCoursePol": null,
+    "hasCourseRem": null,
+    "hasObjectiveReleation": null,
+    "hasTopicSdgs": null,
+    "hasSubTitleDesc": null
+  },
+  "subTitleDesc": null,
+  "description": {
+    "sub_id3": null,
+    "sub_name": "工程數學(一)",
+    "sub_ename": "ENGINEERING MATHEMATICS(1)",
+    "describe_ch": "本課程旨在教導學生解決工程或應用科學中實際問題所需之相關微分方程式。課程內容涵蓋單元有一階常微分方程式、二階線性常微分方程式、齊次與非齊次微分方程式、偏微分方程式、微分方程組之觀念與求解。",
+    "describe_eh": "This course introduces students to those areas of mathematics which are most important in connection with practical problems. Five topics are included in the course：(1)First-order ordinary differential equations; (2)Linear ordinary differential equations of second order; (3)Homogeneous and nonhomogeneous differential equations; (4)Basic concept of partial differential equations; (5) Systems of differential equations.",
+    "pre_subname": "MATH1001微積分(一)、MATH1002微積分(二)、MATH1001P微積分(一)實習、MATH1002P微積分(二)實習",
+    "pre_sub_id3": "MATH1001",
+    "pre_sub_ename": "MATH1001 CALCULUS(1)、MATH1002 CALCULUS(2)、MATH1001P RECITATION OF CALCULUS (1)、MATH1002P RECITATION OF CALCULUS (2)",
+    "pre_describe": null,
+    "pre_describe_en": null,
+    "scr_credit": 3.0
+  },
+  "targets": [
+    {
+      "seq": 1,
+      "describe_ch": "能瞭解常微分方程式、常微分方程式系統、線性代數、向量積分。",
+      "describe_en": "Be able to realize the series solutions of the ordinary differential equations, the systems of the ordinary differential equations , the linear algebra and the Vector Calculus."
+    },
+    {
+      "seq": 2,
+      "describe_ch": "能說明出常微分方程式、常微分方程式系統、線性代數、向量積分。",
+      "describe_en": " Be able to illustrate the series solutions of the ordinary differential equations, the systems of the ordinary differential equations , the linear algebra and the Vector Calculus."
+    },
+    {
+      "seq": 3,
+      "describe_ch": "能運算出常微分方程式、常微分方程式系統、線性代數、向量積分。",
+      "describe_en": "Be able to operate the series solutions of the ordinary differential equations, the systems of the ordinary differential equations , the linear algebra and the Vector Calculus."
+    },
+    {
+      "seq": 4,
+      "describe_ch": "能分析出常微分方程式、常微分方程式系統、線性代數、向量積分。",
+      "describe_en": "Be able to analyze the series solutions of the ordinary differential equations, the systems of the ordinary differential equations , the linear algebra and the Vector Calculus."
+    }
+  ],
+  "teachersInfo": [
+    {
+      "cname": "曾琮瑋",
+      "ename": "Tsung-Wei Zeng",
+      "period": "(Mon)08-09 學610,(Wed)03-04 學610",
+      "roletype": 0,
+      "email": "twzeng@o365.fcu.edu.tw",
+      "ext": "3682"
+    }
+  ],
+  "textBooks": {
+    "yms_year": 114.0,
+    "yms_smester": 1.0,
+    "cls_id": "CE08122",
+    "sub_id": "02270",
+    "scr_dup": "001",
+    "tpb_seq": 1,
+    "tpb_book": "<div>Engineering Mathematics Metric Version 工程數學&nbsp;請購買或借用正版教科書</div>\n\n<div>D. G. Zill、W. S. Wright、J.-J. Ding</div>\n\n<div>高立圖書</div>\n\n<div>&nbsp;</div>\n",
+    "tpb_book_en": " "
+  },
+  "readings": {
+    "yms_year": 114.0,
+    "yms_smester": 1.0,
+    "cls_id": "CE08122",
+    "sub_id": "02270",
+    "scr_dup": "001",
+    "tpc_seq": 1,
+    "tpc_book": "<div>Advanced Engineering Mathematics 8e SI Edition</div>\n\n<div>Peter V. O&#39;neil</div>\n\n<div>東華書局/新月圖書</div>\n\n<div>&nbsp;</div>\n\n<div>&nbsp;</div>\n",
+    "tpc_book_en": null
+  },
+  "iSoftwares": [],
+  "assistSoftwares": [],
+  "weeklyScds": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CE08122",
+      "sub_id": "02270",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "1",
+      "tpd_reading": "<div>簡介</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": null,
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": "非同步學習活動:預習與複習作業",
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": 5.0,
+      "tpd_online_face": 3.0,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CE08122",
+      "sub_id": "02270",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "2-4",
+      "tpd_reading": "<div>一階常微分方程</div>\n",
+      "tpd_reading_en": " ",
+      "tpd_learn": " ",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": "非同步學習活動:預習與複習作業",
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": 10.0,
+      "tpd_online_face": 9.0,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CE08122",
+      "sub_id": "02270",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "5-6",
+      "tpd_reading": "<div>一階常微分方程應用</div>\n",
+      "tpd_reading_en": " ",
+      "tpd_learn": " ",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": "非同步學習活動:預習與複習作業",
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": 2.0,
+      "tpd_online_face": 6.0,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CE08122",
+      "sub_id": "02270",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "7",
+      "tpd_reading": "<div>AI輔助解微分方程；微分方程式解的視覺化</div>\n",
+      "tpd_reading_en": " ",
+      "tpd_learn": " ",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": "非同步學習活動:指定作業\n指定作業:透過AI軟體輔助解微分方程式",
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": 3.0,
+      "tpd_online_face": 3.0,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CE08122",
+      "sub_id": "02270",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "8-11",
+      "tpd_reading": "<div>高階常微分方程</div>\n",
+      "tpd_reading_en": " ",
+      "tpd_learn": " ",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": "非同步學習活動:預習與複習作業",
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": 4.0,
+      "tpd_online_face": 12.0,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CE08122",
+      "sub_id": "02270",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "12",
+      "tpd_reading": "<div>高階常微分方程應用</div>\n",
+      "tpd_reading_en": " ",
+      "tpd_learn": " ",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": "非同步學習活動:預習與複習作業",
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": 1.0,
+      "tpd_online_face": 3.0,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CE08122",
+      "sub_id": "02270",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "13-16",
+      "tpd_reading": "<div>拉氏轉換</div>\n",
+      "tpd_reading_en": " ",
+      "tpd_learn": " ",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": "非同步學習活動:預習與複習作業",
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": 4.0,
+      "tpd_online_face": 12.0,
+      "tpd_week_en": null,
+      "mode": 0
+    }
+  ],
+  "gradeRules": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CE08122",
+      "sub_id": "02270",
+      "scr_dup": "001",
+      "evalb_id": "D1",
+      "score_rate": 50,
+      "evalb_memo": "期中考兩次各25%",
+      "evalb_memo_en": null,
+      "evalb_name": "期中考",
+      "evalb_name_en": "Midterm examination",
+      "seq": 1
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CE08122",
+      "sub_id": "02270",
+      "scr_dup": "001",
+      "evalb_id": "D2",
+      "score_rate": 25,
+      "evalb_memo": "期末考25%",
+      "evalb_memo_en": null,
+      "evalb_name": "期末考",
+      "evalb_name_en": "Final examination",
+      "seq": 2
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CE08122",
+      "sub_id": "02270",
+      "scr_dup": "001",
+      "evalb_id": "L4",
+      "score_rate": 15,
+      "evalb_memo": "出席15%",
+      "evalb_memo_en": null,
+      "evalb_name": "出席狀況",
+      "evalb_name_en": "Attendances",
+      "seq": 3
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CE08122",
+      "sub_id": "02270",
+      "scr_dup": "001",
+      "evalb_id": "D4",
+      "score_rate": 10,
+      "evalb_memo": "作業10%",
+      "evalb_memo_en": null,
+      "evalb_name": "作業",
+      "evalb_name_en": "Homework",
+      "seq": 4
+    }
+  ],
+  "gradeRuleDescribe": {
+    "yms_year": 114.0,
+    "yms_smester": 1.0,
+    "cls_id": "CE08122",
+    "sub_id": "02270",
+    "scr_dup": "001",
+    "tpa_score_new": "<div>1.平時成績（25）：出席點名。 2.期中考成績（50％）：期中考兩次各25%。 3.期末成績（25％）：期末考。4.作業（10％）。</div>\n\n<div>&nbsp;</div>\n",
+    "tpa_score_new_en": " ",
+    "course_pol": "評量包括，第一次期中考、第二次期中考、期末考、出席與作業，\n出席成績由點名簽到次數計分，每一部分占比為四分之一。\n1.Exam (75%)   \n2.Attendance + HW (25%)",
+    "course_pol_en": null,
+    "course_rem": null,
+    "course_rem_en": null,
+    "ais_meno": "<div>考試禁止作弊，請注意考試規則，作弊當次考試以零分計分。<br />\n點名請勿代點名，否則代簽者亦被視為曠課。<br />\n考試時間地點提前公告，請留意。<br />\n若考試時間確定無法到場考試，請提前通知老師。</div>\n\n<div>&nbsp;</div>\n\n<div><br />\n考試規則:<br />\n不得抄襲、看他人答案或請他人代為作答。<br />\n不得攜帶禁止物品，如手機、參考書、紙條等，除非考試明確允許。<br />\n不得互相交談，交換物品等。<br />\n需如實填寫姓名、學號等身份資料，不得冒名頂替。</div>\n\n<div>&nbsp;</div>\n",
+    "ais_meno_en": null,
+    "ilearn_mk": "N"
+  },
+  "integrity": {
+    "yms_year": 114.0,
+    "yms_smester": 1.0,
+    "cls_id": "CE08122",
+    "sub_id": "02270",
+    "scr_dup": "001",
+    "tpa_score_new": "<div>1.平時成績（25）：出席點名。 2.期中考成績（50％）：期中考兩次各25%。 3.期末成績（25％）：期末考。4.作業（10％）。</div>\n\n<div>&nbsp;</div>\n",
+    "tpa_score_new_en": " ",
+    "course_pol": "評量包括，第一次期中考、第二次期中考、期末考、出席與作業，\n出席成績由點名簽到次數計分，每一部分占比為四分之一。\n1.Exam (75%)   \n2.Attendance + HW (25%)",
+    "course_pol_en": null,
+    "course_rem": null,
+    "course_rem_en": null,
+    "ais_meno": "<div>考試禁止作弊，請注意考試規則，作弊當次考試以零分計分。<br />\n點名請勿代點名，否則代簽者亦被視為曠課。<br />\n考試時間地點提前公告，請留意。<br />\n若考試時間確定無法到場考試，請提前通知老師。</div>\n\n<div>&nbsp;</div>\n\n<div><br />\n考試規則:<br />\n不得抄襲、看他人答案或請他人代為作答。<br />\n不得攜帶禁止物品，如手機、參考書、紙條等，除非考試明確允許。<br />\n不得互相交談，交換物品等。<br />\n需如實填寫姓名、學號等身份資料，不得冒名頂替。</div>\n\n<div>&nbsp;</div>\n",
+    "ais_meno_en": null,
+    "ilearn_mk": "N"
+  },
+  "policy": {
+    "yms_year": 114.0,
+    "yms_smester": 1.0,
+    "cls_id": "CE08122",
+    "sub_id": "02270",
+    "scr_dup": "001",
+    "tpa_score_new": "<div>1.平時成績（25）：出席點名。 2.期中考成績（50％）：期中考兩次各25%。 3.期末成績（25％）：期末考。4.作業（10％）。</div>\n\n<div>&nbsp;</div>\n",
+    "tpa_score_new_en": " ",
+    "course_pol": "評量包括，第一次期中考、第二次期中考、期末考、出席與作業，\n出席成績由點名簽到次數計分，每一部分占比為四分之一。\n1.Exam (75%)   \n2.Attendance + HW (25%)",
+    "course_pol_en": null,
+    "course_rem": null,
+    "course_rem_en": null,
+    "ais_meno": "<div>考試禁止作弊，請注意考試規則，作弊當次考試以零分計分。<br />\n點名請勿代點名，否則代簽者亦被視為曠課。<br />\n考試時間地點提前公告，請留意。<br />\n若考試時間確定無法到場考試，請提前通知老師。</div>\n\n<div>&nbsp;</div>\n\n<div><br />\n考試規則:<br />\n不得抄襲、看他人答案或請他人代為作答。<br />\n不得攜帶禁止物品，如手機、參考書、紙條等，除非考試明確允許。<br />\n不得互相交談，交換物品等。<br />\n需如實填寫姓名、學號等身份資料，不得冒名頂替。</div>\n\n<div>&nbsp;</div>\n",
+    "ais_meno_en": null,
+    "ilearn_mk": "N"
+  },
+  "courseBankC": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CE08122",
+      "sub_id": "02270",
+      "scr_dup": "001",
+      "seq": 1,
+      "describe_ch": "能瞭解常微分方程式、常微分方程式系統、線性代數、向量積分。",
+      "describe_en": "Be able to realize the series solutions of the ordinary differential equations, the systems of the ordinary differential equations , the linear algebra and the Vector Calculus.",
+      "core_id": "A",
+      "core_item": "具備應用數學、科學及工程知識的能力。",
+      "core_eng": "Possess the ability to apply the knowledge of mathematics, science, and engineering in solving problems.",
+      "core_level": "2 ",
+      "strgy": [
+        "01"
+      ],
+      "evalb": [
+        "D1",
+        "D2"
+      ],
+      "strgy_name": [
+        "課堂授課"
+      ],
+      "strgy_name_en": [
+        "Classroom instruction"
+      ],
+      "evalb_name": [
+        "期中考",
+        "期末考"
+      ],
+      "evalb_name_en": [
+        "Midterm examination",
+        "Final examination"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CE08122",
+          "sub_id": "02270",
+          "scr_dup": "001",
+          "seq": 1,
+          "strgy_id": "01",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CE08122",
+          "sub_id": "02270",
+          "scr_dup": "001",
+          "seq": 1,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D1",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CE08122",
+          "sub_id": "02270",
+          "scr_dup": "001",
+          "seq": 1,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D2",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CE08122",
+      "sub_id": "02270",
+      "scr_dup": "001",
+      "seq": 2,
+      "describe_ch": "能說明出常微分方程式、常微分方程式系統、線性代數、向量積分。",
+      "describe_en": " Be able to illustrate the series solutions of the ordinary differential equations, the systems of the ordinary differential equations , the linear algebra and the Vector Calculus.",
+      "core_id": "A",
+      "core_item": "具備應用數學、科學及工程知識的能力。",
+      "core_eng": "Possess the ability to apply the knowledge of mathematics, science, and engineering in solving problems.",
+      "core_level": "2 ",
+      "strgy": [
+        "01"
+      ],
+      "evalb": [
+        "D1",
+        "D2"
+      ],
+      "strgy_name": [
+        "課堂授課"
+      ],
+      "strgy_name_en": [
+        "Classroom instruction"
+      ],
+      "evalb_name": [
+        "期中考",
+        "期末考"
+      ],
+      "evalb_name_en": [
+        "Midterm examination",
+        "Final examination"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CE08122",
+          "sub_id": "02270",
+          "scr_dup": "001",
+          "seq": 2,
+          "strgy_id": "01",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CE08122",
+          "sub_id": "02270",
+          "scr_dup": "001",
+          "seq": 2,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D1",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CE08122",
+          "sub_id": "02270",
+          "scr_dup": "001",
+          "seq": 2,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D2",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CE08122",
+      "sub_id": "02270",
+      "scr_dup": "001",
+      "seq": 3,
+      "describe_ch": "能運算出常微分方程式、常微分方程式系統、線性代數、向量積分。",
+      "describe_en": "Be able to operate the series solutions of the ordinary differential equations, the systems of the ordinary differential equations , the linear algebra and the Vector Calculus.",
+      "core_id": "C",
+      "core_item": "具備應用現代工具、技術、技巧從事工程實務的能力。",
+      "core_eng": " Possess the ability to apply modern tools, techniques, and skills in engineering practices.",
+      "core_level": "3 ",
+      "strgy": [
+        "01"
+      ],
+      "evalb": [
+        "D1",
+        "D2"
+      ],
+      "strgy_name": [
+        "課堂授課"
+      ],
+      "strgy_name_en": [
+        "Classroom instruction"
+      ],
+      "evalb_name": [
+        "期中考",
+        "期末考"
+      ],
+      "evalb_name_en": [
+        "Midterm examination",
+        "Final examination"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CE08122",
+          "sub_id": "02270",
+          "scr_dup": "001",
+          "seq": 3,
+          "strgy_id": "01",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CE08122",
+          "sub_id": "02270",
+          "scr_dup": "001",
+          "seq": 3,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D1",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CE08122",
+          "sub_id": "02270",
+          "scr_dup": "001",
+          "seq": 3,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D2",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CE08122",
+      "sub_id": "02270",
+      "scr_dup": "001",
+      "seq": 4,
+      "describe_ch": "能分析出常微分方程式、常微分方程式系統、線性代數、向量積分。",
+      "describe_en": "Be able to analyze the series solutions of the ordinary differential equations, the systems of the ordinary differential equations , the linear algebra and the Vector Calculus.",
+      "core_id": "D",
+      "core_item": "具備程序設計、系統分析、及實驗規劃的能力。",
+      "core_eng": "Possess the ability to conduct process design, system analysis, and experiment design.",
+      "core_level": "2 ",
+      "strgy": [
+        "01"
+      ],
+      "evalb": [
+        "D1",
+        "D2"
+      ],
+      "strgy_name": [
+        "課堂授課"
+      ],
+      "strgy_name_en": [
+        "Classroom instruction"
+      ],
+      "evalb_name": [
+        "期中考",
+        "期末考"
+      ],
+      "evalb_name_en": [
+        "Midterm examination",
+        "Final examination"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CE08122",
+          "sub_id": "02270",
+          "scr_dup": "001",
+          "seq": 4,
+          "strgy_id": "01",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CE08122",
+          "sub_id": "02270",
+          "scr_dup": "001",
+          "seq": 4,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D1",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CE08122",
+          "sub_id": "02270",
+          "scr_dup": "001",
+          "seq": 4,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D2",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    }
+  ],
+  "topicSdgs": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CE08122",
+      "sub_id": "02270",
+      "scr_dup": "001",
+      "sdgs_seq": 10,
+      "main_related": "Y",
+      "ind_related": "Y",
+      "iss_name": "經濟成長面",
+      "iss_ename": "Economic Growth",
+      "content_name": "研發創新和建立工業建設",
+      "content_ename": "Industry, Innovation and Infrastructure"
+    }
+  ],
+  "learnHours": {
+    "total": 77.0,
+    "tpdOnlineAsyTotal": 0.0,
+    "tpdOnlineSynTotal": 29.0,
+    "tpdOnlineFaceTotal": 48.0,
+    "asySynInTotalPercent": 37.66
+  },
+  "crossVerYear": 114
+}

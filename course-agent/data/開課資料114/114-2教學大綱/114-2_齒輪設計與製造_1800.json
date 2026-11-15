@@ -1,0 +1,635 @@
+{
+  "success": true,
+  "info": {
+    "yms_year": 114.0,
+    "yms_smester": 2.0,
+    "sub_id": "69200",
+    "cls_id": "CE26120",
+    "scr_dup": "001",
+    "sub_id3": "PSD1062",
+    "cls_name": "精密系統二學位學程",
+    "cls_ename": "Bachelor's Program of Precision System Design",
+    "sub_name": "齒輪設計與製造",
+    "sub_ename": "GEAR DESIGN AND MANUFACTURING",
+    "scr_mso": "必修",
+    "scr_mso_en": "Required",
+    "scr_credit": 3.0,
+    "scr_periodly": "(五)02-04",
+    "scr_periodly_eng": "(Fri)02-04",
+    "lang_name": "中文                                                      ",
+    "lang_ename": "Chinese",
+    "scr_room": "工319(電腦實習室)",
+    "scr_room_eng": "EGB319",
+    "scr_teacher": "徐瑞宏",
+    "scr_teacher_eng": "Ruei-Hung Hsu",
+    "scr_selcode": "1800",
+    "scr_elearning": "全學期",
+    "scr_elearning_en": "Full semester",
+    "scr_hours": "3",
+    "scr_english": "N",
+    "unt_name": null,
+    "unt_ename": null,
+    "link_traminal": null,
+    "link_traminal_en": null,
+    "scr_ldl": "D",
+    "course_mk": "N",
+    "teams_mk": "N",
+    "sub_title": null,
+    "sub_title_en": null,
+    "sub_describe": null,
+    "sub_describe_en": null,
+    "hasDescription": null,
+    "hasInstructor": null,
+    "hasTA": null,
+    "hasTextBooks": null,
+    "hasReadings": null,
+    "hasiSoftwares": null,
+    "hasAssistSoftwares": null,
+    "hasObjective": null,
+    "hasWeeklyScds": null,
+    "hasGradeRules": null,
+    "hasGradeRuleDescribe": null,
+    "hasIntegrity": null,
+    "hasCoursePol": null,
+    "hasCourseRem": null,
+    "hasObjectiveReleation": null,
+    "hasTopicSdgs": null,
+    "hasTopicAiIndicators": null,
+    "hasSubTitleDesc": null
+  },
+  "subTitleDesc": null,
+  "description": {
+    "sub_id3": null,
+    "sub_name": "齒輪設計與製造",
+    "sub_ename": "GEAR DESIGN AND MANUFACTURING",
+    "describe_ch": "齒輪設計與製造課程著重實務應用，分成三大部份: 齒輪原理、 使用KISSsoft齒輪設計軟體實務進行設計、 使用軟體轉換應用五軸加工機實際切削所設計之齒輪。齒輪原理主要介紹齒輪創成理論與加工方法簡介，KISSsoft軟體是泛用於各種齒輪強度設計與組裝基本參數之計算，KISSsoft軟體可以輸出齒輪三維模型，透過電腦輔助製造軟體可以將齒輪三維模型轉為五軸加工機加工程式碼，透過校內五軸加工機加工出所設計之齒輪。",
+    "describe_eh": "The \"Gear Design and Manufacturing\" course focuses on practical applications and is divided into three parts: Gear theory, practical design using KISSsoft gear design software, and software conversion and application of five-axis machining machine to actually cut the designed gear. Gear theory mainly introduces the theory of gear generating theory and the introduction of the processing method, KISSsoft software is widely used in the calculation of the basic parameters of various gear strength design and assembly. KISSsoft software can output the three-dimensional model of the gear, and through the computer-aided manufacturing software, the three-dimensional model of the gear can be converted into a five-axis machining code. The designed gear is processed by the five-axis machining machine in the school.",
+    "pre_subname": "",
+    "pre_sub_id3": null,
+    "pre_sub_ename": "",
+    "pre_describe": null,
+    "pre_describe_en": null,
+    "scr_credit": 3.0
+  },
+  "targets": [
+    {
+      "seq": 1,
+      "describe_ch": "齒輪創成理論與加工方法簡介",
+      "describe_en": "Gear generating theory and the introduction of the processing method"
+    },
+    {
+      "seq": 2,
+      "describe_ch": "使用KISSsoft軟體作齒輪強度設計與組裝基本參數之計算",
+      "describe_en": "Using the KISSsoft software to the calculation of the basic parameters of various gear strength design and assembly."
+    },
+    {
+      "seq": 3,
+      "describe_ch": "五軸加工機加工齒輪",
+      "describe_en": "The gear is processed by the five-axis machining machine."
+    }
+  ],
+  "teachersInfo": [
+    {
+      "cname": "徐瑞宏",
+      "ename": "Ruei-Hung Hsu",
+      "period": "(Tue)04-05 工506,(Wed)05-06 工506",
+      "roletype": 0,
+      "email": "rhhsu@o365.fcu.edu.tw",
+      "ext": "3528"
+    },
+    {
+      "cname": "劉純真",
+      "ename": "LIU, CHUN-CHEN",
+      "period": " ",
+      "roletype": 1,
+      "email": "m1416506@o365.fcu.edu.tw",
+      "ext": " "
+    }
+  ],
+  "textBooks": {
+    "yms_year": 114.0,
+    "yms_smester": 2.0,
+    "cls_id": "CE26120",
+    "sub_id": "69200",
+    "scr_dup": "001",
+    "tpb_seq": 1,
+    "tpb_book": "<div>自編講義&nbsp;</div>\n\n<div>\n<div>齒輪簡介</div>\n\n<div>齒輪加工</div>\n\n<div>齒輪量測</div>\n\n<div>&nbsp;</div>\n</div>\n",
+    "tpb_book_en": " "
+  },
+  "readings": {
+    "yms_year": 114.0,
+    "yms_smester": 2.0,
+    "cls_id": "CE26120",
+    "sub_id": "69200",
+    "scr_dup": "001",
+    "tpc_seq": 1,
+    "tpc_book": "<div>齒輪原理與運用</div>\n\n<div>齒輪原理</div>\n",
+    "tpc_book_en": null
+  },
+  "iSoftwares": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CE26120",
+      "sub_id": "69200",
+      "scr_dup": "001",
+      "seq_no": 1,
+      "soft_kind": "2",
+      "soft_name": "KISSsoft軟體",
+      "soft_memo": "<div>齒輪相關計算</div>\n",
+      "soft_name_en": null,
+      "soft_memo_en": null
+    }
+  ],
+  "assistSoftwares": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CE26120",
+      "sub_id": "69200",
+      "scr_dup": "001",
+      "seq_no": 2,
+      "soft_kind": "3",
+      "soft_name": "KISSsoft軟體",
+      "soft_memo": "<div>齒輪相關計算</div>\n",
+      "soft_name_en": null,
+      "soft_memo_en": null
+    }
+  ],
+  "weeklyScds": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CE26120",
+      "sub_id": "69200",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": " ",
+      "tpd_reading": "以微分幾何推導創成齒輪（generated gear）齒形參數方程式",
+      "tpd_reading_en": " ",
+      "tpd_learn": null,
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CE26120",
+      "sub_id": "69200",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": null,
+      "tpd_reading": "以電腦輔助獲得精確的正齒形幾何數值解",
+      "tpd_reading_en": null,
+      "tpd_learn": null,
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CE26120",
+      "sub_id": "69200",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": null,
+      "tpd_reading": "正齒輪精密加工及負荷變形分析",
+      "tpd_reading_en": null,
+      "tpd_learn": null,
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CE26120",
+      "sub_id": "69200",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": " ",
+      "tpd_reading": "齒輪創成理論與加工方法簡介",
+      "tpd_reading_en": " ",
+      "tpd_learn": null,
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CE26120",
+      "sub_id": "69200",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": " ",
+      "tpd_reading": "使用KISSsoft軟體作齒輪強度設計與組裝基本參數之計算",
+      "tpd_reading_en": " ",
+      "tpd_learn": null,
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CE26120",
+      "sub_id": "69200",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": " ",
+      "tpd_reading": "五軸加工機加工齒輪",
+      "tpd_reading_en": " ",
+      "tpd_learn": null,
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CE26120",
+      "sub_id": "69200",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": " ",
+      "tpd_reading": "齒輪量測與判讀",
+      "tpd_reading_en": " ",
+      "tpd_learn": null,
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    }
+  ],
+  "gradeRules": [],
+  "gradeRuleDescribe": {
+    "yms_year": 114.0,
+    "yms_smester": 2.0,
+    "cls_id": "CE26120",
+    "sub_id": "69200",
+    "scr_dup": "001",
+    "tpa_score_new": "<div>期中考、期末考 齒輪設計與製造課程著重實務應用，分成三大部份: 齒輪原理、 使用KISSsoft齒輪設計軟體實務進行設計、 使用軟體轉換應用五軸加工機實際切削所設計之齒輪。齒輪原理主要介紹齒輪創成理論與加工方法簡介，KISSsoft軟體是泛用於各種齒輪強度設計與組裝基本參數之計算，KISSsoft軟體可以輸出齒輪三維模型，透過電腦輔助製造軟體可以將齒輪三維模型轉為五軸加工機加工程式碼，透過校內五軸加工機加工出所設計之齒輪。</div>\n",
+    "tpa_score_new_en": " ",
+    "course_pol": "課堂規則\n課堂禮儀:\n多元化和包容性\n所有課程活動都將在同學之間的友好參與和互動氛圍中進行，彼此間尊重和欣賞每位同學的個人經歷、背景和觀點，如國內外各學制、多元入學及學習文化、性別等。希望您始終在本課程中應用最高的學術標準，並以有尊嚴和尊重的態度對待同學。\n課堂行為\n課堂上的行為始終應要及時、要專業、要做好準備、要有禮貌。同學、教師或其他講師間，應保有彼此尊嚴和相互尊重，才能進行有效的學習。為了確保有利於學習環境，冀望每個人都能做到以下幾點，彼此遵守課堂行為規則，習慣禮貌的文化。\n學生應準時出席上課。如果您的上課時間，無法按時到課，請不要選課。 除非您生病或有緊急情況，否則應在上課前，要準時到達教室，並坐在位子上。如果您有某種原因必須提早下課，請提前告知我。\n所有學生在課堂上都應尊重每個人，並且在任何時候都應以合理、負責和禮貌的態度行事。\n上課時請勿講話、閱讀、睡覺或做其他非本課程相關作業，除分組進行討論外，否則應盡量減少邊際對話。如果您正坐在一個可能在上課時和您聊天的人旁邊，請移到另一個座位，以免您屈服於誘惑。",
+    "course_pol_en": null,
+    "course_rem": "課堂規則\n課堂禮儀:\n多元化和包容性\n     所有課程活動都將在同學之間的友好參與和互動氛圍中進行，彼此間尊重和欣賞每位同學的個人經歷、背景和觀點，如國內外各學制、多元入學及學習文化、性別等。希望您始終在本課程中應用最高的學術標準，並以有尊嚴和尊重的態度對待同學。\n課堂行為\n課堂上的行為始終應要及時、要專業、要做好準備、要有禮貌。同學、教師或其他講師間，應保有彼此尊嚴和相互尊重，才能進行有效的學習。為了確保有利於學習環境，冀望每個人都能做到以下幾點，彼此遵守課堂行為規則，習慣禮貌的文化。\n學生應準時出席上課。如果您的上課時間，無法按時到課，請不要選課。 除非您生病或有緊急情況，否則應在上課前，要準時到達教室，並坐在位子上。如果您有某種原因必須提早下課，請提前告知我。\n所有學生在課堂上都應尊重每個人，並且在任何時候都應以合理、負責和禮貌的態度行事。\n上課時請勿講話、閱讀、睡覺或做其他非本課程相關作業，除分組進行討論外，否則應盡量減少邊際對話。如果您正坐在一個可能在上課時和您聊天的人旁邊，請移到另一個座位，以免您屈服於誘惑。",
+    "course_rem_en": null,
+    "ais_meno": "<table>\n\t<tbody>\n\t\t<tr>\n\t\t\t<th>綜合說明</th>\n\t\t</tr>\n\t</tbody>\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<div>\n\t\t\t<div>\n\t\t\t<div>\n\t\t\t<div>\n\t\t\t<div>\n\t\t\t<div>\n\t\t\t<div><strong>1.&nbsp;&nbsp; &nbsp;誠信是基本的態度與專業價值的宣言，是將學術理想轉化為行動的行為原則以及落實社會責任。<br />\n\t\t\t2.&nbsp;&nbsp; &nbsp;學術誠信最重要的價值觀之一是思想自由流動與尊重他人智慧財產權之間的平衡。</strong></div>\n\n\t\t\t<ul>\n\t\t\t\t<li>學生應重視及恪遵智慧財產權。不得在學術活動中給予、使用或接受未經授權的援助。使用圖書館館藏、有版權的教材讀本與影音資料。</li>\n\t\t\t\t<li>恪守誠信，積極出席和參與課堂的學習承諾。</li>\n\t\t\t\t<li>學生在課堂上都應尊重每個人，並且在任何時候都應以負責和禮貌的態度行事。</li>\n\t\t\t</ul>\n\n\t\t\t<div><strong>3.&nbsp;&nbsp; &nbsp;學生有責任做好自己的學習任務，並避免一切形式的學術不誠實行為。</strong></div>\n\n\t\t\t<ul>\n\t\t\t\t<li>不作弊：紙筆測驗時，不得交談、窺竊他人試卷或故意便利鄰座竊窺，或有夾帶、抄襲或傳遞資料等情事經發現時，違者該次考試成績以零分計算。並視違者情節，或有替考情事，其舞弊之雙方，將依逢甲大學學生考試辦法、學生獎懲辦法之相關規定處理。</li>\n\t\t\t\t<li>不抄襲：提交原創作品，嚴禁任何形式的抄襲。</li>\n\t\t\t\t<li>不偽造：篡改成績或其他正式文件，如診所就醫證明。</li>\n\t\t\t\t<li>不篡改/不捏造：從實驗中蒐集數據過程，以人為方式創建數據或編造不存在的數據或資料來源，均被視為捏造或篡改</li>\n\t\t\t\t<li>不破壞：破壞他人的藝術品、實驗或設計成果被視為破壞行為。未能為團隊專題做出貢獻，也被視為學術破壞。</li>\n\t\t\t</ul>\n\n\t\t\t<div>以上情況視違者情節，將依逢甲大學學生獎懲辦法等相關規定提送處分。</div>\n\t\t\t</div>\n\t\t\t</div>\n\t\t\t</div>\n\t\t\t</div>\n\t\t\t</div>\n\t\t\t</div>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>\n",
+    "ais_meno_en": null,
+    "ilearn_mk": null
+  },
+  "integrity": {
+    "yms_year": 114.0,
+    "yms_smester": 2.0,
+    "cls_id": "CE26120",
+    "sub_id": "69200",
+    "scr_dup": "001",
+    "tpa_score_new": "<div>期中考、期末考 齒輪設計與製造課程著重實務應用，分成三大部份: 齒輪原理、 使用KISSsoft齒輪設計軟體實務進行設計、 使用軟體轉換應用五軸加工機實際切削所設計之齒輪。齒輪原理主要介紹齒輪創成理論與加工方法簡介，KISSsoft軟體是泛用於各種齒輪強度設計與組裝基本參數之計算，KISSsoft軟體可以輸出齒輪三維模型，透過電腦輔助製造軟體可以將齒輪三維模型轉為五軸加工機加工程式碼，透過校內五軸加工機加工出所設計之齒輪。</div>\n",
+    "tpa_score_new_en": " ",
+    "course_pol": "課堂規則\n課堂禮儀:\n多元化和包容性\n所有課程活動都將在同學之間的友好參與和互動氛圍中進行，彼此間尊重和欣賞每位同學的個人經歷、背景和觀點，如國內外各學制、多元入學及學習文化、性別等。希望您始終在本課程中應用最高的學術標準，並以有尊嚴和尊重的態度對待同學。\n課堂行為\n課堂上的行為始終應要及時、要專業、要做好準備、要有禮貌。同學、教師或其他講師間，應保有彼此尊嚴和相互尊重，才能進行有效的學習。為了確保有利於學習環境，冀望每個人都能做到以下幾點，彼此遵守課堂行為規則，習慣禮貌的文化。\n學生應準時出席上課。如果您的上課時間，無法按時到課，請不要選課。 除非您生病或有緊急情況，否則應在上課前，要準時到達教室，並坐在位子上。如果您有某種原因必須提早下課，請提前告知我。\n所有學生在課堂上都應尊重每個人，並且在任何時候都應以合理、負責和禮貌的態度行事。\n上課時請勿講話、閱讀、睡覺或做其他非本課程相關作業，除分組進行討論外，否則應盡量減少邊際對話。如果您正坐在一個可能在上課時和您聊天的人旁邊，請移到另一個座位，以免您屈服於誘惑。",
+    "course_pol_en": null,
+    "course_rem": "課堂規則\n課堂禮儀:\n多元化和包容性\n     所有課程活動都將在同學之間的友好參與和互動氛圍中進行，彼此間尊重和欣賞每位同學的個人經歷、背景和觀點，如國內外各學制、多元入學及學習文化、性別等。希望您始終在本課程中應用最高的學術標準，並以有尊嚴和尊重的態度對待同學。\n課堂行為\n課堂上的行為始終應要及時、要專業、要做好準備、要有禮貌。同學、教師或其他講師間，應保有彼此尊嚴和相互尊重，才能進行有效的學習。為了確保有利於學習環境，冀望每個人都能做到以下幾點，彼此遵守課堂行為規則，習慣禮貌的文化。\n學生應準時出席上課。如果您的上課時間，無法按時到課，請不要選課。 除非您生病或有緊急情況，否則應在上課前，要準時到達教室，並坐在位子上。如果您有某種原因必須提早下課，請提前告知我。\n所有學生在課堂上都應尊重每個人，並且在任何時候都應以合理、負責和禮貌的態度行事。\n上課時請勿講話、閱讀、睡覺或做其他非本課程相關作業，除分組進行討論外，否則應盡量減少邊際對話。如果您正坐在一個可能在上課時和您聊天的人旁邊，請移到另一個座位，以免您屈服於誘惑。",
+    "course_rem_en": null,
+    "ais_meno": "<table>\n\t<tbody>\n\t\t<tr>\n\t\t\t<th>綜合說明</th>\n\t\t</tr>\n\t</tbody>\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<div>\n\t\t\t<div>\n\t\t\t<div>\n\t\t\t<div>\n\t\t\t<div>\n\t\t\t<div>\n\t\t\t<div><strong>1.&nbsp;&nbsp; &nbsp;誠信是基本的態度與專業價值的宣言，是將學術理想轉化為行動的行為原則以及落實社會責任。<br />\n\t\t\t2.&nbsp;&nbsp; &nbsp;學術誠信最重要的價值觀之一是思想自由流動與尊重他人智慧財產權之間的平衡。</strong></div>\n\n\t\t\t<ul>\n\t\t\t\t<li>學生應重視及恪遵智慧財產權。不得在學術活動中給予、使用或接受未經授權的援助。使用圖書館館藏、有版權的教材讀本與影音資料。</li>\n\t\t\t\t<li>恪守誠信，積極出席和參與課堂的學習承諾。</li>\n\t\t\t\t<li>學生在課堂上都應尊重每個人，並且在任何時候都應以負責和禮貌的態度行事。</li>\n\t\t\t</ul>\n\n\t\t\t<div><strong>3.&nbsp;&nbsp; &nbsp;學生有責任做好自己的學習任務，並避免一切形式的學術不誠實行為。</strong></div>\n\n\t\t\t<ul>\n\t\t\t\t<li>不作弊：紙筆測驗時，不得交談、窺竊他人試卷或故意便利鄰座竊窺，或有夾帶、抄襲或傳遞資料等情事經發現時，違者該次考試成績以零分計算。並視違者情節，或有替考情事，其舞弊之雙方，將依逢甲大學學生考試辦法、學生獎懲辦法之相關規定處理。</li>\n\t\t\t\t<li>不抄襲：提交原創作品，嚴禁任何形式的抄襲。</li>\n\t\t\t\t<li>不偽造：篡改成績或其他正式文件，如診所就醫證明。</li>\n\t\t\t\t<li>不篡改/不捏造：從實驗中蒐集數據過程，以人為方式創建數據或編造不存在的數據或資料來源，均被視為捏造或篡改</li>\n\t\t\t\t<li>不破壞：破壞他人的藝術品、實驗或設計成果被視為破壞行為。未能為團隊專題做出貢獻，也被視為學術破壞。</li>\n\t\t\t</ul>\n\n\t\t\t<div>以上情況視違者情節，將依逢甲大學學生獎懲辦法等相關規定提送處分。</div>\n\t\t\t</div>\n\t\t\t</div>\n\t\t\t</div>\n\t\t\t</div>\n\t\t\t</div>\n\t\t\t</div>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>\n",
+    "ais_meno_en": null,
+    "ilearn_mk": null
+  },
+  "policy": {
+    "yms_year": 114.0,
+    "yms_smester": 2.0,
+    "cls_id": "CE26120",
+    "sub_id": "69200",
+    "scr_dup": "001",
+    "tpa_score_new": "<div>期中考、期末考 齒輪設計與製造課程著重實務應用，分成三大部份: 齒輪原理、 使用KISSsoft齒輪設計軟體實務進行設計、 使用軟體轉換應用五軸加工機實際切削所設計之齒輪。齒輪原理主要介紹齒輪創成理論與加工方法簡介，KISSsoft軟體是泛用於各種齒輪強度設計與組裝基本參數之計算，KISSsoft軟體可以輸出齒輪三維模型，透過電腦輔助製造軟體可以將齒輪三維模型轉為五軸加工機加工程式碼，透過校內五軸加工機加工出所設計之齒輪。</div>\n",
+    "tpa_score_new_en": " ",
+    "course_pol": "課堂規則\n課堂禮儀:\n多元化和包容性\n所有課程活動都將在同學之間的友好參與和互動氛圍中進行，彼此間尊重和欣賞每位同學的個人經歷、背景和觀點，如國內外各學制、多元入學及學習文化、性別等。希望您始終在本課程中應用最高的學術標準，並以有尊嚴和尊重的態度對待同學。\n課堂行為\n課堂上的行為始終應要及時、要專業、要做好準備、要有禮貌。同學、教師或其他講師間，應保有彼此尊嚴和相互尊重，才能進行有效的學習。為了確保有利於學習環境，冀望每個人都能做到以下幾點，彼此遵守課堂行為規則，習慣禮貌的文化。\n學生應準時出席上課。如果您的上課時間，無法按時到課，請不要選課。 除非您生病或有緊急情況，否則應在上課前，要準時到達教室，並坐在位子上。如果您有某種原因必須提早下課，請提前告知我。\n所有學生在課堂上都應尊重每個人，並且在任何時候都應以合理、負責和禮貌的態度行事。\n上課時請勿講話、閱讀、睡覺或做其他非本課程相關作業，除分組進行討論外，否則應盡量減少邊際對話。如果您正坐在一個可能在上課時和您聊天的人旁邊，請移到另一個座位，以免您屈服於誘惑。",
+    "course_pol_en": null,
+    "course_rem": "課堂規則\n課堂禮儀:\n多元化和包容性\n     所有課程活動都將在同學之間的友好參與和互動氛圍中進行，彼此間尊重和欣賞每位同學的個人經歷、背景和觀點，如國內外各學制、多元入學及學習文化、性別等。希望您始終在本課程中應用最高的學術標準，並以有尊嚴和尊重的態度對待同學。\n課堂行為\n課堂上的行為始終應要及時、要專業、要做好準備、要有禮貌。同學、教師或其他講師間，應保有彼此尊嚴和相互尊重，才能進行有效的學習。為了確保有利於學習環境，冀望每個人都能做到以下幾點，彼此遵守課堂行為規則，習慣禮貌的文化。\n學生應準時出席上課。如果您的上課時間，無法按時到課，請不要選課。 除非您生病或有緊急情況，否則應在上課前，要準時到達教室，並坐在位子上。如果您有某種原因必須提早下課，請提前告知我。\n所有學生在課堂上都應尊重每個人，並且在任何時候都應以合理、負責和禮貌的態度行事。\n上課時請勿講話、閱讀、睡覺或做其他非本課程相關作業，除分組進行討論外，否則應盡量減少邊際對話。如果您正坐在一個可能在上課時和您聊天的人旁邊，請移到另一個座位，以免您屈服於誘惑。",
+    "course_rem_en": null,
+    "ais_meno": "<table>\n\t<tbody>\n\t\t<tr>\n\t\t\t<th>綜合說明</th>\n\t\t</tr>\n\t</tbody>\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<div>\n\t\t\t<div>\n\t\t\t<div>\n\t\t\t<div>\n\t\t\t<div>\n\t\t\t<div>\n\t\t\t<div><strong>1.&nbsp;&nbsp; &nbsp;誠信是基本的態度與專業價值的宣言，是將學術理想轉化為行動的行為原則以及落實社會責任。<br />\n\t\t\t2.&nbsp;&nbsp; &nbsp;學術誠信最重要的價值觀之一是思想自由流動與尊重他人智慧財產權之間的平衡。</strong></div>\n\n\t\t\t<ul>\n\t\t\t\t<li>學生應重視及恪遵智慧財產權。不得在學術活動中給予、使用或接受未經授權的援助。使用圖書館館藏、有版權的教材讀本與影音資料。</li>\n\t\t\t\t<li>恪守誠信，積極出席和參與課堂的學習承諾。</li>\n\t\t\t\t<li>學生在課堂上都應尊重每個人，並且在任何時候都應以負責和禮貌的態度行事。</li>\n\t\t\t</ul>\n\n\t\t\t<div><strong>3.&nbsp;&nbsp; &nbsp;學生有責任做好自己的學習任務，並避免一切形式的學術不誠實行為。</strong></div>\n\n\t\t\t<ul>\n\t\t\t\t<li>不作弊：紙筆測驗時，不得交談、窺竊他人試卷或故意便利鄰座竊窺，或有夾帶、抄襲或傳遞資料等情事經發現時，違者該次考試成績以零分計算。並視違者情節，或有替考情事，其舞弊之雙方，將依逢甲大學學生考試辦法、學生獎懲辦法之相關規定處理。</li>\n\t\t\t\t<li>不抄襲：提交原創作品，嚴禁任何形式的抄襲。</li>\n\t\t\t\t<li>不偽造：篡改成績或其他正式文件，如診所就醫證明。</li>\n\t\t\t\t<li>不篡改/不捏造：從實驗中蒐集數據過程，以人為方式創建數據或編造不存在的數據或資料來源，均被視為捏造或篡改</li>\n\t\t\t\t<li>不破壞：破壞他人的藝術品、實驗或設計成果被視為破壞行為。未能為團隊專題做出貢獻，也被視為學術破壞。</li>\n\t\t\t</ul>\n\n\t\t\t<div>以上情況視違者情節，將依逢甲大學學生獎懲辦法等相關規定提送處分。</div>\n\t\t\t</div>\n\t\t\t</div>\n\t\t\t</div>\n\t\t\t</div>\n\t\t\t</div>\n\t\t\t</div>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>\n",
+    "ais_meno_en": null,
+    "ilearn_mk": null
+  },
+  "courseBankC": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CE26120",
+      "sub_id": "69200",
+      "scr_dup": "001",
+      "seq": 1,
+      "describe_ch": "齒輪創成理論與加工方法簡介",
+      "describe_en": "Gear generating theory and the introduction of the processing method",
+      "core_id": "A",
+      "core_item": "具有應用數學、基礎科學、工程知識與繪圖技能的能力",
+      "core_eng": "Ability to apply knowledge of mathematics, science, engineering, and drafting.",
+      "core_level": "2 ",
+      "strgy": [
+        "01"
+      ],
+      "evalb": [
+        "D1"
+      ],
+      "strgy_name": [
+        "課堂授課"
+      ],
+      "strgy_name_en": [
+        "Classroom instruction"
+      ],
+      "evalb_name": [
+        "期中考"
+      ],
+      "evalb_name_en": [
+        "Midterm examination"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE26120",
+          "sub_id": "69200",
+          "scr_dup": "001",
+          "seq": 1,
+          "strgy_id": "01",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE26120",
+          "sub_id": "69200",
+          "scr_dup": "001",
+          "seq": 1,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D1",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CE26120",
+      "sub_id": "69200",
+      "scr_dup": "001",
+      "seq": 2,
+      "describe_ch": "使用KISSsoft軟體作齒輪強度設計與組裝基本參數之計算",
+      "describe_en": "Using the KISSsoft software to the calculation of the basic parameters of various gear strength design and assembly.",
+      "core_id": "B",
+      "core_item": "具備精密系統設計與執行實驗、分析與解釋數據及軟體應用與實務操作的能力。",
+      "core_eng": "Ability to design and conduct experiments, as well as to analyze and interpret data, and apply software as well as to operate practically.",
+      "core_level": "4 ",
+      "strgy": [
+        "01"
+      ],
+      "evalb": [
+        "D1",
+        "D2"
+      ],
+      "strgy_name": [
+        "課堂授課"
+      ],
+      "strgy_name_en": [
+        "Classroom instruction"
+      ],
+      "evalb_name": [
+        "期中考",
+        "期末考"
+      ],
+      "evalb_name_en": [
+        "Midterm examination",
+        "Final examination"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE26120",
+          "sub_id": "69200",
+          "scr_dup": "001",
+          "seq": 2,
+          "strgy_id": "01",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE26120",
+          "sub_id": "69200",
+          "scr_dup": "001",
+          "seq": 2,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D1",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE26120",
+          "sub_id": "69200",
+          "scr_dup": "001",
+          "seq": 2,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D2",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CE26120",
+      "sub_id": "69200",
+      "scr_dup": "001",
+      "seq": 3,
+      "describe_ch": "五軸加工機加工齒輪",
+      "describe_en": "The gear is processed by the five-axis machining machine.",
+      "core_id": "C",
+      "core_item": "具備發掘、分析、應用研究成果及兼顧永續發展，並能執行工程實務所需技術、技巧、以解決複雜且整合性工程問題的能力",
+      "core_eng": "Ability to identify, formulate, research literature and sustainable development, as well as to implement practically through engineering technology and skill, ability to solve complex engineering issue reaching substantial conclusions.",
+      "core_level": "5 ",
+      "strgy": [
+        "01"
+      ],
+      "evalb": [
+        "D1",
+        "D2"
+      ],
+      "strgy_name": [
+        "課堂授課"
+      ],
+      "strgy_name_en": [
+        "Classroom instruction"
+      ],
+      "evalb_name": [
+        "期中考",
+        "期末考"
+      ],
+      "evalb_name_en": [
+        "Midterm examination",
+        "Final examination"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE26120",
+          "sub_id": "69200",
+          "scr_dup": "001",
+          "seq": 3,
+          "strgy_id": "01",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE26120",
+          "sub_id": "69200",
+          "scr_dup": "001",
+          "seq": 3,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D1",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE26120",
+          "sub_id": "69200",
+          "scr_dup": "001",
+          "seq": 3,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D2",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    }
+  ],
+  "topicSdgs": [],
+  "topicAiIndicators": [],
+  "learnHours": {
+    "total": 0.0,
+    "tpdOnlineAsyTotal": 0.0,
+    "tpdOnlineSynTotal": 0.0,
+    "tpdOnlineFaceTotal": 0.0,
+    "asySynInTotalPercent": 0.0
+  },
+  "crossVerYear": 114
+}

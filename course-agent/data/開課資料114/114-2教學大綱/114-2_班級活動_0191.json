@@ -1,0 +1,742 @@
+{
+  "success": true,
+  "info": {
+    "yms_year": 114.0,
+    "yms_smester": 2.0,
+    "sub_id": "00001",
+    "cls_id": "CB02113",
+    "scr_dup": "001",
+    "sub_id3": "GEID0010",
+    "cls_name": "國貿一丙",
+    "cls_ename": "Department of International Business",
+    "sub_name": "班級活動",
+    "sub_ename": "CLASS ACTIVITY",
+    "scr_mso": "必修",
+    "scr_mso_en": "Required",
+    "scr_credit": 0.0,
+    "scr_periodly": "(一)09",
+    "scr_periodly_eng": "(Mon)09",
+    "lang_name": "中文                                                      ",
+    "lang_ename": "Chinese",
+    "scr_room": "科航201",
+    "scr_room_eng": "SAB201",
+    "scr_teacher": "江成欣",
+    "scr_teacher_eng": "CHENG-HSIN CHIANG",
+    "scr_selcode": "0191",
+    "scr_elearning": "全學期",
+    "scr_elearning_en": "Full semester",
+    "scr_hours": "1",
+    "scr_english": "N",
+    "unt_name": null,
+    "unt_ename": null,
+    "link_traminal": null,
+    "link_traminal_en": null,
+    "scr_ldl": "D",
+    "course_mk": "N",
+    "teams_mk": "N",
+    "sub_title": null,
+    "sub_title_en": null,
+    "sub_describe": null,
+    "sub_describe_en": null,
+    "hasDescription": null,
+    "hasInstructor": null,
+    "hasTA": null,
+    "hasTextBooks": null,
+    "hasReadings": null,
+    "hasiSoftwares": null,
+    "hasAssistSoftwares": null,
+    "hasObjective": null,
+    "hasWeeklyScds": null,
+    "hasGradeRules": null,
+    "hasGradeRuleDescribe": null,
+    "hasIntegrity": null,
+    "hasCoursePol": null,
+    "hasCourseRem": null,
+    "hasObjectiveReleation": null,
+    "hasTopicSdgs": null,
+    "hasTopicAiIndicators": null,
+    "hasSubTitleDesc": null
+  },
+  "subTitleDesc": null,
+  "description": {
+    "sub_id3": null,
+    "sub_name": "班級活動",
+    "sub_ename": "CLASS ACTIVITY",
+    "describe_ch": "提供學生們與導師建立互動機會，形成良好夥伴關係，以發展實現學生個人、學業、職涯目標，確保及達成學生學習成就。提供生涯規劃及選課諮詢，並導引善用學校各項學習資源與服務，獲得各種學習能力資訊及機會，輔助學生建立完整的學習經驗及歷程，讓學生個人的學習發展，朝向永續學習及成功之路。",
+    "describe_eh": "Providing the interactive opportunity establishes in the students and academic advisor, forms the good partnership. develops realizes student individual, the studies, the duty border goal, guarantees and achieves the student to study the achievement. Provides the profession plan and chooses the class consultation, and guides makes good use of the school each study resources and the service, obtains each kind of learning capability information and the opportunity, the auxiliary student establishes the complete learning experience and the course, lets the student individual study development, faces continues forever to study and the steps to success.",
+    "pre_subname": "",
+    "pre_sub_id3": null,
+    "pre_sub_ename": "",
+    "pre_describe": null,
+    "pre_describe_en": null,
+    "scr_credit": 0.0
+  },
+  "targets": [
+    {
+      "seq": 1,
+      "describe_ch": "班級活動及諮詢：培養學生責任感與凝聚班級向心力。",
+      "describe_en": "Class Activities Operation and Advising: Cultivate students' responsibilities and enhance the sense of belonging."
+    },
+    {
+      "seq": 2,
+      "describe_ch": "個人成長：協助同學發展核心軟技能及決策制訂能力，以及從各種學習經驗當中獲得綜合技能並能適時運用之。",
+      "describe_en": "Personal growth: Develop core soft skills and decision-making. Be able to identify and communicate the transferable skills gained through your educational experience."
+    },
+    {
+      "seq": 3,
+      "describe_ch": "資源應用：幫助同學分配與有效利用校園資源服務的技巧以達成學生目標。",
+      "describe_en": "Resource identification: Develop skills in locating and effectively using information and resources that help you achieve your goals."
+    },
+    {
+      "seq": 4,
+      "describe_ch": "職涯規劃：讓同學瞭解在課堂學習經驗與個人學業、職涯及制訂目標之間的關係。",
+      "describe_en": "Curriculum integration: Understand the relationship between your classroom experiences and your academic, career, and personal goals."
+    },
+    {
+      "seq": 5,
+      "describe_ch": "經驗學習：瞭解包含課堂外學習經驗的重要性。",
+      "describe_en": "Experiential learning: Understand the importance of including experiences outside of the classroom in your educational plan."
+    }
+  ],
+  "teachersInfo": [
+    {
+      "cname": "江成欣",
+      "ename": "CHENG-HSIN CHIANG",
+      "period": "(Mon)04  商1202B,(Tue)06-07 商1202B,(Thu)06-07 商1202B",
+      "roletype": 0,
+      "email": "chsinchiang@o365.fcu.edu.tw",
+      "ext": "4260"
+    }
+  ],
+  "textBooks": {
+    "yms_year": 114.0,
+    "yms_smester": 2.0,
+    "cls_id": "CB02113",
+    "sub_id": "00001",
+    "scr_dup": "001",
+    "tpb_seq": 1,
+    "tpb_book": "<div>無使用教科書</div>\n",
+    "tpb_book_en": null
+  },
+  "readings": {
+    "yms_year": 114.0,
+    "yms_smester": 2.0,
+    "cls_id": "CB02113",
+    "sub_id": "00001",
+    "scr_dup": "001",
+    "tpc_seq": 1,
+    "tpc_book": "<div>真希望我20歲就懂的事：史丹佛大學的創新X創意X創業震撼課程 What I Wish I Knew When I Was 20：A Crash Course on Making Your Place in the World</div>\n\n<div>最高自律力：養成自律，從來都不靠硬撐</div>\n\n<div>\n<div>發現天賦之旅 Finding Your Element：How to Discover Your Talents and Passions and Transform Your Life</div>\n</div>\n",
+    "tpc_book_en": null
+  },
+  "iSoftwares": [],
+  "assistSoftwares": [],
+  "weeklyScds": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CB02113",
+      "sub_id": "00001",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "1",
+      "tpd_reading": "<div>新學期新希望</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": null,
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": 1.0,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CB02113",
+      "sub_id": "00001",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "2-6",
+      "tpd_reading": "<div>團體晤談</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": null,
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": 5.0,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CB02113",
+      "sub_id": "00001",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "7",
+      "tpd_reading": "<div>調整放假一天</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": null,
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CB02113",
+      "sub_id": "00001",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "8",
+      "tpd_reading": "<div>期中考</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": null,
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CB02113",
+      "sub_id": "00001",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "9",
+      "tpd_reading": "<div>4/20&nbsp; 大一共同班會</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": null,
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": "演講安排",
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CB02113",
+      "sub_id": "00001",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "10",
+      "tpd_reading": "<div>團體晤談</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": null,
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": 2.0,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CB02113",
+      "sub_id": "00001",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "11",
+      "tpd_reading": "<div>《是愛，還是以愛為名的監牢？》-辨識關係中的危險信號，找回健康的愛</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": null,
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": "心輔中心演講",
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": 1.0,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CB02113",
+      "sub_id": "00001",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "12-17",
+      "tpd_reading": "<div>團體晤談</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": null,
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": 6.0,
+      "tpd_week_en": null,
+      "mode": 0
+    }
+  ],
+  "gradeRules": [],
+  "gradeRuleDescribe": {
+    "yms_year": 114.0,
+    "yms_smester": 2.0,
+    "cls_id": "CB02113",
+    "sub_id": "00001",
+    "scr_dup": "001",
+    "tpa_score_new": "<div>本課程以議題單元方式，引導學生探索內容，於班級活動課程中依單元性質，進行訪談或心得報告等作法，以了解學生單元學習情形，並將結果回饋相關課程進行後續之課程學習成效評估。&nbsp; &nbsp;</div>\n",
+    "tpa_score_new_en": null,
+    "course_pol": "相互尊重支持，報告內容請詳細註明文章出處及適當引用。\n出席相關活動是豐富逢甲生活的必要條件。\n本學期會安排學長姐分享出國經驗及傑出系友分享。\n如有問題，請及時與導師聯繫。",
+    "course_pol_en": null,
+    "course_rem": null,
+    "course_rem_en": null,
+    "ais_meno": "<div>相互尊重支持，報告內容請詳細註明文章出處及適當引用。</div>\n\n<div>出席相關活動是豐富逢甲生活的必要條件。</div>\n\n<div>本學期會安排學長姐分享出國經驗及傑出系友分享。</div>\n\n<div>如有問題，請及時與導師聯繫。</div>\n",
+    "ais_meno_en": null,
+    "ilearn_mk": "N"
+  },
+  "integrity": {
+    "yms_year": 114.0,
+    "yms_smester": 2.0,
+    "cls_id": "CB02113",
+    "sub_id": "00001",
+    "scr_dup": "001",
+    "tpa_score_new": "<div>本課程以議題單元方式，引導學生探索內容，於班級活動課程中依單元性質，進行訪談或心得報告等作法，以了解學生單元學習情形，並將結果回饋相關課程進行後續之課程學習成效評估。&nbsp; &nbsp;</div>\n",
+    "tpa_score_new_en": null,
+    "course_pol": "相互尊重支持，報告內容請詳細註明文章出處及適當引用。\n出席相關活動是豐富逢甲生活的必要條件。\n本學期會安排學長姐分享出國經驗及傑出系友分享。\n如有問題，請及時與導師聯繫。",
+    "course_pol_en": null,
+    "course_rem": null,
+    "course_rem_en": null,
+    "ais_meno": "<div>相互尊重支持，報告內容請詳細註明文章出處及適當引用。</div>\n\n<div>出席相關活動是豐富逢甲生活的必要條件。</div>\n\n<div>本學期會安排學長姐分享出國經驗及傑出系友分享。</div>\n\n<div>如有問題，請及時與導師聯繫。</div>\n",
+    "ais_meno_en": null,
+    "ilearn_mk": "N"
+  },
+  "policy": {
+    "yms_year": 114.0,
+    "yms_smester": 2.0,
+    "cls_id": "CB02113",
+    "sub_id": "00001",
+    "scr_dup": "001",
+    "tpa_score_new": "<div>本課程以議題單元方式，引導學生探索內容，於班級活動課程中依單元性質，進行訪談或心得報告等作法，以了解學生單元學習情形，並將結果回饋相關課程進行後續之課程學習成效評估。&nbsp; &nbsp;</div>\n",
+    "tpa_score_new_en": null,
+    "course_pol": "相互尊重支持，報告內容請詳細註明文章出處及適當引用。\n出席相關活動是豐富逢甲生活的必要條件。\n本學期會安排學長姐分享出國經驗及傑出系友分享。\n如有問題，請及時與導師聯繫。",
+    "course_pol_en": null,
+    "course_rem": null,
+    "course_rem_en": null,
+    "ais_meno": "<div>相互尊重支持，報告內容請詳細註明文章出處及適當引用。</div>\n\n<div>出席相關活動是豐富逢甲生活的必要條件。</div>\n\n<div>本學期會安排學長姐分享出國經驗及傑出系友分享。</div>\n\n<div>如有問題，請及時與導師聯繫。</div>\n",
+    "ais_meno_en": null,
+    "ilearn_mk": "N"
+  },
+  "courseBankC": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CB02113",
+      "sub_id": "00001",
+      "scr_dup": "001",
+      "seq": 1,
+      "describe_ch": "班級活動及諮詢：培養學生責任感與凝聚班級向心力。",
+      "describe_en": "Class Activities Operation and Advising: Cultivate students' responsibilities and enhance the sense of belonging.",
+      "core_id": "F",
+      "core_item": "團隊合作的能力：能與團隊成員共享合作目標，一同建構與成就集體的理想與抱負。 \r\n\r\n",
+      "core_eng": "Teamwork and Collaboration：Ability to work collaboratively with others to achieve shared objectives. \r\n\r\n",
+      "core_level": "3 ",
+      "strgy": [
+        "10"
+      ],
+      "evalb": [
+        "L4"
+      ],
+      "strgy_name": [
+        "小組討論及活動"
+      ],
+      "strgy_name_en": [
+        "Group activity & discussion"
+      ],
+      "evalb_name": [
+        "出席狀況"
+      ],
+      "evalb_name_en": [
+        "Attendances"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CB02113",
+          "sub_id": "00001",
+          "scr_dup": "001",
+          "seq": 1,
+          "strgy_id": "10",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CB02113",
+          "sub_id": "00001",
+          "scr_dup": "001",
+          "seq": 1,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "L4",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CB02113",
+      "sub_id": "00001",
+      "scr_dup": "001",
+      "seq": 2,
+      "describe_ch": "個人成長：協助同學發展核心軟技能及決策制訂能力，以及從各種學習經驗當中獲得綜合技能並能適時運用之。",
+      "describe_en": "Personal growth: Develop core soft skills and decision-making. Be able to identify and communicate the transferable skills gained through your educational experience.",
+      "core_id": "F",
+      "core_item": "團隊合作的能力：能與團隊成員共享合作目標，一同建構與成就集體的理想與抱負。 \r\n\r\n",
+      "core_eng": "Teamwork and Collaboration：Ability to work collaboratively with others to achieve shared objectives. \r\n\r\n",
+      "core_level": "3 ",
+      "strgy": [
+        "19"
+      ],
+      "evalb": [
+        "B1"
+      ],
+      "strgy_name": [
+        "探索式學習"
+      ],
+      "strgy_name_en": [
+        "Inquiry-based Learning, IBL"
+      ],
+      "evalb_name": [
+        "個人訪談"
+      ],
+      "evalb_name_en": [
+        "Individual interview"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CB02113",
+          "sub_id": "00001",
+          "scr_dup": "001",
+          "seq": 2,
+          "strgy_id": "19",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CB02113",
+          "sub_id": "00001",
+          "scr_dup": "001",
+          "seq": 2,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "B1",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CB02113",
+      "sub_id": "00001",
+      "scr_dup": "001",
+      "seq": 3,
+      "describe_ch": "資源應用：幫助同學分配與有效利用校園資源服務的技巧以達成學生目標。",
+      "describe_en": "Resource identification: Develop skills in locating and effectively using information and resources that help you achieve your goals.",
+      "core_id": "C",
+      "core_item": "跨域整合的能力：能夠連結不同學科領域的知識，融會貫通，以應對社會複雜挑戰。 \r\n\r\n",
+      "core_eng": "Interdisciplinary Integration：Ability to integrate knowledge from different academic fields to address complex issues.",
+      "core_level": "3 ",
+      "strgy": [
+        "20"
+      ],
+      "evalb": [
+        "F3"
+      ],
+      "strgy_name": [
+        "協作學習"
+      ],
+      "strgy_name_en": [
+        "Collaborative Learning, CoL"
+      ],
+      "evalb_name": [
+        "小組討論"
+      ],
+      "evalb_name_en": [
+        "Group discussion"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CB02113",
+          "sub_id": "00001",
+          "scr_dup": "001",
+          "seq": 3,
+          "strgy_id": "20",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CB02113",
+          "sub_id": "00001",
+          "scr_dup": "001",
+          "seq": 3,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "F3",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CB02113",
+      "sub_id": "00001",
+      "scr_dup": "001",
+      "seq": 4,
+      "describe_ch": "職涯規劃：讓同學瞭解在課堂學習經驗與個人學業、職涯及制訂目標之間的關係。",
+      "describe_en": "Curriculum integration: Understand the relationship between your classroom experiences and your academic, career, and personal goals.",
+      "core_id": "A",
+      "core_item": "邏輯思辨的能力：具備清晰的邏輯思維，能夠深入分析議題並建構嚴謹論述。 \r\n\r\n",
+      "core_eng": "Logical Thinking：Ability to apply clear logical reasoning to analyzing issues and developing well-structured arguments.",
+      "core_level": "3 ",
+      "strgy": [
+        "19"
+      ],
+      "evalb": [
+        "B3"
+      ],
+      "strgy_name": [
+        "探索式學習"
+      ],
+      "strgy_name_en": [
+        "Inquiry-based Learning, IBL"
+      ],
+      "evalb_name": [
+        "學生個別請益"
+      ],
+      "evalb_name_en": [
+        "Individual tutoring"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CB02113",
+          "sub_id": "00001",
+          "scr_dup": "001",
+          "seq": 4,
+          "strgy_id": "19",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CB02113",
+          "sub_id": "00001",
+          "scr_dup": "001",
+          "seq": 4,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "B3",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CB02113",
+      "sub_id": "00001",
+      "scr_dup": "001",
+      "seq": 5,
+      "describe_ch": "經驗學習：瞭解包含課堂外學習經驗的重要性。",
+      "describe_en": "Experiential learning: Understand the importance of including experiences outside of the classroom in your educational plan.",
+      "core_id": "F",
+      "core_item": "團隊合作的能力：能與團隊成員共享合作目標，一同建構與成就集體的理想與抱負。 \r\n\r\n",
+      "core_eng": "Teamwork and Collaboration：Ability to work collaboratively with others to achieve shared objectives. \r\n\r\n",
+      "core_level": "3 ",
+      "strgy": [
+        "19"
+      ],
+      "evalb": [
+        "B3",
+        "F3"
+      ],
+      "strgy_name": [
+        "探索式學習"
+      ],
+      "strgy_name_en": [
+        "Inquiry-based Learning, IBL"
+      ],
+      "evalb_name": [
+        "學生個別請益",
+        "小組討論"
+      ],
+      "evalb_name_en": [
+        "Individual tutoring",
+        "Group discussion"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CB02113",
+          "sub_id": "00001",
+          "scr_dup": "001",
+          "seq": 5,
+          "strgy_id": "19",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CB02113",
+          "sub_id": "00001",
+          "scr_dup": "001",
+          "seq": 5,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "B3",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CB02113",
+          "sub_id": "00001",
+          "scr_dup": "001",
+          "seq": 5,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "F3",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    }
+  ],
+  "topicSdgs": [],
+  "topicAiIndicators": [],
+  "learnHours": {
+    "total": 15.0,
+    "tpdOnlineAsyTotal": 0.0,
+    "tpdOnlineSynTotal": 0.0,
+    "tpdOnlineFaceTotal": 15.0,
+    "asySynInTotalPercent": 0.0
+  },
+  "crossVerYear": 114
+}

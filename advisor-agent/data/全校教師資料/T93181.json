@@ -1,0 +1,463 @@
+{
+  "teacherId": "T93181",
+  "name": "尤正祺",
+  "mainUnit": "資訊電機學院",
+  "detailUnit": "通訊工程學系",
+  "skill": [
+    "射頻及微波電路RF and Microwave Circuits",
+    "天線Antennas",
+    "微波介電材料Microwave Dielectric Materials"
+  ],
+  "edu": [
+    "國立成功大學 電機工程研究所 博士",
+    "國立成功大學 電機工程研究所 碩士",
+    "逢甲大學 電機工程系 學士"
+  ],
+  "fcuExp": [
+    "積體電路電磁相容研究發展中心 綜合企劃組組長",
+    "資訊電機學院 秘書",
+    "通訊工程學系 系主任",
+    "通訊工程學系(籌備) 兼任副教授",
+    "通訊工程學系 副教授"
+  ],
+  "currjob": [],
+  "otherExp": [
+    "南開技術學院 電腦與通訊學系 副教授",
+    "南開技術學院 電機系 副教授",
+    "南開工商專校 電機科 副教授",
+    "吳鳳工專 電子科 講師",
+    "南開工專 電機科 助教"
+  ],
+  "journal": [
+    {
+      "論文名稱": "Novel Portable 2.4 GHz Antenna Beam Sensor",
+      "期刊名稱": "Sensors and Materials (SCIE)",
+      "作者群": "Ja-Hao Chen*, Yu-Chang Lin, Tai-Chieh Tseng, and Cheng-Chi Yu"
+    },
+    {
+      "論文名稱": "Improved dielectric resonator through Nd substitution in SrLa4Ti4O15 ceramics at microwave frequencies",
+      "期刊名稱": "Ceramics International (SCIE)",
+      "作者群": "Wen-Shiush Chen, Cheng-Chi Yu, Ja-Hao Chen, Jen-Chieh Liu, Cheng-Hsing Hsu, Yu-Cheng Wang"
+    },
+    {
+      "論文名稱": "Temperature coefficient of resonant frequency tuning of microwave dielectric based on Zr substitutions for Ti on Ca0.4Sm0.4TiO3 ceramic system",
+      "期刊名稱": "Journal of Material Science: Mater Electron (SCIE)",
+      "作者群": "Wen-Shiush Chen, Cheng-Chi Yu, Cheng-Hsing Hsu*, and Shang-Hung Tsai"
+    },
+    {
+      "論文名稱": "A Compact Nine-Band Frequency Reconfigurable Antenna for LTE/WWAN/WLAN Handset Applications",
+      "期刊名稱": "Progress In Electromagnetics Research Letters (EI)",
+      "作者群": "Cheng-Chi Yu, Jiin-Hwa Yang, and Hao-Tien Lo"
+    },
+    {
+      "論文名稱": "A Compact Internal Antenna for LTE/WWAN Mobile Phone Applications",
+      "期刊名稱": "Microwave and Optical Technology Letters (SCIE,ECONLIT)",
+      "作者群": "Cheng-Chi Yu, Jiin-Hwa Yang, and Chang-Chih Chen"
+    },
+    {
+      "論文名稱": "Low temperature sintering and microwave dielectric properties of 0.6Ba(Co1/3Nb2/3)O3-0.4Ba(Ni1/3Nb2/3)O3 ceramics using copper additions",
+      "期刊名稱": "Journal of Alloys and Compounds (SCIE,EI)",
+      "作者群": "Cheng-Hsing Hsu, Chuan-Feng Shih, Cheng-Chi Yu, Hsin-Han Tung and Man-Hsiang Chung"
+    },
+    {
+      "論文名稱": "Dual-band Planar Rectangular Ring Microwave Bandpass Filter Using High Permittivity Substrate",
+      "期刊名稱": "Microwave and Optical Technology Letters (SCIE,EI)",
+      "作者群": "Cheng-Hsing Hsu, Chia-Hsien Lin, Sen-Hung Huang, Chung-I G. Hsu, Cheng-Chi Yu, and Hsin-Han Tung"
+    },
+    {
+      "論文名稱": "The effect of sintering temperature and time on microwave properties of Sm(Zn1/2Ti1/2)O3 ceramics for resonators",
+      "期刊名稱": "Ceramics International (SCIE,EI)",
+      "作者群": "Cheng-Hsing Hsu, Hong-Tie Soong, Cheng-Chi Yu, Cheng-Liang Huang and Ming-Ta Kuo"
+    },
+    {
+      "論文名稱": "Miniaturization Microstrip Rectangular Ring Bandpass Filter Using High Permittivity Substrate",
+      "期刊名稱": "Microwave and Optical Technology Letters (SCIE,EI)",
+      "作者群": "Cheng-Hsing Hsu, Hong-Tie Soong, Cheng-Chi Yu, Cheng-Liang Huang and Ming-Ta Kuo"
+    }
+  ],
+  "journal2": [],
+  "conference": [
+    {
+      "論文名稱": "應用於 LTE/WWAN 之雙寬頻平板電腦天線",
+      "會議名稱": "2019全國電信研討會(NST2019)",
+      "作者群": "尤正祺，謝維庭，陳家豪"
+    },
+    {
+      "論文名稱": "A Low-profile Antenna Design for LTE/WWAN Smartphone Application",
+      "會議名稱": "2018 Progress In Electromagnetics Research Symposium (2018 PIERS)",
+      "作者群": "Cheng-Chi Yu, Chien-Yu Huang, Jiin-Hwa Yang, Cheng-Hsing Hsu, and Ja-Hao Chen"
+    },
+    {
+      "論文名稱": "Extremely Compact High Gain 2.4 GHz Antenna with Folded Finger Meander Line Structure",
+      "會議名稱": "2018 Progress In Electromagnetics Research Symposium (2018 PIERS)",
+      "作者群": "Ja-Hao Chen, Yu-Ju Lin, Cheng-Chi Yu, He-Jin Lin, Cheng-Hsing Hsu, and Ching-Fang Tseng"
+    },
+    {
+      "論文名稱": "Design of Mixed C- and F-shaped Monopole Antenna for Multi-band Systems Application",
+      "會議名稱": "2018 Progress In Electromagnetics Research Symposium  (2018 PIERS)",
+      "作者群": "Cheng-Hsing Hsu, Shang-Hung Tsai, Ja-Hao Chen, Cheng-Chi Yu, and Ching-Fang Tseng"
+    },
+    {
+      "論文名稱": "微小化三頻帶通濾波器設計",
+      "會議名稱": "2018全國電信研討會",
+      "作者群": "尤正祺、陳家豪、高晟輝"
+    },
+    {
+      "論文名稱": "Miniaturization Cross-coupled Interdigital Filter Design Using High Permittivity Substrate",
+      "會議名稱": "The 37th PIERS in Shanghai",
+      "作者群": "Cheng-Hsing Hsu*, Cheng-Chi Yu, Ja-Hao Chen, Jen-Chieh Liu, Hsin-Han Tung, Ching-Fang Tseng, Sen-Hung Huang, and Chung-I G. Hsu"
+    },
+    {
+      "論文名稱": "小型化微帶三頻帶通濾波器",
+      "會議名稱": "2016年全國電磁相容技術與實務研討會",
+      "作者群": "李日耀, 尤正祺"
+    },
+    {
+      "論文名稱": "結合均勻與步階阻抗共振器之三頻帶帶通濾波器設計",
+      "會議名稱": "2015光電與通訊工程應用研討會",
+      "作者群": "楊昕諺,尤正祺,黃健羽,黃楷倫"
+    },
+    {
+      "論文名稱": "應用於WWAN/WLAN/LTE之三頻帶通濾波器設計",
+      "會議名稱": "2015光電與通訊工程應用研討會",
+      "作者群": "陳冠宇,尤正祺,黃健羽,黃楷倫"
+    },
+    {
+      "論文名稱": "A Compact Multiband Antenna for LTE/WWAN Mobile Handset",
+      "會議名稱": "2015 Asia-Pacific International Symposium on Electromagnetic Compatibility (APEMC 2015)",
+      "作者群": "Hao-Tien Lo,Cheng-Chi Yu,Chang-Kai Liao,Jiin-Hwa Yang, Huan-Wun Liou"
+    },
+    {
+      "論文名稱": "應用於LTE/WWAN/WLAN多頻帶手機天線",
+      "會議名稱": "2014 年全國電磁相容技術與實務研討會",
+      "作者群": "劉煥文,尤正祺,廖章凱,謝智先"
+    },
+    {
+      "論文名稱": "四頻帶通濾波器",
+      "會議名稱": "2013全國電磁相容技術與實務研討會暨展示會",
+      "作者群": "徐子祥、尤正祺"
+    },
+    {
+      "論文名稱": "應用於WWAN/WLAN/LTE之單平面多頻手機天線",
+      "會議名稱": "2013全國電磁相容技術與實務研討會暨展示會",
+      "作者群": "廖章凱、尤正祺、黃宗予、謝智先"
+    },
+    {
+      "論文名稱": "應用於GSM/DCS/WLAN之多頻平面天線",
+      "會議名稱": "2012全國電信研討會(NST2012)",
+      "作者群": "羅皓天,尤正祺,施邵昀,簡育斌"
+    },
+    {
+      "論文名稱": "應用於GSM/UMTS/WLAN/LTE 之多頻平面天線",
+      "會議名稱": "2012全國電磁相容技術與實務研討會",
+      "作者群": "施邵昀,尤正祺,陳義仁,簡育斌"
+    },
+    {
+      "論文名稱": "LTE MIMO 多頻帶手機天線",
+      "會議名稱": "2012全國電磁相容技術與實務研討會",
+      "作者群": "陳義仁,尤正祺,楊錦華"
+    },
+    {
+      "論文名稱": "三頻帶通濾波器之設計",
+      "會議名稱": "2012全國電磁相容技術與實務研討會",
+      "作者群": "徐子祥、尤正祺、謝文昭、李恆毅、羅?天"
+    },
+    {
+      "論文名稱": "應用於無線通訊之雙頻帶通濾波器",
+      "會議名稱": "2012全國電磁相容技術與實務研討會",
+      "作者群": "高慶宇、尤正祺、謝文昭、顏于舜、曾瀚寬"
+    },
+    {
+      "論文名稱": "微小化多頻帶手機天線",
+      "會議名稱": "2012智慧生活科技研討會(2012 ILT)",
+      "作者群": "陳義仁,尤正祺,楊錦華"
+    },
+    {
+      "論文名稱": "應用於GSM/UMTS/WLAN/LTE/Zigbee/RFID之多頻平面天線",
+      "會議名稱": "2012智慧生活科技研討會(2012 ILT)",
+      "作者群": "施邵昀,尤正祺,陳義仁,謝文昭"
+    },
+    {
+      "論文名稱": "應用於多頻操作之平面手機天線",
+      "會議名稱": "2011全國電信研討會(NST2011)",
+      "作者群": "周亭君,尤正祺,楊錦華,王昱傑"
+    },
+    {
+      "論文名稱": "小型化平面多頻手機天線",
+      "會議名稱": "2011全國電信研討會(NST2011)",
+      "作者群": "王昱傑,尤正祺,陳長志,謝智先"
+    },
+    {
+      "論文名稱": "應用於無線網路之雙頻帶通濾波器設計",
+      "會議名稱": "2011民生電子研討會(2011 Workshop on Consumer Electronics)",
+      "作者群": "黃秋月,尤正祺,謝文昭,李恆毅"
+    },
+    {
+      "論文名稱": "應用於筆記型電腦之多頻天線",
+      "會議名稱": "2011民生電子研討會(2011 Workshop on Consumer Electronics)",
+      "作者群": "謝智先,尤正祺,楊錦華,周亭君"
+    },
+    {
+      "論文名稱": "A Low-voltage and Low-power Low Noise Amplifier for Ku-band Application",
+      "會議名稱": "2011 Progress In Electromagnetics Research Symposium (PIERS 2011)",
+      "作者群": "Cheng-Chi Yu, Jiin-Hwa Yang, Lien-Chi Su, Heng-Yi Lee, and Chang-Chih Chen"
+    },
+    {
+      "論文名稱": "A Compact Printed Multi-band Antenna for Laptop Applications",
+      "會議名稱": "2011 Progress In Electromagnetics Research Symposium (PIERS 2011)",
+      "作者群": "Cheng-Chi Yu, Jiin-Hwa Yang, Chang-Chih Chen, and Wen-Chao Hsieh"
+    },
+    {
+      "論文名稱": "A Broadband Low Noise Amplifier for X-band Applications",
+      "會議名稱": "2011 Progress In Electromagnetics Research Symposium (PIERS 2011)",
+      "作者群": "Cheng-Chi Yu, Jiin-Hwa Yang, Hsiao-Hua Yeh, and Lien-Chi Su"
+    },
+    {
+      "論文名稱": "應用於GSM/PCS/WLAN/WiMAX之多頻帶手機天線",
+      "會議名稱": "2011全國電磁相容技術與實務研討會",
+      "作者群": "陳義仁,尤正祺,陳長志,李恆毅"
+    },
+    {
+      "論文名稱": "電磁能隙結構應用於提高天線效能之研究",
+      "會議名稱": "2011全國電磁相容技術與實務研討會",
+      "作者群": "楊錦華,尤正祺,黃盟翔,蘇廉淇"
+    },
+    {
+      "論文名稱": "多頻帶USB Dongle天線設計",
+      "會議名稱": "2011全國電磁相容技術與實務研討會",
+      "作者群": "黃秋月,尤正祺,陳長志,楊錦華"
+    },
+    {
+      "論文名稱": "大環境倫理課程的建構實施與省思-以逢甲大學電機系為例",
+      "會議名稱": "2011新世紀生命教育之願景與實踐研討會",
+      "作者群": "梁寶芝*、李瑞陽、許少華、陳志強、尤正祺"
+    },
+    {
+      "論文名稱": "小型化平面多頻天線",
+      "會議名稱": "2010全國電信研討會(NST2010)",
+      "作者群": "郭士慶,尤正祺, 陳長志, 楊錦華, 蘇廉淇"
+    },
+    {
+      "論文名稱": "應用於WLAN/WiMAX之微小化平面三頻帶通濾波器",
+      "會議名稱": "2010民生電子研討會(WCE2010)",
+      "作者群": "郭士慶,尤正祺,蘇廉淇,尤俊源"
+    },
+    {
+      "論文名稱": "應用於WLAN/WiMAX之平面三頻單極天線",
+      "會議名稱": "2010民生電子研討會(WCE2010)",
+      "作者群": "郭士慶,尤正祺, 陳長志, 楊錦華"
+    },
+    {
+      "論文名稱": "應用於行動通訊裝置之多頻帶立體單極天線",
+      "會議名稱": "2011全國電磁相容技術與實務研討會",
+      "作者群": "陳光杰,尤正祺,楊錦華,謝文昭"
+    },
+    {
+      "論文名稱": "應用於筆記型電腦之平面多頻天線",
+      "會議名稱": "2010電子通訊與應用研討會(2010 CECA)",
+      "作者群": "陳長志,尤正祺,楊錦華,翁崇漢,蘇廉淇"
+    },
+    {
+      "論文名稱": "應用於汽車雷達裝置之低雜訊放大器",
+      "會議名稱": "2010電子通訊與應用研討會(2010 CECA)",
+      "作者群": "葉筱樺,尤正祺,楊錦華,翁崇漢,陳長志"
+    },
+    {
+      "論文名稱": "可應用於多層電路板之新型電磁帶隙結構設計",
+      "會議名稱": "2010全國電磁相容技術與實務研討會",
+      "作者群": "翁崇漢,尤正祺,葉筱樺,陳長志,蘇廉淇"
+    },
+    {
+      "論文名稱": "小型化平面多頻天線",
+      "會議名稱": "2010全國電磁相容技術與實務研討會",
+      "作者群": "陳長志,尤正祺,楊錦華,葉筱樺,蘇廉淇"
+    },
+    {
+      "論文名稱": "應用於WLAN/WiMAX之多頻天線",
+      "會議名稱": "2009 National Symposium on Telecommunications",
+      "作者群": "盧盈維,尤正祺,黃盟翔,張耀天,葉筱樺"
+    },
+    {
+      "論文名稱": "應用於無線區域網路之小型化平面天線",
+      "會議名稱": "2009 National Symposium on Telecommunications",
+      "作者群": "陳英全,尤正祺,黃盟翔,張耀天,翁崇漢"
+    },
+    {
+      "論文名稱": "結合開關電路之射頻低雜訊放大器設計",
+      "會議名稱": "2010電子通訊與應用研討會(2010 CECA)",
+      "作者群": "蘇廉淇,尤正祺,張耀天,葉筱樺"
+    },
+    {
+      "論文名稱": "Design of a SiGe BiCMOS Power Amplifier for WiMAX Application",
+      "會議名稱": "2009 Progress In Electromagnetics Research Symposium (PIERS 2009)",
+      "作者群": "Cheng-Chi Yu, Yao-Tien Chang, Meng-Hsiang Huang, Luen-Kang Lin, Hsiao-Hua Yeh"
+    },
+    {
+      "論文名稱": "A Novel Electromagnetic Bandgap (EBG) Structure for Electromagnetic Compatibility (EMC) Application",
+      "會議名稱": "2009 Progress In Electromagnetics Research Symposium (PIERS 2009)",
+      "作者群": "Cheng-Chi Yu, Meng-Hsiang Huang, Yao-Tien Chang, Luen-Kang Lin,Tsung-Han Weng"
+    },
+    {
+      "論文名稱": "A Compact Antenna Based on Metamaterial for WiMAX",
+      "會議名稱": "2008 Asia Pacific Microwave Conference (APMC 2008)",
+      "作者群": "Cheng-Chi Yu, Luen-Kang Lin, Meng-Hsiang Huang and Yao-Tien Chang"
+    },
+    {
+      "論文名稱": "EBG結構於電磁相容之應用",
+      "會議名稱": "2008 National Symposium on Telecommunications (全國電信研討會)",
+      "作者群": "黃盟翔,尤正祺,張耀天,林綸康"
+    },
+    {
+      "論文名稱": "A novel electromagnetic bandgap (EBG) structure and its application for mutual coupling reduction",
+      "會議名稱": "International Symposium on Antennas  and Propagation (ISAP)",
+      "作者群": "Luen-Kang Lin, Cheng-Chi Yu, Yao-Tien Chang, Meng-Hsiang Huang"
+    },
+    {
+      "論文名稱": "應用於超寬頻無線接收器1 GHz-11 GHz高增益低雜訊放大器",
+      "會議名稱": "2008海峽兩岸三地無線科技研討會",
+      "作者群": "張耀天,尤正祺,林綸康,黃盟翔"
+    },
+    {
+      "論文名稱": "應用於無線通訊系統的新型EBG結構",
+      "會議名稱": "2008全國電磁相容技術與實務研討會",
+      "作者群": "黃盟翔,尤正祺,林綸康,張耀天"
+    },
+    {
+      "論文名稱": "共平面波導UWB超寬頻天線之研究",
+      "會議名稱": "2007全國電磁相容技術與實務研討會",
+      "作者群": "雷良煥, 尤正祺"
+    },
+    {
+      "論文名稱": "微小化微波寬頻帶通濾波器設計",
+      "會議名稱": "2007全國電磁相容技術與實務研討會",
+      "作者群": "吳東峰, 尤正祺"
+    },
+    {
+      "論文名稱": "A novel compact electromagnetic-bandgap (EBG) structure",
+      "會議名稱": "2007全國電磁相容技術與實務研討會",
+      "作者群": "Luen-Kang Lin, Cheng-Chi Yu"
+    },
+    {
+      "論文名稱": "Design of Microwave Bandpass Filter Using Defected Microstrip Structure",
+      "會議名稱": "2006 National Symposium on Telecommunications",
+      "作者群": "Cheng-Chi Yu, Cheng-Hsing Hsu, Chun-Yuan Yu and Luen-Kang Lin"
+    },
+    {
+      "論文名稱": "Photonic bandgap (PBG) structure for microwave filter applications",
+      "會議名稱": "Conference on Electronic Communication and Applications",
+      "作者群": "C.C. Yu and C.Y. Yu"
+    }
+  ],
+  "book": [],
+  "patent": [
+    {
+      "title": "新型",
+      "desc": "鉚接企眼之手動工具結構"
+    }
+  ],
+  "most": [
+    {
+      "name": "多頻高隔離度5G手機MIMO天線",
+      "schoolYear": "113"
+    },
+    {
+      "name": "應用於筆記型電腦之小型Wi-Fi 6E MIMO天線陣列",
+      "schoolYear": "113"
+    },
+    {
+      "name": "應用於5G行動裝置之Sub-6GHz頻段天線陣列",
+      "schoolYear": "108"
+    },
+    {
+      "name": "應用於LTE/WWAN行動裝置之小型化可重構天線",
+      "schoolYear": "105"
+    },
+    {
+      "name": "應用於Ku頻帶CMOS 0.18um寬頻低雜訊放大器研製",
+      "schoolYear": "100"
+    }
+  ],
+  "tech": [],
+  "induAca": [
+    "教育部5G行動寬頻課程推廣計畫(第2期)—寬頻收發關鍵技術課程模組「微波電路分析」 (2022-02 to 2023-01)",
+    "網路通訊人才培育先導型計畫-102年度重點領域學程推廣計畫 (2013-02 to 2014-01)",
+    "4.5-6.0GHz寬頻帶通濾波器之研製 (2012-06 to 2012-11)",
+    "101年度「網路通訊重點領域學程推廣計畫」--數位通訊學程 (2012-02 to 2013-01)",
+    "網路通訊人才培育先導型計畫-101年度重點領域學程推廣計畫 (2012-02 to 2013-01)",
+    "RD1000船用FMCW雷達 (2011-09 to 2012-01)",
+    "微波寬頻濾波器模組設計之研製 (2011-08 to 2011-12)",
+    "車用IC EMC/SI/PI之檢測標準、研討會、PCB EMC設計競賽委辦計畫 (2009-04 to 2009-11)",
+    "高科技專利取得與攻防課程推廣計畫_工程專利撰寫實務 (2007-09 to 2008-08)"
+  ],
+  "perform": [],
+  "reward": [
+    "逢甲大學論文著作獎勵傑出獎 (113, 2024-11) - 逢甲大學",
+    "111學年度教學績優獎 (111, 2022-11) - 逢甲大學",
+    "109學年度教學績優獎 (109, 2020-11) - 逢甲大學",
+    "107學年度教學績優獎 (107, 2018-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (107, 2018-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (107, 2018-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (106, 2017-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (106, 2017-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (101, 2012-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (100, 2011-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (98, 2009-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (97, 2008-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (97, 2008-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (96, 2007-11) - 逢甲大學"
+  ],
+  "speech": [
+    {
+      "演講題目": "漫談行動通訊系統",
+      "邀請單位": "聯合大學電機工程系",
+      "演講日期": "2011-11"
+    },
+    {
+      "演講題目": "Antennas for mobile communications",
+      "邀請單位": "暨南大學通訊所",
+      "演講日期": "2010-05"
+    },
+    {
+      "演講題目": "Antennas for Mobile Communications",
+      "邀請單位": "東海大學電機系",
+      "演講日期": "2009-11"
+    },
+    {
+      "演講題目": "漫談科技專利",
+      "邀請單位": "聯合大學電機系",
+      "演講日期": "2009-10"
+    },
+    {
+      "演講題目": "應用於無線通訊之微帶天線",
+      "邀請單位": "南開科技大學電機所",
+      "演講日期": "2008-09"
+    },
+    {
+      "演講題目": "應用於無線通訊之平面天線",
+      "邀請單位": "龍華科技大學電機系",
+      "演講日期": "2008-09"
+    },
+    {
+      "演講題目": "IEET認證經驗",
+      "邀請單位": "南開技術學院",
+      "演講日期": "2008-06"
+    },
+    {
+      "演講題目": "漫談資電科技",
+      "邀請單位": "衛道中學",
+      "演講日期": "2008-04"
+    },
+    {
+      "演講題目": "微波量測技術",
+      "邀請單位": "南開技術學院",
+      "演講日期": "2006-02"
+    },
+    {
+      "演講題目": "應用於無線通訊的微波濾波器",
+      "邀請單位": "逢甲大學通訊工程系",
+      "演講日期": "2004-06"
+    }
+  ],
+  "material": [],
+  "tal": []
+}

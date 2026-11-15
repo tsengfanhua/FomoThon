@@ -1,0 +1,660 @@
+{
+  "success": true,
+  "info": {
+    "yms_year": 114.0,
+    "yms_smester": 1.0,
+    "sub_id": "62555",
+    "cls_id": "CM02122",
+    "scr_dup": "001",
+    "sub_id3": "TLOG2025P",
+    "cls_name": "運輸物流二乙",
+    "cls_ename": "Department of Transportation and Logistics",
+    "sub_name": "數量方法實習",
+    "sub_ename": "PRACTICE OF QUANTITATIVE METHODS",
+    "scr_mso": "必修",
+    "scr_mso_en": "Required",
+    "scr_credit": 0.0,
+    "scr_periodly": "(三)10",
+    "scr_periodly_eng": "(Wed)10",
+    "lang_name": "中文                                                      ",
+    "lang_ename": "Chinese",
+    "scr_room": "紀105",
+    "scr_room_eng": "CMB105",
+    "scr_teacher": "郭仲偉",
+    "scr_teacher_eng": "Chung-Wei Kuo",
+    "scr_selcode": "2330",
+    "scr_elearning": "全學期",
+    "scr_elearning_en": "Full semester",
+    "scr_hours": "1",
+    "scr_english": "N",
+    "unt_name": null,
+    "unt_ename": null,
+    "link_traminal": null,
+    "link_traminal_en": null,
+    "scr_ldl": "D",
+    "course_mk": "N",
+    "teams_mk": "N",
+    "sub_title": null,
+    "sub_title_en": null,
+    "sub_describe": null,
+    "sub_describe_en": null,
+    "hasDescription": null,
+    "hasInstructor": null,
+    "hasTA": null,
+    "hasTextBooks": null,
+    "hasReadings": null,
+    "hasiSoftwares": null,
+    "hasAssistSoftwares": null,
+    "hasObjective": null,
+    "hasWeeklyScds": null,
+    "hasGradeRules": null,
+    "hasGradeRuleDescribe": null,
+    "hasIntegrity": null,
+    "hasCoursePol": null,
+    "hasCourseRem": null,
+    "hasObjectiveReleation": null,
+    "hasTopicSdgs": null,
+    "hasSubTitleDesc": null
+  },
+  "subTitleDesc": null,
+  "description": {
+    "sub_id3": null,
+    "sub_name": "數量方法實習",
+    "sub_ename": "PRACTICE OF QUANTITATIVE METHODS",
+    "describe_ch": "本課程旨在教授學生運輸與物流系統的規劃、設計理論與實務概念，並培養他們運用數據調查、數據分析或數學模型解決相關問題的能力。透過實習演練方式，以提升學生運用數量方法解決運輸與物流問題的能力。",
+    "describe_eh": "This course aims to provide students with an understanding of the planning, design theory, and practical concepts associated with transportation and logistics systems, while fostering their capacity to employ data investigation, data analysis, or mathematical models to tackle relevant challenges. Through hands-on exercises, the course endeavors to improve students' proficiency in applying quantitative methods to solve transportation and logistics issues.",
+    "pre_subname": "",
+    "pre_sub_id3": null,
+    "pre_sub_ename": "",
+    "pre_describe": null,
+    "pre_describe_en": null,
+    "scr_credit": 0.0
+  },
+  "targets": [
+    {
+      "seq": 1,
+      "describe_ch": "教授各運輸或物流系統之規劃、設計理論與實務概念",
+      "describe_en": "Instructing on the planning, design theory, and practical concepts pertaining to diverse transportation or logistics systems."
+    },
+    {
+      "seq": 2,
+      "describe_ch": "培養學生運用資料調查、數據分析或數學模型分析運輸或物流問題之能力",
+      "describe_en": "Nurturing students' proficiency in employing data investigation, data analysis, or mathematical models to analyze transportation or logistics issues."
+    },
+    {
+      "seq": 3,
+      "describe_ch": "培養學生獨立或透過團隊合作解決專業問題之能力",
+      "describe_en": "Fostering students' capability to autonomously or collaboratively address professional challenges through teamwork."
+    }
+  ],
+  "teachersInfo": [
+    {
+      "cname": "郭仲偉",
+      "ename": "Chung-Wei Kuo",
+      "period": "(Tue)06-07 紀520,(Tue)08  紀520,(Wed)06-07 紀520,(Wed)08  紀520",
+      "roletype": 0,
+      "email": "cweikuo@o365.fcu.edu.tw",
+      "ext": "4664"
+    },
+    {
+      "cname": "林維熠",
+      "ename": "LIN,WEI-YI",
+      "period": " ",
+      "roletype": 1,
+      "email": "m1216116@o365.fcu.edu.tw",
+      "ext": " "
+    }
+  ],
+  "textBooks": {
+    "yms_year": 114.0,
+    "yms_smester": 1.0,
+    "cls_id": "CM02122",
+    "sub_id": "62555",
+    "scr_dup": "001",
+    "tpb_seq": 1,
+    "tpb_book": "<div>戴久永(2022)，管理數學，第四版，台北：滄海圖書。</div>\n\n<div>&nbsp;</div>\n\n<div>&nbsp;</div>\n\n<div>&nbsp;</div>\n",
+    "tpb_book_en": null
+  },
+  "readings": {
+    "yms_year": 114.0,
+    "yms_smester": 1.0,
+    "cls_id": "CM02122",
+    "sub_id": "62555",
+    "scr_dup": "001",
+    "tpc_seq": 1,
+    "tpc_book": "<div>趙可南<u>(2012)</u>，管理數學，第11版，台北：滄海圖書。</div>\n",
+    "tpc_book_en": null
+  },
+  "iSoftwares": [],
+  "assistSoftwares": [],
+  "weeklyScds": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CM02122",
+      "sub_id": "62555",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "1",
+      "tpd_reading": "<div>課程說明</div>\n\n<div>&nbsp;</div>\n\n<div>&nbsp;</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": " ",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CM02122",
+      "sub_id": "62555",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "2-5",
+      "tpd_reading": "<div>線性方程式與矩陣練習</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": " ",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CM02122",
+      "sub_id": "62555",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "6-10",
+      "tpd_reading": "<div>線性規劃練習</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": " ",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CM02122",
+      "sub_id": "62555",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "11-12",
+      "tpd_reading": "<div>運輸問題練習</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": " ",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": " ",
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CM02122",
+      "sub_id": "62555",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "13",
+      "tpd_reading": "<div>指派問題練習</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": " ",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CM02122",
+      "sub_id": "62555",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "14-16",
+      "tpd_reading": "<div>機率練習</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": " ",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": "期末考將在16週舉行，若遇放假則提前一周",
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CM02122",
+      "sub_id": "62555",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "17-18",
+      "tpd_reading": "<div>學習延伸週</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": " ",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    }
+  ],
+  "gradeRules": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CM02122",
+      "sub_id": "62555",
+      "scr_dup": "001",
+      "evalb_id": "D3",
+      "score_rate": 60,
+      "evalb_memo": "課堂繳交作業",
+      "evalb_memo_en": null,
+      "evalb_name": "隨堂測驗",
+      "evalb_name_en": "In-class examination",
+      "seq": 1
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CM02122",
+      "sub_id": "62555",
+      "scr_dup": "001",
+      "evalb_id": "D4",
+      "score_rate": 20,
+      "evalb_memo": "作業",
+      "evalb_memo_en": null,
+      "evalb_name": "作業",
+      "evalb_name_en": "Homework",
+      "seq": 2
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CM02122",
+      "sub_id": "62555",
+      "scr_dup": "001",
+      "evalb_id": "L4",
+      "score_rate": 20,
+      "evalb_memo": "出席率",
+      "evalb_memo_en": null,
+      "evalb_name": "出席狀況",
+      "evalb_name_en": "Attendances",
+      "seq": 3
+    }
+  ],
+  "gradeRuleDescribe": {
+    "yms_year": 114.0,
+    "yms_smester": 1.0,
+    "cls_id": "CM02122",
+    "sub_id": "62555",
+    "scr_dup": "001",
+    "tpa_score_new": "<div>依照上課表現與考試評定</div>\n",
+    "tpa_score_new_en": null,
+    "course_pol": "1.請遵守智慧財產權觀念，不得非法影印教科書。\n2.考試、作業、出席狀況應避免抄襲、作弊、捏造及不當協同合作等。\n3.出席成績採扣分制，每次不到扣平時分數5分，8次缺課以平時分數以零分計算。\n4,若須請假依程序完成請假手續。(請假請於日期前後兩天內完成為原則)",
+    "course_pol_en": null,
+    "course_rem": "1.請遵守智慧財產權觀念，不得非法影印教科書。\n2.考試、作業、出席狀況應避免抄襲、作弊、捏造及不當協同合作等。\n3.出席成績採扣分制，每次不到扣平時分數5分，8次缺課以平時分數以零分計算。\n4,若須請假依程序完成請假手續。",
+    "course_rem_en": null,
+    "ais_meno": "<div>1.請遵守智慧財產權觀念，不得非法影印教科書。</div>\n\n<div>2.考試、作業、出席狀況應避免抄襲、作弊、捏造及不當協同合作等。</div>\n\n<div>3.秉持開放的心態與他人互動。</div>\n\n<div>4.評論事情時應盡量保持客觀與理性。</div>\n\n<div>&nbsp;</div>\n\n<div>&nbsp;</div>\n\n<div>&nbsp;</div>\n",
+    "ais_meno_en": null,
+    "ilearn_mk": null
+  },
+  "integrity": {
+    "yms_year": 114.0,
+    "yms_smester": 1.0,
+    "cls_id": "CM02122",
+    "sub_id": "62555",
+    "scr_dup": "001",
+    "tpa_score_new": "<div>依照上課表現與考試評定</div>\n",
+    "tpa_score_new_en": null,
+    "course_pol": "1.請遵守智慧財產權觀念，不得非法影印教科書。\n2.考試、作業、出席狀況應避免抄襲、作弊、捏造及不當協同合作等。\n3.出席成績採扣分制，每次不到扣平時分數5分，8次缺課以平時分數以零分計算。\n4,若須請假依程序完成請假手續。(請假請於日期前後兩天內完成為原則)",
+    "course_pol_en": null,
+    "course_rem": "1.請遵守智慧財產權觀念，不得非法影印教科書。\n2.考試、作業、出席狀況應避免抄襲、作弊、捏造及不當協同合作等。\n3.出席成績採扣分制，每次不到扣平時分數5分，8次缺課以平時分數以零分計算。\n4,若須請假依程序完成請假手續。",
+    "course_rem_en": null,
+    "ais_meno": "<div>1.請遵守智慧財產權觀念，不得非法影印教科書。</div>\n\n<div>2.考試、作業、出席狀況應避免抄襲、作弊、捏造及不當協同合作等。</div>\n\n<div>3.秉持開放的心態與他人互動。</div>\n\n<div>4.評論事情時應盡量保持客觀與理性。</div>\n\n<div>&nbsp;</div>\n\n<div>&nbsp;</div>\n\n<div>&nbsp;</div>\n",
+    "ais_meno_en": null,
+    "ilearn_mk": null
+  },
+  "policy": {
+    "yms_year": 114.0,
+    "yms_smester": 1.0,
+    "cls_id": "CM02122",
+    "sub_id": "62555",
+    "scr_dup": "001",
+    "tpa_score_new": "<div>依照上課表現與考試評定</div>\n",
+    "tpa_score_new_en": null,
+    "course_pol": "1.請遵守智慧財產權觀念，不得非法影印教科書。\n2.考試、作業、出席狀況應避免抄襲、作弊、捏造及不當協同合作等。\n3.出席成績採扣分制，每次不到扣平時分數5分，8次缺課以平時分數以零分計算。\n4,若須請假依程序完成請假手續。(請假請於日期前後兩天內完成為原則)",
+    "course_pol_en": null,
+    "course_rem": "1.請遵守智慧財產權觀念，不得非法影印教科書。\n2.考試、作業、出席狀況應避免抄襲、作弊、捏造及不當協同合作等。\n3.出席成績採扣分制，每次不到扣平時分數5分，8次缺課以平時分數以零分計算。\n4,若須請假依程序完成請假手續。",
+    "course_rem_en": null,
+    "ais_meno": "<div>1.請遵守智慧財產權觀念，不得非法影印教科書。</div>\n\n<div>2.考試、作業、出席狀況應避免抄襲、作弊、捏造及不當協同合作等。</div>\n\n<div>3.秉持開放的心態與他人互動。</div>\n\n<div>4.評論事情時應盡量保持客觀與理性。</div>\n\n<div>&nbsp;</div>\n\n<div>&nbsp;</div>\n\n<div>&nbsp;</div>\n",
+    "ais_meno_en": null,
+    "ilearn_mk": null
+  },
+  "courseBankC": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CM02122",
+      "sub_id": "62555",
+      "scr_dup": "001",
+      "seq": 1,
+      "describe_ch": "教授各運輸或物流系統之規劃、設計理論與實務概念",
+      "describe_en": "Instructing on the planning, design theory, and practical concepts pertaining to diverse transportation or logistics systems.",
+      "core_id": "A",
+      "core_item": "具備運輸與物流知識、解析時事議題、創新思考及運用專業知識解決問題之能力",
+      "core_eng": "Knowledge of transportation and logistics, ability to resolve current issues, think creatively and apply professional knowledge to solve problems.",
+      "core_level": "1 ",
+      "strgy": [
+        "01"
+      ],
+      "evalb": [
+        "L3"
+      ],
+      "strgy_name": [
+        "課堂授課"
+      ],
+      "strgy_name_en": [
+        "Classroom instruction"
+      ],
+      "evalb_name": [
+        "課堂討論參與"
+      ],
+      "evalb_name_en": [
+        "Participation"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CM02122",
+          "sub_id": "62555",
+          "scr_dup": "001",
+          "seq": 1,
+          "strgy_id": "01",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CM02122",
+          "sub_id": "62555",
+          "scr_dup": "001",
+          "seq": 1,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "L3",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CM02122",
+      "sub_id": "62555",
+      "scr_dup": "001",
+      "seq": 2,
+      "describe_ch": "培養學生運用資料調查、數據分析或數學模型分析運輸或物流問題之能力",
+      "describe_en": "Nurturing students' proficiency in employing data investigation, data analysis, or mathematical models to analyze transportation or logistics issues.",
+      "core_id": "B",
+      "core_item": "具備運用資訊技術及各項專業技能 ，蒐集、分析與解釋數據之能力",
+      "core_eng": "Ability to use information technology and various professional skills to collect, analyze and interpret data.",
+      "core_level": "3 ",
+      "strgy": [
+        "01"
+      ],
+      "evalb": [
+        "D1",
+        "D2"
+      ],
+      "strgy_name": [
+        "課堂授課"
+      ],
+      "strgy_name_en": [
+        "Classroom instruction"
+      ],
+      "evalb_name": [
+        "期中考",
+        "期末考"
+      ],
+      "evalb_name_en": [
+        "Midterm examination",
+        "Final examination"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CM02122",
+          "sub_id": "62555",
+          "scr_dup": "001",
+          "seq": 2,
+          "strgy_id": "01",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CM02122",
+          "sub_id": "62555",
+          "scr_dup": "001",
+          "seq": 2,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D1",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CM02122",
+          "sub_id": "62555",
+          "scr_dup": "001",
+          "seq": 2,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D2",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CM02122",
+      "sub_id": "62555",
+      "scr_dup": "001",
+      "seq": 3,
+      "describe_ch": "培養學生獨立或透過團隊合作解決專業問題之能力",
+      "describe_en": "Fostering students' capability to autonomously or collaboratively address professional challenges through teamwork.",
+      "core_id": "C",
+      "core_item": "具備專案管理、口語與文字之溝通表達及團隊合作能力",
+      "core_eng": "Project management, effective communication and teamwork skills.",
+      "core_level": "6 ",
+      "strgy": [
+        "10"
+      ],
+      "evalb": [
+        "K2"
+      ],
+      "strgy_name": [
+        "小組討論及活動"
+      ],
+      "strgy_name_en": [
+        "Group activity & discussion"
+      ],
+      "evalb_name": [
+        "口頭報告"
+      ],
+      "evalb_name_en": [
+        "Oral presentation"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CM02122",
+          "sub_id": "62555",
+          "scr_dup": "001",
+          "seq": 3,
+          "strgy_id": "10",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CM02122",
+          "sub_id": "62555",
+          "scr_dup": "001",
+          "seq": 3,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "K2",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    }
+  ],
+  "topicSdgs": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CM02122",
+      "sub_id": "62555",
+      "scr_dup": "001",
+      "sdgs_seq": 4,
+      "main_related": "Y",
+      "ind_related": "N",
+      "iss_name": "社會進步面",
+      "iss_ename": "Social Progress",
+      "content_name": "提供全民教育",
+      "content_ename": "Quality Education"
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CM02122",
+      "sub_id": "62555",
+      "scr_dup": "001",
+      "sdgs_seq": 13,
+      "main_related": "N",
+      "ind_related": "Y",
+      "iss_name": "環境保護面",
+      "iss_ename": "Environmental Protection",
+      "content_name": "永續通勤與居住環境",
+      "content_ename": "Sustainable Cities and Communities"
+    }
+  ],
+  "learnHours": {
+    "total": 0.0,
+    "tpdOnlineAsyTotal": 0.0,
+    "tpdOnlineSynTotal": 0.0,
+    "tpdOnlineFaceTotal": 0.0,
+    "asySynInTotalPercent": 0.0
+  },
+  "crossVerYear": 114
+}

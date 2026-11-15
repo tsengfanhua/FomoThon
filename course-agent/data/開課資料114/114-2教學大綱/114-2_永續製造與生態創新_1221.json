@@ -1,0 +1,813 @@
+{
+  "success": true,
+  "info": {
+    "yms_year": 114.0,
+    "yms_smester": 2.0,
+    "sub_id": "08429",
+    "cls_id": "CE06310",
+    "scr_dup": "001",
+    "sub_id3": "INEN6073",
+    "cls_name": "工業碩一",
+    "cls_ename": "Master's Program, Department of Industrial Engineering and Systems Management",
+    "sub_name": "永續製造與生態創新",
+    "sub_ename": "SUSTAINABLE MANUFACTURING AND ECO-INNOVATION",
+    "scr_mso": "選修",
+    "scr_mso_en": "Elective",
+    "scr_credit": 1.0,
+    "scr_periodly": "(四)02",
+    "scr_periodly_eng": "(Thu)02",
+    "lang_name": "英語                                                      ",
+    "lang_ename": "English",
+    "scr_room": "工509",
+    "scr_room_eng": "EGB509",
+    "scr_teacher": "陳兆衡",
+    "scr_teacher_eng": "Siu-Hang Chan",
+    "scr_selcode": "1221",
+    "scr_elearning": "全學期",
+    "scr_elearning_en": "Full semester",
+    "scr_hours": "1",
+    "scr_english": "Y",
+    "unt_name": null,
+    "unt_ename": null,
+    "link_traminal": null,
+    "link_traminal_en": null,
+    "scr_ldl": "D",
+    "course_mk": "0",
+    "teams_mk": "N",
+    "sub_title": null,
+    "sub_title_en": null,
+    "sub_describe": null,
+    "sub_describe_en": null,
+    "hasDescription": null,
+    "hasInstructor": null,
+    "hasTA": null,
+    "hasTextBooks": null,
+    "hasReadings": null,
+    "hasiSoftwares": null,
+    "hasAssistSoftwares": null,
+    "hasObjective": null,
+    "hasWeeklyScds": null,
+    "hasGradeRules": null,
+    "hasGradeRuleDescribe": null,
+    "hasIntegrity": null,
+    "hasCoursePol": null,
+    "hasCourseRem": null,
+    "hasObjectiveReleation": null,
+    "hasTopicSdgs": null,
+    "hasTopicAiIndicators": null,
+    "hasSubTitleDesc": null
+  },
+  "subTitleDesc": null,
+  "description": {
+    "sub_id3": null,
+    "sub_name": "永續製造與生態創新",
+    "sub_ename": "SUSTAINABLE MANUFACTURING AND ECO-INNOVATION",
+    "describe_ch": "為了發展永續的社會，工業和服務業需要了解如何應對環境，經濟和社會挑戰以及改變工業行為。課程介紹了該領域當前的思想和知識，並介紹了加速向永續工業體系過渡的途徑。課程將以英語進行。",
+    "describe_eh": " To develop more sustainable societies, industries and service sectors need to better understand how to respond to environmental, economic and social challenges and transform industrial behavior. The course addresses current thinking and knowledge in this area, and introduces tools that accelerate the transition towards a sustainable industrial system. The course will be conducted in English.",
+    "pre_subname": "",
+    "pre_sub_id3": null,
+    "pre_sub_ename": "",
+    "pre_describe": null,
+    "pre_describe_en": null,
+    "scr_credit": 1.0
+  },
+  "targets": [
+    {
+      "seq": 1,
+      "describe_ch": " 能夠運用課堂所學理論於實務及具有國際觀。",
+      "describe_en": " Able to apply relevant theory in practice and have an international view."
+    },
+    {
+      "seq": 2,
+      "describe_ch": "強化英語溝通、協調及提升將來升學或就業競爭力。",
+      "describe_en": "To strengthen communication, coordination and enhancing the competitiveness of future studies or employment in English."
+    },
+    {
+      "seq": 3,
+      "describe_ch": "強調跨領域整合方式，增進團隊合作能力。",
+      "describe_en": "To emphasis on the integration of cross-disciplines and to strengthen students'capability of creative research and team work\r\n"
+    },
+    {
+      "seq": 4,
+      "describe_ch": ".具有應用研究成果之整合能力並理解專業倫理與國際觀。",
+      "describe_en": "Able to integrate applied research results and understand professional ethics and international outlook."
+    }
+  ],
+  "teachersInfo": [
+    {
+      "cname": "陳兆衡",
+      "ename": "Siu-Hang Chan",
+      "period": "(Wed)03-04 工315,(Thu)03-04 工315",
+      "roletype": 0,
+      "email": "shchan@o365.fcu.edu.tw",
+      "ext": "3620"
+    }
+  ],
+  "textBooks": {
+    "yms_year": 114.0,
+    "yms_smester": 2.0,
+    "cls_id": "CE06310",
+    "sub_id": "08429",
+    "scr_dup": "001",
+    "tpb_seq": 1,
+    "tpb_book": "<div>* * * * * * Teacher&#39;s prepared materials:&nbsp;Handouts, slides, etc.&nbsp;&nbsp;</div>\n",
+    "tpb_book_en": "<div>* * * * * * Teacher&#39;s prepared materials:&nbsp;Handouts, slides, etc.&nbsp;</div>\n"
+  },
+  "readings": {
+    "yms_year": 114.0,
+    "yms_smester": 2.0,
+    "cls_id": "CE06310",
+    "sub_id": "08429",
+    "scr_dup": "001",
+    "tpc_seq": 1,
+    "tpc_book": "<div>1. Materials and the environment: eco-informed material choice http://easysearch.lib.fcu.edu.tw/fcu/sendurl_api_v3.jsp?mode=click&amp;type=0&amp;journal_id=2536732</div>\n\n<div>2. Green Manufacturing, Fundamentals and Applications http://easysearch.lib.fcu.edu.tw/fcu/sendurl_api_v3.jsp?mode=click&amp;type=0&amp;journal_id=3910480</div>\n\n<div>3. Life Cycle Assessment (LCA) http://easysearch.lib.fcu.edu.tw/fcu/sendurl_api_v3.jsp?mode=click&amp;type=0&amp;journal_id=3812254</div>\n\n<div>4. Sustainable Manufacturing, Challenges, Solutions and Implementation Perspectives http://easysearch.lib.fcu.edu.tw/fcu/sendurl_api_v3.jsp?mode=click&amp;type=0&amp;journal_id=3859289</div>\n",
+    "tpc_book_en": "<div>1. Materials and the environment: eco-informed material choice http://easysearch.lib.fcu.edu.tw/fcu/sendurl_api_v3.jsp?mode=click&amp;type=0&amp;journal_id=2536732</div>\n\n<div>2. Green Manufacturing, Fundamentals and Applications http://easysearch.lib.fcu.edu.tw/fcu/sendurl_api_v3.jsp?mode=click&amp;type=0&amp;journal_id=3910480</div>\n\n<div>3. Life Cycle Assessment (LCA) http://easysearch.lib.fcu.edu.tw/fcu/sendurl_api_v3.jsp?mode=click&amp;type=0&amp;journal_id=3812254</div>\n\n<div>4. Sustainable Manufacturing, Challenges, Solutions and Implementation Perspectives http://easysearch.lib.fcu.edu.tw/fcu/sendurl_api_v3.jsp?mode=click&amp;type=0&amp;journal_id=3859289</div>\n\n<div>&nbsp;</div>\n\n<div>&nbsp;</div>\n\n<div>&nbsp;</div>\n"
+  },
+  "iSoftwares": [],
+  "assistSoftwares": [],
+  "weeklyScds": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CE06310",
+      "sub_id": "08429",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "1",
+      "tpd_reading": "<div>Introduction&nbsp;</div>\n",
+      "tpd_reading_en": "<div>Introduction</div>\n",
+      "tpd_learn": " ",
+      "tpd_learn_en": " ",
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": "1",
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CE06310",
+      "sub_id": "08429",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "2-3",
+      "tpd_reading": "<div>Sustainability challenges and opportunities: UN directives</div>\n",
+      "tpd_reading_en": "<div>Sustainability challenges and opportunities: UN directives</div>\n",
+      "tpd_learn": " ",
+      "tpd_learn_en": " ",
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": "2-3",
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CE06310",
+      "sub_id": "08429",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "4-6",
+      "tpd_reading": "<div>Regulatory environment and international policy</div>\n",
+      "tpd_reading_en": "<div>Regulatory environment and international policy</div>\n",
+      "tpd_learn": " ",
+      "tpd_learn_en": " ",
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": "4-6",
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CE06310",
+      "sub_id": "08429",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "7-10",
+      "tpd_reading": "<div>Design, technology, and planning for sustainability</div>\n",
+      "tpd_reading_en": "<div>Design, technology, and planning for sustainability</div>\n",
+      "tpd_learn": " ",
+      "tpd_learn_en": " ",
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": "7-10",
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CE06310",
+      "sub_id": "08429",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "11",
+      "tpd_reading": "<div>Site visit (Tentative)</div>\n",
+      "tpd_reading_en": "<div>Site visit (Tentative)</div>\n",
+      "tpd_learn": " ",
+      "tpd_learn_en": " ",
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": "11",
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CE06310",
+      "sub_id": "08429",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "12-14",
+      "tpd_reading": "<div>Analysis and evaluation. Case study.</div>\n",
+      "tpd_reading_en": "<div>Analysis and evaluation. Case study.</div>\n",
+      "tpd_learn": " ",
+      "tpd_learn_en": " ",
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": "12-14",
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CE06310",
+      "sub_id": "08429",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "15-18",
+      "tpd_reading": "<div>Group project</div>\n",
+      "tpd_reading_en": "<div>Group project</div>\n",
+      "tpd_learn": " ",
+      "tpd_learn_en": " ",
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": "15-18",
+      "mode": 0
+    }
+  ],
+  "gradeRules": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CE06310",
+      "sub_id": "08429",
+      "scr_dup": "001",
+      "evalb_id": "D5",
+      "score_rate": 80,
+      "evalb_memo": "Group project",
+      "evalb_memo_en": null,
+      "evalb_name": "期末專題",
+      "evalb_name_en": "Final presentation",
+      "seq": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CE06310",
+      "sub_id": "08429",
+      "scr_dup": "001",
+      "evalb_id": "G5",
+      "score_rate": 10,
+      "evalb_memo": "Visit debriefing",
+      "evalb_memo_en": null,
+      "evalb_name": "書面報告",
+      "evalb_name_en": "Writing report",
+      "seq": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CE06310",
+      "sub_id": "08429",
+      "scr_dup": "001",
+      "evalb_id": "L4",
+      "score_rate": 10,
+      "evalb_memo": "Participation",
+      "evalb_memo_en": null,
+      "evalb_name": "出席狀況",
+      "evalb_name_en": "Attendances",
+      "seq": 0
+    }
+  ],
+  "gradeRuleDescribe": {
+    "yms_year": 114.0,
+    "yms_smester": 2.0,
+    "cls_id": "CE06310",
+    "sub_id": "08429",
+    "scr_dup": "001",
+    "tpa_score_new": "<div>Participation 10% Visit debriefing 10% Group project 80% Bonus ?</div>\n",
+    "tpa_score_new_en": "Participation\t10%\nVisit debriefing 10%\nGroup project \t80%\nBonus ?",
+    "course_pol": "Important ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! !  \n1. Learning must be based on honesty and integrity. Any student who attempts to claim other people's work as his/her own is guilty of dishonest behavior. \n2. Please respect your teacher and classmates at all times.\n3. Please do not eat in class.\n4. Please dress properly as a student.",
+    "course_pol_en": "Important ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! !  \n1. Learning must be based on honesty and integrity. Any student who attempts to claim other people's work as his/her own is guilty of dishonest behavior. \n2. Please respect your teacher and classmates at all times.\n3. Please do not eat in class.\n4. Please dress properly as a student.",
+    "course_rem": "Important ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! !  \n1. Learning must be based on honesty and integrity. Any student who attempts to claim other people's work as his/her own is guilty of dishonest behavior. \n2. Please respect your teacher and classmates at all times.\n3. Please do not eat in class.\n4. Please dress properly as a student.",
+    "course_rem_en": null,
+    "ais_meno": "<div>Learning must be based on honesty and integrity, and any student who attempts to claim other people&#39;s&nbsp;work as his/her own is guilty of dishonest behavior. Students who cheat or plagiarize on assignments, tests, or exams or who assist others in doing so will receive a zero for that grade and will be subject to the University&#39;s relevant regulations&nbsp;if they are repeat offenders.</div>\n\n<div>&nbsp;</div>\n\n<div>Please respect your teacher and your classmates at all times.&nbsp;&nbsp;</div>\n",
+    "ais_meno_en": "<div>Learning must be based on honesty and integrity, and any student who attempts to claim other people&#39;s&nbsp;work as his/her own is guilty of dishonest behavior. Students who cheat or plagiarize on assignments, tests, or exams or who assist others in doing so will receive a zero for that grade and will be subject to the University&#39;s relevant regulations&nbsp;if they are repeat offenders.</div>\n\n<div>&nbsp;</div>\n\n<div>Please respect your teacher and your classmates at all times.&nbsp;</div>\n",
+    "ilearn_mk": null
+  },
+  "integrity": {
+    "yms_year": 114.0,
+    "yms_smester": 2.0,
+    "cls_id": "CE06310",
+    "sub_id": "08429",
+    "scr_dup": "001",
+    "tpa_score_new": "<div>Participation 10% Visit debriefing 10% Group project 80% Bonus ?</div>\n",
+    "tpa_score_new_en": "Participation\t10%\nVisit debriefing 10%\nGroup project \t80%\nBonus ?",
+    "course_pol": "Important ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! !  \n1. Learning must be based on honesty and integrity. Any student who attempts to claim other people's work as his/her own is guilty of dishonest behavior. \n2. Please respect your teacher and classmates at all times.\n3. Please do not eat in class.\n4. Please dress properly as a student.",
+    "course_pol_en": "Important ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! !  \n1. Learning must be based on honesty and integrity. Any student who attempts to claim other people's work as his/her own is guilty of dishonest behavior. \n2. Please respect your teacher and classmates at all times.\n3. Please do not eat in class.\n4. Please dress properly as a student.",
+    "course_rem": "Important ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! !  \n1. Learning must be based on honesty and integrity. Any student who attempts to claim other people's work as his/her own is guilty of dishonest behavior. \n2. Please respect your teacher and classmates at all times.\n3. Please do not eat in class.\n4. Please dress properly as a student.",
+    "course_rem_en": null,
+    "ais_meno": "<div>Learning must be based on honesty and integrity, and any student who attempts to claim other people&#39;s&nbsp;work as his/her own is guilty of dishonest behavior. Students who cheat or plagiarize on assignments, tests, or exams or who assist others in doing so will receive a zero for that grade and will be subject to the University&#39;s relevant regulations&nbsp;if they are repeat offenders.</div>\n\n<div>&nbsp;</div>\n\n<div>Please respect your teacher and your classmates at all times.&nbsp;&nbsp;</div>\n",
+    "ais_meno_en": "<div>Learning must be based on honesty and integrity, and any student who attempts to claim other people&#39;s&nbsp;work as his/her own is guilty of dishonest behavior. Students who cheat or plagiarize on assignments, tests, or exams or who assist others in doing so will receive a zero for that grade and will be subject to the University&#39;s relevant regulations&nbsp;if they are repeat offenders.</div>\n\n<div>&nbsp;</div>\n\n<div>Please respect your teacher and your classmates at all times.&nbsp;</div>\n",
+    "ilearn_mk": null
+  },
+  "policy": {
+    "yms_year": 114.0,
+    "yms_smester": 2.0,
+    "cls_id": "CE06310",
+    "sub_id": "08429",
+    "scr_dup": "001",
+    "tpa_score_new": "<div>Participation 10% Visit debriefing 10% Group project 80% Bonus ?</div>\n",
+    "tpa_score_new_en": "Participation\t10%\nVisit debriefing 10%\nGroup project \t80%\nBonus ?",
+    "course_pol": "Important ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! !  \n1. Learning must be based on honesty and integrity. Any student who attempts to claim other people's work as his/her own is guilty of dishonest behavior. \n2. Please respect your teacher and classmates at all times.\n3. Please do not eat in class.\n4. Please dress properly as a student.",
+    "course_pol_en": "Important ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! !  \n1. Learning must be based on honesty and integrity. Any student who attempts to claim other people's work as his/her own is guilty of dishonest behavior. \n2. Please respect your teacher and classmates at all times.\n3. Please do not eat in class.\n4. Please dress properly as a student.",
+    "course_rem": "Important ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! !  \n1. Learning must be based on honesty and integrity. Any student who attempts to claim other people's work as his/her own is guilty of dishonest behavior. \n2. Please respect your teacher and classmates at all times.\n3. Please do not eat in class.\n4. Please dress properly as a student.",
+    "course_rem_en": null,
+    "ais_meno": "<div>Learning must be based on honesty and integrity, and any student who attempts to claim other people&#39;s&nbsp;work as his/her own is guilty of dishonest behavior. Students who cheat or plagiarize on assignments, tests, or exams or who assist others in doing so will receive a zero for that grade and will be subject to the University&#39;s relevant regulations&nbsp;if they are repeat offenders.</div>\n\n<div>&nbsp;</div>\n\n<div>Please respect your teacher and your classmates at all times.&nbsp;&nbsp;</div>\n",
+    "ais_meno_en": "<div>Learning must be based on honesty and integrity, and any student who attempts to claim other people&#39;s&nbsp;work as his/her own is guilty of dishonest behavior. Students who cheat or plagiarize on assignments, tests, or exams or who assist others in doing so will receive a zero for that grade and will be subject to the University&#39;s relevant regulations&nbsp;if they are repeat offenders.</div>\n\n<div>&nbsp;</div>\n\n<div>Please respect your teacher and your classmates at all times.&nbsp;</div>\n",
+    "ilearn_mk": null
+  },
+  "courseBankC": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CE06310",
+      "sub_id": "08429",
+      "scr_dup": "001",
+      "seq": 1,
+      "describe_ch": " 能夠運用課堂所學理論於實務及具有國際觀。",
+      "describe_en": " Able to apply relevant theory in practice and have an international view.",
+      "core_id": "E",
+      "core_item": "具備掌握全球產業發展趨勢及對於環境永續、社會共好的影響，培養技術接軌之能力。",
+      "core_eng": "To acquire the capability of holding the trend of global production and technical business development.",
+      "core_level": "1 ",
+      "strgy": [
+        "01",
+        "03"
+      ],
+      "evalb": [
+        "D5",
+        "F3"
+      ],
+      "strgy_name": [
+        "課堂授課",
+        "個案討論"
+      ],
+      "strgy_name_en": [
+        "Classroom instruction",
+        "Case study"
+      ],
+      "evalb_name": [
+        "期末專題",
+        "小組討論"
+      ],
+      "evalb_name_en": [
+        "Final presentation",
+        "Group discussion"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE06310",
+          "sub_id": "08429",
+          "scr_dup": "001",
+          "seq": 1,
+          "strgy_id": "01",
+          "strgy_name": null,
+          "strgy_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE06310",
+          "sub_id": "08429",
+          "scr_dup": "001",
+          "seq": 1,
+          "strgy_id": "03",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE06310",
+          "sub_id": "08429",
+          "scr_dup": "001",
+          "seq": 1,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D5",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE06310",
+          "sub_id": "08429",
+          "scr_dup": "001",
+          "seq": 1,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "F3",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CE06310",
+      "sub_id": "08429",
+      "scr_dup": "001",
+      "seq": 2,
+      "describe_ch": "強化英語溝通、協調及提升將來升學或就業競爭力。",
+      "describe_en": "To strengthen communication, coordination and enhancing the competitiveness of future studies or employment in English.",
+      "core_id": "C",
+      "core_item": "具備溝通、表達、管理、規劃、合作、分工、協調、整合及領導統御之能力。",
+      "core_eng": "To acquire the capability of communication, expression, management, planning, cooperation, team work, coordination, integration, and leadership.",
+      "core_level": "3 ",
+      "strgy": [
+        "01",
+        "03"
+      ],
+      "evalb": [
+        "D5",
+        "F3"
+      ],
+      "strgy_name": [
+        "課堂授課",
+        "個案討論"
+      ],
+      "strgy_name_en": [
+        "Classroom instruction",
+        "Case study"
+      ],
+      "evalb_name": [
+        "期末專題",
+        "小組討論"
+      ],
+      "evalb_name_en": [
+        "Final presentation",
+        "Group discussion"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE06310",
+          "sub_id": "08429",
+          "scr_dup": "001",
+          "seq": 2,
+          "strgy_id": "01",
+          "strgy_name": null,
+          "strgy_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE06310",
+          "sub_id": "08429",
+          "scr_dup": "001",
+          "seq": 2,
+          "strgy_id": "03",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE06310",
+          "sub_id": "08429",
+          "scr_dup": "001",
+          "seq": 2,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D5",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE06310",
+          "sub_id": "08429",
+          "scr_dup": "001",
+          "seq": 2,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "F3",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CE06310",
+      "sub_id": "08429",
+      "scr_dup": "001",
+      "seq": 3,
+      "describe_ch": "強調跨領域整合方式，增進團隊合作能力。",
+      "describe_en": "To emphasis on the integration of cross-disciplines and to strengthen students'capability of creative research and team work\r\n",
+      "core_id": "C",
+      "core_item": "具備溝通、表達、管理、規劃、合作、分工、協調、整合及領導統御之能力。",
+      "core_eng": "To acquire the capability of communication, expression, management, planning, cooperation, team work, coordination, integration, and leadership.",
+      "core_level": "4 ",
+      "strgy": [
+        "01",
+        "03"
+      ],
+      "evalb": [
+        "D5",
+        "F3"
+      ],
+      "strgy_name": [
+        "課堂授課",
+        "個案討論"
+      ],
+      "strgy_name_en": [
+        "Classroom instruction",
+        "Case study"
+      ],
+      "evalb_name": [
+        "期末專題",
+        "小組討論"
+      ],
+      "evalb_name_en": [
+        "Final presentation",
+        "Group discussion"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE06310",
+          "sub_id": "08429",
+          "scr_dup": "001",
+          "seq": 3,
+          "strgy_id": "01",
+          "strgy_name": null,
+          "strgy_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE06310",
+          "sub_id": "08429",
+          "scr_dup": "001",
+          "seq": 3,
+          "strgy_id": "03",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE06310",
+          "sub_id": "08429",
+          "scr_dup": "001",
+          "seq": 3,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D5",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE06310",
+          "sub_id": "08429",
+          "scr_dup": "001",
+          "seq": 3,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "F3",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CE06310",
+      "sub_id": "08429",
+      "scr_dup": "001",
+      "seq": 4,
+      "describe_ch": ".具有應用研究成果之整合能力並理解專業倫理與國際觀。",
+      "describe_en": "Able to integrate applied research results and understand professional ethics and international outlook.",
+      "core_id": "B",
+      "core_item": "具備自我學習專業領域知識，並具有策劃與執行專題研究及撰寫學術論文之能力。",
+      "core_eng": "To cultivate the capability for solving actual problem on Industrial Engineering and System Management, and for planning and execution of project studies, and for writing theses.",
+      "core_level": "4 ",
+      "strgy": [
+        "01",
+        "03"
+      ],
+      "evalb": [
+        "D5",
+        "F3"
+      ],
+      "strgy_name": [
+        "課堂授課",
+        "個案討論"
+      ],
+      "strgy_name_en": [
+        "Classroom instruction",
+        "Case study"
+      ],
+      "evalb_name": [
+        "期末專題",
+        "小組討論"
+      ],
+      "evalb_name_en": [
+        "Final presentation",
+        "Group discussion"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE06310",
+          "sub_id": "08429",
+          "scr_dup": "001",
+          "seq": 4,
+          "strgy_id": "01",
+          "strgy_name": null,
+          "strgy_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE06310",
+          "sub_id": "08429",
+          "scr_dup": "001",
+          "seq": 4,
+          "strgy_id": "03",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE06310",
+          "sub_id": "08429",
+          "scr_dup": "001",
+          "seq": 4,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D5",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE06310",
+          "sub_id": "08429",
+          "scr_dup": "001",
+          "seq": 4,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "F3",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    }
+  ],
+  "topicSdgs": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CE06310",
+      "sub_id": "08429",
+      "scr_dup": "001",
+      "sdgs_seq": 11,
+      "main_related": "Y",
+      "ind_related": "Y",
+      "iss_name": "經濟成長面",
+      "iss_ename": "Economic Growth",
+      "content_name": "永續消費與生產循環",
+      "content_ename": "Responsible Consumption and Production"
+    }
+  ],
+  "topicAiIndicators": [],
+  "learnHours": {
+    "total": 0.0,
+    "tpdOnlineAsyTotal": 0.0,
+    "tpdOnlineSynTotal": 0.0,
+    "tpdOnlineFaceTotal": 0.0,
+    "asySynInTotalPercent": 0.0
+  },
+  "crossVerYear": 114
+}

@@ -1,0 +1,1572 @@
+{
+  "teacherId": "T90128",
+  "name": "雷祖強",
+  "mainUnit": "建設學院",
+  "detailUnit": "都市計畫與空間資訊學系",
+  "skill": [
+    "景觀生態",
+    "空間統計",
+    "環境防災科技",
+    "衛星遙測",
+    "環境資訊視覺化",
+    "環境資訊獲取與分析",
+    "數位影像處理",
+    "生態風險評估",
+    "地理資訊系統",
+    "環境資源分析",
+    "衛星遙感探測"
+  ],
+  "edu": [
+    "國立台灣大學 農業工程研究所 博士",
+    "國立台灣大學 農業工程研究所 碩士",
+    "逢甲大學 水利工程學系 學士"
+  ],
+  "fcuExp": [
+    "建設學院 秘書",
+    "測量教學研究中心 主任",
+    "城鄉發展研究中心 研究員",
+    "都市計畫與空間資訊學系 系主任",
+    "城鄉發展研究中心 研究員",
+    "景觀與遊憩碩士學位學程 主任",
+    "營建及防災研究中心 副主任",
+    "城鄉發展研究中心 研究員",
+    "逢甲大學帆宣智慧城市5G實驗室 副主任",
+    "營建及防災研究中心 副主任",
+    "逢甲大學帆宣智慧城市5G實驗室 副主任",
+    "逢甲大學帆宣智慧城市5G實驗室 研究員",
+    "地理資訊系統研究中心 其它職員",
+    "水利工程學系 兼任助理教授",
+    "地理資訊系統研究中心 研究助理教授",
+    "環境資訊科技研究所 助理教授",
+    "都市計畫學系 助理教授",
+    "都市計畫學系 副教授",
+    "都市計畫與空間資訊學系 教授"
+  ],
+  "currjob": [],
+  "otherExp": [
+    "私立輔仁大學 景觀設計系 講師",
+    "國立台灣大學 水工試驗所 研究助理",
+    "經濟部 水資源局 研究助理",
+    "國立台灣大學 農業工程學系 研究助理"
+  ],
+  "journal": [
+    {
+      "論文名稱": "Multi-Temporal Data Fusion in MS and SAR Images Using the Dynamic Time Warping Method for Paddy Rice Classification",
+      "期刊名稱": "Agriculture (SSCI)",
+      "作者群": "Tsu Chiang Lei , Shiuan Wan *, You Cheng Wu , Hsin-Ping Wang  and Chia-Wen Hsieh"
+    },
+    {
+      "論文名稱": "PM2.5 Prediction Model Based on Combinational Hammerstein Recurrent Neural Networks",
+      "期刊名稱": "mathematics (SCIE,EI)",
+      "作者群": "Yi-Chung Chen*, Tsu-Chiang Lei, Shun Yao and Hsin-Ping Wang"
+    },
+    {
+      "論文名稱": "A New Approach of Ensemble Learning Technique to Resolve the Uncertainties of Paddy Area through Image Classification",
+      "期刊名稱": "Remote Sens. (SCIE)",
+      "作者群": "Tsu Chiang Lei, Shiuan Wan*, Shih-Chieh Wu and Hsin-Ping Wang"
+    },
+    {
+      "論文名稱": "The Analysis on Similarity of Spectrum Analysis of Landslide and Bareland through Hyper-Spectrum Image Bands",
+      "期刊名稱": "water (SCIE)",
+      "作者群": "Shiuan Wan , Tsu Chiang Lei *, Hong Lin Ma  and Ru Wen Cheng"
+    },
+    {
+      "論文名稱": "Multi-criteria Path Planning for Disaster Relief: An Example Using the Flood Risk Map of Shalu District, Taiwan",
+      "期刊名稱": "Advances in Intelligent Systems and Computing (EI)",
+      "作者群": "Sheng-Wei Qiu, Yi-Chung Chen*, Tsu-Chiang Lei, Hsin-Ping Wang, Hsi-Min Chen"
+    },
+    {
+      "論文名稱": "地震災害引發避難救災路網阻斷風險之研究-以台中市高易致災地區為例",
+      "期刊名稱": "都市與計畫 (TSSCI)",
+      "作者群": "雷祖強、詹雯州、李秉乾、謝孟勳"
+    },
+    {
+      "論文名稱": "Applying Eye Tracking Technology to Examine Landscape Preference Using Prospect Refuge Theory",
+      "期刊名稱": " Journal of Outdoor Recreation Study (TSSCI)",
+      "作者群": "Su-Hsin Lee; Tsu-Chiang Lei;  Shih-Chieh Wu*; Jing-Shoung Hou; Gwo-Hshiung Tzeng"
+    },
+    {
+      "論文名稱": "Evaluating differences in spatial visual attention in way finding strategy when using 2D and 3D electronic maps",
+      "期刊名稱": "GeoJournal (EI)",
+      "作者群": "Tsu-Chiang Lei, Shih-Chieh Wu*, Chi-Wen Chao, Su-Hsin Lee"
+    },
+    {
+      "論文名稱": "Development of an Empirical Model for Rainfall-induced Hillside Vulnerability Assessment- A Case Study on Chen-Yu-Lan Watershed, Nantou, Taiwan",
+      "期刊名稱": "Natural Hazards (SCIE)",
+      "作者群": "Tsu-Chiang Lei, Yi-Min Huang, Bing-Jean Lee, Meng-Hsun Hsieh, Kuan-Ting Lin"
+    },
+    {
+      "論文名稱": "Optimized Object-based Image Classification:A Development of Landslide Knowledge Decision Support System",
+      "期刊名稱": "Arabian Journal of Geosciences (SCIE)",
+      "作者群": "S. Wan, T. C. Lei* and T. Y. Chou"
+    },
+    {
+      "論文名稱": "ADS-40數值航照影像中雲蔽區資訊還原模式之研究-以濁水溪農業區為例",
+      "期刊名稱": "航測與遙測學刊 ()",
+      "作者群": "雷祖強*、李哲源"
+    },
+    {
+      "論文名稱": "Development of medium- and Low-rise reinforced concrete building fragility curves based on Chi-Chi Earthquake data",
+      "期刊名稱": "Natural Hazards (SCIE)",
+      "作者群": "Meng-Hsun Hsieh, Bing-Jean Lee, Tsu-Chiang Lei and Jer-Yan Lin"
+    },
+    {
+      "論文名稱": "遙測影像製作水稻坵塊主題圖資訊不確定性問題之研究",
+      "期刊名稱": "航測與遙測學刊 ()",
+      "作者群": "雷祖強*、萬絢、周天穎、歐陽志豪、曾國欣"
+    },
+    {
+      "論文名稱": "以迭代式像元基礎的亂數基礎分類法在萬大水庫衛星影像崩塌地的判釋研究",
+      "期刊名稱": "中華水土保持學報 ()",
+      "作者群": "萬絢*、雷祖強、王文宜"
+    },
+    {
+      "論文名稱": "以網路式3D虛擬物件平台與空間自相關法探究民眾參與規劃行為之互動關係",
+      "期刊名稱": "華岡地理學報 ()",
+      "作者群": "雷祖強*、葉吉雄、吳仕傑、李素馨"
+    },
+    {
+      "論文名稱": "以網路式3D虛擬物件平台與空間自相關法探究民眾參與規劃行為之互動關係",
+      "期刊名稱": "華崗地理學報 ()",
+      "作者群": "雷祖強、葉吉雄、吳仕傑、李素馨"
+    },
+    {
+      "論文名稱": "運用空間知識探戡技術在土石流分類模式建立之研究-以陳有蘭溪流域為例",
+      "期刊名稱": "水保技術 ()",
+      "作者群": "雷祖強、萬絢、林沂樺、吳仕傑、李素馨"
+    },
+    {
+      "論文名稱": "運用空間知識探勘技術在土石流分類模式建立之研究-以陳有蘭溪流域為例",
+      "期刊名稱": "水保技術 ()",
+      "作者群": "雷祖強*、萬絢、林沂樺、吳仕傑、李素馨"
+    },
+    {
+      "論文名稱": " A Landslide Expert System: Image Classification through Integration of Data Mining Approaches for Multi-categories Analysis",
+      "期刊名稱": " International Journal of Geographical Information Science (SSCI,SCIE)",
+      "作者群": "Wan Shiuan, Tsu Chiang Lei, Tein Yin Chou"
+    },
+    {
+      "論文名稱": "The Knowledge Expression on Debris Flow Potential Analysis through PCA+LDA and Rough Sets Theory- A Case Study of Chen-Yu-Lan Watershed, Nantou, Taiwan",
+      "期刊名稱": "Environmental Earth Sciences (SCIE)",
+      "作者群": "T. C. Lei*, S. Wan, T. Y. Chou, H. C. Pai"
+    },
+    {
+      "論文名稱": "Development of a spatial decision support system for monitoring earthquake-induced landslides based on aerial photographs and the finite element method",
+      "期刊名稱": "International journal of applied earthn observation and geoi (SCIE,EI)",
+      "作者群": "Kuang Tsung Chang*, Shiuan Wan, Tsu-Chiang Lei"
+    },
+    {
+      "論文名稱": "景觀設計專家與一般民眾對於景觀的概念比較-以水體景觀為例",
+      "期刊名稱": "運籌與管理學刊 ()",
+      "作者群": "李素馨、雷祖強、吳仕傑*"
+    },
+    {
+      "論文名稱": "使用樹狀倒傳遞類神經網路於水稻田空間影像辨識研究",
+      "期刊名稱": "航測與遙測學刊 ()",
+      "作者群": "萬絢、雷祖強*、陳達祺"
+    },
+    {
+      "論文名稱": "An Enhanced Supervised Spatial Decision Support System of Image Classification: Consideration on the Ancillary Information of Paddy Rice Area",
+      "期刊名稱": "International Journal of Geographical Information Science (SSCI,EI)",
+      "作者群": "S. Wan*, T. C. Lei, T. Y. Chou"
+    },
+    {
+      "論文名稱": "A Knowledge-based Decision Support System to Analyze the Debris-Flow Problems at Chen Yu-Lan River, Taiwan",
+      "期刊名稱": "Knowledge-Based Systems (SCIE,EI)",
+      "作者群": "S. Wan, T. C. Lei"
+    },
+    {
+      "論文名稱": "應用Google Earth API技術於高中地理科目數位學習之研究",
+      "期刊名稱": "地圖 ()",
+      "作者群": "賴正偉*、雷祖強、葉惠中"
+    },
+    {
+      "論文名稱": "國家公園林道環境敏感潛勢分析之研究",
+      "期刊名稱": "中華水土保持學報 ()",
+      "作者群": "葉惠中、雷祖強*"
+    },
+    {
+      "論文名稱": "以不安定指數法與模糊推論機制於雪霸國家公園內崩塌潛勢劃分之研究",
+      "期刊名稱": "水保技術 ()",
+      "作者群": "雷祖強*、周天穎、劉盈序"
+    },
+    {
+      "論文名稱": "以區塊化物件分類法萃取ADS-40影像中水稻田坵塊資訊之研究",
+      "期刊名稱": "航測與遙測學刊 ()",
+      "作者群": "雷祖強*、李哲源、葉惠中、萬絢"
+    },
+    {
+      "論文名稱": "A Novel Data Mining Technique of Analysis and Classification for Landslide Problems",
+      "期刊名稱": "Natural Hazards (SCIE,EI)",
+      "作者群": "S. Wan*, T. C. Lei, T. Y. Chou"
+    },
+    {
+      "論文名稱": "離散粗集合在土石流潛勢溪流特性之研究-以陳有蘭溪流域為例",
+      "期刊名稱": "水保技術 ()",
+      "作者群": "萬絢、雷祖強、陳政宇"
+    },
+    {
+      "論文名稱": "The Knowledge Rules of Debris Flow Event: A Case Study for Investigation Chen Yu Lan River",
+      "期刊名稱": "Engineering Geology (SCIE,EI)",
+      "作者群": "S. Wan, T. C. Lei, P. C. Huang, T. Y. Chou"
+    },
+    {
+      "論文名稱": "The Comparison of PCA and Discrete Rough Set for Feature Extraction of Remote Sensing Image Classification - A Case Study on Rice Classification",
+      "期刊名稱": "Computational Geosciences (SCIE,EI)",
+      "作者群": "T. C. Lei, S. Wan, and T.Y. Chou"
+    },
+    {
+      "論文名稱": "以空間資訊技術與布林粗糙集合分析雪霸崩塌地之研究",
+      "期刊名稱": "台灣地理資訊學刊 ()",
+      "作者群": "萬絢、王吉成、雷祖強、周天穎"
+    },
+    {
+      "論文名稱": "空間特徵分類器支援向量機之研究",
+      "期刊名稱": "航測與遙測學刊 ()",
+      "作者群": "雷祖強、周天穎、萬絢、楊龍士、許晉嘉"
+    },
+    {
+      "論文名稱": "應用半變異元模式於QuickBird影像中植生類別分類特性之研究",
+      "期刊名稱": "航測與遙測學刊 ()",
+      "作者群": "雷祖強、周天穎、鄭丁元"
+    },
+    {
+      "論文名稱": "運用QuickBird衛星影像於水稻田坵塊萃取之研究",
+      "期刊名稱": "航測與遙測學刊 ()",
+      "作者群": "雷祖強、周天穎、鄭丁元"
+    },
+    {
+      "論文名稱": "空間資料挖掘技術於建物震損推估模式之建立:以921大地震為例",
+      "期刊名稱": "都市與計畫 ()",
+      "作者群": "周天穎、楊龍士、黃碧慧、林文賜、雷祖強"
+    },
+    {
+      "論文名稱": "空間資料挖掘技術於建物震損推估模式之建立:以921大地震為例",
+      "期刊名稱": "都市與計畫 ()",
+      "作者群": "周天穎、楊龍士、黃碧慧、林文賜、雷祖強"
+    },
+    {
+      "論文名稱": "Spatial Knowledge Databases as Applied to the Detection of Changes in Urban Land Use",
+      "期刊名稱": "Int.Journal of remote Sensing (SCIE)",
+      "作者群": "T.Y.C hou、T.C. Lei、S. Wan、L.S. Yang"
+    },
+    {
+      "論文名稱": "利用集集大地震資料建立建築物地震危險度評估模式 Ⅱ.易損曲線與風險評估分析",
+      "期刊名稱": "中國土木水利工程學刊 ()",
+      "作者群": "李秉乾、周天穎、雷祖強、林哲彥、吳政庭"
+    },
+    {
+      "論文名稱": "利用集集大地震資料建立建築震害危險度評估模式 II. 易損性曲線與風險評估之建立",
+      "期刊名稱": "中國土木水利工程學刊 (EI)",
+      "作者群": "李秉乾、周天穎、雷祖強、林哲彥、吳政庭"
+    },
+    {
+      "論文名稱": "利用集集大地震資料建立建築震害危險度評估模式 I. 地震建築損害資料庫建立",
+      "期刊名稱": "中國土木水利工程學刊 (EI)",
+      "作者群": "李秉乾、周天穎、雷祖強、林哲彥、黃碧慧、吳政庭"
+    },
+    {
+      "論文名稱": "颱風降雨引發土石流預警程序建置",
+      "期刊名稱": "台灣水利 ()",
+      "作者群": "陳昶憲、雷祖強、王晉倫、王仲豪、段智懷、郭怡君"
+    },
+    {
+      "論文名稱": "未設測站日流量預測-以烏溪流域為例",
+      "期刊名稱": "中華水土保持學報 ()",
+      "作者群": "陳昶憲、雷祖強、許汎穎、郭怡君"
+    },
+    {
+      "論文名稱": "遙測及景觀分析技術於崩塌地判釋與變化之研究",
+      "期刊名稱": "中華水土保持學報 ()",
+      "作者群": "周天穎、雷祖強、陳駿賢"
+    },
+    {
+      "論文名稱": "空間資訊技術於土石流減災決策支援系統建置之研究",
+      "期刊名稱": "中華水土保持學報 ()",
+      "作者群": "周天穎、雷祖強"
+    },
+    {
+      "論文名稱": "都市地區土地利用變遷量化分析之研究",
+      "期刊名稱": "台灣土地研究 ()",
+      "作者群": "周天穎 簡甫任 雷祖強"
+    },
+    {
+      "論文名稱": "知識庫輔助都市地區土地利用變遷偵測之研究",
+      "期刊名稱": "中華航測與遙測學刊 ()",
+      "作者群": "周天穎、簡甫任、雷祖強"
+    },
+    {
+      "論文名稱": "Reservoir Trohpic State Evaluation Using Landsat TM Images",
+      "期刊名稱": "Journal of the American Water Resources Association (SCIE)",
+      "作者群": "Chen,K.S. T.C. Lei"
+    },
+    {
+      "論文名稱": "運用3S技術於土石流災害調查之研究─以豐丘為例",
+      "期刊名稱": "中華水土保持學報 ()",
+      "作者群": "雷祖強、周天穎、衷嵐焜、郭靜怡"
+    }
+  ],
+  "journal2": [],
+  "conference": [
+    {
+      "論文名稱": "Tracking Moving Boulders with Machine Vision.",
+      "會議名稱": "21st International Symposium on Geo-disaster Reduction",
+      "作者群": "Wei S.C.*, Chen B.A., Lei T.C., Liu K.F."
+    },
+    {
+      "論文名稱": "以YOLOv7偵測移動巨石之研究",
+      "會議名稱": "台灣地理資訊學會年會暨學術研討會",
+      "作者群": "陳柏安、魏士超、雷祖強、李旻興"
+    },
+    {
+      "論文名稱": "以卷積神經網路判釋UAV影像中水稻坵塊之研究",
+      "會議名稱": "台灣地理資訊學會年會暨學術研討會",
+      "作者群": "李秉鴻、沈育璋、雷祖強、魏士超"
+    },
+    {
+      "論文名稱": "以UAV影像與卷積神經網路判釋水稻坵塊之研究",
+      "會議名稱": "第十屆都市計畫與空間資訊研討會",
+      "作者群": "李秉鴻、沈育璋、雷祖強、魏士超"
+    },
+    {
+      "論文名稱": "利用深度學習精進坡地防災之崩塌風險評估模式",
+      "會議名稱": "中華民國力學學會第四十六屆全國力學會議",
+      "作者群": "李旻興、李秉乾、雷祖強、黃亦敏、魏士超*"
+    },
+    {
+      "論文名稱": "利用多元時空大數據特徵因子於廣域崩塌發生可能性之探索研究",
+      "會議名稱": "2020台灣地理資訊學會年會暨學術研討會",
+      "作者群": "王欣萍 、李秉乾 、雷祖強 、黃亦敏"
+    },
+    {
+      "論文名稱": "崩塌預警機制於自主防災之應用初探",
+      "會議名稱": "2020台灣地理資訊學會年會暨學術研討會",
+      "作者群": "呂紹煒*、王欣萍、黃亦敏、雷祖強、李秉乾"
+    },
+    {
+      "論文名稱": "應用坡地災害潛勢模型於崩塌風險與警戒機制模式之研究",
+      "會議名稱": "2020年災害管理研討會暨109年度科技部自然科學及永續研究發展司防災科技學門計畫成果研討會",
+      "作者群": "王欣萍、李秉乾、雷祖強、黃亦敏"
+    },
+    {
+      "論文名稱": "A novel approach for paddy rice image classification method based on the multi-source data and evidence theory.",
+      "會議名稱": "APFITA 2019 Foresee Global Trend in New Horizon of  Asia-Pacific Smart Agriculture",
+      "作者群": "Tsu-Chiang Lei*, Hsin-Ping Wang"
+    },
+    {
+      "論文名稱": "LANDSLIDE POTENTIAL EVALUATION USING FRAGILITY CURVE MODEL",
+      "會議名稱": "The 2018 International Conference on Building Smart City in Vietnam: Vision and Solutions",
+      "作者群": "Huang, Y.-M.*, Lei, T.-C., Hsieh, M.-H., Lee, B.-J."
+    },
+    {
+      "論文名稱": "Risk Assessment of Landslide by using Fragility Curves - A Case Study in Shenmu, Taiwan",
+      "會議名稱": "The 5th International Conference on Geotechnical Engineering for Disaster Mitigation and Rehabilitation",
+      "作者群": "Chen-Yang Lee, Bing-Jean Lee, Yi-Min Huang*, Tsu-Chiang Lei, Meng-Hsun Hsieh, Hsin- Ping Wang, Yao-Min Fang, Hsiao-Yuan Yin"
+    },
+    {
+      "論文名稱": "應用易損性模式評估崩塌潛勢 —以台灣神木區為例",
+      "會議名稱": "2017年海峽兩岸水土保持學術研討會",
+      "作者群": "黃亦敏*, 雷祖強, 李秉乾, 謝孟勳, 王欣萍, 方耀民, 尹孝元"
+    },
+    {
+      "論文名稱": "Multi-criteria path planning for disaster relief: An example using the flood risk map of Shalu District, Taiwan",
+      "會議名稱": "International Conference on Advances in Information and Communication Technology",
+      "作者群": "Sheng-Wei Qiu, Yi-Chung Chen*, Tsu-Chiang Lei, Hsin-Ping Wang, and Hsi-Min Chen"
+    },
+    {
+      "論文名稱": "救災環境下的多條件路徑查詢─以沙鹿地區的淹水潛勢圖為例",
+      "會議名稱": "2016台灣地理資訊學會年會暨學術研討會",
+      "作者群": "邱聖崴*,陳奕中,雷祖強,王欣萍"
+    },
+    {
+      "論文名稱": "以全域空間自相關指數探討視覺注意力與景觀偏好之關係。",
+      "會議名稱": "第20屆臺灣地理國際學術研討會暨潘朝陽教授榮退致敬學術研討會",
+      "作者群": "吳仕傑*、李素馨、雷祖強、李英弘、侯錦雄、唐大崙"
+    },
+    {
+      "論文名稱": "Mapping environmental perception with crowdsourced CityProbe mobile app and weights of evidence model",
+      "會議名稱": "The International Symposium of Remote Sensing",
+      "作者群": "Yi-Shiang Shiu, Wei-Kuang Liu, Feng-Cheng Lin, Yang-Ting Shen, Cheng-Yang Shih, Re-Yang Lee, Tsu-Chiang Lei"
+    },
+    {
+      "論文名稱": "Development a risk road assessment model after flood disaster",
+      "會議名稱": "The International Symposium of Remote Sensing",
+      "作者群": "Tsu-Chiang Lei, Yi-Chung Chen, Hshin-Ping Wang, Re-Yang Lee, Yi-Shiang Shiu"
+    },
+    {
+      "論文名稱": "Utilizing the machine learning algorithms and Pleiades imagery to classify various crop planted areas.",
+      "會議名稱": "The International Symposium on Remote Sensing 2016",
+      "作者群": "Re-Yang Lee*, Chia-Yi Tsai, Yi-Shiang Shiu, Tsu-Chiang Lei"
+    },
+    {
+      "論文名稱": "The reconstruction of urban cultural landscape and the change analysis of urban landscape and texture—A case study of the old downtown in Central District, Taichung City, Taiwan",
+      "會議名稱": "The 36th Asian Conference on Remote Sensing",
+      "作者群": "Yi-Shiang Shiu*, Tsu-Chiang Lei, Re-Yang Lee, Feng-Cheng Lin and Tzu-How Chu"
+    },
+    {
+      "論文名稱": "Development of a risk evaluation model for rainfall-induced flood hazard based on hydrologic frequency analysis and fragility curves.",
+      "會議名稱": "The 36th Asian Conference on Remote Sensing",
+      "作者群": "Tsu-Chiang Lei*, Chun-Ping Chin, Shien Tsung Chen, Yi-Min Huang, You-Da Jhong, Re-Yang Lee and Yi-Shiang Shiu"
+    },
+    {
+      "論文名稱": "A study of spectral feature extraction methods for crops classification base on worldiew-2 image",
+      "會議名稱": "The 36th Asian Conference on Remote Sensing",
+      "作者群": "Shin-Ping Wang*, Tsu-Chiang Lei, Tzu-How Chu, Yi-Shiang Shiu and Re-Yang Lee"
+    },
+    {
+      "論文名稱": "The impact of human activities on the heat island effect - A case study of annual activities",
+      "會議名稱": "The 36th Asian Conference on Remote Sensing",
+      "作者群": "Ren-De Chiu, Yi-Shiang Shiu, Re-Yang Lee, Tsu-Chiang Lei"
+    },
+    {
+      "論文名稱": "Comparisons of using random forest and maximum likelihood classifiers with WorldView-2 imagery for classifying crop types",
+      "會議名稱": "The 36th Asian Conference on Remote Sensing",
+      "作者群": "Re-Yang Lee, Deng-Yuan Ou, Yi-Shiang Shiu and Tsu-Chiang Lei"
+    },
+    {
+      "論文名稱": "景觀偏好矩陣、注意力恢復與凝視次數之關係",
+      "會議名稱": "2015第十七屆休閒、遊憩、觀光學術研討會季國際論壇",
+      "作者群": "吳仕傑*、李素馨、雷祖強、侯錦雄、李英弘"
+    },
+    {
+      "論文名稱": "Development of Empirical Landslide Fragility Curves Base on the Regional Event Database",
+      "會議名稱": "The 2nd Asia Conference on Urban Disaster Reduction",
+      "作者群": "Meng-Hsun Hsieh*, Bing-Jean Lee, Tsu-Chiang Lei"
+    },
+    {
+      "論文名稱": "建築物易損性曲線應用於震災緊急運送路徑之選擇",
+      "會議名稱": "2014臺灣災害管理研討會",
+      "作者群": "謝孟勳*、李秉乾、雷祖強"
+    },
+    {
+      "論文名稱": "基於震災損失之地震風險分區之研究－以臺中市為例",
+      "會議名稱": " 臺灣災害管理研討會論文集",
+      "作者群": "子杰*、謝孟勳、謝昂泰、雷祖強、李秉乾"
+    },
+    {
+      "論文名稱": "坡地脆弱性曲線在廣域崩塌評估之應用",
+      "會議名稱": "2013年中華水土保持學會年會及學術研討會論文摘要集",
+      "作者群": "1.\t謝孟勳*、雷祖強、李秉乾、林冠廷、謝昂泰、王子杰"
+    },
+    {
+      "論文名稱": "Development an Empinical Model for Landslide Hazard Assessment Caused by Typhoon Rainfall",
+      "會議名稱": "International Symposium on Remote Sensing",
+      "作者群": "K. T. Lin and T. C. Lei"
+    },
+    {
+      "論文名稱": "Detecting Cloud-Contaminated Area in Landsat-5 TM Imagery with Visible Bands and Transmission",
+      "會議名稱": "International Symposium on Remote Sensing",
+      "作者群": "Yi-Shiang Shiu, Tsu-Chiang Lei, Che-Yuan Li, 2013, Tzu-How Chu, Young-Chung Chuang, Yi-Ming Kuo"
+    },
+    {
+      "論文名稱": "Development and landslides: examples from the Shihmen Reservoir Catchment and Chanyulan Catchment",
+      "會議名稱": "International Symposium on Remote Sensing",
+      "作者群": "Yung-Chung Chuang*, Tsu-Chiang Lei, Yi-Shiang Shiu"
+    },
+    {
+      "論文名稱": "Detecting Cloud-Contaminated Area in Landsat-5 TM Imagery with Visible Bands and Transmission",
+      "會議名稱": "International Symposium on Remote Sensing 2013",
+      "作者群": "Shiu, Y. S.*, Lei, T. C., Li, C. Y., Chu, T. H., Chuang, Y. C.(莊永忠), and Kuo, Y. M."
+    },
+    {
+      "論文名稱": "Development of an Empirical Model for Rainfall-Induced Landslide Hazard Assessment",
+      "會議名稱": "International Symposium on Remote Sensing 2013",
+      "作者群": "Lei, T. C.*, Lin, K. T., Lee, B. J., Huang, Y. M., Shiu, Y. S., Chuang, Y. C.(莊永忠), and Hsieh, M. H."
+    },
+    {
+      "論文名稱": "Development and landslides: examples from the Shihmen Reservoir Catchment and Chanyulan Catchment, Taiwan",
+      "會議名稱": "International Symposium on Remote Sensing 2013",
+      "作者群": "Chuang, Y. C.(莊永忠)*, Lei, T. C., and Shiu, Y. S."
+    },
+    {
+      "論文名稱": "降雨造成坡地崩塌評估之易損性曲線-以陳有蘭溪流域為例",
+      "會議名稱": "中華空間資訊學會102年學生專題及論文競賽",
+      "作者群": "林冠廷、李秉乾、雷祖強、謝孟勳"
+    },
+    {
+      "論文名稱": "ADS-40數值航照影像中雲蔽區資訊還原模式之研究-以濁水溪農業區為例",
+      "會議名稱": "中華空間資訊學會102年學生專題及論文競賽",
+      "作者群": "李哲源、雷祖強、林柏志、曾國欣、吳仕傑"
+    },
+    {
+      "論文名稱": "以生物序列演算法進行影像物件匹配與控制點自動化選取及影像校正-以UAV影像為例",
+      "會議名稱": "中華空間資訊學會102年學生專題及論文競賽",
+      "作者群": "曾國欣、雷祖強、葉美伶、李哲源、吳仕傑、李素馨"
+    },
+    {
+      "論文名稱": "鄉鎮市(區)級災防演練考量元素與其之架構研議評估",
+      "會議名稱": "2012臺灣災害管理研討會",
+      "作者群": "陳勝義、陳柏蒼、馬彥彬、雷祖強、葉昭憲、陳昶憲、李秉乾"
+    },
+    {
+      "論文名稱": "建立坡地災害崩塌評估之易損性曲線-以陳有蘭溪流域為例",
+      "會議名稱": "101年度農業工程研討會",
+      "作者群": "林冠廷，李秉乾，雷祖強，謝孟勳"
+    },
+    {
+      "論文名稱": "鄉鎮市(區)級災防演練考量元素與其之架構研議評估",
+      "會議名稱": "2012臺灣災害管理研討會",
+      "作者群": "陳勝義、陳柏蒼、馬彥彬、雷祖強、葉昭憲、陳昶憲、李秉乾"
+    },
+    {
+      "論文名稱": "莫拉克颱風造成之崩塌易損性曲線研究",
+      "會議名稱": "2012臺灣災害管理研討會",
+      "作者群": "李秉乾、施孝霖、雷祖強、謝孟勳、周良?"
+    },
+    {
+      "論文名稱": "山區道路易致災路段調查評估、風險分析及監測預警管制技術之研發",
+      "會議名稱": "100年度行政院災害防救應用科技方案成果研討會",
+      "作者群": "邱永芳、謝明志、張道光、張智元、雷祖強、廖為忠、謝孟勳、張晏魁"
+    },
+    {
+      "論文名稱": "A Study on Regional Management of Natural Disasters Prevention and Protection in a Special Municipality",
+      "會議名稱": "The 8th International Symposium on Social Management Systems",
+      "作者群": "M.H. Hsieh, B.J. Lee, T.C. Lei, Y.B. Maa"
+    },
+    {
+      "論文名稱": "建立具有時空特徵之山坡地崩塌易損性曲線-以陳有蘭溪流域為例",
+      "會議名稱": "2012台灣地理資訊年會暨學術研討會",
+      "作者群": "林冠廷，李秉乾，雷祖強，謝孟勳，周良?"
+    },
+    {
+      "論文名稱": "市民災害防救手冊規劃設計－以花蓮市為例",
+      "會議名稱": "2012年台灣地理資訊學會年會暨學術研討會",
+      "作者群": "雷祖強、潘堂盛、李秉乾、陳昶憲、葉昭憲、李瑞陽、陳柏蒼、謝孟勳、陳坤鈺、林俞伶、陳勝義"
+    },
+    {
+      "論文名稱": "UAV影像中地面控制點自動化選取之研究",
+      "會議名稱": "2012年台灣地理資訊學會年會暨學術研討會",
+      "作者群": "曾國欣、雷祖強、葉美伶、李哲源、吳仕傑、李素馨"
+    },
+    {
+      "論文名稱": "以生物序列演算法進行影像物件匹配與控制點自動化選取之研究-以UAV影像為例",
+      "會議名稱": "第八屆數位地球研討會",
+      "作者群": "曾國欣、雷祖強、葉美伶、李哲源"
+    },
+    {
+      "論文名稱": "以網路式公眾參與地理資訊系統提升規劃中民眾參與之研究-以逢甲大學為例",
+      "會議名稱": "中華民國都市計劃學會、區域科學學會、地區發展學會、住宅學會2010聯合年會暨論文研討會",
+      "作者群": "葉吉雄、雷祖強"
+    },
+    {
+      "論文名稱": "數值影像中地物樣本空間知識階層結構圖建立之研究-以DMC影像為例",
+      "會議名稱": "第七屆數位地球國際研討會",
+      "作者群": "李旻興、吳仕傑、李哲源、雷祖強、李素馨"
+    },
+    {
+      "論文名稱": "結合眼球追蹤與影像紋理技術於景觀視覺偏好萃取",
+      "會議名稱": "第七屆數位地球國際研討會",
+      "作者群": "吳仕傑、李哲源、李素馨、雷祖強"
+    },
+    {
+      "論文名稱": "使用MLC與EBC兩種分類法於高解析影像特徵抽取差異之研究─以ADS-40數值航照影像為例",
+      "會議名稱": "第七屆數位地球國際研討會",
+      "作者群": "黃政翊、李哲源、雷祖強、萬絢"
+    },
+    {
+      "論文名稱": "結合Bootstrap與SVM技術於土石流潛勢溪流判釋-以陳有蘭溪流域為例",
+      "會議名稱": "第七屆數位地球國際研討會",
+      "作者群": "林沂樺、雷祖強、吳仕傑、李素馨"
+    },
+    {
+      "論文名稱": "影像融合與層次結構特徵萃取方法之差異比較-以福衛2號影像為例",
+      "會議名稱": "第七屆數位地球國際研討會",
+      "作者群": "茆慧、李哲源、雷祖強"
+    },
+    {
+      "論文名稱": "應用眼球追蹤技術度量二維及三維電子地圖空間認知差異性之研究",
+      "會議名稱": "第七屆數位地球國際研討會",
+      "作者群": "趙豈汶、吳仕傑、雷祖強、周天穎、李素馨"
+    },
+    {
+      "論文名稱": "A Study of Earthquake Safety Network Risk Analysis by Seismic Fragility of Building",
+      "會議名稱": "INTERPRAEVENT2010",
+      "作者群": "M. H. Hsieh, F. Y. Shiu, T. C. Lei, B. J. Lee"
+    },
+    {
+      "論文名稱": "應用阻斷風險值於空間自相關評估都市公園綠地周邊避難路徑之研究",
+      "會議名稱": "第十四屆(2010年)國土規劃論壇",
+      "作者群": "方隆安、雷祖強、邱景升"
+    },
+    {
+      "論文名稱": "Using Regional Object Classification Model to Extract Paddy Rice Patch from ADS- 40 Image",
+      "會議名稱": "30th Asian Conference on Remote Sensing (ACRS2009)",
+      "作者群": "Tsu-Chiang Lei, Shiuan WAN, Jhe-Yuan LI, Hui-Chung YEH"
+    },
+    {
+      "論文名稱": "Artificial Neural Network and Cellular Automata As A Modeling Simulation for Night Market Spatial Development",
+      "會議名稱": "International Design Congress-IASDR 2009",
+      "作者群": "Shwu-Ting Lee, Tsu-Chiang Lei, Chih-Wen Wu"
+    },
+    {
+      "論文名稱": "二維及三維電子地圖在空間認知差別性度量之研究",
+      "會議名稱": "2009台灣地理資訊年會暨學術研討會",
+      "作者群": "趙豈汶、吳仕傑、林嘉豪、高治中、雷祖強、周天穎、李素馨"
+    },
+    {
+      "論文名稱": "探討最大概似法與支援向量機分類演算法對於ROC模式於水稻坵塊萃取之影響性-以ADS-40與DMC數值航照影像為例",
+      "會議名稱": "2009台灣地理資訊年會暨學術研討會",
+      "作者群": "李旻興、李哲源、雷祖強"
+    },
+    {
+      "論文名稱": "建立「類神經網路」結合「細胞自動機」之模擬模型來分析台灣夜市的空間發展現象",
+      "會議名稱": "2009第11屆休閒、遊憩、觀光學術研討會",
+      "作者群": "吳志文、黎淑婷、雷祖強"
+    },
+    {
+      "論文名稱": "應用眼球追蹤技術審視環境偏好與眺望藏匿理論",
+      "會議名稱": "2009第11屆休閒、遊憩、觀光學術研討會暨國際論壇",
+      "作者群": "吳仕傑、李素馨、雷祖強"
+    },
+    {
+      "論文名稱": "區塊物件分割模式於高解析度航照影像中水稻田坵塊萃取之研究-整合GIS、RG與SVM方法為例",
+      "會議名稱": "2009測量及空間資訊研討會",
+      "作者群": "李旻興、李哲源、雷祖強"
+    },
+    {
+      "論文名稱": "Applying eye tracking technology to examine landscape preference in Prospect-Refuge theory",
+      "會議名稱": "15th International Symposium on Society and Resource Management People and Place: Linking Culture and Nature",
+      "作者群": "Su-Hsin Lee, Tsu-Chiang Lei, Shih-Chieh Wu"
+    },
+    {
+      "論文名稱": "建物易損性應用於地震路網風險評估之研究",
+      "會議名稱": "2009年全國土地管理與開發學術研討會",
+      "作者群": "徐方繹、雷祖強、謝孟勳、李秉乾"
+    },
+    {
+      "論文名稱": "建物易損性應用於地震路網風險評估之研究",
+      "會議名稱": "2009年全國土地管理與開發學術研討會",
+      "作者群": "徐方繹、雷祖強、謝孟勳、李秉乾"
+    },
+    {
+      "論文名稱": "區域空間範圍劃分之研究─以台中都為例",
+      "會議名稱": "第十三屆(2009)國土規劃論壇",
+      "作者群": "葉吉雄、雷祖強"
+    },
+    {
+      "論文名稱": "漂流木對河道衝擊影響之研究",
+      "會議名稱": "2008臺灣災害管理研討會",
+      "作者群": "李秉乾、雷祖強、謝孟勳、黃彥豪"
+    },
+    {
+      "論文名稱": "不同機率條件下建立建物易損性曲線之研究",
+      "會議名稱": "2008台灣災害管理研討會",
+      "作者群": "謝孟勳、雷祖強、李秉乾、徐方繹、胡智淵"
+    },
+    {
+      "論文名稱": "使用樹狀倒傳遞類神經網路於水稻田空間影像辨識研究",
+      "會議名稱": "2008台灣地理資訊學會年會暨學術研討會",
+      "作者群": "萬絢、陳明華、陳達祺、雷祖強"
+    },
+    {
+      "論文名稱": "以連續型粗糙集理論與細胞自動機分析崩塌地實證區之演化",
+      "會議名稱": "2008台灣地理資訊學會年會暨學術研討會",
+      "作者群": "賴哲民、黃家健、萬絢、雷祖強"
+    },
+    {
+      "論文名稱": "以創新的資料維度縮減技術與粒子群最佳化在坡地災害的實證",
+      "會議名稱": "2008台灣地理資訊學會年會暨學術研討會",
+      "作者群": "柳宗林、黃志鵬、萬絢、雷祖強"
+    },
+    {
+      "論文名稱": "運用Z/I DMC影像建立GIS圖資更新機制之研究-以水稻田坵塊資訊為例",
+      "會議名稱": "2008台灣地理資訊學會年會暨學術研討會",
+      "作者群": "歐陽志豪、趙豈汶、雷祖強、周天穎"
+    },
+    {
+      "論文名稱": "高中地理數位學習平台之研究-以Google Earth為例",
+      "會議名稱": "2008台灣地理資訊學會年會暨學術研討會",
+      "作者群": "賴正偉、雷祖強、葉惠中、葉美伶、周天穎"
+    },
+    {
+      "論文名稱": "應用PAT-SRG模式自動化萃取水稻田坵塊資訊之研究",
+      "會議名稱": "2008台灣地理資訊學會年會暨學術研討會",
+      "作者群": "李哲源、雷祖強、黃淑娟、吳水吉"
+    },
+    {
+      "論文名稱": "應用眼球追蹤技術度量兩種維度地圖空間差異性之研究",
+      "會議名稱": "2009海峽兩岸都市地理資訊系統學術論壇",
+      "作者群": "趙豈汶、吳仕傑、雷祖強、周天穎、李素馨"
+    },
+    {
+      "論文名稱": "土石災害知識特徵萃取之研究─以台灣南投陳有蘭溪流域為例",
+      "會議名稱": "第八屆兩岸三地環境資源與生態保育學術研討會-城市化、水土資源開發與生態保育",
+      "作者群": "雷祖強、葉惠中"
+    },
+    {
+      "論文名稱": "林道敏感性劃分之研究",
+      "會議名稱": "第八屆兩岸三地環境資源與生態保育學術研討會-城市化、水土資源開發與生態保育",
+      "作者群": "葉惠中、雷祖強"
+    },
+    {
+      "論文名稱": "多光譜數值航照影像於水稻分類判釋之研究",
+      "會議名稱": "2007台灣地理資訊學會年會暨學術研討會",
+      "作者群": "王大昕、雷祖強"
+    },
+    {
+      "論文名稱": "Seismic Fragility Curves Analysis of Bridges Based on the Chi-Chi Earthquake Data",
+      "會議名稱": "International Conference on Urban Disaster Reduction",
+      "作者群": "Meng-Hsun Hsieh, Bing-Jean Lee, Tsu-Chiang Lei, Cheng-Ting Wu"
+    },
+    {
+      "論文名稱": "集水區漂流木生產量評估之研究",
+      "會議名稱": "第六屆數位地球國際研討會",
+      "作者群": "李秉乾、雷祖強、葉惠中、謝孟勳、管立豪、邵龍雨、陳達祺、賴正偉"
+    },
+    {
+      "論文名稱": "雪霸國家公園生態敏感區劃分之研究-以崩塌災害為?",
+      "會議名稱": "2007數位地球國際研討會",
+      "作者群": "劉盈序、雷祖強、周天穎"
+    },
+    {
+      "論文名稱": "以多元證據融合法(Dempster-Shafer 理論)進行水稻田GIS圖資更新之研究",
+      "會議名稱": "2007數位地球國際研討會",
+      "作者群": "王延榮、雷祖強、周天穎"
+    },
+    {
+      "論文名稱": "A Data Mining Technology for Knowledge Expression from Debris Flow Streams",
+      "會議名稱": "2007 Remote Sensing Symposium across Taiwan Strait",
+      "作者群": "Hung-Chieh Pai, Tien-Yin Chou, Lung-Shih Yang, Tsu-Chiang Lei"
+    },
+    {
+      "論文名稱": "An Innovative Technique of Discrete Rough Set for Remote Sensing Image Classification",
+      "會議名稱": "2007 Remote Sensing Symposium across Taiwan Strait",
+      "作者群": "Tsu-Chiang Lei, Tien-Yin Chou, Lung-Shih Yang"
+    },
+    {
+      "論文名稱": "Applied Spatial Analysis Technology to Access Landslide Disturbance of Shei-Pa National Park",
+      "會議名稱": "2007 Remote Sensing Symposium across Taiwan Strait",
+      "作者群": "Ying-Hsu Liu, Lung-Shih Yang, Tien-Yin Chou, Tsu-Chiang Lei"
+    },
+    {
+      "論文名稱": "Updating GIS Data Process by Dempster-Shafer and Mutual Information Theory- Case study on Paddy Rice Field",
+      "會議名稱": "2007 Remote Sensing Symposium across Taiwan Strait",
+      "作者群": "Yan- Rung Wang, Tsu-Chiang Lei, Tien-Yin Chou"
+    },
+    {
+      "論文名稱": "雪霸國家公園災害敏感地劃分之研究",
+      "會議名稱": "2006台灣地理資訊學會年會暨學術研討會",
+      "作者群": "劉盈序、雷祖強、周天穎"
+    },
+    {
+      "論文名稱": "以Dempster-Shafer理論與互信息進行GIS更新機制之研究",
+      "會議名稱": "2006台灣地理資訊學會年會暨學術研討會",
+      "作者群": "王延榮、雷祖強、周天穎"
+    },
+    {
+      "論文名稱": "土石流潛勢溪流內含知識描述可能性之初探",
+      "會議名稱": "2006台灣地理資訊學會年會暨學術研討會",
+      "作者群": "白弘杰、周天穎、雷祖強"
+    },
+    {
+      "論文名稱": "以Boosting法改進監督式分類樣本特性之研究",
+      "會議名稱": "2006台灣地理資訊學會年會暨學術研討會",
+      "作者群": "陳慧欣、雷祖強、周天穎"
+    },
+    {
+      "論文名稱": "Using Uncertain Element in the Multi-spatial Resolution Image Extract the Rice Parcel",
+      "會議名稱": "2006 Annual Conference, Asian Conference on Remote Sensing",
+      "作者群": "T. Y. Chou, T. C. Lei, C. H. Ou-Yang"
+    },
+    {
+      "論文名稱": "Evaluation of Landside Hazard Potentials in Shei-Pa National Park",
+      "會議名稱": "2006 Annual Conference, Asian Conference on Remote Sensing",
+      "作者群": "T. Y. Chou, T. C. Lei, J. J. Chang, Y. H. Liu"
+    },
+    {
+      "論文名稱": "Debris Flow occurrence Factors with Rough Sets Theory",
+      "會議名稱": "2006 Annual Conference, Asian Conference on Remote Sensing",
+      "作者群": "T. Y. Chou, T. C. Lei, H. C. Pai"
+    },
+    {
+      "論文名稱": "Application of boosting to improve image classification accuracy in Rice Parcel with Decision Tree",
+      "會議名稱": "2006 Annual Conference, Asian Conference on Remote Sensing",
+      "作者群": "T. Y. Chou, T. C. Lei, H. H. Chen"
+    },
+    {
+      "論文名稱": "The Research of Knowledge Expression on Image Classification by Using Rough Sets Theory and PCA",
+      "會議名稱": "2006 Annual Conference, Asian Conference on Remote Sensing",
+      "作者群": "T. Y. Chou, T. C. Lei, I. L. Shih"
+    },
+    {
+      "論文名稱": "Applying boosting technology to improve supervised classification feature extraction",
+      "會議名稱": "2007 Remote Sensing Symposium across Taiwan Strait",
+      "作者群": "Hui-Hsin Chen, Tien-Yin Chou, Tsu-Chiang Lei"
+    },
+    {
+      "論文名稱": "大甲溪流域雨量站網之評估",
+      "會議名稱": "第四屆土地研究學術研討會",
+      "作者群": "葉惠中、雷祖強"
+    },
+    {
+      "論文名稱": "運用Shannon熵度量影像分類中不確定訊息之研究",
+      "會議名稱": "第四屆數位地球國際研討會",
+      "作者群": "歐陽志豪、雷祖強、周天穎"
+    },
+    {
+      "論文名稱": "應用粗糙集理論於土石流發生因子之初探",
+      "會議名稱": "第四屆數位地球國際研討會",
+      "作者群": "白弘杰、雷祖強、周天穎、施奕良"
+    },
+    {
+      "論文名稱": "應用多類別關連規則於衛星影像中空間知識挖掘之研究",
+      "會議名稱": "第十屆國土規劃論壇",
+      "作者群": "歐陽志豪、雷祖強、周天穎"
+    },
+    {
+      "論文名稱": "土地變遷CA模型中鄰近網格參數法之研究",
+      "會議名稱": "第十屆國土規劃論壇",
+      "作者群": "胡堯智、楊龍士、雷祖強、李哲源"
+    },
+    {
+      "論文名稱": "以VRMLX3D為基礎的互動式三維空間資訊管理系統之研究",
+      "會議名稱": "2005台灣地理資訊學會年會暨學術研討會",
+      "作者群": "林嘉豪、周天穎、雷祖強"
+    },
+    {
+      "論文名稱": "支援向量機理論中核函數性質之研究─以高解析度衛星影像為例",
+      "會議名稱": "2005台灣地理資訊學會年會暨學術研討會",
+      "作者群": "許晉嘉、雷祖強、周天穎"
+    },
+    {
+      "論文名稱": "運用關連知識探討衛星影像中植生分類不確定性問題之研究",
+      "會議名稱": "2005台灣地理資訊學會年會暨學術研討會",
+      "作者群": "歐陽志豪、雷祖強、周天穎"
+    },
+    {
+      "論文名稱": "利用粗糙集理論建立水稻田知識庫分類之研究",
+      "會議名稱": "2005台灣地理資訊學會年會暨學術研討會",
+      "作者群": "施奕良、雷祖強、周天穎"
+    },
+    {
+      "論文名稱": "都市建成區變遷與空間自相關係數關連性之研究",
+      "會議名稱": "第二十四屆測量學術與應用研討會",
+      "作者群": "胡堯智、楊龍士、雷祖強"
+    },
+    {
+      "論文名稱": "遙測影像分類資訊有效性之研究",
+      "會議名稱": "第二十四屆測量學術及應用研討會",
+      "作者群": "施奕良、雷祖強、周天穎"
+    },
+    {
+      "論文名稱": "水稻田坵塊萃取之研究─以QuickBird衛星影像為例",
+      "會議名稱": "第二十四屆測量學術及應用研討會",
+      "作者群": "鄭丁元、雷祖強、周天穎"
+    },
+    {
+      "論文名稱": "應用支援向量機法於高解度衛星影像分類之研究",
+      "會議名稱": "中國農業工程研討會",
+      "作者群": "許晉嘉、雷祖強、周天穎"
+    },
+    {
+      "論文名稱": "空間資訊萃取技術於建立崩塌地發生機率模式之研究─以雪霸國家公園為例",
+      "會議名稱": "第三屆土地研究學術研討會",
+      "作者群": "李易儒、雷祖強、周天穎"
+    },
+    {
+      "論文名稱": "震災建物損害評估與路段阻塞模擬分析之研究",
+      "會議名稱": "第三屆土地研究學術研討會",
+      "作者群": "李珮甄、雷祖強、林哲彥、周天穎"
+    },
+    {
+      "論文名稱": "多尺度遙測影像於環境資源之研究",
+      "會議名稱": "2005年國際空間資訊理論與應用研討會",
+      "作者群": "雷祖強"
+    },
+    {
+      "論文名稱": "The Application of Spatial Information Classification Techniques on Evaluation of Debris Flow Disaster. Acase Study for Chen Yu Lan River",
+      "會議名稱": "2005International Converence on Spatial; Information Theory and Application",
+      "作者群": "S. Wan, T.C. Lei, I.L.Shih"
+    },
+    {
+      "論文名稱": "Research of PPGIS Using in Land Use Planning",
+      "會議名稱": "Greater China GIS Conference",
+      "作者群": "L.Y.Lin,L.S.Yang,T.C.Lei"
+    },
+    {
+      "論文名稱": "The Research of the Interactive 3D Interior Spatial Management System",
+      "會議名稱": "Greater China GIS Conference",
+      "作者群": "K.H.Lam、T.Y.Chou、T.C. Lei"
+    },
+    {
+      "論文名稱": "The Study of Paddy Field Information Extraction from QuickBird Image",
+      "會議名稱": "Greater China GIS  Conference",
+      "作者群": "T.Y.Cheng、T.C.Chou、T.C. Lei"
+    },
+    {
+      "論文名稱": "Using Remote Sensing and Landscape Ecology Analysis on Shei-Pa National Park",
+      "會議名稱": "Greater China GIS Conference",
+      "作者群": "I. J. Lee、C.A.Chiu、T.C.Lei、T.Y.Chou"
+    },
+    {
+      "論文名稱": "A Study of the Seismic Building Damage and the Model of Road Network Blocked",
+      "會議名稱": "Greater China GIS Conference",
+      "作者群": "P.C. Li、T.C. Lei、T.Y. Chou"
+    },
+    {
+      "論文名稱": "以地景生態分析技術於雪霸國家公園之研究",
+      "會議名稱": "2004台灣地理資訊學會年會暨學術研討會",
+      "作者群": "李易儒、邱清安、雷祖強、周天穎"
+    },
+    {
+      "論文名稱": "應用衛星影像於水稻田坵塊萃取之研究",
+      "會議名稱": "2004台灣地理資訊學會年會暨學術研討會",
+      "作者群": "鄭丁元、雷祖強、周天穎"
+    },
+    {
+      "論文名稱": "都會區震災路網阻塞模擬分析之研究",
+      "會議名稱": "2004台灣地理資訊學會年會暨學術研討會",
+      "作者群": "李珮甄、雷祖強、周天穎"
+    },
+    {
+      "論文名稱": "土石流動態模擬視覺化之研究",
+      "會議名稱": "2004台灣地理資訊學會年會暨學術研討會",
+      "作者群": "林嘉豪、林玲予、雷祖強、周天穎"
+    },
+    {
+      "論文名稱": "利用空間資訊技術分析陳有蘭溪流域坡地災害之研究",
+      "會議名稱": "第四屆海峽兩岸測繪發展研討會",
+      "作者群": "陳盈智、周天穎、雷祖強"
+    },
+    {
+      "論文名稱": "運用半變異元紋理模型輔助遙測資訊於水稻田判釋之研究",
+      "會議名稱": "第四屆海峽兩岸測繪發展研討會",
+      "作者群": "吳政庭、李秉乾、雷祖強"
+    },
+    {
+      "論文名稱": "利用空間資訊技術分析土石流流出量經驗公式之研究--以陳有蘭溪流域為例",
+      "會議名稱": "第二屆數位地球國際研討會",
+      "作者群": "陳盈智、周天穎、雷祖強"
+    },
+    {
+      "論文名稱": "QuickBrid衛星影像中水稻田坵塊萃取之研究",
+      "會議名稱": "第二屆數位地球國際研討會",
+      "作者群": "吳政庭、鄭丁元、雷祖強"
+    },
+    {
+      "論文名稱": "Using Semivariogram Textural Classifier for Paddy Area Discrimination of Remotely Sensed Data",
+      "會議名稱": "2004海峽兩岸遙測遙感研討會",
+      "作者群": "T.Y.Chou、T.C. Lei、C.T.Wu"
+    },
+    {
+      "論文名稱": "Using semivariogram textural classifier for paddy area discrimination of remotely sensed data",
+      "會議名稱": "2004海峽兩岸遙測/遙感研討會",
+      "作者群": "Chou,T.Y.,Lei,T.C.,Wu,C.T."
+    },
+    {
+      "論文名稱": "應用複合波段紋理資訊輔助高解析度衛星影像判釋之研究－以台中市水稻田為例",
+      "會議名稱": "2003資訊科技在農業之應用研討會",
+      "作者群": "周天穎、雷祖強、吳政庭"
+    },
+    {
+      "論文名稱": "The study of combination texture information and knowledge base classification for urban paddy area extraction-Using High Resolution Satellite Image",
+      "會議名稱": "2003 Annual Conference, Asian Conference on Remote Sensing",
+      "作者群": "Chou, T.Y., T.C. Lei and Y.H. Chen"
+    },
+    {
+      "論文名稱": "搜救地理資訊系統建置之研究",
+      "會議名稱": "2003中華地理資訊學會暨學術研討會",
+      "作者群": "周天穎、雷祖強、林嘉豪、林玲?"
+    },
+    {
+      "論文名稱": "都市路網震災損害模擬分析之研究",
+      "會議名稱": "2003中華地理資訊學會暨學術研討會",
+      "作者群": "雷祖強、周天穎、鄭丁元、李易儒"
+    },
+    {
+      "論文名稱": "空間分析技術於土石流流出量推估之應用",
+      "會議名稱": "2003中華地理資訊學會暨學術研討會",
+      "作者群": "陳盈智、周天穎、雷祖強"
+    },
+    {
+      "論文名稱": "The study of using Chi-Chi Earthquake data to construct the hazard of damaged buildings resulted model",
+      "會議名稱": "2003 International Training Program for Seismic Design of Structure",
+      "作者群": "Lee, B.J., T.Y. Chou and T.C. Lei"
+    },
+    {
+      "論文名稱": "Earthquake damage assessment of building structure in Taiwan",
+      "會議名稱": "International Collaboration on Earthquake Disaster Mitigation",
+      "作者群": "Lee,B.J.、Chou,T.Y. Lei, T.C.、、"
+    },
+    {
+      "論文名稱": "土石流流出量推估之研究",
+      "會議名稱": "第二十二屆測量學術及應用研討會",
+      "作者群": "陳盈智、周天穎、雷祖強"
+    },
+    {
+      "論文名稱": "應用碎形維度與半變異元模式輔助高解析度衛星影像判釋之研究",
+      "會議名稱": "第二十二屆測量學術及應用研討會",
+      "作者群": "吳政庭、周天穎、雷祖強"
+    },
+    {
+      "論文名稱": "遙測技術於崩塌地變遷偵測之研究",
+      "會議名稱": "第二十二屆測量學術及應用研討會",
+      "作者群": "陳駿賢、周天穎、雷祖強"
+    },
+    {
+      "論文名稱": "結合紋理資訊與知識庫分類法於都會區水稻田萃取之研究",
+      "會議名稱": "第二十二屆測量學術及應用研討會",
+      "作者群": "陳彥宏、周天穎、雷祖強"
+    },
+    {
+      "論文名稱": "建築震害危險度評估模式之研究-以集集大地震資料為例",
+      "會議名稱": "第一屆（2003）土地研究學術研討會",
+      "作者群": "雷祖強、周天穎、吳政庭"
+    },
+    {
+      "論文名稱": "空間資訊技術於土石流量化之研究",
+      "會議名稱": "第一屆（2003）土地研究學術研討會",
+      "作者群": "陳盈智、周天穎、雷祖強"
+    },
+    {
+      "論文名稱": "高解析度衛星影像應用於水稻田判釋之研究",
+      "會議名稱": "第一屆（2003）土地研究學術研討會",
+      "作者群": "陳彥宏、周天穎、雷祖強"
+    },
+    {
+      "論文名稱": "應用碎形維度與半變異元模式於高解析度衛星影像之分類研究",
+      "會議名稱": "第一屆（2003）土地研究學術研討會",
+      "作者群": "吳政庭、周天穎、雷祖強"
+    },
+    {
+      "論文名稱": "運用紋理資訊輔助高解析度衛星影像水稻田面積判釋之研究",
+      "會議名稱": "九十一年度中國農業工程學會年會暨學術研討會",
+      "作者群": "雷祖強、周天穎、陳彥宏"
+    },
+    {
+      "論文名稱": "遙測影像組織量化分類法之介紹",
+      "會議名稱": "第五屆GPS衛星科技研討會",
+      "作者群": "雷祖強、周天穎、吳政庭"
+    },
+    {
+      "論文名稱": "Information Technology Applied for Governmental Land Management",
+      "會議名稱": "The Training Seminar on Land Use and Management Workshop",
+      "作者群": "Chou, T.Y., Lei,T.C.,Mei-Hsin Chen"
+    },
+    {
+      "論文名稱": "遙測影像崩塌地特徵萃取與地景格局之研究",
+      "會議名稱": "中華地理資訊學會研討會",
+      "作者群": "陳駿賢、揚龍士、周天穎、雷祖強、羅文珊"
+    },
+    {
+      "論文名稱": "應用高解析度衛星影像於水稻田特徵萃取之研究",
+      "會議名稱": "中華地理資訊學會研討會",
+      "作者群": "陳彥宏、周天穎、雷祖強"
+    },
+    {
+      "論文名稱": "運用紋理分析法進行IKONOS影像水稻田面積判釋之研究",
+      "會議名稱": "航遙測與衛星影像輔助作物辨識及產量與災害推估研討會",
+      "作者群": "周天穎、陳彥宏、雷祖強"
+    },
+    {
+      "論文名稱": "運用IKONOS影像之光譜與組織特徵於水稻田分類之研究",
+      "會議名稱": "2002兩岸青年遙感（探測）技術學術論壇",
+      "作者群": "雷祖強、周天穎、陳彥宏"
+    },
+    {
+      "論文名稱": "3S技術於防災害分析之應用",
+      "會議名稱": "海峽兩岸地理訊息系統發展研討會",
+      "作者群": "周天穎、雷祖強"
+    },
+    {
+      "論文名稱": "空間訊息系統與作物數字模式之結合應用",
+      "會議名稱": "數字農業和中國農業的發展研討會",
+      "作者群": "周天穎、雷祖強"
+    },
+    {
+      "論文名稱": "921地震建築震害地理資訊系統應用分析",
+      "會議名稱": "2001年中華民國都市計畫、區域科學學會聯合年會暨論文研討會",
+      "作者群": "李秉乾、蕭江碧、周天穎、衷嵐焜、黃碧慧、雷祖強、吳逸斌、林方芸"
+    },
+    {
+      "論文名稱": "應用高解析度衛星影像於水稻田判釋之研究",
+      "會議名稱": "第四屆（2002）全國土地管理研討會",
+      "作者群": "陳彥宏、周天穎、雷祖強"
+    },
+    {
+      "論文名稱": "應用衛星影像於崩塌地地景格局之研究",
+      "會議名稱": "第四屆（2002）全國土地管理研討會",
+      "作者群": "周天穎、陳駿賢、雷祖強"
+    },
+    {
+      "論文名稱": "地理資訊系統結合遙測技術於災害分析之應用",
+      "會議名稱": "桃芝颱風土石流災因及對策研討會",
+      "作者群": "周天穎、雷祖強"
+    },
+    {
+      "論文名稱": "使用衛星遙測技術於水庫優養之機率評估",
+      "會議名稱": "第十二屆水利工程研討會",
+      "作者群": "雷祖強、鄭克聲"
+    },
+    {
+      "論文名稱": "使用衛星影像監測永和山水庫水質",
+      "會議名稱": "第十二屆水利工程研討會",
+      "作者群": "陳莉、吳俊穎、雷祖強"
+    },
+    {
+      "論文名稱": "應用衛星遙測及地理統計模擬於水庫營養評估",
+      "會議名稱": "地理統計在農業和環境科學之應用研討會",
+      "作者群": "雷祖強、葉惠中、鄭克聲"
+    },
+    {
+      "論文名稱": "A TM-Based Probabilistic Model for Reservoir Tropic State Evaluation",
+      "會議名稱": "American Society for Photogrammetry and Remote Sensing Conference",
+      "作者群": "Cheng, K.S., T.C. Lei"
+    },
+    {
+      "論文名稱": "應用TM影像及地理統計模擬於水庫優養評估",
+      "會議名稱": "水庫集水區整治規劃與管理研討會",
+      "作者群": "雷祖強、鄭克聲"
+    },
+    {
+      "論文名稱": "應用TM影像及隨機變域模擬於水庫優養評估",
+      "會議名稱": "第19屆測量學術及應用研討會",
+      "作者群": "雷祖強、鄭克聲"
+    }
+  ],
+  "book": [
+    {
+      "專業書籍": "災害管理與實務(第2版)",
+      "出版單位": "五南出版社",
+      "作者群": "李秉乾, 楊龍士, 陳昶憲, 連惠邦, 葉昭憲, 雷祖強, 馬彥彬, 李瑞陽, 陳柏蒼, 莊永忠, 黃亦敏, 何智超"
+    },
+    {
+      "專業書籍": "災害管理與實務",
+      "出版單位": "五南圖書出版股份有限公司",
+      "作者群": "李秉乾、楊龍士、陳昶憲、連惠邦、葉昭憲、雷祖強、馬彥彬、李瑞陽、陳柏蒼"
+    },
+    {
+      "專業書籍": "大臺中地區消防資源整併暨未來發展策略",
+      "出版單位": "臺中縣消防局",
+      "作者群": "馬彥斌、李秉乾、楊龍士、雷祖強、趙啟時、紀人豪、鍾侑庭"
+    },
+    {
+      "專業書籍": "以約略集合理論與支援向量機兩種空間知識挖掘技術改進都會區衛星遙測分類問題之研究",
+      "出版單位": "逢甲大學地理資訊系統研究中心",
+      "作者群": "國家科學委員會"
+    },
+    {
+      "專業書籍": "應用高時間與空間解像力遙測影像於水稻田耕作調查",
+      "出版單位": "逢甲大學地理資訊系統研究中心",
+      "作者群": "農委會農糧處科技計畫3/3"
+    },
+    {
+      "專業書籍": "雪霸國家公園生態評估模式之建立-以災害崩塌潛勢與地景干擾為例",
+      "出版單位": "逢甲大學地理資訊系統研究中心",
+      "作者群": "雪霸國家公園"
+    },
+    {
+      "專業書籍": "應用高時間與空間解像力遙測影像於水稻田耕作調查",
+      "出版單位": "逢甲大學地理資訊系統研究中心",
+      "作者群": "農委會農糧處科技計畫2/3"
+    },
+    {
+      "專業書籍": "國土利用現況調查規範及先期試辦工作案",
+      "出版單位": "逢甲大學地理資訊系統研究中心",
+      "作者群": "內政部土地測量局"
+    },
+    {
+      "專業書籍": "以IKONOS衛星影像繪製雪霸國家公園之植群圖",
+      "出版單位": "逢甲大學地理資訊系統研究中心",
+      "作者群": "雪霸國家公園管理處"
+    },
+    {
+      "專業書籍": "應用高時間與空間解像力遙測影像於水稻田耕作調查，行政院農委會農糧處科技計畫1/3",
+      "出版單位": "逢甲大學地理資訊系統研究中心",
+      "作者群": "農委會農糧署科技計畫1/3"
+    },
+    {
+      "專業書籍": "運用多元尺度影像於水稻田分類之研究",
+      "出版單位": "逢甲大學地理資訊系統研究中心",
+      "作者群": "國科會 NSC93-2116-M-035-001"
+    },
+    {
+      "專業書籍": "遙測與地景生態分析應用於雪霸國家公園之研究",
+      "出版單位": "逢甲大學地理資訊系統研究中心",
+      "作者群": "雪霸國家公園管理處"
+    },
+    {
+      "專業書籍": "雪霸國家公園園區範圍數值地形圖轉檔",
+      "出版單位": "逢甲大學地理資訊系統研究中心",
+      "作者群": "雪霸國家公園管理處"
+    },
+    {
+      "專業書籍": "數位空間知識圖籍科技競賽活動計畫",
+      "出版單位": "逢甲大學地理資訊系統研究中心",
+      "作者群": "國科會 NSC92-2515-S-035-001"
+    },
+    {
+      "專業書籍": "QuickBird 衛星影像最大概似法與知識庫分類法之比較研究─以台中市北屯區為例",
+      "出版單位": "逢甲大學地理資訊系統研究中心",
+      "作者群": "國科會"
+    },
+    {
+      "專業書籍": "遙測技術在崩塌地土石流量化分析及坡地管理之應用3/4",
+      "出版單位": "逢甲大學地理資訊系統研究中心",
+      "作者群": "水土保持局"
+    },
+    {
+      "專業書籍": "運用高解析度衛星影像與空間統計技術於水稻田判釋之研究3/4",
+      "出版單位": "逢甲大學地理資訊系統研究中心",
+      "作者群": "農委會農糧署"
+    },
+    {
+      "專業書籍": "土石流發生區位與颱風降雨分佈之研究",
+      "出版單位": "逢甲大學地理資訊系統研究中心",
+      "作者群": "水土保持局"
+    },
+    {
+      "專業書籍": "空屋數量推估驗證之研究",
+      "出版單位": "逢甲大學地理資訊系統研究中心",
+      "作者群": "內政部建築研究所"
+    },
+    {
+      "專業書籍": "高解析度衛星影像輔助作物產量推估模式之研究",
+      "出版單位": "逢甲大學地理資訊系統研究中心",
+      "作者群": "農委會農糧署"
+    },
+    {
+      "專業書籍": "遙測技術在崩塌地土石流量化分析及坡地管理之應用3/4",
+      "出版單位": "逢甲大學地理資訊系統研究中心",
+      "作者群": "水土保持局"
+    },
+    {
+      "專業書籍": "地理資訊系統於主要水庫集水區管理之應用2.2",
+      "出版單位": "逢甲大學地理資訊系統研究中心",
+      "作者群": "水利署"
+    },
+    {
+      "專業書籍": "遙測技術在崩塌地、土石流量化分析及坡地管理之應用計畫",
+      "出版單位": "逢甲大學地理資訊系統研究中心",
+      "作者群": "水土保持局"
+    },
+    {
+      "專業書籍": "重建區雨量站址之適合性研究",
+      "出版單位": "逢甲大學地理資訊系統研究中心",
+      "作者群": "水土保持局"
+    },
+    {
+      "專業書籍": "地理資訊系統於主要水庫集水區管理之應用1/2",
+      "出版單位": "逢甲大學地理資訊系統研究中心",
+      "作者群": "水利署"
+    },
+    {
+      "專業書籍": "利用921大地震資料建立建築震害危險度評估模式",
+      "出版單位": "逢甲大學地理資訊系統研究中心",
+      "作者群": "國科會"
+    }
+  ],
+  "patent": [],
+  "most": [
+    {
+      "name": "應用國家開放空間資料集於臺中市自行車道友善性評估之研究-以AHP+VIKOR法為例",
+      "schoolYear": "113"
+    },
+    {
+      "name": "Smart City智慧城市之實踐：以Web PPGIS建立城市友善步行地圖",
+      "schoolYear": "111"
+    },
+    {
+      "name": "以TOPSIS法探討國土功能分區適宜性之研究 -以臺中市東勢區為例",
+      "schoolYear": "111"
+    },
+    {
+      "name": "大規模崩塌地之破壞機制、災害預警及風險評估之先進研究-利用多元時空大數據特徵與深度學習模式於探索廣域崩塌發生可能性之研究(子計畫六)(I)",
+      "schoolYear": "109"
+    },
+    {
+      "name": "以人流軌跡分析技術評估校園空間特徵模式與防災策略之研究",
+      "schoolYear": "108"
+    },
+    {
+      "name": "(3/3)韌性宜居智慧城市:以適地性自願地理資訊結合社群媒體巨量資料建構智慧市民參與下的韌性城市宜居生活指標－利用巨量適地性資料改善智慧城市的服務(總計畫暨子計畫三)",
+      "schoolYear": "107"
+    },
+    {
+      "name": "應用空間資訊技術探討山坡地露營區開發對坡地災害影響 -以新竹縣尖石鄉為例",
+      "schoolYear": "107"
+    },
+    {
+      "name": "基於系統鑒別技術、雲端計算與自願性地理資訊之即時淹水潛勢圖的建置，以及即時淹水潛勢圖線上查詢服務",
+      "schoolYear": "105"
+    },
+    {
+      "name": "(3/3)群眾智慧及物聯網支援巨量資訊蒐集與分析-以智慧型城市水患防救為例－建立都市水災災害風險評估模式之研究-以臺中市沙鹿區易淹水區域為例(子計畫四)",
+      "schoolYear": "105"
+    },
+    {
+      "name": "(1/3)韌性宜居智慧城市:以適地性自願地理資訊結合社群 媒體巨量資料建構智慧市民參與下的韌性城市宜居生活指標-利用巨量適地性資料改善智慧城市的服務(總計畫暨子計畫三)",
+      "schoolYear": "105"
+    },
+    {
+      "name": "以多屬性決策邏輯決定水災避難路線權重因子合理性之研究",
+      "schoolYear": "105"
+    },
+    {
+      "name": "整合型-群眾智慧及物聯網支援巨量資訊蒐集與分析-以智慧型城市水患防救為例－建立都市水災災害風險評估模式之研究-以臺中市沙鹿區易淹水區域為例(子計畫四)(2/3)",
+      "schoolYear": "104"
+    },
+    {
+      "name": "發展特徵級概念之自適性同態濾波器校正影像融合色偏問題",
+      "schoolYear": "103"
+    },
+    {
+      "name": "群眾智慧及物聯網支援巨量資訊蒐集與分析-以智慧型城市水患防救為例－建立都市水災災害風險評估模式之研究-以臺中市沙鹿區易淹水區域為例(子計畫四)(1/3)",
+      "schoolYear": "103"
+    },
+    {
+      "name": "利用遙測空間資料挖掘技術於農業土地休耕變遷之研究",
+      "schoolYear": "103"
+    },
+    {
+      "name": "以易損性曲線建構都市環境水災風險度評估模式之研究",
+      "schoolYear": "103"
+    },
+    {
+      "name": "基於生物序列分析法與ANN模式之UAV影像幾何校正之研究",
+      "schoolYear": "101"
+    },
+    {
+      "name": "坡地資訊融合與防災決策支援平台之建置-子計畫一:考慮資料不確定性之資訊融合機制之建立;子計畫二:應用邏輯斯迴歸建立.....(2/2)",
+      "schoolYear": "100"
+    },
+    {
+      "name": "山坡地潛勢災害地圖繪製時不確定問題之研究",
+      "schoolYear": "100"
+    },
+    {
+      "name": "坡地資訊融合與防災決策支援平台之建置-子計畫一:考慮資料不確定性之資訊融合機制之建立;子計畫二:應用邏輯斯迴歸建立.....(1/2)",
+      "schoolYear": "99"
+    },
+    {
+      "name": "前瞻性坡地土石災害即時監測預警系統-子計畫:坡地災變潛勢知識推論引擎之研究(III)",
+      "schoolYear": "99"
+    },
+    {
+      "name": "前瞻性坡地土石災害即時監測預警系統-子計畫:建構坡地災變潛勢知識推論引擎之研究(I)",
+      "schoolYear": "98"
+    },
+    {
+      "name": "運用人機互動學習歷程模式自動化設定區域成長分割方法參數之研究",
+      "schoolYear": "97"
+    },
+    {
+      "name": "以約略集合理論與支援向量機兩種空間知識挖掘技術改進都會區衛星遙測分類問題之研究",
+      "schoolYear": "95"
+    },
+    {
+      "name": "運用多元尺度影像於水稻田分類之研究",
+      "schoolYear": "93"
+    },
+    {
+      "name": "數位空間知識圖籍科技競賽活動計畫",
+      "schoolYear": "92"
+    },
+    {
+      "name": "QuickBird衛星影像最大概似法與知識庫分類法之比較研究：以台中市北屯區為例",
+      "schoolYear": "92"
+    }
+  ],
+  "tech": [
+    {
+      "論文名稱": "Landslide Potential Evaluation Using Fragility Curve Model (2019-09)",
+      "書名": "IntechOpen",
+      "作者群": "Yi-Min Huang*, Tsu-Chiang Lei, Bing-Jean Lee and Meng-Hsun Hsieh"
+    },
+    {
+      "論文名稱": "遙感探測理論與分析實務 (2006-03)",
+      "書名": "遙感探測理論與分析實務",
+      "作者群": "楊龍士、雷祖強、周天穎"
+    }
+  ],
+  "induAca": [
+    "臺中市113年強韌臺灣協作計畫及防災士精進培訓勞務採購案 (2024-03 to 2024-12)",
+    "結合深度學習機制精進水稻自動化判釋模組應用計畫 (2024-01 to 2024-12)",
+    "臺中市保育樂活策略區-新社鄉村地區整體規劃委託技術服務案 (2023-12 to 2024-05)",
+    "5G視訊設備AI技術場域驗証計畫 (2023-09 to 2024-08)",
+    "臺中市 112年度都市更新總顧問委託專業服務案 (2023-05 to 2024-08)",
+    "112年強韌臺灣協作計畫、防災士培訓、地區災害防救計畫修正及簡易疏散避難地圖更新 (2023-05 to 2023-12)",
+    "優化影像資訊整合技術於水稻自動化判釋模組 (2023-01 to 2023-12)",
+    "111年度『鄉村地區整體規劃作業顧問團』委託專業服務案 (2022-12 to 2023-12)",
+    "111年-臺中驛場域模型建置計畫 (2022-08 to 2022-12)",
+    "111年度「農地利用管理法制規劃暨法令諮詢服務計畫」 (2022-03 to 2022-12)",
+    "「111-112年度花蓮縣富里鄉電台山T004、羅山村T005及玉里鎮安通溫泉聚落D018潛在大規模崩塌區調查監測計畫(1/2) (2022-02 to 2022-12)",
+    "111年度臺南分局水庫集水區減砂入庫方案及保育治理專案管理計畫 (2022-01 to 2022-12)",
+    "多元遙測影像與資訊整合技術於水稻自動化判釋模組之研發 (2022-01 to 2022-12)",
+    "運用光達點雲及高光譜資料於林型樹種分類與蓄積量推估模式建置 (2021-12 to 2022-12)",
+    "臺中市110年度都市更新總顧問委託專業服務案 (2021-12 to 2022-12)",
+    "茶產業數位場域先期評估規劃報告書 (2021-11 to 2021-12)",
+    "我國主要農業廢棄物進行流向調查與個案分析 (2021-11 to 2021-11)",
+    "文化的記憶與開創：智慧人文跨域專題前瞻人才培育計畫 (2021-08 to 2022-07)",
+    "建築類文化資產3D掃描模型建置作業參考指引 (2021-07 to 2022-04)",
+    "110年—臺中驛場域模型建置計畫 (2021-07 to 2021-12)",
+    "河川環境情報地圖製作 (2021-03 to 2021-12)",
+    "多元遙測與空間資訊整合應用 (2021-03 to 2024-12)",
+    "高屏溪流域整體改善與調適規劃(1/2) (2021-03 to 2021-12)",
+    "110年度農地利用管理法制規劃暨法令諮詢服務計畫 (2021-02 to 2021-12)",
+    "109年度「國土計畫土地使用管制規則既有權利(益)保障原則研析」委託專業服務案 (2021-01 to 2022-01)",
+    "110年度臺南分局保育治理專案管理計畫 (2021-01 to 2021-12)",
+    "臺中市文化城中城地方創生計畫 (2021-01 to 2021-12)",
+    "臺中驛場域模型建置計畫 (2020-10 to 2020-12)",
+    "敏感地區地質地形監測及管理(觀霧地區) (2020-01 to 2020-12)",
+    "（109年）臺中市文化城中城地方創生計畫 (2020-01 to 2020-12)",
+    "基於多元位置感知資訊探討農村體驗動線規劃之行為模式 (2018-02 to 2018-12)",
+    "以無人機及航遙測技術輔助水稻勘損及作物調查試驗計畫 (2018-01 to 2018-12)",
+    "(農業科技)應用坡地易損性模式於坡地災害損失評估及警戒模式研究 (2018-01 to 2018-12)",
+    "智慧水管理產業創新發展計畫管理及產業推動服務(1/4) (2017-06 to 2017-12)",
+    "應用坡地易損性模式於整合式重點聚落崩塌風險與警戒機制研析 (2017-01 to 2017-12)",
+    "臺中州廳數位基礎場景模型建置案 (2016-10 to 2016-12)",
+    "105年應用坡地易損性模式於崩塌風險與警戒機制研析 (2016-04 to 2017-03)",
+    "「IPv6與物聯網發展先期研究」第二類別「健康長照及食品安全」 (2015-10 to 2015-12)",
+    "103年度「高光譜技術應用於農業研究」 (2014-02 to 2014-12)",
+    "特定水土保持區劃定歷程查詢系統維護及功能擴充計畫 (2013-03 to 2013-12)",
+    "東勢處轄內災害潛勢調查及評估規劃 (2013-01 to 2013-12)",
+    "特定水土保持區劃定歷程查詢系統建置 (2012-03 to 2012-12)",
+    "大湖地區自強橋上游崩塌地滑潛勢治理調查 (2012-03 to 2012-12)",
+    "航遙測技術應用於農作物生產調查與監測之研究 - 以多元智慧型整合資訊模式提高農田坵塊萃取精準性之研究 (2012-02 to 2012-12)",
+    "花蓮市市民災害防救手冊研究設計委託專業服務 (2011-06 to 2011-12)",
+    "南部地區重大土砂災害及堰塞湖緊急調查評估計畫 (2011-04 to 2011-12)",
+    "99年度「臺中縣災害防救深耕計畫」 (2010-06 to 2010-12)",
+    "農路設施改善基本圖彙編及農路資訊系統更新與維護 (2009-04 to 2009-12)",
+    "航遙測技術應用於農作物生產調查與監測之研究 - 運用空間特徵萃取技術強化影像中水稻耕地坵塊問題之研究(2/3) (2009-02 to 2009-12)",
+    "嘉義縣易淹水區域排水上游集水區整體治理規劃 (2008-07 to 2009-11)",
+    "頭前溪流域輸砂與河床沖淤穩定研究(2/2) (2008-05 to 2008-12)",
+    "航遙測技術應用於農作物生產調查與監測之研究 - 運用空間特徵萃取技術強化影像中水稻耕地坵塊問題之研究 (2008-04 to 2008-12)",
+    "農地資源整合性計畫-農田坵塊資料庫更新 (2008-03 to 2008-12)",
+    "雪霸國家公園生態評估模式之建立-林道敏感性劃分之研究 (2007-04 to 2007-12)",
+    "農作物生產調查及受天然災害之偵測與預警-應用高時間與空間解像力遙測影像於水稻田耕作調查(3/3) (2007-04 to 2007-12)",
+    "雪霸國家公園生態評估模式之建立-以崩塌潛勢與地景干擾分析為例 (2006-04 to 2006-12)",
+    "農作物生產調查及受天然災害之偵測與預警-應用高時間與空間解像力遙測影像於水稻田耕作調查(2/3) (2006-01 to 2006-12)",
+    "「大鹿林道東線Quick Bird衛星照片」再處理及分析 (2005-09 to 2005-12)",
+    "衛星照片建置套疊計畫-以IKONOS衛星影像繪製雪霸國家公園植群圖 (2005-02 to 2005-12)",
+    "農作物生產調查及受天然災害之偵測與預警-應用高時間與空間解像力遙測影像於水稻田耕作調查(1/3) (2005-01 to 2005-12)",
+    "雪霸國家公園園區範圍數值地形圖轉檔案 (2004-12 to 2004-12)",
+    "遙測與地景生態分析應用於雪霸國家公園之研究 (2004-01 to 2004-12)",
+    "遙測技術在崩塌地、土石流量化分析及坡地管理之應用(3/4) (2003-03 to 2003-11)",
+    "重建區雨量站址之適合性研究 (2001-08 to 2001-12)"
+  ],
+  "perform": [],
+  "reward": [
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (110, 2021-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (110, 2021-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (109, 2020-11) - 逢甲大學",
+    "逢甲大學優良教材獎勵佳作獎 (106, 2017-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (106, 2017-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (105, 2016-11) - 逢甲大學",
+    "105年度科技部獎勵特殊優秀人才 (105, 2016-08) - 產學合作處",
+    "逢甲大學論文著作獎勵優良獎 (104, 2015-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (104, 2015-11) - 逢甲大學",
+    "104年度科技部獎勵特殊優秀人才 (104, 2015-08) - 產學合作處",
+    "逢甲大學論文著作獎勵傑出獎 (103, 2014-11) - 逢甲大學",
+    "103年度科技部獎勵特殊優秀人才 (103, 2014-08) - 研究發展處",
+    "102年度科技部獎勵特殊優秀人才 (102, 2013-08) - 研究發展處",
+    "逢甲大學論文著作獎勵優良獎 (101, 2012-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (100, 2011-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (100, 2011-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵 (99, 2010-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵 (99, 2010-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵 (99, 2010-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵 (99, 2010-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (99, 2010-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵 (98, 2009-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (98, 2009-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (98, 2009-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵 (97, 2008-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵 (97, 2008-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵 (95, 2006-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵 (95, 2006-11) - 逢甲大學",
+    "學術研究獎勵研發成果佳作獎 (95, 2006-08) - 逢甲大學",
+    "學術研究獎勵研發成果佳作獎 (94, 2005-08) - 逢甲大學",
+    "學術研究獎勵研發成果佳作獎 (93, 2004-11) - 逢甲大學",
+    "航空測量與遙感探測學會獎學金 (92, 2003-08) - 中華民國航空測量與遙感探測學會"
+  ],
+  "speech": [
+    {
+      "演講題目": "時空大數據與防災應用",
+      "邀請單位": "逢甲大學土木系",
+      "演講日期": "2021-12"
+    },
+    {
+      "演講題目": "時空大數據之技術與應用",
+      "邀請單位": "台灣師範大學地理系",
+      "演講日期": "2021-01"
+    },
+    {
+      "演講題目": "「公共工程與防災」",
+      "邀請單位": "農田水利會聯合會",
+      "演講日期": "2014-05"
+    },
+    {
+      "演講題目": "空間統計之理論與應用",
+      "邀請單位": "中央研究院",
+      "演講日期": "2007-08"
+    },
+    {
+      "演講題目": "地理資訊系統概論",
+      "邀請單位": "地籍測量人員訓練班",
+      "演講日期": "2007-05"
+    },
+    {
+      "演講題目": "大甲溪流域防洪預警系統先期規劃-教育訓練講習會",
+      "邀請單位": "水利署第三河川局",
+      "演講日期": "2006-11"
+    },
+    {
+      "演講題目": "2006年農田水利遙測管理人才培訓計畫",
+      "邀請單位": "台灣大學水工試驗所",
+      "演講日期": "2006-10"
+    },
+    {
+      "演講題目": "空間資訊技術運用於環境監測問題之研究",
+      "邀請單位": "大葉大學環境工程學系",
+      "演講日期": "2006-03"
+    },
+    {
+      "演講題目": "土石流監測資訊之應用",
+      "邀請單位": "國立台灣大學生物環境系統工",
+      "演講日期": "2005-10"
+    },
+    {
+      "演講題目": "土石流資訊之分析",
+      "邀請單位": "台灣大學生物工程系",
+      "演講日期": "2004-09"
+    },
+    {
+      "演講題目": "衛星遙測於水資源工程之應用",
+      "邀請單位": "成功大學水利及海洋工程學系",
+      "演講日期": "2004-08"
+    },
+    {
+      "演講題目": "高解析度衛精影像之現況與未來",
+      "邀請單位": "國防部軍備局",
+      "演講日期": "2004-03"
+    },
+    {
+      "演講題目": "空間資訊技術於農田水利工程之應用",
+      "邀請單位": "水利會",
+      "演講日期": "2003-09"
+    },
+    {
+      "演講題目": "空載遙測影像之近況介紹",
+      "邀請單位": "農委會",
+      "演講日期": "2003-08"
+    },
+    {
+      "演講題目": "遙感探測輔助水資源管理",
+      "邀請單位": "水利署",
+      "演講日期": "2003-07"
+    }
+  ],
+  "material": [
+    "地理資訊系統理論與實務\t逢甲大學地理資訊系統研究中心\t周天穎\t複合教材",
+    "空間分析\t逢甲大學環境資源研究所\t雷祖強\t多媒體CD",
+    "空間分析實務\t逢甲大學環境資源研究所\t雷祖強\t多媒體CD",
+    "環境資訊視覺化專論\t逢甲大學環境資源研究所\t雷祖強\t多媒體CD",
+    "資料挖掘\t逢甲大學環境資源研究所\t雷祖強\t多媒體CD",
+    "類神經網路專論\t逢甲大學環境資源研究所\t雷祖強\t多媒體CD",
+    "地理資訊系統\t逢甲大學環境資源研究所\t雷祖強\t多媒體CD",
+    "災害管理與實務\t五南圖書出版股份有限公司\t李秉乾、楊龍士、陳昶憲、連惠邦、葉昭憲、雷祖強、馬彥彬、李瑞陽、陳柏蒼\t教科書"
+  ],
+  "tal": []
+}

@@ -1,0 +1,113 @@
+{
+  "teacherId": "T10322",
+  "name": "葉春秀",
+  "mainUnit": "資訊電機學院",
+  "detailUnit": "資訊工程學系",
+  "skill": [
+    "影像處理Image processing",
+    "智能製造Smart manufacturing",
+    "專案管理Project management",
+    "物件導向Object Oriented"
+  ],
+  "edu": [
+    "國立中興大學 資訊科學與工程研究所 博士"
+  ],
+  "fcuExp": [
+    "蘋果公司區域教育培訓中心 教學組組長",
+    "蘋果公司區域教育培訓中心 教學組組長",
+    "資訊工程學系 兼任副教授",
+    "資訊工程學系 副教授"
+  ],
+  "currjob": [
+    "達克特智能股份有限公司 監察人"
+  ],
+  "otherExp": [
+    "中州科技大學 多媒體與遊戲科學系 副教授",
+    "中州科技大學 資訊管理系 副教授",
+    "中州科技大學 資訊管理系 助理教授",
+    "朝陽科技大學 資訊管理系 講師"
+  ],
+  "journal": [
+    {
+      "論文名稱": "A New Approach of Lossy Image Compression Based on Hybrid Image Resizing Techniques",
+      "期刊名稱": "The International Arab Journal of Information Technology (SCIE)",
+      "作者群": "Jau-Ji Shen, Chun-Hsiu Yeh*, and Jinn-Ke Jan"
+    },
+    {
+      "論文名稱": "A New Blind Image Authentication for Image Tampering Detection and Recovery Based on Block-wise Feature Classification",
+      "期刊名稱": "Journal of Internet Technology (SCIE)",
+      "作者群": "Yung-Chen Chou, Chun-Hsiu Yeh*, Jau-Ji Shen, and Jinn-Ke Jan"
+    },
+    {
+      "論文名稱": "A Comparative Study of User Intention to Recommend Content on Mobile Social Networks",
+      "期刊名稱": "Multimedia tools and applications (MTAD) (SCIE)",
+      "作者群": "Shuchih Ernest Chang, Wei-Cheng Shen, and Chun-Hsiu Yeh"
+    }
+  ],
+  "journal2": [],
+  "conference": [
+    {
+      "論文名稱": "A Smart Traffic Violation Detection and Semi-Automated Reporting System Based on Deep Learning and Image Recognition",
+      "會議名稱": "2025 IEEE 11th International Conference on Applied System Innovation (IEEE ICASI 2025)",
+      "作者群": "Chun-Hsiu Yeh, Zhe-Rei Liu, Jun-Xiang Loe, Ching-Hsiang Chin, Chi-Siong Lee, Yuan-Yu Tsai*"
+    },
+    {
+      "論文名稱": "Enhancing Real-Time PCB Defect Detection with YOLOv8 and a Lightweight FasterNet Backbone",
+      "會議名稱": "2025 IEEE 11th International Conference on Applied System Innovation (IEEE ICASI 2025)",
+      "作者群": "Yi-Teng Lin, Chun-Hsiu Yeh*, Xian-Zhong Lin, Chin-Wei Liao, Xuan Wang"
+    },
+    {
+      "論文名稱": "An Enhanced YOLO-Based Method for Accurate PCB Displacement Defect Detection Using Multi-Metric Fusion",
+      "會議名稱": "2025 IEEE 11th International Conference on Applied System Innovation (IEEE ICASI 2025)",
+      "作者群": "Chin-Wei Laio, Chun-Hsiu Yeh*, Xian-Zhong Lin, YiTeng Lin, Xuan Wang"
+    },
+    {
+      "論文名稱": "A Novel Image Compression Scheme Based on Decision Tree Structure",
+      "會議名稱": "The 20th International Conference on Intelligent Information Hiding and Multimedia Signal Processing",
+      "作者群": "Yeh, Chun-Hsiu, Chang, Hui-Ching, Lin, Yi-Teng, and Chou, Yung-Chen*"
+    },
+    {
+      "論文名稱": "Research and Analysis of the Effects of Different Shielding Materials on Resisting Side-Channel\nAttacks on IoT Device Microcontroller",
+      "會議名稱": "2024 8th International Conference on Cryptography, Security and Privacy (CSP 2024)",
+      "作者群": "Chung-Wei Kuo*, Chun-Chang Lin, Yu-Yi Hong, Jia-Ruei Liu, Chun-Hsiu Yeh, and Kuo-Yu Tsai"
+    },
+    {
+      "論文名稱": "Enhancing Online Learning Monitoring with Novel Image Recognition Method Using Dlib for Eye Feature Detection",
+      "會議名稱": "2023 12th International Conference on Awareness Science and Technology (iCAST)",
+      "作者群": "ChunHsiu Yeh; Wei-Cheng Shen; Hung-Yu Chi; Chin-En Lin; Jong-Shin Chen"
+    },
+    {
+      "論文名稱": "Real time Human Movement Recognition and Interaction in Virtual Fitness using Image Recognition and Motion Analysis",
+      "會議名稱": "2023 12th International Conference on Awareness Science and Technology (iCAST)",
+      "作者群": "ChunHsiu Yeh; Wei-Cheng Shen; Chi-Wei Ma; Qiu-Tong Yeh; Chung-Wei Kuo; Jong-Shin Chen"
+    }
+  ],
+  "book": [],
+  "patent": [],
+  "most": [
+    {
+      "name": "整合視覺識別與自然語言處理於動作分析的應用",
+      "schoolYear": "113"
+    }
+  ],
+  "tech": [],
+  "induAca": [
+    "歐印精品(All-En Boutique)網站數據分析系統 (2023-12 to 2024-05)",
+    "設計與實作具抵抗旁通道攻擊之物聯網微控制器加密傳輸機制 (2023-10 to 2024-07)",
+    "歐印精品(All-En Boutique)網站系統建置 (2023-08 to 2024-03)"
+  ],
+  "perform": [],
+  "reward": [
+    "113學年度資訊工程系專題競賽佳作 (113, 2024-12) - 逢甲大學",
+    "113學年度資訊工程系專題競賽高中生最佳人氣獎 (113, 2024-12) - 逢甲大學",
+    "2024毫米波雷達AI創意競賽-全國第二名 (113, 2024-11) - 國立臺灣師範大學",
+    "大型語言模型實作初階班期末專案競賽第一名 (113, 2024-11) - 台灣人工智慧學校",
+    "2024系統性創新研討會與專案競賽-專案競賽組銀牌(第二名) (112, 2024-01) - 中華系統性創新學會",
+    "2023全民資訊競賽-資訊概論組第四名 (112, 2023-12) - 中華民國電腦教育發展協會",
+    "2023全民資訊競賽-雲端APP程式組第四名 (112, 2023-12) - 中華民國電腦教育發展協會",
+    "2023全民資訊競賽-資訊安全組第一名 (111, 2023-05) - 中華民國電腦教育發展協會"
+  ],
+  "speech": [],
+  "material": [],
+  "tal": []
+}

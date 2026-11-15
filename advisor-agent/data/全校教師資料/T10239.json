@@ -1,0 +1,139 @@
+{
+  "teacherId": "T10239",
+  "name": "謝男凱",
+  "mainUnit": "資訊電機學院",
+  "detailUnit": "自動控制工程學系",
+  "skill": [
+    "機械智慧製造",
+    "物聯網應用",
+    "機電整合、機械手臂實務"
+  ],
+  "edu": [
+    "國立臺灣大學 機械工程研究所 博士"
+  ],
+  "fcuExp": [
+    "薄膜暨量測技術發展中心 副主任",
+    "自動控制工程學系 助理教授"
+  ],
+  "currjob": [],
+  "otherExp": [
+    "嶺東科技大學 資訊科技系 助理教授"
+  ],
+  "journal": [
+    {
+      "論文名稱": "Mathematical and Computational Modeling of Inversion of Iron Content Mining in Tailings Reservoir Using Unmanned-aerial-vehicle-enabled Hyperspectral Imaging",
+      "期刊名稱": "Sensors and Materials (SCIE)",
+      "作者群": "Hui-wei Su, Zhongzheng Hu, Ri-hui Tan, Chih-Cheng Chen*, Avinash Shankaranarayanan, Xi Wang, Nan-Kai Hsieh, and Sheng-Nan Tsai"
+    }
+  ],
+  "journal2": [],
+  "conference": [
+    {
+      "論文名稱": "Enhanced Fault Diagnosis in Harmonic Drive via Wavelet Packet Transform Combined with Gravitational Search Algorithm",
+      "會議名稱": "4th International Conference on Engineering and Technology Innovation",
+      "作者群": "Yu Tsung-Yu, Lin Chang-Yena, Chen You-Tsung, Hsieh Nan-Kai"
+    },
+    {
+      "論文名稱": "Fault Prediction and Health Management of Harmonic Drive",
+      "會議名稱": "6th Asia-Pacific Conference on Engineering and Applied Sciences",
+      "作者群": "Yu-Tsung Yu, Nan-Kai Hsieh, Shiaw-Wu Chen"
+    },
+    {
+      "論文名稱": "燒燙傷即時影像AI檢傷系統",
+      "會議名稱": "TANET & NCS 2023 臺灣網際網路研討會暨全國計算機會議",
+      "作者群": "孫培倫, 蔡孟耘, 陳冠雅, 劉芯妤, 蘇璿, 李宥維, 謝男凱, 王蒞閎, 陳澤龍"
+    },
+    {
+      "論文名稱": "基於AlexNet模型之諧波減速機智能故障診斷",
+      "會議名稱": "第二十一屆離島資訊技術與應用研討會",
+      "作者群": "謝男凱,陳澤龍, 梁詩婷, 林育德, 曾柏硯, 董志彥"
+    }
+  ],
+  "book": [],
+  "patent": [],
+  "most": [
+    {
+      "name": "結合遷移式學習與嵌入式系統於機械手臂即時故障預測與健康管理系統",
+      "schoolYear": "113"
+    },
+    {
+      "name": "基於Shape-based Matching影像辨識方法結合工業CCD於偵測IC擺放姿態",
+      "schoolYear": "113"
+    },
+    {
+      "name": "(個別型)產學合作計畫－提升易敏感族群睡眠品質之室內環境優化系統",
+      "schoolYear": "112"
+    },
+    {
+      "name": "(廠配)優懋網電科技股份有限公司(個別型)產學合作計畫－提升易敏感族群睡眠品質之室內環境優化系統",
+      "schoolYear": "112"
+    },
+    {
+      "name": "基於資料融合與遷移式學習應用於機械手臂之即時故障預測與健康管理系統(PHM)",
+      "schoolYear": "112"
+    },
+    {
+      "name": "(個別型)產學合作計畫－運用機器學習及深度學習於TFT-LCD 組裝廠之自動化產線AOI 瑕疵檢測",
+      "schoolYear": "111"
+    },
+    {
+      "name": "(廠配)勤友光電股份有限公司(個別型)產學合作計畫－運用機器學習及深度學習於TFT-LCD 組裝廠之自動化產線AOI 瑕疵檢測",
+      "schoolYear": "111"
+    },
+    {
+      "name": "基於遷移式學習之諧波減速機故障預測與健康管理系統開發",
+      "schoolYear": "111"
+    },
+    {
+      "name": "以3D視覺輔助機械手臂於半導體廠房高精度定位",
+      "schoolYear": "111"
+    }
+  ],
+  "tech": [],
+  "induAca": [
+    "台灣易格斯有限公司申請進駐中部科學園區一案 (2023-12 to 2024-02)"
+  ],
+  "perform": [],
+  "reward": [
+    "第三名 (112, 2023-12) - 2023永續智慧創新黑客松競賽",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "最佳論文獎 (112, 2023-11) - TANET & NCS 2023 臺灣網際網路研討會暨全國計算機會議",
+    "AI產業創新競賽 第二名 (110, 2022-04) - 台灣人工智慧學校 智慧製造專班第九期"
+  ],
+  "speech": [
+    {
+      "演講題目": "探討如何提升學生學習成效-以鷹架理論、創新教學為例",
+      "邀請單位": "嶺東科技大學資訊科技學系",
+      "演講日期": "2024-06"
+    },
+    {
+      "演講題目": "激發學生於課堂中之提問力與創造力：利用微處理機系統實習為實踐課程",
+      "邀請單位": "嶺東科技大學資訊科技學系",
+      "演講日期": "2023-09"
+    },
+    {
+      "演講題目": "The Future of Smart CNC",
+      "邀請單位": "Aurel Vlaicu University of Arad",
+      "演講日期": "2023-06"
+    },
+    {
+      "演講題目": "設備預兆診斷於製造業落地的最後一哩路",
+      "邀請單位": "教師教學專業成長社群-智慧化辨識系統",
+      "演講日期": "2022-12"
+    },
+    {
+      "演講題目": "如何落實教學創新讓學生學習有動機",
+      "邀請單位": "靜宜大學財務金融學系",
+      "演講日期": "2022-10"
+    },
+    {
+      "演講題目": "如何讓學生愛上學習",
+      "邀請單位": "靜宜大學財務金融學系",
+      "演講日期": "2022-09"
+    }
+  ],
+  "material": [],
+  "tal": [
+    "112年度大專校院教學實踐研究計畫「激發學生於課堂中之提問力與創造力:利用微處理機系統實習為實踐課程」 (112)"
+  ]
+}

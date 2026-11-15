@@ -1,0 +1,609 @@
+{
+  "teacherId": "T87024",
+  "name": "許芳榮",
+  "mainUnit": "資訊電機學院",
+  "detailUnit": "資訊工程學系",
+  "skill": [
+    "雲端運算Cloud Computing",
+    "生物資訊Bioinformatics",
+    "人工智慧AI",
+    "醫學影像Biomedical Imagimg"
+  ],
+  "edu": [
+    "國立交通大學 資訊工程研究所 博士",
+    "國立交通大學 計算機工程系 學士"
+  ],
+  "fcuExp": [
+    "生物資訊研究中心 主任",
+    "生醫資訊暨生醫工程碩士學位學程（籌備） 籌備主任",
+    "生醫資訊暨生醫工程碩士學位學程 主任",
+    "資訊電機學院 秘書",
+    "3D列印研究發展中心 主任",
+    "產業研發碩士專班 執行長",
+    "資訊工程學系 系主任",
+    "美國加州舊金山州立大學資訊工程雙學士學位學程 籌備主任",
+    "美國加州舊金山州立大學資訊工程雙學士學位學程 主任",
+    "蘋果公司區域教育培訓中心 主任",
+    "逢甲大學帆宣智慧城市5G實驗室 研究員",
+    "會計學系 兼任副教授",
+    "資訊工程學系 教授",
+    "資訊工程學系 教授",
+    "資訊工程學系 教授",
+    "資訊工程學系 教授",
+    "資訊工程學系 教授"
+  ],
+  "currjob": [],
+  "otherExp": [
+    "台中健康暨管理學院 生物資訊學系 教授兼系主任",
+    "台中健康暨管理學院 資訊科技學系 教授兼系主任",
+    "靜宜大學 會計學系 教授",
+    "靜宜大學 計算機及通訊中心 主任",
+    "靜宜大學 會計學系 副教授"
+  ],
+  "journal": [
+    {
+      "論文名稱": "An Integrated Approach using YOLOv8 and ResNet, SeResNet & Vision Transformer (ViT) Algorithms based on ROI Fracture Prediction in X-ray Images of the Elbow",
+      "期刊名稱": "Current Medical Imaging (SCIE)",
+      "作者群": "Taukir Alam, Wei-Cheng Yeh, Fang Rong Hsu*, Wei-Chung Shia, A. Robert Singh, Taimoor Hassan, Wenru Lin, Hong-Ye Yang and Tahir Hussain"
+    },
+    {
+      "論文名稱": "Exploring the use of deep learning models for accurate tracking of 3D zebrafish trajectories",
+      "期刊名稱": "Frontiers in Bioengineering and Biotechnology (SCIE)",
+      "作者群": "Yi-Ling Fan, Ching-Han Hsu, Fang-Rong Hsu and Lun-De Liao"
+    },
+    {
+      "論文名稱": "Next-Generation Swimming Pool Drowning Prevention Strategy Integrating AI and IoT Technologies",
+      "期刊名稱": "HELIYON (SCIE)",
+      "作者群": "Wei-Chun Kao, Yi-Ling Fan, Fang-Rong Hsu, Chien-Yu Shen, Lun-De Liao"
+    },
+    {
+      "論文名稱": "Coating process control in lithium‐ion battery manufacturing using cumulative sum charts",
+      "期刊名稱": "Production Engineering Research and Development (EI)",
+      "作者群": "Min‐Chang Liu*, Fang‐Rong Hsu, Chua‐Huang Huang"
+    },
+    {
+      "論文名稱": "Evaluating the Margins of Breast Cancer Tumors by Using Digital Breast Tomosynthesis with Deep Learning: A Preliminary Assessment",
+      "期刊名稱": "Diagnostics (SCIE)",
+      "作者群": "Wei-Chung Shia, Yu-Hsun Kuo, Fang-Rong Hsu, Joseph Lin, Wen-Pei Wu, Hwa-Koon Wu, Wei-Cheng Yeh and Dar-Ren Chen"
+    },
+    {
+      "論文名稱": "Complex event recognition and anomaly detection with event behavior model",
+      "期刊名稱": "Pattern Analysis and Applications (SCIE)",
+      "作者群": "Min‐Chang Liu* , Fang‐Rong Hsu, Chua‐Huang Huang"
+    },
+    {
+      "論文名稱": "Unlocking the Potential of Zebrafish Research with Artificial Intelligence: Advancements in Tracking, Processing, and Visualization",
+      "期刊名稱": "Medical & Biological Engineering & Computing (SCIE)",
+      "作者群": "Yi-Ling Fan,  Fang-Rong Hsu,  Yuhling Wang, and Lun-De Liao"
+    },
+    {
+      "論文名稱": "Improving Breast Cancer Detection and Diagnosis through Semantic Segmentation Using the Unet3+ Deep Learning Framework",
+      "期刊名稱": "Biomedicines (SCIE)",
+      "作者群": "Taukir Alam, Wei-Chung Shia, Fang-Rong Hsu, and Taimoor Hassan"
+    },
+    {
+      "論文名稱": "The application of artificial intelligence to support biliary atresia screening by ultrasound images: A study based on deep learning models.",
+      "期刊名稱": "PLOS ONE (SCIE)",
+      "作者群": "Fang-Rong Hsu,Sheng-Tong Dai,Chia-Man Chou,Sheng-Yang Huang"
+    },
+    {
+      "論文名稱": "Semantic Segmentation of the Malignant Breast Imaging Reporting and Data System Lexicon on Breast Ultrasound\nImages by Using DeepLab v3+",
+      "期刊名稱": "Sensors (SCIE)",
+      "作者群": "Wei-Chung Shia, Fang-Rong Hsu, Seng-Tong Dai, Shih-Lin Guo and Dar-Ren Chen"
+    },
+    {
+      "論文名稱": "Incorporating The Breast Imaging Reporting and Data System Lexicon With A Fully Convolutional Network For Malignancy Detection On Breast Ultrasound",
+      "期刊名稱": "Diagnostics (SCIE)",
+      "作者群": "Yung-Hsien Hsieh, Fang-Rong Hsu, Seng-Tong Dai, Hsin-Ya Huang, Dar-Ren Chen, and Wei-Chung Shia*"
+    },
+    {
+      "論文名稱": "A Wearable Embedded System for Assisting Cognition of Visually Impaired People by Street Scene Description",
+      "期刊名稱": "Journal of Computers (EI)",
+      "作者群": "Feng-Cheng Lin*, Shou-Jin She, Huu-Huy Ngo, Chyi-Ren Dow, and Fang-Rong Hsu"
+    },
+    {
+      "論文名稱": "A Study of User Interface with Wearable Devices Based on Computer Vision",
+      "期刊名稱": "IEEE Consumer Electronics Magazine (SCIE)",
+      "作者群": "F. R. Hsu*, Y. H. Kuo, S. Y. Wei, Y. H. Hsieh, and D. C. Nguyen"
+    },
+    {
+      "論文名稱": "Improvement in UWB Indoor Positioning by Using Multiple Tags to Filter Positioning Errors",
+      "期刊名稱": "Journal of Internet Technology (SCIE)",
+      "作者群": "Ming-Fong Tsai, Thanh-Nam Pham, Bo-Cai Hu, Fang-Rong Hsu"
+    },
+    {
+      "論文名稱": "A Novel Steganography Scheme for Video H.264/AVC without Distortion Drift",
+      "期刊名稱": "Multimedia Tools and Applications (SCIE)",
+      "作者群": "Dinh-Chien Nguyen, Thai-Son Nguyen*, Fang-Rong Hsu, Hsieh-Yung Hsien"
+    },
+    {
+      "論文名稱": "High Embedding Capacity Data Hiding Algorithm for H.264/AVC Video Sequences without Intraframe Distortion Drift",
+      "期刊名稱": "Security and Communication Networks (SCIE)",
+      "作者群": "Nguyen, D. C., Nguyen T. S.*, Chang, C. C., Hsueh, H. S., and Hsu, F. R."
+    },
+    {
+      "論文名稱": "The Feasibility of utilizing Vascularity Characteristics in Three-Dimensional Power Doppler Ultrasonography to Predict Complete Responses in Patients Undergoing Neoadjuvant Chemotherapy",
+      "期刊名稱": "Current Trends in Biomedical Engineering & Biosciences ()",
+      "作者群": "Wei-Chung Shia, Dar-Ren Chen, Yu-Len Huang, Hwa-Koon Wu and Fang-Rong Hsu"
+    },
+    {
+      "論文名稱": "An improved ChIP-seq peak detection system for simultaneously identifying post-translational modified transcription factors by combinatorial fusion, using SUMOylation as an example",
+      "期刊名稱": "BMC Genomics (SCIE,EI)",
+      "作者群": "Chia Yang Cheng, Chia-Han Chu, Fang-Rong Hsu, Chuan Yi Tang, Wen-Ching Wang, Hsing-Jien Kung and Pei-Ching Chang"
+    },
+    {
+      "論文名稱": "The Deployment and Implementation of Two Spliced Alignment Tools in a Grid Environment",
+      "期刊名稱": "Journal of Internet Technology (SCIE,EI)",
+      "作者群": "Fang Rong Hsu1, Wei-Chung Shia, Wei Cheng Hsueh"
+    },
+    {
+      "論文名稱": "Whole-genome sequencing and identification of Morganella morganii KT pathogenicity-related genes\r\n\r\n",
+      "期刊名稱": "BMC Genomics (SCIE)",
+      "作者群": "Y.T. Chen, H.L.Peng, W.C. Shia,F.R.Hsu, C.F. Ken, Y.M. Tsao, C. H. Chen,C. Y. Tang, T.H. Ku*"
+    },
+    {
+      "論文名稱": "Genetic Copy Number Variants in Myocardial Infarction Patients with Hyperlipidemia,",
+      "期刊名稱": "BMC Genomics (SCIE)",
+      "作者群": "W.C. Shia, T.H. Ku, Y.M. Tsao, C.H. Hsia, Y.M. Chang, C.H. Huang, Y.C. Chung,S.L.Hsu,K.W.Liang and F.R. Hsu*"
+    },
+    {
+      "論文名稱": "\"ATTdb: A Tumor and Tissue Specific Natural Antisense Transcripts Database",
+      "期刊名稱": "Journal of Computers, (EI)",
+      "作者群": "Fang Rong Hsu*, M. C. Lee, Nai Wan Hsiao, and Wei Chung Shia"
+    },
+    {
+      "論文名稱": "Single Nucleotide Polymorphism Mapping Using Multi-Layer Unique Markers",
+      "期刊名稱": "Journal of Computers ()",
+      "作者群": "Fang Rong Hsu, Wei-Chung Shia, Jer Fong Chen, and Fang Ming Hsu"
+    },
+    {
+      "論文名稱": "Efficient Algorithms for the Minimum Connected Domination on Trapezoid Graphs",
+      "期刊名稱": "Information Sciences (SCIE,EI)",
+      "作者群": "Y.T,Tsai, Y.L.Lin, and F.R.Hsu"
+    },
+    {
+      "論文名稱": "Comparative Analysis of Alternative Splicing Events in Human and Mouse",
+      "期刊名稱": "WSEAS TRANSACTIONS on INFORMATION SCIENCE & APPLICATIONS (EI)",
+      "作者群": "Chia-Hung Liu, Fang Rong Hsu, Hwan-You Chang, Wei-Chung Shia, Hui-Ling Peng, Ying Tsong Chen, Yaw-Lin Lin, Yin-Te Tsai"
+    },
+    {
+      "論文名稱": "Some Optimal Parallel Algorithms for Shortest Path Related Problems on Interval and Circular-arc Graphs",
+      "期刊名稱": "Journal of Information Science and Engineering (SCIE,EI)",
+      "作者群": "F. R. Hsu, M. K. Shan, H. S. Chao and R. C. T. Lee"
+    },
+    {
+      "論文名稱": "The Application of Alternative Splicing Graphs in Quantitative Analysis of Alternative Splicing Form from EST Database",
+      "期刊名稱": "International Journal of Computer Applications in Technology (EI)",
+      "作者群": "Hsun-Chang Chang, Po-Shun Yu, Tze-Wei Huang, Fang-Rong Hsu, Yaw-Ling Lin"
+    },
+    {
+      "論文名稱": "AVATAR: A database for genome-wide alternative splicing event detection using large scale ESTs and mRNAs",
+      "期刊名稱": "Bioinformation ()",
+      "作者群": "F.R. Hsu, H.Y. Chang, Y.L. Lin, Y.T. Tsai, H.L. Peng,Y.T. Chen, C.Y. Cheng,M.Y. Shih, C.H. Liu,and C.F. Chen"
+    },
+    {
+      "論文名稱": "Fault-Tolerant Pattern Mining of Exon Skipped Sequences from Alternative Splicing Database",
+      "期刊名稱": "Journal of Computers ()",
+      "作者群": "F. R. Hsu, M. K. Shan, H. L. Peng and F. M. Hsu,"
+    },
+    {
+      "論文名稱": "Establish a XBRL Taxonomy for Taiwan's Business Income Tax Return",
+      "期刊名稱": "Accounting and Corporate Governance ()",
+      "作者群": "Shaio-Yan Huang, F.R. Hsu, Hsueh-Ju Chen, Su-Ling Huang,"
+    },
+    {
+      "論文名稱": "Establish the XBRL Taxonomy for Taiwan's General Ledger",
+      "期刊名稱": "Chung Yuan Management Review ()",
+      "作者群": "Shaio Yan Huang, Fang Rong Hsu, Kuang-Hsun Shih, and Mei-Chi Wu"
+    },
+    {
+      "論文名稱": "Parallel Algorithms for Finding the Center of Interval and Circular-arc Graphs",
+      "期刊名稱": "IEICE transactions on Fundamentals of Electronics, Communica (SCIE,EI)",
+      "作者群": "F. R. Hsu,and M. K. Shan"
+    },
+    {
+      "論文名稱": "The On-Line First-Fit Algorithm for Radio Frequency Assignment Problems",
+      "期刊名稱": "Information Processing Letters (SCIE,EI)",
+      "作者群": "Y. T. Tsai, Y. L. Lin, and F. R. Hsu"
+    },
+    {
+      "論文名稱": "Parallel Algorithms for Connected Domination Problem on Interval and Circular-arc Graphs",
+      "期刊名稱": "WSEAS Transactions on Mathematics ()",
+      "作者群": "F.R. Hsu, and M.K. Shan"
+    },
+    {
+      "論文名稱": "Finding the Shortest Boundary Guard of a Simple Polygon",
+      "期刊名稱": "Theoretical Computer Sciences (SCIE,EI)",
+      "作者群": "Bor-Kuan Lu, Fang-Rong Hsu and Chuan Yi Tang"
+    },
+    {
+      "論文名稱": "Guarding in a Simple Polygon",
+      "期刊名稱": "Information Processing Letters (SCIE,EI)",
+      "作者群": "Bor-Kuan Lu, Fang-Rong Hsu and Chuan Yi Tang"
+    },
+    {
+      "論文名稱": "An Optimal Algorithm for Finding the Minimum Cardinality Dominating Set on Permutation Graphs",
+      "期刊名稱": "Discrete Applied Mathematics (SCIE,EI)",
+      "作者群": "H. S. Chao, F. R. Hsu and R. C. T. Lee"
+    },
+    {
+      "論文名稱": "An Optimal EREW Parallel Algorithm for Computing Breadth-First Search Trees on Permutation Graphs",
+      "期刊名稱": "Information Processing Letters (SCIE,EI)",
+      "作者群": "H. S. Chao, F. R. Hsu and R. C. T. Lee"
+    },
+    {
+      "論文名稱": "Optimal Parallel Preprocessing Algorithms for Testing Weak Visibility of Polygons from Segments",
+      "期刊名稱": "Journal of Parallel Algorithms and Applications ()",
+      "作者群": "F. R. Hsu, R.C. Chang and R. C. T. Lee"
+    },
+    {
+      "論文名稱": "Parallel Algorithms for Computing the Closest Visible Vertex Pair between two Polygons",
+      "期刊名稱": "Int. Journal of Computational Geometry and Applications ()",
+      "作者群": "F. R. Hsu, R.C. Chang and R. C. T. Lee"
+    },
+    {
+      "論文名稱": "Special Subgraphs of Weighted Visibility Graphs",
+      "期刊名稱": "Information Processing Letters ()",
+      "作者群": "F. R. Hsu, R.C.T. Lee and R. C. Chang"
+    }
+  ],
+  "journal2": [],
+  "conference": [
+    {
+      "論文名稱": "The application of artificial intelligence to support behavior recognition by zebrafish: A study based on deep learning models",
+      "會議名稱": "International Conference on Frontier Computing 2023",
+      "作者群": "Yi-Ling Fan, Fang-Rong Hsu, Jing-Yaun Lu, Min-Jie Chung and Tzu-Ching Chang"
+    },
+    {
+      "論文名稱": "Application of Z-score Model for financial early warning of listed companies and verification of the effect of m-score model",
+      "會議名稱": "The Information Technology and Application Conference",
+      "作者群": "Fang-Rong Hsu*, Hsin-Yu Liang, Ze-Sheng Chen, Chen-Wei Ling, Chia-Mei Wang"
+    },
+    {
+      "論文名稱": "Image Semantic Segment on Embedded System Implementation - Street View Feedback as Example",
+      "會議名稱": "International Conference on Innovative Computing and Management Science 2019",
+      "作者群": "Fang-Rong Hsu, Shou-Jin She and Feng-Cheng Lin*"
+    },
+    {
+      "論文名稱": "An Effective Mining Algorithm for Profit Mining",
+      "會議名稱": "International Symposium on Computer, Consumer and Control (IS3C)",
+      "作者群": "Yu-Lung Hsieh, Don-Lin Yang* and Fang Rong Hsu"
+    },
+    {
+      "論文名稱": "人類基因中外顯子跳躍事件的頻繁內隱子片段與循序樣式探勘",
+      "會議名稱": "2011 National Computer Symposium",
+      "作者群": "董燕文、林明言、許芳榮"
+    },
+    {
+      "論文名稱": "Medicare-Grid: A Grid Based E-Health System",
+      "會議名稱": "International Workshop on U-Healthcare Technologies and Services (U-Healthcare)",
+      "作者群": "Po-Chi Shih, Yeh-Ching Chung, Kuan-Ching Li, Chao-Tung Yang, Ching-Hsien Hsu*, Fang-Rong Hsu, Don-Lin Yang, Chia-Hsien Wen, Chuang-Chien Chiu"
+    },
+    {
+      "論文名稱": "Medicare-Grid: new trends on the development of E-Health System based on Grid Technology",
+      "會議名稱": "Proceedings of the First IMIA/IFIP Joint Symposium, E-Health 2010, Held as Part of World Computer Congress 2010",
+      "作者群": "Yeh-Ching Chung, Po-Chi Shih, Kuan-Ching Li, Chao-Tung Yang, Ching-Hsien Hsu, Fang-Rong Hsu, Don-Lin Yang, Chia-Hsien Wen, Chuang-Chien Chiu"
+    },
+    {
+      "論文名稱": "第12屆國際計算生物會議",
+      "會議名稱": "第12屆國際計算生物會議",
+      "作者群": ""
+    },
+    {
+      "論文名稱": "Comparative analysis of alternative splicing events in humans, mice and rats",
+      "會議名稱": "2007 IAENG International Conference on Bioinformatics",
+      "作者群": "Fang-Rong Hsu, Chao-Jung Chen, Min-Chieh Kuo, Wei-Chung Shia, and Hwan-You Chang"
+    },
+    {
+      "論文名稱": "Discovery the Relationship Between Single Nucleotide Polymorphisms and Alternative Splicing Events",
+      "會議名稱": "2006 International conference on biomedical engineering",
+      "作者群": "Fang Rong Hsu, Hsien Chun Lin,and Hwan-You Chang"
+    },
+    {
+      "論文名稱": "Aligning ESTs to Genome Using Low Frequency High Density Index",
+      "會議名稱": "the 2006 International Computer Symposium",
+      "作者群": "F. R. Hsu and Shu Ying Sue"
+    },
+    {
+      "論文名稱": "ANALYSIS OF EXON SKIPPING EVENTS IN HUMAN AND MOUSE",
+      "會議名稱": "the 7th WSEAS International Conference on Mathematics & Computers in Biology & Chemistry",
+      "作者群": "Chia-Hung Liu, Fang Rong Hsu, Hwan-You Chang, Wei-Chung Shia, HUI-LING PENG, YING TSONG CHEN, Yaw-Lin Lin, Yin-Te Tsai"
+    },
+    {
+      "論文名稱": "The Design and Implementation of Updating and Monitoring Alternative Splicing Database",
+      "會議名稱": "2005 National Computer Symposium",
+      "作者群": "Chin-Feng Chen, Wei-Chung Shia, Fang-Ming Hsu, Wei-Ru Yang, and Fang-Rong Hsu"
+    },
+    {
+      "論文名稱": "Gene Structure Assembly Through Analysis OF Large-scale ESTs",
+      "會議名稱": "2005 National Computer Symposium",
+      "作者群": "Fang-Rong Hsu, Jiun-Tang You, and W. C. Shia"
+    },
+    {
+      "論文名稱": "Single Nucleotide Polymorphism Mapping Using Multi-Layer Unique Markers",
+      "會議名稱": "2005 Workshop of Science and Artificial",
+      "作者群": "Fang Rong Hsu, Wei-Chung Shia, J. F. Chen, and Fang Ming Hsu"
+    },
+    {
+      "論文名稱": "EMSA: A Multiple Spliced Alignment Algorithm",
+      "會議名稱": "13th Annual International conference on Intelligent Systems for Molecular Biology (ISMB 2005)",
+      "作者群": "F.R Hsu, and W.C Shia"
+    },
+    {
+      "論文名稱": "Finding Development Specific Alternative Splicing Using EST Database",
+      "會議名稱": "13th Annual International conference on Intelligent Systems for Molecular Biology (ISMB 2005)",
+      "作者群": "Tien-hsiung Ku, and Fang Rong Hsu"
+    },
+    {
+      "論文名稱": "Genome-wide alternative splicing events detection through analysis of large scale ESTs",
+      "會議名稱": "the IEEE 4th symposium on bioinformatics and bioengineering (BIBE2004)",
+      "作者群": "F. R. Hsu, Hwan-You Chang, Yaw-Lin Lin, Yin-Te Tsai, Hui-Ling Peng, Ying Tsong Chen, Che Feng Chen,, Chia Yang Cheng, Chia-Hung Liu, Min Yao Shih"
+    },
+    {
+      "論文名稱": "The Application of Alternative Splicing Graphs in Quantitative Analysis of Alternative Splicing Form from EST Database",
+      "會議名稱": "the IEEE 4th symposium on bioinformatics and bioengineering (BIBE2004)",
+      "作者群": "Hsun-Chang Chang, Tze-Wei Huang, Po-Shun Yu, Yaw-Ling Lin, Fang-Rong Hsu,"
+    },
+    {
+      "論文名稱": "Discovery of Tumor-Specific Alternative Splicing Sites",
+      "會議名稱": "the 8th Annual International Conference on Research in Computational Molecular Biology (RECOMB2004)",
+      "作者群": "Fang Rong Hsu, Chia Yang Cheng"
+    },
+    {
+      "論文名稱": "Avatar: a value added transcriptome database",
+      "會議名稱": "the 6th Conference on Engineering Technology and Chinese/Western Medicine Applications",
+      "作者群": "F. R. Hsu, Ying Tsong Chen,  Hwan-You Chang, Yaw-Lin Lin, Yin-Te Tsai, Hui-Ling Peng,  Min Yao Shih,  Chia-Hung Liu, and Jer Feng Chen,"
+    },
+    {
+      "論文名稱": "台灣營利事業所得稅可延伸企業報告語言分類標準之建立",
+      "會議名稱": "2003年電子商務經營管理研討會",
+      "作者群": "許芳榮、黃紹彥、陳雪如、黃素玲"
+    }
+  ],
+  "book": [
+    {
+      "專業書籍": "管理資訊系統",
+      "出版單位": "旗標出版股份有限公司",
+      "作者群": "季延平、許芳榮等"
+    }
+  ],
+  "patent": [],
+  "most": [
+    {
+      "name": "透過整合 3D 空間追蹤和深度學習模型揭示斑馬魚行為",
+      "schoolYear": "113"
+    },
+    {
+      "name": "基於深度學習的斑馬魚即時行為辨識之研究與開發 (II)",
+      "schoolYear": "112"
+    },
+    {
+      "name": "基於深度學習的斑馬魚即時行為辨識之研究與開發",
+      "schoolYear": "111"
+    },
+    {
+      "name": "基於機器學習的病理性新生兒黃疸電腦輔助診斷系統之設計與開發",
+      "schoolYear": "110"
+    },
+    {
+      "name": "A3pviGrid：適用於SARS CoV-2和其他大流行病毒中生物醫學應用的深度學習微網格架構",
+      "schoolYear": "109"
+    },
+    {
+      "name": "(3/3)4i工程人才培育研究計畫--跨領域創新行動應用程式APP人才培育課程開發與實踐(跨領域工程教育人才培育與研究計畫)",
+      "schoolYear": "107"
+    },
+    {
+      "name": "(3/3)韌性宜居智慧城市:以適地性自願地理資訊結合社群媒體巨量資料建構智慧市民參與下的韌性城市宜居生活指標－利用巨量適地性資料改善智慧城市的服務(總計畫暨子計畫三)",
+      "schoolYear": "107"
+    },
+    {
+      "name": "(2/3)4i工程人才培育研究計畫--跨領域創新行動應用程式APP人才培育課程開發與實踐(跨領域工程教育人才培育與研究計畫)",
+      "schoolYear": "106"
+    },
+    {
+      "name": "(3/3)基於CDIO理念的跨領域終端課程改造與實踐(想像力與創新思維融入工程教育人才培育與研究)",
+      "schoolYear": "106"
+    },
+    {
+      "name": "(深耕)精密主軸於智慧型滾齒機之應用暨推廣(2/2)",
+      "schoolYear": "106"
+    },
+    {
+      "name": "(2/3)韌性宜居智慧城市:以適地性自願地理資訊結合社群 媒體巨量資料建構智慧市民參與下的韌性城市宜居生活指標－利用巨量適地性資料改善智慧城市的服(總計畫暨子計畫三)",
+      "schoolYear": "106"
+    },
+    {
+      "name": "Times Series Skyline Query with Recurrent Neural Network",
+      "schoolYear": "106"
+    },
+    {
+      "name": "Using iBeacon Indoor Positioning Technology Incorporating Cloud-Controlled Trackless AGV",
+      "schoolYear": "106"
+    },
+    {
+      "name": "(1/3)4i工程人才培育研究計畫-跨領域創新行動應用程式APP人才培育課程開發與實踐(跨領域工程教育人才培育與研究計畫)",
+      "schoolYear": "105"
+    },
+    {
+      "name": "複合植物工廠融入中學之創新創客課程的研究(臺中二中)－子計畫二：創新創客課程的評量(1/3)",
+      "schoolYear": "105"
+    },
+    {
+      "name": "(2/3)基於CDIO理念的跨領域終端課程改造與實踐(想像力與創新思維融入工程教育人才培育與研究)",
+      "schoolYear": "105"
+    },
+    {
+      "name": "(1/3)韌性宜居智慧城市:以適地性自願地理資訊結合社群 媒體巨量資料建構智慧市民參與下的韌性城市宜居生活指標-利用巨量適地性資料改善智慧城市的服務(總計畫暨子計畫三)",
+      "schoolYear": "105"
+    },
+    {
+      "name": "(1/3)基於CDIO理念的跨領域終端課程改造與實踐(想像力與創新思維融入工程教育人才培育與研究)",
+      "schoolYear": "104"
+    },
+    {
+      "name": "具攝影鏡頭之3D印表機之設計與實作",
+      "schoolYear": "103"
+    },
+    {
+      "name": "3D列印普及與深耕推廣計畫(ST4)",
+      "schoolYear": "102"
+    },
+    {
+      "name": "全基因體自然反義轉錄之研究與應用",
+      "schoolYear": "100"
+    },
+    {
+      "name": "全基因體染色體異常之發現與分析",
+      "schoolYear": "99"
+    },
+    {
+      "name": "以生物資訊方法研究RNA編輯對選擇性剪裁之調控",
+      "schoolYear": "98"
+    },
+    {
+      "name": "藉由分析大量表現序列標籤研究SNP與RNA編輯",
+      "schoolYear": "97"
+    },
+    {
+      "name": "探索分支點與選擇性剪裁之關連性",
+      "schoolYear": "96"
+    },
+    {
+      "name": "以生物資訊方法分析選擇性剪裁之機轉",
+      "schoolYear": "95"
+    },
+    {
+      "name": "以生物資訊方法探索選擇性剪裁與疾病之關係",
+      "schoolYear": "94"
+    },
+    {
+      "name": "研究單一核    酸多型性和選擇性裁切事件",
+      "schoolYear": "94"
+    },
+    {
+      "name": "應用於基因與訊號檢測之比較基因體方法 - (子計畫三)人類及老鼠之訊息核醣核酸選擇性裁剪之收集與比較分析(3/3)",
+      "schoolYear": "92"
+    }
+  ],
+  "tech": [],
+  "induAca": [
+    "偉穎科技服務股份有限公司申請投資設立於南部科學園區之諮詢顧問案 (2018-12 to 2018-12)",
+    "107年度人工智慧技術與應用領域系列課程計畫—應用人工智慧技術於生物資訊、醫學工程、社群分析領域 (2018-12 to 2020-07)",
+    "107年度「扎根高中職資訊科學教育計畫」 (2018-08 to 2019-07)",
+    "107年度教育部資通訊軟體創新人才推升推廣計畫—「A類：智慧終端與人機互動」 (2018-02 to 2019-01)",
+    "106年度教育部扎根高中職資訊科學教育計畫 (2017-08 to 2018-07)",
+    "影像電子簽章App(iOS)系統開發計畫 (2017-07 to 2017-12)",
+    "「3D列印產業推動計畫中部推廣活動」委託服務契約書 (2017-05 to 2017-10)",
+    "106年度資通訊軟體創新人才推升推廣計畫─A類：「智慧終端與人機互動」 (2017-02 to 2018-01)",
+    "行動寬頻尖端技術課程推廣計畫「嵌入式系統導論智慧聯網應用」 (2016-12 to 2018-02)",
+    "行動寬頻尖端技術課程推廣計畫「資料挖掘 (105 下)/資料倉儲與巨量資料 (106 上)」 (2016-12 to 2018-02)",
+    "105年度扎根高中職資訊科學教育計畫 (2016-08 to 2017-07)",
+    "105提升校園行動應用服務研發及內容設計人才培育計畫 (2016-05 to 2017-08)",
+    "自行車暨健康科技先進技術與服務模式精進計畫 (2016-05 to 2016-07)",
+    "第十一屆盛群盃HOLTEK MCU創意大賽 (2016-04 to 2017-01)",
+    "105年度資通訊軟體創新人才推升推廣計畫「A類：智慧終端與人機互動」 (2016-02 to 2017-01)",
+    "103學年度大學校院推動課程分流計畫─推動「智慧聯網產業學院」課程分流與產業連結計畫 (2014-12 to 2015-11)",
+    "103學年度教育部補助大學校院推動課程分流計畫「推動『智慧聯網產業學院』課程分流與產業鏈結計畫」 (2014-12 to 2015-11)"
+  ],
+  "perform": [],
+  "reward": [
+    "113年度國科會補助大專校院研究獎勵 (113, 2024-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (113, 2024-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (113, 2024-11) - 逢甲大學",
+    "112年度國科會補助大專校院研究獎勵 (112, 2023-12) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (111, 2022-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (110, 2021-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (109, 2020-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (108, 2019-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (104, 2015-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (103, 2014-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (102, 2013-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (101, 2012-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (101, 2012-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵 (97, 2008-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (97, 2008-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (96, 2007-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵 (95, 2006-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (95, 2006-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (95, 2006-11) - 逢甲大學",
+    "Asia/Pacific Who's Who (94, 2006-01) - Rifacimento, International",
+    "國科會績優研究團隊 (94, 2005-08) - 國科會",
+    "第三屆Linux黃金企鵝獎 (94, 2005-08) - 台北市電腦商業同業公會"
+  ],
+  "speech": [
+    {
+      "演講題目": "後基因體時代生物資訊研究議題",
+      "邀請單位": "玉山醫務暨健康管理學會",
+      "演講日期": "2011-12"
+    },
+    {
+      "演講題目": "雲端計算及其應用",
+      "邀請單位": "中山大學",
+      "演講日期": "2010-06"
+    },
+    {
+      "演講題目": "Using a Bioinformatics Approach to search Splice Sites Regulated by RNA editing",
+      "邀請單位": "亞洲大學",
+      "演講日期": "2010-05"
+    },
+    {
+      "演講題目": "破解DNA密碼",
+      "邀請單位": "東平國小",
+      "演講日期": "2009-12"
+    },
+    {
+      "演講題目": "認識意識會談",
+      "邀請單位": "鹿港國小",
+      "演講日期": "2008-09"
+    },
+    {
+      "演講題目": "Indexing genomic sequences",
+      "邀請單位": "台灣師大",
+      "演講日期": "2008-07"
+    },
+    {
+      "演講題目": "Analysis of Alternative Splicing Events in human, rat, mouse",
+      "邀請單位": "東海大學資訊工程系",
+      "演講日期": "2006-03"
+    },
+    {
+      "演講題目": "Constructions and Applications of Alternative Splicing DBs",
+      "邀請單位": "彰化師範大學生科系",
+      "演講日期": "2005-12"
+    },
+    {
+      "演講題目": "Introduction to Bioinformatics",
+      "邀請單位": "僑光技術學院資管系",
+      "演講日期": "2005-12"
+    },
+    {
+      "演講題目": "Mugup: an experience of bioinformatics application in Linux",
+      "邀請單位": "國科會",
+      "演講日期": "2005-08"
+    },
+    {
+      "演講題目": "Comparative Analysis of Alternative Splicing in Human & Mice",
+      "邀請單位": "陽明大學生物資訊所",
+      "演講日期": "2004-12"
+    },
+    {
+      "演講題目": "Comparative Analysis of Alternative Splicing in Human & Mice",
+      "邀請單位": "淡江大學資訊工程系",
+      "演講日期": "2004-11"
+    },
+    {
+      "演講題目": "Indexing genomic sequences",
+      "邀請單位": "國家理論科學研究中心",
+      "演講日期": "2004-08"
+    }
+  ],
+  "material": [],
+  "tal": [
+    "110年度大專校院教學實踐研究計畫「基於CDIO理念的跨領域課程設計與實踐: 以區塊鏈實務與應用為例」 (110)"
+  ]
+}

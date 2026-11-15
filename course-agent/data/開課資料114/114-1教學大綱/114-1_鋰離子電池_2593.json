@@ -1,0 +1,757 @@
+{
+  "success": true,
+  "info": {
+    "yms_year": 114.0,
+    "yms_smester": 1.0,
+    "sub_id": "50051",
+    "cls_id": "CS03310",
+    "scr_dup": "001",
+    "sub_id3": "MSE6014",
+    "cls_name": "材料碩一",
+    "cls_ename": "Master's Program, Department of Materials Science and Engineering",
+    "sub_name": "鋰離子電池",
+    "sub_ename": "LITHIUM ION BATTERIES",
+    "scr_mso": "選修",
+    "scr_mso_en": "Elective",
+    "scr_credit": 3.0,
+    "scr_periodly": "(二)06-08",
+    "scr_periodly_eng": "(Tue)06-08",
+    "lang_name": "中文                                                      ",
+    "lang_ename": "Chinese",
+    "scr_room": "學409",
+    "scr_room_eng": "XSB409",
+    "scr_teacher": "邱國峰",
+    "scr_teacher_eng": "Kuo-Feng Chiu",
+    "scr_selcode": "2593",
+    "scr_elearning": "全學期",
+    "scr_elearning_en": "Full semester",
+    "scr_hours": "3",
+    "scr_english": "N",
+    "unt_name": null,
+    "unt_ename": null,
+    "link_traminal": null,
+    "link_traminal_en": null,
+    "scr_ldl": "D",
+    "course_mk": "0",
+    "teams_mk": "N",
+    "sub_title": null,
+    "sub_title_en": null,
+    "sub_describe": null,
+    "sub_describe_en": null,
+    "hasDescription": null,
+    "hasInstructor": null,
+    "hasTA": null,
+    "hasTextBooks": null,
+    "hasReadings": null,
+    "hasiSoftwares": null,
+    "hasAssistSoftwares": null,
+    "hasObjective": null,
+    "hasWeeklyScds": null,
+    "hasGradeRules": null,
+    "hasGradeRuleDescribe": null,
+    "hasIntegrity": null,
+    "hasCoursePol": null,
+    "hasCourseRem": null,
+    "hasObjectiveReleation": null,
+    "hasTopicSdgs": null,
+    "hasSubTitleDesc": null
+  },
+  "subTitleDesc": null,
+  "description": {
+    "sub_id3": null,
+    "sub_name": "鋰離子電池",
+    "sub_ename": "LITHIUM ION BATTERIES",
+    "describe_ch": "本課程目的為學習並熟悉鋰離子電池之設計原理與製程技術。課程內容注重在基本電化學儲能原理與機制、鋰離子電池設計方法、正極(陰極)材料、陽極材料、電解質材料、集流板材料、電池元件分析方法。本課程除了透過課堂講授外，也將透過輔助相關教材來加速學生學習。",
+    "describe_eh": "This course aims to learn and be familiar with the design principles and process technology of lithium-ion batteries. The course content focuses on basic electrochemical energy storage principles and mechanisms, lithium-ion battery design methods, cathode (cathode) materials, anode materials, electrolyte materials, current collector materials, and battery component analysis methods. In addition to teaching in class, this course will also speed up student learning through supplementary related teaching materials.",
+    "pre_subname": "",
+    "pre_sub_id3": null,
+    "pre_sub_ename": "",
+    "pre_describe": null,
+    "pre_describe_en": null,
+    "scr_credit": 3.0
+  },
+  "targets": [
+    {
+      "seq": 1,
+      "describe_ch": "理解鋰離子電池之設計原理",
+      "describe_en": "Being familiar with the design principles of lithium ion batteries."
+    },
+    {
+      "seq": 2,
+      "describe_ch": "說明現代鋰離子電池產業結構，得以熟習其材料選用與分析技術",
+      "describe_en": "Understanding the industrial structure of lithium ion batteries and being familiar with its materials selection and analysis techniques."
+    },
+    {
+      "seq": 3,
+      "describe_ch": "訓練學生應用材料及數學知識分析鋰離子電池元件\t",
+      "describe_en": "Training the skills of applying materials and mathematics knowledge to analyze lithium ion battery devices."
+    },
+    {
+      "seq": 4,
+      "describe_ch": "理解鋰離子電池之材料、製程與設計原理。\t",
+      "describe_en": "Training the skills of literature review and survey for lithium ion battery related reports and information."
+    }
+  ],
+  "teachersInfo": [
+    {
+      "cname": "邱國峰",
+      "ename": "Kuo-Feng Chiu",
+      "period": " ",
+      "roletype": 0,
+      "email": "kfchiu@o365.fcu.edu.tw",
+      "ext": "5336"
+    }
+  ],
+  "textBooks": {
+    "yms_year": 114.0,
+    "yms_smester": 1.0,
+    "cls_id": "CS03310",
+    "sub_id": "50051",
+    "scr_dup": "001",
+    "tpb_seq": 1,
+    "tpb_book": "<div>Lithium-ion batteries : science and technologies, edited by Masaki Yoshio, Ralph J. Brodd, Akiya Kozawa</div>\n\n<div>(e-book in FCU library)&nbsp;</div>\n",
+    "tpb_book_en": null
+  },
+  "readings": {
+    "yms_year": 114.0,
+    "yms_smester": 1.0,
+    "cls_id": "CS03310",
+    "sub_id": "50051",
+    "scr_dup": "001",
+    "tpc_seq": 1,
+    "tpc_book": "<div>Lecture notes&nbsp;by Prof. KF Chiu</div>\n\n<div>自編講義&nbsp; &nbsp; 邱國峰 編輯&nbsp;</div>\n\n<div>Selected paper</div>\n",
+    "tpc_book_en": null
+  },
+  "iSoftwares": [],
+  "assistSoftwares": [],
+  "weeklyScds": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CS03310",
+      "sub_id": "50051",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "1-2",
+      "tpd_reading": "<div>review of basic electrochemistry</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": "<div>Assignment 1</div>\n",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": "授課/作業",
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": 6.0,
+      "tpd_online_face": 6.0,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CS03310",
+      "sub_id": "50051",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "3-4",
+      "tpd_reading": "<div>introduction to lithium ion battery</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": "<div>assignment 2</div>\n",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": "授課/作業",
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": 6.0,
+      "tpd_online_face": 6.0,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CS03310",
+      "sub_id": "50051",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "5-6",
+      "tpd_reading": "<div>cathode</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": "<div>assignment 3</div>\n",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": "授課/作業",
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": 6.0,
+      "tpd_online_face": 6.0,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CS03310",
+      "sub_id": "50051",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "7-8",
+      "tpd_reading": "<div>anode</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": "<div>assignment 4</div>\n",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": "授課/作業",
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": 6.0,
+      "tpd_online_face": 6.0,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CS03310",
+      "sub_id": "50051",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "9-10",
+      "tpd_reading": "<div>electrolyte</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": "<div>assignment 5</div>\n",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": "授課/作業",
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": 6.0,
+      "tpd_online_face": 6.0,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CS03310",
+      "sub_id": "50051",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "11-12",
+      "tpd_reading": "<div>separator</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": "<div>assignment 6</div>\n",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": "授課/作業",
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": 6.0,
+      "tpd_online_face": 6.0,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CS03310",
+      "sub_id": "50051",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "13-14",
+      "tpd_reading": "<div>cell manufacturing</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": "<div>assignment 7</div>\n",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": "授課/作業",
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": 6.0,
+      "tpd_online_face": 6.0,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CS03310",
+      "sub_id": "50051",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "15-16",
+      "tpd_reading": "<div>cell design</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": "<div>assignment 8</div>\n",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": "授課/作業",
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": 6.0,
+      "tpd_online_face": 6.0,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CS03310",
+      "sub_id": "50051",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "17-18",
+      "tpd_reading": "<div>solid-state battery</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": "<div>assignment 9</div>\n",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": "授課/作業",
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": 6.0,
+      "tpd_online_face": 6.0,
+      "tpd_week_en": null,
+      "mode": 0
+    }
+  ],
+  "gradeRules": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CS03310",
+      "sub_id": "50051",
+      "scr_dup": "001",
+      "evalb_id": "D4",
+      "score_rate": 40,
+      "evalb_memo": "期中作業",
+      "evalb_memo_en": null,
+      "evalb_name": "作業",
+      "evalb_name_en": "Homework",
+      "seq": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CS03310",
+      "sub_id": "50051",
+      "scr_dup": "001",
+      "evalb_id": "G5",
+      "score_rate": 40,
+      "evalb_memo": "期末報告",
+      "evalb_memo_en": null,
+      "evalb_name": "書面報告",
+      "evalb_name_en": "Writing report",
+      "seq": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CS03310",
+      "sub_id": "50051",
+      "scr_dup": "001",
+      "evalb_id": "L4",
+      "score_rate": 20,
+      "evalb_memo": "課程參與度",
+      "evalb_memo_en": null,
+      "evalb_name": "出席狀況",
+      "evalb_name_en": "Attendances",
+      "seq": 0
+    }
+  ],
+  "gradeRuleDescribe": {
+    "yms_year": 114.0,
+    "yms_smester": 1.0,
+    "cls_id": "CS03310",
+    "sub_id": "50051",
+    "scr_dup": "001",
+    "tpa_score_new": "<div>採用學期成績記分法、出席及缺席、課堂互動與參與討論、作業提交及遲交、考評及補考、作弊及抄襲、學期預警、或加分及補救措施等措施，均為本課程期望彼此能遵守的評分規則</div>\n",
+    "tpa_score_new_en": null,
+    "course_pol": "上課型態無特別需求，將課堂禮儀、網路禮儀、或學生責任等規則無特別需求，課堂實體與網路虛擬空間分開請勿言語或肢體攻擊他人，本課程期望彼此能遵守的課堂之注意禮節及行為 。",
+    "course_pol_en": null,
+    "course_rem": null,
+    "course_rem_en": null,
+    "ais_meno": "<div>期望學生在學習評量、在班上互動、在課程結束後的表現等學術誠信的樣態及可能的處分:</div>\n\n<div>期中作業未交0分，期末報告未交0分。</div>\n\n<div>學習必須以誠信為基礎，任何學生企圖將自己未製作的作品，作為自己的作品，此行為是為不誠實行為。在作業、測驗或考試中作弊或抄襲的學生或協助他人的行為，該次成績以零分計，若是累犯，將依逢甲大學學生獎懲辦法提送。\n<ul>\n\t<li>考核時如果您抄襲他人的答案、或交作業時您交出全部或部分由他人撰寫的論文或作業，則被視為作弊。</li>\n\t<li>考核時如果您抄襲他人的答案、或交作業時您交出全部或部分由他人撰寫的論文或作業，則被視為作弊。</li>\n</ul>\n</div>\n\n<div>&nbsp;</div>\n",
+    "ais_meno_en": null,
+    "ilearn_mk": "N"
+  },
+  "integrity": {
+    "yms_year": 114.0,
+    "yms_smester": 1.0,
+    "cls_id": "CS03310",
+    "sub_id": "50051",
+    "scr_dup": "001",
+    "tpa_score_new": "<div>採用學期成績記分法、出席及缺席、課堂互動與參與討論、作業提交及遲交、考評及補考、作弊及抄襲、學期預警、或加分及補救措施等措施，均為本課程期望彼此能遵守的評分規則</div>\n",
+    "tpa_score_new_en": null,
+    "course_pol": "上課型態無特別需求，將課堂禮儀、網路禮儀、或學生責任等規則無特別需求，課堂實體與網路虛擬空間分開請勿言語或肢體攻擊他人，本課程期望彼此能遵守的課堂之注意禮節及行為 。",
+    "course_pol_en": null,
+    "course_rem": null,
+    "course_rem_en": null,
+    "ais_meno": "<div>期望學生在學習評量、在班上互動、在課程結束後的表現等學術誠信的樣態及可能的處分:</div>\n\n<div>期中作業未交0分，期末報告未交0分。</div>\n\n<div>學習必須以誠信為基礎，任何學生企圖將自己未製作的作品，作為自己的作品，此行為是為不誠實行為。在作業、測驗或考試中作弊或抄襲的學生或協助他人的行為，該次成績以零分計，若是累犯，將依逢甲大學學生獎懲辦法提送。\n<ul>\n\t<li>考核時如果您抄襲他人的答案、或交作業時您交出全部或部分由他人撰寫的論文或作業，則被視為作弊。</li>\n\t<li>考核時如果您抄襲他人的答案、或交作業時您交出全部或部分由他人撰寫的論文或作業，則被視為作弊。</li>\n</ul>\n</div>\n\n<div>&nbsp;</div>\n",
+    "ais_meno_en": null,
+    "ilearn_mk": "N"
+  },
+  "policy": {
+    "yms_year": 114.0,
+    "yms_smester": 1.0,
+    "cls_id": "CS03310",
+    "sub_id": "50051",
+    "scr_dup": "001",
+    "tpa_score_new": "<div>採用學期成績記分法、出席及缺席、課堂互動與參與討論、作業提交及遲交、考評及補考、作弊及抄襲、學期預警、或加分及補救措施等措施，均為本課程期望彼此能遵守的評分規則</div>\n",
+    "tpa_score_new_en": null,
+    "course_pol": "上課型態無特別需求，將課堂禮儀、網路禮儀、或學生責任等規則無特別需求，課堂實體與網路虛擬空間分開請勿言語或肢體攻擊他人，本課程期望彼此能遵守的課堂之注意禮節及行為 。",
+    "course_pol_en": null,
+    "course_rem": null,
+    "course_rem_en": null,
+    "ais_meno": "<div>期望學生在學習評量、在班上互動、在課程結束後的表現等學術誠信的樣態及可能的處分:</div>\n\n<div>期中作業未交0分，期末報告未交0分。</div>\n\n<div>學習必須以誠信為基礎，任何學生企圖將自己未製作的作品，作為自己的作品，此行為是為不誠實行為。在作業、測驗或考試中作弊或抄襲的學生或協助他人的行為，該次成績以零分計，若是累犯，將依逢甲大學學生獎懲辦法提送。\n<ul>\n\t<li>考核時如果您抄襲他人的答案、或交作業時您交出全部或部分由他人撰寫的論文或作業，則被視為作弊。</li>\n\t<li>考核時如果您抄襲他人的答案、或交作業時您交出全部或部分由他人撰寫的論文或作業，則被視為作弊。</li>\n</ul>\n</div>\n\n<div>&nbsp;</div>\n",
+    "ais_meno_en": null,
+    "ilearn_mk": "N"
+  },
+  "courseBankC": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CS03310",
+      "sub_id": "50051",
+      "scr_dup": "001",
+      "seq": 1,
+      "describe_ch": "理解鋰離子電池之設計原理",
+      "describe_en": "Being familiar with the design principles of lithium ion batteries.",
+      "core_id": "A",
+      "core_item": "材料科學與工程的專業領域",
+      "core_eng": "Areas of Specialization in Materials Science and Engineering",
+      "core_level": "2 ",
+      "strgy": [
+        "01"
+      ],
+      "evalb": [
+        "D4"
+      ],
+      "strgy_name": [
+        "課堂授課"
+      ],
+      "strgy_name_en": [
+        "Classroom instruction"
+      ],
+      "evalb_name": [
+        "作業"
+      ],
+      "evalb_name_en": [
+        "Homework"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CS03310",
+          "sub_id": "50051",
+          "scr_dup": "001",
+          "seq": 1,
+          "strgy_id": "01",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CS03310",
+          "sub_id": "50051",
+          "scr_dup": "001",
+          "seq": 1,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D4",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CS03310",
+      "sub_id": "50051",
+      "scr_dup": "001",
+      "seq": 2,
+      "describe_ch": "說明現代鋰離子電池產業結構，得以熟習其材料選用與分析技術",
+      "describe_en": "Understanding the industrial structure of lithium ion batteries and being familiar with its materials selection and analysis techniques.",
+      "core_id": "D",
+      "core_item": "創新思考及獨立解決材料研發問題的能力並注重環境永續問題。",
+      "core_eng": "Innovative thinking and the ability to independently solve material research and development problems and pay attention to environmental sustainability issues.",
+      "core_level": "1 ",
+      "strgy": [
+        "01"
+      ],
+      "evalb": [
+        "D4"
+      ],
+      "strgy_name": [
+        "課堂授課"
+      ],
+      "strgy_name_en": [
+        "Classroom instruction"
+      ],
+      "evalb_name": [
+        "作業"
+      ],
+      "evalb_name_en": [
+        "Homework"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CS03310",
+          "sub_id": "50051",
+          "scr_dup": "001",
+          "seq": 2,
+          "strgy_id": "01",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CS03310",
+          "sub_id": "50051",
+          "scr_dup": "001",
+          "seq": 2,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D4",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CS03310",
+      "sub_id": "50051",
+      "scr_dup": "001",
+      "seq": 3,
+      "describe_ch": "訓練學生應用材料及數學知識分析鋰離子電池元件\t",
+      "describe_en": "Training the skills of applying materials and mathematics knowledge to analyze lithium ion battery devices.",
+      "core_id": "B",
+      "core_item": "策劃及執行材料專題研究的能力。",
+      "core_eng": "Ability to plan and execute materials research.",
+      "core_level": "4 ",
+      "strgy": [
+        "01"
+      ],
+      "evalb": [
+        "D4"
+      ],
+      "strgy_name": [
+        "課堂授課"
+      ],
+      "strgy_name_en": [
+        "Classroom instruction"
+      ],
+      "evalb_name": [
+        "作業"
+      ],
+      "evalb_name_en": [
+        "Homework"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CS03310",
+          "sub_id": "50051",
+          "scr_dup": "001",
+          "seq": 3,
+          "strgy_id": "01",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CS03310",
+          "sub_id": "50051",
+          "scr_dup": "001",
+          "seq": 3,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D4",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CS03310",
+      "sub_id": "50051",
+      "scr_dup": "001",
+      "seq": 4,
+      "describe_ch": "理解鋰離子電池之材料、製程與設計原理。\t",
+      "describe_en": "Training the skills of literature review and survey for lithium ion battery related reports and information.",
+      "core_id": "C",
+      "core_item": "撰寫材料專業論文的能力。",
+      "core_eng": "Ability to write technical papers on materials.",
+      "core_level": "2 ",
+      "strgy": [
+        "01"
+      ],
+      "evalb": [
+        "D4"
+      ],
+      "strgy_name": [
+        "課堂授課"
+      ],
+      "strgy_name_en": [
+        "Classroom instruction"
+      ],
+      "evalb_name": [
+        "作業"
+      ],
+      "evalb_name_en": [
+        "Homework"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CS03310",
+          "sub_id": "50051",
+          "scr_dup": "001",
+          "seq": 4,
+          "strgy_id": "01",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CS03310",
+          "sub_id": "50051",
+          "scr_dup": "001",
+          "seq": 4,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D4",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    }
+  ],
+  "topicSdgs": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CS03310",
+      "sub_id": "50051",
+      "scr_dup": "001",
+      "sdgs_seq": 8,
+      "main_related": "Y",
+      "ind_related": "N",
+      "iss_name": "經濟成長面",
+      "iss_ename": "Economic Growth",
+      "content_name": "永續能源",
+      "content_ename": "Affordable and Clean Energy"
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CS03310",
+      "sub_id": "50051",
+      "scr_dup": "001",
+      "sdgs_seq": 14,
+      "main_related": "Y",
+      "ind_related": "N",
+      "iss_name": "環境保護面",
+      "iss_ename": "Environmental Protection",
+      "content_name": "減緩氣候變遷",
+      "content_ename": "Climate Action"
+    }
+  ],
+  "learnHours": {
+    "total": 108.0,
+    "tpdOnlineAsyTotal": 0.0,
+    "tpdOnlineSynTotal": 54.0,
+    "tpdOnlineFaceTotal": 54.0,
+    "asySynInTotalPercent": 50.0
+  },
+  "crossVerYear": 114
+}

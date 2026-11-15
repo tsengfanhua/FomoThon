@@ -1,0 +1,905 @@
+{
+  "teacherId": "T08041",
+  "name": "謝振中",
+  "mainUnit": "資訊電機學院",
+  "detailUnit": "電機工程學系",
+  "skill": [
+    "電力電子Power Electronics",
+    "電機與磁性元件設計Motor and magnetic components design",
+    "輸配電系統設計Transmission and distribution power systems design",
+    "智慧財產權(專利)Intellectual property rights(Patent)"
+  ],
+  "edu": [
+    "國立清華大學 電機工程 博士",
+    "國立清華大學 電機工程 碩士",
+    "國立臺灣工業技術學院 電機工程 學士"
+  ],
+  "fcuExp": [
+    "電機工程學系 系主任",
+    "電機工程學系 教授"
+  ],
+  "currjob": [],
+  "otherExp": [
+    "勞委會職訓局 工業電子技術士 技能檢定學科 命題委員",
+    "勞委會職訓局 儀表電子甲、乙級 技術士技能檢定 監評人員",
+    "勞委會職訓局 工業電子丙級 技術士技能檢定 監評人員",
+    "大華科技大學 電機與電子系兼工程與設計學院 教授兼院長",
+    "勞委會職訓局 室內配線 甲、乙、丙級 技術士技能檢定 監評人員",
+    "親民技術學院 電機工程系 講師"
+  ],
+  "journal": [
+    {
+      "論文名稱": "Application and Case Study of Solid-state Technology in Power Conversion Systems",
+      "期刊名稱": "Monthly Journal of Taipower’s Engineering (國家圖書館期刊文獻資訊網)",
+      "作者群": "Wen-Zhuang Jiang, Shih-Chieh Lin, Jenn-Jong Shieh,Tsung-En Huang, Cheng-Jun Yeh"
+    },
+    {
+      "論文名稱": "Active Battery Voltage Equalization Based on Chain-Loop Comparison Strategy",
+      "期刊名稱": "Energies (SCIE)",
+      "作者群": "Kuo-Ing Hwu,Yuan-Hua Lin and Jenn-Jong Shieh"
+    },
+    {
+      "論文名稱": "Computer-Aided Multi-Objective Optimization Design for Switching Power Converter with Coupled Inductors",
+      "期刊名稱": "Journal of Taiwan Energy (TSSCI)",
+      "作者群": "Chung-Tsun Chen,  Jenn-Jong Shieh, Ken Hsiao,  Francis Fan, Wen-Zhuang Jang"
+    },
+    {
+      "論文名稱": "High-Performance Multi-Level Inverter with Symmetry and Simplification",
+      "期刊名稱": "Micromachines (SCIE)",
+      "作者群": "Jenn-Jong Shieh, Kuo-Ing Hwu, and Chien-Ting Lin"
+    },
+    {
+      "論文名稱": "Single-Stage Step-Down Power Factor Corrector Without Full-Bridge Rectifier",
+      "期刊名稱": "Applied Sciences (SCIE)",
+      "作者群": "Kuo-Ing Hwu, Jenn-Jong Shieh, Yu-Ping He"
+    },
+    {
+      "論文名稱": "Two Types of Asymmetric Switched-Capacitor Five-Level Single-Phase DC-AC Inverters for Renewable Energy Applications",
+      "期刊名稱": "Energies (SCIE)",
+      "作者群": "Jenn-Jong Shieh, Kuo-Ing Hwu, and Sheng-Ju Chen"
+    },
+    {
+      "論文名稱": "Universal-Input Single-Stage High-Power-Factor LED Driver with Active Low-Frequency Current Ripple Suppressed",
+      "期刊名稱": "Energies (SCIE)",
+      "作者群": "Kuo-Ing Hwu, Jenn-Jong Shieh and Chien-Ting Lin"
+    },
+    {
+      "論文名稱": "Applying a  Multiple-Input Single-Output Interleaved High Step-Up Converter with a Current-Sharing Device Having Different Input Currents to Harvest Energy from Multiple Heat Sources",
+      "期刊名稱": "Applied Sciences (SCIE)",
+      "作者群": "Kuo-Ing Hwu, Jenn-Jong Shieh and Pin-Jung Chen"
+    },
+    {
+      "論文名稱": "Sequential Fuzzy Taguchi Method for Multi-Objective Optimization Design of Three-Phase Squirrel Cage Induction Motors",
+      "期刊名稱": "Monthly Journal of Taipower’s Engineering (國家圖書館期刊文獻資訊網)",
+      "作者群": "Chen, Zhong-Cun,Jenn-Jong Shieh, Luang, Yu-Ju"
+    },
+    {
+      "論文名稱": "Multi-Objective Optimization Design of a Three-Phase Induction Motor Using Genetic Algorithm",
+      "期刊名稱": "Journal of Taiwan Energy (TSSCI)",
+      "作者群": "Hsiang-Hua Liu, Jenn-Jong Shieh, Zhong-Cun Chen"
+    },
+    {
+      "論文名稱": "Perspective of Voltage-Fed Single-Phase Multilevel DC-AC Inverters",
+      "期刊名稱": "Energies (SCIE)",
+      "作者群": "Jenn-Jong Shieh, Kuo-Ing Hwu, and Sheng-Ju Chen"
+    },
+    {
+      "論文名稱": "Analysis and Modeling of a Single-Power-Source T-Type 7-Level Single-Phase DC-AC Inverter with Voltage Gain of 3",
+      "期刊名稱": "Energies (SCIE)",
+      "作者群": "Jenn-Jong Shieh, Kuo-Ing Hwu, and You-Yang Li"
+    },
+    {
+      "論文名稱": "A Single-Voltage-Source Class-D Boost Multi-Level Inverter with Self-Balanced Capacitors",
+      "期刊名稱": "Energies (SCIE)",
+      "作者群": "Jenn-Jong Shieh, Kuo-Ing Hwu, and You-Yang Li"
+    },
+    {
+      "論文名稱": "Four-Channel Buck-Type LED Driver with Automatic Current Sharing and Soft Switching",
+      "期刊名稱": "Applied Sciences (SCIE)",
+      "作者群": "Wen-Zhuang Jiang, Kuo-Ing Hwu, and Jenn-Jong Shieh"
+    },
+    {
+      "論文名稱": "Multi-Objective Optimization Design of a Permanent Magnet Brushless Motor Based on Integrated Fuzzy Logic and Taguchi Method",
+      "期刊名稱": "Journal of Taiwan Energy (TSSCI)",
+      "作者群": "Sheng-Wei Zhan, Jenn-Jong Shieh"
+    },
+    {
+      "論文名稱": "Development of a Thermal Energy Harvesting Converter with Multiple Inputs and an Isolated Output",
+      "期刊名稱": "Energies (SCIE)",
+      "作者群": "Yeu-Torng Yau, Kuo-Ing Hwu, and Jenn-Jong Shieh"
+    },
+    {
+      "論文名稱": "Minimization of Output Voltage Ripple of Two-Phase Interleaved Buck Converter with Active Clamp",
+      "期刊名稱": "Energies (SCIE)",
+      "作者群": "Yeu-Torng Yau, Kuo-Ing Hwu  and Jenn-Jong Shieh"
+    },
+    {
+      "論文名稱": "Soft Switching of Non-Isolated Buck-Type Converter with Common-Ground Switch",
+      "期刊名稱": "Energies (SCIE)",
+      "作者群": "Yeu-Torng Yau, Kuo-Ing Hwu, and Jenn-Jong Shieh"
+    },
+    {
+      "論文名稱": "Applying FPGA Control with ADC-Free Sampling to Multi-Output Forward Converter",
+      "期刊名稱": "Electronics (SCIE,1)",
+      "作者群": "Yeu-Torng Yau, Kuo-Ing Hwu, and Jenn-Jong Shieh"
+    },
+    {
+      "論文名稱": "LLC LED Driver with Current-Sharing Capacitor Having Low Voltage Stress",
+      "期刊名稱": "Energies (SCIE)",
+      "作者群": "Wen-Zhuang Jiang, Kuo-Ing Hwu, and Jenn-Jong Shieh"
+    },
+    {
+      "論文名稱": "基於田口法之永磁無刷馬達結構多目標最佳化設計",
+      "期刊名稱": "電力電子雙月刊 (國家圖書館期刊文獻資訊網)",
+      "作者群": "詹昇韋、謝振中"
+    },
+    {
+      "論文名稱": "Simple Structure of Soft Switching for Boost Converter",
+      "期刊名稱": "Energies (SCIE)",
+      "作者群": "Yeu-Torng Yau,  Kuo-Ing Hwu, and Jenn-Jong Shieh"
+    },
+    {
+      "論文名稱": "混合電力供電系統於高爾夫球電動車的設計與仿真模擬",
+      "期刊名稱": "電力電子雙月刊 (電力電子)",
+      "作者群": "趙中興、謝振中"
+    },
+    {
+      "論文名稱": "Improvement in Voltage Gain of Interleaved High Step-Down Converter",
+      "期刊名稱": "Energies (SCIE)",
+      "作者群": "Kuo-Ing Hwu, Jenn-Jong Shieh, and Hsiang-Hao Tu"
+    },
+    {
+      "論文名稱": "Interleaved Boost Converter with ZVT-ZCT for Main Switches and ZCS for Auxiliary Switch",
+      "期刊名稱": "Applied Sciences (SCIE)",
+      "作者群": "Kuo-Ing Hwu, Jenn-Jong Shieh, and Wen-Zhuang Jiang"
+    },
+    {
+      "論文名稱": "應用於直流微電網之獨立供電型太陽能系統",
+      "期刊名稱": "電力電子雙月刊 (電力電子雙月刊)",
+      "作者群": "胡國英、徐建銘、謝振中"
+    },
+    {
+      "論文名稱": "石墨烯添加包覆於鋰離子電池負極材料之儲能研究",
+      "期刊名稱": "台電工程月刊 (台電工程月刊)",
+      "作者群": "杜侑達、謝振中"
+    },
+    {
+      "論文名稱": "以數位化實現具零電流零電壓柔切式升壓型轉換器",
+      "期刊名稱": "電力電子雙月刊 (電力電子雙月刊)",
+      "作者群": "胡國英、江文莊、謝振中"
+    },
+    {
+      "論文名稱": "A New Bridgeless Buck PFC Rectifier",
+      "期刊名稱": "International Journal of Circuit Theory and Applications (SCIE)",
+      "作者群": "Kuo-Ing Hwu, Jenn-Jong Shieh and Wen-Zhuang Jiang"
+    },
+    {
+      "論文名稱": "Three-Level Boost Converter with Zero Voltage Transition",
+      "期刊名稱": "IET Power Electronics (SCIE)",
+      "作者群": "Kuo-Ing Hwu, Jenn-Jong Shieh and Wen-Zhuang Jiang"
+    },
+    {
+      "論文名稱": "Case Study for Hydrogen Fuel Cell Power Sources with Residential Districts",
+      "期刊名稱": "Journal of Vehicle Engineering (Journal of Vehicle Engineering)",
+      "作者群": "Jenn-Jong.Shieh, Chung-Hsing Chao, William Fang"
+    },
+    {
+      "論文名稱": "Dimmable AC LED Driver Based on Series Drive",
+      "期刊名稱": "IEEE Journal of Display Technology (SCIE)",
+      "作者群": "Kuo-Ing Hwu and Jenn-Jong Shieh"
+    },
+    {
+      "論文名稱": "Improvement in Efficiency of LED Lighting System Based on Reduction of Voltage across MOSFET",
+      "期刊名稱": "Trans. on IEEJ (SCIE)",
+      "作者群": "Kuo-Ing Hwu, Wen-Zhuang Jiang, and Jenn-Jong Shieh"
+    },
+    {
+      "論文名稱": "具零電壓切換之三電平升壓型轉換器",
+      "期刊名稱": "電力電子雙月刊 (電力電子雙月刊)",
+      "作者群": "胡國英，謝振中"
+    },
+    {
+      "論文名稱": "故障電流限制器於電力系統之技術發展與應用",
+      "期刊名稱": "電機月刊 (電機月刊)",
+      "作者群": "謝振中，陳士麟"
+    },
+    {
+      "論文名稱": "Coordinated Converter-Charger for Hybrid Fuel Cell-Battery Power Sources",
+      "期刊名稱": "Applied Mechanics and Materials (EI)",
+      "作者群": "Jenn-Jong Shieh and Chung-Hsing Chao"
+    },
+    {
+      "論文名稱": "Inductor Saturation Detection with Anti-Saturation Control Strategy Taken into Account",
+      "期刊名稱": "International Review of Electrical Engineering (SCIE)",
+      "作者群": "K. I. Hwu and Jenn-Jong Shieh"
+    },
+    {
+      "論文名稱": "Development of EEFL Lighting Ballast Based on Isolated Asymmetrical Half-Bridge LCC Resonant Inverter",
+      "期刊名稱": " International Review of Electrical Engineering (SCIE)",
+      "作者群": "K. I. Hwu and Jenn-Jong Shieh"
+    },
+    {
+      "論文名稱": "Primary-Side Control for Series-Parallel Loosely Coupling Chargers",
+      "期刊名稱": " International Review of Automatic Control (IREACO)",
+      "作者群": "Yuan-Hsin Chao and Jenn-Jong Shieh"
+    },
+    {
+      "論文名稱": "A New Control Strategy for Hybrid Fuel Cell-Battery Power Systems with Improved Efficiency",
+      "期刊名稱": "International Journal of Hydrogen Energy (SCIE)",
+      "作者群": "Chung-Hsing Chao and Jenn-Jong Shieh"
+    },
+    {
+      "論文名稱": "Constant Ripple Current Control for Switching DC-DC Converter",
+      "期刊名稱": " Journal of Energy and Power Engineering (JEPE)",
+      "作者群": "Gwo-Tarng Chern and Jenn-Jong Shieh"
+    },
+    {
+      "論文名稱": "以燃料電池為核心之風光電複合不斷電系統",
+      "期刊名稱": "電子月刊 (電子月刊)",
+      "作者群": "趙中興，謝振中"
+    },
+    {
+      "論文名稱": "Control and Management for Direct Water Fuel Cell Systems",
+      "期刊名稱": "Journal of Control Engineering and Technology (JCET)",
+      "作者群": "Chung-Hsing Chao and Jenn-Jong Shieh"
+    },
+    {
+      "論文名稱": "Multi-Output Isolated DC-DC Converter with Cross Regulation and Load Transient Considered",
+      "期刊名稱": "International Review of Electrical Engineering (SCIE)",
+      "作者群": "K. I. Hwu, Y. T. Yau and Jenn-Jong Shieh"
+    },
+    {
+      "論文名稱": "Two Types of Dual-Output Converters",
+      "期刊名稱": "International Review of Electrical Engineering (SCIE)",
+      "作者群": "K. I. Hwu, Y. T. Yau and Jenn-Jong Shieh"
+    }
+  ],
+  "journal2": [],
+  "conference": [
+    {
+      "論文名稱": "公共自行車能量回收系統研製",
+      "會議名稱": "中華民國第四十五屆電力工程研討會暨第二十一屆臺灣電力電子研討會",
+      "作者群": "余笠誠，陳耀昌，王柏翔，林琮憲，張承哲，徐士賢，謝振中"
+    },
+    {
+      "論文名稱": "Planning and Verification of a Cloud-Based Monitoring DC Microgrid System Using the Greedy Algorithm",
+      "會議名稱": "9th IEEE Southern Power Electronics Conference (IEEE SPEC)",
+      "作者群": "Jenn-Jong Shieh, Chia-Wei Lu, Chang-Hua Lin, and Hwa-Dong Liu"
+    },
+    {
+      "論文名稱": "Simulation and Verification of Battery Voltage Sampling Compensation Technique",
+      "會議名稱": "9th IEEE Southern Power Electronics Conference (IEEE SPEC)",
+      "作者群": "Jenn-Jong Shieh, Wei-Ren Chen, Chang-Hua Lin, and Hwa-Dong Liu"
+    },
+    {
+      "論文名稱": "固態變壓器於電力系統電力品質改善之應用與展望",
+      "會議名稱": "中華民國第四十五屆電力工程研討會暨第二十一屆臺灣電力電子研討會",
+      "作者群": "葉丞竣、江文莊、謝振中、廖清榮、黃彥瑋、陳世安"
+    },
+    {
+      "論文名稱": "全球照明與智慧照明標準制修分析",
+      "會議名稱": "中華民國第四十四屆電力工程研討會暨第二十屆臺灣電力電子研討會",
+      "作者群": "黃琮恩、謝振中、吳政儒、許超閔"
+    },
+    {
+      "論文名稱": "我國LED智慧型照明燈具性能分析",
+      "會議名稱": "中華民國第四十四屆電力工程研討會暨第二十屆臺灣電力電子研討會",
+      "作者群": "吳政儒、謝振中、黃琮恩、林世凱"
+    },
+    {
+      "論文名稱": "基於耦合電感器之交錯式超高降壓比直-直流轉換器",
+      "會議名稱": "中華民國第四十四屆電力工程研討會暨第二十屆臺灣電力電子研討會",
+      "作者群": "陳仲村、謝振中、江文莊、范良芳、蕭銘健、呂境"
+    },
+    {
+      "論文名稱": "A Novel Extended Power Supply Time System for Unmanned Aerial Vehicle",
+      "會議名稱": "2023 IEEE International Future Energy Electronics Conference (IFEEC)",
+      "作者群": "Jenn-Jong Shieh, Yu-Lin Lee, Chang-Hua Lin, and Kai-Jun Pai"
+    },
+    {
+      "論文名稱": "A Novel Adaptive Digital Filter−Based Energy Management Strategy Applied to Hybrid Energy Storage System for Electric Vehicles",
+      "會議名稱": "2023 IEEE International Future Energy Electronics Conference (IFEEC)",
+      "作者群": "Yu-Lin Lee J, Chang-Hua Lin, Chun-Cheng Chen and Jenn-Jong Shieh"
+    },
+    {
+      "論文名稱": "多孔性陶瓷碳化矽散熱鰭片之研製",
+      "會議名稱": "第四十二屆中華民國電力工程研討會暨 第十八屆台灣電力電子研討會",
+      "作者群": "范良芳, 謝振中, 陳湘样, 蕭銘健"
+    },
+    {
+      "論文名稱": "層次模糊田口法於三相鼠籠式感應馬達之多目標最佳化設計",
+      "會議名稱": "第十九屆台灣電力電子研討會暨 第四十三屆中華民國電力工程研討會",
+      "作者群": "陳仲村,謝振中,梁育瑞,吳政儒"
+    },
+    {
+      "論文名稱": "模糊田口法於直-直流返馳式變壓器之多目標優化設計",
+      "會議名稱": "第十九屆台灣電力電子研討會暨 第四十三屆中華民國電力工程研討會",
+      "作者群": "賴柏穎、謝振中、范良芳、蕭銘健、陳湘样"
+    },
+    {
+      "論文名稱": "開合式直流電磁鐵致動器之多目標最佳化設計",
+      "會議名稱": "第十六屆智慧生活科技研討會",
+      "作者群": "陳仲村、謝振中、馮振祥、梁育瑞"
+    },
+    {
+      "論文名稱": "具高精密度與高電流轉換比之電流感測器設計",
+      "會議名稱": "中華民國第四十二屆電力工程研討會暨第十八屆台灣電力電子研討會",
+      "作者群": "范良芳、謝振中、蕭銘健、陳湘样"
+    },
+    {
+      "論文名稱": "驅動直流馬達之降壓型直直流轉換器之電感器設計",
+      "會議名稱": "中華民國第四十二屆電力工程研討會暨第十八屆台灣電力電子研討會",
+      "作者群": "范良芳、謝振中、陳湘样、蕭銘健"
+    },
+    {
+      "論文名稱": "類神經田口法於直流無刷馬達之多目標最佳化設計",
+      "會議名稱": "中華民國第四十二屆電力工程研討會暨第十八屆台灣電力電子研討會",
+      "作者群": "陳仲村、謝振中、劉翔樺"
+    },
+    {
+      "論文名稱": "基於參數靈敏度分析之田口法於電動車窗用永磁無刷直流馬達之多目標最佳化設計",
+      "會議名稱": "中華民國第四十二屆電力工程研討會暨第十八屆台灣電力電子研討會",
+      "作者群": "詹昇韋、謝振中、賴柏穎"
+    },
+    {
+      "論文名稱": "智慧型複合再生能源監控系統",
+      "會議名稱": "第一屆台灣智慧電動車及綠能科技研討會",
+      "作者群": "何凱翔, 謝振中,許晉墉, 戴裕翰"
+    },
+    {
+      "論文名稱": "無橋式隔離型之 AC LED 驅動器",
+      "會議名稱": "第十七屆台灣電力電子研討會暨 第四十一屆中華民國電力工程研討會",
+      "作者群": "胡國英,謝振中,林銘軒,陳瀚翔"
+    },
+    {
+      "論文名稱": "Bridgeless Buck-Boost PFC Rectifier with Positive Output Voltage Suitable for LED Driving",
+      "會議名稱": "The 4th IEEE International Future Energy Electronics Conference (IFEEC 2019)",
+      "作者群": "K. I. Hwu, Y. K. Tai,Y. P. He, and Jenn-Jong Shieh"
+    },
+    {
+      "論文名稱": "ZETA Dual-Loop Control Based on Voltage Across Transferring Capacitor Sensed",
+      "會議名稱": "The 4th IEEE International Future Energy Electronics Conference (IFEEC 2019)",
+      "作者群": "Y. T. Yau, K. I. Hwu, C. W. Wang, and Jenn-Jong Shieh"
+    },
+    {
+      "論文名稱": "Reaction of Minerals Hydride with Water to Produce Hydrogen-Saturated Water",
+      "會議名稱": "The 4th International Conference on Alternative Fuels, Energy and Environment (ICAFEE): Future and Challenges, Feng Chia University Taichung, Taiwan 18-21 Oct. 2019.",
+      "作者群": "C. H. Chao and Jenn-Jong Shieh"
+    },
+    {
+      "論文名稱": "Testing human urine’s electricity versus relationship with diseases such as diabetes, cancer, and gout",
+      "會議名稱": "The 4th International Conference on Alternative Fuels, Energy and Environment (ICAFEE): Future and Challenges",
+      "作者群": "C. H. Chao and Jenn-Jong Shieh"
+    },
+    {
+      "論文名稱": "Applying Multi-Oversampling to One-Comparator Counter-Based Sampling to Enhance System Stability",
+      "會議名稱": "10th International Conference on Power Electronics-ECCE Asia((ICPE 2019-ECCE Asia)",
+      "作者群": "Y. T. Yau, K. I. Hwu, C. W. Wang, and Jenn-Jong Shieh"
+    },
+    {
+      "論文名稱": "Development of Voltage-Mode Controller for Buck Converter Operating in CCM",
+      "會議名稱": "he13th IEEE Conference on Industrial Electronics and Applications (ICIEA2018)",
+      "作者群": "K. I. Hwu, Wen-Zhuang Jiang and Jenn-Jong Shieh"
+    },
+    {
+      "論文名稱": "Development of Voltage-Mode Controller for Boost Converter Operating in CCM",
+      "會議名稱": "The13th IEEE Conference on Industrial Electronics and Applications (ICIEA2018)",
+      "作者群": "K. I. Hwu, Wen-Zhuang Jiang and Jenn-Jong Shieh"
+    },
+    {
+      "論文名稱": "Applying Module-Link Method to Multiple Power Supplies Paralleled",
+      "會議名稱": "The 43st Annual Conference of the IEEE Industrial Electronics Society (IECON)",
+      "作者群": "Kuo-Ing Hwu, and Jenn-Jong Shieh"
+    },
+    {
+      "論文名稱": "A New Control Strategy for Fuel Cell-Battery-Ultracapacitor Power Supply System with Life and Efficiency Considered",
+      "會議名稱": "European Fuel Cell Technology & Applications Conference (EFC)",
+      "作者群": "Jenn-Jong Shieh, C. H. Chao and W. Fang"
+    },
+    {
+      "論文名稱": "具獨立調控之多輸源直-直流電源供應器",
+      "會議名稱": "中華民國第36屆電力工程研討會",
+      "作者群": "謝振中, 張啟煥, 趙中興"
+    },
+    {
+      "論文名稱": "Study and Simulation on Control-to-Output Transfer Function of KY Boost Converter",
+      "會議名稱": "The 41st Annual Conference of the IEEE Industrial Electronics Society (IECON)",
+      "作者群": "Kuo-Ing Hwu, Wen-Zhuang Jiang, and Jenn-Jong Shieh"
+    },
+    {
+      "論文名稱": "Implementation of Type III Controller for KY Converter Based on PSIM",
+      "會議名稱": "The 41st Annual Conference of the IEEE Industrial Electronics Society (IECON)",
+      "作者群": "Kuo-Ing Hwu, Wen-Zhuang Jiang, and Jenn-Jong Shieh"
+    },
+    {
+      "論文名稱": "Applications of Solid-State Fault Current Limiters for Transient Stability Enhancement of  Wind Power Generation Systems” 2015 IEEE 2nd International Future Energy Electronics Conference (IFEEC), Taipei, Taiwan, Nov. 1-4, pp. 1-6, 2015.",
+      "會議名稱": "2015 IEEE 2nd International Future Energy Electronics Conference (IFEEC), Taipei, Taiwan, Nov. 1-4, pp. 1-6, 2015.",
+      "作者群": "Mohanraj Bellie  Subramani ,Chia-Chi Chu, Lin-Yu  Lu, Jenn-Jong  Shieh"
+    },
+    {
+      "論文名稱": "Direct growth of multiwall carbon nanotubes on the carbon-fiber-paper by coupling alternating current arc discharge and chemical vapor deposition",
+      "會議名稱": "The 4th International Conference on Materials Science and Engineering (CMSE 2015)",
+      "作者群": "Chung-Hsing Chao, and Jenn-Jong Shieh"
+    },
+    {
+      "論文名稱": "Directly grown nanotubes on carbon fiber paper in a metal-free-catalyzed chemical gas phase reaction",
+      "會議名稱": "2015 International Conference on Computer Science and Information Engineering (CSIE 2015)",
+      "作者群": "C. H. Chao and Jenn-Jong Shieh"
+    },
+    {
+      "論文名稱": "Analysis of Taiwan Residential Districts Power Sources by Using Hydrogen Fuel Cells",
+      "會議名稱": "The 2015 Asia-Pacific International EMC Symposium and Exhibition",
+      "作者群": "Jenn-Jong.Shieh, Andrew Lin and Yung-Chi Tang, “,” , , , Taiwan, May 25-29, 2015."
+    },
+    {
+      "論文名稱": "返馳式轉換器於電感器耐壓測試器之設計開發",
+      "會議名稱": "2014產業設計行銷與創新服務管理學術與實務研討會",
+      "作者群": "謝振中, 蕭銘健, 于善存"
+    },
+    {
+      "論文名稱": "Improvement in Efficiency of LED Lighting System",
+      "會議名稱": "International Power Electronics Conference-ECCE (ASIA-2014)",
+      "作者群": "K. I. Hwu, W. Z. Jiang, Jenn-Jong Shieh"
+    },
+    {
+      "論文名稱": "Isolated Voltage-Boosting Converterpp",
+      "會議名稱": "International Power Electronics Conference-ECCE (ASIA-2014)",
+      "作者群": "K. I. Hwu, W. Z. Jiang, Jenn-Jong Shieh"
+    },
+    {
+      "論文名稱": "模組化冷陰極燈管照明裝置之設計",
+      "會議名稱": "中華民國第34屆電力工程研討會",
+      "作者群": "施政宏, 黃建合, 楊奉霖, 蔡明蓉, 謝振中"
+    },
+    {
+      "論文名稱": "A Family of Off-line SMPSs Used in FCL with Reducing Secondary-side CM Noise",
+      "會議名稱": "The 39th Annual Conference of the IEEE Industrial Electronics Society(IECON)",
+      "作者群": "Jenn-Jong Shieh, Yuan-Hsin Chao and Weber Chuang"
+    },
+    {
+      "論文名稱": "A Novel Common-mode Noise Suppresser for Offline Switching Power Converters” pp. 256-259, Vienna, Austria, 10-13 Nov. pp. 256-259, 2013",
+      "會議名稱": "The 39th Annual Conference of the IEEE Industrial Electronics Society(IECON)",
+      "作者群": "Jenn-Jong Shieh, Gwo-Tarng Chern and Weber Chuang"
+    },
+    {
+      "論文名稱": "High Step-Up Converter Based on Multi-Winding Coupled Inductor and Charge Pump Capacitor",
+      "會議名稱": "IEEE TENCON 2013",
+      "作者群": "K. I. Hwu, A. P. Tseng and Jenn-JongShieh"
+    },
+    {
+      "論文名稱": "Inductor Saturation Detection with Anti-Saturation Control Strategy Applied",
+      "會議名稱": "IEEE International Conference on Power Electronics and Drive Systems, (PEDS 2013)",
+      "作者群": "K. I. Hwu, C. W. Hsiao and Jenn-Jong Shieh"
+    },
+    {
+      "論文名稱": "A Novel High Step-Up Converter",
+      "會議名稱": "IEEE International Conference on Power Electronics and Drive Systems, (PEDS 2013),",
+      "作者群": "K. I. Hwu, Y. T. Yau and Jenn-Jong Shieh"
+    },
+    {
+      "論文名稱": "Development of Plug-In Type Solid and Liquid Separated Hydrogen Generation Device",
+      "會議名稱": "2012 Intelligent Electronics Application Conference (IEAC)",
+      "作者群": "Chung-Hsing Chao and Jenn-Jong Shieh"
+    },
+    {
+      "論文名稱": "Series-parallel Loosely Coupled Battery Charger with Primary Control",
+      "會議名稱": "First International Conference on Control, Automation and Information Sciences (ICCAIS 2012),",
+      "作者群": "Yuan-Hsin Chao and Jenn-Jong Shieh"
+    },
+    {
+      "論文名稱": "PEM Fuel Cells Hybrid Power Supply System with Battery Energy Balancer",
+      "會議名稱": "First International Conference on Control, Automation and Information Sciences (ICCAIS 2012)",
+      "作者群": "Chung-Hsing Chao and Jenn-Jong Shieh"
+    },
+    {
+      "論文名稱": "Series-parallel Loosely Coupling Power Supply with Primary-side Control",
+      "會議名稱": "The 3rd IEEE International Conference on Sustainable Energy Technologies (ICSET)",
+      "作者群": "Yuan-Hsin Chao and Jenn-Jong Shieh"
+    },
+    {
+      "論文名稱": "High Step-Up Converter Based on Coupling Inductor and Bootstrap Capacitors with Active Clamping",
+      "會議名稱": "The 3rd IEEE International Conference on Sustainable Energy Technologies (ICSET)",
+      "作者群": "K. I. Hwu, Y. T. Yau, Jenn-Jong Shieh"
+    },
+    {
+      "論文名稱": "Series Charge Equalizer with Pulse Charging and Digital Monitoring",
+      "會議名稱": "中華民國第33屆電力工程研討會",
+      "作者群": "K. I. Hwu, Jenn-Jong Shieh, C. W. Yang and C. W. Hsiao"
+    },
+    {
+      "論文名稱": "Zero-Voltage Switching Push-Pull Liquid Crystal Display Driver with Bi-Frequency Control",
+      "會議名稱": "The 4th International Interdisciplinary Chaos Symposium on Chaos and Complex Systems(CCS )",
+      "作者群": "Gwo-Tarng Chern, Jenn-Jong Shieh and Chung-Hsing Chao"
+    },
+    {
+      "論文名稱": "A New hybrid Fuel Cell-battery power systems",
+      "會議名稱": "The 4th International Interdisciplinary Chaos Symposium on Chaos and Complex Systems(CCS)",
+      "作者群": "Chung-Hsing Chao and Jenn-Jong Shieh"
+    },
+    {
+      "論文名稱": "A Novel Step-Up Converter",
+      "會議名稱": "The 21st IEEE International Symposium on Industrial Electronics(ISIE)",
+      "作者群": "K. I. Hwu, W. C. Tu, and Jenn-Jong Shieh"
+    },
+    {
+      "論文名稱": "An Extended-Range Hybrid Powered Scooter",
+      "會議名稱": "International Conference on Power Electronics, Machines and Drives (PEMD 2012)",
+      "作者群": "Chung-Hsing Chao and Jenn-Jong Shieh"
+    },
+    {
+      "論文名稱": "Dual-Output Boost Converter",
+      "會議名稱": "The 9th International Conference on Power Electronics and Drive Systems(PEDS)",
+      "作者群": "K. I. Hwu, Y. T. Yau, Jenn-Jong Shieh"
+    },
+    {
+      "論文名稱": "Negative-Output Resonant Voltage Divider",
+      "會議名稱": "The 9th International Conference on Power Electronics and Drive Systems(PEDS)",
+      "作者群": "K. I. Hwu, Y. T. Yau, Jenn-Jong Shieh"
+    },
+    {
+      "論文名稱": "A Simple Step-Up Converter",
+      "會議名稱": "The 9th International Conference on Power Electronics and Drive Systems(PEDS),",
+      "作者群": "K. I. Hwu, Chun-Chen Lin, Jenn-Jong Shieh"
+    },
+    {
+      "論文名稱": "Development for Single-Chip Based Remote Control System",
+      "會議名稱": "The Proceedings of Mechatronic and Industry Interact Cross Strait Conference (MIICS2011)",
+      "作者群": "Gwo-Tarng Chern and Jenn-Jong Shieh"
+    },
+    {
+      "論文名稱": "Development for Servo Position Driver",
+      "會議名稱": "The Proceedings of Mechatronic and Industry Interact Cross Strait Conference (MIICS)",
+      "作者群": "Chung-Hsing Chao and Jenn-Jong Shieh"
+    },
+    {
+      "論文名稱": "Hydrogen Energy Control and Management Systems without Using Catalyst",
+      "會議名稱": "The 37th Annual Conference of the IEEE Industrial Electronics Society(IECON)",
+      "作者群": "Chung-Hsing Chao and Jenn-Jong Shieh"
+    },
+    {
+      "論文名稱": "Hybrid power systems with battery and proton-exchange membrane fuel cell",
+      "會議名稱": "The 4th Mainland, Taiwan and Hong Kong Symposium on Hydrogen Energy",
+      "作者群": "Chung-Hsing Chao, Garrett Huang, Jenn-Jong Shieh, Cheng-Li Wu, Chih-Yuan Chen"
+    },
+    {
+      "論文名稱": "Design for Fully-Digitalized Lead-Acid Battery Charger",
+      "會議名稱": "The 10th Taiwan Power Electronics Conference and Exhibition",
+      "作者群": "Jenn-Jong Shieh, K. I. Hwu, and Chih-Ping Wu"
+    },
+    {
+      "論文名稱": "Development for Fully-Digitalized Contactless DC-DC Converter",
+      "會議名稱": "The 10th Taiwan Power Electronics Conference and Exhibition",
+      "作者群": "Jenn-Jong Shieh, K. I. Hwu, and Chih-Ping Wu"
+    },
+    {
+      "論文名稱": "Constant Ripple Current DC-DC Converter Using Variable On-time and Variable Frequency Control",
+      "會議名稱": "The 14th International Conference on Electrical Machines and Systems(ICEMS),",
+      "作者群": "Gwo-Tarng Chern, Jenn-Jong Shieh and Chung-Hsing Chao"
+    },
+    {
+      "論文名稱": "Reducing Differential-mode EMI and Low-frequency Common-mode Voltage in Switching-mode Power Converters",
+      "會議名稱": "The 14th International Conference on Electrical Machines and Systems (ICEMS)",
+      "作者群": "Gwo-Tarng Chern, Jenn-Jong Shieh and Chung-Hsing Chao"
+    },
+    {
+      "論文名稱": "Design for Fuel Cell/Battery in Hard and Soft Hybrid Systems",
+      "會議名稱": "The 14th International Conference on Electrical Machines and Systems(ICEMS)",
+      "作者群": "Chung-Hsing Chao, Jenn-Jong Shieh and Yuan-Hsin Chao"
+    },
+    {
+      "論文名稱": "Thermal Simulation for A Hybrid Powered Scooter by Using Simulink",
+      "會議名稱": "The 14th International Conference on Electrical Machines and Systems (ICEMS)",
+      "作者群": "Chung-Hsing Chao and Jenn-Jong Shieh"
+    },
+    {
+      "論文名稱": "A LED Dimming Circuit with Efficiency Improved",
+      "會議名稱": "PCIM ASIA",
+      "作者群": "K. I. Hwu,, W. C. Tu, , C. Hsu, and Jenn-Jong Shieh"
+    },
+    {
+      "論文名稱": "A Full-Bridge Class-D Amplifier with Output Power Considered.",
+      "會議名稱": "PCIM ASIA",
+      "作者群": "K. I. Hwu, Y. T. Yau, and Jenn-Jong Shieh"
+    },
+    {
+      "論文名稱": "Applying Oversampling to One-Comparator Counter-Based Sampling to Enhance Transient Response and System Robustness",
+      "會議名稱": "PCIM ASIA",
+      "作者群": "K. I. Hwu, Y. T. Yau, and Jenn-Jong Shieh"
+    },
+    {
+      "論文名稱": "High Step-Up Converter Based on Coupling Inductor and Charge Pump with Active Voltage Clamping",
+      "會議名稱": "IEEE International Conference on Electric Information and Control Engineering (ICEICE)",
+      "作者群": "K. I. Hwu, Y. T. Yau and Jenn-Jong Shieh"
+    },
+    {
+      "論文名稱": "Simple Modeling of DC-DC Converter",
+      "會議名稱": "IEEE International Conference on Electric Information and Control Engineering (ICEICE)",
+      "作者群": "K. I. Hwu, W. Huang and Jenn-Jong Shieh"
+    },
+    {
+      "論文名稱": "Control and Management for Hydrogen Energy Systems",
+      "會議名稱": "2nd INEEE Conference on Energy, Environment, Devices, Systems, Communications, Computers(INEEE-EEDSCC)",
+      "作者群": "Chung-Hsing Chao and Jenn-Jong Shieh"
+    }
+  ],
+  "book": [
+    {
+      "專業書籍": "電機機械",
+      "出版單位": "高立圖書公司",
+      "作者群": "王孟輝、周坤成、陳立明、陳正哲、曾文森、鄭世平、謝振中"
+    },
+    {
+      "專業書籍": "電力系統導論",
+      "出版單位": "超級科技圖書公司",
+      "作者群": "謝振中"
+    },
+    {
+      "專業書籍": "電機機械",
+      "出版單位": "全華科技圖書公司",
+      "作者群": "謝振中"
+    },
+    {
+      "專業書籍": "電路學精釋",
+      "出版單位": "超級科技圖書公司",
+      "作者群": "謝振中"
+    },
+    {
+      "專業書籍": "自動控制",
+      "出版單位": "東華圖書公司",
+      "作者群": "李安財、謝振中"
+    },
+    {
+      "專業書籍": "基本電學",
+      "出版單位": "全華科技圖書公司",
+      "作者群": "任昭賢、謝振中、蘇明福"
+    }
+  ],
+  "patent": [
+    {
+      "title": "發明",
+      "desc": "多孔洞陶瓷散熱鰭片及其製造方法"
+    },
+    {
+      "title": "新型",
+      "desc": "多孔洞陶瓷散熱鰭片"
+    },
+    {
+      "title": "發明",
+      "desc": "尿液電性檢測及方法"
+    },
+    {
+      "title": "發明",
+      "desc": "高分子導電膜電極"
+    },
+    {
+      "title": "發明",
+      "desc": "富氫水生成裝置及其方法"
+    },
+    {
+      "title": "發明",
+      "desc": "移動式加水產生氫氣的方法與容器罐"
+    },
+    {
+      "title": "發明",
+      "desc": "熱電式氫氣加壓裝置與方法"
+    },
+    {
+      "title": "發明",
+      "desc": "太陽能和熱電模組併用的海水淡化方法"
+    },
+    {
+      "title": "發明",
+      "desc": "高溫水蒸氣催化儲氫微粒應需即生氫氣方法與裝置"
+    },
+    {
+      "title": "新型",
+      "desc": "熱電漿化學射流法成長之碳奈米管裝置"
+    },
+    {
+      "title": "新型",
+      "desc": "垂直成長對準之碳奈米管"
+    },
+    {
+      "title": "新型",
+      "desc": "多電池單元平衡控制電路"
+    },
+    {
+      "title": "新型",
+      "desc": "直接電弧生成碳奈米管裝置及其碳奈米管"
+    },
+    {
+      "title": "新型",
+      "desc": "光源顯示裝置控制系統"
+    },
+    {
+      "title": "發明",
+      "desc": "高低壓氫流量供應之燃料電池供電裝置"
+    },
+    {
+      "title": "發明",
+      "desc": "雙氫氣流量供應之燃料電池供電裝置"
+    },
+    {
+      "title": "新型",
+      "desc": "連續脈波產生器"
+    },
+    {
+      "title": "新型",
+      "desc": "有機酸氫氣產生裝置"
+    },
+    {
+      "title": "新型",
+      "desc": "具接地故障診斷及保護之配電系統"
+    },
+    {
+      "title": "新型",
+      "desc": "積分型鎖相同步電路"
+    },
+    {
+      "title": "發明",
+      "desc": "低雜訊電源轉換裝置"
+    },
+    {
+      "title": "新型",
+      "desc": "應用固態繼電器之直流馬達轉向控制裝置"
+    },
+    {
+      "title": "新型",
+      "desc": "具雙向通訊之電池管理系統"
+    },
+    {
+      "title": "新型",
+      "desc": "混合二次電池組"
+    },
+    {
+      "title": "新型",
+      "desc": "具低換向噪音之散熱風扇直流馬達驅動裝置"
+    },
+    {
+      "title": "新型",
+      "desc": "多個電池單元之平衡電路"
+    },
+    {
+      "title": "新型",
+      "desc": "多個電池單元電池組之主動式平衡電路"
+    },
+    {
+      "title": "發明",
+      "desc": "Eine Stromversorgung, Die Das Gerausch Der Sekundarseite Reduzieren Kann"
+    },
+    {
+      "title": "新型",
+      "desc": "風光電複合不斷電系統"
+    },
+    {
+      "title": "新型",
+      "desc": "具遠端無線監控太陽能充電之電動運具"
+    },
+    {
+      "title": "新型",
+      "desc": "獨立型風光互補LED路燈"
+    },
+    {
+      "title": "發明",
+      "desc": "具降低二次側雜訊之電源供應器"
+    },
+    {
+      "title": "新型",
+      "desc": "料片電極接腳式共模濾波器"
+    }
+  ],
+  "most": [
+    {
+      "name": "具開關容錯診斷與控制半橋對主動式中性點箝位7階直流-交流轉換器之研究(1/2)",
+      "schoolYear": "113"
+    },
+    {
+      "name": "打造友善綠色城市實現公共自行車能量回收與利用系統研製",
+      "schoolYear": "113"
+    },
+    {
+      "name": "T型主動式中性點箝位7階直流-交流轉換器之研究",
+      "schoolYear": "112"
+    },
+    {
+      "name": "儲能系統對電力系統穩定度之研究",
+      "schoolYear": "111"
+    },
+    {
+      "name": "D類主動式中性點箝位多階直流-交流轉換器之研究",
+      "schoolYear": "110"
+    },
+    {
+      "name": "(應用型)產學合作計畫－單級交流直接驅動可調光LED驅動器之研究",
+      "schoolYear": "108"
+    },
+    {
+      "name": "(廠配)宏信科技工程股份有限公司(應用型)產學合作計畫－單級交流直接驅動可調光LED驅動器之研究",
+      "schoolYear": "108"
+    }
+  ],
+  "tech": [],
+  "induAca": [
+    "固態變壓器發展與應用之評估1式 (2023-12 to 2024-09)",
+    "全球照明、智慧照明標準制修及LED智慧型燈具性能研究 (2023-02 to 2023-10)",
+    "多輸入源電源轉換器之研究 (2020-02 to 2020-12)"
+  ],
+  "perform": [],
+  "reward": [
+    "113年度國科會補助大專校院研究獎勵 (113, 2024-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (113, 2024-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (113, 2024-11) - 逢甲大學",
+    "Top 5% Paper (112, 2023-11) - IEEE IFEEC 2023",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (111, 2022-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (111, 2022-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (111, 2022-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (111, 2022-11) - 逢甲大學",
+    "111學年度教學績優獎 (111, 2022-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (110, 2021-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (110, 2021-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (110, 2021-11) - 逢甲大學",
+    "2019年度TIRT全能機械人國際邀請賽-AI自駕車競賽-大專組第一名 (109, 2020-12) - 桃園市政府",
+    "2016 全國儲能應用專題創意競賽- 銅牌 (105, 2016-08) - 中央大學",
+    "The Best Paper in Section (102, 2013-11) - IEEE IECON  2023"
+  ],
+  "speech": [
+    {
+      "演講題目": "如何寫出讓人吸引履歷及自傳",
+      "邀請單位": "中華大學電子系",
+      "演講日期": "2019-05"
+    },
+    {
+      "演講題目": "儲能元件概述與其於電力電子技術之應用",
+      "邀請單位": "中原大學電機系",
+      "演講日期": "2019-04"
+    },
+    {
+      "演講題目": "職場工作應有之策略和態度及創造自我價值",
+      "邀請單位": "中華大學電子系",
+      "演講日期": "2018-11"
+    },
+    {
+      "演講題目": "由國際住宅能源消費解析 我國住宅能源消費新意涵-與談人評論",
+      "邀請單位": "工研院經產中心",
+      "演講日期": "2017-10"
+    },
+    {
+      "演講題目": "Topology analysis and design for three-phase AC/DC converters",
+      "邀請單位": "中原大學電機系",
+      "演講日期": "2017-03"
+    },
+    {
+      "演講題目": "短路電流抑制之技術發展與標準",
+      "邀請單位": "台灣經濟研究院",
+      "演講日期": "2015-06"
+    },
+    {
+      "演講題目": "Three Phase AC-DC Power Converter",
+      "邀請單位": "清華大學電機系",
+      "演講日期": "2014-10"
+    },
+    {
+      "演講題目": "Modeling and analysis for Three Phase AC-DC Power Converter",
+      "邀請單位": "DIGITIMES",
+      "演講日期": "2014-08"
+    },
+    {
+      "演講題目": "低碳永續家園-設備節能",
+      "邀請單位": "苗栗縣環保局",
+      "演講日期": "2013-09"
+    },
+    {
+      "演講題目": "同步電動機之原理與實務應用",
+      "邀請單位": "龍華科技大學電機系",
+      "演講日期": "2012-10"
+    }
+  ],
+  "material": [],
+  "tal": [
+    "參與式設計於電力電子學課程之導入與學習成效評估-以逢甲大學電機系為例 (109)"
+  ]
+}

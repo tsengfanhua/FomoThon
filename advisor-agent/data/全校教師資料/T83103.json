@@ -1,0 +1,2064 @@
+{
+  "teacherId": "T83103",
+  "name": "竇其仁",
+  "mainUnit": "資訊電機學院",
+  "detailUnit": "資訊工程學系",
+  "skill": [
+    "行動計算Mobile Computing",
+    "車載網路Vehicular Ad Hoc Networks",
+    "智慧聯網AIoT",
+    "雲端計算Cloud Computing",
+    "學習科技Learning Technology"
+  ],
+  "edu": [
+    "美國匹茲堡大學 電腦科學 博士",
+    "國立交通大學 資訊工程 碩士",
+    "美國匹茲堡大學 電腦科學 碩士",
+    "國立交通大學 資訊工程 學士"
+  ],
+  "fcuExp": [
+    "系統與網路組 組長",
+    "資訊電機學院 秘書",
+    "資訊工程學系 系主任",
+    "資訊電機學院 院長",
+    "智慧聯網研究中心 主任",
+    "資訊電機學院 院長",
+    "資訊工程學系(所) 副教授",
+    "資訊工程學系 教授",
+    "資訊工程學系 教授",
+    "資訊工程學系 教授",
+    "研究推動組 組長",
+    "研究發展處 研發長",
+    "產學合作與技術營運辦公室(籌備) 執行長",
+    "資訊工程學系 教授",
+    "資訊工程學系 教授",
+    "資訊工程學系 特聘教授",
+    "資訊工程學系 教授",
+    "資訊工程學系 教授",
+    "資訊工程學系 特聘教授"
+  ],
+  "currjob": [],
+  "otherExp": [
+    "私立大華工商專科學校 資管科 副教授",
+    "Siemens 普林斯頓研發中心 研究助理",
+    "美國匹茲堡大學 經濟學系 程式設計師"
+  ],
+  "journal": [
+    {
+      "論文名稱": "A Posture Training System Based on Therblig Analysis and\nYOLO Model—Taking Erhu Bowing as an Example",
+      "期刊名稱": "Sensors (SCIE,EI)",
+      "作者群": "Bonnie Lu * , Chao-Li Meng * and Chyi-Ren Dow"
+    },
+    {
+      "論文名稱": "A gamified method for teaching version control concepts in programming courses using the Git Education Game",
+      "期刊名稱": "Electronics (SCIE)",
+      "作者群": "Hsi-Min Chen, Bao-An Nguyen, You-Wei Chang, Chyi-Ren Dow"
+    },
+    {
+      "論文名稱": "Identifying nonconformities in contributions to programming projects: From an engagement perspective in improving code quality",
+      "期刊名稱": "Behaviour & Information Technology (SSCI,SCIE)",
+      "作者群": "Bao-An Nguyen, Hsi-Min Chen*, Chyi-Ren Dow"
+    },
+    {
+      "論文名稱": "Exploring time-related micro-behavioral patterns in a Python programming online course",
+      "期刊名稱": "Journal of Information Science and Engineering (SCIE)",
+      "作者群": "Hsi-Min Chen, Nguyen Bao-An, Chyi-Ren Dow, Nien-Lin Hsueh,  An-Chi Liu"
+    },
+    {
+      "論文名稱": "Code-quality evaluation scheme for assessment of student contributions to programming projects",
+      "期刊名稱": "Journal of Systems and Software (SCIE,EI)",
+      "作者群": "Hsi-Min Chen, Bao-An Nguyen, Chyi-Ren Dow"
+    },
+    {
+      "論文名稱": "Identification and Validation of Web Themes: A DOM-structure Matching Approach",
+      "期刊名稱": "Journal of Information Science and Engineering (SCIE,EI)",
+      "作者群": "Bao-An Nguyen , Hsi-Min Chen*, Chyi-Ren Dow, Yan-Ting Chen, Hoang-Thanh Duong"
+    },
+    {
+      "論文名稱": "Learning to Recognize Sockpuppets in Online Political Discussions",
+      "期刊名稱": "IEEE Systems Journal (SCIE)",
+      "作者群": "Nhut-Lam Nguyen, Ming-Hung Wang, and Chyi-Ren Dow"
+    },
+    {
+      "論文名稱": "Student Behavior Recognition System for the Classroom Environment Based on Skeleton Pose Estimation and Person Detection",
+      "期刊名稱": "Sensors (SCIE)",
+      "作者群": "Feng-Cheng Lin*, Huu-Huy Ngo, Chyi-Ren Dow, Ka-Hou Lam, and Hung Linh Le"
+    },
+    {
+      "論文名稱": "Understanding Malicious Accounts in Online Political Discussions: A Multilayer Network Approach",
+      "期刊名稱": "Sensors (SCIE,EI)",
+      "作者群": "Nhut-Lam Nguyen, Ming-Hung Wang*, Yu-Chen Dai and Chyi-Ren Dow"
+    },
+    {
+      "論文名稱": "A Wearable Embedded System for Assisting Cognition of Visually Impaired People by Street Scene Description",
+      "期刊名稱": "Journal of Computers (EI)",
+      "作者群": "Feng-Cheng Lin*, Shou-Jin She, Huu-Huy Ngo, Chyi-Ren Dow, and Fang-Rong Hsu"
+    },
+    {
+      "論文名稱": "Analysis of Learning Behavior in an Automated Programming Assessment Environment: a Code Quality Perspective",
+      "期刊名稱": "IEEE Access (SCIE,EI)",
+      "作者群": "Hsi-Min Chen*, Bao-An Nguyen, Yi-Xiang Yan, Chyi-Ren Dow"
+    },
+    {
+      "論文名稱": "A Canopen-Based Gateway and Energy Monitoring System for Electric Bicycles",
+      "期刊名稱": "Energies (SCIE)",
+      "作者群": "V. T. Bui, C. R. Dow, Y. C. Huang, P. Liu and V. D. Thai"
+    },
+    {
+      "論文名稱": "A Room Monitoring System Using Deep Learning and Perspective Correction Techniques",
+      "期刊名稱": "Applied Sciences (SCIE)",
+      "作者群": "Huu-Huy Ngo, Feng-Cheng Lin*, Yang-Ting Sehn, Mengru Tu, and Chyi-Ren Dow"
+    },
+    {
+      "論文名稱": "Understanding Potential Cyber-Armies in Elections: A Study of Taiwan",
+      "期刊名稱": "Sustainability (SSCI,SCIE,EI)",
+      "作者群": "Ming-Hung Wang*, Nhut-Lam Nguyen, Shih-chan Dai, Po-Wen Chi, and Chyi-Ren Dow"
+    },
+    {
+      "論文名稱": "A cloud-based face video retrieval system with deep learning",
+      "期刊名稱": "The Journal of Supercomputing (SCIE)",
+      "作者群": "Feng-Cheng Lin*, Huu-Huy Ngo, and Chyi-Ren Dow"
+    },
+    {
+      "論文名稱": "Efficient\nRSU Placement Schemes in Urban Vehicular Ad Hoc Networks",
+      "期刊名稱": "Journal of Information Science & Engineering (SCIE)",
+      "作者群": "S. F. Hwang, W. C. Chen, C. R. Dow and N. L. Nguyen"
+    },
+    {
+      "論文名稱": "A Crosswalk Pedestrian Recognition System by Using Deep Learning and\r\nZebra ‐Crossing Recognition Techniques",
+      "期刊名稱": "Software: Practice and Experience (SCIE,ECONLIT)",
+      "作者群": "C. R. Dow, H. H. Ngo, L. H. Lee, P. Y. Lai, K. C. Wang and V. T. Bui"
+    },
+    {
+      "論文名稱": "An Efficient Mobile Grid Scheme for Service Tracking in VANETs",
+      "期刊名稱": "International Journal of Ad Hoc and Ubiquitous Computing (SCIE)",
+      "作者群": "C. R. Dow, Y. H. Lee, S. F. Hwang and V. T. Bui"
+    },
+    {
+      "論文名稱": "VIPER: An Adaptive Guidance and Notification Service System in Internet of Vehicles.",
+      "期刊名稱": "World Wide Web (SCIE)",
+      "作者群": "C. R. Dow, D. B. Nguyen, S. Cheng, P. Y. Lai, S. F. Hwang"
+    },
+    {
+      "論文名稱": "An Efficient Traffic Congestion Monitoring System on Internet of Vehicles.",
+      "期刊名稱": "Wireless Communications and Mobile Computing (SCIE)",
+      "作者群": "D. B. Nguyen, C. R. Dow and S. F. Hwang"
+    },
+    {
+      "論文名稱": "An Efficient Crowdsourcing Search Scheme and Aggregation Techniques in Vehicular Ad Hoc Networks.",
+      "期刊名稱": "Journal of Internet Technology (SCIE)",
+      "作者群": "C. R. Dow, D. B. Nguyen, M. F. Tsai, Z. H. Lin, S. F. Hwang"
+    },
+    {
+      "論文名稱": "Rapid-Response Framework for Defensive Driving Based on Internet of Vehicles Using Message-Oriented Middleware",
+      "期刊名稱": "IEEE ACCESS (SCIE)",
+      "作者群": "Po-Yu Lai, Chyi-Ren Dow, Yu-Yun Chang"
+    },
+    {
+      "論文名稱": "An Adaptive and Hotspot Aware Taxi Zone Queuing System on Internet of Vehicles",
+      "期刊名稱": "International Journal on Semantic Web and Information Systems (SCIE)",
+      "作者群": "Chyi-Ren Dow, Duc-Binh Nguyen, Hsi-Chung Chen and Shiow-Fen Hwang"
+    },
+    {
+      "論文名稱": "A Geo-aware Taxi Carrying Management System by Using Location Based Services and Zone Queuing Techniques on Internet of Things",
+      "期刊名稱": "Mobile Information Systems (SCIE,EI)",
+      "作者群": "Chyi-Ren Dow*, Duc-Binh Nguyen, Shr-Chen Wang, Shiow-Fen Hwang and Ming-Fong Tsai"
+    },
+    {
+      "論文名稱": "A moving context-aware and location-based\r\nparatransit system",
+      "期刊名稱": "International Journal of Internet Protocol Technology (EI)",
+      "作者群": "C. R. Dow*, P. Y. Lai and J. H. Ye"
+    },
+    {
+      "論文名稱": "A Cloud-Based Smart-Parking System Based on Internet of Things Technologies",
+      "期刊名稱": "IEEE Access (SCIE,ECONLIT)",
+      "作者群": "Thanh-Nam Pham, Ming-Fong Tsai, Duc-Binh Nguyen, Chyi-Ren Dow and Der-Jiunn Deng"
+    },
+    {
+      "論文名稱": "Adaptive SWE and SNMP-based Sensor Management for Environmental Monitoring",
+      "期刊名稱": "International Journal of Communication Networks and Distribu (EI)",
+      "作者群": "C. R. Dow, Y. H. Lee, and R. Y. Hu"
+    },
+    {
+      "論文名稱": "TWIST: a Tree-based Web Service Indication Scheme for Service Tracking in Vehicular Ad Hoc Networks",
+      "期刊名稱": "International Journal of Ad Hoc and Ubiquitous Computing (SCIE,EI)",
+      "作者群": " Y. H Lee, C. R. Dow, C. Y. Chueh, and S. F. Hwang"
+    },
+    {
+      "論文名稱": "An Efficient Geo-Aware Peer-to-Peer Resource Discovery and Sharing Scheme in Vehicular Ad-Hoc Networks",
+      "期刊名稱": "International Journal of Ad Hoc and Ubiquitous Computing (SCIE)",
+      "作者群": "C. R. Dow, P. J. Lin, Y. H. Lee, Y. C. Lin and S. F. Hwang"
+    },
+    {
+      "論文名稱": "An Energy-Efficient Data Dissemination Scheme in Large-Scale Wireless Sensor Networks.",
+      "期刊名稱": "International Journal of Grid and High Performance Computing (EI)",
+      "作者群": "S.-F.Hwang*, H.-H.Lin, C.-R.Dow"
+    },
+    {
+      "論文名稱": "An Efficient k-level Traffic Control Scheme with Congestion Awareness in Wireless Mesh Networks",
+      "期刊名稱": "International Journal of Ad Hoc and Ubiquitous Computing (SCIE,EI)",
+      "作者群": "C. R. Dow, P. J. Lin*,  S. F. Hwang"
+    },
+    {
+      "論文名稱": "Energy-Efficient Data Reporting with Sink Mobility Support in Object Tracking Sensor Networks",
+      "期刊名稱": "International Journal of Ad Hoc and Ubiquitous Computing (SCIE,EI)",
+      "作者群": "Shiow-Fen Hwang*, Kun-Hsien Lu, Liang-Ren Yang, Chyi-Ren Dow, and Ching-Wen Chen"
+    },
+    {
+      "論文名稱": "Energy-Efficient Data Reporting with Sink Mobility Support in Object Tracking Sersor Networks.",
+      "期刊名稱": "International Journal of Ad Hoc and Ubiquitous Computing (SCIE)",
+      "作者群": "S.-F. Hwang*, K.-H. Lu, L.-R. Yang, C.-R. Dow, and C.-W. Chen"
+    },
+    {
+      "論文名稱": "An Efficient k-level Traffic\r\nControl Scheme with Congestion Awareness in Wireless Mesh Networks",
+      "期刊名稱": "International Journal of Ad Hoc and Ubiquitous Computing (SCIE)",
+      "作者群": "C. R. Dow, P. J. Lin, and S. F. Hwang"
+    },
+    {
+      "論文名稱": "A Watershed-based Debris Flow Early Warning System using Sensor Web Enabling Techniques in Heterogeneous Environments",
+      "期刊名稱": "IEEE Journal of Selected Topics in Applied Earth Observation (SCIE)",
+      "作者群": "J. C. Chiu, C. R. Dow, C. M. Lin, J. H. Lin and H. W. Hsieh"
+    },
+    {
+      "論文名稱": "A Cluster-Based Multicast Scheme with Asymmetric Link Support in Mobile Ad Hoc Networks",
+      "期刊名稱": "International Journal of Ad Hoc and Ubiquitous Computing (SCIE,EI)",
+      "作者群": "Y.-Y. Su, S.-F. Hwang*, K.-H. Lu, and C.-R. Dow"
+    },
+    {
+      "論文名稱": "A Watershed-based Debris Flow Early Warning System using Sensor Web Enabling Techniques in Heterogeneous Environments",
+      "期刊名稱": "IEEE Journal of Selected Topics in Applied Earth Observation (SCIE,EI)",
+      "作者群": "J. C. Chiu, C. R. Dow, C. M. Lin, J. H. Lin, and H. W. Hsieh"
+    },
+    {
+      "論文名稱": "Context-Aware and LBS Learning Systems Using Ubiquitous Teaching Assistant (u-TA): A Case Study for Service-Learning Courses",
+      "期刊名稱": "Computer Applications in Engineering Education (SCIE,EI)",
+      "作者群": "CHYI-REN DOW, LU-HUI HUANG"
+    },
+    {
+      "論文名稱": "Efficient transit planning framework using service composition and hierarchical aggregation schemes",
+      "期刊名稱": "IET Intelligent Transport Systems (SCIE,EI)",
+      "作者群": "C.-R. Dow J.-C. Chiu P. Hsuan K.-H. Chen S.-J. Gaun"
+    },
+    {
+      "論文名稱": "An efficient anycast scheme for discovering k services in cluster-based mobile ad hoc networks",
+      "期刊名稱": "WIRELESS COMMUNICATIONS AND MOBILE COMPUTING (SCIE,EI)",
+      "作者群": "C. R. Dow, P. J. Lin, S. C. Chen and S. F. Hwang"
+    },
+    {
+      "論文名稱": "A Capacity-aware and Multipath-supported Traffic Control Framework in Wireless Mesh Networks",
+      "期刊名稱": "IEICE Transactions on Communications (SCIE)",
+      "作者群": "P. Hsuan, C. R. Dow, K. C. Lai, P. J. Lin, and S. F. Hwang"
+    },
+    {
+      "論文名稱": "A Cluster-Based Approach for Efficient Multi-Source Multicasting in MANETs",
+      "期刊名稱": "Wireless Personal Communications (SCIE,EI)",
+      "作者群": "S.-F. Hwang*, Y.-Y. Su, K.-H. Lu and C.-R. Dow"
+    },
+    {
+      "論文名稱": "Development of Activity Generation and Behavior Observation Systems for Distance Learning",
+      "期刊名稱": "Computer Applications in Engineering Education (SCIE)",
+      "作者群": "C. R. Dow*, Y. H. Li, L. H. Huang, and P. Hsuan"
+    },
+    {
+      "論文名稱": "An Efficient Traffic Control System Using Dynamic Thresholding Techniques in Wireless Mesh Networks",
+      "期刊名稱": "International Journal of Communication Systems (SCIE,EI)",
+      "作者群": "P. J. Lin, C. R. Dow, P. Hsuan, and S. F. Hwang"
+    },
+    {
+      "論文名稱": "Hierarchical Ring-Based Data Gathering for Dense Wireless Sensor Networks",
+      "期刊名稱": "Wireless Personal Communications (SCIE,EI)",
+      "作者群": "K.-H. Lu, S.-F. Hwang*, Y.-Y. Su, H.-N. Chang, and C.-R. Dow"
+    },
+    {
+      "論文名稱": "Energy Efficient Event-Driven Data Gathering in Wireless Sensor Networks",
+      "期刊名稱": "Journal of Beijing Jiaotong University (EI)",
+      "作者群": "S.-F. Hwang*, C.-W. Lee, Y.-Y. Su, C.-R. Dow"
+    },
+    {
+      "論文名稱": "HarpiaGrid: A Geography-Aware Grid-based Routing Protocol for Vehicular Ad Hoc Networks",
+      "期刊名稱": "Journal of Information Science and Engineering (JISE) (SCIE,EI)",
+      "作者群": "K. H. Chen, C. R. Dow*, S. C. Chen, Y. S. Lee, and S. F. Hwang"
+    },
+    {
+      "論文名稱": "BEVOR: An NTCIP-based Interoperable Framework for Emergency Vehicle Preemption System Using Web Service and STMF",
+      "期刊名稱": "Journal of Information Science and Engineering (JISE) (SCIE,EI)",
+      "作者群": "K. H. Chen, C. R. Dow*, C. W. Yang, and W. C. Chiang"
+    },
+    {
+      "論文名稱": "Recent Developments and Experimental Guidelines in Mobile Ad-hoc Networks",
+      "期刊名稱": "International Journal on Wireless and Mobile Computing (IJWM (EI)",
+      "作者群": "C. R. Dow, P. J. Lin, S. C. Chen, J. H. Lin, and S. F. Hwang"
+    },
+    {
+      "論文名稱": "Recent developments and experimental guidelines in mobile ad-hoc networks",
+      "期刊名稱": "International Journal of Wireless and Mobile Computing (SCIE,EI)",
+      "作者群": "C. R. Dow, P. J. Lin, S. C. Chen, J. H. Lin, S. F. Hwang"
+    },
+    {
+      "論文名稱": "Hierarchical Multicast in Wireless Sensor Networks with Mobile Sinks",
+      "期刊名稱": "Wireless Communications and Mobile Computing (SCIE,EI)",
+      "作者群": "S.-F. Hwang*, K.-H. Lu, Y.-Y. Su, C.-S. Hsien, and C.-R. Dow"
+    },
+    {
+      "論文名稱": "A Systematic Framework of Virtual Laboratories Using Wrapping, Mobile Agent and Design Pattern Technologies",
+      "期刊名稱": "International Journal of Distance Education Technologies (EI)",
+      "作者群": "Y. H. Li, C. R. Dow, C. M. Lin, and F. W. Hsu"
+    },
+    {
+      "論文名稱": "A Reliable Multicast Routing Protocol Based on Recovery Points and FEC in Mobile Ad-hoc Networks",
+      "期刊名稱": "Wireless Personal Communications (SCIE)",
+      "作者群": "S. C. Chen, C. R. Dow, R. D. Wang, Y. H. Li, and S. F. Hwang"
+    },
+    {
+      "論文名稱": "A Cluster-Based Coverage-Preserved Scheduling Scheme in Wireless Sensor Networks",
+      "期刊名稱": "Journal of Internet Technology (SCIE,EI)",
+      "作者群": "S.-F. Hwang, Y.-Y. Su, K.-H. Lu, Y.-Y. Lin, and C.-R. Dow"
+    },
+    {
+      "論文名稱": "Hierarchical Data Gathering Schemes in Wireless Sensor Networks",
+      "期刊名稱": "Int.Journal of Pervasive Computing and Communications (JPCC) ()",
+      "作者群": "S.-F. Hwang, K.-H. Lu, T.-H. Chang, and C.-R. Dow"
+    },
+    {
+      "論文名稱": "An Efficient Cluster-Based Routing Algorithm in Ad Hoc Networks with Unidirectional Links",
+      "期刊名稱": "Journal of Information Science and Engineering (SCIE,EI)",
+      "作者群": "Y.-Y. Su, S.-F. Hwang, and C.-R. Dow"
+    },
+    {
+      "論文名稱": "Design and Implementation of IPv6-based Anycast System for Mobile Ad-hoc Networks",
+      "期刊名稱": "Journal of Internet Technology (SCIE,EI)",
+      "作者群": "P. Hsuan, C. R. Dow, S. C. Chen, S. F. Hwang, and S. W. Chen"
+    },
+    {
+      "論文名稱": "Models of Assistant Agents for Older Adults",
+      "期刊名稱": "Journal of Computers ()",
+      "作者群": "Cheng-Min Lin, Chyi-Ren Dow, Khong-Ho Chen, and Tsen-Fen Lai"
+    },
+    {
+      "論文名稱": "WSGB: A Web Service-Based Growing Book",
+      "期刊名稱": "International Journal of Distance Education Technologies (EI,INSPEC - IEE)",
+      "作者群": "C. R.Dow, L. H. Huang, K. H. Chen, J. C. Chiu, and C. M. Lin"
+    },
+    {
+      "論文名稱": "An Extendable Bluetooth Scatternet Formation Using Only Slave/ Slave Bridges",
+      "期刊名稱": "Journal of Science and Engineering Technology ()",
+      "作者群": "C. M. Lin, J. C. Chiu, T. W. Ko, and C. R. Dow"
+    },
+    {
+      "論文名稱": "A Virtual Laboratory for Digital Signal Processing",
+      "期刊名稱": "International Journal of Distance Education Technologies (EI,INSPEC - IEE)",
+      "作者群": "C. R. Dow, Y. H. Li, and J. Y. Bai"
+    },
+    {
+      "論文名稱": "新一代的網路模擬器─NS2",
+      "期刊名稱": "e科技 ()",
+      "作者群": "林士斌、廖國列、林正敏、竇其仁"
+    },
+    {
+      "論文名稱": "A Scalable and Reliable Multicast Routing Protocol for Ad-hoc Wireless Networks",
+      "期刊名稱": "Wireless Personal Communications (SCIE,EI)",
+      "作者群": "C. R. Dow, J. H. Lin, K. T. Chen, S. C. Chen, and S. F. Hwang"
+    },
+    {
+      "論文名稱": "An Adaptive and Fault-Tolerant Channel Set Allocation Algorithm for Microcell/ Macrocell Cellular Networks",
+      "期刊名稱": "Wireless Personal Communications (SCIE,EI)",
+      "作者群": "C. R. Dow, J. S. Chen, and Y. H. Li"
+    },
+    {
+      "論文名稱": "設計與實作一個在Ad hoc無線網路上解決叢集建置、隱藏式終端干擾與繞路問題的整合架構",
+      "期刊名稱": "工程科技通訊, 電機類 ()",
+      "作者群": "竇其仁,林志鴻,陳聖章"
+    },
+    {
+      "論文名稱": "A Distributed Virtual Backbone Development Scheme for Ad-Hoc Wireless Networks",
+      "期刊名稱": "Wireless Personal Communications (SCIE,EI)",
+      "作者群": "J. H. LIN, C. R. DOW and S. F. HWANG"
+    },
+    {
+      "論文名稱": "A Distributed Fault-tolerant Resource Planning Scheme for Wireless Networks",
+      "期刊名稱": "Wireless Personal Communications (SCIE,EI)",
+      "作者群": "C. R. Dow and J. S. Chen"
+    },
+    {
+      "論文名稱": "A Survey of Distance Education Challenges and Technologies",
+      "期刊名稱": " International Journal of Distance Education Technologies ()",
+      "作者群": "T. K. Shih, G. D. Antoni, T. Arndt,D. Asirvatham, S. K. Chang, Y. S. Chee, C. R. Dow, J. C. Hung, Q. Jin, I. Jung, H. V. Leong,"
+    },
+    {
+      "論文名稱": "The Development of a Virtual Digital Circuit Laboratory Using VDSL\r\n",
+      "期刊名稱": "the Journal of Chinese Institute of Electrical Engineering (EI)",
+      "作者群": "C.R.Dow, C.M.Lin, Shih-Sung Chen"
+    },
+    {
+      "論文名稱": "An Efficient Distributed Clustering Scheme for Ad-hoc Wireless Networks\r\n",
+      "期刊名稱": "The IEICE Transactions on Communications (SCIE,EI)",
+      "作者群": "C.R. Dow, J.H. Lin, S.F.Hwang, Y.W.Wang"
+    },
+    {
+      "論文名稱": "Checkpointing MPI Applicatons on Symmetric Multiprocessor Machines Using SMPCkpt\r\n",
+      "期刊名稱": "Journal of Systems and Software (SCIE,EI)",
+      "作者群": "C.R.Dow, J. S. Chen, M.C.Hsieh"
+    },
+    {
+      "論文名稱": "Fixed Channel Allocation Scheme Performance Enhancement for Cellular Mobile Syst\r\n",
+      "期刊名稱": "IEE Proceedings on Communications (SCIE,EI)",
+      "作者群": "J. S. Chen, C. R. Dow"
+    },
+    {
+      "論文名稱": "An Efficient Distributed Clustering Scheme for Ad-Hoc Wireless Networks",
+      "期刊名稱": "IEICE Transactions on Communications (SCIE,EI)",
+      "作者群": "C. R. Dow, J. H. Lin, S. F. Hwang, and Y. W. Wang"
+    },
+    {
+      "論文名稱": "An Efficient K-hop Clustering Routing Scheme for Ad-hoc Wireless Networks",
+      "期刊名稱": "Internet Technology (SCIE,EI)",
+      "作者群": "D.C. Su，S.F. Hwang，C.R. Dow，Y. W. Wang"
+    },
+    {
+      "論文名稱": "A Virtual Laboratory for Macro University Using Mobile Agent Techniques",
+      "期刊名稱": "International Journal of Computer Processing of Oriental Lan ()",
+      "作者群": "C. R. Dow, C. Y. Lin, C. C. Shen, J. H. Lin, and S. C. Chen"
+    },
+    {
+      "論文名稱": "PQPCkpt: An Efficient Three Level Synchronous Checkpointing Scheme in Mobile Computing Systems",
+      "期刊名稱": "IEICE Transactions on Information and Systems (SCIE,EI)",
+      "作者群": "C. M. Lin，C. R. Dow"
+    },
+    {
+      "論文名稱": "Efficient PCS Information Retrieval and Visualization Using SimPCS",
+      "期刊名稱": "Journal of Internet Technology ()",
+      "作者群": "C. R. Dow，J. S. Chen"
+    },
+    {
+      "論文名稱": "行動代理人技術與教育應用",
+      "期刊名稱": "資訊與教育 ()",
+      "作者群": "竇其仁，林志鴻，陳聖章，沈建忠"
+    },
+    {
+      "論文名稱": "PLOW: An Adaptive Channel Allocation Strategy for Large-Scale Mobile Cellular Networks",
+      "期刊名稱": "Internet Technology (EI)",
+      "作者群": "C. R. Dow，J. S. Chen，Y. F. Hwang"
+    },
+    {
+      "論文名稱": "An Efficient Distributed Clustering Scheme for Ad-hoc Wireless Networks",
+      "期刊名稱": "IEICE Transactions on Communications (SCIE,EI)",
+      "作者群": "C.R. Dow，J.H. Lin，S.F. Hwang，Y.W. Wang"
+    },
+    {
+      "論文名稱": "Checkpointing MPI Applications on Symmetric Multiprocessor Machines Using SMPCkpt",
+      "期刊名稱": "Systems and Software (SCIE,EI)",
+      "作者群": "C. R. Dow，J. S. Chen，M. C. Hsieh"
+    },
+    {
+      "論文名稱": "Fixed Channel Allocation Scheme Performance Enhancement for Cellular Mobile Systems",
+      "期刊名稱": "IEE Proceedings on Communications (SCIE,EI)",
+      "作者群": "J. S. Chen，C. R. Dow"
+    },
+    {
+      "論文名稱": "The Development of a Virtual Digital Circuit Laboratory Using VDSL",
+      "期刊名稱": "Chinese Institute of Electrical Engineering (EI)",
+      "作者群": "C.R. Dow，C.M. Lin，S. S. Chen"
+    },
+    {
+      "論文名稱": "宏觀大學實驗室之建置與應用",
+      "期刊名稱": "資訊與教育 ()",
+      "作者群": "竇其仁，許富為，白晉宇"
+    },
+    {
+      "論文名稱": "A Generalized Processor Mapping Technique for Array Redistribution",
+      "期刊名稱": "IEEE Transactions on Parallel and Distributed Systems (SCIE,EI)",
+      "作者群": "Ching-Hsien Hsu, Yeh-Ching Chung, Don-Lin Yang and Chyi-Ren Dow"
+    },
+    {
+      "論文名稱": "Adaptive Distributed Breakpoint Detection and Checkpoint Space Reduction in Message Passing Programs",
+      "期刊名稱": "the Computer and Artificial Intelligence Journal (SCIE,EI)",
+      "作者群": "C.R.Dow and C.M.Lin"
+    },
+    {
+      "論文名稱": "Avoidance of Hidden Termaianl Interference in Cluster-based Wireless Network Using Efficient Two-level Code Assignment Schemes",
+      "期刊名稱": "IEICE Transactions on Communication (SCIE,EI)",
+      "作者群": "C. R. Dow, D. W. Fan, and C. M. Lin"
+    },
+    {
+      "論文名稱": "Efficient Checkpoint-based Failure Recovery Technique in mobile Computing Systems",
+      "期刊名稱": "Journal of Information Science and Engineering (SCIE,EI)",
+      "作者群": "C. M. Lin and C. R. Dow"
+    },
+    {
+      "論文名稱": "Efficient Methods for Multidimensional Array Redistribution",
+      "期刊名稱": "Journal of Supercomputing (SCIE,EI)",
+      "作者群": "Ching-Hsien Hsu, Yeh-Ching Chung, and Chyi-Ren Dow"
+    },
+    {
+      "論文名稱": "Efficient PCS Information Retrieval and Visualization Using SimPCS",
+      "期刊名稱": "the Journal of Internet Technology (EI)",
+      "作者群": "C. R. Dow and J. S. Chen"
+    },
+    {
+      "論文名稱": "Efficient Techniques for Adaptive Independent Checkpointing in Distributed Systems",
+      "期刊名稱": "IEICE Transactions on Information and Systems (SCIE,EI)",
+      "作者群": "C. M. Lin and C. R. Dow"
+    },
+    {
+      "論文名稱": "VDSL：一個虛擬數位電路實驗室",
+      "期刊名稱": "遠距教育季刊 ()",
+      "作者群": "陳石松、林正敏、竇其仁"
+    }
+  ],
+  "journal2": [],
+  "conference": [
+    {
+      "論文名稱": "Exploring time-related behavioral patterns in MOOCs: The Example of Python Courses",
+      "會議名稱": "2021台灣軟體工程研討會 (TCSE 2021)",
+      "作者群": "Bao-An Nguyen, Hsi-Min Chen, Nien-Lin Hsueh, An-Chi Liu, and Chyi-Ren Dow"
+    },
+    {
+      "論文名稱": "三維車載網路之繞徑機制",
+      "會議名稱": "第26屆台灣網際網路研討會(TANET2020)",
+      "作者群": "黃秀芬*;吳東隆;竇其仁"
+    },
+    {
+      "論文名稱": "A Controller Area Network-based Gateway and Monitoring System for e-Bikes",
+      "會議名稱": "2019 19th IEEE International Conference on Communication Technology (ICCT 2019)",
+      "作者群": "C. R. Dow, V. T. Bui, Y. C. Huang, P. Liu and D. T. Vu"
+    },
+    {
+      "論文名稱": "An Advising System for Parking Using Canny and K-NN Techniques",
+      "會議名稱": "2019 Computer Science & Information Technology (CS & IT)",
+      "作者群": "C. R. Dow, W. K. Wang, H. H. Ngo and S. F. Hwang"
+    },
+    {
+      "論文名稱": "Detecting Potential Cyber Armies of Election Campaigns Based on Behavioral Analysis",
+      "會議名稱": "The 7th International Conference on Complex Networks and Their Applications (Complex Networks 2018)",
+      "作者群": "Ming-Hung Wang, Nhut-Lam Nguyen, Chyi-Ren Dow"
+    },
+    {
+      "論文名稱": "A Vibration Reduction System for e-bikes",
+      "會議名稱": "The 9th IEEE Annual Information Technology, Electronics and Mobile Communication Conference",
+      "作者群": "Chyi-Ren Dow, Shun-Ming Chang, Van-Tung Bui and Pei Liu"
+    },
+    {
+      "論文名稱": "軟體定義異質車載網路之群播機制",
+      "會議名稱": "第24屆台灣網際網路研討會(TANET2018)",
+      "作者群": "黃秀芬*; 陳冠廷; 竇其仁"
+    },
+    {
+      "論文名稱": "A Human Recognition System for Pedestrian Crosswalk",
+      "會議名稱": "International Conference on Human-Computer Interaction",
+      "作者群": "Chyi-Ren Dow, Liang-Hsuan Lee, Ngo Huu Huy and Kuan-Chieh Wang"
+    },
+    {
+      "論文名稱": "An Efficient Alert System on Internet of Vehicles Using Hybrid MOM Technologies",
+      "會議名稱": "2017 the 3rd International Conference on Communication and Information Processing",
+      "作者群": "Yu-Yun Chang, Chyi-Ren Dow, Po-Yu Lai and Shiow-Fen Hwang"
+    },
+    {
+      "論文名稱": "軟體定義異質車載網路之有效資料傳遞機制",
+      "會議名稱": "第23屆台灣網際網路研討會(TANET2017)",
+      "作者群": "黃秀芬*; 吳貫瑋; 竇其仁"
+    },
+    {
+      "論文名稱": "An Energy Management System for E-Bike",
+      "會議名稱": "The 8th IEEE Annual Information Technology, Electronics and Mobile Communication Conference (IEMCON 2017)",
+      "作者群": "C. R. Dow, V. T Bui, C. Y Chen and S. F. Hwang"
+    },
+    {
+      "論文名稱": "在都市車載網路中以行車路線為基礎之有效群播機制",
+      "會議名稱": "第十三屆無線、隨意及感測網路研討會(WASN 2017)",
+      "作者群": "黃秀芬*; 曾煜恒; 竇其仁"
+    },
+    {
+      "論文名稱": "在混合軟體定義網路中以叢集為基礎之流量工程研究",
+      "會議名稱": "第22屆行動計算研討會(MC2017)",
+      "作者群": "黃秀芬*; 柯柏強; 竇其仁"
+    },
+    {
+      "論文名稱": "Context-Aware Service Discovery in the Internet of Things",
+      "會議名稱": "2017 The Third International Conference on Electronics and Software Science (ICESS2017)",
+      "作者群": "S.-F. Hwang*, Guan-Yu Chen, and C.-R. Dow"
+    },
+    {
+      "論文名稱": "A Visualization System for Traffic Violation Using H2O Random Forests.",
+      "會議名稱": "International Conference on Human-Computer Interaction",
+      "作者群": "Chyi-Ren Dow, Zhe-Rong Lin and Kuan-Chieh Wang"
+    },
+    {
+      "論文名稱": "An Adaptive Sensor Management System",
+      "會議名稱": "14th International Conference on Information Technology : New Generations",
+      "作者群": "Chyi-Ren Dow, Yaun-Zone Wu, Bonnie Lu, Shiow-Fen Hwang and Fongray Frank Young"
+    },
+    {
+      "論文名稱": "Telematics and Advanced Transportation Services",
+      "會議名稱": "International Conference on Advances in Information and Communication Technology",
+      "作者群": "C.R. Dow"
+    },
+    {
+      "論文名稱": "A MQTT-based guide and notification service system",
+      "會議名稱": "2016 IEEE 7th Annual Information Technology, Electronics and Mobile Communication Conference (IEMCON)",
+      "作者群": "Chyi-Ren Dow, Syuan Cheng, Shiow-Fen Hwang"
+    },
+    {
+      "論文名稱": "A Sensor Management and Alert Service System",
+      "會議名稱": "International Conference on Internet Studies (NETs2016)",
+      "作者群": "Chyi-Ren Dow, Yaun-Zone Wu, Bonnie Lu and Shiow-Fen Hwang"
+    },
+    {
+      "論文名稱": "A Mobile Group Tour Tracking and Gathering System",
+      "會議名稱": "13th International Conference on Information Technology- New Generations",
+      "作者群": "Chyi-Ren Dow, Yu-Yun Chang, Chiao-Wen Chen and Po-Yu Lai"
+    },
+    {
+      "論文名稱": "A Power and Management System for E-bike using CANopen",
+      "會議名稱": "The 2nd International Joint Conference on Convergence (IJCC 2016)",
+      "作者群": "Chyi-Ren Dow, Van-Tung Bui, Yu-Chi Huang, Cheng-Min Lin and Duc-Thai Vu"
+    },
+    {
+      "論文名稱": "A Hotspot Aware Taxi Zone Queuing System",
+      "會議名稱": "The 6th International Conference and Workshop on Computing and Communication (IEMCON 2015)",
+      "作者群": "C. R. Dow, H. C. Chen and S. F. Hwang"
+    },
+    {
+      "論文名稱": "A Context-Aware Paratransit System",
+      "會議名稱": "12 th International Conference on Infomateion Technology",
+      "作者群": "C. R. Dow, Y. H. Lee, S. C. Wang, and S. F. Hwang"
+    },
+    {
+      "論文名稱": "A Geo-aware Location Based Taxi Carrying System",
+      "會議名稱": " 11th International Conference on Information Technology : New Generations",
+      "作者群": "Chyi-Ren Dow, Yu-Hong Lee, Shr-Chen Wang, and Shiow-Fen Hwang"
+    },
+    {
+      "論文名稱": "An Efficient Sensor Configuration for Environment Monitoring",
+      "會議名稱": "Annual Conference on Engineering and Information Technology",
+      "作者群": "Chyi-Ren Dow, Yu-Hong Lee, Tsung-Lin Hsieh, and Zi-How Lin"
+    },
+    {
+      "論文名稱": "An Efficient Data Sharing Scheme using Mobile Grid Sequence in Vehicular Sensor Networks",
+      "會議名稱": "The FTRA 9th International Symposium on Wireless Sensor Network Technologies and Applications for Smart Space",
+      "作者群": "C. R. Dow, Y. H. Lee, W. T. Hsiao, and S. F. Hwang"
+    },
+    {
+      "論文名稱": "Tree-based Web Service Indication Scheme for Service Tracking in Vehicular Ad-hoc Networks",
+      "會議名稱": "International Conference on Information Technology: New Generations",
+      "作者群": "Chyi-Ren Dow, Chih-Yu Chueh, Yu-Hong Lee, and Shiow-Fen Hwang"
+    },
+    {
+      "論文名稱": "An Energy-Efficient Routing Protocol in Wireless Sensor Networks with Holes",
+      "會議名稱": "The Fourth International Conference on Ubiquitous and Future Networks",
+      "作者群": "Shiow-Fen Hwang, Hsin-Hui Lin, Chyi-Ren Dow"
+    },
+    {
+      "論文名稱": "An Efficient Geo-aware Peer-to-Peer Resource Discovery and Sharing Scheme in Vehicular Ad-hoc Networks",
+      "會議名稱": " International Conference on Information Technology: New Generations",
+      "作者群": "Y. H. Lee, C. R. Dow,  L. H. Huang, Y. C. Lin, S. F. Hwang, and W. B. Lee"
+    },
+    {
+      "論文名稱": "Design and Implementation of a DSRC based Vehicular Warning and Notification System",
+      "會議名稱": "2011 IEEE 13th International Conference on High Performance Computing and Communications",
+      "作者群": "C. R. Dow, M. H. Ho, Y. H. Lee, S. F. Hwang"
+    },
+    {
+      "論文名稱": "具行動匯集點的無線感測網路上之省能的資料散佈機制",
+      "會議名稱": "The Seventh Workshop on Wireless, Ad Hoc and Sensor Networks",
+      "作者群": "黃秀芬, 林祐竹, 竇其仁"
+    },
+    {
+      "論文名稱": "Energy-Efficient Voronoi-Based Manycast in Wireless Sensor Networks with Mobile Sinks",
+      "會議名稱": "3rd International Conference on Computer Engineering and Applications",
+      "作者群": "Shiow-Fen Hwang, Nai-Han Liang, Kun-Hsien Lu, and Chyi-Ren Dow"
+    },
+    {
+      "論文名稱": "在具行動匯集點之無線感測網路上以Voronoi架構為基礎之省能manycast機制",
+      "會議名稱": "the 16th Mobile Computing Workshop",
+      "作者群": "黃秀芬, 梁乃翰, 呂坤憲, 竇其仁"
+    },
+    {
+      "論文名稱": "A Location-based Mobile Advertisement Publishing System for Vendors",
+      "會議名稱": "2011 Eighth International Conference on Information Technology: New Generations",
+      "作者群": "C. R. Dow, Y. H. Lee, J. Liao, H. W. Yang, W. L. Koo"
+    },
+    {
+      "論文名稱": "An Efficient Data Circulation and Discovery Scheme in VANETs Using Public Transportation Systems",
+      "會議名稱": "Proceeding of the IEEE International Conference Network and Service Management",
+      "作者群": "C.R. Dow, P.Hsuan,Y.H. Lee,Y.T. Lee and C.Y.Huang"
+    },
+    {
+      "論文名稱": "Onboard Unit Framework Implementation for Vehicle Telematics Applications",
+      "會議名稱": "Cross Strait Four-Regional Radio Science and Wireless Technology",
+      "作者群": "C. M. Lin, J. H. Lin, C. R. Dow, W. X. Chang, C. W. Yang, and J. C. Chiu"
+    },
+    {
+      "論文名稱": "Energy Efficient Hole Bypassing Routing in Wireless Sensor Networks",
+      "會議名稱": "the 3rd IEEE International Conference on Computer Science and Information Technology",
+      "作者群": "S.-F. Hwang, C.-H. Yang, Y.-Y. Su and C.-R. Dow"
+    },
+    {
+      "論文名稱": "無線感測網路中具省能之避洞繞徑機制",
+      "會議名稱": "the 15th Mobile Computing Workshop",
+      "作者群": "黃秀芬, 楊佳瑄, 蘇奕宇, 竇其仁"
+    },
+    {
+      "論文名稱": "An Efficient Multicast Scheme in WiMAX Mesh Network Using Dynamic Scheduling Techniques for Concurrent Transmissions",
+      "會議名稱": "Proceedings of the 15th mobile Computing Workshop",
+      "作者群": "J.H. Lin,C.R. Dow,Y.C. Chen,S.F.Hwang"
+    },
+    {
+      "論文名稱": "A Prompt Response Monitoring System for the Guiding Support of Learning Activities",
+      "會議名稱": "International Conference on Information Technology",
+      "作者群": "Y.H.Li,L.H.Huang,C.R.Dow,P.Hsuan,and W.L.Koo"
+    },
+    {
+      "論文名稱": "Multi-Chain Data Gathering in Wireless Sensor Networks",
+      "會議名稱": "2009 National Computer Symposium (NCS2009)",
+      "作者群": "S.-F. Hwang, K.-H. Lu, Z.-Y. Huang, and C.-R. Dow"
+    },
+    {
+      "論文名稱": "Walk-walk:a Location-based Mobile AD/Voucher System for Night Market Strolling",
+      "會議名稱": "Proceedings of the 2009 National Computer Symposium",
+      "作者群": "C.R. Dow, K. H. Chen,H. Y. Yang, C. W. Chuang,P.L.Lee, and W.Y.Chang"
+    },
+    {
+      "論文名稱": "A Dynamic Traffic Control System in Wireless Mesh Networks",
+      "會議名稱": "Proceedings of the 2009 National Computer Symposium",
+      "作者群": "P.J.Lin,C.R.Dow,C.Y.Chang,P.Hsuan,and S.F. Hwang"
+    },
+    {
+      "論文名稱": "A Transparent Framework of Distance Laboratory: A Case Study on Networking and Embedded Systems",
+      "會議名稱": "Proceedings of the World Conference on E-Learning in Corporate, Government, Healthcare, and Higher Education",
+      "作者群": "C.R. Dow and Y.H. Li"
+    },
+    {
+      "論文名稱": "ACapacity-Aware and Multipath-Supported Traffic Control Framework in Wireless Mesh Networks",
+      "會議名稱": "Proceeding of the 10th International Symposium on Pervasive System, Algorithms and Networks",
+      "作者群": "P.Hsuan,C.R.Dow,P.J.Lin,and K.C.Lai"
+    },
+    {
+      "論文名稱": "A Cluster-Based Multicast Scheme with Asymmetric Link Support in Mobile Ad Hoc Networks",
+      "會議名稱": "the 5th Workshop on Wireless Ad Hoc and Sensor Networks (WASN 2009)",
+      "作者群": "Y.-Y. Su, S.-F. Hwang, and C.-R. Dow"
+    },
+    {
+      "論文名稱": "Energy Efficient Localization Schemes in Wireless Sensor Networks",
+      "會議名稱": "the 14th Mobile Computing Workshop",
+      "作者群": "S.-F. Hwang, W.-C. Lin, K.-H. Lu, and C.-R. Dow"
+    },
+    {
+      "論文名稱": "Energy Efficient Event-Driven Data Gathering in Wireless Sensor Networks",
+      "會議名稱": "the 14th Mobile Computing Workshop",
+      "作者群": "S.-F. Hwang, C.-W. Lee, Y.-Y. Su, and C.-R. Dow"
+    },
+    {
+      "論文名稱": "An Efficient Multicast Scheme in WiMax Mesh Networks Using Distributed Clustering Techniques",
+      "會議名稱": "2008 International Computer Symposium (ICS 2008)",
+      "作者群": "J. H. Lin, C. C. Chen, C. R. Dow, S. F. Hwang"
+    },
+    {
+      "論文名稱": "An Efficient Data Reporting Scheme in Large Wireless Sensor Networks with Mobile Sinks",
+      "會議名稱": "2008 International Computer Symposium (ICS 2008)",
+      "作者群": "S.-F. Hwang, K.-H. Lu, Y.-S. Wang, and C.-R. Dow"
+    },
+    {
+      "論文名稱": "An Efficient Multicast Scheme un WiMax Mesh Networks Using Distributed Clustering Techniques",
+      "會議名稱": "Proceedings of 2008 International Computer Symposium",
+      "作者群": "J.H. Lin, C.C. Chen, C.R. Dow, S. F. Hwang"
+    },
+    {
+      "論文名稱": "An Efficient Multicast Protocol in Mobile Ad-hoc Networks Using Forward Error Correction Techniques",
+      "會議名稱": "the Fifth ACM International Symposium on Performance Evaluation of Wireless Ad Hoc, Sensor, and Ubiquitous Networks (ACM PE-WASUN-2008 in conjunction with ACM MSWiM2008)",
+      "作者群": "S. C. Chen, C. R. Dow, P. J. Lin, and S. F. Hwang"
+    },
+    {
+      "論文名稱": "An Efficient Anycast Scheme for Discovering K Services in Mobile Ad-hoc Networks",
+      "會議名稱": "the Fifth ACM International Symposium on Performance Evaluation of Wireless Ad Hoc, Sensor, and Ubiquitous Networks (ACM PE-WASUN-2008 in conjunction with ACM MSWiM2008)",
+      "作者群": "P. J. Lin, C. R. Dow, S. C. Chen, C. J. Li, and S. F. Hwang"
+    },
+    {
+      "論文名稱": "Efficient Data Reporting for Object Tracking in Wireless Sensor Networks with Mobile Sinks",
+      "會議名稱": "the 14th Asia-Pacific Conference on Communications",
+      "作者群": "S.-F. Hwang, K.-H. Lu, L.-R. Yang, and C.-R. Dow"
+    },
+    {
+      "論文名稱": "An NTCIP-based Semantic ITS Middleware for Emergency Vehicle Preemption",
+      "會議名稱": "the 11th IEEE International Conference on Intelligent Transportation Systems (ITSC 2008)",
+      "作者群": "K. H. Chen, C. R. Dow, D. J. Lin, C. W. Yang, and W. C. Chiang"
+    },
+    {
+      "論文名稱": "NimbleTransit: Public Transportation Transit Planning Using Semantic Service Composition Schemes",
+      "會議名稱": "the 11th IEEE International Conference on Intelligent Transportation Systems (ITSC 2008)",
+      "作者群": "K. H. Chen, C. R. Dow, and S. J. Guan"
+    },
+    {
+      "論文名稱": "HarpiaGrid: A Reliable Grid-Based Routing Protocol for Vehicular Ad Hoc Networks",
+      "會議名稱": "11th IEEE International Conference on Intelligent Transportation Systems (ITSC 2008)",
+      "作者群": "K. H. Chen, C. R. Dow, and Y. S. Lee"
+    },
+    {
+      "論文名稱": "A seamless and reliable distributed network file system utilizing webspace",
+      "會議名稱": "The 10th IEEE International Symposium on Web Site Evolution (WSE 2008)",
+      "作者群": "Hsiang-Ching Chao, Tzong-Jye Liu, Kuong-Ho Chen and Chyi-Ren Dow"
+    },
+    {
+      "論文名稱": "在具行動匯集點之無線感測網路的階層式群播",
+      "會議名稱": "the 4th Workshop on Wireless, Ad Hoc, and Sensor Networks (WASN2008)",
+      "作者群": "S.-F. Hwang, C.-S. Hsien, and C.-R. Dow"
+    },
+    {
+      "論文名稱": "The Implementation of Multiplexing Diagnostic System Using Bluetooth Scatternet for Intelligent Vehicles",
+      "會議名稱": "2007 National Computer Symposium(NCS)",
+      "作者群": "C. M. Lin, C. R. Dow, C. W. Yang, J. H. Lin, and H. J. Shih"
+    },
+    {
+      "論文名稱": "A Lab-based Virtual Teaching Assistant- Using Network PPP Laboratory as an Example",
+      "會議名稱": "20th International Conference on Computer Applications in Industry and Engineering (CAINE '07)",
+      "作者群": "C. R. Dow, W. J. Lin, K. H. Chang, and P. Hsuan"
+    },
+    {
+      "論文名稱": "A Railroad-Based Data Dissemination in Wireless Sensor Networks",
+      "會議名稱": "the 3rd Workshop on Wireless, Ad Hoc, and Sensor Networks (WASN2007)",
+      "作者群": "Y.-W. Huang, S.-F. Hwang, and C.-R. Dow"
+    },
+    {
+      "論文名稱": "A Scheduling Algorithm with Guaranteed Bandwidth Services for Bluetooth Scatternets",
+      "會議名稱": "the Fourth International Conference on Wireless and Optical Communications Networks",
+      "作者群": "[4] \tC. M. Lin, C. R. Dow, M. C. Hsieh, and J. C. Chiu"
+    },
+    {
+      "論文名稱": "A Polymorphic Shellcode Detection Mechanism in the Network",
+      "會議名稱": "The Second International Conference on Scalable Information Systems",
+      "作者群": "Hsiang-Lun Huang, Tzong-Jye Liu, Kuong-Ho Chen, Chyi-Ren Dow, Lih-Chyau Wuu"
+    },
+    {
+      "論文名稱": "A Ubiquitous Teaching Assistant Using Knowledge Retrieval and Adaptive Learning Techniques",
+      "會議名稱": "IEEE International Conference on Integration of Knowledge Intensive Multi-Agent Systems (KIMAS '07)",
+      "作者群": "K. H. Chen, C. R. Dow, Y. Y. Chen, and Y. H. Li"
+    },
+    {
+      "論文名稱": "Design and Implementation of an Open Sourced Location Service System for the Aglets Mobile Agent System",
+      "會議名稱": "IEEE International Conference on Integration of Knowledge Intensive Multi-Agent Systems (KIMAS '07)",
+      "作者群": "Y. H. Li, C. R. Dow, K. H. Chang, and K. H. Chen"
+    },
+    {
+      "論文名稱": "在匯集點可移動的無線感測網路上有效的物體追蹤與回報機制",
+      "會議名稱": "the 13th Mobile Computing Workshop",
+      "作者群": "L.-R. Yang, S.-F. Hwang, and C.-R. Dow"
+    },
+    {
+      "論文名稱": "Hierarchical Data Gathering Scheme in Wireless Sensor Networks",
+      "會議名稱": "the 12th Mobile Computing Workshop",
+      "作者群": "T.-H. Chang, S.-F. Hwang, K.-H. Lu, and C.-R. Dow"
+    },
+    {
+      "論文名稱": "Efficient Convergecast Schemes in Wireless Sensor Networks",
+      "會議名稱": "the 12th Mobile Computing Workshop",
+      "作者群": "W.-C. Huang, S.-F. Hwang, Y.-Y. Su, and C.-R. Dow"
+    },
+    {
+      "論文名稱": "An Efficient Anycast Scheme for Discovering K Services in Wireless Ad-hoc Networks",
+      "會議名稱": "the 12th Mobile Computing Workshop",
+      "作者群": "C.-R. Dow, C.-J. Li, S.-C. Chen, and S.-F. Hwang"
+    },
+    {
+      "論文名稱": "Design and Implementation of Anycast Protocols for Mobile Ad-hoc Networks",
+      "會議名稱": "The 8th International Conference on Advanced Communication Technology (ICACT2006)",
+      "作者群": "C. R. Dow, P. Hsuan and S. F. Hwang"
+    },
+    {
+      "論文名稱": "A Grid-Based Manycast Scheme for Large Mobile Ad Hoc Networks",
+      "會議名稱": "the International Conference on Information Networking",
+      "作者群": "Shiow-Fen Hwang, Kun-Hsien Lu and Chyi-Ren Dow"
+    },
+    {
+      "論文名稱": "A Recommender-based Knowledge Support System for Senior Project Design",
+      "會議名稱": "The 11th Conference on Information Management and Implementation",
+      "作者群": "C. R. Dow, K. H. Chen, Y. P. Huang, J. A. Tu, and Y. S. Wang"
+    },
+    {
+      "論文名稱": "A Reliable Multicast Routing Protocol Based on Recovery Points in Mobile Ad-hoc Networks",
+      "會議名稱": "the Second International Conference on Mobile Technology, Applications and Systems (Mobility Conference 2005)",
+      "作者群": "C. R. Dow, S. C. Chen, R. D. Wang, J. H. Lin, and S. F. Hwang"
+    },
+    {
+      "論文名稱": "A Cluster-Based Coverage-Preserving Scheduling Scheme for Wireless Sensor Networks",
+      "會議名稱": "Workshop on Wireless, Ad Hoc, and Sensor Networks(WASN 2005)",
+      "作者群": "Yi-Yau Lin, Yi-Yu Su, Shiow-Fen Hwang, Chyi-Ren Dow"
+    },
+    {
+      "論文名稱": "An Efficient Multi-Source Multicast Routing Protocol in Mobile Ad Hoc Networks",
+      "會議名稱": "ICPADS-2005",
+      "作者群": "Yi-Yu Su, Shiow-Fen Hwang, Chyi-Ren Dow"
+    },
+    {
+      "論文名稱": "A Multi-lingual Paradigm Switching Framework for SCORM-based Digital Contents",
+      "會議名稱": "4th International Conference on Technology in Teaching and Learning in Higher Education",
+      "作者群": "C. R. Dow, J. C. Chiu, K. H. Chen and C. M. Lin"
+    },
+    {
+      "論文名稱": "Remote User Authentication Scheme with User Anonymity",
+      "會議名稱": "the 2005 International Conference on Security and Management (WCAC SAM’05)",
+      "作者群": "Wei-Bin Lee, Hsing-Bai Chen, and Chyi-Ren Dow"
+    },
+    {
+      "論文名稱": "Efficient Date-Constraint Hierarchical Key Assignment Scheme",
+      "會議名稱": "the 2005 International Conference on Security and Management (WCAC SAM’05)",
+      "作者群": "Wei-Bin Lee, Jia-Hong Li, and Chyi-Ren Dow"
+    },
+    {
+      "論文名稱": "Self-Stabilization Neighborhood Synchronizer for Uniform Rings",
+      "會議名稱": "the 2005 International Conference on Parallel and Distributed Processing Techniques and Applications (IMCSE PDPTA’05)",
+      "作者群": "Tzong-Jye Liu, Chia-Lin Lee, Chyi-Ren Dow, Wei-Bin Lee and Hsing-Bai Chen"
+    },
+    {
+      "論文名稱": "An Efficient Data Gathering Scheme in Wireless Sensor Networks",
+      "會議名稱": "11th Mobile Computing Workshop",
+      "作者群": "T. N. Chang, S. F. Hwang, K. H. Lu, and C. R. Dow"
+    },
+    {
+      "論文名稱": "Design and Implementation of a Message Coordination System Based on Mobile Agent Framework",
+      "會議名稱": "11th Mobile Computing Workshop",
+      "作者群": "S. R.. Rou and C. R. Dow"
+    },
+    {
+      "論文名稱": "A Study of Recent Research Trends and Experimental Guidelines in Mobile Ad-hoc Networks",
+      "會議名稱": "IEEE 19th International Conference on Advanced Information Networking and Applications",
+      "作者群": "C. R. Dow, P. J. Lin, S. C. Chen, J. H. Lin, and S. F. Hwang"
+    },
+    {
+      "論文名稱": "Power-efficient and QOS-aware Scheduling Algorithm for Various Traffic Loads in Bluetooth Scatternet",
+      "會議名稱": "IASTED International Conference on Parallel and Distributed Computing and Networks (PDCN 2005)",
+      "作者群": "C. M. Lin, C. R. Dow, C. M. Chiu, T. W. Ko, and C. Y. Yu"
+    },
+    {
+      "論文名稱": "Bluetree++: A Novel Scatternet Formation Scheme",
+      "會議名稱": "IASTED International Conference on Parallel and Distributed Computing and Networks (PDCN 2005)",
+      "作者群": "C. M. Lin, C. R. Dow, T. W. Ko, C. M. Chiu, and K. L. Liao"
+    },
+    {
+      "論文名稱": "An Efficient Anycasting Scheme in Ad-hoc Wireless Networks",
+      "會議名稱": "2004 IEEE Consumer Communications and Networking Conference (CCNC2005)",
+      "作者群": "S. C. Chen, C. R. Dow, S. K. Chen, J. H. Lin, and S. F. Hwang"
+    },
+    {
+      "論文名稱": "An Efficient Channel Allocation Scheme in Cell Overlapping Systems",
+      "會議名稱": "2004 IEEE Consumer Communications and Networking Conference (CCNC2005)",
+      "作者群": "J. H. Lin, C. R. Dow, Y. H. Li, C. M. Lin, and T. C. Huang"
+    },
+    {
+      "論文名稱": "Trend Analysis of Senior Project Design Using an e-Portfolio System",
+      "會議名稱": "10th Conference on Information Management and Implementation",
+      "作者群": "C. R. Dow, K. H. Chen, C. Y. Pong, C. F. Lu and W. C. Lin"
+    },
+    {
+      "論文名稱": "A Scalable Cluster-based Manycast in Ad Hoc Networks",
+      "會議名稱": "International Computer Symposium (ICS2004)",
+      "作者群": "S. F. Hwang, J.-J. Lin, K. H. Lu, and C. R. Dow"
+    },
+    {
+      "論文名稱": "SPDP: A Versatile Electronic Portfolio System for Senior Project Design Assessment",
+      "會議名稱": "2004 International Conference on Teaching and Learning in Higher Education",
+      "作者群": "C. R. Dow, W. B. Lee, and K. H. Chen"
+    },
+    {
+      "論文名稱": "An Assisant Approach to Accomplish Institutional Self-Assessment",
+      "會議名稱": "2004 International Conference on Teaching and Learning in Higher Education",
+      "作者群": "W. B. Lee, C. R. Dow, H. C. Lin, C. C. Fang, and K. H. Chen"
+    },
+    {
+      "論文名稱": "An Efficient Method for Involving Faculty in the Self-Assessment Process",
+      "會議名稱": "2004 International Conference on Teaching and Learning in Higher Education",
+      "作者群": "W. B. Lee, C. R. Dow, C. C. Fang, H. C. Lin, and K. H. Chen"
+    },
+    {
+      "論文名稱": "Zone-based hierarchical routing in two-tier backbone ad hoc networks",
+      "會議名稱": "12th IEEE International Conference on Networks (ICON2004)",
+      "作者群": "T. C. Huang, C. K. Liao and C. R. Dow"
+    },
+    {
+      "論文名稱": "Design and Implementation of Virtual Laboratories Using Wrapping and Agent Techniques",
+      "會議名稱": "the 2004 IEEE International Conference on Information Reuse and Integration (IRI2004)",
+      "作者群": "Y. H. Li, C. R. Dow, F. W. Hsu, C. M. Lin and T. C. Huang"
+    },
+    {
+      "論文名稱": "An Instant Messaging-based Multi-agent Coordination System",
+      "會議名稱": "2004 IEEE International Conference on Information Reuse and Integration (IRI2004)",
+      "作者群": "S. C. Chen, C. R. Dow, T. K. Yang, J. Y. Bai, and C. M. Lin"
+    },
+    {
+      "論文名稱": "A Mobile Agent-based Virtual Laboratory Framework",
+      "會議名稱": "15th Workshop on Object-Oriented Technology and Applications on Internet",
+      "作者群": "C. R. Dow, Y. H. Li, F. W. Hsu, C. M. Lin and T. C. Huang"
+    },
+    {
+      "論文名稱": "An Efficient Weight-based OVSF Code Assignment Strategy for WCDMA",
+      "會議名稱": "the 3rd Active Networking Workshop",
+      "作者群": "C. R. Dow, C. K. Tseng, Y. H. Li and C. M. Lin"
+    },
+    {
+      "論文名稱": "An On-Demand Multicast Routing Protocol with Load Consideration in MANETs",
+      "會議名稱": "the 3rd Active Networking Workshop",
+      "作者群": "C. R. Dow, P. C. Yang and S. F. Hwang"
+    },
+    {
+      "論文名稱": "A Role-aware Power-saving Scheme in Cluster-based MANETs",
+      "會議名稱": "the 3rd Active Networking Workshop",
+      "作者群": "C. R. Dow, M. Y. Lai, J. H. Lin and S. F. Hwang"
+    },
+    {
+      "論文名稱": "A Role-aware Power-saving Scheme in Cluster-based MANETs",
+      "會議名稱": "the 3rd Active Networking Workshop",
+      "作者群": "C.-R. Dow, M.-Y. Lai, J.-H. Lin and S.-F. Hwang"
+    },
+    {
+      "論文名稱": "An On-Demand Multicast Routing Protocol with Load Consideration in MANETs",
+      "會議名稱": "the 3rd Active Networking Workshop",
+      "作者群": "C.-R. Dow, P.-C. Yang and S.-F. Hwang"
+    },
+    {
+      "論文名稱": "A Power-Aware Multipath Routing with Load Balance in Ad Hoc Networks",
+      "會議名稱": "21st Century Digital Life and Internet Technologies",
+      "作者群": "Y. C. Huang, S. F. Hwang, and C. R. Dow"
+    },
+    {
+      "論文名稱": "An Efficient Anycasting Scheme in Mobile Ad hoc Networks",
+      "會議名稱": "the 10th Mobile Computing Workshop",
+      "作者群": "C.-R. Dow, S.-K. Chen, S.-C. Chen and S.-F. Hwang"
+    },
+    {
+      "論文名稱": "A Reliable Multicast Routing Protocol Based on Recovery Points in Ad-hoc Wireless Networks",
+      "會議名稱": "the 10th Mobile Computing Workshop",
+      "作者群": "C.-R. Dow, R.-D. Wang, P. Hsuan, and S.-F. Hwang"
+    },
+    {
+      "論文名稱": "A Reliable Multicast Routing Protocol Based on Recovery Points in Ad-hoc Wireless Networks",
+      "會議名稱": "10th Mobile Computing Workshop",
+      "作者群": "C. R. Dow, R. D. Wang, P. Hsuan, and S. F. Hwang"
+    },
+    {
+      "論文名稱": "An Efficient Anycasting Scheme in Mobile Ad hoc Networks",
+      "會議名稱": "10th Mobile Computing Workshop",
+      "作者群": "C. R. Dow, S. K. Chen, S. C. Chen and S. F. Hwang"
+    },
+    {
+      "論文名稱": "An Efficient Power-Aware Multicast Protocol for Mobile Ad Hoc Networks",
+      "會議名稱": "National Computer Symposium (NCS2003)",
+      "作者群": "C. N. Kao, S. F. Hwang, Y. Y. Su, C. R. Dow"
+    },
+    {
+      "論文名稱": "An Efficient Power-Aware Multicast Protocol for Mobile Ad Hoc Networks",
+      "會議名稱": "National Computer Symposium (NCS2003)",
+      "作者群": "C. N. Kao, S. F. Hwang, Y. Y. Su,and C. R. Dow"
+    },
+    {
+      "論文名稱": "校園無線網際網路允入控制與管理",
+      "會議名稱": "National Computer Symposium (NCS2003)",
+      "作者群": "宣拔, 邱仁成, 竇其仁, 賴坤助"
+    },
+    {
+      "論文名稱": "A Hybrid Location Service Scheme for Large Ad Hoc Networks",
+      "會議名稱": "Workshop on 21st Century Digital Life and Internet Technologies Workshop",
+      "作者群": "K. H. Lu, S. F. Hwang and C. R. Dow"
+    },
+    {
+      "論文名稱": "A Hybrid Location Service Scheme for Large Ad Hoc Networks",
+      "會議名稱": "21st Century Digital Life and Internet Technologies Workshop",
+      "作者群": "K. H. Lu, S. F. Hwang, C. R. Dow"
+    },
+    {
+      "論文名稱": "A Virtual Laboratory for Digital Signal Processing",
+      "會議名稱": "International Conference on Information Technology: Research and Education (ITRE '2003)",
+      "作者群": "C. R. Dow, F. W. Hsu, T. K. Yang and J. Y. Bai"
+    },
+    {
+      "論文名稱": "An Efficient Cluster-based Routing Algorithm in Ad Hoc Networks with Unidirectio",
+      "會議名稱": "International Computer Symposium (ICS2002)",
+      "作者群": "Y. Y. Su, S. F. Hwang, and C. R. Dow"
+    },
+    {
+      "論文名稱": "An Adaptive Multi-Channel Allocation Scheme for Multimedia Services in Large-Sca",
+      "會議名稱": "15th International Conference on Parallel & Distributed Computing Systems",
+      "作者群": "C. R. Dow, J. S. Lai"
+    },
+    {
+      "論文名稱": "An Efficient Cluster-based Routing Algorithm in Ad Hoc Networks with Unidirectional Links",
+      "會議名稱": "International Computer Symposium",
+      "作者群": "Y. Y. Su, S. F. Hwang, C. R. Dow"
+    },
+    {
+      "論文名稱": "A Virtual Backbone-based Multicast Routing Protocol for Ad-hoc  Wireless Network",
+      "會議名稱": "15th International Conference on Parallel & Distributed Computing Systems",
+      "作者群": "J. H. Lin, C. R. Dow, K. T. Chen, S. F. Hwang"
+    },
+    {
+      "論文名稱": "A Virtual Backbone-based Multicast Routing Protocol for Ad-hoc Wireless Networks",
+      "會議名稱": "the 15th International Conference on Parallel & Distributed Computing Systems (PDCS2002)",
+      "作者群": "J.-H. Lin, C.-R. Dow, K.-T. Chen, and S.-F. Hwang"
+    },
+    {
+      "論文名稱": "A Mobile Agent-based Virtual Language Learning Laboratory",
+      "會議名稱": "2002 International Conference on Chinese Language Computing (ICCLC '2002)",
+      "作者群": "C. R. Dow, C. Y. Lin, and F. W. Hsu"
+    },
+    {
+      "論文名稱": "A GPS-Based Routing Protocol with Location Service for Large Ad Hoc Networks",
+      "會議名稱": "Workshop on the 21st Century Digital Life and Internet Technologies",
+      "作者群": "W. Y. Huang、S. F. Hwang、Y. Y. Su、C. R. Dow"
+    },
+    {
+      "論文名稱": "A Three-Level Synchronous Checkpointing Algorithm in Ad-hoc Wireless Networks",
+      "會議名稱": "Workshop on the 21st Century Digital Life and Internet Technologies",
+      "作者群": "S. C. Chen、C. R. Dow、C. M. Lin、S. F. Hwang"
+    },
+    {
+      "論文名稱": "A Cluster-Based Routing Algorithm in Ad-hoc Networks with Unidirectional Links",
+      "會議名稱": "8th Mobile Computing Workshop",
+      "作者群": "Y. Y. Su, S. F. Hwang, and C. R. Dow"
+    },
+    {
+      "論文名稱": "數位電路虛擬實驗室之評量模式",
+      "會議名稱": "Proceedings of 2001 National Computer Symposium",
+      "作者群": "竇其仁，謝銘勳"
+    },
+    {
+      "論文名稱": "網際網路上XML和軟體代理人於EDI之應用研究-以台灣一貨運業實例來探討",
+      "會議名稱": "Proceedings of 2001年海峽兩岸資訊(訊息)技術研討會",
+      "作者群": "竇其仁，何淑媛"
+    },
+    {
+      "論文名稱": "一個可應用於e-Learning之行動代理人協調模式",
+      "會議名稱": "Proceedings of 2001年海峽兩岸資訊(訊息)技術研討會",
+      "作者群": "竇其仁，施惠珠"
+    },
+    {
+      "論文名稱": "校園無線網際網路-以逢甲大學無線網路建置為例",
+      "會議名稱": "Proceedings of 第七屆台灣區網際網路研討會",
+      "作者群": "竇其仁，林倩玲、余禎祥"
+    },
+    {
+      "論文名稱": "An Efficient Multi-Channel Allocation Strategy for Mobile Multimedia Networks",
+      "會議名稱": "Proceedings of the 7th International Conference on Distributed Multimedia Systems",
+      "作者群": "C. R. Dow、J. S. Lai、Y. F. Hwang、J. S. Chen"
+    },
+    {
+      "論文名稱": "An Adaptive IP Address\nAllocation and Management System",
+      "會議名稱": "2nd International Workshop on Intelligent Multimedia Computing and Networking",
+      "作者群": "C. R. Dow、P. H. Lin、S. C. Chen"
+    },
+    {
+      "論文名稱": "Performance Evaluation of Channel Allocation Strategies for PCS Systems Using SimPCS",
+      "會議名稱": "Proceedings of 14th International Conference on Parallel & Distributed Computing Systems",
+      "作者群": "C. R. Dow、J. S. Chen"
+    },
+    {
+      "論文名稱": "Maximizing the Traffic-Carrying Capacity of Cellular Radio Systems Based on an Efficient Distributed",
+      "會議名稱": "Proceedings of 14th International Conference on Parallel & Distributed Computing Systems",
+      "作者群": "C. R. Dow、J. S. Chen"
+    },
+    {
+      "論文名稱": "A Virtual Backbone-based Multicast Routing Protocol for Ad-hoc Networks",
+      "會議名稱": "二十一世紀數位生活與網際網路科技研討會",
+      "作者群": "C. R. Dow, S.F. Hwang, K. T. Chen, J. H. Lin, and W. L. Horng"
+    },
+    {
+      "論文名稱": "可調適之IP位址分配與管理系統建置",
+      "會議名稱": "二十一世紀數位生活與網際網路科技研討會",
+      "作者群": "竇其仁、林碧華"
+    },
+    {
+      "論文名稱": "A Cluster-based Virtual Backbone Establishment and Maintenance for Ad-hoc Networks",
+      "會議名稱": "7th Mobile Computing Workshop",
+      "作者群": "C. R. Dow, S. F. Hwang, W. L. Horng, J. H. Lin, and K. T. Chen"
+    },
+    {
+      "論文名稱": "An Adaptive Channel Allocation Strategy for Large-Scale Mobile Cellular Networks\n\n",
+      "會議名稱": "7th Mobile Computing Workshop",
+      "作者群": " C. R. Dow, Y. F. Huang, and  J. S. Chen"
+    },
+    {
+      "論文名稱": "An Efficient K-hop Clustering Routing Scheme for Ad-hoc Wireless Networks  \n\n\n",
+      "會議名稱": "7th Mobile Computing Workshop",
+      "作者群": "D. J. Su, S. F. Hwang, C. R. Dow, and Y. W. Wang"
+    },
+    {
+      "論文名稱": "VDAS: Variable Dependency After Send Family of Checkpoint Dependency Models in Distributed Systems",
+      "會議名稱": "7th Workshop on Compiler Techniques for High Performance Computing (CTHPC’2001),",
+      "作者群": "C. R. Dow and C. M. Lin"
+    },
+    {
+      "論文名稱": "SimPCS: A Web-based PCS Learning Tool",
+      "會議名稱": "Proceedings of THe International Conference on Computers in Education",
+      "作者群": "C. R. Dow, Y. F. Huang, and J. S. Chen"
+    },
+    {
+      "論文名稱": "PCS換手模擬器的模組化設計與使用評估",
+      "會議名稱": "Proceedings of 11th Workshop on Object-Oriented Technology and Applications",
+      "作者群": "竇其仁、賴家信、黃裕豐、陳忠信"
+    },
+    {
+      "論文名稱": "Checkpointing MPI Applications on NOWs and SMP Machines",
+      "會議名稱": "Proceedings of 13th International Conference on Parallel & Distributed Computing Systems (PDCS 2000)",
+      "作者群": "C. R. Dow, M. C. Hsieh, C. M. Lin, and J. S. Chen"
+    },
+    {
+      "論文名稱": "Efficient Code Assignment Schemes for Hidden Terminal Avoidance in Cluster-Based Wireless Networks",
+      "會議名稱": "Proceedings of 13th International Conference on Parallel & Distributed Computing Systems(PDCS 2000)",
+      "作者群": "C. R. Dow, C. M. Lin, J. H. Lin, and D. W. Fan"
+    },
+    {
+      "論文名稱": "Causal Mobile Breakpoints",
+      "會議名稱": "Proceedings of 6th Workshop on Compiler Techniques for High Performance Computing",
+      "作者群": "C.M.Lin and C.R. Dow"
+    },
+    {
+      "論文名稱": "校園無線網路之規劃與建置",
+      "會議名稱": "第五屆台灣區網際網路研討會",
+      "作者群": "竇其仁,林碧華,林志鴻,謝明璋"
+    },
+    {
+      "論文名稱": "A Web-based Parallel Simulator for Cellular Mobile Systems",
+      "會議名稱": "The 12th International Conference on Parallel & Distributed Computing Systems (PDCS '99)",
+      "作者群": "C. R. Dow and S. H. Hung"
+    },
+    {
+      "論文名稱": "Efficient Checkpoint-based Rollback Recovery Techniques in Mobile Computing Systems",
+      "會議名稱": "12th International Conference on Parallel & Distributed Computing Systems",
+      "作者群": "C. M. Lin and C. R. Dow"
+    },
+    {
+      "論文名稱": "Visualization of Performance Data on PCS Systems",
+      "會議名稱": "International Symposium on Multimedia Information Proceeding (ISMIP'99)",
+      "作者群": "C. R. Dow, J. S. Chen, and Y. F. Huang"
+    },
+    {
+      "論文名稱": "Reduction of Checkpoint Space for Distributed Breakpoint Detection in Message Passing Programs",
+      "會議名稱": "一九九九分散式技術及應用研討會",
+      "作者群": "C. M. Lin and C. R. Dow"
+    },
+    {
+      "論文名稱": "Avoidance of Hidden Terminal Interference in Multihop Networks",
+      "會議名稱": "5th Mobile Computing Workshop",
+      "作者群": "C. R. Dow and D. W. Fan"
+    },
+    {
+      "論文名稱": "A Simulator for Cellular Mobile Systems",
+      "會議名稱": "5th Mobile Computing Workshop",
+      "作者群": "C. R. Dow and S. H. Hung"
+    },
+    {
+      "論文名稱": "一個虛擬數位電路實驗室",
+      "會議名稱": "第八屆國際電腦輔助教學研討會",
+      "作者群": "陳石松，王基軒，林正敏，竇其仁"
+    },
+    {
+      "論文名稱": "以感測元件為主的小型分散式圖控系統及應用",
+      "會議名稱": "第八屆國際電腦輔助教學研討會",
+      "作者群": "王基軒，陳石松，林正敏，竇其仁，余文俊"
+    },
+    {
+      "論文名稱": "A Generalized Processor Mapping Technique for Array Redistribution",
+      "會議名稱": "5th Workshop on Compiler Techniques for High-Performance Computing (CTHPC),",
+      "作者群": "Y. C. Chung, C. H. Hsu, and C. R. Dow"
+    },
+    {
+      "論文名稱": "Efficient Event-based Checkpointing Algorithms in Distributed Systems",
+      "會議名稱": "5th Workshop on Compiler Techniques for High Performance Computing",
+      "作者群": "J. S. Chen and C. R. Dow"
+    },
+    {
+      "論文名稱": "Packing/Unpacking Information for Efficient Generalized kr->r and r->kr Array Redistribution",
+      "會議名稱": "IEEE Symposium on the Frontiers of Massively Parallel Computation,",
+      "作者群": "Y. C. Chung, C. H. Hsu, and C. R. Dow"
+    },
+    {
+      "論文名稱": "A Multicomputer System on Campus Networks",
+      "會議名稱": "1998 Workshop on Distributed System Technologies & Applications (DSTA'98)",
+      "作者群": "Don-Lin Yang, Chia-Cheng Liu, Yeh-Ching Chung, Jen-Shiuh Liu, Chyi-Ren Dow, and Chin-Feng Lin"
+    },
+    {
+      "論文名稱": "MPICkpt: 一個以MPI為基礎的檢查點系統",
+      "會議名稱": "1998 Workshop on Distributed System Technologies & Applications (DSTA'98)",
+      "作者群": "竇其仁，陳家成"
+    },
+    {
+      "論文名稱": "Efficient On-the-fly Zigzag Cycle Detection Techniques to Prevent Useless Checkpoints in Distributed Systems",
+      "會議名稱": "1998 Workshop on Distributed System Technologies & Applications (DSTA'98)",
+      "作者群": "C. M. Lin and C. R. Dow"
+    },
+    {
+      "論文名稱": "An Adaptive Independent Checkpointing Algorithm Using the Technique of Zigzag Cycle Detection in Mobile Computing Systems",
+      "會議名稱": "the 4th Mobile Computing Workshop",
+      "作者群": "C. M. Lin and C. R. Dow"
+    },
+    {
+      "論文名稱": "資料結構之電腦輔助教學系統",
+      "會議名稱": "第七屆國際電腦輔助教學研討會",
+      "作者群": "竇其仁，陳基榮，何全琳，徐本銘，沈建忠"
+    },
+    {
+      "論文名稱": "Adaptive Distributed Breakpoint Detection in Message passing Programs",
+      "會議名稱": "the 4th Workshop on Compiler Techniques for High Performance Computing",
+      "作者群": "C. M. Lin and C. R. Dow"
+    },
+    {
+      "論文名稱": "可支援一致性中斷點與多執行路徑的MPI除錯器",
+      "會議名稱": "NCS'97，中華民國八十六年全國計算機會議",
+      "作者群": "竇其仁，陳忠信，郭逸冠"
+    },
+    {
+      "論文名稱": "Viewdb:一個可應用於WWW與資料庫整合之視覺化系統",
+      "會議名稱": "NCS'97，中華民國八十六年全國計算機會議",
+      "作者群": "竇其仁，葉良偉，范大偉，洪世勳"
+    },
+    {
+      "論文名稱": "An Efficient Web-BBS System",
+      "會議名稱": "TANet'97，第三屆台灣區網際網路研討會",
+      "作者群": "黃年畤，竇其仁，徐弘洋"
+    },
+    {
+      "論文名稱": "一個平行程式整合發展環境",
+      "會議名稱": "一九九七分散式技術及應用研討會",
+      "作者群": "竇其仁,鍾葉青,陳家成,陳忠信"
+    },
+    {
+      "論文名稱": "一個MPI-based交談式平行/分散式除錯器",
+      "會議名稱": "一九九七分散式技術研討會",
+      "作者群": "竇其仁,郭逸冠"
+    },
+    {
+      "論文名稱": "一個可應用於WWW與資料庫整合之CGI成式自動產生器",
+      "會議名稱": "一九九七分散式技術研討會",
+      "作者群": "竇其仁,葉良偉"
+    },
+    {
+      "論文名稱": "IC麵包板:一個電路模擬實驗軟體",
+      "會議名稱": "第六屆國際電腦輔助教學研討會",
+      "作者群": "竇其仁,林正敏,陳石松"
+    },
+    {
+      "論文名稱": "一個物件導向數位電路模擬系統",
+      "會議名稱": "第七屆物件導向技術暨應用研討會",
+      "作者群": "陳石松,林正敏,竇其仁"
+    },
+    {
+      "論文名稱": "一個視覺化主從式之安家圖控系統",
+      "會議名稱": "一九九六分散式技術及應用研討會",
+      "作者群": "林正敏,竇其仁"
+    }
+  ],
+  "book": [
+    {
+      "專業書籍": "應用無線感測網路技術於水土保持工程監測計畫之研究",
+      "出版單位": "行政院農委會水土保持局",
+      "作者群": "李秉乾"
+    },
+    {
+      "專業書籍": "網路代理人",
+      "出版單位": "知城數位科技股份有限公司",
+      "作者群": "竇其仁 林志敏 林正敏"
+    },
+    {
+      "專業書籍": "網路代理人 （Network Agents）",
+      "出版單位": "知城數位科技股份有限公司",
+      "作者群": "竇其仁 林志敏 林正敏"
+    },
+    {
+      "專業書籍": "Internet實務與導論 - 網路e典通",
+      "出版單位": "松崗電腦圖書資料公司",
+      "作者群": "楊豐瑞、竇其仁、劉振緒"
+    },
+    {
+      "專業書籍": "Data Structures and Algorithms: A Multimedia Course for Macro University",
+      "出版單位": "Multimedia Courseware Series",
+      "作者群": "竇其仁"
+    },
+    {
+      "專業書籍": "Internet 實務與導論 - 21世紀首部曲",
+      "出版單位": "松崗圖書公司",
+      "作者群": "楊豐瑞、劉振緒、竇其仁"
+    }
+  ],
+  "patent": [
+    {
+      "title": "新型",
+      "desc": "計程車服務系統"
+    },
+    {
+      "title": "新型",
+      "desc": "計程車服務系統"
+    },
+    {
+      "title": "新型",
+      "desc": "具壅塞感知功能之網路流量控制系統"
+    }
+  ],
+  "most": [
+    {
+      "name": "(個別型)產學合作計畫－電動汽車充電站場域充電服務模式預估系統",
+      "schoolYear": "113"
+    },
+    {
+      "name": "(廠配)耕雲科技股份有限公司(個別型)產學合作計畫－電動汽車充電站場域充電服務模式預估系統",
+      "schoolYear": "113"
+    },
+    {
+      "name": "設計與實作一個基於交通號誌燈與車聯網之警示系統(II)",
+      "schoolYear": "113"
+    },
+    {
+      "name": "(個別型)產學合作計畫－基於智慧路燈即時路口交通串流影像之行人安全監控系統",
+      "schoolYear": "112"
+    },
+    {
+      "name": "(廠配)耕雲科技股份有限公司(個別型)產學合作計畫－基於智慧路燈即時路口交通串流影像之行人安全監控系統",
+      "schoolYear": "112"
+    },
+    {
+      "name": "設計與實作一個基於交通號誌燈與車聯網之警示系統",
+      "schoolYear": "112"
+    },
+    {
+      "name": "導入遊戲化框架於開發粉絲互動遊戲編輯平台應用於網紅社群行銷以增進品牌熟悉度",
+      "schoolYear": "112"
+    },
+    {
+      "name": "(個別型)產學合作計畫－基於即時交通串流影像之行人不安全行為識別系統",
+      "schoolYear": "111"
+    },
+    {
+      "name": "(廠配)耕雲科技股份有限公司(個別型)產學合作計畫－基於即時交通串流影像之行人不安全行為識別系統",
+      "schoolYear": "111"
+    },
+    {
+      "name": "(個別型)產學合作計畫－基於模糊邏輯控制之電動自行車車速區段控制系統",
+      "schoolYear": "110"
+    },
+    {
+      "name": "(廠配)耕雲科技股份有限公司(個別型)產學合作計畫－基於模糊邏輯控制之電動自行車車速區段控制系統",
+      "schoolYear": "110"
+    },
+    {
+      "name": "設計與實作一個基於生成式對抗網路與車聯網之行人穿越道預警系統 (II)",
+      "schoolYear": "110"
+    },
+    {
+      "name": "(個別型)產學合作計畫－物聯網技術運用於地方產業發展支援平台",
+      "schoolYear": "109"
+    },
+    {
+      "name": "(廠配)耕雲科技股份有限公司(個別型)產學合作計畫－物聯網技術運用於地方產業發展支援平台",
+      "schoolYear": "109"
+    },
+    {
+      "name": "設計與實作一個基於生成式對抗網路與車聯網之行人穿越道預警系統",
+      "schoolYear": "109"
+    },
+    {
+      "name": "新興科技創新營運模式－從共享經濟邁向共善社會：公私協力的王道實踐(4/4)",
+      "schoolYear": "108"
+    },
+    {
+      "name": "新興科技創新營運模式－台灣智慧製造創新營運中心-總計畫及子計畫二、四、五(4/4)",
+      "schoolYear": "108"
+    },
+    {
+      "name": "(應用型)產學合作計畫－利用生成式對抗網路之路障偵測系統",
+      "schoolYear": "108"
+    },
+    {
+      "name": "(廠配)區控車訊科技股份有限公司(應用型)產學合作計畫－利用生成式對抗網路之路障偵測系統",
+      "schoolYear": "108"
+    },
+    {
+      "name": "設計與實作一個基於車聯網訊息中介軟體與肇事違規分析的防禦性駕駛預警系統(II)",
+      "schoolYear": "108"
+    },
+    {
+      "name": "(創新營運)產學合作計畫－以司機社群共享經濟為著眼的車輛派遣系統",
+      "schoolYear": "107"
+    },
+    {
+      "name": "新興科技創新營運模式－從共享經濟邁向共善社會：公私協力的王道實踐(3/4)",
+      "schoolYear": "107"
+    },
+    {
+      "name": "新興科技創新營運模式－台灣智慧製造創新營運中心-總計畫及子計畫二、四、五(3/4)",
+      "schoolYear": "107"
+    },
+    {
+      "name": "(廠配)耕雲智慧生活科技股份有限公司(創新營運)產學合作計畫－以司機社群共享經濟為著眼的車輛派遣系統",
+      "schoolYear": "107"
+    },
+    {
+      "name": "(3/3)(兆興廠配)產學技術聯盟合作計畫-車載資通技術與先進交通服務聯盟(II)",
+      "schoolYear": "106"
+    },
+    {
+      "name": "(3/3)(綠穎廠配)產學技術聯盟合作計畫-車載資通技術與先進交通服務聯盟(II)",
+      "schoolYear": "106"
+    },
+    {
+      "name": "(3/3)(理太廠配)產學技術聯盟合作計畫-車載資通技術與先進交通服務聯盟(II)",
+      "schoolYear": "106"
+    },
+    {
+      "name": "(3/3)(兆貫廠配)產學技術聯盟合作計畫-車載資通技術與先進交通服務聯盟(II)",
+      "schoolYear": "106"
+    },
+    {
+      "name": "(應用型)產學合作計畫－設計與開發適用於電動自行車之路障知悉自適性減震動系統",
+      "schoolYear": "107"
+    },
+    {
+      "name": "(廠配)區控車訊科技股份有限公司(應用型)產學合作計畫－設計與開發適用於電動自行車之路障知悉自適性減震動系統",
+      "schoolYear": "107"
+    },
+    {
+      "name": "(3/3)(宇天廠配)產學技術聯盟合作計畫-車載資通技術與先進交通服務聯盟(II)",
+      "schoolYear": "106"
+    },
+    {
+      "name": "(3/3)(博科廠配)產學技術聯盟合作計畫-車載資通技術與先進交通服務聯盟(II)",
+      "schoolYear": "106"
+    },
+    {
+      "name": "(3/3)(俊太廠配)產學技術聯盟合作計畫-車載資通技術與先進交通服務聯盟(II)",
+      "schoolYear": "106"
+    },
+    {
+      "name": "(3/3)(永新廠配)產學技術聯盟合作計畫-車載資通技術與先進交通服務聯盟(II)",
+      "schoolYear": "106"
+    },
+    {
+      "name": "(3/3)(楷越廠配)產學技術聯盟合作計畫-車載資通技術與先進交通服務聯盟(II)",
+      "schoolYear": "106"
+    },
+    {
+      "name": "(3/3)(宏基廠配)產學技術聯盟合作計畫-車載資通技術與先進交通服務聯盟(II)",
+      "schoolYear": "106"
+    },
+    {
+      "name": "(3/3)(傳星廠配)產學技術聯盟合作計畫-車載資通技術與先進交通服務聯盟(II)",
+      "schoolYear": "106"
+    },
+    {
+      "name": "(3/3)(威慎廠配)產學技術聯盟合作計畫-車載資通技術與先進交通服務聯盟(II)",
+      "schoolYear": "106"
+    },
+    {
+      "name": "(3/3)(區控廠配)產學技術聯盟合作計畫-車載資通技術與先進交通服務聯盟(II)",
+      "schoolYear": "106"
+    },
+    {
+      "name": "(3/3)(以諾廠配)產學技術聯盟合作計畫-車載資通技術與先進交通服務聯盟(II)",
+      "schoolYear": "106"
+    },
+    {
+      "name": "(3/3)(雲碼廠配)產學技術聯盟合作計畫-車載資通技術與先進交通服務聯盟(II)",
+      "schoolYear": "106"
+    },
+    {
+      "name": "(3/3)(耕雲廠配)產學技術聯盟合作計畫-車載資通技術與先進交通服務聯盟(II)",
+      "schoolYear": "106"
+    },
+    {
+      "name": "設計與實作一個基於車聯網訊息中介軟體與肇事違規分析的防禦性駕駛預警系統",
+      "schoolYear": "107"
+    },
+    {
+      "name": "(3/3)(偉邦廠配)產學技術聯盟合作計畫-車載資通技術與先進交通服務聯盟(II)",
+      "schoolYear": "106"
+    },
+    {
+      "name": "安全照護實時室內定位系統",
+      "schoolYear": "107"
+    },
+    {
+      "name": "新興科技創新營運模式－從共享經濟邁向共善社會：公私協力的王道實踐(2/4)",
+      "schoolYear": "106"
+    },
+    {
+      "name": "新興科技創新營運模式－台灣智慧製造創新營運中心-總計畫及子計畫二、四、五(2/4)",
+      "schoolYear": "106"
+    },
+    {
+      "name": "(3/3)(帆宣廠配)產學技術聯盟合作計畫-車載資通技術與先進交通服務聯盟(II)",
+      "schoolYear": "106"
+    },
+    {
+      "name": "(3/3)產學技術聯盟合作計畫-車載資通技術與先進交通服務聯盟(II)",
+      "schoolYear": "106"
+    },
+    {
+      "name": "(3/3)基於CDIO理念的跨領域終端課程改造與實踐(想像力與創新思維融入工程教育人才培育與研究)",
+      "schoolYear": "106"
+    },
+    {
+      "name": "(2/3)(威剛廠配)產學技術聯盟合作計畫-車載資通技術與先進交通服務聯盟(II)",
+      "schoolYear": "105"
+    },
+    {
+      "name": "(2/3)(耕雲廠配)產學技術聯盟合作計畫-車載資通技術與先進交通服務聯盟(II)",
+      "schoolYear": "105"
+    },
+    {
+      "name": "設計與實作一個在車聯網上結合MQTT與SWE之自適性指引與警示服務系統(2/2)",
+      "schoolYear": "106"
+    },
+    {
+      "name": "(2/3)(偉邦廠配)產學技術聯盟合作計畫-車載資通技術與先進交通服務聯盟(II)",
+      "schoolYear": "105"
+    },
+    {
+      "name": "(2/3)(威慎廠配)產學技術聯盟合作計畫-車載資通技術與先進交通服務聯盟(II)",
+      "schoolYear": "105"
+    },
+    {
+      "name": "台灣機車肇事與違規巨量資料之研究與分析",
+      "schoolYear": "106"
+    },
+    {
+      "name": "新興科技創新營運模式－從共享經濟邁向共善社會：公私協力的王道實踐(1/4)",
+      "schoolYear": "105"
+    },
+    {
+      "name": "(應用型)產學合作計畫－開放式控制區域網路與智慧裝置之技術整合與閘道器開發(II)",
+      "schoolYear": "105"
+    },
+    {
+      "name": "新興科技創新營運模式－台灣智慧製造創新營運中心-總計畫及子計畫二、四、五(1/4)",
+      "schoolYear": "105"
+    },
+    {
+      "name": "(廠配)區控車訊科技股份有限公司(應用型)產學合作計畫－開放式控制區域網路與智慧裝置之技術整合與閘道器開發(II)",
+      "schoolYear": "105"
+    },
+    {
+      "name": "(2/3)(微程式廠配)產學技術聯盟合作計畫-車載資通技術與先進交通服務聯盟(II)",
+      "schoolYear": "105"
+    },
+    {
+      "name": "(2/3)產學技術聯盟合作計畫-車載資通技術與先進交通服務聯盟(II)",
+      "schoolYear": "105"
+    },
+    {
+      "name": "(2/3)基於CDIO理念的跨領域終端課程改造與實踐(想像力與創新思維融入工程教育人才培育與研究)",
+      "schoolYear": "105"
+    },
+    {
+      "name": "(1/3)(廠配)產學技術聯盟合作計畫-車載資通技術與先進交通服務聯盟(II)",
+      "schoolYear": "104"
+    },
+    {
+      "name": "(1/3)(廠配)產學技術聯盟合作計畫-車載資通技術與先進交通服務聯盟(II)",
+      "schoolYear": "104"
+    },
+    {
+      "name": "(1/3)(廠配)產學技術聯盟合作計畫-車載資通技術與先進交通服務聯盟(II)",
+      "schoolYear": "104"
+    },
+    {
+      "name": "(1/3)(廠配)產學技術聯盟合作計畫-車載資通技術與先進交通服務聯盟(II)",
+      "schoolYear": "104"
+    },
+    {
+      "name": "(1/3)(廠配)產學技術聯盟合作計畫-車載資通技術與先進交通服務聯盟(II)",
+      "schoolYear": "104"
+    },
+    {
+      "name": "(1/3)(廠配)產學技術聯盟合作計畫-車載資通技術與先進交通服務聯盟(II)",
+      "schoolYear": "104"
+    },
+    {
+      "name": "(1/3)(廠配)產學技術聯盟合作計畫-車載資通技術與先進交通服務聯盟(II)",
+      "schoolYear": "104"
+    },
+    {
+      "name": "(1/3)(廠配)產學技術聯盟合作計畫-車載資通技術與先進交通服務聯盟(II)",
+      "schoolYear": "104"
+    },
+    {
+      "name": "(1/3)(廠配)產學技術聯盟合作計畫-車載資通技術與先進交通服務聯盟(II)",
+      "schoolYear": "104"
+    },
+    {
+      "name": "(1/3)(廠配)產學技術聯盟合作計畫-車載資通技術與先進交通服務聯盟(II)",
+      "schoolYear": "104"
+    },
+    {
+      "name": "(1/3)(廠配)產學技術聯盟合作計畫-車載資通技術與先進交通服務聯盟(II)",
+      "schoolYear": "104"
+    },
+    {
+      "name": "設計與實作一個在車聯網上結合MQTT與SWE之自適性指引與警示服務系統(1/2)",
+      "schoolYear": "105"
+    },
+    {
+      "name": "居家小幫手——具環境感測的管家機器人",
+      "schoolYear": "105"
+    },
+    {
+      "name": "智慧交通控制與安全巨量資料整合服務平台開發與應用",
+      "schoolYear": "105"
+    },
+    {
+      "name": "(應用型)產學合作計畫－開放式控制區域網路與智慧裝置之技術整合與閘道器開發",
+      "schoolYear": "104"
+    },
+    {
+      "name": "(廠配)區控車訊科技股份有限公司(應用型)產學合作計畫－開放式控制區域網路與智慧裝置之技術整合與閘道器開發",
+      "schoolYear": "104"
+    },
+    {
+      "name": "(1/3)產學技術聯盟合作計畫-車載資通技術與先進交通服務聯盟(II)",
+      "schoolYear": "104"
+    },
+    {
+      "name": "(1/3)(博後)產學技術聯盟合作計畫-車載資通技術與先進交通服務聯盟(II)",
+      "schoolYear": "104"
+    },
+    {
+      "name": "(1/3)基於CDIO理念的跨領域終端課程改造與實踐(想像力與創新思維融入工程教育人才培育與研究)",
+      "schoolYear": "104"
+    },
+    {
+      "name": "在計程車車載網路上設計與實作利用區域排班與群眾智慧之巡客載客系統與模擬情境產生器 (II)",
+      "schoolYear": "104"
+    },
+    {
+      "name": "結合適地性與穿戴式技術之認人系統",
+      "schoolYear": "104"
+    },
+    {
+      "name": "(應用型)產學合作計畫－車身網路巨量資料整合技術之開發 (II)",
+      "schoolYear": "103"
+    },
+    {
+      "name": "(廠配)區控車訊科技股份有限公司(應用型)產學合作計畫－車身網路巨量資料整合技術之開發 (II)",
+      "schoolYear": "103"
+    },
+    {
+      "name": "產學技術聯盟合作計畫-車載資通技術與先進交通服務聯盟(3/3)",
+      "schoolYear": "103"
+    },
+    {
+      "name": "(廠配)產學技術聯盟合作計畫-車載資通技術與先進交通服務聯盟(3/3)",
+      "schoolYear": "103"
+    },
+    {
+      "name": "在計程車車載網路上設計與實作利用區域排班與群眾智慧之巡客載客系統與模擬情境產生器",
+      "schoolYear": "103"
+    },
+    {
+      "name": "(應用型)產學合作計畫－車身網路巨量資料整合技術之開發",
+      "schoolYear": "102"
+    },
+    {
+      "name": "(廠配)(應用型)產學合作計畫－車身網路巨量資料整合技術之開發(區控車訊科技股份有限公司)",
+      "schoolYear": "102"
+    },
+    {
+      "name": "(廠配)產學技術聯盟合作計畫-車載資通技術與先進交通服務聯盟(2/3)",
+      "schoolYear": "102"
+    },
+    {
+      "name": "產學技術聯盟合作計畫-車載資通技術與先進交通服務聯盟(2/3)",
+      "schoolYear": "102"
+    },
+    {
+      "name": "在WAVE車載網路上設計與實作基於地理與行動網格之服務追蹤、通報與分享系統(2/2)",
+      "schoolYear": "102"
+    },
+    {
+      "name": "(應用型)產學合作計畫─車身網路與智慧型手機整合技術之開發",
+      "schoolYear": "101"
+    },
+    {
+      "name": "(廠配)(應用型)產學合作計畫─車身網路與智慧型手機整合技術之開發(區控車訊科技股份有限公司)",
+      "schoolYear": "101"
+    },
+    {
+      "name": "(廠配)產業技術聯盟合作計畫-車載資通技術與先進交通服務聯盟(1/3)",
+      "schoolYear": "101"
+    },
+    {
+      "name": "產業技術聯盟合作計畫-車載資通技術與先進交通服務聯盟(1/3)",
+      "schoolYear": "101"
+    },
+    {
+      "name": "在WAVE車載網路上設計與實作基於地理與行動網格之服務追蹤、通報與分享系統(1/2)",
+      "schoolYear": "101"
+    },
+    {
+      "name": "開放式土石流無線感測網路平台及前瞻性預測模式應用研究-子計畫:設計與實作一個以SWE 為基礎應用於土石流監測之...透通平台(III)",
+      "schoolYear": "101"
+    },
+    {
+      "name": "在車用行動網路上設計與實作地理知悉路由與集結式散播之服務發現系統(2/2)",
+      "schoolYear": "100"
+    },
+    {
+      "name": "開放式土石流無線感測網路平台及前瞻性預測模式應用研究-子計畫:設計與實作一個以SWE為基礎應用於土石流監測之無線感...平台(II)",
+      "schoolYear": "100"
+    },
+    {
+      "name": "在車用行動網路上設計與實作地理知悉路由與集結式散播之服務發現系統(1/2)",
+      "schoolYear": "99"
+    },
+    {
+      "name": "開放式土石流無線感測網路平台及前瞻性預測模式應用研究-子計畫:設計與實作一個以SWE為基礎應用於土石流監測之無線感...平台(I)",
+      "schoolYear": "99"
+    },
+    {
+      "name": "在無線網狀網路上設計與發展一個以動態門閥與類別式佇列為基礎的流量控制系統(2/2)",
+      "schoolYear": "98"
+    },
+    {
+      "name": "在無線網狀網路上設計與發展一個以動態門閥與類別式佇列為基礎的流量控制系統(1/2)",
+      "schoolYear": "97"
+    },
+    {
+      "name": "在無線網狀網路上設計與實作具負載平衡之路由與以恢復點為基礎之任播與群播協定",
+      "schoolYear": "96"
+    },
+    {
+      "name": "在IPv6環境的隨意行動網路上設計與實作任播協定(2/2)",
+      "schoolYear": "95"
+    },
+    {
+      "name": "在IPv6環境的隨意行動網路上設計與實作任播協定(1/2)",
+      "schoolYear": "94"
+    },
+    {
+      "name": "在隨意行動網路上以虛擬骨幹為基礎的群播與任播之研究",
+      "schoolYear": "93"
+    },
+    {
+      "name": "在隨意行動網路上的叢集、群播、檢查點容錯技術與實驗導引之探討 (II)",
+      "schoolYear": "92"
+    },
+    {
+      "name": "在隨意行動網路上的叢集、群播、檢查點容錯技術與實驗導引之探討(Ⅰ)",
+      "schoolYear": "91"
+    },
+    {
+      "name": "設計與實作一個在Ad  hoc無線網路上解決叢集建置、隱藏式終端干擾與繞路問題的整合架構",
+      "schoolYear": "90"
+    },
+    {
+      "name": "一個WEB-BASED蜂巢式行動系統之模擬與視覺化環境的研製(Ⅱ)",
+      "schoolYear": "89"
+    },
+    {
+      "name": "在SMP多重處理器環境下研究與開發-高效能的自動復原檢查點系統",
+      "schoolYear": "89"
+    },
+    {
+      "name": "具有信號處理能力的嵌入式微處理機的實現及應用-子計畫三：混合式數位信號處理器之系統軟體的研發",
+      "schoolYear": "89"
+    },
+    {
+      "name": "一個Web-Based蜂巢式行動系統之模擬與視覺化環境的研製",
+      "schoolYear": "88"
+    },
+    {
+      "name": "MPI系統測試與整合環境製作",
+      "schoolYear": "87"
+    },
+    {
+      "name": "以MPI為基礎之平行/分散式檢查點系統的設計與製作",
+      "schoolYear": "87"
+    },
+    {
+      "name": "異質性環境下之分散式/平行除錯器的研發與開發",
+      "schoolYear": "86"
+    },
+    {
+      "name": "WWW上之問卷調查統計系統的製作(大專生暑期)",
+      "schoolYear": "85"
+    },
+    {
+      "name": "復原程式轉換之研究",
+      "schoolYear": "84"
+    }
+  ],
+  "tech": [
+    {
+      "論文名稱": "An Efficient Grid-Based Data Gathering Scheme in Wireless Sensor Networks (2007-07)",
+      "書名": "Lecture Notes in Computer Science",
+      "作者群": "S.-F. Hwang, K.-H. Lu, H.-N. Chang, and C.-R. Dow"
+    },
+    {
+      "論文名稱": "A Grid-Based Manycast Scheme for Large Mobile Ad Hoc Networks (2006-11)",
+      "書名": "Lecture Notes in Computer Science",
+      "作者群": "Shiow-Fen Hwang, Kun-Hsien Lu, and Chyi-Ren Dow"
+    },
+    {
+      "論文名稱": "ZERO-Conflict: A grouping-based approach for automatic generation of IPSec/VPN security policies (2006-10)",
+      "書名": "LECTURE NOTES IN COMPUTER SCIENCE 4269 - LARGE SCALE MANAGEMENT OF DISTRIBUTED SYSTEMS",
+      "作者群": "K. H. Chen, Y. S. Liu, T. J. Liu and C. R. Dow"
+    },
+    {
+      "論文名稱": "A Grid-Based Manycast Scheme for Large Mobile Ad Hoc Networks (2006-08)",
+      "書名": "Lecture Notes in Computer Science",
+      "作者群": "S.-F. Hwang, K.-H. Lu, C.-R. Dow"
+    },
+    {
+      "論文名稱": "A Grid-Based Manycast Scheme in Large Mobile Ad Hoc Networks (2006-08)",
+      "書名": "Lecture Notes in Computer Science",
+      "作者群": "S.-F. Hwang, K.-H. Lu, C.-R. Dow"
+    },
+    {
+      "論文名稱": "網路代理人 (2006-01)",
+      "書名": "網路代理人",
+      "作者群": "竇其仁，林志敏，林正敏"
+    },
+    {
+      "論文名稱": "Internet 實務與導論-網路e點通 (2001-10)",
+      "書名": "Internet 實務與導論-網路e點通",
+      "作者群": "楊豐瑞,竇其仁,劉振緒"
+    },
+    {
+      "論文名稱": "Internet 實務與導論-21世紀首部曲 (1999-12)",
+      "書名": "Internet 實務與導論-21世紀首部曲",
+      "作者群": "楊豐瑞,劉振緒,竇其仁"
+    }
+  ],
+  "induAca": [
+    "行政院環境部112-113年開放政府資訊服務發展與系統維運管理計畫 (2024-01 to 2025-12)",
+    "環境數據分析及教材開發 (2020-05 to 2021-04)",
+    "108年度智慧創新跨域人才培育聯盟計畫「開源系統軟體創作聯盟推動計畫(C類)—協作基地分項」 (2019-03 to 2020-01)",
+    "智慧管理諮詢顧問計畫 (2018-12 to 2019-11)",
+    "環境資源資料庫整合專案管理服務 (2018-06 to 2020-04)",
+    "電池管理平台 (2018-04 to 2018-09)",
+    "(補助)智慧機器人與GPU視覺處理之工作坊與專題實作 (2018-03 to 2018-10)",
+    "智慧科技與產業創新跨校教學聯盟 (簡稱：智創聯盟 )—「聯網工藝創新設計」 (2018-02 to 2019-01)",
+    "環控數據結構模型驗證與研究 (2017-11 to 2018-04)",
+    "智慧聯網諮詢顧問計畫 (2017-08 to 2018-07)",
+    "106 年度教育部補助大學社會責任實踐計畫(B類：萌芽型計畫)「中台灣弱勢與偏鄉行動服務支持系統」 (2017-08 to 2018-03)",
+    "智慧水管理產業創新發展計畫管理及產業推動服務(1/4) (2017-06 to 2017-12)",
+    "106年提升校園行動應用服務研發及內容設計人才培育計畫 (2017-01 to 2017-12)",
+    "省道交通資訊蒐集與管理系統進階功能開發與建置 (2016-06 to 2018-12)",
+    "Energybus 通訊協定分析研究 (2016-06 to 2017-02)",
+    "105年度桃園市水情防災資訊系統擴充及維護計畫 (2016-04 to 2016-12)",
+    "105年臺中市地理防災資訊系統擴充維護 (2016-03 to 2016-11)",
+    "可適性多錄像即時雲端儲存與影像串接技術開發與系統整合 (2016-03 to 2018-02)",
+    "道路安全大數據案例分析與應用 (2016-02 to 2016-12)",
+    "104年度臺中市易肇事路口整合平台建置計畫 (2015-10 to 2016-03)",
+    "經濟部科專計畫轉委託_CiA302通訊協定分析研究 (2015-06 to 2015-12)",
+    "車身網路資料收集平台開發 (2015-05 to 2016-02)",
+    "臺中市地理防災資訊系統擴充維護 (2015-04 to 2015-11)",
+    "104年度影像監控整合系統維護及改善計畫 (2015-01 to 2015-12)",
+    "(註銷)泰盛物聯網平台開發專案 (2015-01 to 2015-12)",
+    "OBDII行車監控系統研究 (2014-11 to 2015-10)",
+    "河川監控系統開發整合與展示(2/2) (2014-07 to 2014-12)",
+    "河川監控系統開發整合與展示(1/2) (2013-06 to 2013-12)",
+    "臺中市地理及防災資訊系統擴充計畫 (2013-06 to 2014-01)",
+    "「大學校院校務資料庫」中區填表暨系統操作說明會 (2013-01 to 2013-02)",
+    "100年度整合區域創業及創新服務聯盟機制計畫－中區創業創新服務中心 (2011-01 to 2011-12)",
+    "教育部網路通訊人才培育先導型計畫「99年度課程發展計畫」 (2010-04 to 2011-03)",
+    "資通訊人才培育先導型計畫-98年度課程發展計畫-教材發展:「車載嵌入式系統與周邊介面程式設計 (2009-04 to 2010-03)",
+    "智慧感知使用者端介面技術 (2009-01 to 2009-12)",
+    "97年度「資通訊人才培育先導型計畫-教材發展：智慧型運輸系統通訊協定」 (2008-04 to 2009-03)",
+    "資通訊人才培育先導型計畫_教材發展：「車際通訊網路與協定」 (2007-09 to 2008-03)",
+    "宣導暨監督網路品質人員種子培訓與觀測計畫 (2006-03 to 2006-06)",
+    "通訊科技人才培育先導型計畫-網路應用與服務教學推動中心 (2006-01 to 2006-12)",
+    "工程及科技教育認證先導型計畫 (2005-01 to 2005-12)",
+    "大學科技系所人才培育計畫_A分項計畫_提升相關系所師資質量計畫 (2004-08 to 2005-07)",
+    "基礎科學教育改進計畫─數學A類─計算科學與數學 (2004-02 to 2004-12)",
+    "通訊科技教育改進計畫 - 網路應用與服務組 (課程名稱 : 網路代理人技術) (2004-02 to 2004-12)",
+    "工程及科技教育認證先導型計畫 (2003-09 to 2004-12)",
+    "通訊科技教育改進計畫─網路應用與服務組 (2003-03 to 2003-12)",
+    "通訊科技教育改進計畫─網路應用與服務組─區域共同教學實驗室 (2003-03 to 2003-12)"
+  ],
+  "perform": [],
+  "reward": [
+    "113年度國科會補助大專校院研究獎勵 (113, 2024-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (113, 2024-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (111, 2022-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (111, 2022-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (111, 2022-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (111, 2022-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (110, 2021-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (110, 2021-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (110, 2021-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (110, 2021-11) - 逢甲大學",
+    "110年度科技部補助大專校院研究獎勵 (110, 2021-10) - 產學合作處",
+    "逢甲大學論文著作獎勵優良獎 (109, 2020-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (109, 2020-11) - 逢甲大學",
+    "109年度科技部補助大專校院研究獎勵 (109, 2020-10) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (108, 2019-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (108, 2019-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (108, 2019-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (108, 2019-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (108, 2019-11) - 逢甲大學",
+    "108學年度科技部補助大專校院研究獎勵 (108, 2019-09) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (107, 2018-11) - 逢甲大學",
+    "107年度科技部補助大專校院研究獎勵 (107, 2018-08) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (106, 2017-11) - 逢甲大學",
+    "106年度科技部獎勵特殊優秀人才 (106, 2017-08) - 產學合作處",
+    "逢甲大學論文著作獎勵優良獎 (105, 2016-11) - 逢甲大學",
+    "105年度科技部獎勵特殊優秀人才 (105, 2016-08) - 產學合作處",
+    "逢甲大學論文著作獎勵優良獎 (104, 2015-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (104, 2015-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (104, 2015-11) - 逢甲大學",
+    "104年度科技部獎勵特殊優秀人才 (104, 2015-08) - 產學合作處",
+    "逢甲大學論文著作獎勵傑出獎 (103, 2014-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (103, 2014-11) - 逢甲大學",
+    "103年度科技部獎勵特殊優秀人才 (103, 2014-08) - 研究發展處",
+    "逢甲大學論文著作獎勵傑出獎 (102, 2013-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (102, 2013-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (102, 2013-11) - 逢甲大學",
+    "102年度科技部獎勵特殊優秀人才 (102, 2013-08) - 研究發展處",
+    "逢甲大學論文著作獎勵優良獎 (101, 2012-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (101, 2012-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (101, 2012-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (101, 2012-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (101, 2012-11) - 逢甲大學",
+    "101年度科技部獎勵特殊優秀人才 (101, 2012-08) - 研究發展處",
+    "逢甲大學論文著作獎勵傑出獎 (100, 2011-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (100, 2011-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (100, 2011-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (100, 2011-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (100, 2011-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (100, 2011-11) - 逢甲大學",
+    "100年度科技部獎勵特殊優秀人才 (100, 2011-08) - 研究發展處",
+    "逢甲大學論文著作獎勵優良獎 (99, 2010-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (99, 2010-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (99, 2010-11) - 逢甲大學",
+    "99年度科技部獎勵特殊優秀人才 (99, 2010-10) - 研究發展處",
+    "逢甲大學論文著作獎勵 (98, 2009-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (98, 2009-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (98, 2009-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵 (97, 2008-11) - 逢甲大學",
+    "逢甲大學優良教材獎勵優等獎 (96, 2007-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (96, 2007-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (96, 2007-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵 (96, 2007-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (96, 2007-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (96, 2007-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (95, 2006-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (95, 2006-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (95, 2006-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (94, 2005-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵 (93, 2004-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (93, 2004-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (93, 2004-11) - 逢甲大學",
+    "傑出論文獎 (93, 2004-09) - 第十五屆物件導向技術及應用研討會",
+    "逢甲大學論文著作獎勵 (92, 2003-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (92, 2003-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (92, 2003-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (92, 2003-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (92, 2003-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵 (91, 2002-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (91, 2002-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (91, 2002-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (91, 2002-11) - 逢甲大學",
+    "電腦系統組優等獎 (91, 2002-08) - 91年度全國校園軟體創作競賽",
+    "DMS2001最佳論文獎 (90, 2001-09) - 分散式多媒體系統國際研討會",
+    "路透社獎學金 (88, 1999-08) - "
+  ],
+  "speech": [],
+  "material": [],
+  "tal": []
+}

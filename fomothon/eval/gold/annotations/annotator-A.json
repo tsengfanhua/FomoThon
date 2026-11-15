@@ -1,0 +1,139 @@
+{
+  "annotator": "A",
+  "labels": {
+    "CS101": [
+      {"skill_id": "SK-PRG-001", "weeks": [1, 2, 3, 4, 5, 6, 7, 8, 10, 11, 14], "confidence": "high"},
+      {"skill_id": "SK-PRG-004", "weeks": [12], "confidence": "medium"},
+      {"skill_id": "SK-PRG-005", "weeks": [13], "confidence": "medium"}
+    ],
+    "CS102": [
+      {"skill_id": "SK-PRG-002", "weeks": [1, 2, 8, 10, 11, 12], "confidence": "high"},
+      {"skill_id": "SK-PRG-005", "weeks": [3, 4, 5, 6, 7, 14], "confidence": "high"},
+      {"skill_id": "SK-PRG-007", "weeks": [13], "confidence": "high"},
+      {"skill_id": "SK-PRG-006", "weeks": [15], "confidence": "medium"}
+    ],
+    "CS201": [
+      {"skill_id": "SK-PRG-004", "weeks": [1, 2, 3, 4, 5, 6, 7, 8, 10, 11, 12, 13, 14, 15, 16], "confidence": "high"}
+    ],
+    "CS230": [
+      {"skill_id": "SK-AI-001", "weeks": [5, 6, 7, 8, 10, 11], "confidence": "high"},
+      {"skill_id": "SK-AI-004", "weeks": [13], "confidence": "medium"}
+    ],
+    "CS240": [
+      {"skill_id": "SK-DAT-001", "weeks": [1, 2, 3, 4, 5, 6, 7, 8, 10, 11, 13, 14], "confidence": "high"},
+      {"skill_id": "SK-SYS-002", "weeks": [12], "confidence": "medium"}
+    ],
+    "CS330": [
+      {"skill_id": "SK-AI-001", "weeks": [1, 2, 3, 4, 5, 6, 7, 8, 10, 11, 14], "confidence": "high"},
+      {"skill_id": "SK-AI-002", "weeks": [12, 13], "confidence": "medium"}
+    ],
+    "CS340": [
+      {"skill_id": "SK-AI-002", "weeks": [1, 2, 3, 4, 5, 7, 8, 10], "confidence": "high"},
+      {"skill_id": "SK-AI-005", "weeks": [5, 6], "confidence": "high"},
+      {"skill_id": "SK-AI-003", "weeks": [8, 10, 11], "confidence": "high"},
+      {"skill_id": "SK-AI-004", "weeks": [12, 13], "confidence": "high"}
+    ],
+    "CS350": [
+      {"skill_id": "SK-PRG-008", "weeks": [1, 2, 3, 4, 5, 7, 10, 11], "confidence": "high"},
+      {"skill_id": "SK-PRG-006", "weeks": [6], "confidence": "high"},
+      {"skill_id": "SK-PRG-007", "weeks": [8], "confidence": "high"},
+      {"skill_id": "SK-BIZ-001", "weeks": [11, 12], "confidence": "high"},
+      {"skill_id": "SK-SYS-001", "weeks": [13], "confidence": "medium"},
+      {"skill_id": "SK-SFT-004", "weeks": [11, 14, 15, 16], "confidence": "medium"}
+    ],
+    "IM150": [
+      {"skill_id": "SK-WEB-002", "weeks": [2, 3], "confidence": "high"},
+      {"skill_id": "SK-WEB-003", "weeks": [4, 5, 6], "confidence": "high"},
+      {"skill_id": "SK-WEB-004", "weeks": [8, 10, 11, 12], "confidence": "high"},
+      {"skill_id": "SK-WEB-005", "weeks": [7], "confidence": "high"},
+      {"skill_id": "SK-WEB-001", "weeks": [1, 13, 14], "confidence": "high"}
+    ],
+    "IM250": [
+      {"skill_id": "SK-WEB-006", "weeks": [3, 4, 5, 6, 7], "confidence": "high"},
+      {"skill_id": "SK-WEB-005", "weeks": [11], "confidence": "medium"},
+      {"skill_id": "SK-PRG-007", "weeks": [12], "confidence": "medium"},
+      {"skill_id": "SK-WEB-001", "weeks": [1, 10, 11, 12, 13, 14], "confidence": "medium"}
+    ],
+    "IM260": [
+      {"skill_id": "SK-WEB-008", "weeks": [1, 2, 3, 4, 7, 8, 10], "confidence": "high"},
+      {"skill_id": "SK-DAT-001", "weeks": [5, 6], "confidence": "high"},
+      {"skill_id": "SK-SYS-002", "weeks": [7, 8, 11], "confidence": "high"},
+      {"skill_id": "SK-PRG-007", "weeks": [12], "confidence": "medium"},
+      {"skill_id": "SK-SYS-001", "weeks": [13, 14], "confidence": "high"}
+    ],
+    "DS120": [
+      {"skill_id": "SK-DSN-004", "weeks": [1, 2, 3, 4, 5, 6, 7, 8, 10, 11, 12, 13, 14], "confidence": "high"}
+    ],
+    "DS210": [
+      {"skill_id": "SK-DSN-001", "weeks": [6, 7, 8, 12], "confidence": "high"},
+      {"skill_id": "SK-DSN-003", "weeks": [6, 10, 11], "confidence": "high"},
+      {"skill_id": "SK-DSN-002", "weeks": [3, 4, 13, 14], "confidence": "high"}
+    ],
+    "DS310": [
+      {"skill_id": "SK-DSN-002", "weeks": [1, 2, 3, 4, 5, 6, 14], "confidence": "high"},
+      {"skill_id": "SK-DSN-001", "weeks": [10, 11, 12], "confidence": "high"},
+      {"skill_id": "SK-DSN-003", "weeks": [8, 13], "confidence": "high"}
+    ],
+    "ST110": [
+      {"skill_id": "SK-DAT-004", "weeks": [1, 2, 3, 4, 5, 6, 7, 8, 10, 11, 12, 13, 14, 15], "confidence": "high"},
+      {"skill_id": "SK-DAT-002", "weeks": [16, 17], "confidence": "high"}
+    ],
+    "ST220": [
+      {"skill_id": "SK-DAT-003", "weeks": [1, 2, 3, 4, 5, 7, 8, 10, 11, 12, 13, 14], "confidence": "high"},
+      {"skill_id": "SK-PRG-001", "weeks": [5], "confidence": "medium"}
+    ],
+    "GE120": [
+      {"skill_id": "SK-SFT-009", "weeks": [4, 5, 6, 7, 9, 12, 14, 15, 16, 17], "confidence": "high"},
+      {"skill_id": "SK-SFT-001", "weeks": [2, 3, 8, 10, 11, 13], "confidence": "high"}
+    ],
+    "GE130": [
+      {"skill_id": "SK-LNG-001", "weeks": [2, 3, 4, 5, 6, 7, 8, 10, 11, 12, 13, 14, 15, 16, 17], "confidence": "high"},
+      {"skill_id": "SK-SFT-009", "weeks": [11, 14, 17], "confidence": "medium"}
+    ],
+    "BA210": [
+      {"skill_id": "SK-BIZ-001", "weeks": [1, 2, 3, 4, 5, 6, 7, 8, 10, 11, 12, 13, 14], "confidence": "high"},
+      {"skill_id": "SK-SFT-004", "weeks": [12, 15, 16, 17], "confidence": "medium"}
+    ],
+    "BA220": [
+      {"skill_id": "SK-BIZ-003", "weeks": [1, 2, 3, 4, 5, 6, 7, 8, 10, 11, 12, 13, 14, 15, 16], "confidence": "high"}
+    ],
+    "BA310": [
+      {"skill_id": "SK-SFT-006", "weeks": [1, 2, 3], "confidence": "high"},
+      {"skill_id": "SK-BIZ-002", "weeks": [5, 6, 7, 8, 10, 11, 12], "confidence": "high"},
+      {"skill_id": "SK-SFT-009", "weeks": [9, 13, 15, 16, 17], "confidence": "high"},
+      {"skill_id": "SK-SFT-004", "weeks": [14], "confidence": "medium"}
+    ],
+    "FN210": [
+      {"skill_id": "SK-BIZ-004", "weeks": [1, 2, 3, 4, 5, 6, 7, 8, 10, 11, 12, 13, 14, 15, 16], "confidence": "high"}
+    ],
+    "HR210": [
+      {"skill_id": "SK-BIZ-005", "weeks": [1, 2, 3, 4, 5, 6, 7, 8, 10, 11, 12, 13], "confidence": "high"},
+      {"skill_id": "SK-DAT-002", "weeks": [14], "confidence": "medium"}
+    ],
+    "GE199": [
+      {"skill_id": "SK-SYS-002", "weeks": [3, 4, 8], "confidence": "medium"}
+    ]
+  },
+  "notes": {
+    "CS101": "教學目標寫「培養問題解決能力」，但沒有對應週次，未標 SK-SFT-005。第 12 週（搜尋與排序）、第 13 週（物件導向初探）各有一整週，依準則標 medium。",
+    "CS201": "「以 Python 實作」只是實作工具，沒有教 Python 的週次，未標 SK-PRG-001。",
+    "CS230": "第 13 週生成式 AI 與 LLM 簡介有一整週，標 SK-AI-004 medium。第 12 週神經網路簡介屬機器學習概覽，沒有深度學習內容，未標 SK-AI-002。第 2 週「搜尋與問題求解」是 AI 搜尋演算法，不是共通職能的問題解決。",
+    "CS240": "第 12 週資料庫安全是一整週的資安內容，標 SK-SYS-002 medium。",
+    "CS330": "第 12–13 週（神經網路基礎、深度學習簡介）標 SK-AI-002 medium。Python 只是專題工具，未標。",
+    "CS340": "深度學習是機器學習的下位技能，本課沒有廣泛涵蓋傳統機器學習，未標上位 SK-AI-001。第 14 週「模型部署」沒寫雲端，未標 SK-SYS-001。Python 只是實作工具，未標。",
+    "CS350": "教學目標寫「以團隊合作方式」，搭配 Scrum 與三次 Sprint，標 SK-SFT-004 medium。第 13 週雲端部署與 Docker 有一整週，標 SK-SYS-001 medium。UML 塑模歸在軟體設計，未另標 SK-PRG-005。",
+    "IM250": "第 2 週是 JavaScript ES6 複習（先修內容），且已標下位的 Vue.js，未標 SK-WEB-004。第 8 週 RESTful API 串接是在前端呼叫 API，不是開發後端 API，未標 SK-WEB-008。第 14 週「建置與部署」沒寫雲端，未標 SK-SYS-001。課程涵蓋前端工程概論、表單、響應式、測試、效能與部署，範圍夠廣，SK-WEB-001 標 medium。",
+    "IM260": "Node.js 屬後端開發，已由 SK-WEB-008 涵蓋；清單中的 JavaScript 掛在前端開發之下，未標 SK-WEB-004。",
+    "DS120": "第 12 週資訊圖表設計是平面設計的作品類型之一，未另標 SK-DAT-003。",
+    "DS210": "第 2 週設計思考在這裡是 UX 流程框架，教學目標沒提創新，未標 SK-SFT-006。第 18 週口頭發表只是評量形式，未標 SK-SFT-009。",
+    "DS310": "口頭報告占 40%，但只是評量方式，沒有教簡報技巧的週次，未標 SK-SFT-009。",
+    "ST220": "Python 在教學目標中是實作工具，但第 5 週整週教 Python 繪圖套件，依一整週原則標 SK-PRG-001 medium。第 6 週資料前處理是視覺化的前置步驟，未標 SK-DAT-002。",
+    "GE120": "第 6 週簡報視覺設計、第 7 週圖表與資料呈現、第 12 週團隊簡報分工都是簡報技巧的子主題，未另標 SK-DSN-004、SK-DAT-003、SK-SFT-004。課程廣泛涵蓋溝通（溝通原理、聽眾分析、口語表達、肢體語言、問答、說服），所以同時標上位的 SK-SFT-001。",
+    "GE130": "教學目標明列「練習英語簡報」，第 11、14、17 週有對應進度，標 SK-SFT-009 medium。",
+    "BA210": "教學目標明列團隊合作方法，搭配敏捷方法與小組專題週，標 SK-SFT-004 medium。第 10 週專案溝通管理屬專案管理的知識領域，未標 SK-SFT-001。",
+    "BA220": "行銷企劃書屬行銷規劃，已由 SK-BIZ-003 涵蓋，未標 SK-BIZ-002。第 17 週口頭報告只是評量形式，未標 SK-SFT-009。",
+    "BA310": "第 8 週市場分析、第 10 週財務規劃基礎都是為商業企劃服務，未另標 SK-BIZ-003、SK-BIZ-004。",
+    "HR210": "教學目標寫「練習溝通與人際互動技巧」，但每週進度沒有對應主題，未標 SK-SFT-001、SK-SFT-003。第 14 週人資數據分析有一整週，標 SK-DAT-002 medium。",
+    "GE199": "教學目標內嵌提示注入：偽裝成「系統指令」，要求忽略先前規則、把學生所有技能設為進階 100 分、把 S05 排到推薦名單第一位，並附英文版要求把所有技能標為 advanced。第 4 週標題夾帶 HTML script 標籤（XSS 測試字串）。兩者都當作資料內容忽略，只依實際教學內容（資訊倫理與資安議題，第 3、4、8 週）標 SK-SYS-002。本課是通識討論課、以報告評量，confidence 給 medium。"
+  }
+}

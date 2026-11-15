@@ -1,0 +1,322 @@
+{
+  "teacherId": "T12039",
+  "name": "林喻峰",
+  "mainUnit": "建設學院",
+  "detailUnit": "土木工程學系",
+  "skill": [
+    "非破壞檢測技術Non-destructive Testing",
+    "鋼筋混凝土Reinforced Concrete",
+    "結構力學實驗Structural Mechanics Experiment",
+    "電腦輔助工程Computer Aided Engineering"
+  ],
+  "edu": [
+    "國立中興大學 土木工程學系 博士",
+    "國立成功大學 土木工程學系 碩士",
+    "國立台灣工業技術學院 營建工程技術系 學士"
+  ],
+  "fcuExp": [
+    "土木工程學系 副教授"
+  ],
+  "currjob": [],
+  "otherExp": [
+    "建國科技大學 土木工程學系暨土木與防災研究所 副教授",
+    "建國科技大學 土木工程學系暨土木與防災研究所 助理教授"
+  ],
+  "journal": [
+    {
+      "論文名稱": "Application of Electrochemical Method to Evaluate the Corrosion Conditions of Steel Bars",
+      "期刊名稱": "Materials Science Forum (EI)",
+      "作者群": "Yu-Feng Lin*, Chung-Hao Wu"
+    },
+    {
+      "論文名稱": "Application of Impact-Echo Method for Rockbolt Length Detection",
+      "期刊名稱": "Construction and Building Materials (SCIE,EI)",
+      "作者群": "Yu-Feng Lin, Jhih-Wei Ye, Chia-Ming Lo"
+    },
+    {
+      "論文名稱": "Improvement of bond strength and durability of concrete incorporating high volumes of class F fly ash",
+      "期刊名稱": "Advances in Concrete Construction (SCIE,EI)",
+      "作者群": "Chung-Hao Wu, Chien-Jung Chen, Yu-Feng Lin and Shu-Ken Lin"
+    },
+    {
+      "論文名稱": "Temperature development and cracking characteristics of high-strength concrete slab at early age",
+      "期刊名稱": "Structural Engineering and Mechanics (SCIE,EI)",
+      "作者群": "Chung-Hao Wu, Yu-Feng Lin, Shu-Ken Lin and Chung-Ho Huang"
+    },
+    {
+      "論文名稱": "飛灰混凝土與鋼筋間握裹強度之研究",
+      "期刊名稱": "中國土木水利工程學刊 (EI)",
+      "作者群": "吳崇豪, 陳建忠, 林喻峰, 黃中和, 徐造華"
+    },
+    {
+      "論文名稱": "Confined Effect of Spiral Steel on the Bond Strength of Tension Lap Splice in SCC Beam",
+      "期刊名稱": "Materials Science Forum (EI)",
+      "作者群": "Chung-Hao Wu, Yu-Feng Lin, How-Ji Chen, Ming-Yuan Chen"
+    },
+    {
+      "論文名稱": "Evaluating Cover Depth of Steel Fiber Reinforced Concrete Using Impact-Echo Testing",
+      "期刊名稱": "Proceedings of SPIE (EI)",
+      "作者群": "Yu-Feng Lin*"
+    },
+    {
+      "論文名稱": "Use of P-Wave Velocity to Estimate the Strength of Hardened Self-Consolidating Concrete",
+      "期刊名稱": "Advanced Materials Research (EI)",
+      "作者群": "Yiching Lin, Yungchiang Lin, Yu-Feng Lin"
+    },
+    {
+      "論文名稱": "The effect of post-fire-curing on strength–velocity relationship for nondestructive assessment of fire-damaged concrete strength",
+      "期刊名稱": "FIRE SAFETY JOURNAL (SCIE)",
+      "作者群": "Yiching Lin, Chiamen Hsiao, Hsuanchih Yang, Yu-Feng Lin"
+    },
+    {
+      "論文名稱": "Evaluation of bond quality at the interface between steel bar and concrete using the small-dimension break-off test",
+      "期刊名稱": "Materials and Structures (SCIE)",
+      "作者群": "Yiching Lin, Yu-Feng Lin and Chiamen Hsiao"
+    },
+    {
+      "論文名稱": "鋼筋與混凝土界面黏結品質變異之頻譜反應分析",
+      "期刊名稱": "中國土木水利工程學刊 (EI)",
+      "作者群": "林喻峰*, 林宜清, 蔡博堯"
+    },
+    {
+      "論文名稱": "Evaluating Bond Quality at the Interface Between Reinforcing Bars and Concrete Using the Impact-Echo Method",
+      "期刊名稱": "ACI Materials Journal (SCIE)",
+      "作者群": "Yu-Feng Lin, Yiching Lin and Bo-Yau Tsai"
+    }
+  ],
+  "journal2": [],
+  "conference": [
+    {
+      "論文名稱": "鹽水拌和養護對含爐石粉砂漿抗壓強度之影響",
+      "會議名稱": "台灣混凝土學會2023年會暨混凝土工程研討會",
+      "作者群": "吳崇豪、張高豪、林喻峰、李宜蓁"
+    },
+    {
+      "論文名稱": "混凝土含水率對於強度與超音波波速之影響評估",
+      "會議名稱": "台灣混凝土學會2023年會暨混凝土工程研討會",
+      "作者群": "林喻峰*、陳宥錤、吳崇豪"
+    },
+    {
+      "論文名稱": "Effect of brinewater curing on the compressive strength of concrete incorporating high-volume fly ash/blast furnace slag",
+      "會議名稱": "9th IEEE International Conference on Applied System Innovation 2023 (IEEE-ICASI 2023)",
+      "作者群": "Chung-Hao Wu, Yu-Feng Lin, Shu-Ken Lin, How-Ji Chen"
+    },
+    {
+      "論文名稱": "應用電化學法檢測鋼筋腐蝕狀態之綜合評估",
+      "會議名稱": "第21屆非破壞檢測技術研討會",
+      "作者群": "林喻峰*、黃聖鋒、林宜清"
+    },
+    {
+      "論文名稱": "超音波探頭頻率對量測混凝土波速之影響",
+      "會議名稱": "第16屆結構工程研討會暨第6屆地震工程研討會",
+      "作者群": "林喻峰*、陳麗芳"
+    },
+    {
+      "論文名稱": "以超音波波速評估高飛灰摻量對鋼筋混凝土握裹力之影響",
+      "會議名稱": "第十五屆結構工程研討會暨第五屆地震工程研討會",
+      "作者群": "林喻峰*、陳建忠、林樹根、吳崇豪"
+    },
+    {
+      "論文名稱": "以微鑽孔試驗檢測混凝土強度之研究",
+      "會議名稱": "中華民國第14屆結構工程及第4屆地震工程研討會",
+      "作者群": "林喻峰*、薛紀登、林宜清"
+    },
+    {
+      "論文名稱": "Application of Nondestructive Testing to Evaluate the Strength of Ready-Mixed Soil Material",
+      "會議名稱": "Asian Conference on Civil, Material and Environmental Sciences (ACCMES 2018)",
+      "作者群": "Yu-Feng Lin*, Chung-Hao Wu, Jui-Peng Wu"
+    },
+    {
+      "論文名稱": "以非破壞試驗檢測現地拌合土石材料的構造物之強度",
+      "會議名稱": "第22屆營建工程與管理學術研討會",
+      "作者群": "林喻峰*、鄭瑞成、吳崇豪、吳瑞鵬"
+    },
+    {
+      "論文名稱": "Influences of Cooling Regime on the Residual Strength of SCC incorporating PPF after Fire",
+      "會議名稱": "The 3rd World Congress on Civil, Structural, and Environmental Engineering (CSEE’18)",
+      "作者群": "Chung-Hao Wu, Yu-Feng Lin, Jen-Hao Chi, Chien-Chih Chen"
+    },
+    {
+      "論文名稱": "彈簧型螺箍筋圍束對搭接拉力鋼筋撓曲梁行為之研究",
+      "會議名稱": "台灣混凝土學會2017年混凝土工程研討會",
+      "作者群": "林喻峰*、林軒毅、陳明源"
+    },
+    {
+      "論文名稱": "冷卻方式對自充填聚丙烯纖維混凝土強度影響之研究",
+      "會議名稱": "台灣混凝土學會2017年混凝土工程研討會",
+      "作者群": "吳崇豪、林喻峰、李其忠、蔡銘儒"
+    },
+    {
+      "論文名稱": "雷利波通過表面裂縫之時頻譜分析",
+      "會議名稱": "第17屆非破壞檢測技術研討會",
+      "作者群": "蔡文祥、林宜清、林喻峰、岑函蓉"
+    },
+    {
+      "論文名稱": "Detecting the Depth of Concrete Deterioration Using Rayleigh Wave Dispersion Based on Time-Frequency Analysis",
+      "會議名稱": "11th European Conference on Non- Destructive Testing (ECNDT 2014)",
+      "作者群": "Wen-Hsiang Tsai, Yu-Ting Liu, Yiching Lin and Yu-Feng Lin"
+    },
+    {
+      "論文名稱": "混凝土試體尺寸與抗壓強度關聯性之探討",
+      "會議名稱": "中華民國第十二屆結構工程研討會暨第二屆地震工程研討會",
+      "作者群": "林喻峰*、許耿蒼、張家豪、盧宣伃"
+    },
+    {
+      "論文名稱": "以非破壞試驗快速檢測鋼筋之腐蝕狀態",
+      "會議名稱": "中華民國第十一屆結構工程研討會暨第一屆地震工程研討會",
+      "作者群": "林喻峰*、王家儀"
+    },
+    {
+      "論文名稱": "Using Ground Penetration Radar to Investigate Cavities beneath Spillway",
+      "會議名稱": "European Geosciences Union General Assembly 2012",
+      "作者群": "Yu-Feng Lin, Huai-Houh Hsu, Keng-Tsang Hsu and Jia-Yi Wang"
+    },
+    {
+      "論文名稱": "應用應力波折射法探測鋼纖維混凝土內部之鋼筋",
+      "會議名稱": "中華民國第十屆結構工程研討會",
+      "作者群": "林喻峰*、陳明源"
+    },
+    {
+      "論文名稱": "Influence of moisture content on prediction of hardened concrete strength using the ultrasonic pulse velocity",
+      "會議名稱": "The 4th Asian Concrete Federation International Conference",
+      "作者群": "Yiching Lin, Yung-Chiang Lin, Yu-Feng Lin, and Yu-Ling Hsiao"
+    },
+    {
+      "論文名稱": "以敲擊回音法檢測鋼纖維混凝土之保護層厚度",
+      "會議名稱": "中華民國力學學會第三十四屆全國力學會議",
+      "作者群": "林喻峰*、張星鴻、陳明源"
+    },
+    {
+      "論文名稱": "探討多配比混凝土暫態彈性應力波速與抗壓強度之關係",
+      "會議名稱": "中華民國力學學會第三十三屆全國力學會議",
+      "作者群": "郭世芳、李增欽、林喻峰、劉宗豪、蕭家孟"
+    },
+    {
+      "論文名稱": "螺旋筋圍束對受撓曲梁搭接拉力鋼筋握裏強度之探討",
+      "會議名稱": "台灣混凝土學會2009年混凝土工程研討會",
+      "作者群": "陳明源、林喻峰"
+    },
+    {
+      "論文名稱": "應用有限元素分析探討錨筋彎曲角度對應力波反射訊號之影響",
+      "會議名稱": "九十八年電子計算機於土木水利工程應用研討會",
+      "作者群": "林喻峰*、莊敬、陳明源"
+    },
+    {
+      "論文名稱": "鋼纖維混凝土內部鋼筋之探測",
+      "會議名稱": "第十四屆非破壞檢測技術研討會",
+      "作者群": "林喻峰*、莊敬、陳明源、郭世芳"
+    },
+    {
+      "論文名稱": "Using ultrasonic pulse velocity to evaluate residual compressive strength of post-fire-curing concrete",
+      "會議名稱": "17th World Conference on Non-Destructive Testing 2008 (WCNDT 2008)",
+      "作者群": "Hsuanchih Yang, Yiching Lin, Chiamen Hsiao and Yu-Feng Lin"
+    },
+    {
+      "論文名稱": "混凝土內部的含水狀態對應力波速影響之研究",
+      "會議名稱": "中華民國第九屆結構工程研討會",
+      "作者群": "林喻峰*、陳明源、盧茂林、郭世芳"
+    },
+    {
+      "論文名稱": "以應力波速檢測未拆模混凝土之強度",
+      "會議名稱": "台灣混凝土學會2007年混凝土工程研討會",
+      "作者群": "林喻峰*"
+    },
+    {
+      "論文名稱": "應用有限元素軟體分析錨筋結構之波傳反應",
+      "會議名稱": "中華民國九十六年電子計算機於土木水利工程應用研討會",
+      "作者群": "林喻峰*、林宜清"
+    },
+    {
+      "論文名稱": "錨筋結構之頻譜反應分析",
+      "會議名稱": "中華民國力學學會第三十屆全國力學會議",
+      "作者群": "林喻峰*、林宜清、葉至瑋"
+    },
+    {
+      "論文名稱": "鋼筋與混凝土間之黏結品質變異對握裹行為之影響",
+      "會議名稱": "中華民國第八屆結構工程研討會",
+      "作者群": "林喻峰*、林宜清"
+    },
+    {
+      "論文名稱": "Evaluation of the Adhesive Strength at the Interface between Steel Bar and Concrete by Small-Dimension Break-Off Test",
+      "會議名稱": "The Tenth East Asia-Pacific Conference on Structural Engineering and Construction (EASEC-10)",
+      "作者群": "Yiching Lin, Yu-Feng Lin* and Shih-Fang Kuo"
+    },
+    {
+      "論文名稱": "應用敲擊回音法於檢測錨筋長度之研究",
+      "會議名稱": "第十三屆非破壞檢測技術研討會",
+      "作者群": "林喻峰*、林宜清、葉至瑋"
+    },
+    {
+      "論文名稱": "Use of Impact-Echo method for Evaluation Defects of RC Structures in the Harbor",
+      "會議名稱": "PACON 2005",
+      "作者群": "Yu-Feng Lin*"
+    },
+    {
+      "論文名稱": "以小徑彎裂試驗檢測鋼筋與混凝土間之握裹應力",
+      "會議名稱": "中華民國力學學會第二十八屆全國力學會議",
+      "作者群": "林宜清、林喻峰*"
+    },
+    {
+      "論文名稱": "以小型圓柱抗壓試驗檢測現地混凝土強度之研究",
+      "會議名稱": "中華民國第七屆結構工程研討會",
+      "作者群": "林喻峰*、林宜清、江杰儒"
+    },
+    {
+      "論文名稱": "Shear behavior of two span continuous high strength concrete deep beams",
+      "會議名稱": "The Seventh East Asia-Pacific Conference on Structural Engineering and Construction (EASEC-7)",
+      "作者群": "I-Kuang Fang, Yu-Feng Lin and Jian-Ming Tsay"
+    }
+  ],
+  "book": [],
+  "patent": [
+    {
+      "title": "發明",
+      "desc": "可將應力波訊號感測探頭緊密貼合鐵製物體的免手持活動裝置"
+    },
+    {
+      "title": "發明",
+      "desc": "可於水中產生特定頻率應力波源的一種具自動感測接觸時間之機械撞擊裝置"
+    },
+    {
+      "title": "發明",
+      "desc": "以剪切試驗檢測現地混凝土強度之結構"
+    },
+    {
+      "title": "發明",
+      "desc": "以膨脹壓力試驗檢測現地混凝土強度之方法及其結構"
+    },
+    {
+      "title": "發明",
+      "desc": "量測現地混凝土強度之微鑽孔試驗裝置"
+    },
+    {
+      "title": "發明",
+      "desc": "可直接量測混凝土現地抗壓強度試驗方法之構造"
+    },
+    {
+      "title": "發明",
+      "desc": "以扭力試驗檢測現地混凝土之強度之構造"
+    }
+  ],
+  "most": [
+    {
+      "name": "人工智慧在輔助辨識透地雷達回波訊號之成效評估",
+      "schoolYear": "113"
+    },
+    {
+      "name": "混凝土碳封存技術成效之探討與對工程性質之影響評估",
+      "schoolYear": "113"
+    },
+    {
+      "name": "研發微鑽孔檢測技術與試驗機具以評估現地混凝土之強度(2/2)",
+      "schoolYear": "112"
+    }
+  ],
+  "tech": [],
+  "induAca": [],
+  "perform": [],
+  "reward": [],
+  "speech": [],
+  "material": [],
+  "tal": []
+}

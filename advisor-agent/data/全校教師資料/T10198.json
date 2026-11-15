@@ -1,0 +1,167 @@
+{
+  "teacherId": "T10198",
+  "name": "林哲維",
+  "mainUnit": "資訊電機學院",
+  "detailUnit": "資訊工程學系",
+  "skill": [
+    "人工智慧Artificial Intelligence",
+    "自然語言處理Nature Language Processing",
+    "中文故事分析與生成Chinese Story Analysis and Generation",
+    "電腦視覺與人臉識別Computer Vision and Face Recognition"
+  ],
+  "edu": [
+    "國立中正大學 資訊工程研究所 博士",
+    "國立中正大學 資訊工程研究所 碩士",
+    "東海大學 資訊工程學系 學士"
+  ],
+  "fcuExp": [
+    "逢甲大學帆宣智慧城市5G實驗室 研究員",
+    "資訊工程學系 助理教授"
+  ],
+  "currjob": [],
+  "otherExp": [
+    "中國唐山達創科技有限公司 技術部 技術顧問"
+  ],
+  "journal": [
+    {
+      "論文名稱": "Chinese Story Generation Based on Style Control of Transformer Model and Content Evaluation Method",
+      "期刊名稱": "Algorithms (SCIE)",
+      "作者群": "Jhe-Wei Lin, Tang-Wei Su and Che-Cheng Chang*"
+    },
+    {
+      "論文名稱": "Importing Diffusion and Re-Designed Backward Process for Image De-Raining",
+      "期刊名稱": "Sensors (SCIE)",
+      "作者群": "Jhe-Wei Lin*, Cheng-Hsuan Lee, Tang-Wei Su and Che-Cheng Chang"
+    },
+    {
+      "論文名稱": "Positioning Improvement with Multiple GPS Receivers Based on Shallow Asymmetric Neural Network",
+      "期刊名稱": "Electronics (SCIE)",
+      "作者群": "Che-Cheng Chang*, Yee-Ming Ooi, Yu-Chun Chen and Jhe-Wei Lin"
+    },
+    {
+      "論文名稱": "Multi-Channel of Word Embeddings for Sentiment Analysis",
+      "期刊名稱": "Soft Computing (SCIE)",
+      "作者群": "Jhe-Wei Lin, Tran Duy Thanh, Rong-Guey Chang"
+    },
+    {
+      "論文名稱": "Chinese story generation of sentence format control based on multichannel word embedding and novel data format",
+      "期刊名稱": "Soft Computing (SCIE)",
+      "作者群": "Jhe-Wei Lin, Rong-Guey Chang."
+    },
+    {
+      "論文名稱": "Telemedicine System Based on Medical Consultation Assistance Integration",
+      "期刊名稱": "Journal of Software Engineering and Applications (scientific research an academic publisher)",
+      "作者群": "Jhe-Wei Lin, Cheng-Yan Siao, Rong-Guey Chang, Mei-Ling Hsu."
+    },
+    {
+      "論文名稱": "A Novel Automatic Meal Delivery System",
+      "期刊名稱": "Intelligent Automation & Soft Computing (SCIE)",
+      "作者群": "Jhe-Wei Lin, Cheng-Yan Siao, Ting-Hsuan Chien, Rong-Guey Chang."
+    },
+    {
+      "論文名稱": "Paralleling Collision Detection on Five-axis Machining.",
+      "期刊名稱": "Intelligent Automation & Soft Computing (SCIE)",
+      "作者群": "Cheng-Yan Siao, Jhe-Wei Lin, Ting-Hsuan Chien, Rong-Guey Chang."
+    }
+  ],
+  "journal2": [],
+  "conference": [
+    {
+      "論文名稱": "Importing Diffusion and Neural Styles for Realistic Face Generation",
+      "會議名稱": "IEEE Eurasia Conference on IoT, Communication and Engineering",
+      "作者群": "Tang-Wei Su, Jhe-Wei  Lin*, Cheng-Hsuan Lee, Wei-Ming Tseng"
+    },
+    {
+      "論文名稱": "Evaluate the Chinese Story Cycle Generation Based on part-of-speech Matching and Contextual Coherence",
+      "會議名稱": "International Conferenece on Applied System Innovation",
+      "作者群": "Jhe-Wei Lin, Tun-Yen Nien"
+    },
+    {
+      "論文名稱": "Nutritionist based on Deep Learning.",
+      "會議名稱": "2021 IEEE International Conference on Applied System Innovation (ICASI).",
+      "作者群": "Jhe-Wei Lin, Van-Tam Hoang, Ting-Hsuan Chien, Rong-Guey Chang, I-Ling Kuo."
+    },
+    {
+      "論文名稱": "A Fast Method to Detect Collision for Five-axis Machining with GPU.",
+      "會議名稱": "2020 IEEE Eurasia Conference on IOT, Communication and Engineering (ECICE)",
+      "作者群": "Cheng-Yan Siao, Jhe-Wei Lin and Rong-Guey Chang."
+    },
+    {
+      "論文名稱": "Robot Language Compiler.",
+      "會議名稱": "2020 IEEE Eurasia Conference on IOT, Communication and Engineering (ECICE)",
+      "作者群": "Cheng-Yan Siao, Jhe-Wei Lin, Rong-Guey Chang."
+    },
+    {
+      "論文名稱": "The Design and Implementation of A Delivery System.",
+      "會議名稱": "2020 IEEE Eurasia Conference on IOT, Communication and Engineering (ECICE)",
+      "作者群": "Cheng-Yan Siao* , Jhe-Wei Lin and Rong-Guey Chang."
+    },
+    {
+      "論文名稱": "Collision Detection of Industrial Automation",
+      "會議名稱": "2020 IEEE International Conference on Mechatronics, Robotics and Automation (ICMRA)",
+      "作者群": "Jhe-Wei Lin, Cheng-Yan Siao, Chia-Hsuan Lin and Rong-Guey Chang."
+    },
+    {
+      "論文名稱": "Chinese Story Generation Using Conditional Generative Adversarial Network.",
+      "會議名稱": "2020 IEEE International Conference on Artificial Intelligence in Information and Communication (ICAIIC)",
+      "作者群": "Jhe-Wei Lin, Jo-Han Tseng and Rong-Guey Chang."
+    },
+    {
+      "論文名稱": "Chinese Story Generation with FastText Transformer Network.",
+      "會議名稱": "2019 IEEE International Conference on Artificial Intelligence in Information and Communication (ICAIIC)",
+      "作者群": "Jhe-Wei Lin, Yu-Che Gao and Rong-Guey Chang."
+    },
+    {
+      "論文名稱": "Parallel Collision Detection with OpenMP.",
+      "會議名稱": "2018 International Conference on Information System and Artificial Intelligence (ISAI)",
+      "作者群": "Ting-Hsuan Chien, Jhe-Wei Lin and Rong-Guey Chang."
+    },
+    {
+      "論文名稱": "An Enhanced Depth Estimation System Using RGB-D Cameras and Gyroscopes.",
+      "會議名稱": "2017 IEEE International Conference on Applied System Innovation (ICASI)",
+      "作者群": "Ting-Hsuan Chien, Yu-Hsin Lu, Jhe-Wei Lin and Rong-Guey Chang."
+    }
+  ],
+  "book": [],
+  "patent": [],
+  "most": [
+    {
+      "name": "遷入式設備之輕量化技術AOI檢測模型優化及自動適配鏡頭系統研究與開發",
+      "schoolYear": "113"
+    },
+    {
+      "name": "車流辨識與智能交通系統優化",
+      "schoolYear": "113"
+    },
+    {
+      "name": "創新學習之生成式人工智慧在智慧教育的應用",
+      "schoolYear": "113"
+    },
+    {
+      "name": "基於人臉超解析度還原結合人臉識別之整合系統",
+      "schoolYear": "111"
+    }
+  ],
+  "tech": [],
+  "induAca": [
+    "超解析度之技術應用於製鞋影像 (2024-08 to 2025-07)",
+    "瑕疵檢測平臺開發 (2024-03 to 2025-03)",
+    "(國合)Design and Development of NX SAAS Application Cloud Services NX SAAS應用雲服務的設計與開發 Ⅴ (2022-04 to 2023-03)"
+  ],
+  "perform": [],
+  "reward": [
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "Best Paper Award (112, 2023-11) - IEEE ECICE 2023",
+    "2023 全國私立大專校院誠是競賽 (111, 2023-06) - 銘傳大學",
+    "2022 永續智慧創新黑客松競賽 (111, 2022-12) - 靜宜大學"
+  ],
+  "speech": [
+    {
+      "演講題目": "我的自然語言之路，AI時代來臨:淺談CHATGPT的應用與影響",
+      "邀請單位": "國立北門高級中學",
+      "演講日期": "2023-04"
+    }
+  ],
+  "material": [],
+  "tal": []
+}

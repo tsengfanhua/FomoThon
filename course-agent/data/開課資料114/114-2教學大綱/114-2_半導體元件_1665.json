@@ -1,0 +1,789 @@
+{
+  "success": true,
+  "info": {
+    "yms_year": 114.0,
+    "yms_smester": 2.0,
+    "sub_id": "11430",
+    "cls_id": "CE12129",
+    "scr_dup": "001",
+    "sub_id3": "AUTO2023",
+    "cls_name": "自控二合",
+    "cls_ename": "Department of Automatic Control Engineering",
+    "sub_name": "半導體元件",
+    "sub_ename": "SEMICONDUCTOR DEVICES",
+    "scr_mso": "選修",
+    "scr_mso_en": "Elective",
+    "scr_credit": 3.0,
+    "scr_periodly": "(三)06-08",
+    "scr_periodly_eng": "(Wed)06-08",
+    "lang_name": "中文                                                      ",
+    "lang_ename": "Chinese",
+    "scr_room": "資電402",
+    "scr_room_eng": "IEB402",
+    "scr_teacher": "張興政",
+    "scr_teacher_eng": "Hsing-Cheng Chang",
+    "scr_selcode": "1665",
+    "scr_elearning": "全學期",
+    "scr_elearning_en": "Full semester",
+    "scr_hours": "3",
+    "scr_english": "N",
+    "unt_name": null,
+    "unt_ename": null,
+    "link_traminal": null,
+    "link_traminal_en": null,
+    "scr_ldl": "D",
+    "course_mk": "N",
+    "teams_mk": "N",
+    "sub_title": null,
+    "sub_title_en": null,
+    "sub_describe": null,
+    "sub_describe_en": null,
+    "hasDescription": null,
+    "hasInstructor": null,
+    "hasTA": null,
+    "hasTextBooks": null,
+    "hasReadings": null,
+    "hasiSoftwares": null,
+    "hasAssistSoftwares": null,
+    "hasObjective": null,
+    "hasWeeklyScds": null,
+    "hasGradeRules": null,
+    "hasGradeRuleDescribe": null,
+    "hasIntegrity": null,
+    "hasCoursePol": null,
+    "hasCourseRem": null,
+    "hasObjectiveReleation": null,
+    "hasTopicSdgs": null,
+    "hasTopicAiIndicators": null,
+    "hasSubTitleDesc": null
+  },
+  "subTitleDesc": null,
+  "description": {
+    "sub_id3": null,
+    "sub_name": "半導體元件",
+    "sub_ename": "SEMICONDUCTOR DEVICES",
+    "describe_ch": "半導體元件介紹半導體相關元件特性與原理，含PN接面二極體、雙極性和場效電晶體、光電元件和功率元件。本課程促進學生應用半導體元件能力，提高對於半導體相關產業的學習動機與興趣。學生將由理論與模型基礎，發展到各類半導體元件的應用分析。",
+    "describe_eh": "Semiconductor components introduces the characteristics and principles of semiconductor-related components, including PN junction diodes, bipolar and field-effect transistors, optoelectronic components and power components. This course promotes students' ability to apply semiconductor components and enhances their learning motivation and interest in semiconductor-related industries. Students will develop from theoretical and model foundations to application analysis of various types of semiconductor components.",
+    "pre_subname": "PHYS1003普通物理(一)、PHYS1004普通物理(二)、AUTO2022半導體原理",
+    "pre_sub_id3": "PHYS1003",
+    "pre_sub_ename": "PHYS1003 GENERAL PHYSICS(1)、PHYS1004 GENERAL PHYSICS(2)、AUTO2022 SEMICONDUCTOR PRINCIPLES",
+    "pre_describe": null,
+    "pre_describe_en": null,
+    "scr_credit": 3.0
+  },
+  "targets": [
+    {
+      "seq": 1,
+      "describe_ch": " 整合量子力學、固體量子理論、半導體材料物理、及半導體元件物理原理，理解半導體元件特性、操作、及限制的基礎。",
+      "describe_en": " To supply knowledge about fundamental quantum mechanics, solid-state quantum theory, semiconductor physics, and related materials and devices understanding the semiconductor device characteristic, operation modes, design rule and applications　introduc"
+    },
+    {
+      "seq": 2,
+      "describe_ch": " 理解pn接面的物理特性，並決定pn接面的電流-電壓特性。",
+      "describe_en": " Comprehension for the physical background of pn junction and I-V characteristics of pn junction."
+    },
+    {
+      "seq": 3,
+      "describe_ch": " 以半導體pn接面理論，討論分析三種基本電晶體：雙極性電晶體、金屬-氧化物-半導體場效電晶體、及接面場效應電晶體的基本幾何結構及操作特性與應用。",
+      "describe_en": " Based on pn junction theory to discussion and analysis about the semiconductor characteristic and their behaviors of operational modes of BJTs, MOSFETs, and JFETS."
+    },
+    {
+      "seq": 4,
+      "describe_ch": " 利用半導體材料特性的原理，應用於光電元件上，並提出元件操作原理、設計合理的計算程序，並適切歸納出結論；以書面或口頭方式將所獲結果與同儕、助教及教師溝通。",
+      "describe_en": " Application for optoelectronic devices with bias condition and operation modes can be discussed and right conclusions are provided through design of calculation procedures. To communicate results in written or oral form to classmates, teaching assistan"
+    }
+  ],
+  "teachersInfo": [
+    {
+      "cname": "張興政",
+      "ename": "Hsing-Cheng Chang",
+      "period": " ",
+      "roletype": 0,
+      "email": "hcchang@o365.fcu.edu.tw",
+      "ext": null
+    }
+  ],
+  "textBooks": {
+    "yms_year": 114.0,
+    "yms_smester": 2.0,
+    "cls_id": "CE12129",
+    "sub_id": "11430",
+    "scr_dup": "001",
+    "tpb_seq": 1,
+    "tpb_book": "半導體元件/Solid state electric devices, 2016, ISBN 978-986-280-364-6",
+    "tpb_book_en": " "
+  },
+  "readings": {
+    "yms_year": 114.0,
+    "yms_smester": 2.0,
+    "cls_id": "CE12129",
+    "sub_id": "11430",
+    "scr_dup": "001",
+    "tpc_seq": 2,
+    "tpc_book": "Semiconductor Physics and Devices-Basic Principles，4th Edition, 2012, ISBN 978-007-108902-9",
+    "tpc_book_en": " "
+  },
+  "iSoftwares": [],
+  "assistSoftwares": [],
+  "weeklyScds": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CE12129",
+      "sub_id": "11430",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "1-3",
+      "tpd_reading": "<div>1. Concept Review. 2.CarrierTransport Phenomena.</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": null,
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": 7.0,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CE12129",
+      "sub_id": "11430",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "4-6",
+      "tpd_reading": "<div>1.The PN Junction. 2.The Diode.</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": null,
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": 9.0,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CE12129",
+      "sub_id": "11430",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "5-7",
+      "tpd_reading": "<div>1.Heterojunctions.</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": null,
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": 4.0,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CE12129",
+      "sub_id": "11430",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "8-10",
+      "tpd_reading": "<div>1. BJTs.</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": null,
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": 6.0,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CE12129",
+      "sub_id": "11430",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "11-12",
+      "tpd_reading": "<div>1. MOSFETs. 2. JFETs.</div>\n",
+      "tpd_reading_en": " ",
+      "tpd_learn": null,
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": 8.0,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CE12129",
+      "sub_id": "11430",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "13-15",
+      "tpd_reading": "<div>Optical Devices.</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": null,
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": 6.0,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CE12129",
+      "sub_id": "11430",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "16",
+      "tpd_reading": "<div>Power Devices.</div>\n",
+      "tpd_reading_en": " ",
+      "tpd_learn": null,
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": 6.0,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CE12129",
+      "sub_id": "11430",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "17-18",
+      "tpd_reading": "<div>Final reports</div>\n",
+      "tpd_reading_en": " ",
+      "tpd_learn": null,
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": 8.0,
+      "tpd_week_en": null,
+      "mode": 0
+    }
+  ],
+  "gradeRules": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CE12129",
+      "sub_id": "11430",
+      "scr_dup": "001",
+      "evalb_id": "L2",
+      "score_rate": 10,
+      "evalb_memo": "上課簽到",
+      "evalb_memo_en": null,
+      "evalb_name": "點名",
+      "evalb_name_en": "Roll call",
+      "seq": 1
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CE12129",
+      "sub_id": "11430",
+      "scr_dup": "001",
+      "evalb_id": "D1",
+      "score_rate": 30,
+      "evalb_memo": "筆試",
+      "evalb_memo_en": null,
+      "evalb_name": "期中考",
+      "evalb_name_en": "Midterm examination",
+      "seq": 2
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CE12129",
+      "sub_id": "11430",
+      "scr_dup": "001",
+      "evalb_id": "D3",
+      "score_rate": 20,
+      "evalb_memo": "筆試",
+      "evalb_memo_en": null,
+      "evalb_name": "隨堂測驗",
+      "evalb_name_en": "In-class examination",
+      "seq": 3
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CE12129",
+      "sub_id": "11430",
+      "scr_dup": "001",
+      "evalb_id": "D2",
+      "score_rate": 40,
+      "evalb_memo": "筆試或報告",
+      "evalb_memo_en": null,
+      "evalb_name": "期末考",
+      "evalb_name_en": "Final examination",
+      "seq": 4
+    }
+  ],
+  "gradeRuleDescribe": {
+    "yms_year": 114.0,
+    "yms_smester": 2.0,
+    "cls_id": "CE12129",
+    "sub_id": "11430",
+    "scr_dup": "001",
+    "tpa_score_new": "<div>平時考核30%，期中考試30%，期末考試40%.</div>\n",
+    "tpa_score_new_en": " ",
+    "course_pol": "上課以版書為主配合多媒體教學。學生依規定上課與請假，不遲到早退，有問題找老師討論，考試誠實不作弊，給分以班級全體同學整體表現考量，以公平公正為原則。",
+    "course_pol_en": null,
+    "course_rem": null,
+    "course_rem_en": null,
+    "ais_meno": "<div>學生作業與報告不抄襲，依規定上課與請假，考試誠實不作弊，評分以班級全體同學整體表現考量，一切以公平公正為原則。</div>\n",
+    "ais_meno_en": null,
+    "ilearn_mk": "N"
+  },
+  "integrity": {
+    "yms_year": 114.0,
+    "yms_smester": 2.0,
+    "cls_id": "CE12129",
+    "sub_id": "11430",
+    "scr_dup": "001",
+    "tpa_score_new": "<div>平時考核30%，期中考試30%，期末考試40%.</div>\n",
+    "tpa_score_new_en": " ",
+    "course_pol": "上課以版書為主配合多媒體教學。學生依規定上課與請假，不遲到早退，有問題找老師討論，考試誠實不作弊，給分以班級全體同學整體表現考量，以公平公正為原則。",
+    "course_pol_en": null,
+    "course_rem": null,
+    "course_rem_en": null,
+    "ais_meno": "<div>學生作業與報告不抄襲，依規定上課與請假，考試誠實不作弊，評分以班級全體同學整體表現考量，一切以公平公正為原則。</div>\n",
+    "ais_meno_en": null,
+    "ilearn_mk": "N"
+  },
+  "policy": {
+    "yms_year": 114.0,
+    "yms_smester": 2.0,
+    "cls_id": "CE12129",
+    "sub_id": "11430",
+    "scr_dup": "001",
+    "tpa_score_new": "<div>平時考核30%，期中考試30%，期末考試40%.</div>\n",
+    "tpa_score_new_en": " ",
+    "course_pol": "上課以版書為主配合多媒體教學。學生依規定上課與請假，不遲到早退，有問題找老師討論，考試誠實不作弊，給分以班級全體同學整體表現考量，以公平公正為原則。",
+    "course_pol_en": null,
+    "course_rem": null,
+    "course_rem_en": null,
+    "ais_meno": "<div>學生作業與報告不抄襲，依規定上課與請假，考試誠實不作弊，評分以班級全體同學整體表現考量，一切以公平公正為原則。</div>\n",
+    "ais_meno_en": null,
+    "ilearn_mk": "N"
+  },
+  "courseBankC": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CE12129",
+      "sub_id": "11430",
+      "scr_dup": "001",
+      "seq": 1,
+      "describe_ch": " 整合量子力學、固體量子理論、半導體材料物理、及半導體元件物理原理，理解半導體元件特性、操作、及限制的基礎。",
+      "describe_en": " To supply knowledge about fundamental quantum mechanics, solid-state quantum theory, semiconductor physics, and related materials and devices understanding the semiconductor device characteristic, operation modes, design rule and applications　introduc",
+      "core_id": "A",
+      "core_item": "運用數學、科學及工程專業知識之能力。",
+      "core_eng": "To acquire professional knowledge in mathematics, science, and engineering.",
+      "core_level": "1 ",
+      "strgy": [
+        "01",
+        "08"
+      ],
+      "evalb": [
+        "D3"
+      ],
+      "strgy_name": [
+        "課堂授課",
+        "書面報告"
+      ],
+      "strgy_name_en": [
+        "Classroom instruction",
+        "Written report"
+      ],
+      "evalb_name": [
+        "隨堂測驗"
+      ],
+      "evalb_name_en": [
+        "In-class examination"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE12129",
+          "sub_id": "11430",
+          "scr_dup": "001",
+          "seq": 1,
+          "strgy_id": "01",
+          "strgy_name": null,
+          "strgy_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE12129",
+          "sub_id": "11430",
+          "scr_dup": "001",
+          "seq": 1,
+          "strgy_id": "08",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE12129",
+          "sub_id": "11430",
+          "scr_dup": "001",
+          "seq": 1,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D3",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CE12129",
+      "sub_id": "11430",
+      "scr_dup": "001",
+      "seq": 2,
+      "describe_ch": " 理解pn接面的物理特性，並決定pn接面的電流-電壓特性。",
+      "describe_en": " Comprehension for the physical background of pn junction and I-V characteristics of pn junction.",
+      "core_id": "B",
+      "core_item": "建立工程分析、設計、測試與應用之邏輯思維能力。",
+      "core_eng": "To develop the logical thinking of engineering analysis, design, testing, and application.",
+      "core_level": "2 ",
+      "strgy": [
+        "01",
+        "10"
+      ],
+      "evalb": [
+        "D1"
+      ],
+      "strgy_name": [
+        "課堂授課",
+        "小組討論及活動"
+      ],
+      "strgy_name_en": [
+        "Classroom instruction",
+        "Group activity & discussion"
+      ],
+      "evalb_name": [
+        "期中考"
+      ],
+      "evalb_name_en": [
+        "Midterm examination"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE12129",
+          "sub_id": "11430",
+          "scr_dup": "001",
+          "seq": 2,
+          "strgy_id": "01",
+          "strgy_name": null,
+          "strgy_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE12129",
+          "sub_id": "11430",
+          "scr_dup": "001",
+          "seq": 2,
+          "strgy_id": "10",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE12129",
+          "sub_id": "11430",
+          "scr_dup": "001",
+          "seq": 2,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D1",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CE12129",
+      "sub_id": "11430",
+      "scr_dup": "001",
+      "seq": 3,
+      "describe_ch": " 以半導體pn接面理論，討論分析三種基本電晶體：雙極性電晶體、金屬-氧化物-半導體場效電晶體、及接面場效應電晶體的基本幾何結構及操作特性與應用。",
+      "describe_en": " Based on pn junction theory to discussion and analysis about the semiconductor characteristic and their behaviors of operational modes of BJTs, MOSFETs, and JFETS.",
+      "core_id": "D",
+      "core_item": "具備控制系統分析、設計、製作及解決整合性工程問題之能力。",
+      "core_eng": "To acquire the ability to analyze, design, produce, and solve integrated engineering problems in control systems.",
+      "core_level": "4 ",
+      "strgy": [
+        "01",
+        "10"
+      ],
+      "evalb": [
+        "D3",
+        "D4"
+      ],
+      "strgy_name": [
+        "課堂授課",
+        "小組討論及活動"
+      ],
+      "strgy_name_en": [
+        "Classroom instruction",
+        "Group activity & discussion"
+      ],
+      "evalb_name": [
+        "隨堂測驗",
+        "作業"
+      ],
+      "evalb_name_en": [
+        "In-class examination",
+        "Homework"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE12129",
+          "sub_id": "11430",
+          "scr_dup": "001",
+          "seq": 3,
+          "strgy_id": "01",
+          "strgy_name": null,
+          "strgy_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE12129",
+          "sub_id": "11430",
+          "scr_dup": "001",
+          "seq": 3,
+          "strgy_id": "10",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE12129",
+          "sub_id": "11430",
+          "scr_dup": "001",
+          "seq": 3,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D3",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE12129",
+          "sub_id": "11430",
+          "scr_dup": "001",
+          "seq": 3,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D4",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CE12129",
+      "sub_id": "11430",
+      "scr_dup": "001",
+      "seq": 4,
+      "describe_ch": " 利用半導體材料特性的原理，應用於光電元件上，並提出元件操作原理、設計合理的計算程序，並適切歸納出結論；以書面或口頭方式將所獲結果與同儕、助教及教師溝通。",
+      "describe_en": " Application for optoelectronic devices with bias condition and operation modes can be discussed and right conclusions are provided through design of calculation procedures. To communicate results in written or oral form to classmates, teaching assistan",
+      "core_id": "F",
+      "core_item": "具備使用中外語文、圖片暨多媒體工具，瞭解工程科技新知與國際時事議題，並能表達學習研究成果與兼顧永續發展能力。",
+      "core_eng": "F.\tPossess the ability to use Chinese and foreign languages, images, and multimedia tools to understand new knowledge in engineering technology and international current events, and to express learning and research outcomes while considering sustainable development.",
+      "core_level": "3 ",
+      "strgy": [
+        "01",
+        "10"
+      ],
+      "evalb": [
+        "D2"
+      ],
+      "strgy_name": [
+        "課堂授課",
+        "小組討論及活動"
+      ],
+      "strgy_name_en": [
+        "Classroom instruction",
+        "Group activity & discussion"
+      ],
+      "evalb_name": [
+        "期末考"
+      ],
+      "evalb_name_en": [
+        "Final examination"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE12129",
+          "sub_id": "11430",
+          "scr_dup": "001",
+          "seq": 4,
+          "strgy_id": "01",
+          "strgy_name": null,
+          "strgy_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE12129",
+          "sub_id": "11430",
+          "scr_dup": "001",
+          "seq": 4,
+          "strgy_id": "10",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE12129",
+          "sub_id": "11430",
+          "scr_dup": "001",
+          "seq": 4,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D2",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    }
+  ],
+  "topicSdgs": [],
+  "topicAiIndicators": [],
+  "learnHours": {
+    "total": 54.0,
+    "tpdOnlineAsyTotal": 0.0,
+    "tpdOnlineSynTotal": 0.0,
+    "tpdOnlineFaceTotal": 54.0,
+    "asySynInTotalPercent": 0.0
+  },
+  "crossVerYear": 114
+}

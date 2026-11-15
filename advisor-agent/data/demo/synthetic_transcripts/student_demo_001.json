@@ -1,0 +1,38 @@
+[
+  {
+    "course_id": "course_001",
+    "course_name": "程式設計基礎",
+    "semester": "114-2",
+    "grade": 86
+  },
+  {
+    "course_id": "course_002",
+    "course_name": "資料庫概念與設計",
+    "semester": "114-2",
+    "grade": 79
+  },
+  {
+    "course_id": "course_008",
+    "course_name": "資料結構程式實作",
+    "semester": "114-2",
+    "grade": 83
+  },
+  {
+    "course_id": "course_009",
+    "course_name": "演算法設計基礎",
+    "semester": "114-2",
+    "grade": 81
+  },
+  {
+    "course_id": "course_013",
+    "course_name": "網路程式開發",
+    "semester": "114-2",
+    "grade": 85
+  },
+  {
+    "course_id": "course_010",
+    "course_name": "網路安全治理",
+    "semester": "114-2",
+    "grade": 78
+  }
+]

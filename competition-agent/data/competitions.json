@@ -1,0 +1,256 @@
+[
+  {
+    "competition_id": "C001",
+    "name": "DEMO 綠芽永續黑客松",
+    "aliases": [
+      "Green Sprout",
+      "綠芽"
+    ],
+    "year": 2027,
+    "category": "hackathon",
+    "theme": "永續生活",
+    "description": "虛構 DEMO：所有年份、日期、資格與技能門檻均為合成測試資料，非官方要求。",
+    "required_skills": [
+      {
+        "skill_id": "SK001",
+        "skill_name": "Python",
+        "required_score": 60
+      }
+    ],
+    "eligibility": {
+      "student_required": true,
+      "team_min": 2,
+      "team_max": 4,
+      "education_levels": null,
+      "regions": null
+    },
+    "deadline": "2027-03-01",
+    "requires_advisor": false,
+    "official_url": null,
+    "source_status": "demo",
+    "evidence": []
+  },
+  {
+    "competition_id": "C002",
+    "name": "DEMO 星河資料挑戰賽",
+    "aliases": [
+      "Star Data",
+      "星河"
+    ],
+    "year": 2027,
+    "category": "data_science",
+    "theme": "資料探索",
+    "description": "虛構 DEMO：所有年份、日期、資格與技能門檻均為合成測試資料，非官方要求。",
+    "required_skills": [
+      {
+        "skill_id": "SK001",
+        "skill_name": "Python",
+        "required_score": 75
+      },
+      {
+        "skill_id": "SK002",
+        "skill_name": "資料分析",
+        "required_score": 70
+      }
+    ],
+    "eligibility": {
+      "student_required": false,
+      "team_min": 1,
+      "team_max": 3,
+      "education_levels": null,
+      "regions": null
+    },
+    "deadline": "2027-04-15",
+    "requires_advisor": null,
+    "official_url": null,
+    "source_status": "demo",
+    "evidence": []
+  },
+  {
+    "competition_id": "C003",
+    "name": "DEMO 紙飛機創意設計賽",
+    "aliases": [
+      "Paper Design",
+      "紙飛機"
+    ],
+    "year": 2027,
+    "category": "design",
+    "theme": "無障礙設計",
+    "description": "虛構 DEMO：所有年份、日期、資格與技能門檻均為合成測試資料，非官方要求。",
+    "required_skills": [
+      {
+        "skill_id": "SK003",
+        "skill_name": "介面設計",
+        "required_score": 50
+      }
+    ],
+    "eligibility": {
+      "student_required": true,
+      "team_min": 1,
+      "team_max": 1,
+      "education_levels": [
+        "大學"
+      ],
+      "regions": null
+    },
+    "deadline": "2027-05-20",
+    "requires_advisor": true,
+    "official_url": null,
+    "source_status": "demo",
+    "evidence": []
+  },
+  {
+    "competition_id": "C004",
+    "name": "DEMO 小島創業提案賽",
+    "aliases": [
+      "Island Startup",
+      "小島"
+    ],
+    "year": 2027,
+    "category": "business",
+    "theme": "在地服務",
+    "description": "虛構 DEMO：所有年份、日期、資格與技能門檻均為合成測試資料，非官方要求。",
+    "required_skills": [
+      {
+        "skill_id": "SK004",
+        "skill_name": "商業簡報",
+        "required_score": 65
+      }
+    ],
+    "eligibility": {
+      "student_required": null,
+      "team_min": 2,
+      "team_max": 5,
+      "education_levels": null,
+      "regions": [
+        "虛構示範區"
+      ]
+    },
+    "deadline": null,
+    "requires_advisor": null,
+    "official_url": null,
+    "source_status": "demo",
+    "evidence": []
+  },
+  {
+    "competition_id": "C005",
+    "name": "DEMO 月光機器人挑戰賽",
+    "aliases": [
+      "Moon Robot",
+      "月光"
+    ],
+    "year": null,
+    "category": "robotics",
+    "theme": "機器人協作",
+    "description": "虛構 DEMO：所有資格與技能門檻均為合成測試資料；未知年份與日期保持 null，非官方要求。",
+    "required_skills": [
+      {
+        "skill_id": "SK005",
+        "skill_name": "機器人控制",
+        "required_score": 80
+      }
+    ],
+    "eligibility": {
+      "student_required": null,
+      "team_min": null,
+      "team_max": null,
+      "education_levels": null,
+      "regions": null
+    },
+    "deadline": null,
+    "requires_advisor": null,
+    "official_url": null,
+    "source_status": "demo",
+    "evidence": []
+  },
+  {
+    "competition_id": "AAIC2026",
+    "name": "NAPAI Agentic AI 校園落地創新應用競賽",
+    "aliases": [
+      "AAIC2026",
+      "AAIC 2026",
+      "NAPAI 2026"
+    ],
+    "year": 2026,
+    "category": "agentic_ai",
+    "theme": "校園與場域的 Agentic AI 應用",
+    "description": "依官網人工整理的真實比賽。deadline 僅指初賽報名截止；決賽繳件另見 timeline。官網未提供可對照學生能力的數值技能門檻，required_skills 留空並非不需要技能。全國學校在學資格不等同國籍或居住地限制，regions 保留未知。",
+    "required_skills": [],
+    "eligibility": {
+      "student_required": true,
+      "team_min": 2,
+      "team_max": 5,
+      "education_levels": [
+        "高中職",
+        "大學部",
+        "碩士班",
+        "博士班"
+      ],
+      "regions": null
+    },
+    "deadline": "2026-10-16",
+    "deadline_stage": "registration",
+    "requires_advisor": false,
+    "official_url": "https://napaincu.github.io/aaic2026/",
+    "source_status": "verified",
+    "source_checked_on": "2026-11-09",
+    "evidence": [
+      {
+        "source_url": "https://napaincu.github.io/aaic2026/",
+        "field": "name",
+        "claim": "NAPAI Agentic AI 校園落地創新應用競賽，2026 年。"
+      },
+      {
+        "source_url": "https://napaincu.github.io/aaic2026/",
+        "field": "eligibility",
+        "claim": "高中職及大專校院在學學生，含大學部、碩士班與博士班；不限科系。每隊 2–5 名學生，可跨校跨系所。"
+      },
+      {
+        "source_url": "https://napaincu.github.io/aaic2026/",
+        "field": "requires_advisor",
+        "claim": "可設一名指導教師，並非強制。"
+      },
+      {
+        "source_url": "https://napaincu.github.io/aaic2026/",
+        "field": "deadline",
+        "claim": "初賽報名及徵件於 2026-10-16 23:59 截止。"
+      },
+      {
+        "source_url": "https://napaincu.github.io/aaic2026/",
+        "field": "timeline",
+        "claim": "決賽資料於 2026-11-13 23:59 截止；決賽為 2026-11-21。"
+      },
+      {
+        "source_url": "https://napaincu.github.io/aaic2026/",
+        "field": "manual_checks",
+        "claim": "在學身分以報名截止日認定；每人限一隊；同一核心作品不得重複報名。須設隊長；真實場域驗證須有聯絡人。作品須具目標導向任務分解，並符合工具調用、動態狀態管理、權限風險控制三者至少兩項。"
+      }
+    ],
+    "timeline": [
+      {
+        "stage": "registration",
+        "date": "2026-10-16",
+        "local_time": "23:59",
+        "note": "初賽報名及徵件截止；時間按官網原樣記錄。"
+      },
+      {
+        "stage": "final_submission",
+        "date": "2026-11-13",
+        "local_time": "23:59",
+        "note": "限入圍後決賽資料繳交，不是新隊伍報名期限。"
+      },
+      {
+        "stage": "final_event",
+        "date": "2026-11-21",
+        "local_time": null,
+        "note": "決賽暨成果發表。"
+      }
+    ],
+    "manual_checks": [
+      "確認每位隊員於報名截止日均符合全國高中職或大專校院在學資格；目前請求只描述單一學生。",
+      "確認每位學生僅參加一隊，且同一核心作品未重複報名。",
+      "確認已設隊長；若參與真實場域驗證，須指定場域聯絡人。",
+      "檢查作品原創與 Agentic AI 基本門檻，以及文件、場域與主辦單位其他規範；目前 API 不自動驗證。"
+    ]
+  }
+]

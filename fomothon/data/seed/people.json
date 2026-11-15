@@ -1,0 +1,895 @@
+{
+  "_meta": {
+    "note": "合成示意人物：姓名皆為代稱，科系為泛稱，成績為虛構。教師一律以「教師 A～J」去識別化呈現。fieldCode 為 ISCED-F 2013 學門代碼（教育部學科標準分類與其對齊）。"
+  },
+  "students": [
+    {
+      "id": "S01",
+      "name": "小安",
+      "dept": "資工系",
+      "year": "大二",
+      "openToMatch": true,
+      "looking": true,
+      "hoursPerWeek": 5,
+      "experience": 0,
+      "profileConfirmed": false,
+      "bio": "想參加 AI 黑客松，但不確定自己夠不夠格",
+      "enrollments": [
+        {
+          "code": "CS101",
+          "semester": "113-1",
+          "grade": 92
+        },
+        {
+          "code": "CS201",
+          "semester": "113-2",
+          "grade": 88
+        },
+        {
+          "code": "CS240",
+          "semester": "113-2",
+          "grade": 81
+        },
+        {
+          "code": "IM150",
+          "semester": "113-2",
+          "grade": 85
+        },
+        {
+          "code": "CS230",
+          "semester": "114-1",
+          "grade": 84
+        }
+      ],
+      "evidence": [
+        {
+          "type": "portfolio",
+          "title": "課表查詢小程式（GitHub）",
+          "skills": [
+            "SK-PRG-001"
+          ],
+          "verified": true
+        },
+        {
+          "type": "portfolio",
+          "title": "Figma 入門練習",
+          "skills": [
+            "SK-DSN-001"
+          ],
+          "verified": false
+        },
+        {
+          "type": "certificate",
+          "title": "TOEIC 650 分",
+          "skills": [
+            "SK-LNG-001"
+          ],
+          "verified": false,
+          "exam": {
+            "kind": "toeic",
+            "score": 650
+          }
+        }
+      ]
+    },
+    {
+      "id": "S02",
+      "name": "小禾",
+      "dept": "設計系",
+      "year": "大三",
+      "openToMatch": true,
+      "looking": true,
+      "hoursPerWeek": 5,
+      "experience": 0,
+      "profileConfirmed": true,
+      "bio": "喜歡做 App 介面",
+      "enrollments": [
+        {
+          "code": "DS310",
+          "semester": "113-2",
+          "grade": 93
+        },
+        {
+          "code": "DS210",
+          "semester": "113-1",
+          "grade": 90
+        },
+        {
+          "code": "DS120",
+          "semester": "112-2",
+          "grade": 88
+        }
+      ],
+      "evidence": [
+        {
+          "type": "portfolio",
+          "title": "校園 App 介面設計",
+          "skills": [
+            "SK-DSN-001",
+            "SK-DSN-003"
+          ],
+          "verified": true
+        },
+        {
+          "type": "portfolio",
+          "title": "點餐 App 改版提案",
+          "skills": [
+            "SK-DSN-001",
+            "SK-DSN-002"
+          ],
+          "verified": true
+        },
+        {
+          "type": "portfolio",
+          "title": "展覽網站視覺設計",
+          "skills": [
+            "SK-DSN-001",
+            "SK-DSN-004"
+          ],
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "S03",
+      "name": "阿哲",
+      "dept": "數媒系",
+      "year": "大二",
+      "openToMatch": true,
+      "looking": false,
+      "hoursPerWeek": 4,
+      "experience": 1,
+      "profileConfirmed": false,
+      "bio": "做過互動裝置展",
+      "enrollments": [
+        {
+          "code": "DS210",
+          "semester": "114-1",
+          "grade": 88
+        },
+        {
+          "code": "IM150",
+          "semester": "113-2",
+          "grade": 84
+        }
+      ],
+      "evidence": [
+        {
+          "type": "portfolio",
+          "title": "互動裝置展介面",
+          "skills": [
+            "SK-DSN-001"
+          ],
+          "verified": true
+        },
+        {
+          "type": "portfolio",
+          "title": "社團招生頁面設計",
+          "skills": [
+            "SK-DSN-001",
+            "SK-WEB-001"
+          ],
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "S04",
+      "name": "小葳",
+      "dept": "資管系",
+      "year": "大三",
+      "openToMatch": true,
+      "looking": true,
+      "hoursPerWeek": 5,
+      "experience": 1,
+      "profileConfirmed": true,
+      "bio": "自學 Figma，想挑戰黑客松",
+      "enrollments": [
+        {
+          "code": "CS240",
+          "semester": "113-1",
+          "grade": 91
+        },
+        {
+          "code": "BA210",
+          "semester": "113-2",
+          "grade": 86
+        }
+      ],
+      "evidence": [
+        {
+          "type": "portfolio",
+          "title": "Figma 自學作品",
+          "skills": [
+            "SK-DSN-001",
+            "SK-DSN-003"
+          ],
+          "verified": false
+        }
+      ]
+    },
+    {
+      "id": "S05",
+      "name": "阿凱",
+      "dept": "資工系",
+      "year": "大三",
+      "openToMatch": false,
+      "looking": false,
+      "hoursPerWeek": 6,
+      "experience": 2,
+      "profileConfirmed": true,
+      "bio": "（未開放媒合）",
+      "enrollments": [
+        {
+          "code": "DS310",
+          "semester": "113-2",
+          "grade": 90
+        },
+        {
+          "code": "IM150",
+          "semester": "112-2",
+          "grade": 90
+        }
+      ],
+      "evidence": [
+        {
+          "type": "portfolio",
+          "title": "行動銀行介面重新設計",
+          "skills": [
+            "SK-DSN-001"
+          ],
+          "verified": true
+        },
+        {
+          "type": "portfolio",
+          "title": "校園導覽 App",
+          "skills": [
+            "SK-DSN-001",
+            "SK-DSN-003"
+          ],
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "S06",
+      "name": "小晴",
+      "dept": "設計系",
+      "year": "大二",
+      "openToMatch": true,
+      "looking": false,
+      "hoursPerWeek": 1,
+      "experience": 0,
+      "profileConfirmed": true,
+      "bio": "本學期時間較少",
+      "enrollments": [
+        {
+          "code": "DS210",
+          "semester": "114-1",
+          "grade": 78
+        },
+        {
+          "code": "DS120",
+          "semester": "113-2",
+          "grade": 82
+        }
+      ],
+      "evidence": []
+    },
+    {
+      "id": "S07",
+      "name": "小予",
+      "dept": "外文系",
+      "year": "大三",
+      "openToMatch": true,
+      "looking": true,
+      "hoursPerWeek": 4,
+      "experience": 1,
+      "profileConfirmed": true,
+      "bio": "擅長上台發表與英文簡報",
+      "enrollments": [
+        {
+          "code": "GE120",
+          "semester": "113-2",
+          "grade": 94
+        },
+        {
+          "code": "GE130",
+          "semester": "113-1",
+          "grade": 90
+        }
+      ],
+      "evidence": [
+        {
+          "type": "certificate",
+          "title": "全民英檢中高級",
+          "skills": [
+            "SK-LNG-001"
+          ],
+          "verified": true,
+          "exam": {
+            "kind": "gept",
+            "level": "中高級"
+          }
+        },
+        {
+          "type": "portfolio",
+          "title": "校內簡報比賽影片",
+          "skills": [
+            "SK-SFT-009"
+          ],
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "S08",
+      "name": "子翔",
+      "dept": "資管系",
+      "year": "大二",
+      "openToMatch": true,
+      "looking": true,
+      "hoursPerWeek": 5,
+      "experience": 0,
+      "profileConfirmed": true,
+      "bio": "前端與資料視覺化",
+      "enrollments": [
+        {
+          "code": "IM150",
+          "semester": "113-2",
+          "grade": 93
+        },
+        {
+          "code": "IM250",
+          "semester": "114-1",
+          "grade": 89
+        },
+        {
+          "code": "ST110",
+          "semester": "113-2",
+          "grade": 85
+        }
+      ],
+      "evidence": [
+        {
+          "type": "portfolio",
+          "title": "社團活動網站",
+          "skills": [
+            "SK-WEB-001",
+            "SK-WEB-006"
+          ],
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "S09",
+      "name": "語彤",
+      "dept": "企管系",
+      "year": "大三",
+      "openToMatch": true,
+      "looking": true,
+      "hoursPerWeek": 4,
+      "experience": 2,
+      "profileConfirmed": true,
+      "bio": "喜歡寫企劃、帶團隊",
+      "enrollments": [
+        {
+          "code": "BA210",
+          "semester": "113-1",
+          "grade": 90
+        },
+        {
+          "code": "BA220",
+          "semester": "113-2",
+          "grade": 88
+        },
+        {
+          "code": "BA310",
+          "semester": "114-1",
+          "grade": 91
+        }
+      ],
+      "evidence": [
+        {
+          "type": "competition",
+          "title": "校內創業競賽佳作",
+          "skills": [
+            "SK-BIZ-002",
+            "SK-SFT-009"
+          ],
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "S10",
+      "name": "柏宇",
+      "dept": "財金系",
+      "year": "大三",
+      "openToMatch": true,
+      "looking": true,
+      "hoursPerWeek": 3,
+      "experience": 0,
+      "profileConfirmed": true,
+      "bio": "對財報與投資分析有興趣",
+      "enrollments": [
+        {
+          "code": "FN210",
+          "semester": "113-2",
+          "grade": 92
+        },
+        {
+          "code": "ST110",
+          "semester": "112-2",
+          "grade": 88
+        }
+      ],
+      "evidence": []
+    },
+    {
+      "id": "S11",
+      "name": "宜蓁",
+      "dept": "企管系",
+      "year": "大二",
+      "openToMatch": true,
+      "looking": false,
+      "hoursPerWeek": 4,
+      "experience": 0,
+      "profileConfirmed": true,
+      "bio": "對人資與行銷有興趣",
+      "enrollments": [
+        {
+          "code": "HR210",
+          "semester": "114-1",
+          "grade": 90
+        },
+        {
+          "code": "GE120",
+          "semester": "113-2",
+          "grade": 86
+        },
+        {
+          "code": "BA220",
+          "semester": "113-2",
+          "grade": 80
+        }
+      ],
+      "evidence": []
+    },
+    {
+      "id": "S12",
+      "name": "冠廷",
+      "dept": "資工系",
+      "year": "大四",
+      "openToMatch": true,
+      "looking": false,
+      "hoursPerWeek": 2,
+      "experience": 3,
+      "profileConfirmed": true,
+      "bio": "做過多個機器學習專題",
+      "enrollments": [
+        {
+          "code": "CS330",
+          "semester": "113-1",
+          "grade": 93
+        },
+        {
+          "code": "CS340",
+          "semester": "113-2",
+          "grade": 90
+        },
+        {
+          "code": "CS101",
+          "semester": "111-1",
+          "grade": 95
+        },
+        {
+          "code": "CS201",
+          "semester": "111-2",
+          "grade": 90
+        }
+      ],
+      "evidence": [
+        {
+          "type": "competition",
+          "title": "AI 黑客松入圍決賽",
+          "skills": [
+            "SK-AI-001",
+            "SK-PRG-001"
+          ],
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "S13",
+      "name": "品妍",
+      "dept": "統計系",
+      "year": "大三",
+      "openToMatch": true,
+      "looking": true,
+      "hoursPerWeek": 5,
+      "experience": 1,
+      "profileConfirmed": true,
+      "bio": "統計與資料視覺化",
+      "enrollments": [
+        {
+          "code": "ST110",
+          "semester": "112-2",
+          "grade": 95
+        },
+        {
+          "code": "ST220",
+          "semester": "113-2",
+          "grade": 90
+        },
+        {
+          "code": "CS101",
+          "semester": "113-1",
+          "grade": 84
+        }
+      ],
+      "evidence": []
+    },
+    {
+      "id": "S14",
+      "name": "承恩",
+      "dept": "資工系",
+      "year": "大二",
+      "openToMatch": true,
+      "looking": true,
+      "hoursPerWeek": 5,
+      "experience": 0,
+      "profileConfirmed": false,
+      "bio": "喜歡寫 Java，想找程式競賽練功",
+      "enrollments": [
+        {
+          "code": "CS102",
+          "semester": "113-2",
+          "grade": 90
+        },
+        {
+          "code": "CS201",
+          "semester": "113-2",
+          "grade": 82
+        },
+        {
+          "code": "CS101",
+          "semester": "113-1",
+          "grade": 86
+        },
+        {
+          "code": "CS350",
+          "semester": "114-1",
+          "grade": 84
+        }
+      ],
+      "evidence": []
+    },
+    {
+      "id": "S15",
+      "name": "芷晴",
+      "dept": "資管系",
+      "year": "大三",
+      "openToMatch": true,
+      "looking": true,
+      "hoursPerWeek": 3,
+      "experience": 1,
+      "profileConfirmed": true,
+      "bio": "後端與資料庫",
+      "enrollments": [
+        {
+          "code": "IM260",
+          "semester": "113-2",
+          "grade": 88
+        },
+        {
+          "code": "CS240",
+          "semester": "113-1",
+          "grade": 86
+        },
+        {
+          "code": "IM250",
+          "semester": "114-1",
+          "grade": 82
+        }
+      ],
+      "evidence": []
+    },
+    {
+      "id": "S90",
+      "name": "測試生",
+      "dept": "資工系",
+      "year": "大二",
+      "openToMatch": false,
+      "looking": false,
+      "hoursPerWeek": 0,
+      "experience": 0,
+      "profileConfirmed": false,
+      "bio": "評測專用帳號：修課紀錄含惡意課綱與課綱庫查無的課程",
+      "enrollments": [
+        {
+          "code": "GE199",
+          "semester": "114-1",
+          "grade": 80
+        },
+        {
+          "code": null,
+          "name": "網頁前端專題實作",
+          "semester": "114-1",
+          "grade": 88
+        }
+      ],
+      "evidence": [
+        {
+          "type": "portfolio",
+          "title": "<img src=x onerror=alert(1)> 作品",
+          "skills": [
+            "SK-WEB-001"
+          ],
+          "verified": false
+        }
+      ]
+    }
+  ],
+  "teachers": [
+    {
+      "id": "T01",
+      "name": "教師 A",
+      "dept": "資工系",
+      "fieldCode": "0613",
+      "openToAdvise": true,
+      "quota": 3,
+      "used": 2,
+      "expertise": [
+        "SK-AI-001",
+        "SK-AI-002",
+        "SK-DAT-002",
+        "SK-PRG-001"
+      ],
+      "research": [
+        "機器學習應用",
+        "教育資料探勘"
+      ],
+      "advised": [
+        {
+          "type": "AI 黑客松",
+          "teams": 3
+        },
+        {
+          "type": "資料分析競賽",
+          "teams": 1
+        }
+      ]
+    },
+    {
+      "id": "T02",
+      "name": "教師 B",
+      "dept": "設計系",
+      "fieldCode": "0212",
+      "openToAdvise": true,
+      "quota": 3,
+      "used": 1,
+      "expertise": [
+        "SK-DSN-001",
+        "SK-DSN-002",
+        "SK-DSN-003",
+        "SK-DSN-004"
+      ],
+      "research": [
+        "人機互動",
+        "介面可用性"
+      ],
+      "advised": [
+        {
+          "type": "設計競賽",
+          "teams": 2
+        },
+        {
+          "type": "AI 黑客松",
+          "teams": 1
+        }
+      ]
+    },
+    {
+      "id": "T03",
+      "name": "教師 C",
+      "dept": "資工系",
+      "fieldCode": "0613",
+      "openToAdvise": true,
+      "quota": 3,
+      "used": 3,
+      "expertise": [
+        "SK-PRG-001",
+        "SK-PRG-002",
+        "SK-PRG-004",
+        "SK-PRG-005"
+      ],
+      "research": [
+        "演算法",
+        "程式教育"
+      ],
+      "advised": [
+        {
+          "type": "程式競賽",
+          "teams": 4
+        }
+      ]
+    },
+    {
+      "id": "T04",
+      "name": "教師 D",
+      "dept": "資工系",
+      "fieldCode": "0612",
+      "openToAdvise": false,
+      "quota": 2,
+      "used": 0,
+      "expertise": [
+        "SK-DAT-001",
+        "SK-DAT-002"
+      ],
+      "research": [
+        "資料庫系統"
+      ],
+      "advised": [
+        {
+          "type": "資料分析競賽",
+          "teams": 2
+        }
+      ]
+    },
+    {
+      "id": "T05",
+      "name": "教師 E",
+      "dept": "資管系",
+      "fieldCode": "0613",
+      "openToAdvise": true,
+      "quota": 2,
+      "used": 0,
+      "expertise": [
+        "SK-WEB-001",
+        "SK-WEB-004",
+        "SK-WEB-006",
+        "SK-WEB-008",
+        "SK-PRG-008"
+      ],
+      "research": [
+        "網頁應用系統",
+        "軟體工程教育"
+      ],
+      "advised": [
+        {
+          "type": "AI 黑客松",
+          "teams": 1
+        },
+        {
+          "type": "網頁設計競賽",
+          "teams": 2
+        }
+      ]
+    },
+    {
+      "id": "T06",
+      "name": "教師 F",
+      "dept": "統計系",
+      "fieldCode": "0542",
+      "openToAdvise": true,
+      "quota": 3,
+      "used": 1,
+      "expertise": [
+        "SK-DAT-004",
+        "SK-DAT-002",
+        "SK-DAT-003"
+      ],
+      "research": [
+        "應用統計",
+        "資料視覺化"
+      ],
+      "advised": [
+        {
+          "type": "資料分析競賽",
+          "teams": 3
+        }
+      ]
+    },
+    {
+      "id": "T07",
+      "name": "教師 G",
+      "dept": "通識中心",
+      "fieldCode": "0231",
+      "openToAdvise": true,
+      "quota": 2,
+      "used": 0,
+      "expertise": [
+        "SK-SFT-009",
+        "SK-SFT-001",
+        "SK-LNG-001"
+      ],
+      "research": [
+        "英語教學",
+        "口語表達"
+      ],
+      "advised": [
+        {
+          "type": "簡報競賽",
+          "teams": 2
+        }
+      ]
+    },
+    {
+      "id": "T08",
+      "name": "教師 H",
+      "dept": "企管系",
+      "fieldCode": "0413",
+      "openToAdvise": true,
+      "quota": 4,
+      "used": 2,
+      "expertise": [
+        "SK-BIZ-001",
+        "SK-BIZ-002",
+        "SK-BIZ-003",
+        "SK-SFT-006"
+      ],
+      "research": [
+        "創新創業",
+        "行銷策略"
+      ],
+      "advised": [
+        {
+          "type": "創新創業競賽",
+          "teams": 4
+        }
+      ]
+    },
+    {
+      "id": "T09",
+      "name": "教師 I",
+      "dept": "財金系",
+      "fieldCode": "0412",
+      "openToAdvise": true,
+      "quota": 2,
+      "used": 1,
+      "expertise": [
+        "SK-BIZ-004",
+        "SK-DAT-004"
+      ],
+      "research": [
+        "財務報表分析",
+        "金融科技"
+      ],
+      "advised": [
+        {
+          "type": "金融科技競賽",
+          "teams": 2
+        }
+      ]
+    },
+    {
+      "id": "T10",
+      "name": "教師 J",
+      "dept": "企管系",
+      "fieldCode": "0413",
+      "openToAdvise": true,
+      "quota": 2,
+      "used": 0,
+      "expertise": [
+        "SK-BIZ-005",
+        "SK-SFT-003",
+        "SK-SFT-001"
+      ],
+      "research": [
+        "人力資源發展",
+        "組織行為"
+      ],
+      "advised": []
+    }
+  ],
+  "admins": [
+    {
+      "id": "A01",
+      "name": "承辦人",
+      "dept": "教務單位"
+    }
+  ]
+}

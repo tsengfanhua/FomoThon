@@ -1,0 +1,196 @@
+{
+  "teacherId": "T10240",
+  "name": "林上智",
+  "mainUnit": "資訊電機學院",
+  "detailUnit": "自動控制工程學系",
+  "skill": [
+    "工業大數據Industrial Big Data",
+    "人工智慧Artificial Intelligence",
+    "智慧製造Smart Manufacturing",
+    "智慧控制Intelligence Control"
+  ],
+  "edu": [
+    "國立台灣科技大學 電機工程研究所 博士"
+  ],
+  "fcuExp": [
+    "自動控制工程學系 助理教授"
+  ],
+  "currjob": [],
+  "otherExp": [
+    "永進機械工業股份有限公司 智能化中心 工程師",
+    "中央研究院 資訊科技創新研究中心 專案經理",
+    "中央研究院 資訊科技創新研究中心 博士後研究學者",
+    "中央研究院 資訊科學研究所 博士後研究學者",
+    "中央研究院 資訊科技創新研究中心 博士後研究學者",
+    "南開科技大學 電機與資訊技術系 講師",
+    "科技部工程司 電力工程學門 學門助理"
+  ],
+  "journal": [
+    {
+      "論文名稱": "智慧型機器人研製與應用",
+      "期刊名稱": "台灣機器人學會會訊 (台灣機器人學會)",
+      "作者群": "林上智"
+    },
+    {
+      "論文名稱": "Virtual Fence Approach for Safety Monitoring of CNC Machine Tool with Dual Regions of Interest",
+      "期刊名稱": "International Journal of iRobotics (Open Journal Systems)",
+      "作者群": "Shang-Chih Lin*, Ji-Xuan Li, and Shun-Feng Su"
+    }
+  ],
+  "journal2": [],
+  "conference": [
+    {
+      "論文名稱": "A Novel Cutting Fluids Performance Assurance System for CNC Machine Tools",
+      "會議名稱": "2024 International Automatic Control Conference (CACS)",
+      "作者群": "You-Syuan Chou, Yi-Shiang Chen, Fu-Yu Chiang, Chen-Yen Yang, Zhe-Xun Shi, Yu-Sheng Lin, Shang-Chih Lin, Shun-Feng Su, and Yennun Huang"
+    },
+    {
+      "論文名稱": "A Monitoring and Control System Based on Image Recognition for Iron Filings Cleaning of CNC Machine Tools",
+      "會議名稱": "2024 International Automatic Control Conference (CACS)",
+      "作者群": "Tsung-Yen Yang, Fu-Yu Chiang, Yan-Hong Chen, Guan-Jie Lee, Yu-Sheng Lin, Shang-Chih Lin, Shun-Feng Su, and Yennun Huang"
+    },
+    {
+      "論文名稱": "Design and simulation of fault-tolerant control algorithm for rotorcraft",
+      "會議名稱": "2024 The 22th Conference on Information Technology and Application in Outlying Islands (ITAOI)",
+      "作者群": "Fu-Yu Chiang and Shang-Chih Lin*"
+    },
+    {
+      "論文名稱": "Prediction of Workpiece Film Thickness Via Multi-region Segmented Model of Painting Process Parameters",
+      "會議名稱": "2023 IEEE International Conference on Industrial Engineering and Engineering Management (IEEM)",
+      "作者群": "Jhan-Yu Liao, Shang-Chih Lin, Shun-Feng Su, and Yennun Huang"
+    },
+    {
+      "論文名稱": "Design and Development of Task-oriented Robots with Hybrid Energy",
+      "會議名稱": "2023 International Automatic Control Conference (CACS)",
+      "作者群": "Ting-Yu Chien, Pin-Kuan Yeh, Chen-Ting Xu, Wen-Kai Le, Shang-Chih Lin, and Shun-Feng Su"
+    },
+    {
+      "論文名稱": "Application of Additive Manufacturing Technology with Multiple Processes for Epoxy Resin Objects",
+      "會議名稱": "The 8th International Society of Mechatronic Engineering (ISME)",
+      "作者群": "Heng-Fu Zhang, Zheng-Han Li, Shang-Chih Lin, and Kun-Ching Wang"
+    },
+    {
+      "論文名稱": "A Lightweight Control System with Dual-antennas for Wireless Signal Tracking",
+      "會議名稱": "2022 International Automatic Control Conference (CACS)",
+      "作者群": "Zheng-Han Li, Shang-Chih Lin*, Chieh-Ming Chang, and Yennun Huang"
+    },
+    {
+      "論文名稱": "A Smart Wearable Device for Abnormal Event Handling of Multiple Machines in Modern Factories",
+      "會議名稱": "2022 IEEE International Conference on Consumer Electronics-Taiwan (ICCE-TW)",
+      "作者群": "Shang-Chih Lin*, Lu-Yo Kuo, Chieh-Ming Chang, and Yennun Huang"
+    },
+    {
+      "論文名稱": "Dynamic Scheduling Based on Self-Organizing Wireless Sensing System for Work in Process of Production Line",
+      "會議名稱": "2022 IEEE International Conference on Consumer Electronics-Taiwan (ICCE-TW)",
+      "作者群": "Chieh-Ming Chang, Shang-Chih Lin*, Yennun Huang"
+    },
+    {
+      "論文名稱": "Smart Machine Box with Early Failure Detection for Automatic Tool Changer Subsystem of CNC Machine Tool in the Production Line",
+      "會議名稱": "IECON 2021 – 47th Annual Conference of the IEEE Industrial Electronics Society",
+      "作者群": "Shang-Chih Lin*, Shun-Feng Su, Yennun Huang"
+    },
+    {
+      "論文名稱": "A Vision-based Dual-axis Positioning System with YOLOv4 and Improved Genetic Algorithms",
+      "會議名稱": "2020 Fourth IEEE International Conference on Robotic Computing (IRC)",
+      "作者群": "Shan-Ling Chen, Shang-Chih Lin*, Yennun Huang, Chia-Wei Jen, Zheng-Long Lin, and Shun-Feng Su"
+    },
+    {
+      "論文名稱": "Metalworking Industry: Quality Management via Edge Computing-Based Cloud Monitoring System",
+      "會議名稱": "2019 IEEE 12th Conference on Service-Oriented Computing and Applications (SOCA)",
+      "作者群": "Zheng-Wei Wu, Shang-Chih Lin*, Po-Chun Hu, Shun-Feng Su, and Yennun Huang"
+    },
+    {
+      "論文名稱": "FIS-based Domestic Milling Machine PHM System Considering Multi-speed Frequency Variation",
+      "會議名稱": "2018 IEEE International Conference on Advanced Manufacturing (ICAM)",
+      "作者群": "Shang-Chih Lin*, Chuan-Hsiang Su, Yu Tsao, Shun-Feng Su, Hong-Yuan Mark Liao, and Yennun Huang"
+    }
+  ],
+  "book": [],
+  "patent": [],
+  "most": [
+    {
+      "name": "基於感測器融合的智慧型生物安全監控系統",
+      "schoolYear": "112"
+    },
+    {
+      "name": "基於捲積神經網路的電路板產線自動品質檢測",
+      "schoolYear": "111"
+    }
+  ],
+  "tech": [],
+  "induAca": [
+    "AI生產排程效能測試驗證計畫 (2024-07 to 2024-10)",
+    "自動化物料管理委託研究計畫 (2024-07 to 2024-10)",
+    "112年iPAS推動合作委託案+C型5+台中3(ML)1/2 2/2 (2023-05 to 2023-11)",
+    "基於人工智慧的自行車車架料號行動辨識系統研製 (2023-04 to 2024-03)",
+    "111年iPAS動合作委託案-D案-台中區2(ML) (2022-09 to 2022-11)",
+    "111年iPAS推動合作委託案-D案-台中區(ML) (2022-05 to 2022-11)"
+  ],
+  "perform": [],
+  "reward": [
+    "最佳學生論文獎 (113, 2024-11) - Int'l Automatic Control Conf. (中華民國自動控制學會, CACS)",
+    "第28屆TDK盃全國大專校院創思設計與製作競賽(入選獎) (113, 2024-10) - 教育部",
+    "最佳論文獎 (112, 2024-05) - The 22th Conference on Information Technology and Application in Outlying Island",
+    "國研盃智慧機械競賽 最近洞口獎 (112, 2024-03) - 國家實驗研究院台灣儀器科技研究中心",
+    "國研盃智慧機械競賽 設計競賽第三名 (112, 2024-03) - 國家實驗研究院台灣儀器科技研究中心",
+    "東京威力科創機器人大賽(入圍獎) (112, 2023-12) - 東京威力科創股份有限公司",
+    "全國智慧製造大數據分析競賽(入圍決賽) (112, 2023-11) - 教育部",
+    "MATLAB & Simulink 創意海報競賽(最高人氣獎) (112, 2023-11) - Terasoft",
+    "第28屆大專校院資訊應用服務創新競賽無人機創新技術組(入圍決賽) (112, 2023-11) - 教育部",
+    "第27屆TDK盃全國大專校院創思設計與製作競賽(入選獎) (112, 2023-10) - 教育部",
+    "最佳論文獎 (111, 2023-04) - 臺灣機電工程國際學會",
+    "國研盃智慧機械競賽 設計競賽第二名 (111, 2023-03) - 國家實驗研究院台灣儀器科技研究中心",
+    "機器學習工程師認證 (111, 2022-12) - 經濟部",
+    "全國智慧製造大數據分析競賽(入圍決賽) (111, 2022-11) - 教育部",
+    "最佳學生論文獎 (111, 2022-11) - Int'l Automatic Control Conf. (中華民國自動控制學會, CACS)",
+    "第十一屆全國大專院校AI智動化設備創作獎(入圍決賽) (110, 2022-07) - 均豪精密工業股份有限公司(GPM)",
+    "特優獎&特別獎(YCM) (110, 2022-02) - TMTS x TIMTOS",
+    "傑出校友 (110, 2022-01) - 光華高工",
+    "績優役男獎(入圍決賽) (108, 2020-01) - 內政部",
+    "績優役男獎(入圍決賽) (107, 2019-01) - 內政部",
+    "績優役男獎 (106, 2018-01) - 內政部",
+    "最佳論文獎 (106, 2018-01) - IEEE Int’l Conf. on Advanced Manufacturing",
+    "聚陽產學論文獎 (106, 2018-01) - Int’l Symp. on Quality Management",
+    "最佳論文獎(入圍決賽) (105, 2017-01) - Int’l Conf. on Fuzzy Theory and Its Applications",
+    "專題計畫優良成果專刊 (105, 2016-12) - 科技部工程司",
+    "博士論文獎 (104, 2016-01) - 中華民國模糊學會",
+    "最佳論文獎 (104, 2016-01) - 第37屆中華民國電力工程研討會",
+    "最佳論文獎 (104, 2016-01) - Int’l Conf. on System Science and Engineering",
+    "最佳論文獎(入圍決賽) (104, 2016-01) - Int’l Conf. on Fuzzy Theory and Its Applications",
+    "最佳論文獎 (103, 2015-01) - Int’l Conf. on Engineering and Natural Science"
+  ],
+  "speech": [
+    {
+      "演講題目": "智慧製造大數據分析專題分享",
+      "邀請單位": "漢民科技股份有限公司",
+      "演講日期": "2022-11"
+    },
+    {
+      "演講題目": "金屬材料於精密製造的機會與挑戰",
+      "邀請單位": "漢民科技股份有限公司",
+      "演講日期": "2022-04"
+    },
+    {
+      "演講題目": "工具機產業的數位轉型歷程",
+      "邀請單位": "逢甲大學自動控制工程學系",
+      "演講日期": "2022-03"
+    },
+    {
+      "演講題目": "在數據為王的時代裡，沒有人是局外人。",
+      "邀請單位": "光華高級工業職業學校",
+      "演講日期": "2022-01"
+    },
+    {
+      "演講題目": "工具機產業的數位轉型與實例應用",
+      "邀請單位": "台灣雲端物聯網產業協會",
+      "演講日期": "2021-11"
+    },
+    {
+      "演講題目": "運用AI技術強化台灣產業鏈競爭優勢：以機械製造為例",
+      "邀請單位": "台灣雲端物聯網產業協會",
+      "演講日期": "2018-08"
+    }
+  ],
+  "material": [],
+  "tal": []
+}

@@ -1,0 +1,635 @@
+{
+  "success": true,
+  "info": {
+    "yms_year": 114.0,
+    "yms_smester": 1.0,
+    "sub_id": "41231",
+    "cls_id": "CS03139",
+    "scr_dup": "001",
+    "sub_id3": "MSE4037",
+    "cls_name": "材料三合",
+    "cls_ename": "Department of Materials Science and Engineering",
+    "sub_name": "產學合作倫理",
+    "sub_ename": "BUSINESS AND PROFESSIONAL ETHICS",
+    "scr_mso": "選修",
+    "scr_mso_en": "Elective",
+    "scr_credit": 2.0,
+    "scr_periodly": "(四)08-09",
+    "scr_periodly_eng": "(Thu)08-09",
+    "lang_name": "中文                                                      ",
+    "lang_ename": "Chinese",
+    "scr_room": "語207",
+    "scr_room_eng": "LB207",
+    "scr_teacher": "邱國峰",
+    "scr_teacher_eng": "Kuo-Feng Chiu",
+    "scr_selcode": "2571",
+    "scr_elearning": "全學期",
+    "scr_elearning_en": "Full semester",
+    "scr_hours": "2",
+    "scr_english": "N",
+    "unt_name": null,
+    "unt_ename": null,
+    "link_traminal": null,
+    "link_traminal_en": null,
+    "scr_ldl": "D",
+    "course_mk": "N",
+    "teams_mk": "N",
+    "sub_title": null,
+    "sub_title_en": null,
+    "sub_describe": null,
+    "sub_describe_en": null,
+    "hasDescription": null,
+    "hasInstructor": null,
+    "hasTA": null,
+    "hasTextBooks": null,
+    "hasReadings": null,
+    "hasiSoftwares": null,
+    "hasAssistSoftwares": null,
+    "hasObjective": null,
+    "hasWeeklyScds": null,
+    "hasGradeRules": null,
+    "hasGradeRuleDescribe": null,
+    "hasIntegrity": null,
+    "hasCoursePol": null,
+    "hasCourseRem": null,
+    "hasObjectiveReleation": null,
+    "hasTopicSdgs": null,
+    "hasSubTitleDesc": null
+  },
+  "subTitleDesc": null,
+  "description": {
+    "sub_id3": null,
+    "sub_name": "產學合作倫理",
+    "sub_ename": "BUSINESS AND PROFESSIONAL ETHICS",
+    "describe_ch": "本課程目的為學習並了解相關產學合作倫理。課程內容注重在工程師個人倫理與產業倫理，工程師的權利與責任，協調溝通的方法與技巧，智慧財產的法律與管理。",
+    "describe_eh": "The purpose of this course is to learn and understand relevant industry-university cooperation ethics. The content of the course focuses on the personal ethics and industrial ethics of engineers, the rights and responsibilities of engineers, the methods and skills of coordination and communication, and the law and management of the intellectual property.",
+    "pre_subname": "",
+    "pre_sub_id3": null,
+    "pre_sub_ename": "",
+    "pre_describe": null,
+    "pre_describe_en": null,
+    "scr_credit": 2.0
+  },
+  "targets": [
+    {
+      "seq": 1,
+      "describe_ch": "說明工程師個人倫理與產業倫理",
+      "describe_en": "Engineer ethics and business ethics"
+    },
+    {
+      "seq": 2,
+      "describe_ch": "說明協調溝通的方法與技巧",
+      "describe_en": "Negotiation methods and communication skills"
+    },
+    {
+      "seq": 3,
+      "describe_ch": "說明智慧財產的法律與管理",
+      "describe_en": " Law and management of intellectual property"
+    }
+  ],
+  "teachersInfo": [
+    {
+      "cname": "邱國峰",
+      "ename": "Kuo-Feng Chiu",
+      "period": " ",
+      "roletype": 0,
+      "email": "kfchiu@o365.fcu.edu.tw",
+      "ext": "5336"
+    }
+  ],
+  "textBooks": {
+    "yms_year": 114.0,
+    "yms_smester": 1.0,
+    "cls_id": "CS03139",
+    "sub_id": "41231",
+    "scr_dup": "001",
+    "tpb_seq": 1,
+    "tpb_book": "<div>教育部台灣學術倫理教育資源中心 線上教材。</div>\n\n<div>&nbsp;</div>\n",
+    "tpb_book_en": null
+  },
+  "readings": {
+    "yms_year": 114.0,
+    "yms_smester": 1.0,
+    "cls_id": "CS03139",
+    "sub_id": "41231",
+    "scr_dup": "001",
+    "tpc_seq": 1,
+    "tpc_book": "<div>教育部台灣學術倫理教育資源中心 線上案例分享</div>\n",
+    "tpc_book_en": null
+  },
+  "iSoftwares": [],
+  "assistSoftwares": [],
+  "weeklyScds": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CS03139",
+      "sub_id": "41231",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "week 1~3",
+      "tpd_reading": "<div>何謂倫理?何謂產學倫理?</div>\n\n<div>&nbsp;</div>\n\n<div>\n<div>1 倫理與邏輯/道德與法律</div>\n\n<div>\n<div>2 專利?!光碟、鋰鐵電池( Hydro-qubet+Austin+phostech (德國爸)告</div>\n\n<div>&nbsp; &nbsp; a123,valence) ; goodenough反對; )、專利蟑螂</div>\n\n<div>\n<div>3 monopoly?!三星、友達、奇美反托拉斯事件</div>\n</div>\n</div>\n</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": "<div>分組討論</div>\n",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": "授課/分組討論",
+      "tpd_ass_en": null,
+      "tpd_online_asy": 1.0,
+      "tpd_online_syn": 3.0,
+      "tpd_online_face": 6.0,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CS03139",
+      "sub_id": "41231",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "week 4~6",
+      "tpd_reading": "<div>產學倫理案例分享</div>\n\n<div>&nbsp;</div>\n\n<div>\n<div>4&nbsp; 301條款-台美也曾有貿易戰</div>\n\n<div>\n<div>5&nbsp; &nbsp;博達科技掏空案-Laser diode and GaAs microwave chips all faked</div>\n\n<div>\n<div>6&nbsp; &nbsp;大汽車廠的夢-由本田投資屏東40億談起</div>\n</div>\n</div>\n</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": "<div>分組討論</div>\n",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": "授課/分組討論",
+      "tpd_ass_en": null,
+      "tpd_online_asy": 1.0,
+      "tpd_online_syn": 3.0,
+      "tpd_online_face": 6.0,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CS03139",
+      "sub_id": "41231",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "week 7",
+      "tpd_reading": "<div>期中報告</div>\n\n<div>&nbsp;</div>\n\n<div>\n<div>7&nbsp; &nbsp;機車王國-野狼125</div>\n\n<div>\n<div>8&nbsp; &nbsp;半導體產業午茶-吃不完的炸雞</div>\n\n<div>\n<div>9&nbsp; &nbsp;核子冬季/能源危機/全球暖化/氣候變異/外星人</div>\n</div>\n</div>\n</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": "<div>期中報告</div>\n",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": "授課/分組討論",
+      "tpd_ass_en": null,
+      "tpd_online_asy": 1.0,
+      "tpd_online_syn": 3.0,
+      "tpd_online_face": 2.0,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CS03139",
+      "sub_id": "41231",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "week 8~10",
+      "tpd_reading": "<div>何謂學術倫理?</div>\n\n<div>&nbsp;</div>\n\n<div>\n<div>10&nbsp; &nbsp; 1986/前鎮大爆炸- 拆船、鋼鐵、營建,&nbsp; 1997/石化、拜耳、波拜耳、</div>\n\n<div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;2014/塑膠垃圾進口</div>\n\n<div>\n<div>11&nbsp; &nbsp; &nbsp;新加坡經驗-強人、辦賭場兒子、同性戀孫子</div>\n\n<div>\n<div>12&nbsp; &nbsp; &nbsp;味全、頂新、油、職棒</div>\n</div>\n</div>\n</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": "<div>分組討論</div>\n",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": "授課/分組討論",
+      "tpd_ass_en": null,
+      "tpd_online_asy": 1.0,
+      "tpd_online_syn": 3.0,
+      "tpd_online_face": 6.0,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CS03139",
+      "sub_id": "41231",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "week 11~13",
+      "tpd_reading": "<div>學術倫理與產業</div>\n\n<div>&nbsp;</div>\n\n<div>\n<div>13&nbsp; &nbsp; &nbsp;台灣DRAM興衰史-德基,力晶,南亞，茂德，華邦 = 美光, 華邦</div>\n\n<div>\n<div>14&nbsp; &nbsp; &nbsp;多氯聯苯、三聚氰胺、瘦肉精、核食-檢出、未檢出</div>\n</div>\n</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": "<div>分組討論</div>\n",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": "授課/分組討論",
+      "tpd_ass_en": null,
+      "tpd_online_asy": 1.0,
+      "tpd_online_syn": 3.0,
+      "tpd_online_face": 6.0,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CS03139",
+      "sub_id": "41231",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "wee 14~17",
+      "tpd_reading": "<div>1. 何謂專利?專利與產學倫理之規範</div>\n\n<div>2. 中華民國及美國專利探討</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": "<div>分組討論</div>\n",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": "授課/分組討論",
+      "tpd_ass_en": null,
+      "tpd_online_asy": 1.0,
+      "tpd_online_syn": 3.0,
+      "tpd_online_face": 6.0,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CS03139",
+      "sub_id": "41231",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "week 18",
+      "tpd_reading": "<div>期末報告</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": "<div>期末報告</div>\n",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": "授課/分組討論",
+      "tpd_ass_en": null,
+      "tpd_online_asy": 1.0,
+      "tpd_online_syn": 3.0,
+      "tpd_online_face": 1.0,
+      "tpd_week_en": null,
+      "mode": 0
+    }
+  ],
+  "gradeRules": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CS03139",
+      "sub_id": "41231",
+      "scr_dup": "001",
+      "evalb_id": "G3",
+      "score_rate": 40,
+      "evalb_memo": "期中報告",
+      "evalb_memo_en": null,
+      "evalb_name": "心得報告",
+      "evalb_name_en": "Report on gained knowledge",
+      "seq": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CS03139",
+      "sub_id": "41231",
+      "scr_dup": "001",
+      "evalb_id": "G5",
+      "score_rate": 40,
+      "evalb_memo": "期末報告",
+      "evalb_memo_en": null,
+      "evalb_name": "書面報告",
+      "evalb_name_en": "Writing report",
+      "seq": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CS03139",
+      "sub_id": "41231",
+      "scr_dup": "001",
+      "evalb_id": "L4",
+      "score_rate": 20,
+      "evalb_memo": "點名",
+      "evalb_memo_en": null,
+      "evalb_name": "出席狀況",
+      "evalb_name_en": "Attendances",
+      "seq": 0
+    }
+  ],
+  "gradeRuleDescribe": {
+    "yms_year": 114.0,
+    "yms_smester": 1.0,
+    "cls_id": "CS03139",
+    "sub_id": "41231",
+    "scr_dup": "001",
+    "tpa_score_new": "<div>採用學期成績記分法、出席及缺席、課堂互動與參與討論、作業提交及遲交、考評及補考、作弊及抄襲、學期預警、或加分及補救措施等措施，作為本課程期望彼此能遵守的評分規則</div>\n",
+    "tpa_score_new_en": null,
+    "course_pol": "1. 本課程採每週第一堂口頭講述，第二堂分組討論(不限地點)的方式進行。\n2. 依上課型態之需求，如課堂禮儀、網路禮儀、或學生責任等規則，以及將課堂實體與網路虛擬空間參與情形，達到本課程期望彼此能遵守的課堂之注意禮節及行為。",
+    "course_pol_en": null,
+    "course_rem": "辨別邏輯與倫理。",
+    "course_rem_en": null,
+    "ais_meno": "<div>期望學生在學習評量、在班上互動、在課程結束後的表現等學術誠信的樣態可滿足本課程產學合作倫理之標準,並在實際學術及產業懷動中實踐。</div>\n",
+    "ais_meno_en": null,
+    "ilearn_mk": "N"
+  },
+  "integrity": {
+    "yms_year": 114.0,
+    "yms_smester": 1.0,
+    "cls_id": "CS03139",
+    "sub_id": "41231",
+    "scr_dup": "001",
+    "tpa_score_new": "<div>採用學期成績記分法、出席及缺席、課堂互動與參與討論、作業提交及遲交、考評及補考、作弊及抄襲、學期預警、或加分及補救措施等措施，作為本課程期望彼此能遵守的評分規則</div>\n",
+    "tpa_score_new_en": null,
+    "course_pol": "1. 本課程採每週第一堂口頭講述，第二堂分組討論(不限地點)的方式進行。\n2. 依上課型態之需求，如課堂禮儀、網路禮儀、或學生責任等規則，以及將課堂實體與網路虛擬空間參與情形，達到本課程期望彼此能遵守的課堂之注意禮節及行為。",
+    "course_pol_en": null,
+    "course_rem": "辨別邏輯與倫理。",
+    "course_rem_en": null,
+    "ais_meno": "<div>期望學生在學習評量、在班上互動、在課程結束後的表現等學術誠信的樣態可滿足本課程產學合作倫理之標準,並在實際學術及產業懷動中實踐。</div>\n",
+    "ais_meno_en": null,
+    "ilearn_mk": "N"
+  },
+  "policy": {
+    "yms_year": 114.0,
+    "yms_smester": 1.0,
+    "cls_id": "CS03139",
+    "sub_id": "41231",
+    "scr_dup": "001",
+    "tpa_score_new": "<div>採用學期成績記分法、出席及缺席、課堂互動與參與討論、作業提交及遲交、考評及補考、作弊及抄襲、學期預警、或加分及補救措施等措施，作為本課程期望彼此能遵守的評分規則</div>\n",
+    "tpa_score_new_en": null,
+    "course_pol": "1. 本課程採每週第一堂口頭講述，第二堂分組討論(不限地點)的方式進行。\n2. 依上課型態之需求，如課堂禮儀、網路禮儀、或學生責任等規則，以及將課堂實體與網路虛擬空間參與情形，達到本課程期望彼此能遵守的課堂之注意禮節及行為。",
+    "course_pol_en": null,
+    "course_rem": "辨別邏輯與倫理。",
+    "course_rem_en": null,
+    "ais_meno": "<div>期望學生在學習評量、在班上互動、在課程結束後的表現等學術誠信的樣態可滿足本課程產學合作倫理之標準,並在實際學術及產業懷動中實踐。</div>\n",
+    "ais_meno_en": null,
+    "ilearn_mk": "N"
+  },
+  "courseBankC": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CS03139",
+      "sub_id": "41231",
+      "scr_dup": "001",
+      "seq": 1,
+      "describe_ch": "說明工程師個人倫理與產業倫理",
+      "describe_en": "Engineer ethics and business ethics",
+      "core_id": "H",
+      "core_item": "理解及應用專業與資訊倫理，認知社會責任及尊重多元觀點。",
+      "core_eng": "Understand and apply professional and information ethics, recognize social responsibility and respect diverse perspectives.",
+      "core_level": "1 ",
+      "strgy": [
+        "10"
+      ],
+      "evalb": [
+        "L3"
+      ],
+      "strgy_name": [
+        "小組討論及活動"
+      ],
+      "strgy_name_en": [
+        "Group activity & discussion"
+      ],
+      "evalb_name": [
+        "課堂討論參與"
+      ],
+      "evalb_name_en": [
+        "Participation"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CS03139",
+          "sub_id": "41231",
+          "scr_dup": "001",
+          "seq": 1,
+          "strgy_id": "10",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CS03139",
+          "sub_id": "41231",
+          "scr_dup": "001",
+          "seq": 1,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "L3",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CS03139",
+      "sub_id": "41231",
+      "scr_dup": "001",
+      "seq": 2,
+      "describe_ch": "說明協調溝通的方法與技巧",
+      "describe_en": "Negotiation methods and communication skills",
+      "core_id": "E",
+      "core_item": "專案管理（含經費規劃）、有效溝通、領域整合與團隊合作的能力。",
+      "core_eng": "Capabilities of project management (including funding planning), effective communication, domain integration, and teamwork.",
+      "core_level": "3 ",
+      "strgy": [
+        "10"
+      ],
+      "evalb": [
+        "L3"
+      ],
+      "strgy_name": [
+        "小組討論及活動"
+      ],
+      "strgy_name_en": [
+        "Group activity & discussion"
+      ],
+      "evalb_name": [
+        "課堂討論參與"
+      ],
+      "evalb_name_en": [
+        "Participation"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CS03139",
+          "sub_id": "41231",
+          "scr_dup": "001",
+          "seq": 2,
+          "strgy_id": "10",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CS03139",
+          "sub_id": "41231",
+          "scr_dup": "001",
+          "seq": 2,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "L3",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CS03139",
+      "sub_id": "41231",
+      "scr_dup": "001",
+      "seq": 3,
+      "describe_ch": "說明智慧財產的法律與管理",
+      "describe_en": " Law and management of intellectual property",
+      "core_id": "H",
+      "core_item": "理解及應用專業與資訊倫理，認知社會責任及尊重多元觀點。",
+      "core_eng": "Understand and apply professional and information ethics, recognize social responsibility and respect diverse perspectives.",
+      "core_level": "1 ",
+      "strgy": [
+        "10"
+      ],
+      "evalb": [
+        "L3"
+      ],
+      "strgy_name": [
+        "小組討論及活動"
+      ],
+      "strgy_name_en": [
+        "Group activity & discussion"
+      ],
+      "evalb_name": [
+        "課堂討論參與"
+      ],
+      "evalb_name_en": [
+        "Participation"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CS03139",
+          "sub_id": "41231",
+          "scr_dup": "001",
+          "seq": 3,
+          "strgy_id": "10",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CS03139",
+          "sub_id": "41231",
+          "scr_dup": "001",
+          "seq": 3,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "L3",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    }
+  ],
+  "topicSdgs": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CS03139",
+      "sub_id": "41231",
+      "scr_dup": "001",
+      "sdgs_seq": 10,
+      "main_related": "N",
+      "ind_related": "Y",
+      "iss_name": "經濟成長面",
+      "iss_ename": "Economic Growth",
+      "content_name": "研發創新和建立工業建設",
+      "content_ename": "Industry, Innovation and Infrastructure"
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CS03139",
+      "sub_id": "41231",
+      "scr_dup": "001",
+      "sdgs_seq": 17,
+      "main_related": "Y",
+      "ind_related": "N",
+      "iss_name": "多元合作",
+      "iss_ename": "Cooperation",
+      "content_name": "建立全球夥伴關係",
+      "content_ename": "Partnerships for the Goals"
+    }
+  ],
+  "learnHours": {
+    "total": 61.0,
+    "tpdOnlineAsyTotal": 7.0,
+    "tpdOnlineSynTotal": 21.0,
+    "tpdOnlineFaceTotal": 33.0,
+    "asySynInTotalPercent": 45.90
+  },
+  "crossVerYear": 114
+}

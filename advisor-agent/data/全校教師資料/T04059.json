@@ -1,0 +1,740 @@
+{
+  "teacherId": "T04059",
+  "name": "彭信舒",
+  "mainUnit": "工程與科學學院",
+  "detailUnit": "機械與電腦輔助工程學系",
+  "skill": [
+    "塑膠產品設計、射出成型Plastic product design",
+    "模具設計Mold design",
+    "CAE分析CAE Analysis",
+    "工廠現場診斷與輔導Problems in diagnosis and counseling",
+    "射出成型 Injection molding"
+  ],
+  "edu": [
+    "中原大學 機械工程研究所 博士",
+    "中原大學 機械工程研究所 碩士",
+    "中華大學 機械工程學系 學士"
+  ],
+  "fcuExp": [
+    "精密機械產業發展中心 主任",
+    "機械與電腦輔助工程學系 系主任",
+    "智慧機械產業發展中心 推廣服務組組長",
+    "機械與航空工程博士學位學程 主任",
+    "逢甲大學帆宣智慧城市5G實驗室 研究員",
+    "機械與電腦輔助工程學系 助理教授",
+    "機械與電腦輔助工程學系 副教授",
+    "機械與電腦輔助工程學系 教授"
+  ],
+  "currjob": [],
+  "otherExp": [
+    "遠東科技大學 數位媒體設計與管理系 助理教授",
+    "遠東科技大學 電腦應用工程系 助理教授",
+    "中原大學 機械工程系 博士後研究人員",
+    "全立發機械廠 研發部 總經理特助",
+    "富驊企業 開發課 專案研究員"
+  ],
+  "journal": [
+    {
+      "論文名稱": "Study on the Flow, Foaming Characteristics and Structural Strength of Polypropylene Structural Foam Injection Molding by Innovative Nitrogen and Molten Plastic Mixing Mechanism",
+      "期刊名稱": "Polymers (SCIE)",
+      "作者群": "Po-Wei Huang, Hsin-Shu Peng*, Sheng-Jye Hwang, Chao-Tsai Huang"
+    },
+    {
+      "論文名稱": "Fabrication, property characterization, and benefit analysis of mixing mechanism of nitrogen and melt, and its comparison of the porous-foam polypropylene injection molding parts",
+      "期刊名稱": "Journal of Polymer Engineering (SCIE)",
+      "作者群": "Po-Wei Huang, Hsin-Shu Peng*"
+    },
+    {
+      "論文名稱": "Optimize Injection-Molding Process Parameters and Build an Adaptive Process Control System Based on Nozzle Pressure Profile and Clamping Force",
+      "期刊名稱": "Polymers (SCIE)",
+      "作者群": "Liou, Guan-Yan, Wei-Jie Su, Feng-Jung Cheng, Chen-Hsiang Chang, Ren-Ho Tseng, Sheng-Jye Hwang*, Hsin-Shu Peng, Hsiao-Yeh Chu"
+    },
+    {
+      "論文名稱": "Influence of Back Pressure and Geometry on Microstructure of Injection-molded Long-glass-fiber-reinforced Polypropylene Ribbed Plates",
+      "期刊名稱": "Polymer Testing (SCIE)",
+      "作者群": "Kuan-Hsun Wang, Ya-Tung Chen, Sheng-Jye Hwang*, Chao-Tsai Huang, Hsin-Shu Peng"
+    },
+    {
+      "論文名稱": "Correlation Between Fiber Orientation and Geometrical Shrinkage of Injected Parts Under the Influence of Flow‑Fiber Coupling Effect",
+      "期刊名稱": "International Journal of Precision Engineering and Manufacturing-Green Technology (SCIE)",
+      "作者群": "Chao‑Tsai Huang*, Jun‑Zheng Wang, Cheng‑Hong Lai, Sheng‑Jye Hwang, Po‑Wei Huang, Hsin-Shu Peng"
+    },
+    {
+      "論文名稱": "Injection Barrel/Nozzle/Mold-cavity Scientific Real-Time Sensing and Molding Quality Monitoring for Different Polymer-material Processes",
+      "期刊名稱": "Sensors (SCIE)",
+      "作者群": "Kai-Fu Liew, Hsin-Shu Peng*, Po-Wei Huang, Wei-Jie Su"
+    },
+    {
+      "論文名稱": "Optimization process parameters and adaptive quality monitoring injection molding process for materials with different viscosity",
+      "期刊名稱": "Polymer Testing (SCIE)",
+      "作者群": "Chi-Wei Su, Wei-Jie Su, Feng-Jung Chenga, Guan-Yan Liou, Sheng-Jye Hwang, Hsin-Shu Peng, Hsiao-Yeh Chu"
+    },
+    {
+      "論文名稱": "Development of an Online Quality Control System for Injection Molding Process",
+      "期刊名稱": "Journal of Polymers (Special Issue: Recent Advances in Polymer Rheology) (SCIE)",
+      "作者群": "Ming-Hong Tsai, Jia-Chen Fan-Jiang, Guan-Yan Liou, Feng-Jung Cheng, Sheng-Jye Hwang, Hsin-Shu Peng, Hsiao-Yeh Chu"
+    },
+    {
+      "論文名稱": "Fabrication and Property Characterization of Long-Glass-Fiber-Reinforced Polypropylene Composites Processed Using a Three-Barrel Injection Molding Machine",
+      "期刊名稱": "Journal of Polymers (Special Issue: Advanced Thermoplastic Polymers and Composites) (SCIE)",
+      "作者群": "Guan-Yan Liou, Chi-Wei Su, Po-Wei Huang, Sheng-Jye Hwang, Chao-Tsai Huang, Hsin-Shu Peng"
+    },
+    {
+      "論文名稱": "Number of Times Recycled and Its Effect on the Recyclability, Fluidity and Tensile Properties of Polypropylene Injection Molded Parts",
+      "期刊名稱": "Sustainability (SCIE)",
+      "作者群": "Po-Wei Huang, Hsin-Shu Peng"
+    },
+    {
+      "論文名稱": "The Low Breaking Fiber Mechanism and Its Effect on the Behavior of the Melt Flow of Injection Molded Ultra-Long Glass Fiber Reinforced Polypropylene Composites",
+      "期刊名稱": "Journals of Polymers (SCIE)",
+      "作者群": "Po-Wei Huang,Hsin-Shu Peng, Sheng-Jye Hwang, Chao-Tsai Huang"
+    },
+    {
+      "論文名稱": "Influence of Low-fracture-fiber Mechanism on Fiber/Melt-flow Behavior and Tensile Properties of Ultra-Long-Glass-Fiber-Reinforced Polypropylene Composites Injection Molding",
+      "期刊名稱": "JOURNAL OF POLYMER ENGINEERING (SCIE)",
+      "作者群": "Po-Wei Huang, Hsin-Shu Peng, Sheng-Jye Hwang, Chao-Tsai Huang"
+    },
+    {
+      "論文名稱": "Study of an Online Monitoring Adaptive System for an Injection Molding Process Based on a Nozzle Pressure Curve",
+      "期刊名稱": "Polymer (SCIE)",
+      "作者群": "Jia-Chen Fan-Jiang, Chi-Wei Su, Guan-Yan Liou, Sheng-Jye Hwang, Huei-Huang Lee, Hsin-Shu Peng, Hsiao-Yeh Chu"
+    },
+    {
+      "論文名稱": "Mold-Face Heating Mechanism, Overflow-Well Design, and Their Effect on Surface Weldline and Tensile Strength of Long-Glass-Fiber-Reinforced Polypropylene Injection Molding",
+      "期刊名稱": "POLYMERS (SCIE)",
+      "作者群": "Po-Wei Huang, Hsin-Shu Peng, Wei-Huang Choong"
+    },
+    {
+      "論文名稱": "A Real-time Clamping Force Measurement Eigenvalue for Prediction, Adjustment, and Control of Injection Product Quality",
+      "期刊名稱": "POLYMER ENGINEERING AND SCIENCE (SCIE)",
+      "作者群": "Wei-Jie Su, Hsin-Shu Peng"
+    },
+    {
+      "論文名稱": "Effect of Gas-assisted-foaming Mechanism and Vent-area Design on Bubble-microstructure and Shrinkage of Polystyrene Foam-Injection Molding",
+      "期刊名稱": "IEEE Eurasia Conference on IOT, Communication and Engineering (IEEE ECICE 2020) (EI)",
+      "作者群": "Po-Wei Huang, Hsin-Shu Peng, Yi-Yu Ke, Po-Chih Chen, Jun-Hao Mao"
+    },
+    {
+      "論文名稱": "Effects of High-Efficiency Infrared Heating on Fiber Compatibility and Weldline Tensile Properties of Injection-Molded Long-Glass-Fiber-Reinforced Polyamide-66 Composites",
+      "期刊名稱": "Journal of Polymer Engineering (SCIE)",
+      "作者群": "Po-Wei Huang, Hsin-Shu Peng"
+    },
+    {
+      "論文名稱": "Investigations of the Effects of Cavity-Surface Temperature and Fiber Compatible on Weldline Tensile Strength of Long Glass Fiber Reinforced PA66 Injection Molded Parts",
+      "期刊名稱": "IEEE Eurasia Conference on IOT, Communication and Engineering (EI)",
+      "作者群": "Wei-Huang Choong, Hsin-Shu Peng, Po-Wei Huang, Kai-Fu Liew, Wei-Jie Su"
+    },
+    {
+      "論文名稱": "Adaptive Process Control of the Changeover Point for Injection Molding Process",
+      "期刊名稱": "Journal of Low Frequency Noise Vibration and Active Control (SCIE)",
+      "作者群": "Yi-Sheng Chen, Kuo-Tsai Wu, Ming-Hong Tsai, Sheng-Jye Hwang, Huei-Huang Lee , Hsin-Shu Peng and Hsiao-Yeh Chu"
+    },
+    {
+      "論文名稱": "Study of the Effect of Process Parameters on Fiber Length, Fiber Orientation and Tensile Strength of Long Glass Fiber Reinforced Polypropylene Molding",
+      "期刊名稱": "SPE Tech. Papers (EI)",
+      "作者群": "Po-Wei Huang, Hsin-Shu Peng, Sheng-Jye Hwang, Chao-Tsai Huang, Po-Chih Chen, Yi-Yu Ke, Pei-Sheng Pan, Chih-Che Wu, Chun-I Tu"
+    },
+    {
+      "論文名稱": "Investigation on the Microstructures of Long Fiber and Their Influences on Warpage and Mechanical Property in Injection Reinforced Thermoplastics (FRT) Parts",
+      "期刊名稱": "SPE Tech. Papers (EI)",
+      "作者群": "Chao-Tsai Huang, Chia Hsu, Sheng-Jye Hwang, Hsin-Shu Peng, Chih-Che Wu, and Chun-I Tu"
+    },
+    {
+      "論文名稱": "Study on the Influences on Fiber Micro-Structure Variations and the Connection to Final Shrinkage/Warpage on Long Fiber Reinforced Thermoplastics (FRT) Parts",
+      "期刊名稱": "AIP Conference Proceedings (EI)",
+      "作者群": "Chao-Tsai Huang, Chia Hsu, Cherng-En Yeh, Yi-Sheng Chen, Sheng-Jye Hwang, Hsin-Shu Peng, Chih-Che Wu, Chun-I Tu"
+    },
+    {
+      "論文名稱": "Effects of Processing Parameters on Fiber Length Distribution and Tensile Strength of Long Glass Fiber Reinforced Nylon66 Composites Molded Parts",
+      "期刊名稱": "SPE Tech. Papers (EI)",
+      "作者群": "Po-Wei Huang, Hsin-Shu Peng, Sheng-Jye Hwang, Chao-Tsai Huang, Chih-Che Wu, Chun-I Tu"
+    },
+    {
+      "論文名稱": "Geometrical Effects on Fiber Micro-structure Variations and the Influences on Long Fiber Reinforced Thermoplastics (FRT) Parts",
+      "期刊名稱": "SPE Tech. Papers (EI)",
+      "作者群": "Chao-Tsai (CT) Huang, Chia Hsu, Yi-Sheng Chen, Sheng-Jye Hwang, Hsin-Shu Peng, Chih-Che Wu, Chun-I Tu"
+    },
+    {
+      "論文名稱": "Application of Overflow-Well Design and Mold-Surface Heating on Weldline Tensile Strength of Long Glass Fiber Reinforced PA66 Molded Parts",
+      "期刊名稱": "IEEE International Conference on Applied System Innovation (EI)",
+      "作者群": "Po-Wei Huang, Hsin-Shu Peng"
+    },
+    {
+      "論文名稱": "Investigation on the Establishment and Analyses of Conformal Cooling Channel Design for Blow Mold",
+      "期刊名稱": "IEEE International Conference on Applied System Innovation (EI)",
+      "作者群": "Kai-Fu Liew, Hsin-Shu Peng"
+    },
+    {
+      "論文名稱": "Study of CAE Predictive Analytics on Structure Design, Molding and Improved Strength of Plastic Injection Molded Parts",
+      "期刊名稱": "IEEE International Conference on Applied System Innovation (ECONLIT)",
+      "作者群": "Hsin-Shu Peng, Po-Wei Huang*, Kai-Fu Liew, Pai-Cheng Chien, Wei-Jie Su"
+    },
+    {
+      "論文名稱": "Application of Taguchi Method on Weldline Tensile Strength of Long Glass Fiber Reinforced Nylon66 Molded Parts",
+      "期刊名稱": "SPE Tech. Papers (ECONLIT)",
+      "作者群": "Po-Wei Huang, Hsin-Shu Peng*, Chao-Tsai Huang"
+    },
+    {
+      "論文名稱": "Application of Taguchi Method on Weldline Tensile Strength of Long Glass Fiber Reinforced Nylon66 Molded Parts",
+      "期刊名稱": "SPE Tech. Papers (EI)",
+      "作者群": "Po-Wei Huang, Hsin-Shu Peng, Chao-Tsai Huang"
+    },
+    {
+      "論文名稱": "Application of Taguchi Method on Weldline Strength of Nylon6 Nanocomposites Thin Wall In Mold Decoration Molded Parts",
+      "期刊名稱": "SPE Tech. Papers (ECONLIT)",
+      "作者群": "Peng, H. S., Su, P. L."
+    },
+    {
+      "論文名稱": "The Efficiency Evaluation for Fresnel Lens of Concentrating Solar Cell With Various Injection Molding Process.",
+      "期刊名稱": " SPE Tech. Papers, (ECONLIT)",
+      "作者群": "Chen, S. C., Hsu, W. Y., Huang, S. W., Peng, H. S"
+    },
+    {
+      "論文名稱": "Study of the Injection Molding Technology for the Non-circular Lens.",
+      "期刊名稱": "SPE Tech. Papers (ECONLIT)",
+      "作者群": "Lin, C. C., Shie, J. Y. and Peng, H. S."
+    },
+    {
+      "論文名稱": "The Efficiency Evaluation for Fresnel Lens of Concentrating Solar Cell With Various Injection Molding Process",
+      "期刊名稱": "SPE Tech. Papers (ECONLIT)",
+      "作者群": " Chen, S. C., Hsu, W. Y., Huang, S. W., Peng, H. S., 2012"
+    },
+    {
+      "論文名稱": "Study of the Injection Molding Technology for the Non-circular Lens",
+      "期刊名稱": "SPE Tech. Papers (ECONLIT)",
+      "作者群": "Lin, C. C., Shie, J. Y. and Peng, H. S."
+    },
+    {
+      "論文名稱": "Effects of Sputtering Power on Optical and Electrical Properties of Al-doped ZnO Thin Film on Flexible Substrates",
+      "期刊名稱": "Advanced Materials Research (AMR 2012) (ECONLIT)",
+      "作者群": "Po-Tsung Hsieh, Tse-Chang Li*, Chung-Jen Chung, Hsin-Shu Peng, Jen-Fin Lin"
+    },
+    {
+      "論文名稱": "Effects of Processing Parameters on Tensile Strength of Thin-Wall HDPE Parts Injection Molded by Ultra High Speed Process",
+      "期刊名稱": "Polymer-Plastics Technology and Engineering (SCIE)",
+      "作者群": "Chen, S. C., Li, H. M., Hsu, P. M. and Peng, H. S."
+    },
+    {
+      "論文名稱": "Study on Rheologival Behavior of Ultra High Speed Injection Molding",
+      "期刊名稱": "SPE Tech. Papers (ECONLIT)",
+      "作者群": "Chen, S. C., Winarko, A., Peng, H. S., Hsu, C. C., Chen, T. C, and Huang, C. T."
+    },
+    {
+      "論文名稱": "Application of Taguchi Method on Nylon6 Nanocomposites Thin Wall In Mold Decoration Molding",
+      "期刊名稱": "SPE Tech. Papers (ECONLIT)",
+      "作者群": "Peng, H. S., Su, P. L. and Chen, S. C."
+    },
+    {
+      "論文名稱": "Effects of Nylon6 Nanocomposites with Nanoclay Quantity on Part Moldability of In Mold Decoration Molding",
+      "期刊名稱": "SPE Tech. Papers (ECONLIT)",
+      "作者群": "Su, P. L., Peng, H. S. and Chen, S. C."
+    },
+    {
+      "論文名稱": "Gas-assisted Mold Surface Heating for Improving The Qualities of Injection Molded Parts",
+      "期刊名稱": "SPE Tech. Papers (ECONLIT)",
+      "作者群": "Chen, S. C., Chang, J. A., Peng, H. S. and Tsao, C. Y."
+    },
+    {
+      "論文名稱": "Effects of Molding Parameters on the Through-Plane Resistance of Injection Molded Composite Polymer Bipolar Plate",
+      "期刊名稱": "Journal of Polymer Engineering (SCIE)",
+      "作者群": "Chen, S. C., Cheng, C. K., Shih, M. Y., Lin, Y. C. and Peng, H. S."
+    },
+    {
+      "論文名稱": "Effect of Processing Conditions on Mechanical Properties of Ultra High Speed Injection Molded ABS Parts",
+      "期刊名稱": "SPE Tech. Papers (ECONLIT)",
+      "作者群": "Peng, H. S., Chen, S. C., Tseng, H. S., Hsu, Peming and Lin, Y. T."
+    },
+    {
+      "論文名稱": "Effects of Processing Conditions on Part Moldability of In Mold Decoration Nylon6 Nanocomposites Molding",
+      "期刊名稱": "SPE Tech. Papers (ECONLIT)",
+      "作者群": "Su, P. L. and Peng, H. S."
+    },
+    {
+      "論文名稱": "Application of Ultra High Speed Injection Molding to Secure Digital (SD) Card Housing",
+      "期刊名稱": "SPE Tech. Papers (ECONLIT)",
+      "作者群": "Su, P. L., Chen, S. C., Peng, H. S., Tseng, H. H. and Hsu, Peming"
+    },
+    {
+      "論文名稱": "Study of Processing Parameters on Part Warpage of In-Mold Roller Injection Molding",
+      "期刊名稱": "SPE Tech. Papers (ECONLIT)",
+      "作者群": "Chen, H. L., Chen, S. C., Hsu, Peming, Peng, H. S. and Wang, Y. C."
+    },
+    {
+      "論文名稱": "Dynamic Mold Temperature Control Using Gas-Assisted Heating and Its Effect on the Molding Replication Qualities of Micro Channels",
+      "期刊名稱": "ASME 2008 International Manufacturing Science and Engineering Conference (ECONLIT)",
+      "作者群": " Chen, S. C., Chang, Y. J., Chang, J. A., Peng, H. S. and Wang, Y. C."
+    },
+    {
+      "論文名稱": "Study on the Thermoforming of PC Films Used for In Mold Decoration",
+      "期刊名稱": "SPE Tech. Papers (ECONLIT)",
+      "作者群": " H. S. Peng, D. K. Huang, S. C. Chen , R.B. Yang, J. S. Huang"
+    },
+    {
+      "論文名稱": "Investigations on the Weldline Tensile Strength of thin-wall Injection Molded Parts",
+      "期刊名稱": "Journal of Reinforced Plastics & Composites (SCIE)",
+      "作者群": "Chien, R. D., Chen, S. C., Peng, H. S. and Su, P. L."
+    },
+    {
+      "論文名稱": "Simulations and Verifications of  Induction Heating On a Mold Plate",
+      "期刊名稱": "International Communications in Heat and Mass Transfer (SCIE)",
+      "作者群": " Chen S. C., Peng H. S., Chang J. A. and Jong W. R."
+    },
+    {
+      "論文名稱": "Rapid Mold Surface Heating/Cooling Using Electromagnetic Induction Technology",
+      "期刊名稱": "SPE Tech. Papers (ECONLIT)",
+      "作者群": "Shia-Chung Chen, Hsin-Shu Peng and Jen-Aen Chang"
+    },
+    {
+      "論文名稱": "Simulations on Structure Performance of 3C Thin-Wall Injection Molded Parts",
+      "期刊名稱": "Journal of Applied Polymer Science (SCIE)",
+      "作者群": "Chen, S. C., Wang, H. L., Chen, J. P. and Peng, H. S"
+    },
+    {
+      "論文名稱": "Characteristics of Mold Separation and Its Effect on Qualities of Thin-Wall Injection Molded Parts",
+      "期刊名稱": "Journal of Plastics, Rubber & Composites (SCIE)",
+      "作者群": "Chen, S. C., Liu, W. L., Peng, H. S., Huang, L. T. and Chang, Y. F"
+    },
+    {
+      "論文名稱": "Study of The Tensile Properties on Polycarbonate Thin-Wall Injection Molded Parts",
+      "期刊名稱": " Journal of Reinforced Plastics & Composites (SCIE)",
+      "作者群": "Chen, S. C., Peng, H. S., Huang, L. T. and Chang, M. S"
+    },
+    {
+      "論文名稱": "Simulation of Injection-Compression Molding Process, Part 3: Effect of Process Conditions on Part Birefringence",
+      "期刊名稱": "J. of Advances in Polymer Technology (SCIE)",
+      "作者群": " Chen, S. C., Chen, Y. C., Peng, H. S. and Huang, L. T"
+    },
+    {
+      "論文名稱": "Establishment of Valve Gate System for Sequential Injection Molding",
+      "期刊名稱": "SPE Tech. Papers (ECONLIT)",
+      "作者群": "Shia-Chung Chen, Hsin-Shu Peng, Ming-Shiu Chung and Lei-Ti Huang"
+    },
+    {
+      "論文名稱": "Thin-Wall Injection Molding",
+      "期刊名稱": "SPE Tech. Papers (ECONLIT)",
+      "作者群": "Chen, S. C., Peng, H. S., Huang, L. T., Chang, C. T., Wei, D. Y., and Ruo, R. C."
+    },
+    {
+      "論文名稱": "Structure Performance of Thin-Wall Injection Molded Parts",
+      "期刊名稱": "SPE Tech. Papers (ECONLIT)",
+      "作者群": "Chen, S. C., Peng, H. S., Jong, W. R., Chang, Y. P., Kang, Y., Huang, L. T. and Yang, L. K."
+    },
+    {
+      "論文名稱": "Simulation of Injection-Compression-Molding Process.Ⅱ. Influence of Process Characteristics on Part Shrinkage",
+      "期刊名稱": "J. of Applied Polymer Science (SCIE)",
+      "作者群": "Chen, S. C., Chen, Y. C. and Peng, H. S."
+    }
+  ],
+  "journal2": [],
+  "conference": [
+    {
+      "論文名稱": "探討聚丙烯材料經多次回收再射出及其對材料特性與拉伸趨勢之研究",
+      "會議名稱": "2022中華民國高分子學會年會",
+      "作者群": "王彥凱、李欽俊、張晨翔、黃柏維、彭信舒"
+    },
+    {
+      "論文名稱": "玻纖補強聚丙烯射出於不同模穴幾何之斷纖行為與其拉伸特性之研究",
+      "會議名稱": "2022中華民國高分子學會年會",
+      "作者群": "魏瑞伯、陳弘偉、吳典儒、黃柏維、彭信舒"
+    },
+    {
+      "論文名稱": "射出成型聚丙烯熔體壓力量測與計算黏度因子對其成品重量特性之研究",
+      "會議名稱": "2022中華民國高分子學會年會",
+      "作者群": "羅煒承、羅幸傑、黃柏維、蘇暐傑、彭信舒"
+    },
+    {
+      "論文名稱": "玻璃纖維補強聚丙烯射出模穴溢流區設計與其壁厚變化對成品縫合線拉伸強度影響之研究",
+      "會議名稱": "2021 模具暨應用產業技術論文發表會",
+      "作者群": "魏瑞伯、王彥凱、李欽俊、羅煒承、陳弘瑋、黃柏維、彭信舒"
+    },
+    {
+      "論文名稱": "CAE可預測分析應用於含纖發泡射出PP成型特性之研究",
+      "會議名稱": "中國機械工程學會第三十八屆全國學術研討會",
+      "作者群": "魏瑞伯、陳弘瑋、黃柏維、彭信舒、吳典儒"
+    },
+    {
+      "論文名稱": "機壁與模具受力量測及其對射出產品特性之影響",
+      "會議名稱": "中國機械工程學會第三十八屆全國學術研討會",
+      "作者群": "鍾侑妏、羅煒承、蘇暐傑、黃柏維、彭信舒"
+    },
+    {
+      "論文名稱": "應用GAIM技術探討PP與回收料對氣體穿透特性分析之研究",
+      "會議名稱": "中國機械工程學會第三十八屆全國學術研討會",
+      "作者群": "陳弘瑋、魏瑞伯、黃柏維、彭信舒、劉依婷、陳姵妤"
+    },
+    {
+      "論文名稱": "射出料管內壓力變化對成品製程特性與重量分析之研究",
+      "會議名稱": "中華民國力學學會第四十五屆全國力學會議 (CTAM 2021)",
+      "作者群": "陳弘瑋、黃柏維、洪丞岳、鍾瑋煌、彭信舒"
+    },
+    {
+      "論文名稱": "Clamping Force Measurement and Its Effect on Parts Thickness and Weight of Injection Molding",
+      "會議名稱": "Proceedings of 2021 International Conference on Mechatronic, Automobile, and Environment Engineering (ICMAEE 2021)",
+      "作者群": "You-Wen Chung, Hsin-Shu Peng, Wei-Jie Su, Po-Wei Huang, Hung-Wei Chen"
+    },
+    {
+      "論文名稱": "Application of Real-time Clamping Force Measurement System on Injection Molding Platen Deformation and Product Quality",
+      "會議名稱": "The 44rd National Conference on Theoretical and Applied Mechanics",
+      "作者群": "Wei-Jie Su, Hsin-Shu Peng, Zong Wei Ke, You-Wen Chung, Jun-Hao Mao"
+    },
+    {
+      "論文名稱": "PP塑料添加不同次料比例對塑件成型特性與拉伸強度之影響",
+      "會議名稱": "中國機械工程學會第37屆全國學術研討會",
+      "作者群": "柯宗偉、羅幸傑、蘇暐傑、鍾瑋煌、黃柏維、彭信舒"
+    },
+    {
+      "論文名稱": "Study of the On-Line Melt Pressure Measurement During Injection Molding Process and Part Weight Analysis",
+      "會議名稱": "Proceedings of 2020 International Conference on Mechatronic, Automobile, and Environment Engineering (ICMAEE 2020)",
+      "作者群": "Kai-Fu Liew, Hsin-Shu Peng, Wei-Huang Choong, Hung-Wei Chen, You-Wen Chung, Jun-Hao Mao"
+    },
+    {
+      "論文名稱": "Application of Vent-area Design on Foam Micro-structure and Shrinkage Variation of Gas-assisted-foaming Thermoplastic Injection Molding Parts",
+      "會議名稱": "IEEE Eurasia Conference on IOT, Communication and Engineering (IEEE ECICE 2020)",
+      "作者群": "Yi-Yu Ke, Hsin-Shu Peng, Po-Wei Huang, Po-Chih Chen, Jun-Hao Mao"
+    },
+    {
+      "論文名稱": "Characteristics of Low-breaking-fiber Mechanism and Its Effect on Fiber and Melt-flow Behavior of Injection-molded Ultra-long-glass-fiber-reinforced PP Composites",
+      "會議名稱": "The 3rd IEEE  International Conference on Knowledge Innovation and Invention (IEEE ICKII 2020)",
+      "作者群": "Kai-Fu Liew, Hsin-Shu Peng, Po-Wei Huang, Po-Chih Chen, Jun-Hao Mao"
+    },
+    {
+      "論文名稱": "射出料管內壓力CAE可預測分析與塑化特性對產品重量影響之研究",
+      "會議名稱": "中國機械工程學會第36屆全國學術研討會",
+      "作者群": "羅幸傑、陳柏智、王嘉彬、彭信舒、鍾瑋煌、黃柏維"
+    },
+    {
+      "論文名稱": "CAE可預測分析應用於異型水路設計對底模溫度場影響之研究",
+      "會議名稱": "中華民國力學學會第43屆全國力學會議",
+      "作者群": "羅幸傑、王嘉彬、陳柏智、彭信舒、劉開虎、黃柏維"
+    },
+    {
+      "論文名稱": "玻纖補強與澆口配置對金屬嵌件射出成型收縮特性之研究",
+      "會議名稱": "中華民國力學學會第43屆全國力學會議",
+      "作者群": "鍾侑妏、毛浚豪、呂胤憲、柯宗偉、黃柏維、彭信舒"
+    },
+    {
+      "論文名稱": "CAE可預測分析應用於纖維補強尼龍66滑塊檔板成型特性之研究",
+      "會議名稱": "中華民國力學學會第43屆全國力學會議",
+      "作者群": "陳柏智、羅幸傑、王嘉彬、彭信舒、蘇暐傑、黃柏維"
+    },
+    {
+      "論文名稱": "製程條件與回收次數對聚丙烯薄件射出成型流動特性之研究",
+      "會議名稱": "中華民國力學學會第43屆全國力學會議",
+      "作者群": "毛浚豪、鍾侑妏、呂胤憲、彭信舒、柯宗偉、黃柏維"
+    },
+    {
+      "論文名稱": "以機壁變形探討鎖模力對於產品品質影響之研究",
+      "會議名稱": "中華民國力學學會第43屆全國力學會議",
+      "作者群": "王嘉彬、羅幸傑、蘇暐傑、鍾瑋煌、劉開虎、彭信舒"
+    },
+    {
+      "論文名稱": "Application of 3D-Metal Powder Printing of the Conformal Cooling Channel Design and Establishment on Blow Mold",
+      "會議名稱": "The 43rd National Conference on Theoretical and Applied Mechanics",
+      "作者群": "Hsin-Shu Peng, Kai-Fu Liew, Te-Ming Jou, Chi-Chang Wang"
+    },
+    {
+      "論文名稱": "Effects of Molding and Plasticizing Parameters on Fiber Variation and Melt Flowability of Long Glass Fiber Reinforced PP Injection Molding",
+      "會議名稱": "The 43rd National Conference on Theoretical and Applied Mechanics",
+      "作者群": "Hsin-Shu Peng, Sheng-Jye Hwang, Chao-Tsai Huang, Po-Wei Huang, Pei-Chiun Sue"
+    },
+    {
+      "論文名稱": "紅外線加熱法應用於模面溫度對長玻纖補強尼龍66射出成型表面品質與纖維特性之研究",
+      "會議名稱": "中華民國高分子學會年會第43屆高分子學術研討會暨科技部108年度高分子學門成果發表會",
+      "作者群": "柯宗偉、陳柏智、鍾瑋煌、黃柏維、彭信舒"
+    },
+    {
+      "論文名稱": "Effects of Rapid Heating with Infrared of Cavity-Surface Temperature Variation on Weldline Tensile Strength of Long Glass Fiber Reinforced Nylon-66 Molded Parts",
+      "會議名稱": "IEEE Eurasia Conference on IOT, Communication and Engineering (IEEE ECICE 2019)",
+      "作者群": "Wei-Huang Choong, Hsin-Shu Peng, Po-Wei Huang, Po-Chih Chen, Kai-Fu Liew"
+    },
+    {
+      "論文名稱": "長纖維複合材料射出成型塑化參數與塑化特性對纖維長度變化與流動特性影響之研究",
+      "會議名稱": "台灣區模具工業同業公會第24屆模具暨應用產業技術論文發表會",
+      "作者群": "陳柏智、柯奕羽、柯宗偉、彭信舒、黃柏維、黃聖杰、黃招財、杜俊毅、許暐勳、蘇培鈞"
+    },
+    {
+      "論文名稱": "射出成型中長纖維微結構變化與其對翹曲和機械性質影響之研究",
+      "會議名稱": "台灣區模具工業同業公會第24屆模具暨應用產業技術論文發表會",
+      "作者群": "朱家豪、傅韋文、黃招財、黃聖杰、彭信舒、杜俊毅、許暐勳"
+    },
+    {
+      "論文名稱": "Study of the Impact of Mold-Surface Infrared Heating Method on Weldline Tensile Strength of Long Glass Fiber Reinforced PA66 Molding",
+      "會議名稱": "2019 International Conference on Mechatronic, Automobile, and Environment Engineering",
+      "作者群": "Hsin-Shu Peng, Po-Wei Huang, Po-Chih Chen, Zong-Wei Ke, Cadmus Yuan"
+    },
+    {
+      "論文名稱": "Study of the Effect of Process Conditions on Roundness and Structure Shrinking of Plastic 3D Printing Molded Parts by GOM Inspect Analysis",
+      "會議名稱": "2019 International Conference on Mechatronic, Automobile, and Environment Engineering",
+      "作者群": "Yin-Hsien Lu, Po-Wei Huang, Hsin-Shu Peng, Po-Chih Chen, Yi-Yu Ke"
+    },
+    {
+      "論文名稱": "螺桿設計/剪切特性對PP長纖維複合材料射出成型流動行為之影響",
+      "會議名稱": "中華民國高分子學會年會第42屆高分子學術研討會暨科技部107年度高分子學門成果發表會",
+      "作者群": "柯奕羽、陳柏智、彭裕康、黃柏維、彭信舒、黃聖杰"
+    },
+    {
+      "論文名稱": "熱塑性彈性體超高速射出成型流動特性與雙折射影響之研究",
+      "會議名稱": "中華民國高分子學會年會第42屆高分子學術研討會暨科技部107年度高分子學門成果發表會",
+      "作者群": "陳柏智、柯奕羽、王嘉彬、羅幸傑、黃柏維、彭信舒"
+    }
+  ],
+  "book": [],
+  "patent": [],
+  "most": [
+    {
+      "name": "創新氣輔式熱源機制結合可視化智能關鍵技術建置與應用於永續性中空輕量化產品成型特性研究計畫(2/3)(3/3)",
+      "schoolYear": "113"
+    },
+    {
+      "name": "(個別型)產學合作計畫－透氣式氣針設計結合氣輔式成型技術應用於低碳化與輕量化產品開發之研究",
+      "schoolYear": "112"
+    },
+    {
+      "name": "(廠配)元銘工業有限公司(個別型)產學合作計畫－透氣式氣針設計結合氣輔式成型技術應用於低碳化與輕量化產品開發之研究",
+      "schoolYear": "112"
+    },
+    {
+      "name": "創新氣輔式熱源機制結合可視化智能關鍵技術建置與應用於永續性中空輕量化產品成型特性研究計畫",
+      "schoolYear": "112"
+    },
+    {
+      "name": "智能化射出成型機嵌入式系統建置之研究",
+      "schoolYear": "111"
+    },
+    {
+      "name": "結構發泡/共射/氣輔/纖維補強輕量化製程整合應用於具循環經濟產品製程特性之研究(2/2)",
+      "schoolYear": "111"
+    },
+    {
+      "name": "基於射出歷程熔膠壓力結合類神經網路與應用於預測成品外觀特徵之研究",
+      "schoolYear": "111"
+    },
+    {
+      "name": "(個別型)產學合作計畫－射出監測暨科學視覺化技術開發與應用於多模穴產品品質特性之研究",
+      "schoolYear": "110"
+    },
+    {
+      "name": "(廠配)矽鑫精密科技有限公司(個別型)產學合作計畫－射出監測暨科學視覺化技術開發與應用於多模穴產品品質特性之研究",
+      "schoolYear": "110"
+    },
+    {
+      "name": "(企業培育)結構發泡/共射/氣輔/纖維補強輕量化製程整合應用於具循環經濟產品製程特性之研究",
+      "schoolYear": "110"
+    },
+    {
+      "name": "(企業培育廠配)結構發泡/共射/氣輔/纖維補強輕量化製程整合應用於具循環經濟產品製程特性之研究",
+      "schoolYear": "110"
+    },
+    {
+      "name": "結構發泡/共射/氣輔/纖維補強輕量化製程整合應用於具循環經濟產品製程特性之研究",
+      "schoolYear": "110"
+    },
+    {
+      "name": "氣體瞬間加熱設計與其溫度變化對氣體輔助射出成型氣體穿透特性及其對成品減重比之研究",
+      "schoolYear": "110"
+    },
+    {
+      "name": "製鞋智動化機電系統暨網宇虛實整合開發計畫－製鞋智動化機電系統暨網宇虛實整合開發計畫(3/3)",
+      "schoolYear": "109"
+    },
+    {
+      "name": "(個別型)產學合作計畫－創新氣體輔助溫升熱補償機構結合暫態分析與模具設計應用於3R產品射出成型特性與開發之研究",
+      "schoolYear": "109"
+    },
+    {
+      "name": "(企業培育)(個別型)產學合作計畫－創新氣體輔助溫升熱補償機構結合暫態分析與模具設計應用於3R產品射出成型特性與開發之研究",
+      "schoolYear": "109"
+    },
+    {
+      "name": "(企業培育廠配)(個別型)產學合作計畫－創新氣體輔助溫升熱補償機構結合暫態分析與模具設計應用於3R產品射出成型特性與開發之研究",
+      "schoolYear": "109"
+    },
+    {
+      "name": "(廠配)元銘工業有限公司(個別型)產學合作計畫－創新氣體輔助溫升熱補償機構結合暫態分析與模具設計應用於3R產品射出成型特性與開發之研究",
+      "schoolYear": "109"
+    },
+    {
+      "name": "射出成型單機智能化關鍵技術開發之研究",
+      "schoolYear": "109"
+    },
+    {
+      "name": "具氣壓調控暨氣泡生成之氣輔裝置應用於SEBS射出鞋子中底成型特性與輕量化分析",
+      "schoolYear": "109"
+    },
+    {
+      "name": "製鞋智動化機電系統暨網宇虛實整合開發計畫－製鞋智動化機電系統暨網宇虛實整合開發計畫(2/3)",
+      "schoolYear": "108"
+    },
+    {
+      "name": "(應用型)產學合作計畫－具智慧調控氣體壓力/溫度之氣輔裝置應用於輕量化射出產品成型特性之研究",
+      "schoolYear": "108"
+    },
+    {
+      "name": "(企業培育)(應用型)產學合作計畫－具智慧調控氣體壓力/溫度之氣輔裝置應用於輕量化射出產品成型特性之研究",
+      "schoolYear": "108"
+    },
+    {
+      "name": "(企業培育廠配)(應用型)產學合作計畫－具智慧調控氣體壓力/溫度之氣輔裝置應用於輕量化射出產品成型特性之研究",
+      "schoolYear": "108"
+    },
+    {
+      "name": "(廠配)鼎鋮奈米企業有限公司(應用型)產學合作計畫－具智慧調控氣體壓力/溫度之氣輔裝置應用於輕量化射出產品成型特性之研究",
+      "schoolYear": "108"
+    },
+    {
+      "name": "射出成型單機智能化關鍵技術開發之研究(II)(2/2)",
+      "schoolYear": "108"
+    },
+    {
+      "name": "以Microbubble建立射出熔膠含氣泡射出製程之輕量化鞋底成型模具設計、分析與應用",
+      "schoolYear": "108"
+    },
+    {
+      "name": "製鞋智動化機電系統暨網宇虛實整合開發計畫－製鞋智動化機電系統暨網宇虛實整合開發計畫(1/3)",
+      "schoolYear": "107"
+    },
+    {
+      "name": "(3/3)4i工程人才培育研究計畫–智慧機械跨領域工程人才培育與研究(跨領域工程教育人才培育與研究計畫)",
+      "schoolYear": "107"
+    },
+    {
+      "name": "(應用型)產學合作計畫－創新氣體輔助雙迴路機構結合模具設計應用於高彈性發泡射出產品開發與成型之研究",
+      "schoolYear": "107"
+    },
+    {
+      "name": "(廠配)元銘工業有限公司(應用型)產學合作計畫－創新氣體輔助雙迴路機構結合模具設計應用於高彈性發泡射出產品開發與成型之研究",
+      "schoolYear": "107"
+    },
+    {
+      "name": "射出成型單機智能化關鍵技術開發之研究(II)(1/2)",
+      "schoolYear": "107"
+    },
+    {
+      "name": "(2/3)4i工程人才培育研究計畫–智慧機械跨領域工程人才培育與研究(跨領域工程教育人才培育與研究計畫)",
+      "schoolYear": "106"
+    },
+    {
+      "name": "(應用型)產學合作計畫－創新冷卻設計與溫度可預測分析應用於非等向PET吹瓶產品模具開發與成型之研究",
+      "schoolYear": "106"
+    },
+    {
+      "name": "(廠配)金展精密科技工業股份有限公司(應用型)產學合作計畫－創新冷卻設計與溫度可預測分析應用於非等向PET吹瓶產品模具開發與成型之研究",
+      "schoolYear": "106"
+    },
+    {
+      "name": "(深耕)精密主軸於智慧型滾齒機之應用暨推廣(2/2)",
+      "schoolYear": "106"
+    },
+    {
+      "name": "動態模具加熱設計與即時感測系統應用於尼龍66/長玻璃纖維複合材料射出試片縫合線強度特性之研究",
+      "schoolYear": "106"
+    },
+    {
+      "name": "射出成型單機智能化關鍵技術開發之研究",
+      "schoolYear": "105"
+    },
+    {
+      "name": "106 年度國家實驗研究院「推動智慧製造關鍵技術之前瞻科技研發與應用」－「智慧機械聯網平台」專案第一階段- 智慧模具加工與射出成形產線數據網教育服務平台計畫",
+      "schoolYear": "105"
+    },
+    {
+      "name": "(1/3)4i工程人才培育研究計畫－智慧機械跨領域工程人才培育與研究(跨領域工程教育人才培育與研究計畫)",
+      "schoolYear": "105"
+    },
+    {
+      "name": "(應用型)產學合作計畫－可撓性微結構光情境擴增光學元件產品開發與成型之研究",
+      "schoolYear": "105"
+    },
+    {
+      "name": "(廠配)元銘工業有限公司(應用型)產學合作計畫－可撓性微結構光情境擴增光學元件產品開發與成型之研究",
+      "schoolYear": "105"
+    },
+    {
+      "name": "(深耕)精密主軸於智慧型滾齒機之應用暨推廣(1/2)",
+      "schoolYear": "105"
+    },
+    {
+      "name": "深耕工業基礎技術專案計畫-工具機精密主軸基礎技術推動與自動化量測平台之研發(2/2)",
+      "schoolYear": "104"
+    },
+    {
+      "name": "(應用型)產學合作計畫－創新異型水路設計與即時感測技術應用於PET吹瓶系統開發與成型之研究",
+      "schoolYear": "104"
+    },
+    {
+      "name": "(廠配)金展精密科技工業股份有限公司(應用型)產學合作計畫－創新異型水路設計與即時感測技術應用於PET吹瓶系統開發與成型之研究",
+      "schoolYear": "104"
+    },
+    {
+      "name": "(廠配)元銘工業有限公司(應用型)產學合作計畫－壓縮成型模具應用於液態矽橡膠微特徵結構產品成型特性之研究",
+      "schoolYear": "103"
+    },
+    {
+      "name": "(應用型)產學合作計畫－壓縮成型模具應用於液態矽橡膠微特徵結構產品成型特性之研究",
+      "schoolYear": "103"
+    }
+  ],
+  "tech": [],
+  "induAca": [
+    "「射出成型機鎖模系統預知診斷與智能化控制技術(IV)-虛實整合塑膠射出成型高質化系統建置」計畫 (2021-11 to 2023-03)",
+    "智慧製造跨域整合人才培育聯盟計畫 (2021-07 to 2022-01)",
+    "模組化氣輔成型CAE關鍵技術建置與研究(I)-氣體加熱機構開發 (2020-08 to 2021-07)",
+    "CNC車床整機AI熱補償 (2020-07 to 2022-06)",
+    "智慧機械之關鍵零組件生產技術整合與提升 (2020-06 to 2020-12)",
+    "射出成型機鎖模系統預知診斷與智能化控制技術(III)-射出成型機鎖模系統預知診斷與智能化控制 (2020-03 to 2021-07)",
+    "燒結爐燒結物溫度之預測技術 (2019-10 to 2020-04)",
+    "射出塑化單元關鍵技術人才培育計畫 (2019-10 to 2020-03)",
+    "應用CAE模擬技術於TPU鞋子中底射出模具設計與成型輔導計畫 (2019-06 to 2019-11)",
+    "精密氣體輔助創新氣溫調節系統與設計之可預測分析輔導計畫 (2019-06 to 2019-11)",
+    "CNC車床熱特性與智能決策技術 (2019-05 to 2021-04)",
+    "射出料管溫度/壓力即時量測應用於CAE模擬軟體開發與應用之研究 (2019-04 to 2020-03)",
+    "射出成型產品性能監測技術開發與應用 (2018-11 to 2019-04)",
+    "LVDT自動化撐模檢測系統結構設計可預測分析診斷輔導計畫(107年度學界協助中小企業科技關懷跨域整合計畫) (2018-05 to 2018-10)",
+    "具氣輔控制微發泡射出成型可預測分析儲料系統設計與成型輔導計畫(107年度學界協助中小企業科技關懷跨域整合計畫) (2018-05 to 2018-10)",
+    "106年度學界協助中小企業科技關懷跨域整合計畫 (2017-05 to 2017-12)",
+    "智能化吹平瓶成型CAE關鍵技術建置先期研究 (2017-04 to 2018-03)",
+    "智慧預測於Screw Plus射出螺桿實務分析計畫第一階段 (2016-09 to 2017-04)",
+    "智慧預測於模具組件之力學效應實務分析 (2016-08 to 2017-04)",
+    "AOI自動光學檢測系統設備結構設計可預測分析診斷輔導計畫 (2016-05 to 2016-10)",
+    "CLF新機研發諮詢顧問專案計畫 (2016-03 to 2017-02)",
+    "模具組件之力學效應分析 (2015-09 to 2016-04)",
+    "104年度學界協助中小企業科技關懷跨域整合計畫 (2015-01 to 2015-12)"
+  ],
+  "perform": [],
+  "reward": [
+    "113年度國科會補助大專校院研究獎勵 (113, 2024-11) - 逢甲大學",
+    "112年度國科會補助大專校院研究獎勵 (112, 2023-12) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "112學年度教學績優獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (111, 2022-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (111, 2022-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (111, 2022-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (111, 2022-11) - 逢甲大學",
+    "111年度國科會補助大專校院研究獎勵 (111, 2022-10) - 研究發展處",
+    "逢甲大學論文著作獎勵優良獎 (110, 2021-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (110, 2021-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (110, 2021-11) - 逢甲大學",
+    "110年度科技部補助大專校院研究獎勵 (110, 2021-10) - 產學合作處",
+    "109年度科技部補助大專校院研究獎勵 (109, 2020-10) - 逢甲大學",
+    "108學年度科技部補助大專校院研究獎勵 (108, 2019-09) - 逢甲大學",
+    "107學年度教學績優獎 (107, 2018-11) - 逢甲大學"
+  ],
+  "speech": [],
+  "material": [
+    "塑膠模具設計相關知識\t無\t彭信舒\t複合教材",
+    "真實三維模流分析技術與應用\t無\t彭信舒\t複合教材",
+    "射出成型模具與機構\t無\t彭信舒\t複合教材",
+    "模流分析實務(107學年度)\t無\t彭信舒\t複合教材",
+    "工程圖學\t無\t彭信舒\t複合教材",
+    "模流分析實務(108學年度)\t無\t彭信舒\t複合教材",
+    "射出成型實務(108學年度)\t無\t彭信舒\t複合教材",
+    "E化射出成型模具設計與製作\t無\t彭信舒\t複合教材",
+    "模流分析實務(109學年度)\t無\t彭信舒\t複合教材"
+  ],
+  "tal": []
+}

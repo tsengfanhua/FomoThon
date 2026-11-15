@@ -1,0 +1,222 @@
+{
+  "teacherId": "T04246",
+  "name": "李仁佑",
+  "mainUnit": "商學院",
+  "detailUnit": "統計學系",
+  "skill": [
+    "生物統計biostatistics",
+    "基因統計genetic statistics",
+    "時間序列分析time series analysis"
+  ],
+  "edu": [
+    "國立中央大學 統計學研究所 博士",
+    "逢甲大學 統計與精算研究所 碩士",
+    "私立新埔工商專科學校 機械科 五專"
+  ],
+  "fcuExp": [
+    "學生事務處 原住民輔導老師",
+    "統計學系 系主任",
+    "統計學系 助理教授",
+    "統計學系 副教授"
+  ],
+  "currjob": [],
+  "otherExp": [
+    "弘光科技大學 教學資源中心 博士後研究人員",
+    "台北醫學大學 生物統計中心 博士後研究人員",
+    "中國醫藥大學 生物統計中心 博士後研究人員"
+  ],
+  "journal": [
+    {
+      "論文名稱": "Prevalence and Risk Analysis of Cerebral Palsy and Other Neuro-Psychological Comorbidities in Children with Low Birth Weight in Taiwan: A Nationwide Population-Based Cohort Study",
+      "期刊名稱": "journal of clinical medicine (SCIE)",
+      "作者群": "Fan, H.-C.; Chang, Y.-M.; Lee, J.-Y.; Wang, D.-S.; Chen, C.-M.; Hu, S.-W.; Chiang, K.-L*.; Kuo, F.-C*."
+    },
+    {
+      "論文名稱": "Survival Analysis as a Basis for Testing Hypotheses when Using Quantitative Ordinal Scale Disease Severity Data",
+      "期刊名稱": "Phytopathology (SCIE)",
+      "作者群": "K.S. Chiang*, Y.M. Chang, H.I. Liu, J.Y. Lee, M.El Jarroudi, and C.H. Bock"
+    },
+    {
+      "論文名稱": "A comparison of bootstrap approaches for homogeneity test based on dichotomous outcome in meta-analysis",
+      "期刊名稱": "COMMUNICATIONS IN STATISTICS - SIMULATION AND COMPUTATION (SCIE)",
+      "作者群": "J.Y. Lee*, P.S. Shen & K.F. Cheng"
+    },
+    {
+      "論文名稱": "An asymmetric impact analysis of the exchange rate volatility on commodity trade between the U.S. and China",
+      "期刊名稱": "International Review of Economics and Finance (SSCI)",
+      "作者群": "Chien-Hui Lee, Shu-Hui Li, Jen-Yu Lee*"
+    },
+    {
+      "論文名稱": "Examining the Asymmetric Effects of Third Country Exchange Rate Volatility on Trade between the US and the EU",
+      "期刊名稱": "Journal of Risk and Financial Management (ESCI(Journal Citation)",
+      "作者群": "Chien-Hui Lee, Shu-Hui Li, Jen-Yu Lee*"
+    },
+    {
+      "論文名稱": "A robust association test with multiple genetic variants and covariates",
+      "期刊名稱": "Statistical Applications in Genetics and Molecular Biology (SCIE)",
+      "作者群": "Jen-Yu Lee*, Pao-Sheng Shen and Kuang-Fu Cheng"
+    },
+    {
+      "論文名稱": "Towards Predictive Crude Oil Purchase: A Case Study in the USA and Europe",
+      "期刊名稱": "Energies (SCIE)",
+      "作者群": "Jen-Yu Lee, Tien-Thinh Nguyen*, Hong-Giang Nguyen* and Jen-Yao Lee"
+    },
+    {
+      "論文名稱": "Effect of weather, air pollution, and seasonality on the number of patient visits for epileptic seizures: A population-based time-series study",
+      "期刊名稱": "Epilepsy & Behavior (SCIE)",
+      "作者群": "K.L. Chiang*, J.Y. Lee, Y.M. Chang, F.C. Kuo, and C.Y. Huang"
+    },
+    {
+      "論文名稱": "Association of epilepsy and asthma: a population-based retrospective cohort study.",
+      "期刊名稱": "PeerJ (SCIE)",
+      "作者群": "K.L. Chiang​​*, F.C. Kuo, J.Y. Lee, and C.Y. Huang"
+    },
+    {
+      "論文名稱": "Detecting disease association signals with multiple genetic variants and covariates",
+      "期刊名稱": "Statistical Methods in Medical Research. (SCIE)",
+      "作者群": "K.F. Cheng* and J.Y. Lee"
+    },
+    {
+      "論文名稱": "A Model-Free Test for Detecting Disease Association Signals with Multiple Genetic Variants and Covariates",
+      "期刊名稱": "Statistical Methods in Medical Research (SCIE)",
+      "作者群": "J.Y. Lee, C.Y. Chen, and K.F. Cheng*"
+    },
+    {
+      "論文名稱": "Confidence bands for the difference between two median survival times as a function of covariates",
+      "期刊名稱": "Lifetime Data Analysis (SCIE)",
+      "作者群": "Y.I. Chen*, Chang, Y.M. and Lee, J.Y."
+    },
+    {
+      "論文名稱": "A Powerful and Robust Test in Genetic Association Studies",
+      "期刊名稱": "Human Heredity (SCIE)",
+      "作者群": "K.F. Cheng* and J.Y. Lee"
+    },
+    {
+      "論文名稱": "A Powerful Association Test of Multiple Genetic Variants Using a Random-Effects Model",
+      "期刊名稱": "Statistics in Medicine ()",
+      "作者群": "K.F. Cheng*, J.Y. Lee, W. Zheng, and C. Li"
+    },
+    {
+      "論文名稱": "Assessing the joint effect of population stratification and sample selection in studies of gene-gene (environment) interactions",
+      "期刊名稱": "BMC genetics (SCIE)",
+      "作者群": "K.F. Cheng* and J.Y. Lee"
+    },
+    {
+      "論文名稱": "study the joint effects of population stratification and sampling in case-control association studies",
+      "期刊名稱": "Human Heredity (SCIE)",
+      "作者群": "K.F. Cheng*, J.Y. Lee, J.H. Chen"
+    },
+    {
+      "論文名稱": "An Empirical Evaluation of Fat-tailed Distributions in Modeling Financial Time Series",
+      "期刊名稱": "Mathematics and Computers in Simulation (SCIE)",
+      "作者群": "Cathy W.S. Chen*, Mike K. P. So, J.Y. Lee, Yi-Ping Chang"
+    },
+    {
+      "論文名稱": "Quarantine for SARS, Taiwan",
+      "期刊名稱": "Emerging Infectious Diseases (SCIE)",
+      "作者群": "Ying-Hen Hsieh*, Chwan-Chuan King, Cathy W. S. Chen, Mei-Shang Ho, Jen-Yu Lee, Feng-Chi Liu, Yi-Chun Wu, and Jiunn-Shyan Julian Wu"
+    },
+    {
+      "論文名稱": "SARS Epidemiology Modeling",
+      "期刊名稱": "Emerging Infectious Diseases (SCIE)",
+      "作者群": "Ying-Hen Hsieh*, Jen-Yu Lee and Hsiao-Ling Chang"
+    }
+  ],
+  "journal2": [],
+  "conference": [
+    {
+      "論文名稱": "A Robust Association Test with Multiple Genetic Variants and Covariates",
+      "會議名稱": "The sixth international symposium on biopharmaceutical statistics",
+      "作者群": "J. Y. Lee* and K. F. Cheng"
+    },
+    {
+      "論文名稱": "Bootstrap P-values for Homogeneity Tests in Meta-Analysis",
+      "會議名稱": "2018 International Conference on Robust Statistics",
+      "作者群": "J.Y. Lee*, J.H. Chen, K.F. Cheng"
+    },
+    {
+      "論文名稱": "An adaptive robust test in detecting genetic association using a Random-Effects Model",
+      "會議名稱": "2017 Joint Conference on Biometrics & Biopharmaceutical Statistics",
+      "作者群": "J.Y. Lee"
+    },
+    {
+      "論文名稱": "A Model-Free Method for Detecting Disease Association Signals with Multiple Genetic Variants and Covariates",
+      "會議名稱": "2016 Joint Statistical Meetings",
+      "作者群": "J.Y. Lee"
+    }
+  ],
+  "book": [],
+  "patent": [],
+  "most": [
+    {
+      "name": "具共變量邏輯斯模式下穩健偵測多基因與疾病關聯性方法",
+      "schoolYear": "111"
+    },
+    {
+      "name": "利用拔靴法建構整合分析中異質變異數的信賴區間",
+      "schoolYear": "108"
+    },
+    {
+      "name": "應用於整合分析之穩健基因-疾病關聯性檢測方法",
+      "schoolYear": "107"
+    },
+    {
+      "name": "適用於整合分析之疾病與多重基因座關聯性檢測",
+      "schoolYear": "106"
+    },
+    {
+      "name": "適應性兩階段基因關聯性檢定",
+      "schoolYear": "105"
+    }
+  ],
+  "tech": [],
+  "induAca": [],
+  "perform": [],
+  "reward": [
+    "逢甲大學論文著作獎勵優等獎 (113, 2024-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優等獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優等獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優等獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (111, 2022-11) - 逢甲大學",
+    "第一屆航港大數據創意應用競賽 社會組 佳作 (110, 2021-11) - 交通部航港局",
+    "逢甲大學論文著作獎勵傑出獎 (108, 2019-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (106, 2017-11) - 逢甲大學",
+    "統計學應用競賽 佳作 (104, 2016-06) - 逢甲大學商學院/金融學院"
+  ],
+  "speech": [
+    {
+      "演講題目": "A brief introduction of statistical methods in research",
+      "邀請單位": "光田醫院",
+      "演講日期": "2024-07"
+    },
+    {
+      "演講題目": "A brief introduction of statistical modeling(method) in research",
+      "邀請單位": "僑光科技大學EMBA",
+      "演講日期": "2022-11"
+    },
+    {
+      "演講題目": "Exploring the COVID-19 Impact on Export Container Throughput in the Port of Keelung: Three Forecasting Models Comparisons",
+      "邀請單位": "東海大學統計系",
+      "演講日期": "2021-11"
+    },
+    {
+      "演講題目": "A brief introduction of statistical modeling in biomedical research",
+      "邀請單位": "逢甲大學生醫所",
+      "演講日期": "2018-04"
+    },
+    {
+      "演講題目": "A Model-Free Test for Detecting Disease Association Signals with Multiple Genetic Variants and Covariates",
+      "邀請單位": "國立中正大學數學系",
+      "演講日期": "2017-01"
+    }
+  ],
+  "material": [
+    "同學的平均用餐費用?\t逢甲大學商管教育創新中心\t高秀蘭、王婉倫、李仁佑\tPBL教案",
+    "問題導向學習教案：防盜系統是否有用?\t逢甲大學商管教育創新中心\t李仁佑、魏裕中、張育瑋\tPBL教案",
+    "哪種生產方式較佳?—指數分配之應用\t逢甲大學商管教育創新中心\t劉峰旗，張育瑋，魏裕中，李仁佑\tPBL教案",
+    "二十年的小學生\t逢甲大學商管教育創新中心\t劉峰旗、李仁佑、魏裕中、張育瑋\tPBL教案",
+    "福爾摩斯的新助手\t逢甲大學商管教育創新中心\t張育瑋、魏裕中、李仁佑、劉峰旗\tPBL教案"
+  ],
+  "tal": []
+}

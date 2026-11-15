@@ -1,0 +1,990 @@
+{
+  "success": true,
+  "info": {
+    "yms_year": 114.0,
+    "yms_smester": 1.0,
+    "sub_id": "48560",
+    "cls_id": "CE08112",
+    "scr_dup": "001",
+    "sub_id3": "PHYS1007",
+    "cls_name": "化工一乙",
+    "cls_ename": "Department of Chemical Engineering",
+    "sub_name": "普通物理(一)",
+    "sub_ename": "GENERAL PHYSICS (1)",
+    "scr_mso": "必修",
+    "scr_mso_en": "Required",
+    "scr_credit": 2.0,
+    "scr_periodly": "(四)01-02",
+    "scr_periodly_eng": "(Thu)01-02",
+    "lang_name": "中文                                                      ",
+    "lang_ename": "Chinese",
+    "scr_room": "學415",
+    "scr_room_eng": "XSB415",
+    "scr_teacher": "洪耀正",
+    "scr_teacher_eng": "Yao-Chen Hung",
+    "scr_selcode": "1462",
+    "scr_elearning": "全學期",
+    "scr_elearning_en": "Full semester",
+    "scr_hours": "2",
+    "scr_english": "N",
+    "unt_name": null,
+    "unt_ename": null,
+    "link_traminal": null,
+    "link_traminal_en": null,
+    "scr_ldl": "D",
+    "course_mk": "N",
+    "teams_mk": "N",
+    "sub_title": null,
+    "sub_title_en": null,
+    "sub_describe": null,
+    "sub_describe_en": null,
+    "hasDescription": null,
+    "hasInstructor": null,
+    "hasTA": null,
+    "hasTextBooks": null,
+    "hasReadings": null,
+    "hasiSoftwares": null,
+    "hasAssistSoftwares": null,
+    "hasObjective": null,
+    "hasWeeklyScds": null,
+    "hasGradeRules": null,
+    "hasGradeRuleDescribe": null,
+    "hasIntegrity": null,
+    "hasCoursePol": null,
+    "hasCourseRem": null,
+    "hasObjectiveReleation": null,
+    "hasTopicSdgs": null,
+    "hasSubTitleDesc": null
+  },
+  "subTitleDesc": null,
+  "description": {
+    "sub_id3": null,
+    "sub_name": "普通物理(一)",
+    "sub_ename": "GENERAL PHYSICS(1)",
+    "describe_ch": "普通物理學(一)將系統地介紹基礎物理學課題，包括牛頓力學、波動力學、熱力學。本課程的目標是教授學生作為科學基礎的基礎物理的核心知識。本課程以教師課堂講授為主，逐步推導和講解理論，配合課堂視聽資料。",
+    "describe_eh": "General physics (1) will systematically introduce the fundamental physics topics, including Newtonian mechanics, wave dynamics, thermodynamics. The goal of this course is to teach students the core knowledge of basic physics as the basis of science. This course is mainly based on teachers’ classroom lectures, gradually deriving and explaining theories, and matching audio-visual materials in the classroom.",
+    "pre_subname": "",
+    "pre_sub_id3": null,
+    "pre_sub_ename": "",
+    "pre_describe": null,
+    "pre_describe_en": null,
+    "scr_credit": 2.0
+  },
+  "targets": [
+    {
+      "seq": 1,
+      "describe_ch": "瞭解並能應用基本運動定律運動定律",
+      "describe_en": "Understand and be able to apply the laws of motion"
+    },
+    {
+      "seq": 2,
+      "describe_ch": "瞭解能量的意義並可應用於力學問題",
+      "describe_en": "Understand the concept of energy and be able to solve mechanical problems in terms of energy"
+    },
+    {
+      "seq": 3,
+      "describe_ch": "熟悉基本之轉動、振動及波動相關物理",
+      "describe_en": "Be familiar with the basic physics of rotation, oscillation, and waves"
+    },
+    {
+      "seq": 4,
+      "describe_ch": "瞭解並能應用基本熱力學定律",
+      "describe_en": "Understand and be able to apply the laws of thermodynamics"
+    },
+    {
+      "seq": 5,
+      "describe_ch": "瞭解基本熱力學定律",
+      "describe_en": "Understand laws of thermodynamics"
+    }
+  ],
+  "teachersInfo": [
+    {
+      "cname": "洪耀正",
+      "ename": "Yao-Chen Hung",
+      "period": "(Wed)03-04 人社226,(Thu)03-04 人社226,(Fri)03-04 人社226",
+      "roletype": 0,
+      "email": "hungyc@o365.fcu.edu.tw",
+      "ext": "5756"
+    }
+  ],
+  "textBooks": {
+    "yms_year": 114.0,
+    "yms_smester": 1.0,
+    "cls_id": "CE08112",
+    "sub_id": "48560",
+    "scr_dup": "001",
+    "tpb_seq": 1,
+    "tpb_book": "<div>\n<div>University Physics with Modern Physics Fourteenth 第十四版</div>\n\n<div>作者：Hugh D.Young &bull; Roger A.Freedman&nbsp;</div>\n</div>\n",
+    "tpb_book_en": null
+  },
+  "readings": {
+    "yms_year": 114.0,
+    "yms_smester": 1.0,
+    "cls_id": "CE08112",
+    "sub_id": "48560",
+    "scr_dup": "001",
+    "tpc_seq": 1,
+    "tpc_book": "<div>\n<div>書籍封面參考如下：https://shopee.tw/%E4%BA%8C%E6%89%8B-Pearson%E6%99%AE%E9%80%9A%E7%89%A9%E7%90%86University-Physics-Volume-One-Two-14th-Edition-i.11364876.7355182303</div>\n\n<div>&nbsp;</div>\n\n<div>建議同學可購買二手書籍</div>\n</div>\n",
+    "tpc_book_en": null
+  },
+  "iSoftwares": [],
+  "assistSoftwares": [],
+  "weeklyScds": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CE08112",
+      "sub_id": "48560",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "1– 5",
+      "tpd_reading": "<div>物理基礎與運動學&nbsp;</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": " ",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CE08112",
+      "sub_id": "48560",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "6-8",
+      "tpd_reading": "<div>牛頓動力學</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": " ",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CE08112",
+      "sub_id": "48560",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "9",
+      "tpd_reading": "<div>期中考</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": " ",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CE08112",
+      "sub_id": "48560",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "10-13",
+      "tpd_reading": "<div>功與能</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": " ",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CE08112",
+      "sub_id": "48560",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "14-16",
+      "tpd_reading": "<div>轉動力學</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": " ",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CE08112",
+      "sub_id": "48560",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "16-17",
+      "tpd_reading": "<div>流體力學</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": " ",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CE08112",
+      "sub_id": "48560",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "18",
+      "tpd_reading": "<div>期末考</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": " ",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    }
+  ],
+  "gradeRules": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CE08112",
+      "sub_id": "48560",
+      "scr_dup": "001",
+      "evalb_id": "D1",
+      "score_rate": 40,
+      "evalb_memo": "應參加考試之學生，未遵守請假或請假未經核准，而未參加考試者，該科該次考試成績以零分計算。",
+      "evalb_memo_en": null,
+      "evalb_name": "期中考",
+      "evalb_name_en": "Midterm examination",
+      "seq": 1
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CE08112",
+      "sub_id": "48560",
+      "scr_dup": "001",
+      "evalb_id": "D2",
+      "score_rate": 40,
+      "evalb_memo": "應參加考試之學生，未遵守請假或請假未經核准，而未參加考試者，該科該次考試成績以零分計算。",
+      "evalb_memo_en": null,
+      "evalb_name": "期末考",
+      "evalb_name_en": "Final examination",
+      "seq": 2
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CE08112",
+      "sub_id": "48560",
+      "scr_dup": "001",
+      "evalb_id": "G5",
+      "score_rate": 10,
+      "evalb_memo": "檢查上課筆記，根據完成度給予10分、5分或0分。",
+      "evalb_memo_en": null,
+      "evalb_name": "書面報告",
+      "evalb_name_en": "Writing report",
+      "seq": 3
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CE08112",
+      "sub_id": "48560",
+      "scr_dup": "001",
+      "evalb_id": "L2",
+      "score_rate": 10,
+      "evalb_memo": "登記為曠課者，曠課一次扣總成績1分。",
+      "evalb_memo_en": null,
+      "evalb_name": "點名",
+      "evalb_name_en": "Roll call",
+      "seq": 4
+    }
+  ],
+  "gradeRuleDescribe": {
+    "yms_year": 114.0,
+    "yms_smester": 1.0,
+    "cls_id": "CE08112",
+    "sub_id": "48560",
+    "scr_dup": "001",
+    "tpa_score_new": "<ol>\n\t<li>加分及補救措施<br />\n\t如果您發現學期出現困難時，如跟不上學習進度、聽不懂、或作業有問題等，請您儘早與老師聯繫，以便幫助您找到解決方案。</li>\n\t<li>學期預警\n\t<ul>\n\t\t<li>當我發現您的學習進度跟不上、可能會妨礙學業成功之疑慮時，我可能會發出預警訊息給您、及您的學習導師。如果您收到預警通知，則您有責任盡快與我聯繫，討論學習上問題，將透過諮詢方式，給予您可能的協助。</li>\n\t\t<li>另一方面，您也可以多多與您的學習導師聯繫及諮詢，與您面談，一起找尋您的學習障礙點，給予建議改善學習的方案。</li>\n\t</ul>\n\t</li>\n</ol>\n",
+    "tpa_score_new_en": null,
+    "course_pol": "1. 學生應準時出席上課。如果您的上課時間，無法按時到課，將有極高機率被當。 除非您生病或有緊急情況，否則應在上課前，要準時到達教室，並坐在位子上。如果您有某種原因必須提早下課，請提前告知我。\n2. 所有學生在課堂上都應尊重每個人，並且在任何時候都應以合理、負責和禮貌的態度行事。\n3. 上課時請勿講話、閱讀、睡覺或做其他非本課程相關作業。\n4. 允許使用筆記型電腦或平板等載具，進行課堂記筆記，否則應將其收起。\n5. 要確保在上課時，關閉手機、PDA等移動設備，並收起及保持靜音。 \n6. 不得戴耳機上課。",
+    "course_pol_en": null,
+    "course_rem": null,
+    "course_rem_en": null,
+    "ais_meno": "<div>學習必須以誠信為基礎，任何學生企圖將自己未製作的作品，作為自己的作品，此行為是為不誠實行為。在作業、測驗或考試中作弊或抄襲的學生或協助他人的行為，該次成績以零分計，若是累犯，將依逢甲大學學生獎懲辦法提送。\n<ul>\n\t<li>考核時如果您抄襲他人的答案、或交作業時您交出全部或部分由他人撰寫的論文或作業，則被視為作弊。&nbsp;</li>\n\t<li>考核時如果您抄襲他人的答案、或交作業時您交出全部或部分由他人撰寫的論文或作業，則被視為作弊。</li>\n</ul>\n</div>\n",
+    "ais_meno_en": null,
+    "ilearn_mk": "N"
+  },
+  "integrity": {
+    "yms_year": 114.0,
+    "yms_smester": 1.0,
+    "cls_id": "CE08112",
+    "sub_id": "48560",
+    "scr_dup": "001",
+    "tpa_score_new": "<ol>\n\t<li>加分及補救措施<br />\n\t如果您發現學期出現困難時，如跟不上學習進度、聽不懂、或作業有問題等，請您儘早與老師聯繫，以便幫助您找到解決方案。</li>\n\t<li>學期預警\n\t<ul>\n\t\t<li>當我發現您的學習進度跟不上、可能會妨礙學業成功之疑慮時，我可能會發出預警訊息給您、及您的學習導師。如果您收到預警通知，則您有責任盡快與我聯繫，討論學習上問題，將透過諮詢方式，給予您可能的協助。</li>\n\t\t<li>另一方面，您也可以多多與您的學習導師聯繫及諮詢，與您面談，一起找尋您的學習障礙點，給予建議改善學習的方案。</li>\n\t</ul>\n\t</li>\n</ol>\n",
+    "tpa_score_new_en": null,
+    "course_pol": "1. 學生應準時出席上課。如果您的上課時間，無法按時到課，將有極高機率被當。 除非您生病或有緊急情況，否則應在上課前，要準時到達教室，並坐在位子上。如果您有某種原因必須提早下課，請提前告知我。\n2. 所有學生在課堂上都應尊重每個人，並且在任何時候都應以合理、負責和禮貌的態度行事。\n3. 上課時請勿講話、閱讀、睡覺或做其他非本課程相關作業。\n4. 允許使用筆記型電腦或平板等載具，進行課堂記筆記，否則應將其收起。\n5. 要確保在上課時，關閉手機、PDA等移動設備，並收起及保持靜音。 \n6. 不得戴耳機上課。",
+    "course_pol_en": null,
+    "course_rem": null,
+    "course_rem_en": null,
+    "ais_meno": "<div>學習必須以誠信為基礎，任何學生企圖將自己未製作的作品，作為自己的作品，此行為是為不誠實行為。在作業、測驗或考試中作弊或抄襲的學生或協助他人的行為，該次成績以零分計，若是累犯，將依逢甲大學學生獎懲辦法提送。\n<ul>\n\t<li>考核時如果您抄襲他人的答案、或交作業時您交出全部或部分由他人撰寫的論文或作業，則被視為作弊。&nbsp;</li>\n\t<li>考核時如果您抄襲他人的答案、或交作業時您交出全部或部分由他人撰寫的論文或作業，則被視為作弊。</li>\n</ul>\n</div>\n",
+    "ais_meno_en": null,
+    "ilearn_mk": "N"
+  },
+  "policy": {
+    "yms_year": 114.0,
+    "yms_smester": 1.0,
+    "cls_id": "CE08112",
+    "sub_id": "48560",
+    "scr_dup": "001",
+    "tpa_score_new": "<ol>\n\t<li>加分及補救措施<br />\n\t如果您發現學期出現困難時，如跟不上學習進度、聽不懂、或作業有問題等，請您儘早與老師聯繫，以便幫助您找到解決方案。</li>\n\t<li>學期預警\n\t<ul>\n\t\t<li>當我發現您的學習進度跟不上、可能會妨礙學業成功之疑慮時，我可能會發出預警訊息給您、及您的學習導師。如果您收到預警通知，則您有責任盡快與我聯繫，討論學習上問題，將透過諮詢方式，給予您可能的協助。</li>\n\t\t<li>另一方面，您也可以多多與您的學習導師聯繫及諮詢，與您面談，一起找尋您的學習障礙點，給予建議改善學習的方案。</li>\n\t</ul>\n\t</li>\n</ol>\n",
+    "tpa_score_new_en": null,
+    "course_pol": "1. 學生應準時出席上課。如果您的上課時間，無法按時到課，將有極高機率被當。 除非您生病或有緊急情況，否則應在上課前，要準時到達教室，並坐在位子上。如果您有某種原因必須提早下課，請提前告知我。\n2. 所有學生在課堂上都應尊重每個人，並且在任何時候都應以合理、負責和禮貌的態度行事。\n3. 上課時請勿講話、閱讀、睡覺或做其他非本課程相關作業。\n4. 允許使用筆記型電腦或平板等載具，進行課堂記筆記，否則應將其收起。\n5. 要確保在上課時，關閉手機、PDA等移動設備，並收起及保持靜音。 \n6. 不得戴耳機上課。",
+    "course_pol_en": null,
+    "course_rem": null,
+    "course_rem_en": null,
+    "ais_meno": "<div>學習必須以誠信為基礎，任何學生企圖將自己未製作的作品，作為自己的作品，此行為是為不誠實行為。在作業、測驗或考試中作弊或抄襲的學生或協助他人的行為，該次成績以零分計，若是累犯，將依逢甲大學學生獎懲辦法提送。\n<ul>\n\t<li>考核時如果您抄襲他人的答案、或交作業時您交出全部或部分由他人撰寫的論文或作業，則被視為作弊。&nbsp;</li>\n\t<li>考核時如果您抄襲他人的答案、或交作業時您交出全部或部分由他人撰寫的論文或作業，則被視為作弊。</li>\n</ul>\n</div>\n",
+    "ais_meno_en": null,
+    "ilearn_mk": "N"
+  },
+  "courseBankC": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CE08112",
+      "sub_id": "48560",
+      "scr_dup": "001",
+      "seq": 1,
+      "describe_ch": "瞭解並能應用基本運動定律運動定律",
+      "describe_en": "Understand and be able to apply the laws of motion",
+      "core_id": null,
+      "core_item": null,
+      "core_eng": null,
+      "core_level": null,
+      "strgy": [
+        "01"
+      ],
+      "evalb": [
+        "D1",
+        "D4",
+        "K3",
+        "L2",
+        "L4"
+      ],
+      "strgy_name": [
+        "課堂授課"
+      ],
+      "strgy_name_en": [
+        "Classroom instruction"
+      ],
+      "evalb_name": [
+        "期中考",
+        "作業",
+        "上課即時問與答",
+        "點名",
+        "出席狀況"
+      ],
+      "evalb_name_en": [
+        "Midterm examination",
+        "Homework",
+        "In-class oral assessment",
+        "Roll call",
+        "Attendances"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CE08112",
+          "sub_id": "48560",
+          "scr_dup": "001",
+          "seq": 1,
+          "strgy_id": "01",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CE08112",
+          "sub_id": "48560",
+          "scr_dup": "001",
+          "seq": 1,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D1",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CE08112",
+          "sub_id": "48560",
+          "scr_dup": "001",
+          "seq": 1,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D4",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CE08112",
+          "sub_id": "48560",
+          "scr_dup": "001",
+          "seq": 1,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "K3",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CE08112",
+          "sub_id": "48560",
+          "scr_dup": "001",
+          "seq": 1,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "L2",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CE08112",
+          "sub_id": "48560",
+          "scr_dup": "001",
+          "seq": 1,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "L4",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CE08112",
+      "sub_id": "48560",
+      "scr_dup": "001",
+      "seq": 2,
+      "describe_ch": "瞭解能量的意義並可應用於力學問題",
+      "describe_en": "Understand the concept of energy and be able to solve mechanical problems in terms of energy",
+      "core_id": null,
+      "core_item": null,
+      "core_eng": null,
+      "core_level": null,
+      "strgy": [
+        "01"
+      ],
+      "evalb": [
+        "D1",
+        "D4",
+        "K3",
+        "L2"
+      ],
+      "strgy_name": [
+        "課堂授課"
+      ],
+      "strgy_name_en": [
+        "Classroom instruction"
+      ],
+      "evalb_name": [
+        "期中考",
+        "作業",
+        "上課即時問與答",
+        "點名"
+      ],
+      "evalb_name_en": [
+        "Midterm examination",
+        "Homework",
+        "In-class oral assessment",
+        "Roll call"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CE08112",
+          "sub_id": "48560",
+          "scr_dup": "001",
+          "seq": 2,
+          "strgy_id": "01",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CE08112",
+          "sub_id": "48560",
+          "scr_dup": "001",
+          "seq": 2,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D1",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CE08112",
+          "sub_id": "48560",
+          "scr_dup": "001",
+          "seq": 2,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D4",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CE08112",
+          "sub_id": "48560",
+          "scr_dup": "001",
+          "seq": 2,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "K3",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CE08112",
+          "sub_id": "48560",
+          "scr_dup": "001",
+          "seq": 2,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "L2",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CE08112",
+      "sub_id": "48560",
+      "scr_dup": "001",
+      "seq": 3,
+      "describe_ch": "熟悉基本之轉動、振動及波動相關物理",
+      "describe_en": "Be familiar with the basic physics of rotation, oscillation, and waves",
+      "core_id": null,
+      "core_item": null,
+      "core_eng": null,
+      "core_level": null,
+      "strgy": [
+        "01"
+      ],
+      "evalb": [
+        "D2",
+        "D4",
+        "K3",
+        "L2"
+      ],
+      "strgy_name": [
+        "課堂授課"
+      ],
+      "strgy_name_en": [
+        "Classroom instruction"
+      ],
+      "evalb_name": [
+        "期末考",
+        "作業",
+        "上課即時問與答",
+        "點名"
+      ],
+      "evalb_name_en": [
+        "Final examination",
+        "Homework",
+        "In-class oral assessment",
+        "Roll call"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CE08112",
+          "sub_id": "48560",
+          "scr_dup": "001",
+          "seq": 3,
+          "strgy_id": "01",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CE08112",
+          "sub_id": "48560",
+          "scr_dup": "001",
+          "seq": 3,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D2",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CE08112",
+          "sub_id": "48560",
+          "scr_dup": "001",
+          "seq": 3,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D4",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CE08112",
+          "sub_id": "48560",
+          "scr_dup": "001",
+          "seq": 3,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "K3",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CE08112",
+          "sub_id": "48560",
+          "scr_dup": "001",
+          "seq": 3,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "L2",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CE08112",
+      "sub_id": "48560",
+      "scr_dup": "001",
+      "seq": 4,
+      "describe_ch": "瞭解並能應用基本熱力學定律",
+      "describe_en": "Understand and be able to apply the laws of thermodynamics",
+      "core_id": null,
+      "core_item": null,
+      "core_eng": null,
+      "core_level": null,
+      "strgy": [
+        "01"
+      ],
+      "evalb": [
+        "D2",
+        "D4",
+        "K3",
+        "L2"
+      ],
+      "strgy_name": [
+        "課堂授課"
+      ],
+      "strgy_name_en": [
+        "Classroom instruction"
+      ],
+      "evalb_name": [
+        "期末考",
+        "作業",
+        "上課即時問與答",
+        "點名"
+      ],
+      "evalb_name_en": [
+        "Final examination",
+        "Homework",
+        "In-class oral assessment",
+        "Roll call"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CE08112",
+          "sub_id": "48560",
+          "scr_dup": "001",
+          "seq": 4,
+          "strgy_id": "01",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CE08112",
+          "sub_id": "48560",
+          "scr_dup": "001",
+          "seq": 4,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D2",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CE08112",
+          "sub_id": "48560",
+          "scr_dup": "001",
+          "seq": 4,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D4",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CE08112",
+          "sub_id": "48560",
+          "scr_dup": "001",
+          "seq": 4,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "K3",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CE08112",
+          "sub_id": "48560",
+          "scr_dup": "001",
+          "seq": 4,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "L2",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CE08112",
+      "sub_id": "48560",
+      "scr_dup": "001",
+      "seq": 5,
+      "describe_ch": "瞭解基本熱力學定律",
+      "describe_en": "Understand laws of thermodynamics",
+      "core_id": null,
+      "core_item": null,
+      "core_eng": null,
+      "core_level": null,
+      "strgy": [
+        "01"
+      ],
+      "evalb": [
+        "D4",
+        "L2"
+      ],
+      "strgy_name": [
+        "課堂授課"
+      ],
+      "strgy_name_en": [
+        "Classroom instruction"
+      ],
+      "evalb_name": [
+        "作業",
+        "點名"
+      ],
+      "evalb_name_en": [
+        "Homework",
+        "Roll call"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CE08112",
+          "sub_id": "48560",
+          "scr_dup": "001",
+          "seq": 5,
+          "strgy_id": "01",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CE08112",
+          "sub_id": "48560",
+          "scr_dup": "001",
+          "seq": 5,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D4",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CE08112",
+          "sub_id": "48560",
+          "scr_dup": "001",
+          "seq": 5,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "L2",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    }
+  ],
+  "topicSdgs": [],
+  "learnHours": {
+    "total": 0.0,
+    "tpdOnlineAsyTotal": 0.0,
+    "tpdOnlineSynTotal": 0.0,
+    "tpdOnlineFaceTotal": 0.0,
+    "asySynInTotalPercent": 0.0
+  },
+  "crossVerYear": 114
+}

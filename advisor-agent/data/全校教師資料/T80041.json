@@ -1,0 +1,911 @@
+{
+  "teacherId": "T80041",
+  "name": "蕭堯仁",
+  "mainUnit": "工程與科學學院",
+  "detailUnit": "工業工程與系統管理學系",
+  "skill": [
+    "工業工程與管理Industrial Engineering and Management",
+    "資源規劃與配置Resource Planning and Allocation",
+    "供應鏈績效與管理Supply Chain Performance and Management",
+    "專案導入績效與管理Project Performance and Management",
+    "產業電子化分析與規劃E-Business Analysis and Planning",
+    "品質工程Quality Engineering",
+    "預防維護與保養管理Preventive Maintanence and Management"
+  ],
+  "edu": [
+    "美國奧本大學 工業工程系 博士",
+    "美國奧本大學 工業工程系 碩士",
+    "逢甲大學 工業工程系 學士"
+  ],
+  "fcuExp": [
+    "保管組 組長",
+    "工業工程學系(所) 系主任",
+    "進修推廣學院 院長",
+    "總務處 總務長",
+    "中科辦公室 主任",
+    "經營管理學院 院長",
+    "推廣教育處 推廣教育長",
+    "校長室 副校長",
+    "研究發展處 研發長",
+    "推廣教育處 代理推廣教育長",
+    "校園安全暨災害防救通報處理中心 副主委",
+    "校務研究辦公室(籌備) 副主任",
+    "校務研究辦公室(籌備) 主任",
+    "校長室 副校長",
+    "研究發展處 研發長",
+    "校園安全暨災害防救通報處理中心 副主委",
+    "創能學院(籌備) 院長",
+    "工業工程學系(所) 副教授",
+    "工業工程學系 教授",
+    "工業工程與系統管理學系 教授",
+    "工業工程與系統管理學系 講座教授",
+    "工業工程與系統管理學系 教授"
+  ],
+  "currjob": [],
+  "otherExp": [],
+  "journal": [
+    {
+      "論文名稱": "Enhancing Reliability of Inertial Measurement Unit Sensors in Quadrotor Drones",
+      "期刊名稱": "Sensors and Materials (SCIE)",
+      "作者群": "Yau-Ren Shiau and Wei-Cheng Chang"
+    },
+    {
+      "論文名稱": "Enhancement and Optimization of the Propulsion System Modules of Unmanned Aerial Vehicles",
+      "期刊名稱": "Pro. of SPIE (EI)",
+      "作者群": "Shiau, Y. R., Fang, J., & Huang, Y. C."
+    },
+    {
+      "論文名稱": "Innovative Research on the Application of TIRZ Theory to Multi-mode UAVs",
+      "期刊名稱": "Journal of Physics: Conference Series (EI)",
+      "作者群": "J. Fang, Y. R. Shiau, and W. C. Hung"
+    },
+    {
+      "論文名稱": "Design and Analysis of a Vertical Electric Ducted Fan for Unmanned Aerial Vehicles",
+      "期刊名稱": "Journal of Physics: Conference Series (EI)",
+      "作者群": "Y.R. Shiau, J. Fang and Y.C. Huang"
+    },
+    {
+      "論文名稱": "IMU Sensor Performance Prediction for Quadrotor UAVs",
+      "期刊名稱": "Journal of Aeronautics, Astronautics and Aviation (EI,Scopus, ESCI)",
+      "作者群": "W.C. Chang and Y.R. Shiau"
+    },
+    {
+      "論文名稱": "Systematic innovation combined with bionic technology applied to innovative research on UAV",
+      "期刊名稱": "Journal of Physics: Conference Series (EI)",
+      "作者群": "J. Fang, Y.R. Shiau and W.C. Hung"
+    },
+    {
+      "論文名稱": "Design and analysis of component for non-rotor unmanned aerial vehicle",
+      "期刊名稱": "Inter. Journal of Physics: Conference Series (EI)",
+      "作者群": "Shiau, Y. R., Fang, J., and Chen, Y. L."
+    },
+    {
+      "論文名稱": "Key improvement decision analysis mechanism based on overall loss of a production system",
+      "期刊名稱": "Journal of Industrial and Production Engineering (EI,TSSCI,INSPEC；Scopus；TSSCI)",
+      "作者群": "Shiau, Y. R., & Wang, S. Y."
+    },
+    {
+      "論文名稱": "Early intervention mechanism for preventing electrocution in construction engineering",
+      "期刊名稱": "Industrial Health (SCIE)",
+      "作者群": "Shiau, Y.R., Lo, F.Y., & Ko, P.C.*"
+    },
+    {
+      "論文名稱": "Early Intervention Mechanism for Preventing Electrical Shocks During Construction Projects: Portable Electrical Equipment",
+      "期刊名稱": "E3S Web of Conferences, EDP Sciences (EI)",
+      "作者群": "Shiau, Y.R., Lo, F.Y., & Ko, P.C.*"
+    },
+    {
+      "論文名稱": "Lean Assessment Mechanism of Supplier based on Multiple-to-multiple Benchmarking Learning",
+      "期刊名稱": "Journal of Management & Systems (TSSCI)",
+      "作者群": "Yau-Ren Shiau, Shun-Yu Wang, Chia-Kuei Chien"
+    },
+    {
+      "論文名稱": "Implementation of Lean Manufacturing in Production Processes",
+      "期刊名稱": "Journal of Quality (EI)",
+      "作者群": "Yau-Ren Shiau and Hui-Min Chang"
+    },
+    {
+      "論文名稱": "Design and Simulation of a Porous Rectangular Board-Foldable Trolley",
+      "期刊名稱": "Materials Science and Engineering (EI)",
+      "作者群": "Yau-Ren Shiau, Jiunn Fang, Yu-Lan Chen"
+    },
+    {
+      "論文名稱": "篩選產學合作夥伴及協商資源配置之機制",
+      "期刊名稱": "科技管理學刊 (TSSCI)",
+      "作者群": "蕭堯仁、陳幼蘭"
+    },
+    {
+      "論文名稱": "Fuzzy Assessment Analysis and Key Improvements to a Production system",
+      "期刊名稱": "The TQM Journal (EI)",
+      "作者群": "Yau-Ren Shiau and Hui-Min Chang"
+    },
+    {
+      "論文名稱": "A Lower Bound for Minimizing the Total Completion Time of a Three-agent Scheduling Problem",
+      "期刊名稱": "Information Sciences (EI)",
+      "作者群": "Shiau, Y. R., Lee, W. C., Kung, Y. S., and Wang, J. Y."
+    },
+    {
+      "論文名稱": "Two-agent two-machine flowshop scheduling with learning effects to minimize the total completion time",
+      "期刊名稱": "Computers & Industrial Engineering (SCIE)",
+      "作者群": "Y.R. Shiau, M.S. Tsai, W.C. Lee*, T.C.E. Cheng"
+    },
+    {
+      "論文名稱": "The Application of Data Mining Technology to Build a Forecasting Model for Classification of Road Traffic Accidents",
+      "期刊名稱": "Mathematical Problems in Engineering (EI)",
+      "作者群": "Shiau, Y. R., Tsai, C. H., Hung, Y. H., and Kuo, Y. T."
+    },
+    {
+      "論文名稱": "Innovative Design for a Foldable Trolley",
+      "期刊名稱": "Journal of Technology (EI)",
+      "作者群": "Y. R. Shiau, Y. L. Chen, W. S. Chen and Y. P. Kang*"
+    },
+    {
+      "論文名稱": "Single-machine Scheduling to Minimize Total Completion Time and Tardiness with Two Competing Agents",
+      "期刊名稱": "The Scientific World Journal (SCIE)",
+      "作者群": "Lee,W.C.,Shiau, Y.R., Chung,Y.H., and Ding,L."
+    },
+    {
+      "論文名稱": "Application of Neural Networks and the Taguchi Method on Touch Cover Glass Cutting Quality",
+      "期刊名稱": "ICIC Express Letters, Part B: Applications (EI)",
+      "作者群": "Huang,Y.H.,Tsai,C.H.,Huang,M.L.,Wu,J.H.,and Shiau,Y.R."
+    },
+    {
+      "論文名稱": "A Study on the Application of Fuzzy Clustering Analysis in Juvenile Delinquency Prevention",
+      "期刊名稱": "Information Technology Journal (EI)",
+      "作者群": "Shiau,Y.R.,Tsai,C.H.,Hung,Y.H, and Wu,J.H."
+    },
+    {
+      "論文名稱": "Deteriorating Job Scheduling to Minimize the Number of Late Jobs with Setup Times",
+      "期刊名稱": "Computers & Industrial Engineering (SCIE)",
+      "作者群": "Lee,W.C.,Lin,J.B.,and Shiau,Y.R."
+    },
+    {
+      "論文名稱": "A Single-Machine Deteriorating Job Scheduling Problem with a Non-Regular Criterion",
+      "期刊名稱": "Asia-Pacific Journal of Operational Research (SCIE)",
+      "作者群": "Wu,C.C.,Lee,W.C.,Shiau, Y.R."
+    },
+    {
+      "論文名稱": "A single-machine scheduling problem with two-agent and deteriorating jobs",
+      "期刊名稱": "Applied Mathematical Modelling (SCIE)",
+      "作者群": "Lee,W.C.,Wang,W.J.,Shiau,Y.R.and Wu,C.C."
+    },
+    {
+      "論文名稱": "A two-machine flowshop scheduling problem with deteriorating jobs and blocking.",
+      "期刊名稱": " International Journal of Production Economics (SCIE)",
+      "作者群": "W.C. Lee, Y.R. Shiau, S.K. Chen, and C.C. Wu*"
+    },
+    {
+      "論文名稱": "Scheduling deteriorating jobs to minimize the makespan on a single machine",
+      "期刊名稱": "International Journal of Advanced Manufacturing Technology (SCIE)",
+      "作者群": "C.C. Wu, Y.R. Shiau, L.H. Lee, and W.C. Lee"
+    },
+    {
+      "論文名稱": "Decision support for off-line gage evaluation and improving on-line gage usage",
+      "期刊名稱": "Journal of Manufacturing Systems (SCIE)",
+      "作者群": "Shiau, Y. R."
+    },
+    {
+      "論文名稱": "Single-Machine Group Scheduling Problems with Deterioration Consideration",
+      "期刊名稱": "Computers and Operations Research (SCIE)",
+      "作者群": "Wu, C.C., Shiau, Y.R., and Lee, W.C."
+    },
+    {
+      "論文名稱": "Two-Machine Flowshop Scheduling to Minimize Mean Flow Time under Simple Linear Deterioration",
+      "期刊名稱": "International Journal of Advanced Manufacturing Technology (SCIE)",
+      "作者群": "Shiau, Y.R., Lee, W.C., Wu, C.C., and Chang, C.M"
+    },
+    {
+      "論文名稱": "Minimizing the Total Weighted Completion Time on a Single Machine under Linear Deterioration",
+      "期刊名稱": "International Journal of Advanced Manufacturing Technology (SCIE,EI)",
+      "作者群": "Wu, C.C., Lee, W.C., and Shiau, Y.R."
+    },
+    {
+      "論文名稱": "Concurrent Process/Inspection Planning for a Customized Manufacturing System Based on Genetic Algorithm",
+      "期刊名稱": "International Journal of Advanced Manufacturing Technology (SCIE)",
+      "作者群": "Shiau, Y. R., Lin, M. H., and Chuang, W. C"
+    },
+    {
+      "論文名稱": "Monitoring Capability Study and Genetic Economic Design of X-bar Control Chart",
+      "期刊名稱": "International Journal of Advanced Manufacturing Technology (SCIE)",
+      "作者群": "Shiau, Y. R., Lin, M. H., Chung, I-Ping, and Pan, Y. L."
+    },
+    {
+      "論文名稱": "Concurrent Process/Inspection Planning for a Customized Manufacturing System Based on Genetic Algorithm",
+      "期刊名稱": "International Journal of Advanced Manufacturing Technology (SCIE)",
+      "作者群": "Shiau, Y. R., Lin, M. H., and Chuang, W. C"
+    },
+    {
+      "論文名稱": "Quick Decision-making Support for Inspection Allocation Planning with Rapidly Changing Customer Requirements",
+      "期刊名稱": " International Journal of Advanced Manufacturing Technology (SCIE)",
+      "作者群": "Shiau, Y. R."
+    },
+    {
+      "論文名稱": "Inspection Allocation Planning for a Multiple Quality Characteristics Advanced Manufacturing System",
+      "期刊名稱": "International Journal of Advanced Manufacturing Technology (SCIE)",
+      "作者群": "Shiau, Y. R."
+    },
+    {
+      "論文名稱": "Inspection Resource Assignment in a Multistage Manufacturing System with Inspection Error Model",
+      "期刊名稱": "International Journal of Production Research (SCIE)",
+      "作者群": "Shiau, Y. R."
+    },
+    {
+      "論文名稱": "Repeatability/Linearity Study and Measurement Loss Cost Analysis of an Automatic Gauge",
+      "期刊名稱": "International Journal of Advanced Manufacturing Technology (SCIE)",
+      "作者群": "Shiau, Y. R."
+    },
+    {
+      "論文名稱": "產業電子化建置模式及其系統導入之探討",
+      "期刊名稱": "中國工程師學會工程會刊 ()",
+      "作者群": "彭泉, 蕭堯仁, 吳忠敏"
+    },
+    {
+      "論文名稱": "Classifying Web Defects with a Back-propagation Neural Network by Color Image Processing",
+      "期刊名稱": "Textile Research Journal (SCIE)",
+      "作者群": "Shiau, Y. R., Tsai, I S., and Lin, C. S."
+    },
+    {
+      "論文名稱": "Study of a Measurement Algorithm and the Measurement Loss in Machine Vision Metrology",
+      "期刊名稱": "Journal of Manufacturing System (SCIE)",
+      "作者群": "蕭堯仁、Jiang, B. C"
+    },
+    {
+      "論文名稱": "Implementing the Automated Visual Inspection in Quality Control System",
+      "期刊名稱": "Journal of Industrial Technology ()",
+      "作者群": "Chou, C.Y.，Jinag, B.C.，蕭堯仁"
+    },
+    {
+      "論文名稱": "Controlling a Robot's Position Using Neural Networks",
+      "期刊名稱": "International Journal of Advanced Manufacturing Technology (SCIE)",
+      "作者群": "Wu, C. M., Jiang, B. C., and Shiau, Y. R."
+    },
+    {
+      "論文名稱": "A Methodology to Evaluate/Improve the Performance of a Machine Vision System",
+      "期刊名稱": "International Journal of Production Research (SCIE)",
+      "作者群": "Shiau, Y. R., and Jiang, B. C."
+    },
+    {
+      "論文名稱": "Determine a Vision System's 3D Coordinate Measurement Capability Using Taguchi Methods",
+      "期刊名稱": "International Journal of Production Research (SCIE)",
+      "作者群": "hiau, Y. R., and Jiang, B. C."
+    }
+  ],
+  "journal2": [],
+  "conference": [
+    {
+      "論文名稱": "Design and Analysis of a Vertical Electric Ducted Fan for Unmanned Aerial Vehicles",
+      "會議名稱": "The 7th International Conference on Mechanical, Aeronautical and Automotive Engineering (ICMAA 2023)",
+      "作者群": "Y. R. Shiau, J. Fang and Y. C. Huang"
+    },
+    {
+      "論文名稱": "Optimal Control Management for Aerial Vehicle Payload by Taguchi Method",
+      "會議名稱": "IEEE International Conference on Social Sciences and Intelligent Management (SSIM 2021)",
+      "作者群": "Yau-Ren, Shiau, Edwin M. Lau , Wei-Cheng, Chang"
+    },
+    {
+      "論文名稱": "供應商監控機制之分析與建立",
+      "會議名稱": "產業管理創新研討會",
+      "作者群": "蕭堯仁、鄭伊淳"
+    },
+    {
+      "論文名稱": "Early Intervention Mechanism for Preventing Electrical Shocks During Construction Projects: Portable Electrical Equipment",
+      "會議名稱": "Inter. E3S Web of Conferences",
+      "作者群": "Yau-Ren Shiau, Fang-Yi Lo, and Po-Cheng, Ko"
+    },
+    {
+      "論文名稱": "不完美多品質生產系統採購之關鍵因子分析",
+      "會議名稱": "產業管理創新研討會",
+      "作者群": "蕭堯仁、李淞廉"
+    },
+    {
+      "論文名稱": "供應商標竿學習之TOPSIS分析",
+      "會議名稱": "產業管理創新研討會",
+      "作者群": "蕭堯仁、簡家貴"
+    },
+    {
+      "論文名稱": "多功能旅行分裝罐之創新設計",
+      "會議名稱": "2015系統性創新研討會",
+      "作者群": "江奇倫、康有評、蕭堯仁"
+    },
+    {
+      "論文名稱": "衛生紙盒結構之創新設計",
+      "會議名稱": "第五屆設計創新暨應用學術研討會",
+      "作者群": "陳幼蘭、陳煒昇、蕭堯仁、康有評"
+    },
+    {
+      "論文名稱": "促進產學有效溝通之模式分析",
+      "會議名稱": "產業管理創新研討會",
+      "作者群": "*蕭堯仁、葉佳卉"
+    },
+    {
+      "論文名稱": "多功能筆電散熱墊之創新設計研究",
+      "會議名稱": "2014綠色科技工程與應用研討會",
+      "作者群": "陳幼蘭、陳煒昇、康有評、蕭堯仁"
+    },
+    {
+      "論文名稱": "可收摺推車之創新設計研究",
+      "會議名稱": "2014綠色科技工程與應用研討會",
+      "作者群": "陳幼蘭、陳煒昇、康有評、蕭堯仁"
+    },
+    {
+      "論文名稱": "運用六標準差改善觸控面板貼合品質問題",
+      "會議名稱": "產業管理創新研討會",
+      "作者群": "李孟倫、蕭堯仁"
+    },
+    {
+      "論文名稱": "拉式系統訂單分配之分析與規劃",
+      "會議名稱": "產業管理創新研討會",
+      "作者群": "蕭堯仁、陳建樺、陳怡潔"
+    },
+    {
+      "論文名稱": "不完美拉式生產系統製造資源規劃之分析與建立",
+      "會議名稱": "產業管理創新研討會",
+      "作者群": "蕭堯仁、賴思妤、陳衍璟"
+    },
+    {
+      "論文名稱": "以碳排放能力為基之供應商評選機制分析與建立",
+      "會議名稱": "產業管理創新研討會",
+      "作者群": "蕭堯仁,王茹評"
+    },
+    {
+      "論文名稱": "不完美拉式系統採購訂單規劃之分析與建立",
+      "會議名稱": "產業管理創新研討會",
+      "作者群": "蕭堯仁,陳怡潔,吳俐儒,林孟弘"
+    },
+    {
+      "論文名稱": "不完美拉式生產系統製造資源規劃之分析與建立",
+      "會議名稱": "產業管理創新研討會",
+      "作者群": "蕭堯仁,陳衍璟,呂學府"
+    },
+    {
+      "論文名稱": "以委外策略為基建立外包商評選模式之研究-以LCM製造商H公司為例",
+      "會議名稱": "第9屆管理學術研討會",
+      "作者群": "洪勝峰, 蕭堯仁"
+    },
+    {
+      "論文名稱": "TFT-LCD FAB 自動化搬運系統效能改善之研究",
+      "會議名稱": "第十二屆科技與管理學術研討會",
+      "作者群": "吳政輝, 蕭堯仁"
+    },
+    {
+      "論文名稱": "以六標準差DMAIC步驟改善導線架收發料作業",
+      "會議名稱": "2011電子企業經營管理理論暨實務研討會",
+      "作者群": "鄭巧莉,蕭堯仁"
+    },
+    {
+      "論文名稱": "以平衡計分卡為基探討供應商能力提升",
+      "會議名稱": "2011行銷與物流管理實務研討會",
+      "作者群": "葉崇茂, 蕭堯仁"
+    },
+    {
+      "論文名稱": "人格特質、工作績效與工作滿足關係之研究-以某金屬製品公司為例",
+      "會議名稱": "2010企業創新與經營學術研討會",
+      "作者群": "張本華,蕭堯仁"
+    },
+    {
+      "論文名稱": "以協同品質為基之供應鏈訂單規劃決策支援系統",
+      "會議名稱": "創新管理學術與實務研討會",
+      "作者群": "蕭堯仁,邱琪雯,黃修緯,林孟弘"
+    },
+    {
+      "論文名稱": "協同設計/製造/服務互動介面之分析與建構",
+      "會議名稱": "2010產業管理創新研討會",
+      "作者群": "蕭堯仁,林鴻儒,陳友誠,林孟弘"
+    },
+    {
+      "論文名稱": "運用六標準差手法改善LCD製程之光阻回收與塗佈參數最佳化",
+      "會議名稱": "前瞻管理學術與產業趨勢研討會",
+      "作者群": "林昆正,蕭堯仁"
+    },
+    {
+      "論文名稱": "運用六標準差手法提昇觸控面板線性品質之研究",
+      "會議名稱": "前瞻管理學術與產業趨勢研討會",
+      "作者群": "陳淑琦,蕭堯仁"
+    },
+    {
+      "論文名稱": "新產品開發專案管理之同步量測系統分析--以LCD面板廠自製檢測設備為例",
+      "會議名稱": "中國工業工程年會",
+      "作者群": "李欽憲,蕭堯仁"
+    },
+    {
+      "論文名稱": "以品質管制履歷為機之分析與改善-以套筒內孔潔淨度為例",
+      "會議名稱": "中國工業工程年會",
+      "作者群": "葉大為,蕭堯仁"
+    },
+    {
+      "論文名稱": "醫療服務品質認知與就醫行為意圖相關性探討-以某區域教學醫院為例",
+      "會議名稱": "台灣健康照護聯合學術研討會",
+      "作者群": "林雅玲, 簡士超, 蕭堯仁"
+    },
+    {
+      "論文名稱": "以人力資源計分卡為基之績效衡量",
+      "會議名稱": "6th企業經營管理研討會",
+      "作者群": "蕭堯仁,許佑新,林晉緯,林孟弘"
+    },
+    {
+      "論文名稱": "運用六標準差進行產品資料整合之分析與改善",
+      "會議名稱": "7th產業管理創新研討會",
+      "作者群": "賴育榆,蕭堯仁"
+    },
+    {
+      "論文名稱": "物料運輸成本之分析與改善",
+      "會議名稱": "7th產業管理創新研討會",
+      "作者群": "蔡慧萍,蕭堯仁"
+    },
+    {
+      "論文名稱": "產學互動交流平台之分析與建置",
+      "會議名稱": "7th產業管理創新研討會",
+      "作者群": "陳宛伶,蕭堯仁"
+    },
+    {
+      "論文名稱": "以績效衡量為基之資源規劃",
+      "會議名稱": "國際中小企業經營策略與管理學術研討會",
+      "作者群": "蕭堯仁,林孟弘,林晉緯,蔡佩雯"
+    },
+    {
+      "論文名稱": "運用DMAIC改善生產規劃流程績效-以中小尺寸液晶顯示器產業為例",
+      "會議名稱": "6th產業管理創新研討會",
+      "作者群": "施毓姿,蕭堯仁"
+    },
+    {
+      "論文名稱": "專案開發知識交流平台之分析與建立",
+      "會議名稱": "6th產業管理創新研討會",
+      "作者群": "張筱涵,蕭堯仁"
+    },
+    {
+      "論文名稱": "企業內訓制度之分析與管理",
+      "會議名稱": "6th產業管理創新研討會",
+      "作者群": "黃慧萍, 蕭堯仁"
+    },
+    {
+      "論文名稱": "運用QFD理論建立服務商之互動需求指標",
+      "會議名稱": "研發導向之工業管理研討會",
+      "作者群": "蕭堯仁, 蔡佩芳, 林孟弘"
+    },
+    {
+      "論文名稱": "六標準差應用於LCM實務個案之探討",
+      "會議名稱": "21世紀管理理論與實務研討會",
+      "作者群": "卓柏勳, 蕭堯仁"
+    },
+    {
+      "論文名稱": "以績效衡量為基之強化資源規劃-以精密機械業為例",
+      "會議名稱": "第11屆科際整合管理研討會",
+      "作者群": "蕭堯仁, 林晉緯, 林孟弘"
+    },
+    {
+      "論文名稱": "以成本動因為基利用QFD建立供應鏈策略評估準則-以中小尺寸面板廠商為例",
+      "會議名稱": "第二屆資訊管理學術暨專案管理實務研討會論文集",
+      "作者群": "蕭堯仁, 劉錦龍"
+    },
+    {
+      "論文名稱": "企業間資訊流整合-預先出貨通知電子化導入",
+      "會議名稱": "第二屆資訊管理學術暨專案管理實務研討會論文集",
+      "作者群": "蕭堯仁, 楊景任"
+    },
+    {
+      "論文名稱": "預防維護保養策略分析",
+      "會議名稱": "第二屆資訊管理學術暨專案管理實務研討會論文集",
+      "作者群": "蕭堯仁, 楊珮慈, 廖本惠"
+    },
+    {
+      "論文名稱": "以TQRDC為基之展延企業供應商評量",
+      "會議名稱": "中國工業工程年會論文集光碟",
+      "作者群": "謝明儒, 蕭堯仁"
+    },
+    {
+      "論文名稱": "Optimizing Control Parameters of Abrasive Flow Machining for Finishing Inner Surace of UHP Componnets",
+      "會議名稱": "7th Int.Confer.on Deburring and Surface Finishing",
+      "作者群": "Tsui,H.P, Lin,C.C., Chiang,W.C., Shiau, Y.R."
+    },
+    {
+      "論文名稱": "多贏協同合作互動模式之分析與規劃",
+      "會議名稱": "2004產業電子化運籌管理學術暨實務研討會",
+      "作者群": "黃馨儀,蕭堯仁,周宗明,張高健,毛格民"
+    },
+    {
+      "論文名稱": "客製化製程監控之基因演算經濟管制圖設計",
+      "會議名稱": "中國工業工程年會",
+      "作者群": "蕭堯仁,潘妍伶,鍾一平,林孟弘"
+    },
+    {
+      "論文名稱": "高潔靜度元件內孔表面精修之最佳參數組合分析",
+      "會議名稱": "中國工業工程年會",
+      "作者群": "林俊成,崔海平,江文欽,蕭堯仁"
+    },
+    {
+      "論文名稱": "以基因演算法為基之檢驗資源配置規劃",
+      "會議名稱": "中國工業工程年會",
+      "作者群": "蕭堯仁,馬秀綺,林孟弘"
+    },
+    {
+      "論文名稱": "以實獲值管理建構協同專案之成本績效分析機制",
+      "會議名稱": "企業管理學術研討會暨電子商務經營管理研討會",
+      "作者群": "毛格民,張高健,蕭堯仁,李輔政"
+    },
+    {
+      "論文名稱": "ODM公司協同設計機制之分析與建立",
+      "會議名稱": "產學合作產業電子化研討會論文集",
+      "作者群": "張高健,毛格民,蕭堯仁,陳炳鈞"
+    },
+    {
+      "論文名稱": "以WBS為基的PDM系統建構產品成本管理機制",
+      "會議名稱": "產學合作產業電子化研討會",
+      "作者群": "毛格民,張高健,蕭堯仁"
+    },
+    {
+      "論文名稱": "ODM公司導入協同產品開發模式之研究─以製鞋產業為例",
+      "會議名稱": "中華民國第五屆可靠度與維護度技術研討會論文集",
+      "作者群": "張高健,毛格民,蕭堯仁,陳炳鈞"
+    },
+    {
+      "論文名稱": "行動ERP雛型系統之建置與探討",
+      "會議名稱": "2003年產業電子化運籌管理學術暨實務研討會",
+      "作者群": "蕭堯仁;莊文傑;邱翊豪"
+    },
+    {
+      "論文名稱": "ODM公司與品牌廠商協同式規劃/預測/補貨機制之分析與建立",
+      "會議名稱": "產業電子化運籌管理學術暨實務研討會",
+      "作者群": "張高健,毛格民,蕭堯仁"
+    },
+    {
+      "論文名稱": "協同品質為基之供應商評選機制-以精密機械產業為例",
+      "會議名稱": "產業電子化運籌管理學術暨實務研討會",
+      "作者群": "蕭堯仁,林孟弘,鍾一平,沈世賢"
+    },
+    {
+      "論文名稱": "The Collaborative Design Supply Chain System of the Textile Industry",
+      "會議名稱": "產業電子化運籌管理學術暨實務研討會",
+      "作者群": "Liu,J.Y.,Huang,J.F,Shiau,Y.R.,Lin,H.C.,and Chen,H.J."
+    },
+    {
+      "論文名稱": "Determining Optimal Control Parameters of Abrasive Flow Machining for Dual-Objectives Inner Surface Quality",
+      "會議名稱": "Asia-Pacific Forum on Precision Surface Finishing and Deburr",
+      "作者群": "Tsui,H.P.,Lin,C.C.,Shieh,Y.S,and Shiau,Y.R."
+    },
+    {
+      "論文名稱": "Assessing Collaborative Partner based on Collaborative Quality Aspect for Precision Machinery Industry Supply Chain Network",
+      "會議名稱": "the 4th ASIA Pacific Conference on Industrial Engineering an",
+      "作者群": "Shiau,Y.R.,Chung,I-Ping,Lin,C.F.,and Shen,S.H."
+    },
+    {
+      "論文名稱": "履約品質為基之競標策略--以航空產業為例",
+      "會議名稱": "第八屆全國品質管理研討會",
+      "作者群": "王昭月,蕭堯仁,宋行智"
+    },
+    {
+      "論文名稱": "Development Of High Efficiency/Low Noise Industrial Fan with RPD Technology",
+      "會議名稱": "the 2nd International Conference on Rapid Protyping and Manu",
+      "作者群": "Lin,Y.C.and Shiu,Y.R."
+    },
+    {
+      "論文名稱": "區域性育成中心策略聯盟模式之分析與建立",
+      "會議名稱": "中國工業工程年會暨研討會",
+      "作者群": "陳美菁，張文龍、馮景如，蕭堯仁"
+    },
+    {
+      "論文名稱": "A Research of Optimization Control Parameters for the Thermo Energy Deburring Process",
+      "會議名稱": "ASIA-Pacific Forum on Precision Surface Finishing Technology",
+      "作者群": "H. P. Tsui、C. S. Yang、C. J. Feng、Y. R. Shiau"
+    },
+    {
+      "論文名稱": "以產業發展趨勢為基之策略聯盟體系分析與建構-以航太工業為例",
+      "會議名稱": "第三屆亞太管理學術研討會",
+      "作者群": "蕭堯仁，馮景如、李勝茂"
+    },
+    {
+      "論文名稱": "熱衝擊稜邊精修製程參數選用決策支援系統之分析與構建",
+      "會議名稱": "第十二屆全國自動化科技研討會",
+      "作者群": "崔海平、楊吉仕、馮景如、蕭堯仁"
+    },
+    {
+      "論文名稱": "以製造能力及檢驗能力為基之自動化生產系統整體績效分析",
+      "會議名稱": "第十二屆全國自動化科技研討會",
+      "作者群": "蕭堯仁、林孟弘、翁秀儀"
+    },
+    {
+      "論文名稱": "限制理論於航太國際合作專案風險分析之應用",
+      "會議名稱": "第十二屆全國自動化科技研討會",
+      "作者群": "何寶民、蕭堯仁、彭元熙"
+    },
+    {
+      "論文名稱": "塑膠件快速原型及製造技術之研發",
+      "會議名稱": "第十二屆全國自動化科技研討會",
+      "作者群": "林英傑、林秀春、蕭堯仁"
+    },
+    {
+      "論文名稱": "以產業發展為基之策略聯盟體系分析與構建—以航太工業為例",
+      "會議名稱": "第三屆亞太管理學術研討會",
+      "作者群": "李勝茂、陳美菁、蕭堯仁、馮景如"
+    },
+    {
+      "論文名稱": "機器視覺系統之重複性與重線性研究",
+      "會議名稱": "第五屆全國品質管理研討會",
+      "作者群": "蕭堯仁，陳源樹，王皇鈞，鍾一平"
+    },
+    {
+      "論文名稱": "Neps and Trashes Recognition Using Artificial Neural Network Technique",
+      "會議名稱": "The 5th Asian Textile Conference",
+      "作者群": "Tsai, I S.，蕭堯仁"
+    },
+    {
+      "論文名稱": "機器視覺線上型I/II量測誤差之分析與矯正",
+      "會議名稱": "Proceedings of the Chinese Industrial Engineers National Conference",
+      "作者群": "蕭堯仁、陳源樹、林孟毅、郭文財"
+    },
+    {
+      "論文名稱": "機器視覺系統線上量測能力之監控與診斷",
+      "會議名稱": "私立明志工業專科學校技術與教學研討會",
+      "作者群": "蕭堯仁、陳源樹、柯德政、王皇鈞"
+    }
+  ],
+  "book": [
+    {
+      "專業書籍": "工業工程與管理(第二版)",
+      "出版單位": "台灣培生教育出版股份有限公司",
+      "作者群": "張保隆、李明賢、葉忠、蕭堯仁等"
+    },
+    {
+      "專業書籍": "工業工程與管理",
+      "出版單位": "台灣培生教育出版股份有限公司",
+      "作者群": "張保隆 葉忠 李明賢 蕭堯仁 劉浚明 盧銘勳等"
+    }
+  ],
+  "patent": [
+    {
+      "title": "發明",
+      "desc": "具有組合造型及隨身碟收納的散熱墊結構"
+    },
+    {
+      "title": "發明",
+      "desc": "結合隨身碟收納功能之散熱墊結構"
+    }
+  ],
+  "most": [
+    {
+      "name": "分析及建立前沿技術趨勢演化分析之機制",
+      "schoolYear": "111"
+    },
+    {
+      "name": "分析與建立網絡生產系統之多目標動態循環預防維護規劃",
+      "schoolYear": "111"
+    },
+    {
+      "name": "可視化多元技術能量資訊集成系統之分析與建立",
+      "schoolYear": "110"
+    },
+    {
+      "name": "分析及建立生產系統綜合效益之提升機制",
+      "schoolYear": "109"
+    },
+    {
+      "name": "分析及建立產學合作系統協同效益之提升機制",
+      "schoolYear": "108"
+    },
+    {
+      "name": "以績效衡量為基之提升服務系統協同價值機制",
+      "schoolYear": "107"
+    },
+    {
+      "name": "以模糊理論為基之產學合作夥伴篩選及協議機制",
+      "schoolYear": "106"
+    },
+    {
+      "name": "分析及建立以多對多標竿學習規劃為導向之供應商評選機制",
+      "schoolYear": "105"
+    },
+    {
+      "name": "分析及建立不完美多品質生產系統之多階物料清單採購訂單規劃",
+      "schoolYear": "104"
+    },
+    {
+      "name": "分析及建立碳排放訴求之採購訂單規劃/供應商評選機制(I)",
+      "schoolYear": "103"
+    },
+    {
+      "name": "分析及建立碳排放訴求之製造資源規劃/採購訂單規劃/供應商評選機制(I)",
+      "schoolYear": "102"
+    },
+    {
+      "name": "分析及建立拉式系統製造/檢驗資源規劃與採購規劃之決策支援系統(3/3)",
+      "schoolYear": "101"
+    },
+    {
+      "name": "分析及建立拉式系統製造/檢驗資源規劃與採購規劃之決策支援系統(2/3)",
+      "schoolYear": "100"
+    },
+    {
+      "name": "分析及建立拉式系統製造/檢驗資源規劃與採購規劃之決策支援系統(1/3)",
+      "schoolYear": "99"
+    },
+    {
+      "name": "分析及建立以服務鏈驅動產業價值鏈之機制與模式(3/3)",
+      "schoolYear": "98"
+    },
+    {
+      "name": "分析及建立以服務鏈驅動產業價值鏈之機制與模式(2/3)",
+      "schoolYear": "97"
+    },
+    {
+      "name": "分析及建立以服務鏈驅動產業價值鏈之機制與模式(1/3)",
+      "schoolYear": "96"
+    },
+    {
+      "name": "以生產系統總合效率為基之同步製程/檢驗資源規劃與配置",
+      "schoolYear": "95"
+    },
+    {
+      "name": "客製化多品質特性生產系統之整合性檢驗/製程/維護保養規劃",
+      "schoolYear": "94"
+    },
+    {
+      "name": "協同供應鏈體系之挖掘關鍵供應商及強化資源投注排序",
+      "schoolYear": "94"
+    },
+    {
+      "name": "台灣產業創新協同價值鏈發展工程—以台中精密機械業為研究對象-總計畫(3/3)",
+      "schoolYear": "93"
+    },
+    {
+      "name": "台灣產業創新協同價值鏈發展工程--以台中機密機械業為研究對象-子計畫二:電子化採購協同供應鏈績效與管理決策支援系統之分析與構",
+      "schoolYear": "93"
+    },
+    {
+      "name": "關鍵決策因子之分析與挖掘－以多因子預防維護保養策略為例",
+      "schoolYear": "93"
+    },
+    {
+      "name": "台灣產業創新協同價值鏈發展工程-以台中精密機械業為研究對象-總計畫(2/3)",
+      "schoolYear": "92"
+    },
+    {
+      "name": "台灣產業創新協同價值鏈發展工程--以台中機密機械業為研究對象-子計畫二:電子化採購協同供應鏈績效與管理決策支援系統之分析與構",
+      "schoolYear": "92"
+    },
+    {
+      "name": "預防維護保養策略規劃決策因子之分析與挖掘",
+      "schoolYear": "92"
+    },
+    {
+      "name": "台灣產業創新協同價值鏈發展工程-以台中精密機械業為研究對象-總計畫(1/3)",
+      "schoolYear": "91"
+    },
+    {
+      "name": "台灣產業創新協同價值鏈發展工程-以台中精密機械業為研究對象-子計畫二：電子化採購協同供應鏈績效與管理決策支援系統之...(1/3)",
+      "schoolYear": "91"
+    },
+    {
+      "name": "生產製造系統資源規劃決策因子之分析與挖掘",
+      "schoolYear": "91"
+    },
+    {
+      "name": "以檢驗能力及製造能力為基之製造系統檢測資源規劃",
+      "schoolYear": "90"
+    },
+    {
+      "name": "生產製造系統整合性不良率模式之分析與構建",
+      "schoolYear": "90"
+    },
+    {
+      "name": "機器視覺量測品質確保決策支援系統之分析與構建",
+      "schoolYear": "89"
+    },
+    {
+      "name": "機器視覺量測品質確保系統之分析與構建",
+      "schoolYear": "88"
+    },
+    {
+      "name": "特徵為基機器視覺快速成型系統之分析與構建",
+      "schoolYear": "87"
+    },
+    {
+      "name": "運用全面品質管理於大學管理之研究：逢甲大學總務處推行全面品質管理實驗性研究方案",
+      "schoolYear": "87"
+    },
+    {
+      "name": "機器視覺線上1/11量測誤差之分析與矯正",
+      "schoolYear": "86"
+    },
+    {
+      "name": "機器視覺系統線上量測能力之監控與診斷",
+      "schoolYear": "85"
+    }
+  ],
+  "tech": [],
+  "induAca": [
+    "自行車車架生產之精實管理改善III (2024-03 to 2024-09)",
+    "智能鞋業人才培育產學合作專案 (2022-01 to 2022-12)",
+    "110年度智慧創新跨域人才培育聯盟計畫(A類)「跨領域創能人才培育計畫」 (2021-02 to 2022-01)",
+    "109年度智慧創新跨域人才培育聯盟計畫 (A 類)—「智慧創新人才培育示範學校計畫：智慧城市微學程、智能鞋業微學程」 (2020-02 to 2021-01)",
+    "98年度兩岸政策論壇(中部地區)計畫-兩岸經濟合作架構協議-ECFA議題 (2009-10 to 2009-12)",
+    "通訊科技教育改進計畫 - 網路應用與服務組 (課程名稱 : 網路代理人技術) (2004-02 to 2004-12)",
+    "九十二年度台中市社區規劃師建置計畫-教育宣導計畫 (2003-09 to 2003-12)",
+    "製商整合科技教育改進計畫─B類計畫─食品業供應鏈之電子化管理 (2003-03 to 2003-12)",
+    "91年度辦理高級中學以下教師在職進修活動實施計劃 (2002-08 to 2002-12)",
+    "91年度教育部補助師資培育機構設置高級中學以下學校及幼稚園教師在職進修網站實施計畫(原有網站) (2002-08 to 2002-12)",
+    "緊固件易裝配性之設計與模擬 (2002-01 to 2002-12)",
+    "廠商培訓與諮商輔導 (2000-01 to 2000-12)",
+    "航空TSO業者品質管理技術能力及需求調查 (1996-01 to 1996-06)"
+  ],
+  "perform": [],
+  "reward": [
+    "逢甲大學論文著作獎勵優等獎 (113, 2024-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優等獎 (113, 2024-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (111, 2022-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (111, 2022-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (111, 2022-11) - 逢甲大學",
+    "國際競賽 (110, 2021-11) - International Innovation and Invention Competition",
+    "逢甲大學論文著作獎勵優良獎 (110, 2021-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (110, 2021-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (110, 2021-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (109, 2020-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (109, 2020-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (109, 2020-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (106, 2017-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (106, 2017-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (105, 2016-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (105, 2016-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (105, 2016-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (104, 2015-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (104, 2015-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (104, 2015-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (104, 2015-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (104, 2015-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (104, 2015-11) - 逢甲大學",
+    "金牌 (103, 2014-12) - 中華創新發明學會",
+    "逢甲大學論文著作獎勵優良獎 (103, 2014-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (103, 2014-11) - 逢甲大學",
+    "金牌 (102, 2014-04) - 莫斯科(Archimedes)委員會",
+    "優選 (102, 2013-12) - 逢甲大學",
+    "金牌 (102, 2013-12) - 中華創新發明學會",
+    "銅牌 (102, 2013-12) - 中華創新發明學會",
+    "逢甲大學論文著作獎勵傑出獎 (100, 2011-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (99, 2010-11) - 逢甲大學",
+    "辦理優先採購身心障礙福利機構團體或庇護工場生產物品及服務獲得內政部推薦獎勵 (97, 2009-02) - 逢甲大學/人事室",
+    "逢甲大學優良教材獎勵優等獎 (96, 2007-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (96, 2007-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (95, 2006-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (93, 2004-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (93, 2004-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (92, 2003-11) - 逢甲大學",
+    "國科會甲種獎勵 (88, 1999-08) - 行政院國科會",
+    "國科會甲種獎勵 (87, 1998-08) - 行政院國科會",
+    "國科會甲種獎勵 (83, 1994-08) - 行政院國科會",
+    "國科會甲種獎勵 (82, 1993-08) - 行政院國科會"
+  ],
+  "speech": [
+    {
+      "演講題目": "Xi次方世代之上游思維",
+      "邀請單位": "西北扶輪社",
+      "演講日期": "2022-04"
+    },
+    {
+      "演講題目": "Xi次方世代之上游思維",
+      "邀請單位": "紡織學會",
+      "演講日期": "2021-12"
+    },
+    {
+      "演講題目": "創新與協同管理之關鍵密碼",
+      "邀請單位": "白紗科技",
+      "演講日期": "2012-07"
+    },
+    {
+      "演講題目": "經營與管理之醒思",
+      "邀請單位": "大甲扶輪社",
+      "演講日期": "2011-10"
+    },
+    {
+      "演講題目": "SCOPAB之醒思--山不動雲自飄/石不動水自流",
+      "邀請單位": "台中港區扶輪社",
+      "演講日期": "2010-09"
+    },
+    {
+      "演講題目": "微笑曲線的迷思",
+      "邀請單位": "勤益科技大學工管系",
+      "演講日期": "2007-10"
+    }
+  ],
+  "material": [
+    "工業工程與管理\t培生教育出版\t葉忠、李明賢、蕭堯仁、劉浚明、陳正芳、鄭豐聰等共8位\t複合教材"
+  ],
+  "tal": []
+}

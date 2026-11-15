@@ -1,0 +1,50 @@
+[
+  {
+    "academic_year": 114,
+    "semester": 2,
+    "course_code": "0772",
+    "course_name": "Python程式設計與應用",
+    "credits": 3.0,
+    "grade": 86
+  },
+  {
+    "academic_year": 114,
+    "semester": 2,
+    "course_code": "1193",
+    "course_name": "資料庫設計",
+    "credits": 3.0,
+    "grade": 79
+  },
+  {
+    "academic_year": 114,
+    "semester": 2,
+    "course_code": "1332",
+    "course_name": "高等資訊安全",
+    "credits": 3.0,
+    "grade": 91
+  },
+  {
+    "academic_year": 114,
+    "semester": 2,
+    "course_code": "2776",
+    "course_name": "密碼學",
+    "credits": 3.0,
+    "grade": 84
+  },
+  {
+    "academic_year": 114,
+    "semester": 2,
+    "course_code": "1278",
+    "course_name": "資料結構實習",
+    "credits": 3.0,
+    "grade": 88
+  },
+  {
+    "academic_year": 114,
+    "semester": 2,
+    "course_code": "1264",
+    "course_name": "資料庫系統",
+    "credits": 3.0,
+    "grade": 82
+  }
+]

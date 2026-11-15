@@ -1,0 +1,619 @@
+{
+  "teacherId": "T89064",
+  "name": "馮秋霞",
+  "mainUnit": "工程與科學學院",
+  "detailUnit": "環境工程與科學學系",
+  "skill": [
+    "數值模式Numerical model",
+    "多相流與多成份污染傳輸multiphase flow and multicomponent pollutant transport",
+    "最佳化模式Optimization model"
+  ],
+  "edu": [
+    "密西根大學 土木工程系 博士",
+    "維吉尼亞大學 土木環境工程系 碩士",
+    "台灣大學 土木工程系 學士"
+  ],
+  "fcuExp": [
+    "環境工程與科學學系 系主任",
+    "環境工程與科學學系 助理教授",
+    "環境工程與科學學系 副教授",
+    "環境工程與科學學系 教授",
+    "環境工程與科學學系 教授",
+    "環境工程與科學學系 教授"
+  ],
+  "currjob": [],
+  "otherExp": [],
+  "journal": [
+    {
+      "論文名稱": "Analysis of Field Data for Risk Assessment of Vapor Intrusion at a Trichloroethylene-Contaminated Site – A Case Study in Taiwan",
+      "期刊名稱": "Journal of Ecological Engineering (SCIE)",
+      "作者群": "Fen, C.-S. *, Y. Zhuang, Y. Lee, Y. Lin, Y. Huang, S. Lee"
+    },
+    {
+      "論文名稱": "Upward transport of Trichloroethylene vapour in a soil column",
+      "期刊名稱": "Environmental Processes (SCIMAGOJR)",
+      "作者群": "Fen, C.-S. *, C. Tsoa, P. Yen"
+    },
+    {
+      "論文名稱": "Methane transport in a soil column: experimental and modeling investigation",
+      "期刊名稱": "Environmental Engineering Research (SCIE)",
+      "作者群": "Fen, C.-S. *, Y. Lin, C. Chen"
+    },
+    {
+      "論文名稱": "三氯乙烯污染場址蒸氣入侵的研究",
+      "期刊名稱": "工業污染防治 (國家圖書館期刊文獻資訊網)",
+      "作者群": "林源隆、馮秋霞*、黃仰廷"
+    },
+    {
+      "論文名稱": "Analysis of Transient Flow to an Extended Fully\r\nPenetrating Well at Constant-Head Pumping",
+      "期刊名稱": "Groundwater (SCIE)",
+      "作者群": "Wei-Hao Jhuang, Chiu-Shia Fen*, Yu-Te Shen, and Hund-Der Yeh"
+    },
+    {
+      "論文名稱": "Density-driven transport of gas phase chemicals in unsaturated soils",
+      "期刊名稱": "Journal of Contaminant Hydrology (SCIE)",
+      "作者群": "Fen, C.-S.*, Sun, Y., Cheng, Y., Chen, Y., Yang, W., Pan, C."
+    },
+    {
+      "論文名稱": "Solution for Soil Vapor Extraction from a Pressure Controlled Well",
+      "期刊名稱": "Journal of Environmental Engineering (SCIE)",
+      "作者群": "Kuo, C.-L., C.-S. Fen*, K.-H. Chen, H.-D. Yeh"
+    },
+    {
+      "論文名稱": "A general analytical model for pumping tests in radial finite two-zone confined aquifers with Robin-type outer boundary",
+      "期刊名稱": "Journal of Hydrology (SCIE)",
+      "作者群": "Lin, Y. C., S. Y. Yang, C. S. Fen, and H. D. Yeh*"
+    },
+    {
+      "論文名稱": "Estimating groundwater velocity using apparent resistivity tomography: A sandbox experiment",
+      "期刊名稱": "IOP Conference Series: Earth and Environmental Science (ECONLIT)",
+      "作者群": "Chen, J.-L., Chen, C.H., Kuo, C.-L., Fen, C.-S., Wu, C.-C."
+    },
+    {
+      "論文名稱": "Assessing Vadose Zone Biodegradation by a Multicomponent Gas Transport Model",
+      "期刊名稱": "Vadose Zone Journal (SCIE,EI)",
+      "作者群": "Fen, C.-S.*"
+    },
+    {
+      "論文名稱": "Modeling volatilization of residual VOCs in unsaturated zones: a moving boundary problem",
+      "期刊名稱": "Journal of Hazardous Materials (SCIE)",
+      "作者群": "T.R. Abbas, J.-H. Yu, C.-S. Fen, H.-D. Yeh and L.-M. Yeh"
+    },
+    {
+      "論文名稱": "Effect of well radius on drawdown solutions obtained with Laplace Transform and Green's function",
+      "期刊名稱": "Water Resources Management (SCIE)",
+      "作者群": "Fen, C.-S., and H.-D. Yeh.*"
+    },
+    {
+      "論文名稱": "Knudsen and Molecular Diffusion Coefficients for Gas Transport in Unconsolidated Porous Media",
+      "期刊名稱": "Soil Science Society of America Journal (SCIE)",
+      "作者群": "Fen, C.-S.*, W. Liang, P. Hsiesh, and Y. Huang"
+    },
+    {
+      "論文名稱": "Experimental study of gas transport parameters in unsaturated silica flour",
+      "期刊名稱": "Vadoze Zone Journal (SCIE)",
+      "作者群": "Fen, C.-S., Y. Huang, and J.-L. Chen"
+    },
+    {
+      "論文名稱": "Assessing a response surface-based optimization approach for soil vapor extraction system design",
+      "期刊名稱": "Journal of Water Resources Planning and Management (SCIE)",
+      "作者群": "Fen, C.-S., C. Chan, and H.-C. Cheng"
+    },
+    {
+      "論文名稱": "An effective response surface-based optimization approach for soil vapor extraction system design",
+      "期刊名稱": "Civil Engineering and Environmental Systems (SCIE)",
+      "作者群": "CHIU-SHIA FEN, HSIEN-CHIE CHENG and CHEN-CHI KU"
+    },
+    {
+      "論文名稱": "Influence of Spatial Variability of Soil Properties on Mass Removal for A Soil Vapor Extraction System",
+      "期刊名稱": "Journal of Chinese Institute of Engineers (SCIE)",
+      "作者群": "C. Chang"
+    },
+    {
+      "論文名稱": "A Web-based Distributed Problem-Solving Environment for\r\nEngineering Applications\r\n",
+      "期刊名稱": "Advanced Sofware in Engineering (SCIE)",
+      "作者群": "HC. Cheng & C.S. Fen"
+    },
+    {
+      "論文名稱": "A comparison of methematical model formulations for organic vapor transport in porous media",
+      "期刊名稱": "Advances in Water Resources (SCIE)",
+      "作者群": "Fen, C.-S., L.M. Abriola"
+    },
+    {
+      "論文名稱": "Minimizing the Ecological Risk of Combined-Sewer Overflows in an Urban River System by a System-Based Approach",
+      "期刊名稱": "Journal of Environmental Engineering (SCIE)",
+      "作者群": "Chen, J.-C.; N.-B. Chang, C.-Y. Chen, and C.-S. Fen"
+    },
+    {
+      "論文名稱": "Modeling wastewater discharge to the Ai estuary, kaohsiung, Taiwan",
+      "期刊名稱": "Journal of the Chineses Institute of Engineers (SCIE)",
+      "作者群": "C.-S. Fen"
+    },
+    {
+      "論文名稱": "Assessing the storm-water impact to an urban river ecosystem using estuarine water quality simulation model",
+      "期刊名稱": "Civil Eng. And Env. Syst. (SCIE)",
+      "作者群": "Chen, J.-C.; N.-B. Chang, C.-S. Fen, C.-Y. Chen"
+    },
+    {
+      "論文名稱": "未飽和土壤層揮發性有機污染質之微生物耗氧分解及揮發速率的分析與評估",
+      "期刊名稱": "中國土木水利工程學刊 ()",
+      "作者群": "馮秋霞"
+    },
+    {
+      "論文名稱": "Modeling the hydrodynamics and water quality for the coalstal waters of Yunlin, Taiwan",
+      "期刊名稱": "Journal of the Chinese Institute of Environmental Engineerin ()",
+      "作者群": "馮秋霞"
+    },
+    {
+      "論文名稱": "未飽和土壤層多成份氣體傳輸之二維動態模擬",
+      "期刊名稱": "中國土木水利工程學刊 ()",
+      "作者群": "馮秋霞"
+    },
+    {
+      "論文名稱": "Modeling assessment of multicomponent vapor transport in unsaturated soils",
+      "期刊名稱": "Journal of the Chinese Institute of Environmental Engineerin ()",
+      "作者群": "Fen, C.-S., L.M. Abriola"
+    }
+  ],
+  "journal2": [],
+  "conference": [
+    {
+      "論文名稱": "三氯乙烯汙染土壤地下水持久性的評估",
+      "會議名稱": "台灣土壤及地下環境保護協會2022年土壤及地下水污染整治研討會, August, 23, 2022",
+      "作者群": "洪世育，馮秋霞"
+    },
+    {
+      "論文名稱": "Investigation of indoor air and soil gas trichlorethylene (TCE) concentrations at a contaminated site",
+      "會議名稱": "the 2021 TSIEQ (Taiwan Society of Indoor Environmental Quality) Conference",
+      "作者群": "Fen, C.-S. and Y.-C Lee"
+    },
+    {
+      "論文名稱": "Investigating Trichloroethylene (TCE) vapor concentration in subsurface at a manufactory in Taiwan",
+      "會議名稱": "第10屆國際地下水質研討會 10th International Groundwater Quality Conference (GQ2019) ”Groundwater quality in the transition between rural and urban environments”",
+      "作者群": "Fen, Chiu-shia* and  Huang,Yangting"
+    },
+    {
+      "論文名稱": "Upward transport of Trichloroethylene vapour in a soil column",
+      "會議名稱": "the 11th World Congress on Water Resources and Environment (EWRA 2019) “Managing Water Resources for a Sustainable Future”",
+      "作者群": "C.-S. Fen, C. Tsoa, P. Yen"
+    },
+    {
+      "論文名稱": "三氯乙烯污染土壤地下水實場的研究",
+      "會議名稱": "中華民國環境工程學會2018土壤與地下水研討會",
+      "作者群": "黃仰廷、馮秋霞"
+    },
+    {
+      "論文名稱": "三氯乙烯蒸氣在乾燥砂柱向上傳輸的研究",
+      "會議名稱": "中華民國環境工程學會2018土壤與地下水研討會",
+      "作者群": "馮秋霞、曹致維"
+    },
+    {
+      "論文名稱": "Transport of Trichloroethylene Vapor in a Dry Soil Column",
+      "會議名稱": "The 3rd International Conference on Air, Water, and Soil Pollution and Treatment (AWSPT'18)",
+      "作者群": "Fen, C-S, P. Yen"
+    },
+    {
+      "論文名稱": "延伸式完全貫穿井於受限含水層中定水頭抽水的暫態解",
+      "會議名稱": "中華民國環境工程學會2017土壤與地下水研討會",
+      "作者群": "馮秋霞、莊惟皓"
+    },
+    {
+      "論文名稱": "三氯乙烯蒸氣在乾石英砂中的傳輸研究",
+      "會議名稱": "中華民國環境工程學會2017土壤與地下水研討會",
+      "作者群": "馮秋霞、顏伯仰"
+    },
+    {
+      "論文名稱": "Experimental and modeling study on light gas transport in a soil column",
+      "會議名稱": "2017 Bioremediation Symposium (Fourth International Symposium on Bioremediation and Sustainable Environmental Technologies)",
+      "作者群": " Chiu-Shia Fen*, Yu-Ro Lin and Chia-Yu Chen"
+    },
+    {
+      "論文名稱": "輕質氣體在未飽和土壤管柱移動的研究",
+      "會議名稱": "中華民國環境工程學會2016土壤與地下水研討會",
+      "作者群": "馮秋霞*、陳佳昱"
+    },
+    {
+      "論文名稱": "重質非水相液體滲漏至未飽和層的研究",
+      "會議名稱": "中華民國環境工程學會2016土壤與地下水研討會",
+      "作者群": "馮秋霞*、江子佑"
+    },
+    {
+      "論文名稱": "Three-dimensional simulation of soil vapor extraction -Preliminary study and simulations of source zone architecture for a former contaminated site",
+      "會議名稱": "Tenth International Conference on Remediation of Chlorinated and Recalcitrant Compounds",
+      "作者群": "C.-S. Fen* and T. Chiang"
+    },
+    {
+      "論文名稱": "包含低滲透層之未飽和土壤蒸氣抽取的整治成效分析",
+      "會議名稱": "中華民國環境工程學會2015土壤與地下水研討會",
+      "作者群": "馮秋霞、張瑞立"
+    },
+    {
+      "論文名稱": "輕質氣體在未飽和土壤中傳輸的研究",
+      "會議名稱": "中華民國環境工程學會2015土壤與地下水研討會",
+      "作者群": "馮秋霞、林羽柔"
+    },
+    {
+      "論文名稱": "以不同模式分析未飽和土壤中有機氣體引致傳輸特性的研究",
+      "會議名稱": "中華民國環境工程學會2015土壤與地下水研討會",
+      "作者群": "馮秋霞、孫永泰"
+    },
+    {
+      "論文名稱": "Study on contaminant mass removal by soil vapor extraction",
+      "會議名稱": "EGU General Assembly 2015",
+      "作者群": "C-S Fen* and R-L Zhang"
+    },
+    {
+      "論文名稱": "垂直土壤蒸氣抽取警定壓抽氣的研究",
+      "會議名稱": "第八屆地下水資源及水質保護研討會暨2014兩岸地下水與水文地質應用研討會",
+      "作者群": "馮秋霞*、陳凱欣、郭青霖、葉弘德"
+    },
+    {
+      "論文名稱": "Analytical Solution for Vapor Flow to a Horizontal Well in Unsaturated Soils",
+      "會議名稱": "EWRI 2014",
+      "作者群": "M.-F. Tsou, C.-S. Fen*, H.-D. Yeh and M.-D. Lin"
+    },
+    {
+      "論文名稱": "重質氣體汙染物在未飽和土壤中傳輸的研究",
+      "會議名稱": "中華民國環境工程學會2013土壤與地下水研討會",
+      "作者群": "馮秋霞*、陳永慶"
+    },
+    {
+      "論文名稱": "Analytical model for soil vapor extraction from a constant-pressure well",
+      "會議名稱": "第八屆地下水水質2013研討會",
+      "作者群": "Ching-Lin Kuo , Chiu-Shia Fen*, Hund-Der Yeh"
+    },
+    {
+      "論文名稱": "重質氣體污染物在土壤中傳輸的實驗研究",
+      "會議名稱": "中華民國環境工程學會2012土壤與地下水研討會",
+      "作者群": "馮秋霞*、潘長泰"
+    },
+    {
+      "論文名稱": "重質氣體污染物在土壤中移動之傳輸參數與流動量的分析研究",
+      "會議名稱": "中華民國環境工程學會2012土壤與地下水研討會",
+      "作者群": "馮秋霞、楊惠雯"
+    },
+    {
+      "論文名稱": "地表下污染物逸散量評估模式的研究",
+      "會議名稱": "中華民國環境工程學會2012土壤與地下水研討會",
+      "作者群": "馮秋霞、劉蓉袖"
+    },
+    {
+      "論文名稱": "Experimental study on dense gas transport in porous media",
+      "會議名稱": "the fifth international conference on environmental science and technology",
+      "作者群": "Fen, C.-S.* and Yuen Cheng"
+    },
+    {
+      "論文名稱": "乳化油注入飽和土壤管柱傳輸實驗之模擬分析",
+      "會議名稱": "中華民國環境工程學會2011土壤與地下水研討會",
+      "作者群": "馮秋霞、藍國正"
+    },
+    {
+      "論文名稱": "密度與重力影響重質氣相污染物在土壤中傳輸的實驗研究",
+      "會議名稱": "中華民國環境工程學會2011土壤與地下水研討會",
+      "作者群": "馮秋霞、鄭宇恩"
+    },
+    {
+      "論文名稱": "Comparison of modeling approaches for assessing density-driven and gravitation-induced gas transport in porous media",
+      "會議名稱": "EGU General Assembly",
+      "作者群": "Fen, C.-S.*"
+    },
+    {
+      "論文名稱": "Three-dimensional modeling and analysis of dense nonaqueous phase liquid source zone architecture in heterogeneous soil",
+      "會議名稱": "GQ10: Groundwater Quality Management in a Rapidly Changing World",
+      "作者群": "Fen, C.-S.*, and C Tsai"
+    },
+    {
+      "論文名稱": "重質非水相液體入滲土壤地下水分布之研究",
+      "會議名稱": "中華民國環境工程學會2009土壤與地下水研討會",
+      "作者群": "馮秋霞、蔡長杰"
+    },
+    {
+      "論文名稱": "Biodegradation and multicomponent gas transport in unsaturated soils",
+      "會議名稱": "Proceedings of the tenth international in situ and on-site bioremediation symposium",
+      "作者群": "\tFen, C.-S"
+    },
+    {
+      "論文名稱": "土壤氣體流動與擴散參數之研究",
+      "會議名稱": "中華民國環境工程學會2008土壤與地下水研討會",
+      "作者群": "謝璧襄"
+    },
+    {
+      "論文名稱": "An experimental study on gas transport mechanisms in unsaturated porous media",
+      "會議名稱": "Groundwater Quality 2007",
+      "作者群": "Y. Huang; J. Chen"
+    },
+    {
+      "論文名稱": "數值模式應用於實場污染整治成效分析",
+      "會議名稱": "2007土壤與地下水研討會",
+      "作者群": "斯克誠;蔡仲育"
+    },
+    {
+      "論文名稱": "土壤氣體流動與擴散之實驗分析",
+      "會議名稱": "2007土壤與地下水研討會",
+      "作者群": "陳建隆;黃永昆"
+    },
+    {
+      "論文名稱": "Quantification of biodegradation and volatilization rates of organic compounds in soils by using the Dusty Gas model",
+      "會議名稱": "International Conference on WAter POllution in natural POrous media at different scales, Assessment of fate, impact and indicators",
+      "作者群": "no"
+    },
+    {
+      "論文名稱": "土壤變異特性影響氣提整治系統污染移除成效之模擬研究",
+      "會議名稱": "第三屆海峽兩岸土壤與地下水污染整治研討會",
+      "作者群": "張均魁"
+    },
+    {
+      "論文名稱": "兩種最佳化模式應用於氣提整治系統設計之研究",
+      "會議名稱": "第十九屆環境規劃與管理研討會",
+      "作者群": "詹成家"
+    },
+    {
+      "論文名稱": "Effective gas-phase diffusion coefficient in soils",
+      "會議名稱": "BROWNFIELDS 2006",
+      "作者群": "無"
+    },
+    {
+      "論文名稱": "Optimal flow rates for soil vapor extraction systems",
+      "會議名稱": "第十六屆環境規劃與管理研討會",
+      "作者群": "C.-C. Ku"
+    },
+    {
+      "論文名稱": "結合以WEB為架構之分散式計算系統於海域污染問題之應用",
+      "會議名稱": "第十六屆環境規劃與管理研討會",
+      "作者群": "林佳宜"
+    },
+    {
+      "論文名稱": "台灣中西部海域油及化學品污染漂移預測模擬系統之開發",
+      "會議名稱": "第十六屆環境規劃與管理研討會",
+      "作者群": "陳皆曲、陳志朋"
+    },
+    {
+      "論文名稱": "數值模式應用於平原區之地下水補注評估的研究",
+      "會議名稱": "第十三屆水利工程研討會",
+      "作者群": "無"
+    },
+    {
+      "論文名稱": "未飽和土壤層揮發性有機污染質之微生物分解及揮發速率的分析與評估",
+      "會議名稱": "第一屆海峽兩岸土壤與地下水污染整治研討會",
+      "作者群": "無"
+    },
+    {
+      "論文名稱": "未飽和土壤層揮發性有機污染質之動態模擬",
+      "會議名稱": "第八屆海峽兩岸環境保護研討會",
+      "作者群": "馮秋霞、陳欣偉"
+    },
+    {
+      "論文名稱": "雲林離島工業區海域及近岸河口水質數值模擬",
+      "會議名稱": "第七屆海峽兩岸水利科技交流研討會",
+      "作者群": "許弘莒、劉景毅、馮秋霞"
+    },
+    {
+      "論文名稱": "Modeling transient multicomponent vapor transport in the unsaturated zone",
+      "會議名稱": " ModelCARE 2002",
+      "作者群": "無"
+    },
+    {
+      "論文名稱": "「工業區海域及近岸河口水理水質模式的驗證與應用」",
+      "會議名稱": "濱海工業區調查研究與規劃設計施工成果發表研討會",
+      "作者群": "馮秋霞、郭大方"
+    },
+    {
+      "論文名稱": "高雄地區仁愛河水質預測模式與下水道系統暴雨模式之整合分析",
+      "會議名稱": "第十三屆環境規劃與管理研討會論文集",
+      "作者群": "吳銘昌、陳建中、張進賢、馮秋霞、張乃斌"
+    }
+  ],
+  "book": [
+    {
+      "專業書籍": "地表下污染物逸散之暴露量評估研究",
+      "出版單位": "行政院環保署",
+      "作者群": "馮秋霞,劉蓉袖"
+    },
+    {
+      "專業書籍": "95年度南港溪愛蘭橋測站污染整治整體規劃暨水質改善計劃-第二年",
+      "出版單位": "南投縣環境保護局",
+      "作者群": "吳志超、吳俊哲、陳建隆、馮秋霞"
+    },
+    {
+      "專業書籍": "南港溪愛蘭橋測站污染整治整體規劃暨水質改善計畫",
+      "出版單位": "南投縣政府環境保護局",
+      "作者群": "吳志超，吳俊哲，陳建隆....."
+    },
+    {
+      "專業書籍": "台灣中西部（新竹至嘉義）海域油及化學品污染漂移預測模式系統之建立",
+      "出版單位": "三普環境分析股份有限公司",
+      "作者群": "馮秋霞、陳皆曲、陳志朋"
+    },
+    {
+      "專業書籍": "應用衛星建立全天候天然災害及時自動監控與通報系統",
+      "出版單位": "內政部消防署",
+      "作者群": "馮秋霞、林吉吉"
+    },
+    {
+      "專業書籍": "「應用衛星建立全天候天然災害及時自動監控與通報系統，第一階段，系統架構設計研究」",
+      "出版單位": "內政部消防署",
+      "作者群": "馮秋霞，林吉吉"
+    },
+    {
+      "專業書籍": "「雲林離島工業區整體開發調查研究-第九年 第二部份 數值模擬 第一冊 工業區海域與近岸河口水理水質模式之驗證與應用」",
+      "出版單位": "國立成功大學水工試驗所研究試驗",
+      "作者群": "馮秋霞、郭大方"
+    }
+  ],
+  "patent": [],
+  "most": [
+    {
+      "name": "重質非水相液體源區下游地下水汙染通量不確定性的研究(II)",
+      "schoolYear": "113"
+    },
+    {
+      "name": "重質非水相液體源區下游地下水汙染通量不確定性的研究",
+      "schoolYear": "112"
+    },
+    {
+      "name": "非水相液體入滲土壤地下水形成源區之污染通量與耗盡時間模擬架構的研究(II)",
+      "schoolYear": "110"
+    },
+    {
+      "name": "非水相液體入滲土壤地下水形成源區之污染通量與耗盡時間模擬架構的研究",
+      "schoolYear": "109"
+    },
+    {
+      "name": "土壤地下水汙染有機氣體入侵建築室內之研究(3/3)",
+      "schoolYear": "108"
+    },
+    {
+      "name": "土壤地下水汙染有機氣體入侵建築室內之研究(2/3)",
+      "schoolYear": "107"
+    },
+    {
+      "name": "土壤地下水汙染有機氣體入侵建築室內之研究(1/3)",
+      "schoolYear": "106"
+    },
+    {
+      "name": "地表下揮發性有機汙染物與有機氣體氣相傳輸及逸散量的研究(3/3)",
+      "schoolYear": "105"
+    },
+    {
+      "name": "地表下揮發性有機汙染物與有機氣體氣相傳輸及逸散量的研究(2/3)",
+      "schoolYear": "104"
+    },
+    {
+      "name": "地表下揮發性有機汙染物與有機氣體氣相傳輸及逸散量的研究(1/3)",
+      "schoolYear": "103"
+    },
+    {
+      "name": "未飽和土壤抽氣或注氣引致氣流的研究(2/2)",
+      "schoolYear": "102"
+    },
+    {
+      "name": "未飽和土壤抽氣或注氣引致氣流的研究(1/2)",
+      "schoolYear": "101"
+    },
+    {
+      "name": "土壤中氣態污染物因密度改變與重力引致之傳輸的研究(II)",
+      "schoolYear": "100"
+    },
+    {
+      "name": "土壤中氣態污染物因密度改變與重力引致之傳輸的研究",
+      "schoolYear": "99"
+    },
+    {
+      "name": "污染實場之氣提系統設計、整治成效與完成整治評估方法的研究(3/3)",
+      "schoolYear": "98"
+    },
+    {
+      "name": "污染實場之氣提系統設計、整治成效與完成整治評估方法的研究(2/3)",
+      "schoolYear": "97"
+    },
+    {
+      "name": "污染實場之氣提系統設計、整治成效與完成整治評估方法的研究(1/3)",
+      "schoolYear": "96"
+    },
+    {
+      "name": "未飽和土壤層氣體有效擴散係數之研究(II)",
+      "schoolYear": "95"
+    },
+    {
+      "name": "未飽和土壤層氣體有效擴散係數之研究",
+      "schoolYear": "94"
+    },
+    {
+      "name": "隨機多目標氣提整治系統最佳化設計的研究",
+      "schoolYear": "93"
+    },
+    {
+      "name": "氣提整治系統之分析與最佳化設計",
+      "schoolYear": "92"
+    },
+    {
+      "name": "應用最佳化理論於參數辨認及未飽和層污染整治設計",
+      "schoolYear": "91"
+    },
+    {
+      "name": "有機氣體在未飽和土壤層傳輸行為之模式評估",
+      "schoolYear": "89"
+    }
+  ],
+  "tech": [
+    {
+      "論文名稱": "Three-dimensional modeling and analysis of dense nonaqueous phase liquid source zone architecture in heterogeneous soil (2011-01)",
+      "書名": "GQ10: Groundwater Quality Management in a Rapidly Changing World (Mario Schirmer, Eduard Hoehn, and Tobias Vogt)",
+      "作者群": "Fen, C.-S.*, and C Tsai."
+    },
+    {
+      "論文名稱": "Quantification of biodegradation and volatilization rates of organic compounds in soils by using the (2008-08)",
+      "書名": "ADVANCES IN SUBSURFACE POLLUTION OF POROUS MEDIA. Indicators, Processes and Modelling. Selected Papers on Hydrogeology 14, Chap. 11, edited by L. Candela, I. Vadillo and F. Elorza",
+      "作者群": "C. Fen"
+    },
+    {
+      "論文名稱": "An experimental study on gas transport mechanisms in unsaturated porous media (2008-08)",
+      "書名": "Groundwater Quality: Securing Groundwater Quality in Urban and Industrial Environments, edited by M. G. Trefry",
+      "作者群": "C. Fen, Y. Huang & J. Chen"
+    },
+    {
+      "論文名稱": "Effective gas-phase diffusion coefficient in soils (2006-08)",
+      "書名": "Brownfields III. prevention, assessment, rehabilitation and development of Brownfield Sites",
+      "作者群": "Fen, C.-S.*"
+    }
+  ],
+  "induAca": [
+    "地表下污染物逸散之曝露量評估研究 (2010-12 to 2011-12)",
+    "台灣中西部(新竹至嘉義)海域油及化學品污染漂移預測模式系統之建立 (2002-08 to 2003-04)",
+    "應用衛星建立全天候天然災害及時自動監控與通報系統研究 (2002-03 to 2003-02)"
+  ],
+  "perform": [],
+  "reward": [
+    "逢甲大學論文著作獎勵優等獎 (113, 2024-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (110, 2021-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (109, 2020-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (108, 2019-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (107, 2018-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (106, 2017-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (104, 2015-11) - 逢甲大學",
+    "104年度土壤與地下水研討會最佳 (104, 2015-11) - 中華民國環境工程學會",
+    "逢甲大學論文著作獎勵傑出獎 (102, 2013-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (102, 2013-11) - 逢甲大學",
+    "學生論文競賽優等獎 (101, 2013-05) - 理學院",
+    "逢甲大學論文著作獎勵傑出獎 (101, 2012-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (101, 2012-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (99, 2010-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (99, 2010-11) - 逢甲大學",
+    "99年度科技部獎勵特殊優秀人才 (99, 2010-10) - 研究發展處",
+    "逢甲大學論文著作獎勵優良獎 (98, 2009-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (98, 2009-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (98, 2009-11) - 逢甲大學",
+    "理學院學生論文競賽入選獎 (97, 2009-06) - 理學院",
+    "逢甲大學論文著作獎勵優良獎 (97, 2008-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (95, 2006-11) - 逢甲大學",
+    "佳作 (95, 2006-05) - 論文獎/理學院",
+    "佳作 (94, 2006-05) - 論文獎/理學院",
+    "逢甲大學論文著作獎勵優良獎 (94, 2005-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (94, 2005-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (94, 2005-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (94, 2005-11) - 逢甲大學",
+    "論文獎 (93, 2004-12) - 中國土木水利工程學會",
+    "逢甲大學論文著作獎勵 (93, 2004-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵 (93, 2004-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵 (92, 2003-11) - 逢甲大學"
+  ],
+  "speech": [
+    {
+      "演講題目": "地表下的多相流動與污染傳輸問題",
+      "邀請單位": "明志科技大學環安衛系",
+      "演講日期": "2016-03"
+    },
+    {
+      "演講題目": "soil gas and vapor in unsaturated zone",
+      "邀請單位": "交通大學環工所",
+      "演講日期": "2011-11"
+    },
+    {
+      "演講題目": "Soil gas and vapor transport in unsaturated zone",
+      "邀請單位": "交通大學環工所",
+      "演講日期": "2009-10"
+    }
+  ],
+  "material": [],
+  "tal": []
+}

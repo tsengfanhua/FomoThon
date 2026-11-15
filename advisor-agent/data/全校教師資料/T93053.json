@@ -1,0 +1,655 @@
+{
+  "teacherId": "T93053",
+  "name": "袁世一",
+  "mainUnit": "資訊電機學院",
+  "detailUnit": "通訊工程學系",
+  "skill": [
+    "嵌入式系統設計Embedded system design",
+    "即時嵌入式作業系統Embedded RTOS",
+    "驅動程式設計Driver Design",
+    "IC電磁相容模型ICEMC modeling"
+  ],
+  "edu": [
+    "國立台灣大學 電機工程學系 博士",
+    "國立台灣大學 電機工程學系 碩士",
+    "國立台灣師範大學 生物學系 學士"
+  ],
+  "fcuExp": [
+    "積體電路電磁相容研究發展中心 綜合企劃組組長",
+    "積體電路電磁相容研究發展中心 綜合企劃組組長",
+    "器材中心 主任",
+    "嵌入式系統發展研究中心 主任",
+    "通訊工程學系 助理教授",
+    "通訊工程學系 副教授",
+    "通訊工程學系 教授"
+  ],
+  "currjob": [],
+  "otherExp": [
+    "亞東技術學院 電子工程系 助理教授",
+    "亞東工專 電子工程系 助理教授"
+  ],
+  "journal": [
+    {
+      "論文名稱": "Compiler Synthesis of Multiply Accumulate (MAC) Instructions Using LLVM Backend",
+      "期刊名稱": "International Journal of Electrical, Electronics and Data Communication (IJEEDC) , pp. 30-34, Volume-12,Issue-4 (SCOPUS, SJR)",
+      "作者群": "Shih-Yi Yuan ,Wei-Ting Chen"
+    },
+    {
+      "論文名稱": "Design and Implement an Intelligent System for Stock Investment Decision Making",
+      "期刊名稱": "Journal of Information Science and Engineering (SCIE)",
+      "作者群": "CHIUNG HON LEE, TSUNG-JU LEE, YU-SHENG CHIANG,SHIH-YI YUAN, JYH-HWA LIOU"
+    },
+    {
+      "論文名稱": "Improvement of Electromagnetic Side-Channel Information Measurement Platform",
+      "期刊名稱": "Sensors (SCIE,EI)",
+      "作者群": "Shih-Yi Yuan, Wei-Sheng Liu"
+    },
+    {
+      "論文名稱": "Optimized Sequence Dataset Generation for a Two-Stage Pipelined Microcontroller Instruction-Level Electromagnetic Information Leakage Analysis",
+      "期刊名稱": "IEEE Access (SCIE,EI)",
+      "作者群": "Shih-Yi Yuan"
+    },
+    {
+      "論文名稱": "Identification of Microcontroller Unit Instruction Execution Using Electromagnetic Leakage and Neural Network Classification",
+      "期刊名稱": "IEEE Transactions on Electromagnetic Compatibility (SCIE,EI)",
+      "作者群": "Shih-Yi Yuan"
+    },
+    {
+      "論文名稱": "Extremely compact microstrip branch-line coupler with a novel fold structure",
+      "期刊名稱": "Microwave and Optical Technology Letters (SCIE)",
+      "作者群": "Ja-Hao Chen*, Shih-Yi Yuan and Shi-Rong Liou"
+    },
+    {
+      "論文名稱": "Compact Planar Microstrip Branch-Line Coupler Using Equal Difference Structure",
+      "期刊名稱": "Microwave and Optical Technology Letters (SCIE)",
+      "作者群": "Ja-Hao Chen*, Shih-Yi Yuan, Shi-Rong Liou, and Shry-Sann Liao"
+    },
+    {
+      "論文名稱": "Moving Object Counting Using a Tripwire in H.265/HEVC Bitstreams for Video Surveillance",
+      "期刊名稱": "IEEE Access (SCIE)",
+      "作者群": "Yung-Wei Chen  ; Kai Chen ; Shih-Yi Yuan ; Sy-Yen Kuo"
+    },
+    {
+      "論文名稱": "ICI Self-Cancellation With Cosine Windowing in OFDM Transmitters Over Fast Time-Varying Channels",
+      "期刊名稱": "IEEE Transactions on Wireless Communications (SCIE,EI)",
+      "作者群": "Ting-Li Liu ; Wei-Ho Chung ; Shih-Yi Yuan ; Sy-Yen Kuo"
+    },
+    {
+      "論文名稱": "A Compiler Design Technique for Impulsive VDD Current Minimization",
+      "期刊名稱": "IEEE transactions on Electromagnetic Compatibility (SCIE,EI)",
+      "作者群": "Shih-Yi Yuan(*), Wei-Bing Su"
+    },
+    {
+      "論文名稱": "Detection of Electromagnetic Interference in Microcontrollers Using the Instability of an Embedded Phase-Lock Loop",
+      "期刊名稱": "IEEE TRANSACTIONS ON ELECTROMAGNETIC COMPATIBILITY (SCIE,EI)",
+      "作者群": "Shih-Yi Yuan, Richard Perdriau and Shry-Sann Liao, Yu-Lun Wu"
+    },
+    {
+      "論文名稱": "“Obstacle-Avoiding Rectilinear Steiner Tree Construction: A Steiner-Point Based Algorithm",
+      "期刊名稱": "IEEE Transactions on Computer-Aided Design of Integrated Cir (SCIE,EI)",
+      "作者群": "Chih-Hung Liu*, Sy-Yen Kuo, D. T. Lee, Chun-Syun Lin, Jung-Hung Weng, Shih-Yi Yuan"
+    },
+    {
+      "論文名稱": "A Microcontroller instruction set simulator for EMI prediction",
+      "期刊名稱": "IEEE transaction on EMC (SCIE,EI)",
+      "作者群": "Shih-Yi Yuan, Huai-En Chung, and Shry-Sann Liao"
+    },
+    {
+      "論文名稱": "High Performance Obstacle-Avoiding Rectilinear Steiner Tree Construction",
+      "期刊名稱": "ACM Transactions on Design Automation of Electronic Systems (SCIE,EI)",
+      "作者群": "Chih-Hung Liu, Shih-Yi Yuan, Sy-Yen Kuo, Szu-Chi Wang"
+    },
+    {
+      "論文名稱": "A Bus-Inverted Coding Scheme to Improve Data-Dependent PCI Power Integrity",
+      "期刊名稱": "IEEE transactions on Electromagnetic Compatibility (TEMC) (SCIE,EI)",
+      "作者群": "Shih-Yi Yuan, Chun-Wei Huang, and Shry-Sann Liao"
+    },
+    {
+      "論文名稱": "An Efficient Graph-Based Algorithm for ESD Current Path Analysis",
+      "期刊名稱": "IEEE transactions on Computer-Added Design (TCAD) (SCIE,EI)",
+      "作者群": "Chih-Hung Liu, Hung-Yi Liu, Chung-Wei Lin, Szu-Jui Chou, Yao-Wen Chang, Sy-Yen Kuo, Shih-Yi Yuan, and Yu-Wei Chen"
+    },
+    {
+      "論文名稱": "應用於EMC之程式EMI模型",
+      "期刊名稱": "電子檢測與品管季刊 (專刊)",
+      "作者群": "袁世一, 林銘昱"
+    },
+    {
+      "論文名稱": "積體電路進場掃瞄自動量測系統開發與量測",
+      "期刊名稱": "電子檢測與品管季刊 (專刊)",
+      "作者群": "董建利, 陳秋國, 袁世一"
+    },
+    {
+      "論文名稱": "A Miniaturized Millimeter-wave Branch-line Coupler Using Nonsymmetrical T-shape Structure with Quasi Stepped Impedance resonator",
+      "期刊名稱": "Microwave and optical Technology Letters (SCIE,EI)",
+      "作者群": "Miin-Shyue Shiau, Shih-Yi Yuan, Shry-Sann Liao, Pou-Tou Sun,  Don-Gey Liu"
+    },
+    {
+      "論文名稱": "An Extremely Compact Dual-band Branch-line Coupler",
+      "期刊名稱": "Microwave and optical Technology Letters (SCIE,EI)",
+      "作者群": "Shih-Yi Yuan, Miin-Shyue Siau, Shry-Sann Liao, Pou-Tou Sun, and Chia-Tai Ho"
+    },
+    {
+      "論文名稱": "Randomized and Distributed Methods for Reliable Peer-to-Peer Data Communication in Wireless Ad Hoc Networks",
+      "期刊名稱": "IET Communications (SCIE,EI)",
+      "作者群": "Hong-Zu Chou, Szu-Chi Wang, Shih-Yi Yuan, and Sy-Yen Kuo"
+    },
+    {
+      "論文名稱": "積體電路電磁相容的量測與模型驗證介紹",
+      "期刊名稱": "標準與檢驗雜誌 ()",
+      "作者群": "袁世一、羅嘉文"
+    }
+  ],
+  "journal2": [],
+  "conference": [
+    {
+      "論文名稱": "5G無人機之磁磚瑕疵智慧檢測系統",
+      "會議名稱": "2024台灣網際網路研討會(Taiwan Academic Network Conference, TANET)",
+      "作者群": "戴侑庭, 林昱銓, 蔡昂勳*, 袁世一"
+    },
+    {
+      "論文名稱": "Software and Hardware Integrated Automated Measurement Platform for Electromagnetic Leakage Embedded Systems",
+      "會議名稱": "International Journal of Electrical, Electronics and Data Communication (IJEEDC",
+      "作者群": "Shih-Yi Yuan, Kai-Xun Lin"
+    },
+    {
+      "論文名稱": "The development of Side-channel leakage platform on Hub-75 LED matrix data transmission protocol",
+      "會議名稱": "2023 24th International Conference on Applied Electromagnetics and Communications (ICECOM)",
+      "作者群": "Shih-Yi Yuan; Chia-Yu Tsai; Liang-Yang Lin; Yuan-Fu Ku; Wei-Sheng Liu"
+    },
+    {
+      "論文名稱": "IoT OS Teaching Material Development",
+      "會議名稱": "6th IEEE Eurasian Conference on Educational Innovation 2023",
+      "作者群": "Shih-Yi Yuan; Fong-Chi Lui; Hui-Chun Huang; Ting-Wei Huang; Wei-Sheng Liu"
+    },
+    {
+      "論文名稱": "EMI behavior of FPGA-IP measurement",
+      "會議名稱": "2022 Asia-Pacific International Symposium on Electromagnetic Compatibility (APEMC)",
+      "作者群": "Shih-Yi Yuan*1, Shu-Yao Hsuan,  Hui-Chun Huang, Ting-Wei Huang,  Si-Rong He, Wei-Sheng Liu, Feng-Chi  Liu"
+    },
+    {
+      "論文名稱": "Side-channel Information Leakage Analysis on Functional FPGA Intellectual Properties by Neural Network",
+      "會議名稱": "2022 Asia-Pacific International Symposium on Electromagnetic Compatibility (APEMC)",
+      "作者群": "Shih-Yi Yuan*1, Shu-Yao Hsuan, Hui-Chun Huang, Ting-Wei Huang, Si-Rong He, Wei-Sheng Liu, Feng-Chi Liu"
+    },
+    {
+      "論文名稱": "Use subsequent neural network to analyze ICEMI",
+      "會議名稱": "2021 IEEE International Conference on Consumer Electronics-Taiwan (ICCE-TW)",
+      "作者群": "Shih-Yi Yuan*1, Shu-Yao Hsuan*1, Cheng-You Chang*1, Bo-Yu Zhu*1, Si-Rong He*1, Yuan-Fu Ku*2 Tzung-Hsien Chen*3"
+    },
+    {
+      "論文名稱": "Automatic ICEMI time-domain muti-point measurement platform",
+      "會議名稱": "2020 IEEE International Conference on Consumer Electronics - Taiwan (ICCE-Taiwan)",
+      "作者群": "PoWei Huang; Shih-Yi Yuan; Cheng-You Chang; Bo-Yu Zhu; Shu-Yao Hsuan; Chia-Hung Su; Jian-Li Dong"
+    },
+    {
+      "論文名稱": "Automated EMI measurement and data processing integration platform",
+      "會議名稱": "2019 12th International Workshop on the Electromagnetic Compatibility of Integrated Circuits (EMC Compo)",
+      "作者群": "Shih-Yi Yuan ; Po-Wei Huang ; Chia-Hung Su"
+    },
+    {
+      "論文名稱": "Classification of an Embedded System Instruction EMI Using a Deep Convolutional Neural Network",
+      "會議名稱": "2019 Joint International Symposium on Electromagnetic Compatibility, Sapporo and Asia-Pacific International Symposium on Electromagnetic Compatibility (EMC Sapporo/APEMC)",
+      "作者群": "Shih-Yi Yuan ; Po-Yen Lin ; Cheng-You Chang ; Jian-Li Dong ; Chia-Hung Su"
+    },
+    {
+      "論文名稱": "Tree Structure Network: A Learning-Based Deep Network for Classification of CPU Instruction through EM Signal",
+      "會議名稱": "2019 Joint International Symposium on Electromagnetic Compatibility, Sapporo and Asia-Pacific International Symposium on Electromagnetic Compatibility (EMC Sapporo/APEMC)",
+      "作者群": "Hao-Yu Fang ; Shih-Yi Yuan ; Po-Yen Lin ; Sy-Yen Kuo"
+    },
+    {
+      "論文名稱": "Efficient Reflection Removal Algorithm for Single Image by Pixel Compensation and Detail Reconstruction",
+      "會議名稱": "2018 IEEE 23rd International Conference on Digital Signal Processing (DSP)",
+      "作者群": "Gui-Cheng Tsai ; Wei-Ting Chen ; Shih-Yi Yuan ; Sy-Yen Kuo"
+    },
+    {
+      "論文名稱": "Color Channel-Based Smoke Removal Algorithm Using Machine Learning for Static Images",
+      "會議名稱": "2018 25th IEEE International Conference on Image Processing (ICIP)",
+      "作者群": "Wei-Ting Chen, Shih-Yi Yuan, Gui-Cheng Tsai, Hui-Chih Wang, Sy-Yen Kuo"
+    },
+    {
+      "論文名稱": "Compiler options effect on System-level Near Field EMI",
+      "會議名稱": "2018 IEEE International Symposium on Electromagnetic Compatibility and 2018 IEEE Asia-Pacific Symposium on Electromagnetic Compatibility (EMC/APEMC)",
+      "作者群": "Shih-Yi Yuan, Po-Yen Lin, Chia-Hung Su, Tzung-Hsien Chen"
+    },
+    {
+      "論文名稱": "Smart-Tag EMI Comparison of Different Program Skills",
+      "會議名稱": "2018 IEEE International Symposium on Electromagnetic Compatibility and 2018 IEEE Asia-Pacific Symposium on Electromagnetic Compatibility (EMC/APEMC)",
+      "作者群": "Shih-Yi Yuan, Cheng-You Chang, Tzung-Hsien Chen, Chia-Hung Su"
+    },
+    {
+      "論文名稱": "Wide-stopband compact pseudo-interdigital over coupled bandpass filter with SIR and open-stub structure",
+      "會議名稱": "2017 Progress in Electromagnetics Research Symposium - Fall (PIERS - FALL)",
+      "作者群": "Ja-Hao Chen, Shih-Yi Yuan, and Shi-Rong Liou"
+    },
+    {
+      "論文名稱": "編譯器選項之近場電磁干擾測量平台建置",
+      "會議名稱": "2017能源科技產品暨檢測技術論文研討會",
+      "作者群": "袁世一*、林柏言、洪浚譯"
+    },
+    {
+      "論文名稱": "Application-specific Near Field EMI Estimation on Time-Sharing Operating System",
+      "會議名稱": "IEEE EMC Compo 2017",
+      "作者群": "*Shih-Yi Yuan, Jia-Wei Chen,Ming-Shan Lin, Jian-Li Dong"
+    },
+    {
+      "論文名稱": "分時多工系統之軟體EMI量測平台",
+      "會議名稱": "能源科技產品暨檢測技術論文研討會",
+      "作者群": "袁世一、陳佳惟"
+    },
+    {
+      "論文名稱": "不同演算法之EMI比較",
+      "會議名稱": "2016全國電磁相容技術與實務研討會",
+      "作者群": "袁世一、陳佳惟"
+    },
+    {
+      "論文名稱": "Near Field Program-dependent EMI Measurement and Data Reduction for IOMarking Method",
+      "會議名稱": "7th Asia-Pacific International Symposium on Electromagnetic Compatibility & Signal Integrity (APEMC 2016)",
+      "作者群": "Shih-Yi Yuan*,Wang-Cheng Kang"
+    },
+    {
+      "論文名稱": "Time-domain Instruction Conducted EMI Waveform Cutting",
+      "會議名稱": "2015 Asia-Pacific EMC-Symposium (APEMC)",
+      "作者群": "Shih-Yi Yuan, Ting-En Wu, Zi-Rong Wu, Chia-wei Chen, Yi-jia Huang, and Yi-Ying Li"
+    },
+    {
+      "論文名稱": "The Measurement and Comparison of 8051 Microcontroller Instruction Waveform",
+      "會議名稱": "2015 Asia-Pacific EMC-Symposium (APEMC)",
+      "作者群": "Shih-Yi Yuan, Zhi-Xiang Zhong, and Yan-Wei Zhang"
+    },
+    {
+      "論文名稱": "Software-related EMI test pattern auto-generation for 2-stage pipeline microcontroller",
+      "會議名稱": "IEEE International Symposium on Electromagnetic Compatibility & Signal Integrity",
+      "作者群": "Shih-Yi Yuan*,Yung-Chi Tang,Cheng-Chang Chen"
+    },
+    {
+      "論文名稱": "Software-related EMI Behavior of Embedded Microcontroller",
+      "會議名稱": "IEEE International Conference on Signal and Power Integrity",
+      "作者群": "Shih-Yi Yuan*, Wei-Yen Chung, Cheng‐Chang Chang, Chiu‐Kuo Chang"
+    },
+    {
+      "論文名稱": "Recent progress of Software-related Electromagnetic Compatibility",
+      "會議名稱": "IEEE Latin-American Test Workshop (LATW)",
+      "作者群": "Shih-Yi Yuan"
+    },
+    {
+      "論文名稱": "Automatic Conducted-EMI Microcontroller Model Building",
+      "會議名稱": "9th International Workshop on Electromagnetic Compatibility of Integrated Circuits (EMC Compo)",
+      "作者群": "Shih-Yi Yuan, Shry-Sann Liao"
+    },
+    {
+      "論文名稱": "Software-level microcontroller power integrity model for platform-based design methodology",
+      "會議名稱": "Automotive and Vehicle Technologies Conference (AVTEC)",
+      "作者群": "Shih-Yi Yuan, Han-Nien Lin, Shry-Sann Liao, and Yen-Tang Chang"
+    },
+    {
+      "論文名稱": "Microcontroller Power Integrity Black-Box Model",
+      "會議名稱": "International Future Energy Electronics Conference (IFEEC)",
+      "作者群": "Shih-Yi Yuan and Cheng-Chang Chen"
+    },
+    {
+      "論文名稱": "Quantum Circuit and Byzantine Generals Problem",
+      "會議名稱": "12th IEEE International Conference on Nanotechnology",
+      "作者群": "Chia-Hung Chien, Tein-Sheng Lin, Chin-Yung Lu, Shih-Yi Yuan, and Sy-Yen Kuo"
+    },
+    {
+      "論文名稱": "靜電放電防護設計與探討",
+      "會議名稱": "2012全國電磁相容技術與實務研討會暨展示會",
+      "作者群": "袁世一.孫伯斗.廖時三.莊瀅叡"
+    },
+    {
+      "論文名稱": "IC-EMC Model Extension Based on Internal Impulse Response Function",
+      "會議名稱": "2012 Asia-Pacific International Symposium on Electromagnetic Compatibility in Singapore",
+      "作者群": "Shih-Yi Yuan,Jiun-Jia Huang,Chia-Yuan Hsu,Shry-Sann Liao,Chi-Chin Tang,Haw-Yu Wu"
+    },
+    {
+      "論文名稱": "Electromagnetic Interference Analysis using an Embedded Phase-Lock Loop",
+      "會議名稱": "2012 Asia-Pacific International Symposium on Electromagnetic Compatibility in Singapore",
+      "作者群": "Shih-Yi Yuan,Yu-Lun Wu,Richard Perdriau,Shry-Sann Liao"
+    },
+    {
+      "論文名稱": "Dynamic Internal Impedance and Current Activity Estimation for Software-Related IC-EMC Model",
+      "會議名稱": "2012 Asia-Pacific International Symposium on Electromagnetic Compatibility in Singapore",
+      "作者群": "Shih-Yi Yuan,Jiun-Jia Huang,Shry-Sann Liao,Chia-Yuan Hsu,Ting-Wei Yeh"
+    },
+    {
+      "論文名稱": "A Software Technique for EMI Optimization",
+      "會議名稱": "2012 Asia-Pacific International Symposium on Electromagnetic Compatibility in Singapore",
+      "作者群": "Shih-Yi Yuan,Wei-Bing Su"
+    },
+    {
+      "論文名稱": "Relations of Machine Codes and EMI Behaviours",
+      "會議名稱": "2012 Asia-Pacific International Symposium on Electromagnetic Compatibility in Singapore",
+      "作者群": "Shih-Yi Yuan,Wei-Bing Su,Bo-Chia Tang,Yung-Chien Chang,Fu-Kai Chang,Jen-Wei Liu,Shry-Sann Liao"
+    },
+    {
+      "論文名稱": "Compact Microstrip Bandstop Filter with Controllable Triple Stopband Response",
+      "會議名稱": "The 31st PIERS in Kuala Lumpur, Malaysia",
+      "作者群": "Shry-Sann Liao , Shih-Yi Yuan , Yu-Lun Wu , Ting-Yao Huang"
+    },
+    {
+      "論文名稱": "Improve ESD Protection on Mobile Phone with Capacitive Touch Screen",
+      "會議名稱": "海峽兩岸四地無線電科技研討會",
+      "作者群": "Jui-Ming Tsai,Ying-Jui Chuang,Shry-Sann Liao,Shih-Yi Yuan"
+    },
+    {
+      "論文名稱": "以鎖相迴路偵測電磁干擾之研究",
+      "會議名稱": "2011全國電磁相容與技術研討會暨展示會",
+      "作者群": "袁世一（Shih-Yi Yuan)，廖時三(Shry-Sann Liao)，吳育倫（Yu-Lun Wu）"
+    },
+    {
+      "論文名稱": "探討電容式觸控螢幕的智慧型手機的靜電問題",
+      "會議名稱": "2011全國電磁相容技術與實務研討會暨展示會",
+      "作者群": "廖時三，袁世一，蔡瑞明，莊瀅叡"
+    },
+    {
+      "論文名稱": "對數周期偶極天線維修安全技術",
+      "會議名稱": "2010 全國電磁相容技術與實務研討會",
+      "作者群": "吳育倫,黃紫光,袁世一,廖時三,黃展豐,宋榮泉"
+    },
+    {
+      "論文名稱": "FPGA programmable PLL impact on EMC behavior",
+      "會議名稱": " Electromagnetic Compatibility (APEMC), 2010 Asia-Pacific Symposium",
+      "作者群": "Shih-Yi Yuan*,Cheng-Hsieh Wu,Shry-Sann Liao"
+    },
+    {
+      "論文名稱": "THE POWER STABILITY OF FPGA-BASED MICROCONTROLLER DESIGN AND MEASUREMENT",
+      "會議名稱": "2010 Asia-Pacific International Symposium on Electromagnetic Compatibility",
+      "作者群": "Shih-Yi Yuan, Pi-Shun Chang, Shry-Sann Liao"
+    },
+    {
+      "論文名稱": "Assessment of the Immunity of a Dual-Core 16-Bit Microcontroller to Near-Field Injection",
+      "會議名稱": "International Workshop on Electromagnetic Compatibility of Integrated Circuits (EMC COMPO 2009),",
+      "作者群": "Stephane Baffreau, Richard Perdriau  and Shih-Yi Yuan"
+    },
+    {
+      "論文名稱": "Programmable PLL EMI Measurement",
+      "會議名稱": "7th International Workshop on Electromagnetic Compatibility of Integrated Circuits (EMC COMPO 2009)",
+      "作者群": "Shih-Yi Yuan, Hsin-I Wang, Stephane Baffreau"
+    },
+    {
+      "論文名稱": "Programmable PLL Frequency Conversion Estimation",
+      "會議名稱": "7th International Workshop on Electromagnetic Compatibility of Integrated Circuits (EMC COMPO 2009)",
+      "作者群": "Shih-Yi Yuan, Wei-Hsiung Huang, S.Baffreau"
+    },
+    {
+      "論文名稱": "Instruction Current Model for Pipelined Microcontroller EMI Behaviour Estimation",
+      "會議名稱": "2009 ASIA-PACIFIC EMC",
+      "作者群": "Shih-Yi Yuan, Wei- Hsiung Huang"
+    },
+    {
+      "論文名稱": "Irregular and long time current waveform handling improvement for EMC simulation",
+      "會議名稱": "International Symposium on EMC",
+      "作者群": "袁世一、鐘懷恩、陳秋國、廖時三"
+    },
+    {
+      "論文名稱": "Time varying instruction current EMC simulation improvement",
+      "會議名稱": "IEEE international Symposium on EMC",
+      "作者群": "袁世一、鐘懷恩、陳秋國、廖時三"
+    },
+    {
+      "論文名稱": "應用於JPEG檔案傳輸之PCI電源穩定度改良",
+      "會議名稱": "2008年全國電磁相容技術與實務研討會",
+      "作者群": "袁世一、黃俊瑋"
+    },
+    {
+      "論文名稱": "針對十速科技發展的4bit-MCU(TM87P08)進行瞬時電流量與模擬",
+      "會議名稱": "2008全國電磁相容技術與實務研討會",
+      "作者群": "陳宏賓,袁世一,劉堂傑,詹益聖,吳上玄"
+    },
+    {
+      "論文名稱": "A Microcontroller instruction set simulator for EMI prediction",
+      "會議名稱": "International Workshop on EMC of IC",
+      "作者群": "Shih-Yi Yuan, Jia-Wen Luo, Ming-Yuh Lin, Shry-Sann Liao"
+    },
+    {
+      "論文名稱": "Evaluation environment of PCI peripherals power integrity and the improvement",
+      "會議名稱": "19th International Zurich Symposium on Electromagnetic Compatibility",
+      "作者群": "Shih-Yi Yuan, Chun-Wei Huang, Shry-Sann Liao"
+    },
+    {
+      "論文名稱": "Parallel-coupled Microstrip Filter with Super Wide Stopband",
+      "會議名稱": "Progress in Electromagnetics Researches Symposium (PIERS)",
+      "作者群": "Shry-Sann Liao, Shih-Yi Yuan, Pou-Tou Sun, Yi-Hao Chang, and Hung-Liang Lin"
+    },
+    {
+      "論文名稱": "Design of SiGe BiCMOS Voltage Controlled Oscillator for Ultra WideBand Applications",
+      "會議名稱": "Cross Strait Tri-Regional Radio Science and Wireless Technology Conference",
+      "作者群": "Shry-Sann Liao, Shih-Yi Yuan, Pou-Tou Sun, Han-Nien Lin, Chien-Lin Lu"
+    },
+    {
+      "論文名稱": "應用於EMC之電流源EMI模型",
+      "會議名稱": "2007 全國電磁相容技術與實務研討會",
+      "作者群": "鍾懷恩、羅嘉文、羅浩文、廖時三"
+    },
+    {
+      "論文名稱": "EMI Prediction Under Different Program Behavior",
+      "會議名稱": "2007 IEEE EMC Symposium",
+      "作者群": "Shin-Yi Yuan, C. F. Yang, E. Sicard, C. K. Kuo. and Shry-Sann Liao"
+    },
+    {
+      "論文名稱": "應用於EMC之PIC電路模型",
+      "會議名稱": "第三屆網際網路暨通訊科計研討會",
+      "作者群": "羅嘉文"
+    },
+    {
+      "論文名稱": "Parallel -Coupled Microstrip Filter Using Stepped-Impedance and Over-Coupled End Stages for Suppression of Spurious Responses",
+      "會議名稱": "Progress in Electromagnetics Researches Symposium (PIERS)",
+      "作者群": "Shry-Sann Liao, Shih-Yi Yuan, Han-Nien Lin, Pou-Tou Sun,"
+    },
+    {
+      "論文名稱": "即時系統之監控軟體回復機制研究",
+      "會議名稱": "共用型軍用發射系統研製計畫學術研討會",
+      "作者群": "陳彥旭、郭斯彥"
+    },
+    {
+      "論文名稱": "嵌入式系統程式碼自動化產生之建模技術",
+      "會議名稱": "共用型軍用發射系統研製計畫學術研討會",
+      "作者群": "袁世一、戴士堯、陳彥廷、郭斯彥"
+    },
+    {
+      "論文名稱": "Implementation of a hand-hold remote-control monitor system",
+      "會議名稱": "Proc. International Conference on Automation Technology",
+      "作者群": "Jichiang Tsai, Shih-Yi Yuan, Yu-Hua Liang, Chung-Hsin Feng, Chien-Min Lin and Tz-Ling Wu"
+    },
+    {
+      "論文名稱": "Vertical integration of remote control on heterogeneous networks",
+      "會議名稱": "Proc. International Conference on Automation Technology",
+      "作者群": "Shih-Yi Yuan and Jichiang Tsai"
+    },
+    {
+      "論文名稱": "Group Partition and Restoration Strategies for Survivable WDM Networks",
+      "會議名稱": "Proceedings of the 19th International Conference on Advanced Information Networking and Applications - Volume 1",
+      "作者群": "CS Ho, SY Kuo, SY Yuan"
+    },
+    {
+      "論文名稱": "Efficient Restoration scheduling in survivable",
+      "會議名稱": "The 7th International Conference on Advanced Communication Technology",
+      "作者群": "Chen-Shie Ho, Sy-Yen Kuo, and Shih-Yi Yuan"
+    },
+    {
+      "論文名稱": "A SOC RTOS TIMER INTERRUPT HANDLING SKILL TO INCREASE SOFTWARE RESPONSE TIME",
+      "會議名稱": "EC2004",
+      "作者群": "C.S.WANG"
+    },
+    {
+      "論文名稱": "A New RTOS Timer Interrupt Handling Method to Increase ARM-Based SoC Platform Design",
+      "會議名稱": "2004 IEEE ISVLSI",
+      "作者群": "C.Y.WANG, Jing-Yang Jou"
+    },
+    {
+      "論文名稱": "Increasing RTOS Interrupt response time for SoC Design",
+      "會議名稱": "共用型軍用發射系統研製計畫學術研討會",
+      "作者群": "Sy-Yen Kuo"
+    },
+    {
+      "論文名稱": "Improvement of Lock-Up Time of Phase-Locked Loop by Using Active Phase-Lead Controller",
+      "會議名稱": "Proceedings of the 2004 China-Japan Joint Meeting on Microwave",
+      "作者群": "Poutou Sun, Shry-Sann Liao, Manlong Her, Senghsiang Kao, and Chihhao Tseng"
+    }
+  ],
+  "book": [
+    {
+      "專業書籍": "ARM Cortex-M3 32位元微控制器原理與應用－HT32F1655/1656",
+      "出版單位": "全華科技圖書",
+      "作者群": "王 壘, 袁世一, 王益文, 陳德生"
+    }
+  ],
+  "patent": [
+    {
+      "title": "發明",
+      "desc": "電容測砂方法及其裝置"
+    }
+  ],
+  "most": [
+    {
+      "name": "無人航空載具之建築外牆磁磚瑕疵智慧檢測系統設計與開發",
+      "schoolYear": "113"
+    },
+    {
+      "name": "EMI-leakage platform design",
+      "schoolYear": "112"
+    },
+    {
+      "name": "時變微控器電磁干擾預估模型建置演算法",
+      "schoolYear": "104"
+    },
+    {
+      "name": "複雜程式下嵌入式系統EMC量測",
+      "schoolYear": "104"
+    },
+    {
+      "name": "Compiler技術優化微控器EMI之改良",
+      "schoolYear": "102"
+    },
+    {
+      "name": "利用超高速積體電路硬體描述語言降低微控制器電磁輻射技術",
+      "schoolYear": "102"
+    },
+    {
+      "name": "微控器系統內程式行為之動態電磁干擾模擬與優化技術",
+      "schoolYear": "101"
+    },
+    {
+      "name": "次世代行動通訊網路關鍵技術研發及應用-子計畫四：次世代行動通訊網路毫微蜂巢式基地台協同傳輸之最佳化排程研究(I)",
+      "schoolYear": "100"
+    },
+    {
+      "name": "微控器內嵌軟體電磁相容建模研究(I)",
+      "schoolYear": "98"
+    },
+    {
+      "name": "提升產業技術及人才培育研究計畫–電容式泥砂濃度觀測技術研究",
+      "schoolYear": "96"
+    },
+    {
+      "name": "(廠配)提升產業技術及人才培育研究計畫–電容式泥砂濃度觀測技術研究(成太儀器有限公司)",
+      "schoolYear": "96"
+    },
+    {
+      "name": "微控器指令之電磁相容性模型研究(I)",
+      "schoolYear": "96"
+    },
+    {
+      "name": "無線感測之電源收割技術研究",
+      "schoolYear": "95"
+    }
+  ],
+  "tech": [
+    {
+      "論文名稱": "嵌入式系統設計實務-電路與驅動程式 (2007-08)",
+      "書名": "嵌入式系統設計實務-電路與驅動程式",
+      "作者群": "袁世一、王壘、劉嘉政"
+    }
+  ],
+  "induAca": [
+    "人工智慧進行綠能電動載具內部行為之電磁資訊外洩分析-連續時間多點自動化複雜電磁側漏深度神經網路 (2024-02 to 2024-11)",
+    "人工智慧進行綠能電動載具內部行為之電磁資訊外洩分析-多點自動化電磁側漏之卷積網絡分析技術發展 (2023-02 to 2023-11)",
+    "人工智慧進行綠能電動載具內度行為之電磁資訊外洩分析-多點自動化電磁測漏之資料收集及處理 (2022-02 to 2022-11)",
+    "「表面紋理特徵提取平台」計畫 (2021-07 to 2021-10)",
+    "人工智慧進行綠能電動載具內部行為之電磁資訊外洩分析 (2021-02 to 2021-11)",
+    "太陽光電變流器之資料收集傳輸之嵌入式系統設計 (2020-01 to 2020-11)",
+    "選定傳輸規格應用於太陽光電系統之資料蒐集平台 (2019-02 to 2019-11)",
+    "太陽光電變流器之資料蒐集平台架構設計 (2018-02 to 2018-11)",
+    "超高頻RFID Sensor Tag之Low power RFID data log平台初期設計 (2017-07 to 2018-12)",
+    "智慧水管理產業創新發展計畫管理及產業推動服務(1/4) (2017-06 to 2017-12)",
+    "系統層級編譯器選項對近場電磁干擾影響的測量與預測 (2017-04 to 2017-11)",
+    "太陽光電系統之綠能電子軟體指令EMC研究 (2016-04 to 2016-11)",
+    "自行車智慧駐車系統開發-資通訊整合技術開發 (2015-05 to 2015-11)",
+    "應用IoT技術於辦公大樓之空調控制系統與能源效率之改善 (2015-05 to 2016-02)",
+    "104年度磨課師課程推動計畫-A類新星計畫【把智慧嵌入這個大千世界】 (2015-05 to 2016-04)",
+    "智慧電網用戶側軟體EMC層級技術研究 (2015-02 to 2015-12)",
+    "103年度「電動車元件之電磁相容最佳化編譯器研究」採購案 (2014-02 to 2014-11)",
+    "102年度「晶片至系統層級輻射EMC模型及量測技術暨電磁相容最佳化編譯器研究委辦計畫」 (2013-02 to 2013-11)",
+    "運用於惡意程式監控偵測技術之微處理器內部狀態解決方案 (2010-01 to 2010-12)",
+    "車用IC EMC/SI/PI之檢測標準、研討會、PCB EMC設計競賽委辦計畫 (2009-04 to 2009-11)",
+    "高科技專利取得與攻防課程推廣計畫-工程專利撰寫實務 (2006-09 to 2007-08)"
+  ],
+  "perform": [],
+  "reward": [
+    "逢甲大學論文著作獎勵傑出獎 (113, 2024-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (113, 2024-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "成果發表競賽第一名 (110, 2022-01) - 台灣人工智慧學校技術領袖培訓班",
+    "逢甲大學優良教材獎勵優等獎 (107, 2018-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (107, 2018-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (107, 2018-11) - 逢甲大學",
+    "逢甲大學優良教材獎勵佳作獎 (105, 2016-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (103, 2014-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (102, 2013-11) - 逢甲大學",
+    "優秀論文獎 (99, 2011-07) - 中國哈爾濱工業大學",
+    "逢甲大學論文著作獎勵傑出獎 (99, 2010-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (98, 2009-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (98, 2009-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (97, 2008-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (97, 2008-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (97, 2008-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (97, 2008-11) - 逢甲大學",
+    "品德教育勤學有禮-模範班級 (94, 2006-06) - 領導智能發展中心",
+    "通訊系畢業專題製作競賽 (94, 2006-05) - 通訊工程系"
+  ],
+  "speech": [
+    {
+      "演講題目": "關於電磁訊號外洩偵測的有趣研究",
+      "邀請單位": "輔仁大學電機研究所",
+      "演講日期": "2022-12"
+    },
+    {
+      "演講題目": "Recent progress of Software-related Electromagnetic Compatibility",
+      "邀請單位": "Pontifícia Universidade Católi",
+      "演講日期": "2014-03"
+    },
+    {
+      "演講題目": "EMC issues on chip level",
+      "邀請單位": "經濟部標準檢驗局",
+      "演講日期": "2008-11"
+    },
+    {
+      "演講題目": "ICEMC相關標準與測量技術",
+      "邀請單位": "經濟部標準檢驗局",
+      "演講日期": "2008-09"
+    },
+    {
+      "演講題目": "Microcontroller EMI Behavior Estimation",
+      "邀請單位": "輔仁資工",
+      "演講日期": "2008-05"
+    },
+    {
+      "演講題目": "電磁相容技術-軟體簡介（一）",
+      "邀請單位": "BSMI",
+      "演講日期": "2007-12"
+    },
+    {
+      "演講題目": "SoC系統軟硬體整合技術",
+      "邀請單位": "朝陽大學網路與通訊研究所",
+      "演講日期": "2004-11"
+    }
+  ],
+  "material": [
+    "嵌入式系統設計實務-電路與驅動程式\t全華圖書股份有限公司\t袁世一、王壘、劉嘉政\t複合教材",
+    "把智慧嵌入這個大千世界\t雲端學院\t王 壘, 王益文, 陳德生, 袁世一\t磨課師課程"
+  ],
+  "tal": []
+}

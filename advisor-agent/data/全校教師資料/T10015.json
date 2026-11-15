@@ -1,0 +1,83 @@
+{
+  "teacherId": "T10015",
+  "name": "陳俊勳",
+  "mainUnit": "工程與科學學院",
+  "detailUnit": "航太與系統工程學系",
+  "skill": [
+    "國防科技(高空飛船、水下無人載具)",
+    "能源技術(綠建築技術、智慧能源管理系統、再生能源及新能源之燃料電池)",
+    "燃燒及防火安全工程(防火試驗及防火工程性能設計)",
+    "計算熱流(半導體製程及捷運系統環境模擬)"
+  ],
+  "edu": [
+    "Case Western Reserve University Mechanical and Aerospace Engineering 博士",
+    "Case Western Reserve University Mechanical and Aerospace Engineering 碩士",
+    "國立台灣大學 機械工程系 學士"
+  ],
+  "fcuExp": [
+    "校長室 榮譽副校長",
+    "航太與系統工程學系 教授",
+    "航太與系統工程學系 講座教授",
+    "航太與系統工程學系 教授",
+    "航太與系統工程學系 教授",
+    "航太與系統工程學系 教授"
+  ],
+  "currjob": [],
+  "otherExp": [
+    "國立陽明交通大學 國際半導體產業學院 教授",
+    "國立交通大學 校長室 副校長",
+    "國立交通大學 總務處 總務長",
+    "國立交通大學 工學院 院長",
+    "國立交通大學 機械工程學系 教授"
+  ],
+  "journal": [
+    {
+      "論文名稱": "Assessment of Different Deep Learning Methods of Power Generation Forecasting for Solar PV System",
+      "期刊名稱": "Applied Sciences (SCIE)",
+      "作者群": "Wen-Chi Kuo , Chiun-Hsun Chen, Shih-Hong Hua and Chi-Chuan Wang"
+    },
+    {
+      "論文名稱": "Deep Learning Neural Networks for Short-Term PV Power Forecasting via Sky Image Method",
+      "期刊名稱": "Energies (SCIE)",
+      "作者群": "Wen-Chi Kuo, Chiun-Hsun Chen, Sih-Yu Chen and Chi-Chuan Wang"
+    }
+  ],
+  "journal2": [],
+  "conference": [
+    {
+      "論文名稱": "The Application of Mobile Energy Storage System in Micro-Grid Management System",
+      "會議名稱": "2021 IEEE International Conference on Communications, Internet of Thing’s and Big Data",
+      "作者群": "Wen-Chi Kuo, Chiun-Hsun Chen"
+    }
+  ],
+  "book": [],
+  "patent": [],
+  "most": [
+    {
+      "name": "鋰電池儲能站火災危害分析，安全評估與緊急應變之整合性策略及性能提升方案-鋰電池儲能站火災風險評估及設置基準探討研究(總計畫及子計畫一)(III)",
+      "schoolYear": "113"
+    },
+    {
+      "name": "鋰電池儲能站火災危害分析、安全評估與緊急應變之整合性策略及性能提升方案-鋰電池儲能站火災風險評估及設置基準探討研究(總計畫及子計畫一)(II)",
+      "schoolYear": "112"
+    },
+    {
+      "name": "鋰電池儲能站火災危害分析、安全評估與緊急應變之整合性策略及性能提升方案-鋰電池儲能站火災風險評估及設置基準探討研究(總計畫及子計畫一)(I)",
+      "schoolYear": "111"
+    },
+    {
+      "name": "不確定因素下區域微電網分散式能源管理策略研究",
+      "schoolYear": "110"
+    }
+  ],
+  "tech": [],
+  "induAca": [],
+  "perform": [],
+  "reward": [
+    "逢甲大學論文著作獎勵優等獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學"
+  ],
+  "speech": [],
+  "material": [],
+  "tal": []
+}

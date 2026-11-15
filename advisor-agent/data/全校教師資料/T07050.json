@@ -1,0 +1,264 @@
+{
+  "teacherId": "T07050",
+  "name": "陳秋宏",
+  "mainUnit": "工程與科學學院",
+  "detailUnit": "機械與電腦輔助工程學系",
+  "skill": [
+    "人工智慧Artificial intelligence",
+    "智慧製造Intelligent manufacturing",
+    "工業機器人Industrial robots",
+    "最佳化方法Optimization method",
+    "虛擬實境Virtual reality",
+    "物件導向程式設計Object-oriented programming"
+  ],
+  "edu": [
+    "國立高雄第一科技大學 工程科技所 博士",
+    "國立台灣大學 資訊工程所 碩士",
+    "國立交通大學 資訊工程所 學士"
+  ],
+  "fcuExp": [
+    "智慧機械產業發展中心 人才培育組組長",
+    "機械與電腦輔助工程學系 副教授"
+  ],
+  "currjob": [],
+  "otherExp": [
+    "高苑科技大學 資訊傳播系 副教授",
+    "高苑科技大學 資訊科技系 副教授",
+    "高苑科技大學 資訊科技系 助理教授",
+    "財團法人資訊工業策進會 新興智慧技術研究中心 系統工程師",
+    "國立高雄第一科大學 機械與自動化系 博士後研究人員",
+    "友立資訊公司 DVD Movie Factory 資深執行經理"
+  ],
+  "journal": [
+    {
+      "論文名稱": "Multiobjective Optimization of Collaborative Robotic Task Sequence Assignment Problems under Collision-Free Constraints",
+      "期刊名稱": "Advances in Mechanical Engineering (SCIE)",
+      "作者群": "Chiu-Hung Chen, Li Chi-Kuang and Fu-I Chou"
+    },
+    {
+      "論文名稱": "Application of Multiple Deep Neural Networks to Multi-Solution Synthesis of Linkage Mechanisms",
+      "期刊名稱": "Machines (SCIE)",
+      "作者群": "Chen, C. H."
+    },
+    {
+      "論文名稱": "Optimization of Robotic Task Sequencing Problems by Crowding Evolutionary Algorithms",
+      "期刊名稱": "IEEE Transactions on Systems, Man and Cybernetics: Systems (SCIE)",
+      "作者群": "Chiu-Hung Chen, Fu-I Chou, Jyh-Horng Chou"
+    },
+    {
+      "論文名稱": "Multiobjective Evolutionary Scheduling and Rescheduling of Integrated Aircraft Routing and Crew Pairing Problems",
+      "期刊名稱": "IEEE Access (SCIE)",
+      "作者群": "Chiu-Hung Chen, Fu-I Chou, Jyh-Horng Chou*"
+    },
+    {
+      "論文名稱": "Niche Genetic Algorithm for Solving Multiplicity Problems in Genetic Association Studies",
+      "期刊名稱": "Intelligent Automation And Soft Computing (SCIE)",
+      "作者群": "Fu-I Chou, Wen-Hsien Ho, Chiu-Hung Chen*"
+    },
+    {
+      "論文名稱": "Multiobjective Optimization of Airline Crew Roster Recovery Problems under Disruption Conditions",
+      "期刊名稱": "IEEE Transactions on Systems, Man, and Cybernetics: Systems (SCIE)",
+      "作者群": "Chiu-hung Chen, Jyh-Horng Chou*"
+    },
+    {
+      "論文名稱": "Evolutionary Design of Adjustable Six-Linkage Bar Manufacturing Mechanisms Using Niche Genetic Algorithms",
+      "期刊名稱": "IEEE Access (SCIE)",
+      "作者群": "Chiu-hung Chen, Jyh-Horng Chou*"
+    },
+    {
+      "論文名稱": "Optimization of teacher volunteer transferring problems using greedy genetic algorithms",
+      "期刊名稱": "Expert Systems with Applications (SCIE)",
+      "作者群": "Chiu-Hung Chen, Tung-Kuan Liu, Jyh-Horng Chou*, Chung-Hung Tasi, Hsiu Wang"
+    },
+    {
+      "論文名稱": "A novel crowding genetic algorithm and its applications to manufacturing robots",
+      "期刊名稱": "IEEE Transactions on industrial informatics (SCIE)",
+      "作者群": "Chiu-Hung Chen, Tung-Kuan Liu, Jyh-Horng Chou*"
+    },
+    {
+      "論文名稱": "Integrated Short-Haul Airline Crew Scheduling Using Multiobjective Optimization Genetic Algorithms",
+      "期刊名稱": "IEEE Transactions on Systems Man Cybernetics-Systems (SCIE)",
+      "作者群": "C. H. Chen, T. K. Liu and J. H. Chou*"
+    },
+    {
+      "論文名稱": "Multiobjective synthesis of six-bar mechanisms under manufacturing and collision-free constraints",
+      "期刊名稱": "IEEE Computational Intelligence Magazine (SCIE)",
+      "作者群": "C. H. Chen, T. K. Liu, Y. M. Hung, J. H. Chou*"
+    },
+    {
+      "論文名稱": "Optimization of Short-haul Airline Crew Pairing Problems Using a Multiobjective Genetic Algorithm",
+      "期刊名稱": "International Journal of Innovative, Computing, Information and Control (SCIE)",
+      "作者群": "C. H. Chen, T. Y. Chou, T. K. Liu, J. H. Chou, and C. N. Lee*"
+    },
+    {
+      "論文名稱": "Optimization of short-haul aircraft schedule recovery problems using a hybrid multiobjective genetic algorithm",
+      "期刊名稱": "Expert Systems with Applications (SCIE)",
+      "作者群": "Tung-Kuan Liu, Chiu-Hung Chen, Jyh-Horng Chou*"
+    },
+    {
+      "論文名稱": "Method of Inequalities-based Multiobjective Genetic Algorithm for Optimizing a Cart-double-pendulum System",
+      "期刊名稱": "International Journal of Automation and Computing (EI)",
+      "作者群": "Tung-Kuan Liu, Chiu-Hung Chen, Zu-Shu Li, Jyh-Horng Chou*"
+    },
+    {
+      "論文名稱": "Intelligent design of automobile fixtures with genetic algorithms",
+      "期刊名稱": "International Journal of Innovative Computing, Information and Control (SCIE)",
+      "作者群": "T. K. Liu, C. H. Chen and J. H. Chou*"
+    }
+  ],
+  "journal2": [],
+  "conference": [
+    {
+      "論文名稱": "Capturing and Recognizing Expert Manufacturing Operations by RGB-D Sensors and Deep Learning Methods",
+      "會議名稱": "The 2024 International Conference on Fuzzy Theory and Its Applications (iFUZZY2024)",
+      "作者群": "Chiu-Hung Chen, Chung-Hung Tasi, Cai-Jhao Tsai"
+    },
+    {
+      "論文名稱": "結合多個類神經網路與演化計算合作建構參數最佳化方法",
+      "會議名稱": "中國機械工程學會第四十屆全國學術研討會",
+      "作者群": "陳秋宏, 陳威任, 陳亞澤"
+    },
+    {
+      "論文名稱": "Multiobjective Evolutionary Optimization on the Collision-free Trajectory Planning Problems for Multi-Robot Collaboration",
+      "會議名稱": "台灣機電工程國際學會第八屆全國學術研討會",
+      "作者群": "Chiu-Hung Chen, Chi-Kuang Li, Ya-Tze Chen,Jyh-Horng Chou"
+    },
+    {
+      "論文名稱": "Digitizing Expert Manufacturing Experience with AI Detection Techniques and RGB-D Sensors",
+      "會議名稱": "6th IEEE Eurasian Conference on Educational Innovation 2023",
+      "作者群": "Chiu-Hung Chen,Jhih-Cheng Chen,Cai-Jhao Tsai"
+    },
+    {
+      "論文名稱": "Optimal Design and Tuning Manufacturing Parameters Based on Deep Learning Methods",
+      "會議名稱": "CACS2022",
+      "作者群": "Chiu-Hung Chen, Wei-Ren Chen and Yi-Ming Luo"
+    },
+    {
+      "論文名稱": "異質設備聯網與感測研究",
+      "會議名稱": "台灣機電工程國際學會2022年第七屆全國學術研討會",
+      "作者群": "陳威任,羅一銘,陳秋宏*"
+    },
+    {
+      "論文名稱": "應用人工智慧方法進行感測訊號異常預測之研究",
+      "會議名稱": "中華民國力學學會第四十五屆全國力學會議 (CTAM 2021)",
+      "作者群": "陳秋宏*,賴柏瑀,李紀廣,周至宏"
+    },
+    {
+      "論文名稱": "Application of Genetic Algorithm to the Collision-free Robotic Gluing Process of Shoes Chiu-Hung CHEN, Chi-Kuang LI, Jyh-Horng CHOU",
+      "會議名稱": "CACS 2021",
+      "作者群": "Chiu-Hung CHEN, Chi-Kuang LI, Jyh-Horng CHOU"
+    },
+    {
+      "論文名稱": "Solution of Unconstrained Optimization Problems by Using Hybrid Vector Multi-Objective Genetic Algorithm",
+      "會議名稱": "The International Conference on System Science and Engineering 2020 (ICSSE 2020)",
+      "作者群": "Chiu-Hung Chen, Po-Yuan Yang, Chun-Jen Kuo, and Jyh-Horng Chou*"
+    },
+    {
+      "論文名稱": "異質機台聯網與異常訊號偵測之研究",
+      "會議名稱": "2019中華民國力學學會年會暨第43屆全國力學會議",
+      "作者群": "陳秋宏、熊奕智、林柏成、湯育宗"
+    },
+    {
+      "論文名稱": "應用人工智慧求解鞋類塗膠製程之機械手臂避碰撞加工問題",
+      "會議名稱": "2019中華民國力學學會年會暨第43屆全國力學會議",
+      "作者群": "陳秋宏、李紀廣、林新哲"
+    },
+    {
+      "論文名稱": "多層感知器結合雙目標超參數優化方法於下背痛診斷",
+      "會議名稱": "2019中華民國力學學會年會暨第43屆全國力學會議",
+      "作者群": "黃俊傑、楊柏遠、周至宏、陳秋宏"
+    },
+    {
+      "論文名稱": "基於 Resnet20 之自動光學檢查",
+      "會議名稱": "2019中華民國力學學會年會暨第43屆全國力學會議",
+      "作者群": "黃俊傑、楊柏遠、周至宏、陳秋宏"
+    },
+    {
+      "論文名稱": "機器學習建模及其超參數設計-以房價預測為例",
+      "會議名稱": "2019中華民國力學學會年會暨第43屆全國力學會議",
+      "作者群": "林僅軒、楊柏遠、周至宏、陳秋宏"
+    },
+    {
+      "論文名稱": "Application of Discrete Twin-space Crowding Genetic Algorithm to Multiple\nFeature Selection Problems",
+      "會議名稱": "International Conference on Advanced Technology Innovation 2019 (ICATI2019)",
+      "作者群": "Chiu-Hung Chen, , I-Chih Hsiung, Wen-Hsien Ho, Tung-Kuan Liu"
+    },
+    {
+      "論文名稱": "Learning Robotic Inverse Model by Multiple Segmented Neural Networks",
+      "會議名稱": "The 2018 International Automatic Control Conference (CACS 2018)",
+      "作者群": "Chiu-Hung Chen*, Zhe-Che Lin, Yan-Jie Huang, Jyh-Horng Chou"
+    }
+  ],
+  "book": [],
+  "patent": [],
+  "most": [
+    {
+      "name": "感測學習專家加工經驗並結合AI與工業機器人協作重現專家工藝之研究(2/2)",
+      "schoolYear": "112"
+    },
+    {
+      "name": "感測學習專家加工經驗並結合AI與工業機器人協作重現專家工藝之研究(1/2)",
+      "schoolYear": "111"
+    },
+    {
+      "name": "建立正逆深度類神經網路及小生境免疫算法應用於工業問題多目標逆解之研究",
+      "schoolYear": "110"
+    },
+    {
+      "name": "Study on the Integration of Industry Robots with 3D Sensors for Automatic 3D Face Painting",
+      "schoolYear": "110"
+    },
+    {
+      "name": "製鞋智動化機電系統暨網宇虛實整合開發計畫－製鞋智動化機電系統暨網宇虛實整合開發計畫(3/3)",
+      "schoolYear": "109"
+    },
+    {
+      "name": "結合深度學習方法建立具冗餘自由度機械手臂多目標多重解製造規劃流程之研究",
+      "schoolYear": "109"
+    },
+    {
+      "name": "智慧異常訊號之分析預測與系統整合研究",
+      "schoolYear": "109"
+    },
+    {
+      "name": "製鞋智動化機電系統暨網宇虛實整合開發計畫－製鞋智動化機電系統暨網宇虛實整合開發計畫(2/3)",
+      "schoolYear": "108"
+    },
+    {
+      "name": "建立智慧型可程式控制器多重異常特徵學習方法及其整合於多目標動態排程之研究",
+      "schoolYear": "108"
+    },
+    {
+      "name": "結合人工智慧最佳化方法求解機械手臂避碰撞加工問題-以鞋業塗膠製程為例",
+      "schoolYear": "108"
+    },
+    {
+      "name": "製鞋智動化機電系統暨網宇虛實整合開發計畫－製鞋智動化機電系統暨網宇虛實整合開發計畫(1/3)",
+      "schoolYear": "107"
+    },
+    {
+      "name": "協同多部機械手臂避碰撞合作加工之智慧型自動化規劃方法之研究",
+      "schoolYear": "107"
+    },
+    {
+      "name": "適用於資源短缺狀況之多目標工業回復排程最佳化之研究(他校移轉)",
+      "schoolYear": "106"
+    }
+  ],
+  "tech": [],
+  "induAca": [
+    "馬達驅動控制委託研究 (2020-10 to 2020-12)",
+    "Matlab與PLC聯網系統建置(I) (2020-07 to 2020-09)"
+  ],
+  "perform": [],
+  "reward": [
+    "113年度國科會補助大專校院研究獎勵 (113, 2024-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (113, 2024-11) - 逢甲大學",
+    "112年度國科會補助大專校院研究獎勵 (112, 2023-12) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (111, 2022-11) - 逢甲大學",
+    "111年度國科會補助大專校院研究獎勵 (111, 2022-10) - 研究發展處"
+  ],
+  "speech": [],
+  "material": [],
+  "tal": []
+}

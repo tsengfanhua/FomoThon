@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "fomothon": {
+      "type": "stdio",
+      "command": "node",
+      "args": ["src/mcp/stdio.js"],
+      "env": {"FOMO_MCP_USER": "S01", "FOMO_LLM_PROVIDER": "none"}
+    }
+  }
+}

@@ -1,0 +1,903 @@
+{
+  "teacherId": "T93177",
+  "name": "林俊宏",
+  "mainUnit": "商學院",
+  "detailUnit": "財經法律研究所",
+  "skill": [
+    "通訊科技與跨境電商法制",
+    "跨國投資與國際經貿法",
+    "海商法與國際海事法",
+    "全球化與區域整合",
+    "仲裁法與國際爭端解決"
+  ],
+  "edu": [
+    "舊金山金門大學 法律學類 博士",
+    "舊金山金門大學 法律學類 碩士",
+    "國立政治大學 法律系 學士"
+  ],
+  "fcuExp": [
+    "企業法律諮詢研究中心 主任指導老師",
+    "學生申訴評議委員會 主委",
+    "學生申訴評議委員會 召集人",
+    "財經法律研究所 所長",
+    "公司治理研究中心 主任",
+    "財經法律研究所 助理教授",
+    "財經法律研究所 副教授",
+    "財經法律研究所 教授",
+    "財經法律研究所 教授",
+    "財經法律研究所 教授"
+  ],
+  "currjob": [],
+  "otherExp": [
+    "中央研究院 歐美研究所 訪問學者",
+    "德國馬普研究院 比較公法研究所 訪問學者",
+    "英國倫敦大學 商事法研究中心 訪問學者",
+    "英國劍橋大學 國際法研究中心 訪問學者",
+    "泰國朱拉隡功大學 法學院 國際法證書"
+  ],
+  "journal": [
+    {
+      "論文名稱": "觀察全球補貼競賽的新發展",
+      "期刊名稱": "工商會務雙月刊 (法源)",
+      "作者群": "林俊宏"
+    },
+    {
+      "論文名稱": "臺商境外資金匯回與租稅優惠立法之分析",
+      "期刊名稱": "貿易政策論叢 (月旦法源)",
+      "作者群": "林俊宏"
+    },
+    {
+      "論文名稱": "美元政策大轉彎 終結「弱勢美元」時代",
+      "期刊名稱": "工商會務雙月刊 (法源)",
+      "作者群": "林俊宏"
+    },
+    {
+      "論文名稱": "強台幣時代來臨對我產業之機會與挑戰",
+      "期刊名稱": "工商會務季刊 (法源)",
+      "作者群": "林俊宏"
+    },
+    {
+      "論文名稱": "中國社會信用制度之實施與大數據相關個資議題之探討",
+      "期刊名稱": "科技法律評析 (月旦法源)",
+      "作者群": "林俊宏"
+    },
+    {
+      "論文名稱": "人工智慧自動駕駛車之產業發展及其相關法律問題",
+      "期刊名稱": "貿易政策論叢 (月旦法源)",
+      "作者群": "林俊宏"
+    },
+    {
+      "論文名稱": "探討土地增值稅與房地合一所得稅之稅額計算立法",
+      "期刊名稱": "中正財經法學 (TSSCI)",
+      "作者群": "林俊宏"
+    },
+    {
+      "論文名稱": "Legal Development of Atypical Acts in the European Union with Some Reference to Spectrum Management Legislation",
+      "期刊名稱": "Athens Journal of Law (Westlaw)",
+      "作者群": "Chun Hung Lin"
+    },
+    {
+      "論文名稱": "探討虛擬貨幣之法律意義-以日本立法為例",
+      "期刊名稱": "貿易政策論叢 (月旦法源)",
+      "作者群": "林俊宏"
+    },
+    {
+      "論文名稱": "歐盟GDPR 實施週年 對數位經濟之挑戰",
+      "期刊名稱": "工商會務季刊 (法源)",
+      "作者群": "林俊宏"
+    },
+    {
+      "論文名稱": "台灣實施 CRS、反避稅對資本市場的影響",
+      "期刊名稱": "工商會務季刊 (法源)",
+      "作者群": "林俊宏"
+    },
+    {
+      "論文名稱": "日本提升旅遊品質 增加三項稅制",
+      "期刊名稱": "工商會務季刊 (法源)",
+      "作者群": "林俊宏"
+    },
+    {
+      "論文名稱": "探討中國大陸「一帶一路」政策之相關法律議題",
+      "期刊名稱": "貿易政策論叢 (月旦法源)",
+      "作者群": "林俊宏"
+    },
+    {
+      "論文名稱": "美國與台灣對境外所得課稅法制之探討與比較",
+      "期刊名稱": "貿易政策論叢 (月旦法源)",
+      "作者群": "林俊宏"
+    },
+    {
+      "論文名稱": "基因資訊之揭露對歐美保險業及保險法制之影響",
+      "期刊名稱": "貿易政策論叢 ()",
+      "作者群": "林俊宏"
+    },
+    {
+      "論文名稱": "兩岸行動通信服務業之發展與法制探討－－以4G-LTE為例",
+      "期刊名稱": "貿易政策論叢 (月旦法源)",
+      "作者群": "林俊宏"
+    },
+    {
+      "論文名稱": "由國際及內在影響探討台灣電信服務業之發展與法制變遷",
+      "期刊名稱": "貿易政策論叢 ()",
+      "作者群": "林俊宏"
+    },
+    {
+      "論文名稱": "兩岸多式聯運規範之探討及比較",
+      "期刊名稱": "貿易政策論叢 ()",
+      "作者群": "林俊宏"
+    },
+    {
+      "論文名稱": "淺談美國線上仲裁制度",
+      "期刊名稱": "仲裁報季刊 ()",
+      "作者群": "林俊宏"
+    },
+    {
+      "論文名稱": "區域自由貿易協定與ECFA 爭端解決機制之分析與比較",
+      "期刊名稱": "貿易政策論叢 ()",
+      "作者群": "林俊宏"
+    },
+    {
+      "論文名稱": "電波監理管制模式之探討",
+      "期刊名稱": "通訊傳播法研究 ()",
+      "作者群": "林俊宏"
+    },
+    {
+      "論文名稱": "初探電子商務糾紛與線上仲裁制度-以美國經驗為例",
+      "期刊名稱": "仲裁 ()",
+      "作者群": "林俊宏"
+    },
+    {
+      "論文名稱": "負利率的蝴蝶效應–從歐洲、日本飛到台灣？",
+      "期刊名稱": "工商會務季刊 ()",
+      "作者群": "林俊宏"
+    },
+    {
+      "論文名稱": "RCEP 對台衝擊與挑戰",
+      "期刊名稱": "工商會務季刊 ()",
+      "作者群": "林俊宏"
+    },
+    {
+      "論文名稱": "ECFA 架構下兩岸電子商務糾紛爭端解決模式之比較與探討",
+      "期刊名稱": "貿易政策論叢 ()",
+      "作者群": "林俊宏"
+    },
+    {
+      "論文名稱": "從日本消費稅改革看總體經濟發展",
+      "期刊名稱": "工商會務季刊 ()",
+      "作者群": "林俊宏"
+    },
+    {
+      "論文名稱": "論ECFA 架構下兩岸食品安全之立法議題",
+      "期刊名稱": "貿易政策論叢 ()",
+      "作者群": "林俊宏"
+    },
+    {
+      "論文名稱": "從假期經濟看休假節日之法制建議",
+      "期刊名稱": "工商會務季刊 ()",
+      "作者群": "林俊宏"
+    },
+    {
+      "論文名稱": "國際海上旅客運送法規範與我國海商法相關發展之探討",
+      "期刊名稱": "高大法學論叢 ()",
+      "作者群": "林俊宏"
+    },
+    {
+      "論文名稱": "臺日投資協議之制定及其未來發展",
+      "期刊名稱": "貿易政策論叢 ()",
+      "作者群": "林俊宏"
+    },
+    {
+      "論文名稱": "ECFA爭端解決模式之形成及未來定位",
+      "期刊名稱": "東海法學研究 (TSSCI)",
+      "作者群": "林俊宏"
+    },
+    {
+      "論文名稱": "International Legal Responses to Global Climate Changes",
+      "期刊名稱": "Ukra. J. Bus. L. ()",
+      "作者群": "林俊宏"
+    },
+    {
+      "論文名稱": "中國大陸企業所得稅制改革對台資企業之影響",
+      "期刊名稱": "貿易政策論叢 ()",
+      "作者群": "林俊宏"
+    },
+    {
+      "論文名稱": "由英國海上保險法探討委付制度之發展及適用",
+      "期刊名稱": "貿易政策論叢 ()",
+      "作者群": "林俊宏"
+    },
+    {
+      "論文名稱": "雅典公約架構下臺灣與中國大陸海上旅客運送法規之比較",
+      "期刊名稱": "貿易政策論叢 ()",
+      "作者群": "林俊宏"
+    },
+    {
+      "論文名稱": "頻譜管理法制化及未來規劃之探討，",
+      "期刊名稱": "成大法學 ()",
+      "作者群": "林俊宏"
+    },
+    {
+      "論文名稱": "ASEAN Charter: Deeper Regional Integration under International Law?",
+      "期刊名稱": "Oxford: Chinese J. Int'l. L. (SSCI,W&L, Lexis)",
+      "作者群": "林俊宏"
+    },
+    {
+      "論文名稱": "A Comparative Study of Investment Regimes in ASEAN\r\nEconomies",
+      "期刊名稱": "Acta Jurid. Hung. (W&L)",
+      "作者群": "林俊宏"
+    },
+    {
+      "論文名稱": "NAFTA 架構下「美國對自加拿大進口鎂反傾銷及平衡措施落日檢\r\n討案」之評析",
+      "期刊名稱": "貿易政策論叢 ()",
+      "作者群": "林俊宏"
+    },
+    {
+      "論文名稱": "由無線電核照收費及其使用權利範圍探討頻譜資源管理法之建立",
+      "期刊名稱": "中原財經法學 (TSSCI)",
+      "作者群": "林俊宏"
+    },
+    {
+      "論文名稱": "Critical Assessment of Taiwan’s Trade and Investment\r\nRelationship with ASEAN Countries in the Past, Present & Future",
+      "期刊名稱": "Misk. J. Int’l L. (W&L)",
+      "作者群": "林俊宏"
+    },
+    {
+      "論文名稱": "Selected International Rules of Foreign Direct Investment in Telecommunications Sector and Its Influences on Taiwan’s Telecommunications\r\nLegislation",
+      "期刊名稱": "Ann. Surv. Int'l & Comp. L. (W&L)",
+      "作者群": "林俊宏"
+    },
+    {
+      "論文名稱": "ICSID 框架下台商赴中國大陸跨國投資爭端解決之探討",
+      "期刊名稱": "高大法學論叢 ()",
+      "作者群": "林俊宏"
+    },
+    {
+      "論文名稱": "Applications of Spectrum Management and Radio Regulation for Space Services",
+      "期刊名稱": "Ukra. J. Bus. L. ()",
+      "作者群": "林俊宏"
+    },
+    {
+      "論文名稱": "Review of Right to Communicate: International Telecommunications Development under Trend of Universal Recognition",
+      "期刊名稱": "Acta Jurid. Hung (Springer/HeinOnli)",
+      "作者群": "林俊宏"
+    },
+    {
+      "論文名稱": "WTO架構下開發中國家與發展議題之回顧",
+      "期刊名稱": "貿易政策論叢 ()",
+      "作者群": "林俊宏"
+    },
+    {
+      "論文名稱": "淺釋台灣與中國大陸海商法之立法沿革及適用範圍",
+      "期刊名稱": "中律會訊 ()",
+      "作者群": "林俊宏"
+    },
+    {
+      "論文名稱": "Historical Review of Taiwan’s Environmental Legislative Adjustment and Its Implications under International Agreements",
+      "期刊名稱": "U.C.L.Rev. (EBSCO/HeinOnlin)",
+      "作者群": "林俊宏"
+    },
+    {
+      "論文名稱": "Conceptual Appraisal of Trade in Service on Telecommunications under WTO Legal System",
+      "期刊名稱": "Misk. J. Int’l L. ()",
+      "作者群": "林俊宏"
+    },
+    {
+      "論文名稱": "由美國法制經驗探討頻譜市場與政府管制模式",
+      "期刊名稱": "法學叢刊 ()",
+      "作者群": "林俊宏"
+    },
+    {
+      "論文名稱": "中國大陸勞動合同法實施對台商投資行為之影響",
+      "期刊名稱": "警大法學論集 ()",
+      "作者群": "林俊宏"
+    },
+    {
+      "論文名稱": "WTO「美國－日本歸零法則措施與落日審查」案之研析",
+      "期刊名稱": "貿易政策論叢 ()",
+      "作者群": "林俊宏"
+    },
+    {
+      "論文名稱": "由兩岸投資法規範之變動概析台灣企業西進中國大陸之投資行為",
+      "期刊名稱": "淡大法政學報 ()",
+      "作者群": "林俊宏"
+    },
+    {
+      "論文名稱": "Role of Foreign Direct Investment in Telecommunication Industries: A Developing Countries' Perspective",
+      "期刊名稱": "Contemporary Management Research ()",
+      "作者群": "林俊宏"
+    },
+    {
+      "論文名稱": "英國電信自由化與無線電頻譜法制變遷之探討",
+      "期刊名稱": "中正大學法學集刊 ()",
+      "作者群": "林俊宏"
+    },
+    {
+      "論文名稱": "車載資通訊系統之產業發展及其相關法律問題",
+      "期刊名稱": "中律會訊 ()",
+      "作者群": "林俊宏"
+    },
+    {
+      "論文名稱": "Telecommunications Cooperation in the Western Hemisphere",
+      "期刊名稱": "Ukra. J. Bus. L. ()",
+      "作者群": "林俊宏"
+    },
+    {
+      "論文名稱": "初探頻譜監控、頻譜檢查和調查兼評阿根廷無線電監控系統",
+      "期刊名稱": "科技法律透析 ()",
+      "作者群": "林俊宏"
+    },
+    {
+      "論文名稱": "世界貿易組織「美國--日本歸零法則措施與落日審查爭端案」",
+      "期刊名稱": "貿易調查專刊 ()",
+      "作者群": "林俊宏"
+    },
+    {
+      "論文名稱": "德國電信頻譜法制介紹",
+      "期刊名稱": "中律會訊 ()",
+      "作者群": "林俊宏"
+    },
+    {
+      "論文名稱": "數位化時代個人資料隱私之問題",
+      "期刊名稱": "月旦法學教室 ()",
+      "作者群": "林俊宏"
+    },
+    {
+      "論文名稱": "WTO架構下電信談判及電信附則之回顧與展望",
+      "期刊名稱": "貿易政策論叢 ()",
+      "作者群": "林俊宏"
+    },
+    {
+      "論文名稱": "台灣無線電頻譜管理與法制調整芻議",
+      "期刊名稱": "月旦財經法雜誌 ()",
+      "作者群": "林俊宏"
+    },
+    {
+      "論文名稱": "WTO and Telecommunication Service",
+      "期刊名稱": "Ukra. J. Bus. L. ()",
+      "作者群": "林俊宏"
+    },
+    {
+      "論文名稱": "概論多邊投資協定-以開發中國家為中心之省思",
+      "期刊名稱": "經社法制論叢 ()",
+      "作者群": "林俊宏"
+    },
+    {
+      "論文名稱": "檢視電子化政府與資訊安全機制之建置",
+      "期刊名稱": "植根法學 ()",
+      "作者群": "林俊宏"
+    },
+    {
+      "論文名稱": "試探開發中國家與國外直接投資之相關問題-兼評多邊投資協定之適當性",
+      "期刊名稱": "經濟與管理論叢 (ECONLIT)",
+      "作者群": "林俊宏"
+    },
+    {
+      "論文名稱": "Global Telecommunication Development and Its Influences on International Community: An International Lawyer’s Perspective",
+      "期刊名稱": "Misk. J. Int'l L. ()",
+      "作者群": "林俊宏"
+    },
+    {
+      "論文名稱": "由開發中國家之經濟發展角度探討「服務貿易總協定」之新局",
+      "期刊名稱": "貿易政策論叢 ()",
+      "作者群": "林俊宏"
+    },
+    {
+      "論文名稱": "The International Telecommunication Union and the Republic of China (Taiwan): Prospect of Taiwan's Participation",
+      "期刊名稱": "Ann. Surv. Int'l & Comp.L. (Westlaw/Lexis)",
+      "作者群": "林俊宏"
+    },
+    {
+      "論文名稱": "Developing Countries and the Practicality of Multilateral Investment Agreements on \r\nTelecommunications",
+      "期刊名稱": "Acta Jurid. Hung. (SSCI,Westlaw/HEIN)",
+      "作者群": "林俊宏"
+    },
+    {
+      "論文名稱": "Universal Access and Human Rights: From Global Telecommunication Development to \r\nExam the Right to Communicate",
+      "期刊名稱": "Medit. J.H.R. (Westlaw)",
+      "作者群": "林俊宏"
+    },
+    {
+      "論文名稱": "International Influences and Transformation of Telecommunications Regulations in Taiwan",
+      "期刊名稱": "Oxford: Chinese J. Int'l L. (SSCI,Westlaw/Lexis)",
+      "作者群": "林俊宏"
+    },
+    {
+      "論文名稱": "Regionalization or Globalization? The Telecommunication Cooperation in Europe",
+      "期刊名稱": "Australian Int'l L. J. (SSCI,Westlaw)",
+      "作者群": "林俊宏"
+    },
+    {
+      "論文名稱": "Regionalism or Globalism? The Process of Telecommunication Cooperation within the \r\nOAS and NAFTA",
+      "期刊名稱": "Currents Int'l Trade L J (Westlaw/Lexis)",
+      "作者群": "林俊宏"
+    }
+  ],
+  "journal2": [],
+  "conference": [
+    {
+      "論文名稱": "企業法律風險評量與防範",
+      "會議名稱": "企業經營 法律風險論壇",
+      "作者群": "林俊宏"
+    },
+    {
+      "論文名稱": "Historical Perspectives on the U.S. Trade Policy to Review Trump's Protectionism in Asia",
+      "會議名稱": "The 10th CILS International Conference: Politics and International Law: Confluence Role",
+      "作者群": "林俊宏"
+    },
+    {
+      "論文名稱": "New Revision of European Audiovisual Regulatory Framework: Way to Open Regionalism?",
+      "會議名稱": "Annual Conference on Practical Approaches to address Economic Issues， Business ＆ Social Sciences Challenges",
+      "作者群": "林俊宏"
+    },
+    {
+      "論文名稱": "建構兩岸共同市場中經貿爭端解決機制之模式",
+      "會議名稱": "两岸共同市场法律问题学术研讨会",
+      "作者群": "林俊宏"
+    },
+    {
+      "論文名稱": "兩岸国际化办学经验之比較與檢討",
+      "會議名稱": "第九届海峽兩岸法學院校長論壇",
+      "作者群": "林俊宏"
+    },
+    {
+      "論文名稱": "Misdirection or Solution? From Legal Historical Perspective to Review Trump's Protectionism in Asia",
+      "會議名稱": "25th IPSA World Congress： Challenging the Borders of Liberal Democracy： The Global Rise of Populism",
+      "作者群": "林俊宏"
+    },
+    {
+      "論文名稱": "兩岸電子商務糾紛爭端解決模式之比較與探討",
+      "會議名稱": "第七届兩岸和平發展法學論壇",
+      "作者群": "林俊宏"
+    },
+    {
+      "論文名稱": "大數據時代下美日被遺忘權之發展對兩岸之啟示",
+      "會議名稱": "第六屆兩岸通訊傳播法論壇",
+      "作者群": "林俊宏"
+    },
+    {
+      "論文名稱": "初探兩岸食品安全之立法議題",
+      "會議名稱": "第六届兩岸和平發展法學論壇",
+      "作者群": "林俊宏"
+    },
+    {
+      "論文名稱": "Mixture of Civil and Common Legal Systems? An Example of New Trend of Taiwan's Legal Development on Information Technology",
+      "會議名稱": "The Common Law and the Civil Law Today－Convergence and Divergence",
+      "作者群": "林俊宏"
+    },
+    {
+      "論文名稱": "由線上仲裁機制談司法爭端解決人才的培養",
+      "會議名稱": "第七届海峽兩岸法學院校長論壇",
+      "作者群": "林俊宏"
+    },
+    {
+      "論文名稱": "通訊匯流與個人資料保護法之未來發展",
+      "會議名稱": "第五屆兩岸通訊傳播法論壇 「『互連網+』時代的兩岸通訊傳播法」",
+      "作者群": "林俊宏"
+    },
+    {
+      "論文名稱": "兩岸經貿發展與ISDS爭端解決機制之形成與適用",
+      "會議名稱": "第五届兩岸和平發展法學論壇",
+      "作者群": "林俊宏"
+    },
+    {
+      "論文名稱": "Examining Legal Issues of Megadata with the reference to EU’s Data Protection Legal Reform",
+      "會議名稱": "Networks in the Global World 2016 Conference: Multiple Structures and Dynamics",
+      "作者群": "林俊宏"
+    },
+    {
+      "論文名稱": "由比較法之觀點檢視台灣通訊傳播法制之過去及未來發展",
+      "會議名稱": "2016公私法學學術研討會",
+      "作者群": "林俊宏"
+    },
+    {
+      "論文名稱": "由台灣電信法修正沿革探討未來數位匯流立法方向相關議題-以電信事業與資源管理法制為核心",
+      "會議名稱": "勇敢邁步：嶄新的匯流法研討會",
+      "作者群": "林俊宏"
+    },
+    {
+      "論文名稱": "涉外法律人才培養的目標與路徑：從台灣海商法及國際經貿法教育談起",
+      "會議名稱": "第六屆海峽兩岸法學院校長論壇",
+      "作者群": "林俊宏"
+    },
+    {
+      "論文名稱": "TPP架構中投資者與地主國爭端解決機制之探討 ─ 超國民待遇觀點下之評析",
+      "會議名稱": "跨太平洋夥伴協定(TPP)之投資相關議題研討會",
+      "作者群": "林俊宏"
+    },
+    {
+      "論文名稱": "由區域自由貿易協定檢視兩岸經貿爭端解決機制之發展",
+      "會議名稱": "第四届兩岸和平發展法學論壇",
+      "作者群": "林俊宏"
+    },
+    {
+      "論文名稱": "從比較法觀察台灣電信法修正沿革",
+      "會議名稱": "東吳大學法學院百年院慶學術研討會",
+      "作者群": "林俊宏"
+    },
+    {
+      "論文名稱": "Legal Development of Atypical Acts in the European Union and Its Application in Spectrum Management Legislation",
+      "會議名稱": "Workshop on European Union Advanced Studies",
+      "作者群": "林俊宏"
+    },
+    {
+      "論文名稱": "台灣法律援助制度探討",
+      "會議名稱": "第五屆兩岸四地法律研討會-法治建設與區際經濟合作",
+      "作者群": "林俊宏"
+    },
+    {
+      "論文名稱": "頻譜管制全球化下無線電規則之調整與再生",
+      "會議名稱": "傳播法的管制革新─政策、法律、司法與兩岸",
+      "作者群": "林俊宏"
+    },
+    {
+      "論文名稱": "The Possibility of Pacific Settlement on Spratly Islands Dispute under International Law",
+      "會議名稱": "Celebrating Diversity: 10years of ASLI",
+      "作者群": "林俊宏"
+    },
+    {
+      "論文名稱": "鹿特丹規則與電子運輸紀錄之探討",
+      "會議名稱": "海大60週年校慶與國際海商法學術研討會－國際海上貨物運送法的變革與趨勢－鹿特丹規則之探索",
+      "作者群": "林俊宏"
+    },
+    {
+      "論文名稱": "異種電波監理-相同或不同之管制模式？—從台北高等行政法院93年度訴字第2009號談起",
+      "會議名稱": "通訊傳播法司法實務之整理與檢討國際學術研討會",
+      "作者群": "林俊宏"
+    },
+    {
+      "論文名稱": "Harmonization or Conflicts of Different Legal Traditions? Case of Taiwanese Legal Reform in Communication Laws",
+      "會議名稱": "Social Justice and Democratization (Comparative Legal Culture) - The Second ISA Forum of Sociology",
+      "作者群": "林俊宏"
+    },
+    {
+      "論文名稱": "由雅典公約探討臺灣海上旅客運送法規之修訂方向",
+      "會議名稱": "海洋法政暨財稅科技法律新趨勢國際學術研討會",
+      "作者群": "林俊宏"
+    },
+    {
+      "論文名稱": "ECFA爭端解決模式之形成及未來定位",
+      "會議名稱": "兩岸經濟合作協議（ECFA）焦點議題研討會",
+      "作者群": "林俊宏"
+    },
+    {
+      "論文名稱": "A Multi-Legal System or Conflicts of Different Legal Traditions:Case of Taiwanese Legal Reform on Communication Law",
+      "會議名稱": "9th Asian Law Institute (ASLI) Annual Conference: Law: An Asian Identity?",
+      "作者群": "林俊宏"
+    },
+    {
+      "論文名稱": "EU-Style Integration? Future of Southeast Asian Countries After ASEAN Charter",
+      "會議名稱": "Whatever Happened to North-South? IPSA-ECPR Joint Conference",
+      "作者群": "林俊宏"
+    },
+    {
+      "論文名稱": "Scopes of Universal Access and Teledensity – Right of Communication in Developing World",
+      "會議名稱": "XVII ISA World Congress of Sociology – Social Justice and Law",
+      "作者群": "林俊宏"
+    },
+    {
+      "論文名稱": "Review of Right to Communicate: International Telecommunications Development under Trend of Universal Recognition",
+      "會議名稱": "Founder's Day Lecture",
+      "作者群": "林俊宏"
+    },
+    {
+      "論文名稱": "Deeper Economic Integration under Regionalism? Process of Telecommunication Cooperation within ASEAN",
+      "會議名稱": "2010 International Fellows Roundtable Forum",
+      "作者群": "林俊宏"
+    },
+    {
+      "論文名稱": "歐盟廢電機及電子設備指令之立法及實施-兼述對台灣相關產業之影響",
+      "會議名稱": "2009全國科技法律研討會",
+      "作者群": "林俊宏、姚靜怡"
+    },
+    {
+      "論文名稱": "European Countries' Telecommunications Cooperation under the Trend of Globalization",
+      "會議名稱": "39th UACES Annual Conference: Exchanging Ideas on Europe",
+      "作者群": "林俊宏"
+    },
+    {
+      "論文名稱": "WTO框架下有關工業製品及其產品標準問題",
+      "會議名稱": "國際貿易法教學研究創新研討會",
+      "作者群": "林俊宏"
+    },
+    {
+      "論文名稱": "Foreign Direct Investment on Developing Nations and Practicably of Multilateral Agreement on Investment",
+      "會議名稱": "AIB 2009 Annual Meeting",
+      "作者群": "林俊宏"
+    },
+    {
+      "論文名稱": "Rules of Foreign Direct Investment on Telecommunications Development with Taiwan’s Experience",
+      "會議名稱": "6th Asian Law Institute (ASLI) Annual Conference: Dynamics of Change in Asia",
+      "作者群": "林俊宏"
+    },
+    {
+      "論文名稱": "概論兩岸通商下有關反傾銷法制之比較分析",
+      "會議名稱": "2009海峽兩岸經濟、產業與環境學術研討會",
+      "作者群": "林俊宏、洪正一"
+    },
+    {
+      "論文名稱": "兩岸直航下台灣與中國大陸海商事件法規適用範圍之比較研究",
+      "會議名稱": "2009國際貿易與企業經營學術研討會",
+      "作者群": "林俊宏、巫志龍"
+    },
+    {
+      "論文名稱": "中國大陸「兩稅合一」稅制改革立法對台資企業投資之影響",
+      "會議名稱": "2009海峽兩岸租稅學術研討會",
+      "作者群": "林俊宏、李秀貞"
+    },
+    {
+      "論文名稱": "歐盟EuP 環保指令之實施及其對台灣相關產業之影響",
+      "會議名稱": "第二屆金融與經濟競爭力研討會 (COFAECA 2009)",
+      "作者群": "林俊宏、姚靜怡"
+    },
+    {
+      "論文名稱": "中國大陸勞動合同法實施對台商西進投資行為之影響",
+      "會議名稱": "2008企業決策與兩岸經貿發展學術研討會",
+      "作者群": "林俊宏、李秀貞"
+    },
+    {
+      "論文名稱": "以台灣企業西進中國大陸之投資行為探討我國相關投資法規範之修正方向",
+      "會議名稱": "2008兩岸政經文教學術研討會",
+      "作者群": "林俊宏、李秀貞"
+    },
+    {
+      "論文名稱": "Sharing Radio Spectrum: International Regulatory Mechanism for Maritime Telecommunications Service",
+      "會議名稱": "2008 Socio-Legal Studies Association Annual Conference",
+      "作者群": "林俊宏"
+    },
+    {
+      "論文名稱": "無線電頻譜市場管制模式之探討-以頻譜財產權制度為核心",
+      "會議名稱": "第十五屆競爭政策與公平交易法學術研討會",
+      "作者群": "林俊宏"
+    },
+    {
+      "論文名稱": "WTO「美國歸零措施及落日審查案」之研究",
+      "會議名稱": "貿易救濟爭端解決案例講習研討會",
+      "作者群": "林俊宏"
+    },
+    {
+      "論文名稱": "服務貿易總協定及台灣本土服務業市場開放之說明",
+      "會議名稱": "國際貿易法教學改進計畫成果研討會—由台灣本土觀點解讀WTO規則",
+      "作者群": "林俊宏"
+    },
+    {
+      "論文名稱": "國家無線電頻譜管理之探討－以頻譜監控、頻譜檢查和調查為核心兼評阿根廷無線電監控系統",
+      "會議名稱": "2007國際企業管理跨領域整合學術研討會",
+      "作者群": "林俊宏、林明珠"
+    },
+    {
+      "論文名稱": "International Sharing in Radio Frequency Spectrum: Historic Review of Regulations",
+      "會議名稱": "4th International Conference on Law",
+      "作者群": "林俊宏"
+    },
+    {
+      "論文名稱": "頻譜市場與政府管制模式之研究－以美國經驗為中心",
+      "會議名稱": "競爭暨智慧財產權之理論與實踐學術研討會",
+      "作者群": "林俊宏"
+    },
+    {
+      "論文名稱": "Taiwan and the Use of International Law in the South China Sea Dispute",
+      "會議名稱": "Human Security in Asia: Emerging Issues and Challenges",
+      "作者群": "林俊宏"
+    },
+    {
+      "論文名稱": "WTO「美國歸零措施及落日審查案」",
+      "會議名稱": "貿易救濟爭端解決案例成果發表研討會",
+      "作者群": "林俊宏"
+    },
+    {
+      "論文名稱": "An Historical Examination of the ‘Right to Communicate’ in Current Global Telecommunication Development",
+      "會議名稱": "Consequentiality: The Global Political and Social Order",
+      "作者群": "林俊宏"
+    },
+    {
+      "論文名稱": "Role of Foreign Direct Investment in Telecommunication Industries: A Developing Countries’ Perspective",
+      "會議名稱": "2006 International Conference on Business and Information",
+      "作者群": "林俊宏"
+    },
+    {
+      "論文名稱": "Globalization and ASEAN Regional Integration in Taiwanese Perspective",
+      "會議名稱": "2006 International Conference on Asia in Global Perspective",
+      "作者群": "林俊宏"
+    },
+    {
+      "論文名稱": "WTO「美國對歐體進口某些產品實施平衡稅措施案」",
+      "會議名稱": "貿易救濟爭端解決案例講習研討會",
+      "作者群": "林俊宏"
+    },
+    {
+      "論文名稱": "概析WTO架構下電信談判及電信附則之過去、現在與未來",
+      "會議名稱": "2006國際經貿學術研討會",
+      "作者群": "林俊宏、張則慧"
+    },
+    {
+      "論文名稱": "Application of Concept of \"the Right to Communicate\" to Universal Access in Global Telecommunication Development",
+      "會議名稱": "6th East Asian Conference on the Philosophy of Law",
+      "作者群": "林俊宏"
+    },
+    {
+      "論文名稱": "論多邊投資協定之立法及其發展—以開發中國家為中心之省思",
+      "會議名稱": "2006法與經貿-法學新知學術研討會",
+      "作者群": "林俊宏"
+    },
+    {
+      "論文名稱": "探討電子化政府與個人資料保護問題-從技術面和法制面觀察",
+      "會議名稱": "2006電子商務與數位生活研討會",
+      "作者群": "林俊宏,林宜君"
+    },
+    {
+      "論文名稱": "由發展中國家之經濟發展角度探討WTO架構下「服務業貿易總協定」之新局",
+      "會議名稱": "2005全國商學研討會",
+      "作者群": "林俊宏"
+    },
+    {
+      "論文名稱": "電子化政府與資訊安全機制之法制面省思",
+      "會議名稱": "2005管理與技術國際學術研討會",
+      "作者群": "林俊宏"
+    }
+  ],
+  "book": [
+    {
+      "專業書籍": "海事頻譜資源共享之跨國法律問題研究",
+      "出版單位": "行政院國家科學委員會",
+      "作者群": "林俊宏"
+    },
+    {
+      "專業書籍": "由歐盟之策略與作法探討WTO 貿易規則與多邊環境協定的衝突與協調",
+      "出版單位": "逢甲大學專案研究計劃",
+      "作者群": "林俊宏"
+    },
+    {
+      "專業書籍": "國際貿易法-WTO規則與台灣本土實踐暨相關案例說明",
+      "出版單位": "教育部",
+      "作者群": "林俊宏"
+    },
+    {
+      "專業書籍": "論歐盟電信法制整合與我國因應之道",
+      "出版單位": "行政院國家科學委員會",
+      "作者群": "林俊宏"
+    },
+    {
+      "專業書籍": "美國歸零措施及落日審查案",
+      "出版單位": "經濟部貿易調查委員會",
+      "作者群": "林俊宏"
+    }
+  ],
+  "patent": [],
+  "most": [
+    {
+      "name": "由歐盟雲端運算法制議題之開展檢視區域電信監管與合作模式",
+      "schoolYear": "103"
+    },
+    {
+      "name": "歐盟非典型行為於頻譜管理法制之適用與發展",
+      "schoolYear": "102"
+    },
+    {
+      "name": "新興無線通訊技術對頻譜資源管理法制建立及頻譜未來規劃之影響",
+      "schoolYear": "101"
+    },
+    {
+      "name": "延長生產者責任與生態化設計:由歐盟相關指令探討e-Waste管理法制之建立",
+      "schoolYear": "99"
+    },
+    {
+      "name": "由資電產品技術標準之轉變探討歐盟環保指令與非歧視原則之對立與調和(I)",
+      "schoolYear": "98"
+    },
+    {
+      "name": "論歐盟電信法制整合與我國因應之道",
+      "schoolYear": "95"
+    },
+    {
+      "name": "從國際無線電規則探討我國無線電管理之法制調整(I)",
+      "schoolYear": "94"
+    }
+  ],
+  "tech": [
+    {
+      "論文名稱": "由公司治理與公平競爭角度探討企業賄賂防制之立法 (2020-07)",
+      "書名": "施茂林教授七秩華誕祝壽論文集",
+      "作者群": "林俊宏"
+    },
+    {
+      "論文名稱": "由台灣電信法修正沿革探討未來數位匯流立法方向相關議題:以電信事業法與資源管理法制為核心 (2016-05)",
+      "書名": "勇敢邁步:嶄新的匯流法",
+      "作者群": "彭芸.葉志良"
+    },
+    {
+      "論文名稱": "電波監理管制模式之探討 (2014-08)",
+      "書名": "通訊傳播法研究",
+      "作者群": "林俊宏"
+    },
+    {
+      "論文名稱": "由國際立法探討我國海上電子運輸紀錄之法制問題 (2013-08)",
+      "書名": "法學的實踐與創新",
+      "作者群": "林俊宏"
+    },
+    {
+      "論文名稱": "中國大陸兩稅合一稅制改革立法對台資企業投資之影響 (2009-10)",
+      "書名": "兩岸租稅論叢",
+      "作者群": "林俊宏、李秀貞"
+    },
+    {
+      "論文名稱": "Comprehensive Review of Global Radiocommunication and Spectrum Management under Radio Regulations (2009-08)",
+      "書名": "CONTEMPORARY ISSUES ON PUBLIC INTERNATIONAL AND COMPARATIVE LAW: ESSAYS IN HONOR OF PROFESSOR CHRISTIAN NWACHUKWU OKEKE",
+      "作者群": "林俊宏"
+    },
+    {
+      "論文名稱": "無線電頻譜市場管制模式之探討-以頻譜財產權制度為核心 (2008-12)",
+      "書名": "公平交易法論叢-第十五屆競爭政策與公平交易法學術研討會論文集",
+      "作者群": "林俊宏"
+    },
+    {
+      "論文名稱": "International Sharing in Radio Frequency Spectrum: Historic Review of Regulations (2008-08)",
+      "書名": "SELECTED ESSAYS ON CURRENT LEGAL ISSUES",
+      "作者群": "林俊宏"
+    },
+    {
+      "論文名稱": "國際經貿環境變遷與台灣電信頻譜法制發展之回顧 (2008-01)",
+      "書名": "國際電信傳播法論文選集",
+      "作者群": "林俊宏"
+    },
+    {
+      "論文名稱": "以台灣企業西進中國大陸之投資行為探討我國相關投資法規範之修正方向 (2007-08)",
+      "書名": "遠景與挑戰",
+      "作者群": "林俊宏、李秀貞"
+    },
+    {
+      "論文名稱": "Taiwan and the Use of International Law in the South China Sea Dispute (2007-08)",
+      "書名": "HUMAN SECURITY IN ASIA EMERGING ISSUES AND CHALLENGES",
+      "作者群": "林俊宏"
+    }
+  ],
+  "induAca": [
+    "兩岸經貿議題分區(中部)產學座談會 (2020-07 to 2020-11)",
+    "兩岸經貿關係產學議題分區(中部)座談會 (2019-04 to 2019-07)",
+    "兩岸經貿產學議題分區(中區)座談會 (2018-10 to 2018-11)",
+    "兩岸經貿關係學者中區座談會 (2017-03 to 2017-03)",
+    "國際貿易法－WTO框架下境與衛生議題及台灣時事之比較案例教學 (2009-08 to 2010-05)",
+    "98年度中小學及社區法治教育計畫 (2009-04 to 2009-09)",
+    "國際貿易法-WTO規則與台灣本土實踐暨相關案例說明 (2007-06 to 2008-01)"
+  ],
+  "perform": [],
+  "reward": [
+    "逢甲大學優良教材獎勵優等獎 (106, 2017-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (103, 2014-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (100, 2011-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (100, 2011-11) - 逢甲大學",
+    "逢甲大學優良教材獎勵佳作獎 (100, 2011-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (100, 2011-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (100, 2011-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵 (99, 2010-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵 (99, 2010-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (99, 2010-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (99, 2010-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (99, 2010-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (99, 2010-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (99, 2010-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (99, 2010-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (99, 2010-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (98, 2009-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (98, 2009-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵 (98, 2009-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (98, 2009-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (98, 2009-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (98, 2009-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (98, 2009-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (97, 2008-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵 (96, 2007-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (96, 2007-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵 (96, 2007-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (96, 2007-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (96, 2007-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵 (96, 2007-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (96, 2007-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (95, 2006-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (95, 2006-11) - 逢甲大學"
+  ],
+  "speech": [],
+  "material": [
+    "勇敢邁步:嶄新的匯流法 (論文集)\t元智大學\t彭芸.葉志良.林俊宏等\t教科書"
+  ],
+  "tal": []
+}

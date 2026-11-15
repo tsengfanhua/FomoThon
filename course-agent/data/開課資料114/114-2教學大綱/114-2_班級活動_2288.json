@@ -1,0 +1,925 @@
+{
+  "success": true,
+  "info": {
+    "yms_year": 114.0,
+    "yms_smester": 2.0,
+    "sub_id": "00001",
+    "cls_id": "CM03121",
+    "scr_dup": "001",
+    "sub_id3": "GEID0010",
+    "cls_name": "土管二甲",
+    "cls_ename": "Department of Land Management",
+    "sub_name": "班級活動",
+    "sub_ename": "CLASS ACTIVITY",
+    "scr_mso": "必修",
+    "scr_mso_en": "Required",
+    "scr_credit": 0.0,
+    "scr_periodly": "(二)09",
+    "scr_periodly_eng": "(Tue)09",
+    "lang_name": "中文                                                      ",
+    "lang_ename": "Chinese",
+    "scr_room": "紀110",
+    "scr_room_eng": "CMB110",
+    "scr_teacher": "游政諭",
+    "scr_teacher_eng": "Cheng-Yu Yu",
+    "scr_selcode": "2288",
+    "scr_elearning": "全學期",
+    "scr_elearning_en": "Full semester",
+    "scr_hours": "1",
+    "scr_english": "N",
+    "unt_name": null,
+    "unt_ename": null,
+    "link_traminal": null,
+    "link_traminal_en": null,
+    "scr_ldl": "D",
+    "course_mk": "N",
+    "teams_mk": "N",
+    "sub_title": null,
+    "sub_title_en": null,
+    "sub_describe": null,
+    "sub_describe_en": null,
+    "hasDescription": null,
+    "hasInstructor": null,
+    "hasTA": null,
+    "hasTextBooks": null,
+    "hasReadings": null,
+    "hasiSoftwares": null,
+    "hasAssistSoftwares": null,
+    "hasObjective": null,
+    "hasWeeklyScds": null,
+    "hasGradeRules": null,
+    "hasGradeRuleDescribe": null,
+    "hasIntegrity": null,
+    "hasCoursePol": null,
+    "hasCourseRem": null,
+    "hasObjectiveReleation": null,
+    "hasTopicSdgs": null,
+    "hasTopicAiIndicators": null,
+    "hasSubTitleDesc": null
+  },
+  "subTitleDesc": null,
+  "description": {
+    "sub_id3": null,
+    "sub_name": "班級活動",
+    "sub_ename": "CLASS ACTIVITY",
+    "describe_ch": "提供學生們與導師建立互動機會，形成良好夥伴關係，以發展實現學生個人、學業、職涯目標，確保及達成學生學習成就。提供生涯規劃及選課諮詢，並導引善用學校各項學習資源與服務，獲得各種學習能力資訊及機會，輔助學生建立完整的學習經驗及歷程，讓學生個人的學習發展，朝向永續學習及成功之路。",
+    "describe_eh": "Providing the interactive opportunity establishes in the students and academic advisor, forms the good partnership. develops realizes student individual, the studies, the duty border goal, guarantees and achieves the student to study the achievement. Provides the profession plan and chooses the class consultation, and guides makes good use of the school each study resources and the service, obtains each kind of learning capability information and the opportunity, the auxiliary student establishes the complete learning experience and the course, lets the student individual study development, faces continues forever to study and the steps to success.",
+    "pre_subname": "",
+    "pre_sub_id3": null,
+    "pre_sub_ename": "",
+    "pre_describe": null,
+    "pre_describe_en": null,
+    "scr_credit": 0.0
+  },
+  "targets": [
+    {
+      "seq": 1,
+      "describe_ch": "班級活動及諮詢：培養學生責任感與凝聚班級向心力。",
+      "describe_en": "Class Activities Operation and Advising: Cultivate students' responsibilities and enhance the sense of belonging."
+    },
+    {
+      "seq": 2,
+      "describe_ch": "個人成長：協助同學發展核心軟技能及決策制訂能力，以及從各種學習經驗當中獲得綜合技能並能適時運用之。",
+      "describe_en": "Personal growth: Develop core soft skills and decision-making. Be able to identify and communicate the transferable skills gained through your educational experience."
+    },
+    {
+      "seq": 3,
+      "describe_ch": "資源應用：幫助同學分配與有效利用校園資源服務的技巧以達成學生目標。",
+      "describe_en": "Resource identification: Develop skills in locating and effectively using information and resources that help you achieve your goals."
+    },
+    {
+      "seq": 4,
+      "describe_ch": "職涯規劃：讓同學瞭解在課堂學習經驗與個人學業、職涯及制訂目標之間的關係。",
+      "describe_en": "Curriculum integration: Understand the relationship between your classroom experiences and your academic, career, and personal goals."
+    },
+    {
+      "seq": 5,
+      "describe_ch": "經驗學習：瞭解包含課堂外學習經驗的重要性。",
+      "describe_en": "Experiential learning: Understand the importance of including experiences outside of the classroom in your educational plan."
+    }
+  ],
+  "teachersInfo": [
+    {
+      "cname": "游政諭",
+      "ename": "Cheng-Yu Yu",
+      "period": "(Wed)03-04 紀510,(Thu)03-04 紀510",
+      "roletype": 0,
+      "email": "chengyyu@o365.fcu.edu.tw",
+      "ext": "4719"
+    }
+  ],
+  "textBooks": {
+    "yms_year": 114.0,
+    "yms_smester": 2.0,
+    "cls_id": "CM03121",
+    "sub_id": "00001",
+    "scr_dup": "001",
+    "tpb_seq": 1,
+    "tpb_book": "<div><a href=\"https://search.books.com.tw/search/query/key/%E6%9D%B1%E6%B5%B7%E5%A4%A7%E5%AD%B8%E5%8D%9A%E9%9B%85%E6%9B%B8%E9%99%A2/adv_author/1/\">東海大學博雅書院</a>,&nbsp;<a href=\"https://search.books.com.tw/search/query/key/%E7%8E%8B%E5%81%89%E8%8F%AF/adv_author/1/\">王偉華</a>,&nbsp;<a href=\"https://search.books.com.tw/search/query/key/%E9%82%B1%E5%9C%8B%E7%B6%AD/adv_author/1/\">邱國維</a>&nbsp;2018&nbsp;博雅教育的學與思。<a href=\"https://www.books.com.tw/web/sys_puballb/books/?pubid=business\">商周出版</a></div>\n",
+    "tpb_book_en": null
+  },
+  "readings": {
+    "yms_year": 114.0,
+    "yms_smester": 2.0,
+    "cls_id": "CM03121",
+    "sub_id": "00001",
+    "scr_dup": "001",
+    "tpc_seq": 1,
+    "tpc_book": "<div><a href=\"https://search.books.com.tw/search/query/key/%E6%9D%B1%E6%B5%B7%E5%A4%A7%E5%AD%B8%E5%8D%9A%E9%9B%85%E6%9B%B8%E9%99%A2/adv_author/1/\">東海大學博雅書院</a>,&nbsp;<a href=\"https://search.books.com.tw/search/query/key/%E7%8E%8B%E5%81%89%E8%8F%AF/adv_author/1/\">王偉華</a>,&nbsp;<a href=\"https://search.books.com.tw/search/query/key/%E9%82%B1%E5%9C%8B%E7%B6%AD/adv_author/1/\">邱國維</a>&nbsp;2018&nbsp;博雅教育的學與思。<a href=\"https://www.books.com.tw/web/sys_puballb/books/?pubid=business\">商周出版</a></div>\n",
+    "tpc_book_en": null
+  },
+  "iSoftwares": [],
+  "assistSoftwares": [],
+  "weeklyScds": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CM03121",
+      "sub_id": "00001",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "01",
+      "tpd_reading": "<div>待新學期時程表出爐再行更新。</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": null,
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": " ",
+      "tpd_ass_en": null,
+      "tpd_online_asy": 18.0,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CM03121",
+      "sub_id": "00001",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "02",
+      "tpd_reading": " ",
+      "tpd_reading_en": null,
+      "tpd_learn": null,
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CM03121",
+      "sub_id": "00001",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "03",
+      "tpd_reading": " ",
+      "tpd_reading_en": null,
+      "tpd_learn": null,
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CM03121",
+      "sub_id": "00001",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "04",
+      "tpd_reading": " ",
+      "tpd_reading_en": null,
+      "tpd_learn": null,
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CM03121",
+      "sub_id": "00001",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "05",
+      "tpd_reading": " ",
+      "tpd_reading_en": null,
+      "tpd_learn": null,
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CM03121",
+      "sub_id": "00001",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "06",
+      "tpd_reading": " ",
+      "tpd_reading_en": null,
+      "tpd_learn": null,
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CM03121",
+      "sub_id": "00001",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "07",
+      "tpd_reading": " ",
+      "tpd_reading_en": null,
+      "tpd_learn": null,
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    }
+  ],
+  "gradeRules": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CM03121",
+      "sub_id": "00001",
+      "scr_dup": "001",
+      "evalb_id": "L2",
+      "score_rate": 40,
+      "evalb_memo": "點名狀況",
+      "evalb_memo_en": null,
+      "evalb_name": "點名",
+      "evalb_name_en": "Roll call",
+      "seq": 1
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CM03121",
+      "sub_id": "00001",
+      "scr_dup": "001",
+      "evalb_id": "L4",
+      "score_rate": 40,
+      "evalb_memo": "出席次數",
+      "evalb_memo_en": null,
+      "evalb_name": "出席狀況",
+      "evalb_name_en": "Attendances",
+      "seq": 2
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CM03121",
+      "sub_id": "00001",
+      "scr_dup": "001",
+      "evalb_id": "L3",
+      "score_rate": 20,
+      "evalb_memo": "課堂參與程度",
+      "evalb_memo_en": null,
+      "evalb_name": "課堂討論參與",
+      "evalb_name_en": "Participation",
+      "seq": 3
+    }
+  ],
+  "gradeRuleDescribe": {
+    "yms_year": 114.0,
+    "yms_smester": 2.0,
+    "cls_id": "CM03121",
+    "sub_id": "00001",
+    "scr_dup": "001",
+    "tpa_score_new": null,
+    "tpa_score_new_en": null,
+    "course_pol": "學習必須以誠信為基礎，任何學生企圖將自己未製作的作品，作為自己的作品，此行為是為不誠實行為。在作業、測驗或考試中作弊或抄襲的學生或協助他人的行為，該次成績以零分計，若是累犯，將依逢甲大學學生獎懲辦法提送。",
+    "course_pol_en": null,
+    "course_rem": null,
+    "course_rem_en": null,
+    "ais_meno": "<div>學習必須以誠信為基礎，任何學生企圖將自己未製作的作品，作為自己的作品，此行為是為不誠實行為。在作業、測驗或考試中作弊或抄襲的學生或協助他人的行為，該次成績以零分計，若是累犯，將依逢甲大學學生獎懲辦法提送。<br />\n&nbsp;<br />\n**<br />\n相信多數的老師與學生都認同學術誠信（academic integrity，亦稱學術倫理）的重要性，並理解學術誠信是在教學過程中不可或缺的重要元素。然而，身為學生的你，當被授課老師與指導老師們再三叮嚀要遵守學術誠信時，是否曾覺得虛無飄渺或無所適從？因為你不太確定，究竟什麼是學術誠信？<br />\n&nbsp;<br />\n在新生始業輔導的教育課程，或新修某一門課的第一週，老師們可能會秀出學校的校規或學則，用當中的違反學術倫理態樣去提醒你不該做的事（如不可抄襲與造假）。此時或許你會疑惑：只要不做違規的事，就代表我是個有學術誠信的學生嗎？若是如此，那不違規又是指什麼呢？是不要違反列出的這些項目就好嗎？那做了但沒被老師抓到，就可以不算違規嗎？如果情節輕微可以通融嗎？又或是不僅不能做違規事，也要心存正念，達到表裡合一的境界，才算有學術誠信？誠信與否的那條紅線到底落在哪裡？<br />\n&nbsp;<br />\n事實上，學術誠信是個正向的名詞，其內涵是由諸多正面的價值組成，需要大學校園師生由行動來共同守護。如果只是用不能做的違規行為去詮釋學術誠信，不但在解釋上相當片面，也不可能涵蓋到所有的學習情境。此時，若同學換到一個新的環境（如到國外讀研究所），或需要面對更複雜的學習任務時（如參加校外的國際競賽、爭取獎學金等），也有機會面臨在可為與不可為之間的矛盾與掙扎。因此，縱使認識違規行為的態樣很重要，但我們也應該由內而外地澈底理解學術誠信，包含其所蘊含的價值觀與實踐方式。唯有如此，無論日後面對什麼樣的學習情境，我們只要秉持這些價值原則行事，即能達到學術界對於學生在課業活動上所規範的倫理標準，當然也不會讓自己陷入違反學術誠信的風險。<br />\n&nbsp;<br />\n＜全文引自：潘璿安（2021）。給大學生的參考手冊──在高等教育課堂中實踐學術誠信〔電子書〕。教育部臺灣學術倫理教育資源中心＞</div>\n\n<div><br />\n學生指引 | 逢甲大學圖書館　https://web.lib.fcu.edu.tw/library/ipr/student-guide.html<br />\n學生利用ChatGPT的生成內容當報告是否會侵害著作權？或違反學術倫理？ &ndash; Our Stories@FCU Library　https://blogcastle.lib.fcu.edu.tw/archives/8272</div>\n\n<div><br />\n學生運用 AI 的倫理<br />\n要求學生：<br />\n1. Transparency: 要學生據實回報如何使用 AI<br />\n2. Bias Recognition: 指認 AI 的偏誤，要學生回答：<br />\n&nbsp; 2-1 What points were emphasized? &nbsp;AI 強調了什麼？<br />\n&nbsp; 2-2 What was missing? &nbsp;AI 漏掉了什麼？<br />\n&nbsp; 2-3 What tone or framing was used? &nbsp;AI 採用的論點或框架為何?<br />\n&nbsp; 2-4 What does this reveal about each tool&rsquo;s assumptions? &nbsp;你發現不同的工具各做了何種假設？<br />\n3. Ownership: 要為使用AI產生的成果負起責任<br />\n4. Ethical Reasoning: 要學會並遵從AI使用的倫理</div>\n",
+    "ais_meno_en": null,
+    "ilearn_mk": "N"
+  },
+  "integrity": {
+    "yms_year": 114.0,
+    "yms_smester": 2.0,
+    "cls_id": "CM03121",
+    "sub_id": "00001",
+    "scr_dup": "001",
+    "tpa_score_new": null,
+    "tpa_score_new_en": null,
+    "course_pol": "學習必須以誠信為基礎，任何學生企圖將自己未製作的作品，作為自己的作品，此行為是為不誠實行為。在作業、測驗或考試中作弊或抄襲的學生或協助他人的行為，該次成績以零分計，若是累犯，將依逢甲大學學生獎懲辦法提送。",
+    "course_pol_en": null,
+    "course_rem": null,
+    "course_rem_en": null,
+    "ais_meno": "<div>學習必須以誠信為基礎，任何學生企圖將自己未製作的作品，作為自己的作品，此行為是為不誠實行為。在作業、測驗或考試中作弊或抄襲的學生或協助他人的行為，該次成績以零分計，若是累犯，將依逢甲大學學生獎懲辦法提送。<br />\n&nbsp;<br />\n**<br />\n相信多數的老師與學生都認同學術誠信（academic integrity，亦稱學術倫理）的重要性，並理解學術誠信是在教學過程中不可或缺的重要元素。然而，身為學生的你，當被授課老師與指導老師們再三叮嚀要遵守學術誠信時，是否曾覺得虛無飄渺或無所適從？因為你不太確定，究竟什麼是學術誠信？<br />\n&nbsp;<br />\n在新生始業輔導的教育課程，或新修某一門課的第一週，老師們可能會秀出學校的校規或學則，用當中的違反學術倫理態樣去提醒你不該做的事（如不可抄襲與造假）。此時或許你會疑惑：只要不做違規的事，就代表我是個有學術誠信的學生嗎？若是如此，那不違規又是指什麼呢？是不要違反列出的這些項目就好嗎？那做了但沒被老師抓到，就可以不算違規嗎？如果情節輕微可以通融嗎？又或是不僅不能做違規事，也要心存正念，達到表裡合一的境界，才算有學術誠信？誠信與否的那條紅線到底落在哪裡？<br />\n&nbsp;<br />\n事實上，學術誠信是個正向的名詞，其內涵是由諸多正面的價值組成，需要大學校園師生由行動來共同守護。如果只是用不能做的違規行為去詮釋學術誠信，不但在解釋上相當片面，也不可能涵蓋到所有的學習情境。此時，若同學換到一個新的環境（如到國外讀研究所），或需要面對更複雜的學習任務時（如參加校外的國際競賽、爭取獎學金等），也有機會面臨在可為與不可為之間的矛盾與掙扎。因此，縱使認識違規行為的態樣很重要，但我們也應該由內而外地澈底理解學術誠信，包含其所蘊含的價值觀與實踐方式。唯有如此，無論日後面對什麼樣的學習情境，我們只要秉持這些價值原則行事，即能達到學術界對於學生在課業活動上所規範的倫理標準，當然也不會讓自己陷入違反學術誠信的風險。<br />\n&nbsp;<br />\n＜全文引自：潘璿安（2021）。給大學生的參考手冊──在高等教育課堂中實踐學術誠信〔電子書〕。教育部臺灣學術倫理教育資源中心＞</div>\n\n<div><br />\n學生指引 | 逢甲大學圖書館　https://web.lib.fcu.edu.tw/library/ipr/student-guide.html<br />\n學生利用ChatGPT的生成內容當報告是否會侵害著作權？或違反學術倫理？ &ndash; Our Stories@FCU Library　https://blogcastle.lib.fcu.edu.tw/archives/8272</div>\n\n<div><br />\n學生運用 AI 的倫理<br />\n要求學生：<br />\n1. Transparency: 要學生據實回報如何使用 AI<br />\n2. Bias Recognition: 指認 AI 的偏誤，要學生回答：<br />\n&nbsp; 2-1 What points were emphasized? &nbsp;AI 強調了什麼？<br />\n&nbsp; 2-2 What was missing? &nbsp;AI 漏掉了什麼？<br />\n&nbsp; 2-3 What tone or framing was used? &nbsp;AI 採用的論點或框架為何?<br />\n&nbsp; 2-4 What does this reveal about each tool&rsquo;s assumptions? &nbsp;你發現不同的工具各做了何種假設？<br />\n3. Ownership: 要為使用AI產生的成果負起責任<br />\n4. Ethical Reasoning: 要學會並遵從AI使用的倫理</div>\n",
+    "ais_meno_en": null,
+    "ilearn_mk": "N"
+  },
+  "policy": {
+    "yms_year": 114.0,
+    "yms_smester": 2.0,
+    "cls_id": "CM03121",
+    "sub_id": "00001",
+    "scr_dup": "001",
+    "tpa_score_new": null,
+    "tpa_score_new_en": null,
+    "course_pol": "學習必須以誠信為基礎，任何學生企圖將自己未製作的作品，作為自己的作品，此行為是為不誠實行為。在作業、測驗或考試中作弊或抄襲的學生或協助他人的行為，該次成績以零分計，若是累犯，將依逢甲大學學生獎懲辦法提送。",
+    "course_pol_en": null,
+    "course_rem": null,
+    "course_rem_en": null,
+    "ais_meno": "<div>學習必須以誠信為基礎，任何學生企圖將自己未製作的作品，作為自己的作品，此行為是為不誠實行為。在作業、測驗或考試中作弊或抄襲的學生或協助他人的行為，該次成績以零分計，若是累犯，將依逢甲大學學生獎懲辦法提送。<br />\n&nbsp;<br />\n**<br />\n相信多數的老師與學生都認同學術誠信（academic integrity，亦稱學術倫理）的重要性，並理解學術誠信是在教學過程中不可或缺的重要元素。然而，身為學生的你，當被授課老師與指導老師們再三叮嚀要遵守學術誠信時，是否曾覺得虛無飄渺或無所適從？因為你不太確定，究竟什麼是學術誠信？<br />\n&nbsp;<br />\n在新生始業輔導的教育課程，或新修某一門課的第一週，老師們可能會秀出學校的校規或學則，用當中的違反學術倫理態樣去提醒你不該做的事（如不可抄襲與造假）。此時或許你會疑惑：只要不做違規的事，就代表我是個有學術誠信的學生嗎？若是如此，那不違規又是指什麼呢？是不要違反列出的這些項目就好嗎？那做了但沒被老師抓到，就可以不算違規嗎？如果情節輕微可以通融嗎？又或是不僅不能做違規事，也要心存正念，達到表裡合一的境界，才算有學術誠信？誠信與否的那條紅線到底落在哪裡？<br />\n&nbsp;<br />\n事實上，學術誠信是個正向的名詞，其內涵是由諸多正面的價值組成，需要大學校園師生由行動來共同守護。如果只是用不能做的違規行為去詮釋學術誠信，不但在解釋上相當片面，也不可能涵蓋到所有的學習情境。此時，若同學換到一個新的環境（如到國外讀研究所），或需要面對更複雜的學習任務時（如參加校外的國際競賽、爭取獎學金等），也有機會面臨在可為與不可為之間的矛盾與掙扎。因此，縱使認識違規行為的態樣很重要，但我們也應該由內而外地澈底理解學術誠信，包含其所蘊含的價值觀與實踐方式。唯有如此，無論日後面對什麼樣的學習情境，我們只要秉持這些價值原則行事，即能達到學術界對於學生在課業活動上所規範的倫理標準，當然也不會讓自己陷入違反學術誠信的風險。<br />\n&nbsp;<br />\n＜全文引自：潘璿安（2021）。給大學生的參考手冊──在高等教育課堂中實踐學術誠信〔電子書〕。教育部臺灣學術倫理教育資源中心＞</div>\n\n<div><br />\n學生指引 | 逢甲大學圖書館　https://web.lib.fcu.edu.tw/library/ipr/student-guide.html<br />\n學生利用ChatGPT的生成內容當報告是否會侵害著作權？或違反學術倫理？ &ndash; Our Stories@FCU Library　https://blogcastle.lib.fcu.edu.tw/archives/8272</div>\n\n<div><br />\n學生運用 AI 的倫理<br />\n要求學生：<br />\n1. Transparency: 要學生據實回報如何使用 AI<br />\n2. Bias Recognition: 指認 AI 的偏誤，要學生回答：<br />\n&nbsp; 2-1 What points were emphasized? &nbsp;AI 強調了什麼？<br />\n&nbsp; 2-2 What was missing? &nbsp;AI 漏掉了什麼？<br />\n&nbsp; 2-3 What tone or framing was used? &nbsp;AI 採用的論點或框架為何?<br />\n&nbsp; 2-4 What does this reveal about each tool&rsquo;s assumptions? &nbsp;你發現不同的工具各做了何種假設？<br />\n3. Ownership: 要為使用AI產生的成果負起責任<br />\n4. Ethical Reasoning: 要學會並遵從AI使用的倫理</div>\n",
+    "ais_meno_en": null,
+    "ilearn_mk": "N"
+  },
+  "courseBankC": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CM03121",
+      "sub_id": "00001",
+      "scr_dup": "001",
+      "seq": 1,
+      "describe_ch": "班級活動及諮詢：培養學生責任感與凝聚班級向心力。",
+      "describe_en": "Class Activities Operation and Advising: Cultivate students' responsibilities and enhance the sense of belonging.",
+      "core_id": "F",
+      "core_item": "團隊合作的能力：能與團隊成員共享合作目標，一同建構與成就集體的理想與抱負。 \r\n\r\n",
+      "core_eng": "Teamwork and Collaboration：Ability to work collaboratively with others to achieve shared objectives. \r\n\r\n",
+      "core_level": "3 ",
+      "strgy": [
+        "02"
+      ],
+      "evalb": [
+        "L2",
+        "L3",
+        "L4"
+      ],
+      "strgy_name": [
+        "專題演講"
+      ],
+      "strgy_name_en": [
+        "Topical lecture"
+      ],
+      "evalb_name": [
+        "點名",
+        "課堂討論參與",
+        "出席狀況"
+      ],
+      "evalb_name_en": [
+        "Roll call",
+        "Participation",
+        "Attendances"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CM03121",
+          "sub_id": "00001",
+          "scr_dup": "001",
+          "seq": 1,
+          "strgy_id": "02",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CM03121",
+          "sub_id": "00001",
+          "scr_dup": "001",
+          "seq": 1,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "L2",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CM03121",
+          "sub_id": "00001",
+          "scr_dup": "001",
+          "seq": 1,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "L3",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CM03121",
+          "sub_id": "00001",
+          "scr_dup": "001",
+          "seq": 1,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "L4",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CM03121",
+      "sub_id": "00001",
+      "scr_dup": "001",
+      "seq": 2,
+      "describe_ch": "個人成長：協助同學發展核心軟技能及決策制訂能力，以及從各種學習經驗當中獲得綜合技能並能適時運用之。",
+      "describe_en": "Personal growth: Develop core soft skills and decision-making. Be able to identify and communicate the transferable skills gained through your educational experience.",
+      "core_id": "F",
+      "core_item": "團隊合作的能力：能與團隊成員共享合作目標，一同建構與成就集體的理想與抱負。 \r\n\r\n",
+      "core_eng": "Teamwork and Collaboration：Ability to work collaboratively with others to achieve shared objectives. \r\n\r\n",
+      "core_level": "3 ",
+      "strgy": [
+        "02"
+      ],
+      "evalb": [
+        "L2",
+        "L3",
+        "L4"
+      ],
+      "strgy_name": [
+        "專題演講"
+      ],
+      "strgy_name_en": [
+        "Topical lecture"
+      ],
+      "evalb_name": [
+        "點名",
+        "課堂討論參與",
+        "出席狀況"
+      ],
+      "evalb_name_en": [
+        "Roll call",
+        "Participation",
+        "Attendances"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CM03121",
+          "sub_id": "00001",
+          "scr_dup": "001",
+          "seq": 2,
+          "strgy_id": "02",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CM03121",
+          "sub_id": "00001",
+          "scr_dup": "001",
+          "seq": 2,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "L2",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CM03121",
+          "sub_id": "00001",
+          "scr_dup": "001",
+          "seq": 2,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "L3",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CM03121",
+          "sub_id": "00001",
+          "scr_dup": "001",
+          "seq": 2,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "L4",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CM03121",
+      "sub_id": "00001",
+      "scr_dup": "001",
+      "seq": 3,
+      "describe_ch": "資源應用：幫助同學分配與有效利用校園資源服務的技巧以達成學生目標。",
+      "describe_en": "Resource identification: Develop skills in locating and effectively using information and resources that help you achieve your goals.",
+      "core_id": "C",
+      "core_item": "跨域整合的能力：能夠連結不同學科領域的知識，融會貫通，以應對社會複雜挑戰。 \r\n\r\n",
+      "core_eng": "Interdisciplinary Integration：Ability to integrate knowledge from different academic fields to address complex issues.",
+      "core_level": "3 ",
+      "strgy": [
+        "02"
+      ],
+      "evalb": [
+        "L2",
+        "L3",
+        "L4"
+      ],
+      "strgy_name": [
+        "專題演講"
+      ],
+      "strgy_name_en": [
+        "Topical lecture"
+      ],
+      "evalb_name": [
+        "點名",
+        "課堂討論參與",
+        "出席狀況"
+      ],
+      "evalb_name_en": [
+        "Roll call",
+        "Participation",
+        "Attendances"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CM03121",
+          "sub_id": "00001",
+          "scr_dup": "001",
+          "seq": 3,
+          "strgy_id": "02",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CM03121",
+          "sub_id": "00001",
+          "scr_dup": "001",
+          "seq": 3,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "L2",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CM03121",
+          "sub_id": "00001",
+          "scr_dup": "001",
+          "seq": 3,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "L3",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CM03121",
+          "sub_id": "00001",
+          "scr_dup": "001",
+          "seq": 3,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "L4",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CM03121",
+      "sub_id": "00001",
+      "scr_dup": "001",
+      "seq": 4,
+      "describe_ch": "職涯規劃：讓同學瞭解在課堂學習經驗與個人學業、職涯及制訂目標之間的關係。",
+      "describe_en": "Curriculum integration: Understand the relationship between your classroom experiences and your academic, career, and personal goals.",
+      "core_id": "A",
+      "core_item": "邏輯思辨的能力：具備清晰的邏輯思維，能夠深入分析議題並建構嚴謹論述。 \r\n\r\n",
+      "core_eng": "Logical Thinking：Ability to apply clear logical reasoning to analyzing issues and developing well-structured arguments.",
+      "core_level": "3 ",
+      "strgy": [
+        "02"
+      ],
+      "evalb": [
+        "L2",
+        "L3",
+        "L4"
+      ],
+      "strgy_name": [
+        "專題演講"
+      ],
+      "strgy_name_en": [
+        "Topical lecture"
+      ],
+      "evalb_name": [
+        "點名",
+        "課堂討論參與",
+        "出席狀況"
+      ],
+      "evalb_name_en": [
+        "Roll call",
+        "Participation",
+        "Attendances"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CM03121",
+          "sub_id": "00001",
+          "scr_dup": "001",
+          "seq": 4,
+          "strgy_id": "02",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CM03121",
+          "sub_id": "00001",
+          "scr_dup": "001",
+          "seq": 4,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "L2",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CM03121",
+          "sub_id": "00001",
+          "scr_dup": "001",
+          "seq": 4,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "L3",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CM03121",
+          "sub_id": "00001",
+          "scr_dup": "001",
+          "seq": 4,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "L4",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CM03121",
+      "sub_id": "00001",
+      "scr_dup": "001",
+      "seq": 5,
+      "describe_ch": "經驗學習：瞭解包含課堂外學習經驗的重要性。",
+      "describe_en": "Experiential learning: Understand the importance of including experiences outside of the classroom in your educational plan.",
+      "core_id": "F",
+      "core_item": "團隊合作的能力：能與團隊成員共享合作目標，一同建構與成就集體的理想與抱負。 \r\n\r\n",
+      "core_eng": "Teamwork and Collaboration：Ability to work collaboratively with others to achieve shared objectives. \r\n\r\n",
+      "core_level": "3 ",
+      "strgy": [
+        "02"
+      ],
+      "evalb": [
+        "L2",
+        "L3",
+        "L4"
+      ],
+      "strgy_name": [
+        "專題演講"
+      ],
+      "strgy_name_en": [
+        "Topical lecture"
+      ],
+      "evalb_name": [
+        "點名",
+        "課堂討論參與",
+        "出席狀況"
+      ],
+      "evalb_name_en": [
+        "Roll call",
+        "Participation",
+        "Attendances"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CM03121",
+          "sub_id": "00001",
+          "scr_dup": "001",
+          "seq": 5,
+          "strgy_id": "02",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CM03121",
+          "sub_id": "00001",
+          "scr_dup": "001",
+          "seq": 5,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "L2",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CM03121",
+          "sub_id": "00001",
+          "scr_dup": "001",
+          "seq": 5,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "L3",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CM03121",
+          "sub_id": "00001",
+          "scr_dup": "001",
+          "seq": 5,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "L4",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    }
+  ],
+  "topicSdgs": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CM03121",
+      "sub_id": "00001",
+      "scr_dup": "001",
+      "sdgs_seq": 6,
+      "main_related": "N",
+      "ind_related": "Y",
+      "iss_name": "社會進步面",
+      "iss_ename": "Social Progress",
+      "content_name": "減少經濟、教育及身心弱勢的不平等",
+      "content_ename": "Reduced Inequalities"
+    }
+  ],
+  "topicAiIndicators": [],
+  "learnHours": {
+    "total": 18.0,
+    "tpdOnlineAsyTotal": 18.0,
+    "tpdOnlineSynTotal": 0.0,
+    "tpdOnlineFaceTotal": 0.0,
+    "asySynInTotalPercent": 100.0
+  },
+  "crossVerYear": 114
+}

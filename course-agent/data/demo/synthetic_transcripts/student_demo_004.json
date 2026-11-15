@@ -1,0 +1,50 @@
+[
+  {
+    "academic_year": 114,
+    "semester": 2,
+    "course_code": "0772",
+    "course_name": "Python程式設計與應用",
+    "credits": 3.0,
+    "grade": 86
+  },
+  {
+    "academic_year": 114,
+    "semester": 2,
+    "course_code": "1193",
+    "course_name": "資料庫設計",
+    "credits": 3.0,
+    "grade": 79
+  },
+  {
+    "academic_year": 114,
+    "semester": 2,
+    "course_code": "0701",
+    "course_name": "敘事視覺化",
+    "credits": 3.0,
+    "grade": 91
+  },
+  {
+    "academic_year": 114,
+    "semester": 2,
+    "course_code": "1681",
+    "course_name": "數位影像處理",
+    "credits": 3.0,
+    "grade": 84
+  },
+  {
+    "academic_year": 114,
+    "semester": 2,
+    "course_code": "0689",
+    "course_name": "智能化數位行銷",
+    "credits": 3.0,
+    "grade": 88
+  },
+  {
+    "academic_year": 114,
+    "semester": 2,
+    "course_code": "0721",
+    "course_name": "數位行銷策略與工具",
+    "credits": 3.0,
+    "grade": 82
+  }
+]

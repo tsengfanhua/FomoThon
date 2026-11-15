@@ -1,0 +1,804 @@
+{
+  "teacherId": "T88005",
+  "name": "楊瑞彬",
+  "mainUnit": "工程與科學學院",
+  "detailUnit": "航太與系統工程學系",
+  "skill": [
+    "固體力學Solid Mechanics",
+    "波動力學Stress Waves in Solids",
+    "雷達吸波材料Radar Absorbing Materials",
+    "微波電磁特性量測Microwave Electromagnetic Characteristics Measurements",
+    "雷達散射截面縮減Radar Cross Section Reduction"
+  ],
+  "edu": [
+    "加州大學洛杉磯分校 機械航空系 博士",
+    "加州大學洛杉磯分校 機械航空系 碩士",
+    "國立台灣大學 造船系 學士"
+  ],
+  "fcuExp": [
+    "航太與系統工程學系 系主任",
+    "航空工程學系 助理教授",
+    "航太與系統工程學系 副教授",
+    "航太與系統工程學系 副教授",
+    "航太與系統工程學系 副教授",
+    "航太與系統工程學系 副教授",
+    "航太與系統工程學系 教授",
+    "航太與系統工程學系 教授",
+    "航太與系統工程學系 教授"
+  ],
+  "currjob": [],
+  "otherExp": [],
+  "journal": [
+    {
+      "論文名稱": "Enhanced microwave absorption in salisbury screen absorbers by incorporating hybrid reduced graphene oxide papers",
+      "期刊名稱": "Journal of the Chinese Society of Mechanical Engineers (SCIE)",
+      "作者群": "Hsien-Kuang Liu, Ruey-Bin Yang, and You-Jyun Wu"
+    },
+    {
+      "論文名稱": "Facile and mass-producible Ni-added iron nanowires with excellent\nmicrowave absorbing performance",
+      "期刊名稱": "Journal of Materials Research and Technology (SCIE)",
+      "作者群": "X. X. Cai, S. J. Tsou, Y. J. Chiou, R. B. Yang, S. C. Liou, W. A. Chiou, H. M. Lin, C. K. Lin"
+    },
+    {
+      "論文名稱": "Enhanced Microwave Absorption in Salisbury Screen Absorbers by Incorporating Hybrid Reduced Graphene Oxide Papers",
+      "期刊名稱": "Journal of Chinese Society of Mechanical Engineers (SCIE)",
+      "作者群": "H. K. Liu*, R. B. Yang, and Y. J. Wu"
+    },
+    {
+      "論文名稱": "One Pot Self-Assembling Fe@PANI Core–Shell Nanowires for\nRadar Absorption Application",
+      "期刊名稱": "Nanomaterials (SCIE)",
+      "作者群": "Chung-Kwei Lin, Yuh-Jing Chiou, Sheng-Jung Tsou, Chih-Yi Chung, Chen-Chun Chao and Ruey-Bing Yang,"
+    },
+    {
+      "論文名稱": "Enhanced microwave absorption features of Ba3Co2Fe24O41 hexaferrite by high lanthanium doping concentration",
+      "期刊名稱": "Journal of the American Ceramic Society (SCIE)",
+      "作者群": "Ngo Tran, Ruey-Bin Yang*, Woo Hyun Jeong, Do Hung Manh, The-Long Phan,  Bo Wha Lee*"
+    },
+    {
+      "論文名稱": "Radar‑Absorbing Structures with Reduced Graphene Oxide Papers Fabricated Under Various Processing Parameters",
+      "期刊名稱": "Journal of Electronic Materials (SCIE)",
+      "作者群": "H. K. Liu*, R. B. Yang, K. D. Yen"
+    },
+    {
+      "論文名稱": "Radar absorbing structures with reduced graphene oxide papers fabricated under various processing parameters",
+      "期刊名稱": "Journal of Electronic Materials (SCIE)",
+      "作者群": "Hsien-Kuang Liu, Ruey-Bin Yang, and Ke-Dun Yen"
+    },
+    {
+      "論文名稱": "Wideband Square Spiral Metamaterial Absorbers Based on Flaky Carbonyl Iron/Epoxy Composites",
+      "期刊名稱": "AIP Advances (SCIE)",
+      "作者群": "R. B. Yang*, J.J. Yang and S. T. Lo"
+    },
+    {
+      "論文名稱": "Microwave Absorbing Properties of a Radar Absorbing Structure Composed of Carbon Nanotube Papers/Glass Fabric Composites",
+      "期刊名稱": "International Journal of Applied Ceramic Technology (SCIE)",
+      "作者群": "S. H. Chen, W. S. Kuo and R. B. Yang*"
+    },
+    {
+      "論文名稱": "Microwave Absorbing Properties of Flake-shaped Carbonyl Iron/Reduced Graphene Oxide/Epoxy Composites",
+      "期刊名稱": "Materials Research Bulletin (SCIE)",
+      "作者群": "C. C. Chen, W. F. Liang, Y. H. Nien, H. K. Liu, R. B. Yang*"
+    },
+    {
+      "論文名稱": "Electromagnetic Interference Shielding Performance of Waterborne Polyurethane Composites Filled with Silver nanoparticles deposited on functionalized graphene",
+      "期刊名稱": "Applied Surface Science (SCIE)",
+      "作者群": "S. C. Lin, C. C. M. Ma*, S. T. Hsiao, Y. S. Wang, C. Y. Yang, W. H. Liao, S. M. Li, J. A. Wang, T. Y. Cheng, C. W. Lin, R. B. Yang"
+    },
+    {
+      "論文名稱": "Synthesis and Microwave Absorbing Characteristics of Functionally Graded Carbonyl Iron/Polyurethane Composites",
+      "期刊名稱": " AIP Advances (SCIE)",
+      "作者群": "R. B. Yang*, W. F. Liang, C. H. Wu, and C. C. Chen"
+    },
+    {
+      "論文名稱": "Synthesis and Characterization of Fe3O4/polypyrrole/carbon Nanotube Composites with Tunable Microwave Absorption Properties: Role of Carbon Nanotube and Polypyrrole Content",
+      "期刊名稱": "Chemical Engineering Journal (SCIE)",
+      "作者群": "R. B. Yang, P. M. Reddy, C. J. Chang, P. A. Chen, J. K. Chen"
+    },
+    {
+      "論文名稱": "Effect of Covalent Modification of Graphene Nanosheets on the Electrical Property and Electromagnetic Interference Shielding Performance of a Water-borne Polyurethane Composite",
+      "期刊名稱": "ACS Applied Materials & Interfaces (SCIE)",
+      "作者群": "S. T. Hsiao, C. C. M. Ma*, H. W. Tien, W. H. Liao, Y. S. Wang, S. M. Li, C. Y. Yang, S. C. Lin, R. B. Yang"
+    },
+    {
+      "論文名稱": "Effect of Carbon Nanotube Dispersion on the Complex Permittivity and Absorption of Nanocomposites in 2-18 GHz Ranges",
+      "期刊名稱": "Journal of Applied Polymer Science (SCIE,EI)",
+      "作者群": "R. B. Yang*, W. S. Kuo* and H. C. Lai"
+    },
+    {
+      "論文名稱": "Lightweight and Flexible Reduced Graphene Oxide/Water-Borne Polyurethane Composites with High Electrical Conductivity and Excellent Electromagnetic Interference Shielding Performance",
+      "期刊名稱": "ACS Applied Materials & Interfaces (SCIE)",
+      "作者群": "S.T. Hsiao, C. C. M. Ma*, W. H. Liao, Y. S. Wang, S. M. Li, Y. C. Huang, R. B. Yang and W. F. Liang"
+    },
+    {
+      "論文名稱": "Electromagnetic and Microwave Absorbing Properties of Raw and Milled FeSiCr Particles",
+      "期刊名稱": "Journal of Applied Physics (SCIE)",
+      "作者群": "R. B. Yang＊, W. F. Liang, C. C. Chen and S. T. Choi"
+    },
+    {
+      "論文名稱": "On the Generalized Self-Consistent Model for the Effective Thermal Conductivity of Composites Reinforced by Multi-Layered Orthotropic Fibers",
+      "期刊名稱": "International Communications in Heat and Mass Transfer (SCIE)",
+      "作者群": "1.\tR. B. Yang, Y. M. Lee*, Y. C. Shiah, T. W. Tsai"
+    },
+    {
+      "論文名稱": "The Effects of Size and Shape of Iron Particles on the Microwave Absorbing Properties of Composite Absorbers",
+      "期刊名稱": " IEEE Transactions on Magnetics (SCIE)",
+      "作者群": "R. B. Yang*, W.F. Liang, S. T. Choi, and C. K. Lin"
+    },
+    {
+      "論文名稱": "Microwave Absorbing Characteristics of Flake-shaped FeNiMo/Epoxy Composites",
+      "期刊名稱": "Journal of Applied Physics (SCIE)",
+      "作者群": "R. B. Yang* and W. F. Liang"
+    },
+    {
+      "論文名稱": "Enhanced Microwave Absorption Properties of the Milled Flake-shaped FeSiAl/Graphite Composites",
+      "期刊名稱": "Journal of Alloys and Compounds (SCIE)",
+      "作者群": "J. Sun, H. L. Xu, Y. Shen, H. Bi*, W. F. Liang, and R. B. Yang"
+    },
+    {
+      "論文名稱": "Metal/PET Composite Knitted Fabrics and Composites: Structural Design and Electromagnetic Shielding Effectiveness",
+      "期刊名稱": "Journal of Electronic Materials (SCIE)",
+      "作者群": "Chen-Hung Huang, Jia-Horng Lin, Ruey-Bin Yang, Ching-Wen Lin, Ching-Wen Lou"
+    },
+    {
+      "論文名稱": "Effect of Iron Particle Additions on Performance of a Novel Electromagnetic PDMS Micropump",
+      "期刊名稱": "Journal of the Chinese Society of Mechanical Engineers (SCIE)",
+      "作者群": "H. K. Liu*, C. Y. Shen,  and R. B. Yang"
+    },
+    {
+      "論文名稱": "Complex Dielectric Permittivity and Magnetic Permeability of Fe/Fe3O4 Composite Particles in 2-18 GHz",
+      "期刊名稱": "Ferroelectrics (SCIE)",
+      "作者群": "R. B. Yang*, W. F. Liang, C. C. Chang, C. K. Lin, S. T. Liu, and K. M. Kuo"
+    },
+    {
+      "論文名稱": "Preparation and Microwave Absorption Properties of Fe3O4 Hollow Spheres",
+      "期刊名稱": "Ferroelectrics (SCIE)",
+      "作者群": "H. L. Xu, Y. Shen, H. Bi*, W. F Liang, and R. B. Yang"
+    },
+    {
+      "論文名稱": "Microwave Complex Permittivity and Absorption of MnO2 Nanorods and Nanoparticles, \" Ferroelectrics",
+      "期刊名稱": "Ferroelectrics (SCIE)",
+      "作者群": "W. F. Liang, R. B. Yang* and S. T. Choi"
+    },
+    {
+      "論文名稱": "Preliminary Study of Polypropylene/Coir/Carbon Black Conductive Wood Plastic Composite",
+      "期刊名稱": "Advanced Materials Research (EI)",
+      "作者群": "Ching-Wen Lou, Ruey-Bin Yang, Ching-Wen Lin, Chien-Lin Huang, Chia-Chi Fan and Jia-Horng Lin"
+    },
+    {
+      "論文名稱": "Enhanced Microwave Absorption Property of Bowl-Like Fe3O4 Hollow Spheres/Reduced Graphene Oxide Composites",
+      "期刊名稱": "Journal of Applied Physics (SCIE)",
+      "作者群": "H.L.Xu, H.Bi*, and R.B.Yang"
+    },
+    {
+      "論文名稱": "Electromagnetic Characteristics of Surface Modified Iron Nanowires at X-band Frequencies",
+      "期刊名稱": "Journal of Applied Physics (SCIE)",
+      "作者群": "W.F.Liang, R.B.Yang, W.S.Lin, Z.J.Jian, C.Y.Tsay, S.H.Wu, H.M. Lin, S.T.Choi, and C.K.Lin"
+    },
+    {
+      "論文名稱": "Electromagnetic and Microwave Absorption Properties of Magnetic Stainless Steel Powder in 2-18 GHz",
+      "期刊名稱": "Journal of Applied Physics (SCIE)",
+      "作者群": "R.B. Yang*, W.F. Liang, C.W. Lou, and J.H. Lin,"
+    },
+    {
+      "論文名稱": "Electromagnetic Characteristics of Manganese Oxide-Coated Fe3O4 Nanoparticles at 2-18 GHz",
+      "期刊名稱": "J. Appl. Phys. (SCIE)",
+      "作者群": "R.B. Yang*, W.F. Liang, and C.K. Lin"
+    },
+    {
+      "論文名稱": "Microwave Absorbing Properties of Iron Nanowire at X-band Frequencies",
+      "期刊名稱": "J. Appl. Phys (SCIE)",
+      "作者群": "R.B. Yang, W.F. Liang, W.S. Lin, H.M. Lin, C.Y. Tsay, and C.K. Lin*"
+    },
+    {
+      "論文名稱": "Electromagnetic Characteristics of Iron-based Microwave Absorbing Materials",
+      "期刊名稱": "Key Engineering Materials (EI)",
+      "作者群": "R.B. Yang, K.Y. Juan, C.Y. Tsay, W.F. Liang, and C.K. Lin*"
+    },
+    {
+      "論文名稱": "Microwave properties of high-aspect-ratio carbonyl iron/epoxy absorbers",
+      "期刊名稱": "Journal of Applied Physics (SCIE)",
+      "作者群": "Ruey-Bin Yang*,and Wen-Fan Liang"
+    },
+    {
+      "論文名稱": "Microwave Absorbing Properties of La0.7Sr0.3MnO3 with Negative Magnetic Susceptibility",
+      "期刊名稱": "Journal of Applied Physics (SCIE,EI)",
+      "作者群": "R.B.Yang，C.Y.Tsay，W.F.Liang"
+    },
+    {
+      "論文名稱": "Magnetoelectric Behavior of Carbonyl Iron mixed Mn oxide-coated Ferrite Nanoparticles",
+      "期刊名稱": "Journal of Applied Physics (SCIE)",
+      "作者群": "F.B.A. Ahad*, S.F. Lee, D.S. Hung, Y.D. Yao, R.B. Yang, C.K. Lin, and C.Y. Tsay"
+    },
+    {
+      "論文名稱": "Investigation on electromagnetic and microwave absorbing properties of La0.7Sr0.3MnO3-δ/carbon nanotube composites",
+      "期刊名稱": "Journal of Applied Physics (SCIE)",
+      "作者群": "C.Y. Tsay*, R.B. Yang, D.S. Hung, Y.H. Hung, Y.D. Yao, C.K. Lin,"
+    },
+    {
+      "論文名稱": "Microwave Absorbing Properties of La0.7Sr0.3MnO3 Composites with Negative Magnetic Susceptibility",
+      "期刊名稱": "Journal of Applied Physics (SCIE)",
+      "作者群": "R.B. Yang*, C.Y. Tsay, W.F. Liang, and C.K. Lin"
+    },
+    {
+      "論文名稱": "Preparation of LSMO composite material and it electromagnetic properties",
+      "期刊名稱": "The Chinese Journal of Process Engineering (EI)",
+      "作者群": "C.Y. Tsay*, R.B. Yang, Y.H. Huang, C.K. Lin,"
+    },
+    {
+      "論文名稱": "Complex Permittivity and Permeability of Iron-based Composite Absorbers Measured by Cavity Perturbation Method in X-band Frequency Range",
+      "期刊名稱": "Journal of Applied Physics (SCIE)",
+      "作者群": "R. B. Yang, C. Y. Tsay, D. S. Hung, W. F. Liang, Y. D. Yao, and C. K. Lin"
+    },
+    {
+      "論文名稱": "Frequency-dependent Complex Permittivity and Permeability of Iron-based Powders in 2-18 GHz",
+      "期刊名稱": "Journal of Applied Physics (SCIE)",
+      "作者群": "R.B. Yang, S.D. Hsu and C. K. Lin"
+    },
+    {
+      "論文名稱": "Determine Mechanical Properties of Particulate Composite Using Ultrasound Spectroscopy",
+      "期刊名稱": "Ultrasonics (SCIE,0.559, 20/28)",
+      "作者群": "J. Wu, C. Layman, S. Murthy, R. B. Yang"
+    },
+    {
+      "論文名稱": "鉍鈣釩柘榴石厚膜之共燒製程與微波元件應用",
+      "期刊名稱": "中華民國陶業研究學會會刊 ()",
+      "作者群": "蔡健益、林中魁、楊瑞彬、劉國雄、林諭男"
+    },
+    {
+      "論文名稱": "A Generalized Self-Consistent Method for Calculation of Effective Thermal Conductivity of Composities with Interfacial Contact Conductance",
+      "期刊名稱": "International Communications in Heat and Mass Transfer (SCIE,EI)",
+      "作者群": "Y.M.Lee,R.B.Yang,and S.S.Gau"
+    },
+    {
+      "論文名稱": "Determine Mechanical Properties of Particulate Composite Using Ultrasound Spectroscopy",
+      "期刊名稱": "Ultrasonics (SCIE)",
+      "作者群": "J. Wu, C. Layman, S. Murthy, R. B. Yang"
+    },
+    {
+      "論文名稱": "The Interaction of Ultrasound with Particulate Composites",
+      "期刊名稱": "Journal of the Acoustical Society of America (SCIE)",
+      "作者群": "C. Layman, S. Murthy, R. B. Yang, and J. Wu"
+    },
+    {
+      "論文名稱": "Heat Conduction In Multiply Adjoined Anisotropic Media With Embedded Point Heat Sources",
+      "期刊名稱": "ASME Journal of Heat Transfer (SCIE)",
+      "作者群": "Shiah, Y. C., Hwang, P. W., and Yang, R. B."
+    },
+    {
+      "論文名稱": "A Generalized Self-Consistent Method for Computing the Effective Thermal Conductivity of Composites with Thermal Contact Conductance",
+      "期刊名稱": "International Communication in Heat and Mass Transfer (SCIE)",
+      "作者群": "Y. M. Lee, R. B. Yang, and S. S. Gau"
+    },
+    {
+      "論文名稱": "Heat Conduction in Dissimilar Anisotropic Media with Bonding Defects/Interface Cracks",
+      "期刊名稱": "Journal of Mechanics (SCIE)",
+      "作者群": "Y. C. Shiah, Ruey-Bin Yang, and Po-Wen Hwang"
+    },
+    {
+      "論文名稱": "Heat Conduction In Multiply Adjoined Anisotropic Media With Embedded Point Heat Sources",
+      "期刊名稱": "ASME Journal of Heat Transfer (SCIE,EI)",
+      "作者群": "Y. C. Shiah, Po-Wen Hwang, and Ruey-Bin Yang"
+    },
+    {
+      "論文名稱": "Heat Conduction in Dissimilar Anisotropic Media with Bonding Defects/Interface Cracks",
+      "期刊名稱": "Journal of Mechanics (SCIE,EI)",
+      "作者群": "Y. C. Shiah, Ruey-Bin Yang, and Po-Wen Hwang"
+    },
+    {
+      "論文名稱": "A Dynamic Generalized Self-Consistent Model for Wave Propagation in Particular Composites",
+      "期刊名稱": "ASME Journal of Applied Mechanics (SCIE,EI)",
+      "作者群": "楊瑞彬"
+    },
+    {
+      "論文名稱": "Fracture analysis of piezoelectric materials with flat ellipsoidal cracks",
+      "期刊名稱": "Materials Letters ()",
+      "作者群": "Ruey-Bin Yang，Jin H. Huang"
+    }
+  ],
+  "journal2": [],
+  "conference": [
+    {
+      "論文名稱": "揚聲器模組時域等效電路與非線性失真之模擬技術開發",
+      "會議名稱": "2014年民生電子研討會",
+      "作者群": "何浩榮、周書緯、楊瑞彬*"
+    },
+    {
+      "論文名稱": "超穎材料吸波體之寬頻設計與實驗",
+      "會議名稱": "2014中華民國航太學會學術研討會",
+      "作者群": "楊瑞彬*、洪以理、蘇聖傑"
+    },
+    {
+      "論文名稱": "新型寬頻類比電路薄膜吸波結構設計與技術開發",
+      "會議名稱": "2014中華民國航太學會學術研討會",
+      "作者群": "楊瑞彬*、林伯叡、彭得維"
+    },
+    {
+      "論文名稱": "無人飛行載具之雷達散射截面縮減技術開發",
+      "會議名稱": "2014年國防科技學術合作計畫成果發表會",
+      "作者群": "廖健貿、楊瑞彬*"
+    },
+    {
+      "論文名稱": "Bandwidth-enhanced Microwave Absorbers Based on Carbonyl Iron and Metal-based Metamaterials",
+      "會議名稱": "The 59th Magnetism and Magnetic Materials Conference",
+      "作者群": "W. F. Liang and R. B. Yang*"
+    },
+    {
+      "論文名稱": "匿蹤用寬頻帶超穎材料吸波體的設計、製造與特性分析",
+      "會議名稱": "2013中華民國航太學會學術研討會",
+      "作者群": "楊瑞彬*, 吳耀青, 莊荃鎰"
+    },
+    {
+      "論文名稱": "頻率選擇表面於建築吸波材料之設計與應用",
+      "會議名稱": "2013中華民國航太學會學術研討會",
+      "作者群": "林澤舜, 楊瑞彬*, 吳啟豪"
+    },
+    {
+      "論文名稱": "Preparation and electromagnetic properties of Fe(CO)5/Al2O3 core-shell structure powder by mechanofusion method",
+      "會議名稱": "The 58th Magnetism and Magnetic Materials Conference",
+      "作者群": "C. H. Peng, T. Y. Wu, C. C. Hwang, C. C. Chang, and R. B. Yang"
+    },
+    {
+      "論文名稱": "Improved Electromagnetic Interference Shielding Properties of Anodized Aluminum Using Layered Metallic Coatings",
+      "會議名稱": "11th JOINT MMM-INTERMAG CONFERENCE (2010)",
+      "作者群": "J.H. Chen, R.B. Yang, H.T. Hsu1, C.K. Lin, and T.J. Yang*"
+    },
+    {
+      "論文名稱": "Synthesis of Metamaterial Ferrites Using Double-Square Loops",
+      "會議名稱": "IEEE International Magnetics Conference",
+      "作者群": "R.B.Yang and S.D.Hsu"
+    },
+    {
+      "論文名稱": "Frequency-dependent Complex Permittivity and Permeability of Iron-based Powders in2-18 GHz",
+      "會議名稱": "Magnetism and Magnetic Materials Conference",
+      "作者群": "R.B.Yang S.D.Hsu and C.K.Lin"
+    },
+    {
+      "論文名稱": "Complex Permittivity and Permeability of Iron-based Composite Absorbers Measured by Cavity Perturbation Methood in X-band Frequency Range",
+      "會議名稱": "Magnetism and Magnetic Materials Conference",
+      "作者群": "R.B.Yang C.Y.Tsay D.S.Hung W.F.Liang Y.D.Yao and C.K.Lin"
+    },
+    {
+      "論文名稱": "共振腔微擾法於鐵基奈米複合材料之微波特性研究",
+      "會議名稱": "2008中華民國航太學會學術研討會",
+      "作者群": "楊瑞彬，梁文凡，許舜迪"
+    },
+    {
+      "論文名稱": "Optimal  Design of Microwave Absorbers Using Ferrite-epoxy and Iron-epoxy Composites",
+      "會議名稱": "IEEE International Magnetics Conference",
+      "作者群": "R.B.Yang,S.D.Hsu,C.K.Lin,C.Y.Tsay"
+    },
+    {
+      "論文名稱": "The X-band Permittivity of Iron-epoxy Composites under the Magnetic Field",
+      "會議名稱": "IEEE International Magnetics Conference",
+      "作者群": "D.Hung,S.Hsu,W.Liang,C.Lin,C.Tsay,Y.Yao,R.Yang"
+    },
+    {
+      "論文名稱": "On the Generalized Self-Consistent Model for Thermal Conductivity of Composites Reinforced by Multi-Layered Orthotropic Fibers",
+      "會議名稱": "2004航太學會/民航學會聯合學術研討會",
+      "作者群": "楊瑞彬, 李永明, 夏育群, 高頌舜"
+    },
+    {
+      "論文名稱": "PLANE STRESS/STRAIN ANALYSIS AT INTERIOR POINTS FOR 2D STATIC THERMOELASTICITY INVOLVING ARBITRARY VOLUME HEAT SOURCES",
+      "會議名稱": "航空機械工程學術研討會",
+      "作者群": "夏育群、楊瑞彬、黃柏文"
+    },
+    {
+      "論文名稱": "頻率選擇表面於雷達吸波結構之應用",
+      "會議名稱": "航空機械工程學術研討會",
+      "作者群": "杜佩麟"
+    },
+    {
+      "論文名稱": "Numerical Simulation of Electrokinetic Flow in Microchannels at High Zeta-Potentials Under Different Flow Conditions",
+      "會議名稱": "The 11th National Computational Fluid Dynamics Conference",
+      "作者群": " Hwang, P. W.*, Soong, C. Y., Shiah, Y. C., and Yang, R. B."
+    },
+    {
+      "論文名稱": "BEM Thermoelastic analysis of Anisotropic Media With Concentrated Heat Sources",
+      "會議名稱": "2004 AASRC/CCAS Joint Conference",
+      "作者群": "Shiah, Y. C., Hwang, P. W., Yang, R. B., and Lai, H. C."
+    },
+    {
+      "論文名稱": "寬頻吸波三明治結構技術開發",
+      "會議名稱": "陸軍軍官學校基礎學術研討會暨國科會國防科技航空技術學門研究成果發表會",
+      "作者群": "李尚諭"
+    },
+    {
+      "論文名稱": "雷達吸波複合材料界面層對電磁波多重散射效應之影響",
+      "會議名稱": "2003 Aeronautics and Astronautics Conferences",
+      "作者群": "楊瑞彬  吳迪"
+    },
+    {
+      "論文名稱": "Effect of interface layers on wave dispersion and attenuation in a particle-reinforced metal matrix composite",
+      "會議名稱": "The 26th National Conference on Theoretical and Applied Mechanics",
+      "作者群": "Yang, Ruey-Bin, Lin, Sheng-Chieh and Wu, Ti"
+    },
+    {
+      "論文名稱": "Multiple Scattering of Elastic Waves in a Composite Reinforced by Particles",
+      "會議名稱": "25th National Conference on Theoretical and Applied Mechanics",
+      "作者群": "楊瑞彬"
+    },
+    {
+      "論文名稱": "Ultrasonic Wave Propagation In Random Particulate Composites",
+      "會議名稱": "中華民國音響學會第14屆學術研討會",
+      "作者群": "楊瑞彬"
+    }
+  ],
+  "book": [
+    {
+      "專業書籍": "多孔性複材結構之波傳與非破壞性評估",
+      "出版單位": "國科會專題研究計畫成果報告",
+      "作者群": "楊瑞彬"
+    }
+  ],
+  "patent": [
+    {
+      "title": "發明",
+      "desc": "微波吸收複合材料"
+    }
+  ],
+  "most": [
+    {
+      "name": "(陽明交通)吸波材料之開發（二）(1/2)",
+      "schoolYear": "113"
+    },
+    {
+      "name": "(博士增核)(陽明交通)吸波材料之開發（二）(1/2)",
+      "schoolYear": "113"
+    },
+    {
+      "name": "吸波頻率與振幅可調之主動式雙層超穎匿蹤結構設計與開發",
+      "schoolYear": "113"
+    },
+    {
+      "name": "協同數值模擬與機器學習於含前機身無附面層隔道超音速進氣道之氣動/匿蹤特性優化研究",
+      "schoolYear": "113"
+    },
+    {
+      "name": "以羰基鐵為基底之寬頻超穎匿蹤材料設計與製作",
+      "schoolYear": "113"
+    },
+    {
+      "name": "(陽明交通)下一代吸波材料之開發─下一代吸波材料之開發(2/2)",
+      "schoolYear": "112"
+    },
+    {
+      "name": "(博士增核)紅外線/主動式雷達波匿蹤結構兼容性設計與製備",
+      "schoolYear": "112"
+    },
+    {
+      "name": "紅外線/主動式雷達波匿蹤結構兼容性設計與製備",
+      "schoolYear": "112"
+    },
+    {
+      "name": "三維網狀還原石墨烯紙之電磁參數量測及可調控吸波結構設計及製程與效能分析",
+      "schoolYear": "112"
+    },
+    {
+      "name": "可調控雷達波吸收/反射能量之主動式超穎吸波結構設計",
+      "schoolYear": "112"
+    },
+    {
+      "name": "(陽明交通)開發用於下一代有人及無人戰機之跨頻段匿蹤材料－開發用於下一代有人及無人戰機之跨頻段匿蹤材料(1/2)",
+      "schoolYear": "111"
+    },
+    {
+      "name": "多波段主動式匿蹤結構於雷達散射截面縮減之動態調控",
+      "schoolYear": "111"
+    },
+    {
+      "name": "具雙極化與多頻段可調之主動式擇頻/吸波匿蹤雷達罩設計開發",
+      "schoolYear": "110"
+    },
+    {
+      "name": "新型多層功能梯度石墨烯紙/介電吸波結構之設計及製程與效能分析",
+      "schoolYear": "110"
+    },
+    {
+      "name": "具大角度與極化不敏感性的寬頻超穎吸波材料設計開發",
+      "schoolYear": "110"
+    },
+    {
+      "name": "混成氧化石墨烯紙吸波結構之製程及設計和效能分析",
+      "schoolYear": "109"
+    },
+    {
+      "name": "主動式擇頻表面應用於可調式多頻段匿蹤吸波材料之設計開發",
+      "schoolYear": "109"
+    },
+    {
+      "name": "基於週期性圓柱體之雙層寬頻超穎吸波材料設計與開發",
+      "schoolYear": "109"
+    },
+    {
+      "name": "具電熱防冰之雷達吸波結構於無人飛行載具之匿蹤技術開發",
+      "schoolYear": "108"
+    },
+    {
+      "name": "結合磁性材料之寬頻超穎吸波設計與開發",
+      "schoolYear": "108"
+    },
+    {
+      "name": "具透明與寬頻雷達波吸收之匿蹤型座艙罩技術開發",
+      "schoolYear": "107"
+    },
+    {
+      "name": "應用3D列印技術於反匿蹤用龍伯球透鏡之設計與開發",
+      "schoolYear": "107"
+    },
+    {
+      "name": "新型空載多平面球型匿蹤雷達罩之技術開發",
+      "schoolYear": "106"
+    },
+    {
+      "name": "複合式頻率選擇表面應用於平面型匿蹤雷達罩開發",
+      "schoolYear": "106"
+    },
+    {
+      "name": "具擇頻與吸波雙重功能之匿蹤雷達罩開發",
+      "schoolYear": "105"
+    },
+    {
+      "name": "含洋蔥型奈米碳球之新型週期性吸波三明治結構研發",
+      "schoolYear": "105"
+    },
+    {
+      "name": "3D曲面類比電路設計及模擬分析",
+      "schoolYear": "104"
+    },
+    {
+      "name": "電路模擬吸波結構於無人飛行載具之匿蹤技術開發",
+      "schoolYear": "104"
+    },
+    {
+      "name": "新型寬頻帶之週期性雷達吸波雙複合材料研發",
+      "schoolYear": "104"
+    },
+    {
+      "name": "匿蹤用寬頻功能梯度吸波材料之設計與製備",
+      "schoolYear": "103"
+    },
+    {
+      "name": "新型寬頻帶高阻抗表面吸波結構之研發",
+      "schoolYear": "103"
+    },
+    {
+      "name": "微帶線法於奈米磁性薄膜之高頻複導磁率量測技術開發",
+      "schoolYear": "102"
+    },
+    {
+      "name": "導電高分子寬頻雷達吸波材料之開發",
+      "schoolYear": "102"
+    },
+    {
+      "name": "匿蹤用寬頻帶超穎材料吸波體的設計、製造與特性分析",
+      "schoolYear": "101"
+    },
+    {
+      "name": "頻率選擇表面應用於新型吸波天花板之開發",
+      "schoolYear": "101"
+    },
+    {
+      "name": "奈米碳管紙Buckypaper於新型雷達吸波材料之研製",
+      "schoolYear": "100"
+    },
+    {
+      "name": "新型洋蔥型奈米碳球於匿蹤材料之開發",
+      "schoolYear": "100"
+    },
+    {
+      "name": "微波共振腔微擾法於磁性薄膜之複導磁率量測與應用",
+      "schoolYear": "99"
+    },
+    {
+      "name": "網版印刷技術應用於匿蹤材料之開發",
+      "schoolYear": "99"
+    },
+    {
+      "name": "奈米材料在電磁波吸收與遮蔽之應用研究-總計畫(3/3)",
+      "schoolYear": "98"
+    },
+    {
+      "name": "奈米材料在電磁波吸收與遮蔽之應用研究-子計畫五：奈米多層吸波材料之分析、最佳化設計與應用(3/3)",
+      "schoolYear": "98"
+    },
+    {
+      "name": "奈米材料在電磁波吸收與遮蔽之應用研究-總計畫(2/3)",
+      "schoolYear": "97"
+    },
+    {
+      "name": "奈米材料在電磁波吸收與遮蔽之應用研究-子計畫五：奈米多層吸波材料之分析、最佳化設計與應用(2/3)",
+      "schoolYear": "97"
+    },
+    {
+      "name": "匿蹤材料最佳化電腦輔助設計技術",
+      "schoolYear": "96"
+    },
+    {
+      "name": "奈米材料在電磁波吸收與遮蔽之應用研究-總計畫(1/3)",
+      "schoolYear": "96"
+    },
+    {
+      "name": "奈米材料在電磁波吸收與遮蔽之應用研究-子計畫五：奈米多層吸波材料之分析、最佳化設計與應用(1/3)",
+      "schoolYear": "96"
+    },
+    {
+      "name": "利用微基因演算法於寬頻電磁能隙吸波材料之最佳化設計",
+      "schoolYear": "95"
+    },
+    {
+      "name": "微基因演算法在頻率選擇表面與雷達吸波材料之設計",
+      "schoolYear": "94"
+    },
+    {
+      "name": "電路模擬雷達吸波多層結構之設計、分析與製作",
+      "schoolYear": "93"
+    },
+    {
+      "name": "纖維強化複材之等效動態介電常數及其多層吸波結構之吸波性能評估",
+      "schoolYear": "92"
+    },
+    {
+      "name": "寬頻吸波三明治結構技術開發",
+      "schoolYear": "91"
+    },
+    {
+      "name": "多重散射效應對雷達吸波複合材料之吸波特性影響研究",
+      "schoolYear": "91"
+    },
+    {
+      "name": "濺鍍用靶材與背板結合界面之超音波非破壞評估",
+      "schoolYear": "91"
+    },
+    {
+      "name": "彈性波在含壓電纖維複合材料之多重散射與界面性質之非破壞性評估",
+      "schoolYear": "90"
+    },
+    {
+      "name": "T型結構體之模態測試與電腦模擬分析",
+      "schoolYear": "90"
+    },
+    {
+      "name": "多孔性複材結構之波傳與非破壞性評估",
+      "schoolYear": "89"
+    },
+    {
+      "name": "複合材料層版樑之側向挫屈",
+      "schoolYear": "89"
+    },
+    {
+      "name": "同時暴露於噪音與苯乙烯作業環境對勞工聽力損失之影響研究",
+      "schoolYear": "88"
+    }
+  ],
+  "tech": [
+    {
+      "論文名稱": "電波暗室用吸波磚技術開發 (2011-11)",
+      "書名": "逢甲大學產學合作案例選粹(黃錦煌主編)",
+      "作者群": "黃錦煌、楊瑞彬等"
+    }
+  ],
+  "induAca": [
+    "超穎材料應用於軍事陣地及武器系統之偽裝匿蹤技術開發(3/4) (2024-01 to 2024-12)",
+    "超穎材料應用於軍事陣地及武器系統之偽裝匿蹤技術開發(2/4) (2023-01 to 2023-12)",
+    "超穎材料應用於軍事陣地及武器系統之偽裝匿蹤技術開發(1/4) (2022-01 to 2022-12)",
+    "航太金屬積層製造製程參數與殘留應力之關聯性研究 (2021-02 to 2021-12)",
+    "寬頻吸波結構設計開發等1項 (2019-05 to 2019-12)",
+    "2維週期圖案轉3維曲面排列技術開發等1項 (2019-04 to 2019-12)",
+    "108年新進人員甄選測驗試場事宜 (2018-07 to 2018-10)",
+    "辦理全國航空科技論壇活動 (2017-12 to 2017-12)",
+    "106年新進人員甄選測驗試場事宜 (2017-06 to 2017-09)",
+    "106年新進師級人員甄選測驗試場事宜 (2016-12 to 2017-03)",
+    "105年基層職位從業人員調升專業職位及研發替代役、鳳展專案定期技術員、勞務人員轉任從業人員甄試測驗試場事宜 (2016-11 to 2016-12)",
+    "複合材料板電磁特性測量 (2016-09 to 2016-12)",
+    "飛行載具之雷達散射結面模擬分析報告 (2015-07 to 2015-08)",
+    "非平面高帶通(band pass)擇頻設計 (2015-03 to 2015-12)",
+    "無人飛行載具之匿蹤技術開發 (2014-04 to 2014-12)",
+    "新型寬頻類比電路薄膜吸波材料設計技術開發 (2012-07 to 2012-12)",
+    "新型吸波劑之電磁特性量測與吸波性能分析 (2011-10 to 2011-12)",
+    "共振腔微擾法建立介電及導磁係數量測研究 (2011-08 to 2011-12)",
+    "奈米碳材對吸波結構影響之評估分析 (2010-05 to 2010-12)",
+    "網版技術於類比電路吸波薄膜印刷之技術評估與開發 (2010-03 to 2010-09)",
+    "超穎材料於工程應用之調查報告 (2010-03 to 2010-06)",
+    "電波暗室用之鐵氧體吸波磚技術開發 (2010-03 to 2011-08)",
+    "雷達表面波的抑制技術研究 (2009-04 to 2009-12)",
+    "擇頻結構用類比電路薄膜設計 (2009-04 to 2009-12)",
+    "雷達吸波材料技術之發展趨勢分析 (2008-10 to 2008-12)",
+    "電聲應用研究案第一期 (2007-09 to 2008-08)",
+    "多層類比電路薄膜吸波材料最佳化研究 (2006-03 to 2006-12)",
+    "寬頻吸波三明治結構開發(II) (2004-01 to 2004-12)",
+    "師資培育機構教師在職進修網站-教育部高中職教師在職進修網站（飛機修護科） (2004-01 to 2004-12)",
+    "師資培育機構原有教師在職進修網站_高職 /  飛機修護科 (2003-08 to 2003-12)",
+    "台中市西屯區何厝國小教室噪音防制工程測試(噪音量測試) (1999-09 to 1999-10)",
+    "設置高級中學以下學校及幼稚園教師在職進修網站─職業類科/飛機修護科 (1970-01 to 1970-01)"
+  ],
+  "perform": [],
+  "reward": [
+    "113年度國科會補助大專校院研究獎勵 (113, 2024-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (113, 2024-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵 (113, 2024-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優等獎 (113, 2024-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (113, 2024-11) - 逢甲大學",
+    "112年度國科會補助大專校院研究獎勵 (112, 2023-12) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優等獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優等獎 (112, 2023-11) - 逢甲大學",
+    "111年度國科會補助大專校院研究獎勵 (111, 2022-10) - 研究發展處",
+    "110年度科技部補助大專校院研究獎勵 (110, 2021-10) - 產學合作處",
+    "逢甲大學論文著作獎勵傑出獎 (109, 2020-11) - 逢甲大學",
+    "109年度科技部補助大專校院研究獎勵 (109, 2020-10) - 逢甲大學",
+    "108學年度科技部補助大專校院研究獎勵 (108, 2019-09) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (107, 2018-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (106, 2017-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (106, 2017-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (106, 2017-11) - 逢甲大學",
+    "105年度科技部獎勵特殊優秀人才 (105, 2016-08) - 產學合作處",
+    "逢甲大學論文著作獎勵傑出獎 (104, 2015-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (104, 2015-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (104, 2015-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (103, 2014-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (103, 2014-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (103, 2014-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (103, 2014-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (103, 2014-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (102, 2013-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (102, 2013-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (102, 2013-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (102, 2013-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (102, 2013-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (102, 2013-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (102, 2013-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (102, 2013-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (101, 2012-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (101, 2012-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (101, 2012-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (101, 2012-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (100, 2011-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (100, 2011-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (100, 2011-11) - 逢甲大學",
+    "100學年度教學優良教師 (100, 2011-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (99, 2010-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (99, 2010-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (99, 2010-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵 (96, 2007-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (96, 2007-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (96, 2007-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (95, 2006-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (93, 2004-11) - 逢甲大學"
+  ],
+  "speech": [
+    {
+      "演講題目": "雷達吸波材料於匿蹤技術之應用",
+      "邀請單位": "雲林科技大學材料科技研究所",
+      "演講日期": "2016-06"
+    },
+    {
+      "演講題目": "雷達散射截面縮減與匿蹤技術",
+      "邀請單位": "成功大學航太所",
+      "演講日期": "2015-11"
+    },
+    {
+      "演講題目": "寬頻吸波材料與擇頻 元件研發",
+      "邀請單位": "成功大學航太所",
+      "演講日期": "2013-10"
+    },
+    {
+      "演講題目": "匿蹤科技與雷達吸波材料設計",
+      "邀請單位": "高雄大學應用物理所",
+      "演講日期": "2013-04"
+    },
+    {
+      "演講題目": "匿蹤科技與雷達吸波材料設計",
+      "邀請單位": "成功大學航太所",
+      "演講日期": "2011-04"
+    },
+    {
+      "演講題目": "匿蹤科技與雷達吸波材料",
+      "邀請單位": "東海大學電機所",
+      "演講日期": "2010-04"
+    }
+  ],
+  "material": [
+    "高中職教師在職進修網站-飛機修護科\t教育部\t楊瑞彬\t教學網站"
+  ],
+  "tal": []
+}

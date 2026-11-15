@@ -1,0 +1,85 @@
+{
+  "teacherId": "T10243",
+  "name": "林建同",
+  "mainUnit": "商學院",
+  "detailUnit": "統計學系",
+  "skill": [
+    "模型選擇Model selection",
+    "高維度資料分析High-dimensional data analysis",
+    "存活分析Survival analysis"
+  ],
+  "edu": [
+    "國立清華大學 統計學研究所 博士",
+    "國立清華大學 統計學研究所 碩士",
+    "國立成功大學 統計學系 學士"
+  ],
+  "fcuExp": [
+    "統計學系 助理教授"
+  ],
+  "currjob": [],
+  "otherExp": [
+    "國立清華大學 統計學研究所 博士後研究人員",
+    "國立清華大學 統計學研究所 研究助理"
+  ],
+  "journal": [
+    {
+      "論文名稱": "Greedy Variable Selection For High-Dimensional Cox Models",
+      "期刊名稱": "Statistica Sinica (SCIE)",
+      "作者群": "Chien-Tong Lin, Yu-Jen Cheng* and Ching-Kang Ing"
+    },
+    {
+      "論文名稱": "Forward variable selection for ultra-high dimensional quantile regression models",
+      "期刊名稱": "Annals of the Institute of Statistical Mathematics (SSCI)",
+      "作者群": "Toshio Honda* and Chien-Tong Lin"
+    },
+    {
+      "論文名稱": "Forward variable selection for sparse ultra-high-dimensional generalized varying coefficient models",
+      "期刊名稱": "Japanese Journal of Statistics and Data Science (SSCI)",
+      "作者群": "Toshio Honda* and Chien-Tong Lin"
+    }
+  ],
+  "journal2": [],
+  "conference": [],
+  "book": [],
+  "patent": [],
+  "most": [
+    {
+      "name": "高維度變數選取於半母數迴歸模式之研究(1/2)",
+      "schoolYear": "113"
+    },
+    {
+      "name": "高維度變數選取於印度經濟特徵資料的應用",
+      "schoolYear": "113"
+    },
+    {
+      "name": "貪婪演算法於高維度非線性複雑模式選取之研究(2/2)",
+      "schoolYear": "111"
+    },
+    {
+      "name": "貪婪演算法於高維度非線性複雑模式選取之研究(1/2)",
+      "schoolYear": "110"
+    }
+  ],
+  "tech": [],
+  "induAca": [],
+  "perform": [],
+  "reward": [
+    "逢甲大學論文著作獎勵優等獎 (113, 2024-11) - 逢甲大學",
+    "112年度國科會補助大專校院研究獎勵 (112, 2023-12) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學"
+  ],
+  "speech": [
+    {
+      "演講題目": "Greedy variable selection for high-dimensional Cox models",
+      "邀請單位": "中央大學",
+      "演講日期": "2022-12"
+    },
+    {
+      "演講題目": "Greedy variable selection for high-dimensional Cox models",
+      "邀請單位": "中山大學",
+      "演講日期": "2022-11"
+    }
+  ],
+  "material": [],
+  "tal": []
+}

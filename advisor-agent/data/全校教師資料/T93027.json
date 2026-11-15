@@ -1,0 +1,502 @@
+{
+  "teacherId": "T93027",
+  "name": "盧聖華",
+  "mainUnit": "工程與科學學院",
+  "detailUnit": "光電科學與工程學系",
+  "skill": [
+    "光電檢測Optical metrology",
+    "光電系統Optical engineerimg",
+    "光學同調斷層成像技術Optical coherence tomography",
+    "穩頻雷射Frequency stabilized laser"
+  ],
+  "edu": [
+    "國立中央大學 光電科學研究所 博士",
+    "國立中央大學 光電科學研究所 碩士",
+    "國立中央大學 物理系 學士"
+  ],
+  "fcuExp": [
+    "光電學系 系主任",
+    "物理教學研究中心 主任",
+    "光電學系 助理教授",
+    "光電學系 副教授",
+    "光電學系 教授",
+    "光電科學與工程學系 教授",
+    "光電科學與工程學系 教授",
+    "光電科學與工程學系 教授"
+  ],
+  "currjob": [],
+  "otherExp": [
+    "工研院 量測技術發展中心 研究員",
+    "工研院 量測技術發展中心 副研究員"
+  ],
+  "journal": [
+    {
+      "論文名稱": "A Tabletop Experiment for Speed of Light Measurement Using a Red Pitaya STEMlab Board",
+      "期刊名稱": "AMERICAN JOURNAL OF PHYSICS (SCIE)",
+      "作者群": "Che-Chung Chou*,  Shi-Yu Hsaio, Jun-Zhi Feng, Tyson Lin, and Sheng-Hua Lu"
+    },
+    {
+      "論文名稱": "Coaxial equal-path interferometer for polarization-sensitive optical coherence tomography",
+      "期刊名稱": "Optics Communications (SCIE)",
+      "作者群": "Sheng-Hua Lu ∗ , Chih-Min Chang, Tyson Lin, Che-Chung Chou"
+    },
+    {
+      "論文名稱": "Integrated Air Quality Monitoring and Alert System Based on Two Image Analysis Techniques for Reportable Fire Events",
+      "期刊名稱": "Atmosphere (SCIE)",
+      "作者群": "Chen-Jui Liang, Sheng-Hua Lu, Jeng-Jong Liang, Feng-Cheng Lin, Pei-Rong Yu"
+    },
+    {
+      "論文名稱": "Quantifying source apportionment for ambient haze: An image haze extraction approach with air quality monitoring data",
+      "期刊名稱": "Environmental Research (SCIE)",
+      "作者群": "Feng-Cheng Lin, Sheng-Hua Lu, Chen-Jui Liang, Yen-Hung Chen, and Jeng-Jong Liang*"
+    },
+    {
+      "論文名稱": "Two-harmonic complex spectral-domain optical coherence tomography using achromatic sinusoidal phase modulation",
+      "期刊名稱": "Optics Communications (SCIE)",
+      "作者群": "Sheng-Hua Lu *, Siang-Ru Huang, Che-Chung Chou"
+    },
+    {
+      "論文名稱": "Environment-noise-free optical heterodyne retardation measurement using a double-pass acousto-optic frequency shifter",
+      "期刊名稱": "Optics Letters (SCIE)",
+      "作者群": "Che-Chung Chou*, Shin-Yu Lu, Tyson Lin, Sheng-Hua Lu, and Ru-Jong Jeng"
+    },
+    {
+      "論文名稱": "High-axial-resolution, full-field optical coherence microscopy using tungsten halogen lamp and liquid-crystal-based achromatic phase shifter",
+      "期刊名稱": "Applied Optics (SCIE)",
+      "作者群": "Sheng-Hua Lu,* Wei-Chang Liu, and Jung-Ping Liu"
+    },
+    {
+      "論文名稱": "Spatial-Temporal Demodulation Technique for Heterodyne Optical Scanning Holography",
+      "期刊名稱": "Optics and Lasers in Engineering (SCIE,EI)",
+      "作者群": "Jung-Ping Liu*, Dao-Zheng Luo, and Sheng-Hua Lu"
+    },
+    {
+      "論文名稱": "Diode Laser Frequency Locking to an Etalon With a Double-Pass Acousto-Optic Frequency Shifter",
+      "期刊名稱": "IEEE Photonics Technology Letters (SCIE)",
+      "作者群": "Che-Chung Chou*, Shine-Chieh Lin, Tyson Lin, and Sheng-Hua Lu"
+    },
+    {
+      "論文名稱": "Low-coherence heterodyne interferometry using an achromatic frequency shifter based on a frequency-domain optical delay line",
+      "期刊名稱": "Applied Optics (SCIE)",
+      "作者群": "Sheng-Hua Lu*, Hsiao-Ping Chiang, Che-Yu Lin, and Che-Chung Chou"
+    },
+    {
+      "論文名稱": "Full-field optical coherence tomography using immersion Mirau interference microscope",
+      "期刊名稱": "Applied optics (SCIE)",
+      "作者群": "Sheng-Hua Lu*, Chia-Jung Chang, and Ching-Fen Kao"
+    },
+    {
+      "論文名稱": "Full-field optical coherence tomography using nematic liquid-crystal phase shifter",
+      "期刊名稱": "Applied Optics (SCIE)",
+      "作者群": "Sheng-Hua Lu*,Chien-Yell Wang, Cho-Yen Hsieh, Kuan-Yu Chiu,and Hui-Yu Chen"
+    },
+    {
+      "論文名稱": "Multi-point gap measurement by low coherence tandem interferometry",
+      "期刊名稱": "Proc. of SPIE (EI)",
+      "作者群": "S.H.Lu,C.Y.Chang,and C.F.Kao"
+    },
+    {
+      "論文名稱": "Reflective-type optical encoder based on fractional Talbot self-image effect using phase grating \r\n",
+      "期刊名稱": "Proc. of SPIE (EI)",
+      "作者群": "C.-F. Kao*,and S.-H. Lu"
+    },
+    {
+      "論文名稱": "Optical encoder based on Fractional-Talbot effect using two-dimensional phase grating \r\n",
+      "期刊名稱": "Optics Communications (SCIE)",
+      "作者群": "Ching-Fen Kao,Hung-Lin Huang,and Sheng-Hua Lu"
+    },
+    {
+      "論文名稱": "Measuring Cell Gap of Liquid Crystal Displays by Scanning White-Light Tandem Interferometry",
+      "期刊名稱": "Japanese Journal of Applied Physics (SCIE)",
+      "作者群": "Ching-Fen Kao, Shih-Kuo Tsai, and Sheng-Hua Lu"
+    },
+    {
+      "論文名稱": "Absolute Distance Measurement by using Modified Dual-wavelength Heterodyne Michelson Interferometer",
+      "期刊名稱": "Opt. Commun. (SCIE)",
+      "作者群": "Kun-Huang Chen, Jing-Heng Chen, Shen-Hua Lu, Wei-Yao Chang, and Chi-Chang Wu"
+    },
+    {
+      "論文名稱": "Pre-compensated design formulae for shift-corrected volume reflection holograms",
+      "期刊名稱": "Optik (SCIE)",
+      "作者群": "Jing-Heng Chen,Sheng-Hua Lu,Kun-Huang Chen and Jiun-You Lin"
+    },
+    {
+      "論文名稱": "Diffractive Laser Encoder with a Grating in Littrow Configuration",
+      "期刊名稱": "Japanese Journal of Applied Physics (SCIE)",
+      "作者群": "Ching-Fen KAO, Sheng-Hua LU, Hsin-Mao SHEN, and Kuang-Chao FAN"
+    },
+    {
+      "論文名稱": "Liquid refractometer based on immersion diffractometry",
+      "期刊名稱": "Optics Express (SCIE)",
+      "作者群": "Sheng-Hua Lu,Shan-Peng Pan,Tzong-Shi Liu,and Ching-Fen Kao"
+    },
+    {
+      "論文名稱": "Immersion diffractometry for determining nanoscale grating pitch",
+      "期刊名稱": "Optics Express (SCIE)",
+      "作者群": "Sheng-Hua Lu, Li-Cheng Tseng, Ching-Fen Kao, Shang-Peng Pan, and Liang-Chih Chang"
+    },
+    {
+      "論文名稱": "Determining large step heights using zero-order interference\r\nfringe identification and an external cavity diode laser",
+      "期刊名稱": "Optics Communications (SCIE,EI)",
+      "作者群": "Sheng-Hua Lu, Jing-Heng Chen, Ching-Fen Kao, Yu-Ping Lan, Liang-Chih Chang"
+    },
+    {
+      "論文名稱": "High resolution planar encoder by retro-reflection\r\n",
+      "期刊名稱": "Review of Scientific Instruments (SCIE)",
+      "作者群": "Ching-Fen Kao, Sheng-Hua Lu, and Mao-Hong Lu\r\n"
+    }
+  ],
+  "journal2": [],
+  "conference": [
+    {
+      "論文名稱": "基於Red Pitaya與LabVIEW之操作簡易且\u000b經濟的桌面光速量測實驗",
+      "會議名稱": "2023中華民國物理教育聯合會議",
+      "作者群": "呂韋頡、馮俊智、周哲仲、林泰生、盧聖華"
+    },
+    {
+      "論文名稱": "A tabletop speed of light measurement using a Red Pitaya STEMlab board and a low-cost diode laser module",
+      "會議名稱": "2023 Annual Meeting of the Physical Society of Taiwan",
+      "作者群": "Jun-Zhi Feng*, Wei-Jie Lu, Che-Chung Chou, Tyson Lin, Sheng-Hua Lu"
+    },
+    {
+      "論文名稱": "Line-field optical coherence tomography using a parallel four-step phase shifter",
+      "會議名稱": "The 19th International Confernce on Automation Technology (Automation 2022)",
+      "作者群": "Ting-En Su and Sheng-Hua Lu"
+    },
+    {
+      "論文名稱": "抗多次反射干擾之線雷射三角位移計",
+      "會議名稱": "2022 Taiwan AOI Forum & Show",
+      "作者群": "陳建文 盧聖華"
+    },
+    {
+      "論文名稱": "以光路對稱式雷射三角位移計量測直角表面輪廓",
+      "會議名稱": "2020 Taiwan AOI Forum and Show",
+      "作者群": "簡明毅 陳建文 盧聖華 黃卯生"
+    },
+    {
+      "論文名稱": "Acetylene photo-thermal spectroscopy using an optical heterodyne interferometer based on a double-pass\nacousto-optic frequency shifter",
+      "會議名稱": "OPTICS & PHOTONICS International Congress 2020",
+      "作者群": "Pin Wei Huang, Che Chung Chou, Tyson Lin, Sheng Hua Lu"
+    },
+    {
+      "論文名稱": "Full-range Doppler Spectral-domain Optical Coherence Tomography with Beam-offset Scanning Method",
+      "會議名稱": "Optics & Photonics Taiwan International Conference (OPTIC)",
+      "作者群": "Meng-Han Chang, Chih-Min Chang, Ssu-Chi Chang, and Sheng-Hua Lu"
+    },
+    {
+      "論文名稱": "Achromatic sinusoidal phase modulation for complex\r\nspectral domain optical coherence tomography",
+      "會議名稱": "Optics & Photonics Taiwan, International Conference",
+      "作者群": "Siang-Ru Huang, Meng-Han Chang, Hsuang-Min Huang, I-Hao Chung and Sheng-Hua Lu*"
+    },
+    {
+      "論文名稱": "Interferometric phase modulation for increasing measurement speed of optical coherence microscopy",
+      "會議名稱": "Optics & Photonics Taiwan, International Conference",
+      "作者群": "Yi-Ying Chen, Siang-Ru Huang, Meng-Han Chang, Hsuang-Min Huang and Sheng-Hua Lu*"
+    },
+    {
+      "論文名稱": "Achromatic phase shifter for complex spectral domain optical coherence tomography",
+      "會議名稱": "Optics & Photonics Taiwan, the International Conference",
+      "作者群": "Wei-Ching Shao, Yi-Ying Chen, Siang-Ru Huang, and Sheng-Hua Lu*"
+    },
+    {
+      "論文名稱": "Achromatic frequency shifter based on frequency-to-space mapping method",
+      "會議名稱": "Optics & Photonics Taiwan, the International Conference (OPTIC) 2013",
+      "作者群": "Hsiao-Ping Chiang, Wei-Ching Shao,Yi-Ying Chen, and Sheng-Hua Lu"
+    },
+    {
+      "論文名稱": "Improved Nematic Liquid-Crystal Phase Shifter",
+      "會議名稱": "The 10th Conference on Lasers and Electro-Optics Pacific Rim2013The 10th Conference on Lasers and Electro-Optics Pacific Rim Conference on Lasers and Electro-Optics Pacific Rim",
+      "作者群": "Wei-Chang Liu*, and Sheng-Hua Lu"
+    },
+    {
+      "論文名稱": "Near-Infrared Achromatic Frequency Shifter",
+      "會議名稱": "The 10th Conference on Lasers and Electro-Optics Pacific Rim",
+      "作者群": "Hsiao-Ping Chiang, and Sheng-Hua Lu"
+    },
+    {
+      "論文名稱": "Immersion Mirau Interference Microscope for Tomographic Imaging",
+      "會議名稱": "Optics & Photonics Taiwan, International Conference",
+      "作者群": "C.-J. Chang, W.-C. Liu, H.-P. Chiang, and S.-H. Lu*"
+    },
+    {
+      "論文名稱": "以自製光纖型頻域光學同調斷層掃描系統研究觸控面板結構",
+      "會議名稱": "AOI論壇",
+      "作者群": "楊柏軒*, 邵偉卿, 盧聖華"
+    },
+    {
+      "論文名稱": "Planar Liquid-Crystal Phase Shifter for Full-Field Optical Coherence Tomography",
+      "會議名稱": "International photonics conference",
+      "作者群": "C. Y. Hsieh, B. S. Yang, C. J. Chang and S. H. Lu*"
+    },
+    {
+      "論文名稱": "Full-field optical coherence tomography with a QHQ phase shifter",
+      "會議名稱": "International Conference on Optics and Photonics in Taiwan",
+      "作者群": "C.Y.Wang,C.Y.Hsieh,C.Y.Lin,and S.H.Lu"
+    },
+    {
+      "論文名稱": "電控可旋轉液晶波片",
+      "會議名稱": "2009中國液態晶體學會年會暨研討會",
+      "作者群": "邱冠宇"
+    },
+    {
+      "論文名稱": "低同調干涉式多點間隙量測技術",
+      "會議名稱": "台灣光電科技研討會",
+      "作者群": "張紀瑩, 邱冠宇, 盧聖華"
+    },
+    {
+      "論文名稱": "Mirau干涉顯微術於斷層成像之應用",
+      "會議名稱": "台灣光電科技研討會",
+      "作者群": "張妤甄, 王健燁, 盧聖華"
+    },
+    {
+      "論文名稱": "High-sensitivity low-coherence heterodyne Interferometer",
+      "會議名稱": "International Conference on Optics and Photonics in Taiwan",
+      "作者群": "Chien-Yell Wang, Hung-Lin Huang, Chia-Ching Lu, Sheng-Hua Lu"
+    },
+    {
+      "論文名稱": "穆勒矩陣偏振儀於液晶盒參數之量測",
+      "會議名稱": "第八屆全國AOI論壇與展覽",
+      "作者群": "曾國銓,王博玄,黃鴻麟,盧聖華"
+    },
+    {
+      "論文名稱": "高光譜影像儀在液晶顯示器輝度及色彩量測上的應用",
+      "會議名稱": "第八屆全國AOI論壇與展覽",
+      "作者群": "張瑋志,藍玉屏,徐祥瀚,盧聖華"
+    },
+    {
+      "論文名稱": "利用掃描白光干涉儀量測空液晶盒間隙",
+      "會議名稱": "2007台灣光電科技研討會",
+      "作者群": "蔡世國,呂家慶,張瑋志,盧聖華"
+    },
+    {
+      "論文名稱": "新型塊規干涉儀",
+      "會議名稱": "台灣光電科技研討會",
+      "作者群": "王世勳, 蔡世國, 陳怡菁, 藍玉屏, 盧聖華"
+    },
+    {
+      "論文名稱": "浸潤繞射術於液體折射率量測之研究",
+      "會議名稱": "台灣光電科技研討會",
+      "作者群": "曾國銓, 呂家慶, 曾立程, 盧聖華"
+    },
+    {
+      "論文名稱": "稜鏡耦合式液浸繞射術於奈米柵距量測之研究",
+      "會議名稱": "OPT2005台灣光電科技研討會",
+      "作者群": "曾立程,王世勳,潘善鵬,張良知,盧聖華"
+    },
+    {
+      "論文名稱": "波長掃描式內徑絕對量測干涉術",
+      "會議名稱": "OPT2005台灣光電科技研討會",
+      "作者群": "王世勳,曾立程,藍玉屏,盧聖華"
+    },
+    {
+      "論文名稱": "以光學繞射術量測二維光柵的次微米線距",
+      "會議名稱": "中國機械工程學會第二十二屆全國學術研討會",
+      "作者群": "潘善鵬,曾立程,盧聖華"
+    },
+    {
+      "論文名稱": "Comparisons of overlay measurement using conventional bright-field microscope and angular scatterometer",
+      "會議名稱": "Metrology, Inspection, and Process Control for Microlithography XIX",
+      "作者群": "Chun-Hung Ko, Yi-sha Ku, Nigel Smith, Deh-Ming Shyu, Shih-Chun Wang, and Sheng-Hua Lu"
+    }
+  ],
+  "book": [],
+  "patent": [],
+  "most": [
+    {
+      "name": "無鏡像偽影干擾的單偏振相機線場偏振敏感OCT",
+      "schoolYear": "113"
+    },
+    {
+      "name": "以k線性化與色散補償方法改良線場SD-OCT的軸向解析度",
+      "schoolYear": "113"
+    },
+    {
+      "name": "以傅立葉轉換與像素遮罩空間載波法改善線場OCT影像品質",
+      "schoolYear": "112"
+    },
+    {
+      "name": "貼有研磨/切割膠帶的晶圓厚度量測",
+      "schoolYear": "111"
+    },
+    {
+      "name": "動態晶圓表面粗糙度非接觸量測技術",
+      "schoolYear": "111"
+    },
+    {
+      "name": "具抗震能力的全範圍線場頻域光學同調斷層掃描術",
+      "schoolYear": "110"
+    },
+    {
+      "name": "抗反射干擾之線雷射三角位移計",
+      "schoolYear": "110"
+    },
+    {
+      "name": "多功能同調掃描顯微鏡",
+      "schoolYear": "109"
+    },
+    {
+      "name": "TSV光學斷層掃描技術",
+      "schoolYear": "108"
+    },
+    {
+      "name": "運用無人航空載具空氣污染遙測系統探討環境PM2.5傳輸與產生機制",
+      "schoolYear": "107"
+    },
+    {
+      "name": "快速液浸式Mirau全域光學斷層掃描術",
+      "schoolYear": "107"
+    },
+    {
+      "name": "(應用型)產學合作計畫－無人航空載具空氣污染遙測系統開發與運用(二)",
+      "schoolYear": "106"
+    },
+    {
+      "name": "(應用型)產學合作計畫－無人航空載具空氣污染遙測系統開發與運用",
+      "schoolYear": "105"
+    },
+    {
+      "name": "(廠配)易圖科技股份有限公司(應用型)產學合作計畫－無人航空載具空氣污染遙測系統開發與運用",
+      "schoolYear": "105"
+    },
+    {
+      "name": "簡易光譜儀校正技術用於頻域光學斷層成像系統",
+      "schoolYear": "103"
+    },
+    {
+      "name": "頻域光學斷層掃描式血糖即時監測系統",
+      "schoolYear": "102"
+    },
+    {
+      "name": "基於頻率-空間映射方法之消色散移頻器",
+      "schoolYear": "101"
+    },
+    {
+      "name": "應用於光學斷層攝影之液浸式偏振Mirau干涉顯微系統",
+      "schoolYear": "100"
+    },
+    {
+      "name": "基於消色散相移技術之快速高解析度正面取像式光學同調斷層掃描術(3/3)",
+      "schoolYear": "99"
+    },
+    {
+      "name": "基於消色散相移技術之快速高解析度正面取像式光學同調斷層掃描術(2/3)",
+      "schoolYear": "98"
+    },
+    {
+      "name": "低同調干涉式多點間隙量測技術",
+      "schoolYear": "98"
+    },
+    {
+      "name": "基於消色散相移技術之快速高解析度正面取像式光學同調斷層掃描術(1/3)",
+      "schoolYear": "97"
+    },
+    {
+      "name": "利用外差式光學同調斷層掃描術使潛伏指紋現形",
+      "schoolYear": "97"
+    },
+    {
+      "name": "提升產業技術及人才培育研究計畫–大間隙反射式光學尺之研製",
+      "schoolYear": "96"
+    },
+    {
+      "name": "(廠配)提升產業技術及人才培育研究計畫–大間隙反射式光學尺之研製(台智精密科技股份有限公司)",
+      "schoolYear": "96"
+    },
+    {
+      "name": "液晶單元間隙的新量測方法之研究",
+      "schoolYear": "95"
+    },
+    {
+      "name": "液浸式繞射術及其應用",
+      "schoolYear": "94"
+    }
+  ],
+  "tech": [],
+  "induAca": [
+    "經濟部工業局107年度「中小企業即時技術輔導計畫」-掃描白光干涉顯微檢測儀之量測性能提升 (2018-06 to 2018-11)",
+    "(廠配)經濟部工業局107年度「中小企業即時技術輔導計畫」-掃描白光干涉顯微檢測儀之量測性能提升 (2018-06 to 2018-11)",
+    "經濟部工業局104年度中小企業即時技術輔導計畫-層狀結構之光學斷層成像技術 (2015-04 to 2015-09)",
+    "(廠商配合款)經濟部工業局104年度中小企業即時技術輔導計畫-層狀結構之光學斷層成像技術 (2015-04 to 2015-09)",
+    "液晶顯示面板各不同介質層之光程量測方法及量測誤差分析 (2006-03 to 2006-11)"
+  ],
+  "perform": [],
+  "reward": [
+    "逢甲大學論文著作獎勵優等獎 (113, 2024-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (111, 2022-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (111, 2022-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (110, 2021-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (108, 2019-11) - 逢甲大學",
+    "論文著作傑出獎 (106, 2017-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (106, 2017-11) - 逢甲大學",
+    "論文著作傑出獎 (105, 2016-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (105, 2016-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (105, 2016-11) - 逢甲大學",
+    "論文著作傑出獎 (104, 2015-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (104, 2015-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (104, 2015-11) - 逢甲大學",
+    "論文著作傑出獎 (103, 2014-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (103, 2014-11) - 逢甲大學",
+    "論文著作傑出獎 (102, 2013-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (102, 2013-11) - 逢甲大學",
+    "論文著作傑出獎 (100, 2011-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (100, 2011-11) - 逢甲大學",
+    "論文著作傑出獎 (99, 2010-11) - 逢甲大學",
+    "論文著作優等獎 (99, 2010-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (99, 2010-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (99, 2010-11) - 逢甲大學",
+    "論文著作優等獎 (98, 2009-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (98, 2009-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (98, 2009-11) - 逢甲大學",
+    "學術研究獎勵論文著作傑出獎 (97, 2008-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (97, 2008-11) - 逢甲大學",
+    "學術研究獎勵論文著作傑出獎 (96, 2007-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (96, 2007-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (96, 2007-11) - 逢甲大學",
+    "學術研究獎勵研發成果傑出獎 (95, 2006-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (95, 2006-11) - 逢甲大學"
+  ],
+  "speech": [
+    {
+      "演講題目": "VR虛擬實境",
+      "邀請單位": "清水高中",
+      "演講日期": "2017-08"
+    },
+    {
+      "演講題目": "光學同調斷層成像技術",
+      "邀請單位": "上詮光纖",
+      "演講日期": "2016-04"
+    },
+    {
+      "演講題目": "光學同調斷層成像技術",
+      "邀請單位": "國立高雄應用科技大學光電與通訊工程研究所",
+      "演講日期": "2016-04"
+    },
+    {
+      "演講題目": "數理化學群介紹及入學甄試準備",
+      "邀請單位": "長億高級中學",
+      "演講日期": "2009-11"
+    },
+    {
+      "演講題目": "1.光碟機如何讀取資料? 2.光碟軌距量測及儲存容量估算",
+      "邀請單位": "台中一中",
+      "演講日期": "2009-03"
+    },
+    {
+      "演講題目": "口腔雷射基礎理論(2)",
+      "邀請單位": "中華民國口腔雷射醫學會",
+      "演講日期": "2007-01"
+    },
+    {
+      "演講題目": "口腔雷射基礎理論(1)",
+      "邀請單位": "中華民國口腔雷射醫學會",
+      "演講日期": "2006-12"
+    },
+    {
+      "演講題目": "光波疊加及其應用",
+      "邀請單位": "西苑高中",
+      "演講日期": "2006-10"
+    }
+  ],
+  "material": [],
+  "tal": []
+}

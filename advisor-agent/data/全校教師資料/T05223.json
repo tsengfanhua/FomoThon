@@ -1,0 +1,330 @@
+{
+  "teacherId": "T05223",
+  "name": "簡彰胤",
+  "mainUnit": "工程與科學學院",
+  "detailUnit": "化學工程學系",
+  "skill": [
+    "觸媒化學Catalysis",
+    "燃料電池Fuel Cell",
+    "表面科學Surface Science"
+  ],
+  "edu": [
+    "University of Akron 化學工程學系 博士",
+    "National Taiwan University 化學工程學系 碩士",
+    "National Taiwan University 化學工程學系 學士"
+  ],
+  "fcuExp": [
+    "化學工程學系 助理教授",
+    "化學工程學系 副教授"
+  ],
+  "currjob": [],
+  "otherExp": [
+    "Universiti of Brunei Darussalam, Brunei Dept. Chemical Engineering Assistant Professor",
+    "Paul Scherrer Institut, Switzerland Laboratory for Catalysis and Sustainable Chemistry Scientific Officer",
+    "University of St Andrews, UK School of Chemistry Postdoctoral Research Fellow",
+    "University of South Carolina, USA Dept. Chemical and Mechanical Engineering Postdoc",
+    "Bayer Taiwan Corp., Taiwan Textile Product and Chemicals Product Engineer",
+    "Formosa Petrochemical Inc., Taiwan Refinery RDS Unit Process Engineer"
+  ],
+  "journal": [
+    {
+      "論文名稱": "Catalytic Performance of B-site doped LST modified NiO/YSZ Cathodes for CO2 Reduction in a Solid Oxide Electrolyzer",
+      "期刊名稱": "ECS Journal of Solid State Science and Technology (SSCI)",
+      "作者群": "Andrew C Chien, Jay H. Chiang and Eddy Y. Qian"
+    },
+    {
+      "論文名稱": "Design of a Cellulose-Supporting battery for single use and electrode performance Evaluation",
+      "期刊名稱": "Materials Letters (SSCI)",
+      "作者群": "Andrew C. Chien* and Nancy Y. Xu"
+    },
+    {
+      "論文名稱": "Effect of metal loading sequences in CO2 methanation activity on samarium-doped ceria supported bimetallic catalysts",
+      "期刊名稱": "Catalysis Science & Technology (SSCI)",
+      "作者群": "Andrew C. Chien*, Corinna C. Chi"
+    },
+    {
+      "論文名稱": "Catalytic Activity of Methane Oxidation on Nickel-doped Lanthanum Strontium Titanate Perovskite from Three Synthesis Methods",
+      "期刊名稱": "Journal of the Taiwan Institute of Chemical Engineers (SCIE)",
+      "作者群": "Andrew C. Chien*, Mike S. Zheng"
+    },
+    {
+      "論文名稱": "Direct Conversion of Ammonia to Electricity on a PCFC and an SOFC",
+      "期刊名稱": "Journal of The Electrochemical Society (SCIE)",
+      "作者群": "Andrew C Chien*, Willy Y. Chen, Mike S. Zheng"
+    },
+    {
+      "論文名稱": "Reaction pathways of oxidative coupling of methane on lithiated lanthanum oxide",
+      "期刊名稱": "Molecular Catalysis (SCIE)",
+      "作者群": "Andrew C. Chien*, Ian Z. Xie, Chen-Hao Yeh"
+    },
+    {
+      "論文名稱": "Performance Investigation of a Nickel Cermet Anode Modified with Copper, Alkaline Earth Metal Oxide, Boron, and Perovskite for Direct Methane Fuel Cell",
+      "期刊名稱": "Journal of Energy and Power Technology (LIDSEN Publishing Inc.)",
+      "作者群": "Andrew C. Chien*, Eric Y. Lin, Nicole J. Ye"
+    },
+    {
+      "論文名稱": "Studies of Nickel/Samarium-Doped Ceria for Catalytic Partial Oxidation of Methane and Effect of Oxygen Vacancy",
+      "期刊名稱": "Catalysts (SCIE)",
+      "作者群": "Andrew C. Chien*, Nicole J. Ye, Chao-Wei Huang, and I-Hsiang Tseng"
+    },
+    {
+      "論文名稱": "Studies of Exsolution and Catalytic Activity of Metal Nanocatalyst from Parent Perovskite",
+      "期刊名稱": "Catalysis Science & Technology (SCIE)",
+      "作者群": "Andrew C. Chien*, Brian Y. Liao, Willy Y. Chen"
+    },
+    {
+      "論文名稱": "Effect of Preparation Method and Particle Size of Ni/SDC Catalyst on Methane Oxidation",
+      "期刊名稱": "Catalysis Communications (SCIE)",
+      "作者群": "Andrew C. Chien*, Nicole J. Ye"
+    },
+    {
+      "論文名稱": "Aid of A Metallic Functional Layer on Ni/YSZ Anode for Direct Methane Fuel Cell",
+      "期刊名稱": "International Journal of Hydrogen Energy (SCIE)",
+      "作者群": "Andrew C. Chien*, Eric Y. Lin, Albert D. Lai"
+    },
+    {
+      "論文名稱": "Solvothermal Synthesis of Mesoporous TiO2 Using Sodium Dodecyl Sulfate for Photocatalytic Degradation of Methylene Blue",
+      "期刊名稱": "Topics in Catalysis (SSCI,SCIE)",
+      "作者群": "Chao-Wei Huang, Wei-Cheng Sin, Van-Huy Nguyen, Yu-Chung Wu, Wei-Yu Chen, Andrew C. Chien*"
+    },
+    {
+      "論文名稱": "Oscillating Syngas Production on NiO/YSZ Catalyst in Methane Oxidation",
+      "期刊名稱": "RSC Advances (SSCI,SCIE)",
+      "作者群": "Andrew C. Chien*, Brian Y. Liao"
+    },
+    {
+      "論文名稱": "Effect of Contact Mode and Flow Rate on Direct Carbon Solid Oxide Fuel Cell",
+      "期刊名稱": "Journal of Chemical Engineering of Japan (SCIE)",
+      "作者群": "Andrew C. Chien*, Mohammad Iskandar Petra, Chee Ming Lim"
+    },
+    {
+      "論文名稱": "Boron Nitride Coated Rhodium Black for Stable Production of Syngas",
+      "期刊名稱": "Catalysis Science & Technology (SCIE)",
+      "作者群": "Andrew C. Chien, Jeroen A. van Bokhovan*"
+    },
+    {
+      "論文名稱": "Performance of Direct Carbon Fuel Cells Operated on Coal and Effect of Operation Mode",
+      "期刊名稱": "Journal of The Electrochemical Society (SCIE)",
+      "作者群": "Andrew C. Chien, Ana Arenillas, Cairong Jiang, John T. S. Irvine*"
+    },
+    {
+      "論文名稱": "Scaling up of the Hybrid Direct Carbon Fuel Cell Technology",
+      "期刊名稱": "International Journal of Hydrogen Energy (SCIE)",
+      "作者群": "Andrew C. Chien, Gale Corre, Rui Antunes, John T.S. Irvine*"
+    },
+    {
+      "論文名稱": "Static and Dynamic Hydrogen Adsorption on Pt/AC and MOF-5",
+      "期刊名稱": "International Journal of Hydrogen Energy (SCIE)",
+      "作者群": "Andrew C. Chien, Steven S. C. Chuang*"
+    },
+    {
+      "論文名稱": "Effect of Gas Flow Rates and Boudouard Reactions on the Performance of Ni/YSZ anode supported SOFCs with Solid Carbon Fuels\r\n",
+      "期刊名稱": "Journal of Power Sources (SCIE)",
+      "作者群": "Andrew C. Chien, Steven S. C. Chuang*"
+    },
+    {
+      "論文名稱": "CO hydrogenation on lanthana and vanadia doubly promoted Rh/SiO2 catalysts\r\n",
+      "期刊名稱": "Journal of Catalysis (SCIE)",
+      "作者群": "Jia Gao, Xunhua Mo, Andrew Chang-Yin Chien, Walter Torres, James G. Goodwin Jr.*"
+    },
+    {
+      "論文名稱": "Copper-modified alumina as a support for iron Fischer–Tropsch synthesis catalysts",
+      "期刊名稱": "Applied Catalysis A: General 332 (2007) 130–137 (SCIE)",
+      "作者群": "Kamonchanok Pansanga, Nattaporn Lohitharn, Andrew C.Y. Chien, Edgar Lotero, Joongjai Panpranot, Piyasan Praserthdam, James G. Goodwin Jr*"
+    }
+  ],
+  "journal2": [],
+  "conference": [
+    {
+      "論文名稱": "Reaction Pathways of Oxidative Coupling of Methane on Alkali Metal\nDoped Lanthanum Oxide",
+      "會議名稱": "12th International Conference on Environmental Catalysis",
+      "作者群": "Andrew C. Chien, Ian Z. Xie, Ellen Y. Chen"
+    },
+    {
+      "論文名稱": "Investigation of Samaria Doped Ceria Catalyst for Methane Oxidation and Effect of Oxygen Vacancy",
+      "會議名稱": "International Conference on Biohydrogen and Bioprocesses (ABBS 2020)",
+      "作者群": "Nicole J Ye, Andrew C Chien"
+    },
+    {
+      "論文名稱": "Catalysis of Nonstoichiometric Perovskite in Methane Oxidation",
+      "會議名稱": "The 8th Asia Pacific Congress in Catalysis (APCAT8)",
+      "作者群": "Andrew C. Chien*, Brian Y. Liao, Eric Y. Lin"
+    },
+    {
+      "論文名稱": "Direct Synthesis of Acetic Acid and Methanol from Greenhouse Gases",
+      "會議名稱": "The 8th Tokyo Conference on Advanced Catalytic Science and Technology (TOCAT8)",
+      "作者群": "Andrew C. Chien*, Eric Y. Lin, Albert D. Lai"
+    },
+    {
+      "論文名稱": "High-Throughput Screening of Catalytic Materials for JP-8 Fuel Cracking to Liquefied Petroleum Gas",
+      "會議名稱": "Materials Research Society",
+      "作者群": "John E. Bedenbaugh, Jangam Ashok, Andrew Chien, Sungtak Kim, Shahriar Salim, Mary Glascock, Jochen Lauterbach*"
+    },
+    {
+      "論文名稱": "Study of a Renewable Biomass Powered SOFC",
+      "會議名稱": "220 ECS Meeting",
+      "作者群": "Y. H. Gong, A. C. Chien, Z. P. Mao, K. Huang*"
+    },
+    {
+      "論文名稱": "Investigation of Boudouard Reactions on\r\nCarbon-Based Fuel Cells by Transient Techniques\r\n",
+      "會議名稱": "218 ECS Meeting",
+      "作者群": "Andrew C. Chien, Tritti Siengchum, Steven S. C. Chuang*"
+    }
+  ],
+  "book": [
+    {
+      "專業書籍": "接以固態碳為燃料之燃料電池",
+      "出版單位": "台電工程月刊",
+      "作者群": "簡彰胤"
+    },
+    {
+      "專業書籍": "固態氧化物燃料電池",
+      "出版單位": "化工技術",
+      "作者群": "簡彰胤"
+    },
+    {
+      "專業書籍": "明日之星-未來的移動能源:LPG",
+      "出版單位": "瓦斯季刊",
+      "作者群": "簡彰胤"
+    }
+  ],
+  "patent": [
+    {
+      "title": "發明",
+      "desc": "Electrode for Oxidation of Nitrogen-Containing Compounds, Preparation Method and Applications Thereof"
+    },
+    {
+      "title": "發明",
+      "desc": "Highly Active Decomposition Catalyst for Low Carbon Hydrocarbon Production from Sulfur Containing Fuel"
+    }
+  ],
+  "most": [
+    {
+      "name": "甲烷氧化偶聯反應之工作觸媒的合成、動力學調查與其電化學的應用(1/3)",
+      "schoolYear": "113"
+    },
+    {
+      "name": "鎳-碳化鎢有機金屬框架泡沫鎳包覆聚吡咯導電聚合物塗層作為直接尿素燃料電池的陽極電催化劑之製作與檢測",
+      "schoolYear": "113"
+    },
+    {
+      "name": "(個別型)產學合作計畫－牛尿電解產氫電池放大和設計",
+      "schoolYear": "111"
+    },
+    {
+      "name": "(廠配)興得業有限公司(個別型)產學合作計畫－牛尿電解產氫電池放大和設計",
+      "schoolYear": "111"
+    },
+    {
+      "name": "新穎可調控金屬出溶鈣鈦礦觸媒合成、鑑定、反應與應用(3/3)",
+      "schoolYear": "111"
+    },
+    {
+      "name": "新穎可調控金屬出溶鈣鈦礦觸媒合成、鑑定、反應與應用(2/3)",
+      "schoolYear": "110"
+    },
+    {
+      "name": "(個別型)產學合作計畫－牛尿電解產氫製程開發和發電分析",
+      "schoolYear": "109"
+    },
+    {
+      "name": "(廠配)興得業有限公司(個別型)產學合作計畫－牛尿電解產氫製程開發和發電分析",
+      "schoolYear": "109"
+    },
+    {
+      "name": "新穎可調控金屬出溶鈣鈦礦觸媒合成、鑑定、反應與應用(1/3)",
+      "schoolYear": "109"
+    },
+    {
+      "name": "氨分解觸媒的製備與其在直接氨燃料電池的應用",
+      "schoolYear": "108"
+    },
+    {
+      "name": "生質能轉化為電能-固態碳燃料電池(2/2)",
+      "schoolYear": "107"
+    },
+    {
+      "name": "生質能轉化為電能-固態碳燃料電池(1/2)",
+      "schoolYear": "106"
+    }
+  ],
+  "tech": [
+    {
+      "論文名稱": "Advances in Direct Carbon Fuel Cell (2013-12)",
+      "書名": "Nanostructured and Advanced Materials for Fuel Cells (San Ping Jiang, Pei Kang Shen)",
+      "作者群": "Cairong Jiang, Andrew C. Chien, John T. S. Irvine*"
+    },
+    {
+      "論文名稱": "Hybrid Molten Carbonate/Solid Oxide Direct Carbon Fuel Cells (2013-08)",
+      "書名": "Molten Salt Chemistry",
+      "作者群": "Andrew C. Chien, John T.S. Irvine*"
+    }
+  ],
+  "induAca": [],
+  "perform": [],
+  "reward": [
+    "逢甲大學論文著作獎勵傑出獎 (113, 2024-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (113, 2024-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (113, 2024-11) - 逢甲大學",
+    "112年度國科會補助大專校院研究獎勵 (112, 2023-12) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (111, 2022-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (111, 2022-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (111, 2022-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (111, 2022-11) - 逢甲大學",
+    "111年度國科會補助大專校院研究獎勵 (111, 2022-10) - 研究發展處",
+    "逢甲大學論文著作獎勵傑出獎 (110, 2021-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (110, 2021-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (110, 2021-11) - 逢甲大學",
+    "110年度科技部補助大專校院研究獎勵 (110, 2021-10) - 產學合作處",
+    "2021 第十六屆全國氫能與燃料電池學術研討會口頭論文佳作 (110, 2021-09) - 台灣氫能與燃料電池學會",
+    "行政院環境保護署第2屆綠色化學創意競賽 佳作 (109, 2020-11) - 行政院環境保護署毒物及化學物質局",
+    "台灣化學工程學會67週年年會壁報論文佳作 (109, 2020-10) - 台灣化學工程學會",
+    "科技部大專生專題研究計畫 (108, 2019-08) - 科技部",
+    "科技部補助大專校院延攬特殊優秀人才 (106, 2018-04) - 逢甲大學",
+    "科技部補助大專校院延攬特殊優秀人才 (105, 2017-03) - 逢甲大學"
+  ],
+  "speech": [
+    {
+      "演講題目": "固態氧化物燃料電池(SOFC)的應用與發展",
+      "邀請單位": "國立中央大學 機械工程學系",
+      "演講日期": "2023-03"
+    },
+    {
+      "演講題目": "Reaction Pathways of Oxidative Coupling of Methane on Alkali Metal Doped Lanthanum Oxide",
+      "邀請單位": "台灣化學工程學會",
+      "演講日期": "2022-12"
+    },
+    {
+      "演講題目": "Application of Heterogeneous Catalysis in Methane Conversion",
+      "邀請單位": "德芮克國際股份有限公司",
+      "演講日期": "2022-03"
+    },
+    {
+      "演講題目": "Direct Hydrocarbon Fuel Cell",
+      "邀請單位": "台灣氫能與燃料電池學會",
+      "演講日期": "2020-12"
+    },
+    {
+      "演講題目": "Energy, Catalysis, and Fuel Cell",
+      "邀請單位": "台北科技大學化工系",
+      "演講日期": "2019-12"
+    },
+    {
+      "演講題目": "Energy, Catalysis, and Direct Carbon Fuel Cell",
+      "邀請單位": "成功大學化工系",
+      "演講日期": "2018-05"
+    },
+    {
+      "演講題目": "Boron Nitride Coated Rhodium Black for Stable Production of Syngas",
+      "邀請單位": "台灣化學工程學會",
+      "演講日期": "2017-11"
+    },
+    {
+      "演講題目": "Energy, Catalysis, and Direct Carbon Fuel Cell",
+      "邀請單位": "中正大學化工系",
+      "演講日期": "2017-04"
+    }
+  ],
+  "material": [],
+  "tal": []
+}

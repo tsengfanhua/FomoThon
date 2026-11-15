@@ -1,0 +1,175 @@
+{
+  "teacherId": "T10247",
+  "name": "周育樂",
+  "mainUnit": "工程與科學學院",
+  "detailUnit": "工業工程與系統管理學系",
+  "skill": [
+    "先進製程控制Advanced Process Control",
+    "生產及排程最佳化Energy-aware Production Planning and Scheduling",
+    "供應鏈規劃及管理Supply Chain Planning and Management",
+    "智慧製造Smart Manufacturing"
+  ],
+  "edu": [
+    "國立台灣大學 工業工程學研究所 博士",
+    "國立台灣大學 工業工程學研究所 碩士",
+    "國立交通大學 工業工程與管理學系 學士"
+  ],
+  "fcuExp": [
+    "工業工程與系統管理學系 助理教授"
+  ],
+  "currjob": [],
+  "otherExp": [
+    "財團法人中衛發展中心 電子商務部/經管服務部/協同商務部/產業經營 協理"
+  ],
+  "journal": [
+    {
+      "論文名稱": "Production scheduling heuristic for mass customization with partial rescheduling",
+      "期刊名稱": "SPIE Proceedings (EI)",
+      "作者群": "Zhe-Luen Tsui, Ywh-Leh Chou, Cadmus Yuan"
+    },
+    {
+      "論文名稱": "Stochastic Scheduling for Batch Processes with Downstream Queue Time Constraints",
+      "期刊名稱": "IEEE Transactions on Semiconductor Manufacturing (SCIE)",
+      "作者群": "Wen-Chi Chien, Ywh-Leh Chou, and Cheng-Hung Wu"
+    },
+    {
+      "論文名稱": "An Efficient Data-driven Method for Storage Location Assignment under Item Correlation Considerations",
+      "期刊名稱": "International Journal of Systems Science: Operations & Logistics (SCIE)",
+      "作者群": "Ywh-Leh Chou*, Vincent F. Yu, and Cheng-Hung Wu"
+    },
+    {
+      "論文名稱": "An Energy-aware  Scheduling Algorithm under Maximum Power Consumption Constraints",
+      "期刊名稱": "Journal of Manufacturing Systems (SCIE)",
+      "作者群": "Ywh-Leh Chou, Ju-Min Yang, and Cheng-Hung Wu*"
+    },
+    {
+      "論文名稱": "An Interactive Method for Multi-Criteria Dispatching Problems with Unknown Preference Functions",
+      "期刊名稱": "Computers & Industrial Engineering (SCIE)",
+      "作者群": "Ywh-Leh Chou, Te-Yu Lin, Jei-Zheng Wu, and Cheng-Hung Wu*"
+    }
+  ],
+  "journal2": [],
+  "conference": [
+    {
+      "論文名稱": "結合AI與精實管理之航太製程生產效能提升研究",
+      "會議名稱": "2024中國工業工程學會年會暨學術研討會(CIIE2024)及2024半導體製造智慧國際研討會",
+      "作者群": "楊庭杰、周育樂*"
+    },
+    {
+      "論文名稱": "Investigation of Activation Functions in Hidden Layers of LSTM",
+      "會議名稱": "24th Asia Pacific Industrial Engineering and Management Systems (APIEMS2024), Chiang Mai, Thailand",
+      "作者群": "Ywh-Leh Chou*"
+    },
+    {
+      "論文名稱": "Production Scheduling Heuristic for Mass Customization",
+      "會議名稱": "2024 7th International Conference on Mechanical Manufacturing and Industrial Engineering (MMIE 2024)",
+      "作者群": "Zhe-Luen Tsui, Ywh-Leh Chou. Cadmus Yuan"
+    },
+    {
+      "論文名稱": "Production Scheduling Heuristic for Mass Customization with Partial Rescheduling",
+      "會議名稱": "2024 7th International Conference on Mechanical Manufacturing and Industrial Engineering (MMIE 2024)",
+      "作者群": "Zhe-Luen Tsui, Ywh-Leh Chou, Cadmus Yuan"
+    },
+    {
+      "論文名稱": "考量相異激活函數於多階隱藏層之LSTM 應用",
+      "會議名稱": "2024 International Conference on System Science and Engineering (ICSSE 2024) / 2024 National Symposium on System Science and Engineering(NSSSE 2024)",
+      "作者群": "林俊維、周育樂*"
+    },
+    {
+      "論文名稱": "運用SVM及KNN解決少量多樣生產排程問題",
+      "會議名稱": "2024 International Conference on System Science and Engineering (ICSSE 2024) / 2024 National Symposium on System Science and Engineering(NSSSE 2024)",
+      "作者群": "林珈弘、周育樂＊"
+    },
+    {
+      "論文名稱": "投入產出分析在連鎖飲料店環境中之碳排放及水資源管理應用",
+      "會議名稱": "2024 International Conference on Advancements of Business Ethics and Corporate Social Responsibility",
+      "作者群": "趙國佑、周育樂*"
+    },
+    {
+      "論文名稱": "機器學習預測模型之雙重激活函數研究",
+      "會議名稱": "2023中國工業工程學會年會暨學術研討會(CIIE 2023)",
+      "作者群": "林俊維、周育樂*"
+    },
+    {
+      "論文名稱": "Applying Machine Learning to Solve Production Scheduling Problems with Large Quantities of Customized Orders",
+      "會議名稱": "2023中國工業工程學會年會暨學術研討會(CIIE 2023)",
+      "作者群": "Jia-Hong Lin, Ywh-Leh Chou*"
+    },
+    {
+      "論文名稱": "以投入產出協助中小企業溫室氣體排放與減量-以連鎖飲料店為例",
+      "會議名稱": "2023中國工業工程學會年會暨學術研討會(CIIE 2023)",
+      "作者群": "趙國佑、周育樂*"
+    },
+    {
+      "論文名稱": "損失函數於LSTM預測模型中雙重激活函數之研究",
+      "會議名稱": "2023第十九屆台灣作業研究學會年會暨國際研討會及第21屆管理學術研討會(ORSTW2023)",
+      "作者群": "林俊維、周育樂*"
+    },
+    {
+      "論文名稱": "基於SVM解決大量個性化訂單的生產排程規劃",
+      "會議名稱": "2023第十九屆台灣作業研究學會年會暨國際研討會及第21屆管理學術研討會(ORSTW2023)",
+      "作者群": "林珈弘、周育樂*"
+    },
+    {
+      "論文名稱": "利用投入產出改善中小企業溫室氣體排放及資源浪費",
+      "會議名稱": "2023第十九屆台灣作業研究學會年會暨國際研討會及第21屆管理學術研討會(ORSTW2023)",
+      "作者群": "趙國佑、周育樂*"
+    },
+    {
+      "論文名稱": "A Prediction Model for Supply Chain Resilience with Considering Financial Indicators",
+      "會議名稱": "23rd Asia Pacific Industrial Engineering & Management System Conference (APIEMS 2023)  Kuala Lumpur, MALAYSIA",
+      "作者群": "Ywh-Leh Chou*"
+    },
+    {
+      "論文名稱": "Dynamic Dispatching for Batch Processing Machines in Semiconductor Manufacturing",
+      "會議名稱": "IEEE 19th International Conference on Automation Science and Engineering (CASE 2023) Auckland, New Zealand",
+      "作者群": "Bin Zhang, Christian John Immanuel S. Boydon, Ywh-Leh Chou, and Cheng-Hung Wu"
+    },
+    {
+      "論文名稱": "激活函數於LSTM預測成本模型中之最佳化研究",
+      "會議名稱": "2023當代管理學術研討會",
+      "作者群": "林俊維、周育樂*"
+    },
+    {
+      "論文名稱": "大規模客製訂單生產排程智慧化之研究",
+      "會議名稱": "2023 智慧生活科技與管理研討會",
+      "作者群": "林珈弘、袁長安、周育樂*"
+    },
+    {
+      "論文名稱": "An Intelligence PLS-based Supply Chain Resilience Prediction Model",
+      "會議名稱": "2023 Symposium on SMART Living Technology and Management (2023 SLTM)",
+      "作者群": "Vania Voren, Ywh-Leh Chou*"
+    },
+    {
+      "論文名稱": "A Hierarchical Yield and Throughput Rate Forecasting Method for Backend Semiconductor Manufacturing",
+      "會議名稱": "20th Asia Pacific Industrial Engineering and Management Systems Conference (APIEMS 2019) Kanazawa, Japan",
+      "作者群": "Ywh-Leh Chou, Yu-Hsin Chang, Cheng-Juei Yu, and Cheng-Hung Wu"
+    }
+  ],
+  "book": [],
+  "patent": [],
+  "most": [
+    {
+      "name": "強化供應鏈韌性及適應性：考慮未知偏好下之多準則智慧決策方法(2/2)",
+      "schoolYear": "112"
+    },
+    {
+      "name": "強化供應鏈韌性及適應性：考慮未知偏好下之多準則智慧決策方法(1/2)",
+      "schoolYear": "111"
+    }
+  ],
+  "tech": [],
+  "induAca": [
+    "Line Plan作業智動化實作專案 (2023-11 to 2024-10)",
+    "志強國際Line Plan智動化研究專案 (2022-10 to 2023-09)"
+  ],
+  "perform": [],
+  "reward": [
+    "113年度國科會補助大專校院研究獎勵 (113, 2024-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (113, 2024-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (113, 2024-11) - 逢甲大學"
+  ],
+  "speech": [],
+  "material": [],
+  "tal": []
+}

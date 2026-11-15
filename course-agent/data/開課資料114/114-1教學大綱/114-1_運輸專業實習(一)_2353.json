@@ -1,0 +1,450 @@
+{
+  "success": true,
+  "info": {
+    "yms_year": 114.0,
+    "yms_smester": 1.0,
+    "sub_id": "58952",
+    "cls_id": "CM02320",
+    "scr_dup": "001",
+    "sub_id3": "TLOG6019",
+    "cls_name": "運輸物流碩二",
+    "cls_ename": "Master's Program, Department of Transportation and Logistics",
+    "sub_name": "運輸專業實習(一)",
+    "sub_ename": "TRANSPORTATION INTERNSHIP (1)",
+    "scr_mso": "選修",
+    "scr_mso_en": "Elective",
+    "scr_credit": 9.0,
+    "scr_periodly": "(五)00",
+    "scr_periodly_eng": "(Fri)00",
+    "lang_name": "中文                                                      ",
+    "lang_ename": "Chinese",
+    "scr_room": " ",
+    "scr_room_eng": " ",
+    "scr_teacher": "温傑華,翁祥凱,洪百賢,林大傑,吳沛儒,郭仲偉",
+    "scr_teacher_eng": "Chieh-Hua Wen,Hsiang-Kai Weng,Pai-Hsien Hung,Da-Jie Lin,Pei-Ju Wu,Chung-Wei Kuo",
+    "scr_selcode": "2353",
+    "scr_elearning": "全學期",
+    "scr_elearning_en": "Full semester",
+    "scr_hours": "1",
+    "scr_english": "N",
+    "unt_name": null,
+    "unt_ename": null,
+    "link_traminal": null,
+    "link_traminal_en": null,
+    "scr_ldl": "D",
+    "course_mk": "N",
+    "teams_mk": "N",
+    "sub_title": null,
+    "sub_title_en": null,
+    "sub_describe": null,
+    "sub_describe_en": null,
+    "hasDescription": null,
+    "hasInstructor": null,
+    "hasTA": null,
+    "hasTextBooks": null,
+    "hasReadings": null,
+    "hasiSoftwares": null,
+    "hasAssistSoftwares": null,
+    "hasObjective": null,
+    "hasWeeklyScds": null,
+    "hasGradeRules": null,
+    "hasGradeRuleDescribe": null,
+    "hasIntegrity": null,
+    "hasCoursePol": null,
+    "hasCourseRem": null,
+    "hasObjectiveReleation": null,
+    "hasTopicSdgs": null,
+    "hasSubTitleDesc": null
+  },
+  "subTitleDesc": null,
+  "description": {
+    "sub_id3": null,
+    "sub_name": "運輸專業實習(一)",
+    "sub_ename": "TRANSPORTATION INTERNSHIP (1)",
+    "describe_ch": "本課程鼓勵本系碩士班與碩士在職專班學生??與實務整合，參與運輸專業實習，以增進就業競爭?。實習學生於上學期提出實習計畫書，經指導教授同意後，與實習單位安排之專業輔導老師(受聘業師)共同指導。實習學生應於實習前參加本系舉辦之職前講習，參與實務工作達800小時以上，就實習單位實際問題，填寫實習週誌(問題發掘與問題解決方案)、實習月報(問題討論與心得報告)、與學期報告(書面與口頭簡報)。",
+    "describe_eh": "With an aim to integrate theory with practice, this course encourages master and executive master students of this department to participate in transportation expertise internship program to improve their productivity and competitiveness. Students participating in the internship need to write an internship proposal, which must be approved by their academic advisor, and jointly instructed by an internship mentor appointed by the internship agent and the academic advisor. Students have to take a pre-internship readiness program held by the department and complete more than 800 hours of practical work as part of the internship. They must focus on and deal with practical problems in their respective units and complete weekly diary (including problem identification and resolution strategies) and monthly report (including problem discussion and comments). At the end of the internship, students have to hand in an overall internship report and prepare for oral presentation.",
+    "pre_subname": "",
+    "pre_sub_id3": null,
+    "pre_sub_ename": "",
+    "pre_describe": null,
+    "pre_describe_en": null,
+    "scr_credit": 9.0
+  },
+  "targets": [
+    {
+      "seq": 1,
+      "describe_ch": "各類運輸經營管理模式",
+      "describe_en": "Understand operation and management models of various transportation systems."
+    },
+    {
+      "seq": 2,
+      "describe_ch": "能執行交通工程師應盡之專業倫理道德",
+      "describe_en": "Be able to enforce professional ethics of traffic engineer."
+    },
+    {
+      "seq": 3,
+      "describe_ch": "撰寫研究論文、技術報告、相互研討、製作簡報及口頭報告",
+      "describe_en": "Possess the abilities of writing research papers or technical reports, mutual discussion, presentation documents preparation, and oral presentations."
+    }
+  ],
+  "teachersInfo": [
+    {
+      "cname": "温傑華",
+      "ename": "Chieh-Hua Wen",
+      "period": "(Fri)05-06 紀507,(Fri)07-08 紀507",
+      "roletype": 0,
+      "email": "chwen@o365.fcu.edu.tw",
+      "ext": "4679"
+    },
+    {
+      "cname": "翁祥凱",
+      "ename": "Hsiang-Kai Weng",
+      "period": "(Wed)02-03 紀525,(Thu)02-03 紀525",
+      "roletype": 0,
+      "email": "hkweng@o365.fcu.edu.tw",
+      "ext": "4661"
+    },
+    {
+      "cname": "洪百賢",
+      "ename": "Pai-Hsien Hung",
+      "period": "(Mon)06-07 紀526,(Tue)03-04 紀526",
+      "roletype": 0,
+      "email": "phhung@o365.fcu.edu.tw",
+      "ext": "4663"
+    },
+    {
+      "cname": "林大傑",
+      "ename": "Da-Jie Lin",
+      "period": "(Wed)01-02 503,(Wed)03-04 503",
+      "roletype": 0,
+      "email": "dajielin@o365.fcu.edu.tw",
+      "ext": "4670"
+    },
+    {
+      "cname": "吳沛儒",
+      "ename": "Pei-Ju Wu",
+      "period": "(Tue)09-10 紀523,(Wed)09-10 紀523",
+      "roletype": 0,
+      "email": "wupj@o365.fcu.edu.tw",
+      "ext": "4668"
+    },
+    {
+      "cname": "郭仲偉",
+      "ename": "Chung-Wei Kuo",
+      "period": "(Tue)06-07 紀520,(Tue)08  紀520,(Wed)06-07 紀520,(Wed)08  紀520",
+      "roletype": 0,
+      "email": "cweikuo@o365.fcu.edu.tw",
+      "ext": "4664"
+    }
+  ],
+  "textBooks": {
+    "yms_year": 114.0,
+    "yms_smester": 1.0,
+    "cls_id": "CM02320",
+    "sub_id": "58952",
+    "scr_dup": "001",
+    "tpb_seq": 1,
+    "tpb_book": "<div>實習單位提供之相關資料。</div>\n",
+    "tpb_book_en": " "
+  },
+  "readings": {
+    "yms_year": 114.0,
+    "yms_smester": 1.0,
+    "cls_id": "CM02320",
+    "sub_id": "58952",
+    "scr_dup": "001",
+    "tpc_seq": 1,
+    "tpc_book": "<div>實習單位提供之相關資料。</div>\n",
+    "tpc_book_en": " "
+  },
+  "iSoftwares": [],
+  "assistSoftwares": [],
+  "weeklyScds": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CM02320",
+      "sub_id": "58952",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "1~18",
+      "tpd_reading": "<div>1.實習學生於上學期提出實習計畫書，經指導教授之同意後，由實習單位協助安排固定之專業指導老師(受聘業師)，於一定時間內完成報到手續，進行實習。碩士論文指導，以原指導教授與實習單位業師共同擔任，碩士論文得撰寫以產業報告之實務型論文。</div>\n\n<div>2.實習期間學生應依規定填寫「實習報告單」、「心得報告單」及「學生實習體驗成效評估表」等實習文件。</div>\n\n<div>&nbsp;</div>\n",
+      "tpd_reading_en": " ",
+      "tpd_learn": "<div>依照實習單位提供之教學與學習活動！</div>\n\n<div>&nbsp;</div>\n\n<div>依規定填寫實習生實習報告單(實習生)，按時繳交予實習單位專業實習導師批閱。</div>\n\n<div>&nbsp;</div>\n\n<div>實習結束後，學生須繳交實習生體驗成效評估表(實習生)，實習單位由專業實習導師針對學生的工作表現填寫實習機構合作體驗成效評估表(實習機構)。</div>\n\n<div><br />\n實習學生應於實習結束後繳交實習生實習成果心得報告(實習生)，並於本系安排之<br />\n時間進行心得報告(口頭/錄影)。</div>\n\n<div>&nbsp;</div>\n",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    }
+  ],
+  "gradeRules": [],
+  "gradeRuleDescribe": {
+    "yms_year": 114.0,
+    "yms_smester": 1.0,
+    "cls_id": "CM02320",
+    "sub_id": "58952",
+    "scr_dup": "001",
+    "tpa_score_new": "實習課程選課及成績評量方式如下：\n一、\t本系於碩士班二年級上、下學期分別開設9學分之運輸專業實習(一)、運輸專業實習(二)選修課程。\n二、\t實習總成績50％為實習單位業師之考評分數，30％為指導老師之之考評分數，20%為實習報告分數，合計成績達70分以上為通過，按學期分別採計「運輸專業實習(一)、運輸專業實習(二)」各9學分為畢業學分。\n如因故未能完成實習，且經考核成績為通過者，以每實習80小時得認列1學分(以每週工作天為五天，一天工作8小時計算基準，工作兩週得認列1學分)為原則，採計畢業學分。",
+    "tpa_score_new_en": " ",
+    "course_pol": "實習敬請遵守學校以及系上之實習作業要點/規則/注意事項！\n實習學生於實習期間應維護本校及本系形象，不得有傷害校譽之情事，同時亦須注意自身安全。\n實習期間學生應依照實習單位所規定時間準時上、下班，上下班時須簽到退。每個月若無故未到職3 天以上，本系將會配合實習單位撤銷未完成之實習。",
+    "course_pol_en": null,
+    "course_rem": null,
+    "course_rem_en": null,
+    "ais_meno": "<div>希冀同學們在作業或是期末報告，可以遵守學術誠信，不可抄襲剽竊(plagiarism)他人圖、文字、構想！<br />\n若有作業報告，敬請使用抄襲比對系統(圖書館Turnitin)，宣告抄襲比例原則。</div>\n",
+    "ais_meno_en": null,
+    "ilearn_mk": null
+  },
+  "integrity": {
+    "yms_year": 114.0,
+    "yms_smester": 1.0,
+    "cls_id": "CM02320",
+    "sub_id": "58952",
+    "scr_dup": "001",
+    "tpa_score_new": "實習課程選課及成績評量方式如下：\n一、\t本系於碩士班二年級上、下學期分別開設9學分之運輸專業實習(一)、運輸專業實習(二)選修課程。\n二、\t實習總成績50％為實習單位業師之考評分數，30％為指導老師之之考評分數，20%為實習報告分數，合計成績達70分以上為通過，按學期分別採計「運輸專業實習(一)、運輸專業實習(二)」各9學分為畢業學分。\n如因故未能完成實習，且經考核成績為通過者，以每實習80小時得認列1學分(以每週工作天為五天，一天工作8小時計算基準，工作兩週得認列1學分)為原則，採計畢業學分。",
+    "tpa_score_new_en": " ",
+    "course_pol": "實習敬請遵守學校以及系上之實習作業要點/規則/注意事項！\n實習學生於實習期間應維護本校及本系形象，不得有傷害校譽之情事，同時亦須注意自身安全。\n實習期間學生應依照實習單位所規定時間準時上、下班，上下班時須簽到退。每個月若無故未到職3 天以上，本系將會配合實習單位撤銷未完成之實習。",
+    "course_pol_en": null,
+    "course_rem": null,
+    "course_rem_en": null,
+    "ais_meno": "<div>希冀同學們在作業或是期末報告，可以遵守學術誠信，不可抄襲剽竊(plagiarism)他人圖、文字、構想！<br />\n若有作業報告，敬請使用抄襲比對系統(圖書館Turnitin)，宣告抄襲比例原則。</div>\n",
+    "ais_meno_en": null,
+    "ilearn_mk": null
+  },
+  "policy": {
+    "yms_year": 114.0,
+    "yms_smester": 1.0,
+    "cls_id": "CM02320",
+    "sub_id": "58952",
+    "scr_dup": "001",
+    "tpa_score_new": "實習課程選課及成績評量方式如下：\n一、\t本系於碩士班二年級上、下學期分別開設9學分之運輸專業實習(一)、運輸專業實習(二)選修課程。\n二、\t實習總成績50％為實習單位業師之考評分數，30％為指導老師之之考評分數，20%為實習報告分數，合計成績達70分以上為通過，按學期分別採計「運輸專業實習(一)、運輸專業實習(二)」各9學分為畢業學分。\n如因故未能完成實習，且經考核成績為通過者，以每實習80小時得認列1學分(以每週工作天為五天，一天工作8小時計算基準，工作兩週得認列1學分)為原則，採計畢業學分。",
+    "tpa_score_new_en": " ",
+    "course_pol": "實習敬請遵守學校以及系上之實習作業要點/規則/注意事項！\n實習學生於實習期間應維護本校及本系形象，不得有傷害校譽之情事，同時亦須注意自身安全。\n實習期間學生應依照實習單位所規定時間準時上、下班，上下班時須簽到退。每個月若無故未到職3 天以上，本系將會配合實習單位撤銷未完成之實習。",
+    "course_pol_en": null,
+    "course_rem": null,
+    "course_rem_en": null,
+    "ais_meno": "<div>希冀同學們在作業或是期末報告，可以遵守學術誠信，不可抄襲剽竊(plagiarism)他人圖、文字、構想！<br />\n若有作業報告，敬請使用抄襲比對系統(圖書館Turnitin)，宣告抄襲比例原則。</div>\n",
+    "ais_meno_en": null,
+    "ilearn_mk": null
+  },
+  "courseBankC": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CM02320",
+      "sub_id": "58952",
+      "scr_dup": "001",
+      "seq": 1,
+      "describe_ch": "各類運輸經營管理模式",
+      "describe_en": "Understand operation and management models of various transportation systems.",
+      "core_id": "A",
+      "core_item": "具備運輸或物流領域專業知識、創新思考及運用跨領域知識解決問題之能力。",
+      "core_eng": " ",
+      "core_level": "3 ",
+      "strgy": [
+        "17"
+      ],
+      "evalb": [
+        "G4"
+      ],
+      "strgy_name": [
+        "產業實習"
+      ],
+      "strgy_name_en": [
+        "Internship"
+      ],
+      "evalb_name": [
+        "專業實習報告"
+      ],
+      "evalb_name_en": [
+        "Internship report"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CM02320",
+          "sub_id": "58952",
+          "scr_dup": "001",
+          "seq": 1,
+          "strgy_id": "17",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CM02320",
+          "sub_id": "58952",
+          "scr_dup": "001",
+          "seq": 1,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "G4",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CM02320",
+      "sub_id": "58952",
+      "scr_dup": "001",
+      "seq": 2,
+      "describe_ch": "能執行交通工程師應盡之專業倫理道德",
+      "describe_en": "Be able to enforce professional ethics of traffic engineer.",
+      "core_id": "D",
+      "core_item": "具備領導、專案管理、口語與文字之溝通表達及團隊合作能力。",
+      "core_eng": " ",
+      "core_level": "3 ",
+      "strgy": [
+        "17"
+      ],
+      "evalb": [
+        "G4"
+      ],
+      "strgy_name": [
+        "產業實習"
+      ],
+      "strgy_name_en": [
+        "Internship"
+      ],
+      "evalb_name": [
+        "專業實習報告"
+      ],
+      "evalb_name_en": [
+        "Internship report"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CM02320",
+          "sub_id": "58952",
+          "scr_dup": "001",
+          "seq": 2,
+          "strgy_id": "17",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CM02320",
+          "sub_id": "58952",
+          "scr_dup": "001",
+          "seq": 2,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "G4",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CM02320",
+      "sub_id": "58952",
+      "scr_dup": "001",
+      "seq": 3,
+      "describe_ch": "撰寫研究論文、技術報告、相互研討、製作簡報及口頭報告",
+      "describe_en": "Possess the abilities of writing research papers or technical reports, mutual discussion, presentation documents preparation, and oral presentations.",
+      "core_id": "E",
+      "core_item": "具備透過多元觀點發現、解析或評估運輸與物流問題之認知能力。",
+      "core_eng": " ",
+      "core_level": "5 ",
+      "strgy": [
+        "17"
+      ],
+      "evalb": [
+        "G4"
+      ],
+      "strgy_name": [
+        "產業實習"
+      ],
+      "strgy_name_en": [
+        "Internship"
+      ],
+      "evalb_name": [
+        "專業實習報告"
+      ],
+      "evalb_name_en": [
+        "Internship report"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CM02320",
+          "sub_id": "58952",
+          "scr_dup": "001",
+          "seq": 3,
+          "strgy_id": "17",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CM02320",
+          "sub_id": "58952",
+          "scr_dup": "001",
+          "seq": 3,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "G4",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    }
+  ],
+  "topicSdgs": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CM02320",
+      "sub_id": "58952",
+      "scr_dup": "001",
+      "sdgs_seq": 13,
+      "main_related": "N",
+      "ind_related": "Y",
+      "iss_name": "環境保護面",
+      "iss_ename": "Environmental Protection",
+      "content_name": "永續通勤與居住環境",
+      "content_ename": "Sustainable Cities and Communities"
+    }
+  ],
+  "learnHours": {
+    "total": 0.0,
+    "tpdOnlineAsyTotal": 0.0,
+    "tpdOnlineSynTotal": 0.0,
+    "tpdOnlineFaceTotal": 0.0,
+    "asySynInTotalPercent": 0.0
+  },
+  "crossVerYear": 114
+}

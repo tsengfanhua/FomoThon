@@ -1,0 +1,92 @@
+{
+  "teacherId": "T97239",
+  "name": "林瑞欽",
+  "mainUnit": "資訊電機學院",
+  "detailUnit": "電機工程學系",
+  "skill": [
+    "微機電製程與封裝",
+    "陶瓷材料",
+    "RF濾波器、雙工器及多工器設計、5G RF front-end應用",
+    "專利分析、布局及戰略",
+    "晶圓廠管理"
+  ],
+  "edu": [
+    "中山大學 電機工程學系 博士"
+  ],
+  "fcuExp": [
+    "電子工程學系 博士後研究人員",
+    "電機工程學系 助理教授"
+  ],
+  "currjob": [],
+  "otherExp": [],
+  "journal": [
+    {
+      "論文名稱": "Reduction of TCF effect in FBAR devices using DC bias",
+      "期刊名稱": "Applied Physics Letters (SSCI)",
+      "作者群": "Re-Ching Lin* and Shih-Jye Sun"
+    },
+    {
+      "論文名稱": "Effect of phase correction produced by trimming layer on thin film bulk acoustic resonator",
+      "期刊名稱": "Journal of Applied Physics (SSCI)",
+      "作者群": "Re-Ching Lin, Dapeng Zhang, Wei-Sheng Huang, Zheng-You Chen, Shih-Jye Sun"
+    },
+    {
+      "論文名稱": "Reliable formulas for accurately determining the resonance and\nantiresonance frequencies of thin film bulk acoustic resonators",
+      "期刊名稱": "Physica Scripta (SSCI)",
+      "作者群": "Dapeng Zhang, Zheng-You Chen, Re-Ching Lin* , and Shih-Jye Sun"
+    },
+    {
+      "論文名稱": "Influence of AlN/ScAlN piezoelectric multilayer on the\nelectromechanical coupling of FBAR",
+      "期刊名稱": "Micro and Nanostructures (SSCI)",
+      "作者群": "Qi-Wei Yang, Re-Ching Lin*, Shih-Jye Sun"
+    }
+  ],
+  "journal2": [],
+  "conference": [
+    {
+      "論文名稱": "Advanced Ultra-Thin Wafer Level Packaging of Bulk Acoustic Wave Filters for RF Front-End Module Integration",
+      "會議名稱": "IEDMS & SNDCT 2024",
+      "作者群": "Re-Ching Lin, Shih-Jye Sun, Chien-Chuan Cheng, Feng Xu  and Jia-Jun Liao"
+    }
+  ],
+  "book": [],
+  "patent": [
+    {
+      "title": "發明",
+      "desc": "薄膜体声波谐振器及其制作方法、以及滤波器"
+    },
+    {
+      "title": "發明",
+      "desc": "一种具有衬底金属层的体声波谐振结构及滤波器"
+    },
+    {
+      "title": "發明",
+      "desc": "一种具有插入膜层的体声波谐振结构及滤波器"
+    }
+  ],
+  "most": [
+    {
+      "name": "可調機電耦合係數之薄膜體聲波寬頻濾波器於5G及WiFi 7通訊系統之應用",
+      "schoolYear": "112"
+    },
+    {
+      "name": "磁性/非磁性(核殼)奈米粒子、奈米線和奈米薄膜的合成與物性研究(博士後研究：林瑞欽)（97年促進短期就業措施增核員額）",
+      "schoolYear": "97"
+    }
+  ],
+  "tech": [],
+  "induAca": [
+    "射頻濾波器陶瓷封裝基板設計 (2024-05 to 2024-12)"
+  ],
+  "perform": [],
+  "reward": [],
+  "speech": [
+    {
+      "演講題目": "射頻前端模組的技術發展、市場趨勢及挑戰",
+      "邀請單位": "中華民國微波協會，台灣電磁產學聯盟",
+      "演講日期": "2024-08"
+    }
+  ],
+  "material": [],
+  "tal": []
+}

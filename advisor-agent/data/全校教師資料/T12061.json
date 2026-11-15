@@ -1,0 +1,139 @@
+{
+  "teacherId": "T12061",
+  "name": "劉至軒",
+  "mainUnit": "建設學院",
+  "detailUnit": "土木工程學系",
+  "skill": [
+    "土壤力學Soil mechanics",
+    "土壤加勁Soil reinforcement",
+    "土壤穩定Soil stabilization",
+    "數值方法Numerical methods",
+    "地質災害Geo-hazards"
+  ],
+  "edu": [
+    "國立成功大學 土木工程學系 博士",
+    "國立成功大學 土木工程學系 學士"
+  ],
+  "fcuExp": [
+    "土木工程學系 助理教授"
+  ],
+  "currjob": [],
+  "otherExp": [
+    "國立成功大學 土木工程學系 博士後研究"
+  ],
+  "journal": [
+    {
+      "論文名稱": "基於AI的開挖工程快速檢核工具開發",
+      "期刊名稱": "地工技術 (華藝線上圖書館)",
+      "作者群": "陳捷昇、陳奕銓、趙曉周、章雅涵、劉至軒、游濟華、洪瀞"
+    },
+    {
+      "論文名稱": "Synergistic effects of colloidal nanosilica and fiber on the hydromechanical performance of mudstone soil in Taiwan.",
+      "期刊名稱": "Acta Geotechnica (SCIE)",
+      "作者群": "Liu, C. H.*, Ghadr, S., Mrudunayani, P., & Hung, C."
+    },
+    {
+      "論文名稱": "Reutilization of solid wastes to improve the hydromechanical and mechanical behaviors of soils—a state-of-the-art review.",
+      "期刊名稱": "Sustainable Environment Research (SCIE)",
+      "作者群": "Liu, C. H.*, & Hung, C."
+    },
+    {
+      "論文名稱": "Enhancing the mechanical and hydromechanical behaviors of mudstone soils using sugarcane press mud.",
+      "期刊名稱": "Transportation Geotechnics (SCIE)",
+      "作者群": "Gumanta, F. S., Ghadr, S., Chen, C. S., Liu, C. H.*, Hung, C., & Assadi-Langroudi, A."
+    },
+    {
+      "論文名稱": "Impedance effect of baffle piles on granular flow: a numerical investigation using coupled Eulerian-Lagrangian technique.",
+      "期刊名稱": "Journal of GeoEngineering (EI)",
+      "作者群": "Liu, C. H.*, Suryo, K., & Hung, C."
+    },
+    {
+      "論文名稱": "Mechanical behavior of sands reinforced with shredded face masks.",
+      "期刊名稱": "Bulletin of Engineering Geology and the Environment (SCIE)",
+      "作者群": "Ghadr, S., Chen, C. S., Liu, C. H.*, & Hung, C."
+    },
+    {
+      "論文名稱": "Effects of hydrophilic and hydrophobic nanosilica on the hydromechanical behaviors of mudstone soil.",
+      "期刊名稱": "Construction and Building Materials (SCIE)",
+      "作者群": "Ghadr, S., Liu, C. H.*, Mrudunayani, P., & Hung, C."
+    },
+    {
+      "論文名稱": "Three-dimensional finite element analysis of geosynthetic-reinforced soil walls with turning corners.",
+      "期刊名稱": "Geotextiles and Geomembranes (SCIE)",
+      "作者群": "Hung, C., Liu. C. H.,* & Liu, H."
+    },
+    {
+      "論文名稱": "Relationship Between Arias Intensity and the Earthquake-Induced Displacements of Slopes",
+      "期刊名稱": "Understanding and Reducing Landslide Disaster Risk: Volume 6 Specific Topics in Landslide Science and Applications 5th (EI)",
+      "作者群": "Hung, C., Liu, C. H.*, Wang, H. H."
+    },
+    {
+      "論文名稱": "Responses of GRS Walls with Secondary Reinforcements Subjected to Earthquake Loading.",
+      "期刊名稱": "Applied Sciences (SCIE)",
+      "作者群": "Liu, C. H.*, & Hung, C."
+    },
+    {
+      "論文名稱": "Finite Element Studies of an Earthquake-Induced Landslide Using Different Plastic Flow Rules",
+      "期刊名稱": "Eighth International Conference on Case Histories in Geotechnical Engineering (EI)",
+      "作者群": "Liu, C. H.*, Hung, C., Liu, HB."
+    },
+    {
+      "論文名稱": "Numerical investigation of rainfall-induced landslide in mudstone using coupled finite and discrete element analysis.",
+      "期刊名稱": "Geofluids (SCIE)",
+      "作者群": "Hung, C., Liu, C. H.,*, Chang, C. M."
+    },
+    {
+      "論文名稱": "The Aso-Bridge coseismic landslide: a numerical investigation of failure and runout behavior using finite and discrete element methods.",
+      "期刊名稱": "Bulletin of Engineering Geology and the Environment (SCIE)",
+      "作者群": "Hung, C., Liu, C. H.*, Lin, G. W., & Leshchinsky, B."
+    }
+  ],
+  "journal2": [],
+  "conference": [
+    {
+      "論文名稱": "3D列印技術製作及設計土壤加勁材之初步研究",
+      "會議名稱": "第二十屆大地工程學術研討會",
+      "作者群": "林靜妤、羅啟誠、劉至軒*、洪瀞"
+    },
+    {
+      "論文名稱": "A Verification Tool for Deep Excavation Design Assessment Based on AI",
+      "會議名稱": "第二十屆大地工程學術研討會",
+      "作者群": "Chen, C. S., Chen, Y. C., Chao, H. C., Chang, Y. H., Liu, C. H.*, Hung, C."
+    },
+    {
+      "論文名稱": "加勁擋土牆地震反應與組合地震動強度指標之關係研究",
+      "會議名稱": "中華民國力學學會第四十七屆全國力學會議 (CTAM 2023)",
+      "作者群": "劉至軒"
+    }
+  ],
+  "book": [],
+  "patent": [
+    {
+      "title": "發明",
+      "desc": "土壤組成物及其製造方法"
+    }
+  ],
+  "most": [
+    {
+      "name": "內轉角效應於加勁擋土牆之三維有限元素分析",
+      "schoolYear": "113"
+    }
+  ],
+  "tech": [
+    {
+      "論文名稱": "次加勁材暨轉角效應於加勁擋土牆之數值分析研究 (2022-01)",
+      "書名": "博士論文",
+      "作者群": "劉至軒"
+    }
+  ],
+  "induAca": [],
+  "perform": [],
+  "reward": [
+    "2022 Excellent Paper Award (111, 2023-04) - 中華民國大地工程學會",
+    "THE IGS STUDENT AWARD 2022 (111, 2022-11) - International Geosynthetics Society",
+    "中華地工材料協會碩博士論文獎 (110, 2022-04) - 中華地工材料協會"
+  ],
+  "speech": [],
+  "material": [],
+  "tal": []
+}

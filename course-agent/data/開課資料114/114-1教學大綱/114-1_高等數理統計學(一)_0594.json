@@ -1,0 +1,808 @@
+{
+  "success": true,
+  "info": {
+    "yms_year": 114.0,
+    "yms_smester": 1.0,
+    "sub_id": "31185",
+    "cls_id": "CB07310",
+    "scr_dup": "001",
+    "sub_id3": "STAT6045",
+    "cls_name": "統精碩一",
+    "cls_ename": "Master's Program in Statistics and Actuarial Science, Department of Statistics",
+    "sub_name": "高等數理統計學(一)",
+    "sub_ename": "ADVANCED MATHEMATICAL STATISTICS (1)",
+    "scr_mso": "選修",
+    "scr_mso_en": "Elective",
+    "scr_credit": 3.0,
+    "scr_periodly": "(四)02-04",
+    "scr_periodly_eng": "(Thu)02-04",
+    "lang_name": "中文                                                      ",
+    "lang_ename": "Chinese",
+    "scr_room": "商1011",
+    "scr_room_eng": "BB1011",
+    "scr_teacher": "賴暐婷",
+    "scr_teacher_eng": "Wei-Ting Lai",
+    "scr_selcode": "0594",
+    "scr_elearning": "全學期",
+    "scr_elearning_en": "Full semester",
+    "scr_hours": "3",
+    "scr_english": "N",
+    "unt_name": null,
+    "unt_ename": null,
+    "link_traminal": null,
+    "link_traminal_en": null,
+    "scr_ldl": "D",
+    "course_mk": "N",
+    "teams_mk": "N",
+    "sub_title": null,
+    "sub_title_en": null,
+    "sub_describe": null,
+    "sub_describe_en": null,
+    "hasDescription": null,
+    "hasInstructor": null,
+    "hasTA": null,
+    "hasTextBooks": null,
+    "hasReadings": null,
+    "hasiSoftwares": null,
+    "hasAssistSoftwares": null,
+    "hasObjective": null,
+    "hasWeeklyScds": null,
+    "hasGradeRules": null,
+    "hasGradeRuleDescribe": null,
+    "hasIntegrity": null,
+    "hasCoursePol": null,
+    "hasCourseRem": null,
+    "hasObjectiveReleation": null,
+    "hasTopicSdgs": null,
+    "hasSubTitleDesc": null
+  },
+  "subTitleDesc": null,
+  "description": {
+    "sub_id3": null,
+    "sub_name": "高等數理統計學(一)",
+    "sub_ename": "ADVANCED MATHEMATICAL STATISTICS (1)",
+    "describe_ch": "研討統計理論，以建立其他統計課程基礎，使學生在統計之理論上有較深一層之瞭解，使期能更正確的運用統計方法。本課程著重於機率理論的部份。",
+    "describe_eh": "To provide a solid and well-balanced introduction to probability theory and mathematical statistics. Topics covered include probability theory, probability spaces, distribution of random variables, distribution function of random variables, discrete probability distribution, continuous probability distribution, and characteristic function.",
+    "pre_subname": "",
+    "pre_sub_id3": null,
+    "pre_sub_ename": "",
+    "pre_describe": null,
+    "pre_describe_en": null,
+    "scr_credit": 3.0
+  },
+  "targets": [
+    {
+      "seq": 1,
+      "describe_ch": "知道機率分佈函數與隨機變數的數學架構。",
+      "describe_en": "To know the mathematical framework of the probability distribution and random variable."
+    },
+    {
+      "seq": 2,
+      "describe_ch": "理解各種不同的收斂型態。",
+      "describe_en": "Comprehension for various modes of convergence of random variables."
+    },
+    {
+      "seq": 3,
+      "describe_ch": "應用各類極限定理。",
+      "describe_en": "To apply the limit theorems."
+    },
+    {
+      "seq": 4,
+      "describe_ch": "綜合統計推論基本觀念及其應用",
+      "describe_en": "Synthesis of the basic concept of statistical inference and its application"
+    }
+  ],
+  "teachersInfo": [
+    {
+      "cname": "賴暐婷",
+      "ename": "Wei-Ting Lai",
+      "period": "(Mon)07-08 商1046,(Tue)07-08 商1046",
+      "roletype": 0,
+      "email": "wtlai@o365.fcu.edu.tw",
+      "ext": "4015"
+    }
+  ],
+  "textBooks": {
+    "yms_year": 114.0,
+    "yms_smester": 1.0,
+    "cls_id": "CB07310",
+    "sub_id": "31185",
+    "scr_dup": "001",
+    "tpb_seq": 1,
+    "tpb_book": "<div>George Casella and Roger L. Berger (2002). &quot;Statistical Inference&nbsp;&quot;&nbsp;2nd ed., ISBN：9780534243128</div>\n",
+    "tpb_book_en": null
+  },
+  "readings": {
+    "yms_year": 114.0,
+    "yms_smester": 1.0,
+    "cls_id": "CB07310",
+    "sub_id": "31185",
+    "scr_dup": "001",
+    "tpc_seq": 1,
+    "tpc_book": "<div>需要有課本</div>\n",
+    "tpc_book_en": null
+  },
+  "iSoftwares": [],
+  "assistSoftwares": [],
+  "weeklyScds": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CB07310",
+      "sub_id": "31185",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "1",
+      "tpd_reading": "<div>Set Theory</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": null,
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": "每周繳交作業並上台報告",
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CB07310",
+      "sub_id": "31185",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "2",
+      "tpd_reading": "<div>Basics of Probability Theory</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": null,
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": "每周繳交作業並上台報告",
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CB07310",
+      "sub_id": "31185",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "3",
+      "tpd_reading": "<div>Random Variables</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": null,
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": "每周繳交作業並上台報告",
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CB07310",
+      "sub_id": "31185",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "4-6",
+      "tpd_reading": "<div>Transformations and Expectations&nbsp;</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": null,
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": "每周繳交作業並上台報告",
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CB07310",
+      "sub_id": "31185",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "7-10",
+      "tpd_reading": "<div>Common Families of Distributions&nbsp;</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": null,
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": "每周繳交作業並上台報告",
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CB07310",
+      "sub_id": "31185",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "11-13",
+      "tpd_reading": "<div>Multiple Random Variables&nbsp;</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": null,
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": "每周繳交作業並上台報告",
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CB07310",
+      "sub_id": "31185",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "14-18",
+      "tpd_reading": "<div>Properties of a Random Sample</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": null,
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": "每周繳交作業並上台報告",
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    }
+  ],
+  "gradeRules": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CB07310",
+      "sub_id": "31185",
+      "scr_dup": "001",
+      "evalb_id": "D4",
+      "score_rate": 50,
+      "evalb_memo": "繳交方式：隨堂抽學生上台講解",
+      "evalb_memo_en": null,
+      "evalb_name": "作業",
+      "evalb_name_en": "Homework",
+      "seq": 1
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CB07310",
+      "sub_id": "31185",
+      "scr_dup": "001",
+      "evalb_id": "K2",
+      "score_rate": 20,
+      "evalb_memo": "期中報告:讓同學研讀論文，並口頭報告。",
+      "evalb_memo_en": null,
+      "evalb_name": "口頭報告",
+      "evalb_name_en": "Oral presentation",
+      "seq": 2
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CB07310",
+      "sub_id": "31185",
+      "scr_dup": "001",
+      "evalb_id": "D5",
+      "score_rate": 30,
+      "evalb_memo": "接續期中論文研讀報告。",
+      "evalb_memo_en": null,
+      "evalb_name": "期末專題",
+      "evalb_name_en": "Final presentation",
+      "seq": 3
+    }
+  ],
+  "gradeRuleDescribe": {
+    "yms_year": 114.0,
+    "yms_smester": 1.0,
+    "cls_id": "CB07310",
+    "sub_id": "31185",
+    "scr_dup": "001",
+    "tpa_score_new": "<div>每週作業，繳交方式為隨機抽選同學上台報告。</div>\n\n<div>本課無期中期末考。</div>\n",
+    "tpa_score_new_en": null,
+    "course_pol": "為加強團隊合作、理論應用及上台報告等綜合能力，本課程以分組討論方式進行報告。同組組員分數相同，組員出席率不影響成績，但缺席/請假次數過多者，將被分為自己獨立一組，並視情況繳交額外的報告。",
+    "course_pol_en": null,
+    "course_rem": null,
+    "course_rem_en": null,
+    "ais_meno": "<div>學術誠信原則：抄襲、作弊等違反學術誠信者，學期總成績以0分計。</div>\n\n<div>若有任何被授課老師主觀認為是不誠實的事宜，將以違反學術誠信論處。</div>\n\n<div>&nbsp;</div>\n",
+    "ais_meno_en": null,
+    "ilearn_mk": "N"
+  },
+  "integrity": {
+    "yms_year": 114.0,
+    "yms_smester": 1.0,
+    "cls_id": "CB07310",
+    "sub_id": "31185",
+    "scr_dup": "001",
+    "tpa_score_new": "<div>每週作業，繳交方式為隨機抽選同學上台報告。</div>\n\n<div>本課無期中期末考。</div>\n",
+    "tpa_score_new_en": null,
+    "course_pol": "為加強團隊合作、理論應用及上台報告等綜合能力，本課程以分組討論方式進行報告。同組組員分數相同，組員出席率不影響成績，但缺席/請假次數過多者，將被分為自己獨立一組，並視情況繳交額外的報告。",
+    "course_pol_en": null,
+    "course_rem": null,
+    "course_rem_en": null,
+    "ais_meno": "<div>學術誠信原則：抄襲、作弊等違反學術誠信者，學期總成績以0分計。</div>\n\n<div>若有任何被授課老師主觀認為是不誠實的事宜，將以違反學術誠信論處。</div>\n\n<div>&nbsp;</div>\n",
+    "ais_meno_en": null,
+    "ilearn_mk": "N"
+  },
+  "policy": {
+    "yms_year": 114.0,
+    "yms_smester": 1.0,
+    "cls_id": "CB07310",
+    "sub_id": "31185",
+    "scr_dup": "001",
+    "tpa_score_new": "<div>每週作業，繳交方式為隨機抽選同學上台報告。</div>\n\n<div>本課無期中期末考。</div>\n",
+    "tpa_score_new_en": null,
+    "course_pol": "為加強團隊合作、理論應用及上台報告等綜合能力，本課程以分組討論方式進行報告。同組組員分數相同，組員出席率不影響成績，但缺席/請假次數過多者，將被分為自己獨立一組，並視情況繳交額外的報告。",
+    "course_pol_en": null,
+    "course_rem": null,
+    "course_rem_en": null,
+    "ais_meno": "<div>學術誠信原則：抄襲、作弊等違反學術誠信者，學期總成績以0分計。</div>\n\n<div>若有任何被授課老師主觀認為是不誠實的事宜，將以違反學術誠信論處。</div>\n\n<div>&nbsp;</div>\n",
+    "ais_meno_en": null,
+    "ilearn_mk": "N"
+  },
+  "courseBankC": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CB07310",
+      "sub_id": "31185",
+      "scr_dup": "001",
+      "seq": 1,
+      "describe_ch": "知道機率分佈函數與隨機變數的數學架構。",
+      "describe_en": "To know the mathematical framework of the probability distribution and random variable.",
+      "core_id": "D",
+      "core_item": "學生具備應用資訊科技以整合跨領域及解決問題的能力",
+      "core_eng": "Students possess the abilities to integrate interdisciplinary expertise and solve problems by leveraging information technology",
+      "core_level": "1 ",
+      "strgy": [
+        "01"
+      ],
+      "evalb": [
+        "D4",
+        "D5",
+        "K2"
+      ],
+      "strgy_name": [
+        "課堂授課"
+      ],
+      "strgy_name_en": [
+        "Classroom instruction"
+      ],
+      "evalb_name": [
+        "作業",
+        "期末專題",
+        "口頭報告"
+      ],
+      "evalb_name_en": [
+        "Homework",
+        "Final presentation",
+        "Oral presentation"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CB07310",
+          "sub_id": "31185",
+          "scr_dup": "001",
+          "seq": 1,
+          "strgy_id": "01",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CB07310",
+          "sub_id": "31185",
+          "scr_dup": "001",
+          "seq": 1,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D4",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CB07310",
+          "sub_id": "31185",
+          "scr_dup": "001",
+          "seq": 1,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D5",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CB07310",
+          "sub_id": "31185",
+          "scr_dup": "001",
+          "seq": 1,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "K2",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CB07310",
+      "sub_id": "31185",
+      "scr_dup": "001",
+      "seq": 2,
+      "describe_ch": "理解各種不同的收斂型態。",
+      "describe_en": "Comprehension for various modes of convergence of random variables.",
+      "core_id": "D",
+      "core_item": "學生具備應用資訊科技以整合跨領域及解決問題的能力",
+      "core_eng": "Students possess the abilities to integrate interdisciplinary expertise and solve problems by leveraging information technology",
+      "core_level": "2 ",
+      "strgy": [
+        "01"
+      ],
+      "evalb": [
+        "D4",
+        "D5",
+        "K2"
+      ],
+      "strgy_name": [
+        "課堂授課"
+      ],
+      "strgy_name_en": [
+        "Classroom instruction"
+      ],
+      "evalb_name": [
+        "作業",
+        "期末專題",
+        "口頭報告"
+      ],
+      "evalb_name_en": [
+        "Homework",
+        "Final presentation",
+        "Oral presentation"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CB07310",
+          "sub_id": "31185",
+          "scr_dup": "001",
+          "seq": 2,
+          "strgy_id": "01",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CB07310",
+          "sub_id": "31185",
+          "scr_dup": "001",
+          "seq": 2,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D4",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CB07310",
+          "sub_id": "31185",
+          "scr_dup": "001",
+          "seq": 2,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D5",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CB07310",
+          "sub_id": "31185",
+          "scr_dup": "001",
+          "seq": 2,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "K2",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CB07310",
+      "sub_id": "31185",
+      "scr_dup": "001",
+      "seq": 3,
+      "describe_ch": "應用各類極限定理。",
+      "describe_en": "To apply the limit theorems.",
+      "core_id": "D",
+      "core_item": "學生具備應用資訊科技以整合跨領域及解決問題的能力",
+      "core_eng": "Students possess the abilities to integrate interdisciplinary expertise and solve problems by leveraging information technology",
+      "core_level": "3 ",
+      "strgy": [
+        "01"
+      ],
+      "evalb": [
+        "D4",
+        "D5",
+        "K2"
+      ],
+      "strgy_name": [
+        "課堂授課"
+      ],
+      "strgy_name_en": [
+        "Classroom instruction"
+      ],
+      "evalb_name": [
+        "作業",
+        "期末專題",
+        "口頭報告"
+      ],
+      "evalb_name_en": [
+        "Homework",
+        "Final presentation",
+        "Oral presentation"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CB07310",
+          "sub_id": "31185",
+          "scr_dup": "001",
+          "seq": 3,
+          "strgy_id": "01",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CB07310",
+          "sub_id": "31185",
+          "scr_dup": "001",
+          "seq": 3,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D4",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CB07310",
+          "sub_id": "31185",
+          "scr_dup": "001",
+          "seq": 3,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D5",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CB07310",
+          "sub_id": "31185",
+          "scr_dup": "001",
+          "seq": 3,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "K2",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CB07310",
+      "sub_id": "31185",
+      "scr_dup": "001",
+      "seq": 4,
+      "describe_ch": "綜合統計推論基本觀念及其應用",
+      "describe_en": "Synthesis of the basic concept of statistical inference and its application",
+      "core_id": "D",
+      "core_item": "學生具備應用資訊科技以整合跨領域及解決問題的能力",
+      "core_eng": "Students possess the abilities to integrate interdisciplinary expertise and solve problems by leveraging information technology",
+      "core_level": "4 ",
+      "strgy": [
+        "01"
+      ],
+      "evalb": [
+        "D4",
+        "D5",
+        "K2"
+      ],
+      "strgy_name": [
+        "課堂授課"
+      ],
+      "strgy_name_en": [
+        "Classroom instruction"
+      ],
+      "evalb_name": [
+        "作業",
+        "期末專題",
+        "口頭報告"
+      ],
+      "evalb_name_en": [
+        "Homework",
+        "Final presentation",
+        "Oral presentation"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CB07310",
+          "sub_id": "31185",
+          "scr_dup": "001",
+          "seq": 4,
+          "strgy_id": "01",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CB07310",
+          "sub_id": "31185",
+          "scr_dup": "001",
+          "seq": 4,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D4",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CB07310",
+          "sub_id": "31185",
+          "scr_dup": "001",
+          "seq": 4,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D5",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CB07310",
+          "sub_id": "31185",
+          "scr_dup": "001",
+          "seq": 4,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "K2",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    }
+  ],
+  "topicSdgs": [],
+  "learnHours": {
+    "total": 0.0,
+    "tpdOnlineAsyTotal": 0.0,
+    "tpdOnlineSynTotal": 0.0,
+    "tpdOnlineFaceTotal": 0.0,
+    "asySynInTotalPercent": 0.0
+  },
+  "crossVerYear": 114
+}

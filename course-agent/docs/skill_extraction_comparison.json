@@ -1,0 +1,616 @@
+{
+  "data_type": "fully_synthetic",
+  "course": {
+    "course_id": "synthetic_python",
+    "course_name": "合成 Python 課程",
+    "semester": "114-2",
+    "syllabus_text": "本課程介紹 Python 程式語言、集合物件與函式。學生練習使用 Python 讀取 CSV 資料並整理資料。"
+  },
+  "before": {
+    "result": {
+      "course_id": "synthetic_python",
+      "course_name": "合成 Python 課程",
+      "semester": "114-2",
+      "status": "completed",
+      "skills": [
+        {
+          "raw_skill_name": "Python 程式語言",
+          "rationale": "課程描述明確指出要介紹 Python 程式語言，表示課程教授 Python 語言相關技能。",
+          "evidence": "本課程介紹 Python 程式語言、集合物件與函式。",
+          "normalized_skill_name": "Python 程式語言",
+          "skill_id": null,
+          "evidence_level": "name_in_quote",
+          "review_status": "pending"
+        },
+        {
+          "raw_skill_name": "集合物件",
+          "rationale": "課程描述明確列出介紹集合物件，表示會教授集合相關概念或操作。",
+          "evidence": "本課程介紹 Python 程式語言、集合物件與函式。",
+          "normalized_skill_name": "集合物件",
+          "skill_id": null,
+          "evidence_level": "name_in_quote",
+          "review_status": "pending"
+        },
+        {
+          "raw_skill_name": "函式",
+          "rationale": "課程描述明確列出介紹函式，表示會教授函式的使用與相關概念。",
+          "evidence": "本課程介紹 Python 程式語言、集合物件與函式。",
+          "normalized_skill_name": "函式",
+          "skill_id": null,
+          "evidence_level": "name_in_quote",
+          "review_status": "pending"
+        },
+        {
+          "raw_skill_name": "使用 Python 讀取 CSV 資料",
+          "rationale": "課程描述指出學生練習使用 Python 讀取 CSV 資料，表示教授以 Python 讀取 CSV 檔的技能。",
+          "evidence": "學生練習使用 Python 讀取 CSV 資料並整理資料。",
+          "normalized_skill_name": "使用 Python 讀取 CSV 資料",
+          "skill_id": null,
+          "evidence_level": "name_in_quote",
+          "review_status": "pending"
+        },
+        {
+          "raw_skill_name": "整理資料",
+          "rationale": "課程描述指出學生練習並整理資料，表示會教授資料整理的技能。",
+          "evidence": "學生練習使用 Python 讀取 CSV 資料並整理資料。",
+          "normalized_skill_name": "整理資料",
+          "skill_id": null,
+          "evidence_level": "name_in_quote",
+          "review_status": "pending"
+        }
+      ],
+      "attempts": 1,
+      "error_reason": null
+    },
+    "calls": [
+      {
+        "model": "gpt-5-mini-2025-08-07",
+        "usage": {
+          "completion_tokens": 1301,
+          "prompt_tokens": 219,
+          "total_tokens": 1520,
+          "completion_tokens_details": {
+            "accepted_prediction_tokens": 0,
+            "audio_tokens": 0,
+            "reasoning_tokens": 960,
+            "rejected_prediction_tokens": 0,
+            "text_tokens": null
+          },
+          "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cache_write_tokens": null,
+            "cached_tokens": 0,
+            "image_tokens": null,
+            "text_tokens": null
+          }
+        }
+      }
+    ]
+  },
+  "after": {
+    "result": {
+      "course_id": "synthetic_python",
+      "course_name": "合成 Python 課程",
+      "semester": "114-2",
+      "status": "completed",
+      "skills": [
+        {
+          "raw_skill_name": "使用 Python 讀取並整理 CSV 資料",
+          "rationale": "原文明確記載學生將練習此可操作的行為，為具體可執行技能描述。",
+          "evidence": "學生練習使用 Python 讀取 CSV 資料並整理資料。",
+          "normalized_skill_name": "使用 Python 讀取並整理 CSV 資料",
+          "skill_id": null,
+          "evidence_level": "contextual_quote",
+          "review_status": "pending"
+        }
+      ],
+      "knowledge": [
+        {
+          "name": "Python 程式語言",
+          "rationale": "原文以「介紹」方式列出此概念，屬於課程傳授的知識內容而非具體操作。",
+          "evidence": "Python 程式語言",
+          "review_status": "pending"
+        },
+        {
+          "name": "集合物件",
+          "rationale": "原文以「介紹」方式列出此概念，屬於課程傳授的知識內容而非具體操作。",
+          "evidence": "集合物件",
+          "review_status": "pending"
+        },
+        {
+          "name": "函式",
+          "rationale": "原文以「介紹」方式列出此概念，屬於課程傳授的知識內容而非具體操作。",
+          "evidence": "函式",
+          "review_status": "pending"
+        }
+      ],
+      "topics": [
+        {
+          "name": "Python 程式語言、集合物件與函式",
+          "rationale": "原文句子描述課程的主題範圍，適合作為課程主題或範圍標示。",
+          "evidence": "本課程介紹 Python 程式語言、集合物件與函式。",
+          "review_status": "pending"
+        }
+      ],
+      "attempts": 1,
+      "error_reason": null
+    },
+    "calls": [
+      {
+        "model": "gpt-5-mini-2025-08-07",
+        "usage": {
+          "completion_tokens": 1851,
+          "prompt_tokens": 462,
+          "total_tokens": 2313,
+          "completion_tokens_details": {
+            "accepted_prediction_tokens": 0,
+            "audio_tokens": 0,
+            "reasoning_tokens": 1472,
+            "rejected_prediction_tokens": 0,
+            "text_tokens": null
+          },
+          "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cache_write_tokens": null,
+            "cached_tokens": 0,
+            "image_tokens": null,
+            "text_tokens": null
+          }
+        }
+      }
+    ]
+  },
+  "scope_revision": {
+    "result": {
+      "course_id": "synthetic_python",
+      "course_name": "合成 Python 課程",
+      "semester": "114-2",
+      "status": "completed",
+      "skills": [
+        {
+          "raw_skill_name": "Python 程式設計",
+          "rationale": "課程明確讓學生練習使用 Python 進行操作，表示具體以 Python 為程式設計的實作對象。",
+          "evidence": "學生練習使用 Python 讀取 CSV 資料並整理資料。",
+          "evidence_basis": "explicit_practice",
+          "normalized_skill_name": "Python 程式設計",
+          "skill_id": null,
+          "evidence_level": "contextual_quote",
+          "review_status": "pending"
+        },
+        {
+          "raw_skill_name": "資料處理 (CSV 讀取與整理)",
+          "rationale": "課程文字明確描述學生練習讀取 CSV 並整理資料，表明有資料處理的實作練習。",
+          "evidence": "學生練習使用 Python 讀取 CSV 資料並整理資料。",
+          "evidence_basis": "explicit_practice",
+          "normalized_skill_name": "資料處理 (CSV 讀取與整理)",
+          "skill_id": null,
+          "evidence_level": "contextual_quote",
+          "review_status": "pending"
+        },
+        {
+          "raw_skill_name": "集合物件與函式的理解",
+          "rationale": "課程說明介紹集合物件與函式，表示會涵蓋這些概念層面的能力範疇（未具體描述操作）。",
+          "evidence": "本課程介紹 Python 程式語言、集合物件與函式。",
+          "evidence_basis": "course_scope",
+          "normalized_skill_name": "集合物件與函式的理解",
+          "skill_id": null,
+          "evidence_level": "contextual_quote",
+          "review_status": "pending"
+        }
+      ],
+      "knowledge": [
+        {
+          "name": "Python 程式語言",
+          "rationale": "課程直接以 Python 為教學主題，為核心知識概念。",
+          "evidence": "本課程介紹 Python 程式語言、集合物件與函式。",
+          "review_status": "pending"
+        },
+        {
+          "name": "集合物件",
+          "rationale": "課程文字點出集合物件為介紹內容之一，屬於需學習的知識概念。",
+          "evidence": "本課程介紹 Python 程式語言、集合物件與函式。",
+          "review_status": "pending"
+        },
+        {
+          "name": "函式",
+          "rationale": "課程文字點出函式為介紹內容之一，屬於需學習的知識概念。",
+          "evidence": "本課程介紹 Python 程式語言、集合物件與函式。",
+          "review_status": "pending"
+        },
+        {
+          "name": "CSV 資料",
+          "rationale": "課程明確提到學生練習讀取 CSV 資料，CSV 為具體資料格式的知識項目。",
+          "evidence": "學生練習使用 Python 讀取 CSV 資料並整理資料。",
+          "review_status": "pending"
+        },
+        {
+          "name": "資料整理",
+          "rationale": "課程指出學生會練習整理資料，表示資料整理為課程涵蓋的知識概念之一。",
+          "evidence": "學生練習使用 Python 讀取 CSV 資料並整理資料。",
+          "review_status": "pending"
+        }
+      ],
+      "topics": [
+        {
+          "name": "Python 程式語言",
+          "rationale": "課程描述以 Python 為主要介紹對象，構成課程主題之一。",
+          "evidence": "本課程介紹 Python 程式語言、集合物件與函式。",
+          "review_status": "pending"
+        },
+        {
+          "name": "集合物件與函式",
+          "rationale": "課程文字將集合物件與函式列為介紹範圍，為課程主題範疇。",
+          "evidence": "本課程介紹 Python 程式語言、集合物件與函式。",
+          "review_status": "pending"
+        },
+        {
+          "name": "CSV 資料讀取與資料整理",
+          "rationale": "課程明示學生練習讀取 CSV 並整理資料，為實作性課程主題。",
+          "evidence": "學生練習使用 Python 讀取 CSV 資料並整理資料。",
+          "review_status": "pending"
+        }
+      ],
+      "attempts": 1,
+      "error_reason": null
+    },
+    "calls": [
+      {
+        "model": "gpt-5-mini-2025-08-07",
+        "usage": {
+          "completion_tokens": 2794,
+          "prompt_tokens": 552,
+          "total_tokens": 3346,
+          "completion_tokens_details": {
+            "accepted_prediction_tokens": 0,
+            "audio_tokens": 0,
+            "reasoning_tokens": 1920,
+            "rejected_prediction_tokens": 0,
+            "text_tokens": null
+          },
+          "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cache_write_tokens": null,
+            "cached_tokens": 0,
+            "image_tokens": null,
+            "text_tokens": null
+          }
+        }
+      }
+    ]
+  },
+  "granularity_check": [
+    {
+      "course": {
+        "course_id": "synthetic_python_scope",
+        "course_name": "合成 Python 課程",
+        "semester": "114-2",
+        "syllabus_text": "本課程涵蓋 Python 程式語言簡介、基本結構與運算、邏輯運算、集合物件、函式、資料處理及物件導向設計。"
+      },
+      "result": {
+        "course_id": "synthetic_python_scope",
+        "course_name": "合成 Python 課程",
+        "semester": "114-2",
+        "status": "completed",
+        "skills": [
+          {
+            "raw_skill_name": "Python 程式設計",
+            "rationale": "課程列出 Python 程式語言簡介及多項基礎概念，支持作為整體的 Python 程式設計技能候選。",
+            "evidence": "Python 程式語言簡介、基本結構與運算、邏輯運算、集合物件、函式",
+            "evidence_basis": "course_scope",
+            "normalized_skill_name": "Python 程式設計",
+            "skill_id": null,
+            "evidence_level": "contextual_quote",
+            "review_status": "pending"
+          },
+          {
+            "raw_skill_name": "資料處理",
+            "rationale": "課程明列「資料處理」，表明該能力為獨立的教學範圍，可作為技能候選。",
+            "evidence": "資料處理",
+            "evidence_basis": "course_scope",
+            "normalized_skill_name": "資料處理",
+            "skill_id": null,
+            "evidence_level": "name_in_quote",
+            "review_status": "pending"
+          },
+          {
+            "raw_skill_name": "物件導向設計",
+            "rationale": "課程明列「物件導向設計」，支持其作為獨立的設計與程式設計技能。",
+            "evidence": "物件導向設計",
+            "evidence_basis": "course_scope",
+            "normalized_skill_name": "物件導向設計",
+            "skill_id": null,
+            "evidence_level": "name_in_quote",
+            "review_status": "pending"
+          }
+        ],
+        "knowledge": [
+          {
+            "name": "Python 程式語言簡介",
+            "rationale": "列為課程內容，為理解 Python 程式設計的語言基礎概念。",
+            "evidence": "Python 程式語言簡介",
+            "review_status": "pending"
+          },
+          {
+            "name": "基本結構與運算",
+            "rationale": "列為課程內容，為撰寫與理解程式流程與運算的基礎概念。",
+            "evidence": "基本結構與運算",
+            "review_status": "pending"
+          },
+          {
+            "name": "邏輯運算",
+            "rationale": "列為課程內容，為條件判斷與控制流程的基本概念，有助於程式設計理解。",
+            "evidence": "邏輯運算",
+            "review_status": "pending"
+          },
+          {
+            "name": "集合物件",
+            "rationale": "列為課程內容，為資料結構與資料操作的基礎概念，有助理解資料處理技能。",
+            "evidence": "集合物件",
+            "review_status": "pending"
+          },
+          {
+            "name": "函式",
+            "rationale": "列為課程內容，為程式模組化與重用的核心概念，有助理解程式設計與物件導向實作。",
+            "evidence": "函式",
+            "review_status": "pending"
+          }
+        ],
+        "topics": [],
+        "attempts": 1,
+        "error_reason": null
+      },
+      "calls": [
+        {
+          "model": "gpt-5-mini-2025-08-07",
+          "usage": {
+            "completion_tokens": 2633,
+            "prompt_tokens": 797,
+            "total_tokens": 3430,
+            "completion_tokens_details": {
+              "accepted_prediction_tokens": 0,
+              "audio_tokens": 0,
+              "reasoning_tokens": 2048,
+              "rejected_prediction_tokens": 0,
+              "text_tokens": null
+            },
+            "prompt_tokens_details": {
+              "audio_tokens": 0,
+              "cache_write_tokens": null,
+              "cached_tokens": 0,
+              "image_tokens": null,
+              "text_tokens": null
+            }
+          }
+        }
+      ]
+    },
+    {
+      "course": {
+        "course_id": "synthetic_design_scope",
+        "course_name": "合成視覺設計課程",
+        "semester": "114-2",
+        "syllabus_text": "本課程涵蓋視覺設計的排版、字體與色彩，以及專案管理。"
+      },
+      "result": {
+        "course_id": "synthetic_design_scope",
+        "course_name": "合成視覺設計課程",
+        "semester": "114-2",
+        "status": "completed",
+        "skills": [
+          {
+            "raw_skill_name": "視覺設計",
+            "rationale": "課程明確以「視覺設計的排版、字體與色彩」為範圍，這些元素合併為中等粒度的視覺設計能力範疇；依指示不可將排版、字體、色彩個別列為技能。",
+            "evidence": "視覺設計的排版、字體與色彩",
+            "evidence_basis": "course_scope",
+            "normalized_skill_name": "視覺設計",
+            "skill_id": null,
+            "evidence_level": "name_in_quote",
+            "review_status": "pending"
+          },
+          {
+            "raw_skill_name": "專案管理",
+            "rationale": "課程另列「專案管理」，應獨立作為一項技能候選，不併入視覺設計之中。",
+            "evidence": "專案管理",
+            "evidence_basis": "course_scope",
+            "normalized_skill_name": "專案管理",
+            "skill_id": null,
+            "evidence_level": "name_in_quote",
+            "review_status": "pending"
+          }
+        ],
+        "knowledge": [
+          {
+            "name": "排版、字體與色彩",
+            "rationale": "這三者為理解並執行視覺設計技能的主要概念，原文直接列為課程涵蓋內容，屬於支援視覺設計技能的知識面向。",
+            "evidence": "排版、字體與色彩",
+            "review_status": "pending"
+          }
+        ],
+        "topics": [],
+        "attempts": 1,
+        "error_reason": null
+      },
+      "calls": [
+        {
+          "model": "gpt-5-mini-2025-08-07",
+          "usage": {
+            "completion_tokens": 1338,
+            "prompt_tokens": 779,
+            "total_tokens": 2117,
+            "completion_tokens_details": {
+              "accepted_prediction_tokens": 0,
+              "audio_tokens": 0,
+              "reasoning_tokens": 1024,
+              "rejected_prediction_tokens": 0,
+              "text_tokens": null
+            },
+            "prompt_tokens_details": {
+              "audio_tokens": 0,
+              "cache_write_tokens": null,
+              "cached_tokens": 0,
+              "image_tokens": null,
+              "text_tokens": null
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "knowledge_basis_check": [
+    {
+      "course": {
+        "course_id": "synthetic_python",
+        "course_name": "合成程式課程",
+        "semester": "114-2",
+        "syllabus_text": "課程涵蓋 Python 的基本結構、函式與集合物件，也包含資料處理及物件導向設計。"
+      },
+      "result": {
+        "course_id": "synthetic_python",
+        "course_name": "合成程式課程",
+        "semester": "114-2",
+        "status": "completed",
+        "skills": [
+          {
+            "raw_skill_name": "Python 程式設計",
+            "rationale": "課程明確涵蓋 Python 的基本結構、函式與集合物件，這些內容構成以 Python 為主的程式設計能力範疇，屬於中等粒度技能候選（不推測具體操作）。",
+            "evidence": "Python 的基本結構、函式與集合物件",
+            "evidence_basis": "course_scope",
+            "normalized_skill_name": "Python 程式設計",
+            "skill_id": null,
+            "evidence_level": "contextual_quote",
+            "review_status": "pending"
+          },
+          {
+            "raw_skill_name": "資料處理",
+            "rationale": "課程文字另列「資料處理」，將其視為獨立的技能範疇而非僅屬於程式設計的細項，依原文直接列為技能候選。",
+            "evidence": "資料處理",
+            "evidence_basis": "course_scope",
+            "normalized_skill_name": "資料處理",
+            "skill_id": null,
+            "evidence_level": "name_in_quote",
+            "review_status": "pending"
+          },
+          {
+            "raw_skill_name": "物件導向設計",
+            "rationale": "課程文字另列「物件導向設計」，可作為獨立的能力範疇（設計/建模方面）列為技能候選，不推測具體實作細節。",
+            "evidence": "物件導向設計",
+            "evidence_basis": "course_scope",
+            "normalized_skill_name": "物件導向設計",
+            "skill_id": null,
+            "evidence_level": "name_in_quote",
+            "review_status": "pending"
+          }
+        ],
+        "knowledge": [],
+        "topics": [],
+        "attempts": 1,
+        "error_reason": null
+      },
+      "calls": [
+        {
+          "model": "gpt-5-mini-2025-08-07",
+          "usage": {
+            "completion_tokens": 1093,
+            "prompt_tokens": 995,
+            "total_tokens": 2088,
+            "completion_tokens_details": {
+              "accepted_prediction_tokens": 0,
+              "audio_tokens": 0,
+              "reasoning_tokens": 768,
+              "rejected_prediction_tokens": 0,
+              "text_tokens": null
+            },
+            "prompt_tokens_details": {
+              "audio_tokens": 0,
+              "cache_write_tokens": null,
+              "cached_tokens": 0,
+              "image_tokens": null,
+              "text_tokens": null
+            }
+          }
+        }
+      ]
+    },
+    {
+      "course": {
+        "course_id": "synthetic_database",
+        "course_name": "合成資料管理課程",
+        "semester": "114-2",
+        "syllabus_text": "介紹資料庫原理與關聯式資料模式概念；學習資料庫管理系統操作與 SQL 查詢技巧；課堂練習設計資料表。"
+      },
+      "result": {
+        "course_id": "synthetic_database",
+        "course_name": "合成資料管理課程",
+        "semester": "114-2",
+        "status": "completed",
+        "skills": [
+          {
+            "raw_skill_name": "資料庫管理系統操作",
+            "rationale": "原文明確提到「學習資料庫管理系統操作」，表示課程包含此操作能力範疇。",
+            "evidence": "學習資料庫管理系統操作",
+            "evidence_basis": "learning_objective",
+            "normalized_skill_name": "資料庫管理系統操作",
+            "skill_id": null,
+            "evidence_level": "name_in_quote",
+            "review_status": "pending"
+          },
+          {
+            "raw_skill_name": "SQL 查詢技巧",
+            "rationale": "原文明確提出學習 SQL 查詢技巧，為課程欲培養的查詢能力範疇。",
+            "evidence": "SQL 查詢技巧",
+            "evidence_basis": "learning_objective",
+            "normalized_skill_name": "SQL 查詢技巧",
+            "skill_id": null,
+            "evidence_level": "name_in_quote",
+            "review_status": "pending"
+          },
+          {
+            "raw_skill_name": "資料表設計",
+            "rationale": "原文以「課堂練習設計資料表」描述具體練習，支持此為實作技能。",
+            "evidence": "課堂練習設計資料表。",
+            "evidence_basis": "explicit_activity",
+            "normalized_skill_name": "資料表設計",
+            "skill_id": null,
+            "evidence_level": "contextual_quote",
+            "review_status": "pending"
+          }
+        ],
+        "knowledge": [
+          {
+            "name": "資料庫原理與關聯式資料模式概念",
+            "rationale": "原文以介紹方式列出這些概念，屬於需理解的知識範疇。",
+            "evidence": "介紹資料庫原理與關聯式資料模式概念；",
+            "review_status": "pending"
+          }
+        ],
+        "topics": [],
+        "attempts": 1,
+        "error_reason": null
+      },
+      "calls": [
+        {
+          "model": "gpt-5-mini-2025-08-07",
+          "usage": {
+            "completion_tokens": 1993,
+            "prompt_tokens": 1003,
+            "total_tokens": 2996,
+            "completion_tokens_details": {
+              "accepted_prediction_tokens": 0,
+              "audio_tokens": 0,
+              "reasoning_tokens": 1664,
+              "rejected_prediction_tokens": 0,
+              "text_tokens": null
+            },
+            "prompt_tokens_details": {
+              "audio_tokens": 0,
+              "cache_write_tokens": null,
+              "cached_tokens": 0,
+              "image_tokens": null,
+              "text_tokens": null
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

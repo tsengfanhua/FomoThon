@@ -1,0 +1,880 @@
+{
+  "teacherId": "T00287",
+  "name": "林峰正",
+  "mainUnit": "資訊電機學院",
+  "detailUnit": "資訊工程學系",
+  "skill": [
+    "人工智慧、資料分析Artificial Intelligence, Data Analysis",
+    "演算法Algorithm",
+    "雲端運算應用Cloud Computing Applications",
+    "影像處理、深度學習Image Processing, Deep Learning"
+  ],
+  "edu": [
+    "暨南國際大學 資訊工程學系 博士"
+  ],
+  "fcuExp": [
+    "資訊電機學院 秘書",
+    "逢甲大學帆宣智慧城市5G實驗室 研究員",
+    "地理資訊系統研究中心 其它職員",
+    "地理資訊系統研究中心 研究助理教授",
+    "都市計畫與空間資訊學系 助理教授",
+    "地理資訊系統研究中心 研究助理教授",
+    "地理資訊系統研究中心 研究副教授",
+    "地理資訊系統研究中心 研究副教授",
+    "資訊工程學系 助理教授",
+    "資訊工程學系 副教授"
+  ],
+  "currjob": [],
+  "otherExp": [
+    "逢甲大學 地理資訊中心 研究副教授"
+  ],
+  "journal": [
+    {
+      "論文名稱": "A model for forest type identification and forest regeneration monitoring based on deep learning and hyperspectral imagery",
+      "期刊名稱": "Ecological Informatics  (Current Impact Factor: 5.1; 5-year Impact Factor: 3.489) (SCIE)",
+      "作者群": "Feng-Cheng Lin(林峰正)；Yi-Shiang Shiu(徐逸祥)；Pei-Jung Wang；Uen-Hao Wang；Jhe-Syuan Lai(賴哲儇)；Yung-Chung Chuang(莊永忠)*"
+    },
+    {
+      "論文名稱": "Paraphrase Generation Model Integrating Transformer Architecture, Part-of-Speech Features, and Pointer Generator Network",
+      "期刊名稱": "IEEE Access (SCIE)",
+      "作者群": "Yu-Chia Tsai, Feng-Cheng Lin*"
+    },
+    {
+      "論文名稱": "Interoperability Study of Data Preprocessing for Deep Learning and High-Resolution Aerial Photographs for Forest and Vegetation Type Identification",
+      "期刊名稱": "Remote Sensing (Current Impact Factor: 4.848; 5-year Impact Factor: 5.353) (SCIE)",
+      "作者群": "Feng-Cheng Lin (林峰正), Yung-Chung Chuang (莊永忠)*"
+    },
+    {
+      "論文名稱": "Student Behavior Recognition System for the Classroom Environment Based on Skeleton Pose Estimation and Person Detection",
+      "期刊名稱": "Sensors (SCIE)",
+      "作者群": "Feng-Cheng Lin*, Huu-Huy Ngo, Chyi-Ren Dow, Ka-Hou Lam, and Hung Linh Le"
+    },
+    {
+      "論文名稱": "A Wearable Embedded System for Assisting Cognition of Visually Impaired People by Street Scene Description",
+      "期刊名稱": "Journal of Computers (EI)",
+      "作者群": "Feng-Cheng Lin*, Shou-Jin She, Huu-Huy Ngo, Chyi-Ren Dow, and Fang-Rong Hsu"
+    },
+    {
+      "論文名稱": "Integrated Air Quality Monitoring and Alert System Based on Two Image Analysis Techniques for Reportable Fire Events",
+      "期刊名稱": "Atmosphere (SCIE)",
+      "作者群": "Chen-Jui Liang, Sheng-Hua Lu, Jeng-Jong Liang, Feng-Cheng Lin, Pei-Rong Yu"
+    },
+    {
+      "論文名稱": "An Approach for Quantifying a Regional Haze Stress: Case Study in Three Cities of Taiwan",
+      "期刊名稱": "Atmosphere (SCIE)",
+      "作者群": "Chen-Jui Liang, Jeng-Jong Liang*, Feng-Cheng Lin, Chiao-Wun Jheng"
+    },
+    {
+      "論文名稱": "Using a heuristic multi-objective genetic algorithm to solve the storage assignment problem for CPS-based pick-and-pass system",
+      "期刊名稱": "Enterprise Information Systems (SCIE)",
+      "作者群": "Mengru Tu*, Ming-Feng Yang, Sheng-Long Kao, Feng-Cheng Lin, MingHung Wu & Cheng-Kuan Lin"
+    },
+    {
+      "論文名稱": "A Room Monitoring System Using Deep Learning and Perspective Correction Techniques",
+      "期刊名稱": "Applied Sciences (SCIE)",
+      "作者群": "Huu-Huy Ngo, Feng-Cheng Lin*, Yang-Ting Sehn, Mengru Tu, and Chyi-Ren Dow"
+    },
+    {
+      "論文名稱": "Quantifying source apportionment for ambient haze: An image haze extraction approach with air quality monitoring data",
+      "期刊名稱": "Environmental Research (SCIE)",
+      "作者群": "Feng-Cheng Lin, Sheng-Hua Lu, Chen-Jui Liang, Yen-Hung Chen, and Jeng-Jong Liang*"
+    },
+    {
+      "論文名稱": "A cloud-based face video retrieval system with deep learning",
+      "期刊名稱": "The Journal of Supercomputing (SCIE)",
+      "作者群": "Feng-Cheng Lin*, Huu-Huy Ngo, and Chyi-Ren Dow"
+    },
+    {
+      "論文名稱": "應用空間迴歸模式探討都市綠地、PM 2.5 與地表溫度之關聯",
+      "期刊名稱": "航測及遙測學刊 (臺灣人文及社會科學引文索引資料庫)",
+      "作者群": "張晏菁, 徐逸祥*, 林峰正"
+    },
+    {
+      "論文名稱": "Clarification of lower bounds of two-machine flow-shop scheduling to minimize total late work",
+      "期刊名稱": "Engineering Optimization (SCIE)",
+      "作者群": "Jacek Błażewicz, Xin Chen, Richard C. T. Lee, Bertrand M. T. Lin, Feng-Cheng Lin, Erwin Pesch, Malgorzata Sterna, Zhongyu Wang"
+    },
+    {
+      "論文名稱": "Combination of Geographic Information System, Fuzzy Set Theory And Analytic Hierarchy Process For Rationality Assessment Of Planned Industrial Zones: A Case Study In Vietnam",
+      "期刊名稱": "International Refereed Journal of Engineering and Science (IRJES) ()",
+      "作者群": "Xuan-Linh Nguyen, Tien-Yin Chou, Yao-Min Fang, Feng-Cheng Lin"
+    },
+    {
+      "論文名稱": "GEOTARGETING PROTOCOL STANDARDS",
+      "期刊名稱": "WILLY-AAG INTERNATIONAL ENCYCLOPEDIA OF GEOGRAPHY (https://onlinelibrary.wiley.com/doi/abs/10.1002/97811)",
+      "作者群": "Tien-Yin Chou, Yi-Min Huang, Wei-Yen Lin, Feng-Cheng Lin, Chen-Yu Hao"
+    },
+    {
+      "論文名稱": "The Design and Implementation of Combining the Standard of Data and Integrated Water Resource Data in Distributed Cloud Computing Environment",
+      "期刊名稱": "Computer Science and Information Technology ()",
+      "作者群": "Feng-Cheng Lin, Ting-Wu Ho, Chen-Yu Hao, and Che-Hui Lin"
+    },
+    {
+      "論文名稱": "運用雲端技術探索資料脈絡經驗談",
+      "期刊名稱": "中國電機工程學會/電工通訊 ()",
+      "作者群": "林峰正, 衷嵐焜, 周天穎"
+    },
+    {
+      "論文名稱": "圖資處理與雲端應用技術趨勢",
+      "期刊名稱": "國土資訊系統通訊 ()",
+      "作者群": "林峰正, 衷嵐焜, 周天穎, 鄧東波"
+    },
+    {
+      "論文名稱": "Storage and processing of massive remote sensing images using a novel cloud computing platform",
+      "期刊名稱": "GIScience & Remote Sensing (SCIE)",
+      "作者群": "Feng-Cheng Lin, Lan-Kun Chung, Chun-Ju Wang, Wen-Yuan Ku, and Tien-Yin Chou"
+    },
+    {
+      "論文名稱": "Sequence optimization for media objects with due date constraints in multimedia presentations from digital libraries",
+      "期刊名稱": "Information Systems (SCIE)",
+      "作者群": "Feng-Cheng Lin, Jen-Shin Hong and Bertrand M.T. Lin"
+    },
+    {
+      "論文名稱": "使用雲端運算技術建構裝修設計產業資源整合平臺",
+      "期刊名稱": "臺東大學綠色科學學刊 ()",
+      "作者群": "林峰正"
+    },
+    {
+      "論文名稱": "運用雲端桌面服務技術建構教育雲",
+      "期刊名稱": "臺東大學綠色科學學刊 ()",
+      "作者群": "林峰正、盧怡蒨、鍾浩翔"
+    },
+    {
+      "論文名稱": "Recommendation system for localized products in vending machines",
+      "期刊名稱": "Expert Systems with Applications (SCIE)",
+      "作者群": "Feng-Cheng Lin, Hsin-Wen Yu, Chih-Hao Hsu, and Tzu-Chun Weng"
+    },
+    {
+      "論文名稱": "Scheduling two-machine flowshops with continuous buffer constraints - An application to automatic multimedia presentation assembly",
+      "期刊名稱": "Computers & Operations Research (SCIE,ECONLIT)",
+      "作者群": "Feng-Cheng Lin, Jen-Shin Hong, and Bertrand M.T. Lin,"
+    },
+    {
+      "論文名稱": "Two-machine flowshop scheduling to minimize total late work",
+      "期刊名稱": "Engineering Optimization (SCIE)",
+      "作者群": "Bertrand M.T. Lin, Feng-Cheng Lin, and R.C.T. Lee"
+    },
+    {
+      "論文名稱": "A New Hybrid Heuristic Technique for Solving Job-shop Scheduling Problem",
+      "期刊名稱": "International Scientific Journal of Computing (EI)",
+      "作者群": "Cheng-Fa Tsai and Feng-Cheng Lin"
+    }
+  ],
+  "journal2": [],
+  "conference": [
+    {
+      "論文名稱": "基於邊緣運算的人臉辨識系統",
+      "會議名稱": "TANET 2023",
+      "作者群": "馮伯誠, 林峰正*, 陳上元"
+    },
+    {
+      "論文名稱": "基於姿態識別之課堂行為辨識嵌入式系統",
+      "會議名稱": "TANET 2023",
+      "作者群": "林品宏, 林峰正*"
+    },
+    {
+      "論文名稱": "Enhancing biogas production from co-digestion of deer manure and tomato residues",
+      "會議名稱": "3rd International Conference on Pollution Prevention and Clean Technologies (ICPPCT 2023)",
+      "作者群": "Chiung-Hao Tseng, Prakaidao Pomdaeng, Chen-Yeon Chu*, Feng-Cheng Lin"
+    },
+    {
+      "論文名稱": "Group similar images based on skeletal information extracted from a person's tracking path in a real-time surveillance system",
+      "會議名稱": "6th IEEE International Conference on Knowledge Innovation and Invention 2023",
+      "作者群": "Yao-Chun Yu, Feng-Cheng Lin*"
+    },
+    {
+      "論文名稱": "Research on Interaction between Dancers’ Motion Capture and Robotic Arm",
+      "會議名稱": "2023 International Conference on Consumer Electronics - Taiwan (ICCE-Taiwan)",
+      "作者群": "Po-Chih Lin, Feng-Cheng Lin*"
+    },
+    {
+      "論文名稱": "A Real-Time Embedded System on Behavioral Recognition of Students in Classroom",
+      "會議名稱": "2023 International Conference on Consumer Electronics - Taiwan (ICCE-Taiwan)",
+      "作者群": "Zhe-Wei Sun, Feng-Cheng Lin*"
+    },
+    {
+      "論文名稱": "以機器學習建構採購預測模式：以地形車零組件採購為例",
+      "會議名稱": "2022 國際大數據與ERP學術及實務研討會",
+      "作者群": "吳如娟*,林峰正,林儒誼"
+    },
+    {
+      "論文名稱": "一個二階段式對抗式網路口罩之戴口罩人臉驗證系統",
+      "會議名稱": "2021國際大數據與ERP學術及實務研討會",
+      "作者群": "洪崇堡*、林峰正"
+    },
+    {
+      "論文名稱": "以深度學習為主之商品查價系統",
+      "會議名稱": "第31屆國際資訊管理學術研討會",
+      "作者群": "吳冠融、林峰正"
+    },
+    {
+      "論文名稱": "開放式災害決策支援系統框架建置之研究\n-以臺中市防洪決策支援為例",
+      "會議名稱": "「2020臺灣災害管理研討會」暨「109年 度科技部自然科學及永續研究發展司防災科技學門計畫成果發表會」",
+      "作者群": "李哲源、陳勝義、陳柏蒼、陳昶憲、林峰正"
+    },
+    {
+      "論文名稱": "The integration of web-based and mobile-based participatory sensing interfaces apply to the identification and assessment of contextual features in the city",
+      "會議名稱": "International Conference on Human-Computer Interaction",
+      "作者群": "Yang Ting Shen, Pei Wen Lu, Feng Cheng Lin"
+    },
+    {
+      "論文名稱": "以知識本體論為基礎之OER資源整合搜尋框架",
+      "會議名稱": "National Computer Symposium 2019",
+      "作者群": "邱義州, 余禎祥, 林峰正, 劉安之"
+    },
+    {
+      "論文名稱": "Cropland Mapping with Multispectral UAV Imagery and Convolutional Neural Networks",
+      "會議名稱": "International Conference on Innovative Computing and Management Science 2019",
+      "作者群": "Yi-Shiang Shiu, Jin-Cheng Liu, Yung-Chung Chuang and Feng-Cheng Lin*"
+    },
+    {
+      "論文名稱": "A Study of Predicting Stock Trends Using LSTM: Evidence Based on Listed Financial Companies in Taiwan",
+      "會議名稱": "International Conference on Innovative Computing and Management Science 2019",
+      "作者群": "You-Shan Su, Feng-Cheng Lin* and Yung-Jen Lin"
+    },
+    {
+      "論文名稱": "Image Semantic Segment on Embedded System Implementation - Street View Feedback as Example",
+      "會議名稱": "International Conference on Innovative Computing and Management Science 2019",
+      "作者群": "Fang-Rong Hsu, Shou-Jin She and Feng-Cheng Lin*"
+    },
+    {
+      "論文名稱": "The Best Practice of University and Community Cooperation in Open Source Software Project - TV Station Media Images Query System for Example",
+      "會議名稱": "2018 IEEE 15th International Symposium on Pervasive Systems, Algorithms and Networks",
+      "作者群": "Feng-Cheng Lin, Hsi-Min Chen, Shih-Feng Lin, and Hsing-Yi Chu"
+    },
+    {
+      "論文名稱": "應用空氣監測器與遙測開放資料探討都市綠地、空氣品質與地表溫度之關聯",
+      "會議名稱": "第36屆測量及空間資訊研討會",
+      "作者群": "張晏菁、徐逸祥、林峰正"
+    },
+    {
+      "論文名稱": "論知識本體、語意網與鏈結資料與推動策略",
+      "會議名稱": "2018台灣地理資訊學會年會暨學術研討會",
+      "作者群": "黃碧慧，林峰正"
+    },
+    {
+      "論文名稱": "都市探針：發展互動性評價系統用以指認城市質性特徵及其視覺化呈現",
+      "會議名稱": "2018台灣地理資訊學會年會暨學術研討會",
+      "作者群": "許仁澤、沈揚庭、林峰正"
+    },
+    {
+      "論文名稱": "基於知識本體模型的都市計畫參與平台",
+      "會議名稱": "2018台灣地理資訊學會年會暨學術研討會",
+      "作者群": "余首進，林峰正，周天穎，陳琰"
+    },
+    {
+      "論文名稱": "運用時空具類分析法模擬群眾VGI空間分布情形-以台南市登革熱為例",
+      "會議名稱": "2018台灣地理資訊學會年會暨學術研討會",
+      "作者群": "吳政廷，林峰正，周天穎，葉美玲"
+    },
+    {
+      "論文名稱": "韌性宜居智慧城市: 以適地性自願地理資訊結合社群媒體巨量資料建構智慧市民參與下的韌性城市宜居生活指標",
+      "會議名稱": "2018台灣地理資訊學會年會暨學術研討會",
+      "作者群": "許芳榮，沈揚庭，徐逸祥，劉為光，林峰正"
+    },
+    {
+      "論文名稱": "Exploring Neighboring Effects on Local Fine Particulate Matter in Different Season with Spatial Regression",
+      "會議名稱": "International Symposium on Remote Sensing 2018",
+      "作者群": "Yen-Ching Chang, Yi-Shiang Shiu and Feng-Cheng Lin"
+    },
+    {
+      "論文名稱": "Exploring neighboring effects on local fine particulate matter in different season with spatial regression",
+      "會議名稱": "International Symposium on Remote Sensing 2018",
+      "作者群": "Yen-Ching Chang, Yi-Shiang Shiu, Feng-Cheng Lin"
+    },
+    {
+      "論文名稱": "The Framework to Apply Machine Learning and Deep Learning to Judge the Authenticity of Disaster Response",
+      "會議名稱": "International Conference on Internet Studies 2018",
+      "作者群": "Feng-Cheng Lin, Yi-Shiang Shiu, and Ya-Ju Chang"
+    },
+    {
+      "論文名稱": "特殊事件之社群資料分析流程與實作探討",
+      "會議名稱": "「2017臺灣災害管理研討會」暨「 106年科技部自然科學及永續研究發展司防災科技學門計畫成果研討會」",
+      "作者群": "林峰正、方耀民、周天穎、陳昶憲"
+    },
+    {
+      "論文名稱": "非結構性資料影響力評估處理流程: 以施政方針及施政報告為例",
+      "會議名稱": "台灣網際網路研討會",
+      "作者群": "林峰正、黃碧慧、陳昶憲、陳建元"
+    },
+    {
+      "論文名稱": "Explorations of Public Participation Approach to the Framing of Resilient Urbanism",
+      "會議名稱": "8th International Conference on Environmental Engineering and Applications",
+      "作者群": "Liu, Wei-Kuang*, Li-Wei Liu, Yi-Shiang Shiu, Yang-Ting Shen, Feng-Cheng Lin, Hua-Hsuan Hsieh"
+    },
+    {
+      "論文名稱": "應用本體論鏈結資料技術於政策及計畫執行管理關係追蹤",
+      "會議名稱": "2017台灣地理資訊學會年會暨學術研討會",
+      "作者群": "施淳齡、林峰正、陳美心、郝振宇"
+    },
+    {
+      "論文名稱": "The study and implementation of linked data mechanism for FORMOSAT-II historical imagery metadata in Taiwan",
+      "會議名稱": "ISRS",
+      "作者群": "Feng-Cheng Lin, Yao-Min Fang, Tien-Yin Chou, Yi-Shiang Shiu, Fang-Rong Hsu"
+    },
+    {
+      "論文名稱": "The Exploration of Everyday Life Geographic Information of Urban ‘Qilou’ Space in Taiwan: Everyday Public Appropriation of Private Lands",
+      "會議名稱": "The 2017 AAG Annual Meeting",
+      "作者群": "Wei-Kuang Liu*, Yang-Ting Shen, Yi-Shiang Shiu, Feng-Cheng Lin, Nian-Sin Liou"
+    },
+    {
+      "論文名稱": "Mapping environmental perception with crowdsourced CityProbe mobile app and weights of evidence model",
+      "會議名稱": "The International Symposium of Remote Sensing",
+      "作者群": "Yi-Shiang Shiu, Wei-Kuang Liu, Feng-Cheng Lin, Yang-Ting Shen, Cheng-Yang Shih, Re-Yang Lee, Tsu-Chiang Lei"
+    },
+    {
+      "論文名稱": "福衛二號歷史影像詮釋資料語意機制之研究",
+      "會議名稱": "2015遙測衛星前瞻技術研討會暨福衛五號使用者說明會",
+      "作者群": "林峰正、許千文、陳伯傳、徐逸祥、陳怡廷"
+    },
+    {
+      "論文名稱": "The reconstruction of urban cultural landscape and the change analysis of urban landscape and texture—A case study of the old downtown in Central District, Taichung City, Taiwan",
+      "會議名稱": "The 36th Asian Conference on Remote Sensing",
+      "作者群": "Yi-Shiang Shiu*, Tsu-Chiang Lei, Re-Yang Lee, Feng-Cheng Lin and Tzu-How Chu"
+    }
+  ],
+  "book": [
+    {
+      "專業書籍": "AI人工智慧素養與基本導論",
+      "出版單位": "逢甲大學電子書",
+      "作者群": "陳志成、林峰正、陳秋宏、梁詩婷、王坤卿、楊柏遠"
+    },
+    {
+      "專業書籍": "Hadoop技術手冊(第四版)",
+      "出版單位": "碁峰",
+      "作者群": "林峰正、王耀聰、辜文元、施赬陽、周天穎"
+    }
+  ],
+  "patent": [
+    {
+      "title": "發明",
+      "desc": "應用多面向並聯AI判讀架構判讀卵巢惡性腫瘤之方法"
+    },
+    {
+      "title": "發明",
+      "desc": "利用機械手臂模擬人體姿態的方法及系統"
+    },
+    {
+      "title": "發明",
+      "desc": "用於建築物的電子圍籬系統與電子圍籬監控裝置"
+    },
+    {
+      "title": "發明",
+      "desc": "外接式儲存系統檔案雲端管理系統"
+    },
+    {
+      "title": "發明",
+      "desc": "於虛擬機器提供應用程式之系統以及方法以及儲存其之電腦可讀取記錄媒體"
+    },
+    {
+      "title": "發明",
+      "desc": "於虛擬桌面開啟檔案之雲端系統、於虛擬桌面開啟檔案之方法以及其電腦可讀取記錄媒體"
+    },
+    {
+      "title": "發明",
+      "desc": "提供虛擬桌面之雲端系統、於虛擬桌面播放多媒體之方法以及其電腦可讀取記錄媒體"
+    },
+    {
+      "title": "發明",
+      "desc": "資源共享系統與方法"
+    }
+  ],
+  "most": [
+    {
+      "name": "(臺義雙邊研討會)無人機在土地和生物多樣性監測的應用",
+      "schoolYear": "113"
+    },
+    {
+      "name": "(1/3)產學技術聯盟合作計畫-國際淨零技術生態創新聯盟",
+      "schoolYear": "113"
+    },
+    {
+      "name": "展場攤位前之人流統計系統",
+      "schoolYear": "113"
+    },
+    {
+      "name": "紙本菜單劃記圖像辨識之研究與系統",
+      "schoolYear": "112"
+    },
+    {
+      "name": "(臺義雙邊)新型二階段厭氧程序促進廚餘生物氫/甲烷的生產和氨去除效率(1/2)",
+      "schoolYear": "111"
+    },
+    {
+      "name": "教室學生行為辨識準度之改良於異質邊緣運算之研究",
+      "schoolYear": "111"
+    },
+    {
+      "name": "基於人數統計與骨架姿勢之學生行為辨識於邊緣運算之研究與系統",
+      "schoolYear": "110"
+    },
+    {
+      "name": "應用深度學習影像辨識技術估算景區車流與人流量—以日月潭風景區為例",
+      "schoolYear": "109"
+    },
+    {
+      "name": "盲人輔助系統",
+      "schoolYear": "109"
+    },
+    {
+      "name": "都會區水動力多模式系集模擬平台研發與應用-子計畫:建置使用者經驗之防洪決策(防災整備及災中應變策略)支援系統及平台建置(I)",
+      "schoolYear": "108"
+    },
+    {
+      "name": "運用機器學習及深度學習於災情研判之分析及應用研究",
+      "schoolYear": "107"
+    },
+    {
+      "name": "(3/3)韌性宜居智慧城市:以適地性自願地理資訊結合社群媒體巨量資料建構智慧市民參與下的韌性城市宜居生活指標－韌性宜居城市群眾共識之時空資料視覺化分析(子計畫二)",
+      "schoolYear": "107"
+    },
+    {
+      "name": "整合群眾智慧及多元物聯感測技術於防災資訊之應用－整合群眾智慧及多元物聯感測技術於防災資訊之應用",
+      "schoolYear": "106"
+    },
+    {
+      "name": "論知識本體、語意網與鏈結資料與推動策略",
+      "schoolYear": "106"
+    },
+    {
+      "name": "數位匯流下之資料蒐集、分析、應用及資料影響力之研究-數位匯流下之資料蒐集、分析、應用及資料影響力之研究(3/3)",
+      "schoolYear": "106"
+    },
+    {
+      "name": "(2/3)韌性宜居智慧城市:以適地性自願地理資訊結合社群媒體巨量資料建構智慧市民參與下的韌性城市宜居生活指標－韌性宜居城市群眾共識之時空資料視覺化分析(子計畫二)",
+      "schoolYear": "106"
+    },
+    {
+      "name": "臺灣都市騎樓日常使用之地理資訊探討：以臺中市舊城為例",
+      "schoolYear": "105"
+    },
+    {
+      "name": "數位匯流下之資料蒐集、分析、應用及資料影響力之研究(2/3)",
+      "schoolYear": "105"
+    },
+    {
+      "name": "(3/3)群眾智慧及物聯網支援巨量資訊蒐集與分析-以智慧型城市水患防救為例－水災群眾智慧資訊蒐集及資訊融合暨資訊過濾的分散式巨量資料處理架構與實作(子計畫二)",
+      "schoolYear": "105"
+    },
+    {
+      "name": "(1/3)韌性宜居智慧城市: 以適地性自願地理資訊結合社群媒體巨量資料建構智慧市民參與下的韌性城市宜居生活指標－韌性宜居城市群眾共識之時空資料視覺化分析(子計畫二)",
+      "schoolYear": "105"
+    },
+    {
+      "name": "提昇私校研發能量-數位匯流下之資料蒐集、分析、應用及資料影響力之研究(1/3)",
+      "schoolYear": "104"
+    },
+    {
+      "name": "整合型-群眾智慧及物聯網支援巨量資訊蒐集與分析-以智慧型城市水患防救為例－水災群眾智慧資訊蒐集及資訊融合暨資訊過濾的分散式巨量資料處理架構與實作(子計畫二)(2/3)",
+      "schoolYear": "104"
+    },
+    {
+      "name": "群眾智慧及物聯網支援巨量資訊蒐集與分析-以智慧型城市水患防救為例－水災群眾智慧資訊蒐集及資訊融合暨資訊過濾的分散式巨量資料處理架構與實作(子計畫二)(1/3)",
+      "schoolYear": "103"
+    }
+  ],
+  "tech": [
+    {
+      "論文名稱": "Geotargeting Protocol Standards (2017-03)",
+      "書名": "The International Encyclopedia of Geography",
+      "作者群": "Tien-Yin Chou, Yi-Min Huang, Wei-Yen Lin, Feng-Cheng Lin, Chen-Yu Hao"
+    }
+  ],
+  "induAca": [
+    "113年度國家溫室氣體排放清冊土地使用與變遷碳匯計算與國土規劃策略應用計畫委託專業服務案 (2024-10 to 2025-12)",
+    "智慧創新關鍵人才躍升計畫─智慧物聯網微學程、金融創新微學程 (2024-02 to 2025-01)",
+    "112年度應用高光譜影像於林型自動化分類系統開發與建置 (2023-03 to 2023-12)",
+    "建構電極與放電加工自動化與排程智慧化系統產學合作計畫 (2023-03 to 2024-11)",
+    "智慧創新關鍵人才躍升計畫 (2023-02 to 2024-01)",
+    "凱智綠能科技股份有限公司申請投資設立中部科學園區之諮詢顧問案 (2022-10 to 2022-11)",
+    "構建5G智慧交通數位神經中樞(2/2)－系統雛型開發與驗證實作 (2022-03 to 2022-12)",
+    "運用光達點雲及高光譜資料於林型樹種分類與蓄積量推估模式建置 (2021-12 to 2022-12)",
+    "部落創生的參與者共保系統計畫 (2021-01 to 2021-12)",
+    "109年度「AI情資協作平臺系統」委外建置服務案 (2020-05 to 2020-12)",
+    "109年度智慧創新跨域人才培育聯盟計畫(B類)—加值創作分項：運用 AR資料可視化介面呈現政府專案資料之智慧感知與互動體驗創新應用 (2020-02 to 2021-01)",
+    "（109年）部落創生的參與者共保系統計畫 (2020-01 to 2020-12)",
+    "CCTV影像異常即時辨識與警示模組開發 (2019-05 to 2020-09)",
+    "(諮詢顧問)108年委辦計畫作業管理系統維運暨效能提升計畫 (2019-04 to 2019-12)",
+    "108年度智慧創新跨域人才培育聯盟計畫「智慧創新跨校聯盟推動計畫(B類)—加值創作分項」 (2019-03 to 2020-01)",
+    "107年度人工智慧技術與應用領域系列課程計畫—應用人工智慧技術於生物資訊、醫學工程、社群分析領域 (2018-12 to 2020-07)",
+    "保險影像資訊即時傳輸暨智能辨識先驅研究計畫 (2018-06 to 2018-11)",
+    "開源貢獻者培育方案(諮詢顧問) (2018-05 to 2018-12)",
+    "107-108年智慧環境地理資料服務及協作計畫 (2018-04 to 2019-06)",
+    "臺北市單一陳情系統『Hello Taipei』之大數據應用研究 (2018-03 to 2018-11)",
+    "107年度遠端影像監控系統維護及功能擴充 (2018-01 to 2018-12)",
+    "詮釋資料四星等資料建置與福衛二號歷史影像轉製作業之委辦服務 (2016-06 to 2016-12)",
+    "語意敘述轉換坐標機制與福衛二號歷史影像轉製作業之研究委辦服務 (2015-04 to 2015-12)",
+    "福衛二號緊急狀況資料處理流程規劃及快速製圖發佈系統雛型委辦服務 (2014-05 to 2014-12)",
+    "歷史影像詮釋資料語意機制與福衛二號歷史影像轉製作業之研究委辦服務 (2014-04 to 2014-11)",
+    "水利資料整合雲擴大應用計畫 (2014-04 to 2014-12)",
+    "巨量影像儲存暨快速檢索機制與福衛二號歷史影像轉製作業之研究 (2013-09 to 2013-12)"
+  ],
+  "perform": [],
+  "reward": [
+    "逢甲大學論文著作獎勵傑出獎 (113, 2024-11) - 逢甲大學",
+    "2024全國大專校院智慧創新暨跨域整合創作競賽 (智慧機器組) 值得注目獎 (113, 2024-10) - 教育部",
+    "2024全國大專校院智慧創新暨跨域整合創作競賽 ( 物聯網與金融科技組) 第三名 (113, 2024-10) - 教育部",
+    "2024全國大專校院智慧創新暨跨域整合創作競賽 ( 物聯網與金融科技組) 值得注目獎 (113, 2024-10) - 教育部",
+    "2024全國大專校院智慧創新暨跨域整合創作競賽 ( 物聯網與金融科技組) 跨域整合特別獎 (113, 2024-10) - 教育部",
+    "第九屆海峽兩岸青年創客大賽「筆跡檢測系統」三等獎 (112, 2024-07) - 同濟大學、逢甲大學、福州大學",
+    "AI CUP 教育部全國大專校院人工智慧競賽(圍棋棋力模仿與棋風辨識競賽佳作) (112, 2024-03) - 教育部",
+    "2023 ITSA 全國大專院校程式設計極客挑戰賽第一名 (112, 2023-12) - 教育部",
+    "112 學年度資訊工程系專題發表第三名 (基於LLM的視障者分析系統) (112, 2023-12) - 逢甲大學",
+    "第八屆海峽兩岸青少年創客大賽「EyeBall-基於LLM的視障者輔助系統」三等獎 (112, 2023-08) - 同濟大學、逢甲大學、福州大學",
+    "6th IEEE International Conference on Knowledge Innovation and Invention 2023 最佳論文獎 (112, 2023-08) - IEEE ICKII",
+    "第53屆全國技能競賽暨第2屆亞洲技能暨賽及第47屆國際技能競賽國手選拔賽(青年組雲端運算職類第三名) (111, 2023-07) - 勞動部",
+    "巨鷗跨界智慧生活應用獎(5G校園人流即時監控系統) (111, 2023-06) - 巨鷗科技股份有限公司",
+    "巨鷗跨界智慧科技獎(利用身體部位遮擋方法分群行人追蹤路徑圖像) (111, 2023-06) - 巨鷗科技股份有限公司",
+    "第53屆全國技能競賽中區分區技能競賽(青年組雲端運算職類第四名) (111, 2023-03) - 勞動部",
+    "2023 E化系統創意應用競賽佳作(雲端共享語音筆記) (111, 2023-03) - 中華企業資源規劃學會",
+    "台中分校智慧製造產業AI專班第十一期AI產業化創新競賽第一名(廠房作業人員裝備自動化檢測系統) (111, 2022-12) - 台灣人工智慧學校",
+    "逢甲大學論文著作獎勵優良獎 (111, 2022-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (111, 2022-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (111, 2022-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (111, 2022-11) - 逢甲大學",
+    "巨鷗跨界智慧生活應用獎(肢體辨識健身系統) (110, 2022-06) - 巨鷗科技股份有限公司",
+    "2022 國際大數據與 ERP 學術及實務研討會 (論文獎佳作) (110, 2022-03) - 中華企業資源規劃學會",
+    "110 學年度資訊工程系專題發表第三名 (肢體辨識健身系統) (110, 2021-12) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (110, 2021-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (110, 2021-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (110, 2021-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (110, 2021-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (110, 2021-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (108, 2019-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (107, 2018-11) - 逢甲大學"
+  ],
+  "speech": [
+    {
+      "演講題目": "人工智慧AI倫理",
+      "邀請單位": "台中市和平國際傑人會",
+      "演講日期": "2024-11"
+    },
+    {
+      "演講題目": "人工智慧與電腦視覺應用",
+      "邀請單位": "國立聯合大學資訊管理學系",
+      "演講日期": "2024-10"
+    },
+    {
+      "演講題目": "人工智慧應用之分享",
+      "邀請單位": "國立中興大學生物產業機電工程學系",
+      "演講日期": "2024-10"
+    },
+    {
+      "演講題目": "生成式 AI 與嵌入式AI系統實務 (7/8-7/9) 12 小時課程",
+      "邀請單位": "逢甲大學 Apple RTC 區域教育培訓中心",
+      "演講日期": "2024-07"
+    },
+    {
+      "演講題目": "AI 教師社群座談會",
+      "邀請單位": "弘光科技大學",
+      "演講日期": "2024-06"
+    },
+    {
+      "演講題目": "AI 趨勢分享，老師該如何應對",
+      "邀請單位": "基隆光隆家商",
+      "演講日期": "2024-02"
+    },
+    {
+      "演講題目": "生捱教育-家長職業達人講座",
+      "邀請單位": "臺中市立四張犁國民中學",
+      "演講日期": "2024-01"
+    },
+    {
+      "演講題目": "人工智慧與電腦視覺應用",
+      "邀請單位": "文華高中",
+      "演講日期": "2023-10"
+    },
+    {
+      "演講題目": "重點課程診斷與諮詢線上工作坊經驗分享",
+      "邀請單位": "教育部智慧創新關鍵人才躍升計畫",
+      "演講日期": "2023-10"
+    },
+    {
+      "演講題目": "PMP專業適性探索課程（資電學院介紹）",
+      "邀請單位": "逢甲大學-全校國際生大一不分系學士班",
+      "演講日期": "2023-09"
+    },
+    {
+      "演講題目": "深度學習之人臉以及骨架辨識應用經驗分享",
+      "邀請單位": "暨南大學資訊工程系",
+      "演講日期": "2023-03"
+    },
+    {
+      "演講題目": "電腦視覺-人體骨架的應用",
+      "邀請單位": "逢甲大學 AIOT 場域",
+      "演講日期": "2023-03"
+    },
+    {
+      "演講題目": "教學與AI應用系列: 從AI到教學",
+      "邀請單位": "東吳大學",
+      "演講日期": "2022-11"
+    },
+    {
+      "演講題目": "逢甲大學資電學院介紹與入學準備",
+      "邀請單位": "大甲高中",
+      "演講日期": "2022-11"
+    },
+    {
+      "演講題目": "結合計算機視覺於表演動作意涵之研究",
+      "邀請單位": "國立成功大學",
+      "演講日期": "2022-10"
+    },
+    {
+      "演講題目": "推薦系統",
+      "邀請單位": "全家便利商店股份有限公司",
+      "演講日期": "2022-08"
+    },
+    {
+      "演講題目": "2022創新IoT應用與雛型設計跨域工作坊",
+      "邀請單位": "教育部",
+      "演講日期": "2022-07"
+    },
+    {
+      "演講題目": "(邊緣)Edge AI 開發實務分享",
+      "邀請單位": "台灣 AIC 產業聯盟",
+      "演講日期": "2022-02"
+    },
+    {
+      "演講題目": "人工智慧導論",
+      "邀請單位": "全家便利商店股份有限公司",
+      "演講日期": "2021-10"
+    },
+    {
+      "演講題目": "資料加值應用分析技術(二):人工智慧基本觀念與實際操作",
+      "邀請單位": "交通部",
+      "演講日期": "2021-10"
+    },
+    {
+      "演講題目": "推薦系統",
+      "邀請單位": "全家便利商店股份有限公司",
+      "演講日期": "2021-10"
+    },
+    {
+      "演講題目": "人工智慧的電腦視覺應用",
+      "邀請單位": "苗栗縣立興華高級中學",
+      "演講日期": "2021-09"
+    },
+    {
+      "演講題目": "Quantifying Source Apportionment for Ambient Haze",
+      "邀請單位": "綠色技術國際虛擬課程，逢甲綠色產品研究中",
+      "演講日期": "2021-09"
+    },
+    {
+      "演講題目": "Python資料探勘與機器學習實戰班-第二梯次 (共四天)",
+      "邀請單位": "逢甲大學110級畢業生禮物: 第二梯次 (24 hr)",
+      "演講日期": "2021-08"
+    },
+    {
+      "演講題目": "Python資料探勘與機器學習實戰班-第一梯次 (共八天)",
+      "邀請單位": "逢甲大學110級畢業生禮物: 第一梯次 (48 hr)",
+      "演講日期": "2021-07"
+    },
+    {
+      "演講題目": "巨量資料處理+自然語言處理與結構分析",
+      "邀請單位": "高雄市警察局",
+      "演講日期": "2020-12"
+    },
+    {
+      "演講題目": "Django+自然語言分析",
+      "邀請單位": "高雄市警察局",
+      "演講日期": "2020-11"
+    },
+    {
+      "演講題目": "自然語言分析",
+      "邀請單位": "高雄市警察局",
+      "演講日期": "2020-11"
+    },
+    {
+      "演講題目": "人工智慧導論",
+      "邀請單位": "全家便利商店股份有限公司",
+      "演講日期": "2020-11"
+    },
+    {
+      "演講題目": "人工智慧認識與準備",
+      "邀請單位": "台南興國高中",
+      "演講日期": "2020-06"
+    },
+    {
+      "演講題目": "人工智慧、大數據如影隨形",
+      "邀請單位": "明道高中",
+      "演講日期": "2019-03"
+    },
+    {
+      "演講題目": "資訊科技結合校務研究，2018校務研究議題合作分享研討會",
+      "邀請單位": "文化大學",
+      "演講日期": "2018-05"
+    },
+    {
+      "演講題目": "Apache Hadoop 專案經驗&教學經驗分享，開源應用技術研發人才培育計劃研討會",
+      "邀請單位": "資策會",
+      "演講日期": "2018-03"
+    },
+    {
+      "演講題目": "(Big) Spatial Data  Analytics Projects and Their Technologies",
+      "邀請單位": "交通大學土木系",
+      "演講日期": "2017-09"
+    },
+    {
+      "演講題目": "資料處理-R 進階",
+      "邀請單位": "資訊工程系",
+      "演講日期": "2017-08"
+    },
+    {
+      "演講題目": "資料處理-R 入門",
+      "邀請單位": "資訊工程系",
+      "演講日期": "2017-07"
+    },
+    {
+      "演講題目": "逢甲 GIS 中心演講 –內部教育訓練規劃體系(規劃分析系列):巨量資料處理-Spark進階",
+      "邀請單位": "逢甲 GIS 中心",
+      "演講日期": "2017-06"
+    },
+    {
+      "演講題目": "資料處理概論 with Python (1.5 小時)",
+      "邀請單位": "逢甲 GIS 中心",
+      "演講日期": "2017-03"
+    },
+    {
+      "演講題目": "Lessons Learned from (Big) Data  Analytics Projects and Their Technologies",
+      "邀請單位": "成功大學測量與空間資訊學系",
+      "演講日期": "2017-03"
+    },
+    {
+      "演講題目": "快快樂樂學第一支 R 程式 with R shiny (1.5 小時)",
+      "邀請單位": "逢甲 GIS 中心",
+      "演講日期": "2017-03"
+    },
+    {
+      "演講題目": "巨量資料處理及平台建置專案經驗談",
+      "邀請單位": "中正大學企管系",
+      "演講日期": "2017-01"
+    },
+    {
+      "演講題目": "Apache Hive 理論與實務操作 (8 小時)",
+      "邀請單位": "資策會",
+      "演講日期": "2016-12"
+    },
+    {
+      "演講題目": "Apache Spark SQL & Spark eco-system 技術介紹與實務操作 (8 小時)",
+      "邀請單位": "資策會",
+      "演講日期": "2016-12"
+    },
+    {
+      "演講題目": "Apache Oozie & Python 技術介紹與實戰演練 (8 小時)",
+      "邀請單位": "資策會",
+      "演講日期": "2016-11"
+    },
+    {
+      "演講題目": "Apache Ambari & Hadoop  & Vagrant 平台暨實務操作 (8 小時)。",
+      "邀請單位": "資策會",
+      "演講日期": "2016-11"
+    },
+    {
+      "演講題目": "Big Data 的發展現況 & 專案分享",
+      "邀請單位": "巨鷗科技",
+      "演講日期": "2016-11"
+    },
+    {
+      "演講題目": "巨量資料專案經驗談",
+      "邀請單位": "國立暨南國際大學",
+      "演講日期": "2016-10"
+    },
+    {
+      "演講題目": "One data analysis study from Volunteered Geographic Information (VGI) data in Taiwan, 歐盟TISA組織拜訪",
+      "邀請單位": "臺灣防災產業協會",
+      "演講日期": "2016-08"
+    },
+    {
+      "演講題目": "智慧型工程管考系統 : 資料分析經驗談",
+      "邀請單位": "2016 台灣資料科學家年會",
+      "演講日期": "2016-07"
+    },
+    {
+      "演講題目": "專家學者專題演講-大數據時代的生活新思維",
+      "邀請單位": "臺中市政府研考會",
+      "演講日期": "2015-11"
+    },
+    {
+      "演講題目": "年會專題演講-大數據環境下之儲存暨計算應用",
+      "邀請單位": "台灣資訊儲存技術協會",
+      "演講日期": "2015-10"
+    },
+    {
+      "演講題目": "以開源軟體實踐資料分析案例介紹",
+      "邀請單位": "東海大學資工系",
+      "演講日期": "2015-08"
+    },
+    {
+      "演講題目": "公務人力訓練中心-巨量資料分析研習班(3hr)",
+      "邀請單位": "臺中市政府",
+      "演講日期": "2015-08"
+    },
+    {
+      "演講題目": "業務講習演講-「大數據Big Data」",
+      "邀請單位": "水利署",
+      "演講日期": "2015-06"
+    },
+    {
+      "演講題目": "資訊講座及教育訓練-「初級數據分析師」(2/3)- Hadoop 生態系統介紹 (3hr)",
+      "邀請單位": "台中市政府資訊中心",
+      "演講日期": "2015-04"
+    },
+    {
+      "演講題目": "資訊講座及教育訓練-「初級數據分析師」(3/3)- 資料的進階應用與視覺化 (3hr)",
+      "邀請單位": "台中市政府資訊中心",
+      "演講日期": "2015-04"
+    },
+    {
+      "演講題目": "資訊講座及教育訓練-「初級數據分析師」(1/3)- 資料學基本概念與案例介紹 (3hr)",
+      "邀請單位": "台中市政府資訊中心",
+      "演講日期": "2015-04"
+    },
+    {
+      "演講題目": "Big Data 的發展現況 & 專案分享",
+      "邀請單位": "智慧聯網科技社群",
+      "演講日期": "2015-03"
+    },
+    {
+      "演講題目": "資訊應用能力與雲端程式開發經驗談",
+      "邀請單位": "資訊工程系",
+      "演講日期": "2014-11"
+    },
+    {
+      "演講題目": "雲端運算與巨量資料處理研發之路經驗談",
+      "邀請單位": "國立聯合大學資管系",
+      "演講日期": "2014-03"
+    },
+    {
+      "演講題目": "Big Data Processing Technology, applications and its insight",
+      "邀請單位": "OGC TC\\PC 2013",
+      "演講日期": "2013-12"
+    },
+    {
+      "演講題目": "巨量資料處理技術、應用及其深層想法",
+      "邀請單位": "靜宜大學資工系",
+      "演講日期": "2013-10"
+    },
+    {
+      "演講題目": "巨量資料處理技術、應用及其深層想法",
+      "邀請單位": "中研院資訊所",
+      "演講日期": "2013-09"
+    },
+    {
+      "演講題目": "無人空中載具(UAV)影像於雲端儲存與處理之實作及後續應用",
+      "邀請單位": "Hadoop 2013",
+      "演講日期": "2013-09"
+    },
+    {
+      "演講題目": "教育雲經驗分享，資訊工業策進會創新應用服務研究所-SSS(Story Sharing Stage)會議",
+      "邀請單位": "資策會",
+      "演講日期": "2011-11"
+    },
+    {
+      "演講題目": "雲端服務加值—雲端儲存系統 ~經濟部「2011產業技術白皮書」新書巡迴推廣列車~ (科專技術商機媒合說明會—雲端服務議題)",
+      "邀請單位": "經濟部",
+      "演講日期": "2011-11"
+    }
+  ],
+  "material": [],
+  "tal": []
+}

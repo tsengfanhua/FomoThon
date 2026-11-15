@@ -1,0 +1,868 @@
+{
+  "success": true,
+  "info": {
+    "yms_year": 114.0,
+    "yms_smester": 2.0,
+    "sub_id": "76460",
+    "cls_id": "CF03140",
+    "scr_dup": "001",
+    "sub_id3": "FEAS4034",
+    "cls_name": "財精四學位學程",
+    "cls_ename": "Bachelor's Program of Financial Engineering and Actuarial Science",
+    "sub_name": "證券投資學",
+    "sub_ename": "SECURITIES  INVESTMENT",
+    "scr_mso": "選修",
+    "scr_mso_en": "Elective",
+    "scr_credit": 3.0,
+    "scr_periodly": "(二)02-04",
+    "scr_periodly_eng": "(Tue)02-04",
+    "lang_name": "中文                                                      ",
+    "lang_ename": "Chinese",
+    "scr_room": "行209",
+    "scr_room_eng": "ADB209",
+    "scr_teacher": "張巧宜",
+    "scr_teacher_eng": "Chiao-Yi Chang",
+    "scr_selcode": "1869",
+    "scr_elearning": "全學期",
+    "scr_elearning_en": "Full semester",
+    "scr_hours": "3",
+    "scr_english": "N",
+    "unt_name": null,
+    "unt_ename": null,
+    "link_traminal": null,
+    "link_traminal_en": null,
+    "scr_ldl": "D",
+    "course_mk": "N",
+    "teams_mk": "Y",
+    "sub_title": null,
+    "sub_title_en": null,
+    "sub_describe": null,
+    "sub_describe_en": null,
+    "hasDescription": null,
+    "hasInstructor": null,
+    "hasTA": null,
+    "hasTextBooks": null,
+    "hasReadings": null,
+    "hasiSoftwares": null,
+    "hasAssistSoftwares": null,
+    "hasObjective": null,
+    "hasWeeklyScds": null,
+    "hasGradeRules": null,
+    "hasGradeRuleDescribe": null,
+    "hasIntegrity": null,
+    "hasCoursePol": null,
+    "hasCourseRem": null,
+    "hasObjectiveReleation": null,
+    "hasTopicSdgs": null,
+    "hasTopicAiIndicators": null,
+    "hasSubTitleDesc": null
+  },
+  "subTitleDesc": null,
+  "description": {
+    "sub_id3": null,
+    "sub_name": "證券投資學",
+    "sub_ename": "SECURITIES  INVESTMENT",
+    "describe_ch": "介紹證券市場的交易制度與投資人的行為，協助學生建立基本分析與技術分析的能力，從而在特定的時間，對合理的股價有基本的認識，並協助學生建立基本的投資組合的能力。",
+    "describe_eh": "The trading system and legal requirements of TSE and behavior of investors in Taiwan will be introduced in this course. Students will learn to understand the market, to estimate the value of the firm, to time the market by technical analysis and to build a reasonable portfolio. Every student needs to present the valuation of a firm in TSE to show their abilities either in financial statements and industry analysis.",
+    "pre_subname": "",
+    "pre_sub_id3": null,
+    "pre_sub_ename": "",
+    "pre_describe": null,
+    "pre_describe_en": null,
+    "scr_credit": 3.0
+  },
+  "targets": [
+    {
+      "seq": 1,
+      "describe_ch": "交易制度，交易法規，證券市場的歷史與投資人的行為",
+      "describe_en": "The trading system and legal requirements of TSE and behavior of investors in TSE."
+    },
+    {
+      "seq": 2,
+      "describe_ch": "基本分析與技術分析",
+      "describe_en": "Financial statements, industry analysis and technical analysis."
+    },
+    {
+      "seq": 3,
+      "describe_ch": "建立投資組合的能力",
+      "describe_en": "Portfolio analysis."
+    },
+    {
+      "seq": 4,
+      "describe_ch": "個別公司合理股價的判斷",
+      "describe_en": "The valuation of a firm in TSE"
+    }
+  ],
+  "teachersInfo": [
+    {
+      "cname": "張巧宜",
+      "ename": "Chiao-Yi Chang",
+      "period": " ",
+      "roletype": 0,
+      "email": "cychang.t13@o365.fcu.edu.tw",
+      "ext": null
+    }
+  ],
+  "textBooks": {
+    "yms_year": 114.0,
+    "yms_smester": 2.0,
+    "cls_id": "CF03140",
+    "sub_id": "76460",
+    "scr_dup": "001",
+    "tpb_seq": 1,
+    "tpb_book": "<div>教師自行編製的上課的講義</div>\n",
+    "tpb_book_en": null
+  },
+  "readings": {
+    "yms_year": 114.0,
+    "yms_smester": 2.0,
+    "cls_id": "CF03140",
+    "sub_id": "76460",
+    "scr_dup": "001",
+    "tpc_seq": 1,
+    "tpc_book": "<div>財金時事雜誌及報導</div>\n",
+    "tpc_book_en": null
+  },
+  "iSoftwares": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CF03140",
+      "sub_id": "76460",
+      "scr_dup": "001",
+      "seq_no": 1,
+      "soft_kind": "2",
+      "soft_name": "excel",
+      "soft_memo": "<div>選用方便函數工具，以計算評核證券價值。</div>\n",
+      "soft_name_en": null,
+      "soft_memo_en": null
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CF03140",
+      "sub_id": "76460",
+      "scr_dup": "001",
+      "seq_no": 2,
+      "soft_kind": "2",
+      "soft_name": "生成式AI應用",
+      "soft_memo": "<div>生成式AI產生python程式於股票資訊。</div>\n",
+      "soft_name_en": null,
+      "soft_memo_en": null
+    }
+  ],
+  "assistSoftwares": [],
+  "weeklyScds": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CF03140",
+      "sub_id": "76460",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "1~3",
+      "tpd_reading": "<div>證券投資基本實務。</div>\n\n<div>證券市場之管理機構介紹。</div>\n\n<div>證券交易平台(創櫃、興櫃、櫃買中心,&nbsp; 證交所)</div>\n\n<div>證券交易實務(經紀、自營與承銷)。<br />\n投資人交易實務(限價與市價，漲跌停板，融資與融券，軋空行情, 當日沖銷)。</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": " ",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CF03140",
+      "sub_id": "76460",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "4~5",
+      "tpd_reading": "<div>投資組合實務。</div>\n\n<div>ETF投資介紹。</div>\n\n<div>ETN商品說明。</div>\n\n<div>TDR風險與套利。</div>\n\n<div>金融資產證券化受益證券。</div>\n\n<div>&nbsp;</div>\n\n<div>&nbsp;\n<div>&nbsp;</div>\n</div>\n\n<div>&nbsp;</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": " ",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CF03140",
+      "sub_id": "76460",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "6",
+      "tpd_reading": "<div>\n<div>不動產市場實務與不動產證券化之REIT與REAT投資介紹。</div>\n\n<div>\n<div>&nbsp;</div>\n</div>\n</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": " ",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CF03140",
+      "sub_id": "76460",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "7-8",
+      "tpd_reading": "<div>\n<div>股票評選-基本面。</div>\n\n<div>股票評選-技術面。</div>\n\n<div>股票評選-市場/產業面。</div>\n</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": " ",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CF03140",
+      "sub_id": "76460",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "9-11",
+      "tpd_reading": "<div>影響股價的因素</div>\n\n<div>投資心理學(過度自信、定錨效果、處置效果、損失趨避...)</div>\n\n<div>期中考</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": " ",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CF03140",
+      "sub_id": "76460",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "12-15",
+      "tpd_reading": "<div>AI投資現況與可行性。</div>\n\n<div>券商投資組合工具應用實務。</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": " ",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CF03140",
+      "sub_id": "76460",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "16-18",
+      "tpd_reading": "<div>&nbsp;</div>\n\n<div>學生投資實務期末報告</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": " ",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    }
+  ],
+  "gradeRules": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CF03140",
+      "sub_id": "76460",
+      "scr_dup": "001",
+      "evalb_id": "D1",
+      "score_rate": 35,
+      "evalb_memo": "期中考期間，隨班考試。",
+      "evalb_memo_en": null,
+      "evalb_name": "期中考",
+      "evalb_name_en": "Midterm examination",
+      "seq": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CF03140",
+      "sub_id": "76460",
+      "scr_dup": "001",
+      "evalb_id": "D5",
+      "score_rate": 35,
+      "evalb_memo": "個人或分組對說投資組合與篩選股票之說明。",
+      "evalb_memo_en": null,
+      "evalb_name": "期末專題",
+      "evalb_name_en": "Final presentation",
+      "seq": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CF03140",
+      "sub_id": "76460",
+      "scr_dup": "001",
+      "evalb_id": "L4",
+      "score_rate": 30,
+      "evalb_memo": "點名，上課學習態度，隨堂問答。",
+      "evalb_memo_en": null,
+      "evalb_name": "出席狀況",
+      "evalb_name_en": "Attendances",
+      "seq": 0
+    }
+  ],
+  "gradeRuleDescribe": {
+    "yms_year": 114.0,
+    "yms_smester": 2.0,
+    "cls_id": "CF03140",
+    "sub_id": "76460",
+    "scr_dup": "001",
+    "tpa_score_new": "<div>課堂授課說明，當日盤勢解讀； 期中考40%, 上課出席與參與率30%, 期末報告30%.</div>\n\n<div>&nbsp;</div>\n\n<div>&nbsp;</div>\n\n<div>&nbsp;</div>\n",
+    "tpa_score_new_en": null,
+    "course_pol": "準時上課是基本禮節。\n請小心使用手機, 以不影響學習為原則, 上課在任課教師帶領下, 會使用網路資源學習, 但不應將網路學習自行擴到至與課程無關內容。",
+    "course_pol_en": null,
+    "course_rem": null,
+    "course_rem_en": null,
+    "ais_meno": "<div>誠實是最好的政策。分數高低非最重要的學習成果。</div>\n\n<div>考試不作弊，作業不抄襲與註明出處來源。</div>\n\n<div>剽竊他人智慧結晶不具學術倫理。應誠實面對自己學習成果,以作為課程成果檢視之依據。</div>\n\n<div>&nbsp;</div>\n",
+    "ais_meno_en": null,
+    "ilearn_mk": "N"
+  },
+  "integrity": {
+    "yms_year": 114.0,
+    "yms_smester": 2.0,
+    "cls_id": "CF03140",
+    "sub_id": "76460",
+    "scr_dup": "001",
+    "tpa_score_new": "<div>課堂授課說明，當日盤勢解讀； 期中考40%, 上課出席與參與率30%, 期末報告30%.</div>\n\n<div>&nbsp;</div>\n\n<div>&nbsp;</div>\n\n<div>&nbsp;</div>\n",
+    "tpa_score_new_en": null,
+    "course_pol": "準時上課是基本禮節。\n請小心使用手機, 以不影響學習為原則, 上課在任課教師帶領下, 會使用網路資源學習, 但不應將網路學習自行擴到至與課程無關內容。",
+    "course_pol_en": null,
+    "course_rem": null,
+    "course_rem_en": null,
+    "ais_meno": "<div>誠實是最好的政策。分數高低非最重要的學習成果。</div>\n\n<div>考試不作弊，作業不抄襲與註明出處來源。</div>\n\n<div>剽竊他人智慧結晶不具學術倫理。應誠實面對自己學習成果,以作為課程成果檢視之依據。</div>\n\n<div>&nbsp;</div>\n",
+    "ais_meno_en": null,
+    "ilearn_mk": "N"
+  },
+  "policy": {
+    "yms_year": 114.0,
+    "yms_smester": 2.0,
+    "cls_id": "CF03140",
+    "sub_id": "76460",
+    "scr_dup": "001",
+    "tpa_score_new": "<div>課堂授課說明，當日盤勢解讀； 期中考40%, 上課出席與參與率30%, 期末報告30%.</div>\n\n<div>&nbsp;</div>\n\n<div>&nbsp;</div>\n\n<div>&nbsp;</div>\n",
+    "tpa_score_new_en": null,
+    "course_pol": "準時上課是基本禮節。\n請小心使用手機, 以不影響學習為原則, 上課在任課教師帶領下, 會使用網路資源學習, 但不應將網路學習自行擴到至與課程無關內容。",
+    "course_pol_en": null,
+    "course_rem": null,
+    "course_rem_en": null,
+    "ais_meno": "<div>誠實是最好的政策。分數高低非最重要的學習成果。</div>\n\n<div>考試不作弊，作業不抄襲與註明出處來源。</div>\n\n<div>剽竊他人智慧結晶不具學術倫理。應誠實面對自己學習成果,以作為課程成果檢視之依據。</div>\n\n<div>&nbsp;</div>\n",
+    "ais_meno_en": null,
+    "ilearn_mk": "N"
+  },
+  "courseBankC": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CF03140",
+      "sub_id": "76460",
+      "scr_dup": "001",
+      "seq": 1,
+      "describe_ch": "交易制度，交易法規，證券市場的歷史與投資人的行為",
+      "describe_en": "The trading system and legal requirements of TSE and behavior of investors in TSE.",
+      "core_id": "A",
+      "core_item": "學生具備商管專業的思辨學習能力",
+      "core_eng": "Students possess critical thinking capability in business and management issue.",
+      "core_level": "5 ",
+      "strgy": [
+        "01",
+        "07"
+      ],
+      "evalb": [
+        "D1",
+        "L3",
+        "L4"
+      ],
+      "strgy_name": [
+        "課堂授課",
+        "指定閱讀"
+      ],
+      "strgy_name_en": [
+        "Classroom instruction",
+        "Extensive reading"
+      ],
+      "evalb_name": [
+        "期中考",
+        "課堂討論參與",
+        "出席狀況"
+      ],
+      "evalb_name_en": [
+        "Midterm examination",
+        "Participation",
+        "Attendances"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CF03140",
+          "sub_id": "76460",
+          "scr_dup": "001",
+          "seq": 1,
+          "strgy_id": "01",
+          "strgy_name": null,
+          "strgy_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CF03140",
+          "sub_id": "76460",
+          "scr_dup": "001",
+          "seq": 1,
+          "strgy_id": "07",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CF03140",
+          "sub_id": "76460",
+          "scr_dup": "001",
+          "seq": 1,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D1",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CF03140",
+          "sub_id": "76460",
+          "scr_dup": "001",
+          "seq": 1,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "L3",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CF03140",
+          "sub_id": "76460",
+          "scr_dup": "001",
+          "seq": 1,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "L4",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CF03140",
+      "sub_id": "76460",
+      "scr_dup": "001",
+      "seq": 2,
+      "describe_ch": "基本分析與技術分析",
+      "describe_en": "Financial statements, industry analysis and technical analysis.",
+      "core_id": "A",
+      "core_item": "學生具備商管專業的思辨學習能力",
+      "core_eng": "Students possess critical thinking capability in business and management issue.",
+      "core_level": "5 ",
+      "strgy": [
+        "01",
+        "03",
+        "07"
+      ],
+      "evalb": [
+        "D1",
+        "D5",
+        "L3"
+      ],
+      "strgy_name": [
+        "課堂授課",
+        "個案討論",
+        "指定閱讀"
+      ],
+      "strgy_name_en": [
+        "Classroom instruction",
+        "Case study",
+        "Extensive reading"
+      ],
+      "evalb_name": [
+        "期中考",
+        "期末專題",
+        "課堂討論參與"
+      ],
+      "evalb_name_en": [
+        "Midterm examination",
+        "Final presentation",
+        "Participation"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CF03140",
+          "sub_id": "76460",
+          "scr_dup": "001",
+          "seq": 2,
+          "strgy_id": "01",
+          "strgy_name": null,
+          "strgy_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CF03140",
+          "sub_id": "76460",
+          "scr_dup": "001",
+          "seq": 2,
+          "strgy_id": "03",
+          "strgy_name": null,
+          "strgy_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CF03140",
+          "sub_id": "76460",
+          "scr_dup": "001",
+          "seq": 2,
+          "strgy_id": "07",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CF03140",
+          "sub_id": "76460",
+          "scr_dup": "001",
+          "seq": 2,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D1",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CF03140",
+          "sub_id": "76460",
+          "scr_dup": "001",
+          "seq": 2,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D5",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CF03140",
+          "sub_id": "76460",
+          "scr_dup": "001",
+          "seq": 2,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "L3",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CF03140",
+      "sub_id": "76460",
+      "scr_dup": "001",
+      "seq": 3,
+      "describe_ch": "建立投資組合的能力",
+      "describe_en": "Portfolio analysis.",
+      "core_id": "D",
+      "core_item": "學生具備跨領域及問題解決能力。",
+      "core_eng": "Students possess interdisciplinary capabilities and problem-solving skills, supported by appropriate analytical techniques.",
+      "core_level": "3 ",
+      "strgy": [
+        "08",
+        "10"
+      ],
+      "evalb": [
+        "D5"
+      ],
+      "strgy_name": [
+        "書面報告",
+        "小組討論及活動"
+      ],
+      "strgy_name_en": [
+        "Written report",
+        "Group activity & discussion"
+      ],
+      "evalb_name": [
+        "期末專題"
+      ],
+      "evalb_name_en": [
+        "Final presentation"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CF03140",
+          "sub_id": "76460",
+          "scr_dup": "001",
+          "seq": 3,
+          "strgy_id": "08",
+          "strgy_name": null,
+          "strgy_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CF03140",
+          "sub_id": "76460",
+          "scr_dup": "001",
+          "seq": 3,
+          "strgy_id": "10",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CF03140",
+          "sub_id": "76460",
+          "scr_dup": "001",
+          "seq": 3,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D5",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CF03140",
+      "sub_id": "76460",
+      "scr_dup": "001",
+      "seq": 4,
+      "describe_ch": "個別公司合理股價的判斷",
+      "describe_en": "The valuation of a firm in TSE",
+      "core_id": "D",
+      "core_item": "學生具備跨領域及問題解決能力。",
+      "core_eng": "Students possess interdisciplinary capabilities and problem-solving skills, supported by appropriate analytical techniques.",
+      "core_level": "3 ",
+      "strgy": [
+        "03",
+        "08"
+      ],
+      "evalb": [
+        "D5"
+      ],
+      "strgy_name": [
+        "個案討論",
+        "書面報告"
+      ],
+      "strgy_name_en": [
+        "Case study",
+        "Written report"
+      ],
+      "evalb_name": [
+        "期末專題"
+      ],
+      "evalb_name_en": [
+        "Final presentation"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CF03140",
+          "sub_id": "76460",
+          "scr_dup": "001",
+          "seq": 4,
+          "strgy_id": "03",
+          "strgy_name": null,
+          "strgy_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CF03140",
+          "sub_id": "76460",
+          "scr_dup": "001",
+          "seq": 4,
+          "strgy_id": "08",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CF03140",
+          "sub_id": "76460",
+          "scr_dup": "001",
+          "seq": 4,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D5",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    }
+  ],
+  "topicSdgs": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CF03140",
+      "sub_id": "76460",
+      "scr_dup": "001",
+      "sdgs_seq": 1,
+      "main_related": "Y",
+      "ind_related": "N",
+      "iss_name": "社會進步面",
+      "iss_ename": "Social Progress",
+      "content_name": "消除貧窮",
+      "content_ename": "No Poverty"
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CF03140",
+      "sub_id": "76460",
+      "scr_dup": "001",
+      "sdgs_seq": 6,
+      "main_related": "Y",
+      "ind_related": "N",
+      "iss_name": "社會進步面",
+      "iss_ename": "Social Progress",
+      "content_name": "減少經濟、教育及身心弱勢的不平等",
+      "content_ename": "Reduced Inequalities"
+    }
+  ],
+  "topicAiIndicators": [],
+  "learnHours": {
+    "total": 0.0,
+    "tpdOnlineAsyTotal": 0.0,
+    "tpdOnlineSynTotal": 0.0,
+    "tpdOnlineFaceTotal": 0.0,
+    "asySynInTotalPercent": 0.0
+  },
+  "crossVerYear": 114
+}

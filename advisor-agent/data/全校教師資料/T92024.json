@@ -1,0 +1,1064 @@
+{
+  "teacherId": "T92024",
+  "name": "鄭經華",
+  "mainUnit": "資訊電機學院",
+  "detailUnit": "電子工程學系",
+  "skill": [
+    "超大型積體電路設計VLSI design",
+    "超大型積體電路測試VLSI Testing",
+    "超大型積體電路電腦輔助設計VLSI CAD"
+  ],
+  "edu": [
+    "國立中正大學 資訊工程學系 博士",
+    "私立中華大學 電機工程學系 碩士",
+    "中正理工學院 電子工程科 二專"
+  ],
+  "fcuExp": [
+    "積體電路電磁相容研究發展中心 推廣服務組組長",
+    "積體電路電磁相容研究發展中心 推廣服務組組長",
+    "器材中心 主任",
+    "電子工程學系 系主任",
+    "電機與通訊工程博士學位學程 代理主任",
+    "生醫資訊暨生醫工程碩士學位學程 代理主任",
+    "逢甲大學帆宣智慧城市5G實驗室 研究員",
+    "電子工程學系 助理教授",
+    "電子工程學系 副教授",
+    "電子工程學系 教授",
+    "電子工程學系 教授",
+    "電子工程學系 教授",
+    "電子工程學系 特聘教授"
+  ],
+  "currjob": [],
+  "otherExp": [
+    "大葉大學 資訊工程學系 助理教授",
+    "中正理工學院 資訊工程學系 助理教授"
+  ],
+  "journal": [
+    {
+      "論文名稱": "An Efficient Adaptive Noise Removal Filter on Range Images for LiDAR Point Clouds",
+      "期刊名稱": "Electronics (SCIE)",
+      "作者群": "Le, Minh-Hai, Ching-Hwa Cheng, and Don-Gey Liu"
+    },
+    {
+      "論文名稱": "An Adaptive Group of Density Outlier Removal Filter: Snow Particle Removal from LiDAR Data",
+      "期刊名稱": "Electronics (SCIE)",
+      "作者群": "Minh-Hai Le * , Ching-Hwa Cheng , Don-Gey Liu  and Thanh-Tuan Nguyen"
+    },
+    {
+      "論文名稱": "A Fast Cross-Correlation Combined with Interpolation Algorithms for the LiDAR Working in the High Background Noise",
+      "期刊名稱": "Electronics (SCIE)",
+      "作者群": "Nguyen, T.-T.; Cheng, C.-H.; Liu, D.-G.; Le, M.-H."
+    },
+    {
+      "論文名稱": "TDC-Unet: Triple Unet with Dilated Convolution for Medical Image Segmentation",
+      "期刊名稱": "International Journal of Pharma Medicine and Biological Sciences (scopus)",
+      "作者群": "Song-Toan Tran(陳松全), Thanh-Tuan Nguyen(阮成俊), Minh-Hai Le(黎明海), Ching-Hwa Cheng, and Don-Gey Liu"
+    },
+    {
+      "論文名稱": "Improvement of Accuracy and Precision of the LiDAR System Working in High Background Light Conditions",
+      "期刊名稱": "Electronics (SCIE)",
+      "作者群": "Thanh -Tuan Nguyen(阮成俊), Ching-Hwa Cheng, Don-Gey Liu, Minh-Hai Le(黎明海)"
+    },
+    {
+      "論文名稱": "Performance-binning and yield-improvement by clock-edge adjusted circuit for multi-Vdd multi-Vth designed chips",
+      "期刊名稱": "Analog Integrated Circuits and Signal Processing (SCIE)",
+      "作者群": "Ching-Hwa Cheng"
+    },
+    {
+      "論文名稱": "MORE-UNET: MULTI-OUTPUTS RECURRENT UNET FOR MEDICAL IMAGE SEGMENTATION",
+      "期刊名稱": "International Journal of Electrical, Electronics and Data Communication (iscopus)",
+      "作者群": "SONG-TOAN TRAN(陳松全), CHING-HWA CHENG, THANH-TUAN NGUYEN(阮誠俊), MINH-HAI LE(黎明海),  DON-GEY LIU"
+    },
+    {
+      "論文名稱": "TMD-Unet: Triple-Unet with Multi-Scale Input Features and Dense Skip Connection for Medical Image Segmentation",
+      "期刊名稱": "Healthcare (SCIE)",
+      "作者群": "Song-Toan Tran(陳松全), Ching-Hwa Cheng, Thanh-Tuan Nguyen(阮成俊), Minh-Hai Le(黎明海), Don-Gey Liu"
+    },
+    {
+      "論文名稱": "A Multiple Layer U-Net, Un-Net, for Liver and Liver Tumor Segmentation in CT",
+      "期刊名稱": "A Multiple Layer U-Net, Un-Net, for Liver and Liver Tumor Segmentation in CT (SCIE)",
+      "作者群": "S. -T. Tran, C. -H. Cheng, D. -G. Liu,"
+    },
+    {
+      "論文名稱": "A Multiple Layer U-Net, Un-Net, for Liver and Liver Tumor Segmentation in CT",
+      "期刊名稱": "IEEE Access (SCIE)",
+      "作者群": "Song-Toan TRAN(陳松全), Ching-Hwa Cheng, and Don-Gey Liu"
+    },
+    {
+      "論文名稱": "A DIGITALIZED MANAGEMENT MECHANISM FOR LOW-COST LOW-POWER MULTIPLE-VOLTAGE 3D-STACK SYSTEMS",
+      "期刊名稱": "International Journal of Electrical Engineering (EI)",
+      "作者群": "Ching-Hwa Cheng"
+    },
+    {
+      "論文名稱": "A DIGITALIZED MANAGEMENT MECHANISM FOR LOW-COST LOW-POWER MULTIPLE-VOLTAGE 3D-STACK SYSTEMS",
+      "期刊名稱": "International Journal of Electrical Engineering (EI Compendex)",
+      "作者群": "Ching-Hwa Cheng"
+    },
+    {
+      "論文名稱": "Performance Improvement for Two-Lens Panoramic Endoscopic System during Minimally Invasive Surgery",
+      "期刊名稱": "Journal of Healthcare Engineering (SCIE)",
+      "作者群": "Dinh Thai Kim , Ching Hwa Cheng ,Don Gey Liu, Kai-Che Jack Liu, Shih Wei Wayne Huang,  Song Toan Tran"
+    },
+    {
+      "論文名稱": "Designing a New Endoscope for Panoramic‑View with Focus‑Area 3D‑Vision in Minimally Invasive Surgery",
+      "期刊名稱": "Journal of Medical and Biological Engineering (SCIE)",
+      "作者群": "Dinh Thai Kim, · Ching‑Hwa Cheng, · Don‑Gey Liu, · Kai Che Jack Liu, · Wayne Shih Wei Huang"
+    },
+    {
+      "論文名稱": "Double-Gate Two-Step Source/Drain Poly-Si Thin-Film Transistor",
+      "期刊名稱": "coatings (SCIE)",
+      "作者群": "Feng-Tso Chien, Chih-Ping Hung, Hsien-Chin Chiu, Tsung-Kuei Kang, Ching-Hwa Cheng,  and Yao-Tsung Tsai"
+    },
+    {
+      "論文名稱": "Speed Improvement in Image Stitching for Panoramic Dynamic Images during Minimally Invasive Surgery",
+      "期刊名稱": "Journal of Healthcare Engineering (SCIE)",
+      "作者群": "Dinh Thai Kim, Van Thang Nguyen, Ching-Hwa Cheng, Don-Gey Liu, Kai Che Jack Liu, and Kai Che Jack Huang,"
+    },
+    {
+      "論文名稱": "3D Real-Time Assisted Surgery System Development from Using Image guided and Electric-Field Sensing Techniques",
+      "期刊名稱": "International Journal of Computer Assisted Radiology and Surgery (SCIE)",
+      "作者群": "*Ching-Hwa Cheng, Don-Gey Liu"
+    },
+    {
+      "論文名稱": "A Magnetic Navigation System Development for Minimum Invasive Surgery",
+      "期刊名稱": "International Journal of Computer Assisted Radiology and Surgery (IJCARS) (SCIE)",
+      "作者群": "Yuen-Shing Li, Tak-Yin Wan, *Ching-Hwa Cheng, Don-Gey Liu,"
+    },
+    {
+      "論文名稱": "A Voltage-Current Adjusted Low-Power Video Decoder Chip Design with Validation for a Wireless Panoramic Endoscope",
+      "期刊名稱": "Journal of Medical and Biological Engineering (SCIE)",
+      "作者群": "*Ching-Hwa Cheng, Sheng-Wei Hsu"
+    },
+    {
+      "論文名稱": "SCKVdd: A Scalable Clock-Controlled Self-Stabilized Voltage Technique for Low Power CMOS Digital Circuits",
+      "期刊名稱": "ACM Journal on Emerging Technologies in Computing Systems (SSCI)",
+      "作者群": "ching-hwa cheng"
+    },
+    {
+      "論文名稱": "Using oscillation voltage to drive dynamic-domino circuits for designing\r\nlow-power bio-implanted electronics",
+      "期刊名稱": "Microelectronic Engineering (SSCI)",
+      "作者群": "ching-hwa cheng"
+    },
+    {
+      "論文名稱": "Toward a Faster Screening of Faulty Digital Chips via Current-Bound Estimation Based on Device Size and Threshold Voltage",
+      "期刊名稱": "Journal of Low Power Electronics and Applications (JLPEA) ()",
+      "作者群": "Ching-Hwa Cheng"
+    },
+    {
+      "論文名稱": "Efficient IR Drop Analysis and Alleviation Methodologies Using Dual Threshold Voltages with Gate Resizing Techniques",
+      "期刊名稱": "Journal of Integrated Circuit and System (SCIE)",
+      "作者群": "Ching-Hwa Cheng"
+    },
+    {
+      "論文名稱": "A Two-Lens Minimally Invasive Surgical Panoramic Endoscope Design and Implementation",
+      "期刊名稱": "International Journal of Electrical Engineering (EI)",
+      "作者群": "Ching-Hwa Cheng, Sheng-Ping Hung, Jiun-In Guo, Kai-Che Liu, Chi-Hsiang Wu"
+    },
+    {
+      "論文名稱": "A Regularly Modularized Multiplexer-Based Full Adder for Arithmetic Applications",
+      "期刊名稱": "Applied Mathematics & Information Sciences (SCIE)",
+      "作者群": "C.-K. Tung, S.-H. Shieh and C.-H. Cheng"
+    },
+    {
+      "論文名稱": "A Panoramic Wireless Endoscope System Design for the Application of Minimally Invasive Surgery",
+      "期刊名稱": "Smart Science (ISSN 2308-0477) (review)",
+      "作者群": "Chun-Hsiang Peng, Ching-Hwa Cheng"
+    },
+    {
+      "論文名稱": "Reductionofcurrentmismatchingintheswitches-in-source CMOS chargepump",
+      "期刊名稱": "Microelectronics Journal (SCIE)",
+      "作者群": "Miin-Shyue Shiau, Heng-Shou Hsu, Ching-Hwa Cheng*, Hsiu-Hua Weng,Hong-Chong Wu, Don-Gey Liu"
+    },
+    {
+      "論文名稱": "A Supply Voltage and Clock Signal Stabilized Mechanism Design and Implementation for 3D Chip",
+      "期刊名稱": "Journal of Electrical Engineering (invite)",
+      "作者群": "Ching-Hwa Cheng*"
+    },
+    {
+      "論文名稱": "Low-power high-speed full adder for portable electronic applications",
+      "期刊名稱": "ELECTRONICS LETTERS (SCIE)",
+      "作者群": "C.-K. Tung, S.-H. Shieh and C.-H. Cheng"
+    },
+    {
+      "論文名稱": "A Low-Cost Digital Scalable Voltage-Frequency Adjustor Design with Low-Power Video Decoder System Validation",
+      "期刊名稱": "Journal of Electrical Engineering (EI)",
+      "作者群": "Ching-Hwa Cheng, Sheng-Wei Hsu"
+    },
+    {
+      "論文名稱": "Voltage- Difference to Design a Dual-Voltage Low-Power Multiple-Mode Video Decoder",
+      "期刊名稱": "International Journal of Electric Engineering (EI)",
+      "作者群": "Ching-Hwa Cheng, Sheng-Wei Hsu, Cheng-An Chien, Jiun-In Guo"
+    },
+    {
+      "論文名稱": "Design Example of Useful Memory Latency for Developing a Hazard Preventive Pipeline High-Performance Embedded-Microprocessor",
+      "期刊名稱": "VLSI Design (SCIE,EI)",
+      "作者群": "Ching-Hwa Cheng"
+    },
+    {
+      "論文名稱": "A Novel Self-Aligned Double-Channel Polysilicon Thin-Film Transistor",
+      "期刊名稱": "IEEE Trans. on Electron Devices (SCIE)",
+      "作者群": "Feng-Tso Chien ; Chii-Wen Chen ; Tien-Chun Lee ; Chi-Ling Wang ; Ching-Hwa Cheng ; Tsung-Kuei Kang ; Hsien-Chin Chiu"
+    },
+    {
+      "論文名稱": "A Fully Synthesizable Design Flow for High-Speed Dual-Phase Domino Logi",
+      "期刊名稱": "Open Journal of Circuits and Systems (invite)",
+      "作者群": "Yu-Tzn Tsai, Hsiang-Hui Huang, Ching-Hua Cheng"
+    },
+    {
+      "論文名稱": "Dynamic Voltage Assignment Technique for Cell Based Design Under Power and Performance Constraints",
+      "期刊名稱": "Open Journal of Circuits and Systems (invite)",
+      "作者群": "Ching-Hua Cheng"
+    },
+    {
+      "論文名稱": "A Novel Self-Aligned Double-Channel Poly-Silicon Thin Film Transistor",
+      "期刊名稱": "IEEE Transactions on Electron Devices ()",
+      "作者群": "Feng-Tso Chien, Chii-Wen Chen, Tien-Chun Lee, Chi-Ling Wang, Ching-Hwa Cheng, Tsung-Kuei Kang, Hsien-Chin Chiu"
+    },
+    {
+      "論文名稱": "Using a Voltage Domain Programmable Technique for Low Power Management Cell-based Design",
+      "期刊名稱": "Journal of Low Power Electronics and Applications (review)",
+      "作者群": "Ching-Hwa Cheng*"
+    },
+    {
+      "論文名稱": "Robust Data Retention Characteristic of Sol-gel Derived Nanocrystal Memory by Hot Hole Trapping",
+      "期刊名稱": "IEEE Electron Device Letters (SCIE)",
+      "作者群": "Chi-Chang Wu, Wen-Luh Yang, Fu-Hsiang Ko, Hsin-Chiang You, Chen-Chih Yeh, Pin-Lin Liu, Chiou-Kou Tung, Ching-Hwa Cheng,"
+    },
+    {
+      "論文名稱": "A Clock-Controlled Self-Stabilized Voltage Technique for Reducing Dynamic Power in CMOS Digital Circuits",
+      "期刊名稱": "IEICE Transactions on Electronics (SCIE)",
+      "作者群": "Ching-Hwa Cheng, Chin-Hsien Wang"
+    },
+    {
+      "論文名稱": "Measurement of small displacements with polarization properties of internal reflection and heterodyne interferometry",
+      "期刊名稱": "Opt. Eng. (SCIE)",
+      "作者群": "Kun-Huang Chen, Jing-Heng Chen Ching-Hwa Cheng and Tsung-Han Yang"
+    },
+    {
+      "論文名稱": "A 252Kgates/4.9Kbytes SRAM/71mW Multi-Standard Video Decoder for High Definition Video Applications",
+      "期刊名稱": "ACM transactions on TODAES (SCIE)",
+      "作者群": "Chih-Da Chien, Cheng-An Chien, Jui-Chin Chu, Ching-Hwa Cheng, Jiun-In Guo"
+    },
+    {
+      "論文名稱": "A Novel High-Performance Poly-Silicon Thin-Film Transistor With a Double-Channel Structure",
+      "期刊名稱": "IEEE Electron Device Lett. (SCIE)",
+      "作者群": "Feng-Tso Chien, Chin-Mu Fang, Chien-Nan Liao, Chii-Wen Chen, Ching-Hwa Cheng, and Yao-Tsung Tsai"
+    },
+    {
+      "論文名稱": "High performance power VDMOSFETs with split-gate floating NP-well",
+      "期刊名稱": "Semicond. Sci. Technol. (SCIE)",
+      "作者群": "Chien-Nan Liao, Feng-Tso Chien, Chii-Wen Chen, Ching-Hwa Cheng, and Yao-Tsung Tsai"
+    },
+    {
+      "論文名稱": "SONOS memories with embedded silicon nanocrystals in nitride",
+      "期刊名稱": "Semiconductor Science and Technology (SCIE)",
+      "作者群": "M-C Liu, T-Y Chiang, P-Y Kuo, M-H Chou, Y-H Wu, H-C You, C-H Cheng, S-H Liu, W-L Yang, T-F Lei, and T-S Chao"
+    },
+    {
+      "論文名稱": "REDUCING THE STRESS ON THE OUTPUT TRANSISTORS OF ON-PANEL TFT GATE DRIVERS",
+      "期刊名稱": "Chinese Journal of ELECTRON DEVICES (EI,SA , CEPS)",
+      "作者群": "Miin-Shyue Shiau, Ming-Yuan Tsao, Hong-Chong Wu, Ching-Hwa Cheng, Don-Gey Liu"
+    },
+    {
+      "論文名稱": "Reducing the Stress on the Output Transistors of On-Panel TFT Gate Drivers",
+      "期刊名稱": "Chinese Journal of Electron Devices (EI)",
+      "作者群": "Miin-Shyue Shiau, Ming-Yuan Tsao, Hong-Chong Wu, Ching-Hwa Cheng, Don-Gey Liu"
+    },
+    {
+      "論文名稱": "Fixed-Outline Floorplanning Using Robust Evolutionary Search",
+      "期刊名稱": "Engineering Applications of Artificial Intelligence (SCIE,EI)",
+      "作者群": "De-Sheng Chen, Chang-Tzu Lin, Yi-Wen Wang, and Ching-Hwa Cheng"
+    },
+    {
+      "論文名稱": "Functional Slack Time Computation of Logic Gate",
+      "期刊名稱": "JSIEE ()",
+      "作者群": "C. H. Cheng, T. K. Tien, Y. C. Shen, and S.C. Chang"
+    },
+    {
+      "論文名稱": "Novel Techniques for Improving Testability Analysis",
+      "期刊名稱": "Transactions on Fundamentals of Electronics, Communications (SCIE)",
+      "作者群": "Yin-He Su, Ching-Hwa. Cheng, and Shih-Chieh Chang"
+    },
+    {
+      "論文名稱": "Charge Sharing Alleviation and Detection for CMOS Domino Circuits",
+      "期刊名稱": "IEEE Trans. on Computer-Aided Design of Integrated Circuits ()",
+      "作者群": "Shih-Chieh Chang, Ching-Hwa. Cheng, Wen-Ben Jone, Shen-Da Li, and Jinn-Shyan Wang"
+    },
+    {
+      "論文名稱": "Low-Speed Scan Testing of Charge-Sharing Faults for CMOS Domino Circuits",
+      "期刊名稱": "IEE Electronics Letters ()",
+      "作者群": "Ching-Hwa. Cheng, Wen-Ben Jone, Shih-Chieh Chang, and Jinn-Shyan Wang"
+    },
+    {
+      "論文名稱": "Random pattern testability enhancement by circuit rewiring",
+      "期刊名稱": "VLSI Design: An International Journal of Custom Chip Design, ()",
+      "作者群": "Shih-Chieh Chang, Kwen-Yo Chen, Ching-Hwa Cheng, Wen-Ben Jone and Sunil R. Das"
+    },
+    {
+      "論文名稱": "A Comprehensive Reconfiguration Scheme for Fault-Tolerant VLSI/WSI Array Processors",
+      "期刊名稱": "IEEE Trans. on Computers ()",
+      "作者群": "Yung-Yuan Chen, Shambhu J. Upadhyaya and Ching-Hwa Cheng"
+    }
+  ],
+  "journal2": [],
+  "conference": [
+    {
+      "論文名稱": "Design of a Low-Voltage Instrumentation Amplifier at 1.2 V",
+      "會議名稱": "The 15th IEEE International Conference on Anti-counterfeiting, Security, and Identification, ASID'2021",
+      "作者群": "Jen-I Liao, Jianxiong Yang, Kangling, Minjuan Zheng, Miin-Shyue Shiau*, Hong-Chong Wu, Ching-Hwa Cheng, Don-Gey Liu"
+    },
+    {
+      "論文名稱": "Delay Cells for the Time-to-Digital Converter Implemented in FPGA",
+      "會議名稱": "2021 IEEE 15th International Conference on Anti-counterfeiting, Security, and Identification, ASID",
+      "作者群": "Ze-Xian Chen; Zhiquan Wang; Guolan Peng; Miin-Shyue Shiau; Hong-Chong Wu; Ching-Hwa Cheng; Don-Gey Liu"
+    },
+    {
+      "論文名稱": "Development of a Portable Self-Guidance Rescue Car and a 3D-Screen LIDAR Mapping System",
+      "會議名稱": "2020 IEEE International Symposium on Circuits and Systems (ISCAS)",
+      "作者群": "Ching-Hwa Cheng; Pham Minh Dung(范明勇); Tang-Chieh Liu(劉堂傑)"
+    },
+    {
+      "論文名稱": "Design and Implementation of a Pre-Surgical Investigation System by VR+AR+MR Techniques",
+      "會議名稱": "2020 IEEE International Symposium on Circuits and Systems (ISCAS)",
+      "作者群": "Ching-Hwa Cheng; Huy Anh Nguyen(阮輝安); Tang-Chieh Liu(劉堂傑)"
+    },
+    {
+      "論文名稱": "A Real-Time Robot-Arm Surgical Guiding System Development by Image-Tracking,”",
+      "會議名稱": "IEEE International Conference on Artificial Intelligence Circuits and Systems (AICAS), 2020.",
+      "作者群": "Ching-Hwa Cheng"
+    },
+    {
+      "論文名稱": "A Quantity Evaluation and Reconfiguration Mechanism for Signal- and Power-Interconnections in 3D-Stacking System,”",
+      "會議名稱": "The 25th Asia and South Pacific Design Automation Conference - University Design Contest, 2020.",
+      "作者群": "Ching-Hwa Cheng"
+    },
+    {
+      "論文名稱": "High Performance Double-Gate Polycrystalline-silicon Thin-Film Transistors with Split-Drain Together with a Vertical Light Doping Drain Design",
+      "會議名稱": "2019 Asia-Pacific Workshop on Fundamentals and Applications of Advanced Semiconductor Devices",
+      "作者群": "Meng-Yuan Wu, Wei-Hsun Wang, Zhi-Zhe Wang, Ching-Hwa Cheng, and Feng-Tso Chien"
+    },
+    {
+      "論文名稱": "Implementing a Wireless Four-Camera Panoramic-Vision with Lesion-Tracking for in-Vivo Laser Treatment Microscopic Surgery",
+      "會議名稱": "International Symposium on Fundamentals of Electrical Engineering 2016",
+      "作者群": "ching-hwa cheng"
+    },
+    {
+      "論文名稱": "Potential Early-Stage Cancer Identification Technique During Endoscopic Examination",
+      "會議名稱": "International Symposium on Fundamentals of Electrical Engineering 2016",
+      "作者群": "*ching-hwa cheng"
+    },
+    {
+      "論文名稱": "A Low-Power Multi-Vdd Dual-Core Motion Estimation Chip Design and Implementation for Wireless Panoramic Endoscopy",
+      "會議名稱": "5th International Symposium on Next-Generation Electronics",
+      "作者群": "Jian-Lin Zeng, ching-hwa cheng*"
+    },
+    {
+      "論文名稱": "A Panoramic Stitching Vision Performance Improvement Technique for Minimally\r\nInvasive Surgery",
+      "會議名稱": "The 5th International Symposium on Next-Generation Electronics",
+      "作者群": "Kim Dinh Thai, ching-ha cheng*"
+    },
+    {
+      "論文名稱": "An ECG Front-End Circuit with Single Power Supply",
+      "會議名稱": "IEEE International Conference on Consumer Electronics – Taiwan, 2015(ICCE-TW 2015)",
+      "作者群": "Hsiu-Cheng Lee, Jen-Bo Wang, Kai-Hsiang Juang, Kuo-Ching Hsiao, Hsung-Bie Chang, Yeng-Ting Lu, Ching-Sung Lee, Ming-Hsueh Hsiau, Qi-Ming Wan, Vu Duc Thai, Ching-Hua Cheng, Don-Gey Liu*"
+    },
+    {
+      "論文名稱": "適用於微創手術之多鏡頭廣視角內視鏡即時影像技術",
+      "會議名稱": "4B生醫工程研討會",
+      "作者群": "彭俊翔、洪聖評、鄭經華"
+    },
+    {
+      "論文名稱": "適用於微創手術之實鏡影像導引技術",
+      "會議名稱": " 4B生醫工程研討會",
+      "作者群": "洪聖評、彭俊翔、鄭經華"
+    },
+    {
+      "論文名稱": "A Panoramic Endoscope System Design and Implementation for Minimally Invasive Surgery",
+      "會議名稱": "The 25rd VLSI Design/CAD Symposium",
+      "作者群": "Chun-Hsiang Peng, Ching-Hwa Cheng, Jiun-In Guo"
+    },
+    {
+      "論文名稱": "A Power-Aware Quad-Voltage H.264 Encoder Chip for Wireless Panoramic Endoscope Applications",
+      "會議名稱": "The 25rd VLSI Design/CAD Symposium",
+      "作者群": "Shiang-Ren Yang, An-Tia Xiao, Yuan-Hsiang Maio, Ching-Hwa Cheng, Jiun-In Guo,"
+    },
+    {
+      "論文名稱": "Thin-Film Transistor Integrated Circuits for System-on-a-Panel Applications",
+      "會議名稱": "2014 IEEE International Conference on Electron Devices and Solid-State Circuits (EDSSC2014)",
+      "作者群": "N.-X. Huang, R.-C. Sun, H.-C. Wu, C.-H. Cheng, H.-S. Hsu, M.-S. Shiau, D.-G. Liu*"
+    },
+    {
+      "論文名稱": "A Panoramic Endoscope Design and Implementation for Minimally Invasive Surgery",
+      "會議名稱": "2014 IEEE International Symposium on Circuits and Systems",
+      "作者群": "Chun-Hsiang Peng, Ching-Hwa Cheng"
+    },
+    {
+      "論文名稱": "AN INTEGRATED PHYSIOLOGICAL SYSTEM",
+      "會議名稱": "Symposium on Engineering, Medicine and Biology Applications (SEMBA 2014)",
+      "作者群": "Wan-Ju Wu, Jing-Jhong Hou, Chia-Wei Wu, Miin-Shyue Shiau, Yenyu Wang, Kai-Che Liu, Ching-Hwa Cheng, Heng-Shou Hsu, Hong-Chong Wu, Guang-Bao Lu, and Don-Gey Liu*"
+    },
+    {
+      "論文名稱": "ACTIVE FILTERS FOR ECG SIGNALS",
+      "會議名稱": "Symposium on Engineering, Medicine and Biology Applications (SEMBA 2014)",
+      "作者群": "Ming-Syuan Wu, Ruei-Lin Yang,Ruei-Cheng Sun, Heng-Shou Hsu, Yenyu Wang, Kai-Che Liu, Ching-Hwa Cheng, Miin-Shyue Shiau, Hong-Chong Wu, Guang-Bao Lu, and Don-Gey Liu*"
+    },
+    {
+      "論文名稱": "A Panoramic Endoscope Design and Implementation for Minimally Invasive Surgery",
+      "會議名稱": "SEMBA",
+      "作者群": "Chun-Hsiang Peng, Ching-Hwa Cheng"
+    },
+    {
+      "論文名稱": "Power-Aware Multi-Voltage H.264 Encoder Chip Design Methodology for Wireless Panoramic Endoscope",
+      "會議名稱": "SEMBA",
+      "作者群": "An-Tia Xiao, Shiang-Ren Yang, Yu-Shin Wang, Ching-Hwa Cheng, Jiun-In Guo,"
+    },
+    {
+      "論文名稱": "Integrated Amorphous-Si TFT Circuits for Gate Drivers on LCD Panels",
+      "會議名稱": "ASICCON",
+      "作者群": "Nan-Xiong Huang, Hsi Rong Han, Wen Tui Liao, Chih Hung Huang, Wen Chun Wang, Miin-Shyue Shiau, Ching-Hwa Cheng, Hong-Chong Wu, Heng-Shou Hsu, Juin J. Liou, Shry-Sann Liao, Ruei-Cheng Sun, Guang-Bao Lu, Don-Gey Liu"
+    },
+    {
+      "論文名稱": "Design for Low Current Mismatch in the CMOS Charge Pump",
+      "會議名稱": "Circuit Architectures and Methodologies for Emerging Applications, Int’l SOC Design Conf. (ISOCC2013)",
+      "作者群": "Miin-Shyue Shiau, Ching-Hwa Cheng, Heng-Shou Hsu, Hong-Chong Wu, Hsiu-Hua Weng, Jing-Jhong Hou, Ruei-Cheng Sun, Kai-Che Liu, Guang-Bao Lu, and Don-Gey Liu*"
+    },
+    {
+      "論文名稱": "Design for Low Current Mismatch in the CMOS Charge Pump",
+      "會議名稱": "ISOCC",
+      "作者群": "Miin-Shyue Shiau, Ching-Hwa Cheng, Heng-Shou Hsu, Hong-Chong Wu, Hsiu-Hua Weng, Jing-Jhong Hou, Ruei-Cheng Sun, Kai-Che Liu, Guang-Bao Lu, Don-Gey Liu"
+    },
+    {
+      "論文名稱": "POWER-AWARE DUAL LOW-VOLTAGE MULTI-MODE VIDEO ENCODER IMPLEMENTATION AND SYSTEM VALIDATION",
+      "會議名稱": "The 24rd VLSI Design/CAD Symposium",
+      "作者群": "Shiang-Ren Yang, An-Tia Xiao, Yuan-Hsiang Maio, Ching-Hwa Cheng, Jiun-In Guo"
+    },
+    {
+      "論文名稱": "SCKVdd: A Scalable Clock-Controlled Voltage Adjustable Technique for Performance Manageable Portable Multimedia Applications",
+      "會議名稱": "The 24rd VLSI Design/CAD Symposium",
+      "作者群": "Ching-Hwa Cheng, Chin-Hsien Wan"
+    },
+    {
+      "論文名稱": "A Panoramic Endoscope System Design and Implementation for Surgery",
+      "會議名稱": "The 24rd VLSI Design/CAD Symposium",
+      "作者群": "Chun-Hsiang Peng, Ching-Hwa Cheng"
+    },
+    {
+      "論文名稱": "A Low-Cost Scalable Voltage-Frequency Adjustor for Implementing Low-Power Systems",
+      "會議名稱": "ISCAS會議",
+      "作者群": "Ching-Hwa Cheng, Sheng-Wei Hsu, 1Jiun-In Guo"
+    },
+    {
+      "論文名稱": "The Panoramic Stereo Images Development and Validation for Surgery Endoscope",
+      "會議名稱": " 4B生醫工程研討會",
+      "作者群": "彭俊翔、劉浚宇、陳冠宏、鄭經華"
+    },
+    {
+      "論文名稱": "The Development of Wireless Panorama Endoscope with Multiple Display Platforms for Minimally Invasive Surgery",
+      "會議名稱": " 4B生醫工程研討會",
+      "作者群": "黃昭仁、彭俊翔、鄭經華"
+    },
+    {
+      "論文名稱": "Low-Power Multiple-Voltage Sequential Circuit Design Flow Development with Test Chip Validation",
+      "會議名稱": "The 23rd VLSI Design/CAD Symposium",
+      "作者群": "Cheng-Chieh Chen, Ching-Hwa Cheng"
+    },
+    {
+      "論文名稱": "A Low-Cost Digital Scalable Voltage-Frequency Adjustor Design and Implementation",
+      "會議名稱": "The 23rd VLSI Design/CAD Symposium",
+      "作者群": "Sheng-Wei Hsu, Jia-Wei Chen, Ching-Hwa Cheng, Jiun-In Guo"
+    },
+    {
+      "論文名稱": "Design and Implementation of a Dual-Voltage Low-Power Multiple-Mode Video Decoder",
+      "會議名稱": "The 23rd VLSI Design/CAD Symposium",
+      "作者群": "Sheng-Wei Hsu, Cheng-An Chien, Jia-Wei Chen, Ching-Hwa Cheng, Jiun-In Guo"
+    },
+    {
+      "論文名稱": "A High-Speed Dual-Phase Processing Pipelined Domino Circuit Design with a Built-in Performance Adjusting Mechanism",
+      "會議名稱": "ieee VLSI- DAT",
+      "作者群": "Ching-Hwa Cheng, Jiun-In Guo"
+    },
+    {
+      "論文名稱": "Using Oscillation Voltage Driven Domino Circuits to Design Low-Power Bio-Electronics",
+      "會議名稱": "生醫工程應用研討會(SEMBA)暨仿生系統與醫療輔具國際研討會(BIOPRO)",
+      "作者群": "Ching-Hwa Cheng, *Chiou-Kou Tung"
+    },
+    {
+      "論文名稱": "A Low-Power Management Technique for High-Performence Domino Circuits",
+      "會議名稱": "16th Asia and South Pacific Design Automation Conference",
+      "作者群": "Yu-Tzu Tsai, Cheng-An Chien, Ching-hwa Cheng, Jiun-In Guo"
+    },
+    {
+      "論文名稱": "Dual-Phase Pipeline Domino Circuit Design Automation with a Built-in Perforence Adjusting Mechanism",
+      "會議名稱": "16th Asia and South Pacific Design Automation Conference",
+      "作者群": "Yu-Tzu Tsai, Cheng-An Chien, Ching-Hwa Cheng,Jiun-In Guo"
+    },
+    {
+      "論文名稱": "A H.264/MPEG-2 Dual Mode Video Decoder Chip Supporting Temporal/Spatial Scalable Video",
+      "會議名稱": "IEEE ASPDAC",
+      "作者群": "Cheng-An Chien, Yao-Chang Yang, Hsiu-Cheng Chang, Jia-Wei Chen, Cheng-Yen Chang, Jiun-In Guo, Jinn-Shan Wang, Ching-Hwa Cheng"
+    },
+    {
+      "論文名稱": "PPEO:A Quick Power-Performance Estimation and Optimization Tool Based on Threshold Voltage Adjustment and Transistor Sizing",
+      "會議名稱": "2010 International Conference on High-Speed Circuits Design",
+      "作者群": "Ching-Hwa Cheng, Yap-Chung Phong"
+    },
+    {
+      "論文名稱": "A Clock-Controlled Self-Stabilized Voltage Technique with High Dynamic Power Reduction for Portable Multimedia Applications",
+      "會議名稱": "THE FIRST INTERNATIONAL CONFERENCE ON GREEN GIRCUITS AND SYSTEMS",
+      "作者群": "Cheng-An Chien, Ching-Hwa Cheng, Jiun-In Guo"
+    },
+    {
+      "論文名稱": "Low Power Dynamic Voltage Assignment Technique with Performance Management for PLLs",
+      "會議名稱": "The 21th VLSI Desion/CAD symposium",
+      "作者群": "Jyun-Sian Lin,Jung-chin Cheng, Ching-Hwa Cheng, Jiun-In Guo"
+    },
+    {
+      "論文名稱": "A Modified Charge Pump with Current-Matching Property for PLLs",
+      "會議名稱": "The 21th VLSI Design/CAD symposium 2010",
+      "作者群": "Hsiu-Hua Weng, Miin-Shyue Shiau, Hong-Chong Wu, Ching-Hwa Cheng, Don-Gey Liu"
+    },
+    {
+      "論文名稱": "The Fine Resolution Double EdgeClipping with Calibration Technique for Built -In At-Speed Delay Testing",
+      "會議名稱": "The 21th VLSI Design/CAD symposium",
+      "作者群": "Jyun-Sian Lin, Chen-I Chung, Ching-Hwa Cheng,Don-Gey Liu"
+    },
+    {
+      "論文名稱": "An Efficiency Enhanced Mixed-Structure Charge Pump",
+      "會議名稱": "12th International Symosium on Integrated Circuits",
+      "作者群": "Zong-Han Hsieh, Nan-Xiong Huang, Miin-Shyue Shiau, Hong-Chong Wu, Don-Gey Liu"
+    },
+    {
+      "論文名稱": "使用差動放大器改良鎖相迴路中電荷幫浦之電流不匹配",
+      "會議名稱": "2010第五屆智慧生活科技研討會Intelligent Living Technology Conference (ILT2010)",
+      "作者群": "翁秀樺, 蕭敏學, 吳鴻璋, 鄭經華, 劉堂傑"
+    },
+    {
+      "論文名稱": "A Fully Synthesizable Design Flow for High-Speed Dual-Phase Domino Logic",
+      "會議名稱": "ETS",
+      "作者群": "Yu-Tzn Tsai, Cheng-Chih Tsai, Ming-Hung Hsieh, Ching-Hua Cheng"
+    },
+    {
+      "論文名稱": "Dynamic Voltage Assignment Technique for Cell Based Design Under Power and Performance Constraints",
+      "會議名稱": "ETS",
+      "作者群": "Yu-Tzi Tsai, Jyun-Sian Lin, Ching-Hwa Cheng"
+    },
+    {
+      "論文名稱": "High-speed Double Clipping Edge Self Testing Technique for Recycling Slow ATE",
+      "會議名稱": "ETS",
+      "作者群": "Chun-Hao Hsu, Cheng-Chih Tsai, Ching-Hua Cheng"
+    },
+    {
+      "論文名稱": "The 3D Chip Power Integrity Analysis with Wireless Transmission Design",
+      "會議名稱": "ETS",
+      "作者群": "Jung-Chih Cheng, Ming-Hsuan Wu, Ku-Hao Ku, Pin-Jui Lai, Ching-Hwa Cheng"
+    },
+    {
+      "論文名稱": "Dynamic Voltage Domain Assignment Technique for Low Power Performance Manageable Cell Based Design",
+      "會議名稱": "ASPDAC",
+      "作者群": "Elone Lee, Feng-Tso Chien, Ching-Hwa Cheng, Jiun-In Guo"
+    },
+    {
+      "論文名稱": "Built-in Self At-Speed Delay Binning and Calibration Mechanism in Wireless Test Platform",
+      "會議名稱": "ASPDAC",
+      "作者群": "Chen-I Chung, Jyun-Sian Jhou, Ching-Hwa Cheng"
+    },
+    {
+      "論文名稱": "Fine Resolution Double Edge Clipping with Calibration Technique for Built-In At-Speed Delay Testing",
+      "會議名稱": "ASPDAC",
+      "作者群": "Chen-I Chung, Shuo-Wen Chang, Feng-Tso Chien, Ching-Hwa Cheng"
+    },
+    {
+      "論文名稱": "Fine Resolution Double Edge Clipping with Calibration Technique for Built-In At-Speed Delay Testing",
+      "會議名稱": "ITC",
+      "作者群": "Chen-I Chung, Shuo-Wen Chang, Ching-Hwa Cheng"
+    },
+    {
+      "論文名稱": "A 439K Gates/10.9KB SRAM/2-328 mW Dual Mode Video Decoder Supporting Temporal/Spatial Scalable Video",
+      "會議名稱": "ASSCC",
+      "作者群": "Cheng-An Chien, Yao-Chang Yang, Jia-Wei Chen, Hsiu-Cheng Chang, Chin-Hsien Wang, Hsiang-Hui Huang, Ching-Hwa Cheng, Jinn-Shan Wang, and Jiun-In Guo"
+    },
+    {
+      "論文名稱": "Functional Built-In Delay Binning and Calibration Mechanism for On-Chip at-Speed Self Test",
+      "會議名稱": "ATS",
+      "作者群": "Chen-I Chung, Jyun-Sian Jhou, Ching-Hwa Cheng, Sih-Yan Li"
+    },
+    {
+      "論文名稱": "The Fine Resolution Double Edge Clipping with Calibration Technique for Built-In At-Speed Delay Testing",
+      "會議名稱": "VTTW",
+      "作者群": "Sih-Yan Li, Shuo-Wen Chang, Ching-Hwa Cheng"
+    },
+    {
+      "論文名稱": "An All-Digital High-Precision Built-In Delay Time Measurement Circuit",
+      "會議名稱": "IEEE VTS",
+      "作者群": "Ming-Chien Tsai, Ching-Hwa Cheng, Chiou-Mao Yang"
+    },
+    {
+      "論文名稱": "A Full-Synthesizable High-Precision Built-In Delay Time Measurement Circuit",
+      "會議名稱": "ASPDAC",
+      "作者群": "Ming-Chien Tsai, Ching-Hwa Cheng"
+    },
+    {
+      "論文名稱": "CKVdd: A Self-Stabilization Ramp-Vdd Technique for Dynamic Power Reduction",
+      "會議名稱": "ASPDAC",
+      "作者群": "Chin-Hsien Wang, Ching-Hwa Cheng, Jiun-In Guo"
+    },
+    {
+      "論文名稱": "A Multi-Standard Video Decoder for High Definition Video Applications",
+      "會議名稱": "ISCAS",
+      "作者群": "Chih-Da Chien, Cheng-An Chien, Jui-Chin Chu, Jiun-In Guo, Ching-Hwa.Cheng"
+    },
+    {
+      "論文名稱": "本系鄭經華助理教授出席於美國加州舉辦的「第26屆VLSI測試會議」",
+      "會議名稱": "本系鄭經華助理教授出席於美國加州舉辦的「第26屆VLSI測試會議」",
+      "作者群": ""
+    },
+    {
+      "論文名稱": "Noise-Aware Floorplanning for Fast Power Supply Network Design",
+      "會議名稱": "International Symposium on Circuits and Systems",
+      "作者群": "Chang-Tzu Lin, Tai-Wei Kung, De-Sheng Chen*, Yi-Wen Wang, and Ching-Hwa Cheng"
+    },
+    {
+      "論文名稱": "Using Clock-Vdd to Test and Diagnosis the Power-Switch in Power-Gating Circuit",
+      "會議名稱": "IEEE VLSI Test Symposium",
+      "作者群": "Hsiang-Hui Huang, Ching-Hwa Cheng,"
+    },
+    {
+      "論文名稱": "Reducing the Stress on the Output Transistors of On-Panel TFT Gate Drivers",
+      "會議名稱": "Asia Display 2007 - International Conference and Exhibition",
+      "作者群": "Miin-Shyue Shiau, Ming-Yuan Tsao(曹銘原), Hong-Chong Wu, Ching-Hwa Cheng, Don-Gey Liu"
+    },
+    {
+      "論文名稱": "A 252K Gates/71mW Multi-Standard Multi-Channel Video Decoder for High Definition Video Applications",
+      "會議名稱": "ISSCC, 2007",
+      "作者群": "Chih-Da Chien, Chien-Chang Lin, Yi-Hung Shih, Ho-Chun Chen, Cheng-Yen Yu, Chih-Liang Chen, Ching-Hwa Cheng, and Jiun-In Guo"
+    },
+    {
+      "論文名稱": "PIPD: Power Integrity Path Delay Analysis Tool",
+      "會議名稱": "International Computer Symposium",
+      "作者群": "Wei-Chih Shen, Jyun-Sian Jhou, Ching-Hwa Cheng, De-Sheng Che"
+    },
+    {
+      "論文名稱": "A New Discharging Path for the Integrated On-Panel TFT Gate Driver",
+      "會議名稱": "International System On Chip Conference (ISOCC2006)",
+      "作者群": "Miin-Shyue Shiau, Ming-Yuan Tsao(曹銘原), Hong-Chong Wu, Ching-Hwa Cheng, Don-Gey Liu"
+    },
+    {
+      "論文名稱": "Diagnose the Failure Power-Switch within Power Gating Circuit",
+      "會議名稱": "The 17th VLSI Design/CAD symposium",
+      "作者群": "Chih-Liang Chen, Hsiang-Hui Huang, Ching-Hwa Cheng, De-Sheng Chen"
+    },
+    {
+      "論文名稱": "A Delay/Power Compromise Mixed Static/Domino Circuit Synthesizer",
+      "會議名稱": "The 17th VLSI Design/CAD symposium",
+      "作者群": "Tsung-Ting Yeh, Pei-Hsun Lin, Chih-Liang Chen, Ching-Hwa Cheng"
+    },
+    {
+      "論文名稱": "Reliable Gate Driver Circuits on Integrated TFT-LCD Panels",
+      "會議名稱": "電子通訊與應用研討會",
+      "作者群": "Ming-Yuan Tsao, Miin-Shyue Shiau , Hong-Chong Wu, Don-Gey Liu, Ching-Hwa Cheng"
+    },
+    {
+      "論文名稱": "Reduce High Voltage Stress Time on Gate Driver Circuits of Integrated TFT-LCD Panels",
+      "會議名稱": "台灣顯示科技研討會",
+      "作者群": "Miin-Shyue Shiau1, Ming-Yuan Tsao, Hong-Chong Wu , Don-Gey Liu, Ching-Hwa Cheng"
+    },
+    {
+      "論文名稱": "一個高效能、低功率的靜/動態混合電路合成器",
+      "會議名稱": "2006年微電子發展與應用電子技術研討會",
+      "作者群": "葉重廷, 林佩勳,陳志良, 鄭經華"
+    },
+    {
+      "論文名稱": "低功率緩升電源元件庫之研製",
+      "會議名稱": "2006年微電子發展與應用電子技術研討會",
+      "作者群": "張文瑞, 鍾?毅, 蔡佑慈, 鄭經華"
+    },
+    {
+      "論文名稱": "使用緩降地電源來設計低功率電路",
+      "會議名稱": "2006年微電子發展與應用電子技術研討會",
+      "作者群": "陳冠宇, 鄭經華"
+    },
+    {
+      "論文名稱": "A Novel Design Methodology for SI Aware Floorplanning Designs",
+      "會議名稱": "17th VLSI Design/CAD Symposium",
+      "作者群": "Chang-Tzu Lin, Tai-Wei Kung, De-Sheng Chen, Yi-Wen Wang, and Ching-Hwa Cheng"
+    },
+    {
+      "論文名稱": "多緩升電源之低功率技術",
+      "會議名稱": "2006年微電子發展與應用電子技術研討會",
+      "作者群": "李義隆, 吳政謙, 陳柏寧, 鄭經華"
+    },
+    {
+      "論文名稱": "Reducing the Stress on the Output Transistor of On-Panel TFT Gate Drivers",
+      "會議名稱": " Asia Display 2007",
+      "作者群": "Ming-Yuan Tsao, Miin-Shyue Shiau , Hong-Chong Wu, Ching-Hwa Cheng, Don-Gey Liu"
+    },
+    {
+      "論文名稱": "A New discharge Path for the Integrated On-Panel Gate Driner",
+      "會議名稱": "ISOCC2007",
+      "作者群": "Ming-Yuan Tsao, Miin-Shyue Shiau , Hong-Chong Wu, Ching-Hwa Cheng, Don-Gey Liu"
+    },
+    {
+      "論文名稱": "All-Digital Built-in Circuit Delay Tester",
+      "會議名稱": "15th IEEE North Atlantic Test Workshop",
+      "作者群": "Ching-Hwa Cheng, De-Sheng Chen, Wen-Jui Chang, Chih-Liang Chen"
+    },
+    {
+      "論文名稱": "Elevator Talk",
+      "會議名稱": "24th IEEE VLSI Test Symposium",
+      "作者群": "Ching-Hwa Cheng"
+    },
+    {
+      "論文名稱": "The Scan Delay Testing Methodology Under Low/Noisy Power",
+      "會議名稱": "The 16th VLSI Design/CAD symposium",
+      "作者群": "Ching-Hwa Cheng"
+    },
+    {
+      "論文名稱": "Diagnose the Failure Power-Switch within Power Gating Circuit",
+      "會議名稱": "The 17th VLSI Design/CAD symposium",
+      "作者群": "Tsung-Ting Yeh, Pei-Hsun Lin, Chih-Liang Chen, Ching-Hwa Cheng"
+    },
+    {
+      "論文名稱": "A Delay/Power Compromise Mixed Static/Domino Circuit Synthesizer",
+      "會議名稱": "The 17th VLSI Design/CAD symposium",
+      "作者群": "34.\tChih-Liang Chen, Hsiang-Hui Huang, Ching-Hwa Cheng, De-Sheng Chen"
+    },
+    {
+      "論文名稱": "Reliable Gate Driver Circuits on Integrated TFT-LCD Panels",
+      "會議名稱": "電子通訊與應用研討會",
+      "作者群": "Ming-Yuan Tsao, Miin-Shyue Shiau , Hong-Chong Wu, Don-Gey Liu, Ching-Hwa Cheng,"
+    },
+    {
+      "論文名稱": "Reduce High Voltage Stress Time on Gate Driver Circuits of Integrated TFT-LCD Panels",
+      "會議名稱": "台灣顯示科技研討會",
+      "作者群": "Miin-Shyue Shiau1, Ming-Yuan Tsao, Hong-Chong Wu , Don-Gey Liu, Ching-Hwa Cheng,"
+    },
+    {
+      "論文名稱": "一個高效能、低功率的靜/動態混合電路合成器",
+      "會議名稱": "2006年微電子發展與應用電子技術研討會",
+      "作者群": "37.\t葉重廷, 林佩勳,陳志良, 鄭經華"
+    },
+    {
+      "論文名稱": "低功率緩升電源元件庫之研製",
+      "會議名稱": "2006年微電子發展與應用電子技術研討會",
+      "作者群": "張文瑞, 鍾毅, 蔡佑慈, 鄭經華"
+    },
+    {
+      "論文名稱": "使用緩降地電源來設計低功率電路",
+      "會議名稱": "2006年微電子發展與應用電子技術研討會",
+      "作者群": "陳冠宇, 鄭經華"
+    },
+    {
+      "論文名稱": "多緩升電源之低功率技術",
+      "會議名稱": "2006年微電子發展與應用電子技術研討會",
+      "作者群": "李義隆, 吳政謙, 陳柏寧, 鄭經華"
+    },
+    {
+      "論文名稱": "All-Digital Built-in Circuit Delay Tester",
+      "會議名稱": "15th IEEE North Atlantic Test Workshop",
+      "作者群": "Ching-Hwa Cheng, De-Sheng Chen, Wen-Jui Chang, Chih-Liang Chen"
+    },
+    {
+      "論文名稱": "Elevator Talk",
+      "會議名稱": "24th IEEE VLSI Test Symposium",
+      "作者群": "Ching-Hwa Cheng"
+    },
+    {
+      "論文名稱": "Power Saving Techniques Comparison of Microprocessor",
+      "會議名稱": "International SoC Design Conference",
+      "作者群": "Ching-Hwa Cheng, Tsung-Ting Yeh , Chun-Yuan Lin, Tsun-Sheng Lin,"
+    },
+    {
+      "論文名稱": "Peak Current Aware Static Re-Timing Analysis",
+      "會議名稱": "International SoC Design Conference",
+      "作者群": "Ching-Hwa Cheng, Yung-Hau Lai, Wei-Chih Shen, Wen-Jui Chang"
+    },
+    {
+      "論文名稱": "Microprocessor Hazard Prevention Design and Validation by Using FPGA on Board Memory",
+      "會議名稱": "The 15th VLSI Design/CAD symposium",
+      "作者群": "Ching-Hwa Cheng, Feng-Ming Chang, Chih-Wen Yang, Tsung-Ting Yeh"
+    },
+    {
+      "論文名稱": "The Delay Evaluation Methodology by Using Low-Voltage Wireless-Tester,",
+      "會議名稱": "IEEE 12th International Test Synthesis Workshop",
+      "作者群": "ching-hwa cheng"
+    },
+    {
+      "論文名稱": "Design a Scan Test Strategy for Dynamic CMOS Circuits",
+      "會議名稱": "IEEE International Symposium on Defect and Fault Tolerance in VLSI Systems",
+      "作者群": "Ching-Hwa Cheng"
+    },
+    {
+      "論文名稱": "Design a Scan Test Strategy for Dynamic CMOS Circuits",
+      "會議名稱": "The 14th VLSI Design/CAD symposium",
+      "作者群": "Ching-Hwa Cheng"
+    },
+    {
+      "論文名稱": "The Different Verification Practice for Pipeline Microprocessor Using FPGA",
+      "會議名稱": "IEEE International Workshop on Microprocessor Test and Verification",
+      "作者群": "Feng-Ming Chang, Chih-Wen Yang, Ching-Hwa Cheng"
+    },
+    {
+      "論文名稱": "Adaptable Voltage Scan Testing of Charge-Sharing Faults for Domino Circuits",
+      "會議名稱": "IEEE International Symposium on Defect and Fault Tolerance in VLSI Systems",
+      "作者群": "Ching-Hwa Cheng"
+    },
+    {
+      "論文名稱": "Adaptable Voltage Scan Testing of Charge-Sharing Faults for Domino Circuits",
+      "會議名稱": "The 11th VLSI Design/CAD symposium",
+      "作者群": "Ching-Hwa Cheng"
+    },
+    {
+      "論文名稱": "An Effective Framework for Fault-Tolerant VLSI/WSI Arrays Based on Hybrid Redundancy Approach",
+      "會議名稱": "IEEE International Conference on Wafer-Scale Integration",
+      "作者群": "Yung-Yuan Chen, Yung-Shiuan Shyu and Ching-Hwa Cheng"
+    },
+    {
+      "論文名稱": "An Effective Framework for Fault-Tolerant VLSI/WSI Arrays Based on Hybrid Redundancy Approach",
+      "會議名稱": "The 4th Workshop on VLSI DESIGN/CAD",
+      "作者群": "Yung-Yuan Chen, Yung-Shiuan Shyu and Ching-Hwa Cheng"
+    }
+  ],
+  "book": [],
+  "patent": [],
+  "most": [
+    {
+      "name": "具效能可調整與容雜訊干擾的二維陣列光達系統晶片之設計與驗證(1/2)",
+      "schoolYear": "113"
+    },
+    {
+      "name": "應用在生物醫療上的高精度光學感測系統設計",
+      "schoolYear": "113"
+    },
+    {
+      "name": "陣列型單光子電晶體暨短死亡時間光達晶片設計與驗證",
+      "schoolYear": "112"
+    },
+    {
+      "name": "低死亡時間與可容溫變之車用單光子偵測器即時訊號處理系統晶片設計與驗證(2/2)",
+      "schoolYear": "111"
+    },
+    {
+      "name": "低死亡時間與可容溫變之車用單光子偵測器即時訊號處理系統晶片設計與驗證(1/2)",
+      "schoolYear": "110"
+    },
+    {
+      "name": "CMOS單光子偵測器之車用光學雷達－子計畫三：CMOS單光子偵測器之車用光學雷達訊號處理系統晶片之設計與驗證(2/2)",
+      "schoolYear": "109"
+    },
+    {
+      "name": "利用平行訊號處理機制以降低光學雷達訊號量測死亡時間的系統設計與FPGA驗證",
+      "schoolYear": "109"
+    },
+    {
+      "name": "CMOS單光子偵測器之車用光學雷達－子計畫三：CMOS單光子偵測器之車用光學雷達訊號處理系統晶片之設計與驗證(1/2)",
+      "schoolYear": "108"
+    },
+    {
+      "name": "CMOS單光子偵測器之車用光學雷達－子計畫三：CMOS單光子偵測器之車用光學雷達訊號處理系統晶片之設計與驗證(2/2)",
+      "schoolYear": "107"
+    },
+    {
+      "name": "一個智慧追蹤掌鏡機器手臂",
+      "schoolYear": "107"
+    },
+    {
+      "name": "CMOS單光子偵測器之車用光學雷達－子計畫三：CMOS單光子偵測器之車用光學雷達訊號處理系統晶片之設計與驗證(1/2)",
+      "schoolYear": "106"
+    },
+    {
+      "name": "多電壓多核心中央處理器晶片之效能功率自我評估測試技術",
+      "schoolYear": "106"
+    },
+    {
+      "name": "低功耗非同步的深度學習電路之設計與實現",
+      "schoolYear": "106"
+    },
+    {
+      "name": "低功率多核心多電壓晶片的可測試技術(2/2)",
+      "schoolYear": "105"
+    },
+    {
+      "name": "應用於低功率晶片之雙可調節定電壓與震盪電路的設計與驗證",
+      "schoolYear": "105"
+    },
+    {
+      "name": "低功率多核心多電壓晶片的可測試技術(1/2)",
+      "schoolYear": "104"
+    },
+    {
+      "name": "一個精密動態可調式電源智財的設計與實現(An High-Precision Dynamic-Adjustable Voltage Source IP Design and Implementation",
+      "schoolYear": "104"
+    },
+    {
+      "name": "低功率及可測試容錯之三維封裝晶片技術(I)",
+      "schoolYear": "103"
+    },
+    {
+      "name": "智慧型行車安全紀錄系統晶片之關鍵性技術研發-子計畫六：低功率高效能電路技術與ISDRS立體整合晶片設計與實現(3/3)",
+      "schoolYear": "102"
+    },
+    {
+      "name": "雙可調節電源低功率晶片之設計與實證",
+      "schoolYear": "102"
+    },
+    {
+      "name": "智慧型行車安全紀錄系統晶片之關鍵性技術研發-子計畫六：低功率高效能電路技術與ISDRS立體整合晶片設計與實現(2/3)",
+      "schoolYear": "101"
+    },
+    {
+      "name": "發展應用動靜態混合邏輯閘自動化流程來設計低功率與高效能晶片",
+      "schoolYear": "101"
+    },
+    {
+      "name": "智慧型行車安全紀錄系統晶片之關鍵性技術研發-子計畫六：低功率高效能電路技術與ISDRS立體整合晶片設計與實現(1/3)",
+      "schoolYear": "100"
+    },
+    {
+      "name": "多電源低功率晶片之設計流程發展 ( Multiple-Voltage Low-Power Chip Design Flow Development )",
+      "schoolYear": "100"
+    },
+    {
+      "name": "3-D MOD：網路立體視訊播放系統-子計畫五：低功率/高效能立體視訊播放晶片之設計(I)",
+      "schoolYear": "99"
+    },
+    {
+      "name": "低功率可調性視訊編解碼晶片之設計暨系統平台整合驗證之實現(I)",
+      "schoolYear": "98"
+    },
+    {
+      "name": "尖峰電流造成低功率電路效能降低之分析，減緩與測試技術研究(3/3)",
+      "schoolYear": "97"
+    },
+    {
+      "name": "尖鋒電流造成低功率電路效能降低之分析減緩技術之發展",
+      "schoolYear": "97"
+    },
+    {
+      "name": "尖峰電流造成低功率電路效能降低之分析，減緩與測試技術研究(2/3)",
+      "schoolYear": "96"
+    },
+    {
+      "name": "低功率的混合式靜/動態電路之合成研究",
+      "schoolYear": "96"
+    },
+    {
+      "name": "尖峰電流造成低功率電路效能降低之分析，減緩與測試技術研究(1/3)",
+      "schoolYear": "95"
+    },
+    {
+      "name": "通曉內容之多媒體資料壓縮/索引系統及數位矽智財/晶片設計-子計畫三：混合/融合式靜態/動態電路設計與測試技術之研究(2/2)",
+      "schoolYear": "95"
+    },
+    {
+      "name": "一個高效能、低功率的靜動態混合電路合成器",
+      "schoolYear": "95"
+    },
+    {
+      "name": "通曉內容之多媒體資料壓縮/索引系統及數位矽智財/晶片設計-子計畫三：混合/融合式靜態/動態電路設計與測試技術之研究(1/2)",
+      "schoolYear": "94"
+    },
+    {
+      "name": "通曉內容之多媒體資料壓縮/索引系統及數位矽智財/晶片設計-子計畫三：混合/融合式靜態/動態電路設計與測試技術之研究",
+      "schoolYear": "93"
+    },
+    {
+      "name": "多媒體遊戲機發展平台之實現",
+      "schoolYear": "93"
+    },
+    {
+      "name": "電源下降(IR drop)問題的分析、減緩、測試技術及晶片實作驗證之研究(Ⅰ)",
+      "schoolYear": "92"
+    }
+  ],
+  "tech": [],
+  "induAca": [
+    "113年度智慧晶片系統與應用課程推廣計畫 (2024-08 to 2025-07)",
+    "112年度智慧晶片系統與應用課程推廣計畫 (2023-08 to 2024-07)",
+    "111年度智慧晶片系統與應用課程推廣計畫 (2022-08 to 2023-07)",
+    "110年度智慧晶片應用與聯網技術課程推廣計畫「超大型積體電路設計」 (2021-08 to 2022-06)",
+    "人工智慧之跑合櫃檢驗(107年度學界協助中小企業科技關懷跨域整合計畫) (2018-05 to 2018-10)",
+    "(補助)智慧機器人與GPU視覺處理之工作坊與專題實作 (2018-03 to 2018-10)",
+    "前瞻晶片系統設計(soC)學程計畫－電子設計自動化與測試 (2008-03 to 2009-02)",
+    "超大型積體電路與系統設計教育課程推廣計畫 - 系統晶片測試導論 (2004-03 to 2004-12)"
+  ],
+  "perform": [],
+  "reward": [
+    "逢甲大學論文著作獎勵傑出獎 (113, 2024-11) - 逢甲大學",
+    "112年度國科會補助大專校院研究獎勵 (112, 2023-12) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (111, 2022-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (111, 2022-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (111, 2022-11) - 逢甲大學",
+    "111年度國科會補助大專校院研究獎勵 (111, 2022-10) - 研究發展處",
+    "2022生醫工程會議 (111, 2022-09) - 大會",
+    "國研院台灣半導體研究中心成果發表會優良晶片優等設計奬 (111, 2022-09) - 台灣半導體研究中心",
+    "智慧晶片系統創新專題競賽 (111, 2022-08) - 教育部",
+    "第33屆VLSICAD會議 (111, 2022-08) - 大會",
+    "巨鷗跨界智慧生活應用獎 (111, 2022-08) - 大會",
+    "逢甲大學論文著作獎勵傑出獎 (110, 2021-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (110, 2021-11) - 逢甲大學",
+    "第五屆DPVSA會議最佳海報獎 (110, 2021-10) - 第五屆DPVSA國際會議",
+    "110年度科技部補助大專校院研究獎勵 (110, 2021-10) - 產學合作處",
+    "國研院台灣半導體研究中心成果發表會優良晶片優等設計奬 (109, 2021-07) - 台灣半導體研究中心",
+    "逢甲大學論文著作獎勵傑出獎 (109, 2020-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (109, 2020-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (109, 2020-11) - 逢甲大學",
+    "109年度科技部補助大專校院研究獎勵 (109, 2020-10) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (108, 2019-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (108, 2019-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (108, 2019-11) - 逢甲大學",
+    "108學年度科技部補助大專校院研究獎勵 (108, 2019-09) - 逢甲大學",
+    "107年度科技部補助大專校院研究獎勵 (107, 2018-08) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (106, 2017-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (105, 2016-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (105, 2016-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (105, 2016-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (104, 2015-11) - 逢甲大學",
+    "協助科技部辦理「2015科技台灣探索（候鳥計畫）」，圓滿達成任務，深獲學員、家長及海外人士之肯定 (104, 2015-11) - 科技部",
+    "2015年智慧電子 (104, 2015-08) - 教育部",
+    "104 年度生醫專題競賽入圍 (104, 2015-08) - 教育部",
+    "逢甲大學論文著作獎勵傑出獎 (103, 2014-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (103, 2014-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (103, 2014-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (103, 2014-11) - 逢甲大學",
+    "協助辦理2013科技台灣探索(候烏計畫)」，圓滿達成任務，深獲學員、家長及海外人士之肯定 (102, 2013-09) - 行政院國家科學委員會",
+    "協助辦理2012科技台灣探索(候烏計畫)」，圓滿達成任務，深獲學員、家長及海外人士之肯定 (101, 2012-10) - 行政院國家科學委員會",
+    "「2011科技台灣探索（候鳥計畫）」業已辦理完竣，本校鼎力協助有功人員 (100, 2011-09) - 行政院國家科學委員會",
+    "100年度科技部獎勵特殊優秀人才 (100, 2011-08) - 研究發展處",
+    "逢甲大學論文著作獎勵傑出獎 (99, 2010-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (99, 2010-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (99, 2010-11) - 逢甲大學",
+    "99年度科技部獎勵特殊優秀人才 (99, 2010-10) - 研究發展處",
+    "逢甲大學論文著作獎勵傑出獎 (98, 2009-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (98, 2009-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (98, 2009-11) - 逢甲大學",
+    "優良設計獎 (97, 2009-05) - 國科會國家晶片系統設計中心",
+    "第九屆旺宏金矽獎 (97, 2009-05) - 旺宏電子股份有限公司暨財團法人旺宏",
+    "第九屆旺宏金矽獎優勝獎 (97, 2009-05) - 旺宏電子股份有限公司暨財團法人旺宏教育基",
+    "97學年度教學優良教師 (97, 2008-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (97, 2008-11) - 逢甲大學"
+  ],
+  "speech": [
+    {
+      "演講題目": "A Panoramic Wireless Endoscope System Design for the Application of Minimally Invasive Surgery",
+      "邀請單位": "中興大學",
+      "演講日期": "2014-01"
+    },
+    {
+      "演講題目": "A Panoramic Wireless Endoscope System Design for the Application of Minimally Invasive Surgery",
+      "邀請單位": "清華大學",
+      "演講日期": "2013-12"
+    }
+  ],
+  "material": [
+    "Low-Power VLSI Design 短期課程\t教育部顧問室EDA聯盟\t鄭經華\t短期課程教材",
+    "微創手術模擬警示系統\t無\t劉泓緯  施秉豐  黃瀚宇  鄭經華   劉堂傑\tPBL教案",
+    "Unity平台的虛擬實境手術導航設計\t無\t仲俊瑄、洪大光、郭昱希、施彥銘、劉堂傑、鄭經華\tPBL教案",
+    "一個虛擬微創手術整合架構的設計與實現\t無\t林維濬、鄭惟誠、楊允儀、李哲宇、劉堂傑、鄭經華\tPBL教案",
+    "具強光雜訊處理及短死亡時間能力的可調式單點光達系統之設計與驗證教材\t無\t廖建豪  林承翰  洪浩哲   鄭經華  劉堂傑\tPBL教案",
+    "具強光雜訊處理及短死亡時間能力的可調式單點光達系統之設計與驗證教材\t無\t具強光雜訊處理及短死亡時間能力的可調式單點光達系統之設計與驗證教材\tPBL教案",
+    "Unity平台的虛擬實境手術導航設計\t無\t仲俊瑄、洪大光、郭昱希、施彥銘、劉堂傑、鄭經華\tPBL教案",
+    "虛擬實境發展平台實驗教材\t無\t劉堂傑、鄭經華 、吳柏文、黃奕强、蘇炳笙、林維濬、鄭惟誠、楊允儀、李哲宇\tPBL教案"
+  ],
+  "tal": []
+}

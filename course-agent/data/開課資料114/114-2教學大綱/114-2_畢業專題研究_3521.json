@@ -1,0 +1,1481 @@
+{
+  "success": true,
+  "info": {
+    "yms_year": 114.0,
+    "yms_smester": 2.0,
+    "sub_id": "45356",
+    "cls_id": "XY01101",
+    "scr_dup": "002",
+    "sub_id3": "HY5991",
+    "cls_name": "未完成課程(大學)",
+    "cls_ename": null,
+    "sub_name": "畢業專題研究",
+    "sub_ename": "BACHELOR ’S  REPORT",
+    "scr_mso": "必修",
+    "scr_mso_en": "Required",
+    "scr_credit": 2.0,
+    "scr_periodly": "(一)00",
+    "scr_periodly_eng": "(Mon)00",
+    "lang_name": "中文                                                      ",
+    "lang_ename": "Chinese",
+    "scr_room": "待排",
+    "scr_room_eng": "TBD",
+    "scr_teacher": "葉昭憲,楊朝仲,許盈松,吳俊鋐,黃振家,林秉賢,陳柏蒼,連惠邦,張嘉玲,鍾侑達",
+    "scr_teacher_eng": "You-Da Jhong,Chao-Chung Yang,Yin-Sung Hsu,Chun-Hung Wu,Cheng-Chia Huang,Bing-Shyan Lin,Po-Tsang Chen,Hui-Pang Lien,Chia-Ling Chang,You-Da Jhong",
+    "scr_selcode": "3521",
+    "scr_elearning": "全學期",
+    "scr_elearning_en": "Full semester",
+    "scr_hours": "1",
+    "scr_english": "N",
+    "unt_name": null,
+    "unt_ename": null,
+    "link_traminal": null,
+    "link_traminal_en": null,
+    "scr_ldl": "D",
+    "course_mk": "N",
+    "teams_mk": "N",
+    "sub_title": null,
+    "sub_title_en": null,
+    "sub_describe": null,
+    "sub_describe_en": null,
+    "hasDescription": null,
+    "hasInstructor": null,
+    "hasTA": null,
+    "hasTextBooks": null,
+    "hasReadings": null,
+    "hasiSoftwares": null,
+    "hasAssistSoftwares": null,
+    "hasObjective": null,
+    "hasWeeklyScds": null,
+    "hasGradeRules": null,
+    "hasGradeRuleDescribe": null,
+    "hasIntegrity": null,
+    "hasCoursePol": null,
+    "hasCourseRem": null,
+    "hasObjectiveReleation": null,
+    "hasTopicSdgs": null,
+    "hasTopicAiIndicators": null,
+    "hasSubTitleDesc": null
+  },
+  "subTitleDesc": null,
+  "description": {
+    "sub_id3": null,
+    "sub_name": "畢業專題研究",
+    "sub_ename": "BACHELOR ’S  REPORT",
+    "describe_ch": "本課程為水利系大學部重要之必修科目，屬終端課程之一。由2-3人為一組，依專長或興趣選擇本系相關領域研究題目及指導教授。學生須先修習所選定論文領域之連貫式終端課程，經由教授指導及研究生的輔助，進行指定題目之實驗研究、撰寫論文及發表審查。學生經過專題實驗訓練，可學習到研究方法論、實驗設計技巧、數據分析、論文撰寫及口頭發表經驗。透過團隊合作方式之過程，培養學生負責任、分工合作及溝通技巧，建立就業或升學之基礎。",
+    "describe_eh": "This is a required course for all undergraduate students, and is a final project type of training. Our department has three academic fields. Each team consists of 2 to 3 students and is responsible for producing an undergraduate thesis in a selected field . Students need to take related courses. Also, each team signs up a topic which is provided by a department faculty at the end of their senior year. During the following year, the faculty member will be their major advisor providing research guide on article reading, data collecting, experiment conducting, data analysis, issues compiling, thesis writing and presentation. Communication skill and team work are also an emphasis.",
+    "pre_subname": "",
+    "pre_sub_id3": null,
+    "pre_sub_ename": "",
+    "pre_describe": null,
+    "pre_describe_en": null,
+    "scr_credit": 2.0
+  },
+  "targets": [
+    {
+      "seq": 1,
+      "describe_ch": "學習專業領域之進階知識及分析技能\t",
+      "describe_en": "To learn advanced knowledge and skill related to a specific technical topic."
+    },
+    {
+      "seq": 2,
+      "describe_ch": "綜合所學並應用於專業問題之探討\t",
+      "describe_en": "Integration of acquired knowledge and application to a specific topic."
+    },
+    {
+      "seq": 3,
+      "describe_ch": "綜合所學並應用於專業問題之探討\t",
+      "describe_en": "Integration of acquired knowledge and application to a specific topic."
+    },
+    {
+      "seq": 4,
+      "describe_ch": "綜合所學並應用於專業問題之探討\t",
+      "describe_en": "Integration of acquired knowledge and application to a specific topic."
+    },
+    {
+      "seq": 5,
+      "describe_ch": "與隊友分工合作，於一定期限完成任務",
+      "describe_en": "\tTeam work and deadline training."
+    },
+    {
+      "seq": 6,
+      "describe_ch": "綜合所學並應用於專業問題之探討\t",
+      "describe_en": "Integration of acquired knowledge and application to a specific topic."
+    },
+    {
+      "seq": 7,
+      "describe_ch": "能撰寫報告，並以現代技術做恰當的簡報",
+      "describe_en": "\tWriting skill and oral presentation."
+    },
+    {
+      "seq": 8,
+      "describe_ch": "綜合所學並應用於專業問題之探討\t",
+      "describe_en": "Integration of acquired knowledge and application to a specific topic."
+    }
+  ],
+  "teachersInfo": [
+    {
+      "cname": "葉昭憲",
+      "ename": "Chao-Hsien Yeh",
+      "period": "(Wed)09  土205,(Thu)01  土205,(Fri)03-04 土205",
+      "roletype": 0,
+      "email": "chyeh@o365.fcu.edu.tw",
+      "ext": "3221"
+    },
+    {
+      "cname": "楊朝仲",
+      "ename": "Chao-Chung Yang",
+      "period": "(Mon)09  土512,(Tue)10  土512,(Fri)09-10 土512",
+      "roletype": 0,
+      "email": "ccy@o365.fcu.edu.tw",
+      "ext": "3226"
+    },
+    {
+      "cname": "許盈松",
+      "ename": "Yin-Sung Hsu",
+      "period": " ",
+      "roletype": 0,
+      "email": "yshsu@o365.fcu.edu.tw",
+      "ext": "6870"
+    },
+    {
+      "cname": "吳俊鋐",
+      "ename": "Chun-Hung Wu",
+      "period": "(Wed)02-03 土315,(Wed)04  土315,(Thu)02-03 土315,(Thu)04  土315",
+      "roletype": 0,
+      "email": "chhuwu@o365.fcu.edu.tw",
+      "ext": "3231"
+    },
+    {
+      "cname": "黃振家",
+      "ename": "Cheng-Chia Huang",
+      "period": "(Wed)06-07 土315,(Wed)08  土315,(Thu)02-03 土315,(Thu)04  土315",
+      "roletype": 0,
+      "email": "cchiahuang@o365.fcu.edu.tw",
+      "ext": "3235"
+    },
+    {
+      "cname": "林秉賢",
+      "ename": "Bing-Shyan Lin",
+      "period": "(Mon)06  土511,(Mon)10  土511,(Wed)06  土511,(Wed)10  土511,(Thu)06  土511,(Thu)10  土511",
+      "roletype": 0,
+      "email": "bslin@o365.fcu.edu.tw",
+      "ext": "3223"
+    },
+    {
+      "cname": "陳柏蒼",
+      "ename": "Po-Tsang Chen",
+      "period": "(Wed)07-08 土206,(Fri)06-07 土206",
+      "roletype": 0,
+      "email": "btchen@o365.fcu.edu.tw",
+      "ext": "3220"
+    },
+    {
+      "cname": "連惠邦",
+      "ename": "Hui-Pang Lien",
+      "period": " ",
+      "roletype": 0,
+      "email": "hplien@o365.fcu.edu.tw",
+      "ext": "3217"
+    },
+    {
+      "cname": "張嘉玲",
+      "ename": "Chia-Ling Chang",
+      "period": " ",
+      "roletype": 0,
+      "email": "clchang@o365.fcu.edu.tw",
+      "ext": "3244"
+    },
+    {
+      "cname": "鍾侑達",
+      "ename": "You-Da Jhong",
+      "period": " ",
+      "roletype": 0,
+      "email": "ydjhong@o365.fcu.edu.tw",
+      "ext": "3240"
+    }
+  ],
+  "textBooks": {
+    "yms_year": 114.0,
+    "yms_smester": 2.0,
+    "cls_id": "XY01101",
+    "sub_id": "45356",
+    "scr_dup": "002",
+    "tpb_seq": 1,
+    "tpb_book": "<div>水利系大四學生畢業專題論文</div>\n",
+    "tpb_book_en": " "
+  },
+  "readings": {
+    "yms_year": 114.0,
+    "yms_smester": 2.0,
+    "cls_id": "XY01101",
+    "sub_id": "45356",
+    "scr_dup": "002",
+    "tpc_seq": 1,
+    "tpc_book": "<div>由各學習導師自行指定</div>\n",
+    "tpc_book_en": null
+  },
+  "iSoftwares": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "XY01101",
+      "sub_id": "45356",
+      "scr_dup": "002",
+      "seq_no": 1,
+      "soft_kind": "2",
+      "soft_name": "HECRAS\nSRH2D\nSOBEK",
+      "soft_memo": "<div>水利系常用之水理、輸砂數值模式</div>\n",
+      "soft_name_en": null,
+      "soft_memo_en": null
+    }
+  ],
+  "assistSoftwares": [],
+  "weeklyScds": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "XY01101",
+      "sub_id": "45356",
+      "scr_dup": "002",
+      "tpd_seq": 0,
+      "tpd_week": "1",
+      "tpd_reading": null,
+      "tpd_reading_en": null,
+      "tpd_learn": null,
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "XY01101",
+      "sub_id": "45356",
+      "scr_dup": "002",
+      "tpd_seq": 0,
+      "tpd_week": "2",
+      "tpd_reading": null,
+      "tpd_reading_en": null,
+      "tpd_learn": null,
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "XY01101",
+      "sub_id": "45356",
+      "scr_dup": "002",
+      "tpd_seq": 0,
+      "tpd_week": "3",
+      "tpd_reading": null,
+      "tpd_reading_en": null,
+      "tpd_learn": null,
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "XY01101",
+      "sub_id": "45356",
+      "scr_dup": "002",
+      "tpd_seq": 0,
+      "tpd_week": "4",
+      "tpd_reading": null,
+      "tpd_reading_en": null,
+      "tpd_learn": null,
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "XY01101",
+      "sub_id": "45356",
+      "scr_dup": "002",
+      "tpd_seq": 0,
+      "tpd_week": "5",
+      "tpd_reading": null,
+      "tpd_reading_en": null,
+      "tpd_learn": null,
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "XY01101",
+      "sub_id": "45356",
+      "scr_dup": "002",
+      "tpd_seq": 0,
+      "tpd_week": "6",
+      "tpd_reading": null,
+      "tpd_reading_en": null,
+      "tpd_learn": null,
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "XY01101",
+      "sub_id": "45356",
+      "scr_dup": "002",
+      "tpd_seq": 0,
+      "tpd_week": "7",
+      "tpd_reading": null,
+      "tpd_reading_en": null,
+      "tpd_learn": null,
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "XY01101",
+      "sub_id": "45356",
+      "scr_dup": "002",
+      "tpd_seq": 0,
+      "tpd_week": "8",
+      "tpd_reading": null,
+      "tpd_reading_en": null,
+      "tpd_learn": null,
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "XY01101",
+      "sub_id": "45356",
+      "scr_dup": "002",
+      "tpd_seq": 0,
+      "tpd_week": "9",
+      "tpd_reading": null,
+      "tpd_reading_en": null,
+      "tpd_learn": null,
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "XY01101",
+      "sub_id": "45356",
+      "scr_dup": "002",
+      "tpd_seq": 0,
+      "tpd_week": "10",
+      "tpd_reading": null,
+      "tpd_reading_en": null,
+      "tpd_learn": null,
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "XY01101",
+      "sub_id": "45356",
+      "scr_dup": "002",
+      "tpd_seq": 0,
+      "tpd_week": "11",
+      "tpd_reading": null,
+      "tpd_reading_en": null,
+      "tpd_learn": null,
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "XY01101",
+      "sub_id": "45356",
+      "scr_dup": "002",
+      "tpd_seq": 0,
+      "tpd_week": "12",
+      "tpd_reading": null,
+      "tpd_reading_en": null,
+      "tpd_learn": null,
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "XY01101",
+      "sub_id": "45356",
+      "scr_dup": "002",
+      "tpd_seq": 0,
+      "tpd_week": "13",
+      "tpd_reading": null,
+      "tpd_reading_en": null,
+      "tpd_learn": null,
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "XY01101",
+      "sub_id": "45356",
+      "scr_dup": "002",
+      "tpd_seq": 0,
+      "tpd_week": "14",
+      "tpd_reading": null,
+      "tpd_reading_en": null,
+      "tpd_learn": null,
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "XY01101",
+      "sub_id": "45356",
+      "scr_dup": "002",
+      "tpd_seq": 0,
+      "tpd_week": "15",
+      "tpd_reading": null,
+      "tpd_reading_en": null,
+      "tpd_learn": null,
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "XY01101",
+      "sub_id": "45356",
+      "scr_dup": "002",
+      "tpd_seq": 0,
+      "tpd_week": "16",
+      "tpd_reading": null,
+      "tpd_reading_en": null,
+      "tpd_learn": null,
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    }
+  ],
+  "gradeRules": [],
+  "gradeRuleDescribe": {
+    "yms_year": 114.0,
+    "yms_smester": 2.0,
+    "cls_id": "XY01101",
+    "sub_id": "45356",
+    "scr_dup": "002",
+    "tpa_score_new": "畢業專題論文",
+    "tpa_score_new_en": null,
+    "course_pol": "1.參與專題討論須準時\n2.需依照學習導師指示於時間內完成進度\n3.每次會議後請填寫紀錄作為下次討論依據\n4.請益時間為平日周一至周五，若有特殊狀況可自行與學習導師約定討論時間",
+    "course_pol_en": null,
+    "course_rem": null,
+    "course_rem_en": null,
+    "ais_meno": "<div>參與畢業專題研究的學生須遵守學術誠信原則。報告數據不得有造假行為，報告內容均需適當引用文獻出處，不得有大量抄襲行為。</div>\n",
+    "ais_meno_en": null,
+    "ilearn_mk": null
+  },
+  "integrity": {
+    "yms_year": 114.0,
+    "yms_smester": 2.0,
+    "cls_id": "XY01101",
+    "sub_id": "45356",
+    "scr_dup": "002",
+    "tpa_score_new": "畢業專題論文",
+    "tpa_score_new_en": null,
+    "course_pol": "1.參與專題討論須準時\n2.需依照學習導師指示於時間內完成進度\n3.每次會議後請填寫紀錄作為下次討論依據\n4.請益時間為平日周一至周五，若有特殊狀況可自行與學習導師約定討論時間",
+    "course_pol_en": null,
+    "course_rem": null,
+    "course_rem_en": null,
+    "ais_meno": "<div>參與畢業專題研究的學生須遵守學術誠信原則。報告數據不得有造假行為，報告內容均需適當引用文獻出處，不得有大量抄襲行為。</div>\n",
+    "ais_meno_en": null,
+    "ilearn_mk": null
+  },
+  "policy": {
+    "yms_year": 114.0,
+    "yms_smester": 2.0,
+    "cls_id": "XY01101",
+    "sub_id": "45356",
+    "scr_dup": "002",
+    "tpa_score_new": "畢業專題論文",
+    "tpa_score_new_en": null,
+    "course_pol": "1.參與專題討論須準時\n2.需依照學習導師指示於時間內完成進度\n3.每次會議後請填寫紀錄作為下次討論依據\n4.請益時間為平日周一至周五，若有特殊狀況可自行與學習導師約定討論時間",
+    "course_pol_en": null,
+    "course_rem": null,
+    "course_rem_en": null,
+    "ais_meno": "<div>參與畢業專題研究的學生須遵守學術誠信原則。報告數據不得有造假行為，報告內容均需適當引用文獻出處，不得有大量抄襲行為。</div>\n",
+    "ais_meno_en": null,
+    "ilearn_mk": null
+  },
+  "courseBankC": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "XY01101",
+      "sub_id": "45356",
+      "scr_dup": "002",
+      "seq": 1,
+      "describe_ch": "學習專業領域之進階知識及分析技能\t",
+      "describe_en": "To learn advanced knowledge and skill related to a specific technical topic.",
+      "core_id": "A",
+      "core_item": "應用數學、科學及工程知識的能力",
+      "core_eng": "Possess the capability of using knowledge in mathematics, science, and engineering.",
+      "core_level": "3 ",
+      "strgy": [
+        "04",
+        "10"
+      ],
+      "evalb": [
+        "D5",
+        "K1"
+      ],
+      "strgy_name": [
+        "專題討論",
+        "小組討論及活動"
+      ],
+      "strgy_name_en": [
+        "Seminar",
+        "Group activity & discussion"
+      ],
+      "evalb_name": [
+        "期末專題",
+        "口試"
+      ],
+      "evalb_name_en": [
+        "Final presentation",
+        "Oral exam"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "XY01101",
+          "sub_id": "45356",
+          "scr_dup": "002",
+          "seq": 1,
+          "strgy_id": "04",
+          "strgy_name": null,
+          "strgy_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "XY01101",
+          "sub_id": "45356",
+          "scr_dup": "002",
+          "seq": 1,
+          "strgy_id": "10",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "XY01101",
+          "sub_id": "45356",
+          "scr_dup": "002",
+          "seq": 1,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D5",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "XY01101",
+          "sub_id": "45356",
+          "scr_dup": "002",
+          "seq": 1,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "K1",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "XY01101",
+      "sub_id": "45356",
+      "scr_dup": "002",
+      "seq": 2,
+      "describe_ch": "綜合所學並應用於專業問題之探討\t",
+      "describe_en": "Integration of acquired knowledge and application to a specific topic.",
+      "core_id": "B",
+      "core_item": "執行水利工程與資源保育實驗，運用資訊技術以及分析解釋數據的能力",
+      "core_eng": "Possess the capability of execution of experiments in water resources engineering and conservation as well as data analysis and interpretation of results.",
+      "core_level": "4 ",
+      "strgy": [
+        "04",
+        "10"
+      ],
+      "evalb": [
+        "D5",
+        "K1"
+      ],
+      "strgy_name": [
+        "專題討論",
+        "小組討論及活動"
+      ],
+      "strgy_name_en": [
+        "Seminar",
+        "Group activity & discussion"
+      ],
+      "evalb_name": [
+        "期末專題",
+        "口試"
+      ],
+      "evalb_name_en": [
+        "Final presentation",
+        "Oral exam"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "XY01101",
+          "sub_id": "45356",
+          "scr_dup": "002",
+          "seq": 2,
+          "strgy_id": "04",
+          "strgy_name": null,
+          "strgy_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "XY01101",
+          "sub_id": "45356",
+          "scr_dup": "002",
+          "seq": 2,
+          "strgy_id": "10",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "XY01101",
+          "sub_id": "45356",
+          "scr_dup": "002",
+          "seq": 2,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D5",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "XY01101",
+          "sub_id": "45356",
+          "scr_dup": "002",
+          "seq": 2,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "K1",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "XY01101",
+      "sub_id": "45356",
+      "scr_dup": "002",
+      "seq": 3,
+      "describe_ch": "綜合所學並應用於專業問題之探討\t",
+      "describe_en": "Integration of acquired knowledge and application to a specific topic.",
+      "core_id": "C",
+      "core_item": "執行水利工程與資源保育實務所需技術及使用工具之能力",
+      "core_eng": "Possess the capability of techniques, and using tools in execution of water resources engineering and conservation.",
+      "core_level": "3 ",
+      "strgy": [
+        "04",
+        "10"
+      ],
+      "evalb": [
+        "D5",
+        "K1"
+      ],
+      "strgy_name": [
+        "專題討論",
+        "小組討論及活動"
+      ],
+      "strgy_name_en": [
+        "Seminar",
+        "Group activity & discussion"
+      ],
+      "evalb_name": [
+        "期末專題",
+        "口試"
+      ],
+      "evalb_name_en": [
+        "Final presentation",
+        "Oral exam"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "XY01101",
+          "sub_id": "45356",
+          "scr_dup": "002",
+          "seq": 3,
+          "strgy_id": "04",
+          "strgy_name": null,
+          "strgy_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "XY01101",
+          "sub_id": "45356",
+          "scr_dup": "002",
+          "seq": 3,
+          "strgy_id": "10",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "XY01101",
+          "sub_id": "45356",
+          "scr_dup": "002",
+          "seq": 3,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D5",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "XY01101",
+          "sub_id": "45356",
+          "scr_dup": "002",
+          "seq": 3,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "K1",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "XY01101",
+      "sub_id": "45356",
+      "scr_dup": "002",
+      "seq": 4,
+      "describe_ch": "綜合所學並應用於專業問題之探討\t",
+      "describe_en": "Integration of acquired knowledge and application to a specific topic.",
+      "core_id": "D",
+      "core_item": "具友善環境、自然生態與人文素養內涵之水利工程與資源保育系統規劃及設計之能力",
+      "core_eng": "Possess the capability of planning, and design of water resources engineering and conservation system with the content of environmental friendly, ecological sound, and humanity cultivation.",
+      "core_level": "5 ",
+      "strgy": [
+        "04",
+        "10"
+      ],
+      "evalb": [
+        "D5",
+        "K1"
+      ],
+      "strgy_name": [
+        "專題討論",
+        "小組討論及活動"
+      ],
+      "strgy_name_en": [
+        "Seminar",
+        "Group activity & discussion"
+      ],
+      "evalb_name": [
+        "期末專題",
+        "口試"
+      ],
+      "evalb_name_en": [
+        "Final presentation",
+        "Oral exam"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "XY01101",
+          "sub_id": "45356",
+          "scr_dup": "002",
+          "seq": 4,
+          "strgy_id": "04",
+          "strgy_name": null,
+          "strgy_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "XY01101",
+          "sub_id": "45356",
+          "scr_dup": "002",
+          "seq": 4,
+          "strgy_id": "10",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "XY01101",
+          "sub_id": "45356",
+          "scr_dup": "002",
+          "seq": 4,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D5",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "XY01101",
+          "sub_id": "45356",
+          "scr_dup": "002",
+          "seq": 4,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "K1",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "XY01101",
+      "sub_id": "45356",
+      "scr_dup": "002",
+      "seq": 5,
+      "describe_ch": "與隊友分工合作，於一定期限完成任務",
+      "describe_en": "\tTeam work and deadline training.",
+      "core_id": "E",
+      "core_item": "具專案管理、有效溝通與團隊合作的能力",
+      "core_eng": "Possess the capability of project management, effective communication, and teamwork.",
+      "core_level": "5 ",
+      "strgy": [
+        "04",
+        "10"
+      ],
+      "evalb": [
+        "D5",
+        "K1"
+      ],
+      "strgy_name": [
+        "專題討論",
+        "小組討論及活動"
+      ],
+      "strgy_name_en": [
+        "Seminar",
+        "Group activity & discussion"
+      ],
+      "evalb_name": [
+        "期末專題",
+        "口試"
+      ],
+      "evalb_name_en": [
+        "Final presentation",
+        "Oral exam"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "XY01101",
+          "sub_id": "45356",
+          "scr_dup": "002",
+          "seq": 5,
+          "strgy_id": "04",
+          "strgy_name": null,
+          "strgy_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "XY01101",
+          "sub_id": "45356",
+          "scr_dup": "002",
+          "seq": 5,
+          "strgy_id": "10",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "XY01101",
+          "sub_id": "45356",
+          "scr_dup": "002",
+          "seq": 5,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D5",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "XY01101",
+          "sub_id": "45356",
+          "scr_dup": "002",
+          "seq": 5,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "K1",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "XY01101",
+      "sub_id": "45356",
+      "scr_dup": "002",
+      "seq": 6,
+      "describe_ch": "綜合所學並應用於專業問題之探討\t",
+      "describe_en": "Integration of acquired knowledge and application to a specific topic.",
+      "core_id": "F",
+      "core_item": "辨識、分析及解決水利工程與資源保育問題並兼顧永續發展的能力",
+      "core_eng": "Possess the capability of identifying, analysis, and problem solving in the aspect of water resources engineering and conservation.",
+      "core_level": "4 ",
+      "strgy": [
+        "04",
+        "10"
+      ],
+      "evalb": [
+        "D5",
+        "K1"
+      ],
+      "strgy_name": [
+        "專題討論",
+        "小組討論及活動"
+      ],
+      "strgy_name_en": [
+        "Seminar",
+        "Group activity & discussion"
+      ],
+      "evalb_name": [
+        "期末專題",
+        "口試"
+      ],
+      "evalb_name_en": [
+        "Final presentation",
+        "Oral exam"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "XY01101",
+          "sub_id": "45356",
+          "scr_dup": "002",
+          "seq": 6,
+          "strgy_id": "04",
+          "strgy_name": null,
+          "strgy_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "XY01101",
+          "sub_id": "45356",
+          "scr_dup": "002",
+          "seq": 6,
+          "strgy_id": "10",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "XY01101",
+          "sub_id": "45356",
+          "scr_dup": "002",
+          "seq": 6,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D5",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "XY01101",
+          "sub_id": "45356",
+          "scr_dup": "002",
+          "seq": 6,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "K1",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "XY01101",
+      "sub_id": "45356",
+      "scr_dup": "002",
+      "seq": 7,
+      "describe_ch": "能撰寫報告，並以現代技術做恰當的簡報",
+      "describe_en": "\tWriting skill and oral presentation.",
+      "core_id": "G",
+      "core_item": "具跨領域及國際化視野，認識當代議題，瞭解水利工程與資源保育工程解決方案對環境永續、社會共好及全球發展的影響，並培養持續學習的習慣及能力。",
+      "core_eng": "Possess the vision in interdisciplinary and international matter, understanding current issues in water resources engineering and conservation, and their impacts on the environment, society, and globe scale; with habit and ability of continuous learning.",
+      "core_level": "5 ",
+      "strgy": [
+        "04",
+        "10"
+      ],
+      "evalb": [
+        "D5",
+        "K1"
+      ],
+      "strgy_name": [
+        "專題討論",
+        "小組討論及活動"
+      ],
+      "strgy_name_en": [
+        "Seminar",
+        "Group activity & discussion"
+      ],
+      "evalb_name": [
+        "期末專題",
+        "口試"
+      ],
+      "evalb_name_en": [
+        "Final presentation",
+        "Oral exam"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "XY01101",
+          "sub_id": "45356",
+          "scr_dup": "002",
+          "seq": 7,
+          "strgy_id": "04",
+          "strgy_name": null,
+          "strgy_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "XY01101",
+          "sub_id": "45356",
+          "scr_dup": "002",
+          "seq": 7,
+          "strgy_id": "10",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "XY01101",
+          "sub_id": "45356",
+          "scr_dup": "002",
+          "seq": 7,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D5",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "XY01101",
+          "sub_id": "45356",
+          "scr_dup": "002",
+          "seq": 7,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "K1",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "XY01101",
+      "sub_id": "45356",
+      "scr_dup": "002",
+      "seq": 8,
+      "describe_ch": "綜合所學並應用於專業問題之探討\t",
+      "describe_en": "Integration of acquired knowledge and application to a specific topic.",
+      "core_id": "H",
+      "core_item": "理解專業與資訊倫理，認知社會責任及尊重多元觀點。",
+      "core_eng": "Comprehend professional ethics and fulfill social responsibility.",
+      "core_level": "3 ",
+      "strgy": [
+        "04",
+        "10"
+      ],
+      "evalb": [
+        "D5",
+        "K1"
+      ],
+      "strgy_name": [
+        "專題討論",
+        "小組討論及活動"
+      ],
+      "strgy_name_en": [
+        "Seminar",
+        "Group activity & discussion"
+      ],
+      "evalb_name": [
+        "期末專題",
+        "口試"
+      ],
+      "evalb_name_en": [
+        "Final presentation",
+        "Oral exam"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "XY01101",
+          "sub_id": "45356",
+          "scr_dup": "002",
+          "seq": 8,
+          "strgy_id": "04",
+          "strgy_name": null,
+          "strgy_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "XY01101",
+          "sub_id": "45356",
+          "scr_dup": "002",
+          "seq": 8,
+          "strgy_id": "10",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "XY01101",
+          "sub_id": "45356",
+          "scr_dup": "002",
+          "seq": 8,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D5",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "XY01101",
+          "sub_id": "45356",
+          "scr_dup": "002",
+          "seq": 8,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "K1",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    }
+  ],
+  "topicSdgs": [],
+  "topicAiIndicators": [],
+  "learnHours": {
+    "total": 0.0,
+    "tpdOnlineAsyTotal": 0.0,
+    "tpdOnlineSynTotal": 0.0,
+    "tpdOnlineFaceTotal": 0.0,
+    "asySynInTotalPercent": 0.0
+  },
+  "crossVerYear": 114
+}

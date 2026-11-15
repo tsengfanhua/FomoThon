@@ -1,0 +1,556 @@
+{
+  "teacherId": "T05220",
+  "name": "林巧奇",
+  "mainUnit": "工程與科學學院",
+  "detailUnit": "材料科學與工程學系",
+  "skill": [
+    "材料機械性質Mechanical properties of materials",
+    "材料耐候可靠度Weathering and reliability of materials",
+    "拉曼光譜應用技術Applied Raman spectroscopy",
+    "磁性膜層電鍍與應用Electroplated magnetic coatings and applications",
+    "微奈米機電系統與製程NEMS and MEMS"
+  ],
+  "edu": [
+    "國立清華大學 材料科學與工程 博士",
+    "國立東華大學 材料科學與工程 碩士",
+    "國立成功大學 機械工程 學士"
+  ],
+  "fcuExp": [
+    "材料科學與工程學系 助理教授",
+    "材料科學與工程學系 副教授"
+  ],
+  "currjob": [],
+  "otherExp": [
+    "美國國家標準暨技術研究院 (NIST) 工程研究所 材料與結構系統組 博士後研究員",
+    "中華民國國防部 空軍司令部 少尉排長",
+    "美國國家標準暨技術研究院(NIST) 建築與防火研究所 材料與結構研究組 訪問研究員",
+    "優學數位科技股份有限公司 線上視訊教學部 視訊教師",
+    "財團法人工業技術研究院 機械工業研究所 微機電組 約聘研究人員"
+  ],
+  "journal": [
+    {
+      "論文名稱": "Accuracy variation problem in an incremental magnetic encoder caused by surface flaws of electrodeposited measuring scales",
+      "期刊名稱": "Measurement (SCIE)",
+      "作者群": "P.-C. Liu, and C.-C. Lin*"
+    },
+    {
+      "論文名稱": "Periodically sinusoidal magnetic stray field and improved film quality of CoMnP micro-magnet arrays for magnetic encoders by electrodeposition with the assistance of ultrasound",
+      "期刊名稱": "Coatings (SCIE)",
+      "作者群": "G.-H. Xu, J.-Y. Chang, H.-C. Hsueh, C.-C. Lin"
+    },
+    {
+      "論文名稱": "Reliability Analysis of Laminated Oxide/Metal/Oxide Flexible Conductors through Cyclic Bending after Accelerated Weathering",
+      "期刊名稱": "The 5th IEEE International Flexible Electronics Technology Conference (IFETC) 2023 (EI)",
+      "作者群": "Y.-H. Kao, H.-S. Chang, and C.-C. Lin"
+    },
+    {
+      "論文名稱": "Triggering Magnets for Wiegand Sensors: Electrodeposited and Origami-Magnetized CoNiP Micro-Magnets",
+      "期刊名稱": "Sensors (SCIE)",
+      "作者群": "G. Kotnana, Y. Cheng, and C.-C. Lin*"
+    },
+    {
+      "論文名稱": "Towards outdoor applications of silver-based flexible transparent conductors",
+      "期刊名稱": "The 17th IEEE Nanotechnology Materials and Devices Conference (IEEE 2022 NMDC) (EI)",
+      "作者群": "H.-S. Chang, Y.-H. Kao, and C.-C. Lin"
+    },
+    {
+      "論文名稱": "A Review of the Self-Powered Wiegand Sensor and Its Applications",
+      "期刊名稱": "Magnetochemistry (SCIE)",
+      "作者群": "C.-C. Lin*, Y.-C. Tseng, and T.-S. Chin"
+    },
+    {
+      "論文名稱": "Weathering and material characterization of ZTO/Ag/ZTO coatings on polyethylene terephthalate substrates for the application of flexible transparent conductors",
+      "期刊名稱": "Coatings (SCIE)",
+      "作者群": "Y.-H. Kao, H.-S. Chang, C.-C. Wang, and C.-C. Lin*"
+    },
+    {
+      "論文名稱": "Residual stress analysis of electrodeposited thick CoMnP monolayers and CoMnP/Cu multilayers",
+      "期刊名稱": "Surface & Coatings Technology (SCIE)",
+      "作者群": "Y.-S. Chen, C.-C. Lin*, T.-S. Chin, J.-Y. (James) Chang, and C.-K. Sung"
+    },
+    {
+      "論文名稱": "Residual stress tuned magnetic properties of thick CoMnP/Cu multilayers",
+      "期刊名稱": "AIP Advances (SCIE)",
+      "作者群": "Y.-S. Chen, C.-C. Lin*, T.-S. Chin, J.-Y. (James) Chang, and C.-K. Sung"
+    },
+    {
+      "論文名稱": "Accelerated and outdoor weathering of silver nanowire transparent conductors under electrical stress in pseudo-modules",
+      "期刊名稱": "Nanotechnology (SCIE)",
+      "作者群": "H.-S. Chang, P. Feng, Y. Lyu, and C.-C. Lin*"
+    },
+    {
+      "論文名稱": "Degradation of silver nanowire transparent conductors by module-level weathering under electrical stress",
+      "期刊名稱": "The IEEE 71st Electronic Components and Technology Conference (ECTC) (EI)",
+      "作者群": "C.-C. Lin, and H.-S. Chang"
+    },
+    {
+      "論文名稱": "Effects of cathode rotation and substrate materials on electrodeposited CoMnP thick films",
+      "期刊名稱": "Materials Research Express (SCIE)",
+      "作者群": "C.-W. Wu, C.-C. Lin*, T.-S. Chin, J.-Y. Chang, and C.-K. Sung"
+    },
+    {
+      "論文名稱": "A module-level weathering and durability testing on silver nanowire transparent conductors",
+      "期刊名稱": "The 15th IEEE International Conference on Nano/Micro Engineered & Molecular Systems (IEEE NEMS) (EI)",
+      "作者群": "C.-C. Lin, B.-J. You, Y.-X. Yang, and I.-H. Tseng"
+    },
+    {
+      "論文名稱": "Degradation problem in silver nanowire transparent electrodes caused by ultraviolet exposure",
+      "期刊名稱": "Nanotechnology (SCIE)",
+      "作者群": "C.-C. Lin*, D.-X. Lin, and S.-H. Lin"
+    },
+    {
+      "論文名稱": "Ultrasound-assisted electroless deposition of Co-P hard magnetic films",
+      "期刊名稱": "Surface & Coatings Technology (SCIE)",
+      "作者群": "C.-C. Lin*, C.-C. Chuang, X.-H. Li, T.-S. Chin, J.-Y. Chang, C.-K. Sung, and S.-C. Wang"
+    },
+    {
+      "論文名稱": "A novel test method for quantifying cracking propensity of photovoltaic backsheets after ultraviolet exposure",
+      "期刊名稱": "Progress in Photovoltaics: Research and Applications (SCIE)",
+      "作者群": "C.-C. Lin*, Y. Lyu, D.S. Jacobs, J.H. Kim, K.-T. Wan, D.L. Hunston, X. Gu*"
+    },
+    {
+      "論文名稱": "Influence of Substrate Rotation on Crystal Structures and Magnetic Properties of CoMnP Films by Rotating-cathode Electroplating",
+      "期刊名稱": "2018 Asia-Pacific Magnetic Recording Conference (APMRC) (EI)",
+      "作者群": "C.-W. Wu, C.-C. Lin*, T.-S. Chin, J.-Y. Chang, C.-K. Sung, S.-C. Wang"
+    },
+    {
+      "論文名稱": "Effects of Environmental Factors on the Stability of Silver Nanowire Transparent Electrodes",
+      "期刊名稱": "2018 IEEE 13th Nanotechnology Materials and Devices Conference (NMDC) (EI)",
+      "作者群": "C.-C. Lin*, D.-X. Lin, and J.-T. Jhan"
+    },
+    {
+      "論文名稱": "A novel CoCuP electrodeposited film with improved planar hard magnetic properties and film quality",
+      "期刊名稱": "Surface & Coatings Technology (SCIE)",
+      "作者群": "C.-Y. Huang, C.-J. Hsiao, C.-C. Lin*, C.-S. Lin, J.-Y. (James) Chang, C.-K. Sung, S.-C. Wang, T.-S. Chin*"
+    },
+    {
+      "論文名稱": "Depth profiling of degradation of multilayer photovoltaic backsheets after accelerated laboratory weathering: Cross-sectional Raman imaging",
+      "期刊名稱": "Solar Energy Materials and Solar Cells (SCIE)",
+      "作者群": "C.-C. Lin, P.J. Krommenhoek, S.S. Watson, and X. Gu*"
+    },
+    {
+      "論文名稱": "Long-term stability of UHMWPE fibers",
+      "期刊名稱": "Polymer Degradation and Stability (SCIE)",
+      "作者群": "A.L. Forster*, A.M. Forster, J.W. Chin, J.-S. Peng, C.-C. Lin, S. Petit, K.-L. Kang, N.G. Paulter, M.A. Riley, K.D. Rice, and M. Al-Sheikhly"
+    },
+    {
+      "論文名稱": "Stress-assisted formation of surface gratings on polymer films",
+      "期刊名稱": "Polymer Engineering & Science (SCIE)",
+      "作者群": "C.-C. Lin, F. Yang, J.W. Chin, L. Sung, and S. Lee*"
+    },
+    {
+      "論文名稱": "Enhancement and saturation phenomena on luminous current and power efficiencies of organic light-emitting devices by attaching microlens array films",
+      "期刊名稱": "Journal of Display Technology (SCIE)",
+      "作者群": "K.-Y. Chen, H.-Y. Lin, M.-K. Wei, J.-H. Lee, Y.-T. Hsiao, C.-C. Lin, Y.-H. Ho, H.-Y. Lin, and J.-H. Tsai"
+    },
+    {
+      "論文名稱": "Measurements of residual stresses in Al film/silicon nitride substrate microcantilever beam systems",
+      "期刊名稱": "Journal of Materials Research (SCIE)",
+      "作者群": "C.-C. Lin, W. Fang, H.-Y. Lin, C.-H. Hsueh, and S. Lee*"
+    },
+    {
+      "論文名稱": "Accelerated weathering of polyaramid and polybenzimidazole firefighter protective clothing fabrics",
+      "期刊名稱": "Polymer Degradation and Stability (SCIE)",
+      "作者群": "R.D. Davis*, J.W. Chin, C.-C. Lin, and S. Petit"
+    },
+    {
+      "論文名稱": "Surface wrinkling of an elastic layer: Effect of surface residual stress",
+      "期刊名稱": "Langmuir (SCIE)",
+      "作者群": "C.-C. Lin, F. Yang, and S. Lee*"
+    },
+    {
+      "論文名稱": "Efficiency improvement and spectral shift of an organic light-emitting device with a square-based microlens array",
+      "期刊名稱": "Optics Communications (SCIE)",
+      "作者群": "M.-K. Wei*, H.-Y. Lin, J.-H. Lee, K.-Y. Chen, Y.-H. Ho, C.-C. Lin, C.-F. Wu, H.-Y. Lin, J.-H. Tsai, and T.-C. Wu"
+    },
+    {
+      "論文名稱": "EPR kinetics in irradiated syndiotactic polystyrene at elevated temperatures",
+      "期刊名稱": "Polymer (SCIE)",
+      "作者群": "C.-C. Lin, L.-J. Ming, C.-C. Lee, and S. Lee*"
+    },
+    {
+      "論文名稱": "The effect of dislocations on crack propagation in wrinkled gold film deposited on polydimethylsiloxane",
+      "期刊名稱": "Journal of Applied Physics (SCIE)",
+      "作者群": "C.-B. Lin, C.-C. Lin, S. Lee*, and Y.T. Chou"
+    },
+    {
+      "論文名稱": "Efficiency improvement and spectral shift of an organic light-emitting device by attaching a hexagon-based microlens array",
+      "期刊名稱": "Journal of Optics A: Pure Applied Optics (SCIE)",
+      "作者群": "M.-K. Wei*, J.-H. Lee, H.-Y. Lin, Y.-H. Ho, K.-Y. Chen, C.-C. Lin, C.-F. Wu, H.-Y. Lin, J.-H. Tsai, and T.-C. Wu"
+    }
+  ],
+  "journal2": [],
+  "conference": [
+    {
+      "論文名稱": "鐵氧體橡膠磁鐵經加速老化耐候性測試後之材料性能探討",
+      "會議名稱": "113年中國材料科學學會年會",
+      "作者群": "楊易霖、陳霈恩、林巧奇"
+    },
+    {
+      "論文名稱": "用於Wiegand感測器線性定位系統之多極式橡膠磁鐵",
+      "會議名稱": "113年中國材料科學學會年會",
+      "作者群": "陳霈恩、楊易霖、林巧奇"
+    },
+    {
+      "論文名稱": "磁性編碼器尺身鍍層條紋缺陷檢測技術之系統性研究開發",
+      "會議名稱": "113年中國材料科學學會年會",
+      "作者群": "張榮艷、林巧奇"
+    },
+    {
+      "論文名稱": "電鍍硬磁CoNiP單層與CoNiP/Cu多層系統之殘留應力分析",
+      "會議名稱": "2024年功能性材料研討會暨國科會專題研究計畫成果發表會",
+      "作者群": "李博振, 張榮艷, 陳霈恩, 楊易霖, 林巧奇"
+    },
+    {
+      "論文名稱": "Degradation behavior of the laminated ZTO/Ag/ZTO flexible transparent conductive films after sequential aging tests",
+      "會議名稱": "2023 Materials Research Society-Taiwan International Conference (MRSTIC)",
+      "作者群": "J.-Y. Chang, and C.-C. Lin"
+    },
+    {
+      "論文名稱": "Cracking behaviors of flexible magnetic foil with hard magnetic coating under bending strain for magnetic encoders",
+      "會議名稱": "2023 Materials Research Society-Taiwan International Conference (MRSTIC)",
+      "作者群": "Y.-H. Kao, and C.-C. Lin"
+    },
+    {
+      "論文名稱": "Reliability analysis of laminated oxide/metal/oxide flexible conductors through cyclic bending after accelerated weathering",
+      "會議名稱": "The 5th IEEE International Flexible Electronics Technology Conference (IFETC) 2023",
+      "作者群": "Y.-H. Kao, H.-S. Chang, and C.-C. Lin"
+    },
+    {
+      "論文名稱": "光譜法監測硬磁合金CoNiP之電鍍液以回復電鍍液狀態",
+      "會議名稱": "2023台灣磁性技術協會年會暨第35屆磁學與磁性技術研討會",
+      "作者群": "李冠霖、蔡承瀚、林巧奇"
+    },
+    {
+      "論文名稱": "磁性定位系統之微結構化多極磁性尺身研究",
+      "會議名稱": "2023台灣磁性技術協會年會暨第35屆磁學與磁性技術研討會",
+      "作者群": "許耕華、林巧奇、黃宗輝"
+    },
+    {
+      "論文名稱": "Towards outdoor applications of silver-based flexible transparent conductors",
+      "會議名稱": "The 17th IEEE Nanotechnology Materials and Devices Conference (IEEE 2022 NMDC)",
+      "作者群": "H.-S. Chang, Y.-H. Kao, and C.-C. Lin"
+    },
+    {
+      "論文名稱": "無表面裂紋之超音波輔助電鍍CoMnP硬磁厚膜",
+      "會議名稱": "111年中國材料科學學會年會",
+      "作者群": "許耕華、王辰新、林巧奇"
+    },
+    {
+      "論文名稱": "拉曼光譜監測CoMnP電鍍液以實現延長鍍液壽命",
+      "會議名稱": "中國鑛冶工程學會111年年會",
+      "作者群": "蔡承瀚、李冠霖、林巧奇"
+    },
+    {
+      "論文名稱": "CoMnP硬磁性膜層粒狀缺陷對於磁性尺精度之影響",
+      "會議名稱": "2022台灣磁性技術協會年會暨第34屆磁學與磁性技術研討會",
+      "作者群": "劉秤誠、王辰新、林巧奇"
+    },
+    {
+      "論文名稱": "微機電製程製作CoNiP硬磁元件於增進Wiegand獵能裝置效率之研究",
+      "會議名稱": "2022年功能性材料研討會暨科技部專題研究計畫成果發表會",
+      "作者群": "鄭耘、劉秤誠、蔡承瀚、李博振、林巧奇"
+    },
+    {
+      "論文名稱": "Residual stress tuned magnetic properties of thick CoMnP/Cu multilayers",
+      "會議名稱": "IEEE 2022 Joint MMM-Intermag",
+      "作者群": "Y.-S. Chen, C.-C. Lin, T.-S. Chin, J.-Y. (James) Chang, and C.-K. Sung"
+    },
+    {
+      "論文名稱": "Residual stress analysis of electrodeposited thick CoMnP monolayers and CoMnP/Cu multilayers",
+      "會議名稱": "TACT 2021 International Thin Films Conference",
+      "作者群": "Y.-S. Chen, C.-C. Lin, T.-S. Chin, J.-Y. (James) Chang, and C.-K. Sung"
+    },
+    {
+      "論文名稱": "可撓性疊層奈米銀網透明導電膜經環境應力老化後之測試研究",
+      "會議名稱": "2021年功能性材料研討會暨科技部專題研究計畫成果發表會",
+      "作者群": "張紘碩、廖卉婷、林巧奇"
+    },
+    {
+      "論文名稱": "Effect of thermal cycle on electrodeposited hard magnetic Co-Mn-P layers",
+      "會議名稱": "2021台灣磁性技術協會年會暨第33屆磁學與磁性技術研討會",
+      "作者群": "Z.-B. Huang, and C.-C. Lin"
+    },
+    {
+      "論文名稱": "Degradation of silver nanowire transparent conductors by module-level weathering under electrical stress",
+      "會議名稱": "The IEEE 71st Electronic Components and Technology Conference (ECTC)",
+      "作者群": "C.-C. Lin, and H.-S. Chang"
+    },
+    {
+      "論文名稱": "奈米銀線透明電極的耐用性和耐候性測試研究",
+      "會議名稱": "109年中國材料科學學會年會",
+      "作者群": "張紘碩、林巧奇、李尚旻、游博筑、曾怡享"
+    },
+    {
+      "論文名稱": "Rotating-cathode electrodeposited Co-rich Co-Mn-P layers on Co-P modified surfaces as permanent magnet components",
+      "會議名稱": "TACT2020台灣鍍膜科技協會年會",
+      "作者群": "C.-W. Wu, P.-C. Liu, and C.-C. Lin"
+    },
+    {
+      "論文名稱": "A module-level weathering and durability testing on silver nanowire transparent conductors",
+      "會議名稱": "The 15th IEEE International Conference on Nano/Micro Engineered & Molecular Systems (IEEE NEMS)",
+      "作者群": "C.-C. Lin, B.-J. You, Y.-X. Yang, and I.-H. Tseng"
+    },
+    {
+      "論文名稱": "Monitoring the temperature caused flux density losses for electroplated Co-Mn-P hard magnetic layers",
+      "會議名稱": "2019中華民國力學學會年會暨第43屆全國力學會議",
+      "作者群": "Y.-W. Lin, T.-H. Yao, Y.-T. Lin, H.-K. Lin, C.-C. Lin, M.-W. Zhuo, T.-S. Chin, J.-Y. Chang, C.-K. Sung, and S.-C. Wang"
+    },
+    {
+      "論文名稱": "Ultrasound-assisted electroless deposition of Co-P hard magnetic films",
+      "會議名稱": "TACT 2019 International Thin Films Conference",
+      "作者群": "C.-C. Lin, C.-C. Chuang, X.-H. Li, T.-S. Chin, J.-Y. (James) Chang, C.-K. Sung, and S.-C. Wang"
+    },
+    {
+      "論文名稱": "Effect of cobalt concentration on the bath stability and magnetic properties of electroless deposited Co-P films",
+      "會議名稱": "108年中國材料科學學會年會",
+      "作者群": "C.-W. Wu*, C.-C. Lin, and T.-S. Chin"
+    },
+    {
+      "論文名稱": "Residual stress in electroplated Co-Mn-P hard magnetic layers",
+      "會議名稱": "2019台灣磁性技術協會年會暨第31屆磁學與磁性技術研討會",
+      "作者群": "Y.-S. Chen, C.-C. Lin, T.-S. Chin, J.-Y. Chang, C.-K. Sung, and S.-C. Wang"
+    },
+    {
+      "論文名稱": "Feasibility of a pseudo-module designed for the assessment of silver nanowires durability on transparent conductive films",
+      "會議名稱": "2019年功能性材料研討會暨科技部專題研究計畫成果發表會",
+      "作者群": "Y.-S. Chen, Y.-C. Liang, C.-W. Wu, C.-C. Lin"
+    },
+    {
+      "論文名稱": "紫外光及溫度效應對奈米銀線透明導電膜之影響",
+      "會議名稱": "107年中國材料科學學會年會",
+      "作者群": "詹景棠、林東萱、林巧奇"
+    },
+    {
+      "論文名稱": "無電鍍CoP薄膜之反應動力學與磁性能分析",
+      "會議名稱": "107年中國材料科學學會年會",
+      "作者群": "李炫宏、林巧奇、金重勳"
+    },
+    {
+      "論文名稱": "Influence of Substrate Rotation on Crystal Structures and Magnetic Properties of CoMnP Films by Rotating-cathode Electroplating",
+      "會議名稱": "2018 Asia-Pacific Magnetic Recording Conference (APMRC)",
+      "作者群": "C.-W. Wu, C.-C. Lin*, T.-S. Chin, J.-Y. Chang, C.-K. Sung, S.-C. Wang"
+    },
+    {
+      "論文名稱": "Effects of Environmental Factors on the Stability of Silver Nanowire Transparent Electrodes",
+      "會議名稱": "The 13th IEEE Nanotechnology Materials and Devices Conference (IEEE 2018 NMDC)",
+      "作者群": "C.-C. Lin*, D.-X. Lin, and J.-T. Jhan"
+    },
+    {
+      "論文名稱": "Optimization of process parameters for manufacturing silver nano-wires transparent conductive films by solution process",
+      "會議名稱": "2018年功能性材料研討會暨科技部專題研究計畫成果發表會",
+      "作者群": "D.-X. Lin, J.-T. Jhan, C.-C. Hsu, S.-K. Hsu, and C.-C. Lin"
+    },
+    {
+      "論文名稱": "A novel CoCuP film with improved planar hard magnetic properties and film quality",
+      "會議名稱": "TACT 2017 International Thin Films Conference",
+      "作者群": "C.-Y. Huang, C.-J. Hsiao, T.-T. Zhu, C.-C. Lin, and T.-S. Chin"
+    },
+    {
+      "論文名稱": "Cracking behaviors and hard magnetic properties of CoMnP films by electrodeposition",
+      "會議名稱": "TACT 2017 International Thin Films Conference",
+      "作者群": "Z.-B. Huang, C.-J. Hsiao, C.-Y. Huang, T.-S. Chin, J.-Y. Chang, C.-K. Sung, S.-C. Wang, and C.-C. Lin"
+    },
+    {
+      "論文名稱": "Correlation between mechanical and chemical degradation after outdoor and accelerated laboratory aging for multilayer photovoltaic backsheets",
+      "會議名稱": "Proc. SPIE, Optics + Photonics for Sustainable Energy",
+      "作者群": "C.-C. Lin, Y. Lyu, L.-C. Yu, and X. Gu"
+    },
+    {
+      "論文名稱": "Depth profiling of chemical and mechanical degradation of UV-exposed PV backsheets",
+      "會議名稱": "43rd IEEE PVSC (Photovoltaic Specialist Conference)",
+      "作者群": "X. Gu, C.-C. Lin, J.H. Kim, Y. Lyu, P. Krommenhoek, L.-C. Yu, T. Nguyen, and S.S. Watson"
+    },
+    {
+      "論文名稱": "Cracking and delamination behaviors of photovoltaic backsheet after accelerated laboratory weathering",
+      "會議名稱": "Proc. SPIE, Optics + Photonics for Sustainable Energy",
+      "作者群": "C.-C. Lin, Y. Lyu, D.L. Hunston, J.H. Kim, K.-T. Wan, D.L. Stanley, and X. Gu"
+    },
+    {
+      "論文名稱": "Depth profiling of mechanical degradation for PV backsheets after UV exposure",
+      "會議名稱": "Proc. SPIE, Optics + Photonics for Sustainable Energy",
+      "作者群": "X. Gu, P.J. Krommenhoek, C.-C. Lin, L.-C. Yu, T. Nguyen, and S.S. Watson"
+    },
+    {
+      "論文名稱": "Chemical depth profiling of photovoltaic backsheets after accelerated laboratory weathering",
+      "會議名稱": "Proc. SPIE, Optics + Photonics – Solar Energy + Technology",
+      "作者群": "C.-C. Lin, P.J. Krommenhoek, S.S. Watson, and X. Gu"
+    },
+    {
+      "論文名稱": "Accelerated laboratory test and degradation characterization of polymeric materials used in photovoltaics",
+      "會議名稱": "248th ACS National Meeting and Exposition",
+      "作者群": "X. Gu, C.-C. Lin, P.J. Krommenhoek, S. Ogier, K.-T. Tan, and S. Katz"
+    },
+    {
+      "論文名稱": "Linking accelerated laboratory and outdoor exposure results for PV polymeric materials: a mechanistic study of EVA",
+      "會議名稱": "Proc. SPIE, Optics + Photonics – Solar Energy + Technology",
+      "作者群": "X. Gu, Y. Pang, C.-C. Lin, K. Liu, T. Nguyen, and J.W. Chin"
+    },
+    {
+      "論文名稱": "Temperature and moisture effects on the accelerated aging of UHMWPE and aramid ballistic fibers",
+      "會議名稱": "Proceedings of the Personal Armor Systems Symposium (PASS) 2012",
+      "作者群": "J.W. Chin, S. Petit, C.-C. Lin, J.-S. Peng, D.L. Stanley, V. Landais, A.L. Forster, M.A. Riley, and K.D. Rice"
+    },
+    {
+      "論文名稱": "Fracture-induced polymeric grating structures",
+      "會議名稱": "TechConnect World (Nanotech) Conference and Exposition 2011",
+      "作者群": "C.-C. Lin, F. Yang, J.W. Chin, L. Sung, and S. Lee"
+    },
+    {
+      "論文名稱": "Effects of environmental and in-service factors on the physicochemical properties of ballistic fibers",
+      "會議名稱": "Proceedings of the Personal Armor Systems Symposium (PASS) 2010",
+      "作者群": "J.W. Chin, A.L. Forster, M.A. Riley, K.D. Rice, S. Petit, and C.-C. Lin"
+    },
+    {
+      "論文名稱": "網路視訊線上即時教學於課後輔導教學之成效初探",
+      "會議名稱": "電腦與網路科技在教育上的應用研討會(CNTE 2008)",
+      "作者群": "林巧奇"
+    },
+    {
+      "論文名稱": "Luminanc enhancement and blur effect of microlens array film attachment on organic light-emitting device",
+      "會議名稱": "IEEE LEOS 19th Annual Meeting Conference Proceedings (LEOS 2006)",
+      "作者群": "Y.-H. Ho, K.-Y. Chen, J.-H. Lee, H.-Y. Lin, C.-C. Lin, and M.-K. Wei"
+    },
+    {
+      "論文名稱": "The effects of microlens array on power efficiency enhancement for organic light-emitting devices",
+      "會議名稱": "The 2nd International Symposium on Micro & Nano Technology (ISMNT-2)",
+      "作者群": "C.-C. Lin, H.-Y. Lin, T.-C. Wu, and M.-K. Wei"
+    },
+    {
+      "論文名稱": "Luminance enhancement of organic light-emitting display by microlens array attachment",
+      "會議名稱": "MRS Fall Meeting Symposium,",
+      "作者群": "K.-Y. Chen, C.-C. Lin, J.-H. Lee, M.-K. Wei, and C.-F. Wu"
+    },
+    {
+      "論文名稱": "微透鏡陣列結構促進有機發光元件功率效率之探討",
+      "會議名稱": "台灣光電科技研討會",
+      "作者群": "林巧奇、游恩華、林宏彝、李君浩、林晃嚴、李三保、魏茂國"
+    },
+    {
+      "論文名稱": "微透鏡陣列結構促進有機電激發光元件輝度效率之探討",
+      "會議名稱": "台灣光電科技研討會",
+      "作者群": "林巧奇、游恩華、林宏彝、李君浩、林晃嚴、李三保、魏茂國"
+    },
+    {
+      "論文名稱": "微透鏡陣列應用於促進有機發光二極體外部量子效率之研究",
+      "會議名稱": "第九屆奈米工程暨微系統技術研討會",
+      "作者群": "林巧奇、李三保、林宏彝、吳東權、魏茂國"
+    }
+  ],
+  "book": [
+    {
+      "專業書籍": "Effect of Accelerated Ultraviolet (UV) Weathering on Firefighter Protective Clothing Outer Shell Fabrics",
+      "出版單位": "National Institute of Standards and Technology (NIST)",
+      "作者群": "R.D. Davis, J.W. Chin, C.-C. Lin, and S. Petit"
+    }
+  ],
+  "patent": [],
+  "most": [
+    {
+      "name": "零功耗位置感測Wiegand元件之關鍵技術開發",
+      "schoolYear": "113"
+    },
+    {
+      "name": "可撓性薄磁帶硬磁性鍍層之彎曲所致表面裂紋的檢測與消除技術",
+      "schoolYear": "113"
+    },
+    {
+      "name": "零功耗微米解析度之線性磁性尺系統開發",
+      "schoolYear": "112"
+    },
+    {
+      "name": "開放式磁性尺之可撓性薄磁帶硬磁性鍍層受彎曲應變的破裂力學分析",
+      "schoolYear": "112"
+    },
+    {
+      "name": "電鍍多層膜磁標記元件於戶外磁性定位系統之應用",
+      "schoolYear": "111"
+    },
+    {
+      "name": "可撓性硬磁元件於電磁式Wiegand微型獵能裝置之應用",
+      "schoolYear": "110"
+    },
+    {
+      "name": "疊層奈米銀薄膜可撓性透明導電膜之耐候性研究",
+      "schoolYear": "109"
+    },
+    {
+      "name": "奈米銀線透明導電膜之材料耐用與耐候性研究(2/2)",
+      "schoolYear": "108"
+    },
+    {
+      "name": "奈米銀線透明導電膜之材料耐用與耐候性研究(1/2)",
+      "schoolYear": "107"
+    }
+  ],
+  "tech": [],
+  "induAca": [
+    "搪瓷膜層可靠性之研究 (2025-01 to 2027-01)"
+  ],
+  "perform": [],
+  "reward": [
+    "113年度國科會補助大專校院研究獎勵 (113, 2024-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (113, 2024-11) - 逢甲大學",
+    "2024年功能性材料研討會暨國科會專題研究計畫成果發表會-佳作 (112, 2024-05) - 南台科技大學",
+    "112年度國科會補助大專校院研究獎勵 (112, 2023-12) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優等獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優等獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (111, 2022-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (111, 2022-11) - 逢甲大學",
+    "111年度國科會補助大專校院研究獎勵 (111, 2022-10) - 研究發展處",
+    "Cover Story (獲選SCIE期刊封面) - Coatings, Volume 12, Issue 9 (September 2022) (111, 2022-09) - Coatings, MDPI",
+    "逢甲大學論文著作獎勵傑出獎 (110, 2021-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (110, 2021-11) - 逢甲大學",
+    "110年度科技部補助大專校院研究獎勵 (110, 2021-10) - 產學合作處",
+    "逢甲大學論文著作獎勵傑出獎 (109, 2020-11) - 逢甲大學",
+    "2020年第四屆「材料學堂知識競賽」第四名 (109, 2020-11) - 材料科學學會 (MRS-T)",
+    "109年度科技部補助大專校院研究獎勵 (109, 2020-10) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (108, 2019-11) - 逢甲大學",
+    "108學年度科技部補助大專校院研究獎勵 (108, 2019-09) - 逢甲大學",
+    "2018年功能性材料研討會暨科技部專題研究計畫成果發表會-佳作 (106, 2018-06) - 南台科技大學",
+    "Distinguished Associate Award (傑出研究員獎) (102, 2014-04) - Engineering Laboratory, NIST"
+  ],
+  "speech": [
+    {
+      "演講題目": "Triggering fields of self-powered Wiegand sensors for the applications in 6G sensing and IoT networks",
+      "邀請單位": "AIS-I3S 2024, National University of Singapore (NUS)",
+      "演講日期": "2024-08"
+    },
+    {
+      "演講題目": "Durability and weatherability of silver nanowires transparent conductors in outdoor applications (in English)",
+      "邀請單位": "國立中興大學材料科學與工程學系",
+      "演講日期": "2020-09"
+    },
+    {
+      "演講題目": "Flexible transparent conductive films for outdoor applications (in English)",
+      "邀請單位": "國立台北科技大學機電學院",
+      "演講日期": "2020-03"
+    },
+    {
+      "演講題目": "Assessment of the ultraviolet exposure caused degradation of silver nanowire transparent conductive films for the OPV applications",
+      "邀請單位": "ISAMR 2019, Asia Pacific Society for Materials Research",
+      "演講日期": "2019-08"
+    },
+    {
+      "演講題目": "從太陽能模組之戶外老化與加速老化測試的觀點探討可撓性透明導電膜之未來發展 (Future Feasibility on Flexible Transparent Conducting Films Based on the Points of View of Field Testing and Accelerated Weathering of PV Modules)",
+      "邀請單位": "國立東華大學材料科學與工程學系",
+      "演講日期": "2019-04"
+    },
+    {
+      "演講題目": "太陽能模組之耐候性與可靠度：戶外老化觀測與加速老化測試 (Durability and Reliability of PV Modules: Field Observations and Accelerated Weathering)",
+      "邀請單位": "國立聯合大學機械工程學系",
+      "演講日期": "2017-10"
+    },
+    {
+      "演講題目": "Durability and reliability of photovoltaic backsheets: Mechanical properties of materials",
+      "邀請單位": "駐美國臺北經濟文化代表處(TECRO), Washington DC",
+      "演講日期": "2016-09"
+    }
+  ],
+  "material": [],
+  "tal": []
+}

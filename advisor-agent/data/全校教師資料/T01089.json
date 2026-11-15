@@ -1,0 +1,611 @@
+{
+  "teacherId": "T01089",
+  "name": "葉昭甫",
+  "mainUnit": "建設學院",
+  "detailUnit": "運輸與物流學系",
+  "skill": [
+    "運輸規劃Transport Planning",
+    "運輸經濟Transport Economics",
+    "運輸政策Transport Policy",
+    "市區道路工程設計Urban Road Engineering Design",
+    "智慧型運輸系統Intelligent transportation system",
+    "工程可靠度Engineering Probability"
+  ],
+  "edu": [
+    "東巴黎大學 經濟、管理與區域研究學院 博士",
+    "國立臺灣科技大學 營建工程所（結構組） 碩士",
+    "法國國立橋樑道路學院與巴黎第12大學 運輸工程學系 碩士",
+    "國立台灣科技大學 營建工程學系 學士"
+  ],
+  "fcuExp": [
+    "智慧運輸與物流創新中心 產業應用組組長",
+    "智慧運輸與物流創新中心 產業應用組組長",
+    "運輸科技與管理學系 兼任助理教授",
+    "運輸科技與管理學系 兼任助理教授",
+    "運輸科技與管理學系 助理教授",
+    "運輸與物流學系 助理教授",
+    "運輸與物流學系 副教授",
+    "運輸與物流學系 副教授",
+    "運輸與物流學系 副教授"
+  ],
+  "currjob": [],
+  "otherExp": [
+    "臺中市政府 交通局 專門委員",
+    "交通部公路總局 公共運輸發展辦公室 專案經理",
+    "台灣大學 政治系 博士後研究",
+    "法國國家運輸研究院 運輸經濟與社會部門 研究工程師",
+    "法國國家運輸研究院 運輸經濟與社會部門 助理研究員",
+    "法國國立橋梁暨道路學院 LVMT 研究室 實習生",
+    "HOCHTIEF(德國工程公司) 橋梁工程部門 橋梁工程師",
+    "國際合作發展基金會(ICDF) 駐非洲布吉納法索技術團 助理工程師"
+  ],
+  "journal": [
+    {
+      "論文名稱": "Causal effects between bus revenue vehicle-kilometers and bus ridership",
+      "期刊名稱": "Transportation Research Part A (SSCI,SCIE)",
+      "作者群": "Ming-Tsung Lee, Chao-Fu Yeh*"
+    },
+    {
+      "論文名稱": "Algorithm of Trip Destination Estimation Based on E-Card Data – A Case Study on Taichung Urban Bus",
+      "期刊名稱": "Smart Innovation, Systems and Technologies book series (EI)",
+      "作者群": "Chao-Fu Yeh*, Chi-Hua Lu"
+    },
+    {
+      "論文名稱": "Using On-Board Diagnostics Data to Analyze Driving Behavior and Fuel Consumption",
+      "期刊名稱": "Smart Innovation, Systems and Technologies book series (EI)",
+      "作者群": "Liang-Tay Lin, Chao-Fu Yeh*, Pei-Ju Wu, Chi-Chang Huang"
+    },
+    {
+      "論文名稱": "Evaluating the trip costs of intermodal transport in the greater Paris region",
+      "期刊名稱": "Journal of the Eastern Asia Society for Transportation Studies (J-STAGE)",
+      "作者群": "Chi-Chang Huang, Chao-Fu YEH*"
+    },
+    {
+      "論文名稱": "Effects of Taichung bus policy on ridership according to structural change analysis",
+      "期刊名稱": "Transportation (SSCI,SCIE)",
+      "作者群": "Chao-Fu Yeh, Ming-Tsung Lee"
+    },
+    {
+      "論文名稱": "Role of governance in the achievement of 20-fold increase in bus ridership – A case study of Taichung City",
+      "期刊名稱": "Transportation Research Part A (SSCI,SCIE)",
+      "作者群": "Liang-Tay Lin, Chao-Fu Yeh*, Simon C.Y. Chen, Chi-Chang Huang"
+    },
+    {
+      "論文名稱": "臺中市快捷巴士(BRT)藍線優先路線規劃與設計",
+      "期刊名稱": "都市交通 ()",
+      "作者群": "林良泰, 葉昭甫*, 陳蓉鑫"
+    },
+    {
+      "論文名稱": "Evaluation methods for external costs road traffic based on objective territorialization in the metropolis",
+      "期刊名稱": "Cities (SSCI)",
+      "作者群": "Yeh Chao-Fu"
+    },
+    {
+      "論文名稱": "臺中市高潛力公車關鍵政策變遷分析",
+      "期刊名稱": "運輸計畫季刊 (TSSCI)",
+      "作者群": "林良泰、林建元、葉昭甫*、李詩晨"
+    },
+    {
+      "論文名稱": "Potential for the development of electric two-wheelers in Shanghai",
+      "期刊名稱": "Les Cahiers Scientifiques du Transport (法國國科會CNRS空間經濟最佳期刊） (ISSN: 1150-8809)",
+      "作者群": "Yeh C.-F, Papon F., Abrous S., Soulas C."
+    },
+    {
+      "論文名稱": "Shanghai, une ville en voie de motorisation? Le développement du transport urbain à Shanghai",
+      "期刊名稱": "Les Cahiers de Global Chance (ISSN 0840-7827)",
+      "作者群": "Yeh Chao-Fu"
+    },
+    {
+      "論文名稱": "Sustainable urban transportation development in Shanghai: what place for bikes?",
+      "期刊名稱": "Transports (ISSN: 0564-1373)",
+      "作者群": "Yeh Chao-Fu & Papon Francis"
+    },
+    {
+      "論文名稱": "Modelling the comfort of passengers in urban public transport system",
+      "期刊名稱": "Journal of the Eastern Asia Society for Transportation Studi (ISSN 2185-5560)",
+      "作者群": "Yeh Chao-Fu"
+    }
+  ],
+  "journal2": [],
+  "conference": [
+    {
+      "論文名稱": "臺中市臺灣大道自動駕駛巴士之營運規劃",
+      "會議名稱": "第30屆海峽兩岸都市交通學術研討會",
+      "作者群": "吳沛儒、張建彥、葉昭甫、楊瓅凱、張毓偉、吳宗昀、黃啟倡、翁鈺雯*、陳昱如"
+    },
+    {
+      "論文名稱": "Application of Project Management System on MaaS Development- A Case Study of Kaohsiung City in Taiwan",
+      "會議名稱": "26th ITS World Congress, Singapore, 21-25 October 2019",
+      "作者群": "Liang-Tay Lin, Chi-Hwa Chern, Tung-Ling Wu, Chao-Fu Yeh, Shih-Huei Lyu, Chung-Chieh Liu, Wei-Liang Chen, Ho-Sheng Chang*, Shang-Chun Lin, Wei-Yen Lin"
+    },
+    {
+      "論文名稱": "Feasibility for DRTS Based on Autonomous Vehicle in Taiwan",
+      "會議名稱": "26th ITS World Congress",
+      "作者群": "Liang-Tay Lin*, Chao-Fu Yeh, Chien-Yen Chang, Chi-Chang Huang, Sung-Ting Kuo, Ping-Yen Tsai"
+    },
+    {
+      "論文名稱": "從城鄉救災走向系統性防災-以智慧交通系統為例",
+      "會議名稱": "九二一震災案十周年紀念論壇",
+      "作者群": "葉昭甫、林俊良、李冠霖、葉瑋婷"
+    },
+    {
+      "論文名稱": "Business Analytics in Cold-Chain Logistics Management",
+      "會議名稱": "2018 International Conference on Building Smart Cities in Vietnam : Vision and Solutions",
+      "作者群": "Liang-Tay Lin, Pei-Ju Wu, Chi-Chang Huang, Chao-Fu Yeh, Jau-Ming Su"
+    },
+    {
+      "論文名稱": "Demand and Supply Analysis of Smart Parking in Feng-Chia University",
+      "會議名稱": "2018 International Conference on Building Smart Cities in Vietnam : Vision and Solutions",
+      "作者群": "Liang-Tay Lin, Jau-Ming Su, Chao-Fu Yeh, Pei-Ju Wu, Bo-Xiang Sheng"
+    },
+    {
+      "論文名稱": "公共運輸之旅客舒適度分析",
+      "會議名稱": "2018兩岸四校 永續與創新學術研討會",
+      "作者群": "葉昭甫、陳家羚"
+    },
+    {
+      "論文名稱": "智慧校園之停車特性分析-以逢甲大學為例\r\n",
+      "會議名稱": "2018兩岸四校 永續與創新學術研討會",
+      "作者群": "葉昭甫、盛柏雄、顧庭安、唐永宸"
+    },
+    {
+      "論文名稱": "The Framework of Development of the Freeway Intelligent Transportation Information Platform – the Integration of eTag Data and 4G OBU Technologies",
+      "會議名稱": "ITS AP Fukuoka 2018",
+      "作者群": "Liang-Tay Lin, Pei Liu, Chao-Fu Yeh, Pei-Ju Wu, Chi-Chuang Huang, Ho-Sheng Chang"
+    },
+    {
+      "論文名稱": "Evaluating Bus Eco-Driving Behavior Using On-Board Diagnostics Data",
+      "會議名稱": "International Conference on Smart Management of Infrastructures",
+      "作者群": "Chao-Fu Yeh, Yi-Xin Wu"
+    },
+    {
+      "論文名稱": "Big Data Analytics for Exploring On-Board Diagnostics Data in Transportation Systems",
+      "會議名稱": "International Conference on Smart Management of Infrastructure",
+      "作者群": "L.-T Lin, C.-C. Huang, C.-F. Yeh, P.-J. Wu"
+    },
+    {
+      "論文名稱": "The Framework of Development of the Freeway Intelligent Transportation Information Platform - The Integration of e-Tag Data and 4G OBU Technologies",
+      "會議名稱": "International Conference on Smart Management of Infrastructures",
+      "作者群": "Liang-Tay Lin, Pei Liu, Chao-Fu Yeh, Pei-ju Wu, Kun-Feng Wu, Chun-Ying Chen, Chi-Chung Huang, Ho-Sheng Chang, Tzu-Ching Shen"
+    },
+    {
+      "論文名稱": "The research of route integration of public transportation in scenic spot",
+      "會議名稱": "8th International Symposium on Travel Demand Management",
+      "作者群": "Chao-Fu Yeh, Yu-Chen Chen"
+    },
+    {
+      "論文名稱": "Destination Estimation of Passenger Trip Based on Smart Card Data\r\n",
+      "會議名稱": "8th International Symposium on Travel Demand Management",
+      "作者群": "Chao-Fu Yeh, Chi-Hua Lu"
+    },
+    {
+      "論文名稱": "觀光路線之公共運輸彈性服務規劃 - 南投縣溪頭風景區為例",
+      "會議名稱": "2017同濟逢甲可持續交通雙邊學術研討會",
+      "作者群": "林良泰、葉昭甫、陳俞臻"
+    },
+    {
+      "論文名稱": "大眾運輸導向發展之影響範籌分析-以臺中市捷運綠線為例",
+      "會議名稱": "中華民國運輸學會105年年會暨學術論文國際研討會",
+      "作者群": " 葉昭甫、蔡學文"
+    },
+    {
+      "論文名稱": "運用大數據分析服務舒適度建構公車最佳營運方案",
+      "會議名稱": "中華民國運輸學會105年年會暨學術論文國際研討會",
+      "作者群": " 鄭又豪、葉昭甫"
+    },
+    {
+      "論文名稱": "臺中市八公里免費公車政策成本效益分析\r\n",
+      "會議名稱": "中華民國運輸學會105年年會暨學術論文國際研討會",
+      "作者群": "葉昭甫、陳雅維"
+    },
+    {
+      "論文名稱": "運用應用公車電子票證資料建構預測通勤旅次之起迄點規律性旅次鏈之迄點",
+      "會議名稱": "逢甲大學－同濟大學 可持續交通雙邊學術研會",
+      "作者群": "葉昭甫, 呂奇樺, 吳奕昕"
+    },
+    {
+      "論文名稱": "飯店觀光需求需求導向之需求反應式運輸系統DRTS與APP規劃-以逢甲商圈為例",
+      "會議名稱": "逢甲大學－同濟大學 可持續交通雙邊學術研會",
+      "作者群": "葉昭甫, 林良泰, 黃啟倡, 吳奕昕, 呂奇樺"
+    },
+    {
+      "論文名稱": "New Experience and issues for sustainable urban development: Bus rapid transit system in Taichung City",
+      "會議名稱": "Taiwan, World Conference on Transport Research - WCTR",
+      "作者群": "Chao-Fu Yeh , Liang-Tay Lin, Chio-Lin Kao"
+    },
+    {
+      "論文名稱": "Improving method of deficits routes on urban bus based on smart card data in Taichung city",
+      "會議名稱": "ICTPA",
+      "作者群": "Chao-Fu Yeh, Mao-Hsun Yang, Hsueh-Wen Tsai, Lai-Yi Ng, Ya-Wei Chen"
+    },
+    {
+      "論文名稱": "Analysis of user characteristics of bike-sharing system in Taipei city based on the smart card data",
+      "會議名稱": "Taiwan-France Forum in Green Transportation System",
+      "作者群": "Yeh Chao-Fu"
+    },
+    {
+      "論文名稱": "以時間數列結構變動分析臺中市公車政策對於運量之影響",
+      "會議名稱": "中華民國運輸學會",
+      "作者群": "葉昭甫, 李明聰"
+    },
+    {
+      "論文名稱": "Modelling of the full trip costs of urban intermodal passenger transport",
+      "會議名稱": "TRB 94th Annual Meeting",
+      "作者群": "Yeh Chao-Fu"
+    },
+    {
+      "論文名稱": "Taichung City BRT Priority Signal System Design",
+      "會議名稱": "ITS World Congress",
+      "作者群": "Liang-Tay Lin, Chao-Fu Yeh, Chi-Chang Huang"
+    },
+    {
+      "論文名稱": "A study of the factors leading to a 20-fold increase in bus ridership over the last 10 years in Taichung City",
+      "會議名稱": "Public Transport Conference - SITCE Singapore",
+      "作者群": "Jason Hu, Liang-Tay Lin, Simon Chen, Chao-Fu Yeh"
+    },
+    {
+      "論文名稱": "運具使用之空間與時間消費模式建構",
+      "會議名稱": "中華民國運輸學會101年國際研討會",
+      "作者群": "Yeh Chao-Fu"
+    },
+    {
+      "論文名稱": "City development and public transportation planning : A case study of Taichung City",
+      "會議名稱": "9th Asia-Pacific Transportation Development Conference",
+      "作者群": "Yeh Chao-Fu & Lu Ying-Chih"
+    },
+    {
+      "論文名稱": "Taipei, d’une métropole pour les motos à un rôle accru des transports publics?",
+      "會議名稱": "Workshop at IVM PSA group",
+      "作者群": "Yeh Chao-Fu"
+    },
+    {
+      "論文名稱": "Modelling the full trip costs of urban intermodal passenger transport",
+      "會議名稱": "Transportation Research Board 89th Annual Meeting Proceedings",
+      "作者群": "Yeh Chao-Fu"
+    },
+    {
+      "論文名稱": "Analysis of potentiality of intermodal passenger transport issue from the evaluating model of trip costs – Case study of the greater Paris region",
+      "會議名稱": "World Conference on Transport Research Society",
+      "作者群": "Yeh Chao-Fu"
+    },
+    {
+      "論文名稱": "A study on feasibility of passenger intermodal transport in city of the developing world",
+      "會議名稱": "International Conference CODATU XIII",
+      "作者群": "Yeh Chao-Fu"
+    },
+    {
+      "論文名稱": "Where in mega-cities could the intermodal transport mode be well encouraged?",
+      "會議名稱": "12th International conference of HONG-KONG Society",
+      "作者群": "Yeh Chao-fu"
+    },
+    {
+      "論文名稱": "Urban mobility in Shanghai: Automobile trips versus cyclist trips",
+      "會議名稱": "Mobility and transport in mega-cities: Confrontations and Introduction",
+      "作者群": "Yeh Chao-Fu"
+    },
+    {
+      "論文名稱": "The chanllenge and feasibility of intermodal transport in mega-city – Case studying of the greater Paris region",
+      "會議名稱": "Proceedings of the 22th Annual Meeting of Chinese Institute of Transportation",
+      "作者群": "Yeh Chao-Fu"
+    },
+    {
+      "論文名稱": "Modelling the comfort of passengers in urban public transport system",
+      "會議名稱": "The 7th International Conference of Eastern Asia Society for Transportation Studies",
+      "作者群": "Yeh Chao-Fu"
+    }
+  ],
+  "book": [
+    {
+      "專業書籍": "多型態大眾運輸路網形塑歐洲永續城市",
+      "出版單位": "台灣銀行家雜誌第90期",
+      "作者群": "葉昭甫"
+    },
+    {
+      "專業書籍": "以機制設計理論評析大眾運輸發展策略 ",
+      "出版單位": "城市發展半年刊 (高雄市政府研考會) ",
+      "作者群": "林良泰、葉昭甫*"
+    },
+    {
+      "專業書籍": "BRT起跑 成本效益知多少",
+      "出版單位": "營建知訊",
+      "作者群": "林良泰 葉昭甫*"
+    },
+    {
+      "專業書籍": "邁向低碳優活臺中城、推動大眾運輸新思維",
+      "出版單位": "臺灣工程技術",
+      "作者群": "林良泰、葉昭甫*"
+    },
+    {
+      "專業書籍": "臺中市快捷巴士BRT路網規劃",
+      "出版單位": "中國工程師學會會刊 ",
+      "作者群": "林良泰、葉昭甫*、陳蓉鑫"
+    },
+    {
+      "專業書籍": "巴黎地下鐵藝術案例與省思",
+      "出版單位": "捷運技術半年刊  ",
+      "作者群": " 葉昭甫"
+    },
+    {
+      "專業書籍": "從大巴黎都會區發展經驗看臺北都會區發展願景",
+      "出版單位": "捷運技術半年刊",
+      "作者群": "葉昭甫"
+    },
+    {
+      "專業書籍": "Prospective des transports: un état des lieux en Europe - Rapport final",
+      "出版單位": "Ministry of Transport",
+      "作者群": "Papon F, Leonardi J. & Yeh C.-F"
+    }
+  ],
+  "patent": [],
+  "most": [
+    {
+      "name": "運用臺中市公車電子票證資料建立公車旅次訖點之演算法與驗證",
+      "schoolYear": "108"
+    },
+    {
+      "name": "(開發型)產學合作計畫－自駕車應用於DRTS之規劃與應用(1/2)",
+      "schoolYear": "107"
+    },
+    {
+      "name": "(廠配)車王電子股份有限公司(開發型)產學合作計畫－自駕車應用於DRTS之規劃與應用(1/2)",
+      "schoolYear": "107"
+    },
+    {
+      "name": "大數據分析應用於客運駕駛行為對於燃料消耗之影響",
+      "schoolYear": "107"
+    },
+    {
+      "name": "應用車載診斷系統於大客車節能駕駛之分析",
+      "schoolYear": "107"
+    },
+    {
+      "name": "台中市公車旅次鏈型態分析",
+      "schoolYear": "106"
+    },
+    {
+      "name": "客運駕駛行為對於油耗影響分析",
+      "schoolYear": "106"
+    },
+    {
+      "name": "高速公路智慧交通資訊平台開發-整合eTag資料與4G車機之技術",
+      "schoolYear": "105"
+    },
+    {
+      "name": "臺中公車捷運系統（BRT藍線）成本效益分析",
+      "schoolYear": "104"
+    }
+  ],
+  "tech": [
+    {
+      "論文名稱": "Intermodalité et coûts des déplacements urbains dans les mégapoles – Les cas de Paris, Shanghai, Taipei (2010-08)",
+      "書名": "Intermodality and urban trip costs in the metropolis – The case studies of Paris, Shanghai, Taipei",
+      "作者群": "Yeh Chao-Fu"
+    }
+  ],
+  "induAca": [
+    "（108年〉中台灣弱勢與偏鄉行動服務支持系統 (2019-01 to 2019-12)",
+    "交通部補助學界成立區域運輸發展研究中心 (2018-12 to 2019-10)",
+    "交通行動服務（MaaS）示範建置計畫專案管理及監督審驗 (2018-10 to 2019-12)",
+    "協助辦理道路交通安全管理系統ISO 39001輔導課程(中區) (2018-07 to 2018-10)",
+    "交通事件資訊整合服務與精進計畫(1/2) (2018-05 to 2018-12)",
+    "阿里山林業鐵路文化資產價值國際案例比較研究計畫 (2018-03 to 2018-12)",
+    "（107年）中台灣弱勢與偏鄉行動服務支持系統 (2018-01 to 2018-12)",
+    "科技應用計畫專案管理及監督審驗計劃案 (2017-09 to 2018-09)",
+    "106 年度教育部補助大學社會責任實踐計畫(B類：萌芽型計畫)「中台灣弱勢與偏鄉行動服務支持系統」 (2017-08 to 2018-03)",
+    "105年度磨課師課程推動計畫「智慧生活─運輸與物流之應用」 (2016-05 to 2017-04)"
+  ],
+  "perform": [],
+  "reward": [
+    "2023智慧城市卓越貢獻獎 (112, 2023-08) - 台灣智慧城市發展協會",
+    "2023 Chinatrust Jeffrey Koo Fellow (111, 2023-05) - Eisenhower Fellowships",
+    "美國艾森豪學人 Eisenhower Fellow (111, 2023-04) - 美國艾森豪獎學金Eisenhower Fellowships",
+    "逢甲大學論文著作獎勵傑出獎 (107, 2018-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (107, 2018-11) - 逢甲大學",
+    "105學年度永續運輸專論之教學滿意度居於全校研究所課程之前10% (106, 2017-12) - 逢甲大學",
+    "105學年度高等環境規劃特論之教學滿意度居全校研究所課程之前10% (106, 2017-12) - 逢甲大學",
+    "105學年度專業英文閱讀與寫作之教學滿意度居於全校研究所課程之前10% (106, 2017-12) - 逢甲大學",
+    "2017年公路公共運輸規劃競賽 (106, 2017-08) - 交通部公路總局",
+    "優良數位學習課程教材 (105, 2017-05) - 逢甲大學",
+    "2016年公路公共運輸服務路線規劃競賽 (105, 2016-08) - 交通部公路總局",
+    "105學年度運輸學之教學滿意度居全校大學部課程之前10% (104, 2016-05) - 逢甲大學",
+    "Third Prize and Popular Choice Award for Hsuehshan Tunnel Transformer (104, 2015-12) - Ford and the Institute for Information Industry of Taiwan",
+    "2015 年公路公共運輸服務路線規劃競賽 (104, 2015-08) - 交通部公路總局",
+    "103學年度專業英文討論之教學滿意度居全校研究所課程之前10% (103, 2015-05) - 逢甲大學",
+    "模範公務人員 (102, 2014-05) - 臺中市政府",
+    "傑出運輸青年 (100, 2011-12) - 中華民國運輸學會"
+  ],
+  "speech": [
+    {
+      "演講題目": "臺中市智慧停車 應用案例分享",
+      "邀請單位": "Mobility 系列研討會  智慧停車現場產品發表會",
+      "演講日期": "2019-05"
+    },
+    {
+      "演講題目": "中台灣弱勢與偏鄉 行動服務支持系統",
+      "邀請單位": "淡江大學",
+      "演講日期": "2018-10"
+    },
+    {
+      "演講題目": "公共運輸的永續規劃與人本設計",
+      "邀請單位": "中山大學(南區區域運輸研究中心)",
+      "演講日期": "2018-08"
+    },
+    {
+      "演講題目": "「新」運輸服務發展面面觀",
+      "邀請單位": "交通大學(北區區域運輸研究中心)",
+      "演講日期": "2018-05"
+    },
+    {
+      "演講題目": "創意思考於都市交通之應用",
+      "邀請單位": "福建工程學院",
+      "演講日期": "2018-05"
+    },
+    {
+      "演講題目": "車輛調度系統優化案例分享",
+      "邀請單位": "經濟部能源局",
+      "演講日期": "2017-12"
+    },
+    {
+      "演講題目": "人本主義、翻轉城市交通",
+      "邀請單位": "台灣新世代關懷協會",
+      "演講日期": "2017-10"
+    },
+    {
+      "演講題目": "智慧城市之都市交通發展策略 (Keynote speaker)",
+      "邀請單位": "逢甲同濟雙邊研討會",
+      "演講日期": "2017-07"
+    },
+    {
+      "演講題目": "巴黎協議之後， 臺灣城市的後續運輸規劃",
+      "邀請單位": "中區區域運輸研究中心教育訓練",
+      "演講日期": "2017-01"
+    },
+    {
+      "演講題目": "建構生活圈為範疇之公共運輸區域發展與治理機制",
+      "邀請單位": "2016中台灣區域聯合治理諮詢暨座談會",
+      "演講日期": "2016-11"
+    },
+    {
+      "演講題目": "公共運輸系統服務整合發展策略 MaaS_Taiwan",
+      "邀請單位": "中區區域運輸發展研究中心專家學者座談會",
+      "演講日期": "2016-10"
+    },
+    {
+      "演講題目": "節能駕駛於公共運輸上之應用",
+      "邀請單位": "中區區域運輸發展研究中心專家學者座談會",
+      "演講日期": "2016-09"
+    },
+    {
+      "演講題目": "翻轉都市交通，改變從「思維」開始！",
+      "邀請單位": "中華談判管理學會",
+      "演講日期": "2016-07"
+    },
+    {
+      "演講題目": "翻轉都市交通: 改變就從創意開始!",
+      "邀請單位": "大屯區扶輪社",
+      "演講日期": "2016-06"
+    },
+    {
+      "演講題目": "輕軌路權競合問題之交通管制措施",
+      "邀請單位": "交通安全宣導研習營",
+      "演講日期": "2015-08"
+    },
+    {
+      "演講題目": "輕型兩輪運具於巴黎都會區之潛在市場評估 (Keynote speaker)",
+      "邀請單位": "逢甲同濟雙邊研討會",
+      "演講日期": "2015-07"
+    },
+    {
+      "演講題目": "大眾運輸發展與減碳效益關係 - 以歐洲輕軌為例",
+      "邀請單位": "臺中市政府低碳辦公室",
+      "演講日期": "2015-04"
+    },
+    {
+      "演講題目": "從我的學思之路，淺談創意在運輸上之應用",
+      "邀請單位": "臺灣科技大學營建工程系",
+      "演講日期": "2014-12"
+    },
+    {
+      "演講題目": "留學歐洲生涯座談",
+      "邀請單位": "臺灣大學土木系",
+      "演講日期": "2014-12"
+    },
+    {
+      "演講題目": "Sustainable urban transport development",
+      "邀請單位": "Ministry of Foreign Affairs",
+      "演講日期": "2014-08"
+    },
+    {
+      "演講題目": "中大眾運輸路網規劃與推動 -設計成果與推動進度",
+      "邀請單位": "中部科學工業園區",
+      "演講日期": "2013-09"
+    },
+    {
+      "演講題目": "BRT、公車與自行車規劃架構與推動成果",
+      "邀請單位": "臺中市政府低碳辦公室",
+      "演講日期": "2013-08"
+    },
+    {
+      "演講題目": "Green Transportation Planning of Great Taichung City",
+      "邀請單位": "British trade & culture office",
+      "演講日期": "2013-08"
+    },
+    {
+      "演講題目": "BRT藍線設計成果暨後續路網",
+      "邀請單位": "臺中市工商促進會",
+      "演講日期": "2013-05"
+    },
+    {
+      "演講題目": "臺中市BRT建設及優先號誌設計",
+      "邀請單位": "中華智慧型運輸系統協會",
+      "演講日期": "2013-04"
+    },
+    {
+      "演講題目": "臺中市公共運輸發展架構暨BRT藍線設計成果",
+      "邀請單位": "成功大學交通管理科學系",
+      "演講日期": "2013-03"
+    },
+    {
+      "演講題目": "臺中大眾運輸路網規劃與推動現況",
+      "邀請單位": "交通大學運輸研究所",
+      "演講日期": "2013-01"
+    },
+    {
+      "演講題目": "臺中大眾運輸路網規劃與推動 – 新挑戰、新契機",
+      "邀請單位": "中部科學工業園區",
+      "演講日期": "2012-11"
+    },
+    {
+      "演講題目": "公共運輸的發展定位與迷思 – 從歐洲看臺灣",
+      "邀請單位": "國立交通大學運輸科技與管理學系",
+      "演講日期": "2012-06"
+    },
+    {
+      "演講題目": "臺中市快捷巴士BRT規劃",
+      "邀請單位": "經濟部能源局",
+      "演講日期": "2012-05"
+    },
+    {
+      "演講題目": "臺中市快捷巴士BRT路網推動",
+      "邀請單位": "彰化師範大學",
+      "演講日期": "2012-05"
+    },
+    {
+      "演講題目": "Taipei, d’une métropole pour les motos à un rôle accru des transports publics?",
+      "邀請單位": "PSA Group (France)",
+      "演講日期": "2012-03"
+    },
+    {
+      "演講題目": "都會區永續運輸發展策略與觀光遊憩規劃之整合",
+      "邀請單位": "中興大學景觀與遊憩學程",
+      "演講日期": "2011-12"
+    },
+    {
+      "演講題目": "都市公共運輸發展策略 -從法國看臺灣，從里昂看臺中",
+      "邀請單位": "新北市交通局",
+      "演講日期": "2011-11"
+    },
+    {
+      "演講題目": "都會區公共運輸發展前景",
+      "邀請單位": "暨南大學土木系",
+      "演講日期": "2011-09"
+    },
+    {
+      "演講題目": "都會區軌道運輸發展前景 -從巴黎看臺北，從法國看台灣",
+      "邀請單位": "臺北捷運工程局",
+      "演講日期": "2011-06"
+    },
+    {
+      "演講題目": "Mobility Cultures in Megacities, Case study : Paris, Taipei",
+      "邀請單位": "BMW foundation (ifmo)",
+      "演講日期": "2010-11"
+    },
+    {
+      "演講題目": "法國ITS的發展現況及未來展望",
+      "邀請單位": "臺灣智慧型運輸系統協會",
+      "演講日期": "2010-11"
+    }
+  ],
+  "material": [],
+  "tal": []
+}

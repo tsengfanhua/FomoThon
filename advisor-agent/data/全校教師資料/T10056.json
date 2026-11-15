@@ -1,0 +1,224 @@
+{
+  "teacherId": "T10056",
+  "name": "黃俊瑋",
+  "mainUnit": "資訊電機學院",
+  "detailUnit": "電機工程學系",
+  "skill": [
+    "電力系統運轉實務與數位孿生監控物聯網Power System Practical Operation and Digital Twin Monitoring IOT",
+    "能源管理與最佳化應用Control and Optimization for Energy Managment System",
+    "電力電子分析與轉換器設計Power Electronics Analysis and Design",
+    "人工智慧分析與電網控制Artificial Intelligent  Analysis and Network Control",
+    "淨零科技與低碳化電力分析Net zero Technology and Low-Carbon Power Analysis"
+  ],
+  "edu": [
+    "清華大學 電機工程學系 博士",
+    "中興大學 電機工程學系 碩士"
+  ],
+  "fcuExp": [
+    "逢甲大學帆宣智慧城市5G實驗室 研究員",
+    "永續發展與社會責任處 研究員",
+    "電機工程學系 助理教授"
+  ],
+  "currjob": [],
+  "otherExp": [
+    "台灣電力公司 台中供電區營運處 電機工程師",
+    "台積電 中科廠工程二部 Lithograph"
+  ],
+  "journal": [
+    {
+      "論文名稱": "Development of a Data-Driven Master-Slave Charging and Discharging Strategy for Low-Carbon Grid-to-Vehicle (G2V) Trading Applications",
+      "期刊名稱": "Journal of Taiwan Energy (TSSCI)",
+      "作者群": "Chun-Wei Huang*, Hsing-Yu Lin, Shih-Hsien Hsu, and Ping-Hsin Lee"
+    },
+    {
+      "論文名稱": "Low Carbon Electricity and Eco-friendly Analysis of Cooperative Energy-Carbon Resilience Control for Microgrid Interlinked with Multiple Converters",
+      "期刊名稱": "IEEE CSEE Journal of Power and Energy Systems (SCIE)",
+      "作者群": "C.-W. Huang*, C.-L. Lin, Y.-C. Lin, and C.-F. Huang"
+    },
+    {
+      "論文名稱": "Navigating Safety and Compliance in HVSC Systems: A Comprehensive Exploration of IEC/IEEE 80005-1 Standards and the Guidelines of Ship Classification Societies",
+      "期刊名稱": "Journal of Marine Science and Engineering (SCIE)",
+      "作者群": "Shih-Hsien Hsu*, Fu-Ming Tzu, Yi-Dong Chen, Chun-Wei Huang"
+    },
+    {
+      "論文名稱": "Optimization of Cell Voltage and Circulating Current with Zero-Mean Current Command Injection in Modular Multilevel Converters",
+      "期刊名稱": "IEEE Transactions on Industrial Electronics (SCIE)",
+      "作者群": "T.-F. Wu, C.-W. Huang*, T.-C. Chou and K. Sun,"
+    },
+    {
+      "論文名稱": "Bi-Directional Grid-Connected Modular Multilevel Converters With Direct Digital Control and D-Σ Processes",
+      "期刊名稱": "IEEE Transactions on Power Electronics (SCIE)",
+      "作者群": "T.-F. Wu, T.-C. Chou, C.-W. Huang and K. Sun"
+    },
+    {
+      "論文名稱": "Estimator Design for Re-entry Targets",
+      "期刊名稱": "ISA Transactions (SCIE)",
+      "作者群": "Chun-Wei Huang, Lin Chun-Liang*, Yu-Ping Lin"
+    }
+  ],
+  "journal2": [],
+  "conference": [
+    {
+      "論文名稱": "Utilizing Deep Learning for Energy Consumption Forecasting in Smart Building Automation System",
+      "會議名稱": "Proceedings of the 45th Symposium on Electrical Power Engineering",
+      "作者群": "Chun-Wei Huang, and Po-Jen Shih"
+    },
+    {
+      "論文名稱": "Development of a Master-Slave-Based Residual Green Energy Capacity Prediction Techniques in Vehicle-to-Everything (V2X) Networks",
+      "會議名稱": "Proceedings of the 45th Symposium on Electrical Power Engineering",
+      "作者群": "Chun-Wei Huang, Wei-Lung Hsueh, and Ping-Hsin Lee"
+    },
+    {
+      "論文名稱": "Development of Low-Carbon Electricity Industrial Internet of Things in Digital Twin Monitoring System",
+      "會議名稱": "Proceedings of the 44th Symposium on Electrical Power Engineering",
+      "作者群": "HUANG CHUN-WEI, and ZHANG,XIANG-JUN"
+    },
+    {
+      "論文名稱": "Implementation of Green Economic Dispatch and Low-Carbon Exchange System",
+      "會議名稱": "Proceedings of the 44th Symposium on Electrical Power Engineering",
+      "作者群": "HUANG CHUN-WEI, LEE PING-HSIN, and LIN HSING-YU"
+    },
+    {
+      "論文名稱": "Design and Implementation for Green Energy Resilience Dispatch in Interconnected Microgrid",
+      "會議名稱": "Proceedings of the 44th Symposium on Electrical Power Engineering",
+      "作者群": "Chun-Wei Huang, Chun-Liang Lin, Chao-Feng Hung, and Yu-Cheng Lin"
+    },
+    {
+      "論文名稱": "Adaptive Neural Network Fuzzy Inference-Based Models for Energy Management in Electric Vehicle Charging Station",
+      "會議名稱": "Proceedings of the 43th Symposium on Electrical Power Engineering",
+      "作者群": "H.-Y. Lin, C.-W. Huang, and G.-L. Huang"
+    },
+    {
+      "論文名稱": "Residual Capacity Estimation for Battery Energy Storage of Micro Grid with an Adaptive Coulomb-Counting Method",
+      "會議名稱": "2022 IEEE International Conference on Power Systems Technology (POWERCON)",
+      "作者群": "Chun-Wei Huang, Yu-Cheng Lin, Hsing-Yu Lin, and Shih-Hsien Hsu"
+    },
+    {
+      "論文名稱": "Cell-Voltage Ripple Reduction for Modular Multilevel Converters with Zero-Mean Current Command Injection",
+      "會議名稱": "2018 IEEE International Power  Electronics and Application Conference and Exposition (PEAC)",
+      "作者群": "T. -F. Wu, C. W. Huang, T. Chou and K. Sun"
+    },
+    {
+      "論文名稱": "Circulating Current Suppression for Modular Multi-level Converters with \nDirect Digital Control",
+      "會議名稱": "2018 IEEE International Power Electronics and Application Conference and Exposition (PEAC)",
+      "作者群": "T. -F. Wu, T. -C. Chou, C. -W. Huang, K. -. Lin, T. -. Li and K. Sun"
+    },
+    {
+      "論文名稱": "Lagrange-Based Optimization of Cell Voltage and Arm Current with Zero-Sequence Current Injection in Modular Multilevel Converter",
+      "會議名稱": "ECCE 2017",
+      "作者群": "T. F. Wu, C. W. Huang, T. C. Chou"
+    },
+    {
+      "論文名稱": "Grid-Connected Bi-directional Modular Multilevel Converter with D-Σ Digital Control",
+      "會議名稱": "2017 IEEE 3rd International Future Energy Electronics Conference and ECCE Asia",
+      "作者群": "T. F. Wu, T. C. Chou, C. W. Huang, et al"
+    },
+    {
+      "論文名稱": "Investigation of Cell Voltages and Arm Currents in Double-Star Modular Multilevel Converters",
+      "會議名稱": "2017 IEEE 3rd International Future Energy Electronics Conference and ECCE Asia",
+      "作者群": "T.-F. Wu, C.-W. Huang, T.-C. Chou, J.-S. Chen, and Y. Chang"
+    },
+    {
+      "論文名稱": "D-Σ digital control based modular multilevel converter",
+      "會議名稱": "2016 IEEE 8th International Power Electronics and Motion Control Conference",
+      "作者群": "Tsai-Fu Wu, Tzu-Chieh Chou, Zhi-Cheng Guo, Chun-Sheng Wu and Chun-Wei Huang"
+    },
+    {
+      "論文名稱": "Trajectory Estimation of Higher-Tier Ballistic Targets",
+      "會議名稱": "2011 8th Asian Control Conference (ASCC)",
+      "作者群": "Yu-Ping Lin, Lin Chun-Liang*, Chun-Wei Huang, Yung-Yu Chen"
+    },
+    {
+      "論文名稱": "An advanced estimation design for high speed reentry targets",
+      "會議名稱": "2011 8th Asian Control Conference (ASCC)",
+      "作者群": "Yung-Yu Chen, Chun-Liang Lin, Chun-Wei Huang and Y. Lin"
+    },
+    {
+      "論文名稱": "Design of a 3-D Modified Proportional Navigation Guidance Law",
+      "會議名稱": "The 8th IEEE International Conference on Control and Automation 2010",
+      "作者群": "Yu-Ping Lin, Chun-Liang Lin and Chun-Wei Huang"
+    }
+  ],
+  "book": [
+    {
+      "專業書籍": "歐洲廠牌之氣封開關維護實例應用問題探討",
+      "出版單位": "台灣電力公司台中供電區營運處",
+      "作者群": "黃俊瑋,蘇倉賢,陳怡文"
+    },
+    {
+      "專業書籍": "高層目標估測與規格需求分析",
+      "出版單位": "中山科學研究院第二研究所",
+      "作者群": "林俊良,陳永裕,黃俊瑋,林育平"
+    },
+    {
+      "專業書籍": "中高層飛彈導引律設計與分析(Ⅱ)",
+      "出版單位": "中山科學研究院第二研究所",
+      "作者群": "林俊良, 林育平, 黃俊瑋"
+    }
+  ],
+  "patent": [],
+  "most": [
+    {
+      "name": "即時智能監控蜂箱提升蜂蜜產能之優化培育管理平台開發",
+      "schoolYear": "113"
+    },
+    {
+      "name": "具備預防性儲能設備維護輔助服務之直流微電網研製",
+      "schoolYear": "110"
+    }
+  ],
+  "tech": [
+    {
+      "論文名稱": "台中市南屯變電所氣封開關新增緩衝氣室及內檢說明 (2021-06)",
+      "書名": "109年度台電技術經驗彙編",
+      "作者群": "黃俊瑋,陳怡文"
+    },
+    {
+      "論文名稱": "Optimization of Cell-Voltage Ripple and Circulating Current Suppression in Modular Multilevel Convertors (2020-01)",
+      "書名": "Ph.D. Dissertation,  Chun-Wei Huang",
+      "作者群": "Chun-Wei Huang"
+    }
+  ],
+  "induAca": [],
+  "perform": [],
+  "reward": [
+    "最佳創新獎 (113, 2024-11) - 2024全國大專院校產學創新實作競賽",
+    "2024 SDGs學術論文獎 (113, 2024-11) - 台灣永續能源研究基金會（TAISE）、中鼎教育基金會（CTCIEF）",
+    "112學年度優良導師 (112, 2024-11) - 學生事務處",
+    "112-2校園典藏優秀作品收錄 (113, 2024-10) - 逢甲大學",
+    "2024人文與科技跨域創新競賽-大數據特別獎 (112, 2024-06) - 逢甲大學",
+    "112-1教學滿意度全校前10% (112, 2024-04) - 逢甲大學",
+    "112-1校園典藏優秀作品收錄 (112, 2024-03) - 逢甲大學",
+    "111-1教學滿意度全校前10% (111, 2023-04) - 逢甲大學",
+    "111年度電機工程學系期末專題競賽_智慧能源與電力工程領域第1名 (111, 2022-12) - 電機工程學系"
+  ],
+  "speech": [
+    {
+      "演講題目": "智慧電機魔法師-解鎖邏輯電路初體驗",
+      "邀請單位": "台中市市立文華高中",
+      "演講日期": "2025-01"
+    },
+    {
+      "演講題目": "電機系專業領域概述與能源未來-高雄市立前鎮高中",
+      "邀請單位": "逢甲大學招生試務處",
+      "演講日期": "2023-03"
+    },
+    {
+      "演講題目": "電機系專業領域概述與能源未來",
+      "邀請單位": "台中市私立明道中學",
+      "演講日期": "2023-01"
+    },
+    {
+      "演講題目": "低碳電力與生活",
+      "邀請單位": "教師教學專業成長社群-MATLAB軟體",
+      "演講日期": "2022-11"
+    },
+    {
+      "演講題目": "預見逢甲(Open House)_學系特色與應試重點說明新課綱學習歷程知能培訓",
+      "邀請單位": "逢甲大學招生試務處",
+      "演講日期": "2022-03"
+    }
+  ],
+  "material": [],
+  "tal": []
+}

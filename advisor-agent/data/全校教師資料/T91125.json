@@ -1,0 +1,1163 @@
+{
+  "teacherId": "T91125",
+  "name": "薛念林",
+  "mainUnit": "資訊電機學院",
+  "detailUnit": "資訊工程學系",
+  "skill": [
+    "軟體工程Software Engineering",
+    "軟體品質驗證Software Quality Assurance",
+    "物件設計Object Design"
+  ],
+  "edu": [
+    "國立中央大學 資訊工程研究所 博士"
+  ],
+  "fcuExp": [
+    "資訊處 研究員",
+    "資訊處 研究員",
+    "資訊技術服務中心 副研究員",
+    "資訊電機學院不分系榮譽班 主任",
+    "資訊工程學系 系主任",
+    "資訊工程學系 副教授",
+    "系統發展組 組長",
+    "資訊工程學系 教授",
+    "資訊工程學系 教授",
+    "資訊工程學系 教授"
+  ],
+  "currjob": [],
+  "otherExp": [],
+  "journal": [
+    {
+      "論文名稱": "Applying Large Language Model to User Experience Testing",
+      "期刊名稱": "Electronics (SCIE)",
+      "作者群": "Nien-Lin Hsueh, Hsuen-Jen Lin, Lien-Chi Lai"
+    },
+    {
+      "論文名稱": "Design of an Online Programming Platform and a Study on Learners’ Testing Ability",
+      "期刊名稱": "Electronics (SSCI)",
+      "作者群": "Nien-Lin Hsueh, Lien-Chi Lai and Wei-Hsiang Tseng"
+    },
+    {
+      "論文名稱": "Design and Implementation of Gamified Learning System for Mutation Testing",
+      "期刊名稱": "International Journal of Information and Education Technology (EI)",
+      "作者群": "Nien-Lin Hsueh, Zeng Hung Xuan, Daramsenge Bilegjargal"
+    },
+    {
+      "論文名稱": "Building a Learning Analysis System with GQM Methodology\nand ELK Stack",
+      "期刊名稱": "Journal of Internet Technology (SCIE)",
+      "作者群": "Nien-Lin Hsueh, Jun-Lie Wang, Daramsene Bilegjargal"
+    },
+    {
+      "論文名稱": "Exploring time-related micro-behavioral patterns in a Python programming online course",
+      "期刊名稱": "Journal of Information Science and Engineering (SCIE)",
+      "作者群": "Hsi-Min Chen, Nguyen Bao-An, Chyi-Ren Dow, Nien-Lin Hsueh,  An-Chi Liu"
+    },
+    {
+      "論文名稱": "Exploring the influence of students’ modes of behavioral engagement in an online programming course using the partial least squares structural equation modeling approach",
+      "期刊名稱": "Journal of Information Technology Education:Research (EI)",
+      "作者群": "Nien-Lin Hsueh, Daramsenge Bilegjargal, Lien-Chi Lai"
+    },
+    {
+      "論文名稱": "Understanding Students’ Acceptance of Online Judge System in Programming Courses: A Structural Equation Modelling Approach",
+      "期刊名稱": "IEEE Access (SCIE)",
+      "作者群": "Daramsenge Bilegjargal and Nien-Lin Hsueh"
+    },
+    {
+      "論文名稱": "Design Pattern Analysis with Software Evolution Data",
+      "期刊名稱": "Journal of Information Science and Engineering (SCIE)",
+      "作者群": "Nien-Lin Hsueh"
+    },
+    {
+      "論文名稱": "A Cloud Service Implementation for Evaluating Design Pattern in Software Evolution.",
+      "期刊名稱": "Journal of Information Science and Engineering (SCIE)",
+      "作者群": "Der-Hong Ting, Nien-Lin Hsueh*, Chao-Tung Yang, Chin-Hung Chang"
+    },
+    {
+      "論文名稱": "A Configurable and Extensible Middleware design for Mobile Application Integration",
+      "期刊名稱": "Journal of software engineering (EI)",
+      "作者群": "Nien-Lin Hsueh, Der-Hong Ting, Wen-Hsiang Shen, Wen-Tin Lee"
+    },
+    {
+      "論文名稱": "MDA-based visual modeling approach for resources link relationships using UML profile",
+      "期刊名稱": "Computer Standards and Interfaces (SCIE)",
+      "作者群": "I-Ching Hsu*, Der-Hong Ting, Nien-Lin Hsueh"
+    },
+    {
+      "論文名稱": "A Test Case Refactoring Approach for Pattern-based Software Development.",
+      "期刊名稱": "Software Quality Journal (SCIE)",
+      "作者群": "Peng-Hua Chu, Nien-Lin Hsueh, Hong-Hsiang Chen and Chien-Hung Liu"
+    },
+    {
+      "論文名稱": "Automatic testing environment for multi-core embedded software—ATEMES",
+      "期刊名稱": "Journal of Systems and Software (SCIE,EI)",
+      "作者群": "Chorng-Shiuh Koong,Chihhsiong Shih, Pao-Ann Hsiung, Hung-Jui Lai, Chih-Hung Chang, William C. Chu, Nien-Lin Hsueh, Chao-Tung Yang"
+    },
+    {
+      "論文名稱": "A Pattern-based Refactoring Approach for Multi-core System Design",
+      "期刊名稱": "International Journal of Advancements in Computing Technolog (ECONLIT)",
+      "作者群": "Nien-Lin Hsueh, Peng-Hua Chu, Pao-Ann Hsiung, Min-Ju Chuang,William Chu,Chih-Hung Chang, Chorng-Shiuh Koong, Chihhsiong Shih, Chao-Tung Yang"
+    },
+    {
+      "論文名稱": "Measurement-based Software Process Modeling",
+      "期刊名稱": "Journal of Software Engineering (EI)",
+      "作者群": "W.H. Shen, Nien-Lin Hsueh and P.H. Chu"
+    },
+    {
+      "論文名稱": "Assessing PSP effect in training disciplined software development: A Plan-Track-Review model",
+      "期刊名稱": "Information and Software Technology (SCIE,EI)",
+      "作者群": "Wen-Hsiang Shen, Nien-Lin Hsueh and Wei-Mann Lee"
+    },
+    {
+      "論文名稱": "VERTAF Multi-Core: A SysML-based Application Framework for Multi-Core Embedded Software Development",
+      "期刊名稱": "Journal of the Chinese Institute of Engineers (SCIE)",
+      "作者群": "C.S. Lin, P.A. Hsiung, S.W. Lin, Y.R. Chen, C.H. Lu, S.Y. Tong, W.T. Su, W.C. Chu, C.H. Shih, N.L. Hsueh, C.H. Chang, C.S. Koong"
+    },
+    {
+      "論文名稱": "Reversible Data Hiding Based on Three-Circular Pixel Difference Expansion",
+      "期刊名稱": "Fundamenta Informaticae (SCIE,EI)",
+      "作者群": "C.C. Lin, S.P. Yang, Nien-Lin Hsueh"
+    },
+    {
+      "論文名稱": "Object-Oriented Design: A Goal-Driven and Pattern-Based Approach",
+      "期刊名稱": "Software and System Modeling (SCIE)",
+      "作者群": "Nien Lin Hsueh, Jong Yih Kuo, and Ching-Chiuan Lin"
+    },
+    {
+      "論文名稱": "Adaptive Embedding Techniques for VQ-Compressed Images",
+      "期刊名稱": "Information Sciences (SCIE,EI)",
+      "作者群": "C.C. Lin, S.C. Chen, Nien-Lin Hsueh"
+    },
+    {
+      "論文名稱": "A Quantitative Approach for Evaluating the Quality of Design Patterns",
+      "期刊名稱": "Journal of Systems and Software (SCIE,EI)",
+      "作者群": "Nien-Lin Hsueh, P.H. Chu, William Chu"
+    },
+    {
+      "論文名稱": "Applying UML and Software Simulation for Process Definition, Verification and Validation",
+      "期刊名稱": "Information and Software Technology (SCIE,EI)",
+      "作者群": "Nien-Lin Hsueh, W.H. Shen, Z.W. Yang, D.L. Yang"
+    },
+    {
+      "論文名稱": "Adaptively Embedding Binary Data in an Image",
+      "期刊名稱": "Fundamenta Informaticae (SCIE,EI)",
+      "作者群": "Ching-Chiuan Lin, Nien Lin Hsueh and W.H.Shen"
+    },
+    {
+      "論文名稱": "A lossless data hiding scheme based on three-pixel block differences",
+      "期刊名稱": "Pattern Recognition (SCIE,EI)",
+      "作者群": "Ching-Chiuan Lin and Nien Lin Hsueh"
+    },
+    {
+      "論文名稱": "High-Performance Reversible Data Hiding",
+      "期刊名稱": "Fundamenta Informaticae (SCIE,EI)",
+      "作者群": "Ching-Chiuan Lin, Nien Lin Hsueh and W.H. Shen"
+    },
+    {
+      "論文名稱": "Hiding Data Reversibly in an Image via Increasing Differences between Two Neighboring Pixels",
+      "期刊名稱": "IEICE Transactions on Information and Systems (SCIE,EI)",
+      "作者群": "Ching-Chiuan Lin and Nien Lin Hsueh"
+    },
+    {
+      "論文名稱": "Efficient approaches for materialized views selection in a data warehouse",
+      "期刊名稱": "Information Sciences (SCIE,EI)",
+      "作者群": "Ming-Chuan Hung, Man-Lin Huang, Don-Lin Yang, and Nien-Lin Hsueh"
+    },
+    {
+      "論文名稱": "Software Process Improvement at Feng Chia University- An Experience Report",
+      "期刊名稱": "Journal of Software Engineering Studies ()",
+      "作者群": "Nien Lin Hsueh, Don Lin Yang, Lu Mei Wang and Peng Hua Chu"
+    },
+    {
+      "論文名稱": "University\r\ntimetabling through conceptual modeling",
+      "期刊名稱": "International Journal Of Intelligent Systems (SCIE,EI)",
+      "作者群": "J. Lee, S.P. Ma, L.F. Lai, N.L. Hsueh, and Y.Y. Fanjiang"
+    },
+    {
+      "論文名稱": "Evolutionary Agents for Intelligent Transport Systems",
+      "期刊名稱": "International Journal of Fuzzy Systems (EI)",
+      "作者群": "Jong Yih Kuo, S.J. Lee and C.L. Wu, N.L. Hsueh, J. Lee"
+    },
+    {
+      "論文名稱": "A Note on Current Approaches to Extending Fuzzy Logic to Object-Oriented Modeling",
+      "期刊名稱": "International Journal of Intelligent Systems (SSCI,ECONLIT)",
+      "作者群": "J. Lee, J.Y. Kuo and N.L. Xue."
+    },
+    {
+      "論文名稱": "Structuring Requirements Specifications with Goals.",
+      "期刊名稱": "Information and Software Technology (SSCI,ECONLIT)",
+      "作者群": "J. Lee, N.L. hsueh and K.Y. Kuo"
+    },
+    {
+      "論文名稱": "Modeling Imprecise Requirements with Fuzzy Objects",
+      "期刊名稱": "Information Sciences: an International Journal. (SCIE,EI)",
+      "作者群": "J. Lee, N.L. Hsueh, K.H. Hsu and S.J.H. Yang."
+    },
+    {
+      "論文名稱": "Analyzing User Requirements by Use Cases: A Goal-Driven Approach",
+      "期刊名稱": "IEEE Software (SCIE,EI)",
+      "作者群": "J. Lee and N.L Hsueh"
+    },
+    {
+      "論文名稱": "An Integrated Combination of JSD and Formal Notations",
+      "期刊名稱": "In Proceedings of the National Science Council ()",
+      "作者群": "J. Lee, J.I. Pan, N.L. Hsueh and W.T. Huang."
+    }
+  ],
+  "journal2": [],
+  "conference": [
+    {
+      "論文名稱": "人工智慧輔助程式學習系統之設計與實作",
+      "會議名稱": "2024 台灣軟體工程研討會",
+      "作者群": "薛佾展, 薛念林"
+    },
+    {
+      "論文名稱": "應用大型語言模型於網頁使用者體驗測試",
+      "會議名稱": "2024 台灣軟體工程研討會",
+      "作者群": "林軒任, 薛念林"
+    },
+    {
+      "論文名稱": "基於 LangChain 架構之學習歷程查詢系統之開發與評估",
+      "會議名稱": "2024 台灣軟體工程研討會",
+      "作者群": "王薇婷, 薛念林"
+    },
+    {
+      "論文名稱": "DevOps Learning System Development",
+      "會議名稱": "2023 International Conference of Innovative Technologies and Learning (ICITL 2023)",
+      "作者群": "Nien-Lin Hsueh and Ruei-Zih Chien"
+    },
+    {
+      "論文名稱": "程式練習平台之設計與學生測試能力之研究",
+      "會議名稱": "台灣軟體工程研討會",
+      "作者群": "薛念林, 曾偉翔, 賴漣錡, 白莉佳"
+    },
+    {
+      "論文名稱": "Correlation Analysis of the Online Courses Video Style and Video Watching Rate",
+      "會議名稱": "9th International Conference on Applied System Innovation 2023 (ICASI 2023)",
+      "作者群": "Lien-Chi Lai, Nien-Lin Hsueh"
+    },
+    {
+      "論文名稱": "Design and Implementation of Gamified Learning System for Mutation Testing",
+      "會議名稱": "2023 4th European Advanced Educational Technology Conference (EAET 2023)",
+      "作者群": "Nien-Lin Hsueh*, Zeng Hung Xuan, Bilegjargal Daramsenge"
+    },
+    {
+      "論文名稱": "Analyzing Students’ Learning Engagements Using PLS-SEM: A Case Study in A Small Private Online Programming Course",
+      "會議名稱": "6th International Conference on Education and E-Learning (ICEEL 2022)",
+      "作者群": "Daramsenge Bilegjargal, Nien-Lin Hsueh and Lien-Chi Lai"
+    },
+    {
+      "論文名稱": "DevOps 輔助學習系統之設計與實作",
+      "會議名稱": "台灣軟體工程研討會",
+      "作者群": "簡瑞梓、薛念林"
+    },
+    {
+      "論文名稱": "變異測試之遊戲化學習系統設計與實作",
+      "會議名稱": "台灣軟體工程研討會",
+      "作者群": "曾弘軒、薛念林"
+    },
+    {
+      "論文名稱": "Exploring time-related behavioral patterns in MOOCs: The Example of Python Courses",
+      "會議名稱": "2021台灣軟體工程研討會 (TCSE 2021)",
+      "作者群": "Bao-An Nguyen, Hsi-Min Chen, Nien-Lin Hsueh, An-Chi Liu, and Chyi-Ren Dow"
+    },
+    {
+      "論文名稱": "線上課程影片風格與影片觀看率關聯度之分析",
+      "會議名稱": "台灣軟體工程研討會",
+      "作者群": "賴璉錡、薛念林"
+    },
+    {
+      "論文名稱": "基於滯後序列分析之線上程式學習行為分析",
+      "會議名稱": "台灣軟體工程研討會",
+      "作者群": "林囿佑、薛念林"
+    },
+    {
+      "論文名稱": "Designing an Online Coding System based on Learning Analytics",
+      "會議名稱": "Taiwan Conference on Software Engineering (TCSE 2020)",
+      "作者群": "封智翔, 薛念林"
+    },
+    {
+      "論文名稱": "學習資料分析的物件框架",
+      "會議名稱": "Taiwan Conference on Software Engineering (TCSE 2020)",
+      "作者群": "薛念林、王中穎"
+    },
+    {
+      "論文名稱": "Version-based Microservice Analysis, Monitoring, and Visualization.",
+      "會議名稱": "In Proceedings of the 26th Asia-Pacific Software Engineering Conference (APSEC 2019)",
+      "作者群": "Shang-Pin Ma, I-Hsiu Liu, Chun-Yu Chen, Jiun-Ting Lin, and Nien-Lin Hsueh."
+    },
+    {
+      "論文名稱": "Video Watching Behavior Analysis in MOOC Course by Clustering Approach",
+      "會議名稱": "International Joint Conference of TCSE, JASPIC and SEA",
+      "作者群": "Nien-Lin Hsueh and Ju-Guang Yeh"
+    },
+    {
+      "論文名稱": "Teaching Python Programming in Different Themes: An Experience Report",
+      "會議名稱": "eLearning forum Asia 2019",
+      "作者群": "Nien-Lin Hsueh and Hsi-Min Chen"
+    },
+    {
+      "論文名稱": "Using Online Judge System in an e-Learning and Programming Education",
+      "會議名稱": "eLearning Asia Forum 2019",
+      "作者群": "Nien Lin HSUEH and Hsi-Min CHEN"
+    },
+    {
+      "論文名稱": "使用者視覺化規格轉換測試程式碼之自動化工具",
+      "會議名稱": "2018台灣軟體工程研討會(TCSE 2018)",
+      "作者群": "施智翔, 薛念林, 陳錫民"
+    },
+    {
+      "論文名稱": "建立於影片觀看分析之磨課師學習歷程分析",
+      "會議名稱": "2018台灣軟體工程研討會(TCSE 2018)",
+      "作者群": "薛念林, 莫剛, 陳錫民"
+    },
+    {
+      "論文名稱": "MDA-Based Android APP Generation By Using Screen Navigation Flows",
+      "會議名稱": "International Conference on INTERNET STUDIES (NETs 2018)",
+      "作者群": "Hsi-Min Chen*, Tsung-Chi Lin, Jun-Yong Huang, Nien-Lin Hsueh"
+    },
+    {
+      "論文名稱": "MOOCs Video Watch Pattern Analysis and Application",
+      "會議名稱": "The 4th Greater China MOOC Symposium",
+      "作者群": "薛念林, 陳錫民"
+    },
+    {
+      "論文名稱": "OpenEdu磨課師系統學習資料分析報告",
+      "會議名稱": "2017 台灣軟體工程研討會",
+      "作者群": "薛念林, 莫剛, 陳錫民"
+    },
+    {
+      "論文名稱": "ProgEdu - An Automatic Assessment Platform for Programming Courses",
+      "會議名稱": "2017 IEEE International Conference on Applied System Innovation (ICASI 2017)",
+      "作者群": "Hsi-Min Chen*, Wei-Han Chen, Nien-Lin Hsueh, Chi-Chen Lee, Chia-Hsiu Li"
+    },
+    {
+      "論文名稱": "A framework for design pattern testing",
+      "會議名稱": "2017 IEEE International Conference on Applied System Innovation (ICASI 2017)",
+      "作者群": "Nien-Lin Hsueh, Zih Fang Huang"
+    },
+    {
+      "論文名稱": "MASA: A Cross-Platform Component Architecture for Building Mobile Applications with Service Caching",
+      "會議名稱": "The 13th IEEE International Conference on e-Business Engineering",
+      "作者群": "Shang-Pin Ma, Chi-Chia Li, Chen-Yuan Fan, Wen-Tin Lee, and Nien-Lin Hsueh"
+    },
+    {
+      "論文名稱": "Towards a Monitoring Framework for Microservices Applications Using Software Agents and ELK Stack",
+      "會議名稱": "International Conference on Internet Studies (NETs 2016)",
+      "作者群": "Hsi-Min Chen*, Nien-Lin Hsueh, Yi-Chung Chen, Xuan-Ye Yang, and Yang-Syuan Chen"
+    },
+    {
+      "論文名稱": "基於倒傳遞模糊類神經網路之快速天際線朋友尋找演算法",
+      "會議名稱": "2016 台灣軟體工程研討會(TCSE2016)",
+      "作者群": "邱勝敏, 陳奕中*, 楊東麟, 薛念林, 陳錫民"
+    },
+    {
+      "論文名稱": "針對Microservices 應用程式之以代理人為基底的監控機制",
+      "會議名稱": "2016 台灣軟體工程研討會(TCSE2016)",
+      "作者群": "陳錫民*,薛念林,陳奕中,李霽烝,陳仰萱"
+    },
+    {
+      "論文名稱": "磨課師學習分析框架－以 OpenEdu 為例",
+      "會議名稱": "台灣軟體工程研討會(TCSE2016)",
+      "作者群": "陳仰萱, 薛念林, 陳錫民"
+    },
+    {
+      "論文名稱": "A Systematic Approach for Web Testing with Page Object Pattern Application and Enhancement",
+      "會議名稱": "2016 台灣軟體工程研討會(TCSE2016)",
+      "作者群": "Xin-Hung Chen, Nien-Lin Hsueh"
+    },
+    {
+      "論文名稱": "An Opinion Mining Approach Based on Localized Social Group and Query Expansion\r\n",
+      "會議名稱": "2016 台灣軟體工程研討會(TCSE2016)",
+      "作者群": "Ming-Wei Kat, Nien-Lin Hsueh, Yi-Chung Chen, Shi-Chuen Hwang"
+    },
+    {
+      "論文名稱": "An Analysis Framework for MOOCs Learning-A Case Study in OpenEdu",
+      "會議名稱": "eLearning Forum Asia 2016",
+      "作者群": "Y.S. Chen, Nien-Lin Hsueh*, A.C. Liu and Hsi-Min Chen"
+    },
+    {
+      "論文名稱": "A Neural-based Skyline Identifier for Finding Similar Users in Social networks",
+      "會議名稱": "International Multi-Conference on Engineering and Technology Innovation",
+      "作者群": "Yu-Ting Sun, Chun-Jhong Wang, Yi-Chung Chen*, Yu-Liang Hsu, Heng-Yi Su"
+    },
+    {
+      "論文名稱": "AN ALLIANCE-BASED TERM PROJECT IN SOFTWARE QUALITY COURSES: A LESSON LEARNED",
+      "會議名稱": "International Conference on Internet Studies (NETs 2015)",
+      "作者群": "Nien Lin Hsueh"
+    },
+    {
+      "論文名稱": "一個整合於磨課師之 Java 程式語言學習環境",
+      "會議名稱": "2015台灣軟體工程研討會(TCSE)",
+      "作者群": "徐琨閔、薛念林*、黃溪春"
+    },
+    {
+      "論文名稱": "以註解重整之方法改善樣式為基礎之軟體可維護性",
+      "會議名稱": "2014 台灣軟體工程研討會 (TCSE)",
+      "作者群": "郭哲均, 薛念林*, 黃溪春, 徐國勛"
+    },
+    {
+      "論文名稱": "以問卷為基礎之健康照護應用程式框架",
+      "會議名稱": "2014 台灣軟體工程研討會 (TCSE)",
+      "作者群": "吳耿豪, 薛念林*, 張志宏, 徐國勛"
+    },
+    {
+      "論文名稱": "以聯盟式專題為導向之軟體測試課程設計",
+      "會議名稱": "2014 台灣軟體工程研討會 (TCSE)",
+      "作者群": "薛念林"
+    },
+    {
+      "論文名稱": "應用設計樣式輔助軟體的開發與實作──以象棋系統為例",
+      "會議名稱": "2014 台灣軟體工程研討會 (TCSE)",
+      "作者群": "盧威辰, 陳映如, 鄭兆廷, 薛念林*"
+    },
+    {
+      "論文名稱": "以註解重整之方法改善樣式為基礎之軟體可維護性",
+      "會議名稱": "2014 台灣軟體工程研討會 (TCSE)",
+      "作者群": "郭哲均, 薛念林*, 黃溪春, 徐國勛"
+    },
+    {
+      "論文名稱": "Improving Software Maintenance for Pattern-Based Software Development: A Comment Refactoring Approach",
+      "會議名稱": "The First International Conference on Trustworthy Systems and Their Applications",
+      "作者群": "J.J. Guo , N.L. Hsueh* , W.T. Lee , and S.C. Hwang"
+    },
+    {
+      "論文名稱": "A Framework for Questionnaire-based Healthcare Application Development",
+      "會議名稱": "The First International Conference on  Trustworthy Systems and Their Applications",
+      "作者群": "G.H. Wu, N.L Hsueh*, and C.H. Chang"
+    },
+    {
+      "論文名稱": "Applying Cloud Computing Technologies to Gerontology and Geriatrics Health Care System (GGHCS)",
+      "會議名稱": "Quality Software (QSIC), 2013 13th International Conference on",
+      "作者群": "TC Hsu, CH Chang, WC Chu, SY Ho, NL Hsueh and WB Lee"
+    },
+    {
+      "論文名稱": "A Mobile Centered and Web  Service Integrated Approach for  legacy eHealth Web Migration",
+      "會議名稱": "The 13th International Conference on Quality Software 2013",
+      "作者群": "Nien-Lin Hsueh*, Chen Pei-Sheng,  Chao-Tung Yang, Chih-Wei Lu,  Chih-Hung Chang"
+    },
+    {
+      "論文名稱": "應用擴增實境技術實作行動平台3D電子寵物遊戲",
+      "會議名稱": "2013 台灣軟體工程研討會 (TCSE)",
+      "作者群": "呂蘊宸*,沈學慶,彭語柔,孫維嶸,薛念林"
+    },
+    {
+      "論文名稱": "具服務品質保證之企業雲端計算架構",
+      "會議名稱": "2013 台灣軟體工程研討會 (TCSE)",
+      "作者群": "朱正忠、楊朝棟、盧志偉、張志宏、薛念林"
+    },
+    {
+      "論文名稱": "以模型為基礎的雲端儲存應用方法",
+      "會議名稱": "2013 台灣軟體工程研討會 (TCSE)",
+      "作者群": "薛念林，范遠暉"
+    },
+    {
+      "論文名稱": "台灣軟體工程教育改善：國際參與、企業接軌、向下扎根",
+      "會議名稱": "2013 台灣軟體工程研討會 (TCSE)",
+      "作者群": "李允中、薛念林、劉立頌"
+    },
+    {
+      "論文名稱": "The architecture mapping support of a real time multi-core embedded software design tool development framework",
+      "會議名稱": "The 7th International Conference on Complex, Intelligent, and Software Intensive Systeme (CISIS 2013)",
+      "作者群": "Pao-Ann Hsiung*, Chorng-Shiuh Koong, Chih-Hung Chang, Nien-Lin Hsueh"
+    },
+    {
+      "論文名稱": "A Cloud Service Design for Quality Evaluation of Design Patterns",
+      "會議名稱": "2012 6th International Conference on Genetic and Evolutionary Computing",
+      "作者群": "Nien-Lin Hsueh, Ju-Yun Wang and Der-Hong Ting"
+    },
+    {
+      "論文名稱": "A Pattern-based framework for mobile application design: an example of android implementation",
+      "會議名稱": "2012 International conference on Internet Studies",
+      "作者群": "Yi-Syuan Su and Nien-Lin Hsueh"
+    },
+    {
+      "論文名稱": "軟體測試課程授課經驗分享",
+      "會議名稱": "2012 Taiwan Conference on Software Engineering",
+      "作者群": "薛念林、沈文祥、陳沛昇"
+    },
+    {
+      "論文名稱": "可配置與可擴充式之行動中介軟體設計",
+      "會議名稱": "2012 Taiwan Conference on Software Engineering",
+      "作者群": "謝忠哲、薛念林、黃溪春"
+    },
+    {
+      "論文名稱": "A Mind Map Based Modeling Approach for Mobile Application",
+      "會議名稱": "2011 National Computer Symposium",
+      "作者群": "薛念林, 吳俊諺, 黃溪春"
+    },
+    {
+      "論文名稱": "Adaptive Performance Monitoring for Embedded Multicore Systems",
+      "會議名稱": "40th Parallel Processing Workshops (ICPPW)",
+      "作者群": "C.Y. Shih, M.C. Li, C.S. Lin, P.A. Hsiung, C.H. Chang, W.C. Chu, Nien-Lin Hsueh, Chihhsiong Shih, C.T. Yang, C.S. Koong."
+    },
+    {
+      "論文名稱": "An Approach for Evaluating the Effectiveness of Design Patterns in Software Evolution",
+      "會議名稱": "34th IEEE Computer Software and Applications Conference (COMPSAC2011)",
+      "作者群": "Nien-Lin Hsueh, Lin-Chieh Wen, Der-Hong Ting, Chu, W., Chih-Hung Chang, Chorng-Shiuh Koong."
+    },
+    {
+      "論文名稱": "Model-driven and Pattern Support Approach for Multi-core Software Design",
+      "會議名稱": "2011 Join Conference on Object-Oriented Technology Applications (OOTA) and Software Engineering (TCSE)",
+      "作者群": "李建慶, 薛念林, 熊博安, 朱正忠, 黃溪春, 張志宏, 石志雄, 孔崇旭, 楊朝棟"
+    },
+    {
+      "論文名稱": "Design a requirements tutor for facilitating requirements specification",
+      "會議名稱": "2011 Join Conference on Object-Oriented Technology Applications (OOTA) and Software Engineering (TCSE)",
+      "作者群": "黃昶佑, 薛念林"
+    },
+    {
+      "論文名稱": "A Pattern-based Verification Approach for a Multi-Core System Development",
+      "會議名稱": "2011 ACM Symposium on Applied Computing",
+      "作者群": "Peng-Hua Chu, Nien-Lin Hsueh, Chien-Ching Lee, Min-Ju Chuang, Pao-Ann Hsiung, William Chu"
+    },
+    {
+      "論文名稱": "Supporting Design Enhancement by Pattern-based Transformation",
+      "會議名稱": "34th IEEE Computer Software and Applications Conference (COMPSAC2010)",
+      "作者群": "N.L. Hsueh, P.H. Chu, P.A. Hsiung, M.J. Chuang, W. Chu, C.H. Chang, C.S. Koong, C.H. Shih"
+    },
+    {
+      "論文名稱": "Supporting Tool for Embedded Software Testing",
+      "會議名稱": "10th International Conference on Quality Software",
+      "作者群": "Koong, C.S.; Lai, H.J.; Chang, C.H.; Chu, C.W.; Hsueh, N.L.; Hsiung, P.A.; Shih, C.H.; and Yang, C.T."
+    },
+    {
+      "論文名稱": " SysML-based Requirement Modeling Environment for Multicore Embedded System",
+      "會議名稱": " 25th Annual ACM Symposium on Applied Computing",
+      "作者群": "Chang, C.H.; Lu, C.W.; Chu, C.W.; Shih, C.H.; Hsiung, P.A.; Yang, C.T.; Hsueh, N.L.; and Koong, C.S"
+    },
+    {
+      "論文名稱": "A Software Framework Design for Vehicle Monitoring and management System",
+      "會議名稱": "National Computer Symposium",
+      "作者群": "Nien-Lin Hsueh, Ting-Yuan Tung"
+    },
+    {
+      "論文名稱": "Using MDA Approach in Design Pattern Specification and Transformation",
+      "會議名稱": "2009第二十屆物件導向技術及應用研討會",
+      "作者群": "莊旻儒, 薛念林, 朱鵬化, 熊博安, 朱正忠, 黃溪春, 張志宏, 石志雄, 孔崇旭"
+    },
+    {
+      "論文名稱": "A Model-Driven Multicore Software Development Environment for Embedded System",
+      "會議名稱": "3rd IEEE International Workshop Quality-Oriented Reuse of Software (IEEE QUORS'09)",
+      "作者群": "C.S. Shih, P.A. Hsiung, N.L. Hsueh, C.H. Chang, C.S. Koong, William C. Chu"
+    },
+    {
+      "論文名稱": "逢甲大學軟體工程學程執行報告",
+      "會議名稱": "第五屆軟體工程研討會",
+      "作者群": "薛念林，楊東麟"
+    },
+    {
+      "論文名稱": "支援Java軟體品質控管的數位學習系統",
+      "會議名稱": "第五屆軟體工程研討會",
+      "作者群": "薛念林，田杰，林國貴"
+    },
+    {
+      "論文名稱": "VERTAF/Multi-Core: A SysML-based Application Framework for Multi-Core Embedded Software Development",
+      "會議名稱": "International Conference on Algorithms and Architectures for Parallel Processing 2009 (ICA3PP 2009)",
+      "作者群": "P.A. Hsiung, C.S. Lin, S.W. Lin, Y.R. Chen, C.H. Lu, S.Y. Tong, W.T. Su, C.H. Shih, C.S. Koong, Nien-Lin Hsueh, C.H. Chang, William C. Chu"
+    },
+    {
+      "論文名稱": "Requirements Trade-off Analysis for Test-First Development.",
+      "會議名稱": "International Conference on Advanced Information Technologies",
+      "作者群": "Nien-Lin Hsueh, Kee-Wun Lee and Shi-Chuen Hwang"
+    },
+    {
+      "論文名稱": "A Case Study of Pattern-based Software Framework to Improve the Quality of Software Development",
+      "會議名稱": "24th ACM Symposium on Applied Computing",
+      "作者群": "C.H. Chang, C.W. Lu, William C. Chu, N.L. Hsueh, C.S. Koong"
+    },
+    {
+      "論文名稱": "A semi-automatic Approach for Test Case Traceability in a Test-Driven Development",
+      "會議名稱": "Workshop on Accountability and Traceability in Global Software Engineering",
+      "作者群": "Nien-Lin Hsueh, Peng-Hua Chu, Hong-Hsiang Chen and Chih-Hung Chang"
+    },
+    {
+      "論文名稱": "Re-engineering a Legacy EDI system into SOA System: A Case Study",
+      "會議名稱": "APSEC 2007 SOA Workshop",
+      "作者群": "T.C. Ho, William C. Chu, C.Shih, N.L. Hsueh, C.H. Chang"
+    },
+    {
+      "論文名稱": "第十四屆亞太軟體工程研討會",
+      "會議名稱": "第十四屆亞太軟體工程研討會",
+      "作者群": ""
+    },
+    {
+      "論文名稱": "A Quality Verification Model for Design Patterns",
+      "會議名稱": "31st Annual IEEE International Computer Software and Applications Conference (EI)",
+      "作者群": "N.L. Hsueh, P.H. Chu, J.Lee and W. Chu"
+    },
+    {
+      "論文名稱": "A WBEM-Based Architecture for Performance Testing and Monitoring",
+      "會議名稱": "The Third Taiwan Conference of Software Engineering",
+      "作者群": "彭興國、薛念林、賴聯福"
+    },
+    {
+      "論文名稱": "A Light-Weight CMMI Assessment Approach by Sequential Pattern Mining",
+      "會議名稱": "International Computer Symposium (ICS06)",
+      "作者群": "N.L. Hsueh, Chia Chun Kuo, Lien-Fu Lai and Jong-Yih Kuo"
+    },
+    {
+      "論文名稱": "An artificial intelligence approach to course timetabling",
+      "會議名稱": "IEEE 18th International Conference on Tools with Artificial Intelligence (ICTAI'06)",
+      "作者群": "L.F. Lai, N.L. Hsueh, L.T. Huang and T.C. Chen"
+    },
+    {
+      "論文名稱": "Goal Evolution based on Adaptive Q-learning for Intelligent Agent",
+      "會議名稱": "2006 IEEE International Conference on Systems, Man and Cybernetics (SMC06)",
+      "作者群": "Jong Yih Kuo, Ming Lan Tsai and N. L. Hsueh"
+    },
+    {
+      "論文名稱": "An Experience Report of Applying the Personal Software Process Methodology",
+      "會議名稱": "The 2006 International Conference on Software Engineering Research and Practice (SERP'06)",
+      "作者群": "Wen-Hsiang Shen, Nien-Lin Hsueh and Peng-Hua Chu"
+    },
+    {
+      "論文名稱": "Supporting CMMI-Based Process Improvement with Advanced Software Engineering Technologies",
+      "會議名稱": "The 36th International Conference on Computers and Industrial Engineering Challenges for Advanced Technology Industries",
+      "作者群": "N.L. Hsueh, J.Y. Kuo, Y.C. Cheng, J. Lee and P.H. Chu"
+    },
+    {
+      "論文名稱": "以HAVi多媒體網路整合於OSGi家用閘道器之設計與實作",
+      "會議名稱": "2005 全國計算機會議",
+      "作者群": "彭興國，張晉源，薛念林"
+    },
+    {
+      "論文名稱": "HAVi 在支援Jini Community家用閘道器上之代理機制設計與實作",
+      "會議名稱": "The 16th Workshop on object-Oriented Technology and Applications",
+      "作者群": "彭興國，陳弘翔，鄭玉茹，張晉源，薛念林"
+    },
+    {
+      "論文名稱": "Incorporating Fuzzy Logic in Ontology-Based Agent System Design",
+      "會議名稱": "The Seventeenth International Conference on Software Engineering and Knowledge Engineering",
+      "作者群": "J.Y. Kuo and N.L. Hsueh"
+    },
+    {
+      "論文名稱": "Verification of Design Patterns with Object-Oriented Quality Models",
+      "會議名稱": "The Seventeenth International Conference on Software Engineering and Knowledge Engineering",
+      "作者群": "N.L. Hsueh, P.H. Chu and J.Y. Kuo"
+    },
+    {
+      "論文名稱": "以規則基為基礎之OWL-S服務組合之方法",
+      "會議名稱": "The First Taiwan Software Engineering Conference",
+      "作者群": "蔡坤憲，薛念林，林慶全"
+    },
+    {
+      "論文名稱": "運用UML與流程模擬以協助流程改善",
+      "會議名稱": "The First Taiwan Software Engineering Conference",
+      "作者群": "薛念林，楊智瑋"
+    },
+    {
+      "論文名稱": "Handling Nonfunctional and Conflicting Requirements with Design Patterns",
+      "會議名稱": "11th Asia-Pacific Software Engineering Conference",
+      "作者群": "N.L. Hsueh and W.S. Shen"
+    },
+    {
+      "論文名稱": "A Rule-Based Approach to Dynamic Web Service Composition",
+      "會議名稱": "The 15th Workshop on Object Oriented Technology and Application",
+      "作者群": "J. Lee, N.L. Hsueh, J. Chen, K.S. Tsai and P.H. Chu"
+    },
+    {
+      "論文名稱": "A Goal-Driven Approach to Applying Design Patterns",
+      "會議名稱": "National Computer Symposium",
+      "作者群": "N.L.Hsueh and P.H. Chu"
+    },
+    {
+      "論文名稱": "A Systematic Approach for Application of Design Patterns",
+      "會議名稱": "IEEE International Conference on Informatics, Cybernetics, and Systems ICICS",
+      "作者群": "N.L. Hsueh"
+    },
+    {
+      "論文名稱": "A Knowledge Engineering Approach for Knowledge Management",
+      "會議名稱": "IEEE International Conference on Informatics, Cybernetics, and Systems ICICS",
+      "作者群": "L.F. Lai and N.L. Hsueh"
+    },
+    {
+      "論文名稱": "A Pattern-Based Approach To Facilitate Requirement Elicitation In Internet Environment",
+      "會議名稱": "The 14th Workshop on Object Oriented Technology and Application.",
+      "作者群": "F.L. Hong and N.L. Hsueh"
+    },
+    {
+      "論文名稱": "Achieving MVC Achitecture With Design Patterns: A Case Study.",
+      "會議名稱": "The 14th Workshop on Object Oriented Technology and Application",
+      "作者群": "N.L. Hsueh, L.F. Lai and S.J. Chang"
+    },
+    {
+      "論文名稱": "Designing A Flexible Chess Application With Design Patterns",
+      "會議名稱": "Symposium on Application and Development of Information Technologies",
+      "作者群": "N.L. Hsueh, L.F. Lai and S.J. Chang"
+    },
+    {
+      "論文名稱": "Distributed Requirement Elicitation by Using Patterns",
+      "會議名稱": "International Conference of Modeling, Identification and Control",
+      "作者群": "N.L. Hsueh and J.Y. Kuo"
+    }
+  ],
+  "book": [
+    {
+      "專業書籍": "現代軟體工程",
+      "出版單位": "博碩",
+      "作者群": "郭忠義，薛念林，馬尚彬，黃為德"
+    },
+    {
+      "專業書籍": "朱正忠教授等「具服務品質保證之企業雲端計算」",
+      "出版單位": "科技部工程推廣中心",
+      "作者群": "朱正忠、楊朝棟、盧志偉、張志宏、薛念林"
+    },
+    {
+      "專業書籍": "逢甲大學軟體工程學程執行報告",
+      "出版單位": "逢甲大學、台灣軟體工程學會",
+      "作者群": "薛念林、楊東麟"
+    },
+    {
+      "專業書籍": "JAVA程式設計",
+      "出版單位": "儒林出版社",
+      "作者群": "李廷圭、林易泉、薛念林"
+    }
+  ],
+  "patent": [],
+  "most": [
+    {
+      "name": "結合軟體測試教育之引導式線上程式自學平台之設計(2/2)",
+      "schoolYear": "113"
+    },
+    {
+      "name": "專題人員招募系統之設計與開發",
+      "schoolYear": "113"
+    },
+    {
+      "name": "結合軟體測試教育之引導式線上程式自學平台之設計(1/2)",
+      "schoolYear": "112"
+    },
+    {
+      "name": "Smart Online System for Learning Programming",
+      "schoolYear": "112"
+    },
+    {
+      "name": "遊戲化軟體測試教育之設計與實作(2/2)",
+      "schoolYear": "111"
+    },
+    {
+      "name": "遊戲化軟體測試教育之設計與實作(1/2)",
+      "schoolYear": "110"
+    },
+    {
+      "name": "改善學校畢業審查系統",
+      "schoolYear": "110"
+    },
+    {
+      "name": "軟體工程線上實驗模組之設計",
+      "schoolYear": "109"
+    },
+    {
+      "name": "地震災難應對智慧化應用",
+      "schoolYear": "109"
+    },
+    {
+      "name": "資料應用系統建置之軟體工程方法探討- 以人工智慧輔助數位學習分析系統為例",
+      "schoolYear": "108"
+    },
+    {
+      "name": "以旅客社群網路文本與影像為基礎之個性與喜好分類並應用於導遊人員媒合平台",
+      "schoolYear": "108"
+    },
+    {
+      "name": "設計樣式之測試模型與工具設計(2/2)",
+      "schoolYear": "107"
+    },
+    {
+      "name": "視障語音輔具系統",
+      "schoolYear": "107"
+    },
+    {
+      "name": "社交網路之大數據分析與雲端應用",
+      "schoolYear": "107"
+    },
+    {
+      "name": "設計樣式之測試模型與工具設計(1/2)",
+      "schoolYear": "106"
+    },
+    {
+      "name": "以使用者故事驅動Microservices塑模之研究",
+      "schoolYear": "106"
+    },
+    {
+      "name": "(3/3)群眾智慧及物聯網支援巨量資訊蒐集與分析-以智慧型城市水患防救為例－水災群眾智慧資訊蒐集及資訊融合暨資訊過濾的分散式巨量資料處理架構與實作(子計畫二)",
+      "schoolYear": "105"
+    },
+    {
+      "name": "以 3D 視覺化技術為基礎之開源軟體品質分析之研究",
+      "schoolYear": "105"
+    },
+    {
+      "name": "整合型-群眾智慧及物聯網支援巨量資訊蒐集與分析-以智慧型城市水患防救為例－水災群眾智慧資訊蒐集及資訊融合暨資訊過濾的分散式巨量資料處理架構與實作(子計畫二)(2/3)",
+      "schoolYear": "104"
+    },
+    {
+      "name": "上課囉!智慧型手機NFC應用系統",
+      "schoolYear": "104"
+    },
+    {
+      "name": "應用於磨課師平台之程式防抄襲系統設計",
+      "schoolYear": "104"
+    },
+    {
+      "name": "設計流程驅動之軟體重構研究-設計樣式於軟體演進中的有效性評估與重整",
+      "schoolYear": "103"
+    },
+    {
+      "name": "群眾智慧及物聯網支援巨量資訊蒐集與分析-以智慧型城市水患防救為例－水災群眾智慧資訊蒐集及資訊融合暨資訊過濾的分散式巨量資料處理架構與實作(子計畫二)(1/3)",
+      "schoolYear": "103"
+    },
+    {
+      "name": "具服務品質保證之企業雲端計算-子計畫五:以樣式為基礎之行動企業應用軟體設計",
+      "schoolYear": "101"
+    },
+    {
+      "name": "Android平台實作遊戲： 以擴增實境電子寵物為例",
+      "schoolYear": "101"
+    },
+    {
+      "name": "模型導向企業雲之樣式支援軟體服務組合環境",
+      "schoolYear": "100"
+    },
+    {
+      "name": "多核心嵌入式軟體之模型驅動整合開發環境-VMC-子計畫三:多核心嵌入式系統之設計支援系統(2/2)",
+      "schoolYear": "99"
+    },
+    {
+      "name": "多核心嵌入式軟體之模型驅動整合開發環境-VMC-子計畫三:多核心嵌入式系統之設計支援系統(1/2)",
+      "schoolYear": "98"
+    },
+    {
+      "name": "多核心嵌入式軟體之模型驅動整合開發環境-總計畫",
+      "schoolYear": "97"
+    },
+    {
+      "name": "多核心嵌入式軟體之模型驅動整合開發環境-子計畫二:多核心嵌入式軟體設計之設計樣式支援系統",
+      "schoolYear": "97"
+    },
+    {
+      "name": "支援 Java 軟體品質控管的數位學習系統 (自由軟體計畫分項 3)",
+      "schoolYear": "96"
+    },
+    {
+      "name": "設計樣式品質模式之研究(I)",
+      "schoolYear": "94"
+    },
+    {
+      "name": "目標導向與樣式輔助之物件導向設計方法之研究",
+      "schoolYear": "93"
+    },
+    {
+      "name": "在網際網路環境中利用樣式輔助以進行需求擷取",
+      "schoolYear": "91"
+    }
+  ],
+  "tech": [
+    {
+      "論文名稱": "Software Engineering Education: from Dysfunction to Core Competency. (2014-02)",
+      "書名": "In Engineering Education: Curriculum, pedagogy and didactic aspects",
+      "作者群": "J. Lee, N.L. Hsueh. S.P. Ma, A. Liu, Y.C. Cheng, Y.H. Kuo."
+    },
+    {
+      "論文名稱": "Fuzzy Object (2013-02)",
+      "書名": "On Fuzziness- Homage to Lotfi A. Zadeh",
+      "作者群": "J. Lee and N.L. Hsueh*."
+    },
+    {
+      "論文名稱": "Trade-Off Analysis in Software Engineering. (2003-05)",
+      "書名": "Software Engineering With Computational Intelligence",
+      "作者群": "J. Lee, Y.J. Kuo and N.L. Hsueh"
+    }
+  ],
+  "induAca": [
+    "提升大學通識教育中程計畫(第一期)分項4-1多元運算思維與量化分析素養培育計畫 (2022-06 to 2024-07)",
+    "5G網路軟體安全開發流程文獻研究委託案 (2022-02 to 2022-04)",
+    "111年度智慧創新跨域人才培育聯盟計畫(C類)協作基地 (2022-02 to 2023-01)",
+    "110年度智慧創新跨域人才培育聯盟計畫(C類)—協作基地 (2021-02 to 2022-01)",
+    "推動大學程式設計教學計畫第二期計畫：分項二「共通性需求工作小組」 (2020-08 to 2022-07)",
+    "109年度智慧創新跨域人才培育聯盟計畫(C類)—協作基地分項：自動化軟體測試開源工具 (2020-02 to 2021-01)",
+    "推動大學程式設計教學計畫—共通性需求工作小組 (2018-05 to 2020-07)",
+    "互動模擬課程組件支援環境建置計畫 (2017-07 to 2019-06)",
+    "新一代數位學習計畫磨課師分項計畫─磨課師學習資料分析計畫-openedu (2017-05 to 2018-04)",
+    "新一代數位學習計畫磨課師分項計畫─MOOCs學習資料分析子計畫 (2016-02 to 2017-03)",
+    "101年度「資訊軟體人才培育推廣計畫」--行動企業終端應用開發計畫 (2012-02 to 2013-01)",
+    "軟體工程學程推廣計畫_軟體工程學程及碩士班軟體工程學程 (2007-02 to 2008-01)",
+    "大專校院資訊人才培育先導型計畫-軟體工程學程推廣計畫 (2006-05 to 2007-01)",
+    "大專校院資訊人才培育先導型計畫-軟體工程課程推廣計畫 (2005-03 to 2006-01)",
+    "整體水資源地理資訊系統規劃 (2004-07 to 2004-10)",
+    "大專校院資訊人才培育計畫- 軟體工程聯盟發展計畫(課程: 元件式軟體發展技術) (2004-05 to 2004-12)",
+    "線上管理系統開發 (2004-01 to 2004-08)"
+  ],
+  "perform": [],
+  "reward": [
+    "113年度國科會補助大專校院研究獎勵 (113, 2024-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (113, 2024-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (113, 2024-11) - 逢甲大學",
+    "112年度國科會補助大專校院研究獎勵 (112, 2023-12) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優等獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (111, 2022-11) - 逢甲大學",
+    "111年度國科會補助大專校院研究獎勵 (111, 2022-10) - 研究發展處",
+    "逢甲大學論文著作獎勵優良獎 (110, 2021-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (105, 2016-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (102, 2013-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (102, 2013-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (101, 2012-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (101, 2012-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (99, 2010-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (99, 2010-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (99, 2010-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (98, 2009-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (98, 2009-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (98, 2009-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (98, 2009-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (98, 2009-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (97, 2008-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (97, 2008-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵 (96, 2007-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (95, 2006-11) - 逢甲大學"
+  ],
+  "speech": [
+    {
+      "演講題目": "Software Engineering and Pattern Design",
+      "邀請單位": "台北市立大學",
+      "演講日期": "2018-01"
+    },
+    {
+      "演講題目": "軟體測試工作坊 (2)",
+      "邀請單位": "寶成工業",
+      "演講日期": "2017-12"
+    },
+    {
+      "演講題目": "軟體測試工作坊 (1)",
+      "邀請單位": "寶成工業",
+      "演講日期": "2017-12"
+    },
+    {
+      "演講題目": "設計樣式之武俠世界與研究",
+      "邀請單位": "弘光科技大學",
+      "演講日期": "2017-10"
+    },
+    {
+      "演講題目": "設計樣式之武俠世界與研究",
+      "邀請單位": "政治大學資科系",
+      "演講日期": "2016-04"
+    },
+    {
+      "演講題目": "MOOCs 學習資料分析",
+      "邀請單位": "東海大學",
+      "演講日期": "2016-03"
+    },
+    {
+      "演講題目": "￼磨課師數位學習平台發展介紹",
+      "邀請單位": "僑光科技大學",
+      "演講日期": "2015-09"
+    },
+    {
+      "演講題目": "Pattern-based Software Engineering",
+      "邀請單位": "嘉義大學資工系",
+      "演講日期": "2015-06"
+    },
+    {
+      "演講題目": "軟體品質與軟體測試",
+      "邀請單位": "嶺東科技大學資工系",
+      "演講日期": "2015-06"
+    },
+    {
+      "演講題目": "￼磨課師數位學習平台發展介紹",
+      "邀請單位": "成功大學",
+      "演講日期": "2015-04"
+    },
+    {
+      "演講題目": "￼磨課師數位學習平台發展介紹",
+      "邀請單位": "台中軟體園區辦公室",
+      "演講日期": "2015-04"
+    },
+    {
+      "演講題目": "軟體工程概論與實際應用",
+      "邀請單位": "東海大學資工系（高中營）",
+      "演講日期": "2015-02"
+    },
+    {
+      "演講題目": "軟體工程概論與實際應用",
+      "邀請單位": "嶺東科技大學資工系",
+      "演講日期": "2014-05"
+    },
+    {
+      "演講題目": "軟體測試工作坊",
+      "邀請單位": "大銀微公司",
+      "演講日期": "2014-05"
+    },
+    {
+      "演講題目": "軟體測試課程",
+      "邀請單位": "大銀微",
+      "演講日期": "2014-05"
+    },
+    {
+      "演講題目": "新一代數位學習系統同儕審查機制介紹",
+      "邀請單位": "淡江大學磨課師研討會",
+      "演講日期": "2014-04"
+    },
+    {
+      "演講題目": "行動校園設計",
+      "邀請單位": "高雄師範大學軟體工程系",
+      "演講日期": "2013-05"
+    },
+    {
+      "演講題目": "軟體工程概論與實際應用",
+      "邀請單位": "成功大學資工系",
+      "演講日期": "2013-05"
+    },
+    {
+      "演講題目": "漫談軟體開發與專題製作",
+      "邀請單位": "弘光科技大學資工系",
+      "演講日期": "2013-05"
+    },
+    {
+      "演講題目": "校園行動應用程式開發分享",
+      "邀請單位": "亞洲大學資工系",
+      "演講日期": "2013-01"
+    },
+    {
+      "演講題目": "軟體測試短期課程",
+      "邀請單位": "台北科技大學資工系",
+      "演講日期": "2013-01"
+    },
+    {
+      "演講題目": "漫談軟體開發與專題製作",
+      "邀請單位": "僑光科技大學",
+      "演講日期": "2012-12"
+    },
+    {
+      "演講題目": "軟體測試工作坊",
+      "邀請單位": "修平科技大學",
+      "演講日期": "2012-11"
+    },
+    {
+      "演講題目": "軟體品質與軟體測試",
+      "邀請單位": "朝陽科技大學",
+      "演講日期": "2012-11"
+    },
+    {
+      "演講題目": "行動逢甲介紹",
+      "邀請單位": "真理大學",
+      "演講日期": "2011-11"
+    },
+    {
+      "演講題目": "行動 App 介紹",
+      "邀請單位": "明道中學",
+      "演講日期": "2011-11"
+    },
+    {
+      "演講題目": "軟體測試短期課程",
+      "邀請單位": "台科大資管系",
+      "演講日期": "2011-06"
+    },
+    {
+      "演講題目": "軟體流程改善經驗分享",
+      "邀請單位": "中山大學資管系",
+      "演講日期": "2010-09"
+    },
+    {
+      "演講題目": "N世代的衝擊",
+      "邀請單位": "扶輪社",
+      "演講日期": "2010-08"
+    },
+    {
+      "演講題目": "Object-Oriented Design:  A Goal-Driven and Pattern-Based Approach",
+      "邀請單位": "台北科技大學資工系",
+      "演講日期": "2010-05"
+    },
+    {
+      "演講題目": "Introduction to Service oriented software engineering",
+      "邀請單位": "臺北科技大學",
+      "演講日期": "2009-11"
+    },
+    {
+      "演講題目": "軟體設計對軟體品質之影響",
+      "邀請單位": "中央大學",
+      "演講日期": "2009-06"
+    },
+    {
+      "演講題目": "軟體開發成功的要素-設計能力與流程成熟度",
+      "邀請單位": "台中教育大學資工系",
+      "演講日期": "2007-12"
+    },
+    {
+      "演講題目": "軟體開發成功的要素-設計能力與流程成熟度",
+      "邀請單位": "僑光技術學院資管系",
+      "演講日期": "2007-11"
+    },
+    {
+      "演講題目": "軟體開發成功的要素-設計能力與流程成熟度",
+      "邀請單位": "台北科技大學資工系",
+      "演講日期": "2007-11"
+    },
+    {
+      "演講題目": "系統測試與迴歸測試實務(教育訓練)",
+      "邀請單位": "台灣軟體工程學會",
+      "演講日期": "2007-11"
+    },
+    {
+      "演講題目": "Object-Oriented Design:A Goal-Driven and Pattern-Based Appro",
+      "邀請單位": "台北科技大學資工系",
+      "演講日期": "2007-11"
+    },
+    {
+      "演講題目": "軟體開發成功的要素-設計能力與流程成熟度",
+      "邀請單位": "東海大學",
+      "演講日期": "2007-10"
+    },
+    {
+      "演講題目": "軟體系統測試介紹(教育訓練)",
+      "邀請單位": "資策會",
+      "演講日期": "2007-08"
+    },
+    {
+      "演講題目": "軟體回歸測試介紹(教育訓練)",
+      "邀請單位": "資策會",
+      "演講日期": "2007-08"
+    },
+    {
+      "演講題目": "軟體專業工程師認證（CSDP）介紹(教育訓練)",
+      "邀請單位": "資策會",
+      "演講日期": "2007-04"
+    },
+    {
+      "演講題目": "軟體設計樣式介紹(教育訓練)",
+      "邀請單位": "科盛科技股份有限公司",
+      "演講日期": "2007-03"
+    },
+    {
+      "演講題目": "系統測試與迴歸測試實務(教育訓練)",
+      "邀請單位": "軟體工程學會",
+      "演講日期": "2007-01"
+    },
+    {
+      "演講題目": "CMMI簡介",
+      "邀請單位": "彰師大資工系",
+      "演講日期": "2006-12"
+    },
+    {
+      "演講題目": "軟體元件設計",
+      "邀請單位": "東海大學資工系",
+      "演講日期": "2005-12"
+    },
+    {
+      "演講題目": "CMMI導入實務",
+      "邀請單位": "輔仁大學資工系",
+      "演講日期": "2005-10"
+    },
+    {
+      "演講題目": "Handling Nonfunctional Requirements with Design Patterns",
+      "邀請單位": "彰化師大資訊工程系",
+      "演講日期": "2004-11"
+    },
+    {
+      "演講題目": "Pattern-based development approach",
+      "邀請單位": "輔仁大學資工系",
+      "演講日期": "2003-12"
+    }
+  ],
+  "material": [],
+  "tal": []
+}

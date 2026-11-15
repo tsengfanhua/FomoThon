@@ -1,0 +1,1141 @@
+{
+  "success": true,
+  "info": {
+    "yms_year": 114.0,
+    "yms_smester": 2.0,
+    "sub_id": "25715",
+    "cls_id": "AS03120",
+    "scr_dup": "001",
+    "sub_id3": "ID2323",
+    "cls_name": "室內設計二",
+    "cls_ename": "Bachelor's Program of Interior Design",
+    "sub_name": "室內設計空間賞析",
+    "sub_ename": "ANALYSIS OF INTERIOR DESIGN SPACES",
+    "scr_mso": "選修",
+    "scr_mso_en": "Elective",
+    "scr_credit": 2.0,
+    "scr_periodly": "(四)08-09",
+    "scr_periodly_eng": "(Thu)08-09",
+    "lang_name": "中文                                                      ",
+    "lang_ename": "Chinese",
+    "scr_room": "忠301",
+    "scr_room_eng": "JCB301",
+    "scr_teacher": "李元榮",
+    "scr_teacher_eng": "Yuan-Jung Lee",
+    "scr_selcode": "0027",
+    "scr_elearning": "全學期",
+    "scr_elearning_en": "Full semester",
+    "scr_hours": "2",
+    "scr_english": "N",
+    "unt_name": null,
+    "unt_ename": null,
+    "link_traminal": null,
+    "link_traminal_en": null,
+    "scr_ldl": "D",
+    "course_mk": "N",
+    "teams_mk": "N",
+    "sub_title": null,
+    "sub_title_en": null,
+    "sub_describe": null,
+    "sub_describe_en": null,
+    "hasDescription": null,
+    "hasInstructor": null,
+    "hasTA": null,
+    "hasTextBooks": null,
+    "hasReadings": null,
+    "hasiSoftwares": null,
+    "hasAssistSoftwares": null,
+    "hasObjective": null,
+    "hasWeeklyScds": null,
+    "hasGradeRules": null,
+    "hasGradeRuleDescribe": null,
+    "hasIntegrity": null,
+    "hasCoursePol": null,
+    "hasCourseRem": null,
+    "hasObjectiveReleation": null,
+    "hasTopicSdgs": null,
+    "hasTopicAiIndicators": null,
+    "hasSubTitleDesc": null
+  },
+  "subTitleDesc": null,
+  "description": {
+    "sub_id3": null,
+    "sub_name": "室內設計空間賞析",
+    "sub_ename": "ANALYSIS OF INTERIOR DESIGN SPACES",
+    "describe_ch": "本課程旨在通過對各種空間設計案例的分析和評估，探討空間設計的原則、特點和趨勢。通過深入研究不同類型的空間，包括住宅、商業、公共場所等，學生將學習如何從專業的角度進行空間賞析，理解設計師的設計思維和策略，以及設計作品背後的文化、歷史和社會背景。課程結合理論講解、實地考察和設計案例研究，幫助學生提高空間設計的專業素養和批判思維能力。",
+    "describe_eh": "Analyze and evaluate various space design cases and explore the principles, characteristics and trends of space design. Through in-depth study of different types of spaces, including residential, commercial, public spaces, etc., students will learn how to appreciate space from a professional perspective, understand designers’ design thinking and strategies, and the cultural, historical and social background behind the design works. The course combines theoretical explanations, field trips and design case studies to help students improve their professionalism and critical thinking skills in space design.",
+    "pre_subname": "",
+    "pre_sub_id3": null,
+    "pre_sub_ename": "",
+    "pre_describe": null,
+    "pre_describe_en": null,
+    "scr_credit": 2.0
+  },
+  "targets": [
+    {
+      "seq": 1,
+      "describe_ch": "理解不同類型空間的設計原則和特點，掌握空間設計的基本概念和技術。",
+      "describe_en": "Understand the design principles and characteristics of different types of spaces, and master the basic concepts and techniques of space design."
+    },
+    {
+      "seq": 2,
+      "describe_ch": "分析和評估各種空間設計案例，了解設計作品的設計思路、風格和特色。",
+      "describe_en": "Analyze and evaluate various space design cases to understand the design ideas, style and characteristics of the design works."
+    },
+    {
+      "seq": 3,
+      "describe_ch": "探討空間設計與文化、歷史、社會等方面的關係，理解空間設計在社會發展中的作用和價值。",
+      "describe_en": "Explore the relationship between space design and culture, history, society, etc., and understand the role and value of space design in social development."
+    },
+    {
+      "seq": 4,
+      "describe_ch": "學習從專業角度進行空間賞析，培養批判性思維和專業素養。",
+      "describe_en": "Learn to appreciate space from a professional perspective and develop critical thinking and professional qualities."
+    },
+    {
+      "seq": 5,
+      "describe_ch": "通過實地考察和設計案例研究，提高學生的實踐能力和解決問題的能力。",
+      "describe_en": "Improve students' practical and problem-solving abilities through field trips and case study design."
+    },
+    {
+      "seq": 6,
+      "describe_ch": "培養學生對空間設計的興趣和熱情，激發其創造力和設計潛能。",
+      "describe_en": "Cultivate students' interest and enthusiasm for space design and stimulate their creativity and design potential."
+    }
+  ],
+  "teachersInfo": [
+    {
+      "cname": "李元榮",
+      "ename": "Yuan-Jung Lee",
+      "period": "(Tue)08-09 忠807C,(Tue)10  忠807C,(Thu)06-07 忠807C",
+      "roletype": 0,
+      "email": "yjlee@o365.fcu.edu.tw",
+      "ext": "3347"
+    }
+  ],
+  "textBooks": {
+    "yms_year": 114.0,
+    "yms_smester": 2.0,
+    "cls_id": "AS03120",
+    "sub_id": "25715",
+    "scr_dup": "001",
+    "tpb_seq": 1,
+    "tpb_book": "<div>室內設計圖解 Interior Design Illustrated，作者：<a href=\"https://www.eslite.com/search?author=WyJGcmFuY2lzIEQuIEsuIENoaW5nLyBDb3JreSBCaW5nZ2VsaSJd\">Francis D. K. Ching/ Corky Bingeli</a>，譯者：<a href=\"https://www.eslite.com/search?translator=WyLlkYLku6Xlr6cvIOiMg-aMr-a5mC8g5by16IGW6Zm2Il0\">呂以寧/ 范振湘/ 張聖陶</a>，出版社：<a href=\"https://www.eslite.com/search?manufacturer=WyLlha3lkIjlh7rniYjnpL4iXQ\">六合出版社</a></div>\n\n<div>&nbsp;</div>\n\n<div>&nbsp;</div>\n",
+    "tpb_book_en": " "
+  },
+  "readings": {
+    "yms_year": 114.0,
+    "yms_smester": 2.0,
+    "cls_id": "AS03120",
+    "sub_id": "25715",
+    "scr_dup": "001",
+    "tpc_seq": 1,
+    "tpc_book": "<div>［空間&amp;尺度］ 室內設計基本數據參考手冊：5大家居空間＋3大商業空間 基礎尺寸全面圖解，作者：&nbsp;<a href=\"https://search.books.com.tw/search/query/key/%E7%90%86%E6%83%B3%EF%BC%8E%E5%AE%85/adv_author/1/\">理想．宅</a>&nbsp;&nbsp;<a href=\"javascript:setFollow('setFollowAuthorAjax','%E7%90%86%E6%83%B3%EF%BC%8E%E5%AE%85');\">追蹤作者</a>&nbsp;<a href=\"https://www.books.com.tw/activity/2015/06/trace/index.html#author\" target=\"_blank\">新功能介紹</a>，出版社：<a href=\"https://www.books.com.tw/web/sys_puballb/books/?pubid=banlian\">邦聯文化</a>&nbsp;</div>\n",
+    "tpc_book_en": " "
+  },
+  "iSoftwares": [],
+  "assistSoftwares": [],
+  "weeklyScds": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "AS03120",
+      "sub_id": "25715",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "1",
+      "tpd_reading": "<div>2/26 夏鑄九&nbsp;<br />\n網路社會的連接與斷切</div>\n",
+      "tpd_reading_en": "<div><strong>Connection and Disconnection in the Networked Society</strong></div>\n<translator-content-app></translator-content-app>",
+      "tpd_learn": "<div>發題講解</div>\n",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": " ",
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": "1",
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "AS03120",
+      "sub_id": "25715",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "2",
+      "tpd_reading": "<div>3/5 自主學習(不到課堂上課)</div>\n",
+      "tpd_reading_en": "<div><strong>Week 2</strong><br />\nMar 5<br />\nSelf-Directed Learning (No in-class session)<br />\nStudents are required to conduct independent learning and familiarize themselves with design concepts in advance.</div>\n<translator-content-app></translator-content-app>",
+      "tpd_learn": "<div>設計案例研析</div>\n",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": "請務必先行自主學習了解設計",
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": "2",
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "AS03120",
+      "sub_id": "25715",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "3",
+      "tpd_reading": "<div>3/12&nbsp;</div>\n\n<div>玖柞設計演講 --- 設計初心<br />\n蔡雅怡+朱伯晟</div>\n",
+      "tpd_reading_en": "<div><strong>Week 3</strong><br />\nMar 12<br />\nJiuZuo Design Lecture &mdash; <em>The Original Intention of Design</em><br />\nSpeakers: Tsai Ya-Yi &amp; Chu Po-Sheng Report</div>\n<translator-content-app></translator-content-app>",
+      "tpd_learn": "<div>設計案例研析及設計提案</div>\n",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": "3",
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "AS03120",
+      "sub_id": "25715",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "4",
+      "tpd_reading": "<div>\n<div>3/19</div>\n\n<div>玖柞設計演講 --- 設計初心<br />\n蔡雅怡+朱伯晟</div>\n</div>\n",
+      "tpd_reading_en": "<div><strong>Week 4</strong><br />\nMar 19<br />\nJiuZuo Design Lecture &mdash; <em>The Original Intention of Design</em><br />\nSpeakers: Tsai Ya-Yi &amp; Chu Po-Sheng</div>\n<translator-content-app></translator-content-app>",
+      "tpd_learn": "<div>設計案例研析及設計提案</div>\n",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": "4",
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "AS03120",
+      "sub_id": "25715",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "5",
+      "tpd_reading": "<div>自主學習(不到課堂上課)</div>\n",
+      "tpd_reading_en": "<div><strong>Week 5</strong><br />\nSelf-Directed Learning (No in-class session)</div>\n<translator-content-app></translator-content-app>",
+      "tpd_learn": "<div>設計提案討論</div>\n",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": "5",
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "AS03120",
+      "sub_id": "25715",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "6",
+      "tpd_reading": "<div>3/5 自主學習(不到課堂上課)</div>\n",
+      "tpd_reading_en": "<div><strong>Week 6</strong><br />\nSelf-Directed Learning (No in-class session)</div>\n\n<div><strong>Week 17</strong><br />\nDesigner Space Visit and Field Research<br />\nStudents should arrange and conduct the visit independently.</div>\n\n<div><strong>Week 18</strong><br />\nField Research</div>\n<translator-content-app></translator-content-app>",
+      "tpd_learn": "<div>設計提案討論</div>\n",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": "6",
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "AS03120",
+      "sub_id": "25715",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "7",
+      "tpd_reading": "<div>\n<table border=\"1\" cellpadding=\"0\" cellspacing=\"0\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>4/9</td>\n\t\t\t<td>許盛鑫</td>\n\t\t\t<td>說設計-五感&amp;文化</td>\n\t\t</tr>\n\t</tbody>\n</table>\n</div>\n",
+      "tpd_reading_en": "<div><strong>Week 7</strong><br />\nApr 9<br />\nHsu Sheng-Hsin &mdash; <em>Talking About Design: The Five Senses and Culture</em></div>\n<translator-content-app></translator-content-app>",
+      "tpd_learn": "<div>設計提案討論</div>\n",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": "7",
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "AS03120",
+      "sub_id": "25715",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "8",
+      "tpd_reading": "<div>\n<table border=\"1\" cellpadding=\"0\" cellspacing=\"0\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>4/16</td>\n\t\t\t<td>許盛鑫</td>\n\t\t\t<td>說設計-五感&amp;文化</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<div>&nbsp;</div>\n\n<div>期中報告 設計師在想甚麼?</div>\n</div>\n",
+      "tpd_reading_en": "<div><strong>Week 8</strong><br />\nApr 16<br />\nHsu Sheng-Hsin &mdash; <em>Talking About Design: The Five Senses and Culture</em><br />\n<strong>Midterm Report</strong><br />\n<em>What Are Designers Thinking?</em><br />\nSubmission according to course requirements.</div>\n<translator-content-app></translator-content-app>",
+      "tpd_learn": "<div>學習成果評量</div>\n",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": "按規定繳交",
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": "8",
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "AS03120",
+      "sub_id": "25715",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "9",
+      "tpd_reading": "<div>\n<table border=\"1\" cellpadding=\"0\" cellspacing=\"0\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>4/23</td>\n\t\t\t<td>楊煥生</td>\n\t\t\t<td>蒲公英哲學1</td>\n\t\t</tr>\n\t</tbody>\n</table>\n</div>\n",
+      "tpd_reading_en": "<div><strong>Week 9</strong><br />\nApr 23<br />\nYang Huan-Sheng &mdash; <em>Dandelion Philosophy (Part 1)</em><br />\nGuest lecture by an invited industry expert.</div>\n<translator-content-app></translator-content-app>",
+      "tpd_learn": "<div>設計提案討論</div>\n",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": "邀請校外廠商專家",
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": "9",
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "AS03120",
+      "sub_id": "25715",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "10",
+      "tpd_reading": "<div>\n<table border=\"1\" cellpadding=\"0\" cellspacing=\"0\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>4/30</td>\n\t\t\t<td>楊煥生</td>\n\t\t\t<td>蒲公英哲學2</td>\n\t\t</tr>\n\t</tbody>\n</table>\n</div>\n",
+      "tpd_reading_en": "<div><strong>Week 10</strong><br />\nApr 30<br />\nYang Huan-Sheng &mdash; <em>Dandelion Philosophy (Part 2)</em></div>\n<translator-content-app></translator-content-app>",
+      "tpd_learn": "<div>設計提案討論</div>\n",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": "10",
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "AS03120",
+      "sub_id": "25715",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "11-15",
+      "tpd_reading": "<div>自主學習(不到課堂上課)</div>\n",
+      "tpd_reading_en": "<div><strong>Weeks 11&ndash;15</strong><br />\nSelf-Directed Learning (No in-class session)</div>\n\n<div>&nbsp;</div>\n<translator-content-app></translator-content-app>",
+      "tpd_learn": "<div>設計提案討論</div>\n",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": "11-15",
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "AS03120",
+      "sub_id": "25715",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "16",
+      "tpd_reading": "<div>如果我是設計師!!</div>\n",
+      "tpd_reading_en": "<div><strong>Week 16</strong><br />\n<em>If I Were a Designer!</em></div>\n<translator-content-app></translator-content-app>",
+      "tpd_learn": "<div>設計提案討論</div>\n",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": "16",
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "AS03120",
+      "sub_id": "25715",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "17",
+      "tpd_reading": "<div>設計師空間參訪田野調查</div>\n\n<div>請自行前往</div>\n\n<div>&nbsp;</div>\n",
+      "tpd_reading_en": "<div><strong>Week 17</strong><br />\nDesigner Space Visit and Field Research<br />\nStudents should arrange and conduct the visit independently.</div>\n\n<div>&nbsp;</div>\n<translator-content-app></translator-content-app>",
+      "tpd_learn": "<div>設計提案討論</div>\n",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": "17",
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "AS03120",
+      "sub_id": "25715",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "18",
+      "tpd_reading": "<div>田野調查報告</div>\n",
+      "tpd_reading_en": "<div><strong>Week 18</strong><br />\nField Research Report</div>\n<translator-content-app></translator-content-app>",
+      "tpd_learn": "<div>設計提案討論</div>\n",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": "18",
+      "mode": 0
+    }
+  ],
+  "gradeRules": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "AS03120",
+      "sub_id": "25715",
+      "scr_dup": "001",
+      "evalb_id": "L3",
+      "score_rate": 15,
+      "evalb_memo": "每次缺席扣2分，累計五次本項零分",
+      "evalb_memo_en": null,
+      "evalb_name": "課堂討論參與",
+      "evalb_name_en": "Participation",
+      "seq": 1
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "AS03120",
+      "sub_id": "25715",
+      "scr_dup": "001",
+      "evalb_id": "D1",
+      "score_rate": 35,
+      "evalb_memo": "依規定",
+      "evalb_memo_en": null,
+      "evalb_name": "期中考",
+      "evalb_name_en": "Midterm examination",
+      "seq": 2
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "AS03120",
+      "sub_id": "25715",
+      "scr_dup": "001",
+      "evalb_id": "D2",
+      "score_rate": 40,
+      "evalb_memo": "依規定",
+      "evalb_memo_en": null,
+      "evalb_name": "期末考",
+      "evalb_name_en": "Final examination",
+      "seq": 3
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "AS03120",
+      "sub_id": "25715",
+      "scr_dup": "001",
+      "evalb_id": "L1",
+      "score_rate": 10,
+      "evalb_memo": "平時成績",
+      "evalb_memo_en": null,
+      "evalb_name": "印象分數",
+      "evalb_name_en": "General impression",
+      "seq": 4
+    }
+  ],
+  "gradeRuleDescribe": {
+    "yms_year": 114.0,
+    "yms_smester": 2.0,
+    "cls_id": "AS03120",
+    "sub_id": "25715",
+    "scr_dup": "001",
+    "tpa_score_new": null,
+    "tpa_score_new_en": " ",
+    "course_pol": "1.每週上課請於09:30前依照課前公告完上課準備工作，如作品布置，準備投影器材……等!\n2.出席依照正式課程原則處理，老師分上下午直接點名，遲到未請假將以曠課計之，直接影響平時成績，如遇不可抗力的因素務必提前聯繫告知，否則視同缺席。\n3.課前課後請留意Messenger群組訊息，確保掌握課前準備工作，跟上課程進度。有問題隨時在群組中發問!",
+    "course_pol_en": "Course Policies\n\nAttendance\nRegular attendance is expected. Two points will be deducted for each absence. Students who are absent five times will receive zero points for attendance.\n\nAssignments\nAll assignments must be submitted on time. Late submissions may result in a deduction of points unless prior approval is obtained.\n\nParticipation\nActive participation in discussions, exercises, and design activities is encouraged and will be considered as part of the coursework evaluation.\n\nAcademic Integrity\nStudents must maintain academic integrity. Plagiarism, cheating, or submitting work that is not your own is strictly prohibited.",
+    "course_rem": "1. 選組長，每週負責當週器材借還與準備工作，課後(17:00)監督同學進行場地復原的工作，並拍照上傳Messenger群組回報場地復原狀況。\n2. 正式進度檢核(各週進度貼圖，正草，總評)未於規定時間完成作品佈置，視情節狀況扣分或直接喪失評圖的機會，不予計分。\n3. 各次上課未輪到指導你的作品前，請利用課堂上的時間進行當週學習進度，或主動參與旁聽指導講評及討論。\n4. 上下午課堂段全程參與學活動，離開教室請主動說明報備，切勿擅自離席!\n5. 保持積極、專注、輕鬆、勤快、主動的狀態，避免不懂不問，進度拖延，缺圖少模等情事發生。",
+    "course_rem_en": "Friendly Reminder\n\nPlease bring your laptop and necessary software tools to class when required.\n\nSave and back up your work regularly to avoid data loss.\n\nManage your time well and complete assignments progressively rather than waiting until the last minute.\n\nBe respectful to classmates and maintain a positive learning environment.\n\nIf you encounter difficulties with the course, please communicate with the instructor early.",
+    "ais_meno": "<div>課程期間所有個人及小組作業及作品，引用外部資料的部分務必標註來源出處，作品內容嚴禁抄襲及代理作業，如發生觸及學術誠信的事件將交由課程會議議處。</div>\n",
+    "ais_meno_en": "<div><strong>Academic Integrity</strong><br />\nStudents are expected to maintain academic integrity. Plagiarism, cheating, or any form of academic misconduct will not be tolerated.</div>\n\n<div><strong>Academic Integrity</strong><br />\nStudents are expected to maintain academic integrity. Plagiarism, cheating, or any form of academic misconduct will not be tolerated.</div>\n\n<div><strong>Academic Integrity</strong><br />\nStudents are expected to maintain academic integrity. Plagiarism, cheating, or any form of academic misconduct will not be tolerated.</div>\n<translator-content-app></translator-content-app>",
+    "ilearn_mk": "N"
+  },
+  "integrity": {
+    "yms_year": 114.0,
+    "yms_smester": 2.0,
+    "cls_id": "AS03120",
+    "sub_id": "25715",
+    "scr_dup": "001",
+    "tpa_score_new": null,
+    "tpa_score_new_en": " ",
+    "course_pol": "1.每週上課請於09:30前依照課前公告完上課準備工作，如作品布置，準備投影器材……等!\n2.出席依照正式課程原則處理，老師分上下午直接點名，遲到未請假將以曠課計之，直接影響平時成績，如遇不可抗力的因素務必提前聯繫告知，否則視同缺席。\n3.課前課後請留意Messenger群組訊息，確保掌握課前準備工作，跟上課程進度。有問題隨時在群組中發問!",
+    "course_pol_en": "Course Policies\n\nAttendance\nRegular attendance is expected. Two points will be deducted for each absence. Students who are absent five times will receive zero points for attendance.\n\nAssignments\nAll assignments must be submitted on time. Late submissions may result in a deduction of points unless prior approval is obtained.\n\nParticipation\nActive participation in discussions, exercises, and design activities is encouraged and will be considered as part of the coursework evaluation.\n\nAcademic Integrity\nStudents must maintain academic integrity. Plagiarism, cheating, or submitting work that is not your own is strictly prohibited.",
+    "course_rem": "1. 選組長，每週負責當週器材借還與準備工作，課後(17:00)監督同學進行場地復原的工作，並拍照上傳Messenger群組回報場地復原狀況。\n2. 正式進度檢核(各週進度貼圖，正草，總評)未於規定時間完成作品佈置，視情節狀況扣分或直接喪失評圖的機會，不予計分。\n3. 各次上課未輪到指導你的作品前，請利用課堂上的時間進行當週學習進度，或主動參與旁聽指導講評及討論。\n4. 上下午課堂段全程參與學活動，離開教室請主動說明報備，切勿擅自離席!\n5. 保持積極、專注、輕鬆、勤快、主動的狀態，避免不懂不問，進度拖延，缺圖少模等情事發生。",
+    "course_rem_en": "Friendly Reminder\n\nPlease bring your laptop and necessary software tools to class when required.\n\nSave and back up your work regularly to avoid data loss.\n\nManage your time well and complete assignments progressively rather than waiting until the last minute.\n\nBe respectful to classmates and maintain a positive learning environment.\n\nIf you encounter difficulties with the course, please communicate with the instructor early.",
+    "ais_meno": "<div>課程期間所有個人及小組作業及作品，引用外部資料的部分務必標註來源出處，作品內容嚴禁抄襲及代理作業，如發生觸及學術誠信的事件將交由課程會議議處。</div>\n",
+    "ais_meno_en": "<div><strong>Academic Integrity</strong><br />\nStudents are expected to maintain academic integrity. Plagiarism, cheating, or any form of academic misconduct will not be tolerated.</div>\n\n<div><strong>Academic Integrity</strong><br />\nStudents are expected to maintain academic integrity. Plagiarism, cheating, or any form of academic misconduct will not be tolerated.</div>\n\n<div><strong>Academic Integrity</strong><br />\nStudents are expected to maintain academic integrity. Plagiarism, cheating, or any form of academic misconduct will not be tolerated.</div>\n<translator-content-app></translator-content-app>",
+    "ilearn_mk": "N"
+  },
+  "policy": {
+    "yms_year": 114.0,
+    "yms_smester": 2.0,
+    "cls_id": "AS03120",
+    "sub_id": "25715",
+    "scr_dup": "001",
+    "tpa_score_new": null,
+    "tpa_score_new_en": " ",
+    "course_pol": "1.每週上課請於09:30前依照課前公告完上課準備工作，如作品布置，準備投影器材……等!\n2.出席依照正式課程原則處理，老師分上下午直接點名，遲到未請假將以曠課計之，直接影響平時成績，如遇不可抗力的因素務必提前聯繫告知，否則視同缺席。\n3.課前課後請留意Messenger群組訊息，確保掌握課前準備工作，跟上課程進度。有問題隨時在群組中發問!",
+    "course_pol_en": "Course Policies\n\nAttendance\nRegular attendance is expected. Two points will be deducted for each absence. Students who are absent five times will receive zero points for attendance.\n\nAssignments\nAll assignments must be submitted on time. Late submissions may result in a deduction of points unless prior approval is obtained.\n\nParticipation\nActive participation in discussions, exercises, and design activities is encouraged and will be considered as part of the coursework evaluation.\n\nAcademic Integrity\nStudents must maintain academic integrity. Plagiarism, cheating, or submitting work that is not your own is strictly prohibited.",
+    "course_rem": "1. 選組長，每週負責當週器材借還與準備工作，課後(17:00)監督同學進行場地復原的工作，並拍照上傳Messenger群組回報場地復原狀況。\n2. 正式進度檢核(各週進度貼圖，正草，總評)未於規定時間完成作品佈置，視情節狀況扣分或直接喪失評圖的機會，不予計分。\n3. 各次上課未輪到指導你的作品前，請利用課堂上的時間進行當週學習進度，或主動參與旁聽指導講評及討論。\n4. 上下午課堂段全程參與學活動，離開教室請主動說明報備，切勿擅自離席!\n5. 保持積極、專注、輕鬆、勤快、主動的狀態，避免不懂不問，進度拖延，缺圖少模等情事發生。",
+    "course_rem_en": "Friendly Reminder\n\nPlease bring your laptop and necessary software tools to class when required.\n\nSave and back up your work regularly to avoid data loss.\n\nManage your time well and complete assignments progressively rather than waiting until the last minute.\n\nBe respectful to classmates and maintain a positive learning environment.\n\nIf you encounter difficulties with the course, please communicate with the instructor early.",
+    "ais_meno": "<div>課程期間所有個人及小組作業及作品，引用外部資料的部分務必標註來源出處，作品內容嚴禁抄襲及代理作業，如發生觸及學術誠信的事件將交由課程會議議處。</div>\n",
+    "ais_meno_en": "<div><strong>Academic Integrity</strong><br />\nStudents are expected to maintain academic integrity. Plagiarism, cheating, or any form of academic misconduct will not be tolerated.</div>\n\n<div><strong>Academic Integrity</strong><br />\nStudents are expected to maintain academic integrity. Plagiarism, cheating, or any form of academic misconduct will not be tolerated.</div>\n\n<div><strong>Academic Integrity</strong><br />\nStudents are expected to maintain academic integrity. Plagiarism, cheating, or any form of academic misconduct will not be tolerated.</div>\n<translator-content-app></translator-content-app>",
+    "ilearn_mk": "N"
+  },
+  "courseBankC": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "AS03120",
+      "sub_id": "25715",
+      "scr_dup": "001",
+      "seq": 1,
+      "describe_ch": "理解不同類型空間的設計原則和特點，掌握空間設計的基本概念和技術。",
+      "describe_en": "Understand the design principles and characteristics of different types of spaces, and master the basic concepts and techniques of space design.",
+      "core_id": "A",
+      "core_item": "具備室內設計規劃之能力",
+      "core_eng": "Ability to have interior design planning.",
+      "core_level": "1 ",
+      "strgy": [
+        "02",
+        "08",
+        "10"
+      ],
+      "evalb": [
+        "D4",
+        "K2",
+        "L2"
+      ],
+      "strgy_name": [
+        "專題演講",
+        "書面報告",
+        "小組討論及活動"
+      ],
+      "strgy_name_en": [
+        "Topical lecture",
+        "Written report",
+        "Group activity & discussion"
+      ],
+      "evalb_name": [
+        "作業",
+        "口頭報告",
+        "點名"
+      ],
+      "evalb_name_en": [
+        "Homework",
+        "Oral presentation",
+        "Roll call"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "AS03120",
+          "sub_id": "25715",
+          "scr_dup": "001",
+          "seq": 1,
+          "strgy_id": "02",
+          "strgy_name": null,
+          "strgy_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "AS03120",
+          "sub_id": "25715",
+          "scr_dup": "001",
+          "seq": 1,
+          "strgy_id": "08",
+          "strgy_name": null,
+          "strgy_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "AS03120",
+          "sub_id": "25715",
+          "scr_dup": "001",
+          "seq": 1,
+          "strgy_id": "10",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "AS03120",
+          "sub_id": "25715",
+          "scr_dup": "001",
+          "seq": 1,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D4",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "AS03120",
+          "sub_id": "25715",
+          "scr_dup": "001",
+          "seq": 1,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "K2",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "AS03120",
+          "sub_id": "25715",
+          "scr_dup": "001",
+          "seq": 1,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "L2",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "AS03120",
+      "sub_id": "25715",
+      "scr_dup": "001",
+      "seq": 2,
+      "describe_ch": "分析和評估各種空間設計案例，了解設計作品的設計思路、風格和特色。",
+      "describe_en": "Analyze and evaluate various space design cases to understand the design ideas, style and characteristics of the design works.",
+      "core_id": "A",
+      "core_item": "具備室內設計規劃之能力",
+      "core_eng": "Ability to have interior design planning.",
+      "core_level": "2 ",
+      "strgy": [
+        "04",
+        "08"
+      ],
+      "evalb": [
+        "D4",
+        "F3",
+        "G5"
+      ],
+      "strgy_name": [
+        "專題討論",
+        "書面報告"
+      ],
+      "strgy_name_en": [
+        "Seminar",
+        "Written report"
+      ],
+      "evalb_name": [
+        "作業",
+        "小組討論",
+        "書面報告"
+      ],
+      "evalb_name_en": [
+        "Homework",
+        "Group discussion",
+        "Writing report"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "AS03120",
+          "sub_id": "25715",
+          "scr_dup": "001",
+          "seq": 2,
+          "strgy_id": "04",
+          "strgy_name": null,
+          "strgy_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "AS03120",
+          "sub_id": "25715",
+          "scr_dup": "001",
+          "seq": 2,
+          "strgy_id": "08",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "AS03120",
+          "sub_id": "25715",
+          "scr_dup": "001",
+          "seq": 2,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D4",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "AS03120",
+          "sub_id": "25715",
+          "scr_dup": "001",
+          "seq": 2,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "F3",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "AS03120",
+          "sub_id": "25715",
+          "scr_dup": "001",
+          "seq": 2,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "G5",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "AS03120",
+      "sub_id": "25715",
+      "scr_dup": "001",
+      "seq": 3,
+      "describe_ch": "探討空間設計與文化、歷史、社會等方面的關係，理解空間設計在社會發展中的作用和價值。",
+      "describe_en": "Explore the relationship between space design and culture, history, society, etc., and understand the role and value of space design in social development.",
+      "core_id": "D",
+      "core_item": "具備室內設計作品專業展現（圖面、模型及多媒體）之能力",
+      "core_eng": "Have the ability to showcase interior design works (graphic, model and multimedia).",
+      "core_level": "2 ",
+      "strgy": [
+        "02"
+      ],
+      "evalb": [
+        "D4"
+      ],
+      "strgy_name": [
+        "專題演講"
+      ],
+      "strgy_name_en": [
+        "Topical lecture"
+      ],
+      "evalb_name": [
+        "作業"
+      ],
+      "evalb_name_en": [
+        "Homework"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "AS03120",
+          "sub_id": "25715",
+          "scr_dup": "001",
+          "seq": 3,
+          "strgy_id": "02",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "AS03120",
+          "sub_id": "25715",
+          "scr_dup": "001",
+          "seq": 3,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D4",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "AS03120",
+      "sub_id": "25715",
+      "scr_dup": "001",
+      "seq": 4,
+      "describe_ch": "學習從專業角度進行空間賞析，培養批判性思維和專業素養。",
+      "describe_en": "Learn to appreciate space from a professional perspective and develop critical thinking and professional qualities.",
+      "core_id": "F",
+      "core_item": "具備認知國際性室內設計趨勢及議題之能力",
+      "core_eng": "Have the ability to recognize international trends and topics in interior design.",
+      "core_level": "1 ",
+      "strgy": [
+        "02"
+      ],
+      "evalb": [
+        "D4"
+      ],
+      "strgy_name": [
+        "專題演講"
+      ],
+      "strgy_name_en": [
+        "Topical lecture"
+      ],
+      "evalb_name": [
+        "作業"
+      ],
+      "evalb_name_en": [
+        "Homework"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "AS03120",
+          "sub_id": "25715",
+          "scr_dup": "001",
+          "seq": 4,
+          "strgy_id": "02",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "AS03120",
+          "sub_id": "25715",
+          "scr_dup": "001",
+          "seq": 4,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D4",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "AS03120",
+      "sub_id": "25715",
+      "scr_dup": "001",
+      "seq": 5,
+      "describe_ch": "通過實地考察和設計案例研究，提高學生的實踐能力和解決問題的能力。",
+      "describe_en": "Improve students' practical and problem-solving abilities through field trips and case study design.",
+      "core_id": "D",
+      "core_item": "具備室內設計作品專業展現（圖面、模型及多媒體）之能力",
+      "core_eng": "Have the ability to showcase interior design works (graphic, model and multimedia).",
+      "core_level": "2 ",
+      "strgy": [
+        "02"
+      ],
+      "evalb": [
+        "D4"
+      ],
+      "strgy_name": [
+        "專題演講"
+      ],
+      "strgy_name_en": [
+        "Topical lecture"
+      ],
+      "evalb_name": [
+        "作業"
+      ],
+      "evalb_name_en": [
+        "Homework"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "AS03120",
+          "sub_id": "25715",
+          "scr_dup": "001",
+          "seq": 5,
+          "strgy_id": "02",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "AS03120",
+          "sub_id": "25715",
+          "scr_dup": "001",
+          "seq": 5,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D4",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "AS03120",
+      "sub_id": "25715",
+      "scr_dup": "001",
+      "seq": 6,
+      "describe_ch": "培養學生對空間設計的興趣和熱情，激發其創造力和設計潛能。",
+      "describe_en": "Cultivate students' interest and enthusiasm for space design and stimulate their creativity and design potential.",
+      "core_id": "A",
+      "core_item": "具備室內設計規劃之能力",
+      "core_eng": "Ability to have interior design planning.",
+      "core_level": "1 ",
+      "strgy": [
+        "02"
+      ],
+      "evalb": [
+        "D4"
+      ],
+      "strgy_name": [
+        "專題演講"
+      ],
+      "strgy_name_en": [
+        "Topical lecture"
+      ],
+      "evalb_name": [
+        "作業"
+      ],
+      "evalb_name_en": [
+        "Homework"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "AS03120",
+          "sub_id": "25715",
+          "scr_dup": "001",
+          "seq": 6,
+          "strgy_id": "02",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "AS03120",
+          "sub_id": "25715",
+          "scr_dup": "001",
+          "seq": 6,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D4",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    }
+  ],
+  "topicSdgs": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "AS03120",
+      "sub_id": "25715",
+      "scr_dup": "001",
+      "sdgs_seq": 6,
+      "main_related": "Y",
+      "ind_related": "N",
+      "iss_name": "社會進步面",
+      "iss_ename": "Social Progress",
+      "content_name": "減少經濟、教育及身心弱勢的不平等",
+      "content_ename": "Reduced Inequalities"
+    }
+  ],
+  "topicAiIndicators": [],
+  "learnHours": {
+    "total": 0.0,
+    "tpdOnlineAsyTotal": 0.0,
+    "tpdOnlineSynTotal": 0.0,
+    "tpdOnlineFaceTotal": 0.0,
+    "asySynInTotalPercent": 0.0
+  },
+  "crossVerYear": 114
+}

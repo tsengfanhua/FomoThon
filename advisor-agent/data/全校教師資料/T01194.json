@@ -1,0 +1,408 @@
+{
+  "teacherId": "T01194",
+  "name": "蔡鈺鼎",
+  "mainUnit": "工程與科學學院",
+  "detailUnit": "精密系統設計學士學位學程",
+  "skill": [
+    "最佳化演算法Optimization method",
+    "人工智慧Artificial intelligence",
+    "機器人控制系統Robotic control system",
+    "機械振動分析及控制Mechanical vibration analysis and control",
+    "音訊分析及辨識Audio signal processing and identification"
+  ],
+  "edu": [
+    "逢甲大學 機械與航空工程博士學位學程 博士",
+    "逢甲大學 電聲碩士學位學程 碩士"
+  ],
+  "fcuExp": [
+    "智慧機械產業發展中心 國際交流組組長",
+    "超自動化實驗室 主任",
+    "電聲碩士學位學程 主任",
+    "精密系統設計學士學位學程 主任",
+    "逢甲大學帆宣智慧城市5G實驗室 研究員",
+    "精密系統設計學士學位學程 助理教授",
+    "精密系統設計學士學位學程 副教授",
+    "精密系統設計學士學位學程 副教授"
+  ],
+  "currjob": [],
+  "otherExp": [
+    "德國紐倫堡大學 工廠自動化與生產系統研究所 訪問學者",
+    "德國TU-Dresden工業大學 聲學所 訪問學者"
+  ],
+  "journal": [
+    {
+      "論文名稱": "Bass Preamplifier Emulation with Conditional Recurrent Neural Network",
+      "期刊名稱": "Journal of the Audio Engineering Society (SCIE)",
+      "作者群": "Lee, Tsung-Yi; Tsai, Yu-Ting*"
+    },
+    {
+      "論文名稱": "Predictions of Wave Overtopping Using Deep Learning Neural Networks",
+      "期刊名稱": "Journal of Marine Science and Engineering (SCIE)",
+      "作者群": "Tsai, Yu-Ting*, Ching-Piao Tsai*"
+    },
+    {
+      "論文名稱": "Heart Murmur Classification Using a Capsule Neural Network",
+      "期刊名稱": "Bioengineering (SCIE)",
+      "作者群": "Tsai, Yu-Ting, Yu-Hsuan Liu, Zi-Wei Zheng, Chih-Cheng Chen, and Ming-Chih Lin"
+    },
+    {
+      "論文名稱": "Adsorption and purification of biogas inside graphitic nanopores: molecular dynamics simulation approach",
+      "期刊名稱": "J Mol Model (SCIE)",
+      "作者群": "Jenn-Kun Kuo, Yu-Ting Tsai, Pei-Hsing Huang, Chien-Hui Lee, Chun-Hung Lin"
+    },
+    {
+      "論文名稱": "Application of a Deep Learning Neural Network for Voiding Dysfunction Diagnosis Using a Vibration Sensor",
+      "期刊名稱": "Applied Sciences (SCIE)",
+      "作者群": "Pong, Yuan-Hung, Vincent F.S. Tsai, Yu-Hsuan Hsu, Chien-Hui Lee, Kun-Ching Wang, and Yu-Ting Tsai*"
+    },
+    {
+      "論文名稱": "Design of Multi-Receptive Field Fusion-Based Network for Surface Defect Inspection on Hot-Rolled Steel Strip Using Lightweight Dataset",
+      "期刊名稱": "Applied Sciences (SCIE)",
+      "作者群": "Wei-Peng Tang, Sze-Teng Liong, Chih-Cheng Chen, Ming-Han Tsai, Ping-Cheng Hsieh, Yu-Ting Tsai, Shih-Hsin Chen and Kun-Ching Wang*"
+    },
+    {
+      "論文名稱": "Capture of acidic gas molecules in metallic nanopillar array surfaces",
+      "期刊名稱": "Journal of Molecular Modeling (SCIE)",
+      "作者群": "Jenn-Kun Kuo, Yu-Ting Tsai, Pei-Hsing Huang, Jheng-Yu Luo"
+    },
+    {
+      "論文名稱": "Optimal Design of Investment Casting System for a Stuffing Box with Pedestal of Centrifugal Pump: Computer Simulations and Experimental Verification",
+      "期刊名稱": "Journal of the Chinese Society of Mechanical Engineers (SCIE)",
+      "作者群": "Kuo J-K, Huang P-H, Tsai Y-T, Qi Z and Chou C-S*"
+    },
+    {
+      "論文名稱": "Utilization of a reinforcement learning algorithm for the accurate alignment of a robotic arm in a complete soft fabric shoe tongues automation process.",
+      "期刊名稱": "Journal of Manufacturing Systems (SSCI,SCIE)",
+      "作者群": "Tsai Y-T, Lee C-H, Liu T-Y, Chang T-J, Wang C-S, Pawar SJ, Huang P-H, Huang J-H.*"
+    },
+    {
+      "論文名稱": "Parameter optimization method for identifying the optimal nonlinear parameters of a miniature transducer with a metal membrane",
+      "期刊名稱": "Applied Sciences (SCIE)",
+      "作者群": "Y. C. Jain, Y. T. Tsai*, S. J. Pawar"
+    },
+    {
+      "論文名稱": "Frequency response simulation of the hybrid dual driver earphone using equivalent circuit model",
+      "期刊名稱": "Journal of the Acoustic Society of America (SCIE)",
+      "作者群": "Yu-Ting Tsai"
+    },
+    {
+      "論文名稱": "Artificial design of open-back headphone based on ventilation structure optimization method",
+      "期刊名稱": "Journal of the Acoustic Society of America (SCIE)",
+      "作者群": "Yu-Ting Tsai*, Jin H. Huang"
+    },
+    {
+      "論文名稱": "Numerical Analysis of CNC Milling Chatter Using Embedded Miniature MEMS Microphone Array System",
+      "期刊名稱": "inventions (Scopus)",
+      "作者群": "Pang-Li Wang 1 and Yu-Ting Tsai 2*"
+    },
+    {
+      "論文名稱": "Multiscale spectral subtraction method and support vector machine for clustering heavy background noise classification\r\n",
+      "期刊名稱": "Proceeding of 24rd Int. Congress on Sound & Vibration ICSV2017 (EI)",
+      "作者群": "Yu-Ting Tsai*, Jin H. Huang"
+    },
+    {
+      "論文名稱": "Preventing damage to miniature-loudspeaker by means of dynamic detection of excessive diaphragm displacement",
+      "期刊名稱": "Acoustical Society of America (SCIE)",
+      "作者群": "Yu-Ting Tsai, S. J. Pawar, Chi-Chang Wang, Jin H. Huang*"
+    },
+    {
+      "論文名稱": "Preventing damage to miniature-loudspeaker by means of dynamic detection of excessive diaphragm displacement",
+      "期刊名稱": "The Journal of the Acoustical Society of America (SCIE)",
+      "作者群": "Yu-Ting Tsai, S. J. Pawar, Chi-Chang Wang and Jin H. Huang*"
+    },
+    {
+      "論文名稱": "Assessment of the subjective perception of music quality using psychoacoustic approach",
+      "期刊名稱": "International Journal of Industrial Ergonomics (SCIE)",
+      "作者群": "Kuo Hao Tang*, Shih Ting Chen, Yu Ting Tsai"
+    },
+    {
+      "論文名稱": "Optimizing Material Properties of Composite Plates for Sound Transmission Problem",
+      "期刊名稱": "Journal of Sound and Vibration (SCIE)",
+      "作者群": "Y. T. Tsai, S. J. Pawar and Jin H. Huang"
+    },
+    {
+      "論文名稱": "Loudspeaker Parameters Inverse Problem for Improving Sound Frequency Response Simulation",
+      "期刊名稱": "International Journal of Computer, Information, Systems and (EI)",
+      "作者群": "Yu-Ting Tsai and Jin H. Huang*"
+    },
+    {
+      "論文名稱": "A Study of Nonlinear Harmonic Distortion in a Balanced Armature Actuator with Asymmetrical Magnetic Flux",
+      "期刊名稱": "Sensors and Actuators A: Physical (SCIE)",
+      "作者群": "Yu T. Tsai and Jin H. Huang*"
+    },
+    {
+      "論文名稱": "An Inverse Method for Estimating the Electromechanical Parameters of Moving-Coil Loudspeakers",
+      "期刊名稱": "The Journal of the Acoustic Society America (SCIE)",
+      "作者群": "Yu T. Tsai, C. C. Wang and Jin H. Huang*"
+    },
+    {
+      "論文名稱": "Effects of Porous Materials in an Insert Earphone on its Frequency Response-Experiments and Simulations",
+      "期刊名稱": "IEEE Transactions Ultrasonic Ferroelectrics, and Frequency C (SCIE)",
+      "作者群": "Yu T. Tsai, Y. C. Shiah and Jin H. Huang*"
+    }
+  ],
+  "journal2": [],
+  "conference": [
+    {
+      "論文名稱": "The Simple Methodology of Measuring The Thermal Conductivity of Film",
+      "會議名稱": "International Conference on Mechatronic, Automobile, and Environment Engineering",
+      "作者群": "Hsiao-Hui Wu, Chi-Chang Wang, Hsin-Shu Peng, Yu-Ting Tsai"
+    },
+    {
+      "論文名稱": "A Development of Intelligent Embedded-Thermal Control System for a Micro Built-in Motor Spindle",
+      "會議名稱": "International Conference on Mechatronic, Automobile, and Environment Engineering",
+      "作者群": "Ming-Lun Chang, Chi-Chang Wang, Yu-Ting Tsai"
+    },
+    {
+      "論文名稱": "工具機加工過程中運用機器學習預測切削顫振之發生情形",
+      "會議名稱": "旭泰論文獎研討會 Spintech Technology Thesis Award",
+      "作者群": "江彥達，蔡鈺鼎*"
+    },
+    {
+      "論文名稱": "Multiscale spectral subtraction method and support vector machine for clustering heavy background noise classification",
+      "會議名稱": "24th International Congress on Sound and Vibration",
+      "作者群": "Yu T. Tsai*, Jin H. Huang"
+    },
+    {
+      "論文名稱": "Particle swarm optimization method for spindle nose vibration simulation and measurement",
+      "會議名稱": "2nd Int. Conf. on Inventions",
+      "作者群": "Yu-Ting Tsai"
+    },
+    {
+      "論文名稱": "Discrimination method for spindle vibration analysis based on empirical mode decomposition and independent component analysis algorithm",
+      "會議名稱": "23rd Int. Congress on Sound & Vibration",
+      "作者群": "Yu T. Tsai*, Jin H. Huang"
+    },
+    {
+      "論文名稱": "The optimization design mthod for porous headphone transducer using particle swam algorithm",
+      "會議名稱": "23rd Int. Congress on Sound & Vibration",
+      "作者群": "Yu T. Tsai*, J. R. Chen, Jin H. Huang"
+    },
+    {
+      "論文名稱": "Material Properties Inverse Problem of Composite Plates for Specific Sound Transmission Loss",
+      "會議名稱": "Proceedings of the International Conference On: Multifunctional Materials, Structures and Applications",
+      "作者群": "Yu T. Tsai, S. J. Pawar, and Jin H. Huang*"
+    },
+    {
+      "論文名稱": "The Dynamics Detection and Processing Method for Preventing Large Displacement Transducer Damage Problem",
+      "會議名稱": "137th Convention - Audio Engineering Society",
+      "作者群": "Yu T. Tsai and Jin H. Huang*"
+    },
+    {
+      "論文名稱": "Loudspeaker Parameters Inverse Problem for Improving Sound Frequency Response Simulation",
+      "會議名稱": "International Conference on Mechanical, Aeronautical and Manufacturing Engineering",
+      "作者群": "Yu T. Tsai and Jin H. Huang*"
+    },
+    {
+      "論文名稱": "Precision Identification of Nonlinear Damping Parameter for a Miniature Moving-Coil Transducer",
+      "會議名稱": "ICAMAME 2013: International Conference on Aerospace, Mechanical, Automotive and Materials Engineering",
+      "作者群": "Yu T. Tsai and Jin H. Huang*"
+    }
+  ],
+  "book": [],
+  "patent": [
+    {
+      "title": "發明",
+      "desc": "聲波辨識系統及其方法"
+    },
+    {
+      "title": "發明",
+      "desc": "電聲換能器之參數量測方法"
+    },
+    {
+      "title": "發明",
+      "desc": "運用無線射頻辨識標籤定位導引方法及系統"
+    },
+    {
+      "title": "發明",
+      "desc": "Method for measuring electroacoustic parameters of transducer"
+    },
+    {
+      "title": "發明",
+      "desc": "鞋舌內外面翻轉裝置及翻轉方法"
+    }
+  ],
+  "most": [
+    {
+      "name": "超高速流體動力主軸及智能化監控裝置開發計畫",
+      "schoolYear": "113"
+    },
+    {
+      "name": "開發多元異質資料彙整與運算平台輔助電漿電解氧化製程探究與技術優化(3/3)",
+      "schoolYear": "113"
+    },
+    {
+      "name": "開發多元異質資料彙整與運算平台輔助電漿電解氧化製程探究與技術優化(2/3)",
+      "schoolYear": "112"
+    },
+    {
+      "name": "研究半監督強化元學習方法應用於工具機加工系統的序列行為診斷分析",
+      "schoolYear": "111"
+    },
+    {
+      "name": "開發多元異質資料彙整與運算平台輔助電漿電解氧化製程探究與技術優化(1/3)",
+      "schoolYear": "111"
+    },
+    {
+      "name": "一維卷積類神經網路應用於吉他出廠品質檢測",
+      "schoolYear": "111"
+    },
+    {
+      "name": "(個別型)產學合作計畫－利用AI卷積神經網路分析異常音頻訊號-以機台故障診斷為例",
+      "schoolYear": "110"
+    },
+    {
+      "name": "(廠配)高明精機工業股份有限公司(個別型)產學合作計畫－利用AI卷積神經網路分析異常音頻訊號-以機台故障診斷為例",
+      "schoolYear": "110"
+    },
+    {
+      "name": "利用人工智慧學習方法將聲輻射訊號用於工業機台監控應用(2/2)",
+      "schoolYear": "110"
+    },
+    {
+      "name": "以機器學習之類神經網路辨識足壓於客製化製鞋輔助系統",
+      "schoolYear": "110"
+    },
+    {
+      "name": "製鞋智動化機電系統暨網宇虛實整合開發計畫－製鞋智動化機電系統暨網宇虛實整合開發計畫(3/3)",
+      "schoolYear": "109"
+    },
+    {
+      "name": "利用人工智慧學習方法將聲輻射訊號用於工業機台監控應用(1/2)",
+      "schoolYear": "109"
+    },
+    {
+      "name": "建立深度學習邊緣計算技術應用於自動化生產線之運作訊號診斷",
+      "schoolYear": "109"
+    },
+    {
+      "name": "製鞋智動化機電系統暨網宇虛實整合開發計畫－製鞋智動化機電系統暨網宇虛實整合開發計畫(2/3)",
+      "schoolYear": "108"
+    },
+    {
+      "name": "製鞋智動化機電系統暨網宇虛實整合開發計畫－製鞋智動化機電系統暨網宇虛實整合開發計畫(1/3)",
+      "schoolYear": "107"
+    },
+    {
+      "name": "(3/3)4i工程人才培育研究計畫–智慧機械跨領域工程人才培育與研究(跨領域工程教育人才培育與研究計畫)",
+      "schoolYear": "107"
+    },
+    {
+      "name": "深度耳機控制傳導模組神經網路應用於多單元內耳式耳機智慧模型設計",
+      "schoolYear": "107"
+    },
+    {
+      "name": "(2/3)4i工程人才培育研究計畫–智慧機械跨領域工程人才培育與研究(跨領域工程教育人才培育與研究計畫)",
+      "schoolYear": "106"
+    },
+    {
+      "name": "(深耕)精密主軸於智慧型滾齒機之應用暨推廣(2/2)",
+      "schoolYear": "106"
+    },
+    {
+      "name": "最佳化反算法於微型揚聲器的非線性特性分析與損壞保護機制研究",
+      "schoolYear": "106"
+    },
+    {
+      "name": "(1/3)4i工程人才培育研究計畫－智慧機械跨領域工程人才培育與研究(跨領域工程教育人才培育與研究計畫)",
+      "schoolYear": "105"
+    },
+    {
+      "name": "(深耕)精密主軸於智慧型滾齒機之應用暨推廣(1/2)",
+      "schoolYear": "105"
+    },
+    {
+      "name": "開發主軸之振動與熱變形耦合最佳化分析與智能化品質檢測學習模型",
+      "schoolYear": "105"
+    },
+    {
+      "name": "深耕工業基礎技術專案計畫-工具機精密主軸基礎技術推動與自動化量測平台之研發(2/2)",
+      "schoolYear": "104"
+    },
+    {
+      "name": "工具機高速主軸智能最佳化設計模型及量測診斷系統",
+      "schoolYear": "104"
+    },
+    {
+      "name": "產學技術聯盟合作計畫-電聲產學技術發展與驗證聯盟(1/3)",
+      "schoolYear": "103"
+    }
+  ],
+  "tech": [
+    {
+      "論文名稱": "Vibration signal prediction model for the miniature transducer using deep learning network (2019-06)",
+      "書名": "Advances in Mechanism and Machine Science",
+      "作者群": "YT. Chiang , YT. Tsai*"
+    },
+    {
+      "論文名稱": "Construction of Artificial Intelligence Mechanical Laboratory with Engineering Education Based on CDIO Teaching Strategies (2018-09)",
+      "書名": "Wu TT., Huang YM., Shadiev R., Lin L., Starčič A. (eds) Innovative Technologies and Learning",
+      "作者群": "Tsai YT.*, Wang CC., Peng HS., Huang J.H., Tsai CP."
+    },
+    {
+      "論文名稱": "Inverse Determination of the Nonlinear Force Factor of Moving-coil Loudspeaker Motor Systems (2014-12)",
+      "書名": "Noise Control: Theory, Application and Optimization in Engineering, Min-Chie Chiu and J. H. Huang (eds)",
+      "作者群": "Yu-Ting Tsai*, Chi-Chang Wang and Jin H. Huang"
+    }
+  ],
+  "induAca": [
+    "(蔡鈺鼎)智慧能源管理與永續發展產學合作計畫 (2025-02 to 2025-11)",
+    "智慧產線開發與相關技術之探討應用II (2024-12 to 2025-11)",
+    "智慧產線開發與相關技術之探討應用 (2023-12 to 2024-11)",
+    "C5E廠基於SLAM導引之牙叉式AGV開發驗證 (2023-03 to 2024-06)",
+    "智慧產線虛實整合技術開發與相關技術之探討應用 (2022-12 to 2023-11)",
+    "機上熱變位驗證開發 (2022-07 to 2023-03)",
+    "111年iPAS推動合作委託案 (2022-04 to 2022-11)",
+    "友達光電股份有限公司L7B Cell PI Robot 音頻異常預警監控產學合作計畫 (2022-02 to 2023-02)",
+    "智慧產線相關技術發展與應用之探討 (2021-12 to 2022-11)",
+    "AI技術於風扇品質檢測研究諮詢顧問專案計畫 (2021-05 to 2021-08)",
+    "先進智慧技術於系統應用之探討 (2020-11 to 2021-10)",
+    "CNC車床整機AI熱補償 (2020-07 to 2022-06)",
+    "燒結爐燒結物溫度之預測技術 (2019-10 to 2020-04)",
+    "人工智慧技術於自動化製鞋產線之研究I (2019-09 to 2020-08)",
+    "排尿障礙之人工智慧輔助診斷系統 (2019-08 to 2021-07)",
+    "CNC車床熱特性與智能決策技術 (2019-05 to 2021-04)",
+    "導入西門子4.0機電一體化與智慧機器人之人機協同作業應用基地計畫 (2018-03 to 2018-10)",
+    "工具機線上(顫振)量測技術 (2017-03 to 2017-11)",
+    "軸承熱溫升與振動跑合分析檢驗系統技術開發計畫 (2017-01 to 2018-12)",
+    "智能化製鞋自動化產線技術研發與人才培育計畫_總計畫 (2016-11 to 2018-10)",
+    "智能化製鞋自動化產線技術研發與人才培育計畫_子計畫二：前瞻X-Y-Z氣壓自動化針車平台之研究 (2016-11 to 2018-10)",
+    "智能化製鞋自動化產線技術研發與人才培育計畫_子計畫一：製鞋用智慧機器人針車自動化產線系統 (2016-11 to 2018-10)",
+    "上銀螺桿音頻線上自主檢驗系統 (2016-09 to 2018-09)",
+    "智慧預測於Screw Plus射出螺桿實務分析計畫第一階段 (2016-09 to 2017-04)",
+    "HSK E20內藏式高速主軸熱源分析與熱伸長預測技術開發 (2016-08 to 2017-06)",
+    "耳罩耳機暨雙耳錄音技術開發 (2015-09 to 2016-08)",
+    "除油煙機主動數位抗噪系統 (2015-07 to 2016-06)",
+    "滾珠螺桿主軸品質自動監控系統軟體 (2015-03 to 2015-09)"
+  ],
+  "perform": [],
+  "reward": [
+    "逢甲大學論文著作獎勵傑出獎 (113, 2024-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (113, 2024-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優等獎 (113, 2024-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優等獎 (113, 2024-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (111, 2022-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (110, 2021-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (110, 2021-11) - 逢甲大學",
+    "110年度科技部補助大專校院研究獎勵 (110, 2021-10) - 產學合作處",
+    "逢甲大學論文著作獎勵優良獎 (108, 2019-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (108, 2019-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (108, 2019-11) - 逢甲大學",
+    "108學年度科技部補助大專校院研究獎勵 (108, 2019-09) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (107, 2018-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (107, 2018-11) - 逢甲大學",
+    "2016美律電聲論文獎 (105, 2016-12) - 美律實業股份有限公司",
+    "2016美律電聲論文獎 (105, 2016-12) - 美律實業股份有限公司",
+    "2016旭泰科技論文競賽 (105, 2016-10) - 旭泰精密機械股份有限公司",
+    "逢甲大學優良教材獎勵佳作獎 (104, 2015-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (104, 2015-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (104, 2015-11) - 逢甲大學"
+  ],
+  "speech": [],
+  "material": [
+    "I Fun好聲音~玩出屬於你的耳機\t逢甲大學雲端學院\t劉育成、黃錦煌、蔡鈺鼎、汪龍飛、古劍雄、王文弘\t數位學習課程教材",
+    "MatLab程式設計概論\t逢甲大學雲端學院\t劉益瑞、蔡鈺鼎、黃奕敏、林威延、黃振鴻、劉怡芬、蘇益瑞\tMOOCs/SPOCs"
+  ],
+  "tal": []
+}

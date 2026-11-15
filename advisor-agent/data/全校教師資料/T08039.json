@@ -1,0 +1,438 @@
+{
+  "teacherId": "T08039",
+  "name": "蔡國裕",
+  "mainUnit": "資訊電機學院",
+  "detailUnit": "資訊工程學系",
+  "skill": [
+    "密碼學Cryptography",
+    "物聯網應用與安全IoT Application and Security",
+    "行動商務與安全m-commerce Application and Security"
+  ],
+  "edu": [
+    "國立臺灣科技大學 資訊管理系 博士",
+    "國立臺灣科技大學 資訊管理系 碩士",
+    "中原大學 資訊工程學系 學士"
+  ],
+  "fcuExp": [
+    "大數據教學與應用中心 主任",
+    "資訊教學中心 主任",
+    "逢甲大學帆宣智慧城市5G實驗室 研究員",
+    "資訊工程學系 副教授"
+  ],
+  "currjob": [],
+  "otherExp": [
+    "文化大學 應用數學系 助理教授",
+    "華夏科技大學 資訊管理系 助理教授",
+    "國立台灣科技大學 資通安全研究與教學中心 博士後研究人員"
+  ],
+  "journal": [
+    {
+      "論文名稱": "Dynamic Key Replacement Mechanism for Lightweight Internet of Things Microcontrollers to Resist Side-Channel Attacks",
+      "期刊名稱": "Future Internet (SCIE)",
+      "作者群": "Kuo, C. W., Wei, W., Lin, C. C., Hong, Y. Y., Liu, J. R., & Tsai, K. Y.*"
+    },
+    {
+      "論文名稱": "A Hierarchical Blockchain System for Social Economy Services",
+      "期刊名稱": "Electronics (SSCI)",
+      "作者群": "Chin, Y.C., Hsu, C.L., Lin, T.W., Tsai, K.Y.*"
+    },
+    {
+      "論文名稱": "Implementation and Analysis of Side-Channel Attack Mitigation Based on Autoencoder",
+      "期刊名稱": "Communications of the Chinese Cryptology and Information Security Association (ECONLIT)",
+      "作者群": "Kuo, C.W.*, Tsai, K.Y., Weng, W.M., Lin, C.C., Hong, Y.Y., and Wang, G.L."
+    },
+    {
+      "論文名稱": "Analyzing Image-based Political Propaganda in Referendum Campaigns: From Elements to Strategies",
+      "期刊名稱": "EPJ Data Science (SSCI,SCIE)",
+      "作者群": "Ming-Hung Wang, Wei-Yang Chang, Wei-Yang Chang, and Kuo-Yu Tsai"
+    },
+    {
+      "論文名稱": "Use improved KINECT to recognize whole-body images to enhance accuracy",
+      "期刊名稱": "The Visual Computer (SCIE)",
+      "作者群": "Chi Hung Wang, Kuo Yu Tsai, and Yuh Shyan Hwang"
+    },
+    {
+      "論文名稱": "Optimization of machine learning method combined with brain-computer interface rehabilitation system",
+      "期刊名稱": "The Journal of Physical Therapy Science (SCIE)",
+      "作者群": "Chi-Hung Wang and Kuo-Yu Tsai"
+    },
+    {
+      "論文名稱": "Medical Blockchain: Data Sharing and Privacy Preserving of EHR based on Smart Contract",
+      "期刊名稱": "Journal of Information Security and Applications (SCIE)",
+      "作者群": "Lee, J.S., Chew, C.J. , Liu, J.Y., Chen, Y.C., and Tsai, K.Y."
+    },
+    {
+      "論文名稱": "Preserving Indomitable DDoS Vitality through Resurrection Social Hybrid Botnet",
+      "期刊名稱": "Computers & Security (SCIE)",
+      "作者群": "Chew, C. J., Chen, Y. C, Lee, J.S.*, Chen, C. L., and Tsai, K. Y."
+    },
+    {
+      "論文名稱": "Three-factor UCSSO scheme With fast authentication and privacy protection for telecare medicine information systems",
+      "期刊名稱": "IEEE Access (SCIE)",
+      "作者群": "Chien-Lung Hsu, Tuan-Vinh Le, Mei-Chen Hsieh, Kuo-Yu Tsai, Chung-Fu Lu, and Tzu-Wei Lin"
+    },
+    {
+      "論文名稱": "Microstructure overlapping image application with optical decryption",
+      "期刊名稱": "Journal of the Optical Society of America A-OPTICS IMAGE SCIENCE AND VISION (SCIE)",
+      "作者群": "Chi-Hung Wang, Yuh-Shyan Hwang, Hsi-Chun Wang, Yu-Ling Wang, and Kuo-Yu Tsai"
+    },
+    {
+      "論文名稱": "Implementation of interactive games to a shoulder rehabilitation and evaluation system",
+      "期刊名稱": "Technology and Health Care (SCIE)",
+      "作者群": "Chi-Hung Wang, Yuh-Shyan Hwang, Yu-Luen Chen, Chih-Chen Chen, and Kuo-Yu Tsai"
+    },
+    {
+      "論文名稱": "A geographic map-based middleware framework to obfuscate smart vehicles’ locations",
+      "期刊名稱": "Multimedia Tools and Applications (SCIE)",
+      "作者群": "Jia-Ning Luo, Ming-Hour Yang, and Kuo-Yu Tsai"
+    },
+    {
+      "論文名稱": "Novel designated ownership transfer with grouping proof",
+      "期刊名稱": "Applied Sciences (SCIE)",
+      "作者群": "Kuo-Yu Tsai,Ming Hour Yang,Jia Ning Luo, andWei-Tim Liew"
+    },
+    {
+      "論文名稱": "Android App copy protection mechanism with semitrusted loader",
+      "期刊名稱": "Journal of Internet Technology (SCIE)",
+      "作者群": "Kuo-Yu Tsai"
+    },
+    {
+      "論文名稱": "Nuclear power plant construction scheduling problem with time restrictions: a particle swarm optimization approach",
+      "期刊名稱": "Science and Technology of Nuclear Installations (SCIE)",
+      "作者群": "Shang-Kuan Chen, Yen-Wu Ti, and Kuo-Yu Tsai"
+    },
+    {
+      "論文名稱": "Robust distributed reprogramming protocol of wireless sensor networks for healthcare systems",
+      "期刊名稱": "International Journal of Distributed Sensor Networks (SCIE)",
+      "作者群": "Kuo-Yu Tsai"
+    },
+    {
+      "論文名稱": "An efficient certificateless signature scheme without bilinear pairings",
+      "期刊名稱": "Multimedia Tools and Applications (SCIE)",
+      "作者群": "Kuo-Hui Yeh, Kuo-Yu Tsai , and  Chuan-Yen Fan"
+    },
+    {
+      "論文名稱": "Provably Secure Anonymous Authentication Scheme for Roaming Service in Global Mobility Networks",
+      "期刊名稱": "Journal of Information Science and Engineering (SCIE)",
+      "作者群": "Kuo-Yang Wu, Kuo-Yu Tsai, Tzong-Chen Wu, and Kouichi Sakurai"
+    },
+    {
+      "論文名稱": "Robust remote mutual authentication scheme with key agreement",
+      "期刊名稱": "Journal of Internet Technology (SCIE)",
+      "作者群": "Chih-Ho Chou, Kuo-Yu Tsai, and Tzong-Chen Wu"
+    },
+    {
+      "論文名稱": "A novel RFID tag identification protocol: adaptive n-resolution and k-collision arbitration",
+      "期刊名稱": "Wireless Personal Communications (SCIE)",
+      "作者群": "Kuo-Hui Yeh, Nai-Wei Lo, Kuo-Yu Tsai, Yingjiu Li, and Enrico Winata"
+    },
+    {
+      "論文名稱": "Analysis and design of smart card based authentication protocol",
+      "期刊名稱": "Journal of Zhejiang University-SCIENCE C (SCIE)",
+      "作者群": "Kuo-Hui Yeh, Kuo-Yu Tsai, and Jia-Li Hou"
+    },
+    {
+      "論文名稱": "Two ID-based authenticated schemes with key agreement for mobile environments",
+      "期刊名稱": "The Journal of Supercomputing (SCIE)",
+      "作者群": "Chih-Ho Chou, Kuo-Yu Tsai, and Chung-Fu Lu"
+    },
+    {
+      "論文名稱": "Efficient and secure three-party authenticated key exchange protocol for mobile environments",
+      "期刊名稱": "Journal of Zhejiang University SCIENCE C (SCIE)",
+      "作者群": "Chih-ho Chou, Kuo-yu Tsai, Tzong-chen Wu, and Kuo-hui Yeh"
+    },
+    {
+      "論文名稱": "A fair-exchange e-payment protocol for digital products with customer unlinkability",
+      "期刊名稱": "KSII Transactions on Internet and Information Systems (SCIE)",
+      "作者群": "Yi-Chung Yen, Tzong-Chen Wu, Nai-Wei Lo, and Kuo-Yu Tsai"
+    },
+    {
+      "論文名稱": "Efficient ECC-based key management scheme for secure multicast in heterogeneous sensor networks",
+      "期刊名稱": "ICIC Express Letters (EI)",
+      "作者群": "Chin-I Lee, Tzong-Chen Wu, Hung-Yu Chien, and Kuo-Yu Tsai"
+    },
+    {
+      "論文名稱": "Provably secure multisignature scheme with document decomposition and signatory anonymity",
+      "期刊名稱": "ICIC Express Letters (EI)",
+      "作者群": "Kuo-Yu Tsai, Tzong-Chen Wu, Chien-Lung Hsu, and Keith Martin"
+    },
+    {
+      "論文名稱": "New ECC-based remote user authentication scheme with key agreement using smart cards",
+      "期刊名稱": "Journal of Internet Technology (SCIE)",
+      "作者群": "Chien-Lung Hsu, and Kuo-Yu Tsai"
+    },
+    {
+      "論文名稱": "New secret key traitor tracing scheme with dispute settlement from bilinear maps",
+      "期刊名稱": "International Journal of Innovative Computing, Information and Control (No)",
+      "作者群": "Kuo-Yu Tsai, Tzong-Chen Wu, and Chien-Lung Hsu"
+    },
+    {
+      "論文名稱": "Self-certified multi-authenticated encryption scheme",
+      "期刊名稱": "Journal of Internet Technology (SCIE)",
+      "作者群": "Jia-Lun Tsai, Tzong-Chen Wu, and Kuo-Yu Tsai"
+    },
+    {
+      "論文名稱": "New dynamic ID authentication scheme using smart cards",
+      "期刊名稱": "International Journal of Communication Systems (SCIE)",
+      "作者群": "Jia‐Lun Tsai, Tzong‐Chen Wu, and  Kuo‐Yu Tsai"
+    },
+    {
+      "論文名稱": "A novel multisignature scheme for a special verifier group against clerk and rogue-key attacks",
+      "期刊名稱": "Journal of Zhejiang University SCIENCE C (SCIE)",
+      "作者群": "Jia-lun Tsai, Tzong-chen Wu, and Kuo-yu Tsai"
+    },
+    {
+      "論文名稱": "Mutual anonymity protocol with integrity protection for mobile peer-to-peer networks",
+      "期刊名稱": "International Journal of Security and Networks (EI)",
+      "作者群": "Kuoyu  Tsai ,  Chien-Lung Hsu, and Tzong-Chen Wu"
+    },
+    {
+      "論文名稱": "Recursive protocol for group-oriented authentication with key distribution",
+      "期刊名稱": "Journal of Systems and Software (SCIE)",
+      "作者群": "Tzong-Chen Wu , Thsia-Tzu Huang, Chien-Lung Hsu, and Kuo-Yu Tsai"
+    },
+    {
+      "論文名稱": "Convertible multi-authenticated encryption scheme",
+      "期刊名稱": "Information Sciences (SCIE)",
+      "作者群": "Tzong-Sun Wu, Chien-Lung Hsu , Kuo-Yu Tsai , Han-Yu Lin, and Tzong-Chen Wu"
+    },
+    {
+      "論文名稱": "Cryptanalysis and improvement of nonrepudiable threshold multi-proxy multi-signature scheme with shared verification",
+      "期刊名稱": "Information Sciences (SCIE)",
+      "作者群": "Chien-Lung Hsu, Kuo-Yu Tsai, and Pei-Ling Tsai"
+    }
+  ],
+  "journal2": [],
+  "conference": [
+    {
+      "論文名稱": "基於後量子密碼學之醫療資訊安全系統設計",
+      "會議名稱": "臺灣網際網路研討會",
+      "作者群": "蔡國裕*、林子煒、尤婕蓉、林玟欣"
+    },
+    {
+      "論文名稱": "適用於雲端資料保護之基於網格密碼學屬性加密協定",
+      "會議名稱": "第三十四屆全國資訊安全會議",
+      "作者群": "蔡國裕*、林子煒、尤婕蓉、林玟欣"
+    },
+    {
+      "論文名稱": "設計與建置利用開源結合AI之校園資安監測平台 -以臺灣中部某大學為例",
+      "會議名稱": "第三十四屆全國資訊安全會議",
+      "作者群": "林子煒*, 蔡國裕, 郭崇韋, 林玟欣, 李品臻, 梁瑋宸, 黃千芸, 范秩嘉, 陳宣廷, 王富貴"
+    },
+    {
+      "論文名稱": "Lightweight Privacy-protection RFID Protocol for IoT Environment",
+      "會議名稱": "The 7th International Conference on Knowledge Innovation and Invention 2024 (ICKII 2024)",
+      "作者群": "Kuo-Yu Tsai, You-Lin Wei, and Po-Shwn Chi"
+    },
+    {
+      "論文名稱": "Distributed Security Deployment Framework Based On Sdn And Zero Trust Architecture",
+      "會議名稱": "2024 Taiwan Summer Workshop on Information Management",
+      "作者群": "Chi, Y.M., Lin, T.W.*, Wang, F.G., Tsai, K.Y."
+    },
+    {
+      "論文名稱": "Multivariate Time-Series Anomaly Detection in IoT with a Bi-Dual GM GRU Autoencoder",
+      "會議名稱": "2024 IEEE 48th Annual Computers, Software, and Applications Conference (COMPSAC)",
+      "作者群": "Yuan-Cheng Yu, Yen-Chieh Ouyang, Ling-Wei Wu, Chun-An Lin, and Kuo-Yu Tsai"
+    },
+    {
+      "論文名稱": "An Approach of Privacy-Preserved PQC-based Cyber-threat Intelligence System",
+      "會議名稱": "2024 8th International Conference on Cryptography, Security and Privacy (CSP 2024)",
+      "作者群": "Chen, Y.J., Lin, T.W.*, Kuo, C.W., Tsai, K.Y."
+    },
+    {
+      "論文名稱": "Research and Analysis of the Effects of Different Shielding Materials on Resisting Side-Channel\nAttacks on IoT Device Microcontroller",
+      "會議名稱": "2024 8th International Conference on Cryptography, Security and Privacy (CSP 2024)",
+      "作者群": "Chung-Wei Kuo*, Chun-Chang Lin, Yu-Yi Hong, Jia-Ruei Liu, Chun-Hsiu Yeh, and Kuo-Yu Tsai"
+    },
+    {
+      "論文名稱": "WOTS-Based Conditional Privacy-Preserving Authentication Protocol for VANETs",
+      "會議名稱": "2024 8th International Conference on Cryptography, Security and Privacy (CSP)",
+      "作者群": "Kuo-Yu Tsai, Chung-Wei Kuo, Li-Chung Leung,  and Ying-Hsuan Yang"
+    },
+    {
+      "論文名稱": "Implementation and analysis of using autoencoder to suppress noise interference on side-channel attacks",
+      "會議名稱": "Security and Information Technologies with AI, Internet Computing and Big-data Applications - Proceedings of SITAIBA 2023",
+      "作者群": "Kuo-Yu Tsai, Chung-Wei Kuo*, Wei-Ming Weng, Guan-Ling Wang and Chun-Chang Lin"
+    },
+    {
+      "論文名稱": "基於DAE之旁通道攻擊實作與分析",
+      "會議名稱": "第三十三屆全國資訊安全會議",
+      "作者群": "翁偉銘、蔡國裕、郭崇韋"
+    },
+    {
+      "論文名稱": "Mobile Roadside Units Clustering Protocol based on Reputation Inventory",
+      "會議名稱": "Cryptology and Information Security Conference 2022",
+      "作者群": "應瑞傑、蔡國裕、李榮三、周澤捷"
+    },
+    {
+      "論文名稱": "短文本論述萃取演算法",
+      "會議名稱": "Cryptology and Information Security Conference 2022",
+      "作者群": "籃若瑜、蔡國裕、賴俊鳴 、王銘宏"
+    },
+    {
+      "論文名稱": "適用於IoT環境中具隱私保護之輕量化RFID協定之改進",
+      "會議名稱": "第三十屆全國資訊安全會議",
+      "作者群": "紀帛伸、蔡國裕、李榮三"
+    },
+    {
+      "論文名稱": "適用於物聯網之輕量化雙因子身分鑑別與金鑰交換方法與實作",
+      "會議名稱": "第三十屆全國資訊安全會議",
+      "作者群": "黃映榕、蔡國裕、 賀盛志"
+    },
+    {
+      "論文名稱": "基於區塊鏈與智能合約實現具隱密性之雙重隨意組合拍賣平台",
+      "會議名稱": "第三十屆全國資訊安全會議",
+      "作者群": "吳承翰、吳威震、蔡國 裕、洪緯哲、李榮三"
+    },
+    {
+      "論文名稱": "Practical authentication scheme preserving privacy protection for the Internet of things",
+      "會議名稱": "The 3rd International Conference on Security with Intelligent Computing and Big-data Services",
+      "作者群": "Kuo-Yu Tsai, Ching-Wei Lai, Chen-Hua Fu, Chi-Hung Wang, and Yuh-Shyan Hwang"
+    },
+    {
+      "論文名稱": "Preserving tenacious DDoS vitality via resurrection social hybrid botnet",
+      "會議名稱": "The 3rd International Conference on Security with Intelligent Computing and Big-data Services",
+      "作者群": "Jung-San Lee, Chit-Jie Chew, Ying-Chin Chen, Chih-Lung Chen, and Kuo-Yu Tsai"
+    },
+    {
+      "論文名稱": "Novel designated ownership transfer with grouping proof",
+      "會議名稱": "The 2017 IEEE Conference on Dependable and Secure Computing",
+      "作者群": "Wei-Tim Liew, Kuo-Yu Tsai, Jia-Ning Luo, and Ming-Hour Yang"
+    },
+    {
+      "論文名稱": "Survey on open source frameworks for big data analytics",
+      "會議名稱": "The Third International Conference on Electronics and Software Science",
+      "作者群": "Chao‐Hsu Chen, Chien-Lung Hsu, and Kuo-Yu Tsai"
+    },
+    {
+      "論文名稱": "Android App copy protection mechanism with semi-trusted loader",
+      "會議名稱": "17th International Conference on Advanced Communication Technology (ICACT)",
+      "作者群": "Kuo-Yu Tsai"
+    },
+    {
+      "論文名稱": "基於自我驗證公鑰系統之App所有權移轉驗證機制",
+      "會議名稱": "第二十五屆資訊安全會議",
+      "作者群": "魏儀淳、吳宗成、蔡國裕"
+    },
+    {
+      "論文名稱": "基於ID-Based聚合簽章之持有權移轉驗證機制",
+      "會議名稱": "第二十五屆資訊安全會議",
+      "作者群": "周詠晴、吳宗成、蔡國裕"
+    },
+    {
+      "論文名稱": "適用於Android App之動態金鑰管理機制",
+      "會議名稱": "第二十五屆資訊安全會議",
+      "作者群": "吳曼甄、蔡國裕、吳宗成"
+    },
+    {
+      "論文名稱": "基於時區授權存取控制之App移轉性驗證",
+      "會議名稱": "第二十五屆資訊安全會議",
+      "作者群": "徐振寧、吳宗成、蔡國裕"
+    },
+    {
+      "論文名稱": "Android App copy protection mechanism based on dynamic loading",
+      "會議名稱": "The 18th IEEE International Symposium on Consumer Electronics (ISCE)",
+      "作者群": "Kuo-Yu Tsai, Yu-Hsuan Chiu, and Tzong-Chen Wu"
+    },
+    {
+      "論文名稱": "A scalable single sign-on scheme for distributed networks",
+      "會議名稱": "第二十四屆資訊安全會議",
+      "作者群": "Kuo-Hui Yeh, Kuo-Yu Tsai, and Hao-Xiang Liao"
+    },
+    {
+      "論文名稱": "基於動態載入之Android App防複製攻擊機制",
+      "會議名稱": "第二十四屆全國資訊安全會議",
+      "作者群": "邱毓軒、蔡國裕、吳宗成"
+    },
+    {
+      "論文名稱": "基於用戶端難題之漫遊鑑別機制",
+      "會議名稱": "第二十四屆全國資訊安全會議",
+      "作者群": "余浩宇、吳宗成、蔡國裕"
+    },
+    {
+      "論文名稱": "基於動態主機配置協定之網路存取控管系統",
+      "會議名稱": "第二十四屆資訊安全會議",
+      "作者群": "葉崇志、吳宗成、蔡國裕"
+    },
+    {
+      "論文名稱": "具轉移次數限制之App應用服務可轉移性驗證機制",
+      "會議名稱": "第二十四屆資訊安全會議",
+      "作者群": "何文浩、吳宗成、蔡國裕"
+    },
+    {
+      "論文名稱": "Robust certificateless signature scheme without bilinear pairings",
+      "會議名稱": "2013 International Conference on IT Convergence and Security (ICITCS)",
+      "作者群": "Kuo-Hui Yeh, Kuo-Yu Tsai, Ren-Zong Kuo, and Tzong-Chen Wu"
+    },
+    {
+      "論文名稱": "Improvement of distributed reprogramming protocol for wireless sensor networks",
+      "會議名稱": "2013 National Computer Symposium",
+      "作者群": "Kuo-Yu Tsai, Hao-Yu Yu, and Chung-Fu Lu"
+    },
+    {
+      "論文名稱": "Cryptanalysis of a certificateless signature scheme without bilinear pairings",
+      "會議名稱": "Taiwan Academic Network Conference 2013",
+      "作者群": "Kuo-Hui Yeh, Kuo-Yu Tsai, and Chuan-Yen Fan"
+    },
+    {
+      "論文名稱": "Anonymous authentication scheme for large-scale mobile networks",
+      "會議名稱": "The FTRA 9th International Symposium on Wireless sensor network Technologies and Applications for Smart Space",
+      "作者群": "Kuo-Hui Yeh,Kuo-Yu Tsai, and Hung-Lun Chang"
+    },
+    {
+      "論文名稱": "Scalable and anonymous authentication scheme",
+      "會議名稱": "第二十三屆全國資訊安全會議",
+      "作者群": "Kuo-Hui Yeh, Kuo-Yu Tsai, Chung-Fu Lu, and Nai-Wei Lo"
+    }
+  ],
+  "book": [],
+  "patent": [],
+  "most": [
+    {
+      "name": "(中興)關鍵基礎設施的資訊安全防護機制設計－基於身分認證及可信度驗證之晶片安全設計方法(2/2)",
+      "schoolYear": "112"
+    },
+    {
+      "name": "具抗量子分析與旁通道攻擊之條件式隱私保護車載隨意行動網路之鑑別協定",
+      "schoolYear": "112"
+    },
+    {
+      "name": "基於區塊鏈技術實現數位樂譜版權公平交易之研究",
+      "schoolYear": "112"
+    },
+    {
+      "name": "(中興)人工智慧時代的硬體安全：威脅與防護(2/2)",
+      "schoolYear": "110"
+    },
+    {
+      "name": "具智能合約之長照2.0核銷系統之研究與設計",
+      "schoolYear": "109"
+    },
+    {
+      "name": "基於多重視覺秘密分享之友善OTP驗證系統",
+      "schoolYear": "109"
+    },
+    {
+      "name": "適用於長照2.0核銷系統之具文件割之多重簽章設計與實作",
+      "schoolYear": "108"
+    }
+  ],
+  "tech": [],
+  "induAca": [
+    "5G網路軟體安全開發流程文獻研究委託案 (2022-02 to 2022-04)",
+    "109 年度新型態資安實務示範課程發展計畫「進階資安課程—工業物聯網資安威脅檢測與防護」 (2020-03 to 2021-02)"
+  ],
+  "perform": [],
+  "reward": [
+    "逢甲大學論文著作獎勵傑出獎 (113, 2024-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "112學年度教學績優獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (111, 2022-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (110, 2021-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (110, 2021-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (110, 2021-11) - 逢甲大學"
+  ],
+  "speech": [],
+  "material": [],
+  "tal": []
+}

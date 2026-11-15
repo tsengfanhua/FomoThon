@@ -1,0 +1,497 @@
+{
+  "teacherId": "T04331",
+  "name": "徐士賢",
+  "mainUnit": "資訊電機學院",
+  "detailUnit": "電機工程學系",
+  "skill": [
+    "工業配電設計與控制Industrial Power Distribution and Control",
+    "智慧馬達故障診斷Motor Faults Diagnosis Using AI",
+    "智慧節能與控制Artificial Intelligence in Energy Saving and Control",
+    "船舶電力系統與設計Ship Power System and Design",
+    "電力系統接地技術Power System Grounding Technique",
+    "電池估測技術Battery Estimation Technique"
+  ],
+  "edu": [
+    "國立成功大學 系統及船舶機電系 博士",
+    "國立雲林科技大學 電研所 碩士"
+  ],
+  "fcuExp": [
+    "軍訓室 主任",
+    "校園安全暨災害防救通報處理中心 副執行秘書",
+    "生活輔導組 組長",
+    "智慧運輸與物流創新中心 顧問",
+    "逢甲大學帆宣智慧城市5G實驗室 研究員",
+    "永續發展與社會責任處 研究員",
+    "電機工程學系 助理教授"
+  ],
+  "currjob": [],
+  "otherExp": [
+    "中正國防幹部預備學校 中正預校 工程官"
+  ],
+  "journal": [
+    {
+      "論文名稱": "Development of a Data-Driven Master-Slave Charging and Discharging Strategy for Low-Carbon Grid-to-Vehicle (G2V) Trading Applications",
+      "期刊名稱": "Journal of Taiwan Energy (TSSCI)",
+      "作者群": "Chun-Wei Huang*, Hsing-Yu Lin, Shih-Hsien Hsu, and Ping-Hsin Lee"
+    },
+    {
+      "論文名稱": "A Method for Draining Leftover Energy From Waste Lead–Acid Batteries Prior to Recycling",
+      "期刊名稱": "IEEE TRANSACTIONS ON INDUSTRIAL INFORMATICS (SCIE)",
+      "作者群": "Chien-Hsing Lee, Wen-Chi Wang, Joe-Air Jiang, Shih-Hsien Hsu, Chen-Wei Lee"
+    },
+    {
+      "論文名稱": "Design and Implementation of a Residual Energy Recovery Device in Low-Carbon Recycling for Spent Batteries",
+      "期刊名稱": "Journal of Taiwan Energy (TSSCI)",
+      "作者群": "Shih-Hsien Hsu*, Lu-Ping Lin, Jhih-Siang Wang, Chen-Yin Chang, Yu-Wei Chang"
+    },
+    {
+      "論文名稱": "達利貨輪撞橋事故之探討與預防措施分析：以美國東岸巴爾的摩港為例",
+      "期刊名稱": "船舶科技 (EI)",
+      "作者群": "慈復明 ，蔡英憲，張慶原，朴鐘德，徐士賢，許智勇"
+    },
+    {
+      "論文名稱": "Machine Learning-Based Online Multi-Fault Diagnosis for IMs Using Optimization Techniques with Stator Electrical and Vibration Data",
+      "期刊名稱": "IEEE Transactions on Energy Conversion (SCIE)",
+      "作者群": "Shih-Hsien Hsu, Chien-Hsing, Lee, Wen-Fang Wu, Joe-Air Jiang"
+    },
+    {
+      "論文名稱": "Assessing High-Voltage Shore Connection Safety: An In-Depth Study of Grounding Practices in Shore Power Systems",
+      "期刊名稱": "Energies (SCIE)",
+      "作者群": "Shih-Hsien Hsu*, Fuming Tzu, Wei-Huang Chang, Yi-Dong Chen"
+    },
+    {
+      "論文名稱": "Navigating Safety and Compliance in HVSC Systems: A Comprehensive Exploration of IEC/IEEE 80005-1 Standards and the Guidelines of Ship Classification Societies",
+      "期刊名稱": "Journal of Marine Science and Engineering (SCIE)",
+      "作者群": "Shih-Hsien Hsu*, Fu-Ming Tzu, Yi-Dong Chen, Chun-Wei Huang"
+    },
+    {
+      "論文名稱": "Taguchi-Based Design of Planar Circular Coils Used for Wireless Charging of Mobile Phones",
+      "期刊名稱": "IEEE TRANSACTIONS ON CONSUMER ELECTRONICS (SCIE)",
+      "作者群": "Chien-Hsing Lee, Shao-Ting Ho, Shih-Hsien Hsu, and Joe-Air Jiang"
+    },
+    {
+      "論文名稱": "Non-Contact Optical Detection of Foreign Materials Adhered to Color Filter and Thin-Film Transistor",
+      "期刊名稱": "Micromachines (SCIE)",
+      "作者群": "Fu-Ming Tzu*, Shih-Hsien Hsu, Jung-Shun Chen"
+    },
+    {
+      "論文名稱": "Effect of Weighting Strategies on Taguchi-based Optimization of the Four-Stage Constant Current Charge Pattern",
+      "期刊名稱": "IEEE Transactions on Aerospace and Electronic Systems (SCIE)",
+      "作者群": "Chien-Hsing Lee, Chong-Yu Hsu, Shih-Hsien Hsu, Joe-Air Jiang"
+    },
+    {
+      "論文名稱": "Detection of Electrical Circuit in a Thin-Film-Transistor Liquid-Crystal Display Using a\nHybrid Optoelectronic Apparatus: An Array Tester and Automatic Optical Inspection",
+      "期刊名稱": "Micromachines (SCIE)",
+      "作者群": "Fu-Ming Tzu, Jung-Shun Chen, Shih-Hsien Hsu"
+    },
+    {
+      "論文名稱": "Modular Design and Implementation of an Automatic Power Factor Regulator for Energy Savings on Fishing\nVessels",
+      "期刊名稱": "JOURNAL OF MARINE SCIENCE AND TECHNOLOGY (SCIE)",
+      "作者群": "Chien-Hsing Lee, Shih-Hsien Hsu*, Joe-Air Jiang"
+    },
+    {
+      "論文名稱": "Reduction of NOx and SO2 Emissions by Shore Power Adoption",
+      "期刊名稱": "Aerosol and Air Quality Research (SCIE)",
+      "作者群": "Duy-Hieu Nguyen, Chitsan Lin, Nicholas Kiprotich Cheruiyot, Jen-Yu Hsu, Ming-Yuan Cho, Shih-Hsien Hsu, Chin-Ko Yeh"
+    },
+    {
+      "論文名稱": "Light Emitted Diode on Detecting Thin-Film Transistor through Line-Scan Photosensor",
+      "期刊名稱": "Micromachines (SCIE)",
+      "作者群": "Fu-Ming Tzu, Jung-Shun Chen, Shih-Hsien Hsu"
+    },
+    {
+      "論文名稱": "Simulation and Modal Analysis of Marine Diesel Engine Based on Finite Element Model and Vibration Sensor Data",
+      "期刊名稱": "Sensors and Materials (SCIE)",
+      "作者群": "Jianbin Liao, Hongliang Yu*, Jin Yan, and Shih-Hsien Hsu**"
+    },
+    {
+      "論文名稱": "Cycle Life Study of Li-Ion Batteries With an Aging-Level-Based Charging Method",
+      "期刊名稱": "IEEE TRANSACTIONS ON ENERGY CONVERSION (SCIE)",
+      "作者群": "Chien-Hsing Lee, Zheng-Yan Wu, Shih-Hsien Hsu, Joe-Air Jiang"
+    },
+    {
+      "論文名稱": "Implementation of a Smart Power Manager based on Green Energy for Applications in Aquaculture",
+      "期刊名稱": "Bimonthly Journal of Taiwan Power Electronics (http://www.taipea.org.tw/archive?func=select&id=3)",
+      "作者群": "Chien-Hsing Lee, Yu-Han Chang, Shih-Hsien Hsu*"
+    },
+    {
+      "論文名稱": "Taguchi-Based PSO for Searching an Optimal Four-Stage Charge Pattern of Li-Ion Batteries",
+      "期刊名稱": "Journal of Energy Storage (SCIE)",
+      "作者群": "Chien-Hsing Lee, Ting-Wei Chang, Shih-Hsien Hsu"
+    },
+    {
+      "論文名稱": "Implementation of an SOC-Based Four-Stage Constant Current Charger for Li-Ion Batteries",
+      "期刊名稱": "Journal of Energy Storage (SCIE)",
+      "作者群": "Chien-Hsing Lee, Ming-Yang Chena, Shih-Hsien Hsu"
+    },
+    {
+      "論文名稱": "Investigation of Power Energy Saving Technologies on Fishing Vessel",
+      "期刊名稱": "Fisheries Extension of COA, Executive Yuan R.O.C (https://www.fa.gov.tw/cht/PublicationsPubMonth/)",
+      "作者群": "Chien-Hsing Lee, Shih-Hsien Hsu"
+    },
+    {
+      "論文名稱": "Assessment of energy savings on power factor improvement of marine electrical systems",
+      "期刊名稱": "Journal of Marine Science and Technology (SCIE)",
+      "作者群": "Chien-Hsing Lee, Shih-Hsien Hsu"
+    },
+    {
+      "論文名稱": "Energy Savings on Frequency Regulation of Ship's Cooling Circuits",
+      "期刊名稱": "IEEE Transactions on Aerospace and Electronic Systems (SCIE)",
+      "作者群": "Chien-Hsing Lee, Shih-Hsien Hsu*, Chien-Nan Chen, Ming-Yuan Cho, Foung-Tang Lin, Tzu-Kuei Yeh, and Zhi-Wei Liu"
+    },
+    {
+      "論文名稱": "Prediction of Equivalent-Circuit Parameters for Double-Layer Capacitors Module",
+      "期刊名稱": "IEEE Transactions on Energy Conversion (SCIE)",
+      "作者群": "Chien-Hsing Lee, Shih-Hsien Hsu"
+    },
+    {
+      "論文名稱": "Simulation for Detecting Air-Gap Eccentricity in a Three-Phase Induction Motor",
+      "期刊名稱": "Journal of Taiwan Society of Naval Architects and Marine Engineers (EI)",
+      "作者群": "Chien-Hsing Lee, We-Je Liang, Shih-Hsien Hsu"
+    },
+    {
+      "論文名稱": "Investigation of Mass Eccentricity in a Squirrel Induction Motor by Measuring Dynamic Current Signature",
+      "期刊名稱": "Journal of Advanced Engineering (EI)",
+      "作者群": "Chien-Hsing Lee, We-Je Liang, Shih-Hsien Hsu"
+    },
+    {
+      "論文名稱": "Investigation of Allocation of Fault Current Limiters in a Shipboard Power System",
+      "期刊名稱": "Journal of Taiwan Society of Naval Architects and Marine Engineers (EI)",
+      "作者群": "C.-H. Lee, K.-D. Yang, S.-H. Hsu, and V.-L. Han"
+    },
+    {
+      "論文名稱": "Analysis of Generator Installation Capacity Selection and Energy Saving on Fishing Boats",
+      "期刊名稱": "Journal of Taiwan Society of Naval Architects and Marine Engineers (EI)",
+      "作者群": "C.-H. Lee, S.-H. Hsu* and C.-C Huang"
+    },
+    {
+      "論文名稱": "Analysis of Magnetic Fields and Harmonics Generated from Power Systems on Fishing Vessels",
+      "期刊名稱": "Journal of Taiwan Society of Naval Architects and Marine Engineers (EI)",
+      "作者群": "C.-H. Lee, S.-H. Hsu* and C.-C Huang"
+    }
+  ],
+  "journal2": [],
+  "conference": [
+    {
+      "論文名稱": "公共自行車能量回收系統研製",
+      "會議名稱": "中華民國第四十五屆電力工程研討會暨第二十一屆臺灣電力電子研討會",
+      "作者群": "余笠誠，陳耀昌，王柏翔，林琮憲，張承哲，徐士賢，謝振中"
+    },
+    {
+      "論文名稱": "基於一維卷積神經網路與遷移學習於三相感應馬達故障診斷",
+      "會議名稱": "第二十一屆台灣電力電子研討會暨 第四十五屆中華民國電力工程研討會",
+      "作者群": "陳柏凱，徐士賢*，林旻頡，李宸瑋"
+    },
+    {
+      "論文名稱": "整合卷積神經網路與遷移學習於三相鼠籠式感應馬達健康狀態的監測",
+      "會議名稱": "第二十一屆台灣電力電子研討會暨 第四十五屆中華民國電力工程研討會",
+      "作者群": "竇亭崴，李建興 ，李宸瑋 ， 徐士賢 *"
+    },
+    {
+      "論文名稱": "應用深度學習於鋰離子電池組之電量狀態估測",
+      "會議名稱": "第二十一屆台灣電力電子研討會暨第四十五屆中華民國電力工程研討會",
+      "作者群": "鄧愷彥，徐士賢* ，林旻頡，李宸瑋"
+    },
+    {
+      "論文名稱": "基於逆向分析與神經網路於圓柱形鋰離子電池核心溫度之預測",
+      "會議名稱": "第二十一屆台灣電力電子研討會暨 第四十五屆中華民國電力工程研討會",
+      "作者群": "孫晉轅，李建興，李宸瑋，徐士賢*"
+    },
+    {
+      "論文名稱": "Implementation a Multi-Fault Diagnosis System for Three-Phase Induction Motors \u000bUsing Machine Learning Techniques",
+      "會議名稱": "2024 IEEE International Conference on Recent Advances in Systems Science and Engineering (RASSE)",
+      "作者群": "Shih-Hsien Hsu*, Min-Chieh Lin, Chia-Chieh Tsai"
+    },
+    {
+      "論文名稱": "基於深度學習於感應馬達複合型故障診斷",
+      "會議名稱": "第4屆台灣智慧電動車及綠能科技研討會",
+      "作者群": "陳柏凱，王冠傑，李宸瑋，徐士賢*"
+    },
+    {
+      "論文名稱": "智慧型船舶主機排煙檢測與分析的設計",
+      "會議名稱": "第三十六屆中國造船暨輪機工程研討會、產學論壇暨國科會成果發表會",
+      "作者群": "許智勇,慈復明 *,徐士賢"
+    },
+    {
+      "論文名稱": "Development of an Intelligent Load Management Platform for Ocean Fishing Vessels Using Shipping 4.0",
+      "會議名稱": "44th Symposium on Electrical Power Engineering",
+      "作者群": "Jih-Shun Li, Min-Chech Lin, Shih-Hsien Hsu *, Chien-Hsing Lee"
+    },
+    {
+      "論文名稱": "A Brief Discussion on Induction Motor Fault Signal Acquisition and Intelligent Diagnosis",
+      "會議名稱": "44th Symposium on Electrical Power Engineering",
+      "作者群": "Guan-Jie Wang, Min-Chieh Lin, Pin-Yu Lu, Shih-Hsien Hsu*, Wen-Fung Liu"
+    },
+    {
+      "論文名稱": "Estimation of Lithium-ion Battery SoC using 1D Convolutional Neural Network",
+      "會議名稱": "44th Symposium on Electrical Power Engineering",
+      "作者群": "Yu-Wei Chen, Chih-Cheng Tsai,  Shih-Hsien Hsu*"
+    },
+    {
+      "論文名稱": "Motor vibration sensor based on a fiber Bragg grating",
+      "會議名稱": "Optics & Photonics Taiwan International Conference (OPTIC)",
+      "作者群": "Pin-Yu Lu, Wen-Fung Liu, Chia-Tse Hsu, Chih-Chuan Chiu, Yu-Chun Chang, Shih-Hsien Hsu, Yi-LinYu"
+    },
+    {
+      "論文名稱": "Motor Vibration Sensor Based on a Fiber Bragg Grating",
+      "會議名稱": "OPTIC'2022",
+      "作者群": "Pin-Yu Lu, Wen-Fung Liu, Chia-Tse Hsu, Chih-Chuan Chiu, Wei-Chen Li, Shih-Usien Hsu and Yu-Lin Yu"
+    },
+    {
+      "論文名稱": "Discussion on Regulations and Standards for Operation Safety of High Voltage Onshore Power Supply System",
+      "會議名稱": "43th Symposium on Electrical Power Engineering",
+      "作者群": "Wei-Huang Chang, Yi-Dong Chen,\t* Shih-Hsien Hsu, Fu-Ming Tzu"
+    },
+    {
+      "論文名稱": "Using PSO-Based PID Controller for Energy Saving of Sea Water Cooling Pumps on Ocean-Going Fishing Vessel",
+      "會議名稱": "43th Symposium on Electrical Power Engineering",
+      "作者群": "Yu-Wei Chen, Jih-Shun Li, Tsai-Chih Cheng, * Shis-Hsien Hsu, Chien-Hsing Lee"
+    },
+    {
+      "論文名稱": "Residual Capacity Estimation for Battery Energy Storage of Micro Grid with an Adaptive Coulomb-Counting Method",
+      "會議名稱": "2022 IEEE International Conference on Power Systems Technology (POWERCON).",
+      "作者群": "C.-W. Huang, Y.-C. Lin, H.-Y. Lin, and S.-H. Hsu"
+    },
+    {
+      "論文名稱": "Study of Planning and Promoting Onshore Power Supply in Port for Ships in Taiwan",
+      "會議名稱": "The 2021 International Conference and Annul Meeting of Chinese Institute of Transportation",
+      "作者群": "Shih-Hsien Hsu*， Yu-Ping Hsieh，Chitsan Lin ，Ming-Yuan Cho， Chien-Hsing Lee，Haw-Yang Sheu ，Jen-Yu Hsu ， Gau-Ming Hsien"
+    },
+    {
+      "論文名稱": "Multi-Fault Diagnosis in Induction Motor Using Machine Learning Algorithms",
+      "會議名稱": "The 42th Symposium on Electrical Power Engineering",
+      "作者群": "Min-Chieh Lin,\tChia-Chen Lai, Shis-Hsien Hsu*, Chien-Hsing Lee"
+    },
+    {
+      "論文名稱": "Investigation of regulations and standards for ship onshore power supply",
+      "會議名稱": "The 42th Symposium on Electrical Power Engineering",
+      "作者群": "Yi-Dong Chen , Shih-Hsien Hsu*"
+    },
+    {
+      "論文名稱": "DC Voltage Sensor of Fiber Bragg Grating",
+      "會議名稱": "Optics & Photonics Taiwan, International Conference",
+      "作者群": "Ting-Heng Wang, Cheng-Hsuan Tsai, Shih-Hsien Hsu, Wen-Fung Liu"
+    },
+    {
+      "論文名稱": "Adaptive Charging Method for Li-ion Batteries with Considering the Degree of Aging",
+      "會議名稱": "The 40th Symposium on Electrical Power Engineering",
+      "作者群": "Chien-Hsing Lee, Zheng-Yan Wu, Shih-Hsien Hsu"
+    },
+    {
+      "論文名稱": "Analysis of Four Stage Constant Current Charging Strategy for Li-Ion Batteries",
+      "會議名稱": "The 40th Symposium on Electrical Power Engineering",
+      "作者群": "Chien-Hsing Lee, Zheng-Yan Wu, Shih-Hsien Hsu"
+    },
+    {
+      "論文名稱": "Development of a Digital Dashboard Prototype Used for a Small Electric Boat",
+      "會議名稱": "The 29th Symposium on Naval Architects and Marine Engineers",
+      "作者群": "C. H. Lee, Y. X. Ou-Yang, S. H. Hsu, Y. Y. Tseng"
+    },
+    {
+      "論文名稱": "Comparison of Energy Savings in the Ship Seawater Cooling Pumps Applying Three-phase Induction Motor and Switched Reluctance Motor",
+      "會議名稱": "The 29th Symposium on Naval Architects and Marine Engineers",
+      "作者群": "C. H. Lee, S. H. Hsu*, H. J. Chou"
+    },
+    {
+      "論文名稱": "Assessment of a Set of Lithium-Ion Batteries Used for a Small Electric Boat",
+      "會議名稱": "The 37th Symposium on Electrical Power Engineering",
+      "作者群": "Chien-Hsing Lee, Yu-Yi Tseng, Shih-Hsien Hsu,"
+    },
+    {
+      "論文名稱": "功率因數改善於中小型船舶之節能研究",
+      "會議名稱": "第三十一屆電力工程研討會",
+      "作者群": "李建興，徐士賢，蕭舜文"
+    },
+    {
+      "論文名稱": "Implementation of a Supercapacitor Based Energy Storage System for Applications in a Fishing Vessel",
+      "會議名稱": "3rd International Forum on Systems and Mechatronics (IFSM)",
+      "作者群": "Chien-Hsing Lee, Shih-Hsien Hsu"
+    },
+    {
+      "論文名稱": "Investigation of Mass Eccentricity in a Squirrel Induction Motor by Measuring Dynamic Current Signature",
+      "會議名稱": "The 18th Conference of Automation Technology",
+      "作者群": "Chien-Hsing Lee, We-Je Liang, Shih-Hsien Hsu"
+    },
+    {
+      "論文名稱": "Investigation of Power Harmonics for an Electric Ship Based on Matlab GUI",
+      "會議名稱": "The 22th Symposium on Naval Architects and Marine Engineers",
+      "作者群": "Zhen-Lun Liao, Kung-Da Yang, Shih-Hsien Hsu, Chien-Hsing Lee"
+    },
+    {
+      "論文名稱": "Study of Using Supercapacitors as a Storage Device in Vessels",
+      "會議名稱": "The 30th Symposium on Electrical Power Engineering",
+      "作者群": "Chien-Hsing Lee, Shih-Hsien Hsu, Cheng-Lung Ho"
+    },
+    {
+      "論文名稱": "Fault Current Analysis of Ship Power System as Supplying by Alternative Maritime Power",
+      "會議名稱": "The 21th Symposium on Naval Architects and Marine Engineers",
+      "作者群": "Chien-Hsing Lee, Hsin-Yi Su, Shih-Hsien Hsu"
+    },
+    {
+      "論文名稱": "Study of Using Super Capacitors as Storage Devices in Ship Power",
+      "會議名稱": "The 21th Symposium on Naval Architects and Marine Engineers",
+      "作者群": "Chien-Hsing Lee, Shih-Hsien Hsu*, Cheng-Lung Ho"
+    },
+    {
+      "論文名稱": "Study of Electrical Safety on Fishing Vessels",
+      "會議名稱": "The 28th Symposium on Electrical Power Engineering",
+      "作者群": "Chien-Hsing Lee, Shih-Hsien Hsu*, Jun-Neng Liao"
+    },
+    {
+      "論文名稱": "Investigation of Exposure Standards of Electromagnetic Fields and Harmonics Generated from Power Systems of Fishing Vessels",
+      "會議名稱": "The 29th Symposium on Electrical Power Engineering",
+      "作者群": "Chien-Hsing Lee, Shih-Hsien Hsu"
+    },
+    {
+      "論文名稱": "Assessment of 2.5D Face Recognition",
+      "會議名稱": "The 16th Conference of Automation Technology",
+      "作者群": "Chien-Hsing Lee, Jun-Neng Liao, Shih-Hsien Hsu"
+    },
+    {
+      "論文名稱": "Lightning Simulation of Overhead Catenary System in a High Speed Railway",
+      "會議名稱": "The 26th Symposium on Electrical Power Engineering",
+      "作者群": "Chien-Hsing Lee, Po-Hsun Pan, Shih-Hsien Hsu"
+    },
+    {
+      "論文名稱": "Lightning Simulation of Overhead Transmission Lines",
+      "會議名稱": "The 26th Symposium on Electrical Power Engineering",
+      "作者群": "Chien-Hsing Lee, Shih-Hsien Hsu*, Po-Hsun Pan"
+    },
+    {
+      "論文名稱": "Simulation and Measurement of Magnetic Fields Exposure of 69kV and 11.4kV Power Transmission Lines",
+      "會議名稱": "The 25th Symposium on Electrical Power Engineering",
+      "作者群": "Chien-Hsing Lee, Shih-Hsien Hsu*, Po-Hsun Pan"
+    },
+    {
+      "論文名稱": "Enhancing Power Engineering Education Through the Use of Power System Simulator",
+      "會議名稱": "2001 IEEE/PES Winter Meeting",
+      "作者群": "Chien-Hsing Lee, Shih-Hsien Hsu"
+    }
+  ],
+  "book": [],
+  "patent": [
+    {
+      "title": "發明",
+      "desc": "混合式智慧型電源管理器與方法"
+    },
+    {
+      "title": "新型",
+      "desc": "船舶電力系統節能裝置"
+    }
+  ],
+  "most": [
+    {
+      "name": "太陽光發電廠之接地、絕緣與避雷保護系統綜合安全評估",
+      "schoolYear": "113"
+    },
+    {
+      "name": "結合混合儲能策略及能源管理系統實現無人機續航時間提升",
+      "schoolYear": "113"
+    },
+    {
+      "name": "以側邊研磨光纖為平台之光纖元件設計",
+      "schoolYear": "112"
+    },
+    {
+      "name": "基於LSTM與內阻法之電量估測實現多功能汰役電池能量回收裝置製作",
+      "schoolYear": "112"
+    },
+    {
+      "name": "船舶高壓岸電標準評析與接地系統安全研究",
+      "schoolYear": "110"
+    },
+    {
+      "name": "各類系統之感測器研究與開發－各類系統之感測器研究與開發",
+      "schoolYear": "106"
+    }
+  ],
+  "tech": [],
+  "induAca": [
+    "114年度專案研究 (2025-01 to 2025-12)",
+    "108年校園安全理論與實務研討會案 (2019-04 to 2019-11)"
+  ],
+  "perform": [],
+  "reward": [
+    "112年度電機工程學系期末專題競賽_智慧能源與電力領域第一名 (113, 2024-12) - 逢甲大學",
+    "113學年度教學績優獎 (113, 2024-11) - 逢甲大學",
+    "最佳論文獎 (113, 2024-11) - 台灣智慧電動車與綠能科技研討會",
+    "台灣智慧電動車與綠能科技研討會最佳論文 (113, 2024-11) - 台灣智慧電動車與綠能科技研討會",
+    "行政服務優良教師 (112, 2024-07) - 逢甲大學",
+    "112年度電機工程學系期末專題競賽_智慧能源與電力領域佳作 (112, 2023-12) - 逢甲大學",
+    "112年度電機工程學系期末專題競賽_智慧能源與電力領域第一名 (112, 2023-12) - 逢甲大學",
+    "110年度電機工程學系期末專題競賽_智慧能源與電力領域第一名 (111, 2022-12) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (111, 2022-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (111, 2022-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (111, 2022-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (111, 2022-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (111, 2022-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (111, 2022-11) - 逢甲大學",
+    "110學年度優良導師 (110, 2022-11) - 學生事務處",
+    "行政服務優良教師 (110, 2022-07) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (110, 2021-11) - 逢甲大學"
+  ],
+  "speech": [
+    {
+      "演講題目": "逢甲大學校系宣講-遇見逢甲",
+      "邀請單位": "逢甲大學招生事務處",
+      "演講日期": "2023-04"
+    },
+    {
+      "演講題目": "船舶電力系統的過去、現在與未來",
+      "邀請單位": "國立高雄科技大學輪機工程學系",
+      "演講日期": "2022-11"
+    },
+    {
+      "演講題目": "110學年度校務研究專案分享工作訪(二)",
+      "邀請單位": "逢甲大學研發處",
+      "演講日期": "2022-03"
+    },
+    {
+      "演講題目": "2022預見逢甲(Open House)_學系特色與應試重點說明新課綱學習歷程知能培訓",
+      "邀請單位": "逢甲大學招生事務處",
+      "演講日期": "2022-03"
+    },
+    {
+      "演講題目": "110學年度校務研究專案分享工作訪(一)",
+      "邀請單位": "逢甲大學研發處",
+      "演講日期": "2021-12"
+    },
+    {
+      "演講題目": "逢甲大學招生說明會-111學習歷程/尺規知能會議",
+      "邀請單位": "逢甲大學招生事務處",
+      "演講日期": "2021-08"
+    },
+    {
+      "演講題目": "109學年度校務研究專案成果檢視推動會議",
+      "邀請單位": "逢甲大學研發處",
+      "演講日期": "2021-05"
+    },
+    {
+      "演講題目": "109學年度跨領域分析成長社群計校務研究專案分享工作(三)",
+      "邀請單位": "逢甲大學研發處",
+      "演講日期": "2021-03"
+    },
+    {
+      "演講題目": "109學年度跨領域分析成長社群計校務研究專案分享工作(二)",
+      "邀請單位": "逢甲大學研發處",
+      "演講日期": "2021-02"
+    },
+    {
+      "演講題目": "109學年度跨領域分析成長社群計校務研究專案分享工作(一)",
+      "邀請單位": "逢甲大學研發處",
+      "演講日期": "2020-12"
+    },
+    {
+      "演講題目": "逢甲大學校系宣講-鼓山高中",
+      "邀請單位": "逢甲大學招生事務處",
+      "演講日期": "2020-12"
+    },
+    {
+      "演講題目": "逢甲大學校系宣講-美和高中",
+      "邀請單位": "逢甲大學招生事務處",
+      "演講日期": "2020-11"
+    }
+  ],
+  "material": [],
+  "tal": []
+}

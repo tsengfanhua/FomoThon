@@ -1,0 +1,783 @@
+{
+  "success": true,
+  "info": {
+    "yms_year": 114.0,
+    "yms_smester": 1.0,
+    "sub_id": "11730",
+    "cls_id": "CE12310",
+    "scr_dup": "001",
+    "sub_id3": "AUTO6918",
+    "cls_name": "自控碩一",
+    "cls_ename": "Master's Program, Department of Automatic Control Engineering",
+    "sub_name": "文獻研討",
+    "sub_ename": "LITERATURE DISCUSSION",
+    "scr_mso": "必修",
+    "scr_mso_en": "Required",
+    "scr_credit": 1.0,
+    "scr_periodly": "(二)06",
+    "scr_periodly_eng": "(Tue)06",
+    "lang_name": "中文                                                      ",
+    "lang_ename": "Chinese",
+    "scr_room": "資電418",
+    "scr_room_eng": "IEB418",
+    "scr_teacher": "廖本義",
+    "scr_teacher_eng": "Ben-Yi Liau",
+    "scr_selcode": "1788",
+    "scr_elearning": "全學期",
+    "scr_elearning_en": "Full semester",
+    "scr_hours": "1",
+    "scr_english": "N",
+    "unt_name": null,
+    "unt_ename": null,
+    "link_traminal": null,
+    "link_traminal_en": null,
+    "scr_ldl": "D",
+    "course_mk": "N",
+    "teams_mk": "N",
+    "sub_title": null,
+    "sub_title_en": null,
+    "sub_describe": null,
+    "sub_describe_en": null,
+    "hasDescription": null,
+    "hasInstructor": null,
+    "hasTA": null,
+    "hasTextBooks": null,
+    "hasReadings": null,
+    "hasiSoftwares": null,
+    "hasAssistSoftwares": null,
+    "hasObjective": null,
+    "hasWeeklyScds": null,
+    "hasGradeRules": null,
+    "hasGradeRuleDescribe": null,
+    "hasIntegrity": null,
+    "hasCoursePol": null,
+    "hasCourseRem": null,
+    "hasObjectiveReleation": null,
+    "hasTopicSdgs": null,
+    "hasSubTitleDesc": null
+  },
+  "subTitleDesc": null,
+  "description": {
+    "sub_id3": null,
+    "sub_name": "文獻研討",
+    "sub_ename": "LITERATURE DISCUSSION",
+    "describe_ch": "文獻研討訓練學生閱讀報告科技文獻，並完成碩士論文提案。本課程預期修習之研究生需學習組織研究動機、管理論文提案之範圍、架構研究計畫、論文格式和完成文獻報告寫作。",
+    "describe_eh": "The purpose of this course is to help students get through the thesis research process by focusing on a key step: designing a research proposal. Thesis proposal will be evaluated. The course is intended to help students organize ideas, manage the scope of proposal, plan for the research structure and format of a thesis. It gives students a chance to collaborate group persons others in the research field.",
+    "pre_subname": "",
+    "pre_sub_id3": null,
+    "pre_sub_ename": "",
+    "pre_describe": null,
+    "pre_describe_en": null,
+    "scr_credit": 1.0
+  },
+  "targets": [
+    {
+      "seq": 1,
+      "describe_ch": "瞭解文獻研討之設計與實務應用。",
+      "describe_en": "Comprehend the design and application of the literature survey."
+    },
+    {
+      "seq": 2,
+      "describe_ch": "能瞭解並說明如何口頭提報碩士論文。",
+      "describe_en": "Understand and explain how to present the master thesis orally."
+    },
+    {
+      "seq": 3,
+      "describe_ch": "能辨識與分析出在碩士論文之研究上可能遭遇之困難，並能清楚表達。",
+      "describe_en": " Distinguish and make clear statement where the difficulties of master thesis may be encountered."
+    },
+    {
+      "seq": 4,
+      "describe_ch": "能利用文獻研討，解決碩士論文之研究上可能遭遇之困難。",
+      "describe_en": "Using the literature survey to solve the difficulties of master thesis may be encountered."
+    },
+    {
+      "seq": 5,
+      "describe_ch": "培養溝通協調及團隊合作之能力。",
+      "describe_en": "Developing the ability of communication, coordination and teamwork."
+    }
+  ],
+  "teachersInfo": [
+    {
+      "cname": "廖本義",
+      "ename": "Ben-Yi Liau",
+      "period": "(Mon)03-04 資電420,(Tue)05  資電420,(Thu)04  資電420,(Fri)05  資電420",
+      "roletype": 0,
+      "email": "byliau@o365.fcu.edu.tw",
+      "ext": "3915"
+    }
+  ],
+  "textBooks": {
+    "yms_year": 114.0,
+    "yms_smester": 1.0,
+    "cls_id": "CE12310",
+    "sub_id": "11730",
+    "scr_dup": "001",
+    "tpb_seq": 1,
+    "tpb_book": "<div>「教科書」：IEEE Spectrum 等相關論文期刊</div>\n",
+    "tpb_book_en": " "
+  },
+  "readings": {
+    "yms_year": 114.0,
+    "yms_smester": 1.0,
+    "cls_id": "CE12310",
+    "sub_id": "11730",
+    "scr_dup": "001",
+    "tpc_seq": 1,
+    "tpc_book": "<div>「閱讀教材」：IEEE Spectrum 等相關論文期刊</div>\n",
+    "tpc_book_en": null
+  },
+  "iSoftwares": [],
+  "assistSoftwares": [],
+  "weeklyScds": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CE12310",
+      "sub_id": "11730",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "1",
+      "tpd_reading": "<div>科技論文研討與報告</div>\n",
+      "tpd_reading_en": " ",
+      "tpd_learn": "<div>教學與學習活動，是引導學生能達成該主題單元之學習成效為目的，來規劃及安排教學活動及學習任務，得含：\n<ul>\n\t<li>上課前學習：預習教材、閱讀先備知識內容等。</li>\n\t<li>課堂上學習：演講、分組討論、指定作業、口頭報告、繳交報告等。</li>\n\t<li>課後學習：閱讀輔助教材、線上模擬考、搜尋/調閱資料、小組討論、課後作業等。</li>\n</ul>\n</div>\n",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CE12310",
+      "sub_id": "11730",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "2",
+      "tpd_reading": "<div>科技論文研討與報告</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": "<div>教學與學習活動，是引導學生能達成該主題單元之學習成效為目的，來規劃及安排教學活動及學習任務，得含：\n<ul>\n\t<li>上課前學習：預習教材、閱讀先備知識內容等。</li>\n\t<li>課堂上學習：演講、分組討論、指定作業、口頭報告、繳交報告等。</li>\n\t<li>課後學習：閱讀輔助教材、線上模擬考、搜尋/調閱資料、小組討論、課後作業等。</li>\n</ul>\n</div>\n",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CE12310",
+      "sub_id": "11730",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "3",
+      "tpd_reading": "<div>科技論文研討與報告</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": "<div>教學與學習活動，是引導學生能達成該主題單元之學習成效為目的，來規劃及安排教學活動及學習任務，得含：\n<ul>\n\t<li>上課前學習：預習教材、閱讀先備知識內容等。</li>\n\t<li>課堂上學習：演講、分組討論、指定作業、口頭報告、繳交報告等。</li>\n\t<li>課後學習：閱讀輔助教材、線上模擬考、搜尋/調閱資料、小組討論、課後作業等。</li>\n</ul>\n</div>\n",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CE12310",
+      "sub_id": "11730",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "4",
+      "tpd_reading": "<div>科技論文研討與報告</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": "<div>教學與學習活動，是引導學生能達成該主題單元之學習成效為目的，來規劃及安排教學活動及學習任務，得含：\n<ul>\n\t<li>上課前學習：預習教材、閱讀先備知識內容等。</li>\n\t<li>課堂上學習：演講、分組討論、指定作業、口頭報告、繳交報告等。</li>\n\t<li>課後學習：閱讀輔助教材、線上模擬考、搜尋/調閱資料、小組討論、課後作業等。</li>\n</ul>\n</div>\n",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CE12310",
+      "sub_id": "11730",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "5",
+      "tpd_reading": "<div>科技論文研討與報告</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": "<div>教學與學習活動，是引導學生能達成該主題單元之學習成效為目的，來規劃及安排教學活動及學習任務，得含：\n<ul>\n\t<li>上課前學習：預習教材、閱讀先備知識內容等。</li>\n\t<li>課堂上學習：演講、分組討論、指定作業、口頭報告、繳交報告等。</li>\n\t<li>課後學習：閱讀輔助教材、線上模擬考、搜尋/調閱資料、小組討論、課後作業等。</li>\n</ul>\n</div>\n",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CE12310",
+      "sub_id": "11730",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "6",
+      "tpd_reading": "<div>科技論文研討與報告</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": "<div>教學與學習活動，是引導學生能達成該主題單元之學習成效為目的，來規劃及安排教學活動及學習任務，得含：\n<ul>\n\t<li>上課前學習：預習教材、閱讀先備知識內容等。</li>\n\t<li>課堂上學習：演講、分組討論、指定作業、口頭報告、繳交報告等。</li>\n\t<li>課後學習：閱讀輔助教材、線上模擬考、搜尋/調閱資料、小組討論、課後作業等。</li>\n</ul>\n</div>\n",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CE12310",
+      "sub_id": "11730",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "7-18",
+      "tpd_reading": "<div>科技論文研討與報告</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": "<div>教學與學習活動，是引導學生能達成該主題單元之學習成效為目的，來規劃及安排教學活動及學習任務，得含：\n<ul>\n\t<li>上課前學習：預習教材、閱讀先備知識內容等。</li>\n\t<li>課堂上學習：演講、分組討論、指定作業、口頭報告、繳交報告等。</li>\n\t<li>課後學習：閱讀輔助教材、線上模擬考、搜尋/調閱資料、小組討論、課後作業等。</li>\n</ul>\n</div>\n",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    }
+  ],
+  "gradeRules": [],
+  "gradeRuleDescribe": {
+    "yms_year": 114.0,
+    "yms_smester": 1.0,
+    "cls_id": "CE12310",
+    "sub_id": "11730",
+    "scr_dup": "001",
+    "tpa_score_new": "科技論文研討與報告",
+    "tpa_score_new_en": " ",
+    "course_pol": "課堂上的行為始終應要及時、要專業、要做好準備、要有禮貌。同學、教師或其他講師間，應保有彼此尊嚴和相互尊重，才能進行有效的學習。為了確保有利於學習環境，冀望每個人都能做到以下幾點，彼此遵守課堂行為規則，習慣禮貌的文化。\n1.學生應準時出席上課。如果您的上課時間，無法按時到課，請不要選課。 除非您生病或有緊急情況，否則應在上課前，要準時到達教室，並坐在位子上。如果您有某種原因必須提早下課，請提前告知我。\n2.所有學生在課堂上都應尊重每個人，並且在任何時候都應以合理、負責和禮貌的態度行事。\n3.上課時請勿講話、閱讀、睡覺或做其他非本課程相關作業，除分組進行討論外，否則應盡量減少邊際對話。如果您正坐在一個可能在上課時和您聊天的人旁邊，請移到另一個座位，以免您屈服於誘惑。\n4.當同學簡報或提問時，您應該專心地聆聽。當您簡報時，您應該面對自己的小組或全班同學大聲說話，讓同學能聽清楚。\n5.允許使用筆記型電腦或平板等載具，進行課堂記筆記，否則應將其收起。\n6.要確保在上課時，關閉手機、PDA等移動設備，並收起及保持靜音。\n7.不得戴耳機上課。\n8.穿著整潔，不要暴露。",
+    "course_pol_en": null,
+    "course_rem": null,
+    "course_rem_en": null,
+    "ais_meno": "<table>\n\t<tbody>\n\t\t<tr>\n\t\t\t<th>課堂規則</th>\n\t\t</tr>\n\t</tbody>\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<div>\n\t\t\t<div>\n\t\t\t<div>\n\t\t\t<div>為了確保有利於學習環境，冀望每個人都能做到以下幾點，彼此遵守課堂行為規則，習慣禮貌的文化。 學生應準時出席上課。如果您的上課時間，無法按時到課，請不要選課。 除非您生病或有緊急情況，否則應在上課前，要準時到達教室，並坐在位子上。如果您有某種原因必須提早下課，請提前告知我。 1.所有學生在課堂上都應尊重每個人，並且在任何時候都應以合理、負責和禮貌的態度行事。 2.上課時請勿講話、閱讀、睡覺或做其他非本課程相關作業，除分組進行討論外，否則應盡量減少邊際對話。如果您正坐在一個可能在上課時和您聊天的人旁邊，請移到另一個座位，以免您屈服於誘惑。 3.當同學簡報或提問時，您應該專心地聆聽。當您簡報時，您應該面對自己的小組或全班同學大聲說話，讓同學能聽清楚。 4.允許使用筆記型電腦或平板等載具，進行課堂記筆記，否則應將其收起。 5.要確保在上課時，關閉手機、PDA等移動設備，並收起及保持靜音。 6.不得戴耳機上課。 7.穿著整潔，不要暴露。</div>\n\t\t\t</div>\n\t\t\t</div>\n\t\t\t</div>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>\n",
+    "ais_meno_en": null,
+    "ilearn_mk": null
+  },
+  "integrity": {
+    "yms_year": 114.0,
+    "yms_smester": 1.0,
+    "cls_id": "CE12310",
+    "sub_id": "11730",
+    "scr_dup": "001",
+    "tpa_score_new": "科技論文研討與報告",
+    "tpa_score_new_en": " ",
+    "course_pol": "課堂上的行為始終應要及時、要專業、要做好準備、要有禮貌。同學、教師或其他講師間，應保有彼此尊嚴和相互尊重，才能進行有效的學習。為了確保有利於學習環境，冀望每個人都能做到以下幾點，彼此遵守課堂行為規則，習慣禮貌的文化。\n1.學生應準時出席上課。如果您的上課時間，無法按時到課，請不要選課。 除非您生病或有緊急情況，否則應在上課前，要準時到達教室，並坐在位子上。如果您有某種原因必須提早下課，請提前告知我。\n2.所有學生在課堂上都應尊重每個人，並且在任何時候都應以合理、負責和禮貌的態度行事。\n3.上課時請勿講話、閱讀、睡覺或做其他非本課程相關作業，除分組進行討論外，否則應盡量減少邊際對話。如果您正坐在一個可能在上課時和您聊天的人旁邊，請移到另一個座位，以免您屈服於誘惑。\n4.當同學簡報或提問時，您應該專心地聆聽。當您簡報時，您應該面對自己的小組或全班同學大聲說話，讓同學能聽清楚。\n5.允許使用筆記型電腦或平板等載具，進行課堂記筆記，否則應將其收起。\n6.要確保在上課時，關閉手機、PDA等移動設備，並收起及保持靜音。\n7.不得戴耳機上課。\n8.穿著整潔，不要暴露。",
+    "course_pol_en": null,
+    "course_rem": null,
+    "course_rem_en": null,
+    "ais_meno": "<table>\n\t<tbody>\n\t\t<tr>\n\t\t\t<th>課堂規則</th>\n\t\t</tr>\n\t</tbody>\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<div>\n\t\t\t<div>\n\t\t\t<div>\n\t\t\t<div>為了確保有利於學習環境，冀望每個人都能做到以下幾點，彼此遵守課堂行為規則，習慣禮貌的文化。 學生應準時出席上課。如果您的上課時間，無法按時到課，請不要選課。 除非您生病或有緊急情況，否則應在上課前，要準時到達教室，並坐在位子上。如果您有某種原因必須提早下課，請提前告知我。 1.所有學生在課堂上都應尊重每個人，並且在任何時候都應以合理、負責和禮貌的態度行事。 2.上課時請勿講話、閱讀、睡覺或做其他非本課程相關作業，除分組進行討論外，否則應盡量減少邊際對話。如果您正坐在一個可能在上課時和您聊天的人旁邊，請移到另一個座位，以免您屈服於誘惑。 3.當同學簡報或提問時，您應該專心地聆聽。當您簡報時，您應該面對自己的小組或全班同學大聲說話，讓同學能聽清楚。 4.允許使用筆記型電腦或平板等載具，進行課堂記筆記，否則應將其收起。 5.要確保在上課時，關閉手機、PDA等移動設備，並收起及保持靜音。 6.不得戴耳機上課。 7.穿著整潔，不要暴露。</div>\n\t\t\t</div>\n\t\t\t</div>\n\t\t\t</div>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>\n",
+    "ais_meno_en": null,
+    "ilearn_mk": null
+  },
+  "policy": {
+    "yms_year": 114.0,
+    "yms_smester": 1.0,
+    "cls_id": "CE12310",
+    "sub_id": "11730",
+    "scr_dup": "001",
+    "tpa_score_new": "科技論文研討與報告",
+    "tpa_score_new_en": " ",
+    "course_pol": "課堂上的行為始終應要及時、要專業、要做好準備、要有禮貌。同學、教師或其他講師間，應保有彼此尊嚴和相互尊重，才能進行有效的學習。為了確保有利於學習環境，冀望每個人都能做到以下幾點，彼此遵守課堂行為規則，習慣禮貌的文化。\n1.學生應準時出席上課。如果您的上課時間，無法按時到課，請不要選課。 除非您生病或有緊急情況，否則應在上課前，要準時到達教室，並坐在位子上。如果您有某種原因必須提早下課，請提前告知我。\n2.所有學生在課堂上都應尊重每個人，並且在任何時候都應以合理、負責和禮貌的態度行事。\n3.上課時請勿講話、閱讀、睡覺或做其他非本課程相關作業，除分組進行討論外，否則應盡量減少邊際對話。如果您正坐在一個可能在上課時和您聊天的人旁邊，請移到另一個座位，以免您屈服於誘惑。\n4.當同學簡報或提問時，您應該專心地聆聽。當您簡報時，您應該面對自己的小組或全班同學大聲說話，讓同學能聽清楚。\n5.允許使用筆記型電腦或平板等載具，進行課堂記筆記，否則應將其收起。\n6.要確保在上課時，關閉手機、PDA等移動設備，並收起及保持靜音。\n7.不得戴耳機上課。\n8.穿著整潔，不要暴露。",
+    "course_pol_en": null,
+    "course_rem": null,
+    "course_rem_en": null,
+    "ais_meno": "<table>\n\t<tbody>\n\t\t<tr>\n\t\t\t<th>課堂規則</th>\n\t\t</tr>\n\t</tbody>\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<div>\n\t\t\t<div>\n\t\t\t<div>\n\t\t\t<div>為了確保有利於學習環境，冀望每個人都能做到以下幾點，彼此遵守課堂行為規則，習慣禮貌的文化。 學生應準時出席上課。如果您的上課時間，無法按時到課，請不要選課。 除非您生病或有緊急情況，否則應在上課前，要準時到達教室，並坐在位子上。如果您有某種原因必須提早下課，請提前告知我。 1.所有學生在課堂上都應尊重每個人，並且在任何時候都應以合理、負責和禮貌的態度行事。 2.上課時請勿講話、閱讀、睡覺或做其他非本課程相關作業，除分組進行討論外，否則應盡量減少邊際對話。如果您正坐在一個可能在上課時和您聊天的人旁邊，請移到另一個座位，以免您屈服於誘惑。 3.當同學簡報或提問時，您應該專心地聆聽。當您簡報時，您應該面對自己的小組或全班同學大聲說話，讓同學能聽清楚。 4.允許使用筆記型電腦或平板等載具，進行課堂記筆記，否則應將其收起。 5.要確保在上課時，關閉手機、PDA等移動設備，並收起及保持靜音。 6.不得戴耳機上課。 7.穿著整潔，不要暴露。</div>\n\t\t\t</div>\n\t\t\t</div>\n\t\t\t</div>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>\n",
+    "ais_meno_en": null,
+    "ilearn_mk": null
+  },
+  "courseBankC": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CE12310",
+      "sub_id": "11730",
+      "scr_dup": "001",
+      "seq": 1,
+      "describe_ch": "瞭解文獻研討之設計與實務應用。",
+      "describe_en": "Comprehend the design and application of the literature survey.",
+      "core_id": "A",
+      "core_item": "建立工程專業與應用之研發能力。",
+      "core_eng": "To acquire the research capabilities of the engineering profession and its applications.",
+      "core_level": "1 ",
+      "strgy": [
+        "04",
+        "07",
+        "08",
+        "09"
+      ],
+      "evalb": [
+        "K2",
+        "K3"
+      ],
+      "strgy_name": [
+        "專題討論",
+        "指定閱讀",
+        "書面報告",
+        "口頭報告"
+      ],
+      "strgy_name_en": [
+        "Seminar",
+        "Extensive reading",
+        "Written report",
+        "Oral report"
+      ],
+      "evalb_name": [
+        "口頭報告",
+        "上課即時問與答"
+      ],
+      "evalb_name_en": [
+        "Oral presentation",
+        "In-class oral assessment"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CE12310",
+          "sub_id": "11730",
+          "scr_dup": "001",
+          "seq": 1,
+          "strgy_id": "04",
+          "strgy_name": null,
+          "strgy_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CE12310",
+          "sub_id": "11730",
+          "scr_dup": "001",
+          "seq": 1,
+          "strgy_id": "07",
+          "strgy_name": null,
+          "strgy_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CE12310",
+          "sub_id": "11730",
+          "scr_dup": "001",
+          "seq": 1,
+          "strgy_id": "08",
+          "strgy_name": null,
+          "strgy_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CE12310",
+          "sub_id": "11730",
+          "scr_dup": "001",
+          "seq": 1,
+          "strgy_id": "09",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CE12310",
+          "sub_id": "11730",
+          "scr_dup": "001",
+          "seq": 1,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "K2",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CE12310",
+          "sub_id": "11730",
+          "scr_dup": "001",
+          "seq": 1,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "K3",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CE12310",
+      "sub_id": "11730",
+      "scr_dup": "001",
+      "seq": 2,
+      "describe_ch": "能瞭解並說明如何口頭提報碩士論文。",
+      "describe_en": "Understand and explain how to present the master thesis orally.",
+      "core_id": "C",
+      "core_item": "具備發掘問題、獨立思考、分析辯證、研究創新、論文發表與專利分析之能力。",
+      "core_eng": "The ability of mining problems, independently thinking, analysis and dialectics, research, innovation, article publishing and patent analysis.",
+      "core_level": "2 ",
+      "strgy": [
+        "04"
+      ],
+      "evalb": [
+        "K2"
+      ],
+      "strgy_name": [
+        "專題討論"
+      ],
+      "strgy_name_en": [
+        "Seminar"
+      ],
+      "evalb_name": [
+        "口頭報告"
+      ],
+      "evalb_name_en": [
+        "Oral presentation"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CE12310",
+          "sub_id": "11730",
+          "scr_dup": "001",
+          "seq": 2,
+          "strgy_id": "04",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CE12310",
+          "sub_id": "11730",
+          "scr_dup": "001",
+          "seq": 2,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "K2",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CE12310",
+      "sub_id": "11730",
+      "scr_dup": "001",
+      "seq": 3,
+      "describe_ch": "能辨識與分析出在碩士論文之研究上可能遭遇之困難，並能清楚表達。",
+      "describe_en": " Distinguish and make clear statement where the difficulties of master thesis may be encountered.",
+      "core_id": "B",
+      "core_item": "具備獨立陳述問題、訂定規範、建構系統、分析設計、驗證結果等規劃及執行能力 。",
+      "core_eng": "To acquire planning and implementation capabilities for describing problems using innovative thinking, setting standards, constructing systems,designing analyses, and verifying results.",
+      "core_level": "4 ",
+      "strgy": [
+        "04"
+      ],
+      "evalb": [
+        "K2"
+      ],
+      "strgy_name": [
+        "專題討論"
+      ],
+      "strgy_name_en": [
+        "Seminar"
+      ],
+      "evalb_name": [
+        "口頭報告"
+      ],
+      "evalb_name_en": [
+        "Oral presentation"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CE12310",
+          "sub_id": "11730",
+          "scr_dup": "001",
+          "seq": 3,
+          "strgy_id": "04",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CE12310",
+          "sub_id": "11730",
+          "scr_dup": "001",
+          "seq": 3,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "K2",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CE12310",
+      "sub_id": "11730",
+      "scr_dup": "001",
+      "seq": 4,
+      "describe_ch": "能利用文獻研討，解決碩士論文之研究上可能遭遇之困難。",
+      "describe_en": "Using the literature survey to solve the difficulties of master thesis may be encountered.",
+      "core_id": "D",
+      "core_item": "具備使用自動控制工程相關分析、設計與測試軟體以解決問題之能力。",
+      "core_eng": "To acquire capabilities in conducting analysis and design, and using automatic control engineering testing software to address engineering problems.",
+      "core_level": "5 ",
+      "strgy": [
+        "04",
+        "08"
+      ],
+      "evalb": [
+        "D4"
+      ],
+      "strgy_name": [
+        "專題討論",
+        "書面報告"
+      ],
+      "strgy_name_en": [
+        "Seminar",
+        "Written report"
+      ],
+      "evalb_name": [
+        "作業"
+      ],
+      "evalb_name_en": [
+        "Homework"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CE12310",
+          "sub_id": "11730",
+          "scr_dup": "001",
+          "seq": 4,
+          "strgy_id": "04",
+          "strgy_name": null,
+          "strgy_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CE12310",
+          "sub_id": "11730",
+          "scr_dup": "001",
+          "seq": 4,
+          "strgy_id": "08",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CE12310",
+          "sub_id": "11730",
+          "scr_dup": "001",
+          "seq": 4,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D4",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CE12310",
+      "sub_id": "11730",
+      "scr_dup": "001",
+      "seq": 5,
+      "describe_ch": "培養溝通協調及團隊合作之能力。",
+      "describe_en": "Developing the ability of communication, coordination and teamwork.",
+      "core_id": "F",
+      "core_item": "養成自我認知、溝通協調、團隊合作及專業倫理之能力。",
+      "core_eng": "To develop broad international perspectives through participating in domestic and international academic conferences, and enterprise visiting .",
+      "core_level": "5 ",
+      "strgy": [
+        "10"
+      ],
+      "evalb": [
+        "D4"
+      ],
+      "strgy_name": [
+        "小組討論及活動"
+      ],
+      "strgy_name_en": [
+        "Group activity & discussion"
+      ],
+      "evalb_name": [
+        "作業"
+      ],
+      "evalb_name_en": [
+        "Homework"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CE12310",
+          "sub_id": "11730",
+          "scr_dup": "001",
+          "seq": 5,
+          "strgy_id": "10",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CE12310",
+          "sub_id": "11730",
+          "scr_dup": "001",
+          "seq": 5,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D4",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    }
+  ],
+  "topicSdgs": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CE12310",
+      "sub_id": "11730",
+      "scr_dup": "001",
+      "sdgs_seq": 4,
+      "main_related": "Y",
+      "ind_related": "N",
+      "iss_name": "社會進步面",
+      "iss_ename": "Social Progress",
+      "content_name": "提供全民教育",
+      "content_ename": "Quality Education"
+    }
+  ],
+  "learnHours": {
+    "total": 0.0,
+    "tpdOnlineAsyTotal": 0.0,
+    "tpdOnlineSynTotal": 0.0,
+    "tpdOnlineFaceTotal": 0.0,
+    "asySynInTotalPercent": 0.0
+  },
+  "crossVerYear": 114
+}

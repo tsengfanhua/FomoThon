@@ -1,0 +1,150 @@
+{
+  "teacherId": "T08040",
+  "name": "蔡明翰",
+  "mainUnit": "資訊電機學院",
+  "detailUnit": "資訊工程學系",
+  "skill": [
+    "電腦視覺Computer Vision",
+    "電腦圖學Computer Graphic",
+    "虛擬實境Virtual Reality",
+    "擴增實境Augmented Reality"
+  ],
+  "edu": [
+    "國立交通大學 資訊科學與工程研究所 博士",
+    "國立交通大學 多媒體工程研究所 碩士",
+    "國立交通大學 資訊工程學系 學士"
+  ],
+  "fcuExp": [
+    "資訊服務中心 主任",
+    "資訊工程學系 助理教授",
+    "資訊工程學系 副教授"
+  ],
+  "currjob": [],
+  "otherExp": [
+    "國立交通大學 機械工程學系 博士後研究人員"
+  ],
+  "journal": [
+    {
+      "論文名稱": "Design and Evaluation of an Asynchronous VR Exploration System for Architectural Design Discussion Content",
+      "期刊名稱": "Virtual Worlds(companion journal of Applied Sciences) (SSCI)",
+      "作者群": "Hsuan-Ming Chang, Ting-Wei Hsu, Ming-Han Tsai, Sabarish V. BBabu, Jung-Hong Chuang*"
+    },
+    {
+      "論文名稱": "Development of a Lightweight Convolutional Neural Network-Based Visual Model for Sediment Concentration Prediction by Incorporating the IoT Concept",
+      "期刊名稱": "Journal of Hydroinformatics (SCIE)",
+      "作者群": "Cheng-Chia Huang*, Che-Cheng Chang, Chiao-Ming Chang and Ming-Han Tsai"
+    },
+    {
+      "論文名稱": "Attention-Based Background/Foreground Monocular Depth Prediction Model Using Image Segmentation",
+      "期刊名稱": "Applied Sciences (SCIE)",
+      "作者群": "Ting-Hui Chiang*, Meng-Hsiu Chiang, Ming-Han Tsai and Che-Cheng Chang"
+    },
+    {
+      "論文名稱": "Comparative Evaluation of Different Following Mechanisms in VR Guided Tour: A Preliminary Study",
+      "期刊名稱": "Applied Sciences (SCIE)",
+      "作者群": "Hung-Yu Tsai, Ming-Han Tsai*, Ting-Hui Chiang and Che-Cheng Chang"
+    },
+    {
+      "論文名稱": "Utilizing Ensemble Learning to Improve the Distance Information for UWB Positioning",
+      "期刊名稱": "Applied Sciences (SCIE)",
+      "作者群": "Che-Cheng Chang*, Yee-Ming Ooi, Shih-Tung Tsui, Ting-Hui Chiang and Ming-Han Tsai"
+    },
+    {
+      "論文名稱": "Design of Multi-Receptive Field Fusion-Based Network for Surface Defect Inspection on Hot-Rolled Steel Strip Using Lightweight Dataset",
+      "期刊名稱": "Applied Sciences (SCIE)",
+      "作者群": "Wei-Peng Tang, Sze-Teng Liong, Chih-Cheng Chen, Ming-Han Tsai, Ping-Cheng Hsieh, Yu-Ting Tsai, Shih-Hsin Chen and Kun-Ching Wang*"
+    },
+    {
+      "論文名稱": "Human face aging with guided prediction and detail synthesis",
+      "期刊名稱": "Multimedia Tools and Applications (SCIE)",
+      "作者群": "Ming-Han Tsai, Yen-Kai Liao, I-Chen Lin"
+    }
+  ],
+  "journal2": [],
+  "conference": [
+    {
+      "論文名稱": "Intelligent Fault Diagnosis Based on Multi-Resolution and One-Dimension Convolutional Neural Networks",
+      "會議名稱": "2021 International Conference on System Science and Engineering (ICSSE)",
+      "作者群": "Po-Yi Liu, Chih-Cheng Chen, Sze-Teng Liong, Ming-Han Tsai, Ping-Cheng Hsieh, Kun-Ching Wang"
+    },
+    {
+      "論文名稱": "An Evaluation of the Efficiency of Personal Space Contemporary Pointing versus Controller based Spatial Selection in Virtual Reality",
+      "會議名稱": "ACM Symposium on Applied Perception 2020",
+      "作者群": "Sabarish Babu, Ming-Han Tsai, Ting-Wei Hsu and Jung-Hong Chuang"
+    },
+    {
+      "論文名稱": "Design and Initial Evaluation of a VR based Immersive and Interactive Architectural Design Discussion System",
+      "會議名稱": "IEEE Virtual Reality",
+      "作者群": "Ting-Wei Hsu,Ming-Han Tsai,Sabarish V. Babu,Pei-Hsien Hsu,Hsuan-Ming Chang,Wen-Chieh Lin,Jung-Hong Chuang"
+    },
+    {
+      "論文名稱": "Efficient Recognition and 6D Pose Tracking of Markerless Objects with RGB-D and Motion Sensors on Mobile Devices",
+      "會議名稱": "14th VISIGRAPP 2019",
+      "作者群": "Sheng-Chu Huang, Wei-Lun Huang, Yi-Cheng Lu, Ming-Han Tsai, I-Chen Lin, Yo-Chung Lau, Hsu-Hang Liu"
+    },
+    {
+      "論文名稱": "Retrieving 3D Objects with Articulated Limbs by Depth Image Input",
+      "會議名稱": "13th VISIGRAPP 2018",
+      "作者群": "Junyang Lin, May-Fang She, Ming-Han Tsai, I-Chen Lin, Yo-Chung Lau, Hsu-Hang Liu"
+    },
+    {
+      "論文名稱": "VR lighting design",
+      "會議名稱": "SIGGRAPH ASIA 2017 Poster",
+      "作者群": "Chi-Yang Lee, Hsuan-Ming Chang, Chun-Heng Lin, Ming-Han Tsai, Wen-Chieh Lin, Pei-Hsien Hsu, I-Chen Lin, Yu-Shuen Wang, Jung-Hong Chuang"
+    },
+    {
+      "論文名稱": "Immersive VR environment for architectural design education",
+      "會議名稱": "SIGGRAPH ASIA 2017 Poster",
+      "作者群": "Chia-Hung Tsou, Ting-Wei Hsu, Chun-Heng Lin, Ming-Han Tsai, Pei-Hsien Hsu, I-Chen Lin, Yu-Shuen Wang, Wen-Chieh Lin, Jung-Hong Chuang"
+    }
+  ],
+  "book": [],
+  "patent": [],
+  "most": [
+    {
+      "name": "運用虛擬實境於斜視之測量與訓練",
+      "schoolYear": "113"
+    },
+    {
+      "name": "以水果品質篩選器為實例之MLOps應用",
+      "schoolYear": "112"
+    },
+    {
+      "name": "後疫情時期居家環境的空間利用極大化 - 利用虛擬實境和混合實境",
+      "schoolYear": "110"
+    },
+    {
+      "name": "工具人Camera",
+      "schoolYear": "109"
+    }
+  ],
+  "tech": [
+    {
+      "論文名稱": "3D Articulated Model Retrieval Using Depth Image Input (2018-10)",
+      "書名": "Computer Vision, Imaging and Computer Graphics Theory and Applications, Communications in Computer and Information Science 997",
+      "作者群": "Junyang Lin, May-Fang She, Ming-Han Tsai, I-Chen Lin, Yo-Chung Lau, Hsu-Hang Liu"
+    }
+  ],
+  "induAca": [
+    "瑕疵檢測平臺開發 (2024-03 to 2025-03)",
+    "擴增實境應用於智慧倉儲管理系統之研究 (2022-08 to 2023-03)",
+    "5G網路軟體安全開發流程文獻研究委託案 (2022-02 to 2022-04)",
+    "109年度智慧創新跨域人才培育聯盟計畫(C類)—開源創作分項：自動化軟體品質檢測開源工具 (2020-02 to 2021-01)"
+  ],
+  "perform": [],
+  "reward": [
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (111, 2022-11) - 逢甲大學"
+  ],
+  "speech": [
+    {
+      "演講題目": "從DevOps到DevSecOps: 安全左移要移到哪裡去",
+      "邀請單位": "商業周刊",
+      "演講日期": "2022-04"
+    }
+  ],
+  "material": [],
+  "tal": []
+}

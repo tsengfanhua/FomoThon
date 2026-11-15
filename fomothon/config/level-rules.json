@@ -1,0 +1,44 @@
+{
+  "version": "2026-11-12",
+  "note": "統一等級規則（可調整）。同一 Skill 的多筆證據不疊加：保留全部證據，取單筆最高分作為技能分數。自述證據設有上限並標示「待驗證」。英文採 CEFR，不以修課成績推估。",
+  "bands": [
+    {"id": "basic", "label": "初階", "min": 60, "max": 70},
+    {"id": "intermediate", "label": "中階", "min": 70, "max": 85},
+    {"id": "advanced", "label": "進階", "min": 85, "max": 100}
+  ],
+  "aggregation": "max",
+  "selfReportedCap": 69,
+  "inferredCap": 69,
+  "rollupFactor": 0.9,
+  "course": {
+    "passScore": 60,
+    "relevanceFloor": 0.7,
+    "coverageWeight": 0.2,
+    "practiceWeight": 0.1,
+    "inferredRelevance": 0.75,
+    "weekSaturation": 2.5,
+    "weekShareWeight": 0.7,
+    "objectiveWeight": 0.3,
+    "minCoverage": 0.09,
+    "maxSkillsPerCourse": 5
+  },
+  "evidenceScore": {
+    "certificate": {"verified": 80, "self_reported": 65},
+    "portfolio": {"verified": 78, "self_reported": 62},
+    "competition": {"verified": 82, "self_reported": 65}
+  },
+  "cefr": {
+    "order": ["A1", "A2", "B1", "B2", "C1", "C2"],
+    "score": {"A1": 40, "A2": 55, "B1": 65, "B2": 78, "C1": 88, "C2": 96},
+    "toeic": [[945, "C1"], [785, "B2"], [550, "B1"], [225, "A2"], [120, "A1"]],
+    "gept": {"初級": "A2", "中級": "B1", "中高級": "B2", "高級": "C1", "優級": "C2"},
+    "sourceNote": "TOEIC 對照採 ETS 公布之聽讀總分與 CEFR 對照；全民英檢對照採語言訓練測驗中心公布之級數對照。正式上線前請再核對官方最新版本。"
+  },
+  "matching": {
+    "validScore": 60,
+    "targetValid": 3,
+    "maxRounds": 3,
+    "unconfirmedDiscount": 0.85,
+    "topCompetitions": 3
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "teacherId": "T00069",
+  "name": "許佳璵",
+  "mainUnit": "工程與科學學院",
+  "detailUnit": "應用數學系",
+  "skill": [
+    "生物數學mathematical biology",
+    "計算科學computational science",
+    "偏微分方程partial differential equations",
+    "流體力學fluid dynamics"
+  ],
+  "edu": [
+    "美國華盛頓州立大學 數學所 博士",
+    "私立輔仁大學 數學所 碩士"
+  ],
+  "fcuExp": [
+    "微積分教學中心 助理教授",
+    "國際科技與管理學院 助理教授",
+    "微積分教學中心 助理教授",
+    "應用數學系 助理教授"
+  ],
+  "currjob": [],
+  "otherExp": [
+    "國立勤益大學 資管系 助理教授",
+    "美國杜蘭大學 科學計算中心 博士後研究人員"
+  ],
+  "journal": [
+    {
+      "論文名稱": "Second-ordered parametric duality for the multi-objective programming problem in complex space",
+      "期刊名稱": "Axioms (SCIE)",
+      "作者群": "Chia-Yu Hsu, Tone-Yau Huang*"
+    },
+    {
+      "論文名稱": "Periodically Pulsed Immunotherapy in a Mathematical Model of Tumor, CD4^+ T Cells, and Antitumor Cytokine Interactions",
+      "期刊名稱": "Computational and Mathematical Methods in Medicine (SCIE)",
+      "作者群": "Hsiu-Chuan Wei, Jui-Ling Yu*, and Chia-Yu Hsu"
+    },
+    {
+      "論文名稱": "Role of body stiffness in undulatory swimming: Insights from robotic and computational models",
+      "期刊名稱": "Physical Review Fluids (SCIE)",
+      "作者群": "Eric D. Tytell, Megan C. Leftwich, Chia-Yu Hsu, Boyce E. Griffith, Avis H. Cohen, Alexander J. Smits, Christina Hamlet, and Lisa J. Fauci"
+    }
+  ],
+  "journal2": [],
+  "conference": [
+    {
+      "論文名稱": "Applications of the Immersed Boundary Adaptive Mesh Refinement Method on the Interface Problem",
+      "會議名稱": "第十屆EASIAM會議",
+      "作者群": "Chia-Yu Hsu, Eric D. Tytell, Lisa J. Fauci"
+    }
+  ],
+  "book": [],
+  "patent": [],
+  "most": [
+    {
+      "name": "一個研究鰻類魚群游現象的數值計算模型",
+      "schoolYear": "107"
+    },
+    {
+      "name": "以自適應網格細化沉浸邊界法解出蓋斑鬥魚側鰭自主性拍動行為在周遭流體中所生成之影響",
+      "schoolYear": "103"
+    },
+    {
+      "name": "自適應網格細化沉浸邊界法在三維度的七鰓鰻游動模型上之應用",
+      "schoolYear": "102"
+    },
+    {
+      "name": "一個藉自適應網格細化沉浸邊界法解出具不可溶微粒之界面流模型",
+      "schoolYear": "101"
+    },
+    {
+      "name": "自適應網格細化沉浸邊界法(IBAMR)(A)在七鰓鰻(Lamprey)游行模型之應用(B)在具有不可溶微粒之界面流體模型之應用",
+      "schoolYear": "100"
+    }
+  ],
+  "tech": [],
+  "induAca": [],
+  "perform": [],
+  "reward": [
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (106, 2017-11) - 逢甲大學",
+    "逢甲大學優良教材獎勵優等獎 (104, 2015-11) - 逢甲大學"
+  ],
+  "speech": [],
+  "material": [
+    "SPOC：微積分 (微積分(一) 大一統籌科目)－積分及其應用單元\t應用數學系\t曾勵新、許佳璵、黃同瑤、魏傳昇、張其棟、張志鴻\t教學影音",
+    "SPOC：微積分 (微積分(一) 大一統籌科目)-「微分導數及其相關性質」單元\t應用數學系\t曾勵新、許佳璵、黃同瑤、魏傳昇、張其棟、張志鴻\t教學影音",
+    "SPOC:微積分[微積分(二)大一統籌科目]\t應用數學系/雲端學院\t林維鈞*、魏傳昇、張其棟、許佳璵、黃同瑤\tMOOCs/SPOCs",
+    "SPOC:微積分[微積分(二)大一統籌科目]-二重積分單元影音教材\t應用數學系/雲端學院\t林維鈞、魏傳昇、張其棟、許佳璵、黃同瑤*\tMOOCs/SPOCs",
+    "SPOC:微積分[微積分(二)大一統籌科目]-部分積分及三角函數代換等積分技巧單元影音教材\t應用數學系/雲端學院\t林維鈞、魏傳昇、張其棟、許佳璵*、黃同瑤\tMOOCs/SPOCs"
+  ],
+  "tal": []
+}

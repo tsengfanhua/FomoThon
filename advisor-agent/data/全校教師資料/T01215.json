@@ -1,0 +1,918 @@
+{
+  "teacherId": "T01215",
+  "name": "曾怡享",
+  "mainUnit": "工程與科學學院",
+  "detailUnit": "化學工程學系",
+  "skill": [
+    "光催化反應Photocatalytic reaction",
+    "觸媒化學Chemistry of catalysis",
+    "奈米碳材Carbon-based nanomaterials",
+    "聚亞醯胺複合材料Polyimide composites",
+    "材料特性鑑定Characterization of materials"
+  ],
+  "edu": [
+    "國立台灣大學 化工所 博士",
+    "國立成功大學 化工所 碩士",
+    "國立台灣大學 化工系 學士"
+  ],
+  "fcuExp": [
+    "化學工程學系 助理教授",
+    "化學工程學系 副教授",
+    "智能製造與工程管理碩士在職學位學程 副主任",
+    "智能製造與工程管理碩士在職學位學程 主任",
+    "化學工程學系 教授",
+    "化學工程學系 系主任"
+  ],
+  "currjob": [],
+  "otherExp": [
+    "國立勤益科技大學 化材系 博士後研究員",
+    "國立勤益科技大學 化材系 助理教授",
+    "國立勤益科技大學 化材系 專案博士教師",
+    "美國國家標準局 Polymeric Materials Group 客座研究員",
+    "國立台灣大學 化工所 研究助理",
+    "國立台灣大學 化工系 助教"
+  ],
+  "journal": [
+    {
+      "論文名稱": "Adhesive Properties of Deposited Cu Films on Colorless Polyimide Using High Power Impulse Magnetron Sputtering System",
+      "期刊名稱": "Surface & Coatings Technology (SCIE)",
+      "作者群": "YN Tsai, HY Chen, IH Tseng* , JW Lee, MH Tsai*, MS Li, CH Wang, CM Gee,TL Chen, PC Tsai"
+    },
+    {
+      "論文名稱": "Sputtered Anti-Reflection Layer on Transparent Polyimide Substrate Improves Adhesion Strength to Copper Layer: Effects of Layer Thickness and Sputtering Power",
+      "期刊名稱": "RSC Advances (SCIE)",
+      "作者群": "YN Tsai, SC Chin, HY Chen, TI Yang, MH Tsai*, IH Tseng*"
+    },
+    {
+      "論文名稱": "Tailoring Copper Chemical Status and Hydrophobicity of Biomimetic Photocatalytic Films for Carbon Dioxide Conversion",
+      "期刊名稱": "ACS Applied Materials & Interfaces (SCIE)",
+      "作者群": "IH Tseng*, YH Yang, YT Chen, LC Hsu"
+    },
+    {
+      "論文名稱": "Anti-reflection Layer-Sputtered Transparent Polyimide Substrate with Reliable Adhesion Strength to the Copper Layer",
+      "期刊名稱": "ACS Omega (SCIE)",
+      "作者群": "YN Tsai, SC Chin, HY Chen, MS Li, YS Chen, YL Wang, TI Yang, MH Tsai*, IH Tseng*"
+    },
+    {
+      "論文名稱": "Polyimide-derived graphite barrier layer adhered to seed crystals to improve the quality of grown silicon carbide",
+      "期刊名稱": "RSC Advances (SCIE)",
+      "作者群": "MS Li, MH Tsai*, YL Wang, IH Tseng*, CJ Ko and JB Huang"
+    },
+    {
+      "論文名稱": "Sugarcane bagasse supported graphitic carbon nitride for photocatalytic conversion of carbon dioxide",
+      "期刊名稱": "Catalysis Communications (SCIE)",
+      "作者群": "IH Tseng*, BJ You, PY Chang"
+    },
+    {
+      "論文名稱": "Phosphinated poly(imide-siloxane) hybrid films with enhanced adhesion strength and reduced dielectric constant",
+      "期刊名稱": "Progress in Organic Coatings (SCIE)",
+      "作者群": "YL Wang, IH Tseng, CH Lin, C H Chen, TT Hsieh, MH Tsai"
+    },
+    {
+      "論文名稱": "Studies of Nickel/Samarium-Doped Ceria for Catalytic Partial Oxidation of Methane and Effect of Oxygen Vacancy",
+      "期刊名稱": "Catalysts (SCIE)",
+      "作者群": "Andrew C. Chien*, Nicole J. Ye, Chao-Wei Huang, and I-Hsiang Tseng"
+    },
+    {
+      "論文名稱": "Bio-friendly titania-grafted chitosan film with biomimetic surface structure for photocatalytic application",
+      "期刊名稱": "CARBOHYDRATE POLYMERS (SCIE)",
+      "作者群": "IH Tseng*, ZC Liu, PY Chang"
+    },
+    {
+      "論文名稱": "Transparency anticorrosion coatings prepared from alumina-covered graphene oxide/polyimide nanocomposites",
+      "期刊名稱": "EXPRESS POLYMER LETTERS (SCIE)",
+      "作者群": "GH Lai, TC Huang, IH Tseng, BS Huang, TI Yang, MH Tsai"
+    },
+    {
+      "論文名稱": "Biomimetic polyimide-supported cuprous oxide photocatalytic film with tunable hydrophobicity, improved thermal stability and photocatalytic activity toward CO2 reduction",
+      "期刊名稱": "ACS OMEGA (SCIE)",
+      "作者群": "IH Tseng*, LH Kang, PY Chang, MH Tsai, JM Yeh, TI Yang"
+    },
+    {
+      "論文名稱": "Anatase TiO2-decorated graphitic carbon nitride for photocatalytic conversion of carbon dioxide",
+      "期刊名稱": "POLYMERS (SCIE)",
+      "作者群": "IH Tseng*, YM Sung, PY Chang, CY Chen"
+    },
+    {
+      "論文名稱": "Phosphinated Polyimide Hybrid Films with Reduced Melt-Flow and Enhanced Adhesion for Flexible Copper Clad Laminates",
+      "期刊名稱": "PROGRESS IN ORGANIC COATINGS (SCIE)",
+      "作者群": "IH Tseng, TT Hsieh, CH Lin, MH Tsai, DL Ma, CJ Ko"
+    },
+    {
+      "論文名稱": "Photocatalytic Conversion of Gas Phase Carbon Dioxide by Graphitic Carbon Nitride Decorated with Cuprous Oxide with Various Morphologies",
+      "期刊名稱": "JOURNAL OF CO2 UTILIZATION (SCIE)",
+      "作者群": "PY Chang, IH Tseng*"
+    },
+    {
+      "論文名稱": "Photocatalytic Performance of Titania Nanosheets Templated by Graphene Oxide",
+      "期刊名稱": "JOURNAL OF PHOTOCHEMISTRY AND PHOTOBIOLOGY A: CHEMISTRY (SCIE)",
+      "作者群": "IH Tseng*, YM Sung, PY Chang, SW Lin"
+    },
+    {
+      "論文名稱": "Mimosa Pudica Leaf-Like Rapid Movement and Actuation of Organo-Soluble Polyimide Blending with Sulfonated Polyaniline",
+      "期刊名稱": "ADVANCED MATERIALS INTERFACES (SCIE)",
+      "作者群": "IH Tseng*, JJ Li, PY Chang"
+    },
+    {
+      "論文名稱": "Sulfonated Graphene Oxide–Doped Zincoxysulfide Composites with Enhanced Photocatalytic Hydrogen Production Performance",
+      "期刊名稱": "INTERNATIONAL JOURNAL OF HYDROGEN ENERGY (SCIE)",
+      "作者群": "CJ Chang*, KL Huang, KW Chu, YH Wei, IH Tseng"
+    },
+    {
+      "論文名稱": "Transparent polyimide film with improved water and oxygen barrier property by in-situ exfoliating graphite",
+      "期刊名稱": "ADVANCED ENGINEERING MATERIALS (SCIE)",
+      "作者群": "MH Tsai, IH Tseng*, YC Huang, HP Yu, PY Chang"
+    },
+    {
+      "論文名稱": "Fabrication of organosilica hollow spheres using organosiloxane-templated sol–gel process",
+      "期刊名稱": "JOURNAL OF SOL-GEL SCIENCE AND TECHNOLOGY (SCIE)",
+      "作者群": "HT Lu, IH Tseng"
+    },
+    {
+      "論文名稱": "Flexible and transparent polyimide films containing two-dimensional alumina nanosheets templated by graphene oxide for improved barrier property",
+      "期刊名稱": "ACS APPLIED MATERIALS & INTERFACES (SCIE)",
+      "作者群": "IH Tseng*, MH Tsai, CW Chung"
+    },
+    {
+      "論文名稱": "Flexible polyimide films hybrid with functionalized boron nitride and graphene oxide simultaneously to improve thermal conduction and dimensional stability\r\n",
+      "期刊名稱": "ACS APPLIED MATERIALS & INTERFACES (SCIE)",
+      "作者群": "MH Tsai, IH Tseng*, JC Chiang, JJ Li"
+    },
+    {
+      "論文名稱": "Enhancement of dimensional stability and optical transparency of colorless organo-soluble polyimide by incorporation of silica and cosolvent",
+      "期刊名稱": "INTERNATIONAL JOURNAL OF POLYMERIC MATERIALS (SCIE)",
+      "作者群": "MH Tsai, IH Tseng*, SL Huang, CW Hsieh"
+    },
+    {
+      "論文名稱": "電活性聚亞醯胺╱氧化石墨烯複合薄膜氣體阻障性質研究",
+      "期刊名稱": "JOURNAL OF TECHNOLOGY (技術學刊) (EI)",
+      "作者群": "蔡美慧、陳信旭、曾怡享*、葉瑞銘"
+    },
+    {
+      "論文名稱": "Soluble polyimide films as alignment layers for bistable chiral-tilted homeotropic nematic liquid crystal display applications",
+      "期刊名稱": "THIN SOLID FILMS (SCIE)",
+      "作者群": "CJ Chang*, IH Tseng, YC Lin, BS Wu, BJ Liang, MH Tsai"
+    },
+    {
+      "論文名稱": "Properties of magnetron-sputtered moisture barrier layer on transparent polyimide/graphene nanocomposite film",
+      "期刊名稱": "THIN SOLID FILMS (SCIE)",
+      "作者群": "MH Tsai, CJ Chang, HH Lu, YF Liao, IH Tseng*"
+    },
+    {
+      "論文名稱": "An in situ fabrication process for highly electrical conductive polyimide/MWCNT composite films using 2,6-diaminoanthraquinone",
+      "期刊名稱": "COMPOSITES SCIENCE AND TECHNOLOGY (SCIE)",
+      "作者群": "YC Huang, JH Lin, IH Tseng, AY Lo, TY Lo, HP Yu, MH Tsai, WT Whang*, KY Hsu"
+    },
+    {
+      "論文名稱": "Transparent polyimide nanocomposites with improved moisture barrier using graphene",
+      "期刊名稱": "POLYMER INTERNATIONAL (SCIE)",
+      "作者群": "Mei-Hui Tsai*, I-Hsiang Tseng, Yu-Fu Liao, Jen-Chi Chiang"
+    },
+    {
+      "論文名稱": "Effect of magnetron sputtered silicon nitride on water-vapor-transmission-rate of polyimide thin film",
+      "期刊名稱": "SURFACE AND COATINGS TECHNOLOGY (SCIE)",
+      "作者群": "IH Tseng, CJ Chang, CW Chang, HH Lu, MH Tsai*"
+    },
+    {
+      "論文名稱": "Holographic recording characteristics and physical mechanism of zinc methacrylate/nitroaniline-co-doped poly (methyl methacrylate)/9,10-phenanthrenequinone photopolymers",
+      "期刊名稱": "POLYMER ENGINEERING AND SCIENCE (SCIE)",
+      "作者群": "Cheng-Jung Ko, P.L Chen, Y.N. Hsiao, S.H. Lin, Wha-Tzong Whang*, K.Y. Hsu, K.J. Huang, C.C. Chen, I-Hsiang Tseng, Mei-Hui Tsai"
+    },
+    {
+      "論文名稱": "多層石墨烯對聚亞醯胺薄膜阻氣性與透明性之研究",
+      "期刊名稱": "CHEMICAL ENGINEERING (化工會刊) ()",
+      "作者群": "曾怡享*,廖彧甫,蔡美慧"
+    },
+    {
+      "論文名稱": "Enhanced thermal conductivity and dimensional stability of flexible polyimide nanocomposite film by addition of functionalized graphene oxide",
+      "期刊名稱": "POLYMER INTERNATIONAL (SCIE)",
+      "作者群": "I-Hsiang Tseng, Jen-Chi Chiang, Shih-Liang Huang, Mei-Hui Tsai*"
+    },
+    {
+      "論文名稱": "Composition, thermal and tensile properties of polyurethane-urea-silica hybrids",
+      "期刊名稱": "RSC ADVANCES (SCIE)",
+      "作者群": "CJ Chen, MH Tsai, IH Tseng, AW Hsu, TC Liu, SL Huang*"
+    },
+    {
+      "論文名稱": "NIST gold nanoparticle reference materials do not induce oxidative DNA damage",
+      "期刊名稱": "NANOTOXICOLOGY (SCIE)",
+      "作者群": "B.C.Nelson*, E. Petersen, B.J. Marquis, D.H. Atha, J.T. Elliott, D. Cleveland D, S.S. Watson, I-Hsiang Tseng, A. Dillon A, M. Theodore M, J. Jackman"
+    },
+    {
+      "論文名稱": "Thermal conductivity and morphology of silver-filled multi-walled carbon nanotubes/polyimide nanocomposite films",
+      "期刊名稱": "JOURNAL OF APPLIED POLYMER SCIENCE (SCIE)",
+      "作者群": "I-Hsiang Tseng, Hsin-Chuan Lin, Mei-Hui Tsai*, Dong-Sen Chen"
+    },
+    {
+      "論文名稱": "Transparent polyimide/graphene oxide nanocomposite with improved moisture barrier property",
+      "期刊名稱": "MATERIALS CHEMISTRY AND PHYSICS (SCIE)",
+      "作者群": "I-Hsiang Tseng, Yu-Fu Liao, Jen-Chi Chiang, Mei-Hui Tsai"
+    },
+    {
+      "論文名稱": "A strategy to enhance the biomedical articulation system by electrochemically texturing of metal surfaces",
+      "期刊名稱": "BIOMEDICAL ENGINEERING:APPLICATIONS, BASIS AND COMMUNICATION (EI)",
+      "作者群": "Ta-I Yang*, Yi-Chun Chen, Huei-Ting Huang, I-Hsiang Tseng, Hsu-Wei Fang"
+    },
+    {
+      "論文名稱": "Pigment and nanofiller photoreactivity database",
+      "期刊名稱": "JOURNAL OF COATINGS TECHNOLOGY AND RESEARCH (SCIE)",
+      "作者群": "S.S. Watson*, I-Hsiang Tseng, T. Marray, B. Pellegrin, J. Comte"
+    },
+    {
+      "論文名稱": "Fabrication of porous polylactic acid films assisted by dip-coating and template leaching techniques",
+      "期刊名稱": "JOURNAL OF APPLIED POLYMER SCIENCE (SCIE)",
+      "作者群": "Ta-I Yang, Tai-Lun Su, Po-Liang Lin, I-Hsiang Tseng, Chih-Hung Chang, Hsu-Wei Fang*"
+    },
+    {
+      "論文名稱": "聚亞醯胺/氮化硼奈米複合材料",
+      "期刊名稱": "化學 ()",
+      "作者群": "曾怡享，江仁吉，林信全，蔡美慧*"
+    },
+    {
+      "論文名稱": "Characterizing the dynamic behavior of nano-TiO2 in suspensions by photo correlation spectroscopy",
+      "期刊名稱": "JOURNAL OF NANOPARTICLE RESEARCH (SCIE)",
+      "作者群": "I-Hsiang Tseng, Stephanie S. Watson*, Lipiin Sung"
+    },
+    {
+      "論文名稱": "Effect of TiO2 pigment type on the UV degradation of filled coatings",
+      "期刊名稱": "JOURNAL OF COATINGS TECHNOLOGY AND RESEARCH (SCIE)",
+      "作者群": "D.L. Wang, S.S. Watson, L. Sung, I-Hsiang Tseng, C.J. Bouis, R. Fernando"
+    },
+    {
+      "論文名稱": "Chemical states of metal-loaded titania in the photoreduction of CO2",
+      "期刊名稱": "CATALYSIS TODAY (SCIE)",
+      "作者群": "I-Hsiang Tseng, J.C.S. Wu*"
+    },
+    {
+      "論文名稱": "Effects of sol-gel procedures on the photocatalysis of Cu/TiO2 in CO2 photo-reduction",
+      "期刊名稱": "JOURNAL OF CATALYSIS (SCIE)",
+      "作者群": "I-Hsaing Tseng, J.C.S. Wu*, H.Y. Chou"
+    },
+    {
+      "論文名稱": "Photoreduction of CO2 using sol-gel derived titania and titania-supported copper catalysts.",
+      "期刊名稱": "APPLIED CATALYSIS B-ENVIRONMENTAL (SCIE)",
+      "作者群": "I-Hsiang Tseng, Wan-Chang Chang, J.C.S. Wu*"
+    },
+    {
+      "論文名稱": "Synthesis of titania-supported copper nanoparticles via refined alkoxide sol-gel process",
+      "期刊名稱": "JOURNAL OF NANOPARTICLE RESEARCH (SCIE)",
+      "作者群": "J.C.S. Wu*, I-Hsiang Tseng, Wan-Chang Chang"
+    }
+  ],
+  "journal2": [],
+  "conference": [
+    {
+      "論文名稱": "Enhanced Photocatalytic Activity of Bi-rich Bismuth Tungstate via Post-calcination Treatment",
+      "會議名稱": "2024台灣化學工程學會 71 週年年會暨國科會化學工程學門成果發表會",
+      "作者群": "Chi-Hsuan Huang (黃麒軒), Yu-Tseng Lin (林祐增), Wei-Jen Wang (王韡蓁), I-Hsiang Tseng (曾怡享)*"
+    },
+    {
+      "論文名稱": "Preparation and Characterization of Biomimetic Cerium Dioxide and Zinc Oxide-Grafted Polyimide\nFilms for Photocatalytic Applications",
+      "會議名稱": "2024台灣化學工程學會 71 週年年會暨國科會化學工程學門成果發表會",
+      "作者群": "Yi-Teng Hsu (許議騰), Chiao-Yun Hsieh (謝巧芸), Pei-Hsuan Hsieh (謝沛瑄) and I-Hsiang Tseng (曾怡享)*"
+    },
+    {
+      "論文名稱": "Synthesis and Properties of CeO2-ZnO Composites for Enhanced Photocatalytic Applications",
+      "會議名稱": "2024台灣化學工程學會71週年年會暨科技部化學工程學門成果發表會",
+      "作者群": "Po-Chih Tsao (曹博智), Qi-Wei Wang (王騏為), Yu-Hsuan Tsai (蔡育瑄),  I-Hsiang Tseng (曾怡享)*"
+    },
+    {
+      "論文名稱": "Photocatalytic Reforming of Lignocellulosic Waste by Graphitic Carbon Nitride",
+      "會議名稱": "18th Internation Congress on Catalysis (18th ICC)",
+      "作者群": "I-Hsiang Tseng*, Wei-Hsin Wang (王唯馨), and Yu-Ting Kuo (郭育廷)"
+    },
+    {
+      "論文名稱": "Preparation and Characterization of TiO2-Bi2WO6 Photocatalyst for CO2 Reduction",
+      "會議名稱": "2024台灣國際催化研討會(TICC2024)暨第41屆台灣觸媒及反應工程研討會",
+      "作者群": "Pin-Yi Wu (吳品儀) and I-Hsiang Tseng* (曾怡享)"
+    },
+    {
+      "論文名稱": "Preparation of Cu2O/ZnO Nanocomposites for Photocatalytic Conversion of Carbon Dioxide",
+      "會議名稱": "2024台灣國際催化研討會(TICC2024)暨第41屆台灣觸媒及反應工程研討會",
+      "作者群": "Shang-Yan Xie (謝尚晏) and I-Hsiang Tseng (曾怡享)*"
+    },
+    {
+      "論文名稱": "Cuprous Oxide Grafted Biomimetic Polyimide-Graphitic Carbon Nitride Hybrid Films for Photocatalytic Applications",
+      "會議名稱": "2024台灣國際催化研討會(TICC2024)暨第41屆台灣觸媒及反應工程研討會",
+      "作者群": "Yu-Cheng Tsai (蔡語琤) and I-Hsiang Tseng (曾怡享)*"
+    },
+    {
+      "論文名稱": "Fabrication of Cu2O/WO3 Composites for Photocatalytic Applications",
+      "會議名稱": "2023 TwIChE 台灣化學工程學會70週年年會暨國科會化學工程學門成果發表會",
+      "作者群": "Pin-Yi Wu and I-Hsiang Tseng*"
+    },
+    {
+      "論文名稱": "Fabrication of Cu2O/ZnO Nanocomposites for Photocatalytic Applications",
+      "會議名稱": "2023 TwIChE 台灣化學工程學會70週年年會暨國科會化學工程學門成果發表會",
+      "作者群": "Shang-Yan Xie and I-Hsiang Tseng*"
+    },
+    {
+      "論文名稱": "Cuprous Oxide Supported on Polyimide and Graphitic Carbon Nitride Hybrid Films for Photocatalytic Applications",
+      "會議名稱": "2023 TwIChE 台灣化學工程學會70週年年會暨國科會化學工程學門成果發表會",
+      "作者群": "Yu-Cheng Tsai and I-Hsiang Tseng*"
+    },
+    {
+      "論文名稱": "Photocatalytic Activity of Lignocellulose Modified Graphitic Carbon Nitride",
+      "會議名稱": "THE 7th Asian Conference ON Innovative Energy & Environmental Chemical Engineering (ASCON-IEECE)",
+      "作者群": "I-Hsiang Tseng* and Wei-Hsin Wang"
+    },
+    {
+      "論文名稱": "Synthesis and Characterization of Ceria-Silica Nanocomposites for CO2 Photocatalytic Reduction",
+      "會議名稱": "15th European Congress on Catalysis (EuropaCat2023)",
+      "作者群": "Yi-Ru Zhao, Po-Chih Tsao, I-Hsiang Tseng*"
+    },
+    {
+      "論文名稱": "Photocatalytic Hydrogen Production by Cuprous Oxide/Titanium Dioxide",
+      "會議名稱": "2023台灣國際催化研討會(TICC2023)暨第40屆台灣觸媒及反應工程研討會",
+      "作者群": "You-Yu Syue, Pin-Yi Wu, Shang Yan Xie, I-Hsiang Tseng*"
+    },
+    {
+      "論文名稱": "Characterization of Hybridized CeO2 and SiO2 Nanoparticles and Their Application in CO2 Photoreduction",
+      "會議名稱": "2023台灣國際催化研討會(TICC2023)暨第40屆台灣觸媒及反應工程研討會",
+      "作者群": "Yi-Ru Zhao, Yu-Cheng Tsai, I-Hsiang Tseng*"
+    },
+    {
+      "論文名稱": "Graphitic Carbon Nitride Films with Biomimetic Structure for Photocatalytic Conversion of Carbon Dioxide",
+      "會議名稱": "2023 MRS Spring Meeting & Exhibit",
+      "作者群": "IH Tseng* and YH Liu"
+    },
+    {
+      "論文名稱": "Assessment of photocatalytic activity of chlorophyll sensitized TiO2 nanoparticles using dichlorophenolindophenol",
+      "會議名稱": "台灣化學工程學會69週年年會暨國科會化學工程學門成果發表會/台日韓捷化學工程國際研討會",
+      "作者群": "You-Yu Syue (薛又瑜), Chi-Hsuan Huang (黃麒軒), I-Hsiang Tseng (曾怡享)*"
+    },
+    {
+      "論文名稱": "Effect of CeO2 morphology on the selectivity of products from CO2 conversion",
+      "會議名稱": "台灣化學工程學會69週年年會暨國科會化學工程學門成果發表會/台日韓捷化學工程國際研討會",
+      "作者群": "Yi-Ru Zhao (趙一如), Po-Chih Tsao (曹博智), I-Hsiang Tseng (曾怡享)*"
+    },
+    {
+      "論文名稱": "Photocatalytic activity of graphitic carbon nitride modified with waste lignocellulose",
+      "會議名稱": "台北國際催化研討會(TICC2022)暨第39屆台灣觸媒及反應工程研討會",
+      "作者群": "Wei-Shin Wang (王唯馨) and I-Hsiang Tseng* (曾怡享)"
+    },
+    {
+      "論文名稱": "Carbon-modified g-C3N4 films for photocatalytic CO2 reduction: Effects of sacrificial reagents on product selectivity and yield",
+      "會議名稱": "台北國際催化研討會(TICC2022)暨第39屆台灣觸媒及反應工程研討會",
+      "作者群": "Yu-Hsuan Liu (劉育瑄) and I-Hsiang Tseng* (曾怡享)"
+    },
+    {
+      "論文名稱": "Preparation of cuprous oxide grafted polyimide films for photocatalytic application",
+      "會議名稱": "2022中華民國高分子學會年會",
+      "作者群": "Yu-Hsuian Yang (楊于萱), Pin-Yi Wu (吳品儀), Shang-Yan Xie (謝尚晏), I-Hsiang Tseng (曾怡享)*"
+    },
+    {
+      "論文名稱": "Decorating Carbon-Species on Cuprous Oxide Nanocrystals for Photocatalytic Reactions",
+      "會議名稱": "台灣化學工程學會68週年年會暨科技部化學工程學門成果發表會/前瞻分子工程研討會",
+      "作者群": "You-Yu Syue (薛又瑜), Shih-He Lin (林士和), I-Hsiang Tseng (曾怡享)*"
+    },
+    {
+      "論文名稱": "Enhanced photocatalytic hydrogen evolution by sugarcane bagasse supported graphitic carbon nitride",
+      "會議名稱": "台灣化學工程學會68週年年會暨科技部化學工程學門成果發表會/前瞻分子工程研討會",
+      "作者群": "Wei-Shin Wang (王唯馨) and I-Hsiang Tseng (曾怡享)*"
+    },
+    {
+      "論文名稱": "Preparation of biochar contained TiO2 for photocatalytic conversion of carbon dioxide",
+      "會議名稱": "台灣化學工程學會68週年年會暨科技部化學工程學門成果發表會/前瞻分子工程研討會",
+      "作者群": "Yi-Ru Zhao (趙一如), Keng-Ta Liu (劉庚達), I-Hsiang Tseng (曾怡享)*"
+    },
+    {
+      "論文名稱": "In-situ preparation of carbon-modified g-C3N4 films for photocatalytic CO2 reduction under visible light",
+      "會議名稱": "台灣化學工程學會68週年年會暨科技部化學工程學門成果發表會/前瞻分子工程研討會",
+      "作者群": "Yu-Hsuan Liu (劉育瑄) and I-Hsiang Tseng (曾怡享)*"
+    },
+    {
+      "論文名稱": "Tailoring Hydrophobicity of Cuprous Oxide/Polyimide Film for Photocatalytic Conversion of Carbon Dioxide",
+      "會議名稱": "2020台灣化學工程學會67週年年會暨科技部化學工程學門成果發表會",
+      "作者群": "楊于萱, 陳怡婷, 王唯馨, 曾怡享*"
+    },
+    {
+      "論文名稱": "Improved Photocatalytic Activity of Titanium Dioxide by Using Tea Leaf as Template",
+      "會議名稱": "2020台灣化學工程學會67週年年會暨科技部化學工程學門成果發表會",
+      "作者群": "趙一如, 劉庚達, 劉育瑄, 曾怡享*"
+    },
+    {
+      "論文名稱": "A module-level weathering and durability testing on silver nanowire transparent conductors",
+      "會議名稱": "The 15th IEEE International Conference on Nano/Micro Engineered & Molecular Systems (IEEE NEMS)",
+      "作者群": "C.-C. Lin, B.-J. You, Y.-X. Yang, and I.-H. Tseng"
+    },
+    {
+      "論文名稱": "Loading TiO2 on Bionic Substrate for Photocatalytic Reduction of Carbon Dioxide Under UV Light Illumination",
+      "會議名稱": "2020年第三十八屆台灣觸媒與反應工程研討會暨科技部專題研究計畫成果發表會",
+      "作者群": "高浚維、劉庚達、曾怡享*"
+    },
+    {
+      "論文名稱": "Enhanced Photocatalytic Performance of Cuprous Oxide / Graphitic Carbon Nitride Composite by Tuning Its Morphology and Composition",
+      "會議名稱": "2020年第三十八屆台灣觸媒與反應工程研討會暨科技部專題研究計畫成果發表會",
+      "作者群": "林士和、張博雅、曾怡享*"
+    },
+    {
+      "論文名稱": "Comparing photocatalytic activity of bionic substrate supported titanium dioxide and graphitic carbon nitride",
+      "會議名稱": "Spring 2020 ACS Meeting & Expo",
+      "作者群": "IH Tseng*, PY Chang, WC Wu, CW Kao, BJ You, YH Liu"
+    },
+    {
+      "論文名稱": "Preparation of Nafion-Polyimide Composites for Photocatalytic Applications",
+      "會議名稱": "2019台灣化學工程學會66週年年會暨科技部化學工程學門成果發表會",
+      "作者群": "劉逸婷、陳怡婷、曾怡享*"
+    },
+    {
+      "論文名稱": "Photocatalytic Activity of Sugarcane Bagasse-Supported Graphitic Carbon Nitride",
+      "會議名稱": "2019台灣化學工程學會66週年年會暨科技部化學工程學門成果發表會",
+      "作者群": "游博筑、高浚維、曾怡享*"
+    },
+    {
+      "論文名稱": "Preparation and Characterization of Biomimetic Graphitic Carbon Nitride",
+      "會議名稱": "2019台灣化學工程學會66週年年會暨科技部化學工程學門成果發表會",
+      "作者群": "劉育瑄、林士和、楊于萱、曾怡享*"
+    },
+    {
+      "論文名稱": "具有水氣應答特性磺酸化聚苯胺/聚亞醯胺光觸媒薄膜之開發",
+      "會議名稱": "2019年第三十七屆台灣觸媒與反應工程研討會暨科技部專題研究計畫成果發表會",
+      "作者群": "陳奕福、陳怡婷、曾怡享*"
+    },
+    {
+      "論文名稱": "類石墨氮化碳-氧化石墨烯複合光觸媒之製備與特性調控",
+      "會議名稱": "2019年第三十七屆台灣觸媒與反應工程研討會暨科技部專題研究計畫成果發表會",
+      "作者群": "高浚維、曾怡享*"
+    },
+    {
+      "論文名稱": "Photocatalytic reduction of gaseous carbon dioxide by cuprous oxide/graphitic carbon nitride composite photocatalyst",
+      "會議名稱": "Spring 2019 ACS Meeting & Expo",
+      "作者群": "PY Chang, IH Tseng*"
+    },
+    {
+      "論文名稱": "Photoreduction of carbon dioxide by biomimetic polyimide-supported cuprous oxide/graphitic carbon nitride photocatalytic films",
+      "會議名稱": "Spring 2019 ACS Meeting & Expo",
+      "作者群": "IH Tseng*, YT Chen, PY Chang"
+    },
+    {
+      "論文名稱": "Cuprous oxide-loaded graphitic carbon nitride/polyimide hybrid films for photocatalytic reaction",
+      "會議名稱": "2018台灣化學工程學會65週年年會暨科技部化學工程學門成果發表會",
+      "作者群": "林士和、張博雅、曾怡享*"
+    },
+    {
+      "論文名稱": "Synthesis and characterization of graphitic carbon nitride/polyimide photocatalytic films",
+      "會議名稱": "2018台灣化學工程學會65週年年會暨科技部化學工程學門成果發表會",
+      "作者群": "蔡政廷、陳奕福、曾怡享*"
+    },
+    {
+      "論文名稱": "Photocatalytic reduction of carbon dioxide by biomimetic cuprous oxide/polyimide composite film",
+      "會議名稱": "第三十六屆台灣觸媒與反應工程研討會暨科技部專題研究計畫成果發表會",
+      "作者群": "Guan Hua Lai, Yi-Ting Chen, and I-Hsiang Tseng*"
+    },
+    {
+      "論文名稱": "磺酸化聚苯胺/聚亞醯胺複合光觸媒模板之製備與特性分析",
+      "會議名稱": "第三十六屆台灣觸媒與反應工程研討會暨科技部專題研究計畫成果發表會",
+      "作者群": "陳奕福、曾怡享*"
+    },
+    {
+      "論文名稱": "以不同植物纖維骨架負載二氧化鈦之光催化活性評估",
+      "會議名稱": "第三十六屆台灣觸媒與反應工程研討會暨科技部專題研究計畫成果發表會",
+      "作者群": "吳瑋騫、曾怡享*"
+    },
+    {
+      "論文名稱": "具有仿生奈米結構幾丁聚醣-二氧化鈦薄膜應用於二氧化碳光催化還原反應",
+      "會議名稱": "第三十六屆台灣觸媒與反應工程研討會暨科技部專題研究計畫成果發表會",
+      "作者群": "劉志成、曾怡享*"
+    },
+    {
+      "論文名稱": "氧化鉬量子點負載於類石墨氮化碳之製備及光催化活性研究",
+      "會議名稱": "第三十六屆台灣觸媒與反應工程研討會暨科技部專題研究計畫成果發表會",
+      "作者群": "何信逸、曾怡享*"
+    },
+    {
+      "論文名稱": "Visible light driven frame-like Cu2O hybrid with gCN for photocatalytic CO2 reduction",
+      "會議名稱": "第三十六屆台灣觸媒與反應工程研討會暨科技部專題研究計畫成果發表會",
+      "作者群": "Po-Ya Chang and I-Hsiang Tseng*"
+    },
+    {
+      "論文名稱": "Various-shaped Cu2O nanoframe/g-C3N4 for photocatalytic CO2 reduction",
+      "會議名稱": "2018 7th International Conference on Advanced Materials and Engineering Materials",
+      "作者群": "Po-Ya Chang and I-Hsiang Tseng*"
+    },
+    {
+      "論文名稱": "Biomimetic polyimide-supported cuprous oxide as photocatalytic film with tunable hydrophobicity and enhanced thermal stability",
+      "會議名稱": "2018 SPIE-Smart Structures/NDE",
+      "作者群": "I-Hsiang Tseng*, Li-Huan Kang"
+    },
+    {
+      "論文名稱": "Improved photo/thermal stability by incorporation of graphitic carbon nitride within polyimide film",
+      "會議名稱": "2017 台灣化學工程學會 64 週年年會暨科技部化學工程學門成果發表會",
+      "作者群": "黃芝潔, 張博雅, 曾怡享*"
+    },
+    {
+      "論文名稱": "Biomimetic structured polyimide film containing cuprous oxides for carbon dioxide photocatalytic reduction",
+      "會議名稱": "2017 台灣化學工程學會 64 週年年會暨科技部化學工程學門成果發表會",
+      "作者群": "陳怡婷, 賴冠華, 何信逸, 曾怡享*"
+    },
+    {
+      "論文名稱": "Preparation of silver/titanium dioxide/graphitic carbon nitride composites for photocatalytic reduction of carbon dioxide",
+      "會議名稱": "2017 台灣化學工程學會 64 週年年會暨科技部化學工程學門成果發表會",
+      "作者群": "王昱翔, 劉志成, 曾怡享*"
+    },
+    {
+      "論文名稱": "Biomimetic nanostructured polyimide film containing cuprous oxides for carbon dioxide photocatalytic reaction",
+      "會議名稱": "第35屆台灣觸媒與反應工程研討會",
+      "作者群": "Li-Huan Kang, I-Hsiang Tseng*"
+    },
+    {
+      "論文名稱": "Cu2O nanoframes/gCN nanosheets composites for  photocatalytic CO2 reduction",
+      "會議名稱": "第35屆台灣觸媒與反應工程研討會\t",
+      "作者群": "Po-Ya Chang, I-Hsiang Tseng*"
+    },
+    {
+      "論文名稱": "二氧化鈦/類石墨氮化碳二維奈米片複合材料應用於二氧化碳光催化還原",
+      "會議名稱": "第35屆台灣觸媒與反應工程研討會\t",
+      "作者群": "宋宇敏、曾怡享*"
+    },
+    {
+      "論文名稱": "藉由幾丁聚醣為模板分散二氧化鈦於可見光下進行光催化還原二氧化碳",
+      "會議名稱": "第35屆台灣觸媒與反應工程研討會",
+      "作者群": "劉志成、曾怡享*"
+    },
+    {
+      "論文名稱": "改變合成方法製備三氧化鉬負載於類石墨氮化碳評估其光催化活性",
+      "會議名稱": "第35屆台灣觸媒與反應工程研討會\t",
+      "作者群": "何信逸、曾怡享*"
+    },
+    {
+      "論文名稱": "Sensitive plant leaf-like actuating of homogenous polyimide blend in response to water gradient",
+      "會議名稱": "2017 SPIE-Smart Structures/NDE",
+      "作者群": "I-Hsiang Tseng*, Jheng-Jia Li, Po-Ya Chang"
+    },
+    {
+      "論文名稱": "Graphitic carbon nitride hybrid with polyhedron-like cuprous oxide enhance photocatalytic reduction of carbon dioxide under visible light",
+      "會議名稱": "Artificial Photosynthesis: Faraday Discussion",
+      "作者群": "Po-Ya Chang, Chih-Cheng Liu, Sin-Yi Ho, I-Hsiang Tseng*"
+    },
+    {
+      "論文名稱": "Biomimetic nanostructured polyimide film containing cuprous oxides for\r\ncarbon dioxide photocatalytic reaction",
+      "會議名稱": "Artificial Photosynthesis: Faraday Discussion",
+      "作者群": "Li-Huan Kang, Chih-Cheng Liu, Wei-Chien Wu, I-Hsiang Tseng*"
+    },
+    {
+      "論文名稱": "Titanium dioxide supported on two-dimensional graphitic nanosheets for photocatalytic reduction of carbon dioxide",
+      "會議名稱": "Artificial Photosynthesis: Faraday Discussion",
+      "作者群": "Yu-Min Sung, Sin-Yi Ho, Yi-Fu Chen, I-Hsiang Tseng*"
+    },
+    {
+      "論文名稱": "Photocatalytic reduction of CO2 by graphene oxide supported gold nanoparticles",
+      "會議名稱": "2016台灣化學工程學會63週年慶祝大會暨科技部化工學門成果發表會",
+      "作者群": "Yi-Fu Chen, Yu-Min Sung, I-Hsiang Tseng*"
+    },
+    {
+      "論文名稱": "Evaluation of photocatalytic activity of vanadium oxide-decorated graphene oxide",
+      "會議名稱": "2016台灣化學工程學會63週年慶祝大會暨科技部化工學門成果發表會",
+      "作者群": "Pei-Yi Yen, Po-Ya Chang, I-Hsiang Tseng*"
+    },
+    {
+      "論文名稱": "製備含銅氧化石墨烯應用於二氧化碳光催化還原反應",
+      "會議名稱": "第34屆臺灣觸媒與反應工程研討會",
+      "作者群": "曾威翔、曾怡享*"
+    },
+    {
+      "論文名稱": "以不同形狀氧化亞銅修飾類石墨氮化碳複合材料應用於光催化還原",
+      "會議名稱": "第34屆臺灣觸媒與反應工程研討會",
+      "作者群": "張博雅、曾怡享*"
+    },
+    {
+      "論文名稱": "二氧化鈦負載於不同碳材之光活性評估",
+      "會議名稱": "第34屆臺灣觸媒與反應工程研討會",
+      "作者群": "宋宇敏、曾怡享*"
+    },
+    {
+      "論文名稱": "聚亞醯胺薄膜負載二氧化鈦/氧化石墨烯之製備與特性探討",
+      "會議名稱": "第34屆臺灣觸媒與反應工程研討會",
+      "作者群": "康立寰、曾怡享*"
+    },
+    {
+      "論文名稱": "Graphene Oxide-Templated TiO2 Nanocomposites to Photocatalytically Convert CO2 into Hydrocarbons",
+      "會議名稱": "2016 MRS Spring Meeting & Exhibit",
+      "作者群": "Yu-Min Sung, Po-Ya Chang, I-Hsiang Tseng*"
+    },
+    {
+      "論文名稱": "Photocatalytic performance of cuprous oxide-decorated graphene-like nanosheets",
+      "會議名稱": "2016 MRS Spring Meeting & Exhibit",
+      "作者群": "Po-Ya Chang, Yu-Min Sung, I-Hsiang Tseng*"
+    },
+    {
+      "論文名稱": "Photocatalytic activity of TiO2-decorated multi-walled carbon nanotubes",
+      "會議名稱": "台灣化學工程學會62週年年會暨科技部化工學門成果發表會",
+      "作者群": "Chao-Lin Yu,I-Hsiang Tseng*"
+    },
+    {
+      "論文名稱": "Cu2O/g-C3N4 for photocatalytic carbon dioxide reduction under visible light",
+      "會議名稱": "台灣化學工程學會62週年年會暨科技部化工學門成果發表會",
+      "作者群": "Po-Ya Chang,Wei-Hsiang Tseng,Yu-Min Sung,I-Hsiang Tseng*"
+    },
+    {
+      "論文名稱": "Photocatalytic reduction of CO2 on silver-loaded TiO2 nanosheets",
+      "會議名稱": "台灣化學工程學會62週年年會暨科技部化工學門成果發表會",
+      "作者群": "Si-Wei Lin,Yu-Min Sung,I-Hsiang Tseng*"
+    },
+    {
+      "論文名稱": "添加氧化石墨烯對硫化鋅之光催化活性評估",
+      "會議名稱": "第33屆台灣觸媒及反應工程研討會暨台越雙邊研討會",
+      "作者群": "曾叡揚.曾怡享*"
+    },
+    {
+      "論文名稱": "水熱法條件對含銅氧化石墨烯光催化還原二氧化碳之活性研究",
+      "會議名稱": "第33屆台灣觸媒及反應工程研討會暨台越雙邊研討會",
+      "作者群": "曾威翔.楊欣螢.張博雅.曾叡揚.曾怡享*"
+    },
+    {
+      "論文名稱": "氧化石墨烯支撐二氧化鈦增進光催化之特性分析與探討",
+      "會議名稱": "第33屆台灣觸媒及反應工程研討會暨台越雙邊研討會",
+      "作者群": "宋宇敏.曾叡揚.林思維.曾怡享*"
+    },
+    {
+      "論文名稱": "Photocatalytic activity of nitrogen-contained graphene-like nanosheets",
+      "會議名稱": "2015年第十五屆台日觸媒研討會-永續發展下觸媒在能源與環境議題之應用",
+      "作者群": "Po-Ya Chang,Jui-Yang Tseng,Yu-Min Sung and I-Hsiang Tseng*"
+    },
+    {
+      "論文名稱": "Actuation behavior of flexible sulfonated polyaniline-polyimide films",
+      "會議名稱": "SPIE Smart Structures/NDE conference 2015",
+      "作者群": "I-Hsiang Tseng*, Jheng-Jia Li, Po-Ya Chang, Mei-Hui Tsai"
+    },
+    {
+      "論文名稱": "光沉積奈米銀於片狀二氧化鈦之光催化特性探討",
+      "會議名稱": "2014台灣化學工程學會61週年年會暨科技部化工學門成果發表會",
+      "作者群": "林思維,張博雅,曾怡享*"
+    },
+    {
+      "論文名稱": "以水熱法製備氧化亞銅/氧化石墨烯觸媒應用於染料降解",
+      "會議名稱": "第32屆台灣觸媒與反應工程研討會",
+      "作者群": "曾叡揚,賴巧芳,林思維,曾怡享*"
+    },
+    {
+      "論文名稱": "以不同還原劑添加對含銅氧化石墨烯光觸媒之特性探討",
+      "會議名稱": "第32屆台灣觸媒與反應工程研討會",
+      "作者群": "張博雅,楊欣螢,余巧琳,曾怡享*"
+    },
+    {
+      "論文名稱": "以熱液法原位合成具光催化活性之氧化石墨烯/二氧化鈦觸媒特性分析",
+      "會議名稱": "第32屆台灣觸媒與反應工程研討會",
+      "作者群": "宋宇敏,張博雅,曾叡揚,曾怡享*"
+    },
+    {
+      "論文名稱": "Fabrication of copper-loaded graphene nanocomposites for photocatalytic applications",
+      "會議名稱": "2014 MRS Spring Meeting & Exhibit",
+      "作者群": "I-Hsiang Tseng*, Hsiao-Lou Chen, Chi-Jung Chang"
+    },
+    {
+      "論文名稱": "含氧化石墨烯電洞傳輸層有機發光二極體元件之電性分析",
+      "會議名稱": "2014年中華民國高分子學會年會",
+      "作者群": "袁維勵、曾怡享*、周緯、許家豐、張博雅、曾叡揚"
+    },
+    {
+      "論文名稱": "Photoactivity of Copper-loaded Graphene Nanocomposites",
+      "會議名稱": "The 4th Asian Symposium on Advanced Materials",
+      "作者群": "Hsiao-Lou Chen, I-Hsiang Tseng*, Chi-Jung Chang"
+    }
+  ],
+  "book": [],
+  "patent": [],
+  "most": [
+    {
+      "name": "二氧化碳光催化系統優化：高選擇性與高穩定性觸媒開發及薄膜反應器設計(2/3)",
+      "schoolYear": "113"
+    },
+    {
+      "name": "含有微奈米階層結構氧化亞銅-氧化鋅複合光觸媒薄膜之製備與光催化特性研究",
+      "schoolYear": "113"
+    },
+    {
+      "name": "二氧化碳光催化系統優化：高選擇性與高穩定性觸媒開發及薄膜反應器設計(1/3)",
+      "schoolYear": "112"
+    },
+    {
+      "name": "氧化鈰異質結構光觸媒設計與固定化技術開發",
+      "schoolYear": "112"
+    },
+    {
+      "name": "產物選擇性可調控之光催化二氧化碳高值化技術開發(3/3)",
+      "schoolYear": "111"
+    },
+    {
+      "name": "產物選擇性可調控之光催化二氧化碳高值化技術開發(2/3)",
+      "schoolYear": "110"
+    },
+    {
+      "name": "開發甘蔗渣於光催化產氫之高值化程序",
+      "schoolYear": "110"
+    },
+    {
+      "name": "產物選擇性可調控之光催化二氧化碳高值化技術開發(1/3)",
+      "schoolYear": "109"
+    },
+    {
+      "name": "具有微奈米葉面結構之功能性光觸媒薄膜之設計及新穎光催化反應系統之開發",
+      "schoolYear": "108"
+    },
+    {
+      "name": "以廢棄甘蔗渣負載類石墨氮化碳光觸媒應用於氮氧化合物降解之研究",
+      "schoolYear": "108"
+    },
+    {
+      "name": "製備具有質子交換特性及仿生表面結構之聚亞醯胺複合薄膜應用於光催化產氫反應",
+      "schoolYear": "108"
+    },
+    {
+      "name": "新型光催化二氧化碳仿生微反應器之設計",
+      "schoolYear": "107"
+    },
+    {
+      "name": "類石墨結構仿生光觸媒應用於二氧化碳催化反應之研究",
+      "schoolYear": "107"
+    },
+    {
+      "name": "應用於二氧化碳光催化還原反應之多孔性類石墨共軛結構高分子複合觸媒薄膜之開發(3/3)",
+      "schoolYear": "106"
+    },
+    {
+      "name": "應用於二氧化碳光催化還原反應之多孔性類石墨共軛結構高分子複合觸媒薄膜之開發(2/3)",
+      "schoolYear": "105"
+    },
+    {
+      "name": "具有微奈米結構之含氧化石墨烯-二氧化鈦可撓曲聚亞醯胺薄膜應用於二氧化碳光催化反應",
+      "schoolYear": "105"
+    },
+    {
+      "name": "應用於二氧化碳光催化還原反應之多孔性類石墨共軛結構高分子複合觸媒薄膜之開發(1/3)",
+      "schoolYear": "104"
+    },
+    {
+      "name": "(應用型)產學合作計畫－聚亞醯胺薄膜表面金屬化對鍍銅層黏著性改善之研究",
+      "schoolYear": "103"
+    },
+    {
+      "name": "(廠配)達邁科技股份有限公司(應用型)產學合作計畫－聚亞醯胺薄膜表面金屬化對鍍銅層黏著性改善之研究",
+      "schoolYear": "103"
+    },
+    {
+      "name": "以氧化石墨烯為模板製備可高效率降解染料之含銅光觸媒",
+      "schoolYear": "103"
+    },
+    {
+      "name": "多孔性聚亞醯胺支撐石墨烯與貴金屬複合觸媒於二氧化碳催化還原研究(2/2)",
+      "schoolYear": "102"
+    },
+    {
+      "name": "混摻錫之氧化鋅奈米柱光觸媒之合成與應用",
+      "schoolYear": "102"
+    },
+    {
+      "name": "多孔性聚亞醯胺支撐石墨烯與貴金屬複合觸媒於二氧化碳催化還原研究(1/2)",
+      "schoolYear": "101"
+    }
+  ],
+  "tech": [
+    {
+      "論文名稱": "Assessment of spectrophotometric assay methods on nanostructured pigments (2009-01)",
+      "書名": "Nanotechnology Applications in Coatings (R.H.Fernando and L.P.Sung)",
+      "作者群": "S.S. Watson, A.L. Forster, I-Hsiang Tseng, L.P. Sung"
+    },
+    {
+      "論文名稱": "Investigating pigment photoreactivity for coatings applications: Methods development (2009-01)",
+      "書名": "Service Life Prediction for Polymeric Materials: Global Perspectives (J.W.Martin, R.A.Ryntz, J.W.Chin JW and R.A.Dickie)",
+      "作者群": "S.S. Watson, I.H. Tseng, A.L. Forster, J. Chin, L.P. Sung"
+    }
+  ],
+  "induAca": [
+    "高溫熔鹽反應氣體去化可行性研究 (2024-04 to 2024-11)",
+    "高溫熔鹽反應物特性研究 (2023-04 to 2023-11)",
+    "YAG螢光粉表面改質 (2015-12 to 2016-04)",
+    "平面顯示器設備自製率躍升-以濕式塗佈製程建構含石墨烯電洞傳遞層OLED發光元件計畫 (2013-03 to 2013-10)"
+  ],
+  "perform": [],
+  "reward": [
+    "113年度國科會補助大專校院研究獎勵 (113, 2024-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (113, 2024-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (113, 2024-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (113, 2024-11) - 逢甲大學",
+    "112年度國科會補助大專校院研究獎勵 (112, 2023-12) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "TICC2023暨第40屆觸媒年會海報競賽佳作 (111, 2023-06) - 台灣觸媒學會",
+    "逢甲大學論文著作獎勵傑出獎 (111, 2022-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (111, 2022-11) - 逢甲大學",
+    "111年度國科會補助大專校院研究獎勵 (111, 2022-10) - 研究發展處",
+    "2022 APEC YES Challenge第三名 (111, 2022-09) - APEC Research Center for Advanced Biohydrogen Technology",
+    "逢甲大學論文著作獎勵傑出獎 (110, 2021-11) - 逢甲大學",
+    "110年度科技部補助大專校院研究獎勵 (110, 2021-10) - 產學合作處",
+    "逢甲大學論文著作獎勵傑出獎 (109, 2020-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (109, 2020-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (109, 2020-11) - 逢甲大學",
+    "109年度科技部補助大專校院研究獎勵 (109, 2020-10) - 逢甲大學",
+    "108學年度教學績優獎 (108, 2019-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (108, 2019-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (108, 2019-11) - 逢甲大學",
+    "第66屆台灣化學工程學會年會海報競賽佳作 (108, 2019-11) - 台灣化學工程學會",
+    "108學年度科技部補助大專校院研究獎勵 (108, 2019-09) - 逢甲大學",
+    "第37屆觸媒年會海報競賽佳作 (107, 2019-06) - 台灣觸媒學會",
+    "逢甲大學論文著作獎勵傑出獎 (107, 2018-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (107, 2018-11) - 逢甲大學",
+    "107年度科技部補助大專校院研究獎勵 (107, 2018-08) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (105, 2016-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (105, 2016-11) - 逢甲大學",
+    "2015年中國材料科學學會MCP期刊傑出論文獎 (104, 2015-11) - 中國材料科學學會",
+    "103學年度優良導師 (103, 2015-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (104, 2015-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (104, 2015-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (104, 2015-11) - 逢甲大學",
+    "第33屆觸媒年會海報競賽優勝 (103, 2015-06) - 台灣觸媒學會",
+    "逢甲大學論文著作獎勵優良獎 (103, 2014-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (103, 2014-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (103, 2014-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (103, 2014-11) - 逢甲大學",
+    "教育部「校園複合型災害防災安全避難疏散演練」有功人員:協助調度上課學生配合演練緊急疏散演練，推行實驗室可行之防災應變機制，足堪表率。 (102, 2014-07) - 逢甲大學",
+    "第32屆觸媒年會海報競賽佳作 (102, 2014-06) - 台灣觸媒學會",
+    "第4屆國際創新發明海報競賽銀牌 (102, 2013-12) - 中華創新發明學會"
+  ],
+  "speech": [
+    {
+      "演講題目": "Design of Photocatalytic Films for Carbon Dioxide Conversion",
+      "邀請單位": "2023 Taiwan International Conference on Catalysis",
+      "演講日期": "2023-06"
+    },
+    {
+      "演講題目": "Improving CO2 conversion via carbon-modified graphitic carbon nitride films",
+      "邀請單位": "2023 1st International Symposium on Carbon Materials",
+      "演講日期": "2023-02"
+    },
+    {
+      "演講題目": "Effects of Copper Chemical Status and Hydrophobicity of Biomimetically Photocatalytic Films on Carbon Dioxide Conversion",
+      "邀請單位": "台灣化學工程學會(69週年年會)",
+      "演講日期": "2022-12"
+    },
+    {
+      "演講題目": "光觸媒薄膜之開發",
+      "邀請單位": "台灣光觸媒產業發展協會",
+      "演講日期": "2022-07"
+    },
+    {
+      "演講題目": "Design and application of functional polymeric composite films",
+      "邀請單位": "淡江大學化材系",
+      "演講日期": "2022-05"
+    },
+    {
+      "演講題目": "Design and application of functional polymeric composite films",
+      "邀請單位": "高雄科技大學化材系",
+      "演講日期": "2021-11"
+    },
+    {
+      "演講題目": "Development of functional polymer films and their applications",
+      "邀請單位": "台中教育大學科學教育與應用學系",
+      "演講日期": "2021-07"
+    },
+    {
+      "演講題目": "Carbon-based materials for photocatalytic conversion of carbon dioxide",
+      "邀請單位": "第四屆台灣碳材料學術研討會",
+      "演講日期": "2020-11"
+    },
+    {
+      "演講題目": "Tuning hydrophobicity on Biotemplate-contained TiO2 to improve photocatalytic activity for CO2 conversion",
+      "邀請單位": "台灣化學工程學會(67週年年會)",
+      "演講日期": "2020-10"
+    },
+    {
+      "演講題目": "Biomimetic polyimide-supported photocatalytic film for CO2 reduction",
+      "邀請單位": "Taiwan Vietnam Joint Symposium on Catalysts",
+      "演講日期": "2019-07"
+    },
+    {
+      "演講題目": "Biomimetic polymer-supported photocatalytic film for CO2 conversion",
+      "邀請單位": "勤益科技大學化材系",
+      "演講日期": "2019-05"
+    },
+    {
+      "演講題目": "Moisture-induced actuation of polyimide-based films (in English)",
+      "邀請單位": "台灣大學化工系",
+      "演講日期": "2017-05"
+    },
+    {
+      "演講題目": "功能性聚亞醯胺薄膜之設計與應用",
+      "邀請單位": "勤益科技大學化材系",
+      "演講日期": "2016-03"
+    },
+    {
+      "演講題目": "Multifunctional polyimide nanocomposites for advanced electronic and photocatalytic applications",
+      "邀請單位": "成功大學化工系",
+      "演講日期": "2015-12"
+    },
+    {
+      "演講題目": "Multifunctional polyimide nanocomposites for advanced electronic and photocatalytic applications (in English)",
+      "邀請單位": "台灣科技大學化工系",
+      "演講日期": "2015-11"
+    },
+    {
+      "演講題目": "Characteristics and applications of polyimide nanocomposites",
+      "邀請單位": "淡江大學化材系",
+      "演講日期": "2013-06"
+    }
+  ],
+  "material": [],
+  "tal": []
+}

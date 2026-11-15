@@ -1,0 +1,153 @@
+{
+  "teacherId": "T01035",
+  "name": "曹嶸",
+  "mainUnit": "資訊電機學院",
+  "detailUnit": "電機工程學系",
+  "skill": [
+    "天線設計Antenna Design",
+    "電磁場與電磁波Electromagneitc Field and Electromagneitc Wave",
+    "電磁相容Electromagnetic Compatibility"
+  ],
+  "edu": [
+    "美國威斯康辛大學麥迪遜分校 電機工程學系 博士",
+    "美國威斯康辛大學麥迪遜分校 電機工程學系 碩士",
+    "北京清華大學 電子工程學系 學士"
+  ],
+  "fcuExp": [
+    "電機工程學系 助理教授",
+    "電機工程學系 副教授"
+  ],
+  "currjob": [],
+  "otherExp": [
+    "國立彰化師範大學 物理系所 博士後研究人員",
+    "美國威斯康辛大學麥迪遜分校 電機工程學系 教學助理",
+    "美國威斯康辛大學麥迪遜分校 電機工程學系 研究助理"
+  ],
+  "journal": [
+    {
+      "論文名稱": "A Dual-Band Dual-Polarized Antenna for Small Base Station Applications",
+      "期刊名稱": "Journal of Electrical Engineering & Technology (SCIE)",
+      "作者群": "Rong Cao*, Chow-Yen-Desmond Sim, Jia-He Zhuang"
+    },
+    {
+      "論文名稱": "Dual Mode Dual-Band Circularly Polarized Modified Square Ring Antenna",
+      "期刊名稱": "Journal of Electrical Engineering & Technology (SCIE)",
+      "作者群": "Rong Cao *, Ming-Sheng Liu"
+    },
+    {
+      "論文名稱": "Frequency-Reconfigurable Circularly Polarized Antenna for UHF RFID Reader",
+      "期刊名稱": "Microwave and Optical Technology Letters (SCIE)",
+      "作者群": "Rong Cao* and Chun Kai Wang"
+    },
+    {
+      "論文名稱": "Circularly Polarized Monopole Slot Antenna for UHF RFID Reader",
+      "期刊名稱": "Microwave and Optical Technology Letters (SCIE,EI)",
+      "作者群": "Rong Cao* and Shun-Chuan Yu"
+    },
+    {
+      "論文名稱": "A Circular Patch Antenna with Parasitic Element for UHF RFID Applications",
+      "期刊名稱": "International Journal of RF and Microwave Computer-Aided Engineering (SCIE,EI)",
+      "作者群": "Chow-Yen-Desmond Sim*, Chih-Chiang Chen, Rong Cao, and Bo-Shau Chen"
+    },
+    {
+      "論文名稱": "Wideband Compact CPW-Fed Circularly Polarized\r\nAntenna for Universal UHF RFID Reader",
+      "期刊名稱": "IEEE Transactions On Antennas And Propagation (SCIE,EI)",
+      "作者群": "Rong Cao* and Shun-Chuan Yu"
+    },
+    {
+      "論文名稱": "Determination of relative pinning strength of hexagonally arranged composite pinning centers",
+      "期刊名稱": " J. Appl. Phys. (SCIE)",
+      "作者群": "Rong Cao, Lance Horng*, Tian-Chiuan Wu, Chien-Miao Chen, Jui-Chun Wang and Jong-Ching Wu"
+    },
+    {
+      "論文名稱": "Experimental and simulation study of pinning phenomena in superconductors with regular composite pinning arrays",
+      "期刊名稱": "J. Appl. Phys. (SCIE)",
+      "作者群": "Lance Horng*, Rong Cao, Tian-Chiuan Wu, Shirley Yang, Sheng-Hao Wang, Jong-Ching Wu, and Tzuan-Je Yang"
+    },
+    {
+      "論文名稱": "Ginzburg–Landau Study of Superconductor with Regular Pinning Array",
+      "期刊名稱": "Journal of Superconductivity and Novel Magnetism (SCIE)",
+      "作者群": "R. Cao, T. J. Yang*, Lance Horng, T. C. Wu"
+    }
+  ],
+  "journal2": [],
+  "conference": [
+    {
+      "論文名稱": "MIMO laptop antenna for WiFi 6E",
+      "會議名稱": "2023 5th IEEE Eurasia Conference on IoT, Communication and Engineering",
+      "作者群": "Wan Hsuan Chang, Wei Chin Lee, Cao Rong*, Chih Chiang Chen*"
+    },
+    {
+      "論文名稱": "A PIFA design with WLAN and Wi-Fi 6E band for laptop computer applications",
+      "會議名稱": "2022 IEEE International Symposium on Antennas and Propagation and USNC-URSI Radio Science Meeting (2022 AP-S/URSI)",
+      "作者群": "Chow-Yen-Desmond Sim*, Jayshri Kulkarni, Anisha M. Apte, Rong Cao, Chih-Chiang Chen, Shr-Hua Wang, Yu-Ru Shu, and Hui-Zhi Lai"
+    },
+    {
+      "論文名稱": "MIMO antenna with hexagonal split ring resonator for LTE, Wireless LAN, and Wi-Fi 6 services",
+      "會議名稱": "2022 IEEE International Symposium on Antennas and Propagation and USNC-URSI Radio Science Meeting (2022 AP-S/URSI)",
+      "作者群": "Chow-Yen-Desmond Sim, Jayshri Kulkarni*, Anisha M. Apte, Rong Cao, Chih-Chiang Chen, Shr-Hua Wang, Yu-Ru Shu, and Hui-Zhi Lai"
+    },
+    {
+      "論文名稱": "A Dual Band Dual-Polarized Sub-6GHz Base Station Antenna",
+      "會議名稱": "2021 15th European Conference on Antennas and Propagation (EuCAP)",
+      "作者群": "R. Cao*, C. Y. D. Sim, and J. H. Zhuang"
+    },
+    {
+      "論文名稱": "A dual band dual-polarized sub-6GHz base station antenna",
+      "會議名稱": "15th European Conference on Antennas and Propagation (EuCAP 2021)",
+      "作者群": "Rong Cao*, Chow-Yen-Desmond Sim, and Jia-He Zhuang"
+    },
+    {
+      "論文名稱": "共平面波導雙頻圓極化槽孔天線",
+      "會議名稱": "2017全國電信研討會暨104年度科技部電信學門成果發表會",
+      "作者群": "劉明盛*,曹嶸"
+    },
+    {
+      "論文名稱": "應用於超高頻RFID 讀取器之圓極化單極天線",
+      "會議名稱": "2014年全國電信研討會",
+      "作者群": "王俊凱, 曹嶸"
+    },
+    {
+      "論文名稱": "應用於超高頻無線射頻辨識系統之圓極化蜿蜒槽孔微帶天線",
+      "會議名稱": "2013智慧電子應用設計研討會",
+      "作者群": "游舜荃, 曹嶸"
+    }
+  ],
+  "book": [],
+  "patent": [],
+  "most": [
+    {
+      "name": "小型化基地台之寬頻雙極化天線",
+      "schoolYear": "112"
+    },
+    {
+      "name": "用於3G/LTE之 雙極化基站天線設計",
+      "schoolYear": "107"
+    },
+    {
+      "name": "具有奈米結構之超導體和第1.5類超導體中磁通渦旋釘扎與磁通動力學的模擬研究",
+      "schoolYear": "101"
+    }
+  ],
+  "tech": [],
+  "induAca": [
+    "行動通訊專業核心課程改進及推廣計畫 (2023-02 to 2025-01)",
+    "教育部5G行動寬頻課程推廣計畫(第2期)—5G毫米波天線設計課程模組「電波技術與實務」 (2021-02 to 2023-01)",
+    "桃園捷運的無線電傳輸系統斷訊問題先期研究 (2016-07 to 2016-10)"
+  ],
+  "perform": [],
+  "reward": [
+    "逢甲大學論文著作獎勵傑出獎 (111, 2022-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (111, 2022-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (106, 2017-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (106, 2017-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (105, 2016-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (105, 2016-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (103, 2014-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (103, 2014-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (103, 2014-11) - 逢甲大學"
+  ],
+  "speech": [],
+  "material": [],
+  "tal": []
+}

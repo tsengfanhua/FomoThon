@@ -1,0 +1,646 @@
+{
+  "teacherId": "T93146",
+  "name": "王逸琦",
+  "mainUnit": "工程與科學學院",
+  "detailUnit": "工業工程與系統管理學系",
+  "skill": [
+    "精實製造/精實企業系統Lean Manufacturing/Lean Enterprise Systems",
+    "供應鏈管理Supply Chain Management",
+    "系統模擬System Simulation",
+    "製造程序Manufacturing Processes"
+  ],
+  "edu": [
+    "美國密西西比州立大學 工業工程學系 博士",
+    "美國雪城大學 製造工程學系 碩士",
+    "私立大同工學院 機械工程學系 學士"
+  ],
+  "fcuExp": [
+    "工業工程與系統管理學系 系主任",
+    "工業工程與系統管理學系 助理教授",
+    "工業工程與系統管理學系 副教授",
+    "工業工程與系統管理學系 教授"
+  ],
+  "currjob": [],
+  "otherExp": [
+    "崑山科技大學 資訊管理系 助理教授"
+  ],
+  "journal": [
+    {
+      "論文名稱": "Developing algorithm and dispatching rules for scheduling a realistic flexible flow shop with setups to minimize total weighted tardiness",
+      "期刊名稱": "The International Journal of Advanced Manufacturing Technology (SCIE)",
+      "作者群": "Feng Yu Hsieh, Yang Kuei Lin and Yi-Chi Wang"
+    },
+    {
+      "論文名稱": "Making Flow in Machining and Non-machining pro-cesses with Leveling and Small Lot Sizing: A Kaizen Case Study",
+      "期刊名稱": "Lecture Notes in Mechanical Engineering (EI)",
+      "作者群": "Kei Wai Kwan, Siu Hang Godwin Chan, Cheng-Chi Chiang , Yi-Chi Wang"
+    },
+    {
+      "論文名稱": "An Auto-weighting FWI Fuzzy Collaborative Intelligence Approach for Forecasting DRAM Yield",
+      "期刊名稱": "Procedia Manufacturing (EI)",
+      "作者群": "Chen, T, Lin, C.W., and Wang, Y.C."
+    },
+    {
+      "論文名稱": "A fuzzy nonlinear programming approach for planning energy-efficient wafer fabrication factories",
+      "期刊名稱": "Applied Soft Computing (SCIE)",
+      "作者群": "Yi-Chi Wang, Min-Chi Chiu*, Toly Chen"
+    },
+    {
+      "論文名稱": "An incremental learning and integer-nonlinear programming approach to mining users’ unknown preferences for ubiquitous hotel recommendation",
+      "期刊名稱": "Journal of Ambient Intelligence and Humanized Computing (SCIE)",
+      "作者群": "Tin-Chih Toly Chen, Yi-Chi Wang*"
+    },
+    {
+      "論文名稱": "Optimization of machining economics and energy consumption in face milling operations",
+      "期刊名稱": "The International Journal of Advanced Manufacturing Technology (SCIE)",
+      "作者群": "Yi-Chi Wang*, Dong-Won Kim, Hiroshi Katayama, Wen-Chin Hsueh"
+    },
+    {
+      "論文名稱": "A Nonlinear Normalized Back Propagation Network and Cloud Computing Approach for Determining Cycle Time Allowance During Wafer Fabrication",
+      "期刊名稱": "Robotics and Computer-Integrated Manufacturing (SCIE,EI)",
+      "作者群": "Chen, T. and Wang, Y.-C."
+    },
+    {
+      "論文名稱": "Predictive Distant Operation and Virtual Control of Computer Numerical Control Machines",
+      "期刊名稱": "Journal of Intelligent Manufacturing (SCIE,EI)",
+      "作者群": "T. Chen, Y.-C. Wang, Z. Lin"
+    },
+    {
+      "論文名稱": "Selection of Cutting Conditions for Power Constrained Parallel Machine Scheduling",
+      "期刊名稱": "Robotics and Computer-Integrated Manufacturing (SCIE,EI)",
+      "作者群": "Wang, Y.-C., Wang, M.-J., and Lin, S.-C."
+    },
+    {
+      "論文名稱": "Seeing green: achieving environmental sustainability through Lean and Six Sigma",
+      "期刊名稱": "International Journal of Lean Six Sigma ()",
+      "作者群": "Jose Arturo Garza-Reyes, Vikas Kumar, F. Frank Chen, Yi-Chi Wang"
+    },
+    {
+      "論文名稱": "A Simulation Analysis of Part Launching and Order Collection Decisions for a Flexible Manufacturing System",
+      "期刊名稱": "Simulation Modelling Practice and Theory (SCIE,EI)",
+      "作者群": "Wang, Y.-C.*, Chen, T., Chiang, H., and Pan, W.-C."
+    },
+    {
+      "論文名稱": "Competitiveness assessment and enhancement in virtual organisations",
+      "期刊名稱": "International Journal of Technology Management (SSCI,SCIE)",
+      "作者群": "Toly Chen*, Zdeněk Mikoláš, Yi-Chi Wang"
+    },
+    {
+      "論文名稱": "An agent-based fuzzy collaborative intelligence approach for precise and accurate semiconductor yield forecasting",
+      "期刊名稱": "IEEE Transactions on Fuzzy Systems (SCIE)",
+      "作者群": "Toly Chen*, Yi-Chi Wang"
+    },
+    {
+      "論文名稱": "Fuzzy nonlinear programming with applications in decision making",
+      "期刊名稱": "Journal of Applied Mathematics (SCIE)",
+      "作者群": "Tin-Chih Toly Chen,Deng-Feng Li,T. Warren Liao,Yi-Chi Wang"
+    },
+    {
+      "論文名稱": "Applications of fuzzy ensemble approaches in modeling, forecasting, and control",
+      "期刊名稱": "Mathematical Problems in Engineering (SCIE)",
+      "作者群": "Toly Chen*, Katsuhiro Honda, Pedro Ponce, T. Warren Liao, Yi-Chi Wang"
+    },
+    {
+      "論文名稱": "Scheduling Unrelated Parallel Machines in a Semiconductor Manufacturing by Problem Reduction and Local Search Heuristics",
+      "期刊名稱": "Flexible Services and Manufacturing (SCIE,EI)",
+      "作者群": "Wang, I, Wang, Y.-C., and Chen, C.-W."
+    },
+    {
+      "論文名稱": "A fuzzy rule for improving the performance of multi-objective job dispatching in a wafer fabrication factory",
+      "期刊名稱": "Journal of Applied Mathematics (SCIE)",
+      "作者群": "Toly Chen*, Yi-Chi Wang"
+    },
+    {
+      "論文名稱": "A fuzzy collaborative forecasting approach for forecasting the productivity of a factory",
+      "期刊名稱": "Advances in Mechanical Engineering (SCIE)",
+      "作者群": "Yi-Chi Wang, Toly Chen*"
+    },
+    {
+      "論文名稱": "A fuzzy collaborative forecasting approach for WIP level estimation in a wafer fabrication factory",
+      "期刊名稱": "Applied Mathematics & Information Sciences (SCIE)",
+      "作者群": "Toly Chen*, Chi-Wei Lin, Yi-Chi Wang"
+    },
+    {
+      "論文名稱": "A Fuzzy and Neural Approach for Optimizing the Performance of Job Dispatching in a Wafer Fabrication Factory",
+      "期刊名稱": "International Journal of Advanced Manufacturing Technology (SCIE,EI)",
+      "作者群": "Wang, Y.-C., Wu, C.-W., and Chen, T*."
+    },
+    {
+      "論文名稱": "A fuzzy-neural approach for optimizing the performance of job dispatching in a wafer fabrication factory",
+      "期刊名稱": "International Journal of Advanced Manufacturing Technology (SCIE)",
+      "作者群": "Yi-Chi Wang, Chien-Wei Wu, Toly Chen*"
+    },
+    {
+      "論文名稱": "Enhancing the long-term yield\r\ncompetitiveness of a semiconductor manufacturing factory using a multiobjective\r\nfuzzy nonlinear programming approach",
+      "期刊名稱": "Mathematical Problems in Engineering (SCIE)",
+      "作者群": "Toly Chen*, Yi-Chi Wang"
+    },
+    {
+      "論文名稱": "A Slack-Diversifying Nonlinear Fluctuation Smoothing Rule for Job Dispatching in a Wafer Fabrication Factory",
+      "期刊名稱": "Robotics and Computer-Integrated Manufacturing (SCIE,EI)",
+      "作者群": "Wang, Y.-C., Chen, T.*, and Lin, C.-W.,"
+    },
+    {
+      "論文名稱": "A post-classifying fuzzy-neural and data-fusion rule for job scheduling in a wafer fab - a simulation study",
+      "期刊名稱": "International Journal of Manufacturing Research (EI)",
+      "作者群": "Toly Chen*, Yi-Chi Wang"
+    },
+    {
+      "論文名稱": "A slack-diversifying nonlinear fluctuation smoothing rule for job dispatching in a wafer fabrication factory",
+      "期刊名稱": "Robotics and Computer-Integrated Manufacturing (SCIE)",
+      "作者群": "Yi-Chi Wang, Toly Chen*, Chi-Wei Lin"
+    },
+    {
+      "論文名稱": "An iterative procedure for optimizing the performance of the fuzzy-neural job cycle time estimation approach in a wafer fabrication factory",
+      "期刊名稱": "Mathematical Problems in Engineering (SCIE)",
+      "作者群": "Toly Chen*, Yi-Chi Wang"
+    },
+    {
+      "論文名稱": "Applied neural intelligence to modeling, control, and\r\nmanagement of human systems and environments",
+      "期刊名稱": "Applied Computational Intelligence and Soft Computing (EI)",
+      "作者群": "Toly Chen,P. Balasubramaniam,Quek Hiok Chai, and Yi-Chi Wang"
+    },
+    {
+      "論文名稱": "A fuzzy-neural approach for global CO2 concentration forecasting",
+      "期刊名稱": "Intelligent Data Analysis (SCIE)",
+      "作者群": "Toly Chen, Yi-Chi Wang"
+    },
+    {
+      "論文名稱": "Optimization of multi-task turning operations under minimal tool waste consideration",
+      "期刊名稱": "Robotics and Computer-Integrated Manufacturing (SCIE,EI)",
+      "作者群": "Yi-Chi Wang*, Yi-Che Chiu, Yu-Peng Hung"
+    },
+    {
+      "論文名稱": "A hybrid fuzzy and neural approach for forecasting the book-to-bill ratio in the semiconductor manufacturing industry",
+      "期刊名稱": "International Journal of Advanced Manufacturing Technology (SCIE,EI)",
+      "作者群": "Toly Chen, Yi-Chi Wang"
+    },
+    {
+      "論文名稱": "A bi-criteria four-factor fluctuation smoothing rule for scheduling jobs in a wafer fabrication factory",
+      "期刊名稱": "International Journal of Innovative Computing, Information a (SCIE,EI)",
+      "作者群": "Toly Chen, Yi-Chi Wang, Yu-Cheng Lin"
+    },
+    {
+      "論文名稱": "A bi-criteria nonlinear fluctuation smoothing rule incorporating the SOM-FBPN remaining cycle time estimator for scheduling a wafer fab - a simulation study",
+      "期刊名稱": "International Journal of Advanced Manufacturing Technology (SCIE,EI)",
+      "作者群": "Toly Chen, Yi-Chi Wang"
+    },
+    {
+      "論文名稱": "Incorporating the FCM–BPN approach with nonlinear programming for internal due date assignment in a wafer fabrication plant",
+      "期刊名稱": "Robotics and Computer-Integrated Manufacturing (SCIE,EI)",
+      "作者群": "Toly Chen, Yi-Chi Wang"
+    },
+    {
+      "論文名稱": "A fuzzy-neural system for scheduling a wafer fabrication factory",
+      "期刊名稱": "International Journal of Innovative Computing, Information a (SCIE,EI)",
+      "作者群": "Toly Chen, Yi-Chi Wang, Yu-Cheng Lin"
+    },
+    {
+      "論文名稱": "An evolving hybrid neural approach for predicting job completion time in a semiconductor fabrication plant",
+      "期刊名稱": "European Journal of Industrial Engineering (SCIE,EI)",
+      "作者群": "Toly Chen, Yi-Chi Wang"
+    },
+    {
+      "論文名稱": "A nonlinear scheduling rule incorporating fuzzy-neural remaining cycle time estimator for scheduling a semiconductor manufacturing factory",
+      "期刊名稱": "International Journal of Advanced Manufacturing Technology (SCIE,EI)",
+      "作者群": "Toly Chen, Yi-Chi Wang"
+    },
+    {
+      "論文名稱": "以模擬技術評估及改善豬隻屠宰場作業動線－以臺灣中部某豬隻屠宰場為例",
+      "期刊名稱": "臺灣獸醫學雜誌 ()",
+      "作者群": "周崇熙，王逸琦，蔡向榮，林高塚，賴治民，陳德勛"
+    },
+    {
+      "論文名稱": "A fuzzy-neural approach for remaining cycle time estimation in a semiconductor manufacturing factory – a simulation study",
+      "期刊名稱": "International Journal of Innovative Computing, Information a (SCIE,EI)",
+      "作者群": "Toly Chen, Yi-Chi Wang, Hsin-Chieh Wu"
+    },
+    {
+      "論文名稱": "Fuzzy-neural approaches with example post-classification for estimating job cycle time in a wafer fab",
+      "期刊名稱": "Applied Soft Computing (SCIE,EI)",
+      "作者群": "Toly Chen, Hsin-Chieh Wu, Yi-Chi Wang"
+    },
+    {
+      "論文名稱": "Lot cycle time prediction in a ramping-up semiconductor manufacturing factory with a SOM-FBPN-ensemble approach with multiple buckets and partial normalization",
+      "期刊名稱": "International Journal of Advanced Manufacturing Technology (SCIE,EI)",
+      "作者群": "Toly Chen, Yi-Chi Wang, Horng-Ren Tsai"
+    },
+    {
+      "論文名稱": "A fuzzy set approach for evaluating and enhancing the mid-term competitiveness of a semiconductor factory",
+      "期刊名稱": "Fuzzy Sets and Systems (SCIE,EI)",
+      "作者群": "Toly Chen, Yi-Chi Wang"
+    },
+    {
+      "論文名稱": "Modeling and optimization of machining conditions for the multi-pass dry turning process",
+      "期刊名稱": "Proceedings of the Institution of Mechanical Engineers, Part (SCIE,EI)",
+      "作者群": "Yi-Chi Wang, Toly Chen"
+    },
+    {
+      "論文名稱": "Evaluating Flexibility on Order Quantity and Delivery Lead Time for a Supply Chain System",
+      "期刊名稱": "International Journal of Systems Science (SCIE,EI)",
+      "作者群": "Yi-Chi Wang"
+    },
+    {
+      "論文名稱": "Estimating job cycle time in semiconductor manufacturing with an ANN approach equally dividing and post-classifying jobs",
+      "期刊名稱": "Materials Science Forum (EI)",
+      "作者群": "Toly Chen, Yi-Chi Wang, Yu-Cheng Lin, Kai-Hsiang Yang"
+    },
+    {
+      "論文名稱": "Enhancing the mid-term competitiveness of a semiconductor manufacturing factory through collaborative yield learning planning",
+      "期刊名稱": "Materials Science Forum (EI)",
+      "作者群": "Yi-Chi Wang, Toly Chen, Kun-Tai Li"
+    },
+    {
+      "論文名稱": "A Sensitivity Analysis of Solving Joint Replenishment Problems using the RAND Method under Inaccurate Holding Cost Estimates and Demand Forecasts",
+      "期刊名稱": "Computers & Industrial Engineering (SCIE,EI)",
+      "作者群": "Yi-Chi Wang and Wei-Ting Cheng"
+    },
+    {
+      "論文名稱": "A hybrid neural network and selective allowance approach for internal due date assignment in a wafer fabrication plant",
+      "期刊名稱": "International Journal of Advanced Manufacturing Technology (SCIE,EI)",
+      "作者群": "Toly Chen, Jeang, A. and Yi-Chi Wang"
+    },
+    {
+      "論文名稱": "A hybrid intelligent approach for output projection in a semiconductor fabrication plant",
+      "期刊名稱": "Intelligent Data Analysis (SCIE,EI)",
+      "作者群": "Toly Chen and Yi-Chi Wang"
+    },
+    {
+      "論文名稱": "A fuzzy-neural system with error feed-back to adjust classification for forecasting wafer lot flow time - a simulation study",
+      "期刊名稱": "Proceedings of the Institution of Mechanical Engineers (I) (SCIE,EI)",
+      "作者群": "Toly Chen, Yi-Chi Wang"
+    },
+    {
+      "論文名稱": "A Note on 'Optimization of Multi-pass Turning Operations using Ant Colony System'",
+      "期刊名稱": "International Journal of Machine Tools and Manufacture (SCIE,EI)",
+      "作者群": "Yi-Chi Wang"
+    },
+    {
+      "論文名稱": "A Reinforcement Learning Approach for Developing Routing Policies in a Multi-Agent Production Scheduling",
+      "期刊名稱": "International Journal of Advanced Manufacturing Technology (SCIE,EI)",
+      "作者群": "Yi-Chi Wang and John M. Usher"
+    },
+    {
+      "論文名稱": "Application of Reinforcement Learning for Agent-Based Production Scheduling",
+      "期刊名稱": "Engineering Applications of Artificial Engineering (SCIE)",
+      "作者群": "Yi-Chi Wang and John, M. Usher"
+    },
+    {
+      "論文名稱": "Learning Policies for Single Machine Job Dispatching",
+      "期刊名稱": "Robotics and Computer Integrated Manufacturing (SCIE)",
+      "作者群": "Yi-Chi Wang and John, M. Usher"
+    }
+  ],
+  "journal2": [],
+  "conference": [
+    {
+      "論文名稱": "Developing dispatching rules for flexible flowshop scheduling\nproblem",
+      "會議名稱": "27th International Conference on Production Research",
+      "作者群": "Feng Yu Hsieh, Yang Kuei Lin* and Yi Chi Wang"
+    },
+    {
+      "論文名稱": "Making Flow in Machining and Non-Machining Processes with Leveling  and Small Lot Sizing : a Kaizen Case Study",
+      "會議名稱": "The 32nd International Conference on Flexible Automation and Intelligent Manufacturing",
+      "作者群": "Kwan, K. W., Chan, S. H. G., Chiang, C.-C., and Wang, Y.-C."
+    },
+    {
+      "論文名稱": "An FNLP Approach for Planning Energy-efficient Manufacturing: Wafer Fabrication as an Example",
+      "會議名稱": "The 29th International Conference on Flexible Automation and Intelligent Manufacturing",
+      "作者群": "Wang, Y.-C. and Chen, T."
+    },
+    {
+      "論文名稱": "A Direct-Solution Fuzzy Collaborative Intelligence Approach for Yield Forecasting in Semiconductor Manufacturing",
+      "會議名稱": "The 28th International Conference on Flexible Automation and Intelligent Manufacturing",
+      "作者群": "Wang, Y.-C., and Chen, T."
+    },
+    {
+      "論文名稱": "Simulating a Semiconductor Packaging Facility: Sustainable Strategies and Short-time Evidences",
+      "會議名稱": "The 27th International Conference on Flexible Automation and Intelligent Manufacturing",
+      "作者群": "Wang, Y.-C., Chen, T., and Wang, L.-C."
+    },
+    {
+      "論文名稱": "Optimal Machining Economics and Energy Consumption for Face Milling Operations",
+      "會議名稱": "The 26th International Conference on Flexible Automation & Intelligent Manufacturing",
+      "作者群": "Wang, Y.-C., Kim, D.-W., Katayama, H., Hsueh, W.-C."
+    },
+    {
+      "論文名稱": "Machined Surface Roughness Evaluation by Image Processing",
+      "會議名稱": "The 26th International Conference on Flexible Automation & Intelligent Manufacturing",
+      "作者群": "Cuka, B., Kim, D.-W., Wang, Y.-C., Cho, M., and Cho, G."
+    },
+    {
+      "論文名稱": "On Development of Karakuri Contrivance for Green-lean Production- Through Manual Work Evaluation by Operations Experts with AHP Logic",
+      "會議名稱": "The 25th International Conference on Flexible Automation & Intelligent Manufacturing",
+      "作者群": "Hiroshi Katayama*, Jui-Chen Lin, and Yi-Chi Wang"
+    },
+    {
+      "論文名稱": "Multi-Sensor Tool Condition Monitoring based on Fuzzy Logic",
+      "會議名稱": "The 25th International Conference on Flexible Automation & Intelligent Manufacturing",
+      "作者群": "Besmir Cuka, Dong-Won Kim*, Eun-Young Heo and Yi-Chi Wang"
+    },
+    {
+      "論文名稱": "Optimization of Cutting Parameters for Parallel Machine Scheduling with Constrained Power Demand Peak",
+      "會議名稱": "The 24th International Conference on Flexible Automation & Intelligent Manufacturing",
+      "作者群": "Wang, Y.-C., Wang, M.-C., and Lin, S.-C."
+    },
+    {
+      "論文名稱": "A Simulation Study on Assemble-to-Order Production for a Machine Tools Manufacturer",
+      "會議名稱": "The 23rd International Conference on Flexible Automation & Intelligent Manufacturing",
+      "作者群": "Wang, Y.-C.*, Chen, T., and Chuang, F.-C."
+    },
+    {
+      "論文名稱": "Simulation Analysis of Part Launch and Order Collection Decisions for a Flexible Manufacturing System",
+      "會議名稱": "The 22nd International Conference on Flexible Automation and Intelligent Manufacturing",
+      "作者群": "Yi-Chi Wang*, Toly Chen, Hui-Chen Pan, and Fu-Chun Chuang"
+    },
+    {
+      "論文名稱": "A Slack-Diversifying Nonlinear Fluctuation Smoothing Rule for Job Dispatching in a Wafer Fabrication Factory",
+      "會議名稱": "The 21st International Conference on Flexible Automation & Intelligent Manufacturing",
+      "作者群": "Yi-Chi Wang,Toly Chen,and Chi-Wei Lin"
+    },
+    {
+      "論文名稱": "Optimization of Multi-Task Turning Operation under Minimal Tool Waste Consideration",
+      "會議名稱": "The 20th International Conference on Flexible Automation & Intelligent Manufacturing",
+      "作者群": "Wang, Y.-C., Chiu, Y.-C., and Hung, Y.-P."
+    },
+    {
+      "論文名稱": "Joint Replenishment and Supplier Selection using Particle Swarm Optimization",
+      "會議名稱": "The 19th International Conference on Flexible Automation & Intelligent Manufacturing",
+      "作者群": "Yi-Chi Wang and Wei-Ju Li"
+    },
+    {
+      "論文名稱": "Order Commitment Contracts in a Collaborative Supply Chain",
+      "會議名稱": "International Symposium on Scheduling 2009",
+      "作者群": "Yi-Chi Wang, Yifong Wang, and Shih-Chieh Chang"
+    },
+    {
+      "論文名稱": "An Evolutionary Strategy for Optimizing Multi-Pass Turning Operation under Dry Machining Conditions",
+      "會議名稱": "The 41st CIRP Conference on Manufacturing Systems",
+      "作者群": "Yi-Chi Wang and Yi-Che Chiu"
+    },
+    {
+      "論文名稱": "A Simulation Study of Measuring Supply Chain Performances under Unbalanced Retailer Demand Variability",
+      "會議名稱": "2007 IIE Annual Conference and Expo.",
+      "作者群": "王逸琦"
+    },
+    {
+      "論文名稱": "Parallel Replenishment Policies Between Collaborating Retailers",
+      "會議名稱": "The 16th International Conference on Flexible Automation and Intelligent Manufacturing",
+      "作者群": "Yi-Chi Wang and Chun-Chen Hung"
+    },
+    {
+      "論文名稱": "Exploring and Evaluating Flexibilities of a Supply Chain",
+      "會議名稱": "The 36th International Conference on Computers and Industrial Engineering",
+      "作者群": "Yi-Chi Wang and Keng-Nan Yen"
+    },
+    {
+      "論文名稱": "Developing intelligent software for diagnosing computer-related health issues",
+      "會議名稱": "The 6th WSEAS International Conference on Applied Computer Science",
+      "作者群": "Hsin-Chieh Wu,Toly Chen"
+    },
+    {
+      "論文名稱": " Study of Solving the Joint Replenishment Problem using the RAND Method under Uncertain Holding Cost",
+      "會議名稱": "4th International Conference on Supply Chain Management & Information Systems",
+      "作者群": "Yi-Chi Wang, hsiu-Wei Kuo, and Wei-Ting Cheng"
+    }
+  ],
+  "book": [],
+  "patent": [],
+  "most": [
+    {
+      "name": "工具機鑄件運輸之車輛路徑問題",
+      "schoolYear": "112"
+    },
+    {
+      "name": "工具機鑄造廠木模取放與搬運之改善",
+      "schoolYear": "110"
+    },
+    {
+      "name": "建構工具機產業之循環經濟模式(3/3)",
+      "schoolYear": "109"
+    },
+    {
+      "name": "應用最佳訂貨策略與生產模式改善鋼捲之問題",
+      "schoolYear": "109"
+    },
+    {
+      "name": "建構工具機產業之循環經濟模式(2/3)",
+      "schoolYear": "108"
+    },
+    {
+      "name": "五大鑄件底座與鞍座之現場領取與放置–以工具機A公司為例",
+      "schoolYear": "108"
+    },
+    {
+      "name": "建構工具機產業之循環經濟模式(1/3)",
+      "schoolYear": "107"
+    },
+    {
+      "name": "台灣工具機產業之永續產品服務系統之研究(3/3)",
+      "schoolYear": "106"
+    },
+    {
+      "name": "台灣工具機產業之永續產品服務系統之研究(2/3)",
+      "schoolYear": "105"
+    },
+    {
+      "name": "台灣工具機產業之永續產品服務系統之研究(1/3)",
+      "schoolYear": "104"
+    },
+    {
+      "name": "工具機產業之平準化零組件耗用,差異化與客製化產品型錄,與服務導向產品開發之研究(I)",
+      "schoolYear": "103"
+    },
+    {
+      "name": "總計畫-以具競爭優勢的永續製造 (CSM)帶動台灣3C產業未來發展：以電聲產業為例(3/3)",
+      "schoolYear": "102"
+    },
+    {
+      "name": "以具競爭優勢的永續製造(CSM)帶動台灣3C產業未來發展: 以電聲產業為例-子計畫二: 電聲產業之綠色精實製程規劃(3/3)",
+      "schoolYear": "102"
+    },
+    {
+      "name": "產業技術聯盟合作計畫-以模組化技術提升精密機械產業聯盟價值鏈(1/3)",
+      "schoolYear": "101"
+    },
+    {
+      "name": "總計畫-以具競爭優勢的永續製造 (CSM)帶動台灣3C產業未來發展：以電聲產業為例(2/3)",
+      "schoolYear": "101"
+    },
+    {
+      "name": "以具競爭優勢的永續製造(CSM)帶動台灣3C產業未來發展: 以電聲產業為例-子計畫二: 電聲產業之綠色精實製程規劃(2/3)",
+      "schoolYear": "101"
+    },
+    {
+      "name": "總計畫-以具競爭優勢的永續製造 (CSM)帶動台灣3C產業未來發展：以電聲產業為例(1/3)",
+      "schoolYear": "100"
+    },
+    {
+      "name": "以具競爭優勢的永續製造(CSM)帶動台灣3C產業未來發展: 以電聲產業為例-子計畫二: 電聲產業之綠色精實製程規劃(1/3)",
+      "schoolYear": "100"
+    },
+    {
+      "name": "蟻群最佳化演算法於平面銑削參數之應用",
+      "schoolYear": "100"
+    },
+    {
+      "name": "考慮經濟刀具置換策略於多功能工具機之切削條件最佳化 (II)",
+      "schoolYear": "99"
+    },
+    {
+      "name": "考慮經濟刀具置換策略於多功能工具機之切削條件最佳化(I)",
+      "schoolYear": "98"
+    },
+    {
+      "name": "以混合式分群概念為基之啟發式方法求解聯合補貨問題 (II)",
+      "schoolYear": "97"
+    },
+    {
+      "name": "二階層供應鏈之橫向補貨系統分析",
+      "schoolYear": "97"
+    },
+    {
+      "name": "以混合式分群概念為基之啟發式方法求解聯合補貨問題(I)",
+      "schoolYear": "96"
+    },
+    {
+      "name": "蟻群演算法於最佳化切削參數之應用",
+      "schoolYear": "96"
+    },
+    {
+      "name": "平行供應鏈之協同補貨政策",
+      "schoolYear": "95"
+    },
+    {
+      "name": "以螞蟻演算法求解最佳聯合補貨政策",
+      "schoolYear": "95"
+    },
+    {
+      "name": "應用強化學習法於智慧型代理人生產排程之研究",
+      "schoolYear": "94"
+    }
+  ],
+  "tech": [
+    {
+      "論文名稱": "Developing a software agent for establishing a convenient customer-driven group-buying mechanism (2009-03)",
+      "書名": "U-commerce for Creating Personalized Marketplace",
+      "作者群": "Toly Chen, Yi-Chi Wang, Horng-Ren Tsai, Yu-Cheng Lin"
+    },
+    {
+      "論文名稱": "Collaborative semiconductor yield forecasting with a fuzzy-neural expert system (2009-02)",
+      "書名": "Soft Computing: New Research",
+      "作者群": "Toly Chen, Yi-Chi Wang, Hsin-Chieh Wu"
+    },
+    {
+      "論文名稱": "A fuzzy-neural and multiple-bucket approach for job cycle time prediction in a ramping-up semiconduc (2009-02)",
+      "書名": "Soft Computing: New Research",
+      "作者群": "Toly Chen, Yi-Chi Wang, Hsin-Chieh Wu"
+    }
+  ],
+  "induAca": [
+    "自行車車架生產之精實管理改善III (2024-03 to 2024-09)",
+    "自行車車架生產之精實管理改善II (2023-08 to 2023-12)",
+    "精密機械加工之精實生產改善 (2023-05 to 2023-10)",
+    "自行車車架生產之精實管理改善 (2022-12 to 2023-03)",
+    "放電加工機組裝之精實改善協作 (2021-06 to 2021-09)",
+    "＂生產技術提升輔導計畫＂研究計畫 (2021-03 to 2021-07)",
+    "鑄造生產之精實管理改善 (2020-11 to 2021-01)",
+    "(諮詢顧問)工業工程管理教育計畫 (2020-02 to 2020-07)",
+    "工具機生產之精實管理改善 (2019-02 to 2020-01)",
+    "鏈條生產流程之精實管理分析與改善 (2018-11 to 2019-05)",
+    "鞋履生產之精實管理諮詢顧問專案計畫 (2018-06 to 2018-12)",
+    "捆包機組裝之精實管理-Ⅲ (2017-07 to 2017-09)",
+    "龍門型加工中心機之精實生產 (2017-02 to 2017-05)",
+    "捆包機組裝之精實管理-II (2016-12 to 2017-06)",
+    "捆包機組裝之精實管理 (2016-07 to 2016-11)",
+    "經營輔導改善顧問專案計畫(諮詢顧問計畫) (2012-03 to 2013-02)"
+  ],
+  "perform": [],
+  "reward": [
+    "逢甲大學論文著作獎勵優等獎 (113, 2024-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (111, 2022-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (110, 2021-11) - 逢甲大學",
+    "110年度科技部補助大專校院研究獎勵 (110, 2021-10) - 產學合作處",
+    "逢甲大學論文著作獎勵優良獎 (109, 2020-11) - 逢甲大學",
+    "109年度科技部補助大專校院研究獎勵 (109, 2020-10) - 逢甲大學",
+    "2018全國工業工程與管理大學生專題論文與技術報告競賽 (106, 2018-06) - 中國工業工程學會",
+    "2017 全國「工業工程與管理」大學生論文與技術報告競賽 (105, 2017-06) - 中國工業工程學會",
+    "中華民國科技管理學會 2014 年 EMBA 論文獎 (103, 2014-12) - 中華民國科技管理學會"
+  ],
+  "speech": [
+    {
+      "演講題目": "Core of Industrial Engineering: Lean Thinking",
+      "邀請單位": "Universiti of Tunku Abdul Rahman, Malaysia",
+      "演講日期": "2024-09"
+    },
+    {
+      "演講題目": "數位製造管理加值計畫 - Lean 聽我說",
+      "邀請單位": "經濟部工業局",
+      "演講日期": "2022-04"
+    },
+    {
+      "演講題目": "精實管理與 Karakuri 改善",
+      "邀請單位": "愛爾蘭商速聯股份有限公司",
+      "演講日期": "2020-02"
+    },
+    {
+      "演講題目": "不一樣的智慧製造之路 からくり改善",
+      "邀請單位": "資誠聯合會計師事務所",
+      "演講日期": "2020-01"
+    },
+    {
+      "演講題目": "Design of Leanised Machines",
+      "邀請單位": "Waseda University, Japan",
+      "演講日期": "2018-03"
+    },
+    {
+      "演講題目": "台灣工具機產業現況",
+      "邀請單位": "台灣精實企業系統學會",
+      "演講日期": "2017-05"
+    },
+    {
+      "演講題目": "實踐現場改善的精實力",
+      "邀請單位": "虎尾科技大學工業工程與管理研究所",
+      "演講日期": "2017-04"
+    },
+    {
+      "演講題目": "The Power and Magic of Gemba Walks",
+      "邀請單位": "國立台灣大學工業工程學研究所",
+      "演講日期": "2016-11"
+    },
+    {
+      "演講題目": "Green and Lean in Sustainable Manufacturing: A Case of Optimizing Machining Conditions for Power-constrained Parallel Machine Scheduling",
+      "邀請單位": "Waseda University, Japan",
+      "演講日期": "2016-06"
+    },
+    {
+      "演講題目": "The Story of Lean Production",
+      "邀請單位": "國立清華大學工業工程與工程管理學系",
+      "演講日期": "2015-04"
+    },
+    {
+      "演講題目": "精實思維的起源與演進",
+      "邀請單位": "國立屏東科技大學生物機電工程系",
+      "演講日期": "2013-04"
+    },
+    {
+      "演講題目": "Modeling and Optimization of Machining Processes",
+      "邀請單位": "台科大工管所",
+      "演講日期": "2011-11"
+    },
+    {
+      "演講題目": "Modeling and Optimization of Machining Processes",
+      "邀請單位": "Chonbuk National University, South Korea",
+      "演講日期": "2010-12"
+    },
+    {
+      "演講題目": "Application of Reinforcement Learning for Agent-Based Produc",
+      "邀請單位": "明新科大工管所",
+      "演講日期": "2005-11"
+    }
+  ],
+  "material": [
+    "Developing a software agent for establishing a convenient customer-driven group-buying mechanism\tIGI Global\tToly Chen, Yi-Chi Wang, Horng-Ren Tsai, Yu-Cheng Lin\t複合教材"
+  ],
+  "tal": []
+}

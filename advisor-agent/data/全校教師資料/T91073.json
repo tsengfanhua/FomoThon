@@ -1,0 +1,1285 @@
+{
+  "teacherId": "T91073",
+  "name": "林漢年",
+  "mainUnit": "資訊電機學院",
+  "detailUnit": "通訊工程學系",
+  "skill": [
+    "電磁相容Electromagnetic Compatibility",
+    "無線與衛星通訊Wireless and Satellite Communications",
+    "光纖通訊Fiber Optic Communicatioms",
+    "電磁波傳播理論Electromagnetic Waves Propagation",
+    "射頻與微波電路設計RF and Microwave Circuit Design",
+    "無線通訊系統之射頻干擾與應用RFI Analysis and Application for Wireless Communications",
+    "晶片電磁相容性設計EMC Design for IC",
+    "週期性超穎材料研究Periodic Structure Meta-Material"
+  ],
+  "edu": [
+    "美國紐約科技大學 電子物理 博士",
+    "美國紐約科技大學 電機工程 碩士",
+    "國立台灣大學 電機工程系 學士"
+  ],
+  "fcuExp": [
+    "積體電路電磁相容研究發展中心 研發組組長",
+    "積體電路電磁相容研究發展中心 副主任",
+    "積體電路電磁相容研究發展中心 副主任",
+    "積體電路電磁相容研究發展中心 主任",
+    "電機工程學系 兼任助理教授",
+    "電機工程學系 兼任副教授",
+    "通訊工程學系 副教授",
+    "通訊工程學系 教授",
+    "通訊工程學系 教授",
+    "通訊工程學系 教授"
+  ],
+  "currjob": [],
+  "otherExp": [
+    "私立大葉大學 電機工程學系 副教授",
+    "私立大葉大學 電機工程學系 助理教授",
+    "國立勤益工商專科學校 電子工程學系 副教授"
+  ],
+  "journal": [
+    {
+      "論文名稱": "Design and Application of Novel Stripline for IC-EMC Characteristic Measurement",
+      "期刊名稱": "IET Science, Measurement & Technology (SCIE)",
+      "作者群": "Han-Hien Lin, Tzu-Hao Ho*, Wei-Yen Chang, Chung-Wei Kuo"
+    },
+    {
+      "論文名稱": "Design and application of a mobile miniature current probe for analysing the cause of EMI noise in IC circuits",
+      "期刊名稱": "IET Science, Measurement & Technology (SCIE)",
+      "作者群": "Han-Nien Lin, Hung-Chi Chen, Chung-Wei Kuo , Yen-Tang Chang"
+    },
+    {
+      "論文名稱": "Characteristic Analysis and Applications of Electromagnetic Shielding Materials for Wireless Communications Device",
+      "期刊名稱": "The Open Materials Science Journal,2016 (EI)",
+      "作者群": "Han-Nien Lin, Po-Yen Wang, Ya-Ying  Chen, Hung-Yun Tsai, Cheng-Chang Chen"
+    },
+    {
+      "論文名稱": "Design and Simulation of A C-Band Pyramidal Horn Antenna for Water-level Radar Sensors",
+      "期刊名稱": "Journal of Marine Science and Technology (SCIE)",
+      "作者群": "Ke-Ru Chou, Tzong-Dar Wu, Han-Nien Lin, Tai-Shan Liao, and Kwong-Kau Tiong"
+    },
+    {
+      "論文名稱": "Design and operation of an edge-wall slotted waveguide array antenna with ultralow side lobes for application of off-shore radar",
+      "期刊名稱": "Journal of Marine Science and Technology (SCIE)",
+      "作者群": "Ke-Ru Chou、*Han-Nien Lin、Wei-Hsien Lu、Heng-Wen Chang、Kwong-Kau Tiong"
+    },
+    {
+      "論文名稱": "Electromagnetic interference noise suppression of writing/reading flash memory with multiple-execution control program",
+      "期刊名稱": "IET Sci. Mea. Technol 2015 (SCIE)",
+      "作者群": "*Han-Nien Lin, Chung-Wei Kuo, Hung-Chi Chen"
+    },
+    {
+      "論文名稱": "Design and Operation of An Edge-Wall Slotted Waveguide Array Antenna with Ultralow Side Lobes for Application of Off-Shore Rader",
+      "期刊名稱": "Marine Science and Technology ()",
+      "作者群": "Ke-Ru Chou, Han-Nien Lin, Wer-Hsien Lu, Heng-Wen Chang and Kwong-Kau Tiong"
+    },
+    {
+      "論文名稱": "The Analysis of Receiving Sensitivity Degrandation of WLAN Performance due to EMI Noise from SSD Module.",
+      "期刊名稱": "PIERS Proceedings (PIERS)",
+      "作者群": "Han-Nien Lin,Po-Yu Chiang,Wang-Chwen Tsai,and Cheng-Chang Chen"
+    },
+    {
+      "論文名稱": "車用電子智慧化應用之EMC要求與測試技術發展分析",
+      "期刊名稱": "電子檢測與品管季刊 (技術期刊)",
+      "作者群": "林漢年"
+    }
+  ],
+  "journal2": [],
+  "conference": [
+    {
+      "論文名稱": "Conducted Emission Simulation with ICEM Modeling and Measurement for HV Buck Integrated Circuit",
+      "會議名稱": "EMC Japan / Asia-Pacific International Symposium on Electromagnetic Compatibility (EMC Japan/APEMC Okinawa)",
+      "作者群": "Ren-Hui Liao, Han-Nien Lin, Tzu-Hao Ho, Wei-Yen Chang, Ming-Yu Hsu, Yun-Shan Cai"
+    },
+    {
+      "論文名稱": "Analysis of Capacitive Clamp Effect on Power Charging Cords and Plug with EFT Transient Burst Injection",
+      "會議名稱": "2022 Asia-Pacific International Symposium on Electromagnetic Compatibility (APEMC)",
+      "作者群": "Han-Nien Lin;*Tzu-Hao Ho;Wan-Yu Syu;Yu-Ming Wei;Yueh-Hsun Lee;Qain-Yu Ye;Cheng-Hao Huang;Liang-Yang Lin;Yuan-Fu Ku;Jeffrey Yen-Ting Lin"
+    },
+    {
+      "論文名稱": "Model for Surge Generator Transient Analysis andImmunity Improvement Investigation on Power Grid System",
+      "會議名稱": "2021 ASIA PACIFIC INTERNATIONAL SYMPOSIUM ON ELECTROMAGNETIC COMPATIBILITY",
+      "作者群": "Han-Nien Lin, Tzu-Hao Ho, Yu-Lin Tsai, Jie-Kuan Li,  Huei-Chun Hsiao, Yueh-Hsun Lee, Yu-Ming Wei, Wan-Yu Syu, Yen-Tang Chang, Chia-Hung Su"
+    },
+    {
+      "論文名稱": "Switching Noise Analysis for Conducted Electromagnetic Interference from of Power Electronic Module",
+      "會議名稱": "2021 ASIA PACIFIC INTERNATIONAL SYMPOSIUM ON ELECTROMAGNETIC COMPATIBILITY",
+      "作者群": "Han-Nien Lin, Tzu-Hao Ho, Po-Ning Ko, Yu-Lin Tsai, Huei-Chun Hsiao, Jie-Kuan Li, Wan-Yu Syu, Yu-Ming Wei,  Yueh-Hsun Lee, Sung-Mao Wu, Jeffrey (Yen-Ting) Lin, Liang-Yang Lin, Chia-Hung Su"
+    },
+    {
+      "論文名稱": "EFT Transient Noise Model and Protection Analysis\nfrom Chip to System Level on Power Distribution",
+      "會議名稱": "2020 International Symposium on Electromagnectic Compatibility - EMC EUROPE",
+      "作者群": "Han-Nien Lin, Tzu-Hao Ho, Yu-Chun Huang, Po-Ning Ko, Jia-Yu Huang, Yu-Lin Tsai, Jie-Kuan Li, Huei-Chun Hsiao, Yen-Tang Chang, Jeffrey(Yen-Ting) Lin"
+    },
+    {
+      "論文名稱": "High-Sensitivity Magnetic Probe Design and Its Application on EMI Measurement for Micro-Controller",
+      "會議名稱": "EDAPS 2019: IEEE Electrical Design of Advanced Packaging and Systems",
+      "作者群": "Han-Nien Lin, Wei-Ding Tseng, Jia-Yu Huang, Yu-Lin Tsai"
+    },
+    {
+      "論文名稱": "Design and Characteristic Calibration of TEM Cell for IC Radiation EMC Test",
+      "會議名稱": "EDAPS 2019: IEEE Electrical Design of Advanced Packaging and Systems",
+      "作者群": "[24]\tHan-Nien Lin, Po-Ning Ko, Yu-Chun Huang, Huei-Chun Hsiao, Jie-Kuan Li"
+    },
+    {
+      "論文名稱": "Establishment of ESD Generator Model for Transient Susceptibility Analysis from Chip to System Level",
+      "會議名稱": "2019 Joint IEEE EMC & APEMC",
+      "作者群": "Han-Nien Lin, Bo-Ning Ko, Jeffrey (Yen-Ting) Lin"
+    },
+    {
+      "論文名稱": "Analysis of PCB return path configuration effect on Transient ESD Suppression",
+      "會議名稱": "2019 Joint IEEE EMC & APEMC",
+      "作者群": "Han-Nien Lin, Tzu-Hao Ho, Jia-Yu Huang, Yu-Chun Huang"
+    },
+    {
+      "論文名稱": "Root Cause Analysis and Defect Ground Effect of EMI Problem for Power Electronic",
+      "會議名稱": "2019 Joint IEEE EMC & APEMC",
+      "作者群": "Han-Nien Lin, Wei-Ding Tseng, Cheng-Hau Wu"
+    },
+    {
+      "論文名稱": "Near- and Far-Field Shielding Effectiveness Analysis of Magnetic Materials and Their Effect on Wireless Power Charger",
+      "會議名稱": "2018 Joint IEEE EMC & APEMC",
+      "作者群": "Han-Nien Lin,Cheng-Hau Wu,Jen-Fu Huang ,Wei-Ding Tseng ,Jeffrey (Yen-Ting) Lin ,Min-Shang Lin"
+    },
+    {
+      "論文名稱": "RFI Suppression and Throughput Improvement of WiFi Performance with Graphene Coating for Converging Mobile Device",
+      "會議名稱": "2018 Joint IEEE EMC & APEMC",
+      "作者群": "Cheng-Hau Wu ,Han-Nien Lin ,  Jing-Wen Fu , Jeffrey (Yen-Ting) Lin,Min-Shang Lin,Chia-Hung Su"
+    },
+    {
+      "論文名稱": "無線網路環境中電磁波回收應用之射頻能量採集技術分析",
+      "會議名稱": "2017能源科技產品檢測技術論文研討會",
+      "作者群": "林漢年、賈竣凱、傅靖雯、吳承澔、黃仁甫、林明山"
+    },
+    {
+      "論文名稱": "Design and Validation of a Movable Pin-Contact Miniature Current Probe for Chip-Level EMI Noise Measurement",
+      "會議名稱": " 2017 International Symposium on Electromagnetic Compatibility - EMC EUROPE",
+      "作者群": "Han-Nien Lin, Che-Lun Hu , Jen-Fu Huang , Ming-Shan Lin , Tsung-Ching Lin"
+    },
+    {
+      "論文名稱": "環境電磁場強之偵測與射頻能源採集技術分析",
+      "會議名稱": "2016能源科技產品檢測技術論文研討會",
+      "作者群": "林漢年、賈竣凱、黃仁甫、張彥堂"
+    },
+    {
+      "論文名稱": "無線通訊電磁場強之監測校驗技術分析",
+      "會議名稱": "2016海峽兩岸研討會",
+      "作者群": "林漢年、林以舜、 賈竣凱、張彥堂"
+    },
+    {
+      "論文名稱": "材料屏蔽與吸波效應分析與Wi-Fi效能之改善應用",
+      "會議名稱": "2016台灣電磁產學聯盟半年報暨全國EMC技術與實務研討會",
+      "作者群": "林漢年、陳雅盈、張彥堂"
+    },
+    {
+      "論文名稱": "簡易型環境電磁場偵測裝置設計與分析",
+      "會議名稱": "2016台灣電磁產學聯盟半年報暨全國EMC技術與實務研討會",
+      "作者群": "林漢年、林以舜、董建利"
+    },
+    {
+      "論文名稱": "電波迴響室應用於無線通訊電磁耐受測試之設計分析",
+      "會議名稱": "2016台灣電磁產學聯盟半年報暨全國EMC技術與實務研討會",
+      "作者群": "林漢年、楊維哲、林明山"
+    },
+    {
+      "論文名稱": "The Analysis of Receiving Sensitivity Degradation of WLAN Performance due to EMI Noise from SSD Module",
+      "會議名稱": "2014 Progress In Electromagnetics Research Symposium",
+      "作者群": "Han-Nien Lin, Po-Yu Chiang, Wang-Chwen Tsai, and Cheng-Chang Chen"
+    },
+    {
+      "論文名稱": "The RF Immunity Characteristics Analysis of SSD Performance due to Wireless Communications Emission in Proximity",
+      "會議名稱": "2014 Progress In Electromagnetics Research Symposium",
+      "作者群": "Han-Nien Lin, Po-Yan Wang, Hung-Yun Tsai,Yung-Chi Tang"
+    },
+    {
+      "論文名稱": "Software-level microcontroller power integrity model for platform-based design methodology",
+      "會議名稱": "Automotive and Vehicle Technologies Conference (AVTEC)",
+      "作者群": "Shih-Yi Yuan, Han-Nien Lin, Shry-Sann Liao, and Yen-Tang Chang"
+    },
+    {
+      "論文名稱": "EMC Testing and Validation for Touch Panel with Strip Line S-parameter",
+      "會議名稱": "2013 Asia-Pacific Radio Science Conference",
+      "作者群": "Han-Nien Lin, Yen-Lin Tseng, Allen Liao, Chiu-Kuo Chen"
+    },
+    {
+      "論文名稱": "Effect on RF Receiving Sensitivity and Near Field EMC Analysis of Solid State Drive (SSD)",
+      "會議名稱": "2013 Asia-Pacific Radio Science Conference",
+      "作者群": "Han-Nien Lin, David Hsieh, Wei-Hua Huang, Yi-Cheng Chou"
+    },
+    {
+      "論文名稱": "The Impact of USB 3.0 Module on Wireless Communication with Improved Solution for EMI problem of High Speed Connectors",
+      "會議名稱": "2013 Asia-Pacific Radio Science Conference",
+      "作者群": "Han-Nien Lin, Wei-Hua Huang, Wei-Jr Lai"
+    },
+    {
+      "論文名稱": "IEC 61967-8 積體電路EMI 量測治具Stripline 之設計與特性分析",
+      "會議名稱": "2013 全國電磁相容技術與實務研討會",
+      "作者群": "林漢年；曾彥霖、王博彥"
+    },
+    {
+      "論文名稱": "併網型太陽能變流器之電磁相容特性與規範標準研究",
+      "會議名稱": "2013 全國電磁相容技術與實務研討會",
+      "作者群": "林漢年、呂承駿、陳冠威"
+    },
+    {
+      "論文名稱": "微控制器之電磁輻射雜訊改善與模型建立",
+      "會議名稱": "2013 全國電磁相容技術與實務研討會",
+      "作者群": "林漢年、蔡家豪、郭崇韋、林培倫"
+    },
+    {
+      "論文名稱": "高速連接器串音干擾之分析與特性改善技術",
+      "會議名稱": "2013 全國電磁相容技術與實務研討會",
+      "作者群": "林漢年、賴威智、潘俊維"
+    },
+    {
+      "論文名稱": "Verification Analysis of Electromagnetic Coupling between Display Module and Antenna of Mobile Devices for Wireless Communications",
+      "會議名稱": "2013 PIERS",
+      "作者群": "Han-Nien Lin, Allen Laio, Yen-Lin Tseng, and Ming-Shan Lin"
+    },
+    {
+      "論文名稱": "The Impact and Root Cause Analysis of USB 3.0 Module on Wireless Communication with Improved Solution for EMI Problem of High Speed Connectors",
+      "會議名稱": "2013 PIERS",
+      "作者群": "Han-Nien Lin, Wei-Hua Huang, and Wei-Jr Lai"
+    },
+    {
+      "論文名稱": "行車紀錄器內部干擾源對相鄰GSM天線之雜訊耦合分析",
+      "會議名稱": "2013 橋接未來電磁研討會暨國科會成果發表會",
+      "作者群": "林漢年、張加莉、江莉婷、江博育"
+    },
+    {
+      "論文名稱": "貫孔效應對信號完整性與電磁干擾影響分析",
+      "會議名稱": "2012全國電磁相容技術與實務研討會",
+      "作者群": "林漢年、陳靖婷、蔡宛純、潘俊維"
+    },
+    {
+      "論文名稱": "數位電路電源完整性設計及電磁干擾效應分析",
+      "會議名稱": "2012全國電磁相容技術與實務研討會",
+      "作者群": "林漢年、陳民峰、賴威智"
+    },
+    {
+      "論文名稱": "微控制器之電磁輻射雜訊研究與分析",
+      "會議名稱": "2012全國電磁相容技術與實務研討會",
+      "作者群": "林漢年、蔡家豪、江莉婷、周易澄、郭崇韋"
+    },
+    {
+      "論文名稱": "積體電路之電磁干擾量測法IEC61967-4及-6比對與分析",
+      "會議名稱": "2012全國電磁相容技術與實務研討會",
+      "作者群": "林漢年、張淙舜、曾彥霖、呂承駿、江博育"
+    },
+    {
+      "論文名稱": "行車紀錄器內部干擾源對相鄰GSM天線之雜訊耦合分析",
+      "會議名稱": "2012全國電磁相容技術與實務研討會",
+      "作者群": "林漢年,張加莉,江莉婷,江博育"
+    },
+    {
+      "論文名稱": "Radiated EMI Coupling Analysis between High-Speed Modules and Receiving Antennas of Mobile Devices",
+      "會議名稱": "2012 Asia-Pacific Symposium Electromagnetic Compatibility",
+      "作者群": "Han-Nien Lin, Jia-Li Chang, Chung-Wei Kuo"
+    },
+    {
+      "論文名稱": "Analysis of EMI Effect on Flash Memory IC",
+      "會議名稱": "2012 Asia-Pacific Symposium Electromagnetic Compatibility",
+      "作者群": "Han-Nien Lin1, Chung-Wei Kuo1, Chiu-kuo Chen2"
+    },
+    {
+      "論文名稱": "Measurement Analysis and Improvement Technique of Signal Integrity for High-Speed Connectors",
+      "會議名稱": "2012 Asia-Pacific Symposium Electromagnetic Compatibility",
+      "作者群": "Han-Nien Lin1, Yu-Chieh Huang1, Ming-Shan Lin2"
+    },
+    {
+      "論文名稱": "行動通訊裝置內高速模組對天線之接收雜訊耦合分析",
+      "會議名稱": "2011民生電子研討會",
+      "作者群": "林漢年,張加莉,江莉婷"
+    },
+    {
+      "論文名稱": "Statistical Analysis of EMI Noise Measurement for Flash Memory",
+      "會議名稱": "EMC compo 2011",
+      "作者群": "Han-Nien Lin, Chung-Wei Kuo, Jia-Li Chang, Chiu-Kuo Chen"
+    },
+    {
+      "論文名稱": "Receiving Performance enhancement of Active GPS Antenna with Periodic Structure",
+      "會議名稱": "2011PIERS",
+      "作者群": "Han-Nien Lin,Ke-Wen Lin,Chung-Wei Kuo,Yu-Jie Huang"
+    },
+    {
+      "論文名稱": "Use of Frequency Selective Surface to Prevent SAR and Improve Antenna Performance of Cellular Phones",
+      "會議名稱": "2011PIERS",
+      "作者群": "Han-Nien Lin,Ke-Wen Lin,Sheng-Chun Chen"
+    },
+    {
+      "論文名稱": "Notebook EMI Noise Analysis and WLAN TIS Performance Improvement with Periodic Structure",
+      "會議名稱": "PIERS 2011",
+      "作者群": "Han-Nien Lin, Ming-Cheng Chang, Ming-Shan Lin"
+    },
+    {
+      "論文名稱": "串音干擾對信號完整性之影響分析",
+      "會議名稱": "2011全國電磁相容技術與實務研討會",
+      "作者群": "林漢年、陳靖婷"
+    },
+    {
+      "論文名稱": "去耦合電容對抑制電磁干擾雜訊之分析",
+      "會議名稱": "2011全國電磁相容技術與實務研討會",
+      "作者群": "林漢年、陳民峰"
+    },
+    {
+      "論文名稱": "高速連接器SFP+之訊號完整性模擬與量測分析",
+      "會議名稱": "2011全國電磁相容技術與實務研討會",
+      "作者群": "林漢年、黃昱傑"
+    },
+    {
+      "論文名稱": "快閃記憶體電磁雜訊分析",
+      "會議名稱": "2011全國電磁相容技術與實務研討會",
+      "作者群": "林漢年、郭崇韋、張茗珵、張加莉"
+    },
+    {
+      "論文名稱": "電波迴響室特性與干擾場強量測之研究",
+      "會議名稱": "2011全國電磁相容技術與實務研討會",
+      "作者群": "林漢年、陳省?、邱建智"
+    },
+    {
+      "論文名稱": "LCD控制電路模組EMI雜訊及對802.11之傳輸頻段影響分析",
+      "會議名稱": "2011全國電磁相容技術與實務研討會",
+      "作者群": "林漢年、張茗珵、張加莉"
+    },
+    {
+      "論文名稱": "濾波器整合週期性結構之應用特性分析",
+      "會議名稱": "2011全國電磁相容技術與實務研討會",
+      "作者群": "林漢年、程光蛟、蕭宇君"
+    },
+    {
+      "論文名稱": "行動通訊裝置內高速傳輸線對天線之雜訊耦合分析",
+      "會議名稱": "2011全國電磁相容技術與實務研討會",
+      "作者群": "林漢年、張加莉、張茗珵"
+    },
+    {
+      "論文名稱": "筆記型電腦之EMI雜訊分析與應用週期性結構改善系統內近場耦合效應",
+      "會議名稱": "2011全國電磁相容技術與實務研討會",
+      "作者群": "林漢年、張茗珵、張加莉"
+    },
+    {
+      "論文名稱": "應用於無線電車載電磁耐受性測試之螺旋天線設計與特性分析",
+      "會議名稱": "2011全國電磁相容技術與實務研討會",
+      "作者群": "林漢年、魏婉如"
+    },
+    {
+      "論文名稱": "Influence Analysis of LCD Modules Noise on Performance of 802.11b",
+      "會議名稱": "2011 Asia-Pacific Electromagnetic Compatibility Symposium and Technical Exhibition",
+      "作者群": "林漢年 博士、張茗程、張加莉"
+    },
+    {
+      "論文名稱": "Radiated EMI analysis for CMOS Camera module with TEM Cell and Far-field testing",
+      "會議名稱": "2011 Asia-Pacific Electromagnetic Compatibility Symposium and Technical Exhibition",
+      "作者群": "林漢年 博士、陳靖婷"
+    },
+    {
+      "論文名稱": "Design and characteristic analysis of TEM Cell for IC and module EMC testing",
+      "會議名稱": "2011 Asia-Pacific Electromagnetic Compatibility Symposium and Technical Exhibition",
+      "作者群": "林漢年 博士、陳民峰"
+    },
+    {
+      "論文名稱": "Design of High Sensitivity Near-Field Probe and Application on IC EMI Detection",
+      "會議名稱": "2011 Asia-Pacific Electromagnetic Compatibility Symposium and Technical Exhibition",
+      "作者群": "林漢年 博士、張淙舜"
+    },
+    {
+      "論文名稱": "Design of TEM cell and high sensitive probe for EMI analysis of built-in Webcam module",
+      "會議名稱": "EDAPS 2010",
+      "作者群": "Han-Nien Lin,Chung-Wei Kuo,Jhih-Min Liao, Yen-Tang Chang"
+    },
+    {
+      "論文名稱": "內建Camera 模組雜訊對通訊傳輸效能之影響分析",
+      "會議名稱": "全國電信研討會",
+      "作者群": "林漢年,張茗珵,張加莉,林科文,魏婉如,鄒騰億"
+    },
+    {
+      "論文名稱": "IC及模組EMC偵測之橫向電磁波室設計與特性分析",
+      "會議名稱": "2010 全國電磁相容技術與實務研討會",
+      "作者群": "林漢年、廖智民、郭崇韋、陳民峰"
+    },
+    {
+      "論文名稱": "PCB電路佈線之串音效應與設計分析",
+      "會議名稱": "2010 全國電磁相容技術與實務研討會",
+      "作者群": "林漢年、江莉婷、賴玉菁、張加莉"
+    },
+    {
+      "論文名稱": "快閃記憶體積體電路操作指令對電磁輻射之效應與分析",
+      "會議名稱": "2010 全國電磁相容技術與實務研討會",
+      "作者群": "林漢年、郭崇韋、廖智民"
+    },
+    {
+      "論文名稱": "使用橫向電磁波室法量測與分析視訊IC模組之電磁輻射干擾",
+      "會議名稱": "2010 全國電磁相容技術與實務研討會",
+      "作者群": "林漢年、廖智民、郭崇韋、陳靖婷"
+    },
+    {
+      "論文名稱": "高速連接器SFP+之訊號完整性量測與特性分析",
+      "會議名稱": "2010 全國電磁相容技術與實務研討會",
+      "作者群": "林漢年、廖智民、郭崇韋、黃昱傑"
+    },
+    {
+      "論文名稱": "高感度探棒設計與校正特性分析",
+      "會議名稱": "2010 全國電磁相容技術與實務研討會",
+      "作者群": "林漢年、施宇陽、張淙舜"
+    },
+    {
+      "論文名稱": "應用電磁能帶隙結構之表面波抑制特性",
+      "會議名稱": "2010 全國電磁相容技術與實務研討會",
+      "作者群": "林漢年、湯俊祺、張茗珵、林科文"
+    },
+    {
+      "論文名稱": "車用電子之低頻磁場輻射耐受性測試系統製作及校正研究",
+      "會議名稱": "2010 全國電磁相容技術與實務研討會",
+      "作者群": "林漢年、余昌麒、鍾欣翰"
+    },
+    {
+      "論文名稱": "Radiated EMI Prediction and Mechanism Modeling from Measured Noise of Microcontroller",
+      "會議名稱": "2010 APEMC",
+      "作者群": "Han-Nien Lin, Tai-jung Cheng, Chih-Min Liao"
+    },
+    {
+      "論文名稱": "Analysis of Platform Noise Effect on WWAN",
+      "會議名稱": "2010 APEMC",
+      "作者群": "Han-Nien Lin, Ching-Hsien Lin, Ming-Cheng Chang, Yu-Yang Shih"
+    },
+    {
+      "論文名稱": "Application of Periodic Structure on the Isolation and Suppression for Notebook Multi-antennas Coupling.",
+      "會議名稱": "PIERS 2010,Xi'an",
+      "作者群": "Han-Nien Lin1, Ching-Hsien Lin,Chun-Chi Tang, and Ming-Cheng Chang"
+    },
+    {
+      "論文名稱": "Analysis and Design for High-gain Antenna with Periodic Structures",
+      "會議名稱": "PIERS 2010, Xi'an",
+      "作者群": "Han-Nien Lin1, Chun-Chi Tang"
+    },
+    {
+      "論文名稱": "行動網路電腦(Netbook)載台雜訊對GSM/WCDMA接收靈敏度之影響分析",
+      "會議名稱": "2009全國電磁相容技術與實務研討會",
+      "作者群": "林漢年,林璟顯, 施宇陽, 張茗珵"
+    },
+    {
+      "論文名稱": "低頻磁場發射裝置之設計理論與分析研究",
+      "會議名稱": "2009全國電磁相容技術與實務研討會",
+      "作者群": "林漢年,余昌麒,湯俊祺,林彥呈,李惠中"
+    },
+    {
+      "論文名稱": "數位迴音器之數位地與類比地雜訊之抑制分析",
+      "會議名稱": "2009全國電磁相容技術與實務研討會",
+      "作者群": "林漢年,賴玉菁"
+    },
+    {
+      "論文名稱": "微控制器積體電路之雜訊量測與分析",
+      "會議名稱": "2009全國電磁相容技術與實務研討會",
+      "作者群": "林漢年,鄭泰榕,廖智民,張茗珵,洪熙君"
+    },
+    {
+      "論文名稱": "筆記型電腦載台雜訊對無線區域網路性能之效能影響分析",
+      "會議名稱": "2009全國電磁相容技術與實務研討會",
+      "作者群": "林漢年,林璟顯,施宇陽,張茗珵"
+    },
+    {
+      "論文名稱": "Antenna Effect Analysis of Laptop Platform Noise on WLAN Performance",
+      "會議名稱": "PIERS 2009 Beijing",
+      "作者群": "Han-Nien Lin,Ching-Hsien Lin, Tai-Jung Cheng, Min-Chih Liao"
+    },
+    {
+      "論文名稱": "電波迴響室內測試區域大小對均勻性之影響",
+      "會議名稱": "2008年符合性評鑑與認證論文發表會",
+      "作者群": "林漢年,徐瑞鴻"
+    },
+    {
+      "論文名稱": "微型EMI場強探棒之轉換因子校正技術分析",
+      "會議名稱": "2008年符合性評鑑與認證論文發表會",
+      "作者群": "林漢年、鄭泰榕、林璟顯、張茗珵"
+    },
+    {
+      "論文名稱": "迴響室內對數週期天線的輻射特性與其對均勻性和等向性之影響",
+      "會議名稱": "2008全國電磁相容技術與實務研討會",
+      "作者群": "林漢年,徐瑞鴻"
+    },
+    {
+      "論文名稱": "金屬屏蔽盒對高頻放大電路之影響分析",
+      "會議名稱": "2008全國電磁相容技術與實務研討會",
+      "作者群": "林漢年,呂志峰"
+    },
+    {
+      "論文名稱": "週期性結構通帶特性分析暨其於圓極化超寬頻單極天線縮小化之應用",
+      "會議名稱": "2008全國電磁相容技術與實務研討會",
+      "作者群": "林漢年,卲哲民"
+    },
+    {
+      "論文名稱": "內建於筆記型電腦之小型化雙頻單極天線的設計與結構效應分析",
+      "會議名稱": "2008全國電磁相容技術與實務研討會",
+      "作者群": "林漢年,林璟顯"
+    },
+    {
+      "論文名稱": "具有WLAN帶拒及GPS圓極化特性之超寬頻天線設計與特性分析",
+      "會議名稱": "2008全國電磁相容技術與實務研討會",
+      "作者群": "林漢年, 卲哲民"
+    },
+    {
+      "論文名稱": "GPS圓極化單極天線最佳化設計與特性分析",
+      "會議名稱": "2008全國電磁相容技術與實務研討會",
+      "作者群": "林漢年,黃宇成"
+    },
+    {
+      "論文名稱": "EIP模擬軟體在EMI佈線設計之應用與驗證",
+      "會議名稱": "2008全國電磁相容技術與實務研討會",
+      "作者群": "林漢年,賴玉菁"
+    },
+    {
+      "論文名稱": "多頻段多模式無線通訊之手機天線設計",
+      "會議名稱": "2008全國電磁相容技術與實務研討會",
+      "作者群": "林漢年,林聖翔"
+    },
+    {
+      "論文名稱": "量測積體電路輻射分析之高敏感度傳輸線系統設計",
+      "會議名稱": "2008全國電磁相容技術與實務研討會",
+      "作者群": "林漢年,鄭泰榕"
+    },
+    {
+      "論文名稱": "Design of Ultra-wideband Monopole Antenna with Band-notched and GPS Circular Polarization Characteristics",
+      "會議名稱": "PIERS 2008 in Hangzhou",
+      "作者群": "Han-Nien Lin, Che-Min Shao, and Jer-Long Chen"
+    },
+    {
+      "論文名稱": "Miniaturization of Harmonics-suppressed Filter with Folded Loop",
+      "會議名稱": "PIERS 2008 in Hangzhou",
+      "作者群": "Han-Nien Lin, Wen-Lung Huang,  Jer-Long Chen"
+    },
+    {
+      "論文名稱": "Design of SiGe BiCMOS Voltage Controlled Oscillator for Ultra WideBand Applications",
+      "會議名稱": "Cross Strait Tri-Regional Radio Science and Wireless Technology Conference",
+      "作者群": "Shry-Sann Liao, Shih-Yi Yuan, Pou-Tou Sun, Han-Nien Lin, Chien-Lin Lu"
+    },
+    {
+      "論文名稱": "家電產品之電磁雜訊抑制對策及安全研究",
+      "會議名稱": "2007國際電磁相容技術與實務研討會",
+      "作者群": "黃紫光, 林漢年, 廖時三,"
+    },
+    {
+      "論文名稱": "改善IC EMC 測試微型探棒靈敏度之寬頻放大器設計分析研究",
+      "會議名稱": "2007年符合性評鑑與認證論文發表會",
+      "作者群": "林漢年,莊豐躋,龔子文,呂志峰"
+    },
+    {
+      "論文名稱": "電波迴響室測試場區特性校正之分析",
+      "會議名稱": "2007年符合性評鑑與認證論文發表會",
+      "作者群": "林漢年, 黃柏勳, 徐瑞鴻"
+    },
+    {
+      "論文名稱": "利用Wheeler Cap 方法量測天線效率",
+      "會議名稱": "2007年符合性評鑑與認證論文發表會",
+      "作者群": "林漢年,陳正棋,林聖翔"
+    },
+    {
+      "論文名稱": "Parallel -Coupled Microstrip Filter Using Stepped-Impedance and Over-Coupled End Stages for Suppression of Spurious Responses",
+      "會議名稱": "Progress in Electromagnetics Researches Symposium (PIERS)",
+      "作者群": "Shry-Sann Liao, Shih-Yi Yuan, Han-Nien Lin, Pou-Tou Sun,"
+    },
+    {
+      "論文名稱": "利用貼片之鑿空接地結構帶拒濾波",
+      "會議名稱": "國際無線電科學聯合會中華民國委員會2007論文會議暨中日聯合天線傳播研討會",
+      "作者群": "林漢年,王健仁,張羿皓"
+    },
+    {
+      "論文名稱": "諧波抑制之環型濾波器設計",
+      "會議名稱": "國際無線電科學聯合會中華民國委員會2007論文會議暨中日聯合天線傳播研討會",
+      "作者群": "林漢年, 王健仁, 黃文龍"
+    },
+    {
+      "論文名稱": "圓極化槽孔天線設計",
+      "會議名稱": "國際無線電科學聯合會中華民國委員會2007論文會議暨中日聯合天線傳播研討會",
+      "作者群": "林漢年, 王健仁, 陳正棋"
+    },
+    {
+      "論文名稱": "考量EMC Layout之數位廣播L頻帶高增益低雜訊放大器設計分析",
+      "會議名稱": "2006年電磁相容技術與實務研討會",
+      "作者群": "林漢年、許文昭"
+    },
+    {
+      "論文名稱": "高功率脈衝寬頻天線之設計分析",
+      "會議名稱": "2006年電磁相容技術與實務研討會",
+      "作者群": "林漢年、黃柏勳"
+    },
+    {
+      "論文名稱": "輻射干擾測試之場源設計與分析",
+      "會議名稱": "2006年電磁相容技術與實務研討會",
+      "作者群": "李至凡、林漢年"
+    },
+    {
+      "論文名稱": "SAR電場探棒於可調整式開放波導管之耦合校正",
+      "會議名稱": "2006年電磁相容技術與實務研討會",
+      "作者群": "林漢年、呂易璁"
+    },
+    {
+      "論文名稱": "電波迴響室之場均勻度與等向性之分析研究",
+      "會議名稱": "2006年電磁相容技術與實務研討會",
+      "作者群": "林漢年、葛仲仁"
+    },
+    {
+      "論文名稱": "液晶螢幕(LCD Monitor) D-SUB訊號阻抗匹配之探討",
+      "會議名稱": "2006年電磁相容技術與實務研討會",
+      "作者群": "林漢年、周富鴻"
+    }
+  ],
+  "book": [
+    {
+      "專業書籍": "電磁相容分析與設計:從PI與SI根因探討",
+      "出版單位": "滄海書局",
+      "作者群": "林漢年"
+    },
+    {
+      "專業書籍": "電磁兼容原理分析與設計技術",
+      "出版單位": "中國水利水電出版社",
+      "作者群": "林漢年"
+    },
+    {
+      "專業書籍": "電磁相容理論與實務",
+      "出版單位": "教育部顧問是通訊元件教學推動中",
+      "作者群": "林明星,林漢年,許崇宜,邱政男,吳俊德,何子儀,"
+    }
+  ],
+  "patent": [
+    {
+      "title": "新型",
+      "desc": "HIGH-SPEED CONNECTOR WITH ELECTRICAL GROUNG BRIDGE"
+    },
+    {
+      "title": "新型",
+      "desc": "寬頻指向性微帶天線"
+    },
+    {
+      "title": "新型",
+      "desc": "高速連接器"
+    },
+    {
+      "title": "發明",
+      "desc": "雜訊預算以及應用雜訊預算之無線產品測試方法"
+    },
+    {
+      "title": "發明",
+      "desc": "電磁相容性自動測試系統"
+    },
+    {
+      "title": "發明",
+      "desc": "電磁干擾測試系統及電磁干擾抑制方法"
+    },
+    {
+      "title": "發明",
+      "desc": "具均勻電場之傳輸線系統"
+    },
+    {
+      "title": "新型",
+      "desc": "薄膜天線"
+    },
+    {
+      "title": "發明",
+      "desc": "具水平極化電磁場之傳輸線系統"
+    },
+    {
+      "title": "新型",
+      "desc": "行動通信之遮蔽裝置"
+    },
+    {
+      "title": "發明",
+      "desc": "具均勻電場之傳輸線系統"
+    }
+  ],
+  "most": [
+    {
+      "name": "攝像頭對筆記型電腦Wi-Fi天線之射頻干擾",
+      "schoolYear": "112"
+    },
+    {
+      "name": "環境電磁波能量之回收與採集應用研究",
+      "schoolYear": "107"
+    },
+    {
+      "name": "電磁屏蔽材料之特性分析與量測技術",
+      "schoolYear": "104"
+    },
+    {
+      "name": "產學技術聯盟合作計畫-積體電路電磁相容及訊號完整性應用技術產學小聯盟發展計畫(3/3)",
+      "schoolYear": "103"
+    },
+    {
+      "name": "(廠配)產學技術聯盟合作計畫-積體電路電磁相容及訊號完整性應用技術產學小聯盟發展計畫(3/3)",
+      "schoolYear": "103"
+    },
+    {
+      "name": "(廠配)產學技術聯盟合作計畫-積體電路電磁相容及訊號完整性應用技術產學小聯盟發展計畫(2/3)",
+      "schoolYear": "102"
+    },
+    {
+      "name": "產學技術聯盟合作計畫-積體電路電磁相容及訊號完整性應用技術產學小聯盟發展計畫(2/3)",
+      "schoolYear": "102"
+    },
+    {
+      "name": "微帶線法於奈米磁性薄膜之高頻複導磁率量測技術開發",
+      "schoolYear": "102"
+    },
+    {
+      "name": "IC-EMI主動式磁場探棒設計與分析",
+      "schoolYear": "102"
+    },
+    {
+      "name": "(廠配)產業技術聯盟合作計畫-積體電路電磁相容及訊號完整性應用技術產學小聯盟發展計畫(1/3)",
+      "schoolYear": "101"
+    },
+    {
+      "name": "產業技術聯盟合作計畫-積體電路電磁相容及訊號完整性應用技術產學小聯盟發展計畫(1/3)",
+      "schoolYear": "101"
+    },
+    {
+      "name": "澎湖智慧電網試行規劃",
+      "schoolYear": "101"
+    },
+    {
+      "name": "高速連接器之特性分析與改善技術",
+      "schoolYear": "101"
+    },
+    {
+      "name": "無線通訊整合載台之高速數位IC發射雜訊對通訊傳輸效能影響原因分析與量測技術的開發(III)",
+      "schoolYear": "100"
+    },
+    {
+      "name": "無線通訊整合載台之高速數位IC發射雜訊對通訊傳輸效能影響原因分析與量測技術的開發三年計畫(Ⅱ)",
+      "schoolYear": "99"
+    },
+    {
+      "name": "無線通訊整合載台之高速數位IC發射雜訊對通訊傳輸效能影響原因分析與量測技術的開發",
+      "schoolYear": "98"
+    },
+    {
+      "name": "微波天線量測及校正之不確定度分析",
+      "schoolYear": "95"
+    }
+  ],
+  "tech": [],
+  "induAca": [
+    "馬達控制器驅動版EMI 模擬 (2024-09 to 2025-02)",
+    "積體路體 IC-EMI 測試及改善計畫 (2024-07 to 2025-06)",
+    "屏蔽效能量測 (2024-06 to 2024-08)",
+    "馬達驅控器驅動板輻射 EMI 模擬分析研究 (2024-06 to 2024-10)",
+    "屏蔽效能量測 (2023-08 to 2023-08)",
+    "EMC 模擬技術應用於 PFC 轉換器 (2023-07 to 2024-06)",
+    "智慧車電特性量測研究 (2023-06 to 2023-10)",
+    "智慧車電電性能模擬研究 (2023-05 to 2023-10)",
+    "電動汽機車車載充電機電力轉換系統電磁干擾技術分析 (2023-02 to 2023-11)",
+    "積體電路電磁模擬與驗證 (2023-02 to 2024-02)",
+    "PCB 熱流分布模擬(SI/PI/熱)及軟體設定使用手冊製作 (2022-08 to 2023-07)",
+    "電動汽機車直流充電樁電力轉換系統電磁干擾技術分析 (2022-02 to 2022-11)",
+    "屏蔽材料量測 (2021-07 to 2021-07)",
+    "(國合)「封裝結構特性RLCG模型與S參數抽取仿真分析」計畫 (2021-07 to 2022-06)",
+    "委託毫米波測試實驗室申請TAF評鑑認證輔導服務 (2021-03 to 2021-12)",
+    "不織布材料量測 (2021-03 to 2021-03)",
+    "UD (United Direction) 材料量測 (2021-03 to 2021-04)",
+    "電動載具充電樁及車載顯示器驅動IC於AM廣播頻段電磁干擾技術分析 (2021-02 to 2021-11)",
+    "鍍膜材料複測 (2020-04 to 2020-04)",
+    "鍍膜材料量測 (2020-03 to 2020-03)",
+    "驅動IC及車用面板雜訊生成分析與驅動IC優化設計 (2020-03 to 2020-11)",
+    "智慧家庭電源系統架構與功率開關IC雜訊生成分析 (2020-01 to 2020-11)",
+    "Dr. Flyback 電源電路雜訊生成研究及設計改善 (2019-11 to 2020-04)",
+    "功率模組封裝EMC分析方法與評估 (2019-08 to 2019-12)",
+    "太陽光電系統與訊號擷取裝置之EMC與效能監控技術發展應用 (2019-02 to 2019-11)",
+    "DRAM近場雜訊再現性分析研究 (2018-11 to 2019-01)",
+    "磁場強度及電磁干擾近場研究 (2018-09 to 2018-09)",
+    "IEC61967-3表面掃描法之RAM記憶體雜訊分布研究 (2018-09 to 2018-10)",
+    "PMIC與雷達內埋整合模組封裝設計 (2018-06 to 2018-09)",
+    "IEC 61967-6屏蔽材料測試 (2018-05 to 2018-06)",
+    "ASTM D4935-99屏蔽材料測試 (2018-05 to 2018-06)",
+    "去顫測試電路設計 (2018-03 to 2018-03)",
+    "智慧電網之暫態雜訊監控與儲能裝置及變流器之防護技術分析 (2018-02 to 2018-11)",
+    "屏蔽材料效率研究 (2018-01 to 2018-08)",
+    "系統層級之負載效應電磁雜訊分析與耦合模型研究 (2017-04 to 2017-11)",
+    "電磁波屏蔽效率測試 (2017-03 to 2017-03)",
+    "RF教育訓練 (2016-08 to 2016-09)",
+    "太陽光電系統之綠能電子系統層級EMC研究 (2016-04 to 2016-11)",
+    "EMC工程師能力鑑定 (2016-03 to 2016-10)",
+    "屏蔽材料量測服務 (2016-01 to 2016-12)",
+    "天線工程師能力鑑定 (2015-07 to 2015-11)",
+    "ESD、BCI模擬模型建置 (2015-04 to 2015-11)",
+    "簡易型電磁波量測裝置 (2015-04 to 2015-09)",
+    "職能基準與能力鑑定-行政勞務委託 (2015-04 to 2015-07)",
+    "磁性屏蔽及吸波材料特性測試與分析技術 (2015-04 to 2016-03)",
+    "智慧電網用戶側晶片至系統層級EMC技術研究 (2015-02 to 2015-12)",
+    "高速訊號SAS連接器之訊號完整性分析與設計 (2015-01 to 2015-04)",
+    "磁性屏蔽及吸波材料特性測試與分析技術 (2014-11 to 2015-04)",
+    "IC-EMI及EMS量測技術移轉與建置 (2014-10 to 2015-05)",
+    "電波迴響室應用在MIMO無線通訊與電磁量測之設計分析 (2014-09 to 2015-09)",
+    "MIMO無線通訊效能量測分析與驗證 (2014-06 to 2015-05)",
+    "OTA測試場地校正天線特性改善設計 (2014-06 to 2015-03)",
+    "封裝級低頻電磁波防護的對策研究量測與模擬 (2014-03 to 2014-12)",
+    "無線微投影機EMC改善技術分析 (2014-03 to 2015-02)",
+    "103年度電動車元件之晶片至系統層級EMC技術研究暨PCB EMC設計競賽委辦計畫 (2014-02 to 2014-11)",
+    "產品EMC分析與改善 (2013-07 to 2014-03)",
+    "無線通訊干擾積體電路分析與測試方法研究 (2013-04 to 2013-12)",
+    "102年度「電動車用PCB-EMC/SI/PI設計競賽委辦計畫」 (2013-02 to 2013-11)",
+    "102年度「晶片至系統層級輻射EMC模型及量測技術暨電磁相容最佳化編譯器研究委辦計畫」 (2013-02 to 2013-11)",
+    "無線通信產品雜訊預算管制除錯量測系統 (2013-01 to 2013-09)",
+    "101年度「小型車用電子PCB-EMC/SI/PI設計競賽委辦計畫」 (2012-02 to 2012-11)",
+    "101年度「小型車電子元件輻射耐受性驗證技術研究及IC-EMC量測技術建置委辦計畫」 (2012-02 to 2012-11)",
+    "100年度「車用系統晶片EMC/SI/PI之技術研究暨設計競賽委辦計畫」 (2011-01 to 2011-11)",
+    "高功率共振腔電波輻射匹配分析暨雛型研製 (2010-06 to 2010-11)",
+    "車載無線電EMC試驗技術研究 (2010-03 to 2010-12)",
+    "QSFP+之分析與研究計畫 (2010-02 to 2010-05)",
+    "99年度「車用晶片系統封裝EMC/SI/PI之技術研究暨設計競賽委辦計畫」 (2010-01 to 2010-11)",
+    "快閃記憶體(flash memory)雜訊分析 (2009-12 to 2010-11)",
+    "SFP之分析與研究計畫 (2009-11 to 2009-12)",
+    "載台雜訊量測掃瞄系統 (2009-10 to 2010-06)",
+    "車用IC EMC/SI/PI之檢測標準、研討會、PCB EMC設計競賽委辦計畫 (2009-04 to 2009-11)",
+    "雷達表面波的抑制技術研究 (2009-04 to 2009-12)",
+    "經濟部協助中小企業科技關懷計畫─近場電磁量測探棒的空間解析度提升與校正技術 (2009-03 to 2009-08)",
+    "低頻磁場發射裝置之設計理論、製作及應用研究 (2009-02 to 2009-12)",
+    "車用IC封裝及電路板之電磁相容、電源完整性及信號完整性的檢測標準及研討會 (2008-07 to 2008-11)",
+    "車載行動通訊量測技術與設備開發研究 (2008-04 to 2008-12)",
+    "資通訊人才培育先導型計畫_教材發展：「數位電視與廣播系統量測技術」 (2007-09 to 2008-03)",
+    "通訊科技教育改進計畫─通訊元件組─高頻元件與微波電路教學實驗室之架設 (2003-03 to 2003-12)"
+  ],
+  "perform": [],
+  "reward": [
+    "113學年度教學績優獎 (113, 2024-11) - 逢甲大學",
+    "逢甲大學優良教材獎勵優等獎 (107, 2018-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (107, 2018-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (106, 2017-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (105, 2016-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (105, 2016-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (105, 2016-11) - 逢甲大學",
+    "105年度科技部獎勵特殊優秀人才 (105, 2016-08) - 產學合作處",
+    "104年度科技部獎勵特殊優秀人才 (104, 2015-08) - 產學合作處",
+    "103年度科技部獎勵特殊優秀人才 (103, 2014-08) - 研究發展處",
+    "優良教材獎 (102, 2013-12) - 教育部",
+    "逢甲大學論文著作獎勵傑出獎 (101, 2012-11) - 逢甲大學",
+    "論文著作傑出獎 (100, 2011-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (100, 2011-11) - 逢甲大學",
+    "貢獻獎 (98, 2010-07) - 學界協助中小企業科技關懷計劃辦公室",
+    "經濟部九十八年電磁相容設計競賽 (98, 2009-10) - 經濟部標準檢驗局",
+    "評審員貢獻獎 (97, 2008-09) - 財團法人全國認證基金會",
+    "人氣論文獎 (97, 2008-09) - 財團法人全國認證基金會",
+    "最佳論文獎 (95, 2007-06) - 財團法人全國認證基金會"
+  ],
+  "speech": [
+    {
+      "演講題目": "RF Interference and IC EMC Application",
+      "邀請單位": "台灣羅德史瓦茲有限公司",
+      "演講日期": "2021-03"
+    },
+    {
+      "演講題目": "5G通訊系統之射頻干擾RFI分析設計",
+      "邀請單位": "財團法人工業研究院產業學院",
+      "演講日期": "2020-02"
+    },
+    {
+      "演講題目": "5G 系統發展應用與散熱議題",
+      "邀請單位": "台灣熱管理協會(TTMA),工業技術研究院",
+      "演講日期": "2019-12"
+    },
+    {
+      "演講題目": "IC-EMC電磁模型之建立與耦合路徑分析及產品設計應用",
+      "邀請單位": "臺灣電磁產學聯盟IC-EMC Model SIG研討會",
+      "演講日期": "2019-10"
+    },
+    {
+      "演講題目": "電磁相容量測原理",
+      "邀請單位": "經濟部工業局與工研院產業學院",
+      "演講日期": "2019-02"
+    },
+    {
+      "演講題目": "2017新版ISO 17025對實驗室管理系統之應用",
+      "邀請單位": "財團法人全國認證基金會",
+      "演講日期": "2019-01"
+    },
+    {
+      "演講題目": "Advance in EMC Technology and Application on Communications Industry",
+      "邀請單位": "交通大學電信工程研究所",
+      "演講日期": "2018-10"
+    },
+    {
+      "演講題目": "IC-EMC電磁模型分析與應用",
+      "邀請單位": "台灣電磁產學聯盟",
+      "演講日期": "2018-10"
+    },
+    {
+      "演講題目": "Transient Noise Immunity Simulation from Chip to System Level",
+      "邀請單位": "2018 ANSYS 用戶技術大會",
+      "演講日期": "2018-10"
+    },
+    {
+      "演講題目": "高速數位電路與無線通訊系統之電磁相容技術發展與應用",
+      "邀請單位": "國立聯合大學電子工程學系",
+      "演講日期": "2018-03"
+    },
+    {
+      "演講題目": "車輛及其裝置電磁相容性（EMC）原理、法規 與評鑑要項",
+      "邀請單位": "財團法人交通部車輛安全審驗中心",
+      "演講日期": "2018-02"
+    },
+    {
+      "演講題目": "從IC到系統產品之電力電子EMC分析設計與測試要求",
+      "邀請單位": "台灣羅德史瓦茲 (Rohde & Schwarz)",
+      "演講日期": "2017-04"
+    },
+    {
+      "演講題目": "非意圖性發射產品的量測方法與法規要求",
+      "邀請單位": "TAF全國認證基金會",
+      "演講日期": "2017-02"
+    },
+    {
+      "演講題目": "電磁相容測試之技術發展與應用原理",
+      "邀請單位": "電磁產學聯盟",
+      "演講日期": "2016-05"
+    },
+    {
+      "演講題目": "高速數位電路與無線通訊系統之電磁相容設計分析",
+      "邀請單位": "台揚科技",
+      "演講日期": "2016-05"
+    },
+    {
+      "演講題目": "高低頻EMI的原理及差異",
+      "邀請單位": "耀登科技",
+      "演講日期": "2016-04"
+    },
+    {
+      "演講題目": "EMC Design Analysis From Chip to System Integration",
+      "邀請單位": "電磁產學聯盟",
+      "演講日期": "2015-08"
+    },
+    {
+      "演講題目": "高速數位電路之訊號完整性與電磁干擾分析",
+      "邀請單位": "達創科技股份有限公司",
+      "演講日期": "2015-07"
+    },
+    {
+      "演講題目": "電力電子之電磁干擾設計分析",
+      "邀請單位": "康舒電子股份有限公司",
+      "演講日期": "2015-07"
+    },
+    {
+      "演講題目": "載台雜訊對無線通訊傳輸吞吐量之效應分析",
+      "邀請單位": "耀登科技股份有限公司",
+      "演講日期": "2015-06"
+    },
+    {
+      "演講題目": "電磁波迴響室之原理與設計技術",
+      "邀請單位": "耕興股份有限公司",
+      "演講日期": "2015-06"
+    },
+    {
+      "演講題目": "Analysis of Platform RFI Noise Impact on Wireless User Scenario Application",
+      "邀請單位": "亞太EMC研討會",
+      "演講日期": "2015-05"
+    },
+    {
+      "演講題目": "積體電路電磁相容量測原理與技術分析",
+      "邀請單位": "晶復科技股份有限公司",
+      "演講日期": "2015-05"
+    },
+    {
+      "演講題目": "MIMO無線通訊技術",
+      "邀請單位": "耕興股份有限公司",
+      "演講日期": "2015-04"
+    },
+    {
+      "演講題目": "電磁相容量測技術發展與分析",
+      "邀請單位": "耀登科技股份有限公司",
+      "演講日期": "2015-03"
+    },
+    {
+      "演講題目": "積體電路IC電磁相容EMI測試與設計",
+      "邀請單位": "沛亨半導體",
+      "演講日期": "2014-09"
+    },
+    {
+      "演講題目": "芯片層級EMC對無線通訊與汽車電子之EMC問題分析",
+      "邀請單位": "上海復芯微電子",
+      "演講日期": "2014-09"
+    },
+    {
+      "演講題目": "汽車電子之EMC設計與模擬分析趨勢",
+      "邀請單位": "財團法人車輛研究測試中心",
+      "演講日期": "2014-08"
+    },
+    {
+      "演講題目": "System Integration Effect of IC/Module EMC on Wireless Device Performance",
+      "邀請單位": "IEEE 台北支會",
+      "演講日期": "2014-08"
+    },
+    {
+      "演講題目": "高速連接器之訊號完整性設計與技術研究",
+      "邀請單位": "電子連接器協會",
+      "演講日期": "2014-08"
+    },
+    {
+      "演講題目": "通訊產業職能高階EMC技術人才訓練",
+      "邀請單位": "工研院產業學院",
+      "演講日期": "2014-08"
+    },
+    {
+      "演講題目": "無線通訊與汽車電子之EMC設計挑戰與發展趨勢",
+      "邀請單位": "CST Taiwan, CST AG",
+      "演講日期": "2013-05"
+    },
+    {
+      "演講題目": "Signal Integrity for Differential Signaling",
+      "邀請單位": "啟碁科技股份有限公司",
+      "演講日期": "2013-05"
+    },
+    {
+      "演講題目": "ISO 17025實驗室認證要求",
+      "邀請單位": "資策會",
+      "演講日期": "2013-04"
+    },
+    {
+      "演講題目": "PCB Layout Safety 之最佳設計",
+      "邀請單位": "啟碁科技股份有限公司",
+      "演講日期": "2013-04"
+    },
+    {
+      "演講題目": "電磁原理在高速電子連接器之設計與應用",
+      "邀請單位": "電子連接器協會",
+      "演講日期": "2013-03"
+    },
+    {
+      "演講題目": "ISO 17025認證規範說明與案例分析",
+      "邀請單位": "全國認證基金會",
+      "演講日期": "2013-01"
+    },
+    {
+      "演講題目": "車用電子之EMC問題分析語設計要求",
+      "邀請單位": "車輛安全審驗中心",
+      "演講日期": "2012-10"
+    },
+    {
+      "演講題目": "IC-EMC之電磁模型分析",
+      "邀請單位": "標準檢驗局",
+      "演講日期": "2012-10"
+    },
+    {
+      "演講題目": "高速電子連接器之設計分析與量測技術",
+      "邀請單位": "電子連接器協會",
+      "演講日期": "2012-10"
+    },
+    {
+      "演講題目": "模組及IC-EMC之應用與技術發展趨勢(Application and Technology Development of Module and IC EMC",
+      "邀請單位": "台灣電磁產學聯盟",
+      "演講日期": "2012-05"
+    },
+    {
+      "演講題目": "From the view of mobile communications platform noise analysis to the development of IC EMC technology",
+      "邀請單位": "交通大學電信研究所",
+      "演講日期": "2012-04"
+    },
+    {
+      "演講題目": "高速數位連接器的信號完整性(SI)與電磁干擾(EMI)特性之設計分析",
+      "邀請單位": "台灣電子連接產業協會",
+      "演講日期": "2012-02"
+    },
+    {
+      "演講題目": "From the view of platform noise\tanalysis to the development of IC EMC technology",
+      "邀請單位": "中山大學電機系",
+      "演講日期": "2011-12"
+    },
+    {
+      "演講題目": "無線通訊與汽車電子的EMC問題分析與解決技術",
+      "邀請單位": "台灣羅德史瓦茲 (R&S Taiwan)",
+      "演講日期": "2010-11"
+    },
+    {
+      "演講題目": "車載無線電EMC試驗技術",
+      "邀請單位": "財團法人 車輛研究測試中心",
+      "演講日期": "2010-11"
+    },
+    {
+      "演講題目": "高速數位電路的電磁相容原理",
+      "邀請單位": "十速科技股份有限公司",
+      "演講日期": "2010-11"
+    },
+    {
+      "演講題目": "IC及模組之EMC量測技術與限制值分級規劃趨勢",
+      "邀請單位": "經濟部標準檢驗局",
+      "演講日期": "2010-10"
+    },
+    {
+      "演講題目": "高速數位電路之EMC問題與雜訊原因分析(RCA)及設計技術",
+      "邀請單位": "經濟部標準檢驗局",
+      "演講日期": "2010-10"
+    },
+    {
+      "演講題目": "實驗室認證規範ISO/IEC 17025",
+      "邀請單位": "財團法人全國認證基金會",
+      "演講日期": "2010-08"
+    },
+    {
+      "演講題目": "The noise budget analysis for wireless communication desensitization due to digital platform noise",
+      "邀請單位": "微波工程學會",
+      "演講日期": "2010-01"
+    },
+    {
+      "演講題目": "電磁干擾對無線通訊效能之影響分析",
+      "邀請單位": "亞東技術學院資通所",
+      "演講日期": "2009-12"
+    },
+    {
+      "演講題目": "無線通訊的Platform Noise原理",
+      "邀請單位": "達創科技股份有限公司",
+      "演講日期": "2009-12"
+    },
+    {
+      "演講題目": "高速數位電路的電磁相容原理與信號完整性",
+      "邀請單位": "達創科技股份有限公司",
+      "演講日期": "2009-11"
+    },
+    {
+      "演講題目": "低頻磁場輻射耐受性試驗之要求與Helmholtz Coil原理應用",
+      "邀請單位": "財團法人車輛研究測試中心",
+      "演講日期": "2009-11"
+    },
+    {
+      "演講題目": "汽車電子零組件與數位行動通訊模組之EMC設計分析",
+      "邀請單位": "財團法人車輛研究測試中心",
+      "演講日期": "2009-11"
+    },
+    {
+      "演講題目": "積體電路晶片及封裝層級之EMC分析與相關量測標準簡介",
+      "邀請單位": "經濟部標準檢驗局",
+      "演講日期": "2009-11"
+    },
+    {
+      "演講題目": "現階段電子產業所遭遇之EMC與散熱問題分析",
+      "邀請單位": "經濟部標準檢驗局",
+      "演講日期": "2009-11"
+    },
+    {
+      "演講題目": "The trend and opportunity of EMC development",
+      "邀請單位": "第八屆台灣靜電放電防護技術研討",
+      "演講日期": "2009-10"
+    },
+    {
+      "演講題目": "IC-EMC設計技術",
+      "邀請單位": "凌陽科技股份有限公司",
+      "演講日期": "2009-10"
+    },
+    {
+      "演講題目": "模組/IC EMC問題之效應與分析",
+      "邀請單位": "羅德史瓦茲技術研討會",
+      "演講日期": "2009-09"
+    },
+    {
+      "演講題目": "如何以流程導向的觀念執行EMC現場評鑑",
+      "邀請單位": "財團法人全國認證基金會",
+      "演講日期": "2009-09"
+    },
+    {
+      "演講題目": "現階段產業所遭遇之EMC問題與Noise Budget   技術發展趨勢",
+      "邀請單位": "經濟部標準檢驗局",
+      "演講日期": "2009-07"
+    },
+    {
+      "演講題目": "量測不確定度與試驗結果品質之分析",
+      "邀請單位": "財團法人全國認證基金會",
+      "演講日期": "2009-06"
+    },
+    {
+      "演講題目": "電路板之EMC模擬與量測",
+      "邀請單位": "2009EMC電磁相容技術與實務研討",
+      "演講日期": "2009-04"
+    },
+    {
+      "演講題目": "RFID技術與電磁相容發展技術",
+      "邀請單位": "國立台北科技大學RFID基礎應用技",
+      "演講日期": "2009-03"
+    },
+    {
+      "演講題目": "載台雜訊與第三代行動通信",
+      "邀請單位": "TEEMA通訊產業聯盟-測試與驗證SI",
+      "演講日期": "2009-02"
+    },
+    {
+      "演講題目": "電磁相容與Platform Noise測試技術",
+      "邀請單位": "教育部「資通訊科技",
+      "演講日期": "2008-11"
+    },
+    {
+      "演講題目": "從汽車零組件與數位無線通信平台之EMC到IC-EMC技術趨勢",
+      "邀請單位": "經濟部技術處",
+      "演講日期": "2008-10"
+    },
+    {
+      "演講題目": "RFID國際標準與技術發展趨勢",
+      "邀請單位": "經濟部標準檢驗局,台北市電腦商",
+      "演講日期": "2008-10"
+    },
+    {
+      "演講題目": "The trend from intra-system interference between High-speed",
+      "邀請單位": "IEEE & IEICE Taipei Section",
+      "演講日期": "2008-10"
+    },
+    {
+      "演講題目": "數位電視與廣播系統之發展趨勢",
+      "邀請單位": "教育部「資通訊科技人才培育先導",
+      "演講日期": "2008-09"
+    },
+    {
+      "演講題目": "IC封裝及電路板之電磁相容、電源完整性及信號完整性的量測及模擬",
+      "邀請單位": "經濟部標準檢驗局",
+      "演講日期": "2008-09"
+    },
+    {
+      "演講題目": "行動通訊多媒體與數位廣播創新應用的未來前景",
+      "邀請單位": "教育部顧問室「資通訊科技人才培",
+      "演講日期": "2008-09"
+    },
+    {
+      "演講題目": "EIP模擬工具在高速數位電路之EMC設計應用",
+      "邀請單位": "IBM之R&D先鋒於IC設計產業",
+      "演講日期": "2008-04"
+    },
+    {
+      "演講題目": "車輛IC-EMC量測及模擬驗證技術研討會",
+      "邀請單位": "逢甲大學,經濟部標準檢驗局,電子",
+      "演講日期": "2008-04"
+    },
+    {
+      "演講題目": "車輛IC-EMC量測及模擬驗證技術研討會",
+      "邀請單位": "逢甲大學,經濟部標準檢驗局",
+      "演講日期": "2008-03"
+    },
+    {
+      "演講題目": "無線及高速數位電路的EMC設計趨勢與挑戰",
+      "邀請單位": "彰化師範大學電子工程學系",
+      "演講日期": "2008-03"
+    },
+    {
+      "演講題目": "我國數位廣播電視的發展",
+      "邀請單位": "勤益科技大學,教育部通訊教改計",
+      "演講日期": "2008-02"
+    },
+    {
+      "演講題目": "量測不確定度政策要求與實施要點",
+      "邀請單位": "全國認證基金會",
+      "演講日期": "2007-06"
+    },
+    {
+      "演講題目": "RFID國際標準現況及未來發展趨勢",
+      "邀請單位": "經濟部標準檢驗局",
+      "演講日期": "2006-12"
+    },
+    {
+      "演講題目": "RFID Standardization Status in Taiwan",
+      "邀請單位": "ISOIEC TC1 SC31",
+      "演講日期": "2006-10"
+    },
+    {
+      "演講題目": "多媒體數位廣播的發展與生活應用",
+      "邀請單位": "高中職教師研習營(通訊先導型計)",
+      "演講日期": "2006-08"
+    }
+  ],
+  "material": [
+    "電磁相容理論與實務\t教育部顧問室通訊科技人才培育先導型計畫成果發表會\t林明星,許崇宜,邱政男,吳俊德,何子儀,陳居毓,王曉謙,謝翰\t複合教材",
+    "電磁相容理論與實務\t全華圖書股份有限公司\t林明星,許崇宜,林漢年,邱政男,陳居毓,吳俊德,何子儀,謝翰\t複合教材",
+    "\"Wireless communications and networks ,Chapter:7\"\tInTech\tHan-Nien Lin\t複合教材",
+    "電磁相容分析與設計 :從PI與SI根因探討\t滄海圖書\t林漢年\t教科書",
+    "電磁兼容原理分析與設計技術\t中國水利水電出版社\t林漢年\t教科書"
+  ],
+  "tal": []
+}

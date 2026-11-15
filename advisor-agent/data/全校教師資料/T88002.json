@@ -1,0 +1,733 @@
+{
+  "teacherId": "T88002",
+  "name": "林豐智",
+  "mainUnit": "商學院",
+  "detailUnit": "行銷學系",
+  "skill": [
+    "策略管理OPERATIONS MANAGEMENT",
+    "資訊管理ELECTRONIC COMMERCE"
+  ],
+  "edu": [
+    "凱斯西儲大學 系統工程 博士",
+    "凱斯西儲大學 系統工程 碩士",
+    "東海大學 工業工程系 學士"
+  ],
+  "fcuExp": [
+    "電子商務研究中心 副主任",
+    "電子商務研究中心 主任",
+    "經營管理學院 電子商務專班籌備主任",
+    "經營管理學院 執行長",
+    "經營管理學院 電子商務專班主任",
+    "電子商務碩士在職專班 主任",
+    "經營管理學院 院長",
+    "經營管理學院 執行長",
+    "電子商務碩士在職專班 主任",
+    "經營管理學院 執行長",
+    "經營管理碩士在職專班 主任",
+    "電子商務碩士在職專班 主任",
+    "經營管理碩士在職學位學程 籌備主任",
+    "經營管理學院 院長",
+    "企業管理學系 教授",
+    "行銷學系 教授",
+    "行銷學系 教授",
+    "經營管理碩士在職學位學程 教授",
+    "行銷學系 教授"
+  ],
+  "currjob": [],
+  "otherExp": [],
+  "journal": [
+    {
+      "論文名稱": "EXPLORING PASSENGER PERCEPTIONS OF AIRLINE\nBUSINESS MODELS",
+      "期刊名稱": "TRANSFORMATIONS IN BUSINESS & ECONOMICS (SSCI)",
+      "作者群": "Yi-Hsin Lin*, Kuancheng Huang, Feng-Jyh Lin"
+    },
+    {
+      "論文名稱": "An assessment framework for the purchase of 3D CAD software in \nmanufacturing industries",
+      "期刊名稱": "Technological Forecasting and Social Change (SSCI)",
+      "作者群": "Yi-Hsin Lin* and Feng-Jyh Lin"
+    },
+    {
+      "論文名稱": "The affecting factors of small and medium enterprise performance",
+      "期刊名稱": "Journal of Business Research (SSCI)",
+      "作者群": "Shang-Ho Wu*, Feng-Jyh Lin, Chyuan Perng"
+    },
+    {
+      "論文名稱": "The effect of social mission on service quality and brand image",
+      "期刊名稱": "Journal of Business Research (SSCI)",
+      "作者群": "Lin, Y.-H., Lin, F.-J. and Wang, K.-H."
+    },
+    {
+      "論文名稱": "A study on the consumer's intention to purchase a social enterprise's product",
+      "期刊名稱": "European Journal of International Management (SSCI)",
+      "作者群": "Lin, Y.-H., Lin, F.-J., Wang, K.-H., and Tsai, C.-H."
+    },
+    {
+      "論文名稱": "Key factors affecting technological capabilities in small and medium-sized Enterprises in Taiwan",
+      "期刊名稱": "International Entrepreneurship and Management Journal (SSCI)",
+      "作者群": "Lin, F.-J*. and Lai, \u000fChihuFeng\u0010\u0005\u0006\u0007\b\f\u0011"
+    },
+    {
+      "論文名稱": "The knowledge of entry mode decision for small and medium enterprises",
+      "期刊名稱": "Journal of Innovation & Knowledge (ECONLIT)",
+      "作者群": "Feng-Jyh Lin, Ching-Wei Ho"
+    },
+    {
+      "論文名稱": "The determinants of government-sponsored R&D alliances",
+      "期刊名稱": "Journal of Business Research (SSCI)",
+      "作者群": "Feng-Jyh Lin, , Shang-He Wu, Maw-Shin Hsu, Chyuan Perng"
+    },
+    {
+      "論文名稱": "The effect of network relationship on the performance of SMEs",
+      "期刊名稱": " Journal of Business Research (SSCI)",
+      "作者群": "Feng-Jyh Lin and Yi-Hsin Lin"
+    },
+    {
+      "論文名稱": "Factors Affecting Firm's R&D Investment Decisions",
+      "期刊名稱": "Journal of Business Research (SSCI)",
+      "作者群": "Yung-Lung Lai*, Feng-Jyh Lin, and Yi-Hsin Lin"
+    },
+    {
+      "論文名稱": "The persistence of economic profit",
+      "期刊名稱": "International Entrepreneurship and Management Journal (SSCI)",
+      "作者群": "Feng-Jyh Lin*, Yi-Min Chen, Fang-Yi Lo"
+    },
+    {
+      "論文名稱": "Tourists’ purchase intentions: impact of franchise brand awareness",
+      "期刊名稱": "The Service Industries Journal (SSCI)",
+      "作者群": "Yi Hsin Lin*, Feng Jyh Lin, Chris Ryan"
+    },
+    {
+      "論文名稱": "The Impact of Motivational Factors of Participation in\r\nR&D Consortia on Firm Performance",
+      "期刊名稱": "Journal of Economics and Management (ECONLIT)",
+      "作者群": "Maw-Shin Hsu*, Feng-Jyh Lin"
+    },
+    {
+      "論文名稱": "The effects of industry cluster knowledge management on innovation performance",
+      "期刊名稱": "Journal of Business Research (SSCI)",
+      "作者群": "Yung-Lung Lai*, Maw-Shin Hsu, Feng-Jyh Lin, Yi-Min Chen, Yi-Hsin Lin"
+    },
+    {
+      "論文名稱": "Do financially innovative futures matter?",
+      "期刊名稱": "The Service Industries Journal (SSCI)",
+      "作者群": "Yi- Min Chen"
+    },
+    {
+      "論文名稱": "Does technological diversification matter to firm performance? The moderating role of organizational slack",
+      "期刊名稱": "Journal of Business Research (SSCI)",
+      "作者群": "Yi-Min Chen*, De-Hsin Yang"
+    },
+    {
+      "論文名稱": "Effects of industry ckusters on company competitiveness: special economic zones in Taiwan",
+      "期刊名稱": "Review of Pacific Basin Financial Markets and Policies ()",
+      "作者群": "Maw-Shin Hsu*, Yung-Lung Lai"
+    },
+    {
+      "論文名稱": "A simulation model with synchronization manufacturing stations",
+      "期刊名稱": "Management Decision (SSCI)",
+      "作者群": "Feng-Jyh Lin*, Yi-Min Chen"
+    },
+    {
+      "論文名稱": "The determinants of sucessful R&D consortia: government strategy for servitization of manufacturing",
+      "期刊名稱": "Service Business (SSCI)",
+      "作者群": "Feng-JYH Lin*, Yi-Hsin Lin"
+    },
+    {
+      "論文名稱": "Country-of-origin effects and antecedents of industrial brand equity",
+      "期刊名稱": "Journal of Business Research (SSCI)",
+      "作者群": "Yi-Min Chen*, Yi-Fan Su, Feng-Jyh Lin"
+    },
+    {
+      "論文名稱": "Innovation and firm performance: an application of determinants in Taiwan",
+      "期刊名稱": "International Journal of Technology Management (SSCI)",
+      "作者群": "Feng-Jyh Lin*"
+    },
+    {
+      "論文名稱": "The determinants of foreign direct investment in China: The case of Taiwanese firms in the IT industry",
+      "期刊名稱": "Journal of Business Research (SSCI)",
+      "作者群": "Feng-Jyh Lin*"
+    },
+    {
+      "論文名稱": "The Persistence of Superior Performance at Industry and Firm Levels: Evidence from the IT Industry in Taiwan",
+      "期刊名稱": "Industry and Innovation (SSCI)",
+      "作者群": "Yi-Min Chen* and Feng-Jyh LIn"
+    },
+    {
+      "論文名稱": "The Determinants of Foreign Direct Investment in China: The Case of Taiwanese Firms in IT Industry",
+      "期刊名稱": "Journal of Business Research(SSCI) (SSCI)",
+      "作者群": "Lin, Feng-Jyh"
+    },
+    {
+      "論文名稱": "Innovation and firm performance: An application of determinants in Taiwan",
+      "期刊名稱": "Internaional Hournal of Technology Management(SSCI) ()",
+      "作者群": "Lin, Feng-Jyh"
+    },
+    {
+      "論文名稱": "A Clustering Algorithm for Partitioning Multivariate Data",
+      "期刊名稱": "Kansei Engineering International ()",
+      "作者群": "林豐智"
+    },
+    {
+      "論文名稱": "The Development of Planning Horizon Theory and the Comparison of Decision/Forecast Horizons for Dynamic Lot Size Model",
+      "期刊名稱": "Journal of Modeling in Management (INSPEC)",
+      "作者群": "林豐智"
+    },
+    {
+      "論文名稱": "Sources of Superior Performance: Industry vs. Firm Effects Among Firms in Taiwan",
+      "期刊名稱": "European Planning Studies (SSCI)",
+      "作者群": "Chen, Y. M. 、林豐智"
+    },
+    {
+      "論文名稱": "產業群聚對台灣資訊產業公司績效之影響",
+      "期刊名稱": "經濟與管理論叢 ()",
+      "作者群": "林豐智、李怡蓉"
+    },
+    {
+      "論文名稱": "Regional Development and Sources of Superior Performance Across IT and Textile Sectors in Taiwan",
+      "期刊名稱": "Entrepreneurship Regional Development (SSCI)",
+      "作者群": "Chen, Y. M. 、林豐智"
+    },
+    {
+      "論文名稱": "虛擬組織之形成與發展：信任觀點之研究",
+      "期刊名稱": "電子商務研究 ()",
+      "作者群": "林豐智、吳尚和"
+    },
+    {
+      "論文名稱": "台灣基金會運用網路行銷之研究",
+      "期刊名稱": "企業管理學報 ()",
+      "作者群": "無"
+    },
+    {
+      "論文名稱": "稽核指標在網路行銷之研究",
+      "期刊名稱": "管理與系統 ()",
+      "作者群": "無"
+    },
+    {
+      "論文名稱": "以ICDT模式分析網路行銷在非營利組織之應用",
+      "期刊名稱": "非營利組織管理期刊 ()",
+      "作者群": "吳紀勳"
+    },
+    {
+      "論文名稱": "網路媒體稽核指標之研究",
+      "期刊名稱": "管理與系統 ()",
+      "作者群": "林豐智"
+    },
+    {
+      "論文名稱": "台灣基金會運用網路行銷之研究",
+      "期刊名稱": "企業管理學報 ()",
+      "作者群": "林豐智"
+    },
+    {
+      "論文名稱": "以ICDT模式分析網路行銷在非營利組織之應用",
+      "期刊名稱": "非營利組織管理期刊 ()",
+      "作者群": "林豐智、吳紀勳"
+    },
+    {
+      "論文名稱": "Relative Robustness for Single-machine Scheduling Problem with Processing Time Uncertainty",
+      "期刊名稱": "Journal of the Chinese Institute of Industrial Engineers (EI)",
+      "作者群": "無"
+    },
+    {
+      "論文名稱": "Relative Robustness for Single-Machine Scheduling Problem with Processing time uncertainty",
+      "期刊名稱": "Journal of the Chinese Institute of Industrial Engineers ()",
+      "作者群": "Chun-Yi Kuo，Feng-Jyh Lin"
+    }
+  ],
+  "journal2": [],
+  "conference": [
+    {
+      "論文名稱": "Does Technological Diversification Matter to Firm Performance? The Moderating Role of Organizational Slack",
+      "會議名稱": " 2012 The Global Innovation and Knowledge Academy (GIKA)",
+      "作者群": "Yi-Min Chen, De-Hsin Yang, Feng-Jyh Lin"
+    },
+    {
+      "論文名稱": "Effects of Information Disclosure Format on Risk Reception",
+      "會議名稱": " International Conference on Business and Information (BAI 2012)",
+      "作者群": "Shi-Woei Lin, Feng-Jyh Lin, Ya-Lan, Yang"
+    },
+    {
+      "論文名稱": "The Developing Strategy of Green Energy Industry Cluster -A Case Study of the Solar Photoelectric Industry in Taiwan",
+      "會議名稱": " The 2012 International Conference on Asia Pacific Business Innovation & Technology Management",
+      "作者群": "Maw-Shin Hsua, Feng-Jyh Lin"
+    },
+    {
+      "論文名稱": "The Effects of Knowledge Management and Technology Innovation on New Product Development Performance -An Empirical Study of Taiwanese Machine Tools Industry",
+      "會議名稱": " The 2012 International Conference on Asia Pacific Business Innovation & Technology Management",
+      "作者群": "Yung-Lung Lai, Feng-Jyh Li"
+    },
+    {
+      "論文名稱": "The determinants of Taiwanese IT firms FDI in China",
+      "會議名稱": "the Nagoya 2009International Conference on Business, Economics and Information Technology",
+      "作者群": "Lin, F. J. Lin, S. W."
+    },
+    {
+      "論文名稱": "台灣企業之策略群組－ 以歸納法、演繹法為例",
+      "會議名稱": "2008創新與管理國際學術研討會",
+      "作者群": "紀貞?、林豐智、周盈均"
+    },
+    {
+      "論文名稱": "以系統理論檢驗公司績效之來源",
+      "會議名稱": "2008創新與管理國際學術研討會",
+      "作者群": "黃玉蟬、林豐智、姜中婷"
+    },
+    {
+      "論文名稱": "Determinants of Aviation Insurance and Risk Management Strategy",
+      "會議名稱": "Asia Pacific Management Conference XIII-2007",
+      "作者群": "Lin, Yi-Hsin, Chang, Yu-Hern, Lin, Feng-Jyh"
+    },
+    {
+      "論文名稱": "The Determinants of Firm Performance in Taiwan",
+      "會議名稱": "The 4th Taiwan-Japan Symposium: Fuzzy Systems & Innovational Computing",
+      "作者群": "Lin, F. J"
+    },
+    {
+      "論文名稱": "The Determinants of Taiwanese Information Technology Industry Investment in China",
+      "會議名稱": "CSMOT 2007 Annual Conference",
+      "作者群": "Lin, F. J."
+    },
+    {
+      "論文名稱": "Does Industry Structure Created by Industrial Policies Matter on Firms Performance?",
+      "會議名稱": "The 16th World Business Congress of the International Management Development Association (IMDA)",
+      "作者群": "Lin, F. J. and Lin, Y. H."
+    },
+    {
+      "論文名稱": "The impact of value chain on firm performance",
+      "會議名稱": "Chinese Association of Quantitative Economics 2007 Annual Meeting",
+      "作者群": "Lin, F. J. and Lin, Y. H."
+    },
+    {
+      "論文名稱": "第三代行動通信產品之研究",
+      "會議名稱": "2006年資訊管理暨電子商務經營管理研討會",
+      "作者群": "林保祥、林豐智、陳秀鳳"
+    },
+    {
+      "論文名稱": "國際企業之品牌建立",
+      "會議名稱": "2006年資訊管理暨電子商務經營管理研討會",
+      "作者群": "黃郁源、林豐智、賴怡秀"
+    },
+    {
+      "論文名稱": "中小企業導入ERP之成效－以振鋒企業為例",
+      "會議名稱": "2006年工研院創新與科技管理研討會",
+      "作者群": "11.\t林豐智、陳秀鳳、廖婉婷、陳亮君、黃益青"
+    },
+    {
+      "論文名稱": "校務行政系統發展進度之個案研究－以某技術學院為例",
+      "會議名稱": "2006年工研院創新與科技管理研討會",
+      "作者群": "蔡宜美、林豐智、李翔詣"
+    },
+    {
+      "論文名稱": "中小型企業防火牆備援機制系統-以mono嵌入式系統為例",
+      "會議名稱": "2006年工研院創新與科技管理研討會",
+      "作者群": "張逸為、林豐智、王昌斌"
+    },
+    {
+      "論文名稱": "教育行銷策略運用在小型國民小學的實施之分析：以嘉義縣竹村國小為例",
+      "會議名稱": "2006年工研院創新與科技管理研討會",
+      "作者群": "陳亮光、王昌斌、林豐智"
+    },
+    {
+      "論文名稱": "台灣半導體廠商投資大陸之影響因素",
+      "會議名稱": "中小企業經營管理與價值創造學術/實務研討會",
+      "作者群": "林豐智、龔欣儀"
+    },
+    {
+      "論文名稱": "醫療社團法人對基層醫療院所競爭力之影響-以透析基層診所為例",
+      "會議名稱": "2005電子商務經營管理研討會",
+      "作者群": "林豐智、黃隆虎"
+    },
+    {
+      "論文名稱": "資訊科技產業的價值鏈效應",
+      "會議名稱": "2005電子商務經營管理研討會",
+      "作者群": "林豐智、高萱芸、陳秀鳳"
+    },
+    {
+      "論文名稱": "員工的服務品質對顧客之影響研究--以航太工業為例",
+      "會議名稱": "2005電子商務經營管理研討會",
+      "作者群": "林豐智、羅傳英"
+    },
+    {
+      "論文名稱": "半導體廠商赴大陸設廠評估因素之比較",
+      "會議名稱": "2005電子商務經營管理研討會",
+      "作者群": "林豐智、龔欣儀"
+    },
+    {
+      "論文名稱": "探討資訊科技業與紡織業績效之來源",
+      "會議名稱": "2005電子商務經營管理研討會",
+      "作者群": "林豐智、吳佩真、賴怡秀"
+    },
+    {
+      "論文名稱": "產業群聚與公司績效之關係",
+      "會議名稱": "2005電子商務經營管理研討會",
+      "作者群": "林豐智、李怡蓉、龔欣儀"
+    },
+    {
+      "論文名稱": "Industry versus Firm Effects on Profitability differences among Taiwan's IT and Textile Firms",
+      "會議名稱": "The Strategic Management Society (SCM) 25th Annual International Conference",
+      "作者群": "Chen, Y. M. and Lin, F. J.,"
+    },
+    {
+      "論文名稱": "台灣企業虛擬化之研究",
+      "會議名稱": "2004年國際資訊管理暨電子商務經營管理研討會",
+      "作者群": "林豐智、吳尚和"
+    },
+    {
+      "論文名稱": "企業策略與產業效應對公司績效之影響-以台灣資訊電子產業為例",
+      "會議名稱": "2004年國際資訊管理暨電子商務經營管理研討會",
+      "作者群": "林豐智、陳一民、劉若瑄、林淑敏、吳佩真"
+    },
+    {
+      "論文名稱": "我國紡織工業對外直接投資影響因素之研究-以大陸市場為例",
+      "會議名稱": "2004年國際資訊管理暨電子商務經營管理研討會",
+      "作者群": "魏鶴欽、林豐智、呂麗文"
+    },
+    {
+      "論文名稱": "華文網站行銷策略之研究",
+      "會議名稱": "2004年國際資訊管理暨電子商務經營管理研討會",
+      "作者群": "林豐智、黃元珊、李怡蓉"
+    },
+    {
+      "論文名稱": "評估網路服務系統",
+      "會議名稱": "2004年國際資訊管理暨電子商務經營管理研討會",
+      "作者群": "林豐智、張凌剛、高萱芸"
+    },
+    {
+      "論文名稱": "The Value of a University-based Content Provider: a Case Study of SunnyNet",
+      "會議名稱": "IEEE International Conference on e-Commerce Technology for Dynamic E-Business",
+      "作者群": "林豐智、Huarng, K. H"
+    },
+    {
+      "論文名稱": "Quality Evaluation of Web Service",
+      "會議名稱": "IEEE International Conference on e-Commerce Technology for Dynamic E-Business",
+      "作者群": "林豐智、Huarng, K. H. Chen, Y. M.、 Lin, S. M"
+    },
+    {
+      "論文名稱": "Measuring Globalization of ICT Industries: Empirical Evidence across Six Economies of East Asia and Over Time",
+      "會議名稱": "IEEE International Conference on e-Commerce Technology for Dynamic E-Business",
+      "作者群": "Chen, Y. M.、林豐智"
+    },
+    {
+      "論文名稱": "運用ICDT模型分析網路書店之現況與趨勢",
+      "會議名稱": "2004年國際資訊管理暨電子商務經營管理研討會",
+      "作者群": "林豐智、吳紀勳、林宜欣"
+    },
+    {
+      "論文名稱": "A Decision Model for Aviation Insurance and Risk Management",
+      "會議名稱": "10th World Conference on Transport Research",
+      "作者群": "Chang, Y. H., Lin, Y. H., and Lin, F. J."
+    },
+    {
+      "論文名稱": "Industry vs. Firm Effects in Taiwan's IT Industry",
+      "會議名稱": "The International Federation of Operation Research Society (IFORS) Triennial 2005 Conference",
+      "作者群": "Lin, F. J., Lin, S. M., and Chen, Y. M."
+    },
+    {
+      "論文名稱": "運籌管理之供應商整合探討-以國內某知名健身器材製造商為例",
+      "會議名稱": "「2003年企業管理學術研討會」暨「2003年電子商務經營管理研討會」",
+      "作者群": "留榮燦、鞏隆昌、張榮福、鄔前民"
+    },
+    {
+      "論文名稱": "企業運用網路行銷之探討-以ICDT模型為例",
+      "會議名稱": "「2003年企業管理學術研討會」暨「2003年電子商務經營管理研討會」",
+      "作者群": "高萱芸、李怡蓉"
+    },
+    {
+      "論文名稱": "虛擬組織之形成與發展以信任結構為基礎",
+      "會議名稱": "「2003年企業管理學術研討會」暨「2003年電子商務經營管理研討會」",
+      "作者群": "吳尚和"
+    },
+    {
+      "論文名稱": "通用型線上研討會整合系統",
+      "會議名稱": "「2003年企業管理學術研討會」暨「2003年電子商務經營管理研討會」",
+      "作者群": "黃焜煌、林豐智、王淑娟、蕭尚文、王泓彬"
+    },
+    {
+      "論文名稱": "淺談國民健康局之出生通報系統",
+      "會議名稱": "「2003年企業管理學術研討會」暨「2003年電子商務經營管理研討會」",
+      "作者群": "陳洽堂、唐書萍"
+    },
+    {
+      "論文名稱": "傳統產業e化之過程-以個案公司EIP系統為例",
+      "會議名稱": "第四屆電子化企業經營管理理論暨實務研討會",
+      "作者群": "黃元珊、吳淑芳、張寶蓉"
+    },
+    {
+      "論文名稱": "台灣方塊廣告使用之現況",
+      "會議名稱": "2003年產業電子化運籌管理學術暨實務研討會",
+      "作者群": "吳尚和"
+    },
+    {
+      "論文名稱": "促進台中產業發展之都市行銷策略",
+      "會議名稱": "振興大台中地區經濟發展會議",
+      "作者群": "曾欽正、林豐智、佘溪水、陳豐作"
+    },
+    {
+      "論文名稱": "台灣方塊廣告使用之現況",
+      "會議名稱": "2003年產業電子化運籌管理學術暨實務研討會",
+      "作者群": "吳尚和、林豐智"
+    },
+    {
+      "論文名稱": "傳統產業e化之過程-以個案公司EIP系統為例",
+      "會議名稱": "第四屆電子化企業經營管理理論暨實務研討會",
+      "作者群": "林豐智、黃元珊、吳淑芳、張寶蓉"
+    },
+    {
+      "論文名稱": "促進台中產業發展之都市行銷",
+      "會議名稱": "振興大台中地區經濟發展會議",
+      "作者群": "曾欽正、佘溪水、陳豐作、林豐智"
+    },
+    {
+      "論文名稱": "網路媒體稽核指標之研究",
+      "會議名稱": "2002電子商務經營管理研討會",
+      "作者群": "林豐智"
+    },
+    {
+      "論文名稱": "流程改造對電子商務影響之研究",
+      "會議名稱": "第四屆學術暨實務研討會",
+      "作者群": "林豐智、林倩蘋、王昌斌"
+    },
+    {
+      "論文名稱": "企業運用網路行銷之研究",
+      "會議名稱": "第一屆資訊時代管理研討會",
+      "作者群": "林豐智、林倩蘋、黃嘉政"
+    },
+    {
+      "論文名稱": "台灣非營利組織運用網路行銷之研究--以台灣基金會為例",
+      "會議名稱": "第三屆非營利組織管理研討會",
+      "作者群": "林豐智，吳紀勳"
+    },
+    {
+      "論文名稱": "網站行銷策略之探討-以台灣商業網站為例",
+      "會議名稱": "2002電子產務與數位生活研討會",
+      "作者群": "林豐智，郭重儀"
+    },
+    {
+      "論文名稱": "出版業網路行銷之現況與未來-以網路書店為例",
+      "會議名稱": "第三屆（2001）永續發展管理研討會",
+      "作者群": "林豐智，吳紀勳"
+    }
+  ],
+  "book": [
+    {
+      "專業書籍": "策略管理－台灣企業個案剖析",
+      "出版單位": "McGraw-Hill",
+      "作者群": "林豐智審閱"
+    },
+    {
+      "專業書籍": "現代作業管理(第2版)",
+      "出版單位": "McGraw-Hill",
+      "作者群": "林豐智審閱"
+    },
+    {
+      "專業書籍": "管理資訊系統－含本土企業的個案研究",
+      "出版單位": "普林斯頓國際有限公司",
+      "作者群": "黃焜煌、林豐智、胡學誠譯"
+    },
+    {
+      "專業書籍": "現代作業管理",
+      "出版單位": "McGraw-Hill",
+      "作者群": "林豐智、陳一民"
+    }
+  ],
+  "patent": [],
+  "most": [
+    {
+      "name": "技術能力與網絡關係對中小企業績效之影響(2/2)",
+      "schoolYear": "105"
+    },
+    {
+      "name": "技術能力與網絡關係對中小企業績效之影響(1/2)",
+      "schoolYear": "104"
+    },
+    {
+      "name": "影響研發投入之決定因素：以台灣、日本、與韓國為例",
+      "schoolYear": "103"
+    },
+    {
+      "name": "驅動台灣中小企業高績效之因素",
+      "schoolYear": "102"
+    },
+    {
+      "name": "所有權結構與公司績效之關聯性：以台灣、大陸、香港、新加坡、韓國、與日本為例",
+      "schoolYear": "101"
+    },
+    {
+      "name": "台灣企業參與研發聯盟之決定因素(2/2)",
+      "schoolYear": "100"
+    },
+    {
+      "name": "台灣企業參與研發聯盟之決定因素(1/2)",
+      "schoolYear": "99"
+    },
+    {
+      "name": "公司、策略群組、和產業對公司績效與持續性之影響：以台灣和中國大陸企業為例(2/2)",
+      "schoolYear": "98"
+    },
+    {
+      "name": "公司、策略群組、和產業對公司績效與持續性之影響：以台灣和中國大陸企業為例(1/2)",
+      "schoolYear": "97"
+    },
+    {
+      "name": "台灣資訊產業投資中國大陸之決策模式",
+      "schoolYear": "95"
+    },
+    {
+      "name": "產業群聚對公司績效之影響─以台灣與大陸資訊產業為例",
+      "schoolYear": "94"
+    },
+    {
+      "name": "資訊產業的供應鏈效應與企業策略之研究",
+      "schoolYear": "93"
+    },
+    {
+      "name": "應用OPT生產排程法於半導體製程生產之研究",
+      "schoolYear": "89"
+    }
+  ],
+  "tech": [
+    {
+      "論文名稱": "現代作業管理 (2004-08)",
+      "書名": "現代作業管理",
+      "作者群": "林豐智、陳一民"
+    },
+    {
+      "論文名稱": "企業運用網路行銷之探討─以ICDT模型為例 (2003-12)",
+      "書名": "2003電子商務研究選輯",
+      "作者群": "高宣芸、李怡蓉"
+    },
+    {
+      "論文名稱": "虛擬組織之形成與發展：以信任結構為基礎 (2003-12)",
+      "書名": "2003電子商務研究選輯",
+      "作者群": "吳尚和"
+    },
+    {
+      "論文名稱": "通用型線上研討會整合系統 (2003-12)",
+      "書名": "2003電子商務研究選輯",
+      "作者群": "黃焜煌、王淑娟、蕭尚文、王泓彬"
+    },
+    {
+      "論文名稱": "淺談國民健康局之出生通報系統 (2003-12)",
+      "書名": "2003企業管理研究選輯",
+      "作者群": "陳洽堂、康書萍"
+    },
+    {
+      "論文名稱": "運籌管理之供應商整合探討─以國內某知名健身器材製造商為例 (2003-12)",
+      "書名": "2003企業管理研究選輯",
+      "作者群": "留榮燦、鞏隆昌、張榮福、鄔前民"
+    },
+    {
+      "論文名稱": "通用型線上研討會整合系統 (2003-12)",
+      "書名": "2003電子商務研究選輯",
+      "作者群": "林豐智、王淑娟、蕭尚文、王泓彬"
+    }
+  ],
+  "induAca": [
+    "企業文化建置與營運生產力提升顧問輔導專案計畫(諮詢顧問計畫) (2012-05 to 2012-12)",
+    "華凌光電股份有限公司存貨管理研究計畫(I)(諮詢顧問計畫) (2011-01 to 2011-06)",
+    "逢甲大學95年度e三五教學卓越計畫 (2006-08 to 2007-07)",
+    "「產業論壇」資訊管理系統 (2005-10 to 2005-12)",
+    "製商整合科技教育改進計畫─B類計畫─食品業供應鏈之電子化管理 (2003-03 to 2003-12)",
+    "九二一震災重建區高關懷戶及住宅社區重建需求調查資料庫建置與後續擴充計畫(高關懷戶部分) (2002-12 to 2003-03)"
+  ],
+  "perform": [],
+  "reward": [
+    "逢甲大學論文著作獎勵傑出獎 (113, 2024-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (111, 2022-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (111, 2022-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (111, 2022-11) - 逢甲大學",
+    "中華民國科技管理學會第22屆院士 (110, 2021-11) - 中華民國科技管理學會",
+    "逢甲大學論文著作獎勵優良獎 (109, 2020-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (106, 2017-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (106, 2017-11) - 逢甲大學",
+    "106年度科技部獎勵特殊優秀人才 (106, 2017-08) - 產學合作處",
+    "逢甲大學論文著作獎勵傑出獎 (105, 2016-11) - 逢甲大學",
+    "105年度科技部獎勵特殊優秀人才 (105, 2016-08) - 產學合作處",
+    "逢甲大學論文著作獎勵傑出獎 (104, 2015-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (104, 2015-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (104, 2015-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (104, 2015-11) - 逢甲大學",
+    "104年度科技部獎勵特殊優秀人才 (104, 2015-08) - 產學合作處",
+    "逢甲大學論文著作獎勵傑出獎 (103, 2014-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (103, 2014-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (103, 2014-11) - 逢甲大學",
+    "103年度科技部獎勵特殊優秀人才 (103, 2014-08) - 研究發展處",
+    "逢甲大學論文著作獎勵傑出獎 (102, 2013-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (102, 2013-11) - 逢甲大學",
+    "102年度科技部獎勵特殊優秀人才 (102, 2013-08) - 研究發展處",
+    "逢甲大學論文著作獎勵傑出獎 (101, 2012-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (101, 2012-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (100, 2011-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (100, 2011-11) - 逢甲大學",
+    "100年度科技部獎勵特殊優秀人才 (100, 2011-08) - 研究發展處",
+    "逢甲大學論文著作獎勵優良獎 (97, 2008-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (97, 2008-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵 (96, 2007-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (96, 2007-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (96, 2007-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵 (95, 2006-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵 (93, 2004-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵 (93, 2004-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵 (93, 2004-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (92, 2003-11) - 逢甲大學"
+  ],
+  "speech": [
+    {
+      "演講題目": "運用BB討論版提升互動情境，以「產業競爭分析」課程為例",
+      "邀請單位": "逢甲大學圖書館",
+      "演講日期": "2008-12"
+    },
+    {
+      "演講題目": "Industry versus Firm Effect on Firm Performance",
+      "邀請單位": "東海大學工業工程系",
+      "演講日期": "2008-11"
+    },
+    {
+      "演講題目": "您不可不知的網路行銷趨勢",
+      "邀請單位": "雲林縣西螺鄉公所",
+      "演講日期": "2008-03"
+    },
+    {
+      "演講題目": "超級志工大道",
+      "邀請單位": "教育部資訊志工營運中心",
+      "演講日期": "2007-12"
+    },
+    {
+      "演講題目": "Internet Marketing, Internet Technology, Biotechnology Industry, and Competitive Advantage",
+      "邀請單位": "南華大學科技學院",
+      "演講日期": "2007-06"
+    },
+    {
+      "演講題目": "The Impact of Value Chain on Firm Performance",
+      "邀請單位": "中國數量經濟學會",
+      "演講日期": "2007-05"
+    },
+    {
+      "演講題目": "網路行銷",
+      "邀請單位": "人事行政局地方研習中心─稻米加",
+      "演講日期": "2007-05"
+    },
+    {
+      "演講題目": "網路行銷",
+      "邀請單位": "人事行政局地方研習中心─網路行",
+      "演講日期": "2007-05"
+    },
+    {
+      "演講題目": "數位課程認證作業申請經驗",
+      "邀請單位": "教育部電算中心",
+      "演講日期": "2006-07"
+    },
+    {
+      "演講題目": "網路行銷",
+      "邀請單位": "靜宜大學資訊傳播工程研究所",
+      "演講日期": "2006-06"
+    },
+    {
+      "演講題目": "卓越思維─網際網路對企業經營模式之影響",
+      "邀請單位": "IBM",
+      "演講日期": "2005-09"
+    }
+  ],
+  "material": [
+    "網路科技的發展與應用\t教育部製商整合科技教育人才培育先導型計畫\t林豐智\t複合教材"
+  ],
+  "tal": []
+}

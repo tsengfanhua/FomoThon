@@ -1,0 +1,789 @@
+{
+  "teacherId": "T02178",
+  "name": "吳如娟",
+  "mainUnit": "商學院",
+  "detailUnit": "企業管理學系",
+  "skill": [
+    "企業資訊系統Enterprise Information Systems",
+    "雲端運算服務與創新Cloud Computing Services and Innovations",
+    "資通訊科技服務創新ICT Integrated Service Innovations",
+    "商業智慧Business Intelligence",
+    "知識管理Knowledge Managment"
+  ],
+  "edu": [
+    "國立成功大學 資訊管理研究所 博士",
+    "國立中正大學 資訊管理研究所 碩士"
+  ],
+  "fcuExp": [
+    "跨領域設計學院 執行長",
+    "台灣智慧製造創新營運中心 執行長",
+    "企業資訊系統研究中心 主任",
+    "雲創學院 執行長",
+    "雲創學院 執行長",
+    "企業管理學系 助理教授",
+    "企業管理學系 副教授"
+  ],
+  "currjob": [
+    "中冠資訊股份有限公司 第9屆監察人"
+  ],
+  "otherExp": [
+    "國立澎湖科技大學 資訊管理學系 助理教授",
+    "亞洲航空(股)公司 企劃室 經理"
+  ],
+  "journal": [
+    {
+      "論文名稱": "Do Store and Brand Attachments Influence Customer Loyalty? Evidence From Migrant Workers in Taiwan",
+      "期刊名稱": "SAGE Open (SSCI)",
+      "作者群": "Ju-Chuan Wu, Pei-Hsuan Tsai, and Chih-Jou Chen"
+    },
+    {
+      "論文名稱": "Factors Influencing Digital Transformation of Manufacturing in Taiwan",
+      "期刊名稱": "Journal of E-Business (TSSCI)",
+      "作者群": "Ju-Chuan Wu*, Chih-Jou Chen, Jui-Chi Wang"
+    },
+    {
+      "論文名稱": "The impacts of transformational leadership on emotional labour in Taiwanese private nonprofit long-term care institutions: the mediating role of psychological contract",
+      "期刊名稱": "Asia Pacific Business Review (SSCI)",
+      "作者群": "Chih-Jou Chen, Pei-Hsuan Tsai, Ju-Chuan Wu"
+    },
+    {
+      "論文名稱": "設計思考與CDIO融入的數位人文創新教學模式",
+      "期刊名稱": "大學教學實務與研究學刊 (10.6870/JTPRHE.202112_5(2).0002)",
+      "作者群": "吳如娟*、黃智彥"
+    },
+    {
+      "論文名稱": "以心理帳戶理論觀點探討消費者採用行動支付意圖之研究",
+      "期刊名稱": "管理與資訊學報 (CEPS)",
+      "作者群": "陳建文、吳如娟、卓鈺惠、林克翰"
+    },
+    {
+      "論文名稱": "企業資訊系統採用與智慧製造相關影響因素之探討",
+      "期刊名稱": "電子商務學報 (TSSCI)",
+      "作者群": "吳如娟、李虹慧、鄭偉成、李宛蓉"
+    },
+    {
+      "論文名稱": "以活動理論探討翻轉教室之學生學習成效",
+      "期刊名稱": "高等教育研究紀要 (CEPS)",
+      "作者群": "吳如娟*、陳建文、李舒媺"
+    },
+    {
+      "論文名稱": "作業管理：設計思考與CDIO融入的創新",
+      "期刊名稱": "大學教學實務與研究期刊 (ISSN：2519-6499)",
+      "作者群": "吳如娟*、黃誠甫"
+    },
+    {
+      "論文名稱": "企業探索：新鮮人計畫-未來企業的想像",
+      "期刊名稱": "大學教學實務與研究學刊 (TCI-HSS)",
+      "作者群": "吳如娟、李靜儀、王智弘、張秀樺"
+    },
+    {
+      "論文名稱": "A Study of Effects of ICT Integration: the Evidence from College Students",
+      "期刊名稱": "Memoirs of Higher Education Studies (ISSN 213137193)",
+      "作者群": "Ju-Chuan Wu, Chih-Jou Chen, Chun-Wen Teng, Mei-Chun Huang"
+    },
+    {
+      "論文名稱": "An Empirical Study of Continuous Usage Intention of Cloud CRM System: Integrating the Task-Technology Fit Model and Institutional Theory",
+      "期刊名稱": "Journal of e-Business (TSSCI)",
+      "作者群": "Chih-Jou Chen, Ju-Chuan Wu, Sung-Chiang Liin"
+    },
+    {
+      "論文名稱": "授權賦能與組織信任對服務導向組織公民行為 影響之研究-以公立社福機構為例",
+      "期刊名稱": "服務業管理評論 (ISSN 1814-5396)",
+      "作者群": "陳至柔、吳如娟、吳有諒"
+    },
+    {
+      "論文名稱": "Moderating Influence of Product Modularity on \r\nRelationships between Supply Chain Relationship Quality, \r\nKnowledge Sharing and NPD Performance",
+      "期刊名稱": "Jouranl of e-Business (TSSCI)",
+      "作者群": "Chih-Jou Chen、Ju-Chuan Wu*"
+    },
+    {
+      "論文名稱": "Collaboration strategy decision-making using the Miles and Snow typology",
+      "期刊名稱": "Journal of Business Research (SSCI)",
+      "作者群": "Chinho Lin,Hua-Ling Tsaia,Ju-Chuan Wu"
+    },
+    {
+      "論文名稱": "An electronic voting mechanism for fighting bribery and coercion",
+      "期刊名稱": "Journal of Network and Computer Applications (SCIE)",
+      "作者群": "Zhen-Yu Wu,Ju-Chuan Wu, Sung-Chiang Lin, Charlotte Wang"
+    },
+    {
+      "論文名稱": "A Hybrid Approach to Knowledge Flow",
+      "期刊名稱": "Industrial Management & Data Systems (SCIE)",
+      "作者群": "Lin, Chinho, Wu, Ju-Chuan*, Tsai, Hua-Ling"
+    },
+    {
+      "論文名稱": "Exploring barriers to knowledge flow at difference knowledge management maturity stages",
+      "期刊名稱": "Information & Management (SSCI)",
+      "作者群": "Chinho Lin,Ju-Chuan Wu, David C. Yen*"
+    },
+    {
+      "論文名稱": "A Reliable RFID Mutual Authentication Scheme for Healthcare Environments",
+      "期刊名稱": "Journal of Medical Systems (SCIE)",
+      "作者群": "Zhen-YuWu,Lichin Chen,Ju-ChuanWu"
+    },
+    {
+      "論文名稱": "Pursuing Excellence in Firm Core Knowledge through Intelligent Group Decision Support System",
+      "期刊名稱": "Industrial Management & Data Systems (SCIE)",
+      "作者群": "Lin, Chinho, Liu, Andrea, C.P., Hsu, M.L., and Wu, Ju-Chuan*"
+    }
+  ],
+  "journal2": [],
+  "conference": [
+    {
+      "論文名稱": "Analysis of Artificial Intelligence Education Framework and Requirements of Industry in Taiwan",
+      "會議名稱": "2025 Taiwan Summer Workshop on Information Management (TSWIM 2025)",
+      "作者群": "Wu, J.C.*, Wang, F.G., Lin, T.W."
+    },
+    {
+      "論文名稱": "人工智慧在高等教育課程規劃架構與產業人才需求之探討",
+      "會議名稱": "2025 國際大數據與ERP學術及實務研討會",
+      "作者群": "吳如娟*，王富貴，林子煒"
+    },
+    {
+      "論文名稱": "消費者採用智慧零售商店的影響因素研究:以 MOA 理論為基礎並探討機會的調節效果",
+      "會議名稱": "2024 國際大數據與ERP學術及實務研討會",
+      "作者群": "陳至柔、 吳如娟、蔡承祐"
+    },
+    {
+      "論文名稱": "Exploring the Business Model of Cloud Computing and Services in Retail",
+      "會議名稱": "2023 國際大數據與ERP學術及實務研討會",
+      "作者群": "Ju-Chuan Wu, Chih-Ting Liu"
+    },
+    {
+      "論文名稱": "Teachers’ Readiness of Information and Communication Technology Integration in Higher Education Innovation",
+      "會議名稱": "Knowledge Management in Organisations 16th International Conference(KMO 2022)",
+      "作者群": "Ju-Chuan Wu, Jui-Chi Wang"
+    },
+    {
+      "論文名稱": "Exploring the Factors Influencing Cloud Migration of Enterprise Information Systems in Taiwan",
+      "會議名稱": "Pacific Asia Conference on Information Systems (PACIS)",
+      "作者群": "Ju-Chuan Wu,Chih-Jou Chen,Yan-Chun Chen"
+    },
+    {
+      "論文名稱": "以機器學習建構採購預測模式：以地形車零組件採購為例",
+      "會議名稱": "2022 國際大數據與ERP學術及實務研討會",
+      "作者群": "吳如娟*,林峰正,林儒誼"
+    },
+    {
+      "論文名稱": "數位成熟度對製造業數位轉型影響之探討:TOE架構",
+      "會議名稱": "IMP 2021  第二十六屆國際資訊管理暨實務研討會",
+      "作者群": "吳如娟、李康誼"
+    },
+    {
+      "論文名稱": "雲端運算服務對企業數位轉型與創新之探討",
+      "會議名稱": "IMP第二十六屆國際資訊管理暨實務研討會",
+      "作者群": "吳如娟、王瑞琪*、陳彥均、劉芝廷"
+    },
+    {
+      "論文名稱": "Cloud Computing Services to Digital Innovation",
+      "會議名稱": "Pacific Asia Conference on Information Systems (PACIS)",
+      "作者群": "Ju-Chuan Wu, Shu-Mei Lee"
+    },
+    {
+      "論文名稱": "Teacher’ Readiness of ICT integrated in Higher Education Innovation",
+      "會議名稱": "Pacific Asia Conference on Information Systems (PACIS)",
+      "作者群": "Ju-Chuan Wu,Jui-Chi Wang"
+    },
+    {
+      "論文名稱": "以文字探勘探討企業資訊系統雲端化遷移之發展",
+      "會議名稱": "第十八屆服務業管理與創新學術研討會",
+      "作者群": "吳如娟、陳彥均"
+    },
+    {
+      "論文名稱": "數位成熟度對企業數位轉型之影響",
+      "會議名稱": "第十八屆服務業管理與創新學術研討會",
+      "作者群": "吳如娟、黃誠甫、李康誼"
+    },
+    {
+      "論文名稱": "雲端創新服務模式之建構：以石滬文化為例",
+      "會議名稱": "第十八屆服務業管理與創新學術研討會",
+      "作者群": "吳如娟、王瑞琪、李舒媺、劉芝廷"
+    },
+    {
+      "論文名稱": "以TOE架構探討數位成熟度評量對企業數位轉型的影響",
+      "會議名稱": "國際大數據與ERP學術及實務研討會",
+      "作者群": "吳如娟、黃誠甫、李康誼"
+    },
+    {
+      "論文名稱": "動態時空脈絡架構設計與建置-以澎湖石滬文化為例",
+      "會議名稱": "民生思想與離島產業發展學術研討會",
+      "作者群": "吳如娟、王瑞琪、呂峻益"
+    },
+    {
+      "論文名稱": "Exploring the Context of Cloud Computing Services Adoption to Startups by Using Formal Concept Analysis（Best Paper Award）",
+      "會議名稱": "International Conference on Big Data and Enterprise Resource Management",
+      "作者群": "Ju-Chuan Wu, Shu-Mei Lee"
+    },
+    {
+      "論文名稱": "An innovative dynamic visual model for digital archive in\ntraditional cultural Heritage-Evidence from Stone fish weirs Culture in\nPenghu, Taiwan",
+      "會議名稱": "The 9 th Conference of Japanese Association for Digital Humanities(JADH 2019)",
+      "作者群": "Ju-Chuan Wu,Jui-Chi Wang"
+    },
+    {
+      "論文名稱": "An Empirical Study on Enterprise Information Systems for Smart Manufacturing in Taiwan",
+      "會議名稱": "Pacific Asia Conference on Information Systems (PACIS)",
+      "作者群": "Ju-Chuan Wu,Hung-Hui Li,Wei-Cheng Cheng,Wan-Jung Li"
+    },
+    {
+      "論文名稱": "The Context of Cloud Computing/Services Adoption in Business: A Systematic Review with Activity Theory perspective",
+      "會議名稱": "Pacific Asia Conference on Information Systems (PACIS)",
+      "作者群": "Ju-Chuan Wu,Shu-Mei Lee,Li-Hsin Chen"
+    },
+    {
+      "論文名稱": "ICT Integrated in Higher Education: The Activities, Context and Effects",
+      "會議名稱": "Pacific Asia Conference on Information Systems (PACIS)",
+      "作者群": "Chih-Yen Huang,Ju-Chuan Wu,Shu-Mei Lee"
+    },
+    {
+      "論文名稱": "企業資訊系統採用與智慧製造相關影響因素之探討",
+      "會議名稱": "國際大數據與ERP學術及實務研討會",
+      "作者群": "吳如娟、李虹慧、鄭偉成、李宛蓉"
+    },
+    {
+      "論文名稱": "區塊鏈應用與採用意圖之探討：整合科技-組織-環境架構與科技接受模式",
+      "會議名稱": "國際大數據與ERP學術及實務研討會",
+      "作者群": "吳如娟、蔡雯涵、陳莉馨"
+    },
+    {
+      "論文名稱": "資通訊科技採用模型影響因素之探討－以ICT融入創新教學為例",
+      "會議名稱": "2018數位學習國際研討會暨開放教育論壇《數位學習的創新與應用》",
+      "作者群": "吳如娟、黃梅君、李舒媺"
+    },
+    {
+      "論文名稱": "以資料探勘技術探討石滬文化研究與發展",
+      "會議名稱": "澎湖研究第18屆學術研討會",
+      "作者群": "吳如娟、陳至柔、王瑞琪、黃敬智"
+    },
+    {
+      "論文名稱": "Use BCI to Generate Attention-Based Metadata for the Assessment of Effective Learning Duration.",
+      "會議名稱": "In International Conference on Learning and Collaboration Technologies",
+      "作者群": "Yang Ting Shen, XM Chen, PW Lu, JC Wu"
+    },
+    {
+      "論文名稱": "Impulse Buying Behavior in Mobile Commerce: Gender, Time Pressure, and Consumer Impulsiveness",
+      "會議名稱": "2018國際大數據與ERP學術及實務研討會",
+      "作者群": "Ju-Chuan Wu, Ya-Lan Zhuang, Chih-Jou Chen, Wen-Han Tsai"
+    },
+    {
+      "論文名稱": "影響社會企業採用企業資訊系統因素之探討",
+      "會議名稱": "2018 國際大數據與ERP學術及實務研討會",
+      "作者群": "吳如娟、許筑凱、李虹慧、黃智彥"
+    },
+    {
+      "論文名稱": "歷史文化多源(元)脈絡之動態呈現設計-以澎湖石滬文化為例",
+      "會議名稱": "第八屆數位典藏與數位人文國際研討會",
+      "作者群": "吳如娟、陳至柔、王瑞琪、傅詩淯"
+    },
+    {
+      "論文名稱": "Exploring the Activities and Effects of Teaching with Enterprise Information Systems(EIS) in Higher Education",
+      "會議名稱": "117TH THE IIER INTERNATIONAL CONFERENCE",
+      "作者群": "Ju-Chuan Wu, Jui-Chi Wang"
+    },
+    {
+      "論文名稱": "以就緒度觀點探討老化態度對資通訊科技採用意圖之影響",
+      "會議名稱": "管理學報「新環境趨勢下的消費行為與行銷策略」特刊研討會",
+      "作者群": "吳如娟、陳至柔、韋律安"
+    },
+    {
+      "論文名稱": "The Enterprise System Learning in Higher Education:Efficiency and Influence Factors",
+      "會議名稱": "2017 國際大數據與ERP學術及實務研討會",
+      "作者群": "Ju-Chuan Wu,Jui-Chi Wang"
+    },
+    {
+      "論文名稱": "以智識建構法探討資通訊科技融入在地老化的研究範疇與發展",
+      "會議名稱": "2017 國際大數據與ERP學術及實務研討會",
+      "作者群": "吳如娟、陳孟揚"
+    },
+    {
+      "論文名稱": "From Preserving Cultural Heritage to ICT Innovative Service Model for Stone Weir Cultural Tourism",
+      "會議名稱": "The 16th International Conference on Penghu Research",
+      "作者群": "Ju-Chuan Wu*, Chih-Jou Chen"
+    },
+    {
+      "論文名稱": "消費者使用行動支付意圖之研究：以心理帳戶理論為觀點",
+      "會議名稱": "2016前瞻管理學術與產業趨勢研討會",
+      "作者群": "陳建文、吳如娟、卓鈺惠、陳宛昀"
+    },
+    {
+      "論文名稱": "企業資訊系統之智識建構",
+      "會議名稱": "2016 國際大數據與ERP學術及實務研討會",
+      "作者群": "吳如娟、王瑞琪、許筑凱"
+    },
+    {
+      "論文名稱": "行動ERP採用影響因素之探討",
+      "會議名稱": "2016 國際大數據與ERP學術及實務研討會",
+      "作者群": "吳如娟、蘇柏碩、韋律安、王裕翔"
+    },
+    {
+      "論文名稱": "數位動態內容呈現之創新架構-以澎湖石滬文化為例",
+      "會議名稱": "聚焦東亞：2015數位典藏與數位人文國際研討會(第六屆)",
+      "作者群": "吳如娟、陳至柔、王瑞琪、曾宜紹、高琮杰"
+    },
+    {
+      "論文名稱": "以活動理論探討創新教學的翻轉成效-以逢甲大學作業管理課程為例",
+      "會議名稱": "臺灣科技大學第14屆管理新思維國際研討會",
+      "作者群": "吳如娟、黃梅君"
+    },
+    {
+      "論文名稱": "Supply Chain Agility and Innovativeness: The Relationships among IT Integration, Trust, and Competitive Advantage",
+      "會議名稱": "Joint International Conference MakeLearn and TIIM 2015",
+      "作者群": "Chih-Jou Chen and Ju-Chuan Wu"
+    },
+    {
+      "論文名稱": "Promoting Competitive Advantage: The Role of IT Integration, Trust and Innovativeness",
+      "會議名稱": "PACIS 2015",
+      "作者群": "Chih-Jou Chen, Ju-Chuan Wu"
+    },
+    {
+      "論文名稱": "An ICT Innovative Service Model for Culture to Creative Industry",
+      "會議名稱": "Joint International Conference MakeLearn and TIIM 2015",
+      "作者群": "Ju-Chuan Wu, Chih-Jou Chen, and Chinho Lin"
+    },
+    {
+      "論文名稱": "雲端 CRM 系統持續使用意圖之實證研究：整合任務—科技適配模式與體制理論",
+      "會議名稱": "2015 國際ERP學術及實務研討會",
+      "作者群": "陳至柔、吳如娟"
+    },
+    {
+      "論文名稱": "行動商務特性與衝動性購買行為關聯性之研究-以性別為調節變數",
+      "會議名稱": "2015 國際ERP學術及實務研討會",
+      "作者群": "吳如娟、莊雅嵐"
+    },
+    {
+      "論文名稱": "行動支付使用意圖之探討：以心理帳戶為例",
+      "會議名稱": "2015 國際ERP學術及實務研討會",
+      "作者群": "陳建文、吳如娟、卓鈺惠"
+    },
+    {
+      "論文名稱": "推薦系統對使用意圖和購買意圖之研究-以旅遊推薦系統為例",
+      "會議名稱": "2015 國際ERP學術及實務研討會",
+      "作者群": "陳建文、吳如娟、陳振東、方思媛"
+    },
+    {
+      "論文名稱": "A Game-based Simulation System for ERP Learning",
+      "會議名稱": "Management, Knowledge and Learning International Conference 2014",
+      "作者群": "Ju-Chuan Wu*,Sung-Chiang, Chih-Jou Chen, Chinho Lin"
+    },
+    {
+      "論文名稱": "DOES CUSTOMER PARTICIPATION ENHANCE REPURCHASE INTENT? AN  EMPIRICAL STUDY OF FINANCIAL INSURANCE SERVICES",
+      "會議名稱": "2014 International Conference on Business and Information (BAI2014)",
+      "作者群": "Chih-Jou Chen, Ju-Chuan Wu"
+    },
+    {
+      "論文名稱": "HOW CUSTOMER PARTICIPATION CAN DRIVE REPURCHASE INTENT",
+      "會議名稱": "PACIS 2014",
+      "作者群": "Chih-Jou Chen, Chih-Cheng Chen, Ju-Chuan Wu"
+    },
+    {
+      "論文名稱": "商業流程拼圖學習與應用平台架構-以使用者需求與服務整合為導向",
+      "會議名稱": "2013TWELF 第九屆台灣數位學習發展研討會",
+      "作者群": "吳如娟、王瑞琪、曾宜紹、洪偉傑、高琮杰、呂義平"
+    },
+    {
+      "論文名稱": "A Game-based Simulation System for ERP Learning",
+      "會議名稱": "Management, Knowledge and Learning International Conference 2013",
+      "作者群": "吳如娟"
+    },
+    {
+      "論文名稱": "A Balance Sheet for Knowledge Evaluation and Reporting",
+      "會議名稱": "Management, Knowledge and Learning, International Conference 2013",
+      "作者群": "Ju-Chuan Wu*, Chinho Lin"
+    },
+    {
+      "論文名稱": "Critical Activities of Executive Information Implementation",
+      "會議名稱": "2012飛航安全與航空管理學術研討會",
+      "作者群": "Ju-Chuan Wu*, Teresa, L. Ju, Ho, L.A.,Kuo, T.H.,Lin, Chinho"
+    },
+    {
+      "論文名稱": "結合遊戲式學習理論之3D情境教學系統",
+      "會議名稱": "2012第八屆數位內容國際學術研討會",
+      "作者群": "林松江、吳如娟*、鄭惠勻、蔡雅如、陳宥瑩、楊雅茜、蔡誌毅"
+    },
+    {
+      "論文名稱": "Exploring the influencing factors on Inertia Source of Knowledge Flow.",
+      "會議名稱": "International Center for Electronic Commerce(ICEC)",
+      "作者群": "Lin, Chinho*, Wu, Ju-Chuan"
+    },
+    {
+      "論文名稱": "Exploring the barries to knowledge flow through formal concept analysis.",
+      "會議名稱": "Teachnology Innovation & Industrial Management (TIIM)",
+      "作者群": "Wu, Ju-Chuan*,Teresa, L. Ju, Ho, L.a., Kuo, T.H.,Ling Chinho"
+    },
+    {
+      "論文名稱": "A STUDY OF RESTRUCTURING STRATEGH FROM A TIME PERSPECTIVE.",
+      "會議名稱": "Decision Science Institute 40th Annual Meeting",
+      "作者群": "Lin, Chinho*, Wu-Chung, T.L."
+    },
+    {
+      "論文名稱": "A Restructuring Strategy for facing Global Financial Crisis How Should Employers View .Their Employees? Cost or Asset.",
+      "會議名稱": "Technology Innovation  & Industrial Management",
+      "作者群": "Lin, Chinho*, Wu, Ju-Chun"
+    },
+    {
+      "論文名稱": "Exploring the influencing factors associated with knowledge sharing and integration- from the perspective of knowledge flow.",
+      "會議名稱": "2007ACME Annual Meeting",
+      "作者群": "Chinho Lin, Ju-Chuan Wu*"
+    },
+    {
+      "論文名稱": "The influencing factors of adopting knowledge management practices in Taiwanese industry.",
+      "會議名稱": "ACME Annual Meeting",
+      "作者群": "Lin, Chinho*, Wu, Ju-Chuan, Chen, P.H., Liu, C. Y., Wu, C.M."
+    }
+  ],
+  "book": [
+    {
+      "專業書籍": "創意思考與實例演練",
+      "出版單位": "逢甲大學通識教育中心",
+      "作者群": "李秉乾、翟本瑞、周惠那、陳淑慧、宋明弘、陳介英、鄧鈞文、徐偉傑、沈揚庭、李靜儀、吳如娟、劉為光、吳俊哲、謝佩君"
+    }
+  ],
+  "patent": [],
+  "most": [
+    {
+      "name": "人工智慧在高等教育課程規劃架構與產業人才需求之探討",
+      "schoolYear": "113"
+    },
+    {
+      "name": "雲端運算對企業數位轉型、創新、與再造發展進程之探討(2/2)",
+      "schoolYear": "111"
+    },
+    {
+      "name": "雲端運算對企業數位轉型、創新、與再造發展進程之探討(1/2)",
+      "schoolYear": "110"
+    },
+    {
+      "name": "基於雲端運算的資通訊服務創新發展與生態體系之探討",
+      "schoolYear": "109"
+    },
+    {
+      "name": "新興科技創新營運模式－台灣智慧製造創新營運中心-總計畫及子計畫二、四、五(4/4)",
+      "schoolYear": "108"
+    },
+    {
+      "name": "新興科技創新營運模式－台灣智慧製造創新營運中心-總計畫及子計畫二、四、五(3/4)",
+      "schoolYear": "107"
+    },
+    {
+      "name": "(3/3)4i工程人才培育研究計畫-跨領域工程人才社會創新與創業參與計畫(跨領域工程教育人才育與研究計畫)",
+      "schoolYear": "107"
+    },
+    {
+      "name": "(3/3)4i工程人才培育研究計畫--跨領域創新行動應用程式APP人才培育課程開發與實踐(跨領域工程教育人才培育與研究計畫)",
+      "schoolYear": "107"
+    },
+    {
+      "name": "企業系統服務創新的發展與採用：組織特性、企業文化、與任務科技配適(2/2)",
+      "schoolYear": "107"
+    },
+    {
+      "name": "新興科技創新營運模式－台灣智慧製造創新營運中心-總計畫及子計畫二、四、五(2/4)",
+      "schoolYear": "106"
+    },
+    {
+      "name": "(2/3)4i工程人才培育研究計畫-跨領域工程人才社會創新與創業參與計畫(跨領域工程教育人才育與研究計畫)",
+      "schoolYear": "106"
+    },
+    {
+      "name": "(2/3)4i工程人才培育研究計畫--跨領域創新行動應用程式APP人才培育課程開發與實踐(跨領域工程教育人才培育與研究計畫)",
+      "schoolYear": "106"
+    },
+    {
+      "name": "企業系統服務創新的發展與採用：組織特性、企業文化、與任務科技配適(1/2)",
+      "schoolYear": "106"
+    },
+    {
+      "name": "記憶與記錄：以資通訊科技創新石滬文化體驗服務之研究",
+      "schoolYear": "106"
+    },
+    {
+      "name": "新興科技創新營運模式－台灣智慧製造創新營運中心-總計畫及子計畫二、四、五(1/4)",
+      "schoolYear": "105"
+    },
+    {
+      "name": "(清大)科技社群建構：支援全國科學技術會議結論之落實",
+      "schoolYear": "105"
+    },
+    {
+      "name": "(1/3)4i工程人才培育研究計畫-跨領域工程人才社會創新與創業參與計畫(跨領域工程教育人才培育與研究計畫)",
+      "schoolYear": "105"
+    },
+    {
+      "name": "(1/3)4i工程人才培育研究計畫-跨領域創新行動應用程式APP人才培育課程開發與實踐(跨領域工程教育人才培育與研究計畫)",
+      "schoolYear": "105"
+    },
+    {
+      "name": "資通訊科技融入創新教學之研究：活動元素、教與學",
+      "schoolYear": "105"
+    },
+    {
+      "name": "結合音樂與智慧型裝置以改善高齡者數位落差之創新服務模式建構",
+      "schoolYear": "105"
+    },
+    {
+      "name": "科技社群建構：建構完善科技環境-友善、扎根(II)",
+      "schoolYear": "104"
+    },
+    {
+      "name": "在地老化資通訊科技創新服務模式之研究",
+      "schoolYear": "104"
+    },
+    {
+      "name": "文創產業資訊通訊科技創新服務模式之建構",
+      "schoolYear": "102"
+    }
+  ],
+  "tech": [],
+  "induAca": [
+    "人文社會與產業實務創新鏈結計畫─教師社群與課程模組培力計畫 (2022-12 to 2023-11)",
+    "雲端平台研析委託研究計畫 (2022-09 to 2022-11)",
+    "雲端上的數位人文 (2021-08 to 2022-01)",
+    "108學年度第2學期數位人文社會科學教學創新計畫—「海洋文化時空脈絡」 (2020-02 to 2020-07)",
+    "SAP ByDesign & Analytics Cloud 應用開發合作計畫 (2019-12 to 2020-03)",
+    "108學年度第1學期數位人文社會科學教學創新計畫—「人文與科技」 (2019-08 to 2020-01)",
+    "107年度數位人文社會科學教學創新計畫「數位人文的創新與實踐：海洋文化」 (2019-02 to 2019-07)",
+    "博士韋爾品牌形象設計與行銷計畫 (2018-09 to 2019-07)",
+    "澎湖縣國定古蹟馬公金龜頭礮臺軍事文化園區網頁規劃設計建置案 (2016-08 to 2017-03)",
+    "105年度磨課師課程推動計畫「顛倒用─社會企業創業與管理」 (2016-05 to 2017-04)"
+  ],
+  "perform": [],
+  "reward": [
+    "113學年度教學績優獎 (113, 2024-11) - 逢甲大學",
+    "2024中華企業資源規劃學會國際ERP學術與實務研討會優良論文獎 (112, 2024-03) - 中華企業資源規劃學會",
+    "逢甲大學論文著作獎勵優等獎 (112, 2023-11) - 逢甲大學",
+    "第53屆全國技能競賽青年組雲端運算職類第一名 (111, 2023-03) - 勞動部",
+    "第53屆全國技能競賽青年組雲端運算職類第三名 (111, 2023-03) - 勞動部",
+    "第53屆全國技能競賽青年組雲端運算職類第二名 (111, 2023-03) - 勞動部",
+    "第53屆全國技能競賽青年組雲端運算職類第五名 (111, 2023-03) - 勞動部",
+    "第53屆全國技能競賽青年組雲端運算職類第四名 (111, 2023-03) - 勞動部",
+    "第53屆全國技能競賽青年組雲端運算職類佳作三名 (111, 2023-03) - 勞動部",
+    "2023中華企業資源規劃學會國際ERP學術及實務研討會優秀論文獎 (111, 2023-03) - 中華企業資源規劃學會",
+    "2022 AWS re:Invent GameDay World Champion (111, 2022-12) - Amazon Web Services",
+    "第52屆全國技能競賽青年組雲端運算職類第一名 (111, 2022-08) - 勞動部",
+    "第52屆全國技能競賽青年組雲端運算職類第三名 (111, 2022-08) - 勞動部",
+    "第52屆全國技能競賽青年組雲端運算職類第二名 (111, 2022-08) - 勞動部",
+    "第52屆全國技能競賽青年組雲端運算職類第四名 (111, 2022-08) - 勞動部",
+    "第52屆全國技能競賽中區分區技能競賽青年組雲端運算職類第三名 (110, 2022-04) - 勞動部",
+    "第52屆全國技能競賽中區分區技能競賽青年組雲端運算職類第二名 (110, 2022-04) - 勞動部",
+    "iF DESIGN AWARD 2022 『Whirling Smart Manufacturing: The FEMCO Machinery Memorial Museum』 (110, 2022-04) - iF Design",
+    "2022E化教學優良獎 (110, 2022-03) - 中華企業資源規劃學會",
+    "2022 國際大數據與ERP學術及實務研討會 論文獎佳作 (110, 2022-03) - 中華企業資源規劃學會",
+    "2022中華企業資源規劃學會 E化系統創意應用競賽 佳作 (110, 2022-03) - 中華企業資源規劃學會",
+    "2022中華企業資源規劃學會國際ERP學術及實務研討會優秀論文獎 (110, 2022-03) - 中華企業資源規劃學會",
+    "大學教師優良創新課程及教學競賽優等獎 (110, 2021-11) - 國立清華大學",
+    "第51屆全國技能競賽青年組雲端運算職類第一名 (110, 2021-10) - 勞動部",
+    "第51屆全國技能競賽青年組雲端運算職類第二名 (110, 2021-10) - 勞動部",
+    "第51屆全國技能競賽青年組雲端運算職類第四名 (110, 2021-10) - 勞動部",
+    "第52屆全國技能競賽青年組雲端運算職類第二名 (110, 2021-10) - 勞動部",
+    "第52屆全國技能競賽青年組雲端運算職類第四名 (110, 2021-10) - 勞動部",
+    "第三屆聯發科技「智在家鄉」數位社會創新競賽潛力獎 (109, 2020-12) - 聯發科技",
+    "大學教師優良創新課程及教學競賽佳作 (109, 2020-10) - 國立清華大學",
+    "2020中華企業資源規劃學會國際ERP學術及實務研討會優秀論文獎 (108, 2020-03) - 中華企業資源規劃學會",
+    "108學年度教學傑出獎 (108, 2019-11) - 逢甲大學",
+    "2019第24屆全國大專院校資訊應用服務創新第三名 (108, 2019-11) - 經濟部工業局、教育部資訊及科技教育司、中華民國資管學",
+    "2019年E化系統創意應用競賽第二名 (107, 2019-03) - 中華企業資源規劃學會",
+    "2019中華企業資源規劃學會國際ERP學術及實務研討會優秀論文獎 (107, 2019-03) - 中華企業資源規劃學會",
+    "2018年E化系統創意應用競賽第一名 (106, 2018-03) - 中華企業資源規劃學會",
+    "逢甲大學優良教材獎勵傑出獎 (106, 2017-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (106, 2017-11) - 逢甲大學",
+    "大學教師優良創新課程及教學競賽優等獎 (105, 2017-06) - 國立清華大學",
+    "優良數位學習課程教材 (105, 2017-05) - 逢甲大學",
+    "104學年度優良導師 (104, 2016-11) - 學務處",
+    "大學教師優良創新課程及教學競賽優等獎 (104, 2016-06) - 國立新竹教育大學",
+    "大學教師優良創新課程及教學競賽優等獎 (104, 2016-06) - 國立新竹教育大學",
+    "2016 第六屆聯電經營管理論文獎 佳作 (104, 2016-03) - 社團法人中華民國管理科學學會",
+    "逢甲大學論文著作獎勵優良獎 (104, 2015-11) - 逢甲大學",
+    "2015TiC100 社會創業競賽-社區(群) 入圍決賽 (103, 2015-07) - 台灣社會企業創新創業學會",
+    "2015中華企業資源規劃學會 E化系統創意應用競賽 佳作 (103, 2015-03) - 中華企業資源規劃學會",
+    "2015中華企業資源規劃學會國際ERP學術及實務研討會優秀論文獎 (103, 2015-03) - 中華企業資源規劃學會",
+    "103年度生醫專題競賽-創意發想組 佳作 (103, 2015-01) - 教育部",
+    "2014高屏澎在地服務創新創意競賽 第二名 (103, 2014-12) - 社團法人台灣服務科學學會",
+    "2014企業商務行動化應用(APP)專題校際競賽佳作暨特別獎 (103, 2014-11) - 鼎新電腦(股)公司",
+    "2014第19屆全國大專校院資訊應用服務創新競賽 佳作 (103, 2014-11) - 經濟部工業局、教育部資訊及科技教育司、中華民國資管學",
+    "2014中華企業資源規劃學會 E化系統創意應用競賽 第二名 (102, 2014-03) - 中華企業資源規劃學會",
+    "2014中華企業資源規劃學會國際ERP學術及實務研討會優秀論文獎 (102, 2014-03) - 中華企業資源規劃學會",
+    "2013企業商務行動化應用(APP)專題校際競賽第一名 (102, 2013-11) - 鼎新電腦(股)公司",
+    "2013高屏澎在地服務創新創意競賽 第三名 (102, 2013-11) - 社團法人台灣服務科學學會",
+    "2013第18屆全國大專院校資訊應用服務創新 佳作 (102, 2013-11) - 經濟部工業局、教育部資訊及科技教育司、中華民國資管學"
+  ],
+  "speech": [
+    {
+      "演講題目": "AI創新應用與金融保險科技之數位轉型",
+      "邀請單位": "銘傳大學",
+      "演講日期": "2024-04"
+    },
+    {
+      "演講題目": "CDIO教學設計與實踐案例",
+      "邀請單位": "實踐大學",
+      "演講日期": "2024-04"
+    },
+    {
+      "演講題目": "從設計思考到CDIO",
+      "邀請單位": "實踐大學",
+      "演講日期": "2024-01"
+    },
+    {
+      "演講題目": "數位轉型與雲端創新",
+      "邀請單位": "亞洲大學",
+      "演講日期": "2023-09"
+    },
+    {
+      "演講題目": "大學校園的數位轉型-AI與數位整合",
+      "邀請單位": "國立澎湖科技大學",
+      "演講日期": "2023-04"
+    },
+    {
+      "演講題目": "設計思考與CDIO融入的創新教學與實踐",
+      "邀請單位": "弘光科技大學",
+      "演講日期": "2021-04"
+    },
+    {
+      "演講題目": "設計思考與CDIO融入的創新教學",
+      "邀請單位": "萬能科技大學",
+      "演講日期": "2021-03"
+    },
+    {
+      "演講題目": "設計思考X數位轉型：AWS 雲端教學資源與應用",
+      "邀請單位": "亞馬遜網路服務公司(AWS)",
+      "演講日期": "2020-12"
+    },
+    {
+      "演講題目": "設計思考與CDIO融入的跨領域合作與教學實踐",
+      "邀請單位": "沙鹿高工",
+      "演講日期": "2020-12"
+    },
+    {
+      "演講題目": "AWS雲端教學資源與應用",
+      "邀請單位": "國立澎湖科技大學",
+      "演講日期": "2020-11"
+    },
+    {
+      "演講題目": "學術工作裡的教學與研究：計畫書轉寫經驗分享",
+      "邀請單位": "國立澎湖科技大學",
+      "演講日期": "2020-11"
+    },
+    {
+      "演講題目": "AWS雲端教學資源與應用",
+      "邀請單位": "華夏科技大學",
+      "演講日期": "2020-11"
+    },
+    {
+      "演講題目": "創意、創新到創業",
+      "邀請單位": "慈濟大學",
+      "演講日期": "2020-10"
+    },
+    {
+      "演講題目": "設計思考 X 數位轉型 AWS 雲端教學資源與應用",
+      "邀請單位": "中原大學",
+      "演講日期": "2020-10"
+    },
+    {
+      "演講題目": "後疫情時代 雲端育才關鍵策略",
+      "邀請單位": "勞動部中分署",
+      "演講日期": "2020-09"
+    },
+    {
+      "演講題目": "從 1 到∞ 設計思考與 CDIO 融入的跨域合作與教學實踐",
+      "邀請單位": "109 年全國新進教師研習營",
+      "演講日期": "2020-09"
+    },
+    {
+      "演講題目": "跨域教學計畫從構思到教案設計與實踐",
+      "邀請單位": "長庚大學",
+      "演講日期": "2020-07"
+    },
+    {
+      "演講題目": "從創意到方案：營運計畫書怎麼寫",
+      "邀請單位": "弘光科技大學",
+      "演講日期": "2020-06"
+    },
+    {
+      "演講題目": "設計思考與CDIO融入的跨領域課程設計與教學",
+      "邀請單位": "國立臺北教育大學",
+      "演講日期": "2020-06"
+    },
+    {
+      "演講題目": "設計思考與跨領域融入的創新教學",
+      "邀請單位": "淡江大學",
+      "演講日期": "2019-10"
+    },
+    {
+      "演講題目": "需\u001d\u001d求驅動與鏈結跨領域課程設計",
+      "邀請單位": "臺北醫學大學",
+      "演講日期": "2019-06"
+    },
+    {
+      "演講題目": "製造業服務化與企業轉型",
+      "邀請單位": "台中軟體園區/經濟部加工出口區管理處",
+      "演講日期": "2018-10"
+    },
+    {
+      "演講題目": "跨領域的教學創新與實踐",
+      "邀請單位": "國立臺東大學",
+      "演講日期": "2018-10"
+    },
+    {
+      "演講題目": "計畫構思到執行",
+      "邀請單位": "華夏科技大學",
+      "演講日期": "2018-09"
+    },
+    {
+      "演講題目": "設計思考與創意實踐",
+      "邀請單位": "華夏科技大學",
+      "演講日期": "2018-09"
+    },
+    {
+      "演講題目": "跨領域的教學創新與實踐",
+      "邀請單位": "義守大學",
+      "演講日期": "2018-05"
+    },
+    {
+      "演講題目": "Freshman Project 分享",
+      "邀請單位": "大葉大學",
+      "演講日期": "2017-09"
+    },
+    {
+      "演講題目": "ICT創新服務模式與數位人文",
+      "邀請單位": "國立臺東大學",
+      "演講日期": "2017-05"
+    },
+    {
+      "演講題目": "石滬動態數位典藏系統：數位內容與概念性架構",
+      "邀請單位": "澎湖縣政府",
+      "演講日期": "2016-10"
+    },
+    {
+      "演講題目": "人文與科技的對話：從觀察到研究",
+      "邀請單位": "國立彰化師範大學企業管理研究所",
+      "演講日期": "2016-10"
+    },
+    {
+      "演講題目": "創意思考與企劃力",
+      "邀請單位": "衛生福利部澎湖老人之家",
+      "演講日期": "2015-04"
+    },
+    {
+      "演講題目": "觀察想像到研究",
+      "邀請單位": "國立澎湖科技大學",
+      "演講日期": "2014-10"
+    },
+    {
+      "演講題目": "職場多樣性與管理議題：職場性別平等的經濟理由",
+      "邀請單位": "國立澎湖科技大學",
+      "演講日期": "2014-04"
+    },
+    {
+      "演講題目": "業商務行動化應用得獎作品與教學經驗分享",
+      "邀請單位": "鼎新電腦(股)公司",
+      "演講日期": "2014-03"
+    },
+    {
+      "演講題目": "企業商務行動化應用得獎作品與教學經驗分享",
+      "邀請單位": "鼎新電腦(股)公司",
+      "演講日期": "2014-03"
+    }
+  ],
+  "material": [
+    "顛倒用-社會企業創新與管理\t逢甲大學雲端學院\t汪浩、張森河、吳如娟\t複合教材"
+  ],
+  "tal": []
+}

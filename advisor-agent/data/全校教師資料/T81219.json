@@ -1,0 +1,347 @@
+{
+  "teacherId": "T81219",
+  "name": "楊炳章",
+  "mainUnit": "資訊電機學院",
+  "detailUnit": "電子工程學系",
+  "skill": [
+    "半導體物理及元件Semiconductor Physics and Devices",
+    "積體電路Integrated Circuits",
+    "絕緣物上矽晶技術SOI Technology"
+  ],
+  "edu": [
+    "美國佛羅里達大學 電機工程系 博士",
+    "國立交通大學 電子研究所 碩士",
+    "國立交通大學 電子工程學系 學士"
+  ],
+  "fcuExp": [
+    "電機工程學系(所) 副教授",
+    "電子工程學系 副教授"
+  ],
+  "currjob": [],
+  "otherExp": [],
+  "journal": [
+    {
+      "論文名稱": "Influence of selenization temperature on synthesis, morphology, and properties of nanostructured CoSe2 films",
+      "期刊名稱": "Crystal Research & Technology (SCIE)",
+      "作者群": "Jen-Bin Shi, Po-Feng Wu, Chia-Tze Kao, Ming-Way Lee, Chih-Chieh Chan, Ping-Chang Yang, Cheng-Li Lin, Rui-Ya Huang, Yu-Jyun Huang,"
+    },
+    {
+      "論文名稱": "Effect of Cu/In radio on properties of CuInSe2 thin films prepared by Selenization of Cu-In layers",
+      "期刊名稱": "Crystal Research & Technology (SCIE)",
+      "作者群": "Jen-Bin Shi, Yu-Cheng Chen, Po-Feng Wu, Shui-Yuang, Tsung-Kuei Kang, Ping-Chang Yang, Cheng-Li Lin, and San-Lin Young"
+    },
+    {
+      "論文名稱": "A Study of Hydrogen (Oxygen) Passivation Effects on the Metal/Polysilicon Contact System.",
+      "期刊名稱": "逢甲學報 ()",
+      "作者群": "楊炳章、楊文祿"
+    },
+    {
+      "論文名稱": "含浮體位能效應之完全空乏式SOI nMOSFETs磁滯寬度研究",
+      "期刊名稱": "逢甲學報 ()",
+      "作者群": "楊炳章"
+    }
+  ],
+  "journal2": [],
+  "conference": [
+    {
+      "論文名稱": "Characteristics of Gate Spacer Material on HfZrO Negative Capacitance of MIS Capacitors",
+      "會議名稱": "第25屆奈米元件技術研討會Symposium on Nano Device Technology (SNDT)",
+      "作者群": "Wei-Chieh Chen, Cheng-Li Lin, Yao-Jen Lee, Ping-Chang Yang"
+    },
+    {
+      "論文名稱": "微機電高度計之設計：以壓阻式壓力計為例",
+      "會議名稱": "International Conference on Safety & security Management and Engineering Technology (安全管理與工程技術國際研討會)",
+      "作者群": "連元興、楊炳章"
+    },
+    {
+      "論文名稱": "結合抬升式汲源極與汲極輕掺雜雙通道複晶矽薄膜電晶體特性之模擬與分析",
+      "會議名稱": "中國機械工程學會106年度年會暨第34屆全國學術研討會",
+      "作者群": "楊寅崧、楊炳章"
+    },
+    {
+      "論文名稱": "高效能抬升式汲源極與汲極輕掺雜複晶矽薄膜電晶體特性之模擬與分析",
+      "會議名稱": "中國機械工程學會106年度年會暨第34屆全國學術研討會",
+      "作者群": "張詠程、楊炳章"
+    },
+    {
+      "論文名稱": "Turning the Difference Molecular Weights to Improving memory window for Polymide-Based Resistive Random Access Memories",
+      "會議名稱": "2017 IEEE International Electron Device Meeting (IEDM)",
+      "作者群": "Guan-Wei Lin, Tun-Po Liao, Bo-Ling Tzeng, Hsin-Chiang You, Wen-Luh Yang, Ping-Chang Yang, and Chi-Chang Wu"
+    },
+    {
+      "論文名稱": "頻率範圍1.88GHz至3.73GHz之可調式CMOS環形壓控振盪器",
+      "會議名稱": "2017電子，信號，與通訊創新科技研討會",
+      "作者群": "楊炳章、邱重堯、黃裕宸"
+    },
+    {
+      "論文名稱": "Characteristic of Flexible Graphene oxide (GO) Resistive Random Access Memory (ReRAM)",
+      "會議名稱": "24th Symposium on Nano Device Technology (SNDT)",
+      "作者群": "Wei-Chieh Chen, Si-Hock Ong, Ping-Chang Yang, Cheng-Li Lin, Jia-Cheng Ong, and Yi-Wei Wu"
+    },
+    {
+      "論文名稱": "Characteristic of Flexible Graphene Oxide (GO) Resistive Random Access Memory (ReRAM)",
+      "會議名稱": "2017 Symposium on Nano Device Technology (SNDT) 奈米元件技術研討會",
+      "作者群": "Wei-Chieh Chen*, Si-Hock Ong, Ping-Chang Yang, Cheng-Li Lin*, Jia-Cheng Ong, and Yi-Wei Wu"
+    },
+    {
+      "論文名稱": "場板結合抬升式源汲極與汲極輕掺雜之複晶矽薄膜電晶體特性模擬與分析",
+      "會議名稱": "第20屆奈米工程暨微系統技術研討會",
+      "作者群": "楊炳章、顏立奇、羅梓豪"
+    },
+    {
+      "論文名稱": "高效能雙通道結合汲極輕掺雜並抬升式源汲極複晶矽薄膜電晶體之設計模擬與分析",
+      "會議名稱": "第20屆奈米工程暨微系統技術研討會",
+      "作者群": "楊炳章、羅梓豪、顏立奇"
+    },
+    {
+      "論文名稱": "A 3-9 GHz Low Noise Amplifier for Wireless RF Receivers",
+      "會議名稱": "2015奈米元件技術研討會",
+      "作者群": "楊炳章、簡偉翔、林國緯"
+    },
+    {
+      "論文名稱": "The Study of Polysilicon Thin Film Transistor with RSD and LDD Design",
+      "會議名稱": "2015奈米元件技術研討會",
+      "作者群": "楊炳章、游振躍"
+    },
+    {
+      "論文名稱": "VDMOS特性模擬及閘極電荷影響之分析",
+      "會議名稱": "2015第十三屆微電子技術發展與應用研討會",
+      "作者群": "楊炳章、林佑弘、潘晙榮"
+    },
+    {
+      "論文名稱": "AlGaN/GaN高電子移動率電晶體設計與分析之模擬",
+      "會議名稱": "2015第十三屆微電子技術發展與應用研討會",
+      "作者群": "楊炳章、潘晙榮、林佑弘"
+    },
+    {
+      "論文名稱": "電腦輔助設計之半導體雷射",
+      "會議名稱": "第九屆智慧生活科技研討會(ILT2014)",
+      "作者群": "楊炳章、陳逸安、林以寬"
+    },
+    {
+      "論文名稱": "High-Frequency Performances Simulation of Al(0.32)Ga(0.77)As/In(1-x)Ga(x)As High Electron Mobility Transistor",
+      "會議名稱": "2014奈米元件技術研討會(Symposium on Nano Device Technology)",
+      "作者群": "楊炳章、林以寬"
+    },
+    {
+      "論文名稱": "CMOS 3.1~10.6 GHz UWB低雜訊放大器設計",
+      "會議名稱": "2014第八屆資訊科技國際研討會(AIT 2014)",
+      "作者群": "楊炳章、王仕杰"
+    },
+    {
+      "論文名稱": "無線超寬頻3GHz~10.6GHz低雜訊放大器",
+      "會議名稱": "第十九屆資訊管理暨實務研討會",
+      "作者群": "楊炳章、謝章源、彭文彥"
+    },
+    {
+      "論文名稱": "An Ultra-Wide-Band 3.1~10.6 GHz Low-Noise-Amplifier Design and Simulation",
+      "會議名稱": "2013彰雲嘉大學校院聯盟年度大會&學術研討會",
+      "作者群": "楊炳章、江黃彥廷"
+    },
+    {
+      "論文名稱": "利用CMOS 0.18um 製程設計超寬頻低雜訊放大器",
+      "會議名稱": "2013彰雲嘉大學校院聯盟年度大會&學術研討會",
+      "作者群": "楊炳章、王仕杰"
+    },
+    {
+      "論文名稱": "3.1-10.6GHz寬頻低雜訊放大器LNA",
+      "會議名稱": "2013空軍官校航空太空科技研討會",
+      "作者群": "楊炳章、蔡懷德、張宏嘉"
+    },
+    {
+      "論文名稱": "液體聚合物穩定光配向二次紫外光時間最佳化之研究",
+      "會議名稱": "第八屆智慧生活科技研討會(ILT2013)",
+      "作者群": "楊炳章、彭文彥、謝章源"
+    },
+    {
+      "論文名稱": "3.1~10.6 GHz寬頻低雜訊放大器LNA",
+      "會議名稱": "第八屆智慧生活科技研討會(ILT2013)",
+      "作者群": "楊炳章、張宏嘉"
+    },
+    {
+      "論文名稱": "超寬頻CMOS低雜訊放大器之設計",
+      "會議名稱": "第八屆智慧生活科技研討會(ILT2013)",
+      "作者群": "楊炳章、蔡懷德"
+    },
+    {
+      "論文名稱": "3-11GHz超寬頻之低雜訊放大器",
+      "會議名稱": "2013微電子技術發展與應用研討會(2013 C'META)",
+      "作者群": "楊炳章、江黃彥廷"
+    },
+    {
+      "論文名稱": "藉由RTA熱處理方式有效改善氧化鋅透明導電薄膜特性",
+      "會議名稱": "安全管理與工程技術國際研討會(ICSSMET2012)",
+      "作者群": "楊炳章、李顯億、黃勝斌、簡偉翔、林旺瑩、邱健峰"
+    },
+    {
+      "論文名稱": "RF磁控濺渡機沉積GZO薄膜經過RTA處理之研究",
+      "會議名稱": "安全管理與工程技術國際研討會(ICSSMET2012)",
+      "作者群": "楊炳章、李顯億、黃勝斌、林旺瑩、簡偉翔、邱健峰"
+    },
+    {
+      "論文名稱": "頻率範圍1.1 GHz至4.4 GHz之可調式CMOS環形壓控振盪器",
+      "會議名稱": "2011年民生電子研討會",
+      "作者群": "楊炳章、邱重堯"
+    },
+    {
+      "論文名稱": "晶圓切割設備電控系統設計與研究",
+      "會議名稱": "ILT 2011 第六屆智慧科技生活研討會",
+      "作者群": "楊敦淵、楊炳章"
+    },
+    {
+      "論文名稱": "應用於802.11b/g/n之2.4 GHz可調超寬頻環形壓控震盪器",
+      "會議名稱": "CECA 2011 電子通訊與應用研討會",
+      "作者群": "楊炳章、蔡政志、薛朝元、林俊諴"
+    },
+    {
+      "論文名稱": "A 2.4 GHz Super Broadband Ring Voltage Controlled Oscillator",
+      "會議名稱": "ISC 2011 第五屆智慧型系統工程應用研討會",
+      "作者群": "楊炳章、蔡政志、薛朝元、林俊諴"
+    },
+    {
+      "論文名稱": "低功率之超寬頻CMOS低雜訊放大器設計",
+      "會議名稱": "TBI 2011 商管與資訊研討會",
+      "作者群": "楊炳章、陳姵均"
+    },
+    {
+      "論文名稱": "應用於無線超寬頻系統2.4GHz~14GHz之高增益低雜訊放大器",
+      "會議名稱": "第五屆電資科技應用與發展學術研討會",
+      "作者群": "楊炳章、薛朝元、蔡政志、林俊諴"
+    },
+    {
+      "論文名稱": "3-5GHz寬頻功率放大器",
+      "會議名稱": "第五屆電資科技應用與發展學術研討會",
+      "作者群": "楊炳章、林俊諴、蔡政志、薛朝元"
+    },
+    {
+      "論文名稱": "The effects of stress and photoluminescence for anodic aluminum oxide by different O2 plasma time",
+      "會議名稱": "Materials Research Society-Taiwan (MRS-T)",
+      "作者群": "李顯億、楊炳章、吳世全"
+    },
+    {
+      "論文名稱": "InAlAsSb/InGaAsSb Metamorphic HEMTs with a Symmetrically-Graded Channel",
+      "會議名稱": "International Electron Devices and Materials Symposia (IEDMS)",
+      "作者群": "Ching-Sung Lee*, W. T. Chien, M. Y. Lin, W. C. Hsu, P. C. Yang, C. S. Ho, B. Y. Chou, Y. N. Lai, J. J. Hung, Y. H. Liao, and L. Y. Tseng"
+    },
+    {
+      "論文名稱": "Enhanced excited-phonon efficiency in photoluminescence of SrTiO3: Er films covered on ZnO nanorods",
+      "會議名稱": "2010 IEEE International Symposium on Next-Generation Electronics (ISNE)",
+      "作者群": "李顯億、吳世全、楊炳章"
+    },
+    {
+      "論文名稱": "水溶液法成長氧化鋅奈米柱之接觸角量測",
+      "會議名稱": "2010電子工程技術研討會",
+      "作者群": "楊炳章、李顯億、楊水源、莊迪喬"
+    },
+    {
+      "論文名稱": "不同濃度成長氧化鋅奈米柱之特性及分析",
+      "會議名稱": "98年高分子年會",
+      "作者群": "林金雄、李顯億、楊炳章、莊迪喬、陳苡婷、吳妤嬋 、簡毓慧"
+    },
+    {
+      "論文名稱": "利用導電玻璃上成長氧化鋅奈米柱微結構分析之研究",
+      "會議名稱": "98中國材料科學學會年會",
+      "作者群": "楊炳章、李顯億、楊水源、莊迪喬"
+    },
+    {
+      "論文名稱": "Investigations on AlGaN/GaN High Electron Mobility Transistors",
+      "會議名稱": "2009 International Electron Devices and Materials Symposia (IEDMS)",
+      "作者群": "A.Y. Kao, Ching-Sung Lee, W.C. Hsu, B.Y. Chou, C.S. He, Y.N. Lai, P.C. Yang, S.H. Yang, and W.T. Chien"
+    },
+    {
+      "論文名稱": "3.1~10.6GHz寬頻低雜訊放大器LNA",
+      "會議名稱": "WCE2009民生電子研討會",
+      "作者群": "楊炳章、何鴻炎"
+    },
+    {
+      "論文名稱": "應用數學軟體工具於MOS的CV特性分析研究",
+      "會議名稱": "第四屆智慧生活科技研討會(ILT2009)",
+      "作者群": "盧國鎮、楊水源、楊炳章、蕭敏學、陳威廷、吳信賢"
+    },
+    {
+      "論文名稱": "應用數學軟體工具於MOS的CV特性分析研究",
+      "會議名稱": "第4屆智慧生活研討會",
+      "作者群": "盧國鎮 楊水源 楊炳章 蕭敏學  陳威廷 吳信賢"
+    },
+    {
+      "論文名稱": "Improved White Organic Light-Emitting Devices with Dual-Emission-Layer Design",
+      "會議名稱": "The 9th International Conference on Solid-State and Integrated-Circuit Technology (ICSICT)",
+      "作者群": "W.C. Hsu, Y.N. Lai, Ching-Sung Lee, S.W. Yeh, W.F. Lai, and W.H. Lai"
+    },
+    {
+      "論文名稱": "Investigations on In0.2Ga0.8AsSb/GaAs High Electron Mobility Transistors with Gate Passivations",
+      "會議名稱": "The 9th International Conference on Solid-state and Integrated-Circuit Technology (ICSICT 2008)",
+      "作者群": "Ching-Sung Lee, Ciou=Sheng He, Wei-Chou Hsu, Ke-Hua Su, Ping-Chang Yang, Bo-I Chou, and An-Yung Kao"
+    },
+    {
+      "論文名稱": "改善高速據傳輸所造成切換雜訊的方法",
+      "會議名稱": "2008 第六屆微電子技術發展與應用研討會",
+      "作者群": "王志瑞、黃添傑、康宗貴、李國?、楊炳章"
+    },
+    {
+      "論文名稱": "An Ultra Wide-Band 2-11 GHz LNA in 0.18um COMOS",
+      "會議名稱": "2008第三屆智慧生活科技研討會",
+      "作者群": "Ping-Chang Yang and He-Syuan Li"
+    },
+    {
+      "論文名稱": "2.4GHz高效率功率放大器",
+      "會議名稱": "2008民生電子研討會(WCE)",
+      "作者群": "郭棠鈞、楊炳章"
+    },
+    {
+      "論文名稱": "3-6G寬頻低雜訊高增益LNA",
+      "會議名稱": "2008民生電子研討會(WCE)",
+      "作者群": "呂育儒、楊炳章"
+    },
+    {
+      "論文名稱": "A noval Mixer with Half LO Frequency",
+      "會議名稱": "2008民生電子研討會(WCE)",
+      "作者群": "Yu-Ru Lu and Ping-Chang-Yang"
+    },
+    {
+      "論文名稱": "寬頻低雜訊2GHz壓控振盪器之研究",
+      "會議名稱": "2007高速電路研討會",
+      "作者群": "王志舜、楊炳章"
+    },
+    {
+      "論文名稱": "The Extraction Analysis of the MODFET BSIM4 Model Parameters",
+      "會議名稱": "The 12th symposium on Nano Device Technology(SNDT2005)",
+      "作者群": "Shu-Yen Hsu, Tsung-Kuei Kang, Sheng-Chun Wang, Ping-Chang Yang, and Guo-Wei Huang"
+    }
+  ],
+  "book": [],
+  "patent": [],
+  "most": [
+    {
+      "name": "利用不同覆蓋層及高溫濺度技術來改善閘極氧化層之特性",
+      "schoolYear": "90"
+    },
+    {
+      "name": "金屬化薄膜可靠度量測",
+      "schoolYear": "90"
+    },
+    {
+      "name": "半導體測量儀器設置與自動化之量測",
+      "schoolYear": "89"
+    },
+    {
+      "name": "絕緣體上矽薄膜(SOI)元件的最佳化設計及良率評估",
+      "schoolYear": "85"
+    },
+    {
+      "name": "絕緣體上的薄膜(SOI)材料與元件的製程研究及特性分析",
+      "schoolYear": "83"
+    }
+  ],
+  "tech": [],
+  "induAca": [
+    "學界協助中小企業科技關懷計畫─奈米纖維布防塵抗潮濕之改良研究 (2011-07 to 2011-12)"
+  ],
+  "perform": [],
+  "reward": [
+    "國科會甲種獎勵 (83, 1994-08) - 行政院國科會"
+  ],
+  "speech": [],
+  "material": [],
+  "tal": []
+}

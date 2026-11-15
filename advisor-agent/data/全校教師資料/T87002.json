@@ -1,0 +1,396 @@
+{
+  "teacherId": "T87002",
+  "name": "陳德生",
+  "mainUnit": "資訊電機學院",
+  "detailUnit": "資訊工程學系",
+  "skill": [
+    "VLSI 電腦輔助設計VLSI CAD",
+    "嵌入式系統Embedded System",
+    "智慧聯網Intelligent IOT"
+  ],
+  "edu": [
+    "美國西北大學 電機所 博士"
+  ],
+  "fcuExp": [
+    "資訊電機學院 秘書",
+    "資訊工程學系(所) 助理教授",
+    "資訊工程學系 副教授"
+  ],
+  "currjob": [],
+  "otherExp": [
+    "工研院 電子所 研究員",
+    "美國伊利諾知識系統學院 資訊系 講師",
+    "美國西北大學 電機系 研究助理"
+  ],
+  "journal": [
+    {
+      "論文名稱": "Constructing Service-Oriented Integrated EDA Environment with Agent\r\nTechnology",
+      "期刊名稱": "Journal of Internet Technology (SCIE,EI)",
+      "作者群": "Guo-Ming Fang, Jim-Min Lin, Zeng-Wei Hong, De-Sheng Chen, and Wei-Tsong Lee"
+    },
+    {
+      "論文名稱": "Constructing Service-Oriented Integrated EDA Environment with Agent Technology",
+      "期刊名稱": "Journal of Internet Technology (SCIE)",
+      "作者群": "Guo-Ming Fang, Jim-Min Lin, Zeng-Wei Hong, De-Sheng Chen, Wei-Tsong Lee"
+    },
+    {
+      "論文名稱": "Constrained Floorplanning for Modern SoC Design",
+      "期刊名稱": "Journal of Cybernetics and Systems ()",
+      "作者群": "De-Sheng Chen*, Chang-Tzu Lin, Yi-Wen Wang, and Ching-Hwa Cheng"
+    },
+    {
+      "論文名稱": "Fixed-Outline Floorplanning Using Robust Evolutionary Search",
+      "期刊名稱": "Engineering Applications of Artificial Intelligence (SCIE,EI)",
+      "作者群": "De-Sheng Chen, Chang-Tzu Lin, Yi-Wen Wang, and Ching-Hwa Cheng"
+    },
+    {
+      "論文名稱": "A Robust Genetic Algorithm for Rectangle Packing Problem",
+      "期刊名稱": "Journal of Combinatorial Optimization (JOCO) (SCIE,EI)",
+      "作者群": "De-Sheng Chen, Chang-Tzu Lin and Yi-Wen Wang"
+    },
+    {
+      "論文名稱": "VLSI Floorplanning with Boundary Constraints Using Generalized Polish Expression",
+      "期刊名稱": "Journal of the Chinese Institute of Engineers (JCIE) (SCIE,EI)",
+      "作者群": "Chang-Tzu Lin, De-Sheng Chen and Yi-Wen Wang"
+    },
+    {
+      "論文名稱": "Modern Floorplanning with Boundary and Fixed-Outline Constraints via Genetic Clustering Algorithm",
+      "期刊名稱": "Journal of Circuits, Systems, and Computers, JCSC (SCIE,EI)",
+      "作者群": "Chang-Tzu Lin, De-Sheng Chen and Yi-Wen Wang"
+    }
+  ],
+  "journal2": [],
+  "conference": [
+    {
+      "論文名稱": "iDealer 智慧樂高發牌機",
+      "會議名稱": "2017 創新發明應用研討會",
+      "作者群": "林杰昱,蔡承儒,封智翔,陳德生"
+    },
+    {
+      "論文名稱": "K-Drums擊鼓體感遊戲",
+      "會議名稱": "2017 創新發明應用研討會",
+      "作者群": "杜宜霖,葉珊,嚴奕翔,陳德生"
+    },
+    {
+      "論文名稱": "A Modified Speech Enhancement Model Based on Deep Neural Networks",
+      "會議名稱": "2017 International Conference on Applied Cognitive Computing",
+      "作者群": "C. H. Lin, Bo-Wei Chen, De-Sheng Chen, and Yiwen Wang"
+    },
+    {
+      "論文名稱": "A Detection and Recognition System for Chinese Highway Traffic Panels",
+      "會議名稱": " 2017 International Conference on Consumer Electronics-Taiwan",
+      "作者群": "Shu-Jui Hsieh, Kuan-Hung Chen, De-Sheng Chen, and Yi-Wen Wang"
+    },
+    {
+      "論文名稱": "A Real-Time Moving Objects Detection and Classification\r\nApproach for Static Cameras",
+      "會議名稱": "2016 International Conference on Consumer Electronics-Taiwan",
+      "作者群": "Hong-Son Vu, Jia-Xian Guo, Kuan-Hung Chen, Shu-Jui Hsieh, and De-Sheng Chen"
+    },
+    {
+      "論文名稱": "Neural Cryptography for Secure Voice Communication using\r\nCustom Instructions",
+      "會議名稱": "Int'l Conf. Embedded Systems and Applications",
+      "作者群": "C. H. Lin, B. C. Yang, C. B. Duanmu, B. W. Chen, D. S. Chen, and Y. Wang"
+    },
+    {
+      "論文名稱": "A Predict Policy Method for Word-Based Montgomery Modular Multiplication",
+      "會議名稱": "2012 VLSI/CAD Symposium",
+      "作者群": "Huan-Teng Li, De-Sheng Chen, Yi-Wen Wang"
+    },
+    {
+      "論文名稱": "A High-throughput Deblocking Filter With New Filtering Schedule",
+      "會議名稱": "2012 International Conference on Electronics, Communication and Computer Science",
+      "作者群": "Che-Ming Chang, De-Sheng Chen, Y-Wen Wang"
+    },
+    {
+      "論文名稱": "ASIP Instruction Selection with the Encoding-Space Constraint for High Performance",
+      "會議名稱": "International Workshop on Highly-Efficient Accelerators and Reconfigurable Technologies(HEART 2012)",
+      "作者群": "C. Hung, H. Lin, D. Chen, Y. Wang"
+    },
+    {
+      "論文名稱": "Application-Specific Instruction sets Processor with Implicit Registers to Improve Register Bandwidth",
+      "會議名稱": "World Academy of Science, Engineering and Technology",
+      "作者群": "Ginhsuan Li, Chiuyun Hung, De-Sheng Chen, and Yiwen Wang*"
+    },
+    {
+      "論文名稱": "Hardware/Software Co-Design of NLMS Adaptive Filters on FPGA",
+      "會議名稱": "International Symposium on Consumer Electronics",
+      "作者群": "De-Sheng Chen*, Po-Yu Chen, Yi-Wen Wang"
+    },
+    {
+      "論文名稱": "Application Specific Instruction set Exploration on VLIW Architectures",
+      "會議名稱": "International Conference on Embedded Systems and Applications",
+      "作者群": "Chengpin Tseng, Chiuyun Hung, De-Sheng Chen, Kuei-Chung Chang and Yi-wen Wang*"
+    },
+    {
+      "論文名稱": "A New Block-Based Stochastic Adaptive Algorithm for Sparse Echo Cancellation",
+      "會議名稱": "The International Conference on Signal Processing Systems",
+      "作者群": "De-Sheng Chen*, Kui-Shun Chou, Yi-Wen Wang"
+    },
+    {
+      "論文名稱": "An Agent-Based Workflow System for Assisting in IC Design",
+      "會議名稱": "The 1st Asian Conference on Intelligent Information and Database Systems (ACIIDS 2009)",
+      "作者群": "Guo-Ming Fang, Jim-Min Lin, Zeng-Wei Hong, De-Sheng Chen"
+    },
+    {
+      "論文名稱": "Performance Improvement using Application-Specific Instructions under Hardware Constraints",
+      "會議名稱": "International Conference on embedded Software and Systems",
+      "作者群": "Chijie Lin, Jiying Wu, Jerung Shiu, De-Sheng Chen, and Yiwen Wang*"
+    },
+    {
+      "論文名稱": "Memory Models for an Application-Specific Instruction-set Processor Design Flow",
+      "會議名稱": "International Conference on Embedded Software and Systems",
+      "作者群": "Jiying Wu, Chijie Lin, De-Sheng Chen, Yiwen Wang*"
+    },
+    {
+      "論文名稱": "Noise-Aware Floorplanning for Fast Power Supply Network Design",
+      "會議名稱": "International Symposium on Circuits and Systems",
+      "作者群": "Chang-Tzu Lin, Tai-Wei Kung, De-Sheng Chen*, Yi-Wen Wang, and Ching-Hwa Cheng"
+    },
+    {
+      "論文名稱": "PIPD: Power Integrity Path Delay Analysis Tool",
+      "會議名稱": "International Computer Symposium",
+      "作者群": "Wei-Chih Shen, Jyun-Sian Jhou, Ching-Hwa Cheng, De-Sheng Che"
+    },
+    {
+      "論文名稱": "Diagnose the Failure Power-Switch within Power Gating Circuit",
+      "會議名稱": "The 17th VLSI Design/CAD symposium",
+      "作者群": "Chih-Liang Chen, Hsiang-Hui Huang, Ching-Hwa Cheng, De-Sheng Chen"
+    },
+    {
+      "論文名稱": "A Novel Design Methodology for SI Aware Floorplanning Designs",
+      "會議名稱": "17th VLSI Design/CAD Symposium",
+      "作者群": "Chang-Tzu Lin, Tai-Wei Kung, De-Sheng Chen, Yi-Wen Wang, and Ching-Hwa Cheng"
+    },
+    {
+      "論文名稱": "Automatic Application-Specific Instruction Generation for SOC Processors",
+      "會議名稱": "17th VLSI Design/CAD Symposium",
+      "作者群": "Shengjyi Yang, Chijie Lin, Chiuyun Hung, Jiying Wu, Jiawei Chang, De-Sheng Chen, and Yi-Wen Wang"
+    },
+    {
+      "論文名稱": "All-Digital Built-in Circuit Delay Tester",
+      "會議名稱": "15th IEEE North Atlantic Test Workshop",
+      "作者群": "Ching-Hwa Cheng, De-Sheng Chen, Wen-Jui Chang, Chih-Liang Chen"
+    },
+    {
+      "論文名稱": "Multilevel Genetic Placement Algorithm for Large-Scale Mixed-Size SOC Designs",
+      "會議名稱": "The 16th VLSI Design/CAD Symposium",
+      "作者群": "Hsin-Hsien Ho, Chang-Tzu Lin, De-Sheng Chen, and Yi-Wen Wang"
+    },
+    {
+      "論文名稱": "A Delay/Power Compromise Mixed Static/Domino Circuit Synthesizer",
+      "會議名稱": "The 17th VLSI Design/CAD symposium",
+      "作者群": "34.\tChih-Liang Chen, Hsiang-Hui Huang, Ching-Hwa Cheng, De-Sheng Chen"
+    },
+    {
+      "論文名稱": "Modern Floorplanning with Abutment and Fixed-Outline Constraints",
+      "會議名稱": "ISCAS 2005",
+      "作者群": "Hsin-Hsien Ho, Chang-Tzu Lin, De-Sheng Chen, Yi-Wen Wang"
+    },
+    {
+      "論文名稱": "Fixed-Outline Floorplanning with Abutment Constraints",
+      "會議名稱": "The 15th VLSI Design/CAD Symposium",
+      "作者群": "Chang-Tzu Lin, De-Sheng Chen, Yi-Wen Wang, Po-Shu Shih, and Ying-Ren Xhao"
+    },
+    {
+      "論文名稱": "Fast multilevel floorplanning for large scale modules",
+      "會議名稱": "the 2004 International Symposium on Circuits and Systems",
+      "作者群": "Ching-Chung Hu; De-Sheng Chen; Yi-Wen Wang"
+    },
+    {
+      "論文名稱": "Robust Fixed-outline Floorplanning Through Evolutionary Search",
+      "會議名稱": "IEEE/ACM 2004 Asia and South Pacific Design Automation Conference",
+      "作者群": "Chang-Tzu Lin, De-Sheng Chen, and Yi-Wen Wang"
+    },
+    {
+      "論文名稱": "Robust Fixed-outline Floorplanning Through Evolutionary Search",
+      "會議名稱": "2003 VLSI Design/CAD Symposium",
+      "作者群": "Chang-Tzu Lin, De-Sheng Chen, and Yi-Wen Wang"
+    },
+    {
+      "論文名稱": "Non-Slicing Floorplans with Boundary Constraints Using Generalized Polished Expression",
+      "會議名稱": "IEEE/ACM 2003 Asia and South Pacific Design Automation Conference 2003",
+      "作者群": "De-Sheng Chen, Chang-Tzu Lin, and Yi-Wen Wang"
+    },
+    {
+      "論文名稱": "Synthesizing VHDL Programs from Tensor Product Formulas",
+      "會議名稱": "2002 International Conference on VLSI",
+      "作者群": "W.-R. Lin、M.-H. Fan、C.-H. Huang, Y.-C. Chung, and D.-S. Chen"
+    },
+    {
+      "論文名稱": "An Efficient Gentic Algorithm for Slicing Floorplan Area Optimizition",
+      "會議名稱": "IEEE ISCAS  2002",
+      "作者群": "Chang-Tzu Lin、De-Sheng Chen、Yi-Wen Wang"
+    },
+    {
+      "論文名稱": "DSIAS: A Software Architecture Style for Distributed Software Integration Systems",
+      "會議名稱": "IEEE Compsac 2001",
+      "作者群": "Zen-Wei Hong、Jim-Min Lin、Hewijin C. Jiau、De-Sheng Chen"
+    },
+    {
+      "論文名稱": "A Fast Evolutational Algorithm for Slicing Floorplans",
+      "會議名稱": "Proceedings of Proceedings of the 12th VLSI Design/CAD Symposium",
+      "作者群": "Chang-Tzu Lin、De-Sheng Chen、Yi-Wen Wang、I-Tsung Chen"
+    },
+    {
+      "論文名稱": "A Low-power 1.2GHz 0.35um CMOS PLL",
+      "會議名稱": "Proceedings of AP-ASIC 2000",
+      "作者群": "De-Sheng Chen, Dar-Chang Juang, Jyuo-Min Shyu, and Ching-Yuang Wu"
+    },
+    {
+      "論文名稱": "VLSI implementations of a multicasting shared buffer for QoS multimedia networks",
+      "會議名稱": "Proceedings of the 11th VLSI Design/CAD Symposium",
+      "作者群": "S. W. Chen, C. W. Hsu, Y. W. Wang, D. S. Chen, C. T. Lin, and S. F. Hwang"
+    }
+  ],
+  "book": [
+    {
+      "專業書籍": "ARM Cortex-M3 32位元微控制器原理與應用－HT32F1655/1656",
+      "出版單位": "全華科技圖書",
+      "作者群": "王 壘, 袁世一, 王益文, 陳德生"
+    }
+  ],
+  "patent": [
+    {
+      "title": "發明",
+      "desc": "Cpmplementary Metal-Oxide Semiconductor High-Frequency Ring Oscillator"
+    },
+    {
+      "title": "發明",
+      "desc": "CMOS高頻環式振盪器"
+    }
+  ],
+  "most": [
+    {
+      "name": "Boid演算法在音訊輸入引導下於活動場地人流管理中的模擬與分析",
+      "schoolYear": "113"
+    },
+    {
+      "name": "應用於多圖案微影技術之研究",
+      "schoolYear": "112"
+    },
+    {
+      "name": "(深耕)精密主軸於智慧型滾齒機之應用暨推廣(2/2)",
+      "schoolYear": "106"
+    },
+    {
+      "name": "神經網路軟體/硬體協同設計以語音增強為例",
+      "schoolYear": "105"
+    },
+    {
+      "name": "使用Arduino實作居家照顧醫療感測系統",
+      "schoolYear": "105"
+    },
+    {
+      "name": "蒙哥馬利模數乘法之平行化架構研究",
+      "schoolYear": "102"
+    },
+    {
+      "name": "H.264 去區塊濾波器之多紋理設計",
+      "schoolYear": "100"
+    },
+    {
+      "name": "嵌入式系統之特定應用架構研究(III)",
+      "schoolYear": "100"
+    },
+    {
+      "name": "嵌入式系統之特定應用架構研究(II)",
+      "schoolYear": "99"
+    },
+    {
+      "name": "適用於網路回聲消除之新型可適性濾波器設計與實作",
+      "schoolYear": "99"
+    },
+    {
+      "name": "溫度知曉之3D平面規劃架構發展",
+      "schoolYear": "98"
+    },
+    {
+      "name": "嵌入式系統之特定應用架構研究(I)",
+      "schoolYear": "98"
+    },
+    {
+      "name": "適用於大型VLSI佈局問題之組合最佳化技術(I)",
+      "schoolYear": "96"
+    },
+    {
+      "name": "特定應用導向多處理器系統單晶片設計方法(I)",
+      "schoolYear": "96"
+    },
+    {
+      "name": "以數學規劃法進行多層次全域繞線",
+      "schoolYear": "95"
+    },
+    {
+      "name": "嵌入式系統晶片之架構探究(3/3)",
+      "schoolYear": "95"
+    },
+    {
+      "name": "嵌入式系統晶片之架構探究(2/3)",
+      "schoolYear": "94"
+    },
+    {
+      "name": "嵌入式系統晶片之架構探究(1/3)",
+      "schoolYear": "93"
+    },
+    {
+      "name": "以即時通訊系統為基礎的離散式計算機架構",
+      "schoolYear": "92"
+    },
+    {
+      "name": "可重組式計算架構之單晶片系統(II)",
+      "schoolYear": "92"
+    },
+    {
+      "name": "混合巨集區塊與標準元件設計的平面規劃",
+      "schoolYear": "92"
+    },
+    {
+      "name": "使用張量乘積理論設計VLSI電路(Ⅰ)",
+      "schoolYear": "91"
+    },
+    {
+      "name": "高效能系統單晶片平面規劃",
+      "schoolYear": "91"
+    },
+    {
+      "name": "演化式演算法為基礎之平面規劃設計",
+      "schoolYear": "90"
+    },
+    {
+      "name": "可重組式類神經網路計算架構",
+      "schoolYear": "89"
+    },
+    {
+      "name": "具有信號處理能力的嵌入式微處理機的實現及應用-子計畫二：嵌入式微處理機的晶片實現",
+      "schoolYear": "89"
+    },
+    {
+      "name": "連線導向整體繞線之研究",
+      "schoolYear": "88"
+    }
+  ],
+  "tech": [],
+  "induAca": [
+    "智慧停車場之車位感測及彩光指示系統 (2016-06 to 2017-05)",
+    "104年度磨課師課程推動計畫-A類新星計畫【把智慧嵌入這個大千世界】 (2015-05 to 2016-04)",
+    "NFC牆壁定時開關軟體與應用程式開發 (2015-03 to 2015-06)",
+    "前瞻晶片系統(soC)學程計畫－系統晶片 (2008-03 to 2009-02)",
+    "以即時通訊系統為基礎的離散式彈內計算機架構(II) (2005-03 to 2005-11)",
+    "超大型積體電路與系統設計教育改進計畫─課程推廣計畫：「FPGA系統設計」課程 (2003-03 to 2003-12)"
+  ],
+  "perform": [],
+  "reward": [
+    "逢甲大學優良教材獎勵優等獎 (107, 2018-11) - 逢甲大學",
+    "逢甲大學優良教材獎勵佳作獎 (105, 2016-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (101, 2012-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (97, 2008-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (96, 2007-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (96, 2007-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (96, 2007-11) - 逢甲大學"
+  ],
+  "speech": [],
+  "material": [
+    "把智慧嵌入這個大千世界\t雲端學院\t王 壘, 王益文, 陳德生, 袁世一\t磨課師課程"
+  ],
+  "tal": []
+}

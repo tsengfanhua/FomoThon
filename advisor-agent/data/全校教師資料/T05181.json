@@ -1,0 +1,405 @@
+{
+  "teacherId": "T05181",
+  "name": "張永郎",
+  "mainUnit": "金融學院",
+  "detailUnit": "風險管理與保險學系",
+  "skill": [
+    "公司理財Corporate Finance",
+    "財務計量應用Applications of Financial Econometric",
+    "保險財務Insurance Finance",
+    "風險管理Risk Management",
+    "金融科技及保險科技應用分析The Analysis of FinTech and InsurTech Applications"
+  ],
+  "edu": [
+    "國立台灣大學 財務金融研究所 博士",
+    "逢甲大學 保險學研究所 碩士",
+    "淡江大學 保險學系 學士"
+  ],
+  "fcuExp": [
+    "風險管理與保險學系 系主任",
+    "風險管理與保險學系 兼任助理教授",
+    "風險管理與保險學系 助理教授",
+    "風險管理與保險學系 副教授",
+    "風險管理與保險學系 教授"
+  ],
+  "currjob": [],
+  "otherExp": [],
+  "journal": [
+    {
+      "論文名稱": "金融檢查裁罰的決定因素分析",
+      "期刊名稱": "壽險管理期刊 (風險與保險類期刊)",
+      "作者群": "張永郎、吳涵萱"
+    },
+    {
+      "論文名稱": "The impact of market competitors on the demand for reinsurance",
+      "期刊名稱": "Managerial Finance (國科會財務B+; JCR IF:1.6) (ECONLIT,ESCI)",
+      "作者群": "Chang, Vincent Y. L."
+    },
+    {
+      "論文名稱": "Technology Investments and Firm Performance under the Wave of InsurTech",
+      "期刊名稱": "The Geneva Papers on Risk and Insurance: Issues and Practice (國科會財務(保險精算)B+; JCR IF:1.6) (SSCI)",
+      "作者群": "Chang, Vincent Y. L."
+    },
+    {
+      "論文名稱": "Information Asymmetry in Reinsurance through Various Ceded Contracts",
+      "期刊名稱": "Pacific-Basin Finance Journal (國科會財務A Tier-2; JCR IF 4.6) (SSCI)",
+      "作者群": "Chang, Vincent Y. L., Kuo Ming Hung, Kili C. Wang, Sand Yang"
+    },
+    {
+      "論文名稱": "Do InsurTech Startups Disrupt the Insurance Industry?",
+      "期刊名稱": "Finance Research Letters (國科會財務A-; JCR IF: 10.4) (SSCI)",
+      "作者群": "Chang, Vincent Y.L."
+    },
+    {
+      "論文名稱": "金檢裁罰對保險公司企業社會責任的影響分析",
+      "期刊名稱": "保險專刊 (Taiwan Insurance Review) (風險與保險類期刊) (風險與保險類期刊)",
+      "作者群": "張永郎,陳冠蓁"
+    },
+    {
+      "論文名稱": "金融檢查裁罰對保險公司競爭力的影響分析",
+      "期刊名稱": "風險管理學報 (Journal of Risk Management)(風險與保險類期刊)(2022年5月接受; 2023年9月 出刊) (風險與保險類期刊)",
+      "作者群": "張永郎,黃郁庭"
+    },
+    {
+      "論文名稱": "Does Firm Competitiveness Affect Corporate Risk-Taking?",
+      "期刊名稱": "Managerial Finance (國科會財務B+; JCR IF:1.6) (ECONLIT,ESCI)",
+      "作者群": "Chang, Vincent Y. L."
+    },
+    {
+      "論文名稱": "金檢裁罰對保險公司營運風險影響之分析",
+      "期刊名稱": "保險專刊 (Taiwan Insurance Review) (風險與保險類期刊)",
+      "作者群": "張永郎,程怡蓁,洪介偉"
+    },
+    {
+      "論文名稱": "Does Reinsurance Purchasing Enhance Insurer’s Competitiveness? Evidence from the U.S. Property-Liability Insurance Industry",
+      "期刊名稱": "The Geneva Papers on Risk and Insurance: Issues and Practice(科技部財務類保險精算子領域期刊B+期刊)(Impa (SSCI)",
+      "作者群": "Chang, Vincent Y. L."
+    },
+    {
+      "論文名稱": "Risk Taking Behavior and Financial Constraints: Evidence from the U.S. Property-Liability Insurance Industry",
+      "期刊名稱": "Journal of Financial Studies (財務金融學刊) (TSSCI)",
+      "作者群": "Chang, Vincent Y. L."
+    },
+    {
+      "論文名稱": "Quantile Regression Analysis of Capital Structure for Property-Liability Insurers",
+      "期刊名稱": "Business and Economic Horizons (Scopus / Emerging Sources Citation Index)",
+      "作者群": "Hung, Jessica  and Vincent Y. L. Chang*"
+    },
+    {
+      "論文名稱": "The Relationships Among the Demand for Reinsurance, Liquidity, and Leverage in the U.S. Property-Liability Insurance Industry",
+      "期刊名稱": "Taiwan Economic Review (經濟論文叢刊) (TSSCI)",
+      "作者群": "Chang, Vincent Y. and Vivian S. Jeng"
+    },
+    {
+      "論文名稱": "Do Insurers Partially Adjust Their Liquidity toward Target Levels? Evidence from U.S. Property- Liability Insurance Industry",
+      "期刊名稱": "Journal of Financial Studies (財務金融學刊) (TSSCI)",
+      "作者群": "Chang, Vincent Y. L. and Melody H. Yang"
+    },
+    {
+      "論文名稱": "Determinants of the Demand for Reinsurance for U.S. Property-Liability Insurance Industry: Quantile Regression Analysis",
+      "期刊名稱": "Management Review (管理評論) (TSSCI)",
+      "作者群": "Chang, Vincent Y"
+    },
+    {
+      "論文名稱": "Quantile Regression Analysis of Corporate Liquidity: Evidence from U.S. Property-Liability Insurance Industry",
+      "期刊名稱": "The Geneva Papers on Risk and Insurance: Issues and Practice(科技部財務類保險精算子領域期刊B+期刊) (SSCI)",
+      "作者群": "Chang, Vincent Y. and Jeffrey Tzuhao Tsai"
+    },
+    {
+      "論文名稱": "台灣長壽風險債券設計與評價",
+      "期刊名稱": "期貨與選擇權學刊 (Journal of Futures and Options) (TSSCI)",
+      "作者群": "張永郎,蔡子晧,廖思孟"
+    },
+    {
+      "論文名稱": "A Reexamination of the Relation between Organizational Forms and Distribution Channels in the U.S. Property Liability Insurance Industry",
+      "期刊名稱": "Asia-Pacific Journal of Risk and Insurance (ECONLIT)",
+      "作者群": "Chang, Vincent Y., Wang, Jennifer L., and Larry Y. Tzeng"
+    },
+    {
+      "論文名稱": "Demutualization and Demand for Reinsurance",
+      "期刊名稱": "The Geneva Papers on Risk and Insurance: Issues and Practice(科技部財務類保險精算子領域期刊B+期刊) (SSCI)",
+      "作者群": "Wang, Jennifer L., Chang, Vincent Y., Lai, Gene C., and Larry Y. Tzeng"
+    },
+    {
+      "論文名稱": "Immunization of Yield Curve Shift Risks for Insurance Companies",
+      "期刊名稱": "保險專刊 (Taiwan Insurance Review) (風險與保險類期刊)",
+      "作者群": "何憲章,曾郁仁,張永郎"
+    }
+  ],
+  "journal2": [],
+  "conference": [
+    {
+      "論文名稱": "Technology Investment and Loss Ratio: Evidence from the U.S. Property-Liability Insurance Industry",
+      "會議名稱": "2024 Taiwan Risk and Insurance Association Annual Meeting and International Conference - AI與數位科技驅動的保險新科技",
+      "作者群": "Hung, Jessica L.C., Chen, Wei-hsin, Huang, Ying-Jia, Chang, Vincent Y. L."
+    },
+    {
+      "論文名稱": "科技投資與產品多角化 : 美國產物保險公司實證分析",
+      "會議名稱": "2024 年台灣風險與保險年會暨國際學術研討會",
+      "作者群": "黃迎珈*、洪麗淇、李娟妮、張永郎"
+    },
+    {
+      "論文名稱": "Do InsurTech New Startups Role as a Catfish?",
+      "會議名稱": "2024 Taiwan Risk and Insurance Association Annual Meeting and International Conference",
+      "作者群": "Chang, Vincent Y. L."
+    },
+    {
+      "論文名稱": "Advertising Expenditures, Firm Performance, and Spillover Effect: Evidence from the U.S. Property-Liability Insurance Industry",
+      "會議名稱": "Taiwan Risk and Insurance Association Annual International Conference, 2023",
+      "作者群": "Vincent Y. L. Chang"
+    },
+    {
+      "論文名稱": "Technology Investments and Risk-Taking in the U.S. Property-Liability Insurance Industry",
+      "會議名稱": "2023 APRIA Annual Conference",
+      "作者群": "Chang, Vincent Y. L. and Min Jhen Jhang"
+    },
+    {
+      "論文名稱": "The asymmetric information problem of reinsurance under different ceded contracts",
+      "會議名稱": "2022 TRIA FeAT Joint Annual Meeting and International Conference of Risk, Insurance, and Financial Engineering",
+      "作者群": "Vincent Y. L. Chang, Kuo Ming Hung, Kili C. Wang, Sand Yang"
+    },
+    {
+      "論文名稱": "Technology Investments and Risk-Taking in the U.S. Property-Liability Insurance Industry",
+      "會議名稱": "2022 TRIA FeAT Joint Annual Meeting and International Conference of Risk, Insurance, and Financial Engineering",
+      "作者群": "Vincent Y. L. Chang, Min Jhen Jhang"
+    },
+    {
+      "論文名稱": "The Demand for Reinsurance: The Impacts from Rivals",
+      "會議名稱": "2022 International Conference of the Taiwan Finance Association",
+      "作者群": "Vincent Y. L. Chang"
+    },
+    {
+      "論文名稱": "The Demand for Reinsurance: The Impacts from Rivals",
+      "會議名稱": "TRIA (Taiwan Risk and Insurance Association) 15th Annual Conference",
+      "作者群": "Vincent Y. Chang"
+    },
+    {
+      "論文名稱": "The asymmetric information problem in reinsurance--test by individual data",
+      "會議名稱": "2021 International Conference of the Taiwan Finance Association",
+      "作者群": "Vincent Y. L. Chang, Kili C. Wang, Sand Yang"
+    },
+    {
+      "論文名稱": "金融檢查裁罰對保險公司營運風險之影響分析",
+      "會議名稱": "2021保險業與金融永續發展學術研討會",
+      "作者群": "張永郎,程怡蓁"
+    },
+    {
+      "論文名稱": "The asymmetric information problem in reinsurance--test by individual data",
+      "會議名稱": "TRIA (Taiwan Risk and Insurance Association) 14th Annual Conference",
+      "作者群": "Vincent Y. L. Chang, Kili C. Wang, Sand Yang"
+    },
+    {
+      "論文名稱": "臺灣痛苦指數與保險公司績效之分析",
+      "會議名稱": "TRIA (Taiwan Risk and Insurance Association) 14th Annual Conference",
+      "作者群": "張永郎,卓明進"
+    },
+    {
+      "論文名稱": "The Analysis of Insurer’s Firm Performance under the Wave of Fintech",
+      "會議名稱": "TRIA (Taiwan Risk and Insurance Association) 13th Annual Conference",
+      "作者群": "Chang, Vincent Y."
+    },
+    {
+      "論文名稱": "Do Insurers with Less Competitiveness Have Irrational Risky Behavior?",
+      "會議名稱": "2019 The Asia-Pacific Risk and Insurance Association (APRIA) conference",
+      "作者群": "Vincent Y. Chang"
+    },
+    {
+      "論文名稱": "The Analysis of Insurer’s Firm Performance under Fintech Tsunami",
+      "會議名稱": "2019 International Conference of Taiwan Finance Association",
+      "作者群": "Vincent Y. Chang"
+    },
+    {
+      "論文名稱": "Do Insurers with Less Competitiveness Have Irrational Risky Behavior?",
+      "會議名稱": "TRIA (Taiwan Risk and Insurance Association) 12th Annual Conference",
+      "作者群": "Chang, Vincent Y."
+    },
+    {
+      "論文名稱": "Risk Taking Behavior and Financial Constraints: Evidence from the U.S. Property-Liability Insurance Industry",
+      "會議名稱": "TRIA (Taiwan Risk and Insurance Association) 11th Annual Conference",
+      "作者群": "Chang, Vincent Y."
+    },
+    {
+      "論文名稱": "Does Reinsurance Purchasing Enhance Insurer’s Competitiveness? Evidence from the U.S. Property-Liability Insurance",
+      "會議名稱": "TRIA (Taiwan Risk and Insurance Association) 10th Annual Conference",
+      "作者群": "Chang, Vincent Y."
+    },
+    {
+      "論文名稱": "Determinants of Capital Structure for Property-Liability Insurers: Revisit",
+      "會議名稱": "TRIA (Taiwan Risk and Insurance Association) 9th Annual Conference",
+      "作者群": "Hung, Jessica L., Lo, Ming Min, and Vincent Y. Chang"
+    },
+    {
+      "論文名稱": "Partial Adjustment toward Target Reinsurance Levels: An Analysis of U.S Property-Liability Insurance Industry",
+      "會議名稱": "World Risk and Insurance Economics Congress (WRIEC) 2015",
+      "作者群": "Chang, Vincent Y."
+    },
+    {
+      "論文名稱": "Do High and Low Leverage Matter?",
+      "會議名稱": "The 2015 International Conference of Taiwan Finance Association(2015 臺灣財務金融學會年會暨國際研討會)",
+      "作者群": "Chang, Vincent Y."
+    },
+    {
+      "論文名稱": "Do Insurers Adjust Their Reinsurance toward Optimal Levels? Evidence from U.S. Property-Liability Insurance Industry",
+      "會議名稱": "TRIA (Taiwan Risk and Insurance Association) 8th Annual Conference",
+      "作者群": "Chang, Vincent Y."
+    },
+    {
+      "論文名稱": "Do Insurers Partially Adjust Their Liquidity toward Target Levels?",
+      "會議名稱": "TRIA (Taiwan Risk and Insurance Association) 7th Annual Conference",
+      "作者群": "Chang, Vincent Y. and Melody H. Yang"
+    },
+    {
+      "論文名稱": "Asymmetric Partial Adjustment toward Target Capital Structures: Evidence from U.S. Property-Liability Insurance Industry",
+      "會議名稱": "ARIA (American Risk and Insurance Association) 2013 Annual Meeting",
+      "作者群": "Chang, Vincent Y. and Vivian S. Jeng"
+    },
+    {
+      "論文名稱": "Efforts and Asymmetric Information: Evidence from MLB players’ performance",
+      "會議名稱": "The 2013 International Conference of Taiwan Finance Association(2013 臺灣財務金融學會年會暨國際研討會)",
+      "作者群": "Chang, Vincent Y. and Anthony P. Hsu"
+    },
+    {
+      "論文名稱": "Determinants of the Demand for Reinsurance for U.S. Property-Liability Insurance Industry: Quantile Regression Analysis",
+      "會議名稱": "TRIA (Taiwan Risk and Insurance Association) 6th Annual Meeting",
+      "作者群": "Chang, Vincent Y."
+    },
+    {
+      "論文名稱": "Insurer’s Liquidity and the Demand for Corporate Insurance: Evidence from U.S Property-Liability Insurance Industry",
+      "會議名稱": "TRIA (Taiwan Risk and Insurance Association) 5th Annual Meeting",
+      "作者群": "Chang, Vincent Y. and Vivian S. Jeng"
+    },
+    {
+      "論文名稱": "Determinates of Corporate Liquidity for U.S. Property-Liability Insurance Industry",
+      "會議名稱": "The 2011 International Conference of Taiwan Finance Association(2011 臺灣財務金融學會年會暨國際研討會)",
+      "作者群": "Chang, Vincent Y."
+    },
+    {
+      "論文名稱": "Free Cash Flow Holding in U.S. Property-Liability Insurance Industry",
+      "會議名稱": "TRIA (Taiwan Risk and Insurance Association) 4th Annual Meeting",
+      "作者群": "Chang, Vincent Y., Lai, Gene C., and Jennifer L. Wang"
+    },
+    {
+      "論文名稱": "Liquidity and Demand for Reinsurance",
+      "會議名稱": "TRIA (Taiwan Risk and Insurance Association) 3rd Annual Meeting",
+      "作者群": "Jeng, Vivian S. and Vincent Y. Chang"
+    },
+    {
+      "論文名稱": "Demutualization and Demand for Reinsurance",
+      "會議名稱": "ARIA (American Risk and Insurance Association) 2008 Annual Meeting",
+      "作者群": "Wang, Jennifer L., Chang, Vincent Y., Lai, Gene C., and Larry Y. Tzeng"
+    },
+    {
+      "論文名稱": "Demutualization and Demand for Reinsurance",
+      "會議名稱": "TRIA (Taiwan Risk and Insurance Association) 1st Annual Meeting",
+      "作者群": "Wang, Jennifer L. , Chang, Vincent Y., Lai, Gene C., and Larry Y. Tzeng"
+    },
+    {
+      "論文名稱": "Immunization of Yield Curve Shift Risks for Insurance Companies",
+      "會議名稱": "2006 China International Conference in Finance",
+      "作者群": "Tzeng, Larry Y. and Vincent Y. Chang"
+    },
+    {
+      "論文名稱": "Wealth, Losses, and Demand for Insurance",
+      "會議名稱": "ARIA (American Risk and Insurance Association) 2003 Annual Meeting",
+      "作者群": "Chang, Vincent Y., Tzeng, Larry Y., and Jen-Hung Wang"
+    }
+  ],
+  "book": [],
+  "patent": [],
+  "most": [
+    {
+      "name": "經濟政策不確定性對公司經營穩定性的幾個議題:美國產物保險公司實證分析(1/2)",
+      "schoolYear": "113"
+    },
+    {
+      "name": "金融檢查裁罰對保險公司財務穩定之影響分析",
+      "schoolYear": "113"
+    },
+    {
+      "name": "經濟政策的不確定性與公司風險承擔:美國產物保險公司實證分析",
+      "schoolYear": "112"
+    },
+    {
+      "name": "金融檢查裁罰的決定因素分析",
+      "schoolYear": "112"
+    },
+    {
+      "name": "保險科技新創公司:鯰魚效應?美國產物保險公司實證分析",
+      "schoolYear": "111"
+    },
+    {
+      "name": "金融檢查裁罰對保險公司企業社會責任的影響分析 (The analysis of administrative penalty of Financial examination and Corporat",
+      "schoolYear": "111"
+    },
+    {
+      "name": "保險科技新創公司會是顛覆者嗎？美國產險業實證分析",
+      "schoolYear": "110"
+    },
+    {
+      "name": "金融檢查裁罰對保險公司競爭力的影響分析",
+      "schoolYear": "110"
+    },
+    {
+      "name": "再保險需求分析:對手效應觀點",
+      "schoolYear": "109"
+    },
+    {
+      "name": "金融檢查裁罰對保險公司營運風險之影響分析",
+      "schoolYear": "109"
+    },
+    {
+      "name": "美國產物保險公司廣告支出,公司績效及外溢效果之分析",
+      "schoolYear": "108"
+    },
+    {
+      "name": "金融科技海嘯下保險公司的財務績效分析",
+      "schoolYear": "107"
+    }
+  ],
+  "tech": [],
+  "induAca": [],
+  "perform": [],
+  "reward": [
+    "113年度國科會補助大專校院研究獎勵 (113, 2024-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (113, 2024-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (113, 2024-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優等獎 (113, 2024-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優等獎 (113, 2024-11) - 逢甲大學",
+    "2024淡江大學風險管理與保險學系傑出系友獎 (112, 2024-03) - 淡江大學",
+    "TRIA 2023「勤業眾信保險與風險碩士論文獎」(指導學生) (112, 2023-12) - 台灣風險與保險學會",
+    "2023第十五屆崇越論文大賞--佳作碩士論文獎(指導學生) (112, 2023-10) - 台灣管理學會",
+    "2023富邦人壽管理博碩士論文獎--佳作碩士論文獎(指導學生) (112, 2023-08) - 社團法人中華民國管理科學學會",
+    "2023保險信望愛獎(第25屆)--最佳校園菁英獎(指導推薦學生) (112, 2023-08) - 現代保險教育事務基金會RMi",
+    "逢甲大學論文著作獎勵優良獎 (111, 2022-11) - 逢甲大學",
+    "111年度國科會補助大專校院研究獎勵 (111, 2022-10) - 研究發展處",
+    "2022第十五屆崇越論文大賞--佳作碩士論文獎(指導學生) (111, 2022-09) - 台灣管理學會",
+    "110年度科技部補助大專校院研究獎勵 (110, 2021-10) - 產學合作處",
+    "2021保險信望愛獎(第22+1屆)--最佳校園菁英獎(指導推薦學生) (110, 2021-08) - 現代保險教育事務基金會RMi",
+    "109年度大專學生研究計畫創作獎(指導學生) (109, 2021-06) - 科技部",
+    "逢甲大學論文著作獎勵優良獎 (109, 2020-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (109, 2020-11) - 逢甲大學",
+    "109年度科技部補助大專校院研究獎勵 (109, 2020-10) - 逢甲大學",
+    "108-2勤學有禮2.0活動競賽-投資學課程優勝 (108, 2020-06) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (108, 2019-11) - 逢甲大學",
+    "2019保險信望愛獎(第22屆)--最佳校園菁英獎(指導推薦學生) (108, 2019-08) - 現代保險教育事務基金會RMi"
+  ],
+  "speech": [
+    {
+      "演講題目": "保險科技發展:顛覆性創新對保險業的影響",
+      "邀請單位": "中華民國產物保險核保學會",
+      "演講日期": "2023-06"
+    },
+    {
+      "演講題目": "保險科技相關研究（Studies pertaining to Insurtech)",
+      "邀請單位": "嘉義大學財務金融學系",
+      "演講日期": "2022-03"
+    },
+    {
+      "演講題目": "研究人員如何有效利用圖書館資料庫資源_美國NAIC資料庫",
+      "邀請單位": "逢甲大學圖書館",
+      "演講日期": "2021-04"
+    }
+  ],
+  "material": [],
+  "tal": []
+}

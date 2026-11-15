@@ -1,0 +1,750 @@
+{
+  "success": true,
+  "info": {
+    "yms_year": 114.0,
+    "yms_smester": 2.0,
+    "sub_id": "37742",
+    "cls_id": "CB03123",
+    "scr_dup": "001",
+    "sub_id3": "FINA2031P",
+    "cls_name": "財金二丙",
+    "cls_ename": "Department of Finance",
+    "sub_name": "財務管理(二)實習",
+    "sub_ename": "FINANCIAL MANAGEMENT PRACTICE(2)",
+    "scr_mso": "必修",
+    "scr_mso_en": "Required",
+    "scr_credit": 0.0,
+    "scr_periodly": "(二)01",
+    "scr_periodly_eng": "(Tue)01",
+    "lang_name": "中文                                                      ",
+    "lang_ename": "Chinese",
+    "scr_room": "商305",
+    "scr_room_eng": "BB305",
+    "scr_teacher": "蔡函芳",
+    "scr_teacher_eng": "Han-Fang Tsai",
+    "scr_selcode": "0295",
+    "scr_elearning": "全學期",
+    "scr_elearning_en": "Full semester",
+    "scr_hours": "1",
+    "scr_english": "N",
+    "unt_name": null,
+    "unt_ename": null,
+    "link_traminal": null,
+    "link_traminal_en": null,
+    "scr_ldl": "D",
+    "course_mk": "0",
+    "teams_mk": "N",
+    "sub_title": null,
+    "sub_title_en": null,
+    "sub_describe": null,
+    "sub_describe_en": null,
+    "hasDescription": null,
+    "hasInstructor": null,
+    "hasTA": null,
+    "hasTextBooks": null,
+    "hasReadings": null,
+    "hasiSoftwares": null,
+    "hasAssistSoftwares": null,
+    "hasObjective": null,
+    "hasWeeklyScds": null,
+    "hasGradeRules": null,
+    "hasGradeRuleDescribe": null,
+    "hasIntegrity": null,
+    "hasCoursePol": null,
+    "hasCourseRem": null,
+    "hasObjectiveReleation": null,
+    "hasTopicSdgs": null,
+    "hasTopicAiIndicators": null,
+    "hasSubTitleDesc": null
+  },
+  "subTitleDesc": null,
+  "description": {
+    "sub_id3": null,
+    "sub_name": "財務管理(二)實習",
+    "sub_ename": "FINANCIAL MANAGEMENT PRACTICE(2)",
+    "describe_ch": "此為財務管理的進階課程，旨在熟悉資本結構管理、股利政策、與選擇權相關之融資策略、財務績效評估、及國際財務管理等重要課題，學期中需作研究報告，以期將財務理論與實務予以融會貫通。",
+    "describe_eh": "This is an advanced course in the field of financial management.  It will provide students with the knowledge of capital structure management, dividend policy, option-related financing strategies, evaluation of financial performance, and international financial management.  Research projects will be assigned to students during the semester.  The purpose is to familiarize students with the theories and concepts learned from the class and apply them to the real financial world.",
+    "pre_subname": "FINA2030財務管理(一)",
+    "pre_sub_id3": "FINA2030",
+    "pre_sub_ename": "FINA2030 FINANCIAL MANAGEMENT(1)",
+    "pre_describe": null,
+    "pre_describe_en": null,
+    "scr_credit": 0.0
+  },
+  "targets": [
+    {
+      "seq": 1,
+      "describe_ch": "瞭解資本結構管理",
+      "describe_en": "Understand the capital structure management"
+    },
+    {
+      "seq": 2,
+      "describe_ch": "瞭解股利政策",
+      "describe_en": "Understand the dividend policy"
+    },
+    {
+      "seq": 3,
+      "describe_ch": "瞭解與選擇權相關之融資策略",
+      "describe_en": "Understand the option-related financing strategies"
+    },
+    {
+      "seq": 4,
+      "describe_ch": " 瞭解財務績效評估",
+      "describe_en": "Understand the evaluation of financial performance"
+    }
+  ],
+  "teachersInfo": [
+    {
+      "cname": "蔡函芳",
+      "ename": "Han-Fang Tsai",
+      "period": "(Tue)05-06 商1201D,(Wed)05-06 商1201D",
+      "roletype": 0,
+      "email": "hanftsai@o365.fcu.edu.tw",
+      "ext": "4174"
+    },
+    {
+      "cname": "張宇岑",
+      "ename": "CHANG, YU-TSEN",
+      "period": " ",
+      "roletype": 1,
+      "email": "m1303017@o365.fcu.edu.tw",
+      "ext": " "
+    }
+  ],
+  "textBooks": {
+    "yms_year": 114.0,
+    "yms_smester": 2.0,
+    "cls_id": "CB03123",
+    "sub_id": "37742",
+    "scr_dup": "001",
+    "tpb_seq": 1,
+    "tpb_book": "<div>Contemporary Financial Management, 14e</div>\n\n<div>Moyer, R. C., McGuigan, J. R., and Rao, R.</div>\n\n<div>South-Western, Cengage Learning. (滄海書局代理)</div>\n\n<div>ISBN: 978-981-48-4634-9</div>\n\n<div>&nbsp;</div>\n",
+    "tpb_book_en": null
+  },
+  "readings": {
+    "yms_year": 114.0,
+    "yms_smester": 2.0,
+    "cls_id": "CB03123",
+    "sub_id": "37742",
+    "scr_dup": "001",
+    "tpc_seq": 1,
+    "tpc_book": "<div>Fundamentals of Corporate Finance, 13e</div>\n\n<div>Ross, S. A., Westerfield, R. W., and Jordan B. D.</div>\n\n<div>Mc Graw Hill. (華泰文化代理)</div>\n\n<div>ISBN: 978-1-265-55360-9</div>\n",
+    "tpc_book_en": null
+  },
+  "iSoftwares": [],
+  "assistSoftwares": [],
+  "weeklyScds": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CB03123",
+      "sub_id": "37742",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "單元一",
+      "tpd_reading": "<div>Capital Budgeting and Risk</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": "<div>\n<div>課堂上學習：分組討論、指定作業、口頭報告、繳交報告、學習考核、填寫教學回饋意見等。</div>\n</div>\n",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CB03123",
+      "sub_id": "37742",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "單元二",
+      "tpd_reading": "<div>The Cost of Capital</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": "<div>課堂上學習：分組討論、指定作業、口頭報告、繳交報告、學習考核、填寫教學回饋意見等。</div>\n",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CB03123",
+      "sub_id": "37742",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "單元三",
+      "tpd_reading": "<div>Capital Structure</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": "<div>\n<div>課堂上學習：分組討論、指定作業、口頭報告、繳交報告、學習考核、填寫教學回饋意見等。</div>\n</div>\n",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CB03123",
+      "sub_id": "37742",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "單元四",
+      "tpd_reading": "<div>Capital Structure Management in Practice</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": "<div>\n<div>課堂上學習：分組討論、指定作業、口頭報告、繳交報告、學習考核、填寫教學回饋意見等。</div>\n</div>\n",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CB03123",
+      "sub_id": "37742",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "單元五",
+      "tpd_reading": "<div>Dividend Policy</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": "<div>課堂上學習：分組討論、指定作業、口頭報告、繳交報告、學習考核、填寫教學回饋意見等。</div>\n",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CB03123",
+      "sub_id": "37742",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "單元六",
+      "tpd_reading": "<div>Financial Planning</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": "<div>課堂上學習：分組討論、指定作業、口頭報告、繳交報告、學習考核、填寫教學回饋意見等。</div>\n",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CB03123",
+      "sub_id": "37742",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "單元七",
+      "tpd_reading": "<div>Short-term Financial Decision</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": "<div>課堂上學習：分組討論、指定作業、口頭報告、繳交報告、學習考核、填寫教學回饋意見等。</div>\n",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    }
+  ],
+  "gradeRules": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CB03123",
+      "sub_id": "37742",
+      "scr_dup": "001",
+      "evalb_id": "D3",
+      "score_rate": 60,
+      "evalb_memo": "隨堂測驗",
+      "evalb_memo_en": null,
+      "evalb_name": "隨堂測驗",
+      "evalb_name_en": "In-class examination",
+      "seq": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CB03123",
+      "sub_id": "37742",
+      "scr_dup": "001",
+      "evalb_id": "D4",
+      "score_rate": 20,
+      "evalb_memo": "作業",
+      "evalb_memo_en": null,
+      "evalb_name": "作業",
+      "evalb_name_en": "Homework",
+      "seq": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CB03123",
+      "sub_id": "37742",
+      "scr_dup": "001",
+      "evalb_id": "L4",
+      "score_rate": 20,
+      "evalb_memo": "出席狀況",
+      "evalb_memo_en": null,
+      "evalb_name": "出席狀況",
+      "evalb_name_en": "Attendances",
+      "seq": 0
+    }
+  ],
+  "gradeRuleDescribe": {
+    "yms_year": 114.0,
+    "yms_smester": 2.0,
+    "cls_id": "CB03123",
+    "sub_id": "37742",
+    "scr_dup": "001",
+    "tpa_score_new": null,
+    "tpa_score_new_en": null,
+    "course_pol": "一、考試：學生一定要出席各種考試。\n二、專題報告: 請務必準時繳交及分配口頭報告，如果沒有繳交可能會被當。\n三、希望同學們能準時出席，如果無法上課時請記得提前請假。",
+    "course_pol_en": null,
+    "course_rem": "1. 記得學生一定要出席各種考試才不會被當\n2. 每周都要來上課或是提前請假喔\n3. 報告記得要繳交喔",
+    "course_rem_en": null,
+    "ais_meno": "<div>1. 期望同學能全程出席本學期課程，且參加討論問題。</div>\n\n<div>2. 同學必須要參與所有考試以及準時繳交各項報告。</div>\n\n<div>3. 另外同學們需要以自己的實力準備本學期的考試以及報告。</div>\n\n<div>&nbsp;</div>\n",
+    "ais_meno_en": null,
+    "ilearn_mk": null
+  },
+  "integrity": {
+    "yms_year": 114.0,
+    "yms_smester": 2.0,
+    "cls_id": "CB03123",
+    "sub_id": "37742",
+    "scr_dup": "001",
+    "tpa_score_new": null,
+    "tpa_score_new_en": null,
+    "course_pol": "一、考試：學生一定要出席各種考試。\n二、專題報告: 請務必準時繳交及分配口頭報告，如果沒有繳交可能會被當。\n三、希望同學們能準時出席，如果無法上課時請記得提前請假。",
+    "course_pol_en": null,
+    "course_rem": "1. 記得學生一定要出席各種考試才不會被當\n2. 每周都要來上課或是提前請假喔\n3. 報告記得要繳交喔",
+    "course_rem_en": null,
+    "ais_meno": "<div>1. 期望同學能全程出席本學期課程，且參加討論問題。</div>\n\n<div>2. 同學必須要參與所有考試以及準時繳交各項報告。</div>\n\n<div>3. 另外同學們需要以自己的實力準備本學期的考試以及報告。</div>\n\n<div>&nbsp;</div>\n",
+    "ais_meno_en": null,
+    "ilearn_mk": null
+  },
+  "policy": {
+    "yms_year": 114.0,
+    "yms_smester": 2.0,
+    "cls_id": "CB03123",
+    "sub_id": "37742",
+    "scr_dup": "001",
+    "tpa_score_new": null,
+    "tpa_score_new_en": null,
+    "course_pol": "一、考試：學生一定要出席各種考試。\n二、專題報告: 請務必準時繳交及分配口頭報告，如果沒有繳交可能會被當。\n三、希望同學們能準時出席，如果無法上課時請記得提前請假。",
+    "course_pol_en": null,
+    "course_rem": "1. 記得學生一定要出席各種考試才不會被當\n2. 每周都要來上課或是提前請假喔\n3. 報告記得要繳交喔",
+    "course_rem_en": null,
+    "ais_meno": "<div>1. 期望同學能全程出席本學期課程，且參加討論問題。</div>\n\n<div>2. 同學必須要參與所有考試以及準時繳交各項報告。</div>\n\n<div>3. 另外同學們需要以自己的實力準備本學期的考試以及報告。</div>\n\n<div>&nbsp;</div>\n",
+    "ais_meno_en": null,
+    "ilearn_mk": null
+  },
+  "courseBankC": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CB03123",
+      "sub_id": "37742",
+      "scr_dup": "001",
+      "seq": 1,
+      "describe_ch": "瞭解資本結構管理",
+      "describe_en": "Understand the capital structure management",
+      "core_id": "A",
+      "core_item": "學生具備商管專業的思辨學習能力",
+      "core_eng": "Students possess critical thinking capability in business and management issue.",
+      "core_level": "2 ",
+      "strgy": [
+        "01"
+      ],
+      "evalb": [
+        "L2",
+        "L4"
+      ],
+      "strgy_name": [
+        "課堂授課"
+      ],
+      "strgy_name_en": [
+        "Classroom instruction"
+      ],
+      "evalb_name": [
+        "點名",
+        "出席狀況"
+      ],
+      "evalb_name_en": [
+        "Roll call",
+        "Attendances"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CB03123",
+          "sub_id": "37742",
+          "scr_dup": "001",
+          "seq": 1,
+          "strgy_id": "01",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CB03123",
+          "sub_id": "37742",
+          "scr_dup": "001",
+          "seq": 1,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "L2",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CB03123",
+          "sub_id": "37742",
+          "scr_dup": "001",
+          "seq": 1,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "L4",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CB03123",
+      "sub_id": "37742",
+      "scr_dup": "001",
+      "seq": 2,
+      "describe_ch": "瞭解股利政策",
+      "describe_en": "Understand the dividend policy",
+      "core_id": "A",
+      "core_item": "學生具備商管專業的思辨學習能力",
+      "core_eng": "Students possess critical thinking capability in business and management issue.",
+      "core_level": "2 ",
+      "strgy": [
+        "01"
+      ],
+      "evalb": [
+        "L2",
+        "L4"
+      ],
+      "strgy_name": [
+        "課堂授課"
+      ],
+      "strgy_name_en": [
+        "Classroom instruction"
+      ],
+      "evalb_name": [
+        "點名",
+        "出席狀況"
+      ],
+      "evalb_name_en": [
+        "Roll call",
+        "Attendances"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CB03123",
+          "sub_id": "37742",
+          "scr_dup": "001",
+          "seq": 2,
+          "strgy_id": "01",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CB03123",
+          "sub_id": "37742",
+          "scr_dup": "001",
+          "seq": 2,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "L2",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CB03123",
+          "sub_id": "37742",
+          "scr_dup": "001",
+          "seq": 2,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "L4",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CB03123",
+      "sub_id": "37742",
+      "scr_dup": "001",
+      "seq": 3,
+      "describe_ch": "瞭解與選擇權相關之融資策略",
+      "describe_en": "Understand the option-related financing strategies",
+      "core_id": "A",
+      "core_item": "學生具備商管專業的思辨學習能力",
+      "core_eng": "Students possess critical thinking capability in business and management issue.",
+      "core_level": "4 ",
+      "strgy": [
+        "01"
+      ],
+      "evalb": [
+        "L2",
+        "L4"
+      ],
+      "strgy_name": [
+        "課堂授課"
+      ],
+      "strgy_name_en": [
+        "Classroom instruction"
+      ],
+      "evalb_name": [
+        "點名",
+        "出席狀況"
+      ],
+      "evalb_name_en": [
+        "Roll call",
+        "Attendances"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CB03123",
+          "sub_id": "37742",
+          "scr_dup": "001",
+          "seq": 3,
+          "strgy_id": "01",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CB03123",
+          "sub_id": "37742",
+          "scr_dup": "001",
+          "seq": 3,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "L2",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CB03123",
+          "sub_id": "37742",
+          "scr_dup": "001",
+          "seq": 3,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "L4",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CB03123",
+      "sub_id": "37742",
+      "scr_dup": "001",
+      "seq": 4,
+      "describe_ch": " 瞭解財務績效評估",
+      "describe_en": "Understand the evaluation of financial performance",
+      "core_id": "A",
+      "core_item": "學生具備商管專業的思辨學習能力",
+      "core_eng": "Students possess critical thinking capability in business and management issue.",
+      "core_level": "4 ",
+      "strgy": [
+        "01"
+      ],
+      "evalb": [
+        "L2",
+        "L4"
+      ],
+      "strgy_name": [
+        "課堂授課"
+      ],
+      "strgy_name_en": [
+        "Classroom instruction"
+      ],
+      "evalb_name": [
+        "點名",
+        "出席狀況"
+      ],
+      "evalb_name_en": [
+        "Roll call",
+        "Attendances"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CB03123",
+          "sub_id": "37742",
+          "scr_dup": "001",
+          "seq": 4,
+          "strgy_id": "01",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CB03123",
+          "sub_id": "37742",
+          "scr_dup": "001",
+          "seq": 4,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "L2",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CB03123",
+          "sub_id": "37742",
+          "scr_dup": "001",
+          "seq": 4,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "L4",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    }
+  ],
+  "topicSdgs": [],
+  "topicAiIndicators": [],
+  "learnHours": {
+    "total": 0.0,
+    "tpdOnlineAsyTotal": 0.0,
+    "tpdOnlineSynTotal": 0.0,
+    "tpdOnlineFaceTotal": 0.0,
+    "asySynInTotalPercent": 0.0
+  },
+  "crossVerYear": 114
+}

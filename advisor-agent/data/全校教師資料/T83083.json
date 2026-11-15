@@ -1,0 +1,1029 @@
+{
+  "teacherId": "T83083",
+  "name": "劉堂傑",
+  "mainUnit": "資訊電機學院",
+  "detailUnit": "電子工程學系",
+  "skill": [
+    "積體電路設計Integrated circuit design",
+    "顯示器驅動技術Flat-panel display drivers",
+    "高速元件High-speed electronic devices",
+    "數值計算Numerical calculation"
+  ],
+  "edu": [
+    "國立交通大學 電子所 博士",
+    "國立清華大學 電機所 碩士",
+    "國立台灣大學 電機系 學士"
+  ],
+  "fcuExp": [
+    "資訊電機學院 秘書",
+    "電子工程學系 系主任",
+    "電機與通訊工程博士學位學程 主任",
+    "生醫資訊暨生醫工程碩士學位學程 主任",
+    "電子工程學系 代理系主任",
+    "電子工程學系 系主任",
+    "逢甲大學帆宣智慧城市5G實驗室 研究員",
+    "電子工程學系(所) 副教授",
+    "電子工程學系 教授",
+    "電子工程學系 教授",
+    "電子工程學系 教授",
+    "電子工程學系 教授",
+    "電子工程學系 教授"
+  ],
+  "currjob": [],
+  "otherExp": [
+    "私立大華工商專科學校  講師"
+  ],
+  "journal": [
+    {
+      "論文名稱": "An Efficient Adaptive Noise Removal Filter on Range Images for LiDAR Point Clouds",
+      "期刊名稱": "Electronics (SCIE)",
+      "作者群": "Le, Minh-Hai, Ching-Hwa Cheng, and Don-Gey Liu"
+    },
+    {
+      "論文名稱": "A Fast Cross-Correlation Combined with Interpolation Algorithms for the LiDAR Working in the High Background Noise",
+      "期刊名稱": "Electronics (SCIE)",
+      "作者群": "Nguyen, T.-T.; Cheng, C.-H.; Liu, D.-G.; Le, M.-H."
+    },
+    {
+      "論文名稱": "TDC-Unet: Triple Unet with Dilated Convolution for Medical Image Segmentation",
+      "期刊名稱": "International Journal of Pharma Medicine and Biological Sciences (scopus)",
+      "作者群": "Song-Toan Tran(陳松全), Thanh-Tuan Nguyen(阮成俊), Minh-Hai Le(黎明海), Ching-Hwa Cheng, and Don-Gey Liu"
+    },
+    {
+      "論文名稱": "Improvement of Accuracy and Precision of the LiDAR System Working in High Background Light Conditions",
+      "期刊名稱": "Electronics (SCIE)",
+      "作者群": "Thanh -Tuan Nguyen(阮成俊), Ching-Hwa Cheng, Don-Gey Liu, Minh-Hai Le(黎明海)"
+    },
+    {
+      "論文名稱": "MORE-UNET: MULTI-OUTPUTS RECURRENT UNET FOR MEDICAL IMAGE SEGMENTATION",
+      "期刊名稱": "International Journal of Electrical, Electronics and Data Communication (iscopus)",
+      "作者群": "SONG-TOAN TRAN(陳松全), CHING-HWA CHENG, THANH-TUAN NGUYEN(阮誠俊), MINH-HAI LE(黎明海),  DON-GEY LIU"
+    },
+    {
+      "論文名稱": "TMD-Unet: Triple-Unet with Multi-Scale Input Features and Dense Skip Connection for Medical Image Segmentation",
+      "期刊名稱": "Healthcare (SCIE)",
+      "作者群": "Song-Toan Tran(陳松全), Ching-Hwa Cheng, Thanh-Tuan Nguyen(阮成俊), Minh-Hai Le(黎明海), Don-Gey Liu"
+    },
+    {
+      "論文名稱": "A Multiple Layer U-Net, Un-Net, for Liver and Liver Tumor Segmentation in CT",
+      "期刊名稱": "IEEE Access (SCIE)",
+      "作者群": "Song-Toan TRAN(陳松全), Ching-Hwa Cheng, and Don-Gey Liu"
+    },
+    {
+      "論文名稱": "Performance Improvement for Two-Lens Panoramic Endoscopic System during Minimally Invasive Surgery",
+      "期刊名稱": "Journal of Healthcare Engineering (SCIE)",
+      "作者群": "Dinh Thai Kim , Ching Hwa Cheng ,Don Gey Liu, Kai-Che Jack Liu, Shih Wei Wayne Huang,  Song Toan Tran"
+    },
+    {
+      "論文名稱": "Designing a New Endoscope for Panoramic‑View with Focus‑Area 3D‑Vision in Minimally Invasive Surgery",
+      "期刊名稱": "Journal of Medical and Biological Engineering (SCIE)",
+      "作者群": "Dinh Thai Kim, · Ching‑Hwa Cheng, · Don‑Gey Liu, · Kai Che Jack Liu, · Wayne Shih Wei Huang"
+    },
+    {
+      "論文名稱": "3D Real-Time Assisted Surgery System Development from Using Image guided and Electric-Field Sensing Techniques",
+      "期刊名稱": "International Journal of Computer Assisted Radiology and Surgery (SCIE)",
+      "作者群": "*Ching-Hwa Cheng, Don-Gey Liu"
+    },
+    {
+      "論文名稱": "A Magnetic Navigation System Development for Minimum Invasive Surgery",
+      "期刊名稱": "International Journal of Computer Assisted Radiology and Surgery (IJCARS) (SCIE)",
+      "作者群": "Yuen-Shing Li, Tak-Yin Wan, *Ching-Hwa Cheng, Don-Gey Liu,"
+    },
+    {
+      "論文名稱": "A Quick Field-Based Calculation for the Capacitances of Symmetrical Patterns in Touch Panels",
+      "期刊名稱": "Journal of Display Technology (SCIE)",
+      "作者群": "Bau-Jy Liang, Don-Gey Liu*, Hsiao-Chun Chen, Yu-Chen Fang, and Pi-Fang Hung"
+    },
+    {
+      "論文名稱": "Silicon-Controlled Rectiﬁer for Electrostatic Discharge Protection Solutions With Minimal Snapback and Reduced Overshoot Voltage",
+      "期刊名稱": "IEEE ELECTRON DEVICE LETTERS (SCIE)",
+      "作者群": "Ruei-Cheng Sun, Zhixin Wang, Maxim Klebanov, Wei Liang, Juin J. Liou, and Don-Gey Liu"
+    },
+    {
+      "論文名稱": "Optimized pMOS-Triggered Bidirectional SCR for Low-Voltage ESD Protection Applications",
+      "期刊名稱": "IEEE Transactions of Electronic Devices (SCIE)",
+      "作者群": "Zhixin Wang, Ruei-Cheng Sun*, Juin J. Liou, Don-Gey Liu"
+    },
+    {
+      "論文名稱": "Quantitative Characterization of\r\nthe Liquid Crystal Doped with Nanoscale Tin-Doped Indium Oxide under High\r\nElectric Fields.",
+      "期刊名稱": "IEEE Transactions on Device and Materials Reliability (SCIE)",
+      "作者群": "Bau-Jy Liang, Don-Gey Liu*, Wei-Lung, Pei-Fung, Bing-Jie Jin, Min-Lung Hsiau, and Rong-Fuh Louh"
+    },
+    {
+      "論文名稱": "Effects of Nanoscaled Tin-Doped Indium Oxide on Liquid Crystals against Electrostatic Discharge",
+      "期刊名稱": " Crystals (SCI申請中)",
+      "作者群": "Bau-Jy Liang, Don-Gey Liu, Wun-Yi Shie, Wei-Lung Tsai, Pei-Fung Hsu and Rong-Fuh Louh"
+    },
+    {
+      "論文名稱": "Reductionofcurrentmismatchingintheswitches-in-source CMOS chargepump",
+      "期刊名稱": "Microelectronics Journal (SCIE)",
+      "作者群": "Miin-Shyue Shiau, Heng-Shou Hsu, Ching-Hwa Cheng*, Hsiu-Hua Weng,Hong-Chong Wu, Don-Gey Liu"
+    },
+    {
+      "論文名稱": "Design a Bioamplifier with High CMRR",
+      "期刊名稱": "VLSI Design (EI)",
+      "作者群": "Yu-Ming Hsiao, Miin-Shyue Shiau, Kuen-Han Li, Jing-Jhong Hou, Heng-Shou Hsu, Hong-Chong Wu, and Don-Gey Liu"
+    },
+    {
+      "論文名稱": "A novel low-stress driven technique for on-panel TFT gate driver",
+      "期刊名稱": "Scientific Journal of Electrical Engineering (EI)",
+      "作者群": "Nan Xiong Huang*, Miin Shyue Shiau, Po Hung Chen, Hong Chong Wu, Heng-Shou Hsu, Don-Gey Liu"
+    },
+    {
+      "論文名稱": "Investigations of Novel Γ-Gate MOS-HEMTs by Ozone Water Oxidation and Shifted Exposure Techniques",
+      "期刊名稱": "IEEE Transactions on Electron Devices (SCIE)",
+      "作者群": "Ching-Sung Lee*, Bo-Yi Chou, Sheng-Han Yang, Wei-Chou Hsu, Chang-Luen Wu, Wen Luh Yang, Don-Gey Liu, and Ming-Yuan Lin"
+    },
+    {
+      "論文名稱": "Effects of Concentration of Nanoscale Tin-Doped Indium Oxide on Electrical Breakdown of High-Resistance Liquid Crystal",
+      "期刊名稱": "Jpn. J. Appl. Phys. (SCIE)",
+      "作者群": "Bau-Jy Liang(梁寶芝), Don-Gey Liu, Chih-Yuan Chang, and Wun-Yi Shie"
+    },
+    {
+      "論文名稱": "Reduced Stress and Fluctuation for the Integrated α-Si TFT Gate Driver on the LCD",
+      "期刊名稱": "Int'l J. Microelectron. Comp. Sci. ()",
+      "作者群": "Nan Xiong Huang*, Miin Shyue Shiau, Hong-Chong Wu, Rui Chen Sun, Don-Gey Liu"
+    },
+    {
+      "論文名稱": "A CTS Pump with a Crossed-Coupled Output for Higher Conversion Efficiency",
+      "期刊名稱": "Int'l J. Microelectron. Comp. Sci. ()",
+      "作者群": "Zong Han Hsieh, Nan Xiong Huang, Miin Shyue Shiau, Hong Chong Wu, Shui-Yuan Yang, Don-Gey Liu*"
+    },
+    {
+      "論文名稱": "Cell parameter measurement of a twisted nematic liquid crystal device using interferometric polarimeter under normal incident",
+      "期刊名稱": "Optics express (SCIE)",
+      "作者群": "M-H Liu, W.-C Kuo, H-C Wei, C.-C Tsai, C-J Yu, B-J Liang and C. Chou*"
+    },
+    {
+      "論文名稱": "Eliminating the Reverse Charge Sharing Effect in the Charge-Transfer-Switch(CTS) Converter",
+      "期刊名稱": "IEICE TRANSACTIONS on Electronics (SCIE)",
+      "作者群": "Miin-Shyue SHIAU, Don-Gey LIU, Shry-Sann LIAO"
+    },
+    {
+      "論文名稱": "Increase the reliability of the gate driver for amorphous TFT displays",
+      "期刊名稱": "Proceedings of International Meeting on Information Display (EI)",
+      "作者群": "Bo Cang Wu, Miin Shyue Shiau, Hong Chong Wu1, Don Gey Liu"
+    },
+    {
+      "論文名稱": "A Novel Design of Low Noise On-panel TFT Gate Driver",
+      "期刊名稱": "Proceedings of International Meeting on Information Display (EI)",
+      "作者群": "Er Lang Deng, Miin Shyue Shiau, Nan Xiong Huang, Don Gey Liu"
+    },
+    {
+      "論文名稱": "REDUCING THE STRESS ON THE OUTPUT TRANSISTORS OF ON-PANEL TFT GATE DRIVERS",
+      "期刊名稱": "Chinese Journal of ELECTRON DEVICES (EI,SA , CEPS)",
+      "作者群": "Miin-Shyue Shiau, Ming-Yuan Tsao, Hong-Chong Wu, Ching-Hwa Cheng, Don-Gey Liu"
+    },
+    {
+      "論文名稱": "Reducing the Stress on the Output Transistors of On-Panel TFT Gate Drivers",
+      "期刊名稱": "Chinese Journal of Electron Devices (EI)",
+      "作者群": "Miin-Shyue Shiau, Ming-Yuan Tsao, Hong-Chong Wu, Ching-Hwa Cheng, Don-Gey Liu"
+    },
+    {
+      "論文名稱": "A Miniaturized Millimeter-wave Branch-line Coupler Using Nonsymmetrical T-shape Structure with Quasi Stepped Impedance resonator",
+      "期刊名稱": "Microwave and optical Technology Letters (SCIE,EI)",
+      "作者群": "Miin-Shyue Shiau, Shih-Yi Yuan, Shry-Sann Liao, Pou-Tou Sun,  Don-Gey Liu"
+    },
+    {
+      "論文名稱": "Impact of N2O Treatment on the Junction Characteristics of the p+/n Junctions Formed by a Solid Diffusion Source",
+      "期刊名稱": "IEEE Electron Device Letters ()",
+      "作者群": "Wen-Luh Yang，Don-Gey Liu，Kuo Wei Chu"
+    },
+    {
+      "論文名稱": "Effects of Impurities on Removal of Polysilicon in Chemical-Mechanical Polish",
+      "期刊名稱": "J. Electron Mater. ()",
+      "作者群": "D. G. Liu, M. S. Tsai, W. L. Yang, and C. Y. Cheng"
+    },
+    {
+      "論文名稱": "Effects of Impurities on Removal of Polysilicon in Chemical-Mechanical Polish",
+      "期刊名稱": "J. Electronic Material ()",
+      "作者群": "Don-Gey Liu，Ming Shih Tsai，Wen-Luh Yang，Chih-Yuan Cheng"
+    },
+    {
+      "論文名稱": "Barrier Capability of TaNx Films Deposited by Different Nitrogen Flow Rate Against Cu Diffusion in the Cu/TaNx/n+-p Junction Diodes",
+      "期刊名稱": "Solid State Electronics ()",
+      "作者群": "Wen-Luh Yang，Wen-Fa Wu，Don-Gey Liu，Chi-Chang Wu，Keng Liang Ou"
+    },
+    {
+      "論文名稱": "Impact of N2O Activation Treatment on Junction Characteristics of p+/n Junctions Formed by a Solid Diffusion Source",
+      "期刊名稱": "IEEE Trans. on Electron Dev (SCIE)",
+      "作者群": "W.L.Yang,Don-Gey Liu, K.W.Chu"
+    },
+    {
+      "論文名稱": "Systematic Analysis and Implementation of Monolithic Microwave Active Inductor with a Feedback Resistor",
+      "期刊名稱": "Journal of Feng Chia University, ()",
+      "作者群": "劉堂傑,李仁傑,賴永齡,廖光陽"
+    },
+    {
+      "論文名稱": "Anomalous Diffusion of Boron in Silicon Activated under the N2O Ambient",
+      "期刊名稱": "IEEE Electron Device Letters ()",
+      "作者群": "D.-G.Liu, W.L.Yang, J.-S.Tsang, K.W.Chu, M.-S.Shiau and S.-Yang"
+    },
+    {
+      "論文名稱": "Barrier Capability of TaNx Films Deposited by Different Nitrogen Flow Rate Against Cu Diffusion  in the Cu/TaNx/n+ -p Junction Diodes",
+      "期刊名稱": "Solid State Electronics ()",
+      "作者群": "W. L. Yang, W.-Fa Wu, D. -G. Liu, C. C. Wu, and K. L. Ou"
+    },
+    {
+      "論文名稱": "Retardation in the Chemical-Mechanical Polish of the Boron-doped Polysilicon and Silicon",
+      "期刊名稱": "IEEE Electron. Dev. Lett. (SCIE)",
+      "作者群": "W. L. Yang、C. Y. Cheng、M. S. Tsai、D.G. Liu、M. S. Shieh"
+    },
+    {
+      "論文名稱": "Improving the thermal stability of shallow junctions by N2+ pre-implantation",
+      "期刊名稱": "Electron. Lett. ()",
+      "作者群": "W. L. Yang、W. F. Wu、劉堂傑、T. C. Hung、F. Y. Tseng"
+    },
+    {
+      "論文名稱": "GaAs power MESFET's fabricated by ion implantation technology for 2.4-GHz wireless LAN applications",
+      "期刊名稱": "Proceedings of the IEEE  Electron Devices Meeting (EI)",
+      "作者群": "Lai, Yeong-Lin; Chang, Edward Y.; Chang, C.Y.; Liu, Don-Gey; Her, Man-Long; Shiau, Miin-Shyue; Yang, Shui-Yuan; Chuang, K.C."
+    },
+    {
+      "論文名稱": "Ultra Shallow p+-n Junctions for VLSI Devices by Incorporating N2+ Implantation",
+      "期刊名稱": "逢甲學報 ()",
+      "作者群": "Wen Luh Yang, Don-Gey Liu, Shih Hung Lee, Chao Chi Chen, Tien Sheng Chao, Tan Fu Lei"
+    },
+    {
+      "論文名稱": "Simulation and Analysis of the Capacitance-Voltage Characteristics of the d-Doped Semiconductors",
+      "期刊名稱": "Mater. Chem. Phys. (SCIE)",
+      "作者群": "劉堂傑，C. P. Lee"
+    },
+    {
+      "論文名稱": "Suppression of boron penetration by using inductive-coupling-nipogen-plasma in stacked armorphous / polysilicon gate structure",
+      "期刊名稱": "Electron. Lett (SCIE)",
+      "作者群": "楊文祿，林秋吉，劉堂傑，趙天生，雷添福"
+    },
+    {
+      "論文名稱": "Suppression of Boron Penetration by Using Inductive-Coupling-Nipogen-Plasma in Atacked Cunorphous / Polysilicon Gate Structure",
+      "期刊名稱": "Electron Lett. (SCIE)",
+      "作者群": "W. L. Yang、C.J. Lin、T. S. Chao、D. G. Liu、T. I. Lei"
+    },
+    {
+      "論文名稱": "Suppression of Boron Penetration by Using Inductive-Plasma in Stacked Amorphous/Polysilicon Gate Structure",
+      "期刊名稱": "Electronics Letters (SCIE)",
+      "作者群": "W. L. Yang、C.J. Lin、T.S. Chao、D. G. Liu"
+    }
+  ],
+  "journal2": [],
+  "conference": [
+    {
+      "論文名稱": "Design of a Low-Voltage Instrumentation Amplifier at 1.2 V",
+      "會議名稱": "The 15th IEEE International Conference on Anti-counterfeiting, Security, and Identification, ASID'2021",
+      "作者群": "Jen-I Liao, Jianxiong Yang, Kangling, Minjuan Zheng, Miin-Shyue Shiau*, Hong-Chong Wu, Ching-Hwa Cheng, Don-Gey Liu"
+    },
+    {
+      "論文名稱": "Delay Cells for the Time-to-Digital Converter Implemented in FPGA",
+      "會議名稱": "2021 IEEE 15th International Conference on Anti-counterfeiting, Security, and Identification, ASID",
+      "作者群": "Ze-Xian Chen; Zhiquan Wang; Guolan Peng; Miin-Shyue Shiau; Hong-Chong Wu; Ching-Hwa Cheng; Don-Gey Liu"
+    },
+    {
+      "論文名稱": "Development of a Portable Self-Guidance Rescue Car and a 3D-Screen LIDAR Mapping System",
+      "會議名稱": "2020 IEEE International Symposium on Circuits and Systems (ISCAS)",
+      "作者群": "Ching-Hwa Cheng; Pham Minh Dung(范明勇); Tang-Chieh Liu(劉堂傑)"
+    },
+    {
+      "論文名稱": "Design and Implementation of a Pre-Surgical Investigation System by VR+AR+MR Techniques",
+      "會議名稱": "2020 IEEE International Symposium on Circuits and Systems (ISCAS)",
+      "作者群": "Ching-Hwa Cheng; Huy Anh Nguyen(阮輝安); Tang-Chieh Liu(劉堂傑)"
+    },
+    {
+      "論文名稱": "Partition for Analytical Calculation of  Electrode Capacitances in Touch Sensors",
+      "會議名稱": "IEEE International Conference on Applied System Innovation 2018",
+      "作者群": "Sih-Ying Wang*, Don-Gey Liu, Li-Chien Lin, Bau-Jy Liang"
+    },
+    {
+      "論文名稱": "A High-Slew Rate Rail-to-Rail Operational Amplifier by Flipped Voltage Followers",
+      "會議名稱": "2015 11th IEEE International Conference on ASIC (ASICON2015)",
+      "作者群": "Shu-Hang Zhang, Yu-Cheng Feng, Miin-Shyue Shiau, Qi-Ming Wan, Don-Gey Liu*"
+    },
+    {
+      "論文名稱": "No-Overshoot Silicon-Controlled Rectifier with Embedded Gated Diodes for High-Speed ESD Protection",
+      "會議名稱": "2015 Taiwan ESD and Reliability Conference (T-ESD2015)",
+      "作者群": "Ruei-Cheng Sun*, Zhixin Wang, Ruei-Lin Yang, Maxim Klebanov, Juin J. Liou, Miin-Shyue Shiau, and Don-Gey Liu"
+    },
+    {
+      "論文名稱": "A Novel Rail-to-Rail Operational Amplifier with Low Output Resistance",
+      "會議名稱": "International Multi-Conference on Engineering and Technology Innovation 2015 (IMETI2015)",
+      "作者群": "Shu-Hang Zhang*, Yu-Cheng Feng, Miin-Shyue Shiau, Qi-Ming Wan, Don-Gey Liu"
+    },
+    {
+      "論文名稱": "An ECG Front-End Circuit with Single Power Supply",
+      "會議名稱": "IEEE International Conference on Consumer Electronics – Taiwan, 2015(ICCE-TW 2015)",
+      "作者群": "Hsiu-Cheng Lee, Jen-Bo Wang, Kai-Hsiang Juang, Kuo-Ching Hsiao, Hsung-Bie Chang, Yeng-Ting Lu, Ching-Sung Lee, Ming-Hsueh Hsiau, Qi-Ming Wan, Vu Duc Thai, Ching-Hua Cheng, Don-Gey Liu*"
+    },
+    {
+      "論文名稱": "Design of High Speed Laser Diode Driver with Inductance Simulation",
+      "會議名稱": "2015電子,信號與通訊創新科技研討會",
+      "作者群": "*許恒壽,蔡沛儒,劉堂傑"
+    },
+    {
+      "論文名稱": "Analog Type Wide Range High Frequency Duty-Cycle Corrector",
+      "會議名稱": "2015電子,信號與通訊創新科技研討會",
+      "作者群": "洪裕棠,許恒壽*,劉堂傑"
+    },
+    {
+      "論文名稱": "A GIS-base Healthcare Cloud with Arduino Front-end Devices",
+      "會議名稱": "2015 Symposium on Engineering Medicine and Biology Applications (SEMBA2015)",
+      "作者群": "Kuo-Ching Hsiao, Shup-Pi Chang, Mei-Hsin Chen, and Don-Gey Liu*"
+    },
+    {
+      "論文名稱": "Thin-Film Transistor Integrated Circuits for System-on-a-Panel Applications",
+      "會議名稱": "2014 IEEE International Conference on Electron Devices and Solid-State Circuits (EDSSC2014)",
+      "作者群": "N.-X. Huang, R.-C. Sun, H.-C. Wu, C.-H. Cheng, H.-S. Hsu, M.-S. Shiau, D.-G. Liu*"
+    },
+    {
+      "論文名稱": "Research and Investigation of the BCM Design for PFC Boost Converters",
+      "會議名稱": "2014 International Conference on Applied Mechanics and Mechanical Automation(AMMA2014)2014年應用力學和機械自動化國際學術會議",
+      "作者群": "Qi-Ming Wan*, Don-Gey Liu and Gui-Xian Zhou"
+    },
+    {
+      "論文名稱": "AN INTEGRATED PHYSIOLOGICAL SYSTEM",
+      "會議名稱": "Symposium on Engineering, Medicine and Biology Applications (SEMBA 2014)",
+      "作者群": "Wan-Ju Wu, Jing-Jhong Hou, Chia-Wei Wu, Miin-Shyue Shiau, Yenyu Wang, Kai-Che Liu, Ching-Hwa Cheng, Heng-Shou Hsu, Hong-Chong Wu, Guang-Bao Lu, and Don-Gey Liu*"
+    },
+    {
+      "論文名稱": "ACTIVE FILTERS FOR ECG SIGNALS",
+      "會議名稱": "Symposium on Engineering, Medicine and Biology Applications (SEMBA 2014)",
+      "作者群": "Ming-Syuan Wu, Ruei-Lin Yang,Ruei-Cheng Sun, Heng-Shou Hsu, Yenyu Wang, Kai-Che Liu, Ching-Hwa Cheng, Miin-Shyue Shiau, Hong-Chong Wu, Guang-Bao Lu, and Don-Gey Liu*"
+    },
+    {
+      "論文名稱": "靜電造成液晶盒影像殘留之研究",
+      "會議名稱": "Annual Meeting of ROC Taiwan Liquid Crystal Society",
+      "作者群": "徐培峰、梁寶芝、劉堂傑"
+    },
+    {
+      "論文名稱": "摻雜奈米 ITO液晶盒在高壓下電橋之研究",
+      "會議名稱": "Annual Meeting of ROC Taiwan Liquid Crystal Society",
+      "作者群": "許鈞毓、梁寶芝、劉堂傑"
+    },
+    {
+      "論文名稱": "Analytical Solution for       Capacitance of Square Pattern of Touch Panel",
+      "會議名稱": "Optic & Photomic Taiwan, International Conference",
+      "作者群": "Chia-Hung Yeh, Bau-Jy Liang, and Don-Gey Liu"
+    },
+    {
+      "論文名稱": "Design for Low Current Mismatch in the CMOS Charge Pump",
+      "會議名稱": "Circuit Architectures and Methodologies for Emerging Applications, Int’l SOC Design Conf. (ISOCC2013)",
+      "作者群": "Miin-Shyue Shiau, Ching-Hwa Cheng, Heng-Shou Hsu, Hong-Chong Wu, Hsiu-Hua Weng, Jing-Jhong Hou, Ruei-Cheng Sun, Kai-Che Liu, Guang-Bao Lu, and Don-Gey Liu*"
+    },
+    {
+      "論文名稱": "Investigation of Capacitance Sensitivities of Touch Panels by Analytical and Numerical Methods",
+      "會議名稱": "Information Meeting on Information Display",
+      "作者群": "Hsiao-Chun Chen, Bau-Jy Liang, Pi-Fang Hung and Don-Gey Liu"
+    },
+    {
+      "論文名稱": "A Quasi-Static Mode by the Image-Sticking Effect in Liquid Crystal Displays",
+      "會議名稱": "Information Meeting on Information Display",
+      "作者群": "Chun-Ting Chang, Bau-Jy Liang, Don-Gey Liu, Pei-Fung Hsu"
+    },
+    {
+      "論文名稱": "Comparison on Analytical and Numerical solution of Deviation Capacitance of Tough Panel",
+      "會議名稱": "Optics & Photonics Taiwan, International Conference",
+      "作者群": "Chen-Wei Su, Chung-Min Hsieh, Hsiao-Chun Chen, Bau-Jy Liang, Pi-Fang Hung, Don-Gey Liu"
+    },
+    {
+      "論文名稱": "應用於影像傳輸ADC之低功率比較器研究",
+      "會議名稱": "2012 ISC智慧型系統工程應用研討會(ISC2012)",
+      "作者群": "賴品睿, 許恒壽, 蕭敏學, 吳鴻章, 劉堂傑"
+    },
+    {
+      "論文名稱": "應用於鎖相迴路之高速環型振盪器",
+      "會議名稱": "2012 ISC智慧型系統工程應用研討會(ISC2012)",
+      "作者群": "張貽翔, 許恒壽, 蕭敏學, 吳鴻章, 劉堂傑"
+    },
+    {
+      "論文名稱": "Resistive Switching Characteristics of Ti-inserted ZnO Resistive RAM on Flexible PEN Substrate",
+      "會議名稱": "Symposium on Nano Device Technology (第19屆奈米元件技術研討會)",
+      "作者群": "Cheng-Li Lin, Yi-Hsiu Lai,Syuan-Ren Yang, Yao-Hsiang Yang, Chun-Ming Wu, Chun-Hung Soh, Chao-Fung Sung,Don-Gey Liu,and Pi-Chun Juan"
+    },
+    {
+      "論文名稱": "A novel single clock gate driver using ?\\-Si TFTs,",
+      "會議名稱": "International Conference on Electric Information and Control Engineering (ICEICE)",
+      "作者群": "Po-Hung Chen, Nan-Xiong Huang, Miin-Shyue Shiau, Hong-Chong Wu, Heng-Shou Hsu, and Don-Gety Liu"
+    },
+    {
+      "論文名稱": "低溫退火處理及不同氬氧比之氧化鋅薄膜電阻式記憶體沉積於軟性基板之特性研究",
+      "會議名稱": "2011奈米技術與材料研討會",
+      "作者群": "林成利、楊軒任、賴逸修、蘇俊鴻、吳俊銘、楊耀翔、許恆壽、劉堂傑"
+    },
+    {
+      "論文名稱": "利用液晶顯示器影像殘留形成雙穩態特性之研究",
+      "會議名稱": "Annual Meeting of ROC Taiwan Liquid Crystal Society, Dec.(2011)",
+      "作者群": "張均廷、梁寶芝and 劉堂傑"
+    },
+    {
+      "論文名稱": "Design of High-Speed Laser Diode Driver with Fast Switching and Reaction Time",
+      "會議名稱": " IEEE International Symposium on Integrated Circuits (ISIC2011)",
+      "作者群": "*Heng-Shou Hsu, Don Gey Liu , and Shih-Chi Liu"
+    },
+    {
+      "論文名稱": "High-Speed Laser Diode Driver with Low Sensitivity to Process Variation and Improvement on Overshoot Performance",
+      "會議名稱": "IEEE International Symposium on Integrated Circuits (ISIC2011)",
+      "作者群": "*Heng-Shou Hsu, Don Gey Liu , and Chia-Ming Chuang"
+    },
+    {
+      "論文名稱": "Pseudo Differential Operational Transconductance Amplifier using Common Mode Feed Forward and HD3 Feed Forward",
+      "會議名稱": " IEEE International Symposium on Integrated Circuits",
+      "作者群": "Yen Shuo Chang, Hong Chong Wu, Miin Shyue Shiau, Don Gey Liu, and Heng-Shou Hsu"
+    },
+    {
+      "論文名稱": "Design for Less Stress in the Pull-Down Transistors for On-panel TFT Gate Drivers",
+      "會議名稱": "International Meeting on Information Display (IMID 2011)",
+      "作者群": "Nan Xiong Huang, Miin Shyue Shiau, Po Hung Chen, Hong-Chong Wu, Heng-Shou Hsu, and Don Gey Liu"
+    },
+    {
+      "論文名稱": "A novel low-stress driven technique for on-panel TFT gate driver",
+      "會議名稱": "International Conference on Artificial Intelligence, Management Science and Electronic Commerce (AIMSEC)",
+      "作者群": "Nan Xiong Huang(黃男雄), Miin Shyue Shiau, Po Hung Chen(陳柏宏), Hong-Chong Wu, Heng-Shou Hsu, Don-Gey Liu"
+    },
+    {
+      "論文名稱": "利用液晶顯示器影像殘留形成雙穩態特性之研究",
+      "會議名稱": "Annual Meeting of ROC Taiwan Liquid Crystal Society, Dec.(2011)",
+      "作者群": "張均廷,梁寶芝,劉堂傑"
+    },
+    {
+      "論文名稱": "Temperature-Dependent Investigations of Novel Γ-Gate Al0.27Ga0.73N/GaN HEMTs with Different SiN Passivation Thicknesses",
+      "會議名稱": "E-MRS 2011 SPRING MEETING IUMRS ICAM 2011 & E-MRS/MRS BILATERAL CONFERENCE on ENERGY",
+      "作者群": "Ching-Sung Lee*, W.C. Hsu, W.L. Yang, D.G. Liu, B.Y. Chou, C.S. Ho, Y.N. Lai, M.Y. Lin, J.T. Hung, Y.H. Liao, and L.Y. Tseng"
+    },
+    {
+      "論文名稱": "Dual-Composition-Graded InP/InAlAsSb/InxGa1-xAs1-ySby/InAlAsSb MHEMTs with Different Schottky Gate Structures",
+      "會議名稱": "E-MRS 2011 SPRING MEETING IUMRS ICAM 2011 & E-MRS/MRS BILATERAL CONFERENCE on ENERGY",
+      "作者群": "Ching-Sung Lee*, W.C. Hsu, W.L. Yang, D.G. Liu, B.Y. Chou, C.S. Ho, Y.N. Lai, M.Y. Lin, J.T. Hung, Y.H. Liao, and L.Y. Tseng"
+    },
+    {
+      "論文名稱": "An ECG Front-End Subsystem for Portable Physiological Monitoring Applications",
+      "會議名稱": "2011 International Conference on Electric Information and Control Engineering (ICEICE)",
+      "作者群": "Hsiu-Cheng Lee, Don-Gey Liu,  Ching-Sung Lee, Yu-Ming Shiau, Miin-Shyiue Shiau, Kuang-Hung Chen, and Heng-Shou Hsu"
+    },
+    {
+      "論文名稱": "Improve the THD of Class D Amplifiers by using Dual-Feedback",
+      "會議名稱": "International Conference on High-Speed Circuit-Design, HSCD'10",
+      "作者群": "Zhe-Yi Chen, Miin-Shyue Shiau, Don-Gey Liu, and Hong-Chong Wu"
+    },
+    {
+      "論文名稱": "Thin-Film Transistors for Liquid-Crystal Displays and the Future(薄膜電晶體的應用發展)",
+      "會議名稱": "Keynote speech in The 2nd Asian Doctoral Innovation Conference  (ADIC2010, 第二屆亞洲博士生創新論壇)",
+      "作者群": "Don-Gey Liu"
+    },
+    {
+      "論文名稱": "Comparison of the integrated on-panel TFT gate drivers with different lifetime-improving strategies",
+      "會議名稱": "The 2nd Asian Doctoral Innovation Conference (ADIC2010, 第二屆亞洲博士生創新論壇)",
+      "作者群": "Rui-Cheng Sun, Nan Xiong Huang, Miin Shyue Shiau, Hong-Chong Wu and Don Gey Liu"
+    },
+    {
+      "論文名稱": "The Integrated On-panel TFT Gate Driver with Low Driving Voltage",
+      "會議名稱": "IMID/IDMC/AsiaDisplay 2008 - International Meeting on Information Display",
+      "作者群": "Nan Xiong Huang(黃男雄), Miin Shyue Shiau, Hong-Chong Wu and Don Gey Liu"
+    },
+    {
+      "論文名稱": "An Improved Adaptive Algorithm for 2D Mutual- Capacitance Array of Touch Panel",
+      "會議名稱": "2010 電子工程技術研討會",
+      "作者群": "張本玄,蕭敏學,劉堂傑"
+    },
+    {
+      "論文名稱": "Improve the THD of Class D Amplifiers by the Dual-Feedback Scheme",
+      "會議名稱": "2010 電子工程技術研討會",
+      "作者群": "陳哲易,蕭敏學,劉堂傑,吳鴻璋"
+    },
+    {
+      "論文名稱": "Improving the Efficiency of Mixed-Structure Charge Pumps by the Multi-Phase Technique",
+      "會議名稱": "The 5th IEEE Conference on Industrial Electronics and Applications (ICIEA2010)",
+      "作者群": "Nan-Xiong Huang(黃男雄), Miin-Shyue Shiau, Zong-Han Hsieh, Hong-Chong Wu, Don-Gey Liu"
+    },
+    {
+      "論文名稱": "使用差動放大器改良鎖相迴路中電荷幫浦之電流不匹配",
+      "會議名稱": "2010第五屆智慧生活科技研討會Intelligent Living Technology Conference (ILT2010)",
+      "作者群": "翁秀樺, 蕭敏學, 吳鴻璋, 鄭經華, 劉堂傑"
+    },
+    {
+      "論文名稱": "降低TFT閘極驅動器應力效應之研究",
+      "會議名稱": "ILT2010",
+      "作者群": "*黃男雄,蕭敏學,馬碩,劉堂傑"
+    },
+    {
+      "論文名稱": "應用於ΣΔADC的非遞迴式低功率消耗之CIC濾波器",
+      "會議名稱": "ILT2010",
+      "作者群": "游仁廷,陳正豪,吳鴻章,陳冠宏,蕭敏學,劉堂傑"
+    },
+    {
+      "論文名稱": "低電壓三角積分調變器性能之評估",
+      "會議名稱": "ILT2010",
+      "作者群": "蔡宗憲, 吳鴻璋, 蕭敏學,劉堂傑"
+    },
+    {
+      "論文名稱": "高阻值液晶盒崩潰現象之研究",
+      "會議名稱": "中國液態晶體研討會",
+      "作者群": "蔡偉隆 梁寶芝 劉堂傑"
+    },
+    {
+      "論文名稱": "A Novel Ultra-Low Voltage and Low Power OTA with Common-Mode Feed-Forward",
+      "會議名稱": "12th International Symosium on Integrated Circuits",
+      "作者群": "Ming-Kai Fu, Miin-Shyue Shiau, Hong-Chong Wu, Don-Gey Liu"
+    },
+    {
+      "論文名稱": "An Efficiency Enhance Mixed-Structure Charge Pump",
+      "會議名稱": "The 12th International Symposium on Integrated Circuits (ISIC2009)",
+      "作者群": "Zong-Han Hsieh(謝宗翰), Nan-Xiong Huang(黃男雄), Miin-Shyue Shiau, Hong-Chong Wu, Don-Gey Liu"
+    },
+    {
+      "論文名稱": "一種混合式結構的高效率電荷幫浦",
+      "會議名稱": "2009民生電子研討會",
+      "作者群": "謝宗翰, 黃男雄, 蕭敏學, 吳鴻璋, 劉堂傑"
+    },
+    {
+      "論文名稱": "A Novel Mixed-Structure Design for High-Efficiency Charge Pump",
+      "會議名稱": "16th International Conference Mixed Design of Integrated Circuits and Systems",
+      "作者群": "Zong Han Hsieh, Nan Xiong Huang, Miin Shyue Shiau, Hong Chong Wu, Shui-Yuan Yang,and Don Gey Liu"
+    },
+    {
+      "論文名稱": "低門限電壓控制的低功率運算放大器之設計",
+      "會議名稱": "Intellegient Living Technology Conference(ILT2009)",
+      "作者群": "楊欣達,黃章程,楊水源,劉堂傑, 蕭敏學"
+    },
+    {
+      "論文名稱": "具減少時脈饋入誤差的低電壓切換電流記憶細胞",
+      "會議名稱": "Intellegient Living Technology Conference(ILT2009)",
+      "作者群": "蔡宗憲,吳鴻璋,蕭敏學,劉堂傑"
+    },
+    {
+      "論文名稱": "新型低壓操作共模前饋式轉導放大器之設計",
+      "會議名稱": "Intellegient Living Technology Conference(ILT2009)",
+      "作者群": "傅明楷,蕭敏學,吳鴻璋,劉堂傑"
+    },
+    {
+      "論文名稱": "高阻值液晶盒摻雜奈米銦錫氧化物抗靜電能力之研究",
+      "會議名稱": "Annual Meeting of ROC Taiwan Liquid Crystal Society",
+      "作者群": "張志遠,謝文逸,梁寶芝, and劉堂傑"
+    },
+    {
+      "論文名稱": "一種新型高效率的電荷幫浦之研究",
+      "會議名稱": "海峽兩岸科技與人文產學合作研討會",
+      "作者群": "黃男雄,謝宗翰,蕭敏學,吳鴻璋,劉堂傑"
+    },
+    {
+      "論文名稱": "Increase the reliability of the gate driver for amorphous TFT displays",
+      "會議名稱": "International Meeting on Information Display",
+      "作者群": "Bo-Cang Wu(吳柏蒼), Nan-Xiong Huang(黃男雄), Miin-Shyue Shiau, Hong-Chong Wu, Don-Gey Liu"
+    },
+    {
+      "論文名稱": "A Novel Design of Low Noise On-panel TFT Gate Driver",
+      "會議名稱": "International Meeting on Information Display",
+      "作者群": "Er Lang Deng(鄧二郎), Miin Shyue Shiau, Nan Xiong Huang(黃男雄) and Don Gey Liu"
+    },
+    {
+      "論文名稱": "A Novel Design of Low Noise On-panel TFT Gate Driver",
+      "會議名稱": "International Meeting on Information Display, International Display Manufacturing Conference and Asia Display",
+      "作者群": "Er Lang Deng, Miin Shyue Shiau, Nan Xiong Huang, Don Gey Liu"
+    },
+    {
+      "論文名稱": "Increase the reliability of the gate driver for amorphous TFT displays",
+      "會議名稱": "International Meeting on Information Display, International Display Manufacturing Conference and Asia Display",
+      "作者群": "Bo Cang Wu, Miin Shyue Shiau, Hong Chong Wu1, Don Gey Liu."
+    },
+    {
+      "論文名稱": "A Novel Low Noise Design of the Integrated On-panel TFT Gate Driver",
+      "會議名稱": "VLSI Design/CAD Symposium",
+      "作者群": "Er Lang Deng, Miin Shyue Shiau, Nan Xiong Huang, Don Gey Liu, Hong Chong Wu"
+    },
+    {
+      "論文名稱": "Multiple Dual Pull Down Gate driver circuit in TFT plane",
+      "會議名稱": "The 19th VLSI Design/CAD Symposium",
+      "作者群": "Bo-Cang Wu, Er-Iang Deng, Miin-Shyue Shiau, Hong-Chong Wu, Don-Gey Liu"
+    },
+    {
+      "論文名稱": "應用於語音信號系統之低電壓交換電?式三角積分調變器",
+      "會議名稱": "亞太華人高速電路設計研討會",
+      "作者群": "?融瑋, 吳鴻璋, 蕭敏學, ?堂傑"
+    },
+    {
+      "論文名稱": "動態移位系統中浮動雜訊消減技術之研究",
+      "會議名稱": "全國電磁相容技術與實務研討會",
+      "作者群": "黃男雄, 鄧二郎, 吳鴻璋, 蕭敏學, 劉堂傑"
+    },
+    {
+      "論文名稱": "針對十速科技發展的4bit-MCU(TM87P08)進行瞬時電流量與模擬",
+      "會議名稱": "2008全國電磁相容技術與實務研討會",
+      "作者群": "陳宏賓,袁世一,劉堂傑,詹益聖,吳上玄"
+    },
+    {
+      "論文名稱": "Static Gate Control for Charge-Transfer Switches in DC-DC Conversion",
+      "會議名稱": "15th International Conference Mixed Design of Integrated Circuits and Systems (MIXDES 2008)",
+      "作者群": "Miin-Shyue Shiau, Zong-Han Hsieh(謝宗翰), Chi-Chieh Hsieh(謝祺杰), Han-Yuen Liu(劉翰元), Hong-Chong Wu, Don-Gey Liu, and Shry-Sann Liao"
+    },
+    {
+      "論文名稱": "ERROR REDUCED DELTA SIGMA MODULATOR BY IMPROVED MEMORY CELL FOR SPEECH SIGNAL PROCESSING APPLICATION",
+      "會議名稱": "15th International Conference Mixed Design of Integrated Circuits and Systems (MIXDES 2008)",
+      "作者群": "J. R. Kuo, H.C Wu, M. S. Shiau, D. G. Liu"
+    },
+    {
+      "論文名稱": "ERROR REDUCED DELTA SIGMA MODULATOR BY IMPROVED MEMORY CELL FOR SPEECH SIGNAL PROCESSING APPLICATION",
+      "會議名稱": "International Conference Mixed Design of Integrated Circuits and Systems",
+      "作者群": "Jia Rong Kuo, Hong Chong Wu, Miin Shyue Shiau, Don Gey Liu"
+    },
+    {
+      "論文名稱": "集總式TFT閘極驅動器浮動效應消減電路之研究",
+      "會議名稱": "第三屆智慧生活科技研討會",
+      "作者群": "鄧二郎, 蕭敏學, 黃男雄, 曹銘源, 劉堂傑"
+    },
+    {
+      "論文名稱": "The Improved Memory Cell Used In Second Order Delta Sigma Modulator for Speech Signal Processing Application",
+      "會議名稱": "高速電路設計研討會",
+      "作者群": "郭家榮,吳鴻璋,蕭敏學,?堂傑"
+    },
+    {
+      "論文名稱": "The Improved Memory Cell Used In Second Order Delta Sigma Modulator for Speech Signal Processing Application",
+      "會議名稱": "第四屆網際網路暨通訊科技研討會",
+      "作者群": " Jia Rong Kuo, Hong Chong Wu, Miin Shyue Shiau, Don Gey Liu"
+    },
+    {
+      "論文名稱": "內建於非晶矽TFT顯示板之新型多重下拉閘極驅動電路之研究",
+      "會議名稱": "微電子技術發展與應用研討會",
+      "作者群": "吳柏蒼, 鄧二郎, 黃男雄, 蕭敏學, 吳鴻璋, 劉堂傑"
+    },
+    {
+      "論文名稱": "A Novel Static CTS Charge Pump with Voltage Level Controller for DC-DC Converters",
+      "會議名稱": "IEEE International EDSSC Conference",
+      "作者群": "Miin-Shyue Shiau, Zong-Han Hsieh, Chi-Chieh Hsieh, Han-Yuen Liu, Don-Gey Liu"
+    },
+    {
+      "論文名稱": "A Low Power Source Driver of Small Chip Area for QVGA TFT-LCD Applications",
+      "會議名稱": "International Meeting on Information Display (IMID)",
+      "作者群": "Nan Xiong Hung, Wei Shan Jiang, Bo Cang Wu, Ming Yuan Tsao, Han Wen Liu, Chen Hao Chang, Miin Shyue Shiau, Hong Chong Wu Ching Hwa Cheng, Don Gey Liu."
+    },
+    {
+      "論文名稱": "結合GGA與RC結構之混合型電流記憶細胞電路的特性分析",
+      "會議名稱": "高速電路設計研討會",
+      "作者群": "蕭敏學,吳鴻璋, 劉堂傑"
+    },
+    {
+      "論文名稱": "Reducing the Stress on the Output Transistors of On-Panel TFT Gate Drivers",
+      "會議名稱": "Asia Display 2007 - International Conference and Exhibition",
+      "作者群": "Miin-Shyue Shiau, Ming-Yuan Tsao(曹銘原), Hong-Chong Wu, Ching-Hwa Cheng, Don-Gey Liu"
+    },
+    {
+      "論文名稱": "液晶盒介面捕抓離子效應模型",
+      "會議名稱": "Annual Meeting of ROC Taiwan Liquid Crystal Society",
+      "作者群": "吳健源, 王重凱, 劉堂傑, and梁寶芝"
+    },
+    {
+      "論文名稱": "A New Discharging Path for the Integrated On-Panel TFT Gate Driver",
+      "會議名稱": "International System On Chip Conference (ISOCC2006)",
+      "作者群": "Miin-Shyue Shiau, Ming-Yuan Tsao(曹銘原), Hong-Chong Wu, Ching-Hwa Cheng, Don-Gey Liu"
+    },
+    {
+      "論文名稱": "同步降壓型直流對直流轉換器效率改善之研究",
+      "會議名稱": "第五屆台灣電力電子研討暨展覽會",
+      "作者群": "劉堂傑、黃思倫、鄭進興、蕭敏學、張俊評"
+    },
+    {
+      "論文名稱": "Reliable Gate Driver Circuits on Integrated TFT-LCD Panels",
+      "會議名稱": "電子通訊與應用研討會",
+      "作者群": "Ming-Yuan Tsao, Miin-Shyue Shiau , Hong-Chong Wu, Don-Gey Liu, Ching-Hwa Cheng,"
+    },
+    {
+      "論文名稱": "Reduce High Voltage Stress Time on Gate Driver Circuits of Integrated TFT-LCD Panels",
+      "會議名稱": "台灣顯示科技研討會",
+      "作者群": "Miin-Shyue Shiau1, Ming-Yuan Tsao, Hong-Chong Wu , Don-Gey Liu, Ching-Hwa Cheng,"
+    },
+    {
+      "論文名稱": "Design of the Differential-Type Monolithic-Microwave VCO for Low Phase Noise with a Large Tuning Range from 5 to 6 GHz",
+      "會議名稱": "PIERS 2004: Progress In Electromagnetics Research Symposium",
+      "作者群": "Chan-Yen Yu, Don-Gey Liu, Hong-Chong Wu, Shui-Yuan Yang, Miin-Shyue Shiau"
+    },
+    {
+      "論文名稱": "Design of the Differential-Type Monolithic-Microwave VCO for Low  Phase Noise with a Large Tuning Range from 5 to 6 GHz",
+      "會議名稱": "PIERS 2004: Progress In Electromagnetics Research Symposium",
+      "作者群": "Chan-Yen Yu, Don-Gey Liu, Hong-Chong Wu, Shui-Yuan Yang"
+    },
+    {
+      "論文名稱": "Fabricating Copper Interconnects by Displacement Technology for VLSI",
+      "會議名稱": "2003 IEEE Conference on Electron Devices and Solid-State Circuits",
+      "作者群": "Chin-Hao Yang, Wen-Luh Yang, Don-Gey Liu, Tson-Jen Yang, Giin-Shan Chen"
+    },
+    {
+      "論文名稱": "A Novel Fabrication of Cu Interconnection by Displacing The Pre-Patterned Ti Film for ULSI",
+      "會議名稱": "VMIC Conference",
+      "作者群": "Chin-Hao Yang, Wen-Luh Yang, Don-Gey Liu, Tson-Jen Yang, Giin-Shan Chen"
+    },
+    {
+      "論文名稱": "A Novel Fabrication of Cu Interconnection by Displacing the Pre-Patterned Ti Film for ULSI",
+      "會議名稱": "ECS ISTC 2002: Second ECS International Semiconductor Technology Conference",
+      "作者群": "劉堂傑、楊金澔、楊聰仁、楊文祿、陳錦山、許宏遠"
+    },
+    {
+      "論文名稱": "Displacement of Cu",
+      "會議名稱": "International Semiconductor Technology Conferenc",
+      "作者群": "Chin Hao Yang, Don-Gey Liu"
+    },
+    {
+      "論文名稱": "Reduction of the On-resistance for the Low Voltage Power DMOSFETs by the Shallow–Junction Technolog",
+      "會議名稱": "Symposium of Electrical Power Engineering",
+      "作者群": "Z. H. Her、J. H. Dung、Y. R. Li、T. H. Chien、M. C. Lee、Wen-Luh Yang、D. G. Liu、C. L. Cheng、K. W. Tu、F. T. Chien"
+    },
+    {
+      "論文名稱": "Comparative Study of TaNx and NbNx as a Diffusion Barrier for Cu",
+      "會議名稱": "Symposium on Nano Device Technology",
+      "作者群": "Chun-Chia Yeh, Wen-Fa Wu, Yu-Hsin Kin, Wen-Luh Yang, Chi-Chang Wu, Don-Gey Liu, Yubt-Zuan Chen"
+    },
+    {
+      "論文名稱": "An HBT MMIC Wide-Band Amplifier Using a New Loss-Compensated Active Inductor",
+      "會議名稱": "PIERS 2001: Progress In Electromagnetics Research Symposium",
+      "作者群": "賴永齡、C-Y.Jeng、張俊彥、劉堂傑、C-T. CHen、何滿龍、蕭敏學、楊水源"
+    },
+    {
+      "論文名稱": "A Novel Electroless Cu Plating Technique by Replacing Poly-Si for ULSI",
+      "會議名稱": "ECS ISTC 2001: International Semiconductor Technology Conference",
+      "作者群": "劉堂傑、蔡明蒔、楊文祿、陳育民、廖光陽、楊金澔"
+    },
+    {
+      "論文名稱": "A Capacitive Peaking of InGaP/GaAs HBT Transimpedance Amplifier",
+      "會議名稱": "13th Intl. Conf. On Indium Phosphide and Related Materials",
+      "作者群": "Shih-Cheng Yang, Chin-Wei Kuo, Feng-Tso Chien, Yi-Jen Chan"
+    },
+    {
+      "論文名稱": "Impact of Nitrogen Incorporation on the barrier Capability of the Ta Films Against Cu Diffusion",
+      "會議名稱": "Symposium on Nano Device Technology",
+      "作者群": "Wen-Luh Yang、Chi-Chang Wu、Wen-Fa Wu、Don-Gey Liu"
+    },
+    {
+      "論文名稱": "A Low Noise Ion-Implanted MMIC Amplifier with Optimized Matching Techniques for Wireless Applications",
+      "會議名稱": "PIERS 2001: Progress In Electromagnetics Research Symposium",
+      "作者群": "Y-L. Lai, K-H Hsu, D-G. Liu, C-T. Chen, M-L.Her, M.S.Shiau, S-Y.Yang"
+    },
+    {
+      "論文名稱": "A High-Q Tunable HBT Active Inductor with a Loss Compensation scheme for RFICs",
+      "會議名稱": "the 7th Conference of the Nano Device Technology",
+      "作者群": "R. J. Lee、劉堂傑、賴永齡、蕭敏學、S. Y. Yang"
+    },
+    {
+      "論文名稱": "Influence of the Impurities on the Removal of Silicon in Chemo-Mechanical Polish Processes",
+      "會議名稱": "the 7th Conference of the Nano Device Technology",
+      "作者群": "劉堂傑"
+    },
+    {
+      "論文名稱": "A High-Q Tunable HBT Active Inductor with a Loss Compensation scheme for RFICs",
+      "會議名稱": "SNDT'00",
+      "作者群": "R.J.Lee, D.G.Liu, Y.L.Lai, M.S.Shiau, S.Y.Yang"
+    },
+    {
+      "論文名稱": "A new analytical method for determining parasitic inductance of MESFET’s",
+      "會議名稱": "Proc. 1999 Electron Devices & Materials Symposia",
+      "作者群": "賴永齡、C. T. Chen、K. H. Hsu、何滿龍、劉堂傑、蕭敏學、S. Y. Yang"
+    },
+    {
+      "論文名稱": "GaAs Power MESFET's Fabricated by Ion Implantation Technology for 2.4-GHz Wireless LAN Applications",
+      "會議名稱": "IEEE EDMS",
+      "作者群": "Y.L.Lai, Y.Chang, C.Y.Chang, D.G.Liu, M.L.Her, M.S.Shiau, S.Y.Yang, K.C.Chuang,"
+    },
+    {
+      "論文名稱": "GaAs Power MESFET's Fabricated by Ion Implantation Technology for 2.4-GHz Wireless LAN Applications",
+      "會議名稱": "IEEE EDMS",
+      "作者群": "Y.L.Lai, Y.Chang, C.Y.Chang, D.G.Liu, M.L.Her, M.S.Shiau, S.Y.Yang, K.C.Chuang,"
+    },
+    {
+      "論文名稱": "Observation of the Quantum States from the Franz-Keldysh Oscillation in the photoreflectance of an N",
+      "會議名稱": "第十七屆光譜技術與表面科學研討會",
+      "作者群": "劉堂傑、林驊騏、張雪珍、楊文祿"
+    },
+    {
+      "論文名稱": "GaAs Power MESFET’s Fabricated by Ion Implantation Technology for 2.4-GHz Wireless LAN Applications",
+      "會議名稱": "Proc. 1999 IEEE Hong Kong Electron Devices Meeting",
+      "作者群": "賴永齡、Chang, E. Y.、Chang, C. Y.、劉堂傑、何滿龍、蕭敏學、楊水源"
+    },
+    {
+      "論文名稱": "Systematic analysis of an active inductor with a feedback resistor",
+      "會議名稱": "Proc. 6rd Symp. on Nano Device Technol",
+      "作者群": "李仁傑、劉堂傑、賴永齡、楊文祿"
+    }
+  ],
+  "book": [
+    {
+      "專業書籍": "電子學",
+      "出版單位": "全華出版社",
+      "作者群": "辛紹志、蕭敏學、劉堂傑、楊文祿"
+    },
+    {
+      "專業書籍": "電子學(下)",
+      "出版單位": "全華科技圖書股份有限公司",
+      "作者群": "蕭敏學、劉堂傑、賴永齡"
+    },
+    {
+      "專業書籍": "電子學 (下)",
+      "出版單位": "全華科技圖書股份有限公司",
+      "作者群": "蕭敏學，劉堂傑，賴永齡"
+    },
+    {
+      "專業書籍": "電子學(上)",
+      "出版單位": "全華科技圖書股份有限公司",
+      "作者群": "蕭敏學，劉堂傑，"
+    }
+  ],
+  "patent": [
+    {
+      "title": "發明",
+      "desc": "以氮氧化合物為矽晶圓製程快速擴散方法"
+    },
+    {
+      "title": "新型",
+      "desc": "液晶顯示裝置"
+    },
+    {
+      "title": "發明",
+      "desc": "Oxygen-removing pre-process for copper interconnect grown by electrochemical displacement deposition (銅導線置換沈積之除氧方法)"
+    },
+    {
+      "title": "發明",
+      "desc": "Oxygen-removing Pre-process for Copper Interconnect Grown by Electrochemical Displacement Deposition"
+    },
+    {
+      "title": "發明",
+      "desc": "導線鑄模之置換沈積方法"
+    },
+    {
+      "title": "發明",
+      "desc": "銅導線置換沉積之除氧方法"
+    }
+  ],
+  "most": [
+    {
+      "name": "穿戴式裝置之癲癇預警偵測",
+      "schoolYear": "111"
+    },
+    {
+      "name": "無人智慧運輸系統",
+      "schoolYear": "107"
+    },
+    {
+      "name": "用於熱感知多核心系統之溫度感測器擺放與全域溫度重建技術",
+      "schoolYear": "105"
+    },
+    {
+      "name": "電路定量模擬ESD造成液晶顯示器影像殘留之研究",
+      "schoolYear": "101"
+    },
+    {
+      "name": "液晶崩潰現象之研究",
+      "schoolYear": "100"
+    },
+    {
+      "name": "a-Si TFT-LCD閘極驅動電路單一時脈之研究",
+      "schoolYear": "100"
+    },
+    {
+      "name": "a-Si TFT-LCD閘極驅動電路應力效應改善之研究(I)",
+      "schoolYear": "99"
+    },
+    {
+      "name": "a-Si LCD閘極驅動電路器性能整合改善之研究(I)",
+      "schoolYear": "98"
+    },
+    {
+      "name": "a-Si LCD閘極驅動電路器關鍵性能整合性改善之研究(I)",
+      "schoolYear": "96"
+    },
+    {
+      "name": "ARM微處理器性能改良之研究",
+      "schoolYear": "92"
+    },
+    {
+      "name": "以置換法對先進低成本銅導線技術之研究",
+      "schoolYear": "91"
+    },
+    {
+      "name": "金屬化薄膜可靠度與破壞分析",
+      "schoolYear": "90"
+    },
+    {
+      "name": "高Q值全電晶體式單晶微波主動電感之研製",
+      "schoolYear": "89"
+    },
+    {
+      "name": "IMT-2000無線通訊系統應用之選擇性蝕刻功率金屬半導體場效電晶體",
+      "schoolYear": "88"
+    },
+    {
+      "name": "利用光激調制光譜技術對GaN進行物性分析",
+      "schoolYear": "87"
+    },
+    {
+      "name": "調制光譜分析在寬能隙材料能階之研究",
+      "schoolYear": "86"
+    },
+    {
+      "name": "一般方程式組之數值求解-DELTA-FET特性模擬與分析",
+      "schoolYear": "86"
+    },
+    {
+      "name": "高溫爐模組之架設(大專生暑期)",
+      "schoolYear": "86"
+    },
+    {
+      "name": "光學式暫態分析技術在半導體深層能階之應用(Ⅱ)",
+      "schoolYear": "85"
+    },
+    {
+      "name": "光學式暫態分析技術在探討半導體深層能階之應用",
+      "schoolYear": "84"
+    }
+  ],
+  "tech": [
+    {
+      "論文名稱": "Growing superlattice by MBE technology (1992-08)",
+      "書名": "Null",
+      "作者群": "Null"
+    }
+  ],
+  "induAca": [
+    "醫用智慧系統與電子感測晶片整合設計 (2022-04 to 2023-03)",
+    "醫用智慧系統與電子感測晶片整合設計 (2021-07 to 2022-03)",
+    "智慧空間電子應用聯盟—課程 (模組 )發展計畫「積體電路專案研究 (機器手臂術與虛實境影像訓練系統 )」 (2019-04 to 2020-03)",
+    "106年度智慧聯網技術與應用跨校教學聯盟中心計畫課程(模組)發展計畫—智慧空間電子應用聯盟「積體電路專案研究(擴增實境之核心技術與醫學應用)」 (2017-11 to 2019-03)",
+    "光脈式血氧儀之雛型製作及技術研發 (2014-08 to 2015-09)",
+    "智慧電子整合性人才培育-平臺建置暨專題系列課程 (2014-03 to 2015-02)",
+    "102年智慧電子跨領域應用專題系列課程計畫 (2013-02 to 2014-01)",
+    "100年度「智慧電子跨領域應用專題系列課程計畫」 (2011-09 to 2013-01)",
+    "「智慧型節能環保安全窗：環境自動感測系統之應用計畫」─智慧型環境感測模組 (2010-03 to 2010-09)",
+    "前瞻晶片系統設計(soC)學程計畫－電子設計自動化與測試 (2008-03 to 2009-02)",
+    "液晶盒抗ESD之研究 (2008-01 to 2008-12)",
+    "前瞻晶片系統設計（SoC）學程計畫-電子系「電子設計自動化與測試」 (2007-03 to 2008-02)",
+    "逢甲大學95年度e三五教學卓越計畫 (2006-08 to 2007-07)",
+    "大學科技系所人才培育計畫－C分項計畫－積體電路設計第二專長學程推動方案 (2006-08 to 2007-07)",
+    "遙控器無線模組電路板製作 (2006-06 to 2006-11)",
+    "大專校院通訊科技專題製作競賽 (2006-03 to 2006-09)",
+    "超大型積體電路與系統紹計人才培育先導型計畫—課程推廣計畫：VLSI特色實驗室 (2006-02 to 2007-01)",
+    "液晶盒界面捕抓離子效應模擬之研究 (2005-11 to 2006-10)",
+    "大學科技系所人才培育計畫－C分項計畫－積體電路設計第二專長學程推動方案 (2005-08 to 2006-07)",
+    "超大型積體電路與系統紹計人才培育先導型計畫—課程推廣計畫：VLSI特色實驗室 (2005-03 to 2006-01)",
+    "通訊科技人才培育先導型計畫-通訊元件教學推動中心 (2005-01 to 2005-12)",
+    "PI 對 LCD樣品Voltage Holding Ratio及Residual DC的影響 (2004-08 to 2005-07)",
+    "提昇大學基礎教育計畫－資電科技整合與創新課程教育計畫－分項計畫三: 電子進修課程(4/4) (2004-08 to 2005-07)",
+    "LCD離子密度量測法研究 (2003-08 to 2004-07)",
+    "提昇大學基礎教育計畫－資電科技整合與創新課程教育計畫－分項計畫三: 電子進修課程(3/4) (2003-08 to 2004-07)",
+    "提昇大學基礎教育計畫－資電科技整合與創新課程教育計畫－分項計畫三：電子進修課程(2/4) (2002-08 to 2003-08)",
+    "提昇大學基礎教育計畫－資電科技整合與創新課程教育計畫－分項計畫三：電子進修課程(1/4) (2001-09 to 2002-08)",
+    "VLSI教育改進計畫- 計算機系統電路設計與實習(教材補助-25) (1998-03 to 1998-12)",
+    "一般方程式組之數值求解-DALTA-FET特性模擬與分析(一) (1996-08 to 1997-07)"
+  ],
+  "perform": [],
+  "reward": [
+    "逢甲大學論文著作獎勵傑出獎 (113, 2024-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (111, 2022-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (111, 2022-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (110, 2021-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (109, 2020-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (109, 2020-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (108, 2019-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (108, 2019-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (106, 2017-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (106, 2017-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (105, 2016-11) - 逢甲大學",
+    "微創手術醫電系統專題平臺建置 (104, 2015-12) - 智慧電子國家型科技計畫",
+    "逢甲大學論文著作獎勵優良獎 (103, 2014-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (103, 2014-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (101, 2012-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (101, 2012-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (100, 2011-11) - 逢甲大學",
+    "論文著作優等獎 (98, 2009-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (98, 2009-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (98, 2009-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (98, 2009-11) - 逢甲大學",
+    "最佳論文獎 (98, 2009-08) - 勤益科技大學",
+    "逢甲大學論文著作獎勵優良獎 (97, 2008-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (95, 2006-11) - 逢甲大學",
+    "Who's Who in Asia,1st ed.,2007 (95, 2006-09) - Marquis Who's Who",
+    "Asia/Pacific Who's Who, v. VI (94, 2005-11) - Rifacimento International",
+    "Who's Who in the World 25th ed (94, 2005-08) - Marquis Who's Who",
+    "逢甲大學論文著作獎勵傑出獎 (91, 2002-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (91, 2002-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (91, 2002-11) - 逢甲大學",
+    "學術著作二等獎 (91, 2002-08) - 逢甲大學"
+  ],
+  "speech": [
+    {
+      "演講題目": "積體電路技術發展簡介",
+      "邀請單位": "嘉義大學電子物理系",
+      "演講日期": "2023-02"
+    },
+    {
+      "演講題目": "探索積體電路科技奧妙",
+      "邀請單位": "勤益科技大學電子系",
+      "演講日期": "2009-08"
+    },
+    {
+      "演講題目": "Impurity effects on CMP for VLSI technology",
+      "邀請單位": "中興大學電機系",
+      "演講日期": "1999-08"
+    }
+  ],
+  "material": [
+    "Full-costome design flow in Cadence\tFCU\t劉堂傑\t網頁",
+    "微創手術模擬警示系統\t無\t劉泓緯  施秉豐  黃瀚宇  鄭經華   劉堂傑\tPBL教案",
+    "Unity平台的虛擬實境手術導航設計\t無\t仲俊瑄、洪大光、郭昱希、施彥銘、劉堂傑、鄭經華\tPBL教案",
+    "一個虛擬微創手術整合架構的設計與實現\t無\t林維濬、鄭惟誠、楊允儀、李哲宇、劉堂傑、鄭經華\tPBL教案",
+    "Unity平台的虛擬實境手術導航設計\t無\t仲俊瑄、洪大光、郭昱希、施彥銘、劉堂傑、鄭經華\tPBL教案",
+    "虛擬實境發展平台實驗教材\t無\t劉堂傑、鄭經華 、吳柏文、黃奕强、蘇炳笙、林維濬、鄭惟誠、楊允儀、李哲宇\tPBL教案"
+  ],
+  "tal": []
+}

@@ -1,0 +1,2179 @@
+{
+  "teacherId": "T91039",
+  "name": "劉文豐",
+  "mainUnit": "資訊電機學院",
+  "detailUnit": "電機工程學系",
+  "skill": [
+    "光纖光學Fiber Optics",
+    "光纖通訊Optical Fiber Communications",
+    "光纖光柵Fiber Bragg Gratings",
+    "電子學Electronics",
+    "光纖感測器Fiber sensors"
+  ],
+  "edu": [
+    "英國南漢普敦大學 光電研究中心 博士",
+    "國立成功大學 電機工程學系 碩士",
+    "中正理工學院 電機工程學系 學士"
+  ],
+  "fcuExp": [
+    "電機工程學系 系主任",
+    "電機工程學系 兼任副教授",
+    "電機工程學系 教授",
+    "電機工程學系 教授",
+    "電機工程學系 教授",
+    "電機工程學系 教授",
+    "電機工程學系 特聘教授",
+    "電機工程學系 教授",
+    "電機工程學系 教授",
+    "電機工程學系 特聘教授",
+    "電機工程學系 教授"
+  ],
+  "currjob": [],
+  "otherExp": [
+    "中正理工學院 電機系 教授",
+    "中正理工學院 電機系 副教授",
+    "中正理工學院 電機系 講師",
+    "中正理工學院 電子系 講師",
+    "中正理工學院 電子系 助教"
+  ],
+  "journal": [
+    {
+      "論文名稱": "A New Type of Dynamic Vibration Fiber Sensor",
+      "期刊名稱": "Sensors (SSCI)",
+      "作者群": "I-Nan Chang*, Chih-Chuan Chiu and Wen-Fung Liu"
+    },
+    {
+      "論文名稱": "Graphene-assisted synthesis NH3 gas sensor based on Silicon photonics crystal fiber and surface plasmon resonance",
+      "期刊名稱": "Optik (SCIE)",
+      "作者群": "Yi-Lin Yu*, H. Kishikawa, K. Oguchi, H. Y. Chiu, S. K. Liaw, W. F. Liu"
+    },
+    {
+      "論文名稱": "A New Type of Etched-Fiber-Grating Hydrophone",
+      "期刊名稱": "Photonics (SCIE)",
+      "作者群": "Wen-Fung Liu1, Jia-Guan Li, Hung-Ying Chang, Ming-Yue Fu, and Chi-Fang Chen"
+    },
+    {
+      "論文名稱": "A Low-Frequency Magnetic Field Sensor Based on Fiber Bragg Gratings",
+      "期刊名稱": "Photonics (SCIE)",
+      "作者群": "Jeson Chen, Si-Yu Huang, Cheng-Yu Lin and Wen-Fung Liu"
+    },
+    {
+      "論文名稱": "Simultaneous measurement of temperature and refractive index based on an SPR Silicon core fiber sensor with a fused silica grating design",
+      "期刊名稱": "Optical and Quantum Electronics (SCIE)",
+      "作者群": "Yi-Lin Yu*, H. Kishikawa, S. K. Liaw, N. Goto and W. F. Liu"
+    },
+    {
+      "論文名稱": "Hybrid fiber-optic sensing integrating Brillouin optical time-domain analysis and fiber Bragg grating for long-range two-parameter measurement",
+      "期刊名稱": "Sensors (SCIE)",
+      "作者群": "S. K. Liaw, C. W. Liao, M. H. Tsai, D. C. Li, S. M. Yang, Z. Y. Xia, C. H. Yeh, and W. F. Liu"
+    },
+    {
+      "論文名稱": "Tapered Polymer Fiber Inclinometers",
+      "期刊名稱": "IEEE Photonics Journal (SCIE)",
+      "作者群": "Cheng-Ling Lee, Rui-Cheng Zeng, Chun-Ren Yang, Chi-Feng Lin, Chao-Tsung Ma, and Wen-Fung Liu"
+    },
+    {
+      "論文名稱": "Fiber anemometer for simultaneously measuring wind speed and wind direction",
+      "期刊名稱": "Microwave and Optical Technology Letters (SCIE)",
+      "作者群": "Jui-Nan Cheng, Hung-Ying Chang, Ming-Yue Fu and Wen-Fung Liu"
+    },
+    {
+      "論文名稱": "A Fiber Bragg Grating-Based Anemometer",
+      "期刊名稱": "Sensors (SCIE)",
+      "作者群": "Chuan-Ying Huang, Pei-Wen Chan, Hung-Ying Chang and Wen-Fung Liu,"
+    },
+    {
+      "論文名稱": "In-fiber Long-period Grating and Fiber Bragg Grating-based Sensor for Simultaneously Monitoring Remote Temperature and Stress",
+      "期刊名稱": "Sensors and Materials (SCIE)",
+      "作者群": "Hung-Ying Chang, Chien-Hung Yeh, Chuan-Ying Huang, Ming-Yue Fu, Chi-Wai Chow, and Wen-Fung Liu"
+    },
+    {
+      "論文名稱": "Smart architecture for stable multipoint fiber Bragg grating sensor system",
+      "期刊名稱": "Laser Physics (SCIE)",
+      "作者群": "C. H. Yeh*, N. Tsai, Y. H. Zhuang, T. J. Huang, C. W. Chow, J. H. Chen, and W. F. Liu"
+    },
+    {
+      "論文名稱": "A Highly Sensitive Two-Dimensional Inclinometer Based on Two Etched Chirped-Fiber-Grating Arrays",
+      "期刊名稱": "Sensors (SCIE)",
+      "作者群": "Hung-Ying Chang, Yu-Chung Chang, and Wen-Fung Liu"
+    },
+    {
+      "論文名稱": "High Sensitive Two-Dimension Tilted-Meter Based on Chirped Fiber Bragg gratings",
+      "期刊名稱": " IEEE Sensors Journal (SCIE)",
+      "作者群": "Jung-Sheng Chiang, Hung-Ying Chang, Nai-Hsiang, and Wen-Fung Liu"
+    },
+    {
+      "論文名稱": "Fault self-detection technique in fiber Bragg grating-based passive sensor network",
+      "期刊名稱": "IEEE Sensors Journal (SCIE)",
+      "作者群": "C. H. Yeh*, N. Tsai, Y. H. Zhuang, C. W. Chow, and W. F. Liu"
+    },
+    {
+      "論文名稱": "Optical Fiber Sensor Based on Second-Order Superstructure Fiber Bragg Grating",
+      "期刊名稱": "Sensors and Materials (SCIE)",
+      "作者群": "Hung-Ying Chang, Ming-Yue Fu, and Wen-Fung Liu"
+    },
+    {
+      "論文名稱": "An Ultra-sensitive liquid-level indicator based on an etched chirped-fiber Bragg grating",
+      "期刊名稱": "IEEE Photonics Technology Letters (SCIE)",
+      "作者群": "Hung-Ying Chang, Yu-Chung Chang, Hao-Jan Sheng, Ming-Yue Fu, Wen-Fung Liu, and Raman Kashyap"
+    },
+    {
+      "論文名稱": "Utilizing FBG-based erbium-doped fiber architecture for remote temperature sensing",
+      "期刊名稱": "Laser Physics (SCIE)",
+      "作者群": "C. H. Yeh*, C. W. Chow, J. Y. Chen, H. Z. Chen, J. H. Chen, and W. F. Liu"
+    },
+    {
+      "論文名稱": "Development of a robust rotational-angle optical fiber sensor using different-material cantilevers",
+      "期刊名稱": "Optical Engineering (SCIE)",
+      "作者群": "Hai-Tao Sun, Hao-Jan Sheng and Wen-Fung Liu"
+    },
+    {
+      "論文名稱": "Grating-outcoupled radiation in second-order fiber Bragg grating",
+      "期刊名稱": "Fiber and Integrated Optics (SCIE)",
+      "作者群": "Nai-Hsiang Sun, Chia-Ming Hu, Jung-Sheng Chiang, Wen-Fung Liu, Jiun-jie Liau, Shih-Chiang Lin"
+    },
+    {
+      "論文名稱": "Refractive index sensor based on stress-induced long-period grating",
+      "期刊名稱": "Optic Review (SCIE)",
+      "作者群": "Guei-Ru Lin, Hung-Ying Chang, Ming-Yue Fu, Hao-Jan Sheng, and Wen-Fung Liu"
+    },
+    {
+      "論文名稱": "An optomechatronic curvature measurement array based on fiber Bragg gratings",
+      "期刊名稱": "Measurement Science and Technology (SCIE)",
+      "作者群": "Hsing-Cheng Chang, I-Nan Chang, Ya-Hui Chen, Shyan-Lung Lin,\r\nSan-Shan Hung, Jung-Chih Lin and Wen-Fung Liu"
+    },
+    {
+      "論文名稱": "360o Rotation Sensor Using a Chirped Fiber Grating\"",
+      "期刊名稱": "IEEE Photonics Technology Letters (SCIE)",
+      "作者群": "Hao-Jan Sheng, Wen-Fung Liu, and Ming-Yue Fu"
+    },
+    {
+      "論文名稱": "Dual-parameter sensor based on a no-core fiber and fiber Bragg grating",
+      "期刊名稱": "Optical Engineering Letters (SCIE)",
+      "作者群": "Guei-Ru Liu, Ming-Yue Fu, and Cheng-Ling Lee, and Wen-Fung Liu"
+    },
+    {
+      "論文名稱": "Harnessing the fiber fuse for sensing applications",
+      "期刊名稱": "Optics Express (SCIE)",
+      "作者群": "Guei-Ru lin, Mohamad Diaa Baiad, Mathieu Gagne, Wen-Fung Liu and Raman Kashyap"
+    },
+    {
+      "論文名稱": "A reactive power sensor based on fiber Bragg grating and a piezo-electric transducer",
+      "期刊名稱": "Microwave and Optical Technology Letters (SCIE)",
+      "作者群": "Chin-Hsing Cheng, Kuo-Liang Cheng, and Wen-Fung Liu"
+    },
+    {
+      "論文名稱": "A fiber optic sensor based on air-gap long period gratings for pH sensing application",
+      "期刊名稱": "Microwave and Optical Technology Letters (SCIE)",
+      "作者群": "Jiang-Chiou Mau, Guei-Ru Lin, Ming-Yue Fu, and Wen-Fung Liu"
+    },
+    {
+      "論文名稱": "Measurement of active power using fiber Bragg grating and a piezo-electric transducer",
+      "期刊名稱": "Microwave and Optical Technology Letters (SCIE)",
+      "作者群": "Chin-Hsing Cheng, Min-Chih, Chang, and Wen-Fung Liu"
+    },
+    {
+      "論文名稱": "Measurement and Analysis of Loss for Long-Period Photonic Crystal Fiber Gratings",
+      "期刊名稱": " Applied Mechanics and Materials (EI)",
+      "作者群": "Jung-Sheng Chiang, Shih-Yuan Lin, Chia-Ming Chen, Nai-Hsiang Sun, Wen-Fung Liu"
+    },
+    {
+      "論文名稱": "A High Sensitivity Index Sensor Based on No-Core Fibers",
+      "期刊名稱": "Applied Mechanics and Materials (EI)",
+      "作者群": "Guei-Ru Lin, Ming-Yue Fu, Hao-Jan Sheng, Hai-Tao Sun, Wen-Fung Liu,"
+    },
+    {
+      "論文名稱": "Measurement and Analysis of Loss for Long-Period Photonic Crystal Fiber Gratings",
+      "期刊名稱": "Applied Mechanics and Materials (EI)",
+      "作者群": "Jung-Sheng Chiang, Shih-Yuan Lin, Chia-Ming Chen, Nai-Hsiang Sun, Wen-Fung Liu"
+    },
+    {
+      "論文名稱": "Application of Fabry-Perot and fiber Bragg grating pressure sensors to simultaneous measurement of liquid level and specific gravity",
+      "期刊名稱": "Measurement (SCIE)",
+      "作者群": "Chih-Wei Lai, Yu-Lung Lo, Jiahn-Piring Yur, Wen-Fung Liu, Chin-Ho Chuang"
+    },
+    {
+      "論文名稱": "Random rotary position sensor based on fiber Bragg gratings",
+      "期刊名稱": "IEEE Sensors Journal (SCIE)",
+      "作者群": "Hao-Jan Sheng, Pei-Tsung Tsai, Wei-Yun Lee, Guei-Ru Lin, Hai-Tao Sun, Ding-Wei Huang ,and Wen-Fung Liu"
+    },
+    {
+      "論文名稱": "The tunable dispersion based on side-polished fiber Bragg gratings",
+      "期刊名稱": "Microwave and Optical Technology Letters (SCIE)",
+      "作者群": "Hai-Tao Sun, En-Chiang Chang, Hao-Jan Sheng, Chih-Chiang Chen, and Wen-Fung Liu"
+    },
+    {
+      "論文名稱": "A novel unequal-power divider based on synthetic quasi-TEM transmission line design",
+      "期刊名稱": "Microwave and Optical Technology Letters (SCIE,EI)",
+      "作者群": "Chih-Chiang Chen*, Hai-Tao Sun and Yu-Ruei Chen"
+    },
+    {
+      "論文名稱": "Hybrid AG-FFPI/RLPFG for simultaneously sensing refractive index and temperature",
+      "期刊名稱": "IEEE Photonics Technology Letters (SCIE)",
+      "作者群": "Cheng-Ling Lee, Wen-Fung Liu, Zi-Yu Weng, and Fu-Chih Hu"
+    },
+    {
+      "論文名稱": "An Evaluation of the Embedment of a Radio Frequency Integrated Circuit with a Temperature Detector in Building Envelopes for Energy Conservation",
+      "期刊名稱": "Energy and Buildings (SCIE)",
+      "作者群": "C. Y. Chang, S. S. Hung and Y. F. Peng"
+    },
+    {
+      "論文名稱": "Fiber-Optic Humidity Sensor Based on an Air-Gap Long Period Fiber Grating",
+      "期刊名稱": "OPTICAL REVIEW (SCIE)",
+      "作者群": "Ming-Yue Fu*, Guei-Ru Lin, Wen-Fung Liu, Cheng-Wen Wu"
+    },
+    {
+      "論文名稱": "A magnetic microsensor with temperature compensation based on optical mechatronic technology",
+      "期刊名稱": "Material Science Forum (EI)",
+      "作者群": "Chi-Chih Lai, I-Nan Chang, Hsing-Cheng Chang*, Chang-Chou Hwang, Wen-Feung Liu, Chih-Hsiang Ma, Ya-Hui Chen"
+    },
+    {
+      "論文名稱": "Analysis of an Ultrashort PCF-Based Polarization Splitter",
+      "期刊名稱": "Jounal of Lightwave Technology (SCIE)",
+      "作者群": "J.S. Shiang, N.H. Sun, S.C. Lin,and W.F. Liu"
+    },
+    {
+      "論文名稱": "Modeling biogas production from organic fraction of MSW co-digested with MSWI ashes in anaerobic bioreactors.",
+      "期刊名稱": "Bioresoure Technology (SCIE)",
+      "作者群": "Lo*, H.M., Kurniawan, T.A., Sillanp??, M.E.T., Pai, T.Y., Chiang, C.F., Chao, K.P., Liu, M.H., Chuang, S.H., Banks,Liu, W.F."
+    },
+    {
+      "論文名稱": "Optical fiber sensor based on air-gap long period gratings",
+      "期刊名稱": "Jpn. J. Appl. Phys. (SCIE,EI,ISSN 1023-4527)",
+      "作者群": "Ming-Yue Fu, Guei-Ru Lin, Wen-Fung Liu, Hao-Jan Sheng, Po-Chun Su and Chuen-Lin Tien"
+    },
+    {
+      "論文名稱": "Magnetic field sensor based on D-shaped long period fiber gratings",
+      "期刊名稱": "Proc. of SPIE (EI)",
+      "作者群": "Chuen-Lin Tien, Tsai-Wei Lin, Chang-Chou Hwang, and Wen-Feng Liu"
+    },
+    {
+      "論文名稱": "Biostabilization assessment of MSW co-disposed with MSWI fly ash in anaerobic bioreactors",
+      "期刊名稱": "Journal of Hazardous Materials (SCIE)",
+      "作者群": "H.M. Lo, M.H. Liu, T.Y. Pai, W.F. Liu, C.Y. Lin S.C. Wang, C.J. Banks, C.H. Hung, C.F. Chiang, T.A. Kurniawan,and H.S. Hsu"
+    },
+    {
+      "論文名稱": "Optical characteristics of bending multimode superstructure fiber gratings",
+      "期刊名稱": "Applied Optics (SCIE)",
+      "作者群": "Ming-Yue Fu, Wen-Fung Liu, Hao-Jan Sheng, Lung Ai, Hsin-Wen Peng, and Chuen-Lin Tien"
+    },
+    {
+      "論文名稱": "Three-byThree port fused fiber grating coupler",
+      "期刊名稱": "Optical Engineering (SCIE)",
+      "作者群": "Lung Ai, Wen-Fung Liu, Ming-Yue Fu, Tzu-Chiang Chen, and Jiang-Chiou Mau"
+    },
+    {
+      "論文名稱": "Solubility of heavy metals added to MSW",
+      "期刊名稱": "Journal of Hazardous Materails (SCIE)",
+      "作者群": "H.M. Lo, K.C. Lin, M.H. Liu, T.Z. Pai, C.Y. Lin, W.F. Liu"
+    },
+    {
+      "論文名稱": "High-sensitivity temperature-independent differential pressure sensor using fiber Bragg gratings",
+      "期刊名稱": "Optics Express (SCIE)",
+      "作者群": "Hao-Jan Sheng, Wen-Fung Liu, Kuei-Ru Lin, Sheau-Shong Bor, and Ming-Yue Fu"
+    },
+    {
+      "論文名稱": "High-sensitivity temperature-independent differential pressure sensor using fiber Bragg gratings",
+      "期刊名稱": "Optical Express (SCIE)",
+      "作者群": "Hao-Jan Sheng, Wen-Fung Liu, Kei-Ru Lin, Sheau-Shong Bor, and Ming-Yue Fu"
+    },
+    {
+      "論文名稱": "Wavelength Switchable L-band Erbium-Doped Fiber Laser Employing C-band EDFAas Gain Medium",
+      "期刊名稱": "Journal of Modern Optics (SCIE)",
+      "作者群": "Ya-Ju Chiang, Likarn Wang, Wen-Fung Liu"
+    },
+    {
+      "論文名稱": "Fiber hydrometer based on long period gratings in photonic crystal fibers",
+      "期刊名稱": "OECC/ACOFT (EI)",
+      "作者群": "Wen-Fung Liu, Ming-Yue Fu, Hao-Jan Sheng, Chih-Ching Tien, Hong-Wei Chen, Chuen-Lin Tien"
+    },
+    {
+      "論文名稱": "Fiber hydrometer based on long period gratings in photonic crystal fibers",
+      "期刊名稱": "Proc. of OECC/ACOFT on Optical Fibre Technology (EI)",
+      "作者群": "Wen-Fung Liu, Ming-Yue Fu, Hao-Jan Sheng, Chih-Ching Tien, Hong-Wei Chen, Chuen-Lin Tien"
+    },
+    {
+      "論文名稱": "Hydrogen sensor based on side-polished fiber Bragg gratings coated with thin palladium film",
+      "期刊名稱": "Thin Solid Films (SCIE)",
+      "作者群": "Chuen-Lin Tien, Hong-Wei Chen, Wen-Fung Liu, Shou-Shan Jyu, Shane-Wen Lin and Yung-Sen Lin"
+    },
+    {
+      "論文名稱": "Electro-Optical Magnetic Microsensor with Reducing Interference Packaging",
+      "期刊名稱": "Journal of Shanghai Jiaotong University (Science) (EI)",
+      "作者群": "Hsing-Cheng Chang, San-Shan Hung, Ching-Fu Tsou, Wen-Fung Liu, Chi-Chih Lai, Ching-Shang Jian"
+    },
+    {
+      "論文名稱": "Fiber-Liquid-Level Sensor Based on A Fiber Bragg Grating",
+      "期刊名稱": "Japanese Journal of Applied Physics (SCIE)",
+      "作者群": "Hao-Jan Sheng,Wen-Fung Liu,Sheau-Shong Bor,Hsing-Cheng Chang"
+    },
+    {
+      "論文名稱": "Temperature-insensitive fiber Bragg grating tilt sensor",
+      "期刊名稱": "Applied Optics (SCIE)",
+      "作者群": "Hsuan-Jen Chen, Likarn Wang, and W.F. Liu"
+    },
+    {
+      "論文名稱": "The Induced Cladding Modes of a Superstructure Fiber Grating",
+      "期刊名稱": " Optical Fiber Technology (SCIE)",
+      "作者群": "Ming-Yue Fu, Chia-Min Lin, Wen-Fung Liu, and Lung Ai"
+    },
+    {
+      "論文名稱": "A volatile-solvent gas fiber sensor based on polyaniline film coated on superstructure fiber Bragg gratings",
+      "期刊名稱": "Measurement Science and Technology (SCIE)",
+      "作者群": "Lung Ai, Jiang Chiou Mau, Wen-Fung Liu, T. C. Chen and W. K. Su"
+    },
+    {
+      "論文名稱": "Ammonia gas fiber sensor based on polyaniline film coated on superstructure fiber Bragg gratings",
+      "期刊名稱": "Microwave and Optical Technology Letters (SCIE)",
+      "作者群": "Lung Ai,Jiang-Chiou Mau,Wen-Fung Liu,Ming-Yue Fu, and Tzu-Chiang Chen"
+    },
+    {
+      "論文名稱": "Making antireflection coatings for ultraviolet application by rf magnetron sputtering",
+      "期刊名稱": "Journal of Japan Society of Applied Electromagnetics and Mec ()",
+      "作者群": "Chuen-Lin Tien, Ming Chung Liu, Shane-Wen Lin, and Wen-Fung Liu"
+    },
+    {
+      "論文名稱": "Fiber Bragg grating coated with thin iron film for magnetic field sensing",
+      "期刊名稱": "Journal of Japan Society of Applied Electromagnetics and Mec ()",
+      "作者群": "Chuen-Lin Tien, Shane-Wen Lin, Hong-Wei Chen, Wen-Fung Liu and Chang-Chou Hwang"
+    },
+    {
+      "論文名稱": "Magnetic sensing device based on side-polished long period fiber gratings coated with thin iron film",
+      "期刊名稱": "Journal of Japan Society of Applied Electromagnetics and Mec ()",
+      "作者群": "Wen-Fung Liu, Chuen-Lin Tien, Hong-Wei Chen, Shane-Wen Lin and Chang-Chou Hwang"
+    },
+    {
+      "論文名稱": "Two by Two Ports Fused Fiber Grating Coupler",
+      "期刊名稱": "Microwave and Optical Technology Letters (SCIE)",
+      "作者群": "Lung Ai, Wen-Fung Liu, Ching-Ting Kuo, Ming-Yue Fu, and Tzu-Chiang Chen"
+    },
+    {
+      "論文名稱": "The measurement of liquid refractive index by D-shaped fiber Bragg grating",
+      "期刊名稱": "Optical MEMS and Nanophotonics (EI)",
+      "作者群": "Hong-Wei Chen, Chuen-Lin Tien, Wen Fung Liu, Shane-Wen Lin"
+    },
+    {
+      "論文名稱": "Bandwidth-Tunable Fiber Bragg Gratings Based on UV Glue Technique",
+      "期刊名稱": "Journal of Japan Applied Physics (SCIE)",
+      "作者群": "Ming-Yue Fu, Wen-Feng Liu, Hsin-Tsang Chen, Chia-Wei Chuang, Sheau-Shong Bor, and Chuen-Lin Tien"
+    },
+    {
+      "論文名稱": "Bandwidth-tunablfiber Bragg gratings baseed on UV glue technique",
+      "期刊名稱": "Japanese Journal of Applied Physics (SCIE,EI)",
+      "作者群": "Wen-Fung Liu,Hsin-Tsang Chen,Chia-Wei Chuang,Shou-Shan Jyu,Ming-Yue Fu, Chuen-Lin Tien"
+    },
+    {
+      "論文名稱": "Bending Measurement of Long Period Gratings in Photonic Crystal Fibers",
+      "期刊名稱": "Journal of Japan Applied Physics (SCIE)",
+      "作者群": "Ming-Yue Fu, Wen-Fung Liu, Ying-Pin Chuang, and Huang-Mu Lo"
+    },
+    {
+      "論文名稱": "Magnetic sensor based on side-polished fiber Bragg grating coated with iron film",
+      "期刊名稱": "IEEE Trans. on Magnetics (SCIE)",
+      "作者群": "田春林、黃昌圳、陳宏偉、劉文豐、藺善文"
+    },
+    {
+      "論文名稱": "High-sensitivity Simultaneous pressure and temperature sensor using a superstructure fiber grating",
+      "期刊名稱": "IEEE Sensors Journal (SCIE)",
+      "作者群": "Chia-Min Lin, Yi-Chi Liu, Wen-Fung Liu, Ming-Yue Fu, Hao-Jan Sheng, Sheau-Shong Bor, Chuen-Lin Tien"
+    },
+    {
+      "論文名稱": "Fiber Grating Fabrication Using Ultra-violet -Transparent Fibers",
+      "期刊名稱": "Communications, Circuits and Systems Proceedings (EI)",
+      "作者群": "Yi-Chi Liu, Feng-Chia Shen, Wen-Fung Liu, Hsin-Wen Peng, Chuen-Lin Tien, Lung Ai,  I-Wen Wu, Patrick Tsai"
+    },
+    {
+      "論文名稱": "Temperaturte Compensation of Optical Fiber Bragg Grating Pressure Sensors",
+      "期刊名稱": "IEEE Photonics Technology Letters (SCIE)",
+      "作者群": "Y.S. Hsu,Likarn Wang,Wen-Fung Liu, and Y.J.Chiang"
+    },
+    {
+      "論文名稱": "Temperature-Insensitive Multipoint Strain-Sensing System Based on Fiber Bragg Gratings and Optical Power Detection Scheme",
+      "期刊名稱": "IEEE Sensors Journal (SCIE)",
+      "作者群": "Y.J.Chiang,Likard Wang, Wen-Fung Liu,and C.S.Hsiao"
+    },
+    {
+      "論文名稱": "Superposition of Mode Coupling Induced by Dual Acousto-Optic Modulation",
+      "期刊名稱": "Microwave and Optical Technology Letters (SCIE)",
+      "作者群": "Po-Jen Tu, Wen-Fung Liu, and Tzu-Chiang Chen"
+    },
+    {
+      "論文名稱": "Changes in surface roughness and work function of indium-tin-oxide due to KrF excimer laser irradiation",
+      "期刊名稱": "Journal Vac. Sci. Technol. A (SCIE)",
+      "作者群": "Yow-Jon Lin,Lain D. Baikie,Wei-Yang Chou,Shih-Ting Lin,Hsing-Cheng Chang,Yao-Ming Chen,Wen-Fung Liu"
+    },
+    {
+      "論文名稱": "Tunable fiber laser based on an etching fiber Bragg grating",
+      "期刊名稱": "Microwave and Optical Technology Letters (SCIE)",
+      "作者群": "P. J. Tu, Wen-Fung liu,and Tzu-Chiang Chen"
+    },
+    {
+      "論文名稱": "Fabrication of fiber gratings using a heating process",
+      "期刊名稱": "Optical Engineering (SCIE)",
+      "作者群": "Li-Pin Chi, Wen-Fung Liu, C.W. Wu, Kuei-Huei Lin and Sheau-Shong Bor"
+    },
+    {
+      "論文名稱": "Effect of acoustic flexual waves in a tilted superstructure fiber grating",
+      "期刊名稱": "Optical Engineering (SCIE)",
+      "作者群": "Ming-Yue Fu, Wen-Fung Liu, Tzu-Chiang Chen"
+    },
+    {
+      "論文名稱": "Interferometric pattern defects recognized by using wavelet transform with DSP",
+      "期刊名稱": " Proc. of SPIE (EI)",
+      "作者群": "Chuen-Lin Tien, Min-Chieh Lu, Wen-Fung Liu, Shung-Zeng Peng"
+    },
+    {
+      "論文名稱": "超結構型光纖光柵之研製",
+      "期刊名稱": "中正嶺學報 (EI)",
+      "作者群": "劉文豐,柏小松,呂理維,齊立平,杜博仁,傅明宇"
+    },
+    {
+      "論文名稱": "Cladding mode induction in a tilted superstructure fiber grating",
+      "期刊名稱": "Proc. of SPIE (EI)",
+      "作者群": "Chia-Min Lin, Wen-Fung Liu, Ming-Yue Fu, Chuen-Lin Tien, Sheau-Shong Bor"
+    },
+    {
+      "論文名稱": "光纖光柵壓力感測器",
+      "期刊名稱": "光學工程 ()",
+      "作者群": "劉文豐,申浩然,傅明宇"
+    },
+    {
+      "論文名稱": "突發式光收發信模組之研製與量測",
+      "期刊名稱": "光學工程 ()",
+      "作者群": "傅明宇,曾稟如,林多常,劉文豐,陳子江"
+    },
+    {
+      "論文名稱": "可調/可切換波長環形光纖雷射之研究",
+      "期刊名稱": "光學工程 ()",
+      "作者群": "陳子江,杜博仁,李宏言,劉文豐"
+    },
+    {
+      "論文名稱": "聲波誘導斜角布拉格光纖光柵之模態耦合",
+      "期刊名稱": "光學工程 ()",
+      "作者群": "傅明宇,陳子江,劉文豐"
+    },
+    {
+      "論文名稱": "以塑膠光纖來傳輸醫學影像之模擬",
+      "期刊名稱": "光學工程 ()",
+      "作者群": "陳子江,杜博仁,謝耀德,劉文豐"
+    },
+    {
+      "論文名稱": "Excimer-laser-induced activation of Mg-doped GaN layers",
+      "期刊名稱": "Applied Physics Letters (SCIE)",
+      "作者群": "Yow-Jon Lin, Wen-Fung Liu, and Ching-Ting Lee"
+    },
+    {
+      "論文名稱": "A Lateral Pressure Sensor Using a Fiber Bragg Grating",
+      "期刊名稱": "IEEE Photonics Technology Letters (SCIE)",
+      "作者群": "Hao-Jan Sheng, Ming-Yue Fu, Tzu-Chiang Chen, Wen-Fung Liu, and Sheau-Shong Bor"
+    },
+    {
+      "論文名稱": "Gain flattening filter of an EDFA based on etching LPGs technology",
+      "期刊名稱": "Optical Engineering (SCIE)",
+      "作者群": "Chung-En Chou, Nai-Hsiang Sun, and Wen-Fung Liu"
+    },
+    {
+      "論文名稱": "Acousto-optic induced cladding-modes reflection in a blazed-superstructure fiber grating",
+      "期刊名稱": "IEEE Photonics technology Letters (SCIE)",
+      "作者群": "Ming-Yue Fu, Wen-Fung Liu, Tzu-Chiang Chen, and Hao-Jan Sheng"
+    }
+  ],
+  "journal2": [],
+  "conference": [
+    {
+      "論文名稱": "A Brief Discussion on Induction Motor Fault Signal Acquisition and Intelligent Diagnosis",
+      "會議名稱": "44th Symposium on Electrical Power Engineering",
+      "作者群": "Guan-Jie Wang, Min-Chieh Lin, Pin-Yu Lu, Shih-Hsien Hsu*, Wen-Fung Liu"
+    },
+    {
+      "論文名稱": "The Hydrophone Based on Fiber Bragg Gratings",
+      "會議名稱": "2023 Optics & Photonics Taiwan International Conference",
+      "作者群": "Yu-Chun Chang, Shian-Ming Liu, Wen-Fung Liu and I-Nan Chang"
+    },
+    {
+      "論文名稱": "Motor Vibration Sensor Based on a Fiber Bragg Grating",
+      "會議名稱": "OPTIC'2022",
+      "作者群": "Pin-Yu Lu, Wen-Fung Liu, Chia-Tse Hsu, Chih-Chuan Chiu, Wei-Chen Li, Shih-Usien Hsu and Yu-Lin Yu"
+    },
+    {
+      "論文名稱": "The Hydrophone Based on Fiber Bragg Gratings",
+      "會議名稱": "OPTIC'2022",
+      "作者群": "Yu-Chun Chang*, Shian-Ming Liu and Wen-Fung Liu"
+    },
+    {
+      "論文名稱": "Highly Sensitive Pressure Sensor Based on Bragg Fiber Gratings",
+      "會議名稱": "OPTIC'2022",
+      "作者群": "Wei-Chen Li*, Shian-Ming Liu and Wen-Fung Liu"
+    },
+    {
+      "論文名稱": "Ultra-Precise Liquid Level Sensor by Using a Tapered-Fiber Bragg Grating",
+      "會議名稱": "OPTIC'2022",
+      "作者群": "Xin-Ya Lai, Wei-Lin Shu,2, Wen-Fung Liu, and Yu-Chun Chang"
+    },
+    {
+      "論文名稱": "The Two-Dimensions Bending Fiber Sensor for Applying in an Endoscopy",
+      "會議名稱": "OPTIC'2022",
+      "作者群": "Chih-Chieh Li, Wen-Fung Liu , Cheng-Yu Lin, Yu-Chun Chang, Ming-Yue Fu, and Yi-Lin Yu"
+    },
+    {
+      "論文名稱": "Fiber Bragg Grating Low-Frequency AC Magnetic Field Sensor",
+      "會議名稱": "OPTIC'2020",
+      "作者群": "Si-Yu Huang, Cheng-Yu Lin, Jeson Chen, Wen-Fung Liu"
+    },
+    {
+      "論文名稱": "DC Voltage Sensor of Fiber Bragg Grating",
+      "會議名稱": "OPTIC'2020",
+      "作者群": "Ting-Heng Wang, Cheng-Hsuan Tsai, Shih-Hsien Hsu, Wen-Fung Liu"
+    },
+    {
+      "論文名稱": "The Tuning Bandwidth of Tapered Fiber Bragg Grating",
+      "會議名稱": "OPTIC'2020",
+      "作者群": "Yi-Cheng Lin;Cheng-Yu Lin;Jeson Chen;Wen-Fung Liu"
+    },
+    {
+      "論文名稱": "Fiber Bragg Grating Structure Noise Sensor",
+      "會議名稱": "OPTIC'2020",
+      "作者群": "Yan-Qing Chen;Cheng-Yu Lin;Jeson Chen;Wen-Fung Liu"
+    },
+    {
+      "論文名稱": "Fiber Bragg Grating Liquid-Level Sensor",
+      "會議名稱": "OPTIC'2020",
+      "作者群": "Qi-Yi Weng, Cheng-Hsuan Tsai, Ming-Yue Fu, Wen-Fung Liu"
+    },
+    {
+      "論文名稱": "A New-Type Hydrophone",
+      "會議名稱": "OECC’2020.",
+      "作者群": "Teng-Lung Wang, Cheng-Hsuan Tisa, Hung-Ying Chang, Wang-Fung Liu, Shien-Kuei Liaw, Min-Yu Fu"
+    },
+    {
+      "論文名稱": "The Magnetic Field Sensor Based on Fiber Bragg Gratings",
+      "會議名稱": "OECC'2020",
+      "作者群": "Zhen-kai Yeh, Cheng-Yu Lin, Wei-Xiang Hong, Hung-Ying Chang, Wang-Fung Liu"
+    },
+    {
+      "論文名稱": "Advanced fiber Bragg grating sensors",
+      "會議名稱": "OECC'2020",
+      "作者群": "Wen-Fung Liu"
+    },
+    {
+      "論文名稱": "Fiber Bragg Grating Magnetic Field Sensor",
+      "會議名稱": "OPTIC 2019",
+      "作者群": "Zhen-Kai Yeh, Wei-Xiang Hong, Hung-Ying Chang, and Wen-Fung Liu"
+    },
+    {
+      "論文名稱": "The Novel Structure Hydrophone Based on a Fiber Bragg Grating",
+      "會議名稱": "OPTIC2019",
+      "作者群": "Teng-Lung Wang, Hung-Ying Chang, Wen-Fung Liu, and Shien-Kuei Liaw"
+    },
+    {
+      "論文名稱": "Fiber Bragg Grating direct-electric field sensor",
+      "會議名稱": "OPTIC 2019",
+      "作者群": "Qian- Yi Hong, Hung-Ying Chang, Wen-Fung Liu"
+    },
+    {
+      "論文名稱": "The Liquid Level Sensor Based on the Fabry-Pérot Cavity and Fiber Bragg Gratings",
+      "會議名稱": "OECC2019",
+      "作者群": "Fang-Kuei Liou, Hung-Ying Chang, Wen-Fung Liu, and Cheng-Wen Wu,"
+    },
+    {
+      "論文名稱": "The Fiber Sensor Based on the Fabry-Pérot Cavity and Fiber Bragg Gratings",
+      "會議名稱": "ICSS 2019",
+      "作者群": "Hung-Ying Chang, Hsin-Yu Lin, Wen-Fung Liu, and Ming-Yue Fu"
+    },
+    {
+      "論文名稱": "Demonstration of Cavity Enhanced Absorption with a Tapered Fiber Inside a Frequency-Stabilized Hybrid Fiber Cavity",
+      "會議名稱": "2019台灣物理年會暨科技部計畫成果發表會",
+      "作者群": "Yang-Hong Lou*, Tyson Lin, Che-Chung Chou, Chien-Jen Tang, Wen-Fung Liu"
+    },
+    {
+      "論文名稱": "Fiber Bragg Grating Based on the arc discharge technique",
+      "會議名稱": "OPTIC'2018",
+      "作者群": "Hsin-Yu Lin, Fang-Kuei Liou, Hung-Ying Chang, and Wen-Fung Liu"
+    },
+    {
+      "論文名稱": "A fiber hydrophone by using a silicon thin-film",
+      "會議名稱": "OPTIC'2018",
+      "作者群": "Teng-Lung Wang, Jia-Guan Li, Hung-Ying Chang, Wen-Fung Liu, and Ming-Yue Fu"
+    },
+    {
+      "論文名稱": "Flat Temperature Sensor based on Fiber Bragg Gratings",
+      "會議名稱": "OPTIC'2018",
+      "作者群": "Dong-Lin Tsai, Teng-Lung Wang, Hung-Ying Chang, Ming-Yue Fu, and Wen-Fung Liu"
+    },
+    {
+      "論文名稱": "Acid and Alkaline Sensors Based on Optical Fibers",
+      "會議名稱": "OPTIC'2018",
+      "作者群": "Wei-Ting Hung, Fang-Kuei Liou, Hung-Ying Chang, Ming-Yue Fu, and Wen-Fung Liu"
+    },
+    {
+      "論文名稱": "Hydrophone by Combining A Fiber Grating and Silicon Thin –film",
+      "會議名稱": "ＯＦＳ’２０１８",
+      "作者群": "Hung-Ying Chang, Jia-Guan Li, Chi-Fang Chen, Wen-Fung Liu and Ming-Yue Fu"
+    },
+    {
+      "論文名稱": "The Liquid Velocimeter Based on Fiber Bragg Gratings",
+      "會議名稱": "OFS’2018",
+      "作者群": "Hung -Ying Chang , Ming -Yue Fu and Wen -Fung Liu"
+    },
+    {
+      "論文名稱": "Simultaneous Measurement of Tilt Angle and Temperature Based on a Taper-Shaped Polymer Incorporating a Fiber Bragg Grating",
+      "會議名稱": "CLEOPR",
+      "作者群": "Jhe-Yong Guo,Meng-Shan Wu, Cheng-Ling Lee,Wen-Fung Liu, and Chi-Feng Lin"
+    },
+    {
+      "論文名稱": "The Fiber Grating Rain Gauge",
+      "會議名稱": "ISNE’2018",
+      "作者群": "Chan-Yu Kuo, Sih-Yuan Chen, Hung-Ying Chang, and Wen-Fung Liu"
+    },
+    {
+      "論文名稱": "The Fiber Anemometer Based on Fiber Gratings",
+      "會議名稱": "IEEE　ICASI 2018",
+      "作者群": "Chuan-Ying Huang, Pei-Wen Chan, Hung-Ying Chang, Wen-Fung Liu"
+    },
+    {
+      "論文名稱": "Ethanol sensor based on a long period fiber grating combined with Polyamide Thin-Film",
+      "會議名稱": "OPTIC2017",
+      "作者群": "H. Y. Liao, H. Y. Chang, F. Ku, W. L. Lee, M. Y. Fu, and Wen-Fung Liu"
+    },
+    {
+      "論文名稱": "The Rain Gauge Based on a Fiber Bragg Grating",
+      "會議名稱": "OPTIC2017",
+      "作者群": "S. Y. Chen, H. Y. Chang, C. Y. Kuo, C. Y. Huang, and W. F. Liu"
+    },
+    {
+      "論文名稱": "Anemometer Based on Fiber Bragg Grating",
+      "會議名稱": "OPTIC2017",
+      "作者群": "P. W. Chan, H. Y. Chang, T. L. Wang, J. N. Cheng, and W. F. Liu"
+    },
+    {
+      "論文名稱": "Side-Polishing a Tilted-Fiber Bragg Grating for Measuring Temperature and Index",
+      "會議名稱": "OPTIC2017",
+      "作者群": "W. L. Liu, Y. H. Shi, H. Y. Chang, F. K. Liou, and W. F. Liu"
+    },
+    {
+      "論文名稱": "Simultaneous Measurement of Temperature and Refractive Index by Using A Coaxial-Fiber-Based Fabry-Pérot Interferometer and A Fiber Bragg Grating",
+      "會議名稱": "OPTIC2017",
+      "作者群": "H. N. Wang, C. L. Yeh, H. Y. Chang, W. F. Liu, C. P. Yu"
+    },
+    {
+      "論文名稱": "A Bi-parameter Sensor Based on A Fiber Fabry-Pérot Interferometer Combined with A Fiber Bragg Grating",
+      "會議名稱": "OPTIC2017",
+      "作者群": "S. W. Wang, H. T. Peng, H. Y. Chang, W. F. Liu, C. P. Yu"
+    },
+    {
+      "論文名稱": "Rotational Speed Sensors Based On A Fiber Bragg Grating",
+      "會議名稱": "22th OptoElectronics and Communications Conference (OECC 2017)",
+      "作者群": "Hung Ying Chang, Chuan Ying Huang, Wen‐Fung Liu, Jia‐Guan Li, Chan‐Yu Kuo, Ming‐Yue Fu"
+    },
+    {
+      "論文名稱": "The Ethanol Gas Sensor By Using A Long Period Grating And ZnO-SnO2 Materials",
+      "會議名稱": "22th OptoElectronics and Communications Conference(OECC 2017)",
+      "作者群": "Hung‐Ying Chang, Wen‐Fung Liu, Teng‐Lung Wang, Ming‐Yue Fu, Hsing‐Cheng Chang, Yu‐Liang Hsu"
+    },
+    {
+      "論文名稱": "Relative Humidity and Temperature Sensor Based on Polished Tilted Fiber Bragg Gratings",
+      "會議名稱": "22th OptoElectronics and Communications Conference (OECC 2017)",
+      "作者群": "Jui‐Nan Cheng, Hung‐Ying Chang, Wen‐Fung Liu, Po‐Chia Huang, Fan Ku, Yu‐Chung Chang"
+    },
+    {
+      "論文名稱": "The Ethanol Gas Sensor Base on Long Period Grating",
+      "會議名稱": "OPTIC2016",
+      "作者群": "T.L. Wang, C.Y. Kuo, H.Y. Chang, W.C. Huang, H.C. Chang, and W.F. Liu"
+    },
+    {
+      "論文名稱": "Relative Humidity -Temperature Sensor Based on Polished Tilted Fiber Bragg Gratings",
+      "會議名稱": "OPTIC2016",
+      "作者群": "J.Z. Li, F. Ku, H.Y. Chang, M.Y. Fu, J.N. Cheng, and W.F. Liu"
+    },
+    {
+      "論文名稱": "Surface Plasmon Resonance Liquid Refractive Index Sensor Based on Tilted Gratings",
+      "會議名稱": "OPTIC2016",
+      "作者群": "H.C. Chang, W.F. Liu, K.T. Li, Y.H. Chen, I.N. Chang, and H.Y. Chang"
+    },
+    {
+      "論文名稱": "Optical Differential Pressure Sensor Using Two Fiber Bragg Gratings",
+      "會議名稱": "OPTIC2016",
+      "作者群": "C.H. Chen, P.C. Huang, H.Y. Chang, M.Y. Fu, and W.F Liu"
+    },
+    {
+      "論文名稱": "Rotational Speed Sensor Based on a Fiber Bragg Grating",
+      "會議名稱": "OPTIC2016",
+      "作者群": "H.Y. Chen, J.G. Li, H.Y. Chang, C.Y. Huang, and W.F. Liu"
+    },
+    {
+      "論文名稱": "High-Order Bragg Gratings in D-Shape SMF-28 by an 800nm Femtosecond Laser Ablation and Micromachining System",
+      "會議名稱": "OPTIC2016",
+      "作者群": "N.H. Sun, K.K. Huang, C.H. Chen, J.S. Chiang, and W.F. Liu"
+    },
+    {
+      "論文名稱": "Fiber Bragg grating based narrow linewidth external cavity fiber laser for sensing applications",
+      "會議名稱": "OPTIC2016",
+      "作者群": "C.H. Chen, W.F. Liu, M.S. Chang, and Y.C. Chang"
+    },
+    {
+      "論文名稱": "The magnetic sensor based on Air-Gap Long Period Fiber Gratings",
+      "會議名稱": " ISCEAS'2015.",
+      "作者群": "Hung-Ying Chang, Chuan-Ying Huang, Gang-Show Fan, Hao-Jan Sheng, Wen-Fung Liu,Ming-Yue Fu"
+    },
+    {
+      "論文名稱": "A High-sensitivity Two-dimensional Inclinometer Based on Two Etched-chirped Fiber Gratings",
+      "會議名稱": "OECC2016",
+      "作者群": "Hung-Ying Chang, Kuan-Ting Li, Po-Chia Huang, Jung-Sheng Chiang, Nai-Hsiang Sun and Wen-Fung Liu,"
+    },
+    {
+      "論文名稱": "A High-sensitivity Two-dimensional Inclinometer Based on Two-array-etched-chirped Fiber Gratings",
+      "會議名稱": "CLEO'2016",
+      "作者群": "Hung-Ying Chang, Chin-Chi Liu, Yu-Chung Chang, Wen-Fung Liu"
+    },
+    {
+      "論文名稱": "A Bending Sensor Basd on a Tilted Fiber Bragg Grating",
+      "會議名稱": "OPTIC'2015",
+      "作者群": "Chih-He Tu, Liang-Hung Liu, Hung-Ying Chang, Jia-Guan Li, Ming-Yue Fu, and Wen-Fung Liu"
+    },
+    {
+      "論文名稱": "A High-sensitivity Dual-axis Fiber Inclinometer Based on Two Chirped Fiber Gratings",
+      "會議名稱": "OPTIC'2015",
+      "作者群": "Chin-Chi Liu, Hung-Ying Chang, Kuan-Ting Li, Po-Chia Huang, Hao-Jan Sheng, Hai-Tao Sun, and Wen-Fung Liu"
+    },
+    {
+      "論文名稱": "Simultaneous Measurement of Temperature and Surrounding Refractive Index by Combining a Fiber Bragg Grating an a Mach-Zehnder Interferometer",
+      "會議名稱": "OPTIC'2015",
+      "作者群": "Cheng-Yen Yu, Hsiang-Ting Peng, Hung-Ying Chang, Wen-Fung Liu, and Chin-Ping Yu"
+    },
+    {
+      "論文名稱": "Manufacture high order Bragg grating for fibers using high power femtosecond laser system",
+      "會議名稱": "OPTIC'2015",
+      "作者群": "Nai-Hsiang Sun, Kuo-Kai Huang, Chien-Hsing Chen, Jung-Sheng Chiang, and Wen-Fung Liu"
+    },
+    {
+      "論文名稱": "A Dual-Parameter Sensor Based on No-Core Fiber and A Fiber Bragg Grating",
+      "會議名稱": "OECC'2014",
+      "作者群": "G. R. Lin, C. C. Liu, M. Y. Fu, C. L. Lee, W. F. Liu, and R. Kashyap"
+    },
+    {
+      "論文名稱": "A high-sensitivity fiber liquid-level indicator",
+      "會議名稱": "OECC'2014",
+      "作者群": "H.Y. Chang, L.S. Huang, G.S. Fan, C.Y. Huang, H.T. Sun, H.J. Sheng and W.F. Liu"
+    },
+    {
+      "論文名稱": "Optical Glucose Sensor based on a Fiber Bragg Grating Concatenated with a Long Period Grating",
+      "會議名稱": "OECC'2014",
+      "作者群": "Ming-Yue Fu, Hung-Ying Chang, Jin-Hone He, Chin-Chi Liu, Li-Wei Chen, Guei-Ru Lin, Wen-Fung Liu"
+    },
+    {
+      "論文名稱": "Simultaneous Temperature and Bending Curvature Measurement Using LPG and FBG",
+      "會議名稱": "OPTIC'2014",
+      "作者群": "Cheng-Yu Lin, Gang-Show Fan, Hung-Ying Chang, Ming-Yue Fu and Wen-Fung Liu"
+    },
+    {
+      "論文名稱": "Three-Dimension Tilted-meter Based on Chirped Fiber Bragg Grating",
+      "會議名稱": "OPTIC'2014",
+      "作者群": "Yu-Lin Nian, Jin-Ji Liu, Hung-Ying Chang, Chuan-Ying Huang, Hao-Jan Sheng and Wen-Fung Liu"
+    },
+    {
+      "論文名稱": "Stress-Induced Long Period Grating in a Side-Polished Fiber for Sensing Salinity",
+      "會議名稱": "OPTIC'2014",
+      "作者群": "Ming-Yue Fu, Hung-Ying Chang, Jin-Ji Liu, Wen-Fung Liu, Ting-Wei Chang, Guang-Yu Chen"
+    },
+    {
+      "論文名稱": "A high-sensitivity Dual-axis Fiber Inclinometer Based on Two Chirped Fiber Gratings",
+      "會議名稱": "ISCEAS",
+      "作者群": "Chin-Chi Liu, Li-Wei Chen, Wen-Fung Liu, Hung-Ying Chang, Ming-Yue Fu, Kuan-Ting Li, Hsing-Cheng Chang"
+    },
+    {
+      "論文名稱": "The magnetic sensor based on Air-Gap Long Period Fiber Gratings",
+      "會議名稱": "ISCEAS",
+      "作者群": "Hung-Ying Chang, Chuan-Ying Huang, Gang-Show Fan, Hao-Jan Sheng, Wen-Fung Liu, Ming-Yue Fu"
+    },
+    {
+      "論文名稱": "A Dual-Parameter Sensor Based on a No-Core Fiber and Fiber Bragg Grating",
+      "會議名稱": "OECC/ACOFT'2014",
+      "作者群": "G.R. Lin, C.C.Liu, M.Y. Fu, C.L. Lee, W.F. Liu, and R. Kashyap"
+    },
+    {
+      "論文名稱": "A high-sensitivity Fiber Liquid-level Indicator",
+      "會議名稱": "OECC/ACOFT'2014",
+      "作者群": "H.Y. Chang, L.S. Huang, G.S. Fan, C.y. Huang, H.T. Sun, H.J. Sheng and W.F. Liu"
+    },
+    {
+      "論文名稱": "Optical Glucose Sensor based on a Fiber Bragg Grating Concatenated with a Long Period Grating",
+      "會議名稱": "OECC/ACOFT'2014",
+      "作者群": "Ming-Yue Fu, Hung-Ying Chang, Jin-Hone He, Chin-Chi Liu, Li-Wei Chen, Guei-Ru Lin and Wen-Fung Liu"
+    },
+    {
+      "論文名稱": "Distributed and Micro-Nano-structured Fiber Sensors",
+      "會議名稱": "23th International Conference on Optical Fiber Sensors",
+      "作者群": "Guei R. Lin,Mohamad D.Baiad, mathieu Gagne, Wen-Fung Liu, Raman Kashyap"
+    },
+    {
+      "論文名稱": "A novel referactive index sensor based on an induced micro-structure fiber",
+      "會議名稱": "23th International Conference on Optical Fibre Sensors(OFS’23)",
+      "作者群": "Guei R. Lin, Mohamad D. Baiad, Mathieu Gagne, Wen-Fung Liu, Raman Kashyap"
+    },
+    {
+      "論文名稱": "Transmission and Reflection of Gaussian Apodization Fiber Brag Gratings",
+      "會議名稱": "ISNE’2014",
+      "作者群": "Nai-Hsiang Sun, Shih-Cing Lei, Tsum-Yen He, Jia-Ming Hu, Yu-Wei Liu, Jung-Sheng Chiang, Wen-Fung Liu,"
+    },
+    {
+      "論文名稱": "A high sensitive liquid-level fiber sensor",
+      "會議名稱": "OPTIC'2013",
+      "作者群": "L.S. Huang, H.Y. Chang, G.S. Fan, C.Y. Huang, H.J. Sheng, W.F. Liu"
+    },
+    {
+      "論文名稱": "A fiber Bragg grating velocity-meter",
+      "會議名稱": "OPTIC'2013",
+      "作者群": "C.Y. Chen, J.H. He, C.C. Liu, Z.L. Huang, M.Y. Fu, H.T. Sun, G.R. Lin, and W.F. Liu"
+    },
+    {
+      "論文名稱": "Optical Salinity Sensor based on a Fiber Bragg Grating Cascaded a Long Period Grating",
+      "會議名稱": "OPTIC'2013",
+      "作者群": "Hung-Ying Chang, Li-Wei Chen, Si-Rong He, Shing-Jiuan Liu, Hao-Jan Sheng, Ming-Yue Fu, Wen-Fung Liu"
+    },
+    {
+      "論文名稱": "Optical fiber tilt sensor by using two long period fiber gratings",
+      "會議名稱": "2013 Asia-pacific Radio Science Conference (AP-RASC’13)",
+      "作者群": "Hung-Ying Chang, Lung-Shiang Huang, Chin-Chi Liu, Meng-Fu Tsai, Hao-Jan Sheng, Guei-Ru Lin, Ming-Yue Fu, Wen-Fung Liu"
+    },
+    {
+      "論文名稱": "Optical fiber tilt sensor by using two long period gratings",
+      "會議名稱": "2013 Asia-Pacific Radio Science Conference",
+      "作者群": "Hung-Ying Chang, Lung-Shiang Huang, Chin-Chi Liu, Meng-Fu Tsai, Hao-Jan Sheng, Guei-Ru Lin, Ming-Yue Fu, and Wen-Fung Liu"
+    },
+    {
+      "論文名稱": "A Fiber Sensor Based on a No-Core Fiber Cascaded with a Fiber Bragg Grating",
+      "會議名稱": "ISNE’2014",
+      "作者群": "G.R.Lin, C.C. Liu, H.T. Sun, M.Y. Fu, C.L. Lee, W.F. Liu"
+    },
+    {
+      "論文名稱": " A high-sensitivity fiber liquid-meter",
+      "會議名稱": " ISNE’2014",
+      "作者群": "L.S. Huang, H.Y. Chang, C.C. Liu, C.Y. Huang, G.R. Lin, H.J. Sheng, and W.F. Liu"
+    },
+    {
+      "論文名稱": "A rotational angle sensor based on fiber bragg gratings",
+      "會議名稱": "ICAIT'2013",
+      "作者群": "Jin-Hone He; Pei-Tsung Tsai; Hao-Jan Sheng; Ming-Shin Lin; Hai-Tao Sun; Wen-Fung Liu; Guei-Ru Lin; Meng-Fu Tsai"
+    },
+    {
+      "論文名稱": "Fiber sensors based on fiber gratings",
+      "會議名稱": "ICAIT'2013",
+      "作者群": "Wen-Fung Liu"
+    },
+    {
+      "論文名稱": "Fiber-optic Micro-bending Sensor Using the multimode Interference",
+      "會議名稱": "CLEO-PR &OECC/PS'2013",
+      "作者群": "Guei-Ru Lin, Lung-Shiang Huang, Jin-Hone He, Ming-Yue Fu, Wen-Fung Liu, and Raman Kashyap"
+    },
+    {
+      "論文名稱": "Coupling Light into Fiber Using Second Order Fiber Bragg Gratings",
+      "會議名稱": "CLEO/QELS'2013",
+      "作者群": " Nai-Hsiang Sun, Chia-Ming Hu, Jung-Sheng Chiang, Wen-Fung Liu, Gary A. Evans, and Jerome K. Butler"
+    },
+    {
+      "論文名稱": "A random-rotational angle fiber sensor",
+      "會議名稱": "IEEE Next-Generation Electronics (ISNE 2013)",
+      "作者群": "Ming-Shin Lin; Pei-Tsung Tsai; Hao-Jan Sheng; Guei-Ru Lin; Ming-Yue Fu; Hai-Tao Sun; Wen-Fung Liu"
+    },
+    {
+      "論文名稱": "A refractive-index fiber sensor by using no-core fibers",
+      "會議名稱": "IEEE, Next-Generation Electronics (ISNE 2013)",
+      "作者群": " Lung-Shiang Huang; Guei-Ru Lin; Ming-Yue Fu; Hao-Jan Sheng; Hai-Tao Sun; Wen-Fung Liu"
+    },
+    {
+      "論文名稱": "Transmission and reflection characteristics of fiber Bragg gratings",
+      "會議名稱": "IEEE Next-Generation Electronics (ISNE 2013)",
+      "作者群": "Nai-Hsiang Sun; Chia-Ming Hu; Fang-Jui Chang; Tsum-Yen He; Guan-Hua Chen; Yu-Wei Liu; Jung-Sheng Chiang; Tao Li; Wen-Fung Liu"
+    },
+    {
+      "論文名稱": "360-degree Rotation Sensor Based on a Chirped Fiber Grating",
+      "會議名稱": "OPTIC 2012",
+      "作者群": "Pei-Tsung Tsai, Hao-Jan Sheng, Jia-Wei He, Lung-Shiang Huang, Jin-Hone He, Ming-Yue Fu, and Wen-Fung Liu"
+    },
+    {
+      "論文名稱": "A High Sensitivity Micro-displacement Sensor Based on The Multimode Interference in No-core Fiber",
+      "會議名稱": "OPTIC 2012",
+      "作者群": "Guei-Ru Lin, Chih-Yuan Hsiao, Hung-Ying Chang, Meng-Fu Tsai, Ming-Yue Fu, and Wen-Fung Liu"
+    },
+    {
+      "論文名稱": "Refractive Index Sensing Characteristics of Hybrid Fiber Gratings",
+      "會議名稱": "OPTIC 2012",
+      "作者群": "Ming-Yue Fu, Hung-Ying Chang, Guei-Ru Lin, Hao-Jan Sheng, Wen-Fung Liu"
+    },
+    {
+      "論文名稱": "不同曝光時間影響二階光纖光柵特性之研究",
+      "會議名稱": "OPTIC 2012",
+      "作者群": "孫迺翔、 胡家銘、 張芳睿、 蔣榮生、 劉文豐"
+    },
+    {
+      "論文名稱": "Fiber pH sensor based on long period gratings",
+      "會議名稱": "IEEE Sensors Conference",
+      "作者群": "Jiang-Chiou Mau; Guei-Ru Lin; Ming-Yue Fu; Wen-Fung Liu"
+    },
+    {
+      "論文名稱": "Temperature sensors based on D-shaped Fiber Bragg Grating coated with different thin films",
+      "會議名稱": "IEEE Sensors Conference",
+      "作者群": "Chuen-Lin Tien; Li-Chieh Chen; Hsiang-Yi Chiang; Wen-Fung Liu; Hsi-Fu Shih"
+    },
+    {
+      "論文名稱": "具螢光檢測結構之光纖多氣體感測器",
+      "會議名稱": "2012光電與通訊工程研討會",
+      "作者群": "張興政、賴啟智、黃建勳、陳雅惠、張一楠、林榮志、劉文豐"
+    },
+    {
+      "論文名稱": "Study of different cantilever materials used in a random rotating angle sensor",
+      "會議名稱": "OPTIC 2012",
+      "作者群": "Chieh-His Chang, Hao-Jan Sheng, Chin-Chi Liu, Seuan-Feng Liao, Ming-Shin Lin, Jiang-Chiou Mau, Sheau-Shong Bor, Ding-Wei Huang and Wen-Fung Liu"
+    },
+    {
+      "論文名稱": "Real and reactive power sensors based on fiber grating",
+      "會議名稱": "2012 IEEE/ASME International Conference",
+      "作者群": "Chin-Hsing Cheng; Li-Min Lin; Wen-Fung Liu"
+    },
+    {
+      "論文名稱": "A three-dimension Tilted-meter Based on Fiber Gratings",
+      "會議名稱": "17th Opto-Electronics and Communications Conference(OECC'2012)",
+      "作者群": "Hung-Ying Chang, Hao-Jan Sheng, Guei-Ru Lin, Chu-Yun Chen, Yan-Yu Lin, Jiang-Chiou Mau, Ming-Yue Fu, and Wen-Fung Liu"
+    },
+    {
+      "論文名稱": "Random-Rotational Angle Sensor Based on Fiber Bragg Gratings",
+      "會議名稱": "17th Opto-Electronics and Communications Conference(OECC'2102)",
+      "作者群": "Hao-Jan Sheng, Guei-Ru Lin, Pei-Tsung Tsai, Chen-An Yang, Ming-Hao Kuo, Hai-Tao Sun, Ming-Yue Fu, and Wen-Fung Liu"
+    },
+    {
+      "論文名稱": "光纖光柵之動態溫度補償與重量量測",
+      "會議名稱": "中國機械工程學會第28屆全國學術研討會",
+      "作者群": "張興政，王唯儒，張一楠，陳雅惠，林榮志，劉文豐"
+    },
+    {
+      "論文名稱": "The fiber sensor based on the cascaded PMFBG and LPG",
+      "會議名稱": "International Photonics Conference 2011 (IPC 2011)",
+      "作者群": "Pei-Ping Wu, Guei-Ru Lin, Chen-An Yang, Ming-Yue Fu, Jiang-Chiou Mau, Hai-Tao Sun, and Wen-Fung Liu"
+    },
+    {
+      "論文名稱": "Rayleigh Scattering Losses in Fiber Bragg Gratings",
+      "會議名稱": "nternational Photonics Conference 2011 (IPC 2011)",
+      "作者群": "Nai-Hsiang Sun, Chia-Ming Hu, Yuan-Ju Cheng, Jung-Sheng Chiang, Shih-Chiang Lin, Wen-Fung Liu, Po-Jui Chiang, Gary A. Evans, and Jerome K. Butler"
+    },
+    {
+      "論文名稱": "Refractive Index Sensor Base on Hetero-Core-Structure Fiber",
+      "會議名稱": "Conference on Laser and Electro Optics/ Pacific Rim, (CLEO/PR11)",
+      "作者群": "Guei-Ru Lin, Jiang-Chiou Mau, Pei-Tsung Tsai, Hai-Tao Sun, Hao-Jan Sheng, Ming-Yue Fu, and Wen-Fung Liu"
+    },
+    {
+      "論文名稱": "Volatile-Organic Gas Fiber Sensor based on Air-Gap Long Period Fiber Grating",
+      "會議名稱": "International Quantum Electronics Conference / Conference on Lasers and Electro-Optics Pacific Rim (IQEC/CLEO Pacific Rim)",
+      "作者群": "Guei-Ru Lin, En-Chiang Chang, Pei-Ping Wu, Hai-Tao Sun, Hao-Jan Sheng, Ming-Yue Fu, and Wen-Fung Liu"
+    },
+    {
+      "論文名稱": "The Index Sensor Based on Air-Gap Long-Period Fiber Gratings on Panda Fibers",
+      "會議名稱": "International Photonics Conference 2011 (IPC 2011)",
+      "作者群": "Pei-Ping Wu, Yan-Yu Lin, Guei-Ru Lin, Chieh-His Chang, Ming-Yue Fu, Wen-Fung Liu, and Hao-Jan Sheng, Chuen-Lin Tien"
+    },
+    {
+      "論文名稱": "Reactive Current Sensor Based on Fiber Bragg Grating and a Piezo-Electric Transducer",
+      "會議名稱": "SOPO'2012",
+      "作者群": "Chin-Hsing Cheng; Kuo-Liang Cheng; Wen-Fung Liu"
+    },
+    {
+      "論文名稱": "Phase Dependent Second-Order Fiber Bragg Gratings",
+      "會議名稱": "Quantum Electronics and Laser Science Conference 2011",
+      "作者群": "Nai-Hsiang Sun, Chia-Ming Hu, Yuan-Ju Cheng, Shih-Chiang Lin, Jung-Sheng Chiang, Wen-Fung Liu, Gary A. Evans, and Jerome K. Butler"
+    },
+    {
+      "論文名稱": "A tilt sensor based on an index fiber sensing element",
+      "會議名稱": "OPT'2010",
+      "作者群": "Fang-Yen Lo, Chih-Hung Chiu, Hao-Jan Sheng, Chieh-His Chang, Wen-Fung Liu, Sheau-Shong Bor"
+    },
+    {
+      "論文名稱": "Mini Random Rotational Position Sensor Based On Fiber Bragg Grating",
+      "會議名稱": "OPT'2010",
+      "作者群": "Wei-Yun Lee, Hao-Jan Sheng, Pei-Tsung Tsai, Chen-An Yang, Hai-Tao Sun and Wen-Fung Liu"
+    },
+    {
+      "論文名稱": "Random-Rotational Angle Sensor Based on Fiber Bragg Gratings",
+      "會議名稱": "OPT'2010",
+      "作者群": "Ming-Hao Kuo, Pei-Tsung Tsai, Hao-Jan Sheng, Guei-Ru Lin, Ming-Yue Fu, Hai-Tao Sun and Wen-Fung Liu"
+    },
+    {
+      "論文名稱": "Study for the Refractive Index Sensor based on a Hetero-core-structure Fiber",
+      "會議名稱": "OPT'2010",
+      "作者群": "Guei-Ru Lin, Ming-Yue Fu, Wen-Fung Liu, Jiang-Chiou Mau, and Hai-Tao Sun"
+    },
+    {
+      "論文名稱": "pH Sensor based on Air-Gap Long Period Fiber Grating",
+      "會議名稱": "OPT'2010",
+      "作者群": "He-Long Syu, Li-His Chen, Pei-Ping Wu, Yan-Yu Lin, Guei-Ru Lin, Wen-Fung Liu, and Chuen-Lin Tien"
+    },
+    {
+      "論文名稱": "Double Inputs Fiber Bragg Gratings",
+      "會議名稱": "OPT'2010",
+      "作者群": "Chia-Ming Hu, Nai-Hsiang Sun, Shih-Chiang Lin, Jung-Sheng Chiang, and Wen-Fung Liu"
+    },
+    {
+      "論文名稱": "Bending curvature sensor based on double-sided polishing long period fiber gratings",
+      "會議名稱": "The 16th Microoptics Conference",
+      "作者群": "Chuen-Lin Tien, Hung-Yi Hsu, Yu-Chung Chen, Tsai-Wei Lin, Wen-Feng Liu"
+    },
+    {
+      "論文名稱": "Bending fiber sensor based on side-polished fiber Bragg gratings",
+      "會議名稱": "Cross Strait Four-Regional Radio Science and Wireless Technology Conference",
+      "作者群": "Chih-Hung Chiu, Sheng-Zeng Peng, Guei-Ru Lin, Wen-Fung Liu, Ming-Yue Fu, Hao-Jan Sheng, Sheau-Shong Bor, and Hai-Tao Sun"
+    },
+    {
+      "論文名稱": "Simultaneous Temperature and Pressure Measurement Using a Packaged FBG and LPG",
+      "會議名稱": "15th Opto Electronics and Communications Conference (OECC)",
+      "作者群": "Yu-Li Wang, C. H. Yang, H. Y. Chang Jan, Jiang-Chiou Mau, M.Y. Fu, and W. F. Liu"
+    },
+    {
+      "論文名稱": "Liquid Index Sensor Based on a Multimode Air-Gap Long Period Fiber Grating",
+      "會議名稱": "15th Opto Electronics and Communications Conference (OECC)",
+      "作者群": "Guei-Ru Lin, Pei-Ping Wu, En-Chiang Chang, Yu-Li Wang, Ming-Yue Fu, and Wen-Fung Liu"
+    },
+    {
+      "論文名稱": "Fiber-Optic Humidity Sensor Based on an Air-Gap Long Period Fiber Grating",
+      "會議名稱": "7th International Conference on Optics-photonics Design & Fabrication",
+      "作者群": "Guei-Ru Lin, Chao-Hsiang Yang, Yu-Li Wang, Hao-Jan Sheng, Ming-Yue Fu, Wen-Fung Liu, Cheng-Wen Wu"
+    },
+    {
+      "論文名稱": "高靈敏度長週期光纖光柵液體折射率計",
+      "會議名稱": "第七屆現代通訊科技應用學術研討會",
+      "作者群": "徐宏一，陳俞仲，陳立杰，田春林，劉文豐"
+    },
+    {
+      "論文名稱": "超結構光纖光柵在單模光纖與多模光纖之感測特性比較",
+      "會議名稱": "第八屆現代通訊科技應用學術研討會",
+      "作者群": "吳琲平, 彭信文, 林桂如, 傅明宇, 劉文豐, 柏小松"
+    },
+    {
+      "論文名稱": "長週期光子晶體光纖光柵氨氣感測器",
+      "會議名稱": "第八屆現代通訊科技應用學術研討會",
+      "作者群": "蔡佩璁, 林世川, 林桂如, 楊兆祥, 申浩然, 劉文豐"
+    },
+    {
+      "論文名稱": "側面拋光參數對布拉格光纖光柵感測曲率及彎曲方向之影響",
+      "會議名稱": "OPT 2009台灣光電科技研討會",
+      "作者群": "陳立杰, 陳俞仲, 徐宏一, 鄭子仲, 田春林, 劉文豐"
+    },
+    {
+      "論文名稱": "布拉格光纖光柵微彎曲量測之研究",
+      "會議名稱": "OPT 2009台灣光電科技研討會",
+      "作者群": "徐宏一，陳俞仲，陳立杰，田春林，劉文豐"
+    },
+    {
+      "論文名稱": "D形布拉格光纖光柵感測器對環境溫度監控之研究",
+      "會議名稱": "OPT 2009台灣光電科技研討會",
+      "作者群": "陳立杰, 徐宏一, 陳俞仲, 田春林, 劉文豐"
+    },
+    {
+      "論文名稱": "D形布拉格光纖光柵液體折射率計",
+      "會議名稱": "OPT 2009台灣光電科技研討會",
+      "作者群": "徐宏一，張峻嘉，陳俞仲，陳立杰，田春林*，劉文豐"
+    },
+    {
+      "論文名稱": "Optical fiber sensor based on air-gap long period gratings",
+      "會議名稱": "OPT 2009 台灣光電科技研討會",
+      "作者群": "Gui-Ru Lin, Wen-Fung Liu, Hao-Jan Sheng, Ming-Yue Fu, P. T. Tsai, H. Y. Chang Jan, and Chuen-Lin Tien"
+    },
+    {
+      "論文名稱": "Optical Fiber Sensor Based on Air-Gap Long Period Fiber Gratings in Photonic Crystal Fibers",
+      "會議名稱": "OPT'2009台灣光電科技研討會",
+      "作者群": "G. R. Lin, W. F. Liu, H. J. Sheng, and M. Y. Fu, P. T. Tsai, H. Y. Chang Jan, C. L. Tien"
+    },
+    {
+      "論文名稱": "Optical Fiber Sensor with FBG and LPG for Simutaneous Measuring Temperature and Pressure",
+      "會議名稱": "OPT 2009台灣光電科技研討會",
+      "作者群": "H. G. Cai, Y. Y. Lin, C. H. Yang, E. C. Chang, M. Y. Fu, and W. F. Liu"
+    },
+    {
+      "論文名稱": "Air-Gap Long Period Fiber Grating based on Multimode Fibers",
+      "會議名稱": "OPT 2009台灣光電科技研討會",
+      "作者群": "M.C. Yi*, C.A. Yang, Y.L. Wang, P.P. Wu, E.C. Chang, G.R. Lin, and W.F. Liu"
+    },
+    {
+      "論文名稱": "光子晶體光纖光柵之損耗量測與分析",
+      "會議名稱": "OPT 2009台灣光電科技研討會",
+      "作者群": "陳佳明, 蔣榮生, 孫迺翔, 林士強, 劉文豐"
+    },
+    {
+      "論文名稱": "光纖Mach-Zehnder干涉器之量測",
+      "會議名稱": "OPT 2009台灣光電科技研討會",
+      "作者群": "林亦安, 孫迺翔, 林士強, 蔣榮生, 劉文豐"
+    },
+    {
+      "論文名稱": "氣隙型長週期光纖光柵在單模光纖與多模光纖之感測特性比較",
+      "會議名稱": "第四屆電資科技應用研討會",
+      "作者群": "張簡鴻宇, 易孟晴, 王佑立, 林桂如, 傅明宇, 劉文豐"
+    },
+    {
+      "論文名稱": "同時量測溫度與壓力之短週期與長週期串聯型光纖光柵感測器",
+      "會議名稱": "第四屆電資科技應用研討會",
+      "作者群": "楊兆祥, 林桂如, 傅明宇, 申浩然, 劉文豐"
+    },
+    {
+      "論文名稱": "Double-Sided Polishing Long Period Fiber Grating Sensors for Measuring Liquid Refractive Index",
+      "會議名稱": "Asia Communications and Photonics Conference",
+      "作者群": "Chuen-Lin Tien, Tsai-Wei Lin, Hung-Yi Hsu, Wen-Feng Liu"
+    },
+    {
+      "論文名稱": "Magnetic Field Sensor based on D-shaped Long Period Fiber Gratings",
+      "會議名稱": "SPIE conference on Advanced Sensor Technology and Applications",
+      "作者群": "Chuen-Lin Tien, Tsai-Wei Lin, Li-Chieh Chen, Wen-Feng Liu"
+    },
+    {
+      "論文名稱": "以D形布拉格光纖光柵感測彎曲方向與曲率",
+      "會議名稱": "2009海峽兩岸三地無線電科技研討會",
+      "作者群": "鄭子仲, 田春林, 林采薇, 陳立杰,劉文豐"
+    },
+    {
+      "論文名稱": "Fiber Sensors of Simultaneously Measuring Temperature and Humidity",
+      "會議名稱": "Cross Strait Tri-Regional Radio Science and Wireless Technology Conference",
+      "作者群": "Guei-Ru Lin, Wen-Fung Liu, Chao-Hsiang Yang ,Sheau-Shong Bor, Cheng-Wen Wu, Chuen-Lin Tien, Hai-Tao Sun, Hao-Jan Sheng, Ming-Yu Fu"
+    },
+    {
+      "論文名稱": "Simultaneous Measurement Of Bending Curvature and Axial Stress Based On Dual Fiber Bragg Gratings",
+      "會議名稱": "SPIE OIT'09 Conference on Advanced Sensor Technology and Applications",
+      "作者群": "50.\tChuen-Lin Tien, Tzu-Chung Cheng, Tsai-Wei Lin, Li-Chieh Chen, Gui-Ru Lin, Wen-Feng Liu"
+    },
+    {
+      "論文名稱": "以D形布拉格光纖光柵感測彎曲方向與曲率",
+      "會議名稱": "2009海峽兩岸三地無線電科技研討會",
+      "作者群": "鄭子仲, 田春林, 林采薇, 陳立杰,劉文豐"
+    },
+    {
+      "論文名稱": "An Ammonia Gas Sensor Based on Long-Period Gratings in Photonic Crystal Fibers",
+      "會議名稱": "Cross Strait Tri-Regional Radio Science and Wireless Technology Conference",
+      "作者群": "Shih-Chuan Lin, Kuei-Ru Lin,Yu-Li Wang, Jiang-Chiou Mau, Jian-Shian Wu, Jhih-Hong Ciou, Wen-Fung Liu, Lung-Ai, Hao-Jan Sheng"
+    },
+    {
+      "論文名稱": "A Magnetic Microsensor with Temperature Compensation based on Optical Mechatronic Technology",
+      "會議名稱": "6th Japanese-Mediterranean Workshop on Applied Electromagnetic Engineering for Magnetic, Superconducting and Nano Materials",
+      "作者群": "I-Nan Chang, Chi-Chih Lai, Hsing-Cheng Chang, Chang-Chou Hwang, Wen-Fung Liu, Chin-Hsiang Ma"
+    },
+    {
+      "論文名稱": "Second-Order Fiber Bragg Gratings",
+      "會議名稱": "OptoElectronic Communications Conference",
+      "作者群": "Nai-Hsiang Sun, Jiun-Jie Liau, Shih-Chiang Lin,Jung-Sheng Chiang, and Wen-Fung Liu"
+    },
+    {
+      "論文名稱": "光子晶體光纖之溼度感測研究",
+      "會議名稱": "第七屆現代通訊科技應用學術研討會",
+      "作者群": "王佑立,林世川,吳正文,劉文豐,田春林"
+    },
+    {
+      "論文名稱": "A new method for measuring bending curvature based on side-polished FBGs sensor",
+      "會議名稱": "2009中華民國物理學會年會",
+      "作者群": "T. C. Chung, C. L. Tien and W. F. Liu"
+    },
+    {
+      "論文名稱": "Humidity sensor based on a long-period fiber grating in photonic crystal fibers",
+      "會議名稱": "International Conherence on Optics and Photonics in Taiwan",
+      "作者群": "Da-Wei Shen, Shih-Chuan Lin, Wen-Fung Liu, Cheng-Wen Wu, Hao-Jan Sheng, and Ming-Yu Fu"
+    },
+    {
+      "論文名稱": "A fiber-optic humidity sensors based on air-gap long period gratings",
+      "會議名稱": "International Conference on Optics and Photonics in Taiwan",
+      "作者群": "Yi-Cheng Lee, Guei-Ru Lin, Wen-Fung Liu, Cheng-Wen Wu, Ming-Yue Fu, and Hao-Jan Sheng"
+    },
+    {
+      "論文名稱": "Ammonia Gas Sensor Based On Long-Period Gratings In Photonic Crystal Fiber",
+      "會議名稱": "OPT'2008",
+      "作者群": "Hung-Ting Lin, Shih-Chuan Lin, Jiang-Chiou Mau, Wen-Fung Liu, Long-Ai, and Hao-Jan Sheng"
+    },
+    {
+      "論文名稱": "A Fiber Sensor Based on Fiber Bragg gratings for Wide-range Current Measurement",
+      "會議名稱": "OPT'2008",
+      "作者群": "Hsin-Hong Lee, Fu-Hung Li, Hao-Jan Sheng , and Wen-Fung Liu"
+    },
+    {
+      "論文名稱": "A Fiber-Optic Humidity Sensor Based on Air-Gap Long Period Gratings",
+      "會議名稱": "OPT'2008",
+      "作者群": "Yi-Cheng Lee, Guei-Ru Lin, Wen-Fung Liu, Cheng-Wen Wu, Ming-Yue Fu, and Hao-Jan Sheng"
+    },
+    {
+      "論文名稱": "Temperature-independent pressure sensor with high-sensitivity using fiber Bragg gratings",
+      "會議名稱": "OPT'2008",
+      "作者群": "Hao-Jan Sheng, Wen-Fung Liu, Kuei-Ru Lin and Ming-Yue Fu"
+    },
+    {
+      "論文名稱": "Humidity sensor Based on a long-period fiber grating in Photonic Crystal Fibers",
+      "會議名稱": "OPT'2008",
+      "作者群": "Da-Wei Shen, Shih-Chuan Lin, Wen-Fung Liu"
+    },
+    {
+      "論文名稱": "A tunable dispersion compensator based on a fiber Bragg grating",
+      "會議名稱": "OPT'2008",
+      "作者群": "Jian-Shian Wu, Wen-Fung Liu, Sheau-Shong Bor, and Hao-Jan Sheng"
+    },
+    {
+      "論文名稱": "A Simple Method for Measuring the Refractive Index of Salt Solutions",
+      "會議名稱": "International Conference on Optics and Photonics in Taiwan (OPT'08)",
+      "作者群": "Chun-Chia Chang, Chuen-Lin Tien ,Tzu-Chung Cheng,Wen-Fung Liu"
+    },
+    {
+      "論文名稱": "Tuning Sensitivity of Liquid Refractive Index Sensor Based on Side-Polishing Fiber Bragg Gratings",
+      "會議名稱": "Asia Optical Fiber Communication & Optoelectronic Exposition & Conference (AOE)",
+      "作者群": "Chuen-Lin Tien, Tzu-Cheng Cheng, Chun-Chia Chang, Yu-Chung Cheng, Wen-Fung Liu"
+    },
+    {
+      "論文名稱": "以側磨布拉格光纖光柵感測蔗糖液體濃度",
+      "會議名稱": "海峽兩岸三地無線科技研討會(CSTRWC 08)",
+      "作者群": "張峻嘉，陳俞仲，田春林，鄭子仲，劉文豐"
+    },
+    {
+      "論文名稱": "參加International Laser, Light-wave and Microwave Conference並發表研究成果",
+      "會議名稱": "參加International Laser, Light-wave and Microwave Conference並發表研究成果",
+      "作者群": ""
+    },
+    {
+      "論文名稱": "The fiber liquid-level sensor based on a fiber Bragg grating",
+      "會議名稱": "WFOPC'2007",
+      "作者群": "Hao-Jan Sheng,Wen-Fung Liu,Sheau-Shong Bor and Hsing-Cheng Chang"
+    },
+    {
+      "論文名稱": "Side-polished fiber Bragg gratings for bending measurement",
+      "會議名稱": "WFOPC'2007",
+      "作者群": "Sheng-Zeng Peng, Wen-Fung Liu,Hao-Jan Sheng,Ming-Yue Fu,Chuen-Lin Tien, and Hong-Wei Chen"
+    },
+    {
+      "論文名稱": "光纖液體鹽度感測器",
+      "會議名稱": "2007台灣光電科技研討會",
+      "作者群": "蔡宏國, 楊元霖, 田清智, 劉文豐, 田春林"
+    },
+    {
+      "論文名稱": "A volatile-solvent gas fiber sensor based on superstructure fiber Bragg gratings",
+      "會議名稱": "OPT'2007",
+      "作者群": "Long Ai, Wen-Fung Liu, and Ming-Yue Fu"
+    },
+    {
+      "論文名稱": "超結構型光纖光柵側面拋光在量測彎曲的研究",
+      "會議名稱": "2007台灣光電科技研討會",
+      "作者群": "彭信文, 田清智, 劉文豐, 田春林, 陳宏偉, 鄭子仲"
+    },
+    {
+      "論文名稱": "側面拋光之光纖光柵在不同壓力的色散特性",
+      "會議名稱": "2007台灣光電科技研討會",
+      "作者群": "張恩獎, 蘇溥鈞, 申浩然, 吳建賢, 柏小松, 劉文豐, 許立根"
+    },
+    {
+      "論文名稱": "布拉格光纖光柵微型磁性感測器的研究",
+      "會議名稱": "2007台灣光電科技研討會",
+      "作者群": "姚志達, 田春林, 陳宏偉, ,劉文豐,藺善文"
+    },
+    {
+      "論文名稱": "光纖光柵液位計",
+      "會議名稱": "2007台灣光電科技研討會",
+      "作者群": "陳進銘, 陳景翔, 申浩然, ,劉文豐"
+    },
+    {
+      "論文名稱": "光纖光柵濕度感測器",
+      "會議名稱": "2007台灣光電科技研討會",
+      "作者群": "吳至晟, 劉益吉, 楊兆祥, 劉文豐"
+    },
+    {
+      "論文名稱": "布拉格光纖光柵電流計",
+      "會議名稱": "2007台灣光電科技研討會",
+      "作者群": "李馥宏, 申浩然, 劉文豐, 傅明宇"
+    },
+    {
+      "論文名稱": "長週期光纖光柵液體折射率計之研究",
+      "會議名稱": "2007台灣光電科技研討會",
+      "作者群": "姚志達, 田春林, 鄭子仲, 陳宏偉, ,劉文豐"
+    },
+    {
+      "論文名稱": "利用蝕刻長週期光纖光柵設計高增益之EDFA增益平坦濾波器",
+      "會議名稱": "2007台灣光電科技研討會",
+      "作者群": "王若穎, 江敏秀, 涂昌萬, 孫迺翔,.林士強,. 劉文豐"
+    },
+    {
+      "論文名稱": "Effect of dual complementary acoustic-wave modulations on high order-mode coupling in a tilted fiber grating",
+      "會議名稱": "2007台灣光電科技研討會",
+      "作者群": "傅明宇, 劉文豐, 毛建秋, 申浩然, 艾龍"
+    },
+    {
+      "論文名稱": "第一階布拉格光纖光柵之量測與模擬",
+      "會議名稱": "2007台灣光電科技研討會",
+      "作者群": "鍾昌華,.王建志, 廖俊傑, 孫迺翔,.林士強,. 劉文豐"
+    },
+    {
+      "論文名稱": "Generation of Chirped Long-Period Gratings in Photonic Crystal Fiber Using a Constant Period Corrugated Device",
+      "會議名稱": "ClEO/PR-2007",
+      "作者群": "Hou-Ren Chen, Kuei-Huei Lin,Ja-Hon Lin, Wen-Fung Liu, and Wen-Feng Hsieh"
+    },
+    {
+      "論文名稱": "A Novel Electro-Optical Magnetic Microsensor with Reducing Interference Packaging",
+      "會議名稱": "2007 8th International Conference on Electronics Packaging Technology",
+      "作者群": "張興政、洪三山、鄒慶福、劉文豐、賴啟智、簡勤尚"
+    },
+    {
+      "論文名稱": "Optic Fiber Sensor Based on Etching Long Period Gratings of Photonic Crystal Fibers",
+      "會議名稱": "OECC/IOOC'2007",
+      "作者群": "Wen-Fung Liu, Sheng-Zeng Peng, Hsin-Wen Peng, Ming-Yue Fu, Lung Ai,and Hao-Jan Sheng"
+    },
+    {
+      "論文名稱": "Application of side-polished Bragg fiber gratings to magnetic field sensing probe",
+      "會議名稱": "International Symposium on Advance Magnetic Materials and Applications",
+      "作者群": "Chuen-Lin Tien, Chang-Chou Hwang, Siao-Shan Jyu, Hong-Wei Chen, Shane-Wen Lin, Wen -Fung Liu, and Kun-Huang Chen"
+    },
+    {
+      "論文名稱": "布拉格光纖光柵磁力計之研究",
+      "會議名稱": "第五屆現代通訊科技應用學術研討會",
+      "作者群": "陳宏偉，田春林，劉文豐，藺善文"
+    },
+    {
+      "論文名稱": "不同拋光直徑對布拉格光纖光柵等效折射率之影響",
+      "會議名稱": "OPT 2006台灣光電科技研討會",
+      "作者群": "陳宏偉，田春林，劉文豐，藺善文"
+    },
+    {
+      "論文名稱": "長週期式光纖光柵磁場感測元件之研製",
+      "會議名稱": "OPT 2006台灣光電科技研討會",
+      "作者群": "辜彥璋，田春林，陳宏偉，劉文豐"
+    },
+    {
+      "論文名稱": "多模光纖光柵之研究",
+      "會議名稱": "OPT 2006台灣光電科技研討會",
+      "作者群": "彭聖任，彭信文，田清智，李馥宏，劉文豐, 田春林，陳宏偉"
+    },
+    {
+      "論文名稱": "Polishing long period gratings in photonic crystal fibers",
+      "會議名稱": "Optics and Photonics",
+      "作者群": "Pei-Yuan Lai, Sheng-Chia Lin, Rung-Jang Shiu, Wen-Fung Liu, Chuen-Lin Tien"
+    },
+    {
+      "論文名稱": "多模光纖光柵的研究",
+      "會議名稱": "OPT 2006台灣光電科技研討會",
+      "作者群": "彭聖任、彭信文、田清智、李馥宏、劉文豐、田春林、陳宏偉"
+    },
+    {
+      "論文名稱": "多模光纖的超結構光纖光柵之研究",
+      "會議名稱": "OPT 2006台灣光電科技研討會",
+      "作者群": "彭信文、彭聖任、蘇溥鈞、林桂如、劉文豐、柏小松"
+    },
+    {
+      "論文名稱": "利用蝕刻長週期光纖光柵設計EDFA增益平坦濾波器",
+      "會議名稱": "OPT 2006台灣光電科技研討會",
+      "作者群": "江敏秀、徐昌萬、孫迺祥、劉文豐"
+    },
+    {
+      "論文名稱": "第二階布拉格光纖光柵之研究",
+      "會議名稱": "OPT 2006台灣光電科技研討會",
+      "作者群": "廖俊傑、許文欽、孫迺祥、林士強、劉文豐"
+    },
+    {
+      "論文名稱": "Etching long period gratings of photonic crystal fibers",
+      "會議名稱": "Optics and Photonics'2006 Taiwan",
+      "作者群": "Rung-Juan Hsu, Sheng-Chia Lin, Pei-Yuan Lai, Wen-Fung Liu, and Ming-Yue Fu"
+    },
+    {
+      "論文名稱": "The Fiber Sensor Based on a Fiber Bragg Grating for Water Level Measurement",
+      "會議名稱": "Optics and Photonics'2006 Taiwan",
+      "作者群": "Cheng-Chung Chang, Kei-Ru Lin, Wen-Fung Liu, En-Chiang Chang, and Sheau-Shong Bor"
+    },
+    {
+      "論文名稱": "Influence of pressure on the optical and mechanical properties of Al2O3 and SiO2 thin films for ultraviolet application",
+      "會議名稱": "Thin Films 2006 Conference",
+      "作者群": "Chuen-Lin Tien and Shane-Wen Lin"
+    },
+    {
+      "論文名稱": "D型長週期光纖光柵檢測液體折射率之研究",
+      "會議名稱": "第一屆電資科技應用與發展學術研討會",
+      "作者群": "陳宏偉，田春林，劉文豐，藺善文，沈峰嘉"
+    },
+    {
+      "論文名稱": "An Optical Tunable Wavelength Filter Based on Acousto0Optic Modulation in a Superstructure Grating",
+      "會議名稱": "Optics and Photonics'2006 Taiwan",
+      "作者群": "22.\tMing-Yue Fu and Wen-Fung Liu"
+    },
+    {
+      "論文名稱": "Magnetic sensing device based on side-polished long period fiber gratings",
+      "會議名稱": "Asia-Pacific Symposium on Applied Electromagnetics and Mechanics",
+      "作者群": "Chuen-Lin Tien, Hong-Wei Chen, Shane-Wen Lin, Wen-Fung Liu and Chang-Chou Hwang"
+    },
+    {
+      "論文名稱": "Fiber Grating Fabrication using Ultra-violet -Transparent Fibers",
+      "會議名稱": "International Conference on Communications, Circuits and Systems",
+      "作者群": "Yi-Chi Liu, Feng-Chia Shen, Wen-Fung Liu, Hsin-Wen Peng, Chuen-Lin Tien, I-Wen Wu and Patrick Tsai"
+    },
+    {
+      "論文名稱": "The Effect of Acoustic Flexual Waves in a Tilted Bragg Fiber Grating",
+      "會議名稱": "International Conference on Communications, Circuits and Systems",
+      "作者群": "Ming-Yue Fu, Wen-Fung Liu"
+    },
+    {
+      "論文名稱": "Fused Fiber Coupler Gratings",
+      "會議名稱": "International Conference on Communications, Circuits and Systems",
+      "作者群": "Wen-Fung Liu, Ying-Pin Chuang, Ching-Ting Kuo,Tzu-Chiang Chen, Lung Ai and Ming-Yue Fu"
+    },
+    {
+      "論文名稱": "布拉格光纖光柵側面拋光技術之應用",
+      "會議名稱": "第四屆精密機械與製造技術研討會",
+      "作者群": "陳宏偉，田春林，藺善文，劉文豐，沈峰嘉"
+    },
+    {
+      "論文名稱": "Side-polished Fiber Bragg Gratings Coated with Thin Palladium Film for Hydrogen Sensing Device",
+      "會議名稱": "CLEO 2006 Conference",
+      "作者群": "田春林, 陳宏偉, 劉文豐, 林永森"
+    },
+    {
+      "論文名稱": "Magnetic sensor based on side-polished fiber Bragg grating coated with iron film",
+      "會議名稱": "IEEE INTERMAG Conference",
+      "作者群": "田春林，黃昌圳，陳宏偉，劉文豐，藺善文"
+    },
+    {
+      "論文名稱": "Hydrogen Sensing Device Based on Side-polished Single-mode Optical Fiber with Bragg Grating Structure",
+      "會議名稱": "Symposium of Photonic Devices and System Application",
+      "作者群": "田春林,陳宏偉,劉文豐,劉益吉,藺善文"
+    },
+    {
+      "論文名稱": "The bending measurement of long period gratings in photonic crystal fibers",
+      "會議名稱": "2006 Symposium of Phtonic Device and System Applications",
+      "作者群": "Ying-Pin Chuang,Wen-Fung Liu,and Ming-Yue Fu"
+    },
+    {
+      "論文名稱": "A Simultaneous Humidity and Temperature Fiber Sensors using Porous Sol-Gel Coating",
+      "會議名稱": "2006 Symposium of Phtonic Device and System Applications",
+      "作者群": "Yi-Chi Liu,Wen-Fung Liu,and Feng-Chia Shen"
+    },
+    {
+      "論文名稱": "The Study of Tapered-etched Fiber Bragg Grating in Sensing Temperature and Force",
+      "會議名稱": "2006 Symposium of Phtonic Device and System Applications",
+      "作者群": "Ming-Chun Wu, Wen-Fung Liu,Lu-Ping Chao, and Jung-Shian Fang"
+    },
+    {
+      "論文名稱": "高應力之長週期光纖光柵",
+      "會議名稱": "國際學術研討會",
+      "作者群": "沈峰嘉, 劉文豐, 劉益吉, 田春林, 傅明宇"
+    },
+    {
+      "論文名稱": "光子晶體光纖熔接之研究",
+      "會議名稱": "國際學術研討會",
+      "作者群": "莊英濱, 王誌瑋, 劉文豐, 田春林, 劉益吉"
+    },
+    {
+      "論文名稱": "免剝除被覆層之布拉格光纖光柵",
+      "會議名稱": "國際學術研討會",
+      "作者群": "劉益吉, 劉文豐, 沈峰嘉, 莊英濱,田春林, 吳逸文, 蔡瑞禎"
+    },
+    {
+      "論文名稱": "光纖光柵壓力感測器",
+      "會議名稱": "國際學術研討會",
+      "作者群": "胡少康,申浩然,孫家禎,劉文豐,柏小松"
+    },
+    {
+      "論文名稱": "光纖光柵中心波長可微調封裝結構之研究",
+      "會議名稱": "國際學術研討會",
+      "作者群": "陳信蒼,莊家瑋,柏小松,劉文豐,林螢光"
+    },
+    {
+      "論文名稱": "摻鉺光纖光源之研究",
+      "會議名稱": "國際學術研討會",
+      "作者群": "陳炎輝,林螢光,卓鴻揚,柏小松,劉文豐"
+    },
+    {
+      "論文名稱": "薄膜式Bragg光纖光柵氫氣感測系統之初步研究",
+      "會議名稱": "第四屆現代通訊科技應用學術研討會",
+      "作者群": "陳宏偉, 田春林, 劉文豐, 林永森, 沈峰嘉, 藺善文, 劉益吉"
+    },
+    {
+      "論文名稱": "長週期光纖光柵測彎計",
+      "會議名稱": "第四屆現代通訊科技應用學術研討會",
+      "作者群": "莊英濱, 劉文豐, 田春林, 傅明宇"
+    },
+    {
+      "論文名稱": "光纖光柵溫溼度感測器",
+      "會議名稱": "第四屆現代通訊科技應用學術研討會",
+      "作者群": "劉益吉、劉文豐、沈峰嘉"
+    },
+    {
+      "論文名稱": "溫度效應對C-band摻鉺光纖放大器之影響",
+      "會議名稱": "2005光電科技研討會",
+      "作者群": "林螢光,彭敬仲,陳炎輝,吳順鑠,劉文豐"
+    },
+    {
+      "論文名稱": "The fabrication of fiber coupler gratings",
+      "會議名稱": "2005光電科技研討會",
+      "作者群": "劉文豐,郭建廷,傅明宇,陳子江"
+    },
+    {
+      "論文名稱": "光子晶體光纖的熔接與長週期光纖光柵的寫製",
+      "會議名稱": "2005光電科技研討會",
+      "作者群": "王誌瑋,莊英濱,劉文豐,田春林,劉益吉"
+    },
+    {
+      "論文名稱": "光纖光柵於高密度分波多工器之研究",
+      "會議名稱": "2005光電科技研討會",
+      "作者群": "李建邦,陳子江,劉文豐,蘇文寬,董德國,黃世坪"
+    },
+    {
+      "論文名稱": "光纖光柵水位計",
+      "會議名稱": "2005光電科技研討會",
+      "作者群": "胡少康,孫家禎,申浩然,劉文豐,柏小松"
+    },
+    {
+      "論文名稱": "利用光子晶體光纖之長週期光纖光柵的測彎研究",
+      "會議名稱": "2005光電科技研討會",
+      "作者群": "宋柏賢,莊英濱,劉文豐"
+    },
+    {
+      "論文名稱": "利用光纖光柵化學感測器於丙酮蒸氣之研究",
+      "會議名稱": "2005光電科技研討會",
+      "作者群": "毛建秋,艾龍,王元昌,劉文豐,陳子江,蘇文寬"
+    },
+    {
+      "論文名稱": "被覆層可透紫外光之光纖的長週期光柵寫製研究",
+      "會議名稱": "2005光電科技研討會",
+      "作者群": "沈峰嘉,劉文豐,劉益吉,田春林,傅明宇"
+    },
+    {
+      "論文名稱": "單邊研磨拋光對布拉格光纖光柵等效折射率之影響",
+      "會議名稱": "OPT2005台灣光電科技研討會",
+      "作者群": "陳宏偉，許宏輝，方俊傑，藺善文，田春林，沈峰嘉，劉文豐"
+    },
+    {
+      "論文名稱": "Implementation of phase-array-antenna beam scanners based on fiber gratings",
+      "會議名稱": "OpticsEast'2005",
+      "作者群": "L.P. Chi,W.F. Liu, C.T. Sun,S.S.Bor"
+    },
+    {
+      "論文名稱": "D型Bragg光纖光柵檢測液體折射率之研究",
+      "會議名稱": "工程科技與中西醫學應用研討會",
+      "作者群": "50.\t陳宏偉，田春林，劉文豐，藺善文，沈峰嘉"
+    },
+    {
+      "論文名稱": "The design of fiber Bragg gratings using a Chebyshev index modulation",
+      "會議名稱": "Electronics Communication Conference",
+      "作者群": "Jiun-Jie Liau, Chih-Cheng Chou, Chung-En Chou, Nai-Hsiang Sun,Wen-Fung Liu"
+    },
+    {
+      "論文名稱": "Fiber Bragg Grating Fabrication using Ultra-violet -Transparent Coating Fibers",
+      "會議名稱": "STFOC'2005",
+      "作者群": "Yi-Chi Liu, Wen-Fung Liu, Chuen-Lin Tien, Chih-Wei Wang, Feng-Chia Shen, I-Wen Wu and Patrick Tsa"
+    },
+    {
+      "論文名稱": "Long-period-gratings on a photonic crystal fiber",
+      "會議名稱": "STFOC'2005",
+      "作者群": "C.W. wang,W.F. Liu, Y.C. Liu,Y.B. Chuang,C.L. Tien,S.S.Bor"
+    },
+    {
+      "論文名稱": "被覆層可透紫外光光纖寫製光柵",
+      "會議名稱": "第三屆現代通訊科技應用學術研討會",
+      "作者群": "劉益吉、劉文豐、田春林、王誌瑋、沈豐嘉、吳逸文、蔡瑞禎"
+    },
+    {
+      "論文名稱": "Simultaneous Pressure and Temperature Fiber Sensors",
+      "會議名稱": "OPT'2004",
+      "作者群": "Chia-Ming Lin, Wen-Fung Liu, Hao-Jan Sheng, and Sheau-Shong Bor"
+    },
+    {
+      "論文名稱": "UV-TRANSPARANT COATING 光纖光柵之特性研究",
+      "會議名稱": "OPT'2004",
+      "作者群": "劉益吉,劉文豐,田春林,王誌瑋,吳逸文,蔡瑞禎"
+    },
+    {
+      "論文名稱": "The cladding-Core Mode Coupling based on Acoustic-optic Modulation in a Tilted Superstructure Fiber Grating",
+      "會議名稱": "OPT'2004",
+      "作者群": "Wen-Fung ,Ming-Yue Fu, Tzu-Chiang Chen, and Sheau-Chong Bor"
+    },
+    {
+      "論文名稱": "2X2光纖光柵耦合器製作光纖塞取多工器之研究",
+      "會議名稱": "OPT'2004",
+      "作者群": "毛建秋,陳子江,蘇文寬,郭建廷"
+    },
+    {
+      "論文名稱": "The tunable optical comb filter based on acousto-optic modulations",
+      "會議名稱": "Photonics 2004",
+      "作者群": "Ming-Yue Fu, Wen-Fung Liu, Tzu-Chiang Chen, Lin Chia-Min, Lung Ai, Sheau-Shong Bor"
+    },
+    {
+      "論文名稱": "Interferometric pattern defects recognized by using wavelet transform with DSP",
+      "會議名稱": "Photonics Asia 2004",
+      "作者群": "田春林，呂銘杰，劉文豐，彭聖任"
+    },
+    {
+      "論文名稱": "Cladding mode induction in a tilted superstructure fiber grating",
+      "會議名稱": "SPIE-Optics-East 2004",
+      "作者群": "C.M. Lin, W.F. Liu, M.Y. Fu, C.L. Tien, and S.S. Bor"
+    },
+    {
+      "論文名稱": "A simultaneous pressure and temperature sensor based on a superstructure fiber grating",
+      "會議名稱": "SPIE-Optics-East 2004",
+      "作者群": "C.M. Lin, W.F. Liu, M.Y. Fu, C.L. Tien, H.J. Sheng, and S.S. Bor"
+    },
+    {
+      "論文名稱": "Simultaneously high-sensitivity pressure and temperature sensor using a superstructure fiber grating",
+      "會議名稱": "IEEE Sensors 2004",
+      "作者群": "Chia-Min Lin, Wen-Fung Liu, Ming-Yue Fu, and Sheau-Shong Bor"
+    },
+    {
+      "論文名稱": "50GHz與100GHz光纖光柵的研製",
+      "會議名稱": "2004兩岸三地無線科技研討會",
+      "作者群": "劉文豐,尹介岑,柏小松,李健邦,陳子江"
+    },
+    {
+      "論文名稱": "超結構型光纖光柵應用在相位陣列天線波束之操控",
+      "會議名稱": "2004兩岸三地無線科技研討會",
+      "作者群": "齊立平, 柏小松, 劉文豐, 陳信蒼, 林峻瑩"
+    },
+    {
+      "論文名稱": "Induced-cladding-mode in a tilted superstructure fiber grating",
+      "會議名稱": "2004兩岸三地無線科技研討會",
+      "作者群": "C.M. Lin, W.F. Liu, M.Y. Fu, C.L. Tien, S.S. Bor"
+    },
+    {
+      "論文名稱": "A High Sensitivity Lateral Pressure Sensor Using a Fiber Bragg Grating",
+      "會議名稱": "2004兩岸三地無線科技研討會",
+      "作者群": "Hao-Jan Sheng, Chia-Ming Lin, Wen-Fung Liu , Sheau-Shong Bor, Ming-Yue and Tzu-Chiang Chen"
+    },
+    {
+      "論文名稱": "Cladding Mode Coupling of the Loss Dip in a Tilted Superstructure Fiber Grating",
+      "會議名稱": "Photon2004",
+      "作者群": "Chia-Min Lin, Wen-Fung Liu, Ming-Yue Fu, Sheau-Shong Bor"
+    },
+    {
+      "論文名稱": "Numerical Modeling of the Gain Flattening Filter of an EDFA Based on Etching LPGs Technology",
+      "會議名稱": "Opto-Electronics Communication Conference(OECC)",
+      "作者群": "Chung-En Chou, Chih-Cheng Chou, Jiun-Jie Liau, Nai-Hsiang Sun, and Wen-Fung Liu"
+    },
+    {
+      "論文名稱": "Acoustic-optic interaction in a blazed superstructure fiber grating",
+      "會議名稱": "ITCOM'2003",
+      "作者群": "Ming-Yue Fu, Wen-Fung Liu, Tzu-Chiang Chen, and Hao-Jan sheng"
+    },
+    {
+      "論文名稱": "融燒式光纖耦合器上之光纖光柵寫製技術",
+      "會議名稱": "2003台灣光電研討會",
+      "作者群": "郭建廷,陳子江,劉文豐,林多常,劉玉琳,盧明寬"
+    },
+    {
+      "論文名稱": "粗略分波多工光纖耦合器之研製",
+      "會議名稱": "2003台灣光電研討會",
+      "作者群": "黃晉德,陳子江,劉玉琳,劉文豐"
+    },
+    {
+      "論文名稱": "An Acoustic-Induced Optical Wavelength-Tunable Filter",
+      "會議名稱": "2003台灣光電研討會",
+      "作者群": "Ming-Yue Fu 、Chia-Min Lin、Lung Ai、Tzu-Chiang Chen、Wen-Fung Liu"
+    },
+    {
+      "論文名稱": "Acousto-optic induced cladding-modes reflection in superstructure fiber gratings",
+      "會議名稱": " CLEO-PR'2003",
+      "作者群": "Ming-Yue Fu, Wen-Fung Liu, Tzu-Chiang Chen, and Hao-Jan sheng"
+    },
+    {
+      "論文名稱": "A Lateral pressure sensor using a fiber Bragg grating",
+      "會議名稱": "SPIE-PW Conference",
+      "作者群": "Hao-Jan sheng and Wen-Fung Liu, Tzu-Chiang Chen, and Sheau-Shong Bor"
+    },
+    {
+      "論文名稱": "Multi-wavelength switchable comb filter based on acousto-optic interaction in superstructure fiber gratings",
+      "會議名稱": "CLEO'2003",
+      "作者群": "Ming-Yue Fu, Wen-Fung Liu, Tzu-Chiang Chen, and Hao-Jan sheng"
+    },
+    {
+      "論文名稱": "Gain flattening filter of an EDFA based on etching LPGs technology",
+      "會議名稱": "OPT'2002",
+      "作者群": "Chung En Chou, Nai-Hsiang Sun, Kang-Chih Lin, Cheng-Yen Chen and Wen-Fung Liu"
+    },
+    {
+      "論文名稱": "Tunable fiber laser using a fiber loop mirror and a fiber Bragg grating",
+      "會議名稱": "OPT'2002",
+      "作者群": "Lu-Min Tsay, Wen-Fung Liu, Kang-Chih Lin and Cheng-Yen Chen"
+    },
+    {
+      "論文名稱": "A wavelength-switchable optical filter based on acousto-optic modulators in a fiber Bragg grating",
+      "會議名稱": "WOSC'2002",
+      "作者群": "W.F. Liu, C.C. Yang, D.W. Huang, and K.H. Lin"
+    }
+  ],
+  "book": [
+    {
+      "專業書籍": "Green Photonics and Smart Photonics(Chapter 7)",
+      "出版單位": "River Publisher",
+      "作者群": "Wen-Fung Liu and Hao-Jan Sheng"
+    }
+  ],
+  "patent": [
+    {
+      "title": "發明",
+      "desc": "壓力感測器"
+    },
+    {
+      "title": "發明",
+      "desc": "壓力感測器"
+    },
+    {
+      "title": "發明",
+      "desc": "光纖光柵旋轉式角度計"
+    },
+    {
+      "title": "發明",
+      "desc": "光纖光柵傾斜器"
+    },
+    {
+      "title": "發明",
+      "desc": "光取出裝置及光取出方法"
+    },
+    {
+      "title": "發明",
+      "desc": "調整無線信號相位的方法及無線信號相位調變器"
+    },
+    {
+      "title": "發明",
+      "desc": "光纖通訊方法及發射裝置"
+    },
+    {
+      "title": "發明",
+      "desc": "可調式光纖光柵色散補償器"
+    },
+    {
+      "title": "發明",
+      "desc": "Light Extracting Device and Light Extracting Method"
+    },
+    {
+      "title": "發明",
+      "desc": "Optical fiber communication method and transmitting device"
+    },
+    {
+      "title": "發明",
+      "desc": "形成光纖光柵化學氣體感測器之製程"
+    },
+    {
+      "title": "發明",
+      "desc": "側壓式布拉格光纖光柵壓力感測裝置"
+    },
+    {
+      "title": "發明",
+      "desc": "側壓式超結構型光纖光柵壓力溫度感測器"
+    },
+    {
+      "title": "發明",
+      "desc": "以超結構型光纖光柵為相位陣列天線之時間延遲器"
+    },
+    {
+      "title": "發明",
+      "desc": "具有長週期光纖光柵之增益平坦濾波器及其製造方法"
+    },
+    {
+      "title": "發明",
+      "desc": "液位感測方法"
+    },
+    {
+      "title": "發明",
+      "desc": "液位感測器"
+    },
+    {
+      "title": "發明",
+      "desc": "液位感測方法"
+    }
+  ],
+  "most": [
+    {
+      "name": "新型多功能遠距離即時監測之重金屬光纖光柵薄膜感測系統的研發(2/2)",
+      "schoolYear": "113"
+    },
+    {
+      "name": "(博士增核)新型多功能遠距離即時監測之重金屬光纖光柵薄膜感測系統的研發(2/2)",
+      "schoolYear": "113"
+    },
+    {
+      "name": "光纖光柵對酸鹼溶液之感測器",
+      "schoolYear": "113"
+    },
+    {
+      "name": "邀請Southampton University Morten Ibsen副教授",
+      "schoolYear": "112"
+    },
+    {
+      "name": "新型多功能遠距離即時監測之重金屬光纖光柵薄膜感測系統的研發(1/2)",
+      "schoolYear": "112"
+    },
+    {
+      "name": "錐狀光纖光柵液體折射率感測器",
+      "schoolYear": "112"
+    },
+    {
+      "name": "前瞻型高靈敏高端設備結構噪音振動光纖光柵感測器(2/2)",
+      "schoolYear": "111"
+    },
+    {
+      "name": "高精密度之錐狀光纖光柵液位感測器",
+      "schoolYear": "111"
+    },
+    {
+      "name": "前瞻型高靈敏高端設備結構噪音振動光纖光柵感測器(1/2)",
+      "schoolYear": "110"
+    },
+    {
+      "name": "光纖光柵動態振動波感測器",
+      "schoolYear": "110"
+    },
+    {
+      "name": "前瞻型光纖光柵水中聽音器的研發(2/2)",
+      "schoolYear": "109"
+    },
+    {
+      "name": "布拉格光纖光柵低頻交流磁場感測器",
+      "schoolYear": "109"
+    },
+    {
+      "name": "前瞻型光纖光柵水中聽音器的研發(1/2)",
+      "schoolYear": "108"
+    },
+    {
+      "name": "光纖光柵結構噪音感測器",
+      "schoolYear": "108"
+    },
+    {
+      "name": "光子晶體光纖布拉格光柵之研製及應用",
+      "schoolYear": "107"
+    },
+    {
+      "name": "三維光纖光柵水中聽音系統",
+      "schoolYear": "106"
+    },
+    {
+      "name": "(應用型)產學合作計畫－光纖光柵流速計",
+      "schoolYear": "105"
+    },
+    {
+      "name": "(廠配)聯瑞科技股份有限公司(應用型)產學合作計畫－光纖光柵流速計",
+      "schoolYear": "105"
+    },
+    {
+      "name": "前瞻性布拉格光纖光柵感測系統之研發(3/3)",
+      "schoolYear": "105"
+    },
+    {
+      "name": "結合側拋光纖與鍍鈀技術之光纖光柵氫氣感測器",
+      "schoolYear": "105"
+    },
+    {
+      "name": "前瞻性布拉格光纖光柵感測系統之研發(2/3)",
+      "schoolYear": "104"
+    },
+    {
+      "name": "(應用型)產學合作計畫－光纖光柵磁場感測器",
+      "schoolYear": "103"
+    },
+    {
+      "name": "(廠配)聯瑞科技股份有限公司(應用型)產學合作計畫－光纖光柵磁場感測器",
+      "schoolYear": "103"
+    },
+    {
+      "name": "動態式光纖馬達旋轉角度感測器之研製",
+      "schoolYear": "103"
+    },
+    {
+      "name": "前瞻性布拉格光纖光柵感測系統之研發(1/3)",
+      "schoolYear": "103"
+    },
+    {
+      "name": "同時量測彎曲量及溫度之光纖感測器",
+      "schoolYear": "103"
+    },
+    {
+      "name": "(應用型)產學合作計畫－光纖光柵旋轉角度計的開發",
+      "schoolYear": "102"
+    },
+    {
+      "name": "(廠配)(應用型)產學合作計畫－光纖光柵旋轉角度計的開發(聯瑞科技股份有限公司)",
+      "schoolYear": "102"
+    },
+    {
+      "name": "光纖馬達旋轉角度感測器之研製",
+      "schoolYear": "102"
+    },
+    {
+      "name": "以布拉格光纖光柵為骨幹之泥流、土流監測系統之研發(2/2)",
+      "schoolYear": "102"
+    },
+    {
+      "name": "基於光纖與壓電轉換器之虛功率感測器的研製",
+      "schoolYear": "101"
+    },
+    {
+      "name": "以布拉格光纖光柵為骨幹之泥流、土流監測系統之研發(1/2)",
+      "schoolYear": "101"
+    },
+    {
+      "name": "光纖光柵水壓感測器",
+      "schoolYear": "101"
+    },
+    {
+      "name": "(應用型)產學合作計畫─光纖光柵傾斜感測器的開發",
+      "schoolYear": "100"
+    },
+    {
+      "name": "(廠配)(應用型)產學合作計畫─光纖光柵傾斜感測器的開發(三光科技有限公司)",
+      "schoolYear": "100"
+    },
+    {
+      "name": "長週期光纖光柵生化感測器(2/2)",
+      "schoolYear": "100"
+    },
+    {
+      "name": "光纖電功率與電能量量測系統之研製",
+      "schoolYear": "100"
+    },
+    {
+      "name": "多功能性透明導電氧化物薄膜之製備、量測系統開發及結合光纖光柵感測應用",
+      "schoolYear": "100"
+    },
+    {
+      "name": "長週期光纖光柵生化感測器(1/2)",
+      "schoolYear": "99"
+    },
+    {
+      "name": "光纖實功率與虛功率量測系統之研製",
+      "schoolYear": "99"
+    },
+    {
+      "name": "新型具平衡與溫度補償之自動化微光機電曲率量測系統(2/2)",
+      "schoolYear": "99"
+    },
+    {
+      "name": "(應用型)產學合作計畫─光纖光柵角度計的開發",
+      "schoolYear": "98"
+    },
+    {
+      "name": "(廠配)(應用型)產學合作計畫─光纖光柵角度計的開發(三光科技有限公司)",
+      "schoolYear": "98"
+    },
+    {
+      "name": "微型光纖電功率量測系統之研製",
+      "schoolYear": "98"
+    },
+    {
+      "name": "空氣間隙長週期光纖光柵感測器的研發",
+      "schoolYear": "98"
+    },
+    {
+      "name": "新型具平衡與溫度補償之自動化微光機電曲率量測系統(1/2)",
+      "schoolYear": "98"
+    },
+    {
+      "name": "光學薄膜表面特性、應力快速檢測系統研發暨應用於高靈敏度薄膜式微感測器之研製(3/3)",
+      "schoolYear": "98"
+    },
+    {
+      "name": "科學工業園區固本精進研究計畫－結合微光學透鏡陣列研發高速光纖傳輸匯集式輸入/輸出介面模組(合作企業：上詮光纖通信股份有限)",
+      "schoolYear": "97"
+    },
+    {
+      "name": "新型長週期光纖光柵感測器的研製",
+      "schoolYear": "97"
+    },
+    {
+      "name": "光學薄膜表面特性、應力快速檢測系統研發暨應用於高靈敏度薄膜式微感測器之研製(2/3)",
+      "schoolYear": "97"
+    },
+    {
+      "name": "多模斜角光纖光柵氣體感測系統的研製",
+      "schoolYear": "96"
+    },
+    {
+      "name": "光學薄膜表面特性、應力快速檢測系統研發暨應用於高靈敏度薄膜式微感測器之研製(1/3)",
+      "schoolYear": "96"
+    },
+    {
+      "name": "提升產業技術及人才培育研究計畫–拋光或蝕刻光子晶體光纖上長週期光纖光柵的特性與應用研究",
+      "schoolYear": "95"
+    },
+    {
+      "name": "(廠配)提升產業技術及人才培育研究計畫–拋光或蝕刻光子晶體光纖上長週期光纖光柵的特性與應用研究(卓越光纖股份有限公司)",
+      "schoolYear": "95"
+    },
+    {
+      "name": "微型光纖電流感測器之設計",
+      "schoolYear": "95"
+    },
+    {
+      "name": "薄膜式高靈敏度光纖光柵氫氣感測器的研製",
+      "schoolYear": "95"
+    },
+    {
+      "name": "提升產業技術及人才培育研究計畫–光子晶體光纖上寫製光纖光柵的研究",
+      "schoolYear": "94"
+    },
+    {
+      "name": "(廠配)提升產業技術及人才培育研究計畫–光子晶體光纖上寫製光纖光柵的研究(卓越光纖股份有限公司)",
+      "schoolYear": "94"
+    },
+    {
+      "name": "光纖光柵化學感測器的研究",
+      "schoolYear": "94"
+    },
+    {
+      "name": "以超結構光纖光柵控制相位陣列天線波束掃描器",
+      "schoolYear": "94"
+    },
+    {
+      "name": "提升產業技術及人才培育研究計畫–主動式高重覆率Q-Switched 全光纖雷射的研究",
+      "schoolYear": "93"
+    },
+    {
+      "name": "(廠配)提升產業技術及人才培育研究計畫–主動式高重覆率Q-Switched 全光纖雷射的研究(卓越光纖股份有限公司)",
+      "schoolYear": "93"
+    },
+    {
+      "name": "光纖耦合器上寫製光纖光柵的研究",
+      "schoolYear": "93"
+    },
+    {
+      "name": "相位陣列天線波束掃瞄器之研製",
+      "schoolYear": "93"
+    },
+    {
+      "name": "突發式光收發信模組之研究",
+      "schoolYear": "92"
+    },
+    {
+      "name": "以超結構型光纖光柵為骨幹之光纖感測器的應用與製作",
+      "schoolYear": "92"
+    },
+    {
+      "name": "利用聲光調變完成波長可切換之濾波器的研究",
+      "schoolYear": "91"
+    }
+  ],
+  "tech": [],
+  "induAca": [
+    "布拉格光纖光柵感測元件製作設備評估研究 (2020-09 to 2021-08)",
+    "光纖光柵風速計 (2019-06 to 2020-05)",
+    "高功率光纖布拉格光柵元件研製 (2018-02 to 2018-12)",
+    "小孔徑光纖外徑蝕刻縮小 (2017-11 to 2018-12)",
+    "高功率光纖布拉格光柵寫入與光纖蝕刻測試 (2017-03 to 2018-04)",
+    "小孔徑光纖布拉格光柵元件載氫計畫 (2016-09 to 2017-10)",
+    "光纖感測系統中之光纖光柵的研製 (2003-11 to 2004-10)",
+    "寬頻適形微帶陣列天線系統研究 (2003-07 to 2003-11)"
+  ],
+  "perform": [],
+  "reward": [
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (111, 2022-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (110, 2021-11) - 逢甲大學",
+    "110年度科技部補助大專校院研究獎勵 (110, 2021-10) - 產學合作處",
+    "逢甲大學論文著作獎勵傑出獎 (109, 2020-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (108, 2019-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (108, 2019-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (107, 2018-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (107, 2018-11) - 逢甲大學",
+    "逢甲大學優良教材獎勵優等獎 (106, 2017-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (106, 2017-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (106, 2017-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (106, 2017-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (106, 2017-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (105, 2016-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (105, 2016-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (104, 2015-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (104, 2015-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (104, 2015-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (104, 2015-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (104, 2015-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (104, 2015-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (103, 2014-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (102, 2013-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (102, 2013-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (102, 2013-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (102, 2013-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (101, 2012-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (101, 2012-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (101, 2012-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (100, 2011-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (100, 2011-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (99, 2010-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (99, 2010-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵 (99, 2010-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (99, 2010-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (99, 2010-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (99, 2010-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (98, 2009-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (98, 2009-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (98, 2009-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (98, 2009-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (98, 2009-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (98, 2009-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (98, 2009-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (97, 2008-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵 (97, 2008-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (97, 2008-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵 (97, 2008-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (97, 2008-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵 (97, 2008-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (97, 2008-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (96, 2007-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (96, 2007-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (96, 2007-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (96, 2007-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (96, 2007-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (96, 2007-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (95, 2006-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (95, 2006-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (95, 2006-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (95, 2006-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (95, 2006-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵 (94, 2005-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵 (94, 2005-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵 (94, 2005-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵 (94, 2005-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (94, 2005-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵 (94, 2005-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (94, 2005-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (94, 2005-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (94, 2005-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (93, 2004-11) - 逢甲大學"
+  ],
+  "speech": [
+    {
+      "演講題目": "多功能光纖感測系統的設計與應用",
+      "邀請單位": "高雄第一科大電機系",
+      "演講日期": "2014-12"
+    },
+    {
+      "演講題目": "光纖光柵感測器(Fiber Bragg Grating Sensors)",
+      "邀請單位": "屏東科大生物機電系",
+      "演講日期": "2014-11"
+    },
+    {
+      "演講題目": "光纖光柵感測器(Fiber Bragg grating sensors)",
+      "邀請單位": "高雄科大光電所",
+      "演講日期": "2013-04"
+    },
+    {
+      "演講題目": "長週期光纖光柵感測器",
+      "邀請單位": "高雄第一科大光電所",
+      "演講日期": "2008-12"
+    },
+    {
+      "演講題目": "新型長週期光纖光柵的研發與應用",
+      "邀請單位": "國立海洋大學光電所",
+      "演講日期": "2008-10"
+    },
+    {
+      "演講題目": "光纖放大器、光纖雷射及光纖光柵的發展與應用",
+      "邀請單位": "彰師大光電所",
+      "演講日期": "2008-03"
+    },
+    {
+      "演講題目": "光纖放大器、光纖雷射及光纖光柵的發展與應用",
+      "邀請單位": "明新科技大學電子系",
+      "演講日期": "2004-11"
+    },
+    {
+      "演講題目": "光纖光柵與其發展與及應用",
+      "邀請單位": "大葉大學電機系",
+      "演講日期": "2004-09"
+    },
+    {
+      "演講題目": "可同時量測壓力與溫度之高靈敏度側壓式光纖光柵感測器",
+      "邀請單位": "臺師大光電所",
+      "演講日期": "2004-05"
+    }
+  ],
+  "material": [],
+  "tal": []
+}

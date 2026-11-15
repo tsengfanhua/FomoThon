@@ -1,0 +1,322 @@
+{
+  "teacherId": "T92142",
+  "name": "陳啟川",
+  "mainUnit": "工程與科學學院",
+  "detailUnit": "航太與系統工程學系",
+  "skill": [
+    "最佳估算與控制 Optimal Estimation & Control",
+    "系統辨識 Systems Identification",
+    "飛行控制與導引 Guidance, Navigation & Control",
+    "無人飛行載具系統Unmanned Aerial System (UAS)",
+    "資料記錄與監控介面Datalogging and Supervisory Control User Interface (LabVIEW)",
+    "機器視覺檢視與量測Machine Vision for Inspection and Measurement"
+  ],
+  "edu": [
+    "紐約州立大學 機械航太所 博士"
+  ],
+  "fcuExp": [
+    "工學院 秘書",
+    "工學院 秘書",
+    "離岸風力發電研究及發展中心 產業應用組組長",
+    "工程與科學學院 秘書",
+    "航太與系統工程學系 助理教授"
+  ],
+  "currjob": [],
+  "otherExp": [
+    "紐約州立大學 水牛城分校 教學助理",
+    "紐約州立大學 水牛城分校 教學助理"
+  ],
+  "journal": [
+    {
+      "論文名稱": "Emotion-reading Nursing Care Environment Based on Facial Expression Recognition",
+      "期刊名稱": "Sensors and Materials (SCIE)",
+      "作者群": "Shang-Yuan Chen, Chi-Chuan Chen"
+    },
+    {
+      "論文名稱": "虛擬儀控於量測及人機介面之應用",
+      "期刊名稱": "智慧自動化產業期刊 (ECONLIT)",
+      "作者群": "陳啟川,吳錦炘,游睿恆"
+    },
+    {
+      "論文名稱": "LabVIEW虛擬儀控於控制與量測及人機介面之應用",
+      "期刊名稱": "智慧自動化產業期刊 ()",
+      "作者群": "吳柏龍、陳啟川"
+    },
+    {
+      "論文名稱": "應用sbRIO/FPGA模組於飛行控制系統之建構",
+      "期刊名稱": "ET電子技術 ()",
+      "作者群": "謝宗勳 陳啟川"
+    }
+  ],
+  "journal2": [],
+  "conference": [
+    {
+      "論文名稱": "無人機視覺輔助自動追蹤及降落系統之建構",
+      "會議名稱": "2023 中華民國航太學會學術研討會",
+      "作者群": "楊茲丞、陳啟川"
+    },
+    {
+      "論文名稱": "翼地效應無人機於混合域流場之分析",
+      "會議名稱": "2021 中華民國航太學會學術研討會",
+      "作者群": "曹皓維, 黃鏝寧, 蔡正杰, 楊峻誠, 洪曆, 陳啟川"
+    },
+    {
+      "論文名稱": "應用翼地效應無人機於蒐集海洋漂浮垃圾之實現",
+      "會議名稱": "2021 中華民國航太學會學術研討會",
+      "作者群": "蔡正杰, 吳晉宇, 劉育熏, 張兆軒, 許嘉文, 張育銜, 陳啟川"
+    },
+    {
+      "論文名稱": "干擾誘標彈用之精準控制減速傘滯空研究(2/2)",
+      "會議名稱": "第29屆國防科技學術研討會論文集",
+      "作者群": "陳啟川, 吳東彥, 楊茲丞, 方俊"
+    },
+    {
+      "論文名稱": "基於消失點演算運用複雜環",
+      "會議名稱": "TANET 2020-臺灣網際網路研討會",
+      "作者群": "簡秀芸 陳啟川 陳宗正"
+    },
+    {
+      "論文名稱": "干擾誘標彈用之精準控制減速傘滯空研究(1/2)",
+      "會議名稱": "中科院108年國防科技學術合作計畫成果發表會",
+      "作者群": "陳啟川, 陳宏宗, 莊懷恩, 方俊"
+    },
+    {
+      "論文名稱": "無人飛行載具纜繩系統之模擬研究",
+      "會議名稱": "中國機械工程學會 第31 屆全國學術研討會",
+      "作者群": "蔡政宏、方俊、陳啟川、蔡坤男、黃振鴻"
+    },
+    {
+      "論文名稱": "應用LabVIEW虛擬儀控於自動追蹤及定位系統之建構",
+      "會議名稱": "2014 中華民國航太學會學術研討會",
+      "作者群": "陳啟川, 林姍昀, 黃振鴻, 潘瑜"
+    },
+    {
+      "論文名稱": "比例擬真型無人載具系統模與增穩之建構分析",
+      "會議名稱": "2013中華民國航太學會學術研討會",
+      "作者群": "楊淳宜、陳啟川"
+    },
+    {
+      "論文名稱": "飛機之初步設計與飛行性能分析：以飛翼型無人飛行載具為例",
+      "會議名稱": "2012中華民國航太學會學術研討會",
+      "作者群": "黃竹模, 羅正方, 陳啟川"
+    },
+    {
+      "論文名稱": "嵌入式系統於無人飛行載具自主導航之實現",
+      "會議名稱": "中華民國航空太空工程學會第53屆全國學術研討會",
+      "作者群": "陳啟川、翁子傑、張嘉義、黃振鴻、黃竹模"
+    },
+    {
+      "論文名稱": "應用LabVIEW虛擬儀控於環境地圖建立之最佳化",
+      "會議名稱": "中華民國航空太空工程學會第53屆全國學術研討會",
+      "作者群": "黃源港、翁崧宸、許忠強、張嘉義、陳啟川、黃振鴻"
+    },
+    {
+      "論文名稱": "線段式環境地圖建構方法之改善",
+      "會議名稱": "中華民國航空太空工程學會第53屆全國學術研討會",
+      "作者群": "翁崧宸、鍾維哲、張嘉義、陳啟川、黃振鴻"
+    },
+    {
+      "論文名稱": "環境地圖資料點擬合方法之改善",
+      "會議名稱": "中華民國航空太空工程學會第53屆全國學術研討會",
+      "作者群": "薛旭佑、鄭景懋、張嘉義、陳啟川、黃振鴻"
+    },
+    {
+      "論文名稱": "Development of a Navigation System by Using the LabVIEW PDA Module",
+      "會議名稱": "AASRC/CCAS Joint Conference",
+      "作者群": "Chii-Chuan Chen, Yung-Hsien Chiu, Jia-Yih Chang, Chen-Hung Huang, Tsung-Hsun Hsieh"
+    },
+    {
+      "論文名稱": "On the Development of the Ground Dynamic Tracking and Receiving Platform for Unmanned Aerial Vehicle (UAVs)",
+      "會議名稱": "AASRC/CCAS Joint Conference",
+      "作者群": "Chii-Chuan Chen, Shin-Chi Tsai, Jia-Yih Chang, Chen-Hung Huang, Tzu-Chieh Weng"
+    },
+    {
+      "論文名稱": "On the Satellite Attitude Model Error Determination by Using the Optimal Estimation Method",
+      "會議名稱": "AASRC/CCAS Joint Conference",
+      "作者群": "Chii-Chuan Chen, Chun Hu, Jia-Yih Chang, Chen-Hung Huang, Hsuan Huang"
+    },
+    {
+      "論文名稱": "Development of the Dynamic Tracking Systems by Using a dSpace Plateform",
+      "會議名稱": "AASRC/CCAS Joint Conference",
+      "作者群": "Chii-Chuan Chen, Lo-Wei Chiang, Jia-Yih Chang, Chen-Hung Huang, Chun-Chieh Wang"
+    },
+    {
+      "論文名稱": "On the Satellite Attitude Determination by Using the Optimal Estimation Method",
+      "會議名稱": "AASRC/CCAS Joint Conference",
+      "作者群": "Chii-Chuan Chen, Bing-Chen Hou, Jia-Yih Chang, Chen-Hung Huang, Duo-yi Chang"
+    },
+    {
+      "論文名稱": "On the Development of the On-board Flight Data Acquisition Systems for the Unmanned Aerial Vehicle (UAVs)",
+      "會議名稱": "AASRC/CCAS Joint Conference",
+      "作者群": "Chii-Chuan Chen, Ming-Po Lee, Jia-Yih Chang, Chen-Hung Huang, Yong-Hsien Chiu"
+    },
+    {
+      "論文名稱": "Study on the Guidance, Navigation and Flight Control Systems of the Unmanned Aerial Vehicles (UAVs)",
+      "會議名稱": "AASRC/CCAS Joint Conference",
+      "作者群": "Chii-Chuan Chen, Chia-Lun Chang, Jia-Yih Chang, Chen-Hung Huang, Zhi-wei Chiu"
+    },
+    {
+      "論文名稱": "On the Development of the Virtual Training Platform by Using LabVIEW",
+      "會議名稱": "AASRC/CCAS Joint Conference",
+      "作者群": "Chii-Chuan Chen, Xie-zheng Liu, Jia-Yih Chang, Chen-Hung Huang, Jin-qin Chang"
+    },
+    {
+      "論文名稱": "On the Development of the Ground Monitor and Control Platform for Unmanned Aerial Vehicle (UAVs)",
+      "會議名稱": "AASRC/CCAS Joint Conference",
+      "作者群": "Chii-Chuan Chen, You-Yu Liou, Jia-Yih Chang, Shie-Jeng Liou, Yu-Chi Leng"
+    },
+    {
+      "論文名稱": "Study on the Flight Control and Stability Systems of Unmanned Aerial Vehicles (UAVs)",
+      "會議名稱": "AASRC/CCAS Joint Conference",
+      "作者群": "Chii-Chuan Chen, Yuan-Fu Sung, Jia-Yih Chang, Ming-Po Lee, Zong-Ji Chen"
+    },
+    {
+      "論文名稱": "Guidance and Navigation of Unmanned Aerial Vehicles (UAVs) by Using the GPS",
+      "會議名稱": "AASRC/CCAS Joint Conference",
+      "作者群": "Chii-Chuan Chen, Min-Jeng Wang, Jia-Yih Chang, Chia-Lun Chang, Bing-Cheng Hou"
+    },
+    {
+      "論文名稱": "On the Development of the Graphical User Interface (GUI) for Controlling a Mini Robotic Arm by Using LabVIEW",
+      "會議名稱": "AASRC/CCAS Joint Conference",
+      "作者群": "Yu-Chi Leng, Chii-Chuan Chen, Jia-Yih Chang"
+    },
+    {
+      "論文名稱": "The Conceptual Design of the FIONA Spy Picosat",
+      "會議名稱": "AASRC/CCAS Joint Conference",
+      "作者群": "Guo-Cheng Wang, Chii-Chuan Chen, Bo-Sin Liang, Fu-Sung Syu, Jing-Cheng Jhuang, Jhih-Wei Hong, Guo-Siou Huang, Cheng-Yi Yang, Peng-Yang Li, Ting-Yuan Jhang, Yan-Kai Huang, Cyun-Jie Lin"
+    },
+    {
+      "論文名稱": "A Pseudo Real-Time Minimum Model Error (RTMME) Estimation Algorithm",
+      "會議名稱": "AASRC/CCAS Joint Conference",
+      "作者群": "Chii-Chuan Chen, D. Joseph Mook"
+    },
+    {
+      "論文名稱": "Analysis and Verification of the Water-Air Flow and Propulsion Performance for the Water Propelled Rocket",
+      "會議名稱": "AASRC/CCAS Joint Conference",
+      "作者群": "Jia-Yih Chang, Chii-Chuan Chen, Zen-Lan Wang, Tai-Hong Lin"
+    },
+    {
+      "論文名稱": "The Concept Design of Typhoon Observation Picosat",
+      "會議名稱": "AASRC/CCAS Joint Conference",
+      "作者群": "Chung-Song Wang, Chii-Chuan Chen, Yen-Chin Chang, Yu-Hsiang Su, Shi-Min Cai"
+    }
+  ],
+  "book": [
+    {
+      "專業書籍": "MATLAB程式設計入門",
+      "出版單位": "高立圖書有限公司",
+      "作者群": "陳啟川/方俊/黃振鴻/陳宗正 編譯"
+    }
+  ],
+  "patent": [],
+  "most": [
+    {
+      "name": "無人機與移動平台的自動跟隨系統之建構",
+      "schoolYear": "110"
+    },
+    {
+      "name": "蜷曲蠕動式仿生機器人之研製",
+      "schoolYear": "101"
+    },
+    {
+      "name": "科普活動：航太科學研習營",
+      "schoolYear": "98"
+    },
+    {
+      "name": "即時最小模型誤差估算法與卡爾曼濾波演算法整合可行性之研究",
+      "schoolYear": "98"
+    },
+    {
+      "name": "航太科學研習營",
+      "schoolYear": "97"
+    },
+    {
+      "name": "UAV動力系統噪音防制與性能提昇-子計畫四：UAV離合器最佳輕量設計與製作",
+      "schoolYear": "96"
+    }
+  ],
+  "tech": [],
+  "induAca": [
+    "定翼型無人機視覺輔助自動降落系統之研究(1/2) (2025-01 to 2025-12)",
+    "海洋獵污行動 (2021-04 to 2021-11)",
+    "資料擷取與數據分析整合委託研究 (2020-06 to 2020-12)",
+    "干擾誘標彈用之精準控制減速傘滯空研究(2/2) (2020-05 to 2020-11)",
+    "遠端監控與數位量測之整合 (2019-10 to 2019-12)",
+    "干擾誘標彈用之精準控制減速傘滯空研究(1/2) (2019-05 to 2019-11)",
+    "智慧電動輔助自行車關鍵技術開發暨智慧製造示範場域建置計畫-機器視覺與影像處理之整合應用研究 (2018-07 to 2018-12)",
+    "自行車車架及輪組快速量測系統研究-數位量測整合與應用 (2018-04 to 2018-11)",
+    "無人機機身槳葉與震動模擬分析報告 (2017-09 to 2017-11)",
+    "V-Type燒錄治具之人機介面整合開發 (2017-08 to 2018-01)",
+    "自行車暨健康科技先進技術與服務模式精進計畫-數位量測及遠端監控之整合與應用 (2016-06 to 2016-12)",
+    "虛擬儀控於檢測及人機介面之應用整合 (2013-10 to 2013-12)",
+    "人機介面整合開發 (2013-05 to 2013-06)",
+    "即時河道土砂淤積觀測方式評估之研究—以濁水溪為例 (2012-02 to 2012-12)",
+    "河川流量自動化觀測科技發展計畫(2/3) (2012-02 to 2012-12)",
+    "河川流量自動化觀測科技發展計畫(1/3) (2011-05 to 2011-12)",
+    "應用LabVIEW於無人飛行載具飛控系統軟體之開發 (2010-03 to 2010-12)"
+  ],
+  "perform": [],
+  "reward": [
+    "113學年度教學績優獎 (113, 2024-11) - 逢甲大學",
+    "2024 台灣無人飛機創意設計競賽–「飛機設計組」第一名 (113, 2024-08) - 中華民國航空太空學會",
+    "2023 台灣無人飛機創意設計競賽–「飛機設計組」第三名 (111, 2023-05) - 中華民國航空太空學會",
+    "2022 台灣無人飛機創意設計競賽–「飛機設計組」第一名 (111, 2022-08) - 中華民國航空太空學會",
+    "2021 台灣無人飛機創意設計競賽–重量級「任務設計獎」第一名 (110, 2021-12) - 中華民國航空太空學會",
+    "2021 台灣無人飛機創意設計競賽–重量級「原理報告獎」第二名 (110, 2021-12) - 中華民國航空太空學會",
+    "2021 台灣無人飛機創意設計競賽–重量級「口頭表達獎」第二名 (110, 2021-12) - 中華民國航空太空學會",
+    "2021 台灣無人飛機創意設計競賽–重量級「外型設計獎」第一名 (110, 2021-12) - 中華民國航空太空學會",
+    "2021 台灣無人飛機創意設計競賽–重量級「實務設計獎」第一名 (110, 2021-12) - 中華民國航空太空學會",
+    "2021 台灣無人飛機創意設計競賽–重量級「書面報告獎」第一名 (110, 2021-12) - 中華民國航空太空學會",
+    "2021 台灣無人飛機創意設計競賽–重量級「機動性能獎」第一名 (110, 2021-12) - 中華民國航空太空學會",
+    "2021 台灣無人飛機創意設計競賽–重量級「機體製造獎」第二名 (110, 2021-12) - 中華民國航空太空學會",
+    "2021 台灣無人飛機創意設計競賽–重量級「海報設計獎」第三名 (110, 2021-12) - 中華民國航空太空學會",
+    "2021 台灣無人飛機創意設計競賽–重量級「簡報架構獎」第三名 (110, 2021-12) - 中華民國航空太空學會",
+    "2021 台灣無人飛機創意設計競賽–重量級「飛行技術獎」第一名 (110, 2021-12) - 中華民國航空太空學會",
+    "2021 台灣無人飛機創意設計競賽–重量級「起落架製造獎」第三名 (110, 2021-12) - 中華民國航空太空學會",
+    "110學年度教學傑出獎 (110, 2021-11) - 逢甲大學",
+    "109學年度教學績優獎 (109, 2020-11) - 逢甲大學",
+    "2019臺灣無人飛機創意設計競賽「創意獎」第二名 (108, 2019-11) - 中華民國航空太空學會",
+    "2019臺灣無人飛機創意設計競賽「最佳低速飛行獎」 (108, 2019-11) - 中華民國航空太空學會",
+    "2019臺灣無人飛機創意設計競賽「最佳原理創意獎」 (108, 2019-11) - 中華民國航空太空學會",
+    "2019臺灣無人飛機創意設計競賽「最佳報告原理獎」 (108, 2019-11) - 中華民國航空太空學會",
+    "2019臺灣無人飛機創意設計競賽「最佳報告規畫獎」 (108, 2019-11) - 中華民國航空太空學會",
+    "2019臺灣無人飛機創意設計競賽「最佳報告設計獎」 (108, 2019-11) - 中華民國航空太空學會",
+    "2019臺灣無人飛機創意設計競賽「最佳外型創意獎」 (108, 2019-11) - 中華民國航空太空學會",
+    "2019臺灣無人飛機創意設計競賽「最佳外型設計獎」 (108, 2019-11) - 中華民國航空太空學會",
+    "2019臺灣無人飛機創意設計競賽「最佳實務設計獎」 (108, 2019-11) - 中華民國航空太空學會",
+    "2019臺灣無人飛機創意設計競賽「最佳機體製造獎」 (108, 2019-11) - 中華民國航空太空學會",
+    "2019臺灣無人飛機創意設計競賽「最佳結構設計獎」 (108, 2019-11) - 中華民國航空太空學會",
+    "2019臺灣無人飛機創意設計競賽「最佳飛行技術獎」 (108, 2019-11) - 中華民國航空太空學會",
+    "2019臺灣無人飛機創意設計競賽「最佳高速飛行獎」 (108, 2019-11) - 中華民國航空太空學會",
+    "2019臺灣無人飛機創意設計競賽「優良報告獎」第一名 (108, 2019-11) - 中華民國航空太空學會",
+    "2019臺灣無人飛機創意設計競賽「機動性能獎」第一名 (108, 2019-11) - 中華民國航空太空學會",
+    "2019臺灣無人飛機創意設計競賽「製造技術獎」第一名 (108, 2019-11) - 中華民國航空太空學會",
+    "2019臺灣無人飛機創意設計競賽「飛機設計獎」第一名 (108, 2019-11) - 中華民國航空太空學會",
+    "2018台灣無人飛機創意設計競賽-飛機設計獎 引擎組 第一名 (107, 2018-09) - 「中華民國航太學會」與「財團法人中華航空事業發展基金",
+    "2018台灣無人飛機創意設計競賽-引擎飛機設計組「優良報告獎」 (107, 2018-09) - 「中華民國航太學會」與「財團法人中華航空事業發展基金",
+    "2018台灣無人飛機創意設計競賽-引擎飛機設計組「機動性能獎」 (107, 2018-09) - 「中華民國航太學會」與「財團法人中華航空事業發展基金",
+    "2018台灣無人飛機創意設計競賽-引擎飛機設計組「製造技術獎」 (107, 2018-09) - 「中華民國航太學會」與「財團法人中華航空事業發展基金",
+    "2018台灣無人飛機創意設計競賽-財團法人華錫鈞航空工業發展基金會「華錫鈞飛機設計獎」 (107, 2018-09) - 財團法人華錫鈞航空工業發展基金會",
+    "106學年度教學傑出獎 (106, 2017-11) - 逢甲大學",
+    "2017第一屆凡爾賽吊扇創新設計競賽-佳作 (105, 2017-07) - 由鎰臻實業有限公司主辦、逢甲大學創意設計碩士學位學程",
+    "2017無人飛機創意設計大賽-進階飛機設計組「飛機設計獎佳作」 (105, 2017-03) - 中華民國航空太空學會/國立成功大學",
+    "2017無人飛機創意設計大賽-進階飛機設計組「製造技術獎」 (105, 2017-03) - 中華民國航空太空學會/國立成功大學",
+    "2016無人飛機創意設計大賽-引擎飛機設計組-「製造技術獎」第二名 (104, 2016-03) - 中華民國航空太空學會",
+    "2016無人飛機創意設計大賽-引擎飛機設計組-「氣動力設計獎」第二名 (104, 2016-03) - 中華民國航空太空學會",
+    "2015無人飛機創意設計大賽-引擎飛機設計組-佳作 (103, 2015-05) - 中華民國航空太空學會",
+    "2015無人飛機創意設計大賽-引擎飛機設計組-「機動性能獎」第三名 (103, 2015-05) - 中華民國航空太空學會",
+    "美商國家儀器 (NI) 2015 機電整合創意競賽榮獲評審特別獎 (103, 2015-01) - 美商國家儀器 (NI)台灣分公司",
+    "2012逢甲大學機電整合實作創意競 (100, 2012-06) - NI美商國家儀器公司",
+    "2012逢甲大學機電整合實作創意競 (100, 2012-06) - NI美商國家儀器公司",
+    "皮米衛星系統設計成果審查第1名 (99, 2011-06) - 國家太空中心",
+    "皮米衛星系統工程成果審查第1名 (99, 2011-01) - 國家太空中心",
+    "第九屆NI應用徵文比賽學術組NI特選獎 (99, 2010-12) - 美商國家儀器(NI)股份有限公司",
+    "優良教學教師 (校級) (96, 2007-11) - 逢甲大學"
+  ],
+  "speech": [],
+  "material": [],
+  "tal": [
+    "108年度大專校院教學實踐研究計畫「讓我們來設計一個再生水處理工程」 (108)",
+    "108年度大專校院教學實踐研究計畫「CDIO與專題導向式學習整合應用於電腦程式語言學習之研究」 (108)"
+  ]
+}

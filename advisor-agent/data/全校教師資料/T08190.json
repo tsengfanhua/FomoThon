@@ -1,0 +1,487 @@
+{
+  "teacherId": "T08190",
+  "name": "葉丞豪",
+  "mainUnit": "工程與科學學院",
+  "detailUnit": "材料科學與工程學系",
+  "skill": [
+    "第一原理材料模擬計算First Principles Computational Materials Calculation",
+    "高熵合金計算模擬High Entropy Alloy Calculation and Simulation",
+    "半導體元件設計模擬Semiconductor Devise Design and Simulation",
+    "氫能源開發Hydrogen Energy Generation",
+    "量子電容Quantum Capacitance",
+    "化學感測器Chemical Sensors"
+  ],
+  "edu": [
+    "國立臺灣師範大學 化學系 博士",
+    "國立臺灣師範大學 化學系 碩士",
+    "國立高雄大學 應用化學系 學士"
+  ],
+  "fcuExp": [
+    "材料研究中心 主任",
+    "材料科學與工程學系 系主任",
+    "材料科學與工程學系 助理教授",
+    "材料科學與工程學系 副教授"
+  ],
+  "currjob": [],
+  "otherExp": [
+    "日本國立物質材料研究機構 International Center for Mate 客員研究員",
+    "國立臺灣科技大學 化學工程學系 博士後研究",
+    "國立台灣師範大學 化學系 研究助理"
+  ],
+  "journal": [
+    {
+      "論文名稱": "Synergistic ROS Generation via Core-Shell Nanostructures with Increased Lattice Microstrain Combined with Single-Atom Catalysis for Enhanced Tumor Suppression.",
+      "期刊名稱": "ACS Appl. Mater. Interfaces., (SSCI)",
+      "作者群": "L. -C. Wang, L. -C. Chang, H. -L. Huang, P. -Y. Chang, C. -W. Pao, Y. -F. Liu, K. -S. Huang, Y. -H. Chien*, H. -S. Sheu*, W. -P. Su*, C. -H. Yeh*, C. -S. Yeh*."
+    },
+    {
+      "論文名稱": "Investigation of novel two-dimensional B2CO monolayer and its high sensing performance in detecting nitrogen-containing gases: A combined density functional theory calculation and non-equilibrium Green's function study",
+      "期刊名稱": "Sensors and Actuators A: Physical (SCIE)",
+      "作者群": "Yu-Tang Chen, Chen-Hao Yeh*"
+    },
+    {
+      "論文名稱": "Nafion/Silver Nanoparticles as an Electrochemically Sensitive Interface for the Detection of Ractopamine in Pork Liver",
+      "期刊名稱": "ACS omega (SCIE)",
+      "作者群": "Chia-Yi Chi, Ti-Hsuan Hsiao, Tsunghsueh Wu, Chen-Hao Yeh, Jyh-Pin Chou, Fu-Li Hsiao, Tsung-Shine Ko, Yang-Wei Lin*"
+    },
+    {
+      "論文名稱": "Selective detection of tricyclazole by optical technique using thiomalic acid–modified Au and Ag nanoparticle mixtures",
+      "期刊名稱": "Journal of Food and Drug Analysis (SCIE)",
+      "作者群": "Yu-Shu Pan, Tsunghsueh Wu, Cho-Chun Hu, Tai-Chia Chiu, Chen-Hao Yeh, Yang-Wei Lin*"
+    },
+    {
+      "論文名稱": "Enhanced catalytic performance of CuFeS2 chalcogenides for activation of persulfate towards decolorization and disinfection of pollutant in water",
+      "期刊名稱": "Materials Chemistry and Physics (SCIE)",
+      "作者群": "Yang-Wei Lin,* Ting-Yu Lai, Yu-Shu Pan, Xuan-Wei Fang, Hsing-Yi Chen, Chen-Hao Yeh,* Tsunghsueh Wu"
+    },
+    {
+      "論文名稱": "Synthesis and multicolored electrochromism of polycarbazoles containing oxadiazole",
+      "期刊名稱": "Dyes and Pigments (SCIE)",
+      "作者群": "Tzi-Yi Wu,* Jui-Cheng Chang, Yuan-Chung Lin, Jia-En Chiang, Chen-Hao Yeh, Li-Ting Lee, Chung-Wen Kuo, Pei-Ying Lee"
+    },
+    {
+      "論文名稱": "Reaction pathways of oxidative coupling of methane on lithiated lanthanum oxide",
+      "期刊名稱": "Molecular Catalysis (SCIE)",
+      "作者群": "Andrew C. Chien*, Ian Z. Xie, Chen-Hao Yeh"
+    },
+    {
+      "論文名稱": "Atomically dispersed golds on degradable zero-valent copper nanocubes augment oxygen driven Fenton-like reaction for effective orthotopic tumor therapy",
+      "期刊名稱": "Nature Communications (SCIE)",
+      "作者群": "Liu-Chun Wang, Li-Chan Chang, Wen-Qi Chen, Yi-Hsin Chien, Po-Ya Chang, Chih-Wen Pao, Yin-Fen Liu, Hwo-Shuenn Sheu,* Wen-Pin Su,* Chen-Hao Yeh* and Chen-Sheng Yeh*"
+    },
+    {
+      "論文名稱": "Combined Density Functional Theory Calculation and Non-equilibrium Green's Function Approach to Predict the Sensitivity of Nitrogen-containing Gases over PtTenS2-n Monolayers (n =0 - 2)",
+      "期刊名稱": "FlatChem (SCIE)",
+      "作者群": "Chen-Hao Yeh*, Dah-Wei Hsieh"
+    },
+    {
+      "論文名稱": "理論計算研究CO和NO分子在無缺陷和具缺陷Janus MoSSe單分子層上之感測性質",
+      "期刊名稱": "化學 (SCIE)",
+      "作者群": "陳品瑄； 陳威憶； 蘇予倫； 廖堅銘； 葉丞豪*"
+    },
+    {
+      "論文名稱": "Theoretical investigation of methane oxidation reaction over a novel metal-free catalyst biphenylene network",
+      "期刊名稱": "Diamond and Related Materials (SCIE)",
+      "作者群": "Wan-Sheng Su* and Chen-Hao Yeh*"
+    },
+    {
+      "論文名稱": "Two-Dimensional MoS2 Nanosheet-Functionalized Optical Microfiber for Room-Temperature Volatile Organic Compound Detection",
+      "期刊名稱": "ACS Applied Nano Materials (SCIE)",
+      "作者群": "Stephanie Hui Kit Yap, Kok Ken Chan, Chen-Hao Yeh, Yi-Hsin Chien*, Ken-Tye Yong*"
+    },
+    {
+      "論文名稱": "Theoretical insight into hydroxyl production via H2O2 decomposition over the Fe3O4(311) surface",
+      "期刊名稱": "RSC Advances (SCIE)",
+      "作者群": "Pin-Jun Lin, Chen-Hao Yeh * and Jyh-Chiang Jiang*"
+    },
+    {
+      "論文名稱": "Effects of external electric field on the sensing property of volatile organic compounds over Janus MoSSe monolayer: a first-principles investigation",
+      "期刊名稱": "RSC Advances (SCIE)",
+      "作者群": "Chen-Hao Yeh,*   Yu-Tang Chen  and  Dah-Wei Hsieh"
+    },
+    {
+      "論文名稱": "Facile Fabrication of Highly Stable and Wavelength-Tunable Tin Based Perovskite Materials with Enhanced Quantum Yield via the Cation Transformation Reaction",
+      "期刊名稱": "The Journal of Physical Chemistry Letters (SCIE)",
+      "作者群": "Jia-Ming Meng, Zhi-Xian Yang, Shivaraj B Patil, Jou-Chun Lin, Chen-Hao Yeh, Yi-Chia Chen, Chih-Wen Pao, Jeng-Lung Chen, Wun-Yu Chen, Chin-Wei Lu, Tsung-Rong Kuo, Di-Yan Wang*"
+    },
+    {
+      "論文名稱": "The investigation of methane storage at the Ni-MOF-74 material: a periodic DFT calculation",
+      "期刊名稱": "Physical Chemistry Chemical Physics (SCIE)",
+      "作者群": "Chen-Hao Yeh, Abdul Hannan Khan, Tsuyoshi Miyazaki,* Jyh-Chiang Jiang*"
+    },
+    {
+      "論文名稱": "Combined Density Functional Theory and Microkinetics Study to Predict Optimum Operating Conditions of Si (100) Surface Carbonization by Acetylene for High Power Devices",
+      "期刊名稱": "The Journal of Physical Chemistry Letters (SCIE)",
+      "作者群": "Santhanamoorthi Nachimuthu, Tsung-Ruei Chen, Chen-Hao Yeh, Lu-Sheng Hong,* Jyh-Chiang Jiang*"
+    },
+    {
+      "論文名稱": "Computational Study of Janus Transition Metal Dichalcogenide Monolayers for Acetone Gas Sensing",
+      "期刊名稱": "ACS Omega (SCIE)",
+      "作者群": "Chen-Hao Yeh*"
+    },
+    {
+      "論文名稱": "A computational study of CO oxidation on IrO2 (110) surface",
+      "期刊名稱": "Applied Surface Science (SCIE)",
+      "作者群": "Chen-Hao Yeh,* Bing-Cheng Ji, Santhanamoorthi Nachimuthu, Jyh-Chiang Jiang*"
+    },
+    {
+      "論文名稱": "第一原理探討乙醛分子於氧化鋅團簇[(ZnO)_(12)]上的縮合反應機構",
+      "期刊名稱": "化學 (ISSN 0441-3768)",
+      "作者群": "葉丞豪"
+    },
+    {
+      "論文名稱": "Tuning Interfacial Thermal and Electrical Conductance across a Metal/MoS2 Monolayer through N-Methyl-2-pyrrolidone Wet Cleaning",
+      "期刊名稱": "Advanced Materials Interfaces (SCIE)",
+      "作者群": "Yen-Ju Wu, Yann-Wen Lan,* Shih-Chieh Hsu, Chen-Hao Yeh, Yu-Seng Ku, Jyh-Chiang Jiang, and Yibin Xu*"
+    },
+    {
+      "論文名稱": "A First Study of the Kinetics of Metal Ion Adsorption at Solid/Liquid Interface Using Evanescent Wave-Based Optical Microfiber",
+      "期刊名稱": "IEEE SENSORS (SCIE)",
+      "作者群": "Stephanie Hui Kit Yap , Yi-Hsin Chien, Kok Ken Chan, Chen-Hao Yeh, Gong Zhang, Jyh-Chiang Jiang, Swee Chuan Tjin, and Ken-Tye Yong*"
+    },
+    {
+      "論文名稱": "In situ spectroscopic and theoretical investigation of methane activation on IrO2 nanoparticles: Role of Ir oxidation state on C-H activation",
+      "期刊名稱": "Journal of Catalysis (SCIE)",
+      "作者群": "Yu-Cheng Liu, Chen-Hao Yeh, Yen-Fan Lo, Santhanamoorthi Nachimuthu, Shawn D. Lin,* Jyh-Chiang Jiang*"
+    },
+    {
+      "論文名稱": "Enhancement of chlorobenzene sensing by doping aluminum on nanotubes: A DFT study",
+      "期刊名稱": "Applied Surface Science (SCIE)",
+      "作者群": "Chen-Hao Yeh, Wan-Yi Lin, Jyh-Chiang Jiang*"
+    },
+    {
+      "論文名稱": "B, N‐co‐doped graphene‐supported Ir and Pt clusters for methane activation and C─C coupling: A density functional theory study",
+      "期刊名稱": "Journal of Computational Chemistry (SCIE)",
+      "作者群": "Jemal Yimer Damte, Zhan‐Jun Zhu, Pin‐Jun Lin, Chen‐Hao Yeh*, Jyh‐Chiang Jiang*"
+    },
+    {
+      "論文名稱": "Theoretical study on wetting behavior of B-SWNT: Effects of doping concentration",
+      "期刊名稱": "Applied Surface Science (SCIE)",
+      "作者群": "Chen-Hao Yeh, Wan-Yi Lin, Jyh-Chiang Jiang*"
+    },
+    {
+      "論文名稱": "Effect of External Electric Field on Methane Conversion on IrO2(110) Surface A Density Functional Theory Study",
+      "期刊名稱": "ACS Catalysis (SCIE)",
+      "作者群": "Chen-Hao Yeh, Thong Minh Le Pham, Santhanamoorthi Nachimuthu, Jyh-Chiang Jiang*"
+    },
+    {
+      "論文名稱": "A first principles study of CO oxidation over gold clusters The catalytic role of boron nitride support and water",
+      "期刊名稱": "Molecular Catalysis (SCIE)",
+      "作者群": "Shi-En Fu, Chen-Hao Yeh, Pin-Jun Lin, Santhanamoorthi Nachimuthu, Jyh-Chiang Jiang*"
+    },
+    {
+      "論文名稱": "Dopamine sensing by boron and nitrogen co-doped single-walled carbon nanotubes: A first-principles study",
+      "期刊名稱": "Applied Surface Science (SCIE)",
+      "作者群": "Chen-Hao Yeh, Yung-Jou Hsiao, Jyh-Chiang Jiang*"
+    },
+    {
+      "論文名稱": "Quantum Chemical Studies of Methane Oxidation to Methanol on a Biomimetic Tricopper Complex: Mechanistic Insights",
+      "期刊名稱": "ChemistrySelect (SCIE)",
+      "作者群": "Chen‐Hao Yeh, Steve S‐F Yu, Sunney I Chan, Jyh‐Chiang Jiang*"
+    },
+    {
+      "論文名稱": "Density Functional Theory Calculation on the Dissociation Mechanism of Nitric Oxide Catalyzed by Cu4 Cluster in ZSM‐5 (Cu4‐ZSM‐5) and Bimetal Cu3Fe in ZSM‐5 (Cu3Fe‐ZSM‐5)",
+      "期刊名稱": "Journal of the Chinese Chemical Society (SCIE)",
+      "作者群": "Chen‐Hao Yeh, Jia‐Jen Ho*"
+    },
+    {
+      "論文名稱": "Conversion of CO2 and C2H6 to Propanoic Acid on an Iridium-Modified Graphene Oxide Surface: Quantum-Chemical Investigation",
+      "期刊名稱": "Industrial & Engineering Chemistry Research (SCIE)",
+      "作者群": "Chih-Chun Chen, Chen-Hao Yeh, Chun-Chih Chang, Jia-Jen Ho*"
+    },
+    {
+      "論文名稱": "Oxidation of CO on a carbon-based material composed of nickel hydroxide and hydroxyl graphene oxide,(Ni 4 (OH) 3–hGO)–a first-principles calculation",
+      "期刊名稱": "Physical Chemistry Chemical Physics (SCIE)",
+      "作者群": "Chen-Hao Yeh, Jia-Jen Ho*"
+    },
+    {
+      "論文名稱": "The highly effective catalytic behavior of a metal nanocluster Ru79 on the dissociation of a N2 molecule—A quantum-chemical calculation",
+      "期刊名稱": "Catalysis Communications (SCIE)",
+      "作者群": "Han-Jung Li, Chen-Hao Yeh, Jia-Jen Ho*"
+    },
+    {
+      "論文名稱": "Highly effective catalysis of the double-icosahedral Ru 19 cluster for dinitrogen dissociation–a first-principles investigation",
+      "期刊名稱": "Physical Chemistry Chemical Physics (SCIE)",
+      "作者群": "Chen-Hao Yeh, Yu-Chieh Lin, Jia-Jen Ho*"
+    },
+    {
+      "論文名稱": "The catalytic adsorption and dissociation of carbon dioxide on a double icosahedral Ru19 nanocluster – A theoretical study",
+      "期刊名稱": "Chemical Physics Letters (SCIE)",
+      "作者群": "Han-Jung Li, Chen-Hao Yeh, Jia-Jen Ho*"
+    },
+    {
+      "論文名稱": "Theoretical study of selective hydrogenation in a mixture of acetylene and ethylene over Fe@W(1 1 1) bimetallic surfaces",
+      "期刊名稱": "Applied Catalysis A: General (SCIE)",
+      "作者群": "Chun-Chih Chang, Chen-Hao Yeh, Jia-Jen Ho*"
+    },
+    {
+      "論文名稱": "Energetics of C–N coupling reactions on Pt(111) and Ni(111) surfaces from application of density-functional theory",
+      "期刊名稱": "Physical Chemistry Chemical Physics (SCIE)",
+      "作者群": "Wei-Jia Chen, Chen-Hao Yeh, Chun-Chih Chang, Jia-Jen Ho*"
+    },
+    {
+      "論文名稱": "A First‐Principle Calculation of Sulfur Oxidation on Metallic Ni(111) and Pt(111), and Bimetallic Ni@Pt(111) and Pt@Ni(111) Surfaces",
+      "期刊名稱": "ChemPhysChem (SCIE)",
+      "作者群": "Chen‐Hao Yeh, Jia‐Jen Ho*"
+    }
+  ],
+  "journal2": [],
+  "conference": [
+    {
+      "論文名稱": "DFT Study of the HfTeS4/PtSe2 van der Waal Heterostructure of Two-Dimensional Materials for Photocatalytic Water Splitting",
+      "會議名稱": "2024化學年會",
+      "作者群": "Tzu-Hsien Chen(陳諮嫻) and Chen-Hao Yeh*(葉丞豪)"
+    },
+    {
+      "論文名稱": "Two-dimensional GaSe/ZrTeS4 vdW Heterostructures for Photocatalytic Water Splitting : A DFT Study",
+      "會議名稱": "2024化學年會",
+      "作者群": "Yi-Lin Lu (呂懿麟) and Chen-Hao Yeh*(葉丞豪)"
+    },
+    {
+      "論文名稱": "Two-dimensional PdSnSe2-n/PdPSe van der Waal Heterostructures as Potential Candidates for Overall Photocatalytic Water Splitting Reaction: A DFT study",
+      "會議名稱": "2023年台灣理論計算分子科學學會會員大會暨學生研討會",
+      "作者群": "Jia-Yi Lin(林佳儀) and Chen-Hao Yeh(葉丞豪)*"
+    },
+    {
+      "論文名稱": "Catalytic Decomposition of CH4 and CO2 on the High Entropy Alloy TiVZrNb(111) Surface: A DFT Study",
+      "會議名稱": "2023年台灣理論計算分子科學學會會員大會暨學生研討會",
+      "作者群": "Chia-Ying Wu(吳佳穎) and Chen-Hao Yeh(葉丞豪)*"
+    },
+    {
+      "論文名稱": "Sensing of Volatile Organic Compounds (VOCs) on Ti3C2Tx MXenes Surfaces by First-principle Calculations",
+      "會議名稱": "2023年台灣理論計算分子科學學會會員大會暨學生研討會",
+      "作者群": "Chun-Yu Chang(張均宥) and Chen-Hao Yeh*(葉丞豪)"
+    },
+    {
+      "論文名稱": "A DFT Study of Gas Sensing the Toxic Gases on the Pristine and N-doped WO3.",
+      "會議名稱": "2023年台灣理論計算分子科學學會會員大會暨學生研討會",
+      "作者群": "Wei-Chun Hsu(許惟竣) and Chen-Hao Yeh＊(葉丞豪)"
+    },
+    {
+      "論文名稱": "DFT Study on the Electrical and Optical Sensitivity for the Toxic Sulfur-containing Gases on In2O3",
+      "會議名稱": "中國材料科學學會111年年會",
+      "作者群": "Bao-Hao Chiu (邱柏澔) and Chen-Hao Yeh* (葉丞豪)"
+    },
+    {
+      "論文名稱": "DFT Study on the Gas Sensing Characteristics of Chlorinated Organic Compounds by Using In2O3",
+      "會議名稱": "中國材料科學學會111年年會",
+      "作者群": "Wei-xun Huang(黃瑋勛) and Chen-Hao Yeh＊(葉丞豪)"
+    },
+    {
+      "論文名稱": "DFT Study for the Selectively Detecting Properties of Volatile Organic Compounds over the In2O3",
+      "會議名稱": "中國材料科學學會111年年會",
+      "作者群": "Zi-Jun Yan (顏子鈞) and Chen-Hao Yeh＊(葉丞豪)"
+    },
+    {
+      "論文名稱": "Theoretical Investigation of the Sensing Property for CO and NO Molecules over Pristine and Defected Janus MoSSe Monolayer",
+      "會議名稱": "中國材料科學學會111年年會",
+      "作者群": "Pin-Syuan Chen(陳品瑄) and  Chen-Hao Yeh(葉丞豪)*"
+    },
+    {
+      "論文名稱": "DFT Study for the Selectively Detecting Properties of Volatile Organic Compounds over the In2O3",
+      "會議名稱": "2022年台灣理論計算分子科學學會會員大會暨學生研討會",
+      "作者群": "Zi-Jun Yan (顏子鈞) and Chen-Hao Yeh＊(葉丞豪)"
+    },
+    {
+      "論文名稱": "DFT Study on the Gas Sensing Characteristics of Chlorinated Organic Compounds by Using In2O3",
+      "會議名稱": "2022年台灣理論計算分子科學學會會員大會暨學生研討會",
+      "作者群": "Wei-xun Huang(黃瑋勛) and Chen-Hao Yeh＊(葉丞豪)"
+    },
+    {
+      "論文名稱": "DFT Study on the Electrical and Optical Sensitivity for the Toxic Sulfur-containing Gases on In2O3",
+      "會議名稱": "2022年台灣理論計算分子科學學會會員大會暨學生研討會",
+      "作者群": "Bao-Hao Chiu (邱柏澔) and Chen-Hao Yeh* (葉丞豪)"
+    },
+    {
+      "論文名稱": "Theoretical Investigation of Halomethane Molecules towards the Greenhouse Effect",
+      "會議名稱": "2022年台灣理論計算分子科學學會會員大會暨學生研討會",
+      "作者群": "Pin-Syuan Chen(陳品瑄), Liyang Luo(駱立揚),* and  Chen-Hao Yeh(葉丞豪)*"
+    },
+    {
+      "論文名稱": "Theoretical study on the potential gas sensor of using 5D Two-dimensional transition-metal dichalcogenides for NO2 sensitivity enhancement",
+      "會議名稱": "2021 TwIChE",
+      "作者群": "Dah-Wei Hsieh(謝大緯) and Chen-Hao Yeh*(葉丞豪)"
+    },
+    {
+      "論文名稱": "DFT study on the gas sensing characteristics of pristine and modified 2D B2CO monolayers.",
+      "會議名稱": "2021 TwIChE",
+      "作者群": "Yu-Tang Chen (陳昱橖) and Chen-Hao Yeh*(葉丞豪)"
+    }
+  ],
+  "book": [],
+  "patent": [],
+  "most": [
+    {
+      "name": "光觸媒水解產氫反應於二維複合材料上之物理化學性質、反應機制與轉換效率的理論計算研究(2/3)",
+      "schoolYear": "113"
+    },
+    {
+      "name": "新型氮基二維材料於有毒氣體感測特性之理論計算研究",
+      "schoolYear": "113"
+    },
+    {
+      "name": "新型二維層狀結構於量子電容器開發之第一原理計算研究",
+      "schoolYear": "113"
+    },
+    {
+      "name": "光觸媒水解產氫反應於二維複合材料上之物理化學性質、反應機制與轉換效率的理論計算研究(1/3)",
+      "schoolYear": "112"
+    },
+    {
+      "name": "二維不對稱材料於空氣汙染物的感測機制與轉換反應之理論計算研究(3/3)",
+      "schoolYear": "111"
+    },
+    {
+      "name": "二維過渡金屬鹵化物基底之凡德瓦異質結構於光觸媒水解產氫之理論研究",
+      "schoolYear": "111"
+    },
+    {
+      "name": "二維不對稱材料於空氣汙染物的感測機制與轉換反應之理論計算研究(2/3)",
+      "schoolYear": "110"
+    },
+    {
+      "name": "微波輔助水熱合成硫化銦/硫化鋅奈米異質結構於光催化產氫之應用",
+      "schoolYear": "110"
+    },
+    {
+      "name": "二維不對稱材料於空氣汙染物的感測機制與轉換反應之理論計算研究(1/3)",
+      "schoolYear": "109"
+    }
+  ],
+  "tech": [],
+  "induAca": [],
+  "perform": [],
+  "reward": [
+    "113年度國科會補助大專校院研究獎勵 (113, 2024-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (113, 2024-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (113, 2024-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (113, 2024-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (113, 2024-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (113, 2024-11) - 逢甲大學",
+    "112年度國科會補助大專校院研究獎勵 (112, 2023-12) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "111學年度優良導師 (111, 2023-11) - 學生事務處",
+    "逢甲大學論文著作獎勵傑出獎 (111, 2022-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (111, 2022-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (111, 2022-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (111, 2022-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (111, 2022-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (111, 2022-11) - 逢甲大學",
+    "111年度國科會補助大專校院研究獎勵 (111, 2022-10) - 研究發展處",
+    "逢甲大學論文著作獎勵傑出獎 (110, 2021-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (110, 2021-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (110, 2021-11) - 逢甲大學",
+    "110年度科技部補助大專校院研究獎勵 (110, 2021-10) - 產學合作處"
+  ],
+  "speech": [
+    {
+      "演講題目": "Two-dimensional PdSnSe2-n/PdPSe van der Waal Heterostructures as Potential Candidates for Overall Photocatalytic Water Splitting Reaction: A DFT study",
+      "邀請單位": "2024無機錯鹽研討會",
+      "演講日期": "2024-07"
+    },
+    {
+      "演講題目": "Theoretical Investigations on the Catalysis and Gas Sensing Applications via Two-dimensional Materials",
+      "邀請單位": "國立中山大學材料與光電科學學系",
+      "演講日期": "2024-04"
+    },
+    {
+      "演講題目": "Combined Density Functional Theory Calculation and Non-equilibrium Green's Function Approach to Predict the Sensitivity of Nitrogen-containing Gases over PtTenS2-n Monolayers (n =0 - 2) (Invited Speaker)",
+      "邀請單位": "中國材料科學學會 2023 MRSTIC",
+      "演講日期": "2023-11"
+    },
+    {
+      "演講題目": "Theoretical Investigations on the Catalysis and Gas Sensing Applications via Two-dimensional Materials",
+      "邀請單位": "國立成功大學材料科學及工程學系",
+      "演講日期": "2023-11"
+    },
+    {
+      "演講題目": "Theoretical Investigations on the Catalysis and Gas Sensing Applications via Two-dimensional Materials",
+      "邀請單位": "國立清華大學生物醫學工程研究所",
+      "演講日期": "2023-10"
+    },
+    {
+      "演講題目": "Combined Density Functional Theory Calculation and Non-equilibrium Green's Function Approach to Predict the Sensitivity of Nitrogen-containing Gases over PtTenS2-n Monolayers (n =0 - 2) (Invited Speaker)",
+      "邀請單位": "The 6th International Conference on Molecular Simulation (IC",
+      "演講日期": "2023-10"
+    },
+    {
+      "演講題目": "Theoretical investigations of Janus two-dimensional materials towards various gas sensors applications",
+      "邀請單位": "國立中興大學精密工程研究所",
+      "演講日期": "2023-04"
+    },
+    {
+      "演講題目": "Combined Density Functional Theory Calculation and Non-equilibrium Green's Function Approach to Predict the Sensitivity of Nitrogen-containing Gases over PtTenS2-n Monolayers (n =0 - 2) (Invited Speaker)",
+      "邀請單位": "2023化學年會",
+      "演講日期": "2023-03"
+    },
+    {
+      "演講題目": "Theoretical investigations of Janus two-dimensional materials towards various gas sensors applications",
+      "邀請單位": "輔仁大學化學系",
+      "演講日期": "2022-12"
+    },
+    {
+      "演講題目": "Theoretical investigations of two-dimensional materials on the gas sensor and photocatalytic water-splitting applications",
+      "邀請單位": "國科會",
+      "演講日期": "2022-12"
+    },
+    {
+      "演講題目": "Theoretical investigations of Janus two-dimensional materials towards various gas sensors applications",
+      "邀請單位": "｢環境氣體偵測與催化｣ 研討會",
+      "演講日期": "2022-12"
+    },
+    {
+      "演講題目": "甲烷氧化催化劑之理論計算輔助設計",
+      "邀請單位": "中國文化大學, 2022綠能科技與材料論壇",
+      "演講日期": "2022-03"
+    },
+    {
+      "演講題目": "Theoretical investigations of low-dimensional materials towards various gas sensors applications",
+      "邀請單位": "國立臺灣科技大學材料科學與工程學系",
+      "演講日期": "2021-12"
+    },
+    {
+      "演講題目": "Theoretical investigations of low-dimensional materials towards various gas sensors applications",
+      "邀請單位": "國立中興大學材料科學與工程學系",
+      "演講日期": "2021-11"
+    },
+    {
+      "演講題目": "Computational-aided design of various methane oxidation catalysts",
+      "邀請單位": "國立清華大學工程與系統科學系",
+      "演講日期": "2021-10"
+    },
+    {
+      "演講題目": "Theoretical Investigations on the Sensing Property of Volatile Organic Compounds over Janus 2D Monolayers (Invited Speaker)",
+      "邀請單位": "APSMR 2021 Annual Meeting",
+      "演講日期": "2021-08"
+    },
+    {
+      "演講題目": "Theoretical study of low-dimensional materials towards the gas sensor design",
+      "邀請單位": "創源生技, 第三屆化學與材料模擬趨勢暨產業",
+      "演講日期": "2021-04"
+    },
+    {
+      "演講題目": "Methane Activation on IrO2 Catalyst",
+      "邀請單位": "國立嘉義大學應用化學系",
+      "演講日期": "2021-01"
+    },
+    {
+      "演講題目": "CO Oxidation Mechanism on IrO2 Surface",
+      "邀請單位": "「催化反應機制探討」研討會",
+      "演講日期": "2020-12"
+    },
+    {
+      "演講題目": "計算科學於化學與材料上的應用",
+      "邀請單位": "逢甲大學應用數學系",
+      "演講日期": "2020-10"
+    },
+    {
+      "演講題目": "Methane Activation on IrO2 Catalyst",
+      "邀請單位": "國立高雄大學應用化學系",
+      "演講日期": "2020-10"
+    }
+  ],
+  "material": [],
+  "tal": []
+}

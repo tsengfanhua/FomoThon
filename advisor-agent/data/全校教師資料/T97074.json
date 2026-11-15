@@ -1,0 +1,860 @@
+{
+  "teacherId": "T97074",
+  "name": "李榮三",
+  "mainUnit": "資訊電機學院",
+  "detailUnit": "資訊工程學系",
+  "skill": [
+    "無線通訊Wireless Communications",
+    "資訊安全Information Security",
+    "電子商務E-Commerce",
+    "密碼學Cryptography",
+    "數位影像處理Image Processing",
+    "區塊鏈技術與應用Blockchain technique and its application"
+  ],
+  "edu": [
+    "中正大學 資訊工程學系 博士",
+    "中正大學 資訊工程學系 學士"
+  ],
+  "fcuExp": [
+    "校務企劃組 組長",
+    "系統維運組 組長",
+    "資通安全研究中心 副主任",
+    "資源管理中心 主任",
+    "資通安全研究中心 主任",
+    "資訊教學中心 主任",
+    "資訊工程學系 系主任",
+    "逢甲大學帆宣智慧城市5G實驗室 研究員",
+    "資訊工程學系 助理教授",
+    "資訊工程學系 副教授",
+    "資訊工程學系 教授",
+    "資訊工程學系 教授",
+    "資訊工程學系 教授",
+    "資訊工程學系 特聘教授",
+    "資訊工程學系 教授"
+  ],
+  "currjob": [],
+  "otherExp": [],
+  "journal": [
+    {
+      "論文名稱": "ML-based Intrusion Detection System for Precise APT Cyber-clustering",
+      "期刊名稱": "Computers & Secuirty (SCIE)",
+      "作者群": "Lee, J.S., Fan, Y.Y., Cheng, C.H, Chew, C. J., and Kuo, C.W.*"
+    },
+    {
+      "論文名稱": "Log Preservation in Custody Dual Blockchain with Energy Regime and Obfuscation Shuffle",
+      "期刊名稱": "IEEE Transactions on Network Science and Engineering (SCIE)",
+      "作者群": "Chew, C. J., Lee, W.B., Chen, T.H., Lin I.C., and Lee, J.S.*"
+    },
+    {
+      "論文名稱": "Lawful Remote Forensics Mechanism with Admissibility of Evidence in Stochastic and Unpredictable Transnational Crime",
+      "期刊名稱": "IEEE Transactions on Information Forensics and Security (SCIE)",
+      "作者群": "Chew, C. J., Lee, W. B., Sung, L. Z., Chen, Y. C., Wang, S.J., Lee, J.S.*"
+    },
+    {
+      "論文名稱": "Preserving Manipulated and Synthetic Deepfake Detection through Face Texture Naturalness",
+      "期刊名稱": "Journal of Information Security and Applications (SCIE)",
+      "作者群": "Chew, C. J., Lin, Y. C., Chen, Y. C., Fan, Y.Y., and Lee, J.S.*"
+    },
+    {
+      "論文名稱": "Blockchain-based pipeline custody system (BPCS) for preserving critical video evidence",
+      "期刊名稱": "Journal of Internet Technology (SCIE)",
+      "作者群": "Fan, Y.Y., Chew, C. J., Hong, W. Z., Chen, Y. C., Lee, J.S.*"
+    },
+    {
+      "論文名稱": "Design and Evaluation of Device Authentication and Secure Communication System with PQC for AIoT Environments",
+      "期刊名稱": "Electronics (SSCI,SCIE)",
+      "作者群": "Chen, Y.J., Hsu, C.L., Lin, T.W., Lee, J.S.*"
+    },
+    {
+      "論文名稱": "Preserving Privacy and Traceability in Car-sharing Blockchain based on Attribute Cryptosystem",
+      "期刊名稱": "Journal of Internet Technology (SCIE)",
+      "作者群": "Chen, T.H., Chew, C. J., and Lee, J.S.*"
+    },
+    {
+      "論文名稱": "Behavioral Analysis Zero-Trust Architecture Relying on Adaptive Multifactor and Threat Determination",
+      "期刊名稱": "KSII Transactions on Internet and Information Systems (SCIE)",
+      "作者群": "Chew, C. J., Wang, P.Y., and Lee, J.S.*"
+    },
+    {
+      "論文名稱": "Constructing Gene Features for Robust 3D Mesh Zero-watermarking",
+      "期刊名稱": "Journal of Information Security and Applications (SCIE)",
+      "作者群": "Lee, J.S., Chen, Y. C., Chew, C. J., Hong, W. Z., Fan, Y.Y., Li, B."
+    },
+    {
+      "論文名稱": "Preserving friendly stacking and weighted shadows in selective scalable secret image sharing",
+      "期刊名稱": "Multimedia Tools and Applications (SCIE)",
+      "作者群": "Lee, J.S., Chen, Y. C., Hsieh, Y.H., Chang, S.H., and Huynh, N .T."
+    },
+    {
+      "論文名稱": "Blockchain-based WDP Solution for Real-time Heterogeneous Computing Resource Allocation",
+      "期刊名稱": "IEEE Transactions on Network and Service Management (SCIE)",
+      "作者群": "Wu, W.C., Chew, C. J., Chen, Y. C., Wu, C.H., Chen, T.H., and Lee, J.S*."
+    },
+    {
+      "論文名稱": "CoNN-IDS: Intrusion Detection System based on Collaborative Neural Networks and Agile Training",
+      "期刊名稱": "Computers & Security (SCIE)",
+      "作者群": "Lee, J.S., Chen, Y. C., Chew, C. J., Chen, C.L., Huynh, T.N., and Kuo, C.W.*"
+    },
+    {
+      "論文名稱": "Image dehazing technique based on sky weight detection and fusion transmission",
+      "期刊名稱": "Journal of Internet Technology (SCIE)",
+      "作者群": "Lee, J.S., Fan, Y.Y., Lee, H.Y., Yong, G.W., and Chen, Y. C."
+    },
+    {
+      "論文名稱": "Medical Blockchain: Data Sharing and Privacy Preserving of EHR based on Smart Contract",
+      "期刊名稱": "Journal of Information Security and Applications (SCIE)",
+      "作者群": "Lee, J.S., Chew, C.J. , Liu, J.Y., Chen, Y.C., and Tsai, K.Y."
+    },
+    {
+      "論文名稱": "Preserving Indomitable DDoS Vitality through Resurrection Social Hybrid Botnet",
+      "期刊名稱": "Computers & Security (SCIE)",
+      "作者群": "Chew, C. J., Chen, Y. C, Lee, J.S.*, Chen, C. L., and Tsai, K. Y."
+    },
+    {
+      "論文名稱": "Secure Session between an IoT Device and a Cloud Server based on Elliptic Curve Cryptosystem",
+      "期刊名稱": "International Journal of Information and Computer Security (EI)",
+      "作者群": "Cheng, T.F., Chen, Y.C., Song Z.D., Tu, H. N., and Lee, J.S*.,"
+    },
+    {
+      "論文名稱": "Robust 3D Mesh Zero-watermarking based on Spherical Coordinate and Skewness Measurement",
+      "期刊名稱": "Multimedia Tools and Applications (SCIE)",
+      "作者群": "Lee, J.S., Liu, C., Chen, Y. C., Hong, W. Z., and Li, B."
+    },
+    {
+      "論文名稱": "Efficient Peer-to-Peer E-Payment based on Asynchronous Dual Blockchain",
+      "期刊名稱": "Journal of Internet Technology (SCIE)",
+      "作者群": "Hong, W.C. Yang, R. K., Chen, Y. C, Li, B., and Lee, J.S."
+    },
+    {
+      "論文名稱": "Preserving Liberty and Fairness in Combinatorial Double Auction Games based on Blockchain",
+      "期刊名稱": "IEEE Systems Journal (SCIE)",
+      "作者群": "Lee, J.S., Chew, C. J., Chen, Y. C, and Wei, K. J."
+    },
+    {
+      "論文名稱": "Towards Accurate and Efficient Classification of Power System Contingencies and Cyber-Attacks Using Recurrent Neural Networks",
+      "期刊名稱": "IEEE Access (SCIE)",
+      "作者群": "Hong, W.C. Huang, D. Y., Chen, C. L, and Lee, J.S."
+    },
+    {
+      "論文名稱": "Learning Salient Seeds Refer to the Manifold Ranking and Background-Prior Strategy",
+      "期刊名稱": "Multimedia Tools and Applications (SCIE)",
+      "作者群": "Chou, Y. C, Nien, Y. W, and Chen, Y. C., Li, B., Lee, J.S.*"
+    },
+    {
+      "論文名稱": "Reputation-oriented electronic micro-loaning based on smart contracts in a solidarity group",
+      "期刊名稱": "Journal of Internet Technology (SCIE)",
+      "作者群": "Lee, J.S., Chen, Y. C, Hong, W.C., Yang, R. K., and Lee, K.Y."
+    },
+    {
+      "論文名稱": "Zero-day Intrusion Detection System based on Dual Neural Network and Aggregation Mechanism",
+      "期刊名稱": "Communications of the Chinese Cryptology and Information Security Association (ECONLIT)",
+      "作者群": "Chen, C.L., Wei, K.J., Chen, Y.C., and Lee, J.S."
+    },
+    {
+      "論文名稱": "Biometric-based key management for satisfying patient’s control over health information in the HIPAA regulations",
+      "期刊名稱": "KSII Transactions on Internet and Information Systems (SCIE)",
+      "作者群": "Bui, Q.A., Lee, W.B., Lee, J.S.*, Wu, H.L., and Liu, J.U.,"
+    },
+    {
+      "論文名稱": "Preserving Privacy and Fairness for an Innovative E-Commerce Model: Penny M-lottery",
+      "期刊名稱": "Journal of Internet Technology (SCIE)",
+      "作者群": "Lee, J.S., Chen, Y. C, Kang, Y. H, and Yang, R. K."
+    },
+    {
+      "論文名稱": "AAVSS: Auxiliary Authorization Mechanism based on Arbitrary-Angle VSS",
+      "期刊名稱": " International Journal of Network Security (EI,ECONLIT)",
+      "作者群": "Chen, Y.C., Wei, K.J., Lee, J.S., Tu, H. N., and Lin, J.H.,"
+    },
+    {
+      "論文名稱": "Visibility dehazing based on channel-weighted analysis and illumination tuning",
+      "期刊名稱": "Multimedia Tools and Applications (SCIE)",
+      "作者群": "Lee, J.S., Li, C. H., and Lee, H. Y."
+    },
+    {
+      "論文名稱": "Selective scalable secret image sharing with adaptive pixel-embedding technique",
+      "期刊名稱": "Multimedia Tools and Applications (SCIE)",
+      "作者群": "Chen, Y.C., Lee, J.S., and Su, H.C."
+    },
+    {
+      "論文名稱": "DNT-based Image Illumination Refinement System with Concurrent Copyright Embedding",
+      "期刊名稱": "Journal of Testing and Evaluation (SCIE)",
+      "作者群": "Lee, J.S. and Wang, Y.H."
+    },
+    {
+      "論文名稱": "Refining irregular image illumination with concurrent ownership embedding",
+      "期刊名稱": "Multimedia Tools and Application (SCIE)",
+      "作者群": "Lee, J.S., Su, H.C., and Wei, K.J."
+    },
+    {
+      "論文名稱": "An Effective Preprocessor of Edge Detection for Distorted Images",
+      "期刊名稱": "Journal of Testing and Evaluation (SCIE)",
+      "作者群": "Lee, J.S."
+    },
+    {
+      "論文名稱": "Preserving copyright in renovating large-scale image smudges based on advanced SSD and Edge confidence",
+      "期刊名稱": "Optik - International Journal for Light and Electron Optics (SCIE)",
+      "作者群": "Lee, J.S., Huang, B.R., and Wei, K.J."
+    },
+    {
+      "論文名稱": "Oblivious Transfer System for Information Concealing and Recovery in Cloud Computing",
+      "期刊名稱": "Journal of Internet Technology (SCIE)",
+      "作者群": "Lee, J.S., Li, B., and Huang, B. R."
+    },
+    {
+      "論文名稱": "Image structure rebuilding technique using fractal dimension on the best match patch searching",
+      "期刊名稱": "Multimedia Tools and Applications (SCIE)",
+      "作者群": "Lee, J.S. Wei, K.J., and Wen, K.R."
+    },
+    {
+      "論文名稱": "SMP: Scalable Multicast Protocol for Granting Authority in Heterogeneous Networks",
+      "期刊名稱": "International Journal of Network Security (EI)",
+      "作者群": "Wei, K.J., Lee, J.S. and Li, B."
+    },
+    {
+      "論文名稱": "Design on Two-Factor Authentication Mechanism for Telecare Medical Information systems",
+      "期刊名稱": " International Journal of Digital Content Technology and its Applications (EI)",
+      "作者群": "Wei, K.J., Lee, J.S., Tu, H. N., and Lin, F.P."
+    },
+    {
+      "論文名稱": "Provable secure brand-new Multi-auction Mechanism with Dynamic Identity",
+      "期刊名稱": "KSII Transactions on Internet and Information Systems (SCIE)",
+      "作者群": "Lee, J.S. Wei, K.J., Chen Y. C. and Sun, Y.H."
+    },
+    {
+      "論文名稱": "Renovating Contaminative Image Archives based on Patch Propagation and Adaptive Confidence Collation",
+      "期刊名稱": "IEEE Transactions on Circuits and Systems for Video Technolo (SCIE,EI)",
+      "作者群": "Lee, J.S., Wen, K.R., and Li, B."
+    },
+    {
+      "論文名稱": "Tele-micropayment Scam Prevention based on Visual Secret Sharing Technique",
+      "期刊名稱": "Multimedia Tools and Applications (SCIE)",
+      "作者群": " Lee, J.S.,Wei, K. J.,Chen, S.J.,Wang, Y.H."
+    },
+    {
+      "論文名稱": "Robust t-out-of-n Internet Lottery Games with Player Anonymity",
+      "期刊名稱": "International Journal of Computers and communications ()",
+      "作者群": "Lee, J.S. Wei, K.J., and Kao, W.C."
+    },
+    {
+      "論文名稱": "Selective Scalable Secret Image Sharing with Verification",
+      "期刊名稱": "Multimedia Tools and Applications (SCIE)",
+      "作者群": "Lee, J.S. and Chen, Y. R."
+    },
+    {
+      "論文名稱": "Enhancing the Security of Credit Card Transaction based on Visual DSC",
+      "期刊名稱": "KSII Transactions on Internet and Information Systems (SCIE)",
+      "作者群": " Wei, K. J., Lee, J.S., and Chen, S.J."
+    },
+    {
+      "論文名稱": "Preserving User-Friendly Shadow and High-Contrast Quality for multiple Visual Secret Sharing Technique",
+      "期刊名稱": "Digital Signal Processing (SCIE)",
+      "作者群": "Lee, J.S., Chang, C.C., Huynh, N. T., and Tsai, H. Y."
+    },
+    {
+      "論文名稱": "A User-Friendly and Authenticatable Secret Image Sharing Scheme",
+      "期刊名稱": " Journal of Internet Technology (SCIE)",
+      "作者群": "Lee, J.S., Chang, C.C. and Tsai, H. Y."
+    },
+    {
+      "論文名稱": "Stable Watermarking Technique based on XNOR operation and Scale Relationship",
+      "期刊名稱": "Multimedia Tools and Applications (SCIE)",
+      "作者群": "Lee, J.S., Wong, H.S., Chen, Y. R., and Wang, Y. H."
+    },
+    {
+      "論文名稱": "Self-recognized Watermarking Technique that Resists Large-Scale Cropping",
+      "期刊名稱": "IEEE Multimedia (SCIE,EI)",
+      "作者群": "Lee, J.S. and Li, Bo"
+    },
+    {
+      "論文名稱": "HORME: Hierarchical-Object-Relational Medical management for Electronic record",
+      "期刊名稱": "Security and Communication Networks (SCIE,EI)",
+      "作者群": "Yang, C.C., Wei, K.J, Li, B. and Lee, J.S."
+    },
+    {
+      "論文名稱": "RII: Renovating Irregular Illumination of Digital Image Archives",
+      "期刊名稱": "Journal of Visual Communication & Image Representation (SCIE,EI)",
+      "作者群": "Lee, J.S."
+    },
+    {
+      "論文名稱": "Provably Secure Conference Key Distribution Mechanism Preserving the Forward and Backward Secrecy",
+      "期刊名稱": "International Journal of Network Security (EI)",
+      "作者群": "Lee, J.S., Chang, C.C., and Wei, K.J."
+    },
+    {
+      "論文名稱": "ART-Based Non-Iterative Electronic Lottery Mechanism with Robustness",
+      "期刊名稱": "IET Information Security (SCIE)",
+      "作者群": "Lee, J.S., Kao, W.C. and Li, B."
+    },
+    {
+      "論文名稱": "A Wide-adapted Bantam Protocol for Roaming across Wireless Areas",
+      "期刊名稱": "Wireless Networks (SCIE)",
+      "作者群": "Lee, J.S. and Tseng, W.T."
+    },
+    {
+      "論文名稱": "Fast Authentication Mechanism with Provable Correctness for Cluster-based VANETs",
+      "期刊名稱": "Security and Communication Networks (SCIE)",
+      "作者群": "Lee, J.S. and Huang Y.C."
+    },
+    {
+      "論文名稱": "Preserving User-Participation for Insecure Network Communications with CAPTCHA and Visual Secret Sharing Technique",
+      "期刊名稱": "IET Networks ()",
+      "作者群": "Lee, J.S. and Hsieh, M.H."
+    },
+    {
+      "論文名稱": "Note on \"Authentication protocol using an identifier in an ad hoc network environment",
+      "期刊名稱": "Mathematical and Computer Modelling (SCIE,EI)",
+      "作者群": "Lee, J.S. and Li, B."
+    },
+    {
+      "論文名稱": "An Innovative Electronic Group-buying System for Mobile Commerce",
+      "期刊名稱": "Electronic Commerce Research and Applications (SCIE)",
+      "作者群": "Lee, J.S. and Lin, K.S."
+    },
+    {
+      "論文名稱": "Contrast-Adaptive Removable Visible Watermarking (CARVW) for Digital Internet Media",
+      "期刊名稱": "Image and Vision Computing (SCIE,EI)",
+      "作者群": "Lin, P.Y., Chen, Y.H., Chang, C.C., Lee, J.S."
+    },
+    {
+      "論文名稱": "A Robust E-commerce Service: Light-weight Secure Mail-order Mechanism",
+      "期刊名稱": "Electronic Commerce Research and Applications (SCIE,EI)",
+      "作者群": " Lee, J.S. and Lin, K.S."
+    },
+    {
+      "論文名稱": "An Interactive Mobile SMS Confirmation Method using Secret Sharing Technique",
+      "期刊名稱": "Computers & Security (SCIE,EI)",
+      "作者群": "J.S. Lee and M.H. Hsieh"
+    },
+    {
+      "論文名稱": "An Improved CRT-based Watermarking Scheme with Voting Strategy",
+      "期刊名稱": "Journal of Computers (EI)",
+      "作者群": "Wong, H.S., Chen, Y.R., and Lee, J.S."
+    },
+    {
+      "論文名稱": "Protecting the Content Integrity of Digital Imagery with Fidelity Preservation",
+      "期刊名稱": "ACM Transactions on Multimedia Computing Communications and (SCIE,EI)",
+      "作者群": "Lin, P.Y., Lee, J.S. and Chang, C.C."
+    },
+    {
+      "論文名稱": "A Cryptographic Alternative for Preserving PHI in Compliance with HIPAA Privacy/Security Regulations",
+      "期刊名稱": "Journal of Computers (EI)",
+      "作者群": "Li, B. and  Lee, J.S."
+    },
+    {
+      "論文名稱": "Lightweight Secure Roaming Mechanism between GPRS/UMTS and Wireless LANs",
+      "期刊名稱": "Wireless Personal Communications (SCIE,EI)",
+      "作者群": "Lee, J.S., Lin, P.Y. and Chang, C.C."
+    },
+    {
+      "論文名稱": "Secret Sharing Using Visual Cryptography",
+      "期刊名稱": "Journal of Electronic Science and Technology (EI)",
+      "作者群": "Chang, C.C., Li, B. and Lee, J.S."
+    },
+    {
+      "論文名稱": "Hybrid Wet Paper Coding Mechanism for Steganography Employing n-Indicator and Fuzzy Edge Detector",
+      "期刊名稱": "Digital Signal Processing (SCIE,EI)",
+      "作者群": "Chang, C. C., Lee, J. S. and Le, T. H. N."
+    },
+    {
+      "論文名稱": "Non-Iterative Privacy Preservation for Online Lotteries",
+      "期刊名稱": "IET Information Security (SCIE,EI)",
+      "作者群": "Lee, J.S., Chan, C.S. and Chang, C.C."
+    },
+    {
+      "論文名稱": "An On-line Electronic Check System with Mutual Authentication",
+      "期刊名稱": "Computers & Electrical Engineering (SCIE,EI)",
+      "作者群": "Chang, C.C., Chang, S.C. and Lee, J.S."
+    },
+    {
+      "論文名稱": "Dual Digital Watermarking for Internet Media Based on Hybrid Strategies",
+      "期刊名稱": "IEEE Transactions on Circuits and Systems for Video Technolo (SCIE,EI)",
+      "作者群": "Lin, P.Y., Lee, J.S. and Chang, C.C."
+    },
+    {
+      "論文名稱": "A Secure Multicast Framework in Large and High-Mobility Network Groups",
+      "期刊名稱": "IEICE Transactions on Communications (SCIE,EI)",
+      "作者群": "Lee, J.S. and Chang, C.C."
+    },
+    {
+      "論文名稱": "A Novel Illumination-Balance Technique for Improving the Quality of Degraded Text-Photo Images",
+      "期刊名稱": "IEEE Transactions on Circuits and Systems for Video Technolo (SCIE,EI)",
+      "作者群": "Lee, J.S., Chen, C.H. and Chang, C.C."
+    },
+    {
+      "論文名稱": "Distortion-Free Secret Image Sharing Mechanism Using Modulus Operator",
+      "期刊名稱": "Pattern Recognition (SCIE,EI,TSSCI)",
+      "作者群": "Lin, P.Y., Lee, J.S. and Chang, C.C."
+    },
+    {
+      "論文名稱": "Design of Electronic t-out-of-n Lotteries on the Internet",
+      "期刊名稱": "Computer Standards & Interfaces (SCIE,EI)",
+      "作者群": "Lee, J.S. and Chang, C.C."
+    },
+    {
+      "論文名稱": "Time-bound Based Password Authentication Scheme for Multi-server Architecture",
+      "期刊名稱": "Int.Journal of Innovative Computing,Information and Control (SCIE,EI)",
+      "作者群": "Chang, C.C., Lee, J.S. and Kuo, J.Y."
+    },
+    {
+      "論文名稱": "Robust t-out-of-n Oblivious Transfer Mechanism Based on CRT",
+      "期刊名稱": "Journal of Network and Computer Applications (SCIE,EI)",
+      "作者群": "Chang, C.C. and Lee, J.S."
+    },
+    {
+      "論文名稱": "Secure Authentication Protocols for Mobile Commerce Transactions",
+      "期刊名稱": "Int. Journal of Innovative Computing,Information and Control (SCIE,EI)",
+      "作者群": "Lee, J.S., Chang, Y.F. and Chang, C.C."
+    },
+    {
+      "論文名稱": "A Novel Authentication Protocol for Multi-server Architecture without Smart Cards",
+      "期刊名稱": "Int. Journal of Innovative Computing,Information and Control (SCIE,EI)",
+      "作者群": " Lee, J.S., Chang, Y.F. and Chang, C.C"
+    },
+    {
+      "論文名稱": "Preserving Data Integrity with Variant Diffie-Hellman Protocol for Mobile Ad Hoc Networks",
+      "期刊名稱": "Security and Communication Networks (SCIE)",
+      "作者群": "Lee, J.S. and Chang, C.C."
+    },
+    {
+      "論文名稱": "Secure Communications for Cluster-based Ad Hoc Networks Using Node Identities",
+      "期刊名稱": "Journal of Network and Computer Applications (SCIE,EI)",
+      "作者群": "Lee, J.S. and Chang, C.C."
+    },
+    {
+      "論文名稱": "Anonymous Authentication Scheme for Wireless Communications",
+      "期刊名稱": "International Journal of Mobile Communications (SSCI,EI)",
+      "作者群": "Lee, J.S., Chang, C.C. and Chang, P.Y."
+    },
+    {
+      "論文名稱": "Security Enhancement of an IC-Card-Based Remote Login Mechanism",
+      "期刊名稱": "Computer Networks (SCIE,EI)",
+      "作者群": "Cheng, T.F., Lee, J.S. and Chang, C.C."
+    },
+    {
+      "論文名稱": "A Secure and Efficient Authentication Scheme for Mobile Users",
+      "期刊名稱": "International Journal of Mobile Communications (SSCI,EI)",
+      "作者群": "Chang, Y.F., Lee, J.S. and Chang, C.C."
+    },
+    {
+      "論文名稱": "Choosing t-out-of-n Secrets by Oblivious Transfer",
+      "期刊名稱": "Information & Security ()",
+      "作者群": "Lee, J.S. and Chang, C.C."
+    },
+    {
+      "論文名稱": "An Anonymous Voting Mechanism Based on the Key Exchange Protocol",
+      "期刊名稱": "Computers and Security (SCIE,EI)",
+      "作者群": "Chang, C.C. and Lee, J.S."
+    },
+    {
+      "論文名稱": "Efficient Authentication Protocols of GSM",
+      "期刊名稱": "Computer Communications (SCIE,EI)",
+      "作者群": "Chang, C.C., Lee, J.S. and Chang, Y.F."
+    }
+  ],
+  "journal2": [],
+  "conference": [
+    {
+      "論文名稱": "模擬真實攻防演練以驗證臺灣高等教育場域之資安防護能力",
+      "會議名稱": "第三十四屆全國資訊安全會議",
+      "作者群": "沈彥均、范勻怡、李榮三"
+    },
+    {
+      "論文名稱": "Enhancing Data Embedding Capacity in Encrypted Images via Adaptive MSB Prediction",
+      "會議名稱": "2024 6th International Conference on Image, Video and Signal Processing (IVSP 2024)",
+      "作者群": "Chang, C.W., Lee, J.S., and Chou, Y.C."
+    },
+    {
+      "論文名稱": "Preserving the higher coverage guided of an ICS-oriented fuzzy testing technique",
+      "會議名稱": "International Conference on Security and Information Technologies with AI, Internet Computing and Big-data Applications",
+      "作者群": "Chen, Y.C., Yang, H.Y., Chew, C.J., and Lee, J.S."
+    },
+    {
+      "論文名稱": "Preserving Collusion-free and Traceability in Car-sharing System based on Blockchain",
+      "會議名稱": "International Computer Symposium (ICS 2022)",
+      "作者群": "Chen, T.H., Chew, C. J., Chen, Y. C., and Lee, J.S.,"
+    },
+    {
+      "論文名稱": "Mobile Roadside Units Clustering Protocol based on Reputation Inventory",
+      "會議名稱": "Cryptology and Information Security Conference 2022",
+      "作者群": "應瑞傑、蔡國裕、李榮三、周澤捷"
+    },
+    {
+      "論文名稱": "A deepfake detection system through face fingerprint naturalness model",
+      "會議名稱": "Cryptology and Information Security Conference(CISC 2022)",
+      "作者群": "Y.C. Lin, J.S. Lee, C.J. Chew, W.C. Lin, Y.C. Chen"
+    },
+    {
+      "論文名稱": "適用於IoT環境中具隱私保護之輕量化RFID協定之改進",
+      "會議名稱": "第三十屆全國資訊安全會議",
+      "作者群": "紀帛伸、蔡國裕、李榮三"
+    },
+    {
+      "論文名稱": "基於區塊鏈與智能合約實現具隱密性之雙重隨意組合拍賣平台",
+      "會議名稱": "第三十屆全國資訊安全會議",
+      "作者群": "吳承翰、吳威震、蔡國 裕、洪緯哲、李榮三"
+    },
+    {
+      "論文名稱": "Preserving tenacious DDoS vitality via resurrection social hybrid botnet",
+      "會議名稱": "The 3rd International Conference on Security with Intelligent Computing and Big-data Services",
+      "作者群": "Jung-San Lee, Chit-Jie Chew, Ying-Chin Chen, Chih-Lung Chen, and Kuo-Yu Tsai"
+    },
+    {
+      "論文名稱": "運用非監督式學習於工業物聯網之異常設備偵測",
+      "會議名稱": "第二十九屆全國資訊安全會議",
+      "作者群": "王銘宏，李坤印，李維，周可恆，李榮三"
+    },
+    {
+      "論文名稱": "Indomitable Vitality DDoS with Resurrectional Mechanism in Hybrid Social Network",
+      "會議名稱": "(CISC 2019) Cryptology and Information Security Conference 2019",
+      "作者群": "Chit-Jie Chew, Ying-Chin Chen, Jung-San Lee"
+    },
+    {
+      "論文名稱": "Dehazing technique based on channel-weighted analysis and illumination tuning",
+      "會議名稱": " The 310th International Conference on Science, Technology, Engineering and Management (ICSTEM 2018 )",
+      "作者群": " Lee, J.S., Li, C. H., and Lee, H. Y."
+    },
+    {
+      "論文名稱": "Table-free visual secret sharing technique with arbitrary-angle stacking",
+      "會議名稱": "International Conference on Science and Innovative Engineering",
+      "作者群": "Chen. Y.C., Wei,  K.J., Yang, R.K., Lee, J.S*. and Lee K.Y."
+    },
+    {
+      "論文名稱": "Renovating large-scale smudges from digital image based on edge confidence",
+      "會議名稱": "The 3rd International Conference on Issues in Applied Business, Management, Social Sciences Research",
+      "作者群": "Lee, J.S., Huang, B.R., Su, H.C., and Chen, Y.C."
+    },
+    {
+      "論文名稱": "A Value-added Service tacked on LTE : Mobile Check",
+      "會議名稱": " International Symposium on Electrical, Electronic Engineering and Digital Technology",
+      "作者群": "Chen, Y.C., Wei, K. R, Lee, K.Y, and Lee, J.S."
+    },
+    {
+      "論文名稱": "A Hybrid Illumination Refinement Technique based on Double Niblack Thresholds",
+      "會議名稱": "International Conference on Communication and Information Systems",
+      "作者群": "Wang, Y.H. and Lee, J.S."
+    },
+    {
+      "論文名稱": "On the security of two ECC-based authentication mechanisms for confirming authorization",
+      "會議名稱": "Progress on Cryptography- 20 years of Cryptography in Taiwan",
+      "作者群": " Lee, J.S., Wei, K.J., and Li, B."
+    },
+    {
+      "論文名稱": "Two-Factor Authentication Using Smartphone and Quick Response Code",
+      "會議名稱": "2014 International Conference on e-Commerce, e-Administration, e-Society, e-Education, and e-Technology",
+      "作者群": "Lee, J.S., Lin, F.P., Wen, K.R., Wang, Y.H, and Wei, K.J."
+    },
+    {
+      "論文名稱": "Variation-free Watermarking Technique based on Scale Relationship",
+      "會議名稱": "The Third International Conference on Signal & Image Processing (SIP 2014)",
+      "作者群": "Lee, J.S., Wong, H.S., and Wang, Y. H."
+    },
+    {
+      "論文名稱": "A wally watermarking scheme with blind extraction based on structured encoding system",
+      "會議名稱": "The 2011 2nd World Congress on Computer Science and Information Engineering",
+      "作者群": "Li, B. and Lee, J.S."
+    },
+    {
+      "論文名稱": "A neoteric progressive scheme for visual secret sharing",
+      "會議名稱": "The First National Conference on Web Intelligence and Applications",
+      "作者群": "Lin, F.P., Li, Bo and  Lee, J.S."
+    },
+    {
+      "論文名稱": "Providing Anonymous Channels and Mutual Authentication for Mobile Communications",
+      "會議名稱": "Proceedings of the Fourth International Conference on Genetic and Evolutionary Computing (ICGEC 2010)",
+      "作者群": "Li, B., Chang, C. C. and Lee, J. S."
+    },
+    {
+      "論文名稱": "A Brand-new Mobile Value-added Service: M-Check",
+      "會議名稱": "Proceedings of International Conference on Networked Computing, Advanced Information Management and Digital Content and Multimedia Technologies (NCM2009)",
+      "作者群": "Lee, J.S., Li, B. and Chou, Y.C"
+    },
+    {
+      "論文名稱": "Hybrid (2, n) Visual Secret Sharing Scheme for Color Images",
+      "會議名稱": "Proceedings of the 2009 IEEE-RIVF International Conference on Computing and Telecommunication Technologies",
+      "作者群": "Lee, J.S. and Le, T.H.N."
+    },
+    {
+      "論文名稱": "Security Enhancement of Ku-Wang Authenticated Key Agreement Protocol",
+      "會議名稱": "The Eighth International Conference on Intelligent Systems Design and Applications (ISDA 2008)",
+      "作者群": "Chang, C.C. and Lee, J.S."
+    },
+    {
+      "論文名稱": "Preserving PHI in Compliance with HIPAA Privacy/Security Regulations Using Cryptographic Techniques",
+      "會議名稱": "The Fourth International Conference on Intelligent Information Hiding and Multimedia Signal Processing (IIHMSP 2008)",
+      "作者群": " Li, J., Lee, J.S. and Chang, C.C."
+    }
+  ],
+  "book": [
+    {
+      "專業書籍": "資安鑑識分析 : 數位工具、情資安全、犯罪偵防與證據追蹤",
+      "出版單位": "博碩文化股份有限公司",
+      "作者群": "王旭正、李榮三、周澤捷"
+    },
+    {
+      "專業書籍": "資訊生活安全、行動智慧應用與網駭實務",
+      "出版單位": "博碩 出版",
+      "作者群": "王旭正、李榮三、魏國瑞"
+    },
+    {
+      "專業書籍": "資訊安全與智慧、行動網路安全應用實務",
+      "出版單位": "博碩 出版",
+      "作者群": "王旭正、李榮三、許富皓"
+    },
+    {
+      "專業書籍": "電腦、網路與行動服務安全實務",
+      "出版單位": "博碩文化",
+      "作者群": "王旭正、楊中皇、李榮三"
+    },
+    {
+      "專業書籍": "Security Technology on Wireless Communications and Electronic Commerce",
+      "出版單位": "VDM Verlag",
+      "作者群": "Jung-San Lee"
+    }
+  ],
+  "patent": [],
+  "most": [
+    {
+      "name": "基於行為分析與後量子密碼區塊鏈之動態零信任驗證框架(2/3)",
+      "schoolYear": "113"
+    },
+    {
+      "name": "(博士增核)基於行為分析與後量子密碼區塊鏈之動態零信任驗證框架(2/3)",
+      "schoolYear": "113"
+    },
+    {
+      "name": "(博士增核)基於行為分析與後量子密碼區塊鏈之動態零信任驗證框架(1/3)",
+      "schoolYear": "112"
+    },
+    {
+      "name": "基於行為分析與後量子密碼區塊鏈之動態零信任驗證框架(1/3)",
+      "schoolYear": "112"
+    },
+    {
+      "name": "應用於生醫模型之3D零浮水印演算法",
+      "schoolYear": "112"
+    },
+    {
+      "name": "植基於深度學習之未知網路攻擊暨惡意程式行為偵察技術",
+      "schoolYear": "111"
+    },
+    {
+      "name": "基於行動裝置之輕量化3D浮水印演算法",
+      "schoolYear": "111"
+    },
+    {
+      "name": "具隱密性與回溯性之數位資料監管區塊鏈暨運算資源即時分配平台",
+      "schoolYear": "110"
+    },
+    {
+      "name": "應用區塊鏈以建構具公平性及自由度之雙向隨意組合拍賣平台與高效能電子交付機制(2/2)",
+      "schoolYear": "109"
+    },
+    {
+      "name": "基於區塊鏈之監控影像竄改判定系統",
+      "schoolYear": "109"
+    },
+    {
+      "name": "應用區塊鏈以建構具公平性及自由度之雙向隨意組合拍賣平台與高效能電子交付機制(1/2)",
+      "schoolYear": "108"
+    },
+    {
+      "name": "導入人工智慧及自適應色軌權重分析之影像除霧霾技術",
+      "schoolYear": "108"
+    },
+    {
+      "name": "Active defense strategy in hybrid social network botnet based on reputation accumulation",
+      "schoolYear": "107"
+    },
+    {
+      "name": "具備除霧霾與結構修復能力之內容導向典藏檢索系統",
+      "schoolYear": "106"
+    },
+    {
+      "name": "可自選功能之App生成平台",
+      "schoolYear": "106"
+    },
+    {
+      "name": "適用於大範圍及結構毀損影像修復之典藏保護技術",
+      "schoolYear": "105"
+    },
+    {
+      "name": "抵抗側錄惡意程式之視覺密碼OTP",
+      "schoolYear": "105"
+    },
+    {
+      "name": "基於視覺密碼之電子商務安全防禦系統設計與實作",
+      "schoolYear": "104"
+    },
+    {
+      "name": "數位典藏修繕系統之建置",
+      "schoolYear": "103"
+    },
+    {
+      "name": "數位多媒體曝光補償及授權機制",
+      "schoolYear": "102"
+    },
+    {
+      "name": "Android光影平衡器",
+      "schoolYear": "101"
+    },
+    {
+      "name": "數位典藏暨版權保護技術",
+      "schoolYear": "100"
+    },
+    {
+      "name": "數位多媒體典藏與保護技術(3/3)",
+      "schoolYear": "99"
+    },
+    {
+      "name": "數位多媒體典藏與保護技術(2/3)",
+      "schoolYear": "98"
+    },
+    {
+      "name": "數位多媒體典藏與保護技術(1/3)",
+      "schoolYear": "97"
+    }
+  ],
+  "tech": [
+    {
+      "論文名稱": "Recent Developments on Multimedia Security Technologies (2008-10)",
+      "書名": "資通安全專論彙編之一，國家實驗研究院科技政策研究與資訊中心",
+      "作者群": "Lee, J.S. and Chang, C.C."
+    },
+    {
+      "論文名稱": "Secure Mechanisms for Electronic Commerce (2006-12)",
+      "書名": "資通安全專論彙編之一，國家實驗研究院科技政策研究與資訊中心",
+      "作者群": "Chang, C.C., Lee, J.S. and Lee, W.B"
+    },
+    {
+      "論文名稱": "Authentication Protocols for Wireless Communications (2005-12)",
+      "書名": "Communication of the Chinese Cryptology and Information Security Association",
+      "作者群": "Lee, J.S., Chang, Y.F. and Chang, C.C."
+    }
+  ],
+  "induAca": [
+    "資安服務專案 (2025-01 to 2025-12)",
+    "網路安全實務與社會人才培訓計畫 (2025-01 to 2025-07)",
+    "113年網路安全實務與社會人才培訓計畫 (2024-07 to 2025-01)",
+    "資安服務 (2024-01 to 2024-12)",
+    "建置互動式教學以實現資訊安全理論之教學實踐計畫 (2023-04 to 2027-04)",
+    "資安服務 (2023-01 to 2023-12)",
+    "資安服務 (2022-01 to 2022-12)",
+    "111年度學術網路資訊分享與分析暨縣市網資訊安全維運計畫 (2022-01 to 2022-12)",
+    "「資安服務」專案 (2021-01 to 2021-12)",
+    "學術網路資訊分享與分析暨縣市網資訊安全維運計畫 (2021-01 to 2021-12)",
+    "資安服務專案 (2020-01 to 2020-12)",
+    "資安服務專案 (2019-01 to 2019-12)",
+    "學術網路資訊分享與分析暨縣市網資訊安全維運計畫 (2019-01 to 2019-12)",
+    "資安服務專案 (2018-01 to 2018-12)",
+    "A-ISAC暨Mini-SOC服務與維運計畫 (2018-01 to 2018-12)",
+    "A-ISAC暨 Mini-SOC服務與維運計畫 (2018-01 to 2018-12)",
+    "資安服務專案 (2017-01 to 2017-12)",
+    "A-ISAC暨Mini-SOC維運與服務計畫 (2017-01 to 2017-12)",
+    "A-ISAC暨Mini-SOC維運與服務計畫 (2016-01 to 2016-12)",
+    "A-ISAC暨Mini-SOC維運與服務-性能提升暨可用性強化計畫 (2015-08 to 2016-02)",
+    "A-ISAC暨MiniSOC-維運與服務計畫 (2015-01 to 2015-12)",
+    "資安服務專案 (2014-10 to 2015-10)"
+  ],
+  "perform": [],
+  "reward": [
+    "逢甲大學論文著作獎勵傑出獎 (113, 2024-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (113, 2024-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (113, 2024-11) - 逢甲大學",
+    "113學年度教學績優獎 (113, 2024-11) - 逢甲大學",
+    "2024 GiCS第4屆尋找資安女婕思競賽優勝 (112, 2024-04) - 國科會與教育部",
+    "2024 GiCS第4屆尋找資安女婕思競賽優勝 (112, 2024-04) - 國科會與教育部",
+    "2024 GiCS第4屆尋找資安女婕思競賽第一名 (112, 2024-04) - 國科會與教育部",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "2023 GiCS第3屆尋找資安女婕思競賽佳作 (111, 2023-05) - 國科會與教育部",
+    "2023 GiCS第3屆尋找資安女婕思競賽優勝 (111, 2023-05) - 國科會與教育部",
+    "2023 GiCS第3屆尋找資安女婕思競賽第一名 (111, 2023-05) - 國科會與教育部",
+    "最佳學生論文 (111, 2022-12) - International Computer Symposium 2022",
+    "逢甲大學論文著作獎勵傑出獎 (111, 2022-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (111, 2022-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (111, 2022-11) - 逢甲大學",
+    "資安技能金盾獎競賽 大專校院組嶄露頭角獎 (111, 2022-11) - 行政院技術服務中心",
+    "111年度國科會補助大專校院研究獎勵 (111, 2022-10) - 研究發展處",
+    "第52屆全國技能競賽網路安全類第三名 (111, 2022-08) - 勞動部",
+    "第52屆全國技能競賽網路安全類第二名 (111, 2022-08) - 勞動部",
+    "逢甲大學優良教材獎勵優等獎 (110, 2021-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (110, 2021-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (110, 2021-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (110, 2021-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (110, 2021-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (110, 2021-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (110, 2021-11) - 逢甲大學",
+    "110年度科技部補助大專校院研究獎勵 (110, 2021-10) - 產學合作處",
+    "逢甲大學論文著作獎勵優良獎 (109, 2020-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (109, 2020-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (109, 2020-11) - 逢甲大學",
+    "109年度科技部補助大專校院研究獎勵 (109, 2020-10) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (108, 2019-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (108, 2019-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (108, 2019-11) - 逢甲大學",
+    "IEET教學傑出獎 (107, 2019-05) - IEET",
+    "最佳學生論文 (107, 2019-05) - Chinese Cryptology and Information Security Association",
+    "逢甲大學論文著作獎勵優良獎 (107, 2018-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (107, 2018-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (107, 2018-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (107, 2018-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (107, 2018-11) - 逢甲大學",
+    "107年度科技部補助大專校院研究獎勵 (107, 2018-08) - 逢甲大學",
+    "105學年度優良導師 (105, 2017-11) - 學生事務處",
+    "逢甲大學論文著作獎勵優良獎 (106, 2017-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (106, 2017-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (106, 2017-11) - 逢甲大學",
+    "105學年度教學優良教師 (105, 2016-11) - 逢甲大學",
+    "逢甲大學優良教材獎勵優等獎 (105, 2016-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (105, 2016-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (105, 2016-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (105, 2016-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (104, 2015-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (104, 2015-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (104, 2015-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (103, 2014-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (103, 2014-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (103, 2014-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (103, 2014-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (103, 2014-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (103, 2014-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (103, 2014-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (103, 2014-11) - 逢甲大學",
+    "逢甲大學優良教材獎勵傑出獎 (102, 2013-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (102, 2013-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (101, 2012-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (101, 2012-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (101, 2012-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (100, 2011-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (100, 2011-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (99, 2010-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (99, 2010-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (98, 2009-11) - 逢甲大學"
+  ],
+  "speech": [
+    {
+      "演講題目": "視覺密碼的最新發展",
+      "邀請單位": "教育部顧問室資通安全聯盟中心",
+      "演講日期": "2009-06"
+    },
+    {
+      "演講題目": "資訊安全技術之發展與應用",
+      "邀請單位": "中區三校聯合資安研討會",
+      "演講日期": "2008-06"
+    },
+    {
+      "演講題目": "資訊安全技術之發展與應用",
+      "邀請單位": "逢甲大學資訊工程學系",
+      "演講日期": "2008-04"
+    }
+  ],
+  "material": [
+    "資訊生活安全、行動智慧應用與網駭實務\t博碩 出版\t王旭正、李榮三、魏國瑞\t教科書"
+  ],
+  "tal": [
+    "108年度大專校院教學實踐研究計畫「導入遊戲及競賽以翻轉資安實務課程之教學品質提升計畫」 (108)",
+    "107年度大專校院教學實踐研究計畫「導入互動式教學以實現降低學用落差之教學品質提升計畫」 (107)"
+  ]
+}

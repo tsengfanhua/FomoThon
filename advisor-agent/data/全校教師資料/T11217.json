@@ -1,0 +1,161 @@
+{
+  "teacherId": "T11217",
+  "name": "李詠玄",
+  "mainUnit": "工程與科學學院",
+  "detailUnit": "應用數學系",
+  "skill": [
+    "資料建模與分析",
+    "機器學習",
+    "動態系統與複雜系統",
+    "社會網路分析",
+    "應用統計",
+    "問卷分析"
+  ],
+  "edu": [
+    "國立政治大學 統計學系 博士",
+    "國立政治大學 統計學系 碩士",
+    "國立政治大學 廣播電視學系、統計學系 學士"
+  ],
+  "fcuExp": [
+    "應用數學系 助理教授"
+  ],
+  "currjob": [],
+  "otherExp": [
+    "國立政治大學 應用物理研究所 計畫助理",
+    "明新科技大學 資訊管理系 講師",
+    "國立臺北教育大學 教育經營與管理學系 研究助理"
+  ],
+  "journal": [
+    {
+      "論文名稱": "Relational rhythms: Investigating longitudinal advice network of a leadership team undergoing change",
+      "期刊名稱": "AERA Open (SSCI)",
+      "作者群": "Liou, Y. H.*, Brouwer, J., Daly, A. J., & Lee, Y. S."
+    },
+    {
+      "論文名稱": "Cost-sensitive classification with time constraint on incomplete data",
+      "期刊名稱": "Statistical Analysis and Data Mining (SCIE)",
+      "作者群": "Yong-Shiuan Lee* and Chia-Chi Wu"
+    },
+    {
+      "論文名稱": "Leaders’ advice networks over time: The role of beliefs and organizational learning during change implementation.",
+      "期刊名稱": "Journal of Educational Administration (SSCI)",
+      "作者群": "Liou, Y. H.*, Lee, Y. S., Chiang-Lin, T. J., & Daly, A. J."
+    },
+    {
+      "論文名稱": "Study of Asian indexes by a newly derived dynamic model.",
+      "期刊名稱": "PloS One (SCIE)",
+      "作者群": "Chiang-Lin, T. J., Lee, Y. S.*, Shieh, T. H., Yen, C. C., & Tsai, S. Y."
+    },
+    {
+      "論文名稱": "Applications of the dynamic system and differential equations to Taiwan mortality.",
+      "期刊名稱": "International Journal of Computing Science and Mathematics (EI,ESCI, Scopus)",
+      "作者群": "Lee, Y. S.*, Li, M. R., Tzeng, J., & Chiang-Lin, T. J."
+    },
+    {
+      "論文名稱": "Modelling DAX by applying parabola approximation method.",
+      "期刊名稱": "International Journal of Computing Science and Mathematics (EI,ESCI, Scopus)",
+      "作者群": "Li, M. R., Miao, D. W. C., Chiang-Lin, T. J., & Lee, Y. S.*"
+    },
+    {
+      "論文名稱": "Mathematical model for the enterprise competitive ability and performance through a particular Emden-Fowler Equation u''-n^{-q-1}u(n)^{q}=0.",
+      "期刊名稱": "Acta Mathematica Scientia (SCIE)",
+      "作者群": "Chang, Y. L., Li, M. R.*, Yue, C. J., Lee, Y. S., & Chiang-Lin, T. J."
+    },
+    {
+      "論文名稱": "Applications of Parameterized Nonlinear Ordinary Differential Equations and Dynamic Systems: An Example of the Taiwan Stock Index.",
+      "期刊名稱": "International Journal of Differential Equations (EI,ESCI,  Scopus)",
+      "作者群": "Li, M. R., Chiang-Lin, T. J., & Lee, Y. S.*"
+    },
+    {
+      "論文名稱": "Applications of linear ordinary differential equations and dynamic system to economics - An example of Taiwan stock index TAIEX",
+      "期刊名稱": "International Journal of Dynamical Systems and Differential Equations (EI,ESCI, Scopus)",
+      "作者群": "Chen, N. P., Li, M. R.*, Chiang-Lin, T. J., Lee, Y. S., & Miao, D. W. C."
+    },
+    {
+      "論文名稱": "Nonexistence of positive global solutions to the differential equation u''-t^{-p-1}u^p=0",
+      "期刊名稱": "Electronic Journal of Differential Equations (SCIE)",
+      "作者群": "Li, M. R.*, Chiang-Lin, T. J., Lee, Y. S., & Miao, D. W. C."
+    },
+    {
+      "論文名稱": "TAIEX index option model by using nonlinear differential equation.",
+      "期刊名稱": "Mathematical and Computational Applications (EI,ESCI, Scopus)",
+      "作者群": "Lin, T. J. C., Li, M. R.*, & Lee, Y. S."
+    },
+    {
+      "論文名稱": "Parabola method in ordinary differential equation",
+      "期刊名稱": "Taiwanese Journal of Mathematics (SCIE)",
+      "作者群": "Li, M. R.*, Shieh, T. H., Yue, C. J., Lee, P., & Li, Y. T."
+    }
+  ],
+  "journal2": [],
+  "conference": [
+    {
+      "論文名稱": "A Combination of Functional Principal Component Analysis and Long Short-Term Memory Networks for Alzheimer’s Disease Prediction",
+      "會議名稱": "The 7th International Conference on Artificial Intelligence in Information and Communication (ICAIIC 2025)",
+      "作者群": "Lee, Y. S.*, Liu, H., for the Alzheimer’s Disease Neuroimaging Initiative"
+    },
+    {
+      "論文名稱": "Utilizing Machine Learning Methods For Predicting Stock Market Movement: A Case Study With The S&P 500 Index",
+      "會議名稱": "2024 IEEE/ACIS 9th International Conference on Big Data, Cloud Computing, and Data Science (BCD 2024-Summer)",
+      "作者群": "Chiang Lin, T. J., Lee, Y. S.* and Wang, Y. H."
+    },
+    {
+      "論文名稱": "Investigating Leadership Network Change: The Role of Time, Beliefs and Organizational Learning.",
+      "會議名稱": "The 2022 AERA Annual Meeting",
+      "作者群": "Liou, Y. H.*, Lee, Y. S., Chiang-Lin, T. J., & Daly, A. J."
+    },
+    {
+      "論文名稱": "Classification strategies for time-constrained cost-sensitive decision tree with missing values",
+      "會議名稱": "第二十九屆南區統計研討會 暨2020 中華機率統計學會年會及學術研討會",
+      "作者群": "Lee, Y. S.*, Cheng, T. C., Tang, K., and Wu, C. C."
+    },
+    {
+      "論文名稱": "Classification strategies for time-constrained cost-sensitive decision tree induction with missing values",
+      "會議名稱": "The 3rd International Conference on Econometrics and Statistics (EcoSta 2019)",
+      "作者群": "Lee, Y. S.*, Cheng, T. C."
+    },
+    {
+      "論文名稱": "An Analysis of Taiwan Stock Index and The TXO Options by The Dynamic Model",
+      "會議名稱": "The 2018 International Conference in Management Sciences and Decision Making",
+      "作者群": "Lee, Y. S.*, Li, M. R., Shieh, T. H., Chiang Lin, T. J., Yue, C. S. J."
+    }
+  ],
+  "book": [],
+  "patent": [],
+  "most": [
+    {
+      "name": "結合函數主成分分析與動態系統微分方程對股價指數建模(2/2)",
+      "schoolYear": "113"
+    },
+    {
+      "name": "結合函數主成分分析與動態系統微分方程對股價指數建模(1/2)",
+      "schoolYear": "112"
+    }
+  ],
+  "tech": [
+    {
+      "論文名稱": "Navigating the social terrain of educational leadership: Insights from a study of district-wide leadership advice network. (2025-07)",
+      "書名": "Handbook of Social Network Analysis and Education. (Nina Kolleck and Oren Pizmony-Levy Eds.)",
+      "作者群": "Liou, Y. H*., Lee, Y. S., Bjorklund, P., Rehm, M., & Daly, A. J."
+    },
+    {
+      "論文名稱": "Utilizing machine learning methods for predicting stock market movement: A case study with the S&P 500 index (2025-07)",
+      "書名": "Big Data, Cloud Computing, and Data Science Engineering (Roger Lee Eds.)",
+      "作者群": "Chiang Lin, T. J., Lee, Y. S.* and Wang, Y. H."
+    }
+  ],
+  "induAca": [
+    "以大數據分析應用於最佳資產配置投資組合 (2024-01 to 2024-10)"
+  ],
+  "perform": [],
+  "reward": [],
+  "speech": [
+    {
+      "演講題目": "Assessing the Impact of Financial Indicators on Stock Prices Using Machine Learning Methods",
+      "邀請單位": "2024中區數學建模暨科學計算研討會(東海大學",
+      "演講日期": "2024-11"
+    }
+  ],
+  "material": [],
+  "tal": []
+}

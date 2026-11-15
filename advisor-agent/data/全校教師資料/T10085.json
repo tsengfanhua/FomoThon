@@ -1,0 +1,133 @@
+{
+  "teacherId": "T10085",
+  "name": "黃振軒",
+  "mainUnit": "工程與科學學院",
+  "detailUnit": "機械與電腦輔助工程學系",
+  "skill": [
+    "熱流分析模擬Thermal and fluid analysis",
+    "衛星溫控技術Satellite thermal control",
+    "電腦輔助設計Computer aided design",
+    "線性驅動馬達Linear motor"
+  ],
+  "edu": [
+    "國立成功大學 航空太空工程學系 博士",
+    "國立成功大學 航空太空工程學系 碩士",
+    "國立交通大學 機械工程學系 學士"
+  ],
+  "fcuExp": [
+    "機械與電腦輔助工程學系 助理教授"
+  ],
+  "currjob": [],
+  "otherExp": [],
+  "journal": [
+    {
+      "論文名稱": "Analysis of Cold-Keeping Capability in Freezer Box Constituted by Beta-Type Stirling Cooler with Various Insulation Materials",
+      "期刊名稱": "Journal of Mechanical Science and Technology (SCIE)",
+      "作者群": "Jhen-Syuan Huang"
+    },
+    {
+      "論文名稱": "Numerical Simulation and Measurement of Effective Thermal Conductivity of an Additively Manufactured Lattice Microstructure with Gradient Porosity",
+      "期刊名稱": "Results in Engineering (ESCI)",
+      "作者群": "Jhen-Syuan Huang and Chun-Yu Wang"
+    },
+    {
+      "論文名稱": "An Efficient Theoretical Model of Rotary-Integral Stirling Cryocooler Validated by Experimental Testing",
+      "期刊名稱": "Thermal Science and Engineering Progress (SCIE)",
+      "作者群": "Jhen-Syuan Huang and Chin-Hsiang Cheng"
+    }
+  ],
+  "journal2": [],
+  "conference": [
+    {
+      "論文名稱": "微型分置式史特靈致冷器之混合計算法分析",
+      "會議名稱": "2024中華民國航太學會學術研討會",
+      "作者群": "黃品捷、黃振軒、鄭金祥、陳帛鴻、王晨豪、陳孟壕"
+    },
+    {
+      "論文名稱": "Design and Theoretical Model of a Rotary-Split Stirling Cryocooler Used for Thermal Control Subsystem of Satellite.",
+      "會議名稱": "Taiwan International Assembly of Space Science, Technology, and Industry (TASTI 2024)",
+      "作者群": "Jhen-Syuan Huang, Chin-Hsiang Cheng, Bo-Hong Chen, Pin-Chieh Huang, Chen-Hao Wang, Meng-Hao Chen"
+    },
+    {
+      "論文名稱": "吹瓶機PET瓶胚加熱過程中之熱傳分析",
+      "會議名稱": "中國機械工程學會第四十一屆全國學術研討會",
+      "作者群": "蕭圓靜、黃振軒、陳子夏、賴柏丞"
+    },
+    {
+      "論文名稱": "Numerical Simulation of Miniature Rotary-Split Stirling Cryocooler Applied in Satellites.",
+      "會議名稱": "Southeast Asia Workshop on Aerospace Engineering (SAWAE 2024)",
+      "作者群": "Pin-Chieh Huang, Jhen-Syuan Huang, Chin-Hsiang Cheng, Bo-Hong Chen, Pin-Yen Chen, Chen-Hao Wang, Meng-Hao Chen"
+    },
+    {
+      "論文名稱": "Influence of Displacement Phase Angle on the Performance of Rotary Stirling Cryocooler.",
+      "會議名稱": "The 20th International Stirling Engine Conference",
+      "作者群": "Jhen-Syuan Huang"
+    },
+    {
+      "論文名稱": "汽缸夾角對整體式史特靈致冷器之性能探討。",
+      "會議名稱": "中國機械工程學會第四十屆全國學術研討會",
+      "作者群": "黃振軒"
+    },
+    {
+      "論文名稱": "應用於低溫致冷器之變頻線性馬達開發",
+      "會議名稱": "中華民國力學學會第四十七屆全國力學會議",
+      "作者群": "鄭立杰、 黃振軒"
+    },
+    {
+      "論文名稱": "具孔隙率梯度微結構之流場分析",
+      "會議名稱": "中華民國力學學會第四十七屆全國力學會議",
+      "作者群": "王均伃、黃振軒"
+    },
+    {
+      "論文名稱": "微型極低溫史特靈致冷器於立方衛星之溫控應用",
+      "會議名稱": "中華民國力學學會第四十六屆全國力學會議",
+      "作者群": "黃振軒"
+    },
+    {
+      "論文名稱": "不同隔熱材料對史特靈低溫冷櫃之保冷能力分析",
+      "會議名稱": "2022年能源與冷凍空調學術技術研討會",
+      "作者群": "黃振軒"
+    },
+    {
+      "論文名稱": "小型低溫史特靈致冷器之實測分析。中華民國力學學會第四十",
+      "會議名稱": "中華民國力學學會第四十 五屆全國力學會議",
+      "作者群": "黃振軒"
+    }
+  ],
+  "book": [],
+  "patent": [],
+  "most": [
+    {
+      "name": "發展具多點溫控與可變壓縮比之陣列冷頭式極低溫史特靈致冷器(2/2)",
+      "schoolYear": "113"
+    },
+    {
+      "name": "具新6G無線光傳輸之智慧型無人飛行載具異質系統平台之建置－具新6G無線光傳輸之智慧型無人飛行載具異質系統平台之建置(1/2)",
+      "schoolYear": "112"
+    },
+    {
+      "name": "發展具多點溫控與可變壓縮比之陣列冷頭式極低溫史特靈致冷器(1/2)",
+      "schoolYear": "112"
+    },
+    {
+      "name": "以平面彈簧開發輕量低振之變頻線性馬達",
+      "schoolYear": "112"
+    },
+    {
+      "name": "微型史特靈引擎發電系統之理論分析與實機開發",
+      "schoolYear": "110"
+    }
+  ],
+  "tech": [],
+  "induAca": [
+    "鐵斗模具之結構分析與鐵肋接合探討 (2023-08 to 2023-10)",
+    "氣冷式控制箱散熱模型設計與驗證計畫 (2023-03 to 2024-02)",
+    "無塵無氧烤箱之氧含量分析與APP設計 (2022-09 to 2023-02)",
+    "低溫史特靈冰櫃之模擬分析及技術評估 (2022-01 to 2022-06)"
+  ],
+  "perform": [],
+  "reward": [],
+  "speech": [],
+  "material": [],
+  "tal": []
+}

@@ -1,0 +1,341 @@
+{
+  "teacherId": "T10069",
+  "name": "林子煒",
+  "mainUnit": "創能學院",
+  "detailUnit": "創能學院",
+  "skill": [
+    "資訊安全Information Security",
+    "應用密碼學Applied Cryptography",
+    "行動商務Mobile Commerce",
+    "物聯網Internet of Things",
+    "穿戴式健康照護系統Wearable Healthcare System",
+    "專案管理Project Management",
+    "人工智慧Artificial Intelligence",
+    "人工智慧技術應用分析Analysis of Artificial Intelligence Application"
+  ],
+  "edu": [
+    "長庚大學 企業管理研究所 博士",
+    "長庚大學 資訊管理學系 碩士",
+    "長庚大學 資訊管理學系 學士"
+  ],
+  "fcuExp": [
+    "資訊安全中心 主任",
+    "逢甲大學帆宣智慧城市5G實驗室 研究員",
+    "創能學院 助理教授"
+  ],
+  "currjob": [],
+  "otherExp": [
+    "亞東技術學院 資訊管理學系 講師",
+    "致理科技大學 資訊管理學系 講師",
+    "致理科技大學 資訊管理學系 講師",
+    "中央研究院  約聘人員"
+  ],
+  "journal": [
+    {
+      "論文名稱": "A Hierarchical Blockchain System for Social Economy Services",
+      "期刊名稱": "Electronics (SSCI)",
+      "作者群": "Chin, Y.C., Hsu, C.L., Lin, T.W., Tsai, K.Y.*"
+    },
+    {
+      "論文名稱": "Design and Evaluation of Device Authentication and Secure Communication System with PQC for AIoT Environments",
+      "期刊名稱": "Electronics (SSCI,SCIE)",
+      "作者群": "Chen, Y.J., Hsu, C.L., Lin, T.W., Lee, J.S.*"
+    },
+    {
+      "論文名稱": "ID-Based Proxy Signature with Key-Insulated Scheme for Portable Healthcare Devices in 5G-IoHT",
+      "期刊名稱": "Journal of Internet Technology (SCIE)",
+      "作者群": "Lin, T.W.*, Hsu, C.L."
+    },
+    {
+      "論文名稱": "Chaotic Maps-based Privacy-Preserved Three-Factor Authentication Scheme for Telemedicine Systems",
+      "期刊名稱": "International Journal of Network Security (EI)",
+      "作者群": "Lin, T.W.*, Hsu, C.L."
+    },
+    {
+      "論文名稱": "適用於5G智慧救護車之植基於切比雪夫混沌映射聯合匿名身分管理協定",
+      "期刊名稱": "資訊安全通訊(Communications of the CCISA) (N/A)",
+      "作者群": "林子煒*"
+    },
+    {
+      "論文名稱": "A Privacy-Preserved ID-Based Secure Communication Scheme in 5G-IoT Telemedicine Systems",
+      "期刊名稱": "Sensors (SCIE)",
+      "作者群": "Tzu-Wei Lin*"
+    },
+    {
+      "論文名稱": "A Smartcard-Based User-Controlled Single Sign-On for Privacy Preservation in 5G-IoT Telemedicine Systems",
+      "期刊名稱": "Sensors (SSCI,SCIE)",
+      "作者群": "Lin, T.W., Hsu, C.L.*, Le, T.V., Lu, C.F., Huang, B.Y."
+    },
+    {
+      "論文名稱": "FAIDM for Medical Privacy Protection in 5G Telemedicine Systems",
+      "期刊名稱": "Applied Sciences (SSCI,SCIE)",
+      "作者群": "Lin, T.W., Hsu, C.L.*"
+    },
+    {
+      "論文名稱": "Three-Factor Fast Authentication Scheme with Time Bound and User Anonymity for Multi-Server E-Health Systems in 5G-Based Wireless Sensor Networks",
+      "期刊名稱": "Sensors (SSCI,SCIE)",
+      "作者群": "Wong, A.M.K., Hsu, C.L.*, Le, T.V., Hsieh, M.C., Lin, T.W."
+    },
+    {
+      "論文名稱": "A Privacy-Preserved E2E Authenticated Key Exchange Protocol for Multi-Server Architecture in Edge Computing Networks",
+      "期刊名稱": "IEEE Access (SSCI,SCIE)",
+      "作者群": "Hsu, C.L.*, Le, T.V., Lu, C.F., Lin, T.W., Chuang, T.H."
+    },
+    {
+      "論文名稱": "Anonymous Group Key Agreement Protocol for Multi-Server and Mobile Environments Based on Chebyshev Chaotic Maps",
+      "期刊名稱": "Journal of Supercomputing (SSCI,SCIE)",
+      "作者群": "Lin, T.W., Hsu, C.L.*"
+    }
+  ],
+  "journal2": [],
+  "conference": [
+    {
+      "論文名稱": "Analysis of Artificial Intelligence Education Framework and Requirements of Industry in Taiwan",
+      "會議名稱": "2025 Taiwan Summer Workshop on Information Management (TSWIM 2025)",
+      "作者群": "Wu, J.C.*, Wang, F.G., Lin, T.W."
+    },
+    {
+      "論文名稱": "Privacy-preserved PQC-based UCSSO in Telemedicine Systems",
+      "會議名稱": "2025 9th International Conference on Cryptography, Security and Privacy (CSP 2025)",
+      "作者群": "Lin, T.W.*, Yu, C.J."
+    },
+    {
+      "論文名稱": "人工智慧在高等教育課程規劃架構與產業人才需求之探討",
+      "會議名稱": "2025 國際大數據與ERP學術及實務研討會",
+      "作者群": "吳如娟*，王富貴，林子煒"
+    },
+    {
+      "論文名稱": "基於後量子密碼學之醫療資訊安全系統設計",
+      "會議名稱": "臺灣網際網路研討會",
+      "作者群": "蔡國裕*、林子煒、尤婕蓉、林玟欣"
+    },
+    {
+      "論文名稱": "適用於雲端資料保護之基於網格密碼學屬性加密協定",
+      "會議名稱": "第三十四屆全國資訊安全會議",
+      "作者群": "蔡國裕*、林子煒、尤婕蓉、林玟欣"
+    },
+    {
+      "論文名稱": "設計與建置利用開源結合AI之校園資安監測平台 -以臺灣中部某大學為例",
+      "會議名稱": "第三十四屆全國資訊安全會議",
+      "作者群": "林子煒*, 蔡國裕, 郭崇韋, 林玟欣, 李品臻, 梁瑋宸, 黃千芸, 范秩嘉, 陳宣廷, 王富貴"
+    },
+    {
+      "論文名稱": "Distributed Security Deployment Framework Based On Sdn And Zero Trust Architecture",
+      "會議名稱": "2024 Taiwan Summer Workshop on Information Management",
+      "作者群": "Chi, Y.M., Lin, T.W.*, Wang, F.G., Tsai, K.Y."
+    },
+    {
+      "論文名稱": "An Approach of Privacy-Preserved PQC-based Cyber-threat Intelligence System",
+      "會議名稱": "2024 8th International Conference on Cryptography, Security and Privacy (CSP 2024)",
+      "作者群": "Chen, Y.J., Lin, T.W.*, Kuo, C.W., Tsai, K.Y."
+    },
+    {
+      "論文名稱": "PP-3FAT Scheme for 5G-IoHT Telemedicine Systems",
+      "會議名稱": "2023 International Conference on Security and Information Technologies with AI, Internet Computing and Big-data Applications (SITAIBA 2023)",
+      "作者群": "Lin, T.W.*"
+    },
+    {
+      "論文名稱": "Comprehensive Review of 5G-IoT Telemedicine Systems Scenario and Security-Related Issues",
+      "會議名稱": "The 3rd International Conference on Medical Design (MD2022)",
+      "作者群": "Lin, T.W.*, Hsu, C.L."
+    },
+    {
+      "論文名稱": "An AI-Enabled Internet of Medical Things for Emergency Medical Service",
+      "會議名稱": "The 3rd International Conference on Medical Design (MD2022)",
+      "作者群": "Lin, T.W.*, Chen, W.R., Fang, J.H., Lee, S.Y., Li, P.C."
+    },
+    {
+      "論文名稱": "適⽤於遠距健康照護環境之植基於切⽐雪夫混沌映射具時間限制三因⼦使⽤者鑑別協定",
+      "會議名稱": "2021臺灣網際網路研討會暨全國計算機會議",
+      "作者群": "林子煒*"
+    },
+    {
+      "論文名稱": "Privacy-Preserved Hierarchical Authentication and Key Agreement for AI-Enabled Telemedicine Systems",
+      "會議名稱": "2021 International Conference on Security and Information Technologies with AI, Internet Computing and Big-data Applications",
+      "作者群": "Lin, T.W.*, Hsu, C.L."
+    },
+    {
+      "論文名稱": "5G-based FAIDM for Medical Privacy Protection",
+      "會議名稱": "International Conference on Medical Design",
+      "作者群": "Lin, T.W., Hsu, C.L., Chuang H.M."
+    },
+    {
+      "論文名稱": "Design and Implement of a Post-quantum Blockchain Protocol for Enhancing Security and Privacy of IoT-based Healthcare Environment",
+      "會議名稱": "International Conference on Medical Design",
+      "作者群": "Hsu, C.L., Lin, T.W., Chuang, T.H., Chen, Y.J.,"
+    },
+    {
+      "論文名稱": "A Secure Handwritten Digital Signature Scheme for ePaper-based Intelligent Healthcare Services",
+      "會議名稱": "2019 6th International Conference on Electronics Engineering and Technology",
+      "作者群": "Hsu, C.L., Fan, C.M., Lin, T.W."
+    },
+    {
+      "論文名稱": "A User-Controlled Single Sign-On Authentication Protocol Based on Chebyshev Chaotic Maps",
+      "會議名稱": "第二十九屆全國資訊安全會議",
+      "作者群": "Lin, T.W., Hsu, C.L."
+    },
+    {
+      "論文名稱": "Design and Evaluation of Stroke Rehabilitation Games Based on Serious Game and Clinical Knowledge",
+      "會議名稱": "Society for Design and Process Science",
+      "作者群": "Hsu, C.L., Lu, S.H., Lin, T.W."
+    },
+    {
+      "論文名稱": "Privacy-Preserved Conference Key Distribution Protocol",
+      "會議名稱": "12th International Conference on Digital Information Management",
+      "作者群": "Hsu, C.L., Lin, T.W., Lu, H.C., Chuang, T.H., Chen, Y.H."
+    },
+    {
+      "論文名稱": "A Dynamic Identity End-to-End Authentication Key Exchange Protocol for IoT Environments",
+      "會議名稱": "12th International Conference on Digital Information Management",
+      "作者群": "Hsu, C.L., Chuang, T.H., Chen, Y.H., Lin, T.W., Lu, H.C"
+    },
+    {
+      "論文名稱": "Privacy-Preserved Key Agreement with User Authentication",
+      "會議名稱": "10th Asia Joint Conference on Information Security",
+      "作者群": "Hsu, C.L., Lin, T.W."
+    },
+    {
+      "論文名稱": "Authenticated Group Key Agreement Protocol Based on Chebyshev Chaotic Map",
+      "會議名稱": "2013 e-CASE & e-Tech International Conference",
+      "作者群": "Hsu, C.L., Lin, T.W., Lin, Y.L."
+    },
+    {
+      "論文名稱": "Password authenticated key exchange protocol for multi-server mobile networks based on Chebyshev chaotic map",
+      "會議名稱": "2013 IEEE International Conference on Pervasive Computing and Communications Workshops",
+      "作者群": "Hsu, C.L., Lin, T.W."
+    }
+  ],
+  "book": [],
+  "patent": [],
+  "most": [],
+  "tech": [
+    {
+      "論文名稱": "知識、技能與態度的平衡—論人工智慧發展於未來發展選擇之影響 (2023-10)",
+      "書名": "職輔觀點",
+      "作者群": "林子煒"
+    },
+    {
+      "論文名稱": "你夠在意嗎？考驗人性的社交工程誘惑 (2022-01)",
+      "書名": "清流雙月刊--在美軍撤離阿富汗後",
+      "作者群": "林子煒"
+    }
+  ],
+  "induAca": [
+    "威脅情資對公司的威脅程度分析並協助決策 (2024-05 to 2025-01)",
+    "以Power BI工具實作資訊安全風險評鑑結果分析工具 (2024-05 to 2025-01)"
+  ],
+  "perform": [],
+  "reward": [
+    "逢甲大學論文著作獎勵優等獎 (113, 2024-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學"
+  ],
+  "speech": [
+    {
+      "演講題目": "立法院「電腦主機、行動裝置安全檢測及電子郵件社交工程」",
+      "邀請單位": "財團法人中華民國國家資訊基本建設產業發展",
+      "演講日期": "2023-09"
+    },
+    {
+      "演講題目": "勞動力發展署中彰投分署-112年度資訊安全研習-加密勒索軟體單元",
+      "邀請單位": "臺中捷立公司",
+      "演講日期": "2023-09"
+    },
+    {
+      "演講題目": "駭客攻擊與數位鑑識／證據的調查與攻防",
+      "邀請單位": "逢甲大學資訊總處",
+      "演講日期": "2023-08"
+    },
+    {
+      "演講題目": "勞動力發展署中彰投分署-112年度資訊安全研習-駭客入侵防護實務單元",
+      "邀請單位": "臺中捷立公司",
+      "演講日期": "2023-08"
+    },
+    {
+      "演講題目": "勞動力發展署中彰投分署-112年度資訊安全研習-加密勒索軟體單元",
+      "邀請單位": "臺中捷立公司",
+      "演講日期": "2023-07"
+    },
+    {
+      "演講題目": "資安鑑識課程-系列Ⅰ初級課程：駭客攻擊與數位鑑識／證據的留痕與攻防",
+      "邀請單位": "社團法人台灣E化資安分析管理協會",
+      "演講日期": "2023-06"
+    },
+    {
+      "演講題目": "勞動力發展署中彰投分署-112年度資訊安全研習-駭客入侵防護實務單元",
+      "邀請單位": "臺中捷立公司",
+      "演講日期": "2023-06"
+    },
+    {
+      "演講題目": "勞動力發展署中彰投分署-112年度資訊安全研習-加密勒索軟體單元",
+      "邀請單位": "臺中捷立公司",
+      "演講日期": "2023-04"
+    },
+    {
+      "演講題目": "勞動力發展署中彰投分署-112年度資訊安全研習-駭客入侵防護實務單元",
+      "邀請單位": "臺中捷立公司",
+      "演講日期": "2023-03"
+    },
+    {
+      "演講題目": "111 年度第2期「資安認知」中心講師研習營",
+      "邀請單位": "教育部先進資通安全實務人才培育計畫推動辦",
+      "演講日期": "2022-12"
+    },
+    {
+      "演講題目": "111 年度第2期「資安認知」中心講師研習營",
+      "邀請單位": "教育部先進資通安全實務人才培育計畫推動辦",
+      "演講日期": "2022-11"
+    },
+    {
+      "演講題目": "111 年度第1期「資安認知」、「資安基礎實務」中心講師研習營",
+      "邀請單位": "教育部先進資通安全實務人才培育計畫推動辦",
+      "演講日期": "2022-10"
+    },
+    {
+      "演講題目": "資通安全概論(應用程式安全、資通安全健診、資通安全事件通報及應變)",
+      "邀請單位": "健行科技大學推廣教育中心",
+      "演講日期": "2022-09"
+    },
+    {
+      "演講題目": "資通安全概論(資訊委外安全、存取控制與加解密技術、網路安全與實體安全)",
+      "邀請單位": "健行科技大學推廣教育中心",
+      "演講日期": "2022-09"
+    },
+    {
+      "演講題目": "資通安全概論(資通安全基本觀念、資通安全相關法規、資通安全風險管理與業務持續運作管理、作業安全)",
+      "邀請單位": "健行科技大學推廣教育中心",
+      "演講日期": "2022-09"
+    },
+    {
+      "演講題目": "數位鑑識",
+      "邀請單位": "國防大學",
+      "演講日期": "2022-08"
+    },
+    {
+      "演講題目": "資訊安全研究與實務經驗談",
+      "邀請單位": "國立政治大學",
+      "演講日期": "2021-12"
+    },
+    {
+      "演講題目": "我的新生活(大學心態轉換)",
+      "邀請單位": "逢甲大學創能學院人工智慧技術與應用學士學",
+      "演講日期": "2021-09"
+    },
+    {
+      "演講題目": "資通安全概論(應用程式安全、資通安全健診、資通安全事件通報及應變)",
+      "邀請單位": "健行科技大學推廣教育中心",
+      "演講日期": "2021-08"
+    },
+    {
+      "演講題目": "資通安全概論(資訊委外安全、存取控制與加解密技術、網路安全與實體安全)",
+      "邀請單位": "健行科技大學推廣教育中心",
+      "演講日期": "2021-08"
+    },
+    {
+      "演講題目": "資通安全概論(資通安全基本觀念、資通安全相關法規、資通安全風險管理與業務持續運作管理、作業安全)",
+      "邀請單位": "健行科技大學推廣教育中心",
+      "演講日期": "2021-08"
+    }
+  ],
+  "material": [],
+  "tal": []
+}

@@ -1,0 +1,959 @@
+{
+  "success": true,
+  "info": {
+    "yms_year": 114.0,
+    "yms_smester": 1.0,
+    "sub_id": "43100",
+    "cls_id": "CE05140",
+    "scr_dup": "001",
+    "sub_id3": "FCME5991",
+    "cls_name": "纖複四",
+    "cls_ename": "Department of Fiber and Composite Materials",
+    "sub_name": "專題研究討論",
+    "sub_ename": "RESEARCH PROJECT",
+    "scr_mso": "必修",
+    "scr_mso_en": "Required",
+    "scr_credit": 1.0,
+    "scr_periodly": "(四)03",
+    "scr_periodly_eng": "(Thu)03",
+    "lang_name": "中文                                                      ",
+    "lang_ename": "Chinese",
+    "scr_room": "忠202",
+    "scr_room_eng": "JCB202",
+    "scr_teacher": "王傑瑁",
+    "scr_teacher_eng": "Jei-Mao Wang",
+    "scr_selcode": "1251",
+    "scr_elearning": "全學期",
+    "scr_elearning_en": "Full semester",
+    "scr_hours": "1",
+    "scr_english": "N",
+    "unt_name": null,
+    "unt_ename": null,
+    "link_traminal": "跨學期畢業專題",
+    "link_traminal_en": "Capstone Course",
+    "scr_ldl": "D",
+    "course_mk": "N",
+    "teams_mk": "N",
+    "sub_title": null,
+    "sub_title_en": null,
+    "sub_describe": null,
+    "sub_describe_en": null,
+    "hasDescription": null,
+    "hasInstructor": null,
+    "hasTA": null,
+    "hasTextBooks": null,
+    "hasReadings": null,
+    "hasiSoftwares": null,
+    "hasAssistSoftwares": null,
+    "hasObjective": null,
+    "hasWeeklyScds": null,
+    "hasGradeRules": null,
+    "hasGradeRuleDescribe": null,
+    "hasIntegrity": null,
+    "hasCoursePol": null,
+    "hasCourseRem": null,
+    "hasObjectiveReleation": null,
+    "hasTopicSdgs": null,
+    "hasSubTitleDesc": null
+  },
+  "subTitleDesc": null,
+  "description": {
+    "sub_id3": null,
+    "sub_name": "專題研究討論",
+    "sub_ename": "RESEARCH PROJECT",
+    "describe_ch": " 由學生於大三選擇與個人興趣相關的專題與指導老師，並透過專題指導老師指導研究專題，透過相關研究文獻檢索、閱讀與小組討論設計題目，並應用所學理論與團隊合作將執行與實驗所設計之專題，並於大四專題討論課了解專題論文架構與相關議題的討論，最後透過公開發表，由專家與教授進行評分與建議。",
+    "describe_eh": "Studients choose their advisor by their will in the Junior year. Through discussion the project topic with advisor, create a project plan. Cultivate students' ability of paper searching、paper reading、and presentation. Moreover, based on carrying out the project, cultivate students' ability of teamwork, understanding the basic theory. The studients give an oral presentation of their projects in the Senior year. The achievements of the projects were evaluate via the professors and experts.",
+    "pre_subname": "",
+    "pre_sub_id3": null,
+    "pre_sub_ename": "",
+    "pre_describe": null,
+    "pre_describe_en": null,
+    "scr_credit": 1.0
+  },
+  "targets": [
+    {
+      "seq": 1,
+      "describe_ch": "小組討論。",
+      "describe_en": "Group discussion."
+    },
+    {
+      "seq": 2,
+      "describe_ch": "與專題老師設計題目。",
+      "describe_en": "Design project with advisor."
+    },
+    {
+      "seq": 3,
+      "describe_ch": "培養學生檢索論文、閱讀論文、整理論文之能力。",
+      "describe_en": "Cultivate students' ability of paper searching、paper reading, and organization paper."
+    },
+    {
+      "seq": 4,
+      "describe_ch": "使學生熟悉相關論文研究議題與內容。",
+      "describe_en": "Make students be familiar with research topics."
+    },
+    {
+      "seq": 5,
+      "describe_ch": "培養學生聽講、思考、發問、與探討專業問題之能力。",
+      "describe_en": "Cultivate students' ability of listening、thicking、asking、and discussing  problems."
+    },
+    {
+      "seq": 6,
+      "describe_ch": "執行專題計畫時應用系上所學之相關理論。",
+      "describe_en": "Learning theory applied to carry out the project."
+    },
+    {
+      "seq": 7,
+      "describe_ch": "實驗與驗證所提專題計畫，並進行修正。",
+      "describe_en": "Testing the feasibility of project and then modifying it."
+    },
+    {
+      "seq": 8,
+      "describe_ch": "整理與分析數據，能以書面或口頭方式將所獲結果與同儕、助教及教師溝通。",
+      "describe_en": "Communicate results in written or oral form to classmates, teaching assistants, and the instructor."
+    },
+    {
+      "seq": 9,
+      "describe_ch": "口頭發表與書面報告。",
+      "describe_en": "Oral presentation and written report."
+    }
+  ],
+  "teachersInfo": [
+    {
+      "cname": "王傑瑁",
+      "ename": "Jie-Mao Wang",
+      "period": "(Tue)08-09 工216,(Wed)03  工216,(Thu)06-07 工216",
+      "roletype": 0,
+      "email": "jmwang@o365.fcu.edu.tw",
+      "ext": "3441"
+    }
+  ],
+  "textBooks": {
+    "yms_year": 114.0,
+    "yms_smester": 1.0,
+    "cls_id": "CE05140",
+    "sub_id": "43100",
+    "scr_dup": "001",
+    "tpb_seq": 1,
+    "tpb_book": "<div>以學生自行準備之專題報告內容為主</div>\n",
+    "tpb_book_en": null
+  },
+  "readings": {
+    "yms_year": 114.0,
+    "yms_smester": 1.0,
+    "cls_id": "CE05140",
+    "sub_id": "43100",
+    "scr_dup": "001",
+    "tpc_seq": 1,
+    "tpc_book": "<div>以學生自行準備之專題報告內容為主</div>\n",
+    "tpc_book_en": null
+  },
+  "iSoftwares": [],
+  "assistSoftwares": [],
+  "weeklyScds": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CE05140",
+      "sub_id": "43100",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "1",
+      "tpd_reading": "<div>課程說明</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": null,
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CE05140",
+      "sub_id": "43100",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "2~3",
+      "tpd_reading": "<div>學生專題報告演練</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": null,
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CE05140",
+      "sub_id": "43100",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "4~5",
+      "tpd_reading": "<div>學生專題報告演練</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": null,
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CE05140",
+      "sub_id": "43100",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "6~7",
+      "tpd_reading": "<div>學生專題報告演練</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": null,
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CE05140",
+      "sub_id": "43100",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "8~9",
+      "tpd_reading": "<div>學生專題報告演練</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": null,
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CE05140",
+      "sub_id": "43100",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "10~11",
+      "tpd_reading": "<div>學生專題報告演練</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": null,
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CE05140",
+      "sub_id": "43100",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "12~16",
+      "tpd_reading": "<div>學生專題報告演練</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": null,
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    }
+  ],
+  "gradeRules": [],
+  "gradeRuleDescribe": {
+    "yms_year": 114.0,
+    "yms_smester": 1.0,
+    "cls_id": "CE05140",
+    "sub_id": "43100",
+    "scr_dup": "001",
+    "tpa_score_new": "<div>完成報告演練(100%)</div>\n",
+    "tpa_score_new_en": null,
+    "course_pol": "請各位同學盡量於上課前就座。上課中請留意上課禮節，以不影響課程進行、不影響他人求學的權利為行事準則。",
+    "course_pol_en": null,
+    "course_rem": "請隨時留意iLearn公告&訊息，課後有任何疑慮亦可透過Teams & iLearn聯絡",
+    "course_rem_en": null,
+    "ais_meno": "<div>平時成績包含作業與出席，故複製他人作業內容或頂替出席皆不允許。</div>\n\n<div>考試規則依「逢甲大學學生考試要點」辦理。</div>\n\n<div>如考試因故須請假，請留意前述要點之規定「應參加考試之學生，未遵章請假或請假未經核准，而未參加考試者，該科該次考試成績 以零分計算」。如需補考，滿分以60分為原則。</div>\n",
+    "ais_meno_en": null,
+    "ilearn_mk": null
+  },
+  "integrity": {
+    "yms_year": 114.0,
+    "yms_smester": 1.0,
+    "cls_id": "CE05140",
+    "sub_id": "43100",
+    "scr_dup": "001",
+    "tpa_score_new": "<div>完成報告演練(100%)</div>\n",
+    "tpa_score_new_en": null,
+    "course_pol": "請各位同學盡量於上課前就座。上課中請留意上課禮節，以不影響課程進行、不影響他人求學的權利為行事準則。",
+    "course_pol_en": null,
+    "course_rem": "請隨時留意iLearn公告&訊息，課後有任何疑慮亦可透過Teams & iLearn聯絡",
+    "course_rem_en": null,
+    "ais_meno": "<div>平時成績包含作業與出席，故複製他人作業內容或頂替出席皆不允許。</div>\n\n<div>考試規則依「逢甲大學學生考試要點」辦理。</div>\n\n<div>如考試因故須請假，請留意前述要點之規定「應參加考試之學生，未遵章請假或請假未經核准，而未參加考試者，該科該次考試成績 以零分計算」。如需補考，滿分以60分為原則。</div>\n",
+    "ais_meno_en": null,
+    "ilearn_mk": null
+  },
+  "policy": {
+    "yms_year": 114.0,
+    "yms_smester": 1.0,
+    "cls_id": "CE05140",
+    "sub_id": "43100",
+    "scr_dup": "001",
+    "tpa_score_new": "<div>完成報告演練(100%)</div>\n",
+    "tpa_score_new_en": null,
+    "course_pol": "請各位同學盡量於上課前就座。上課中請留意上課禮節，以不影響課程進行、不影響他人求學的權利為行事準則。",
+    "course_pol_en": null,
+    "course_rem": "請隨時留意iLearn公告&訊息，課後有任何疑慮亦可透過Teams & iLearn聯絡",
+    "course_rem_en": null,
+    "ais_meno": "<div>平時成績包含作業與出席，故複製他人作業內容或頂替出席皆不允許。</div>\n\n<div>考試規則依「逢甲大學學生考試要點」辦理。</div>\n\n<div>如考試因故須請假，請留意前述要點之規定「應參加考試之學生，未遵章請假或請假未經核准，而未參加考試者，該科該次考試成績 以零分計算」。如需補考，滿分以60分為原則。</div>\n",
+    "ais_meno_en": null,
+    "ilearn_mk": null
+  },
+  "courseBankC": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CE05140",
+      "sub_id": "43100",
+      "scr_dup": "001",
+      "seq": 1,
+      "describe_ch": "小組討論。",
+      "describe_en": "Group discussion.",
+      "core_id": "E",
+      "core_item": "規劃系統單元及全製程整合的能力。",
+      "core_eng": "Develop system unit planning, and full process integration capability.",
+      "core_level": "3 ",
+      "strgy": [
+        "10"
+      ],
+      "evalb": [
+        "L3"
+      ],
+      "strgy_name": [
+        "小組討論及活動"
+      ],
+      "strgy_name_en": [
+        "Group activity & discussion"
+      ],
+      "evalb_name": [
+        "課堂討論參與"
+      ],
+      "evalb_name_en": [
+        "Participation"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CE05140",
+          "sub_id": "43100",
+          "scr_dup": "001",
+          "seq": 1,
+          "strgy_id": "10",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CE05140",
+          "sub_id": "43100",
+          "scr_dup": "001",
+          "seq": 1,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "L3",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CE05140",
+      "sub_id": "43100",
+      "scr_dup": "001",
+      "seq": 2,
+      "describe_ch": "與專題老師設計題目。",
+      "describe_en": "Design project with advisor.",
+      "core_id": "C",
+      "core_item": "具備構思、創新、設計與執行工程專題，以及分析與解釋數據的能力。",
+      "core_eng": "Develop ability to conceive, design, and execute engineering projects, and to analyze and interpret data.",
+      "core_level": "3 ",
+      "strgy": [
+        "04"
+      ],
+      "evalb": [
+        "L3"
+      ],
+      "strgy_name": [
+        "專題討論"
+      ],
+      "strgy_name_en": [
+        "Seminar"
+      ],
+      "evalb_name": [
+        "課堂討論參與"
+      ],
+      "evalb_name_en": [
+        "Participation"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CE05140",
+          "sub_id": "43100",
+          "scr_dup": "001",
+          "seq": 2,
+          "strgy_id": "04",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CE05140",
+          "sub_id": "43100",
+          "scr_dup": "001",
+          "seq": 2,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "L3",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CE05140",
+      "sub_id": "43100",
+      "scr_dup": "001",
+      "seq": 3,
+      "describe_ch": "培養學生檢索論文、閱讀論文、整理論文之能力。",
+      "describe_en": "Cultivate students' ability of paper searching、paper reading, and organization paper.",
+      "core_id": "B",
+      "core_item": "應用技能、技術與現代工程工具的能力。",
+      "core_eng": "Develop skills and tools in modern engineering.",
+      "core_level": "3 ",
+      "strgy": [
+        "04"
+      ],
+      "evalb": [
+        "L3"
+      ],
+      "strgy_name": [
+        "專題討論"
+      ],
+      "strgy_name_en": [
+        "Seminar"
+      ],
+      "evalb_name": [
+        "課堂討論參與"
+      ],
+      "evalb_name_en": [
+        "Participation"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CE05140",
+          "sub_id": "43100",
+          "scr_dup": "001",
+          "seq": 3,
+          "strgy_id": "04",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CE05140",
+          "sub_id": "43100",
+          "scr_dup": "001",
+          "seq": 3,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "L3",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CE05140",
+      "sub_id": "43100",
+      "scr_dup": "001",
+      "seq": 4,
+      "describe_ch": "使學生熟悉相關論文研究議題與內容。",
+      "describe_en": "Make students be familiar with research topics.",
+      "core_id": null,
+      "core_item": null,
+      "core_eng": null,
+      "core_level": "2 ",
+      "strgy": [
+        "04"
+      ],
+      "evalb": [
+        "L3"
+      ],
+      "strgy_name": [
+        "專題討論"
+      ],
+      "strgy_name_en": [
+        "Seminar"
+      ],
+      "evalb_name": [
+        "課堂討論參與"
+      ],
+      "evalb_name_en": [
+        "Participation"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CE05140",
+          "sub_id": "43100",
+          "scr_dup": "001",
+          "seq": 4,
+          "strgy_id": "04",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CE05140",
+          "sub_id": "43100",
+          "scr_dup": "001",
+          "seq": 4,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "L3",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CE05140",
+      "sub_id": "43100",
+      "scr_dup": "001",
+      "seq": 5,
+      "describe_ch": "培養學生聽講、思考、發問、與探討專業問題之能力。",
+      "describe_en": "Cultivate students' ability of listening、thicking、asking、and discussing  problems.",
+      "core_id": "F",
+      "core_item": "具備分析、應用研究成果及兼顧永續發展，以解決複雜且整合性工程問題的能力。",
+      "core_eng": "Develop research analysis, application, sustainability skills to solve complex engineering problems.",
+      "core_level": "3 ",
+      "strgy": [
+        "10"
+      ],
+      "evalb": [
+        "L3"
+      ],
+      "strgy_name": [
+        "小組討論及活動"
+      ],
+      "strgy_name_en": [
+        "Group activity & discussion"
+      ],
+      "evalb_name": [
+        "課堂討論參與"
+      ],
+      "evalb_name_en": [
+        "Participation"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CE05140",
+          "sub_id": "43100",
+          "scr_dup": "001",
+          "seq": 5,
+          "strgy_id": "10",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CE05140",
+          "sub_id": "43100",
+          "scr_dup": "001",
+          "seq": 5,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "L3",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CE05140",
+      "sub_id": "43100",
+      "scr_dup": "001",
+      "seq": 6,
+      "describe_ch": "執行專題計畫時應用系上所學之相關理論。",
+      "describe_en": "Learning theory applied to carry out the project.",
+      "core_id": "A",
+      "core_item": "具備纖維與複合材料工程專業知識及應用數學、物理、化學、資訊及外文的能力。",
+      "core_eng": "Acquire professional knowledge in fiber and composite materials engineering, mathematics, physics, chemistry, information technology and foreign language.",
+      "core_level": "3 ",
+      "strgy": [
+        "04"
+      ],
+      "evalb": [
+        "L3"
+      ],
+      "strgy_name": [
+        "專題討論"
+      ],
+      "strgy_name_en": [
+        "Seminar"
+      ],
+      "evalb_name": [
+        "課堂討論參與"
+      ],
+      "evalb_name_en": [
+        "Participation"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CE05140",
+          "sub_id": "43100",
+          "scr_dup": "001",
+          "seq": 6,
+          "strgy_id": "04",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CE05140",
+          "sub_id": "43100",
+          "scr_dup": "001",
+          "seq": 6,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "L3",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CE05140",
+      "sub_id": "43100",
+      "scr_dup": "001",
+      "seq": 7,
+      "describe_ch": "實驗與驗證所提專題計畫，並進行修正。",
+      "describe_en": "Testing the feasibility of project and then modifying it.",
+      "core_id": "G",
+      "core_item": "認知專業與資訊倫理及道德責任的能力，具備自我要求、負責的態度。",
+      "core_eng": "Develop professional and information ethics, and moral responsibility.",
+      "core_level": "3 ",
+      "strgy": [
+        "04"
+      ],
+      "evalb": [
+        "L3"
+      ],
+      "strgy_name": [
+        "專題討論"
+      ],
+      "strgy_name_en": [
+        "Seminar"
+      ],
+      "evalb_name": [
+        "課堂討論參與"
+      ],
+      "evalb_name_en": [
+        "Participation"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CE05140",
+          "sub_id": "43100",
+          "scr_dup": "001",
+          "seq": 7,
+          "strgy_id": "04",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CE05140",
+          "sub_id": "43100",
+          "scr_dup": "001",
+          "seq": 7,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "L3",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CE05140",
+      "sub_id": "43100",
+      "scr_dup": "001",
+      "seq": 8,
+      "describe_ch": "整理與分析數據，能以書面或口頭方式將所獲結果與同儕、助教及教師溝通。",
+      "describe_en": "Communicate results in written or oral form to classmates, teaching assistants, and the instructor.",
+      "core_id": "H",
+      "core_item": "認識未來社會發展的時事議題，瞭解工程技術對環境永續、社會共好及全球發展的影響。",
+      "core_eng": "Follow current and future trends, and develop engineering technologies that benefit an environmentally sustainable society.",
+      "core_level": "3 ",
+      "strgy": [
+        "10"
+      ],
+      "evalb": [
+        "L3"
+      ],
+      "strgy_name": [
+        "小組討論及活動"
+      ],
+      "strgy_name_en": [
+        "Group activity & discussion"
+      ],
+      "evalb_name": [
+        "課堂討論參與"
+      ],
+      "evalb_name_en": [
+        "Participation"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CE05140",
+          "sub_id": "43100",
+          "scr_dup": "001",
+          "seq": 8,
+          "strgy_id": "10",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CE05140",
+          "sub_id": "43100",
+          "scr_dup": "001",
+          "seq": 8,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "L3",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CE05140",
+      "sub_id": "43100",
+      "scr_dup": "001",
+      "seq": 9,
+      "describe_ch": "口頭發表與書面報告。",
+      "describe_en": "Oral presentation and written report.",
+      "core_id": "D",
+      "core_item": "具備專案管理、溝通協調與團隊合作暨終身學習意願的能力。",
+      "core_eng": "Develop project management, communication, teamwork, and lifelong learning capability.",
+      "core_level": "3 ",
+      "strgy": [
+        "10"
+      ],
+      "evalb": [
+        "L3"
+      ],
+      "strgy_name": [
+        "小組討論及活動"
+      ],
+      "strgy_name_en": [
+        "Group activity & discussion"
+      ],
+      "evalb_name": [
+        "課堂討論參與"
+      ],
+      "evalb_name_en": [
+        "Participation"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CE05140",
+          "sub_id": "43100",
+          "scr_dup": "001",
+          "seq": 9,
+          "strgy_id": "10",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CE05140",
+          "sub_id": "43100",
+          "scr_dup": "001",
+          "seq": 9,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "L3",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    }
+  ],
+  "topicSdgs": [],
+  "learnHours": {
+    "total": 0.0,
+    "tpdOnlineAsyTotal": 0.0,
+    "tpdOnlineSynTotal": 0.0,
+    "tpdOnlineFaceTotal": 0.0,
+    "asySynInTotalPercent": 0.0
+  },
+  "crossVerYear": 114
+}

@@ -1,0 +1,382 @@
+{
+  "teacherId": "T06045",
+  "name": "袁長安",
+  "mainUnit": "工程與科學學院",
+  "detailUnit": "機械與電腦輔助工程學系",
+  "skill": [
+    "固體力學Solid mechanics",
+    "有限單元法Finite element method",
+    "作業研究：啟發式演算法Operation Research: Heuristic Algorithm",
+    "半導體技術:先進封裝與可靠度Semiconductor technology: advanced packaging and reliability",
+    "機器學習方法Machine Learning Algorithms"
+  ],
+  "edu": [
+    "國立清華大學 動力機械系 博士",
+    "國立交通大學 土木工程學系 學士"
+  ],
+  "fcuExp": [
+    "智慧機械產業發展中心 推廣服務組組長",
+    "智慧機械產業發展中心 主任",
+    "智慧機械產業發展中心 主任",
+    "機械與電腦輔助工程學系 助理教授",
+    "機械與電腦輔助工程學系 助理教授",
+    "機械與電腦輔助工程學系 副教授",
+    "機械與電腦輔助工程學系 教授"
+  ],
+  "currjob": [],
+  "otherExp": [],
+  "journal": [
+    {
+      "論文名稱": "Simulation education utilizing phantom and angle reference guide in pulmonary\nnodule CT localization",
+      "期刊名稱": "Heliyon (SCIE)",
+      "作者群": "Chiao-Yun Tsai, Stella Chin-Shaw Tsai, Guang-Qian Shen, Guan-Liang Robert Guo, Zhe-Luen Gerald Tsui, Ming-Yu Hsieh, Cadmus Yuan, Frank Cheau-Feng Lin"
+    },
+    {
+      "論文名稱": "Coefficient Extraction of SAC305 Solder Constitutive Equations Using Equation-Informed Neural Networks",
+      "期刊名稱": "Materials(SCIE) (SCIE)",
+      "作者群": "C. Yuan, Q. Su, and K.-N. Chiang"
+    },
+    {
+      "論文名稱": "Wafer-level packaging solder joint reliability lifecycle prediction using SVR-based machine learning algorithm",
+      "期刊名稱": "Journal of Mechanics (SSCI)",
+      "作者群": "Hsuan-Chen Kuo, Chih-Yi Chang, Cadmus Yuan, Kuo-Ning Chiang"
+    },
+    {
+      "論文名稱": "Investigation of the mechanical characteristics of the Cu/low-k BEOL under wire bonding process loading",
+      "期刊名稱": "Journal of Mechanics (SCIE,EI)",
+      "作者群": "Yuan, Cadmus C. A. Chang, H. M. Chiang, K. N.*"
+    },
+    {
+      "論文名稱": "An AI-Based Adaptive Surrogate Modeling Method for the In-Service Response of UVLED Modules",
+      "期刊名稱": "electronics (SCIE)",
+      "作者群": "Cadmus Yuan"
+    },
+    {
+      "論文名稱": "Biomechanical evaluation of bridge span with three implant abutment designs and two connectors for tooth-implant supported prosthesis: A finite element analysis",
+      "期刊名稱": "Journal of Dental Sciences (SCIE)",
+      "作者群": "Ling-Shiuan Huang, Yen-Chang Huang,  Cadmus Yuan, Shinn-Jyh Ding,  Min Yan"
+    },
+    {
+      "論文名稱": "The research on the dental bridge model-making process based on the curing shrinkage epoxy and residual stress reduction",
+      "期刊名稱": "Journal of Mechanics (SCIE)",
+      "作者群": "Cadmus C A Yuan, Guang-Qian Shen, Yen-Chang Huang, Shinn-Jyh Ding, Min Yan"
+    },
+    {
+      "論文名稱": "Using a Flexible IoT Architecture and AI Model to Recognize and Predict the Production Activities in the Labor-intensive Manufacturing Site",
+      "期刊名稱": "Electronics (SCIE)",
+      "作者群": "Cadmus Yuan *, Chic Chang Wang, Ming-Lun Chang, Wen-Ting Lin, Po-An Lin, Chang-Chi Lee, Zhe-Luen Tsui"
+    },
+    {
+      "論文名稱": "Solder Joint Reliability Risk Estimation by AI-Assisted Simulation Framework with Genetic Algorithm to Optimize the Initial Parameters for AI Models",
+      "期刊名稱": "materials (SCIE)",
+      "作者群": "Cadmus Yuan, Xuejun Fan and Gouqi Zhang"
+    },
+    {
+      "論文名稱": "Biomechanical analysis of rigid and non-rigid connection with implant abutment designs for tooth-implant supported prosthesis: A finite element analysis",
+      "期刊名稱": "Journal of Dental Sciences (SCIE)",
+      "作者群": "Yen-Chang Huang, Shinn-Jyh Ding, Cadmus Yuan, Min Yan"
+    },
+    {
+      "論文名稱": "DEEP MACHINE LEARNING OF THE SPECTRAL POWER DISTRIBU-TION OF LED SYSTEM WITH MULTIPLE DEGRADATION MECHA-NISMS",
+      "期刊名稱": "Journal of Mechanics (SCIE)",
+      "作者群": "Cadmus C.A. Yuan, Jiejie Fan, XueJun Fan"
+    },
+    {
+      "論文名稱": "Solder Joint Reliability Modeling by Sequential Artificial Neural Network for Glass Wafer Level Chip Scale Package",
+      "期刊名稱": "IEEE Access (SCIE)",
+      "作者群": "Cadmus C. A. Yuan; Chang-Chi Lee"
+    }
+  ],
+  "journal2": [],
+  "conference": [
+    {
+      "論文名稱": "以問卷調查分析智慧倉儲系統導入對於公司員工之影響",
+      "會議名稱": "中國機械工程學會第四十一屆全國學術研討會",
+      "作者群": "林星妤、崔哲綸、袁長安"
+    },
+    {
+      "論文名稱": "一種新的重新排程機制應用於大量客製化生產排程啟發式演算法",
+      "會議名稱": "中國機械工程學會第四十一屆全國學術研討會",
+      "作者群": "黃晟展、李品嫻、崔哲綸、袁長安"
+    },
+    {
+      "論文名稱": "Production Scheduling Heuristic for Mass Customization with Partial Rescheduling",
+      "會議名稱": "2024 7th International Conference on Mechanical Manufacturing and Industrial Engineering (MMIE 2024)",
+      "作者群": "Zhe-Luen Tsui, Ywh-Leh Chou, Cadmus Yuan"
+    },
+    {
+      "論文名稱": "A Heuristic algorithm for Multi-objective Scheduling of Mass Customization Orders with Multiple Constraints",
+      "會議名稱": "中華機械工程協會第四十屆全國學術演討會",
+      "作者群": "Zhe-Luen Tsui, Cadmus Yuan"
+    },
+    {
+      "論文名稱": "Development of a Semiautomatic Probe Card Adjustment Equipment",
+      "會議名稱": "IMPACT 2023 | 18th International Microsystems, Packaging, Assembly and Circuits Technology Conference",
+      "作者群": "Fu Chen Gao, Kuo-Wei Chiang, Zhe-Luen Tsui, Cadmus Yuan, and Chic Chang Wang"
+    },
+    {
+      "論文名稱": "AI-based Adaptive Surrogate Modeling: A Future Performance Prediction Method Applied to UV-LED Modules",
+      "會議名稱": "IMPACT 2023 | 18th International Microsystems, Packaging, Assembly and Circuits Technology Conference",
+      "作者群": "Cadmus Yuan"
+    },
+    {
+      "論文名稱": "AI-based Adaptive Surrogate Modeling Frameworkd for In-service Performance Prediction with Validation by the UV-LED Modules",
+      "會議名稱": "The 3rd Digital Twin International Conference (DigiTwin 2023)",
+      "作者群": "Cadmus Yuan*"
+    },
+    {
+      "論文名稱": "大規模客製訂單生產排程智慧化之研究",
+      "會議名稱": "2023 智慧生活科技與管理研討會",
+      "作者群": "林珈弘、袁長安、周育樂*"
+    },
+    {
+      "論文名稱": "Equation Informed Neural Networks with Bayesian Inference Improvement for the Coefficient Extraction of the Empirical Formulas",
+      "會議名稱": "2023 24th International Conference on Thermal, Mechanical and Multi-Physics Simulation and Experiments in Microelectronics and Microsystems (EuroSimE)",
+      "作者群": "Cadmus Yuan*, Jing Yu Wang, Cheng En Lee, Kuo-Ning Chiang"
+    },
+    {
+      "論文名稱": "A Hybrid Deep Machine Learning for the In-service Response Uncertainty Modeling",
+      "會議名稱": "中華民國力學學會年會暨第 46 屆全國力學會議",
+      "作者群": "Cadmus Yuan"
+    },
+    {
+      "論文名稱": "Continous AI-aided learning to establish the digital twin models for predicting the individual  reliability characteristics",
+      "會議名稱": "2022EuroSime",
+      "作者群": "Cadmus Yuan"
+    },
+    {
+      "論文名稱": "Deep Learning of the SSL Luminaire Spectral Power Distribution under Multiple Degradation Mechanisms by Hybrid kNN algorithm",
+      "會議名稱": "中華民國力學學會年會暨第四十五屆全國力學會議",
+      "作者群": "Cadmus Yuan and G.Q. Zhang"
+    },
+    {
+      "論文名稱": "Deep Learning of the SSL Luminaire Spectral Power Distribution under Multiple Degradation Mechanisms by Hybrid kNN algorithm",
+      "會議名稱": "EuroSimE 2021",
+      "作者群": "Cadmus Yuan"
+    },
+    {
+      "論文名稱": "以工業物聯網方法擷取製鞋產線之生產特性並以機器學習方法預測產能技術研究",
+      "會議名稱": "2021 第二十八屆 人因工程學會年會暨學術研討會",
+      "作者群": "袁長安, 王啟昌, 林彣庭, 李昌旗, 崔哲綸"
+    },
+    {
+      "論文名稱": "Solder joint reliability risk estimation by AI modeling",
+      "會議名稱": "Mechanical and Multi-Physics Simulation and Experiments in Microelectronics and Microsystems (EuroSimE)",
+      "作者群": "Yuan, C., and Lee, C.-C"
+    },
+    {
+      "論文名稱": "虛實整合方法之機電概念設計",
+      "會議名稱": "第四十三屆全國力學會議",
+      "作者群": "賴冠宇, 袁長安, 林庭妤"
+    },
+    {
+      "論文名稱": "應用離散事件模擬與基因演算法於多能工單之生產排程優化",
+      "會議名稱": "第四十三屆全國力學會議",
+      "作者群": "林彣庭、袁長安"
+    },
+    {
+      "論文名稱": "可應用於CT導引胸腔經皮穿刺術之人體模型開發研究",
+      "會議名稱": "第四十三屆全國力學會議",
+      "作者群": "崔哲綸, 謝明諭, 袁長安, 沈光前, and 郭冠良"
+    },
+    {
+      "論文名稱": "個人化之足部行走暫態應力模擬技術開發",
+      "會議名稱": "第四十三屆全國力學會議",
+      "作者群": "黃信晏, 賴冠宇, and 袁長安"
+    },
+    {
+      "論文名稱": "以虛實整合的方式工業級軟性材料專用夾爪",
+      "會議名稱": "第四十三屆全國力學會議",
+      "作者群": "洪鈺鈞, 袁長安, 林彣庭, 賴冠宇, and 李昌旗"
+    },
+    {
+      "論文名稱": "Vibration sensor based IOT system for foot-wear manufacturing",
+      "會議名稱": "the 43rd Conference on Theoretical and Applied Mechanics",
+      "作者群": "C. Yuan, C. C. Wang, M.-L. Chang, W.-T. Lin, P.-A. Lin, and H.-S. Tseng"
+    },
+    {
+      "論文名稱": "Application of Recurrent Neural Network on Reliability Assessment and Manufacturing Condition Monitoring",
+      "會議名稱": "the 43rd Conference on Theoretical and Applied Mechanics",
+      "作者群": "C. Yuan, C. C. Wang, C. C. Lee, and H.-S. Tseng"
+    },
+    {
+      "論文名稱": "Application of Artificial and Recurrent Neural Network on the Steady-State and Transient Thermal Finite Element Modeling for Thermal Responses in Power Electronic Packaging",
+      "會議名稱": "the 43rd Conference on Theoretical and Applied Mechanics",
+      "作者群": "C. Yuan, C.-C. Lee, H.-S. Tseng, K.-N. Chiang, and Jin-Huan"
+    },
+    {
+      "論文名稱": "Study of the Impact of Mold-Surface Infrared Heating Method on Weldline Tensile Strength of Long Glass Fiber Reinforced PA66 Molding",
+      "會議名稱": "2019 International Conference on Mechatronic, Automobile, and Environment Engineering",
+      "作者群": "Hsin-Shu Peng, Po-Wei Huang, Po-Chih Chen, Zong-Wei Ke, Cadmus Yuan"
+    },
+    {
+      "論文名稱": "Kinematic Analysis of A 6-DOF Robotic Arm",
+      "會議名稱": "IFToMM World Congress on Mechanism and Machine Science",
+      "作者群": "M. T. Nguyen, C. Yuan, and J. H. Huang"
+    },
+    {
+      "論文名稱": "基於⼯業4.0的產品⽣命週期管理技術之教學實踐研究",
+      "會議名稱": "創新時代的教育：2019創新教育與教學實踐研究論壇",
+      "作者群": "袁⻑安, 李昌旗, and 洪鈺鈞"
+    },
+    {
+      "論文名稱": "Application of Artificial and recurrent neural network on the steady-state and transient finite element modeling",
+      "會議名稱": "the 20th International Conference on Thermal, Mechanical and Multi-Physics Simulation and Experiments in Microelectronics and Microsystems (EuroSimE)",
+      "作者群": "C. Yuan, Y.-J. Hong, C.-C. Lee, K.-N. Chiang, and J.-H. Huang"
+    }
+  ],
+  "book": [],
+  "patent": [],
+  "most": [
+    {
+      "name": "應用即時機器學習技術建立微型LED陣列封裝之光色可靠性AI模型研究",
+      "schoolYear": "111"
+    },
+    {
+      "name": "連續生產異質設備產線之工業物聯網建置、狀態預測模型與智能決策方法研究(2/2)",
+      "schoolYear": "110"
+    },
+    {
+      "name": "製鞋智動化機電系統暨網宇虛實整合開發計畫－製鞋智動化機電系統暨網宇虛實整合開發計畫(3/3)",
+      "schoolYear": "109"
+    },
+    {
+      "name": "連續生產異質設備產線之工業物聯網建置、狀態預測模型與智能決策方法研究(1/2)",
+      "schoolYear": "109"
+    },
+    {
+      "name": "異質設備之工業物聯網建置和特性研究-以健身房為實驗場域",
+      "schoolYear": "109"
+    },
+    {
+      "name": "製鞋智動化機電系統暨網宇虛實整合開發計畫－製鞋智動化機電系統暨網宇虛實整合開發計畫(2/3)",
+      "schoolYear": "108"
+    },
+    {
+      "name": "醫療模擬用肺腔腫瘤模型假人",
+      "schoolYear": "108"
+    },
+    {
+      "name": "EVA發泡材料實驗測試、巨觀-微觀材料特性建模與應用研究(2/2)",
+      "schoolYear": "107"
+    },
+    {
+      "name": "製鞋智動化機電系統暨網宇虛實整合開發計畫－製鞋智動化機電系統暨網宇虛實整合開發計畫(1/3)",
+      "schoolYear": "107"
+    },
+    {
+      "name": "建立基於實際步行特徵的有限元素模行以設計個性化運動鞋底",
+      "schoolYear": "107"
+    },
+    {
+      "name": "EVA發泡材料實驗測試、巨觀-微觀材料特性建模與應用研究(1/2)",
+      "schoolYear": "106"
+    },
+    {
+      "name": "(深耕)精密主軸於智慧型滾齒機之應用暨推廣(2/2)",
+      "schoolYear": "106"
+    }
+  ],
+  "tech": [
+    {
+      "論文名稱": "Advances in Delamination Modeling of Metal/Polymer Systems: Atomistic Aspects (2018-09)",
+      "書名": "Nanopackaging",
+      "作者群": "O. van der Sluis, N. Iwamoto, J. Qu, S. Yang, C. Yuan, W. D. van Driel, G. Q. Zhang"
+    }
+  ],
+  "induAca": [
+    "模擬吊金工法斷線試驗技術服務工作 (2024-04 to 2024-08)",
+    "Line Plan作業智動化實作專案 (2023-11 to 2024-10)",
+    "機上熱變位驗證開發 (2022-07 to 2023-03)",
+    "以XY平台實現懸臂式PC的半自動調針技術研究專案 (2021-11 to 2022-10)",
+    "(國合)鞋品成型線之複數產線輪次表生成技術研究專案 (2021-11 to 2022-10)",
+    "以AGV實現待測品至烤箱搬運與取放的自動化技術開發專案 (2021-11 to 2022-10)",
+    "2021年逢甲大學-欣銓科技產學合作先導計畫 (2021-04 to 2021-07)",
+    "子計畫4-以AR強化Probe card 調針機之針位調整技術 (2021-04 to 2021-07)",
+    "結合有限元素法與人工智慧優化人工植牙夾併自然牙之牙橋最佳化設計 (2021-02 to 2021-12)",
+    "智能 鞋業人才培育產學合作專案計畫 (2020-12 to 2021-12)",
+    "CNC車床整機AI熱補償 (2020-07 to 2022-06)",
+    "以有限單元法優化人工植牙之牙橋設計研究 (2020-02 to 2020-12)",
+    "智能鞋業人才培育產學合作專案計畫 (2019-12 to 2020-11)",
+    "智慧製造＋數位雙胞胎技術論壇與技術工作坊 (2019-11 to 2019-12)",
+    "推動運輸工具產業智慧製造技術 (2019-10 to 2019-12)",
+    "燒結爐燒結物溫度之預測技術 (2019-10 to 2020-04)",
+    "射出料管溫度/壓力即時量測應用於CAE模擬軟體開發與應用之研究 (2019-04 to 2020-03)",
+    "(國合)Design and Development of PLM Training APP设计与开发应用于云服务的PLM培训APP (2019-02 to 2020-01)",
+    "射出成型產品性能監測技術開發與應用 (2018-11 to 2019-04)",
+    "導入西門子4.0機電一體化與智慧機器人之人機協同作業應用基地計畫 (2018-03 to 2018-10)"
+  ],
+  "perform": [],
+  "reward": [
+    "逢甲大學論文著作獎勵傑出獎 (113, 2024-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優等獎 (113, 2024-11) - 逢甲大學",
+    "113學年度教學績優獎 (113, 2024-11) - 逢甲大學",
+    "112年度國科會補助大專校院研究獎勵 (112, 2023-12) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優等獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (111, 2022-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (111, 2022-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (111, 2022-11) - 逢甲大學",
+    "111年度國科會補助大專校院研究獎勵 (111, 2022-10) - 研究發展處",
+    "逢甲大學論文著作獎勵優良獎 (110, 2021-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (110, 2021-11) - 逢甲大學",
+    "110年度科技部補助大專校院研究獎勵 (110, 2021-10) - 產學合作處"
+  ],
+  "speech": [
+    {
+      "演講題目": "AI Model for Electronic Packaging:  from Current Models to Future Perspectives (English)",
+      "邀請單位": "Micron Technology (美光科技)",
+      "演講日期": "2024-05"
+    },
+    {
+      "演講題目": "AI-assisted Design on Simulation (AI-DoS): An Innovative And Practical Approach to the WLCSP Reliability Design (English)",
+      "邀請單位": "Applied Materials (美商應用材料) Applied Digital Twin",
+      "演講日期": "2023-11"
+    },
+    {
+      "演講題目": "112年度推動自行車產業淨零碳排及產品創新加值計畫『自行車產業虛實整合製造系統於產線應用班』",
+      "邀請單位": "財團法人自行車暨健康科技工業研究發展中心",
+      "演講日期": "2023-07"
+    },
+    {
+      "演講題目": "善用數位雙胞胎(Digital Twin)技術以加速智慧製造之轉型",
+      "邀請單位": "財團法人自行車暨健康科技工業研究發展中心",
+      "演講日期": "2020-06"
+    },
+    {
+      "演講題目": "EVA材料與個人化足部之模型建置研究與鞋履製造產業之IOT-AOI應用",
+      "邀請單位": "國立中正大學機械工程學系",
+      "演講日期": "2019-12"
+    },
+    {
+      "演講題目": "數位雙胞胎專題報告",
+      "邀請單位": "財團法人自行車暨健康科技工業研究發展中心",
+      "演講日期": "2019-11"
+    },
+    {
+      "演講題目": "工業人工智慧實務",
+      "邀請單位": "台灣食品暨製藥機械工業同業公會(TFPMA)",
+      "演講日期": "2019-11"
+    },
+    {
+      "演講題目": "中彰投區域產業政策綜合議題交流會議-與談人",
+      "邀請單位": "區域創新生態推動辦公室",
+      "演講日期": "2019-05"
+    },
+    {
+      "演講題目": "智慧製造在傳統製造產業的應用：以製鞋業為例",
+      "邀請單位": "中科管理局",
+      "演講日期": "2019-05"
+    },
+    {
+      "演講題目": "工業4.0技術應用至鞋業、皮革業",
+      "邀請單位": "優久大學聯盟統籌中心",
+      "演講日期": "2019-04"
+    }
+  ],
+  "material": [],
+  "tal": [
+    "107年度大專校院教學實踐研究計畫「基於工業4.0的產品生命週期管理技術之教學實踐研究」 (107)"
+  ]
+}

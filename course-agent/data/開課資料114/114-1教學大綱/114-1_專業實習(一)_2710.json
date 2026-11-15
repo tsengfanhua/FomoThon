@@ -1,0 +1,621 @@
+{
+  "success": true,
+  "info": {
+    "yms_year": 114.0,
+    "yms_smester": 1.0,
+    "sub_id": "43036",
+    "cls_id": "CS06149",
+    "scr_dup": "001",
+    "sub_id3": "OPT4085",
+    "cls_name": "光電四合",
+    "cls_ename": "Master's Program, Department of Photonics",
+    "sub_name": "專業實習(一)",
+    "sub_ename": "INTERNSHIP (1)",
+    "scr_mso": "選修",
+    "scr_mso_en": "Elective",
+    "scr_credit": 9.0,
+    "scr_periodly": "(三)00",
+    "scr_periodly_eng": "(Wed)00",
+    "lang_name": "中文                                                      ",
+    "lang_ename": "Chinese",
+    "scr_room": "待排",
+    "scr_room_eng": "TBD",
+    "scr_teacher": "莊智皓",
+    "scr_teacher_eng": "Chih-Hao Chuang",
+    "scr_selcode": "2710",
+    "scr_elearning": "全學期",
+    "scr_elearning_en": "Full semester",
+    "scr_hours": "1",
+    "scr_english": "N",
+    "unt_name": null,
+    "unt_ename": null,
+    "link_traminal": null,
+    "link_traminal_en": null,
+    "scr_ldl": "D",
+    "course_mk": "N",
+    "teams_mk": "N",
+    "sub_title": null,
+    "sub_title_en": null,
+    "sub_describe": null,
+    "sub_describe_en": null,
+    "hasDescription": null,
+    "hasInstructor": null,
+    "hasTA": null,
+    "hasTextBooks": null,
+    "hasReadings": null,
+    "hasiSoftwares": null,
+    "hasAssistSoftwares": null,
+    "hasObjective": null,
+    "hasWeeklyScds": null,
+    "hasGradeRules": null,
+    "hasGradeRuleDescribe": null,
+    "hasIntegrity": null,
+    "hasCoursePol": null,
+    "hasCourseRem": null,
+    "hasObjectiveReleation": null,
+    "hasTopicSdgs": null,
+    "hasSubTitleDesc": null
+  },
+  "subTitleDesc": null,
+  "description": {
+    "sub_id3": null,
+    "sub_name": "專業實習(一)",
+    "sub_ename": "INTERNSHIP (1)",
+    "describe_ch": "本課程遴選或推薦學生至光電相關產業進行專業實習，期能整合學生的理論與實務，強化務實致用能力，及提升專業競爭力。",
+    "describe_eh": "The course provides students with internship opportunities in industry. It aims to integrate theoretical studies and actual practices to strengthen the professional skills and the competitiveness of students.",
+    "pre_subname": "",
+    "pre_sub_id3": null,
+    "pre_sub_ename": "",
+    "pre_describe": null,
+    "pre_describe_en": null,
+    "scr_credit": 9.0
+  },
+  "targets": [
+    {
+      "seq": 1,
+      "describe_ch": "能整合光電理論與實務。",
+      "describe_en": "To integrate photonics theories and practices."
+    },
+    {
+      "seq": 2,
+      "describe_ch": "能與同儕溝通協調與團隊合作。",
+      "describe_en": "To communicate and work with colleagues effectively."
+    },
+    {
+      "seq": 3,
+      "describe_ch": "能具有專業倫理及社會責任素養。",
+      "describe_en": "To possess the cultivation of industrial ethics and social responsibilities."
+    }
+  ],
+  "teachersInfo": [
+    {
+      "cname": "莊智皓",
+      "ename": "Chih-Hao Chuang",
+      "period": "(Mon)06-07 理B09D,(Tue)07-08 理B09D",
+      "roletype": 0,
+      "email": "chaochuang@o365.fcu.edu.tw",
+      "ext": "5087"
+    }
+  ],
+  "textBooks": {
+    "yms_year": 114.0,
+    "yms_smester": 1.0,
+    "cls_id": "CS06149",
+    "sub_id": "43036",
+    "scr_dup": "001",
+    "tpb_seq": 1,
+    "tpb_book": "<div>1. 請留意相關實習機會公告</div>\n",
+    "tpb_book_en": " "
+  },
+  "readings": {
+    "yms_year": 114.0,
+    "yms_smester": 1.0,
+    "cls_id": "CS06149",
+    "sub_id": "43036",
+    "scr_dup": "001",
+    "tpc_seq": 1,
+    "tpc_book": "<div>1. 請留意相關實習機會公告</div>\n",
+    "tpc_book_en": null
+  },
+  "iSoftwares": [],
+  "assistSoftwares": [],
+  "weeklyScds": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CS06149",
+      "sub_id": "43036",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "1",
+      "tpd_reading": "<div>專業實習_職場認識</div>\n",
+      "tpd_reading_en": " ",
+      "tpd_learn": " ",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CS06149",
+      "sub_id": "43036",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "2-4",
+      "tpd_reading": "<div>專業實習_職場教育訓練</div>\n",
+      "tpd_reading_en": " ",
+      "tpd_learn": " ",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CS06149",
+      "sub_id": "43036",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "5-7",
+      "tpd_reading": "<div>專業實習_職場教育訓練</div>\n",
+      "tpd_reading_en": " ",
+      "tpd_learn": " ",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CS06149",
+      "sub_id": "43036",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "8-10",
+      "tpd_reading": "<div>專業實習_實習</div>\n",
+      "tpd_reading_en": " ",
+      "tpd_learn": " ",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CS06149",
+      "sub_id": "43036",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "11-13",
+      "tpd_reading": "<div>專業實習_實習</div>\n",
+      "tpd_reading_en": " ",
+      "tpd_learn": " ",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CS06149",
+      "sub_id": "43036",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "14-17",
+      "tpd_reading": "<div>專業實習_實習</div>\n",
+      "tpd_reading_en": " ",
+      "tpd_learn": " ",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CS06149",
+      "sub_id": "43036",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "18",
+      "tpd_reading": "<div>專業實習_檢討</div>\n",
+      "tpd_reading_en": " ",
+      "tpd_learn": " ",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    }
+  ],
+  "gradeRules": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CS06149",
+      "sub_id": "43036",
+      "scr_dup": "001",
+      "evalb_id": "B1",
+      "score_rate": 15,
+      "evalb_memo": "把握實習機會，注重實習表現",
+      "evalb_memo_en": null,
+      "evalb_name": "個人訪談",
+      "evalb_name_en": "Individual interview",
+      "seq": 1
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CS06149",
+      "sub_id": "43036",
+      "scr_dup": "001",
+      "evalb_id": "I6",
+      "score_rate": 70,
+      "evalb_memo": "把握實習機會，注重實習表現",
+      "evalb_memo_en": null,
+      "evalb_name": "專業實習表現",
+      "evalb_name_en": "Internship representation",
+      "seq": 2
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CS06149",
+      "sub_id": "43036",
+      "scr_dup": "001",
+      "evalb_id": "L4",
+      "score_rate": 15,
+      "evalb_memo": "把握實習機會，注重實習表現",
+      "evalb_memo_en": null,
+      "evalb_name": "出席狀況",
+      "evalb_name_en": "Attendances",
+      "seq": 3
+    }
+  ],
+  "gradeRuleDescribe": {
+    "yms_year": 114.0,
+    "yms_smester": 1.0,
+    "cls_id": "CS06149",
+    "sub_id": "43036",
+    "scr_dup": "001",
+    "tpa_score_new": "<div>1. 由企業與學校共同討論，依學生實習綜合表現給分。 2. 為落實學生實務能力，培育理論與實務兼具之通訊專才，積極與產業界共同推展實習合作教學與實務訓練，由合作企業提供職場實習機會培訓職場專才，以便畢業後能迅速適應工作場域。&nbsp;</div>\n",
+    "tpa_score_new_en": " ",
+    "course_pol": "1. 由企業與學校共同討論，依學生實習綜合表現給分。 2. 為落實學生實務能力，培育理論與實務兼具之通訊專才，積極與產業界共同推展實習合作教學與實務訓練，由合作企業提供職場實習機會培訓職場專才，以便畢業後能迅速適應工作場域。",
+    "course_pol_en": null,
+    "course_rem": "1. 由企業與學校共同討論，依學生實習綜合表現給分。 2. 為落實學生實務能力，培育理論與實務兼具之通訊專才，積極與產業界共同推展實習合作教學與實務訓練，由合作企業提供職場實習機會培訓職場專才，以便畢業後能迅速適應工作場域。",
+    "course_rem_en": null,
+    "ais_meno": "<div>1. 由企業與學校共同討論，依學生實習綜合表現給分。 2. 為落實學生實務能力，培育理論與實務兼具之通訊專才，積極與產業界共同推展實習合作教學與實務訓練，由合作企業提供職場實習機會培訓職場專才，以便畢業後能迅速適應工作場域。</div>\n",
+    "ais_meno_en": null,
+    "ilearn_mk": null
+  },
+  "integrity": {
+    "yms_year": 114.0,
+    "yms_smester": 1.0,
+    "cls_id": "CS06149",
+    "sub_id": "43036",
+    "scr_dup": "001",
+    "tpa_score_new": "<div>1. 由企業與學校共同討論，依學生實習綜合表現給分。 2. 為落實學生實務能力，培育理論與實務兼具之通訊專才，積極與產業界共同推展實習合作教學與實務訓練，由合作企業提供職場實習機會培訓職場專才，以便畢業後能迅速適應工作場域。&nbsp;</div>\n",
+    "tpa_score_new_en": " ",
+    "course_pol": "1. 由企業與學校共同討論，依學生實習綜合表現給分。 2. 為落實學生實務能力，培育理論與實務兼具之通訊專才，積極與產業界共同推展實習合作教學與實務訓練，由合作企業提供職場實習機會培訓職場專才，以便畢業後能迅速適應工作場域。",
+    "course_pol_en": null,
+    "course_rem": "1. 由企業與學校共同討論，依學生實習綜合表現給分。 2. 為落實學生實務能力，培育理論與實務兼具之通訊專才，積極與產業界共同推展實習合作教學與實務訓練，由合作企業提供職場實習機會培訓職場專才，以便畢業後能迅速適應工作場域。",
+    "course_rem_en": null,
+    "ais_meno": "<div>1. 由企業與學校共同討論，依學生實習綜合表現給分。 2. 為落實學生實務能力，培育理論與實務兼具之通訊專才，積極與產業界共同推展實習合作教學與實務訓練，由合作企業提供職場實習機會培訓職場專才，以便畢業後能迅速適應工作場域。</div>\n",
+    "ais_meno_en": null,
+    "ilearn_mk": null
+  },
+  "policy": {
+    "yms_year": 114.0,
+    "yms_smester": 1.0,
+    "cls_id": "CS06149",
+    "sub_id": "43036",
+    "scr_dup": "001",
+    "tpa_score_new": "<div>1. 由企業與學校共同討論，依學生實習綜合表現給分。 2. 為落實學生實務能力，培育理論與實務兼具之通訊專才，積極與產業界共同推展實習合作教學與實務訓練，由合作企業提供職場實習機會培訓職場專才，以便畢業後能迅速適應工作場域。&nbsp;</div>\n",
+    "tpa_score_new_en": " ",
+    "course_pol": "1. 由企業與學校共同討論，依學生實習綜合表現給分。 2. 為落實學生實務能力，培育理論與實務兼具之通訊專才，積極與產業界共同推展實習合作教學與實務訓練，由合作企業提供職場實習機會培訓職場專才，以便畢業後能迅速適應工作場域。",
+    "course_pol_en": null,
+    "course_rem": "1. 由企業與學校共同討論，依學生實習綜合表現給分。 2. 為落實學生實務能力，培育理論與實務兼具之通訊專才，積極與產業界共同推展實習合作教學與實務訓練，由合作企業提供職場實習機會培訓職場專才，以便畢業後能迅速適應工作場域。",
+    "course_rem_en": null,
+    "ais_meno": "<div>1. 由企業與學校共同討論，依學生實習綜合表現給分。 2. 為落實學生實務能力，培育理論與實務兼具之通訊專才，積極與產業界共同推展實習合作教學與實務訓練，由合作企業提供職場實習機會培訓職場專才，以便畢業後能迅速適應工作場域。</div>\n",
+    "ais_meno_en": null,
+    "ilearn_mk": null
+  },
+  "courseBankC": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CS06149",
+      "sub_id": "43036",
+      "scr_dup": "001",
+      "seq": 1,
+      "describe_ch": "能整合光電理論與實務。",
+      "describe_en": "To integrate photonics theories and practices.",
+      "core_id": "C",
+      "core_item": "執行光電實務所需技術，及使用現代的相關專業工具之能力。",
+      "core_eng": "ability to apply techniques, skills, and modern tools necessary for photonic practice.",
+      "core_level": "5 ",
+      "strgy": [
+        "17"
+      ],
+      "evalb": [
+        "G4"
+      ],
+      "strgy_name": [
+        "產業實習"
+      ],
+      "strgy_name_en": [
+        "Internship"
+      ],
+      "evalb_name": [
+        "專業實習報告"
+      ],
+      "evalb_name_en": [
+        "Internship report"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CS06149",
+          "sub_id": "43036",
+          "scr_dup": "001",
+          "seq": 1,
+          "strgy_id": "17",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CS06149",
+          "sub_id": "43036",
+          "scr_dup": "001",
+          "seq": 1,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "G4",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CS06149",
+      "sub_id": "43036",
+      "scr_dup": "001",
+      "seq": 2,
+      "describe_ch": "能與同儕溝通協調與團隊合作。",
+      "describe_en": "To communicate and work with colleagues effectively.",
+      "core_id": "E",
+      "core_item": "專案管理（含經費規劃）、有效溝通、領域整合與團隊合作的能力。",
+      "core_eng": "ability to manage project (including budgeting), communicate effectively, work in multi-disciplinary environment, and function on teams.",
+      "core_level": "4 ",
+      "strgy": [
+        "17"
+      ],
+      "evalb": [
+        "G4"
+      ],
+      "strgy_name": [
+        "產業實習"
+      ],
+      "strgy_name_en": [
+        "Internship"
+      ],
+      "evalb_name": [
+        "專業實習報告"
+      ],
+      "evalb_name_en": [
+        "Internship report"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CS06149",
+          "sub_id": "43036",
+          "scr_dup": "001",
+          "seq": 2,
+          "strgy_id": "17",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CS06149",
+          "sub_id": "43036",
+          "scr_dup": "001",
+          "seq": 2,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "G4",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CS06149",
+      "sub_id": "43036",
+      "scr_dup": "001",
+      "seq": 3,
+      "describe_ch": "能具有專業倫理及社會責任素養。",
+      "describe_en": "To possess the cultivation of industrial ethics and social responsibilities.",
+      "core_id": "H",
+      "core_item": "理解及應用專業倫理，認知社會責任及尊重多元觀點。",
+      "core_eng": "apply ethical principles and commit to professional ethics and responsibilities and norms of engineering practice, and a sense of respect for diversity.",
+      "core_level": "4 ",
+      "strgy": [
+        "17"
+      ],
+      "evalb": [
+        "G4"
+      ],
+      "strgy_name": [
+        "產業實習"
+      ],
+      "strgy_name_en": [
+        "Internship"
+      ],
+      "evalb_name": [
+        "專業實習報告"
+      ],
+      "evalb_name_en": [
+        "Internship report"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CS06149",
+          "sub_id": "43036",
+          "scr_dup": "001",
+          "seq": 3,
+          "strgy_id": "17",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CS06149",
+          "sub_id": "43036",
+          "scr_dup": "001",
+          "seq": 3,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "G4",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    }
+  ],
+  "topicSdgs": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CS06149",
+      "sub_id": "43036",
+      "scr_dup": "001",
+      "sdgs_seq": 10,
+      "main_related": "N",
+      "ind_related": "Y",
+      "iss_name": "經濟成長面",
+      "iss_ename": "Economic Growth",
+      "content_name": "研發創新和建立工業建設",
+      "content_ename": "Industry, Innovation and Infrastructure"
+    }
+  ],
+  "learnHours": {
+    "total": 0.0,
+    "tpdOnlineAsyTotal": 0.0,
+    "tpdOnlineSynTotal": 0.0,
+    "tpdOnlineFaceTotal": 0.0,
+    "asySynInTotalPercent": 0.0
+  },
+  "crossVerYear": 114
+}

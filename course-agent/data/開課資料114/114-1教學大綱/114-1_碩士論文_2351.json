@@ -1,0 +1,715 @@
+{
+  "success": true,
+  "info": {
+    "yms_year": 114.0,
+    "yms_smester": 1.0,
+    "sub_id": "61530",
+    "cls_id": "CM02320",
+    "scr_dup": "001",
+    "sub_id3": "TLOG7990",
+    "cls_name": "運輸物流碩二",
+    "cls_ename": "Master's Program, Department of Transportation and Logistics",
+    "sub_name": "碩士論文",
+    "sub_ename": "MASTER THESIS",
+    "scr_mso": "必修",
+    "scr_mso_en": "Required",
+    "scr_credit": 0.0,
+    "scr_periodly": "(一)00",
+    "scr_periodly_eng": "(Mon)00",
+    "lang_name": "中文                                                      ",
+    "lang_ename": "Chinese",
+    "scr_room": " ",
+    "scr_room_eng": " ",
+    "scr_teacher": "郭仲偉",
+    "scr_teacher_eng": "Chung-Wei Kuo",
+    "scr_selcode": "2351",
+    "scr_elearning": "全學期",
+    "scr_elearning_en": "Full semester",
+    "scr_hours": "1",
+    "scr_english": "N",
+    "unt_name": null,
+    "unt_ename": null,
+    "link_traminal": null,
+    "link_traminal_en": null,
+    "scr_ldl": "D",
+    "course_mk": "N",
+    "teams_mk": "N",
+    "sub_title": null,
+    "sub_title_en": null,
+    "sub_describe": null,
+    "sub_describe_en": null,
+    "hasDescription": null,
+    "hasInstructor": null,
+    "hasTA": null,
+    "hasTextBooks": null,
+    "hasReadings": null,
+    "hasiSoftwares": null,
+    "hasAssistSoftwares": null,
+    "hasObjective": null,
+    "hasWeeklyScds": null,
+    "hasGradeRules": null,
+    "hasGradeRuleDescribe": null,
+    "hasIntegrity": null,
+    "hasCoursePol": null,
+    "hasCourseRem": null,
+    "hasObjectiveReleation": null,
+    "hasTopicSdgs": null,
+    "hasSubTitleDesc": null
+  },
+  "subTitleDesc": null,
+  "description": {
+    "sub_id3": null,
+    "sub_name": "碩士論文",
+    "sub_ename": "MASTER THESIS",
+    "describe_ch": "論文研討提供碩士班研究生發表及討論他們論文的想法，並與教師及其他同學交換意見。",
+    "describe_eh": "This seminar provides an opportunity for the master's students to present and discuss ideas with faculty and other students regarding their thesis research.",
+    "pre_subname": "",
+    "pre_sub_id3": null,
+    "pre_sub_ename": "",
+    "pre_describe": null,
+    "pre_describe_en": null,
+    "scr_credit": 0.0
+  },
+  "targets": [
+    {
+      "seq": 1,
+      "describe_ch": "撰寫研究論文、相互研討、製作簡報及口頭報告",
+      "describe_en": "Possess the abilities of essay writing, mutual discussion, presentation documents preparation, and oral presentations."
+    },
+    {
+      "seq": 2,
+      "describe_ch": "藉由電腦技術與應用軟體分析交通運輸問題",
+      "describe_en": "Be able to apply computer systems and software packages to analyze transportation related problems."
+    },
+    {
+      "seq": 3,
+      "describe_ch": "各類運輸經營管理模式",
+      "describe_en": "Understand operation and management models of various transportation systems."
+    },
+    {
+      "seq": 4,
+      "describe_ch": "研究方法之操作於實務問題分析",
+      "describe_en": "Be able to apply various research methods to analyze practical problems."
+    }
+  ],
+  "teachersInfo": [
+    {
+      "cname": "郭仲偉",
+      "ename": "Chung-Wei Kuo",
+      "period": "(Tue)06-07 紀520,(Tue)08  紀520,(Wed)06-07 紀520,(Wed)08  紀520",
+      "roletype": 0,
+      "email": "cweikuo@o365.fcu.edu.tw",
+      "ext": "4664"
+    }
+  ],
+  "textBooks": {
+    "yms_year": 114.0,
+    "yms_smester": 1.0,
+    "cls_id": "CM02320",
+    "sub_id": "61530",
+    "scr_dup": "001",
+    "tpb_seq": 1,
+    "tpb_book": "<div>依據碩士生研究課題，選定適宜之文獻。</div>\n",
+    "tpb_book_en": null
+  },
+  "readings": {
+    "yms_year": 114.0,
+    "yms_smester": 1.0,
+    "cls_id": "CM02320",
+    "sub_id": "61530",
+    "scr_dup": "001",
+    "tpc_seq": 1,
+    "tpc_book": "<div>依據碩士生研究課題，選定適宜之文獻。</div>\n",
+    "tpc_book_en": null
+  },
+  "iSoftwares": [],
+  "assistSoftwares": [],
+  "weeklyScds": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CM02320",
+      "sub_id": "61530",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "1-2",
+      "tpd_reading": "<div>撰寫碩士論文並指導教授討論進度</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": "<div>撰寫碩士論文並指導教授討論進度</div>\n",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CM02320",
+      "sub_id": "61530",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "2-4",
+      "tpd_reading": "<div>撰寫碩士論文並指導教授討論進度</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": "<div>撰寫碩士論文並指導教授討論進度</div>\n",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CM02320",
+      "sub_id": "61530",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "5-6",
+      "tpd_reading": "<div>撰寫碩士論文並指導教授討論進度</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": "<div>撰寫碩士論文並指導教授討論進度</div>\n",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CM02320",
+      "sub_id": "61530",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "7-8",
+      "tpd_reading": "<div>撰寫碩士論文並指導教授討論進度</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": "<div>撰寫碩士論文並指導教授討論進度</div>\n",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CM02320",
+      "sub_id": "61530",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "9-10",
+      "tpd_reading": "<div>撰寫碩士論文並指導教授討論進度</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": "<div>撰寫碩士論文並指導教授討論進度</div>\n",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CM02320",
+      "sub_id": "61530",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "11-12",
+      "tpd_reading": "<div>撰寫碩士論文並指導教授討論進度</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": "<div>撰寫碩士論文並指導教授討論進度</div>\n",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CM02320",
+      "sub_id": "61530",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "13-14",
+      "tpd_reading": "<div>撰寫碩士論文並指導教授討論進度</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": "<div>撰寫碩士論文並指導教授討論進度</div>\n",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CM02320",
+      "sub_id": "61530",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "15-18",
+      "tpd_reading": "<div>撰寫碩士論文並指導教授討論進度</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": "<div>撰寫碩士論文並指導教授討論進度</div>\n",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    }
+  ],
+  "gradeRules": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CM02320",
+      "sub_id": "61530",
+      "scr_dup": "001",
+      "evalb_id": "G5",
+      "score_rate": 60,
+      "evalb_memo": "與指導教授報告",
+      "evalb_memo_en": null,
+      "evalb_name": "書面報告",
+      "evalb_name_en": "Writing report",
+      "seq": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CM02320",
+      "sub_id": "61530",
+      "scr_dup": "001",
+      "evalb_id": "K2",
+      "score_rate": 30,
+      "evalb_memo": "與指導教授報告",
+      "evalb_memo_en": null,
+      "evalb_name": "口頭報告",
+      "evalb_name_en": "Oral presentation",
+      "seq": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CM02320",
+      "sub_id": "61530",
+      "scr_dup": "001",
+      "evalb_id": "L1",
+      "score_rate": 10,
+      "evalb_memo": "與指導教授討論",
+      "evalb_memo_en": null,
+      "evalb_name": "印象分數",
+      "evalb_name_en": "General impression",
+      "seq": 0
+    }
+  ],
+  "gradeRuleDescribe": {
+    "yms_year": 114.0,
+    "yms_smester": 1.0,
+    "cls_id": "CM02320",
+    "sub_id": "61530",
+    "scr_dup": "001",
+    "tpa_score_new": null,
+    "tpa_score_new_en": null,
+    "course_pol": "課堂上的行為始終要及時、要專業、要做好準備、要有禮貌。同學、教師間，應保有彼此尊嚴和相互尊重，才能進行有效的學習。為確保有利於學習環境，冀望每個人都能做到以下幾點，彼此遵守課堂規則，習慣班級文化。\r\n一、課堂禮儀\r\n1.\t多元化和包容性\r\n課程活動都在同學間的友好參與和互動氛圍中進行，彼此間應尊重和欣賞每位同學的個人經歷、背景和觀點，如國內外各學制、多元入學及學習文化、種族文化、社經背景、性別等。\r\n2.\t課堂行為\r\n(1)\t學生應準時出席上課；如果您的上課時間，無法按時到課，請不要選課。\r\n(2)\t上課時請勿講話、閱讀其他刊物、睡覺或做其他非本課程相關作業，除積極參與分組討論外，應減少與旁邊同學對話。\r\n(3)\t當同學簡報或提問時，您應該專心地聆聽。\r\n二、課程交流及網路禮儀\r\n1.\tiLearn仍然是教室，必須遵守適當的課堂行為，尊重同學和老師。\r\n2.\t您應留出時間，積極參與iLearn線上學習活動，並完成所有交付之學習任務，來完成課程活動。\r\n3.\t每次線上討論區，不要強勢主導任何討論，要給其他同學參加討論的機會，以提高每個人的學習體驗。\r\n(1)\t每個人均要保持開放的態度，尊重少數意見，甚至您也可以表達不同的意見。\r\n(2)\t適當地提出您的想法，並避免使用粗俗或令人反感的語言。\r\n(3)\t依主題寫作，重點和簡短表達。\r\n(4)\t在發表評論之前先閱讀所有發表文章或評論，再撰寫，以防止重複評論或提出已經回答的問題。\r\n(5)\t撰寫評論文字，應審閱、再審閱後發送。\r\n(6)\t網路溝通的語言。請避免過度使用表情符號。\r\n(7)\t避免使用地方語或俚語，有可能會導致誤解。\r\n(8)\t與其他學生分享提示，勿取笑某人的閱讀聽寫能力。\r\n(9)\t考慮他人的隱私。在給出同學的電子郵件地址或其他信息之前，請先徵得許可。\r\n(10)\t不能發表不當訊息；不要將病毒警告、連鎖信、笑話等轉發給同學或教師。\r\n三、學生責任\r\n1.\t每位學生於每學期開學前，到MyFCU個人資料表，確認自己在逢甲大學所留的個人基本資料，包含手機電話、通訊住址等聯絡資訊，以利授課教師、教學助理、或開課單位職員能與您聯繫。\r\n(1)\t確認您的逢甲大學o365電子郵件和NID是開通的，o365作為師生教學與學習溝通之共通工具。\r\n(2)\t與教師和班上的同學進行電子郵件、公告欄等交流時，要寫清楚資訊，保持禮貌。\r\n(3)\t您的電子郵件要署名，老師不會回覆“匿名”信件。\r\n2.\t您要詳讀及了解本課程的教學大綱要求，即時更新最新資訊，做好學習時間的管理。\r\n3.\t隨時檢查您的逢甲大學電子郵件和登錄iLearn 清楚本課程所發布之訊息。\r\n4.\t您應依老師的授課內容與教學方式，對本科目填寫期中、期末之課程教學回饋意見。您的參與及回饋，將幫助老師改善上課技巧、課程教學內容及學習活動的安排。期中形成性教學評估表在第4~8週填寫；期末學生意見調查、期末課程目標學習達成情形在學期最後一個月填寫。\r\n",
+    "course_pol_en": null,
+    "course_rem": null,
+    "course_rem_en": null,
+    "ais_meno": "<p><strong><span style=\"color:#3333cc\">1.&nbsp;&nbsp; &nbsp;誠信是基本的態度與專業價值的宣言，是將學術理想轉化為行動的行為原則以及落實社會責任。<br />\r\n2.&nbsp;&nbsp; &nbsp;學術誠信最重要的價值觀之一是思想自由流動與尊重他人智慧財產權之間的平衡。</span></strong></p>\r\n\r\n<ul>\r\n\t<li>學生應重視及恪遵智慧財產權。不得在學術活動中給予、使用或接受未經授權的援助。使用圖書館館藏、有版權的教材讀本與影音資料。</li>\r\n\t<li>恪守誠信，積極出席和參與課堂的學習承諾。</li>\r\n\t<li>學生在課堂上都應尊重每個人，並且在任何時候都應以負責和禮貌的態度行事。</li>\r\n</ul>\r\n\r\n<p><strong><span style=\"color:#3333cc\">3.&nbsp;&nbsp; &nbsp;學生有責任做好自己的學習任務，並避免一切形式的學術不誠實行為。</span></strong></p>\r\n\r\n<ul>\r\n\t<li>不作弊：紙筆測驗時，不得交談、窺竊他人試卷或故意便利鄰座竊窺，或有夾帶、抄襲或傳遞資料等情事經發現時，違者該次考試成績以零分計算。並視違者情節，或有替考情事，其舞弊之雙方，將依逢甲大學學生考試辦法、學生獎懲辦法之相關規定處理。</li>\r\n\t<li>不抄襲：提交原創作品，嚴禁任何形式的抄襲。</li>\r\n\t<li>不偽造：篡改成績或其他正式文件，如診所就醫證明。</li>\r\n\t<li>不篡改/不捏造：從實驗中蒐集數據過程，以人為方式創建數據或編造不存在的數據或資料來源，均被視為捏造或篡改</li>\r\n\t<li>不破壞：破壞他人的藝術品、實驗或設計成果被視為破壞行為。未能為團隊專題做出貢獻，也被視為學術破壞。</li>\r\n</ul>\r\n\r\n<p>以上情況視違者情節，將依逢甲大學學生獎懲辦法等相關規定提送處分。<br />\r\n&nbsp;</p>\r\n",
+    "ais_meno_en": null,
+    "ilearn_mk": null
+  },
+  "integrity": {
+    "yms_year": 114.0,
+    "yms_smester": 1.0,
+    "cls_id": "CM02320",
+    "sub_id": "61530",
+    "scr_dup": "001",
+    "tpa_score_new": null,
+    "tpa_score_new_en": null,
+    "course_pol": "課堂上的行為始終要及時、要專業、要做好準備、要有禮貌。同學、教師間，應保有彼此尊嚴和相互尊重，才能進行有效的學習。為確保有利於學習環境，冀望每個人都能做到以下幾點，彼此遵守課堂規則，習慣班級文化。\r\n一、課堂禮儀\r\n1.\t多元化和包容性\r\n課程活動都在同學間的友好參與和互動氛圍中進行，彼此間應尊重和欣賞每位同學的個人經歷、背景和觀點，如國內外各學制、多元入學及學習文化、種族文化、社經背景、性別等。\r\n2.\t課堂行為\r\n(1)\t學生應準時出席上課；如果您的上課時間，無法按時到課，請不要選課。\r\n(2)\t上課時請勿講話、閱讀其他刊物、睡覺或做其他非本課程相關作業，除積極參與分組討論外，應減少與旁邊同學對話。\r\n(3)\t當同學簡報或提問時，您應該專心地聆聽。\r\n二、課程交流及網路禮儀\r\n1.\tiLearn仍然是教室，必須遵守適當的課堂行為，尊重同學和老師。\r\n2.\t您應留出時間，積極參與iLearn線上學習活動，並完成所有交付之學習任務，來完成課程活動。\r\n3.\t每次線上討論區，不要強勢主導任何討論，要給其他同學參加討論的機會，以提高每個人的學習體驗。\r\n(1)\t每個人均要保持開放的態度，尊重少數意見，甚至您也可以表達不同的意見。\r\n(2)\t適當地提出您的想法，並避免使用粗俗或令人反感的語言。\r\n(3)\t依主題寫作，重點和簡短表達。\r\n(4)\t在發表評論之前先閱讀所有發表文章或評論，再撰寫，以防止重複評論或提出已經回答的問題。\r\n(5)\t撰寫評論文字，應審閱、再審閱後發送。\r\n(6)\t網路溝通的語言。請避免過度使用表情符號。\r\n(7)\t避免使用地方語或俚語，有可能會導致誤解。\r\n(8)\t與其他學生分享提示，勿取笑某人的閱讀聽寫能力。\r\n(9)\t考慮他人的隱私。在給出同學的電子郵件地址或其他信息之前，請先徵得許可。\r\n(10)\t不能發表不當訊息；不要將病毒警告、連鎖信、笑話等轉發給同學或教師。\r\n三、學生責任\r\n1.\t每位學生於每學期開學前，到MyFCU個人資料表，確認自己在逢甲大學所留的個人基本資料，包含手機電話、通訊住址等聯絡資訊，以利授課教師、教學助理、或開課單位職員能與您聯繫。\r\n(1)\t確認您的逢甲大學o365電子郵件和NID是開通的，o365作為師生教學與學習溝通之共通工具。\r\n(2)\t與教師和班上的同學進行電子郵件、公告欄等交流時，要寫清楚資訊，保持禮貌。\r\n(3)\t您的電子郵件要署名，老師不會回覆“匿名”信件。\r\n2.\t您要詳讀及了解本課程的教學大綱要求，即時更新最新資訊，做好學習時間的管理。\r\n3.\t隨時檢查您的逢甲大學電子郵件和登錄iLearn 清楚本課程所發布之訊息。\r\n4.\t您應依老師的授課內容與教學方式，對本科目填寫期中、期末之課程教學回饋意見。您的參與及回饋，將幫助老師改善上課技巧、課程教學內容及學習活動的安排。期中形成性教學評估表在第4~8週填寫；期末學生意見調查、期末課程目標學習達成情形在學期最後一個月填寫。\r\n",
+    "course_pol_en": null,
+    "course_rem": null,
+    "course_rem_en": null,
+    "ais_meno": "<p><strong><span style=\"color:#3333cc\">1.&nbsp;&nbsp; &nbsp;誠信是基本的態度與專業價值的宣言，是將學術理想轉化為行動的行為原則以及落實社會責任。<br />\r\n2.&nbsp;&nbsp; &nbsp;學術誠信最重要的價值觀之一是思想自由流動與尊重他人智慧財產權之間的平衡。</span></strong></p>\r\n\r\n<ul>\r\n\t<li>學生應重視及恪遵智慧財產權。不得在學術活動中給予、使用或接受未經授權的援助。使用圖書館館藏、有版權的教材讀本與影音資料。</li>\r\n\t<li>恪守誠信，積極出席和參與課堂的學習承諾。</li>\r\n\t<li>學生在課堂上都應尊重每個人，並且在任何時候都應以負責和禮貌的態度行事。</li>\r\n</ul>\r\n\r\n<p><strong><span style=\"color:#3333cc\">3.&nbsp;&nbsp; &nbsp;學生有責任做好自己的學習任務，並避免一切形式的學術不誠實行為。</span></strong></p>\r\n\r\n<ul>\r\n\t<li>不作弊：紙筆測驗時，不得交談、窺竊他人試卷或故意便利鄰座竊窺，或有夾帶、抄襲或傳遞資料等情事經發現時，違者該次考試成績以零分計算。並視違者情節，或有替考情事，其舞弊之雙方，將依逢甲大學學生考試辦法、學生獎懲辦法之相關規定處理。</li>\r\n\t<li>不抄襲：提交原創作品，嚴禁任何形式的抄襲。</li>\r\n\t<li>不偽造：篡改成績或其他正式文件，如診所就醫證明。</li>\r\n\t<li>不篡改/不捏造：從實驗中蒐集數據過程，以人為方式創建數據或編造不存在的數據或資料來源，均被視為捏造或篡改</li>\r\n\t<li>不破壞：破壞他人的藝術品、實驗或設計成果被視為破壞行為。未能為團隊專題做出貢獻，也被視為學術破壞。</li>\r\n</ul>\r\n\r\n<p>以上情況視違者情節，將依逢甲大學學生獎懲辦法等相關規定提送處分。<br />\r\n&nbsp;</p>\r\n",
+    "ais_meno_en": null,
+    "ilearn_mk": null
+  },
+  "policy": {
+    "yms_year": 114.0,
+    "yms_smester": 1.0,
+    "cls_id": "CM02320",
+    "sub_id": "61530",
+    "scr_dup": "001",
+    "tpa_score_new": null,
+    "tpa_score_new_en": null,
+    "course_pol": "課堂上的行為始終要及時、要專業、要做好準備、要有禮貌。同學、教師間，應保有彼此尊嚴和相互尊重，才能進行有效的學習。為確保有利於學習環境，冀望每個人都能做到以下幾點，彼此遵守課堂規則，習慣班級文化。\r\n一、課堂禮儀\r\n1.\t多元化和包容性\r\n課程活動都在同學間的友好參與和互動氛圍中進行，彼此間應尊重和欣賞每位同學的個人經歷、背景和觀點，如國內外各學制、多元入學及學習文化、種族文化、社經背景、性別等。\r\n2.\t課堂行為\r\n(1)\t學生應準時出席上課；如果您的上課時間，無法按時到課，請不要選課。\r\n(2)\t上課時請勿講話、閱讀其他刊物、睡覺或做其他非本課程相關作業，除積極參與分組討論外，應減少與旁邊同學對話。\r\n(3)\t當同學簡報或提問時，您應該專心地聆聽。\r\n二、課程交流及網路禮儀\r\n1.\tiLearn仍然是教室，必須遵守適當的課堂行為，尊重同學和老師。\r\n2.\t您應留出時間，積極參與iLearn線上學習活動，並完成所有交付之學習任務，來完成課程活動。\r\n3.\t每次線上討論區，不要強勢主導任何討論，要給其他同學參加討論的機會，以提高每個人的學習體驗。\r\n(1)\t每個人均要保持開放的態度，尊重少數意見，甚至您也可以表達不同的意見。\r\n(2)\t適當地提出您的想法，並避免使用粗俗或令人反感的語言。\r\n(3)\t依主題寫作，重點和簡短表達。\r\n(4)\t在發表評論之前先閱讀所有發表文章或評論，再撰寫，以防止重複評論或提出已經回答的問題。\r\n(5)\t撰寫評論文字，應審閱、再審閱後發送。\r\n(6)\t網路溝通的語言。請避免過度使用表情符號。\r\n(7)\t避免使用地方語或俚語，有可能會導致誤解。\r\n(8)\t與其他學生分享提示，勿取笑某人的閱讀聽寫能力。\r\n(9)\t考慮他人的隱私。在給出同學的電子郵件地址或其他信息之前，請先徵得許可。\r\n(10)\t不能發表不當訊息；不要將病毒警告、連鎖信、笑話等轉發給同學或教師。\r\n三、學生責任\r\n1.\t每位學生於每學期開學前，到MyFCU個人資料表，確認自己在逢甲大學所留的個人基本資料，包含手機電話、通訊住址等聯絡資訊，以利授課教師、教學助理、或開課單位職員能與您聯繫。\r\n(1)\t確認您的逢甲大學o365電子郵件和NID是開通的，o365作為師生教學與學習溝通之共通工具。\r\n(2)\t與教師和班上的同學進行電子郵件、公告欄等交流時，要寫清楚資訊，保持禮貌。\r\n(3)\t您的電子郵件要署名，老師不會回覆“匿名”信件。\r\n2.\t您要詳讀及了解本課程的教學大綱要求，即時更新最新資訊，做好學習時間的管理。\r\n3.\t隨時檢查您的逢甲大學電子郵件和登錄iLearn 清楚本課程所發布之訊息。\r\n4.\t您應依老師的授課內容與教學方式，對本科目填寫期中、期末之課程教學回饋意見。您的參與及回饋，將幫助老師改善上課技巧、課程教學內容及學習活動的安排。期中形成性教學評估表在第4~8週填寫；期末學生意見調查、期末課程目標學習達成情形在學期最後一個月填寫。\r\n",
+    "course_pol_en": null,
+    "course_rem": null,
+    "course_rem_en": null,
+    "ais_meno": "<p><strong><span style=\"color:#3333cc\">1.&nbsp;&nbsp; &nbsp;誠信是基本的態度與專業價值的宣言，是將學術理想轉化為行動的行為原則以及落實社會責任。<br />\r\n2.&nbsp;&nbsp; &nbsp;學術誠信最重要的價值觀之一是思想自由流動與尊重他人智慧財產權之間的平衡。</span></strong></p>\r\n\r\n<ul>\r\n\t<li>學生應重視及恪遵智慧財產權。不得在學術活動中給予、使用或接受未經授權的援助。使用圖書館館藏、有版權的教材讀本與影音資料。</li>\r\n\t<li>恪守誠信，積極出席和參與課堂的學習承諾。</li>\r\n\t<li>學生在課堂上都應尊重每個人，並且在任何時候都應以負責和禮貌的態度行事。</li>\r\n</ul>\r\n\r\n<p><strong><span style=\"color:#3333cc\">3.&nbsp;&nbsp; &nbsp;學生有責任做好自己的學習任務，並避免一切形式的學術不誠實行為。</span></strong></p>\r\n\r\n<ul>\r\n\t<li>不作弊：紙筆測驗時，不得交談、窺竊他人試卷或故意便利鄰座竊窺，或有夾帶、抄襲或傳遞資料等情事經發現時，違者該次考試成績以零分計算。並視違者情節，或有替考情事，其舞弊之雙方，將依逢甲大學學生考試辦法、學生獎懲辦法之相關規定處理。</li>\r\n\t<li>不抄襲：提交原創作品，嚴禁任何形式的抄襲。</li>\r\n\t<li>不偽造：篡改成績或其他正式文件，如診所就醫證明。</li>\r\n\t<li>不篡改/不捏造：從實驗中蒐集數據過程，以人為方式創建數據或編造不存在的數據或資料來源，均被視為捏造或篡改</li>\r\n\t<li>不破壞：破壞他人的藝術品、實驗或設計成果被視為破壞行為。未能為團隊專題做出貢獻，也被視為學術破壞。</li>\r\n</ul>\r\n\r\n<p>以上情況視違者情節，將依逢甲大學學生獎懲辦法等相關規定提送處分。<br />\r\n&nbsp;</p>\r\n",
+    "ais_meno_en": null,
+    "ilearn_mk": null
+  },
+  "courseBankC": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CM02320",
+      "sub_id": "61530",
+      "scr_dup": "001",
+      "seq": 1,
+      "describe_ch": "撰寫研究論文、相互研討、製作簡報及口頭報告",
+      "describe_en": "Possess the abilities of essay writing, mutual discussion, presentation documents preparation, and oral presentations.",
+      "core_id": "E",
+      "core_item": "具備透過多元觀點發現、解析或評估運輸與物流問題之認知能力。",
+      "core_eng": " ",
+      "core_level": "1 ",
+      "strgy": [
+        "04"
+      ],
+      "evalb": [
+        "K2"
+      ],
+      "strgy_name": [
+        "專題討論"
+      ],
+      "strgy_name_en": [
+        "Seminar"
+      ],
+      "evalb_name": [
+        "口頭報告"
+      ],
+      "evalb_name_en": [
+        "Oral presentation"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CM02320",
+          "sub_id": "61530",
+          "scr_dup": "001",
+          "seq": 1,
+          "strgy_id": "04",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CM02320",
+          "sub_id": "61530",
+          "scr_dup": "001",
+          "seq": 1,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "K2",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CM02320",
+      "sub_id": "61530",
+      "scr_dup": "001",
+      "seq": 2,
+      "describe_ch": "藉由電腦技術與應用軟體分析交通運輸問題",
+      "describe_en": "Be able to apply computer systems and software packages to analyze transportation related problems.",
+      "core_id": "C",
+      "core_item": "具備獨立解決問題、策劃及執行專題研究及撰寫專業論文之能力。",
+      "core_eng": " ",
+      "core_level": "4 ",
+      "strgy": [
+        "08"
+      ],
+      "evalb": [
+        "G5"
+      ],
+      "strgy_name": [
+        "書面報告"
+      ],
+      "strgy_name_en": [
+        "Written report"
+      ],
+      "evalb_name": [
+        "書面報告"
+      ],
+      "evalb_name_en": [
+        "Writing report"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CM02320",
+          "sub_id": "61530",
+          "scr_dup": "001",
+          "seq": 2,
+          "strgy_id": "08",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CM02320",
+          "sub_id": "61530",
+          "scr_dup": "001",
+          "seq": 2,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "G5",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CM02320",
+      "sub_id": "61530",
+      "scr_dup": "001",
+      "seq": 3,
+      "describe_ch": "各類運輸經營管理模式",
+      "describe_en": "Understand operation and management models of various transportation systems.",
+      "core_id": "A",
+      "core_item": "具備運輸或物流領域專業知識、創新思考及運用跨領域知識解決問題之能力。",
+      "core_eng": " ",
+      "core_level": "4 ",
+      "strgy": [
+        "08"
+      ],
+      "evalb": [
+        "G5"
+      ],
+      "strgy_name": [
+        "書面報告"
+      ],
+      "strgy_name_en": [
+        "Written report"
+      ],
+      "evalb_name": [
+        "書面報告"
+      ],
+      "evalb_name_en": [
+        "Writing report"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CM02320",
+          "sub_id": "61530",
+          "scr_dup": "001",
+          "seq": 3,
+          "strgy_id": "08",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CM02320",
+          "sub_id": "61530",
+          "scr_dup": "001",
+          "seq": 3,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "G5",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CM02320",
+      "sub_id": "61530",
+      "scr_dup": "001",
+      "seq": 4,
+      "describe_ch": "研究方法之操作於實務問題分析",
+      "describe_en": "Be able to apply various research methods to analyze practical problems.",
+      "core_id": "B",
+      "core_item": "具備運用資訊技術及各項專業技能 ，蒐集、分析與解釋數據之能力。",
+      "core_eng": " ",
+      "core_level": "3 ",
+      "strgy": [
+        "08"
+      ],
+      "evalb": [
+        "G5"
+      ],
+      "strgy_name": [
+        "書面報告"
+      ],
+      "strgy_name_en": [
+        "Written report"
+      ],
+      "evalb_name": [
+        "書面報告"
+      ],
+      "evalb_name_en": [
+        "Writing report"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CM02320",
+          "sub_id": "61530",
+          "scr_dup": "001",
+          "seq": 4,
+          "strgy_id": "08",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CM02320",
+          "sub_id": "61530",
+          "scr_dup": "001",
+          "seq": 4,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "G5",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    }
+  ],
+  "topicSdgs": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CM02320",
+      "sub_id": "61530",
+      "scr_dup": "001",
+      "sdgs_seq": 13,
+      "main_related": "N",
+      "ind_related": "Y",
+      "iss_name": "環境保護面",
+      "iss_ename": "Environmental Protection",
+      "content_name": "永續通勤與居住環境",
+      "content_ename": "Sustainable Cities and Communities"
+    }
+  ],
+  "learnHours": {
+    "total": 0.0,
+    "tpdOnlineAsyTotal": 0.0,
+    "tpdOnlineSynTotal": 0.0,
+    "tpdOnlineFaceTotal": 0.0,
+    "asySynInTotalPercent": 0.0
+  },
+  "crossVerYear": 114
+}

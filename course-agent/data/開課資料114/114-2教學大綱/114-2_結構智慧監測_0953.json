@@ -1,0 +1,651 @@
+{
+  "success": true,
+  "info": {
+    "yms_year": 114.0,
+    "yms_smester": 2.0,
+    "sub_id": "47706",
+    "cls_id": "CE01310",
+    "scr_dup": "001",
+    "sub_id3": "CE7032",
+    "cls_name": "土木碩一",
+    "cls_ename": "Master's Program, Department of Civil Engineering",
+    "sub_name": "結構智慧監測",
+    "sub_ename": "SMART STRUCTURAL MONITORING",
+    "scr_mso": "選修",
+    "scr_mso_en": "Elective",
+    "scr_credit": 3.0,
+    "scr_periodly": "(五)02     (五)05-06",
+    "scr_periodly_eng": "(Fri)02     (Fri)05-06",
+    "lang_name": "中文                                                      ",
+    "lang_ename": "Chinese",
+    "scr_room": "土501",
+    "scr_room_eng": "CHB501",
+    "scr_teacher": "楊晏瑜",
+    "scr_teacher_eng": "Yen-Yu Yang",
+    "scr_selcode": "0953",
+    "scr_elearning": "全學期",
+    "scr_elearning_en": "Full semester",
+    "scr_hours": "3",
+    "scr_english": "N",
+    "unt_name": null,
+    "unt_ename": null,
+    "link_traminal": null,
+    "link_traminal_en": null,
+    "scr_ldl": "D",
+    "course_mk": "N",
+    "teams_mk": "N",
+    "sub_title": null,
+    "sub_title_en": null,
+    "sub_describe": null,
+    "sub_describe_en": null,
+    "hasDescription": null,
+    "hasInstructor": null,
+    "hasTA": null,
+    "hasTextBooks": null,
+    "hasReadings": null,
+    "hasiSoftwares": null,
+    "hasAssistSoftwares": null,
+    "hasObjective": null,
+    "hasWeeklyScds": null,
+    "hasGradeRules": null,
+    "hasGradeRuleDescribe": null,
+    "hasIntegrity": null,
+    "hasCoursePol": null,
+    "hasCourseRem": null,
+    "hasObjectiveReleation": null,
+    "hasTopicSdgs": null,
+    "hasTopicAiIndicators": null,
+    "hasSubTitleDesc": null
+  },
+  "subTitleDesc": null,
+  "description": {
+    "sub_id3": null,
+    "sub_name": "結構智慧監測",
+    "sub_ename": "SMART STRUCTURAL MONITORING",
+    "describe_ch": "本課程涵蓋結構工程領域核心概念的課程，旨在探討結合先進科技和智慧監測技術，以提高結構物健康狀態監測和管理的方法，並與國外大學合作，共同教學，提升學生對智慧監測的能力。本課程必須參加國外教學課程(需出國)，若不參與者，勿選此課。",
+    "describe_eh": "This course covers core concepts in structural engineering and explores the integration of advanced technology and smart monitoring techniques to enhance structural health monitoring and management methods. Through collaborative teaching with international universities, the course aims to improve students' capabilities in smart monitoring. International course participation (overseas learning required) is mandatory for this course; students who cannot participate in the international component don’t add this course.",
+    "pre_subname": "",
+    "pre_sub_id3": null,
+    "pre_sub_ename": "",
+    "pre_describe": null,
+    "pre_describe_en": null,
+    "scr_credit": 3.0
+  },
+  "targets": [
+    {
+      "seq": 1,
+      "describe_ch": "理解結構健康監測之基本原理與系統架構。",
+      "describe_en": null
+    },
+    {
+      "seq": 2,
+      "describe_ch": "認識感測技術與資料分析於結構安全評估中的應用。",
+      "describe_en": null
+    },
+    {
+      "seq": 3,
+      "describe_ch": "透過國際移地教學拓展視野，並培養跨文化學習與應用能力。",
+      "describe_en": null
+    }
+  ],
+  "teachersInfo": [
+    {
+      "cname": "楊晏瑜",
+      "ename": "Yen-Yu Yang",
+      "period": " ",
+      "roletype": 0,
+      "email": "yyyang@o365.fcu.edu.tw",
+      "ext": "3115"
+    },
+    {
+      "cname": "歐禮慶",
+      "ename": "OU LI CHING",
+      "period": " ",
+      "roletype": 1,
+      "email": "m1317285@o365.fcu.edu.tw",
+      "ext": " "
+    }
+  ],
+  "textBooks": {
+    "yms_year": 114.0,
+    "yms_smester": 2.0,
+    "cls_id": "CE01310",
+    "sub_id": "47706",
+    "scr_dup": "001",
+    "tpb_seq": 1,
+    "tpb_book": "<div>In class notes - posted lecture slides(授課用之投影片)</div>\n",
+    "tpb_book_en": null
+  },
+  "readings": {
+    "yms_year": 114.0,
+    "yms_smester": 2.0,
+    "cls_id": "CE01310",
+    "sub_id": "47706",
+    "scr_dup": "001",
+    "tpc_seq": 1,
+    "tpc_book": "<ol>\n\t<li>Chopra, A. K., Dynamics of Structures: Theory and Applications to Earthquake Engineering 4/E (Golbal Edition).&nbsp;PEARSON, London, 2014</li>\n\t<li>Wenzel, H. &amp; Pichler, D., <em>Ambient Vibration Monitoring</em>, John Wiley &amp; Sons, New York, 2005</li>\n\t<li>Torsten S.&amp;&nbsp;Petre S.,&nbsp;System Identification.,&nbsp;Prentice Hall,&nbsp;New Jersey, U.S., 2001</li>\n</ol>\n",
+    "tpc_book_en": null
+  },
+  "iSoftwares": [],
+  "assistSoftwares": [],
+  "weeklyScds": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CE01310",
+      "sub_id": "47706",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "1",
+      "tpd_reading": "<div>\n<div>課程簡介，上課方式及評分說明</div>\n\n<div>結構健康監測簡介</div>\n\n<div>&nbsp;</div>\n</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": " ",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CE01310",
+      "sub_id": "47706",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "2",
+      "tpd_reading": "<div>常見監測儀器與方法</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": " ",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CE01310",
+      "sub_id": "47706",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "3",
+      "tpd_reading": "<div>單自由度結構系統</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": " ",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CE01310",
+      "sub_id": "47706",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "4",
+      "tpd_reading": "<div>多自由度結構系統</div>\n\n<div>出發前簡介</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": " ",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CE01310",
+      "sub_id": "47706",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "5-16",
+      "tpd_reading": "<div>日本海外移地教學行程</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": "<div>36小時在海外授課</div>\n",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CE01310",
+      "sub_id": "47706",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "17",
+      "tpd_reading": "<div>移地教學成果發表</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": " ",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CE01310",
+      "sub_id": "47706",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "18",
+      "tpd_reading": "<div>移地教學成果發表</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": " ",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    }
+  ],
+  "gradeRules": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CE01310",
+      "sub_id": "47706",
+      "scr_dup": "001",
+      "evalb_id": "D5",
+      "score_rate": 30,
+      "evalb_memo": "期末專題報告",
+      "evalb_memo_en": null,
+      "evalb_name": "期末專題",
+      "evalb_name_en": "Final presentation",
+      "seq": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CE01310",
+      "sub_id": "47706",
+      "scr_dup": "001",
+      "evalb_id": "L4",
+      "score_rate": 70,
+      "evalb_memo": "海外教學",
+      "evalb_memo_en": null,
+      "evalb_name": "出席狀況",
+      "evalb_name_en": "Attendances",
+      "seq": 0
+    }
+  ],
+  "gradeRuleDescribe": {
+    "yms_year": 114.0,
+    "yms_smester": 2.0,
+    "cls_id": "CE01310",
+    "sub_id": "47706",
+    "scr_dup": "001",
+    "tpa_score_new": "<ul>\n\t<li>出國至海外佔總成績70％(因此選此課務必出國)</li>\n\t<li>回國期末報告佔30％</li>\n</ul>\n",
+    "tpa_score_new_en": null,
+    "course_pol": "以不蹺課，上課安靜為原則，課堂上若有問題可以舉手發問，禁止上課吃東西，休息時間也歡迎學生發問，學習上若有困難，請務必提出。\n本堂課主旨為移地教學，修此堂課的學生必須到國外授課36小時，若無法出國的學生，請勿選修此課程",
+    "course_pol_en": null,
+    "course_rem": "結構智慧監測是當今土木工程領域的關鍵技術，透過整合先進感測器、無線通信和數據分析，實現對結構物的實時監測。在課堂中，將深入探討這項創新技術，從感測器原理到數據後處理，培養學生在結構健康監測領域的專業知識。課程提供實際案例的應用，以使學生能夠理解並應用結構智慧監測於不同工程領域，同時注重培養學生的創新思維和問題解決能力。\n本堂課與移地教學結合，需到國外授課36小時，若無法出國的學生，請勿選修此課程",
+    "course_rem_en": null,
+    "ais_meno": "<div>本課程中的核心價值，要求誠實、正直、嚴謹地進行學習，避免抄襲、剽竊、偽造數據。遵守學術倫理規範，尊重他人的智慧產權，維護學術品質和推動科學進步的基本原則。</div>\n",
+    "ais_meno_en": null,
+    "ilearn_mk": null
+  },
+  "integrity": {
+    "yms_year": 114.0,
+    "yms_smester": 2.0,
+    "cls_id": "CE01310",
+    "sub_id": "47706",
+    "scr_dup": "001",
+    "tpa_score_new": "<ul>\n\t<li>出國至海外佔總成績70％(因此選此課務必出國)</li>\n\t<li>回國期末報告佔30％</li>\n</ul>\n",
+    "tpa_score_new_en": null,
+    "course_pol": "以不蹺課，上課安靜為原則，課堂上若有問題可以舉手發問，禁止上課吃東西，休息時間也歡迎學生發問，學習上若有困難，請務必提出。\n本堂課主旨為移地教學，修此堂課的學生必須到國外授課36小時，若無法出國的學生，請勿選修此課程",
+    "course_pol_en": null,
+    "course_rem": "結構智慧監測是當今土木工程領域的關鍵技術，透過整合先進感測器、無線通信和數據分析，實現對結構物的實時監測。在課堂中，將深入探討這項創新技術，從感測器原理到數據後處理，培養學生在結構健康監測領域的專業知識。課程提供實際案例的應用，以使學生能夠理解並應用結構智慧監測於不同工程領域，同時注重培養學生的創新思維和問題解決能力。\n本堂課與移地教學結合，需到國外授課36小時，若無法出國的學生，請勿選修此課程",
+    "course_rem_en": null,
+    "ais_meno": "<div>本課程中的核心價值，要求誠實、正直、嚴謹地進行學習，避免抄襲、剽竊、偽造數據。遵守學術倫理規範，尊重他人的智慧產權，維護學術品質和推動科學進步的基本原則。</div>\n",
+    "ais_meno_en": null,
+    "ilearn_mk": null
+  },
+  "policy": {
+    "yms_year": 114.0,
+    "yms_smester": 2.0,
+    "cls_id": "CE01310",
+    "sub_id": "47706",
+    "scr_dup": "001",
+    "tpa_score_new": "<ul>\n\t<li>出國至海外佔總成績70％(因此選此課務必出國)</li>\n\t<li>回國期末報告佔30％</li>\n</ul>\n",
+    "tpa_score_new_en": null,
+    "course_pol": "以不蹺課，上課安靜為原則，課堂上若有問題可以舉手發問，禁止上課吃東西，休息時間也歡迎學生發問，學習上若有困難，請務必提出。\n本堂課主旨為移地教學，修此堂課的學生必須到國外授課36小時，若無法出國的學生，請勿選修此課程",
+    "course_pol_en": null,
+    "course_rem": "結構智慧監測是當今土木工程領域的關鍵技術，透過整合先進感測器、無線通信和數據分析，實現對結構物的實時監測。在課堂中，將深入探討這項創新技術，從感測器原理到數據後處理，培養學生在結構健康監測領域的專業知識。課程提供實際案例的應用，以使學生能夠理解並應用結構智慧監測於不同工程領域，同時注重培養學生的創新思維和問題解決能力。\n本堂課與移地教學結合，需到國外授課36小時，若無法出國的學生，請勿選修此課程",
+    "course_rem_en": null,
+    "ais_meno": "<div>本課程中的核心價值，要求誠實、正直、嚴謹地進行學習，避免抄襲、剽竊、偽造數據。遵守學術倫理規範，尊重他人的智慧產權，維護學術品質和推動科學進步的基本原則。</div>\n",
+    "ais_meno_en": null,
+    "ilearn_mk": null
+  },
+  "courseBankC": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CE01310",
+      "sub_id": "47706",
+      "scr_dup": "001",
+      "seq": 1,
+      "describe_ch": "理解結構健康監測之基本原理與系統架構。",
+      "describe_en": null,
+      "core_id": null,
+      "core_item": null,
+      "core_eng": null,
+      "core_level": null,
+      "strgy": [
+        "01"
+      ],
+      "evalb": [
+        "L3"
+      ],
+      "strgy_name": [
+        "課堂授課"
+      ],
+      "strgy_name_en": [
+        "Classroom instruction"
+      ],
+      "evalb_name": [
+        "課堂討論參與"
+      ],
+      "evalb_name_en": [
+        "Participation"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE01310",
+          "sub_id": "47706",
+          "scr_dup": "001",
+          "seq": 1,
+          "strgy_id": "01",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE01310",
+          "sub_id": "47706",
+          "scr_dup": "001",
+          "seq": 1,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "L3",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CE01310",
+      "sub_id": "47706",
+      "scr_dup": "001",
+      "seq": 2,
+      "describe_ch": "認識感測技術與資料分析於結構安全評估中的應用。",
+      "describe_en": null,
+      "core_id": null,
+      "core_item": null,
+      "core_eng": null,
+      "core_level": null,
+      "strgy": [
+        "12"
+      ],
+      "evalb": [
+        "L3",
+        "L4"
+      ],
+      "strgy_name": [
+        "課堂外教學及參訪"
+      ],
+      "strgy_name_en": [
+        "Field trips"
+      ],
+      "evalb_name": [
+        "課堂討論參與",
+        "出席狀況"
+      ],
+      "evalb_name_en": [
+        "Participation",
+        "Attendances"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE01310",
+          "sub_id": "47706",
+          "scr_dup": "001",
+          "seq": 2,
+          "strgy_id": "12",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE01310",
+          "sub_id": "47706",
+          "scr_dup": "001",
+          "seq": 2,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "L3",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE01310",
+          "sub_id": "47706",
+          "scr_dup": "001",
+          "seq": 2,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "L4",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CE01310",
+      "sub_id": "47706",
+      "scr_dup": "001",
+      "seq": 3,
+      "describe_ch": "透過國際移地教學拓展視野，並培養跨文化學習與應用能力。",
+      "describe_en": null,
+      "core_id": null,
+      "core_item": null,
+      "core_eng": null,
+      "core_level": null,
+      "strgy": [
+        "12"
+      ],
+      "evalb": [
+        "L3",
+        "L4"
+      ],
+      "strgy_name": [
+        "課堂外教學及參訪"
+      ],
+      "strgy_name_en": [
+        "Field trips"
+      ],
+      "evalb_name": [
+        "課堂討論參與",
+        "出席狀況"
+      ],
+      "evalb_name_en": [
+        "Participation",
+        "Attendances"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE01310",
+          "sub_id": "47706",
+          "scr_dup": "001",
+          "seq": 3,
+          "strgy_id": "12",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE01310",
+          "sub_id": "47706",
+          "scr_dup": "001",
+          "seq": 3,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "L3",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE01310",
+          "sub_id": "47706",
+          "scr_dup": "001",
+          "seq": 3,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "L4",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    }
+  ],
+  "topicSdgs": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CE01310",
+      "sub_id": "47706",
+      "scr_dup": "001",
+      "sdgs_seq": 17,
+      "main_related": "Y",
+      "ind_related": "N",
+      "iss_name": "多元合作",
+      "iss_ename": "Cooperation",
+      "content_name": "建立全球夥伴關係",
+      "content_ename": "Partnerships for the Goals"
+    }
+  ],
+  "topicAiIndicators": [],
+  "learnHours": {
+    "total": 0.0,
+    "tpdOnlineAsyTotal": 0.0,
+    "tpdOnlineSynTotal": 0.0,
+    "tpdOnlineFaceTotal": 0.0,
+    "asySynInTotalPercent": 0.0
+  },
+  "crossVerYear": 114
+}

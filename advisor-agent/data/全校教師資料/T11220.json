@@ -1,0 +1,212 @@
+{
+  "teacherId": "T11220",
+  "name": "劉維正",
+  "mainUnit": "資訊電機學院",
+  "detailUnit": "資訊電機學院",
+  "skill": [
+    "無線通訊Wireless Communications"
+  ],
+  "edu": [
+    "國立交通大學 電信工程學系 博士",
+    "國立清華大學 電機工程學系 碩士",
+    "國立清華大學 電機工程學系 學士"
+  ],
+  "fcuExp": [
+    "資訊電機學院 助理教授"
+  ],
+  "currjob": [],
+  "otherExp": [
+    "國立中正大學 通訊工程學系暨研究所 助理教授",
+    "國立交通大學 電信工程學系 博士後研究",
+    "華寶通訊股份有限公司  GSM Layer 1通訊工程師"
+  ],
+  "journal": [
+    {
+      "論文名稱": "Performance analysis of relay selection with enhanced dynamic decode-and-forward and network coding in two-way relay channels",
+      "期刊名稱": "Wireless Personal Communications (SCIE,EI)",
+      "作者群": "Wei-Cheng Liu*"
+    },
+    {
+      "論文名稱": "The performance of systems featuring dynamic decode-and-forward and network coding",
+      "期刊名稱": "Wireless Personal Communications (SCIE,EI)",
+      "作者群": "Wei-Cheng Liu* and Chun-Huan Shih"
+    },
+    {
+      "論文名稱": "Analysis of diversity-multiplexing tradeoff in a cooperative network coding system",
+      "期刊名稱": "IEEE Transactions on Communications (SCIE,EI)",
+      "作者群": "Li-Chun Wang*, Wei-Cheng Liu, and Sau-Hsuan Wu"
+    },
+    {
+      "論文名稱": "Bit error rate analysis in IEEE 802.15.3a UWB channels",
+      "期刊名稱": "IEEE Transactions on Wireless Communications (SCIE,EI)",
+      "作者群": "Li-Chun Wang* and Wei-Cheng Liu"
+    },
+    {
+      "論文名稱": "Capacity fades analysis of MIMO Rician channels in mobile ad hoc networks",
+      "期刊名稱": "Performance Evaluation (SCIE,EI)",
+      "作者群": "Li-Chun Wang*, Wei-Cheng Liu, and Yun-Huai Cheng"
+    },
+    {
+      "論文名稱": "Joint rate and power adaptation for wireless local area networks in generalized Nakagami fading channels",
+      "期刊名稱": "IEEE Transactions on Vehicular Technology (SCIE,EI)",
+      "作者群": "Li-Chun Wang*, Wei-Cheng Liu, Anderson Chen, and Kuang-Nan Yen"
+    },
+    {
+      "論文名稱": "Statistical analysis of a mobile-to-mobile Rician fading channel model",
+      "期刊名稱": "IEEE Transactions on Vehicular Technology (SCIE,EI)",
+      "作者群": "Li-Chun Wang*, Wei-Cheng Liu, and Yun-Huai Cheng"
+    },
+    {
+      "論文名稱": "On the performance of using multiple transmit and receive antennas in pulse based ultrawideband systems",
+      "期刊名稱": "IEEE Transactions on Wireless Communications (SCIE,EI)",
+      "作者群": "Li-Chun Wang*, Wei-Cheng Liu, and Kuan-Jiin Shieh"
+    }
+  ],
+  "journal2": [],
+  "conference": [
+    {
+      "論文名稱": "Multi-UAV Based on Particle Swarm Algorithm and Rapidly Exploring Random Tree to Locate Air Pollution Source",
+      "會議名稱": "International Conference on Pervasive Artificial Intelligence (ICPAI) 2020",
+      "作者群": "Wei-Cheng Liu* and Yu-Xiang Chen"
+    },
+    {
+      "論文名稱": "Theory and Implementation of a Three-Dimensional Spatial Channel Model for the 3GPP TR 36.873 Long-Term Evolution System",
+      "會議名稱": "2018 International Conference on Mechanical, Electronic and Information Technology (ICMEIT 2018)",
+      "作者群": "Wei-Cheng Liu*, Wern-Ho Sheen, Ming-Yang Wu, and Ting-Yu Yeh"
+    },
+    {
+      "論文名稱": "Relay Selection With Enhanced Dynamic Decode-and-Forward and Network Coding",
+      "會議名稱": "2014 IEEE 11th Vehicular Technology Society Asia Pacific Wireless Communications Symposium",
+      "作者群": "Wei-Cheng Liu* and Yu-Chen Liu"
+    },
+    {
+      "論文名稱": "Dynamic Decode and Forward With Network Coding",
+      "會議名稱": "2012 IEEE 75th Vehicular Technology Conference (VTC Spring)",
+      "作者群": "Wei-Cheng Liu* and Yu-Neng Chen"
+    },
+    {
+      "論文名稱": "Difference of frame inter-arrival time based target selection scheme for reducing handoffs in wireless multi-hop relay networks",
+      "會議名稱": "2009 IEEE 70th Vehicular Technology Conference Fall",
+      "作者群": "Wei-Cheng Liu, Cheng-Min Chen, and Li-Chun Wang*"
+    },
+    {
+      "論文名稱": "Diversity-multiplexing tradeoff analysis of a cooperative network coding system",
+      "會議名稱": "2009 IEEE Sarnoff Symposium",
+      "作者群": "Li-Chun Wang*, Wei-Cheng Liu, and Sau-Hsuan Wu"
+    },
+    {
+      "論文名稱": "Diversity-multiplexing tradeoff analysis of a cooperative network coding system",
+      "會議名稱": "The First Joint Workshop of Taiwan National Chiao Tung University and Japan Keio University in Wireless Communications and Networking",
+      "作者群": "Li-Chun Wang*, Wei-Cheng Liu, and Sau-Hsuan Wu"
+    },
+    {
+      "論文名稱": "Analysis of network coding for cooperative multiplexing",
+      "會議名稱": "2008全國電信研討會",
+      "作者群": "Li-Chun Wang*, Wei-Cheng Liu, and Sau-Hsuan Wu"
+    },
+    {
+      "論文名稱": "BER-minimized space-time-frequency codes for MIMO highly frequency-selective block-fading channels",
+      "會議名稱": "2008 IEEE International Conference on Communications",
+      "作者群": "Wei-Cheng Liu and Li-Chun Wang*"
+    },
+    {
+      "論文名稱": "BER analysis in a generalized UWB frequency selective fading channel with randomly arriving clusters and rays",
+      "會議名稱": "2007 IEEE International Conference on Communications (ICC)",
+      "作者群": "Wei-Cheng Liu and Li-Chun Wang*"
+    },
+    {
+      "論文名稱": "Universal space-time-frequency block codes design for the multiband MIMO-OFDM systems",
+      "會議名稱": "2007 IEEE Antennas and Propagation Society International Symposium",
+      "作者群": "Wei-Cheng Liu and Li-Chun Wang*"
+    },
+    {
+      "論文名稱": "BER analysis of the IEEE 802.15.4a channel model with RAKE receiver",
+      "會議名稱": "IEEE Vehicular Technology Conference (VTC) 2006 Fall",
+      "作者群": "Wei-Cheng Liu and Li-Chun Wang*"
+    },
+    {
+      "論文名稱": "Performance analysis of pulse based ultra-wideband systems in the highly frequency selective fading channel with cluster property",
+      "會議名稱": "IEEE Vehicular Technology Conference (VTC) 2006 Spring",
+      "作者群": "Wei-Cheng Liu and Li-Chun Wang*"
+    },
+    {
+      "論文名稱": "Joint rate and power adaptation for wireless local area networks in Nakagami fading channels",
+      "會議名稱": "The 11th Mobile Computing Workshop",
+      "作者群": "Li-Chun Wang*, Kuang-Nan Yen, Anderson Chen, and Wei-Cheng Liu"
+    },
+    {
+      "論文名稱": "Performance of pulse position modulated signals over the ultra-wideband channel with multiple transmit and receive antennas",
+      "會議名稱": "IEEE Vehicular Technology Conference (VTC) 2004 Fall",
+      "作者群": "Li-Chun Wang* and Wei-Cheng Liu"
+    },
+    {
+      "論文名稱": "Cross-layer goodput analysis for rate adaptive IEEE 802.11a WLAN in the generalized Nakagami fading channels",
+      "會議名稱": "IEEE International Conference on Communications (ICC) 2004",
+      "作者群": "Li-Chun Wang*, Ya-Wen Lin, and Wei-Cheng Liu"
+    },
+    {
+      "論文名稱": "Physical layer effects on the MAC goodput performance for the rate adaptive IEEE 802.11a/g WLAN",
+      "會議名稱": "IEEE Wireless Communications and Networking Conference (WCNC) 2004",
+      "作者群": "Wei-Cheng Liu, Li-Chun Wang*, and Ya-Wen Lin"
+    }
+  ],
+  "book": [
+    {
+      "專業書籍": "Analysis and Design in UWB, Mobile-to-Mobile, and Relay Channels With MIMO Antenna Techniques",
+      "出版單位": "Golden Light Academic Publishing",
+      "作者群": "Wei-Cheng Liu*"
+    }
+  ],
+  "patent": [],
+  "most": [],
+  "tech": [],
+  "induAca": [],
+  "perform": [],
+  "reward": [
+    "優良教學助理獎 (97, 2008-09) - 國立交通大學"
+  ],
+  "speech": [
+    {
+      "演講題目": "Multi-UAV Air Pollution Source Localization Based on Particle Swarm Optimization and Rapidly-Exploring Random Tree",
+      "邀請單位": "國立暨南國際大學",
+      "演講日期": "2023-10"
+    },
+    {
+      "演講題目": "Unmanned Aerial Vehicle Networks: How Many UAVs Do We Need?",
+      "邀請單位": "國立交通大學",
+      "演講日期": "2020-02"
+    },
+    {
+      "演講題目": "5G Channel Model",
+      "邀請單位": "InfoTech-2015",
+      "演講日期": "2015-04"
+    },
+    {
+      "演講題目": "The Performance of Systems Featuring Dynamic Decodeand- Forward and Network Coding",
+      "邀請單位": "2013 Spring Workshop on Information Theory & Communications",
+      "演講日期": "2013-01"
+    },
+    {
+      "演講題目": "The Information: A History, A Theory, A Flood",
+      "邀請單位": "元智大學通訊工程學系",
+      "演講日期": "2012-12"
+    },
+    {
+      "演講題目": "Network Coding",
+      "邀請單位": "國立暨南國際大學資訊工程研究所",
+      "演講日期": "2012-10"
+    },
+    {
+      "演講題目": "Dynamic Decode-and-Forward With Network Coding",
+      "邀請單位": "國立中山大學通訊工程研究所",
+      "演講日期": "2012-05"
+    },
+    {
+      "演講題目": "Performance analysis and design of cooperative network coding systems",
+      "邀請單位": "2010 Spring Workshop on Information Theory & Communications",
+      "演講日期": "2010-02"
+    }
+  ],
+  "material": [],
+  "tal": []
+}

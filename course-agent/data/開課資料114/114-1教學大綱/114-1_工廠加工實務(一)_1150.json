@@ -1,0 +1,889 @@
+{
+  "success": true,
+  "info": {
+    "yms_year": 114.0,
+    "yms_smester": 1.0,
+    "sub_id": "00752",
+    "cls_id": "CE04111",
+    "scr_dup": "001",
+    "sub_id3": "MCAE1017",
+    "cls_name": "機電一甲",
+    "cls_ename": "Department of Mechanical and Computer-Aided Engineering",
+    "sub_name": "工廠加工實務(一)",
+    "sub_ename": "WORKSHOP PRACTICE (1)",
+    "scr_mso": "必修",
+    "scr_mso_en": "Required",
+    "scr_credit": 1.0,
+    "scr_periodly": "(二)09-10",
+    "scr_periodly_eng": "(Tue)09-10",
+    "lang_name": "中文                                                      ",
+    "lang_ename": "Chinese",
+    "scr_room": "工319(電腦實習室)",
+    "scr_room_eng": "EGB319",
+    "scr_teacher": "郭武彰",
+    "scr_teacher_eng": "Wu-Chang Kuo",
+    "scr_selcode": "1150",
+    "scr_elearning": "全學期",
+    "scr_elearning_en": "Full semester",
+    "scr_hours": "2",
+    "scr_english": "N",
+    "unt_name": null,
+    "unt_ename": null,
+    "link_traminal": "定錨專題",
+    "link_traminal_en": "Anchor topic",
+    "scr_ldl": "D",
+    "course_mk": "N",
+    "teams_mk": "Y",
+    "sub_title": null,
+    "sub_title_en": null,
+    "sub_describe": null,
+    "sub_describe_en": null,
+    "hasDescription": null,
+    "hasInstructor": null,
+    "hasTA": null,
+    "hasTextBooks": null,
+    "hasReadings": null,
+    "hasiSoftwares": null,
+    "hasAssistSoftwares": null,
+    "hasObjective": null,
+    "hasWeeklyScds": null,
+    "hasGradeRules": null,
+    "hasGradeRuleDescribe": null,
+    "hasIntegrity": null,
+    "hasCoursePol": null,
+    "hasCourseRem": null,
+    "hasObjectiveReleation": null,
+    "hasTopicSdgs": null,
+    "hasSubTitleDesc": null
+  },
+  "subTitleDesc": null,
+  "description": {
+    "sub_id3": null,
+    "sub_name": "工廠加工實務(一)",
+    "sub_ename": "WORKSHOP PRACTICE (1)",
+    "describe_ch": "訓練工具機操作，瞭解工具機結構原理及應用，其中包含如何正確的使用工具機、如何正確的使用相關量測儀器及在機械工場或操作工具機時如何的避免意外發生等問題。",
+    "describe_eh": "To give students a basic training in the operation of machine tools, and to help them understand the relating fundamentals and applications of machine tools. It covers the introduction that how to operate these machine tools properly, how to use these relating measurement instruments properly and how to avoid accidental happening in a machine shop or in the operation of machine tools.",
+    "pre_subname": "",
+    "pre_sub_id3": null,
+    "pre_sub_ename": "",
+    "pre_describe": null,
+    "pre_describe_en": null,
+    "scr_credit": 1.0
+  },
+  "targets": [
+    {
+      "seq": 1,
+      "describe_ch": "認識機械工場設備及安全管理，及基本機械加工機之功能與操作方法有基本的了解並去除學生對操作常用之機械加工機之恐慌，增加機械加工專業知識。",
+      "describe_en": "To know both the equipments and safety management of machine shop, and have a basic understanding of both the function and operating method of common machine tools. To delete the students fear when they operate common machine tools, and to increase the sp"
+    },
+    {
+      "seq": 2,
+      "describe_ch": "對常用手工具及切削刀具有基本的了解。",
+      "describe_en": "The students can know the use of both common hand tools and machine cutters.　"
+    },
+    {
+      "seq": 3,
+      "describe_ch": "對焊接作業法有基本的了解。",
+      "describe_en": "The students can understand the basic welding work.　"
+    },
+    {
+      "seq": 4,
+      "describe_ch": "使學生瞭解CNC工具機及其基本操作，並書寫程式。能有效率的加工元件，並節省廢料",
+      "describe_en": "To understand both the function and the basic operation of CNC tools. Then, the students can write the CNC program."
+    },
+    {
+      "seq": 5,
+      "describe_ch": "瞭解以CNC加工生產有益於人類之產品。",
+      "describe_en": " "
+    }
+  ],
+  "teachersInfo": [
+    {
+      "cname": "郭武彰",
+      "ename": "Wu-Chang Kuo",
+      "period": "(Mon)01  工227,(Mon)08  工227,(Tue)08  工227,(Wed)07  工227",
+      "roletype": 0,
+      "email": "wuchang@o365.fcu.edu.tw",
+      "ext": "3531"
+    },
+    {
+      "cname": "施光祐",
+      "ename": "SHIH, KUANG-YU",
+      "period": " ",
+      "roletype": 1,
+      "email": "m1416209@o365.fcu.edu.tw",
+      "ext": " "
+    }
+  ],
+  "textBooks": {
+    "yms_year": 114.0,
+    "yms_smester": 1.0,
+    "cls_id": "CE04111",
+    "sub_id": "00752",
+    "scr_dup": "001",
+    "tpb_seq": 1,
+    "tpb_book": "<div>主要為：教師自編講義。</div>\n\n<div>&nbsp;</div>\n\n<div>書名：數控工具機原理與實習(五版)</div>\n\n<div>作者：陳天生、黃寶建</div>\n\n<div>出版社：高立圖書有限公司</div>\n\n<div>ISBN：9789863781127</div>\n",
+    "tpb_book_en": null
+  },
+  "readings": {
+    "yms_year": 114.0,
+    "yms_smester": 1.0,
+    "cls_id": "CE04111",
+    "sub_id": "00752",
+    "scr_dup": "001",
+    "tpc_seq": 1,
+    "tpc_book": "<div>勞動部CNC銑床乙級學科考題題庫</div>\n\n<div>&nbsp;</div>\n",
+    "tpc_book_en": null
+  },
+  "iSoftwares": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CE04111",
+      "sub_id": "00752",
+      "scr_dup": "001",
+      "seq_no": 1,
+      "soft_kind": "2",
+      "soft_name": "仁安CNC模擬軟體NcEditor(含銑床模組及車床模組)",
+      "soft_memo": "<div>讓學員在模擬軟體環境中，編寫銑削加工G-M程式碼，並且安排刀具與被切削的素材，進行視覺化模擬。</div>\n",
+      "soft_name_en": null,
+      "soft_memo_en": null
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CE04111",
+      "sub_id": "00752",
+      "scr_dup": "001",
+      "seq_no": 2,
+      "soft_kind": "2",
+      "soft_name": "AutoCAD",
+      "soft_memo": "<div>配合CNC程式編寫之繪圖使用</div>\n",
+      "soft_name_en": null,
+      "soft_memo_en": null
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CE04111",
+      "sub_id": "00752",
+      "scr_dup": "001",
+      "seq_no": 3,
+      "soft_kind": "2",
+      "soft_name": "SolidWorks",
+      "soft_memo": "<div>配合CNC程式編寫之繪圖使用</div>\n",
+      "soft_name_en": null,
+      "soft_memo_en": null
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CE04111",
+      "sub_id": "00752",
+      "scr_dup": "001",
+      "seq_no": 4,
+      "soft_kind": "2",
+      "soft_name": "PowerMILL",
+      "soft_memo": "<div>2025版本，配合3D立體圖形之CNC銑削加工規畫學習。</div>\n",
+      "soft_name_en": null,
+      "soft_memo_en": null
+    }
+  ],
+  "assistSoftwares": [],
+  "weeklyScds": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CE04111",
+      "sub_id": "00752",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "單元1",
+      "tpd_reading": "<div>認識銑床的結構、座標設定、銑刀的造型與切削原理。配合指定課本的第6章。</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": "<div>口說講授、配合網路工具機廠之CNC銑床動態影片。</div>\n",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CE04111",
+      "sub_id": "00752",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "單元2",
+      "tpd_reading": "<div>實地分組示範操作CNC銑床重要動作，讓學員有實體概念。動作有：開機、回原點、夾持工件、裝刀、換刀、MDI操作、尋邊、換刀、量測刀長。</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": "<div>實地機台凱柏CPV-750運行示範。</div>\n",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CE04111",
+      "sub_id": "00752",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "單元3",
+      "tpd_reading": "<div>CNC銑床加工程式的基本架構：檔頭、走刀、檔尾，三個段落的角色說明，並且講解每一個指令的用法與含義。</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": "<div>提供示範程式給同學，讓同學試行使用CNC模擬環境，並且得到正確的模擬成果。</div>\n",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CE04111",
+      "sub_id": "00752",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "單元4",
+      "tpd_reading": "<div>走刀最重要的四大指令：G00、G01、G02、G03的介紹，並且安排各式直線切削與圓切削的練習，同時訓練工作圖之判讀能力。</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": "<div>提供簡單工作圖，讓同學依圖面編寫程式並模擬出正確結果。</div>\n",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CE04111",
+      "sub_id": "00752",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "單元5",
+      "tpd_reading": "<div>補正加工之G40、G41、G42指令的使用，搭配D值與控制器欄位的輸入，可以讓圖面工的程式編寫與公差控制更有效率。</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": "<div>專屬G41與G42的加工圖面，進行程式編寫作業練習。</div>\n",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CE04111",
+      "sub_id": "00752",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "單元6",
+      "tpd_reading": "<div>加工參數的訂定與鑽孔、攻牙的指令說明。</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": "<div>提出加工參數的計算題進行練習，同時針對鑽孔與攻牙的圖面進行程式寫練習。</div>\n",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CE04111",
+      "sub_id": "00752",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "單元7",
+      "tpd_reading": "<div>以勞動部CNC銑床乙級證照學科題目為範本，挑選重要的工廠操作、加工原理、材料選用、機床維護、程式編寫的相關知識進行講授。</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": "<div>上網進行練習題的測驗與考核：<br />\nhttp://onlinetest3-2.slhs.tp.edu.tw/bestcontent.asp?examid=t18201<br />\n&nbsp;</div>\n",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    }
+  ],
+  "gradeRules": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CE04111",
+      "sub_id": "00752",
+      "scr_dup": "001",
+      "evalb_id": "D1",
+      "score_rate": 30,
+      "evalb_memo": "本項為期中電腦上機考試。",
+      "evalb_memo_en": null,
+      "evalb_name": "期中考",
+      "evalb_name_en": "Midterm examination",
+      "seq": 1
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CE04111",
+      "sub_id": "00752",
+      "scr_dup": "001",
+      "evalb_id": "D2",
+      "score_rate": 30,
+      "evalb_memo": "本項為期末電腦上機考試。",
+      "evalb_memo_en": null,
+      "evalb_name": "期末考",
+      "evalb_name_en": "Final examination",
+      "seq": 2
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CE04111",
+      "sub_id": "00752",
+      "scr_dup": "001",
+      "evalb_id": "D3",
+      "score_rate": 40,
+      "evalb_memo": "本項包含平時小考，作業，平時上課表現。",
+      "evalb_memo_en": null,
+      "evalb_name": "隨堂測驗",
+      "evalb_name_en": "In-class examination",
+      "seq": 3
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CE04111",
+      "sub_id": "00752",
+      "scr_dup": "001",
+      "evalb_id": "L2",
+      "score_rate": 0,
+      "evalb_memo": "事假、病假、曠課在2節以內(含2節)，學期總成績+3分。\n事假、病假、曠課超過9節以上(自第9節起算)，每1節課扣學期總成績1分。\n本項內含在上述的40%之中。",
+      "evalb_memo_en": null,
+      "evalb_name": "點名",
+      "evalb_name_en": "Roll call",
+      "seq": 4
+    }
+  ],
+  "gradeRuleDescribe": {
+    "yms_year": 114.0,
+    "yms_smester": 1.0,
+    "cls_id": "CE04111",
+    "sub_id": "00752",
+    "scr_dup": "001",
+    "tpa_score_new": null,
+    "tpa_score_new_en": null,
+    "course_pol": "1.平時考與大考型式：工整書寫答題之過程內容，如有必要-全班區分二梯次進行。\n考試輔助工具限工程型計算機，不得使用手機或平板，亦禁止使用耳機及智慧式穿戴裝置。\n測驗方式一律採close books and notes，除非特別例外。\n2.上課態度應準時出席，安靜聽講(第一堂課於16:20點名，遲到即註記缺課)。\n課堂中之老師講課場合時段，不得互相交談造成他人學習困擾，違者予以學期成績扣分處份。\n課堂中嚴禁用餐及食用零嘴(可以點名之後外出食用，十分鐘為限)。\n課程中建議仔細抄錄重點。\n手機請設定於靜音模式。\n課程中，非經教師同意(很容易同意的)，外出教室10分鐘(例如接電話)以上視同缺課。\n3.老師會主動制止干擾課程進行之同學，違反上列且嚴重之情況會以扣以學期總成績之處分。\n4.每次上課結束，指定三~四位同學輪值值日生一次(由老師指定並紀錄)，負責課後環境清理-簡單的排桌椅/擦黑板/撿垃圾/關燈/關冷氣。\n5.配合學校防疫政策，必要之時填寫座位表或依指定就座。\n6.未盡事宜，另訂其它要求標準。",
+    "course_pol_en": null,
+    "course_rem": " ",
+    "course_rem_en": null,
+    "ais_meno": "<div>學習必須以誠信為基礎，任何學生企圖將自己未製作的作品，作為自己的作品，此行為是為不誠實行為。在作業、測驗或考試中作弊或抄襲的學生或協助他人的行為，該次成績以零分計，若是累犯，將依逢甲大學學生獎懲辦法提送。</div>\n\n<div>考核時如果您抄襲他人的答案、或交作業時您交出全部或部分由他人撰寫的論文或作業，則被視為作弊。剽竊是對學術信任的嚴重破壞。在學習作業中，我們的言論和想法就是我們作業的價值；因此將他人的作品當作自己的作品繳交，是一種盜竊行為。當您使用別人的文字和想法時，無論是著名作家還是同學的作品，而不註明這些文章、詞語和想法的來源出處，您的行為就是在抄襲。原創性作品是我的底線，抄襲的作品將會收到&ldquo;0&rdquo;或&ldquo;不及格&rdquo;的分數。</div>\n",
+    "ais_meno_en": null,
+    "ilearn_mk": null
+  },
+  "integrity": {
+    "yms_year": 114.0,
+    "yms_smester": 1.0,
+    "cls_id": "CE04111",
+    "sub_id": "00752",
+    "scr_dup": "001",
+    "tpa_score_new": null,
+    "tpa_score_new_en": null,
+    "course_pol": "1.平時考與大考型式：工整書寫答題之過程內容，如有必要-全班區分二梯次進行。\n考試輔助工具限工程型計算機，不得使用手機或平板，亦禁止使用耳機及智慧式穿戴裝置。\n測驗方式一律採close books and notes，除非特別例外。\n2.上課態度應準時出席，安靜聽講(第一堂課於16:20點名，遲到即註記缺課)。\n課堂中之老師講課場合時段，不得互相交談造成他人學習困擾，違者予以學期成績扣分處份。\n課堂中嚴禁用餐及食用零嘴(可以點名之後外出食用，十分鐘為限)。\n課程中建議仔細抄錄重點。\n手機請設定於靜音模式。\n課程中，非經教師同意(很容易同意的)，外出教室10分鐘(例如接電話)以上視同缺課。\n3.老師會主動制止干擾課程進行之同學，違反上列且嚴重之情況會以扣以學期總成績之處分。\n4.每次上課結束，指定三~四位同學輪值值日生一次(由老師指定並紀錄)，負責課後環境清理-簡單的排桌椅/擦黑板/撿垃圾/關燈/關冷氣。\n5.配合學校防疫政策，必要之時填寫座位表或依指定就座。\n6.未盡事宜，另訂其它要求標準。",
+    "course_pol_en": null,
+    "course_rem": " ",
+    "course_rem_en": null,
+    "ais_meno": "<div>學習必須以誠信為基礎，任何學生企圖將自己未製作的作品，作為自己的作品，此行為是為不誠實行為。在作業、測驗或考試中作弊或抄襲的學生或協助他人的行為，該次成績以零分計，若是累犯，將依逢甲大學學生獎懲辦法提送。</div>\n\n<div>考核時如果您抄襲他人的答案、或交作業時您交出全部或部分由他人撰寫的論文或作業，則被視為作弊。剽竊是對學術信任的嚴重破壞。在學習作業中，我們的言論和想法就是我們作業的價值；因此將他人的作品當作自己的作品繳交，是一種盜竊行為。當您使用別人的文字和想法時，無論是著名作家還是同學的作品，而不註明這些文章、詞語和想法的來源出處，您的行為就是在抄襲。原創性作品是我的底線，抄襲的作品將會收到&ldquo;0&rdquo;或&ldquo;不及格&rdquo;的分數。</div>\n",
+    "ais_meno_en": null,
+    "ilearn_mk": null
+  },
+  "policy": {
+    "yms_year": 114.0,
+    "yms_smester": 1.0,
+    "cls_id": "CE04111",
+    "sub_id": "00752",
+    "scr_dup": "001",
+    "tpa_score_new": null,
+    "tpa_score_new_en": null,
+    "course_pol": "1.平時考與大考型式：工整書寫答題之過程內容，如有必要-全班區分二梯次進行。\n考試輔助工具限工程型計算機，不得使用手機或平板，亦禁止使用耳機及智慧式穿戴裝置。\n測驗方式一律採close books and notes，除非特別例外。\n2.上課態度應準時出席，安靜聽講(第一堂課於16:20點名，遲到即註記缺課)。\n課堂中之老師講課場合時段，不得互相交談造成他人學習困擾，違者予以學期成績扣分處份。\n課堂中嚴禁用餐及食用零嘴(可以點名之後外出食用，十分鐘為限)。\n課程中建議仔細抄錄重點。\n手機請設定於靜音模式。\n課程中，非經教師同意(很容易同意的)，外出教室10分鐘(例如接電話)以上視同缺課。\n3.老師會主動制止干擾課程進行之同學，違反上列且嚴重之情況會以扣以學期總成績之處分。\n4.每次上課結束，指定三~四位同學輪值值日生一次(由老師指定並紀錄)，負責課後環境清理-簡單的排桌椅/擦黑板/撿垃圾/關燈/關冷氣。\n5.配合學校防疫政策，必要之時填寫座位表或依指定就座。\n6.未盡事宜，另訂其它要求標準。",
+    "course_pol_en": null,
+    "course_rem": " ",
+    "course_rem_en": null,
+    "ais_meno": "<div>學習必須以誠信為基礎，任何學生企圖將自己未製作的作品，作為自己的作品，此行為是為不誠實行為。在作業、測驗或考試中作弊或抄襲的學生或協助他人的行為，該次成績以零分計，若是累犯，將依逢甲大學學生獎懲辦法提送。</div>\n\n<div>考核時如果您抄襲他人的答案、或交作業時您交出全部或部分由他人撰寫的論文或作業，則被視為作弊。剽竊是對學術信任的嚴重破壞。在學習作業中，我們的言論和想法就是我們作業的價值；因此將他人的作品當作自己的作品繳交，是一種盜竊行為。當您使用別人的文字和想法時，無論是著名作家還是同學的作品，而不註明這些文章、詞語和想法的來源出處，您的行為就是在抄襲。原創性作品是我的底線，抄襲的作品將會收到&ldquo;0&rdquo;或&ldquo;不及格&rdquo;的分數。</div>\n",
+    "ais_meno_en": null,
+    "ilearn_mk": null
+  },
+  "courseBankC": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CE04111",
+      "sub_id": "00752",
+      "scr_dup": "001",
+      "seq": 1,
+      "describe_ch": "認識機械工場設備及安全管理，及基本機械加工機之功能與操作方法有基本的了解並去除學生對操作常用之機械加工機之恐慌，增加機械加工專業知識。",
+      "describe_en": "To know both the equipments and safety management of machine shop, and have a basic understanding of both the function and operating method of common machine tools. To delete the students fear when they operate common machine tools, and to increase the sp",
+      "core_id": "C",
+      "core_item": "具備蒐集資料、規範問題、並加以分析驗證獲得初步結論之能力。",
+      "core_eng": "Ability to collect data, standardize and analyze problem in order to obtain preliminary conclusions.",
+      "core_level": "1 ",
+      "strgy": [
+        "01",
+        "30"
+      ],
+      "evalb": [
+        "D3",
+        "D8"
+      ],
+      "strgy_name": [
+        "課堂授課",
+        "體驗式學習"
+      ],
+      "strgy_name_en": [
+        "Classroom instruction",
+        "Experiential Learning, ExL"
+      ],
+      "evalb_name": [
+        "隨堂測驗",
+        "線上測驗"
+      ],
+      "evalb_name_en": [
+        "In-class examination",
+        "Online test"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CE04111",
+          "sub_id": "00752",
+          "scr_dup": "001",
+          "seq": 1,
+          "strgy_id": "01",
+          "strgy_name": null,
+          "strgy_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CE04111",
+          "sub_id": "00752",
+          "scr_dup": "001",
+          "seq": 1,
+          "strgy_id": "30",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CE04111",
+          "sub_id": "00752",
+          "scr_dup": "001",
+          "seq": 1,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D3",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CE04111",
+          "sub_id": "00752",
+          "scr_dup": "001",
+          "seq": 1,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D8",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CE04111",
+      "sub_id": "00752",
+      "scr_dup": "001",
+      "seq": 2,
+      "describe_ch": "對常用手工具及切削刀具有基本的了解。",
+      "describe_en": "The students can know the use of both common hand tools and machine cutters.　",
+      "core_id": "A",
+      "core_item": "應用基礎科學以系統化思維發掘、研判及診斷機械工程問題之能力。",
+      "core_eng": "Ability to solve mechanical engineering problems with basic sciences and systematic thinking.",
+      "core_level": "2 ",
+      "strgy": [
+        "01",
+        "30"
+      ],
+      "evalb": [
+        "D3",
+        "D8"
+      ],
+      "strgy_name": [
+        "課堂授課",
+        "體驗式學習"
+      ],
+      "strgy_name_en": [
+        "Classroom instruction",
+        "Experiential Learning, ExL"
+      ],
+      "evalb_name": [
+        "隨堂測驗",
+        "線上測驗"
+      ],
+      "evalb_name_en": [
+        "In-class examination",
+        "Online test"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CE04111",
+          "sub_id": "00752",
+          "scr_dup": "001",
+          "seq": 2,
+          "strgy_id": "01",
+          "strgy_name": null,
+          "strgy_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CE04111",
+          "sub_id": "00752",
+          "scr_dup": "001",
+          "seq": 2,
+          "strgy_id": "30",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CE04111",
+          "sub_id": "00752",
+          "scr_dup": "001",
+          "seq": 2,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D3",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CE04111",
+          "sub_id": "00752",
+          "scr_dup": "001",
+          "seq": 2,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D8",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CE04111",
+      "sub_id": "00752",
+      "scr_dup": "001",
+      "seq": 3,
+      "describe_ch": "對焊接作業法有基本的了解。",
+      "describe_en": "The students can understand the basic welding work.　",
+      "core_id": "A",
+      "core_item": "應用基礎科學以系統化思維發掘、研判及診斷機械工程問題之能力。",
+      "core_eng": "Ability to solve mechanical engineering problems with basic sciences and systematic thinking.",
+      "core_level": "1 ",
+      "strgy": [
+        "01"
+      ],
+      "evalb": [
+        "D3"
+      ],
+      "strgy_name": [
+        "課堂授課"
+      ],
+      "strgy_name_en": [
+        "Classroom instruction"
+      ],
+      "evalb_name": [
+        "隨堂測驗"
+      ],
+      "evalb_name_en": [
+        "In-class examination"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CE04111",
+          "sub_id": "00752",
+          "scr_dup": "001",
+          "seq": 3,
+          "strgy_id": "01",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CE04111",
+          "sub_id": "00752",
+          "scr_dup": "001",
+          "seq": 3,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D3",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CE04111",
+      "sub_id": "00752",
+      "scr_dup": "001",
+      "seq": 4,
+      "describe_ch": "使學生瞭解CNC工具機及其基本操作，並書寫程式。能有效率的加工元件，並節省廢料",
+      "describe_en": "To understand both the function and the basic operation of CNC tools. Then, the students can write the CNC program.",
+      "core_id": "G",
+      "core_item": "具備評估綠色產品、永續發展及研究成果，以解決複雜且整合性工程問題之能力。",
+      "core_eng": "Ability to evaluate green products, sustainable development and research results to solve complex and integrated engineering problems.",
+      "core_level": "1 ",
+      "strgy": [
+        "01",
+        "16"
+      ],
+      "evalb": [
+        "D3"
+      ],
+      "strgy_name": [
+        "課堂授課",
+        "模擬"
+      ],
+      "strgy_name_en": [
+        "Classroom instruction",
+        "Simulation"
+      ],
+      "evalb_name": [
+        "隨堂測驗"
+      ],
+      "evalb_name_en": [
+        "In-class examination"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CE04111",
+          "sub_id": "00752",
+          "scr_dup": "001",
+          "seq": 4,
+          "strgy_id": "01",
+          "strgy_name": null,
+          "strgy_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CE04111",
+          "sub_id": "00752",
+          "scr_dup": "001",
+          "seq": 4,
+          "strgy_id": "16",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CE04111",
+          "sub_id": "00752",
+          "scr_dup": "001",
+          "seq": 4,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D3",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CE04111",
+      "sub_id": "00752",
+      "scr_dup": "001",
+      "seq": 5,
+      "describe_ch": "瞭解以CNC加工生產有益於人類之產品。",
+      "describe_en": " ",
+      "core_id": "H",
+      "core_item": "理解專業與資訊倫理及社會責任。",
+      "core_eng": "Understand professional and information ethics and social responsibility.",
+      "core_level": "1 ",
+      "strgy": [
+        "01"
+      ],
+      "evalb": [
+        "D8"
+      ],
+      "strgy_name": [
+        "課堂授課"
+      ],
+      "strgy_name_en": [
+        "Classroom instruction"
+      ],
+      "evalb_name": [
+        "線上測驗"
+      ],
+      "evalb_name_en": [
+        "Online test"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CE04111",
+          "sub_id": "00752",
+          "scr_dup": "001",
+          "seq": 5,
+          "strgy_id": "01",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CE04111",
+          "sub_id": "00752",
+          "scr_dup": "001",
+          "seq": 5,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D8",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    }
+  ],
+  "topicSdgs": [],
+  "learnHours": {
+    "total": 0.0,
+    "tpdOnlineAsyTotal": 0.0,
+    "tpdOnlineSynTotal": 0.0,
+    "tpdOnlineFaceTotal": 0.0,
+    "asySynInTotalPercent": 0.0
+  },
+  "crossVerYear": 114
+}

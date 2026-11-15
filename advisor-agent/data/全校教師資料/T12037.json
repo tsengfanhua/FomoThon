@@ -1,0 +1,153 @@
+{
+  "teacherId": "T12037",
+  "name": "蔡淵裕",
+  "mainUnit": "資訊電機學院",
+  "detailUnit": "通訊工程學系",
+  "skill": [
+    "多媒體安全、計算機圖學、影像處理Multimedia Security, Computer Graphics, Image Processing"
+  ],
+  "edu": [
+    "國立中興大學 資訊科學研究所 博士",
+    "國立中央大學 資訊工程 學士"
+  ],
+  "fcuExp": [
+    "逢甲大學帆宣智慧城市5G實驗室 研究員",
+    "通訊工程學系 教授"
+  ],
+  "currjob": [],
+  "otherExp": [
+    "亞洲大學 行動商務與多媒體學系 教授",
+    "亞洲大學 行動商務與多媒體學系 副教授",
+    "亞洲大學 資訊多媒體應用學學系 副教授",
+    "亞洲大學 資訊多媒體應用學學系 助理教授"
+  ],
+  "journal": [
+    {
+      "論文名稱": "Advanced Octree-based Reversible Data Hiding in Encrypted Point Clouds",
+      "期刊名稱": "Journal of Information Security and Applications (SCIE)",
+      "作者群": "Yuan-Yu Tsai*, Wen-Ting Jao, Alfrindo Lin, and Shih-Yi Wang"
+    },
+    {
+      "論文名稱": "Exploring Homogeneity Index Modification on Dual-HDR-image-based Reversible Data Hiding",
+      "期刊名稱": "Multimedia Tools and Applications (SCIE)",
+      "作者群": "Yao-Hsien Huang, Pei-Lin Kuo, Ci-Sheng Peng, and Yuan-Yu Tsai*"
+    },
+    {
+      "論文名稱": "Integrating Coordinate Transformation and Random Sampling Into High-Capacity Reversible Data Hiding in Encrypted Polygonal Models",
+      "期刊名稱": "IEEE Transactions on Dependable and Secure Computing (SCIE)",
+      "作者群": "Yuan-Yu Tsai*, Hong-Lin Liu"
+    },
+    {
+      "論文名稱": "Extending Multi-MSB Prediction and Huffman Coding for Reversible Data Hiding in Encrypted HDR Images",
+      "期刊名稱": "IEEE Access (SCIE)",
+      "作者群": "Yuan-Yu Tsai, Hong-Lin Liu, Pei-Lin Kuo, Chi-Shiang Chan*"
+    },
+    {
+      "論文名稱": "Applying homogeneity index modification to high-capacity high-dynamic-range image authentication with distortion tolerance",
+      "期刊名稱": "Multimedia Tools and Applications (SCIE)",
+      "作者群": "Yuan-Yu Tsai*, Hong-Lin Liu, Cheng-You Ying"
+    },
+    {
+      "論文名稱": "Separable Reversible Data Hiding for Encrypted Three-Dimensional Models Based on Spatial Subdivision and Space Encoding",
+      "期刊名稱": "IEEE Transactions on Multimedia (SCIE)",
+      "作者群": "Yuan-Yu Tsai"
+    },
+    {
+      "論文名稱": "Efficient Triple Output Network for Vertebral Segmentation and Identification",
+      "期刊名稱": "IEEE Access (SCIE)",
+      "作者群": "Cheng-Hung Chuang, Chih-Yang Lin*, Yuan-Yu Tsai, Zhen-You Lian, Hong-Xia Xie, Chih-Chao Hsu, Chung-Lin Huang"
+    },
+    {
+      "論文名稱": "A Vertex-Based 3D Authentication Algorithm Based on Spatial Subdivision",
+      "期刊名稱": "Symmetry (SCIE)",
+      "作者群": "Yuan-Yu Tsai, Yu-Shiou Tsai, I-Ting Chi, Chi-Shiang Chan*"
+    },
+    {
+      "論文名稱": "An Effective Authentication Algorithm for Polygonal Models with High Embedding Capacity",
+      "期刊名稱": "Symmetry (SCIE)",
+      "作者群": "Yuan-Yu Tsai*, Yu-Shiou Tsai, Chia-Chun Chang"
+    },
+    {
+      "論文名稱": "A Low-Complexity Region-Based Authentication Algorithm for 3D Polygonal Models",
+      "期刊名稱": "Security and Communication Networks (SCIE)",
+      "作者群": "Yuan-Yu Tsai, Tsung-Chieh Cheng, Yao-Hsien Huang*"
+    }
+  ],
+  "journal2": [],
+  "conference": [
+    {
+      "論文名稱": "Effective Non-IID Degree Estimation for Robust Federated Learning in Healthcare Dataset",
+      "會議名稱": "The 13th IEEE International Conference on Healthcare Informatics",
+      "作者群": "Kun-Yi Chen, Chi-Ren Shyu*, Yuan-Yu Tsai, William I. Baskett, Chi-Yu Chang, Che-Yi Chou, Jeffrey J.P. Tsai, Zon-Yin Shae"
+    },
+    {
+      "論文名稱": "Reversible Integrity Authentication for Encrypted Polygonal Models",
+      "會議名稱": "2025 IEEE 11th International Conference on Applied System Innovation",
+      "作者群": "Alfrindo Lin, Wen-Ting Jao, Hao-Han Chang, and Yuan-Yu Tsai*"
+    },
+    {
+      "論文名稱": "A Smart Traffic Violation Detection and Semi-Automated Reporting System Based on Deep Learning and Image Recognition",
+      "會議名稱": "2025 IEEE 11th International Conference on Applied System Innovation (IEEE ICASI 2025)",
+      "作者群": "Chun-Hsiu Yeh, Zhe-Rei Liu, Jun-Xiang Loe, Ching-Hsiang Chin, Chi-Siong Lee, Yuan-Yu Tsai*"
+    },
+    {
+      "論文名稱": "Reversible Data Hiding in Encrypted Point Clouds Using Virtual Points and Multi-MSB Prediction",
+      "會議名稱": "2024 6th International Conference on Image, Video and Signal Processing",
+      "作者群": "Yung-Chen Chou, Alfrindo Lin, Wan-Pei Chen, Yuan-Yu Tsai*"
+    },
+    {
+      "論文名稱": "Thoughts on Non-IID Data Impact in Healthcare with Federated Learning Medical Blockchain",
+      "會議名稱": "2022 IEEE 4th International Conference on Cognitive Machine Intelligence (CogMI)",
+      "作者群": "Zon-Yin Shae*, Kun-Yi Chen, Chi-Yu Chang, Yuan-Yu Tsai, Che-Yi Chou, William Baskett, Chi-Ren Shyu, Jeffrey J. P. Tsai"
+    },
+    {
+      "論文名稱": "A Mirror-based Personal Health Monitoring System Integrating Wearable Devices and Non-contact Measurements",
+      "會議名稱": "2021 IEEE International Conference on Consumer Electronics-Taiwan (ICCE-TW)",
+      "作者群": "Li-Wei Chang, Hong-Lin Liu, Cheng-You Ying, Wei-You Tsai, Yuan-Yu Tsai*"
+    },
+    {
+      "論文名稱": "Robust 3D Authentication on Point Clouds with Random Sampling and Sequential Dependency",
+      "會議名稱": "2021 IEEE International Conference on Consumer Electronics-Taiwan (ICCE-TW)",
+      "作者群": "Cheng-You Ying, Pin-Hua Huang, Yuan-Yu Tsai*"
+    },
+    {
+      "論文名稱": "Two Staged Machine Learning Network for Spine Segmentation and Recognition",
+      "會議名稱": "2018 IEEE International Symposium on Multimedia (ISM)",
+      "作者群": "Pin-Hsien Liu, Zhen-You Lian, Chih-Yang Lin, Cheng-Hung Chuang, Chung-Lin Huang, Yuan-Yu Tsai"
+    }
+  ],
+  "book": [],
+  "patent": [],
+  "most": [
+    {
+      "name": "加密三維模型多媒體安全機制之研發：高嵌入率可回復式資訊隱藏、秘密分享與完整性驗證(II)",
+      "schoolYear": "113"
+    },
+    {
+      "name": "應用秘密分享於支援多訊息嵌入者之加密高動態範圍影像可回復式資訊隱藏技術",
+      "schoolYear": "113"
+    },
+    {
+      "name": "加密三維模型多媒體安全機制之研發：高嵌入率可回復式資訊隱藏、秘密分享與完整性驗證",
+      "schoolYear": "112"
+    }
+  ],
+  "tech": [],
+  "induAca": [],
+  "perform": [],
+  "reward": [],
+  "speech": [
+    {
+      "演講題目": "多媒體安全秘技大揭秘～隱藏在數位世界中的秘密",
+      "邀請單位": "亞洲大學行動商務與多媒體應用學系",
+      "演講日期": "2024-11"
+    },
+    {
+      "演講題目": "應用於加密三維模型的多媒體安全技術：現況與未來展望",
+      "邀請單位": "國立中興大學資訊工程學系",
+      "演講日期": "2024-05"
+    }
+  ],
+  "material": [],
+  "tal": []
+}

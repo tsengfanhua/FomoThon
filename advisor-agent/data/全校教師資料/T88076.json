@@ -1,0 +1,1605 @@
+{
+  "teacherId": "T88076",
+  "name": "簡鳳佐",
+  "mainUnit": "資訊電機學院",
+  "detailUnit": "電子工程學系",
+  "skill": [
+    "功率元件Power Devices",
+    "光電元件Optoelectronic Devices",
+    "薄膜電晶體Thin Film Transistors",
+    "Ⅲ-Ⅴ化合物半導體/高速電子元件III-V Compound Semiconductor/High Speed Electronic Devices",
+    "半導體製程與半導體元件特性模擬TCAD of Semiconductor Porcess and Semiconductor Devices"
+  ],
+  "edu": [
+    "國立中央大學 電機工程學系 博士",
+    "國立中央大學 電機工程學系 碩士",
+    "國立中央大學 電機工程學系 學士"
+  ],
+  "fcuExp": [
+    "電機工程學系(所) 兼任助理教授",
+    "電子工程學系 助理教授",
+    "電子工程學系 副教授",
+    "電子工程學系 教授",
+    "電子工程學系 教授",
+    "電子工程學系 教授"
+  ],
+  "currjob": [],
+  "otherExp": [
+    "國立台中商專 附設空中專科 兼任講師"
+  ],
+  "journal": [
+    {
+      "論文名稱": "Thin-Film Transistors",
+      "期刊名稱": "membranes (SSCI)",
+      "作者群": "Feng-Tso Chien *, Yu-Wei Chang and Jo-Chin Liu"
+    },
+    {
+      "論文名稱": "Normally-Off p-GaN Gated AlGaN/GaN MIS-HEMTs with ALD-Grown Al2O3/AlN Composite Gate Insulator",
+      "期刊名稱": "Membranes (SSCI,SCIE)",
+      "作者群": "Hsien-Chin Chiu*, Chia-Hao Liu, Chong-Rong Huang, Chi-Chuan Chiu, Hsiang-Chun Wang, Hsuan-Ling Kao, Shinn-Yn Lin and Feng-Tso Chien"
+    },
+    {
+      "論文名稱": "Raised Source/Drain (RSD) and Vertical Lightly Doped Drain (LDD) Poly-Si Thin-Film Transistor",
+      "期刊名稱": "Membranes (SCIE)",
+      "作者群": "Feng-Tso Chien*, Jing Ye, Wei-Cheng Yen, Chii-Wen Chen, Cheng-Li Lin, and Yao-Tsung Tsai"
+    },
+    {
+      "論文名稱": "Effect of transient behavior on off-state current in poly-Si junctionless nanowire thin-film transistor",
+      "期刊名稱": "Japanese Journal of Applied Physics (SCIE)",
+      "作者群": "Tsung-Kuei Kang, Che-Fu Hsu, Han-Wen Liu, Feng-Tso Chien, and Cheng-Li Lin"
+    },
+    {
+      "論文名稱": "150–200V Split-Gate Trench Power MOSFETs with Multiple Epitaxial Layers",
+      "期刊名稱": "micromachines (SCIE)",
+      "作者群": "Feng-Tso Chien*, Zhi-Zhe Wang, Cheng-Li Lin, Tsung-Kuei Kang, Chii-Wen Chen, and Hsien-Chin Chiu"
+    },
+    {
+      "論文名稱": "High Threshold Voltage Normally off Ultra-Thin-Barrier GaN MISHEMT with MOCVD-Regrown Ohmics and Si-Rich LPCVD-SiNx Gate Insulator",
+      "期刊名稱": "energies (SCIE)",
+      "作者群": "Hsiang-Chun Wang, Hsien-Chin Chiu, Chong-Rong Huang, Hsuan-Ling Kao, and Feng-Tso Chien"
+    },
+    {
+      "論文名稱": "Dynamic Behavior Improvement of Normally-Off p-GaN High-Electron-Mobility Transistor Through a Low-Temperature Microwave Annealing Process",
+      "期刊名稱": "IEEE Journal of the Electron Devices Society (SCIE)",
+      "作者群": "Hsien-Chin Chiu, Chin-Hao Liu, Yi-Seng Chang, Hsuan-Ling Kao, Rong Xuan, Chin-Wei Hu, and Feng-Tso Chien"
+    },
+    {
+      "論文名稱": "A Low Impact Ionization Rate Poly-Si TFT with a Current and Electric Field Split Design",
+      "期刊名稱": "coatings (SCIE)",
+      "作者群": "Feng-Tso Chien, Kuang-Po Hsueh, Zhen-Jie Hong, Kuan-Ting Lin, Yao-Tsung Tsai, and Hsien-Chin Chiu"
+    },
+    {
+      "論文名稱": "The Demonstration of Recessed Anodes AlGaN/GaN Schottky Barrier Diodes Using Microwave Cyclic Plasma Oxidation/Wet Etching Techniques",
+      "期刊名稱": "Japanese Journal of Applied Physics (SCIE)",
+      "作者群": "Kuang-Po Hsueh, Hsien-Chin Chiu, Hsiang-Chun Wang, Hsuan-Ling Kao, Feng-Tso Chien, and Wen-Yen Lin"
+    },
+    {
+      "論文名稱": "Double-Gate Two-Step Source/Drain Poly-Si Thin-Film Transistor",
+      "期刊名稱": "coatings (SCIE)",
+      "作者群": "Feng-Tso Chien, Chih-Ping Hung, Hsien-Chin Chiu, Tsung-Kuei Kang, Ching-Hwa Cheng,  and Yao-Tsung Tsai"
+    },
+    {
+      "論文名稱": "High Uniformity Normally-OFF p-GaN Gate HEMT Using Self-Terminated Digital Etching Technique",
+      "期刊名稱": "IEEE Trans on Electron Devices (SCIE)",
+      "作者群": "Hsien-Chin Chiu, Yi-Sheng Chang, Bo-Hong Li, Hsiang-Chun Wang, Hsuan-Ling Kao,  Feng-Tso Chien, Chih-Wei Hu and Rong Xuan"
+    },
+    {
+      "論文名稱": "Reliability Studies on AlGaN/GaN Metal-Insulator-Semiconductor High-Electron-Mobility Transistors with Through-Substrate via Technique and Backside Heat Sink Metal on Silicon-on-Insulator Substrates",
+      "期刊名稱": "ECS, Journal of Solid State Science and Technology (SCIE)",
+      "作者群": "Kuang-Po Hsueh, Hou-Yu Wang, Hsiang-Chun Wang, Hsuan-Ling Kao, Feng-Tso Chien, Chih_Tien Chen, Kuo-Jen Chang, and Hsien-Chin Chiu"
+    },
+    {
+      "論文名稱": "2.4 kV Vertical GaN PN Diodes on Free Standing GaN Wafer Using CMOS-Compatible Contact Materials",
+      "期刊名稱": "IEEE Journal of the Electron Devices Socity (SCIE)",
+      "作者群": "Xinke Liu, Hsien-Chin Chiu, Hou-Yu Wang, Cong Hu, Hsiang-Chun Wang, Hsuan-Ling Kao and Feng-Tso Chien"
+    },
+    {
+      "論文名稱": "A novel thin-film transistor with step gate-overlapped lightly doped drain and raised source/drain design",
+      "期刊名稱": "Solid-State Electronics (SCIE)",
+      "作者群": "Feng-Tso Chien , Jian-Liang Chen , Chien-Ming Chen , Chii-Wen Chen , Ching-Hwa Cheng , Hsien-Chin Chiu"
+    },
+    {
+      "論文名稱": "Effect of N2O/BCl3 Cyclical Recess Etching Technique Used Prior to Anode Metal Deposition in AlGaN/GaN Schottky Barrier Diodes",
+      "期刊名稱": "ECS Journal of Solid State Science and Technology (SCIE)",
+      "作者群": "Kuang-Po Hsueh , Hsiang-Chun Wang , Shang-Cyun Chen , Jiun-Wei Chiu ,  Bo-Hong Li , Feng-Tso Chien and Hsien-Chin Chiu"
+    },
+    {
+      "論文名稱": "Clean-Induced Instability of Electrical Characteristics in Poly-Si Junctionless Nanowire Transistor",
+      "期刊名稱": "Electronic Commerce Studies (Electronic Commerce Studies)",
+      "作者群": "Tsung-Kuei Kang, Wei-Hao Chen, Han-Wen Liu, Feng-Tso Chien, Cheng-Li Lin, and Fang-Hsing Wang"
+    },
+    {
+      "論文名稱": "Electrical characterization of a gate-recessed AlGaN/GaN high-electron-mobility transistor with a p-GaN passivation layer",
+      "期刊名稱": "Journal of Vacuum Science & Technology B (SCIE)",
+      "作者群": "Kuang-Po Hsueh, Feng-Tso Chien, Li-Yi Peng, Chih-Wei Yang, Hou-Yu Wang, Kai-Di Mai, and Hsien-Chin Chiu"
+    },
+    {
+      "論文名稱": "A High-Current Kink Effect Free Z-Gate Poly–Si Thin-Film Transistor",
+      "期刊名稱": "IEEE Electron Device Letters (SCIE)",
+      "作者群": "Feng-Tso Chien, Cheng-Hao Yu, Chii-Wen Chen, Ching-Hwa Cheng, Tsung-Kuei Kang, and Hsien-Chin Chiu"
+    },
+    {
+      "論文名稱": "Reduction of Kink Effect of Poly-Si TFT With Bottom Field Plate by Dispersing Current Density Technique",
+      "期刊名稱": "IEEE Transactions on Electron Devices (SCIE)",
+      "作者群": "Tsung-Kuei Kang, Yu-Han Chen, Feng-Tso Chien, Cheng-Li Lin, Fang-Hsing Wang, and Han-Wen Liu"
+    },
+    {
+      "論文名稱": "The ESD protection characteristic and low-frequency noise analysis of GaN Schottky barrier diode with fluorine-based plasma treatment",
+      "期刊名稱": "Microelectronics Reliability (SSCI)",
+      "作者群": "Hsien-Chin Chiu*, Ji-Fan Chi, Hsuan-Ling Kao, Chia-Yi Chu, Kuan-Liang Cho, and Feng-Tso Chien"
+    },
+    {
+      "論文名稱": "Temperature dependency and reliability of through substrate via InAlN/GaN high electron mobility transistors as determined using low frequency noise measurement",
+      "期刊名稱": "Japanese Journal of Applied Physics (SCIE)",
+      "作者群": "Hsien-Chin Chiu*, Li-Yi Peng, Hou-Yu Wang, Hsiang-Chun Wang, Hsuan-Ling Kao, Feng-Tso Chien, Jia-Ching Lin, Kuo-Jen Chang, and Yi-Cheng Cheng"
+    },
+    {
+      "論文名稱": "Improved Retention Characteristics of Pd-Nanocrystal-Based\r\nNonvolatile Memories by a Simple Timing Technique",
+      "期刊名稱": "Electrochemical Society Solid State Letters (SCIE)",
+      "作者群": "Tsung-Kuei Kang, Yun-Feng Chen, Cheng-Li Lin, Fang-Hsing Wang, Han-Wen Liu, Feng-Tso Chien, and Jen-Bin Shia"
+    },
+    {
+      "論文名稱": "Investigation of impact ionization and flicker noise properties in indium aluminum arsenide/indium gallinum arsenide metamorphic high electron mobility transistors with various \r\nwork function-gate metals",
+      "期刊名稱": "Materials Science in Semiconductor Processing (SCIE)",
+      "作者群": "Hsien-Chin Chiu*, Chia-Hsuan Wu, Che-Kai Lin and Feng-Tso Chien"
+    },
+    {
+      "論文名稱": "High-performance, micromachined GaN-on-Si high-electron-mobility transistor with backside diamondlike carbon/titanium heat-dissipation layer",
+      "期刊名稱": "Applied Physics Express (SCIE)",
+      "作者群": "Hsien-Chin Chiu*, Chih-Wei Yang, Hsiang-Chun Wang, Hsuan-Ling Kao, Nai-Chuan Chen, Feng-Tso Chien and Ming-Chi Kan"
+    },
+    {
+      "論文名稱": "Device characteristics of AlGaN/GaN MIS–HEMTs with high-k HfxZr1xO2 (x = 0.66, 0.47, 0.15) insulator layer",
+      "期刊名稱": "Microelectronics Reliability (SCIE)",
+      "作者群": "Hsien-Chin Chiu*, Chia-Hsuan Wu, Ji-Fan Chi , Feng-Tso Chien"
+    },
+    {
+      "論文名稱": "功率金氧半電晶體(Power MOSFET)之簡介",
+      "期刊名稱": "電子資訊 (專題報導)",
+      "作者群": "簡鳳佐"
+    },
+    {
+      "論文名稱": "Poly Si Nanowire Thin Film Transistors With Vacuum Gap Design",
+      "期刊名稱": "Institute of Electrical and Electronics Engineers (Institute of Electrical and Electronics Engineers)",
+      "作者群": "Tsung-Kuei Kang, Ysung-Yu Yang, and Feng-Tso Chien"
+    },
+    {
+      "論文名稱": "Device characteristics of AlGaN/GaN MIS–HEMTs with high-k HfxZr1−xO2 (x=0.66,0.47,0.15) insulator layer",
+      "期刊名稱": "ELSEVIER Microelectronics Reliability (SCIE)",
+      "作者群": "Hsien-Chin Chiu, Chia-Hsuan Wu, Ji-Fan Chi, and Feng-Tso Chien"
+    },
+    {
+      "論文名稱": "An investigation of device reliability for a micro-machined AlGaN/GaN/Si high electron mobility transistor using low frequency noise measurement",
+      "期刊名稱": "Microelectronic Engineering (SCIE)",
+      "作者群": "Hsien_Chin Chiu*,Hsiang-Chun Wang, Chia-Hsuan Wu, Fan-Hsiu Huang, Hsuan-Ling Kao, Feng-Tso Chien"
+    },
+    {
+      "論文名稱": "Characteristics of AlGaN/GaN HEMTs With Various Field-Plate and Gate-to-Drain Extensions",
+      "期刊名稱": "IEEE Trans. on Electron Devices (SCIE)",
+      "作者群": "Hsien-Chin Chiu ; Chih-Wei Yang ; Hsiang-Chun Wang ; Fan-Hsiu Huang ; Hsuan-Ling Kao ; Feng-Tso Chien"
+    },
+    {
+      "論文名稱": "Sidewall defects of AlGaN/GaN HEMTs evaluated by low frequency noise analysis",
+      "期刊名稱": "Microelectronics Reliability (SCIE)",
+      "作者群": "Hsien-Chin Chiu,Chao-Hung Chen, Hsuan-Ling Kao, Feng-Tso Chien, Ping-Kuo Weng,Yan-Tang Gau, Hao-Wei Chuang"
+    },
+    {
+      "論文名稱": "Low gate interface traps AlGaN/GaN HEMTs using a lattice matched ZrZnO transparent gate design",
+      "期刊名稱": "Microelectronics Reliability (SCIE)",
+      "作者群": "Hsien-Chin Chiu, Hsiang-Chun Wang, Chao-Wei Lin, Yi-Cheng Luo, Hsuan-Ling Kao,Feng-Tso Chien, Ping-Kuo Weng, etc"
+    },
+    {
+      "論文名稱": "A Novel Self-Aligned Double-Channel Polysilicon Thin-Film Transistor",
+      "期刊名稱": "IEEE Trans. on Electron Devices (SCIE)",
+      "作者群": "Feng-Tso Chien ; Chii-Wen Chen ; Tien-Chun Lee ; Chi-Ling Wang ; Ching-Hwa Cheng ; Tsung-Kuei Kang ; Hsien-Chin Chiu"
+    },
+    {
+      "論文名稱": "High thermal stability and low hysteresis dispersion AlGaN/GaN MOS-HEMTs with zirconia film design",
+      "期刊名稱": "Microelectronics Reliability (SCIE)",
+      "作者群": "Chao-Hung Chen, Hsien-Chin Chiu, Feng-Tso Chien, Hao-Wei Chuang, Kuo-Jen Chang, Yau-Tang Gau"
+    },
+    {
+      "論文名稱": "Low frequency noise in field-plate multigate AlGaN/GaN single-pole–single-throw RF switches on silicon substrate",
+      "期刊名稱": "ELSEVIER Microelectronics Reliability (SCIE)",
+      "作者群": "Hsien-Chin Chiu, Chao-Wei Lin, Fan-Hsiu Huang, Hsuan-Ling Kao, Feng-Tso Chien, Hao-Wei Chuang, Kuo-Jen Chang, and Yau-Tang Gau"
+    },
+    {
+      "論文名稱": "Investigation on the thermal behavior of 0.15 μm gate-length In0.4Al0.6As/In0.4Ga0.6As MHEMT",
+      "期刊名稱": "Microelectronics Reliability (SCIE)",
+      "作者群": "Che-Kai Lin, Hsien-Chin Chiu, Chao-Wei Lin, Hsuan-ling Kao, Feng-Tso Chien"
+    },
+    {
+      "論文名稱": "Novel GaAs enhancement-mode/depletion-mode pHEMTs technology using high-k praseodymium oxide interlayer",
+      "期刊名稱": "Microelectronics Reliability (SCIE)",
+      "作者群": "Chao-Hung Chen,Hsien-Chin Chiu,Chih-Wei Yang,Jeffrey S.Fu,Feng-Tso Chien"
+    },
+    {
+      "論文名稱": "Characterization of enhancement-mode AlGaN/GaN high electron mobility transistor using N2O plasma oxidation technology",
+      "期刊名稱": "Appl. Phys. Lett. (SCIE)",
+      "作者群": "Hsien-Chin Chiu,Chih-Wei Yang,Chao-Hung Chen,Jeffrey S.Fu,and Feng-Tso"
+    },
+    {
+      "論文名稱": "A Novel Self-Aligned Raised Source/Drain Polysilicon Thin-Film Transistor With a High Current Structure",
+      "期刊名稱": "IEEE ELECTRON DEVICE LETTERS (SCIE)",
+      "作者群": "Feng-Tso Chien,Chii-Wen Chen,Chien-Nan Liao,Tien-Chun Lee,Chi-Ling Wang Ching-Hwa Cheng Hsien-Chin Chiu,and Yao-Tsung Tsai"
+    },
+    {
+      "論文名稱": "Low Frequency Noise Analysis of Top-Gate MgZnO Thin-Film Transistor with High-k ZrO2 Gate Insulator",
+      "期刊名稱": "Electrochem. Solid-State Lett. (SCIE)",
+      "作者群": "Hsien-Chin Chiu,Hsiang-Chun Wang, Che-Kai Lin,Chau-Wei Chiu, Jeffrey S.Fu,Kuang-Po Hsueh,and Feng-Tso Chien"
+    },
+    {
+      "論文名稱": "A Kink-Effect Free Poly-Si Thin-Film Transistor with Current and Electric Field Split Structure Design",
+      "期刊名稱": "IEEE Trans. Electron Devices (SCIE)",
+      "作者群": "Feng-Tso Chien, and Yi-Ju Chen"
+    },
+    {
+      "論文名稱": "高靈敏度掃描電容顯微術之發展與應用",
+      "期刊名稱": "科儀新知 ()",
+      "作者群": "張茂男, 黃智超, 簡鳳佐"
+    },
+    {
+      "論文名稱": "掃描電流顯微鏡的發展與其在矽基元件之應用",
+      "期刊名稱": "電子月刊 ()",
+      "作者群": "黃智超, 周棟煥, 呂秉叡, 張茂男, 簡鳳佐"
+    },
+    {
+      "論文名稱": "High Voltage Power MOSFET with Reduced JFET Area Design",
+      "期刊名稱": "IEEE PEDG (EI)",
+      "作者群": "Feng-Tso Chien, Tien-Chun Li, Ping-hung Lai, Chien-Nan Liao, and Yao-Tsung Tsai"
+    },
+    {
+      "論文名稱": "Comparison of Termination Structure Design by Device Simulator",
+      "期刊名稱": "IEEE PEDG (EI)",
+      "作者群": "Chien-Nan Liao, Ping-hung Lai, Tien-Chun Li, Feng-Tso Chien, and Yao-Tsung Tsai"
+    },
+    {
+      "論文名稱": "A New RSD Poly-Si Thin Film Transistor with Inside Spacer Poly-Si Design",
+      "期刊名稱": "IEEE Trans. Electron Devices (SCIE)",
+      "作者群": "Feng-Tso Chien, and Ming-Che Chang"
+    },
+    {
+      "論文名稱": "Low Gate Leakage Current HFET Structure Fabricated by Using a Step-free Airbridge Gate Process",
+      "期刊名稱": "Journal of the Korean Physical Society (SCIE)",
+      "作者群": "Feng-Tso Chien, Chien-Liang Chan, Chi-Ling Wang, Chien-Nan Liao, Yao-Tsung Tsai, Hsien-Chin Chiu"
+    },
+    {
+      "論文名稱": "A Low Insertion Loss GaAs pHEMT Switch Utilizing Dual n+-Doping AlAs Etching Stop Layers Design",
+      "期刊名稱": "Solid-State Electronics (SCIE)",
+      "作者群": "Feng-Tso Chien, Da-Wei Lin, Chih-Wei Yang, Jeffrey S. Fu and Hsien-Chin Chiu"
+    },
+    {
+      "論文名稱": "A comparison study of CMOS T/R switches using gate/source-terminated field plate transistor",
+      "期刊名稱": "Microelectronic Engineering (SCIE)",
+      "作者群": "Chien-Cheng Wei, Hsien-Chin Chiu, Shao-Wei Lin, Ting-Huei Chen, Jeffrey S. Fu, Feng-Tso Chien"
+    },
+    {
+      "論文名稱": "Voltage-controlled oscillator phase noise improvement using GaAs\r\n0.5 um Pt-buried gate enhancement-mode pHEMT",
+      "期刊名稱": "Semiconductor Science and Technology (SCIE)",
+      "作者群": "H-C Chiu, P-Y Ke, C-Y Kuo, J-S Fu, C-W Yang, F-T Chien"
+    },
+    {
+      "論文名稱": "High Performance Double-Channel Poly-Silicon Thin Film Transistor with Raised Drain and Reduced Drain Electric Field Structures",
+      "期刊名稱": "IEEE Trans. Electron Devices (SCIE)",
+      "作者群": "Feng-Tso Chien, Chien-Nan Liao, Chin-Mu Fang, Yao-Tsung Tsai"
+    },
+    {
+      "論文名稱": "Optimizing Design of Breakdown Voltage to Eliminate Back Gate Bias Effect in Silicon-on-Insulator Diode Using Low Doping Buried Layer",
+      "期刊名稱": "Chinese Physics Letters (SCIE)",
+      "作者群": "Ho Chi-Hon, Liao Chien-Nan,Chien Feng-Tso, Tsai Yao-Tsung"
+    },
+    {
+      "論文名稱": "A Novel High-Performance Poly-Silicon Thin-Film Transistor With a Double-Channel Structure",
+      "期刊名稱": "IEEE Electron Device Lett. (SCIE)",
+      "作者群": "Feng-Tso Chien, Chin-Mu Fang, Chien-Nan Liao, Chii-Wen Chen, Ching-Hwa Cheng, and Yao-Tsung Tsai"
+    },
+    {
+      "論文名稱": "High performance power VDMOSFETs with split-gate floating NP-well",
+      "期刊名稱": "Semicond. Sci. Technol. (SCIE)",
+      "作者群": "Chien-Nan Liao, Feng-Tso Chien, Chii-Wen Chen, Ching-Hwa Cheng, and Yao-Tsung Tsai"
+    },
+    {
+      "論文名稱": "An Analytical Model for Silicon-on-Insulator Reduced Surface Field Devices with Semi-Insulating Polycrystalline Silicon Shielding Layer",
+      "期刊名稱": "Jpn. J. Appl. Phys. (SCIE)",
+      "作者群": "Chi-Hon Ho, Chien-Nan Liao, Feng-Tso Chien, and Yao-Tsung Tsai"
+    },
+    {
+      "論文名稱": "Nonalloyed ohmic contact formation in Ti/Al contacts to n-type AlGaN",
+      "期刊名稱": "J. Phys. D: Appl. Phys. (SCIE)",
+      "作者群": "Yow-Jon Lin, Feng-Tso Chien, Ching-Ting Lee, Chi-Shin Lin, and Yang-Chun Liu"
+    },
+    {
+      "論文名稱": "An 3-5 GHz Ultra Wideband Low Noise Amplifier Using InGaP/InGaAs Enhancement-Mode pHEMT Technology",
+      "期刊名稱": "Microwave Journal (SCIE)",
+      "作者群": "Hsien-Chin Chiu, Chia-Shih Cheng, Chien-Cheng Wei, Yuan-Jui Shih, Shao-Wei Lin, and Feng-Tso Chien"
+    },
+    {
+      "論文名稱": "Study of Drain Alloy for Antimony Substrate Vertical High Voltage Power MOSFETs",
+      "期刊名稱": "Jpn. J. Appl. Phys. (SCIE)",
+      "作者群": "Chien-Nan Liao, Feng-Tso Chien, Chii-Wen Chen, and Yao-Tsung Tsai"
+    },
+    {
+      "論文名稱": "GaAs pseudomorphic HEMT with insulating gate films formed by P2S5/(NH4)2SX sulfurization of recessed GaAs surface",
+      "期刊名稱": "Semicond. Sci. Technol. (SCIE)",
+      "作者群": "Hsien-Chin Chiu, Yuan-Chang Huang, Liann-Be Chang, and Feng-Tso Chien"
+    },
+    {
+      "論文名稱": "Low On-Reesistance Trench Power MOSFETs",
+      "期刊名稱": "Electron. Lett. (SCIE)",
+      "作者群": "Feng-Tso Chien, Chien-Nan Liao, C-L Wang, H-C Chiu, and Y-T Tsai"
+    },
+    {
+      "論文名稱": "Device Linearity and Gate Voltage Swing Improvement by Al0.3Ga0.7As/In0.15Ga0.85As Double Doped-Channel Design",
+      "期刊名稱": "Semiconductor Science and Technology 23(3):035009 (SCIE)",
+      "作者群": "Feng-Tso Chien, Hsien-Chin Chiu, Shin-Cheng Yang, Chii-Wen Chen, and Yi-Jen Chan"
+    },
+    {
+      "論文名稱": "Device linearity improvement of In0.49Ga0.51P/In0.15Ga0.85As doped-channel FETs with a metal plug alloy process",
+      "期刊名稱": "Semicond. Sci. Technol. (SCIE)",
+      "作者群": "Feng-Tso Chien, Chien-Nan Liao, J-M Yin, H-C Chiu, and Y-T Tsai,"
+    },
+    {
+      "論文名稱": "COMPUTER-AIDED EVOLUTION FOR SOLVING THE ANALYTIC KRONIG-PENNY MODEL",
+      "期刊名稱": "J. Chin. Inst. Eng. (SCIE)",
+      "作者群": "Chi-Hon Ho, Szu-Ju Li, Chien-Nan Liao, Feng-Tso Chien, and Yao-Tsung Tsai"
+    },
+    {
+      "論文名稱": "Potential and Electric Field Distribution Analysis of Field Limiting Ring and Field Plate by Device Simulator",
+      "期刊名稱": "IEEE PEDS (EI)",
+      "作者群": "C.N. Liao, Feng Tso Chien, Y.T. Tsai"
+    },
+    {
+      "論文名稱": "A Novel Power MOSFET Structure with Shallow Junction Dual Well Design",
+      "期刊名稱": "IEICE Transactions on Electronics (SCIE)",
+      "作者群": "C-N Liao, Feng-Tso Chien, C-L Wang, H-C Chiu, and Y-J Chan"
+    },
+    {
+      "論文名稱": "Correlation between Structural and Optical Properties of 30nm and 60nm Lead Sulfide Nanowires",
+      "期刊名稱": "Materials Letter (SCIE,0SCI 34/94,1.625)",
+      "作者群": "Wu*,Chien,Jen-Bin Shi(施仁斌),Chih-Jung Chen,Yu-Cheng Chen,Po-Feng Wu, Jer-Yan Lin"
+    },
+    {
+      "論文名稱": "A Novel High Channel Density Trench Power MOSFETs Design by Asymmetric Wing-cell Structure",
+      "期刊名稱": "IEEE EPE (EI)",
+      "作者群": "Feng-Tso Chien, Chien-Nan Liao, Yao-Tsung Tsai"
+    },
+    {
+      "論文名稱": "A Poly-Si Thin-Film Transistor with the In Situ Vacuum Gaps under the T-Shaped-Gated Electrode",
+      "期刊名稱": "Electrochemical and Solid-State Letters (SCIE)",
+      "作者群": "T.C. Liao, C.Y. Wu, F.T Chien, C.C.Tsai, H.H.Chen, C.Y.Kung,and H.C. Cheng"
+    },
+    {
+      "論文名稱": "高切換速率高功率（1000V）金氧半電晶體設計",
+      "期刊名稱": "工程科技通訊 ()",
+      "作者群": "貢中元、王曉君、簡鳳佐、廖建男"
+    },
+    {
+      "論文名稱": "掃描電容顯微術於低溫退火影響硼摻雜原子活化行為之研究",
+      "期刊名稱": "奈米通訊 ()",
+      "作者群": "鄭皓達, 簡鳳佐, 張茂男"
+    },
+    {
+      "論文名稱": "High Performance Power MOSFETs by Wing-cell Structure Design",
+      "期刊名稱": "IEICE Transactions on Electronics (SSCI)",
+      "作者群": "Feng-Tso Chien. J-N Liao, C-L Wang, and H-C Chiu"
+    },
+    {
+      "論文名稱": "Induced changes in surface band bending of n-type and p-type AlGaN by oxidation and wet chemical treatments",
+      "期刊名稱": "J. Appl. Phys. (SCIE)",
+      "作者群": "Yow -Jon Lin, Yow-Lin Chu, Wen-Xiang Lin, Feng-Tso Chien, and Chi-Sen Lee"
+    },
+    {
+      "論文名稱": "Changes in optical and electrical properties and surface recombination velocity of n-type GaN due to (NH4)2Sx treatment",
+      "期刊名稱": "Solid State Communications (SCIE)",
+      "作者群": "Y. J. Lin, W. X. Lin, C. T. Lee, and F. T. Chien"
+    },
+    {
+      "論文名稱": "Optical properties of heavily Mg-doped p-GaN films prepared by reactive ion etching",
+      "期刊名稱": "Jpn. J. Appl. Phys. (SCIE)",
+      "作者群": "Y. J. Lin, Y. L. Chu, D. S. Liu, C. S. Lee, and F. T. Chien"
+    },
+    {
+      "論文名稱": "Device Performance Improvement of InGaP/InGaAs Doped Channel FETs",
+      "期刊名稱": "IEEE Electron Device Lett. (SCIE)",
+      "作者群": "Feng-Tso Chien, Jin-Mu Yin, Hsien-Chin Chiu, and Yi-Jen Chan"
+    },
+    {
+      "論文名稱": "淺接面結構對功率電晶體電性改善之研究",
+      "期刊名稱": "明新學報 ()",
+      "作者群": "陳啟文,顏培仁,吳明瑞,簡鐸欣,簡鳳佐,董正暉,涂高維,蘇世宗"
+    },
+    {
+      "論文名稱": "功率金氧半場效應電晶體量測技術",
+      "期刊名稱": "電子月刊 ()",
+      "作者群": "簡鳳佐, 廖健男"
+    },
+    {
+      "論文名稱": "High Ruggedness Power MOSFET Design by a Self-Align p+ Process",
+      "期刊名稱": "IEICE TRANSACTIONS on Electronics (SCIE)",
+      "作者群": "Feng-Tso Chien,Ming-Hung Lai,Shih-Tzung Su,Kou-Way Tu,Ching-Ling Cheng"
+    },
+    {
+      "論文名稱": "High Ruggedness Power MOSFET Design by a Self-Align p+ Process",
+      "期刊名稱": "IEICE TRANSACTIONS on Electronics (SCIE)",
+      "作者群": "Feng-Tso Chien, Ming-Hung Lai, Shih-Tzung Su, Kou-Way Tu and Ching-Ling Cheng"
+    },
+    {
+      "論文名稱": "Nitrogen-vacancy-related defects and Fermi level pinning in n-GaN Schottky diodes",
+      "期刊名稱": "Journal of Applied Physics (SCIE)",
+      "作者群": "Y. J. Lin, Q. Ker, C. Y. Ho, H. C. Chang, and F. T. Chien"
+    },
+    {
+      "論文名稱": "Stability Investigation of Single-Wafer Process by Using a Spin Etcher",
+      "期刊名稱": "Electrochemcal and Solid-State Lett. (SCIE)",
+      "作者群": "Tsung-Kuei Kang, Chih-Cheng Wang, Bing-Yue Tsui, Wen-Luh Yang,*, Feng-Tso Chien, Shui-Yuan Yang, Chin-Yen Chang , and Yuan-Hsin Li"
+    },
+    {
+      "論文名稱": "Investigation of degradation for ohmic performance of oxidized Au/Ni/Mg-doped GaN",
+      "期刊名稱": "Applied Physics Letters (SCIE)",
+      "作者群": "Y. J. Lin, Z. D. Li, C. W. Hsu, F. T. Chien, C. T. Lee, S. T. Shao, H. C. Chang"
+    },
+    {
+      "論文名稱": "功率元件之閘極寬度的最佳化設計",
+      "期刊名稱": "明新學報 ()",
+      "作者群": "顏培仁,陳啟文,吳明瑞,涂高維,簡鳳佐"
+    },
+    {
+      "論文名稱": "高壓電晶體結構之最佳化設計",
+      "期刊名稱": "明新學報 ()",
+      "作者群": "吳明瑞，陳啟文，李佑仁，簡鳳佐，涂高維"
+    },
+    {
+      "論文名稱": "Improved Device Linearity of AlGaAs/InGaAs HFETs By a Second Mesa Etching",
+      "期刊名稱": "IEEE Electron Device Lett (SCIE)",
+      "作者群": "Hsien-Chin Chiu, Shih-Cheng Yang, Feng-Tso Chien, and Yi-Jen Chan"
+    },
+    {
+      "論文名稱": "RIE Gate-Recessed (Al0.3Ga0.7)0.5In0.5P /InGaAs Double Doped-Channel FETs Using CHF3+BCl3 Mixing Plasma",
+      "期刊名稱": "IEEE Electron Device Lett. (SCIE)",
+      "作者群": "Shih-Cheng Yang, Hsien-Chin Chiu, Feng-Tso Chien, Yi-Jen Chan, and Jenn-Ming Kuo"
+    },
+    {
+      "論文名稱": "High Power Density of AlGaAs/InGaAs Doped-channel FETs with Low DC Power Supply",
+      "期刊名稱": "Electronics Letters (SCIE)",
+      "作者群": "Hsien-Chin Chiu, Shih-Cheng Yang, Feng-Tso Chien, and Yi-Jen Chan"
+    },
+    {
+      "論文名稱": "Monolithically Integrated Optoelectronic Receivers by AlGaAs/InGaAs Doped-channel Heterostructures",
+      "期刊名稱": "Microwave and Optical Tech. Lett. (SCIE)",
+      "作者群": "Feng-Tso Chien, Ching-Wei Kuo, and Yi-Jen Chan"
+    },
+    {
+      "論文名稱": "Microwave Power Performance Comparison Between Single and Dual Doped-Channel Design in AlGaAs/InGaAs HEFT's",
+      "期刊名稱": "IEEE Electron Device Lett. (SCIE)",
+      "作者群": "Feng-Tso Chien, Chien-Chin Chiol, and Yi-Jen Chan"
+    },
+    {
+      "論文名稱": "Reducing Source and Drain Resistances in InGaP/InGaAs doped-channel HEFTs using 鯋-doping Schottky Layer",
+      "期刊名稱": "Electron. Lett. ()",
+      "作者群": "Hsien-Chin Chiu, Feng-Tso Chien, Shin-Cheng Yang, Ching-Wei Kuo, and Yi-Jen Chan"
+    },
+    {
+      "論文名稱": "Improved AlGaAs/InGaAs HEFTs due to double doped-channel design",
+      "期刊名稱": "Electron. Lett. (SCIE)",
+      "作者群": "Feng-Tso Chien and Yi-Jen Chan"
+    },
+    {
+      "論文名稱": "Bandwidth enhancement of transimpedance amplifier by a capacitive-peaking design",
+      "期刊名稱": "IEEE Journal of Solid-State Circuits (SCIE)",
+      "作者群": "Feng-Tso Chien and Yi-Jen Chan"
+    },
+    {
+      "論文名稱": "Improved Voltage Gain of Transimpedance Amplifier by AlGaAs/InGaAs Doped-channel FETs",
+      "期刊名稱": "IEEE Trans. Electron Devices (SCIE)",
+      "作者群": "Feng-Tso Chien and Yi-Jen Chan"
+    },
+    {
+      "論文名稱": "Transimpedance amplifiers fabricated with In0.52Al0.48As/In0.53Ga0.47As Doped- channel Heterostructures",
+      "期刊名稱": "Electron. Lett. (SCIE)",
+      "作者群": "Feng-Tso Chien and Yi-Jen Chan"
+    }
+  ],
+  "journal2": [],
+  "conference": [
+    {
+      "論文名稱": "650 V Multiple Floating P Oxide-Trenches High Conductivity Insulated Gate Bipolar Transistor Design",
+      "會議名稱": "2025 The 8th International Conference on Electronics, Communications and Control Engineering ( ICECC)",
+      "作者群": "Chih-Hung Hsu、Chih-Chia Hu、Zhan-Shuo Dong、Feng-Tso Chien"
+    },
+    {
+      "論文名稱": "600V Insulated Gate Bipolar Transistor \nDesign for Improving Breakdown Voltage in Trench Floating P-Well Charge Storage Layer Gate Bipolar Transisto",
+      "會議名稱": "ICECC 2024 The 7th International Conference on Electronics, Communications and Control Engineering",
+      "作者群": "Chien,Feng,Tso 、Lee, Chao, Chan、 Kao, Yi, Sheng 、Yen, Shih, Keng 、Xie, Shang, Rong"
+    },
+    {
+      "論文名稱": "Short Channel Thin-Film Transistors Designed by the Concept of Power MOSFET Split-Gate Trench Structure",
+      "會議名稱": "International Electron Devices & Materials Symposium 2020",
+      "作者群": "Jing Ye, Wei-Cheng Yen, Zhi-Zhe Wang, Feng-Tso Chien, and Yao-Tsung Tsai"
+    },
+    {
+      "論文名稱": "High Performance Double Gate Poly-Si Thin Film Transistor Design by Adding a Equipotential Drain",
+      "會議名稱": "International Electron Devices & Materials Symposium 2020",
+      "作者群": "Wei-Cheng Yen, Jing Ye, Zhi-Zhe Wang, Feng-Tso Chien, and Yao-Tsung Tsai"
+    },
+    {
+      "論文名稱": "High Performance Double-Gate Polycrystalline-silicon Thin-Film Transistors with Split-Drain Together with a Vertical Light Doping Drain Design",
+      "會議名稱": "2019 Asia-Pacific Workshop on Fundamentals and Applications of Advanced Semiconductor Devices",
+      "作者群": "Meng-Yuan Wu, Wei-Hsun Wang, Zhi-Zhe Wang, Ching-Hwa Cheng, and Feng-Tso Chien"
+    },
+    {
+      "論文名稱": "High Performance Split Gate Thin-Film Transistors with Vertical Filed Plate and Raised Source/Drain Design",
+      "會議名稱": "2019 Asia-Pacific Workshop on Fundamentals and Applications of Advanced Semiconductor Devices",
+      "作者群": "Wei-Hsun Wang, Meng-Yuan Wu, Chun-Yi Wang, Yu-Hsiang Cho ,and Feng-Tso Chien"
+    },
+    {
+      "論文名稱": "A novel four masks Bottom-Gate Poly-Si Thin-Film Transistors manufactured by using chemical mechanical planarization",
+      "會議名稱": "2019 Asia-Pacific Workshop on Fundamentals and Applications of Advanced Semiconductor Devices",
+      "作者群": "Yu-Hsiang Cho, Chun-Yi Wang, Wei-Hsun Wang, Yao-Tsung Tsai, and Feng-Tso Chien"
+    },
+    {
+      "論文名稱": "High Performance Resistive Multi-Gate Poly-Si Thin-Film Transistor",
+      "會議名稱": "2019 Asia-Pacific Workshop on Fundamentals and Applications of Advanced Semiconductor Devices",
+      "作者群": "Chun-Yi Wang, Meng-Yuan Wu, Yu-Hsiang Cho, Zhi-Zhe Wang, and Feng-Tso Chien"
+    },
+    {
+      "論文名稱": "High Performance Double-Gate Thin-Film Transistors with Split-Channel and Raised Source/Drain Design",
+      "會議名稱": "Asia-Pacific Workshop on Fundamentals and Applications of Advanced Semiconductor Devices",
+      "作者群": "Chung-Heng Hsieh, Wei-Hsun Wang, Meng-Yuan Wu, Yao-Tsung Tsai, and Feng-Tso Chien"
+    },
+    {
+      "論文名稱": "Suppression Kink Effect Poly-Si Thin-Film Transistors with Offset Design",
+      "會議名稱": "Asia-Pacific Workshop on Fundamentals and Applications of Advanced Semiconductor Devices",
+      "作者群": "Jia-Sheng Wang, Chun-Yi Wang, Yu-Hsiang Cho, Yao-Tsung Tsai, and Feng-Tso Chien"
+    },
+    {
+      "論文名稱": "High Performance Double-Gate Poly-Si Thin Film Transistor with Two-Step Source/Drain Design",
+      "會議名稱": "Asia-Pacific Workshop on Fundamentals and Applications of Advanced Semiconductor Devices",
+      "作者群": "Chuan-Wei Liu, Chung-Hemg Hsieh, and Feng-Tso Chien"
+    },
+    {
+      "論文名稱": "A Four Mask Poly-Si Thin Film Transistor with inside spacer",
+      "會議名稱": "Asia-Pacific Workshop on Fundamentals and Applications of Advanced Semiconductor Devices",
+      "作者群": "Hao-Cheng Kang, Feng-Tso Chien, and Jia-Sheng Wang"
+    },
+    {
+      "論文名稱": "A Novel Dual-Channel and Dual Field-Plate Thin-Film Transistor Combining Heavily Doped Poly-Si Spacer Design",
+      "會議名稱": "Asia-Pacific Workshop on Fundamentals and Applications of Advanced Semiconductor Devices",
+      "作者群": "Min-Jia Lyu, Yao-Tsung Tsai, and Feng-Tso Chien"
+    },
+    {
+      "論文名稱": "A Novel Split Channel Thin-Film Transistor combining Gate Overlapped Lightly Doped Spacer and Raised Source/Drain Structure",
+      "會議名稱": "Asia-Pacific Workshop on Fundamentals and Applications of Advanced Semiconductor Devices",
+      "作者群": "An-Cgih Li, Feng-Tso Chien, Hao-Cheng Kang, Min-jia Liou, and Yao-tsung Tsai"
+    },
+    {
+      "論文名稱": "A Novel Field-Plate Source Drain Double-Channel\r\nPolycrystalline-silicon Thin-Film Transistor with Raised Source/Drain\r\n",
+      "會議名稱": "Asia-Pacific Workshop on Fundamentals and Applications of Advanced Semiconductor Devices",
+      "作者群": "Jhang-Liang Chen, Feng-Tso Chien, Min-Jia Liou, Chuan-Wei Liu, and Yao-Tsung Tsai"
+    },
+    {
+      "論文名稱": "High Performance Double-Gate Poly-Si Thin Film Transistor with Gate Overlapped Lightly Doped and Raised Source Drain Structure",
+      "會議名稱": "2015 Macau Conference on Engineering, Technology, and Applied Science",
+      "作者群": "Chih-Ping Hung, Xian-Zhi Chen, and Feng-Tso Chien"
+    },
+    {
+      "論文名稱": "Ultra High Breakdown Voltage Poly-Si Thin Film Transistor With Resistive Multi-gates Design",
+      "會議名稱": "2015 Macau Conference on Engineering, Technology, and Applied Science",
+      "作者群": "Xian-Zhi Chen, Chih-Ping Hung, and Feng-Tso Chien"
+    },
+    {
+      "論文名稱": "A novel Double-Gate Thin-Film Transistors with split-gate and RSD design",
+      "會議名稱": "2015The Twentieth International Workshop on Active-Matrix Flat panel Displays and Devices(AM-FPD’15)",
+      "作者群": "Cheng-Hao You, Xian-Zhi Cheng, and Feng-Tso Chien"
+    },
+    {
+      "論文名稱": "Investigation of body bias effect in P-GaN Gate HEMT devices",
+      "會議名稱": "2014 Asia-Pacific Microwave Conference (APMC)",
+      "作者群": "Hsien-Chin Chiu, Li-Yi Peng, Chih-Wei Yang, Hsiang-Chun Wang, and Feng-Tso Chien"
+    },
+    {
+      "論文名稱": "Investigation of body bias effect in P-GaN Gate HEMT devices",
+      "會議名稱": "Microwave Conference (APMC), 2014 Asia-Pacific",
+      "作者群": "Hsien-Chin Chiu, Li-Yi Peng, Chih-Wei Yang, Hsiang-Chun Wang, and Feng-Tso Chien"
+    },
+    {
+      "論文名稱": "High Performance Raised Source/Drain Thin Film Transistor with Field Plate Design",
+      "會議名稱": "THE 21ND INTERNATIONAL WORKSHOP ON ACTIVE-MATRIX FLATPANEL DISPLAYS AND DEVICES — TFT Technologies and FPD Materials —",
+      "作者群": "Kuan-Ting Lin and Feng-Tso Chien"
+    },
+    {
+      "論文名稱": "High performance four-masks GOLDD TFT structure without additional ion implantation",
+      "會議名稱": "THE 21ND INTERNATIONAL WORKSHOP ON ACTIVE-MATRIX FLATPANEL DISPLAYS AND DEVICES — TFT Technologies and FPD Materials —",
+      "作者群": "Chien-Ming Chen and Feng-Tso Chien"
+    },
+    {
+      "論文名稱": "A Novel Poly-Si Thin Film Transistor with ONO Offset structure",
+      "會議名稱": "THE 21ND INTERNATIONAL WORKSHOP ON ACTIVE-MATRIX FLATPANEL DISPLAYS AND DEVICES — TFT Technologies and FPD Materials —",
+      "作者群": "Kun-Ye Liou and Feng-Tso Chien"
+    },
+    {
+      "論文名稱": "The High Performance GOLDD and RSD structure",
+      "會議名稱": "Asia-pacific workshop on fundamentals and applications of advanced semicondcutor devices",
+      "作者群": "Chien-Ming Chen and Feng-Tso Chien"
+    },
+    {
+      "論文名稱": "A Novel RSD Poly-Si Thin Film Transistor With Field Plate Design",
+      "會議名稱": "Asia-pacific workshop on fundamentals and applications of advanced semicondcutor devices",
+      "作者群": "Kun-Ye Liou, Kuan-Ting Lin, Chien-Ming Chen, and Feng-Tso Chien"
+    },
+    {
+      "論文名稱": "A Novel Raised Source/Drain Poly-Si Thin Film Transistor With oxide spacer regions",
+      "會議名稱": "Asia-pacific workshop on fundamentals and applications of advanced semicondcutor devices",
+      "作者群": "Kuan-Ting Lin, Chien-Ming Chen, Kun-Ye Liou, and Feng-Tso Chien"
+    },
+    {
+      "論文名稱": "Adjustable Breakdown Voltage and on Current Thin Film Transistors with Systemic Multi-gates",
+      "會議名稱": "2013 International Thin-File Transistor Conference on Novel Materials, Processing and Device0Circuit Integration",
+      "作者群": "林宗儒,簡鳳佐"
+    },
+    {
+      "論文名稱": "A Novel Four-Masks Botton gated Poly-Si Thin-File Transistor with Current and Electric Field Split RSD Design",
+      "會議名稱": "2013 International Thin-File Transistor Conference",
+      "作者群": "楊善任,簡鳳佐"
+    },
+    {
+      "論文名稱": "Superior Characteristics on Double Channel Thin Film Transistor by Using ONO Gate Dielectric",
+      "會議名稱": "International Electron Devices and Materials Symposium",
+      "作者群": "Chii-Wen Chen, Dong-Ying Hsieh, and  Feng-Tso Chien"
+    },
+    {
+      "論文名稱": "The study on A Novel Asymmetric Poly-Si Thin Film Transistor with Low Drain Electric Field",
+      "會議名稱": "Asia-pacific workshop on fundamentals and applications of advanced semicondcutor devices",
+      "作者群": "Meng-Shang Chi, Tsung-Ju Lin, Feng-Tso Chien, and Chii-Wen Chen"
+    },
+    {
+      "論文名稱": "A New RSD Bottom Gate Poly-Si Thin Film Transistor With Inside Spacer",
+      "會議名稱": "Asia-pacific workshop on fundamentals and applications of advanced semicondcutor devices",
+      "作者群": "Yi-Hsiang Chiu, Shan-Jen Yang, Feng-Tso Chie, and Chii-Wen Chen"
+    },
+    {
+      "論文名稱": "A Novel Extended Gate Poly-Si Thin Film Transistor with a Thicker Oxide Spacer Near The Source/Drain Region",
+      "會議名稱": "Asia-pacific workshop on fundamentals and applications of advanced semicondcutor devices",
+      "作者群": "C.Y.Chan and F.T.Chien"
+    },
+    {
+      "論文名稱": "A Novel Self-Aligned Offset Sub Gate High Performance Polysilicon Thin Film Transistor",
+      "會議名稱": "Asia-pacific workshop on fundamentals and applications of advanced semicondcutor devices",
+      "作者群": "K.C.Chang and F.T.Chien"
+    },
+    {
+      "論文名稱": "Comparison of Termination Structure Design by Device Simulator",
+      "會議名稱": "2nd IEEE International Symposium on Power Electronics for Distributed Generation Systems (PEDG)",
+      "作者群": "Chien-Nan Liao, Ping-hung Lai, Tien-Chun Li, Feng-Tso Chien, and Yao-Tsung Tsai"
+    },
+    {
+      "論文名稱": "An Efficiency Enhanced Mixed-Structure Charge Pump",
+      "會議名稱": "12th International Symosium on Integrated Circuits",
+      "作者群": "Zong-Han Hsieh, Nan-Xiong Huang, Miin-Shyue Shiau, Hong-Chong Wu, Don-Gey Liu"
+    },
+    {
+      "論文名稱": "High Voltage Power MOSFET with Reduced JFET Area Design",
+      "會議名稱": "2nd IEEE International Symposium on Power Electronics for Distributed Generation Systems (PEDG)",
+      "作者群": "Feng-Tso Chien, Tien-Chun Li, Ping-hung Lai, Chien-Nan Liao, and Yao-Tsung Tsai"
+    },
+    {
+      "論文名稱": "The sidewall effect of hardmask on dopant activation observed by scanning capacitance microscopy",
+      "會議名稱": "SNDT奈米元件技術研討會暨台灣半導體未來論壇",
+      "作者群": "Ping-Hung Lai, Mao-Nan Chang, Tung-Huan Chou, and Feng-Tso Chien"
+    },
+    {
+      "論文名稱": "Dynamic voltage domain assignment technique for low power performance manageable cell based design",
+      "會議名稱": "IEEE 15th Asia and South Pacific Design Automation Conference (ASP-DAC)",
+      "作者群": "Elone Lee, Feng-Tso Chien, Ching-Hwa Cheng, Jiun-In Guo"
+    },
+    {
+      "論文名稱": "A Novel LTPS-TFT-Based Charge-Trapping Memory Device with Field-Enhanced Nanowire Structure",
+      "會議名稱": "International Electron Devices Meeting",
+      "作者群": "T.C.Liao,S.K.Chen,M.H.Yu,C.Y.Wu,T.K.Kang,Feng-Tso Chien,Y.T.Liu,C.M.Lin and H.C.Cheng"
+    },
+    {
+      "論文名稱": "Reducing the Gate Charge of Dual Gate Power VDMOSFET by Pseudo-Gate",
+      "會議名稱": "International Conference on Solid State Devices and Materials",
+      "作者群": "C.N.Liao,Feng-Tso Chien,C.M.Lin,C.H.HO and Y.T.Tsai"
+    },
+    {
+      "論文名稱": "A New Combination of RSD and Inside Spacer",
+      "會議名稱": "Asia-pacific workshop on fundamentals and applications of advanced semicondcutor devices",
+      "作者群": "M.J.Chang,T.C.Li,Feng-Tso Chien,C.N.Liao and Y.T.Tsai"
+    },
+    {
+      "論文名稱": "A New Bottom-Gated Polysilicon Thin Film Transistor with Polysilicon Spacer",
+      "會議名稱": "Asia-pacific workshop on fundamentals and applications of advanced semiconductor devices",
+      "作者群": "Y.J.Chen,T.C.Li,Feng-Tso Chien,C.N.Liao and Y.T.Tsai"
+    },
+    {
+      "論文名稱": "A Low Insertion Loss GaAs pHEMT Switch Utilizing Highly n+-Doping AlAs Etching Stop Layer Design",
+      "會議名稱": "IEEE International Conference on Electron Devices and Solid-State Circuits, EDSCC",
+      "作者群": "Da-Wei Lin, Feng-Tso Chien,Chih-Wei Yang, Hsien-Chin Chiu"
+    },
+    {
+      "論文名稱": "Low Gate Charge Power VDMOSFETs with Dual-Gate Floating NP Well Design",
+      "會議名稱": "International Conference on Solid State Devices and Materials, SSDM",
+      "作者群": "Chien-Nan Liao, Feng-Tso Chien, Yao-Tsung Tsai"
+    },
+    {
+      "論文名稱": "雙磊晶結構改善垂直式雙擴散功率金氧半電晶體之導通電阻值及閘極電荷",
+      "會議名稱": "第七屆台灣電力電子研討會",
+      "作者群": "廖健男,李天鈞,簡鳳佐,蔡曜聰"
+    },
+    {
+      "論文名稱": "The Analysis of the Floating Field Limiting Ring and Field Plate",
+      "會議名稱": "Asia-pacific workshop on fundamentals and applications of advanced semiconductor devices, AWAD",
+      "作者群": "C-N Liao, J-C Huang, Feng-Tso Chien, C-H Cheng, Y-T Tsai"
+    },
+    {
+      "論文名稱": "Improvement of the Leakage by Second Thermal Oxidation Process Power Trench Gate MOSFET",
+      "會議名稱": "Asia-pacific workshop on fundamentals and applications of advanced semiconductor devices, AWAD",
+      "作者群": "C-N Liao, J-C Huang, Feng-Tso Chien, C-W Chen, Y-T Tsai"
+    },
+    {
+      "論文名稱": "Nondestructive Investigation of Dielectric Films by Conductive Atomic Force Microscopy",
+      "會議名稱": "Symposium on Nano Device Technology (SNDT)",
+      "作者群": "Ping-Jui Lu, Tung-Huan Chou, Mao-Nan Chang, Feng-Tso Chien"
+    },
+    {
+      "論文名稱": "Approach to Nondestructive Characterization of Dielectric Breakdown Strength by Conductive Atomic Force Microscopy",
+      "會議名稱": "20th Australian Conference on Microscopy & Microanalysis (ACMM-20) and  4th Congress of the International Union of Microbeam Analysis Societies in Perth",
+      "作者群": "M. N. Chang, T. H. Chou, P. J. Lu, F. T. Chien"
+    },
+    {
+      "論文名稱": "A Novel Power MOSFET Structure with shallow Junction Dual Well Design",
+      "會議名稱": "Th.27 電力工程研討會",
+      "作者群": "Chien Nan Liao,Feng Tso Chien,Y.T Tsai"
+    },
+    {
+      "論文名稱": "羽翼狀晶胞功率金氧半場效應電晶體之設計",
+      "會議名稱": "2006電力電子",
+      "作者群": "廖健男,簡鳳佐"
+    },
+    {
+      "論文名稱": "Microwave Performance of Pseudomorphic HEMT with Tunable Field-Plate Voltage",
+      "會議名稱": "International Conference on Solid State Devices and Materials (SSDM 2006),",
+      "作者群": "Hsien-Chin Chiu, Feng-Tso Chien"
+    },
+    {
+      "論文名稱": "Stability Study of Electrical Junction Formed by Low Energy Boron Implantation and Spike Annealing",
+      "會議名稱": "E-MRS",
+      "作者群": "Mao-Nan Chang, Hao-Ta Cheng, Feng-Tso Chien"
+    },
+    {
+      "論文名稱": "Scanning Capacitance Microscopic Investigation of Boron Activation Induced by Post-spike Low-temperature",
+      "會議名稱": "Symposium on Nano Device Technology, SNDT",
+      "作者群": "張茂男,鄭皓達,簡鳳佐"
+    },
+    {
+      "論文名稱": "A Novel Self-alignd Field Induced Drain Polycrystalline Silicon Thin Film Transistor with a Vacuum Cavity by Using a Selective Side Etch Process",
+      "會議名稱": "MRS Spring Meeting",
+      "作者群": "Ta-Chuan Liao, Chun-Yu Wu, Chun-Chien Tsai, Hsiu-Hsin Chen, Feng-Tso Chien, Chung-Yuan Kung, Huang-Chung Cheng"
+    },
+    {
+      "論文名稱": "Influence of Residual Point Defects on the Stability of Electrical Junctions",
+      "會議名稱": "ICPS",
+      "作者群": "Mao-Nan Chang, Hong-Min Lin, Hao-Ta Cheng, Feng-Tso Chien"
+    },
+    {
+      "論文名稱": "A Novel Power MOSFET Structure with Shallow Junction Dual Well Design",
+      "會議名稱": "Asia-Pacific Workshop on Fundamentals and Applications of Advanced Semiconductor Devices (AWAD), 2006",
+      "作者群": "Feng-Tso Chien, Chien-Nan Liao, Yei-Long Tsai, and Ching-Ling Cheng"
+    },
+    {
+      "論文名稱": "High Current, High Power, and High Linearity Ohmic Recess InGaP/InGaAs",
+      "會議名稱": "Asia-Pacific Workshop on Fundamentals and Applications of Advanced Semiconductor Devices (AWAD), 2006",
+      "作者群": "Feng-Tso Chien, Chien-Liang Chan, Chien-Nan Liao, Jin-Mu Yin, Hsien-Chin Chiu, and Feng-Tsun Chien"
+    },
+    {
+      "論文名稱": "A High Performance T-Shape Gate Poly-Si Thin Film Transistor With Vacuum Gaps Fabricated by Simple Selective Side-Etching Process",
+      "會議名稱": "ECS ISTC",
+      "作者群": "Chun-Yu Wu, Ta-Chuan Liao, Chung-Yuan Kung, Feng-Tso Chien, Huang-Chung Cheng"
+    },
+    {
+      "論文名稱": "The Study of Drain Alloy Time and Temperature for Antimony Substrate Vertical High Voltage Power MOSFETs",
+      "會議名稱": "Asia-Pacific Workshop on Fundamentals and Applications of Advanced Semiconductor Devices (AWAD)",
+      "作者群": "Feng Tsun Chien, Chien-Nan Liao, Chi-Ling Wang, and Feng-Tso Chien"
+    },
+    {
+      "論文名稱": "The Study of Drain Alloy Time and Temperature for Antimony Substrate Vertical High Voltage Power MOSFETs",
+      "會議名稱": "Asia-Pacific Workshop on Fundamentals and Applications of Advanced Semiconductor Devices (AWAD), 2006",
+      "作者群": "Feng Tsun Chien, Chien-Nan Liao, Chi-Ling Wang, and Feng-Tso Chien"
+    },
+    {
+      "論文名稱": "A High Performance T-Shape Gate Poly-Si Thin Film Transistor With Vacuum Gaps Fabricated by Simple Selective Side-Etching Process",
+      "會議名稱": "ECS ISTC",
+      "作者群": "Chun-Yu Wu, Ta-Chuan Liao, Chung-Yuan Kung, Feng-Tso Chien, Huang-Chung Cheng"
+    },
+    {
+      "論文名稱": "A High Performance T-Shape Gate Poly-Si Thin Film Transistor With Vacuum Gaps Fabricated by Simple Selective Side-Etching Process",
+      "會議名稱": "ECS ISTC",
+      "作者群": "Chun-Yu Wu, Ta-Chuan Liao, Chung-Yuan Kung, Feng-Tso Chien, Huang-Chung Cheng"
+    },
+    {
+      "論文名稱": "A High Performance T-Shape Gate Poly-Si Thin Film Transistor With Vacuum Gaps Fabricated by Simple Selective Side-Etching Process",
+      "會議名稱": "ECS ISTC",
+      "作者群": "Chun-Yu Wu, Ta-Chuan Liao, Chung-Yuan Kung, Feng-Tso Chien"
+    },
+    {
+      "論文名稱": "溫度與加熱時間功率金氧半場效應電晶體之二極體順向電壓之影響",
+      "會議名稱": "4th 台灣電力電子研討會",
+      "作者群": "方金木, 廖健男,王啟林,簡鳳佐"
+    },
+    {
+      "論文名稱": "(Al0.3Ga0.7)0.5In0.5P/InGaAs Quasi Enhancement-Mode pHEMT with Field-Plate Process",
+      "會議名稱": "6th Topical Workshop on Heterostructure Microelectronic (TWHM)",
+      "作者群": "Hsien-Chin Chiu, Feng-Tso Chien, and C.S. Wu"
+    },
+    {
+      "論文名稱": "Device Performance Improvement of InGaP/InGaAs DCFETs with Ohmic Recess Process",
+      "會議名稱": "6th Topical Workshop on Heterostructure Microelectronic (TWHM)",
+      "作者群": "Feng-Tso Chien, J.-M. Yin, H.-C. Chiu, C.-N. Liao, Y.-J. Chan"
+    },
+    {
+      "論文名稱": "(Al0.3Ga0.7)0.5In0.5P/InGaAs Quasi Enhancement-Mode pHEMT with Field-Plate Process",
+      "會議名稱": "6th Topical Workshop on Heterostructure Microelectronic (TWHM)",
+      "作者群": "Hsien-Chin Chiu, F. T. Chien, C.S. Wu"
+    },
+    {
+      "論文名稱": "High Performance Power MOSFETs by Wing-cell Structure Design",
+      "會議名稱": "2005 Asia-Pacific Workshop on Fundamentals and Application of Advanced Semiconductor Devices",
+      "作者群": "Feng-Tso Chien, Chien-Nan Liao, Chi-Ling Wang, and Hsien-Chin Chiu"
+    },
+    {
+      "論文名稱": "The 4H-SiC Power MOSFET design by multiple epitaxial layers",
+      "會議名稱": "The 2005 International Power Electronics Conference",
+      "作者群": "Shih-Tzung Su, Feng-Tso Chien,Yue-Ming Hsin,Ching-Ling Cheng"
+    },
+    {
+      "論文名稱": "High Ruggedness Power MOSFET Design with a Self-align LTO P+ implant Process",
+      "會議名稱": "International Electron Devices and Materials Symposium, IEDMS' 04",
+      "作者群": "Feng-Tso Chien, M-H, Lai, S-T Su, K-W Tu, C-L Cheng"
+    },
+    {
+      "論文名稱": "使用表面回應法與敏感度改善絕緣閘雙極性電晶體之閂鎖效應",
+      "會議名稱": "中華民國第25屆電力工程研討會",
+      "作者群": "王啟林、葉肇宇、黃大正、鯀偉庭、簡鳳佐、賴明宏"
+    },
+    {
+      "論文名稱": "A numerical comparison and integration of 4H-SiC Power MOSFET and MESFET",
+      "會議名稱": "THE 25th SYMPOSIUM ON ELECTRICAL POWER ENGINEERING",
+      "作者群": "S-T Su,Y M Hsin, Feng-Tso Chien, C-L Cheng"
+    },
+    {
+      "論文名稱": "使用表面回應法與敏感度分析於絕緣閘雙極性電晶體之最佳化設計",
+      "會議名稱": "第三屆台灣電力電子研討會",
+      "作者群": "王啟林、葉肇宇、黃大正、孫偉庭、簡鳳佐、賴明宏"
+    },
+    {
+      "論文名稱": "A Novel High Ruggedness Power MOSFET with a Planar Oxide Deep P+ Implant Structure",
+      "會議名稱": "International Conference on Solid State Devices and Materials (SSDM2004)",
+      "作者群": "Feng-Tso Chien, M-H, Lai, S-T Su, and C-L Cheng"
+    },
+    {
+      "論文名稱": "InGaP/InGaAs DCFETs with Drain and Source Recess Process",
+      "會議名稱": "International Conference on Solid State Devices and Materials (SSDM2004)",
+      "作者群": "Feng-Tso Chien, J.M. Yin,S-T Su, M.H. Lai, K-W Tu, C-L Cheng"
+    },
+    {
+      "論文名稱": "A numerical simulation of 4H-SiC Power MOSFET",
+      "會議名稱": "TPEC 2004第三屆台灣電力電子研討會",
+      "作者群": "蘇世宗、簡鳳佐、涂高維、鄭敬齡"
+    },
+    {
+      "論文名稱": "Power MOSFET功率電晶體製程調變之最佳化設計",
+      "會議名稱": "TPEC 2004第三屆台灣電力電子研討會",
+      "作者群": "董正暉、簡鳳佐、陳啟文"
+    },
+    {
+      "論文名稱": "High Ruggedness Power MOSFET Design by a Self-align P+ Process",
+      "會議名稱": "2004 Asia-Pacific Workshop on Fundamentals and Application of Advanced Semiconductor Devices",
+      "作者群": "Feng-Tso Chien, M-H, Lai, S-T Su, K-W Tu, C-L Cheng"
+    },
+    {
+      "論文名稱": "Boron Penetration study of P channel Power MOSFET for Low Gate Driving Application",
+      "會議名稱": "2004 Asia-Pacific Workshop on Fundamentals and Application of Advanced Semiconductor Devices",
+      "作者群": "Feng-Tso Chien, S-T Su, K-W Tu, C-L Cheng"
+    },
+    {
+      "論文名稱": "High Ruggedness Power MOSFET Design by a Self-align P+ Process",
+      "會議名稱": "2004 Asia-Pacific Workshop on Fundamentals and Application of Advanced Semiconductor Devices",
+      "作者群": "Feng-Tso Chien, M-H, Lai, S-T Su, K-W Tu, C-L Cheng"
+    },
+    {
+      "論文名稱": "Boron Penetration study of P channel Power MOSFET for Low Gate Driving Application",
+      "會議名稱": "2004 Asia-Pacific Workshop on Fundamentals and Application of Advanced Semiconductor Devices",
+      "作者群": "Feng-Tso Chien, S-T Su, K-W Tu, C-L Cheng"
+    },
+    {
+      "論文名稱": "使用表面回應法改善絕緣閘雙極性功率電晶體之閂鎖效應",
+      "會議名稱": "第二十四屆電力工程研討會",
+      "作者群": "王啟林、賴明宏、簡鳳佐、葉肇宇、余崇敬"
+    },
+    {
+      "論文名稱": "High Power Performance of 2.4 GHz Composite Collector HBT MMIC Power Amplifier",
+      "會議名稱": "2003 Asia-Pacific Microwave Conference (APMC'03)",
+      "作者群": "Feng-Tso Chien, Shih-Tzung Su, Kou-Way Tu, Ching-Ling Cheng, and Yue-Ming Hsin"
+    },
+    {
+      "論文名稱": "提昇功率電晶體高頻化與降低切換消耗功率之改良方法",
+      "會議名稱": "2003第二屆台灣電力電子研討會",
+      "作者群": "董正暉,簡鳳佐,涂高維,蘇世宗,鄭敬齡,陳啟文,黃彥智"
+    },
+    {
+      "論文名稱": "The Optimum Guard Ring Design for High Voltage Power MOSFET",
+      "會議名稱": "2003第二屆台灣電力電子研討會",
+      "作者群": "鄭皓達,廖建男,何志宏,蘇世宗,董正暉,黃彥智,鄭敬齡,涂高維,貢中元,王啟林,康宗貴,吳俊諭,陳世敏,王怡婷,鄞金木,簡鳳佐"
+    },
+    {
+      "論文名稱": "Using New Gate Structure Design to Decrease the Gate Charge of Power Device",
+      "會議名稱": "2003第二屆台灣電力電子研討會",
+      "作者群": "廖建男,鄭皓達,何志宏,蘇世宗,董正暉,黃彥智,鄭敬齡,涂高維,王啟林,康宗貴,貢中元,吳俊諭,陳世敏,王怡婷,簡鳳佐"
+    },
+    {
+      "論文名稱": "A Novel High Performance Power MOSFET with Split Well and Split Ploy Structure",
+      "會議名稱": "International Conference on Solid State Devices and Material",
+      "作者群": "Feng-Tso Chien, K.W. Tu, S.T. Su, C.L. Cheng, J.H. Dung, C.Y. Kung, and Y.C. Huang"
+    },
+    {
+      "論文名稱": "雙閘極功率電晶體結構降低導通電阻值及閘極電荷之設計",
+      "會議名稱": "Electron Device and Material Symposium(EDMS)",
+      "作者群": "廖健男,鄭皓達,王啟林,康宗貴,簡鳳佐"
+    },
+    {
+      "論文名稱": "懸掛式閘極分離井功率金氧半電晶體在降低閘極電荷上之設計",
+      "會議名稱": "Electron Device and Material Symposium(EDMS)",
+      "作者群": "黃彥智,廖健男,鄭皓達,涂高維,貢中元,簡鳳佐"
+    },
+    {
+      "論文名稱": "The failure analysis of Vth in P-type Power MOSFET for low gate-driving application",
+      "會議名稱": "Electron Device and Material Symposium(EDMS)",
+      "作者群": "Shih-Tzung Su, Chii-Wen Chen, Chung-Yuan Kung, Kou-Way Tu, Jen-Huei Dung, Ching-Ling Cheng, Feng-Tso Chien"
+    },
+    {
+      "論文名稱": "Reduction of the on-state resistance for a 100V Power MOSFETs by shallow-junction and blanket implant Technology",
+      "會議名稱": "International Conference on Informatics, Cybernetics, and System(ICICS)",
+      "作者群": "Kou-Way Tu, Yen-Chih Huang, Shih-Tzung Su, Ching-Ling Cheng, Shin-Min Chen, Chien-Nan Liao, Chung-Yuan Kung, and Feng-Tso Chien"
+    },
+    {
+      "論文名稱": "Variation of differential capacitance signal induced by unintentional illumination in Scanning Capacitance Microscope",
+      "會議名稱": "International Conference on Informatics, Cybernetics, and System(ICICS)",
+      "作者群": "E-Ting Wang, W. W. Wan, C. Y. Chen, J. H. Lai, M. N. Chang, J. H. Liang, F. T. Chien"
+    },
+    {
+      "論文名稱": "Dummy-Gate Structure Design to Decrease the Gate Charge of Power Device",
+      "會議名稱": "International Conference on Informatics, Cybernetics, and System(ICICS)",
+      "作者群": "Chien-Nan Liao, Shin-Min Chen, Yen-chih Huang, Shih-Tzung Su, Ching-Ling Cheng. Koa-Way Tu, Chi-Ling Wang, Tsung-Kuei Kang, Feng-Tso Chien"
+    },
+    {
+      "論文名稱": "Characteristic Study and Process Analysis for Developing a Power MOSFET",
+      "會議名稱": "International Electron Devices and Materials Symposium, (IED",
+      "作者群": "T-C Liao, N-Y Yang, Feng-Tso Chien, W-L Yang, T-H Chien, S-T Su, K-W Tu, C-H Tung, C-L Cheng, C-Y Kung"
+    },
+    {
+      "論文名稱": "The Optimum Guard Ring Design for High Voltage Power MOSFET",
+      "會議名稱": "International Electron Devices and Materials Symposium, (IED",
+      "作者群": "T-H Chien, Feng-Tso Chien, C-W Chen, C-H Tung, K-W Tu,C-Y Kung, S-T Su, C-L Cheng, N-Y Yang, and T-C Liao"
+    },
+    {
+      "論文名稱": "Drain-Source Breakdown and Gate Voltage Reliability Test of Small Contact Area Power MOSFETs",
+      "會議名稱": "International Electron Devices and Materials Symposium, (IED",
+      "作者群": "N-Y Yang, T-C Liao, Feng-Tso Chien, W-L Yang, T-H Chien, C-H Tung, S-T Su, C-L Cheng, K-W Tu, C-Y Kung"
+    },
+    {
+      "論文名稱": "The Gate Design for Low Gate Charge of High Voltage Power MOSFET",
+      "會議名稱": "International Electron Devices and Materials Symposium, (IED",
+      "作者群": "C-H Tung, Y-C Huang, C-Y Kung, K-W Tu, T-H Chien, S-T Su, C-L Cheng, Feng-Tso Chien"
+    },
+    {
+      "論文名稱": "The Study of On-Resistance of Power MOSFET",
+      "會議名稱": "International Electron Devices and Materials Symposium, IEDMS' 02",
+      "作者群": "簡鳳佐"
+    },
+    {
+      "論文名稱": "功率電晶體崩潰電壓與在小接觸窗面積下閘極電壓的可靠度測試",
+      "會議名稱": "The 23rd Symposium Electrical Power Enigineering",
+      "作者群": "楊南盈,廖大傳,簡鳳佐,楊文祿,簡鐸欣,董正暉,蘇世宗,鄭敬齡,涂高維,貢中元"
+    },
+    {
+      "論文名稱": "發展功率金氧半場效電晶體之特性研究與製程分析",
+      "會議名稱": "The 23rd Symposium Electrical Power Enigineering",
+      "作者群": "廖大傳,楊南盈,簡鳳佐,楊文祿,蘇世宗,董正暉,簡鐸欣,鄭敬齡,涂高維,貢"
+    },
+    {
+      "論文名稱": "功率電晶體淺接面製程對導通電阻值影響之研究",
+      "會議名稱": "The 23rd Symposium Electrical Power Enigineering",
+      "作者群": "簡鐸欣,董正暉,簡鳳佐,廖大傳, 楊南盈,陳啟文,涂高維,蘇世宗,鄭敬齡"
+    },
+    {
+      "論文名稱": "450V功率電晶體閘極電荷最佳化設計之研究",
+      "會議名稱": "The 23rd Symposium Electrical Power Enigineering",
+      "作者群": "簡鐸欣,董正暉,楊南盈,廖大傳, 陳啟文,涂高維,蘇世宗,鄭敬齡, 簡鳳佐"
+    },
+    {
+      "論文名稱": "High Power Performance of 2.4 GHz HBT MMIC Power Amplifer",
+      "會議名稱": "International Conference on Solid State Devices and Material",
+      "作者群": "簡鳳佐"
+    },
+    {
+      "論文名稱": "A Novel Power MOSFET Structure with Split P-well and Split Poly Design",
+      "會議名稱": "Asia-Pacific Workshop on Funbdamentals and Applications of Advanced Semiconductor Device, AWAD 2002",
+      "作者群": "簡鳳佐"
+    },
+    {
+      "論文名稱": "Field Plate and Guard Ring Technique Design of High Breakdown Voltage Power MOSFETs",
+      "會議名稱": "Electronic Devices and Material Symposium, EDMS’01",
+      "作者群": "You-Ren Li、Feng-Tso Chien、W.L.Yang、T.H. Chien、J.H. Dung、M.C. Lee、K.W. Tu、C.L. Cheng"
+    },
+    {
+      "論文名稱": "The Optimum design for 450V High Voltage Power MOSFET",
+      "會議名稱": "Electronic Devices and Material Symposium, EDMS’01",
+      "作者群": "M.C. Lee、F.T. Chien、C.W. Chen、T.H. Chien、J.H. Dung、K.W. Tu、C.L. Cheng、Y.R. Li、Z.H. Her"
+    },
+    {
+      "論文名稱": "功率電晶體高頻率化與低消耗功率之研究",
+      "會議名稱": "Electronic Devices and Material Symposium, EDMS’01",
+      "作者群": "董正暉、簡鐸欣、簡鳳佐、涂高維、何志宏、李佑仁、李銘欽、鄭敬齡、陳啟文、蘇世宗"
+    },
+    {
+      "論文名稱": "閘級寬度的最佳化設計對功率元件之應用",
+      "會議名稱": "Electronic Devices and Material Symposium, EDMS’01",
+      "作者群": "涂高維、李佑仁、簡鳳佐、陳啟文、李銘欽、董正暉、簡鐸欣、何志宏、蘇世宗、鄭敬齡"
+    },
+    {
+      "論文名稱": "用淺接面技術在低壓功率雙擴散場效電晶體上來降低導通電阻",
+      "會議名稱": "Power 2001,第二十二屆電力工程研討會",
+      "作者群": "何志宏、董正暉、李佑仁、簡鐸欣、李銘欽、楊文祿、劉堂傑、鄭敬齡、涂高維、簡鳳佐"
+    },
+    {
+      "論文名稱": "高壓功率電晶體使用浮動場環與保護環之最佳化設計",
+      "會議名稱": "Power 2001,第二十二屆電力工程研討會",
+      "作者群": "李佑仁、簡鐸欣、董正輝、楊文祿、鄭敬齡、涂高維、李銘欽、簡鳳佐"
+    },
+    {
+      "論文名稱": "A Novel Capacitive-Peaking Transimpedance Amplifier with High Linearity Gain Active Feedback Design",
+      "會議名稱": "Solid Stare Devices and Materials (SSDM’01)",
+      "作者群": "Feng-Tso Chien、Chin-Lin Cheng、Kou-Way Tu"
+    },
+    {
+      "論文名稱": "A Nobel HBT with Composite Collector for Power Amplifier Application",
+      "會議名稱": "Solid Stare Devices and Materials (SSDM’01)",
+      "作者群": "S.T. Su、K. W. Tu、C. L. Cheng、F. T. Chien、T. H. Chien、J. H Dung、Y. M. Hsin"
+    },
+    {
+      "論文名稱": "Reduced Intermodulation Distortion of Doped-Channel FETs by Air-bridge Gate Process",
+      "會議名稱": "2001 Radio Frequency Integrated Circuit (RFIC) Symposium",
+      "作者群": "Hsien-Chin Chiu, Feng-Tso Chien, Shih-Cheng Yang, and Yi-Jen Chan"
+    },
+    {
+      "論文名稱": "Device Linearity and Gate Voltage Swing Improvement by Al0.3Ga0.7As/In0.15Ga0.85As Double Doped-Channel Design",
+      "會議名稱": "Topical Workshop on Heterostructure Microelectronics (TWHM'00)",
+      "作者群": "Feng-Tso Chien, Hsien-Chin Chiu, Shin-Cheng Yang and Yi-Jen Chan"
+    },
+    {
+      "論文名稱": "High Linearity and High Power Device Fabricated by Al0.3Ga0.7As/In0.15Ga0.85As Double Doped-Channel Heterostructure",
+      "會議名稱": "Solid Stare Devices and Materials (SSDM'00)",
+      "作者群": "Feng-Tso Chien, and Yi-Jen Chan"
+    },
+    {
+      "論文名稱": "ACapacitive Peaking of InGaP/GaAs HBT Transimpedance Amplifier",
+      "會議名稱": "13th Intl. Conf. On Indium Phosphide and Related Materials",
+      "作者群": "簡鳳佐"
+    },
+    {
+      "論文名稱": "Monolithically Integrated Receiver with AlGaAs/InGaAs Doped-channel FETs and MSM-PD",
+      "會議名稱": "Optics and photonics /Taiwan' 99",
+      "作者群": "Feng-Tso Chien, and Yi-Jen Chan"
+    },
+    {
+      "論文名稱": "Gain Linearity and bandwidth improvement of InP-Based transimpedance amplifiers by feedback loop designs",
+      "會議名稱": "11th Indium Phosphide and Related materials (IPRM'99) Conf.",
+      "作者群": "Feng-Tso Chien, and Yi-Jen Chan"
+    },
+    {
+      "論文名稱": "Bandwidth enhancement of transimpedance amplifier by a capacitive-peaking design",
+      "會議名稱": "International Electron Devices and Materials Symposium, IEDMS'98",
+      "作者群": "Feng-Tso Chien, and Yi-Jen Chan"
+    },
+    {
+      "論文名稱": "The Monolithic Optoelectronic Receiver Fabricated by Using AlGaAs/InGaAs Doped-channel Heterostructures",
+      "會議名稱": "Optics and photonics/Taiwan' 97",
+      "作者群": "Feng-Tso Chien, and Yi-Jen Chan"
+    },
+    {
+      "論文名稱": "High-performance Trans-impedance Amplifier by Using AlGaAs/InGaAs Doped-channel Heterostructures",
+      "會議名稱": "Electron Devices and Materials Symposium, EDMS'97",
+      "作者群": "Feng-Tso Chien, and Yi-Jen Chan"
+    },
+    {
+      "論文名稱": "Monolithic Optical Receiver Fabricated by AlGaAs/InGaAs Doped-channel Heterostructures",
+      "會議名稱": "23rd Inst. Phys. Conf. Ser., St Petersburg, Russia",
+      "作者群": "Feng-Tso Chien, and Yi-Jen Chan"
+    },
+    {
+      "論文名稱": "High Linearity Monolithic Optoelectronic Receiver Fabricated by AlGaAs/InGaAs Doped-channel Heterostructures",
+      "會議名稱": "Optics and photonics/Taiwan' 96",
+      "作者群": "Feng-Tso Chien, and Yi-Jen Chan"
+    },
+    {
+      "論文名稱": "The Implementation of High-speed Logic Circuits by Using Heterostructure Insulation-gate FETs",
+      "會議名稱": "Electron Devices and Materials Symposium, EDMS'95",
+      "作者群": "Feng-Tso Chien, and Yi-Jen Chan"
+    }
+  ],
+  "book": [],
+  "patent": [
+    {
+      "title": "發明",
+      "desc": "短通道複晶矽薄膜電晶體及其方法"
+    },
+    {
+      "title": "發明",
+      "desc": "雙閘極金氧半導體場效電晶體元件及其製造方法"
+    },
+    {
+      "title": "發明",
+      "desc": "一種薄膜電晶體結構"
+    },
+    {
+      "title": "發明",
+      "desc": "複晶矽薄膜電晶體及其製造方法"
+    },
+    {
+      "title": "發明",
+      "desc": "薄膜電晶體結構及其製作方法"
+    },
+    {
+      "title": "發明",
+      "desc": "薄膜電晶體結構及其製作方法"
+    },
+    {
+      "title": "發明",
+      "desc": "具分離式閘極垂直型金氧半電晶體元件結構及其製造方法"
+    },
+    {
+      "title": "發明",
+      "desc": "薄膜電晶體結構"
+    },
+    {
+      "title": "發明",
+      "desc": "非對稱式羽翼狀晶胞功率半導體元件及其製程"
+    },
+    {
+      "title": "發明",
+      "desc": "化合物半導體元件之製造方式"
+    },
+    {
+      "title": "發明",
+      "desc": "自我對準溝渠式功率金氧半場效電晶體裝置及其製造方法"
+    },
+    {
+      "title": "發明",
+      "desc": "羽翼狀晶胞功率半導體元件及其製程"
+    },
+    {
+      "title": "發明",
+      "desc": "功率金屬氧化物半導體場效晶體管裝置及其製造方法"
+    },
+    {
+      "title": "發明",
+      "desc": "Lower the on-resistance in protection circuit of rechargeable battery by using flip-chip technology"
+    },
+    {
+      "title": "新型",
+      "desc": "降低功率金氧半場效電晶體(MOSFET)導通電阻之封裝打線改良裝置"
+    },
+    {
+      "title": "發明",
+      "desc": "無焊線式半導體裝置及其封裝方法"
+    },
+    {
+      "title": "發明",
+      "desc": "高耐雪崩崩潰電壓元件之裝置，以及提高元件耐雪崩崩潰電壓之方法"
+    },
+    {
+      "title": "發明",
+      "desc": "利用防衛環（Ｇｕａｒｄ　Ｒｉｎｇ）連接技術以達成功率半導體元件積體電路化之方法及裝置"
+    },
+    {
+      "title": "發明",
+      "desc": "充電電池保護電路用功率場效應晶體管的覆晶安裝方法"
+    },
+    {
+      "title": "發明",
+      "desc": "無焊線式半導體裝置及其封裝方法(一)"
+    },
+    {
+      "title": "發明",
+      "desc": "改變功率電晶體閘極結構改善其切換速度之方法"
+    },
+    {
+      "title": "發明",
+      "desc": "高耐雪崩崩潰電壓元件之裝置，以及提高元件耐雪崩崩潰電壓之方法"
+    },
+    {
+      "title": "發明",
+      "desc": "利用防衛環（Ｇｕａｒｄ　Ｒｉｎｇ）連接技術以達成功率半導體元件積體電路化之方法及裝置"
+    },
+    {
+      "title": "發明",
+      "desc": "用於降低導通電阻之充電電池保護電路用功率電晶體的覆晶安裝方法"
+    },
+    {
+      "title": "發明",
+      "desc": "無焊線式半導體裝置及其封裝方法（二）"
+    },
+    {
+      "title": "新型",
+      "desc": "具有低接觸電阻值之功率MOSFET裝置"
+    },
+    {
+      "title": "發明",
+      "desc": "具有減少反向漏電流急變且提高耐雪崩崩潰電流能力之功率ＭＯＳＦＥＴ裝置及其製造方法"
+    },
+    {
+      "title": "發明",
+      "desc": "利用井區漸層式摻雜降低功率ＭＯＳＦＥＴ漏電流及提昇崩潰電壓之方法及其裝置"
+    },
+    {
+      "title": "發明",
+      "desc": "降低磊晶層電阻值之溝渠式功率ＭＯＳＦＥＴ裝置及其製造方法"
+    },
+    {
+      "title": "發明",
+      "desc": "Bandwidth enhancement of transimpedance amplifier by capacitive peaking design"
+    },
+    {
+      "title": "發明",
+      "desc": "平面式超低導通電阻值之功率ＭＯＳＦＥＴ裝置及其製造方法"
+    },
+    {
+      "title": "發明",
+      "desc": "在相同元件面積下以平面式技術取得具有溝渠式技術低導通電阻值之功率ＭＯＳＦＥＴ裝置及其製造方法"
+    },
+    {
+      "title": "發明",
+      "desc": "低導通電阻值功率ＭＯＳＦＥＴ裝置及其製造方法"
+    },
+    {
+      "title": "發明",
+      "desc": "降低導通電阻值及增加耐雪崩崩潰電流能力之功率ＭＯＳＦＥＴ裝置及其製造方法"
+    },
+    {
+      "title": "發明",
+      "desc": "溝渠式功率ＭＯＳＦＥＴ之改良結構及其製造方法"
+    },
+    {
+      "title": "發明",
+      "desc": "利用離子植入技術提升功率ＭＯＳＦＥＴ電晶體開關速率之方法及其裝置"
+    },
+    {
+      "title": "發明",
+      "desc": "利用電容使轉阻放大器產生極點頂起現象而增進其操作頻率之方法"
+    },
+    {
+      "title": "發明",
+      "desc": "利用電容使轉阻放大器產生極點頂起現象而增進其操作頻寬之方法"
+    }
+  ],
+  "most": [
+    {
+      "name": "提升短路耐受時間之載子儲存層與浮動P柱絕緣閘雙極性電晶體",
+      "schoolYear": "113"
+    },
+    {
+      "name": "多重浮接 P 型深溝槽氧化柱之溝槽式高導電度絕緣閘雙極性電晶體設計",
+      "schoolYear": "112"
+    },
+    {
+      "name": "分離式閘極溝槽功率金氧半場效電晶體於高耐壓結構下急遽上升電阻之改善方式",
+      "schoolYear": "111"
+    },
+    {
+      "name": "零閘汲極電位差薄膜電晶體之設計與雙閘極元件之比較研究與分析",
+      "schoolYear": "111"
+    },
+    {
+      "name": "雙層磊晶層之分離式閘極溝槽式功率金氧半場效電晶體設計",
+      "schoolYear": "110"
+    },
+    {
+      "name": "自動切換電流路徑屏蔽閘極複晶矽薄膜電晶體之設計與研究",
+      "schoolYear": "108"
+    },
+    {
+      "name": "功率元件溝渠分離式閘極結構應用於複晶矽薄膜電晶體及其應用電路之特性改善與研究(I)",
+      "schoolYear": "107"
+    },
+    {
+      "name": "陣列光學雷達量測信號平行處理電路之設計",
+      "schoolYear": "107"
+    },
+    {
+      "name": "雙通道雙場板薄膜電晶體特性之提昇對反相器及面板電路影響之研究",
+      "schoolYear": "106"
+    },
+    {
+      "name": "高耐壓分離閘極垂直場板之複晶矽薄膜電晶體設計與研究",
+      "schoolYear": "105"
+    },
+    {
+      "name": "應用雙可重疊責任週期調整電路於低功率晶片的可測試設計與驗證",
+      "schoolYear": "105"
+    },
+    {
+      "name": "雙閘極結合分離式閘極與增厚源汲極設計之高電流複晶矽薄膜電晶體之研究",
+      "schoolYear": "104"
+    },
+    {
+      "name": "新式抬升式厚汲源極複晶矽薄膜電晶體之降低電場機制分析與研究",
+      "schoolYear": "103"
+    },
+    {
+      "name": "低成本空間電流電場分離低漏電流高崩潰電壓複晶矽薄膜電晶體之研究",
+      "schoolYear": "102"
+    },
+    {
+      "name": "改善型電流與電場分離結構多晶矽薄膜電晶體之設計及其節能應用電路的研究(I)",
+      "schoolYear": "101"
+    },
+    {
+      "name": "低離子化碰撞率電流與電場分離之新式概念設計多晶矽薄膜電晶體及其應用電路特性與節能之改善方案的研究(I)",
+      "schoolYear": "100"
+    },
+    {
+      "name": "功率金氧半場效應電晶體元件優劣性比較之新定義提出與超低導通電阻元件製作及從元件觀點對充電器省電改善方案之元件設計...(2/2)",
+      "schoolYear": "99"
+    },
+    {
+      "name": "以抬昇式汲極感應輕摻雜區之低溫多晶矽薄膜電晶體設計",
+      "schoolYear": "98"
+    },
+    {
+      "name": "功率金氧半場效應電晶體元件優劣性比較之新定義提出與超低導通電阻元件製作及從元件觀點對充電器省電改善方案之元件設研(1/2)",
+      "schoolYear": "98"
+    },
+    {
+      "name": "高效能抬升式汲源極之新式雙通道薄膜電晶體",
+      "schoolYear": "98"
+    },
+    {
+      "name": "低切換損失自我ESD保護型高壓功率金氧半場效應電晶體之強健性與可靠度提昇與成本降低之設計與研究",
+      "schoolYear": "97"
+    },
+    {
+      "name": "羽翼狀晶胞功率電晶體之元件電場與可靠度分析及非對稱式溝渠式羽翼狀功率電晶體之研究",
+      "schoolYear": "95"
+    },
+    {
+      "name": "淺接面羽翼狀晶胞超低導通電阻功率電晶體之研究",
+      "schoolYear": "94"
+    },
+    {
+      "name": "強健型,高雪崩能量功率金氧半場效電晶體之設計",
+      "schoolYear": "93"
+    },
+    {
+      "name": "雙閘極分離井垂直式結構高壓功率MOSFET元件與製程設計之研究",
+      "schoolYear": "92"
+    },
+    {
+      "name": "多重保護環在高壓Power MOSEFT之最佳化設計",
+      "schoolYear": "91"
+    }
+  ],
+  "tech": [],
+  "induAca": [
+    "通訊科技教育改進計畫─通訊元件組─高頻元件與微波電路教學實驗室之架設 (2003-03 to 2003-12)"
+  ],
+  "perform": [],
+  "reward": [
+    "113年度國科會補助大專校院研究獎勵 (113, 2024-11) - 逢甲大學",
+    "112年度國科會補助大專校院研究獎勵 (112, 2023-12) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (111, 2022-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (111, 2022-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (111, 2022-11) - 逢甲大學",
+    "111年度國科會補助大專校院研究獎勵 (111, 2022-10) - 研究發展處",
+    "2021 IEDMS 論文海報獎 (110, 2021-11) - IEDMS 研討會",
+    "逢甲大學論文著作獎勵傑出獎 (110, 2021-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (110, 2021-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (110, 2021-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (109, 2020-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (109, 2020-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (109, 2020-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (109, 2020-11) - 逢甲大學",
+    "109年度科技部補助大專校院研究獎勵 (109, 2020-10) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (108, 2019-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (108, 2019-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (108, 2019-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (108, 2019-11) - 逢甲大學",
+    "108學年度科技部補助大專校院研究獎勵 (108, 2019-09) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (107, 2018-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (107, 2018-11) - 逢甲大學",
+    "107年度科技部補助大專校院研究獎勵 (107, 2018-08) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (106, 2017-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (106, 2017-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (106, 2017-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (106, 2017-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (106, 2017-11) - 逢甲大學",
+    "106年度科技部獎勵特殊優秀人才 (106, 2017-08) - 產學合作處",
+    "逢甲大學論文著作獎勵傑出獎 (105, 2016-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (105, 2016-11) - 逢甲大學",
+    "105年度科技部獎勵特殊優秀人才 (105, 2016-08) - 產學合作處",
+    "學術研究獎勵研發成果傑出獎 (104, 2015-12) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (104, 2015-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (104, 2015-11) - 逢甲大學",
+    "104年度科技部獎勵特殊優秀人才 (104, 2015-08) - 產學合作處",
+    "學術研究獎勵研發成果傑出獎 (103, 2014-12) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (103, 2014-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (103, 2014-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (103, 2014-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (103, 2014-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (103, 2014-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (103, 2014-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (103, 2014-11) - 逢甲大學",
+    "103年度科技部獎勵特殊優秀人才 (103, 2014-08) - 研究發展處",
+    "學術研究獎勵研發成果傑出獎 (102, 2013-12) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (102, 2013-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (102, 2013-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (102, 2013-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (102, 2013-11) - 逢甲大學",
+    "102年度科技部獎勵特殊優秀人才 (102, 2013-08) - 研究發展處",
+    "學術研究獎勵研發成果傑出獎 (101, 2012-12) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (101, 2012-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (101, 2012-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (101, 2012-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (101, 2012-11) - 逢甲大學",
+    "學術研究獎勵研發成果傑出獎 (100, 2011-12) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (100, 2011-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (100, 2011-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (100, 2011-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (100, 2011-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (100, 2011-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (100, 2011-11) - 逢甲大學",
+    "學術研究獎勵研發成果傑出獎 (99, 2010-12) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (99, 2010-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (99, 2010-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (99, 2010-11) - 逢甲大學",
+    "99年度科技部獎勵特殊優秀人才 (99, 2010-10) - 研究發展處",
+    "學術研究獎勵研發成果傑出獎 (98, 2009-12) - 逢甲大學",
+    "學術研究獎勵研發成果優等獎 (98, 2009-12) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (98, 2009-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (98, 2009-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (98, 2009-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (98, 2009-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (98, 2009-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (98, 2009-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (98, 2009-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (98, 2009-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (98, 2009-11) - 逢甲大學",
+    "學術研究獎勵研發成果傑出獎 (97, 2008-12) - 逢甲大學",
+    "學術研究獎勵研發成果優等獎 (97, 2008-12) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (97, 2008-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (97, 2008-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (97, 2008-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (97, 2008-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (97, 2008-11) - 逢甲大學",
+    "學術研究獎勵研發成果佳作獎 (96, 2007-12) - 逢甲大學",
+    "學術研究獎勵研發成果傑出獎 (96, 2007-12) - 逢甲大學",
+    "學術研究獎勵研發成果優等獎 (96, 2007-12) - 逢甲大學",
+    "逢甲大學論文著作獎勵 (96, 2007-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵 (96, 2007-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (96, 2007-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (96, 2007-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (96, 2007-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (96, 2007-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (96, 2007-11) - 逢甲大學",
+    "Vecco Siliver Award (95, 2007-05) - National Nano Device Laboratories",
+    "學術研究獎勵研發成果佳作獎 (95, 2006-12) - 逢甲大學",
+    "學術研究獎勵研發成果傑出獎 (95, 2006-12) - 逢甲大學",
+    "學術研究獎勵研發成果優等獎 (95, 2006-12) - 逢甲大學",
+    "逢甲大學論文著作獎勵 (95, 2006-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵 (95, 2006-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (95, 2006-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (95, 2006-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (95, 2006-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (95, 2006-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (95, 2006-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (95, 2006-11) - 逢甲大學",
+    "Gold Medal Award (94, 2006-04) - NDL研討會",
+    "學術研究獎勵研發成果傑出獎 (94, 2005-12) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (94, 2005-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (94, 2005-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (94, 2005-11) - 逢甲大學",
+    "93電力學門新進人員研究成果優選 (94, 2005-10) - 行政院國科會",
+    "逢甲大學論文著作獎勵傑出獎 (93, 2004-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (93, 2004-11) - 逢甲大學"
+  ],
+  "speech": [
+    {
+      "演講題目": "電子電機之外",
+      "邀請單位": "中央大學電機所",
+      "演講日期": "2016-09"
+    },
+    {
+      "演講題目": "Power MOSFET",
+      "邀請單位": "漢磊科技",
+      "演講日期": "2014-03"
+    },
+    {
+      "演講題目": "電子電機之外",
+      "邀請單位": "中央大學電機系",
+      "演講日期": "2011-12"
+    },
+    {
+      "演講題目": "功率元件",
+      "邀請單位": "中央大學電機系",
+      "演講日期": "2011-10"
+    },
+    {
+      "演講題目": "高壓元件at 第17屆奈米元件技術研討會",
+      "邀請單位": "NDL",
+      "演講日期": "2010-05"
+    },
+    {
+      "演講題目": "1000V元件",
+      "邀請單位": "逢甲大學電子系",
+      "演講日期": "2010-02"
+    },
+    {
+      "演講題目": "高功率元件",
+      "邀請單位": "清華電子所",
+      "演講日期": "2008-10"
+    },
+    {
+      "演講題目": "高壓元件設計",
+      "邀請單位": "清華大學電子所",
+      "演講日期": "2008-07"
+    },
+    {
+      "演講題目": "高功率元件",
+      "邀請單位": "工研院",
+      "演講日期": "2007-06"
+    },
+    {
+      "演講題目": "高功率金氧半電晶體之應用與設計",
+      "邀請單位": "彰師大光電所",
+      "演講日期": "2006-11"
+    },
+    {
+      "演講題目": "高功率半導體元件",
+      "邀請單位": "明新科大電子所",
+      "演講日期": "2006-05"
+    },
+    {
+      "演講題目": "Power MOSFET Design",
+      "邀請單位": "合晶科技",
+      "演講日期": "2006-05"
+    },
+    {
+      "演講題目": "Power MOSFET Design",
+      "邀請單位": "清華大學電源科技中心",
+      "演講日期": "2006-04"
+    },
+    {
+      "演講題目": "半導體電子元件設計",
+      "邀請單位": "逢甲大學電子系",
+      "演講日期": "2003-12"
+    },
+    {
+      "演講題目": "Characteristics and Device Design of Power MOSFET",
+      "邀請單位": "中央大學電機所",
+      "演講日期": "2003-10"
+    },
+    {
+      "演講題目": "高功率元件設計及特性分析",
+      "邀請單位": "美商及時利儀器公司",
+      "演講日期": "2003-09"
+    },
+    {
+      "演講題目": "Power MOSFET Design",
+      "邀請單位": "逢甲大學電子系",
+      "演講日期": "2001-10"
+    }
+  ],
+  "material": [],
+  "tal": []
+}

@@ -1,0 +1,202 @@
+{
+  "teacherId": "T02174",
+  "name": "吳東憲",
+  "mainUnit": "商學院",
+  "detailUnit": "會計學系",
+  "skill": [
+    "電腦稽核Computer Audit",
+    "會計資訊系統Accouting Information Systems",
+    "內部稽核Internal Auditing"
+  ],
+  "edu": [
+    "國立中正大學 會計與資訊科技所 博士",
+    "逢甲大學 會計所 碩士",
+    "靜宜大學 會計系 學士"
+  ],
+  "fcuExp": [
+    "環境會計研究中心 主任",
+    "會計學系 系主任",
+    "逢甲大學帆宣智慧城市5G實驗室 研究員",
+    "會計學系 助理教授",
+    "會計學系 副教授"
+  ],
+  "currjob": [],
+  "otherExp": [],
+  "journal": [
+    {
+      "論文名稱": "IT governance and IT controls: Analysis from an internal auditing perspective",
+      "期刊名稱": "International Journal of Accounting Information Systems (SSCI)",
+      "作者群": "Tung-Hsien Wu, Shaio Yan Huang, An-An Chiu, David C. Yen*"
+    },
+    {
+      "論文名稱": "以本體論為基礎之會計分錄摘要測試－銷售及採購循環為例",
+      "期刊名稱": "電腦稽核 (無)",
+      "作者群": "吳東憲*，李哲丞"
+    },
+    {
+      "論文名稱": "轉換成本、代理成本與強制會計師輪調制度之研究",
+      "期刊名稱": "台灣管理學刊 (TSSCI)",
+      "作者群": "黃劭彥, 林明賢, 盧冠瑾,吳東憲."
+    },
+    {
+      "論文名稱": "採購及付款循環之電腦稽核模式建構-以 SAP 為例",
+      "期刊名稱": "電腦稽核 (無)",
+      "作者群": "吳東憲，莊詠琳"
+    },
+    {
+      "論文名稱": "資訊科技稽核品質、資訊科技內部控制與資訊科技治理之關聯性研究",
+      "期刊名稱": "管理與系統 (TSSCI)",
+      "作者群": "吳東憲、黃劭彥*、康照宗"
+    },
+    {
+      "論文名稱": "The Effect of Competencies, Team Problem-Solving Ability, and Computer Audit Activity on Internal Audit Performance",
+      "期刊名稱": "Information Systems Frontiers (SCIE)",
+      "作者群": "Tung-Hsien Wu, Shi-Ming Huang, Shaio Yan Huang, David C. Yen"
+    },
+    {
+      "論文名稱": "中華郵政績效衡量與服務品質關聯性之探討.",
+      "期刊名稱": "品質學報 (EI)",
+      "作者群": "黃劭彥*, 陳雪如, 吳東憲, 陳舜仁"
+    },
+    {
+      "論文名稱": "公司財務績效驅動因子之研究-智慧資本觀點",
+      "期刊名稱": "品質學報 (EI)",
+      "作者群": "李超雄, 黃劭彥*, 吳東憲, 王昶欽"
+    },
+    {
+      "論文名稱": "內部稽核人員如何成功運用E化科技落實內控自評作業",
+      "期刊名稱": "會計研究月刊 ()",
+      "作者群": "黃士銘*, 黃素慧, 吳東憲, 陳譽民"
+    },
+    {
+      "論文名稱": "THE DATA QUALITY EVALUATION OF GRAPH INFORMATION",
+      "期刊名稱": "Journal of Computer Information Systems (SCIE)",
+      "作者群": "Shaio Yan Huang*, Shi-Ming Huang, Tung-Hsien Wu, Tung-Yen Hsieh"
+    },
+    {
+      "論文名稱": "如何運用持續性稽核與監控技術，提升企業營運確保能力",
+      "期刊名稱": "會計研究月刊 ()",
+      "作者群": "黃士銘*, 吳東憲"
+    },
+    {
+      "論文名稱": "利用電腦稽核技術建立企業E化系統的第一道防火牆",
+      "期刊名稱": "會計研究月刊 ()",
+      "作者群": "黃士銘*, 吳東憲, 黃秀鳳"
+    },
+    {
+      "論文名稱": "ERP 導入 IFRS 所遭遇的挑戰與契機",
+      "期刊名稱": "電腦稽核 ()",
+      "作者群": "黃劭彥*, 林琦珍, 吳東憲, 邱安安"
+    },
+    {
+      "論文名稱": "Process efficiency of the enterprise resource planning adoption",
+      "期刊名稱": "Industrial Management & Data Systems (SCIE)",
+      "作者群": "Shaio Yan Huang*, Shi-Ming Huang, Tung-Hsien Wu, Wen-kai Lin"
+    },
+    {
+      "論文名稱": "企業網站環境會計資訊揭露影響因素之研究",
+      "期刊名稱": "會計與公司治理 ()",
+      "作者群": "黃劭彥*, 吳東憲, 紀怡如"
+    },
+    {
+      "論文名稱": "台灣上市櫃銀行代理成本與風險管理之研究",
+      "期刊名稱": "會計與財金研究 ()",
+      "作者群": "黃劭彥*, 吳東憲, 林家安"
+    },
+    {
+      "論文名稱": "企業資源規劃系統內部控制制度之建構 － 以某通訊產業公司為例",
+      "期刊名稱": "電子商務研究 ()",
+      "作者群": "詹順吉*, 張碩毅, 吳東憲"
+    }
+  ],
+  "journal2": [],
+  "conference": [
+    {
+      "論文名稱": "The relationship among enterprise characteristics, continuous auditing and internal\r\naudit performance",
+      "會議名稱": "American Accounting Association Annual Meeting.",
+      "作者群": "*Tung­-Hsien Wu, An An Chiu, Shaio Yan Huang"
+    },
+    {
+      "論文名稱": "內部稽核適任性對於財務報表時效性之影響",
+      "會議名稱": "2016現代會計論壇學術研討會",
+      "作者群": "吳東憲、蕭子誼、王碩緯*"
+    },
+    {
+      "論文名稱": "代理成本與內部稽核適任性之關聯性",
+      "會議名稱": "2016現代會計論壇學術研討會",
+      "作者群": "吳東憲、蕭子誼、蘇上傑*"
+    },
+    {
+      "論文名稱": "運用社會網絡分析技術於財務報表之研究",
+      "會議名稱": "2015第七屆海峽兩岸會計學術研討會",
+      "作者群": "黃士銘、吳東憲*、顏佑澄"
+    },
+    {
+      "論文名稱": "Auditing SAP Using CAATTs for Order to Cash",
+      "會議名稱": "2015 International Workshop on Computer Auditing Education",
+      "作者群": "Shi-Ming Huang, Tung-Hsien Wu*"
+    },
+    {
+      "論文名稱": "The Relationships between Computer Auditing Activity and Performance",
+      "會議名稱": "2015 International Workshop on Computer Auditing Education",
+      "作者群": "Tung-Hsien Wu"
+    },
+    {
+      "論文名稱": "內部控制缺失對經營績效之影響:以公司治理為調節效果",
+      "會議名稱": "2015現代會計論壇學術研討會",
+      "作者群": "蕭子誼、吳東憲、曾彩薇"
+    },
+    {
+      "論文名稱": "企業資源規劃、商業智慧與營運績效之關聯性研究",
+      "會議名稱": "2014年國際ERP學術及實務研討會",
+      "作者群": "黃劭彥,吳東憲,張碩毅,楊宜書"
+    },
+    {
+      "論文名稱": "建立適性化之電腦稽核機制-以資訊系統權限管理為例",
+      "會議名稱": "2011 管理理論與實務研討會",
+      "作者群": "黃士銘*, 吳東憲"
+    },
+    {
+      "論文名稱": "Measurements of Graph Distortion on Corporate Websites",
+      "會議名稱": "American Accounting Association Annual Meeting.",
+      "作者群": "Shaio Yan Huang, Tung Hsien Wu, An-An Chiu"
+    },
+    {
+      "論文名稱": "A study comparing revenue and performance of companies before and after adopting ERP.",
+      "會議名稱": "American Accounting Association Annual Meeting.",
+      "作者群": "Shaio Yan Huang, Tung Hsien Wu, Wen kai Lin"
+    }
+  ],
+  "book": [],
+  "patent": [],
+  "most": [
+    {
+      "name": "內部稽核特性、董事會特性與資訊科技治理成效",
+      "schoolYear": "108"
+    },
+    {
+      "name": "內部稽核部門特性對電腦稽核成效之影響",
+      "schoolYear": "104"
+    },
+    {
+      "name": "組織特性、內部稽核特性與內部控制有效性：以持續性稽核為中介效果",
+      "schoolYear": "103"
+    }
+  ],
+  "tech": [],
+  "induAca": [],
+  "perform": [],
+  "reward": [
+    "逢甲大學論文著作獎勵優良獎 (110, 2021-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (109, 2020-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (107, 2018-11) - 逢甲大學",
+    "105學年度優良導師 (105, 2017-11) - 學生事務處",
+    "逢甲大學論文著作獎勵傑出獎 (105, 2016-11) - 逢甲大學"
+  ],
+  "speech": [],
+  "material": [
+    "疲於奔命的稽核人員\t商業發展研究院\t吳東憲\t個案教材",
+    "創業與圓夢之資金運作\t逢甲大學\t吳東憲\tPBL教案"
+  ],
+  "tal": []
+}

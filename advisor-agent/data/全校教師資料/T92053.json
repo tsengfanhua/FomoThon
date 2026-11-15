@@ -1,0 +1,703 @@
+{
+  "teacherId": "T92053",
+  "name": "施志欣",
+  "mainUnit": "工程與科學學院",
+  "detailUnit": "化學工程學系",
+  "skill": [
+    "可攜式體外生醫生化檢測系統開發Portable in vitro diagnostics development",
+    "離心式微流體技術Centrifugal microfluidics",
+    "生物微機電系統BioMEMS",
+    "高分子複合材料加工Processing of polymer composites"
+  ],
+  "edu": [
+    "俄亥俄州立大學 化工系 博士",
+    "俄亥俄州立大學 化工系 碩士",
+    "台灣大學 化工系 學士"
+  ],
+  "fcuExp": [
+    "共同貴重儀器中心 主任",
+    "研究推動組 組長",
+    "華語文教學中心 主任",
+    "國際合作事務辦公室 主任",
+    "化學工程學系 系主任",
+    "化學工程學系 助理教授",
+    "化學工程學系 副教授",
+    "化學工程學系 教授"
+  ],
+  "currjob": [],
+  "otherExp": [
+    "Burstein Technolog Research Scientist Manager"
+  ],
+  "journal": [
+    {
+      "論文名稱": "Molecular Separation by Using Active and Passive Microfluidic chip Designs: A Comprehensive Review",
+      "期刊名稱": "Advanced Materials Interfaces (SCIE)",
+      "作者群": "Aliakbar Ebrahimi, Kutay Icoz, Reza Didarian, Chih-Hsin Shih, E. Alperay Tarim, Behzad Nasseri, Ali Akpek, Berivan Cecen, Ayca Bal-Ozturk, Kadri Güleç, Yi-Chen Ethan Li, Steven Shih, Burcu Sirma Tarim, H. Cumhur Tekin, Emine Alarçin, Mehdi Tayybi-Azar, Hamed Ghorbanpoor, Ceren Özel, Ayla Eker Sarıboyacı, Fatma Dogan Guzel, Nicole Bassous, Su Ryon Shin, and Huseyin Avci*"
+    },
+    {
+      "論文名稱": "Liquid chromatography on a centrifugal platform for separation and collection of water-soluble dyes",
+      "期刊名稱": "Chromatography A (SCIE)",
+      "作者群": "Chih-Hsin Shih*, Chao-Hui Ke, Chih-Chien Hsiao"
+    },
+    {
+      "論文名稱": "Sequential flow control by liquid decanting on a centrifugal platform",
+      "期刊名稱": "Sensors and Actuators: A. Physical (SCIE)",
+      "作者群": "Chih-Hsin Shih *, Yuan-Ting Cheng , Ho-Chin Wu , Chia-Lin Chang , Yi-Xiang Zhao"
+    },
+    {
+      "論文名稱": "THE CENTRIFUGAL VISCOMETER",
+      "期刊名稱": "Biomicrofluidics (SCIE)",
+      "作者群": "Chih-Hsin Shih*, Chia-Chin Chang, Chung-Yi Liu, Ho-Chin Wu"
+    },
+    {
+      "論文名稱": "Automated Protein Purification on a Centrifugal Platform",
+      "期刊名稱": "ECS Journal of Solid State Science and Technology (SCIE)",
+      "作者群": "Chih-Hsin Shih*, Jin-Ping Chen, and Yi-Xiang Zhao"
+    },
+    {
+      "論文名稱": "Disk-based enzyme-linked immunosorbent assays using the liquid-aliquoting and siphoning-evacuation technique",
+      "期刊名稱": "Biomicrofluidics (SCIE)",
+      "作者群": "Ho-Chin Wu, Yen-Hao Chen, Chih-Hsin Shih"
+    },
+    {
+      "論文名稱": "Design and Analysis of a Robust Sequential Flow Control using Burst Valves on the Centrifugal Platform",
+      "期刊名稱": " Journal of Nanoscience and Nanotechnology (SCIE)",
+      "作者群": " Ho-Chin Wu, Chih-Hsin Shih*, Wen-Hao. Chen, Ming-Han Lin"
+    },
+    {
+      "論文名稱": "Design and Fabrication of a Rapid Micromixer on a Centrifugal Platform",
+      "期刊名稱": "Journal of Nanoscience and Nanotechnology (SCIE)",
+      "作者群": "Chih-Hsin Shih*, Hou-Chien Chang, Wei-Li Yuan, Chia-Hui Lin, Ho-Chin Wu"
+    },
+    {
+      "論文名稱": "A Point-of-care Prothrombin Time Test on a Microfluidic Disk Analyzer Using Alternate Spinning",
+      "期刊名稱": "Journal of Nanoscience and Nanotechnology (SCIE,EI)",
+      "作者群": "C. Lin, K. Lin, D. Yen, C. Shih*, C. Lu, J. Wang, and C. Lin"
+    },
+    {
+      "論文名稱": "An enzyme-linked immunosorbent assay on a centrifugal\r\nplatform using magnetic beads",
+      "期刊名稱": "Biomicrofluidics (SCIE)",
+      "作者群": "Chih-Hsin Shih*, Ho-Chin Wu, Chong-Yi Chang, Wen-Hong Huang, Y-Feng Yang"
+    },
+    {
+      "論文名稱": "Insight into Mechanisms of Cellular Uptake of Lipid Nanoparticles\r\nand Intracellular Release of Small RNAs",
+      "期刊名稱": "Pharmaceutical Research (SCIE)",
+      "作者群": "Bo Yu, Xinmei Wang, Chenguang Zhou, Chih-Hsin Shih,  Tianyu Wang,Robert Lee,Suoqin Tang, L. James Lee"
+    },
+    {
+      "論文名稱": "A sample-to-result system for blood coagulation tests on a microfluidic disk analyzer",
+      "期刊名稱": "Biomicrofluidics (SCIE)",
+      "作者群": "Chia-Hui Lin,Cheng-Yuan Liu,Chih-Hsin Shih,and Chien-Hsing Lu"
+    },
+    {
+      "論文名稱": "Preparation and characterization of ultra-thin amphiphobic coatings on silicon wafers",
+      "期刊名稱": "Thin Solid Films (SCIE)",
+      "作者群": "Chun-Yueh Mou*, Wei-Li Yuan, Chih-Hsin Shih"
+    },
+    {
+      "論文名稱": "A fully integrated prothrombin time test on a microfluidic disc analyzer",
+      "期刊名稱": "Journal of Nanoscience and Nanotechnology (SCIE)",
+      "作者群": "Chia-Hui Lin, Chih-Hsin Shih*,and Chien-Hsing Lu"
+    },
+    {
+      "論文名稱": "Prothrombin time tests on a microfluidic disc analyzer",
+      "期刊名稱": " Sensors & Actuators: B. Chemical (SCIE,EI)",
+      "作者群": "Chih-Hsin Shih, Chien-Hsing Lu,, Jia-Huei Wu, Chia-Hui Lin, Ziunn-Min Wang, Chi-Yu Lin"
+    },
+    {
+      "論文名稱": "Oscillating Micromixers on a Compact Disc",
+      "期刊名稱": "Advanced Materials Research (EI)",
+      "作者群": "Chih-Hsin Shih*, Daniel Yen"
+    },
+    {
+      "論文名稱": "Robust Sequential Flow Controls on the Centrifugal Platform",
+      "期刊名稱": "Advanced Materials Research (EI)",
+      "作者群": "Chih-Hsin Shih*, Hou-Jin Wu, Wen-Hao Chen"
+    },
+    {
+      "論文名稱": "Supernatant decanting & metering on a centrifugal platform",
+      "期刊名稱": "Biomicrofluidics (SCIE)",
+      "作者群": "Chih-Hsin Shih*, Chien-Hsing Lu, Wei-Li Yuan, Wei-Ling Chiang, Chia-Hui Lin"
+    },
+    {
+      "論文名稱": "Effect of Tetrafluoromethane Plasma Treatment of PMMA on MCF-7 Cell Proliferation",
+      "期刊名稱": "The Open Surface Science Journal ()",
+      "作者群": "Chih-Hsin Shih*, Meng-Jiy Wang, Chien-Hsing Lu, Wei-li Yuan, Li-Qun Lai, Zong-Xin Wu, and Chi-Jung Chang"
+    },
+    {
+      "論文名稱": "未來世界的檢驗醫生-實驗室碟片",
+      "期刊名稱": "化工 ()",
+      "作者群": "林佳慧,施志欣"
+    },
+    {
+      "論文名稱": "Design and analysis of Micromixers on a Centrifugal Platform",
+      "期刊名稱": "Advanced Materials Research ()",
+      "作者群": "Chih-Hsin Shih. Chien-Hsing Lu, Chia-Hui Lin, Hou-Jin Wu"
+    },
+    {
+      "論文名稱": "Supernatant Decanting on a Centrifugal Platform",
+      "期刊名稱": "Advanced Materials Research (Peer Reviewed)",
+      "作者群": "Chih-Hsin Shih, Wei-Li Yuan, Chien-Hsing Lu, Wei-Ling Chiang"
+    },
+    {
+      "論文名稱": "微流體生物晶片之接合技術",
+      "期刊名稱": "塑膠資訊 ()",
+      "作者群": "施志欣,藍鑫帝,曾偉睿"
+    },
+    {
+      "論文名稱": "應用微流體光碟分析儀於凝血?原時間檢測\r\n \r\n",
+      "期刊名稱": "工程科技通訊 ()",
+      "作者群": "施志欣,林佳慧"
+    },
+    {
+      "論文名稱": "應用微流體分析儀於臨床快速細菌檢測",
+      "期刊名稱": "工程科技通訊 ()",
+      "作者群": "施志欣"
+    },
+    {
+      "論文名稱": "高分子微流體元件的製作",
+      "期刊名稱": "塑膠資訊 ()",
+      "作者群": "施志欣"
+    }
+  ],
+  "journal2": [],
+  "conference": [
+    {
+      "論文名稱": "Fully integrated blood coagulation tests on a microfluidic disk analyzer",
+      "會議名稱": "Advances in microfluidics & nanofluidics",
+      "作者群": "1.\tC. Lin, K. Lin, and C. Shih*"
+    },
+    {
+      "論文名稱": "An Enzyme-Linked Immunosobent Assay on a Centrifugal Platform using Magnetic Beads",
+      "會議名稱": "Advances in microfluidics and nanofluidics",
+      "作者群": "2.\tH. Wu, C. Chang, W. Huang, Y. Yang, and C. Shih*"
+    },
+    {
+      "論文名稱": "Fully integrated blood coagulation tests on a microfluidic disk analyzer",
+      "會議名稱": "Advances in microfluidics & nanofluidics",
+      "作者群": "1.\tC. Lin, K. Lin, and C. Shih*"
+    },
+    {
+      "論文名稱": "Fully integrated triglyceride tests on the microfluidic disk analyzer",
+      "會議名稱": "International Conference on Materials for Advanced Technologies (ICMAT)",
+      "作者群": "C. Lin, C. Liu, and C. Shih*"
+    },
+    {
+      "論文名稱": "Enzyme-linked immunosorbent assays (ELISA) on the centrifugal platform using aliquoting approach",
+      "會議名稱": "Advances in microfluidics & nanofluidics",
+      "作者群": "C. Shih*, H. Wu, Y. Yang"
+    },
+    {
+      "論文名稱": "The analysis of supernatant decanting and rapid mixing approach on the centrifugal platform under alternate spinning",
+      "會議名稱": "Advances in microfluidics & nanofluidics",
+      "作者群": "C. Lin, K. Lin, C. Shih*"
+    },
+    {
+      "論文名稱": "Enzyme-linked immunosorbent assays on the centrifugal platform using liquid aliquoting techniques",
+      "會議名稱": "3rd international conference on bio-sensing technology",
+      "作者群": "C. Shih*, H. Wu, Y. Yang"
+    },
+    {
+      "論文名稱": "Point-of-care prothrombin time tests on a microfluidic disk analyzer",
+      "會議名稱": "台灣化學工程學會第59屆年會",
+      "作者群": "林佳慧、林?維、施志欣*"
+    },
+    {
+      "論文名稱": "發展離心平台上分流式酵素連結免疫分析法(CD ELISA)",
+      "會議名稱": "台灣化學工程學會第59屆年會",
+      "作者群": "楊意楓、簡毓瑩、吳和晉、施志欣*"
+    },
+    {
+      "論文名稱": "離心式三酸甘油酯檢測平台",
+      "會議名稱": "台灣化學工程學會第59屆年會",
+      "作者群": "劉政源、王鈺婷、林佳慧、施志欣*"
+    },
+    {
+      "論文名稱": "Manipulation of Magnetic Beads for Enzyme-Linked Immunosorbent Assay on a Centrifugal Platform",
+      "會議名稱": "International Conference on Materials for Advanced Technologies (ICMAT)",
+      "作者群": "C. Shih*, H. Wu, C. Chang, W. Chen"
+    },
+    {
+      "論文名稱": "A whole blood PT/INR test on the centrifugal platform",
+      "會議名稱": "International symposium on microchemistry and microsystems",
+      "作者群": "Chia-Hui Lin, Chih-Hsin Shih*"
+    },
+    {
+      "論文名稱": "Liquid aliquoting on a centrifugal platform based on flow splitting techniques",
+      "會議名稱": "Advances in microfluidics and nanofluidics",
+      "作者群": "Chih-Hsin Shih, Ho-Chin Wu, Yu-Ping Yang, Yu-Ying Chien"
+    },
+    {
+      "論文名稱": "Prothrombin time monitoring using a microfluidic disc analyzer",
+      "會議名稱": "Advances in microfluidics and nanofluidics",
+      "作者群": "Chia-Hui, Lin, Kun-Wei Lin, Daniel Yen, Chih-Hsin Shih"
+    },
+    {
+      "論文名稱": "Rapid micromixer on a centrifugal platform",
+      "會議名稱": "13th Asia Pacific Confederation of Chemical Engineering Congress",
+      "作者群": "Hou-Jin Wu, Chia-Hui Lin, Chih-Hsin Shih"
+    },
+    {
+      "論文名稱": "Effect of PMMA Surface Modification on MCF-7 Cells Adhesion/Detachment in a Microchannel",
+      "會議名稱": "TACT 2009 International Thin Films Conference",
+      "作者群": "Chih-Hsin Shih, Meng-Jiy Wang, Chien-Hsing Lu, Wei-Li Yuan, Li-Qun Lai, Zong-Xin Wu"
+    },
+    {
+      "論文名稱": "Effect of Line Spacing in the Two-Line Probe Method on Electrical Conductance of Polypyrrole Nano-Films Prepared by Admicellar Polymerization",
+      "會議名稱": "TACT 2009 International Thin Films Conference",
+      "作者群": "Shih, Chih-Hsin; Mou, C. Y., Yuan, W. L.*, Shih, C. H., Weng, Y. C."
+    },
+    {
+      "論文名稱": "發展離心平台上血液分離及定量血漿傾注的技術",
+      "會議名稱": "2009台灣化學工程學會年會",
+      "作者群": "施志欣,江葦玲"
+    },
+    {
+      "論文名稱": "The micromixier based on a centrifugal platform",
+      "會議名稱": "2009台灣化學工程學會年會",
+      "作者群": "施志欣,林佳慧,吳和晉"
+    },
+    {
+      "論文名稱": "Supernatant Decanting on a Microfluidic Disc",
+      "會議名稱": "microTAS",
+      "作者群": "C.H. Shih, W.L. Yuan, C.H. Lu, W.L. Chiang, C.H. Lin"
+    },
+    {
+      "論文名稱": "Supernatant Decanting on a Centrifugal Platform",
+      "會議名稱": "ICMAT",
+      "作者群": "Shih, Chih-Hsin, W.L. Yuan, C.H. Lu, W.L. Chiang"
+    },
+    {
+      "論文名稱": "Design and Analysis of Micromixers on a Centrifugal Platform",
+      "會議名稱": "ICMAT",
+      "作者群": "Shih, Chih-Hsin, C.H. Lu, C.H. Lin, H.J. Wu"
+    },
+    {
+      "論文名稱": "Stability improvement of capillary valves  for the centrifugal microfluidics",
+      "會議名稱": "2008 Taiwan/Korea/Japan ChE Conference and 55th TwIChE Annual Conference",
+      "作者群": "Shih, Chih-Hsin, Lan, Hsin-Ti"
+    },
+    {
+      "論文名稱": "Micromixer on a Centrifugal Platform",
+      "會議名稱": "2008 Taiwan/Korea/Japan ChE Conference and 55th TwIChE Annual Conference",
+      "作者群": "Shih, Chih-Hsin, Lin, Chia-Hui; Wu, Hou-Jin"
+    },
+    {
+      "論文名稱": "2008 Asian Workshop on Polymer Processing",
+      "會議名稱": "2008 Asian Workshop on Polymer Processing",
+      "作者群": ""
+    },
+    {
+      "論文名稱": "Plasma Separation and Decanting on a Microfluidic Disc",
+      "會議名稱": "2008 Asian Workshop on Polymer Processing",
+      "作者群": "Shih, Chih-Hsin, Chiang Wei-Ling; Lai, Chin-An; Lin,Chia-Hui"
+    },
+    {
+      "論文名稱": "Effect of Surface Modification on Cell Adhesion in Microfluidic Devices",
+      "會議名稱": "2008 Taiwan/Korea/Japan ChE Conference and 55th TwIChE Annual Conference",
+      "作者群": "Shih, Chih-Hsin, Wu, Zong-Xin; Lai, Li-Qun"
+    },
+    {
+      "論文名稱": "應用冷光微流體光碟於細菌檢測",
+      "會議名稱": "2006台灣化學工程學會第53屆年會",
+      "作者群": "李蓉、鄭如茜、施志欣"
+    },
+    {
+      "論文名稱": "在微流體碟片中流體控制之研究",
+      "會議名稱": "2006台灣化學工程學會第53屆年會",
+      "作者群": "黃思維、施志欣"
+    },
+    {
+      "論文名稱": "應用微流體光碟分析儀於凝血?原時間檢測",
+      "會議名稱": "2006台灣化學工程學會第53屆年會",
+      "作者群": "鄭人豪、施志欣"
+    },
+    {
+      "論文名稱": "Development of a Point-of-Care Prothrombin Time Test on a Microfluidic Disc Platform",
+      "會議名稱": "2006 Japan/Taiwan/Korea Chemical Engineering Conference",
+      "作者群": "鄭人豪,林佳慧"
+    },
+    {
+      "論文名稱": "應用微流體光碟分析儀於臨床快速細菌檢測",
+      "會議名稱": "中國化學工程年會",
+      "作者群": "李蓉"
+    },
+    {
+      "論文名稱": "肺炎病患所形成的痰─流變性質之研究",
+      "會議名稱": "中國化學工程年會",
+      "作者群": "黃思維,陳鴻仁、徐善慧"
+    },
+    {
+      "論文名稱": "微流體光碟分析儀的製作與發展",
+      "會議名稱": "中國化學工程年會",
+      "作者群": "曾偉睿"
+    },
+    {
+      "論文名稱": "應用微流體光碟分析儀於凝血時間檢測",
+      "會議名稱": "中國化學工程年會",
+      "作者群": "林佳慧、洪鈺惠"
+    }
+  ],
+  "book": [],
+  "patent": [
+    {
+      "title": "發明",
+      "desc": "黏度測定裝置及其運作方法"
+    },
+    {
+      "title": "發明",
+      "desc": "離心式純化平台及其使用方法"
+    },
+    {
+      "title": "發明",
+      "desc": "微流體檢驗裝置及其微流體控制方法"
+    },
+    {
+      "title": "發明",
+      "desc": "Microfluidics based analyzer and method for fluid control thereof"
+    },
+    {
+      "title": "發明",
+      "desc": "免疫檢測方法"
+    },
+    {
+      "title": "發明",
+      "desc": "マイクロ流体檢查裝置及びそのマイクロ流体の制御方法"
+    },
+    {
+      "title": "發明",
+      "desc": "流體黏度檢測裝置及其運作方法"
+    },
+    {
+      "title": "發明",
+      "desc": "微流體檢驗裝置及其微流體控制方法"
+    },
+    {
+      "title": "發明",
+      "desc": "離心式檢測平台"
+    },
+    {
+      "title": "發明",
+      "desc": "利用分流結構進行生化檢測裝置及其運作方法"
+    },
+    {
+      "title": "發明",
+      "desc": "利用分流結構進行生化檢測裝置及其運作方法"
+    },
+    {
+      "title": "發明",
+      "desc": "利用分流結構進行生化檢測裝置及其運作方法"
+    },
+    {
+      "title": "發明",
+      "desc": "Apparatus and Methodology to Carry out Biochemical Testing on a Centrifugal Platform using Flow splitting Technique"
+    },
+    {
+      "title": "發明",
+      "desc": "Apparatus and Methodology to carry out Biochemical Testing on a centrifugal platform using flow splitting technique"
+    },
+    {
+      "title": "發明",
+      "desc": "在離心系統下傳送定量液體的傳送裝置與傳送方法"
+    },
+    {
+      "title": "發明",
+      "desc": "在離心系統中混合流體之混合裝置與混合方法"
+    },
+    {
+      "title": "發明",
+      "desc": "Manufacturing Processes for Making Optical Analysis Discs including Successive Patterning Operations and Optical Discs thereby Manufactured"
+    }
+  ],
+  "most": [
+    {
+      "name": "離心式模組化平台及其在生化生醫應用之開發",
+      "schoolYear": "113"
+    },
+    {
+      "name": "開發離心式層析檢測平台(3/3)",
+      "schoolYear": "112"
+    },
+    {
+      "name": "離心平台上以歐拉力輔助虹吸依序釋放之改善",
+      "schoolYear": "112"
+    },
+    {
+      "name": "開發離心式層析檢測平台(2/3)",
+      "schoolYear": "111"
+    },
+    {
+      "name": "三維微組織高通量藥物篩選平台的開發: 離心式微流道系統於毛囊藥物篩選的應用研究(3/3)",
+      "schoolYear": "111"
+    },
+    {
+      "name": "開發離心式層析檢測平台(1/3)",
+      "schoolYear": "110"
+    },
+    {
+      "name": "三維微組織高通量藥物篩選平台的開發: 離心式微流道系統於毛囊藥物篩選的應用研究(2/3)",
+      "schoolYear": "110"
+    },
+    {
+      "name": "開發離心式震盪黏度計",
+      "schoolYear": "110"
+    },
+    {
+      "name": "發展離心式生物流體黏度分析儀(2/2)",
+      "schoolYear": "109"
+    },
+    {
+      "name": "三維微組織高通量藥物篩選平台的開發: 離心式微流道系統於毛囊藥物篩選的應用研究(1/3)",
+      "schoolYear": "109"
+    },
+    {
+      "name": "發展離心式生物流體黏度分析儀(1/2)",
+      "schoolYear": "108"
+    },
+    {
+      "name": "發展離心式生物流體黏度分析儀",
+      "schoolYear": "107"
+    },
+    {
+      "name": "發展離心平台上免疫檢測之有效清洗方法",
+      "schoolYear": "106"
+    },
+    {
+      "name": "(開發型)產學合作計畫－應用侷域性表面電漿共振(LSPR)技術於免疫檢測之微流體分析儀",
+      "schoolYear": "105"
+    },
+    {
+      "name": "(廠配)希華晶體科技股份有限公司(開發型)產學合作計畫－應用侷域性表面電漿共振(LSPR)技術於免疫檢測之微流體分析儀",
+      "schoolYear": "105"
+    },
+    {
+      "name": "於離心平台上發展分子生物檢測技術",
+      "schoolYear": "105"
+    },
+    {
+      "name": "開發可攜式微流體全血免疫檢測分析儀",
+      "schoolYear": "104"
+    },
+    {
+      "name": "(開發型)產學合作計畫－開發可攜式微流體全血生化分析儀 (III)",
+      "schoolYear": "103"
+    },
+    {
+      "name": "(廠配)揚博科技股份有限公司(開發型)產學合作計畫－開發可攜式微流體全血生化分析儀 (III)",
+      "schoolYear": "103"
+    },
+    {
+      "name": "發展新一代離心式酵素連結免疫分析平台 (二)",
+      "schoolYear": "103"
+    },
+    {
+      "name": "微流體震盪檢測平台血漿定量之設計與分析",
+      "schoolYear": "103"
+    },
+    {
+      "name": "(開發型)產學合作計畫－開發可攜式微流體全血生化分析儀(II)",
+      "schoolYear": "102"
+    },
+    {
+      "name": "(廠配)(開發型)產學合作計畫－開發可攜式微流體全血生化分析儀(II)(揚博科技股份有限公司)",
+      "schoolYear": "102"
+    },
+    {
+      "name": "發展新一代離心式酵素連結免疫分析平台",
+      "schoolYear": "102"
+    },
+    {
+      "name": "(開發型)產學合作計畫─開發可攜式微流體全血生化分析儀",
+      "schoolYear": "101"
+    },
+    {
+      "name": "(廠配)(開發型)產學合作計畫─開發可攜式微流體全血生化分析儀(揚博科技股份有限公司)",
+      "schoolYear": "101"
+    },
+    {
+      "name": "應用分流技術發展新一代酵素連結免疫分析法光碟平台",
+      "schoolYear": "101"
+    },
+    {
+      "name": "(開發型)產學合作計畫─開發可攜式微流體凝血?原時間檢測分析儀(2/2)",
+      "schoolYear": "100"
+    },
+    {
+      "name": "(廠配)(開發型)產學合作計畫─開發可攜式微流體凝血?原時間檢測分析儀(2/2)(揚博科技股份有限公司)",
+      "schoolYear": "100"
+    },
+    {
+      "name": "應用旋轉平台上之磁珠操控技術發展酵素連結免疫分析法",
+      "schoolYear": "100"
+    },
+    {
+      "name": "(開發型)產學合作計畫─開發可攜式微流體凝血庻原時間檢測分析儀(1/2)",
+      "schoolYear": "99"
+    },
+    {
+      "name": "(廠配)(開發型)產學合作計畫─開發可攜式微流體凝血庻原時間檢測分析儀(1/2)(揚博科技股份有限公司)",
+      "schoolYear": "99"
+    },
+    {
+      "name": "發展離心平台上血漿傾注量之研究",
+      "schoolYear": "99"
+    },
+    {
+      "name": "發展離心式平台上的微流體混合方法及樣品處理技術",
+      "schoolYear": "98"
+    },
+    {
+      "name": "發展離心平台上的微流體技術",
+      "schoolYear": "97"
+    },
+    {
+      "name": "逢甲大學貴重儀器共同使用服務計畫",
+      "schoolYear": "95"
+    },
+    {
+      "name": "發展微流體光碟酵素連結免疫分析法",
+      "schoolYear": "95"
+    },
+    {
+      "name": "逢甲大學貴重儀器共同使用服務計畫",
+      "schoolYear": "94"
+    },
+    {
+      "name": "應用微流體光碟分析儀於凝血檢測",
+      "schoolYear": "94"
+    },
+    {
+      "name": "應用微流體光碟分析儀於臨床快速細菌檢測",
+      "schoolYear": "93"
+    },
+    {
+      "name": "微流體光碟分析儀的製作與發展",
+      "schoolYear": "92"
+    }
+  ],
+  "tech": [],
+  "induAca": [
+    "微流控免疫分析晶片的開發(國合計畫) (2013-12 to 2014-11)",
+    "98B1(應用微流體分析技術於臨床檢測) (2010-01 to 2010-12)",
+    "98B1(應用微流體分析技術於臨床檢測) (2009-01 to 2009-12)",
+    "共儀中心委託試驗收入(國科會儀器使用費58筆)(97.05-97.07) (2008-05 to 2008-07)",
+    "共儀中心委託試驗收入(非國科會儀器使用費126筆)(97.05-97.07) (2008-05 to 2008-07)",
+    "共儀中心委託試驗收入(國科會儀器使用費)(97.03-97.04) (2008-03 to 2008-04)",
+    "共儀中心委託試驗收入(非國科會儀器使用費)(97.03-97.04) (2008-03 to 2008-04)",
+    "「美律實業股份有限公司」委託試驗 (2008-02 to 2009-02)",
+    "共儀中心委託試驗收入(國科會儀器使用費)(96.11-97.02) (2007-11 to 2008-02)",
+    "共儀中心委託試驗收入(非國科會儀器使用費)(96.11-97.02) (2007-11 to 2008-02)",
+    "共儀中心委託試驗收入(國科會儀器使用費)(96.08-96.10) (2007-08 to 2007-10)",
+    "共儀中心委託試驗收入(非國科會儀器使用費)(96.08-96.10) (2007-08 to 2007-10)",
+    "共儀中心委託試驗收入(國科會儀器使用費)(96.05-96.07) (2007-05 to 2007-07)",
+    "共儀中心委託試驗收入(非國科會儀器使用費)(96.05-96.07) (2007-05 to 2007-07)",
+    "「美律實業股份有限公司」委託試驗 (2007-04 to 2008-04)",
+    "「愛爾蘭商速聯(股)公司台灣分公司」委託試驗 (2007-03 to 2008-02)",
+    "共儀中心委託試驗收入(國科會儀器使用費)(96.02-96.04) (2007-02 to 2007-04)",
+    "共儀中心委託試驗收入(非國科會儀器使用費)(96.02-96.04) (2007-02 to 2007-04)",
+    "「智勝科技股份有限公司」委託試驗 (2007-01 to 2008-01)",
+    "「成霖企業股份有限公司」委託試驗 (2006-10 to 2008-04)",
+    "共儀中心委託試驗收入(國科會儀器使用費)(95.08-96.01) (2006-08 to 2007-01)",
+    "共儀中心委託試驗收入(非國科會儀器使用費)(95.08-96.01) (2006-08 to 2007-01)"
+  ],
+  "perform": [],
+  "reward": [
+    "113年度國科會補助大專校院研究獎勵 (113, 2024-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (113, 2024-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (113, 2024-11) - 逢甲大學",
+    "112年度國科會補助大專校院研究獎勵 (112, 2023-12) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (111, 2022-11) - 逢甲大學",
+    "111學年度教學績優獎 (111, 2022-11) - 逢甲大學",
+    "111年度國科會補助大專校院研究獎勵 (111, 2022-10) - 研究發展處",
+    "逢甲大學論文著作獎勵傑出獎 (110, 2021-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (110, 2021-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (110, 2021-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (110, 2021-11) - 逢甲大學",
+    "110年度科技部補助大專校院研究獎勵 (110, 2021-10) - 產學合作處",
+    "109學年度教學績優獎 (109, 2020-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (109, 2020-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (109, 2020-11) - 逢甲大學",
+    "109年度科技部補助大專校院研究獎勵 (109, 2020-10) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (108, 2019-11) - 逢甲大學",
+    "108學年度科技部補助大專校院研究獎勵 (108, 2019-09) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (107, 2018-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (106, 2017-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (106, 2017-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (105, 2016-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (105, 2016-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (105, 2016-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (104, 2015-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (104, 2015-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (104, 2015-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (104, 2015-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (103, 2014-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (103, 2014-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (102, 2013-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (101, 2012-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (101, 2012-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (101, 2012-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (101, 2012-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (101, 2012-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵 (99, 2010-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵 (99, 2010-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵 (99, 2010-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵 (99, 2010-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵 (98, 2009-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵 (96, 2007-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵 (96, 2007-11) - 逢甲大學"
+  ],
+  "speech": [
+    {
+      "演講題目": "Applications of Microfluidic CD Analyzer on POC Clinical Diagnosis",
+      "邀請單位": "中興大學",
+      "演講日期": "2011-03"
+    },
+    {
+      "演講題目": "Applications of Microfluidic CD Analyzer on POC Clinical Diagnosis",
+      "邀請單位": "長庚大學生技系",
+      "演講日期": "2009-12"
+    },
+    {
+      "演講題目": "Applications of Microfluidic CD Analyzer on POC Clinical Diagnosis",
+      "邀請單位": "長庚大學生技系",
+      "演講日期": "2008-12"
+    },
+    {
+      "演講題目": "Applications of Microfluidic CD Analyzer on POC Clinical Dia",
+      "邀請單位": "台灣科技大學",
+      "演講日期": "2007-03"
+    },
+    {
+      "演講題目": "Applications of Microfluidic CD Analyzer on POC Clinical Dia",
+      "邀請單位": "成功大學",
+      "演講日期": "2007-01"
+    },
+    {
+      "演講題目": "Application of microfluidic CD analyzer on POC clinical diag",
+      "邀請單位": "中正大學化工系",
+      "演講日期": "2006-03"
+    },
+    {
+      "演講題目": "微流體光學分析儀在生醫檢測的應用",
+      "邀請單位": "中原大學模具自動化教學資源中心",
+      "演講日期": "2005-07"
+    },
+    {
+      "演講題目": "微流體光學分析儀在醫療檢驗上的應用",
+      "邀請單位": "台灣科技大學高分子工程系",
+      "演講日期": "2005-01"
+    }
+  ],
+  "material": [
+    "高分子工程\t自行出版\t施志欣\t複合教材",
+    "高分子流變學\t自行出版\t施志欣\t複合教材",
+    "單元操作(一)\t自行出版\t施志欣\t複合教材",
+    "輸送現象特論\t自行出版\t施志欣\t複合教材",
+    "微製造與微流體技術\t自行出版\t施志欣\t複合教材",
+    "生化檢測\t自行出版\t施志欣\t複合教材",
+    "單元操作（二）\t自行出版\t施志欣\t複合教材"
+  ],
+  "tal": []
+}

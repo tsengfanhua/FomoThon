@@ -1,0 +1,376 @@
+{
+  "teacherId": "T05218",
+  "name": "林佩君",
+  "mainUnit": "資訊電機學院",
+  "detailUnit": "資訊工程學系",
+  "skill": [
+    "模糊統計Fuzzy Statistics",
+    "統計建模Statistical Modeling",
+    "感性工學Kansei Engineering",
+    "大數據分析Big Data Analytics",
+    "人工智慧開發與應用Artificial Intelligence Development and Application"
+  ],
+  "edu": [
+    "早稻田大學 情報生產管理學研究院 博士",
+    "國立政治大學 應用數學系 碩士",
+    "國立高雄師範大學 數學系 學士"
+  ],
+  "fcuExp": [
+    "應用數學系 助教",
+    "資訊工程學系 助理教授",
+    "資訊工程學系 副教授"
+  ],
+  "currjob": [],
+  "otherExp": [],
+  "journal": [
+    {
+      "論文名稱": "Designing inclusive tech playful educative solutions for visually impaired learners in STEM education",
+      "期刊名稱": "Smart Learning Environments (ESCI)",
+      "作者群": "J. A. C. Castaneda, P.-C. Lin, P. C. K. Hung, H.-X. Zhong, H.-A. Tseng, Y.-F. Huang, and R. Ahmad"
+    },
+    {
+      "論文名稱": "Semantic Positioning Model Incorporating BERT/RoBERTa and Fuzzy Theory Achieves More Nuanced Japanese Adverb Clustering",
+      "期刊名稱": "Electronics (SCIE)",
+      "作者群": "Odle, E., Y.-J. Hsueh, and P.-C. Lin"
+    },
+    {
+      "論文名稱": "Estimating Probability Values based on Naïve Bayes for Fuzzy Random Regression Model",
+      "期刊名稱": "International Journal of Advanced Computer Science and Applications (IJACSA) (EI)",
+      "作者群": "Hamijah Mohd Rahman, Nureize Arbaiy, Chuah Chai Wen, and P.-C. Lin"
+    },
+    {
+      "論文名稱": "Deep learning for football outcomes prediction based on football rating system",
+      "期刊名稱": "AIP Conference Proceedings (.)",
+      "作者群": "N. Razali, A. Mustapha, N. Arbaiy, and P.-C. Lin"
+    },
+    {
+      "論文名稱": "Forecasting of ARIMA air pollution with improved fuzzy data preparation",
+      "期刊名稱": "AIP Conference Proceedings (.)",
+      "作者群": "M. S. Che Lah, N. Arbaiy, and P.-C. Lin"
+    },
+    {
+      "論文名稱": "An improved ARIMA fitting procedure",
+      "期刊名稱": "AIP Conference Proceedings (.)",
+      "作者群": "M. S. Che Lah, N. Arbaiy, and P.-C. Lin"
+    },
+    {
+      "論文名稱": "Consistent Conjectural Variations Equilibrium in a Mixed Oligopoly Model with a Labor-Managed Company and a Discontinuous Demand Function",
+      "期刊名稱": "IEEE Access (SCIE)",
+      "作者群": "N. Kalashnykova, V. Kalashnikov, J. Watada, J. G. Flores-Muñiz, T. Anwar and P. -C. Lin"
+    },
+    {
+      "論文名稱": "Scenario-Based Distributionally Robust Unit Commitment Optimization Involving Cooperative Interaction with Robots",
+      "期刊名稱": "Information Systems Frontiers (SCIE)",
+      "作者群": "X. Song, B. Wang, P.-C. Lin, G. Ge, R. Yuan, and J. Watada"
+    },
+    {
+      "論文名稱": "Environmental noise pollution forecasting using Fuzzy-Autoregressive Integrated Moving Average modelling",
+      "期刊名稱": "International Journal of Advanced Computer Science and Applications (EI)",
+      "作者群": "Muhammad Shukri Che Lah, Nureize Arbaiy, Syahir Ajwad Sapuan, and P.-C. Lin"
+    },
+    {
+      "論文名稱": "An Experimental Design for Facial and Color Emotion Expression of a Social Robot",
+      "期刊名稱": "J Supercomput (SCIE,EI)",
+      "作者群": "P.-C. Lin, Patrick C. K. Hung, Ying Jiang, Carolina Padilla Velasco, and Marco Antonio Martínez Cano"
+    },
+    {
+      "論文名稱": "Guest editorial: Social robots, services and applications",
+      "期刊名稱": "Library Hi Tech (SSCI)",
+      "作者群": "J. Kelner, P.-C. Lin, K. K. F. Tsoi, Z. Maamar, P. C. K. Hung, D. K. W. Chiu, and K. K. W. Ho"
+    },
+    {
+      "論文名稱": "Building a Speech Recognition System with Privacy Identification Information based on Google Voice for Social Robots",
+      "期刊名稱": "J Supercomput (SCIE,EI)",
+      "作者群": "P.-C. Lin, B. Yankson, V. Chauhan, and M. Tsukada"
+    },
+    {
+      "論文名稱": "A Decade of Soft Computing Approaches in Power System Investment Planning",
+      "期刊名稱": "Journal of Physics: Conference Series (EI)",
+      "作者群": "S. B. Yaakob, A. S. F. Rahman, N. M. Mukhtar, M. N. Yaakob, N. Arbaiy, and P.-C. Lin"
+    },
+    {
+      "論文名稱": "Bus Ticketing System with Multiple Routes Suggestion",
+      "期刊名稱": "Turkish Journal of Computer and Mathematics Education (.)",
+      "作者群": "F. Y. Ling, N. Arbaiy, Y. M. M. Hassim, and P.-C. Lin"
+    },
+    {
+      "論文名稱": "User-Oriented Preference Toward a Recommender System",
+      "期刊名稱": "Baghdad Science Journal (.)",
+      "作者群": "P.-C. Lin, and N. Arbaiy"
+    },
+    {
+      "論文名稱": "Delivery Route Management based on Dijkstra Algorithm",
+      "期刊名稱": "Baghdad Science Journal (.)",
+      "作者群": "N. L. Sheng, N. Arbaiy, C. C. Wen, and P.-C. Lin"
+    },
+    {
+      "論文名稱": "An Architecture of Air Pollution Alert System based on ARIMA Model",
+      "期刊名稱": "Solid State Technology (EI)",
+      "作者群": "P.-C. Lin, Muhammad Shukri Che Lah, and Nureize Arbaiy"
+    },
+    {
+      "論文名稱": "Character model identification and interactive AI simulation application",
+      "期刊名稱": "Impact (.)",
+      "作者群": "P.-C. Lin"
+    },
+    {
+      "論文名稱": "Stock Index Modelling Using ARIMA with Standard Deviation Based Triangular Fuzzy Numbers",
+      "期刊名稱": "Journal of Critical Reviews (.)",
+      "作者群": "M. S. Che Lah, N. Arbaiy, and P.-C. Lin"
+    },
+    {
+      "論文名稱": "Mean-Variance Model with Fuzzy Random Data",
+      "期刊名稱": "Journal of Critical Reviews (.)",
+      "作者群": "M. H. H. Othman, N. Arbaiy, M. S. Che Lah, and P.-C. Lin"
+    },
+    {
+      "論文名稱": "Movie Recommender Chatbot Based on Kansei Engineering",
+      "期刊名稱": "Journal of Soft Computing and Data Mining (.)",
+      "作者群": "P.-C. Lin, C.-A., Lai, Y.-H. Lin, and M. H. H. Othman"
+    },
+    {
+      "論文名稱": "Life Expectancy Analysis of DSR and DSDV Protocol in MANET with Dos Attack",
+      "期刊名稱": "International Journal of Computer Science and Network Security (ESCI)",
+      "作者群": "M. I. Idris, A. H. A. Rahman, P.-C. Lin, and P. C. K. Hung"
+    },
+    {
+      "論文名稱": "The Construction Site Ambient Noise Monitoring System with Internet of Things (IoT)",
+      "期刊名稱": "Computational Research Progress in Applied Science & Engineering (.)",
+      "作者群": "N. Arbaiy, S. A. Sapuan, M. S. Che Lah, M. H. H. Othman, and P.-C. Lin"
+    },
+    {
+      "論文名稱": "Confidence interval calculator for fuzzy random regression",
+      "期刊名稱": "AIP Conference Proceeding (.)",
+      "作者群": "N. P. Xiang, N. Arbaiy, H. A. Rahman, M. Z. M. Salikon, and P.-C. Lin"
+    },
+    {
+      "論文名稱": "Workplace Safety Risk Assessment Model Based on Fuzzy Regression",
+      "期刊名稱": "Advanced Science Letters (.)",
+      "作者群": "N. Arbaiy, H. A. Rahman, M. Z. M. Salikon, and P.-C. Lin"
+    },
+    {
+      "論文名稱": "Hybrid Uncertainties Modeling for Production Planning Problems",
+      "期刊名稱": "Communications in Mathematics and Applications (ESCI)",
+      "作者群": "H. M. Rahman, N. Arbaiy, and P.-C. Lin"
+    }
+  ],
+  "journal2": [],
+  "conference": [
+    {
+      "論文名稱": "Prototype for a Personalized Music Recommendation System Based on TL-CNN-GRU Model with 10-Fold Cross-Validation",
+      "會議名稱": "2024 7th Artificial Intelligence and Cloud Computing Conference (AICCC 2024)",
+      "作者群": "P.-C. Lin, C.-Y. Yu, and E. Odle"
+    },
+    {
+      "論文名稱": "BiLSTM-Based Approach for Music Genre Classification",
+      "會議名稱": "iSCSi 2024 – International Conference on Industry Science and Computer Sciences Innovation",
+      "作者群": "P.-C. Lin, and N. Arbaiy"
+    },
+    {
+      "論文名稱": "Japanese adverb taxonomy: Modern nlp tools and comparative linguistic analysis",
+      "會議名稱": "30th Annual Conference of the Association for Natural Language Processing",
+      "作者群": "E. Odle, Y.-J. Hsueh, S. Ghzal, and P.-C. Lin"
+    },
+    {
+      "論文名稱": "A Type 2 Fuzzy Set Approach For Natural Words Regression Analysis Under Random Environment",
+      "會議名稱": "17th International Conference on Innovative Computing, Information and Control (ICICIC2023)",
+      "作者群": "J. Watada, P.-C. Lin, B. Wang, and J.-S. Pan"
+    },
+    {
+      "論文名稱": "ARIMA-LP: A Hybrid Model for Air Pollution Forecasting with Uncertainty Data",
+      "會議名稱": "2023 IEEE 8th International Conference On Software Engineering and Computer Systems (ICSECS)",
+      "作者群": "M. S. Che Lah, N. Arbaiy, and P.-C. Lin"
+    },
+    {
+      "論文名稱": "Retaining Semantics in Image to Music Conversion",
+      "會議名稱": "24th IEEE International Symposium on Multimedia",
+      "作者群": "Z. Xiong, P.-C. Lin, and A. Farjudian"
+    },
+    {
+      "論文名稱": "A Prototype of Privacy Identification System for Smart Toy Dialogue Design",
+      "會議名稱": "17th IEEE International Conference on Networking, Sensing and Control (IEEE ICNSC 2020)",
+      "作者群": "P.-C. Lin, B. Yankson, and P. C. K. Hung"
+    },
+    {
+      "論文名稱": "Children Privacy Identification System in LINE Chatbot for Smart Toys",
+      "會議名稱": "IEEE International Conference on Cloud Computing (IEEE CLOUD 2019)",
+      "作者群": "P.-C. Lin, B. Yankson, Z. Lu, and P. C. K. Hung"
+    },
+    {
+      "論文名稱": "Fuzzy Random Data Preparation in Portfolio Selection Model",
+      "會議名稱": "5th International Conference on Communication, Management and Information Technology",
+      "作者群": "M. H. H. Othman, N. Arbaiy, M. S. Che Lah, and P.-C. Lin"
+    },
+    {
+      "論文名稱": "Towards A Music Visualization on Robot (MVR) Prototype",
+      "會議名稱": "IEEE International Conference on Artificial Intelligence and Virtual Reality (AIVR)",
+      "作者群": "P.-C. Lin, D. Mettrick, P. C. K. Hung, and F. Iqbal"
+    },
+    {
+      "論文名稱": "From sharing good to build a common good society: Take the mobility platform for vulnerable groups as an example",
+      "會議名稱": "15th International Symposium on Pervasive Systems, Algorithms and Networks (I-SPAN)",
+      "作者群": "S.-T. Hou, F. H. H. Chen, and P.-C. Lin"
+    },
+    {
+      "論文名稱": "A Novel Classifier for A Kansei Recommender System",
+      "會議名稱": "2018 IEEE International Conference on Cognitive Computing",
+      "作者群": "P.-C. Lin, and N. Arbaiy"
+    },
+    {
+      "論文名稱": "Hypothesis Test for Identifying the Vague Factors from Consolidated Income",
+      "會議名稱": "2017 IEEE International Conference on Fuzzy Systems (Fuzzy-IEEE)",
+      "作者群": "P.-C. Lin, N. Arbaiy, and Y.-C. Hsiao"
+    }
+  ],
+  "book": [
+    {
+      "專業書籍": "Unconventional Methods for Geoscience, Shale Gas and Petroleum in the 21st Century",
+      "出版單位": "Advances in Energy Research and Development, Vol. 2, IOS Pub",
+      "作者群": "J. Watada, S. C. Tan, P.-C. Lin, H. Yano, Y. Yabuuchi, E. Padmanabhan, L.C. Jain"
+    }
+  ],
+  "patent": [],
+  "most": [
+    {
+      "name": "基於音樂合成展現視覺藝術技術",
+      "schoolYear": "113"
+    },
+    {
+      "name": "對話系統之安全性偵測模擬及其應用(2/2)",
+      "schoolYear": "110"
+    },
+    {
+      "name": "對話系統之安全性偵測模擬及其應用(1/2)",
+      "schoolYear": "109"
+    },
+    {
+      "name": "邀請University of Ontario Institute of Technology C.K. Patrick Hung教授",
+      "schoolYear": "108"
+    },
+    {
+      "name": "人物模型認定與互動AI模擬應用",
+      "schoolYear": "108"
+    },
+    {
+      "name": "基於感性工程之聊天機器人推薦系統",
+      "schoolYear": "107"
+    },
+    {
+      "name": "逢甲學生人流資料之分析",
+      "schoolYear": "106"
+    }
+  ],
+  "tech": [
+    {
+      "論文名稱": "Portfolio Optimization with Percentage Error-Based Fuzzy Random Data for Industrial Production (2024-07)",
+      "書名": "Recent Advances on Soft Computing and Data Mining, Lecture Notes in Networks and Systems (LNNS)",
+      "作者群": "M. H. H. Othman, N. Arbaiy, M. S. Che Lah, and P.-C. Lin"
+    },
+    {
+      "論文名稱": "Enhanced Air Quality Index Prediction Using a Hybrid Convolutional Network (2024-07)",
+      "書名": "Recent Advances on Soft Computing and Data Mining, Lecture Notes in Networks and Systems (LNNS)",
+      "作者群": "P.-C. Lin, N. Arbaiy, and C.-Y. Yu"
+    },
+    {
+      "論文名稱": "ARIMA Model Analysis for Portfolio Selection (2022-07)",
+      "書名": "Transactions on Computational Science & Computational Intelligence",
+      "作者群": "P.-C. Lin, N. Arbaiy, S. B. Yaakob, Q.-K. Lin, and C.-H. Chiu"
+    },
+    {
+      "論文名稱": "Comparing Recurrent Neural Network Types in a Music Genre Classification Task: Gated Recurrent Unit Superiority using the GTZAN Dataset (2022-07)",
+      "書名": "Transactions on Computational Science & Computational Intelligence",
+      "作者群": "E. Odle, P.-C. Lin, and A. Farjudian"
+    },
+    {
+      "論文名稱": "Fuzzy-Autoregressive Integrated Moving Average (F-ARIMA) Model to Improve Temperature forecast (2022-05)",
+      "書名": "Recent Advances on Soft Computing and Data Mining, Lecture Notes in Networks and Systems (LNNS)",
+      "作者群": "M. Che Lah, N. Arbaiy, Y. M. M. Hassim, M. N. M. Salleh, P.-C. Lin, and S. B. Yaakob"
+    },
+    {
+      "論文名稱": "A Case Study of Facial Expression and Color for Social Robot’s Emotion Expression (2021-07)",
+      "書名": "Transactions on Computational Science & Computational Intelligence",
+      "作者群": "P.-C. Lin, and P. C. K. Hung"
+    },
+    {
+      "論文名稱": "Fuzzy Coordination System for Traffic Light (2020-07)",
+      "書名": "Lecture Notes in Electrical Engineering",
+      "作者群": "T. R. Shyang, A. L. S. Pang, N. Arbaiy, M. H. H. Othman, M. Z. M. Salikon, and P.-C. Lin"
+    },
+    {
+      "論文名稱": "Fuzzy Random Based Mean Variance Model for Agricultural Production Planning (2019-12)",
+      "書名": "Advances in Intelligent Systems and Computing",
+      "作者群": "M. H. H. Othman, N. Arbaiy, M. S. Che Lah, and P.-C. Lin"
+    },
+    {
+      "論文名稱": "Robot Computing for Music Visualization (2019-03)",
+      "書名": "Lecture Notes in Computer Science (LNCS)",
+      "作者群": "P.-C. Lin, David Mettrick, Patrick C. K. Hung, and Farkhund Iqbal"
+    },
+    {
+      "論文名稱": "An Algorithm Design of Kansei Recommender System (2018-01)",
+      "書名": "Recent Advances on Soft Computing and Data Mining",
+      "作者群": "P.-C. Lin and A. Nureize"
+    },
+    {
+      "論文名稱": "An Enhanced Possibilistic Programming Model with Fuzzy Random Confidence-Interval for Multi-Objective Problem (2017-11)",
+      "書名": "Innovative Computing, Optimization and Its Applications",
+      "作者群": "N. Arbaiy, N. A. Samsudin, A. Mustapa, J. Watada, and P.-C. Lin"
+    }
+  ],
+  "induAca": [
+    "凱智綠能科技股份有限公司申請投資設立中部科學園區之諮詢顧問案 (2022-10 to 2022-11)",
+    "（108年〉中台灣弱勢與偏鄉行動服務支持系統 (2019-01 to 2019-12)",
+    "（107年）中台灣弱勢與偏鄉行動服務支持系統 (2018-01 to 2018-12)",
+    "106 年度教育部補助大學社會責任實踐計畫(B類：萌芽型計畫)「中台灣弱勢與偏鄉行動服務支持系統」 (2017-08 to 2018-03)"
+  ],
+  "perform": [],
+  "reward": [
+    "逢甲大學論文著作獎勵優等獎 (113, 2024-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (113, 2024-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優等獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (111, 2022-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (110, 2021-11) - 逢甲大學"
+  ],
+  "speech": [
+    {
+      "演講題目": "Kansei Engineering on Artificial Intelligent and Its Application",
+      "邀請單位": "International Society of Management Engineers",
+      "演講日期": "2020-12"
+    },
+    {
+      "演講題目": "Artificial Intelligence Applications in Future Robots",
+      "邀請單位": "Faculty of Information Science and Technology, UKM",
+      "演講日期": "2019-04"
+    },
+    {
+      "演講題目": "逢甲大學MOOCs/SPOCs課程推動經驗分享會",
+      "邀請單位": "逢甲大學雲端學院/逢甲大學圖書館",
+      "演講日期": "2019-03"
+    },
+    {
+      "演講題目": "日本留學經驗&移地教學計畫宣導",
+      "邀請單位": "資電學院資訊工程系",
+      "演講日期": "2018-03"
+    },
+    {
+      "演講題目": "從日本人的視角反思台灣之教育",
+      "邀請單位": "公共事務與社會創新研究所/逢甲大學B型企業",
+      "演講日期": "2017-11"
+    },
+    {
+      "演講題目": "新世代機器人-智慧玩具",
+      "邀請單位": "國立政治大學應用數學系演講",
+      "演講日期": "2016-11"
+    }
+  ],
+  "material": [
+    "計算機概論及實習II\t雲端學院\t林佩君\tMOOCs/SPOCs"
+  ],
+  "tal": [
+    "112年度大專校院教學實踐研究計畫「磨課師輔助創意教學於資訊工程基礎科目之學習成效探討」 (112)"
+  ]
+}

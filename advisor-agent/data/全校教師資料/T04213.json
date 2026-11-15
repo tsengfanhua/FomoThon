@@ -1,0 +1,219 @@
+{
+  "teacherId": "T04213",
+  "name": "周至宏",
+  "mainUnit": "工程與科學學院",
+  "detailUnit": "機械與電腦輔助工程學系",
+  "skill": [
+    "人工智慧Artificial Intelligence",
+    "資訊技術與系統整合Information Technology and System Integration",
+    "穩健優化技術Robust Optimization",
+    "系統動力與控制System Dynamics and Control",
+    "自動化系統整合技術Integration Technology of Automation Systems"
+  ],
+  "edu": [
+    "國立中山大學 機械電子研究所 博士",
+    "國立成功大學 工程科學系 碩士",
+    "國立成功大學 工程科學系 學士"
+  ],
+  "fcuExp": [
+    "校長室 榮譽副校長",
+    "工學院 特約講座",
+    "工學院 特約講座",
+    "工學院 特約講座",
+    "機械與電腦輔助工程學系 特約講座",
+    "機械與電腦輔助工程學系 特約講座",
+    "機械與電腦輔助工程學系 教授",
+    "機械與電腦輔助工程學系 講座教授",
+    "機械與電腦輔助工程學系 教授",
+    "機械與電腦輔助工程學系 教授",
+    "機械與電腦輔助工程學系 教授"
+  ],
+  "currjob": [],
+  "otherExp": [
+    "高雄應用科技大學  講座教授",
+    "高雄應用科技大學 電機工程系 教授",
+    "高雄第一科技大學 機械與自動化學系 教授",
+    "雲林科技大學 機械系 教授",
+    "高雄應用科技大學 機械系 副教授"
+  ],
+  "journal": [
+    {
+      "論文名稱": "Intelligent modeling method to optimal predictive model for metal powder injection molding gears using fuzzy-logic-based multi objective design",
+      "期刊名稱": "Int. J. of Fuzzy Systems (SCIE)",
+      "作者群": "W. T. Huang, C. Y. Kung, and J. H. Chou"
+    },
+    {
+      "論文名稱": "FPGA implementation of QUasi-Affine TRansformation evolutionary algorithm",
+      "期刊名稱": "Knowledge-Based Systems (SCIE)",
+      "作者群": "J. S. Pan, Q. Y. Yang, J. H. Chou, C. C. Hu, and S. C. Chu"
+    },
+    {
+      "論文名稱": "Improvement technique for group search optimization using experimental design method",
+      "期刊名稱": "Applied Sciences-Basel (SCIE)",
+      "作者群": "P. Y. Yang, K. Y. Yang, W. H. Ho, F. I Chou, and J. H. Chou"
+    },
+    {
+      "論文名稱": "Graphite Classification of Gray Cast Iron in Metallographic via A Deep Learning Approach",
+      "期刊名稱": "Journal of Internet Technology (SCIE)",
+      "作者群": "Wesley Huang, Zhi-Yuan Su, Chia-Sui Wang, Mark Yeh, and Jyh-Horng Chou"
+    },
+    {
+      "論文名稱": "Temperature Prediction for Reheating Furnace by Gated Recurrent Unit Approach",
+      "期刊名稱": "IEEE Access (SCIE)",
+      "作者群": "Chien-Jung Chen, Fu-I Chou, and Jyh-Horng Chou*"
+    },
+    {
+      "論文名稱": "Integrating Taguchi method and gray relational analysis for auto locks by using multiobjective design in computer-aided engineering",
+      "期刊名稱": "Polymers (SCIE)",
+      "作者群": "Wei-Tai Huang, Zi-Yun Tasi, Wen-Hsien Ho, and Jyh-Horng Chou*"
+    },
+    {
+      "論文名稱": "Controllability of Fractional-Order Particle Swarm Optimizer and Its Application in the Classification of Heart Disease",
+      "期刊名稱": "Applied Sciences-Basel (SCIE)",
+      "作者群": "Fu-I Chou, Tian-Hsiang Huang, Po-Yuan Yang, Chin-Hsuan Lin, Tzu-Chao Lin, Wen-Hsien Ho, and Jyh-Horng Chou*"
+    },
+    {
+      "論文名稱": "Optimization of Robotic Task Sequencing Problems by Crowding Evolutionary Algorithms",
+      "期刊名稱": "IEEE Transactions on Systems, Man and Cybernetics: Systems (SCIE)",
+      "作者群": "Chiu-Hung Chen, Fu-I Chou, Jyh-Horng Chou"
+    },
+    {
+      "論文名稱": "Hybrid Optimization Method for Correcting Synchronization Errors in Tapping Center Machines",
+      "期刊名稱": "Applied Sciences-Basel (SCIE)",
+      "作者群": "Ping-Yueh Chang, Po-Yuan Yang, Shao-Hsien Chen and Jyh-Horng Chou"
+    },
+    {
+      "論文名稱": "Optimal Parameter Design by NSGA-II and Taguchi Method for RCD Snubber Circuit",
+      "期刊名稱": "IEEE Access (SCIE,EI)",
+      "作者群": "Ying Ma, Fu-I Chou, Po-Yuan Yang*, Jinn-Tsong Tsai*, Zhen-Yu Yang, Jyh-Horng Chou*"
+    },
+    {
+      "論文名稱": "Adaptive-Uniform-Experimental-Design-Based Fractional-Order Particle Swarm Optimizer with Non-Linear Time-Varying Evolution",
+      "期刊名稱": "Applied Sciences-Basel (SCIE)",
+      "作者群": "Po-Yuan Yang, Fu-I Chou, Jinn-Tsong Tsai, and Jyh-Horng Chou*"
+    },
+    {
+      "論文名稱": "Data-Driven Approach to Using Uniform Experimental Design to Optimize System Compensation Parameters for an Auto-Alignment Machine",
+      "期刊名稱": "IEEE Access (SCIE,EI)",
+      "作者群": "Jinn-Tsong Tsai, Po-Yuan Yang, and Jyh-Horng Chou*"
+    },
+    {
+      "論文名稱": "PCA-Based Fast Search Method Using PCA-LBG-Based VQ Codebook for Codebook Search",
+      "期刊名稱": "IEEE Access (SCIE,EI)",
+      "作者群": "Po-Yuan Yang, Jinn-Tsong Tsai and Jyh-Horng Chou*"
+    }
+  ],
+  "journal2": [],
+  "conference": [
+    {
+      "論文名稱": "Multiobjective Evolutionary Optimization on the Collision-free Trajectory Planning Problems for Multi-Robot Collaboration",
+      "會議名稱": "台灣機電工程國際學會第八屆全國學術研討會",
+      "作者群": "Chiu-Hung Chen, Chi-Kuang Li, Ya-Tze Chen,Jyh-Horng Chou"
+    },
+    {
+      "論文名稱": "應用人工智慧方法進行感測訊號異常預測之研究",
+      "會議名稱": "中華民國力學學會第四十五屆全國力學會議 (CTAM 2021)",
+      "作者群": "陳秋宏*,賴柏瑀,李紀廣,周至宏"
+    },
+    {
+      "論文名稱": "Parameters Optimization for Group Search Algorithm",
+      "會議名稱": "The International Conference on System Science and Engineering 2020 (ICSSE 2020)",
+      "作者群": "Kai-Yu Yang, Po-Yuan Yang, Fu-I Chou, and Jyh-Horng Chou*"
+    },
+    {
+      "論文名稱": "Improved Fractional-Order Particle Swarm Optimizer based on Sliding-Level Strategy",
+      "會議名稱": "The International Conference on System Science and Engineering 2020 (ICSSE 2020)",
+      "作者群": "Yu-cheng Liao, Po-Yuan Yang, Fu-I Chou, and Jyh-Horng Chou*"
+    },
+    {
+      "論文名稱": "Solution of Unconstrained Optimization Problems by Using Hybrid Vector Multi-Objective Genetic Algorithm",
+      "會議名稱": "The International Conference on System Science and Engineering 2020 (ICSSE 2020)",
+      "作者群": "Chiu-Hung Chen, Po-Yuan Yang, Chun-Jen Kuo, and Jyh-Horng Chou*"
+    },
+    {
+      "論文名稱": "Parameter Optimization for Reinforcement Learning by Using Uniform Design",
+      "會議名稱": "The International Conference on System Science and Engineering 2020 (ICSSE 2020)",
+      "作者群": "Chia-Wei Chuang, Po-Yuan Yang, Fu-I Chou, Jinn-Tsong Tsai, and Jyh-Horng Chou*"
+    },
+    {
+      "論文名稱": "多層感知器結合雙目標超參數優化方法於下背痛診斷",
+      "會議名稱": "2019中華民國力學學會年會暨第43屆全國力學會議",
+      "作者群": "黃俊傑、楊柏遠、周至宏、陳秋宏"
+    },
+    {
+      "論文名稱": "基於 Resnet20 之自動光學檢查",
+      "會議名稱": "2019中華民國力學學會年會暨第43屆全國力學會議",
+      "作者群": "黃俊傑、楊柏遠、周至宏、陳秋宏"
+    },
+    {
+      "論文名稱": "機器學習建模及其超參數設計-以房價預測為例",
+      "會議名稱": "2019中華民國力學學會年會暨第43屆全國力學會議",
+      "作者群": "林僅軒、楊柏遠、周至宏、陳秋宏"
+    },
+    {
+      "論文名稱": "Optimal Multiobjective PID Design by PSO",
+      "會議名稱": "IEEE International Conference on Systems, Man, and Cybernetics",
+      "作者群": "F. I. Chou, C. Y. Cheng, P. Y. Yang, J. T. Tsai, and J. H. Chou*"
+    },
+    {
+      "論文名稱": "智慧型心臟瓣膜疾患診斷輔助系統",
+      "會議名稱": "ISME 2019 福星熱能創意競賽",
+      "作者群": "曲晉逸、黃泓翔、楊柏遠、何文獻、周至宏"
+    },
+    {
+      "論文名稱": "應用模糊均值法及類神經網路於低壓用電戶之用電量分析",
+      "會議名稱": "第二十六屆模糊理論及其應用研討會",
+      "作者群": "黃彥傑、楊柏遠、曲晉逸、蔡進聰、周至宏"
+    },
+    {
+      "論文名稱": "An Optimal Design of Infinite Impulse Response Digital Filters by Using Particle Swarm Optimization Algorithm",
+      "會議名稱": "SICE Annual Conference 2018",
+      "作者群": "H. S. Huang, P. Y. Yang, W. H. Ho, J. T. Tsai, C. H. Wu, and J. H. Chou"
+    },
+    {
+      "論文名稱": "Prediction for Dissolved Oxygen in Water of Fish Farm by Using General Regression Neural Network",
+      "會議名稱": "International Conference of Information and Automation",
+      "作者群": "P. Y. Yang, J. H. Chou, J. T. Tsai, Y. Ma, W. H. Ho"
+    }
+  ],
+  "book": [],
+  "patent": [],
+  "most": [
+    {
+      "name": "群體尋優演算法的效能改善研究及其在工程問題之優化設計的應用(3/3)",
+      "schoolYear": "112"
+    },
+    {
+      "name": "群體尋優演算法的效能改善研究及其在工程問題之優化設計的應用(2/3)",
+      "schoolYear": "111"
+    },
+    {
+      "name": "(高科)群體尋優演算法的效能改善研究及其在工程問題之優化設計的應用(1/3)",
+      "schoolYear": "110"
+    },
+    {
+      "name": "產學合作計畫及國防科技學術合作研究推動規劃計畫－機電能源領域(3/3)",
+      "schoolYear": "105"
+    },
+    {
+      "name": "產學合作計畫及國防科技學術合作研究推動規劃計畫－機電能源領域(2/3)",
+      "schoolYear": "104"
+    }
+  ],
+  "tech": [],
+  "induAca": [],
+  "perform": [],
+  "reward": [
+    "逢甲大學論文著作獎勵傑出獎 (113, 2024-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (113, 2024-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (113, 2024-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優等獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (111, 2022-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (111, 2022-11) - 逢甲大學"
+  ],
+  "speech": [],
+  "material": [],
+  "tal": []
+}

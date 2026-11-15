@@ -1,0 +1,328 @@
+{
+  "teacherId": "T00237",
+  "name": "鍾冬川",
+  "mainUnit": "商學院",
+  "detailUnit": "統計學系",
+  "skill": [
+    "應用隨機過程Applied Stochastic Process",
+    "統計譜系學Statistical Phylogenetics",
+    "生物系統建模Biological Systems Modeling"
+  ],
+  "edu": [
+    "印第安納大學 數學系 博士",
+    "印第安納大學 數學系 碩士",
+    "國立政治大學 應用數學系 學士"
+  ],
+  "fcuExp": [
+    "統計學系 系主任",
+    "統計學系 助理教授",
+    "統計學系 助理教授",
+    "統計學系 副教授",
+    "統計學系 教授"
+  ],
+  "currjob": [],
+  "otherExp": [
+    "美國國家數學生物研究所 數學生物研究所 博士後研究",
+    "美國印第安納大學 數學系 教學助理",
+    "中央研究院 統計科學研究所 研習員",
+    "中央研究院 數學研究所 研究助理"
+  ],
+  "journal": [
+    {
+      "論文名稱": "Stochastic Modeling of  Adaptive Trait Evolution in Phylogenetics: A Polynomial Regression and Approximate Bayesian Computation Approach",
+      "期刊名稱": "Mathematics (SCIE)",
+      "作者群": "Jhwueng DC* and Chang CH"
+    },
+    {
+      "論文名稱": "A Literature Review of Stochastic Modeling for Phylogenetic Comparative Analysis in Trait Evolution",
+      "期刊名稱": "Mathematics (SCIE)",
+      "作者群": "Jhwueng DC"
+    },
+    {
+      "論文名稱": "Modeling the Phylogenetic Rates of Continuous Trait Evolution: An Autoregressive–Moving-Average Model Approach",
+      "期刊名稱": "Mathematics (SCIE)",
+      "作者群": "Jhwueng DC"
+    },
+    {
+      "論文名稱": "A Novel Phylogenetic Negative Binomial Regression Model for Count-Dependent Variables",
+      "期刊名稱": "Biology (SCIE)",
+      "作者群": "Jhwueng DC* and Wu CY"
+    },
+    {
+      "論文名稱": "Assessing Asymmetrical Rates in Multivariate Phylogenetic Trait Evolution: An Extension of Statistical Models for Heterogeneous Rate Estimation",
+      "期刊名稱": "Symmetry (SCIE)",
+      "作者群": "Jhwueng DC"
+    },
+    {
+      "論文名稱": "A Phylogenetic Regression Model for Studying Trait Evolution on Network",
+      "期刊名稱": "Stats (SCOPUS)",
+      "作者群": "Jhwueng DC"
+    },
+    {
+      "論文名稱": "Modeling the Ecology and Evolution of Biodiversity: Introduction to the Special Issue",
+      "期刊名稱": "Diversity (SCIE)",
+      "作者群": "Jhwueng DC"
+    },
+    {
+      "論文名稱": "Effect of Polytomy on the Parameter Estimation and Goodness of Fit of Phylogenetic Linear Regression Models for Trait Evolution",
+      "期刊名稱": "Diversity (SCIE)",
+      "作者群": "Jhwueng DC* and Liu FC"
+    },
+    {
+      "論文名稱": "On the Covariance of Phylogenetic Quantitative Trait Evolution Models and Their Matrix Condition",
+      "期刊名稱": "Communications in Statistics - Simulation and Computation (SCIE)",
+      "作者群": "Jhwueng DC"
+    },
+    {
+      "論文名稱": "Two Gaussian Bridge Processes for Mapping Continuous Trait Evolution",
+      "期刊名稱": "Mathematics (SCIE)",
+      "作者群": "Jhwueng DC"
+    },
+    {
+      "論文名稱": "Phylogenetic curved optimal regression for adaptive trait evolution",
+      "期刊名稱": "Entropy (SCIE)",
+      "作者群": "Jhwueng DC* and Wang CP"
+    },
+    {
+      "論文名稱": "Building an adaptive trait simulator package to infer parametric diffusion model along phylogenetic tree",
+      "期刊名稱": "MethodsX (Scopus)",
+      "作者群": "Jhwueng DC*"
+    },
+    {
+      "論文名稱": "Modeling rate of adaptive trait evolution using Cox-Ingersoll-Ross process: an approximate Bayesian computation approach",
+      "期刊名稱": "Computational Statistics & Data Analysis (SCIE)",
+      "作者群": "Jhwueng DC*"
+    },
+    {
+      "論文名稱": "On the matrix condition of phylogenetic tree",
+      "期刊名稱": "Evolutionary Bioinformatics (SCIE)",
+      "作者群": "Jhwueng DC* and O'Meara BC"
+    },
+    {
+      "論文名稱": "Adaptive trait evolution in random environment",
+      "期刊名稱": "Journal of Applied Statistics (SCIE)",
+      "作者群": "Jhwueng DC and Maroulas V"
+    },
+    {
+      "論文名稱": "Investigating the performance of AIC in selecting phylogenetic models",
+      "期刊名稱": " Statistical Application in Genetics and Molecular Biology (SCIE)",
+      "作者群": "Jhwueng DC, Huzurbarzur SV, O'Meara BC and Liu L*"
+    },
+    {
+      "論文名稱": "Phylogenetic Ornstein-Uhlenbeck regression curves",
+      "期刊名稱": "Statistics and Probability Letters (SCIE)",
+      "作者群": "Jhwueng DC, Maroulas V*"
+    },
+    {
+      "論文名稱": "Assessing the goodness of fit of phylogenetic comparative methods: a meta-analysis and simulation study",
+      "期刊名稱": "PLOS ONE (SCIE)",
+      "作者群": "Jhwueng DC"
+    },
+    {
+      "論文名稱": "Modeling stabilizing selection: expanding the Ornstein-Uhlenbeck model of adaptive evolution",
+      "期刊名稱": "Evolution (SCIE)",
+      "作者群": "Beaulieu JM, Jhwueng DC, Boettiger C.,O'Meara BC"
+    },
+    {
+      "論文名稱": "Coevolution in multidimensional trait space favors escape from parasites and pathogens",
+      "期刊名稱": "Nature (SCIE)",
+      "作者群": "Gilman RT*, Nuismer SL, Jhwueng D-C"
+    }
+  ],
+  "journal2": [],
+  "conference": [
+    {
+      "論文名稱": "馬可夫鏈模型於安寧居家療護保險之研究",
+      "會議名稱": "2019臺灣人口學會年會 暨「人口老化、家庭與照護」學術研討會",
+      "作者群": "林麗芬*，林子軒，鍾冬川"
+    }
+  ],
+  "book": [],
+  "patent": [],
+  "most": [
+    {
+      "name": "利用分數布朗運動和分數奧恩斯坦-烏倫貝克過程對種系發育性狀演化的統計建模",
+      "schoolYear": "113"
+    },
+    {
+      "name": "兩個對演化率自相關性與迴歸建模之種系比較方法",
+      "schoolYear": "112"
+    },
+    {
+      "name": "多變量統計種系性狀演化模型之研究探討",
+      "schoolYear": "111"
+    },
+    {
+      "name": "種系比較分析學的統計模型與演化樹矩陣條件數之關聯性研究探討",
+      "schoolYear": "110"
+    },
+    {
+      "name": "非線性迴歸在適應性特徵演化上之隨機建模",
+      "schoolYear": "109"
+    },
+    {
+      "name": "二個使用改良的樹狀結構來偵測與定位單核甘酸多樣性與數量型性狀關聯性的統計方法",
+      "schoolYear": "108"
+    },
+    {
+      "name": "探討隨機變動環境下適應性性狀演化的統計模型：估計貝式計算法",
+      "schoolYear": "107"
+    },
+    {
+      "name": "探討CIR過程在性狀演化上的貝氏建模問題",
+      "schoolYear": "106"
+    },
+    {
+      "name": "生物性狀演化在演化網狀圖上的研究: 布朗尼運動與歐式過程",
+      "schoolYear": "105"
+    },
+    {
+      "name": "種系比較方法上統計模型的參數估計研究",
+      "schoolYear": "104"
+    },
+    {
+      "name": "種系比較方法學上的抽樣與建模問題",
+      "schoolYear": "103"
+    },
+    {
+      "name": "統計建模在種系比較方法學上的研究",
+      "schoolYear": "102"
+    },
+    {
+      "name": "赤池信息量准則與相對熵對分子生物模型選取的研究",
+      "schoolYear": "100"
+    }
+  ],
+  "tech": [],
+  "induAca": [
+    "營建工程成本預測模型合作案 (2022-07 to 2022-12)"
+  ],
+  "perform": [],
+  "reward": [
+    "113年度國科會補助大專校院研究獎勵 (113, 2024-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優等獎 (113, 2024-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (113, 2024-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (113, 2024-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優等獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (111, 2022-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (111, 2022-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (110, 2021-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (110, 2021-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (110, 2021-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (110, 2021-11) - 逢甲大學",
+    "中國統計學社109年論文獎佳作獎 (109, 2020-12) - 中國統計學社 Chinese Statistical Association (Taiwan)",
+    "逢甲大學論文著作獎勵優良獎 (106, 2017-11) - 逢甲大學",
+    "106年度科技部獎勵特殊優秀人才 (106, 2017-08) - 產學合作處",
+    "逢甲大學論文著作獎勵優良獎 (104, 2015-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (104, 2015-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (103, 2014-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (102, 2013-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (102, 2013-11) - 逢甲大學"
+  ],
+  "speech": [
+    {
+      "演講題目": "Tracing Phylogenetics Trait Evolution with Non-Gaussian Bridge Processes",
+      "邀請單位": "Joint annual meeting of the Society for Mathematical Biology",
+      "演講日期": "2024-07"
+    },
+    {
+      "演講題目": "Effect of Polytomy on the Parameter Estimation and Goodness of Fit of Phylogenetic Linear Regression Models for Trait Evolution",
+      "邀請單位": "The 31st South Taiwan Stat Conf.",
+      "演講日期": "2023-06"
+    },
+    {
+      "演講題目": "Phylogenetic Quantitative Trait Evolution Models and Their Covariance Matrix Condition",
+      "邀請單位": "NSYSU Applied Math",
+      "演講日期": "2022-10"
+    },
+    {
+      "演講題目": "Modeling rate of adaptive trait evolution using Cox-Ingersoll-Ross process: an approximate Bayesian computation approach",
+      "邀請單位": "Biomath Seminar at U. of Florida,USA (Virtual)",
+      "演講日期": "2022-02"
+    },
+    {
+      "演講題目": "Comparative Data Analysis using Phylogenetic Regression Models",
+      "邀請單位": "NCCU Math Sciences",
+      "演講日期": "2021-12"
+    },
+    {
+      "演講題目": "Phylogenetic Curved Optimal Regression for Adaptive Trait Evolution",
+      "邀請單位": "The 30th South Taiwan Stat Conf.",
+      "演講日期": "2021-10"
+    },
+    {
+      "演講題目": "Inferring statistical phylogenetic model of adaptive trait evolution (poster)",
+      "邀請單位": "2020 CSA Academic Sinica",
+      "演講日期": "2020-12"
+    },
+    {
+      "演講題目": "Building an adaptive trait simulator package to infer parametric diffusion model along phylogenetic Tree.",
+      "邀請單位": "2020 Mindanawan Math-Stat International  Wencon",
+      "演講日期": "2020-11"
+    },
+    {
+      "演講題目": "On the matrix condition of phylogenetic tree",
+      "邀請單位": "中華民國數學學會",
+      "演講日期": "2019-12"
+    },
+    {
+      "演講題目": "Statistical modeling for adaptive trait evolution",
+      "邀請單位": "CFE-CMStatistics, National Chung Hsing University, and IFMSE",
+      "演講日期": "2019-06"
+    },
+    {
+      "演講題目": "Statistical Phylogenetic Models",
+      "邀請單位": "越南孫德勝大學",
+      "演講日期": "2017-06"
+    },
+    {
+      "演講題目": "A Few Statistical Models for Studying Trait Evolution",
+      "邀請單位": "國立中興大學應用數學系暨統計學研究所",
+      "演講日期": "2017-02"
+    },
+    {
+      "演講題目": "Trait evolution on phylogenetic network.",
+      "邀請單位": "台灣演化與計算生物學會",
+      "演講日期": "2015-11"
+    },
+    {
+      "演講題目": "Adaptive trait evolution in random environment",
+      "邀請單位": "第24屆南區統計研討會",
+      "演講日期": "2015-06"
+    },
+    {
+      "演講題目": "Phylogenetic Ornstein-Uhlenbeck regression curves.",
+      "邀請單位": "The 3rd Mathematical Statistics Asia Pacific Rim Meeting,",
+      "演講日期": "2014-07"
+    },
+    {
+      "演講題目": "Investigating the performance of AIC in selecting phylogenetic models",
+      "邀請單位": "中央大學統計研究所",
+      "演講日期": "2013-12"
+    },
+    {
+      "演講題目": "On selecting the subsitution models and modeling trait evolution with Gaussian process",
+      "邀請單位": "成功大學統計學系",
+      "演講日期": "2013-03"
+    },
+    {
+      "演講題目": "Modeling stabilizing selection: expanding the Ornstein-Uhlenbeck model of adaptive evolution",
+      "邀請單位": "美國數學生物學會",
+      "演講日期": "2012-07"
+    }
+  ],
+  "material": [
+    "同學的星座分配是什麼機率分配?\t逢甲大學商管教育創新中心\t林文欽*, 鍾冬川, 賴崑榮\tPBL教案",
+    "機率在投資組合的應用\t逢甲大學商管教育創新中心\t林文欽 魏裕中 鍾冬川\tPBL教案",
+    "問題導向學習教案：同學的網購時數的變異數是否為卡方分配？\t逢甲大學商管教育創新中心\t林文欽、鍾冬川、魏裕中\tPBL教案",
+    "如何選購不同廠牌汽車？\t逢甲大學商管教育創新中心\t林文欽,  鍾冬川,  魏裕中\tPBL教案",
+    "問題導向學習教案：究竟哪個球員的投籃命中率高呢?\t逢甲大學商管教育創新中心\t林文欽、鍾冬川、魏裕中\tPBL教案",
+    "ouxy: Model of Adaptive Trait Evolution\tCRAN R-Project\tJhwueng DC\t軟體",
+    "BMhyb: Comparative Methods for Phylogenetic Networks\tCRAN - R Project\tJhwueng DC and O'Meara BC\t軟體"
+  ],
+  "tal": [
+    "112年度大專校院教學實踐研究計畫「使用成對學生教學法進行數據資料分析課程」 (112)"
+  ]
+}

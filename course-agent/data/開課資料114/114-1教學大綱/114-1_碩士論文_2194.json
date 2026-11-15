@@ -1,0 +1,929 @@
+{
+  "success": true,
+  "info": {
+    "yms_year": 114.0,
+    "yms_smester": 1.0,
+    "sub_id": "61530",
+    "cls_id": "CI02320",
+    "scr_dup": "001",
+    "sub_id3": "COME7990",
+    "cls_name": "通訊碩二",
+    "cls_ename": "Master's Program, Department of Communications Engineering",
+    "sub_name": "碩士論文",
+    "sub_ename": "MASTER THESIS",
+    "scr_mso": "必修",
+    "scr_mso_en": "Required",
+    "scr_credit": 0.0,
+    "scr_periodly": "(一)00",
+    "scr_periodly_eng": "(Mon)00",
+    "lang_name": "中文                                                      ",
+    "lang_ename": "Chinese",
+    "scr_room": "待排",
+    "scr_room_eng": "TBD",
+    "scr_teacher": "呂威甫,趙啟時,袁世一,陳益生,蔡昂勳,林維崙,辛正和,彭嘉美,朱嘯秋,陸清達,蔡淵裕,林漢年,尤正祺,陳家豪,楊豐瑞",
+    "scr_teacher_eng": "Fongray Frank Young,Chi-Shih Chao,Shih-Yi Yuan,Yi-Sheng Chen,Ang-Hsun Tsai,Wei-Lun Lin,Cheng-Ho Hsin,Chia-Mei Peng,Hsiao-Chiu CHU,Ching-Ta Lu,Yuan-Yu Tsai,Lin, Han-Nien,Cheng-Chi Yu,Chia-Hao Chen,Fong",
+    "scr_selcode": "2194",
+    "scr_elearning": "全學期",
+    "scr_elearning_en": "Full semester",
+    "scr_hours": "1",
+    "scr_english": "N",
+    "unt_name": null,
+    "unt_ename": null,
+    "link_traminal": null,
+    "link_traminal_en": null,
+    "scr_ldl": "D",
+    "course_mk": "N",
+    "teams_mk": "N",
+    "sub_title": null,
+    "sub_title_en": null,
+    "sub_describe": null,
+    "sub_describe_en": null,
+    "hasDescription": null,
+    "hasInstructor": null,
+    "hasTA": null,
+    "hasTextBooks": null,
+    "hasReadings": null,
+    "hasiSoftwares": null,
+    "hasAssistSoftwares": null,
+    "hasObjective": null,
+    "hasWeeklyScds": null,
+    "hasGradeRules": null,
+    "hasGradeRuleDescribe": null,
+    "hasIntegrity": null,
+    "hasCoursePol": null,
+    "hasCourseRem": null,
+    "hasObjectiveReleation": null,
+    "hasTopicSdgs": null,
+    "hasSubTitleDesc": null
+  },
+  "subTitleDesc": null,
+  "description": {
+    "sub_id3": null,
+    "sub_name": "碩士論文",
+    "sub_ename": "MASTER THESIS",
+    "describe_ch": "通過學科考試之研究生在指導教授之專業指導下進行碩士論文之研究及撰寫?碩士論文是碩士學位的基本要求之一。",
+    "describe_eh": "Formal record of student commitment to master's thesis research under the guidance of a faculty advisor. Registration may be repeated as necessary.",
+    "pre_subname": "",
+    "pre_sub_id3": null,
+    "pre_sub_ename": "",
+    "pre_describe": null,
+    "pre_describe_en": null,
+    "scr_credit": 0.0
+  },
+  "targets": [
+    {
+      "seq": 1,
+      "describe_ch": "能針對研究方向的範籌，進行相關資訊的蒐集、研讀、分析與整理歸納，並藉以確立論文研究題目。",
+      "describe_en": " "
+    },
+    {
+      "seq": 2,
+      "describe_ch": "經由參與團隊的研討，培養比較分析不同見解與解決方案的能力，並帶領學弟妹們參與研究之執行與管理。",
+      "describe_en": " "
+    },
+    {
+      "seq": 3,
+      "describe_ch": "能於論文的研究過程中，能與不同領域的研究人員溝通、協調及整合。",
+      "describe_en": " "
+    },
+    {
+      "seq": 4,
+      "describe_ch": "提出研究問題的解決方法或開發新的應用，應用專業理論與軟硬體設備等，以鑑別研究方法的可行性、效能與未來可持續進行的研究方向。",
+      "describe_en": " "
+    },
+    {
+      "seq": 5,
+      "describe_ch": "能適當的歸納出研究結論及遵守專業倫理，並以書面及口頭報告呈現研究成果。\r\n",
+      "describe_en": " "
+    }
+  ],
+  "teachersInfo": [
+    {
+      "cname": "呂威甫",
+      "ename": "Wei-Fu Lu",
+      "period": "(Mon)03-04 人社201,(Tue)03  人社201,(Fri)02  人社201",
+      "roletype": 0,
+      "email": "wflu@o365.fcu.edu.tw",
+      "ext": "4824"
+    },
+    {
+      "cname": "趙啟時",
+      "ename": "Chi-Shih Chao",
+      "period": "(Wed)07-08 電通212,(Thu)07-08 電通212",
+      "roletype": 0,
+      "email": "cschao@o365.fcu.edu.tw",
+      "ext": "4822"
+    },
+    {
+      "cname": "袁世一",
+      "ename": "Shih-Yi Yuan",
+      "period": " ",
+      "roletype": 0,
+      "email": "syyuan@o365.fcu.edu.tw",
+      "ext": "4813"
+    },
+    {
+      "cname": "陳益生",
+      "ename": "Yi-Sheng Chen",
+      "period": "(Wed)02-03 電通217-2,(Thu)02-03 電通217-2",
+      "roletype": 0,
+      "email": "yischen@o365.fcu.edu.tw",
+      "ext": "4811"
+    },
+    {
+      "cname": "蔡昂勳",
+      "ename": "Ang-Hsun Tsai",
+      "period": "(Mon)09  電通207,(Wed)02  電通207,(Thu)10  電通207,(Fri)03  電通207",
+      "roletype": 0,
+      "email": "ahtsai@o365.fcu.edu.tw",
+      "ext": "4817"
+    },
+    {
+      "cname": "林維崙",
+      "ename": "Wei-Lun Lin",
+      "period": "(Tue)05-06 電通208,(Thu)05-06 電通208",
+      "roletype": 0,
+      "email": "wllin@o365.fcu.edu.tw",
+      "ext": "4818"
+    },
+    {
+      "cname": "辛正和",
+      "ename": "Cheng-Ho Hsin",
+      "period": "(Mon)09  電通211,(Tue)08  電通211,(Wed)06-07 電通211",
+      "roletype": 0,
+      "email": "chhsin@o365.fcu.edu.tw",
+      "ext": "4821"
+    },
+    {
+      "cname": "彭嘉美",
+      "ename": "Chia-Mei Peng",
+      "period": "(Mon)06-07 電通202,(Tue)05-06 電通202,(Wed)05-06 電通202,(Thu)05-06 電通202",
+      "roletype": 0,
+      "email": "chiampeng@o365.fcu.edu.tw",
+      "ext": "4810"
+    },
+    {
+      "cname": "朱嘯秋",
+      "ename": "Hsiao-Chiu CHU",
+      "period": "(Mon)05-06 電通213,(Thu)06-07 電通213",
+      "roletype": 0,
+      "email": "hchu@o365.fcu.edu.tw",
+      "ext": "4823"
+    },
+    {
+      "cname": "陸清達",
+      "ename": "Ching-Ta Lu",
+      "period": "(Mon)07-08 電通214,(Wed)02-03 電通214",
+      "roletype": 0,
+      "email": "chingtlu@o365.fcu.edu.tw",
+      "ext": "4839"
+    },
+    {
+      "cname": "蔡淵裕",
+      "ename": "Yuan-Yu Tsai",
+      "period": " ",
+      "roletype": 0,
+      "email": "yuanytsai@o365.fcu.edu.tw",
+      "ext": "4845"
+    },
+    {
+      "cname": "林漢年",
+      "ename": "Lin, Han-Nien",
+      "period": "(Mon)02-03 206,(Tue)03-04 206,(Wed)01-02 206",
+      "roletype": 0,
+      "email": "hnlin@o365.fcu.edu.tw",
+      "ext": "4816"
+    },
+    {
+      "cname": "尤正祺",
+      "ename": "Cheng-Chi Yu",
+      "period": "(Mon)03-04 電通205,(Wed)03-04 電通205",
+      "roletype": 0,
+      "email": "ccyu@o365.fcu.edu.tw",
+      "ext": "4815"
+    },
+    {
+      "cname": "陳家豪",
+      "ename": "Chia-Hao Chen",
+      "period": "(Wed)05-06 電通209,(Wed)07  電通209,(Fri)04  電通209",
+      "roletype": 0,
+      "email": "chiahaoc@o365.fcu.edu.tw",
+      "ext": "4835"
+    },
+    {
+      "cname": "楊豐瑞",
+      "ename": "Fongray Frank Young",
+      "period": "(Tue)03-04 電通210,(Tue)05  電通210,(Wed)05  電通210",
+      "roletype": 0,
+      "email": "fryoung@o365.fcu.edu.tw",
+      "ext": "4820"
+    }
+  ],
+  "textBooks": {
+    "yms_year": 114.0,
+    "yms_smester": 1.0,
+    "cls_id": "CI02320",
+    "sub_id": "61530",
+    "scr_dup": "001",
+    "tpb_seq": 1,
+    "tpb_book": "<div>指導教授建議書單、相關會議論文&nbsp;</div>\n",
+    "tpb_book_en": " "
+  },
+  "readings": {
+    "yms_year": 114.0,
+    "yms_smester": 1.0,
+    "cls_id": "CI02320",
+    "sub_id": "61530",
+    "scr_dup": "001",
+    "tpc_seq": 1,
+    "tpc_book": "<div>指導教授建議書單、相關會議論文</div>\n",
+    "tpc_book_en": null
+  },
+  "iSoftwares": [],
+  "assistSoftwares": [],
+  "weeklyScds": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CI02320",
+      "sub_id": "61530",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "1-2",
+      "tpd_reading": " ",
+      "tpd_reading_en": null,
+      "tpd_learn": null,
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CI02320",
+      "sub_id": "61530",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "3-4",
+      "tpd_reading": " ",
+      "tpd_reading_en": null,
+      "tpd_learn": null,
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CI02320",
+      "sub_id": "61530",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "5-6",
+      "tpd_reading": " ",
+      "tpd_reading_en": null,
+      "tpd_learn": null,
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CI02320",
+      "sub_id": "61530",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "7-8",
+      "tpd_reading": " ",
+      "tpd_reading_en": null,
+      "tpd_learn": null,
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CI02320",
+      "sub_id": "61530",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "9-10",
+      "tpd_reading": " ",
+      "tpd_reading_en": null,
+      "tpd_learn": null,
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CI02320",
+      "sub_id": "61530",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "11-12",
+      "tpd_reading": " ",
+      "tpd_reading_en": null,
+      "tpd_learn": null,
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CI02320",
+      "sub_id": "61530",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "13-14",
+      "tpd_reading": " ",
+      "tpd_reading_en": null,
+      "tpd_learn": null,
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CI02320",
+      "sub_id": "61530",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "15-16",
+      "tpd_reading": " ",
+      "tpd_reading_en": null,
+      "tpd_learn": null,
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CI02320",
+      "sub_id": "61530",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "17-18",
+      "tpd_reading": " ",
+      "tpd_reading_en": null,
+      "tpd_learn": null,
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    }
+  ],
+  "gradeRules": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CI02320",
+      "sub_id": "61530",
+      "scr_dup": "001",
+      "evalb_id": "K1",
+      "score_rate": 100,
+      "evalb_memo": "依據論文發表規定辦理",
+      "evalb_memo_en": null,
+      "evalb_name": "口試",
+      "evalb_name_en": "Oral exam",
+      "seq": 1
+    }
+  ],
+  "gradeRuleDescribe": {
+    "yms_year": 114.0,
+    "yms_smester": 1.0,
+    "cls_id": "CI02320",
+    "sub_id": "61530",
+    "scr_dup": "001",
+    "tpa_score_new": "<div>報告與口考</div>\n",
+    "tpa_score_new_en": null,
+    "course_pol": "若課程為與教授討論形式，且無固定時段，請主動與教授協調會談時間，事前預習相關資料並準備具體問題，以利深入討論。會談中應尊重彼此意見、保持專注。討論後建議整理重點，養成獨立思考與持續追問的習慣，以提升學習成效。",
+    "course_pol_en": null,
+    "course_rem": "本課程為不定期與教授討論形式，請主動安排時間並充分準備，討論中積極參與、尊重對談。撰寫作品須誠實反映成果，正確引用，避免抄襲與偽造，遵守學術倫理，共同維護學習品質與研究誠信。",
+    "course_rem_en": null,
+    "ais_meno": "<div>撰寫學術作品時，應誠實反映研究成果，避免抄襲、偽造與篡改資料，正確引用他人著作，尊重智慧財產權與原創性。不得冒名投稿、重複投稿或損害他人研究權益。遵守學術倫理，為維護學術誠信與研究品質之基礎。</div>\n",
+    "ais_meno_en": null,
+    "ilearn_mk": null
+  },
+  "integrity": {
+    "yms_year": 114.0,
+    "yms_smester": 1.0,
+    "cls_id": "CI02320",
+    "sub_id": "61530",
+    "scr_dup": "001",
+    "tpa_score_new": "<div>報告與口考</div>\n",
+    "tpa_score_new_en": null,
+    "course_pol": "若課程為與教授討論形式，且無固定時段，請主動與教授協調會談時間，事前預習相關資料並準備具體問題，以利深入討論。會談中應尊重彼此意見、保持專注。討論後建議整理重點，養成獨立思考與持續追問的習慣，以提升學習成效。",
+    "course_pol_en": null,
+    "course_rem": "本課程為不定期與教授討論形式，請主動安排時間並充分準備，討論中積極參與、尊重對談。撰寫作品須誠實反映成果，正確引用，避免抄襲與偽造，遵守學術倫理，共同維護學習品質與研究誠信。",
+    "course_rem_en": null,
+    "ais_meno": "<div>撰寫學術作品時，應誠實反映研究成果，避免抄襲、偽造與篡改資料，正確引用他人著作，尊重智慧財產權與原創性。不得冒名投稿、重複投稿或損害他人研究權益。遵守學術倫理，為維護學術誠信與研究品質之基礎。</div>\n",
+    "ais_meno_en": null,
+    "ilearn_mk": null
+  },
+  "policy": {
+    "yms_year": 114.0,
+    "yms_smester": 1.0,
+    "cls_id": "CI02320",
+    "sub_id": "61530",
+    "scr_dup": "001",
+    "tpa_score_new": "<div>報告與口考</div>\n",
+    "tpa_score_new_en": null,
+    "course_pol": "若課程為與教授討論形式，且無固定時段，請主動與教授協調會談時間，事前預習相關資料並準備具體問題，以利深入討論。會談中應尊重彼此意見、保持專注。討論後建議整理重點，養成獨立思考與持續追問的習慣，以提升學習成效。",
+    "course_pol_en": null,
+    "course_rem": "本課程為不定期與教授討論形式，請主動安排時間並充分準備，討論中積極參與、尊重對談。撰寫作品須誠實反映成果，正確引用，避免抄襲與偽造，遵守學術倫理，共同維護學習品質與研究誠信。",
+    "course_rem_en": null,
+    "ais_meno": "<div>撰寫學術作品時，應誠實反映研究成果，避免抄襲、偽造與篡改資料，正確引用他人著作，尊重智慧財產權與原創性。不得冒名投稿、重複投稿或損害他人研究權益。遵守學術倫理，為維護學術誠信與研究品質之基礎。</div>\n",
+    "ais_meno_en": null,
+    "ilearn_mk": null
+  },
+  "courseBankC": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CI02320",
+      "sub_id": "61530",
+      "scr_dup": "001",
+      "seq": 1,
+      "describe_ch": "能針對研究方向的範籌，進行相關資訊的蒐集、研讀、分析與整理歸納，並藉以確立論文研究題目。",
+      "describe_en": " ",
+      "core_id": "H",
+      "core_item": "終身自我學習成長之能力",
+      "core_eng": "Life-long personal growth",
+      "core_level": "5 ",
+      "strgy": [
+        "02"
+      ],
+      "evalb": [
+        "F2",
+        "G3"
+      ],
+      "strgy_name": [
+        "專題演講"
+      ],
+      "strgy_name_en": [
+        "Topical lecture"
+      ],
+      "evalb_name": [
+        "口頭評量",
+        "心得報告"
+      ],
+      "evalb_name_en": [
+        "Oral evaluation",
+        "Report on gained knowledge"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CI02320",
+          "sub_id": "61530",
+          "scr_dup": "001",
+          "seq": 1,
+          "strgy_id": "02",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CI02320",
+          "sub_id": "61530",
+          "scr_dup": "001",
+          "seq": 1,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "F2",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CI02320",
+          "sub_id": "61530",
+          "scr_dup": "001",
+          "seq": 1,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "G3",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CI02320",
+      "sub_id": "61530",
+      "scr_dup": "001",
+      "seq": 2,
+      "describe_ch": "經由參與團隊的研討，培養比較分析不同見解與解決方案的能力，並帶領學弟妹們參與研究之執行與管理。",
+      "describe_en": " ",
+      "core_id": "G",
+      "core_item": "領導、管理及規劃之能力",
+      "core_eng": "Leadership, management and planning expertise",
+      "core_level": "5 ",
+      "strgy": [
+        "04"
+      ],
+      "evalb": [
+        "K2",
+        "L2"
+      ],
+      "strgy_name": [
+        "專題討論"
+      ],
+      "strgy_name_en": [
+        "Seminar"
+      ],
+      "evalb_name": [
+        "口頭報告",
+        "點名"
+      ],
+      "evalb_name_en": [
+        "Oral presentation",
+        "Roll call"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CI02320",
+          "sub_id": "61530",
+          "scr_dup": "001",
+          "seq": 2,
+          "strgy_id": "04",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CI02320",
+          "sub_id": "61530",
+          "scr_dup": "001",
+          "seq": 2,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "K2",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CI02320",
+          "sub_id": "61530",
+          "scr_dup": "001",
+          "seq": 2,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "L2",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CI02320",
+      "sub_id": "61530",
+      "scr_dup": "001",
+      "seq": 3,
+      "describe_ch": "能於論文的研究過程中，能與不同領域的研究人員溝通、協調及整合。",
+      "describe_en": " ",
+      "core_id": "E",
+      "core_item": "跨領域團隊合作、有效溝通與整合之能力",
+      "core_eng": "Interdisciplinary teamwork, effective communication and integration",
+      "core_level": "5 ",
+      "strgy": [
+        "02"
+      ],
+      "evalb": [
+        "K2",
+        "L2"
+      ],
+      "strgy_name": [
+        "專題演講"
+      ],
+      "strgy_name_en": [
+        "Topical lecture"
+      ],
+      "evalb_name": [
+        "口頭報告",
+        "點名"
+      ],
+      "evalb_name_en": [
+        "Oral presentation",
+        "Roll call"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CI02320",
+          "sub_id": "61530",
+          "scr_dup": "001",
+          "seq": 3,
+          "strgy_id": "02",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CI02320",
+          "sub_id": "61530",
+          "scr_dup": "001",
+          "seq": 3,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "K2",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CI02320",
+          "sub_id": "61530",
+          "scr_dup": "001",
+          "seq": 3,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "L2",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CI02320",
+      "sub_id": "61530",
+      "scr_dup": "001",
+      "seq": 4,
+      "describe_ch": "提出研究問題的解決方法或開發新的應用，應用專業理論與軟硬體設備等，以鑑別研究方法的可行性、效能與未來可持續進行的研究方向。",
+      "describe_en": " ",
+      "core_id": "C",
+      "core_item": "具備通訊特定領域創新思考及解決問題之能力",
+      "core_eng": "To foster innovative thinking and independent problem solving that is relevant to the Communications field",
+      "core_level": "5 ",
+      "strgy": [
+        "04"
+      ],
+      "evalb": [
+        "K2"
+      ],
+      "strgy_name": [
+        "專題討論"
+      ],
+      "strgy_name_en": [
+        "Seminar"
+      ],
+      "evalb_name": [
+        "口頭報告"
+      ],
+      "evalb_name_en": [
+        "Oral presentation"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CI02320",
+          "sub_id": "61530",
+          "scr_dup": "001",
+          "seq": 4,
+          "strgy_id": "04",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CI02320",
+          "sub_id": "61530",
+          "scr_dup": "001",
+          "seq": 4,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "K2",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CI02320",
+      "sub_id": "61530",
+      "scr_dup": "001",
+      "seq": 5,
+      "describe_ch": "能適當的歸納出研究結論及遵守專業倫理，並以書面及口頭報告呈現研究成果。\r\n",
+      "describe_en": " ",
+      "core_id": "D",
+      "core_item": "發表專業論文與口頭報告之能力",
+      "core_eng": "Ability to deliver professional papers and oral reports",
+      "core_level": "5 ",
+      "strgy": [
+        "04"
+      ],
+      "evalb": [
+        "K2"
+      ],
+      "strgy_name": [
+        "專題討論"
+      ],
+      "strgy_name_en": [
+        "Seminar"
+      ],
+      "evalb_name": [
+        "口頭報告"
+      ],
+      "evalb_name_en": [
+        "Oral presentation"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CI02320",
+          "sub_id": "61530",
+          "scr_dup": "001",
+          "seq": 5,
+          "strgy_id": "04",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CI02320",
+          "sub_id": "61530",
+          "scr_dup": "001",
+          "seq": 5,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "K2",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    }
+  ],
+  "topicSdgs": [],
+  "learnHours": {
+    "total": 0.0,
+    "tpdOnlineAsyTotal": 0.0,
+    "tpdOnlineSynTotal": 0.0,
+    "tpdOnlineFaceTotal": 0.0,
+    "asySynInTotalPercent": 0.0
+  },
+  "crossVerYear": 114
+}

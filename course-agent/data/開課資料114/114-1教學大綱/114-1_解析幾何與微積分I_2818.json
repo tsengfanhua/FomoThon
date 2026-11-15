@@ -1,0 +1,1235 @@
+{
+  "success": true,
+  "info": {
+    "yms_year": 114.0,
+    "yms_smester": 1.0,
+    "sub_id": "68701",
+    "cls_id": "NM06110",
+    "scr_dup": "001",
+    "sub_id3": "ISTM114",
+    "cls_name": "電機一(SJSU)",
+    "cls_ename": "SJSU-FCU 2+2 Bachelor's Program in Electrical Engineering",
+    "sub_name": "解析幾何與微積分I",
+    "sub_ename": "ANALYTIC GEOMETRY AND CALCULUS I",
+    "scr_mso": "必修",
+    "scr_mso_en": "Required",
+    "scr_credit": 4.0,
+    "scr_periodly": "(一)03-04 (二)09-10",
+    "scr_periodly_eng": "(Mon)03-04 (Tue)09-10",
+    "lang_name": "英語                                                      ",
+    "lang_ename": "English",
+    "scr_room": "V018教室(共善樓)",
+    "scr_room_eng": "V018",
+    "scr_teacher": "許佳璵",
+    "scr_teacher_eng": "Chia-Yu Hsu",
+    "scr_selcode": "2818",
+    "scr_elearning": "全學期",
+    "scr_elearning_en": "Full semester",
+    "scr_hours": "4",
+    "scr_english": "Y",
+    "unt_name": null,
+    "unt_ename": null,
+    "link_traminal": null,
+    "link_traminal_en": null,
+    "scr_ldl": "D",
+    "course_mk": "N",
+    "teams_mk": "Y",
+    "sub_title": null,
+    "sub_title_en": null,
+    "sub_describe": null,
+    "sub_describe_en": null,
+    "hasDescription": null,
+    "hasInstructor": null,
+    "hasTA": null,
+    "hasTextBooks": null,
+    "hasReadings": null,
+    "hasiSoftwares": null,
+    "hasAssistSoftwares": null,
+    "hasObjective": null,
+    "hasWeeklyScds": null,
+    "hasGradeRules": null,
+    "hasGradeRuleDescribe": null,
+    "hasIntegrity": null,
+    "hasCoursePol": null,
+    "hasCourseRem": null,
+    "hasObjectiveReleation": null,
+    "hasTopicSdgs": null,
+    "hasSubTitleDesc": null
+  },
+  "subTitleDesc": null,
+  "description": {
+    "sub_id3": null,
+    "sub_name": "解析幾何與微積分I",
+    "sub_ename": "ANALYTIC GEOMETRY AND CALCULUS I",
+    "describe_ch": "Calculus is a course provides basic training in mathematics. It involves the differentiation and the integration. These are used to solve problems via geometry and algebra. Calculus has a lot of\r\napplications in many fields, such as science, engineering, economics and management. The materials in Analytic Geometry and Calculus I include the limits of functions, the derivatives, the integrals, the logarithmic  and exponential functions, and the inverse trigonometric functions\r\n",
+    "describe_eh": "Calculus is a course provides basic training in mathematics. It involves the differentiation and the integration. These are used to solve problems via geometry and algebra. Calculus has a lot of\r\napplications in many fields, such as science, engineering, economics and management. The materials in Analytic Geometry and Calculus I include the limits of functions, the derivatives, the integrals, the logarithmic  and exponential functions, and the inverse trigonometric functions\r\n",
+    "pre_subname": "",
+    "pre_sub_id3": null,
+    "pre_sub_ename": "",
+    "pre_describe": null,
+    "pre_describe_en": null,
+    "scr_credit": 4.0
+  },
+  "targets": [
+    {
+      "seq": 1,
+      "describe_ch": "Understand the limits of functions and be able to compute the limits by applying basic formulas",
+      "describe_en": "Understand the limits of functions and be able to compute the limits by applying basic formulas"
+    },
+    {
+      "seq": 2,
+      "describe_ch": "Understand the definition of the derivatives and be able to compute the derivatives via basic properties",
+      "describe_en": "Understand the definition of the derivatives and be able to compute the derivatives via basic properties"
+    },
+    {
+      "seq": 3,
+      "describe_ch": "Be able to apply the derivatives to analyze the monotonicity and concavity of functions",
+      "describe_en": "Be able to apply the derivatives to analyze the monotonicity and concavity of functions"
+    },
+    {
+      "seq": 4,
+      "describe_ch": "Be able to apply the derivatives to solve the maximum and minimum problems",
+      "describe_en": "Be able to apply the derivatives to solve the maximum and minimum problems"
+    },
+    {
+      "seq": 5,
+      "describe_ch": "Realize the concept of the integrals and be able to apply fundamental theorem of calculus to compute the integrals",
+      "describe_en": "Realize the concept of the integrals and be able to apply fundamental theorem of calculus to compute the integrals"
+    },
+    {
+      "seq": 6,
+      "describe_ch": "Be able to use a definite integral to obtain the area of the region between curves",
+      "describe_en": "Be able to use a definite integral to obtain the area of the region between curves"
+    },
+    {
+      "seq": 7,
+      "describe_ch": "Be able to find the derivatives of logarithmic, exponential and inverse trigonometric functions",
+      "describe_en": "Be able to find the derivatives of logarithmic, exponential and inverse trigonometric functions"
+    }
+  ],
+  "teachersInfo": [
+    {
+      "cname": "許佳璵",
+      "ename": "Chia-Yu Hsu",
+      "period": "(Mon)08  理208E,(Tue)03  理208E,(Tue)08  圖B105,(Thu)08  圖B105",
+      "roletype": 0,
+      "email": "cyuhsu@o365.fcu.edu.tw",
+      "ext": "6631"
+    }
+  ],
+  "textBooks": {
+    "yms_year": 114.0,
+    "yms_smester": 1.0,
+    "cls_id": "NM06110",
+    "sub_id": "68701",
+    "scr_dup": "001",
+    "tpb_seq": 1,
+    "tpb_book": "<div>Calculus,Metric Version, 9th edition</div>\n\n<div>James Stewart</div>\n\n<div>Daniel Clegg</div>\n\n<div>Saleem Watson</div>\n",
+    "tpb_book_en": "Calculus (7th ed.)"
+  },
+  "readings": {
+    "yms_year": 114.0,
+    "yms_smester": 1.0,
+    "cls_id": "NM06110",
+    "sub_id": "68701",
+    "scr_dup": "001",
+    "tpc_seq": 1,
+    "tpc_book": "<div>Calculus,Metric Version, 9th edition</div>\n\n<div>\n<div>James Stewart</div>\n\n<div>Daniel Clegg</div>\n\n<div>Saleem Watson</div>\n</div>\n",
+    "tpc_book_en": null
+  },
+  "iSoftwares": [],
+  "assistSoftwares": [],
+  "weeklyScds": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "NM06110",
+      "sub_id": "68701",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "1",
+      "tpd_reading": "<div>\n<div>Functions and Their Graphs; Combining Functions;</div>\n\n<div>Limit of a Function and Limit Laws</div>\n</div>\n\n<div>&nbsp;</div>\n",
+      "tpd_reading_en": "The Limit of a Fuction",
+      "tpd_learn": " ",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": "Lecture Note reading",
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "NM06110",
+      "sub_id": "68701",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "2",
+      "tpd_reading": "<div>One-Sided Limits;&nbsp;Limits Involving Infinity;</div>\n\n<div>Asymptotes of Graphs</div>\n\n<div>Limits at infinity &amp; Horizontal ASymptotes</div>\n",
+      "tpd_reading_en": " ",
+      "tpd_learn": " ",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": "Lecture Note reading",
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "NM06110",
+      "sub_id": "68701",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "3",
+      "tpd_reading": "<div>Continuity;</div>\n\n<div>Tangents and the Derivative at a Point</div>\n\n<div>Derivatives and Rates of Changes</div>\n",
+      "tpd_reading_en": "Calculating Limits Using the Limit Laws",
+      "tpd_learn": " ",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": "Lecture Note reading",
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "NM06110",
+      "sub_id": "68701",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "4",
+      "tpd_reading": "<div>The Derivativeas as a Function;</div>\n\n<div>Product and Quotient Rule;</div>\n\n<div>Differentiation Formulas</div>\n",
+      "tpd_reading_en": "Continuity; Derivatives and Rates of Change",
+      "tpd_learn": " ",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": "Lecture Note reading",
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "NM06110",
+      "sub_id": "68701",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "5",
+      "tpd_reading": "<div>Derivatives of Trigonometric Functions;</div>\n\n<div>Derivative of exponential functions</div>\n\n<div>The Chain Rules;&nbsp;</div>\n\n<div>&nbsp;</div>\n",
+      "tpd_reading_en": "The Derivative as a Function; Differentiation Formulas",
+      "tpd_learn": " ",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": "Lecture Note reading",
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "NM06110",
+      "sub_id": "68701",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "6",
+      "tpd_reading": "<div>Review for Midterm-1</div>\n\n<div>Midterm-1</div>\n",
+      "tpd_reading_en": "Derivatives of Trigonometric Functions",
+      "tpd_learn": "<div>Midterm-1&nbsp;on 10/21</div>\n",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": "Lecture Note reading",
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "NM06110",
+      "sub_id": "68701",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "7",
+      "tpd_reading": "<div>Implicit Differentiation;</div>\n\n<div>Linear Approximation and Differentials</div>\n\n<div>Inverse Functions; Derivatives of Inverse Functions</div>\n",
+      "tpd_reading_en": "The Chain Rule; Implicit Differentiations",
+      "tpd_learn": " ",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": "Lecture Note reading",
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "NM06110",
+      "sub_id": "68701",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "8",
+      "tpd_reading": "<div>Derivatives of Logarithmic Function</div>\n",
+      "tpd_reading_en": " ",
+      "tpd_learn": " ",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": "Lecture Note reading",
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "NM06110",
+      "sub_id": "68701",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "9",
+      "tpd_reading": "<div>Maximum and Minimum Values; The Mean Value Theorem;</div>\n",
+      "tpd_reading_en": " ",
+      "tpd_learn": " ",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": "Lecture Note reading",
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "NM06110",
+      "sub_id": "68701",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "10",
+      "tpd_reading": "<div>How Derivatives Affect the Shape of a Graph</div>\n\n<div>Inverse Trigonometric Functions</div>\n",
+      "tpd_reading_en": "Maximum and Minimum Values; The Mean Value Thm",
+      "tpd_learn": " ",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": "Lecture Note reading",
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "NM06110",
+      "sub_id": "68701",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "11",
+      "tpd_reading": "<div>Inverse Trigonometric Functions</div>\n",
+      "tpd_reading_en": "Optimization Problems",
+      "tpd_learn": " ",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": "Lecture Note reading",
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "NM06110",
+      "sub_id": "68701",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "12",
+      "tpd_reading": "<div>Review for Midterm-2</div>\n\n<div>Midterm-2&nbsp;</div>\n",
+      "tpd_reading_en": "Antiderivatives; the Definite Integral",
+      "tpd_learn": "<div>Midterm-2&nbsp;on 11/25</div>\n",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": "Lecture Note reading",
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "NM06110",
+      "sub_id": "68701",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "13",
+      "tpd_reading": "<div>Antiderivatives;&nbsp; the Substitution Rule;<br />\nArae and Definite integral;&nbsp;</div>\n",
+      "tpd_reading_en": "Fundamental Theorem of Calculus; Indefinite integrals; the Substitution Rule",
+      "tpd_learn": " ",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": "Lecture Note reading",
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "NM06110",
+      "sub_id": "68701",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "14",
+      "tpd_reading": "<div>\n<div>Area and definte integral,&nbsp;</div>\n\n<div>The Fundamental Theorem of Calculus, Part I</div>\n</div>\n",
+      "tpd_reading_en": "Areas between Curves",
+      "tpd_learn": " ",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": "Lecture Note reading",
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "NM06110",
+      "sub_id": "68701",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "15",
+      "tpd_reading": "<div>\n<div>\n<div>The Fundamental Theorem of Calculus, Part II</div>\n\n<div>\n<div>Average Value of a Function;</div>\n</div>\n</div>\n</div>\n",
+      "tpd_reading_en": "Volumes",
+      "tpd_learn": " ",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": "Lecture Note reading",
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "NM06110",
+      "sub_id": "68701",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "16",
+      "tpd_reading": "<div>\n<div>Definite integral&nbsp;Substitution;</div>\n</div>\n\n<div>Areas between Curves</div>\n",
+      "tpd_reading_en": " ",
+      "tpd_learn": " ",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": "Lecture Note reading",
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "NM06110",
+      "sub_id": "68701",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "17",
+      "tpd_reading": "<div>Areas between Curves</div>\n\n<div>Review for final exam.&nbsp;</div>\n",
+      "tpd_reading_en": " ",
+      "tpd_learn": " ",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": "Lecture Note reading",
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "NM06110",
+      "sub_id": "68701",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "18",
+      "tpd_reading": "<div>Final Exam</div>\n",
+      "tpd_reading_en": " ",
+      "tpd_learn": "<div>Final exam on Dec.31</div>\n",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": "Lecture Note reading",
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    }
+  ],
+  "gradeRules": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "NM06110",
+      "sub_id": "68701",
+      "scr_dup": "001",
+      "evalb_id": "D1",
+      "score_rate": 40,
+      "evalb_memo": "Two Midterms 20% each",
+      "evalb_memo_en": null,
+      "evalb_name": "期中考",
+      "evalb_name_en": "Midterm examination",
+      "seq": 1
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "NM06110",
+      "sub_id": "68701",
+      "scr_dup": "001",
+      "evalb_id": "D2",
+      "score_rate": 20,
+      "evalb_memo": "Final 20%",
+      "evalb_memo_en": null,
+      "evalb_name": "期末考",
+      "evalb_name_en": "Final examination",
+      "seq": 2
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "NM06110",
+      "sub_id": "68701",
+      "scr_dup": "001",
+      "evalb_id": "D4",
+      "score_rate": 20,
+      "evalb_memo": "homework each week",
+      "evalb_memo_en": null,
+      "evalb_name": "作業",
+      "evalb_name_en": "Homework",
+      "seq": 3
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "NM06110",
+      "sub_id": "68701",
+      "scr_dup": "001",
+      "evalb_id": "L2",
+      "score_rate": 10,
+      "evalb_memo": "roll calling each week",
+      "evalb_memo_en": null,
+      "evalb_name": "點名",
+      "evalb_name_en": "Roll call",
+      "seq": 4
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "NM06110",
+      "sub_id": "68701",
+      "scr_dup": "001",
+      "evalb_id": "D3",
+      "score_rate": 10,
+      "evalb_memo": "Quizzes",
+      "evalb_memo_en": null,
+      "evalb_name": "隨堂測驗",
+      "evalb_name_en": "In-class examination",
+      "seq": 5
+    }
+  ],
+  "gradeRuleDescribe": {
+    "yms_year": 114.0,
+    "yms_smester": 1.0,
+    "cls_id": "NM06110",
+    "sub_id": "68701",
+    "scr_dup": "001",
+    "tpa_score_new": "<div>Two Midterm Exams (20% each) , Final Exam (20%); Homework (20%) and Attendance and in class exercise(20%)</div>\n",
+    "tpa_score_new_en": null,
+    "course_pol": "1) Be on time for the lecture, if 20 minutes late for the lecture will be marked as absence for one hour. \n2) To concentrate in class and follow the lecture to finish the exercises in class and due on time in the assigned deadline. \n3) Do the homework regularly after class.  \n4) Do your own homework ask questions in class or time break or in the consultation hours.",
+    "course_pol_en": null,
+    "course_rem": "1) be honest in the tests. Anyone who violates the test regulations will be processed according to the FCU test regulations. \n2) You may contact me by email cyuhsu@o365.fcu.edu.tw or FCU ext. 6631 or ISTM office.",
+    "course_rem_en": null,
+    "ais_meno": "<div>1) Be on time for the lecture, if 20 minutes late for the lecture will be marked as absence&nbsp;for one hour.&nbsp;</div>\n\n<div>2) To concentrate in class and follow the lecture to finish the exercises in class and due on time&nbsp;in the assigned deadline.&nbsp;&nbsp;</div>\n\n<div>3) Do the homework regularly after class.</div>\n\n<div>4) Be honest in the tests. Anyone&nbsp;who violates the test regulations will be processed according to the FCU test regulations.&nbsp;</div>\n",
+    "ais_meno_en": null,
+    "ilearn_mk": null
+  },
+  "integrity": {
+    "yms_year": 114.0,
+    "yms_smester": 1.0,
+    "cls_id": "NM06110",
+    "sub_id": "68701",
+    "scr_dup": "001",
+    "tpa_score_new": "<div>Two Midterm Exams (20% each) , Final Exam (20%); Homework (20%) and Attendance and in class exercise(20%)</div>\n",
+    "tpa_score_new_en": null,
+    "course_pol": "1) Be on time for the lecture, if 20 minutes late for the lecture will be marked as absence for one hour. \n2) To concentrate in class and follow the lecture to finish the exercises in class and due on time in the assigned deadline. \n3) Do the homework regularly after class.  \n4) Do your own homework ask questions in class or time break or in the consultation hours.",
+    "course_pol_en": null,
+    "course_rem": "1) be honest in the tests. Anyone who violates the test regulations will be processed according to the FCU test regulations. \n2) You may contact me by email cyuhsu@o365.fcu.edu.tw or FCU ext. 6631 or ISTM office.",
+    "course_rem_en": null,
+    "ais_meno": "<div>1) Be on time for the lecture, if 20 minutes late for the lecture will be marked as absence&nbsp;for one hour.&nbsp;</div>\n\n<div>2) To concentrate in class and follow the lecture to finish the exercises in class and due on time&nbsp;in the assigned deadline.&nbsp;&nbsp;</div>\n\n<div>3) Do the homework regularly after class.</div>\n\n<div>4) Be honest in the tests. Anyone&nbsp;who violates the test regulations will be processed according to the FCU test regulations.&nbsp;</div>\n",
+    "ais_meno_en": null,
+    "ilearn_mk": null
+  },
+  "policy": {
+    "yms_year": 114.0,
+    "yms_smester": 1.0,
+    "cls_id": "NM06110",
+    "sub_id": "68701",
+    "scr_dup": "001",
+    "tpa_score_new": "<div>Two Midterm Exams (20% each) , Final Exam (20%); Homework (20%) and Attendance and in class exercise(20%)</div>\n",
+    "tpa_score_new_en": null,
+    "course_pol": "1) Be on time for the lecture, if 20 minutes late for the lecture will be marked as absence for one hour. \n2) To concentrate in class and follow the lecture to finish the exercises in class and due on time in the assigned deadline. \n3) Do the homework regularly after class.  \n4) Do your own homework ask questions in class or time break or in the consultation hours.",
+    "course_pol_en": null,
+    "course_rem": "1) be honest in the tests. Anyone who violates the test regulations will be processed according to the FCU test regulations. \n2) You may contact me by email cyuhsu@o365.fcu.edu.tw or FCU ext. 6631 or ISTM office.",
+    "course_rem_en": null,
+    "ais_meno": "<div>1) Be on time for the lecture, if 20 minutes late for the lecture will be marked as absence&nbsp;for one hour.&nbsp;</div>\n\n<div>2) To concentrate in class and follow the lecture to finish the exercises in class and due on time&nbsp;in the assigned deadline.&nbsp;&nbsp;</div>\n\n<div>3) Do the homework regularly after class.</div>\n\n<div>4) Be honest in the tests. Anyone&nbsp;who violates the test regulations will be processed according to the FCU test regulations.&nbsp;</div>\n",
+    "ais_meno_en": null,
+    "ilearn_mk": null
+  },
+  "courseBankC": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "NM06110",
+      "sub_id": "68701",
+      "scr_dup": "001",
+      "seq": 1,
+      "describe_ch": "Understand the limits of functions and be able to compute the limits by applying basic formulas",
+      "describe_en": "Understand the limits of functions and be able to compute the limits by applying basic formulas",
+      "core_id": "A",
+      "core_item": "運用數學、科學及工程知識的能力",
+      "core_eng": "The ability of applying the knowledge of mathematics, science and engineering",
+      "core_level": "3 ",
+      "strgy": [
+        "01"
+      ],
+      "evalb": [
+        "D3"
+      ],
+      "strgy_name": [
+        "課堂授課"
+      ],
+      "strgy_name_en": [
+        "Classroom instruction"
+      ],
+      "evalb_name": [
+        "隨堂測驗"
+      ],
+      "evalb_name_en": [
+        "In-class examination"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "NM06110",
+          "sub_id": "68701",
+          "scr_dup": "001",
+          "seq": 1,
+          "strgy_id": "01",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "NM06110",
+          "sub_id": "68701",
+          "scr_dup": "001",
+          "seq": 1,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D3",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "NM06110",
+      "sub_id": "68701",
+      "scr_dup": "001",
+      "seq": 2,
+      "describe_ch": "Understand the definition of the derivatives and be able to compute the derivatives via basic properties",
+      "describe_en": "Understand the definition of the derivatives and be able to compute the derivatives via basic properties",
+      "core_id": "A",
+      "core_item": "運用數學、科學及工程知識的能力",
+      "core_eng": "The ability of applying the knowledge of mathematics, science and engineering",
+      "core_level": "2 ",
+      "strgy": [
+        "01"
+      ],
+      "evalb": [
+        "D3"
+      ],
+      "strgy_name": [
+        "課堂授課"
+      ],
+      "strgy_name_en": [
+        "Classroom instruction"
+      ],
+      "evalb_name": [
+        "隨堂測驗"
+      ],
+      "evalb_name_en": [
+        "In-class examination"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "NM06110",
+          "sub_id": "68701",
+          "scr_dup": "001",
+          "seq": 2,
+          "strgy_id": "01",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "NM06110",
+          "sub_id": "68701",
+          "scr_dup": "001",
+          "seq": 2,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D3",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "NM06110",
+      "sub_id": "68701",
+      "scr_dup": "001",
+      "seq": 3,
+      "describe_ch": "Be able to apply the derivatives to analyze the monotonicity and concavity of functions",
+      "describe_en": "Be able to apply the derivatives to analyze the monotonicity and concavity of functions",
+      "core_id": "A",
+      "core_item": "運用數學、科學及工程知識的能力",
+      "core_eng": "The ability of applying the knowledge of mathematics, science and engineering",
+      "core_level": "3 ",
+      "strgy": [
+        "01"
+      ],
+      "evalb": [
+        "D3"
+      ],
+      "strgy_name": [
+        "課堂授課"
+      ],
+      "strgy_name_en": [
+        "Classroom instruction"
+      ],
+      "evalb_name": [
+        "隨堂測驗"
+      ],
+      "evalb_name_en": [
+        "In-class examination"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "NM06110",
+          "sub_id": "68701",
+          "scr_dup": "001",
+          "seq": 3,
+          "strgy_id": "01",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "NM06110",
+          "sub_id": "68701",
+          "scr_dup": "001",
+          "seq": 3,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D3",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "NM06110",
+      "sub_id": "68701",
+      "scr_dup": "001",
+      "seq": 4,
+      "describe_ch": "Be able to apply the derivatives to solve the maximum and minimum problems",
+      "describe_en": "Be able to apply the derivatives to solve the maximum and minimum problems",
+      "core_id": "A",
+      "core_item": "運用數學、科學及工程知識的能力",
+      "core_eng": "The ability of applying the knowledge of mathematics, science and engineering",
+      "core_level": "3 ",
+      "strgy": [
+        "01"
+      ],
+      "evalb": [
+        "D3"
+      ],
+      "strgy_name": [
+        "課堂授課"
+      ],
+      "strgy_name_en": [
+        "Classroom instruction"
+      ],
+      "evalb_name": [
+        "隨堂測驗"
+      ],
+      "evalb_name_en": [
+        "In-class examination"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "NM06110",
+          "sub_id": "68701",
+          "scr_dup": "001",
+          "seq": 4,
+          "strgy_id": "01",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "NM06110",
+          "sub_id": "68701",
+          "scr_dup": "001",
+          "seq": 4,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D3",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "NM06110",
+      "sub_id": "68701",
+      "scr_dup": "001",
+      "seq": 5,
+      "describe_ch": "Realize the concept of the integrals and be able to apply fundamental theorem of calculus to compute the integrals",
+      "describe_en": "Realize the concept of the integrals and be able to apply fundamental theorem of calculus to compute the integrals",
+      "core_id": "A",
+      "core_item": "運用數學、科學及工程知識的能力",
+      "core_eng": "The ability of applying the knowledge of mathematics, science and engineering",
+      "core_level": "1 ",
+      "strgy": [
+        "01"
+      ],
+      "evalb": [
+        "D3"
+      ],
+      "strgy_name": [
+        "課堂授課"
+      ],
+      "strgy_name_en": [
+        "Classroom instruction"
+      ],
+      "evalb_name": [
+        "隨堂測驗"
+      ],
+      "evalb_name_en": [
+        "In-class examination"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "NM06110",
+          "sub_id": "68701",
+          "scr_dup": "001",
+          "seq": 5,
+          "strgy_id": "01",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "NM06110",
+          "sub_id": "68701",
+          "scr_dup": "001",
+          "seq": 5,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D3",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "NM06110",
+      "sub_id": "68701",
+      "scr_dup": "001",
+      "seq": 6,
+      "describe_ch": "Be able to use a definite integral to obtain the area of the region between curves",
+      "describe_en": "Be able to use a definite integral to obtain the area of the region between curves",
+      "core_id": "A",
+      "core_item": "運用數學、科學及工程知識的能力",
+      "core_eng": "The ability of applying the knowledge of mathematics, science and engineering",
+      "core_level": "3 ",
+      "strgy": [
+        "01"
+      ],
+      "evalb": [
+        "D3"
+      ],
+      "strgy_name": [
+        "課堂授課"
+      ],
+      "strgy_name_en": [
+        "Classroom instruction"
+      ],
+      "evalb_name": [
+        "隨堂測驗"
+      ],
+      "evalb_name_en": [
+        "In-class examination"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "NM06110",
+          "sub_id": "68701",
+          "scr_dup": "001",
+          "seq": 6,
+          "strgy_id": "01",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "NM06110",
+          "sub_id": "68701",
+          "scr_dup": "001",
+          "seq": 6,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D3",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "NM06110",
+      "sub_id": "68701",
+      "scr_dup": "001",
+      "seq": 7,
+      "describe_ch": "Be able to find the derivatives of logarithmic, exponential and inverse trigonometric functions",
+      "describe_en": "Be able to find the derivatives of logarithmic, exponential and inverse trigonometric functions",
+      "core_id": "A",
+      "core_item": "運用數學、科學及工程知識的能力",
+      "core_eng": "The ability of applying the knowledge of mathematics, science and engineering",
+      "core_level": "1 ",
+      "strgy": [
+        "01"
+      ],
+      "evalb": [
+        "D3"
+      ],
+      "strgy_name": [
+        "課堂授課"
+      ],
+      "strgy_name_en": [
+        "Classroom instruction"
+      ],
+      "evalb_name": [
+        "隨堂測驗"
+      ],
+      "evalb_name_en": [
+        "In-class examination"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "NM06110",
+          "sub_id": "68701",
+          "scr_dup": "001",
+          "seq": 7,
+          "strgy_id": "01",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "NM06110",
+          "sub_id": "68701",
+          "scr_dup": "001",
+          "seq": 7,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D3",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    }
+  ],
+  "topicSdgs": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "NM06110",
+      "sub_id": "68701",
+      "scr_dup": "001",
+      "sdgs_seq": 4,
+      "main_related": "Y",
+      "ind_related": "N",
+      "iss_name": "社會進步面",
+      "iss_ename": "Social Progress",
+      "content_name": "提供全民教育",
+      "content_ename": "Quality Education"
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "NM06110",
+      "sub_id": "68701",
+      "scr_dup": "001",
+      "sdgs_seq": 17,
+      "main_related": "Y",
+      "ind_related": "N",
+      "iss_name": "多元合作",
+      "iss_ename": "Cooperation",
+      "content_name": "建立全球夥伴關係",
+      "content_ename": "Partnerships for the Goals"
+    }
+  ],
+  "learnHours": {
+    "total": 0.0,
+    "tpdOnlineAsyTotal": 0.0,
+    "tpdOnlineSynTotal": 0.0,
+    "tpdOnlineFaceTotal": 0.0,
+    "asySynInTotalPercent": 0.0
+  },
+  "crossVerYear": 114
+}

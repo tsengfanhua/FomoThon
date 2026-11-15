@@ -1,0 +1,95 @@
+{
+  "teacherId": "T07206",
+  "name": "魏立儒",
+  "mainUnit": "工程與科學學院",
+  "detailUnit": "機械與電腦輔助工程學系",
+  "skill": [
+    "積層製造Additive Manufacturing",
+    "直寫技術Direct Writing Technology",
+    "印刷電路Printed Electronics",
+    "傳感技術Sensor Technology",
+    "創新設計Design Innovation"
+  ],
+  "edu": [
+    "De Montfort University 機械工程 博士",
+    "De Montfort University 創新設計 碩士"
+  ],
+  "fcuExp": [
+    "機械與電腦輔助工程學系 助理教授"
+  ],
+  "currjob": [],
+  "otherExp": [
+    "中國醫藥大學附設醫院 3D列印醫療研發中心 博士後研究",
+    "中國醫藥大學附設醫院 3D列印醫療研發中心 碩士級研究"
+  ],
+  "journal": [
+    {
+      "論文名稱": "Structural design and mechanical response of gradient porous Ti-6Al-4V fabricated by electron beam additive manufacturing",
+      "期刊名稱": "Materials and Design (SCIE)",
+      "作者群": "Wu, Y. C., Kuo, C. N., Shie, M. Y., Su, Y. L., Wei, L. J., Chen, S. Y., & Huang, J. C."
+    },
+    {
+      "論文名稱": "Anti-inflammation performance of curcumin-loaded mesoporous calcium silicate cement. Journal of the Formosan Medical Association",
+      "期刊名稱": "Journal of the Formosan Medical Association (SCIE)",
+      "作者群": "Chen, Y. C., Shie, M. Y., Wu, Y. H. A., Lee, K. X. A., Wei, L. J., & Shen, Y. F.*"
+    },
+    {
+      "論文名稱": "Calcium Silicate/Chitosan-Coated Electrospun Poly (Lactic Acid) Fibers for Bone Tissue Engineering",
+      "期刊名稱": "Materials (SCIE)",
+      "作者群": "Su, C.-J., Tu, M.-G., Wei, L.-J., Hsu, T.-T., Kao, C.-T., Chen, T.-H., & Huang, T.-H.*"
+    },
+    {
+      "論文名稱": "Polymer gel dosimeters for pretreatment radiotherapy verification using the three-dimensional gamma evaluation and pass rate maps",
+      "期刊名稱": "Physica Medica (SCIE)",
+      "作者群": "Hsieh, L.-L., Shieh, J.-I., Wei, L.-J., Wang, Y.-C., Cheng, K.-Y., & Shih, C.-T.*"
+    },
+    {
+      "論文名稱": "3D Printing of Cytocompatible Water-Based Light-Cured Polyurethane with Hyaluronic Acid for Cartilage Tissue Engineering Applications",
+      "期刊名稱": "Materials (SCIE)",
+      "作者群": "Shie, M.-Y., Chang, W.-C., Wei, L.-J., Huang, Y.-H., Chen, C.-H., Shih, C.-T., Chen, T.-H., Shen, Y.-F.*"
+    },
+    {
+      "論文名稱": "Carbon based resistive strain gauge sensor fabricated on titanium using micro-dispensing direct write technology",
+      "期刊名稱": "Sensors and Actuators A: Physical (SCIE)",
+      "作者群": "Wei, L.-J.*, & Oxley, C. H."
+    }
+  ],
+  "journal2": [],
+  "conference": [],
+  "book": [],
+  "patent": [],
+  "most": [
+    {
+      "name": "整合熱成像、人臉識別與路徑規劃的無人機技術研究",
+      "schoolYear": "113"
+    },
+    {
+      "name": "開發光固化積層製造技術用於具感測功能之智慧材料(2/2)",
+      "schoolYear": "110"
+    },
+    {
+      "name": "開發光固化積層製造技術用於具感測功能之智慧材料(1/2)",
+      "schoolYear": "109"
+    }
+  ],
+  "tech": [
+    {
+      "論文名稱": "3D functional scaffolds for cartilage tissue engineering. (2017-10)",
+      "書名": "Functional 3D Tissue Engineering Scaffolds",
+      "作者群": "Lee, K.-X. A., Ng, H. Y., Wei, L.-J., & Shen, Y.-F."
+    }
+  ],
+  "induAca": [
+    "(林子楓)製造業溫室氣體服務計畫(訂單編號3000777041) (2024-03 to 2024-09)",
+    "智慧感測與決策控制人才培育產學合作計畫 (2022-01 to 2022-11)",
+    "射出料管溫度/壓力即時量測應用於CAE模擬軟體開發與應用之研究 (2019-04 to 2020-03)"
+  ],
+  "perform": [],
+  "reward": [
+    "Outstanding Paper Award (113, 2024-12) - ATC",
+    "Best Conference Paper Award (112, 2023-10) - ECICE"
+  ],
+  "speech": [],
+  "material": [],
+  "tal": []
+}

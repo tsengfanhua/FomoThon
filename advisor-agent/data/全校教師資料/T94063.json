@@ -1,0 +1,232 @@
+{
+  "teacherId": "T94063",
+  "name": "郭崇韋",
+  "mainUnit": "資訊電機學院",
+  "detailUnit": "資訊工程學系",
+  "skill": [
+    "積體電路電磁相容IC-EMC",
+    "微控制器應用Microcontroller Applications",
+    "硬體安全Hardware Security",
+    "惡意流量分析Malicious Traffic Detection"
+  ],
+  "edu": [
+    "逢甲大學 電機與通訊工程 博士",
+    "逢甲大學 通訊工程學系 碩士",
+    "國立勤益技術學院 電子工程系 學士"
+  ],
+  "fcuExp": [
+    "逢甲大學帆宣智慧城市5G實驗室 研究員",
+    "蘋果公司區域教育培訓中心 活動組組長",
+    "通訊工程學系 技佐",
+    "資訊工程學系 技士",
+    "校友聯絡暨就業輔導處 技士",
+    "就業輔導及職能發展中心 技士",
+    "資訊教學中心 技士",
+    "創能學院 技士",
+    "資訊工程學系 助理教授",
+    "蘋果公司區域教育培訓中心 活動組組長"
+  ],
+  "currjob": [],
+  "otherExp": [
+    "逢甲大學 資訊電機碩專學位學程 助理教授",
+    "國立勤益科技大學 資訊工程學系 助理教授",
+    "國立勤益科技大學 電子工程系 助理教授"
+  ],
+  "journal": [
+    {
+      "論文名稱": "Dynamic Key Replacement Mechanism for Lightweight Internet of Things Microcontrollers to Resist Side-Channel Attacks",
+      "期刊名稱": "Future Internet (SCIE)",
+      "作者群": "Kuo, C. W., Wei, W., Lin, C. C., Hong, Y. Y., Liu, J. R., & Tsai, K. Y.*"
+    },
+    {
+      "論文名稱": "Design and Application of Novel Stripline for IC-EMC Characteristic Measurement",
+      "期刊名稱": "IET Science, Measurement & Technology (SCIE)",
+      "作者群": "Han-Hien Lin, Tzu-Hao Ho*, Wei-Yen Chang, Chung-Wei Kuo"
+    },
+    {
+      "論文名稱": "ML-based Intrusion Detection System for Precise APT Cyber-clustering",
+      "期刊名稱": "Computers & Secuirty (SCIE)",
+      "作者群": "Lee, J.S., Fan, Y.Y., Cheng, C.H, Chew, C. J., and Kuo, C.W.*"
+    },
+    {
+      "論文名稱": "Enhancement and Implementation of Encryption Key Protection Mechanisms in Smart Applications of IoT Systems",
+      "期刊名稱": "Communications of the Chinese Cryptology and Information Security Association (ECONLIT)",
+      "作者群": "Chung-Wei Kuo*, Wei Wei, Chun-Chang Lin, Yu-Yi Hong, Jia-Ruei Liu"
+    },
+    {
+      "論文名稱": "Implementation and Analysis of Side-Channel Attack Mitigation Based on Autoencoder",
+      "期刊名稱": "Communications of the Chinese Cryptology and Information Security Association (ECONLIT)",
+      "作者群": "Kuo, C.W.*, Tsai, K.Y., Weng, W.M., Lin, C.C., Hong, Y.Y., and Wang, G.L."
+    },
+    {
+      "論文名稱": "CoNN-IDS: Intrusion Detection System based on Collaborative Neural Networks and Agile Training",
+      "期刊名稱": "Computers & Security (SCIE)",
+      "作者群": "Lee, J.S., Chen, Y. C., Chew, C. J., Chen, C.L., Huynh, T.N., and Kuo, C.W.*"
+    },
+    {
+      "論文名稱": "Design and application of a mobile miniature current probe for analysing the cause of EMI noise in IC circuits",
+      "期刊名稱": "IET Science, Measurement (SCIE)",
+      "作者群": "Lin, Han-Nien; Chen, Hung-Chi; Kuo, Chung-Wei*; Chang, Yen-Tang"
+    },
+    {
+      "論文名稱": "Electromagnetic interference noise suppression of writing/reading flash memory with multiple-execution control program",
+      "期刊名稱": "IET Sci. Mea. Technol 2015 (SCIE)",
+      "作者群": "*Han-Nien Lin, Chung-Wei Kuo, Hung-Chi Chen"
+    }
+  ],
+  "journal2": [],
+  "conference": [
+    {
+      "論文名稱": "設計與建置利用開源結合AI之校園資安監測平台 -以臺灣中部某大學為例",
+      "會議名稱": "第三十四屆全國資訊安全會議",
+      "作者群": "林子煒*, 蔡國裕, 郭崇韋, 林玟欣, 李品臻, 梁瑋宸, 黃千芸, 范秩嘉, 陳宣廷, 王富貴"
+    },
+    {
+      "論文名稱": "應用跳動金鑰加密機制防抵抗IoT裝置的旁通道攻擊",
+      "會議名稱": "第三十四屆全國資訊安全會議(CISC 2024)",
+      "作者群": "魏巍、郭崇韋*、洪宇義、林駿璋、劉嘉瑞、吳承軒、莊恆豪"
+    },
+    {
+      "論文名稱": "An Approach of Privacy-Preserved PQC-based Cyber-threat Intelligence System",
+      "會議名稱": "2024 8th International Conference on Cryptography, Security and Privacy (CSP 2024)",
+      "作者群": "Chen, Y.J., Lin, T.W.*, Kuo, C.W., Tsai, K.Y."
+    },
+    {
+      "論文名稱": "Research and Analysis of the Effects of Different Shielding Materials on Resisting Side-Channel\nAttacks on IoT Device Microcontroller",
+      "會議名稱": "2024 8th International Conference on Cryptography, Security and Privacy (CSP 2024)",
+      "作者群": "Chung-Wei Kuo*, Chun-Chang Lin, Yu-Yi Hong, Jia-Ruei Liu, Chun-Hsiu Yeh, and Kuo-Yu Tsai"
+    },
+    {
+      "論文名稱": "WOTS-Based Conditional Privacy-Preserving Authentication Protocol for VANETs",
+      "會議名稱": "2024 8th International Conference on Cryptography, Security and Privacy (CSP)",
+      "作者群": "Kuo-Yu Tsai, Chung-Wei Kuo, Li-Chung Leung,  and Ying-Hsuan Yang"
+    },
+    {
+      "論文名稱": "設計與實作智慧農場之低功耗加密傳輸系統",
+      "會議名稱": "2024臺灣電信年會",
+      "作者群": "郭崇韋 *、林澤鋒、雷光勝、吳佳琪"
+    },
+    {
+      "論文名稱": "Implementation and analysis of using autoencoder to suppress noise interference on side-channel attacks",
+      "會議名稱": "Security and Information Technologies with AI, Internet Computing and Big-data Applications - Proceedings of SITAIBA 2023",
+      "作者群": "Kuo-Yu Tsai, Chung-Wei Kuo*, Wei-Ming Weng, Guan-Ling Wang and Chun-Chang Lin"
+    },
+    {
+      "論文名稱": "Real time Human Movement Recognition and Interaction in Virtual Fitness using Image Recognition and Motion Analysis",
+      "會議名稱": "2023 12th International Conference on Awareness Science and Technology (iCAST)",
+      "作者群": "ChunHsiu Yeh; Wei-Cheng Shen; Chi-Wei Ma; Qiu-Tong Yeh; Chung-Wei Kuo; Jong-Shin Chen"
+    },
+    {
+      "論文名稱": "基於DAE之旁通道攻擊實作與分析",
+      "會議名稱": "第三十三屆全國資訊安全會議",
+      "作者群": "翁偉銘、蔡國裕、郭崇韋"
+    },
+    {
+      "論文名稱": "Analysis of EMI effect on flash memory IC",
+      "會議名稱": "2012 Asia-Pacific Symposium on Electromagnetic Compatibility",
+      "作者群": "H. -N. Lin, C. -W. Kuo*, C. -k. Chen and J. -S. Chen"
+    },
+    {
+      "論文名稱": "Statistical analysis of EMI noise measurement for Flash Memory",
+      "會議名稱": "2011 8th Workshop on Electromagnetic Compatibility of Integrated Circuits",
+      "作者群": "H. -N. Lin, C. -W. Kuo*, J. -L. Chang and C. -K. Chen"
+    },
+    {
+      "論文名稱": "Design of TEM cell and high sensitive probe for EMI analysis of built-in Webcam module",
+      "會議名稱": "2010 IEEE Electrical Design of Advanced Package & Systems Symposium",
+      "作者群": "H. -N. Lin, C. -W. Kuo*, J. -M. Liao and J. -L. Dong"
+    }
+  ],
+  "book": [],
+  "patent": [],
+  "most": [
+    {
+      "name": "(個別型)產學合作計畫－航太發動機熱處理排程智慧化與節能減碳最適化",
+      "schoolYear": "113"
+    },
+    {
+      "name": "(廠配)漢翔航空工業股份有限公司(個別型)產學合作計畫－航太發動機熱處理排程智慧化與節能減碳最適化",
+      "schoolYear": "113"
+    },
+    {
+      "name": "基於後量子密碼學控制晶片之旁通道攻擊平台建置與抗攻擊之超穎材料結構設計與分析",
+      "schoolYear": "113"
+    },
+    {
+      "name": "空調機房冰機節能系統-以逢甲大學為例",
+      "schoolYear": "113"
+    },
+    {
+      "name": "設計電磁能隙結構以強化物聯網控制晶片抵抗旁通道攻擊能力之研究",
+      "schoolYear": "111"
+    }
+  ],
+  "tech": [],
+  "induAca": [
+    "設計與實作具抵抗旁通道攻擊之物聯網微控制器加密傳輸機制 (2023-10 to 2024-07)",
+    "歐印精品(All-En Boutique)網站系統建置 (2023-08 to 2024-03)"
+  ],
+  "perform": [],
+  "reward": [
+    "Cybersecurity Achievement Award (113, 2025-01) - ScienceFather",
+    "113年度國科會補助大專校院研究獎勵 (113, 2024-11) - 逢甲大學",
+    "2024年第九屆海峽兩岸青少年創客大賽 (112, 2024-07) - 福州大學、逢甲大學、同濟大學",
+    "2024 Coding 101 (112, 2024-03) - 國立台灣海洋大學、逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (105, 2016-11) - 逢甲大學"
+  ],
+  "speech": [
+    {
+      "演講題目": "密碼不知不覺就被偷了-旁通道攻擊之防禦",
+      "邀請單位": "中國醫藥大學人文與科技學院數位健康創新碩",
+      "演講日期": "2025-03"
+    },
+    {
+      "演講題目": "硬體安全-旁通道攻擊之防禦",
+      "邀請單位": "國立中興大學資訊工程學系",
+      "演講日期": "2024-10"
+    },
+    {
+      "演講題目": "數位時代的跨域學習——資訊通識普及之策略以逢甲大學為例",
+      "邀請單位": "國立政治大學",
+      "演講日期": "2024-07"
+    },
+    {
+      "演講題目": "2024中部製造業論壇-製造業需要重視的資安意識與法規",
+      "邀請單位": "資安人論壇INFO SECURITY",
+      "演講日期": "2024-06"
+    },
+    {
+      "演講題目": "ChatGPT陪你練習求職口試",
+      "邀請單位": "中興大學生涯發展中心",
+      "演講日期": "2024-04"
+    },
+    {
+      "演講題目": "資訊工程學系-四大學習領域 成為頂尖人才",
+      "邀請單位": "台北市立大同高中",
+      "演講日期": "2024-04"
+    },
+    {
+      "演講題目": "善用ChatGPT製作精準求職履歷表",
+      "邀請單位": "中興大學生涯發展中心",
+      "演講日期": "2024-04"
+    },
+    {
+      "演講題目": "善用ChatGPT製作精準求職履歷表",
+      "邀請單位": "中興大學生涯發展中心",
+      "演講日期": "2023-10"
+    },
+    {
+      "演講題目": "百分百普及全校基礎程式邏輯能力經驗分享",
+      "邀請單位": "國立政治大學",
+      "演講日期": "2023-04"
+    },
+    {
+      "演講題目": "112年大學申請入學「學習歷程自述書寫」工作坊",
+      "邀請單位": "國立臺東高中",
+      "演講日期": "2023-01"
+    }
+  ],
+  "material": [],
+  "tal": []
+}

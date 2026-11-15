@@ -1,0 +1,1417 @@
+{
+  "teacherId": "T91151",
+  "name": "李景松",
+  "mainUnit": "資訊電機學院",
+  "detailUnit": "電子工程學系",
+  "skill": [
+    "半導體物理Semiconductor Physics",
+    "化合物半導體高速元件Compound Semiconductor High-Speed Devices",
+    "有機發光二極體OLEDs",
+    "有機太陽能電池OPV Cells"
+  ],
+  "edu": [
+    "國立成功大學 電機工程學系 博士",
+    "佛羅里達州立大學 電機工程研究所 碩士",
+    "國立成功大學 電機工程學系 學士"
+  ],
+  "fcuExp": [
+    "電子工程學系 系主任",
+    "電子工程學系 兼任助理教授",
+    "電子工程學系 助理教授",
+    "電子工程學系 副教授",
+    "電子工程學系 教授",
+    "電子工程學系 特聘教授",
+    "電子工程學系 特聘教授"
+  ],
+  "currjob": [],
+  "otherExp": [
+    "私立建國技術學院 電子工程學系 助理教授"
+  ],
+  "journal": [
+    {
+      "論文名稱": "Investigations on In0.12Al0.88N/AlN/AlxGa1-xN/ In0.12Al0.88N MOS-HFETs with Symmetrically-Graded Wide-gap Channel and Drain Field-Plate Design",
+      "期刊名稱": "IEEE Access (SCIE)",
+      "作者群": "Jian-Hong Ke, Ching-Sung Lee*, Han-Yin Liu, Jung-Hui Tsai, and Wei-Chou Hsu"
+    },
+    {
+      "論文名稱": "C-Axis Aligned Crystalline InSnZnO Thin Film Using Mist Chemical Vapor Deposition and Deposition/Annealing Cyclic Method for Thin-Film Transistors Applications",
+      "期刊名稱": "IEEE Transactions on Electron Devices (SCIE)",
+      "作者群": "Han-Yin Liu, Hao-Chun Hung, Yu-Liang Hsu, Ching-Sung Lee, Meng-Yu Hsu, Yi-Jie Liu, Yu-Ting Huang, and Wei-Chou Hsu"
+    },
+    {
+      "論文名稱": "High-Breakdown P-Channel GaN MOS-HFETs with Al2O3-Dielectric and Drain Field-Plate",
+      "期刊名稱": "IEEE Journal of the Electron Devices Society (SCIE)",
+      "作者群": "Jian-Hong Ke, Ching-Sung Lee*, Yu-Xuan Li, and Wei-Chou Hsu"
+    },
+    {
+      "論文名稱": "Investigations on Wide-Gap Al0.21Ga0.79N Channel MOS-HFETs with In0.12Al0.76Ga0.12N Barrier/Buffer and Drain Field-Plate",
+      "期刊名稱": "IEEE Journal of the Electron Devices Society (SCIE)",
+      "作者群": "Ching-Sung Lee*, Chih-Tsung Cheng, Jian-Hong Ke, and Wei-Chou Hsu"
+    },
+    {
+      "論文名稱": "Investigations on Al2O3-Dielectric Wide-Gap Al0.3Ga0.7N Channel MOS-HFETs with Composite Al2O3/In Situ SiN Passivation",
+      "期刊名稱": "ECS Journal of Solid State Science and Technology (SCIE)",
+      "作者群": "Ching-Sung Lee*, Kuan-Ting Lee, Wei-Chou Hsu, Han-Yin Liu, Wen-Luh Yang, and Chien-Hung Ko"
+    },
+    {
+      "論文名稱": "Enhancement-Mode Characteristics of Al0.65Ga0.35N/Al0.3Ga0.7N/AlN/SiC MOS-HFETs",
+      "期刊名稱": "IEEE Journal of the Electron Devices Society (SCIE)",
+      "作者群": "Ching-Sung Lee*, Chia-Lun Li, Wei-Chou Hsu, Cheng-Yang You, and Han-Yin Liu"
+    },
+    {
+      "論文名稱": "Threshold Voltage Engineering of Enhancement-Mode AlGaN/GaN Metal-Oxide-Semiconductor High Electron Mobility Transistors with Different Doping Concentration of In Situ Cl− Doped Al2O3",
+      "期刊名稱": "ECS Journal of Solid State Science and Technology (SCIE)",
+      "作者群": "Han-Yin Liu*, Chih-Wei Lin, Ching-Sung Lee, and Wei-Chou Hsu"
+    },
+    {
+      "論文名稱": "Effects of Ambient/Carrier Gas on Amorphous InGaZnO-Based Thin-Film Transistors Using Ultrasonic Spray Pyrolysis Deposition",
+      "期刊名稱": "IEEE TRANSACTIONS ON ELECTRON DEVICES (SCIE)",
+      "作者群": "Han-Yin Liu, Che-Lun Chang, Pei-Huang Hsu, Wei-Ting Chen, Teng-Yuan Chang, Ching-Sung Lee, Shun-Cheng Shih, and Wei-Chou Hsu"
+    },
+    {
+      "論文名稱": "High Performance Normally-Off AlGaN/GaN Fin-MISHEMT on Silicon With Low Work Function Metal-Source Contact Ledge",
+      "期刊名稱": "IEEE Transactions on Electron Devices (SCIE)",
+      "作者群": "Yi-Ping Huang, Chih-Chieh Huang, Ching-Sung Lee, and Wei-Chou Hsu"
+    },
+    {
+      "論文名稱": "Improved Electrical and Deep-UV Sensing Characteristics of Al2O3-Dielectric AlGaN/AlN/SiC MOS-HFETs",
+      "期刊名稱": "ECS Journal of Solid State Science and Technology (SCIE)",
+      "作者群": "Ching-Sung Lee*, Yun-Jung Lin, Wei-Chou Hsu, Yi-Ping Huang, and Cheng-Yang You"
+    },
+    {
+      "論文名稱": "Enhancement-Mode InAlN/GaN Power MOSHEMT on Silicon With Schottky Tri-Drain Extension",
+      "期刊名稱": "IEEE Electron Device Letters (SCIE)",
+      "作者群": "Yi-Ping Huang, Ching-Sung Lee, and Wei-Chou Hsu"
+    },
+    {
+      "論文名稱": "Amorphous ITZO Thin-Film Transistors by Using Ultrasonic Spray Pyrolysis Deposition",
+      "期刊名稱": "IEEE Transactions on Electron Devices (SCIE)",
+      "作者群": "Han-Yin Liu, Wei-Chou Hsu, Jui-Hsuan Chen, Pei-Huang Hsu, and Ching-Sung Lee"
+    },
+    {
+      "論文名稱": "Al0.75Ga0.25N/AlxGa1-xN/Al0.75Ga0.25N/AlN/SiC Metal-Oxide-Semiconductor Heterostructure Field-Effect Transistors with Symmetrically-Graded Widegap Channel",
+      "期刊名稱": "IEEE Journal of the Electron Devices Society (SCIE)",
+      "作者群": "Ching-Sung Lee*, Yan-Ting Shen, Wei-Chou Hsu, Yi- Ping Huang, and Cheng-Yang You"
+    },
+    {
+      "論文名稱": "Enhancement-Mode Tri-Gate Nanowire InAlN/GaN MOSHEMT for Power Applications",
+      "期刊名稱": "IEEE Electron Device Letters (SCIE)",
+      "作者群": "Yi-Ping Huang, Wei-Chou Hsu, Han-Yin Liu, and Ching-Sung Lee"
+    },
+    {
+      "論文名稱": "Improved Ultraviolet Detection and Device Performance of Al2O3-Dielectric In0.17Al0.83N/AlN/GaN MOS-HFETs",
+      "期刊名稱": "IEEE Journal of the Electron Devices Society (SCIE)",
+      "作者群": "Ching-Sung Lee*, Xue-Cheng Yao, Yi-Ping Huang, and Wei-Chou Hsu"
+    },
+    {
+      "論文名稱": "Al2O3-Dielectric InAlN/AlN/GaN Γ-Gate MOS-HFETs with Composite Al2O3/TiO2 Passivation Oxides",
+      "期刊名稱": " IEEE Journal of the Electron Devices Society (SCIE)",
+      "作者群": "Ching-Sung Lee*, Xue-Cheng Yao, Yi-Ping Huang, and Wei-Chou Hsu"
+    },
+    {
+      "論文名稱": "Comparative Study on Graded-Barrier AlxGa1-xN/AlN/GaN/Si Metal-Oxide-Semiconductor Heterostructure Field-Effect Transistor by Using Ultrasonic Spray Pyrolysis Deposition Technique",
+      "期刊名稱": "Semiconductor Science and Technology (SCIE)",
+      "作者群": "Ching-Sung Lee*, Wei-Chou Hsu, Yi-Ping Huang, Han-Yin Liu, Wen-Luh Yang, and Shen-Tin Yang"
+    },
+    {
+      "論文名稱": "Al2O3-Dielectric In0.18Al0.82N/AlN/GaN/Si Metal-Oxide-Semiconductor Heterostructure Field-Effect Transistors with Backside Substrate Metal-Trench Structure",
+      "期刊名稱": "IEEE Journal of the Electron Devices Society (SCIE)",
+      "作者群": "Ching-Sung Lee*, Wei-Chou Hsu, Han-Yin Liu, and Yu-Chang Chen"
+    },
+    {
+      "論文名稱": "Al2O3-Passivated Graded-Barrier AlxGa1-xN/AlN/GaN/Si Heterostructure Field-Effect Transistor by Hydrogen Peroxide Oxidization Method",
+      "期刊名稱": "ECS Journal of Solid State Science and Technology (SCIE)",
+      "作者群": "Ching-Sung Lee*, Wei-Chou Hsu, Han-Yin Liu, and Shen-Ting Yang"
+    },
+    {
+      "論文名稱": "Comparative Studies of Normally-Off Al0.26Ga0.74N/AlN/GaN/Si High Electron Mobility Transistors with Different Gate Structures",
+      "期刊名稱": "Materials Science in Semiconductor Processing (SCIE)",
+      "作者群": "Ching-Sung Lee*, Wei-Chou Hsu, Han-Yin Liu, Si-Fu Chen, Yu-Chang Chen, and Shen-Tin Yang"
+    },
+    {
+      "論文名稱": "Improved Light Output Power of InGaN/GaN LED by Using Ultrasonic Spray Pyrolysis Deposited MgO",
+      "期刊名稱": "IEEE Transactions on Electron Devices (SCIE)",
+      "作者群": "Han-Yin Liu, Ching-Sung Lee, and Yun-Chung Yang"
+    },
+    {
+      "論文名稱": "Amorphous TiO2-based Thin-Film Phototransistor",
+      "期刊名稱": "IEEE Electron Device Letters (SCIE)",
+      "作者群": "Han-Yin Liu, Ruei-Chin Huang, Yi-Ying Li, Ching-Sung Lee, and Wei-Chou Hsu"
+    },
+    {
+      "論文名稱": "Ultrasonic Assisted Mist Chemical Vapor Deposition Deposited MgO for AlGaN/GaN Metal-Insulator-Semiconductor Ultraviolet Photodetector",
+      "期刊名稱": "IEEE Sensors Letters (EI)",
+      "作者群": "Han-Yin Liu, Ching-Sung Lee, Guan-Jyun Liu, and Ruei-Chin Huang"
+    },
+    {
+      "論文名稱": "Comparative Studies on AlGaN/GaN/Si MOS-HFETs with Al2O3/TiO2 Stacked Dielectrics by Using an Ultrasonic Spray Pyrolysis Deposition Technique",
+      "期刊名稱": "Semiconductor Science and Technology (SCIE)",
+      "作者群": "Ching-Sung Lee*, Wei-Chou Hsu, Bo-Jung Chiang, Han-Yin Liu, and Hsin-Yuan Lee"
+    },
+    {
+      "論文名稱": "Normally-Off AlGaN/AlN/GaN/Si Oxide-Passivated HEMTs and MOS-HEMTs by Using CF4 Plasma and Ozone Water Oxidization Treatment",
+      "期刊名稱": "Materials Science in Semiconductor Processing (SCIE)",
+      "作者群": "Ching-Sung Lee*, Han-Yin Liu, Wei-Chou Hsu, and Si-Fu Chen"
+    },
+    {
+      "論文名稱": "Integration of Gate Recessing and In-situ Cl- Doped Al2O3 for Enhancement-Mode AlGaN/GaN MOSHEMTs Fabrication",
+      "期刊名稱": "IEEE Electron Device Letters (SCIE)",
+      "作者群": "Han-Yin Liu, Chih-Wei Lin, Wei-Chou Hsu, Ching-Sung Lee, Meng-Hsueh Chiang, Wen-Ching Sun, Sung-Yen Wei, and Sheng-Min Yu"
+    },
+    {
+      "論文名稱": "Ti0.5Al0.5O-Dielectric AlGaN/GaN/Si Metal-Oxide-Semiconductor Heterostructure Field-Effect Transistors by Using Non-Vacuum Ultrasonic Spray Pyrolysis Deposition",
+      "期刊名稱": "ECS Journal of Solid State Science and Technology (SCIE)",
+      "作者群": "Ching-Sung Lee*, Wei-Chou Hsu, Han-Yin Liu, and Bo-Jung Chiang"
+    },
+    {
+      "論文名稱": "Investigation of AlGaN/GaN Ion-Sensitive Heterostructure Field-Effect Transistors-Based\r\npH Sensors With Al2O3 Surface Passivation and Sensing Membrane",
+      "期刊名稱": "IEEE Sensors Journal (SCIE,EI)",
+      "作者群": "Han-Yin Liu, Wei-Chou Hsu, Wei-Fan Chen, Chih-Wei Lin, Yi-Ying Li, Ching-Sung Lee, Wen-Ching Sun, Sung-Yen Wei, and Sheng-Min Yu"
+    },
+    {
+      "論文名稱": "Investigations on MgO-Dielectric GaN/AlGaN/GaN MOS-HEMTs by Using Ultrasonic Spray Pyrolysis Deposition Technique",
+      "期刊名稱": "Semiconductor Science and Technology (SCIE)",
+      "作者群": "Ching-Sung Lee*,Wei-Chou Hsu,Han-Yin Liu,Ting-Ting Wu,Wen-Ching Sun,Sung-Yen Wei,and Sheng-Min Yu"
+    },
+    {
+      "論文名稱": "Al0.25Ga0.75N/GaN Enhancement-Mode MOS-HEMTs with Al2O3 Dielectric by Using Ozone Water Oxidization Method",
+      "期刊名稱": "Japanese Journal of Applied Physics (SCIE)",
+      "作者群": "Ching-Sung Lee*, Wei-Chou Hsu, Han-Yin Liu, Jung-Hui Tsai, and Hung-Hsi Huang"
+    },
+    {
+      "論文名稱": "Enhanced performances of AlGaN/GaN ion-sensitive field-effect transistors using H2O2-grown Al2O3 for sensing membrane and surface passivation applications",
+      "期刊名稱": "IEEE Sensors Journal (SCIE,EI)",
+      "作者群": "Han-Yin Liu, Wei-Chou Hsu, Ching-Sung Lee, Bo-Yi Chou, and Wei-Fan Chen"
+    },
+    {
+      "論文名稱": "Investigations of TiO2-AlGaN/GaN/Si-Passivated HFETs and MOS-HFETs Using Ultrasonic Spray Pyrolysis Deposition",
+      "期刊名稱": "IEEE Transactions on Electron Devices (SCIE)",
+      "作者群": "Ching-Sung Lee*,Wei-Chou Hsu,Bo-Yi Chou,Han-Yin Liu,Cheng-Long Yang,Wen-Ching Sun,Sung-Yen Wei,Sheng-Min Yu,and Chang-Luen Wu"
+    },
+    {
+      "論文名稱": "Investigations of AlGaN/GaN MOS-HEMT with Al2O3 Deposition by Ultrasonic Spray Pyrolysis Method",
+      "期刊名稱": "Semiconductor Science and Technology (SCIE)",
+      "作者群": "Bo-Yi Chou, Wei-Chou Hsu, Han-Yin Liu, Ching-Sung Lee, Yu-Sheng Wu, Wen-Ching Su, Sung-Yen Wei,Sheng-Min Yu,and Meng-Hsueh Chiang"
+    },
+    {
+      "論文名稱": "TiO2-Dielectric AlGaN/GaN/Si Metal-Oxide-Semiconductor High Electron Mobility Transistors by Using Non-Vacuum Ultrasonic Spray Pyrolysis Deposition",
+      "期刊名稱": "IEEE Electron Devices Letters (SCIE)",
+      "作者群": "Bo-Yi Chou, Ching-Sung Lee*, Cheng-Long Yang, Wei-Chou Hsu, Han-Yin Liu, Meng-Hsueh Chiang,Wen-Ching Sun,Sung-Yen Wei,Shen-Min Yu"
+    },
+    {
+      "論文名稱": "Comparative Studies on InAlAs/InGaAs MOS-MHEMTs with Different Compressive/Tensile-Strained Channel Structures",
+      "期刊名稱": "ECS Journal of Solid State Science & Technology (SCIE)",
+      "作者群": "Ching-Sung Lee, Juan-Chen Yeh, Wei-Chou Hsu, Han-Yin Liu, and Bo-Yi Chou"
+    },
+    {
+      "論文名稱": "Al2O3-Passivated AlGaN/GaN HEMTs by Using Non-Vacuum Ultrasonic Spray Pyrolysis Deposition Technique",
+      "期刊名稱": "IEEE Electron Devices Letters (SCIE)",
+      "作者群": "Bo-Yi Chou, Han-Yin Liu, Wei-Chou Hsu, Ching-Sung Lee, Yu-Sheng Wu, Wen-Ching Sun, Sung-Yen Wei, and Sheng-Min Yu"
+    },
+    {
+      "論文名稱": "Investigation of Temperature-Dependent Characteristics of AlGaN/GaN MOS-HEMT by Using Hydrogen Peroxide Oxidation Technique",
+      "期刊名稱": "IEEE Transactions on Electron Devices (SCIE)",
+      "作者群": "Han-Yin Liu, Wei-Chou Hsu, Ching-Sung Lee, Bo-Yi Chou, and Yi-Bo Liao"
+    },
+    {
+      "論文名稱": "Comparative Studies on AlGaN/GaN MOS-HEMTs with Stacked La2O3/Al2O3 Dielectric Structures",
+      "期刊名稱": "ECS Journal of Solid State Science and Technology (SCIE)",
+      "作者群": "Han-Yin Liu, Ching-Sung Lee*, Fu-Chen Liao, Wei-Chou Hsu, Bo-Yi Chou, Jung-Hui Tsai, and Hsin-Yuan Lee"
+    },
+    {
+      "論文名稱": "Comparative Investigation of InP/InGaAs Heterostructure-Emitter Tunneling and Superlattice Bipolar Transistors",
+      "期刊名稱": "Semiconductors (SCIE)",
+      "作者群": "Jung-Hui Tsai,Ching-Sung Lee,Chung-Cheng Chiang,and Yi-Ting Chao"
+    },
+    {
+      "論文名稱": "Composite HfO2/Al2O3-dielectric AlGaAs/InGaAs MOS-HEMTs by using RF sputtering/ozone water\r\noxidation",
+      "期刊名稱": "Superlattices and Microstructures (SCIE)",
+      "作者群": "Ching-Sung Lee, Yu-Hao Liao, Bo-Yi Chou, Han-Yin Liu, and Wei-Chou Hsu"
+    },
+    {
+      "論文名稱": "Comparative Study of InP/InGaAs Double Heterojunction Bipolar Transistors with InGaAsP Spacer at Base-Collector Junction",
+      "期刊名稱": "Semiconductors (SCIE)",
+      "作者群": "Jung-Hui Tsai, Ching-Sung Lee, Jia-Cing Jhou, You-Ren Wu, Chung-Cheng Chiang,Yi-Ting Chao, and Wen-Chau Liu"
+    },
+    {
+      "論文名稱": "Comparative Studies of AlGaN/GaN MOS-HEMTs with Stacked Gate Dielectrics by Mixed Thin Film Growth Method",
+      "期刊名稱": "Semiconductor Science and Technology (SCIE)",
+      "作者群": "Bo-Yi Chou, Wei-Chou Hsu, Ching-Sung Lee, Han-Yin Liu, and Chiu-Sheng Ho"
+    },
+    {
+      "論文名稱": "Investigations of AlGaN/GaN HFETs utilizing post-metallization etching by nitric acid teatment",
+      "期刊名稱": "Semiconductor Science and Technology (SCIE)",
+      "作者群": "Bo-Yi Chou, Wei-Chou Hsu, Ching-Sung Lee, Han-Yin Liu, Chih-Ming Tsai, and Chiu-Sheng Ho"
+    },
+    {
+      "論文名稱": "Investigations of AlGaN/AlN/GaN MOS-HEMTs on Si Substrate by Ozone Water Oxidation Method",
+      "期刊名稱": "IEEE Transactions on Electron Devices (SCIE)",
+      "作者群": "Han-Yin Liu, Ching-Sung Lee*, Wei-Chou Hsu, Lung-Yi Tseng, Bo-Yi Chou, Chiu-Sheng Ho, and Chang-Luen Wu"
+    },
+    {
+      "論文名稱": "Performance Improvement in Poly(3-hexylthiophene):[6,6]-Phenyl C61 Butyric Acid Methyl\r\nEster Polymer Solar Cell by Doping Wide-Gap Material Tris(phenylpyrazole)iridium",
+      "期刊名稱": "Applied Physics Express (SCIE)",
+      "作者群": "Chiu-Sheng Ho, Wei-Chou Hsu, Ying-Nan Lai, Ching-Sung Lee, Wei-Min Chen, E-Ling Huang, En-Ping Yao, and Ching-Wu Wang"
+    },
+    {
+      "論文名稱": "Enhanced AlGaN/GaN MOS-HEMT Performance by Using Hydrogen Peroxide Oxidation Technique",
+      "期刊名稱": "IEEE Transactions on Electron Devices (SCIE)",
+      "作者群": "Han-Yin Liu, Bo-Yi Chou, Wei-Chou Hsu, Ching-Sung Lee, Jinn-Kong Sheu, and Chiu-Sheng Ho"
+    },
+    {
+      "論文名稱": "Efficiency improvements in single-heterojunction organic photovoltaic cells by insertion of wide-bandgap electron-blocking layers",
+      "期刊名稱": "Solid-State Electronics (SCIE)",
+      "作者群": "Chiu-Sheng Ho, Ching-Sung Lee, Wei-Chou Hsu, Cheng-Yung Lin, Ying-Nan Lai, and Ching-Wu Wang"
+    },
+    {
+      "論文名稱": "Thermal effect on polymer solar cells with active layer concentrations of 3-5 wt%",
+      "期刊名稱": "Synthetic Metals (SCIE)",
+      "作者群": "Chiu-Sheng Ho, E-Ling Huang, Wei-Chou Hsu, Ching-Sung Lee,  Ying-Nan Lai, En-Ping Yao, and Ching-Wu Wang"
+    },
+    {
+      "論文名稱": "Temperature-Dependent Investigation of AlGaN/GaN Oxide-Passivated HEMT by Using Hydrogen Peroxide Oxidation Method",
+      "期刊名稱": "ECS Journal of Solid State Science and Technology (SCIE)",
+      "作者群": "Han-Yin Liu, Bo-Yi Chou, Wei-Chou Hsu, Ching-Sung Lee, and Chiu-Sheng Ho"
+    },
+    {
+      "論文名稱": "A Simple Gate Dielectric Fabrication Process for AlGaN/GaN Metal-Oxide-Semiconductor High Electron Mobility Transistors",
+      "期刊名稱": "IEEE Electron Device Letters (SCIE)",
+      "作者群": "Han-Yin Liu, Bo-Yi Chou, Wei-Chou Hsu, Ching-Sung Lee, and Chiu-Sheng Ho"
+    },
+    {
+      "論文名稱": "Investigations on Al0.2Ga0.8As/In0.2Ga0.8As MOS-pHEMTs with Different Shifted Γ-Gate Structures",
+      "期刊名稱": "ECS Journal of Solid State Science and Technology (SCIE)",
+      "作者群": "Ching-Sung Lee*, Ming-Yuan Lin, Bo-Yi Chou,Wei-Chou Hsu, Han-Yin Liu, Chiu-Sheng Ho, and Ying-Nan Lai"
+    },
+    {
+      "論文名稱": "Comparative Studies of MOS-Gate/Oxide-Passivated AlGaAs/InGaAs pHEMTs by Using Ozone Water Oxidation Technique",
+      "期刊名稱": "Semiconductor Science and Technology (SCIE)",
+      "作者群": "Ching-Sung Lee*, Chun-Tse Hung, Bo-Yi Chou, Wei-Chou Hsu, Han-Yin Liu, Chiu-Sheng Ho and Ying-Nan Lai"
+    },
+    {
+      "論文名稱": "Novel Oxide-Passivated AlGaN/GaN HEMT by Using Hydrogen Peroxide Treatment",
+      "期刊名稱": "IEEE Transactions on Electron Devices (SCIE)",
+      "作者群": "Han-Yin Liu, Bo-Yi Chou, Wei-Chou Hsu, Ching-Sung Lee, and Chiu-Sheng Ho"
+    },
+    {
+      "論文名稱": "Investigations of Novel Γ-Gate MOS-HEMTs by Ozone Water Oxidation and Shifted Exposure Techniques",
+      "期刊名稱": "IEEE Transactions on Electron Devices (SCIE)",
+      "作者群": "Ching-Sung Lee*, Bo-Yi Chou, Sheng-Han Yang, Wei-Chou Hsu, Chang-Luen Wu, Wen Luh Yang, Don-Gey Liu, and Ming-Yuan Lin"
+    },
+    {
+      "論文名稱": "A New InGaP/GaAs Tunneling Heterostructure-Emitter Bipolar Transistor (T-HEBT)",
+      "期刊名稱": "Semiconductors (SCIE)",
+      "作者群": "Jung-Hui Tsai, Ching-Sung Lee, Wen-Shiung Lour, Yung-Chun Ma, and Sheng-Shiun Ye"
+    },
+    {
+      "論文名稱": "Investigations on InP/InAlAsSb/GaAs Metamorphic High Electron Mobility Transistors with a Dual-Composition-Graded InxGa1-xAs1-ySby Channel and Different Schottky-Barrier Gate Structures",
+      "期刊名稱": "Journal of the Electrochemical Society (SCIE)",
+      "作者群": "Ching-Sung Lee* and Wei-Tin Chien"
+    },
+    {
+      "論文名稱": "Effects of Annealing on Polymer Solar Cells with High Polythiophene-Fullerene Concentrations",
+      "期刊名稱": "Japanese Journal of Applied Physics (SCIE)",
+      "作者群": "C. S. Ho, E. L. Huang, W. C. Hsu, C. S. Lee, Y. N. Lai, and W. H. Lai"
+    },
+    {
+      "論文名稱": "Novel Transparent AZO-Gated Al0.2Ga0.8As/In0.2Ga0.8As pHEMT and Photosensing Characteristics Thereof",
+      "期刊名稱": "IEEE Transactions on Electron Devices (SCIE)",
+      "作者群": "Ching-Sung Lee*, Bo-Yi Chou, and Wei-Chou Hsu"
+    },
+    {
+      "論文名稱": "Γ-Gate MOS-HEMTs by Methods of Ozone Water Oxidation and Shifted Exposure",
+      "期刊名稱": "IEEE Electron Device Letters (SCIE)",
+      "作者群": "Ching-Sung Lee*, Shen-Han Yang, and Ming-Yuan Lin"
+    },
+    {
+      "論文名稱": "Improved efficiency and high color purity of top-emission white organic light-emitting diode by anode oxidation technique",
+      "期刊名稱": "Electrochemical and Solid-State Letters (SCIE)",
+      "作者群": "Y. N. Lai, W. C. Hsu, Ching-Sung Lee, C. W. Wang, C. S. Ho, M. C. Shih, and W. F. Lai"
+    },
+    {
+      "論文名稱": "InAlAs/InGaAs MOS-MHEMTs by Using Ozone Water Oxidation Treatment",
+      "期刊名稱": "Electrochemical and Solid-State Letters (SCIE)",
+      "作者群": "W. C. Hsu, Ching-Sung Lee*, C. S. Ho, Y. N. Lai, J. C. Huang, B. Y. Chou, A. Y. Kao, H. H. Yeh, and C. L. Wu"
+    },
+    {
+      "論文名稱": "AZO-Gated Al0.2Ga0.8As/In0.2Ga0.8As High Electron Mobility Transistors",
+      "期刊名稱": "Electrochemical and Solid-State Letters (SCIE)",
+      "作者群": "Ching-Sung Lee* and B.Y. Chou"
+    },
+    {
+      "論文名稱": "Investigations on SiN-Passivated Γ-Gate Al0.27Ga0.73N/GaN High Electron Mobility Transistors",
+      "期刊名稱": "Journal of Electrochemical Society (SCIE)",
+      "作者群": "Ching-Sung Lee* and A.Y. Kao"
+    },
+    {
+      "論文名稱": "Efficiency improvement of top-emission organic light-emitting diode by using UV-ozone, doped emission layer, and hole-blocking layer",
+      "期刊名稱": "Journal of Electrochemical Society (SCIE)",
+      "作者群": "Y.N. Lai, W.C. Hsu, Ching-Sung Lee, C.W. Wang, C.S. Ho, T.Y. Lua, and W.F. Lai"
+    },
+    {
+      "論文名稱": "SiN-passivated Γ-gate Al0.27Ga0.73N/GaN high electron mobility transistors by using a shifted exposure method",
+      "期刊名稱": "Applied Physics Letters (SCIE,EI)",
+      "作者群": "Ching-Sung Lee and A.Y. Kao"
+    },
+    {
+      "論文名稱": "Improved White Organic Light-Emitting Diodes with Modified Dual-Emission-Layer Designs",
+      "期刊名稱": "Japanese Journal of Applied Physics, Part I (SCIE,EI)",
+      "作者群": "Y.N. Lai, W.C. Hsu, Ching-Sung Lee, C.W. Wang, S.W. Yeh, and W.F. Lai"
+    },
+    {
+      "論文名稱": "HIGH GATE-VOLTAGE SWING X-BAND AMPLIFIERS BY USING In0.425Al0.575As/InGaAs METAMORPHIC HIGH ELECTRON MOBILITY TRANSISTORS",
+      "期刊名稱": "Journal of the Chinese Institute of Engineers (SCIE,EI)",
+      "作者群": "W.C. Hsu, Ching-Sung Lee, S.J. Yu, and Y.J. Chen"
+    },
+    {
+      "論文名稱": "Investigations on In0.45Al0.55As/InxGa1-xAs Metamorphic High Electron Mobility Transistors with Double Gate-Recess and SiNx Passivation",
+      "期刊名稱": "Journal of the Electrochemical Society (SCIE,EI)",
+      "作者群": "Ching-Sung Lee*, W.C. Hsu, C.S. Ho, and A.Y. Kao"
+    },
+    {
+      "論文名稱": "Comparative Studies on Temperature-Dependent Characteristics of Passivated In0.2Ga0.8AsSb/GaAs High Electron Mobility Transistors",
+      "期刊名稱": "Journal of the Electrochemical Society (SCIE,EI)",
+      "作者群": "Ching-Sung Lee"
+    },
+    {
+      "論文名稱": "Investigations on Highly-Stable Thermal Characteristics of a Dilute Al0.3Ga0.7As/In0.3Ga0.7As0.99N0.01/GaAs HFET",
+      "期刊名稱": "Journal of the Korean Physical Society (SCIE)",
+      "作者群": "Ching-Sung Lee, W.C. Hsu, K.H. Su, C.H. Ho, and B.I. Chou"
+    },
+    {
+      "論文名稱": "Investigations on highly-stable thermal characteristics of a dilute In0.2Ga0.8AsSb/GaAs doped-channel field-effect transistor",
+      "期刊名稱": "Semiconductor Science and Technology (SCIE,EI)",
+      "作者群": "K.H. Su, W.C. Hsu, Ching-Sung Lee, P.J. Hu, Y.H. Wu, L. Chang, R.S. Hsiao, J.F. Chen and T.W. Chi"
+    },
+    {
+      "論文名稱": "Channel-composition-dependent Characteristics of δ-Doped InxAl1-xAs/InyGa1-yAs Metamorphic High Electron Mobility Transistors",
+      "期刊名稱": "Journal of the Korean Physical Society (SCIE)",
+      "作者群": "Ching-Sung Lee, C.J. Chian, W.C. Hsu, K.H. Su, and S.J. Yu"
+    },
+    {
+      "論文名稱": "A Flat Gain-Power Responses 6-18 GHz Power Amplifier MMIC with High PAE by Using Transformer Networks",
+      "期刊名稱": "Microwave and Optical Technology Letters (SCIE)",
+      "作者群": "S.J. Yu, W.C. Hsu, Ching-Sung Lee, C.S. Chang, C.L. Wu, and C.H. Chang"
+    },
+    {
+      "論文名稱": "Relieved kink effects in symmetrically-graded In0.45Al0.55As/InxGa1-xAs metamorphic high-electron-mobility transistors",
+      "期刊名稱": "J. Appl. Phys. (SCIE,EI)",
+      "作者群": "Ching-Sung Lee and C.H. Liao"
+    },
+    {
+      "論文名稱": "A Ku-band Three-Stage MMIC Low-Noise Amplifier with Superiorly Low Thermal-Sensitivity Coefficients",
+      "期刊名稱": "Microwave and Optical Technology Letters (SCIE)",
+      "作者群": "S.J. Yu, W.C. Hsu, Ching-Sung Lee, C.S. Chang, C.L. Wu and, C.H. Chang"
+    },
+    {
+      "論文名稱": "Temperature-Dependent Characteristics of Enhancement-/ Depletion-Mode Double Delta-Doped AlGaAs/InGaAs pHEMTs and Their Monolithic DCFL Integrations",
+      "期刊名稱": "Solid-State Electronics (SCIE,EI)",
+      "作者群": "J.C. Huang, W.C. Hsu, Ching-Sung Lee, and D. H. Huang"
+    },
+    {
+      "論文名稱": "An Improved Symmetrically-Graded Doped-Channel Heterostructure Field-Effect Transistor",
+      "期刊名稱": "Journal of the Korean Physical Society (SCIE)",
+      "作者群": "K.H Su, W.C. Hsu, P.J. Hu, Y.J. Chen, Ching-Sung Lee, Y.S. Lin, and C.L. Wu"
+    },
+    {
+      "論文名稱": "Highly-Stable Thermal Characteristics of a Novel In0.3Ga0.7As0.99N0.01(Sb)/GaAs High-Electron-Mobility Transistor",
+      "期刊名稱": "Jpn. J. Appl. Phys., Part I (SCIE,EI)",
+      "作者群": "K.H. Su, W.C. Hsu, Ching-Sung Lee, P.J. Hu, R.S. Hsiao, J.F. Chen, and T.W. Chi"
+    },
+    {
+      "論文名稱": "Comparative Studies on Double δ-Doped Al0.3Ga0.7As/InxGa1-xAs/GaAs Symmetrically-Graded Doped-Channel Field-Effect Transistors",
+      "期刊名稱": "Journal of the Electrochemical Society (SCIE,EI)",
+      "作者群": "Ching-Sung Lee, C.H. Chen , J.C. Huang , and K.H. Su"
+    },
+    {
+      "論文名稱": "A Novel Dilute Antimony Channel In0.2Ga0.8AsSb/GaAs HEMT",
+      "期刊名稱": "IEEE Electron Device Letter (SCIE,EI)",
+      "作者群": "K.H. Su, W.C. Hsu, Ching-Sung Lee, T.Y. Wu, Y.H. Wu, L. Chang, R.S. Hsiao, J.F. Chen and T.W. Chi"
+    },
+    {
+      "論文名稱": "High-Power-Density and High-Gain Delta-Doped In0.425Al0.575As/In0.425Ga0.575As Metamorphic High Electron Mobility Transistors for Low-Voltage Operation",
+      "期刊名稱": "Journal of the Electrochemical Society (SCIE,EI)",
+      "作者群": "J.C. Huang, W.C. Hsu, Ching-Sung Lee, D.H. Huang, and Y.C. Yang"
+    },
+    {
+      "論文名稱": "Improved High-Temperature Characteristics of a Symmetrically-Graded AlGaAs/InxGa1-xAs/AlGaAs pHEMT",
+      "期刊名稱": "Semiconductor Science and Technology (SCIE)",
+      "作者群": "J.C. Huang, W.C. Hsu, Ching-Sung Lee, W.C. Chang ,and D.H. Huang"
+    },
+    {
+      "論文名稱": "Comparative Studies of d-Doped In0.45Al0.55As/In0.53Ga0.47As/GaAs Metamorphic High-Electron-Mobility Transistors with Au, Ti/Au, Ni/Au, and Pt/Au Gates",
+      "期刊名稱": "Journal of the Electrochemical Society (SCIE,EI)",
+      "作者群": "K.H. Su, W.C. Hsu, Ching-Sung Lee, I.L. Chen, Y.J. Chen and C.L. Wu"
+    },
+    {
+      "論文名稱": "Characteristics of δ-Doped InAlAs/InGaAs/InP High Electron Mobility Transistors with A Linearly-Graded InxGa1-xAs Channel",
+      "期刊名稱": "Semiconductor Science and Technology (SCIE)",
+      "作者群": "J.C. Huang, W.C. Hsu, Ching-Sung Lee, D.H. Huang and M.F. Huang"
+    },
+    {
+      "論文名稱": "High-temperature threshold characteristics of a symmetrically- graded InAlAs/InxGa1-xAs/GaAs metamorphic high electron mobility transistor",
+      "期刊名稱": "Applied Physics Letters (SCIE,EI)",
+      "作者群": "Ching-Sung Lee, Y.J. Chen, W.C. Hsu, K.H. Su, J.C. Huang, D.H. Huang, and C.L. Wu"
+    },
+    {
+      "論文名稱": "Ni/Au-Gate In0.45Al0.55As/In0.53Ga0.47As/InAlGaAs/GaAs Metamorphic High Electron Mobility Transistors",
+      "期刊名稱": "Journal of the Korean Physical Society (SCIE)",
+      "作者群": "Ching-Sung Lee, W.C. Hsu, K.H. Su, J.C. Huang, D.H. Huang, and Y.J. Chen"
+    },
+    {
+      "論文名稱": "Investigation on delta-Doped InAlAs/InGaAs/InP High Electron Mobility Transistors with a Linearly-Graded InxGa1-xAs Channel",
+      "期刊名稱": "Jpn. J. Appl. Phys., Part I (SCIE)",
+      "作者群": "J.C. Huang, W.C. Hsu, Ching-Sung Lee, Y.J. Chen, D.H. Huang, and H.H. Chen"
+    },
+    {
+      "論文名稱": "Investigations of δ-doped In0.52Al0.48As/InxGa1-xAs/InP HEMTs with Different Channel Structures",
+      "期刊名稱": "Journal of the Korean Physical Society (SCIE)",
+      "作者群": "Ching-Sung Lee, H.H. Chen, J.C. Huang, W.C. Hsu, and Y.J. Chen"
+    },
+    {
+      "論文名稱": "Improved In0.45Al0.55As/In0.45Ga0.55As/In0.65Ga0.35As Inverse Composite Channel Metamorphic High Electron Mobility Transistor",
+      "期刊名稱": "Japanese Journal of Applied Physics, Part I (SCIE)",
+      "作者群": "Y.J. Chen, Ching-Sung. Lee, T.B. Wang, W.C. Hsu, Y.W. Chen, K.H. Su and C.L. Wu"
+    },
+    {
+      "論文名稱": "Characteristics of In0.425Al0.575As/InxGa1-xAs Metamorphic HEMTs with Pseudomorphic and Symmetrically-Graded Channels",
+      "期刊名稱": "IEEE Trans. Electron Dev. (SCIE,EI)",
+      "作者群": "W.C. Hsu, Y.J. Chen, Ching-Sung Lee, T.B. Wang, J. C. Huang, D. H. Huang, K.H. Su, Y.S. Lin, and C.L. Wu"
+    },
+    {
+      "論文名稱": "High-Temperature Thermal Stability Performance in Delta-Doped In0.425Al0.575As/In0.65Ga0.35As Metamorphic HEMT",
+      "期刊名稱": "IEEE Electron Device Lett. (SCIE,EI)",
+      "作者群": "W.C. Hsu, Y.J. Chen, Ching-Sung Lee, T.B. Wang, Y.S. Lin, and C.L. Wu"
+    },
+    {
+      "論文名稱": "Monolithic AlAs/InGaAs/InGaP/GaAs Heterostructure Resonant Tunneling Field-Effect Transistors with PVCR of 960 at 300 K",
+      "期刊名稱": "IEEE Electron Device Lett. (SCIE,EI)",
+      "作者群": "Ching-Sung Lee, Wei-Chou Hsu1, Jun-Chin Huang1, Yeong-Jia Chen1, and Hsin-Hung Chen"
+    },
+    {
+      "論文名稱": "Analytic Modeling for Current-Voltage Characteristics and Drain-Induced Barrier-Lowering (DIBL) Phenomenon of the InGaP/InGaAs/GaAs PDCFET",
+      "期刊名稱": "Journal of the Korean Physical Society (SCIE)",
+      "作者群": "Ching-Sung Lee, W.C. Hsu, W.L. Yang, Y.J. Chen, J.C. Huang, and H.H. Chen"
+    },
+    {
+      "論文名稱": "Gate-alloy-related kink effect for metamorphic high electron mobility transistors",
+      "期刊名稱": "Appl. Phys. Lett. (SCIE,EI)",
+      "作者群": "Y.J.Chen,W.C.Hsu,Ching-Sung Lee,T.B.Wang,C.H.Tseng,J.C.Huang,D.H.Huang and C.L.Wu"
+    },
+    {
+      "論文名稱": "Improved characteristics of metamorphic InAlAs/InGaAs high electron mobility transistor with symmetric graded InxGa1–xAs channel",
+      "期刊名稱": "Journal of Vacuum Science & Technology B (SCIE)",
+      "作者群": "Y.J. Li, W.C. Hsu,I.L Chen,Ching-Sung Lee,Y.J. Chen and I.Lo"
+    }
+  ],
+  "journal2": [],
+  "conference": [
+    {
+      "論文名稱": "Record-High BVDS P-Channel P++-GaN/P-GaN/GaN/AlN/Al0.3Ga0.7N MOS-HFETs with Drain Field-Plate Design",
+      "會議名稱": "2024 ECS PRIME International Conference",
+      "作者群": "C.S. Lee*, J.H. Ke, Y.X. Wu, Y.Y. Lin, Z.L. Liao, Y.X. Cai, Y.H. Yang, and W.C. Hsu"
+    },
+    {
+      "論文名稱": "Comparative Studies of In0.12Al0.76Ga0.12N/AlN/Al0.21Ga0.79N MOS-HFETs with Al2O3-Dielectric and Drain Field-Plate",
+      "會議名稱": "International Electron Devices and Materials Symposia (IEDMS)",
+      "作者群": "C.S. Lee*, C.H. Ke, W.C. Hsu, Y.S. Wu, Y.Y. Lin, Z.L. Liao, Y.X. Cai, and Y.H. Yang"
+    },
+    {
+      "論文名稱": "Normally-Off Al0.65Ga0.35N/Al0.3Ga0.7N/AlN/SiC MOS-HEMTs with USPD-Grown Al2O3 Gate Dielectric",
+      "會議名稱": "The 53rd IEEE Semiconductor Interface Specialists Conference (SISC)  (IEEE SISC 2022)",
+      "作者群": "C. S. Lee, C.H. Ke, W.C. Hsu and C.L. Li"
+    },
+    {
+      "論文名稱": "Comparative Studies of Wide-Gap AlGaN Channel MOS-HFETs with Composite Surface Passivation",
+      "會議名稱": "International Electron Devices and Materials Symposia (IEDMS)",
+      "作者群": "C. S. Lee, K. T. Lee, Y. Y. Lin, Y. S. Wu, Y. X. Li, J. S. Chen, J. X. Lin J. H. Ke, Z. Y. You and W. C. Hsu"
+    },
+    {
+      "論文名稱": "Enhancement-Mode Al0.65Ga0.35N/Al0.3Ga0.7N/AlN Metal-Oxide-Semiconductor Heterostructure Field-Effect Transistors",
+      "會議名稱": "International Electron Devices and Materials Symposia (IEDMS)",
+      "作者群": "C. S. Lee, C. L. LI, Y. X. Li, J. S. Chen, J. X. Lin, Y. Y. Lin, Y. S. Wu, J. H. Ke, Z. Y. You, and W. C. Hsu"
+    },
+    {
+      "論文名稱": "Investigations on Al0.75Ga0.25N/AlxGa1-xN/Al0.75Ga0.25N/AlN Widegap Channel MOS-HFETs",
+      "會議名稱": "International Electron Devices and Materials Symposia (IEDMS)",
+      "作者群": "C. S. Lee*, Y. T. Shen, J. H. Ke, Z. Z. Zheng, Y. X. Li, J. S. Chen,  Z. Y. You, and W. C. Hsu"
+    },
+    {
+      "論文名稱": "Investigations on AlGaN/GaN Metal-Oxide-Semiconductor Heterostructure Field-Effect Transistors",
+      "會議名稱": "International Electron Devices and Materials Symposia (IEDMS)",
+      "作者群": "C. S. Lee*, C. J. Lin, J. H. Ke , Z. Z. Zheng, Y. X. Li, J. S. Chen, Z. Y. You, and W. C. Hsu"
+    },
+    {
+      "論文名稱": "Al2O3-Dielectric AlGaN/AlN/SiC Widegap Channel MOS-HFETs",
+      "會議名稱": "International Electron Devices and Materials Symposia (IEDMS)",
+      "作者群": "C. S. Lee*, Y. J. Lin, J. H. Ke, Z. Z. Zheng, Y. X. Li, J. S. Chen,  Z. Y. You, and W. C. Hsu (榮獲佳作論文獎)"
+    },
+    {
+      "論文名稱": "AlGaN/AlN/SiC Metal-Oxide- Semiconductor Hetero-structure Field-Effect Transistors with Al2O3 Gate-Oxide and Step-Graded AlGaN Channel",
+      "會議名稱": "The 239th ECS Meeting with the 18th International Meeting on Chemical Sensors (IMCS)",
+      "作者群": "K. T. Lee, C. L. Li, Y. T. Shen, Y. P. Huang, W. C. Hsu, and C. S. Lee"
+    },
+    {
+      "論文名稱": "Al0.75Ga0.25N/AlxGa1-xN MOS-HFET With Wide-Gap Graded Channel",
+      "會議名稱": "2020 International Electron Devices and Materials Symposium",
+      "作者群": "K. T. Lee, C. L. Li, Y. T. Shen, Y. P. Huang, W. C. Hsu, and C. S. Lee*"
+    },
+    {
+      "論文名稱": "Normally-Off InAlN/GaN Fin- MOSHEMT with Fluorine Treatment",
+      "會議名稱": "2020 78TH Device Research Conference (DRC)",
+      "作者群": "Yi-Ping Huang , Ching-Sung Lee , and Wei-Chou Hsu"
+    },
+    {
+      "論文名稱": "Al2O3/TiO2-Passivated In0.17Al0.83N/AlN/GaN Γ-Gate MOS-HFETs",
+      "會議名稱": "The 9th Asia-Pacific Workshop on Widegap Semiconductors (APWS2019)",
+      "作者群": "Ching-Sune Lee*, Wei-Chou Hsu, Yun-Jung Lin, and Xue-Cheng Yao"
+    },
+    {
+      "論文名稱": "InAlN/AlN/GaN Γ-Gate MOS-HFET With Composite Al2O3/TiO2 Passivation Layers",
+      "會議名稱": "2019 International Electron Devices and Materials Symposium",
+      "作者群": "K. T. Lee, Y. T. Shen, Y. C. Lin, Y. P. Huang, W. C. Hsu, and C. S. Lee*"
+    },
+    {
+      "論文名稱": "Al2O3-Dielectric InAlN/AlN/GaN MOS-HFETs With Enhanced UV Detection",
+      "會議名稱": "2019 International Conference on Materials Sciences and Nanomaterials",
+      "作者群": "C. S. Lee*, W. C. Hsu, Y. P. Haung , and Y. C. Lin"
+    },
+    {
+      "論文名稱": "Investigation of AlGaN/GaN MOS-HEMT with In-Situ Doped Al2O3 by Using Ultrasonic Pyrolysis Deposition",
+      "會議名稱": "2019 International Conference on Materials Sciences and Nanomaterials",
+      "作者群": "W.C.Hsu, Y. P. Huang, and C. S. Lee"
+    },
+    {
+      "論文名稱": "Improved Device Performance of In0.18Al0.82N/AlN/GaN/Si MOS-HFET with Heat-Dissipating Metal Trenches",
+      "會議名稱": "2018 International Electron Devices and Materials Symposium",
+      "作者群": "Yen-Ting Shen, Yun-Chung Lin, Yu-Chang Chen, Hao-Cheng Yo, Han-Yin Liu, Wei-Chou Hsu,  and Ching-Sung Lee*"
+    },
+    {
+      "論文名稱": "Composite Al2O3/TiO2-Dielectric AlGaN/GaN MOS-HEMTs",
+      "會議名稱": "International Electron Devices and Materials Symposia (IEDMS)",
+      "作者群": "J.Y. Lin, X.C. Yao, C.G. Lin, Y.C. Lin, Y.T. Shen, H.Y. Liu, W.C. Hsu, and C.S. Lee*"
+    },
+    {
+      "論文名稱": "Gate Structure Engineering for Enhancement-mode AlGaN/GaN MOSHEMT",
+      "會議名稱": "75th Device Research Conference",
+      "作者群": "Han-Yin Liu*, Ching-Sung Lee, Chih-Wei Lin, Meng-Hsueh Chiang, and Wei-Chou Hsu"
+    },
+    {
+      "論文名稱": "AlGaN/GaN MOS-HEMTs with Composite TiO2/Al2O3 Gate Oxides by Using Ultrasonic Spray Pyrolysis Deposition Method",
+      "會議名稱": "International Symposium on Next-generation Electronics (ISNE 2017)",
+      "作者群": "C.S. Lee*, Y.C. Chen, S.T. Yang, H.Y. Liu, C.G. Lin, X.C. Yao, J.Y. Lin, B.J. Chinag, and W.C. Hsu"
+    },
+    {
+      "論文名稱": "Deposition of Anatase-, Rutile-, and Mixed-Phases TiO2 Films by Mist-CVD and Photodetector Applications",
+      "會議名稱": "2017 European Materials Research Society, Spring Meeting",
+      "作者群": "Han-Yin Liu, Ching-Sung Lee, Wei-Chou Hsu, Guan-Jyun Liu, Ruei-Chin Huang, Wei-Hsin Liu, Fu-Yuan Hou, and Guan-Cheng Tu"
+    },
+    {
+      "論文名稱": "Ti0.5Al0.5O-Dielectric AlGaN/GaN MOS-HEMTs by Using Non-Vacuum Ultrasonic Spray Pyrolysis Deposition",
+      "會議名稱": "European Materials Research Society (E-MRS) 2017 Spring Meeting",
+      "作者群": "C.S. Lee*, W.C. Hsu, H.Y. Liu, B.J. Chiang, Y.C. Chen, S.T. Yang, C.G. Lin, X.C. Yao, J.Y. Lin, Y.T. Shen, and Y.C. Lin"
+    },
+    {
+      "論文名稱": "A Green Material Synthesis for TiO2-based Avalanche Photodetectors Fabrication by Mist-Chemical Vapor Deposition",
+      "會議名稱": "2016 International Electron Devices and Materials Symposium",
+      "作者群": "Han-Yin Liu, Liu Wei-Hsin, Tu Guan-Cheng, Hou Fu-Yuan, Ching-Sung Lee, and Wei-Chou Hsu"
+    },
+    {
+      "論文名稱": "GaN/AlGaN/GaN MOS-HEMTs with MgO Gate Dielectric",
+      "會議名稱": "2016 International Electron Devices and Materials Symposium",
+      "作者群": "Ching-Sung Lee, Sheng-Ting Yang, Yu-Chang Chen, Jhe-You Lin, Xue-Cheng Yao, Chun-Gene Lin, Han-Yin Liu, and Wei-Chou Hsu"
+    },
+    {
+      "論文名稱": "Al2O3-Dielectric AlGaN/GaN Enhancement-Mode MOS-HEMTs by Using Ozone Water Oxidization Technique",
+      "會議名稱": "18th International Conference on Energy Science and Engineering, 2016",
+      "作者群": "Ching-Sung Lee,*, Wei-Chou Hsu, Han-Yin Liu, Hung-Hsi Huang, Si-Fu Chen,Yun-Jung Yang, Bo-Chun Chiang, Yu-Chuang Chen, and Shen-Tin Yang"
+    },
+    {
+      "論文名稱": "SiO2/Al2O3 Stacked Passivation Layer with Post-Deposition Annealing and Its Effects on AlGaN/GaN High-Electron-Mobility Transistors",
+      "會議名稱": "UK Semiconductors 2016",
+      "作者群": "Han-Yin Liu, Cheng-Hsuan Li, Ching-Sung Lee, and Wei-Chou Hsu"
+    },
+    {
+      "論文名稱": "Deposition of MgO by Ultrasonic Spray Pyrolysis Deposition and Its Application on MgO/AlGaN/GaN Metal-Insulator-Semiconductor Ultraviolet Photodetector",
+      "會議名稱": "UK Semiconductors 2016",
+      "作者群": "Han-Yin Liu, Ching-Sung Lee, Yun-Chung Yang, Wei-Hsun Lin, Ruei-Chin Huang, and Guan-Jyun Liu"
+    },
+    {
+      "論文名稱": "Al2O3/AlGaN/GaN Metal-Insulator-Semiconductor Ultraviolet Photodetector by H2O2 Oxidation",
+      "會議名稱": "International Electron Devices and Materials Symposium 2015 (IEDMS 2015)",
+      "作者群": "Han-Yin Liu*, Wei-Chou Hsu, Ching-Sung Lee, Ruei-Chin Huang, and Guan-Jyun Liu"
+    },
+    {
+      "論文名稱": "Enhancement-Mode Operation of AlGaN/GaN MOS-HFETs by Using Ozone Water Oxidization Treatment",
+      "會議名稱": "International Electron Devices and Materials Symposia (IEDMS)",
+      "作者群": "S.F. Chen, Y.C. Yang, B.C. Chiang, H.S. Huang, T.T. Wu, H.Y. Liu, W.C. Hsu, and C.S. Lee*"
+    },
+    {
+      "論文名稱": "AlGaN/AlN/GaN MOS-HEMTs with Al2O3 Gate Dielectric Formed by Using Ozone Water Oxidation Technique",
+      "會議名稱": "The 11th IEEE International Conference on Power Electronics and Drive Systems (IEEE PEDS 2015)",
+      "作者群": "C.S. Lee*,H.Y. Liu,W.C. Hsu,T.T. Wu,H.S. Huang,S.F. Chen,Y.C. Yang,B.C. Chiang, and H.C. Chang"
+    },
+    {
+      "論文名稱": "Temperature-Dependent Electrical Performance of AlGaN/GaN MOS-HEMT with Ultrasonic Spray Pyrolysis Deposited Al2O3",
+      "會議名稱": "The 11th IEEE International Conference on Power Electronics and Drive Systems",
+      "作者群": "Han-Yin Liu*, Wei-Chou Hsu*, Bo-Yi Chou, Ching-Sung Lee, Wen-Ching Sun, Sung-Yen Wei, and Sheng-Min Yu"
+    },
+    {
+      "論文名稱": "AlGaN/GaN MOS-HEMTs with TiO2 Gate Dielectric by Using Non-Vacuum Ultrasonic Spray Pyrolysis Deposition",
+      "會議名稱": "The 11th IEEE International Conference on Power Electronics and Drive Systems",
+      "作者群": "H. Y. Liu*, C. S. Lee*, W. C. Hsu, T. T. Wu, H. S. Huang, S. F. Chen, Y. C. Yang,  B. C. Chiang, and H. C. Chang"
+    },
+    {
+      "論文名稱": "An ECG Front-End Circuit with Single Power Supply",
+      "會議名稱": "IEEE International Conference on Consumer Electronics – Taiwan, 2015(ICCE-TW 2015)",
+      "作者群": "Hsiu-Cheng Lee, Jen-Bo Wang, Kai-Hsiang Juang, Kuo-Ching Hsiao, Hsung-Bie Chang, Yeng-Ting Lu, Ching-Sung Lee, Ming-Hsueh Hsiau, Qi-Ming Wan, Vu Duc Thai, Ching-Hua Cheng, Don-Gey Liu*"
+    },
+    {
+      "論文名稱": "Simple White Light-Emitting Diode Utilizing Separated Color Conversion Layer",
+      "會議名稱": "International Electron Devices and Materials Symposia (IEDMS)",
+      "作者群": "Ying-Nan Lai, Wen-Feng Lai, Wei-Chou Hsu, and Ching-Shung Lee"
+    },
+    {
+      "論文名稱": "AlGaN/GaN MOS-HEMTs with Al2O3/La2O3 Stacked Dielectrics",
+      "會議名稱": "International Electron Devices and Materials Symposia (IEDMS)",
+      "作者群": "T.T. Wu, H.S. Huang, S.F. Chen, Y.C. Yang, B.C. Chiang, H.Y. Liu,B.Y. Chou, W.C. Hsu, and C.S. Lee*"
+    },
+    {
+      "論文名稱": "InAlAs/InGaAs MOS-MHEMTs with Different Tensile/Compressive-Strained Channel Structures",
+      "會議名稱": "International Electron Devices and Materials Symposia (IEDMS)",
+      "作者群": "H.S. Huang, J.C. Yeh, T.T. Wu, S.F. Chen, Y.C. Yang, B.C. Chiang, H.Y. Liu, B.Y. Chou, W.C. Hsu, and C.S. Lee*"
+    },
+    {
+      "論文名稱": "Oxide-Passivated AlGaN/GaN Schottky-Barrier Ultraviolet Photodetector by H2O2 Oxidation Technique",
+      "會議名稱": "International Electron Devices and Materials Symposia (IEDMS)",
+      "作者群": "Han-Yin Liu, Yi-Hsuan Wang, Wei-Chou Hsu, Bo-Yi Chou, En-Ping Yao, Ching-Sung Lee,Jia-Heng Wang, Cheng-Hsuan Li, Shen-Hui Hong, and Yi-Ying Li"
+    },
+    {
+      "論文名稱": "High-Temperature Characteristics of AlGaN/GaN MOS-HEMT with Sputtered La2O3 Gate Dielectric",
+      "會議名稱": "Symposium on Nano Device Technology (SNDT)",
+      "作者群": "H. C. Zhang, P. L. Wang, S. T. Yang, Y. C. Chen, K. C. Chien, Y. J. Lo, Y. W. Tsui, C. Y. Yang, Y. S. Ting, C. Y. Chen, W. H. Chung, C. L. Yang, C. C. Yeh, H. S. Huang, T. T. Wu, and C. S. Lee"
+    },
+    {
+      "論文名稱": "Electrical and Reliability Performances of Stacked HfO2/Al2O3 MOS-HEMTs",
+      "會議名稱": "2014 International Conference on Information Science, Electronics and Electrical Engineering (ISEEE 2014)",
+      "作者群": "B.Y. Chou, H.Y. Liu, W.C. Hsu, C.S. Lee, Y.S. Wu, and E.P. Yao"
+    },
+    {
+      "論文名稱": "The Effect of Post-Oxide Annealing on H2O2-Grown Al2O3, AlGaN/GaN Polarization Charges and MOS-HEMT Performances",
+      "會議名稱": "2014 International Conference on Information Science, Electronics and Electrical Engineering (ISEEE 2014)",
+      "作者群": "H.Y. Liu, W.C. Hsu, C.S. Lee, B.Y. Chou, W.C. Ou, Y.H. Wang, and W.F. Chen"
+    },
+    {
+      "論文名稱": "Composite HfO2/Al2O3-Dielectric MOS-HEMTs by Using RF Sputtering/Ozone Water Oxidation",
+      "會議名稱": "2014 International Conference on Information Science, Electronics and Electrical Engineering (ISEEE 2014)",
+      "作者群": "C.S. Lee, H.S. Huang, W.H. Shung, T.T. Wu, C.L. Yang, C.C. Yeh, Y.H. Liao,B.Y. Chou, H.Y. Liu, and W.C. Hsu"
+    },
+    {
+      "論文名稱": "High-Temperature Characteristics of AlGaN/AlN/GaN MOS-HEMT by Using Ozone Water Oxidation Technique",
+      "會議名稱": " International Electron Devices and Materials Symposia (IEDMS)",
+      "作者群": "W.H. Chung, C.L. Yang, C.C. Yeh, B.Y. Chou, H.Y. Liu, H.S. Huang1, T.T. Wu1, W.C. Hsu, and C.S. Lee"
+    },
+    {
+      "論文名稱": "Improved Thermal Stability and Thermal Model Analysis of AlGaN/GaN HEMT and MOS-HEMT Fabricated by Hydrogen Peroxide Oxidation Technique",
+      "會議名稱": "International Electron Devices and Materials Symposia (IEDMS)",
+      "作者群": "H.Y. Liu, W.C. Hsu, B.Y. Chou, C.S. Lee, Y.B. Liao, C.S. Ho, and Y.H. Wang"
+    },
+    {
+      "論文名稱": "Fabrication of Si3N4-Passivated T-Gate AlGaN/GaN HEMTs with Gate-Length Reduction by a Two-Step Gate Photolithography Process",
+      "會議名稱": "IEEE Nanotechnology Materials and Devices Conference",
+      "作者群": "Bo-Yi Chou, Wei-Chou Hsu, Han-Yin Liu, Ching-Sung Lee, Wen-Chia Ou, and Yu-Sheng Wu"
+    },
+    {
+      "論文名稱": "A Device Performance Study of Stacked Gate Dielectrics AlGaN/GaN MOS-HEMTs by Mixed Oxide Thin Film Growth Techniques",
+      "會議名稱": "2013 International Conference on Soilid State Devices and Materials (SSDM)",
+      "作者群": "Bo-Yi Chou, Yu-Sheng Wu, E-Ling Huang, Wei-Fan Chen, Han-Yin Liu, Wei-Chou Hsu, Ching-Sung Lee, Wen-Chia Ou, and Chiu-Sheng Ho"
+    },
+    {
+      "論文名稱": "A Cost-Effective Surface Passivation Technique on GaN-based Heterostructure Field-Effect Transistors and the Enhancement of RF Power Performance",
+      "會議名稱": "International Conference on Advanced Complex Inorganic Nanomaterials (ACIN)",
+      "作者群": "Han-Yin Liu, Wei-Chou Hsu, Bo-Yi Chou, Ching-Sung Lee, Cheng-Fu Yang, Chiu-Sheng Ho, E-Ling Huang, and Wen-Chia Ou"
+    },
+    {
+      "論文名稱": "The DC Characteristics of MOS-HEMTs with Al2O3/HfO2 Stacked Dielectrics by Using H2O2 Oxidation and Sputtering Techniques",
+      "會議名稱": "International Conference on Advanced Complex Inorganic Nanomaterials (ACIN)",
+      "作者群": "Bo-Yi Chou, Wei-Chou Hsu, Han-Yin Liu, Chiu-Sheng Ho, Ching-Sung Lee, and Cheng-Fu Yang"
+    },
+    {
+      "論文名稱": "AlGaN/AlN/GaN MOS-HEMTs on Si Substrate by Using Ozone Water Oxidation Technique",
+      "會議名稱": "European Materials Research Society (E-MRS) 2013 Spring Meeting",
+      "作者群": "C.S. Lee*, W.C. Hsu, L.Y. Tseng, B.Y. Chou, H.Y. Liu, F.C. Liao, W.F. Lai, J.C. Yeh, and C.L. Yang, and W.H. Chung"
+    },
+    {
+      "論文名稱": "Parametric Extraction and High-Frequency Device Model  Build-Up for pHEMTs with Different Gate Structures",
+      "會議名稱": "Symposium on Nano Device Technology (SNDT)",
+      "作者群": "T.C. Wu, Y.J. Cai, Y. H. Liao, and C.S. Lee*"
+    },
+    {
+      "論文名稱": "Enhanced AlGaN/GaN MOS-HEMT Performance Using Aluminum Oxide for Surface Passivation and Gate Dielectric",
+      "會議名稱": "International Electron Devices and Materials Symposia (IEDMS)",
+      "作者群": "W.C. Hsu, H.Y. Liu, W.C. Ou, B.Y. Chou, C.S. Lee, and C.S. Ho"
+    },
+    {
+      "論文名稱": "AlGaAs/InGaAs pHEMTs Passivated by Using Ozone Water Oxidation",
+      "會議名稱": "International Electron Devices and Materials Symposia (IEDMS)",
+      "作者群": "F.C. Liao,  W.F. Lai, J.T. Hung, C.S. Ho, B.Y. Chou, H.Y. Liu, C.L. Yang, C.C. Yeh, W.C. Hsu, and C.S. Lee*"
+    },
+    {
+      "論文名稱": "Influence of Absorption Property by Doping/inserting C545T in Polymer Solar Cell",
+      "會議名稱": "International Conference on Solid State Devices and Materials (SSDM)",
+      "作者群": "C. S. Ho, W. C. Hsu, Y. N. Lai, E L. Huang, E. P. Yao, W. M. Chen, C. S. Lee, and C. W. Wang"
+    },
+    {
+      "論文名稱": "Gamma-Gate Al0.24Ga0.76As/In0.15Ga0.85As MOS-HEMTs by Using Ozone Water Oxidation Technique",
+      "會議名稱": "European Materials Research Society (E-MRS) 2012 Spring Meeting",
+      "作者群": "C.S. Lee*, W.C. Hsu, S.J. Wu, H.S. Hsu, Y.H. Liao, L.Y. Tseng, C.S. Ho, B.Y. Chou, H.Y. Liu, Y.N. Lai, EL. Huang, Y.B. Liao, E.P. Yao, F.C. Liao, and W.F. Lai"
+    },
+    {
+      "論文名稱": "Electrical and Photosensing Characteristics of Al0.2Ga0.8As/In0.2Ga0.8As pHEMTs with A Transparent AZO Gate",
+      "會議名稱": "Euporean Materials Research Society (E-MRS 2012)",
+      "作者群": "C.S. Lee*, W.C. Hsu, H.S. Hsu, Y.H. Liao, L.Y. Tseng, C.S. Ho, B.Y. Chou, H.Y. Liu, Y.N. Lai, EL. Huang, Y.B. Liao, E.P. Yao, F.C. Liao, and W.F. Lai"
+    },
+    {
+      "論文名稱": "A Novel Gate Dimension Shrinking Method By Nitric Acid Selective Etching in AlGaN/GaN High Electron Mobility Transistor",
+      "會議名稱": "Euporean Materials Research Society (E-MRS 2012)",
+      "作者群": "H.Y. Liu, K.H. Lee, W.C. Hsu, B.Y. Chou, EL. Huang, Ching-Sung Lee, C.S. Ho, E.P. Yao, and C.M. Tsai"
+    },
+    {
+      "論文名稱": "Investigation to AlGaN/GaN High Electron Mobility Transistor Oxide-Passivated by Using Hydrogen Peroxide",
+      "會議名稱": "Euporean Materials Research Society (E-MRS 2012)",
+      "作者群": "H.Y. Liu, W.C. Hsu, B.Y. Chou, EL. Huang, Ching-Sung Lee, C.S. Ho, and E.P. Yao"
+    },
+    {
+      "論文名稱": "AlGaAs/InGaAs MOS-pHEMTs with Different Shifted Γ-Gate Structures",
+      "會議名稱": "International Electron Devices and Materials Symposia (IEDMS)",
+      "作者群": "M.Y. Lin, L.Y. Tseng, Y.H. Liao, C.S. Ho, B.Y. Chou, H.Y. Liu, Y.N. Lai, EL. Huang, Y.B. Liao, E.P. Yao, F.C. Liao, W.F. Lai, W.C. Hsu, S.J. Wu, and Ching-Sung Lee*"
+    },
+    {
+      "論文名稱": "Gate Length Shrinking by Hydrochloric Acid Selective Etching in Au/ITO Stack Gate High Electron Mobility Transistors",
+      "會議名稱": "International Electron Devices and Materials Symposia (IEDMS)",
+      "作者群": "H.Y. Liu, W.C. Hsu, Ching-Sung Lee, C.S. Ho, C.C. Hsu, J.K. Sheu, and B.Y. Chou"
+    },
+    {
+      "論文名稱": "The Enhancement in Light-absorption for Polymer Solar Cell by adding Fluorescent Dopant",
+      "會議名稱": "International Electron Devices and Materials Symposia (IEDMS)",
+      "作者群": "C.S. Ho, Y.N. Lai, EL. Huang, E.P. Yao, W.M. Chen, B.Y. Chou, H.Y. Liu, Ching-Sung Lee, C.W. Wang, and W.C. Hsu"
+    },
+    {
+      "論文名稱": "Study of Improved Efficiency by Anode Oxidation Technique in High Color Purity of Top-Emission White Organic Light Emitting Diode",
+      "會議名稱": "E-MRS 2011 SPRING MEETING IUMRS ICAM 2011 & E-MRS/MRS BILATERAL CONFERENCE on ENERGY",
+      "作者群": "Y. Chang, W.C. Hsu, C.S. Ho, E.P. Yao, E.L. Huang,Ching-Sung Lee, and S.J. Wu"
+    },
+    {
+      "論文名稱": "The Traps Study of Organic Light-Emitting Diode with Doped Hole Transporting Layer",
+      "會議名稱": "E-MRS 2011 SPRING MEETING IUMRS ICAM 2011 & E-MRS/MRS BILATERAL CONFERENCE on ENERGY",
+      "作者群": "E.P. Yao, W.C. Hsu, C.S. Ho, Y. Chang, E.L. Huang,Ching-Sung Lee, S.J. Wu, and Y.S. Wang"
+    },
+    {
+      "論文名稱": "Temperature-Dependent Investigations of Novel Γ-Gate Al0.27Ga0.73N/GaN HEMTs with Different SiN Passivation Thicknesses",
+      "會議名稱": "E-MRS 2011 SPRING MEETING IUMRS ICAM 2011 & E-MRS/MRS BILATERAL CONFERENCE on ENERGY",
+      "作者群": "Ching-Sung Lee*, W.C. Hsu, W.L. Yang, D.G. Liu, B.Y. Chou, C.S. Ho, Y.N. Lai, M.Y. Lin, J.T. Hung, Y.H. Liao, and L.Y. Tseng"
+    },
+    {
+      "論文名稱": "Dual-Composition-Graded InP/InAlAsSb/InxGa1-xAs1-ySby/InAlAsSb MHEMTs with Different Schottky Gate Structures",
+      "會議名稱": "E-MRS 2011 SPRING MEETING IUMRS ICAM 2011 & E-MRS/MRS BILATERAL CONFERENCE on ENERGY",
+      "作者群": "Ching-Sung Lee*, W.C. Hsu, W.L. Yang, D.G. Liu, B.Y. Chou, C.S. Ho, Y.N. Lai, M.Y. Lin, J.T. Hung, Y.H. Liao, and L.Y. Tseng"
+    },
+    {
+      "論文名稱": "High Power Characteristics of SiN-Passivated AlGaN/GaN High-Electron-Mobility Transistors",
+      "會議名稱": "Symposium on Nano Device Technology (SNDT)",
+      "作者群": "W.C. Ou, M.Y. Lin, and Ching-Sung Lee*"
+    },
+    {
+      "論文名稱": "An ECG Front-End Subsystem for Portable Physiological Monitoring Applications",
+      "會議名稱": "2011 International Conference on Electric Information and Control Engineering (ICEICE)",
+      "作者群": "Hsiu-Cheng Lee, Don-Gey Liu,  Ching-Sung Lee, Yu-Ming Shiau, Miin-Shyiue Shiau, Kuang-Hung Chen, and Heng-Shou Hsu"
+    },
+    {
+      "論文名稱": "InAlAsSb/InGaAsSb Metamorphic HEMTs with a Symmetrically-Graded Channel",
+      "會議名稱": "International Electron Devices and Materials Symposia (IEDMS)",
+      "作者群": "Ching-Sung Lee*, W. T. Chien, M. Y. Lin, W. C. Hsu, P. C. Yang, C. S. Ho, B. Y. Chou, Y. N. Lai, J. J. Hung, Y. H. Liao, and L. Y. Tseng"
+    },
+    {
+      "論文名稱": "The Traps Study of Doped Hole Transporting Layer in Organic Light-Emitting Diode",
+      "會議名稱": "International Electron Devices and Materials Symposia (IEDMS)",
+      "作者群": "C. S. Ho, W. C. Hsu, Ching-Sung Lee, C. W. Wang, Y. Y. Tsai, Y. N. Lai, and W. F. Lai"
+    },
+    {
+      "論文名稱": "Double δ-Doped AlGaAs/InGaAs MOS-pHEMTs by Using Ozone Treatment",
+      "會議名稱": "IEEE International Symposium on Next-Generation Electronics (ISNE)",
+      "作者群": "Ching-Sung Lee*, W. T. Chien, J. J. Hung, W. C. Hsu, C. S. Ho, B. Y. Chou, Y. N. Lai, M. Y. Lin, Y. H. Liao, and L. Y. Tseng"
+    },
+    {
+      "論文名稱": "Annealing Effects on Polymer Solar Cells with High Polythiophene-fullerene Concentrations",
+      "會議名稱": "2010 International Conference on Solid State Devices and Materials (SSDM)",
+      "作者群": "C. S. Ho, E. L. Huang, W. C. Hsu, Ching-Sung Lee, Y. N. Lai, and W. H. Lai"
+    },
+    {
+      "論文名稱": "Gate Length Shirking by H2O2 Treatment in AlGaN/GaN HEMTs",
+      "會議名稱": "International Electron Devices and Materials Symposia (IEDMS)",
+      "作者群": "W. C. Hsu, B. Y. Chou, Ching-Sung Lee, C. S. Ho, Y. N. Lai, Y. C. Liu, H. Y. Liu, J. T. Hung, and M. Y. Lin"
+    },
+    {
+      "論文名稱": "Efficiency Improvement of Organic Solar Cell with Metal Anode by Using Wet Oxidation",
+      "會議名稱": "2010 International Symposium on Photonics and Optoelectronics (SOPO)",
+      "作者群": "C.S. Ho, W.C. Hsu, K.H. Hsiao, Ching-Sung Lee, and C.Y. Lin"
+    },
+    {
+      "論文名稱": "Optical Sensing Characteristics in a Transparent Al-Doped Zinc Oxide-Gated Al0.2Ga0.8As/In0.2Ga0.8As High Electron Mobility Transistor",
+      "會議名稱": "2010 International Symposium on Photonics and Optoelectronics (SOPO)",
+      "作者群": "Ching-Sung Lee, B.Y. Chou, W.C. Hsu, S.Y. Chu, D.Y. Lin, C.S. Ho, Y.L. Lai, S.H. Yang, and W.T. Chien"
+    },
+    {
+      "論文名稱": "High Efficiency Top-Emission Organic Light-Emitting Diode",
+      "會議名稱": "2009 International Electron Devices and Materials Symposia (IEDMS)",
+      "作者群": "Y.N. Lai, W.C. Hsu, Ching-Sung Lee, C.W. Wang, T.Y. Lu,C.S. Ho, and W.F. Lai"
+    },
+    {
+      "論文名稱": "High Efficiency Organic Solar Cell with Metal Anode by O2 Plasma Modification",
+      "會議名稱": "2009 International Electron Devices and Materials Symposia (IEDMS)",
+      "作者群": "C.S. Ho, W.C. Hsu, Ching-Sung Lee, K.H. Hsiao, Y.N. Lai, and W.H. Lai"
+    },
+    {
+      "論文名稱": "Investigations on AlGaN/GaN High Electron Mobility Transistors",
+      "會議名稱": "2009 International Electron Devices and Materials Symposia (IEDMS)",
+      "作者群": "A.Y. Kao, Ching-Sung Lee, W.C. Hsu, B.Y. Chou, C.S. He, Y.N. Lai, P.C. Yang, S.H. Yang, and W.T. Chien"
+    },
+    {
+      "論文名稱": "High Efficiency Top-Emission Organic Light-Emitting Diodes",
+      "會議名稱": "2009 International Conference on Soilid State Devices and Materials (SSDM)",
+      "作者群": "Y.N. Lai, W.C. Hsu, Ching-Sung Lee, C.W. Wang, T.Y. Lu, C.S. Ho, and W.F. Lai"
+    },
+    {
+      "論文名稱": "Single Donor-Acceptor Heterojunction Organic Photovoltaic Cell with an AgO-Based Anode",
+      "會議名稱": "2009 International Conference on Soilid State Devices and Materials (SSDM)",
+      "作者群": "C.S. Ho, W.C. Hsu, Ching-Sung Lee, K.H. Hsiao, and W.H. Lai"
+    },
+    {
+      "論文名稱": "Transparent AZO-Gated Double δ-Doped AlGaAs/InGaAs HEMTs",
+      "會議名稱": "2009 International Conference on Soilid State Devices and Materials (SSDM)",
+      "作者群": "B.Y. Chou, Ching-Sung Lee, W.C. Hsu, S.Y. Chu, Y.N. Lai, C.S. Ho, Z.L. Tseng, and M.F. Shih"
+    },
+    {
+      "論文名稱": "Improved Characteristics of InAlAs/InGaAs MOS-MHEMTs by Using Ozone Water Oxidation Method",
+      "會議名稱": "2009 International Conference on Soilid State Devices and Materials (SSDM)",
+      "作者群": "A.Y. Kao, C.S. Ho, W.C. Hsu, Y.N. Lai, and Ching-Sung Lee"
+    },
+    {
+      "論文名稱": "Investigations on In0.45Al0.55As/InxGa1-xAs MHEMTs with Double Gate-Recess and SiNx Passivation",
+      "會議名稱": "Symposium on Nano Device Technology (SNDT)",
+      "作者群": "S.H. Yang, W.T. Chien, M.Y. Lin, C.S. Ho, W.C. Hsu, C.S. Lee"
+    },
+    {
+      "論文名稱": "Improved (NH4)2Sx-Passivated In0.2Ga0.8AsSb/GaAs Heterostructure Field-Effect Transistor",
+      "會議名稱": "International Electron Devices and Materials Symposia (IEDMS)",
+      "作者群": "C.S. Ho, Ching-Sung Lee, W.C. Hsu, Y.N. Lai, B.I. Chou, A.Y. Kao1, and Y.C. Liu"
+    },
+    {
+      "論文名稱": "Enhanced Short-Circuit Current Density of Organic Solar Cells with the Donor-Acceptor Heterojunction",
+      "會議名稱": "International Electron Devices and Materials Symposia (IEDMS)",
+      "作者群": "W.C. Hsu, Y.N. Lai, Ching-Sung Lee, C.S. Ho, K.S. Siao, W.F. Lai, and W.H. Lai"
+    },
+    {
+      "論文名稱": "Improved White Organic Light-Emitting Devices with Dual-Emission-Layer Design",
+      "會議名稱": "The 9th International Conference on Solid-State and Integrated-Circuit Technology (ICSICT)",
+      "作者群": "W.C. Hsu, Y.N. Lai, Ching-Sung Lee, S.W. Yeh, W.F. Lai, and W.H. Lai"
+    },
+    {
+      "論文名稱": "Investigations on In0.2Ga0.8AsSb/GaAs High Electron Mobility Transistors with Gate Passivations",
+      "會議名稱": "The 9th International Conference on Solid-State and Integrated-Circuit Technology (ICSICT)",
+      "作者群": "Ching-Sung Lee, Ciou-Sheng He, Wei-Chou Hsu, Ke-Hua Su, Ping-Chang Yang, Bo-I Chou, and An-Yung Kao"
+    },
+    {
+      "論文名稱": "Highly-Stable Thermal Characteristics of A Dilute Al0.3Ga0.7As/In0.3Ga0.7As0.99N0.01/GaAs HFET",
+      "會議名稱": "International Conference on Functional Materials and Devices (ICFMD), 2008",
+      "作者群": "Ching-Sung Lee, W.C. Hsu, K.H. Su, S.J. Yu, A.Y. Kao, B.I. Chou"
+    },
+    {
+      "論文名稱": "High-Linearity X-Band MMIC Amplifiers by Using In0.425Al0.575As/InGaAs MHEMTs",
+      "會議名稱": "Symposium on Nano Device Technology (SNDT)",
+      "作者群": "A.Y. Kao, B.I. Chou, S.J. Yu, W.C. Hsu, and Ching-Sung Lee"
+    },
+    {
+      "論文名稱": "Investigations of δ-Doped InxAl1-xAs/InyGa1-yAs MHEMTs Characteristics with Different Channel Compositions",
+      "會議名稱": "IEEE International Conference on Electron Devices and Solid-State Circuits (EDSSC)",
+      "作者群": "C.J. Chian, C.S. He, K.H. Su, S.J. Yu, B.I. Chou, A.Y. Kao, W.C. Hsu, and Ching-Sung Lee"
+    },
+    {
+      "論文名稱": "Improved Parameter Extraction Method for HEMT Models by Using Generic Algorithms",
+      "會議名稱": "IEEE International Conference on Electron Devices and Solid-State Circuits (EDSSC)",
+      "作者群": "C.S. He, W.Y. Yang, M.B. Cheng, K.H. Su, S.J. Yu, W.C. Hsu, and Ching-Sung Lee"
+    },
+    {
+      "論文名稱": "Comparative Studies on Double δ-Doped Al0.3Ga0.7As/InxGa1-xAs/GaAs Symmetrically-Graded Doped-Channel Field-Effect Transistors",
+      "會議名稱": "International Electron Devices and Materials Symposia (IEDMS)",
+      "作者群": "C.H. Chen, B.R. Chu, C.S. He, K.H. Su, S.J. Yu, B.I. Chou, A.Y. Kao,W.C. Hsu, and Ching-Sung Lee"
+    },
+    {
+      "論文名稱": "High-PAE In0.45Al0.55As/InxGa1-xAs Metamorphic High Electron Mobility Transistor with a Passivated Ni/Au Gate",
+      "會議名稱": "International Electron Devices and Materials Symposia (IEDMS)",
+      "作者群": "C.H. Liao, C.S. He, K.H. Su, S.J. Yu, B.I. Chou, A.Y. Kao, W.C. Hsu, and Ching-Sung Lee"
+    },
+    {
+      "論文名稱": "Improved Dilute Antimony Channel In0.8Ga0.8AsSb/GaAs High Electron Mobility Transistor",
+      "會議名稱": "International Electron Devices and Materials Symposia (IEDMS)",
+      "作者群": "K.H. Su, W.C. Hsu, Ching-Sung Lee, T.Y. Wu, Y.H. Wu, L. Chang, R.S. Hsiao, J.F. Chen and T.W. Chi"
+    },
+    {
+      "論文名稱": "Power Performance of InAlAs/InGaAs MHEMT with Different Drain Currents and Drain Voltages",
+      "會議名稱": "International Electron Devices and Materials Symposia (IEDMS)",
+      "作者群": "J.C. Huang, W.C. Hsu, Ching-Sung Lee, D.H. Huang and Y.C. Yang"
+    },
+    {
+      "論文名稱": "Symmetrically-Graded InAlAs/InxGa1-xAs/GaAs MHEMT with High-Temperature Stability ---Received \"Best Paper Award\"",
+      "會議名稱": "International Electron Devices and Materials Symposia (IEDMS)",
+      "作者群": "Ching-Sung Lee, W.C. Hsu, K.H. Su, J.C. Huang, C.C. Jien, and C.H. Liao"
+    },
+    {
+      "論文名稱": "High-Temperature Characteristics of A Symmetrically-Graded InAlAs/InxGa1-xAs/GaAs MHEMT",
+      "會議名稱": "International Conference on Solid-State and Integrated-Circuit Technology (ICSICT)",
+      "作者群": "Ching-Sung Lee, W.C. Hsu, K.H. Su, J.C. Huang, and C.H. Liao"
+    },
+    {
+      "論文名稱": "Highly-Stable Thermal Characteristics of a High Electron-Mobility Transistor with a Novel In0.3Ga0.7As0.99N0.01(Sb) Dilute Channel",
+      "會議名稱": "International Conference on Solid State Devices and Materials (SSDM)",
+      "作者群": "K. H. Su, W. C. Hsu, Ching-Sung Lee, P. J. Hu, R. S. Hsiao, J. F. Chen, and T. W. Chi"
+    },
+    {
+      "論文名稱": "Improved Symmetric Doped-Channel Heterostructure Field-Effect Transistor",
+      "會議名稱": "International Symposium on the Physics of Semiconductors and Applications (ISPSA)",
+      "作者群": "K. H. Su, W. C. Hsu, Y. S. Lin, Ching-Sung Lee, P. J. Hu, Y. J. Chen, and C. L. Wu"
+    },
+    {
+      "論文名稱": "Temperature-Dependent Characteristics of δ-Doped InAlAs/InxGa1-xAs/InP HEMTs with Different Channel Structures",
+      "會議名稱": "International Symposium on the Physics of Semiconductors and Applications (ISPSA)",
+      "作者群": "Ching-Sung Lee, J. C. Huang, W. C. Hsu, D. H. Huang, and M. F. Huang"
+    },
+    {
+      "論文名稱": "Characteristics of δ-Doped InAlAs/InGaAs/InP High Electron Mobility Transistors with A Linearly-Graded Channel",
+      "會議名稱": "International Conference on Processing & Manufacturing of Advanced Materials",
+      "作者群": "J.C. Huang, W.C. Hsu, Ching Sung Lee, D.H. Huang and M.F. Huang"
+    },
+    {
+      "論文名稱": "Ni/Au-Gate InAlAs/InGaAs/InAlGaAs/GaAs MHEMTs",
+      "會議名稱": "Symposium on Nano Device Technology (SNDT)",
+      "作者群": "Ching-Sung Lee, W.C. Hsu, K.H. Su, J.C. Huang, D.H. Huang, C.H. Chen and Y.J. Chen"
+    },
+    {
+      "論文名稱": "High-Temperature Performances in Al0.22Ga0.78As/In0.22Ga0.78As Double Delta-doped HEMT with Al0.2Ga0.8As/GaAs Superlattice",
+      "會議名稱": "Electron Devices and Materials Symposia (EDMS)",
+      "作者群": "J.C. Huang, W.C. Hsu, Ching-Sung Lee, D.H. Huang and W.C. Chang"
+    },
+    {
+      "論文名稱": "Investigations on δ-Doped In0.52Al0.48As/InxGa1-xAs/InP HEMTs with Different Channel Structures",
+      "會議名稱": "Electron Devices and Materials Symposia (EDMS)",
+      "作者群": "Ching-Sung Lee, W.C. Hsu, J.C. Huang, H.H. Chen, Y.J. Chen, D.H. Huang, C.H. Chen, and W.Y. Yang"
+    },
+    {
+      "論文名稱": "Double-Transconductance-Plateau Characteristics in InGaAs/GaAs Real-Space Transfer High Electron Mobility Transistor",
+      "會議名稱": "International Conference on Solid State Devices and Materials (SSDM)",
+      "作者群": "Ching-Sung Lee, Wei-Chou Hsu, Yeong-Jia Chen, Jun-Chin Huang and Dung-Hai Huang"
+    },
+    {
+      "論文名稱": "Novel In0.425Al0.575As/InxGa1-xAs Metamorphic δ-HEMT's on GaAs Substrate with Various Channel Designs",
+      "會議名稱": "International Conference on Solid State Devices and Materials (SSDM)",
+      "作者群": "Wei-Chou Hsu, Ching-Sung Lee, Yeong-Jia Chen, Jun-Chin Huang, and Chang-Luen Wu"
+    },
+    {
+      "論文名稱": "A Delta-Doped In0.425Al0.575As/In0.65Ga0.35As Metamorphic HEMT with High-Temperature Thermal Stability",
+      "會議名稱": "2004 International Electron Devices and Materials Symposia (IEDMS)",
+      "作者群": "Y.J.Chen,W.C.Hsu,C.S.Lee,J.C.Huang,C.L.Wu,H.H.Chen,C.H.Chen,and W.Y.Yang"
+    },
+    {
+      "論文名稱": "Gate-Metal-Related Kink Effect for Metamorphic High-Electron-Mobility Transistors (MHEMTs)",
+      "會議名稱": "International Electron Devices and Materials Symposia (IEDMS)",
+      "作者群": "Y.J. Chen, W.C. Hsu, T.B. Wang, C.H. Tseng, C.S. Lee, and H.H. Chen"
+    },
+    {
+      "論文名稱": "Analytic Modeling for Current-Voltage Characteristics and Drain-Induced Barrier-Lowering (DIBL) Phenomenon of the InGaP/InGaAs/GaAs PDCFET",
+      "會議名稱": "The 12th Seoul International Symposium on the Physics of Semiconductors and Applications (ISPSA 2004)",
+      "作者群": "C.S. Lee, W.C. Hsu, Y.J. Chen and J.C. Huang"
+    },
+    {
+      "論文名稱": "Off-State Breakdown Modeling for High Schottky Barrier Height Delta-HEMT",
+      "會議名稱": "Electron Devices and Materials Symposia (EDMS)",
+      "作者群": "C. S. Lee, W. C. Hsu, and J. C. Huang"
+    },
+    {
+      "論文名稱": "Bias-Tunable Multiple-Gm-Plateau Characteristics of an InGaAs/GaAs δ-HEMT",
+      "會議名稱": "Symposium on Nano Device Technology (SNDT)",
+      "作者群": "C. S. Lee, W. C. Hsu, and Y. C. Chen"
+    },
+    {
+      "論文名稱": "Analytic Modeling for Drain-Induced Barrier-Lowering (DIBL) Phenomenon of the InGaP/InGaAs/GaAs Pseudomorphic Doped-Channel Field-Effect Transistor",
+      "會議名稱": "Symposium on Nano Device Technology (SNDT)",
+      "作者群": "C. S. Lee, W. C. Hsu, and J. C. Huang"
+    },
+    {
+      "論文名稱": "Dual-Mode InAlAsSb/InGaAs/InP Heterostructure Field-Effect Transistors",
+      "會議名稱": "International Electron Devices and Materials Symposia(IEDMS)",
+      "作者群": "C. S. Lee, W. C. Hsu, H. M. Shieh, J. S. Su, S. Y. Jain and W. Lin"
+    },
+    {
+      "論文名稱": "A  -Doped InGaAs/GaAs Pseudomorphic HEMT Utilizing Superlattice as Spacer",
+      "會議名稱": "International Electron Devices and Materials Symposia(IEDMS)",
+      "作者群": "W. C. Hsu, M. J. Kao, H. M. Shieh, T. S. Wu, S. S. Li and C. S. Lee"
+    }
+  ],
+  "book": [],
+  "patent": [
+    {
+      "title": "發明",
+      "desc": "具有非對稱閘極之半導體元件及其製造方法"
+    },
+    {
+      "title": "發明",
+      "desc": "半導體元件"
+    },
+    {
+      "title": "發明",
+      "desc": "氮化物異質接面場效電晶體之閘極長度縮短製程"
+    },
+    {
+      "title": "發明",
+      "desc": "半導體元件之閘極結構的製造方法以及半導體元件"
+    },
+    {
+      "title": "發明",
+      "desc": "高線性度增強型異質場效體"
+    },
+    {
+      "title": "發明",
+      "desc": "半導體發光元件"
+    },
+    {
+      "title": "發明",
+      "desc": "非對稱式汲源極通道結構異質場校體"
+    },
+    {
+      "title": "發明",
+      "desc": "具有三端可控制高負微分電阻特性異質場效電晶體"
+    },
+    {
+      "title": "發明",
+      "desc": "InGaAs/GaAs High Electron Mobility Transistor"
+    },
+    {
+      "title": "發明",
+      "desc": "電壓可調式多段轉換互導放大砷化銦鎵/砷化鎵高電子移動率電晶體"
+    }
+  ],
+  "most": [
+    {
+      "name": "(博士增核)新型具有P型通道III族-氮化物異質結構場效電晶體設計之技術開發(3/3)",
+      "schoolYear": "113"
+    },
+    {
+      "name": "新型具有P型通道III族-氮化物異質結構場效電晶體設計之技術開發(3/3)",
+      "schoolYear": "113"
+    },
+    {
+      "name": "新型具有P型通道III族-氮化物異質結構場效電晶體設計之技術開發(2/3)",
+      "schoolYear": "112"
+    },
+    {
+      "name": "新型具有P型通道III族-氮化物異質結構場效電晶體設計之技術開發(1/3)",
+      "schoolYear": "111"
+    },
+    {
+      "name": "新型具有超寬能隙氮化鋁鎵/氮化銦鋁通道III族-氮化物異質結構場效電晶體設計及其高壓功率切換與光感測應用之技術開發(3/3)",
+      "schoolYear": "110"
+    },
+    {
+      "name": "新型具有超寬能隙氮化鋁鎵/氮化銦鋁通道III族-氮化物異質結構場效電晶體設計及其高壓功率切換與光感測應用之技術開發(2/3)",
+      "schoolYear": "109"
+    },
+    {
+      "name": "新型具有超寬能隙氮化鋁鎵/氮化銦鋁通道III族-氮化物異質結構場效電晶體設計及其高壓功率切換與光感測應用之技術開發(1/3)",
+      "schoolYear": "108"
+    },
+    {
+      "name": "新型氮化物金屬-氧化物-半導體高電子遷移率電晶體設計及三端光感測元件設計之技術開發(3/3)",
+      "schoolYear": "107"
+    },
+    {
+      "name": "新型氮化物金屬-氧化物-半導體高電子遷移率電晶體設計及三端光感測元件設計之技術開發(2/3)",
+      "schoolYear": "106"
+    },
+    {
+      "name": "新型氮化物金屬-氧化物-半導體高電子遷移率電晶體設計及三端光感測元件設計之技術開發(1/3)",
+      "schoolYear": "105"
+    },
+    {
+      "name": "高效率有機太陽能電池之研製分析",
+      "schoolYear": "105"
+    },
+    {
+      "name": "增強型氮化鋁鎵/氮化鎵金屬-氧化物-半導體異質場效電晶體之量測分析",
+      "schoolYear": "105"
+    },
+    {
+      "name": "具有複合式閘極介電結構之化合物半導體異質結構場效電晶體及其III-V CMOS邏輯電路應用之技術開發(2/2)",
+      "schoolYear": "104"
+    },
+    {
+      "name": "氮化鋁鎵/氮化鎵金屬-氧化物-半導體高電子遷移率電晶體閘極介面量測分析",
+      "schoolYear": "104"
+    },
+    {
+      "name": "具有複合式閘極介電結構之化合物半導體異質結構場效電晶體及其III-V CMOS邏輯電路應用之技術開發(1/2)",
+      "schoolYear": "103"
+    },
+    {
+      "name": "以應力機制改善變晶式高電子移動率電晶體工作特性之技術開發",
+      "schoolYear": "102"
+    },
+    {
+      "name": "以新穎式閘極工程改善化合物半導體異質結構場效電晶體之技術開發(I)",
+      "schoolYear": "101"
+    },
+    {
+      "name": "具有不同閘極結構化合物半導體高電子遷移率電晶體之高頻參數萃取與元件模型解析",
+      "schoolYear": "101"
+    },
+    {
+      "name": "新型具有鋁摻雜氧化鋅透明閘極異質結構場效體及其應用於三端可調變增益光纖通訊主動型感測器之研製(I)",
+      "schoolYear": "100"
+    },
+    {
+      "name": "高性能Γ型閘極氮化鋁鎵/氮化鎵高電子移動率電晶體之技術開發",
+      "schoolYear": "99"
+    },
+    {
+      "name": "高功率增益氮化鋁鎵/氮化鎵高電子遷移率電晶體之研製",
+      "schoolYear": "99"
+    },
+    {
+      "name": "新型銻/氮摻入稀釋通道異質場效電晶體之技術開發(3/3)",
+      "schoolYear": "98"
+    },
+    {
+      "name": "高功率增益與高線性度砷化銦鋁/砷化銦鎵變晶式高電子遷移率電晶體之研製",
+      "schoolYear": "98"
+    },
+    {
+      "name": "新型銻/氮摻入稀釋通道異質場效電晶體之技術開發(2/3)",
+      "schoolYear": "97"
+    },
+    {
+      "name": "運用閘極工程減緩砷化銦鋁/砷化銦鎵變晶式高電子移動?電晶體?結效應之研製",
+      "schoolYear": "97"
+    },
+    {
+      "name": "新型銻/氮摻入稀釋通道異質場效電晶體之技術開發(1/3)",
+      "schoolYear": "96"
+    },
+    {
+      "name": "雙δ-摻雜砷化鋁鎵/砷化銦鎵/砷化鎵通道摻雜式異質結構場效體之研製",
+      "schoolYear": "96"
+    },
+    {
+      "name": "以類神經網路演算法改善電子遷移率電晶體高頻參數萃取之精準度",
+      "schoolYear": "95"
+    },
+    {
+      "name": "具有三端可控制高負微分電阻特性異質場效電晶體之研製",
+      "schoolYear": "94"
+    },
+    {
+      "name": "高電子遷移率電晶體高頻參數萃取與微波模型建立",
+      "schoolYear": "94"
+    },
+    {
+      "name": "增強型δ-摻雜磷化銦鎵/砷化銦鎵/砷化鎵類晶系高電子移動率電晶體之研製",
+      "schoolYear": "93"
+    },
+    {
+      "name": "複晶矽鍺閘極經不同氮化處理後硼穿透現象的探討",
+      "schoolYear": "93"
+    },
+    {
+      "name": "電壓可調式多段轉換互導放大類晶系δ-摻雜砷化銦鎵/砷化鎵高電子移動率電晶體之研製",
+      "schoolYear": "92"
+    }
+  ],
+  "tech": [],
+  "induAca": [],
+  "perform": [],
+  "reward": [
+    "113年度國科會補助大專校院研究獎勵 (113, 2024-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (113, 2024-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (113, 2024-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (113, 2024-11) - 逢甲大學",
+    "112年度國科會補助大專校院研究獎勵 (112, 2023-12) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "Best Poster Paper Award (112, 2023-10) - 2023 International Electron Devices and Materials Symposium (2023 IEDMS)",
+    "逢甲大學論文著作獎勵傑出獎 (111, 2022-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (111, 2022-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (111, 2022-11) - 逢甲大學",
+    "111年度國科會補助大專校院研究獎勵 (111, 2022-10) - 研究發展處",
+    "佳作論文獎 (110, 2021-11) - 2021 International Electron Devices and Materials Symposium (2021 IEDMS)/台灣",
+    "逢甲大學論文著作獎勵傑出獎 (110, 2021-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (110, 2021-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (110, 2021-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (110, 2021-11) - 逢甲大學",
+    "110年度科技部補助大專校院研究獎勵 (110, 2021-10) - 產學合作處",
+    "逢甲大學論文著作獎勵傑出獎 (109, 2020-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (109, 2020-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (109, 2020-11) - 逢甲大學",
+    "109年度科技部補助大專校院研究獎勵 (109, 2020-10) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (108, 2019-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (108, 2019-11) - 逢甲大學",
+    "108學年度科技部補助大專校院研究獎勵 (108, 2019-09) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (107, 2018-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (107, 2018-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (107, 2018-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (107, 2018-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (107, 2018-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (107, 2018-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (107, 2018-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (107, 2018-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (107, 2018-11) - 逢甲大學",
+    "107年度科技部補助大專校院研究獎勵 (107, 2018-08) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (106, 2017-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (106, 2017-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (106, 2017-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (106, 2017-11) - 逢甲大學",
+    "106年度科技部獎勵特殊優秀人才 (106, 2017-08) - 產學合作處",
+    "逢甲大學論文著作獎勵傑出獎 (105, 2016-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (105, 2016-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (105, 2016-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (105, 2016-11) - 逢甲大學",
+    "105年度科技部獎勵特殊優秀人才 (105, 2016-08) - 產學合作處",
+    "Best Presentation Award (104, 2016-07) - 18th International Conference on Energy Science and Engineering, 2016",
+    "逢甲大學論文著作獎勵傑出獎 (104, 2015-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (104, 2015-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (104, 2015-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (104, 2015-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (104, 2015-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (104, 2015-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (104, 2015-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (104, 2015-11) - 逢甲大學",
+    "104年度科技部獎勵特殊優秀人才 (104, 2015-08) - 產學合作處",
+    "逢甲大學論文著作獎勵傑出獎 (103, 2014-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (103, 2014-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (103, 2014-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (103, 2014-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (103, 2014-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (103, 2014-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (103, 2014-11) - 逢甲大學",
+    "103年度科技部獎勵特殊優秀人才 (103, 2014-08) - 研究發展處",
+    "102學年度教學優良教師 (102, 2013-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (102, 2013-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (102, 2013-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (102, 2013-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (102, 2013-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (102, 2013-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (102, 2013-11) - 逢甲大學",
+    "102年度科技部獎勵特殊優秀人才 (102, 2013-08) - 研究發展處",
+    "逢甲大學論文著作獎勵傑出獎 (101, 2012-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (101, 2012-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (101, 2012-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (101, 2012-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (101, 2012-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (101, 2012-11) - 逢甲大學",
+    "101年度科技部獎勵特殊優秀人才 (101, 2012-08) - 研究發展處",
+    "全國大專院校網球賽男甲組亞軍 (100, 2012-01) - 大專院校體育總會",
+    "逢甲大學論文著作獎勵傑出獎 (100, 2011-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (100, 2011-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (100, 2011-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (100, 2011-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (100, 2011-11) - 逢甲大學",
+    "中區大專教職員工網球邀請賽冠軍 (100, 2011-10) - 彰師大",
+    "全國大專院校網球賽男甲組第三名 (100, 2011-08) - 教育部",
+    "研究獎勵論文著作傑出獎 (99, 2010-11) - 逢甲大學",
+    "研究獎勵論文著作優等獎 (99, 2010-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (99, 2010-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (99, 2010-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (99, 2010-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (99, 2010-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (99, 2010-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (99, 2010-11) - 逢甲大學",
+    "99年度科技部獎勵特殊優秀人才 (99, 2010-10) - 研究發展處",
+    "研究獎勵論文著作傑出獎 (98, 2009-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (98, 2009-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (98, 2009-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (98, 2009-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (98, 2009-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (98, 2009-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (98, 2009-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (97, 2008-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (97, 2008-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (97, 2008-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (97, 2008-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (97, 2008-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (97, 2008-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (97, 2008-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (97, 2008-11) - 逢甲大學",
+    "學術研究獎勵研發成果傑出獎 (97, 2008-08) - 逢甲大學",
+    "吳全臨先生紀念獎學金 (97, 2008-08) - 資訊電機學院",
+    "全國大專院校網球賽男甲組第四名 (97, 2008-08) - 教育部",
+    "逢甲大學論文著作獎勵傑出獎 (96, 2007-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (96, 2007-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (96, 2007-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (96, 2007-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (96, 2007-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (96, 2007-11) - 逢甲大學",
+    "院優良教師 (96, 2007-08) - 逢甲大學",
+    "學術研究獎勵研發成果傑出獎 (96, 2007-08) - 逢甲大學",
+    "全國大專院校網球賽男乙組冠軍 (96, 2007-08) - 教育部",
+    "第三名(微電子、光電、CAD組) (95, 2007-05) - 2007 CIEE 中部院校大專生專題競賽",
+    "傑出論文獎(Best Paper Award) (95, 2006-12) - 2006 IEDMS",
+    "逢甲大學論文著作獎勵傑出獎 (95, 2006-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (95, 2006-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (95, 2006-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (95, 2006-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (95, 2006-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (95, 2006-11) - 逢甲大學",
+    "學術研究獎勵研發成果傑出獎 (95, 2006-08) - 逢甲大學",
+    "全國大專院校網球賽男乙組亞軍 (95, 2006-08) - 教育部",
+    "學術研究獎勵研發成果傑出獎 (94, 2005-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (94, 2005-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (94, 2005-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (94, 2005-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (94, 2005-11) - 逢甲大學",
+    "院優良導師 (94, 2005-08) - 逢甲大學",
+    "吳全臨先生紀念獎學金 (94, 2005-08) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (93, 2004-11) - 逢甲大學",
+    "學術研究獎勵研發成果傑出獎 (93, 2004-08) - 逢甲大學",
+    "全國大專院校網球賽男乙組亞軍 (93, 2004-08) - 教育部"
+  ],
+  "speech": [
+    {
+      "演講題目": "Compound Semicondcuctor Heterostructure Field-Effect Transistors",
+      "邀請單位": "高雄師大電子所",
+      "演講日期": "2013-12"
+    },
+    {
+      "演講題目": "Compound Semiconductor High Electron Mobility Transistors",
+      "邀請單位": "宜蘭大學電資學院",
+      "演講日期": "2010-11"
+    },
+    {
+      "演講題目": "Metamorphic High Electron Mobility Transistors (MHEMTs)",
+      "邀請單位": "彰化師大電子所",
+      "演講日期": "2005-12"
+    },
+    {
+      "演講題目": "認識電子科技",
+      "邀請單位": "衛道中學",
+      "演講日期": "2005-05"
+    },
+    {
+      "演講題目": "Investigations on Compound Semiconductor HEMT",
+      "邀請單位": "彰化師大電子所",
+      "演講日期": "2004-11"
+    },
+    {
+      "演講題目": "高性能 MMIC 元件之研製與設計",
+      "邀請單位": "逢甲大學電子系",
+      "演講日期": "2002-12"
+    }
+  ],
+  "material": [],
+  "tal": []
+}

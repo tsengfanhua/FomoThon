@@ -1,0 +1,777 @@
+{
+  "teacherId": "T06208",
+  "name": "梁詩婷",
+  "mainUnit": "資訊電機學院",
+  "detailUnit": "電子工程學系",
+  "skill": [
+    "影像處理Image Processing",
+    "計算機視覺Computer Vision",
+    "數據分析Data Analytics"
+  ],
+  "edu": [
+    "UNIVERSITY OF MALAYA FACULTY OF COMPUTER SCIENCE AND INFORMATION TECHNOLOGY 博士",
+    "MULTIMEDIA UNIVERSITY MALAYSIA FACULTY OF ENGINEERING 學士"
+  ],
+  "fcuExp": [
+    "器材中心 主任",
+    "資訊電機學院學士班 主任",
+    "電子工程學系 助理教授",
+    "電子工程學系 副教授",
+    "電子工程學系 教授"
+  ],
+  "currjob": [],
+  "otherExp": [
+    "廈門大學馬來西亞分校 資訊與通訊學院 助理教授",
+    "廈門大學馬來西亞分校 資訊與通訊學院 講師"
+  ],
+  "journal": [
+    {
+      "論文名稱": "Micro-Expression Recognition in Wild Video Environments: Latent Feature-based ANN (LFANN) from 3D Reconstructed Faces",
+      "期刊名稱": "Neurocomputing (SCIE)",
+      "作者群": "Y. S. Gan, Kun-Hong Liu, Gen-Bing Liong, Sze-Teng Liong*"
+    },
+    {
+      "論文名稱": "Unlocking Seamless Gesture-Based Interfaces: Hand Gesture Recognition with 3DCNN and LSTM",
+      "期刊名稱": "International Journal on Artificial Intelligence Tools (SCIE)",
+      "作者群": "Jun-Wei Tsai, Sze-Teng Liong, Y. S. Gan*"
+    },
+    {
+      "論文名稱": "E-WebGuard: Enhanced Neural Architectures for Precision Web Attack Detection",
+      "期刊名稱": "Computers & Security (SCIE)",
+      "作者群": "Luchen Zhou, Wei-Chuen Yau*, Y.S. Gan*, Sze-Teng Liong"
+    },
+    {
+      "論文名稱": "GNN-based Reverse Design for Mechanical Systems: Bridging Trajectory and Mechanical Design",
+      "期刊名稱": "Expert Systems With Applications (SCIE)",
+      "作者群": "Ting-Chia Chen, Yu-Ting Sheng, Sze-Teng Liong, Shih-Yuan Wang∗, Yee-Siang Gan∗"
+    },
+    {
+      "論文名稱": "AGV Indoor Localization: A High Fidelity Positioning and Map Building Solution based on Drawstring Displacement Sensors",
+      "期刊名稱": "Journal of Ambient Intelligence and Humanized Computing (SCIE)",
+      "作者群": "Shih-Yuan Wang, Che-Ming Li, Sze-Teng Liong, Yu-Ting Sheng, Yen-Chang Huang, Gen-Bing Liong, Yee-Siang Gan*"
+    },
+    {
+      "論文名稱": "Cost-effective concrete fabrication for large irregularly shaped architectural structures",
+      "期刊名稱": "Automation in Construction (SCIE)",
+      "作者群": "Shih-Yuan Wang, Sze-Teng Liong, YS Gan, Yu-Ting Sheng"
+    },
+    {
+      "論文名稱": "Lightweight Deep Learning Algorithm for Sorting Medical Waste Embedded System",
+      "期刊名稱": "Journal of Internet Technology (SCIE)",
+      "作者群": "Y.S. Gan, Yuan-Zhi Liu, Bo-Cheng Tseng, Gen-Bing Liong, Sze-Teng Liong*"
+    },
+    {
+      "論文名稱": "Moving towards agriculture 4.0: An AI-AOI carrot inspection system with accurate geometric properties",
+      "期刊名稱": "Journal of Food Engineering (SCIE)",
+      "作者群": "Sze-Teng Liong, Yi-Liang Wu, Gen-Bing Liong, YS Gan"
+    },
+    {
+      "論文名稱": "SFAMNet: A Scene Flow Attention-based Micro-expression Network",
+      "期刊名稱": "Neurocomputing (SCIE)",
+      "作者群": "Gen-Bing Liong, Sze-Teng Liong, Chee Seng Chan, John See"
+    },
+    {
+      "論文名稱": "Predicting trajectory of crane-lifted load using LSTM network: A comparative study of simulated and real-world scenarios",
+      "期刊名稱": "Expert Systems with Applications (SCIE)",
+      "作者群": "Sze-Teng Liong, Feng-Wei Kuo, Yee Siang Gan, Yu-Ting Sheng, Shih-Yuan Wang"
+    },
+    {
+      "論文名稱": "Feature Elimination Through Data Complexity for Error-Correcting Output Codes Based Micro-Expression Recognition",
+      "期刊名稱": "Signal Processing: Image Communication (SCIE)",
+      "作者群": "Meng-Xin Sun, Li-Yan Chen, Kun-Hong Liu, Sze-Teng Liong, Qing-Qiang Wu"
+    },
+    {
+      "論文名稱": "Revealing Concealed Spontaneous Facial Micro-expression: Are We a Step Closer to Unveil Real-life Behavioral Expressions?",
+      "期刊名稱": "Neurocomputing (SCIE)",
+      "作者群": "Y. S. Gan, Gen-Bing Liong, Kun-Hong Liu, Sze-Teng Liong*"
+    },
+    {
+      "論文名稱": "3D SOC-Net: Deep 3D Reconstruction Network based on Self-Organizing Clustering Mapping",
+      "期刊名稱": "Expert Systems With Applications (SCIE)",
+      "作者群": "Y.S. Gan, Weihao Chen, Wei-Chuen Yau*, Ziyun Zou, Sze-Teng Liong, Shi-Yuan Wang*"
+    },
+    {
+      "論文名稱": "LAENet for Micro-expression Recognition",
+      "期刊名稱": "The Visual Computer (SCIE)",
+      "作者群": "Y.S. Gan, Sung-En Lien, Yi-Chen Chiang and Sze-Teng Liong*"
+    },
+    {
+      "論文名稱": "3D SOC-Net: Deep 3D reconstruction network based on self-organizing clustering mapping.",
+      "期刊名稱": "Expert Systems with Applications (SCIE)",
+      "作者群": "Gan, Y. S., Chen, W., Yau, W. C., Zou, Z., Liong, S. T., & Wang, S. Y."
+    },
+    {
+      "論文名稱": "3D Printing on Freeform Surface:  Real-time and Accurate 3D Dynamic Dense Surface Reconstruction with HoloLens and Displacement Measurement Sensors",
+      "期刊名稱": "Advances in Mechanical Engineering (SCIE)",
+      "作者群": "Yu-Ting Sheng, Sze-Teng Liong, Shih-Yuan Wang, Y. S. Gan"
+    },
+    {
+      "論文名稱": "What does it look like? An artificial neural network model to predict the physical dense 3D appearance of a large-scale object",
+      "期刊名稱": "Expert Systems with Applications (SCIE)",
+      "作者群": "Shih-Yuan Wang , Fei-Fan Sung , Sze-Teng Liong , Yu-Ting Sheng , Y.S. Gan"
+    },
+    {
+      "論文名稱": "A Novel Soft-Coded Error-Correcting Output Codes Algorithm",
+      "期刊名稱": "Pattern Recognition (SCIE)",
+      "作者群": "Kun-Hong Liu, JieGao, YongXu, Kai-Jie Feng, Xiao-NaYe, Sze-Teng Liong, Li-Yan Chen*"
+    },
+    {
+      "論文名稱": "Needle in a Haystack: Spotting and recognising micro-expressions “in the wild”",
+      "期刊名稱": "Neurocomputing (SCIE)",
+      "作者群": "Y. S. Gan, John See, Huai-Qian Khor, Kun-Hong Liu, Sze-Teng Liong*"
+    },
+    {
+      "論文名稱": "The Design of Error-Correcting Output Codes Based Deep Forest for the Micro-expression Recognition",
+      "期刊名稱": "Applied Intelligence (SCIE)",
+      "作者群": "Wei-Ping Lin, Qi-Chao Ge, Sze-Teng Liong, KunHong Liu*, Qing-Qiang Wu"
+    },
+    {
+      "論文名稱": "An Automated Cucumber Inspection System based on Neural Network",
+      "期刊名稱": "Journal of Food Process Engineering (SCIE)",
+      "作者群": "Y. S. Gan, Shi-Hao Luo, Chih-Hsueh Li, Shih-Wei Chung, Sze-Teng Liong* and Lit-Ken Tan"
+    },
+    {
+      "論文名稱": "The Heterogeneous Ensemble of Deep Forest and Deep Neural Networks for Micro-expressions Recognition",
+      "期刊名稱": "Applied Intelligence (SCIE)",
+      "作者群": "Meng‑Xin Sun, Sze‑Teng Liong, Kun‑Hong Liu*, Qing‑Qiang Wu"
+    },
+    {
+      "論文名稱": "An Improved Automatic Defect Identification System on Natural Leather via Generative Adversarial Network",
+      "期刊名稱": "International Journal of Computer Integrated Manufacturing (SCIE)",
+      "作者群": "Y.S. Gan, Sze-Teng Liong*, Shih-Yuan Wang and Chin Tiong Cheng"
+    },
+    {
+      "論文名稱": "An improved automatic defect identification system on natural leather via generative adversarial network.",
+      "期刊名稱": "International Journal of Computer Integrated Manufacturing, (SCIE)",
+      "作者群": "Gan, Y. S., Liong, S. T., Wang, S. Y., & Cheng, C. T."
+    },
+    {
+      "論文名稱": "Automated Classification System for Tick Bite Defect on Leather",
+      "期刊名稱": "Mathematical Problems in Engineering (SCIE)",
+      "作者群": "Y.S. Gan, Wei-Chuen Yau, Sze-Teng Liong*, Chih-Cheng Chen*"
+    },
+    {
+      "論文名稱": "Automated Classification System for Tick Bite Defect on Leather",
+      "期刊名稱": "Mathematical Problems in Engineering (SCIE)",
+      "作者群": "Yee-Siang Gan, Wei-Chuen Yau, Sze-Teng Liong*, Chih-Cheng Chen*"
+    },
+    {
+      "論文名稱": "Design of Multi-Receptive Field Fusion-Based Network for Surface Defect Inspection on Hot-Rolled Steel Strip Using Lightweight Dataset",
+      "期刊名稱": "Applied Sciences (SCIE)",
+      "作者群": "Wei-Peng Tang, Sze-Teng Liong, Chih-Cheng Chen, Ming-Han Tsai, Ping-Cheng Hsieh, Yu-Ting Tsai, Shih-Hsin Chen and Kun-Ching Wang*"
+    },
+    {
+      "論文名稱": "How Many Bedrooms Do You Need? A Real Estate Recommender System from Architectural Floor Plan Images",
+      "期刊名稱": "Scientific Programming (SCIE)",
+      "作者群": "Y.S. Gan, Shih-Yuan Wang, Chieh-En Huang, Yi-Chen Hsieh, Hsiang-Yu Wang, Wen-Hung Lin, Shing-Nam Chong, Sze-Teng Liong*"
+    },
+    {
+      "論文名稱": "Detection and Localization of Defects on Natural Leather Surfaces",
+      "期刊名稱": "Journal of Ambient Intelligence and Humanized Computing (SCIE)",
+      "作者群": "Y. S. Gan, Sze-Teng Liong*, DannaZheng, Yiyang Xia, Shuli Wu, Mengchen Lin, Yen-Chang Huang"
+    },
+    {
+      "論文名稱": "Find the Centroid: A Vision-based Approach for Optimal Object Grasping",
+      "期刊名稱": "Journal of Food Process Engineering (SCIE)",
+      "作者群": "Jun-Jie Xu, Sze-Teng Liong, Lit-Ken Tan, Y. S. Gan"
+    },
+    {
+      "論文名稱": "Micro-expression Recognition using Advanced Genetic Algorithm",
+      "期刊名稱": "Signal Processing: Image Communication (SCIE)",
+      "作者群": "Kun-Hong Liu, Qiu-Shi Jin, Huang-Chao Xu, Yee-Siang Gan, Sze-Teng Liong*"
+    },
+    {
+      "論文名稱": "A Statistical Approach in Enhancing the Volume Prediction of Ellipsoidal Ham",
+      "期刊名稱": "Journal of Food Engineering (SCIE)",
+      "作者群": "Y. S. Gan, Lan Wei, Yiming Han, Chenyu Zhang, Yen-Chang Huang and Sze-Teng Liong*"
+    },
+    {
+      "論文名稱": "Integration of Machine Learning-based Prediction for Enhanced Model’s Generalization: Application in Photocatalytic Polishing of Palm Oil Mill Effluent (POME)",
+      "期刊名稱": "Environmental Pollution (SCIE)",
+      "作者群": "Kim Hoong Ng, Y.S. Gan, Chin Kui Cheng, Kun-Hong Liu and Sze-Teng Liong*"
+    },
+    {
+      "論文名稱": "Automated Leather  Defect Inspection  using Statistical Approach on Image Intensity",
+      "期刊名稱": "Journal of Ambient Intelligence and Humanized Computing (SCIE)",
+      "作者群": "Y.S. Gan, Sue-Sien Chee, Yen-Chang Huang, Sze-Teng Liong*, Wei-Chuen Yau*"
+    },
+    {
+      "論文名稱": "A Ternary Bitwise Calculator Based Genetic Algorithm for Improving Error Correcting Output Codes",
+      "期刊名稱": "Information Sciences (SCIE)",
+      "作者群": "Xiao-Na Ye, Kun-Hong Liu*, Sze-Teng Liong"
+    },
+    {
+      "論文名稱": "The Design of Variable-Length Coding Matrix for Improving Error Correcting Output Codes",
+      "期刊名稱": "Information Sciences (SCIE)",
+      "作者群": "Kaijie Feng, Sze-Teng Liong, Kun-Hong Liu*"
+    },
+    {
+      "論文名稱": "Who is the Designer? ARC-100 Database and Benchmark on Architecture Classification",
+      "期刊名稱": "International Journal of Computational Intelligence Systems (SCIE)",
+      "作者群": "Yen-Chang Huang, Shih-Yuan Wang, Sze-Teng Liong*, Chieh-En Huang, Yi-Chen Hsieh, Hsiang-Yu Wang, Wen-Hung Lin, Y. S. Gan"
+    },
+    {
+      "論文名稱": "Leather defect classification and segmentation using deep learning architecture",
+      "期刊名稱": "International Journal of Computer Integrated Manufacturing (SCIE)",
+      "作者群": "Sze-Teng Liong, Danna Zheng, Yen-Chang Huang and Yee Siang Gan*"
+    },
+    {
+      "論文名稱": "Automatic Traditional Chinese Painting Classification: A Benchmarking Analysis",
+      "期刊名稱": "Computational Intelligence (SCIE)",
+      "作者群": "Sze-Teng Liong, Yen-Chang Huang, Shumeng Li, Zhongkai Huang, Jingyang Ma, Yee Siang Gan*"
+    },
+    {
+      "論文名稱": "Evaluation of the Spatio-Temporal features and GAN for Micro-expression Recognition System",
+      "期刊名稱": "Journal of Signal Processing Systems (SCIE)",
+      "作者群": "Sze-Teng Liong, Y.S. Gan*, Danna Zheng, Shu-Meng Li, Hao-Xuan Xu, Han-Zhe Zhang, Ran-Ke Lyu, and Kun-Hong Liu*"
+    },
+    {
+      "論文名稱": "Microarray Data Classification Based on Computational Verb",
+      "期刊名稱": "IEEE Access (SCIE)",
+      "作者群": "Kun-Hong Liu, Vincent To Yee Ng, Liong, S. T. and Qingqi Hong"
+    },
+    {
+      "論文名稱": "Automatic Surface Area and Volume Prediction on Ellipsoidal Ham using Deep Learning",
+      "期刊名稱": "Journal of Food Process Engineering (SCIE)",
+      "作者群": "Liong, S. T., Gan, Y. S., & Huang, Y. C."
+    },
+    {
+      "論文名稱": "OFF-ApexNet on Micro-expression Recognition System",
+      "期刊名稱": "Signal Processing: Image Communication (SCIE)",
+      "作者群": "Y.S. Gan, Sze-Teng Liong, Wei-Chuen Yau, Yen-Chang Huang, Lit-Ken Tan"
+    },
+    {
+      "論文名稱": "Less is more: Micro-expression recognition from video using apex frame",
+      "期刊名稱": "\tSignal Processing: Image Communication (SCIE)",
+      "作者群": "Liong, S. T.*, See, J., Wong, K., & Phan, R. C. W."
+    },
+    {
+      "論文名稱": "Hybrid Facial Regions Extraction for Micro-expression Recognition System",
+      "期刊名稱": "Journal of Signal Processing Systems (SCIE)",
+      "作者群": "Liong, S. T., See, J., Phan, R. C. W., Wong, K., Tan, S. W."
+    },
+    {
+      "論文名稱": "Spontaneous subtle expression detection and recognition based on facial strain",
+      "期刊名稱": "Signal Processing: Image Communication (SCIE)",
+      "作者群": "Liong, S. T., See, J., Phan, R. C. W., Oh, Y. H., Le Ngo, A. C., Wong, K., Tan, S. W."
+    }
+  ],
+  "journal2": [],
+  "conference": [
+    {
+      "論文名稱": "Two-Stream Multi-Scale Feature Fusion Instance Segmentation Network for Precise House Detection in Satellite Imagery",
+      "會議名稱": "2024 IEEE International Conference on Big Data",
+      "作者群": "Wen-Pin Chen, Po-Yi Wu, Sze-Teng Liong, Y.S. Gan"
+    },
+    {
+      "論文名稱": "Innovative Approach to Supernumerary Teeth Identification: CNN-Based Intelligent Medical Auxiliary System for Occlusal Radiographs",
+      "會議名稱": "2024 IEEE 11th International Conference on Cyber Security and Cloud Computing (CSCloud)",
+      "作者群": "Tsung-Yi Chen; Hung-I Wu; Zhi-Han Li; Jui-An Fu; Chiung-An Chen; Kuo-Chen Li; Sze-Teng Liong; Tsun-Kuang Chi; Shih-Lun Chen*"
+    },
+    {
+      "論文名稱": "Precision Agriculture: Effective Plant Monitoring and Irrigation System using Four Axis Mechanism",
+      "會議名稱": "CSME 2023",
+      "作者群": "Sze-Teng Liong, Hsiang-Yu Tseng, Bo-Sian Huang, Yi-Liang Wu, and Y. S. Gan"
+    },
+    {
+      "論文名稱": "基於AlexNet模型之諧波減速機智能故障診斷",
+      "會議名稱": "第二十一屆離島資訊技術與應用研討會",
+      "作者群": "謝男凱,陳澤龍, 梁詩婷, 林育德, 曾柏硯, 董志彥"
+    },
+    {
+      "論文名稱": "MTSN: A Multi-Temporal Stream Network for Spotting Facial Macro- and Micro-Expression with Hard and Soft Pseudo-labels",
+      "會議名稱": "ACM International Conference on Multimedia",
+      "作者群": "Gen Bing Liong, Sze Teng Liong, John See, Chee Seng Chan"
+    },
+    {
+      "論文名稱": "Steel Surface Defect Recognition Based on Multi-receptive Field Fusion-based Network with Light Dataset",
+      "會議名稱": "International Automatic Control Conference",
+      "作者群": "Wei Peng Tang, Sze-Teng Liong, Chen Chih Cheng, Ming-Han Tsai, Hsieh Ping Cheng, Kun-Ching Wang"
+    },
+    {
+      "論文名稱": "Intelligent Fault Diagnosis Based on Multi-Resolution and One-Dimension Convolutional Neural Networks",
+      "會議名稱": "2021 International Conference on System Science and Engineering (ICSSE)",
+      "作者群": "Po-Yi Liu, Chih-Cheng Chen, Sze-Teng Liong, Ming-Han Tsai, Ping-Cheng Hsieh, Kun-Ching Wang"
+    },
+    {
+      "論文名稱": "GA-ApexNet: Genetic Algorithm in Apex Frame Network for Micro-expression Recognition System",
+      "會議名稱": "2020 International Conference on Pattern Recognition and Intelligent Control (ICPRIC 2020)",
+      "作者群": "Qiu-Shi Jin, Huang-Chao Xu, Kun-Hong Liu, Sze-Teng Liong, Y. S. Gan, Shu-Wen Su"
+    },
+    {
+      "論文名稱": "Dual-Stream Shallow Networks for Facial Micro-Expression Recognition",
+      "會議名稱": "IEEE International Conference on Image Processing (ICIP)",
+      "作者群": "Khor, H. Q., See, J., Liong, S. T., Phan, R. C. W., Lin, W. Y."
+    },
+    {
+      "論文名稱": "Learning Optical Flow Features with Deep Learning for Micro-expression Recognition",
+      "會議名稱": "IEEE International Conference on Consumer Electronics - Taiwan",
+      "作者群": "Liong, S. T., Vo Thanh Chuong, Nguyen Hiep and Gan, Y. S. *"
+    },
+    {
+      "論文名稱": "A  Shallow  Triple  Stream  Three-dimensional  CNN  (STSTNet)  for Micro-expression  Recognition  System",
+      "會議名稱": "IEEE Automatic Face and Gesture Recognition (FG)",
+      "作者群": "Liong, S. T., Gan, Y. S.*, See, J., & Khor, H. Q."
+    },
+    {
+      "論文名稱": "Bi-directional Vectors from Apex in CNN for Micro-expression Recognition",
+      "會議名稱": "3rd IEEE International Conference on Image, Vision and Computing",
+      "作者群": "Gan, Y. S. , Liong, S. T. *"
+    },
+    {
+      "論文名稱": " Data Embedding In Scalable Coded Video",
+      "會議名稱": "APSIPA Annual Summit and Conference",
+      "作者群": "Pang, L. L., Wong, K., Liong, S. T."
+    },
+    {
+      "論文名稱": "Micro-expression Recognition using Apex Frame with Phase Information",
+      "會議名稱": "APSIPA Annual Summit and Conference",
+      "作者群": "Liong, S. T., Wong, K.,"
+    },
+    {
+      "論文名稱": "Automatic Microexpression Recognition from Long Video Using a Single Spotted Apex",
+      "會議名稱": "Asian Conference on Computer Vision",
+      "作者群": "Liong, S. T., See, J., Wong, K., & Phan, R. C. W."
+    },
+    {
+      "論文名稱": "Automatic apex frame spotting in micro-expression database",
+      "會議名稱": "IAPR Asian Conference Pattern Recognition (ACPR)",
+      "作者群": "Liong, S. T., See, J., Wong, K., Le Ngo, A. C., Oh, Y. H., Phan, R"
+    },
+    {
+      "論文名稱": "Monogenic riesz wavelet representation for micro-expression recognition",
+      "會議名稱": "IEEE International Conference Digital Signal Processing (DSP)",
+      "作者群": "Oh, Y. H., Le Ngo, A. C., See, J., Liong, S. T., Phan, R. C. W., Ling, H. C."
+    },
+    {
+      "論文名稱": "Are subtle expressions too sparse to recognize?",
+      "會議名稱": " IEEE International Conference Digital Signal Processing (DSP)",
+      "作者群": "Le Ngo, A. C., Liong, S. T., See, J., & Phan, R. C. W."
+    },
+    {
+      "論文名稱": " Optical Strain based Recognition of Subtle Emotions",
+      "會議名稱": " IEEE International Symposium on Intelligent Signal Processing and Communication Systems (ISPACS)",
+      "作者群": "Liong, S. T., Phan, R. C. W., See, J., Oh, Y. H., Wong, K."
+    },
+    {
+      "論文名稱": "Subtle expression recognition using optical strain weighted features",
+      "會議名稱": "Asian Conference on Computer Vision",
+      "作者群": "Liong, S. T., See, J., Phan, R. C. W., Le Ngo, A. C., Oh, Y. H., Wong, K."
+    }
+  ],
+  "book": [
+    {
+      "專業書籍": "AI人工智慧素養與基本導論",
+      "出版單位": "逢甲大學",
+      "作者群": "楊柏遠、陳志成、陳秋宏、梁詩婷、林峰正、王坤卿"
+    }
+  ],
+  "patent": [
+    {
+      "title": "發明",
+      "desc": "自動化雙面光學檢測裝置"
+    },
+    {
+      "title": "發明",
+      "desc": "智能小黑蚊監測管理系統"
+    },
+    {
+      "title": "發明",
+      "desc": "皮革瑕疵檢測系統"
+    },
+    {
+      "title": "發明",
+      "desc": "Automated Optical Double-sided Inspection Apparatus"
+    },
+    {
+      "title": "發明",
+      "desc": "檢測辨識系統"
+    }
+  ],
+  "most": [
+    {
+      "name": "新型機構設計：以轨迹集成機構的創新深度學習方法",
+      "schoolYear": "113"
+    },
+    {
+      "name": "開發基於面部微表情及身體微姿勢之實時情感辨識系統(3/3)",
+      "schoolYear": "113"
+    },
+    {
+      "name": "開發基於面部微表情及身體微姿勢之實時情感辨識系統(2/3)",
+      "schoolYear": "112"
+    },
+    {
+      "name": "智慧化無塵防護裝備檢測系統",
+      "schoolYear": "112"
+    },
+    {
+      "name": "(個別型)產學合作計畫－運用機器學習及深度學習於TFT-LCD 組裝廠之自動化產線AOI 瑕疵檢測",
+      "schoolYear": "111"
+    },
+    {
+      "name": "(廠配)勤友光電股份有限公司(個別型)產學合作計畫－運用機器學習及深度學習於TFT-LCD 組裝廠之自動化產線AOI 瑕疵檢測",
+      "schoolYear": "111"
+    },
+    {
+      "name": "開發基於面部微表情及身體微姿勢之實時情感辨識系統(1/3)",
+      "schoolYear": "111"
+    },
+    {
+      "name": "VSAM-Net: 基於視覺化之自我引導類神經網路–以輕量化且不平衡之金屬表面瑕疵分類為例",
+      "schoolYear": "111"
+    },
+    {
+      "name": "基於深度學習之小黃瓜辨識與分級暨即時幾何屬性運算整合型機台系統",
+      "schoolYear": "111"
+    },
+    {
+      "name": "開發基於面部微表情之抑鬱症監測整合系統(2/2)",
+      "schoolYear": "110"
+    },
+    {
+      "name": "即時武藝姿態識別之無標記擴增實境互動式引導系統",
+      "schoolYear": "110"
+    },
+    {
+      "name": "製鞋智動化機電系統暨網宇虛實整合開發計畫－製鞋智動化機電系統暨網宇虛實整合開發計畫(3/3)",
+      "schoolYear": "109"
+    },
+    {
+      "name": "開發基於面部微表情之抑鬱症監測整合系統(1/2)",
+      "schoolYear": "109"
+    },
+    {
+      "name": "基於卷積神經網絡之智慧化人臉即時醫療處理系統",
+      "schoolYear": "109"
+    },
+    {
+      "name": "製鞋智動化機電系統暨網宇虛實整合開發計畫－製鞋智動化機電系統暨網宇虛實整合開發計畫(2/3)",
+      "schoolYear": "108"
+    },
+    {
+      "name": "基於面部表情和腦電波特徵自動辨識微表情之深度學習結構設計",
+      "schoolYear": "108"
+    },
+    {
+      "name": "製鞋智動化機電系統暨網宇虛實整合開發計畫－製鞋智動化機電系統暨網宇虛實整合開發計畫(1/3)",
+      "schoolYear": "107"
+    },
+    {
+      "name": "基於卷積神經網絡微表情識別",
+      "schoolYear": "106"
+    }
+  ],
+  "tech": [],
+  "induAca": [
+    "自主移動機器人之定向手勢辨識導航系統 (2022-11 to 2023-10)",
+    "智動化送餐路徑規劃系統 (2022-06 to 2022-07)",
+    "技術諮詢顧問專案計畫(晶圓瑕疵檢測系統專案) (2021-06 to 2021-12)",
+    "求職面試視頻之自動微表情檢測及辨識系統專案 (2020-10 to 2021-02)",
+    "鞋款樣品圖轉換物料清單辨識系統之可行性研究 (2019-09 to 2020-02)"
+  ],
+  "perform": [],
+  "reward": [
+    "113年度國科會補助大專校院研究獎勵 (113, 2024-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (113, 2024-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (113, 2024-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (113, 2024-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (113, 2024-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (113, 2024-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (113, 2024-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (113, 2024-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (113, 2024-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (113, 2024-11) - 逢甲大學",
+    "113學年度教學傑出獎 (113, 2024-11) - 逢甲大學",
+    "2024 MATLAB & Simulink技術應用文章/論文徵選 - 優選獎 (113, 2024-10) - 鈦思科技",
+    "IEEE BigData Cup Challenge 2024 - 第三名 (113, 2024-09) - IEEE",
+    "第二屆智慧運算創新應用專題實作競賽 健康運算組 佳作獎 (113, 2024-08) - 國立成功大學",
+    "112學年度行政優良教師 (112, 2024-06) - 逢甲大學",
+    "巨鷗跨界智慧科技獎學金 (112, 2024-06) - 巨鷗科技",
+    "2023全國AI專題創意競賽人工智慧組 第一名 (112, 2023-12) - 國立臺南大學",
+    "112學年度電子系畢業專題競賽佳作 (112, 2023-12) - 逢甲大學",
+    "112學年度電子系畢業專題競賽特優 (112, 2023-12) - 逢甲大學",
+    "112學年度電子系畢業專題競賽佳作 (112, 2023-12) - 逢甲大學",
+    "第十四屆 MATLAB & Simulink技術應用文章/論文徵選 第三名 (112, 2023-12) - 鈦思科技",
+    "112年度國科會補助大專校院研究獎勵 (112, 2023-12) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "112學年度教學績優獎 (112, 2023-11) - 逢甲大學",
+    "2023台灣創新技術博覽會專利發明銅獎 (112, 2023-10) - 台灣創新技術博覽會",
+    "111學年度電子系畢業專題競賽佳作 (111, 2022-12) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (111, 2022-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (111, 2022-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (111, 2022-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (111, 2022-11) - 逢甲大學",
+    "111年度國科會補助大專校院研究獎勵 (111, 2022-10) - 研究發展處",
+    "110學年度電子系畢業專題競賽佳作 (110, 2021-12) - 逢甲大學",
+    "110學年度電子系畢業專題競賽優等 (110, 2021-12) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (110, 2021-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (110, 2021-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (110, 2021-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (110, 2021-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (110, 2021-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (110, 2021-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (110, 2021-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (110, 2021-11) - 逢甲大學",
+    "110學年度教學績優獎 (110, 2021-11) - 逢甲大學",
+    "109學年度教學滿意度全校前10% (110, 2021-11) - 逢甲大學",
+    "台中分校第八屆AI產業化創新競賽第二名 (110, 2021-10) - 台灣人工智慧學校",
+    "110年度科技部補助大專校院研究獎勵 (110, 2021-10) - 產學合作處",
+    "第一屆全國AI圖像辨識應用競賽佳作 (110, 2021-08) - 智泰科技股份有限公司",
+    "2021 逢甲大學創新應用專題競賽三等獎 (109, 2021-07) - 逢甲大學",
+    "109學年度行政優良教師 (109, 2021-06) - 逢甲大學",
+    "109學年度 Freshman Project 資電學院跨系新鮮人專題期末競賽第一及佳作 (109, 2020-12) - 逢甲大學",
+    "109學年度電子系畢業專題競賽佳作 (109, 2020-12) - 逢甲大學",
+    "109學年度電子系畢業專題競賽特優獎 (109, 2020-12) - 逢甲大學",
+    "逢甲大學優良教材獎勵佳作獎 (109, 2020-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (109, 2020-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (109, 2020-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (109, 2020-11) - 逢甲大學",
+    "108學年度教學滿意度全校前10% (109, 2020-11) - 逢甲大學",
+    "109年度科技部補助大專校院研究獎勵 (109, 2020-10) - 逢甲大學",
+    "台中分校第五屆經理人班 AI 產業化創新競賽第一名 (108, 2020-07) - 台灣人工智慧學校",
+    "107學年度電子系優良導師 (108, 2020-06) - 逢甲大學",
+    "巨鷗跨界智慧科技獎學金 (108, 2020-05) - 巨鷗科技",
+    "108學年度 Freshman Project 資電學院跨系新鮮人專題期末競賽第一第二名 (108, 2019-12) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (108, 2019-11) - 逢甲大學",
+    "電子系專題研究競賽越南生組佳作 (107, 2019-06) - 逢甲大學",
+    "The Second Facial Micro-expressions Grand Challenge (MEGC 2019), Second Place (107, 2019-05) - 14th IEEE International Conference on Automatic Face and Gesture Recognition (FG",
+    "電子系專題研究競賽越南生組佳作 (107, 2018-12) - 逢甲大學",
+    "106學年度教學滿意度全校前10% (107, 2018-11) - 逢甲大學",
+    "107年度大專校院延攬特殊優秀人才 (106, 2018-06) - 科技部"
+  ],
+  "speech": [
+    {
+      "演講題目": "EMI 跨院系教室經驗分享",
+      "邀請單位": "中山大學EMI跨校教師社群",
+      "演講日期": "2024-12"
+    },
+    {
+      "演講題目": "資電學院簡介",
+      "邀請單位": "逢甲大學全校國際生大一不分系學士班",
+      "演講日期": "2024-10"
+    },
+    {
+      "演講題目": "淺談電腦視覺跨領域應用",
+      "邀請單位": "逢甲大學智能製造與工程管理碩士在職學位學",
+      "演講日期": "2024-10"
+    },
+    {
+      "演講題目": "EMI課室經驗分享：挑戰與解方",
+      "邀請單位": "國立嘉義大學 (臺大EMI教學資源中心)",
+      "演講日期": "2024-09"
+    },
+    {
+      "演講題目": "打破EMI迷思",
+      "邀請單位": "國立聯合大學教務處教學發展中心",
+      "演講日期": "2024-05"
+    },
+    {
+      "演講題目": "【EMI教師強心針】EMI教師培訓暨教學方法分享",
+      "邀請單位": "逢甲大學教務處教學發展中心",
+      "演講日期": "2024-03"
+    },
+    {
+      "演講題目": "電腦視覺的跨領域應用",
+      "邀請單位": "逢甲大學 教師專業成長社群 -「創新智慧感測",
+      "演講日期": "2024-03"
+    },
+    {
+      "演講題目": "你與AI的距離 - 僑泰高中",
+      "邀請單位": "逢甲大學招生事務處",
+      "演講日期": "2023-12"
+    },
+    {
+      "演講題目": "研究方法論-電腦視覺領域",
+      "邀請單位": "逢甲大學工程與科學學院博士綜合班",
+      "演講日期": "2023-10"
+    },
+    {
+      "演講題目": "EMI TA培訓課程 【試教及輔導訓練】(2/2)",
+      "邀請單位": "逢甲大學外語教學中心",
+      "演講日期": "2023-05"
+    },
+    {
+      "演講題目": "EMI TA培訓課程 【試教及輔導訓練】(1/2)",
+      "邀請單位": "逢甲大學外語教學中心",
+      "演講日期": "2023-05"
+    },
+    {
+      "演講題目": "Data Preprocessing for Deep Learning",
+      "邀請單位": "逢甲大學 ROSOCOOP",
+      "演講日期": "2023-03"
+    },
+    {
+      "演講題目": "PMP生涯規劃之逢甲大學資電學院介紹",
+      "邀請單位": "逢甲大學全校國際生大一不分系學士班",
+      "演講日期": "2022-11"
+    },
+    {
+      "演講題目": "逢甲大學資電學院簡介",
+      "邀請單位": "大甲高中",
+      "演講日期": "2022-11"
+    },
+    {
+      "演講題目": "Optimization of agriculture production over deep learning methods",
+      "邀請單位": "明志科技大學",
+      "演講日期": "2022-10"
+    },
+    {
+      "演講題目": "研究所新鮮人求生秘笈",
+      "邀請單位": "逢甲大學圖書館",
+      "演講日期": "2022-09"
+    },
+    {
+      "演講題目": "自動微表情辨識發展現況及未來趨勢",
+      "邀請單位": "廈門大學",
+      "演講日期": "2022-07"
+    },
+    {
+      "演講題目": "智慧辨識檢測應用與挑戰",
+      "邀請單位": "國立聯合大學資訊管理學系",
+      "演講日期": "2022-04"
+    },
+    {
+      "演講題目": "電腦視覺技術之跨領域應用經驗分享",
+      "邀請單位": "逢甲大學機械與電腦輔助工程學系",
+      "演講日期": "2022-04"
+    },
+    {
+      "演講題目": "逢甲大學資電學院介紹",
+      "邀請單位": "逢甲大學全校國際生大一不分系學士班",
+      "演講日期": "2021-11"
+    },
+    {
+      "演講題目": "「直球對決108課綱：院系介紹暨特殊選才說明會台北場」- 電子工程學系-介紹與入學準備",
+      "邀請單位": "逢甲大學招生處",
+      "演講日期": "2021-10"
+    },
+    {
+      "演講題目": "研究方法論-電腦視覺領域",
+      "邀請單位": "逢甲大學工程與科學學院博士綜合班",
+      "演講日期": "2021-10"
+    },
+    {
+      "演講題目": "2021年當紅炸子鷄產業半導體及智能自走車",
+      "邀請單位": "忠明高中",
+      "演講日期": "2021-09"
+    },
+    {
+      "演講題目": "The implications of machine vision in affective computing and manufacturing industries",
+      "邀請單位": "Women in AI Malaysia",
+      "演講日期": "2021-09"
+    },
+    {
+      "演講題目": "AI 視覺辨識之跨領域應用與體驗",
+      "邀請單位": "台南大學應用數學系",
+      "演講日期": "2020-12"
+    },
+    {
+      "演講題目": "深度學習理論及實作 （3/3）",
+      "邀請單位": "逢甲大學智能鞋業學分學程",
+      "演講日期": "2020-12"
+    },
+    {
+      "演講題目": "AOI 瑕疵檢測實務",
+      "邀請單位": "逢甲大學 創能學院",
+      "演講日期": "2020-12"
+    },
+    {
+      "演講題目": "深度學習理論及實作 （2/3）",
+      "邀請單位": "逢甲大學智能鞋業學分學程",
+      "演講日期": "2020-12"
+    },
+    {
+      "演講題目": "Lie Catching from Facial Micro-expressions: Challenges and Opportunities",
+      "邀請單位": "2020第十一屆健康大數據分析人工智慧論壇",
+      "演講日期": "2020-12"
+    },
+    {
+      "演講題目": "深度學習理論及實作 （1/3）",
+      "邀請單位": "逢甲大學智能鞋業學分學程",
+      "演講日期": "2020-12"
+    },
+    {
+      "演講題目": "3D Dynamic Dense Surface Reconstruction  based on Artificial Neural Network",
+      "邀請單位": "逢甲大學 ROSOCOOP",
+      "演講日期": "2020-11"
+    },
+    {
+      "演講題目": "To infinity  and beyond: the era of smart living with computer vision",
+      "邀請單位": "逢甲大學 ROSOCOOP",
+      "演講日期": "2020-11"
+    },
+    {
+      "演講題目": "How Computer Vision is Changing the World",
+      "邀請單位": "逢甲大學電通博電機與通訊工程博士學位學程",
+      "演講日期": "2020-10"
+    },
+    {
+      "演講題目": "針對微表情識別基於峰值幀網絡的遺傳算法",
+      "邀請單位": "中國科學院心理研究所",
+      "演講日期": "2020-08"
+    },
+    {
+      "演講題目": "電腦視覺、影像處理概論與深度學習Matlab實作",
+      "邀請單位": "逢甲大學電子系",
+      "演講日期": "2020-07"
+    },
+    {
+      "演講題目": "AI深度學習與鞋類影像辨識實戰 （2/2）",
+      "邀請單位": "逢甲大學智能鞋業學分學程",
+      "演講日期": "2020-06"
+    },
+    {
+      "演講題目": "AI深度學習與鞋類影像辨識實戰 （1/2）",
+      "邀請單位": "逢甲大學智能鞋業學分學程",
+      "演講日期": "2020-05"
+    },
+    {
+      "演講題目": "Automatic Facial Micro-expression Recognition System - Current Opportunities and Challenges",
+      "邀請單位": "廈門大學軟體學院",
+      "演講日期": "2019-07"
+    },
+    {
+      "演講題目": "Implementation of Automated Robot-Car Control System",
+      "邀請單位": "國立臺北護理健康大學",
+      "演講日期": "2019-06"
+    },
+    {
+      "演講題目": "AI in Industries: Healthcare and Manufacturing",
+      "邀請單位": "逢甲大學人工智慧教師專業成長社群",
+      "演講日期": "2019-06"
+    },
+    {
+      "演講題目": "基於卷積神經網絡的計算機視覺應用",
+      "邀請單位": "逢甲大學高階工程管理專題講座",
+      "演講日期": "2018-12"
+    },
+    {
+      "演講題目": "人工智慧之微表情识别",
+      "邀請單位": "信阳师范学院数学与统计学院",
+      "演講日期": "2018-06"
+    },
+    {
+      "演講題目": "106-1應用國外磨課師教材於課程教學經驗分享會",
+      "邀請單位": "逢甲大學 創能學院",
+      "演講日期": "2018-06"
+    },
+    {
+      "演講題目": "A.I. 到底會不會",
+      "邀請單位": "馬來西亞逢甲大學校友會",
+      "演講日期": "2018-05"
+    }
+  ],
+  "material": [
+    "Online Judge\t無\tSze-Teng Liong*\t軟體"
+  ],
+  "tal": []
+}

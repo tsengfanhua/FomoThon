@@ -1,0 +1,192 @@
+{
+  "teacherId": "T00068",
+  "name": "林維鈞",
+  "mainUnit": "工程與科學學院",
+  "detailUnit": "應用數學系",
+  "skill": [
+    "判別分析Discriminant Analysis",
+    "微陣列資料分析Microarray Data Analysis"
+  ],
+  "edu": [
+    "國立中央大學 統計所 博士"
+  ],
+  "fcuExp": [
+    "應用數學系 助理教授",
+    "應用數學系 副教授"
+  ],
+  "currjob": [],
+  "otherExp": [
+    "美國食品暨藥物管理局  博士後研究人員"
+  ],
+  "journal": [
+    {
+      "論文名稱": "Predictive biomarkers for treatment selection: statistical considerations",
+      "期刊名稱": "Biomarkers in Medicine (SCIE)",
+      "作者群": "James J Chen*, Tzu-Pin Lu, Yu-Chuan Chen, Wei-Jiun Lin"
+    },
+    {
+      "論文名稱": "Data mining tools for Salmonella characterization: application to gel-based fingerprinting analysis",
+      "期刊名稱": "BMC Bioinformatics (SCIE)",
+      "作者群": "Zou W*, Tang H, Zhao W, Meehan J, Foley SL, Lin WJ, Chen HC, Fang H, Nayak R, Chen JJ."
+    },
+    {
+      "論文名稱": "Pharmacogenomic biomarkers for personalized medicine",
+      "期刊名稱": "Pharmacogenomics (SCIE)",
+      "作者群": "James J Chen*, Wei-Jiun Lin, Hung-Chia Chen"
+    },
+    {
+      "論文名稱": "Meta-analysis of pulsed-field gel electrophoresis fingerprints based on a constructed Salmonella database",
+      "期刊名稱": "PLoS One (SCIE)",
+      "作者群": "Zou W*, Chen HC, Hise KB, Tang H, Foley SL, Meehan J, Lin WJ, Nayak R, Xu J, Fang H, Chen JJ."
+    },
+    {
+      "論文名稱": "Class-imbalanced classifiers for high-dimensional data",
+      "期刊名稱": "Briefings in Bioinformatics (SCIE)",
+      "作者群": "Wei-Jiun Lin  James J. Chen*"
+    },
+    {
+      "論文名稱": "The genetic toxicity of methylphenidate: a review of the current literature",
+      "期刊名稱": "Journal of Applied Toxicology (SCIE)",
+      "作者群": "Morris SM*, Petibone DM, Lin WJ, Chen JJ, Vitiello B, Witt KL Mattison DR"
+    },
+    {
+      "論文名稱": "Prediction System for Rapid Identification of Salmonella Serotypes Based on Pulsed-Field Gel Electrophoresis Fingerprints",
+      "期刊名稱": "Journal of Clinical Microbiology (SCIE)",
+      "作者群": "Zou W*, Lin WJ, Hise KB, Chen HC, Keys C and Chen JJ"
+    },
+    {
+      "論文名稱": "Biomarker classifiers for identifying susceptible subpopulations for treatment decisions",
+      "期刊名稱": "Pharmacogenomics (SCIE)",
+      "作者群": "Lin WJ and Chen JJ*"
+    },
+    {
+      "論文名稱": "An Approach to Identifying Preclinical Biomarkers of Susceptibility to Drug-Induced Toxicity",
+      "期刊名稱": "Pharmacogenomics (SCIE)",
+      "作者群": "Lin WJ and Chen JJ*"
+    },
+    {
+      "論文名稱": "Power and Sample Size Estimation in Microarray Studies",
+      "期刊名稱": "BMC Bioinformatics (SCIE)",
+      "作者群": "Lin WJ, Hsueh H-M, Chen JJ*"
+    },
+    {
+      "論文名稱": "Evaluation of Pulsed-Field Gel Electrophoresis Profiles for Identification of Salmonella Serotypes",
+      "期刊名稱": "Journal of Clinical Microbiology (SCIE)",
+      "作者群": "Zou W, Lin WJ, Foley SL, Chen CH, Nayak R and Chen JJ*"
+    },
+    {
+      "論文名稱": "The Effects of Misclassification in Studies of Gene-Environment Interaction",
+      "期刊名稱": "Human Heredity (SCIE)",
+      "作者群": "Cheng KF* and Lin WJ"
+    },
+    {
+      "論文名稱": "A Powerful Two-Stage Association Test Using Case-Control and Case Parents Genotype Data",
+      "期刊名稱": "Human Heredity (SCIE)",
+      "作者群": "Cheng KF*, Lin WJ, Chen JH and Horng JT"
+    },
+    {
+      "論文名稱": "Simultaneously Correcting for Population Stratification and for Genotyping Error in Case-Control Association Studies",
+      "期刊名稱": "American Journal of Human Genetics (SCIE)",
+      "作者群": "Cheng KF* and Lin WJ"
+    },
+    {
+      "論文名稱": "Retrospective Analysis of Case-Control Studies When the Population is in Hardy-Weinberg Equilibrium",
+      "期刊名稱": "Statistics in Medicine (SCIE)",
+      "作者群": "Cheng KF* and Lin WJ"
+    }
+  ],
+  "journal2": [],
+  "conference": [
+    {
+      "論文名稱": "Power Estimation of Genetic Association Studies for Complex Diseases",
+      "會議名稱": "Asia-Pacific Conference on Engineering and Applied Sciences 2016",
+      "作者群": "Wei-Jiun Lin"
+    },
+    {
+      "論文名稱": "Class-imbalanced Classification for High-dimensional Data",
+      "會議名稱": "第二十五屆南區統計研討會",
+      "作者群": "Wei-Jiun Lin*, James J.Chen"
+    },
+    {
+      "論文名稱": "Class-imbalanced classification for high-dimentional multiclass data",
+      "會議名稱": "International Conference on Engineering and Applied Sciences 2015",
+      "作者群": "Wei-Jiun Lin"
+    },
+    {
+      "論文名稱": "Predicting Patients' Responses To Treatment For Personalized Medicine",
+      "會議名稱": "2014 Joint Statistical Meetings",
+      "作者群": "Wei-Jiun Lin* and James J. Chen"
+    },
+    {
+      "論文名稱": "Power and sample size estimation for genome-wide association studies",
+      "會議名稱": "2013 Joint Statistical Meetings",
+      "作者群": "Wei-Jiun Lin*,James J. Chen,Kuang-Fu Cheng"
+    },
+    {
+      "論文名稱": "Biomarker Classifiers for Identifying Susceptible Subpopulations for Treatment Decisions.",
+      "會議名稱": "2012 Joint Statistical Meetings",
+      "作者群": "Wei-Jiun Lin*, James J. Chen"
+    },
+    {
+      "論文名稱": "Sample Size Estimation in Microarray Experiments.",
+      "會議名稱": "2009 Joint Statistical Meetings",
+      "作者群": "Wei-Jiun LIn*, James J. Chen"
+    }
+  ],
+  "book": [
+    {
+      "專業書籍": "快速學習微積分重點(第一冊)",
+      "出版單位": "東華書局",
+      "作者群": "林維鈞"
+    }
+  ],
+  "patent": [],
+  "most": [
+    {
+      "name": "連鎖不平衡檢定的檢定力估計:應用於複雜疾病的基因關聯性研究",
+      "schoolYear": "104"
+    },
+    {
+      "name": "分類高維度多類別不平衡資料的研究",
+      "schoolYear": "103"
+    },
+    {
+      "name": "個人化醫療之預測病人對治療法的反應",
+      "schoolYear": "102"
+    },
+    {
+      "name": "基因組相關性研究的檢定力分析",
+      "schoolYear": "101"
+    },
+    {
+      "name": "分類高維度類別不平衡資料的研究",
+      "schoolYear": "100"
+    }
+  ],
+  "tech": [
+    {
+      "論文名稱": "Biomarkers of susceptibility(Pharmacogenomics and toxicogenomics) (2014-03)",
+      "書名": "Biomarkers in Toxicology(RAMESH C. GUPTA)",
+      "作者群": "James J. Chen*, Wei-Jiun Lin, and Tzu-Pin Lu"
+    }
+  ],
+  "induAca": [],
+  "perform": [],
+  "reward": [
+    "逢甲大學論文著作獎勵傑出獎 (105, 2016-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵 (104, 2015-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (103, 2014-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (103, 2014-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (103, 2014-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (102, 2013-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (102, 2013-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (102, 2013-11) - 逢甲大學"
+  ],
+  "speech": [],
+  "material": [
+    "SPOC:微積分[微積分(二)大一統籌科目]\t應用數學系/雲端學院\t林維鈞*、魏傳昇、張其棟、許佳璵、黃同瑤\tMOOCs/SPOCs",
+    "SPOC:微積分[微積分(二)大一統籌科目]-二重積分單元影音教材\t應用數學系/雲端學院\t林維鈞、魏傳昇、張其棟、許佳璵、黃同瑤*\tMOOCs/SPOCs",
+    "SPOC:微積分[微積分(二)大一統籌科目]-部分積分及三角函數代換等積分技巧單元影音教材\t應用數學系/雲端學院\t林維鈞、魏傳昇、張其棟、許佳璵*、黃同瑤\tMOOCs/SPOCs"
+  ],
+  "tal": []
+}

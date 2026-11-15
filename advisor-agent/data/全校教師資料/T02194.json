@@ -1,0 +1,583 @@
+{
+  "teacherId": "T02194",
+  "name": "徐逸祥",
+  "mainUnit": "建設學院",
+  "detailUnit": "都市計畫與空間資訊學系",
+  "skill": [
+    "環境多媒體3D模擬規劃Multimedia Three-dimensional Simulation for Environment Planning",
+    "整合遙測、空間及不確定性分析之風險評估Risk Assessment Integrating Remote Sensing, Spatial and Uncertainty Analysis",
+    "土地利用分類判釋模式Land Use Classification and Interpretation Modeling",
+    "遙測影像處理與加值應用Remotely Sensed Image Processing and Value-Added Application"
+  ],
+  "edu": [
+    "國立臺灣大學 地理環境資源所 博士",
+    "國立臺灣大學 地理環境資源所 碩士",
+    "國立臺灣大學 地理學系 學士"
+  ],
+  "fcuExp": [
+    "城鄉發展研究中心 研究員",
+    "測量教學研究中心 教學組組長",
+    "城鄉發展研究中心 研究員",
+    "測量教學研究中心 教學組組長",
+    "都市計畫與空間資訊學系 系主任",
+    "逢甲大學帆宣智慧城市5G實驗室 研究員",
+    "都市計畫與空間資訊學系 助理教授",
+    "都市計畫與空間資訊學系 副教授"
+  ],
+  "currjob": [],
+  "otherExp": [
+    "耕莘健康管理專科學校 全人教育中心 助理教授",
+    "財團法人空間及環境科技文教基金會 研究發展組 博士後研究",
+    "國立臺灣大學 地理環境資源學系 博士後研究",
+    "臺北市復興高級中學  教師"
+  ],
+  "journal": [
+    {
+      "論文名稱": "A model for forest type identification and forest regeneration monitoring based on deep learning and hyperspectral imagery",
+      "期刊名稱": "Ecological Informatics  (Current Impact Factor: 5.1; 5-year Impact Factor: 3.489) (SCIE)",
+      "作者群": "Feng-Cheng Lin(林峰正)；Yi-Shiang Shiu(徐逸祥)；Pei-Jung Wang；Uen-Hao Wang；Jhe-Syuan Lai(賴哲儇)；Yung-Chung Chuang(莊永忠)*"
+    },
+    {
+      "論文名稱": "Pineapples’ Detection and Segmentation Based on Faster and Mask R-CNN in UAV Imagery",
+      "期刊名稱": "Remote Sensing (SCIE)",
+      "作者群": "Yi-Shiang Shiu, Re-Yang Lee*, Yen-Ching Chang"
+    },
+    {
+      "論文名稱": "以高時空影像融合技術監測臺東地區焚風現象",
+      "期刊名稱": "航測及遙測學刊 (無)",
+      "作者群": "賴咨岑、徐逸祥*"
+    },
+    {
+      "論文名稱": "車禍發生與都市地表溫度之相關性探討",
+      "期刊名稱": "航測及遙測學刊 (華藝)",
+      "作者群": "劉蕙慈、徐逸祥*"
+    },
+    {
+      "論文名稱": "利用 Landsat 8 OLI 影像反演氣溶膠光學厚度之成果論證臺中市交通流量對 PM2.5之影響",
+      "期刊名稱": "航測及遙測學刊 (無)",
+      "作者群": "吳兆鴻, 徐逸祥*, 張晏菁"
+    },
+    {
+      "論文名稱": "應用空間迴歸模式探討都市綠地、PM 2.5 與地表溫度之關聯",
+      "期刊名稱": "航測及遙測學刊 (臺灣人文及社會科學引文索引資料庫)",
+      "作者群": "張晏菁, 徐逸祥*, 林峰正"
+    },
+    {
+      "論文名稱": "Yield Estimation of Paddy Rice Based on Satellite Imagery: Comparison of Global and Local Regression Models",
+      "期刊名稱": "Remote Sensing (Current Impact Factor: 3.406; 5-year Impact Factor: 3.952; rank: 8/30 (Q2) in ‘Remote Sensing\") (SCIE)",
+      "作者群": "Yi-Shiang Shiu, Yung-Chung Chuang (莊永忠)*"
+    },
+    {
+      "論文名稱": "Relationship between landslides and mountain development—integrating geospatial statistics and a new long-term database",
+      "期刊名稱": "Science of the Total Environment (Impact Factor: 4.900; Environmental Engineering, Rank 7/158, Q1) (SCIE)",
+      "作者群": "Yung-Chung Chuang (莊永忠), Yi-Shiang Shiu*"
+    },
+    {
+      "論文名稱": "應用Landsat -8影像探討臺中市新社花海節對地區溫度變化之影響",
+      "期刊名稱": "航測及遙測學刊 (無)",
+      "作者群": "邱仁德, 徐逸祥*"
+    },
+    {
+      "論文名稱": "A comparative analysis of machine learning with WorldView-2 pan-sharpened imagery for tea crops mapping",
+      "期刊名稱": "Sensors (SCIE)",
+      "作者群": "Yung-Chung Matt Chuang(莊永忠) , Yi-Shiang Shiu*"
+    },
+    {
+      "論文名稱": "光學式衛星影像雲層處理之研究",
+      "期刊名稱": "航測及遙測學刊 ()",
+      "作者群": "徐逸祥、朱子豪"
+    },
+    {
+      "論文名稱": "Mapping paddy rice agriculture in a highly fragmented area using a geographic information system object-based post classification process",
+      "期刊名稱": "Journal of Applied Remote Sensing (SCIE)",
+      "作者群": "Shiu, Y. S., Lin, M. L., Huang, C. H., Chu, T. H."
+    },
+    {
+      "論文名稱": "整合空間及遙測分析於非法廢棄物棄置場之判釋",
+      "期刊名稱": "航測及遙測學刊 ()",
+      "作者群": "王瑞源、徐逸祥*、陳依婕、樊先達、黃昭雄、朱子豪"
+    },
+    {
+      "論文名稱": "Mapping paddy rice agriculture using multi-temporal FORMOSAT-2 images",
+      "期刊名稱": "World Academy of Science, Engineering and Technology (EI)",
+      "作者群": "Shiu, Y. S., Lin, M. L., Chang, K. T., and Chu, T. H."
+    },
+    {
+      "論文名稱": "Quick Spatial Assessment of Drought Information Derived from MODIS Imagery Using Amplitude Analysis",
+      "期刊名稱": "World Academy of Science, Engineering and Technology (EI)",
+      "作者群": "Lin, M. L., Wang, Q., Sun, F., Chu, T. H., and Shiu, Y. S."
+    },
+    {
+      "論文名稱": "應用地理資訊系統於海岸地形變化分析",
+      "期刊名稱": "台灣地理資訊學刊 ()",
+      "作者群": "黃昭雄、徐逸祥*、朱子豪"
+    },
+    {
+      "論文名稱": "衛星影像的雲霧偵測及干擾去除",
+      "期刊名稱": "國土資源遙感期刊 ()",
+      "作者群": "徐逸祥、朱子豪、劉英毓"
+    }
+  ],
+  "journal2": [],
+  "conference": [
+    {
+      "論文名稱": "生態導向的地方創生策略初探",
+      "會議名稱": "2022第九屆都市計畫與空間資訊研討會",
+      "作者群": "陳怡夙、徐逸祥、劉立偉、柯佩吟"
+    },
+    {
+      "論文名稱": "交通事故與興趣點之時空關聯分析 - 以臺中市為例",
+      "會議名稱": "2022第九屆都市計畫與空間資訊研討會",
+      "作者群": "吳鎮添、徐逸祥、江珮歆"
+    },
+    {
+      "論文名稱": "Applying Deep Learning Techniques to Estimate Traffic Flow in Sun Moon Lake Scenic Area",
+      "會議名稱": "2021 Asian Seminar in Regional Science",
+      "作者群": "Ng, Chun Tim Timmy, Chen, Hsin-Hsueh, Shiu, Yi-Shiang*"
+    },
+    {
+      "論文名稱": "Covid-19 Infection Detection Taiwan (CIDT)-A Visual Aid for Epidemic Investors with Spatial Awareness Using BIM",
+      "會議名稱": "The 24th Symposium on Construction Engineering and Management",
+      "作者群": "Shameika R. Prentice*, Yi-Shiang Shiu, Will Y. Lin"
+    },
+    {
+      "論文名稱": "Cropland Mapping with Multispectral UAV Imagery and Convolutional Neural Networks",
+      "會議名稱": "International Conference on Innovative Computing and Management Science 2019",
+      "作者群": "Yi-Shiang Shiu, Jin-Cheng Liu, Yung-Chung Chuang and Feng-Cheng Lin*"
+    },
+    {
+      "論文名稱": "The Best Practice of University and Community Cooperation in Open Source Software Project - TV Station Media Images Query System for Example",
+      "會議名稱": "2018 IEEE 15th International Symposium on Pervasive Systems, Algorithms and Networks",
+      "作者群": "Feng-Cheng Lin, Hsi-Min Chen, Shih-Feng Lin, and Hsing-Yi Chu"
+    },
+    {
+      "論文名稱": "Relationship between landslides and mountain development: examples from the Chanyulan Catchment, Taiwan",
+      "會議名稱": "International Symposium on Remote Sensing 2018",
+      "作者群": "Yung-Chung Chuang, Yi-Shiang Shiu*"
+    },
+    {
+      "論文名稱": "Mapping healing landscape of green space with volunteered geographic information",
+      "會議名稱": "International Symposium on Remote Sensing 2018",
+      "作者群": "Shin-Rung Tsai, Yi-Shiang Shiu"
+    },
+    {
+      "論文名稱": "Developing spatial decision support platform for site selection of social housing",
+      "會議名稱": "International Symposium on Remote Sensing 2018",
+      "作者群": "Shu-Ming Hu, Yi-Shiang Shiu"
+    },
+    {
+      "論文名稱": "The application of landscape indices to study the land cover and land surface temperature in Taichung city",
+      "會議名稱": "International Symposium on Remote Sensing 2018",
+      "作者群": "Ya-Yun Xiao, Yi-Shiang Shiu, Re-Yang Lee"
+    },
+    {
+      "論文名稱": "Exploring neighboring effects on local fine particulate matter in different season with spatial regression",
+      "會議名稱": "International Symposium on Remote Sensing 2018",
+      "作者群": "Yen-Ching Chang, Yi-Shiang Shiu, Feng-Cheng Lin"
+    },
+    {
+      "論文名稱": "Yield estimation of paddy rice based on satellite imagery and local model with geographically weighted regression",
+      "會議名稱": "International Symposium on Remote Sensing 2018",
+      "作者群": "Yi-Shiang Shiu"
+    },
+    {
+      "論文名稱": "The Framework to Apply Machine Learning and Deep Learning to Judge the Authenticity of Disaster Response",
+      "會議名稱": "International Conference on Internet Studies 2018",
+      "作者群": "Feng-Cheng Lin, Yi-Shiang Shiu, and Ya-Ju Chang"
+    },
+    {
+      "論文名稱": "Explorations of Public Participation Approach to the Framing of Resilient Urbanism",
+      "會議名稱": "8th International Conference on Environmental Engineering and Applications",
+      "作者群": "Liu, Wei-Kuang*, Li-Wei Liu, Yi-Shiang Shiu, Yang-Ting Shen, Feng-Cheng Lin, Hua-Hsuan Hsieh"
+    },
+    {
+      "論文名稱": "The study and implementation of linked data mechanism for FORMOSAT-II historical imagery metadata in Taiwan",
+      "會議名稱": "ISRS",
+      "作者群": "Feng-Cheng Lin, Yao-Min Fang, Tien-Yin Chou, Yi-Shiang Shiu, Fang-Rong Hsu"
+    },
+    {
+      "論文名稱": "The Exploration of Everyday Life Geographic Information of Urban ‘Qilou’ Space in Taiwan: Everyday Public Appropriation of Private Lands",
+      "會議名稱": "The 2017 AAG Annual Meeting",
+      "作者群": "Wei-Kuang Liu*, Yang-Ting Shen, Yi-Shiang Shiu, Feng-Cheng Lin, Nian-Sin Liou"
+    },
+    {
+      "論文名稱": "The true faces between landslides and mountain development- integrating geospatial statistics and geodatabase",
+      "會議名稱": "International Conference on Civil and Environmental Engineering (2016)",
+      "作者群": "Yung-Chung Chuang(莊永忠)*, Yi-Shiang Shiu"
+    },
+    {
+      "論文名稱": "Mapping environmental perception with crowdsourced CityProbe mobile app and weights of evidence model",
+      "會議名稱": "The International Symposium of Remote Sensing",
+      "作者群": "Yi-Shiang Shiu, Wei-Kuang Liu, Feng-Cheng Lin, Yang-Ting Shen, Cheng-Yang Shih, Re-Yang Lee, Tsu-Chiang Lei"
+    },
+    {
+      "論文名稱": "Development a risk road assessment model after flood disaster",
+      "會議名稱": "The International Symposium of Remote Sensing",
+      "作者群": "Tsu-Chiang Lei, Yi-Chung Chen, Hshin-Ping Wang, Re-Yang Lee, Yi-Shiang Shiu"
+    },
+    {
+      "論文名稱": "Utilizing the machine learning algorithms and Pleiades imagery to classify various crop planted areas.",
+      "會議名稱": "The International Symposium on Remote Sensing 2016",
+      "作者群": "Re-Yang Lee*, Chia-Yi Tsai, Yi-Shiang Shiu, Tsu-Chiang Lei"
+    },
+    {
+      "論文名稱": "福衛二號歷史影像詮釋資料語意機制之研究",
+      "會議名稱": "2015遙測衛星前瞻技術研討會暨福衛五號使用者說明會",
+      "作者群": "林峰正、許千文、陳伯傳、徐逸祥、陳怡廷"
+    },
+    {
+      "論文名稱": "The reconstruction of urban cultural landscape and the change analysis of urban landscape and texture—A case study of the old downtown in Central District, Taichung City, Taiwan",
+      "會議名稱": "The 36th Asian Conference on Remote Sensing",
+      "作者群": "Yi-Shiang Shiu*, Tsu-Chiang Lei, Re-Yang Lee, Feng-Cheng Lin and Tzu-How Chu"
+    },
+    {
+      "論文名稱": "Development of a risk evaluation model for rainfall-induced flood hazard based on hydrologic frequency analysis and fragility curves.",
+      "會議名稱": "The 36th Asian Conference on Remote Sensing",
+      "作者群": "Tsu-Chiang Lei*, Chun-Ping Chin, Shien Tsung Chen, Yi-Min Huang, You-Da Jhong, Re-Yang Lee and Yi-Shiang Shiu"
+    },
+    {
+      "論文名稱": "A study of spectral feature extraction methods for crops classification base on worldiew-2 image",
+      "會議名稱": "The 36th Asian Conference on Remote Sensing",
+      "作者群": "Shin-Ping Wang*, Tsu-Chiang Lei, Tzu-How Chu, Yi-Shiang Shiu and Re-Yang Lee"
+    },
+    {
+      "論文名稱": "The impact of human activities on the heat island effect - A case study of annual activities",
+      "會議名稱": "The 36th Asian Conference on Remote Sensing",
+      "作者群": "Ren-De Chiu, Yi-Shiang Shiu, Re-Yang Lee, Tsu-Chiang Lei"
+    },
+    {
+      "論文名稱": "Comparisons of using random forest and maximum likelihood classifiers with WorldView-2 imagery for classifying crop types",
+      "會議名稱": "The 36th Asian Conference on Remote Sensing",
+      "作者群": "Re-Yang Lee, Deng-Yuan Ou, Yi-Shiang Shiu and Tsu-Chiang Lei"
+    },
+    {
+      "論文名稱": "以自願性地理資訊挖掘都市冷點—以臺中市閒置空間探測為例",
+      "會議名稱": "2015台灣地理資訊學會年會暨學術研討會",
+      "作者群": "徐逸祥*、沈揚庭、劉為光"
+    },
+    {
+      "論文名稱": "民眾參與閒置空間活化之智慧管理機制建構",
+      "會議名稱": "2015台灣地理資訊學會年會暨學術研討會",
+      "作者群": "劉為光*、徐逸祥、沈揚庭"
+    },
+    {
+      "論文名稱": "智慧城市資訊視覺化互動決策平台",
+      "會議名稱": "2015台灣地理資訊學會年會暨學術研討會",
+      "作者群": "沈揚庭*、劉為光、徐逸祥"
+    },
+    {
+      "論文名稱": "應用Landsat影像探討人為活動對熱島效應之影響--以台中市新社區為例",
+      "會議名稱": "2015 第二屆都市計畫與空間資訊研討會",
+      "作者群": "邱仁德、徐逸祥"
+    },
+    {
+      "論文名稱": "Uncertainty estimation of image classification in haze-contaminated area through weights of evidence model",
+      "會議名稱": "The 35th Asian Conference on Remote Sensing",
+      "作者群": "Yi-Shiang Shiu, Meng-Lung Lin, Yu-Chi Kao, Yung-Chung Chuang(莊永忠)*"
+    },
+    {
+      "論文名稱": "Training site selection based on uncertainty estimation for optical satellite image classification",
+      "會議名稱": "The 35th Asian Conference on Remote Sensing",
+      "作者群": "Yi-Shiang Shiu and Chun-Jia Huang"
+    },
+    {
+      "論文名稱": "Development of a Tourism Risk Assessment Model Based on the Spatial Information Analysis of Tourist Behavior—A Case of the Mapping of Potential Congestion Area in the Pedestrian Scenic Area",
+      "會議名稱": "International Conference on Business and Social Sciences",
+      "作者群": "Yi-Shiang Shiu, Chiung-Hsu Liu, Tzu-How Chu, Meng-Lung Lin, Yung-Chung Chuang(莊永忠)"
+    },
+    {
+      "論文名稱": "Detecting Cloud-Contaminated Area in Landsat-5 TM Imagery with Visible Bands and Transmission",
+      "會議名稱": "International Symposium on Remote Sensing 2013",
+      "作者群": "Shiu, Y. S.*, Lei, T. C., Li, C. Y., Chu, T. H., Chuang, Y. C.(莊永忠), and Kuo, Y. M."
+    },
+    {
+      "論文名稱": "Development of an Empirical Model for Rainfall-Induced Landslide Hazard Assessment",
+      "會議名稱": "International Symposium on Remote Sensing 2013",
+      "作者群": "Lei, T. C.*, Lin, K. T., Lee, B. J., Huang, Y. M., Shiu, Y. S., Chuang, Y. C.(莊永忠), and Hsieh, M. H."
+    },
+    {
+      "論文名稱": "Development and landslides: examples from the Shihmen Reservoir Catchment and Chanyulan Catchment, Taiwan",
+      "會議名稱": "International Symposium on Remote Sensing 2013",
+      "作者群": "Chuang, Y. C.(莊永忠)*, Lei, T. C., and Shiu, Y. S."
+    },
+    {
+      "論文名稱": "Risk assessment mapping of waste dumping through a GIS-based certainty factor model combining remotely sensed spectral unmixing model with spatial analysis",
+      "會議名稱": "1st international conference on environmental informatics",
+      "作者群": "Chu, T. H., Lin, M. L., and Shiu, Y. S."
+    },
+    {
+      "論文名稱": "Spatial Drought Assessment Using Remote Sensing and GIS techniques in Northwest region of Liaoning, China",
+      "會議名稱": "1st international conference on environmental informatics",
+      "作者群": "Sun, F. J., Lin, M. L., Perng, C. H., Wang, Q. B., Shiu, Y. S., and Liu, C. H."
+    },
+    {
+      "論文名稱": "應用遙測技術於敏感性作物生產調查—以鳳梨和香蕉兩種作物為例",
+      "會議名稱": "2011年臺灣地理資訊學會年會暨學術研討會",
+      "作者群": "黃昭雄、徐逸祥、樊先達、朱子豪"
+    },
+    {
+      "論文名稱": "海岸地區環境變遷與地層下陷之分析—以臺灣雲林地區為例",
+      "會議名稱": "第十二屆海峽兩岸地貌與環境災害學術研討會",
+      "作者群": "尚榮康、徐逸祥、馬國宸、張長義"
+    },
+    {
+      "論文名稱": "Spatial filtering analysis for quick drought assessment using modis images to detect drought affected areas",
+      "會議名稱": "2011 IEEE International Geoscience & Remote Sensing Symposium",
+      "作者群": "Lin, M. L., Sun, F., Wang, Q., Chen, C. W., Shiu, Y. S., and Chu, T. H."
+    },
+    {
+      "論文名稱": "Mapping and recovering cloud-contaminated area in multispectral satellite imagery with visible and near-infrared bands",
+      "會議名稱": "2011 IEEE International Geoscience & Remote Sensing Symposium",
+      "作者群": "Shiu, Y. S., Lin, M. L., and Chu, T. H."
+    },
+    {
+      "論文名稱": "Integrating remote sensing, spatial analysis and certainty factor model for waste dumping risk assessment",
+      "會議名稱": "2011 IEEE International Geoscience & Remote Sensing Symposium",
+      "作者群": "Shiu, Y. S., Lin, M. L., Chen, Y. C., Fan, S. T., Huang, C. H., and Chu, T. H."
+    },
+    {
+      "論文名稱": "Using geographically weighted regression to explore the spatially varying relationship between land subsidence and groundwater level variations: A case study in the Choshuichi alluvial fan, Taiwan",
+      "會議名稱": "2011 1st IEEE International Conference on Spatial Data Mining and Geographical Knowledge Services",
+      "作者群": "Shang, R. K., Shiu, Y. S., and Ma, K. C."
+    },
+    {
+      "論文名稱": "Mapping and recovering cloud-contaminated area in optical satellite imagery",
+      "會議名稱": "8th Annual GIS Day @ KU",
+      "作者群": "Shiu, Y. S."
+    },
+    {
+      "論文名稱": "福衛二號影像在農林漁牧上的應用—以敏感性作物清查為例",
+      "會議名稱": "福衛二號五週年成果發表會",
+      "作者群": "黃昭雄、樊先達、徐逸祥、朱子豪、張家豪"
+    },
+    {
+      "論文名稱": "Mapping paddy rice agriculture using multi-temporal FORMOSAT-2 images",
+      "會議名稱": "International workshop on earth observation small satellites for remote sensing application",
+      "作者群": "Shiu, Y. S., Chiang, S. H., Chu, T. H. and Chang, K. T."
+    }
+  ],
+  "book": [],
+  "patent": [],
+  "most": [
+    {
+      "name": "潛在未使用之農地判釋－以桃園市（除復興區外）為例",
+      "schoolYear": "113"
+    },
+    {
+      "name": "時間空間影像融合方法應用於昆蟲棲地監測與分布推估",
+      "schoolYear": "112"
+    },
+    {
+      "name": "(中央)數位孿生基礎建設技術及多維度跨領域模式之整合型研究(2/2)",
+      "schoolYear": "112"
+    },
+    {
+      "name": "基於鄉村區整體規劃原則之農業發展用地變遷分析與鄉村型態分類:結合離散時間空間統計方法與民眾參與式製圖",
+      "schoolYear": "112"
+    },
+    {
+      "name": "(中央)數位孿生基礎建設技術及多維度跨領域模式之整合型研究(1/2)",
+      "schoolYear": "111"
+    },
+    {
+      "name": "時間空間影像融合方法應用於臺東地區非颱風期焚風監測指標研發與預警",
+      "schoolYear": "111"
+    },
+    {
+      "name": "整合時間序列分析與深度學習法於都市更新可能發生位置之預測(Ⅱ)-透過都市更新基本單元調整與代理人基模型進行模式優化",
+      "schoolYear": "111"
+    },
+    {
+      "name": "應用深度學習建置自動化模型於農地工廠判釋",
+      "schoolYear": "111"
+    },
+    {
+      "name": "雙11購物節前後電子商務對空氣品質影響",
+      "schoolYear": "110"
+    },
+    {
+      "name": "整合時間序列分析與深度學習法於都市更新可能發生位置之預測",
+      "schoolYear": "109"
+    },
+    {
+      "name": "應用深度學習影像辨識技術估算景區車流與人流量—以日月潭風景區為例",
+      "schoolYear": "109"
+    },
+    {
+      "name": "基於遙測影像與機器學習法之土砂災害區植生復育成效定量評估",
+      "schoolYear": "108"
+    },
+    {
+      "name": "車禍發生與都市地表溫度之相關性探討",
+      "schoolYear": "108"
+    },
+    {
+      "name": "應用深度學習法與卷積神經網絡影像處理輔助都市保安林地植群型與違規使用判釋",
+      "schoolYear": "107"
+    },
+    {
+      "name": "(3/3)韌性宜居智慧城市:以適地性自願地理資訊結合社群媒體巨量資料建構智慧市民參與下的韌性城市宜居生活指標－韌性宜居城市群眾共識之時空資料視覺化分析(子計畫二)",
+      "schoolYear": "107"
+    },
+    {
+      "name": "利用空拍機分析遊客空間行為模式-以2018臺中世界花卉博覽會為例",
+      "schoolYear": "107"
+    },
+    {
+      "name": "(3/3)基於CDIO理念的跨領域終端課程改造與實踐(想像力與創新思維融入工程教育人才培育與研究)",
+      "schoolYear": "106"
+    },
+    {
+      "name": "(2/3)韌性宜居智慧城市:以適地性自願地理資訊結合社群媒體巨量資料建構智慧市民參與下的韌性城市宜居生活指標－韌性宜居城市群眾共識之時空資料視覺化分析(子計畫二)",
+      "schoolYear": "106"
+    },
+    {
+      "name": "(2/3)基於CDIO理念的跨領域終端課程改造與實踐(想像力與創新思維融入工程教育人才培育與研究)",
+      "schoolYear": "105"
+    },
+    {
+      "name": "臺灣都市騎樓日常使用之地理資訊探討：以臺中市舊城為例",
+      "schoolYear": "105"
+    },
+    {
+      "name": "整合GIS與BIM技術於歷史建築保存典藏的應用與修復防災輔助系統的開發",
+      "schoolYear": "105"
+    },
+    {
+      "name": "森林砍伐和坡地農作歷史記錄與現今山坡地集水區坡地災害之關聯性分析-整合數位典藏圖資、參與式製圖與多期Logit迴歸模式",
+      "schoolYear": "105"
+    },
+    {
+      "name": "(1/3)韌性宜居智慧城市: 以適地性自願地理資訊結合社群媒體巨量資料建構智慧市民參與下的韌性城市宜居生活指標－韌性宜居城市群眾共識之時空資料視覺化分析(子計畫二)",
+      "schoolYear": "105"
+    },
+    {
+      "name": "ISIL恐怖攻擊熱點預測-以台北市為例",
+      "schoolYear": "105"
+    },
+    {
+      "name": "運用機器學習演算法於WorldView-2高解析度影像農作物類別判釋之研究",
+      "schoolYear": "104"
+    },
+    {
+      "name": "都市探針: 以資通訊科技彙整群眾外包式環境評量用以建構智慧城市空間指認與加值運用平台之研究",
+      "schoolYear": "104"
+    },
+    {
+      "name": "大臺北地區量販店聚集因素之探討-以內湖與中和區為例",
+      "schoolYear": "104"
+    },
+    {
+      "name": "以Google Maps 結合預約系統之智慧型停車引導－以台北市為例",
+      "schoolYear": "103"
+    }
+  ],
+  "tech": [],
+  "induAca": [
+    "113年度國家溫室氣體排放清冊土地使用與變遷碳匯計算與國土規劃策略應用計畫委託專業服務案 (2024-10 to 2025-12)",
+    "大專院校開設都市更新學分學程 (2024-08 to 2026-07)",
+    "112年度應用高光譜影像於林型自動化分類系統開發與建置 (2023-03 to 2023-12)",
+    "運用光達點雲及高光譜資料於林型樹種分類與蓄積量推估模式建置 (2021-12 to 2022-12)",
+    "「110年度臺中市客庄創生環境營造計畫輔導團」委託專業服務勞務採購案 (2021-08 to 2022-07)",
+    "110年度運用智慧遙測技術調查花蓮縣作物種植面積計畫委託專業服務勞務採購 (2021-05 to 2021-12)",
+    "多元遙測與空間資訊整合應用 (2021-03 to 2024-12)",
+    "嘉義市國土功能分區劃設行政作業及民眾宣導服務案 (2021-01 to 2022-01)",
+    "以無人機影像判釋敏感性作物(鳳梨)推估單位面積產量試驗計畫 (2021-01 to 2021-12)",
+    "屏東縣《文化資產資料數位整合計畫》 (2020-12 to 2021-08)",
+    "109-110年連江縣文化資產數位整合計畫 (2020-10 to 2021-10)",
+    "重要聚落建築群望安花宅聚落區域保存環境模擬與對策分析 (2020-06 to 2021-01)",
+    "109年度臺中市客家文化生活及產業環境營造計畫輔導團 (2020-04 to 2021-04)",
+    "走讀津沙聚落建築群計畫 (2020-01 to 2020-12)",
+    "嘉義市市中心之發展策略規劃研究案：木造建築潛力點調查及整建計畫 (2020-01 to 2021-01)",
+    "108年嘉南地區里山倡議繪本暨周邊商品開發 (2019-06 to 2020-03)",
+    "南投縣宗教文化園區可行性評估與規劃委託技術服務 (2018-12 to 2019-06)",
+    "臺中市客家文化生活及產業環境營造計畫輔導團 (2018-11 to 2019-12)",
+    "再造歷史現場專案計畫-專業分區輔導團(眷村組) (2018-06 to 2019-12)",
+    "南投縣聚落建築群、史蹟普查計畫 (2018-02 to 2019-04)",
+    "107年教育部VR/AR 教學應用教材開發與教學實施計畫「臺灣海岸環境變遷擴增實境教材」 (2018-01 to 2018-12)",
+    "以無人機及航遙測技術輔助水稻勘損及作物調查試驗計畫 (2018-01 to 2018-12)",
+    "106-107 年臺中市客家文化生活及產業環境營造計畫輔導團 (2017-11 to 2019-02)",
+    "臺中市客家文化生活及產業環境營造計畫輔導團 (2016-09 to 2017-09)",
+    "105年度南投縣客家文化生活環境營造計畫地方輔導團 (2016-04 to 2017-03)",
+    "104年度臺中市環境景觀總顧問執行計畫 (2015-08 to 2016-08)",
+    "臺中市客家文化生活環境營造計畫輔導團 (2014-12 to 2015-12)",
+    "103年度「高光譜技術應用於農業研究」 (2014-02 to 2014-12)"
+  ],
+  "perform": [],
+  "reward": [
+    "逢甲大學論文著作獎勵傑出獎 (113, 2024-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優等獎 (112, 2023-11) - 逢甲大學",
+    "111學年度教學績優獎 (111, 2022-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (110, 2021-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (109, 2020-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (108, 2019-11) - 逢甲大學",
+    "107學年度教學績優獎 (107, 2018-11) - 逢甲大學",
+    "107年度科技部補助大專校院研究獎勵 (107, 2018-08) - 逢甲大學",
+    "106學年度教學績優獎 (106, 2017-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (106, 2017-11) - 逢甲大學"
+  ],
+  "speech": [
+    {
+      "演講題目": "應用光學及雷達影像於水稻產量推估",
+      "邀請單位": "衛星科學工作坊",
+      "演講日期": "2020-01"
+    },
+    {
+      "演講題目": "GIS在景觀規劃之應用",
+      "邀請單位": "勤益科技大學景觀系",
+      "演講日期": "2019-11"
+    },
+    {
+      "演講題目": "Yield Estimation of Paddy Rice Using Local/Global Regression Models",
+      "邀請單位": "成功大學測量及空間資訊學系",
+      "演講日期": "2018-08"
+    },
+    {
+      "演講題目": "多尺度多源遙測資料於輔助水稻生產管理及坵塊更新之研究",
+      "邀請單位": "行政院農業委員會農糧署",
+      "演講日期": "2017-12"
+    },
+    {
+      "演講題目": "教育訓練—IDL程式開發",
+      "邀請單位": "行政院農業委員會農試所",
+      "演講日期": "2014-12"
+    },
+    {
+      "演講題目": "Remote sensing—a panacea for crop monitoring? The dilemma and breakthrough of crop monitoring with remote sensing techniques",
+      "邀請單位": "成功大學測量及空間資訊學系",
+      "演講日期": "2014-11"
+    },
+    {
+      "演講題目": "空間資訊科學在城鄉規劃的再發現",
+      "邀請單位": "哈爾濱工業大學",
+      "演講日期": "2014-04"
+    },
+    {
+      "演講題目": "地理資訊科學與建築資訊模型整合發展趨勢探討",
+      "邀請單位": "逢甲大學",
+      "演講日期": "2013-11"
+    },
+    {
+      "演講題目": "從數值地形模型到環境心理學",
+      "邀請單位": "明志科技大學",
+      "演講日期": "2012-12"
+    },
+    {
+      "演講題目": "從DTM創造無限可能",
+      "邀請單位": "逢甲大學",
+      "演講日期": "2012-12"
+    },
+    {
+      "演講題目": "地理資訊科學在環境心理學中的應用",
+      "邀請單位": "明志科技大學",
+      "演講日期": "2012-09"
+    },
+    {
+      "演講題目": "遙測、地理資訊科學與環境教育",
+      "邀請單位": "長庚科技大學",
+      "演講日期": "2012-09"
+    }
+  ],
+  "material": [],
+  "tal": []
+}

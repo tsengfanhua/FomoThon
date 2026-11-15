@@ -1,0 +1,1301 @@
+{
+  "teacherId": "T81199",
+  "name": "陳婉淑",
+  "mainUnit": "商學院",
+  "detailUnit": "統計學系",
+  "skill": [
+    "時間數列分析Time Series Analysis",
+    "統計計算Statistical Computing",
+    "貝氏分析Bayesian MCMC Method",
+    "預測Forecasting"
+  ],
+  "edu": [
+    "國立中央大學 統計研究所 博士",
+    "美國加州大學河濱分校 統計研究所 碩士",
+    "逢甲大學 統計學系 學士"
+  ],
+  "fcuExp": [
+    "統計學系 系主任",
+    "統計學系 系主任",
+    "美國聖荷西州立大學商學大數據分析雙學士學位學程 主任",
+    "美國聖荷西州立大學商學大數據分析雙學士學位學程 主任",
+    "國際科技與管理學院 副院長",
+    "國際經營管理碩士學位學程 主任",
+    "統計學系 副教授",
+    "統計學系 副教授",
+    "統計學系 副教授",
+    "統計學系 教授",
+    "統計學系 教授",
+    "統計學系 教授",
+    "逢甲大學 特聘教授",
+    "統計學系 教授",
+    "統計學系 教授",
+    "統計學系 教授",
+    "統計學系 教授",
+    "逢甲大學 特聘教授",
+    "統計學系 講座教授",
+    "統計學系 教授"
+  ],
+  "currjob": [],
+  "otherExp": [],
+  "journal": [
+    {
+      "論文名稱": "Tail risk forecasting with semi-parametric regression models by incorporating overnight information",
+      "期刊名稱": "Journal of Forecasting (SSCI)",
+      "作者群": "Chen*, C.W.S., Koike, T., and Shau, W.H."
+    },
+    {
+      "論文名稱": "Spatial-temporal hurdle model vs. spatial zero-inflated GARCH model: analysis of weekly dengue fever cases",
+      "期刊名稱": "Stochastic Environmental Research and Risk Assessment (SCIE)",
+      "作者群": "Chen*, C.W.S. and Chen, C.S."
+    },
+    {
+      "論文名稱": "Improving quantile forecasts via realized double hysteretic GARCH model in stock markets",
+      "期刊名稱": "Computational Economics, (SSCI)",
+      "作者群": "Chen*, C.W.S. and Chien, C.T.S."
+    },
+    {
+      "論文名稱": "Bayesian Forecasting of Bounded Poisson Distributed Time Series",
+      "期刊名稱": "Entropy (SCIE)",
+      "作者群": "F.-C. Liu*, C.W.S. Chen and C.-Y. Ho"
+    },
+    {
+      "論文名稱": "Bayesian estimation of realized GARCH-type models with application to financial tail risk management",
+      "期刊名稱": "Econometrics and Statistics (Scopus/ESCI)",
+      "作者群": "Chen*, C.W.S., Watanabe, T., and Lin, E.M.H."
+    },
+    {
+      "論文名稱": "Bayesian modeling of spatial integer-valued time series",
+      "期刊名稱": "Computational Statistics and Data Analysis (SCIE)",
+      "作者群": "Chen*, C.W.S., Chen, C.S., and Hsiung, M.H."
+    },
+    {
+      "論文名稱": "Integer-valued transfer function models for counts that show zero inflation",
+      "期刊名稱": "Statistics and Probability Letters (SCIE)",
+      "作者群": "Chen*, C.W.S., Liu, F.C., and Pingal, A.C."
+    },
+    {
+      "論文名稱": "Quantile three-factor model with heteroskedasticity, skewness, and leptokurtosis",
+      "期刊名稱": "Computational Statistics and Data Analysis (SCIE)",
+      "作者群": "Wang, K.Y.K., Chen*, C.W.S., and So, M.K.P."
+    },
+    {
+      "論文名稱": "Tail risk forecasting of realized volatility CAViaR models",
+      "期刊名稱": "Finance Research Letters (SSCI)",
+      "作者群": "Chen*, C.W.S., Hsu, H.Y., and Watanabe, T."
+    },
+    {
+      "論文名稱": "Discussion of “Multivariate Dynamic Modeling for Bayesian Forecasting of Business Revenue”.",
+      "期刊名稱": "Applied Stochastic Models in Business and Industry (SCIE)",
+      "作者群": "So, M.K.P. and Chen*, C.W.S."
+    },
+    {
+      "論文名稱": "Assessing government policies’ impact on the COVID-19 pandemic and elderly deaths in East Asia",
+      "期刊名稱": "Epidemiology and Infection (SCIE)",
+      "作者群": "Chen*, C.W.S., So, M.K.P., and Liu, F.C."
+    },
+    {
+      "論文名稱": "Bayesian quantile forecasting via the realized hysteretic GARCH model",
+      "期刊名稱": "Journal of Forecasting (SSCI)",
+      "作者群": "Chen*, C.W.S., Lin, E.M.H., and Huang, T.F.J."
+    },
+    {
+      "論文名稱": "Public opinion concerning governments’ response to the COVID-19 pandemic",
+      "期刊名稱": "PLOS ONE (SCIE)",
+      "作者群": "Chen*, C.W.S. and Fan, T.H."
+    },
+    {
+      "論文名稱": "Bayesian modelling of integer-valued transfer function models",
+      "期刊名稱": "Statistical Modelling (SCIE)",
+      "作者群": "Pingal, A.C. and Chen*, C.W.S."
+    },
+    {
+      "論文名稱": "Ordinal time series forecasting of the air quality index",
+      "期刊名稱": "Entropy (SCIE)",
+      "作者群": "Chen*, C.W.S. and Chiu, L.M."
+    },
+    {
+      "論文名稱": "Bayesian Inference of Nonlinear Hysteretic Integer-valued GARCH Models for Disease Counts",
+      "期刊名稱": "Computational Statistics (SCIE)",
+      "作者群": "Chen*, C.W.S., Lee, S., and Khamthong, K."
+    },
+    {
+      "論文名稱": "Multi-asset pair-trading strategy: a statistical learning approach",
+      "期刊名稱": "The North American Journal of Economics and Finance (SSCI)",
+      "作者群": "Lin, T.Y., Chen*, C.W.S., and Syu, F.Y."
+    },
+    {
+      "論文名稱": "Bayesian non-linear quantile effects on modelling realized kernels,",
+      "期刊名稱": "International Journal of Finance and Economics (SSCI)",
+      "作者群": "Dong, M.C. (Ph.D. st), Chen*, C.W.S., and Asai, M."
+    },
+    {
+      "論文名稱": "What Factors Drive the Satisfaction of Citizens on Governments’ Responses to COVID-19?",
+      "期刊名稱": "International Journal of Infectious Diseases (SCIE)",
+      "作者群": "Cathy W.S. Chen*, Sangyeol Lee,  Manh Cuong Dong (Postdoc), and Masanobu Taniguchi"
+    },
+    {
+      "論文名稱": "Bayesian modelling of nonlinear negative binomial integer-valued GARCHX models",
+      "期刊名稱": "Statistical Modelling (SCIE)",
+      "作者群": "Chen*, C.W.S. and Khamthong, K. (Ph.D st)"
+    },
+    {
+      "論文名稱": "Bayesian inference of multiple structural change models with asymmetric GARCH errors",
+      "期刊名稱": "Statistical Methods and Applications (SCIE)",
+      "作者群": "Chen*, C.W.S. and Lee, B. (st)"
+    },
+    {
+      "論文名稱": "Adaptive log-linear zero-inflated generalized Poisson autoregressive model with applications to crime counts",
+      "期刊名稱": "Annals of Applied Statistics (SCIE)",
+      "作者群": "Xu, X., Chen, Y., Chen*, C.W.S., Lin, X."
+    },
+    {
+      "論文名稱": "On a bivariate hysteretic autoregressive model with conditional asymmetry in correlations",
+      "期刊名稱": "Computational Economics (SSCI)",
+      "作者群": "Chen*, C.W.S., Than-Thi, H. (Ph.D. st), and Asai, M."
+    },
+    {
+      "論文名稱": "Quantile forecasting based on a bivariate hysteretic autoregressive model with GARCH errors and time ‐varying correlations",
+      "期刊名稱": "Applied Stochastic Models in Business and Industry (SCIE)",
+      "作者群": "Chen*, C.W.S., Than-Thi, H. (Ph.D. st), So, M.K.P., and Sriboonchitta, S."
+    },
+    {
+      "論文名稱": "Markov switching integer-valued generalized auto-regressive conditional heteroscedastic models for dengue counts",
+      "期刊名稱": "Journal of the Royal of Statistical Society Series C – Applied Statistics, (SCIE)",
+      "作者群": "Chen*, C.W.S., Khamthong, K.(Ph.D. st), and Lee, S."
+    },
+    {
+      "論文名稱": "Bayesian modeling and forecasting of Value-at-Risk via threshold realized volatility",
+      "期刊名稱": "Applied Stochastic Models in Business and Industry (SCIE)",
+      "作者群": "Chen*, C.W.S. and Watanabe, T."
+    },
+    {
+      "論文名稱": "Incorporating volatility on tolerance intervals for pair-trading strategy and backtesting",
+      "期刊名稱": "Journal of Risk Model Validation (SSCI)",
+      "作者群": "Chen*, C.W.S., Lin, T.Y., Huang, T.Y."
+    },
+    {
+      "論文名稱": "How Strong is the Relationship among Gold and USD Exchange Rates? Analytics based on Structural Change Models,",
+      "期刊名稱": "Computational Economics (SSCI,ECONLIT)",
+      "作者群": "Dong, M.C. (Ph.D. st), Chen*, C.W.S., Lee, S., and Sriboonchitta, S."
+    },
+    {
+      "論文名稱": "On hysteretic vector autoregressive model with applications,",
+      "期刊名稱": "Journal of Statistical Computation and Simulation (SCIE)",
+      "作者群": "Chen*, C.W.S., Than-Thi, H. (Ph.D. st), and So, M.K.P."
+    },
+    {
+      "論文名稱": "Predictive analytics of Taiwan inbound tourism from ASEAN 5",
+      "期刊名稱": "International Journal of Tourism Sciences (Charles Goeldner's Select List of Tourism Journals an)",
+      "作者群": "Chen*, C.W.S., M.C. Cheng, and Sriboonchitta, S."
+    },
+    {
+      "論文名稱": "Predicting failure risk using financial ratios: Quantile hazard model approach",
+      "期刊名稱": "The North American Journal of Economics and Finance (SSCI)",
+      "作者群": "Dong, M.C. (Ph.D. st), Tian, S., and Chen*, C.W.S."
+    },
+    {
+      "論文名稱": "Causality test of ambient fine particles and human influenza in Taiwan: Age group-specific disparity and geographic heterogeneity",
+      "期刊名稱": "Environment International (SCIE)",
+      "作者群": "Chen, C.W.S., Hsieh, Y.H., Su, H.C., and Wu, J.J."
+    },
+    {
+      "論文名稱": "On Fisher's dispersion test for integer-valued autoregressive Poisson models with applications",
+      "期刊名稱": "Communications in Statistics - Theory and Methods (SCIE)",
+      "作者群": "Lee, S., Park, S., and Chen*, C.W.S."
+    },
+    {
+      "論文名稱": "Bayesian causality test for integer-valued time series models with applications to climate and crime data",
+      "期刊名稱": "Journal of the Royal of Statistical Society Series C – Applied Statistics (SCIE)",
+      "作者群": "Chen*, C.W.S. and Lee, S."
+    },
+    {
+      "論文名稱": "Hysteretic Poisson INGARCH model for integer-valued time series,",
+      "期刊名稱": "Statistical Modelling (SCIE)",
+      "作者群": "Truong, B.C. (Ph.D. st), Chen*, C.W.S., and Sriboonchitta, S."
+    },
+    {
+      "論文名稱": "Discriminant analysis by quantile regression with application on the climate change problem",
+      "期刊名稱": "Journal of Statistical Planning and Inference, (SCIE)",
+      "作者群": "Chen*, C.W.S., Hsu, Y.T., and Taniguchi, M."
+    },
+    {
+      "論文名稱": "Bayesian forecasting of Value-at-Risk based on variant smooth transition heteroskedastic models",
+      "期刊名稱": "Statistics and Its Interface (SCIE)",
+      "作者群": "Chen*, C.W.S., Weng, M.M.C., and Watanabe, T."
+    },
+    {
+      "論文名稱": "Nonparametric tolerance limits for pair trading",
+      "期刊名稱": "Finance Research Letters (SSCI)",
+      "作者群": "Chen*, C.W.S. and Lin, T.Y."
+    },
+    {
+      "論文名稱": "Semi-parametric expected shortfall forecasting in financial markets",
+      "期刊名稱": "Journal of Statistical Computation and Simulation (SCIE)",
+      "作者群": "Gerlach, R. and Chen*, C.W.S."
+    },
+    {
+      "論文名稱": "On asymmetric market model with heteroskedasticity and quantile regression",
+      "期刊名稱": "Computational Economics (SSCI)",
+      "作者群": "Chen*, C.W.S., Li, M., Nguyen, N.T.H., and Sriboonchitta, S."
+    },
+    {
+      "論文名稱": "Pair trading based on quantile forecasting of smooth transition GARCH models",
+      "期刊名稱": "The North American Journal of Economics and Finance (SSCI)",
+      "作者群": "Chen*, C.W.S., Wang, Z., Sriboonchitta, S., and Lee, S."
+    },
+    {
+      "論文名稱": "Bayesian assessment of dynamic quantile forecasts",
+      "期刊名稱": "Journal of Forecasting (SSCI)",
+      "作者群": "Gerlach, R., Chen*, C.W.S., and Lin, E.M.H."
+    },
+    {
+      "論文名稱": "Model selection of a switching mechanism for financial time series",
+      "期刊名稱": "Applied Stochastic Models in Business and Industry (SCIE)",
+      "作者群": "Truong, B.C., Chen*, C.W.S., and So, M.K.P."
+    },
+    {
+      "論文名稱": "On double hysteretic heteroskedastic model",
+      "期刊名稱": "Journal of Statistical Computation and Simulation (SCIE)",
+      "作者群": "Chen*, C.W.S. and Truong, B.C."
+    },
+    {
+      "論文名稱": "Autoregressive conditional negative binomial model applied to over-dispersed time series of counts",
+      "期刊名稱": "Statistical Methodology (SCIE)",
+      "作者群": "Chen*, C.W.S., So, M.K.P., Li, J., and Sriboonchitta, S."
+    },
+    {
+      "論文名稱": "Generalized autoregressive conditional Poisson models for time series of counts",
+      "期刊名稱": "Computational Statistics & Data Analysis (SCIE)",
+      "作者群": "Chen*, C.W.S. and Lee, S."
+    },
+    {
+      "論文名稱": "Parameter change test for zero-inflated generalized\r\nPoisson autoregressive models",
+      "期刊名稱": "Statistics (SCIE)",
+      "作者群": "Lee, S., Lee, Y., and Chen, C.W.S."
+    },
+    {
+      "論文名稱": "A local unit root test in mean for financial time series",
+      "期刊名稱": "Journal of Statistical Computation and Simulation (SCIE)",
+      "作者群": "Chen*, C.W.S. and Lee, S."
+    },
+    {
+      "論文名稱": "Local non-stationarity test in mean for Markov switching GARCH models: an approximate Bayesian approach",
+      "期刊名稱": "Computational Statistics (SCIE)",
+      "作者群": "Chen*, C.W.S., Lee, S., and Chen, S.Y."
+    },
+    {
+      "論文名稱": "Evidence of stock returns and abnormal trading volume: a threshold quantile regression approach",
+      "期刊名稱": "Japanese Economic Review (SSCI)",
+      "作者群": "Chen*, C.W.S., So, M.K.P., and Chiang, T.C."
+    },
+    {
+      "論文名稱": "Bayesian expected shortfall forecasting incorporating the intra-day range",
+      "期刊名稱": "Journal of Financial Econometrics (SSCI)",
+      "作者群": "Gerlach, R. and Chen*, C.W.S."
+    },
+    {
+      "論文名稱": "Bayesian estimation of smoothly mixing time-varying parameter GARCH models",
+      "期刊名稱": "Computational Statistics & Data Analysis (SCIE)",
+      "作者群": "Chen*, C.W.S., Gerlach, R., and Lin, E.M.H."
+    },
+    {
+      "論文名稱": "Bivariate asymmetric GARCH models with heavy tails and dynamic conditional correlations",
+      "期刊名稱": "Quantitative Finance (SSCI)",
+      "作者群": "Choy, S.T.B., Chen*, C.W.S., and Lin, E.M.H."
+    },
+    {
+      "論文名稱": "Threshold variable selection of asymmetric stochastic volatility models",
+      "期刊名稱": "Computational Statistics (SCIE)",
+      "作者群": "Chen*, C.W.S., Liu, F.C., and So, M.K.P."
+    },
+    {
+      "論文名稱": "Bayesian unit root test in double threshold heteroskedastic models",
+      "期刊名稱": "Computational Economics (SSCI)",
+      "作者群": "Chen*, C.W.S., Chen, S. Y., and Lee, S."
+    },
+    {
+      "論文名稱": "Semi-parametric quantile estimation for double threshold autoregressive models with exogenous variables and heteroskedasticity",
+      "期刊名稱": "Computational Statistics (SCIE)",
+      "作者群": "Chen* C.W.S. and Gerlach, R."
+    },
+    {
+      "論文名稱": "Bayesian variable selection in quantile regression",
+      "期刊名稱": "Statistics and Its Interface (SCIE)",
+      "作者群": "Yu, K., Chen*, C.W.S., Reed, C. and Dunson, D.B."
+    },
+    {
+      "論文名稱": "A Bayesian forecasting for financial risk management, pre and post the global financial crisis",
+      "期刊名稱": "Journal of Forecasting (SSCI)",
+      "作者群": "Chen*, C. W. S., Gerlach, R., Lin, E.M.H., and Lee, W.C.W."
+    },
+    {
+      "論文名稱": "A Bayesian conditional autoregressive geometric process model for range data",
+      "期刊名稱": "Computational Statistics & Data Analysis (SCIE)",
+      "作者群": "Chan*, J.S.K., Lam, C.P.Y., Yu, P.L.H., Choy, S.T.B. and Chen, C.W.S."
+    },
+    {
+      "論文名稱": "HIV prevalence and underreporting of men who have sex with men in Beijing",
+      "期刊名稱": "International Journal STD & AIDS (SCIE)",
+      "作者群": "Hsieh*, Y.-H., Ruan, Y., Chen, C.W.S., Shi, W., Li, D., Luo, F., and Shao, Y."
+    },
+    {
+      "論文名稱": "Smooth transition quantile capital asset pricing models with heteroscedasticity",
+      "期刊名稱": "Computational Economics (SSCI)",
+      "作者群": "Chen*, C.W.S., Lin, S., and Yu, P.L.H."
+    },
+    {
+      "論文名稱": "Forecasting Value-at-Risk using nonlinear regression quantiles and the intra-day range",
+      "期刊名稱": "International Journal of Forecasting (SSCI)",
+      "作者群": "Chen* C.W.S., Gerlach, R., Hwang, RBK and McAleer, M"
+    },
+    {
+      "論文名稱": "Forecasting volatility with asymmetric smooth transition dynamic range models",
+      "期刊名稱": "International Journal of Forecasting (SSCI)",
+      "作者群": "Lin, E.M.H., Chen*, C.W.S., Gerlach, R."
+    },
+    {
+      "論文名稱": "Detection of structural breaks in a time-varying heteroskedastic regression model",
+      "期刊名稱": "Journal of Statistical Planning and Inference (SCIE)",
+      "作者群": "Chen*, C.W.S., Gerlach, R., and Liu, F.C."
+    },
+    {
+      "論文名稱": "Bayesian time-varying quantile forecasting for value-at-risk in financial markets",
+      "期刊名稱": "Journal of Business & Economic Statistics (SCIE)",
+      "作者群": "Gerlach, R., Chen* C.W.S., and Chan, N.C.Y."
+    },
+    {
+      "論文名稱": "Multi-regime nonlinear capital asset pricing models",
+      "期刊名稱": "Quantitative Finance (SSCI)",
+      "作者群": "Chen* C.W.S., Gerlach, R., and Lin, A.M.H."
+    },
+    {
+      "論文名稱": "A comparison of estimators for regression models with change points",
+      "期刊名稱": "Statistics and Computing (SCIE)",
+      "作者群": "Chen* C.W.S., Chan, J.S.K., Gerlach, R., and Hsieh, W."
+    },
+    {
+      "論文名稱": "A review of threshold time series models in finance",
+      "期刊名稱": "Statistics and Its Interface (SCIE)",
+      "作者群": "Chen*, C. W. S., So, M.K.P., and Liu, F.C."
+    },
+    {
+      "論文名稱": "Classification in Segmented Regression Problems",
+      "期刊名稱": "Computational Statistics & Data Analysis (SCIE)",
+      "作者群": "Chen*, C. W. S., Chan, J.S.K., So, M.K.P., and Lee, K."
+    },
+    {
+      "論文名稱": "Bayesian subset selection for threshold autoregressive moving-average models",
+      "期刊名稱": "Computational Statistics (SCIE)",
+      "作者群": "Chen*, C. W. S., Liu, F. C. Gerlach, R."
+    },
+    {
+      "論文名稱": "Estimation and inference for exponential smooth transition nonlinear volatility models",
+      "期刊名稱": "Journal of Statistical Planning and Inference (SCIE)",
+      "作者群": "Chen* C.W.S.,  Gerlach, R., Choy,B. and Lin,C."
+    },
+    {
+      "論文名稱": " Falling and explosive, dormant and rising markets via multiple-regime financial time series models",
+      "期刊名稱": "Applied Stochastic Models in Business and Industry (SCIE)",
+      "作者群": "Chen* C. W. S., Gerlach, R., and Lin, A. M. H."
+    },
+    {
+      "論文名稱": "Candidate genes associated with susceptibility for SARS-coronavirus",
+      "期刊名稱": "Bulletin of Mathematical Biology (SCIE)",
+      "作者群": "Hsieh, Y.-H., Chen, C.W.S., Hsu Schmitz, S.F., King, C.C., Chen, W.J., Wu, Y.C., Ho, M.S."
+    },
+    {
+      "論文名稱": "Volatility forecasting with double Markov switching GARCH models",
+      "期刊名稱": "Journal of Forecasting (SSCI)",
+      "作者群": "Chen*, C. W. S., So, M. K. P., and Lin, E. M. H."
+    },
+    {
+      "論文名稱": "Turning points, reproduction number, and impact of climatological events for multi-wave Dengue outbreaks",
+      "期刊名稱": "Tropical Medicine & International Health (SCIE)",
+      "作者群": "Hsieh, Y.-H., Chen, C. W. S."
+    },
+    {
+      "論文名稱": "Optimal dynamic hedging via asymmetric copula-GARCH Models",
+      "期刊名稱": "Mathematics and Computers in Simulation (SCIE)",
+      "作者群": "Lai, Y., Chen*, C. W. S., and Gerlach, R. H."
+    },
+    {
+      "論文名稱": "The Impact of Structural Breaks on the Integration of the ASEAN-5 Stock Markets",
+      "期刊名稱": "Mathematics and Computers in Simulation (SCIE)",
+      "作者群": "Chen*, C. W. S., Gerlach, R. H., Cheng, N.Y.P., and Yang, Y.L."
+    },
+    {
+      "論文名稱": "Bayesian causal effects in quantiles: accounting for heteroscedasticity",
+      "期刊名稱": "Computational Statistics & Data Analysis (SCIE)",
+      "作者群": "Chen* C. W. S., Gerlach, R., and Wei, D. C. M."
+    },
+    {
+      "論文名稱": "Bayesian inference and model comparison for asymmetric smooth transition heteroskedastic models",
+      "期刊名稱": "Statistics and Computing (SCIE)",
+      "作者群": "Gerlach, R. and Chen*, C. W. S."
+    },
+    {
+      "論文名稱": "Testing for nonlinearity in mean and volatility for heteroskedastic models",
+      "期刊名稱": "Mathematics and Computers in Simulation (SCIE)",
+      "作者群": "Chen* C. W. S., Gerlach, R., and Tai, A. P. J."
+    },
+    {
+      "論文名稱": "Bayesian model selection for heteroskedastic models",
+      "期刊名稱": "Advances in Econometrics (SSCI)",
+      "作者群": "Chen*, C. W. S., Gerlach, R., and So, M. K. P."
+    },
+    {
+      "論文名稱": "Bayesian estimation for parsimonious threshold autoregressive models in R",
+      "期刊名稱": "the Newsletter of the R project ()",
+      "作者群": "Chen* C. W. S., Lin, A. M. H., Liu, F. C., and Gerlach, R."
+    },
+    {
+      "論文名稱": "Heavy-tailed distributed threshold stochastic volatility models in financial time series",
+      "期刊名稱": "Australian & New Zealand Journal of Statistics (SCIE)",
+      "作者群": "Chen*, C. W. S., Liu, F. C., and So, M. K. P."
+    },
+    {
+      "論文名稱": "Volatility forecasting using threshold heteroskedastic models of the intra-day range",
+      "期刊名稱": "Computational Statistics & Data Analysis (SCIE)",
+      "作者群": "Chen*, C. W. S., Gerlach, R., and Lin, E. M. H."
+    },
+    {
+      "論文名稱": "An empirical evaluation of fat-tailed distributions in modeling financial time series",
+      "期刊名稱": "Mathematics and Computers in Simulation (SCIE)",
+      "作者群": "So, M. K. P., Chen*, C. W. S., Lee, J. Y., and Chang, Y. P."
+    },
+    {
+      "論文名稱": "Asymmetries in return & volatility and composite news from stock markets",
+      "期刊名稱": "Multinational Finance Journal (ECONLIT)",
+      "作者群": "Chiang, T. C., Chen, C. W. S., and So, M. K. P."
+    },
+    {
+      "論文名稱": "Modeling financial time Series with threshold nonlinearity in returns and trading volume",
+      "期刊名稱": "Applied Stochastic Models in Business and Industry (SCIE)",
+      "作者群": "So, M. K. P, Chen, C. W. S., Chiang, T. C. and Lin, D. S. Y."
+    },
+    {
+      "論文名稱": "Impact of quarantine on the 2003 SARS outbreak: a retrospective modelling study",
+      "期刊名稱": "Journal of Theoretical Biology (SCIE)",
+      "作者群": "Hsieh, Y.-H., King, C. C., Chen, C. W. S., Ho, M. S., Hsu, S.B. and Wu, YC"
+    },
+    {
+      "論文名稱": "Comparison of nonnested asymmetric heteroscedastic models",
+      "期刊名稱": "Computational Statistics & Data Analysis (SCIE)",
+      "作者群": "Chen*, C. W. S., Gerlach, R. H., and So, M. K. P."
+    },
+    {
+      "論文名稱": "The Asymmetric Reactions of Mean and Volatility of Stock Returns to Domestic and International Information Based on a Four-Regime Double-Threshold GARCH Model",
+      "期刊名稱": "Physica A: Statistical Mechanics and its Applications (SCIE)",
+      "作者群": "Chen, C.W.S., Yang, M.J., Gerlach, R., and Lo, H.J."
+    },
+    {
+      "論文名稱": "Estimation in Ricker's two-release method: a Bayesian approach \r\n",
+      "期刊名稱": "Australian & New Zealand Journal of Statistics (SCIE)",
+      "作者群": "Lee, S.-M., Chen, C. W. S., Gerlach, R. H. and Hwang, L.-H"
+    },
+    {
+      "論文名稱": "Best subset selection of autoregressive models with exogenous variables and generalized autoregressive conditional heteroscedasticity errors",
+      "期刊名稱": "Journal of  the Royal Statistical Society Series C (SCIE)",
+      "作者群": "So, M. K. P., Chen, C. W. S. and Liu, F. C."
+    },
+    {
+      "論文名稱": "Estimating HIV-infected population size in hard-to-count men who have sex with men groups: the case of gay saunas patrons in Taipei",
+      "期刊名稱": "Physica A - Statistical Mechanics And Its Applications (SCIE)",
+      "作者群": "Hsieh,Y.H., Chen, C.W.S., Lee, S.M., Chen, Y.M.A., Wu, S.I., Lai, S.F., and Chang, A. L."
+    },
+    {
+      "論文名稱": "Asymmetric reaction to trading volume: Evidence from major stock markets based on a double-threshold model",
+      "期刊名稱": "Physica A - Statistical Mechanics and Its Applications (SCIE)",
+      "作者群": "Gerlach, R., Chen, C.W.S., Lin, D.S.Y., and Huang, M. H."
+    },
+    {
+      "論文名稱": "On a threshold heteroscedastic model",
+      "期刊名稱": " International Journal of Forecasting (SSCI)",
+      "作者群": "Chen, C. W. S. and So, M. K. P."
+    },
+    {
+      "論文名稱": "Bias may be unintentional but it's still there",
+      "期刊名稱": "Nature (SCIE)",
+      "作者群": "Chen*, C.W.S. and Hsieh, Y.H."
+    },
+    {
+      "論文名稱": "Assessing and testing for threshold nonlinearity in stock returns",
+      "期刊名稱": "Australian & New Zealand Journal of Statistics (SCIE)",
+      "作者群": "Chen, C. W. S. , So, M. K. P., and, Gerlach, R. H."
+    },
+    {
+      "論文名稱": "Long-term dependence with asymmetric conditional heteroscedasticity in stock returns",
+      "期刊名稱": " Physica A - Statistical Mechanics And Its Applications (SCIE)",
+      "作者群": "Chen, C. W. S. and Yu, T. H. K."
+    },
+    {
+      "論文名稱": "Asymmetric response and interaction of US and local markets news in financial markets",
+      "期刊名稱": " Applied Stochastic Models in Business and Industry (SCIE)",
+      "作者群": "Chen, C. W. S., So, M. K. P., and, Gerlach, R. H."
+    },
+    {
+      "論文名稱": "Quarantine for SARS, Taiwan.",
+      "期刊名稱": "Emerging Infectious Diseases (SCIE)",
+      "作者群": "Hsieh, Y.H., King, C. C., Chen, C.W.S., Ho, M.S., Lee, J.Y., Liu, F.C.,Wu, Y.C., and Wu, J. S."
+    },
+    {
+      "論文名稱": "A Bayesian threshold nonlinearity test in financial time series",
+      "期刊名稱": "Journal of Forecasting (SSCI)",
+      "作者群": "So, M. K. P., Chen, C. W. S., Chen, M. T."
+    },
+    {
+      "論文名稱": "Bayesian estimation for time series regressions improved with exact likelihoods",
+      "期刊名稱": " Journal of Statistical Computation and Simulation (SCIE)",
+      "作者群": "Chen, C. W. S., Lee, J. C., Lee, S. Y., and Niu, W. F."
+    },
+    {
+      "論文名稱": "SARS outbreak in Taiwan: what we can learn from modeling",
+      "期刊名稱": "Emerging Infectious Diseases (SCIE)",
+      "作者群": "Hsieh, Y.H., Chen, C. W. S., and Hsu, S. B."
+    },
+    {
+      "論文名稱": "Mathematical modeling of SARS: errata and updates",
+      "期刊名稱": "Journal of Epidemiology and Community Health (SCIE)",
+      "作者群": "Hsieh, Y.H., and Chen, C. W. S.,"
+    },
+    {
+      "論文名稱": "SARS outbreak, Taiwan, 2003",
+      "期刊名稱": "Emerging Infectious Diseases. (SCIE)",
+      "作者群": "Hsieh, Y.H., Chen, C. W. S., and Hsu, S. B."
+    },
+    {
+      "論文名稱": "Re: Mathematical modeling of SARS: Cautious in all our movements",
+      "期刊名稱": "Journal of Epidemiology and Community Health (SCIE)",
+      "作者群": "Hsieh, Y.H. and Chen, C. W. S."
+    },
+    {
+      "論文名稱": "Severe acute respiratory syndrome: Numbers do not tell whole story",
+      "期刊名稱": "British Medical Journal (SCIE)",
+      "作者群": "Hsieh, Y.H. and Chen, C.W.S."
+    },
+    {
+      "論文名稱": "Asymmetries Reacting to the US Stock-return News: Evidence from Major Stock Markets Based on Double-Threshold Model.",
+      "期刊名稱": "The Journal of Economics and Business (ECONLIT)",
+      "作者群": "Chen, C. W. S., Chiang, T. C. and So, M. K. P."
+    },
+    {
+      "論文名稱": "Subset threshold autogression",
+      "期刊名稱": "Journal of Forecasting (SSCI)",
+      "作者群": "So,M.K.P. and Chen,C.W.S."
+    },
+    {
+      "論文名稱": "Estimating the number of HIV-infected Cubans by sexual contact using contact tracing data",
+      "期刊名稱": "International Journal of Epidemiology (SCIE)",
+      "作者群": "Hsieh, Y.H.，De Arazoza, H.，Lee, S.-M.，Chen, C. W. S."
+    },
+    {
+      "論文名稱": "On the selection of subset bilinear time series models: a genetic algorithm approach.",
+      "期刊名稱": "Computational Statistics (SCIE)",
+      "作者群": "Chen, C. W. S.，Cherng, T.-H.，Wu, B."
+    },
+    {
+      "論文名稱": " On goodness of fit for time series regression models",
+      "期刊名稱": "Journal of Statistical Computation and Simulation (SCIE)",
+      "作者群": "Chen*, C. W. S. and Wen, Y. W."
+    },
+    {
+      "論文名稱": "On the Recent Sharp Increase of HIV Detections in Cuba",
+      "期刊名稱": "Aids (SCIE)",
+      "作者群": "Hsieh, Y. H., Chen, C. W. S., Lee, S.-M., and de Arazoza, H."
+    },
+    {
+      "論文名稱": "Empirical Bayes approach to estimating the number of HIV-infected individuals in hidden and elusive populations",
+      "期刊名稱": "Statistics in Medicine (SCIE)",
+      "作者群": "Hsieh, Y.-H., Chen, C. W. S., and Lee, S.-M."
+    },
+    {
+      "論文名稱": "Subset Selection of Autoregressive Time Series Models",
+      "期刊名稱": "Journal of Forecasting (SSCI)",
+      "作者群": "Chen*, C. W. S."
+    },
+    {
+      "論文名稱": "A Unified Approach To Estimating Population Size For A Birth Only Model",
+      "期刊名稱": "Computational Statistics & Data Analysis (SCIE)",
+      "作者群": "Chen*, C. W. S., Lee, S. M., Hsieh, Y. H., and Ungchusak, K."
+    },
+    {
+      "論文名稱": "Bayesian inference of population size for Behavioral response models",
+      "期刊名稱": "Statistica Sinica (SCIE)",
+      "作者群": "Lee, S. M. and Chen*, C. W. S."
+    },
+    {
+      "論文名稱": "A Bayesian analysis of generalized threshold autoregressive models",
+      "期刊名稱": "Statistics and Probability Letters (SCIE)",
+      "作者群": "Chen*, C. W. S."
+    },
+    {
+      "論文名稱": " On Selecting A Power Transformation in Time-Series Analysis",
+      "期刊名稱": "Journal of Forecasting (SSCI)",
+      "作者群": "Chen*, C. W. S. and Lee, J. C."
+    },
+    {
+      "論文名稱": "Detection of Additive Outliners in Bilinear Time Series",
+      "期刊名稱": "Computational Statistics & Data Analysis (SCIE)",
+      "作者群": "Chen*, C. W. S."
+    },
+    {
+      "論文名稱": "A Unified Approach to Estimating and Modeling Linear and Nonlinear Time Series",
+      "期刊名稱": "Statistica Sinica (SCIE)",
+      "作者群": "Chen, C. W. S., McCulloch, R. E., and Tsay, R. S."
+    },
+    {
+      "論文名稱": "Bayesian inference of threshold autoregressive models",
+      "期刊名稱": "Journal of Time Series Analysis (SCIE)",
+      "作者群": "Chen*, C. W. S. and Lee, J. C."
+    },
+    {
+      "論文名稱": "Bayesian analysis of bilinear time series models: a Gibbs sampling approach",
+      "期刊名稱": "Communications in Statistics - Theory and Methods (SCIE)",
+      "作者群": "Chen*, C. W. S."
+    },
+    {
+      "論文名稱": "Bayesian inferences and forecasting in bilinear time series models",
+      "期刊名稱": "Communications in statistics - Theory and Methods (SCIE)",
+      "作者群": "Chen*, C. W. S."
+    }
+  ],
+  "journal2": [],
+  "conference": [
+    {
+      "論文名稱": "Bayesian Time Series",
+      "會議名稱": "International Conference on Applied Statistics 2014 (ICAS 2014)",
+      "作者群": "陳婉淑"
+    }
+  ],
+  "book": [
+    {
+      "專業書籍": "Robustness in Econometrics, Structural breaks of CAPM-type market model with heteroskedasticity and quantile regression",
+      "出版單位": "Springer International Publishing Switzerland",
+      "作者群": "Chen*, C.W.S., Khamthong, K. (Ph.D. st), and Lee, S."
+    },
+    {
+      "專業書籍": "台灣地區愛滋病流行病學之數學及統計研究",
+      "出版單位": "行政院衛生署疾病管制局",
+      "作者群": "謝英恆,李燊銘,陳婉淑,涂醒哲,許須美,吳秀英"
+    },
+    {
+      "專業書籍": "台灣地區愛滋病流行病學之數學及統計研究",
+      "出版單位": "行政院衛生署疾病管制局",
+      "作者群": "謝英恆,李燊銘,陳婉淑,涂醒哲,許須美,陳宜民吳"
+    }
+  ],
+  "patent": [],
+  "most": [
+    {
+      "name": "提升台灣能見度：透過與Computational Statistics期刊及ISI的合作(1/3)",
+      "schoolYear": "113"
+    },
+    {
+      "name": "貝氏建模和預測多元時間數列(2/3)",
+      "schoolYear": "113"
+    },
+    {
+      "name": "COVID-19疫情對家暴和性騷擾事件的統計分析",
+      "schoolYear": "113"
+    },
+    {
+      "name": "貝氏建模和預測多元時間數列(1/3)",
+      "schoolYear": "112"
+    },
+    {
+      "name": "邀請香港科技人士蘇家培君來臺短期訪問",
+      "schoolYear": "112"
+    },
+    {
+      "name": "正值時間數列的建模與預測(3/3)",
+      "schoolYear": "111"
+    },
+    {
+      "name": "國際貝氏分析學會亞洲區會長暨統計計算等國際期刊副編輯之學術工作執行(2/2)(補助學者提昇國際影響力)",
+      "schoolYear": "110"
+    },
+    {
+      "name": "正值時間數列的建模與預測(2/3)",
+      "schoolYear": "110"
+    },
+    {
+      "name": "國際貝氏分析學會亞洲區會長暨統計計算等國際期刊副編輯之學術工作執行(1/2)(補助學者提昇國際影響力)",
+      "schoolYear": "109"
+    },
+    {
+      "name": "正值時間數列的建模與預測(1/3)",
+      "schoolYear": "109"
+    },
+    {
+      "name": "分量迴歸與介入分析在財務時間數列之應用",
+      "schoolYear": "109"
+    },
+    {
+      "name": "時間數列的貝氏臨近預測和預測(2/2)",
+      "schoolYear": "108"
+    },
+    {
+      "name": "時間數列的貝氏臨近預測和預測(1/2)",
+      "schoolYear": "107"
+    },
+    {
+      "name": "多變量滯後自迴歸模型：貝氏方法(2/2)",
+      "schoolYear": "106"
+    },
+    {
+      "name": "多變量滯後自迴歸模型：貝氏方法(1/2)",
+      "schoolYear": "105"
+    },
+    {
+      "name": "平滑轉換真實波動之建模和預測",
+      "schoolYear": "104"
+    },
+    {
+      "name": "計數型時間序列及相關非線性模型之貝氏推論(2/2)",
+      "schoolYear": "104"
+    },
+    {
+      "name": "計數型時間序列及相關非線性模型之貝氏推論(1/2)",
+      "schoolYear": "103"
+    },
+    {
+      "name": "財務時間數列之貝氏估計，預測，及檢定(2/2)",
+      "schoolYear": "102"
+    },
+    {
+      "name": "財務時間數列之貝氏估計，預測，及檢定(1/2)",
+      "schoolYear": "101"
+    },
+    {
+      "name": "財務時間數列結構性改變之貝氏推論(2/2)",
+      "schoolYear": "100"
+    },
+    {
+      "name": "補助學者提昇國際影響力─提升台灣在統計計算研究之國際能見度(3/3)",
+      "schoolYear": "100"
+    },
+    {
+      "name": "財務時間數列結構性改變之貝氏推論(1/2)",
+      "schoolYear": "99"
+    },
+    {
+      "name": "補助學者提昇國際影響力─提升台灣在統計計算研究之國際能見度(2/3)",
+      "schoolYear": "99"
+    },
+    {
+      "name": "動態風險值之分量法推論(3/3)",
+      "schoolYear": "98"
+    },
+    {
+      "name": "補助學者提昇國際影響力─提升台灣在統計計算研究之國際能見度(1/3)",
+      "schoolYear": "98"
+    },
+    {
+      "name": "動態風險值之分量法推論(2/3)",
+      "schoolYear": "97"
+    },
+    {
+      "name": "動態風險值之分量法推論(1/3)",
+      "schoolYear": "96"
+    },
+    {
+      "name": "財務時間數列非線性及不對稱性之檢定(2/2)",
+      "schoolYear": "95"
+    },
+    {
+      "name": "財務時間數列非線性及不對稱性之檢定(1/2)",
+      "schoolYear": "94"
+    },
+    {
+      "name": "評估不對稱性波動模式及預測",
+      "schoolYear": "93"
+    },
+    {
+      "name": "財務金融時間數列資料之建模研究(3/3)",
+      "schoolYear": "92"
+    },
+    {
+      "name": "財務金融時間數列資料之建模研究(2/3)",
+      "schoolYear": "91"
+    },
+    {
+      "name": "財務金融時間數列資料之建模研究(1/3)",
+      "schoolYear": "90"
+    },
+    {
+      "name": "時間數列模式適合度之研究(2/2)",
+      "schoolYear": "89"
+    },
+    {
+      "name": "時間數列模式適合度之研究(1/2)",
+      "schoolYear": "88"
+    },
+    {
+      "name": "非線性時間數列穩健估計與選取模式之研究(2/2)",
+      "schoolYear": "87"
+    },
+    {
+      "name": "非線性時間數列穩健估計與選取模式之研究(1/2)",
+      "schoolYear": "86"
+    },
+    {
+      "name": "選取門檻自我相關迴歸模式階次之最佳子集",
+      "schoolYear": "85"
+    },
+    {
+      "name": "廣義臨界自相關迴歸模式之貝氏分析",
+      "schoolYear": "84"
+    },
+    {
+      "name": "電腦工作站",
+      "schoolYear": "83"
+    },
+    {
+      "name": "探討非線性時間序列模式之轉換",
+      "schoolYear": "83"
+    },
+    {
+      "name": "非線性時間序列異常點之偵測",
+      "schoolYear": "82"
+    },
+    {
+      "name": "非線性時間序列模式之貝氏分析",
+      "schoolYear": "81"
+    }
+  ],
+  "tech": [
+    {
+      "論文名稱": "Bayesian Model Selection Among Dispersed Integer-Valued Time Series Models (2024-11)",
+      "書名": "Studies in Systems, Decision and Control - Applications of Optimal Transport to Economics and Related Topics",
+      "作者群": "Feng-Chi Liu*, Cathy W. S. Chen, and Hsiao-Han Hsu"
+    },
+    {
+      "論文名稱": "Bayesian modelling structural changes on housing price dynamics (2019-01)",
+      "書名": "In Kreinovich V., Sriboonchitta S. (eds.) Structural Changes and their Econometric Modeling",
+      "作者群": "Than-Thi, H. (Ph.D. st), Dong, M.C. (Ph.D. st), Chen*, C.W.S."
+    },
+    {
+      "論文名稱": "Bayesian Forecasting for Tail Risk (2018-01)",
+      "書名": "Predictive Econometrics and Big Data, V. Kreinovich et al. (eds.)",
+      "作者群": "Chen*, C.W.S. and Sun, Y.W."
+    },
+    {
+      "論文名稱": "(2/2017) Structural breaks of CAPM-type market model with heteroskedasticity and quantile regression, (2017-02)",
+      "書名": "in V. Kreinovich, et al. (eds.), Robustness in Econometrics,",
+      "作者群": "Chen*, C.W.S., Khamthong, K. (Ph.D. st), and Lee, S."
+    },
+    {
+      "論文名稱": "Pairs trading via three-regime threshold autoregressive GARCH models (2014-01)",
+      "書名": "Modeling Dependence in Econometrics, Advances in Intelligent Systems and Computing, Huynh et al. (eds.)",
+      "作者群": "Chen*, C.W.S., Chen, M., and Chen, S.Y."
+    },
+    {
+      "論文名稱": "A Bayesian perspective on mixed GARCH models with jumps (2013-01)",
+      "書名": "Uncertainty Analysis in Econometrics with Applications, Huynh et al. (eds.)",
+      "作者群": "Chen*, C. W. S., Lin, E. M. H., and Lin, Y.R."
+    }
+  ],
+  "induAca": [
+    "統計計算在計量財務與生物統計國際研討會 (2010-12 to 2011-12)"
+  ],
+  "perform": [],
+  "reward": [
+    "逢甲大學論文著作獎勵傑出獎 (113, 2024-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (113, 2024-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (113, 2024-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優等獎 (113, 2024-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (113, 2024-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優等獎 (113, 2024-11) - 逢甲大學",
+    "112年度國科會補助大專校院研究獎勵 (112, 2023-12) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優等獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (111, 2022-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (111, 2022-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (111, 2022-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (111, 2022-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (111, 2022-11) - 逢甲大學",
+    "111年度國科會補助大專校院研究獎勵 (111, 2022-10) - 研究發展處",
+    "逢甲大學論文著作獎勵傑出獎 (110, 2021-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (110, 2021-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (110, 2021-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (110, 2021-11) - 逢甲大學",
+    "110年度科技部補助大專校院研究獎勵 (110, 2021-10) - 產學合作處",
+    "逢甲大學論文著作獎勵優良獎 (109, 2020-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (109, 2020-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (109, 2020-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (109, 2020-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (109, 2020-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (109, 2020-11) - 逢甲大學",
+    "逢甲大學優良教材獎勵優等獎 (109, 2020-11) - 逢甲大學",
+    "109年度科技部補助大專校院研究獎勵 (109, 2020-10) - 逢甲大學",
+    "碩士生獲獎:中國統計學社論文獎 (108, 2019-12) - 中國統計學社",
+    "逢甲大學論文著作獎勵傑出獎 (108, 2019-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (108, 2019-11) - 逢甲大學",
+    "逢甲大學優良教材獎勵優等獎 (108, 2019-11) - 逢甲大學",
+    "108學年度科技部補助大專校院研究獎勵 (108, 2019-09) - 逢甲大學",
+    "博士生獲獎:東亞國際貝氏會議最佳論文獎 (107, 2019-07) - 東亞國際貝氏學會",
+    "逢甲大學論文著作獎勵傑出獎 (107, 2018-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (107, 2018-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (107, 2018-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (107, 2018-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (107, 2018-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (107, 2018-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (107, 2018-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (107, 2018-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (107, 2018-11) - 逢甲大學",
+    "逢甲大學優良教材獎勵優等獎 (107, 2018-11) - 逢甲大學",
+    "碩士生獲獎:中國統計學社論文獎 (107, 2018-11) - 中國統計學社",
+    "107年度科技部補助大專校院研究獎勵 (107, 2018-08) - 逢甲大學",
+    "碩士生獲獎:中國統計學社論文獎 (106, 2017-12) - 中國統計學社",
+    "逢甲大學論文著作獎勵優良獎 (106, 2017-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (106, 2017-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (106, 2017-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (106, 2017-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (106, 2017-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (106, 2017-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (106, 2017-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (106, 2017-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (106, 2017-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (106, 2017-11) - 逢甲大學",
+    "106年度科技部獎勵特殊優秀人才 (106, 2017-08) - 產學合作處",
+    "105年度科技部獎勵特殊優秀人才 (105, 2016-08) - 產學合作處",
+    "逢甲大學論文著作獎勵傑出獎 (104, 2015-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (104, 2015-11) - 逢甲大學",
+    "104年度科技部獎勵特殊優秀人才 (104, 2015-08) - 產學合作處",
+    "碩士生獲獎:中國統計學社論文獎 (103, 2014-12) - 中國統計學社",
+    "逢甲大學論文著作獎勵優良獎 (103, 2014-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (103, 2014-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (103, 2014-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (103, 2014-11) - 逢甲大學",
+    "103年度科技部獎勵特殊優秀人才 (103, 2014-08) - 研究發展處",
+    "碩士生獲獎: ISF Travel Award (102, 2014-06) - 國際預測學會",
+    "逢甲大學論文著作獎勵優良獎 (102, 2013-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (102, 2013-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (102, 2013-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (102, 2013-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (102, 2013-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (102, 2013-11) - 逢甲大學",
+    "博士生獲獎:Wakimoto Memorial award (102, 2013-08) - 日本統計學會",
+    "102年度科技部獎勵特殊優秀人才 (102, 2013-08) - 研究發展處",
+    "博士生獲獎:魏慶榮統計論文獎 (101, 2013-06) - 第22屆南區統計研討會",
+    "逢甲大學論文著作獎勵傑出獎 (101, 2012-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (101, 2012-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (101, 2012-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (101, 2012-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (101, 2012-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (101, 2012-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (101, 2012-11) - 逢甲大學",
+    "101年度科技部獎勵特殊優秀人才 (101, 2012-08) - 研究發展處",
+    "逢甲大學論文著作獎勵傑出獎 (100, 2011-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (100, 2011-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (100, 2011-11) - 逢甲大學",
+    "100年度科技部獎勵特殊優秀人才 (100, 2011-08) - 研究發展處",
+    "逢甲大學論文著作獎勵傑出獎 (99, 2010-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (99, 2010-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (99, 2010-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (99, 2010-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (99, 2010-11) - 逢甲大學",
+    "99年度科技部獎勵特殊優秀人才 (99, 2010-10) - 研究發展處",
+    "Chartered Statistician, 英國皇家統計學會 (98, 2010-02) - The Royal Statistical Society, UK",
+    "逢甲大學論文著作獎勵優良獎 (98, 2009-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (98, 2009-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (98, 2009-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (98, 2009-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (98, 2009-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (98, 2009-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (98, 2009-11) - 逢甲大學",
+    "Fellow, RSS (Royal Statistical Society), UK (98, 2009-11) - The Royal Statistical Society, UK",
+    "博士生獲獎:魏慶榮統計論文獎 (97, 2009-06) - 第十八屆南區統計研討會",
+    "博士生獲獎: ISF Travel Award (97, 2009-06) - nternational Institute of Forecasters",
+    "博士生獲獎:國科會千里馬計畫 (97, 2009-02) - 國科會",
+    "ISI elected member (97, 2008-12) - International Statistical Institute",
+    "逢甲大學論文著作獎勵優良獎 (97, 2008-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (97, 2008-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (97, 2008-11) - 逢甲大學",
+    "逢甲大學特聘教授 (97, 2008-08) - 逢甲大學",
+    "逢甲大學學術研究獎勵 (96, 2007-11) - 逢甲大學",
+    "逢甲大學學術研究獎勵 (96, 2007-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (96, 2007-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (96, 2007-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (96, 2007-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (96, 2007-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (96, 2007-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (96, 2007-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (96, 2007-11) - 逢甲大學",
+    "逢甲大學特聘教授 (96, 2007-08) - 逢甲大學",
+    "逢甲大學學術研究獎勵 (95, 2006-11) - 逢甲大學",
+    "逢甲大學學術研究獎勵 (95, 2006-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (95, 2006-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (95, 2006-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (95, 2006-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (95, 2006-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (95, 2006-11) - 逢甲大學",
+    "逢甲大學特聘教授 (95, 2006-08) - 逢甲大學",
+    "國科會統計學門第一級主持費 (95, 2006-08) - 國科會",
+    "斐陶斐榮譽學會會員 (94, 2006-06) - 斐陶斐榮譽學會",
+    "嶺東科技大學財經學院兼任講座教授 (94, 2006-01) - 嶺東科技大學",
+    "博士生獲獎:Best Student Paper Award (94, 2005-12) - the 5th IASC",
+    "逢甲大學學術研究獎勵 (94, 2005-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (94, 2005-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (94, 2005-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (94, 2005-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (94, 2005-11) - 逢甲大學",
+    "逢甲大學特聘教授 (94, 2005-08) - 逢甲大學",
+    "逢甲大學學術研究獎勵 (93, 2004-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (93, 2004-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (93, 2004-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (93, 2004-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (93, 2004-11) - 逢甲大學",
+    "逢甲大學特聘教授 (93, 2004-08) - 逢甲大學",
+    "International Scientist (92, 2003-12) - International Biographical Cambridge",
+    "逢甲大學學術研究獎勵 (92, 2003-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (92, 2003-11) - 逢甲大學",
+    "2003年世界名人錄-科學與工程領域 (91, 2003-01) - 美國馬奎斯公司",
+    "逢甲大學學術研究獎勵 (91, 2002-11) - 逢甲大學",
+    "2001台北貿易中心互訪計畫 (90, 2002-03) - 台北貿易中心及香港大學",
+    "逢甲大學學術研究獎勵 (90, 2001-11) - 逢甲大學",
+    "國科會甲種獎勵 (89, 2000-08) - 行政院國科會",
+    "國科會甲種獎勵 (88, 1999-08) - 行政院國科會",
+    "國科會甲種獎勵 (87, 1998-08) - 行政院國科會",
+    "國科會甲種獎勵 (86, 1997-08) - 行政院國科會",
+    "國科會甲種獎勵 (85, 1996-08) - 行政院國科會",
+    "國科會甲種獎勵 (84, 1995-08) - 行政院國科會"
+  ],
+  "speech": [
+    {
+      "演講題目": "Bayesian Causal Effects in Quantiles: Accounting for Heteroscedasticity",
+      "邀請單位": "雪梨大學",
+      "演講日期": "2009-08"
+    },
+    {
+      "演講題目": "Falling and Explosive, Dormant and Rising Markets via Multiple-regime Financial Time Series Models",
+      "邀請單位": "高雄大學",
+      "演講日期": "2009-08"
+    },
+    {
+      "演講題目": "Classification groups in segmented regression problems",
+      "邀請單位": "第十八屆南區統計研討會",
+      "演講日期": "2009-06"
+    },
+    {
+      "演講題目": "Bayesian Causal Effects in Quantiles: Accounting for Heteroscedasticity",
+      "邀請單位": "HKUST, Hong Kong",
+      "演講日期": "2009-06"
+    },
+    {
+      "演講題目": "Time Series Analysis and Bayesian Approach",
+      "邀請單位": "Chiang Mai University",
+      "演講日期": "2008-08"
+    },
+    {
+      "演講題目": "Bayesian estimation and approximate model comparison for multiple-regime financial time series models",
+      "邀請單位": "第十七屆南區統計研討會",
+      "演講日期": "2008-06"
+    },
+    {
+      "演講題目": "Inference and Model Comparison for Asymmetric STGARCH models",
+      "邀請單位": "University of Queensland",
+      "演講日期": "2007-09"
+    },
+    {
+      "演講題目": "Testing for Nonlinearity in double threshold GARCH models",
+      "邀請單位": "中興大學應用經濟系",
+      "演講日期": "2007-07"
+    },
+    {
+      "演講題目": "Testing for Nonlinearity in double threshold GARCH models",
+      "邀請單位": "嶺東科技大學財經學院",
+      "演講日期": "2007-07"
+    },
+    {
+      "演講題目": "HEvaluating Three-regime TGARCH models",
+      "邀請單位": "the 2007 International Associa",
+      "演講日期": "2007-06"
+    },
+    {
+      "演講題目": "Inference and percentile forecasting with ST models",
+      "邀請單位": "中山大學應數系",
+      "演講日期": "2007-05"
+    },
+    {
+      "演講題目": "Bayesian Testing for Nonlinearity In DTGARCH models",
+      "邀請單位": "HKUST, Hong Kong",
+      "演講日期": "2007-04"
+    },
+    {
+      "演講題目": "Model selection for heteroskedastic models",
+      "邀請單位": "Univ. of Hong Kong",
+      "演講日期": "2006-12"
+    },
+    {
+      "演講題目": "Bayesian Model Selection",
+      "邀請單位": "UNSW, Australia",
+      "演講日期": "2006-11"
+    },
+    {
+      "演講題目": "Threshold heteroskedastic range models",
+      "邀請單位": "Univ. of Sydney, Australia",
+      "演講日期": "2006-09"
+    },
+    {
+      "演講題目": "Forecast Volatility from Threshold Heteroskedastic Intraday",
+      "邀請單位": "Monash University, Australia",
+      "演講日期": "2006-09"
+    },
+    {
+      "演講題目": "Estimation and model comparison for asymmetric STGARCH model",
+      "邀請單位": "澳大利亞統計學會",
+      "演講日期": "2006-07"
+    },
+    {
+      "演講題目": "The Impact of Structural Breaks on the Integration of the ASEAN-5 Stock Markets",
+      "邀請單位": "TSEFAR 2006",
+      "演講日期": "2006-07"
+    },
+    {
+      "演講題目": "Optimal Dynamic Hedging Using Copula-Threshold-GARCH Models",
+      "邀請單位": "TSEFAR 2006",
+      "演講日期": "2006-06"
+    },
+    {
+      "演講題目": "Forecast Volatility from TGARCH Intraday range models",
+      "邀請單位": "第十五屆南區統計研討會",
+      "演講日期": "2006-06"
+    },
+    {
+      "演講題目": "Heavy-tailed distributed threshold stochastic volatility model",
+      "邀請單位": "第十五屆南區統計研討會",
+      "演講日期": "2006-06"
+    },
+    {
+      "演講題目": "Model Comparison for Smooth Transition Heteroskedastic Model",
+      "邀請單位": "中央研院經濟研究所",
+      "演講日期": "2006-05"
+    },
+    {
+      "演講題目": "Forecast Volatility from Threshold Heteroscedastic Range Models",
+      "邀請單位": "香港大學",
+      "演講日期": "2005-12"
+    },
+    {
+      "演講題目": "Inference and Model Comparison for Asymmetric STGARCH models",
+      "邀請單位": "香港大學",
+      "演講日期": "2005-12"
+    },
+    {
+      "演講題目": "Estimation and model comparison for asymmetric STGARCH models",
+      "邀請單位": "94年中國統計學術研討會",
+      "演講日期": "2005-12"
+    },
+    {
+      "演講題目": "Forecast volatility from threshold heteroscedastic range models",
+      "邀請單位": "94年中國統計學術研討會",
+      "演講日期": "2005-12"
+    },
+    {
+      "演講題目": "Asymmetric reaction to trading volume: Evidence from major stocks",
+      "邀請單位": "中央研究院",
+      "演講日期": "2004-12"
+    },
+    {
+      "演講題目": "Assessing and testing for threshold nonlinearity in stock returns",
+      "邀請單位": "中原大學應用數學系",
+      "演講日期": "2004-11"
+    },
+    {
+      "演講題目": "Modelling Volatility",
+      "邀請單位": "國立台中技術學院統計系",
+      "演講日期": "2004-11"
+    },
+    {
+      "演講題目": "Asymmetric reaction to trading volume: Evidence from major stocks",
+      "邀請單位": "逢甲大學商學博士班",
+      "演講日期": "2004-10"
+    },
+    {
+      "演講題目": "On a threshold heteroscedastic model and its applications",
+      "邀請單位": "嶺東技術學院",
+      "演講日期": "2004-10"
+    },
+    {
+      "演講題目": "On a threshold heteroscedastic model",
+      "邀請單位": "University of Hong Kong",
+      "演講日期": "2004-07"
+    },
+    {
+      "演講題目": "Best Subset Selection of ARX Models with GARCH errors",
+      "邀請單位": "University of Newcastle",
+      "演講日期": "2004-07"
+    },
+    {
+      "演講題目": "論文評論",
+      "邀請單位": "實証經濟學研討會",
+      "演講日期": "2004-06"
+    },
+    {
+      "演講題目": "leptokurtic distributions in financial time series",
+      "邀請單位": "銘傳大學統計系",
+      "演講日期": "2004-05"
+    },
+    {
+      "演講題目": "Nonlinear Models & Their Applications",
+      "邀請單位": "嶺東技術學院財金所",
+      "演講日期": "2004-05"
+    },
+    {
+      "演講題目": "On a Threshold Heteroscedastic Model",
+      "邀請單位": "中興大學財金所",
+      "演講日期": "2004-05"
+    },
+    {
+      "演講題目": "Conditional Heteroscedastic Models",
+      "邀請單位": "嶺東技術學院財金所",
+      "演講日期": "2004-05"
+    },
+    {
+      "演講題目": "Applications of fat-tailed distributions in financial time series",
+      "邀請單位": "香港科技大學",
+      "演講日期": "2003-12"
+    },
+    {
+      "演講題目": "Applications of Fat-Tailed Distributions in Financial Time Series",
+      "邀請單位": "國立中央大學統計所",
+      "演講日期": "2003-12"
+    },
+    {
+      "演講題目": "Best Subset Selection of ARX Models with GARCH errors",
+      "邀請單位": "國立中正大學統計科學研究所",
+      "演講日期": "2003-12"
+    },
+    {
+      "演講題目": "Discussant, Space-Time Models for Count Processes with Application",
+      "邀請單位": "University of Chicago, USA",
+      "演講日期": "2003-09"
+    },
+    {
+      "演講題目": "A Bayesian threshold nonlinearity test in financial time series",
+      "邀請單位": "東海大學",
+      "演講日期": "2003-03"
+    },
+    {
+      "演講題目": "On a threshold heteroscedastic model",
+      "邀請單位": "清華大學",
+      "演講日期": "2003-03"
+    },
+    {
+      "演講題目": "On Estimation of Fractionally Integrated ARMA Models with Asymmetric GARCH",
+      "邀請單位": "University of Hong Kong",
+      "演講日期": "2001-08"
+    }
+  ],
+  "material": [
+    "Structural Breaks of CAPM-type Market Model with Heteroskedasticity and Quantile Regression\tSpringer International Publishing\tCathy W.S. Chen, Khemmanant Khamthong and Sangyeol Lee\t教科書",
+    "Bayesian Forecasting for Tail Risk, in V. Kreinovich et al. (eds.), Predictive Econometrics and Big Data, Studies in Computational Intelligence 753, 122-145.\tStudies in Computational Intelligence, Springer\tChen*, C.W.S. and Sun, Y.W.\t複合教材",
+    "Bayesian modelling structural changes on housing price dynamics, In Kreinovich V., Sriboonchitta S. (eds.) Structural Changes and their Econometric Modeling, Studies in Computational Intelligence, 808, 83-104.\tStudies in Computational Intelligence, Springer\tThan-Thi, H. (Ph.D. st), Dong, M.C. (Ph.D. st), Chen*, C.W.S.\t複合教材"
+  ],
+  "tal": []
+}

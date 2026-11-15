@@ -1,0 +1,939 @@
+{
+  "success": true,
+  "info": {
+    "yms_year": 114.0,
+    "yms_smester": 2.0,
+    "sub_id": "13673",
+    "cls_id": "CS06132",
+    "scr_dup": "001",
+    "sub_id3": "OPT2004",
+    "cls_name": "光電三乙",
+    "cls_ename": "Department of Photonics",
+    "sub_name": "光學實驗(二)",
+    "sub_ename": "OPTICS LAB. (2)",
+    "scr_mso": "必修",
+    "scr_mso_en": "Required",
+    "scr_credit": 1.0,
+    "scr_periodly": "(二)07-09",
+    "scr_periodly_eng": "(Tue)07-09",
+    "lang_name": "中文                                                      ",
+    "lang_ename": "Chinese",
+    "scr_room": "理B04",
+    "scr_room_eng": "SBB04",
+    "scr_teacher": "唐謙仁",
+    "scr_teacher_eng": "Chien-Jen Tang",
+    "scr_selcode": "2598",
+    "scr_elearning": "全學期",
+    "scr_elearning_en": "Full semester",
+    "scr_hours": "3",
+    "scr_english": "N",
+    "unt_name": null,
+    "unt_ename": null,
+    "link_traminal": null,
+    "link_traminal_en": null,
+    "scr_ldl": "D",
+    "course_mk": "N",
+    "teams_mk": "N",
+    "sub_title": null,
+    "sub_title_en": null,
+    "sub_describe": null,
+    "sub_describe_en": null,
+    "hasDescription": null,
+    "hasInstructor": null,
+    "hasTA": null,
+    "hasTextBooks": null,
+    "hasReadings": null,
+    "hasiSoftwares": null,
+    "hasAssistSoftwares": null,
+    "hasObjective": null,
+    "hasWeeklyScds": null,
+    "hasGradeRules": null,
+    "hasGradeRuleDescribe": null,
+    "hasIntegrity": null,
+    "hasCoursePol": null,
+    "hasCourseRem": null,
+    "hasObjectiveReleation": null,
+    "hasTopicSdgs": null,
+    "hasTopicAiIndicators": null,
+    "hasSubTitleDesc": null
+  },
+  "subTitleDesc": null,
+  "description": {
+    "sub_id3": null,
+    "sub_name": "光學實驗(二)",
+    "sub_ename": "OPTICS LAB. (2)",
+    "describe_ch": "光學實驗為奠定學生的基礎光電實驗技能，熟悉光學之研究方法，並體會科學研究之精神。同時也與「光學」課程配合，親身體驗所學之光學原理。光學實驗(二)共安排11項實驗，內容除了物理光學相關實驗外，還有基礎光學實驗工具的使用。",
+    "describe_eh": "Optics Lab. aims to equip students with the experimental techniques of photonics, be familiar with basic optical methods, and comprehend the culture of scientific research. Meanwhile, the designs of this course allow students to experience the phenomena discussed in Optics course. The course of Optics Lab. (2) includes 11 experiments, including the topics of physical optics and basic tools for optical laboratory.",
+    "pre_subname": "OPT2002光學(二)、OPT2003光學實驗(一)、PHYS2001電磁學(一)、PHYS2002電磁學(二)、PHYS1004普通物理(二)、PHYS1002普通物理實驗(二)",
+    "pre_sub_id3": "OPT2002",
+    "pre_sub_ename": "OPT2002 OPTICS (2)、OPT2003 OPTICS LAB. (1)、PHYS2001 ELECTROMAGNETICS(1)、PHYS2002 ELECTROMAGNETICS(2)、PHYS1004 GENERAL PHYSICS(2)、PHYS1002 GENERAL PHYSICS LAB.(2)",
+    "pre_describe": null,
+    "pre_describe_en": null,
+    "scr_credit": 1.0
+  },
+  "targets": [
+    {
+      "seq": 1,
+      "describe_ch": "能正確使用基礎光學實驗技術與工具。",
+      "describe_en": "Be able to apply basic optical techniques and instruments correctly."
+    },
+    {
+      "seq": 2,
+      "describe_ch": "能夠處理及分析實驗結果。",
+      "describe_en": "Be able to organize and to analyze the experimental results."
+    },
+    {
+      "seq": 3,
+      "describe_ch": "能透過小組展現團隊合作能力。",
+      "describe_en": "Demonstrate team spirit through teamwork."
+    },
+    {
+      "seq": 4,
+      "describe_ch": "能運用書面或口頭報告將所獲結果與同儕及教師溝通。",
+      "describe_en": "Application of paper or oral reports for presenting to classmates, and the instructor."
+    },
+    {
+      "seq": 5,
+      "describe_ch": "能透過光學實驗理解光電產品中的光學系統、元件或製程設計原由。",
+      "describe_en": "Be able to comprehend the design concepts of optical system, component or process in optoelectronic products."
+    }
+  ],
+  "teachersInfo": [
+    {
+      "cname": "唐謙仁",
+      "ename": "Chien-Jen Tang",
+      "period": "(Mon)07-08 理210E,(Thu)06-07 理210E",
+      "roletype": 0,
+      "email": "cjtang@o365.fcu.edu.tw",
+      "ext": "5048"
+    },
+    {
+      "cname": "吳冠鴻",
+      "ename": "WU, GUAN-HONG",
+      "period": " ",
+      "roletype": 1,
+      "email": "d1128136@o365.fcu.edu.tw",
+      "ext": " "
+    },
+    {
+      "cname": "吳升閎",
+      "ename": "WU, SHENG-HONG",
+      "period": " ",
+      "roletype": 1,
+      "email": "d1165504@o365.fcu.edu.tw",
+      "ext": " "
+    },
+    {
+      "cname": "龔惟中",
+      "ename": "KUNG,WEI-CHUNG",
+      "period": " ",
+      "roletype": 1,
+      "email": "m1317623@o365.fcu.edu.tw",
+      "ext": " "
+    },
+    {
+      "cname": "簡浩宇",
+      "ename": "CHIEN,HAO-YU",
+      "period": " ",
+      "roletype": 1,
+      "email": "m1375013@o365.fcu.edu.tw",
+      "ext": " "
+    },
+    {
+      "cname": "邱晉偉",
+      "ename": "CHOU-CHIN-WEI",
+      "period": " ",
+      "roletype": 1,
+      "email": "m1477302@o365.fcu.edu.tw",
+      "ext": " "
+    }
+  ],
+  "textBooks": {
+    "yms_year": 114.0,
+    "yms_smester": 2.0,
+    "cls_id": "CS06132",
+    "sub_id": "13673",
+    "scr_dup": "001",
+    "tpb_seq": 1,
+    "tpb_book": "<div>自編講義:逢甲大學光學實驗講義</div>\n",
+    "tpb_book_en": " "
+  },
+  "readings": {
+    "yms_year": 114.0,
+    "yms_smester": 2.0,
+    "cls_id": "CS06132",
+    "sub_id": "13673",
+    "scr_dup": "001",
+    "tpc_seq": 1,
+    "tpc_book": "<div>Hecht, Eugene. (2002). Optics. Reading, Mass. :Addison-Wesley.</div>\n\n<div><em>Saleh</em>, B.E.A. and Teich, M.C. (1990) Fundamental of&nbsp;<em>Photonics</em>. Wiley, Hoboken.</div>\n\n<div>網路資源</div>\n",
+    "tpc_book_en": null
+  },
+  "iSoftwares": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CS06132",
+      "sub_id": "13673",
+      "scr_dup": "001",
+      "seq_no": 1,
+      "soft_kind": "2",
+      "soft_name": "AutoCAD",
+      "soft_memo": "<div>工程繪圖軟體使用學習，並應用於光學追跡概念學習。</div>\n",
+      "soft_name_en": null,
+      "soft_memo_en": null
+    }
+  ],
+  "assistSoftwares": [],
+  "weeklyScds": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CS06132",
+      "sub_id": "13673",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "1",
+      "tpd_reading": "<div>課程簡介, 實驗內容講解</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": " ",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CS06132",
+      "sub_id": "13673",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "2",
+      "tpd_reading": "<div>實驗內容講解</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": " ",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CS06132",
+      "sub_id": "13673",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "3~8",
+      "tpd_reading": "<div>實驗操作</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": " ",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CS06132",
+      "sub_id": "13673",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "9",
+      "tpd_reading": "<div>期中考</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": " ",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CS06132",
+      "sub_id": "13673",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "10~15",
+      "tpd_reading": "<div>實驗操作</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": " ",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CS06132",
+      "sub_id": "13673",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "16",
+      "tpd_reading": "<div>期末考</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": " ",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CS06132",
+      "sub_id": "13673",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "17-18",
+      "tpd_reading": "<div>期末考</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": " ",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    }
+  ],
+  "gradeRules": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CS06132",
+      "sub_id": "13673",
+      "scr_dup": "001",
+      "evalb_id": "D1",
+      "score_rate": 10,
+      "evalb_memo": "期中口頭報告：10%",
+      "evalb_memo_en": null,
+      "evalb_name": "期中考",
+      "evalb_name_en": "Midterm examination",
+      "seq": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CS06132",
+      "sub_id": "13673",
+      "scr_dup": "001",
+      "evalb_id": "D2",
+      "score_rate": 15,
+      "evalb_memo": "期末實驗考試：15%",
+      "evalb_memo_en": null,
+      "evalb_name": "期末考",
+      "evalb_name_en": "Final examination",
+      "seq": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CS06132",
+      "sub_id": "13673",
+      "scr_dup": "001",
+      "evalb_id": "D3",
+      "score_rate": 5,
+      "evalb_memo": "對光實驗：5%",
+      "evalb_memo_en": null,
+      "evalb_name": "隨堂測驗",
+      "evalb_name_en": "In-class examination",
+      "seq": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CS06132",
+      "sub_id": "13673",
+      "scr_dup": "001",
+      "evalb_id": "D4",
+      "score_rate": 70,
+      "evalb_memo": "平時成績（60%＝實驗表現權重×報告成績） 實驗表現權重： 本學期共計45點，全部獲得者其權重為100％。\n相關實驗室規範由助教公布，違反者案情節輕重扣點。\n報告成績：60% 缺席或請假者未補作實驗，該次報告零分計算。\n實驗記錄本成績：10% 每組一份，期末交由助教評分。",
+      "evalb_memo_en": null,
+      "evalb_name": "作業",
+      "evalb_name_en": "Homework",
+      "seq": 0
+    }
+  ],
+  "gradeRuleDescribe": {
+    "yms_year": 114.0,
+    "yms_smester": 2.0,
+    "cls_id": "CS06132",
+    "sub_id": "13673",
+    "scr_dup": "001",
+    "tpa_score_new": "<div>平時成績（60%＝實驗表現權重&times;報告成績） 實驗表現權重： 本學期共計45點，全部獲得者其權重為100％。 相關實驗室規範由助教公布，違反者案情節輕重扣點。 實驗記錄本成績：10% 每組一份，期末交由助教評分。 報告成績：50% 缺席或請假者未補作實驗，該次報告零分計算。 期中口頭報告：10% 對光實驗：5% 期末實驗考試：15%</div>\n",
+    "tpa_score_new_en": null,
+    "course_pol": "請愛惜實驗設備及器材，避免相關物品損壞，實驗前閱讀實驗手冊及相關前置知識，了解實驗內容，提前到達實驗教室準備進行實驗課程及助教提問。",
+    "course_pol_en": null,
+    "course_rem": "希望各位同學能按授課進度完成各項學習任務，有規矩地、主動積極地參與各項學習活動、準時繳交作業，完成各項學習任務，並符合本課程的學 習目標者，以獲得應得的成績。若您在學期間遇到學習上的困難，請善用我的請益時間、或與我另約其他時段，共同尋求改善方案。",
+    "course_rem_en": null,
+    "ais_meno": "<div>在報告，觀察及審閱同學彼此的學習任務，鼓勵與同學合作，以完成書面實驗報告。組成學習或閱讀小組可能是學習的有效途徑。但是，當您撰寫文章或論文時，文字必須是您自己的。\n<ul>\n\t<li>您必須認真遵守用於確認語詞和想法來源的標準規則。如果您使用了短語或引語，或者是另一位作者的用語或想法，則必須確認這些用語或想法的來源，並在報告中標註這些素材的出處。作者的姓名和在句子末尾，包含使用原材料的頁碼。</li>\n\t<li>如果抄襲或以其他方式來掩蔽您的作品來源，您的作業將為零分。若屢次不改，將依學生獎懲辦法提送獎懲委員會處分。</li>\n\t<li>如果您作作業感到惶恐，請不要試圖作抄襲或作弊。可以與我聯繫，我們可以協商找出可幫助您完成學業的方案。一旦作弊，要協商任何問題都為時已晚。</li>\n</ul>\n</div>\n",
+    "ais_meno_en": null,
+    "ilearn_mk": null
+  },
+  "integrity": {
+    "yms_year": 114.0,
+    "yms_smester": 2.0,
+    "cls_id": "CS06132",
+    "sub_id": "13673",
+    "scr_dup": "001",
+    "tpa_score_new": "<div>平時成績（60%＝實驗表現權重&times;報告成績） 實驗表現權重： 本學期共計45點，全部獲得者其權重為100％。 相關實驗室規範由助教公布，違反者案情節輕重扣點。 實驗記錄本成績：10% 每組一份，期末交由助教評分。 報告成績：50% 缺席或請假者未補作實驗，該次報告零分計算。 期中口頭報告：10% 對光實驗：5% 期末實驗考試：15%</div>\n",
+    "tpa_score_new_en": null,
+    "course_pol": "請愛惜實驗設備及器材，避免相關物品損壞，實驗前閱讀實驗手冊及相關前置知識，了解實驗內容，提前到達實驗教室準備進行實驗課程及助教提問。",
+    "course_pol_en": null,
+    "course_rem": "希望各位同學能按授課進度完成各項學習任務，有規矩地、主動積極地參與各項學習活動、準時繳交作業，完成各項學習任務，並符合本課程的學 習目標者，以獲得應得的成績。若您在學期間遇到學習上的困難，請善用我的請益時間、或與我另約其他時段，共同尋求改善方案。",
+    "course_rem_en": null,
+    "ais_meno": "<div>在報告，觀察及審閱同學彼此的學習任務，鼓勵與同學合作，以完成書面實驗報告。組成學習或閱讀小組可能是學習的有效途徑。但是，當您撰寫文章或論文時，文字必須是您自己的。\n<ul>\n\t<li>您必須認真遵守用於確認語詞和想法來源的標準規則。如果您使用了短語或引語，或者是另一位作者的用語或想法，則必須確認這些用語或想法的來源，並在報告中標註這些素材的出處。作者的姓名和在句子末尾，包含使用原材料的頁碼。</li>\n\t<li>如果抄襲或以其他方式來掩蔽您的作品來源，您的作業將為零分。若屢次不改，將依學生獎懲辦法提送獎懲委員會處分。</li>\n\t<li>如果您作作業感到惶恐，請不要試圖作抄襲或作弊。可以與我聯繫，我們可以協商找出可幫助您完成學業的方案。一旦作弊，要協商任何問題都為時已晚。</li>\n</ul>\n</div>\n",
+    "ais_meno_en": null,
+    "ilearn_mk": null
+  },
+  "policy": {
+    "yms_year": 114.0,
+    "yms_smester": 2.0,
+    "cls_id": "CS06132",
+    "sub_id": "13673",
+    "scr_dup": "001",
+    "tpa_score_new": "<div>平時成績（60%＝實驗表現權重&times;報告成績） 實驗表現權重： 本學期共計45點，全部獲得者其權重為100％。 相關實驗室規範由助教公布，違反者案情節輕重扣點。 實驗記錄本成績：10% 每組一份，期末交由助教評分。 報告成績：50% 缺席或請假者未補作實驗，該次報告零分計算。 期中口頭報告：10% 對光實驗：5% 期末實驗考試：15%</div>\n",
+    "tpa_score_new_en": null,
+    "course_pol": "請愛惜實驗設備及器材，避免相關物品損壞，實驗前閱讀實驗手冊及相關前置知識，了解實驗內容，提前到達實驗教室準備進行實驗課程及助教提問。",
+    "course_pol_en": null,
+    "course_rem": "希望各位同學能按授課進度完成各項學習任務，有規矩地、主動積極地參與各項學習活動、準時繳交作業，完成各項學習任務，並符合本課程的學 習目標者，以獲得應得的成績。若您在學期間遇到學習上的困難，請善用我的請益時間、或與我另約其他時段，共同尋求改善方案。",
+    "course_rem_en": null,
+    "ais_meno": "<div>在報告，觀察及審閱同學彼此的學習任務，鼓勵與同學合作，以完成書面實驗報告。組成學習或閱讀小組可能是學習的有效途徑。但是，當您撰寫文章或論文時，文字必須是您自己的。\n<ul>\n\t<li>您必須認真遵守用於確認語詞和想法來源的標準規則。如果您使用了短語或引語，或者是另一位作者的用語或想法，則必須確認這些用語或想法的來源，並在報告中標註這些素材的出處。作者的姓名和在句子末尾，包含使用原材料的頁碼。</li>\n\t<li>如果抄襲或以其他方式來掩蔽您的作品來源，您的作業將為零分。若屢次不改，將依學生獎懲辦法提送獎懲委員會處分。</li>\n\t<li>如果您作作業感到惶恐，請不要試圖作抄襲或作弊。可以與我聯繫，我們可以協商找出可幫助您完成學業的方案。一旦作弊，要協商任何問題都為時已晚。</li>\n</ul>\n</div>\n",
+    "ais_meno_en": null,
+    "ilearn_mk": null
+  },
+  "courseBankC": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CS06132",
+      "sub_id": "13673",
+      "scr_dup": "001",
+      "seq": 1,
+      "describe_ch": "能正確使用基礎光學實驗技術與工具。",
+      "describe_en": "Be able to apply basic optical techniques and instruments correctly.",
+      "core_id": "C",
+      "core_item": "執行光電實務所需技術，及使用現代的相關專業工具之能力。",
+      "core_eng": "ability to apply techniques, skills, and modern tools necessary for photonic practice.",
+      "core_level": "3 ",
+      "strgy": [
+        "05"
+      ],
+      "evalb": [
+        "G2",
+        "I2",
+        "K1"
+      ],
+      "strgy_name": [
+        "實驗實習"
+      ],
+      "strgy_name_en": [
+        "Experimental practice"
+      ],
+      "evalb_name": [
+        "實驗/實習報告",
+        "實驗操作",
+        "口試"
+      ],
+      "evalb_name_en": [
+        "Laboratory/internship report",
+        "Experiment operation",
+        "Oral exam"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CS06132",
+          "sub_id": "13673",
+          "scr_dup": "001",
+          "seq": 1,
+          "strgy_id": "05",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CS06132",
+          "sub_id": "13673",
+          "scr_dup": "001",
+          "seq": 1,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "G2",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CS06132",
+          "sub_id": "13673",
+          "scr_dup": "001",
+          "seq": 1,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "I2",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CS06132",
+          "sub_id": "13673",
+          "scr_dup": "001",
+          "seq": 1,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "K1",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CS06132",
+      "sub_id": "13673",
+      "scr_dup": "001",
+      "seq": 2,
+      "describe_ch": "能夠處理及分析實驗結果。",
+      "describe_en": "Be able to organize and to analyze the experimental results.",
+      "core_id": "B",
+      "core_item": "設計與執行光電實驗，以及解析實驗數據的能力。",
+      "core_eng": "ability to design and conduct photonic experiments, as well as to analyze and interpret data.",
+      "core_level": "4 ",
+      "strgy": [
+        "05"
+      ],
+      "evalb": [
+        "G2",
+        "I2",
+        "K1"
+      ],
+      "strgy_name": [
+        "實驗實習"
+      ],
+      "strgy_name_en": [
+        "Experimental practice"
+      ],
+      "evalb_name": [
+        "實驗/實習報告",
+        "實驗操作",
+        "口試"
+      ],
+      "evalb_name_en": [
+        "Laboratory/internship report",
+        "Experiment operation",
+        "Oral exam"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CS06132",
+          "sub_id": "13673",
+          "scr_dup": "001",
+          "seq": 2,
+          "strgy_id": "05",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CS06132",
+          "sub_id": "13673",
+          "scr_dup": "001",
+          "seq": 2,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "G2",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CS06132",
+          "sub_id": "13673",
+          "scr_dup": "001",
+          "seq": 2,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "I2",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CS06132",
+          "sub_id": "13673",
+          "scr_dup": "001",
+          "seq": 2,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "K1",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CS06132",
+      "sub_id": "13673",
+      "scr_dup": "001",
+      "seq": 3,
+      "describe_ch": "能透過小組展現團隊合作能力。",
+      "describe_en": "Demonstrate team spirit through teamwork.",
+      "core_id": "E",
+      "core_item": "專案管理、有效溝通、領域整合與團隊合作的能力。",
+      "core_eng": "ability to manage project (including budgeting), communicate effectively, work in multi-disciplinary environment, and function on teams.",
+      "core_level": "3 ",
+      "strgy": [
+        "05"
+      ],
+      "evalb": [
+        "I2",
+        "K2"
+      ],
+      "strgy_name": [
+        "實驗實習"
+      ],
+      "strgy_name_en": [
+        "Experimental practice"
+      ],
+      "evalb_name": [
+        "實驗操作",
+        "口頭報告"
+      ],
+      "evalb_name_en": [
+        "Experiment operation",
+        "Oral presentation"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CS06132",
+          "sub_id": "13673",
+          "scr_dup": "001",
+          "seq": 3,
+          "strgy_id": "05",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CS06132",
+          "sub_id": "13673",
+          "scr_dup": "001",
+          "seq": 3,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "I2",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CS06132",
+          "sub_id": "13673",
+          "scr_dup": "001",
+          "seq": 3,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "K2",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CS06132",
+      "sub_id": "13673",
+      "scr_dup": "001",
+      "seq": 4,
+      "describe_ch": "能運用書面或口頭報告將所獲結果與同儕及教師溝通。",
+      "describe_en": "Application of paper or oral reports for presenting to classmates, and the instructor.",
+      "core_id": "E",
+      "core_item": "專案管理、有效溝通、領域整合與團隊合作的能力。",
+      "core_eng": "ability to manage project (including budgeting), communicate effectively, work in multi-disciplinary environment, and function on teams.",
+      "core_level": "5 ",
+      "strgy": [
+        "09"
+      ],
+      "evalb": [
+        "K2"
+      ],
+      "strgy_name": [
+        "口頭報告"
+      ],
+      "strgy_name_en": [
+        "Oral report"
+      ],
+      "evalb_name": [
+        "口頭報告"
+      ],
+      "evalb_name_en": [
+        "Oral presentation"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CS06132",
+          "sub_id": "13673",
+          "scr_dup": "001",
+          "seq": 4,
+          "strgy_id": "09",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CS06132",
+          "sub_id": "13673",
+          "scr_dup": "001",
+          "seq": 4,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "K2",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CS06132",
+      "sub_id": "13673",
+      "scr_dup": "001",
+      "seq": 5,
+      "describe_ch": "能透過光學實驗理解光電產品中的光學系統、元件或製程設計原由。",
+      "describe_en": "Be able to comprehend the design concepts of optical system, component or process in optoelectronic products.",
+      "core_id": "D",
+      "core_item": "設計光電系統、元件或製程之能力。",
+      "core_eng": "ability to design a photonic system, component, or process.",
+      "core_level": "2 ",
+      "strgy": [
+        "05",
+        "09"
+      ],
+      "evalb": [
+        "G2",
+        "K2"
+      ],
+      "strgy_name": [
+        "實驗實習",
+        "口頭報告"
+      ],
+      "strgy_name_en": [
+        "Experimental practice",
+        "Oral report"
+      ],
+      "evalb_name": [
+        "實驗/實習報告",
+        "口頭報告"
+      ],
+      "evalb_name_en": [
+        "Laboratory/internship report",
+        "Oral presentation"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CS06132",
+          "sub_id": "13673",
+          "scr_dup": "001",
+          "seq": 5,
+          "strgy_id": "05",
+          "strgy_name": null,
+          "strgy_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CS06132",
+          "sub_id": "13673",
+          "scr_dup": "001",
+          "seq": 5,
+          "strgy_id": "09",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CS06132",
+          "sub_id": "13673",
+          "scr_dup": "001",
+          "seq": 5,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "G2",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CS06132",
+          "sub_id": "13673",
+          "scr_dup": "001",
+          "seq": 5,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "K2",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    }
+  ],
+  "topicSdgs": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CS06132",
+      "sub_id": "13673",
+      "scr_dup": "001",
+      "sdgs_seq": 10,
+      "main_related": "N",
+      "ind_related": "Y",
+      "iss_name": "經濟成長面",
+      "iss_ename": "Economic Growth",
+      "content_name": "研發創新和建立工業建設",
+      "content_ename": "Industry, Innovation and Infrastructure"
+    }
+  ],
+  "topicAiIndicators": [],
+  "learnHours": {
+    "total": 0.0,
+    "tpdOnlineAsyTotal": 0.0,
+    "tpdOnlineSynTotal": 0.0,
+    "tpdOnlineFaceTotal": 0.0,
+    "asySynInTotalPercent": 0.0
+  },
+  "crossVerYear": 114
+}

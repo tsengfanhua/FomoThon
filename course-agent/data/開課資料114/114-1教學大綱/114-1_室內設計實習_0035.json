@@ -1,0 +1,629 @@
+{
+  "success": true,
+  "info": {
+    "yms_year": 114.0,
+    "yms_smester": 1.0,
+    "sub_id": "25559",
+    "cls_id": "AS03140",
+    "scr_dup": "001",
+    "sub_id3": "ID4940",
+    "cls_name": "室內設計四",
+    "cls_ename": "Bachelor's Program of Interior Design",
+    "sub_name": "室內設計實習",
+    "sub_ename": "INTERIOR DESIGN INTERNSHIP",
+    "scr_mso": "必修",
+    "scr_mso_en": "Required",
+    "scr_credit": 4.0,
+    "scr_periodly": "(五)00",
+    "scr_periodly_eng": "(Fri)00",
+    "lang_name": "中文                                                      ",
+    "lang_ename": "Chinese",
+    "scr_room": " ",
+    "scr_room_eng": " ",
+    "scr_teacher": "李元榮,林葳",
+    "scr_teacher_eng": "Yuan-Jung Lee,Wei Lin",
+    "scr_selcode": "0035",
+    "scr_elearning": "全學期",
+    "scr_elearning_en": "Full semester",
+    "scr_hours": "1",
+    "scr_english": "N",
+    "unt_name": null,
+    "unt_ename": null,
+    "link_traminal": null,
+    "link_traminal_en": null,
+    "scr_ldl": "D",
+    "course_mk": "N",
+    "teams_mk": "N",
+    "sub_title": null,
+    "sub_title_en": null,
+    "sub_describe": null,
+    "sub_describe_en": null,
+    "hasDescription": null,
+    "hasInstructor": null,
+    "hasTA": null,
+    "hasTextBooks": null,
+    "hasReadings": null,
+    "hasiSoftwares": null,
+    "hasAssistSoftwares": null,
+    "hasObjective": null,
+    "hasWeeklyScds": null,
+    "hasGradeRules": null,
+    "hasGradeRuleDescribe": null,
+    "hasIntegrity": null,
+    "hasCoursePol": null,
+    "hasCourseRem": null,
+    "hasObjectiveReleation": null,
+    "hasTopicSdgs": null,
+    "hasSubTitleDesc": null
+  },
+  "subTitleDesc": null,
+  "description": {
+    "sub_id3": null,
+    "sub_name": "室內設計實習",
+    "sub_ename": "INTERIOR DESIGN INTERNSHIP",
+    "describe_ch": "藉由此實習課程的參加，使同學實際了解室內設計事務所之營運，進而熟悉了解室內設計實際的方法及應用技術。實習課程規定：1.本室內設計實習課程，每年將開設於室內設計組4年級上學期必修課程，為4學分之課程。學生須於4年級上學期時選修該門課程。2.實習總成績80﹪為實習機構之評比分數，20﹪為實習報告分數。3.一經查核符合實習期滿者，則給予該門課程學分。本課程為4學分之專業必修課程，學生應於與室內設計專業領域相關之機關、團體、公司或事務所實際參予實務工作320小時，並經負責人或主管人員簽證評比後取得本課程之學分。",
+    "describe_eh": "Furthermore, students can understand the real method and the application technology of the architectural design. Course Registration: 1.\"Practice of interior design Studio\" is a required course with four credits for the program of interior design in the first semester of the fourth year. Course registration should be completed by the student in the first semester of the fourth year. 2.80% of the total score for internship comes from evaluations by the institutions and the other 20% is based on the internship reports. 3.Credit shall be granted after the accomplishment of internship practice is approved. This required course carrying four credits postulates that our students join the practical operation in any governmental or private institution, group, corporation, or firm with professions relevant to ours for 320 hours and obtain certification with supervisor's signature before acquiring this unit.\r\n",
+    "pre_subname": "",
+    "pre_sub_id3": null,
+    "pre_sub_ename": "",
+    "pre_describe": null,
+    "pre_describe_en": null,
+    "scr_credit": 4.0
+  },
+  "targets": [
+    {
+      "seq": 1,
+      "describe_ch": "整合理論課程與實務上的專業技術\t",
+      "describe_en": "To integrate theoretical courses and practical terms."
+    },
+    {
+      "seq": 2,
+      "describe_ch": "增進學生於室內設計專業上實務經驗的認識\t",
+      "describe_en": "To enhance students' understanding of practical experience in interior design"
+    },
+    {
+      "seq": 3,
+      "describe_ch": "訓練學生於實質設計中的專業技能\t",
+      "describe_en": "To train students in the real interior design expertise"
+    }
+  ],
+  "teachersInfo": [
+    {
+      "cname": "李元榮",
+      "ename": "Yuan-Jung Lee",
+      "period": " ",
+      "roletype": 0,
+      "email": "yjlee@o365.fcu.edu.tw",
+      "ext": "3347"
+    },
+    {
+      "cname": "林葳",
+      "ename": "Wei Lin",
+      "period": "(Tue)09-10 802-1,(Fri)03-04 802-1",
+      "roletype": 0,
+      "email": "wlin@o365.fcu.edu.tw",
+      "ext": "3321"
+    }
+  ],
+  "textBooks": {
+    "yms_year": 114.0,
+    "yms_smester": 1.0,
+    "cls_id": "AS03140",
+    "sub_id": "25559",
+    "scr_dup": "001",
+    "tpb_seq": 1,
+    "tpb_book": "<div>N/A</div>\n",
+    "tpb_book_en": null
+  },
+  "readings": {
+    "yms_year": 114.0,
+    "yms_smester": 1.0,
+    "cls_id": "AS03140",
+    "sub_id": "25559",
+    "scr_dup": "001",
+    "tpc_seq": 1,
+    "tpc_book": "<div>N/A</div>\n",
+    "tpc_book_en": null
+  },
+  "iSoftwares": [],
+  "assistSoftwares": [],
+  "weeklyScds": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "AS03140",
+      "sub_id": "25559",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "N/A",
+      "tpd_reading": "<div>N/A</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": null,
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": "N/A",
+      "tpd_ass_en": null,
+      "tpd_online_asy": 0.0,
+      "tpd_online_syn": 0.0,
+      "tpd_online_face": 0.0,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "AS03140",
+      "sub_id": "25559",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "N/A",
+      "tpd_reading": "<div>N/A</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": null,
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": "N/A",
+      "tpd_ass_en": null,
+      "tpd_online_asy": 0.0,
+      "tpd_online_syn": 0.0,
+      "tpd_online_face": 0.0,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "AS03140",
+      "sub_id": "25559",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "N/A",
+      "tpd_reading": "<div>N/A</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": null,
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": "N/A",
+      "tpd_ass_en": null,
+      "tpd_online_asy": 0.0,
+      "tpd_online_syn": 0.0,
+      "tpd_online_face": 0.0,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "AS03140",
+      "sub_id": "25559",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "N/A",
+      "tpd_reading": "<div>N/A</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": null,
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": "N/A",
+      "tpd_ass_en": null,
+      "tpd_online_asy": 0.0,
+      "tpd_online_syn": 0.0,
+      "tpd_online_face": 0.0,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "AS03140",
+      "sub_id": "25559",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "N/A",
+      "tpd_reading": "<div>N/A</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": null,
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": "N/A",
+      "tpd_ass_en": null,
+      "tpd_online_asy": 0.0,
+      "tpd_online_syn": 0.0,
+      "tpd_online_face": 0.0,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "AS03140",
+      "sub_id": "25559",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "N/A",
+      "tpd_reading": "<div>N/A</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": null,
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": "N/A",
+      "tpd_ass_en": null,
+      "tpd_online_asy": 0.0,
+      "tpd_online_syn": 0.0,
+      "tpd_online_face": 0.0,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "AS03140",
+      "sub_id": "25559",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "N/A",
+      "tpd_reading": "<div>N/A</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": null,
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": "N/A",
+      "tpd_ass_en": null,
+      "tpd_online_asy": 0.0,
+      "tpd_online_syn": 0.0,
+      "tpd_online_face": 0.0,
+      "tpd_week_en": null,
+      "mode": 0
+    }
+  ],
+  "gradeRules": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "AS03140",
+      "sub_id": "25559",
+      "scr_dup": "001",
+      "evalb_id": "B1",
+      "score_rate": 33,
+      "evalb_memo": "N/A",
+      "evalb_memo_en": null,
+      "evalb_name": "個人訪談",
+      "evalb_name_en": "Individual interview",
+      "seq": 1
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "AS03140",
+      "sub_id": "25559",
+      "scr_dup": "001",
+      "evalb_id": "B3",
+      "score_rate": 33,
+      "evalb_memo": "N/A",
+      "evalb_memo_en": null,
+      "evalb_name": "學生個別請益",
+      "evalb_name_en": "Individual tutoring",
+      "seq": 2
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "AS03140",
+      "sub_id": "25559",
+      "scr_dup": "001",
+      "evalb_id": "B2",
+      "score_rate": 34,
+      "evalb_memo": "N/A",
+      "evalb_memo_en": null,
+      "evalb_name": "團體學業諮詢",
+      "evalb_name_en": "Group interview",
+      "seq": 3
+    }
+  ],
+  "gradeRuleDescribe": {
+    "yms_year": 114.0,
+    "yms_smester": 1.0,
+    "cls_id": "AS03140",
+    "sub_id": "25559",
+    "scr_dup": "001",
+    "tpa_score_new": "<div>N/A</div>\n",
+    "tpa_score_new_en": null,
+    "course_pol": "在室內設計領域，校外實習課程若要有效銜接校內的課堂規則，必須將「專業實務訓練」與「教育規範要求」進行整合，使學生在真實場域中仍然維持學習的紀律。",
+    "course_pol_en": null,
+    "course_rem": "N/A",
+    "course_rem_en": null,
+    "ais_meno": "<div>在校外實習課程（internship/practicum）中，學術誠信的對應不僅是傳統意義上的避免抄襲、杜絕造假，更涉及「專業倫理」、「知識實作責任」以及「學術&mdash;產業轉換」的誠信實踐。</div>\n",
+    "ais_meno_en": null,
+    "ilearn_mk": "N"
+  },
+  "integrity": {
+    "yms_year": 114.0,
+    "yms_smester": 1.0,
+    "cls_id": "AS03140",
+    "sub_id": "25559",
+    "scr_dup": "001",
+    "tpa_score_new": "<div>N/A</div>\n",
+    "tpa_score_new_en": null,
+    "course_pol": "在室內設計領域，校外實習課程若要有效銜接校內的課堂規則，必須將「專業實務訓練」與「教育規範要求」進行整合，使學生在真實場域中仍然維持學習的紀律。",
+    "course_pol_en": null,
+    "course_rem": "N/A",
+    "course_rem_en": null,
+    "ais_meno": "<div>在校外實習課程（internship/practicum）中，學術誠信的對應不僅是傳統意義上的避免抄襲、杜絕造假，更涉及「專業倫理」、「知識實作責任」以及「學術&mdash;產業轉換」的誠信實踐。</div>\n",
+    "ais_meno_en": null,
+    "ilearn_mk": "N"
+  },
+  "policy": {
+    "yms_year": 114.0,
+    "yms_smester": 1.0,
+    "cls_id": "AS03140",
+    "sub_id": "25559",
+    "scr_dup": "001",
+    "tpa_score_new": "<div>N/A</div>\n",
+    "tpa_score_new_en": null,
+    "course_pol": "在室內設計領域，校外實習課程若要有效銜接校內的課堂規則，必須將「專業實務訓練」與「教育規範要求」進行整合，使學生在真實場域中仍然維持學習的紀律。",
+    "course_pol_en": null,
+    "course_rem": "N/A",
+    "course_rem_en": null,
+    "ais_meno": "<div>在校外實習課程（internship/practicum）中，學術誠信的對應不僅是傳統意義上的避免抄襲、杜絕造假，更涉及「專業倫理」、「知識實作責任」以及「學術&mdash;產業轉換」的誠信實踐。</div>\n",
+    "ais_meno_en": null,
+    "ilearn_mk": "N"
+  },
+  "courseBankC": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "AS03140",
+      "sub_id": "25559",
+      "scr_dup": "001",
+      "seq": 1,
+      "describe_ch": "整合理論課程與實務上的專業技術\t",
+      "describe_en": "To integrate theoretical courses and practical terms.",
+      "core_id": "E",
+      "core_item": "具備協調溝通、團隊合作、專業倫理及社會責任之專業從業能力",
+      "core_eng": "With the coordination of communication, teamwork, professional ethics and social responsibility of professional practitioners.",
+      "core_level": "3 ",
+      "strgy": [
+        "20"
+      ],
+      "evalb": [
+        "B1"
+      ],
+      "strgy_name": [
+        "協作學習"
+      ],
+      "strgy_name_en": [
+        "Collaborative Learning, CoL"
+      ],
+      "evalb_name": [
+        "個人訪談"
+      ],
+      "evalb_name_en": [
+        "Individual interview"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "AS03140",
+          "sub_id": "25559",
+          "scr_dup": "001",
+          "seq": 1,
+          "strgy_id": "20",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "AS03140",
+          "sub_id": "25559",
+          "scr_dup": "001",
+          "seq": 1,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "B1",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "AS03140",
+      "sub_id": "25559",
+      "scr_dup": "001",
+      "seq": 2,
+      "describe_ch": "增進學生於室內設計專業上實務經驗的認識\t",
+      "describe_en": "To enhance students' understanding of practical experience in interior design",
+      "core_id": "E",
+      "core_item": "具備協調溝通、團隊合作、專業倫理及社會責任之專業從業能力",
+      "core_eng": "With the coordination of communication, teamwork, professional ethics and social responsibility of professional practitioners.",
+      "core_level": "5 ",
+      "strgy": [
+        "18"
+      ],
+      "evalb": [
+        "B1"
+      ],
+      "strgy_name": [
+        "主動學習"
+      ],
+      "strgy_name_en": [
+        "Active Learning, AL"
+      ],
+      "evalb_name": [
+        "個人訪談"
+      ],
+      "evalb_name_en": [
+        "Individual interview"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "AS03140",
+          "sub_id": "25559",
+          "scr_dup": "001",
+          "seq": 2,
+          "strgy_id": "18",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "AS03140",
+          "sub_id": "25559",
+          "scr_dup": "001",
+          "seq": 2,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "B1",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "AS03140",
+      "sub_id": "25559",
+      "scr_dup": "001",
+      "seq": 3,
+      "describe_ch": "訓練學生於實質設計中的專業技能\t",
+      "describe_en": "To train students in the real interior design expertise",
+      "core_id": "A",
+      "core_item": "具備室內設計規劃之能力",
+      "core_eng": "Ability to have interior design planning.",
+      "core_level": "5 ",
+      "strgy": [
+        "29"
+      ],
+      "evalb": [
+        "B1"
+      ],
+      "strgy_name": [
+        "合作學習"
+      ],
+      "strgy_name_en": [
+        "Cooperative Learning, CL"
+      ],
+      "evalb_name": [
+        "個人訪談"
+      ],
+      "evalb_name_en": [
+        "Individual interview"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "AS03140",
+          "sub_id": "25559",
+          "scr_dup": "001",
+          "seq": 3,
+          "strgy_id": "29",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "AS03140",
+          "sub_id": "25559",
+          "scr_dup": "001",
+          "seq": 3,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "B1",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    }
+  ],
+  "topicSdgs": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "AS03140",
+      "sub_id": "25559",
+      "scr_dup": "001",
+      "sdgs_seq": 9,
+      "main_related": "N",
+      "ind_related": "Y",
+      "iss_name": "經濟成長面",
+      "iss_ename": "Economic Growth",
+      "content_name": "健全就業制度與經濟成長",
+      "content_ename": "Decent Work and Economic Growth"
+    }
+  ],
+  "learnHours": {
+    "total": 0.0,
+    "tpdOnlineAsyTotal": 0.0,
+    "tpdOnlineSynTotal": 0.0,
+    "tpdOnlineFaceTotal": 0.0,
+    "asySynInTotalPercent": 0.0
+  },
+  "crossVerYear": 114
+}

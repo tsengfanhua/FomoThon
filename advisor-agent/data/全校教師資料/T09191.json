@@ -1,0 +1,149 @@
+{
+  "teacherId": "T09191",
+  "name": "劉楊倫",
+  "mainUnit": "工程與科學學院",
+  "detailUnit": "航太與系統工程學系",
+  "skill": [
+    "有限元素法Finite Element Method",
+    "智慧製造Intelligent Manufacture",
+    "電腦輔助設計/製造/工程Automation of Computer-Aided Design/Manufacture/Engineering (CAD/CAM/CAE)",
+    "AI人工智慧Artificial Intelligence"
+  ],
+  "edu": [
+    "國立清華大學 動力機械工程學系 博士",
+    "國立清華大學 動力機械工程學系 碩士",
+    "國立成功大學 造船及船舶機械工程學系 學士"
+  ],
+  "fcuExp": [
+    "航太與系統工程學系 兼任助理教授",
+    "航太與系統工程學系 兼任助理教授",
+    "航太與系統工程學系 助理教授"
+  ],
+  "currjob": [],
+  "otherExp": [
+    "德國Fraunhofer製造工程與自動化研究所  訪問學者",
+    "工業技術研究院 智慧機械科技中心 工程師"
+  ],
+  "journal": [
+    {
+      "論文名稱": "Development of ANN-Based Warpage Prediction Model for FCCSP via Subdomain Sampling and Taguchi Hyperparameter Optimization",
+      "期刊名稱": "Micromachines (SCIE)",
+      "作者群": "Cheng, H.C.*; Ma, C.L.; Liu, Y.L."
+    },
+    {
+      "論文名稱": "鑽孔加工特徵辨識與路徑優化整合技術於模具之應用",
+      "期刊名稱": "機械工業雜誌 (機械工業網)",
+      "作者群": "蔡玉麟,劉楊倫,蔡曜陽"
+    },
+    {
+      "論文名稱": "加工特徵辨識技術於鑽孔加工之應用",
+      "期刊名稱": "機械工業雜誌 (機械工業網)",
+      "作者群": "蔡玉麟,劉楊倫,吳正傑,蔡曜陽"
+    },
+    {
+      "論文名稱": "A theoretical investigation of thermal effects on vibrational behaviors\nof single-walled carbon nanotubes",
+      "期刊名稱": "Computational Materials Science (SCIE)",
+      "作者群": "W. H. Chen, C. H. Wu, Y. L. Liu, and *H. C. Cheng"
+    },
+    {
+      "論文名稱": "On radial breathing vibration of carbon nanotubes",
+      "期刊名稱": "Computer Methods in Applied Mechanics and Engineering (SCIE)",
+      "作者群": "H. C. Cheng, *Y. L. Liu, C. H. Wu and W. H. Chen"
+    },
+    {
+      "論文名稱": "Radial Mechanical Properties of Single-Walled Carbon Nanotubes Using Modified Molecular Structure Mechanics",
+      "期刊名稱": "Computational Materials Science (SCIE)",
+      "作者群": "W. H. Chen, H. C. Cheng and *Y. L. Liu"
+    },
+    {
+      "論文名稱": "Atomistic-Continuum Modeling for Mechanical Properties of Single-Walled Carbon Nanotubes",
+      "期刊名稱": "International Journal of Solids and Structures (SCIE)",
+      "作者群": "H. C. Cheng, Y. L. Liu, Y. C. Hsu and *W. H. Chen"
+    },
+    {
+      "論文名稱": "Effects of Surface and In-layer van der Waals Interaction on Mechanical Properties for Carbon Nanotubes",
+      "期刊名稱": "Advanced Materials Research (EI)",
+      "作者群": "W. H. Chen, H. C. Cheng and Y. L. Liu"
+    }
+  ],
+  "journal2": [],
+  "conference": [
+    {
+      "論文名稱": "機器學習技術於航太零組件之設計與組裝之應用可行性探討",
+      "會議名稱": "2024中華民國航太學會學術研討會",
+      "作者群": "謝孟哲, 廖宇皓, 許淯凱, 余慶峰, 廖建智, 劉楊倫*"
+    },
+    {
+      "論文名稱": "不同銲錫接點及介金屬化合物在落摔衝擊荷載下對介金屬化合物層裂紋行為之影響研究",
+      "會議名稱": "中華民國力學學會第48屆全國力學會議與第3屆國際力學會議",
+      "作者群": "劉楊倫,余慶峰*"
+    },
+    {
+      "論文名稱": "Theoretical Computation for a Comprehensive Investigation of Structural Stability, Fracture Toughness, Anisotropic Elasticity, and Thermodynamic Properties of the Copper-Bismuth Binary Intermetallic Compound",
+      "會議名稱": "International Microsystems, Packaging, Assembly and Circuits Technology Conference (IMPACT 2024)",
+      "作者群": "Ching-Feng Yu and Yang-Lun Liu*"
+    },
+    {
+      "論文名稱": "Warpage Modeling and Prediction of SiC MOSFET Power Module During Fabrication",
+      "會議名稱": "40th International Electronics Manufacturing Technology Conference (IEMT 2024)",
+      "作者群": "Ming-Yuan Chen, Hsien-Chie Cheng*, Yang-Lun Liu, Yi-Hsin Liao, Kuo-Shu Kao, Tao-Chih Chang"
+    },
+    {
+      "論文名稱": "Feature-Recognition-based Automatic Toolpath Generation for Molds and Dies",
+      "會議名稱": "The 1st International Conference on Smart Machine and Intelligent Manufacturing (SMIM2017)",
+      "作者群": "C. C. Wu, Y. L., Liu, Y. Y. Tsai"
+    }
+  ],
+  "book": [],
+  "patent": [
+    {
+      "title": "發明",
+      "desc": "Machining parameter automatic generation system"
+    },
+    {
+      "title": "發明",
+      "desc": "PROCESSING METHOD AND SYSTEM FOR AUTOMATICALLY GENERATING MACHINING FEATURE"
+    },
+    {
+      "title": "發明",
+      "desc": "加工參數自動產生系統"
+    }
+  ],
+  "most": [
+    {
+      "name": "應用於電動車單相雙向二階二級車載充電系統之高電壓半橋碳化矽功率模組封裝技術之設計、分析與開發(1/3)",
+      "schoolYear": "113"
+    },
+    {
+      "name": "具新6G無線光傳輸之智慧型無人飛行載具異質系統平台之建置－具新6G無線光傳輸之智慧型無人飛行載具異質系統平台之建置(1/2)",
+      "schoolYear": "112"
+    },
+    {
+      "name": "應用機器學習法於碳化矽功率模組封裝結構之熱機械性質之分析與預測",
+      "schoolYear": "112"
+    }
+  ],
+  "tech": [],
+  "induAca": [
+    "高密度陣列式光耦合構裝模組結構可靠度模擬(矽光子CPO模組結構可靠度模擬) (2024-05 to 2024-12)",
+    "生成式2D幾何特徵SolidWorks API 介面開發 (2024-04 to 2024-11)"
+  ],
+  "perform": [],
+  "reward": [
+    "逢甲大學論文著作獎勵傑出獎 (113, 2024-11) - 逢甲大學"
+  ],
+  "speech": [
+    {
+      "演講題目": "人工智慧技術於智慧製造之應用現況與未來挑戰",
+      "邀請單位": "國立高雄科技大學模具工程學系",
+      "演講日期": "2023-12"
+    },
+    {
+      "演講題目": "機器學習技術於CAD/CAM技術之應用現況",
+      "邀請單位": "國立勤益科技大學機械工程系",
+      "演講日期": "2023-11"
+    }
+  ],
+  "material": [],
+  "tal": []
+}

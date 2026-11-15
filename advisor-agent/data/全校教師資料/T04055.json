@@ -1,0 +1,137 @@
+{
+  "teacherId": "T04055",
+  "name": "馮詩蘋",
+  "mainUnit": "金融學院",
+  "detailUnit": "財務工程與精算學士學位學程",
+  "skill": [
+    "財務工程Financial Engineering",
+    "財務風險管理Financial Risk Management",
+    "計量經濟Econometrics",
+    "財務數學Financial Mathematics"
+  ],
+  "edu": [
+    "國立台灣大學 國企系財金組 博士",
+    "國立成功大學 統計所 碩士",
+    "國立成功大學 數學系 學士"
+  ],
+  "fcuExp": [
+    "財務工程與精算學士學位學程 助理教授",
+    "財務工程與精算學士學位學程 副教授"
+  ],
+  "currjob": [],
+  "otherExp": [
+    "實踐大學 財務金融學系 助理教授"
+  ],
+  "journal": [
+    {
+      "論文名稱": "The Information Content of Option Trading and Liquidity Risk",
+      "期刊名稱": "The International Journal of Business and Finance Research (ECONLIT)",
+      "作者群": "Shih-Ping Feng"
+    },
+    {
+      "論文名稱": "Limits of Arbitrage, Risk-Neutral Skewness, and Investor Sentiment",
+      "期刊名稱": "International Journal of Business and Finance Research (ECONLIT)",
+      "作者群": "Shih-Ping Feng* and Bi-Juan Chang"
+    },
+    {
+      "論文名稱": "The importance of stock liquidity on option pricing",
+      "期刊名稱": "International Review of Economics and Finance (SSCI,ECONLIT)",
+      "作者群": "Shih-Ping Feng*, Mao-Wei Hung, and Yaw-Huei Wang"
+    },
+    {
+      "論文名稱": "Liquidity Risk, Default Risk and Stock Returns",
+      "期刊名稱": "International Research Journal of Finance and Economics (other)",
+      "作者群": "Shih-Ping Feng,Chia-Fen Tsai*,Tzu-Hui Pan"
+    },
+    {
+      "論文名稱": "Option Pricing with Stochastic Liquidity Risk: Theory and Evidence",
+      "期刊名稱": "Journal of Financial Markets (SSCI)",
+      "作者群": "Shih-Ping Feng*, Mao-Wei Hung, Yaw-Huei Wang"
+    },
+    {
+      "論文名稱": "The Liquidity Effect in Option Pricing: An Empirical Analysis",
+      "期刊名稱": "International Journal of Business and Finance Research (ECONLIT)",
+      "作者群": "Shih-Ping Feng*"
+    }
+  ],
+  "journal2": [],
+  "conference": [
+    {
+      "論文名稱": "Stock Liquidity and Value at Risk for Options",
+      "會議名稱": "6th International Conference on Econometrics and Statistics",
+      "作者群": "Shih-Ping Feng"
+    }
+  ],
+  "book": [
+    {
+      "專業書籍": "中國大陸當前金融問題與經濟成長",
+      "出版單位": " ",
+      "作者群": "李勝彥*,李沃牆,馮詩蘋,王緁妶\t"
+    }
+  ],
+  "patent": [],
+  "most": [
+    {
+      "name": "選擇權交易資訊、深度學習混合模型與Black-Litterman資產配置",
+      "schoolYear": "113"
+    },
+    {
+      "name": "股票流動性風險、機器學習核擬合法與股價機率密度函數預測",
+      "schoolYear": "112"
+    },
+    {
+      "name": "運用機器學習核擬合法增進隨機波動股價機率密度函數與選擇權風險預測",
+      "schoolYear": "111"
+    },
+    {
+      "name": "運用多變量系集預測於投資組合風險值與預期短缺計算",
+      "schoolYear": "110"
+    },
+    {
+      "name": "台灣股票市場價格跳躍的交易資訊內涵",
+      "schoolYear": "110"
+    },
+    {
+      "name": "增進風險值與預期短缺預測能力: 應用統計學習核擬合法",
+      "schoolYear": "109"
+    },
+    {
+      "name": "運用日內報酬率實質動差預測股票報酬率-以台灣股票市場為例",
+      "schoolYear": "109"
+    },
+    {
+      "name": "選擇權風險值與預期短缺計算:股票流動性風險之影響",
+      "schoolYear": "108"
+    },
+    {
+      "name": "選擇權資訊優勢交易與分析師建議評等修正",
+      "schoolYear": "107"
+    },
+    {
+      "name": "股票流動性與選擇權隱含股價機率密度函數預測",
+      "schoolYear": "106"
+    },
+    {
+      "name": "風險中立偏態與投資人情緒：股票選擇權實證",
+      "schoolYear": "105"
+    },
+    {
+      "name": "選擇權訊息交易與股票報酬：流動性影響分析",
+      "schoolYear": "104"
+    }
+  ],
+  "tech": [],
+  "induAca": [],
+  "perform": [],
+  "reward": [
+    "逢甲大學論文著作獎勵優良獎 (111, 2022-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (110, 2021-11) - 逢甲大學",
+    "108學年度科技部補助大專校院研究獎勵 (108, 2019-09) - 逢甲大學",
+    "106學年度優良導師 (106, 2018-11) - 學生事務處",
+    "107年度科技部補助大專校院研究獎勵 (107, 2018-08) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (106, 2017-11) - 逢甲大學"
+  ],
+  "speech": [],
+  "material": [],
+  "tal": []
+}

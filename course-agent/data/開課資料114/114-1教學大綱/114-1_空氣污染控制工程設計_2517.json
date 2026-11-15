@@ -1,0 +1,1247 @@
+{
+  "success": true,
+  "info": {
+    "yms_year": 114.0,
+    "yms_smester": 1.0,
+    "sub_id": "20972",
+    "cls_id": "CS02149",
+    "scr_dup": "001",
+    "sub_id3": "EES4004",
+    "cls_name": "環境四合",
+    "cls_ename": "Department of Environmental Engineering and Science",
+    "sub_name": "空氣污染控制工程設計",
+    "sub_ename": "AIR POLLUTION CONTROL ENGINEERING AND DESIGN",
+    "scr_mso": "必修",
+    "scr_mso_en": "Required",
+    "scr_credit": 2.0,
+    "scr_periodly": "(五)03-04",
+    "scr_periodly_eng": "(Fri)03-04",
+    "lang_name": "中文                                                      ",
+    "lang_ename": "Chinese",
+    "scr_room": "忠301",
+    "scr_room_eng": "JCB301",
+    "scr_teacher": "陳俊吉",
+    "scr_teacher_eng": "Chun-Chi Chen",
+    "scr_selcode": "2517",
+    "scr_elearning": "全學期",
+    "scr_elearning_en": "Full semester",
+    "scr_hours": "2",
+    "scr_english": "N",
+    "unt_name": null,
+    "unt_ename": null,
+    "link_traminal": "跨學期畢業專題",
+    "link_traminal_en": "Capstone Course",
+    "scr_ldl": "D",
+    "course_mk": "0",
+    "teams_mk": "N",
+    "sub_title": null,
+    "sub_title_en": null,
+    "sub_describe": null,
+    "sub_describe_en": null,
+    "hasDescription": null,
+    "hasInstructor": null,
+    "hasTA": null,
+    "hasTextBooks": null,
+    "hasReadings": null,
+    "hasiSoftwares": null,
+    "hasAssistSoftwares": null,
+    "hasObjective": null,
+    "hasWeeklyScds": null,
+    "hasGradeRules": null,
+    "hasGradeRuleDescribe": null,
+    "hasIntegrity": null,
+    "hasCoursePol": null,
+    "hasCourseRem": null,
+    "hasObjectiveReleation": null,
+    "hasTopicSdgs": null,
+    "hasSubTitleDesc": null
+  },
+  "subTitleDesc": null,
+  "description": {
+    "sub_id3": null,
+    "sub_name": "空氣污染控制工程設計",
+    "sub_ename": "AIR POLLUTION CONTROL ENGINEERING AND DESIGN",
+    "describe_ch": "空氣污染防治設施之設計興建為國內外空氣污染防治方法的主流。為提升本系學生畢業就業之競爭能力，先從國內空氣污染防治設施介紹說明、再深入就單元設計、流量設計、污染物處理、與成本效益等，分組進行空氣污染防治設施設計，並輔以營運操作管理方式說明，以加強本系學生實務觀念，期末且有成果發表。",
+    "describe_eh": "The design and building of air pollution control facilities for air pollution control purpose is a main stream of air pollution prevention methods worldwide nowadays. This course is designed to promote the competitive ability of graduated students, and includes the topics of development air pollution control facilities, control unit design, flow design and treatment, and cost benefit evaluation. Students will learn the details through group works. The operation and management of air pollution control facilities are also included in the class to give students more practical concepts and views. Final oral presentation of the design works will be held at the end of the semester.",
+    "pre_subname": "",
+    "pre_sub_id3": null,
+    "pre_sub_ename": "",
+    "pre_describe": null,
+    "pre_describe_en": null,
+    "scr_credit": 2.0
+  },
+  "targets": [
+    {
+      "seq": 1,
+      "describe_ch": "理解不同污染物之處理技術原理及應用\t",
+      "describe_en": "To understand the principle and applications of different pollutants and treatment technologies.\t"
+    },
+    {
+      "seq": 2,
+      "describe_ch": "綜合資料收集、數據整理解析與歸納設計的專業能力，構成專題研究報告\t",
+      "describe_en": "To compose a technical report."
+    },
+    {
+      "seq": 3,
+      "describe_ch": "應用工圖及各項環境工程之知識進行處理單元之設計\t.　",
+      "describe_en": "To apply various techniques of engineering drawing and environmental engineering principles on the designs of treatment processes"
+    },
+    {
+      "seq": 4,
+      "describe_ch": "理解各處理設備之工程設計與操控策略　\t",
+      "describe_en": "To understand various treatment plant design and their P&ID strategies.　"
+    },
+    {
+      "seq": 5,
+      "describe_ch": "應用專案管理、團隊合作與溝通協調能力\t",
+      "describe_en": "To apply the abilities of project management, effective communication and persuasion."
+    },
+    {
+      "seq": 6,
+      "describe_ch": "分析環境問題並構思解決問題的方法\t",
+      "describe_en": "To analyze the environmental problems and considering the possible solutions."
+    },
+    {
+      "seq": 7,
+      "describe_ch": "關心環境問題並能持續學習與謀求解決方案\t",
+      "describe_en": "To care about the environmental problems and seek for solutions by persistent learning."
+    },
+    {
+      "seq": 8,
+      "describe_ch": "認知專業倫理與社會道德責任，培養自我管理能力\t",
+      "describe_en": "To recognize the professional ethics and society moral responsibility, develop the ability of self-management."
+    }
+  ],
+  "teachersInfo": [
+    {
+      "cname": "陳俊吉",
+      "ename": "Chun-Chi Chen",
+      "period": "(Tue)02-03 理402C,(Tue)04  理402C,(Fri)05  理402C",
+      "roletype": 0,
+      "email": "chencchi@o365.fcu.edu.tw",
+      "ext": "5209"
+    }
+  ],
+  "textBooks": {
+    "yms_year": 114.0,
+    "yms_smester": 1.0,
+    "cls_id": "CS02149",
+    "sub_id": "20972",
+    "scr_dup": "001",
+    "tpb_seq": 1,
+    "tpb_book": "<div>課程講義 自編教材 收集資訊</div>\n",
+    "tpb_book_en": " "
+  },
+  "readings": {
+    "yms_year": 114.0,
+    "yms_smester": 1.0,
+    "cls_id": "CS02149",
+    "sub_id": "20972",
+    "scr_dup": "001",
+    "tpc_seq": 1,
+    "tpc_book": "<div>課程講義 自編教材 自行收集資訊</div>\n",
+    "tpc_book_en": null
+  },
+  "iSoftwares": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CS02149",
+      "sub_id": "20972",
+      "scr_dup": "001",
+      "seq_no": 1,
+      "soft_kind": "2",
+      "soft_name": "office",
+      "soft_memo": " ",
+      "soft_name_en": null,
+      "soft_memo_en": null
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CS02149",
+      "sub_id": "20972",
+      "scr_dup": "001",
+      "seq_no": 2,
+      "soft_kind": "2",
+      "soft_name": null,
+      "soft_memo": " ",
+      "soft_name_en": null,
+      "soft_memo_en": null
+    }
+  ],
+  "assistSoftwares": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CS02149",
+      "sub_id": "20972",
+      "scr_dup": "001",
+      "seq_no": 3,
+      "soft_kind": "3",
+      "soft_name": "電腦",
+      "soft_memo": " ",
+      "soft_name_en": null,
+      "soft_memo_en": null
+    }
+  ],
+  "weeklyScds": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CS02149",
+      "sub_id": "20972",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "1",
+      "tpd_reading": "<div>分組與研究案例分配</div>\n",
+      "tpd_reading_en": " ",
+      "tpd_learn": " ",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": 2.0,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CS02149",
+      "sub_id": "20972",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "2",
+      "tpd_reading": "<div>設計之決策</div>\n",
+      "tpd_reading_en": " ",
+      "tpd_learn": " ",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": 2.0,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CS02149",
+      "sub_id": "20972",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "3",
+      "tpd_reading": "<div>工程經濟</div>\n",
+      "tpd_reading_en": " ",
+      "tpd_learn": " ",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": 2.0,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CS02149",
+      "sub_id": "20972",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "4",
+      "tpd_reading": "<div>控制設備介紹</div>\n",
+      "tpd_reading_en": " ",
+      "tpd_learn": " ",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": 2.0,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CS02149",
+      "sub_id": "20972",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "5",
+      "tpd_reading": "<div>管路與輔助設備</div>\n",
+      "tpd_reading_en": " ",
+      "tpd_learn": " ",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": 2.0,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CS02149",
+      "sub_id": "20972",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "6",
+      "tpd_reading": "<div>防制設備計算</div>\n",
+      "tpd_reading_en": " ",
+      "tpd_learn": " ",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": 2.0,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CS02149",
+      "sub_id": "20972",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "7",
+      "tpd_reading": "<div>實廠設計(吸附)</div>\n",
+      "tpd_reading_en": " ",
+      "tpd_learn": " ",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": 2.0,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CS02149",
+      "sub_id": "20972",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "8",
+      "tpd_reading": "<div>實廠設計(焚化)</div>\n",
+      "tpd_reading_en": " ",
+      "tpd_learn": " ",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": 2.0,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CS02149",
+      "sub_id": "20972",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "9",
+      "tpd_reading": "<div>實廠設計(冷凝)</div>\n",
+      "tpd_reading_en": " ",
+      "tpd_learn": " ",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": 2.0,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CS02149",
+      "sub_id": "20972",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "10",
+      "tpd_reading": "<div>實廠設計(脫硫)</div>\n",
+      "tpd_reading_en": " ",
+      "tpd_learn": " ",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": 2.0,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CS02149",
+      "sub_id": "20972",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "11",
+      "tpd_reading": "<div>實廠設計(脫硝)</div>\n",
+      "tpd_reading_en": " ",
+      "tpd_learn": " ",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": 2.0,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CS02149",
+      "sub_id": "20972",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "12",
+      "tpd_reading": "<div>綜合討論</div>\n",
+      "tpd_reading_en": " ",
+      "tpd_learn": " ",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": 2.0,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CS02149",
+      "sub_id": "20972",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "13",
+      "tpd_reading": "<div>綜合討論</div>\n",
+      "tpd_reading_en": " ",
+      "tpd_learn": " ",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": 2.0,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CS02149",
+      "sub_id": "20972",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "14",
+      "tpd_reading": "<div>專題研究分組報告</div>\n",
+      "tpd_reading_en": " ",
+      "tpd_learn": " ",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": 2.0,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CS02149",
+      "sub_id": "20972",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "15",
+      "tpd_reading": "<div>專題研究分組報告</div>\n",
+      "tpd_reading_en": " ",
+      "tpd_learn": " ",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": 2.0,
+      "tpd_week_en": null,
+      "mode": 0
+    }
+  ],
+  "gradeRules": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CS02149",
+      "sub_id": "20972",
+      "scr_dup": "001",
+      "evalb_id": "G5",
+      "score_rate": 30,
+      "evalb_memo": "研究報告 30%",
+      "evalb_memo_en": null,
+      "evalb_name": "書面報告",
+      "evalb_name_en": "Writing report",
+      "seq": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CS02149",
+      "sub_id": "20972",
+      "scr_dup": "001",
+      "evalb_id": "K2",
+      "score_rate": 50,
+      "evalb_memo": "口試 50%",
+      "evalb_memo_en": null,
+      "evalb_name": "口頭報告",
+      "evalb_name_en": "Oral presentation",
+      "seq": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CS02149",
+      "sub_id": "20972",
+      "scr_dup": "001",
+      "evalb_id": "L3",
+      "score_rate": 20,
+      "evalb_memo": "平時成績 20%",
+      "evalb_memo_en": null,
+      "evalb_name": "課堂討論參與",
+      "evalb_name_en": "Participation",
+      "seq": 0
+    }
+  ],
+  "gradeRuleDescribe": {
+    "yms_year": 114.0,
+    "yms_smester": 1.0,
+    "cls_id": "CS02149",
+    "sub_id": "20972",
+    "scr_dup": "001",
+    "tpa_score_new": "<div>平時成績 20% 研究報告 30% 口試 50%</div>\n",
+    "tpa_score_new_en": " ",
+    "course_pol": "同學上課不可無故缺席, 不可遲到或早退,學期間將不定期抽查點名, 此為必修課程, 內容繁重, 請同學上課專心聽講, 同學需積極投入課堂討論及課後報告。",
+    "course_pol_en": null,
+    "course_rem": null,
+    "course_rem_en": null,
+    "ais_meno": "<div>經由此課程訓練可具備理解不同空氣污染控制工程之處理技術原理及應用, 藉此提升環境專業倫理與社會道德責任，培養自我管理能力。 學習必須以誠信為基礎，任何學生企圖將自己未製作的作品，作為自己的作品，此行為是為不誠實行為。在作業、測驗或考試中作弊或抄襲的學生或協助他人的行為，該次成績以零分計，若是累犯，將依逢甲大學學生獎懲辦法提送&nbsp;</div>\n",
+    "ais_meno_en": null,
+    "ilearn_mk": "N"
+  },
+  "integrity": {
+    "yms_year": 114.0,
+    "yms_smester": 1.0,
+    "cls_id": "CS02149",
+    "sub_id": "20972",
+    "scr_dup": "001",
+    "tpa_score_new": "<div>平時成績 20% 研究報告 30% 口試 50%</div>\n",
+    "tpa_score_new_en": " ",
+    "course_pol": "同學上課不可無故缺席, 不可遲到或早退,學期間將不定期抽查點名, 此為必修課程, 內容繁重, 請同學上課專心聽講, 同學需積極投入課堂討論及課後報告。",
+    "course_pol_en": null,
+    "course_rem": null,
+    "course_rem_en": null,
+    "ais_meno": "<div>經由此課程訓練可具備理解不同空氣污染控制工程之處理技術原理及應用, 藉此提升環境專業倫理與社會道德責任，培養自我管理能力。 學習必須以誠信為基礎，任何學生企圖將自己未製作的作品，作為自己的作品，此行為是為不誠實行為。在作業、測驗或考試中作弊或抄襲的學生或協助他人的行為，該次成績以零分計，若是累犯，將依逢甲大學學生獎懲辦法提送&nbsp;</div>\n",
+    "ais_meno_en": null,
+    "ilearn_mk": "N"
+  },
+  "policy": {
+    "yms_year": 114.0,
+    "yms_smester": 1.0,
+    "cls_id": "CS02149",
+    "sub_id": "20972",
+    "scr_dup": "001",
+    "tpa_score_new": "<div>平時成績 20% 研究報告 30% 口試 50%</div>\n",
+    "tpa_score_new_en": " ",
+    "course_pol": "同學上課不可無故缺席, 不可遲到或早退,學期間將不定期抽查點名, 此為必修課程, 內容繁重, 請同學上課專心聽講, 同學需積極投入課堂討論及課後報告。",
+    "course_pol_en": null,
+    "course_rem": null,
+    "course_rem_en": null,
+    "ais_meno": "<div>經由此課程訓練可具備理解不同空氣污染控制工程之處理技術原理及應用, 藉此提升環境專業倫理與社會道德責任，培養自我管理能力。 學習必須以誠信為基礎，任何學生企圖將自己未製作的作品，作為自己的作品，此行為是為不誠實行為。在作業、測驗或考試中作弊或抄襲的學生或協助他人的行為，該次成績以零分計，若是累犯，將依逢甲大學學生獎懲辦法提送&nbsp;</div>\n",
+    "ais_meno_en": null,
+    "ilearn_mk": "N"
+  },
+  "courseBankC": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CS02149",
+      "sub_id": "20972",
+      "scr_dup": "001",
+      "seq": 1,
+      "describe_ch": "理解不同污染物之處理技術原理及應用\t",
+      "describe_en": "To understand the principle and applications of different pollutants and treatment technologies.\t",
+      "core_id": "A",
+      "core_item": "具備理解環境議題之語文、數學，科學與工程知識的基本能力。",
+      "core_eng": "Able to acquire knowledge in languages, mathematics, science and engineering, as well as an understanding of environmental issues.",
+      "core_level": "2 ",
+      "strgy": [
+        "01"
+      ],
+      "evalb": [
+        "L3"
+      ],
+      "strgy_name": [
+        "課堂授課"
+      ],
+      "strgy_name_en": [
+        "Classroom instruction"
+      ],
+      "evalb_name": [
+        "課堂討論參與"
+      ],
+      "evalb_name_en": [
+        "Participation"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CS02149",
+          "sub_id": "20972",
+          "scr_dup": "001",
+          "seq": 1,
+          "strgy_id": "01",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CS02149",
+          "sub_id": "20972",
+          "scr_dup": "001",
+          "seq": 1,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "L3",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CS02149",
+      "sub_id": "20972",
+      "scr_dup": "001",
+      "seq": 2,
+      "describe_ch": "綜合資料收集、數據整理解析與歸納設計的專業能力，構成專題研究報告\t",
+      "describe_en": "To compose a technical report.",
+      "core_id": "B",
+      "core_item": "執行實驗操作、解析數據與歸納結論的專業能力。",
+      "core_eng": "Able to carry out experiments, analyze data and draw conclusions.",
+      "core_level": "5 ",
+      "strgy": [
+        "10"
+      ],
+      "evalb": [
+        "D5"
+      ],
+      "strgy_name": [
+        "小組討論及活動"
+      ],
+      "strgy_name_en": [
+        "Group activity & discussion"
+      ],
+      "evalb_name": [
+        "期末專題"
+      ],
+      "evalb_name_en": [
+        "Final presentation"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CS02149",
+          "sub_id": "20972",
+          "scr_dup": "001",
+          "seq": 2,
+          "strgy_id": "10",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CS02149",
+          "sub_id": "20972",
+          "scr_dup": "001",
+          "seq": 2,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D5",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CS02149",
+      "sub_id": "20972",
+      "scr_dup": "001",
+      "seq": 3,
+      "describe_ch": "應用工圖及各項環境工程之知識進行處理單元之設計\t.　",
+      "describe_en": "To apply various techniques of engineering drawing and environmental engineering principles on the designs of treatment processes",
+      "core_id": "C",
+      "core_item": "具備執行環境工程實務所需之技能。",
+      "core_eng": "Possess the competencies required of an environmental engineering professional.",
+      "core_level": "3 ",
+      "strgy": [
+        "10"
+      ],
+      "evalb": [
+        "G5"
+      ],
+      "strgy_name": [
+        "小組討論及活動"
+      ],
+      "strgy_name_en": [
+        "Group activity & discussion"
+      ],
+      "evalb_name": [
+        "書面報告"
+      ],
+      "evalb_name_en": [
+        "Writing report"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CS02149",
+          "sub_id": "20972",
+          "scr_dup": "001",
+          "seq": 3,
+          "strgy_id": "10",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CS02149",
+          "sub_id": "20972",
+          "scr_dup": "001",
+          "seq": 3,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "G5",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CS02149",
+      "sub_id": "20972",
+      "scr_dup": "001",
+      "seq": 4,
+      "describe_ch": "理解各處理設備之工程設計與操控策略　\t",
+      "describe_en": "To understand various treatment plant design and their P&ID strategies.　",
+      "core_id": "D",
+      "core_item": "具備理解環境相關工程系統或單元規劃設計的能力。",
+      "core_eng": "Possess an understanding of environmental engineering systems and components or process design.",
+      "core_level": "2 ",
+      "strgy": [
+        "04"
+      ],
+      "evalb": [
+        "K2"
+      ],
+      "strgy_name": [
+        "專題討論"
+      ],
+      "strgy_name_en": [
+        "Seminar"
+      ],
+      "evalb_name": [
+        "口頭報告"
+      ],
+      "evalb_name_en": [
+        "Oral presentation"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CS02149",
+          "sub_id": "20972",
+          "scr_dup": "001",
+          "seq": 4,
+          "strgy_id": "04",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CS02149",
+          "sub_id": "20972",
+          "scr_dup": "001",
+          "seq": 4,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "K2",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CS02149",
+      "sub_id": "20972",
+      "scr_dup": "001",
+      "seq": 5,
+      "describe_ch": "應用專案管理、團隊合作與溝通協調能力\t",
+      "describe_en": "To apply the abilities of project management, effective communication and persuasion.",
+      "core_id": "E",
+      "core_item": "具備計畫管理、溝通協調與團隊合作的能力。",
+      "core_eng": "Possess project management competencies, as well as communication, coordination and team collaboration skills.",
+      "core_level": "3 ",
+      "strgy": [
+        "10"
+      ],
+      "evalb": [
+        "B4"
+      ],
+      "strgy_name": [
+        "小組討論及活動"
+      ],
+      "strgy_name_en": [
+        "Group activity & discussion"
+      ],
+      "evalb_name": [
+        "同儕互評"
+      ],
+      "evalb_name_en": [
+        "Peer review"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CS02149",
+          "sub_id": "20972",
+          "scr_dup": "001",
+          "seq": 5,
+          "strgy_id": "10",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CS02149",
+          "sub_id": "20972",
+          "scr_dup": "001",
+          "seq": 5,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "B4",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CS02149",
+      "sub_id": "20972",
+      "scr_dup": "001",
+      "seq": 6,
+      "describe_ch": "分析環境問題並構思解決問題的方法\t",
+      "describe_en": "To analyze the environmental problems and considering the possible solutions.",
+      "core_id": "F",
+      "core_item": "發掘、分析、應用研究成果及兼顧環境永續發展，以解決複雜且整合性工程問題的能力。",
+      "core_eng": "Able to identify and resolve problems.",
+      "core_level": "4 ",
+      "strgy": [
+        "04"
+      ],
+      "evalb": [
+        "K2",
+        "K3"
+      ],
+      "strgy_name": [
+        "專題討論"
+      ],
+      "strgy_name_en": [
+        "Seminar"
+      ],
+      "evalb_name": [
+        "口頭報告",
+        "上課即時問與答"
+      ],
+      "evalb_name_en": [
+        "Oral presentation",
+        "In-class oral assessment"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CS02149",
+          "sub_id": "20972",
+          "scr_dup": "001",
+          "seq": 6,
+          "strgy_id": "04",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CS02149",
+          "sub_id": "20972",
+          "scr_dup": "001",
+          "seq": 6,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "K2",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CS02149",
+          "sub_id": "20972",
+          "scr_dup": "001",
+          "seq": 6,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "K3",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CS02149",
+      "sub_id": "20972",
+      "scr_dup": "001",
+      "seq": 7,
+      "describe_ch": "關心環境問題並能持續學習與謀求解決方案\t",
+      "describe_en": "To care about the environmental problems and seek for solutions by persistent learning.",
+      "core_id": "G",
+      "core_item": "瞭解當代工程及文明對環境永續議題、社會共好及全球發展的影響，並能持續終身學習。",
+      "core_eng": "Able to understand contemporary environmental issues, strengthen professional environmental management competencies and pursue lifelong learning opportunities.",
+      "core_level": "3 ",
+      "strgy": [
+        "01"
+      ],
+      "evalb": [
+        "L3"
+      ],
+      "strgy_name": [
+        "課堂授課"
+      ],
+      "strgy_name_en": [
+        "Classroom instruction"
+      ],
+      "evalb_name": [
+        "課堂討論參與"
+      ],
+      "evalb_name_en": [
+        "Participation"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CS02149",
+          "sub_id": "20972",
+          "scr_dup": "001",
+          "seq": 7,
+          "strgy_id": "01",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CS02149",
+          "sub_id": "20972",
+          "scr_dup": "001",
+          "seq": 7,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "L3",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CS02149",
+      "sub_id": "20972",
+      "scr_dup": "001",
+      "seq": 8,
+      "describe_ch": "認知專業倫理與社會道德責任，培養自我管理能力\t",
+      "describe_en": "To recognize the professional ethics and society moral responsibility, develop the ability of self-management.",
+      "core_id": "H",
+      "core_item": "認知工程專業與資訊倫理與社會道德責任，及培養自我管理能力。",
+      "core_eng": "Able to comprehend professional engineering ethics and social responsibility, as well as cultivate self-discipline.",
+      "core_level": "2 ",
+      "strgy": [
+        "01"
+      ],
+      "evalb": [
+        "L3"
+      ],
+      "strgy_name": [
+        "課堂授課"
+      ],
+      "strgy_name_en": [
+        "Classroom instruction"
+      ],
+      "evalb_name": [
+        "課堂討論參與"
+      ],
+      "evalb_name_en": [
+        "Participation"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CS02149",
+          "sub_id": "20972",
+          "scr_dup": "001",
+          "seq": 8,
+          "strgy_id": "01",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CS02149",
+          "sub_id": "20972",
+          "scr_dup": "001",
+          "seq": 8,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "L3",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    }
+  ],
+  "topicSdgs": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CS02149",
+      "sub_id": "20972",
+      "scr_dup": "001",
+      "sdgs_seq": 10,
+      "main_related": "N",
+      "ind_related": "Y",
+      "iss_name": "經濟成長面",
+      "iss_ename": "Economic Growth",
+      "content_name": "研發創新和建立工業建設",
+      "content_ename": "Industry, Innovation and Infrastructure"
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CS02149",
+      "sub_id": "20972",
+      "scr_dup": "001",
+      "sdgs_seq": 11,
+      "main_related": "N",
+      "ind_related": "Y",
+      "iss_name": "經濟成長面",
+      "iss_ename": "Economic Growth",
+      "content_name": "永續消費與生產循環",
+      "content_ename": "Responsible Consumption and Production"
+    }
+  ],
+  "learnHours": {
+    "total": 30.0,
+    "tpdOnlineAsyTotal": 0.0,
+    "tpdOnlineSynTotal": 0.0,
+    "tpdOnlineFaceTotal": 30.0,
+    "asySynInTotalPercent": 0.0
+  },
+  "crossVerYear": 114
+}

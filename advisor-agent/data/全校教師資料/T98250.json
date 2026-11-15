@@ -1,0 +1,194 @@
+{
+  "teacherId": "T98250",
+  "name": "郝振宇",
+  "mainUnit": "建設學院",
+  "detailUnit": "建設學院",
+  "skill": [
+    "空間資訊Spatial Information地理資訊系統、搖感探測、衛星定位系統",
+    "資料標準Data Standard國際標準、語意學、國際合作、標準推動",
+    "系統分析與設計System Analysis and DesignUML分析、設計思考、物件導向設計"
+  ],
+  "edu": [
+    "逢甲大學 土木及水利工程 博士",
+    "逢甲大學 土地管理學系 碩士"
+  ],
+  "fcuExp": [
+    "地理資訊系統研究中心 其它職員",
+    "地理資訊系統研究中心 研究助理教授",
+    "地理資訊系統研究中心 研究助理教授",
+    "地理資訊系統研究中心 研究助理教授",
+    "建設學院 助理教授"
+  ],
+  "currjob": [],
+  "otherExp": [
+    "逢甲大學地理資訊中心  副處長"
+  ],
+  "journal": [
+    {
+      "論文名稱": "Synthetic Data-Driven Real-Time Detection Transformer Object Detection in Raining Weather Conditions",
+      "期刊名稱": "Applied Sciences (SCIE)",
+      "作者群": "Chen-Yu Hao,Yao-Chung Chen,Tai-Tien Chen,Ting-Hsuan Lai ,Tien-Yin Chou,Fang-Shii Ning,Mei-Hsin Chen"
+    },
+    {
+      "論文名稱": "Using Sparse Parts in Fused Information to Enhance Performance in Latent Low-Rank Representation-Based Fusion of Visible and Infrared Images",
+      "期刊名稱": "Sensors (SCIE)",
+      "作者群": "Hao, C.-Y.; Chen, Y.-C.*; Ning, F.-S.; Chou, T.-Y"
+    },
+    {
+      "論文名稱": "Developing an OGC Standard-Based Platform for Integration of Radiation Monitoring Data from Fukushima Area, Japan",
+      "期刊名稱": "Radiation Science and Technology (EI)",
+      "作者群": "Chen-Yu Hao; Mei-Shin Chen; Tien-Yin Chou; Chia-Cheng Lin; Kim Kyoungsook; Nguyen Xuan Linh;"
+    }
+  ],
+  "journal2": [],
+  "conference": [
+    {
+      "論文名稱": "DIGITAL TWIN SMART MANAGEMENT OF FISHERY PORT USING 3D GEOGRAPHIC INFORMATION PLATFORM APPLICATION",
+      "會議名稱": "2024 IEEE International Geoscience and Remote Sensing Symposium",
+      "作者群": "Ming-Lung Li* , Wen-Tzao Lin, I-Liang Shih , Jo-Yu Chang , Chen-Yu Hao , Chia-Liang Chien , Meng\u0002Ling Lin"
+    },
+    {
+      "論文名稱": "THE DESIGN AND DEVELOPMENT OF A CLOUD BASED NATIONAL DATACUBE SERVICES",
+      "會議名稱": "2023 International Geoscience and Remote Sensing Symposium",
+      "作者群": "I-Liang Shih, Chen-Yu Hao*, Jo-Yu Chang"
+    },
+    {
+      "論文名稱": "ADOPTING DATACUBES AS A SERVICE FOR BUILDING THE TAIWAN NATIONAL FEDERATED RASTER DATA REPOSITORY",
+      "會議名稱": "IEEE International Geoscisnse and Remote Sensing Symposium",
+      "作者群": "Chen-Yu Hao , Yi-Liang Shih , Jo-Yu Chang"
+    },
+    {
+      "論文名稱": "Design of a Resource-oriented Framework for Point Cloud Semantic Annotation with Deep Learning",
+      "會議名稱": "2018 IEEE First International Conference on Artificial Intelligence and Knowledge Engineering",
+      "作者群": "Chen-Yu Hao, Mei-Hsin Chen, Tien-Yin Chou and Chia-Wei Lin"
+    }
+  ],
+  "book": [
+    {
+      "專業書籍": "OGC Testbed-19 GeoDataCubes Engineering Report",
+      "出版單位": "OGC Engineering Report",
+      "作者群": "Alexander Jacob, Matthias Mohr, Michele Claus, Glenn Laughlin, Jérôme Jacovella-St-Louis, Patrick Dion, Dimitar Misev, Peter Baumann, Quentin Bialota, Pascal Broglie, Gérald Fenoy, Peng Yue, Kaixuan Wang, Yi Wei, Mahael Kadunc, Benjamin Pross, Chen-Yu Hao, Pontus Lurcock, Greg Buehler"
+    },
+    {
+      "專業書籍": "OGC Disasters Resilience Pilot User Guide: Landslide - Early Response and Evacuation Under Limited Bandwidth",
+      "出版單位": "Open Geospatial Consortium",
+      "作者群": "Chen-Yu Hao, Chia-Cheng Lin, Chia-Hui Chen), Hsiao-Yuan Yin, Robert Thomas, Terry Idol"
+    }
+  ],
+  "patent": [],
+  "most": [
+    {
+      "name": "(個別型)產學合作計畫－基於自適應提升框架的大語言模型在空間整合管理資訊系統對開放欄位的無監督分類",
+      "schoolYear": "113"
+    },
+    {
+      "name": "(廠配)準線智慧科技股份有限公司(個別型)產學合作計畫－基於自適應提升框架的大語言模型在空間整合管理資訊系統對開放欄位的無監督分類",
+      "schoolYear": "113"
+    },
+    {
+      "name": "整合群眾智慧及多元物聯感測技術於人工智慧防災決策之應用",
+      "schoolYear": "107"
+    },
+    {
+      "name": "應用資料鏈結技術於環境敏感地區地理空間語意建立之研究",
+      "schoolYear": "106"
+    },
+    {
+      "name": "整合群眾智慧及多元物聯感測技術於防災資訊之應用－整合群眾智慧及多元物聯感測技術於防災資訊之應用",
+      "schoolYear": "106"
+    }
+  ],
+  "tech": [
+    {
+      "論文名稱": "Geotargeting Protocol Standards (2017-03)",
+      "書名": "The International Encyclopedia of Geography",
+      "作者群": "Tien-Yin Chou, Yi-Min Huang, Wei-Yen Lin, Feng-Cheng Lin, Chen-Yu Hao"
+    }
+  ],
+  "induAca": [
+    "新北市林口區山坡地範圍檢討劃出可行性研究計畫 (2025-03 to 2025-05)",
+    "推動公部門空間資訊量能整合委辦案（案號：NCHC-S-114071） (2025-02 to 2025-08)",
+    "113年度臺中市政府建設局資訊系統整合暨決策平臺系統擴增第5期計畫（案號：113B-043） (2024-10 to 2025-07)",
+    "推動公部門空間資訊量能整合委辦案(案號:NCHC-113063) (2024-02 to 2024-12)",
+    "推動公部門空間資訊量能整合委辦 (2023-02 to 2023-12)",
+    "112年度空間地理資訊維護更新監審案 (2023-01 to 2023-12)",
+    "111年推動公部門空間資訊量能整合與國際鏈結委辦 (2022-02 to 2022-12)",
+    "111年度空間地理資訊維護更新監審案 (2022-01 to 2022-12)",
+    "110年度空間地理資訊維護更新與數化監審案 (2021-02 to 2021-12)",
+    "110年度水利資料整合雲平台維護及精進計畫 (2021-01 to 2021-12)",
+    "多元自行車路網資訊系統之建置與行銷(I) (2020-04 to 2020-12)",
+    "水資源物聯網作業管理與規範導入計畫 (2019-12 to 2020-12)",
+    "智慧防災雨量觀測聯網暨觀測資料標準制定計畫 (2019-10 to 2020-11)",
+    "108年營運暨資訊監控整合系統維護 (2019-01 to 2019-12)",
+    "保險影像資訊即時傳輸暨智能辨識先驅研究計畫 (2018-06 to 2018-11)",
+    "107-108年智慧環境地理資料服務及協作計畫 (2018-04 to 2019-06)",
+    "107年營運暨資訊監控整合系統維護 (2018-01 to 2018-12)",
+    "106年度高雄市道路挖掘暨寬頻管道系統維護及擴充 (2017-08 to 2018-02)",
+    "開放資料系統功能擴充計畫 (2017-04 to 2017-12)",
+    "開放資料系統建置計畫 (2016-03 to 2016-12)",
+    "嘉義縣排水圖資整合服務系統建置委託資訊服務 (2015-01 to 2015-12)"
+  ],
+  "perform": [],
+  "reward": [
+    "逢甲大學論文著作獎勵優良獎 (107, 2018-11) - 逢甲大學"
+  ],
+  "speech": [
+    {
+      "演講題目": "Practical Use Cases of GeoAI in Smart City Applications",
+      "邀請單位": "OGC & KOREA Joint Conference",
+      "演講日期": "2024-11"
+    },
+    {
+      "演講題目": "GeoAI for Disaster Prevention: Real-World Use Cases",
+      "邀請單位": "OGC GeoAI DWG",
+      "演講日期": "2024-11"
+    },
+    {
+      "演講題目": "Urban Digital Twins in real world use cases",
+      "邀請單位": "OGC Geo for Metaverse DWG",
+      "演講日期": "2024-11"
+    },
+    {
+      "演講題目": "地理資訊結合智慧城市提升城市治理效能",
+      "邀請單位": "台中市政府數位治理局",
+      "演講日期": "2024-10"
+    },
+    {
+      "演講題目": "智慧城市治理與資訊安全管理",
+      "邀請單位": "國際資安組織大會",
+      "演講日期": "2024-07"
+    },
+    {
+      "演講題目": "Experiences in Adopting a Datacube for a National Raster Data Repository",
+      "邀請單位": "OGC Coverage SWG",
+      "演講日期": "2024-06"
+    },
+    {
+      "演講題目": "智慧城市三維空間資訊與應用",
+      "邀請單位": "建設學院碩士專班",
+      "演講日期": "2023-04"
+    },
+    {
+      "演講題目": "The development of National Datacube and next steps",
+      "邀請單位": "OGC Asia Forum",
+      "演講日期": "2022-10"
+    },
+    {
+      "演講題目": "智慧城市三維空間資訊與應用",
+      "邀請單位": "建設學院碩士專班",
+      "演講日期": "2022-04"
+    },
+    {
+      "演講題目": "智慧城市三維空間資訊與應用",
+      "邀請單位": "建設學院",
+      "演講日期": "2022-03"
+    },
+    {
+      "演講題目": "A Federated National Datacube Repository",
+      "邀請單位": "ESA Phi-Week",
+      "演講日期": "2021-10"
+    }
+  ],
+  "material": [],
+  "tal": []
+}

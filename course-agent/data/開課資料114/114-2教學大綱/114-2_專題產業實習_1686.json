@@ -1,0 +1,895 @@
+{
+  "success": true,
+  "info": {
+    "yms_year": 114.0,
+    "yms_smester": 2.0,
+    "sub_id": "43152",
+    "cls_id": "CE12149",
+    "scr_dup": "001",
+    "sub_id3": "AUTO4953",
+    "cls_name": "自控四合",
+    "cls_ename": "Department of Automatic Control Engineering",
+    "sub_name": "專題產業實習",
+    "sub_ename": "PROJECT-COOPERATIVE INDUSTRY INTERNSHIP",
+    "scr_mso": "選修",
+    "scr_mso_en": "Elective",
+    "scr_credit": 9.0,
+    "scr_periodly": "(一)00",
+    "scr_periodly_eng": "(Mon)00",
+    "lang_name": "中文                                                      ",
+    "lang_ename": "Chinese",
+    "scr_room": " ",
+    "scr_room_eng": " ",
+    "scr_teacher": "劉承勳,林昱成,廖本義,林育德,陳志成,陳鏡崑,黃清輝,洪三山",
+    "scr_teacher_eng": "San-Shan Hung,Yu-Chen Lin,Ben-Yi Liau,Yue-Der Lin,Chih-Cheng Chen,Ching-Kun Chen,Ching-Huei Huang,San-Shan Hung",
+    "scr_selcode": "1686",
+    "scr_elearning": "全學期",
+    "scr_elearning_en": "Full semester",
+    "scr_hours": "1",
+    "scr_english": "N",
+    "unt_name": null,
+    "unt_ename": null,
+    "link_traminal": null,
+    "link_traminal_en": null,
+    "scr_ldl": "D",
+    "course_mk": "N",
+    "teams_mk": "N",
+    "sub_title": null,
+    "sub_title_en": null,
+    "sub_describe": null,
+    "sub_describe_en": null,
+    "hasDescription": null,
+    "hasInstructor": null,
+    "hasTA": null,
+    "hasTextBooks": null,
+    "hasReadings": null,
+    "hasiSoftwares": null,
+    "hasAssistSoftwares": null,
+    "hasObjective": null,
+    "hasWeeklyScds": null,
+    "hasGradeRules": null,
+    "hasGradeRuleDescribe": null,
+    "hasIntegrity": null,
+    "hasCoursePol": null,
+    "hasCourseRem": null,
+    "hasObjectiveReleation": null,
+    "hasTopicSdgs": null,
+    "hasTopicAiIndicators": null,
+    "hasSubTitleDesc": null
+  },
+  "subTitleDesc": null,
+  "description": {
+    "sub_id3": null,
+    "sub_name": "專題產業實習",
+    "sub_ename": "PROJECT-COOPERATIVE INDUSTRY INTERNSHIP",
+    "describe_ch": "本課程開設於四年級下學期，提供學生至自控相關產業進行實習的機會，經由遴選讓學生到合作的機構服務，透過實務的練習加強專業技能，其目的在加強理論與實務的整合，提供實際的工作經驗來培訓學生將來成為自控專業人才，以提升未來就業和職涯競爭力。",
+    "describe_eh": "The course was opened in the 4th grade 2nd semester to offer students a practical training opportunity in the automation related industry. Recommended students will gain practical experience to improve professional skills as part of their services in the participating organizations. It aims to enhance the integration of theory and practice, train students to acquire work experience in real work environments.",
+    "pre_subname": "",
+    "pre_sub_id3": null,
+    "pre_sub_ename": "",
+    "pre_describe": null,
+    "pre_describe_en": null,
+    "scr_credit": 9.0
+  },
+  "targets": [
+    {
+      "seq": 1,
+      "describe_ch": "強化學生的專業技能在實務上的應用",
+      "describe_en": "To strengthen students' professional skills in real-world applications."
+    },
+    {
+      "seq": 2,
+      "describe_ch": "讓學生學習職場的溝通協調與團隊合作之能力",
+      "describe_en": "To encourage students to learn effective workplace communication and teamwork strategies."
+    },
+    {
+      "seq": 3,
+      "describe_ch": "培育學生具備終身學習、專業倫理及社會責任的基本素養",
+      "describe_en": "To cultivate students’ possession of life-long learning capabilities, professional ethics and social responsibilities."
+    },
+    {
+      "seq": 4,
+      "describe_ch": "培養學生解決整合性工程問題。",
+      "describe_en": "To develop students’ capabilities of solving integrated engineering problem."
+    }
+  ],
+  "teachersInfo": [
+    {
+      "cname": "劉承勳",
+      "ename": "Cheng-Shiun Liou",
+      "period": "(Tue)03-04 資電421,(Fri)03-04 資電421",
+      "roletype": 0,
+      "email": "csliou@o365.fcu.edu.tw",
+      "ext": "3929"
+    },
+    {
+      "cname": "林昱成",
+      "ename": "Yu-Chen Lin",
+      "period": "(Tue)07-08 資電428,(Tue)09  資電428,(Wed)07-08 資電428,(Wed)09  資電428,(Thu)03-04 資電428",
+      "roletype": 0,
+      "email": "yuchlin@o365.fcu.edu.tw",
+      "ext": "3933"
+    },
+    {
+      "cname": "廖本義",
+      "ename": "Ben-Yi Liau",
+      "period": "(Tue)03-04 資電420,(Wed)03  資電420,(Thu)04  資電420",
+      "roletype": 0,
+      "email": "byliau@o365.fcu.edu.tw",
+      "ext": "3915"
+    },
+    {
+      "cname": "林育德",
+      "ename": "Yue-Der Lin",
+      "period": "(Mon)08-09 資電406-3,(Tue)08-09 資電406-3",
+      "roletype": 0,
+      "email": "ydlin@o365.fcu.edu.tw",
+      "ext": "3925"
+    },
+    {
+      "cname": "陳志成",
+      "ename": "Chih-Cheng Chen",
+      "period": "(Tue)02  資電406,(Tue)06-07 資電406,(Wed)01-02 資電406,(Wed)06  資電406,(Thu)07  資電406",
+      "roletype": 0,
+      "email": "chenccheng@o365.fcu.edu.tw",
+      "ext": "3935"
+    },
+    {
+      "cname": "陳鏡崑",
+      "ename": "Ching-Kun Chen",
+      "period": "(Mon)03-04 資電415,(Tue)03-04 資電415,(Thu)03-04 資電415",
+      "roletype": 0,
+      "email": "chingkchen@o365.fcu.edu.tw",
+      "ext": "3923"
+    },
+    {
+      "cname": "黃清輝",
+      "ename": "Ching-Huei Huang",
+      "period": "(Wed)06-07 資電430,(Wed)08  資電430,(Thu)06-07 資電430,(Thu)08  資電430",
+      "roletype": 0,
+      "email": "chueihuang@o365.fcu.edu.tw",
+      "ext": "3936"
+    },
+    {
+      "cname": "洪三山",
+      "ename": "San-Shan Hung",
+      "period": "(Wed)03-04 資電427,(Thu)03-04 資電427",
+      "roletype": 0,
+      "email": "sshung@o365.fcu.edu.tw",
+      "ext": "3934"
+    }
+  ],
+  "textBooks": {
+    "yms_year": 114.0,
+    "yms_smester": 2.0,
+    "cls_id": "CE12149",
+    "sub_id": "43152",
+    "scr_dup": "001",
+    "tpb_seq": 1,
+    "tpb_book": "<div>無</div>\n",
+    "tpb_book_en": null
+  },
+  "readings": {
+    "yms_year": 114.0,
+    "yms_smester": 2.0,
+    "cls_id": "CE12149",
+    "sub_id": "43152",
+    "scr_dup": "001",
+    "tpc_seq": 1,
+    "tpc_book": "<div>由實習導師推薦</div>\n",
+    "tpc_book_en": null
+  },
+  "iSoftwares": [],
+  "assistSoftwares": [],
+  "weeklyScds": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CE12149",
+      "sub_id": "43152",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "1-3",
+      "tpd_reading": "<div>企業實習</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": null,
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": "完成企業學習單",
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": 2.0,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CE12149",
+      "sub_id": "43152",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "4-6",
+      "tpd_reading": "<div>企業實習</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": null,
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": "完成企業學習單",
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": 1.0,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CE12149",
+      "sub_id": "43152",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "7-8",
+      "tpd_reading": "<div>企業實習</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": null,
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": "完成企業學習單",
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": 1.0,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CE12149",
+      "sub_id": "43152",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "9-10",
+      "tpd_reading": "<div>企業實習</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": null,
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": "完成企業學習單",
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": 1.0,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CE12149",
+      "sub_id": "43152",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "11-12",
+      "tpd_reading": "<div>企業實習</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": null,
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": "完成企業學習單",
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": 1.0,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CE12149",
+      "sub_id": "43152",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "13-14",
+      "tpd_reading": "<div>企業實習</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": null,
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": "完成企業學習單",
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": 1.0,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CE12149",
+      "sub_id": "43152",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "15-16",
+      "tpd_reading": "<div>企業實習</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": null,
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": "完成企業學習單",
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": 1.0,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CE12149",
+      "sub_id": "43152",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "17-18",
+      "tpd_reading": "<div>企業實習</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": null,
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": "完成企業學習單",
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": 1.0,
+      "tpd_week_en": null,
+      "mode": 0
+    }
+  ],
+  "gradeRules": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CE12149",
+      "sub_id": "43152",
+      "scr_dup": "001",
+      "evalb_id": "G4",
+      "score_rate": 50,
+      "evalb_memo": "學生之校外專業實習報告及實習表現成績佔50％",
+      "evalb_memo_en": null,
+      "evalb_name": "專業實習報告",
+      "evalb_name_en": "Internship report",
+      "seq": 1
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CE12149",
+      "sub_id": "43152",
+      "scr_dup": "001",
+      "evalb_id": "I4",
+      "score_rate": 50,
+      "evalb_memo": "校外專業實習機構評分表成績佔50％",
+      "evalb_memo_en": null,
+      "evalb_name": "專題/成果發表(專家審查)",
+      "evalb_name_en": "Specialized presentation",
+      "seq": 2
+    }
+  ],
+  "gradeRuleDescribe": {
+    "yms_year": 114.0,
+    "yms_smester": 2.0,
+    "cls_id": "CE12149",
+    "sub_id": "43152",
+    "scr_dup": "001",
+    "tpa_score_new": "<div>請參閱本系實習要點<br />\n學生之校外專業實習報告及實習表現成績佔50％</div>\n\n<div>校外專業實習機構評分表成績佔50％</div>\n",
+    "tpa_score_new_en": null,
+    "course_pol": "第七條\t實習規定如下：\n一、\t學生在實習中需時常與企業導師及實習指導老師互動，並撰寫實習週記交由企業導師負責批改。實習結束後應填寫學生體驗成效評估表及撰寫實習心得報告。\n二、\t學生於實習期間，應遵守實習機構之各項規定、遵從企業導師及實習指導老師之指導，不得任意更換實習機構或中途離職，實習期間請假需經實習機構主管同意。\n三、\t實習學生於實習期間之相關權利義務，悉依實習機構現行規章辦理。\n四、\t學生若有不適應工作狀況，應於開始實習日起十日內向實習指導老師提出，由實習指導老師進行輔導與協調。若實屬不適任實習者使得退選該實習課程。\n五、\t退選學期專業實習者，學生應於規定期限內，返校辦理課程之加退選作業。\n六、\t實習學生必須尊重實習機構之智慧財產權，嚴守保密之義務，對於實習機構所提供之所有資料(包括但不限於營業秘密)及其他因本課程而知悉或持有之所有資料(包括但不限於營業秘密)，皆應以善良管理人之義務妥善保存，非經實習機構事前書面同意，不得將前述資料洩漏、交付或以任何方式透露予任何第三者知悉。\n七、\t實習學生應確實遵守個人資料保護法之相關規定。如違反本規定者，應負所有相關法律責任並對實習機構因此所衍生之損害負賠償之責。",
+    "course_pol_en": null,
+    "course_rem": "每週要交實習報告給學校的專題老師",
+    "course_rem_en": null,
+    "ais_meno": "<div>​​\n<div>實習期間如有以下情況，經查證屬實者，專業實習課程學分不予採計。此外，如有嚴重影響校譽，或違法情事發生，報請學校依校規處分。</div>\n\n<ul>\n\t<li>違反實習機構規定、未經核准中途離職或怠忽職責者。</li>\n\t<li>填報之實習相關表單文件，有不實或任意更換實習機構之情事者。</li>\n</ul>\n</div>\n",
+    "ais_meno_en": null,
+    "ilearn_mk": "N"
+  },
+  "integrity": {
+    "yms_year": 114.0,
+    "yms_smester": 2.0,
+    "cls_id": "CE12149",
+    "sub_id": "43152",
+    "scr_dup": "001",
+    "tpa_score_new": "<div>請參閱本系實習要點<br />\n學生之校外專業實習報告及實習表現成績佔50％</div>\n\n<div>校外專業實習機構評分表成績佔50％</div>\n",
+    "tpa_score_new_en": null,
+    "course_pol": "第七條\t實習規定如下：\n一、\t學生在實習中需時常與企業導師及實習指導老師互動，並撰寫實習週記交由企業導師負責批改。實習結束後應填寫學生體驗成效評估表及撰寫實習心得報告。\n二、\t學生於實習期間，應遵守實習機構之各項規定、遵從企業導師及實習指導老師之指導，不得任意更換實習機構或中途離職，實習期間請假需經實習機構主管同意。\n三、\t實習學生於實習期間之相關權利義務，悉依實習機構現行規章辦理。\n四、\t學生若有不適應工作狀況，應於開始實習日起十日內向實習指導老師提出，由實習指導老師進行輔導與協調。若實屬不適任實習者使得退選該實習課程。\n五、\t退選學期專業實習者，學生應於規定期限內，返校辦理課程之加退選作業。\n六、\t實習學生必須尊重實習機構之智慧財產權，嚴守保密之義務，對於實習機構所提供之所有資料(包括但不限於營業秘密)及其他因本課程而知悉或持有之所有資料(包括但不限於營業秘密)，皆應以善良管理人之義務妥善保存，非經實習機構事前書面同意，不得將前述資料洩漏、交付或以任何方式透露予任何第三者知悉。\n七、\t實習學生應確實遵守個人資料保護法之相關規定。如違反本規定者，應負所有相關法律責任並對實習機構因此所衍生之損害負賠償之責。",
+    "course_pol_en": null,
+    "course_rem": "每週要交實習報告給學校的專題老師",
+    "course_rem_en": null,
+    "ais_meno": "<div>​​\n<div>實習期間如有以下情況，經查證屬實者，專業實習課程學分不予採計。此外，如有嚴重影響校譽，或違法情事發生，報請學校依校規處分。</div>\n\n<ul>\n\t<li>違反實習機構規定、未經核准中途離職或怠忽職責者。</li>\n\t<li>填報之實習相關表單文件，有不實或任意更換實習機構之情事者。</li>\n</ul>\n</div>\n",
+    "ais_meno_en": null,
+    "ilearn_mk": "N"
+  },
+  "policy": {
+    "yms_year": 114.0,
+    "yms_smester": 2.0,
+    "cls_id": "CE12149",
+    "sub_id": "43152",
+    "scr_dup": "001",
+    "tpa_score_new": "<div>請參閱本系實習要點<br />\n學生之校外專業實習報告及實習表現成績佔50％</div>\n\n<div>校外專業實習機構評分表成績佔50％</div>\n",
+    "tpa_score_new_en": null,
+    "course_pol": "第七條\t實習規定如下：\n一、\t學生在實習中需時常與企業導師及實習指導老師互動，並撰寫實習週記交由企業導師負責批改。實習結束後應填寫學生體驗成效評估表及撰寫實習心得報告。\n二、\t學生於實習期間，應遵守實習機構之各項規定、遵從企業導師及實習指導老師之指導，不得任意更換實習機構或中途離職，實習期間請假需經實習機構主管同意。\n三、\t實習學生於實習期間之相關權利義務，悉依實習機構現行規章辦理。\n四、\t學生若有不適應工作狀況，應於開始實習日起十日內向實習指導老師提出，由實習指導老師進行輔導與協調。若實屬不適任實習者使得退選該實習課程。\n五、\t退選學期專業實習者，學生應於規定期限內，返校辦理課程之加退選作業。\n六、\t實習學生必須尊重實習機構之智慧財產權，嚴守保密之義務，對於實習機構所提供之所有資料(包括但不限於營業秘密)及其他因本課程而知悉或持有之所有資料(包括但不限於營業秘密)，皆應以善良管理人之義務妥善保存，非經實習機構事前書面同意，不得將前述資料洩漏、交付或以任何方式透露予任何第三者知悉。\n七、\t實習學生應確實遵守個人資料保護法之相關規定。如違反本規定者，應負所有相關法律責任並對實習機構因此所衍生之損害負賠償之責。",
+    "course_pol_en": null,
+    "course_rem": "每週要交實習報告給學校的專題老師",
+    "course_rem_en": null,
+    "ais_meno": "<div>​​\n<div>實習期間如有以下情況，經查證屬實者，專業實習課程學分不予採計。此外，如有嚴重影響校譽，或違法情事發生，報請學校依校規處分。</div>\n\n<ul>\n\t<li>違反實習機構規定、未經核准中途離職或怠忽職責者。</li>\n\t<li>填報之實習相關表單文件，有不實或任意更換實習機構之情事者。</li>\n</ul>\n</div>\n",
+    "ais_meno_en": null,
+    "ilearn_mk": "N"
+  },
+  "courseBankC": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CE12149",
+      "sub_id": "43152",
+      "scr_dup": "001",
+      "seq": 1,
+      "describe_ch": "強化學生的專業技能在實務上的應用",
+      "describe_en": "To strengthen students' professional skills in real-world applications.",
+      "core_id": null,
+      "core_item": null,
+      "core_eng": null,
+      "core_level": "3 ",
+      "strgy": [
+        "05"
+      ],
+      "evalb": [
+        "B1",
+        "K2",
+        "G4"
+      ],
+      "strgy_name": [
+        "實驗實習"
+      ],
+      "strgy_name_en": [
+        "Experimental practice"
+      ],
+      "evalb_name": [
+        "個人訪談",
+        "口頭報告",
+        "專業實習報告"
+      ],
+      "evalb_name_en": [
+        "Individual interview",
+        "Oral presentation",
+        "Internship report"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE12149",
+          "sub_id": "43152",
+          "scr_dup": "001",
+          "seq": 1,
+          "strgy_id": "05",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE12149",
+          "sub_id": "43152",
+          "scr_dup": "001",
+          "seq": 1,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "B1",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE12149",
+          "sub_id": "43152",
+          "scr_dup": "001",
+          "seq": 1,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "K2",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE12149",
+          "sub_id": "43152",
+          "scr_dup": "001",
+          "seq": 1,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "G4",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CE12149",
+      "sub_id": "43152",
+      "scr_dup": "001",
+      "seq": 2,
+      "describe_ch": "讓學生學習職場的溝通協調與團隊合作之能力",
+      "describe_en": "To encourage students to learn effective workplace communication and teamwork strategies.",
+      "core_id": "E",
+      "core_item": "具備陳述問題、搜集資料、訂定規範、建構系統、驗證結果之實驗實作及計畫管理能力。",
+      "core_eng": "To acquire the capabilities of conducting academic inquiry,searching for information,setting standards,constructing systems,conducting experiments to verify results,and managing project",
+      "core_level": "2 ",
+      "strgy": [
+        "05"
+      ],
+      "evalb": [
+        "B1",
+        "K2",
+        "G4"
+      ],
+      "strgy_name": [
+        "實驗實習"
+      ],
+      "strgy_name_en": [
+        "Experimental practice"
+      ],
+      "evalb_name": [
+        "個人訪談",
+        "口頭報告",
+        "專業實習報告"
+      ],
+      "evalb_name_en": [
+        "Individual interview",
+        "Oral presentation",
+        "Internship report"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE12149",
+          "sub_id": "43152",
+          "scr_dup": "001",
+          "seq": 2,
+          "strgy_id": "05",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE12149",
+          "sub_id": "43152",
+          "scr_dup": "001",
+          "seq": 2,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "B1",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE12149",
+          "sub_id": "43152",
+          "scr_dup": "001",
+          "seq": 2,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "K2",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE12149",
+          "sub_id": "43152",
+          "scr_dup": "001",
+          "seq": 2,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "G4",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CE12149",
+      "sub_id": "43152",
+      "scr_dup": "001",
+      "seq": 3,
+      "describe_ch": "培育學生具備終身學習、專業倫理及社會責任的基本素養",
+      "describe_en": "To cultivate students’ possession of life-long learning capabilities, professional ethics and social responsibilities.",
+      "core_id": "H",
+      "core_item": "透過參與專題競賽、校外專業實習、專業及語文認證，提升職場專業與資訊倫理競爭力。",
+      "core_eng": "H.Through participation in project competitions, off-campus professional internships, professional and language certifications, enhance competitiveness in professional and information ethics in the workplace.",
+      "core_level": "2 ",
+      "strgy": [
+        "05"
+      ],
+      "evalb": [
+        "B1",
+        "K2",
+        "G4"
+      ],
+      "strgy_name": [
+        "實驗實習"
+      ],
+      "strgy_name_en": [
+        "Experimental practice"
+      ],
+      "evalb_name": [
+        "個人訪談",
+        "口頭報告",
+        "專業實習報告"
+      ],
+      "evalb_name_en": [
+        "Individual interview",
+        "Oral presentation",
+        "Internship report"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE12149",
+          "sub_id": "43152",
+          "scr_dup": "001",
+          "seq": 3,
+          "strgy_id": "05",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE12149",
+          "sub_id": "43152",
+          "scr_dup": "001",
+          "seq": 3,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "B1",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE12149",
+          "sub_id": "43152",
+          "scr_dup": "001",
+          "seq": 3,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "K2",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE12149",
+          "sub_id": "43152",
+          "scr_dup": "001",
+          "seq": 3,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "G4",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CE12149",
+      "sub_id": "43152",
+      "scr_dup": "001",
+      "seq": 4,
+      "describe_ch": "培養學生解決整合性工程問題。",
+      "describe_en": "To develop students’ capabilities of solving integrated engineering problem.",
+      "core_id": "F",
+      "core_item": "具備使用中外語文、圖片暨多媒體工具，瞭解工程科技新知與國際時事議題，並能表達學習研究成果與兼顧永續發展能力。",
+      "core_eng": "F.\tPossess the ability to use Chinese and foreign languages, images, and multimedia tools to understand new knowledge in engineering technology and international current events, and to express learning and research outcomes while considering sustainable development.",
+      "core_level": "3 ",
+      "strgy": [
+        "05"
+      ],
+      "evalb": [
+        "B1",
+        "K2",
+        "G4"
+      ],
+      "strgy_name": [
+        "實驗實習"
+      ],
+      "strgy_name_en": [
+        "Experimental practice"
+      ],
+      "evalb_name": [
+        "個人訪談",
+        "口頭報告",
+        "專業實習報告"
+      ],
+      "evalb_name_en": [
+        "Individual interview",
+        "Oral presentation",
+        "Internship report"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE12149",
+          "sub_id": "43152",
+          "scr_dup": "001",
+          "seq": 4,
+          "strgy_id": "05",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE12149",
+          "sub_id": "43152",
+          "scr_dup": "001",
+          "seq": 4,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "B1",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE12149",
+          "sub_id": "43152",
+          "scr_dup": "001",
+          "seq": 4,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "K2",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE12149",
+          "sub_id": "43152",
+          "scr_dup": "001",
+          "seq": 4,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "G4",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    }
+  ],
+  "topicSdgs": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CE12149",
+      "sub_id": "43152",
+      "scr_dup": "001",
+      "sdgs_seq": 10,
+      "main_related": "Y",
+      "ind_related": "N",
+      "iss_name": "經濟成長面",
+      "iss_ename": "Economic Growth",
+      "content_name": "研發創新和建立工業建設",
+      "content_ename": "Industry, Innovation and Infrastructure"
+    }
+  ],
+  "topicAiIndicators": [],
+  "learnHours": {
+    "total": 9.0,
+    "tpdOnlineAsyTotal": 0.0,
+    "tpdOnlineSynTotal": 0.0,
+    "tpdOnlineFaceTotal": 9.0,
+    "asySynInTotalPercent": 0.0
+  },
+  "crossVerYear": 114
+}

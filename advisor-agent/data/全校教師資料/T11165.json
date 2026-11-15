@@ -1,0 +1,708 @@
+{
+  "teacherId": "T11165",
+  "name": "陸清達",
+  "mainUnit": "資訊電機學院",
+  "detailUnit": "通訊工程學系",
+  "skill": [
+    "AIoT應用與系統整合、人工智慧應用、數位音訊處理、數位影像處理、程式設計"
+  ],
+  "edu": [
+    "國立清華大學 電機工程學系 博士",
+    "國立台灣科技大學 電子工程技術系 碩士",
+    "國立台灣科技大學 電子工程技術系 學士"
+  ],
+  "fcuExp": [
+    "逢甲大學帆宣智慧城市5G實驗室 研究員",
+    "通訊工程學系 教授"
+  ],
+  "currjob": [],
+  "otherExp": [
+    "亞洲大學 資訊傳播學系 教授",
+    "亞洲大學 資訊傳播學系 副教授",
+    "親民技術學院 電子工程系 副教授",
+    "親民技術學院 電子工程系 講師"
+  ],
+  "journal": [
+    {
+      "論文名稱": "Implementation of an automatic meeting minute generation system using YAMNet with speaker identification and keyword prompt",
+      "期刊名稱": "Applied Sciences-Basel (SCIE)",
+      "作者群": "Ching-Ta Lu, Liang-Yu Wang"
+    },
+    {
+      "論文名稱": "An Intelligent playback control system adapted by body movements and facial expressions recognized by OpenPose and CNN",
+      "期刊名稱": "Multimedia Tools and Applications (SCIE)",
+      "作者群": "Ching-Ta Lu, Yu-Chun Liu, Ying-Chen Pa"
+    },
+    {
+      "論文名稱": "A speech denoising demonstration system using multi‑model deep‑learning neural networks",
+      "期刊名稱": "Multimedia Tools and Applications (SCIE)",
+      "作者群": "Ching-Ta Lu, Jun-Hong Shen, Aniello Castiglione, Cheng-Han Chung, Yen-Yu Lu"
+    },
+    {
+      "論文名稱": "Identification of traffic flow using multi-convolutional neural networks",
+      "期刊名稱": "International Journal of Network Security (EI)",
+      "作者群": "Ching-Ta Lu, Yu Huang, Ja-An Lin, Ling-Ling Wang"
+    },
+    {
+      "論文名稱": "A practical App for quickly calculating the number of people using machine learning and convolutional neural networks",
+      "期刊名稱": "Applied Sciences-Basel (SCIE)",
+      "作者群": "Ching-Ta Lu, Chun-Jen Ou, Yen-Yu Lu"
+    },
+    {
+      "論文名稱": "Monitoring spatial keyword queries based on resident domains of mobile objects in IoT environments",
+      "期刊名稱": "Mobile Networks and Applications (SCIE)",
+      "作者群": "Jun-Hong Shen, Mu-Yen Chen, Ching-Ta Lu, Rou-Hua Wang"
+    },
+    {
+      "論文名稱": "An interactive greeting system using convolutional neural networks for emotion recognition",
+      "期刊名稱": "Entertainment Computing (SCIE)",
+      "作者群": "Ching-Ta Lu, Chung-Wei Su, Hui-Ling Jiang, Yen-Yu Lu"
+    },
+    {
+      "論文名稱": "Image denoising using DLNN to recognize the direction of pixel variation",
+      "期刊名稱": "Signal Image and Video Processing (SCIE)",
+      "作者群": "Ching-Ta Lu, Hsin-Ju Hsu, Ling-Ling Wang"
+    },
+    {
+      "論文名稱": "Image enhancement using deep-learning fully-connected-neural-network mean filter",
+      "期刊名稱": "Journal of Supercomputing (SCIE)",
+      "作者群": "Ching-Ta Lu, Ling-Ling Wang, Jun-Hong Shen, Jia-An Lin"
+    },
+    {
+      "論文名稱": "Image enhancement using convolutional neural network to identify similar patterns",
+      "期刊名稱": "IET Image Processing (SCIE)",
+      "作者群": "Ching-Ta Lu, Rei-Han Chen, Ling-Ling Wang, Jia-An Lin"
+    },
+    {
+      "論文名稱": "Spatial Air Index with Neighbor Information for Processing k Nearest Neighbor Searches in IoT Mobile Computing",
+      "期刊名稱": "Journal of Supercomputing (SCIE)",
+      "作者群": "Jun-Hong Shen, Cheng-Jung Yu, Ching-Ta Lu, Wen-Yen Lin, Neil Y. Yen*, Tien-Chi Huang, Hong-Ray Chu"
+    },
+    {
+      "論文名稱": "Grid-based indexing with expansion of resident domains for monitoring moving objects",
+      "期刊名稱": "Journal of Supercomputing (SCIE)",
+      "作者群": "Jun-Hong Shen*, Ching-Ta Lu, Mu-Yen Chen, Neil Y. Yen"
+    },
+    {
+      "論文名稱": "Recognition of film type using HSV features on deep-learning neural networks",
+      "期刊名稱": "Journal of Electronic Science and Technology (EI)",
+      "作者群": "Ching-Ta Lu, Jia-An Lin, Chia-Yi Chang, Chia-Hua Liu, Ling-Ling Wang, Kun-Fu Tseng"
+    },
+    {
+      "論文名稱": "Image restoration using hybrid features improvement on morphological component analysis",
+      "期刊名稱": "Journal of Electronic Science and Technology (EI)",
+      "作者群": "Der-Chang Tseng, Ru-Yin Wei, Ching-Ta Lu*, Ling-Ling Wang"
+    },
+    {
+      "論文名稱": "Nonlinear guidance law design of autonomous underwater vehicles",
+      "期刊名稱": "Journal of the Chinese Society of Mechanical Engineers (SCIE)",
+      "作者群": "Yung-Yu Chen, Ching-Ta Lu"
+    },
+    {
+      "論文名稱": "mpulse noise denoising using confidence measure with non-sequential process order for X-ray bio-images",
+      "期刊名稱": "Journal of Medical and Biological Engineering (SCIE)",
+      "作者群": "Ching-Ta Lu, Jun-Hong Shen, Ling-Ling Wang, Chih-Chan Hsu, Li-Ling Liu"
+    },
+    {
+      "論文名稱": "X-ray bio-image denoising using directional-weighted-mean filtering and block matching approach",
+      "期刊名稱": "Journal of Ambient Intelligence & Humanized ComputingJournal of Ambient Intelligence & Humanized Computing (SCIE)",
+      "作者群": "Ching-Ta Lu, Mu-Yen Chen, Jun-Hong Shen, Ling-Ling Wang, Neil Y. Yen, Chia-Hua Liu"
+    },
+    {
+      "論文名稱": "Removal of salt-and-pepper noise for X-ray bio-images using pixel-variation gain factors",
+      "期刊名稱": "Computers & Electrical Engineering (SCIE)",
+      "作者群": "Ching-Ta Lu, Mu-Yen Chen*, Jun-Hong Shen, Ling-Ling Wang, Chih-Chan Hsu"
+    },
+    {
+      "論文名稱": "Noise reduction using subtraction-based approach with over-subtraction and reservation factors adapted by harmonic properties",
+      "期刊名稱": "Noise Control Engineering Journal (SCIE)",
+      "作者群": "Ching-Ta Lu, Chung-Lin Lei, Jun-Hong Shen, Ling-Ling Wang"
+    },
+    {
+      "論文名稱": "Estimation of noise magnitude for speech denoising using minima-controlled-recursive-averaging algorithm adapted by harmonic properties",
+      "期刊名稱": "Applied Sciences (SCIE)",
+      "作者群": "Ching-Ta Lu, Chung-Lin Lei, Jun-Hong Shen, Ling-Ling Wang, Kun-Fu Tseng"
+    },
+    {
+      "論文名稱": "Spatial air index based on largest empty rectangles for non-flat wireless broadcast in pervasive computing",
+      "期刊名稱": "ISPRS International Journal of Geo-Information (SCIE)",
+      "作者群": "Jun-Hong Shen*, Ching-Ta Lu, Mu-Yen Chen, Chien-Tang Mai"
+    },
+    {
+      "論文名稱": "Removal of salt-and-pepper noise in corrupted image using three-values-weighted approach with variable-size window",
+      "期刊名稱": "Pattern Recognition Letters (SCIE)",
+      "作者群": "Ching-Ta Lu, Yung-Yue Chen, Ling-Ling Wang, Chun-Fan Chang"
+    },
+    {
+      "論文名稱": "Estimation of noise magnitude using minima- controlled-recursive-averaging algorithm adapted by vowel harmonic for speech enhancement",
+      "期刊名稱": "International Journal of Advanced Information Technologies (IJAIT) (None)",
+      "作者群": "Ching-Ta Lu, Yu-Chung Shen"
+    },
+    {
+      "論文名稱": "Improvement of enhanced speech using harmonic boost and block-directional-median filter",
+      "期刊名稱": "International Journal of Electrical Engineering (EI)",
+      "作者群": "Ching-Ta Lu"
+    },
+    {
+      "論文名稱": "Refinement of enhanced speech using hybrid-median filter and harmonic regeneration approach",
+      "期刊名稱": "Journal of Electronic Science and Technology (EI)",
+      "作者群": "Ching-Ta Lu, Jun-Hong Shen, Kun-Fu Tseng, Chih-Tsung Chen"
+    },
+    {
+      "論文名稱": "Reduction of musical residual noise using block-and-directional-median filter adapted by harmonic properties",
+      "期刊名稱": "Speech Communication (SCIE)",
+      "作者群": "Ching-Ta Lu"
+    },
+    {
+      "論文名稱": "Removal of salt-and-pepper noise using gain masker adapted by switching pixel variance and edge direction",
+      "期刊名稱": "International Journal of Electrical Engineering (EI)",
+      "作者群": "Ching-Ta Lu"
+    },
+    {
+      "論文名稱": "Noise reduction using three-step gain factor and iterative-directional-median filter",
+      "期刊名稱": "Applied Acoustics (SCIE)",
+      "作者群": "Ching-Ta Lu"
+    },
+    {
+      "論文名稱": "Denoising of salt-and-pepper noise using edge-preservation adjusted by inter-window variation approach",
+      "期刊名稱": "International Journal of Advanced Information Technologies (IJAIT) (None)",
+      "作者群": "Ching-Ta Lu, Chi-Yu Chen"
+    },
+    {
+      "論文名稱": "Reduction of musical residual noise using hybrid-mean filter",
+      "期刊名稱": "International Journal of Signal Processing, Image Processing and Pattern Recognition (EI)",
+      "作者群": "Ching-Ta Lu, Kun-Fu Tseng, Chih-Tsung Chen"
+    },
+    {
+      "論文名稱": "Denoising of salt-and-pepper noise corrupted image using modified directional-weighted-median filter",
+      "期刊名稱": "Pattern Recognition Letters (SCIE)",
+      "作者群": "Ching-Ta Lu and Tzu-Chun Chou"
+    },
+    {
+      "論文名稱": "A study on speech enhancement using iterative-perceptual-weighting gain factor",
+      "期刊名稱": "International Journal of Advanced Information Technologies (None)",
+      "作者群": "Kuo-Liang Hong, Ching-Ta Lu, and Ming-Yen Wu"
+    },
+    {
+      "論文名稱": "Speech enhancement using three-step-decision gain factor with optimal smoothing",
+      "期刊名稱": "International Journal of Electrical Engineering (EI)",
+      "作者群": "Ching-Ta Lu, Jun-Hong Shen, Kun-Fu Tseng"
+    },
+    {
+      "論文名稱": "Enhancement of single channel speech using perceptual-decision-directed approach",
+      "期刊名稱": "Speech Communication (SCIE)",
+      "作者群": "Ching-Ta Lu"
+    },
+    {
+      "論文名稱": "A gain factor adapted by masking property and SNR variation for speech enhancement in colored-noise corruptions",
+      "期刊名稱": "Computer Speech and Language (SCIE)",
+      "作者群": "Ching-Ta Lu and Kun-Fu Tseng"
+    },
+    {
+      "論文名稱": "Speech enhancement using MMSE estimator with homogeneous-frame-merged approach in wavelet domain",
+      "期刊名稱": "International Journal of Electrical Engineering (EI)",
+      "作者群": "Ching-Ta Lu"
+    },
+    {
+      "論文名稱": "Reduction of musical residual noise for speech enhancement using masking properties and optimal smoothing",
+      "期刊名稱": "Pattern Recognition Letters (SCIE)",
+      "作者群": "Ching-Ta Lu"
+    },
+    {
+      "論文名稱": "Speech enhancement using hybrid gain factor in critical-Band-Wavelet Packet Transform",
+      "期刊名稱": "Digital Signal Processing (SCIE)",
+      "作者群": "Ching-Ta Lu and Hsiao-Chuan Wang"
+    },
+    {
+      "論文名稱": "An Explicit-Form Gain Factor for Speech Enhancement Using Spectral-Domain-Constrained Approach",
+      "期刊名稱": "IEICE Transactions on Information and Systems (SCIE)",
+      "作者群": "Ching-Ta Lu and Hsiao-Chuan Wang"
+    },
+    {
+      "論文名稱": "C/V Segmentation on Mandarin Spontaneously Spoken Speech Signals Using SNR Improvement and Energy Variatio",
+      "期刊名稱": "IEICE Transactions on Information and Systems (SCIE)",
+      "作者群": "Ching-Ta Lu and Hsiao-Chuan Wang"
+    },
+    {
+      "論文名稱": "Computation of Kullback-Leibler distances for score normalization in automatic speaker verification",
+      "期刊名稱": "Journal of Chin-Min Institute of Technology (None)",
+      "作者群": "Ching-Ta Lu and Jyh-Min Cheng"
+    },
+    {
+      "論文名稱": "Speech enhancement using perceptually-constrained gain factors in critical-band-wavelet packet transform",
+      "期刊名稱": "Electronics Letters (SCIE)",
+      "作者群": "Ching-Ta Lu and Hsiao-Chuan Wang"
+    },
+    {
+      "論文名稱": "A new training method for speech recognition",
+      "期刊名稱": "Journal of Chin-Min College (None)",
+      "作者群": "Lih-Cherng Liu and Ching-Ta Lu"
+    },
+    {
+      "論文名稱": "Speech enhancement using hybrid weighting in wavelet transform",
+      "期刊名稱": "Journal of Chin-Min College (None)",
+      "作者群": "Ching-Ta Lu and Lih-Cherng Liu"
+    },
+    {
+      "論文名稱": "Perceptual line spectrum frequencies for robust speech recognition",
+      "期刊名稱": "Journal of Chin-Min College (None)",
+      "作者群": "An-Tze Yu and Ching-Ta Lu"
+    },
+    {
+      "論文名稱": "Enhancement of single channel speech based on masking property and wavelet transform,” Speech Communication",
+      "期刊名稱": "Speech Communication (SCIE)",
+      "作者群": "Ching-Ta Lu and Hsiao-Chuan Wang"
+    },
+    {
+      "論文名稱": "Enhancement of white Gaussian noise corrupted speech using wavelet transform with adaptive threshold",
+      "期刊名稱": "Journal of Chin-Min College (None)",
+      "作者群": "Ching-Ta Lu"
+    },
+    {
+      "論文名稱": "Quantization of linear predictive coefficients for low bit-rate coders",
+      "期刊名稱": "Journal of Chin-Min College (Other)",
+      "作者群": "Ching-Ta Lu, Hsin-Kun Lai, Chih-Tsung Chen, Lin-Lin Ho"
+    }
+  ],
+  "journal2": [],
+  "conference": [
+    {
+      "論文名稱": "Implementation of an automatic skin disease identification system using convolutional neural network for scabies in long-term care facility residents",
+      "會議名稱": "2024 IET International Conference on Engineering Technologies and Applications (IET ICETA 2024)",
+      "作者群": "Li-Chun Lee, Wei-Ting Liu, Zhong-Wei Lin, Ching-Ta Lu*"
+    },
+    {
+      "論文名稱": "Emotion recognition using self-attention convolutional neural network for interactive learning system",
+      "會議名稱": "2024 IET International Conference on Engineering Technologies and Applications (IET ICETA 2024)",
+      "作者群": "Jia-Qi Yang, I-Tien Chu, Ching-Ta Lu*"
+    },
+    {
+      "論文名稱": "Enhancement of single channel speech using perceptual convolutional neural networks",
+      "會議名稱": "2024 IET International Conference on Engineering Technologies and Applications (IET ICETA 2024)",
+      "作者群": "I-Ming Wang, Zi-Hao Tsai, Ching-Ta Lu*"
+    },
+    {
+      "論文名稱": "Implementation of campus unmanned guided vehicle using YOLO network with LiDAR positioning",
+      "會議名稱": "2024 IET International Conference on Engineering Technologies and Applications (IET ICETA 2024)",
+      "作者群": "Ching-Ta Lu*, Qiu-Yu Chen, Hung-Hsuan Cho,  Shih-Yang Chang,  Kai-Wei Zhou, Tung-Yin Hsu, Yi-Hsuan Kung"
+    },
+    {
+      "論文名稱": "Implementation of AI hearing-loss assistive hat",
+      "會議名稱": "2024 IET International Conference on Engineering Technologies and Applications (IET ICETA 2024)",
+      "作者群": "Ching-Ta Lu*, Tzu-Liang Lin, Ting-Han Ko, I-Cheng Tseng"
+    },
+    {
+      "論文名稱": "Implementation of remote AI farmer system",
+      "會議名稱": "2024 IET International Conference on Engineering Technologies and Applications (IET ICETA 2024)",
+      "作者群": "Ching-Ta Lu*,  Yu-Han Weng, Yun-En Wu, Yi-Ching Wei"
+    },
+    {
+      "論文名稱": "An interactive English learning system with image and speech recognition",
+      "會議名稱": "2023 IET International Conference on Engineering Technologies and Applications (IET ICETA 2023)",
+      "作者群": "Ching-Ta Lu, I-Tien Chu, Ying-Chen Pan, Yu-Chun Liu"
+    },
+    {
+      "論文名稱": "Implementation of smart transportation application using YOLO deep-learning neural network",
+      "會議名稱": "2022 IET International Conference on Engineering Technologies and Applications (IET ICETA 2022)",
+      "作者群": "Ching-Ta Lu, Yen-Yu Lu, Jun-Hong Shen"
+    },
+    {
+      "論文名稱": "使用YOLO深度學習神經網路於智慧交通應用之實現",
+      "會議名稱": "2022人工智慧技術及應用研討會",
+      "作者群": "陸妍諭、陸清達，沈俊宏"
+    },
+    {
+      "論文名稱": "使用深度學習神經網路辨識肢體動作與臉部表情於多媒體播放控制之應用",
+      "會議名稱": "2022人工智慧技術及應用研討會",
+      "作者群": "劉俞均、潘盈臻、陸清達、沈俊宏"
+    },
+    {
+      "論文名稱": "使用深度學習神經網路辨識語者及語音之快速會議記錄生成系統",
+      "會議名稱": "2022人工智慧技術及應用研討會",
+      "作者群": "王亮瑜、陸清達、沈俊宏"
+    },
+    {
+      "論文名稱": "使用卷積類神經網路於照片中人臉截取之研究",
+      "會議名稱": "2019年離島資訊技術與應用研討會",
+      "作者群": "歐峻任、陸清達、王玲玲、林家安、沈俊宏"
+    },
+    {
+      "論文名稱": "使用深度學習辨認像素變動方向於受干擾影像中移除椒鹽雜訊",
+      "會議名稱": "2019年離島資訊技術與應用研討會",
+      "作者群": "許馨如、陸清達、王玲玲、林家安、沈俊宏"
+    },
+    {
+      "論文名稱": "透過卷積神經網路判斷公路行車流量",
+      "會議名稱": "2019年離島資訊技術與應用研討會",
+      "作者群": "黃 予、陸清達、王玲玲、林家安、沈俊宏"
+    },
+    {
+      "論文名稱": "運用深度學習預測中華職棒比賽勝負:以中信兄弟象隊為例",
+      "會議名稱": "2019年離島資訊技術與應用研討會",
+      "作者群": "蔡育楷、陸清達"
+    },
+    {
+      "論文名稱": "使用卷積類神經網路移除數位影像中的椒鹽雜訊",
+      "會議名稱": "2019年離島資訊技術與應用研討會",
+      "作者群": "陳睿瀚、陸清達、王玲玲、林家安、沈俊宏"
+    },
+    {
+      "論文名稱": "Neighbor link-based spatial index for k-nearest-neighbor queries in wireless systems",
+      "會議名稱": "International Conference on Frontier Computing (FC 2018)",
+      "作者群": "Jun-Hong Shen, Ching-Ta Lu, Hong-Ray Chu"
+    },
+    {
+      "論文名稱": "Film classification using HSV distribution and deep learning neural networks",
+      "會議名稱": "International Conference on Frontier Computing (FC 2018)",
+      "作者群": "Ching-Ta Lu, Jun-Hong Shen, Ling-Ling Wang, Chia-Hua Liu, Chia-Yi Chang, Kun-Fu Tseng"
+    },
+    {
+      "論文名稱": "年長者參與匹克球運動之研究",
+      "會議名稱": "福祉科技與服務管理學術研討會",
+      "作者群": "徐甫嘉、陸清達、王玲玲"
+    },
+    {
+      "論文名稱": "年長者於網路影音評台之使用現況",
+      "會議名稱": "2018 福祉科技與服務管理學術研討會",
+      "作者群": "蔡奕雯、陸清達、王玲玲"
+    },
+    {
+      "論文名稱": "以影片之HSV色調分佈特性於影片分類之研究",
+      "會議名稱": "2018資訊教育與科技應用研討會(IETAC 2018)",
+      "作者群": "劉佳樺、陸清達、沈俊宏、王玲玲"
+    },
+    {
+      "論文名稱": "透過色調分析於影片分類之研究",
+      "會議名稱": "2017台灣網際網路研討會(TANET 2017)",
+      "作者群": "劉佳樺、陸清達、沈俊宏、王玲玲"
+    },
+    {
+      "論文名稱": "Noise estimation for speech enhancement using minimum-spectral-average and vowel-presence detection approach",
+      "會議名稱": "International Conference on Frontier Computing (FC 2016)",
+      "作者群": "Ching-Ta Lu, Yung-Yue Chen, Jun-Hong Shen, Ling-Ling Wang, Chung-Lin Lei"
+    },
+    {
+      "論文名稱": "Improvement of power-spectral-subtraction algorithm using cross-term compensation for speech enhancement",
+      "會議名稱": "International Conference on Frontier Computing (FC 2016)",
+      "作者群": "Ching-Ta Lu, Yung-Yue Chen, Jun-Hong Shen, Ling-Ling Wang, Chung-Lin Lei"
+    },
+    {
+      "論文名稱": "Efficient processing of spatial window queries for non-flat wireless broadcast",
+      "會議名稱": "International Conference on Frontier Computing (FC 2016)",
+      "作者群": "Jun-Hong Shen, Ching-Ta Lu, Chien-Tang Mai"
+    },
+    {
+      "論文名稱": "Enhancement of salt-and-pepper noise corrupted images using fuzzy filter design",
+      "會議名稱": "International Conference on Frontier Computing (FC 2016)",
+      "作者群": "Yung-Yue Chen, Ching-Ta Lu, Pei-Yu Chang"
+    },
+    {
+      "論文名稱": "Modeling of through-silicon-via (TSV) RF characterization using a simplified RLC electrical model",
+      "會議名稱": "IEEE International Conference on Applied System Innovation (ICASI 2016)",
+      "作者群": "Kun-Fu Tseng, Ching-Ta Lu"
+    },
+    {
+      "論文名稱": "Speech enhancement using spectral subtraction algorithm with over-subtraction and reservation factors adapted by harmonic properties",
+      "會議名稱": "IEEE International Conference on Applied System Innovation (ICASI 2016)",
+      "作者群": "Ching-Ta Lu, Kun-Fu Tseng, Yung-Yue Chen, Ling-Ling Wang, Chung-Lin Lei"
+    },
+    {
+      "論文名稱": "藉由母音諧波頻譜特性調適過度刪減因子改善增強語音之研究",
+      "會議名稱": "資訊科技國際研討會 (AIT 2016)",
+      "作者群": "雷忠霖、陸清達"
+    },
+    {
+      "論文名稱": "藉由多數權重與中值濾波法移除醫學影像中之椒鹽雜訊",
+      "會議名稱": "資訊科技國際研討會 (AIT 2016)",
+      "作者群": "黃子璇、陸清達、沈俊宏"
+    },
+    {
+      "論文名稱": "使用全域相似性之後處理方法改善除雜訊影像品質之研究",
+      "會議名稱": "資訊科技國際研討會 (AIT 2016)",
+      "作者群": "鍾幸宜、陸清達、沈俊宏"
+    },
+    {
+      "論文名稱": "在零值音框嵌入法中使用諧波特性調適峰值頻譜鎖定長度於語音增強之研究",
+      "會議名稱": "資訊科技國際研討會 (AIT 2016)",
+      "作者群": "吳威俐、陸清達、沈俊宏"
+    },
+    {
+      "論文名稱": "線上商店展售方式對女性消費者的影響-以購買服裝為例",
+      "會議名稱": "第八屆臺灣商管與資訊研討會 (TBI 2016)",
+      "作者群": "魏廷築、沈俊宏、陸清達"
+    },
+    {
+      "論文名稱": "Denoising of salt-and pepper noise for corrupted image using majority-weighted filter",
+      "會議名稱": "National Symposium on Telecommunications (NST 2015)",
+      "作者群": "Ching-Ta Lu, Chun-Fan Chang, Kun-Fu Tseng, Chih-Tsung Chen"
+    },
+    {
+      "論文名稱": "Estimation of noise magnitude using minima-controlled-recursive-averaging algorithm with variable length for speech enhancement",
+      "會議名稱": "National Symposium on Telecommunications (NST 2015)",
+      "作者群": "Ching-Ta Lu, Chung-Lin Lei, Kun-Fu Tseng, Chih-Tsung Chen"
+    },
+    {
+      "論文名稱": "Improvement of post-process system using vector quantization on harmonic center frequency to regenerate vowel spectrum for speech enhancement",
+      "會議名稱": "International Conference on Applied System Innovation (ICASI 2015)",
+      "作者群": "Ching-Ta Lu, Kun-Fu Tseng, Chih-Tsung Chen"
+    },
+    {
+      "論文名稱": "使用可變視窗與像素機率調適之影像椒鹽雜訊移除",
+      "會議名稱": "資訊科技國際研討會暨民生電子論壇 (AIT/CEF 2015)",
+      "作者群": "張郡芳，陸清達"
+    },
+    {
+      "論文名稱": "使用可變音段長度調適之最小控制遞回平均雜訊估測法於語音增強之研究",
+      "會議名稱": "資訊科技國際研討會暨民生電子論壇 (AIT/CEF 2015)",
+      "作者群": "雷忠霖，陸清達"
+    },
+    {
+      "論文名稱": "在可變視窗中使用三值權重之影像椒鹽雜訊移除技術",
+      "會議名稱": "資訊教育與科技應用研討會 (IETAC 2015)",
+      "作者群": "張郡芳，陸清達"
+    },
+    {
+      "論文名稱": "透過脈衝偵測與峰值頻譜偵測法在即時乒乓球比賽中偵測關鍵事件之研究",
+      "會議名稱": "全國電信研討會議 (NST 2014)",
+      "作者群": "李延俊，陸清達"
+    },
+    {
+      "論文名稱": "Improvement of post-processed speech using harmonic compensation",
+      "會議名稱": "National Symposium on Telecommunications (NST 2014)",
+      "作者群": "Ching-Ta Lu, Kun-Fu Tseng, Chih-Tsung Chen"
+    },
+    {
+      "論文名稱": "Improvement of post-processed speech using harmonic spectrum compensation",
+      "會議名稱": "IEEE International Conference on Information Science, Electronics and Electrical Engineering (ISEEE 2014)",
+      "作者群": "Ching-Ta Lu, Kun-Fu Tseng, Chih-Tsung Chen"
+    },
+    {
+      "論文名稱": "使用母音諧波頻譜調適之最小控制遞回平均雜訊估測法於語音增強之研究",
+      "會議名稱": "資訊科技國際研討會 (AIT 2014)",
+      "作者群": "沈于中，陸清達"
+    },
+    {
+      "論文名稱": "使用零值音框嵌入與雜訊峰值頻譜鎖定法於語音增強之研究",
+      "會議名稱": "全國計算機會議 (NCS 2013)",
+      "作者群": "黃苑絲，陸清達"
+    },
+    {
+      "論文名稱": "使用音訊頻譜特性偵測桌球擦邊球之研究",
+      "會議名稱": "全國計算機會議 (NCS 2013)",
+      "作者群": "李延俊，陸清達"
+    },
+    {
+      "論文名稱": "Refinement of enhanced speech using block-directional-median filter and harmonic regeneration approach",
+      "會議名稱": "National Computer Symposium (NCS 2013)",
+      "作者群": "Ching-Ta Lu, Kun-Fu Tseng, Chih-Tsung Chen"
+    },
+    {
+      "論文名稱": "Removal of salt-and-pepper noise using gain masker adapted by switch pixel variance",
+      "會議名稱": "National Symposium on Telecommunications (NST 2013)",
+      "作者群": "Ching-Ta Lu, Jun-Hong Shen, Kun-Fu Tseng, Chih-Tsung Chen, Yan-Jun Lee"
+    },
+    {
+      "論文名稱": "Reduction of musical residual noise using harmonic-adapted-median filter",
+      "會議名稱": "International Conference on Information Science and Technology (IST 2013)",
+      "作者群": "Ching-Ta Lu, Kun-Fu Tseng, Chih-Tsung Chen"
+    },
+    {
+      "論文名稱": "使用邊緣保留與相鄰視窗變化調整法於受干擾影像中移除椒鹽雜訊",
+      "會議名稱": "資訊科技國際研討會",
+      "作者群": "陳淇鈺，陸清達"
+    },
+    {
+      "論文名稱": "Image denoising using multi-blade mean-filter with neighbor-emphasized window",
+      "會議名稱": "National Symposium on Telecommunications (NST 2012)",
+      "作者群": "Ching-Ta Lu, Tzu-Chun Chou, Chi-Yu Chen, Kun-Fu Tseng, Chih-Tsung Chen"
+    },
+    {
+      "論文名稱": "Reduction of musical residual noise using directional-and-block-median filter",
+      "會議名稱": "National Symposium on Telecommunications (NST 2012)",
+      "作者群": "Ching-Ta Lu, Kun-Fu Tseng, Chih-Tsung Chen, Edwinna Ng"
+    },
+    {
+      "論文名稱": "Neighbor-Index Method for Continuous Window Queries over Wireless Data Broadcast",
+      "會議名稱": "International Conference on Engineering and Technology Innovations (ICETI)",
+      "作者群": "Jun-Hong Shen, Ching-Ta Lu, Ming-Shen Jian"
+    },
+    {
+      "論文名稱": "Reduction of musical residual noise using hybrid median filter",
+      "會議名稱": "IEEE Spring World Congress on Engineering and Technology (SCET 2012)",
+      "作者群": "Ching-Ta Lu, Kun-Fu Tseng, Chih-Tsung Chen"
+    },
+    {
+      "論文名稱": "Salt and pepper noise reduction using modified directional-switch-weighted-median filter",
+      "會議名稱": "National Symposium on Telecommunications (NST 2011)",
+      "作者群": "Ching-Ta Lu, Tzu-Chun Chou, Kun-Fu Tseng, Chih-Tsung Chen, Chi-Yu Chen"
+    },
+    {
+      "論文名稱": "Speech enhancement using three-step gain factor and fuzzy-switching-median filter",
+      "會議名稱": "National Symposium on Telecommunications (NST 2011)",
+      "作者群": "Ching-Ta Lu, Kun-Fu Tseng, Chih-Tsung Chen, Yu-Chung Shen"
+    },
+    {
+      "論文名稱": "使用最佳方向之開關權重中值濾波於脈衝影像雜訊移除之研究",
+      "會議名稱": "系統科學與工程研討會",
+      "作者群": "周子雋，陸清達"
+    },
+    {
+      "論文名稱": "Reduction of residual noise using directional median filter",
+      "會議名稱": "IEEE International Conference on Computer Science and Automation Engineering (CSAE)",
+      "作者群": "Ching-Ta Lu, Kun-Fu Tseng, Chih-Tsung Chen"
+    },
+    {
+      "論文名稱": "藉由疊代權重知覺因子於語音增強之研究",
+      "會議名稱": "資訊科技國際研討會",
+      "作者群": "洪國樑，陸清達，巫明諺"
+    },
+    {
+      "論文名稱": "使用零值音框嵌入與多重音框內插法於語音增強之研究",
+      "會議名稱": "資訊科技國際研討會",
+      "作者群": "巫明諺，陸清達，洪國樑"
+    },
+    {
+      "論文名稱": "Speech enhancement using three-step-decision gain factor",
+      "會議名稱": "National Symposium on Telecommunications (NST)",
+      "作者群": "Ching-Ta Lu, Kun-Fu Tseng, Chih-Tsung Chen, Ming-Yen Wu, Kuo-Liang Hong, and Tz-Tyun Chou,"
+    },
+    {
+      "論文名稱": "使用不同長度零值嵌入法之語音增強技術",
+      "會議名稱": "資訊傳播學術研討會",
+      "作者群": "王俊評，陸清達"
+    },
+    {
+      "論文名稱": "使用零值音框嵌入法之語音增強技術",
+      "會議名稱": "智慧型系統工程應用研討會",
+      "作者群": "王俊評，陸清達"
+    },
+    {
+      "論文名稱": "Speech enhancement using perceptual-decision- directed approach",
+      "會議名稱": "IEEE International Conference on Computer Engineering and Applications (ICCEA",
+      "作者群": "Ching-Ta Lu, Kun-Fu Tseng, Chih-Tsung Chen"
+    },
+    {
+      "論文名稱": "Reduction of musical residual noise using spectral bin motion and homogeneous spectral bins merged approach",
+      "會議名稱": "IASTED Advances on Computer Science and Engineering (ACSE)",
+      "作者群": "Ching-Ta Lu, Kun-Fu Tseng, Lih-Cherng Liu"
+    },
+    {
+      "論文名稱": "Reduction of residual noise for speech enhancement using iterative perceptual gain factor,",
+      "會議名稱": "National Symposium on Telecommunications (NST)",
+      "作者群": "Ching-Ta Lu, Kun-Fu Tseng, Chih-Tsung Chen, Jyun-Ping Wang"
+    },
+    {
+      "論文名稱": "On the effectiveness of speech enhancement to a proposed speech recognition process that applied to noisy isolated-word recognition",
+      "會議名稱": "IEEE International Conference on Machine Learning and Cybernetics (ICMLC)",
+      "作者群": "Lih-Cherng Liu and Ching-Ta Lu, Ho-Hsuan Tsai"
+    },
+    {
+      "論文名稱": "Noise reduction using thresholding-based algorithm and homogeneous-frame-merged approach for wavelet-packet transform",
+      "會議名稱": "IEEE Congress on Image and Signal Processing (CISP 2008)",
+      "作者群": "Ching-Ta Lu"
+    },
+    {
+      "論文名稱": "Noise reduction using simultaneous masking property and SNR variation for various noise corruptions",
+      "會議名稱": "IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)",
+      "作者群": "Ching-Ta Lu, Kun-Fu Tseng"
+    },
+    {
+      "論文名稱": "Speech Enhancement using homogeneous-frame-merged approach in wavelet domai",
+      "會議名稱": "National Symposium on Telecommunications (NST)",
+      "作者群": "Ching-Ta Lu"
+    },
+    {
+      "論文名稱": "C/V segmentation on mandarin speech signal via additional noise cascaded with Fourier-based speech enhancement system",
+      "會議名稱": "International Symposium on Communications (ISCOM)",
+      "作者群": "Ching-Ta Lu, Hsiao-Chuan Wang"
+    },
+    {
+      "論文名稱": "An optimal smoothing factor for reducing musical residual noise in speech enhancement",
+      "會議名稱": "International Symposium on Communications (ISCOM)",
+      "作者群": "Ching-Ta Lu, Hsiao-Chuan Wang"
+    },
+    {
+      "論文名稱": "Speech enhancement using robust weighting factors for critical-band-wavelet-packet transform",
+      "會議名稱": "IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)",
+      "作者群": "Ching-Ta Lu, Hsiao-Chuan Wang"
+    },
+    {
+      "論文名稱": "Speech enhancement using weighting function based on the variance of wavelet coefficients",
+      "會議名稱": "European Conference on Speech Communication and Technology (EuroSpeech)",
+      "作者群": "Ching-Ta Lu, Hsiao-Chuan Wang"
+    },
+    {
+      "論文名稱": "Enhancement of single channel speech using perception-based wavelet transform",
+      "會議名稱": "International Conference on Spoken Language Processing (ICSLP)",
+      "作者群": "Ching-Ta Lu, Hsiao-Chuan Wang"
+    },
+    {
+      "論文名稱": "Speech enhancement using wavelet transform with constrained thresholds",
+      "會議名稱": "International Symposium on Chinese Spoken Language Processing (ISCSLP)",
+      "作者群": "Ching-Ta Lu, Hsiao-Chuan Wang"
+    }
+  ],
+  "book": [],
+  "patent": [],
+  "most": [
+    {
+      "name": "透過情緒辨識調適教學進度之AI語音互動學習系統之實現—以提升特殊領域的英文學習成效為例(3/3)",
+      "schoolYear": "113"
+    },
+    {
+      "name": "遠距AI農夫幫手",
+      "schoolYear": "113"
+    },
+    {
+      "name": "透過情緒辨識調適教學進度之AI語音互動學習系統之實現—以提升特殊領域的英文學習成效為例(2/3)",
+      "schoolYear": "112"
+    },
+    {
+      "name": "具有AI學習進度調適之互動系統",
+      "schoolYear": "112"
+    },
+    {
+      "name": "(亞洲)透過情緒辨識調適教學進度之AI語音互動學習系統之實現—以提升特殊領域的英文學習成效為例(1/3)",
+      "schoolYear": "111"
+    }
+  ],
+  "tech": [],
+  "induAca": [],
+  "perform": [],
+  "reward": [
+    "2024 第29屆全國大專校院資訊應用服務創新競賽， 榮獲「資訊應用組 佳作」(視不適合你) (113, 2024-11) - 數位發展部、教育部",
+    "2024 第29屆全國大專校院資訊應用服務創新競賽， 榮獲「資訊應用組 第二名」(AIoT蘭花照護系統) (113, 2024-11) - 數位發展部、教育部",
+    "2024 第29屆全國大專校院資訊應用服務創新競賽， 榮獲「資訊應用組 佳作」(聽損者帽之AI視覺輔助系統) (113, 2024-11) - 數位發展部、教育部",
+    "2024 中華電信5G創新應用大賽，入圍決賽，獲頒獎金1萬元 (113, 2024-10) - 中華電信",
+    "2024 全國大專校院 智慧創新暨跨域整合創作競賽 ， 榮獲「值得注目獎 」(AI校園導覽員) (113, 2024-10) - 教育部",
+    "2024 全國大專校院 智慧創新暨跨域整合創作競賽 ， 榮獲「值得注目獎 」(AIiVEL互動家教) (113, 2024-10) - 教育部",
+    "2024 全國大專校院 智慧創新暨跨域整合創作競賽 ， 榮獲「值得注目獎 」(遠距AI農夫幫手) (113, 2024-10) - 教育部",
+    "2024 全國大專校院 智慧創新暨跨域整合創作競賽 ， 榮獲「值得注目獎 」(AI聽損輔助智慧帽) (113, 2024-10) - 教育部",
+    "2023 全國大專校院 智慧創新暨跨域整合創作競賽 ， 榮獲「佳作 」 (112, 2023-12) - 教育部",
+    "2023 第28屆全國大專校院資訊應用服務創新競賽， 榮獲「資訊應用組 第三名」 (112, 2023-11) - 數位發展部、教育部",
+    "2023 第28屆 全國大專校院資訊應用服務創新競賽 ， 榮獲「友達AIoT 智慧場域與ESG應用卓越組 佳作」 (112, 2023-11) - 數位發展部、教育部",
+    "2022 全國大專校院 智慧創新暨跨域整合創作競賽 ， 榮獲「佳作 」 (111, 2022-12) - 教育部",
+    "2022 第27屆全國大專校院資訊應用服務創新競賽， 榮獲「資訊應用組 第三名」 (111, 2022-11) - 數位發展部、教育部",
+    "2021 全國大專校院 智慧創新暨跨域整合創作競賽 ， 榮獲「第三名 」 (110, 2021-12) - 教育部",
+    "2021 全國大專校院 智慧創新暨跨域整合創作競賽 ， 榮獲「跨域整合特別獎」 (110, 2021-12) - 教育部",
+    "2021 中華電信5G創新應用大賽，榮獲「智慧應用特別獎 佳作」 (110, 2021-12) - 中華電信",
+    "2021 第26屆全國大專校院資訊應用服務創新競賽， 榮獲「最佳人氣獎」 (110, 2021-11) - 行政院、經濟部、教育部",
+    "2021 第26屆全國大專校院資訊應用服務創新競賽， 榮獲「資訊應用組 佳作」 (110, 2021-11) - 行政院、經濟部、教育部",
+    "2020 全國大專校院 智慧創新暨跨域整合創作競賽 ， 榮獲「佳作 」 (109, 2020-12) - 教育部",
+    "2020 第25屆全國大專校院資訊應用服務創新競賽， 榮獲「資訊應用組 佳作」 (109, 2020-12) - 行政院、經濟部、教育部"
+  ],
+  "speech": [
+    {
+      "演講題目": "長期照顧新解方：生成式AI跨域應用工作坊",
+      "邀請單位": "亞洲大學 護理學院",
+      "演講日期": "2023-06"
+    },
+    {
+      "演講題目": "深度學習神經網路於多媒體之應用",
+      "邀請單位": "國立聯合大學 資訊管理學系",
+      "演講日期": "2023-03"
+    }
+  ],
+  "material": [],
+  "tal": []
+}

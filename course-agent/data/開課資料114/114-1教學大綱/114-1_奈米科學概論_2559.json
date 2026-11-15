@@ -1,0 +1,805 @@
+{
+  "success": true,
+  "info": {
+    "yms_year": 114.0,
+    "yms_smester": 1.0,
+    "sub_id": "17332",
+    "cls_id": "CS03129",
+    "scr_dup": "001",
+    "sub_id3": "MSE2023",
+    "cls_name": "材料二合",
+    "cls_ename": "Department of Materials Science and Engineering",
+    "sub_name": "奈米科學概論",
+    "sub_ename": "INTRODUCTION TO NANO SCIENCE",
+    "scr_mso": "選修",
+    "scr_mso_en": "Elective",
+    "scr_credit": 3.0,
+    "scr_periodly": "(四)11-13",
+    "scr_periodly_eng": "(Thu)11-13",
+    "lang_name": "中文                                                      ",
+    "lang_ename": "Chinese",
+    "scr_room": "理313",
+    "scr_room_eng": "SB313",
+    "scr_teacher": "郭証翔",
+    "scr_teacher_eng": "Cheng-Hsiang Kuo",
+    "scr_selcode": "2559",
+    "scr_elearning": "全學期",
+    "scr_elearning_en": "Full semester",
+    "scr_hours": "3",
+    "scr_english": "N",
+    "unt_name": null,
+    "unt_ename": null,
+    "link_traminal": null,
+    "link_traminal_en": null,
+    "scr_ldl": "D",
+    "course_mk": "N",
+    "teams_mk": "N",
+    "sub_title": null,
+    "sub_title_en": null,
+    "sub_describe": null,
+    "sub_describe_en": null,
+    "hasDescription": null,
+    "hasInstructor": null,
+    "hasTA": null,
+    "hasTextBooks": null,
+    "hasReadings": null,
+    "hasiSoftwares": null,
+    "hasAssistSoftwares": null,
+    "hasObjective": null,
+    "hasWeeklyScds": null,
+    "hasGradeRules": null,
+    "hasGradeRuleDescribe": null,
+    "hasIntegrity": null,
+    "hasCoursePol": null,
+    "hasCourseRem": null,
+    "hasObjectiveReleation": null,
+    "hasTopicSdgs": null,
+    "hasSubTitleDesc": null
+  },
+  "subTitleDesc": null,
+  "description": {
+    "sub_id3": null,
+    "sub_name": "奈米科學概論",
+    "sub_ename": "INTRODUCTION TO NANO SCIENCE",
+    "describe_ch": "奈米科學概論為一門介紹目前最新奈米科技的學科，本課程特以材料領域之奈米科技應用範圍作為教學主體，包含奈米材料的合成、性質和應用等，以建立學生的基本學理基礎。本課程以課堂講授為主，也將所獲得奈米科學相關資訊，進行團隊合作方式，課堂上分組報告，同時增強基本學理與口頭報告之能力。",
+    "describe_eh": "Introduction to Nanoscience is a subject that introduces the latest nanotechnology. This course focuses on the application of nanotechnology in the field of materials as the main body of teaching, including the synthesis, properties and applications of nanomaterials, so as to establish the basic academic foundation of students . This course is mainly lectured in the classroom, and the acquired nanoscience-related information is also used in teamwork, group reports in the classroom, and the ability of basic theory and oral reporting is enhanced.",
+    "pre_subname": "PHYS2005近代物理、PHYS1003普通物理(一)、PHYS1004普通物理(二)",
+    "pre_sub_id3": "PHYS2005",
+    "pre_sub_ename": "PHYS2005 MODERN PHYSICS、PHYS1003 GENERAL PHYSICS(1)、PHYS1004 GENERAL PHYSICS(2)",
+    "pre_describe": null,
+    "pre_describe_en": null,
+    "scr_credit": 3.0
+  },
+  "targets": [
+    {
+      "seq": 1,
+      "describe_ch": "能用自己的詞彙定義何謂奈米科技，描述重要的奈米科技性質和現象\r\n",
+      "describe_en": "Define nanotechnology by their own words. Be able to describe important property and phenomenon for nanotechnology."
+    },
+    {
+      "seq": 2,
+      "describe_ch": "理解奈米科技在工程及學術層面的重要性。\t",
+      "describe_en": "Comprehension for the importance of nanotechnology to academia and engineering."
+    },
+    {
+      "seq": 3,
+      "describe_ch": "能應用奈米科技的原理與相關材料。\t",
+      "describe_en": "To apply the principle of nanotechnology and related materials."
+    },
+    {
+      "seq": 4,
+      "describe_ch": "綜合學生以書面或口頭報告方式，達成與同儕或教師清楚陳述有效溝通。\t\t",
+      "describe_en": "Synthesis for written and oral report to achieve effective communication with classmates or the instructor.\t"
+    }
+  ],
+  "teachersInfo": [
+    {
+      "cname": "郭証翔",
+      "ename": "Cheng-Hsiang Kuo",
+      "period": " ",
+      "roletype": 0,
+      "email": "chkuo.t13@o365.fcu.edu.tw",
+      "ext": null
+    }
+  ],
+  "textBooks": {
+    "yms_year": 114.0,
+    "yms_smester": 1.0,
+    "cls_id": "CS03129",
+    "sub_id": "17332",
+    "scr_dup": "001",
+    "tpb_seq": 1,
+    "tpb_book": "<div>參考書目</div>\n\n<div>\n<div>1. 奈米科技概論,&nbsp;出版社：滄海圖書</div>\n</div>\n\n<div>\n<div>2. 奈米科技導論,&nbsp;出版社：全華圖書</div>\n\n<div>3.&nbsp;奈米科技導論: 基本原理及應用,&nbsp;出版社：新文京</div>\n\n<div>4. Introduction To Nanotechnology, Charles P. Poole, Jr.;Frank J. Owens John Wiley &amp; Sons, Inc.</div>\n</div>\n",
+    "tpb_book_en": null
+  },
+  "readings": {
+    "yms_year": 114.0,
+    "yms_smester": 1.0,
+    "cls_id": "CS03129",
+    "sub_id": "17332",
+    "scr_dup": "001",
+    "tpc_seq": 1,
+    "tpc_book": "<div>上課教材</div>\n\n<div>1. 奈米科技概論,&nbsp;出版社：滄海圖書</div>\n\n<div>2. 自編講義,內容包含奈米科技概說,&nbsp;奈米的檢測與分析,&nbsp;奈米材料的製備,&nbsp;奈米科技之應用</div>\n",
+    "tpc_book_en": null
+  },
+  "iSoftwares": [],
+  "assistSoftwares": [],
+  "weeklyScds": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CS03129",
+      "sub_id": "17332",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "單元一",
+      "tpd_reading": "<div>基本理論、物質結構與材料</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": null,
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": "1.上課前學習：預習教材\n2.課堂上學習：口頭報告、繳交報告\n3.課後學習：閱讀輔助教材",
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CS03129",
+      "sub_id": "17332",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "單元二",
+      "tpd_reading": "<div>奈米材料基本概念</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": null,
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": "1.上課前學習：預習教材\n2.課堂上學習：口頭報告、繳交報告\n3.課後學習：閱讀輔助教材",
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CS03129",
+      "sub_id": "17332",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "單元三",
+      "tpd_reading": "<div>奈米材料合成技術</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": null,
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": "1.上課前學習：預習教材\n2.課堂上學習：口頭報告、繳交報告\n3.課後學習：閱讀輔助教材",
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CS03129",
+      "sub_id": "17332",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "單元四",
+      "tpd_reading": "<div>奈米加工技術</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": null,
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": "1.上課前學習：預習教材\n2.課堂上學習：口頭報告、繳交報告\n3.課後學習：閱讀輔助教材",
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CS03129",
+      "sub_id": "17332",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "單元五",
+      "tpd_reading": "<div>&nbsp;奈米材料分析與檢測</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": null,
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": "1.上課前學習：預習教材\n2.課堂上學習：口頭報告、繳交報告\n3.課後學習：閱讀輔助教材",
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CS03129",
+      "sub_id": "17332",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "單元六",
+      "tpd_reading": "<div>奈米科技之應用</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": null,
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": "1.上課前學習：預習教材\n2.課堂上學習：口頭報告、繳交報告\n3.課後學習：閱讀輔助教材",
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CS03129",
+      "sub_id": "17332",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "單元七",
+      "tpd_reading": "<div>奈米科技元件特性</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": null,
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": "1.上課前學習：預習教材\n2.課堂上學習：口頭報告、繳交報告\n3.課後學習：閱讀輔助教材",
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    }
+  ],
+  "gradeRules": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CS03129",
+      "sub_id": "17332",
+      "scr_dup": "001",
+      "evalb_id": "L2",
+      "score_rate": 30,
+      "evalb_memo": "上課出缺席",
+      "evalb_memo_en": null,
+      "evalb_name": "點名",
+      "evalb_name_en": "Roll call",
+      "seq": 1
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CS03129",
+      "sub_id": "17332",
+      "scr_dup": "001",
+      "evalb_id": "K2",
+      "score_rate": 45,
+      "evalb_memo": "課堂報告 (個人上台報告+討論問答)",
+      "evalb_memo_en": null,
+      "evalb_name": "口頭報告",
+      "evalb_name_en": "Oral presentation",
+      "seq": 2
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CS03129",
+      "sub_id": "17332",
+      "scr_dup": "001",
+      "evalb_id": "G5",
+      "score_rate": 25,
+      "evalb_memo": "期末報告 (繳交)",
+      "evalb_memo_en": null,
+      "evalb_name": "書面報告",
+      "evalb_name_en": "Writing report",
+      "seq": 3
+    }
+  ],
+  "gradeRuleDescribe": {
+    "yms_year": 114.0,
+    "yms_smester": 1.0,
+    "cls_id": "CS03129",
+    "sub_id": "17332",
+    "scr_dup": "001",
+    "tpa_score_new": null,
+    "tpa_score_new_en": null,
+    "course_pol": "以下幾點課堂規則，請遵守:\n1.應準時出席上課。 除非生病或有緊急情況，否則應在上課前，要準時到達。\n2.上課時請勿講話、閱讀、睡覺或做其他非本課程相關作業。\n3.當同學簡報或提問時，應該專心地聆聽。\n4.允許使用筆記型電腦或平板等載具，進行課堂記筆記。\n5.上課時，關閉手機、PDA等移動設備，並收起及保持靜音。\n6.不得戴耳機上課。\n7.穿著整潔，不要暴露。",
+    "course_pol_en": null,
+    "course_rem": "如有任何問題,可直接在課堂發問,也可以運用學校Office365電子郵件與我聯繫，但我不會在晚上和休假日回覆。所以鼓勵您運用課堂時間直接來，與我討論。",
+    "course_rem_en": null,
+    "ais_meno": "<div>1.觀察及審閱同學彼此的學習，建立個人資訊收集及分析的能力，以完成口頭報告。但是，當撰寫書面報告時，必須是依自己的想法撰寫。\n<div>如果使用了短語或引語，或者是另一位作者的用語或想法，則必須確認這些用語或想法的來源，並在報告中標註這些素材的出處，請不要試圖作抄襲或作弊。</div>\n\n<div>\n<div>2.考試題目皆由課程內容變化而來，有正當理由且完成請假手續者才有資格補考，且須於一週內完成補考。違反考試規則輕則勒令退選，重則提交學校處理。</div>\n</div>\n</div>\n",
+    "ais_meno_en": null,
+    "ilearn_mk": null
+  },
+  "integrity": {
+    "yms_year": 114.0,
+    "yms_smester": 1.0,
+    "cls_id": "CS03129",
+    "sub_id": "17332",
+    "scr_dup": "001",
+    "tpa_score_new": null,
+    "tpa_score_new_en": null,
+    "course_pol": "以下幾點課堂規則，請遵守:\n1.應準時出席上課。 除非生病或有緊急情況，否則應在上課前，要準時到達。\n2.上課時請勿講話、閱讀、睡覺或做其他非本課程相關作業。\n3.當同學簡報或提問時，應該專心地聆聽。\n4.允許使用筆記型電腦或平板等載具，進行課堂記筆記。\n5.上課時，關閉手機、PDA等移動設備，並收起及保持靜音。\n6.不得戴耳機上課。\n7.穿著整潔，不要暴露。",
+    "course_pol_en": null,
+    "course_rem": "如有任何問題,可直接在課堂發問,也可以運用學校Office365電子郵件與我聯繫，但我不會在晚上和休假日回覆。所以鼓勵您運用課堂時間直接來，與我討論。",
+    "course_rem_en": null,
+    "ais_meno": "<div>1.觀察及審閱同學彼此的學習，建立個人資訊收集及分析的能力，以完成口頭報告。但是，當撰寫書面報告時，必須是依自己的想法撰寫。\n<div>如果使用了短語或引語，或者是另一位作者的用語或想法，則必須確認這些用語或想法的來源，並在報告中標註這些素材的出處，請不要試圖作抄襲或作弊。</div>\n\n<div>\n<div>2.考試題目皆由課程內容變化而來，有正當理由且完成請假手續者才有資格補考，且須於一週內完成補考。違反考試規則輕則勒令退選，重則提交學校處理。</div>\n</div>\n</div>\n",
+    "ais_meno_en": null,
+    "ilearn_mk": null
+  },
+  "policy": {
+    "yms_year": 114.0,
+    "yms_smester": 1.0,
+    "cls_id": "CS03129",
+    "sub_id": "17332",
+    "scr_dup": "001",
+    "tpa_score_new": null,
+    "tpa_score_new_en": null,
+    "course_pol": "以下幾點課堂規則，請遵守:\n1.應準時出席上課。 除非生病或有緊急情況，否則應在上課前，要準時到達。\n2.上課時請勿講話、閱讀、睡覺或做其他非本課程相關作業。\n3.當同學簡報或提問時，應該專心地聆聽。\n4.允許使用筆記型電腦或平板等載具，進行課堂記筆記。\n5.上課時，關閉手機、PDA等移動設備，並收起及保持靜音。\n6.不得戴耳機上課。\n7.穿著整潔，不要暴露。",
+    "course_pol_en": null,
+    "course_rem": "如有任何問題,可直接在課堂發問,也可以運用學校Office365電子郵件與我聯繫，但我不會在晚上和休假日回覆。所以鼓勵您運用課堂時間直接來，與我討論。",
+    "course_rem_en": null,
+    "ais_meno": "<div>1.觀察及審閱同學彼此的學習，建立個人資訊收集及分析的能力，以完成口頭報告。但是，當撰寫書面報告時，必須是依自己的想法撰寫。\n<div>如果使用了短語或引語，或者是另一位作者的用語或想法，則必須確認這些用語或想法的來源，並在報告中標註這些素材的出處，請不要試圖作抄襲或作弊。</div>\n\n<div>\n<div>2.考試題目皆由課程內容變化而來，有正當理由且完成請假手續者才有資格補考，且須於一週內完成補考。違反考試規則輕則勒令退選，重則提交學校處理。</div>\n</div>\n</div>\n",
+    "ais_meno_en": null,
+    "ilearn_mk": null
+  },
+  "courseBankC": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CS03129",
+      "sub_id": "17332",
+      "scr_dup": "001",
+      "seq": 1,
+      "describe_ch": "能用自己的詞彙定義何謂奈米科技，描述重要的奈米科技性質和現象\r\n",
+      "describe_en": "Define nanotechnology by their own words. Be able to describe important property and phenomenon for nanotechnology.",
+      "core_id": "A",
+      "core_item": "運用數學、材料科學及工程知識的能力。",
+      "core_eng": "Possess fundamental mathematical and materials science and engineering skills.",
+      "core_level": "1 ",
+      "strgy": [
+        "01"
+      ],
+      "evalb": [
+        "K2",
+        "K3",
+        "G5"
+      ],
+      "strgy_name": [
+        "課堂授課"
+      ],
+      "strgy_name_en": [
+        "Classroom instruction"
+      ],
+      "evalb_name": [
+        "口頭報告",
+        "上課即時問與答",
+        "書面報告"
+      ],
+      "evalb_name_en": [
+        "Oral presentation",
+        "In-class oral assessment",
+        "Writing report"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CS03129",
+          "sub_id": "17332",
+          "scr_dup": "001",
+          "seq": 1,
+          "strgy_id": "01",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CS03129",
+          "sub_id": "17332",
+          "scr_dup": "001",
+          "seq": 1,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "K2",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CS03129",
+          "sub_id": "17332",
+          "scr_dup": "001",
+          "seq": 1,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "K3",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CS03129",
+          "sub_id": "17332",
+          "scr_dup": "001",
+          "seq": 1,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "G5",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CS03129",
+      "sub_id": "17332",
+      "scr_dup": "001",
+      "seq": 2,
+      "describe_ch": "理解奈米科技在工程及學術層面的重要性。\t",
+      "describe_en": "Comprehension for the importance of nanotechnology to academia and engineering.",
+      "core_id": "A",
+      "core_item": "運用數學、材料科學及工程知識的能力。",
+      "core_eng": "Possess fundamental mathematical and materials science and engineering skills.",
+      "core_level": "2 ",
+      "strgy": [
+        "01"
+      ],
+      "evalb": [
+        "K2",
+        "K3",
+        "G5"
+      ],
+      "strgy_name": [
+        "課堂授課"
+      ],
+      "strgy_name_en": [
+        "Classroom instruction"
+      ],
+      "evalb_name": [
+        "口頭報告",
+        "上課即時問與答",
+        "書面報告"
+      ],
+      "evalb_name_en": [
+        "Oral presentation",
+        "In-class oral assessment",
+        "Writing report"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CS03129",
+          "sub_id": "17332",
+          "scr_dup": "001",
+          "seq": 2,
+          "strgy_id": "01",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CS03129",
+          "sub_id": "17332",
+          "scr_dup": "001",
+          "seq": 2,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "K2",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CS03129",
+          "sub_id": "17332",
+          "scr_dup": "001",
+          "seq": 2,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "K3",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CS03129",
+          "sub_id": "17332",
+          "scr_dup": "001",
+          "seq": 2,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "G5",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CS03129",
+      "sub_id": "17332",
+      "scr_dup": "001",
+      "seq": 3,
+      "describe_ch": "能應用奈米科技的原理與相關材料。\t",
+      "describe_en": "To apply the principle of nanotechnology and related materials.",
+      "core_id": "G",
+      "core_item": "認識時事議題，瞭解材料工程技術對環境永續、社會共好及全球發展的影響，並培養持續學習的習慣與能力。",
+      "core_eng": "Understand current issues, understand the impact of material engineering technology on environmental sustainability, social good, and global development, and cultivate the habit and ability of continuous learning.",
+      "core_level": "3 ",
+      "strgy": [
+        "01"
+      ],
+      "evalb": [
+        "K2",
+        "K3",
+        "G5"
+      ],
+      "strgy_name": [
+        "課堂授課"
+      ],
+      "strgy_name_en": [
+        "Classroom instruction"
+      ],
+      "evalb_name": [
+        "口頭報告",
+        "上課即時問與答",
+        "書面報告"
+      ],
+      "evalb_name_en": [
+        "Oral presentation",
+        "In-class oral assessment",
+        "Writing report"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CS03129",
+          "sub_id": "17332",
+          "scr_dup": "001",
+          "seq": 3,
+          "strgy_id": "01",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CS03129",
+          "sub_id": "17332",
+          "scr_dup": "001",
+          "seq": 3,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "K2",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CS03129",
+          "sub_id": "17332",
+          "scr_dup": "001",
+          "seq": 3,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "K3",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CS03129",
+          "sub_id": "17332",
+          "scr_dup": "001",
+          "seq": 3,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "G5",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CS03129",
+      "sub_id": "17332",
+      "scr_dup": "001",
+      "seq": 4,
+      "describe_ch": "綜合學生以書面或口頭報告方式，達成與同儕或教師清楚陳述有效溝通。\t\t",
+      "describe_en": "Synthesis for written and oral report to achieve effective communication with classmates or the instructor.\t",
+      "core_id": "E",
+      "core_item": "專案管理（含經費規劃）、有效溝通、領域整合與團隊合作的能力。",
+      "core_eng": "Capabilities of project management (including funding planning), effective communication, domain integration, and teamwork.",
+      "core_level": "5 ",
+      "strgy": [
+        "09",
+        "10"
+      ],
+      "evalb": [
+        "K2",
+        "G5"
+      ],
+      "strgy_name": [
+        "口頭報告",
+        "小組討論及活動"
+      ],
+      "strgy_name_en": [
+        "Oral report",
+        "Group activity & discussion"
+      ],
+      "evalb_name": [
+        "口頭報告",
+        "書面報告"
+      ],
+      "evalb_name_en": [
+        "Oral presentation",
+        "Writing report"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CS03129",
+          "sub_id": "17332",
+          "scr_dup": "001",
+          "seq": 4,
+          "strgy_id": "09",
+          "strgy_name": null,
+          "strgy_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CS03129",
+          "sub_id": "17332",
+          "scr_dup": "001",
+          "seq": 4,
+          "strgy_id": "10",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CS03129",
+          "sub_id": "17332",
+          "scr_dup": "001",
+          "seq": 4,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "K2",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CS03129",
+          "sub_id": "17332",
+          "scr_dup": "001",
+          "seq": 4,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "G5",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    }
+  ],
+  "topicSdgs": [],
+  "learnHours": {
+    "total": 0.0,
+    "tpdOnlineAsyTotal": 0.0,
+    "tpdOnlineSynTotal": 0.0,
+    "tpdOnlineFaceTotal": 0.0,
+    "asySynInTotalPercent": 0.0
+  },
+  "crossVerYear": 114
+}

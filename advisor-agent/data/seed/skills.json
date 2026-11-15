@@ -1,0 +1,82 @@
+[
+  {
+    "skill_id": "python",
+    "skill_name": "Python",
+    "category": "programming"
+  },
+  {
+    "skill_id": "sql",
+    "skill_name": "SQL",
+    "category": "database"
+  },
+  {
+    "skill_id": "database_design",
+    "skill_name": "資料庫設計",
+    "category": "database"
+  },
+  {
+    "skill_id": "statistics",
+    "skill_name": "統計學",
+    "category": "data"
+  },
+  {
+    "skill_id": "machine_learning",
+    "skill_name": "機器學習",
+    "category": "ai"
+  },
+  {
+    "skill_id": "artificial_intelligence",
+    "skill_name": "人工智慧",
+    "category": "ai"
+  },
+  {
+    "skill_id": "data_analysis",
+    "skill_name": "資料分析",
+    "category": "data"
+  },
+  {
+    "skill_id": "programming",
+    "skill_name": "程式設計",
+    "category": "programming"
+  },
+  {
+    "skill_id": "data_structures",
+    "skill_name": "資料結構",
+    "category": "programming"
+  },
+  {
+    "skill_id": "algorithms",
+    "skill_name": "演算法",
+    "category": "programming"
+  },
+  {
+    "skill_id": "information_security",
+    "skill_name": "資訊安全",
+    "category": "security"
+  },
+  {
+    "skill_id": "data_visualization",
+    "skill_name": "資料視覺化",
+    "category": "data"
+  },
+  {
+    "skill_id": "image_processing",
+    "skill_name": "影像處理",
+    "category": "design"
+  },
+  {
+    "skill_id": "network_programming",
+    "skill_name": "網路程式設計",
+    "category": "programming"
+  },
+  {
+    "skill_id": "project_management",
+    "skill_name": "專案管理",
+    "category": "management"
+  },
+  {
+    "skill_id": "visual_design",
+    "skill_name": "視覺設計",
+    "category": "design"
+  }
+]

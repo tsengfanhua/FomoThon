@@ -1,0 +1,140 @@
+{
+  "teacherId": "T07042",
+  "name": "洪振傑",
+  "mainUnit": "資訊電機學院",
+  "detailUnit": "電子工程學系",
+  "skill": [
+    "類比積體電路設計與驗證Analog IC Design and Verification",
+    "混合訊號積體電路設計與驗證Mixed-Mode Signal IC Design and Verification",
+    "高速串列電路設計與驗證High Speed Serial Link Design and Verification",
+    "面板系統驅動電路設計實作與驗證Panel Driver Design and Verification"
+  ],
+  "edu": [
+    "國立中央大學 電機工程研究所 博士"
+  ],
+  "fcuExp": [
+    "電子工程學系 助理教授"
+  ],
+  "currjob": [],
+  "otherExp": [
+    "友達光電 面板系統設計部 高級工程師"
+  ],
+  "journal": [
+    {
+      "論文名稱": "A wide‑range and fast‑locking all‑digital DLL with one‑cycle dynamic synchronizing for in‑cell touched LC display",
+      "期刊名稱": "Analog Integrated Circuits and Signal Processing (SCIE,EI)",
+      "作者群": "Zhen‑Jie Hong, *Yu‑Lung Lo,  Kuan‑Yu Shen, Guan‑Yu Chen, Wei‑Ju Li"
+    },
+    {
+      "論文名稱": "A Low Impact Ionization Rate Poly-Si TFT with a Current and Electric Field Split Design",
+      "期刊名稱": "coatings (SCIE)",
+      "作者群": "Feng-Tso Chien, Kuang-Po Hsueh, Zhen-Jie Hong, Kuan-Ting Lin, Yao-Tsung Tsai, and Hsien-Chin Chiu"
+    },
+    {
+      "論文名稱": "An All-Digital Clock Synchronization Buffer With One Cycle Dynamic Synchronizing",
+      "期刊名稱": "IEEE TRANSACTIONS ON VERY LARGE SCALE INTEGRATION (VLSI) SYSTEMS (SCIE,EI)",
+      "作者群": "Kuo-Hsing Cheng, Kai-Wei Hong, Chi-Fa Hsu, and Bo-Qian Jiang"
+    },
+    {
+      "論文名稱": "A High Precision Fast Locking Arbitrary Duty Cycle Clock Synchronization Circuit",
+      "期刊名稱": "IEEE TRANSACTIONS ON VERY LARGE SCALE INTEGRATION (VLSI) SYSTEMS (SCIE,EI)",
+      "作者群": "Kuo-Hsing Cheng, Kai-Wei Hong, Chi-Hsiang Chen, and Jen-Chieh Liu"
+    },
+    {
+      "論文名稱": "A Dynamic Frequency Tracking and Phase Error Compensation Clock De-skew Buffer",
+      "期刊名稱": "ELECTRONICS LETTERS (SCIE,EI)",
+      "作者群": "Kuo-Hsing Cheng, Kai-Wei Hong, Yu-Lung Lo, Chen-Lung Wu and Chien-Hsien Lee"
+    },
+    {
+      "論文名稱": "Built-in jitter measurement circuit with calibration techniques for a 3-GHz clock generator",
+      "期刊名稱": "IEEE TRANSACTIONS ON VERY LARGE SCALE INTEGRATION (VLSI) SYSTEMS (SCIE,EI)",
+      "作者群": "Kuo-Hsing Cheng, Jen-Chieh Liu, Chih-Yu Chang, Shu-Yu Jiang and Kai-Wei Hong"
+    },
+    {
+      "論文名稱": "A Bisection-Based Power Reduction Design for CMOS Flash Analog-to-Digital Converters",
+      "期刊名稱": "JOURNAL OF CIRCUITS SYSTEMS AND COMPUTERS (SCIE,EI)",
+      "作者群": "Chia-Chun Tsai, Kai-Wei Hong, and Trong-Yen Lee"
+    },
+    {
+      "論文名稱": "A Low Jitter Self-Calibration PLL for 10-Gbps SoC Transmission Links Application",
+      "期刊名稱": "IEICE Transactions on Electronics (SCIE,EI)",
+      "作者群": "Kuo-Hsing Cheng, Yu-Chang Tsai, Chien-Nan Jimmy Liu, Kai-Wei Hong and Chin-Cheng Kuo"
+    }
+  ],
+  "journal2": [],
+  "conference": [
+    {
+      "論文名稱": "An All-Digital Delay-Locked Loop with Efficiency Management Design",
+      "會議名稱": "2024 13th International Conference on Information and Electronics Engineering",
+      "作者群": "Kuan-Yu Shen, Wei-Hua Chen, Zhen-Jie Hong"
+    },
+    {
+      "論文名稱": "A 77.16 dB SNDR 10MHz\nBandwidth Continuous Time ΔΣ ADC with VCO-Based Quantizer",
+      "會議名稱": "The 33rd VLSI Design/CAD Symposium",
+      "作者群": "Guan-Yu Chen, Zhen Jie Hong"
+    },
+    {
+      "論文名稱": "A wide-range and high-speed\nPhase-Locked Loop based on Altera FPGA Analysis and Implement",
+      "會議名稱": "The 33rd VLSI Design/CAD Symposium",
+      "作者群": "Yu-Siang Su, Zhen Jie Hong"
+    },
+    {
+      "論文名稱": "Design of 1 GHz Ultra-Low Power Phase Lock Loop in 0.18 μm CMOS Technology",
+      "會議名稱": "The 33rd VLSI Design/CAD Symposium",
+      "作者群": "King-Ho Wong, Kai-Hung Chou, Zhen-Jie Hong"
+    },
+    {
+      "論文名稱": "Thermal Sensor Allocation and Thermal Map Reconstruction using Deep Learning Approach",
+      "會議名稱": "31th VLSI Design / CAD Symposium",
+      "作者群": "Jun-Hui Liang, Chung-Han Chou, Zhen-Jie Hong, Yu-Siang Su"
+    }
+  ],
+  "book": [],
+  "patent": [
+    {
+      "title": "發明",
+      "desc": "SHIFT REGISTER"
+    },
+    {
+      "title": "發明",
+      "desc": "SHIFT REGISTER CIRCUIT"
+    },
+    {
+      "title": "發明",
+      "desc": "Gate driver and shift register"
+    },
+    {
+      "title": "發明",
+      "desc": "Shift register circuit and shift register"
+    },
+    {
+      "title": "發明",
+      "desc": "移位暫存器電路"
+    },
+    {
+      "title": "發明",
+      "desc": "GATE DRIVING CIRCUIT"
+    }
+  ],
+  "most": [
+    {
+      "name": "具有功耗管理之全數位延遲鎖定迴路",
+      "schoolYear": "112"
+    },
+    {
+      "name": "適用於生醫電子系統之十二元高速三角積分類比數位轉換器設計",
+      "schoolYear": "111"
+    }
+  ],
+  "tech": [],
+  "induAca": [],
+  "perform": [],
+  "reward": [
+    "逢甲大學論文著作獎勵傑出獎 (113, 2024-11) - 逢甲大學",
+    "111學年度教學績優獎 (111, 2022-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (109, 2020-11) - 逢甲大學"
+  ],
+  "speech": [],
+  "material": [],
+  "tal": []
+}

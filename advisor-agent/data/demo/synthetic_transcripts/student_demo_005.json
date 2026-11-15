@@ -1,0 +1,44 @@
+[
+  {
+    "course_id": "course_001",
+    "course_name": "程式設計基礎",
+    "semester": "114-2",
+    "grade": 80
+  },
+  {
+    "course_id": "course_002",
+    "course_name": "資料庫概念與設計",
+    "semester": "114-2",
+    "grade": 85
+  },
+  {
+    "course_id": "course_006",
+    "course_name": "統計推論方法",
+    "semester": "114-2",
+    "grade": 82
+  },
+  {
+    "course_id": "course_007",
+    "course_name": "資料探勘與應用",
+    "semester": "114-2",
+    "grade": 88
+  },
+  {
+    "course_id": "course_011",
+    "course_name": "資料分析與視覺化",
+    "semester": "114-2",
+    "grade": 87
+  },
+  {
+    "course_id": "course_013",
+    "course_name": "網路程式開發",
+    "semester": "114-2",
+    "grade": 79
+  },
+  {
+    "course_id": "course_015",
+    "course_name": "敏捷方法與專案管理",
+    "semester": "114-2",
+    "grade": 90
+  }
+]

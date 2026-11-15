@@ -1,0 +1,121 @@
+{
+  "teacherId": "T12196",
+  "name": "盧馬汀",
+  "mainUnit": "商學院",
+  "detailUnit": "統計學系",
+  "skill": [
+    "缺失數據與測量誤差Missing data and measurement errors",
+    "非參數和半參數模型Nonparametric and Semiparametric models",
+    "零值過多的計數數據Count data with excess of zeroes",
+    "交通事故數據分析Traffic accidents data analysis",
+    "社交網絡分析的統計方法Statistical methods for social network analysis"
+  ],
+  "edu": [
+    "逢甲大學 統計學系應用統計博士班 博士",
+    "Higher Institute of Statistics Lubumbashi Second degree in Applied Mathematics 碩士",
+    "Higher Institute of Statistics Lubumbashi First degree in Applied Mathematics 學士"
+  ],
+  "fcuExp": [
+    "統計學系 助理教授"
+  ],
+  "currjob": [],
+  "otherExp": [
+    "國立成功大學 統計學系 助理教授",
+    "中央研究院 統計科學研究所 博士後研究人員"
+  ],
+  "journal": [
+    {
+      "論文名稱": "Adjusting Self-Protective and Non-Response Behaviours Sensitive Prevalence Estimation by a Two-Stage Multilevel Randomised Response Technique",
+      "期刊名稱": "International Statistical Review (SCIE)",
+      "作者群": "Lukusa TM, Pier Francesco Perri, Shu-Hui Hsieh*"
+    },
+    {
+      "論文名稱": "Double Robust Semiparametric Weighted M-Estimators of a Zero-inflated Poisson Regression with Missing Data in Covariates",
+      "期刊名稱": "COMMUNICATIONS IN STATISTICS - SIMULATION AND COMPUTATION (SCIE)",
+      "作者群": "Lukusa TM.*"
+    },
+    {
+      "論文名稱": "Analysis factors affecting Covid-19 mortality using count regression",
+      "期刊名稱": "Jurnal Matematika UNAND (Peer-reviewed Journal)",
+      "作者群": "Niswatul Qona'ah* and Lukusa T.M."
+    },
+    {
+      "論文名稱": "Mendelian randomization analysis on the impacts of age at menarche on adult height: A Taiwanese population study",
+      "期刊名稱": "Journal of Pediatrics & Neonatology (SCIE)",
+      "作者群": "Lukusa TM, Cheng-Yi Yang, Meng-Che Tsai*"
+    },
+    {
+      "論文名稱": "Comprehensive Statistical Approach to Investigate the Risk Factors Affecting the Occurrences of Cellulitis Episodes among Patients with Lymphedema",
+      "期刊名稱": "Clinical Medecine &Research (SCIE)",
+      "作者群": "Niswatul Qona’ah*, Lukusa"
+    },
+    {
+      "論文名稱": "Parameter estimations of zero-inflated negative binomial model with incomplete data",
+      "期刊名稱": "Applied Mathematical Modelling (SCIE)",
+      "作者群": "Kim-Hung Pho and Lukusa, T.M*"
+    },
+    {
+      "論文名稱": "Statistical approaches for assessing the effectiveness of safety devices use in Preventing head injuries from motorcycle crashes.",
+      "期刊名稱": "Case Studies on Transport Policy (TSSCI)",
+      "作者群": "Mena Lao and Lukusa T.M*."
+    },
+    {
+      "論文名稱": "Comparison of Estimators for Multi-level Randomized Response Data: Evidence from a Case of Sexual Identity",
+      "期刊名稱": "Field Methods (SSCI)",
+      "作者群": "Hsieh, S.H*.,  Lukusa, T. M."
+    },
+    {
+      "論文名稱": "A note on the weighting-type estimations of the zero-inflated Poisson regression model with missing data in covariates",
+      "期刊名稱": "Statistics & Probability Letters (SCIE)",
+      "作者群": "Lukusa, T.M., Frederick Kin Hing Phoa*"
+    },
+    {
+      "論文名稱": "Horvitz estimations with incomplete traffic accidents data via modeling zero-inflated Poisson model",
+      "期刊名稱": "Accident Analysis and Prevention (SSCI)",
+      "作者群": "Lukusa, T.M.*, Frederick Kin Hing Phoa"
+    },
+    {
+      "論文名稱": "Estimation of a zero-inflated Poisson regression model with missing covariates via nonparametric multiple imputation method",
+      "期刊名稱": "Computational Statistics (SCIE)",
+      "作者群": "Shen-Ming Lee, Lukusa TM, Chin-Shang Li*."
+    },
+    {
+      "論文名稱": "Comparison among Akaike information criterion, Bayesian information criterion and Vuong’s test in model selection: a case study of violated speed regulation in Taiwan.",
+      "期刊名稱": "Journal of Advanced Engineering and Computation (ISSN (Online): 2588-123X)",
+      "作者群": "Kim-Hung Pho, Sel Ly, Sal Ly, Lukusa, TM."
+    },
+    {
+      "論文名稱": "Review of Zero-Inflated Models with Missing Data",
+      "期刊名稱": "Current Research in Biostatistics (Science Publication)",
+      "作者群": "Lukusa, T.M, Chin-Shang, Li*, Shen-Ming. Lee"
+    },
+    {
+      "論文名稱": "Semiparametric estimation of a zero-inflated Poisson with missing covariates",
+      "期刊名稱": "METRIKA (SCIE)",
+      "作者群": "Lukusa TM, Chin-Shang Li*, Shen-Ming Lee"
+    }
+  ],
+  "journal2": [],
+  "conference": [],
+  "book": [],
+  "patent": [],
+  "most": [
+    {
+      "name": "(成大)柵欄模型與不完整共變異數的零膨脹模型在交通及醫療領域的應用",
+      "schoolYear": "112"
+    }
+  ],
+  "tech": [
+    {
+      "論文名稱": "Semiparametric Weighting Estimations of a Zero-Inflated Poisson Regression  with Missing in Covariates (2020-11)",
+      "書名": "Nonparametric Statistics",
+      "作者群": "Lukusa, T. M*.,   Frederick Kin Hing Phoa"
+    }
+  ],
+  "induAca": [],
+  "perform": [],
+  "reward": [],
+  "speech": [],
+  "material": [],
+  "tal": []
+}

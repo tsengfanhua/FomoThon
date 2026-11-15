@@ -1,0 +1,359 @@
+{
+  "teacherId": "T07043",
+  "name": "沈祖望",
+  "mainUnit": "資訊電機學院",
+  "detailUnit": "自動控制工程學系",
+  "skill": [
+    "生醫工程Biomedical Engineering",
+    "光聲影像Photoacoustic Imaging",
+    "人工智慧Artificial Intelligence",
+    "智慧感測裝置Smart Sensing Devices",
+    "仿生智能Biomimetric Intelligence",
+    "實境技術整合VR/AR/MR Technology Integration"
+  ],
+  "edu": [
+    "University of Wisconsin - Madison Biomedical Engineering 博士",
+    "University of Wisconsin - Madison Electrical and Computer Engineering 碩士"
+  ],
+  "fcuExp": [
+    "自動控制工程學系 系主任",
+    "資訊電機學院 院長",
+    "逢甲大學帆宣智慧城市5G實驗室 研究員",
+    "自動控制工程學系 副教授",
+    "自動控制工程學系 教授"
+  ],
+  "currjob": [],
+  "otherExp": [
+    "國家實驗研究院 STB 計畫 STB fellow"
+  ],
+  "journal": [
+    {
+      "論文名稱": "Photoacoustic method for measuring the elasticity of polydimethylsiloxane at various mixing ratios",
+      "期刊名稱": "Heliyon (SCIE)",
+      "作者群": "Tsu-Wang Shen, Ming-Chun Tsai, Ting-Mao Chen, Chi-Chang Chang*"
+    },
+    {
+      "論文名稱": "Photoacoustic and absorption spectroscopy imaging analysis of human blood",
+      "期刊名稱": "PLoS ONE  . https://doi.org/10.1371/journal.pone.0289704 (SSCI)",
+      "作者群": "Wei-Yun Tsai, Stephan Breimann, Tsu-Wang Shen, Dmitrij Frishman"
+    },
+    {
+      "論文名稱": "Convolutional Neural Network-based Fast Seizure detection from Video Electroencephalograms",
+      "期刊名稱": "Biomedical Signal Processing and Control (SCIE)",
+      "作者群": "Chi-Hsiang Chou, Tsu-Wang Shen*, Hsin Tung, Peiyuan F Hsieh, Chih-En Kuo, Ting-Mao Chen, Chao-Wei Yang"
+    },
+    {
+      "論文名稱": "Evaluation of Visual Acuity Measurement Based on the Mobile Virtual Reality Device",
+      "期刊名稱": "Mathematical Problems in Engineering (SCIE)",
+      "作者群": "Tsu-Wang Shen, Hsuan-Yu Hsu and You-Zhen Chen"
+    },
+    {
+      "論文名稱": "Plasmonic Gold Nanomaterials as Photoacoustic Signal Resonant Enhancers for Cysteine Detection",
+      "期刊名稱": "Nanomaterials (SCIE)",
+      "作者群": "Tsu-Wang Shen, Ting-Ku Ou, Bo-Yan Lin, and Yi-Hsin Chien*"
+    },
+    {
+      "論文名稱": "A Trigonometric Projection Method for Overcoming High Intensity Heart Rate Caused Waveform Deformation in Electrocardiogram Biometrics",
+      "期刊名稱": "Journal of Medical and Biological Engineering (SCIE)",
+      "作者群": "Tsu-Wang Shen* and Shan-Chun Chang"
+    },
+    {
+      "論文名稱": "Laser Automatic Weeding System Based on Deep Learning",
+      "期刊名稱": "Journal of Ecological Citizen Farm Development (無)",
+      "作者群": "Hung-Yun Hsu, Po-Wei Tsai, Wan-Xuan Lin, Tsu-Wang Shen"
+    },
+    {
+      "論文名稱": "An artificial immune system with bootstrap sampling for the diagnosis of recurrent endometrial cancers",
+      "期刊名稱": "Open medicine (SCIE)",
+      "作者群": "Chih-Yen Chang, Yen-Chiao (Angel) Lu, Wen-Chien Ting, Tsu-Wang (David) Shen*, Wen-Chen Peng"
+    },
+    {
+      "論文名稱": "The Changes of QEEG Approximate Entropy during Test of Variables of Attention as a Predictor of Major Depressive Disorder",
+      "期刊名稱": "Brain Sci. (SCIE)",
+      "作者群": "Shao-Tsu Chen, Li-Chi Ku, Shaw-Ji Chen, Tsu-Wang Shen *"
+    },
+    {
+      "論文名稱": "Estimation of Epileptic Seizure Risk Based on Digital Biomarkers from Intracranial Electroencephalography",
+      "期刊名稱": "Journal of Quality (EI)",
+      "作者群": "Hsien-Hua Liao, Tsu-Wang (David) Shen*, Xavier Kuo"
+    },
+    {
+      "論文名稱": "Detection Performance Regarding Sleep Apnea-Hypopnea Episodes with Fuzzy Logic Fusion on Single-Channel Airflow Indexes",
+      "期刊名稱": "Applied Sciences (SCIE)",
+      "作者群": "Ming-Feng Wu, Wei-Chang Huang, Kai-Ming Chang, Po-Chun Lin, Chi-Hsuan Kuo, Cheng-Wei Hsu, Tsu-Wang Shen*"
+    },
+    {
+      "論文名稱": "Crack Detection on a Retaining Wall with an Innovative, Ensemble Learning Method in a Dynamic Imaging System",
+      "期刊名稱": "Sensors (SCIE)",
+      "作者群": "Chern-Sheng Lin *, Shih-Hua Chen, Che-Ming Chang, Tsu-Wang Shen,"
+    },
+    {
+      "論文名稱": "Using Fuzzy C-Means Index Matrix on Magnetic Resonance Images to Define Possible Cortical Malformations with Epilepsy – A Pilot Study",
+      "期刊名稱": "Annals of Neurological Surgery (remedy publication)",
+      "作者群": "YL Hsin, T Harnod and TW Shen"
+    },
+    {
+      "論文名稱": "Genetic signatures of heroin addiction",
+      "期刊名稱": "Medicine (Baltimore) (SCIE)",
+      "作者群": "SJ Chen, DL Liao, TW Shen, HC Yang, KC Chen, CH Chen"
+    },
+    {
+      "論文名稱": "Heart-Rate Resistance ECG Identification Based on Slope-Oriented Neural Networks",
+      "期刊名稱": "International Journal of Biomedical and Biological Engineering (Scopus (Elsevier) Compendex [formerly Ei] (Elsevier))",
+      "作者群": "Tsu-Wang Shen, Shan-Chun Chang, Chih-Hsien Wang, and Te-Chao Fang"
+    },
+    {
+      "論文名稱": "Sudden Cardiac Death Detection Methods Based on ECG Biometric Technologies",
+      "期刊名稱": "J Comput Eng Inf Technol. (Sherpa Romeo  Index Copernicus Value: 80.41  Cosmos)",
+      "作者群": "T. Shen, H. Shen, C. Lin, Y. Ou"
+    },
+    {
+      "論文名稱": "Aerobic exercise affects T-wave alternans and heart rate variability in postmenopausal women",
+      "期刊名稱": "International Journal of Sports Medicine (SCIE)",
+      "作者群": "Tsu-Wang Shen, Huei-Jhen Wen"
+    },
+    {
+      "論文名稱": "Changes in heart rate variability during TOVA testing in patients with major depressive disorder",
+      "期刊名稱": "Psychiatry and Clinical Neurosciences (SCIE)",
+      "作者群": "Tsu-Wang Shen, Fang-Chih Liu, Shaw-Ji Chen, and Shao-Tsu Chen"
+    },
+    {
+      "論文名稱": "BIO-LEGO: An Interactive LEGO Robot Inspired by AI Fusion, Bio-signals, and Attention Biofeedback Technologies, ,, Feb 2012.",
+      "期刊名稱": "International Journal of Electrical Engineering (ECONLIT)",
+      "作者群": "Tsu-Wang Shen*, Ting-Fong Laio"
+    },
+    {
+      "論文名稱": "The Effectiveness and Safety of Adjunctive Aripiprazole in Taiwanese Patients With Antidepressant-Refractory Major Depressive Disorder",
+      "期刊名稱": "Journal of Clinical Psychopharmacology (SCIE)",
+      "作者群": "Shaw-Ji Chen, Yi-Lin Hsiao, Tsu-Wang Shen and Shao-Tsu Chen"
+    },
+    {
+      "論文名稱": "Temporo-spatial analyses define epileptogenic and functional zones in a case of Dyke-Davidoff-Masson syndrome",
+      "期刊名稱": "SEIZURE-EUROPEAN JOURNAL OF EPILEPSY (SCIE)",
+      "作者群": "Y.L. Hsin, M.F. Chuang, T.W. Shen, T. Harnod,"
+    },
+    {
+      "論文名稱": "Aripiprazole augmentation induced hypertension in major depressive disorder: A case report",
+      "期刊名稱": "Progress in Neuro-Psychopharmacology & Biological Psychiatry (SCIE)",
+      "作者群": "YL Hsiao, SJ Chen, TW Shen, CH Chang"
+    },
+    {
+      "論文名稱": "Characterization of the psychological, physiological and EEG profile of acute betel quid intoxication in naïve subjects",
+      "期刊名稱": "PLoS ONE (SCIE)",
+      "作者群": "P. Osborne, TH Chou, T.W. Shen"
+    },
+    {
+      "論文名稱": "探討互動式遊戲介入模式對健康族群與疾病復健之影響",
+      "期刊名稱": "中華體育季刊 (台灣體育期刊分級為A級)",
+      "作者群": "沈祖望，溫蕙甄"
+    },
+    {
+      "論文名稱": "Electromyography change during the test of variables of attention TOVA in patients with major depressive disorder",
+      "期刊名稱": "European Psychiatry (SCIE)",
+      "作者群": "ST Chen, TW Shen, SJ Chen"
+    },
+    {
+      "論文名稱": "Implementation of a one-lead ECG human identification system on a normal population",
+      "期刊名稱": "Journal of Engineering and Computer Innovations (NA)",
+      "作者群": "TW Shen*, WJ Tompkins, and YH Hu"
+    }
+  ],
+  "journal2": [],
+  "conference": [
+    {
+      "論文名稱": "Feature Changes on Photoacoustic Signals of Gold Nanoparticle Solutions After Laser Heating",
+      "會議名稱": "ICMHI 2022: 6th International Conference on Medical and Health Informatics",
+      "作者群": "Yi-Ru Lee, Tsu-Wang Shen*"
+    },
+    {
+      "論文名稱": "Thickness Measurement of the Cross Section of Blood Vessels with Photoacoustic Signals",
+      "會議名稱": "2021 Symposium on Engineering, Medicine, and Biology Applications",
+      "作者群": "Jyun-Kuei Huang, and Tsu-Wang Shen"
+    },
+    {
+      "論文名稱": "Measurement Oxygen Saturation Based on Amplitude of Single Wavelength of Photoacoustic Signal from Finger Tips",
+      "會議名稱": "2021 5th International Conference on Medical and Health Informatics (ICMHI 2021)",
+      "作者群": "MING-CHUN TSAI, TSU-WANG SHEN*, TING-KU OU, TIAN-FU LEE"
+    },
+    {
+      "論文名稱": "Histogram Analysis of Photoacoustic Effect Changes on Different Liquid Samples",
+      "會議名稱": "ICMHI 2019: Proceedings of the third International Conference on Medical and Health Informatics",
+      "作者群": "Tsu Wang Shen, Ting Ku Ou, and Chi-Chang Chang"
+    },
+    {
+      "論文名稱": "Glucose Level Detection in Vitro Based on Fourier Transform of Photoacoustic Imaging Signals",
+      "會議名稱": "International Conference on Medical and Health Informatics 2018",
+      "作者群": "Tsu-Wang Shen, Hemalatha Mani, Yuwei Zhan"
+    }
+  ],
+  "book": [
+    {
+      "專業書籍": "臨床創新：從點子到創新具體化的第一本書",
+      "出版單位": "五南",
+      "作者群": "吳明峰*, 吳杰亮, 沈祖望, 林世永, 莊家峰, 溫志煜"
+    },
+    {
+      "專業書籍": "Intel Atom 平台之嵌入式系統開發與應用實例，Chapter 10，以可攜式超音波實現遠距照護，ISBN 978-986-90988-3-0，2014/10/30。",
+      "出版單位": "碩亞數碼科技",
+      "作者群": "Chun-Hung Lin, Lan-Da Van, 葉 家宏, 賴 槿峰, 陳 自強, Shih-Lin Hung, 楊 朝棟, 張 貴忠, 章 學賢, 沈 祖望, 張 煌儀, 王 信安, 洪 士灝, 阮 聖彰"
+    }
+  ],
+  "patent": [
+    {
+      "title": "發明",
+      "desc": "光動力與光聲量測並存系統"
+    }
+  ],
+  "most": [
+    {
+      "name": "邀請University of Wisconsin - Madison Yu Hen Hu教授",
+      "schoolYear": "112"
+    },
+    {
+      "name": "(臺義雙邊)新型二階段厭氧程序促進廚餘生物氫/甲烷的生產和氨去除效率(2/2)",
+      "schoolYear": "112"
+    },
+    {
+      "name": "以布拉格光柵感測實現多頻段光聲光譜量測胺基酸系統",
+      "schoolYear": "112"
+    },
+    {
+      "name": "實現具有癌症標靶藥物定位與光動力治療合一之光聲系統",
+      "schoolYear": "110"
+    },
+    {
+      "name": "基於人數統計與骨架姿勢之學生行為辨識於邊緣運算之研究與系統",
+      "schoolYear": "110"
+    },
+    {
+      "name": "以嵌入式系統實現量測結構組織之光聲顯微鏡",
+      "schoolYear": "110"
+    },
+    {
+      "name": "以非侵入式光聲效應技術量測頸動脈血管的硬化程度(2/2)",
+      "schoolYear": "109"
+    },
+    {
+      "name": "(開發型)產學合作計畫－運用光聲技術探測並清除生物膜之設備",
+      "schoolYear": "108"
+    },
+    {
+      "name": "(廠配)祝三實業股份有限公司(開發型)產學合作計畫－運用光聲技術探測並清除生物膜之設備",
+      "schoolYear": "108"
+    },
+    {
+      "name": "以非侵入式光聲效應技術量測頸動脈血管的硬化程度(1/2)",
+      "schoolYear": "108"
+    },
+    {
+      "name": "基於巨量睡眠生理訊號資料庫與深度學習技術的睡眠輔助診斷系統之研發與驗證",
+      "schoolYear": "108"
+    },
+    {
+      "name": "結合影像辨識之雷射自動除草系統",
+      "schoolYear": "108"
+    }
+  ],
+  "tech": [
+    {
+      "論文名稱": "以可攜式超音波實現遠距照護 (2014-10)",
+      "書名": "Intel Atom 平台之嵌入式系統開發與應用實例 (Intel Atom Platform: Intelligent Systems Development and Applications)",
+      "作者群": "Tsu-Wang Shen (沈祖望)，Yu-Wei Chan (詹育瑋)"
+    },
+    {
+      "論文名稱": "Intelligence Computing Approaches for Epileptic Spike Detection Based on Intracranial Electroencephalogram (IEEG) (2010-02)",
+      "書名": "Pattern Recognition, Recent Advances\", Edit by Adam Herout,",
+      "作者群": "Tsu-Wang Shen, and Xavier Kuo"
+    }
+  ],
+  "induAca": [
+    "113年iPAS推動合作委託案-ANT+EMC+ML+ISE 能力鑑定A型-台中區 (2024-04 to 2024-12)",
+    "台積電半導體學程產學合作-(元件/整合學程及智慧製造學程) (2023-09 to 2025-01)",
+    "112年iPAS推動合作委託案-天線設計及電磁相容工程師能力鑑定B型2-台中考區 (2023-03 to 2023-11)",
+    "廠房機台AR導引系統建立技術 (2021-11 to 2022-10)",
+    "「以動物及組織驗證超音波探測系統於臨床之可行性」計畫 (2021-07 to 2021-12)",
+    "子計畫3-廠房機台AR引導系統建立技術 (2021-04 to 2021-07)",
+    "2021年逢甲大學-欣銓科技產學合作先導計畫 (2021-04 to 2021-07)",
+    "以超音波探測金屬針管深度計畫 (2020-12 to 2021-05)",
+    "以光聲檢測光譜方法評估血糖控制藥對多發性骨髓瘤之影響 (2019-02 to 2019-12)"
+  ],
+  "perform": [],
+  "reward": [
+    "113年度國科會補助大專校院研究獎勵 (113, 2024-11) - 逢甲大學",
+    "逢甲大學優良教材獎勵佳作獎 (113, 2024-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (113, 2024-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (113, 2024-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "2022全國大專校院智慧創新暨跨域整合創作競賽 (111, 2022-12) - 教育部資訊及科技教育司- 國立中央大學資訊工程學系",
+    "逢甲大學論文著作獎勵傑出獎 (111, 2022-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (111, 2022-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (111, 2022-11) - 逢甲大學",
+    "111年度國科會補助大專校院研究獎勵 (111, 2022-10) - 研究發展處",
+    "2021全國大專校院智慧創新暨跨域整合創作競賽 (110, 2021-12) - 教育部資訊及科技教育司- 國立中央大學資訊工程學系",
+    "2021永續智慧創新黑克松競賽 (110, 2021-12) - 中國醫藥大學",
+    "逢甲大學論文著作獎勵優良獎 (110, 2021-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (110, 2021-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (110, 2021-11) - 逢甲大學",
+    "110學年度教學傑出獎 (110, 2021-11) - 逢甲大學",
+    "110年度科技部補助大專校院研究獎勵 (110, 2021-10) - 產學合作處",
+    "2020全國大專校院智慧創新暨跨域整合創作競賽 (109, 2020-12) - 教育部資訊及科技教育司- 國立中央大學資訊工程學系",
+    "2020全國大專校院智慧創新暨跨域整合創作競賽 (109, 2020-12) - 教育部資訊及科技教育司- 國立中央大學資訊工程學系",
+    "2020全國大專校院智慧創新暨跨域整合創作競賽 (109, 2020-12) - 教育部資訊及科技教育司- 國立中央大學資訊工程學系",
+    "逢甲大學論文著作獎勵傑出獎 (109, 2020-11) - 逢甲大學",
+    "108-2教學滿意度全校前10％ (109, 2020-11) - 逢甲大學",
+    "108年度論文競賽獎 (109, 2020-08) - 台中榮民總醫院",
+    "108年度線上壁報佳作 (109, 2020-08) - 台中榮民總醫院",
+    "108-1教學滿意度全校前10％ (108, 2020-05) - 逢甲大學",
+    "2019全國大專校院智慧創新暨跨域整合創作競賽 (108, 2019-12) - 教育部資訊及科技教育司- 國立中央大學資訊工程學系",
+    "107-2教學滿意度全校前10％ (108, 2019-11) - 逢甲大學",
+    "107-1教學滿意度全校前10％ (107, 2019-05) - 逢甲大學",
+    "107-1教學滿意度全校前10％ (107, 2019-05) - 逢甲大學",
+    "Best Paper Award (106, 2018-06) - International Conference on Medical and Health Informatics 2018"
+  ],
+  "speech": [
+    {
+      "演講題目": "當傳統遇上科技- 結合中醫診斷分析與智慧感測之脈診筆",
+      "邀請單位": "中興大學精準健康產業跨領域人才培育計畫",
+      "演講日期": "2023-06"
+    },
+    {
+      "演講題目": "以科技設計思考方法實現呼吸中止之臨床需求",
+      "邀請單位": "逢甲x中國醫大x亞大Happy Hour",
+      "演講日期": "2021-01"
+    },
+    {
+      "演講題目": "創新醫療器材設計學理之應用與商品化實務",
+      "邀請單位": "陽明交通大學109學年度生物醫學暨工程學院推",
+      "演講日期": "2020-12"
+    },
+    {
+      "演講題目": "當傳統遇上科技- 結合中醫診斷分析與智慧感測之脈診筆",
+      "邀請單位": "中山醫學大學",
+      "演講日期": "2020-08"
+    },
+    {
+      "演講題目": "創新醫療器材設計學理之應用與商品化實務",
+      "邀請單位": "陽明交通大學108學年度生物醫學暨工程學院推",
+      "演講日期": "2019-10"
+    },
+    {
+      "演講題目": "創新醫療器材設計學理之應用與商品化實務",
+      "邀請單位": "陽明交通大學107學年度生物醫學暨工程學院推",
+      "演講日期": "2018-10"
+    },
+    {
+      "演講題目": "仿生智慧之未來應用",
+      "邀請單位": "逢甲大學生醫資訊暨生醫工程研究所",
+      "演講日期": "2018-10"
+    },
+    {
+      "演講題目": "虛擬實境AR/VR技術應用在臨床教學",
+      "邀請單位": "新北市護理師護士公會",
+      "演講日期": "2018-05"
+    }
+  ],
+  "material": [
+    "臨床創新：從點子到創新具體化的第一本書\t五南\t吳明峰*, 吳杰亮, 沈祖望, 林世永, 莊家峰, 溫志煜\t教科書"
+  ],
+  "tal": []
+}

@@ -1,0 +1,225 @@
+{
+  "teacherId": "T04067",
+  "name": "秦國軒",
+  "mainUnit": "商學院",
+  "detailUnit": "經濟學系",
+  "skill": [
+    "總體經濟學Macroeconomics",
+    "總體貝氏計量經濟學Bayesian Macroeconometrics"
+  ],
+  "edu": [
+    "University of Missouri at Columbia Department of Economics 博士",
+    "國立中正大學 國際經濟研究所 碩士",
+    "淡江大學 經濟系 學士"
+  ],
+  "fcuExp": [
+    "經營管理學院 副執行長",
+    "商學進修學士班 主任",
+    "商學進修學士學位學程 主任",
+    "國際企業管理全英語學士學位學程(籌備) 主任",
+    "商學院 秘書",
+    "全球商業文化研究中心 主任",
+    "經濟學系 系主任",
+    "企業動態與社會責任研究中心 主任",
+    "經濟學系 助理教授",
+    "經濟學系 副教授"
+  ],
+  "currjob": [],
+  "otherExp": [
+    "淡江大學 經濟學系 計畫案專任助理"
+  ],
+  "journal": [
+    {
+      "論文名稱": "Competition Policy in a General-Equilibrium Platform Economy",
+      "期刊名稱": "International Journal of Economic Theory (SSCI)",
+      "作者群": "Hamid Beladi, Chi-Chur Chao and Kuo-Hsuan Chin"
+    },
+    {
+      "論文名稱": "Forecasting Exchange Rate in a Large Bayesian VAR Model: The Case of Taiwan",
+      "期刊名稱": "Review of Economic Analysis (ECONLIT)",
+      "作者群": "Kuo-Hsuan Chin and Zi-Mei Lee"
+    },
+    {
+      "論文名稱": "Cross Ownership, Business Dynamism and Wage Inequality in General Equilibrium",
+      "期刊名稱": "Scottish Journal of Political Economy (SSCI)",
+      "作者群": "Hamid Beladi, Chi-Chur Chao and Kuo-Hsuan Chin"
+    },
+    {
+      "論文名稱": "Stability of Phillips Curve: The Case of Taiwan",
+      "期刊名稱": "Economics Bulletin (ECONLIT)",
+      "作者群": "Kuo-Hsuan Chin and Xin-Hua Zheng"
+    },
+    {
+      "論文名稱": "Inflation Persistence and Monetary Policy: DSGE-VAR Approach",
+      "期刊名稱": "Manchester School (SSCI)",
+      "作者群": "Kuo-Hsuan Chin"
+    },
+    {
+      "論文名稱": "Forecast Evaluation of DSGE Models: Linear and Nonlinear Likelihood",
+      "期刊名稱": "Journal of Forecasting (SSCI)",
+      "作者群": "Kuo-Hsuan Chin"
+    },
+    {
+      "論文名稱": "Stock Indices Forecast by Hybrid Model from GARCH Families: Evidence from Global Markets",
+      "期刊名稱": "Journal of Accounting, Finance & Management Strategy (ECONLIT)",
+      "作者群": "Kuo-Hsuan Chin, Nhan Nguyen-Thanh and Cong-Duc Tran"
+    },
+    {
+      "論文名稱": "Bayesian Forecasts in VAR Models: The Case of Taiwan",
+      "期刊名稱": "Empirical Economics Letters (ECONLIT)",
+      "作者群": "Kuo-Hsuan Chin* and Yen-Ju Lin"
+    },
+    {
+      "論文名稱": "Time Varying Structural VARs with Sign Restrictions: The Case of Taiwan",
+      "期刊名稱": "Bulletin of Economic Research (SSCI)",
+      "作者群": "Kuo-Hsuan Chin"
+    },
+    {
+      "論文名稱": "New Keynesian Phillips Curve with Time-Varying Parameters",
+      "期刊名稱": "Empirical Economics (SSCI)",
+      "作者群": "Kuo-Hsuan Chin"
+    },
+    {
+      "論文名稱": "Fiscal Stimulus on Bayesian DSGE Models",
+      "期刊名稱": "Prague Economic Papers (SSCI)",
+      "作者群": "Kuo-Hsuan Chin"
+    },
+    {
+      "論文名稱": "Bayesian Forecast Combination in VAR-DSGE Models",
+      "期刊名稱": "Journal of Macroeconomics (SSCI)",
+      "作者群": "Kuo-Hsuan Chin and Xue Li*"
+    },
+    {
+      "論文名稱": "An Empirical Study of Taiwan's Real Business Cycle",
+      "期刊名稱": "International Journal of Economics and Finance (EBSCOhost)",
+      "作者群": "Kuo-Hsuan Chin* and Tzu-Yun Huang"
+    }
+  ],
+  "journal2": [],
+  "conference": [
+    {
+      "論文名稱": "Stability of Phillips Curve: The Case of Taiwan",
+      "會議名稱": "2023 Feng Chia Conference on Recent Advances in Sustainable Development, Green Finance, and Regional Cooperation",
+      "作者群": "Kuo-Hsuan Chin and Xin-Hua Zheng"
+    },
+    {
+      "論文名稱": "Evaluation of Bayesian Nonlinear DSGE Models",
+      "會議名稱": "Asia-Pacific Conference on Economics and Finance (APEF 2019)",
+      "作者群": "Kuo-Hsuan Chin"
+    },
+    {
+      "論文名稱": "Bayesian Forecast Combination in VAR-DSGE Models",
+      "會議名稱": "32nd International Academic Conference",
+      "作者群": "Kuo-Hsuan Chin and Xue Li"
+    },
+    {
+      "論文名稱": "Fiscal Stimulus on Bayesian DSGE Models",
+      "會議名稱": "Annual Conference of Taiwan Econometrics Society",
+      "作者群": "Kuo-Hsuan Chin"
+    },
+    {
+      "論文名稱": "New Keynesian Phillips Curve with Time Varying Parameters",
+      "會議名稱": "Hitotsubashi Summer Institute Workshop",
+      "作者群": "Kuo-Hsuan Chin"
+    }
+  ],
+  "book": [],
+  "patent": [],
+  "most": [
+    {
+      "name": "經濟大衰退時期之通膨困惑: 半結構式總體計量觀點",
+      "schoolYear": "113"
+    },
+    {
+      "name": "大量參數VAR模型的貝氏計量預測",
+      "schoolYear": "111"
+    },
+    {
+      "name": "參數時變菲利浦曲線的實證研究—以台灣為例",
+      "schoolYear": "111"
+    },
+    {
+      "name": "美國大穩定時期來源之探究–貝氏模型平均法之應用",
+      "schoolYear": "111"
+    },
+    {
+      "name": "干擾項具有厚尾分配及時變波動性之DSGE模型",
+      "schoolYear": "110"
+    },
+    {
+      "name": "美國經濟結構轉換下的景氣循環特徵",
+      "schoolYear": "109"
+    },
+    {
+      "name": "台灣自然失業率之估計與探討",
+      "schoolYear": "109"
+    },
+    {
+      "name": "通膨持續性與貨幣政策: DSGE-VAR方法",
+      "schoolYear": "108"
+    },
+    {
+      "name": "非線性動態隨機一般均衡模型的貝氏評估",
+      "schoolYear": "107"
+    },
+    {
+      "name": "向量自我迴歸暨動態隨機一般均衡模型下的貝氏計量預測",
+      "schoolYear": "104"
+    }
+  ],
+  "tech": [],
+  "induAca": [
+    "111年度中華民國觀光工廠產學合作暨人才培育專案計畫 (2022-02 to 2022-12)"
+  ],
+  "perform": [],
+  "reward": [
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "111學年度教學傑出獎 (111, 2022-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (110, 2021-11) - 逢甲大學",
+    "110年度科技部補助大專校院研究獎勵 (110, 2021-10) - 產學合作處",
+    "逢甲大學論文著作獎勵傑出獎 (109, 2020-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (109, 2020-11) - 逢甲大學",
+    "108學年度教學績優獎 (108, 2019-11) - 逢甲大學",
+    "107學年度教學績優獎 (107, 2018-11) - 逢甲大學"
+  ],
+  "speech": [
+    {
+      "演講題目": "Introduction to Bayesian VAR Models",
+      "邀請單位": "臺北大學金融與合作經營系",
+      "演講日期": "2024-05"
+    },
+    {
+      "演講題目": "Introduction to Bayesian Macroeconometrics",
+      "邀請單位": "東華大學經濟系",
+      "演講日期": "2023-11"
+    },
+    {
+      "演講題目": "Evaluation of Bayesian Nonlinear DSGE Models",
+      "邀請單位": "台灣大學經濟系",
+      "演講日期": "2020-04"
+    },
+    {
+      "演講題目": "Evaluation of Bayesian Nonlinear DSGE Models",
+      "邀請單位": "清華大學經濟系",
+      "演講日期": "2019-12"
+    },
+    {
+      "演講題目": "Evaluation of Bayesian Nonlinear DSGE Models",
+      "邀請單位": "中山大學經濟研究所",
+      "演講日期": "2019-12"
+    },
+    {
+      "演講題目": "Bayesian Forecast Combination in VAR-DSGE Models",
+      "邀請單位": "中央大學經濟系",
+      "演講日期": "2018-04"
+    },
+    {
+      "演講題目": "Bayesian Forecast Combination in VAR-DSGE Models",
+      "邀請單位": "東華大學經濟系",
+      "演講日期": "2017-05"
+    }
+  ],
+  "material": [],
+  "tal": []
+}

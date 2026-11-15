@@ -1,0 +1,811 @@
+{
+  "teacherId": "T06047",
+  "name": "張淵仁",
+  "mainUnit": "工程與科學學院",
+  "detailUnit": "航太與系統工程學系",
+  "skill": [
+    "工業人工智慧，工業4.0大數據分析技術 (技術學習來自美國辛辛那提大學國家智能維護系統產學研究中心) </br>Industrial AI, Industry 4.0 Big Data Analytics. (Technology learning from NSF/University Cooperative Center on Intelligent Maintenance System (IMS), University of Cincinnati, Ohio, USA)",
+    "醫用光學電腦斷層掃描儀與凝膠劑量計應用於光子、質子、近接放射治療劑量驗證技術。</br>Optical computed tomography and gel dosimetry used for dose verification of photon and Proton therapy, and Brachytherapy.",
+    "光機系統設計、光通訊模組設計(CAD)、熱流模擬分析(CAE)與封裝(工研院4年實務經驗)。</br>Opto-electronic system and opto-communication modules design (CAD), thermal simulation (CAE) (4 years experience in ITRI)."
+  ],
+  "edu": [
+    "國立台灣大學 機械研究所 博士",
+    "國立清華大學 動力機械研究所 碩士",
+    "國立成功大學 機械系 學士"
+  ],
+  "fcuExp": [
+    "創能學院(籌備) 執行長",
+    "逢甲大學帆宣智慧城市5G實驗室 研究員",
+    "航太與系統工程學系 教授",
+    "航太與系統工程學系 教授",
+    "航太與系統工程學系 教授"
+  ],
+  "currjob": [
+    "機智雲股份有限公司 董事長"
+  ],
+  "otherExp": [
+    "美國辛辛那提大學 機械與材料工程學系/智慧維護系統中心 訪問學者",
+    "工業技術研究院Industrial Technology Research Institute 光電工業研究所Opto-Electronics & Systems Laboratories 工程師(Engineer)"
+  ],
+  "journal": [
+    {
+      "論文名稱": "Comparison and Optimization of Generalized Stamping Machine Fault Diagnosis Models Using Various Transfer Learning Methodologies",
+      "期刊名稱": "Sensors (SCIE)",
+      "作者群": "Hwang P-W, Chang Y-J.*, Hsieh-Chih Tsai, Yu-Ta Tu and Hung-Pin Yang"
+    },
+    {
+      "論文名稱": "Optimization Based on Computational Fluid Dynamics and Machine Learning for the Performance of Diffuser-Augmented Wind Turbines with Inlet Shrouds",
+      "期刊名稱": "Sustainability (SCIE)",
+      "作者群": "Po-Wen Hwang* , Jia-HengWu, Yuan-Jen Chang"
+    },
+    {
+      "論文名稱": "The Optimization of a Model for Predicting the Remaining Useful Life and Fault Diagnosis of Landing Gear",
+      "期刊名稱": "Aerospace (SCIE)",
+      "作者群": "Yuan-Jen Chang *, He-Kai Hsu, Tzu-Hsuan Hsu, Tsung-Ti Chen, Po-Wen Hwang"
+    },
+    {
+      "論文名稱": "Feasibility evaluation of N-Isopropyl Acrylamide 3D gel dosimeters for proton therapy",
+      "期刊名稱": "PLoS ONE (SCIE)",
+      "作者群": "Chun-Hsu Yao, Eng-Yen Huang, Kuo-Jung Juan, Pei-Jiuan Juang, Ying-Hsuan Juan, Yuan-Jen Chang*"
+    },
+    {
+      "論文名稱": "Predicting the Remaining Useful Life of Landing Gear with Prognostics and Health Management (PHM)",
+      "期刊名稱": "Aerospace (SCIE)",
+      "作者群": "Tzu-Hsuan Hsu, Yuan-Jen Chang*, He-Kai Hsu, Tsung-Ti Chen and Po-Wen Hwang"
+    },
+    {
+      "論文名稱": "AI狀態分類模型應用於轉動機械故障預測與壽命預估",
+      "期刊名稱": "石油季刊 (中文工程學刊資料庫)",
+      "作者群": "王淑麗 王朝民 許驥 周宜德 張淵仁"
+    },
+    {
+      "論文名稱": "機器學習應用於切削刀具異常檢測模型研究",
+      "期刊名稱": "技術通報 (中文工程學刊資料庫)",
+      "作者群": "許驥、張淵仁*、謝聲偉"
+    },
+    {
+      "論文名稱": "線性與非線性迴歸演算法於PHM方法預測刀具剩餘可用壽命之比較",
+      "期刊名稱": "機械新刊 (中文工程學刊資料庫)",
+      "作者群": "張淵仁*、陳昱翔、許驥、賴政佑、張平昇、謝聲偉"
+    },
+    {
+      "論文名稱": "Technical Note: Radiotherapy Dose Characterization of Gel Dosimetry Using Shear Wave Elasticity Imaging",
+      "期刊名稱": "Medical Physics (SCIE)",
+      "作者群": "Wei-Huan Xie, Chun-Ting Su, Yu-Chieh Jill Kao, Tung-Hao Chang, Yuan-Jen Chang, Chun-Hsu Yao, and Bao-Yu Hsieh*"
+    },
+    {
+      "論文名稱": "A study of dose verification and comparison for complex irradiation field with high dose rate radiation by using a 3D N-isopropylacrylamide gel dosimeter",
+      "期刊名稱": "Journal of Radioanalytical and Nuclear Chemistry (JRNC) (SCIE)",
+      "作者群": "Yao C-H¶, Chang T-H¶, Chun-Ting Su, Lai Y-C, Shih-Ming Hsu, Chen C-H*, Chang Y-J*"
+    },
+    {
+      "論文名稱": "Three-dimensional dose comparison of flattening filter (FF) and flattening filter-free (FFF) radiation therapy by using NIPAM gel dosimetry",
+      "期刊名稱": "PLoS ONE (SCIE)",
+      "作者群": "Chun-Hsu Yao¶, Tung-Hao Chang¶, Chia-Chi Lin, Yuan-Chun Lai, Chin-Hsing Chen*, Yuan-Jen Chang*"
+    },
+    {
+      "論文名稱": "預測與健康管理技術(PHM)於預測維護系統(PdM)與相關應用",
+      "期刊名稱": "尖端材料科技協會季刊 (Airiti Library華藝線上圖書館)",
+      "作者群": "張淵仁*"
+    },
+    {
+      "論文名稱": "Design and fabrication of smart diapers with antibacterial yarn",
+      "期刊名稱": " Journal of Healthcare Engineering (SCIE)",
+      "作者群": "Jia-Horng Lin, Bing-Chiuan Shiu, Ching-Wen Lou and Yuan-Jen Chang*"
+    },
+    {
+      "論文名稱": "Dose verification of volumetric modulation arc therapy by using a NIPAM gel dosimeter combined with a parallel-beam optical computed tomography scanner",
+      "期刊名稱": "Journal of Radioanalytical and Nuclear Chemistry (JRNC) (SCIE)",
+      "作者群": " Chun-Hsu Yao, Tung-Hao Chang, Min-Jia Tsai, Yuan-Chun Lai, Yi-An Chen, Yuan-Jen Chang*, Chin-Hsing Chen*"
+    },
+    {
+      "論文名稱": "Quantitative measurement of Parkinsonian gait from walking in monocular image sequences using a centroid tracking algorithm",
+      "期刊名稱": "Medical & Biological Engineering & Computing (SCIE)",
+      "作者群": "Lin SH, Chen SW, Lo YC, Lai HY, Yang CH, Chen SY, Chang YJ, Chen CH, Huang WT, Jaw FS, Chen YY, Tsang S, Liao LD"
+    },
+    {
+      "論文名稱": "Development and Characteristic Study of Woven Fabrics for Intelligent Diapers",
+      "期刊名稱": "Technology and Health Care (SCIE)",
+      "作者群": "Ching-Wen Lou, Bing-Chiuan Shiu, Jia-Horng Lin, Yuan-Jen Chang"
+    },
+    {
+      "論文名稱": "Image reconstruction of optical computed tomography by using the algebraic reconstruction technique for dose readouts of polymer gel dosimeters",
+      "期刊名稱": "Physica Medica: European Journal of Medical Physics (SCIE)",
+      "作者群": "Cheng-Ting Shih, Yuan-Jen Chang, Jui-Ting Hsu, Keh-Shih Chuang, Shu-Jun Chang, Jay Wu"
+    },
+    {
+      "論文名稱": "Using K-nearest neighbor classification to diagnose abnormal lung sounds",
+      "期刊名稱": "Sensors (SCIE)",
+      "作者群": "Chin-Hsing Chen, Wen-Tzeng Huang, Tan-Hsu Tan, Cheng-Chun Chang and Yuan-Jen Chang"
+    },
+    {
+      "論文名稱": "Use of a speckle reduction technique to improve the reconstruction image quality of CCD-based optical computed tomography scanner",
+      "期刊名稱": "Nuclear Instruments and Methods in Physics Research Section A: Accelerators, Spectrometers, Detectors and Associated Equ (SCIE)",
+      "作者群": "Yuan-Jen Chang*"
+    },
+    {
+      "論文名稱": "Quantitative evaluation of an image registration method for a NIPAM gel dosimeter",
+      "期刊名稱": "Nuclear Instruments and Methods in Physics Research Section A: Accelerators, Spectrometers, Detectors and Associated Equ (SCIE)",
+      "作者群": "Yuan-Jen Chang, Chun-Hsu Yao, Jay Wu, Bor-Tsung Hsieh, Yuk-Wah Tsang, Chin-Hsing Chen*"
+    },
+    {
+      "論文名稱": "Implementation of a parallel-beam optical-CT apparatus for three-dimensional radiation dosimetry using a high-resolution CCD camera",
+      "期刊名稱": "Nuclear Instruments and Methods in Physics Research Section A: Accelerators, Spectrometers, Detectors and Associated Equ (SCIE)",
+      "作者群": "Wen-Tzeng Huang, Chin-Hsing Chen, Chao-Nan Hung, Chiu-Ching Tuan, Yuan-Jen Chang*"
+    },
+    {
+      "論文名稱": "Dose evaluation of a NIPAM polymer gel dosimeter using gamma index",
+      "期刊名稱": "Radiation Physics and Chemistry (SCIE)",
+      "作者群": "Yuan-Jen Chang, Jing-Quan Lin, Bor-Tsung Hsieh, Chun-Hsu Yao, Chin-Hsing Chen"
+    },
+    {
+      "論文名稱": "Characterization of long-term dose stability of N-isopropylacrylamide polymer gel dosimetry",
+      "期刊名稱": "Journal of Radioanalytical and Nuclear Chemistry (JRNC) (SCIE)",
+      "作者群": " Yuan-Jen Chang*, Chin-Hsing Chen, Bor-Tsung Hsieh"
+    },
+    {
+      "論文名稱": "A Characteristic Study on NIPAM Gel Dosimetry Using Optical-CT Scanner",
+      "期刊名稱": "Journal of Medical and Biological Engineering(JMBE) (SCIE)",
+      "作者群": "Chun-Hsu Yao, Wan -Ting Hsu, Jia-Jung Lee, Shin-Ming Hsu, Patrick Yuk-lun Ma, Bor-Tsung Hsieh, Yuan-Jen Chang *"
+    },
+    {
+      "論文名稱": "Bidirectional and Multi-User Telerehabilitation System: Clinical Effect on Balance, Functional Activity, and Satisfaction in Patients with Chronic Stroke Living in Long-Term Care Facilities",
+      "期刊名稱": "Sensors (SCIE)",
+      "作者群": "Kwan-Hwa Lin, Chin-Hsing Chen, You-Yin Chen, Wen-Tzeng Huang, Jin-Shin Lai, Shang-Ming Yu and Yuan-Jen Chang*"
+    },
+    {
+      "論文名稱": "Best fit refractive index of matching liquid for 3D NIPAM gel dosimeters using optical CT",
+      "期刊名稱": "Radiation Physics and Chemistry (SCIE)",
+      "作者群": "Chin-Hsing Chen, Jay Wu, Bor-Tsung Hsieh, De-Shiou Chen, Tzu-Hwei Wang, Sou-Hsin Chien, Yuan-Jen Chang*"
+    },
+    {
+      "論文名稱": "Performance Enhancement of a Web-Based Picture Archiving and Communication System Using Commercial Off-the-Shelf Server Clusters",
+      "期刊名稱": "BioMed Research International (Journal of Biomedicine and Biotechnology) (SCIE)",
+      "作者群": "Yan-Lin Liu, Cheng-Ting Shih, Yuan-Jen Chang, Shu-Jun Chang, Jay Wu*"
+    },
+    {
+      "論文名稱": "Dosimetry study of diagnostic X-ray using doped iodide normoxic polymer gels",
+      "期刊名稱": "Radiation Physics and Chemistry (SCIE)",
+      "作者群": "You-Ruei Huang, Yuan-Jen Chang, Ling-Ling Hsieh, Ming-Hung Liu, Jia-Sheng Liu, Chien-Hau Chu, Bor-Tsung Hsieh*"
+    },
+    {
+      "論文名稱": "Radiation dose evaluation of dental cone beam computed tomography using an anthropomorphic adult head phantom",
+      "期刊名稱": "Radiation Physics and Chemistry (SCIE)",
+      "作者群": "Jay Wu*, Cheng-Ting Shih, Chang-hung Ho, Yan-Lin Liu, Yuan-Jen Chang, Max Min Chao, Jui-Ting Hsu"
+    },
+    {
+      "論文名稱": "Characterization of the Chemical Stability of Irradiated N-isopropylacrylamide gel Dosimeter",
+      "期刊名稱": "Radiation Physics and Chemistry (SCIE)",
+      "作者群": "Y.R. Huang, L.L. Hsieh, Y.J. Chang, T.H. Wang, B.T. Hsieh*"
+    },
+    {
+      "論文名稱": "Microscopic SEM Texture Analysis of NIPAM Gel Dosimeters",
+      "期刊名稱": "IEEE Transactions on Nuclear Science (SCIE)",
+      "作者群": "Shih, T. Y., Chang, Y. J., Hsieh, B. T., Wu, J.*"
+    },
+    {
+      "論文名稱": "Verification on the Dose Profile Variation of a 3-D—NIPAM Polymer Gel Dosimeter",
+      "期刊名稱": "IEEE Transactions on Nuclear Science (SCIE)",
+      "作者群": "Hsieh, B. T.; Wu, J.; Chang, Y. J.*"
+    },
+    {
+      "論文名稱": "Evaluating the Characteristics of a Novel DEMBIG Gel Dosimeter Using Computed Tomography",
+      "期刊名稱": "IEEE Transactions on Nuclear Science (SCIE)",
+      "作者群": "Shih, T. Y.; Shih, C. T. ; Chang, Y. J.; Yu, C. Y.; Hsieh, B. T.; Chang, S. J.; Liang, J. A.; Wu, J.*"
+    },
+    {
+      "論文名稱": "Wireless Sensor Network for Vital Signs Monitoring: Application in a Nursing Home",
+      "期刊名稱": "International Journal of Distributed Sensor Networks (SCIE)",
+      "作者群": "Yuan-Jen Chang*, Chin-Hsing Chen, Li-Feng Lin, Ruo-Ping Han, Wen-Tzeng Huang, Guey-Chuen Lee"
+    },
+    {
+      "論文名稱": "Effect of composition interactions on the dose response of an N-isopropylacrylamide gel dosimeter",
+      "期刊名稱": "PLoS ONE (SCIE)",
+      "作者群": "Yuan-Jen Chang*, Bor-Tsung Hsieh"
+    },
+    {
+      "論文名稱": "A vision-based regression model to evaluate Parkinsonian gait from monocular image sequences",
+      "期刊名稱": "Expert Systems with Applications (SCIE)",
+      "作者群": "You-Yin Chen, Chien-Wen Cho, Sheng-Huang Lin, Hsin-Yi Lai, Yu-Chun Lo, Shin-Yuan Chen, Yuan-Jen Chang, Wen-Tzeng Huang, Chin-Hsing Chen, Fu-Shan Jaw, Siny Tsang, Sheng-Tsung Tsai"
+    },
+    {
+      "論文名稱": "A systematic approach to determine optimal composition of gel used in radiation therapy",
+      "期刊名稱": "Nuclear Instruments and Methods in Physics Research A (NIM-A) (SCIE)",
+      "作者群": "Yuan-Jen Chang, Bor-Tsung Hsieh*, Ji-An Liang"
+    },
+    {
+      "論文名稱": "A Study on Dose Response of NIPAM-based Dosimeter Used in Radiotherapy",
+      "期刊名稱": "Journal of Radioanalytical and Nuclear Chemistry (JRNC) (SCIE)",
+      "作者群": "Bor-Tsung Hsieh, Yuan-Jen Chang*, Rou-Ping Han, Jay Wu, Ling-Ling Hsieh, Chen-Jung Chang"
+    },
+    {
+      "論文名稱": "Optimal Composition of A New Polymer Gel Dosimeter-DEMBIG",
+      "期刊名稱": "Journal of Radioanalytical and Nuclear Chemistry (JRNC) (SCIE)",
+      "作者群": "Chi-Tsung Chiang, Yuan-Jen Chang, Ji-An Liang, Bor-Tsung Hsieh*"
+    },
+    {
+      "論文名稱": "A Novel Design of Data-driven Architecture for Remote Monitoring and Remote Control of Sensors over a Wireless Sensor Network and the Internet",
+      "期刊名稱": "Journal of Internet Technology (JIT) (SCIE)",
+      "作者群": "Yuan-Jen Chang*, Wen-Tzeng Huang"
+    },
+    {
+      "論文名稱": "A Novel Design Methodology for Reducing Simultaneous Switching Noise Evaluated by an Differential-IBIS Structure",
+      "期刊名稱": "Journal of Circuits, Systems, and Computers (JCSC) (SCIE)",
+      "作者群": "Wen-Tzeng Huang, Sun-Yen Tan, and Yuan-Jen Chang"
+    },
+    {
+      "論文名稱": "Conserving bandwidth wireless sensor network for telemedicine application",
+      "期刊名稱": "Intelligent Automation and Soft Computing (SCIE)",
+      "作者群": "Shuo-Jen Hsu, Chin-Hsing Chen, Show-Hong Chen, Wen-Tzeng Huang, Yuan-Jen Chang, You-Yin Chen"
+    },
+    {
+      "論文名稱": "Telerehabilitation in subjects with subacute stroke",
+      "期刊名稱": "Journal of Rehabilitation Medicine (SCIE)",
+      "作者群": " KH Lin*, JS Lai, JJ Luh, SC Chen, WT Huang, CH Chen, YJ Chang, SM Yu."
+    },
+    {
+      "論文名稱": "Using Accelerometers for Physical Actions Recognition by a Neural Fuzzy Network",
+      "期刊名稱": "Journal of Telemedicine and e-Health (SCIE)",
+      "作者群": " Shing-Hong Liu, Yuan-Jen Chang"
+    }
+  ],
+  "journal2": [],
+  "conference": [
+    {
+      "論文名稱": "預測與健康管理（PHM）在無人機健康監測與預知保養之應用",
+      "會議名稱": "2024 中華民國航太學會學術研討會",
+      "作者群": "温鈞皓 、沈品志 、謝仲嘉 、黃柏文*、張淵仁*"
+    },
+    {
+      "論文名稱": "Building The Health Monitoring and Fault Diagnosis Models For Stamping Press",
+      "會議名稱": "Asia Pacific Conference of the Prognostics and Health Management Society 2023 (PHMAP 2023)",
+      "作者群": "Yuan-Jen Chang*, Lin-Jie Chen, Yuta Tu, Hung-pin Yang, and Chen-Kang Lee"
+    },
+    {
+      "論文名稱": "Using UTAUT, TTF, and PR integrating models to evaluate employees’ acceptance and behavioral intention of PHM-based system in the military industry",
+      "會議名稱": "2022 IEEE International Conference on Prognostics and Health Management (ICPHM 2022)",
+      "作者群": "Tsung-Ti Chen, Yuan-Jen Chang*, Tzu-Hsuan Hsu, He-Kai Hsu"
+    },
+    {
+      "論文名稱": "智慧製造於5G網路環境下面臨資安風險初探與解決方案",
+      "會議名稱": "第23屆網際空間研討會(Cyberspace 2021)",
+      "作者群": "張淵仁*、徐子軒 、許賀凱 、陳瑞"
+    },
+    {
+      "論文名稱": "建置預測維護系統提升產品質與良率之研究",
+      "會議名稱": "中華民國品質學會第 57 屆暨國際品質管理研討會(ISQM 2021)",
+      "作者群": "張淵仁*、陳錦杏、林彩玉、張家祥、郭冠廷"
+    },
+    {
+      "論文名稱": "精益求精-以預測與健康管理技術提升產品品質之研究",
+      "會議名稱": "中華民國品質學會第 57 屆暨國際品質管理研討會(ISQM 2021)",
+      "作者群": "張淵仁*、陳錦杏、陳麟杰、郭冠廷"
+    },
+    {
+      "論文名稱": "以預測與健康管理(PHM)技術應用於航空器起落架精進維修之研究",
+      "會議名稱": "2021中華民國航太學會學術研討會(2021 AASRC)",
+      "作者群": "張淵仁*、徐子軒 、許賀凱 、陳宗禔"
+    },
+    {
+      "論文名稱": "Pilot study: Characteristics of N-isopropyl acrylamide polymer gel dosimetry with proton beam",
+      "會議名稱": "ESTRO 2020",
+      "作者群": "Eng-Yen Huang¶, Kuo-Jung Juan¶, Jen-Hong Lan, Ying-Hsuan Juan, Chun-Hsu Yao*, Yuan-Jen Chang*"
+    },
+    {
+      "論文名稱": "Dosimetric characteristics of 3D-N-isopropyl acrylamide gel dosimeter in Proton therapy",
+      "會議名稱": "The 9th WACEB World Congress on Bioengineering",
+      "作者群": "Ying-Hsuan Juan, Eng-Yen Huang, Kuo-Jung Juan, Jen-Hong Lan, Yuan-Jen Chang*, Chun-Hsu Yao*"
+    },
+    {
+      "論文名稱": "Dosimetric characteristics of 3D-N-isopropyl acrylamide gel dosimeter in Proton therapy",
+      "會議名稱": "The 9th WACEB World Congress on Bioengineering",
+      "作者群": "Wei-Huan Hsieh, Chun-Ting Su, Tung-Hao Chang, Yuan-Jen Chang, Chun-Hsu Yao, Bao-Yu Hsieh*"
+    },
+    {
+      "論文名稱": "以機器學習理論結合紅外線熱成像預測植物病徵之研究",
+      "會議名稱": "第三十屆國際資訊管理學術研討會 (ICIM 2019)(最佳論文獎)",
+      "作者群": "陳錦杏，謝聲偉，黃柏文，張淵仁*"
+    },
+    {
+      "論文名稱": "Dose Verification and Comparison on Flattening Filter Free Beam and Flattened Beam of intensity-modulated radiation therapy and volumetric modulated arc therapy using a 3D N-isopropyl acrylamide gel dosimeter",
+      "會議名稱": "2nd International Conference on Radioanalytical and Nuclear Chemistry (RANC-2019)",
+      "作者群": "Chun-Ting Su, Tung-Hao Chang, Yuan-Chun Lai, Chin-Hsing Chen, Yuan-Jen Chang*"
+    },
+    {
+      "論文名稱": "Outcome Evaluation for Robot-Assistant Rehabilitation",
+      "會議名稱": "Planning Meeting, Center for Industrial Artificial Intelligence",
+      "作者群": "Yuan-Jen Chang*, Jianshe Feng, Vibhor Pandhare, Pin Li, Jay Lee"
+    },
+    {
+      "論文名稱": "A study on three dimensional dose verification of high-dose-rate (HDR) flattening filter-free (FFF) radiation therapy by using NIPAM gel dosimetry",
+      "會議名稱": "ISRD2018 _ International Symposium on Radiation Detectors and Their Uses",
+      "作者群": "Chun-Hsu Yao, Tung-Hao Chang, Chia-Chi Lin, Yuan-Chun Lai, Chin-Hsing Chen, Yuan-Jen Chang*"
+    },
+    {
+      "論文名稱": "A study on three dimensional dose verification of high-dose-rate (HDR) flattening filter-free (FFF) radiation therapy by using NIPAM gel dosimetry",
+      "會議名稱": "Proceedings of the Second International Symposium on Radiation Detectors and Their Uses (ISRD2018)",
+      "作者群": "Chun-Hsu Yao+, Tung-Hao Chang+, Chia-Chi Lin, Yuan-Chun Lai, Chin-Hsing Chen*, Yuan-Jen Chang*"
+    },
+    {
+      "論文名稱": "應用機器學習於製鞋機智慧製造概念研究",
+      "會議名稱": "2017中華民國航太學會學術研討會(2017AASRC)",
+      "作者群": "陳錦杏，張淵仁*"
+    },
+    {
+      "論文名稱": "醫用三維凝膠劑量計應用於具壓克力套管之近接治療劑量驗證",
+      "會議名稱": "2017中華民國航太學會學術研討會(2017AASRC)",
+      "作者群": "張淵仁，魏崇軒，張東浩，賴源淳，陳錦杏*"
+    },
+    {
+      "論文名稱": "Development of polymer gel dosimetry and optical-CT for radiation therapy in Taiwan",
+      "會議名稱": "2017視覺科學與藝術論壇(CSVSA-2017 Forum)",
+      "作者群": "Yuan-Jen Chang*,  Chin-Hsing Chen,  Chun-Hsu Yao, Tung-Hao Chang , Yuan-Chun Lai,"
+    },
+    {
+      "論文名稱": "A Study on Energy Strategy of a Plant Factory using Sustainable Energy Combined with Computational Fluid Dynamics",
+      "會議名稱": "Computing Conference 2017",
+      "作者群": "Hwang, P. W., Chen, C. C., Chang, Y. J.*"
+    },
+    {
+      "論文名稱": "Development of polymer gel dosimetry and optical-CT for radiation therapy in Taiwan",
+      "會議名稱": " The Fifth International Symposium on Radiation Education (ISRE2016)",
+      "作者群": "Chun-Hsu Yao, Chin-Hsing Chen, Yuan-Jen Chang*"
+    },
+    {
+      "論文名稱": "A study on clinic brachytherapy using 3D polymer gel dosimeter",
+      "會議名稱": "The Fifth International Symposium on Radiation Education (ISRE2016)",
+      "作者群": "Chun-Hsu Yao, Tung-Hao Chang, Min-Jia Tsai, Yuan-Chun Lai, Chin-Hsing Chen, Yuan-Jen Chang*"
+    },
+    {
+      "論文名稱": "Preliminary dosimetry investigation of Tc-99m diagnostic radionuclide by NIPAM gel dosimeter",
+      "會議名稱": "IC3DDOSE: 7th International conference on 3D radiation dosimetry",
+      "作者群": "YR Huang, YJ Chang, LL Hsieh, BW Yu, CH Chu, BT Hsieh*"
+    },
+    {
+      "論文名稱": "COMPARING DOSE CALIBRATION METHODS OF NIPAM GEL DOSIMETER USED FOR RAPIDARCTM TREATMENT",
+      "會議名稱": "1st International Conference on Radioanalytical and Nuclear Chemistry (RANC-2016)",
+      "作者群": "Chin-Hsing Chen, Min-Jia Tsai, Yuk-Wah Tsang, Chung-Yu Chiu, His-Ya Chao, Chun-Hsu Yao*, Yuan-Jen Chang*"
+    },
+    {
+      "論文名稱": "Dose verification of Volumetric Modulated Arc Therapy using NIPAM gel dosimeter combined with Parallel-beam optical-CT scanner",
+      "會議名稱": "1st International Conference on Radioanalytical and Nuclear Chemistry (RANC-2016)",
+      "作者群": "Chun-Hsu Yao, Min-Jia Tsai, Tung-Hao Chang, Yuan-Chun Lai, Yuan-Jen Chang*, Chin-Hsing Chen*"
+    },
+    {
+      "論文名稱": "The effect of chemical stability on the NIPAM gel dosimeter using 1H-NMR",
+      "會議名稱": "IC3DDOSE: 7th International conference on 3D radiation dosimetry",
+      "作者群": "YR Huang, LL Hsieh, YJ Chang, BT Hsieh*"
+    },
+    {
+      "論文名稱": "Dosimetric characteristics of intensity-modulated radiation therapy and RapidArc therapy using a 3D NIPAM gel dosimeter",
+      "會議名稱": "The 2015 International Conference on Applications of Nuclear Techniques (CRETE 15)",
+      "作者群": "Ting-Yu Tsai, Chun-Hsu Yao, Bor-Tsung Hsieh, Yuan-Jen Chang*"
+    },
+    {
+      "論文名稱": "The study of N-isopropylacrylamide gel dosimeter doped iodinated contrast agents",
+      "會議名稱": "IC3DDOSE: 7th International conference on 3D radiation dosimetry",
+      "作者群": "Y J Chang, L L Hsieh, M H Liu, J S Liu and B T Hsieh*"
+    },
+    {
+      "論文名稱": "Development of CCD-based optical computed tomography and comparison with single-beam optical CT scanner",
+      "會議名稱": "8th IC3DDose Conference",
+      "作者群": "Yuan-Jen Chang*"
+    },
+    {
+      "論文名稱": "Study on 3D NIPAM Gel Dosimeter for Five-Field IMRT Dose Verification",
+      "會議名稱": "9th International Topical Meeting on Industrial Radiation and Radioisotope Measurement Applications (IRRMA-9)",
+      "作者群": "Yuan-Jen Chang* ;Chin-Hsing Chen; Bor-Tsung Hsieh;De-Shiou Chen;Yuk-Wah Tsang"
+    },
+    {
+      "論文名稱": "Implementation of an automation system for manufacturing 3D polymer gel dosimeters",
+      "會議名稱": "9th International Topical Meeting on Industrial Radiation and Radioisotope Measurement Applications (IRRMA-9)",
+      "作者群": "Ling-Ling Heieh;Chin-Hsing Chen;Bor-Tsung Hsieh;Yen-Chih Lin;Jay Wu, Yuan-Jen Chang*"
+    },
+    {
+      "論文名稱": "A Novel Video-Based Optical CT Scanner Used in 3D Polymer Gel Dosimeter",
+      "會議名稱": "9th International Topical Meeting on Industrial Radiation and Radioisotope Measurement Applications (IRRMA-9)",
+      "作者群": "Yuan-Jen Chang*"
+    },
+    {
+      "論文名稱": "Gel Dosimeter Readout Using Cone Beam Computed Tomography",
+      "會議名稱": "9th International Topical Meeting on Industrial Radiation and Radioisotope Measurement Applications (IRRMA-9)",
+      "作者群": "Yuan J. Chang, Tian Y. Shih, Chun Y. Yu, Shu J. Chang, Jay Wu"
+    },
+    {
+      "論文名稱": "Improved CCD-based optical computed tomography scanner used in gel dosimetry using a speckle reduction technique",
+      "會議名稱": "2014 Symposium on Radiation Measurements and Applications (SORMA XV)",
+      "作者群": "Yuan-Jen Chang*"
+    },
+    {
+      "論文名稱": "Quantitative evaluation of image registration method used for NIPAM gel dosimeter",
+      "會議名稱": "2014 Symposium on Radiation Measurements and Applications (SORMA XV)",
+      "作者群": "Yuan-Jen Chang, Chun-Hsu Yao, Jay Wu, Bor-Tsung Hsieh, Yuk-Wah Tsang, Chin-Hsing Chen*"
+    },
+    {
+      "論文名稱": "Image Reconstruction of Optical Computed Tomography Using Algebraic Reconstruction Technique for Dose Readout of Polymer Gel Dosimeters",
+      "會議名稱": "2014 Symposium on Radiation Measurements and Applications (SORMA XV)",
+      "作者群": "Yuan-Jen Chang, Jui T. Hsu, Cheng T. Shih, Rou P. Han, Shu J. Chang, and Jay Wu,*"
+    },
+    {
+      "論文名稱": "Implementation of a parallel-beam optical-CT apparatus for three-dimensional radiation dosimetry using high-resolution exquisite CCD camera",
+      "會議名稱": "2014 Symposium on Radiation Measurements and Applications (SORMA XV)",
+      "作者群": "Wen-Tzeng Huang, Chao-Nan Hung, Chin-Hsing Chen, Chiu-Ching Tuan, Yuan-Jen Chang*"
+    },
+    {
+      "論文名稱": "A study on the reproducibility and spatial uniformity of N-isopropylacrylamide polymer gel dosimetry using a commercial 10X fast optical-computed tomography scanner",
+      "會議名稱": "IC3DDOSE: 7th International conference on 3D radiation dosimetry",
+      "作者群": "Y J Chang*, J Q Lin, B T Hsieh, C H Chen"
+    },
+    {
+      "論文名稱": "Dose evaluation of NIPAM polymer gel dosimeter using gamma index",
+      "會議名稱": "1st International Conference on Dosimetry and its Applications (ICDA)",
+      "作者群": "YJ Chang, JQ Lin, BT Hsieh, CH Chen"
+    },
+    {
+      "論文名稱": "Investigate optimal refractive index of matching liquid for 3D NIPAM gel dosimeter using optical CT",
+      "會議名稱": "1st International Conference on Dosimetry and its Applications (ICDA)",
+      "作者群": "BT Hsieh, DS Chen, J Wu and YJ Chang*"
+    },
+    {
+      "論文名稱": "Dosimetry study of diagnostic X-ray using doped iodide normoxic polymer gels",
+      "會議名稱": "1st International Conference on Dosimetry and its Applications (ICDA)",
+      "作者群": "Y.R. Huang, Y.J. Chang, L.L. Hsieh, M.H. Liu, S.H. Chien, C.H. Chu, B.T. Hsieh*"
+    },
+    {
+      "論文名稱": "Dose evaluation of dental cone beam computed tomography using an anthropomorphic adult head phantom",
+      "會議名稱": "1st International Conference on Dosimetry and its Applications (ICDA)",
+      "作者群": "Chang-Hung Ho, Jui-Ting Hsu, Cheng-Ting Shih, Chieh-Chun, Yuan-Jen Chang, and J Wu *"
+    },
+    {
+      "論文名稱": "Property Evaluation of PET Fiber and Metal Fiber Composite Woven Fabric",
+      "會議名稱": "2nd ICMDME 2013",
+      "作者群": "Yuan-Jen Chang, Bing-Chiuan Shiu, Jia-Horng Lin and Ching-Wen Lou"
+    },
+    {
+      "論文名稱": "Development of A CCD-based Optical Computed Tomography Scanner Used in 3D Gel Dosimetry",
+      "會議名稱": "2012 The 2nd International Conference on Mechatronics and Applied Mechanics (ICMAM 2012)",
+      "作者群": "Yuan-Jen Chang*, Hung-Li Tseng,Chin-Hsing Chen,Sun-Yen Tan,Bor-Tsung Hsieh,Wei-Lun Chang, and Wen-Tzeng Huan"
+    },
+    {
+      "論文名稱": "The Research of Applying Parallel Streaming Technology on developing Cloud Computing Platform for Delivering Medical Images",
+      "會議名稱": "2012 The 2nd International Conference on Mechatronics and Applied Mechanics (ICMAM 2012)",
+      "作者群": "Hong-Li Tseng, Chin-Hsing Chen, Yuan-Jen Chang, Sun-Yen Tan and Wen-Tzeng Huang"
+    },
+    {
+      "論文名稱": "NIPAM polymer gel dosimetry for IMRT four-field box irradiation using optical-CT scanner",
+      "會議名稱": "IC3DDOSE: 7th International conference on 3D radiation dosimetry",
+      "作者群": "CH Yao, WT Hsu, SM Hsu, PYL Ma, BT Hsieh, YJ Chang*"
+    },
+    {
+      "論文名稱": "The Effect of Linearity for Dose Response Curve on Accuracy of 3-D Polymer Gel Dosimeter",
+      "會議名稱": "2012 SORMA WEST, Symposium on Radiation Measurements and Applications",
+      "作者群": "Yuan-Jen Chang*, Bor-Tsung Hsieh"
+    },
+    {
+      "論文名稱": "The effect of cooling rate on homogeneity of polymer gel dosimeter",
+      "會議名稱": "2012 SORMA WEST, Symposium on Radiation Measurements and Applications",
+      "作者群": "Bor-Tsung Hsieh, Yuan-Jen Chang*, Jia-Jung Lee"
+    },
+    {
+      "論文名稱": "Implementation and performance evaluation of a real-time tele-monitoring system based on a private cloud platform",
+      "會議名稱": "The American Public Health Association is now accepting contributed abstracts for the 139th APHA Annual Meeting",
+      "作者群": "Yuan-Jen Chang*, Chin-Hsing Chen, WT Huang, Li-Feng Lin, Chen-Yi Lee"
+    },
+    {
+      "論文名稱": "A study on game-based instruction for telerehabilitation",
+      "會議名稱": "Gerontology & Geriatrics 2011 (GERO2011)",
+      "作者群": "Yuan-Jen Chang*, Chin-Hsing Chen, WT Huang, You-Yin Chen, Kwan-Hwa Lin"
+    },
+    {
+      "論文名稱": "A study on game-based instruction for telerehabilitation",
+      "會議名稱": "The Ninth Asia/Oceania Regional Congress of Gerontology and Geriatrics (IAGG)",
+      "作者群": "Yuan-Jen Chang*, CH Chen, WT Huang, YY Chen, KH Lin"
+    },
+    {
+      "論文名稱": "Effects of Tele-Rehabilitation on Sitting Pressure Distribution in Subjects with Stroke",
+      "會議名稱": "The Ninth Asia/Oceania Regional Congress of Gerontology and Geriatrics (IAGG)",
+      "作者群": "Kwan-Hwa Lin *, Ren-Jei Tsai, Yuan-Jen Chang, Chin-Hsing Chen, Shang-Ming Yu"
+    },
+    {
+      "論文名稱": "Investigating Students’ Perceived Satisfactory, Behavioral Intention, and Effectiveness of English Learning Using Augmented Reality",
+      "會議名稱": "Proceedings of ICME 2011, IEEE International Workshop on Edutainment 2011",
+      "作者群": "Yuan-Jen Chang *, Chin-Hsing Chen, Wen-Tzeng Huang, Wei-Shiun Huang"
+    }
+  ],
+  "book": [
+    {
+      "專業書籍": "Optical Investigation of Transport Phenomena during Solidification Process",
+      "出版單位": "Springer-Verlag Heidelberg",
+      "作者群": "Chen, Y. M., Chang, Y. J., Hsieh, Y. T"
+    }
+  ],
+  "patent": [
+    {
+      "title": "發明",
+      "desc": "整合智慧製造與碳排放最佳化決策資訊管理系統"
+    },
+    {
+      "title": "發明",
+      "desc": "智慧製造與先進排程決策輔助資訊管理系統"
+    },
+    {
+      "title": "發明",
+      "desc": "即時電腦斷層影像傳輸與顯示方法及系統"
+    },
+    {
+      "title": "發明",
+      "desc": "三維輻射劑量計之高速光學計讀裝置"
+    },
+    {
+      "title": "發明",
+      "desc": "凝膠劑量計自動化製造暨裝填設備及系統發明專利"
+    },
+    {
+      "title": "發明",
+      "desc": "放射線凝膠劑量計之組合式試劑組、該試劑組的製備方法、以及該試劑組的組合方法"
+    },
+    {
+      "title": "新型",
+      "desc": "具尿液感測功能之環保尿布"
+    },
+    {
+      "title": "新型",
+      "desc": "具生理感測功能之織物"
+    },
+    {
+      "title": "新型",
+      "desc": "凝膠劑量計之自動製造裝塡機"
+    },
+    {
+      "title": "新型",
+      "desc": "具生理感測功能之織物"
+    },
+    {
+      "title": "新型",
+      "desc": "雷射量測系統之凝膠劑量計被動對準裝置"
+    },
+    {
+      "title": "新型",
+      "desc": "凝膠劑量計之膠狀承載假體"
+    },
+    {
+      "title": "新型",
+      "desc": "輻射劑量驗證假體"
+    },
+    {
+      "title": "新型",
+      "desc": "放射治療劑量計之多重路徑量測器"
+    },
+    {
+      "title": "新型",
+      "desc": "無線醫療傳輸診斷裝置"
+    },
+    {
+      "title": "發明",
+      "desc": "Optical Transceiver Module"
+    },
+    {
+      "title": "發明",
+      "desc": "低密度波長分工光傳接模組"
+    },
+    {
+      "title": "發明",
+      "desc": "液晶投影機之冷卻裝置"
+    },
+    {
+      "title": "新型",
+      "desc": "蝶型光訊號收發模組"
+    },
+    {
+      "title": "發明",
+      "desc": "液晶投影機之冷卻裝置"
+    },
+    {
+      "title": "新型",
+      "desc": "多層式結構燒結金屬熱管"
+    },
+    {
+      "title": "新型",
+      "desc": "瓣狀噴射壓縮器"
+    }
+  ],
+  "most": [
+    {
+      "name": "無人機電池剩餘可用壽命預測之研究 Research on predicting the remaining useful life of drone batteries.",
+      "schoolYear": "113"
+    },
+    {
+      "name": "預防勝於治療：使用PHM於無人機故障偵測與餘命預警",
+      "schoolYear": "112"
+    },
+    {
+      "name": "為台灣放射治療技術開創新局—以系統化方法應用三維凝膠劑量計於先進質子治療劑量驗證與適用性之研究(3/3)",
+      "schoolYear": "110"
+    },
+    {
+      "name": "製鞋智動化機電系統暨網宇虛實整合開發計畫－製鞋智動化機電系統暨網宇虛實整合開發計畫(3/3)",
+      "schoolYear": "109"
+    },
+    {
+      "name": "為台灣放射治療技術開創新局—以系統化方法應用三維凝膠劑量計於先進質子治療劑量驗證與適用性之研究(2/3)",
+      "schoolYear": "109"
+    },
+    {
+      "name": "以物聯網(IoT)與雲端資料庫建置工具機線上即時預測維護系統",
+      "schoolYear": "109"
+    },
+    {
+      "name": "新興科技創新營運模式－台灣智慧製造創新營運中心-總計畫及子計畫二、四、五(4/4)",
+      "schoolYear": "108"
+    },
+    {
+      "name": "為台灣放射治療技術開創新局—以系統化方法應用三維凝膠劑量計於先進質子治療劑量驗證與適用性之研究(1/3)",
+      "schoolYear": "108"
+    },
+    {
+      "name": "應用PHM技術於工具機之刀具剩餘可用壽命預測",
+      "schoolYear": "108"
+    },
+    {
+      "name": "新興科技創新營運模式－台灣智慧製造創新營運中心-總計畫及子計畫二、四、五(3/4)",
+      "schoolYear": "107"
+    },
+    {
+      "name": "製鞋智動化機電系統暨網宇虛實整合開發計畫－製鞋智動化機電系統暨網宇虛實整合開發計畫(1/3)",
+      "schoolYear": "107"
+    },
+    {
+      "name": "(深耕)精密主軸於智慧型滾齒機之應用暨推廣(2/2)",
+      "schoolYear": "106"
+    },
+    {
+      "name": "以NIPAM凝膠劑量計應用於臨床高劑量率(HDR)小照野未加平坦器(FFF)放射治療三維劑量驗證之研究",
+      "schoolYear": "106"
+    }
+  ],
+  "tech": [],
+  "induAca": [
+    "臺中市企業先進智造學院計畫委託專業服務案-分項一：PHM預測與健康管理 (2023-03 to 2023-11)",
+    "運用預測與健康管理技術PHM精進分析預測模型持續性發展等1項 (2022-03 to 2022-12)",
+    "利用RAN搜集資訊實現MEC主動防護 (2021-05 to 2021-11)",
+    "機械學習演算法應用於切削刀具異常之研究 (2021-03 to 2021-11)",
+    "Dyno測試機台之CAE模擬與優化 (2020-09 to 2021-07)",
+    "機械學習演算法應用研究 (2020-03 to 2020-11)",
+    "預測維護系統課程暨烘箱預測維護 (2019-08 to 2019-11)",
+    "以機器理論結合紅外線熱成像與微氣候預測植物病徵之研究 (2019-01 to 2019-12)",
+    "智慧預測維護系統開發與應用 (2018-03 to 2019-09)",
+    "以機器理論結合紅外線熱成像與微氣候預測植物病徵之研究計畫 (2018-01 to 2018-12)"
+  ],
+  "perform": [],
+  "reward": [
+    "113年度國科會補助大專校院研究獎勵 (113, 2024-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (113, 2024-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (113, 2024-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (111, 2022-11) - 逢甲大學",
+    "111年度國科會補助大專校院研究獎勵 (111, 2022-10) - 研究發展處",
+    "110年度科技部補助大專校院研究獎勵 (110, 2021-10) - 產學合作處",
+    "逢甲大學論文著作獎勵傑出獎 (109, 2020-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (109, 2020-11) - 逢甲大學"
+  ],
+  "speech": [
+    {
+      "演講題目": "預測與健康管理(PHM)在無人機 健康監測與預知保養之應用",
+      "邀請單位": "2024奧賽特IEEE FTS 人工智慧及無人機科技高峰",
+      "演講日期": "2024-07"
+    },
+    {
+      "演講題目": "AI無所不在-從理論基礎、實際應用到未來發展",
+      "邀請單位": "國防大學舉辦第32屆國防科技學術研討會\u000b『系",
+      "演講日期": "2023-11"
+    },
+    {
+      "演講題目": "預測與健康管理PHM與 工業人工智慧IAI介紹與應用",
+      "邀請單位": "中華電信學院",
+      "演講日期": "2023-09"
+    },
+    {
+      "演講題目": "PHM在無人機之應用",
+      "邀請單位": "弘光科大無人機科技研討會",
+      "演講日期": "2022-12"
+    },
+    {
+      "演講題目": "預防性維修在智慧製造",
+      "邀請單位": "AIA台灣人工智慧學校- 台中分校第11期產業 AI",
+      "演講日期": "2022-12"
+    },
+    {
+      "演講題目": "預防性維修在智慧製造",
+      "邀請單位": "AIA台北總校智慧製造專班-20221111-第14期",
+      "演講日期": "2022-11"
+    },
+    {
+      "演講題目": "機械設備故障預測與診斷及應用案例",
+      "邀請單位": "新型態AIoT智慧工廠論壇(研華科技)",
+      "演講日期": "2022-11"
+    },
+    {
+      "演講題目": "PHM預知保養系統",
+      "邀請單位": "台灣科技大學管理學院",
+      "演講日期": "2022-10"
+    },
+    {
+      "演講題目": "預防性維修在智慧製造",
+      "邀請單位": "台灣人工智慧學校-AIA中部智慧製造專班(2022)",
+      "演講日期": "2022-04"
+    },
+    {
+      "演講題目": "跨領域學習：To be, or not to be, that is the question",
+      "邀請單位": "清華大學動力機械工程學系",
+      "演講日期": "2022-04"
+    },
+    {
+      "演講題目": "機械設備故障偵測預防及業界經驗回饋",
+      "邀請單位": "台電公司核三廠",
+      "演講日期": "2022-03"
+    },
+    {
+      "演講題目": "智慧預測與健康管理(PHM)技術與解決方案",
+      "邀請單位": "「贏向工業元宇宙 智慧製造創新論壇」",
+      "演講日期": "2022-02"
+    },
+    {
+      "演講題目": "智慧製造之運用 & 預測健康管理技術與成果分享",
+      "邀請單位": "炎洲集團",
+      "演講日期": "2022-02"
+    },
+    {
+      "演講題目": "預防性維修在智慧製造",
+      "邀請單位": "台灣人工智慧學校-AIA中部智慧製造專班(2021)",
+      "演講日期": "2021-10"
+    },
+    {
+      "演講題目": "故障預測與健康管理PHM技術發展與應用",
+      "邀請單位": "弓銓企業",
+      "演講日期": "2021-09"
+    },
+    {
+      "演講題目": "智慧預測與健康管理(PHM)技術於智慧製造之應用",
+      "邀請單位": "中華民國台灣人工智慧應用發展協會(AIAA)",
+      "演講日期": "2020-10"
+    },
+    {
+      "演講題目": "預測與健康管理（PHM）實務與應用",
+      "邀請單位": "勤益科技大學工業工程與管理系",
+      "演講日期": "2020-10"
+    },
+    {
+      "演講題目": "故障預測與健康管理(PHM)技術的發展與應用-以工具機為例",
+      "邀請單位": "精密機械研究發展中心",
+      "演講日期": "2020-09"
+    },
+    {
+      "演講題目": "智慧預測維護系統開發與應用",
+      "邀請單位": "中科產學交流媒合會-GLORIA",
+      "演講日期": "2019-07"
+    },
+    {
+      "演講題目": "人才難找?還是領導者難找?",
+      "邀請單位": "台灣智慧創造創新營運中心",
+      "演講日期": "2019-04"
+    },
+    {
+      "演講題目": "工業人工智慧(AI)與產業應用",
+      "邀請單位": "中華民國尖端材料科技協會年度論壇",
+      "演講日期": "2018-12"
+    },
+    {
+      "演講題目": "機械與資管的邂逅- 從跨領域研究到工業人工智慧",
+      "邀請單位": "明志科技大學AI論壇",
+      "演講日期": "2018-10"
+    },
+    {
+      "演講題目": "人培閃電講-工業大數據分析",
+      "邀請單位": "財團法人資訊策進會",
+      "演講日期": "2018-10"
+    }
+  ],
+  "material": [],
+  "tal": []
+}

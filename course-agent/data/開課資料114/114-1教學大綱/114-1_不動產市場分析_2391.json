@@ -1,0 +1,671 @@
+{
+  "success": true,
+  "info": {
+    "yms_year": 114.0,
+    "yms_smester": 1.0,
+    "sub_id": "06090",
+    "cls_id": "CM03129",
+    "scr_dup": "001",
+    "sub_id3": "LAND3004",
+    "cls_name": "土管二合",
+    "cls_ename": "Department of Land Management",
+    "sub_name": "不動產市場分析",
+    "sub_ename": "REAL ESTATE MARKET ANALYSIS",
+    "scr_mso": "選修",
+    "scr_mso_en": "Elective",
+    "scr_credit": 3.0,
+    "scr_periodly": "(四)06-08",
+    "scr_periodly_eng": "(Thu)06-08",
+    "lang_name": "中文                                                      ",
+    "lang_ename": "Chinese",
+    "scr_room": "紀409",
+    "scr_room_eng": "CMB409",
+    "scr_teacher": "楊賀雯,吳明哲",
+    "scr_teacher_eng": "Ming-Che-Che Wu,Ming-Che-Che Wu",
+    "scr_selcode": "2391",
+    "scr_elearning": "全學期",
+    "scr_elearning_en": "Full semester",
+    "scr_hours": "3",
+    "scr_english": "N",
+    "unt_name": null,
+    "unt_ename": null,
+    "link_traminal": null,
+    "link_traminal_en": null,
+    "scr_ldl": "D",
+    "course_mk": "N",
+    "teams_mk": "N",
+    "sub_title": null,
+    "sub_title_en": null,
+    "sub_describe": null,
+    "sub_describe_en": null,
+    "hasDescription": null,
+    "hasInstructor": null,
+    "hasTA": null,
+    "hasTextBooks": null,
+    "hasReadings": null,
+    "hasiSoftwares": null,
+    "hasAssistSoftwares": null,
+    "hasObjective": null,
+    "hasWeeklyScds": null,
+    "hasGradeRules": null,
+    "hasGradeRuleDescribe": null,
+    "hasIntegrity": null,
+    "hasCoursePol": null,
+    "hasCourseRem": null,
+    "hasObjectiveReleation": null,
+    "hasTopicSdgs": null,
+    "hasSubTitleDesc": null
+  },
+  "subTitleDesc": null,
+  "description": {
+    "sub_id3": null,
+    "sub_name": "不動產市場分析",
+    "sub_ename": "REAL ESTATE MARKET ANALYSIS",
+    "describe_ch": "1.瞭解不動產市場分析之方法及其應用，作為不動產企劃及不動產行銷之基礎。 2.藉由實際的不動產市場調查分析，了解臺中地區的不動產市場。",
+    "describe_eh": "1. To familiarize collecting data, measuring techniques and analyzing methods of real estate market. 2. To analyze the cases of real estate market analysis.",
+    "pre_subname": "LAND3003區域與都市計劃",
+    "pre_sub_id3": "LAND3003",
+    "pre_sub_ename": "LAND3003 REGIONAL & URBAN PLANNING",
+    "pre_describe": null,
+    "pre_describe_en": null,
+    "scr_credit": 3.0
+  },
+  "targets": [
+    {
+      "seq": 1,
+      "describe_ch": "協助學生瞭解不動產市場分析之意義與類型",
+      "describe_en": "To assist students in understanding the meaning and types of real estate market analysis"
+    },
+    {
+      "seq": 2,
+      "describe_ch": "協助學生瞭解不動產市場分析之方法",
+      "describe_en": " To assist students in understanding the analysis method of real estate market"
+    },
+    {
+      "seq": 3,
+      "describe_ch": "協助學生瞭解不動產市場分析之應用",
+      "describe_en": "To assist students in understanding how to apply the real estate market analysis"
+    }
+  ],
+  "teachersInfo": [
+    {
+      "cname": "楊賀雯",
+      "ename": "Ho-Wen Yang",
+      "period": "(Tue)06-07 紀529,(Wed)09-10 紀529,(Thu)09  紀529",
+      "roletype": 0,
+      "email": "hwyang@o365.fcu.edu.tw",
+      "ext": "4718"
+    },
+    {
+      "cname": "吳明哲",
+      "ename": "Ming-Che-Che Wu",
+      "period": " ",
+      "roletype": 0,
+      "email": "mcwu.t95@o365.fcu.edu.tw",
+      "ext": null
+    }
+  ],
+  "textBooks": {
+    "yms_year": 114.0,
+    "yms_smester": 1.0,
+    "cls_id": "CM03129",
+    "sub_id": "06090",
+    "scr_dup": "001",
+    "tpb_seq": 1,
+    "tpb_book": "<div>授課焦屍將自備教材，將於授課當週上傳 iLearn 請同學自行下載。</div>\n",
+    "tpb_book_en": null
+  },
+  "readings": {
+    "yms_year": 114.0,
+    "yms_smester": 1.0,
+    "cls_id": "CM03129",
+    "sub_id": "06090",
+    "scr_dup": "001",
+    "tpc_seq": 1,
+    "tpc_book": "<div>Schmitz, A. and Brett, D.L. (2004) Real Estate Market Analysis - a case study approach, New York: Urban Land Institute.</div>\n",
+    "tpc_book_en": null
+  },
+  "iSoftwares": [],
+  "assistSoftwares": [],
+  "weeklyScds": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CM03129",
+      "sub_id": "06090",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "1-5",
+      "tpd_reading": "<div>9/11 - 10/9不動產市場與外部經境環境之關係</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": "<div>吳明哲老師授課</div>\n",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": "吳明哲老師授課",
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": 15.0,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CM03129",
+      "sub_id": "06090",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "6-7",
+      "tpd_reading": "<div>10/16 10/23&nbsp;不動產市場概論</div>\n\n<div>1. 課程大綱說明/ 授課要求說明</div>\n\n<div>2. 不動產、房地產與住宅之差異</div>\n\n<div>3. 市場之意義</div>\n\n<div>3.不動產市場分析主要目的/可以檢核開發計畫的什麼?</div>\n\n<div>4.不動產市場分析之樣態 - 依據其資產型態 (property types)</div>\n\n<div>5. 不動產市場資訊的主要使用者</div>\n\n<div>6. 不動產市場分析與可行性分析之差異</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": "<div>楊賀雯老師授課</div>\n",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": "楊賀雯老師授課\nHomework1",
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": 6.0,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CM03129",
+      "sub_id": "06090",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "8-11",
+      "tpd_reading": "<div>11/30&nbsp;-11/20&nbsp;不動產市場分析理論基礎與常用基本分析方法 I</div>\n\n<div>1. 市場範疇的界定</div>\n\n<div>2. 影響不動產市場範疇的因素</div>\n\n<div>3. 常用以時間軸為基礎的圖表、敘述性統計量的應用</div>\n\n<div>4. 橫斷面長緒之統計量分析方法與案例</div>\n\n<div>5.縱斷面常用之時間序量方法與案例</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": "<div>楊賀雯老師授課</div>\n",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": 12.0,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CM03129",
+      "sub_id": "06090",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "12-13",
+      "tpd_reading": "<div>11/27&nbsp;- 12/4&nbsp;不動產市場分析理論基礎與常用基本分析方法 II</div>\n\n<div>1. 需求分析</div>\n\n<div>2. 供給分析</div>\n\n<div>3. 市場性分析 (marketability analysis)</div>\n\n<div>4. 其他常用之技術 - 區位商數、Mueller 的不動產開發循環、經濟分析的四象限分析</div>\n\n<div>5. 期末報告初檢</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": "<div>楊賀雯老師授課</div>\n",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": 6.0,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CM03129",
+      "sub_id": "06090",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "14-15",
+      "tpd_reading": "<div>12/11&nbsp;12/18&nbsp;1/2 期末報告</div>\n\n<div>1.以住宅市場為案例進行實務操作說明</div>\n\n<div>2. 不動產市場分析與不動產行銷、財務管理、投資之關係</div>\n\n<div>3. 同時進行分組報告 (12/19 12/26 分擔雙組舉辦)</div>\n\n<div>4. 1/2 為同學最後修正期末報告上傳</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": "<div>楊賀雯老師授課</div>\n",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": 6.0,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CM03129",
+      "sub_id": "06090",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "16",
+      "tpd_reading": "<div>行憲紀念日 放假乙次</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": null,
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": 3.0,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CM03129",
+      "sub_id": "06090",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "17",
+      "tpd_reading": "<div>中華民國開國紀念日 放假乙次</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": null,
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": 3.0,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CM03129",
+      "sub_id": "06090",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "18",
+      "tpd_reading": "<div>課程結束</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": null,
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": 3.0,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    }
+  ],
+  "gradeRules": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CM03129",
+      "sub_id": "06090",
+      "scr_dup": "001",
+      "evalb_id": "D1",
+      "score_rate": 30,
+      "evalb_memo": "吳明哲老師授課部分評分",
+      "evalb_memo_en": null,
+      "evalb_name": "期中考",
+      "evalb_name_en": "Midterm examination",
+      "seq": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CM03129",
+      "sub_id": "06090",
+      "scr_dup": "001",
+      "evalb_id": "D2",
+      "score_rate": 30,
+      "evalb_memo": "楊賀雯老師授課部分評分 I 採計同學簡報與其期中作業。",
+      "evalb_memo_en": null,
+      "evalb_name": "期末考",
+      "evalb_name_en": "Final examination",
+      "seq": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CM03129",
+      "sub_id": "06090",
+      "scr_dup": "001",
+      "evalb_id": "D5",
+      "score_rate": 40,
+      "evalb_memo": "楊賀雯老師授課部分評分 II 修正後期末簡報與平時成績合計。",
+      "evalb_memo_en": null,
+      "evalb_name": "期末專題",
+      "evalb_name_en": "Final presentation",
+      "seq": 0
+    }
+  ],
+  "gradeRuleDescribe": {
+    "yms_year": 114.0,
+    "yms_smester": 1.0,
+    "cls_id": "CM03129",
+    "sub_id": "06090",
+    "scr_dup": "001",
+    "tpa_score_new": "<div>上述期中末考試成績包括平時出席成績、老師授課映像分數調整；該期末考成績包括出席成績、課堂中的討論交流與期末專題分組報告成績。</div>\n",
+    "tpa_score_new_en": null,
+    "course_pol": "所有課程活動都將在同學之間的友好參與和互動氛圍中進行，彼此間尊重和欣賞每位同學的個人經歷、背景和觀點，如國內外各學制、多元入學及學習文化、性別等。希望您始終在本課程中應用最高的學術標準，並以有尊嚴和尊重的態度對待同學。",
+    "course_pol_en": null,
+    "course_rem": "多樣化、公平和包容性聲明 我的教學設計，要讓來自不同背景和觀點的學生都能從這門課程中獲得很好的學習，學生的學習需求能得到解決，學生帶給這門課的多樣性可以經舉手、邀請您合適地表達出來，並被視為一種資源、力量並惠及所有學生。如有任何疑慮，請利用請益時間來找我。",
+    "course_rem_en": null,
+    "ais_meno": "<div>學習必須以誠信為基礎，任何學生企圖將自己未製作的作品，作為自己的作品，此行為是為不誠實行為。在作業、測驗或考試中作弊或抄襲的學生或協助他人的行為，該次成績以零分計，若是累犯，將依逢甲大學學生獎懲辦法提送。</div>\n",
+    "ais_meno_en": null,
+    "ilearn_mk": "N"
+  },
+  "integrity": {
+    "yms_year": 114.0,
+    "yms_smester": 1.0,
+    "cls_id": "CM03129",
+    "sub_id": "06090",
+    "scr_dup": "001",
+    "tpa_score_new": "<div>上述期中末考試成績包括平時出席成績、老師授課映像分數調整；該期末考成績包括出席成績、課堂中的討論交流與期末專題分組報告成績。</div>\n",
+    "tpa_score_new_en": null,
+    "course_pol": "所有課程活動都將在同學之間的友好參與和互動氛圍中進行，彼此間尊重和欣賞每位同學的個人經歷、背景和觀點，如國內外各學制、多元入學及學習文化、性別等。希望您始終在本課程中應用最高的學術標準，並以有尊嚴和尊重的態度對待同學。",
+    "course_pol_en": null,
+    "course_rem": "多樣化、公平和包容性聲明 我的教學設計，要讓來自不同背景和觀點的學生都能從這門課程中獲得很好的學習，學生的學習需求能得到解決，學生帶給這門課的多樣性可以經舉手、邀請您合適地表達出來，並被視為一種資源、力量並惠及所有學生。如有任何疑慮，請利用請益時間來找我。",
+    "course_rem_en": null,
+    "ais_meno": "<div>學習必須以誠信為基礎，任何學生企圖將自己未製作的作品，作為自己的作品，此行為是為不誠實行為。在作業、測驗或考試中作弊或抄襲的學生或協助他人的行為，該次成績以零分計，若是累犯，將依逢甲大學學生獎懲辦法提送。</div>\n",
+    "ais_meno_en": null,
+    "ilearn_mk": "N"
+  },
+  "policy": {
+    "yms_year": 114.0,
+    "yms_smester": 1.0,
+    "cls_id": "CM03129",
+    "sub_id": "06090",
+    "scr_dup": "001",
+    "tpa_score_new": "<div>上述期中末考試成績包括平時出席成績、老師授課映像分數調整；該期末考成績包括出席成績、課堂中的討論交流與期末專題分組報告成績。</div>\n",
+    "tpa_score_new_en": null,
+    "course_pol": "所有課程活動都將在同學之間的友好參與和互動氛圍中進行，彼此間尊重和欣賞每位同學的個人經歷、背景和觀點，如國內外各學制、多元入學及學習文化、性別等。希望您始終在本課程中應用最高的學術標準，並以有尊嚴和尊重的態度對待同學。",
+    "course_pol_en": null,
+    "course_rem": "多樣化、公平和包容性聲明 我的教學設計，要讓來自不同背景和觀點的學生都能從這門課程中獲得很好的學習，學生的學習需求能得到解決，學生帶給這門課的多樣性可以經舉手、邀請您合適地表達出來，並被視為一種資源、力量並惠及所有學生。如有任何疑慮，請利用請益時間來找我。",
+    "course_rem_en": null,
+    "ais_meno": "<div>學習必須以誠信為基礎，任何學生企圖將自己未製作的作品，作為自己的作品，此行為是為不誠實行為。在作業、測驗或考試中作弊或抄襲的學生或協助他人的行為，該次成績以零分計，若是累犯，將依逢甲大學學生獎懲辦法提送。</div>\n",
+    "ais_meno_en": null,
+    "ilearn_mk": "N"
+  },
+  "courseBankC": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CM03129",
+      "sub_id": "06090",
+      "scr_dup": "001",
+      "seq": 1,
+      "describe_ch": "協助學生瞭解不動產市場分析之意義與類型",
+      "describe_en": "To assist students in understanding the meaning and types of real estate market analysis",
+      "core_id": "C",
+      "core_item": "培養積極創新、邏輯思考、團隊合作之能力並具備國際觀及社會責任。",
+      "core_eng": "The ability of managing innovation, logical thinking, teamwork and insisting international social responsibility",
+      "core_level": "2 ",
+      "strgy": [
+        "01"
+      ],
+      "evalb": [
+        "D1"
+      ],
+      "strgy_name": [
+        "課堂授課"
+      ],
+      "strgy_name_en": [
+        "Classroom instruction"
+      ],
+      "evalb_name": [
+        "期中考"
+      ],
+      "evalb_name_en": [
+        "Midterm examination"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CM03129",
+          "sub_id": "06090",
+          "scr_dup": "001",
+          "seq": 1,
+          "strgy_id": "01",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CM03129",
+          "sub_id": "06090",
+          "scr_dup": "001",
+          "seq": 1,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D1",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CM03129",
+      "sub_id": "06090",
+      "scr_dup": "001",
+      "seq": 2,
+      "describe_ch": "協助學生瞭解不動產市場分析之方法",
+      "describe_en": " To assist students in understanding the analysis method of real estate market",
+      "core_id": null,
+      "core_item": null,
+      "core_eng": null,
+      "core_level": "3 ",
+      "strgy": [
+        "01"
+      ],
+      "evalb": [
+        "D2"
+      ],
+      "strgy_name": [
+        "課堂授課"
+      ],
+      "strgy_name_en": [
+        "Classroom instruction"
+      ],
+      "evalb_name": [
+        "期末考"
+      ],
+      "evalb_name_en": [
+        "Final examination"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CM03129",
+          "sub_id": "06090",
+          "scr_dup": "001",
+          "seq": 2,
+          "strgy_id": "01",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CM03129",
+          "sub_id": "06090",
+          "scr_dup": "001",
+          "seq": 2,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D2",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CM03129",
+      "sub_id": "06090",
+      "scr_dup": "001",
+      "seq": 3,
+      "describe_ch": "協助學生瞭解不動產市場分析之應用",
+      "describe_en": "To assist students in understanding how to apply the real estate market analysis",
+      "core_id": null,
+      "core_item": null,
+      "core_eng": null,
+      "core_level": "2 ",
+      "strgy": [
+        "09"
+      ],
+      "evalb": [
+        "D5"
+      ],
+      "strgy_name": [
+        "口頭報告"
+      ],
+      "strgy_name_en": [
+        "Oral report"
+      ],
+      "evalb_name": [
+        "期末專題"
+      ],
+      "evalb_name_en": [
+        "Final presentation"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CM03129",
+          "sub_id": "06090",
+          "scr_dup": "001",
+          "seq": 3,
+          "strgy_id": "09",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CM03129",
+          "sub_id": "06090",
+          "scr_dup": "001",
+          "seq": 3,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D5",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    }
+  ],
+  "topicSdgs": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CM03129",
+      "sub_id": "06090",
+      "scr_dup": "001",
+      "sdgs_seq": 6,
+      "main_related": "N",
+      "ind_related": "Y",
+      "iss_name": "社會進步面",
+      "iss_ename": "Social Progress",
+      "content_name": "減少經濟、教育及身心弱勢的不平等",
+      "content_ename": "Reduced Inequalities"
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CM03129",
+      "sub_id": "06090",
+      "scr_dup": "001",
+      "sdgs_seq": 11,
+      "main_related": "N",
+      "ind_related": "Y",
+      "iss_name": "經濟成長面",
+      "iss_ename": "Economic Growth",
+      "content_name": "永續消費與生產循環",
+      "content_ename": "Responsible Consumption and Production"
+    }
+  ],
+  "learnHours": {
+    "total": 54.0,
+    "tpdOnlineAsyTotal": 0.0,
+    "tpdOnlineSynTotal": 9.0,
+    "tpdOnlineFaceTotal": 45.0,
+    "asySynInTotalPercent": 16.67
+  },
+  "crossVerYear": 114
+}

@@ -1,0 +1,1425 @@
+{
+  "teacherId": "T75054",
+  "name": "吳進家",
+  "mainUnit": "商學院",
+  "detailUnit": "統計學系",
+  "skill": [
+    "作業研究Operations Research",
+    "統計statistics"
+  ],
+  "edu": [
+    "國立台灣工業技術學院 工業管理 博士",
+    "國立清華大學 應用數學研究所 碩士",
+    "逢甲大學 統計學系 學士"
+  ],
+  "fcuExp": [
+    "統計學系 系主任",
+    "統計學系 講師",
+    "統計學系 講師",
+    "統計學系 講師",
+    "統計學系 副教授",
+    "統計學系 教授",
+    "統計學系 教授",
+    "統計學系 教授",
+    "統計學系 特聘教授",
+    "統計學系 特聘教授"
+  ],
+  "currjob": [],
+  "otherExp": [],
+  "journal": [
+    {
+      "論文名稱": "A Robust Single-Machine Scheduling Problem with Two Job Parameter Scenarios",
+      "期刊名稱": "International Journal of Industrial Engineering Computations (SCIE)",
+      "作者群": "C.-C. Wu, J.H. Chen*, W.C. Lin, X. Zhang, T. Ren, Z.L. Wu, Y.H. Chung"
+    },
+    {
+      "論文名稱": "A reinforcement learning-based approach for solving multi-agent job shop scheduling problem",
+      "期刊名稱": "International Journal of Production Research (SCIE)",
+      "作者群": "Dong, T. Ren*, F. Qi, J. Weng, D. Bai, J. Yang, C.-C. Wu"
+    },
+    {
+      "論文名稱": "Sequencing a tri-criteria multiple job classes and customer orders problem on a single machine by using heuristics and simulated annealing method",
+      "期刊名稱": "Operational Research (SCIE)",
+      "作者群": "C.-C. Wu, X. Zhang, D. Bai, A. Azzouz, W.H. Wu, X.R. Chen, W.C. Lin*"
+    },
+    {
+      "論文名稱": "Two-agent single-scheduling problems of proportionally linear deteriorated jobs with the maxi-and-total cost criteria",
+      "期刊名稱": "Indian Journal of Pure & Applied Mathematics (SCIE)",
+      "作者群": "X. Zhang, L. Li, P.W. Yu, C.-C. Wu*"
+    },
+    {
+      "論文名稱": "A bi-criterion sequence-dependent scheduling problem with order deliveries",
+      "期刊名稱": "PeerJ Computer Science (SCIE)",
+      "作者群": "J.Y. Xu, W.C. Lin, K.X. Hu, Y.W. Chang,W.H. Wu, P.H. Hsu, T.H. Wu, C.-C. Wu"
+    },
+    {
+      "論文名稱": "Scheduling a multi-agent flow shop with two scenarios and release dates",
+      "期刊名稱": "International Journal of Production Research (SCIE)",
+      "作者群": "X. Wang, T. Ren, D. Bai, F. Chu, Y., Yu, F. Ｍeng, C.-C. Wu"
+    },
+    {
+      "論文名稱": "Demand Prediction of Shared Bicycles Based on Graph Convolutional Network-Gated Recurrent Unit-Attention Mechanism.",
+      "期刊名稱": "Mathematics (SCIE)",
+      "作者群": "J.Y. Xu*, Y. Qian, S. Zhang, C.-C. Wu"
+    },
+    {
+      "論文名稱": "A two-machine learning-date flowshop scheduling problem with heuristics and population-based GA to minimize the makespan.",
+      "期刊名稱": "Mathematics (SCIE)",
+      "作者群": "J.Y. Xu, W.C. Lin, Y.W. Chang, Y.H. Chung, J.H. Chen, C.-C. Wu*"
+    },
+    {
+      "論文名稱": "Bicriteria Single-Machine Scheduling with Multiple Job Classes and Customer Orders",
+      "期刊名稱": "Applied Soft Computing (SCIE)",
+      "作者群": "J.N.D. Gupta, C.-C. Wu, W.C. Lin, XG Zhang, D. Bai, C.C. Lia"
+    },
+    {
+      "論文名稱": "Sequencing single machine multiple-class customer order jobs using heuristics and improved simulated annealing algorithms",
+      "期刊名稱": "RAIRO - Operations Research (SCIE)",
+      "作者群": "W.C. Lin, X. Zhang, X. Liu, K.X. Hu, S.R. Cheng, A. Azzouz, C.C. Wu*"
+    },
+    {
+      "論文名稱": "Composite heuristics and water wave optimality algorithms for tri-criteria multiple job classes and customer order scheduling on a single machine",
+      "期刊名稱": "International Journal of Industrial Engineering Computations (SCIE)",
+      "作者群": "L.Y. Li, W.C. Lin, D. Bai, X. Zhang, A. Azzouze, S.R. Cheng, Y.L. Wu, C.-C. Wu*"
+    },
+    {
+      "論文名稱": "Wasserstein Distributionally Robust Chance-Constrained Program with Moment Information",
+      "期刊名稱": "Computers and Operations Research (SCIE)",
+      "作者群": "Z. Luo, Y. Yin, D. Wang, TCE Cheng, C.-C. Wu"
+    },
+    {
+      "論文名稱": "Single-machine slack due-window assignment scheduling with multi-maintenance activities and position-and resource-dependent processing times",
+      "期刊名稱": "International Journal of Systems Science- Operations & Logistics (SCIE)",
+      "作者群": "X. Zhang, D Bai, WC Lin*, SR Chang, C.-C. WuX. Zhang, D Bai, WC Lin*, SR Chang, C.-C. Wu"
+    },
+    {
+      "論文名稱": "A genetic hyper-heuristic for an order scheduling problem with two scenario-dependent parameters in a parallel-machine environment",
+      "期刊名稱": "Mathematics (SCIE)",
+      "作者群": "L.Y. Li, J.Y. Xu, S.R. Cheng, X.G. Zhang, W.C. Lin *, J.C. Lin, Z.L. Wu, C.-C. Wu"
+    },
+    {
+      "論文名稱": "Competitive bi -agent flowshop scheduling to minimize the weighted combination of makespans",
+      "期刊名稱": "International Journal of Production Research (SCIE)",
+      "作者群": "D. Bai, A. Diabat, X. Wang, D. Yang, Y. Fu, Z.H. Zhang*, C.-C. Wu"
+    },
+    {
+      "論文名稱": "Application of adaptive adjacency matrix-based graph convolutional neural network in taxi demand forecasting",
+      "期刊名稱": "Mathematics (SCIE)",
+      "作者群": "J.Y. Xu*, S. Zhang, C.-C. Wu, W.C. Lin, Q.L. Yuan"
+    },
+    {
+      "論文名稱": "Blocking flowshop scheduling problems with release dates",
+      "期刊名稱": "Swarm and Evolutionary Computation (SCIE)",
+      "作者群": "D. Bai , X. Bai , H. Li , Q. Pan, C.-C. Wu , L. Gao , M. Guo , L. Lin"
+    },
+    {
+      "論文名稱": "A bi-criterion single-machine scheduling problem with a step-improving processing times",
+      "期刊名稱": "Computers & Industrial Engineering (SCIE)",
+      "作者群": "C.-C. Wu, W.C. Lin*, A. Azzouz, J. Xu, Y.L. Chiu, Y.W. Tsai, P. Shen"
+    },
+    {
+      "論文名稱": "Exact and metaheuristic algorithms for flowshop scheduling problems with release dates",
+      "期刊名稱": "Engineering Optimization (SCIE)",
+      "作者群": "T. Ren, X. Wang, T. Liu, C.-C. Wu, D. Bai, L. Lin., M. Guo"
+    },
+    {
+      "論文名稱": "A robust single-machine scheduling problem with two scenarios of job parameters",
+      "期刊名稱": "Mathematics (SCIE)",
+      "作者群": "G. Xuan, W.C.* Lin, S.R. Cheng, W.L. Shen, P.A. Pan, C.L. Kuo,  C.-C. Wu"
+    },
+    {
+      "論文名稱": "Robust scheduling of Two-Agent Customer Orders with Scenario-Dependent Component Processing Times and Release Dates",
+      "期刊名稱": "Mathematics (SCIE)",
+      "作者群": "C.-C. Wu, J.N.D. Gupta, W.C. Lin, S.R. Cheng, Y.L. Chiu, C.J. Chen, L.Y. Lee*"
+    },
+    {
+      "論文名稱": "Rescheduling problems with allowing for the unexpected arrival of new jobs",
+      "期刊名稱": "Journal of Combinatorial Optimization (SCIE)",
+      "作者群": "X. Zhang, W.C. Lin, C.-C. Wu*"
+    },
+    {
+      "論文名稱": "A two-agent one-machine multitasking scheduling problem solving by exact and metaheuristics",
+      "期刊名稱": "Complex & Intelligent Systems (SCIE)",
+      "作者群": "C.-C. Wu, A. Azzouz, J.Y. Chen, J. Xu, W.L. Shen, L. Lu, L. Ben Said, W.C. Lin*"
+    },
+    {
+      "論文名稱": "Two-agent integrated scheduling of production and distribution operations with fixed departure times",
+      "期刊名稱": "Journal of Industrial and Management Optimization (SCIE)",
+      "作者群": "Y. Zhou, Z. Lin, D. Han*, TCE Cheng, C.-C. Wu"
+    },
+    {
+      "論文名稱": "A robust customer order scheduling problem along with scenario-dependent component processing times and due dates.",
+      "期刊名稱": "Journal of Manufacturing Systems (SCIE)",
+      "作者群": "C.-C. Wu, D. Bai, X. Zhang, S.R. Cheng, J.C. Lin, Z.L. Wu, W.C. Lin*"
+    },
+    {
+      "論文名稱": "Robust scheduling of a two-stage assembly shop with scenario-dependent processing times.",
+      "期刊名稱": "International Journal of Production Research (SCIE)",
+      "作者群": "C.-C. Wu, J.N.D. Gupta, SR Cheng, B.M.T. Lin, S.H. Yip, W.C. Lin*,"
+    },
+    {
+      "論文名稱": "Cloud theory-based simulated annealing for a single- machine past sequence setup scheduling with scenario-dependent processing times.",
+      "期刊名稱": "Complex & Intelligent Systems (SCIE)",
+      "作者群": "C.-C. Wu, W.-C. Lin*, X.G. Zhang, D.Y. Bai, Y.W. Tsai, T. Ren, S.R. Cheng"
+    },
+    {
+      "論文名稱": "Metaheuristics for two-stage flow-shop assembly problem with a truncation learning function.",
+      "期刊名稱": "Engineering Optimization. (SCIE)",
+      "作者群": "C.-C. Wu, X. Zhang, A., Ameni, WL Shen, SR Cheng, PH Hsu, WC Lin*"
+    },
+    {
+      "論文名稱": "Several variants of simulated annealing hyper-heuristic for a single-machine scheduling with two-scenario-based dependent processing times.",
+      "期刊名稱": "Swarm and Evolutionary Computation (SCIE)",
+      "作者群": "C.-C. Wu, D.Y. Bai, J.-H. Chen, W.-C. Lin, L. Xing, J.-C. Lin, S.R. Cheng*"
+    },
+    {
+      "論文名稱": "Effective algorithms for single-machine learning-effect scheduling to minimize completion-time-based criteria with release dates",
+      "期刊名稱": "Expert Systems with Applications (SCIE)",
+      "作者群": "D. Bai, H. Xue, L. Wang, C,-C, Wu, W.C. Lin, D.H. Abdulkadir"
+    },
+    {
+      "論文名稱": "A Hybrid Discrete Differential Evolution Algorithm to Solve the Split Delivery Vehicle Routing Problem.",
+      "期刊名稱": "IEEE Access (SCIE)",
+      "作者群": "L. Xing, Y. Liu, H. Li, C.-C. Wu, W.-C. Lin, W. Song*"
+    },
+    {
+      "論文名稱": "Effective heuristic algorithms solving the jobshop scheduling problem with release dates",
+      "期刊名稱": "Mathematics (SCIE)",
+      "作者群": "T. Ren*, Y. Zhang, S.R. Cheng, C.-C. Wu, M. Zhang, B.Y. Chang, X.Y. Wang, P. Zhao"
+    },
+    {
+      "論文名稱": "A two-stage three-machine assembly scheduling problem with a truncation position-based learning effect.",
+      "期刊名稱": "Soft Computing (SCIE)",
+      "作者群": "A. Ameni*, P.A. Pan, P.H. Hsu, W.C. Lin, S.C. Liu, L. Ben Said, C.-C. Wu"
+    },
+    {
+      "論文名稱": "A robust two-machine flow-shop scheduling model with scenario- dependent processing times",
+      "期刊名稱": "Discrete Dynamics in Nature and Society (SCIE)",
+      "作者群": "C.L. Hsu, W.C. Lin*, L. Duan, J.R. Liao, C.-C. Wu, J.H. Chen"
+    },
+    {
+      "論文名稱": "Parallel-machine scheduling with linear deteriorating jobs and preventive maintenance activities under a potential machine disruption",
+      "期刊名稱": "Computers & Industrial Engineering (SCIE)",
+      "作者群": "X. Zhang, SC Liu, WC Lin, C.-C. Wu*"
+    },
+    {
+      "論文名稱": "Two-stage three-machine assembly scheduling problem with sum-of-processing-times based learning effect.",
+      "期刊名稱": "Soft Computing (SCIE)",
+      "作者群": "Y. Zou, D.J. Wang*, W.C. Lin, J.Y. Chen, P.W. Yu, W.H. Wu, Y.P. Chao, C.-C. Wu"
+    },
+    {
+      "論文名稱": "A Novel Tabu Search Algorithm for Multi-AGV Routing Problem.",
+      "期刊名稱": "Mathematics (SCIE)",
+      "作者群": "L. Xing, Y. Liu, H. Li, C.-C. Wu, W.-C. Lin, X. Chen*"
+    },
+    {
+      "論文名稱": "Artificial bee colony algorithms for the order scheduling with release dates",
+      "期刊名稱": "Soft Computing (SCIE)",
+      "作者群": "Win-Chin Lin, J. Xu, D. Bai, I-H. Chung, S.-C. Liu, C.-C. Wu"
+    },
+    {
+      "論文名稱": "Tardiness minimization for a customer order scheduling problem with sum-of- processing-time-based learning effect",
+      "期刊名稱": "Journal of the Operational Research Society (SCIE)",
+      "作者群": "C.-C. Wu, WC Lin*, X. Zhang, I.-H. Chung, T.H. Yang, K. Lai"
+    },
+    {
+      "論文名稱": "A two-stage three-machine assembly scheduling problem with deterioration effect\"",
+      "期刊名稱": "International Journal of Production Research (SCIE)",
+      "作者群": "C.-C. Wu, A. Azzouz*, I.H. Chung, W.C. Lin, L. Ben Said"
+    },
+    {
+      "論文名稱": "A two-stage three-machine assembly scheduling flowshop problem with both two-agent and learning phenomenon",
+      "期刊名稱": "Computers & Industrial Engineering (SCIE)",
+      "作者群": "C.-C. Wu, JY Chen, WC Lin*, K Lai, D Bai, SY Lai"
+    },
+    {
+      "論文名稱": "A tabu and branch-and-bound algorithm for two-agent scheduling with learning effect and late work criterion.",
+      "期刊名稱": "Asia-Pacific Journal of Operational Research (SCIE)",
+      "作者群": "S.-C. Liu, J. Duan, W.-C. Lin, W.-H. Wu,J.-Y. Kung, H. Chen, and C.-C. Wu*"
+    },
+    {
+      "論文名稱": "Single-machine scheduling problems with a learning effect matrix",
+      "期刊名稱": "Iranian Journal of Science and Technology (SCIE)",
+      "作者群": "X. Zhang, S.-C. Liu, Y. Yin, C.-C. Wu*"
+    },
+    {
+      "論文名稱": "Metaheuristics for order scheduling problem with unequal ready times",
+      "期刊名稱": "Discrete Dynamics in Nature and Society (SCIE)",
+      "作者群": "J.Y. Kung, J. Duan, J. Xu, I.H. Chung, S.R. Cheng, C.-C. Wu, W.C. Lin*"
+    },
+    {
+      "論文名稱": "A two-stage three-machine assembly flow shop scheduling with learning consideration to minimize the flowtime by six hybrids of particle swarm optimization",
+      "期刊名稱": "Swarm and Evolutionary Computation (SCIE)",
+      "作者群": "C.-C. Wu, J.-Y. Chen, W.-C. Lin*, K. Lai, S.C. Liu, P.W. Yu"
+    },
+    {
+      "論文名稱": "A two-stage three-machine assembly scheduling\r\nproblem with a position-based learning effect",
+      "期刊名稱": "International Journal of Production Research, (SCIE)",
+      "作者群": "Chin-Chia Wu, Du-Juan Wang, Shuenn-Ren Cheng, I-Hong Chung and Win-Chin Lin"
+    },
+    {
+      "論文名稱": "Competitive two-agents scheduling problems to minimize the weighted combination of makespan on two-machine open shop",
+      "期刊名稱": "Engineering Optimization, (SCIE)",
+      "作者群": "F. Jiang, X. Zhang, D. Bai, C.-C. Wu*"
+    },
+    {
+      "論文名稱": "Single-machine batch scheduling problem with job rejection and resource dependent processing times",
+      "期刊名稱": "RAIRO - Operations Research (SCIE)",
+      "作者群": "W. Huang, C.-C. Wu, S.C. Liu*"
+    },
+    {
+      "論文名稱": "Machine scheduling problems under deteriorating effects and deteriorating rate-modifying activities",
+      "期刊名稱": "Journal of the Operational Research Society (SCIE)",
+      "作者群": "X. Zhang, W.-H. Wu, W.-C. Lin, C.-C. Wu*"
+    },
+    {
+      "論文名稱": "Single-machine scheduling and common due date assignment with potential machine disruption.",
+      "期刊名稱": "International Journal of Production Research (SCIE)",
+      "作者群": "X. Xiong, D.-J.Wang, TCE Cheng, C.-C.Wu, Y. Yin*"
+    },
+    {
+      "論文名稱": "Bicriterion total flowtime and maximum tardiness minimization for an order scheduling problem.",
+      "期刊名稱": "Computers & Industrial Engineering, (SCIE)",
+      "作者群": "C.-C. Wu, .S.C. Liu, T.Y. Lin, T.H. Yang, I.H. Chung, W.C. Lin*"
+    },
+    {
+      "論文名稱": "Some two-agent single-machine scheduling problems to minimize minmax and minsum of completion times",
+      "期刊名稱": "Operational Research (SCIE)",
+      "作者群": "X. Cao, WH, Wu, W.-H. Wu, C.-C. Wu*"
+    },
+    {
+      "論文名稱": "Re-entrant flowshop scheduling with learning considerations to minimize the makespan",
+      "期刊名稱": "Iranian Journal of Science and Technology TransactionsA-Science (SCIE)",
+      "作者群": "C.-C. Wu, S.C. Liu, TCE Cheng, Y. Cheng, S.Y. Liu, W.C. Lin*"
+    },
+    {
+      "論文名稱": "A multi-machine order scheduling with learning using the genetic algorithm and particle swarm optimization",
+      "期刊名稱": "The Computer Journal (SCIE)",
+      "作者群": "C.-C. Wu, SC Liu, C.L. Zhao, S.Z. Wang, W.C. Lin*"
+    },
+    {
+      "論文名稱": "A two-machine flowshop scheduling problem with a job precedence constraint to minimize the total completion time.",
+      "期刊名稱": "Journal of Scientific and Industrial Research, (SCIE)",
+      "作者群": "J. Xu, W.C. Lin*, Y. Yin, Y. Cheng, C.-C. Wu"
+    },
+    {
+      "論文名稱": "A combined approach for two-agent scheduling with sum-of-processing-times-based learning effect",
+      "期刊名稱": "Journal of the Operational Research Society, (SCIE)",
+      "作者群": "W.H. Wu, Y. Yin, TCE Cheng, W.C. Lin, J.C. Chen, S.Y. Luo, C.-C. Wu*"
+    },
+    {
+      "論文名稱": "An investigation of single-machine due-window assignment with time-dependent processing times and a controllable rate-modifying activity",
+      "期刊名稱": "The Computer Journal (SCIE)",
+      "作者群": "C.L. Zhao, C.J. Hsu, W.C. Lin, W.H. Wu, C.-C. Wu*"
+    },
+    {
+      "論文名稱": "Two-agent flowshop scheduling to maximize the weighted number of just-in-time jobs",
+      "期刊名稱": "Journal of Scheduling (SCIE)",
+      "作者群": "Y. Yin, TCE Cheng, D.J. Wang*, C.-C. Wu"
+    },
+    {
+      "論文名稱": "Single-machine common/slack due window assignment problems with linear decreasing processing times. Engineering Optimization",
+      "期刊名稱": "Engineering Optimization (SCIE)",
+      "作者群": "X. Zhang, W.C. Lin, W.H. Wu, C.-C. Wu*"
+    },
+    {
+      "論文名稱": "Resource- constrained scheduling problems with general truncated sum-of- processing- time-dependent effect under single machine and unrelated parallel machines",
+      "期刊名稱": "Computers & Industrial Engineering (SCIE)",
+      "作者群": "X. Zhang, W.-C. Lin, J.R Hsu, C.-C. Wu*"
+    },
+    {
+      "論文名稱": "A two-agent single-machine scheduling problem with late work criteria",
+      "期刊名稱": "Soft Computing (SCIE)",
+      "作者群": "D.-J. Wang, C.-C. Kang, Y.-R. Shiau, C.-C. Wu, P.-H. Hsu*"
+    },
+    {
+      "論文名稱": "A two-machine flowshop scheduling problem with precedence constraint on two jobs",
+      "期刊名稱": "Soft Computing (SCIE)",
+      "作者群": "S.-R. Cheng, Y. Yin, C.-H. Wen, W.-C. Lin, C.-C. Wu*, J. Liu"
+    },
+    {
+      "論文名稱": "An iterated local search for the multi-objective permutation flowshop scheduling problem with sequence-dependent setup times",
+      "期刊名稱": "Applied Soft Computing (SCIE)",
+      "作者群": "J, Xu*, C.-C. Wu, Y. Yin, W.C. Lin"
+    },
+    {
+      "論文名稱": "Particle swarm optimization and opposite-based particle swarm optimization for two-agent multi-facility customer order scheduling with ready times",
+      "期刊名稱": "Applied Soft Computing (SCIE)",
+      "作者群": "W.C. Lin, Y. Yin, S.R. Cheng, TCE Cheng, C.H. Wu, C.-C. Wu*"
+    },
+    {
+      "論文名稱": "A two-agent single-machine scheduling problem to minimize the total cost with release dates",
+      "期刊名稱": "Soft Computing (SCIE)",
+      "作者群": "D.J. Wang, Y. Yin, W.-H. Wu, W.-H. Wu, C.-C. Wu, P.H., Hsu*"
+    },
+    {
+      "論文名稱": "Scheduling with non-decreasing deterioration jobs and variable maintenance activities on a single machine",
+      "期刊名稱": "Engineering Optimization (SCIE)",
+      "作者群": "X. Zhang, Y. Yin, C.-C. Wu*"
+    },
+    {
+      "論文名稱": "Efficiency evaluation of bus transit firms with and without consideration of environmental air-pollution emissions",
+      "期刊名稱": "Transportation Research Part D: Transport and Environment. (SSCI)",
+      "作者群": "Kang, Chao-Chung; Haider A. Khan;Cheng-Min Feng;Chin-Chia Wu"
+    },
+    {
+      "論文名稱": "Just-in-time scheduling with two competing agents on unrelated parallel machines.",
+      "期刊名稱": "Omega (SCIE)",
+      "作者群": "Y. Yin, S.R. Cheng; T.C.E. Cheng; D.-J. Wang*, C.-C. Wu"
+    },
+    {
+      "論文名稱": "Heuristic based genetic algorithms for the re-entrant total completion time flowshop scheduling with learning consideration.",
+      "期刊名稱": "International Journal of Computational Intelligence Systems (SCIE)",
+      "作者群": "J. Xu, W.-C. Lin, J. Wu, S.-R. Cheng, Z.-L. Wang, C.-C. Wu*"
+    },
+    {
+      "論文名稱": "A faster FPTAS for a supply chain scheduling problem to minimize holding costs with outsourcing",
+      "期刊名稱": "Asia-Pacific Journal of Operational Research (SCIE)",
+      "作者群": "S.-C. Liu, C.-C. Wu*"
+    },
+    {
+      "論文名稱": "Improved algorithms for single-machine serial-batch scheduling with rejection to minimize total completion time and total rejection cost",
+      "期刊名稱": "IEEE Transactions on Systems, Man and Cybernetics: Systems (SCIE)",
+      "作者群": "Y. Yin, T.C.E. Cheng, D.-J. Wang*, C.-C. Wu"
+    },
+    {
+      "論文名稱": " CON/SLK due date assignment and scheduling on a single machine with two agents",
+      "期刊名稱": "Naval Research Logistics (SCIE)",
+      "作者群": " Y. Yin, D.-J. Wang*, C.-C. Wu, T.C.E. Cheng"
+    },
+    {
+      "論文名稱": "Approximation schemes for single-machine scheduling with a fixed maintenance activity to minimize the total amount of late work",
+      "期刊名稱": "Naval Research Logistics (SCIE)",
+      "作者群": "Y. Yin, J. Xu, T.C.E. Cheng, C.-C. Wu, D.-J. Wang*"
+    },
+    {
+      "論文名稱": "Due date assignment and scheduling on a single machine with two competing agents",
+      "期刊名稱": "International Journal of Production Research (SCIE)",
+      "作者群": "D.-J. Wang, Y. Yin, S.-R. Cheng, TCE Cheng, C.-C. Wu*"
+    },
+    {
+      "論文名稱": "Using a branch-and-bound and a genetic algorithm for a single-machine total late work scheduling problem",
+      "期刊名稱": "Soft Computing (SCIE)",
+      "作者群": "C.-C. Wu, Y. Yin, W.H. Wu, H.M Chen, S.-R. Cheng*"
+    },
+    {
+      "論文名稱": "An order scheduling problem with position-based learning effect",
+      "期刊名稱": "Computers & Operations Research (SCIE)",
+      "作者群": " J. Xu, C.-C. Wu, Y. Yin, C.L. Zhao, Y.-T. Chiou, W.C. Lin*"
+    },
+    {
+      "論文名稱": "Bi-criterion single-machine scheduling and due window assignment with common flow allowances and resource allocation",
+      "期刊名稱": "Journal of the Operational Research Society (SCIE)",
+      "作者群": "Y. Yin, D.-J. Wang*, T.C.E. Cheng, C.-C. Wu"
+    },
+    {
+      "論文名稱": "Two-agent single-machine scheduling to minimize the batch delivery cost",
+      "期刊名稱": "Computers & Industrial Engineering (SCIE)",
+      "作者群": "Y. Yin, Yan Wang, T.C.E. Cheng, D.-J. Wang, C.-C. Wu*"
+    },
+    {
+      "論文名稱": "Note on a unified approach to the single-machine scheduling problem with a deterioration effect and convex resource allocation",
+      "期刊名稱": "Journal of Manufacturing Systems (SCIE)",
+      "作者群": "C.L. Zhao, C.J., Hsu, SR Cheng, W.-H. Wu, C.-C. Wu*"
+    },
+    {
+      "論文名稱": "Some due date determination scheduling problems with two agents on a single machine,",
+      "期刊名稱": "International Journal of Production Economics (SCIE)",
+      "作者群": "D.J. Wang, Y. Yin, J. Xu, W.-H. Wu, S.-R., Cheng*, C.-C. Wu"
+    },
+    {
+      "論文名稱": "Single-machine scheduling with time-dependent and position-dependent deteriorating jobs",
+      "期刊名稱": " International Journal of Computer Integrated Manufacturing (SCIE)",
+      "作者群": "Y. Yin, W.H. Wu*, T.C.E. Cheng, C.-C. Wu"
+    },
+    {
+      "論文名稱": "Note on a single-machine scheduling problem with sum of processing times based learning and ready times.",
+      "期刊名稱": "Mathematical Problems in Engineering (SCIE)",
+      "作者群": "S.-C. Liu*, W.-L. Hung, C.-C. Wu"
+    },
+    {
+      "論文名稱": "Scheduling with Time- Dependent Processing Times 2015",
+      "期刊名稱": "Mathematical Problems in Engineering (SCIE)",
+      "作者群": "Y. Yin, T.C.E. Cheng, C.-C. Wu"
+    },
+    {
+      "論文名稱": "Scheduling problems with due date assignment.",
+      "期刊名稱": "Discrete Dynamics in Nature and Society (SCIE)",
+      "作者群": "Y. Yin, S.-R. Cheng, J.Y. Chiang, J. C.H. Chen, X. Mao, C.-C. Wu"
+    },
+    {
+      "論文名稱": "A honey-bees optimization algorithm for a two-agent single-machine scheduling problem with ready times",
+      "期刊名稱": " Applied Mathematical Modelling (SCIE)",
+      "作者群": "Y. Yin, W.H. Wu, T.C.E. Cheng, C.-C. Wu, W.-H. Wu*"
+    },
+    {
+      "論文名稱": "A heuristic-based genetic algorithm for the two-machine flowshop scheduling with learning consideration.",
+      "期刊名稱": "Journal of Manufacturing Systems (SCIE)",
+      "作者群": "W.H. Wu, W-H, Wu, J.C. Chen, W.C. Lin, J.P. Wu, C.-C. Wu*"
+    },
+    {
+      "論文名稱": "Two-agent single-machine scheduling with deteriorating jobs",
+      "期刊名稱": "Computers & Industrial Engineering (SCIE)",
+      "作者群": "Y. Yin, T.C.E. Cheng, L. Wan, C.-C. Wu*, J. Liu"
+    },
+    {
+      "論文名稱": "Two-agent single-machine scheduling with unrestricted due date assignment",
+      "期刊名稱": "Computers & Industrial Engineering (SCIE)",
+      "作者群": "Y. Yin, T.C.E. Cheng, X. Yang, C.-C. Wu*"
+    },
+    {
+      "論文名稱": "Genetic algorithm for a two-agent scheduling problem with truncated learning consideration.",
+      "期刊名稱": "Asia-Pacific Journal of Operational Research. (SCIE)",
+      "作者群": "W.-H. Wu, Y. Yin*, S.-R. Cheng, P.-H. Hsu, C.-C. Wu"
+    },
+    {
+      "論文名稱": "Parallel-machine scheduling to minimize flowtime, holding, and batch delivery costs",
+      "期刊名稱": "Asia-Pacific Journal of Operational Research (SCIE)",
+      "作者群": "Y. Yin, S.-R Cheng, C.-C. Wu"
+    },
+    {
+      "論文名稱": "A note on minimizing the total loss for two quality characteristics with one-sided specification limit.",
+      "期刊名稱": "Advances in Industrial Engineering and Management ()",
+      "作者群": "C.-H. Wang, J.-Y. Kung, K.-I Lee, W.-C. Lin, C.-C. Wu, N.-S. Wang"
+    },
+    {
+      "論文名稱": "A memetic algorithm for the re-entrant permutation flowshop scheduling problem to minimize the makespan.",
+      "期刊名稱": "Applied Soft Computing (SCIE)",
+      "作者群": "J. Xu*, Y. Yin, T.C.E. Cheng, C-C. Wu, S. Gu"
+    },
+    {
+      "論文名稱": "Pawlak algebra and approximate structure on fuzzy lattice",
+      "期刊名稱": "The Scientific World Journal,Volume 2014 (2014) (SCIE)",
+      "作者群": "Y. Zhuang*, W. Liu, C.-C. Wu, J. Li"
+    },
+    {
+      "論文名稱": "A Fast Approach to Bimatrix Games with Intuitionistic Fuzzy Payoffs",
+      "期刊名稱": "The Scientific World Journal, 2014 (SCIE)",
+      "作者群": "M. Fan*, P. Zou, S.-R. Li, C.-C. Wu"
+    },
+    {
+      "論文名稱": "Due date assignment and single machine scheduling with deteriorating jobs to minimize the weighted number of tardy jobs",
+      "期刊名稱": "Applied Mathematics and Computation (SCIE)",
+      "作者群": "C.L. Zhao, C.J., Hsu, SR Cheng, Y. Yin, C.-C. Wu*"
+    },
+    {
+      "論文名稱": "A Note on Minimizing the Total Loss for Two Quality Characteristics with One-Sided Specification Limit",
+      "期刊名稱": "Advances in Industrial Engineering and Management ()",
+      "作者群": "Chun-His Wang, Jan-Yee Kung, Kuei-I Lee, Win-Chin Lin*, Chin-Chia Wu, Nae-Sheng Wang"
+    },
+    {
+      "論文名稱": "Single-machine scheduling and due date assignment with rejection and position- dependent processing times",
+      "期刊名稱": "Journal of Industrial and Management Optimization (SCIE)",
+      "作者群": "C.L. Zhao, Y. Yin, TCE Cheng, C.-C. Wu*"
+    },
+    {
+      "論文名稱": "A time-dependent scheduling problem to minimize the sum of the total weighted tardiness among two agents",
+      "期刊名稱": "Journal of Industrial and Management Optimization (SCIE)",
+      "作者群": "W.-H. Wu, Y. Yin, W.-H. Wu, C.-C. Wu, P.-H. Hsu"
+    },
+    {
+      "論文名稱": "Due date assignment and single-machine scheduling with generalized positional deteriorating jobs and deteriorating multi-maintenance activities",
+      "期刊名稱": "International Journal of Production Research (SCIE)",
+      "作者群": "Y. Yin, W.H. Wu, T.C.E. Cheng, C.-C. Wu*"
+    },
+    {
+      "論文名稱": "Single-machine batch delivery scheduling and common due- date assignment with a rate- modifying activity",
+      "期刊名稱": "International Journal of Production Research (SCIE)",
+      "作者群": "Y. Yin, T.C.E. Cheng, C.-C. Wu, C.-R. Cheng*"
+    },
+    {
+      "論文名稱": "A truncated sum of processing-times-based learning model for a two-machine flowshop scheduling problem",
+      "期刊名稱": "Human Factors and Ergonomics in Manufacturing (SCIE)",
+      "作者群": "K. Lai, P.-H. Hsu, P.-H. Ting, C.-C. Wu*"
+    },
+    {
+      "論文名稱": "An Improved Memetic Algorithm based on a Dynamic Neighbourhood for the Permutation Flowshop Scheduling Problem",
+      "期刊名稱": "International Journal of Production Research (SCIE)",
+      "作者群": " J. Xu*, Y. Yin, T.C.E. Cheng, C-C. Wu, S. Gu"
+    },
+    {
+      "論文名稱": "A branch- and-bound algorithm for a single machine sequencing to minimize the total tardiness with arbitrary release dates and position-dependent learning effects",
+      "期刊名稱": "Information Sciences (SCIE)",
+      "作者群": "Y. Yin, W.-H. Wu, W.H. Wu*, C.-C. Wu"
+    },
+    {
+      "論文名稱": "A single-machine scheduling with a truncated linear deterioration and ready times",
+      "期刊名稱": "Information Sciences (SCIE)",
+      "作者群": "C.-C. Wu, W.-H. Wu, W.-H.  Wu, P.-H.  Hsu, Y. Yin, J. Xu"
+    },
+    {
+      "論文名稱": "Single-machine due window assignment and scheduling with a common flow allowance and controllable job processing times",
+      "期刊名稱": "Journal of the Operation Research Society (SCIE)",
+      "作者群": "Y. Yin, T.C.E. Cheng, C.-C. Wu, S.-R. Cheng"
+    },
+    {
+      "論文名稱": "Scheduling with Time-Dependent Processing Times",
+      "期刊名稱": "Mathematical Problems in Engineering (SCIE)",
+      "作者群": "Y. Yin, T.C.E. Cheng, C.-C. Wu"
+    },
+    {
+      "論文名稱": "Four single-machine scheduling problems involving due date determination decisions",
+      "期刊名稱": " Information Sciences (SCIE)",
+      "作者群": "Y. Yin, M. Liu, T.C.E. Cheng, C.-C.  Wu, S.-R. Cheng"
+    },
+    {
+      "論文名稱": "Single-machine scheduling with two competing agents and learning consideration",
+      "期刊名稱": "Information Sciences (SCIE)",
+      "作者群": "C.-C. Wu, W.C. Lee, M.-J. Liou"
+    },
+    {
+      "論文名稱": "A tabu method for a two-agent single-machine scheduling with deterioration jobs",
+      "期刊名稱": "Computers & Operations Research, (SCIE)",
+      "作者群": "W.-H. Wu, J. Xu, W.-H. Wu*, Y. Yin, I-F. Cheng, C.-C. Wu"
+    },
+    {
+      "論文名稱": "Single-machine batch delivery scheduling with an assignable common due date and controllable processing times",
+      "期刊名稱": "Computers & Industrial Engineering (SCIE)",
+      "作者群": "Y. Yin, TCE Cheng, S.R. Cheng, C.-C. Wu*"
+    },
+    {
+      "論文名稱": "Statistical precision of productivity change: A bootstrap application to Taiwan's telecommunications industry",
+      "期刊名稱": "Telecommunications Policy (SSCI)",
+      "作者群": "CC Kang, CC Wu"
+    },
+    {
+      "論文名稱": "The single-machine total tardiness problem with unequal release times and a linear deterioration",
+      "期刊名稱": "Applied Mathematics and Computation (SCIE)",
+      "作者群": "C.-C. Wu, S.-R. Cheng, W.-H. Wu, Y. Yin, W.-H. Wu"
+    },
+    {
+      "論文名稱": "Single-machine common due date scheduling with batch delivery costs and resource-dependent processing times",
+      "期刊名稱": "International Journal of Production Research (SCIE)",
+      "作者群": "Y. Yin, TCE Cheng, C.-C. Wu*, S._R. Cheng"
+    },
+    {
+      "論文名稱": "Single-machine group scheduling with a general learning effects,",
+      "期刊名稱": "European Journal of Industrial Engineering (SCIE)",
+      "作者群": "Y. Yin, C.-C. Wu*, W.-H. Wu, J.-C. Chen"
+    },
+    {
+      "論文名稱": "Single-machine scheduling with past-sequence-dependent delivery times and a linear deterioration,",
+      "期刊名稱": "Journal of Industrial and Management Optimization, (SCIE)",
+      "作者群": "Y. Yin, T.C.E. Cheng, J. Xu, S.-R. Cheng, C.-C. Wu*"
+    },
+    {
+      "論文名稱": "Single-machine batch delivery scheduling with an assignable common due window",
+      "期刊名稱": "Omega (SCIE)",
+      "作者群": "Y. Yin, T.C.E. Cheng, C.J. Hsu, C.-C. Wu*"
+    },
+    {
+      "論文名稱": "A branch-and- bound procedure for a single-machine earliness scheduling problem with two agents,",
+      "期刊名稱": "Applied Soft Computing, (SCIE)",
+      "作者群": "Y. Yin, C.-C. Wu, W.-H. Wu*, C.-J. Hsu, W.-H. Wu"
+    },
+    {
+      "論文名稱": "A study of the single-machine two-agent scheduling problem with release times,",
+      "期刊名稱": "Applied Soft Computing, (SCIE)",
+      "作者群": "C.-C. Wu, W.-H. Wu, J.-C. Chen, Y. Yin*, W.-H. Wu"
+    },
+    {
+      "論文名稱": "Single-machine and two-machine flowshop scheduling problems with truncated position-based learning functions.",
+      "期刊名稱": "Journal of the Operation Research Society (SCIE)",
+      "作者群": "C.-C. Wu, Y. Yin*, S.-R. Cheng"
+    },
+    {
+      "論文名稱": "Two-agent single-machine scheduling with release times and deadline",
+      "期刊名稱": "International Journal of Shipping and Transport Logistics (SSCI)",
+      "作者群": "Y. Yin, S.-R. Cheng, T.C.E. Cheng, W.-H. Wu, C.-C. Wu*"
+    },
+    {
+      "論文名稱": "Two-machine flowshop scheduling with a truncated learning function to minimize the makespan",
+      "期刊名稱": "International Journal of Production Economics (SCIE)",
+      "作者群": "T.C.E. Cheng, C.-C. Wu*, J.-C. Chen,W.-H. Wu, S.-R. Cheng"
+    },
+    {
+      "論文名稱": "Two-agent single-machine scheduling with assignable due dates",
+      "期刊名稱": "Applied Mathematics and Computation (SCIE)",
+      "作者群": "Y. Yin, S.-R. Cheng, T.C.E. Cheng, C.-C. Wu, W.-H. Wu*"
+    },
+    {
+      "論文名稱": "A two-machine flowshop scheduling problem with a truncated sum of processing-times- based learning function",
+      "期刊名稱": "Applied Mathematical Modelling (SCIE)",
+      "作者群": "C.-C. Wu, W.H. Wu, P.-H. Hsu, K. Lai *"
+    },
+    {
+      "論文名稱": "A generalization model of learning and deteriorating effects on a single-machine\r\nscheduling with past-sequence-dependent setup times\r\n",
+      "期刊名稱": "International Journal of Computer Integrated Manufacturing (SCIE)",
+      "作者群": "Y. Yin, D. Xu, S.-R. Cheng, C.-C. Wu*"
+    },
+    {
+      "論文名稱": "Ant colony algorithms for a two-agent scheduling with sum-of processing times-based learning and deteriorating considerations",
+      "期刊名稱": "Journal of Intelligent Manufacturing (SCIE)",
+      "作者群": "W.-H. Wu, S.-R. Cheng, C.-C. Wu, Y Yin*"
+    },
+    {
+      "論文名稱": "Common due date assignment and scheduling with a rate-modifying activity to minimize the due date, earliness, tardiness, holding, and batch delivery costs",
+      "期刊名稱": "Computers & Industrial Engineering (SCIE)",
+      "作者群": "Y. Yin, T.C.E. Cheng, D. Xu, C.-C. Wu*"
+    },
+    {
+      "論文名稱": "Scheduling problems with two agents and a linear non-increasing deterioration to minimize earliness penalties",
+      "期刊名稱": "Information Sciences (SCIE)",
+      "作者群": "Y. Yin, S.-R. Cheng, C.-C. Wu*"
+    },
+    {
+      "論文名稱": "The single-machine total weighted tardiness scheduling problem with position-based learning effects",
+      "期刊名稱": "Computers & Operations Research (SCIE)",
+      "作者群": "Y. Yin, C.C. Wu*, W.H. Wu, S.R. Cheng"
+    },
+    {
+      "論文名稱": "An investigation on a  two-agent single-machine  scheduling problem with\r\nunequal release dates\r\n",
+      "期刊名稱": "Computers & Operations Research (SCIE)",
+      "作者群": "Y. Yin, W.-H., Wu, S.-R. Cheng, C,-C, Wu"
+    },
+    {
+      "論文名稱": "Single-machine scheduling with logarithm deterioration",
+      "期刊名稱": "Optimization Letters (SCIE)",
+      "作者群": "P.J. Lai, C.-C. Wu, W.-C. Lee*"
+    },
+    {
+      "論文名稱": "Some polynomial solvable single-machine scheduling problems with a truncation sum-of-processing-times based learning effect",
+      "期刊名稱": "European Journal of Industrial Engineering (SCIE)",
+      "作者群": "C.-C. Wu, Y. Yin*, W.-H. Wu, S.-R. Cheng"
+    },
+    {
+      "論文名稱": "Two-machine flowshop scheduling with truncated learning to minimize the total completion time",
+      "期刊名稱": "Computers & Industrial Engineering (SCIE)",
+      "作者群": "D.-C. Li, P.-H. Hsu*, C.-C. Wu, T.C.E. Cheng"
+    },
+    {
+      "論文名稱": "Some single-machine and flowshop scheduling problems with a non-linear deterioration function",
+      "期刊名稱": "Computers and Mathematics with Applications (SCIE)",
+      "作者群": "W.-C. Lee, P.J. Lai, C.-C. Wu"
+    },
+    {
+      "論文名稱": "Two-agent scheduling with learning consideration",
+      "期刊名稱": "Computers & Industrial Engineering (SCIE)",
+      "作者群": "C.C.Wu,S.-K.Huang,W.=C.Lee"
+    },
+    {
+      "論文名稱": "Two-agent scheduling with position- based deteriorating jobs and learning effects",
+      "期刊名稱": "Applied Mathematics and Computation (SCIE)",
+      "作者群": "T.C.E. Cheng, W.H. Wu, S.R. Cheng, C.-C. Wu"
+    },
+    {
+      "論文名稱": "Simulated-annealing heuristics for the single-machine scheduling problem with learning and unequal job release times",
+      "期刊名稱": "Journal of Manufacturing Systems (SCIE)",
+      "作者群": "C.-C. Wu*, P.-H. Hsu(碩), K. Lai"
+    },
+    {
+      "論文名稱": "Some single-machine scheduling problems with a truncation learning effect",
+      "期刊名稱": "Computers & Industrial Engineering (SCIE)",
+      "作者群": "C.-C. Wu , Y. Yin*, S.-R. Cheng"
+    },
+    {
+      "論文名稱": "A two-agent single- machine scheduling problem with truncated sum- of- processing-times-based learning considerations",
+      "期刊名稱": "Computers & Industrial Engineering (SCIE)",
+      "作者群": "T.C.E. Cheng, S.R. Cheng, W.H. Wu, P.H. Hsu(碩), C.-C. Wu"
+    },
+    {
+      "論文名稱": "Branch-and-bound and simulated annealing algorithms for a total weighted completion time scheduling with ready times and learning effect",
+      "期刊名稱": "International Journal of Advanced Manufacturing Technology (SCIE)",
+      "作者群": "C.-C. Wu*, P.-H. Hsu (碩), J.C. Chen, N.-S. Wang, W.-H. Wu"
+    },
+    {
+      "論文名稱": "Single- machine scheduling of proportionally deteriorating jobs by two agents",
+      "期刊名稱": "Journal of the Operation Research Society (SCIE)",
+      "作者群": "S. Gawiejnowicz, W.-C. Lee, C.-L. Lin (碩), C.-C. Wu"
+    },
+    {
+      "論文名稱": "Simulated annealing algorithms for the two-machine makespan flowshop scheduling with truncated learning consideration",
+      "期刊名稱": "International Journal of Industrial Engineering - Theory, Ap (SCIE)",
+      "作者群": "C.C. Wu, J.C. Chen, W.H. Wu, P.H. Hsu (碩), W.H. Wu"
+    },
+    {
+      "論文名稱": "A single-machine deteriorating job scheduling problem with a non-regular criterion",
+      "期刊名稱": "Asia-Pacific Journal of Operational Research (SCIE)",
+      "作者群": "C.C. Wu, W.C. Lee*, Y.R. Shiau"
+    },
+    {
+      "論文名稱": "Genetic algorithm for minimizing the total weighted completion time scheduling problem with learning and release times",
+      "期刊名稱": "Computers & Operations Research (SCIE)",
+      "作者群": "C.-C. Wu*, P.-H. Hsu (碩), J.-C. Chen, N.-S. Wang"
+    },
+    {
+      "論文名稱": "Single-machine scheduling with deteriorating jobs and past-sequence-dependent setup times",
+      "期刊名稱": "Applied Mathematical Modelling (SCIE)",
+      "作者群": ".C.E. Cheng, W.C. Lee*, C.C. Wu"
+    },
+    {
+      "論文名稱": "A two-machine flowshop problem with two agents",
+      "期刊名稱": "Computers & Operations Research (SCIE)",
+      "作者群": "W.-C. Lee, S.-K. Chen(碩), C.-W. Chen, (碩), C.-C. Wu*"
+    },
+    {
+      "論文名稱": "Simulated-annealing Heuristics for the Single-machine Scheduling Problem with Learning and Unequal Job Release Time",
+      "期刊名稱": "Journal of Manufacturing Syste (SCIE)",
+      "作者群": "Chin-Chia Wu*, Peng-Hsiang Hsu, and Kunjung Lai"
+    },
+    {
+      "論文名稱": "Single-machine scheduling with deteriorating functions for job processing times",
+      "期刊名稱": "Applied Mathematical Modelling (SCIE)",
+      "作者群": "T.C.E. Cheng, W.C. Lee, C.C. Wu*"
+    },
+    {
+      "論文名稱": "A single-machine scheduling problem with two-agent and deteriorating jobs",
+      "期刊名稱": "Applied Mathematical Modelling (SCIE)",
+      "作者群": "Lee,W.C.,Wang,W.J.,Shiau,Y.R.and Wu,C.C."
+    },
+    {
+      "論文名稱": "Minimizing the makespan on a single machine with learning and unequal release times",
+      "期刊名稱": "Computers & Industrial Engineering (SCIE)",
+      "作者群": "C.C. Wu*, C.-L. Liu (碩)"
+    },
+    {
+      "論文名稱": "A single-machine learning effect scheduling problem with release times.",
+      "期刊名稱": "Omega (SCIE)",
+      "作者群": "W.C. Lee, C.C. Wu*, P.H. Hsu (碩)"
+    },
+    {
+      "論文名稱": "Erratum to 'Some single-machine and m-machine flowshop scheduling problems with learning considerations' [Information Sciences 179 (2009) 3885-3892]",
+      "期刊名稱": "Information Sciences (SCIE)",
+      "作者群": "W.-C. Lee, P.-J. Lai, C.-C. Wu*"
+    },
+    {
+      "論文名稱": "A note on optimal policies for two group scheduling problems with deteriorating setup and processing times",
+      "期刊名稱": "Computers & Industrial Engineering (SCIE)",
+      "作者群": "W.C. Lee, C.C. Wu*"
+    },
+    {
+      "論文名稱": "Branch-and-bound and simulated annealing algorithms for a two-agent scheduling problem",
+      "期刊名稱": "Expert Systems with Applications (SCIE)",
+      "作者群": "W.C. Lee, S.K. Chen, C.C. Wu*"
+    },
+    {
+      "論文名稱": "Erratum to 'Single-machine and flowshop scheduling with a general learning effect model'",
+      "期刊名稱": "Computers & Industrial Engineering (SCIE)",
+      "作者群": "W.-C. Lee, P.-J. Lai, C.-C. Wu*"
+    },
+    {
+      "論文名稱": "A branch-and-bound and heuristic algorithm for the single-machine time-dependent scheduling problem.",
+      "期刊名稱": "International Journal of Advanced Manufacturing Technology (SCIE)",
+      "作者群": "W.C. Lee, Y. S. Lin, and C.C. Wu"
+    },
+    {
+      "論文名稱": "A two-machine flowshop scheduling problem with deteriorating jobs and blocking.",
+      "期刊名稱": " International Journal of Production Economics (SCIE)",
+      "作者群": "W.C. Lee, Y.R. Shiau, S.K. Chen, and C.C. Wu*"
+    },
+    {
+      "論文名稱": "Scheduling problems with deteriorating jobs and learning effects including proportional setup times",
+      "期刊名稱": "Computers & Industrial Engineering (SCIE)",
+      "作者群": "T.C.E. Cheng*, C.C. Wu, and W.C. Lee"
+    },
+    {
+      "論文名稱": "Branch-and-bound and weight-combination search algorithms for the total completion time problem with step-deteriorating jobs",
+      "期刊名稱": "Journal of the Operation Research Society (SCIE)",
+      "作者群": "C.C. He, C.C. Wu, and W.C. Lee*"
+    },
+    {
+      "論文名稱": "Some single-machine and m-machine flowshop scheduling problems with learning considerations.",
+      "期刊名稱": "Information Sciences (SCIE)",
+      "作者群": "W.C. Lee, and C.C. Wu*"
+    },
+    {
+      "論文名稱": "Scheduling deteriorating jobs to minimize the makespan on a single machine",
+      "期刊名稱": "International Journal of Advanced Manufacturing Technology (SCIE)",
+      "作者群": "C.C. Wu, Y.R. Shiau, L.H. Lee, and W.C. Lee"
+    },
+    {
+      "論文名稱": "A single-machine bi-criterion learning scheduling problem with release time.",
+      "期刊名稱": "Expert Systems with Applications (SCIE)",
+      "作者群": "W.C Lee, C.C. Wu*, and M.F. Liu"
+    },
+    {
+      "論文名稱": "Single-machine scheduling with sum-of-logarithm-processing-times-based learning considerations.",
+      "期刊名稱": "Information Sciences (SCIE)",
+      "作者群": "T.C.E. Cheng, Peng-Jen Lai, Chin-Chia Wu, and Wen-Chiung Lee"
+    },
+    {
+      "論文名稱": "A deteriorating jobs problem with quadratic function of job lateness",
+      "期刊名稱": "Computers & Industrial Engineering (SCIE)",
+      "作者群": "Y.-H. Chung, H.-C. Liu, C.-C. Wu, W.-C. Lee"
+    },
+    {
+      "論文名稱": "Minimizing the total completion time in permutation flow shop with machine-dependent job deterioration rates.",
+      "期刊名稱": "Computers and Operations Research (SCIE)",
+      "作者群": "W.C. Lee, C.C. Wu*, Y.H. Chung and H.C. Liu"
+    },
+    {
+      "論文名稱": "Single-machine and flowshop scheduling with a general learning effect model.",
+      "期刊名稱": "Computers & Industrial Engineering (SCIE)",
+      "作者群": "C.C. Wu, and W.C. Lee*"
+    },
+    {
+      "論文名稱": "A note on single-machine group scheduling problems with position-based learning effect",
+      "期刊名稱": "Applied Mathematical Modelling (SCIE)",
+      "作者群": " Wen-Chiung Lee and Chin-Chia Wu"
+    },
+    {
+      "論文名稱": "A note on single-machine makespan problem with general deteriorating function",
+      "期刊名稱": "The International Journal of Advanced Manufacturing Technolo (SCIE)",
+      "作者群": "Wen-Chiung Lee, Chin-Chia Wu, and Han-Chu Liu"
+    },
+    {
+      "論文名稱": "A note on the total completion time problem in a permutation flowshop with a learning effect.",
+      "期刊名稱": "European Journal of Operational Research (SCIE)",
+      "作者群": "C.C. Wu, and W.C. Lee*"
+    },
+    {
+      "論文名稱": "A note on single-machine group scheduling problem with a general learning function.",
+      "期刊名稱": "Journal of Statistics & Management Systems ()",
+      "作者群": "H.C. Liu, W.C. Lee and C.C. Wu*"
+    },
+    {
+      "論文名稱": "Single-machine group scheduling problems with deteriorating setup times and job processing times",
+      "期刊名稱": "International Journal of Production Economics (SCIE)",
+      "作者群": "C.C. Wu, and W.C. Lee*"
+    },
+    {
+      "論文名稱": "Some scheduling problems with sum-of-processing -times-based and job-position-based learning effects.",
+      "期刊名稱": "Information Sciences (SCIE)",
+      "作者群": "T.C.E. Cheng*, C.C. Wu, and W.C. Lee"
+    },
+    {
+      "論文名稱": "Some scheduling problems with deteriorating jobs and learning effects.",
+      "期刊名稱": "Computers & Industrial Engineering (SCIE)",
+      "作者群": "T.C.E. Cheng, C.C. Wu, and W.C. Lee"
+    },
+    {
+      "論文名稱": "A two-machine flowshop makespan scheduling problem with deteriorating jobs.",
+      "期刊名稱": "Computers & Industrial Engineering (SCIE)",
+      "作者群": "W.C. Lee, C.C. Wu*, C.C. Wen, and Y.H. Chung"
+    },
+    {
+      "論文名稱": "Single-machine scheduling problems with a learning effect.",
+      "期刊名稱": "Applied Mathematical Modelling (SCIE)",
+      "作者群": "C.C. Wu, and W.C. Lee"
+    },
+    {
+      "論文名稱": "Single-Machine Group Scheduling Problems with Deterioration Consideration",
+      "期刊名稱": "Computers and Operations Research (SCIE)",
+      "作者群": "Wu, C.C., Shiau, Y.R., and Lee, W.C."
+    },
+    {
+      "論文名稱": "Scheduling deteriorating jobs on a single machine with release times.",
+      "期刊名稱": "Computers & Industrial Engineering (SCIE)",
+      "作者群": "W.C. Lee, C.C. Wu* and Y.H. Chung"
+    },
+    {
+      "論文名稱": "Multi-machine scheduling with deteriorating jobs and scheduled maintenance.",
+      "期刊名稱": "Applied Mathematical Modelling (SCIE)",
+      "作者群": "W.C. Lee and C.C. Wu*"
+    },
+    {
+      "論文名稱": "Two-machine flowshop scheduling to minimize mean flow time under simple linear deterioration",
+      "期刊名稱": "International Journal of Advanced Manufacturing Technology (SCIE)",
+      "作者群": "Shiau, Y. R., Lee, W. C., Wu, C. C., and Chang, C. M"
+    },
+    {
+      "論文名稱": "Heuristic algorithms for solving the maximum lateness scheduling problem with learning considerations.",
+      "期刊名稱": "Computers and Industrial Engineering (SCIE)",
+      "作者群": "C.C. Wu, W.C. Lee, and T. Chen"
+    },
+    {
+      "論文名稱": "Minimizing the total weighted completion time on a single machine under linear deterioration",
+      "期刊名稱": "International Journal of Advanced Manufacturing Technology (SCIE)",
+      "作者群": "C.C. Wu, W.C. Lee, and Y.R. Shiau"
+    },
+    {
+      "論文名稱": "A note on single-machine scheduling with learning effect and an availability constraint",
+      "期刊名稱": "International Journal of Advanced Manufacturing Technology (SCIE)",
+      "作者群": "C.C. Wu and W.C. Lee"
+    },
+    {
+      "論文名稱": "A two-machine flowshop maximum tardiness scheduling problem with a learning effect",
+      "期刊名稱": "International Journal of Advanced Manufacturing Technology (SCIE)",
+      "作者群": "C.C. Wu, W.C. Lee, and W.C. Wang"
+    },
+    {
+      "論文名稱": "A simulated annealing approach to makespan minimization on identical parallel machines",
+      "期刊名稱": "International Journal of Advanced Manufacturing Technology (SCIE)",
+      "作者群": "W.C. Lee, C.C. Wu, and P. Chen"
+    },
+    {
+      "論文名稱": "Two-machine flowshop scheduling to minimize mean flow time under linear deterioration",
+      "期刊名稱": "International Journal of Production Economics (SCIE)",
+      "作者群": "C.C. Wu and W.C. Lee"
+    },
+    {
+      "論文名稱": "A bi-criteria two-machine flowshop scheduling problem with a learning effect",
+      "期刊名稱": "Journal of the Operation Research Society (SCIE)",
+      "作者群": "P. Chen, C.C. Wu*, and W.C. Lee"
+    },
+    {
+      "論文名稱": "Single machine scheduling to minimize the setup time and the earliness",
+      "期刊名稱": "Journal of Information & Optimization Sciences (EI)",
+      "作者群": "C.C. Wu and W.C. Lee"
+    },
+    {
+      "論文名稱": "The development of a solution to the single-machine total weighted completion time problem with a learning effect",
+      "期刊名稱": "International Journal of Management ()",
+      "作者群": "C.C. Wu"
+    },
+    {
+      "論文名稱": "A single-machine group schedule with fuzzy setup and processing times",
+      "期刊名稱": "Journal of Information & Optimization Sciences (EI)",
+      "作者群": "C.C. Wu and W.C. Lee"
+    },
+    {
+      "論文名稱": "single-machine bi-criterion scheduling problem with setup times",
+      "期刊名稱": " Journal of Statistics & Management Systems ()",
+      "作者群": "W.C. Lee and C.C. Wu"
+    },
+    {
+      "論文名稱": "A makespan study of the two-machine flowshop scheduling problem with a learning effect",
+      "期刊名稱": "Journal of Statistics & Management Systems ()",
+      "作者群": "C.C. Wu"
+    },
+    {
+      "論文名稱": "Stochastic group scheduling problems on single and multiple machines",
+      "期刊名稱": "Journal of Statistics & Management Systems ()",
+      "作者群": " J.C.H. Pan and C.C. Wu"
+    },
+    {
+      "論文名稱": "A bi-criterion single-machine scheduling problem with learning considerations",
+      "期刊名稱": "Acta Informatica (SCIE)",
+      "作者群": "W.C. Lee, C.C. Wu, and H.J. Sung"
+    },
+    {
+      "論文名稱": "Minimizing total completion time in a two-machine flowshop with a learning effect",
+      "期刊名稱": "International Journal of Production Economics (SCIE)",
+      "作者群": "W.C. Lee and C.C. Wu"
+    },
+    {
+      "論文名稱": "A comparative Study of Loss Reserve Methods through Simulations",
+      "期刊名稱": "保險專刊 ()",
+      "作者群": "張嘉銘、李文炯（統計系）、吳進家（統計系）"
+    },
+    {
+      "論文名稱": "Scheduling linear deteriorating jobs to minimize makespan with an available constraint on a single machine",
+      "期刊名稱": "Information Processing Letters (SCIE)",
+      "作者群": "Chin-Chia Wu and Wen-Chiung Lee"
+    },
+    {
+      "論文名稱": "Minimizing the total flow time and the tardiness in a two-machine flow shop",
+      "期刊名稱": "International Journal of Systems Sceince (SCIE)",
+      "作者群": "Wen-Chiung Lee and Chin-Chia Wu"
+    },
+    {
+      "論文名稱": "Trade-off solution in a single-machine scheduling problem for minimizing total earliness and maximum tardiness.",
+      "期刊名稱": "International Journal of Systems Sceince (SCIE)",
+      "作者群": "Chin-Chia Wu, Wen-Chiung Lee, and Juinn-Ming You"
+    },
+    {
+      "論文名稱": "準備金、解約金、預定利率之修改對國內新設壽險公司營運狀況之分析",
+      "期刊名稱": "壽險季刊 ()",
+      "作者群": "李文炯、吳進家、朱漢農"
+    },
+    {
+      "論文名稱": "我國傳統型壽險保單之投資報酬率",
+      "期刊名稱": "保險專刊 ()",
+      "作者群": "李文炯、吳進家、林玉竹"
+    },
+    {
+      "論文名稱": "Single machine group scheduling to minimize mean flow time subject to due date constraints",
+      "期刊名稱": "Production Planning & control (SCIE)",
+      "作者群": "Jason Chao-Hsien Pan and Chin-Chia Wu"
+    },
+    {
+      "論文名稱": "An Asymptotic Two-Phase Algorithm to Minimize Total Flow Time for a Two-Machine Flowshop",
+      "期刊名稱": "International Journal of Systems Science (SCIE)",
+      "作者群": "Jason Chao-Hsien Pan and Chin-Chia Wu"
+    }
+  ],
+  "journal2": [],
+  "conference": [
+    {
+      "論文名稱": "Minimizing the order tardiness for a single-machine multiple-class customer order jobs problem by applying three meta-heuristics.",
+      "會議名稱": "The 22nd APIEMS Conference, APIEMS2022,",
+      "作者群": "K.-X. Hu,Win-Chin Lin, C.-C. Wu"
+    },
+    {
+      "論文名稱": "Solving a Two-stage Three-machine Flowshop Assembly Scheduling Problem with Learning Consideration",
+      "會議名稱": "2018 3rd International Conference on Education, Management, and Systems Engineering (EMSE2018)",
+      "作者群": "Win-Chin LIN, S.-R CHENG, K.-C. TSAI, S.-C. LIU, C.-T. LIN2 and C.-C. WU"
+    },
+    {
+      "論文名稱": "Simulated Annealing with four Different Initials for m-machine Scheduling Problems",
+      "會議名稱": "International Conference on Social Science (CONFSS)",
+      "作者群": "Win-Chin Lin, Yuan-Po Chao, Cheng-Hsiung Shih, Yi-Tang Chiou, Shuenn-Ren Cheng, Chin-Chia Wu"
+    },
+    {
+      "論文名稱": "A Genetic Algorithm and a Largest-order-value Method for the Two-machine Flowshop Scheduling Problem to Minimize the Total Tardiness",
+      "會議名稱": "International Symposium on Business, Banking, Marketing and Economy",
+      "作者群": "Wei-Chieh Liang, Chih-Hou Wen, Win-Chin Lin, Cheng-Hsiung Shin, Chin-Chia Wu,Shuenn-Ren Cheng"
+    },
+    {
+      "論文名稱": "生產系統中同時伴隨著學習效果與退化現象若干單機問題最佳化之研究",
+      "會議名稱": "國科會96年度工業工程學門研究專題研究計劃成果發表光碟論文集",
+      "作者群": "吳進家"
+    }
+  ],
+  "book": [
+    {
+      "專業書籍": "Genetic algorithm-based heuristic for single-machine scheduling problem with learning and release ti",
+      "出版單位": "自行出版",
+      "作者群": "Kunjung Lai; Peng-Hsiang Hsu; C.-C. Wu"
+    },
+    {
+      "專業書籍": "以模擬退火法來找出在具有學習效果下的單機排程中使得最大遲誤時間達到最小化",
+      "出版單位": "計畫編號:NSC- 92-2213-E-035-02",
+      "作者群": "吳進家著"
+    },
+    {
+      "專業書籍": "在機器受限下退化工作單機排成之探討",
+      "出版單位": "計畫編號:NSC-90-2218-E-035-008",
+      "作者群": "吳進家著"
+    },
+    {
+      "專業書籍": "在單機模型下期望遲誤最小化的研究",
+      "出版單位": "計畫編號:NSC-88-2213-E-035-024",
+      "作者群": "吳進家"
+    },
+    {
+      "專業書籍": "生產排程中流程時間排序方法之研究",
+      "出版單位": "自行出版",
+      "作者群": "吳進家著"
+    }
+  ],
+  "patent": [],
+  "most": [
+    {
+      "name": "邀請亞拉巴馬州亨茨維爾大學商學院 JATINDER N. D. GUPTA教授",
+      "schoolYear": "112"
+    },
+    {
+      "name": "探討具有學習日程下雙機台流線型與兩階段機台三機台組合排程問題之研究(2/2)",
+      "schoolYear": "113"
+    },
+    {
+      "name": "(註銷)邀請UAH JATINDER N. D. GUPTA教授",
+      "schoolYear": "112"
+    },
+    {
+      "name": "探討具有學習日程下雙機台流線型與兩階段機台三機台組合排程問題之研究(1/2)",
+      "schoolYear": "112"
+    },
+    {
+      "name": "多重工作類別訂單的雙(三)目標函數準則排程問題之研究(2/2)",
+      "schoolYear": "111"
+    },
+    {
+      "name": "多重工作類別訂單的雙(三)目標函數準則排程問題之研究(1/2)",
+      "schoolYear": "110"
+    },
+    {
+      "name": "兩個情境下的單機排程問題之研究",
+      "schoolYear": "109"
+    },
+    {
+      "name": "邀請大陸地區暨香港澳門科技人士來台短期訪問(白丹宇先生)",
+      "schoolYear": "108"
+    },
+    {
+      "name": "邀請大陸地區暨香港澳門科技人士來台短期訪問(殷允強先生)",
+      "schoolYear": "108"
+    },
+    {
+      "name": "以超啟發式方法求解一個穩健的兩階段三機台流線型多場景調度的問題",
+      "schoolYear": "108"
+    },
+    {
+      "name": "生產系統中若干多部機台訂購單排程問題最佳化之研究(3/3)",
+      "schoolYear": "107"
+    },
+    {
+      "name": "生產系統中若干多部機台訂購單排程問題最佳化之研究(2/3)",
+      "schoolYear": "106"
+    },
+    {
+      "name": "邀請大陸地區暨香港澳門科技人士來台短期訪問(張新功先生)",
+      "schoolYear": "105"
+    },
+    {
+      "name": "生產系統中若干多部機台訂購單排程問題最佳化之研究(1/3)",
+      "schoolYear": "105"
+    },
+    {
+      "name": "邀請大陸地區暨香港澳門科技人士來台短期訪問(張新功)",
+      "schoolYear": "104"
+    },
+    {
+      "name": "邀請大陸地區暨香港澳門科技人士來台短期訪問(季平)",
+      "schoolYear": "104"
+    },
+    {
+      "name": "工作件具優先約束下雙部流線型機台調度研究(2/2)",
+      "schoolYear": "104"
+    },
+    {
+      "name": "生產系統中考慮流線型工廠兼具學習效果與迴流特性排程問題最佳化之研究(3/3)",
+      "schoolYear": "104"
+    },
+    {
+      "name": "工作件具優先約束下雙部流線型機台調度研究(1/2)",
+      "schoolYear": "103"
+    },
+    {
+      "name": "生產系統中考慮流線型工廠兼具學習效果與迴流特性排程問題最佳化之研究(2/3)",
+      "schoolYear": "103"
+    },
+    {
+      "name": "兼具以機器效率與持有成本為目標之平行機台調度研究",
+      "schoolYear": "102"
+    },
+    {
+      "name": "生產系統中考慮流線型工廠兼具學習效果與迴流特性排程問題最佳化之研究(1/3)",
+      "schoolYear": "102"
+    },
+    {
+      "name": "生產系統中具經驗學習效果模型且伴隨著不同工作件到達時間下若干排程問題最佳化之研究(3/3)",
+      "schoolYear": "101"
+    },
+    {
+      "name": "生產系統中考慮兩個代理商兼具學習效果與退化效果模型排程問題最佳化之研究",
+      "schoolYear": "100"
+    },
+    {
+      "name": "生產系統中具經驗學習效果模型且伴隨著不同工作件到達時間下若干排程問題最佳化之研究(2/3)",
+      "schoolYear": "100"
+    },
+    {
+      "name": "生產系統中具經驗學習效果模型且伴隨著不同工作件到達時間下若干排程問題最佳化之研究(1/3)",
+      "schoolYear": "99"
+    },
+    {
+      "name": "生產系統中在具自然對數函數之學習效果與退化現象下且伴隨著事後序列相依的設置時間排程問題最佳化之研究(2/2)",
+      "schoolYear": "98"
+    },
+    {
+      "name": "生產系統中在具自然對數函數之學習效果與退化現象下且伴隨著事後序列相依的設置時間排程問題最佳化之研究(1/2)",
+      "schoolYear": "97"
+    },
+    {
+      "name": "生產系統中同時伴隨著學習效果與退化現象若干單機問題最佳化之研究",
+      "schoolYear": "96"
+    },
+    {
+      "name": "生產系統之流程工廠伴隨著學習效果下最大完工時間最小化之研究",
+      "schoolYear": "95"
+    },
+    {
+      "name": "發展在具有學習效果的多部機器生產環境下之平均流程時間極小化的演算法",
+      "schoolYear": "94"
+    },
+    {
+      "name": "以模擬退火演算法來找出在具有學習效果下的單機排程中使得最大遲誤時間達到最小化之解",
+      "schoolYear": "92"
+    },
+    {
+      "name": "在機器受限環境下退化工作單機排程之探討",
+      "schoolYear": "90"
+    },
+    {
+      "name": "在單機模型下期望遲誤最小化的研究",
+      "schoolYear": "87"
+    }
+  ],
+  "tech": [],
+  "induAca": [],
+  "perform": [],
+  "reward": [
+    "113年度國科會補助大專校院研究獎勵 (113, 2024-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (113, 2024-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (113, 2024-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (113, 2024-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (113, 2024-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優等獎 (113, 2024-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (113, 2024-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (113, 2024-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優等獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優等獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (111, 2022-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (111, 2022-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (111, 2022-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (111, 2022-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (110, 2021-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (110, 2021-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (110, 2021-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (110, 2021-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (110, 2021-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (110, 2021-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (110, 2021-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (110, 2021-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (110, 2021-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (110, 2021-11) - 逢甲大學",
+    "110年度科技部補助大專校院研究獎勵 (110, 2021-10) - 產學合作處",
+    "逢甲大學論文著作獎勵傑出獎 (109, 2020-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (109, 2020-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (109, 2020-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (109, 2020-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (109, 2020-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (109, 2020-11) - 逢甲大學",
+    "109年度科技部補助大專校院研究獎勵 (109, 2020-10) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (108, 2019-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (108, 2019-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (108, 2019-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (108, 2019-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (108, 2019-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (108, 2019-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (108, 2019-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (108, 2019-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (108, 2019-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (108, 2019-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (108, 2019-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (108, 2019-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (108, 2019-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (107, 2018-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (107, 2018-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (107, 2018-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (107, 2018-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (107, 2018-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (107, 2018-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (107, 2018-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (107, 2018-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (107, 2018-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (107, 2018-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (107, 2018-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (107, 2018-11) - 逢甲大學",
+    "107年度科技部補助大專校院研究獎勵 (107, 2018-08) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (106, 2017-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (106, 2017-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (106, 2017-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (106, 2017-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (106, 2017-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (106, 2017-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (106, 2017-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (106, 2017-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (106, 2017-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (106, 2017-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (106, 2017-11) - 逢甲大學",
+    "106年度科技部獎勵特殊優秀人才 (106, 2017-08) - 產學合作處",
+    "逢甲大學論文著作獎勵傑出獎 (105, 2016-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (105, 2016-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (105, 2016-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (105, 2016-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (105, 2016-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (105, 2016-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (105, 2016-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (105, 2016-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (105, 2016-11) - 逢甲大學",
+    "105年度科技部獎勵特殊優秀人才 (105, 2016-08) - 產學合作處",
+    "逢甲大學論文著作獎勵傑出獎 (104, 2015-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (104, 2015-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (104, 2015-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (104, 2015-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (104, 2015-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (104, 2015-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (104, 2015-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (104, 2015-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (104, 2015-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (104, 2015-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (104, 2015-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (104, 2015-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (104, 2015-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (104, 2015-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (104, 2015-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (104, 2015-11) - 逢甲大學",
+    "104年度科技部獎勵特殊優秀人才 (104, 2015-08) - 產學合作處",
+    "逢甲大學論文著作獎勵傑出獎 (103, 2014-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (103, 2014-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (103, 2014-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (103, 2014-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (103, 2014-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (103, 2014-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (103, 2014-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (103, 2014-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (103, 2014-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (103, 2014-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (103, 2014-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (103, 2014-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (103, 2014-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (103, 2014-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (103, 2014-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (103, 2014-11) - 逢甲大學",
+    "103年度科技部獎勵特殊優秀人才 (103, 2014-08) - 研究發展處",
+    "逢甲大學論文著作獎勵傑出獎 (102, 2013-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (102, 2013-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (102, 2013-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (102, 2013-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (102, 2013-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (102, 2013-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (102, 2013-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (102, 2013-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (102, 2013-11) - 逢甲大學",
+    "102年度科技部獎勵特殊優秀人才 (102, 2013-08) - 研究發展處",
+    "逢甲大學論文著作獎勵傑出獎 (101, 2012-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (101, 2012-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (101, 2012-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (101, 2012-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (101, 2012-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (101, 2012-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (101, 2012-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (101, 2012-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (101, 2012-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (101, 2012-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (101, 2012-11) - 逢甲大學",
+    "101年度科技部獎勵特殊優秀人才 (101, 2012-08) - 研究發展處",
+    "逢甲大學論文著作獎勵傑出獎 (100, 2011-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (100, 2011-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (100, 2011-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (100, 2011-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (100, 2011-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (100, 2011-11) - 逢甲大學",
+    "100年度科技部獎勵特殊優秀人才 (100, 2011-08) - 研究發展處",
+    "逢甲大學論文著作獎勵傑出獎 (99, 2010-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (99, 2010-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (99, 2010-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (99, 2010-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (99, 2010-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (99, 2010-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (99, 2010-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (99, 2010-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (99, 2010-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (99, 2010-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (99, 2010-11) - 逢甲大學",
+    "99年度科技部獎勵特殊優秀人才 (99, 2010-10) - 研究發展處",
+    "逢甲大學論文著作獎勵傑出獎 (98, 2009-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (98, 2009-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (98, 2009-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (98, 2009-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (98, 2009-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (97, 2008-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (97, 2008-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (97, 2008-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (96, 2007-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (96, 2007-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (96, 2007-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (96, 2007-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (95, 2006-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (95, 2006-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (95, 2006-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (94, 2005-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (94, 2005-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (94, 2005-11) - 逢甲大學",
+    "學術著作類優等獎 (93, 2004-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (93, 2004-11) - 逢甲大學",
+    "學術著作類優等獎 (89, 2000-11) - 逢甲大學",
+    "學術著作類優等獎 (87, 1998-11) - 逢甲大學",
+    "學術著作類優等獎 (85, 1996-11) - 逢甲大學"
+  ],
+  "speech": [],
+  "material": [],
+  "tal": []
+}

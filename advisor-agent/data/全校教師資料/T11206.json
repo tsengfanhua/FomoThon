@@ -1,0 +1,88 @@
+{
+  "teacherId": "T11206",
+  "name": "陳耀鐘",
+  "mainUnit": "創能學院",
+  "detailUnit": "創能學院",
+  "skill": [
+    "人工智慧技術與應用AI T&A",
+    "智慧影像識別Smart Image Recognition",
+    "自然語言處理NLP",
+    "數據建模與預測Data Modeling and Prediction",
+    "智慧城市Smart City",
+    "數位孿生DT",
+    "導航與定位Navigation and Positioning",
+    "地理資訊系統GIS"
+  ],
+  "edu": [
+    "國立中興大學 土木工程學系 博士",
+    "國立中興大學 土木工程學系 碩士",
+    "國防大學 測繪工程學系 學士"
+  ],
+  "fcuExp": [
+    "土地管理學系 兼任助理教授",
+    "地理資訊系統研究中心 博士後研究人員",
+    "地理資訊系統研究中心 研究副教授",
+    "創能學院 助理教授"
+  ],
+  "currjob": [],
+  "otherExp": [
+    "天思數位科技股份有限公司 科技管理室 博士後研究",
+    "國防部軍備局生產製造中心 研發設計室 研究發展主任"
+  ],
+  "journal": [
+    {
+      "論文名稱": "Enhanced fish species classification using dynamic multilayer perceptron and transformer encoders with extra distribution data",
+      "期刊名稱": "Multimedia Tools and Applications (SCIE)",
+      "作者群": "Mei-Hsin Chen, Ting-Hsuan Lai*, Yao-Chung Chen, Tien-Yin Chou"
+    },
+    {
+      "論文名稱": "Synthetic Data-Driven Real-Time Detection Transformer Object Detection in Raining Weather Conditions",
+      "期刊名稱": "Applied Sciences (SCIE)",
+      "作者群": "Hao C-Y, Chen Y-C*, Chen T-T, Lai T-H, Chou T-Y, Ning F-S, Chen M-H."
+    },
+    {
+      "論文名稱": "Using Sparse Parts in Fused Information to Enhance Performance in Latent Low-Rank Representation-Based Fusion of Visible and Infrared Images",
+      "期刊名稱": "Sensors (SCIE)",
+      "作者群": "Chen-Yu Hao , Yao-Chung Chen*, Fang-Shii Ning, Tien-Yin Chou and Mei-Hsin Chen"
+    },
+    {
+      "論文名稱": "Machine Learning-Based Modeling of PM2.5 Concentration: A Case Study in Taichung \nCity",
+      "期刊名稱": "Journal of Chung Cheng Institute of Technology (EI)",
+      "作者群": "Tai-Tien Chen, Mei-Hsin Chen, Tien-Yin Chou, Yao-Chung Chen* and Fang-Shii Ning"
+    },
+    {
+      "論文名稱": "PM2.5 Concentration Prediction Model: A CNN–RF Ensemble Framework",
+      "期刊名稱": "Int. J. Environ. Res. Public Health (SCIE)",
+      "作者群": "Mei-Hsin Chen, Yao-Chung Chen, Tien-Yin Chou, Fang-Shii Ning"
+    },
+    {
+      "論文名稱": "Combination of VSLAM and a Magnetic Fingerprint Map to Improve Accuracy of Indoor Positioning",
+      "期刊名稱": "Sensors (SCIE)",
+      "作者群": "Fang-Shii Ning, Mei-Hsin Chen, Shan-Gjie Lee, Yao-Chung Chen"
+    },
+    {
+      "論文名稱": "An LS-MARS method for modeling regional 3D ionospheric electron density based on GPS data and IRI",
+      "期刊名稱": "Advances in Space Research (SCIE)",
+      "作者群": "Szu-Pyng Kao, Yao-Chung Chen, Fang-Shii Ning, Yuh-Min Tu"
+    },
+    {
+      "論文名稱": "A MARS-based method for estimating regional 2-D ionospheric VTEC and receiver differential code bias",
+      "期刊名稱": "Advances in Space Research (SCIE)",
+      "作者群": "Szu-Pyng Kao, Yao-Chung Chen, Fang-Shii Ning"
+    }
+  ],
+  "journal2": [],
+  "conference": [],
+  "book": [],
+  "patent": [],
+  "most": [],
+  "tech": [],
+  "induAca": [
+    "113年度以Data Cube技術優化數值地形模型資料管理及應用服務試辦案 (2024-05 to 2024-12)"
+  ],
+  "perform": [],
+  "reward": [],
+  "speech": [],
+  "material": [],
+  "tal": []
+}

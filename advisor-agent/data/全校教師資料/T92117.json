@@ -1,0 +1,427 @@
+{
+  "teacherId": "T92117",
+  "name": "劉宗杰",
+  "mainUnit": "資訊電機學院",
+  "detailUnit": "資訊工程學系",
+  "skill": [
+    "分散式系統Distributed System",
+    "網路安全Network Security",
+    "自我穩定系統Self-Stabilizing System",
+    "大數據分析Big Data Analysis"
+  ],
+  "edu": [
+    "國立清華大學 資訊工程研究所 博士",
+    "國立清華大學 數學系應用數學組 學士"
+  ],
+  "fcuExp": [
+    "資通安全研究中心 副主任",
+    "資訊處 研究員",
+    "系統維運組 組長",
+    "資通安全研究中心 副主任",
+    "資源管理中心 主任",
+    "教學科技組 組長",
+    "資訊處 資訊長",
+    "資通安全研究中心 主任",
+    "資訊處 資訊長",
+    "資通安全研究中心 主任",
+    "資訊工程學系 助理教授",
+    "資訊工程學系 副教授",
+    "資訊工程學系 教授"
+  ],
+  "currjob": [],
+  "otherExp": [
+    "工研院 電通所 設計工程師",
+    "國立清華大學 資工系 兼任講師"
+  ],
+  "journal": [
+    {
+      "論文名稱": "Adversarial Attacks on Network Intrusion Detection Systems Using Flow Containers",
+      "期刊名稱": "The Computer Journal (SCIE)",
+      "作者群": "Tzong-Jye Liu"
+    },
+    {
+      "論文名稱": "An Ensemble Machine Learning Botnet Detection Framework Based on Noise Filtering",
+      "期刊名稱": "Journal of Internet Technology (SCIE)",
+      "作者群": "Tzong-Jye Liu*, Tze-Shiun Lin and Ching-Wen Chen"
+    },
+    {
+      "論文名稱": "Energy-Efficient Hybrid Coherence Protocol for Multicore Processors",
+      "期刊名稱": "Cluster Computing (SCIE,EI)",
+      "作者群": "Ching-Wen Chen, An Hsia, Wong-Wei Zhan, Tzong-Jye Liu"
+    },
+    {
+      "論文名稱": "A Cost- and Energy-Efficient Embedded System Design Based on Instruction Execution Frequencies",
+      "期刊名稱": "Journal of the Chinese Institute of Engineers (SCIE,EI)",
+      "作者群": "An Hsia, Ching-Wen Chen*, Chang-Jung Ku, Tzong-Jye Liu"
+    },
+    {
+      "論文名稱": "Energy-Efficient Synonym Data Detection and Consistency for Virtual Cache",
+      "期刊名稱": "Microprocessors and Microsystems (SCIE,EI)",
+      "作者群": "An Hsia, Ching-Wen Chen*, Tzong-Jye Liu"
+    },
+    {
+      "論文名稱": "A Self-Stabilizing Distance-2 Edge Coloring Algorithm",
+      "期刊名稱": "The Computer Journal (SCIE)",
+      "作者群": "Chia-Lin Lee and Tzong-Jye Liu*"
+    },
+    {
+      "論文名稱": "A Self-Adaptable Image Spam Filtering System",
+      "期刊名稱": "Journal of the Chinese Institute of Engineers (SCIE,EI)",
+      "作者群": "Tzong-Jye Liu*, Cheng-Nan Wu, Chia-Lin Lee and Ching-Wen Chen"
+    },
+    {
+      "論文名稱": "Efficient Trace File Compression Design with Locality and Address Difference",
+      "期刊名稱": "Journal of Information Science and Engineering (SCIE,EI)",
+      "作者群": "Ching-Wen Chen*, Chang-Jung Ku, Tzong-Jye Liu"
+    },
+    {
+      "論文名稱": "Adaptive Secret Sharing for Color Images",
+      "期刊名稱": "International Journal of Computational Intelligence Systems (SCIE,EI)",
+      "作者群": "Li, J. H., Lee, W. B., Ye, D., Liu, T. J., and Qin, C."
+    },
+    {
+      "論文名稱": "A Longest Prefix First Search Tree for IP Lookup",
+      "期刊名稱": "Computer Networks (SCIE)",
+      "作者群": "Lih-Chyau Wuu, Tzong-Jye Liu and Kuo-Ming Chen"
+    },
+    {
+      "論文名稱": "State-optimal alternator for uniform synchronous rings",
+      "期刊名稱": "The Computer Journal (SCIE)",
+      "作者群": "Tzong-Jye Liu and Chia-Lin Lee"
+    },
+    {
+      "論文名稱": "Randomized Three-State Alternator for Uniform Rings",
+      "期刊名稱": "Journal of Parallel and Distributed Computing (SCIE,EI)",
+      "作者群": "Tzong-Jye Liu and Lih-Chyau Wuu"
+    },
+    {
+      "論文名稱": "Asynchronous Phase Synchronization in Uniform Unidirectional Rings",
+      "期刊名稱": "IEEE Transactions on Parallel and Distributed Systems (SCIE,EI)",
+      "作者群": "Shing-Tsaan Huang, Tzong-Jye Liu and Su-Shen Hung"
+    }
+  ],
+  "journal2": [],
+  "conference": [
+    {
+      "論文名稱": "基於軟體定義網路之非監督式學習異常檢測系統",
+      "會議名稱": "2024 Taiwan Academic Network Conference (TANET 2024)",
+      "作者群": "吳克廷, 卓秉毅, 吳芳儀, 劉宗杰*"
+    },
+    {
+      "論文名稱": "Data Labeling with Novel Decision Module of Tri-training",
+      "會議名稱": "2020 2nd International Conference on Computer Communication and the Internet (ICCCI)",
+      "作者群": "Chuan-Mu Tseng, Tzu-Wei Huang and Tzong-Jye Liu*"
+    },
+    {
+      "論文名稱": "A HTTP Botnet Detection System Based on Ranking Mechanism",
+      "會議名稱": "The Twelfth International Conference on Digital Information Management",
+      "作者群": "Yuan-Chin Lee, Chuan-Mu Tseng, and Tzong-Jye Liu*"
+    },
+    {
+      "論文名稱": "P2P traffic classification using clustering technology",
+      "會議名稱": "The 2016 IEEE/SICE International Symposium on System Integration",
+      "作者群": "Chuan-Mu Tseng, Guo-Tai Huang and Tzong-Jye Liu*"
+    },
+    {
+      "論文名稱": "Identify Encrypted P2P Traffic Using Edge",
+      "會議名稱": "2015 The Annual Conference on Engineering and Technology",
+      "作者群": "Chuan-Mu Tseng, Yu-Si Yang and Tzong-Jye Liu*"
+    },
+    {
+      "論文名稱": "A cluster-based data deduplication technology",
+      "會議名稱": "The Second International Symposium on Computing and Networking (CANDAR 2014)",
+      "作者群": "Chuan-Mu Tseng, Jheng-Rong Ciou, and Tzong-Jye Liu*"
+    },
+    {
+      "論文名稱": "P2P Streaming Traffic Detection in Encrypted Tunnel",
+      "會議名稱": "2013 First International Symposium on Computing and Networking",
+      "作者群": "Chuan-Mu Tseng, Ling-Yao Chao and Tzong-Jye Liu*"
+    },
+    {
+      "論文名稱": "P2P Traffic Classification in Encrypted Tunnels",
+      "會議名稱": "The 19th Asia-Pacific Conference on Communications (APCC2013)",
+      "作者群": "Tzong-Jye Liu*, Chi-Bin Chou and Chuan-Mu Tseng"
+    },
+    {
+      "論文名稱": "A Weight Based Backbone Construction Algorithm for Wireless Sensor Network",
+      "會議名稱": "The 19th Asia-Pacific Conference on Communications (APCC2013)",
+      "作者群": "Chuan-Mu Tseng, Tzong-Jye Liu*, Yu-Wen Li"
+    },
+    {
+      "論文名稱": "An Energy-Efficient Distributed File System",
+      "會議名稱": "The 7th International Conference on Computing and Convergence Technology",
+      "作者群": "Tzong-Jye Liu*, Wen-Chun Tseng"
+    },
+    {
+      "論文名稱": "File Replication Management by Using Aceess Growth Trend",
+      "會議名稱": "The 7th International Conference on Computing and Convergence Technology",
+      "作者群": "Chuan-Mu Tseng, Tzong-Jye Liu*, Han-Gong Chen"
+    },
+    {
+      "論文名稱": "Organize Metadata Servers by Using Quorum System",
+      "會議名稱": "2011 IEEE/SICE International Symposium on System Integration (SII 2011)",
+      "作者群": "Tzong-Jye Liu*, Wei-Chan Wang and Chuan-Mu Tseng"
+    },
+    {
+      "論文名稱": "A High Performance and Low Cost Distributed File System",
+      "會議名稱": "The 2nd International Conference on Software Engineering and Service Science (IEEE ICSESS 2011)",
+      "作者群": "Tzong-Jye Liu*, Chun-Yan Chung, Chia-Lin Lee"
+    },
+    {
+      "論文名稱": "An Energy-Aware Backbone Construction Algorithm in Wireless Sensor Networks",
+      "會議名稱": "The 2nd International Conference on Software Engineering and Service Science (IEEE ICSESS 2011)",
+      "作者群": "Tzong-Jye Liu*,Hung-Wei Shen, Chia-Lin Lee"
+    },
+    {
+      "論文名稱": "A High Performance Image-Spam Filtering System",
+      "會議名稱": "The 9th International Symposium on Distributed Computing and Applications to Business, Engineering and Science",
+      "作者群": "Tzong-Jye Liu*, Wen-Liang Tsao, Chia-Lin Lee"
+    },
+    {
+      "論文名稱": "A seamless and reliable distributed network file system utilizing webspace",
+      "會議名稱": "The 10th IEEE International Symposium on Web Site Evolution (WSE 2008)",
+      "作者群": "Hsiang-Ching Chao, Tzong-Jye Liu, Kuong-Ho Chen and Chyi-Ren Dow"
+    },
+    {
+      "論文名稱": "IP Traceback Based on Chinese Remainder Theorem",
+      "會議名稱": "The Sixth IASTED International Conference on Communications, Internet, and Information Technology",
+      "作者群": "Lih-Chyau Wuu, Tzong-Jye Liu and Jyun-Yan Yang"
+    },
+    {
+      "論文名稱": "A Case Study for XML Attack Prevention System",
+      "會議名稱": "Symposium on Applications of Information, Management and Communication Technology (2007資通技術管理與應用會議)",
+      "作者群": "Ko We Huang and Tzong Jye Liu"
+    },
+    {
+      "論文名稱": "A Polymorphic Shellcode Detection Mechanism in the Network",
+      "會議名稱": "The Second International Conference on Scalable Information Systems",
+      "作者群": "Hsiang-Lun Huang, Tzong-Jye Liu, Kuong-Ho Chen, Chyi-Ren Dow, Lih-Chyau Wuu"
+    },
+    {
+      "論文名稱": "An anonymous secure communication protocol in the wireless ad-hoc network",
+      "會議名稱": "Proceedings of Mobile Computing Workshop 2006",
+      "作者群": "Tzong-Jye Liu,Chuan-Mu Tseng"
+    },
+    {
+      "論文名稱": "Self-Stabilization Neighborhood Synchronizer for Uniform Rings",
+      "會議名稱": "the 2005 International Conference on Parallel and Distributed Processing Techniques and Applications (IMCSE PDPTA’05)",
+      "作者群": "Tzong-Jye Liu, Chia-Lin Lee, Chyi-Ren Dow, Wei-Bin Lee and Hsing-Bai Chen"
+    },
+    {
+      "論文名稱": "A longest prefix first search tree for IP lookup",
+      "會議名稱": "2005 IEEE International Conference on Communications  (ICC 2005), Vol. 2",
+      "作者群": "Lih-Chyau Wuu,Kuo-Ming Chen and Tzong-Jye Liu"
+    },
+    {
+      "論文名稱": "2-state alternator for uniform rings with arbitrary size",
+      "會議名稱": "The IEEE 19th International Conference on Advanced Information Networking and Applications (AINA 2005), Vol. 1",
+      "作者群": "Tzong-Jye Liu and Chia-Lin Lee"
+    }
+  ],
+  "book": [],
+  "patent": [
+    {
+      "title": "發明",
+      "desc": "Spiral string matching method"
+    },
+    {
+      "title": "發明",
+      "desc": "螺旋字串比對方法"
+    }
+  ],
+  "most": [
+    {
+      "name": "(2/3)4i工程人才培育研究計畫-以跨領域設計學院加速跨域工程人才培育(跨領域工程教育人才培育與研究計畫",
+      "schoolYear": "106"
+    },
+    {
+      "name": "(3/3)CDIO架構之跨領域創新工程領域人才培育計畫-智慧城市與智慧生活的構思、設計、實施及運作(想像力與創新思維融入工程教育人才培育與研究)",
+      "schoolYear": "106"
+    },
+    {
+      "name": "基於訊息量分析之惡意流量偵測之研究",
+      "schoolYear": "106"
+    },
+    {
+      "name": "(1/3)4i工程人才培育研究計畫-以跨領域設計學院加速跨域工程人才培育(跨領域工程教育人才培育與研究計畫)",
+      "schoolYear": "105"
+    },
+    {
+      "name": "(2/3)CDIO架構之跨領域創新工程領域人才培育計畫-智慧城市與智慧生活的構思、設計、實施及運作(想像力與創新思維融入工程教育人才培育與研究)",
+      "schoolYear": "105"
+    },
+    {
+      "name": "基於群集技術之異常流量偵測問題之研究",
+      "schoolYear": "105"
+    },
+    {
+      "name": "(1/3)CDIO架構之跨領域創新工程領域人才培育計畫-智慧城市與智慧生活的構思、設計、實施及運作(想像力與創新思維融入工程教育人才培育與研究)",
+      "schoolYear": "104"
+    },
+    {
+      "name": "加密通道中串流資料偵測之研究",
+      "schoolYear": "103"
+    },
+    {
+      "name": "多層次即時流量分類技術之研究",
+      "schoolYear": "101"
+    },
+    {
+      "name": "一個節能的雲儲存系統之研究",
+      "schoolYear": "100"
+    },
+    {
+      "name": "具自我調整能力之圖像垃圾郵件過濾系統之研究",
+      "schoolYear": "99"
+    },
+    {
+      "name": "一個低成本的分散式檔案系統之研究",
+      "schoolYear": "98"
+    },
+    {
+      "name": "可延展性入侵偵測與防禦系統之研究",
+      "schoolYear": "95"
+    },
+    {
+      "name": "可延展性網路環境下安全管理之研究",
+      "schoolYear": "94"
+    },
+    {
+      "name": "SSL-VPN 之研究與設計",
+      "schoolYear": "93"
+    }
+  ],
+  "tech": [
+    {
+      "論文名稱": "ZERO-Conflict: A grouping-based approach for automatic generation of IPSec/VPN security policies (2006-10)",
+      "書名": "LECTURE NOTES IN COMPUTER SCIENCE 4269 - LARGE SCALE MANAGEMENT OF DISTRIBUTED SYSTEMS",
+      "作者群": "K. H. Chen, Y. S. Liu, T. J. Liu and C. R. Dow"
+    }
+  ],
+  "induAca": [
+    "教育部臺灣學術網路資訊分享與分析暨縣市網資訊安全維運服務(114年) (2025-01 to 2025-12)",
+    "票券保管結算交割系統二代轉換顧問案 (2024-04 to 2025-04)",
+    "教育部臺灣學術網路資訊分享與分析暨縣市網資訊安全維運服務(113年) (2024-01 to 2024-12)",
+    "資安服務 (2023-01 to 2023-12)",
+    "教育部臺灣學術網路資訊分享與分析暨縣市網資訊安全維運服務(112年 ) (2023-01 to 2023-12)",
+    "資安服務 (2022-01 to 2022-12)",
+    "111年度學術網路資訊分享與分析暨縣市網資訊安全維運計畫 (2022-01 to 2022-12)",
+    "「資安服務」專案 (2021-01 to 2021-12)",
+    "學術網路資訊分享與分析暨縣市網資訊安全維運計畫 (2021-01 to 2021-12)",
+    "學術網路資訊分享與分析暨縣市網資訊安全維運計畫 (2020-01 to 2020-12)",
+    "資安服務專案 (2019-01 to 2019-12)",
+    "學術網路資訊分享與分析暨縣市網資訊安全維運計畫 (2019-01 to 2019-12)",
+    "資安服務專案 (2018-01 to 2018-12)",
+    "A-ISAC暨 Mini-SOC服務與維運計畫 (2018-01 to 2018-12)",
+    "資安服務專案 (2017-01 to 2017-12)",
+    "A-ISAC暨Mini-SOC維運與服務計畫 (2017-01 to 2017-12)",
+    "A-ISAC暨Mini-SOC維運與服務計畫 (2016-01 to 2016-12)",
+    "資安服務專案 (2015-11 to 2016-10)",
+    "A-ISAC暨Mini-SOC維運與服務-性能提升暨可用性強化計畫 (2015-08 to 2016-02)",
+    "A-ISAC暨MiniSOC-維運與服務計畫 (2015-01 to 2015-12)",
+    "欣銓科技-「104年主機弱點掃描服務專案」 (2015-01 to 2015-12)",
+    "資安服務專案 (2014-10 to 2015-10)",
+    "資訊安全服務專案計畫 (2014-05 to 2014-12)",
+    "資料庫安全稽核系統整合 (2012-01 to 2012-12)",
+    "資安服務專案 (2011-10 to 2012-09)",
+    "大台中地區路口監視系統結合警勤e化機制與資通安全架構之研究 (2010-01 to 2010-04)",
+    "教育部97年度校園安全應用RFID協助學生安全建置計畫 (2008-12 to 2009-12)",
+    "資通訊人才培育先導型計畫_教材發展：「車際通訊網路與協定」 (2007-09 to 2008-03)",
+    "96年大專校院校園保護智慧財產權訪視計畫 (2007-03 to 2007-09)",
+    "CVPM進行企業分散式企業系統基礎平台建立 (2006-12 to 2007-07)",
+    "現行電子發票交易系統/網路交易付款系統 (2006-05 to 2006-07)",
+    "通訊科技人才培育先導型計畫-與Intel合作通訊網路課程案 (2006-01 to 2006-12)",
+    "通訊科技人才培育先導型計畫-網路應用與服務教學推動中心 (2005-01 to 2005-12)"
+  ],
+  "perform": [],
+  "reward": [
+    "逢甲大學論文著作獎勵傑出獎 (113, 2024-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (111, 2022-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (108, 2019-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (106, 2017-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (106, 2017-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (104, 2015-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (104, 2015-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (103, 2014-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (101, 2012-11) - 逢甲大學",
+    "協助教育部辦理「96年度校園保護智慧財產權訪視計畫」 (97, 2009-04) - 逢甲大學/人事室",
+    "逢甲大學論文著作獎勵傑出獎 (97, 2008-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (97, 2008-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (96, 2007-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (96, 2007-11) - 逢甲大學"
+  ],
+  "speech": [
+    {
+      "演講題目": "e化校園的管理與應用",
+      "邀請單位": "中央大學 電子計算機中心",
+      "演講日期": "2017-05"
+    },
+    {
+      "演講題目": "資訊安全面面觀",
+      "邀請單位": "宜寧中學",
+      "演講日期": "2014-07"
+    },
+    {
+      "演講題目": "e-portfolio 建置與推動經驗分享",
+      "邀請單位": "南開科技大學",
+      "演講日期": "2011-09"
+    },
+    {
+      "演講題目": "淺談企業資訊安全管理",
+      "邀請單位": "大塚資訊科技",
+      "演講日期": "2010-07"
+    },
+    {
+      "演講題目": "網路存取控制",
+      "邀請單位": "大同台中分公司資訊系統業務處",
+      "演講日期": "2009-11"
+    },
+    {
+      "演講題目": "網路安全與管理",
+      "邀請單位": "中正大學電機工程學系",
+      "演講日期": "2009-04"
+    },
+    {
+      "演講題目": "網路倫理與安全-教師學生e起來",
+      "邀請單位": "台中縣立中港高級中學",
+      "演講日期": "2009-03"
+    },
+    {
+      "演講題目": "車載資通訊簡介",
+      "邀請單位": "修平技術學院",
+      "演講日期": "2008-01"
+    },
+    {
+      "演講題目": "A Grouping-based Approach for Generating IPSecVPN Policies",
+      "邀請單位": "東吳大學資訊科學系",
+      "演講日期": "2007-11"
+    },
+    {
+      "演講題目": "A Grouping-based Approach for Generating IPSecVPN Policies",
+      "邀請單位": "高雄師範大學資訊教育研究所",
+      "演講日期": "2007-04"
+    },
+    {
+      "演講題目": "Policy-based network management",
+      "邀請單位": "暨南大學通訊系",
+      "演講日期": "2006-03"
+    },
+    {
+      "演講題目": "Policy-based network management",
+      "邀請單位": "中央大學資訊工程學系",
+      "演講日期": "2005-09"
+    },
+    {
+      "演講題目": "Policy Based Network and Security Policies Issues",
+      "邀請單位": "教育部「通訊科技教育改進計畫」",
+      "演講日期": "2005-06"
+    },
+    {
+      "演講題目": "Introduction to Policy-based Network Management",
+      "邀請單位": "教育部「通訊科技教育改進計畫」",
+      "演講日期": "2004-10"
+    }
+  ],
+  "material": [],
+  "tal": []
+}

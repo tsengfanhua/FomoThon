@@ -1,0 +1,476 @@
+{
+  "teacherId": "T89104",
+  "name": "許文彥",
+  "mainUnit": "金融學院",
+  "detailUnit": "風險管理與保險學系",
+  "skill": [
+    "風險管理Risk management",
+    "人壽保險Life insurance",
+    "保險財務管理Financial management for Insurers"
+  ],
+  "edu": [
+    "喬治亞州立大學 風險管理與保險學系 博士",
+    "逢甲大學 保險學研究所 碩士",
+    "國立政治大學 國際貿易學系 學士"
+  ],
+  "fcuExp": [
+    "金融博士學位學程 主任",
+    "金融碩士在職專班 主任",
+    "金融學院 院長",
+    "財務工程與精算學士學位學程 代理主任",
+    "風險與保險事業研究中心 主任",
+    "保險學學系 助理教授",
+    "保險學系 副教授",
+    "風險管理與保險學系 教授",
+    "風險管理與保險學系 特聘教授",
+    "風險管理與保險學系 教授",
+    "風險管理與保險學系 教授"
+  ],
+  "currjob": [
+    "台灣人壽保險股份有限公司及子公司中國信託產物保險股份 獨立董事"
+  ],
+  "otherExp": [
+    "喬治亞州立大學 風險管理與保險學系 研究助理"
+  ],
+  "journal": [
+    {
+      "論文名稱": "影響長年期健康保險停效與解約因素的實證研究",
+      "期刊名稱": "壽險管理期刊 (open access)",
+      "作者群": "許文彥，簡碧英"
+    },
+    {
+      "論文名稱": "資訊不對稱與多期契約―團體保險損失率之實證研究",
+      "期刊名稱": "保險專刊 (華藝)",
+      "作者群": "許文彥、李衍煌、郭禎娟"
+    },
+    {
+      "論文名稱": "行駛里程在遊覽車保險的定價",
+      "期刊名稱": "保險專刊 (華藝線上圖書館)",
+      "作者群": "許文彥，陳彥志"
+    },
+    {
+      "論文名稱": "Unpriced and unseen: private information and taxi insurance purchases in Taiwan",
+      "期刊名稱": "The Geneva Papers on Risk and Insurance - Issues and Practice (SSCI)",
+      "作者群": "Chen, YC., Hsu, WY. & Troy, C."
+    },
+    {
+      "論文名稱": "個人傷害保險訂價的再檢視",
+      "期刊名稱": "保險專刊 (華藝)",
+      "作者群": "許文彥、許宛真、鐘鋒鍵"
+    },
+    {
+      "論文名稱": "我國健康險被保險人住院發生率的實證研究",
+      "期刊名稱": "壽險管理學刊 (元照)",
+      "作者群": "許文彥"
+    },
+    {
+      "論文名稱": "汽車保險需求—綠能車的實證研究",
+      "期刊名稱": "保險專刊 (華藝)",
+      "作者群": "許文彥，陳錦祥"
+    },
+    {
+      "論文名稱": "廣義線性模型在自用小客貨車汽車車體損失保險訂價的應用",
+      "期刊名稱": "保險專刊 (華藝線上圖書館)",
+      "作者群": "許文彥"
+    },
+    {
+      "論文名稱": "Reserve Management and Audit Committee Characteristics: Evidence from U.S. Property-Liability Insurance Companies",
+      "期刊名稱": "Journal of Risk and Insurance (SSCI,MOST Class A1)",
+      "作者群": "Hsu, Wen-Yen, Yenyu Huang, and Gene Lai"
+    },
+    {
+      "論文名稱": "廣義線性模型在強制汽車責任保險的應用",
+      "期刊名稱": "保險專刊 (華藝)",
+      "作者群": "許文彥"
+    },
+    {
+      "論文名稱": "團體保險的訂價",
+      "期刊名稱": "保險專刊 (na)",
+      "作者群": "許文彥，張葆甄"
+    },
+    {
+      "論文名稱": "新契約文件作業風險管理之探討—以人身保險代理人為例",
+      "期刊名稱": "壽險管理期刊 (na)",
+      "作者群": "許文彥，莊崴幀"
+    },
+    {
+      "論文名稱": "家族企業對董監事暨重要職員責任保險之需求分析",
+      "期刊名稱": "保險專刊 ()",
+      "作者群": "許文彥，林庭宇，王郁綺"
+    },
+    {
+      "論文名稱": "性別差異與資產配置",
+      "期刊名稱": "保險專刊 ()",
+      "作者群": "許文彥，余永讚，蔡玟懋"
+    },
+    {
+      "論文名稱": "The Pension Option in Labor Insurance and Its Effect on Household Saving and Consumption: Evidence from Taiwan",
+      "期刊名稱": "Journal of Risk and Insurance (SSCI,MOST Class A1)",
+      "作者群": "Chen, Hua, Wen-Yen Hsu* and Mary A. Weiss"
+    },
+    {
+      "論文名稱": "再論企業的財產保險需求：中國上市公司之實證研究",
+      "期刊名稱": "管理評論 (TSSCI)",
+      "作者群": "杜凱蕾、許文彥*、楊純青"
+    },
+    {
+      "論文名稱": "Corporate Governance and Cash Holdings: Evidence form the U.S. Property-Liability Insurance Industry",
+      "期刊名稱": "Journal of Risk and Insurance (SSCI,MOST Class A1)",
+      "作者群": "Hsu, Wen-Yen, Yenyu Huang, and Gene Lai"
+    },
+    {
+      "論文名稱": "The Determinants of Auditor Choice and Audit Pricing among Property-Liability Insurers",
+      "期刊名稱": "Journal of Accounting and Public Policy (SSCI,MOST Class A1)",
+      "作者群": "Hsu, Wen-Yen, Carol Troy, and Yenyu Huang"
+    },
+    {
+      "論文名稱": "銷售通路與業務品質－個人健康險損失情形之實證研究",
+      "期刊名稱": "經濟論文 (TSSCI)",
+      "作者群": "許文彥，林庭宇，邵淑君"
+    },
+    {
+      "論文名稱": "The Impact of National Health Insurance on the Utilitization of Medical Services: Empirical Evidence from a Taiwan Natural Experiment",
+      "期刊名稱": "風險管理學報 ()",
+      "作者群": "許文彥"
+    },
+    {
+      "論文名稱": "Controlling Expenditures of Non-Life Insurers by Corporate Governance in Thailand",
+      "期刊名稱": "保險專刊 ()",
+      "作者群": "Hsu, Wen-Yen, Pongpitch Petchsakulwong"
+    },
+    {
+      "論文名稱": "The Impact of Corporate Governance on the Efficiency Performance of the Thai Non-Life Insurance Industry",
+      "期刊名稱": "The Geneva Papers on Risk and Insurance - Issues and Practic (SSCI)",
+      "作者群": "Wenyen Hsu*, Pongpitch Petchsakulwong"
+    },
+    {
+      "論文名稱": "資本適足性規範對國內財產保險公司盈餘管理之影響",
+      "期刊名稱": "風險管理學報 ()",
+      "作者群": "陳佳煇，許文彥，孫綺黛"
+    },
+    {
+      "論文名稱": "台灣銀行業資本及風險之關係：利用分量迴歸分析",
+      "期刊名稱": "管理學報 (TSSCI)",
+      "作者群": "賴奕豪，許文彥"
+    },
+    {
+      "論文名稱": "所有權結構與銀行的風險承擔",
+      "期刊名稱": "風險管理學報 ()",
+      "作者群": "許文彥，藍尉倫，賴奕豪"
+    },
+    {
+      "論文名稱": "我國企業經理人薪酬與經營風險之關係",
+      "期刊名稱": "風險管理學報 ()",
+      "作者群": "劉淑芬"
+    },
+    {
+      "論文名稱": "我國產險業資本使用效率之實證研究",
+      "期刊名稱": "管理學報 (TSSCI)",
+      "作者群": "周盈君"
+    },
+    {
+      "論文名稱": "我國產險業賠款準備金估計與盈餘修飾",
+      "期刊名稱": "保險專刊 ()",
+      "作者群": "許文彥、劉錦龍"
+    },
+    {
+      "論文名稱": "機構投資人持有股票與善良管理人責任之研究",
+      "期刊名稱": "保險專刊 ()",
+      "作者群": "許文彥、許志彬"
+    },
+    {
+      "論文名稱": "以動態財務分析做為產險業的早期預警系統",
+      "期刊名稱": "風險管理學報 ()",
+      "作者群": "許文彥、羅依雯"
+    },
+    {
+      "論文名稱": "我國產險業最低資本額與資本結構之研究",
+      "期刊名稱": "風險管理學報 ()",
+      "作者群": "許文彥、王詩穎"
+    },
+    {
+      "論文名稱": "The Capital Structure of Firms Subject to Price Regulation:  Evidence from the Insurance Industry",
+      "期刊名稱": "Journal of Financial Services Research (SSCI,ECONLIT)",
+      "作者群": "Robert W. Klein, Richard D. Phillips"
+    },
+    {
+      "論文名稱": "論保險業資本與最低資本額",
+      "期刊名稱": "保險大道 ()",
+      "作者群": "許文彥"
+    },
+    {
+      "論文名稱": "保險業的最低資本與研擬中的風險基礎資本規定",
+      "期刊名稱": "保險專刊 ()",
+      "作者群": "許文彥"
+    }
+  ],
+  "journal2": [],
+  "conference": [
+    {
+      "論文名稱": "Adverse Selection in Automobile Insurance Markets: Evidence from Taxi Driver Insurance Purchases in Taiwan",
+      "會議名稱": "第三十一屆南區統計研討會",
+      "作者群": "Yen-Chih Chen*, Wen-Yen Hsu, Carol Troy"
+    },
+    {
+      "論文名稱": "Auditor Endogeneity and Earnings Conservatism: An Empirical Study on Reserve Management for the US Property-Liability Insurers",
+      "會議名稱": "2014 APRIA Annual Conference",
+      "作者群": "Chen, Hwa, Wen-Yen Hsu, Carol Troy"
+    },
+    {
+      "論文名稱": "CORPORATE GOVERNANCE AND CASH HOLDINGS: EVIDENCE FROM THE U.S. PROPERTY–LIABILITY INSURANCE INDUSTRY",
+      "會議名稱": "中國海洋大學海峽兩岸金融學術論壇研討會",
+      "作者群": "許文彥, Rebecca Huang, Gene Lai"
+    },
+    {
+      "論文名稱": "Self-Selection of Auditors and Audit Pricing in Property-Liability Insurance Companies",
+      "會議名稱": "ARIA 2009 Annual Meeting",
+      "作者群": "Hsu, WenYen, Yenyu Huang, and Carol Troy"
+    },
+    {
+      "論文名稱": "Corporate Governance and Cash Holdings: Evidence from U.S. Property-Liability Insurance Industry",
+      "會議名稱": "ARIA 2009 Annual Meeting",
+      "作者群": "Hsu, WenYen, and Yenyu Huang"
+    },
+    {
+      "論文名稱": "Earnings Management and Corporate Governance: Evidence from U.S. Property-Liability Insurance Companies",
+      "會議名稱": "AAA 2009 Annual Meeting and Conference on Teaching and Leaning in Accounting",
+      "作者群": "Hsu, WenYen, Yenyu Huang, and Gene Lai"
+    },
+    {
+      "論文名稱": "Corporate Governance and Earnings Management: Evidence from U.S. Property-Liability Insurance Companies",
+      "會議名稱": "2008年台灣風險與保險學會第二屆學術研討會",
+      "作者群": "Huang, Yenyu, Gene C. Lai and WenYen Hsu"
+    },
+    {
+      "論文名稱": "Commission, Determinants, and Financial Strength Ratings Changes",
+      "會議名稱": "2008年台灣風險與保險學會第二屆學術研討會",
+      "作者群": "Hsu, WenYen and Gene Lai"
+    },
+    {
+      "論文名稱": "我國銀行業財務特性與公司治理對信用評等的影響",
+      "會議名稱": "2008年台灣風險與保險學會第二屆學術研討會",
+      "作者群": "官宗翰、朱心蘅、許文彥與利菊秀"
+    },
+    {
+      "論文名稱": "Audit Committee Quality, Corporate Governance and Reserve Management",
+      "會議名稱": "2008 APRIA Annual Conference",
+      "作者群": "Huang, Yenyu and Gene C. Lai"
+    },
+    {
+      "論文名稱": "Commission, Determinants, and Financial Strength Ratings Changes",
+      "會議名稱": "APRIA 2008 Conference",
+      "作者群": "Gene Lai"
+    },
+    {
+      "論文名稱": "風險資本與雙起賠點再保險之訂價",
+      "會議名稱": "台灣風險與保險學會第一屆學術研討會",
+      "作者群": "呂宜樺"
+    },
+    {
+      "論文名稱": "逆選擇與私有資訊：團體保險理賠率之實證研究",
+      "會議名稱": "台灣風險與保險學會第一屆學術研討會",
+      "作者群": "郭禎娟"
+    },
+    {
+      "論文名稱": "自費團體保險計畫逆自留的實證研究",
+      "會議名稱": "台灣風險與保險學會第一屆學術研討會",
+      "作者群": "吳雅竹"
+    },
+    {
+      "論文名稱": "隨機利率模型下分紅保單之紅利分配與資產配置策略",
+      "會議名稱": "2006海峽兩岸保險高級論壇國際學術研討會",
+      "作者群": "連婉萱"
+    },
+    {
+      "論文名稱": "Agency Cost and Bonus Policy of Participating Policies",
+      "會議名稱": "11th International Congress on Insurance: Mathematics and Economics",
+      "作者群": "Hsu, Wenyen,"
+    },
+    {
+      "論文名稱": "Uninsured Liabilities and Market Discipline in the Property-Liability Insurance Industry",
+      "會議名稱": "WRIEC 2005 Conference",
+      "作者群": "Hsu, Wenyen"
+    },
+    {
+      "論文名稱": "Bonus Policy and Investment Decisions of Participating Policies",
+      "會議名稱": "第五屆風險管理理論研討會",
+      "作者群": "呂瑞秋、吳淑螢"
+    },
+    {
+      "論文名稱": "Minimum Capital Requirement and Prompt Corrective Actions under Risk-Based Capital",
+      "會議名稱": "APRIA 2004 Conference",
+      "作者群": "William Feldhaus"
+    },
+    {
+      "論文名稱": "金融服務整合之成本效率分析",
+      "會議名稱": "2004台北-上海-香港經算研討會",
+      "作者群": "黃文慈"
+    },
+    {
+      "論文名稱": "產險業賠款準備估計與盈餘修飾",
+      "會議名稱": "第四屆風險管理理論研討會",
+      "作者群": "劉錦龍"
+    },
+    {
+      "論文名稱": "我國產險業賠款準備金提存與盈餘管理",
+      "會議名稱": "第十二屆南區統計研討會暨九十二年度中華機率統計學會年會及學術研討會",
+      "作者群": "許文彥、劉錦龍"
+    },
+    {
+      "論文名稱": "我國產險業最適資本使用之實證研究",
+      "會議名稱": "2003保險與危險管理學術研討會",
+      "作者群": "許文彥、周盈君"
+    },
+    {
+      "論文名稱": "我國產險業最低資本額與資本結構之研究",
+      "會議名稱": "風險管理年會暨國際風險研討會",
+      "作者群": "許文彥、王詩穎"
+    },
+    {
+      "論文名稱": "產出價格受監理下公司的最適資本結構－以美國產物保險業為對象的理論模型",
+      "會議名稱": "跨世紀危險管理與保險學術暨實務研討會",
+      "作者群": "許文彥"
+    },
+    {
+      "論文名稱": "The Impact of Rate Requlation on Insurer Capital Decisions",
+      "會議名稱": "Capitalizationm of the P&C Insurance Industry",
+      "作者群": "許文彥、Klein、Phillips"
+    }
+  ],
+  "book": [
+    {
+      "專業書籍": "保險財務評估與監理",
+      "出版單位": "財團法人保險事業發展中心",
+      "作者群": "許文彥等九位"
+    }
+  ],
+  "patent": [],
+  "most": [
+    {
+      "name": "健康保險在資訊不對稱的幾個議題(2/2)",
+      "schoolYear": "113"
+    },
+    {
+      "name": "健康保險在資訊不對稱的幾個議題(1/2)",
+      "schoolYear": "112"
+    },
+    {
+      "name": "保險通路對人身保險的解約與停效的影響-- 終身壽險與終身醫療險的實證研究(2/2)",
+      "schoolYear": "111"
+    },
+    {
+      "name": "保險通路對人身保險的解約與停效的影響-- 終身壽險與終身醫療險的實證研究(1/2)",
+      "schoolYear": "110"
+    },
+    {
+      "name": "汽車保險資訊不對稱的幾個議題(2/2)",
+      "schoolYear": "109"
+    },
+    {
+      "name": "汽車保險資訊不對稱的幾個議題(1/2)",
+      "schoolYear": "108"
+    },
+    {
+      "name": "產險公司通路的自我選擇與佣金率",
+      "schoolYear": "107"
+    },
+    {
+      "name": "復效保單與逆選擇的實證研究",
+      "schoolYear": "106"
+    },
+    {
+      "name": "金融檢查與賠款準備金的保守性：美國產物保險公司的實證研究(2/2)",
+      "schoolYear": "105"
+    },
+    {
+      "name": "金融檢查與賠款準備金的保守性：美國產物保險公司的實證研究(1/2)",
+      "schoolYear": "104"
+    },
+    {
+      "name": "審計公司選擇的內生性與審計品質：美國產物保險公司準備金管理的實證研究",
+      "schoolYear": "103"
+    },
+    {
+      "name": "沙賓法案對美國產物保險業賠款準備金管理的影響",
+      "schoolYear": "100"
+    },
+    {
+      "name": "團體保險的訊息問題",
+      "schoolYear": "96"
+    },
+    {
+      "name": "分紅保單與人壽保險公司的投資動機",
+      "schoolYear": "95"
+    },
+    {
+      "name": "安定基金不保責任與產險業的市場紀律",
+      "schoolYear": "93"
+    },
+    {
+      "name": "發行盈餘債券做為訊號：以美國產險業的實證研究",
+      "schoolYear": "91"
+    },
+    {
+      "name": "強制汽車責任保險無盈無虧制度之效率分析",
+      "schoolYear": "89"
+    }
+  ],
+  "tech": [],
+  "induAca": [
+    "終身醫療險住院理賠頻率與理賠金額之研究 (2022-03 to 2024-12)",
+    "自小客電動車保險現況與未來新式保險商品之探討 (2022-01 to 2024-09)",
+    "建置醫療險核保評分模型 (2019-04 to 2020-04)",
+    "任意汽車保險定價公式檢視 (2018-10 to 2019-10)",
+    "UBIoT智慧保險應用於職業駕駛人場域驗證─UBIoT保費模型研究 (2018-10 to 2020-03)",
+    "駕駛人風險計分模型 (2018-05 to 2020-01)",
+    "保險業招攬佣酬制度改進方向之研究 (2011-05 to 2011-12)",
+    "保險公司退場機制研究 (2010-11 to 2011-09)"
+  ],
+  "perform": [],
+  "reward": [
+    "113年度國科會補助大專校院研究獎勵 (113, 2024-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優等獎 (113, 2024-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (113, 2024-11) - 逢甲大學",
+    "112年度國科會補助大專校院研究獎勵 (112, 2023-12) - 逢甲大學",
+    "逢甲大學論文著作獎勵優等獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學優良教材獎勵優等獎 (111, 2022-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (111, 2022-11) - 逢甲大學",
+    "111年度國科會補助大專校院研究獎勵 (111, 2022-10) - 研究發展處",
+    "逢甲大學論文著作獎勵優良獎 (110, 2021-11) - 逢甲大學",
+    "110年度科技部補助大專校院研究獎勵 (110, 2021-10) - 產學合作處",
+    "逢甲大學論文著作獎勵優良獎 (109, 2020-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (109, 2020-11) - 逢甲大學",
+    "109年度科技部補助大專校院研究獎勵 (109, 2020-10) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (107, 2018-11) - 逢甲大學",
+    "107年度科技部補助大專校院研究獎勵 (107, 2018-08) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (106, 2017-11) - 逢甲大學",
+    "106年度科技部獎勵特殊優秀人才 (106, 2017-08) - 產學合作處",
+    "逢甲大學論文著作獎勵優良獎 (105, 2016-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (105, 2016-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (105, 2016-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (105, 2016-11) - 逢甲大學",
+    "105年度科技部獎勵特殊優秀人才 (105, 2016-08) - 產學合作處",
+    "逢甲大學論文著作獎勵優良獎 (104, 2015-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (104, 2015-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (101, 2012-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (100, 2011-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (99, 2010-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (99, 2010-11) - 逢甲大學",
+    "逢甲大學優良教材獎勵優等獎 (98, 2009-11) - 逢甲大學",
+    "逢甲大學優良教材獎勵佳作獎 (97, 2008-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (96, 2007-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (95, 2006-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵 (94, 2005-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵 (94, 2005-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (93, 2004-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (93, 2004-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (92, 2003-11) - 逢甲大學",
+    "國科會甲種獎勵 (89, 2000-08) - 行政院國科會"
+  ],
+  "speech": [],
+  "material": [
+    "保險學--風險管理與保險\t新陸書局\t許文彥\t教材",
+    "人壽與健康保險\t新陸書局\t許文彥\t教科書"
+  ],
+  "tal": []
+}

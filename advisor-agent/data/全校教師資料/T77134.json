@@ -1,0 +1,886 @@
+{
+  "teacherId": "T77134",
+  "name": "鄭進興",
+  "mainUnit": "資訊電機學院",
+  "detailUnit": "電機工程學系",
+  "skill": [
+    "電力系統穩定度Power System Stability",
+    "電力電子Power Electronics",
+    "電機控制Electrical Machine Control"
+  ],
+  "edu": [
+    "國立台灣大學 電機研究所 博士",
+    "國立台灣大學 電機研究所 碩士"
+  ],
+  "fcuExp": [
+    "電機工程學系(所) 助教",
+    "電機工程學系(所) 講師",
+    "電機工程學系(所) 副教授",
+    "電機工程學系 教授",
+    "電機工程學系 教授",
+    "電機工程學系 教授"
+  ],
+  "currjob": [],
+  "otherExp": [],
+  "journal": [
+    {
+      "論文名稱": "Optimization of Contactless Transformer Coupling Transmission System by Taguchi Method",
+      "期刊名稱": "International Journal of Green Energy (SCIE)",
+      "作者群": "Chin-Hsing Cheng*, Po-Jen Cheng, Yong-Zhen Zeng"
+    },
+    {
+      "論文名稱": "Implementation of a Small Type DC Microgrid Based on Fuzzy Control and Dynamic Programming",
+      "期刊名稱": "Energies (SCIE)",
+      "作者群": "Chin-Hsing Cheng"
+    },
+    {
+      "論文名稱": "Application of the Taguchi Method to the Warpage for Light Guide Plate",
+      "期刊名稱": "Lecture Notes in Electrical Engineering (EI)",
+      "作者群": "Po-Jen Cheng, Chin-Hsing Cheng"
+    },
+    {
+      "論文名稱": "A Motor's Rotational Angle Sensor Based on Fiber Bragg Grating",
+      "期刊名稱": "Microwave and Optical Technology Letters (SCIE)",
+      "作者群": "Chin-Hsing Cheng*, Sung-Chen Hung and Wen-Fung Liu"
+    },
+    {
+      "論文名稱": "Design of a Piezoelectric Speaker Driver Based on Fuzzy Theory and Taguchi Method",
+      "期刊名稱": "2014 International Symposium on Computer, Consumer and Contr (EI)",
+      "作者群": "Po-Jen Cheng, Chin-Hsing Cheng, Sheng-Chie Lin"
+    },
+    {
+      "論文名稱": "A Reactive Power Sensor Based on Fiber Bragg Grating and a Piezo-Electric Transducer",
+      "期刊名稱": "Microwave and Optical Technology Letters (SCIE)",
+      "作者群": "Chin-Hsing Cheng, Kuo-Liang Cheng, and Wen-Fung Liu"
+    },
+    {
+      "論文名稱": "Parallel Operation of the Piezoelectric Energy Harvest Using the Taguchi Method",
+      "期刊名稱": "Lecture Notes in Electrical Engineering (EI)",
+      "作者群": "Po-Jen Cheng, Chin-Hsing Cheng, Chuan-Wei Chen"
+    },
+    {
+      "論文名稱": "Optimal Battery Chargers for Photovoltaic System Based on Fuzzy Theory and Taguchi Method",
+      "期刊名稱": "2013 International Conference on Advanced Robotics and Intel (EI)",
+      "作者群": "Po-Jen Cheng, Chin-Hsing Cheng, Siang-Bao Hong"
+    },
+    {
+      "論文名稱": "Measurement of Active Power Using Fiber Bragg Grating and a Piezo-Electric Transducer",
+      "期刊名稱": "Microwave and Optical Technology Letters (SCIE)",
+      "作者群": "Chin-Hsing Cheng, Min-Chih Chang, and Wen-Fung Liu"
+    },
+    {
+      "論文名稱": "Fault Diagnosis of the Condenser in Fossil-fuel Powerplants Based on Cerebellar Model Articulation Controller Neural Network",
+      "期刊名稱": "Intelligent Engineering Systems through Artificial Neural Ne (EI)",
+      "作者群": "Po-Jen Cheng, Chin-Hsing Cheng, Wen-Lang Lin"
+    },
+    {
+      "論文名稱": "Real and Reactive Power Sensors Based on Fiber Grating",
+      "期刊名稱": "2012 IEEE/ASME International Conference on Advanced Intellig (EI)",
+      "作者群": "Chin-Hsing Cheng, Li-Min Lin, Wen-Fung Liu"
+    },
+    {
+      "論文名稱": "Design of a Photoflash Charger System with a Controllable Charge Time for Digital Still Cameras",
+      "期刊名稱": "2012 International Symposium on Computer, Consumer and Contr (EI)",
+      "作者群": "Po-Jen Cheng, Chin-Hsing Cheng"
+    },
+    {
+      "論文名稱": "Reactive Current Sensor Based on Fiber Bragg Grating and a Piezo-electric Transducer",
+      "期刊名稱": "International Symposium on Photonics and Optoelectronics 201 (EI)",
+      "作者群": "Chin-Hsing Cheng, Kuo-Liang Cheng, Wen-Fung Liu"
+    },
+    {
+      "論文名稱": "Standing Balance Measurement System Based on Bend Sensors Using Fiber Bragg Gratings",
+      "期刊名稱": "Microwave and Optical Technology Letters (SCIE)",
+      "作者群": "Chin-Hsing Cheng, Bing-Fong Song, and Wen-Fung Liu"
+    },
+    {
+      "論文名稱": "Electrical Power Sensor Based on Fiber Bragg Grating and a Piezo-electric Transducer",
+      "期刊名稱": "Optics and Precision Engineering (EI)",
+      "作者群": "Chin-Hsing Cheng, Min-Chih Chang, and Wen-Fung Liu"
+    },
+    {
+      "論文名稱": "Design of output filter for inverters using fuzzy logic",
+      "期刊名稱": "Expert Systems With Applications (SCIE)",
+      "作者群": "Chin-Hsing Cheng"
+    },
+    {
+      "論文名稱": "Design of a DC Power Supply with Power Factor Corrector by Taguchi Method",
+      "期刊名稱": "2011World Congress on Intelligent Control and Automation ( W (EI)",
+      "作者群": "Po-Jen Cheng, Chin-Hsing Cheng, Yao-An Lee"
+    },
+    {
+      "論文名稱": "Variant-Frequency Fuzzy Controller for Air Conditioning Driver by Programmable Logic Controller",
+      "期刊名稱": "8th Asian Control Conference (ASCC 2011) (EI)",
+      "作者群": "Po-Jen Cheng, Chin-Hsing Cheng, Tzai-Shiang Chang"
+    },
+    {
+      "論文名稱": "GA-Based Neural Network for Energy Recovery System of the Electric Motorcycle",
+      "期刊名稱": "Expert Systems With Applications (SCIE)",
+      "作者群": "Chin-Hsing Cheng, Jian-Xun Ye"
+    },
+    {
+      "論文名稱": "Noise Sensor Based on a Fiber Bragg Grating and a Piezo-electric Transducer",
+      "期刊名稱": "Microwave and Optical Technology Letters (SCIE)",
+      "作者群": "Chin-Hsing Cheng, Lung-Hui Lai, and Wen-Fung Liu"
+    },
+    {
+      "論文名稱": "Application of GA-based neural network for attitude control of a satellite",
+      "期刊名稱": "Aerospace Science and Technology (SCIE)",
+      "作者群": "Chin-Hsing Cheng, Sheng-Li Shu"
+    },
+    {
+      "論文名稱": "Design of Fuzzy Controller for Induction Heating Using DSP",
+      "期刊名稱": "Proceedings of the 2010 5th IEEE Conference on Industrial El (EI)",
+      "作者群": "Chin-Hsing Cheng"
+    },
+    {
+      "論文名稱": "Fuzzy logic design of self-tuning switching power supply",
+      "期刊名稱": "Expert Systems With Applications (SCIE)",
+      "作者群": "Chin-Hsing Cheng, Po-Jen Cheng, Ming-Tzong Wu"
+    },
+    {
+      "論文名稱": "Current Sharing of Paralleled DC-DC Converters Using GA-based PID Controllers",
+      "期刊名稱": "Expert Systems With Applications (SCIE)",
+      "作者群": "Chin-Hsing Cheng, Po-Jen Cheng, Ming-Jia Xie"
+    },
+    {
+      "論文名稱": "Design of DC Motor's Torque Control Using DSP",
+      "期刊名稱": "Journal of Information and Optimization Sciences (EI)",
+      "作者群": "Po-Jen Cheng, Chin-Hsing Cheng, Chun-Cheng Tung"
+    },
+    {
+      "論文名稱": "DC Power Supply Based on Half Bridge LCC Resonant Converter",
+      "期刊名稱": "PEDS International 2009 (EI)",
+      "作者群": "Chin-Hsing Cheng, Yao-Chou Lee"
+    },
+    {
+      "論文名稱": "Measurement of Electric Power Using an Optical Fiber Grating",
+      "期刊名稱": "Microwave and Optical Technology Letters (SCIE)",
+      "作者群": "Chin-Hsing Cheng, Li-Min Lin, and Wen-Fung Liu"
+    },
+    {
+      "論文名稱": "Attitude control of a satellite using fuzzy controllers",
+      "期刊名稱": "Expert Systems With Applications (SCIE)",
+      "作者群": "Chin-Hsing Cheng, Sheng-Li Shu, Po-Jen Cheng"
+    },
+    {
+      "論文名稱": "Application of fuzzy controllers for spacecraft attitude control",
+      "期刊名稱": "IEEE Transactions on Aerospace and Electronic Systems (SCIE)",
+      "作者群": "Chin-Hsing Cheng, Sheng-Li Shu"
+    },
+    {
+      "論文名稱": "Sound Pressure Sensors Based on Fiber Gratings",
+      "期刊名稱": "2008 Asia Optical Fiber, AOE 2008 (ECONLIT)",
+      "作者群": "Chin-Hsing Cheng, Chin-Yu Chang, Wen-Fung Liu"
+    },
+    {
+      "論文名稱": "Design of Intelligent Controller for Air-Conditioning System Using DSP",
+      "期刊名稱": "Journal of Information and Optimization Sciences (EI)",
+      "作者群": "Po-Jen Cheng, Chin-Hsing Cheng, Yu-Cheng Lin"
+    },
+    {
+      "論文名稱": "Design of Energy Recovery System for Electric Motorcycles Using Fuzzy Theory",
+      "期刊名稱": "Journal of Information and Optimization Sciences (EI)",
+      "作者群": "Po-Jen Cheng, Chin-Hsing Cheng, Yi-Min Fang"
+    },
+    {
+      "論文名稱": "Design of speed monitoring system for DVD-ROM spindle motor using wavelet transform",
+      "期刊名稱": "Journal of Information and Optimization Sciences (EI)",
+      "作者群": "Chin-Hsing Cheng, Po-Jen Cheng"
+    },
+    {
+      "論文名稱": "Design of Energy Recovery System for Electric Motorcycles Using Fuzzy Theory",
+      "期刊名稱": "Journal of Information and Optimization Sciences (EI)",
+      "作者群": "Po-Jen Cheng, Chin-Hsing Cheng, Yi-Min Fang"
+    },
+    {
+      "論文名稱": "Design of speed monitoring system for DVD-ROM spindle motor using wavelet transform",
+      "期刊名稱": "Journal of Information and Optimization Sciences (EI)",
+      "作者群": "Chin-Hsing Cheng, Po-Jen Cheng"
+    },
+    {
+      "論文名稱": "Measurement of AC Current Using a Superstructure Fiber Grating",
+      "期刊名稱": "Microwave and Optical Technology Letters. (SCIE)",
+      "作者群": "Chin-Hsing Cheng, Ming-Hsien Chen, and Wen-Fung Liu"
+    },
+    {
+      "論文名稱": "Measurement of AC Current Using a Superstructure Fiber Grating",
+      "期刊名稱": "Microwave and Optical Technology Letters (SCIE)",
+      "作者群": "Chin-Hsing Cheng, Ming-Hsien Chen, and Wen-Fung Liu"
+    },
+    {
+      "論文名稱": "Measurement of ac current using an optical fiber sensor",
+      "期刊名稱": "physica status solidi (c)4 (EI)",
+      "作者群": "Chin-Hsing Cheng, Ming-Hsien Chen, and Wen-Fung Liu"
+    },
+    {
+      "論文名稱": "LED 點光源面化光學模擬之研究",
+      "期刊名稱": "Journal of Nan Jeon ()",
+      "作者群": "鄭博仁、潘正堂、鄭進興、曾翔達、李福星"
+    },
+    {
+      "論文名稱": "Application of Wavelet Transform for Evaluation of Motor's Noise",
+      "期刊名稱": "Journal of Information and Optimization Sciences (EI)",
+      "作者群": "Chin-Hsing Cheng, Jun-Fu Wang, Po-Jen Cheng"
+    },
+    {
+      "論文名稱": "APPLICATIONS OF WAVELET TRANSFORM TO MOTOR NOISE ANALYSIS AND COMPRESSION",
+      "期刊名稱": "International Journal of Pure and  Applied Mathematics ()",
+      "作者群": "Chin-Hsing Cheng, Jun-Fu Wang and Po-Jen Cheng"
+    },
+    {
+      "論文名稱": "Genetic Algorithm Based Wavelet Neural Network Speed Controller for Spindle Motor of DVD-ROM",
+      "期刊名稱": "Journal of Information and Optimization Sciences (EI)",
+      "作者群": "Chin-Hsing Cheng and Po-Jen Cheng"
+    }
+  ],
+  "journal2": [],
+  "conference": [
+    {
+      "論文名稱": "以模糊邏輯研製液晶背光面板之均流驅動電路",
+      "會議名稱": "第十八屆台灣電力電子研討會暨第四十二屆中華民國電力工程研討會",
+      "作者群": "鄭進興、許仁和、黃茂哲"
+    },
+    {
+      "論文名稱": "以模糊理論研製電動摩托車的再生制動升壓轉換器",
+      "會議名稱": "第十八屆台灣電力電子研討會暨第四十二屆中華民國電力工程研討會",
+      "作者群": "鄭進興、黃茂哲、許仁和"
+    },
+    {
+      "論文名稱": "以模糊邏輯設計自調式Z源轉換器",
+      "會議名稱": "第十七屆台灣電力電子研討會暨第四十一屆中華民國電力工程研討會",
+      "作者群": "鄭進興、梁恆碩、倪鈺涵、許仁和、黃茂哲"
+    },
+    {
+      "論文名稱": "以田口法搭配模糊邏輯設計自調式溫控變頻器",
+      "會議名稱": "第三十八屆電力工程研討會",
+      "作者群": "鄭進興、黃亭凱"
+    },
+    {
+      "論文名稱": "以模糊田口法設計自調隔離型直流電源轉換器",
+      "會議名稱": "第三十七屆電力工程研討會",
+      "作者群": "鄭進興、李易達、黃亭凱"
+    },
+    {
+      "論文名稱": "以模糊邏輯設計自調式溫控變頻器",
+      "會議名稱": "第三十七屆電力工程研討會",
+      "作者群": "鄭進興、黃亭凱、李易達"
+    },
+    {
+      "論文名稱": "田口法應用於非接觸式電力傳輸系統之設計與分析",
+      "會議名稱": "第三十六屆電力工程研討會",
+      "作者群": "鄭進興、曾詠禎、李易達、黃亭凱"
+    },
+    {
+      "論文名稱": "以溫度感測器PT100設計溫控全橋變頻電路",
+      "會議名稱": "第三十六屆電力工程研討會",
+      "作者群": "鄭進興、黃亭凱、李易達"
+    },
+    {
+      "論文名稱": "Optimization of Contactless Transformer Coupling Transmission System by Taguchi Method",
+      "會議名稱": "The 10th International Green Energy Conference",
+      "作者群": "Chin-Hsing Cheng, Yong-Zhen Zeng"
+    },
+    {
+      "論文名稱": "Application of the Taguchi Method to the Warpage for Light Guide Plate",
+      "會議名稱": "The 3rd International Conference on Intelligent Technologies and Engineering Systems, ICITES2014",
+      "作者群": "Po-Jen Cheng, Chin-Hsing Cheng"
+    },
+    {
+      "論文名稱": "以模糊邏輯設計返馳式自調直流電源轉換器",
+      "會議名稱": "第三十五屆電力工程研討會",
+      "作者群": "鄭進興、李易達、曾詠禎、黃亭凱"
+    },
+    {
+      "論文名稱": "非接觸式變壓器耦合傳輸系統之田口法優化",
+      "會議名稱": "第三十五屆電力工程研討會",
+      "作者群": "鄭進興、曾詠禎、李易達、黃亭凱"
+    },
+    {
+      "論文名稱": "Design of a Piezoelectric Speaker Driver Based on Fuzzy Theory and Taguchi Method",
+      "會議名稱": "2014 International Symposium on Computer, Consumer and Control",
+      "作者群": "Po-Jen Cheng, Chin-Hsing Cheng, Sheng-Chie Lin"
+    },
+    {
+      "論文名稱": "Measurement of a Motor’s Rotational Angle Using an Optical Fiber Grating",
+      "會議名稱": "2014 International Conference on Electrical and Electronic Engineering",
+      "作者群": "Chin-Hsing Cheng, Sung-Chen Hung, Wen-Fung Liu"
+    },
+    {
+      "論文名稱": "小型直流微電網之設計",
+      "會議名稱": "第三十四屆電力工程研討會",
+      "作者群": "鄭進興、洪祥堡、洪松瑱"
+    },
+    {
+      "論文名稱": "以DSP設計模糊控制之智慧型風扇",
+      "會議名稱": "第三十四屆電力工程研討會",
+      "作者群": "鄭進興、陳世宏、曾詠禎"
+    },
+    {
+      "論文名稱": "Implementation of a Small Type DC Micro-grid Based on Fuzzy Control and Dynamic Programming",
+      "會議名稱": "2013 International Applied Science and Precision Engineering Conference",
+      "作者群": "Po-Jen Cheng, Chin-Hsing Cheng, Siang-Bao Hong"
+    },
+    {
+      "論文名稱": "Optimal Battery Chargers for Photovoltaic System Based on Fuzzy Theory and Taguchi Method",
+      "會議名稱": "2013 International Conference on Advanced Robotics and Intelligent Systems",
+      "作者群": "Po-Jen Cheng, Chin-Hsing Cheng, Siang-Bao Hong"
+    },
+    {
+      "論文名稱": "太陽能發電系統不同電池充電方法之比較",
+      "會議名稱": "第三十三屆電力工程研討會",
+      "作者群": "洪祥堡、鄭進興"
+    },
+    {
+      "論文名稱": "應用模糊理論建立實驗室負壓平衡系統",
+      "會議名稱": "第三十三屆電力工程研討會",
+      "作者群": "鄭進興、張孝禮、洪松瑱"
+    },
+    {
+      "論文名稱": "太陽光發電對電力系統之衝擊研究",
+      "會議名稱": "第三十三屆電力工程研討會",
+      "作者群": "鄭進興、陳俊言、洪祥堡"
+    },
+    {
+      "論文名稱": "Real and Reactive Power Sensors Based on Fiber Grating",
+      "會議名稱": "2012 IEEE/ASME International Conference on Advanced Intelligent Mechatronics (AIM 2012)",
+      "作者群": "Chin-Hsing Cheng, Li-Min Lin, Wen-Fung Liu"
+    },
+    {
+      "論文名稱": "Design of a Photoflash Charger System with a Controllable Charge Time for Digital Still Cameras",
+      "會議名稱": "2012 International Symposium on Computer, Consumer and Control",
+      "作者群": "Po-Jen Cheng, Chin-Hsing Cheng"
+    },
+    {
+      "論文名稱": "Reactive Current Sensor Based on Fiber Bragg Grating and a Piezo-electric Transducer",
+      "會議名稱": "International Symposium on Photonics and Optoelectronics 2012",
+      "作者群": "Chin-Hsing Cheng, Kuo-Liang Cheng, Wen-Fung Liu"
+    },
+    {
+      "論文名稱": "應用小波理論檢知變壓器激磁湧入電流",
+      "會議名稱": "第三十二屆電力工程研討會",
+      "作者群": "鄭進興、林忠彥、張閔智"
+    },
+    {
+      "論文名稱": "半導體廠極短期電力負載預測之應用",
+      "會議名稱": "第三十二屆電力工程研討會",
+      "作者群": "鄭進興、蘇明正、鄭國良"
+    },
+    {
+      "論文名稱": "Design of a DC Power Supply with Power Factor Corrector by Taguchi Method",
+      "會議名稱": "2011World Congress on Intelligent Control and Automation ( WCICA 2011)",
+      "作者群": "Po-Jen Cheng, Chin-Hsing Cheng, Yao-An Lee"
+    },
+    {
+      "論文名稱": "Variant-Frequency Fuzzy Controller for Air Conditioning Driver by Programmable Logic Controller",
+      "會議名稱": "8th Asian Control Conference (ASCC 2011)",
+      "作者群": "Po-Jen Cheng, Chin-Hsing Cheng, Tzai-Shiang Chang"
+    },
+    {
+      "論文名稱": "應用六個標準差與田口品質法於導光板翹曲之研究",
+      "會議名稱": "2011海峽兩岸現代工程科技學術研討會",
+      "作者群": "鄭博仁、鄭進興、孫聘裕"
+    },
+    {
+      "論文名稱": "應用田口品質方法進行導光板翹曲研究",
+      "會議名稱": "2011海峽兩岸現代工程科技學術研討會",
+      "作者群": "鄭博仁、鄭進興、孫聘裕"
+    },
+    {
+      "論文名稱": "旋轉圓柱磁控濺鍍陰極靶之2D磁場研究",
+      "會議名稱": "2011海峽兩岸現代工程科技學術研討會",
+      "作者群": "鄭博仁、鄭進興、郭金柱、黃泳釗"
+    },
+    {
+      "論文名稱": "矩形磁控濺鍍陰極靶之磁場研究",
+      "會議名稱": "2011海峽兩岸現代工程科技學術研討會",
+      "作者群": "鄭博仁、鄭進興、郭金柱、黃泳釗"
+    },
+    {
+      "論文名稱": "利用有限元素法探討矩形磁控濺鍍陰極靶之磁場研究",
+      "會議名稱": "2011海峽兩岸現代工程科技學術研討會",
+      "作者群": "鄭博仁、鄭進興、郭金柱、黃泳釗"
+    },
+    {
+      "論文名稱": "Electrical Power Sensor Based on Fiber Bragg Grating and a Piezo-electric Transducer",
+      "會議名稱": "ICOPEN 2011",
+      "作者群": "Chin-Hsing Cheng, Min-Chih Chang, Wen-Fung Liu"
+    },
+    {
+      "論文名稱": "主動式低音增強系統應用於揚聲器之設計與製作",
+      "會議名稱": "第三十一屆電力工程研討會",
+      "作者群": "鄭進興、林聖傑"
+    },
+    {
+      "論文名稱": "使用田口法最佳化設計具有功?因?修正器之150W交換式電源供應器",
+      "會議名稱": "第三十一屆電力工程研討會",
+      "作者群": "鄭進興、李曜安"
+    },
+    {
+      "論文名稱": "Design of Fuzzy Controller for Induction Heating Using DSP",
+      "會議名稱": "2010 5th IEEE Conference on Industrial Electronics and Applicationsis",
+      "作者群": "Chin-Hsing Cheng"
+    },
+    {
+      "論文名稱": "平面磁控濺鍍靶之磁場模擬及最佳化設計",
+      "會議名稱": "2010 海峽兩岸現代工程科技應用研討會",
+      "作者群": "郭金柱、鄭博仁、鄭進興、黃泳釗"
+    },
+    {
+      "論文名稱": "以DSP設計模糊感應加熱控制器",
+      "會議名稱": "第三十屆電力工程研討會",
+      "作者群": "鄭進興、黃則通"
+    },
+    {
+      "論文名稱": "壓電能量擷取器之並聯運用",
+      "會議名稱": "第三十屆電力工程研討會",
+      "作者群": "鄭進興、陳雋為"
+    },
+    {
+      "論文名稱": "DC Power Supply Based on Half Bridge LCC Resonant Converter",
+      "會議名稱": "The 8th International Conference on Power Electronics and Drive Systems",
+      "作者群": "Chin-Hsing Cheng, Yao-Chou Lee"
+    },
+    {
+      "論文名稱": "使用布拉格光纖光柵感測人體平衡重心軌跡",
+      "會議名稱": "2009 第15屆化學感測科技研討會",
+      "作者群": "鄭進興、宋秉豐、劉文豐"
+    },
+    {
+      "論文名稱": "液晶平面顯示模組波紋(Ripple)探討",
+      "會議名稱": "2009 海峽兩岸現代工程科技應用研討會",
+      "作者群": "孫聘裕、鄭博仁、鄭進興"
+    },
+    {
+      "論文名稱": "Measurement of Active Power Using an Optical Fiber Grating",
+      "會議名稱": "Asian Magnetic Conference (AMC)",
+      "作者群": "Chin-Hsing Cheng, Li-Min Lin, and Wen-Fung Liu"
+    },
+    {
+      "論文名稱": "以DSP 設計模糊控制之DC-AC 換流器",
+      "會議名稱": "第二十九屆電力工程研討會",
+      "作者群": "鄭進興、黃則通"
+    },
+    {
+      "論文名稱": "Sound Pressure Sensors Based on Fiber Gratings",
+      "會議名稱": "2008 Asia Optical Fiber, AOE 2008",
+      "作者群": "Chin-Hsing Cheng, Chin-Yu Chang, Wen-Fung Liu"
+    },
+    {
+      "論文名稱": "以DSP設計直流馬達之轉矩控制",
+      "會議名稱": "第七屆台灣電力電子研討暨展覽會",
+      "作者群": "鄭進興、董俊呈"
+    },
+    {
+      "論文名稱": "Bending measurement Using on a Side-Polished Superstructure Fiber Grating",
+      "會議名稱": "INTERNATIONAL LASER, LIGTH-WAVE AND MICROWAVE CONFERENCE",
+      "作者群": "Shin-Wen Peng, Ching-Chih Tien, Wen-Fung Liu, Chuen-Lin Tien, Sheng-Shong Bor, and Chin-Hsing Cheng"
+    },
+    {
+      "論文名稱": "結合基因演算法與類神經網路控制器於華衛一號姿態穩定",
+      "會議名稱": "中華民國第十五屆模糊理論及其應用會議",
+      "作者群": "鄭進興、許勝利、鄭博仁"
+    },
+    {
+      "論文名稱": "以DSP 設計智慧型空調系統控制器",
+      "會議名稱": "第二十八屆電力工程研討會",
+      "作者群": "鄭進興、林育正"
+    },
+    {
+      "論文名稱": "以PWM 式電阻設計馬達轉速控制器",
+      "會議名稱": "第二十八屆電力工程研討會",
+      "作者群": "鄭進興、陳雋為"
+    },
+    {
+      "論文名稱": "台鐵列車的集電弓靜態啟閉之暫態特性分析",
+      "會議名稱": "第二十八屆電力工程研討會",
+      "作者群": "黃思倫、盧光常、鄭進興、李翔儒、廖啟貿"
+    },
+    {
+      "論文名稱": "Measurement of ac current using a optical fiber sensor",
+      "會議名稱": "ISAMMA 2007 Conference",
+      "作者群": "Chin-Hsing Cheng, Ming-Hsien Chen, and Wen-Fung Liu"
+    },
+    {
+      "論文名稱": "69kV系統靜態電力電容器之暫態現象研究",
+      "會議名稱": "第二十七屆電力工程研討會",
+      "作者群": "鄭進興、涂瑞成、蔡世育"
+    },
+    {
+      "論文名稱": "以DSP設計變頻式之模糊空調系統",
+      "會議名稱": "第二十七屆電力工程研討會論文集",
+      "作者群": "鄭進興、林育正"
+    },
+    {
+      "論文名稱": "冷陰極螢光燈調光控制電路之實作",
+      "會議名稱": "第二十七屆電力工程研討會論文",
+      "作者群": "鄭進興、陳永興"
+    },
+    {
+      "論文名稱": "以半橋式LCC串並聯共振轉換器設計直流電源供應器",
+      "會議名稱": "第二十七屆電力工程研討會論文集",
+      "作者群": "鄭進興、李曜州、鄭博仁"
+    },
+    {
+      "論文名稱": "具有可控制充電時間的閃光燈充電電路之設計",
+      "會議名稱": "第二十七屆電力工程研討會論文集",
+      "作者群": "鄭進興、吳盛業"
+    },
+    {
+      "論文名稱": "具有單電容截止型緩振器之交錯式順向轉換器應用於家禽致昏器",
+      "會議名稱": "第二十七屆電力工程研討會",
+      "作者群": "鄭進興、溫修梓、鄭博仁"
+    },
+    {
+      "論文名稱": "單週期控制功因修正器模組之設計與分析",
+      "會議名稱": "第二十七屆電力工程研討會",
+      "作者群": "鄭進興、高維新"
+    },
+    {
+      "論文名稱": "電動機車自動調整扭力電路之實作",
+      "會議名稱": "第二十七屆電力工程研討會",
+      "作者群": "鄭進興、馬大和"
+    },
+    {
+      "論文名稱": "使用 TACS 功能建立變壓器鐵心反 J-A 磁滯模型於 EMTP/ATP",
+      "會議名稱": "第二十七屆電力研討會",
+      "作者群": "黃思倫、劉順財、盧光常、鄭進興"
+    },
+    {
+      "論文名稱": "同步降壓型直流對直流轉換器效率改善之研究",
+      "會議名稱": "第五屆台灣電力電子研討暨展覽會",
+      "作者群": "劉堂傑、黃思倫、鄭進興、蕭敏學、張俊評"
+    },
+    {
+      "論文名稱": "小波轉換於馬達噪音分析與壓縮之應用",
+      "會議名稱": "第二十六屆電力工程研討會",
+      "作者群": "鄭進興、謝明家、鄭博仁、王峻富"
+    },
+    {
+      "論文名稱": "以半橋式LCC串並聯共振轉換器設計個人電腦之電源供應器",
+      "會議名稱": "第二十六屆電力工程研討會",
+      "作者群": "鄭進興、李曜州、鄭博仁"
+    },
+    {
+      "論文名稱": " 69kV系統靜態電力電容器之暫態現象模擬分析",
+      "會議名稱": "第二十六屆電力工程研討會",
+      "作者群": "鄭進興、涂瑞成、蔡世育"
+    },
+    {
+      "論文名稱": "區域性配電系統饋線負載分析與調度之實作",
+      "會議名稱": "第二十六屆電力工程研討會",
+      "作者群": "鄭進興、陳明昇"
+    },
+    {
+      "論文名稱": "交錯式順向轉換器使用單電容截止型緩震器應用於家禽致昏器",
+      "會議名稱": "第二十六屆電力工程研討會論文集",
+      "作者群": "曾聖有、黃振國、溫修梓、鄭進興"
+    },
+    {
+      "論文名稱": "以GA-base PID控制器設計並聯式直轉直降壓轉換器電流分享之實作",
+      "會議名稱": "第四屆電力電子研討會",
+      "作者群": "鄭進興,謝明家,鄭博仁"
+    },
+    {
+      "論文名稱": "冷陰極螢光燈管驅動器之研製",
+      "會議名稱": "第四屆台灣電力電子研討會",
+      "作者群": "鄭進興、陳永興"
+    },
+    {
+      "論文名稱": "電動車自動調整扭力電路之設計",
+      "會議名稱": "第四屆台灣電力電子研討會",
+      "作者群": "鄭進興、馬大和"
+    },
+    {
+      "論文名稱": "小波轉換於馬達噪音量測之應用",
+      "會議名稱": "第二十五屆電力工程研討會",
+      "作者群": "鄭進興、王峻富、謝明家、鄭博仁"
+    },
+    {
+      "論文名稱": "以GA-base PID 控制器設計並聯式直轉直降壓轉換器之電流分享",
+      "會議名稱": "第二十五屆電力工程研討會",
+      "作者群": "鄭進興、謝明家、王峻富、鄭博仁"
+    },
+    {
+      "論文名稱": "區域性配電系統饋線負載調查與調度",
+      "會議名稱": "第二十五屆電力工程研討會",
+      "作者群": "鄭進興、陳明昇"
+    },
+    {
+      "論文名稱": "類小腦神經網路為基礎於火力發電廠冷凝器故障診斷之研製",
+      "會議名稱": "第二十五屆電力工程研討會",
+      "作者群": "鄭進興、林文郎、洪清寶、王孟輝"
+    },
+    {
+      "論文名稱": "以模糊邏輯設計交換式直流電源轉換器之實作",
+      "會議名稱": "第三屆台灣電力電子研討會",
+      "作者群": "鄭進興、吳明宗、許勝利、王峻富、鄭博仁"
+    },
+    {
+      "論文名稱": "應用於同時具有升降壓型之直流轉換器效率分析",
+      "會議名稱": "第三屆台灣電力電子研討會",
+      "作者群": "鄭進興、吳盛業"
+    },
+    {
+      "論文名稱": "以可程式控制器實現變頻式之模糊空調系統",
+      "會議名稱": "第三屆台灣電力電子研討會",
+      "作者群": "鄭進興、張載享、鄭博仁"
+    },
+    {
+      "論文名稱": "使用模糊控制器於華衛一號三軸姿態穩定",
+      "會議名稱": "2004中華民國自動控制研討會",
+      "作者群": "鄭進興,許勝利,王峻富,鄭博仁"
+    },
+    {
+      "論文名稱": "類神經網路在電動機車能源回收系統上之應用",
+      "會議名稱": "第二十四屆電力工程研討會",
+      "作者群": "鄭進興,葉鍵勳,張鈺昌,鄭博仁"
+    },
+    {
+      "論文名稱": "以模糊理論設計變頻器之空調驅動器",
+      "會議名稱": "第二十四屆電力工程研討會",
+      "作者群": "鄭進興,張載享,鄭博仁"
+    },
+    {
+      "論文名稱": "類小腦神經網路在火力發電廠冷凝器故障診斷之應用",
+      "會議名稱": "第二十四屆電力工程研討會",
+      "作者群": "鄭進興,林文郎,洪清寶,王孟輝"
+    },
+    {
+      "論文名稱": "以模糊邏輯設計自調式交換式電源供應器",
+      "會議名稱": "第二十四屆電力工程研討會",
+      "作者群": "鄭進興,吳明宗,陳俍佑,謝明家,鄭博仁"
+    },
+    {
+      "論文名稱": "以模糊邏輯設計反流器輸出濾波器",
+      "會議名稱": "第二十四屆電力工程研討會",
+      "作者群": "鄭進興,陳俍佑,吳明宗,許勝利,鄭博仁"
+    },
+    {
+      "論文名稱": "Fault Diagnosis of Steam Turbine-generator Using CMAC Neural Network Approach",
+      "會議名稱": "IJCNN 2003 Conference",
+      "作者群": "Chin-Pao Hung, Mang-Hui Wang, Chin-Hsing Cheng, Wen-Lang Lin"
+    },
+    {
+      "論文名稱": "以小波轉換研製數位唯讀型光碟機之主軸馬達轉速監控系統",
+      "會議名稱": "第二十三屆電力工程研討會",
+      "作者群": "\t鄭進興,張鈺昌,許勝利,鄭博仁"
+    },
+    {
+      "論文名稱": "以小波神經網路設計光碟機主軸馬達速度控制器",
+      "會議名稱": "第一屆台灣電力電子研討會",
+      "作者群": "\t鄭進興,張鈺昌,葉鍵勳,鄭博仁"
+    },
+    {
+      "論文名稱": "以遺傳演算法為基礎的光碟機主軸馬達之小波神經網路速度控制器",
+      "會議名稱": "2002工業自動控制與電力應用研討會",
+      "作者群": "11.\t鄭進興,張鈺昌,陳良佑,鄭博仁"
+    },
+    {
+      "論文名稱": "新型順向式同步整流轉換器驅動線路設計與研製",
+      "會議名稱": "第二十三屆電力工程研討會",
+      "作者群": "13.\t鄭進興,喬伯倫,方怡旻,鄭博仁"
+    },
+    {
+      "論文名稱": "以FPGA實現電動機車能源回收系統模糊控制器",
+      "會議名稱": "第二十三屆電力工程研討會",
+      "作者群": "鄭進興,方怡旻,張鈺昌,葉鍵勳,鄭博仁"
+    },
+    {
+      "論文名稱": "結合基因演算法與類神經網路設計電動車之能源回收系統",
+      "會議名稱": "第二十三屆電力工程研討會",
+      "作者群": "鄭進興,葉鍵勳,方怡旻,張鈺昌,鄭博仁"
+    },
+    {
+      "論文名稱": "類小腦神經網路之汽輪發電機組故障診斷",
+      "會議名稱": "第二十三屆電力工程研討會",
+      "作者群": "鄭進興,林文郎,洪清寶"
+    },
+    {
+      "論文名稱": "主動箝位電路技術於全波型同步整流器之應用",
+      "會議名稱": "第二十二屆電力工程研討會論文集",
+      "作者群": "鄭進興、喬伯倫、方怡旻"
+    },
+    {
+      "論文名稱": "以模糊理論設計電動車之能源回收系統",
+      "會議名稱": "第二十二屆電力工程研討會論文集",
+      "作者群": "鄭進興、方怡旻、張鈺昌、鄭博仁"
+    },
+    {
+      "論文名稱": "以類神經網路設計光碟機主軸馬達速度控制器",
+      "會議名稱": "第二十二屆電力工程研討會論文集",
+      "作者群": "鄭進興、朱鵬元、方怡旻、張鈺昌、鄭博仁"
+    },
+    {
+      "論文名稱": "小波神經網路於伺服馬達速度控制器之應用",
+      "會議名稱": "第十屆國防科技學術研討會論文集",
+      "作者群": "鄭進興、張鈺昌、方怡旻、鄭博仁"
+    },
+    {
+      "論文名稱": "以模糊理論設計光碟機主軸馬達速度控制器",
+      "會議名稱": "第二十一屆電力工程研討會",
+      "作者群": "鄭進興、李明中、朱鵬元"
+    },
+    {
+      "論文名稱": "永磁式同步伺服馬達模糊控制驅動器",
+      "會議名稱": "第二十屆電力工程研討會",
+      "作者群": "鄭進興、李明中、朱鵬元"
+    },
+    {
+      "論文名稱": "Fuzzy model reference adaptive control of a synchronous generator",
+      "會議名稱": "第二十屆電力工程研討會",
+      "作者群": "鄭進興"
+    },
+    {
+      "論文名稱": "類神經網路應用在主動濾波器上消除電力系統諧波，",
+      "會議名稱": "八十八年節約能源論文發表會",
+      "作者群": "鄭進興"
+    },
+    {
+      "論文名稱": "應用諧波追蹤原理在主動濾波器上消除電力系統諧波",
+      "會議名稱": "第十九屆電力工程研討會",
+      "作者群": "鄭進興、卜文正、 張啟民"
+    }
+  ],
+  "book": [
+    {
+      "專業書籍": "電機機械",
+      "出版單位": "高立圖書有限公司",
+      "作者群": "黃昌圳、王孟輝、鄭進興、鄭世平、曾文森"
+    },
+    {
+      "專業書籍": "模糊控制器在衛星姿態控制上之應用",
+      "出版單位": "太空計畫室",
+      "作者群": "鄭進興"
+    }
+  ],
+  "patent": [
+    {
+      "title": "新型",
+      "desc": "真空濺鍍機之陰極構造裝置"
+    }
+  ],
+  "most": [
+    {
+      "name": "動態式光纖馬達旋轉角度感測器之研製",
+      "schoolYear": "103"
+    },
+    {
+      "name": "發熱圍巾",
+      "schoolYear": "103"
+    },
+    {
+      "name": "光纖馬達旋轉角度感測器之研製",
+      "schoolYear": "102"
+    },
+    {
+      "name": "基於光纖與壓電轉換器之虛功率感測器的研製",
+      "schoolYear": "101"
+    },
+    {
+      "name": "光纖電功率與電能量量測系統之研製",
+      "schoolYear": "100"
+    },
+    {
+      "name": "光纖實功率與虛功率量測系統之研製",
+      "schoolYear": "99"
+    },
+    {
+      "name": "微型光纖電功率量測系統之研製",
+      "schoolYear": "98"
+    },
+    {
+      "name": "軌道供電系統暫態行為探討-子計畫五：台鐵供電系統於暫態運轉條件下之諧波特性分析與量測(3/3)",
+      "schoolYear": "96"
+    },
+    {
+      "name": "微型光纖電流感測器之設計",
+      "schoolYear": "95"
+    },
+    {
+      "name": "軌道供電系統暫態行為探討-子計畫五：台鐵供電系統於暫態運轉條件下之諧波特性分析與量測(2/3)",
+      "schoolYear": "95"
+    },
+    {
+      "name": "軌道供電系統暫態行為探討-子計畫五：台鐵供電系統於暫態運轉條件下之諧波特性分析與量測(1/3)",
+      "schoolYear": "94"
+    },
+    {
+      "name": "以MATLAB軟體設計智慧型電力系統穩定器",
+      "schoolYear": "94"
+    },
+    {
+      "name": "模糊控制器在衛星姿態控制上之應用",
+      "schoolYear": "91"
+    },
+    {
+      "name": "以小波轉換研製數位唯讀型光碟機之主軸馬達轉速監控系統",
+      "schoolYear": "90"
+    },
+    {
+      "name": "以類神經網路設計數位唯讀型光碟機之主軸馬達速度控制器",
+      "schoolYear": "89"
+    },
+    {
+      "name": "以模糊理論設計數位唯讀型光碟機之主軸馬達速度控制器",
+      "schoolYear": "87"
+    },
+    {
+      "name": "以電腦輔助設計設計電機監控系統(大專生暑期)",
+      "schoolYear": "85"
+    }
+  ],
+  "tech": [],
+  "induAca": [
+    "光敏偵測式車道保持輔助系統 (2004-01 to 2004-05)",
+    "以模糊理論設計參考模式可適性電力系統穩定器(87電力科技) (1998-01 to 1998-12)"
+  ],
+  "perform": [],
+  "reward": [
+    "逢甲大學論文著作獎勵傑出獎 (107, 2018-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (106, 2017-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (104, 2015-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (103, 2014-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (103, 2014-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (101, 2012-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (101, 2012-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (101, 2012-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (101, 2012-11) - 逢甲大學",
+    "學術研究獎勵研發成果傑出獎 (100, 2011-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (100, 2011-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (100, 2011-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (100, 2011-11) - 逢甲大學",
+    "學術研究獎勵研發成果傑出獎 (99, 2010-11) - 逢甲大學",
+    "學術研究獎勵研發成果優等獎 (99, 2010-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵 (99, 2010-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (99, 2010-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (99, 2010-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (99, 2010-11) - 逢甲大學",
+    "學術研究獎勵研發成果優等獎 (98, 2009-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (98, 2009-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (98, 2009-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (98, 2009-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (98, 2009-11) - 逢甲大學",
+    "中華民國斐陶斐榮譽學會榮譽會員 (98, 2009-06) - 逢甲大學",
+    "學術研究獎勵研發成果佳作獎 (97, 2008-11) - 逢甲大學",
+    "學術研究獎勵研發成果優等獎 (97, 2008-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (97, 2008-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (97, 2008-11) - 逢甲大學",
+    "論文著作優等獎 (96, 2007-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵 (96, 2007-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (96, 2007-11) - 逢甲大學",
+    "專任教職員著作發明獎助佳作獎 (85, 1996-11) - ",
+    "專任教職員著作發明獎助第肆等獎 (82, 1993-11) - 逢甲大學",
+    "國科會甲種獎勵 (81, 1992-08) - 行政院國科會",
+    "國科會乙種獎勵 (79, 1990-08) - 行政院國科會"
+  ],
+  "speech": [
+    {
+      "演講題目": "電力領域研究方向簡介",
+      "邀請單位": "國立勤益科大電機系",
+      "演講日期": "2014-11"
+    }
+  ],
+  "material": [],
+  "tal": []
+}

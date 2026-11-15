@@ -1,0 +1,30 @@
+"""可替換的文字產生介面及 OpenAI 實作。"""
+
+from pathlib import Path
+from typing import Protocol
+
+from dotenv import load_dotenv
+from openai import OpenAI
+
+ENV_PATH = Path(__file__).resolve().parents[2] / ".env"
+
+
+class LLMClient(Protocol):
+    def generate(self, system_prompt: str, user_prompt: str) -> str: ...
+
+
+class OpenAIClient:
+    def __init__(self, model: str):
+        self.model = model
+        load_dotenv(ENV_PATH, override=False)
+        # 由 Service 管理重試次數，避免 SDK 額外重試。
+        self.client = OpenAI(max_retries=0, timeout=60.0)
+
+    def generate(self, system_prompt: str, user_prompt: str) -> str:
+        response = self.client.chat.completions.create(
+            model=self.model,
+            messages=[{"role": "system", "content": system_prompt},
+                      {"role": "user", "content": user_prompt}],
+            response_format={"type": "json_object"},
+        )
+        return response.choices[0].message.content or ""

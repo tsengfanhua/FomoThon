@@ -1,0 +1,382 @@
+{
+  "teacherId": "T81100",
+  "name": "羅致卿",
+  "mainUnit": "工程與科學學院",
+  "detailUnit": "機械與電腦輔助工程學系",
+  "skill": [
+    "電腦數值控制Computer Numerical Control",
+    "電腦輔助製造Computer-Aided Manufacturing",
+    "系統動態建模與分析Modeling and Analysis of Dynamic Systems",
+    "數控工具機CNC machine tools"
+  ],
+  "edu": [
+    "美國密西根大學 機械系 博士",
+    "美國密西根大學 機械系 碩士",
+    "國立清華大學 動機系 學士"
+  ],
+  "fcuExp": [
+    "機械工程學系(所) 副教授",
+    "機械工程學系(所) 教授",
+    "機械與電腦輔助工程學系 教授",
+    "機械與電腦輔助工程學系 教授",
+    "機械與電腦輔助工程學系 教授",
+    "機械與電腦輔助工程學系 教授"
+  ],
+  "currjob": [],
+  "otherExp": [],
+  "journal": [
+    {
+      "論文名稱": "Free Vibration of Braided Composite Plates with a Center Hole",
+      "期刊名稱": "Journal of the Chinese Society of Mechanical Engineers (SCIE)",
+      "作者群": "Kun-Hsieh Tsai, Chung-Li Hwan*, Jiann-Lih Hwang,Meng-Ju Lin and Chih-Ching Lo"
+    },
+    {
+      "論文名稱": "Geometric Optimization for Design of Electro-Thermal Microactuators",
+      "期刊名稱": "Journal of the Chinese Society of Mechanical Engineers (SCIE)",
+      "作者群": "Chih-Ching Lo*, Chung-Li Hwan and Meng-Ju Lin"
+    },
+    {
+      "論文名稱": "Drop Test and Impact Simulation of Cell Phones",
+      "期刊名稱": "Journal of the Chinese Institute of EngineersVol. 34, No. 3 (SCIE)",
+      "作者群": "Chung-Li Hwan*, Meng-Ju Lin, Chih-Cing Lo and Wen-Liang Chen"
+    },
+    {
+      "論文名稱": "Modeling and Analysis of Electro-Thermal Microactuators",
+      "期刊名稱": "The Journal of the Chinese Institute of Engineers (SCIE,EI)",
+      "作者群": "Lo, C. C., Lin, M. J., and Hwan, C. L"
+    },
+    {
+      "論文名稱": "曲面球銑加工之最佳刀具及刀具路徑規劃",
+      "期刊名稱": "機械月刊 ()",
+      "作者群": "羅致卿"
+    },
+    {
+      "論文名稱": "A Tool-Path Control Scheme for Five-Axis Machine Tools",
+      "期刊名稱": "International Journal of Machine Tools and Manufacture (SCIE)",
+      "作者群": "Lo, C.C."
+    },
+    {
+      "論文名稱": "Two-Stage Cutter-Path Scheduling for Ball-End Milling of Concave and Wall-Bounded Surfaces",
+      "期刊名稱": "Computer-Aided Design (SCIE)",
+      "作者群": "C. C. Lo"
+    },
+    {
+      "論文名稱": "An Improved Method for Scheduling the Tool Paths for Three-Axis Surface Machining",
+      "期刊名稱": "International Journal of Machine Tools and Manufacture (SCIE)",
+      "作者群": "C. C. Lo"
+    },
+    {
+      "論文名稱": "An Improved Algorithm for Cross-Coulking Control of Multi-Axis Machine Tools",
+      "期刊名稱": "ASME Journal of Manufacturing Science and Engineering ()",
+      "作者群": "羅致卿"
+    },
+    {
+      "論文名稱": "CNC Machine Tool Surface Interpolator for Ball-End Milling of Free-Form Surfaces",
+      "期刊名稱": "International Journal of Machine Tools and Manufacture (SCIE)",
+      "作者群": "羅致卿"
+    },
+    {
+      "論文名稱": "Cutter Path Preview for Contour Machining Based on Efficient Identification of Motion Error Sources",
+      "期刊名稱": "International Journal of Production Research, ()",
+      "作者群": "羅致卿"
+    },
+    {
+      "論文名稱": "Efficient Cutter-Path Planning for Five-Axis Surface Machining with a Flat-End Cutter",
+      "期刊名稱": "Computer-Aided Design ()",
+      "作者群": "羅致卿"
+    },
+    {
+      "論文名稱": "Feedback Interpolators for Three-Axis and Five-Axis Machining of Parametric Surfaces",
+      "期刊名稱": "Journal of the Chinese Society of Mechanical Engineers ()",
+      "作者群": "羅致卿"
+    },
+    {
+      "論文名稱": "An Improved Algorithm for Cross-Coupling Control of Multi-Axis Machine Tools",
+      "期刊名稱": "ASME Journal of Manufacturing Science and Engineering (SCIE,EI)",
+      "作者群": "羅致卿"
+    },
+    {
+      "論文名稱": "Cutter Path Preview for Contour Machining Based on Efficient Identification of Motion Error Sources",
+      "期刊名稱": "International Journal of Production Research (SCIE,EI)",
+      "作者群": "羅致卿"
+    },
+    {
+      "論文名稱": "Efficient Cutter-Path Planning for Five-Axis Surface Machining with A Flat-End Cutter",
+      "期刊名稱": "Computer-Aided Design (SCIE,EI)",
+      "作者群": "羅致卿"
+    },
+    {
+      "論文名稱": "Feedback Interpolators for Three-Axis and Five-Axis Machining of Parametric Surfaces",
+      "期刊名稱": "Journal of the Chinese Society of Mechanical Engineers (EI)",
+      "作者群": "羅致卿"
+    },
+    {
+      "論文名稱": "On the Error Compensation for Repeated Contouring",
+      "期刊名稱": "Journal of the Chinese Society of Mechanical Engineers, Seri (EI)",
+      "作者群": "羅致卿"
+    },
+    {
+      "論文名稱": "Real-Time Generation and Control of Cutter Path for Five-Axis CNC Machining",
+      "期刊名稱": "International Journal of Machine Tools and Manufacture (SCIE,EI)",
+      "作者群": "羅致卿"
+    },
+    {
+      "論文名稱": "Tangential-Contouring Controller for Biaxial Motion Control",
+      "期刊名稱": "ASME Journal of Dynamic Systems, Measurement, and Control (SCIE,EI)",
+      "作者群": "羅致卿、鍾俊業(自控系)"
+    },
+    {
+      "論文名稱": "Control Scheme for a Five-Axis Machine Tool Based on Coordinate Transformation",
+      "期刊名稱": "JSME International Journal, Series C (SCIE)",
+      "作者群": "羅致卿"
+    },
+    {
+      "論文名稱": "Feedback Interpolators for CNC Machine Tools",
+      "期刊名稱": "ASME Journal of Manufacturing Science and Engineering (SCIE)",
+      "作者群": "羅致卿"
+    },
+    {
+      "論文名稱": "Variable-Weighting Servo Controller for Multi-Axis Contouring",
+      "期刊名稱": "Journal of the Chinese Society of Mechanical Engineers, Seri (EI)",
+      "作者群": "羅致卿"
+    },
+    {
+      "論文名稱": "Three-Axis Contouring Control Based on A　Trajectory Coordinate Basis",
+      "期刊名稱": "JSME International Journal of Mechanical Systems, Machine El ()",
+      "作者群": "羅致卿"
+    },
+    {
+      "論文名稱": "CNC Machine Tool Interpolator with Path Compensation for Repeated Contour Maching",
+      "期刊名稱": "Computer-Aided Design (SCIE)",
+      "作者群": "羅致卿，蕭肇殷"
+    },
+    {
+      "論文名稱": "A Method of Tool Path Compensation for Repeated Maching Process",
+      "期刊名稱": "International Journal of Machine Tools and Manufacture (SCIE)",
+      "作者群": "羅致卿，蕭肇殷"
+    },
+    {
+      "論文名稱": "Curve Generation and Control for Biaxial Machine Tools",
+      "期刊名稱": "中國機械工程學刊 (EI)",
+      "作者群": "羅致卿、鍾俊業"
+    },
+    {
+      "論文名稱": "Real-Time Compensation for Friction Disturbance on Servo Control Table",
+      "期刊名稱": "逢甲學報 ()",
+      "作者群": "羅致卿"
+    },
+    {
+      "論文名稱": "重覆加工製程輪廓誤差之補償",
+      "期刊名稱": "逢甲學報 ()",
+      "作者群": "羅致卿"
+    }
+  ],
+  "journal2": [],
+  "conference": [
+    {
+      "論文名稱": "鋼珠壓印製作微凹凸透鏡",
+      "會議名稱": "中華民國力學學會第四十屆全國力學會議",
+      "作者群": "林孟儒、羅致卿、羅子恆"
+    },
+    {
+      "論文名稱": "MICRO LENSES FABRICATION BY MOLDING USING INDENTATION",
+      "會議名稱": "APCOT 2016",
+      "作者群": "Meng-Ju Lin, Chih-Chin Lo, Tzu Heng Lo, and Yu-Ru Lai"
+    },
+    {
+      "論文名稱": "微曲面刮削之表面粗糙度分析",
+      "會議名稱": "中國機械工程學會第三十屆學術研討會",
+      "作者群": "林孟儒, 羅致卿, 陳柏瑜"
+    },
+    {
+      "論文名稱": "自由曲面球銑加工之表面粗糙度分析",
+      "會議名稱": "2013全國精密製造研討會",
+      "作者群": "羅致卿、林孟儒、呂建興、郭俊良"
+    },
+    {
+      "論文名稱": "微曲面陣列刮削之刀具路徑規劃",
+      "會議名稱": "2012第八屆全國精密製造研討會",
+      "作者群": "羅致卿*,吳洪鑑,陳志皇,陳閎鈞"
+    },
+    {
+      "論文名稱": "工具機輪廓加工運動誤差之分析與預測",
+      "會議名稱": "2012第八屆全國精密製造研討會",
+      "作者群": "羅致卿*,林孟儒,李樹生,劉昌明,薛鵬志"
+    },
+    {
+      "論文名稱": "Deformations Analysis  of Sputtering Micromachining Double Layer Cantilever Beams",
+      "會議名稱": " ICAM 2010",
+      "作者群": "Meng-Ju Lin, Chung-Li Hwan, Chih-Ching Lo, and Jyun-Wei Chen"
+    },
+    {
+      "論文名稱": "電熱式微致動器之幾何設計與動態分析",
+      "會議名稱": "中國機械工程學會第二十五屆學術研討會",
+      "作者群": "羅致卿, 林孟儒, 黃宗立"
+    },
+    {
+      "論文名稱": "電熱式微致動器之動態性能探討",
+      "會議名稱": "中國機械工程學會第二十五屆全國學術研討會",
+      "作者群": "許志翔、黃宗立、林孟儒、羅致卿、徐銘俊"
+    },
+    {
+      "論文名稱": "電熱式微致動器之製作、測試及分析",
+      "會議名稱": "中國機械工程學會第二十四屆全國學術研討會",
+      "作者群": "廖榮男、黃宗立、林孟儒、羅致卿、許志翔"
+    },
+    {
+      "論文名稱": "電熱式微致動器之動態建模與分析",
+      "會議名稱": "中國機械工程學會第二十四屆全國學術研討會",
+      "作者群": "羅致卿、黃宗立、林孟儒、吳洪鑑"
+    },
+    {
+      "論文名稱": "Deformation Induced by Residual Stress during Deposition Process of Lateral Motion of Micro Electrothermal Actuators",
+      "會議名稱": "MNC' 07",
+      "作者群": "林孟儒, 黃宗立, 羅致卿"
+    },
+    {
+      "論文名稱": "Dimensions Effect of the Second Cold Arm on Deformation and Stress of Lateral Motion Micro Electro-Thermal Actuator",
+      "會議名稱": "ICCST6 and ICMOSPS'07",
+      "作者群": "林孟儒, 黃宗立, 羅致卿,"
+    },
+    {
+      "論文名稱": "以定位誤差為基準之機械手臂操作位置最佳化",
+      "會議名稱": "第二十屆機械工程研討會論文集",
+      "作者群": "羅致卿、尤崎帆、張富華"
+    },
+    {
+      "論文名稱": "利用ANSYS作可微調捨棄式螺紋切模之模擬分析",
+      "會議名稱": " 2002 Taiwan ANSYS User Conference",
+      "作者群": "陳文良，黃宗立，羅致卿"
+    },
+    {
+      "論文名稱": "A Fuzzy Method of Tool Path Compensation for Repeated Machining Process",
+      "會議名稱": "2000中華民國第八屆模糊理論及其應用研討會",
+      "作者群": "蕭肇殷、羅致卿"
+    }
+  ],
+  "book": [
+    {
+      "專業書籍": "五軸端銑曲面加工之最佳刀具路徑規劃",
+      "出版單位": "國科會專題研究計畫成果報告",
+      "作者群": "羅致卿"
+    }
+  ],
+  "patent": [],
+  "most": [
+    {
+      "name": "應用於曲面球銑加工之組合式表面粗糙度模型",
+      "schoolYear": "103"
+    },
+    {
+      "name": "應用於端銑精加工之組合式表面粗糙度模型",
+      "schoolYear": "102"
+    },
+    {
+      "name": "微曲面刮削之刀具路徑規劃及表面粗糙度分析",
+      "schoolYear": "101"
+    },
+    {
+      "name": "具孔洞靜電式驅動微聚焦鏡設計、分析與製作",
+      "schoolYear": "101"
+    },
+    {
+      "name": "自由曲面球銑加工之刀具路徑規劃及表面粗糙度分析",
+      "schoolYear": "100"
+    },
+    {
+      "name": "製程殘餘應力對微懸板結構變形影響",
+      "schoolYear": "98"
+    },
+    {
+      "name": "工具機運動控制輪廓誤差之分析、預覽與補償",
+      "schoolYear": "98"
+    },
+    {
+      "name": "微透鏡陣列刮削之刀具路徑規劃",
+      "schoolYear": "96"
+    },
+    {
+      "name": "電熱式微致動器之動態模型與定位控制(II)",
+      "schoolYear": "95"
+    },
+    {
+      "name": "電熱式微致動器之動態模型與定位控制(I)",
+      "schoolYear": "94"
+    },
+    {
+      "name": "機械手臂工件加工位置之最佳化",
+      "schoolYear": "93"
+    },
+    {
+      "name": "多軸工具機運動控制誤差之分析(2/2)",
+      "schoolYear": "92"
+    },
+    {
+      "name": "多軸工具機運動控制誤差之分析(1/2)",
+      "schoolYear": "91"
+    },
+    {
+      "name": "參數曲面加工刀具路徑規劃之曲面誤差控制及效率提升",
+      "schoolYear": "90"
+    },
+    {
+      "name": "五軸端銑曲面加工之最佳刀具路徑規劃",
+      "schoolYear": "89"
+    },
+    {
+      "name": "自動機械式停車位之可程式邏輯控制軟體及機構硬體之設計",
+      "schoolYear": "89"
+    },
+    {
+      "name": "應用於曲面球銑加工之最佳兩階段刀具路徑規劃",
+      "schoolYear": "88"
+    },
+    {
+      "name": "參數式曲面加工刀具路徑產生之新方法",
+      "schoolYear": "87"
+    },
+    {
+      "name": "建立在追蹤輪廓座標上之雙軸伺服控制系統",
+      "schoolYear": "85"
+    },
+    {
+      "name": "重複加工製程輪廓誤差之分析與補償",
+      "schoolYear": "84"
+    },
+    {
+      "name": "彈性化與組合化之伺服控制系統",
+      "schoolYear": "83"
+    },
+    {
+      "name": "伺服系統中摩擦阻擾之分析與補償",
+      "schoolYear": "83"
+    },
+    {
+      "name": "彈性化與組合化之伺服控制系統",
+      "schoolYear": "82"
+    },
+    {
+      "name": "五軸工具機之伺服控制系統研究",
+      "schoolYear": "81"
+    }
+  ],
+  "tech": [],
+  "induAca": [
+    "土木結構環境老化與衝擊後強度分析與驗證 (2009-12 to 2011-05)",
+    "製造業自動化科技教育改進計畫 (1995-07 to 1996-06)",
+    "製造業自動化科技教育改進計畫 (1970-01 to 1970-01)"
+  ],
+  "perform": [],
+  "reward": [
+    "逢甲大學論文著作獎勵優良獎 (107, 2018-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (106, 2017-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (101, 2012-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (99, 2010-11) - 逢甲大學",
+    "國科會甲種獎勵 (89, 2000-08) - 行政院國科會",
+    "國科會甲種獎勵 (88, 1999-08) - 行政院國科會",
+    "國科會甲種獎勵 (87, 1998-08) - 行政院國科會"
+  ],
+  "speech": [],
+  "material": [],
+  "tal": []
+}

@@ -1,0 +1,38 @@
+[
+  {
+    "course_id": "course_004",
+    "course_name": "運算方法與設計應用",
+    "semester": "114-2",
+    "grade": 82
+  },
+  {
+    "course_id": "course_005",
+    "course_name": "人工智慧應用概論",
+    "semester": "114-2",
+    "grade": 78
+  },
+  {
+    "course_id": "course_012",
+    "course_name": "數位圖像技術",
+    "semester": "114-2",
+    "grade": 90
+  },
+  {
+    "course_id": "course_014",
+    "course_name": "深度學習與神經網路",
+    "semester": "114-2",
+    "grade": 83
+  },
+  {
+    "course_id": "course_015",
+    "course_name": "敏捷方法與專案管理",
+    "semester": "114-2",
+    "grade": 88
+  },
+  {
+    "course_id": "course_016",
+    "course_name": "視覺創意設計",
+    "semester": "114-2",
+    "grade": 91
+  }
+]

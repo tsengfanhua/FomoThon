@@ -1,0 +1,147 @@
+{
+  "teacherId": "T08197",
+  "name": "李宗儒",
+  "mainUnit": "金融學院",
+  "detailUnit": "財務金融學系",
+  "skill": [
+    "金融科技Financial Technology",
+    "綠色金融Green Finance",
+    "智慧交易Intelligent Trade",
+    "機器學習與數據分析Machine Learning and Data Analysis"
+  ],
+  "edu": [
+    "交通大學 資訊科學與工程研究所 博士",
+    "交通大學 應用數學系 碩士",
+    "東海大學 數學系 學士"
+  ],
+  "fcuExp": [
+    "金融科技研究中心 副主任",
+    "逢甲大學帆宣智慧城市5G實驗室 研究員",
+    "金融科技研究中心 副主任",
+    "財務金融學系 助理教授"
+  ],
+  "currjob": [],
+  "otherExp": [
+    "國立澎湖科技大學 資訊管理系 專案助理教授"
+  ],
+  "journal": [
+    {
+      "論文名稱": "Special collections for applying artificial intelligence techniques to encourage economic growth and maintain sustainable societies",
+      "期刊名稱": "Science Progress (SCIE)",
+      "作者群": "Nanping Wu, Tsung-Ju Lee, Li-Jiun Chen, Chih-Chun Kung"
+    },
+    {
+      "論文名稱": "Design and Implement an Intelligent System for Stock Investment Decision Making",
+      "期刊名稱": "Journal of Information Science and Engineering (SCIE)",
+      "作者群": "CHIUNG HON LEE, TSUNG-JU LEE, YU-SHENG CHIANG,SHIH-YI YUAN, JYH-HWA LIOU"
+    },
+    {
+      "論文名稱": "Collections for Economic Growth, Social Development, and Technological Innovation Under Climate Change",
+      "期刊名稱": "SAGE (SSCI)",
+      "作者群": "Chih-Chun Kung, Binbo Zheng, Tsung-Ju Lee*, Nanping Wu"
+    },
+    {
+      "論文名稱": "Economic growth and environmental sustainability from renewable energy applications",
+      "期刊名稱": "Energy Exploration & Exploitation (SCIE)",
+      "作者群": "Chih-Chun Kung, Tsung-Ju Lee, Li-Jiun Chen"
+    },
+    {
+      "論文名稱": "A multi-label classification with hybrid label-based meta-learning method in Internet of Things",
+      "期刊名稱": "IEEE Access (SCIE)",
+      "作者群": "Sung-Chiang Lin, Chih-Jou Chen, Tsung-Ju Lee*"
+    },
+    {
+      "論文名稱": "Wind Power Potential for Energy Sustainability and Climate Change Mitigation: A Case Study in Taiwan",
+      "期刊名稱": "Energy & Environment (SSCI)",
+      "作者群": "Chih-Chun Kung, Li-Jiun Chen, Tsung-Ju Lee*, Xianling Jiang, Ruiqi Lin"
+    },
+    {
+      "論文名稱": "Electric vehicle tour planning",
+      "期刊名稱": "Transportation Research Part D (SSCI)",
+      "作者群": "Ying-Wei Wang*, Chuan-Chih Lin, Tsung-Ju Lee"
+    },
+    {
+      "論文名稱": "Factors Influencing the Performance of Human Computation: an Empirical Study in Web Application Testing",
+      "期刊名稱": "Journal of Information Science and Engineering (SSCI,SCIE)",
+      "作者群": "Tsung-Ju Lee, Shian-Shyong Tseng, Chih-Chun Kung*"
+    },
+    {
+      "論文名稱": "Easy-to-explain Feature Synthesis Approach for Recommending Entertainment Video",
+      "期刊名稱": "Neurocomputing (SSCI)",
+      "作者群": "Tsung-Ju Lee, Shian-Shyong Tseng*"
+    },
+    {
+      "論文名稱": "Teaching Boolean Logic through Appropriately Game Rule Tuning",
+      "期刊名稱": "IEEE Transactions on Learning Technologies (SSCI,SCIE)",
+      "作者群": "Jui-Feng Weng, Shian-Shyong Tseng*, Tsung-Ju Lee"
+    },
+    {
+      "論文名稱": "Multiclass Support Vector Classification via Coding and Regression",
+      "期刊名稱": "Neurocomputing (SCIE)",
+      "作者群": "Pei-Chun Chen*, Kuang-Yao Lee, Tsung-Ju Lee, Yuh-Jye Lee, Su-Yun Huang"
+    }
+  ],
+  "journal2": [],
+  "conference": [],
+  "book": [],
+  "patent": [],
+  "most": [
+    {
+      "name": "基於深度學習的高頻交易買賣力量預測及其策略應用研究",
+      "schoolYear": "113"
+    },
+    {
+      "name": "基於情緒指標與聲量指標的交易策略實證研究-以台灣50為例",
+      "schoolYear": "112"
+    }
+  ],
+  "tech": [],
+  "induAca": [
+    "智慧創新關鍵人才躍升計畫─智慧物聯網微學程、金融創新微學程 (2024-02 to 2025-01)",
+    "智慧創新關鍵人才躍升計畫 (2023-02 to 2024-01)"
+  ],
+  "perform": [],
+  "reward": [
+    "逢甲大學論文著作獎勵傑出獎 (113, 2024-11) - 逢甲大學",
+    "2023全國金融科技校園創新創意競賽第三名 (112, 2023-11) - 朝陽科技大學金融科技創新研究中心",
+    "2023全國金融科技校園創新創意競賽優勝 (112, 2023-11) - 朝陽科技大學金融科技創新研究中心",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "第八屆海峽兩岸青少年創客大賽減塑行為賽道三等獎 (112, 2023-08) - 同濟大學",
+    "第二屆永豐金控商業競賽校園組季軍 (111, 2023-04) - 永豐金控",
+    "2022 Fintech金融服務－校際創意競賽新興科技與消費金融組第一名 (111, 2022-12) - 國立臺北商業大學財務金融系",
+    "2022 Fintech金融服務－校際創意競賽數位理財與服務創新組第二名 (111, 2022-12) - 國立臺北商業大學財務金融系",
+    "全國大專院校創新、創意及創業競賽 (111, 2022-11) - 中山醫學大學",
+    "2022全國金融科技校園創新創意競賽優等 (111, 2022-11) - 朝陽科技大學金融科技創新研究中心",
+    "2022全國金融科技校園創新創意競賽優等 (111, 2022-11) - 朝陽科技大學金融科技創新研究中心",
+    "2022全國金融科技校園創新創意競賽第二名 (111, 2022-11) - 朝陽科技大學金融科技創新研究中心",
+    "2022全國金融科技校園創新創意競賽第三名 (111, 2022-11) - 朝陽科技大學金融科技創新研究中心",
+    "2022全國金融科技校園創新創意競賽佳作 (111, 2022-11) - 朝陽科技大學金融科技創新研究中心",
+    "逢甲大學論文著作獎勵優良獎 (111, 2022-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (110, 2021-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (109, 2020-11) - 逢甲大學"
+  ],
+  "speech": [
+    {
+      "演講題目": "Design and Implement an Intelligent System for Stock In-vestment Decision Making",
+      "邀請單位": "淡江大學統計學系",
+      "演講日期": "2022-11"
+    },
+    {
+      "演講題目": "群眾外包與人智運算",
+      "邀請單位": "亞洲大學行動商務與多媒體應用學系",
+      "演講日期": "2022-03"
+    },
+    {
+      "演講題目": "Tips for financial machine learning",
+      "邀請單位": "陽明交通大學管理科學系",
+      "演講日期": "2022-01"
+    },
+    {
+      "演講題目": "駭客競賽與歷程分析之分享",
+      "邀請單位": "臺北教育大學數學暨資訊教育學系",
+      "演講日期": "2020-11"
+    }
+  ],
+  "material": [],
+  "tal": []
+}

@@ -1,0 +1,992 @@
+{
+  "runId": "R-1121-2a4a2d",
+  "goal": "我想參加 AI 黑客松，但不確定自己夠不夠格",
+  "status": "completed",
+  "createdAt": "2026-11-12T03:14:55.342Z",
+  "exportedAt": "2026-11-12T03:14:55.384Z",
+  "note": "成績與個別技能分數不寫入紀錄；紀錄中的適配度與媒合分數只由等級帶、是否達標與公開條件計算",
+  "brain": "rule",
+  "rulesVersion": "2026-11-12",
+  "faults": {},
+  "metrics": {
+    "events": 68,
+    "steps": 6,
+    "toolCalls": 19,
+    "toolErrors": 0,
+    "toolSuccessRate": 1,
+    "retries": 0,
+    "fallbacks": 0,
+    "replans": 1,
+    "humanInterventions": 2,
+    "guardBlocks": 0,
+    "llmCalls": 0,
+    "llmFailures": 0,
+    "tokensIn": 0,
+    "tokensOut": 0,
+    "costUsd": 0,
+    "activeMs": 14,
+    "wallMs": 38
+  },
+  "events": [
+    {
+      "seq": 1,
+      "ts": "2026-11-12T03:14:55.342Z",
+      "type": "goal_received",
+      "agent": "orchestrator",
+      "tool": null,
+      "summary": "收到目標，建立任務 R-1121-2a4a2d",
+      "data": {
+        "faults": {},
+        "brain": "rule"
+      },
+      "ms": null
+    },
+    {
+      "seq": 2,
+      "ts": "2026-11-12T03:14:55.343Z",
+      "type": "intent",
+      "agent": "orchestrator",
+      "tool": null,
+      "summary": "任務辨識：參賽準備（盤點 → 分析 → 補位）｜競賽：全國大專 AI 應用黑客松（示意）",
+      "data": {
+        "type": "prepare_competition",
+        "skillIds": [],
+        "competitionId": "C01",
+        "source": "rule"
+      },
+      "ms": null
+    },
+    {
+      "seq": 3,
+      "ts": "2026-11-12T03:14:55.343Z",
+      "type": "plan",
+      "agent": "orchestrator",
+      "tool": null,
+      "summary": "規劃步驟：任務辨識 → 能力盤點 → 確認能力檔案 → 競賽分析 → 缺口閘門 → 補位媒合 → 彙整與輸出檢核 → 人工確認邀請",
+      "data": {
+        "steps": [
+          "intent",
+          "inventory",
+          "confirm_profile",
+          "competition",
+          "gap_gate",
+          "matching",
+          "summary",
+          "confirm_invites"
+        ]
+      },
+      "ms": null
+    },
+    {
+      "seq": 4,
+      "ts": "2026-11-12T03:14:55.346Z",
+      "type": "decision",
+      "agent": "orchestrator",
+      "tool": null,
+      "summary": "下一步：能力盤點（後續分析需要以課綱證據為基礎的能力檔案）",
+      "data": {
+        "chosen": "run_inventory",
+        "by": "policy",
+        "allowed": [
+          "run_inventory"
+        ]
+      },
+      "ms": null
+    },
+    {
+      "seq": 5,
+      "ts": "2026-11-12T03:14:55.346Z",
+      "type": "tool_call",
+      "agent": "inventory",
+      "tool": "syllabus.fetch",
+      "summary": "syllabus.fetch",
+      "data": {
+        "args": {
+          "code": "CS101"
+        },
+        "attempt": 0
+      },
+      "ms": null
+    },
+    {
+      "seq": 6,
+      "ts": "2026-11-12T03:14:55.347Z",
+      "type": "tool_result",
+      "agent": "inventory",
+      "tool": "syllabus.fetch",
+      "summary": "syllabus.fetch → 取得「程式設計（一）」課綱（18 週、3 項評量）",
+      "data": null,
+      "ms": 2
+    },
+    {
+      "seq": 7,
+      "ts": "2026-11-12T03:14:55.348Z",
+      "type": "tool_call",
+      "agent": "inventory",
+      "tool": "skills.extract",
+      "summary": "skills.extract",
+      "data": {
+        "args": {
+          "course": "CS101",
+          "mode": "syllabus"
+        },
+        "attempt": 0
+      },
+      "ms": null
+    },
+    {
+      "seq": 8,
+      "ts": "2026-11-12T03:14:55.348Z",
+      "type": "tool_result",
+      "agent": "inventory",
+      "tool": "skills.extract",
+      "summary": "skills.extract → 4 個技能（rule）",
+      "data": null,
+      "ms": 0
+    },
+    {
+      "seq": 9,
+      "ts": "2026-11-12T03:14:55.348Z",
+      "type": "tool_call",
+      "agent": "inventory",
+      "tool": "syllabus.fetch",
+      "summary": "syllabus.fetch",
+      "data": {
+        "args": {
+          "code": "CS201"
+        },
+        "attempt": 0
+      },
+      "ms": null
+    },
+    {
+      "seq": 10,
+      "ts": "2026-11-12T03:14:55.350Z",
+      "type": "tool_result",
+      "agent": "inventory",
+      "tool": "syllabus.fetch",
+      "summary": "syllabus.fetch → 取得「資料結構」課綱（18 週、3 項評量）",
+      "data": null,
+      "ms": 2
+    },
+    {
+      "seq": 11,
+      "ts": "2026-11-12T03:14:55.350Z",
+      "type": "tool_call",
+      "agent": "inventory",
+      "tool": "skills.extract",
+      "summary": "skills.extract",
+      "data": {
+        "args": {
+          "course": "CS201",
+          "mode": "syllabus"
+        },
+        "attempt": 0
+      },
+      "ms": null
+    },
+    {
+      "seq": 12,
+      "ts": "2026-11-12T03:14:55.350Z",
+      "type": "tool_result",
+      "agent": "inventory",
+      "tool": "skills.extract",
+      "summary": "skills.extract → 2 個技能（rule）",
+      "data": null,
+      "ms": 0
+    },
+    {
+      "seq": 13,
+      "ts": "2026-11-12T03:14:55.350Z",
+      "type": "tool_call",
+      "agent": "inventory",
+      "tool": "syllabus.fetch",
+      "summary": "syllabus.fetch",
+      "data": {
+        "args": {
+          "code": "CS240"
+        },
+        "attempt": 0
+      },
+      "ms": null
+    },
+    {
+      "seq": 14,
+      "ts": "2026-11-12T03:14:55.351Z",
+      "type": "tool_result",
+      "agent": "inventory",
+      "tool": "syllabus.fetch",
+      "summary": "syllabus.fetch → 取得「資料庫系統」課綱（18 週、3 項評量）",
+      "data": null,
+      "ms": 1
+    },
+    {
+      "seq": 15,
+      "ts": "2026-11-12T03:14:55.351Z",
+      "type": "tool_call",
+      "agent": "inventory",
+      "tool": "skills.extract",
+      "summary": "skills.extract",
+      "data": {
+        "args": {
+          "course": "CS240",
+          "mode": "syllabus"
+        },
+        "attempt": 0
+      },
+      "ms": null
+    },
+    {
+      "seq": 16,
+      "ts": "2026-11-12T03:14:55.351Z",
+      "type": "tool_result",
+      "agent": "inventory",
+      "tool": "skills.extract",
+      "summary": "skills.extract → 1 個技能（rule）",
+      "data": null,
+      "ms": 0
+    },
+    {
+      "seq": 17,
+      "ts": "2026-11-12T03:14:55.351Z",
+      "type": "tool_call",
+      "agent": "inventory",
+      "tool": "syllabus.fetch",
+      "summary": "syllabus.fetch",
+      "data": {
+        "args": {
+          "code": "IM150"
+        },
+        "attempt": 0
+      },
+      "ms": null
+    },
+    {
+      "seq": 18,
+      "ts": "2026-11-12T03:14:55.353Z",
+      "type": "tool_result",
+      "agent": "inventory",
+      "tool": "syllabus.fetch",
+      "summary": "syllabus.fetch → 取得「網頁設計」課綱（18 週、3 項評量）",
+      "data": null,
+      "ms": 1
+    },
+    {
+      "seq": 19,
+      "ts": "2026-11-12T03:14:55.353Z",
+      "type": "tool_call",
+      "agent": "inventory",
+      "tool": "skills.extract",
+      "summary": "skills.extract",
+      "data": {
+        "args": {
+          "course": "IM150",
+          "mode": "syllabus"
+        },
+        "attempt": 0
+      },
+      "ms": null
+    },
+    {
+      "seq": 20,
+      "ts": "2026-11-12T03:14:55.353Z",
+      "type": "tool_result",
+      "agent": "inventory",
+      "tool": "skills.extract",
+      "summary": "skills.extract → 5 個技能（rule）",
+      "data": null,
+      "ms": 0
+    },
+    {
+      "seq": 21,
+      "ts": "2026-11-12T03:14:55.353Z",
+      "type": "tool_call",
+      "agent": "inventory",
+      "tool": "syllabus.fetch",
+      "summary": "syllabus.fetch",
+      "data": {
+        "args": {
+          "code": "CS230"
+        },
+        "attempt": 0
+      },
+      "ms": null
+    },
+    {
+      "seq": 22,
+      "ts": "2026-11-12T03:14:55.354Z",
+      "type": "tool_result",
+      "agent": "inventory",
+      "tool": "syllabus.fetch",
+      "summary": "syllabus.fetch → 取得「人工智慧導論」課綱（18 週、3 項評量）",
+      "data": null,
+      "ms": 1
+    },
+    {
+      "seq": 23,
+      "ts": "2026-11-12T03:14:55.354Z",
+      "type": "tool_call",
+      "agent": "inventory",
+      "tool": "skills.extract",
+      "summary": "skills.extract",
+      "data": {
+        "args": {
+          "course": "CS230",
+          "mode": "syllabus"
+        },
+        "attempt": 0
+      },
+      "ms": null
+    },
+    {
+      "seq": 24,
+      "ts": "2026-11-12T03:14:55.354Z",
+      "type": "tool_result",
+      "agent": "inventory",
+      "tool": "skills.extract",
+      "summary": "skills.extract → 5 個技能（rule）",
+      "data": null,
+      "ms": 0
+    },
+    {
+      "seq": 25,
+      "ts": "2026-11-12T03:14:55.355Z",
+      "type": "await_user",
+      "agent": "orchestrator",
+      "tool": null,
+      "summary": "能力檔案草稿完成（17 項技能），等待本人確認後才生效",
+      "data": {
+        "type": "confirm_profile"
+      },
+      "ms": null
+    },
+    {
+      "seq": 26,
+      "ts": "2026-11-12T03:14:55.355Z",
+      "type": "step_done",
+      "agent": "orchestrator",
+      "tool": null,
+      "summary": "能力盤點 完成",
+      "data": {
+        "action": "run_inventory"
+      },
+      "ms": 9
+    },
+    {
+      "seq": 27,
+      "ts": "2026-11-12T03:14:55.358Z",
+      "type": "user_confirm",
+      "agent": "orchestrator",
+      "tool": null,
+      "summary": "使用者確認能力檔案：保留 17/17 項技能，檔案生效",
+      "data": {
+        "type": "confirm_profile",
+        "kept": 17,
+        "total": 17
+      },
+      "ms": null
+    },
+    {
+      "seq": 28,
+      "ts": "2026-11-12T03:14:55.360Z",
+      "type": "decision",
+      "agent": "orchestrator",
+      "tool": null,
+      "summary": "下一步：競賽分析（檢查指定競賽的資格、難度與能力缺口）",
+      "data": {
+        "chosen": "analyze_competition",
+        "by": "policy",
+        "allowed": [
+          "analyze_competition"
+        ]
+      },
+      "ms": null
+    },
+    {
+      "seq": 29,
+      "ts": "2026-11-12T03:14:55.361Z",
+      "type": "tool_call",
+      "agent": "competition",
+      "tool": "competition.history",
+      "summary": "competition.history",
+      "data": {
+        "args": {
+          "competitionId": "C01"
+        },
+        "attempt": 0
+      },
+      "ms": null
+    },
+    {
+      "seq": 30,
+      "ts": "2026-11-12T03:14:55.361Z",
+      "type": "tool_result",
+      "agent": "competition",
+      "tool": "competition.history",
+      "summary": "competition.history → 近 3 屆平均 62 隊",
+      "data": null,
+      "ms": 0
+    },
+    {
+      "seq": 31,
+      "ts": "2026-11-12T03:14:55.361Z",
+      "type": "tool_call",
+      "agent": "competition",
+      "tool": "peers.coverage",
+      "summary": "peers.coverage",
+      "data": {
+        "args": {
+          "skillIds": [
+            "SK-DSN-001"
+          ],
+          "excludeId": "S01"
+        },
+        "attempt": 0
+      },
+      "ms": null
+    },
+    {
+      "seq": 32,
+      "ts": "2026-11-12T03:14:55.361Z",
+      "type": "tool_result",
+      "agent": "competition",
+      "tool": "peers.coverage",
+      "summary": "peers.coverage → 1/1 個缺口有可媒合人選",
+      "data": null,
+      "ms": 0
+    },
+    {
+      "seq": 33,
+      "ts": "2026-11-12T03:14:55.361Z",
+      "type": "gate",
+      "agent": "orchestrator",
+      "tool": null,
+      "summary": "缺口閘門：資格符合；技能缺口 1 項（UI 介面設計）；需要指導老師 → 找隊友（UI 介面設計）、找指導老師",
+      "data": {
+        "eligible": true,
+        "gaps": [
+          {
+            "skillId": "SK-DSN-001",
+            "kind": "unverified"
+          }
+        ],
+        "advisorNeeded": true
+      },
+      "ms": null
+    },
+    {
+      "seq": 34,
+      "ts": "2026-11-12T03:14:55.361Z",
+      "type": "step_done",
+      "agent": "orchestrator",
+      "tool": null,
+      "summary": "競賽分析 完成",
+      "data": {
+        "action": "analyze_competition"
+      },
+      "ms": 1
+    },
+    {
+      "seq": 35,
+      "ts": "2026-11-12T03:14:55.364Z",
+      "type": "decision",
+      "agent": "orchestrator",
+      "tool": null,
+      "summary": "下一步：找隊友：UI 介面設計（依優先順序：能力缺口「UI 介面設計」需要互補的隊友）",
+      "data": {
+        "chosen": "match_teammates:SK-DSN-001",
+        "by": "rule",
+        "allowed": [
+          "match_teammates:SK-DSN-001",
+          "match_teacher"
+        ]
+      },
+      "ms": null
+    },
+    {
+      "seq": 36,
+      "ts": "2026-11-12T03:14:55.364Z",
+      "type": "tool_call",
+      "agent": "teammate",
+      "tool": "peers.search",
+      "summary": "peers.search",
+      "data": {
+        "args": {
+          "skillId": "SK-DSN-001",
+          "mode": "precise",
+          "requesterId": "S01"
+        },
+        "attempt": 0
+      },
+      "ms": null
+    },
+    {
+      "seq": 37,
+      "ts": "2026-11-12T03:14:55.365Z",
+      "type": "tool_result",
+      "agent": "teammate",
+      "tool": "peers.search",
+      "summary": "peers.search → 找到 2 位（另有 1 位未開放媒合已排除）",
+      "data": null,
+      "ms": 0
+    },
+    {
+      "seq": 38,
+      "ts": "2026-11-12T03:14:55.365Z",
+      "type": "gate",
+      "agent": "teammate",
+      "tool": null,
+      "summary": "品質閘門（UI 介面設計）第 1 輪：新增 2 位、去除重複 0 位，有效候選 1/3 → 不足",
+      "data": {
+        "skillId": "SK-DSN-001",
+        "n": 1,
+        "mode": "precise",
+        "label": "精準搜尋：已確認且已驗證的技能",
+        "found": 2,
+        "duplicates": 0,
+        "excludedNotOpen": 1,
+        "validSoFar": 1,
+        "passed": false
+      },
+      "ms": null
+    },
+    {
+      "seq": 39,
+      "ts": "2026-11-12T03:14:55.365Z",
+      "type": "replan",
+      "agent": "teammate",
+      "tool": null,
+      "summary": "有效候選不足，改用「補查證據：作品集、自述與尚未確認的課綱證據」",
+      "data": {
+        "skillId": "SK-DSN-001",
+        "next": "evidence"
+      },
+      "ms": null
+    },
+    {
+      "seq": 40,
+      "ts": "2026-11-12T03:14:55.365Z",
+      "type": "tool_call",
+      "agent": "teammate",
+      "tool": "peers.search",
+      "summary": "peers.search",
+      "data": {
+        "args": {
+          "skillId": "SK-DSN-001",
+          "mode": "evidence",
+          "requesterId": "S01"
+        },
+        "attempt": 0
+      },
+      "ms": null
+    },
+    {
+      "seq": 41,
+      "ts": "2026-11-12T03:14:55.365Z",
+      "type": "tool_result",
+      "agent": "teammate",
+      "tool": "peers.search",
+      "summary": "peers.search → 找到 2 位（另有 0 位未開放媒合已排除）",
+      "data": null,
+      "ms": 0
+    },
+    {
+      "seq": 42,
+      "ts": "2026-11-12T03:14:55.365Z",
+      "type": "gate",
+      "agent": "teammate",
+      "tool": null,
+      "summary": "品質閘門（UI 介面設計）第 2 輪：新增 2 位、去除重複 0 位，有效候選 3/3 → 達標，停止搜尋",
+      "data": {
+        "skillId": "SK-DSN-001",
+        "n": 2,
+        "mode": "evidence",
+        "label": "補查證據：作品集、自述與尚未確認的課綱證據",
+        "found": 2,
+        "duplicates": 0,
+        "excludedNotOpen": 0,
+        "validSoFar": 3,
+        "passed": true
+      },
+      "ms": null
+    },
+    {
+      "seq": 43,
+      "ts": "2026-11-12T03:14:55.365Z",
+      "type": "step_done",
+      "agent": "orchestrator",
+      "tool": null,
+      "summary": "找隊友：UI 介面設計 完成",
+      "data": {
+        "action": "match_teammates:SK-DSN-001"
+      },
+      "ms": 1
+    },
+    {
+      "seq": 44,
+      "ts": "2026-11-12T03:14:55.367Z",
+      "type": "decision",
+      "agent": "orchestrator",
+      "tool": null,
+      "summary": "下一步：找指導老師（這項競賽需要指導老師）",
+      "data": {
+        "chosen": "match_teacher",
+        "by": "policy",
+        "allowed": [
+          "match_teacher"
+        ]
+      },
+      "ms": null
+    },
+    {
+      "seq": 45,
+      "ts": "2026-11-12T03:14:55.368Z",
+      "type": "tool_call",
+      "agent": "teacher",
+      "tool": "teachers.search",
+      "summary": "teachers.search",
+      "data": {
+        "args": {},
+        "attempt": 0
+      },
+      "ms": null
+    },
+    {
+      "seq": 46,
+      "ts": "2026-11-12T03:14:55.368Z",
+      "type": "tool_result",
+      "agent": "teacher",
+      "tool": "teachers.search",
+      "summary": "teachers.search → 8 位可指導（未開放 1 位、名額已滿 1 位已排除）",
+      "data": null,
+      "ms": 0
+    },
+    {
+      "seq": 47,
+      "ts": "2026-11-12T03:14:55.369Z",
+      "type": "gate",
+      "agent": "teacher",
+      "tool": null,
+      "summary": "教師媒合：8 位符合硬條件，其中 1 位達有效門檻 60 分",
+      "data": {
+        "eligible": 8,
+        "valid": 1,
+        "excluded": {
+          "notOpen": 1,
+          "full": 1
+        }
+      },
+      "ms": null
+    },
+    {
+      "seq": 48,
+      "ts": "2026-11-12T03:14:55.369Z",
+      "type": "step_done",
+      "agent": "orchestrator",
+      "tool": null,
+      "summary": "找指導老師 完成",
+      "data": {
+        "action": "match_teacher"
+      },
+      "ms": 1
+    },
+    {
+      "seq": 49,
+      "ts": "2026-11-12T03:14:55.371Z",
+      "type": "decision",
+      "agent": "orchestrator",
+      "tool": null,
+      "summary": "下一步：彙整建議（所有分支已完成，彙整並檢核輸出）",
+      "data": {
+        "chosen": "summarize",
+        "by": "policy",
+        "allowed": [
+          "summarize"
+        ]
+      },
+      "ms": null
+    },
+    {
+      "seq": 50,
+      "ts": "2026-11-12T03:14:55.371Z",
+      "type": "output_check",
+      "agent": "orchestrator",
+      "tool": null,
+      "summary": "輸出檢核：4 筆推薦，通過 4 筆、移除 0 筆",
+      "data": {
+        "proposed": 4,
+        "kept": 4,
+        "removed": []
+      },
+      "ms": null
+    },
+    {
+      "seq": 51,
+      "ts": "2026-11-12T03:14:55.372Z",
+      "type": "await_user",
+      "agent": "orchestrator",
+      "tool": null,
+      "summary": "已彙整 4 位可邀請對象；Agent 不會自行送出邀請，等待使用者勾選並確認",
+      "data": {
+        "type": "confirm_invites"
+      },
+      "ms": null
+    },
+    {
+      "seq": 52,
+      "ts": "2026-11-12T03:14:55.372Z",
+      "type": "step_done",
+      "agent": "orchestrator",
+      "tool": null,
+      "summary": "彙整建議 完成",
+      "data": {
+        "action": "summarize"
+      },
+      "ms": 1
+    },
+    {
+      "seq": 53,
+      "ts": "2026-11-12T03:14:55.377Z",
+      "type": "user_confirm",
+      "agent": "orchestrator",
+      "tool": null,
+      "summary": "使用者確認邀請 4 位：小禾、阿哲、小葳、教師 A",
+      "data": {
+        "type": "confirm_invites",
+        "selected": [
+          {
+            "kind": "teammate",
+            "id": "S02"
+          },
+          {
+            "kind": "teammate",
+            "id": "S03"
+          },
+          {
+            "kind": "teammate",
+            "id": "S04"
+          },
+          {
+            "kind": "advisor",
+            "id": "T01"
+          }
+        ]
+      },
+      "ms": null
+    },
+    {
+      "seq": 54,
+      "ts": "2026-11-12T03:14:55.380Z",
+      "type": "decision",
+      "agent": "orchestrator",
+      "tool": null,
+      "summary": "下一步：送出邀請（使用者已確認邀請名單）",
+      "data": {
+        "chosen": "send_invitations",
+        "by": "policy",
+        "allowed": [
+          "send_invitations"
+        ]
+      },
+      "ms": null
+    },
+    {
+      "seq": 55,
+      "ts": "2026-11-12T03:14:55.380Z",
+      "type": "tool_call",
+      "agent": "orchestrator",
+      "tool": "invitation.send",
+      "summary": "invitation.send",
+      "data": {
+        "args": {
+          "runId": "R-1121-2a4a2d",
+          "fromId": "S01",
+          "toId": "S02",
+          "kind": "teammate",
+          "competitionId": "C01",
+          "skillId": "SK-DSN-001"
+        },
+        "attempt": 0
+      },
+      "ms": null
+    },
+    {
+      "seq": 56,
+      "ts": "2026-11-12T03:14:55.380Z",
+      "type": "tool_result",
+      "agent": "orchestrator",
+      "tool": "invitation.send",
+      "summary": "invitation.send → 邀請 INV-Bcm4UUgY 已建立（示意寄送，等待對方回覆）",
+      "data": null,
+      "ms": 0
+    },
+    {
+      "seq": 57,
+      "ts": "2026-11-12T03:14:55.380Z",
+      "type": "invite_sent",
+      "agent": "orchestrator",
+      "tool": null,
+      "summary": "已送出組隊邀請給 小禾（待對方回覆）",
+      "data": {
+        "invitationId": "INV-Bcm4UUgY",
+        "kind": "teammate",
+        "toId": "S02"
+      },
+      "ms": null
+    },
+    {
+      "seq": 58,
+      "ts": "2026-11-12T03:14:55.380Z",
+      "type": "tool_call",
+      "agent": "orchestrator",
+      "tool": "invitation.send",
+      "summary": "invitation.send",
+      "data": {
+        "args": {
+          "runId": "R-1121-2a4a2d",
+          "fromId": "S01",
+          "toId": "S03",
+          "kind": "teammate",
+          "competitionId": "C01",
+          "skillId": "SK-DSN-001"
+        },
+        "attempt": 0
+      },
+      "ms": null
+    },
+    {
+      "seq": 59,
+      "ts": "2026-11-12T03:14:55.380Z",
+      "type": "tool_result",
+      "agent": "orchestrator",
+      "tool": "invitation.send",
+      "summary": "invitation.send → 邀請 INV-JLxLhekU 已建立（示意寄送，等待對方回覆）",
+      "data": null,
+      "ms": 0
+    },
+    {
+      "seq": 60,
+      "ts": "2026-11-12T03:14:55.380Z",
+      "type": "invite_sent",
+      "agent": "orchestrator",
+      "tool": null,
+      "summary": "已送出組隊邀請給 阿哲（待對方回覆）",
+      "data": {
+        "invitationId": "INV-JLxLhekU",
+        "kind": "teammate",
+        "toId": "S03"
+      },
+      "ms": null
+    },
+    {
+      "seq": 61,
+      "ts": "2026-11-12T03:14:55.380Z",
+      "type": "tool_call",
+      "agent": "orchestrator",
+      "tool": "invitation.send",
+      "summary": "invitation.send",
+      "data": {
+        "args": {
+          "runId": "R-1121-2a4a2d",
+          "fromId": "S01",
+          "toId": "S04",
+          "kind": "teammate",
+          "competitionId": "C01",
+          "skillId": "SK-DSN-001"
+        },
+        "attempt": 0
+      },
+      "ms": null
+    },
+    {
+      "seq": 62,
+      "ts": "2026-11-12T03:14:55.380Z",
+      "type": "tool_result",
+      "agent": "orchestrator",
+      "tool": "invitation.send",
+      "summary": "invitation.send → 邀請 INV-zPX35j08 已建立（示意寄送，等待對方回覆）",
+      "data": null,
+      "ms": 0
+    },
+    {
+      "seq": 63,
+      "ts": "2026-11-12T03:14:55.380Z",
+      "type": "invite_sent",
+      "agent": "orchestrator",
+      "tool": null,
+      "summary": "已送出組隊邀請給 小葳（待對方回覆）",
+      "data": {
+        "invitationId": "INV-zPX35j08",
+        "kind": "teammate",
+        "toId": "S04"
+      },
+      "ms": null
+    },
+    {
+      "seq": 64,
+      "ts": "2026-11-12T03:14:55.380Z",
+      "type": "tool_call",
+      "agent": "orchestrator",
+      "tool": "invitation.send",
+      "summary": "invitation.send",
+      "data": {
+        "args": {
+          "runId": "R-1121-2a4a2d",
+          "fromId": "S01",
+          "toId": "T01",
+          "kind": "advisor",
+          "competitionId": "C01",
+          "skillId": null
+        },
+        "attempt": 0
+      },
+      "ms": null
+    },
+    {
+      "seq": 65,
+      "ts": "2026-11-12T03:14:55.380Z",
+      "type": "tool_result",
+      "agent": "orchestrator",
+      "tool": "invitation.send",
+      "summary": "invitation.send → 邀請 INV-D9TAWQkM 已建立（示意寄送，等待對方回覆）",
+      "data": null,
+      "ms": 0
+    },
+    {
+      "seq": 66,
+      "ts": "2026-11-12T03:14:55.380Z",
+      "type": "invite_sent",
+      "agent": "orchestrator",
+      "tool": null,
+      "summary": "已送出指導邀請給 教師 A（待對方回覆）",
+      "data": {
+        "invitationId": "INV-D9TAWQkM",
+        "kind": "advisor",
+        "toId": "T01"
+      },
+      "ms": null
+    },
+    {
+      "seq": 67,
+      "ts": "2026-11-12T03:14:55.380Z",
+      "type": "done",
+      "agent": "orchestrator",
+      "tool": null,
+      "summary": "任務完成：已送出 4 份邀請，等待對方回覆。",
+      "data": null,
+      "ms": null
+    },
+    {
+      "seq": 68,
+      "ts": "2026-11-12T03:14:55.380Z",
+      "type": "step_done",
+      "agent": "orchestrator",
+      "tool": null,
+      "summary": "送出邀請 完成",
+      "data": {
+        "action": "send_invitations"
+      },
+      "ms": 1
+    }
+  ]
+}

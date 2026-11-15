@@ -1,0 +1,193 @@
+{
+  "teacherId": "T07045",
+  "name": "彭嘉美",
+  "mainUnit": "資訊電機學院",
+  "detailUnit": "通訊工程學系",
+  "skill": [
+    "天線設計Antenna design",
+    "濾波器設計Filter design",
+    "射頻電路設計RF circuit design",
+    "SAR(電磁能比吸收率)量測與對策分析SAR testing and solution",
+    "RFID系統設計RFID system design",
+    "電磁輻射量測及人機介面程式控制Electromagnetic Radiation testing and HMI"
+  ],
+  "edu": [
+    "國立臺灣科技大學 電子工程系 博士",
+    "國立臺灣科技大學 電子工程系 碩士",
+    "私立大葉大學 通訊與計算機工程學系 學士"
+  ],
+  "fcuExp": [
+    "通訊工程學系 系主任",
+    "逢甲大學帆宣智慧城市5G實驗室 副主任",
+    "逢甲大學帆宣智慧城市5G實驗室 副主任",
+    "逢甲大學帆宣智慧城市5G實驗室 研究員",
+    "通訊工程學系 教授"
+  ],
+  "currjob": [],
+  "otherExp": [
+    "景文科技大學 電資學院 院長",
+    "景文科技大學 電子工程學系 系主任",
+    "景文科技大學 電子工程學系 教授",
+    "景文科技大學 電子工程學系 副教授",
+    "景文科技大學 電子工程學系 助理教授"
+  ],
+  "journal": [
+    {
+      "論文名稱": "Data transmission scheme based on the DC-QOSTBC in indoor MIMO-VLC systems",
+      "期刊名稱": "Applied Optics (SCIE)",
+      "作者群": "Jing-Jing Bao*, I-Fong Chen, and Chia-Mei Peng"
+    },
+    {
+      "論文名稱": "A Four-Layer Odd Function Symmetrical Dual-Polarization Equilateral Right Triangle Slot Printed Broadband Directional Antenna for Wireless Lab Measurement Applications",
+      "期刊名稱": "International Journal of Antennas and Propagation (SCIE)",
+      "作者群": "Chang-Ju Wu, I-Fong Chen*, Jwo-Shiun Sun, Chia-Mei Peng, Kang-Ling Li, and Chung-Hao Huang"
+    },
+    {
+      "論文名稱": "A simple NFC RF performance measurement method based on ISO/IEC 14443 standard",
+      "期刊名稱": "IEEE Journal of Radio Frequency Identification (EI)",
+      "作者群": "I-Fong Chen, Chia-Mei Peng and Zhi-Da Yan"
+    },
+    {
+      "論文名稱": "2×2 MIMO Asymmetric U-Shaped Nonuniform Slot Antenna for the 4G LTE Metal-Housing Mobile Handsets",
+      "期刊名稱": "International Journal of Antennas and Propagation (SCIE)",
+      "作者群": "I-Fong Chen*, Chia-Mei Peng, Jing-Jing Bao and Chia-Ching Chen"
+    },
+    {
+      "論文名稱": "A Dual Polarization Bow-Tie Slot Antenna For Broadband Communications",
+      "期刊名稱": "The International Journal of Engineering and Science (IJES) (SCIE)",
+      "作者群": "Chang-Ju Wu,I-Fong Chen*, Chia-Mei Peng, Jwo-Shiun Sun"
+    }
+  ],
+  "journal2": [],
+  "conference": [
+    {
+      "論文名稱": "Modified turnstile antenna design for multi-band and broadband applications",
+      "會議名稱": "2024 IEEE International Symposium on Antennas and Propagation and ITNC-USNC-URSI Radio Science Meeting",
+      "作者群": "I-Fong Chen, Chia-Mei Peng, Fei-Lung Wu and Jian-An Xie"
+    },
+    {
+      "論文名稱": "2x2 MIMO antenna design for WiFi triple band antenna module applications",
+      "會議名稱": "URSI GASS 2023 (XXXVth General Assembly and Scientific Symposium of the International Union of Radio Science)",
+      "作者群": "I-Fong Chen, Chia-Mei Peng, Fei-Lung Wu and Yuan-Chen Chen"
+    },
+    {
+      "論文名稱": "Ground-plane insensitive antenna design for WiFi triple-band USB dongle applications",
+      "會議名稱": "URSI GASS 2023 (XXXVth General Assembly and Scientific Symposium of the International Union of Radio Science)",
+      "作者群": "Chia-Mei Peng, I-Fong Chen, Jung-Sheng Liu and Pei-Quan Su"
+    },
+    {
+      "論文名稱": "Design of Broadband and High Gain Miniaturized HMSIW Antenna with Band Rejection Filter",
+      "會議名稱": "2023 IEEE International Symposium on Antennas and Propagation and USNC-URSI Radio Science Meeting",
+      "作者群": "Chia-Mei Peng, I-Fong Chen, Po-Chen Wang, Jung-Sheng Liu and Ting-Ren Li"
+    },
+    {
+      "論文名稱": "A UHF band quasi-circular-polarization patch antenna design for RFID smart metal-shelf applications",
+      "會議名稱": "2022 IEEE 12th International Conference on RFID Technology and Applications (RFID-TA)",
+      "作者群": "I-Fong Chen; Chia-Mei Peng"
+    },
+    {
+      "論文名稱": "Modified half-mode substrate integrated waveguide antenna design for 5G NR mmWave applications",
+      "會議名稱": "2021 International Symposium on Antennas and Propagation (ISAP)",
+      "作者群": "Chia-Mei Peng, Ting-Ren Li and *I-Fong Chen"
+    },
+    {
+      "論文名稱": "4x4 MIMO antenna design for 5G NR FR1 mobile handset applications",
+      "會議名稱": "2020 IEEE International Workshop on Electromagnetics: Applications and Student Innovation Competition (iWEM 2020)",
+      "作者群": "I-Fong Chen, Chia-Mei Peng, Hsiang-An Liu and You-Ming Chen"
+    },
+    {
+      "論文名稱": "Ten-port Sub-6G antenna for 5G smartphone applications",
+      "會議名稱": "2020 9th Asia Pacific Conference on Antenna and Propagation",
+      "作者群": "Yu-Chen Zhao, I-Fong Chen, Chia-Mei Peng, and Long Gao"
+    },
+    {
+      "論文名稱": "Advanting Throughput Antenna Structure for 4×4 MIMO WiFi 6 Mini PC Applications",
+      "會議名稱": "2020 IEEE International Symposium on Antennas and Propagation and North American Radio Science Meeting",
+      "作者群": "I-Fong Chen;Xing-Jia Chen;Chia-Mei Peng"
+    },
+    {
+      "論文名稱": "高頻基板材料電氣特性萃取及驗證技術",
+      "會議名稱": "2020臺灣電信年會",
+      "作者群": "王智偉, 陳一鋒, 彭嘉美"
+    },
+    {
+      "論文名稱": "A simple NFC parameters measurement method based on ISO/IEC 14443 standard",
+      "會議名稱": "IEEE International Conference on RFID Technology and Applications",
+      "作者群": "I-Fong Chen, Chia-Mei Peng and Zhi-Da Yan"
+    },
+    {
+      "論文名稱": "Isolation Enhancement in WiFi dual-band two PIFAs for compact size antenna module applications",
+      "會議名稱": "IEEE Conference on Antennas and Propagation",
+      "作者群": "I-Fong Chen*, Chia-Mei Peng,Han-Lin  Zhan"
+    },
+    {
+      "論文名稱": "Dual-band patch antenna array for WLAN applications",
+      "會議名稱": "2018 IEEE APEMC",
+      "作者群": "I-Fong Chen*, Chia-Mei Peng"
+    }
+  ],
+  "book": [],
+  "patent": [
+    {
+      "title": "發明",
+      "desc": "短路共平面波導饋入雙極化寬頻天線"
+    },
+    {
+      "title": "發明",
+      "desc": "寬頻多頻雙迴路天線"
+    }
+  ],
+  "most": [
+    {
+      "name": "B5G/6G 微波/毫米波之智慧型穿戴式裝置小型化HMSIW天線設計與低SAR研究",
+      "schoolYear": "113"
+    },
+    {
+      "name": "5G NR mmWave智慧型穿戴式裝置之小型化HMSIW天線設計與低SAR研究 (II)",
+      "schoolYear": "112"
+    },
+    {
+      "name": "Sub-6GHz和5G毫米波應用車聯網 (5G-V2X)之MIMO天線陣列的優化",
+      "schoolYear": "112"
+    },
+    {
+      "name": "5G NR mmWave智慧型穿戴式裝置之小型化HMSIW天線設計與低SAR研究",
+      "schoolYear": "111"
+    }
+  ],
+  "tech": [],
+  "induAca": [
+    "氫能於淨零碳排之重要地位研析報告 (2024-08 to 2025-10)",
+    "氫能發電與淨零減碳關係研析報告 (2024-08 to 2025-10)",
+    "高頻連接元件研發計畫 (2024-07 to 2025-01)",
+    "氫能新興低碳技術發展報告 (2024-05 to 2025-05)",
+    "高熱需求產業氫能應用現況 (2024-05 to 2025-05)",
+    "行動通訊專業核心課程改進及推廣計畫 (2023-02 to 2025-01)",
+    "Wifi 6E 之訊息吞吐量測試系統及軟體研發計畫 (2022-05 to 2024-05)",
+    "教育部5G行動寬頻課程推廣計畫(第2期)—5G NR實體層技術課程模組「通訊科技專論」 (2022-02 to 2023-01)",
+    "教育部5G行動寬頻課程推廣計畫(第2期)—寬頻收發關鍵技術課程模組「微波電路分析」 (2022-02 to 2023-01)",
+    "教育部5G行動寬頻課程推廣計畫(第2期)—寬頻收發關鍵技術課程模組「微波電路分析」 (2022-02 to 2023-01)",
+    "40GHz 高頻材料係數軟體平台開發計畫 (2021-01 to 2022-11)",
+    "高溫位置探測之無線系統開發計畫 (2019-12 to 2021-12)",
+    "中級電磁相容工程師能力鑑定套卷模組委託案 (2019-08 to 2020-05)",
+    "28GHz 指向性微波元件研發計畫 (2019-06 to 2021-01)",
+    "無線網通產品用之訊息吞吐量測試系統及軟體研發計畫 (2018-10 to 2020-06)"
+  ],
+  "perform": [],
+  "reward": [
+    "逢甲大學論文著作獎勵傑出獎 (111, 2022-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (111, 2022-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (110, 2021-11) - 逢甲大學",
+    "108學年度優良導師 (108, 2020-11) - 學生事務處",
+    "逢甲大學論文著作獎勵傑出獎 (109, 2020-11) - 逢甲大學"
+  ],
+  "speech": [
+    {
+      "演講題目": "RFID創意應用-智慧型商品陳列架",
+      "邀請單位": "雲林科技大學電機工程系",
+      "演講日期": "2018-05"
+    }
+  ],
+  "material": [],
+  "tal": []
+}

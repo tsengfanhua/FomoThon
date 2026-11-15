@@ -1,0 +1,156 @@
+{
+  "teacherId": "T06206",
+  "name": "劉怡芬",
+  "mainUnit": "資訊電機學院",
+  "detailUnit": "資訊工程學系",
+  "skill": [
+    "機率論Introduction to Probability",
+    "機器學習Machine Learning",
+    "語音辨識Speech Recognition",
+    "自然口語處理與辨識Spoken Language Processing and Recognition",
+    "計算語言學Computational Linguistics"
+  ],
+  "edu": [
+    "清華大學 資訊系統與應用學系 博士",
+    "交通大學 語言與文化系 碩士",
+    "實踐大學 應用外文系 學士"
+  ],
+  "fcuExp": [
+    "資訊工程學系 助理教授",
+    "資訊工程學系 副教授"
+  ],
+  "currjob": [],
+  "otherExp": [
+    "雲丰科技 語言技術研發 研發工程師",
+    "中央研究院 語言所 研究助理",
+    "中央研究院 語言所 研究助理"
+  ],
+  "journal": [
+    {
+      "論文名稱": "Learning and consolidating the contextualized contour representations of tones from F0 sequences and durational variations via transformers",
+      "期刊名稱": "The Journal of the Acoustical Society of America (SCIE)",
+      "作者群": "Yi-Fen Liu and Xiang-Li Lu"
+    },
+    {
+      "論文名稱": "Deriving\ndisyllabic word variants from a Chinese conversational speech corpus",
+      "期刊名稱": "Journal of the Acoustical Society of America (SCIE)",
+      "作者群": "Yi-Fen Liu, Shu-Chuan Tseng and Jyh-Shing Roger Jang"
+    }
+  ],
+  "journal2": [],
+  "conference": [
+    {
+      "論文名稱": "Deep Prosodic Features in Tandem with Perceptual Judgments of Word Reduction for Tone Recognition in Conversed Speech",
+      "會議名稱": "2024 INTERSPEECH",
+      "作者群": "Xiang-Li Lu and Yi-Fen Liu"
+    },
+    {
+      "論文名稱": "Model-assisted Lexical Tone Evaluation of three-year-old Chinese-speaking Children by also Considering Segment Production",
+      "會議名稱": "2023 INTERSPEECH",
+      "作者群": "Shu-Chuan Tseng, Yi-Fen Liu and Xiang-Li Lu"
+    },
+    {
+      "論文名稱": "J-ToneNet: A Transformer-based Encoding Network for Improving Tone Classification in Continuous Speech via F0 Sequences",
+      "會議名稱": "2023 INTERSPEECH",
+      "作者群": "Yi-Fen Liu and Xiang-Li Lu"
+    },
+    {
+      "論文名稱": "Segment and Tone Production in Continuous Speech of Hearing and Hearing-impaired Children",
+      "會議名稱": "2021 INTERSPEECH",
+      "作者群": "Shu-Chuan Tseng and Yi-Fen Liu"
+    },
+    {
+      "論文名稱": "Use of words in story-telling data of Chinese speaking hearing and hearing-impaired children",
+      "會議名稱": "The workshop on Disfluencies in Spontaneous Speech with an additional Special Day on (Dis)Fluency in Children’s Speech (DISS 2019)",
+      "作者群": "Liu, Yi-Fen and Shu-Chuan Tseng"
+    },
+    {
+      "論文名稱": "Establishment of normative phonological development data for Mandarin-speaking children by applying computational linguistics techniques",
+      "會議名稱": "The annual meeting of the Speech-Language-Hearing Association of Taiwan",
+      "作者群": "Tseng, Shu-Chuan and Yi-Fen Liu"
+    },
+    {
+      "論文名稱": "A Chinese spoken language assessment system that utilizes computational linguistics techniques",
+      "會議名稱": "The 10th Asia Pacific Conference on Speech, Language and Hearing",
+      "作者群": "Tseng, Shu-Chuan, Yi-Fen Liu, and Ye-Sheng Victor Lin"
+    },
+    {
+      "論文名稱": "Phone boundary annotation in conversational speech",
+      "會議名稱": "The International Conference on Language Resources and Evaluation",
+      "作者群": "Liu, Yi-Fen, Shu-Chuan Tseng, and Jyh-Shing Roger Jang"
+    },
+    {
+      "論文名稱": "Coping Imbalanced Prosodic Unit Boundary Detection with Linguistically-motivated Prosodic Features",
+      "會議名稱": "INTERSPEECH",
+      "作者群": "Liu, Yi-Fen, Shu-Chuan Tseng, Jyh-Shing Roger Jang, and Cheng-Hsien Alvin Chen"
+    },
+    {
+      "論文名稱": "A preliminary study for spontaneous speech understanding and processing: prosodic units in Mandarin Chinese",
+      "會議名稱": "The International Symposium on Linguistic Patterns in Spontaneous Speech (LPSS 2006)",
+      "作者群": "Liu, Yi-Fen, Shu-Chuan Tseng, Ya-Fang He, Yun-Ru Huang and Tze-Lun Lee"
+    }
+  ],
+  "book": [],
+  "patent": [],
+  "most": [
+    {
+      "name": "以Transformers關注基頻(F0)並交叉參照音節節奏韻律表徵以強化聲調調型表徵之學習",
+      "schoolYear": "113"
+    },
+    {
+      "name": "保衛聲優專業：防範與檢測 Deepfake 音訊之研究",
+      "schoolYear": "113"
+    },
+    {
+      "name": "基於 Transformers 以及BERT輸入架構建立能學習聲調調型和口說韻律節奏的中文音節聲調辨認模型",
+      "schoolYear": "112"
+    },
+    {
+      "name": "整合文字情緒分析與語音合成相關技術以提高故事朗讀系統的表達自然度",
+      "schoolYear": "112"
+    },
+    {
+      "name": "LINE Bot 結合語音技術應用於慢性用藥輔助系統之開發與設計—以高血壓患者為例",
+      "schoolYear": "112"
+    },
+    {
+      "name": "以卷積自動編碼器和群聚分析為本的字詞聲調變化以及語句口說韻律節奏配置之研究(2/2)",
+      "schoolYear": "110"
+    },
+    {
+      "name": "以卷積自動編碼器和群聚分析為本的字詞聲調變化以及語句口說韻律節奏配置之研究(1/2)",
+      "schoolYear": "109"
+    },
+    {
+      "name": "應用文字分析技術於設計聊天輔助機器人以降低社交焦慮",
+      "schoolYear": "108"
+    }
+  ],
+  "tech": [
+    {
+      "論文名稱": "Word use and word-level reduction in storytelling speech of Chinese-speaking hearing and hard of hearing children (2021-07)",
+      "書名": "JUDIT BÓNA",
+      "作者群": "Yi-Fen Liu and Shu-Chuan Tseng"
+    },
+    {
+      "論文名稱": "Linguistic Patterns Detected through a Prosodic Segmentation in Spontaneous Taiwan Mandarin Speech (2009-01)",
+      "書名": "Linguistic Patterns in Spontaneous Speech",
+      "作者群": "Liu, Yi-Fen, and Shu-Chuan Tseng"
+    }
+  ],
+  "induAca": [
+    "「農業知識文章語料關係提取」計畫 (2021-04 to 2021-12)",
+    "(國合)Design and Development of NX SAAS Application Cloud Services NX SAAS 應用雲服務的設計與開發III (2020-04 to 2021-03)"
+  ],
+  "perform": [],
+  "reward": [],
+  "speech": [
+    {
+      "演講題目": "Mandarin Tone Recognition via Transformers",
+      "邀請單位": "宜蘭大學資訊工程學系",
+      "演講日期": "2024-11"
+    }
+  ],
+  "material": [],
+  "tal": []
+}

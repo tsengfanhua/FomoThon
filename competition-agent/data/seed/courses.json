@@ -1,0 +1,148 @@
+{
+  "courses": [
+    {
+      "course_id": "course_001",
+      "course_name": "Python程式設計",
+      "semester": "114-2",
+      "credits": 2.0,
+      "syllabus_text": "Python是目前最廣泛被使用的語言之一,除了設計簡潔、語法易讀易懂、學習曲線相對較低的優點以外,它可以應用於各種不同的領域,包括科學、數據分析、人工智能、網路開發等。本課程透過線上非同步的方式來講授課程,除了可以讓學生有彈性的時間空間進行學習外,也可以反覆的複習。課程主要範圍包含:Python程式語言簡介;程式的基本結構與運算;邏輯運算;集合物件;函式;資料處理;物件導向設計;使用者體驗設計等。",
+      "review_status": "pending",
+      "text_origin": "original_excerpt"
+    },
+    {
+      "course_id": "course_002",
+      "course_name": "資料庫設計",
+      "semester": "114-2",
+      "credits": 3.0,
+      "syllabus_text": "本課程在使學生瞭解資料庫系統的基本原理和架構、認識關聯式資料模式的概念、熟悉資料庫管理系統的操作、學習結構化查詢語言的設計技巧,使具有資料庫應用系統的分析、設計及實作的能力。",
+      "review_status": "pending",
+      "text_origin": "original_excerpt"
+    },
+    {
+      "course_id": "course_003",
+      "course_name": "機率與統計",
+      "semester": "114-2",
+      "credits": 3.0,
+      "syllabus_text": "機率與統計是在工程與科學領域重要的基礎課程。本課程首先將幫助修課學生建立機率與統計的基本概念,藉由介紹機率學的隨機變數、多種離散與連續的機率分佈及隨機變數的函數等重要概念,連結統計學上基本抽樣分佈與資料敘述、單樣本與多樣本的推定方法及單樣本與多樣本的假定檢驗的使用。",
+      "review_status": "pending",
+      "text_origin": "original_excerpt"
+    },
+    {
+      "course_id": "course_004",
+      "course_name": "造型運算設計與機器學習",
+      "semester": "114-2",
+      "credits": 3.0,
+      "syllabus_text": "本課程目標為建立當代設計運算與新科技藝術與應用之研究與應用基礎能力,目標是將程式語言視為創作工具與媒介,使學生能運用程式進行自動化、參數化、智慧化工作,進而創造自己的數位創作流程與新工具。課程中將演算法應用於幾何編輯、設計運用與機器學習等面向之實際案例。通過本課程的學習,學生可以培養對演算法與機器學習的基本理解和興趣,並掌握一些基礎的機器學習技能,並探討其在不同領域的應用和實例,進一步完成更多跨領域實作專題。",
+      "review_status": "pending",
+      "text_origin": "original_excerpt"
+    },
+    {
+      "course_id": "course_005",
+      "course_name": "人工智慧技術之應用",
+      "semester": "114-2",
+      "credits": 3.0,
+      "syllabus_text": "本課程是人工智慧技術應用之課程,將教導學生機器學習的人工智慧技術概念與其產業實務應用,同時欲使學生具備規劃並整合人工智慧技術於有價值應用的能力。主要的學習目標包含人工智慧現在的應用與優勢、圖像辨識的應用、視頻識別應用、語音識別應用、自然語言處理應用、知識發現應用、創作AI等,並實作人工智慧相關的演算法和應用。",
+      "review_status": "pending",
+      "text_origin": "original_excerpt"
+    },
+    {
+      "course_id": "course_006",
+      "course_name": "統計學(二)",
+      "semester": "114-2",
+      "credits": 3.0,
+      "syllabus_text": "統計學(二)為第二學期統計入門課程,在機率觀念定義與區間估計的基礎上,導引學生熟悉運用基本統計方法,主題包括統計假設檢定、母體變異數的推論、變異數分析、迴歸分析。",
+      "review_status": "pending",
+      "text_origin": "original_excerpt"
+    },
+    {
+      "course_id": "course_007",
+      "course_name": "資料探勘於土木工程之應用",
+      "semester": "114-2",
+      "credits": 3.0,
+      "syllabus_text": "本課程將介紹資料蒐集、資料格式轉換、資料探勘理論與免費公開實作平台等主題,並結合土木工程領域相關應用。此外,學生必須嘗試將所學理論、實務套用至個人研究主題,以期拓展或精進研究成果。",
+      "review_status": "pending",
+      "text_origin": "original_excerpt"
+    },
+    {
+      "course_id": "course_008",
+      "course_name": "資料結構實習",
+      "semester": "114-2",
+      "credits": 1.0,
+      "syllabus_text": "本課程的目標在於讓學生經由實習課程的進行,學習程式設計的技巧與應用資料結構的能力。",
+      "review_status": "pending",
+      "text_origin": "original_excerpt"
+    },
+    {
+      "course_id": "course_009",
+      "course_name": "計算機演算法",
+      "semester": "114-2",
+      "credits": 3.0,
+      "syllabus_text": "介紹各種演算法設計之技巧以奠定用計算機解決問題之基礎並認識複雜度理論",
+      "review_status": "pending",
+      "text_origin": "original_excerpt"
+    },
+    {
+      "course_id": "course_010",
+      "course_name": "資訊安全管理",
+      "semester": "114-2",
+      "credits": 3.0,
+      "syllabus_text": "本課程介紹資訊安全的管理標準、資訊與其風險、資訊安全管理系統的開發與維護、資產和風險管理、人力資源管理、實體環境安全管理、通訊與作業管理、資訊安全事故管理、營運持續管理、內部稽核與管理審查。",
+      "review_status": "pending",
+      "text_origin": "original_excerpt"
+    },
+    {
+      "course_id": "course_011",
+      "course_name": "資料分析及繪圖實務",
+      "semester": "114-2",
+      "credits": 3.0,
+      "syllabus_text": "本課程使用免費軟體進行實務資料之分析及繪圖,除了介紹R程式語言及其基本統計分析功能,同時以R程式及Highcharts網頁程式進行繪圖應用,可提高學生資料處理、呈現及解讀之靈活度。",
+      "review_status": "pending",
+      "text_origin": "original_excerpt"
+    },
+    {
+      "course_id": "course_012",
+      "course_name": "影像處理",
+      "semester": "114-2",
+      "credits": 3.0,
+      "syllabus_text": "按學生個別化教授,隨時雙向溝通,以達讓學生能夠以結構化及物件化方式學習。課程之目的在於講授電子影像之實務處理技術及目前最新穎影像論文的研究與探討。",
+      "review_status": "pending",
+      "text_origin": "original_excerpt"
+    },
+    {
+      "course_id": "course_013",
+      "course_name": "網路程式設計",
+      "semester": "114-2",
+      "credits": 3.0,
+      "syllabus_text": "這門課目標瞭解各種使用 socket API 的裝置並設計穩定傳輸的網路程式。很多裝置透過不同的 protocol socket API 相互溝通,設計穩定的網路程式是重要的課題。",
+      "review_status": "pending",
+      "text_origin": "original_excerpt"
+    },
+    {
+      "course_id": "course_014",
+      "course_name": "深度學習概論",
+      "semester": "114-2",
+      "credits": 3.0,
+      "syllabus_text": "本課程將介紹深度學習的概念與架構,並且透過程式設計實現深度學習神經網路的模型,讓同學們發揮創意產出深度學習神經網路的相關應用,達到落地應用的目的。",
+      "review_status": "pending",
+      "text_origin": "original_excerpt"
+    },
+    {
+      "course_id": "course_015",
+      "course_name": "生活化的敏捷專案管理",
+      "semester": "114-2",
+      "credits": 2.0,
+      "syllabus_text": "本課程首先教授敏捷專案管理相關知識與方法論,接著透過敏捷分組團隊進行專案管理實務應用,最後輔導學生有效通過中華專案管理學會的敏捷助理專案管理師(APMA)專業認證考試。",
+      "review_status": "pending",
+      "text_origin": "original_excerpt"
+    },
+    {
+      "course_id": "course_016",
+      "course_name": "視覺設計原理與技巧",
+      "semester": "114-2",
+      "credits": 2.0,
+      "syllabus_text": "平面設計課程以美學的角度出發, 學習設計概念與應用方法結合Photoshop 影像處理技巧功能, 將插畫作品進行影像創作,設計出更精緻的視覺影像。",
+      "review_status": "pending",
+      "text_origin": "original_excerpt"
+    }
+  ]
+}

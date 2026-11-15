@@ -1,0 +1,289 @@
+{
+  "teacherId": "T04063",
+  "name": "陳家豪",
+  "mainUnit": "資訊電機學院",
+  "detailUnit": "通訊工程學系",
+  "skill": [
+    "射頻積體電路設計Radio frequency integrated circuit design",
+    "類比積體電路設計Analog integradted circuit design",
+    "微波元件與電路設計Microwave device and circuit design",
+    "元件模型與可靠度分析Device modeling and Realibility"
+  ],
+  "edu": [
+    "國立成功大學 電機所 博士",
+    "私立輔仁大學 電子工程系 學士"
+  ],
+  "fcuExp": [
+    "智慧聯網研究中心 研究發展組組長",
+    "智慧聯網產業博士學位學程 主任",
+    "視光科技碩士在職學位學程 主任",
+    "資訊電機工程碩士在職專班 主任",
+    "資訊電機工程碩士在職學位學程 主任",
+    "光電能源與視覺科技碩士在職專班 主任",
+    "逢甲大學帆宣智慧城市5G實驗室 研究員",
+    "資訊電機學院學士班 代理主任",
+    "通訊工程學系 助理教授",
+    "通訊工程學系 副教授"
+  ],
+  "currjob": [],
+  "otherExp": [
+    "私立東海大學 電機系暨研究所 助理教授",
+    "立積電子股份有限公司 產品設計部門 高級工程師",
+    "揚智科技股份有限公司 類比電路設計部門 高級工程師"
+  ],
+  "journal": [
+    {
+      "論文名稱": "Cost-effective Noninvasive 2.4 GHz Microwave Blood Glucose Sensor",
+      "期刊名稱": "Sensors and Materials (SCIE)",
+      "作者群": "Ja-Hao Chen* and Keng-I Lai"
+    },
+    {
+      "論文名稱": "Multiple Performance Optimization for Microstrip Patch Antenna Improvement",
+      "期刊名稱": "snesors (SCIE)",
+      "作者群": "Ja-Hao Chen, Chen-Yang Cheng*, Chuan-Min Chien, Chumpol Yuangyai*, Ting-Hua Chen and Shuo-Tsung Chen"
+    },
+    {
+      "論文名稱": "Novel Portable 2.4 GHz Antenna Beam Sensor",
+      "期刊名稱": "Sensors and Materials (SCIE)",
+      "作者群": "Ja-Hao Chen*, Yu-Chang Lin, Tai-Chieh Tseng, and Cheng-Chi Yu"
+    },
+    {
+      "論文名稱": "Enhancement of 5 GHz on-chip bandpass filter performance by using CMOS-MEMS inductors",
+      "期刊名稱": "Microsystem Technologies (SCIE)",
+      "作者群": "Ja-Hao Chen"
+    },
+    {
+      "論文名稱": "Extremely compact microstrip branch-line coupler with a novel fold structure",
+      "期刊名稱": "Microwave and Optical Technology Letters (SCIE)",
+      "作者群": "Ja-Hao Chen*, Shih-Yi Yuan and Shi-Rong Liou"
+    },
+    {
+      "論文名稱": "Gain enhancement of a compact 2.4 GHz meander antenna using inductive feed and capacitive load",
+      "期刊名稱": "Microwave and Optical Technology Letters (SCIE)",
+      "作者群": "Ja-Hao Chen*, Chun-Kai Yang, Chen-Yang Cheng, Cheng-Chi Yu, Cheng-Hsing Hsu"
+    },
+    {
+      "論文名稱": "Quality factor enhancement of an on-chip inductor through the slot-trace method",
+      "期刊名稱": "Microsystem Technologies (SCIE)",
+      "作者群": "Ja-Hao Chen*"
+    },
+    {
+      "論文名稱": "Improved dielectric resonator through Nd substitution in SrLa4Ti4O15 ceramics at microwave frequencies",
+      "期刊名稱": "Ceramics International (SCIE)",
+      "作者群": "Wen-Shiush Chen, Cheng-Chi Yu, Ja-Hao Chen, Jen-Chieh Liu, Cheng-Hsing Hsu, Yu-Cheng Wang"
+    },
+    {
+      "論文名稱": " 0.35 μm CMOS-MEMS Low-Mechanical-Noise Micro Accelerometer",
+      "期刊名稱": "Microsystem Technologies (SCIE)",
+      "作者群": "Ja-Hao Chen*, and Chih-Wei Huang"
+    },
+    {
+      "論文名稱": "Compact Planar Microstrip Branch-Line Coupler Using Equal Difference Structure",
+      "期刊名稱": "Microwave and Optical Technology Letters (SCIE)",
+      "作者群": "Ja-Hao Chen*, Shih-Yi Yuan, Shi-Rong Liou, and Shry-Sann Liao"
+    },
+    {
+      "論文名稱": "Linearity Improvement of Cascode CMOS LNA Using a Diode Connected NMOS Transistor with a Parallel RC Circuit",
+      "期刊名稱": "Progress In Electromagnetics Research C ()",
+      "作者群": "Chieh-Pin Chang, Wei-Chih Chien, Chun-Chi Su, Yeong-Her Wang, and Ja-Hao Chen"
+    },
+    {
+      "論文名稱": "A 6:1 Unequal Wilkinson Power Divider with EBG CPW",
+      "期刊名稱": " Progress In Electromagnetics Research Letters ()",
+      "作者群": "C.-P. Chang, C.-C. Su, S.-H. Hung, J.-H. Chen, and Y.-H. Wang"
+    },
+    {
+      "論文名稱": "A Fully Integrated 5 GHz Low-Voltage LNA Using Forward Body Bias Technology.",
+      "期刊名稱": "IEEE Microwave and Wireless Components Letters (SCIE)",
+      "作者群": "Chieh-Pin Chang, Ja-Hao Chen, and Yeong-Her Wang"
+    },
+    {
+      "論文名稱": "A high gain, low noise WLAN receiver for dual if double downconversion application in 90-nm RF CMOS",
+      "期刊名稱": "Microwave and Optical Technology Letters (SCIE)",
+      "作者群": "Chieh-Pin Chang, Jian-An Hou, Jionguang Su, Ja-Hao Chen, Chih-Wei Chen, Tsyr-Shyang Liou, Shyh-Chyi Wong, Yeong-Her Wang"
+    },
+    {
+      "論文名稱": "Breakdown and stress-induced oxide degradation mechanisms in MOSFETs",
+      "期刊名稱": "Solid-State Electronics (SCIE)",
+      "作者群": "J.H Chen, C.T. Wei, S.M. Hung, S.C. Wong, and Y.H. Wang"
+    },
+    {
+      "論文名稱": "DC Pulse Hot-Carrier-Stress Effects on Gate-Induced Drain Leakage Current in n-Channel MOSFETs",
+      "期刊名稱": "IEEE Transactions on Electron Devices (SCIE)",
+      "作者群": "Ja-Hao Chen, Shyh-Chyi Wong, and Yeong-Her Wang"
+    },
+    {
+      "論文名稱": "An Analytic Three-Terminal Band-to-Band Tunneling Model on GIDL in MOSFET",
+      "期刊名稱": "IEEE Transactions on Electron Devices (SCIE)",
+      "作者群": "Ja-Hao Chen, Shyh-Chyi Wong, and Yeong-Her Wang"
+    }
+  ],
+  "journal2": [],
+  "conference": [
+    {
+      "論文名稱": "Patch Antenna Array With Honeycomb Substrate for Microwave Wireless Power Transmission Applications",
+      "會議名稱": "2024 IEEE International Workshop on Electromagnetics: Applications and Student Innovation Competition (iWEM)",
+      "作者群": "Ja-Hao Chen*, Cheng-Hsing Hsu and Nai-Wen Chen"
+    },
+    {
+      "論文名稱": "A Low-profile Antenna Design for LTE/WWAN Smartphone Application",
+      "會議名稱": "2018 Progress In Electromagnetics Research Symposium (2018 PIERS)",
+      "作者群": "Cheng-Chi Yu, Chien-Yu Huang, Jiin-Hwa Yang, Cheng-Hsing Hsu, and Ja-Hao Chen"
+    },
+    {
+      "論文名稱": "Extremely Compact High Gain 2.4 GHz Antenna with Folded Finger Meander Line Structure",
+      "會議名稱": "2018 Progress In Electromagnetics Research Symposium (2018 PIERS)",
+      "作者群": "Ja-Hao Chen, Yu-Ju Lin, Cheng-Chi Yu, He-Jin Lin, Cheng-Hsing Hsu, and Ching-Fang Tseng"
+    },
+    {
+      "論文名稱": "Design of Mixed C- and F-shaped Monopole Antenna for Multi-band Systems Application",
+      "會議名稱": "2018 Progress In Electromagnetics Research Symposium  (2018 PIERS)",
+      "作者群": "Cheng-Hsing Hsu, Shang-Hung Tsai, Ja-Hao Chen, Cheng-Chi Yu, and Ching-Fang Tseng"
+    },
+    {
+      "論文名稱": "低成本微小型生命訊號感測技術之研究",
+      "會議名稱": "2018全國電信研討會",
+      "作者群": "陳家豪、蔡維鈞、蔡威佑"
+    },
+    {
+      "論文名稱": "微小化三頻帶通濾波器設計",
+      "會議名稱": "2018全國電信研討會",
+      "作者群": "尤正祺、陳家豪、高晟輝"
+    },
+    {
+      "論文名稱": "Wide-stopband compact pseudo-interdigital over coupled bandpass filter with SIR and open-stub structure",
+      "會議名稱": "2017 Progress in Electromagnetics Research Symposium - Fall (PIERS - FALL)",
+      "作者群": "Ja-Hao Chen, Shih-Yi Yuan, and Shi-Rong Liou"
+    },
+    {
+      "論文名稱": "Design of Compact Printed 2.4GHz Band-pass filter using LC resonator",
+      "會議名稱": "2016 International Conference on Advanced Materials for Science and Engineering",
+      "作者群": "Ja-Hao Chen, and Shih Siang Liao"
+    },
+    {
+      "論文名稱": "Miniaturization Cross-coupled Interdigital Filter Design Using High Permittivity Substrate",
+      "會議名稱": "2016 Progress in Electromagnetic Research Symposium (PIERS)",
+      "作者群": "Cheng-Hsing Hsu, Cheng-Chi Yu, Ja-Hao Chen, Jen-Chieh Liu, Hsin-Han Tung, Ching-Fang Tseng, Sen-Hung Huang, and Chung-I G. Hsu"
+    }
+  ],
+  "book": [
+    {
+      "專業書籍": "半導體元件：在積體電路上的應用",
+      "出版單位": "高立圖書",
+      "作者群": " 龔正、蔡坤霖、劉日新、陳家豪、苗新元"
+    }
+  ],
+  "patent": [
+    {
+      "title": "發明",
+      "desc": "Piezoresistive type Z-axis accelerometer"
+    },
+    {
+      "title": "發明",
+      "desc": "Sensing apparatus"
+    },
+    {
+      "title": "發明",
+      "desc": "Single-ended input to differential-ended output low noise amplifier implemented with cascode and cascade topology"
+    },
+    {
+      "title": "新型",
+      "desc": "具有無線路由功能之電源插座裝置與包含此電源插座裝置的無線網路系統"
+    },
+    {
+      "title": "新型",
+      "desc": "具无线路由功能的电源插座装置与包含其的无线网络系统"
+    },
+    {
+      "title": "發明",
+      "desc": "螺旋電感元件"
+    }
+  ],
+  "most": [
+    {
+      "name": "應用於5G通訊之雙核壓控振盪器晶片設計之研究",
+      "schoolYear": "113"
+    },
+    {
+      "name": "基於臉部感知隱私保護資料收集及低功耗晶片設計(3/3)",
+      "schoolYear": "112"
+    },
+    {
+      "name": "基於臉部感知隱私保護資料收集及低功耗晶片設計(2/3)",
+      "schoolYear": "111"
+    },
+    {
+      "name": "提升非侵入式血糖感測元件靈敏度之研究",
+      "schoolYear": "111"
+    },
+    {
+      "name": "應用於光遺傳學研究應用之具安全性長遠距離無線電力傳輸系統",
+      "schoolYear": "108"
+    },
+    {
+      "name": "(應用型)產學合作計畫－應用於藍芽室內定位之無線微波電力傳輸充電系統之研製",
+      "schoolYear": "106"
+    },
+    {
+      "name": "(廠配)精元電腦股份有限公司(應用型)產學合作計畫－應用於藍芽室內定位之無線微波電力傳輸充電系統之研製",
+      "schoolYear": "106"
+    },
+    {
+      "name": "(應用型)產學合作計畫－低成本微小型生命訊號感測技術之研究",
+      "schoolYear": "104"
+    },
+    {
+      "name": "(廠配)好慶科技企業股份有限公司(應用型)產學合作計畫－低成本微小型生命訊號感測技術之研究",
+      "schoolYear": "104"
+    }
+  ],
+  "tech": [],
+  "induAca": [
+    "107年度地政整合資訊服務共享協作平台建置案 (2018-07 to 2018-12)"
+  ],
+  "perform": [],
+  "reward": [
+    "逢甲大學論文著作獎勵傑出獎 (113, 2024-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (113, 2024-11) - 逢甲大學",
+    "ICSEVEN2017論文獎 (111, 2023-01) - TAAI",
+    "109年度科技部補助大專校院研究獎勵 (109, 2020-10) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (107, 2018-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (107, 2018-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (107, 2018-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (107, 2018-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (107, 2018-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (107, 2018-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (107, 2018-11) - 逢甲大學",
+    "青年學者獎 (106, 2017-10) - TAAI",
+    "ICSEVEN2017論文獎 (106, 2017-10) - ICSEVEN",
+    "ICICE2016論文獎 (105, 2016-11) - ICICE",
+    "2011電信創新應用大賽智慧家庭創新應用獎冠軍 (100, 2011-12) - 中華電信"
+  ],
+  "speech": [
+    {
+      "演講題目": "CMOS静电防护电路技术介绍",
+      "邀請單位": "北京大学软件与微电子学院集成电路与智能系",
+      "演講日期": "2018-05"
+    },
+    {
+      "演講題目": "物聯網泛談",
+      "邀請單位": "輔仁大學電機工程學系",
+      "演講日期": "2017-10"
+    },
+    {
+      "演講題目": "發現LED新藍海與關鍵技術研討會",
+      "邀請單位": "財團法人成大研究發展基金會",
+      "演講日期": "2016-09"
+    },
+    {
+      "演講題目": "智慧照護",
+      "邀請單位": "聯合大學電機系",
+      "演講日期": "2015-12"
+    }
+  ],
+  "material": [
+    "物聯網理論與實務\t全華圖書\t鄒耀東;陳家豪\t教科書",
+    "物聯網理論與實務(第二版)\t全華圖書\t鄒耀東, 陳家豪\t教科書"
+  ],
+  "tal": []
+}

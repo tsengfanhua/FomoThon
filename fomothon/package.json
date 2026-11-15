@@ -1,0 +1,27 @@
+{
+  "name": "fomothon-agent",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Fomo鬆（FomoThon）Agentic AI 校園協作媒合平台：決賽原型",
+  "engines": {
+    "node": ">=22.13"
+  },
+  "scripts": {
+    "start": "node src/http/server.js",
+    "test": "node --test --experimental-test-coverage --test-coverage-exclude=\"test/**\" \"test/*.test.js\"",
+    "eval": "node eval/run.js",
+    "reset": "node scripts/reset-db.js",
+    "check:anon": "node scripts/check-anonymity.js",
+    "e2e": "node scripts/e2e.js",
+    "mcp": "node src/mcp/stdio.js",
+    "mcp:token": "node scripts/mcp-token.js",
+    "dq": "node scripts/dq.js"
+  },
+  "optionalDependencies": {
+    "@anthropic-ai/sdk": "^1.8.0"
+  },
+  "devDependencies": {
+    "@modelcontextprotocol/sdk": "^1.32.2"
+  }
+}

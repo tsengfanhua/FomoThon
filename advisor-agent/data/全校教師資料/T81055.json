@@ -1,0 +1,2563 @@
+{
+  "teacherId": "T81055",
+  "name": "黃錦煌",
+  "mainUnit": "工程與科學學院",
+  "detailUnit": "機械與電腦輔助工程學系",
+  "skill": [
+    "微感測器與微致動器Micro actuator and Micro sensors",
+    "智慧型材料Intellegent Materials",
+    "微機電系統MEMS",
+    "電聲系統設計Electro-Acoustic Design",
+    "電腦輔助分析CAE"
+  ],
+  "edu": [
+    "美國西北大學 機械工程學系 博士"
+  ],
+  "fcuExp": [
+    "實習工場 主任",
+    "機械與電腦輔助工程系 系主任",
+    "電聲碩士學位學程 主任",
+    "工學院 院長",
+    "精密機械產業發展中心 主任",
+    "產學合作處 產學合作長",
+    "中科辦公室 主任",
+    "校長室 副校長",
+    "校長室 副校長",
+    "體育事務處 體育長",
+    "健康服務產業發展中心 主任",
+    "產學合作處 產學合作長",
+    "研究生處 研究生長",
+    "機械工程學系(所) 助教",
+    "機械工程學系(所) 副教授",
+    "機械工程學系(所) 教授",
+    "逢甲大學 特聘教授",
+    "機械與電腦輔助工程學系 教授",
+    "機械與電腦輔助工程學系 教授",
+    "逢甲大學 特聘教授",
+    "機械與電腦輔助工程學系 講座教授"
+  ],
+  "currjob": [],
+  "otherExp": [],
+  "journal": [
+    {
+      "論文名稱": "Analysis of Structural Design Variations in MEMS Capacitive Microphones",
+      "期刊名稱": "Sensors (SCIE)",
+      "作者群": "Tzu-huan Peng, Huei-Ju Hsu and Jin H. Huang"
+    },
+    {
+      "論文名稱": "The Effect of Compliant Backplate on Capacitive MEMS Microphones",
+      "期刊名稱": "IEEE Sensors Journal (SCIE)",
+      "作者群": "Tzu-Huan Peng and Jin H. Huang"
+    },
+    {
+      "論文名稱": "Omni-directional Multi-view Image Measurement System in the Co-sphere Framework",
+      "期刊名稱": "Advances in Science, Technology and Engineering Systems Journal (EI)",
+      "作者群": "Yung-Hsiang Chen and Jin H. Huang"
+    },
+    {
+      "論文名稱": "Detecting the Movement of the Pilot's Body During Flight Operations",
+      "期刊名稱": "Advances in Science, Technology and Engineering Systems Journa (EI)",
+      "作者群": "Yung-Hsiang Chen, Chen-Chi Fan, and Jin H. Huang"
+    },
+    {
+      "論文名稱": "Main Melody Configuration and Chord Algorithm for Relaxing Music Generation",
+      "期刊名稱": "Intelligent Automation & Soft Computing (SSCI)",
+      "作者群": "Chih-Fang Huang, Ai-Hsien Fan, Jin H. Huang and Hsing-Cheng Huang"
+    },
+    {
+      "論文名稱": "Inverse Determination of Acoustic Properties of Acoustic Ventilation Cloth (Woven and Non-Woven) by Particle Swarm Optimization and Estimation of Its Effect on the Frequency Response of the Microspeaker",
+      "期刊名稱": "Applied Sciences (SCIE)",
+      "作者群": "Yu-Cheng Liu, Suryappa Jayappa Pawar, and Jin-Huang Huang"
+    },
+    {
+      "論文名稱": "Heart sound classification using deep learning techniques based on log-mel spectrogram",
+      "期刊名稱": "Circuits, Systems, and Signal Processing (SCIE)",
+      "作者群": "Minh Tuan Nguyen, Wei Wen Lin and Jin H. Huang"
+    },
+    {
+      "論文名稱": "Location estimation of receivers in an audio room using deep learning with a convolution neural network",
+      "期刊名稱": "Journal of Information Science and Engineering (SCIE,TSSCI)",
+      "作者群": "Minh Tuan Nguyen and Jin H. Huang*"
+    },
+    {
+      "論文名稱": "Electroacoustic analysis of a directional moving-coil microphone using combined lumped-parameter models and BEM",
+      "期刊名稱": "Sensors and Actuators A: Physical (SCIE)",
+      "作者群": "Tzu-Huan Peng and Jin H. Huang*"
+    },
+    {
+      "論文名稱": "Fault detection in water pumps based on sound analysis using a deep learning technique",
+      "期刊名稱": "Journal of Process Mechanical Engineering (SCIE)",
+      "作者群": "Minh Tuan Nguyen and Jin H. Huang"
+    },
+    {
+      "論文名稱": "Structural Modifications of Headphone Front Chamber for Better Frequency Response: Experimental and Simulation Studies",
+      "期刊名稱": "Acoustics Australia (SCIE)",
+      "作者群": "Je Ru Chen · S. J. Pawar · Jin H. Huang"
+    },
+    {
+      "論文名稱": "VARIATIONS IN THE ACOUSTIC MEASUREMENT OF EARBUD EARPHONES IN AN ANECHOIC CHAMBER DUE TO CHANGES IN THE EARPHONE PLACEMENT IN EAR CONCHA",
+      "期刊名稱": "Canadian Acoustics (EI)",
+      "作者群": "S. J. Pawar, Y. C. Liu, Jin H. Huang"
+    },
+    {
+      "論文名稱": "Utilization of a reinforcement learning algorithm for the accurate alignment of a robotic arm in a complete soft fabric shoe tongues automation process.",
+      "期刊名稱": "Journal of Manufacturing Systems (SSCI,SCIE)",
+      "作者群": "Tsai Y-T, Lee C-H, Liu T-Y, Chang T-J, Wang C-S, Pawar SJ, Huang P-H, Huang J-H.*"
+    },
+    {
+      "論文名稱": "Estimating heat generation and welding temperature for gas metal arc welding process",
+      "期刊名稱": "Applied Thermal Engineering (SCIE)",
+      "作者群": "Thi-ThaoNgo, Chi-ChangWang, Jin H.Huang, and Van-The Than"
+    },
+    {
+      "論文名稱": "Estimating heat generation and welding temperature for gas metal arc welding process",
+      "期刊名稱": "Applied Thermal Engineering (SCIE)",
+      "作者群": "T. T. Ngo*, C. C. Wang, H. H. Jin, V. T. Than"
+    },
+    {
+      "論文名稱": "Analyzing characteristics of high-speed spindle bearing under constant preload",
+      "期刊名稱": "Journal of Engineering Tribology, Proceedings of the Institution of Mechanical Engineers Part J (SCIE)",
+      "作者群": "T. T. Ngo, V. T. Than, C. C. Wang, and J. H. Huang*"
+    },
+    {
+      "論文名稱": "One-dimensional model for axial thermal error in a micro high-speed spindle",
+      "期刊名稱": "Proceedings of the Institution of Mechanical Engineers, Part C: Journal of Mechanical Engineering Science (SCIE)",
+      "作者群": "V. T. Than*, J. H. Huang, T. T. Ngo and C. C. Wang"
+    },
+    {
+      "論文名稱": "One-dimensional model for axial thermal error in a micro high-speed spindle",
+      "期刊名稱": "Journal of Mechanical Engineering Science (SCIE)",
+      "作者群": "Van-The Than,  Jin H. Huang* Thi-Thao Ngo and Chi-Chang Wang"
+    },
+    {
+      "論文名稱": "Simplified BFGS method estimate Mechanical Parameters of a Moving-Coil Loudspeaker",
+      "期刊名稱": "Journal of the Chinese Society of Mechanical Engineers (SCIE)",
+      "作者群": "Huang Jin-Huang and Chi-Chang Wang*"
+    },
+    {
+      "論文名稱": "Analyzing characteristics of high-speed spindle bearing under constant preload",
+      "期刊名稱": "Journal of Engineering Tribology, Proceedings of the Institution of Mechanical Engineers Part J (SCIE)",
+      "作者群": "Thi-Thao Ngo, Van-The Than, Chi-Chang Wang, and Jin H. Huang*"
+    },
+    {
+      "論文名稱": "Electrostatic Polarization Process Control: A Case Study on Electret Condenser Microphone Production Line",
+      "期刊名稱": " Journal of the Audio Engineering Society (SCIE)",
+      "作者群": "S. J. Pawar, Dane-Jong Yang, H. C. Her, and Jin H. Huang"
+    },
+    {
+      "論文名稱": "Preventing damage to miniature-loudspeaker by means of dynamic detection of excessive diaphragm displacement",
+      "期刊名稱": "The Journal of the Acoustical Society of America (SCIE)",
+      "作者群": "Yu-Ting Tsai, S. J. Pawar, Chi-Chang Wang and Jin H. Huang*"
+    },
+    {
+      "論文名稱": "Electrostatic Polarization Process Control: A Case Study on Electret Condenser Microphone Production Line",
+      "期刊名稱": "Journal of the Audio Engineering Society (SCIE)",
+      "作者群": "S. J. Pawar, H. C. Her, and Jin H. Huang*"
+    },
+    {
+      "論文名稱": "A BFGS and simple step method for estimating the interface temperature in 2D ultrasonic seam welding",
+      "期刊名稱": "Applied Thermal Engineering (SCIE)",
+      "作者群": "Thi-Thao Ngo, Jin H. Huang, Van-The Than, Chi-Chang Wang"
+    },
+    {
+      "論文名稱": "Estimating time-varying heat sources in a high speed spindle based on two measurement temperatures",
+      "期刊名稱": "International Journal of Thermal Sciences (SCIE)",
+      "作者群": "Van-The Than, Chi-Chang Wang, Thi-Thao Ngo and Jin H. Huang*"
+    },
+    {
+      "論文名稱": "An inverse method for estimating heat sources in a high speed spindle",
+      "期刊名稱": "Applied Thermal Engineering (SCIE)",
+      "作者群": "Jin H. Huang*, V.T. Than, T.T. Ngo, C.C. Wang"
+    },
+    {
+      "論文名稱": "Nonlinear Thermal Effects on High-Speed Spindle Bearings Subjected to Preload",
+      "期刊名稱": "Tribology International (SCIE)",
+      "作者群": "Van-The Than and Jin H. Huang*"
+    },
+    {
+      "論文名稱": "Inverse Simulation and Experimental Verification of Temperature-Dependent Thermophysical Properties",
+      "期刊名稱": "International Communication in Heat and Mass Transfer (SCIE)",
+      "作者群": "Thi-Thang Ngo, Jin-Huang Huang and Chi-Chang Wang*"
+    },
+    {
+      "論文名稱": "HSDM and BFGS method for Determining the Heat Generation and Range of Heat Distribution in 2-D Ultrasonic Seam Welding Problem",
+      "期刊名稱": "Numerical Heat Transfer (SCIE)",
+      "作者群": "Jin-Huang Huang, Thi-Thao Ngo, and Chi-Chang Wang"
+    },
+    {
+      "論文名稱": "Emulation of junction field-effect transistors for real-time audio applications",
+      "期刊名稱": "IEICE Electronics Express (SCIE)",
+      "作者群": "Diego Hernandez and Jin H. Huang*"
+    },
+    {
+      "論文名稱": "The BFGS Method for Estimating the Interface Temperature and Convection Coefficient in Ultrasonic Welding",
+      "期刊名稱": "International Communications in Heat and Mass Transfer Corresponding (SCIE)",
+      "作者群": "Thi-Thao Ngo, Jin-Huang Huang and Chi-Chang Wang*,"
+    },
+    {
+      "論文名稱": "Parameters Optimization of the Laminated Composite Plate for Sound Transmission Problem.",
+      "期刊名稱": "International Journal of Mechanical, Aerospace, Industrial, Mechatronic and Manufacturing Engineering (SCIE)",
+      "作者群": "Yu-Ting Tsai and Jin H. Huang*"
+    },
+    {
+      "論文名稱": "Evaluation of Acoustic Characteristics for various Composite Ventilation Material by using Impedance Tube",
+      "期刊名稱": "Advanced Materials Research (EI)",
+      "作者群": "Yu-Cheng Liu, Jin H. Huang*, Chen-Hung Huang, Hong-Ching Her, and Yu-Chun Chuang"
+    },
+    {
+      "論文名稱": "Design and Construction of a Small Reverberation Chamber Applied to Absorption and Scattering Acoustic Measurements",
+      "期刊名稱": "Advanced Materials Research (EI)",
+      "作者群": "D. Hernandez, E.J. Liu, J.H. Huang, and Y.C. Liu"
+    },
+    {
+      "論文名稱": "Optimizing Material Properties of Composite Plates for Sound Transmission Problem",
+      "期刊名稱": "Journal of Sound and Vibration (SCIE)",
+      "作者群": "Y. T. Tsai, S. J. Pawar and Jin H. Huang"
+    },
+    {
+      "論文名稱": "Loudspeaker Parameters Inverse Problem for Improving Sound Frequency Response Simulation",
+      "期刊名稱": "International Journal of Computer, Information, Systems and (EI)",
+      "作者群": "Yu-Ting Tsai and Jin H. Huang*"
+    },
+    {
+      "論文名稱": "Evaluation of Sound Absorption Capability from PET Mesh to PET/PU Composite Board",
+      "期刊名稱": "Advanced Materials Research (EI)",
+      "作者群": "YuCheng Liu*, Jin H. Huang, ChenHung Huang, MinHon Tsai and YuChun Chuang"
+    },
+    {
+      "論文名稱": "Effect of Vermiculite and Bulk Density in the PU Foam Composite Board for the Absorption Coefficient and Acoustic Impedance",
+      "期刊名稱": "Advanced Materials Research (EI)",
+      "作者群": "Y.C. Liu*, Jin H. Huang, C.H. Huang, M.H. Tsai, Y.C. Chuang"
+    },
+    {
+      "論文名稱": "An inverse method to estimate the electromechanical parameters of moving-coil loudspeakers",
+      "期刊名稱": "Journal of the Acoustical Society of America (SCIE)",
+      "作者群": "Yu-Ting Tsai, Chi-Chang Wang, and J. H. Huang*"
+    },
+    {
+      "論文名稱": "A Study of Nonlinear Harmonic Distortion in a Balanced Armature Transducer with Asymmetrical Magnetic Flux",
+      "期刊名稱": "Sensors and Actuators A (SCIE)",
+      "作者群": "Yu-Ting Tsai and J. H. Huang"
+    },
+    {
+      "論文名稱": "Numerical and Experimental Analysis of Harmonic Distortion in a Moving-Coil Loudspeaker",
+      "期刊名稱": "Communications in Nonlinear Science and Numerical Simulation (SCIE)",
+      "作者群": "Chun Chang, Chi-Chang Wang, Y.C. Shiah, and J. H. Huang"
+    },
+    {
+      "論文名稱": "Effects of Porous Materials in an Insert Earphone on its Frequency Response- Experiments & Simulations",
+      "期刊名稱": "IEEE Transactions on Ultrasonics, Ferroelectrics, and Freque (SCIE)",
+      "作者群": "Tsai, Yu-Ting, Y.C. Shiah, and J. H. Huang*"
+    },
+    {
+      "論文名稱": "Magnetic Motor Nonlinearity Modifications for Total Harmonic Distortion Improvement of an Elliptical Miniature Loudspeaker",
+      "期刊名稱": "IEEE Transactions on Magnetics (SCIE)",
+      "作者群": "Soar Weng, S. J. Pawar, and J. H. Huang*"
+    },
+    {
+      "論文名稱": "Total Harmonic Distortion Improvement for Elliptical Miniature Loudspeaker Based on Suspension Stiffness Nonlinearity",
+      "期刊名稱": "IEEE Transactions on Consumer Electronics (SCIE)",
+      "作者群": "S. J. Pawar and J. H. Huang*"
+    },
+    {
+      "論文名稱": "Effect of Nonlinear Stiffness on the Total Harmonic Distortion and Sound Pressure Level of a Circular Miniature Loudspeaker-Experiments and Simulations",
+      "期刊名稱": "IEEE Transactions on Consumer Electronics (SCIE)",
+      "作者群": "S. J. Pawar and J. H. Huang"
+    },
+    {
+      "論文名稱": "Dispersion Relations and Modes of Wave Propagation in Inclusion-Reinforced Composite Plates",
+      "期刊名稱": "Composites Part B (SCIE)",
+      "作者群": "Yu-Cheng Liu and J. H. Huang"
+    },
+    {
+      "論文名稱": "Earbud-type earphone modeling and measurement by head and torso simulator",
+      "期刊名稱": "Applied Acoustics (SCIE)",
+      "作者群": "Huang, Chen-Hung, Pawar, S. J., Hong, Zih-Jyun, and Huang, J.H.*"
+    },
+    {
+      "論文名稱": "Effect of Sponge and Position on the Frequency Response and Total Harmonic Distortion of Earbud-Type Earphone",
+      "期刊名稱": " The Journal of the Chinese Society of Mechanical Engineers (SCIE)",
+      "作者群": "S. J. Pawar and J. H. Huang"
+    },
+    {
+      "論文名稱": "Total Harmonic Distortion Improvement for Elliptical Miniature Loudspeaker Based on Suspension Stiffness Nonlinearity",
+      "期刊名稱": "IEEE Transactions on Consumer Electronics (SCIE)",
+      "作者群": "S. J. Pawar and J. H. Huang"
+    },
+    {
+      "論文名稱": "Cubic Spline Difference Method for Heat Conduction",
+      "期刊名稱": "Inter. Comm. in Heat and Mass Transfer (SCIE)",
+      "作者群": "Wang Chi-Chang, Huang, J.H., Yang Dane-Jong"
+    },
+    {
+      "論文名稱": "Effects of Carbon-Fiber Metal-Hydrogen Tank with Inner Heat",
+      "期刊名稱": "Advanced Science Letters ()",
+      "作者群": "Wang Chi-Chang*, Wu Chang-Mou, Huang Jin-Huang, Peng Chi-Hong"
+    },
+    {
+      "論文名稱": "Earbud-type earphone modeling and measurement by head and torso simulator",
+      "期刊名稱": "Applied Acoustics (SCIE)",
+      "作者群": "Huang, Chen-Hung, Pawar, S. J., Hong, Zih-Jyun, and Huang, J.H.*"
+    },
+    {
+      "論文名稱": "Dispersion Relations and Modes of Wave Propagation in Inclusion-Reinforced Composite Plates",
+      "期刊名稱": "Composites Part B (SCIE)",
+      "作者群": "Yu-Cheng Liu and Huang, J.H.*"
+    },
+    {
+      "論文名稱": "Hybrid Spline Difference Method for Steady State Heat Conduction",
+      "期刊名稱": "Numerical Heat Transfer, Part B: Fundamentals (SCIE)",
+      "作者群": "Wang Chi-Chang, Huang, J.H.*, Yang Dane-Jong"
+    },
+    {
+      "論文名稱": "Insert earphone modeling and measurement by IEC-60711 coupler",
+      "期刊名稱": "IEEE Transactions on Ultrasonics, Ferroelectrics, and Freque (SCIE)",
+      "作者群": "Huang,Chen-Hung, Pawar, S. J., Hong, Zih-Jyun, and Huang, J.H.*"
+    },
+    {
+      "論文名稱": "Effect of Nonlinear Stiffness on the Total Harmonic Distortion and Sound Pressure Level of a Circular Miniature Loudspeaker-Experiments and Simulations",
+      "期刊名稱": "IEEE Transactions on Consumer Electronics (SCIE)",
+      "作者群": "S. J. Pawar and J. H. Huang"
+    },
+    {
+      "論文名稱": "Modal analysis of a loudspeaker and its associated acoustic pressure field",
+      "期刊名稱": "ASME Journal of Vibration and Acoustics (SSCI)",
+      "作者群": "Kuo, Derek, Shiah, Y. C., and Huang, J.H*"
+    },
+    {
+      "論文名稱": "Cubic Spline Difference Method for Heat Conduction,",
+      "期刊名稱": "International Comm. in Heat and Mass Transfer (SCIE)",
+      "作者群": "Wang Chi-Chang*, Huang, J.H., Yang Dane-Jong"
+    },
+    {
+      "論文名稱": "Insert earphone modeling and measurement by IEC-60711 coupler",
+      "期刊名稱": "IEEE Transactions on Ultrasonics, Ferroelectrics, and Freque (SCIE)",
+      "作者群": "Zih-Jyun, Huang, Pawar, S. J., Hong, Chen-Hung, and Huang, J.H.*"
+    },
+    {
+      "論文名稱": "Study of the Fundamental Frequency of a Miniature Loudspeaker for Cellular Phones",
+      "期刊名稱": "Journal of Mechanics (SCIE)",
+      "作者群": "Y.C. Shiah, Huang, J.H., and Y.L. Xue"
+    },
+    {
+      "論文名稱": "Mechanical Characterization and Parametric Study of a Miniature Capacitor Microphone",
+      "期刊名稱": "Journal of the Audio Engineering Society (SCIE)",
+      "作者群": "Pawar, S. J., Chung, Y. F., and Huang, J.H."
+    },
+    {
+      "論文名稱": "Nonlinear dynamic analysis of composite laminated plates containing spatially oriented short fibers",
+      "期刊名稱": "International Journal of Solids and Structures (SCIE)",
+      "作者群": "Shukla, K.K., Chen, Jhao-Ming, and Huang, J.H.*"
+    },
+    {
+      "論文名稱": "Mechanical Characterization and Parametric Study of a Miniature Capacitor Microphone",
+      "期刊名稱": "Journal of the Audio Engineering Society (SCIE)",
+      "作者群": "Pawar, S. J., Chung, Y. F., and Huang, J.H.*"
+    },
+    {
+      "論文名稱": "Modes of wave propagation and dispersion relations in a cylindrical shell,",
+      "期刊名稱": "ASME Journal of Vibration and Acoustics (SCIE)",
+      "作者群": "Liu, Y.C., Hwang, Y.F., and Huang, J.H.*"
+    },
+    {
+      "論文名稱": "A simple approximate formula for the physical focal length of spherically focused transducers",
+      "期刊名稱": "IEEE Transactions on Ultrasonics, Ferroelectrics, and Freque (SSCI)",
+      "作者群": "Huang, J.H.* and Ding, D."
+    },
+    {
+      "論文名稱": "Second-harmonic Generation of Practical Bessel Beams",
+      "期刊名稱": "Journal of Sound and Virbration (SCIE)",
+      "作者群": "Huang, Jin H. *, Ding, Desheng, and Hsu, Yin-Sung"
+    },
+    {
+      "論文名稱": "Vibration analysis of angle-ply laminated composite plates with an embedded piezoceramic layer",
+      "期刊名稱": "EEE Transactions on Ultrasonics, Ferroelectrics, and Frequen (SCIE)",
+      "作者群": "Lin, H.Y, Huang, J.H.*, and Ma, C.C."
+    },
+    {
+      "論文名稱": "Modes of wave propagation and dispersion relations in a cylindrical shell",
+      "期刊名稱": "ASME Journal of Vibration and Acoustics (SCIE)",
+      "作者群": "Liu, Y.C., Hwang, Y.F., Huang, J.H., 2008"
+    },
+    {
+      "論文名稱": "Parametric analysis for a miniature loudspeaker used in cellular phones",
+      "期刊名稱": " Journal of Applied Physics (SCIE)",
+      "作者群": "Shiah, Y. C., Her, H. C., Huang, J.H., and Huang, Brant"
+    },
+    {
+      "論文名稱": "Acoustic analysis and fabrication of microelectromechanical condenser microphones",
+      "期刊名稱": "Journal of Applied Physics (SCIE)",
+      "作者群": "Her, H. C., Wu, T.L., and Huang, J.H."
+    },
+    {
+      "論文名稱": "An alternative analytical description of truncated Gaussian beams",
+      "期刊名稱": "Journal of Optics A (SCIE)",
+      "作者群": "Huang, J.H. and Ding, D."
+    },
+    {
+      "論文名稱": "Electromechanical responses of a long piezoelectric tube subjected to dynamic loading",
+      "期刊名稱": "Journal of Physics D (SCIE)",
+      "作者群": "Huang, J.H., Shiah, Y. C., and Lee, B. J."
+    },
+    {
+      "論文名稱": "Electro-acoustic simulation and experiment on a miniature loudspeaker for cellular phones",
+      "期刊名稱": "Journal of Applied Physics (SCIE)",
+      "作者群": "Huang, J.H., Her, H. C., and Shiah, Y. C"
+    },
+    {
+      "論文名稱": "An exploratory study of using fluid loading on a vibrating tube for measuring suspended sediment concentration in water",
+      "期刊名稱": "Journal of Physics D (SCIE)",
+      "作者群": "Hsu, Y.S., Hwang, Y.F. and Huang, Jin H.,"
+    },
+    {
+      "論文名稱": "An exploratory study of using external fluid loading on a vibrating tube for measuring suspended sediment concentration in water",
+      "期刊名稱": "Journal of Physics-D (SCIE)",
+      "作者群": "Hsu, Yin-Sung＊, Hwang, Yun-Fan and Huang, Jin H."
+    },
+    {
+      "論文名稱": "An exploratory study of using fluid loading on a vibrating tube for measuring suspended sediment concentration in water",
+      "期刊名稱": "Journal of Physics D (SCIE)",
+      "作者群": "Hsu, Y.S., Hwang, Y.F. and Huang, Jin H."
+    },
+    {
+      "論文名稱": "Electroacoustic simulation and experiment on a miniature loudspeaker for cellular phones",
+      "期刊名稱": "Journal of Applied Physics (SCIE)",
+      "作者群": "Jin H. Huang, Hong-Ching Her, Y. C. Shiah, and Shaw-Jyh Shin"
+    },
+    {
+      "論文名稱": "An alternative analytical description of truncated Gaussian beams",
+      "期刊名稱": "Journal of Optics A- Pure and Applied Optics (SCIE)",
+      "作者群": "Huang, J.H. and Ding, D."
+    },
+    {
+      "論文名稱": "Electroacoustic simulation and experiment on a miniature loudspeaker for cellular phones",
+      "期刊名稱": "Journal of Applied Physics (SCIE)",
+      "作者群": "Jin H. Huang, Hong-Ching Her, Y. C. Shiah"
+    },
+    {
+      "論文名稱": "Post-buckling analysis of functionally graded rectangular plates",
+      "期刊名稱": "Composite Structures (SCIE)",
+      "作者群": "Wu, T.L., Shukla, K.K., and Huang, J.H."
+    },
+    {
+      "論文名稱": "Electromechanical analysis of a piezoelectric beam used to drive a torsional microactuator",
+      "期刊名稱": "Journal of Intelligent Material Systems and Structures (SCIE)",
+      "作者群": "Huang, J.H., Shiah, Y.C., and Chen, J.M."
+    },
+    {
+      "論文名稱": "Electromechanical analysis for a piezo-optical-fiber subjected to harmonic loading",
+      "期刊名稱": "Journal of Applied Physics (SCIE)",
+      "作者群": "Huang, J.H. and Ding, D."
+    },
+    {
+      "論文名稱": "Second-harmonic generation of limited diffraction beams",
+      "期刊名稱": "Journal of Optics A: Pure and Applied Optics (SCIE)",
+      "作者群": "Ding, D. and Huang, J.H."
+    },
+    {
+      "論文名稱": "Electromechanical responses of a long piezoelectric tube subjected to dynamic loading",
+      "期刊名稱": "J. Phys. D: Appl. Phys. (SCIE)",
+      "作者群": "Huang, J.H., Shiah, Y. C., and Lee, B. J."
+    },
+    {
+      "論文名稱": "Electro-acoustic simulation and experiment on a miniature loudspeaker for cellular phones",
+      "期刊名稱": "Journal of Applied Physics (SCIE)",
+      "作者群": "Huang, J.H., Her, H. C., and Shiah, Y. C"
+    },
+    {
+      "論文名稱": "Nonlinear static and dynamic analysis of functionally graded plates",
+      "期刊名稱": "International Journal of Applied Mechanics and Engineering (SCIE)",
+      "作者群": "Wu, T.L., Shukla, K.K., and Huang, J.H."
+    },
+    {
+      "論文名稱": "Static electromechanical responses of piezoelectric tubes as sensors and actuators",
+      "期刊名稱": "Journal of Intelligent Material Systems and Structures (SCIE)",
+      "作者群": "Shiah, Y.C. and Huang, J.H."
+    },
+    {
+      "論文名稱": "Effects of interfacial friction on the damping characteristics of composites containing randomly oriented carbon nanotube ropes",
+      "期刊名稱": "Journal of Intelligent Material Systems and Structures (SCIE)",
+      "作者群": "Liu, A.L., Huang, J.H., Wang, K.W., Bakis, C. E."
+    },
+    {
+      "論文名稱": "Electromechanical responses of optical fibers with piezoelectric coatings",
+      "期刊名稱": "Journal of the Chinese Institute of Engineers (SCIE)",
+      "作者群": "Shiah, Y.C., Huang, C.H., and Huang, J.H."
+    },
+    {
+      "論文名稱": "Electroelastic response of a laminated composite plate with piezoelectric sensors and actuators",
+      "期刊名稱": "ASCE Journal of Engineering Mechanics (SCIE)",
+      "作者群": "Huang, J.H. and Yu-Chen Liu"
+    },
+    {
+      "論文名稱": "Effects of interfacial friction on the damping characteristics of composites containing randomly oriented carbon nanotube ropes",
+      "期刊名稱": "Journal of Intelligent Material Systems and Structures (SCIE)",
+      "作者群": "Liu, A.L., Huang, J.H., Wang, K.W., Bakis, C. E.,"
+    },
+    {
+      "論文名稱": "Static electromechanical responses of piezoelectric tubes as sensors and actuators",
+      "期刊名稱": " Journal of Intelligent Material Systems and Structures (SCIE)",
+      "作者群": "Shiah, Y.C. and Huang, J.H."
+    },
+    {
+      "論文名稱": "Piezoelectric and Magnetic Properties of PZT-(Ni0.284Zn0.549Cu0.183) Fe1.984O4 Composites",
+      "期刊名稱": "Journal of Material Science (SCIE)",
+      "作者群": "Liu, H.K., and Huang, J.H., Hsieh, C.W., and Tu, H.T."
+    },
+    {
+      "論文名稱": "BEM's Interior Stress/Strain Analysis for 2D Static Thermoelasticity Involving Non-Uniform Volume Heat Sources",
+      "期刊名稱": "Journal of Thermal Stresses (SCIE)",
+      "作者群": "Y. C. Shiah and Jin H. Huang"
+    },
+    {
+      "論文名稱": "Post-Buckling of Cross-Ply Laminated Rectangular Plates Containing Short Random Fibres",
+      "期刊名稱": "Composite Structures (SCIE)",
+      "作者群": "Huang, J.H. and Shukla, K.K., 2005/05"
+    },
+    {
+      "論文名稱": "Nonlinear static and dynamic analysis of functionally graded plates",
+      "期刊名稱": "International Journal of Applied Mechanics and Engineering (SCIE)",
+      "作者群": "Wu, T.L., Shukla, K.K., and Huang, J.H."
+    },
+    {
+      "論文名稱": "Analysis of Laminated Composite Plate with Pezoelectric Sensors and Actuators",
+      "期刊名稱": "Journal of the Chinese Society of Mechanical Engineers (SCIE)",
+      "作者群": "Liu, Yu-Cheng and Huang, J.H."
+    },
+    {
+      "論文名稱": "Boundary element method interior stress/ strain analysis for two-dimensional static thermoelasticity involving nonuniform volume heat sources",
+      "期刊名稱": "Journal of Thermal Stresses (EI)",
+      "作者群": "Shiah, Y.C.; Huang, Jin H."
+    },
+    {
+      "論文名稱": "Thermal Postbuckling of Laminated Composite Plates with Temperature Dependent Properties",
+      "期刊名稱": " ASCE Journal of Engineering Mechanics (SCIE)",
+      "作者群": "Shukla. K. K., Huang, J.H., and Nath"
+    },
+    {
+      "論文名稱": "Experimental Characterization of an Integrated Sandwich Composite Using 3D Woven Fabrics as the Core Material",
+      "期刊名稱": "Journal of Thermoplastic Composite Materials (SCIE)",
+      "作者群": "Shiah, Y.C.,Tseng, L., Hsu, J.C., and Huang, J.H."
+    },
+    {
+      "論文名稱": "Nonlinear Dynamic Analysis of Composite Laminated Plates Containing Spatially Oriented Short Fibers",
+      "期刊名稱": "International Journal of Solids and Structures (SCIE)",
+      "作者群": "Shukla, K.K., Chen, Jhao-Ming, and Huang, J.H."
+    },
+    {
+      "論文名稱": "Vibration Analysis of Rotating Composite Shafts Containing Randomly Oriented Reinforcements,",
+      "期刊名稱": "Composite Structures ()",
+      "作者群": "Chang, C.Y., Chang, M.Y., and Huang, J.H."
+    },
+    {
+      "論文名稱": "Characterization of the Effective Elastic Modulus of an Integrated Sandwich Composite",
+      "期刊名稱": "Journal of Composite Materials (SCIE)",
+      "作者群": "Shiah, Y.C. and Huang, J.H."
+    },
+    {
+      "論文名稱": "Vibration analysis of angle-ply laminated composite plates with an embedded piezoceramic layer",
+      "期刊名稱": "IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control (SCIE)",
+      "作者群": "Lin, H.Y, Huang, J.H.*, and Ma, C.C."
+    },
+    {
+      "論文名稱": "Vibration analysis of angle-ply laminated composite plates with an embedded piezoceramic layer",
+      "期刊名稱": "IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control (SCIE)",
+      "作者群": "Lin, H.Y, Huang, J.H.*, and Ma, C.C."
+    },
+    {
+      "論文名稱": "Vibration analysis of angle-ply laminated composite plates with an embedded piezoceramic layer",
+      "期刊名稱": "IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control (SCIE)",
+      "作者群": "Lin, H.Y, Huang, J.H.*, and Ma, C.C."
+    },
+    {
+      "論文名稱": "Vibration analysis of angle-ply laminated composite plates with an embedded piezoceramic layer",
+      "期刊名稱": "IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control (SCIE)",
+      "作者群": "Lin, H.Y, Huang, J.H.*, and Ma, C.C."
+    },
+    {
+      "論文名稱": "Vibration analysis of angle-ply laminated composite plates with an embedded piezoceramic layer",
+      "期刊名稱": "IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control (SCIE)",
+      "作者群": "Lin, H.Y, Huang, J.H.*, and Ma, C.C."
+    },
+    {
+      "論文名稱": "Vibration analysis of angle-ply laminated composite plates with an embedded piezoceramic layer",
+      "期刊名稱": "IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control (SCIE)",
+      "作者群": "Lin, H.Y, Huang, J.H.*, and Ma, C.C."
+    },
+    {
+      "論文名稱": "Vibration analysis of angle-ply laminated composite plates with an embedded piezoceramic layer",
+      "期刊名稱": "IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control (SCIE)",
+      "作者群": "Lin, H.Y, Huang, J.H.*, and Ma, C.C."
+    },
+    {
+      "論文名稱": "Vibration analysis of angle-ply laminated composite plates with an embedded piezoceramic layer",
+      "期刊名稱": "IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control (SCIE)",
+      "作者群": "Lin, H.Y, Huang, J.H.*, and Ma, C.C."
+    },
+    {
+      "論文名稱": "Vibration analysis of angle-ply laminated composite plates with an embedded piezoceramic layer",
+      "期刊名稱": "IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control (SCIE)",
+      "作者群": "Lin, H.Y, Huang, J.H.*, and Ma, C.C."
+    },
+    {
+      "論文名稱": "Vibration analysis of angle-ply laminated composite plates with an embedded piezoceramic layer",
+      "期刊名稱": "IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control (SCIE)",
+      "作者群": "Lin, H.Y, Huang, J.H.*, and Ma, C.C."
+    },
+    {
+      "論文名稱": "Time-Dependent Interfacial Residual Shear in a Dual-Coated Optical Fiber Induced by Axial Traction",
+      "期刊名稱": "Advanced Composite Letters (SCIE)",
+      "作者群": "Shiah, Y.C., Yeh, H. Y., and Huang, J.H."
+    },
+    {
+      "論文名稱": "Micromechanics Estimation for the Effective Magnetostrictive Behavior of Magnetostrictive Composites",
+      "期刊名稱": "Journal of the Chinese Society of Mechanical Engineers (EI)",
+      "作者群": "Huang, J.H. and Dai, W.L."
+    },
+    {
+      "論文名稱": "Transient Dynamic Responses of A Cracked Solid Subjected to In-plane Loadings",
+      "期刊名稱": "International Journal of Solids and Structures (SCIE)",
+      "作者群": "Liu, S.W. and Huang, J.H."
+    },
+    {
+      "論文名稱": "On a Flat Ellipsoidal Crack Embedded in Piezoelectric Solids",
+      "期刊名稱": "Material Letters ()",
+      "作者群": "Yang, R.B. and Huang, J.H."
+    },
+    {
+      "論文名稱": "Micromechanics Approach for Effective Magnetostriction of Composite Materials",
+      "期刊名稱": "Journal of Applied physics. (SCIE)",
+      "作者群": "Huang, J.H., Nan, C.W. and Li, R.M., 2002"
+    },
+    {
+      "論文名稱": "Manetoelectricity of Multiferroic Composites",
+      "期刊名稱": "Ferroelectrics (SCIE)",
+      "作者群": "Nan, C.W., Lin, Y.H., and Huang, J.H."
+    },
+    {
+      "論文名稱": "Vibration Characterization of Piezoelectric Materials by Optical Methods",
+      "期刊名稱": "IEEE Transactions on Ultrasonics, Ferroelectrics, and Freque (SCIE)",
+      "作者群": "Lin, H.Y, Huang, J.H., and Ma, C.C., 2002"
+    },
+    {
+      "論文名稱": "Detection of Cracks using Neural Networks and Computational Mechanics",
+      "期刊名稱": "Computer Methods in Applied Mechanics and Engineering (SCIE)",
+      "作者群": "Liu, S.W., Huang, J.H., Sung, J.C., and Lee, C.C."
+    },
+    {
+      "論文名稱": "Calculation of Giant Magnetoelectric Effects in Ferroic Composite of Rare-Earth-Iron Alloys and Ferroelectric Polymers",
+      "期刊名稱": "Physical Review B ()",
+      "作者群": "Nan, C.W.，Li, M. ，Huang, J.H."
+    },
+    {
+      "論文名稱": "Effective Magnetostriction of nanocrystalline Magnetic Materials: Interfacial Effect",
+      "期刊名稱": "Journal of Magnetism and Magnetic Materials ()",
+      "作者群": "Nan, C.W. ，Huang, J.H.，Weng, G.J."
+    },
+    {
+      "論文名稱": "Some Closed-Form Expressions For Effective Elastic Moduli of Composites Containing Randomly Oriented Short Fibers",
+      "期刊名稱": "Materials Science and Engineering A ()",
+      "作者群": "Huang, J.H."
+    },
+    {
+      "論文名稱": "Static and Dynamic Electromechanical Responses of Piezoelectric Transducers",
+      "期刊名稱": "Materials Letters ()",
+      "作者群": "Huang, J.H.，Dai, W.L."
+    },
+    {
+      "論文名稱": "Dynamic Analysis of Laminated Plates Containing Randomly Oriented Reinforcements",
+      "期刊名稱": "Composites Part A ()",
+      "作者群": "Huang, J.H."
+    },
+    {
+      "論文名稱": "On a Piezoelectric Material Containing a Permeable Elliptic Crack",
+      "期刊名稱": "Inter. J. of Solids and Structures ()",
+      "作者群": "L. P. Chao and J. H. Huang"
+    },
+    {
+      "論文名稱": "Some Closed-Form Expressions For Effective Elastic Moduli of Composites Containing Randomly Oriented Short Fibers",
+      "期刊名稱": "Materials Science and Engineering A (in press) (SCIE)",
+      "作者群": "J. H. Huang"
+    },
+    {
+      "論文名稱": "Dynamic Analysis of Laminated Plates Containing Randomly Oriented Reinforcements",
+      "期刊名稱": "Composites Part A (in press) (SCIE)",
+      "作者群": "J. H. Huang"
+    },
+    {
+      "論文名稱": "Static and Dynamic Electromechanical Responses of Piezoelectric Transducers",
+      "期刊名稱": "Materials Letters (in press) (SCIE)",
+      "作者群": "J. H. Huang and W. L. Dai"
+    },
+    {
+      "論文名稱": "Effective Magnetostriction of nanocrystalline Magnetic Materials: Interfacial Effect",
+      "期刊名稱": "Journal of Magnetism and Magnetic Materials (in press) (SCIE)",
+      "作者群": "C. W. Nan, J. H. Huang, and G. J. Weng"
+    },
+    {
+      "論文名稱": "Detection of Cracks using Neural Networks and Computational Mechanics",
+      "期刊名稱": " Computational Mechanics (submitted) (SCIE)",
+      "作者群": "S. W. Liu and J. H. Huang"
+    },
+    {
+      "論文名稱": "Ultrasonic Flaw Classification using Back-propagation Neural Networks",
+      "期刊名稱": " Journal of Nondestructive Evaluation (submitted) (SCIE)",
+      "作者群": "S. W. Liu and J. H. Huang"
+    },
+    {
+      "論文名稱": "Vibration Characterization of Piezoelectric Materials by Optical Methods",
+      "期刊名稱": "Applied Optics (submitted) (SCIE)",
+      "作者群": "H. Y. Lin, J. H. Huang, and C. C. Ma"
+    },
+    {
+      "論文名稱": "Electromechanical Responses of Laminated Composite Plates Containing Piezoelectric Actuator and Sensor Layers",
+      "期刊名稱": " Sensors and Actuators A (revised) (SCIE)",
+      "作者群": "J. H. Huang, J. F. Wu and H. I. Yu"
+    },
+    {
+      "論文名稱": "Calculation of Giant Magnetoelectric Effects in Ferroic Composite of Rare-Earth-Iron Alloys and Ferroelectric Polymers",
+      "期刊名稱": "Physical Review B (SCIE)",
+      "作者群": "C. W. Nan, M. Li, and Huang, J. H."
+    },
+    {
+      "論文名稱": "Exact Analysis for Electromechanical Responses of Piezoelectric Sensors/Actuators",
+      "期刊名稱": "International Journal of Solids and Structures (revised) (SCIE)",
+      "作者群": "J. H. Huang and J. F. Wu"
+    },
+    {
+      "論文名稱": "Fracture Criteria for Piezoelectric Material Containing Multiple Cracks",
+      "期刊名稱": "Journal of Applied Physics ()",
+      "作者群": "Chao, L.P.、黃錦煌"
+    },
+    {
+      "論文名稱": "Prediction of Elastic Moduli of Porous Materials with Equivalent Inclusion Method",
+      "期刊名稱": "Journal of Reinforced Plastics and Composites ()",
+      "作者群": "Chao, L.P.、黃錦煌"
+    },
+    {
+      "論文名稱": "Stress Relaxation Caused by the Combination of Interfacial Sliding and Diffusion around spherical inclusions",
+      "期刊名稱": "Mechanics of Materials ()",
+      "作者群": "Onaka, S.、黃錦煌、Wakashima, K、Mori, T."
+    },
+    {
+      "論文名稱": "Closed-Form Solutions for the Magnetoelectric Coupling Coefficients in Fibrous Composites with Piezoelectric and Piezomagnetic Phases",
+      "期刊名稱": "International Journal of Solids and Structures ()",
+      "作者群": "T. L. Wu、黃錦煌"
+    },
+    {
+      "論文名稱": "Critical Volume Fraction of Multiple Cracks for Fracture in Piezoelectric Media",
+      "期刊名稱": "Journal of Thermoplastic Composite Materials ()",
+      "作者群": "T. L. Wu、黃錦煌"
+    },
+    {
+      "論文名稱": "Failure Criteria for Multiply Flawed Anisotropic Materials",
+      "期刊名稱": "Journal of Material Science ()",
+      "作者群": "Wu, T. L.、黃錦煌"
+    },
+    {
+      "論文名稱": "The Optimized Fibrous Volume Fraction for Magnetoelectric Coupling Effect in Piezoelectric-Piezomagnetic Composites",
+      "期刊名稱": "力學 ()",
+      "作者群": "黃錦煌、H. K. Lui、W. L. Dai"
+    },
+    {
+      "論文名稱": "Inclusion Method in the Work-Hardening Behavior of Transversely Isotropic Composites",
+      "期刊名稱": "Journal of Thermoplastic Composite Materials (SCIE)",
+      "作者群": "趙魯平、黃錦煌"
+    },
+    {
+      "論文名稱": "Analytical Predictions for the Magnetoelectric Coupling Exhibiting in Piezomagnetic Materials Reinforced by Piezoelectric Ellipsoidal Inclusions",
+      "期刊名稱": "Physical Review B (SCIE)",
+      "作者群": "黃錦煌"
+    },
+    {
+      "論文名稱": "Magneto-electro-elastic Eshelby tensors for a piezoelectric-piezomagnetic composite reinforced by ellipsoidal inclusions",
+      "期刊名稱": "Journal of Applied Physics (SCIE)",
+      "作者群": "黃錦煌、Chiu, Y. H.、Liu, H. K."
+    },
+    {
+      "論文名稱": "Fracture Criteria for Piezoelectric Material Containing Multiple Cracks",
+      "期刊名稱": "Journal of Applied Physics (SCIE)",
+      "作者群": "趙魯平、黃錦煌"
+    },
+    {
+      "論文名稱": "Prediction of Elastic Moduliof Porous Materials with Equivalent Inclusion Method",
+      "期刊名稱": "Journal of Reinforced Plastics and Composites (SCIE,EI)",
+      "作者群": "趙魯平、黃錦煌"
+    },
+    {
+      "論文名稱": "Micromechanics Determination of the Effective Properties of Piezoelectric Composites Containing Spatially Oriented Shorted Fibers",
+      "期刊名稱": "Acta Metallurgica ()",
+      "作者群": "黃錦煌，W. S. Kuo"
+    },
+    {
+      "論文名稱": "The Analysis of Piezoelectric /Piezomagnetic Composite Materials Containing Ellipsoidal Inclusions",
+      "期刊名稱": "Journal of Applied Physics ()",
+      "作者群": "黃錦煌，W. S. Kuo"
+    },
+    {
+      "論文名稱": "Stability and Vibration by Initially Stressed Plates Composed of Spatially Distributed Fiber Composites",
+      "期刊名稱": "Journal of Sound and Vibration (SCIE)",
+      "作者群": "W. S. Kou，黃錦煌"
+    },
+    {
+      "論文名稱": "Stress Relaxation by Plastic Flow, Interfacial Sliding, and Diffusion in an Inclusion Bearing Materials",
+      "期刊名稱": "Acta Metallurgica (SCIE)",
+      "作者群": "T. Mori，黃錦煌，M. Taya"
+    },
+    {
+      "論文名稱": "A Fracture Criterion of a Penny-Shaped Crack in Transversely Isotropic Piezoelectric Media",
+      "期刊名稱": "International Journal of Solids and Structures (SCIE)",
+      "作者群": "黃錦煌"
+    },
+    {
+      "論文名稱": "Reponse to Comment on The Analysis of Piezoelectric /Piezomagnetic Composite Materials Containing Ellipsoidal Inclusions",
+      "期刊名稱": "Journal of Applied Physics ()",
+      "作者群": "黃錦煌，W. S. Kuo"
+    },
+    {
+      "論文名稱": "Creep of a Metal Matrix Composite with or without Diffusion and Sliding on Matrix/Reinforcement Interface",
+      "期刊名稱": "Key Engineering Materials ()",
+      "作者群": "T. Mori，K. Tanaka，Y. Nakasone，黃錦煌，M. Taya"
+    },
+    {
+      "論文名稱": "On a Flat Ellipsoidal Inclusion or Crack in Three-Dimensional Anisotropic Media",
+      "期刊名稱": "International Journal of Engineering Science (SCIE)",
+      "作者群": "黃錦煌，H. K. Liu"
+    },
+    {
+      "論文名稱": "Analytical Predictions for the Magnetoelectric Coupling Exhibiting in Piezomagnetic Materials Reinforced by Piezoelectric Ellipsoidal Inclusions",
+      "期刊名稱": "Physical Review B ()",
+      "作者群": "黃錦煌"
+    },
+    {
+      "論文名稱": "Magneto-electro-elastic Eshelby tensors for a piezoelectric-piezomagnetic composite reinforced by ellipsoidal inclusions",
+      "期刊名稱": "Journal of Applied Physics (SCIE)",
+      "作者群": "黃錦煌，Y. H. Chiu，H. K. Liu"
+    },
+    {
+      "論文名稱": "Theoretical Prediction of Magnetoelectric Effect in Piezoelectric-Piezomagnetic Composite Materials Containing Ellipsoidal Inclusions",
+      "期刊名稱": "Journal of Applied Physics (SCIE)",
+      "作者群": "黃錦煌"
+    },
+    {
+      "論文名稱": "以微觀力學分析三維非等向性材料之扁平橢球同質體或裂縫問題",
+      "期刊名稱": "逢甲學報 ()",
+      "作者群": "黃錦煌、戴文龍"
+    }
+  ],
+  "journal2": [],
+  "conference": [
+    {
+      "論文名稱": "Study on Sensory Analysis to Explore the Impact of Ventilation Materials on the Sound Quality of Headphones",
+      "會議名稱": "2023 Global Conference on Engineering and Applied Science (GCEAS)",
+      "作者群": "Shu-Chien Wu, Tzu-Hsuan Lei, Kuang-Che Loa, Liu, F.C., Jin-Huang Huang, Yu-Cheng Liu"
+    },
+    {
+      "論文名稱": "Application of the reciprocity principle in a directional microphone considering sound scattering",
+      "會議名稱": "International Conference on Advanced Mechanical Engineering, Automation and Sustainable Development 2021 (AMAS2021)",
+      "作者群": "Jin H. Huang"
+    },
+    {
+      "論文名稱": "Design of Virtual Drum system",
+      "會議名稱": "The 27th Congress on Sound and Vibration (ICSV27)",
+      "作者群": "Hsiang Chen Huang and Jin H. Huang"
+    },
+    {
+      "論文名稱": "Explore Audio Style Transfer through Deep Learning",
+      "會議名稱": "The 27th Congress on Sound and Vibration (ICSV27)",
+      "作者群": "Yen-Jyun Lin, Chieh Teng and Jin H. Huang"
+    },
+    {
+      "論文名稱": "Simulation and experimental studies of a pressure gradient moving-coil microphone",
+      "會議名稱": "2020 COMSOL Conference",
+      "作者群": "Tzu-Huan Peng and Jin H. Huang"
+    },
+    {
+      "論文名稱": "Smooth and Time Optimal Trajectory Planning for Industrial Robot Using a Single Polynomial",
+      "會議名稱": "The ICERA 2019 International Conference on Engineering Research and Applications",
+      "作者群": "Minh T. Nguyen and Jin H. Huang"
+    },
+    {
+      "論文名稱": "Application of Artificial and Recurrent Neural Network on the Steady-State and Transient Thermal Finite Element Modeling for Thermal Responses in Power Electronic Packaging",
+      "會議名稱": "the 43rd Conference on Theoretical and Applied Mechanics",
+      "作者群": "C. Yuan, C.-C. Lee, H.-S. Tseng, K.-N. Chiang, and Jin-Huan"
+    },
+    {
+      "論文名稱": "Kinematic Analysis of a 6-DOF Robot Arm for Intelligent Sewing System",
+      "會議名稱": "International Federation for the Promotion of Mechanism and Machine Science (IFToMM World Congress 2019)",
+      "作者群": "Y. T. Tsai and Jin H. Huang"
+    },
+    {
+      "論文名稱": "Application of Artificial and recurrent neural network on the steady-state and transient finite element modeling",
+      "會議名稱": "the 20th International Conference on Thermal, Mechanical and Multi-Physics Simulation and Experiments in Microelectronics and Microsystems (EuroSimE)",
+      "作者群": "C. Yuan, Y.-J. Hong, C.-C. Lee, K.-N. Chiang, and J.-H. Huang"
+    },
+    {
+      "論文名稱": "Design of Closed-Back Headphone with Optimized Electroacoustic Parameters",
+      "會議名稱": "175th Meeting of the Acoustical Society of America (ASA)",
+      "作者群": "Y. T. Tsai and H. Huang"
+    },
+    {
+      "論文名稱": "Electroacoustic Product Design and Development",
+      "會議名稱": "2017 Electroacoustic Transducer Symposium",
+      "作者群": "Jin H. Huang"
+    },
+    {
+      "論文名稱": "Nonlinear Stiffness Effect on the Total Harmonic Distortion and Sound Pressure Level of a Miniature Loudspeaker-Experiments and Simulations",
+      "會議名稱": "2017 Electroacoustic Transducer Symposium – Product Design and Development (2017 ETPDD)",
+      "作者群": "Jin H. Huang"
+    },
+    {
+      "論文名稱": "A New Mesh free Method for Solving Steady-state Modified Burgers’ Equation in Transport Problems",
+      "會議名稱": "The 2nd International Conference on Inventions",
+      "作者群": "Chih-Wen Chang and Jin H. Huang"
+    },
+    {
+      "論文名稱": "The optimization design method for porous Headphone transducer using Particle swam algorithm",
+      "會議名稱": "ICSV23, The 23rd International Congress on Sound and Vibration",
+      "作者群": "Yu-Ting Tsai, S. J. Pawar, and Jin H. Huang"
+    },
+    {
+      "論文名稱": "Parameters Optimization of the Laminated Composite Plate for Sound Transmission Proble",
+      "會議名稱": "ICMCE 2015: XIII International Conference on Mechanical and Control Engineering to be held in Zurich, Switzerland on July, 29-30, 2015",
+      "作者群": "Yu-Ting Tsai and J. H. Huang*"
+    },
+    {
+      "論文名稱": "Effect of Electronic Device Assembly (Fixture Tube) on the Frequency Response of a Miniature Loudspeaker During End Use",
+      "會議名稱": "The 6th European Congress on Computational Methods in Applied Sciences and Engineering (ECCOMAS 2012)",
+      "作者群": "S. J. Pawar, Zih-Jyun Hong, and Jin H. Huang*"
+    },
+    {
+      "論文名稱": "Customizing an insert earphone frequency response performance by using Porous Materials",
+      "會議名稱": "2012 International Congress on Sound & Vibration (ICSV'19)",
+      "作者群": "Yu T. Tsai and Jin H. Huang*"
+    },
+    {
+      "論文名稱": "Numerical Analysis Comparison of Joint Matrix and Transfer Matrix Approach for Acoustic Transmission of Composite Elastic Plate",
+      "會議名稱": "Acoustics 2012 Hong Kong Conference and Exhibition",
+      "作者群": "Jin H. Huang* and Yu-Ting Tsai"
+    },
+    {
+      "論文名稱": "小型低壓差渦?膨脹器性能設計與損失機理探討",
+      "會議名稱": "2011航太學會學術研討會",
+      "作者群": "謝宗翰、黃錦煌、許盈松、張廣智、陳旻均、卓怡榮"
+    },
+    {
+      "論文名稱": "不同歧管配置下殼管式熱交換器內沸騰熱傳之?值模擬",
+      "會議名稱": " 2011航太學會學術研討會",
+      "作者群": "黃柏文、?冠宏、黃錦煌、許盈松、張廣智"
+    },
+    {
+      "論文名稱": "小型低壓差渦?膨脹器性能設計與損失機?探討",
+      "會議名稱": "2011航太學會學術研討會",
+      "作者群": "謝宗翰、黃錦煌、許盈松、張廣智、陳旻均、卓怡榮"
+    },
+    {
+      "論文名稱": "Numerical Simulation of Boiling Heat Transfer in Shell-Tube Heat Exchanger with Different Arrangement of Manifolds",
+      "會議名稱": "2011 AASRC Conference",
+      "作者群": "Hwang, P. W.*, Liu, K. H., Huang, J. H.,  Hsu, Y. S., and Chang, K. C."
+    },
+    {
+      "論文名稱": "Experimental Verifications and Simulations of Magnetic Motor of Circular Miniature Loudspeaker for Total Harmonic Distortion Improvement",
+      "會議名稱": "2011 International Conference on Applied Mechanics and Manufacturing Technology (AMMT'11)",
+      "作者群": "S. J. Pawar, Soar Weng, and Jin H. Huang"
+    },
+    {
+      "論文名稱": "區域在地產業的勞動力發展趨勢與展望",
+      "會議名稱": "2011年人才發展論壇-中彰投區",
+      "作者群": "黃錦煌"
+    },
+    {
+      "論文名稱": "Earbud-Type Earphone Modeling and Measurement",
+      "會議名稱": "The Eighth International Conference for Mesoscopic Methods in Engineering and Science (ICMMES-2011)",
+      "作者群": "Jin H. Huang and S. J. Pawar"
+    },
+    {
+      "論文名稱": "The study of using external fluid loading on a vibrating rectangular plate for suspended sediment concentration in water",
+      "會議名稱": "ICCE'11 Special Symposium on Modern Experimental Methods in Mechanics",
+      "作者群": "Yu-Cheng Liu, Yin-Sung Hsu, and Jin H. Huang*"
+    },
+    {
+      "論文名稱": "以心理聲學建立主觀聲音品質評價方法",
+      "會議名稱": "2010航太學會學術研討會/第十七屆航空太空學門專題研究計畫成果發表會",
+      "作者群": "蔡鈺鼎、黃錦煌*"
+    },
+    {
+      "論文名稱": "有限空間含不同聲源位置及吸音材料之音場分析",
+      "會議名稱": "2010航太學會學術研討會/第十七屆航空太空學門專題研究計畫成果發表會",
+      "作者群": "張鈞、黃錦煌"
+    },
+    {
+      "論文名稱": "入射波對於障板之頻率響應特性分析",
+      "會議名稱": "第十五屆2010 Abaqus Taiwan Users' Conference",
+      "作者群": "\t謝正輝、劉育成、黃錦煌*"
+    },
+    {
+      "論文名稱": "Parametric Simulation Study of Miniature Loudspeaker for Performance Evaluation and Improvement",
+      "會議名稱": "20th International Congress on Acoustics, (ICA 2010)",
+      "作者群": "S.J. Pawar, H.C. Her, and Jin H. Huang*"
+    },
+    {
+      "論文名稱": "Assessment of the Audio Sound Quality based on Psychoacoustics",
+      "會議名稱": "20th International Congress on Acoustics, (ICA 2010)",
+      "作者群": "Yu-Ting Tsai and Jin H. Huang*"
+    },
+    {
+      "論文名稱": "Performance Verification of a Miniature Capacitor Microphone using Mechanical Characterization",
+      "會議名稱": "The International Conference on Convergence of Science & Engineering, ICSE-2010",
+      "作者群": "S.J. Pawar, YuFan Chung, and Jin H. Huang*"
+    },
+    {
+      "論文名稱": "大聲源之室內聲場分析與隔音設計",
+      "會議名稱": "2009航太學會學術研討會/民航學會聯合學術研討會",
+      "作者群": "王怡雯、黃錦煌*"
+    },
+    {
+      "論文名稱": "Design of Miniature Speakers in 4C Devices using COMSOL",
+      "會議名稱": "2009 COMSOL USERS CONFERENCE IN TAIPEI",
+      "作者群": "Jin H. Huang*"
+    },
+    {
+      "論文名稱": "Acoustic Simulation and Frequency Response Analysis of 10 inch Woofer,",
+      "會議名稱": "The 1st International Conference on Recent Advances in Mechanical Engineering",
+      "作者群": "Pawar, S.J., Yu-Ting Tsai, and Jin H. Huang*"
+    },
+    {
+      "論文名稱": "Dispersion Relations and Modes of Wave Propagation in Inclusion-Reinforced Composite Plates",
+      "會議名稱": "The 10th Biennial ASME European based conference on Engineering Systems Design and Analysis ESDA 2010.",
+      "作者群": "Yu-Cheng Liu and Jin H. Huang*"
+    },
+    {
+      "論文名稱": "麥克風數位化設計",
+      "會議名稱": "『微電聲產業聯盟』- 電聲應用技術研討會",
+      "作者群": "黃錦煌"
+    },
+    {
+      "論文名稱": "聲音品質的主客觀評估方法",
+      "會議名稱": "『微電聲產業聯盟』- 電聲應用技術研討會",
+      "作者群": "黃錦煌*"
+    },
+    {
+      "論文名稱": "Mechanical Characterization of Capacitor Microphone for Analysis and Study",
+      "會議名稱": "157th Meetings of the Acoustical Society of America, Portland",
+      "作者群": "Y.F. Chung, S.J. Pawar, and Jin H. Huang*"
+    },
+    {
+      "論文名稱": "Acoustical Analysis for a Microspeaker Used in Cellular Phones",
+      "會議名稱": "International Conference on Computational & Experimental Engineering and Sciences",
+      "作者群": "Hong-Ching Her and Jin H. Huang*"
+    },
+    {
+      "論文名稱": "An Extension Loudness Model for Assessing the Sound Quality of Earphones",
+      "會議名稱": "International Conference on Computational & Experimental Engineering and Sciences",
+      "作者群": "Yu-Ting Tsai, Hong-Ching Her, and Jin H. Huang"
+    },
+    {
+      "論文名稱": "揚聲器於車用音響之應用與設計",
+      "會議名稱": "2008車用載具與導航學術研討會",
+      "作者群": "黃錦煌"
+    },
+    {
+      "論文名稱": "Dispersion Relations and Mode Patterns of Composites Plates",
+      "會議名稱": "第50屆(2008年)中華民國「航空太空學會年會暨會員」學術研討會",
+      "作者群": "Yu-Cheng Liu, Jin H. Huang, Shu-Chien Wu, Kun-Yao Weng"
+    },
+    {
+      "論文名稱": "微型喇叭之應用、設計、與技術挑戰",
+      "會議名稱": "2008車用電子技術發展討會",
+      "作者群": "黃錦煌"
+    },
+    {
+      "論文名稱": "Wave dispersion in fiber-reinforced composite plates",
+      "會議名稱": "Acoustics 2008",
+      "作者群": "Yu-Cheng Liu, Y. F. Hwang, and Jin H. Huang"
+    },
+    {
+      "論文名稱": "可攜式揚聲器之分析與模擬",
+      "會議名稱": "中華民國力學學會第三十一屆全國力學會議",
+      "作者群": "郭晟宇、黃錦煌"
+    },
+    {
+      "論文名稱": "Analytical description of Gaussian beams with finite aperture",
+      "會議名稱": "9th International Congress on Acoustics",
+      "作者群": "Huang, J.H., and Ding, D."
+    },
+    {
+      "論文名稱": "ave dispersion in composite plates containing spheroidal inclusions",
+      "會議名稱": "9th International Congress on Acoustics",
+      "作者群": "Liu, Y.C., Hwang, Y.F., and Huang, J.H."
+    },
+    {
+      "論文名稱": "Enhanced working-amplitude distribution of ultrasonic wide-blade horn with the use of a wave-tuning plate",
+      "會議名稱": "9th International Congress on Acoustics",
+      "作者群": "Liu, Y.C., Dai, W.L., and Huang, J.H."
+    },
+    {
+      "論文名稱": "ENHANCED WORKING-AMPLITUDE DISTRIBUTION OF ULTRASONIC WIDE-BLADE HORN WITH THE USE OF A WAVE-TUNING PLATE",
+      "會議名稱": "ICA 2007",
+      "作者群": "Dai, Wen-Long; Y.C. Liu; Huang, Jin H."
+    },
+    {
+      "論文名稱": "Analysis, design, and fabrication of capacitive microphones",
+      "會議名稱": "Fourteenth International Congress on Sound and Vibration",
+      "作者群": "Huang, J.H. and Hong-Ching Her"
+    },
+    {
+      "論文名稱": "Design and analysis of speakers for cellular phones",
+      "會議名稱": "Fourteenth International Congress on Sound and Vibration",
+      "作者群": "Huang, J.H. and Hong-Ching Her"
+    },
+    {
+      "論文名稱": "BEM analysis of the thermal conductance effect on interfacial thermal stresses between dissimilar anisotropic materials",
+      "會議名稱": "7th international Congress of Thermal Stresses",
+      "作者群": "Shiah, Y.C., Huang, J.H., and Huang, C.Y."
+    },
+    {
+      "論文名稱": "Analysis of large rotation angle torsional piezoelectric actuated micro mirror by mechanism design",
+      "會議名稱": "ICCST6 and ICMOSPS'07",
+      "作者群": "Meng-Ju Lin, Cho-Chun Wu, Jin Huang Huang"
+    },
+    {
+      "論文名稱": "Analysis of Damping Characteristics of a Viscoelastic Polymer Filled with Randomly Oriented Single-Walled Nanotube Ropes",
+      "會議名稱": "13th International Symposium on Smart Structures and Materials",
+      "作者群": "Ailin Liu, K. W. Wang , Charles E. Bakis, and Huang, J.H."
+    },
+    {
+      "論文名稱": "Analysis and design of a novel double piezoelectric beam-driven torsional micro actuatorPIE Annual International Symposium on Smart Structures and Materials",
+      "會議名稱": "SPIE Annual International Symposium on Smart Structures and Materials",
+      "作者群": "Chen, Jhao-Ming and Huang, J.H."
+    },
+    {
+      "論文名稱": "Static electromechanical responses of piezoelectric tubes as sensors and actuators",
+      "會議名稱": "SPIE Annual International Symposium on Smart Structures and Materials",
+      "作者群": "Liu, Yu-Chen, Shiah, Y.C., and Huang, J.H."
+    },
+    {
+      "論文名稱": "壓電微扭轉致動器與微感測器之分析與製程",
+      "會議名稱": "中國機械工程學會第二十一屆學術研討會",
+      "作者群": "陳昭明、黃錦煌"
+    },
+    {
+      "論文名稱": "BEM'S INTER-COUPLED TREATMENT OF THE INTERFACIAL THERMAL STRESSES BETWEEN DISSIMILAR ANISOTROPIC MATERIALS",
+      "會議名稱": "航空機械工程學術研討會",
+      "作者群": "夏育群、黃錦煌、林英徹"
+    },
+    {
+      "論文名稱": "DESIGN AND OPTIMIZATION OF PIEZOELECTRIC-ACTUATED TORSION MIRROR WITH LEVER MECHANISMS",
+      "會議名稱": "th Biennial ASME Conference Engineering Systems Design and Analysis",
+      "作者群": "Cho-Chun Wu, Meng-Ju Lin, and Jin H. Huang"
+    },
+    {
+      "論文名稱": "Design and optimization of piezoelectric-actuated torsion mirror with lever mechanisms",
+      "會議名稱": "7th Biennial ASME Conference Engineering System Design and Analysis",
+      "作者群": "Cho-Chun Wu, Meng-Ju Lin, Jin H. Huang"
+    },
+    {
+      "論文名稱": "可感測旋轉角度之壓電微扭轉致動器之設計與分析",
+      "會議名稱": "中華民國第二十七屆全國力學會議",
+      "作者群": "吳佐群, 林孟儒, 黃錦煌"
+    },
+    {
+      "論文名稱": "新型壓電微扭轉致動器之設計與分析",
+      "會議名稱": "中國機械工程學會，第二十屆學術研討會",
+      "作者群": "吳佐群, 林孟儒, 黃錦煌"
+    },
+    {
+      "論文名稱": "新型壓電微扭轉致動器之設計與分析",
+      "會議名稱": "中國機械工程學會第二十屆學術研討會",
+      "作者群": "吳佐群、林孟儒、黃錦煌"
+    },
+    {
+      "論文名稱": "鐵電/鐵磁智慧型材料之等效熱磁電彈性質的探討",
+      "會議名稱": "中國機械工程學會第二十屆學術研討會",
+      "作者群": "黃錦煌、李瑞木"
+    },
+    {
+      "論文名稱": "Acoustic Emission Characterization of Fracture Behavior of Ultrasonic Welded polymeric Composites",
+      "會議名稱": "第十二屆非破壞檢測技術研討會",
+      "作者群": " Huang, J.H., Dai, Wen-Long, and Liu, Hsien-Kuang,"
+    },
+    {
+      "論文名稱": "Buckling of Laminated Composite Rectangular Plates under Thermomechanical Loading: An Analytical Approach",
+      "會議名稱": "Proceedings of the 5th International Congress on Thermal Stresses and Related Topics",
+      "作者群": "Shukla, K.K., Nath, Y., and Huang, J.H."
+    },
+    {
+      "論文名稱": "Micromechanics Estimation for the Effective Magnetostrictive Behavior of Magnetostrictive Composites",
+      "會議名稱": "力學與現代科技研討會",
+      "作者群": "Huang, J.H. and Dai, W.L.,"
+    },
+    {
+      "論文名稱": "壓電薄膜致動微機電元件之製程及性能分析",
+      "會議名稱": "中華民國第九屆薄膜技術研討會",
+      "作者群": "江志順、劉顯光、何主亮、常挽瀾、黃錦煌"
+    },
+    {
+      "論文名稱": "BEM Analysis of Heat Conduction in Anisotropic Media Subjected to Volume Heat Sources with Arbitrary Functional Distributions",
+      "會議名稱": "SECTAM, XXI.",
+      "作者群": "Shiah, Y.C., Huang, J.H., and Fang, J."
+    },
+    {
+      "論文名稱": "一體成形的三明治複材結構之製造與其有效彈性模數之實驗",
+      "會議名稱": "第九屆三軍官校基礎學術研討會",
+      "作者群": "許睿哲、呂欣芳、黃錦煌、夏育群"
+    },
+    {
+      "論文名稱": "BEM Analysis of Heat Conduction in Anisotropic Media Subjected to Volume Heat Sources with Arbitrary",
+      "會議名稱": "21st Southeastern Theoretical and Applied Mechanics Conference",
+      "作者群": "Y. C. Shiah、Jin H. Huang、Jiunn Fang"
+    },
+    {
+      "論文名稱": "光纖之被覆層的黏彈分析",
+      "會議名稱": "第二十五屆中華民國力學學會年會暨全國力學會議",
+      "作者群": "李瑞木，黃錦煌"
+    },
+    {
+      "論文名稱": "Vibration Analysis of Piezoelectric Beams by Optical Methods",
+      "會議名稱": "第二十五屆中華民國力學學會年會暨全國力學會議",
+      "作者群": "林憲陽、黃錦煌、馬劍清"
+    },
+    {
+      "論文名稱": "纖維任意分佈複合材料旋轉軸系統之靜動態分析",
+      "會議名稱": "第二十五屆中華民國力學學會年會暨全國力學會議",
+      "作者群": "張智勇、張銘永、黃錦煌"
+    },
+    {
+      "論文名稱": "應用類神經網路與彈性波於裂紋之檢測",
+      "會議名稱": "第二十五屆中華民國力學學會年會暨全國力學會議",
+      "作者群": "林博浩、劉紹文、黃錦煌"
+    },
+    {
+      "論文名稱": "應用類神經網路於裂紋種類之判別",
+      "會議名稱": "航空安全與管理學術研討會",
+      "作者群": "林博浩、劉紹文、黃錦煌"
+    },
+    {
+      "論文名稱": "On the Magnetoelectric Coupling Effect of Piezoelectric-Piezomagnetic Composites",
+      "會議名稱": "International Symposium on Advanced Magnetic Technologies (ISAM’99)",
+      "作者群": "Yu, H. I.、黃錦煌、Chiu, Y. H."
+    },
+    {
+      "論文名稱": "Fracture Criteria for Multiple Cracked Piezoelectric Materials",
+      "會議名稱": "The Twelve International Conference on Composite Materials (ICCM - 12)",
+      "作者群": "黃錦煌"
+    },
+    {
+      "論文名稱": "The Optimized Fiber Volume Fraction for Magnetoelectric Composites",
+      "會議名稱": "The Twelve International Conference on Composite Materials (ICCM - 12)",
+      "作者群": "黃錦煌、Liu, H. K."
+    },
+    {
+      "論文名稱": "On the Magnetoelectric Coupling Effect of Piezoelectric-Piezomagnetic Composites",
+      "會議名稱": "The Twelve International Conference on Composite Materials (ISAM’99)",
+      "作者群": "Yu, H. I.、黃錦煌、Chiu, Y. H."
+    },
+    {
+      "論文名稱": "On Predicting Elastic Moduli in Formed Materials with Equivalent Inclusion Method",
+      "會議名稱": "中華民國第二十二屆全國力學會議",
+      "作者群": "趙魯平、黃錦煌、黃永松"
+    },
+    {
+      "論文名稱": "Micromechanics Determination of Failure Criteria for Multiple Flawed Cubic Crystal Materials",
+      "會議名稱": "中國航空太空學會第四十屆全國學術研討會",
+      "作者群": "Wu, T. L.、黃錦煌"
+    },
+    {
+      "論文名稱": "壓電/壓磁智慧型複合材料之物性分析",
+      "會議名稱": "中國機械工程學會第十五屆全國學術研討會",
+      "作者群": "邱雅惠、黃錦煌"
+    },
+    {
+      "論文名稱": "一體成形的三明治複材結構之製造與物性分析",
+      "會議名稱": "中國機械工程學會第十五屆全國學術研討會",
+      "作者群": "許睿哲、吳建鋒、黃錦煌"
+    }
+  ],
+  "book": [
+    {
+      "專業書籍": "皮革科技與管理叢書",
+      "出版單位": "逢甲大學出版社",
+      "作者群": "黃錦煌 (總編輯)"
+    },
+    {
+      "專業書籍": "Investigation on Electroacoustic Transducers",
+      "出版單位": "LAP LAMBERT Academic Publishin",
+      "作者群": "S. J. Pawar and Jin H. Huang"
+    },
+    {
+      "專業書籍": "逢甲大學產學合作案例選粹",
+      "出版單位": "逢甲大學出版社",
+      "作者群": "黃錦煌"
+    },
+    {
+      "專業書籍": "逢甲大學產學合作案例選粹",
+      "出版單位": "逢甲大學",
+      "作者群": "黃錦煌"
+    },
+    {
+      "專業書籍": "ELECTROACOUSTIC TRANSDUCERS",
+      "出版單位": "自行出版",
+      "作者群": "Jin H. Huang"
+    },
+    {
+      "專業書籍": "Structural Acoustics",
+      "出版單位": "自行出版",
+      "作者群": "Jin H. Huang"
+    },
+    {
+      "專業書籍": "Electroacoustic Transducers Design",
+      "出版單位": "自行出版",
+      "作者群": "黃錦煌"
+    },
+    {
+      "專業書籍": "以壓電材料作為微扭轉致動器之設計、分析及製作(1/2)",
+      "出版單位": "國科會補助專題計畫期中成果報告",
+      "作者群": "黃錦煌"
+    },
+    {
+      "專業書籍": "聲壓微感測器設計、製作與分析",
+      "出版單位": "美律實業股份有限公司補助專題計",
+      "作者群": "黃錦煌"
+    },
+    {
+      "專業書籍": "聲壓微感測器設計、製作與分析",
+      "出版單位": "美律實業股份有限公司補助專題計",
+      "作者群": "黃錦煌"
+    },
+    {
+      "專業書籍": "以壓電材料作為微扭轉致動器之設計、分析、及製作",
+      "出版單位": "國科會補助第四十二屆國外短期研",
+      "作者群": "黃錦煌"
+    },
+    {
+      "專業書籍": "具旋轉角度自我偵測功能之壓電致動式微扭轉制動器之設計,分析,與製作",
+      "出版單位": "國科會補助專題計畫成果報告",
+      "作者群": "黃錦煌"
+    },
+    {
+      "專業書籍": "機構運動模擬-- MSC.visual Nastran Desktop",
+      "出版單位": "全華圖書公司",
+      "作者群": "黃錦煌、鐘光鴻"
+    },
+    {
+      "專業書籍": "磁性技術手冊, 第三十四章: 磁電材料及其應用",
+      "出版單位": "中華民國磁性技術協會",
+      "作者群": "黃錦煌"
+    },
+    {
+      "專業書籍": "強磁性稀土鐵合金複合材料之磁-熱-彈性場與磁伸縮的理論分析",
+      "出版單位": "國科會補助專題計畫成果報告",
+      "作者群": "黃錦煌"
+    },
+    {
+      "專業書籍": "以壓電材料為外被覆層的雙鍍層光纖之研究：靜態電-彈響應",
+      "出版單位": "國科會補助專題計畫成果報告",
+      "作者群": "黃錦煌"
+    },
+    {
+      "專業書籍": "一維壓電轉換器之靜、動態理論與實驗分析",
+      "出版單位": "國科會專題研究計畫成果報告",
+      "作者群": "黃錦煌"
+    },
+    {
+      "專業書籍": "鐵磁複合材料之微結構與磁伸縮關係的理論分析",
+      "出版單位": "國科會專題研究計畫成果報告",
+      "作者群": "黃錦煌"
+    }
+  ],
+  "patent": [
+    {
+      "title": "發明",
+      "desc": "虛擬電子樂器系統及其運作方法"
+    },
+    {
+      "title": "發明",
+      "desc": "多孔材料的預測方法及其系統"
+    },
+    {
+      "title": "發明",
+      "desc": "多孔材料的預測方法及其系統"
+    },
+    {
+      "title": "發明",
+      "desc": "利用三維金屬線路技術製作的太陽眼鏡"
+    },
+    {
+      "title": "發明",
+      "desc": "用於收音系統之等化前處理方法及其系統"
+    },
+    {
+      "title": "發明",
+      "desc": "聲波辨識系統及其方法"
+    },
+    {
+      "title": "發明",
+      "desc": "微機電系統裝置及其製作方法"
+    },
+    {
+      "title": "發明",
+      "desc": "微機電系統裝置及其製作方法"
+    },
+    {
+      "title": "發明",
+      "desc": "聲波辨識系統及其方法"
+    },
+    {
+      "title": "發明",
+      "desc": "聲波辨識系統及其方法"
+    },
+    {
+      "title": "發明",
+      "desc": "聲波辨識系統及其方法"
+    },
+    {
+      "title": "發明",
+      "desc": "聲波辨識系統及其方法"
+    },
+    {
+      "title": "發明",
+      "desc": "聲波辨識系統及其方法"
+    },
+    {
+      "title": "發明",
+      "desc": "聲波辨識系統及其方法"
+    },
+    {
+      "title": "發明",
+      "desc": "聲波辨識系統及其方法"
+    },
+    {
+      "title": "新型",
+      "desc": "靜音枕靠裝置"
+    },
+    {
+      "title": "發明",
+      "desc": "振動式測沙方法"
+    },
+    {
+      "title": "發明",
+      "desc": "PREDICTION METHOD OF POROUS MATERIAL AND THE SYSTEM THEREOF"
+    },
+    {
+      "title": "發明",
+      "desc": "虛擬電子樂器系統及其運作方式"
+    }
+  ],
+  "most": [
+    {
+      "name": "電容式與壓電式微機電麥克風之設計、分析模型建立、製作、量測及驗證",
+      "schoolYear": "113"
+    },
+    {
+      "name": "(博士增核)電容式與壓電式微機電麥克風之設計、分析模型建立、製作、量測及驗證",
+      "schoolYear": "113"
+    },
+    {
+      "name": "(企業培育)低頻延伸揚聲器音箱之設計、分析、優化、製作、量測及聲音品質評價方法(2/2)",
+      "schoolYear": "112"
+    },
+    {
+      "name": "(企業培育廠配)低頻延伸揚聲器音箱之設計、分析、優化、製作、量測及聲音品質評價方法(2/2)",
+      "schoolYear": "112"
+    },
+    {
+      "name": "低頻延伸揚聲器音箱之設計、分析、優化、製作、量測及聲音品質評價方法(2/2)",
+      "schoolYear": "112"
+    },
+    {
+      "name": "低頻延伸揚聲器音箱之設計、分析、優化、製作、量測及聲音品質評價方法(1/2)",
+      "schoolYear": "111"
+    },
+    {
+      "name": "(企業培育)低頻延伸揚聲器音箱之設計、分析、優化、製作、量測及聲音品質評價方法(1/2)",
+      "schoolYear": "111"
+    },
+    {
+      "name": "(企業培育廠配)低頻延伸揚聲器音箱之設計、分析、優化、製作、量測及聲音品質評價方法(1/2)",
+      "schoolYear": "111"
+    },
+    {
+      "name": "(台灣國防廠配)清華五校聯盟科研產業化平台計畫",
+      "schoolYear": "109"
+    },
+    {
+      "name": "註銷(風巽達廠配)清華五校聯盟科研產業化平台計畫",
+      "schoolYear": "109"
+    },
+    {
+      "name": "(台灣天氣廠配)清華五校聯盟科研產業化平台計畫",
+      "schoolYear": "109"
+    },
+    {
+      "name": "(瀚陞廠配)清華五校聯盟科研產業化平台計畫",
+      "schoolYear": "109"
+    },
+    {
+      "name": "(真興廠配)清華五校聯盟科研產業化平台計畫",
+      "schoolYear": "109"
+    },
+    {
+      "name": "(志聖廠配)清華五校聯盟科研產業化平台計畫",
+      "schoolYear": "109"
+    },
+    {
+      "name": "(3/3)(志豐廠配)產學技術聯盟合作計畫-電聲產學技術發展與驗證聯盟",
+      "schoolYear": "105"
+    },
+    {
+      "name": "(3/3)(亞旭廠配)產學技術聯盟合作計畫-電聲產學技術發展與驗證聯盟",
+      "schoolYear": "105"
+    },
+    {
+      "name": "製鞋智動化機電系統暨網宇虛實整合開發計畫－製鞋智動化機電系統暨網宇虛實整合開發計畫(3/3)",
+      "schoolYear": "109"
+    },
+    {
+      "name": "清華五校聯盟科研產業化平台計畫",
+      "schoolYear": "109"
+    },
+    {
+      "name": "(廠配)清華五校聯盟科研產業化平台計畫",
+      "schoolYear": "109"
+    },
+    {
+      "name": "清華五校聯盟科研產業化平台計畫(發明專利申請維護及推廣計畫)",
+      "schoolYear": "109"
+    },
+    {
+      "name": "(3/3)(美律廠配)產學技術聯盟合作計畫-電聲產學技術發展與驗證聯盟",
+      "schoolYear": "105"
+    },
+    {
+      "name": "(3/3)(嘉捷廠配)產學技術聯盟合作計畫-電聲產學技術發展與驗證聯盟",
+      "schoolYear": "105"
+    },
+    {
+      "name": "(3/3)(朕臨廠配)產學技術聯盟合作計畫-電聲產學技術發展與驗證聯盟",
+      "schoolYear": "105"
+    },
+    {
+      "name": "(3/3)(喬暘廠配)產學技術聯盟合作計畫-電聲產學技術發展與驗證聯盟",
+      "schoolYear": "105"
+    },
+    {
+      "name": "新型耳罩式耳機設計、聲學參數最佳化及聲音品質之研究(3/3)",
+      "schoolYear": "109"
+    },
+    {
+      "name": "(3/3)(天睞廠配)產學技術聯盟合作計畫-電聲產學技術發展與驗證聯盟",
+      "schoolYear": "105"
+    },
+    {
+      "name": "(3/3)(巨輪廠配)產學技術聯盟合作計畫-電聲產學技術發展與驗證聯盟",
+      "schoolYear": "105"
+    },
+    {
+      "name": "(3/3)(廈門歐應廠配)產學技術聯盟合作計畫-電聲產學技術發展與驗證聯盟",
+      "schoolYear": "105"
+    },
+    {
+      "name": "(3/3)(唐宋廠配)產學技術聯盟合作計畫-電聲產學技術發展與驗證聯盟",
+      "schoolYear": "105"
+    },
+    {
+      "name": "(3/3)(台灣聲研廠配)產學技術聯盟合作計畫-電聲產學技術發展與驗證聯盟",
+      "schoolYear": "105"
+    },
+    {
+      "name": "(3/3)(福佑廠配)產學技術聯盟合作計畫-電聲產學技術發展與驗證聯盟",
+      "schoolYear": "105"
+    },
+    {
+      "name": "(3/3)(谷津廠配)產學技術聯盟合作計畫-電聲產學技術發展與驗證聯盟",
+      "schoolYear": "105"
+    },
+    {
+      "name": "(3/3)(志豐廠配)產學技術聯盟合作計畫-電聲產學技術發展與驗證聯盟",
+      "schoolYear": "105"
+    },
+    {
+      "name": "(3/3)(綠基廠配)產學技術聯盟合作計畫-電聲產學技術發展與驗證聯盟",
+      "schoolYear": "105"
+    },
+    {
+      "name": "(3/3)(美商廠配)產學技術聯盟合作計畫-電聲產學技術發展與驗證聯盟",
+      "schoolYear": "105"
+    },
+    {
+      "name": "(3/3)(台灣櫻花廠配)產學技術聯盟合作計畫-電聲產學技術發展與驗證聯盟",
+      "schoolYear": "105"
+    },
+    {
+      "name": "製鞋智動化機電系統暨網宇虛實整合開發計畫－製鞋智動化機電系統暨網宇虛實整合開發計畫(2/3)",
+      "schoolYear": "108"
+    },
+    {
+      "name": "(3/3)(英屬維京廠配)產學技術聯盟合作計畫-電聲產學技術發展與驗證聯盟",
+      "schoolYear": "105"
+    },
+    {
+      "name": "邀請Klippel GmbH Wolfgang Klippel總裁",
+      "schoolYear": "108"
+    },
+    {
+      "name": "(3/3)(比特廠配)產學技術聯盟合作計畫-電聲產學技術發展與驗證聯盟",
+      "schoolYear": "105"
+    },
+    {
+      "name": "(3/3)(英業達廠配)產學技術聯盟合作計畫-電聲產學技術發展與驗證聯盟",
+      "schoolYear": "105"
+    },
+    {
+      "name": "(3/3)(虹筌廠配)產學技術聯盟合作計畫-電聲產學技術發展與驗證聯盟",
+      "schoolYear": "105"
+    },
+    {
+      "name": "(3/3)(綠點廠配)產學技術聯盟合作計畫-電聲產學技術發展與驗證聯盟",
+      "schoolYear": "105"
+    },
+    {
+      "name": "新型耳罩式耳機設計、聲學參數最佳化及聲音品質之研究(2/3)",
+      "schoolYear": "108"
+    },
+    {
+      "name": "(3/3)(嘉強廠配)產學技術聯盟合作計畫-電聲產學技術發展與驗證聯盟",
+      "schoolYear": "105"
+    },
+    {
+      "name": "(3/3)(巨輪廠配)產學技術聯盟合作計畫-電聲產學技術發展與驗證聯盟",
+      "schoolYear": "105"
+    },
+    {
+      "name": "(3/3)(群創廠配)產學技術聯盟合作計畫-電聲產學技術發展與驗證聯盟",
+      "schoolYear": "105"
+    },
+    {
+      "name": "(3/3)(固川廠配)產學技術聯盟合作計畫-電聲產學技術發展與驗證聯盟",
+      "schoolYear": "105"
+    },
+    {
+      "name": "(3/3)(科林廠配)產學技術聯盟合作計畫-電聲產學技術發展與驗證聯盟",
+      "schoolYear": "105"
+    },
+    {
+      "name": "(3/3)(偕盈廠配)產學技術聯盟合作計畫-電聲產學技術發展與驗證聯盟",
+      "schoolYear": "105"
+    },
+    {
+      "name": "(3/3)(復盛廠配)產學技術聯盟合作計畫-電聲產學技術發展與驗證聯盟",
+      "schoolYear": "105"
+    },
+    {
+      "name": "(3/3)(崴昊廠配)產學技術聯盟合作計畫-電聲產學技術發展與驗證聯盟",
+      "schoolYear": "105"
+    },
+    {
+      "name": "(3/3)(伸興廠配)產學技術聯盟合作計畫-電聲產學技術發展與驗證聯盟",
+      "schoolYear": "105"
+    },
+    {
+      "name": "(3/3)(圓展廠配)產學技術聯盟合作計畫-電聲產學技術發展與驗證聯盟",
+      "schoolYear": "105"
+    },
+    {
+      "name": "(3/3)(志豐廠配)產學技術聯盟合作計畫-電聲產學技術發展與驗證聯盟",
+      "schoolYear": "105"
+    },
+    {
+      "name": "(3/3)(明安廠配)產學技術聯盟合作計畫-電聲產學技術發展與驗證聯盟",
+      "schoolYear": "105"
+    },
+    {
+      "name": "(3/3)(台灣櫻花廠配)產學技術聯盟合作計畫-電聲產學技術發展與驗證聯盟",
+      "schoolYear": "105"
+    },
+    {
+      "name": "製鞋智動化機電系統暨網宇虛實整合開發計畫－製鞋智動化機電系統暨網宇虛實整合開發計畫(1/3)",
+      "schoolYear": "107"
+    },
+    {
+      "name": "(3/3)(得勝廠配)產學技術聯盟合作計畫-電聲產學技術發展與驗證聯盟",
+      "schoolYear": "105"
+    },
+    {
+      "name": "(3/3)(亞旭廠配)產學技術聯盟合作計畫-電聲產學技術發展與驗證聯盟",
+      "schoolYear": "105"
+    },
+    {
+      "name": "新型耳罩式耳機設計、聲學參數最佳化及聲音品質之研究(1/3)",
+      "schoolYear": "107"
+    },
+    {
+      "name": "以LabVIEW實踐具自動化之智慧型3D掃描系統",
+      "schoolYear": "107"
+    },
+    {
+      "name": "(3/3)(美律廠配)產學技術聯盟合作計畫-電聲產學技術發展與驗證聯盟",
+      "schoolYear": "105"
+    },
+    {
+      "name": "(3/3)(谷津廠配)產學技術聯盟合作計畫-電聲產學技術發展與驗證聯盟",
+      "schoolYear": "105"
+    },
+    {
+      "name": "(3/3)(科林廠配)產學技術聯盟合作計畫-電聲產學技術發展與驗證聯盟",
+      "schoolYear": "105"
+    },
+    {
+      "name": "(3/3)(光鍵廠配)產學技術聯盟合作計畫-電聲產學技術發展與驗證聯盟",
+      "schoolYear": "105"
+    },
+    {
+      "name": "(3/3)(榮佑廠配)產學技術聯盟合作計畫-電聲產學技術發展與驗證聯盟",
+      "schoolYear": "105"
+    },
+    {
+      "name": "(3/3)(百佳泰廠配)產學技術聯盟合作計畫-電聲產學技術發展與驗證聯盟",
+      "schoolYear": "105"
+    },
+    {
+      "name": "(3/3)(圓展廠配)產學技術聯盟合作計畫-電聲產學技術發展與驗證聯盟",
+      "schoolYear": "105"
+    },
+    {
+      "name": "(3/3)(巨輪廠配)產學技術聯盟合作計畫-電聲產學技術發展與驗證聯盟",
+      "schoolYear": "105"
+    },
+    {
+      "name": "(3/3)(日月光廠配)產學技術聯盟合作計畫-電聲產學技術發展與驗證聯盟",
+      "schoolYear": "105"
+    },
+    {
+      "name": "(3/3)(台灣聲研廠配)產學技術聯盟合作計畫-電聲產學技術發展與驗證聯盟",
+      "schoolYear": "105"
+    },
+    {
+      "name": "(3/3)(史丹利廠配)產學技術聯盟合作計畫-電聲產學技術發展與驗證聯盟",
+      "schoolYear": "105"
+    },
+    {
+      "name": "(3/3)(固川廠配)產學技術聯盟合作計畫-電聲產學技術發展與驗證聯盟",
+      "schoolYear": "105"
+    },
+    {
+      "name": "(3/3)(復盛廠配)產學技術聯盟合作計畫-電聲產學技術發展與驗證聯盟",
+      "schoolYear": "105"
+    },
+    {
+      "name": "(3/3)(亞旭廠配)產學技術聯盟合作計畫-電聲產學技術發展與驗證聯盟",
+      "schoolYear": "105"
+    },
+    {
+      "name": "(3/3)(勝品廠配)產學技術聯盟合作計畫-電聲產學技術發展與驗證聯盟",
+      "schoolYear": "105"
+    },
+    {
+      "name": "(深耕)精密主軸於智慧型滾齒機之應用暨推廣(2/2)",
+      "schoolYear": "106"
+    },
+    {
+      "name": "(廠配)(深耕)精密主軸於智慧型滾齒機之應用暨推廣(2/2)",
+      "schoolYear": "106"
+    },
+    {
+      "name": "(3/3)(合風廠配)產學技術聯盟合作計畫-電聲產學技術發展與驗證聯盟",
+      "schoolYear": "105"
+    },
+    {
+      "name": "(3/3)(佳樂廠配)產學技術聯盟合作計畫-電聲產學技術發展與驗證聯盟",
+      "schoolYear": "105"
+    },
+    {
+      "name": "(3/3)(伸興廠配)產學技術聯盟合作計畫-電聲產學技術發展與驗證聯盟",
+      "schoolYear": "105"
+    },
+    {
+      "name": "(3/3)(豐悅廠配)產學技術聯盟合作計畫-電聲產學技術發展與驗證聯盟",
+      "schoolYear": "105"
+    },
+    {
+      "name": "(3/3)(美商廠配)產學技術聯盟合作計畫-電聲產學技術發展與驗證聯盟",
+      "schoolYear": "105"
+    },
+    {
+      "name": "動圈式與電容式麥克風之整合設計與量測方法(3/3)",
+      "schoolYear": "106"
+    },
+    {
+      "name": "(3/3)(茂達廠配)產學技術聯盟合作計畫-電聲產學技術發展與驗證聯盟",
+      "schoolYear": "105"
+    },
+    {
+      "name": "(3/3)(新巨廠配)產學技術聯盟合作計畫-電聲產學技術發展與驗證聯盟",
+      "schoolYear": "105"
+    },
+    {
+      "name": "(台大)創新生產力4.0共享平臺之建立與生產力4.0生產製程之驗證(2/3)",
+      "schoolYear": "105"
+    },
+    {
+      "name": "(3/3)產學技術聯盟合作計畫-電聲產學技術發展與驗證聯盟",
+      "schoolYear": "105"
+    },
+    {
+      "name": "(2/3)(廠配)產學技術聯盟合作計畫-電聲產學技術發展與驗證聯盟",
+      "schoolYear": "104"
+    },
+    {
+      "name": "(2/3)(廠配)產學技術聯盟合作計畫-電聲產學技術發展與驗證聯盟",
+      "schoolYear": "104"
+    },
+    {
+      "name": "(3/3)(圖像廠配)產學技術聯盟合作計畫-電聲產學技術發展與驗證聯盟",
+      "schoolYear": "105"
+    },
+    {
+      "name": "(3/3)(喜特麗廠配)產學技術聯盟合作計畫-電聲產學技術發展與驗證聯盟",
+      "schoolYear": "105"
+    },
+    {
+      "name": "發明專利申請維護及推廣計畫",
+      "schoolYear": "105"
+    },
+    {
+      "name": "(2/3)(廠配)產學技術聯盟合作計畫-電聲產學技術發展與驗證聯盟",
+      "schoolYear": "104"
+    },
+    {
+      "name": "(3/3)(台灣櫻花廠配)產學技術聯盟合作計畫-電聲產學技術發展與驗證聯盟",
+      "schoolYear": "105"
+    },
+    {
+      "name": "(2/3)(廠配)產學技術聯盟合作計畫-電聲產學技術發展與驗證聯盟",
+      "schoolYear": "104"
+    },
+    {
+      "name": "(2/3)(廠配)產學技術聯盟合作計畫-電聲產學技術發展與驗證聯盟",
+      "schoolYear": "104"
+    },
+    {
+      "name": "(2/3)(廠配)產學技術聯盟合作計畫-電聲產學技術發展與驗證聯盟",
+      "schoolYear": "104"
+    },
+    {
+      "name": "(2/3)(廠配)產學技術聯盟合作計畫-電聲產學技術發展與驗證聯盟",
+      "schoolYear": "104"
+    },
+    {
+      "name": "(深耕)精密主軸於智慧型滾齒機之應用暨推廣(1/2)",
+      "schoolYear": "105"
+    },
+    {
+      "name": "(廠配)(深耕)精密主軸於智慧型滾齒機之應用暨推廣(1/2)",
+      "schoolYear": "105"
+    },
+    {
+      "name": "(2/3)(廠配)產學技術聯盟合作計畫-電聲產學技術發展與驗證聯盟",
+      "schoolYear": "104"
+    },
+    {
+      "name": "(2/3)(廠配)產學技術聯盟合作計畫-電聲產學技術發展與驗證聯盟",
+      "schoolYear": "104"
+    },
+    {
+      "name": "(2/3)(廠配)產學技術聯盟合作計畫-電聲產學技術發展與驗證聯盟",
+      "schoolYear": "104"
+    },
+    {
+      "name": "(2/3)(廠配)產學技術聯盟合作計畫-電聲產學技術發展與驗證聯盟",
+      "schoolYear": "104"
+    },
+    {
+      "name": "(2/3)(廠配)產學技術聯盟合作計畫-電聲產學技術發展與驗證聯盟",
+      "schoolYear": "104"
+    },
+    {
+      "name": "動圈式與電容式麥克風之整合設計與量測方法(2/3)",
+      "schoolYear": "105"
+    },
+    {
+      "name": "(1/3)創新生產力4.0共享平臺之建立與生產力4.0生產製程之驗證",
+      "schoolYear": "104"
+    },
+    {
+      "name": "(2/3)(廠配)產學技術聯盟合作計畫-電聲產學技術發展與驗證聯盟",
+      "schoolYear": "104"
+    },
+    {
+      "name": "(2/3)(廠配)產學技術聯盟合作計畫-電聲產學技術發展與驗證聯盟",
+      "schoolYear": "104"
+    },
+    {
+      "name": "(2/3)(廠配)產學技術聯盟合作計畫-電聲產學技術發展與驗證聯盟",
+      "schoolYear": "104"
+    },
+    {
+      "name": "(2/3)(廠配)產學技術聯盟合作計畫-電聲產學技術發展與驗證聯盟",
+      "schoolYear": "104"
+    },
+    {
+      "name": "(2/3)(廠配)產學技術聯盟合作計畫-電聲產學技術發展與驗證聯盟",
+      "schoolYear": "104"
+    },
+    {
+      "name": "(2/3)產學技術聯盟合作計畫-電聲產學技術發展與驗證聯盟",
+      "schoolYear": "104"
+    },
+    {
+      "name": "深耕工業基礎技術專案計畫-工具機精密主軸基礎技術推動與自動化量測平台之研發(2/2)",
+      "schoolYear": "104"
+    },
+    {
+      "name": "(廠配)深耕工業基礎技術專案計畫-工具機精密主軸基礎技術推動與自動化量測平台之研發(2/2)",
+      "schoolYear": "104"
+    },
+    {
+      "name": "動圈式與電容式麥克風之整合設計與量測方法(1/3)",
+      "schoolYear": "104"
+    },
+    {
+      "name": "提昇私校研發能量-高效率有機螢光材料及照明用高演色性白光LED技術開發(3/3)",
+      "schoolYear": "104"
+    },
+    {
+      "name": "產學技術聯盟合作計畫-電聲產學技術發展與驗證聯盟(1/3)",
+      "schoolYear": "103"
+    },
+    {
+      "name": "(廠配)產學技術聯盟合作計畫-電聲產學技術發展與驗證聯盟(1/3)",
+      "schoolYear": "103"
+    },
+    {
+      "name": "深耕工業基礎技術專案計畫-工具機精密主軸基礎技術推動與自動化量測平台之研發(1/2)",
+      "schoolYear": "103"
+    },
+    {
+      "name": "(廠配)深耕工業基礎技術專案計畫-工具機精密主軸基礎技術推動與自動化量測平台之研發(1/2)",
+      "schoolYear": "103"
+    },
+    {
+      "name": "隔噪內耳式耳機之電聲元件設計與聲音品質分析(3/3)",
+      "schoolYear": "103"
+    },
+    {
+      "name": "提昇私校研發能量-高效率有機螢光材料及照明用高演色性白光LED技術開發(2/3)",
+      "schoolYear": "103"
+    },
+    {
+      "name": "(開發型)產學合作計畫─應用於多媒體及行動裝置之內耳式主動抗噪高傳真耳機的研發(2/2)",
+      "schoolYear": "102"
+    },
+    {
+      "name": "(廠配)(開發型)產學合作計畫─應用於多媒體及行動裝置之內耳式主動抗噪高傳真耳機的研發(2/2)(美律實業股份有限公司)",
+      "schoolYear": "102"
+    },
+    {
+      "name": "隔噪內耳式耳機之電聲元件設計與聲音品質分析(2/3)",
+      "schoolYear": "102"
+    },
+    {
+      "name": "(開發型)產學合作計畫－應用於多媒體及行動裝置之內耳式主動抗噪高傳真耳機的研發(1/2)",
+      "schoolYear": "101"
+    },
+    {
+      "name": "(廠配)(開發型)產學合作計畫－應用於多媒體及行動裝置之內耳式主動抗噪高傳真耳機的研發(1/2)(美律實業股份有限公司)",
+      "schoolYear": "101"
+    },
+    {
+      "name": "高功率中小型揚聲器之設計與分析(3/3)",
+      "schoolYear": "101"
+    },
+    {
+      "name": "隔噪內耳式耳機之電聲元件設計與聲音品質分析(1/3)",
+      "schoolYear": "101"
+    },
+    {
+      "name": "提昇私校研發能量-綠色氫能源技術與經濟之研究(3/3)",
+      "schoolYear": "101"
+    },
+    {
+      "name": "三維邊界元素法分析多重絕熱塗層之熱破壞及其應用CAE軟件之發展(3/3)",
+      "schoolYear": "101"
+    },
+    {
+      "name": "高功率中小型揚聲器之設計與分析(2/3)",
+      "schoolYear": "100"
+    },
+    {
+      "name": "提昇私校研發能量-綠色氫能源技術與經濟之研究(2/3)",
+      "schoolYear": "100"
+    },
+    {
+      "name": "台印國合計畫 ─ 奈米石墨薄片複合材料之製程測試與模擬分析(3/3)",
+      "schoolYear": "99"
+    },
+    {
+      "name": "高功率中小型揚聲器之設計與分析(1/3)",
+      "schoolYear": "99"
+    },
+    {
+      "name": "複雜介質中二階非線性聲場之分析與量測(3/3)",
+      "schoolYear": "99"
+    },
+    {
+      "name": "提昇私校研發能量-綠色氫能源技術與經濟之研究(1/3)",
+      "schoolYear": "99"
+    },
+    {
+      "name": "三維邊界元素法分析多重絕熱塗層之熱破壞及其應用CAE軟件之發展(1/3)",
+      "schoolYear": "99"
+    },
+    {
+      "name": "台印國合計畫 ─ 奈米石墨薄片複合材料之製程測試與模擬分析(2/3)",
+      "schoolYear": "98"
+    },
+    {
+      "name": "複雜介質中二階非線性聲場之分析與量測(2/3)",
+      "schoolYear": "98"
+    },
+    {
+      "name": "三維異向體熱彈力學之邊界元素法工程分析及其套裝分析軟件之開發(3/3)",
+      "schoolYear": "98"
+    },
+    {
+      "name": "台印國合計畫 ─ 奈米石墨薄片複合材料之製程測試與模擬分析(1/3)",
+      "schoolYear": "97"
+    },
+    {
+      "name": "複雜介質中二階非線性聲場之分析與量測(1/3)",
+      "schoolYear": "97"
+    },
+    {
+      "name": "微機電電容式麥克風之設計、分析、製作與量測(3/3)",
+      "schoolYear": "97"
+    },
+    {
+      "name": "三維異向體熱彈力學之邊界元素法工程分析及其套裝分析軟件之開發(2/3)",
+      "schoolYear": "97"
+    },
+    {
+      "name": "大磁致伸縮換能器之設計、分析及製作(3/3)",
+      "schoolYear": "96"
+    },
+    {
+      "name": "微機電電容式麥克風之設計、分析、製作與量測(2/3)",
+      "schoolYear": "96"
+    },
+    {
+      "name": "三維異向體熱彈力學之邊界元素法工程分析及其套裝分析軟件之開發(1/3)",
+      "schoolYear": "96"
+    },
+    {
+      "name": "大磁致伸縮換能器之設計、分析及製作(2/3)",
+      "schoolYear": "95"
+    },
+    {
+      "name": "微機電電容式麥克風之設計、分析、製作與量測(1/3)",
+      "schoolYear": "95"
+    },
+    {
+      "name": "大磁致伸縮換能器之設計、分析及製作.(1/3)",
+      "schoolYear": "94"
+    },
+    {
+      "name": "以壓電材料作為微扭轉致動器之設計、分析及製作(2/2)",
+      "schoolYear": "94"
+    },
+    {
+      "name": "邊界元素法分析多種含薄型異向材料結合之熱脫層",
+      "schoolYear": "94"
+    },
+    {
+      "name": "以壓電材料作為微扭轉致動器之設計、分析及製作(1/2)",
+      "schoolYear": "93"
+    },
+    {
+      "name": "邊界元對異向性複材受恣意熱源之固熱耦合最佳化分析",
+      "schoolYear": "92"
+    },
+    {
+      "name": "具旋轉角度自我偵測功能之壓電制動式微扭轉制動器之設計、分析、與製作",
+      "schoolYear": "92"
+    },
+    {
+      "name": "提昇私大研發能量專案–多場耦合效應之智慧型材料的研發(3/3)",
+      "schoolYear": "91"
+    },
+    {
+      "name": "以壓電材料為外被覆層的雙鍍層光纖之研究：靜態電-彈響應",
+      "schoolYear": "91"
+    },
+    {
+      "name": "強磁性稀土鐵合金複合材料之磁-熱-彈性場與磁伸縮的理論分析(2/2)",
+      "schoolYear": "91"
+    },
+    {
+      "name": "強磁性稀土鐵合金複合材料之磁-熱-彈性場與磁伸縮的理論分析(1/2)(博士後研究：Shukla  Karunesh  Kumar)",
+      "schoolYear": "91"
+    },
+    {
+      "name": "提昇私大研發能量專案–多場耦合效應之智慧型材料的研發(2/3)",
+      "schoolYear": "90"
+    },
+    {
+      "name": "一種可降解之環保素材的成型性之研究：稻殼積合複材",
+      "schoolYear": "90"
+    },
+    {
+      "name": "應用類神經網路與計算力學在結構缺陷之超音波非破壞檢測",
+      "schoolYear": "90"
+    },
+    {
+      "name": "強磁性稀土鐵合金複合材料之磁-熱-彈性場與磁伸縮的理論分析(1/2)",
+      "schoolYear": "90"
+    },
+    {
+      "name": "鐵磁複合材料之微結構與磁伸縮關係的理論分析(博士後研究：劉紹文)",
+      "schoolYear": "89"
+    },
+    {
+      "name": "提昇私大研發能量專案–多場耦合效應之智慧型材料的研發(1/3)",
+      "schoolYear": "89"
+    },
+    {
+      "name": "一維壓電轉換器之靜、動態理論與實驗分析",
+      "schoolYear": "89"
+    },
+    {
+      "name": "鐵磁複合材料之微結構與磁伸縮關係的理論分析",
+      "schoolYear": "89"
+    },
+    {
+      "name": "一種可降解之新環保素材的物性研究：稻殼積合複材",
+      "schoolYear": "89"
+    },
+    {
+      "name": "一体成型雙層壁筒槽容器之製程與衝擊性能分析",
+      "schoolYear": "88"
+    },
+    {
+      "name": "壓電/壓磁智慧型複合材料之製程及物性分析研究",
+      "schoolYear": "87"
+    },
+    {
+      "name": "短纖維複合材料微結構之實驗與理論分析研究",
+      "schoolYear": "86"
+    },
+    {
+      "name": "壓電/壓磁智慧型複合材料之磁電耦合效應探討",
+      "schoolYear": "86"
+    },
+    {
+      "name": "一體成型的三明治複材結構之製造與物性分析",
+      "schoolYear": "85"
+    },
+    {
+      "name": "壓電材料的同質夾雜問題",
+      "schoolYear": "83"
+    },
+    {
+      "name": "壓電材料的同質夾雜問題",
+      "schoolYear": "82"
+    },
+    {
+      "name": "以變分法研究同質夾雜的滑移",
+      "schoolYear": "81"
+    }
+  ],
+  "tech": [
+    {
+      "論文名稱": "Chapter 46\nInverse Method for Estimating the Convection Coefficient at Gap Inside Bearing Rig Test (2020-06)",
+      "書名": "Advanced Materials",
+      "作者群": "Thi-Thao Ngo, Jin H. Huang, and Van-The Than"
+    },
+    {
+      "論文名稱": "Indirect Measurement for Suspended Sediment Concentration in Water Using a Vibrating Rectangular Plate (2014-08)",
+      "書名": "Noise Control: Theory, Application and Optimization in Engineering",
+      "作者群": "Yu-Cheng Liu and Jin H. Huang"
+    },
+    {
+      "論文名稱": "電波暗室用吸波磚技術開發 (2011-11)",
+      "書名": "逢甲大學產學合作案例選粹(黃錦煌主編)",
+      "作者群": "黃錦煌、楊瑞彬等"
+    },
+    {
+      "論文名稱": "環伺全球隆躍群雄 產學並進共譜雙贏 (2011-08)",
+      "書名": "逢甲大學產學合作案例選粹",
+      "作者群": "黃錦煌, 劉育成, 謝正輝"
+    },
+    {
+      "論文名稱": "高斯束展開法在計算菲涅爾場積分中的應用 (2010-08)",
+      "書名": "創新與和諧-中國升學進展",
+      "作者群": "丁德勝、劉曉峻、黃錦煌*"
+    },
+    {
+      "論文名稱": "輕鬆易學有限元分析大師--FemLab (2004-07)",
+      "書名": "輕鬆易學有限元分析大師--FemLab",
+      "作者群": "黃錦煌、吳佐群"
+    },
+    {
+      "論文名稱": "第三十四章: 磁電材料及其應用 (2002-08)",
+      "書名": "磁性技術手冊",
+      "作者群": "黃錦煌"
+    }
+  ],
+  "induAca": [
+    "113年度自行車輪框GAI設計應用計畫 (2024-10 to 2024-11)",
+    "壓電式微型揚聲器發展調查與設計分析之研究 (2024-04 to 2025-03)",
+    "微機電電聲元件 (2024-02 to 2025-01)",
+    "空間音場模擬技術開發與聲學系統分析 (2023-10 to 2024-09)",
+    "複合材料旋翼減噪研究 (2022-11 to 2023-08)",
+    "友達光電股份有限公司L7B Cell PI Robot 音頻異常預警監控產學合作計畫 (2022-02 to 2023-02)",
+    "低頻延伸揚聲器音箱之設計、分析與最佳化技術 (2022-01 to 2022-10)",
+    "AI技術於風扇品質檢測研究諮詢顧問專案計畫 (2021-05 to 2021-08)",
+    "高屏溪流域整體改善與調適規劃(1/2) (2021-03 to 2021-12)",
+    "創新智慧型電聲技術整合平台之開發與應用 (2020-08 to 2021-07)",
+    "高效能石墨烯複合材料揚聲器分析設計 (2020-06 to 2021-05)",
+    "創新智慧型電聲技術整合平台之開發與應用 (2019-08 to 2020-07)",
+    "強化區域合作推動中南部智慧機械及航太產業升級計畫108年度研發補助計畫辦公室服務案 (2019-01 to 2019-12)",
+    "以有限元素法實踐入耳式耳機聲學特性開發之研究 (2018-10 to 2019-09)",
+    "中彰投區域科技政策小組勞務採購案 (2018-09 to 2019-05)",
+    "微機電麥克風系統之有限元素模擬與分析 (2018-08 to 2019-07)",
+    "大學產業創新研發計畫─創新智慧型電聲技術整合平台之開發與應用 (2018-08 to 2019-07)",
+    "應用於抑制壓縮機噪音之消音器模擬分析 (2018-04 to 2019-03)",
+    "導入西門子4.0機電一體化與智慧機器人之人機協同作業應用基地計畫 (2018-03 to 2018-10)",
+    "中部物聯網智造基地HUB辦公室運作專業服務契約書 (2018-01 to 2018-11)",
+    "先進封裝設備計畫(2/4)- 推動產學合作(智慧機械與智慧製造之典範案例選拔)計畫 (2018-01 to 2018-11)",
+    "強化區域合作推動中南部智慧機械及航太產業升級計畫107年度研發補助計畫辦公室服務案 (2018-01 to 2018-12)",
+    "中彰投區域科技政策小組勞務採購案 (2017-09 to 2018-02)",
+    "智慧水管理產業創新發展計畫管理及產業推動服務(1/4) (2017-06 to 2017-12)",
+    "智慧科技創新創業發展計畫中區行政院青創基地勞務委辦採購案 (2017-03 to 2017-12)",
+    "106年度產業園區廠商競爭力推升計畫-加工出口區中部園區躍昇計畫 (2017-03 to 2017-11)",
+    "抽油煙機被動減噪技術之研究 (2017-03 to 2018-05)",
+    "軸承熱溫升與振動跑合分析檢驗系統技術開發計畫 (2017-01 to 2018-12)",
+    "106年度補(捐)助公民營機構設置中小企業創新育成中心計畫(政府補助款) (2017-01 to 2017-12)",
+    "強化區域合作推動中南部智慧機械及航太產業升級106年研發補助計畫辦公室服務案 (2017-01 to 2017-12)",
+    "中部科學園區產學訓交流平台之運作與推動計畫 (2016-09 to 2017-12)",
+    "高等研究園區引進及發展文創產業先期研究計畫案 (2016-09 to 2016-12)",
+    "上銀螺桿音頻線上自主檢驗系統 (2016-09 to 2018-09)",
+    "105學年度大學校院創新創業扎根計畫「創新創業中心示範學校計畫」 (2016-08 to 2017-07)",
+    "105年產業園區專案輔導計畫_彰濱鹿港區躍昇計畫 (2016-04 to 2016-11)",
+    "產業園區廠商競爭力推升計畫_加工出口區中部園區躍升計畫 (2016-04 to 2016-11)",
+    "105年度加工出口區中部園區產學合作發展計畫委外服務 (2016-03 to 2016-11)",
+    "105年度補(捐)助公民營機構設置中小企業創新育成中心計畫(政府補助款) (2016-01 to 2016-12)",
+    "耳罩耳機暨雙耳錄音技術開發 (2015-09 to 2016-08)",
+    "104學年度大學校院創新創業扎根計畫─創新創業中心示範學校計畫 (2015-08 to 2016-07)",
+    "104學年度谷崧精密工業股份有限公司與逢甲大學工學院科技人才培育方案 (2015-08 to 2016-09)",
+    "除油煙機主動數位抗噪系統 (2015-07 to 2016-06)",
+    "微水力發電應用於再生水廠評估建置計畫(1/2) (2015-05 to 2015-12)",
+    "伺服器產品噪音測試 (2015-05 to 2016-04)",
+    "電聲產學技術發展與驗證聯盟之諮詢顧問費(諮詢顧問計畫) (2015-05 to 2016-04)",
+    "滾珠螺桿主軸品質自動監控系統軟體 (2015-03 to 2015-09)",
+    "特殊薄膜材料之聲學特性測試 (2015-02 to 2015-04)",
+    "102年度教育部補助大學校院推動課程分流計畫第2年「『精密機械專業學院』課程分流與產業鏈結計畫」 (2014-12 to 2015-11)",
+    "103學年度谷崧精密工業股份有限公司與逢甲大學工學院科技人才培育方案 (2014-08 to 2015-09)",
+    "整合微水利發電技術於輸配水系統之可行性研究 (2014-06 to 2014-12)",
+    "主軸異音檢測系統數據資料庫建立計畫 (2014-06 to 2014-08)",
+    "103年度磨課師課程推動計畫─I Fun好聲音~玩出屬於你的耳機 (2014-05 to 2015-04)",
+    "Speaker module 檢測 (2014-02 to 2014-05)",
+    "揚聲器系統聲學特性參數測試 (2014-02 to 2015-05)",
+    "精密機械專業學院產業鏈結計畫 (2013-12 to 2014-11)",
+    "「精密機械專業學院」課程分流與產業鏈結計畫 (2013-12 to 2014-11)",
+    "手機防水殼內部聲學研究與測試 (2013-11 to 2014-04)",
+    "102學年度谷崧精密工業股份有限公司與逢甲大學工學院科技人才培育方案 (2013-08 to 2014-09)",
+    "101學年度谷崧精密工業股份有限公司與逢甲大學工學院科技人才培育方案 (2012-08 to 2013-07)",
+    "河川流量自動化觀測科技發展計畫(2/3) (2012-02 to 2012-12)",
+    "電聲產品模擬測試研究第二期 (2011-10 to 2012-03)",
+    "電聲應用研究案第四期：耳罩式耳機參數設計與模擬之研究 (2011-08 to 2012-07)",
+    "100學年度美律實業股份有限公司與逢甲大學工學院科技人才培育方案 (2011-08 to 2012-07)",
+    "100學年度谷崧精密工業股份有限公司與逢甲大學工學院科技人才培育方案 (2011-08 to 2012-07)",
+    "河川流量自動化觀測科技發展計畫(1/3) (2011-05 to 2011-12)",
+    "深層海水及溫泉水溫差發電可行性探討 (2011-05 to 2011-12)",
+    "太陽能光電遠端監控系統軟體開發案 (2010-12 to 2012-12)",
+    "台中市日新戲院9F觀眾席創意規劃及設計 (2010-09 to 2011-02)",
+    "99學年度谷崧精密工業股份有限公司與逢甲大學工學院科技人才培育方案 (2010-08 to 2011-07)",
+    "兩岸水利技術合作推動計畫(1/2) (2010-06 to 2010-12)",
+    "曾文水庫激振式泥砂濃度觀測技術研究(1/2) (2010-05 to 2010-12)",
+    "液晶模組噪音量測—第二期 (2010-05 to 2011-04)",
+    "中山宇森電器第一期合作計畫子計畫─中山宇森產品創意設計推動計畫 (2010-05 to 2011-04)",
+    "電聲產品模擬測試研究第一期 (2010-04 to 2010-06)",
+    "電聲應用研究案第三期─子計畫一：耳機參數設計與模擬及其聲音品質之研究 (2009-11 to 2010-10)",
+    "液晶模組噪音量測 (2009-10 to 2010-07)",
+    "台中市日新電影院設備改善計畫 (2009-02 to 2009-04)",
+    "電聲應用研究案第二期 (2008-10 to 2009-09)",
+    "聲音品質量測方法、分析 (2008-05 to 2009-04)",
+    "麥克風參數量測、分析與音箱設計 (2007-11 to 2008-10)",
+    "電聲應用研究案第一期 (2007-09 to 2008-08)",
+    "聲壓微感測器設計、製作與分析 (2004-03 to 2005-02)",
+    "一次可降解餐飲具之類型與基本技術調查 (2000-10 to 2000-12)",
+    "柏全瀝青股份有限公司整廠機械設備拆遷評價分析 (1999-02 to 1999-03)",
+    "泰勇實業股份有限公司整廠機械設備拆遷評價分析 (1999-02 to 1999-03)"
+  ],
+  "perform": [],
+  "reward": [
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優等獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (111, 2022-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (111, 2022-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (111, 2022-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (110, 2021-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (110, 2021-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (110, 2021-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (110, 2021-11) - 逢甲大學",
+    "110年度科技部補助大專校院研究獎勵 (110, 2021-10) - 產學合作處",
+    "逢甲大學論文著作獎勵傑出獎 (109, 2020-11) - 逢甲大學",
+    "109年度科技部補助大專校院研究獎勵 (109, 2020-10) - 逢甲大學",
+    "2020台灣創新技術博覽會發明競賽 (109, 2020-09) - 發明競賽評審委員會",
+    "逢甲大學論文著作獎勵優良獎 (108, 2019-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (108, 2019-11) - 逢甲大學",
+    "108學年度科技部補助大專校院研究獎勵 (108, 2019-09) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (107, 2018-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (107, 2018-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (107, 2018-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (107, 2018-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (107, 2018-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (107, 2018-11) - 逢甲大學",
+    "107年度科技部補助大專校院研究獎勵 (107, 2018-08) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (106, 2017-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (106, 2017-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (106, 2017-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (106, 2017-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (106, 2017-11) - 逢甲大學",
+    "106年度科技部獎勵特殊優秀人才 (106, 2017-08) - 產學合作處",
+    "逢甲大學論文著作獎勵傑出獎 (105, 2016-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (105, 2016-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (105, 2016-11) - 逢甲大學",
+    "105年度科技部獎勵特殊優秀人才 (105, 2016-08) - 產學合作處",
+    "績優產學技術聯盟獎 (104, 2016-06) - 科技部",
+    "逢甲大學優良教材獎勵佳作獎 (104, 2015-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (104, 2015-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (104, 2015-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (104, 2015-11) - 逢甲大學",
+    "逢甲大學優良教材獎勵優等獎 (104, 2015-11) - 逢甲大學",
+    "逢甲大學優良教材獎勵優等獎 (104, 2015-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (104, 2015-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (104, 2015-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (104, 2015-11) - 逢甲大學",
+    "104年度科技部獎勵特殊優秀人才 (104, 2015-08) - 產學合作處",
+    "第六屆旺宏金矽獎金牌獎 (104, 2015-06) - 旺宏電子股份有限公司",
+    "第一屆美律電聲實作特別獎 (103, 2014-12) - 美律實業股份有限公司",
+    "逢甲大學優良教材獎勵傑出獎 (103, 2014-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (103, 2014-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (103, 2014-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (103, 2014-11) - 逢甲大學",
+    "103年度科技部獎勵特殊優秀人才 (103, 2014-08) - 研究發展處",
+    "科技部大產學研究成果發表傑出獎 (103, 2014-06) - 科技部",
+    "2013資訊應用 優質新創組佳作 (102, 2013-12) - 經濟部",
+    "逢甲大學論文著作獎勵傑出獎 (102, 2013-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (102, 2013-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (102, 2013-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (102, 2013-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (102, 2013-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (102, 2013-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (102, 2013-11) - 逢甲大學",
+    "102年度科技部獎勵特殊優秀人才 (102, 2013-08) - 研究發展處",
+    "第三屆美律電聲論文獎最佳論文獎 (101, 2012-12) - 美律實業股份有限公司",
+    "逢甲大學優良教材獎勵優等獎 (101, 2012-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (101, 2012-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (101, 2012-11) - 逢甲大學",
+    "101年度科技部獎勵特殊優秀人才 (101, 2012-08) - 研究發展處",
+    "逢甲大學論文著作獎勵優良獎 (100, 2011-11) - 逢甲大學",
+    "100年度科技部獎勵特殊優秀人才 (100, 2011-08) - 研究發展處",
+    "論文獎第二名 (100, 2011-08) - 中華民國力學學會力學學刊",
+    "第一屆美律電聲論文獎金質獎 (99, 2010-12) - 美律實業股份有限公司",
+    "逢甲大學論文著作獎勵傑出獎 (99, 2010-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (99, 2010-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (99, 2010-11) - 逢甲大學",
+    "99年度科技部獎勵特殊優秀人才 (99, 2010-10) - 研究發展處",
+    "逢甲大學論文著作獎勵傑出獎 (98, 2009-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (98, 2009-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (98, 2009-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (98, 2009-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (98, 2009-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (98, 2009-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (98, 2009-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵 (97, 2008-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (97, 2008-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (97, 2008-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (97, 2008-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (97, 2008-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵 (96, 2007-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (96, 2007-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (96, 2007-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (96, 2007-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (96, 2007-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (95, 2006-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (95, 2006-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (95, 2006-11) - 逢甲大學",
+    "臺中市特殊優良教師 (95, 2006-09) - 臺中市政府",
+    "逢甲大學論文著作獎勵傑出獎 (94, 2005-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (94, 2005-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (94, 2005-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (94, 2005-11) - 逢甲大學",
+    "教學優良教師 (94, 2005-08) - 逢甲大學",
+    "三等服務獎章 (94, 2005-08) - 逢甲大學",
+    "研究計畫績優獎 (94, 2005-08) - 逢甲大學",
+    "優良會議論文 (94, 2005-08) - The International Society for Optical En",
+    "逢甲大學論文著作獎勵傑出獎 (93, 2004-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (93, 2004-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (93, 2004-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (93, 2004-11) - 逢甲大學",
+    "傑出獎 (92, 2003-12) - 逢甲大學",
+    "優等獎 (92, 2003-12) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (92, 2003-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (92, 2003-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (92, 2003-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (92, 2003-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (92, 2003-11) - 逢甲大學",
+    "傑出獎 (91, 2002-12) - 逢甲大學",
+    "優等獎 (91, 2002-12) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (91, 2002-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (91, 2002-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (91, 2002-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (91, 2002-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (91, 2002-11) - 逢甲大學",
+    "國科會甲種獎勵 (89, 2000-08) - 行政院國科會",
+    "國科會甲種獎勵 (88, 1999-08) - 行政院國科會",
+    "國科會甲種獎勵 (87, 1998-08) - 行政院國科會",
+    "國科會甲種獎勵 (86, 1997-08) - 行政院國科會",
+    "國科會甲種獎勵 (84, 1995-08) - 行政院國科會"
+  ],
+  "speech": [
+    {
+      "演講題目": "逢甲大學研究生處 業務推動暨具體作法分享",
+      "邀請單位": "國立暨南國際大學",
+      "演講日期": "2022-01"
+    },
+    {
+      "演講題目": "2013　台灣高等教育創新論壇暨「碩士雙軌學程」研討會",
+      "邀請單位": "教育部",
+      "演講日期": "2013-11"
+    },
+    {
+      "演講題目": "逢甲大學工學院推動產學研發與人才培育之作法",
+      "邀請單位": "中山醫學大學",
+      "演講日期": "2013-11"
+    },
+    {
+      "演講題目": "兩件創意創新墊聲產品成果分享及行銷模式探討",
+      "邀請單位": "逢甲大學商學博士學位學程",
+      "演講日期": "2013-02"
+    },
+    {
+      "演講題目": "2009 COMSOL USERS CONFERENCE IN TAIPEI",
+      "邀請單位": "COMSOL Conference Commite",
+      "演講日期": "2009-11"
+    },
+    {
+      "演講題目": "Microphone Chamber Effect (2)",
+      "邀請單位": "茂達電子股份有限公司",
+      "演講日期": "2008-08"
+    },
+    {
+      "演講題目": "Microphone Chamber Effect (1)",
+      "邀請單位": "茂達電子股份有限公司",
+      "演講日期": "2008-08"
+    },
+    {
+      "演講題目": "97年度 研發人員 教育訓練",
+      "邀請單位": "微電聲產業聯盟",
+      "演講日期": "2008-08"
+    },
+    {
+      "演講題目": "VOIP 測試規範",
+      "邀請單位": "中華電訊公司",
+      "演講日期": "2008-06"
+    },
+    {
+      "演講題目": "Analysis and Modeling of Portable Speakers",
+      "邀請單位": "中興大學精密所",
+      "演講日期": "2008-04"
+    },
+    {
+      "演講題目": "陣列式麥克風",
+      "邀請單位": "茂達電子",
+      "演講日期": "2008-02"
+    },
+    {
+      "演講題目": "Microspeaker設計原理",
+      "邀請單位": "美律實業",
+      "演講日期": "2008-01"
+    },
+    {
+      "演講題目": "Micro-speaker原理及技術挑戰",
+      "邀請單位": "微電聲產業聯盟",
+      "演講日期": "2007-12"
+    },
+    {
+      "演講題目": "Digital MEMS Microphone",
+      "邀請單位": "聯詠科技",
+      "演講日期": "2007-12"
+    },
+    {
+      "演講題目": "Loudspeaker Design and Analysis",
+      "邀請單位": "國立中正大學",
+      "演講日期": "2007-04"
+    },
+    {
+      "演講題目": "Loudspeaker Design and Analysis",
+      "邀請單位": "環隆電氣股份有限公司",
+      "演講日期": "2007-01"
+    },
+    {
+      "演講題目": "Hearing Aid Development",
+      "邀請單位": "美律實業股份有限公",
+      "演講日期": "2007-01"
+    },
+    {
+      "演講題目": "Array MEMS Microphones",
+      "邀請單位": "微電聲工程學會",
+      "演講日期": "2006-05"
+    },
+    {
+      "演講題目": "國家甲乙級機電整合技術",
+      "邀請單位": "北台技術學院",
+      "演講日期": "2005-08"
+    },
+    {
+      "演講題目": "Investigation of Coupling and Effective Property of Magnetos",
+      "邀請單位": "Material Sci, Penn State Univ.",
+      "演講日期": "2005-05"
+    },
+    {
+      "演講題目": "My Recent Research Interests",
+      "邀請單位": "Mech. Eng.,Penn State Univ.",
+      "演講日期": "2004-10"
+    },
+    {
+      "演講題目": "On the Effective Thermal-Magneto-Electro-Elastic Properties",
+      "邀請單位": "遠東科技大學",
+      "演講日期": "2004-05"
+    },
+    {
+      "演講題目": "結構與流體相互耦合之多重物理模式分析",
+      "邀請單位": "國立台北科技大學",
+      "演講日期": "2004-04"
+    },
+    {
+      "演講題目": "以Mathematica R 解工程特徵值問題",
+      "邀請單位": "國立台北科技大學",
+      "演講日期": "2004-03"
+    },
+    {
+      "演講題目": "Clean Room and and Thermal Stress Analysis on COG (Chip on G",
+      "邀請單位": "上海同濟大學",
+      "演講日期": "2003-11"
+    },
+    {
+      "演講題目": "Temperature and Thermal Stress Analysis on COG (Chip on Glas",
+      "邀請單位": "台灣大學",
+      "演講日期": "2002-08"
+    }
+  ],
+  "material": [
+    "機構運動模擬-- MSC.visual Nastran Desktop\t全華科技圖書股份有限公司\t黃錦煌、鐘光鴻\t複合教材",
+    "輕鬆易學有限元分析大師--FemLab\t高立圖書公司\t黃錦煌、吳佐群\t複合教材",
+    "Engineering Mathematics\t自行出版\t黃錦煌\t複合教材",
+    "Indirect Measurement for Suspended Sediment Concentration in Water Using a Vibrating Rectangular Pla\tResearch Signpost\tYu-Cheng Liu and Jin H. Huang\t複合教材",
+    "nverse determination of the nonlinear force factor of moving-coil loudspeaker motor systems\tResearch Signpost\tYu-Ting Tsai, Chi-Chang Wang, and Jin H. Huang\t複合教材",
+    "I Fun好聲音~玩出屬於你的耳機\t逢甲大學雲端學院\t劉育成、黃錦煌、蔡鈺鼎、汪龍飛、古劍雄、王文弘\t數位學習課程教材"
+  ],
+  "tal": []
+}

@@ -1,0 +1,691 @@
+{
+  "teacherId": "T00231",
+  "name": "莊永忠",
+  "mainUnit": "建設學院",
+  "detailUnit": "都市計畫與空間資訊學系",
+  "skill": [
+    "地理資訊科學Geographic Information Science",
+    "航空測量學Aerial Survey",
+    "數值地形模型技術與應用Digital Elevation Model Technologies and Applications",
+    "流域地形量化分析Quantitative Analysis of Watershed Geomorphology",
+    "環境規劃與管理Environmental Planning and Management",
+    "地理空間統計Geospatial Statistics",
+    "遙感探測學Remote Sensing"
+  ],
+  "edu": [
+    "國立臺灣師範大學 地理學研究所 博士",
+    "國立臺灣大學 森林環境暨資源學研究所 碩士",
+    "國立台灣大學 森林環境暨資源學系 學士"
+  ],
+  "fcuExp": [
+    "測量教學研究中心 研發組組長",
+    "城鄉發展研究中心 研究員",
+    "建設學院 秘書",
+    "景觀與遊憩碩士學位學程 主任",
+    "都市計畫與空間資訊學系 系主任",
+    "建設學院 秘書",
+    "逢甲大學帆宣智慧城市5G實驗室 研究員",
+    "城鄉發展研究中心 研究員",
+    "都市計畫與空間資訊學系 助理教授",
+    "都市計畫與空間資訊學系 副教授",
+    "都市計畫與空間資訊學系 教授"
+  ],
+  "currjob": [],
+  "otherExp": [
+    "國立臺灣師範大學 地理學研究所 博士後研究",
+    "中央研究院 地理資訊科學研究專題中心 博士後研究",
+    "The University of British Columbia Department of Geography 博士後研究"
+  ],
+  "journal": [
+    {
+      "論文名稱": "Unsupervised machine learning with different sampling strategies and topographic factors for distinguishing between landslide source and runout areas to improve landslide inventory production",
+      "期刊名稱": "Geomatics, Natural Hazards and Risk (Current Impact Factor: 4.5; 5-year Impact Factor: 4.3) (SCIE)",
+      "作者群": "Jhe-Syuan Lai (賴哲儇)；Jun-Yi Huang (黃俊議)；Hong-Mao Huang (黃宏楙)；Yung-Chung Chuang (莊永忠)*"
+    },
+    {
+      "論文名稱": "A model for forest type identification and forest regeneration monitoring based on deep learning and hyperspectral imagery",
+      "期刊名稱": "Ecological Informatics  (Current Impact Factor: 5.1; 5-year Impact Factor: 3.489) (SCIE)",
+      "作者群": "Feng-Cheng Lin(林峰正)；Yi-Shiang Shiu(徐逸祥)；Pei-Jung Wang；Uen-Hao Wang；Jhe-Syuan Lai(賴哲儇)；Yung-Chung Chuang(莊永忠)*"
+    },
+    {
+      "論文名稱": "Interoperability Study of Data Preprocessing for Deep Learning and High-Resolution Aerial Photographs for Forest and Vegetation Type Identification",
+      "期刊名稱": "Remote Sensing (Current Impact Factor: 4.848; 5-year Impact Factor: 5.353) (SCIE)",
+      "作者群": "Feng-Cheng Lin (林峰正), Yung-Chung Chuang (莊永忠)*"
+    },
+    {
+      "論文名稱": "Social Determinants of Diabetes-Related Preventable Hospitalization in Taiwan: A Spatial Analysis",
+      "期刊名稱": "International Journal of Environmental Research and Public Health (Current Impact Factor: 2.849) (SSCI,SCIE)",
+      "作者群": "Chung-Yi Li, Yung-Chung Chuang (莊永忠), Pei-Chun Chen, Michael S. Chen, Miaw-Chwen Lee, Li-Jung Elizabeth Ku, Chiachi Bonnie Lee*"
+    },
+    {
+      "論文名稱": "整合數值航測與空間統計技術於遺址土地利用變遷與文化層破壞相關因子偵測之研究",
+      "期刊名稱": "航測及遙測學刊 (華藝線上圖書館)",
+      "作者群": "莊永忠*、何彥陞"
+    },
+    {
+      "論文名稱": "Yield Estimation of Paddy Rice Based on Satellite Imagery: Comparison of Global and Local Regression Models",
+      "期刊名稱": "Remote Sensing (Current Impact Factor: 3.406; 5-year Impact Factor: 3.952; rank: 8/30 (Q2) in ‘Remote Sensing\") (SCIE)",
+      "作者群": "Yi-Shiang Shiu, Yung-Chung Chuang (莊永忠)*"
+    },
+    {
+      "論文名稱": "Relationship between landslides and mountain development—integrating geospatial statistics and a new long-term database",
+      "期刊名稱": "Science of the Total Environment (Impact Factor: 4.900; Environmental Engineering, Rank 7/158, Q1) (SCIE)",
+      "作者群": "Yung-Chung Chuang (莊永忠), Yi-Shiang Shiu*"
+    },
+    {
+      "論文名稱": "Gap Shape Classification using Landscape Indices and Multivariate Statistics",
+      "期刊名稱": "Scientific Reports  (Impact factor: 5.228; Multidisciplinary Sciences, Rank 7/63, Q1, JIF Percentile 89.683) (SCIE)",
+      "作者群": "Chih-Da Wu, Chi-Chuan Cheng, Che-Chang Chang, Chinsu Lin, Kun-Cheng Chang, Yung-Chung Chuang(莊永忠)*"
+    },
+    {
+      "論文名稱": "應用遙測技術與大氣環流模式探討氣候變遷對台東森林集水區蒸發散之影響",
+      "期刊名稱": "中華林學季刊 (Airiti Library華藝線上圖書館)",
+      "作者群": "鍾綉雯;吳治達*;林士淵;林俊德;莊永忠(Yung-Chung Chuang)"
+    },
+    {
+      "論文名稱": "A comparative analysis of machine learning with WorldView-2 pan-sharpened imagery for tea crops mapping",
+      "期刊名稱": "Sensors (SCIE)",
+      "作者群": "Yung-Chung Matt Chuang(莊永忠) , Yi-Shiang Shiu*"
+    },
+    {
+      "論文名稱": "The assessment of community-based national forest-trail management in Taiwan",
+      "期刊名稱": "PLERUS ()",
+      "作者群": "Yung-Chung Matt Chuang(莊永忠)*"
+    },
+    {
+      "論文名稱": "泥砂率定曲線之偏差修正及集水區沖蝕率推估",
+      "期刊名稱": "台灣水利 (EI)",
+      "作者群": "陳憲宗;莊永忠(Yung-Chung Chuang);謝敏政"
+    },
+    {
+      "論文名稱": "運用生境價值評估工具建構永續農村地景空間配置",
+      "期刊名稱": "都市與計劃 (TSSCI)",
+      "作者群": "李素馨;林敬妤*;吳治達;莊永忠(Yung-Chung Chuang)"
+    },
+    {
+      "論文名稱": "農村生境地圖繪製模式的建構與應用",
+      "期刊名稱": "建築學報 (TSSCI)",
+      "作者群": "林敬妤*;李素馨;吳治達;莊永忠(Yung-Chung Chuang)"
+    },
+    {
+      "論文名稱": "水里溪上游集水區檳榔園熱點空間分析之研究",
+      "期刊名稱": "中華水土保持學報 (EI)",
+      "作者群": "葉春國;莊永忠(Yung-Chung Chuang);廖學誠*"
+    },
+    {
+      "論文名稱": "Land-use Dynamics of Shihmen Reservoir Catchment using Photogrammetry and Markov Model",
+      "期刊名稱": "航測及遙測學刊 (Airiti Library華藝線上圖書館)",
+      "作者群": "吳治達;鄭祈全;莊永忠*(Yung-Chung Chuang);詹進發"
+    },
+    {
+      "論文名稱": "桃園海岸防風林時空變遷之研究",
+      "期刊名稱": "工程環境會刊 (華藝電子期刊)",
+      "作者群": "連美綺;吳治達;莊永忠(Yung-Chung Chuang);廖學誠*"
+    },
+    {
+      "論文名稱": "宜蘭農村地景變遷時空分析　以三星鄉尾塹村、大洲村與大義村為例",
+      "期刊名稱": "地理學報 (TSSCI)",
+      "作者群": " 林敬妤*;吳治達;莊永忠(Yung-Chung Chuang)"
+    },
+    {
+      "論文名稱": "Spatial Variability of Evapotranspiration of Old-growth Cypress Forest in Taiwan using Remote Sensing in Taiwan",
+      "期刊名稱": "Canadian Journal of Forest Research (SCIE)",
+      "作者群": "Chih-Da Wu*, Chi-Chuan Cheng*, Yung-Chung Chuang(莊永忠)"
+    },
+    {
+      "論文名稱": "PPGIS與傳統民眾參與方式在社區議題討論與居民參與程度上之比較研究:以宜蘭縣龜山島社區為例",
+      "期刊名稱": "地理研究 (華藝電子期刊)",
+      "作者群": "莊永忠*(Yung-Chung Chuang);廖學誠"
+    },
+    {
+      "論文名稱": "宜蘭海岸地區永續發展綜合評估與策略規劃之研究",
+      "期刊名稱": "地理研究 ()",
+      "作者群": "廖學誠*;陳宛君;莊永忠(Yung-Chung Chuang)"
+    },
+    {
+      "論文名稱": "多源遙測影像於宜蘭海岸濱線變遷偵測之應用",
+      "期刊名稱": "地理研究 (Airiti Library華藝線上圖書館)",
+      "作者群": "梁平;莊永忠(Yung-Chung Chuang);吳治達;詹進發*;廖泫銘"
+    },
+    {
+      "論文名稱": "反演法於邊坡穩定參數之推導：以蓮華池集水區為例",
+      "期刊名稱": "地理學報 (TSSCI)",
+      "作者群": "莊永忠(Yung-Chung Chuang);廖學誠*;詹進發;黃正良"
+    },
+    {
+      "論文名稱": "民眾參與宜蘭海岸經營管理之研究－以社區林業計畫為例",
+      "期刊名稱": "工程環境會刊 (華藝電子期刊)",
+      "作者群": "廖學誠;陳宛君;莊永忠(Yung-Chung Chuang)"
+    },
+    {
+      "論文名稱": "桃園海岸林分發展與地形變遷之關聯性研究(1978~2004)",
+      "期刊名稱": "臺灣土地研究 (TSSCI)",
+      "作者群": "莊永忠(Yung-Chung Chuang)*;林雪美;沈淑敏;廖學誠"
+    },
+    {
+      "論文名稱": "應用馬可夫模式分析桃園海岸地區土地利用之研究",
+      "期刊名稱": "工程環境會刊 (華藝電子期刊)",
+      "作者群": "連美綺;吳治達;莊永忠(Yung-Chung Chuang);廖學誠*"
+    },
+    {
+      "論文名稱": "莫拉克颱風在楠梓仙溪誘發之洪水與土石流作用及其溢淹範圍的含意",
+      "期刊名稱": "中國地理學會會刊 (華藝電子期刊)",
+      "作者群": "翁毓穗;沈淑敏*;莊永忠(Yung-Chung Chuang)"
+    },
+    {
+      "論文名稱": "不同降雨入滲情境對蓮華池集水區水文模擬之影響",
+      "期刊名稱": "地理學報 (AHCI,TSSCI)",
+      "作者群": " 莊永忠(Yung-Chung Chuang);廖學誠*;吳治達;詹進發;黃正良"
+    },
+    {
+      "論文名稱": "蓮華池集水區水文敏感區動態變化之研究",
+      "期刊名稱": "地理學報 (TSSCI)",
+      "作者群": "莊永忠(Yung-Chung Chuang);廖學誠*;詹進發;黃正良"
+    },
+    {
+      "論文名稱": "不同網格解析度與流向演算法對蓮華池集水區地形指標之影響",
+      "期刊名稱": "地理學報 (TSSCI)",
+      "作者群": "莊永忠(Yung-Chung Chuang);廖學誠*;詹進發;黃正良"
+    },
+    {
+      "論文名稱": "土地利用變遷與氣候變遷對集水區流量模擬影響之研究－以林試所蓮華池試驗林之蛟龍溪集水區為例",
+      "期刊名稱": "臺灣林業科學 (EI)",
+      "作者群": " 鄭祈全*;吳治達;莊永忠(Yung-Chung Chuang)"
+    },
+    {
+      "論文名稱": "數值地形模型網格解析度對自動化河川萃取之影響",
+      "期刊名稱": "中華林學季刊 (Airiti Library華藝線上圖書館)",
+      "作者群": "莊永忠(Yung-Chung Chuang)*;陳永寬;詹進發"
+    },
+    {
+      "論文名稱": "不同流向演算法與集流閥值對數值地型模型河川網路萃取之影響",
+      "期刊名稱": "地理研究 (Airiti Library華藝線上圖書館)",
+      "作者群": "莊永忠(Yung-Chung Chuang)* ;陳永寬;詹進發"
+    }
+  ],
+  "journal2": [],
+  "conference": [
+    {
+      "論文名稱": "Assessment of the waste collection and transportation facilities in Mandalay: A Focus on Aungmyetharzan Township",
+      "會議名稱": "International Conference on Environmental Science and Green Energy 2025 (ICESGE2025)",
+      "作者群": "Khin Zaw Win, Helmut Yabar, Yung-Chung Chuang*"
+    },
+    {
+      "論文名稱": "整合資料探勘光譜分割式波段篩選策略與地形因子精進高光譜影像林型判釋",
+      "會議名稱": "第42屆測量及空間資訊研討會",
+      "作者群": "張育維、孫翊晴、江秉諭、賴哲儇、莊永忠"
+    },
+    {
+      "論文名稱": "探討國土計畫對原住民族土地權利的影響-以信義鄉為例",
+      "會議名稱": "2023中華民國都市計劃學會、區域科學學會、地區發展學會、中華城市管理學會聯合年會暨論文研討會",
+      "作者群": "周家琳*、莊永忠、黃彥豪"
+    },
+    {
+      "論文名稱": "應用馬可夫模型分析台中地區之工廠變遷",
+      "會議名稱": "第十屆都市計畫與空間資訊研討會",
+      "作者群": "張郁琳*、莊永忠、王家萱、徐依如"
+    },
+    {
+      "論文名稱": "捷運通車後之土地利用變遷空間關聯因子初探-以板橋區為例",
+      "會議名稱": "第九屆都市計畫與空間資訊研討會",
+      "作者群": "黃立杰*、莊永忠、賴偉銘"
+    },
+    {
+      "論文名稱": "探討漁電共生發展區位內環境社會因子之空間關聯-以臺南市沿海養殖漁業場域為例",
+      "會議名稱": "第九屆都市計畫與空間資訊研討會",
+      "作者群": "賴偉銘*、莊永忠、黃立杰、張郁琳"
+    },
+    {
+      "論文名稱": "Quantitative evaluation of vegetation restoration in sediment hazards area based on aerial imagery and machine learning methods",
+      "會議名稱": "The 9th International Congress on Natural Sciences and Engineering",
+      "作者群": "Yung-Chung Chuang*"
+    },
+    {
+      "論文名稱": "Cropland Mapping with Multispectral UAV Imagery and Convolutional Neural Networks",
+      "會議名稱": "International Conference on Innovative Computing and Management Science 2019",
+      "作者群": "Yi-Shiang Shiu, Jin-Cheng Liu, Yung-Chung Chuang and Feng-Cheng Lin*"
+    },
+    {
+      "論文名稱": "An Image processing with deep learning and convolutional neural network for assisting forest type and illegal land-use interpretaiton of urban protedtion forests",
+      "會議名稱": "IRSET 2019 - International Research Symposium on Engineering and Technology (IRSET)",
+      "作者群": "Yung-Chung Chuang*"
+    },
+    {
+      "論文名稱": "Assessing the Values and Destruction Degree of Archaeological Sites in Taiwan",
+      "會議名稱": "ICASCE 2019 : International Conference on Advances in Sustainable Civil Engineering",
+      "作者群": "Yung-Chung Chuang(莊永忠)*"
+    },
+    {
+      "論文名稱": "都會區合理林地範圍劃設之探討：以臺北市為例",
+      "會議名稱": "林業試驗所中埔研究中心:第十三屆環境保護林經營管理研討會",
+      "作者群": "莊永忠*、張坤城、黃名媛"
+    },
+    {
+      "論文名稱": "多時期航照圖資於濱線萃取配適度評估之研究",
+      "會議名稱": "第18屆地圖年會暨學術研討會",
+      "作者群": "江嵐純、莊永忠*"
+    },
+    {
+      "論文名稱": "Relationship between landslides and mountain development: examples from the Chanyulan Catchment, Taiwan",
+      "會議名稱": "International Symposium on Remote Sensing 2018",
+      "作者群": "Yung-Chung Chuang, Yi-Shiang Shiu*"
+    },
+    {
+      "論文名稱": "Applying semi-automatic digital aerial survey technology and canopy characters classification for surface vegetation interpretation of archaeological sites",
+      "會議名稱": "ICPRS 2018 : 20th International Conference on Photogrammetry and Remote Sensing",
+      "作者群": "Yung-Chung Chuang*"
+    },
+    {
+      "論文名稱": "運用空間資訊科技於考古遺址長期土地利用與土地覆蓋變遷之研究",
+      "會議名稱": "2017台灣地理資訊學會年會暨學術研討會",
+      "作者群": "何彥陞*、陳建元、莊永忠"
+    },
+    {
+      "論文名稱": "Applying digital aerial survey technology and canopy gap classification for surface vegetation interpretation of archaeological sites",
+      "會議名稱": "AnalytiX-2017",
+      "作者群": "Yung-Chung Chuang*"
+    },
+    {
+      "論文名稱": "Disturbance Hydrology: Exploring Immediate and Long-term Impacts of Abrupt Changes on Hydrological Processes and Earth Systems",
+      "會議名稱": "AGU FALL MEETING 2016",
+      "作者群": "Robert Dan Moore*,, Moritz Mahrlein, Yung-Chung Matt Chuang(莊永忠)"
+    },
+    {
+      "論文名稱": "The true faces between landslides and mountain development- integrating geospatial statistics and geodatabase",
+      "會議名稱": "International Conference on Civil and Environmental Engineering (2016)",
+      "作者群": "Yung-Chung Chuang(莊永忠)*, Yi-Shiang Shiu"
+    },
+    {
+      "論文名稱": "以地景生態量化分析方法來探討埤塘土地變遷-以楊梅地區為例",
+      "會議名稱": "深根城鄉－友善、智慧、永續化(第三屆逢甲大學都市計畫與空間資訊研討會)",
+      "作者群": "陳重安;李尚謙;莊永忠(Yung-Chung Chuang)"
+    },
+    {
+      "論文名稱": "遺址土地容積移轉可行性之研究",
+      "會議名稱": "深根城鄉－友善、智慧、永續化(第三屆逢甲大學都市計畫與空間資訊研討會)",
+      "作者群": "李尚謙*;陳重安;莊永忠(Yung-Chung Chuang)"
+    },
+    {
+      "論文名稱": "數值航測技術與植生孔隙分類於遺址地表植生判釋之成效評估",
+      "會議名稱": "2016海峽兩岸遙感/遙測研討會",
+      "作者群": "莊永忠(Yung-Chung Chuang)*"
+    },
+    {
+      "論文名稱": "The changing history of farm ponds and landscape change in Taoyuan tableland, Taiwan (1904-2007)",
+      "會議名稱": "The 4th International Conference on Asian Network for GIS-based Historical Studies",
+      "作者群": "Yung-Chung Chuang(莊永忠)*"
+    },
+    {
+      "論文名稱": "泥砂率定曲線之偏差修正",
+      "會議名稱": "第22屆水利工程研討會",
+      "作者群": "陳憲宗*;莊永忠(Yung-Chung Chuang);謝敏政"
+    },
+    {
+      "論文名稱": "An Analysis of Long-Term Land-Use Change in Taiwan Mountain Regions with Period Digital Achieve Photographs- Filling The Blank Spatial-Temporal Information with Participatory Mapping Visualization and Multi Agent System",
+      "會議名稱": "International Congress on Natural Sciences and Engineering 2015",
+      "作者群": "Yung-Chung Chuang(莊永忠)*"
+    },
+    {
+      "論文名稱": "Uncertainty estimation of image classification in haze-contaminated area through weights of evidence model",
+      "會議名稱": "The 35th Asian Conference on Remote Sensing",
+      "作者群": "Yi-Shiang Shiu, Meng-Lung Lin, Yu-Chi Kao, Yung-Chung Chuang(莊永忠)*"
+    },
+    {
+      "論文名稱": "Study of Landscape Indices Analysis in Establishment Principles of Taiwan Administrative Zones",
+      "會議名稱": "The 35th Asian Conference on Remote Sensing",
+      "作者群": "Yung-Chung Chuang(莊永忠)*; Re-Yang Lee; Yu-Chi Kao"
+    },
+    {
+      "論文名稱": "Development of a Tourism Risk Assessment Model Based on the Spatial Information Analysis of Tourist Behavior—A Case of the Mapping of Potential Congestion Area in the Pedestrian Scenic Area",
+      "會議名稱": "International Conference on Business and Social Sciences",
+      "作者群": "Yi-Shiang Shiu, Chiung-Hsu Liu, Tzu-How Chu, Meng-Lung Lin, Yung-Chung Chuang(莊永忠)"
+    },
+    {
+      "論文名稱": "利用集水區單元建立土石流發生地點預測模式-以陳有蘭溪集水區為例",
+      "會議名稱": "社團法人中華水土保持學會102年度年會",
+      "作者群": "吳東樽*,莊永忠(Yung-Chung Chuang)"
+    },
+    {
+      "論文名稱": "崩塌潛勢地圖製作-以陳有蘭溪為例",
+      "會議名稱": "第13屆地圖學術研討會",
+      "作者群": "吳東樽;白昆奇;莊永忠(Yung-Chung Chuang)"
+    },
+    {
+      "論文名稱": "模糊德爾菲分析網路程序法於移動式抽水機需求範圍優先決策評估",
+      "會議名稱": "第十一屆土地研究學術研討會",
+      "作者群": "林素伶*;莊永忠(Yung-Chung Chuang);方耀民"
+    },
+    {
+      "論文名稱": "應用Markov和Logit模式分析桃園海岸防風林時空變遷之研究",
+      "會議名稱": "2013森林集水區經營研討會",
+      "作者群": "連美綺;吳治達;莊永忠(Yung-Chung Chuang);廖學誠*"
+    },
+    {
+      "論文名稱": "Detecting Cloud-Contaminated Area in Landsat-5 TM Imagery with Visible Bands and Transmission",
+      "會議名稱": "International Symposium on Remote Sensing 2013",
+      "作者群": "Shiu, Y. S.*, Lei, T. C., Li, C. Y., Chu, T. H., Chuang, Y. C.(莊永忠), and Kuo, Y. M."
+    },
+    {
+      "論文名稱": "Development of an Empirical Model for Rainfall-Induced Landslide Hazard Assessment",
+      "會議名稱": "International Symposium on Remote Sensing 2013",
+      "作者群": "Lei, T. C.*, Lin, K. T., Lee, B. J., Huang, Y. M., Shiu, Y. S., Chuang, Y. C.(莊永忠), and Hsieh, M. H."
+    },
+    {
+      "論文名稱": "Development and landslides: examples from the Shihmen Reservoir Catchment and Chanyulan Catchment, Taiwan",
+      "會議名稱": "International Symposium on Remote Sensing 2013",
+      "作者群": "Chuang, Y. C.(莊永忠)*, Lei, T. C., and Shiu, Y. S."
+    },
+    {
+      "論文名稱": "Assessing impacts of typhoons on landscape changes of forested watershed in Eastern Taiwan.",
+      "會議名稱": "3rd International Conference on Forests and Water in a Changing Environment.",
+      "作者群": "Yeh, CK, YC Chuang(莊永忠), and SC Liaw*"
+    },
+    {
+      "論文名稱": "Distributed model for soil moisture and landslide susceptibility: examples from the Taimali Catchment, Taiwan.",
+      "會議名稱": "ICEO-SI 2012 International Conference on Earth Observations and Societal Impacts.",
+      "作者群": "Chuang, YC(莊永忠)*, SC Liaw, and JC Lin"
+    },
+    {
+      "論文名稱": "Application of Markov-chain model for assessing land-cover changes induced by catastrophic typhoons in eastern Taiwan",
+      "會議名稱": "ICEO-SI 2012 International Conference on Earth Observations and Societal Impacts.",
+      "作者群": "Yeh, CK, YC Chuang(莊永忠), and SC Liaw*"
+    },
+    {
+      "論文名稱": "應用空間分析探討水里溪上游集水區檳榔園熱點之研究",
+      "會議名稱": "2012森林集水區經營研討會",
+      "作者群": "葉春國;莊永忠(Yung-Chung Chuang);廖學誠*"
+    },
+    {
+      "論文名稱": "水里溪上游集水區檳榔園熱點空間分析之研究",
+      "會議名稱": "2012年中國地理學會學術研討會",
+      "作者群": "葉春國;莊永忠(Yung-Chung Chuang);廖學誠*"
+    }
+  ],
+  "book": [
+    {
+      "專業書籍": "淺山生態系服務：治理、永續與前瞻",
+      "出版單位": "五南出版社",
+      "作者群": "王文誠 、方偉達 、李宗祐 、李素馨 、李崇恩 、沈淑敏 、林子羿 、林宗儀 、邱繼成 、洪立三 、張峻嘉 、張舒婷 、曹家鴻 、莊永忠 、許嘉軒 、郭乃文 、陳惠美 、陸國先 、黃浚瑋 、黃仲由 、戴佳容 、闕蓓德 、蘇淑娟 、龔佩珍 、Ben LePage（拉帕契） 、Elok Surya Pratiwi 、Viola van Onselen（安薇娜）"
+    },
+    {
+      "專業書籍": "災害管理與實務(第2版)",
+      "出版單位": "五南出版社",
+      "作者群": "李秉乾, 楊龍士, 陳昶憲, 連惠邦, 葉昭憲, 雷祖強, 馬彥彬, 李瑞陽, 陳柏蒼, 莊永忠, 黃亦敏, 何智超"
+    },
+    {
+      "專業書籍": "臺北市政府工務局大地工程處、106年度本市林地認定調查委託專業服務案-成果報告書",
+      "出版單位": "臺北市政府工務局大地工程處",
+      "作者群": "張坤城*、莊永忠、黃名媛"
+    },
+    {
+      "專業書籍": "遺址類相關法令及配套措施之研擬建議",
+      "出版單位": "文化部文化資產局\t",
+      "作者群": "何彥陞、莊永忠、詹順貴"
+    },
+    {
+      "專業書籍": "遺址土地使用現況及管制規範調查計畫",
+      "出版單位": "文化部文化資產局",
+      "作者群": "何彥陞、莊永忠"
+    },
+    {
+      "專業書籍": "社區參與自然步道經營管理與環境監測之研究(101羅保育字第21號)",
+      "出版單位": "行政院農業委員會林務局羅東林區管理處",
+      "作者群": "莊永忠*、吳東樽、李孟萱、陳玉茹、陳重安"
+    }
+  ],
+  "patent": [],
+  "most": [
+    {
+      "name": "(臺義雙邊研討會)無人機在土地和生物多樣性監測的應用",
+      "schoolYear": "113"
+    },
+    {
+      "name": "(1/3)產學技術聯盟合作計畫-國際淨零技術生態創新聯盟",
+      "schoolYear": "113"
+    },
+    {
+      "name": "基於無人機調查與測繪之大面積森林蓄積量推估研究 -結合空載光達與多光譜影像",
+      "schoolYear": "113"
+    },
+    {
+      "name": "整合時間序列與深度學習法於都市更新可能發生位置之預測",
+      "schoolYear": "113"
+    },
+    {
+      "name": "(臺義雙邊)新型二階段厭氧程序促進廚餘生物氫/甲烷的生產和氨去除效率(2/2)",
+      "schoolYear": "112"
+    },
+    {
+      "name": "基於鄉村區整體規劃原則之農業發展用地變遷分析與鄉村型態分類:結合離散時間空間統計方法與民眾參與式製圖",
+      "schoolYear": "112"
+    },
+    {
+      "name": "整合時間序列分析與深度學習法於都市更新可能發生位置之預測(Ⅱ)-透過都市更新基本單元調整與代理人基模型進行模式優化",
+      "schoolYear": "111"
+    },
+    {
+      "name": "以低衝擊開發技術整治河川與水泥工程河川之自然環境影響比較-以臺中市柳川及麻園頭溪為例",
+      "schoolYear": "110"
+    },
+    {
+      "name": "主被動式遙測資料探勘產製崩塌目錄之成效與精進",
+      "schoolYear": "109"
+    },
+    {
+      "name": "整合時間序列分析與深度學習法於都市更新可能發生位置之預測",
+      "schoolYear": "109"
+    },
+    {
+      "name": "基於遙測影像與機器學習法之土砂災害區植生復育成效定量評估",
+      "schoolYear": "108"
+    },
+    {
+      "name": "應用深度學習法與卷積神經網絡影像處理輔助都市保安林地植群型與違規使用判釋",
+      "schoolYear": "107"
+    },
+    {
+      "name": "(3/3)運用空間資訊科技於考古遺址長期土地利用與土地覆蓋變遷之研究-結合制度經濟學與法律學之分析模式－應用數值航測技術與數位典藏歷史圖資於遺址土地利用變遷與文化層破壞",
+      "schoolYear": "107"
+    },
+    {
+      "name": "(2/3)運用空間資訊科技於考古遺址長期土地利用與土地覆蓋變遷之研究-結合度經濟學與法律學之分析模式－應用數值航測技術與數位典藏歷史圖資於遺址土地用變遷與文化層破壞偵測",
+      "schoolYear": "106"
+    },
+    {
+      "name": "森林砍伐和坡地農作歷史記錄與現今山坡地集水區坡地災害之關聯性分析-整合數位典藏圖資、參與式製圖與多期Logit迴歸模式",
+      "schoolYear": "105"
+    },
+    {
+      "name": "(1/3)運用空間資訊科技於考古遺址長期土地利用與土地覆蓋變遷之研究-結合制度經濟學與法律學之分析模式-應用數值航測技術與數位典藏歷史圖資於遺址土地利用變遷與文化層破壞",
+      "schoolYear": "105"
+    },
+    {
+      "name": "多時期航照圖資於濱線萃取配適度評估之研究",
+      "schoolYear": "104"
+    },
+    {
+      "name": "非物質文化影響範圍與有形疆界之空間關聯及交互作用-以台南市五條港宗教圈與宗族圈為例",
+      "schoolYear": "104"
+    },
+    {
+      "name": "離散時間涉險模型於山坡地聚落穩定性之研究-以蘭陽溪集水區為例",
+      "schoolYear": "103"
+    },
+    {
+      "name": "多時期數值航測影像於地滑敏感區監測之應用-以廬山溫泉北坡為例",
+      "schoolYear": "103"
+    },
+    {
+      "name": "二次大戰後台灣山坡地長期土地利用與生態系統服務功能變遷分析-基於多源多期數位典藏圖資與代理人基模擬",
+      "schoolYear": "102"
+    }
+  ],
+  "tech": [
+    {
+      "論文名稱": "Forest landscape change at the Sihmen reservoir catchment (2002–2007) (2014-11)",
+      "書名": "In T. J. Liu (Eds.), Environmental History in East Asia-Interdisciplinary Perspectives",
+      "作者群": "Wu, C. D* ., S. C. C. Lung., Y. C. Chuang (莊永忠), and J. F. Jan."
+    },
+    {
+      "論文名稱": "18至20世紀初期瑠公圳之變遷及其水利秩序的形成與瓦解 (2009-10)",
+      "書名": "河流與聚落發展",
+      "作者群": "李宗信;顧雅文;莊永忠"
+    },
+    {
+      "論文名稱": "分布型水文-力學連結模式於山地集水區崩塌潛勢動態分析之應用 (2009-08)",
+      "書名": "分布型水文-力學連結模式於山地集水區崩塌潛勢動態分析之應用",
+      "作者群": "莊永忠"
+    },
+    {
+      "論文名稱": "台灣山地集水區河川網路自動化萃取之特性分析與符合度探討 (2004-08)",
+      "書名": "台灣山地集水區河川網路自動化萃取之特性分析與符合度探討",
+      "作者群": "莊永忠"
+    }
+  ],
+  "induAca": [
+    "114年度農地法制研析暨諮詢服務計畫 (2025-02 to 2025-12)",
+    "113年度國家溫室氣體排放清冊土地使用與變遷碳匯計算與國土規劃策略應用計畫委託專業服務案 (2024-10 to 2025-12)",
+    "113年度農地法制研析暨諮詢服務計畫 (2024-03 to 2024-12)",
+    "112年度應用高光譜影像於林型自動化分類系統開發與建置 (2023-03 to 2023-12)",
+    "111年度『鄉村地區整體規劃作業顧問團』委託專業服務案 (2022-12 to 2023-12)",
+    "111年度「農地利用管理法制規劃暨法令諮詢服務計畫」 (2022-03 to 2022-12)",
+    "運用光達點雲及高光譜資料於林型樹種分類與蓄積量推估模式建置 (2021-12 to 2022-12)",
+    "委託設計製作勘災技術轉移之營運規劃 (2021-05 to 2021-08)",
+    "110年度農地利用管理法制規劃暨法令諮詢服務計畫 (2021-02 to 2021-12)",
+    "當前林業發展下我國森林法修正之探討 (2021-02 to 2022-05)",
+    "國定十三行考古遺址暨大坌坑考古遺址保存計畫 (2020-06 to 2021-05)",
+    "委託進行多光譜空拍影像拼接與地理圖資套疊 (2020-05 to 2020-11)",
+    "106年度臺北市林地認定調查委託服務案 (2017-06 to 2017-12)",
+    "都市更新推動之檢討與建議 (2013-04 to 2013-12)",
+    "社區參與自然步道經營管理與環境監測 (2012-05 to 2014-03)"
+  ],
+  "perform": [],
+  "reward": [
+    "中華民國航空測量及遙感探測學會優秀青年獎 (113, 2024-11) - 中華民國航空測量及要遙感探測學會",
+    "第六屆國土空間圖資 GIS 競賽 (112, 2024-06) - 台灣地理資訊學會",
+    "2023中華民國都市計劃學會、中華民國區域科學會會、中華民國地區發展學會、中華城市管理學會聯合年會暨論文研討會評論人感謝狀 (112, 2023-12) - 中華民國區域科學學會",
+    "2023逢甲大學全校國際生大一不分系課程宣講感謝狀 (112, 2023-11) - 逢甲大學",
+    "擔任高中生涯探索課程講師感謝狀 (112, 2023-09) - 華盛頓高級中學",
+    "2023多元獎勵促進活動(教師場次)分享講者感謝狀 (112, 2023-08) - 內政部營建署城鄉發展分署",
+    "國際黑客松日—AI應用於災區(International Hack@thon Day - AI in Disaster Areas)」競賽 (111, 2023-06) - Global Digital MOJO Academy",
+    "逢甲大學論文著作獎勵傑出獎 (111, 2022-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (111, 2022-11) - 逢甲大學",
+    "巨鷗科技智慧城鄉獎學金 (110, 2022-05) - 巨鷗跨界智慧創新集團",
+    "110年航測及遙測學刊論文審查感謝狀 (110, 2021-12) - 中華民國航空測量及遙感探測學會",
+    "主辦第11 屆ASRS國際研討會感謝狀 (110, 2021-12) - 中華民國區域科學學會",
+    "逢甲大學論文著作獎勵優良獎 (110, 2021-11) - 逢甲大學",
+    "2021智慧城市場域課程授課感謝狀 (109, 2021-06) - 逢甲大學",
+    "109年航測及遙測學刊論文審查感謝狀 (109, 2020-11) - 中華民國航空測量及遙感探測學會",
+    "109學年度教學績優獎 (109, 2020-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (109, 2020-11) - 逢甲大學",
+    "2020 國土測繪圖資GIS 專題應用競賽 (109, 2020-11) - 內政部",
+    "109年度科技部補助大專校院研究獎勵 (109, 2020-10) - 逢甲大學",
+    "2020智慧城市場域課程授課感謝狀 (108, 2020-06) - 逢甲大學",
+    "2020教學論壇新鮮人專題課程設計與實施經驗分享感謝狀 (108, 2020-01) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (108, 2019-11) - 逢甲大學",
+    "APFITA2019論壇主持人感謝狀 (108, 2019-10) - 亞太農業資訊科技聯盟",
+    "磨課師課程與SPOC課程教材製作獎勵 (107, 2019-07) - 逢甲大學",
+    "ICASCE2019研討會場次主持人感謝狀 (107, 2019-01) - ICASCE2019",
+    "2018地圖學術研討會主持人感謝狀 (107, 2018-10) - 中華民國地圖學會",
+    "2018逢甲大學全校國際生大一不分系課程宣講感謝狀 (107, 2018-10) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (106, 2017-11) - 逢甲大學",
+    "中華民國航空測量及遙感探測學會暨內政部 2017大專生3S創客競賽 (106, 2017-09) - 中華民國航空測量及遙感探測學會",
+    "International Conference on Civil and Environmental Engineering (2016) (105, 2016-11) - International Society for Engineers and Researchers",
+    "中央研究院短期訪問學人 (103, 2015-07) - 中央研究院",
+    "華南高校第七屆地理科學展示大賽 (103, 2014-11) - 福建師範大學"
+  ],
+  "speech": [
+    {
+      "演講題目": "遙感探測是否為農業和森林監測的靈丹妙藥？ 地表遙感監測的困境與突破",
+      "邀請單位": "中央研究院人社中心地理資訊科學研究專題中",
+      "演講日期": "2024-06"
+    },
+    {
+      "演講題目": "見圖知著:空間資訊於都市計畫與國土計畫之實務案例",
+      "邀請單位": "國立臺灣師範大學地理學系",
+      "演講日期": "2022-12"
+    },
+    {
+      "演講題目": "高光譜影像於山區林型與樹種自動化辨識之研究",
+      "邀請單位": "中國農業大學",
+      "演講日期": "2022-11"
+    },
+    {
+      "演講題目": "空間資訊學者進行跨領域研究所面臨之挑戰",
+      "邀請單位": "龍邑工程顧問股份有限公司",
+      "演講日期": "2022-02"
+    },
+    {
+      "演講題目": "空間資訊技術面對都市計畫領域議題所遭遇之挑戰",
+      "邀請單位": "文化大學土地資源學系",
+      "演講日期": "2021-03"
+    },
+    {
+      "演講題目": "空間資訊技術面對都市計畫領域議題所遭遇之挑戰",
+      "邀請單位": "朝陽科技大學景觀及都市設計系",
+      "演講日期": "2021-02"
+    },
+    {
+      "演講題目": "空間資訊學者進行跨領域研究所面臨之挑戰",
+      "邀請單位": "國立成功大學測量及空間資訊學系",
+      "演講日期": "2020-01"
+    },
+    {
+      "演講題目": "氣候變遷與水資源保育",
+      "邀請單位": "臺中市烏日區溪尾國小",
+      "演講日期": "2019-12"
+    },
+    {
+      "演講題目": "一位空間資訊學者踏入環境規劃領域之心路歷程：幾個實際案例介紹",
+      "邀請單位": "國立臺灣師範大學地理學系",
+      "演講日期": "2018-11"
+    },
+    {
+      "演講題目": "Building a distributed natural disasters library with digital archives",
+      "邀請單位": "國立成功大學測量及空間資訊學系",
+      "演講日期": "2015-10"
+    },
+    {
+      "演講題目": "GIS技術於歷史學研究之應用",
+      "邀請單位": "上海交通大學歷史學研究所",
+      "演講日期": "2015-07"
+    },
+    {
+      "演講題目": "共管？共業？談民眾參與社區型自然步道經營管理",
+      "邀請單位": "國立嘉義大學森林暨自然資源學系",
+      "演講日期": "2015-06"
+    },
+    {
+      "演講題目": "PPGIS與VGIS之內涵與應用",
+      "邀請單位": "福建師範大學地理科學學院",
+      "演講日期": "2014-11"
+    },
+    {
+      "演講題目": "PPGIS於生態旅遊之應用",
+      "邀請單位": "國立嘉義大學森林學系",
+      "演講日期": "2014-04"
+    },
+    {
+      "演講題目": "都市計畫時空縱深之拓展-淺談GIS與數位典藏圖資之加值應用",
+      "邀請單位": "國立交通大學土木學系",
+      "演講日期": "2013-11"
+    },
+    {
+      "演講題目": "都市計畫的時光隧道-GIS與時空資訊之整合",
+      "邀請單位": "哈爾濱工業大學建築學院",
+      "演講日期": "2013-01"
+    },
+    {
+      "演講題目": "空間、人文社會、GIS-地理資訊科學的社會影響",
+      "邀請單位": "國立彰化師範大學公共事務與公民",
+      "演講日期": "2012-12"
+    },
+    {
+      "演講題目": "都市計畫的時光隧道-GIS與時空資訊的整合",
+      "邀請單位": "國立彰化師範大學地理學系",
+      "演講日期": "2012-12"
+    }
+  ],
+  "material": [],
+  "tal": []
+}

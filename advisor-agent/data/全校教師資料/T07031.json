@@ -1,0 +1,545 @@
+{
+  "teacherId": "T07031",
+  "name": "林葳",
+  "mainUnit": "建築專業學院",
+  "detailUnit": "建築專業學院",
+  "skill": [
+    "建築與室內設計Architecture and Interior Design",
+    "室內與建築聲學設計Room acoustics and building acoustics",
+    "永續與建築環境控制系統Sustainable and  Architecture Environmental Control System",
+    "跨域創意整合\rCreative interdisciplinary integration"
+  ],
+  "edu": [
+    "國立台灣科技大學 建築研究所 博士",
+    "朝陽科技大學 建築及都市設計研究所 碩士"
+  ],
+  "fcuExp": [
+    "室內設計進修學士班 主任",
+    "逢甲大學帆宣智慧城市5G實驗室 研究員",
+    "建築專業學院 副教授",
+    "室內設計學士學位學程 召集人",
+    "室內設計學士學位學程 主任"
+  ],
+  "currjob": [],
+  "otherExp": [
+    "華夏科技大學 室設系 主任",
+    "華夏科技大學 室設系 副教授",
+    "華夏科技大學 國際與兩岸交流中心 主任",
+    "華夏科技大學 室設系 助理教授",
+    "國科會  博士後研究人員"
+  ],
+  "journal": [
+    {
+      "論文名稱": "室內環境聲音對感知的影響:舒適度、情緒和功能性之探究",
+      "期刊名稱": "台灣聲學學會學刊 (台灣聲學學會學刊)",
+      "作者群": "林葳、林慶豐"
+    },
+    {
+      "論文名稱": "Room Acoustic Design for Open Plan Interior in Dwelling House",
+      "期刊名稱": "Lecture Notes in Computer Science_ISBN 978-3-031-60897-1 (EI)",
+      "作者群": "Wei Lin, Chun-Pin Huang, Fei-Ran Lu, and Qing-Feng Lin"
+    },
+    {
+      "論文名稱": "曲面木質構造在空間聲場之擴散性能研究",
+      "期刊名稱": "台灣聲學學會學刊 (台灣聲學學會學刊)",
+      "作者群": "劉詠嫻、林葳"
+    },
+    {
+      "論文名稱": "A Discussion on Sound Field Optimization with Utilizing Design Thinking Framework",
+      "期刊名稱": "Lecture Notes in Computer Science_ISBN:0302-9743 (EI)",
+      "作者群": "Wei Lin and Hsuan Lin"
+    },
+    {
+      "論文名稱": "Effect of Street Canyon in Urban Soundscape by the Discussion of Computer Simulation",
+      "期刊名稱": "Lecture Notes in Computer Science, LNCS 13520, volume 12, ISBN 978-3-031-18157-3 (EI)",
+      "作者群": "Hui-Zhong Zhang and Wei Lin"
+    },
+    {
+      "論文名稱": "Evaluation of the Acoustic Environment of Urban Recreational Trails",
+      "期刊名稱": "Sustainability (SSCI,SCIE)",
+      "作者群": "Wei Lin  (第一作者) and Yiming Wu"
+    },
+    {
+      "論文名稱": "Objective Εvaluations based on Urban Soundscape in Waterfront Recreation Spaces",
+      "期刊名稱": "Lecture Notes in Computer Science, LNCS 12773, volume 12, ISBN 978-3-030-77079-2 (EI)",
+      "作者群": "Wei Lin (第一作者), Yi-Ming Wu, Hui-Zhong Zhang, Hsuan Lin"
+    },
+    {
+      "論文名稱": "Concerning the Perspective of Sound Insulation on Approaches of Interior Design",
+      "期刊名稱": "Cross-Culture Design. Application in Health, Learning, Communication and Creativity (EI)",
+      "作者群": "Wei Lin(第一作者) , Hsuan Lin , Zih Yu Huang, and Yun Hsuan Lee"
+    },
+    {
+      "論文名稱": "Objective Approaches on Urban Soundscape Perception in Night Market Pedestrian Street",
+      "期刊名稱": "Lecture Notes in Computer Science_ISBN:978-3-030-22015-0 (EI)",
+      "作者群": "Wei Lin(第一作者),  Yi-Ming Wu,  Hsuan Lin, Kuo-Liang Huang"
+    },
+    {
+      "論文名稱": "Acoustical Evaluation for the Renovation of Multipurpose Performance Hall",
+      "期刊名稱": "Lecture Notes in Computer Science_ISBN:978-3-319-92033-7 (EI)",
+      "作者群": "Wei Lin (第一作者), Hsuan Lin, Kung-Huang Huang, Chung-Tsung Wu"
+    },
+    {
+      "論文名稱": "Acoustical Evaluation of Soundscape in Urban Spaces Along Traffic Corridor",
+      "期刊名稱": "Lecture Notes in Computer Science_ISBN:978-3-319-58530-7 (EI)",
+      "作者群": "Wei Lin(第一作者), Wei-Hwa Chiang, Hsuan Lin, and Yi-Run Chen"
+    },
+    {
+      "論文名稱": "A Study on Re-usage of Historical Building - from the Aspect of Room Acoustic for Live House",
+      "期刊名稱": "Lecture Notes in Computer Science_ISBN:978-3-319-39948-6 (EI)",
+      "作者群": "Wei Lin (第一作者), Hsuan Lin, Kung-Huang Huang, and Tin-Hang Lin"
+    },
+    {
+      "論文名稱": " Acoustical Design Study on Application of Absorption Materials",
+      "期刊名稱": "Applied Mechanics and Materials_ISBN: 978-3-03835-372-0 (ECONLIT)",
+      "作者群": "Wei Lin (第一作者), Wei-Hwa Chiang"
+    },
+    {
+      "論文名稱": "Improving Speech Intelligibility in Classrooms by Decreasing Sound Energy of Low Frequency",
+      "期刊名稱": "Lecture Notes in Computer Science_ISBN:978-3-319-20680-6 (EI)",
+      "作者群": "Wei Lin (第一作者), Hsuan Lin, Kung-Huang Huang"
+    },
+    {
+      "論文名稱": "The Investigation of Acoustical Environments in Elderly Mental Hospital",
+      "期刊名稱": "Communications in Computer and Information Science_ ISBN: 978-3-319-07853-3 (EI)",
+      "作者群": "Wei Lin (第一作者), Hsuan Lin"
+    },
+    {
+      "論文名稱": "Variable Acoustics Design of a Small Proscenium Concert Hall",
+      "期刊名稱": "Journal of Asian Architecture and Building Engineering (SCIE,TSSCI)",
+      "作者群": "Wei-Hwa Chiang, Wei Lin (通訊作者), Yi-Run Chen, Huang-Yao Hu"
+    },
+    {
+      "論文名稱": "Optimizating the Seats Surrounding the Platform In a Recital Hall When Considering Surrounding Source Directivity",
+      "期刊名稱": "Applied Acoustics (SCIE)",
+      "作者群": "W., Chiang., W., Lin (通訊作者), Yu., Lin"
+    },
+    {
+      "論文名稱": "傳統京劇自然聲演出之主觀評價初探",
+      "期刊名稱": "中華民國音響學刊 (TSSCI)",
+      "作者群": "林葳 (第一作者), 余亞蓁, 江維華"
+    },
+    {
+      "論文名稱": "台灣地區華語之聲場語音清晰度評價測定法研究",
+      "期刊名稱": "中華民國建築學報 (AHCI,TSSCI)",
+      "作者群": "陳炯堯, 陳麗雪, 林葳"
+    }
+  ],
+  "journal2": [],
+  "conference": [
+    {
+      "論文名稱": "不同指向性揚聲器在中小型房間中的空間印象與聲場特性分析",
+      "會議名稱": "台灣聲學學會第37屆學術研討會",
+      "作者群": "林葳、陳方毓"
+    },
+    {
+      "論文名稱": "高架站體連通特性之聲環境研究",
+      "會議名稱": "台灣聲學學會第37屆學術研討會",
+      "作者群": "林葳、路斐然、施梅紛"
+    },
+    {
+      "論文名稱": "住宅空間使用耳機與揚聲器播放之差異化研究初探",
+      "會議名稱": "2024第二十二屆營產業永續發展研討會",
+      "作者群": "李冠靚、林 葳"
+    },
+    {
+      "論文名稱": "座位型態對於開放式辦公室聲學規劃之初探",
+      "會議名稱": "2024第二十二屆營產業永續發展研討會",
+      "作者群": "王鉑彰 、林 葳"
+    },
+    {
+      "論文名稱": "歷史園區之聲景環境研究 -以台中霧峰林家古厝街區為例",
+      "會議名稱": "2024第二十二屆營產業永續發展研討會",
+      "作者群": "賴宜明、林葳"
+    },
+    {
+      "論文名稱": "住宅空間室內聲場客觀物理評估",
+      "會議名稱": "2024 第 二 十 二 屆 營 產 業 永 續 發 展 研 討 會",
+      "作者群": "路斐然、林 葳"
+    },
+    {
+      "論文名稱": "以衍生參數工具驗證室內聲學清晰度之性能研究",
+      "會議名稱": "台灣聲學學會第36屆學術研討會",
+      "作者群": "林博揚、林葳"
+    },
+    {
+      "論文名稱": "探索室內環境聲音對感知的影響:舒適度、情緒和功能性之探究",
+      "會議名稱": "台灣聲學學會第36屆學術研討會",
+      "作者群": "林葳、林慶豐"
+    },
+    {
+      "論文名稱": "高架捷運站聲場特性之調查研究-以台中捷運為例",
+      "會議名稱": "台灣聲學學會第36屆學術研討會",
+      "作者群": "林葳、路斐然、施梅紛"
+    },
+    {
+      "論文名稱": "曲面木質構造在空間聲場之擴散性能研究",
+      "會議名稱": "台灣聲學學會第35屆學術研討會",
+      "作者群": "劉詠嫻、林葳"
+    },
+    {
+      "論文名稱": "教育設施的自然聲場設計研究_ 以逢甲大學共善樓空間為例",
+      "會議名稱": "台灣聲學學會第35屆學術研討會",
+      "作者群": "林博揚、林 葳"
+    },
+    {
+      "論文名稱": "聲場耦合效應對於公共空間語音清晰度之研究",
+      "會議名稱": "台灣聲學學會第35屆學術研討會",
+      "作者群": "陳貞伶、林葳"
+    },
+    {
+      "論文名稱": "交通聲源影響都市聲街谷之探討",
+      "會議名稱": "台灣聲學學會第35屆學術研討會",
+      "作者群": "張慧中、林葳"
+    },
+    {
+      "論文名稱": "Research on Sound Field Evaluation of Urban Walking Street through Sound Environment Perception",
+      "會議名稱": "ICCBM 2022",
+      "作者群": "Wei Lin, Yi-Ming Wu"
+    },
+    {
+      "論文名稱": "都市聲景與聲街谷之研究---以士林夜市街區為例",
+      "會議名稱": "台灣聲學學會 110 年會員大會暨第 34 屆學術研討會",
+      "作者群": "張慧中、林葳"
+    },
+    {
+      "論文名稱": "EFFECTS OF URBAN SOUNDSCAPE ON THE ENVIRON-MENTAL CHARACTERISTICS IN NIGHT MARKET PEDES-TRIAN STREETS",
+      "會議名稱": "ICSV27",
+      "作者群": "Wei Lin, Yi-Ming Wu, Hsuan Lin"
+    },
+    {
+      "論文名稱": "Objective Evaluation on Room Acoustics of Learning Environments",
+      "會議名稱": "TSIEQ2021",
+      "作者群": "Hui-Zhong Zhang, Wei Lin, Ling-Ting Yen"
+    },
+    {
+      "論文名稱": "熱溼氣候區教育機構建築健康性探討",
+      "會議名稱": "2020中華民國營建工程學會第十八屆營建產業永續發展研討會",
+      "作者群": "林葳、顏翎庭、林衍良"
+    },
+    {
+      "論文名稱": "Analysis of drivers' horn use factors at intersections in an urban area of Taiwan",
+      "會議名稱": "INTER-NOISE 20",
+      "作者群": "Takada Masayuki, Hashimoto Kazuma, Inada Tamaki, Kim Ki-Hong, Oeda Yoshinao,  Lin Yu Chang, Lin Wei, Huang, Fang-YI,"
+    },
+    {
+      "論文名稱": "A Preliminary Study on the Game Design of Pokémon GO and Its Effect on Parent-Child Interaction",
+      "會議名稱": "HCII 2020",
+      "作者群": "Hsuan Lin, Kuo-Liang Huang, and Wei Lin"
+    },
+    {
+      "論文名稱": "聲場感知探討聚落涵構之自明性-以虎尾建國一村為例",
+      "會議名稱": "台灣建築學會第32屆研究暨設計成果發表會",
+      "作者群": "林葳, 施涵庭"
+    },
+    {
+      "論文名稱": "On the Characteristics and Objective Evaluation of the Soundscape in Urban Commercial Pedestrian Space",
+      "會議名稱": "16th KYOTO International Conference on Urban Planning, Ecology, Architecture and Transportation Engineering",
+      "作者群": "Wei Lin, Yi-Ming Wu*,  and Hui-Zhong Zhang"
+    },
+    {
+      "論文名稱": "聲場自明性探討虎尾建國一村歷史涵構",
+      "會議名稱": "台灣聲學學會 108 年會員大會暨第 32 屆學術研討會",
+      "作者群": "林葳、施涵庭"
+    },
+    {
+      "論文名稱": "Study on Baby Toy Design—From the Perspective of Audio-Visual Human Factors",
+      "會議名稱": "HCII 2019",
+      "作者群": "Kuo-Liang Huang, Wei Lin, Chia-Chen Lu, and Yong-Sheng"
+    },
+    {
+      "論文名稱": "聲景感知對於都市商業步行空間之聲場客觀評價研究 (優秀論文發表)",
+      "會議名稱": "臺灣建築學會第31屆第1次 建築研究成果發表會",
+      "作者群": "林葳，吳益鳴"
+    },
+    {
+      "論文名稱": "Investigation of Preference on Soundscape in Urban Pedestrian Street alone Rapid Traffic Line",
+      "會議名稱": "2018 Conference on Innovative Low-Carbon and Green Buildings in Subtropical Area",
+      "作者群": "Wei Lin"
+    },
+    {
+      "論文名稱": "長形耦合空間語音清晰度之聲場評估研究",
+      "會議名稱": "台灣聲學學會 107年會員大會暨第 31 屆學術研討會",
+      "作者群": "林葳"
+    },
+    {
+      "論文名稱": "Evaluation on speech intelligibility in long and coupling enclosures",
+      "會議名稱": "ICSV 25",
+      "作者群": "Wei Lin, Kung-Huang Huang"
+    },
+    {
+      "論文名稱": "Noise Impact Assessment Study on High-performance of Sound Insolation for Residential Building at Neighboring Taiwan High Speed Rail Station",
+      "會議名稱": "WSBEC 2017",
+      "作者群": "Wei Lin, Wei-Hwa Chiang, Dan Huang"
+    },
+    {
+      "論文名稱": "Acoustic Preference Evaluation in Urban Rapid Transit Corrdior - Case Study On the Station From Yuanshan To Shunglian Of Taipei Metro Rapid Train",
+      "會議名稱": "ICSV 23",
+      "作者群": "Wei Lin, Wei-Hwa Chiang, Hsiung Lin"
+    },
+    {
+      "論文名稱": "歷史空間再利用＿以音樂展演空間之室內聲學規劃開始",
+      "會議名稱": "台灣聲學學會第二十八屆學術研討會",
+      "作者群": "林葳，林廷翰，林嘉駿，張維華，林明賢"
+    },
+    {
+      "論文名稱": "音景理論探討都市捷運廊道之空間經驗-以台北捷運圓山站至雙連站帶狀空間為例",
+      "會議名稱": "台灣聲學學會第二十八屆學術研討會",
+      "作者群": "林葳，蔡長恩， 余凱恩，賴俊凱"
+    },
+    {
+      "論文名稱": "改善低頻對於教室空間語音清晰度之影響",
+      "會議名稱": "台灣聲學學會第二十七屆學術研討會",
+      "作者群": "林葳，黃崑煌"
+    },
+    {
+      "論文名稱": "Acoustical Design Study on Application of Absorption Materials in Worship Auditorium",
+      "會議名稱": "3rd International Conference on Advanced Materials Design and Mechanics (ICAMDM2014)",
+      "作者群": "Wei Lin, Wei-Hwa Chiang"
+    },
+    {
+      "論文名稱": "Acoustical Design of Taipei Top Church Auditorium",
+      "會議名稱": "6th INTERNATIONAL SYMPOSIUM ON TEMPORAL DESIGN",
+      "作者群": "Wei Lin, Wei-Hwa Chiang and Hei-Pin Wu"
+    },
+    {
+      "論文名稱": "銀髮族精神醫療空間聲環境調查",
+      "會議名稱": "中華民國音響學會第二十五屆學術研討會論文集",
+      "作者群": "林葳"
+    },
+    {
+      "論文名稱": "Multi-dimensional Analyses of Large Vineyard Halls",
+      "會議名稱": "INTER NOISE 2012",
+      "作者群": "Wei-Hwa Chiang, Wei Lin, Hui-Ping Wu, Bing-JieChiu"
+    },
+    {
+      "論文名稱": "Acoustics of Vineyard Concert Hall Concerning the Audience and the Performers",
+      "會議名稱": "The acoustics 2012 Hong Kong Conference and Exhibition",
+      "作者群": "28.\tWei-Hwa Chiang , Yi-Run Chen , I-Te Yeh , Chia-Chun Chen , Yen-Kun Hsu, Wei Lin,"
+    }
+  ],
+  "book": [],
+  "patent": [],
+  "most": [
+    {
+      "name": "調變合院式戲曲聲場之耦合聲環境研究",
+      "schoolYear": "113"
+    },
+    {
+      "name": "神祇空間耦合聲場之多目的使用模式研究",
+      "schoolYear": "113"
+    },
+    {
+      "name": "基於結構方程模型(SEM)建構歷史園區聲景因子特徵之研究",
+      "schoolYear": "112"
+    },
+    {
+      "name": "合院式傳統戲台之聲環境研究－以台中霧峰林家大花廳為例",
+      "schoolYear": "111"
+    },
+    {
+      "name": "因聲制宜-大學校園開放商業步行之聲景地圖研究-以逢甲大學國際夜市商圈為例",
+      "schoolYear": "111"
+    },
+    {
+      "name": "聲景感知對於都市步行街道聲場客觀評價一致性之研究",
+      "schoolYear": "108"
+    },
+    {
+      "name": "邀請國際科技人士短期訪問(Delft University of Technology Philomena Margaretha Bluyssen教授)",
+      "schoolYear": "107"
+    },
+    {
+      "name": "增幅低頻聲能對於大型多功能耦合廳堂之聲場性能驗證研究",
+      "schoolYear": "107"
+    }
+  ],
+  "tech": [
+    {
+      "論文名稱": "靜謐演場 (2021-05)",
+      "書名": "CAID學術專刊",
+      "作者群": "林葳"
+    },
+    {
+      "論文名稱": "淺談歐洲現代劇場設施概況_以荷蘭劇院為例 (2018-11)",
+      "書名": "台灣建築學會會刊",
+      "作者群": "林葳"
+    },
+    {
+      "論文名稱": "雪梨歌劇院設施與能源管理之永續性 (2018-11)",
+      "書名": "台灣物業管理學會電子報",
+      "作者群": "林葳"
+    },
+    {
+      "論文名稱": "與台中國家歌劇院之美聲邂逅 (2017-03)",
+      "書名": "建築師雜誌",
+      "作者群": "江維華，林葳"
+    },
+    {
+      "論文名稱": "集會廳堂的室內聲學設計 (2013-07)",
+      "書名": "台灣室內設計",
+      "作者群": "林葳，江維華"
+    },
+    {
+      "論文名稱": "具環繞型座席之室內樂廳最佳化設計－以聲源指向性為考量 (2008-03)",
+      "書名": "博士論文",
+      "作者群": "林葳"
+    },
+    {
+      "論文名稱": "台灣地區華語之聲場語音清晰度評價測定法研究 (2002-03)",
+      "書名": "碩士論文",
+      "作者群": "林葳"
+    }
+  ],
+  "induAca": [
+    "TSMC開放式辦公空間聲學量測計畫顧問 (2025-02 to 2025-03)",
+    "台中航空站會議空間室裝工程聲學量測顧問案 (2024-05 to 2024-06)",
+    "東海大學路思義教堂修復空調完工第三公正量測顧問服務計畫 (2024-05 to 2024-06)",
+    "豐河岸住宅室內環境診斷諮詢顧問專案計畫 (2024-04 to 2024-05)",
+    "ASML台北林口新園區室內設計暨工程監造聲學顧問案 (2024-04 to 2027-01)",
+    "臺北流行音樂中心南基地Live House噪音控制裝修統包工程量測計畫 (2023-07 to 2023-08)",
+    "慈濟臺中東大靜思堂講堂音效品質量測諮詢顧問專案計畫 (2023-03 to 2023-03)",
+    "潭子許公館環境診斷諮詢顧問專案計畫 (2023-02 to 2023-06)",
+    "馬禮遜美國學校台中分校新建工程表演廳堂室內聲學計畫 (2023-01 to 2023-12)",
+    "台中捷運車站地景音樂藝文化聲音訊號採集計畫 (2022-12 to 2023-09)",
+    "初倉設計辦公室環境診斷諮詢顧問專案計畫 (2022-11 to 2023-01)",
+    "安順東十街(吳宅)住宅室內環境診斷諮詢顧問專案計畫 (2022-05 to 2023-01)",
+    "享得道酒店興建工程室內裝修專案管理顧問委託服務案 (2022-04 to 2022-12)",
+    "水岸岩住宅室內環境診斷諮詢顧問專案計畫 (2022-02 to 2022-05)",
+    "臺灣高等法院及臺灣臺北地方法院遷建華山司法園區新建工程聲學計畫 (2022-01 to 2022-12)",
+    "iSense 健康護照:人本健康的室內環境診斷服務模式 (2021-12 to 2022-11)",
+    "臺中市巨蛋體育館興建工程專案管理聲學顧問委託服務案 (2021-08 to 2027-04)",
+    "城市舞台暨藝文大樓及廣場周邊環境整修統包工程聲學顧問委託服務案 (2021-03 to 2023-02)",
+    "樂維室內裝修材料創新應用服務計畫 (2020-12 to 2020-12)",
+    "國立高雄科大建工校區藝文中心2F廳堂聲學顧問委託服務 (2020-12 to 2021-05)",
+    "下一代智慧營建人才培育與產業創新應用計畫 (2020-08 to 2021-07)",
+    "金湯營區30機砲射擊練習場顧問服務計畫 (2019-07 to 2019-08)",
+    "臺中市中山堂設備更新及館舍維修工程委託規劃設計監造案聲學顧問 (2019-06 to 2020-08)",
+    "國立陽明大學衛生福利研究所教室改善工程聲場驗收計畫 (2019-05 to 2019-05)",
+    "國立雲林科技大學大禮堂整修工程委託規劃設計及監造技術服務聲學顧問 (2019-04 to 2021-05)",
+    "國立陽明大學教室間使用噪音干擾現況評估計畫 (2019-01 to 2019-02)",
+    "(諮詢顧問)臺北藝術中心接續工程(第二標)建築聲學環境顧問暨竣工自主量測專案 (2018-10 to 2020-10)",
+    "台中市立安和國中磐石廳室內聲場量測暨評估計畫 (2018-09 to 2018-11)"
+  ],
+  "perform": [],
+  "reward": [
+    "逢甲大學論文著作獎勵優等獎 (113, 2024-11) - 逢甲大學",
+    "第37屆台灣聲學學會研究成果發表研討會優秀論文發表獎 (113, 2024-11) - 台灣聲學學會",
+    "第22屆營建產業永續發展研討會入圍 (113, 2024-09) - 中華民國營建工程學會",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優等獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學授課意見大學部一般課程前10% (111-2學年度) (112, 2023-10) - 逢甲大學",
+    "SDGs校園空間再造交流競賽第一名 (111, 2022-12) - 中國科技大學",
+    "逢甲大學論文著作獎勵優良獎 (111, 2022-11) - 逢甲大學",
+    "第35屆台灣聲學學會研究成果發表研討會優秀論文發表獎 (111, 2022-11) - 台灣聲學學會",
+    "逢甲大學論文著作獎勵優良獎 (110, 2021-11) - 逢甲大學",
+    "第34屆台灣聲學學會研究成果發表研討會優秀論文發表獎 (110, 2021-11) - 台灣聲學學會",
+    "逢甲大學論文著作獎勵優良獎 (109, 2020-11) - 逢甲大學",
+    "第31屆第1次建築研究成果發表研討會優秀論文發表獎 (107, 2019-06) - 台灣建築學會",
+    "「水- 逆行 / 職人所空間 」競圖佳作 (107, 2018-12) - 台南市政府"
+  ],
+  "speech": [
+    {
+      "演講題目": "逢甲大學健康建築技術的能量",
+      "邀請單位": "台中市建築文化教育基金會",
+      "演講日期": "2024-12"
+    },
+    {
+      "演講題目": "低碳永續觀點下之室內環境感知",
+      "邀請單位": "中華民國營建工程學會",
+      "演講日期": "2024-09"
+    },
+    {
+      "演講題目": "德島木育下的指物精神",
+      "邀請單位": "逢甲大學建築專業學院",
+      "演講日期": "2024-09"
+    },
+    {
+      "演講題目": "與聲同行。永續觀點下聲環境設計規劃",
+      "邀請單位": "明星電控科技講座",
+      "演講日期": "2024-08"
+    },
+    {
+      "演講題目": "聲景-以聽感出發之空間文本演繹",
+      "邀請單位": "逢甲大學",
+      "演講日期": "2022-11"
+    },
+    {
+      "演講題目": "感知密碼。有感體驗",
+      "邀請單位": "中原大學",
+      "演講日期": "2022-05"
+    },
+    {
+      "演講題目": "一種敘事性空間文本的聽感演繹",
+      "邀請單位": "中原大學",
+      "演講日期": "2022-05"
+    },
+    {
+      "演講題目": "Power of sound_線上講座",
+      "邀請單位": "台灣建築中心",
+      "演講日期": "2021-11"
+    },
+    {
+      "演講題目": "#疫後@室內設計的恆與變",
+      "邀請單位": "CIDA中區分會(線上)",
+      "演講日期": "2021-08"
+    },
+    {
+      "演講題目": "室內環境規劃",
+      "邀請單位": "內政部營建署建築物室內裝修裝業技術人員回",
+      "演講日期": "2019-12"
+    },
+    {
+      "演講題目": "都市商業步行空間之聲場客觀評價研究",
+      "邀請單位": "振動噪音產學技術聯盟",
+      "演講日期": "2019-09"
+    },
+    {
+      "演講題目": "沿著時。走向境",
+      "邀請單位": "時境建築",
+      "演講日期": "2019-08"
+    },
+    {
+      "演講題目": "淺談室內聲場到聲景環境的靜謐性",
+      "邀請單位": "普渼登實業股份有限公司",
+      "演講日期": "2019-08"
+    },
+    {
+      "演講題目": "靜謐聲響",
+      "邀請單位": "中華民國室內裝修專業技術人員學會",
+      "演講日期": "2018-11"
+    },
+    {
+      "演講題目": "淺談體驗經濟下的設計力",
+      "邀請單位": "范特喜微創文化",
+      "演講日期": "2018-11"
+    },
+    {
+      "演講題目": "理性與感性交會的空間聲學",
+      "邀請單位": "台北建材中心",
+      "演講日期": "2018-11"
+    },
+    {
+      "演講題目": "Sound aesthetics ~",
+      "邀請單位": "逢甲大建建築專業學院",
+      "演講日期": "2018-10"
+    },
+    {
+      "演講題目": "多功能表演廳堂之室內聲場評估",
+      "邀請單位": "振動噪音產學技術聯盟",
+      "演講日期": "2018-09"
+    },
+    {
+      "演講題目": "The awesome design !!",
+      "邀請單位": "逢甲大建建築專業學院",
+      "演講日期": "2018-09"
+    },
+    {
+      "演講題目": "Sound  ?  !",
+      "邀請單位": "中原大學",
+      "演講日期": "2018-04"
+    }
+  ],
+  "material": [],
+  "tal": []
+}

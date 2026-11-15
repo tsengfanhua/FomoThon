@@ -1,0 +1,986 @@
+{
+  "success": true,
+  "info": {
+    "yms_year": 114.0,
+    "yms_smester": 2.0,
+    "sub_id": "36438",
+    "cls_id": "CE13131",
+    "scr_dup": "001",
+    "sub_id3": "AERO3059",
+    "cls_name": "航太三甲",
+    "cls_ename": "Department of Aerospace and Systems Engineering",
+    "sub_name": "航太工程實驗",
+    "sub_ename": "AEROSPACE ENGINEERING LAB",
+    "scr_mso": "必修",
+    "scr_mso_en": "Required",
+    "scr_credit": 1.0,
+    "scr_periodly": "(一)02-04",
+    "scr_periodly_eng": "(Mon)02-04",
+    "lang_name": "中文                                                      ",
+    "lang_ename": "Chinese",
+    "scr_room": "科航206",
+    "scr_room_eng": "SAB206",
+    "scr_teacher": "張淵仁",
+    "scr_teacher_eng": "Yuan-Jen Chang",
+    "scr_selcode": "1735",
+    "scr_elearning": "全學期",
+    "scr_elearning_en": "Full semester",
+    "scr_hours": "3",
+    "scr_english": "N",
+    "unt_name": null,
+    "unt_ename": null,
+    "link_traminal": null,
+    "link_traminal_en": null,
+    "scr_ldl": "D",
+    "course_mk": "N",
+    "teams_mk": "N",
+    "sub_title": null,
+    "sub_title_en": null,
+    "sub_describe": null,
+    "sub_describe_en": null,
+    "hasDescription": null,
+    "hasInstructor": null,
+    "hasTA": null,
+    "hasTextBooks": null,
+    "hasReadings": null,
+    "hasiSoftwares": null,
+    "hasAssistSoftwares": null,
+    "hasObjective": null,
+    "hasWeeklyScds": null,
+    "hasGradeRules": null,
+    "hasGradeRuleDescribe": null,
+    "hasIntegrity": null,
+    "hasCoursePol": null,
+    "hasCourseRem": null,
+    "hasObjectiveReleation": null,
+    "hasTopicSdgs": null,
+    "hasTopicAiIndicators": null,
+    "hasSubTitleDesc": null
+  },
+  "subTitleDesc": null,
+  "description": {
+    "sub_id3": null,
+    "sub_name": "航太工程實驗",
+    "sub_ename": "AEROSPACE ENGINEERING LAB",
+    "describe_ch": "本課程介紹針對航太飛行器所使用之結構材料，以其部分材料進行測試、檢測及修補。包括拉伸試驗、衝擊試驗、疲勞試驗、應變規量測、結構試驗、光彈試驗、非破壞檢測、以及複材修補。",
+    "describe_eh": "This course provides an introduction to the experiments of structure materials measurement and repaired. The experiment tests include tensile test, impact test, fatigue test, strain-gage measurement, structure deflection test, photoelasticity test, non-destructive test, and composite repair experiment.",
+    "pre_subname": "ENGS2001材料力學(一)、ENGS2002材料力學(二)、AERO1002航太工程概論",
+    "pre_sub_id3": "ENGS2001",
+    "pre_sub_ename": "ENGS2001 MECHANICS OF MATERIALS(1)、ENGS2002 MECHANICS OF MATERIALS(2)、AERO1002 INTRODUCTION  TO  AEROSPACE  ENGINEERING",
+    "pre_describe": null,
+    "pre_describe_en": null,
+    "scr_credit": 1.0
+  },
+  "targets": [
+    {
+      "seq": 1,
+      "describe_ch": "使學生瞭解材料力學重要之基本概念與理論",
+      "describe_en": "To acquire an understanding of the basic concepts and theory of material mechanics"
+    },
+    {
+      "seq": 2,
+      "describe_ch": "培養學生具備操作材料試驗機等檢測儀器，並且分析實驗結果之能力",
+      "describe_en": "To gain the ability to operate mechanical test equipment and experimental methods as well as analyze mechanical problems"
+    },
+    {
+      "seq": 3,
+      "describe_ch": "訓練學生各種量測原理及量測儀器的使用能力，以及培養實驗規劃與設計基本能力與材料力學問題之應用",
+      "describe_en": "To develop the ability of fundamental in mechanical measurement and the application of instruments for experimenting as well as the ability of experimental planning/designing and application to solution of mechanical problems"
+    },
+    {
+      "seq": 4,
+      "describe_ch": "培養團隊合作",
+      "describe_en": "Team work"
+    }
+  ],
+  "teachersInfo": [
+    {
+      "cname": "張淵仁",
+      "ename": "Yuan-Jen Chang",
+      "period": "(Mon)06-07 科航414,(Wed)06-07 科航414",
+      "roletype": 0,
+      "email": "yjenchang@o365.fcu.edu.tw",
+      "ext": "3959"
+    },
+    {
+      "cname": "張益博",
+      "ename": "CHANG, YI-BO",
+      "period": " ",
+      "roletype": 1,
+      "email": "d1272699@o365.fcu.edu.tw",
+      "ext": " "
+    },
+    {
+      "cname": "于閔華",
+      "ename": "Yu-Min-Hua",
+      "period": " ",
+      "roletype": 1,
+      "email": "m1405352@o365.fcu.edu.tw",
+      "ext": " "
+    },
+    {
+      "cname": "鄭愷賢",
+      "ename": "CHENG,KAI-HSIEN",
+      "period": " ",
+      "roletype": 1,
+      "email": "m1417096@o365.fcu.edu.tw",
+      "ext": " "
+    },
+    {
+      "cname": "林佳葭",
+      "ename": "LIN,JIA-JIA",
+      "period": " ",
+      "roletype": 1,
+      "email": "m1432010@o365.fcu.edu.tw",
+      "ext": " "
+    }
+  ],
+  "textBooks": {
+    "yms_year": 114.0,
+    "yms_smester": 2.0,
+    "cls_id": "CE13131",
+    "sub_id": "36438",
+    "scr_dup": "001",
+    "tpb_seq": 1,
+    "tpb_book": "<div>本實驗課程皆為自編教材，搭配系上的實驗設備!</div>\n\n<div>&nbsp;</div>\n",
+    "tpb_book_en": null
+  },
+  "readings": {
+    "yms_year": 114.0,
+    "yms_smester": 2.0,
+    "cls_id": "CE13131",
+    "sub_id": "36438",
+    "scr_dup": "001",
+    "tpc_seq": 1,
+    "tpc_book": "<div>本實驗課程皆為自編教材，搭配系上的實驗設備!</div>\n\n<div>相關教材起贈行參閱網路。</div>\n",
+    "tpc_book_en": null
+  },
+  "iSoftwares": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CE13131",
+      "sub_id": "36438",
+      "scr_dup": "001",
+      "seq_no": 1,
+      "soft_kind": "2",
+      "soft_name": "Excel試算表",
+      "soft_memo": "<div>使用Excel進行相關實驗結果計算。</div>\n",
+      "soft_name_en": null,
+      "soft_memo_en": null
+    }
+  ],
+  "assistSoftwares": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CE13131",
+      "sub_id": "36438",
+      "scr_dup": "001",
+      "seq_no": 2,
+      "soft_kind": "3",
+      "soft_name": "本課程實驗設備",
+      "soft_memo": "<div>本課程實驗設備</div>\n",
+      "soft_name_en": null,
+      "soft_memo_en": null
+    }
+  ],
+  "weeklyScds": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CE13131",
+      "sub_id": "36438",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "1-2",
+      "tpd_reading": "<div>上課規定講解與分組（全班到課）</div>\n\n<div>&nbsp;</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": "<div>1. 課堂講課</div>\n\n<div>2. 分組活動</div>\n",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CE13131",
+      "sub_id": "36438",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "3",
+      "tpd_reading": "<div>實驗理論講解（全班到課）</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": "<div>1. 課堂講課</div>\n",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CE13131",
+      "sub_id": "36438",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "4-8",
+      "tpd_reading": "<div>分組實驗(請依照課程配當表分組進行實驗)</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": "<div>梁藝瀚：拉伸實驗、渦電流檢測，廖奕鑫：非破壞檢測、應變規<br />\n卓家合：疲勞實驗、衝擊實驗，顏楷倫：磨耗實驗、複材修補</div>\n",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CE13131",
+      "sub_id": "36438",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "9",
+      "tpd_reading": "<div>期中考(請9:10到教室考試)</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": "<div>1. 課堂考試</div>\n",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CE13131",
+      "sub_id": "36438",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "10",
+      "tpd_reading": "<div>實驗理論講解（全班到課）</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": "<div>1. 課堂講課</div>\n",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CE13131",
+      "sub_id": "36438",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "11-15",
+      "tpd_reading": "<div>分組實驗(請依照課程配當表分組進行實驗)</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": "<div>梁藝瀚：拉伸實驗、渦電流檢測，廖奕鑫：非破壞檢測、應變規<br />\n卓家合：疲勞實驗、衝擊實驗，顏楷倫：磨耗實驗、複材修補</div>\n",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CE13131",
+      "sub_id": "36438",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "16",
+      "tpd_reading": "<div>期末考(請9:10到教室考試)</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": "<div>1. 課堂考試</div>\n",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    }
+  ],
+  "gradeRules": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CE13131",
+      "sub_id": "36438",
+      "scr_dup": "001",
+      "evalb_id": "D2",
+      "score_rate": 20,
+      "evalb_memo": "小考、期中考、期末考",
+      "evalb_memo_en": null,
+      "evalb_name": "期末考",
+      "evalb_name_en": "Final examination",
+      "seq": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CE13131",
+      "sub_id": "36438",
+      "scr_dup": "001",
+      "evalb_id": "D4",
+      "score_rate": 50,
+      "evalb_memo": "實驗報告",
+      "evalb_memo_en": null,
+      "evalb_name": "作業",
+      "evalb_name_en": "Homework",
+      "seq": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CE13131",
+      "sub_id": "36438",
+      "scr_dup": "001",
+      "evalb_id": "L4",
+      "score_rate": 30,
+      "evalb_memo": "平時出缺席與態度",
+      "evalb_memo_en": null,
+      "evalb_name": "出席狀況",
+      "evalb_name_en": "Attendances",
+      "seq": 0
+    }
+  ],
+  "gradeRuleDescribe": {
+    "yms_year": 114.0,
+    "yms_smester": 2.0,
+    "cls_id": "CE13131",
+    "sub_id": "36438",
+    "scr_dup": "001",
+    "tpa_score_new": "<div>上課時間：每週三上午09:10-12:00<br />\n成績評分標準：<br />\n1. 實驗報告50%<br />\n2. 小考、期中考、期末考20%<br />\n3. 平時出缺席與態度30%</div>\n",
+    "tpa_score_new_en": null,
+    "course_pol": "1. 本課程隨機點名，曠課每次扣總成績1分，經由正式請假不會扣分，但請補交作業，未補交作業則仍然記缺繳作業一次。\n2. 本課程一班的作業皆需要當日晚上11:00前完成，逾時未繳視同缺繳，有正式請假同學可以補繳。\n3. 所有講義皆在iLearn網站，請自行複習閱讀。",
+    "course_pol_en": null,
+    "course_rem": "本課堂教材皆為授課教師自行編篡，請尊重智慧財產權，勿自行影印或散播教材內容。",
+    "course_rem_en": null,
+    "ais_meno": "<div>1.本課程期中、期末報告嚴禁抄襲，需各組合作完成。\n<ul>\n\t<li>期中、期末報告時如果您抄襲他人的答案、或交出全部或部分由他人撰寫的論文或作業，則被視為作弊。</li>\n</ul>\n</div>\n\n<div>2.本課程作業皆為OPENBOOK，鼓勵與同學討論，但需自行完成，不可COPY同學作業。\n<ul>\n\t<li>交作業時您交出全部或部分由他人撰寫的論文或作業，則被視為抄襲。</li>\n</ul>\n</div>\n",
+    "ais_meno_en": null,
+    "ilearn_mk": null
+  },
+  "integrity": {
+    "yms_year": 114.0,
+    "yms_smester": 2.0,
+    "cls_id": "CE13131",
+    "sub_id": "36438",
+    "scr_dup": "001",
+    "tpa_score_new": "<div>上課時間：每週三上午09:10-12:00<br />\n成績評分標準：<br />\n1. 實驗報告50%<br />\n2. 小考、期中考、期末考20%<br />\n3. 平時出缺席與態度30%</div>\n",
+    "tpa_score_new_en": null,
+    "course_pol": "1. 本課程隨機點名，曠課每次扣總成績1分，經由正式請假不會扣分，但請補交作業，未補交作業則仍然記缺繳作業一次。\n2. 本課程一班的作業皆需要當日晚上11:00前完成，逾時未繳視同缺繳，有正式請假同學可以補繳。\n3. 所有講義皆在iLearn網站，請自行複習閱讀。",
+    "course_pol_en": null,
+    "course_rem": "本課堂教材皆為授課教師自行編篡，請尊重智慧財產權，勿自行影印或散播教材內容。",
+    "course_rem_en": null,
+    "ais_meno": "<div>1.本課程期中、期末報告嚴禁抄襲，需各組合作完成。\n<ul>\n\t<li>期中、期末報告時如果您抄襲他人的答案、或交出全部或部分由他人撰寫的論文或作業，則被視為作弊。</li>\n</ul>\n</div>\n\n<div>2.本課程作業皆為OPENBOOK，鼓勵與同學討論，但需自行完成，不可COPY同學作業。\n<ul>\n\t<li>交作業時您交出全部或部分由他人撰寫的論文或作業，則被視為抄襲。</li>\n</ul>\n</div>\n",
+    "ais_meno_en": null,
+    "ilearn_mk": null
+  },
+  "policy": {
+    "yms_year": 114.0,
+    "yms_smester": 2.0,
+    "cls_id": "CE13131",
+    "sub_id": "36438",
+    "scr_dup": "001",
+    "tpa_score_new": "<div>上課時間：每週三上午09:10-12:00<br />\n成績評分標準：<br />\n1. 實驗報告50%<br />\n2. 小考、期中考、期末考20%<br />\n3. 平時出缺席與態度30%</div>\n",
+    "tpa_score_new_en": null,
+    "course_pol": "1. 本課程隨機點名，曠課每次扣總成績1分，經由正式請假不會扣分，但請補交作業，未補交作業則仍然記缺繳作業一次。\n2. 本課程一班的作業皆需要當日晚上11:00前完成，逾時未繳視同缺繳，有正式請假同學可以補繳。\n3. 所有講義皆在iLearn網站，請自行複習閱讀。",
+    "course_pol_en": null,
+    "course_rem": "本課堂教材皆為授課教師自行編篡，請尊重智慧財產權，勿自行影印或散播教材內容。",
+    "course_rem_en": null,
+    "ais_meno": "<div>1.本課程期中、期末報告嚴禁抄襲，需各組合作完成。\n<ul>\n\t<li>期中、期末報告時如果您抄襲他人的答案、或交出全部或部分由他人撰寫的論文或作業，則被視為作弊。</li>\n</ul>\n</div>\n\n<div>2.本課程作業皆為OPENBOOK，鼓勵與同學討論，但需自行完成，不可COPY同學作業。\n<ul>\n\t<li>交作業時您交出全部或部分由他人撰寫的論文或作業，則被視為抄襲。</li>\n</ul>\n</div>\n",
+    "ais_meno_en": null,
+    "ilearn_mk": null
+  },
+  "courseBankC": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CE13131",
+      "sub_id": "36438",
+      "scr_dup": "001",
+      "seq": 1,
+      "describe_ch": "使學生瞭解材料力學重要之基本概念與理論",
+      "describe_en": "To acquire an understanding of the basic concepts and theory of material mechanics",
+      "core_id": "A",
+      "core_item": "具有基本的航空與太空工程專業知識，能有運用數學、科學及工程知識的能力。",
+      "core_eng": "To have basic professional knowledge in aerospace engineering, ability to apply knowledge of mathematics, science, and engineering.",
+      "core_level": "1 ",
+      "strgy": [
+        "05",
+        "06"
+      ],
+      "evalb": [
+        "D1",
+        "D2",
+        "L3"
+      ],
+      "strgy_name": [
+        "實驗實習",
+        "課堂檢討"
+      ],
+      "strgy_name_en": [
+        "Experimental practice",
+        "In-class discussion"
+      ],
+      "evalb_name": [
+        "期中考",
+        "期末考",
+        "課堂討論參與"
+      ],
+      "evalb_name_en": [
+        "Midterm examination",
+        "Final examination",
+        "Participation"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE13131",
+          "sub_id": "36438",
+          "scr_dup": "001",
+          "seq": 1,
+          "strgy_id": "05",
+          "strgy_name": null,
+          "strgy_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE13131",
+          "sub_id": "36438",
+          "scr_dup": "001",
+          "seq": 1,
+          "strgy_id": "06",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE13131",
+          "sub_id": "36438",
+          "scr_dup": "001",
+          "seq": 1,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D1",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE13131",
+          "sub_id": "36438",
+          "scr_dup": "001",
+          "seq": 1,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D2",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE13131",
+          "sub_id": "36438",
+          "scr_dup": "001",
+          "seq": 1,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "L3",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CE13131",
+      "sub_id": "36438",
+      "scr_dup": "001",
+      "seq": 2,
+      "describe_ch": "培養學生具備操作材料試驗機等檢測儀器，並且分析實驗結果之能力",
+      "describe_en": "To gain the ability to operate mechanical test equipment and experimental methods as well as analyze mechanical problems",
+      "core_id": "B",
+      "core_item": "具有設計與執行航太工程相關實驗，以及分析與解釋數據的能力。",
+      "core_eng": "Ability to design and conduct aerospace engineering experiments, as well as to analyze and interpret data.",
+      "core_level": "3 ",
+      "strgy": [
+        "05",
+        "06",
+        "08"
+      ],
+      "evalb": [
+        "D1",
+        "D2",
+        "D4",
+        "L3"
+      ],
+      "strgy_name": [
+        "實驗實習",
+        "課堂檢討",
+        "書面報告"
+      ],
+      "strgy_name_en": [
+        "Experimental practice",
+        "In-class discussion",
+        "Written report"
+      ],
+      "evalb_name": [
+        "期中考",
+        "期末考",
+        "作業",
+        "課堂討論參與"
+      ],
+      "evalb_name_en": [
+        "Midterm examination",
+        "Final examination",
+        "Homework",
+        "Participation"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE13131",
+          "sub_id": "36438",
+          "scr_dup": "001",
+          "seq": 2,
+          "strgy_id": "05",
+          "strgy_name": null,
+          "strgy_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE13131",
+          "sub_id": "36438",
+          "scr_dup": "001",
+          "seq": 2,
+          "strgy_id": "06",
+          "strgy_name": null,
+          "strgy_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE13131",
+          "sub_id": "36438",
+          "scr_dup": "001",
+          "seq": 2,
+          "strgy_id": "08",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE13131",
+          "sub_id": "36438",
+          "scr_dup": "001",
+          "seq": 2,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D1",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE13131",
+          "sub_id": "36438",
+          "scr_dup": "001",
+          "seq": 2,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D2",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE13131",
+          "sub_id": "36438",
+          "scr_dup": "001",
+          "seq": 2,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D4",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE13131",
+          "sub_id": "36438",
+          "scr_dup": "001",
+          "seq": 2,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "L3",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CE13131",
+      "sub_id": "36438",
+      "scr_dup": "001",
+      "seq": 3,
+      "describe_ch": "訓練學生各種量測原理及量測儀器的使用能力，以及培養實驗規劃與設計基本能力與材料力學問題之應用",
+      "describe_en": "To develop the ability of fundamental in mechanical measurement and the application of instruments for experimenting as well as the ability of experimental planning/designing and application to solution of mechanical problems",
+      "core_id": "B",
+      "core_item": "具有設計與執行航太工程相關實驗，以及分析與解釋數據的能力。",
+      "core_eng": "Ability to design and conduct aerospace engineering experiments, as well as to analyze and interpret data.",
+      "core_level": "5 ",
+      "strgy": [
+        "05",
+        "08",
+        "10"
+      ],
+      "evalb": [
+        "D1",
+        "D2",
+        "D4"
+      ],
+      "strgy_name": [
+        "實驗實習",
+        "書面報告",
+        "小組討論及活動"
+      ],
+      "strgy_name_en": [
+        "Experimental practice",
+        "Written report",
+        "Group activity & discussion"
+      ],
+      "evalb_name": [
+        "期中考",
+        "期末考",
+        "作業"
+      ],
+      "evalb_name_en": [
+        "Midterm examination",
+        "Final examination",
+        "Homework"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE13131",
+          "sub_id": "36438",
+          "scr_dup": "001",
+          "seq": 3,
+          "strgy_id": "05",
+          "strgy_name": null,
+          "strgy_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE13131",
+          "sub_id": "36438",
+          "scr_dup": "001",
+          "seq": 3,
+          "strgy_id": "08",
+          "strgy_name": null,
+          "strgy_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE13131",
+          "sub_id": "36438",
+          "scr_dup": "001",
+          "seq": 3,
+          "strgy_id": "10",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE13131",
+          "sub_id": "36438",
+          "scr_dup": "001",
+          "seq": 3,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D1",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE13131",
+          "sub_id": "36438",
+          "scr_dup": "001",
+          "seq": 3,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D2",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE13131",
+          "sub_id": "36438",
+          "scr_dup": "001",
+          "seq": 3,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D4",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CE13131",
+      "sub_id": "36438",
+      "scr_dup": "001",
+      "seq": 4,
+      "describe_ch": "培養團隊合作",
+      "describe_en": "Team work",
+      "core_id": "E",
+      "core_item": "專案管理（含經費規劃）、有效溝通、領域整合與團隊合作的能力。",
+      "core_eng": "Ability to manage project (including budgeting), communicate effectively, work in multi-disciplinary environment, and function on teams.",
+      "core_level": "5 ",
+      "strgy": [
+        "05",
+        "10"
+      ],
+      "evalb": [
+        "D1",
+        "D2",
+        "D4"
+      ],
+      "strgy_name": [
+        "實驗實習",
+        "小組討論及活動"
+      ],
+      "strgy_name_en": [
+        "Experimental practice",
+        "Group activity & discussion"
+      ],
+      "evalb_name": [
+        "期中考",
+        "期末考",
+        "作業"
+      ],
+      "evalb_name_en": [
+        "Midterm examination",
+        "Final examination",
+        "Homework"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE13131",
+          "sub_id": "36438",
+          "scr_dup": "001",
+          "seq": 4,
+          "strgy_id": "05",
+          "strgy_name": null,
+          "strgy_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE13131",
+          "sub_id": "36438",
+          "scr_dup": "001",
+          "seq": 4,
+          "strgy_id": "10",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE13131",
+          "sub_id": "36438",
+          "scr_dup": "001",
+          "seq": 4,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D1",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE13131",
+          "sub_id": "36438",
+          "scr_dup": "001",
+          "seq": 4,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D2",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE13131",
+          "sub_id": "36438",
+          "scr_dup": "001",
+          "seq": 4,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D4",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    }
+  ],
+  "topicSdgs": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CE13131",
+      "sub_id": "36438",
+      "scr_dup": "001",
+      "sdgs_seq": 10,
+      "main_related": "Y",
+      "ind_related": "N",
+      "iss_name": "經濟成長面",
+      "iss_ename": "Economic Growth",
+      "content_name": "研發創新和建立工業建設",
+      "content_ename": "Industry, Innovation and Infrastructure"
+    }
+  ],
+  "topicAiIndicators": [],
+  "learnHours": {
+    "total": 0.0,
+    "tpdOnlineAsyTotal": 0.0,
+    "tpdOnlineSynTotal": 0.0,
+    "tpdOnlineFaceTotal": 0.0,
+    "asySynInTotalPercent": 0.0
+  },
+  "crossVerYear": 114
+}

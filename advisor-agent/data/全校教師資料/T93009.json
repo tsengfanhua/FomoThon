@@ -1,0 +1,1100 @@
+{
+  "teacherId": "T93009",
+  "name": "劉益瑞",
+  "mainUnit": "資訊電機學院",
+  "detailUnit": "自動控制工程學系",
+  "skill": [
+    "醫用磁振影像Magnetic Resonance Image in Medicine",
+    "醫學影像處理Medical Image Processing",
+    "生醫信號處理Biomedical Signal Processing",
+    "3D生物列印3D Bioprinting"
+  ],
+  "edu": [
+    "台灣大學 電機工程研究所 博士",
+    "中原大學 醫學工程研究所 碩士",
+    "中原大學 醫工工程學系 學士"
+  ],
+  "fcuExp": [
+    "自動控制工程學系 助理教授",
+    "自動控制工程學系 副教授",
+    "自動控制工程學系 副教授",
+    "自動控制工程學系 副教授",
+    "自動控制工程學系 副教授",
+    "自動控制工程學系 教授",
+    "自動控制工程學系 教授",
+    "自動控制工程學系 教授"
+  ],
+  "currjob": [],
+  "otherExp": [
+    "元培科技技術學院 放射技術系暨影像醫學研究所 助理教授",
+    "友信行 工程部 工程師",
+    "台大醫院 骨科 研究助理",
+    "私立中原大學 學醫工程系 助教"
+  ],
+  "journal": [
+    {
+      "論文名稱": "Brain is also time: good short-term outcome predictions of artificial intelligence in spontaneous intracerebral hemorrhage pave the way for the long-term assessment",
+      "期刊名稱": "EUROPEAN RADIOLOGY (SCIE)",
+      "作者群": "Chun-Han Liao, Yi-Jui Liu"
+    },
+    {
+      "論文名稱": "Highly accelerated multi-shot intravoxel incoherent motion diffusion-weighted imaging in brain enabled by parametric POCS-based multiplexed sensitivity encoding",
+      "期刊名稱": "NMR in Biomedicine (SCIE)",
+      "作者群": "Shihui Chen, Mei-Lan Chu, Liyuan Liang, Yi-Jui Liu, Nan-Kuei Chen, He Wang, Chun-Jung Juan, Hing-Chiu Chang"
+    },
+    {
+      "論文名稱": "Opportunistic screening with multiphase contrast-enhanced dual-layer spectral CT for osteoblastic lesions in prostate cancer compared with bone scintigraphy",
+      "期刊名稱": "SCIENTIFIC REPORTS (SCIE)",
+      "作者群": "Ming-Cheng Liu, Chi-Chang Ho, Yen-Ting Lin, Jyh-Wen Chai, Siu-Wan Hung, Chen-Hao Wu, Jian-Ri Li , Yi-Jui Liu"
+    },
+    {
+      "論文名稱": "Understanding ADC variation by fat content effect using a dual-function MRI phantom",
+      "期刊名稱": "EUROPEAN RADIOLOGY EXPERIMENTAL (ESCI)",
+      "作者群": "Yi-Jui Liu, Tung-Sheng Tsai, Ya-Hui Li, Jo-Hua Peng, Hing-Chiu Chang, Hsu-Hsia Peng, Ying-Chieh Lee, Tung-Yang Lee, Chang-Hsien Liou, Tz-Feng Lin, Fatt-Yang Chew, Ruey-Hwang Chou & Chun-Jung Juan"
+    },
+    {
+      "論文名稱": "Accumulated Hepatic Steatosis Grades Predicted by T2*-IDEAL Fat Fraction",
+      "期刊名稱": "Journal of Medical and Biological Engineering (SCIE)",
+      "作者群": "Chang-Hsien Liu, Hing-Chiu Chang, Yi-Jui Liu, Wei-Ching Lin, Chi-Feng Hsieh, Te-Pao Lin, Cheng-Hsuan Juan, William Tzu-Liang & Chun-Jung Juan"
+    },
+    {
+      "論文名稱": "Spleen-preserving distal pancreatectomy from multi-port to reduced-port surgery approach",
+      "期刊名稱": "World Journal of Gastrointestinal Surgery (SCIE)",
+      "作者群": "Ching-Lung Hsieh, Tung-Sheng Tsai, Cheng-Ming Peng , Teng-Chieh Cheng , Yi-Jui Liu"
+    },
+    {
+      "論文名稱": "A potential imaging biomarker distinguishing neurodegenerative parkinsonism using brainstem MRI shape analysis",
+      "期刊名稱": "European Radiology (SCIE)",
+      "作者群": "Ming-Ting Tsai, Cheng-En Juan, Yi-Jui Liu, Chun-Jung Juan"
+    },
+    {
+      "論文名稱": "The role of input imaging combination and ADC threshold on segmentation of acute ischemic stroke lesion using U-Net",
+      "期刊名稱": "European Radiology (SCIE)",
+      "作者群": "Ya-Hui Li, Shao-Chieh Lin, Hsiao-Wen Chung, Chia-Ching Chang, Hsu-Hsia Peng, Teng-Yi Huang, Wu-Chung Shen, Chon-Haw Tsai, Yu-Chien Lo, Tung-Yang Lee, Cheng-Hsuan Juan, Cheng-En Juan, Hing-Chiu Chang, Yi-Jui Liu & Chun-Jung Juan"
+    },
+    {
+      "論文名稱": "Editorial for \"Post-Mortem MR Relaxometry of In Utero Fetuses and Its Relationship With Post-Mortem Interval; a Multi-Organ Observational Study on Reduced Fetuses of Complicated Multiple Pregnancies\"",
+      "期刊名稱": "J Magn Reson Imaging (SCIE)",
+      "作者群": "Yi-Jui Liu , Chun-Wen Chen , Kai-Yuan Cheng , Chun-Jung Juan"
+    },
+    {
+      "論文名稱": "Improving performance of deep learning models using 3.5D U-Net via majority voting for tooth segmentation on cone beam computed tomography",
+      "期刊名稱": "Scientific Reports (SCIE)",
+      "作者群": "Kang Hsu, Da-Yo Yuh, Shao-Chieh Lin, Pin-Sian Lyu, Guan-Xin Pan, Yi-Chun Zhuang, Chia-Ching Chang, Hsu-Hsia Peng, Tung-Yang Lee, Cheng-Hsuan Juan, Cheng-En Juan, Yi-Jui Liu & Chun-Jung Juan"
+    },
+    {
+      "論文名稱": "Predicting Lumbar Vertebral Osteopenia Using LvOPI Scores and Logistic Regression Models in an Exploratory Study of Premenopausal Taiwanese Women",
+      "期刊名稱": "Journal of Medical and Biological Engineering (SCIE)",
+      "作者群": "Chun-Wen Chen, Yi-Jui Liu, Shao-Chieh Lin, Chien-Yuan Wang, Wu-Chung Shen, Der-Yang Cho, Tung-Yang Lee, Cheng-Hsuan Juan, Cheng-En Juan, Kai-Yuan Cheng, Chun-Jung Juan"
+    },
+    {
+      "論文名稱": "3D-printed surgical wound dressing for prolonged 5-fluorouracil delivery from pluronic blending composites",
+      "期刊名稱": "Materials Today Communications (SCIE)",
+      "作者群": "Tz-Feng Lin, Yi-Jen Huang, Yi-Jui Liu, Cheng-Ming Peng, Chun-Jung, Juan, Shih-Hsuan Yeh, Ruey-Hwang Chou"
+    },
+    {
+      "論文名稱": "Improving interobserver agreement and performance of deep learning models for segmenting acute ischemic stroke by combining DWI with optimized ADC thresholds",
+      "期刊名稱": "EUROPEAN RADIOLOGY (SCIE)",
+      "作者群": "Chun-Jung Juan, Shao-Chieh Lin, Ya-Hui Li, Chia-Ching Chang, Yi-Hung Jeng, Hsu-Hsia Peng, Teng-Yi Huang, Hsiao-Wen Chung, Wu-Chung Shen, Chon-Haw Tsai, Ruey-Feng Chang, Yi-Jui Liu"
+    },
+    {
+      "論文名稱": "Common Subtype of Small Renal Mass MR Imaging Characterisation: A Medical Center Experience in Taiwan",
+      "期刊名稱": "Journal of Medical and Biological Engineering (SCIE)",
+      "作者群": "Ming-Cheng Liu, Yi-Jui Liu, Yen-Ting Lin, Siu-Wan Hung, Jyh-Wen Chai, Si-Wa Chan, Kun-Yuan Chiu, Chih-Hao Chang & Ya-Ling Tsou"
+    },
+    {
+      "論文名稱": "Improving diagnosing performance for malignant parotid gland tumors using machine learning with multifeatures based on diffusion-weighted",
+      "期刊名稱": "NMR in Biomedicine (SCIE)",
+      "作者群": "Chun-Jung Juan, Teng-Yi Huang , Yi-Jui Liu , Wu-Chung Shen , Chih-Wei Wang , Kang Hsu , Nieh Shin , Ruey-Feng Chang"
+    },
+    {
+      "論文名稱": "Editorial for \"Cortical Bone Mechanical Assessment via Free Water Relaxometry at 3 T\"",
+      "期刊名稱": "JOURNAL OF MAGNETIC RESONANCE IMAGING (SCIE)",
+      "作者群": "Yi-Jui Liu, Hou-Ting Yang, Chun-Jung Juan"
+    },
+    {
+      "論文名稱": "Multi-shot Diffusion-Weighted MRI With Multiplexed Sensitivity Encoding (MUSE) in the Assessment of Active Inflammation in Crohn's Disease",
+      "期刊名稱": "JOURNAL OF MAGNETIC RESONANCE IMAGING (SCIE)",
+      "作者群": "Hing-Chiu Chang, Guangtao Chen, Hsiao-Wen Chung, Philip Yuguang Wu, Liyuan Liang , Chun-Jung Juan, Yi-Jui Liu, Man-Lap Donald Tse, Arren Chan, Sailong Zhang, Keith Wan-Hang Chiu"
+    },
+    {
+      "論文名稱": "Quantifying lumbar vertebral perfusion by a Tofts model on DCE-MRI using segmental versus aortic arterial input function",
+      "期刊名稱": "SCIENTIFIC REPORTS (SCIE)",
+      "作者群": "Yi-Jui Liu, Hou-Ting Yang, Melissa Min-Szu Yao, Shao-Chieh Lin, Der-Yang Cho, Wu-Chung Shen, Chun-Jung Juan, Wing P Chan"
+    },
+    {
+      "論文名稱": "Classification of parotid gland tumors by using multimodal MRI and deep learning",
+      "期刊名稱": "NMR in Biomedicine (SCIE)",
+      "作者群": "Yi-Ju Chang, Teng-Yi Huang, Yi-Jui Liu, Hsiao-Wen Chung, Chun-Jung Juan"
+    },
+    {
+      "論文名稱": "Classification of parotid gland tumors by using multimodal MRI and deep learning",
+      "期刊名稱": "NMR in Biomedicine (SCIE)",
+      "作者群": "Yi-Ju Chang, Teng-Yi Huang, Yi-Jui Liu, Hsiao-Wen Chung, Chun-Jung Juan"
+    },
+    {
+      "論文名稱": "Imaging quality of PROPELLER diffusion-weighted MR imaging and its diagnostic performance in distinguishing pleomorphic adenomas from Warthin tumors of the parotid gland",
+      "期刊名稱": "NMR in Biomedicine (SCIE)",
+      "作者群": "Yi-Jui Liu, Yi-Hsiung Lee, Hing-Chiu Chang, Hsiao-Wen Chung , Chih-Wei Wang, Cheng-Hsuan Juan, Yueng-Hsiang Chu, Jih-Chin Lee, Chun-Jung Juan"
+    },
+    {
+      "論文名稱": "Gender interactions between vertebral bone mineral density and fat content in the elderly: Assessment using fat-water MRI.",
+      "期刊名稱": "J Magn Reson Imaging (SCIE)",
+      "作者群": "Chiao‐Chi Chen PhD,  Yi‐Jui Liu PhD,  Shiou‐Ping Lee MS,  Hou‐Ting Yang MS,  Wing P. Chan MD"
+    },
+    {
+      "論文名稱": "Application of a commercial single-port device for robotic single-incision distal pancreatectomy: initial experience.",
+      "期刊名稱": "Surgery Today (SCIE)",
+      "作者群": "Peng CM, Liu HC, Hsieh CL, Yang YK, Cheng TC, Chou RH, Liu YJ*."
+    },
+    {
+      "論文名稱": "Proton change of parotid glands after gustatory stimulation examined by magnetic resonance imaging",
+      "期刊名稱": "NMR in Biomedicine (SCIE)",
+      "作者群": "Yi-Jui Liu, Yi-Hsiung Lee, Hing-Chiu Chang, Hui-Chu Chiu, Ta-Wei Chiu, Kang Hsu, Cheng-Ming Pen, Hsian-He Hsu, Chun-Jung Juan"
+    },
+    {
+      "論文名稱": "EZH2 in Cancer Progression and Potential Application in Cancer Therapy: A Friend or Foe?",
+      "期刊名稱": "International Journal of Molecular Sciences (SCIE)",
+      "作者群": "Yan KS, Lin CY, Liao TW, Peng CM, Lee SC, Liu YJ, Chan WP, Chou RH."
+    },
+    {
+      "論文名稱": "Evaluating Instantaneous Perfusion Responses of Parotid Glands to Gustatory Stimulation Using High-Temporal-Resolution Echo-Planar Diffusion-Weighted Imaging.",
+      "期刊名稱": "American Journal of Neuroradiology (SCIE)",
+      "作者群": "Chiu TW, Liu YJ, Chang HC, Lee YH, Lee JC, Hsu K, Wang CW, Yang JM, Hsu HH, Juan CJ."
+    },
+    {
+      "論文名稱": "Using of Robot-Assisted Single Incision with Single Port Platform for Resection of\r\nGastric Duplication Cyst",
+      "期刊名稱": "BAOJ Medical and Nursing ()",
+      "作者群": "Cheng-Ming Peng, Hsin-Cheng Liu , Yang Yao Kun , Ching-Lung Hsieh , Wei-Hsin Chen , Yi-JuiLiu* and Ruey-Hwang Chou*"
+    },
+    {
+      "論文名稱": "Prevalence of Osteoporosis and Low Bone Mass in Older Chinese Population Based on Bone Mineral Density at Multiple Skeletal Sites.",
+      "期刊名稱": "Scientific Reports (SCIE)",
+      "作者群": "Lu YC, Lin YC, Lin YK, Liu YJ, Chang KH, Chieng PU, Chan WP."
+    },
+    {
+      "論文名稱": "Influence of amplitude-related perfusion parameters in the parotid glands by non-fat-saturated dynamic contrast-enhanced magnetic resonance imaging.",
+      "期刊名稱": "Medical Physics (SCIE)",
+      "作者群": "Chiu SC, Cheng CC, Chang HC, Chung HW, Chiu HC, Liu YJ, Hsu HH, Juan CJ."
+    },
+    {
+      "論文名稱": "Temporal Evolution of Parotid Volume and Parotid Apparent Diffusion Coefficient in Nasopharyngeal Carcinoma Patients Treated by Intensity-Modulated Radiotherapy Investigated by Magnetic Resonance Imaging: A Pilot Study.",
+      "期刊名稱": "PLoS One (SSCI)",
+      "作者群": "Juan CJ, Cheng CC, Chiu SC, Jen YM, Liu YJ, Chiu HC, Kao HW, Wang CW, Chung HW, Huang GS, Hsu HH."
+    },
+    {
+      "論文名稱": "A Potential Risk of Overestimating Apparent Diffusion Coefficient in Parotid Glands",
+      "期刊名稱": "PLoS One. (SSCI)",
+      "作者群": "Liu YJ, Lee YH, Chang HC, Huang TY, Chiu HC, Wang CW, Chiou TW, Hsu K, Juan CJ, Huang GS, Hsu HH."
+    },
+    {
+      "論文名稱": "A simple and direct reading flow meter fabricated by two-photon polymerization for microfluidic channel",
+      "期刊名稱": "Microfluidics and Nanofluidics (SSCI)",
+      "作者群": "Liu YJ , Yang JY , Nie YM , Lu CH , Huang ED , Shin CS , Baldeck P , Lin CL ."
+    },
+    {
+      "論文名稱": "Intracerebral Implantation of Autologous Peripheral Blood Stem Cells in Stroke Patients: A Randomized Phase II Study",
+      "期刊名稱": "Cell Transplantation, (ISSN 0963-6897, Online ISSN: 1555-3892) (SCIE)",
+      "作者群": "Der-Cherng Chen;Shinn-Zong Lin;Jia-Rong Fan;Chen-Huan Lin;Wei Lee;Chao-Chun Lin;Yi-Jui Liu;Chon-Haw Tsai;Jui-Cheng Chen;Der-Yan Cho;Chau-Chin Lee; Woei-Cherng Shyu"
+    },
+    {
+      "論文名稱": "Laser-induced cross-linking GFP-AcmA′ bioprobe for screening Gram-positive bacteria on a biochip",
+      "期刊名稱": "RSC Advances (EISSN 2046-2069) (SCIE)",
+      "作者群": "Chuen-Fu Lin,   Che-Kuan Lin,  Yi-Jui Liu,   Chung-Han Chiang,   Ming-Jeng Pan,  Patrice L. Baldeck and   Chih-Lang Lin*"
+    },
+    {
+      "論文名稱": "Effects of gender, age, and body mass index on fat contents and apparent diffusion coefficients in healthy parotid glands: an MRI evaluation",
+      "期刊名稱": "European Radiology (ISSN 0938-7994) (SCIE)",
+      "作者群": "Hing-Chiu Chang; Chun-Jung Juan; Hui-Chu Chiu; Cheng-Chieh Cheng; Su-Chin Chiu; Yi-Jui Liu; Hsiao-Wen Chung; Hsian-He Hsu"
+    },
+    {
+      "論文名稱": "Hematoma Shape, Hematoma Size, Glasgow Coma Scale Score and ICH Score: Which Predicts the 30-Day Mortality Better for Intracerebral Hematoma?",
+      "期刊名稱": "PLoS One. (ISSN:1932-6203 (Electronic)) (SCIE)",
+      "作者群": "Chih-Wei Wang, Yi-Jui Liu, Yi-Hsiung Lee, Dueng-Yuan Hueng, Hueng-Chuen Fan, Fu-Chi Yang, Chun-Jen Hsueh, Hung-Wen Kao, Chun-Jung Juan and Hsian-He Hsu"
+    },
+    {
+      "論文名稱": "Measuring steady-state cerebral vasomotor reactivity using non-triggered phase-contrast magnetic resonance imaging",
+      "期刊名稱": "Magnetic Resonance Imaging (ISSN: 0730-725X) (SCIE)",
+      "作者群": "Chun-Jung Juan, Yi-Jui Liu, Teng-Yi Huang, Cheng-Yu Chen, Guo-Shu Huang"
+    },
+    {
+      "論文名稱": "Three-Dimensional Passive Micromixer Fabricated by Two-Photon Polymerization for Microfluidic Mixing",
+      "期刊名稱": "Sensors and Materials (ISSN:0914-4935) (SCIE)",
+      "作者群": "Yi-Jui Liu, Po-Yu Chen, Jiun-Yi Yang, Chingfu Tsou,Yi-Hsiung Lee, Patrice Baldeck and Chih-Lang Lin"
+    },
+    {
+      "論文名稱": "Parotid perfusion in nasopharyngeal carcinoma patients in early-to-intermediate stage after low-dose intensity-modulated radiotherapy: evaluated by fat-saturated dynamic contrast-enhanced magnetic resonance imaging.",
+      "期刊名稱": "Magn Reson Imaging. (SCIE)",
+      "作者群": "Cheng CC, Chiu SC, Jen YM, Chang HC, Chung HW, Liu YJ, Chiu HC, Chen CY, Huang GS, Juan CJ."
+    },
+    {
+      "論文名稱": "Reproducibility of corticospinal diffusion tensor tractography in normal subjects and hemiparetic stroke patients.",
+      "期刊名稱": "Eur J Radiol. (SCIE)",
+      "作者群": "Lin CC, Tsai MY, Lo YC, Liu YJ, Tsai PP, Wu CY, Lin CW, Shen WC, Chung HW."
+    },
+    {
+      "論文名稱": "Parotid fat contents in healthy subjects evaluated with iterative decomposition with echo asymmetry and least squares fat-water separation.",
+      "期刊名稱": "Radiology. (SCIE)",
+      "作者群": "Chang HC, Juan CJ, Chiu HC, Liu YJ, Cheng CC, Chiu SC, Chen CY, Huang GS, Chung HW."
+    },
+    {
+      "論文名稱": "Optically Driven Mobile Integrated Micro-Tools for a Lab-on-a-Chip.",
+      "期刊名稱": "Actuator (CAS, DOAJ, INSPEC (IET)",
+      "作者群": "Liu YJ, Lee YH, Lin YS, Tsou C, Baldeck PL, Lin CL"
+    },
+    {
+      "論文名稱": "Optically Driven Gear-Based Mechanical Microtransducer for a Lab-on-a-Chip.",
+      "期刊名稱": "Journal of Neuroscience and Neuroengineering (Google Scholar, EMBASE)",
+      "作者群": "Lee YH, Liu YJ, Tzou CF, Bouriau M., Baldeck PL, Lin CL (第一作者為所指導之學生)"
+    },
+    {
+      "論文名稱": "The cerebral vasomotor response in varying CO2 concentrations, as evaluated using cine phase contrast MRI: Flow, volume, and cerebrovascular resistance indices.",
+      "期刊名稱": "Med. Phys. (SCIE)",
+      "作者群": "Liu YJ, Huang TY, Lee YH, Juan CJ"
+    },
+    {
+      "論文名稱": "Consistency of breast density measured from the same women in four different MR scanners.",
+      "期刊名稱": "Med. Phys. (SCIE)",
+      "作者群": "Chen JH, Chan S, Liu YJ, Yeh DC, Chang CK, Chen LK, Pan WF, Kuo CC, Lin M, Chang DH, Fwu PT, Su MY."
+    },
+    {
+      "論文名稱": "Multiplying optical tweezers force using a micro-lever",
+      "期刊名稱": "Opt Express (SCIE)",
+      "作者群": "Lin CL, Lee YH, Lin CT, Liu YJ, Hwang JL, Chung TT, Baldeck PL."
+    },
+    {
+      "論文名稱": "Relationship of idiopathic osteonecrosis of the femoral head to perfusion changes in the proximal femur by dynamic contrast-enhanced MRI.",
+      "期刊名稱": "AJR Am J Roentgenol. (SCIE)",
+      "作者群": "Chan WP, Liu YJ, Huang GS, Lin MF, Huang S, Chang YC, Jiang CC."
+    },
+    {
+      "論文名稱": "Recurrent pain after percutaneous vertebroplasty",
+      "期刊名稱": "AJR Am J Roentgenol (SCIE)",
+      "作者群": "Lin CC,Shen WC,Lo YC,Liu YJ,Yu TC,Chen IH,Chung HW."
+    },
+    {
+      "論文名稱": "Volume-dependent overestimation of spontaneous intracerebral hematoma volume by the ABC/2 formula.",
+      "期刊名稱": "Acta Radiol (SCIE)",
+      "作者群": "Wang CW, Juan CJ, Liu YJ, Hsu HH, Liu HS, Chen CY, Hsueh CJ, Lo CP, Kao HW, Huang GS."
+    },
+    {
+      "論文名稱": "Intervertebral disk degeneration related to reduced vertebral marrow perfusion at dynamic contrast-enhanced MRI",
+      "期刊名稱": "AJR Am J Roentgenol (SCIE)",
+      "作者群": "Liu YJ, Huang GS, Juan CJ, Yao MS, Ho WP, Chan WP."
+    },
+    {
+      "論文名稱": "Perfusion characteristics of late radiation injury of parotid glands: quantitative evaluation with dynamic contrast-enhanced MRI",
+      "期刊名稱": "Eur Radiol (SCIE)",
+      "作者群": "Juan CJ, Chen CY, Jen YM, Liu HS, Liu YJ, Hsueh CJ, Wang CY, Chou YC, Chai YT, Huang GS, Chung HW."
+    },
+    {
+      "論文名稱": "Are the Local Blood Oxygen Level-Dependent (BOLD) Signals Caused by Neural Stimulation Response Dependent on Global BOLD Signals Induced by Hypercapnia in the Functional MR Imaging Experiment? Experiments of Long-Duration Hypercapnia and Multilevel",
+      "期刊名稱": "AJNR Am J Neuroradiol. (SCIE)",
+      "作者群": "Liu YJ, Juan CJ, Chen CY, Wang CY, Wu ML, Lo CP, Chou MC, Huang TY, Chang H, Chu CH, Li MH."
+    },
+    {
+      "論文名稱": "T2 measurement of the human myocardium using a T2-prepared transient-state TrueFISP sequence",
+      "期刊名稱": "Magn Reson Med. (SCIE)",
+      "作者群": "Huang TY, Liu YJ, Stemmer A, Poncelet BP."
+    },
+    {
+      "論文名稱": "Radiation-induced Malignant Fibrous Histiocytoma of the Maxillary Sinus in a 25-year-old Patient with Nasopharyngeal Carcinoma: Early MR Imaging Characteristics",
+      "期刊名稱": "中華放射線醫學雜誌 ()",
+      "作者群": "李重臣;阮春榮;劉益瑞;陳震宇;任益民;林耀祥;羅中平;彭奕仁;黃國書;朱紀洪;鍾孝文"
+    },
+    {
+      "論文名稱": "Tensor deflection (TEND) tractography with adaptive subvoxel stepping",
+      "期刊名稱": "J Magn Reson Imaging. (SCIE)",
+      "作者群": "Chou MC, Wu ML, Chen CY, Wang CY, Huang TY, Liu YJ, Juan CJ, Chung HW."
+    },
+    {
+      "論文名稱": "Acute putaminal necrosis and white matter demyelination in a child with subnormal copper metabolism in Wilson disease: MR imaging and spectroscopic findings",
+      "期刊名稱": "Neuroradiology (SCIE)",
+      "作者群": "Juan CJ, Chen CY, Liu YJ, Chung HW, Chin SC, Hsueh CJ, Chu H, Zimmerman RA."
+    },
+    {
+      "論文名稱": "Supratentorial Cerebrospinal Fluid Production Rate in Healthy Adults: Quantification with Two-dimensional Cine Phase-Contrast MR Imaging with High Temporal and Spatial Resolution",
+      "期刊名稱": "Radiology (SCIE)",
+      "作者群": "Huang TY, Chung HW, Chen MY, Giiang LH, Chin SC, Lee CS, Chen CY, Liu YJ"
+    },
+    {
+      "論文名稱": "Angiogenic response of locally advanced breast cancer to neoadjuvant chemotherapy evaluated with parametric histogram from dynamic contrast-enhanced MRI.",
+      "期刊名稱": "PHYSICS IN MEDICINE AND BIOLOGY (SCIE)",
+      "作者群": "Chang  YC, Huang CS, Liu YJ, Chen JH, Lu YS, Tseng WY"
+    }
+  ],
+  "journal2": [],
+  "conference": [
+    {
+      "論文名稱": "Accurate Segmentation of Lesions and Classification of Edema Types in Acute Stroke: A Multi-Model Approach",
+      "會議名稱": "2023 IEEE 6th International Conference on Knowledge Innovation and Invention",
+      "作者群": "Shao-Chieh Lin; Yi-Jui Liu; Chun-Jung Juan"
+    },
+    {
+      "論文名稱": "Separation of Heart and Lung Sounds by A Deep Network-Based Model",
+      "會議名稱": "2023 IEEE 6th International Conference on Knowledge Innovation and Invention (ICKII)",
+      "作者群": "Tung-Sheng Tsai; Chun-Chieh Hsu; Ching-Lung Hsieh; Yi-Jui Liu"
+    },
+    {
+      "論文名稱": "Can Radiomics Identify Severe Right Ventricular Dilation in Patients with Repaired Tetralogy of Fallot by LV Cardiac Magnetic Resonance Images?",
+      "會議名稱": "2023 ISMRM & ISMRT Annual Meeting & Exhibition",
+      "作者群": "Jo-Hua Peng, Ming-Ting Wu, Nai-Yu Pan, Teng-Yi Huang, Yi-Jui Liu, Ken-Pen Weng, and Hsu-Hsia Peng"
+    },
+    {
+      "論文名稱": "Radiomics-Based Classification of Patients with Repaired Tetralogy of Fallot by Cardiac Magnetic Resonance",
+      "會議名稱": "2023 ISMRM & ISMRT Annual Meeting & Exhibition",
+      "作者群": "Jo-Hua Peng, Ming-Ting Wu, Nai-Yu Pan, Teng-Yi Huang, Yi-Jui Liu, Ken-Pen Weng, and Hsu-Hsia Peng"
+    },
+    {
+      "論文名稱": "Radiomics-Based Classification of Severe Pulmonary Regurgitation in Patients with Repaired Tetralogy of Fallot by Cardiac Magnetic Resonance",
+      "會議名稱": "2023 ISMRM & ISMRT Annual Meeting & Exhibition",
+      "作者群": "Jo-Hua Peng, Ming-Ting Wu, Nai-Yu Pan, Teng-Yi Huang, Yi-Jui Liu, Ken-Pen Weng, and Hsu-Hsia Peng"
+    },
+    {
+      "論文名稱": "An Innovative MRI phantom Allowing Evaluation of the Influence of Fat Fraction on the Measurement of ADC under Different Glass Bead Densities",
+      "會議名稱": "2022 Joint Annual Meeting ISMRM-ESMRMB & the 31st ISMRT Annual Meeting.",
+      "作者群": "Jo-Hua Peng, Chun-Jung Juan, Yi-Jui Liu, Ruey-Hwang Chou, Hing-Chiu Chang, Chang-Hsien Liou, Szu-Hsien Chou, Yen-Ting Wu, Bai-Wen Wu, and Hsu-Hsia Peng"
+    },
+    {
+      "論文名稱": "Better Inter-observer agreement for Stroke Segmentation on DWI in Deep Learning Models than Human Experts",
+      "會議名稱": "2022 Joint Annual Meeting ISMRM-ESMRMB & the 31st ISMRT Annual Meeting.",
+      "作者群": "Shao Chieh Lin, Chun-Jung Juan, Ya-Hui Li, Ming-Ting Tsai, Chang-Hsien Liu, Hsu-Hsia Peng, Teng-Yi Huang, Yi-Jui Liu, and Chia-Ching Chang"
+    },
+    {
+      "論文名稱": "Quantitatively Evaluating the Effect of Fat on ADC Measurement in EP-DWI and PROPELLER-DWI Using Fat-Water Phantom",
+      "會議名稱": "2022 Joint Annual Meeting ISMRM-ESMRMB & the 31st ISMRT Annual Meeting.",
+      "作者群": "Jo-Hua Peng, Chun-Jung Juan, Yi-Jui Liu, Ruey-Hwang Chou, Hing-Chiu Chang, Chang-Hsien Liou, Szu-Hsien Chou, Yen-Ting Wu, Bai-Wen Wu, and Hsu-Hsia Peng"
+    },
+    {
+      "論文名稱": "A Novel Hybrid Score Integrating Clinical and MR Features to Predict Lumbar Vertebral Osteoporosis in Female",
+      "會議名稱": "2021 ISMRM & SMRT Annual Meeting & Exhibition",
+      "作者群": "Shao-Chieh Lin, Chun-Jung Juan, Yi-Jui Liu, Chun-Wen Chen, Chien-Yuan Wang, Wu-Chung Shen, Der-Yang Cho, and Kai-Yuan Cheng."
+    },
+    {
+      "論文名稱": "ADC and Size Dependent Segmentation Performance using Deep Learning.",
+      "會議名稱": "2021 ISMRM & SMRT Annual Meeting & Exhibition",
+      "作者群": "Chun-Jung Juan, Yi-Jui Liu, Shao-Chieh Lin, and Yi-Hung Jeng"
+    },
+    {
+      "論文名稱": "Repeatability of Liver Apparent Diffusion Coefficient Measurement Using Free-Breathing Diffusion-Weighted Propeller Echo-Planar Imaging",
+      "會議名稱": "2021 ISMRM & SMRT Annual Meeting & Exhibition",
+      "作者群": "Hing-Chiu Chang, Lu Wang, Guangtao Chen, Liyuan Liang, Keith Wan-Hang Chiu, Yi-Jui Liu, Chun-Jung Juan, and Hsiao-Wen Chung."
+    },
+    {
+      "論文名稱": "Angiogenesis following peripheral blood stem cell therapy: evidence from perfusion MRI of patients with ischemic stroke",
+      "會議名稱": "ISMRM & SMRT VIRTUAL CONFERENCE & EXHIBITION",
+      "作者群": "Chao-Chun Lin, Wen-Chau Wu, Woei-Cherng Shyu, Yi-Jui Liu, Hing-Chiu Chang, Yu-Chien Luo, Der-Cherng Chen, Chia-Wei Lin, Hsiao-Wen Chung, and Shinn-Zong Lin"
+    },
+    {
+      "論文名稱": "Is ADC Measurement of Parotid Gland Tumor Sufficient using the Largest Slice rather than Whole Tumor",
+      "會議名稱": "ISMRM & SMRT VIRTUAL CONFERENCE & EXHIBITION",
+      "作者群": "Shao-Chieh Lin, Jui-Heng Lin, Chun-Jung Juan, Kai-Min Chien, Teng-Yi Huang, Yi-Jui Liu, Chang Hsien Liu, Ya-Hui Li, Szu Hsien Chou, and Chi-Feng Hsieh"
+    },
+    {
+      "論文名稱": "An End-to-end Lung Nodule Detection System Based on Deep Neural Network with Multiple Composite Functions",
+      "會議名稱": "2020 10th International Conference on Biomedical Engineering and Technology (ICBET 2020)",
+      "作者群": "Chin-En Kuo*, Nung-Yi Ling, Si-Wa Chan, Yi-Rui Liu, Yu-Chia Zheng"
+    },
+    {
+      "論文名稱": "基於深度學習之自動肺結節檢測判讀",
+      "會議名稱": "2019 International Conference on Technologies and Applications of Artificial Intelligence",
+      "作者群": "陳詩華, 林農誼, 劉益瑞, 鄭佑佳, 郭至恩*"
+    },
+    {
+      "論文名稱": "Alteration of IVIM Parameters by Signal Variation of Multiple b-value DWI Measurement",
+      "會議名稱": "ISMRM 27th Annual Meeting & Exhibition",
+      "作者群": "Chun-Jung Juan, Teng-Chieh Cheng, Tzu-Cheng Chao, Teng-Yi Huang, Chia-Wei Lin, Wu-Chung Shen, and Yi-Jui Liu"
+    },
+    {
+      "論文名稱": "Detection of malignant parotid gland tumors using multi-modality MRI and deep learning: diffusion versus T1 contrast-enhanced imaging",
+      "會議名稱": "ISMRM 27th Annual Meeting & Exhibition",
+      "作者群": "Yi-Ju Chang, Chun-Jung Juan, Yi-Jui Liu, and Teng-Yi Huang"
+    },
+    {
+      "論文名稱": "Diffusion Kurtosis Image in assessment of 3D Cell Culture",
+      "會議名稱": "ISMRM 27th Annual Meeting & Exhibition",
+      "作者群": "Jui-Heng Lin, Huei-Chun Hsiao, Shao-Chieh Lin, Yi-Jui Liu, Ruey-Hwang Chou, Ke-Sin Yan, Tan-Wei Liao, Chao-Chun Lin, Chia-Wei Lin, and Wu-Chung Shen"
+    },
+    {
+      "論文名稱": "Quantitative Evaluation of Vertebral Marrow Fat content with Aging in Healthy Human using MRS and Dixon technique",
+      "會議名稱": "ISMRM 27th Annual Meeting & Exhibition",
+      "作者群": "Shao-Chieh Lin, Hou-Ting Yang, Yi-Jui Liu, Hing-Chiu Chang, Xiang-Wei Xie, Wing P. Chang, Yu-Chen Cheng, and Yi-Zong Liou"
+    },
+    {
+      "論文名稱": "Alterations of Resting State fMRI Functional Connectivity in Hypercapnia",
+      "會議名稱": "Joint Annual Meeting ISMRM-ESMRMB 2018",
+      "作者群": "Yu-Chia Cheng, Teng-Chieh Cheng, Wen-Chau Wu, Teng-Yi Huang, Chao-Chun Lin, Chia-Wei Lin, Wu-Chung Shen, and Yi-Jui Liu"
+    },
+    {
+      "論文名稱": "Can ve be larger than one? A modification for asymmetric vascular permeability in Toft’s model may reveal glymphatic dysfunction in tumor",
+      "會議名稱": "Joint Annual Meeting ISMRM-ESMRMB 2018",
+      "作者群": "Pei-Lun Yu, Ming Cheng, Kun-I Chao, Cheng-He Li, Chi-Shiun Chiang, Kung-Chu Ho, Yi-Jui Liu, Ruey-Hwang Chou, and Fu-Nien Wang"
+    },
+    {
+      "論文名稱": "DW-MRI in assessment of 3D Cell Culture",
+      "會議名稱": "Joint Annual Meeting ISMRM-ESMRMB 2018",
+      "作者群": "Jui-Heng Lin, Hao-Chun Peng, Shao-Chieh Lin, Yi-Jui Liu, Ruey-Hwang Chou, Ke-Sin Yan, Tan-Wei Liao, Chia-Wei Lin, Chao-Chun Lin, Wei-Ching Lin, and Wu-Chung Shen"
+    },
+    {
+      "論文名稱": "Is ADC Affected by Distortion of EP-DWI for Distinguishing Parotid Gland Tumor- To Compare ADC of Parotid Gland in Echo-Planar DWI and PROPELLER DWI",
+      "會議名稱": "Joint Annual Meeting ISMRM-ESMRMB 2018",
+      "作者群": "Kai-Min Chien, Yi-Jui Liu, Yi-Hsiung Lee, Hing-Chiu Chang, Hui-Chu Chiu, Ta-Wei Chiu, Kang Hsu, Hsian-He Hsu, Chun-Jung Juan, Yu-Shu Fu, and CHENG-YI JUAN"
+    },
+    {
+      "論文名稱": "A Local Coregistration for Quantitative Evaluation of Distortion of Parotid Gland Tumors in Echo-Planar DWI and PROPELLER DWI",
+      "會議名稱": "Joint Annual Meeting ISMRM-ESMRMB 2018",
+      "作者群": "Kai-Min Chien, Yi-Jui Liu, Yi-Hsiung Lee, Hing-Chiu Chang, Hui-Chu Chiu, Ta-Wei Chiu, Kang Hsu, Hsian-He Hsu, Chun-Jung Juan, Yu-Shu Fu, and CHENG-YI JUAN"
+    },
+    {
+      "論文名稱": "Thin Slab Cerebral Quantitative Susceptibility Mapping",
+      "會議名稱": "Joint Annual Meeting ISMRM-ESMRMB 2018",
+      "作者群": "Chia-Chen Tsai, Tzu-Cheng Chao, Ming-Hong Ho, Yi-Jui Liu, and Ming-Long Wu"
+    },
+    {
+      "論文名稱": "Semi-Quantitative Parametric Evaluation of Parotid Gland Function Using Proton Density Magnetic Resonance Imaging",
+      "會議名稱": "The Twenty-fifth Annual Meeting of the International Society for Magnetic Resonance in Medicine, Honolulu, Hawaii, USA",
+      "作者群": "Cheng, Yu-Chia;  Liu, Yi-Jui;  Lee, Yi-Hsiung;  Chang, Hing-Chiu;  Chiu, Hui-Chu;  Chiu, Ta-Wei;  Hsu, Kang;  Hsu, Hsian-He;  Juan, Chun-Jung"
+    },
+    {
+      "論文名稱": "Perfusion and Fat Content of Lumbar Vertebral Body: Global and Regional Analysis",
+      "會議名稱": "The Twenty-fifth Annual Meeting of the International Society for Magnetic Resonance in Medicine, Honolulu, Hawaii, USA",
+      "作者群": "Yang, Hou-Ting;  Liu, Yi-Jui;  Chang, Hing-Chiu;  Xie, Xiang-Wei;  Lin, Ming-Fun;  Chan, Wing P."
+    },
+    {
+      "論文名稱": "Mathematical Modeling for Evaluating Gustatory Stimulation of Parotid Gland by Proton Density MRI",
+      "會議名稱": "The Twenty-fifth Annual Meeting of the International Society for Magnetic Resonance in Medicine, Honolulu, Hawaii, USA",
+      "作者群": "Cheng, Yu-Chia;  Liu, Yi-Jui;  Lee, Yi-Hsiung;  Chang, Hing-Chiu;  Chiu, Hui-Chu;  Chiu, Ta-Wei;  Hsu, Kang;  Hsu, Hsian-He;  Juan, Chun-Jung"
+    },
+    {
+      "論文名稱": "Accelerated Time Resolved Phase Contrast Cerebral MRA to Evaluate Pulse Wave Velocity",
+      "會議名稱": "The Twenty-fifth Annual Meeting of the International Society for Magnetic Resonance in Medicine, Honolulu, Hawaii, USA",
+      "作者群": "Chao, Tzu Cheng;  Cheng, Yu-Chia;  Wu, Wen-Chau;  Peng, Hsu-Hsia;  Chuang, Tzu-Chao;  Chung, Hsiao-Wen;  Huang, Teng-Yi;  Liu, Yi-Jui"
+    },
+    {
+      "論文名稱": "To Investigate the Regional Functional Connectivity of DMN Alterations in Hypercapnia",
+      "會議名稱": "International Society for Magnetic Resonance in Medicine (ISMRM) 24th Annual Meeting & Exhibition, 07-13 May 2016",
+      "作者群": "Hou-Ting Yang , Yi-Jui Liu , Tzu-Cheng Chao , Wen-Chau Chen , Teng-Yi Huang , You-Chia Cheng , Hsiao-Wen Chung , Chao-Chun Lin , Chia-Wei Lin , and Wu-Chung Shen"
+    },
+    {
+      "論文名稱": "To Compare the Variation of Perfusion Parameters by using AIF of Aorta and Segmental Artery in Quantitative DCE-MRI",
+      "會議名稱": "Section for Magnetic Resonance Technologists (SMRT) 25th Annual Meeting, 07-08 May 2016",
+      "作者群": "Hou-Ting Yang, Wing P.Chan, Xiang-Wei Xie and Yi-Jui Liu*"
+    },
+    {
+      "論文名稱": "Field-gradient mapping and signal loss in echo-planar imaging: a regional analysis.",
+      "會議名稱": "21st Annual Meeting of the Organization for Human Brain Mapping.",
+      "作者群": "Yu-Sheng Tseng, Teng-Yi Huang, Fu-Nien Wang, Shang-Yueh Tsai, Yi-Jui Liu."
+    },
+    {
+      "論文名稱": "To Investigate the Regional BOLD Alterations of Brain in Hypercapnia.",
+      "會議名稱": "21st Annual Meeting of the Organization for Human Brain Mapping.",
+      "作者群": "YuSheng Tseng, YiJui Liu, TengChieh Cheng, TengYi Huang, WenChau Wu, ChaoChun Lin, ChiaWei Lin, WuChung Shen."
+    },
+    {
+      "論文名稱": "The Perfusion Bias in Lumbar Vertibra by One Slice of DCE-MRI Measurement",
+      "會議名稱": "Joint Annual Meeting ISMRM-ESMRMB 2014",
+      "作者群": "Yi-Jui Liu, Cheng Teng Chieh, Yi-Hsiung Lee, and Wing P. Chan"
+    },
+    {
+      "論文名稱": "The Effect of Phase Cross-contamination by Partial Central K-space in Cine Phase Contrast MRI",
+      "會議名稱": "Joint Annual Meeting ISMRM-ESMRMB 2014",
+      "作者群": "Teng-Chieh Cheng, Yi-Jui Liu, Yi-Hsiung Lee, Wen-Chau Wu, Teng-Yi Huang, Chao-Chun Lin5 Chia-Wei Lin, and Wu-Chung Shen"
+    },
+    {
+      "論文名稱": "To Investigate the Hemodynamic Response Function Alterations in Hypercapnia Using Visual Stimulus fMRI",
+      "會議名稱": "Joint Annual Meeting ISMRM-ESMRMB 2014",
+      "作者群": "Teng-Chieh Cheng, Yi-Jui Liu, Yi-Hsiung Lee, Kuo-Fang Shao, Chao-Chun Lin, Chia-Wei Lin, and Wu-Chung Shen"
+    },
+    {
+      "論文名稱": "Functional connectivity of DMN is underestimated due to signal loss in parahippocampal regions and its remedy",
+      "會議名稱": "Joint Annual Meeting ISMRM-ESMRMB 2014",
+      "作者群": "Yu-Sheng Tseng, Teng-Yi Huang, and Yi-Jui Liu"
+    },
+    {
+      "論文名稱": "New biodiagnostics based on optical tweezers: typing red blood cells, and identification of drug resistant bacteria.",
+      "會議名稱": "Optical Trapping and Optical Micromanipulation X",
+      "作者群": "Chen JW, Lin CF, Wang SG, Lee YC, Chiang CH, Huang MH, Lee YiH, Guy Vitrant, Pan MJ, Lee HM, Liu YJ, Patrice L. Baldeck , Lin CL."
+    },
+    {
+      "論文名稱": "To Investigate the Motion Artifact of Diffusion Weighted MRI in Parotid.",
+      "會議名稱": "nternational Society of Magnetic Resonance in Medicine, 21th Annual Meeting",
+      "作者群": "Lee YH, Liu YJ, Chang HC, Juan CJ, Huang TY, and Wang FN."
+    },
+    {
+      "論文名稱": "以視覺誘發電位與功能性磁振影像觀察高血碳酸對腦神經活化之影響(2/3)",
+      "會議名稱": "2012生物醫學工程科技研討會暨國科會醫學工程學門成果發表會",
+      "作者群": "劉益瑞、沈戊忠、林昭君、阮春榮、賴德城、李義雄、邵國芳、楊濬易、陳柏宇"
+    },
+    {
+      "論文名稱": "An Absolute Quantification Method for Pharmacological MRI",
+      "會議名稱": "International Society of Magnetic Resonance in Medicine, 20th Annual Meeting.",
+      "作者群": "Lin YH, Lu KL, Lu CT, Liu YJ, Wang FN."
+    },
+    {
+      "論文名稱": "Pharmacological MRI by Dynamic CEST Imaging.",
+      "會議名稱": "International Society of Magnetic Resonance in Medicine, 20th Annual Meeting",
+      "作者群": "Huang SM, Lin YH, Wu YC, Liu YJ, Wang FN."
+    },
+    {
+      "論文名稱": "To Investigate the Cerebral Vasomotor Reactivity by CO2 Stimulus Using Cine PCMRI.",
+      "會議名稱": "International Society of Magnetic Resonance in Medicine, 20th Annual Meeting",
+      "作者群": "Juan CJ, Liu YJ, Lee YH, Huang TY, Wang FN, Wu ML."
+    },
+    {
+      "論文名稱": "Preliminary study of lever-based optically driven micro-actuator",
+      "會議名稱": "Third International Conference on Smart Materials and Nanotechnology in Engineering",
+      "作者群": "Lin CL, Li YH, Lin CT, Chiang CC, Liu YJ, Chung TT. and Baldeck PL"
+    },
+    {
+      "論文名稱": "Accessing Changes of Functional Dynamic Magnetic Resonance Imaging in Locally Advanced Breast Cancer Patients undergo Neoadjuvant Chemotherapy.",
+      "會議名稱": "International Society of Magnetic Resonance in Medicine, 19th Annual Meeting",
+      "作者群": "Chan SW, Liu YJ, Yeh DC, Chen JH, Lee FY, Hsueh HJ, Shao KF, Peng HW."
+    },
+    {
+      "論文名稱": "High Resolution Multiple Slice Composite Inner Volume Excitation Echo Planar Diffusion Weighted imaging.",
+      "會議名稱": "International Society of Magnetic Resonance in Medicine, 19th Annual Meeting",
+      "作者群": "Chang HC, Chao TC, Liu YJ, Shao KF, Cheng CC, Lin CC, Chung HW."
+    },
+    {
+      "論文名稱": "生物細胞之光吸收率對雷射光鉗作用力之影響",
+      "會議名稱": "2010年生物醫學工程科技研討會",
+      "作者群": "劉益瑞, 李義雄, 曾彥方, 黃建立, 林志郎"
+    },
+    {
+      "論文名稱": "Reduced FOV Single-Shot EPI 技術於高解析度磁振張量影像之應用(3/3)",
+      "會議名稱": "2010年生物醫學工程科技研討會",
+      "作者群": "劉益瑞, 黃騰毅, 阮春榮, 陳震宇, 趙梓程, 曾慶昭, 彭曉微, 邵國劉益瑞, 黃騰毅, 阮春榮, 陳震宇, 趙梓程, 曾慶昭, 彭曉微, 邵國芳"
+    },
+    {
+      "論文名稱": "Hemodynamic Response Function(HRF) Modulation by Inhaled CO2 Concentration Using Event-Related FMRI",
+      "會議名稱": "International Society of Magnetic Resonance in Medicine",
+      "作者群": "Chao-Chun Lin,Yi-Jui Liu,Chien-Kuo Chen,Hsiao-Wei Peng,Kuo-Fang Shao,Wu-Chung Shen,Chang Hing-Chiu."
+    },
+    {
+      "論文名稱": "Cerebral Blood Flow Change in One Hear Beat by CO2 Concentration Using Retrospective PC MRI Measurements",
+      "會議名稱": "International Society of Magnetic Resonance in Medicine",
+      "作者群": "Yi-Jui Liu,Chun-Jung Juan,Teng-Yi Huang,Hsiao-Wen Chung,Cheng-Yu Chen."
+    },
+    {
+      "論文名稱": "A Design of Head Holder for Calculation of Susceptibility Through Multiple Orientation Sampling(COSMOS)",
+      "會議名稱": "International Society of Magnetic Resonance in Medicine",
+      "作者群": "Hsiao-Wei Peng,Chao-Chun Lin,Yi-Jui Liu,Chien-Kuo Chen,Kuo-Fang Shao,Wu-Chung Shen,Hing-Chiu Chang."
+    },
+    {
+      "論文名稱": "ZOOM-PROPELLER-EPI:Non-Axial Imaging at Small FOV with PROPELLER-EPI",
+      "會議名稱": "International Society of Magnetic Resonance in Medicine",
+      "作者群": "Hing-Chiu Chang,Chun-Jung Juan,Yi-Jui Liu,Chao-Chun Lin,Hao Shen,Tzu-Chao Chuang,Hsiao-Wen Chung."
+    },
+    {
+      "論文名稱": "Comparison of Applying 1D Phase and 2D Phase N/2 Ghost Correction Prior to PROPELLER-EPI Reconstruction",
+      "會議名稱": "International Society of Magnetic Resonance in Medicine",
+      "作者群": "Hing-Chiu Chang,Chun-Jung,Juan,Tzu-Chao Chuang,Yi-Jui Liu,Chao-Chun Lin,Hsiao-Wen Chung."
+    },
+    {
+      "論文名稱": "Image Quality of Coronary MDCT Angiography:Explore the Characteristic of Motion Artifact by Dynamic Phantom",
+      "會議名稱": "2009生物醫學工程年會暨科技研討會",
+      "作者群": "廖學鍵、劉益瑞、彭曉微、邵國芳、陳建國、陳詩華、吳新華"
+    },
+    {
+      "論文名稱": "Diffusion Tensor Tractography- The Effect of slice Orientation of DTI and Fiber Tracing Postprocessing by Multiobserver",
+      "會議名稱": "2009生物醫學工程年會暨科技研討會",
+      "作者群": "彭曉微、陳建國、林昭君、曾慶昭、劉益瑞、邵國芳、廖學鍵、陳詩華"
+    },
+    {
+      "論文名稱": "fMRI刺激同步裝置與應用於視覺刺激時間對大腦活化的反應",
+      "會議名稱": "2009 MATLAB/Simulink Tech Forum and Expo",
+      "作者群": "彭曉微、陳建國、劉益瑞、廖學鍵、邵國芳、林昭君、曾慶昭"
+    },
+    {
+      "論文名稱": "INS-PRESS for functional MRS:simultaneous with- and without-water suppression spectral acquisition on visual cortex of human brains at 3T",
+      "會議名稱": "International Society of Magnetic Resonance in Medicine",
+      "作者群": "Shih YY,Huang CJ,Buechert M,Chung HW,Liu YJ."
+    },
+    {
+      "論文名稱": "Evaluation of Sensitivity and Reliability of Functional MR Spectroscopy Using Virtual Titration",
+      "會議名稱": "International Society of Magnetic Resonance in Medicine",
+      "作者群": "Huang CJ,Shih YY,Liu YJ,Chung HW."
+    },
+    {
+      "論文名稱": "以暫態視覺誘發電位探討高血碳酸對神經活化之影響",
+      "會議名稱": "2008生物醫學工程年會暨科技研討會",
+      "作者群": "賴德城、彭曉微、彭淑慧、劉益瑞"
+    },
+    {
+      "論文名稱": "Multi-Slice High Resolution Cerebellum Diffusion Tensor Imaging Using Pre-IR Inner Volume Excitation",
+      "會議名稱": "International Society of Magnetic Resonance in Medicine, 16th Annual Meeting",
+      "作者群": "Tzu-Cheng Chao, Yi-Jui Liu, Teng-Yi Huang, Hsiao-Wen Chung, Cheng-Yu Sandy"
+    },
+    {
+      "論文名稱": "Orientation-Specific Degeneration of the Cerebral White Matter in Aging Brain Investigated by Geometric DTI",
+      "會議名稱": "International Society of Magnetic Resonance in Medicine, 16th Annual Meeting",
+      "作者群": "Chun-Jung Juan, Yi-Jui Liu, Cheng-Yu Chen, Tzung-Tzuo Tsai, Ming-Chung Chou, Tzu-Cheng Chao, Chun-Jen Hsueh, Chung-Ping Lo, Hsiao-Wen Chung, Te-Cheng Lai, Guo-Shu Huang"
+    },
+    {
+      "論文名稱": "Investigating the White Matter Degeneration in the Aging Brain Using Geometric Diffusion Tensor Imaging.",
+      "會議名稱": "The 57th Annual meeting of the Radiological Society of the Republic of China",
+      "作者群": "Yi-Jui Liu, Chun-Jung Juan, Chen-Yu Chen, Ming-Chung Chou, Hua-San Liu, Hsiao-Wen Chung"
+    },
+    {
+      "論文名稱": "The Effect of Bipolar Crasher Gradient Pulses on Concurrent Vaso, Fair and BOLD-Based Images in Visual FMRI Study.",
+      "會議名稱": "The 57th Annual meeting of the Radiological Society of the Republic of China",
+      "作者群": "Chun-Jung Juan, Yi-Jui Liu, Tzu-Cheng Chao, Teng-Yi Huang, Hua-San Liu, Hsiao-Wen Chung, Chen-Yu Chen, Guo-Shu Huang."
+    },
+    {
+      "論文名稱": "Prediction of 30-day Mortality of Spontaneous Intracerebral Hematoma in Taiwanese Using ICH Score.",
+      "會議名稱": "The 57th Annual meeting of the Radiological Society of the Republic of China",
+      "作者群": "Chun-Jung Juan, Chen-Yu Chen, Chun-Jen Hsueh, Chung-Pin Lo, Hung-Wen Kao, Yi-Jui Liu, Hsiao-Wen Chung, Guo-Shu Huang."
+    },
+    {
+      "論文名稱": "使用擴散張量磁振照影參數(包括平均擴散力、不等向性分量、幾何擴散參數、以及剪力擴散力)測量大腦白質在正常老化與大腦小血管缺氧病變水分子擴散的改變",
+      "會議名稱": "2007年生物醫學工程科技研討會暨國科會醫學工程學門成果發表會",
+      "作者群": "蔡宗佐、賴德城、劉益瑞、阮春榮、黃騰毅"
+    },
+    {
+      "論文名稱": "Investigating the Function of the Cardiovascular and Respiratory Centers in the Brain Stem by Breath-Holding Using Reduced FOV EPI Technique",
+      "會議名稱": " International Society of Magnetic Resonance in Medicine, 16th Annual Meeting",
+      "作者群": "Chun-Jung Juan, Tzu-Cheng Chao, Yi-Jui Liu, Cheng-Yu Chen, Chun-Jen Hsueh, Chung-Ping Lo, Hsiao-Wen Chung, Te-Cheng Lai, Guo-Shu Huang"
+    },
+    {
+      "論文名稱": "幾何擴散指標於老化對大腦白質的改變",
+      "會議名稱": "2007年生物醫學工程科技研討會暨國科會醫學工程學門成果發表會",
+      "作者群": "蔡宗佐、劉益瑞、阮春榮、陳震宇、賴德城、彭淑慧"
+    },
+    {
+      "論文名稱": "Simultaneous Measurement of Cerebral Blood Volume, Cerebral Blood Flow, and Cerebral Blood Oxygenation after Hypercapnia Challenge: A Preliminary Result",
+      "會議名稱": " International Society for Magnetic Resonance in Medicine",
+      "作者群": "C-J. Juan, T-T. Tzuo, Y-J. Liu, T-Y. Huang, H-S. Liu, C-Y. Wang, H-W. Chung, and C-Y. Chen"
+    },
+    {
+      "論文名稱": "Dynamic Cardiac Imaging Using Phase-Modulated Undersampled x-f Spectra from Multiple Cardiac Cycles",
+      "會議名稱": "International Society for Magnetic Resonance in Medicine",
+      "作者群": "J-S. Hsu, J-M. Lin, T. Y. Huang, Y-J. Liu, Y-R. Lin, and H-W. Chung"
+    },
+    {
+      "論文名稱": "Application of Geometrical Diffusion Tensor Imaging on Acute Ischemic Cerebral Infarction",
+      "會議名稱": " International Society for Magnetic Resonance in Medicine",
+      "作者群": "Chun-Jung Juan, Yi-Jui Liu, Ming-Chung Chou, Chou-Yin Wang, Hua-San Liu, Te-Cheng Lai, Tsai-Tzung Tzuo  , Teng-Yi Huang , Hsiao-Wen Chung, Cheng-Yu Chen"
+    },
+    {
+      "論文名稱": "High resolution diffusion tensor image using segmented FOV",
+      "會議名稱": "International Society for Magnetic Resonance in Medicine",
+      "作者群": "T-C. Chao, Y-J. Liu, T-Y. Huang, F-N. Wang, H-W. Chung, M-T. Wu, and C-Y. S. Chen"
+    },
+    {
+      "論文名稱": "Simultaneous and Quantitative Investigation of the Cerebral Arterial and Venous Vasomotor Reactivity Using Phase-Contrast Magnetic Resonance Imaging Technique: A Multi-fractional CO2 Inhalation Approach",
+      "會議名稱": "International Society for Magnetic Resonance in Medicine",
+      "作者群": "Y-J. Liu, C-J. Juan, T-C. Lai, T-T. Tzuo, T-Y. Huang, C-W. Ko, M-H. Yu, C-T.Chen"
+    },
+    {
+      "論文名稱": "Vertebral Perfusion in Disc Degeneration Patients using Dynamic Contrast-Enhancement MR Imaging",
+      "會議名稱": "International Society for Magnetic Resonance in Medicine",
+      "作者群": "T-C. Lai, Y-J. Liu, C-J. Juan, W. Chan, H-W. Chung"
+    },
+    {
+      "論文名稱": "Reconstruction of Dynamic Contrast-Enhanced MR Imaging using k-t BLAST",
+      "會議名稱": "International Society for Magnetic Resonance in Medicine",
+      "作者群": "J-S. Hsu, Y-R. Lin, Y-J. Liu, T. Y. Huang, and H-W. Chung"
+    },
+    {
+      "論文名稱": "Simultaneous Measurement of Cerebral Blood Volume, Cerebral Blood Flow, and Cerebral Blood Oxygenation after Hypercapnic Challenge",
+      "會議名稱": "The 56th Annual meeting of the Radiological Society of the Republic of China",
+      "作者群": "Chun-Jung Juan,　Tzu-Cheng Chao,　Yi-Jui Liu,　Teng-Yi Huang,　Hua-San Liu,　Chao-Yin Wang,　Hsiao-Wen Chung,　Cheng-Yu Chen"
+    },
+    {
+      "論文名稱": "Does the Overestimation of hemorrhagic size by ABC/2 Method Change the Prediction of 30-day Mortality?",
+      "會議名稱": "The 56th Annual meeting of the Radiological Society of the Republic of China",
+      "作者群": "Chun-Jung Juan,　Yi-Jui Liu,　Cheng-Yu Chen,　Hsiao-Wen Chung,　Chun-Jen Hsueh,　Chung-Pin Lo,　Hung-Wen Kao"
+    },
+    {
+      "論文名稱": "Computed Tomographic Volumetry of Acute Intracerebral Hematoma: Comparing Ellipsoid Estimation Method and Histogram Analysis Segmentation Method",
+      "會議名稱": "The 56th Annual meeting of the Radiological Society of the Republic of China",
+      "作者群": "Chun-Jung Juan,　Yi-Jui Liu,　Cheng-Yu Chen,　Hsiao-Wen Chung,　Chun-Jen Hsueh,　Chung-Pin Lo,　Hung-Wen Kao"
+    },
+    {
+      "論文名稱": "高解析度磁振擴散張量影像：使用zoom-EPI 技術",
+      "會議名稱": "The 56th Annual meeting of the Radiological Society of the Republic of China",
+      "作者群": "賴德城, 趙梓程, 劉益瑞, 黃騰毅, 鍾孝文, 陳震宇"
+    },
+    {
+      "論文名稱": "以相位對比磁振影像測量吸入二氧化碳引發之大腦血管可反應性",
+      "會議名稱": "The 56th Annual meeting of the Radiological Society of the Republic of China",
+      "作者群": "劉益瑞, 阮春榮, 賴德城, 蔡宗佐, 黃騰毅, 陳震宇"
+    },
+    {
+      "論文名稱": "MRA assessment of lumbar arterial stenoses: relationship to disc degeneration.",
+      "會議名稱": "The 56th Annual meeting of the Radiological Society of the Republic of China",
+      "作者群": "劉益瑞, 黃國書, 阮春榮, 陳榮邦"
+    },
+    {
+      "論文名稱": "腦部磁振擴散張量影像之建立與分析",
+      "會議名稱": "2006 MATLAB& Simulink Tech Forum and Expo",
+      "作者群": "徐正憲，劉益瑞，阮春榮，周銘鐘"
+    },
+    {
+      "論文名稱": "磁振擴散張量影像：磁振造影之定量腦血管微灌流和腦血管對二氧化碳之可反應性在健康人的研究.",
+      "會議名稱": "Annual Symposium of Biomedical Engineering Society 2006",
+      "作者群": "蔡宗佐、劉益瑞、賴德城、黃騰毅、阮春榮、陳震宇"
+    },
+    {
+      "論文名稱": "磁振擴散張量影像之幾何擴散指標分析",
+      "會議名稱": "2006第九屆工程科技與中西醫應用研討會",
+      "作者群": "徐正憲、劉益瑞、阮春榮、周銘鐘、陳震宇"
+    },
+    {
+      "論文名稱": "以觸發式與非觸發式 2D 相位對比磁振血管造影術量測腦血流速",
+      "會議名稱": "2006第九屆工程科技與中西醫應用研討會",
+      "作者群": "蔡宗佐，余孟學，劉益瑞，阮春榮，黃騰毅，柯正雯"
+    },
+    {
+      "論文名稱": "Investigating the Relation between steady-state hBOLD and fBOLD signals in fMRI study",
+      "會議名稱": "ISMRM 14th SCIENTIFIC MEETING & EXHIBITION",
+      "作者群": "Juan CJ, Liu YJ, Chung HW, Chen CY, Chao TC, Shih YY, Liu HS, Wang CY, Ko CW"
+    },
+    {
+      "論文名稱": "Diffusion Tensor MR Imaging: Analysis of Anisotropy Metrics in the Aging Brain",
+      "會議名稱": "ISMRM 14th SCIENTIFIC MEETING & EXHIBITION",
+      "作者群": "Liu YJ, Juan CJ, Hsu CH, Chou MC, Huang TY, Chung HW, Chen CY"
+    },
+    {
+      "論文名稱": "Respiratory self-gating with PROPELLER encoding: Application to free-breathing cardiac imaging",
+      "會議名稱": "ISMRM 14th SCIENTIFIC MEETING & EXHIBITION",
+      "作者群": "Huang TY, Liu YJ, Juan CY, Chen CY, Poncelet BP, Kwong KK"
+    },
+    {
+      "論文名稱": "Investigating the Relation between Steady-State hBOLD and fBOLD Signals in fMRI Studies",
+      "會議名稱": "中華民國放射線醫學會第五十五次學術研討會",
+      "作者群": "薛俊仁，阮春榮，劉益瑞，鍾孝文，陳震宇"
+    },
+    {
+      "論文名稱": "Diffusion Tensor MR Imaging: Analysis of Geometric Water Diffusion in the Human Cerebral infarction",
+      "會議名稱": "中華民國放射線醫學會第五十五次學術研討會",
+      "作者群": "阮春榮，劉益瑞，徐正憲，周銘鐘，薛俊仁，羅中平，鍾孝文，陳震宇"
+    },
+    {
+      "論文名稱": "Geometric Analysis in Ischemic Cerebral Infarction Using Diffusion Tension MR Images.",
+      "會議名稱": "18th SYMPOSIUM NEURORADIOLOGICUM",
+      "作者群": "Chun-Jung Juan, Yi-Jui Liu, Cheng-Hsien Hsu, Cheng-Yu Chen, Ming-Chung Chou, Chun-Jen Hsueh, Chung-Pin Lo."
+    },
+    {
+      "論文名稱": "Investigating the Relation between Steady-State hBOLD and fBOLD Signals in fMRI Studies",
+      "會議名稱": "中華民國94年度生物醫學工程科技研討會",
+      "作者群": " 劉益瑞，徐正憲，阮春榮，周銘鐘，陳震宇"
+    },
+    {
+      "論文名稱": "Diffusion Tensor MR Imaging: Analysis of Geometric Water Diffusion in the Aging Brain",
+      "會議名稱": "中華民國放射線醫學會第五十五次學術研討會",
+      "作者群": "劉益瑞，阮春榮，徐正憲，周銘鐘，黃騰毅，鍾孝文，陳震宇"
+    },
+    {
+      "論文名稱": "Bayesian Component Number Estimation while Applying ICA to Functional MRI",
+      "會議名稱": "International Society for Magnetic Resonance in Medicine 13th Scientific Meeting & Exhibition",
+      "作者群": "M-L. Wu, Y-J. Liu, C-J. Juan, H-W. Chung, C-Y. Chen"
+    },
+    {
+      "論文名稱": "Does the Brain Cellular Metabolism Changed in A Hypercapnic Status? Investigation of the BOLD Fmri Signal Change in Hypercapnic Statuses and Simultaneous Measurement of the End-Tidal CO2 and O2",
+      "會議名稱": "中華民國放射線醫學會年會　第五十四次學術研討會",
+      "作者群": "劉益瑞　阮春榮　徐政憲　周銘鍾　黃騰毅　王昭穎　陳震宇　鍾孝文"
+    },
+    {
+      "論文名稱": "Compare Dual-Echo Imaging and Two-Component Model Using Single-Echo T2*Imaging for Correcting T1 Influence in MR Perfusion Image Using Dynamic Susceptibility Contrast-Enhanced Imaging",
+      "會議名稱": "中華民國放射線醫學會年會　第五十四次學術研討會",
+      "作者群": "劉益瑞　吳文超　阮春榮　蔡尚岳　林益如　陳震宇　鍾孝文"
+    },
+    {
+      "論文名稱": "利用獨立成分分析法(ICA)分析出磁振微灌流影像中血腦屏障崩潰的成分",
+      "會議名稱": "2004生物醫學工程研討會",
+      "作者群": "吳明龍 劉益瑞 徐正憲 鍾孝文 陳震宇 周銘鐘 黃俊璟"
+    }
+  ],
+  "book": [
+    {
+      "專業書籍": "使用擴散張量磁振造影參數（包括平均擴散力、不等向性分量、幾何擴散參數、以及剪力擴散力）測量大腦白質在",
+      "出版單位": "國科會研究成果報告",
+      "作者群": "劉益瑞"
+    }
+  ],
+  "patent": [
+    {
+      "title": "發明",
+      "desc": "甲狀腺手術訓練裝置"
+    },
+    {
+      "title": "發明",
+      "desc": "微創手術模擬訓練裝置"
+    },
+    {
+      "title": "發明",
+      "desc": "微創手術模擬設備之血量收集裝置"
+    }
+  ],
+  "most": [
+    {
+      "name": "以2D空間選擇射頻和MUSE技術發展高解析度擴散磁振影像應用於硬腦膜淋巴系統的監測(3/3)",
+      "schoolYear": "113"
+    },
+    {
+      "name": "(博士增核)以2D空間選擇射頻和MUSE技術發展高解析度擴散磁振影像應用於硬腦膜淋巴系統的監測(3/3)",
+      "schoolYear": "113"
+    },
+    {
+      "name": "攝護腺癌患者骨骼轉移治療前後的雙層探測器光譜電腦斷層影像分析系統設計",
+      "schoolYear": "113"
+    },
+    {
+      "name": "(博士增核)以2D空間選擇射頻和MUSE技術發展高解析度擴散磁振影像應用於硬腦膜淋巴系統的監測(2/3)",
+      "schoolYear": "112"
+    },
+    {
+      "name": "以2D空間選擇射頻和MUSE技術發展高解析度擴散磁振影像應用於硬腦膜淋巴系統的監測(2/3)",
+      "schoolYear": "112"
+    },
+    {
+      "name": "攝護腺癌電腦斷層微灌流影像擷取時間長短對微灌流模型參數的影響",
+      "schoolYear": "112"
+    },
+    {
+      "name": "以2D空間選擇射頻和MUSE技術發展高解析度擴散磁振影像應用於硬腦膜淋巴系統的監測(1/3)",
+      "schoolYear": "111"
+    },
+    {
+      "name": "以MUSE技術發展高解析度的頭頸部IVIM和DKI影像 – 應用於脂肪對IVIM、DKI參數的影響和味覺刺激下腮腺，腦幹和下視丘的反應",
+      "schoolYear": "110"
+    },
+    {
+      "name": "下視丘與腦幹的高解析度之2D空間選擇射頻Reduced FOV IVIM 磁振影像(3/3)",
+      "schoolYear": "109"
+    },
+    {
+      "name": "下視丘與腦幹的高解析度之2D空間選擇射頻Reduced FOV IVIM 磁振影像(2/3)",
+      "schoolYear": "108"
+    },
+    {
+      "name": "面回訊與螺旋槳式擴散權重影像於口腔腫瘤之影像扭曲及擴散係數分析",
+      "schoolYear": "108"
+    },
+    {
+      "name": "下視丘與腦幹的高解析度之2D空間選擇射頻Reduced FOV IVIM 磁振影像(1/3)",
+      "schoolYear": "107"
+    },
+    {
+      "name": "大數據分析應用於早發性乳癌基因之研究",
+      "schoolYear": "107"
+    },
+    {
+      "name": "加速多重激發的IVIM EPI磁振影像於腦幹與心肌之擴散與微灌流測量(2/2)",
+      "schoolYear": "106"
+    },
+    {
+      "name": "加速多重激發的IVIM EPI磁振影像於腦幹與心肌之擴散與微灌流測量(1/2)",
+      "schoolYear": "105"
+    },
+    {
+      "name": "以磁振微灌流影像觀察H4Y72衍生之短胜肽抑制乳癌的老鼠實驗",
+      "schoolYear": "105"
+    },
+    {
+      "name": "使用快速動態相位磁振影像觀測頸動脈系統之脈波速度",
+      "schoolYear": "104"
+    },
+    {
+      "name": "使用快速動態相位磁振影像觀測頸動脈系統之脈波速度(2/3)",
+      "schoolYear": "103"
+    },
+    {
+      "name": "使用快速動態相位磁振影像觀測頸動脈系統之脈波速度(1/3)",
+      "schoolYear": "102"
+    },
+    {
+      "name": "以視覺誘發電位與功能性磁振影像觀察高血碳酸對腦神經活化之影響(3/3)",
+      "schoolYear": "101"
+    },
+    {
+      "name": "以視覺誘發電位與功能性磁振影像觀察高血碳酸對腦神經活化之影響(2/3)",
+      "schoolYear": "100"
+    },
+    {
+      "name": "以視覺誘發電位與功能性磁振影像觀察高血碳酸對腦神經活化之影響(1/3)",
+      "schoolYear": "99"
+    },
+    {
+      "name": "Reduced FOV Single-Shot EPI技術於高解析度磁振張量影像之應用(3/3)",
+      "schoolYear": "98"
+    },
+    {
+      "name": "Reduced FOV Single-Shot EPI技術於高解析度磁振張量影像之應用(2/3)",
+      "schoolYear": "97"
+    },
+    {
+      "name": "Reduced FOV Single-Shot EPI技術於高解析度磁振張量影像之應用(1/3)",
+      "schoolYear": "96"
+    },
+    {
+      "name": "使用擴散張量磁振造影參數（包括平均擴散力、不等向性分量、幾何擴散參數、以及剪力擴散力）測量大腦白質在正常老化與大腦小血管",
+      "schoolYear": "95"
+    },
+    {
+      "name": "磁振造影之定量腦血管微灌流和腦血管對二氧化碳之可反應性在健康人、缺血性中風之高危險群和缺血性中風患者的研究",
+      "schoolYear": "94"
+    },
+    {
+      "name": "磁振擴散張量影像：非等向性度量於缺血性中風的應用",
+      "schoolYear": "93"
+    }
+  ],
+  "tech": [
+    {
+      "論文名稱": "KNOW-HOW PAGE: K-Space與Fourier Transform (2007-05)",
+      "書名": "中華民國放射線醫學會會訊",
+      "作者群": "劉益瑞"
+    },
+    {
+      "論文名稱": "KNOW-HOW PAGE: 神經纖維追蹤術EZ-tracing (2006-12)",
+      "書名": "中華民國放射線醫學會會訊",
+      "作者群": "劉益瑞"
+    },
+    {
+      "論文名稱": "KNOW-HOW PAGE: 擴散張量影像 (2006-09)",
+      "書名": "中華民國放射線醫學會會訊",
+      "作者群": "劉益瑞"
+    }
+  ],
+  "induAca": [
+    "102年智慧電子跨領域應用專題系列課程計畫 (2013-02 to 2014-01)",
+    "體能運動之心電感測效能研究與評估 (2006-04 to 2006-11)"
+  ],
+  "perform": [],
+  "reward": [
+    "113年度國科會補助大專校院研究獎勵 (113, 2024-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (113, 2024-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (113, 2024-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (113, 2024-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (113, 2024-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (113, 2024-11) - 逢甲大學",
+    "112年度國科會補助大專校院研究獎勵 (112, 2023-12) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (111, 2022-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (111, 2022-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (111, 2022-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (111, 2022-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (111, 2022-11) - 逢甲大學",
+    "111年度國科會補助大專校院研究獎勵 (111, 2022-10) - 研究發展處",
+    "逢甲大學論文著作獎勵傑出獎 (110, 2021-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (110, 2021-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (110, 2021-11) - 逢甲大學",
+    "110年度科技部補助大專校院研究獎勵 (110, 2021-10) - 產學合作處",
+    "逢甲大學論文著作獎勵傑出獎 (109, 2020-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (109, 2020-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (109, 2020-11) - 逢甲大學",
+    "109年度科技部補助大專校院研究獎勵 (109, 2020-10) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (108, 2019-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (108, 2019-11) - 逢甲大學",
+    "108學年度科技部補助大專校院研究獎勵 (108, 2019-09) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (107, 2018-11) - 逢甲大學",
+    "107年度科技部補助大專校院研究獎勵 (107, 2018-08) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (106, 2017-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (106, 2017-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (106, 2017-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (105, 2016-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (105, 2016-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (105, 2016-11) - 逢甲大學",
+    "佳作 (104, 2016-01) - 教育部醫療電子聯盟",
+    "逢甲大學論文著作獎勵傑出獎 (104, 2015-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (104, 2015-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (104, 2015-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (104, 2015-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (104, 2015-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (104, 2015-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (103, 2014-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (103, 2014-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (103, 2014-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (102, 2013-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (102, 2013-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (101, 2012-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (101, 2012-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (100, 2011-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (99, 2010-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (99, 2010-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (99, 2010-11) - 逢甲大學",
+    "99年度科技部獎勵特殊優秀人才 (99, 2010-10) - 研究發展處",
+    "逢甲大學論文著作獎勵傑出獎 (97, 2008-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (97, 2008-11) - 逢甲大學",
+    "學術研究獎勵論文著作傑出獎 (97, 2008-08) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (96, 2007-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵 (96, 2007-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (95, 2006-11) - 逢甲大學",
+    "最佳論文獎第一名 (95, 2006-10) - MATLAB",
+    "95學年度學術研究獎傑出獎 (95, 2006-08) - 逢甲大學",
+    "3d prize and $US 1000. (94, 2006-03) - Symposium Neuroradiologicum",
+    "逢甲大學論文著作獎勵傑出獎 (94, 2005-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (94, 2005-11) - 逢甲大學"
+  ],
+  "speech": [
+    {
+      "演講題目": "MRI principle: K Space",
+      "邀請單位": "台北市立萬芳醫院放射線科",
+      "演講日期": "2007-04"
+    },
+    {
+      "演講題目": "MRI principle: Encoding",
+      "邀請單位": "台北市立萬芳醫院放射線科",
+      "演講日期": "2007-03"
+    },
+    {
+      "演講題目": "MRI principle: Relaxation",
+      "邀請單位": "台北市立萬芳醫院放射線科",
+      "演講日期": "2007-02"
+    },
+    {
+      "演講題目": "Diffusion Tensor Imaging II",
+      "邀請單位": "三軍總醫院放射線部",
+      "演講日期": "2007-02"
+    },
+    {
+      "演講題目": "Diffusion Tensor Imaging I",
+      "邀請單位": "三軍總醫院放射線部",
+      "演講日期": "2007-01"
+    },
+    {
+      "演講題目": "MRI Principle: Signal Source",
+      "邀請單位": "台北市立萬芳醫院放射線科",
+      "演講日期": "2007-01"
+    },
+    {
+      "演講題目": "MRI Diffusion",
+      "邀請單位": "三軍總醫院放射線部",
+      "演講日期": "2006-09"
+    },
+    {
+      "演講題目": "MRI Perfusion",
+      "邀請單位": "三軍總醫院放射線部",
+      "演講日期": "2006-08"
+    },
+    {
+      "演講題目": "A overview of Magnetic Resonance Imaging",
+      "邀請單位": "中原大學醫學工程系",
+      "演講日期": "2006-03"
+    },
+    {
+      "演講題目": "Principle of digital image",
+      "邀請單位": "三軍總醫院",
+      "演講日期": "2005-01"
+    },
+    {
+      "演講題目": "Introduction of Brain fMRI",
+      "邀請單位": "台北市立萬方醫院",
+      "演講日期": "2004-09"
+    }
+  ],
+  "material": [
+    "無線遠端生理信號健康照護雲\t科技部南部科學工業園區管理局，2015 生醫機電與臨床創意設計、製作競賽\t廖建勳、劉宗維、洪照惟，指導老師：劉益瑞\t指導學生專業競賽成果報告",
+    "香香卵子精子好求\t智慧電子整合性人才培育－醫療電子聯盟 104年度生醫專題競賽\t參與人員：郭家恆、黃柏翔、吳心宇，指導老師 林志朗教授、劉益瑞教授\t指導學生專業競賽成果報告",
+    "人工晶體之生物性材料分析\t智慧電子整合性人才培育－醫療電子聯盟 104年度生醫專題競賽\t競賽組別：創意發想組， 隊　　長：楊世維， 隊    員：蘇祥斌,呂佳維,鐘聖勳，指導老師：劉益瑞，林志郎\t指導學生專業競賽成果報告"
+  ],
+  "tal": [
+    "108年度大專校院教學實踐研究計畫「融入CDIO的專題式學習於醫療器材設計控制之教學實踐研究」 (108)"
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "teacherId": "T12193",
+  "name": "林玉堃",
+  "mainUnit": "工程與科學學院",
+  "detailUnit": "機械與電腦輔助工程學系",
+  "skill": [
+    "機電整合自動化Mechatronics Automation",
+    "訊號處理Signal Processing",
+    "機器學習Machine Learning",
+    "磨削加工Grinding Process"
+  ],
+  "edu": [
+    "國立陽明交通大學 電控研究所 博士",
+    "國立中山大學 機電工程研究所 碩士"
+  ],
+  "fcuExp": [
+    "數位轉型研究中心 主任",
+    "逢甲大學帆宣智慧城市5G實驗室 研究員",
+    "機械與電腦輔助工程學系 助理教授"
+  ],
+  "currjob": [],
+  "otherExp": [
+    "工業技術研究院 機械與機電系統研究所/半導體設備技術組/硬 研究人力"
+  ],
+  "journal": [
+    {
+      "論文名稱": "Time-Series Forecast-Based Endpoint Thickness Compensation for Thinning of Sapphire Wafer",
+      "期刊名稱": "IEEE Access (SCIE)",
+      "作者群": "Y.K. Lin*, B.F. Wu"
+    },
+    {
+      "論文名稱": "Machine Learning-Base Wheel Monitoring for Sapphire Wafers",
+      "期刊名稱": "IEEE Access (SCIE)",
+      "作者群": "Y.K. Lin, B.F. Wu"
+    }
+  ],
+  "journal2": [],
+  "conference": [],
+  "book": [],
+  "patent": [],
+  "most": [
+    {
+      "name": "超高速流體動力主軸及智能化監控裝置開發計畫",
+      "schoolYear": "113"
+    },
+    {
+      "name": "基於聲射訊號之砂輪振動狀態線上監測暨回控技術",
+      "schoolYear": "113"
+    }
+  ],
+  "tech": [],
+  "induAca": [
+    "設備資料轉換模組開發應用 (2024-09 to 2024-10)",
+    "113年度特定工廠輔導團技術診斷輔導案 (2024-04 to 2024-10)",
+    "砂輪磨耗狀態定義分類以及輪磨數據分析 (2024-02 to 2024-12)"
+  ],
+  "perform": [],
+  "reward": [],
+  "speech": [
+    {
+      "演講題目": "精密磨削加工：突破硬脆材料挑戰與智慧監控的未來趨勢",
+      "邀請單位": "勤益科大-工學院",
+      "演講日期": "2024-03"
+    }
+  ],
+  "material": [],
+  "tal": []
+}

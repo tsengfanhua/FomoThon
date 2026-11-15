@@ -1,0 +1,717 @@
+{
+  "success": true,
+  "info": {
+    "yms_year": 114.0,
+    "yms_smester": 1.0,
+    "sub_id": "30976",
+    "cls_id": "CB26142",
+    "scr_dup": "001",
+    "sub_id3": "MKT4011",
+    "cls_name": "行銷四乙",
+    "cls_ename": "Department of Marketing",
+    "sub_name": "品牌關係經營實務專題",
+    "sub_ename": "BRAND  RELATIONSHIP  MANAGEMENT  PROJECT",
+    "scr_mso": "必修",
+    "scr_mso_en": "Required",
+    "scr_credit": 3.0,
+    "scr_periodly": "(五)02-04",
+    "scr_periodly_eng": "(Fri)02-04",
+    "lang_name": "中文                                                      ",
+    "lang_ename": "Chinese",
+    "scr_room": " ",
+    "scr_room_eng": " ",
+    "scr_teacher": "王婉禎,林建安,王郁彬,李悅端,周進華,李律鋒,丁美靜,李宜靜,何晉瑋,葉俊亨",
+    "scr_teacher_eng": "Wan-Chen Wang,Chien-An Lin, Yu-Bing Wang,Yueh-Tuan Li,Ching-Hua Chou,Lu-Feng Li,May-Ching Ding,Yi-Jing Lee",
+    "scr_selcode": "0788",
+    "scr_elearning": "全學期",
+    "scr_elearning_en": "Full semester",
+    "scr_hours": "3",
+    "scr_english": "N",
+    "unt_name": null,
+    "unt_ename": null,
+    "link_traminal": "跨學期畢業專題",
+    "link_traminal_en": "Capstone Course",
+    "scr_ldl": "D",
+    "course_mk": "N",
+    "teams_mk": "N",
+    "sub_title": null,
+    "sub_title_en": null,
+    "sub_describe": null,
+    "sub_describe_en": null,
+    "hasDescription": null,
+    "hasInstructor": null,
+    "hasTA": null,
+    "hasTextBooks": null,
+    "hasReadings": null,
+    "hasiSoftwares": null,
+    "hasAssistSoftwares": null,
+    "hasObjective": null,
+    "hasWeeklyScds": null,
+    "hasGradeRules": null,
+    "hasGradeRuleDescribe": null,
+    "hasIntegrity": null,
+    "hasCoursePol": null,
+    "hasCourseRem": null,
+    "hasObjectiveReleation": null,
+    "hasTopicSdgs": null,
+    "hasSubTitleDesc": null
+  },
+  "subTitleDesc": null,
+  "description": {
+    "sub_id3": null,
+    "sub_name": "品牌關係經營實務專題",
+    "sub_ename": "BRAND  RELATIONSHIP  MANAGEMENT  PROJECT",
+    "describe_ch": "此課程為行銷之終端課程。藉由實際廠商所面臨的行銷問題，學生將撰寫可行性的企劃案，以協助廠商問題的解決，並進而建議其品牌與顧客關係經營的策略方向。",
+    "describe_eh": "The course will help students to understand the role that relationship marketing plays in brand branding and modern marketing decision making. Topics to be covered include (1) essences of branding, (2) customer relationship marketing, (3) tactics considered in building customer relationships, and (4) brand equity. In particular, the course is to ensure that the knowledge and understanding of marketing can be applied in the practical construction of appropriate and realistic brand-building strategies in the perspective of customer relationship management.",
+    "pre_subname": "",
+    "pre_sub_id3": null,
+    "pre_sub_ename": "",
+    "pre_describe": null,
+    "pre_describe_en": null,
+    "scr_credit": 3.0
+  },
+  "targets": [
+    {
+      "seq": 1,
+      "describe_ch": "專題具備行銷專業分析能力與否",
+      "describe_en": "The topic has the marketing specialized analysis ability or not"
+    },
+    {
+      "seq": 2,
+      "describe_ch": "專題行銷企劃與整合的應用分析",
+      "describe_en": "Special marketing business planning and conformity applied analysis"
+    },
+    {
+      "seq": 3,
+      "describe_ch": "專題是否應用創意設計",
+      "describe_en": "Special whether application creativity design"
+    }
+  ],
+  "teachersInfo": [
+    {
+      "cname": "王婉禎",
+      "ename": "Wan-Chen Wang",
+      "period": "(Mon)08-09 商808B,(Tue)08-09 商808B",
+      "roletype": 0,
+      "email": "wancwang@o365.fcu.edu.tw",
+      "ext": "4388"
+    },
+    {
+      "cname": "林建安",
+      "ename": "Chien-An Lin",
+      "period": "(Mon)05  商912,(Tue)07-08 商912,(Thu)05  商912",
+      "roletype": 0,
+      "email": "canlin@o365.fcu.edu.tw",
+      "ext": "4392"
+    },
+    {
+      "cname": "王郁彬",
+      "ename": " Yu-Bing Wang",
+      "period": "(Tue)01  商1016,(Tue)05  商1016,(Wed)01  商1016,(Wed)05  商1016,(Thu)01  商1016,(Thu)05  商1016",
+      "roletype": 0,
+      "email": "ybwang@o365.fcu.edu.tw",
+      "ext": "4390"
+    },
+    {
+      "cname": "李悅端",
+      "ename": "Yueh-Tuan Li",
+      "period": "(Tue)09  商925,(Wed)10  商925,(Thu)08-09 商925",
+      "roletype": 0,
+      "email": "yuehtli@o365.fcu.edu.tw",
+      "ext": "4385"
+    },
+    {
+      "cname": "周進華",
+      "ename": "Ching-Hua Chou",
+      "period": "(Wed)05-06 商914,(Wed)07-08 商914",
+      "roletype": 0,
+      "email": "chchou@o365.fcu.edu.tw",
+      "ext": "4393"
+    },
+    {
+      "cname": "李律鋒",
+      "ename": "Lu-Feng Li",
+      "period": "(Mon)09-10 商1160,(Mon)11  商1160",
+      "roletype": 0,
+      "email": "lfli@o365.fcu.edu.tw",
+      "ext": "4315"
+    },
+    {
+      "cname": "丁美靜",
+      "ename": "May-Ching Ding",
+      "period": "(Tue)09  商927,(Wed)06  商927,(Wed)10  商927,(Fri)01  商927",
+      "roletype": 0,
+      "email": "mcding@o365.fcu.edu.tw",
+      "ext": "4387"
+    },
+    {
+      "cname": "李宜靜",
+      "ename": "Yi-Jing Lee",
+      "period": "(Mon)05  商1102,(Mon)09  商1102,(Tue)05  商1102,(Tue)09  商1102,(Wed)05-06 商1102,(Thu)05  商1102,(Thu)09  商1102,(Fri)05-06 商1102",
+      "roletype": 0,
+      "email": "yijlee@o365.fcu.edu.tw",
+      "ext": "4391"
+    },
+    {
+      "cname": "何晉瑋",
+      "ename": "Ching-Wei Ho",
+      "period": " ",
+      "roletype": 0,
+      "email": "cweiho@o365.fcu.edu.tw",
+      "ext": "6813"
+    },
+    {
+      "cname": "葉俊亨",
+      "ename": "Jun-Heng Yeh",
+      "period": "(Wed)10-11 商910,(Fri)10-11 商910",
+      "roletype": 0,
+      "email": "jhyeh@o365.fcu.edu.tw",
+      "ext": "4394"
+    },
+    {
+      "cname": "陳俊綸",
+      "ename": "CHUN-LUN-CHEN",
+      "period": " ",
+      "roletype": 1,
+      "email": "m1315723@o365.fcu.edu.tw",
+      "ext": " "
+    },
+    {
+      "cname": "楊尚衡",
+      "ename": "YANG,SHANG-HENG",
+      "period": " ",
+      "roletype": 1,
+      "email": "m1415271@o365.fcu.edu.tw",
+      "ext": " "
+    }
+  ],
+  "textBooks": {
+    "yms_year": 114.0,
+    "yms_smester": 1.0,
+    "cls_id": "CB26142",
+    "sub_id": "30976",
+    "scr_dup": "001",
+    "tpb_seq": 1,
+    "tpb_book": "<div>各指導教師將提供針對該企業問題之適當教材案例</div>\n",
+    "tpb_book_en": "<div>The supervisor of each group will provide the appropriate teaching materials and case studies related to the issues of the respective company.</div>\n"
+  },
+  "readings": {
+    "yms_year": 114.0,
+    "yms_smester": 1.0,
+    "cls_id": "CB26142",
+    "sub_id": "30976",
+    "scr_dup": "001",
+    "tpc_seq": 1,
+    "tpc_book": "<div>各指導教師將提供針對該企業問題之相關資料</div>\n",
+    "tpc_book_en": "<div>The supervisor of each group will provide the appropriate teaching materials and case studies related to the issues of the respective company.</div>\n"
+  },
+  "iSoftwares": [],
+  "assistSoftwares": [],
+  "weeklyScds": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CB26142",
+      "sub_id": "30976",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "1",
+      "tpd_reading": "<div>正式課程開始，暑期進度回報及未來解決方案規劃</div>\n",
+      "tpd_reading_en": "<div>Summer progress report and future planning for solutions</div>\n",
+      "tpd_learn": "<div>9/13「期初驗收」驗收暑期進度回報以及未來解決方案規劃</div>\n",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": 3.0,
+      "tpd_week_en": "Week 1",
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CB26142",
+      "sub_id": "30976",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "2-7",
+      "tpd_reading": "<div>小組指導</div>\n",
+      "tpd_reading_en": "<div>Provision of guidance for each group</div>\n",
+      "tpd_learn": " ",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": 18.0,
+      "tpd_week_en": "Week 2-7",
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CB26142",
+      "sub_id": "30976",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "8",
+      "tpd_reading": "<div>期中報告</div>\n",
+      "tpd_reading_en": "<div>Mid-term report</div>\n",
+      "tpd_learn": "<div>10/28-11/18 (W8/W9) 「期中檢核」</div>\n",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": 3.0,
+      "tpd_week_en": "Week 8",
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CB26142",
+      "sub_id": "30976",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "9",
+      "tpd_reading": "<div>期中檢核報告後之解決方法檢討調整</div>\n",
+      "tpd_reading_en": "<div>Reviewing the mid-term report</div>\n",
+      "tpd_learn": " ",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": 3.0,
+      "tpd_week_en": "Week 9",
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CB26142",
+      "sub_id": "30976",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "10-13",
+      "tpd_reading": "<div>小組指導</div>\n",
+      "tpd_reading_en": "<div>Provision of guidance for each group</div>\n",
+      "tpd_learn": " ",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": 12.0,
+      "tpd_week_en": "Week 10-13",
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CB26142",
+      "sub_id": "30976",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "13",
+      "tpd_reading": "<div>成果發表</div>\n",
+      "tpd_reading_en": "<div>Final project presentation</div>\n",
+      "tpd_learn": "<div>12/5-6 策展（大門口噴水池廣場）</div>\n",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": 3.0,
+      "tpd_week_en": "Week 13",
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CB26142",
+      "sub_id": "30976",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "15-17",
+      "tpd_reading": "<div>期末書面報告審閱與指導</div>\n",
+      "tpd_reading_en": "<div>Reviewing and advising on the final report</div>\n",
+      "tpd_learn": "<div>「期末結案」1. 期末主要以文件形式為主 (指導老師額外要舉行口頭簡報可自行辦理) 2. 期末結案文件由指導老師決定準備電子檔或紙本</div>\n",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": 9.0,
+      "tpd_week_en": "Week 15-17",
+      "mode": 0
+    }
+  ],
+  "gradeRules": [],
+  "gradeRuleDescribe": {
+    "yms_year": 114.0,
+    "yms_smester": 1.0,
+    "cls_id": "CB26142",
+    "sub_id": "30976",
+    "scr_dup": "001",
+    "tpa_score_new": "<div>\n<div>1.「期初驗收」：各組指導老師自行評分</div>\n\n<div>2.「期中檢核」：各組指導老師自行評分</div>\n\n<div>3.「期末結案」：各組指導老師自行評分。文件由指導老師自行決定，例如：小論文或企劃書。</div>\n\n<div>4.「成果發表」：策展評分標準方式與標準請參考公告說明。並由各組指導老師自行決定是否納入總成績。</div>\n</div>\n",
+    "tpa_score_new_en": "<div>1. Initial report: Each group&#39;s supervisor will mark independently.</div>\n\n<div>2. Mid-term report: Each group&#39;s supervisor will mark independently.</div>\n\n<div>3. Final report: Each group&#39;s supervisor will mark independently. The required documents will be determined by the supervisor.</div>\n\n<div>4. Final project presentation: The criteria and standards for the evaluation of the exhibition can be found in the official announcement. Each group&#39;s supervisor will decide whether to include the score in the final grade.</div>\n",
+    "course_pol": "課堂上的行為始終應要及時、要專業、要做好準備、要有禮貌。同學、教師或其他講師間，應保有彼此尊嚴和相互尊重，才能進行有效的學習。為了確保有利於學習環境，冀望每個人都能做到以下幾點，彼此遵守課堂行為規則，習慣禮貌的文化。\n\n學生應準時出席上課。如果您的上課時間，無法按時到課，請不要選課。 除非您生病或有緊急情況，否則應在上課前，要準時到達教室，並坐在位子上。如果您有某種原因必須提早下課，請提前告知我。\n所有學生在課堂上都應尊重每個人，並且在任何時候都應以合理、負責和禮貌的態度行事。\n上課時請勿講話、閱讀、睡覺或做其他非本課程相關作業，除分組進行討論外，否則應盡量減少邊際對話。\n當同學簡報或提問時，您應該專心地聆聽。當您簡報時，您應該面對自己的小組或全班同學大聲說話，讓同學能聽清楚。\n允許使用筆記型電腦或平板等載具，進行課堂記筆記，否則應將其收起。\n要確保在上課時，關閉手機、PDA等移動設備，並收起及保持靜音。\n不得戴耳機上課。\n穿著整潔，不要暴露。\n冀望以最高標準、互相尊重的專業對話模式，以多樣化和包容性，講述課程規則內容。\n教師得以引導學生方式，學習過程中學生要做的事，應有的責任。",
+    "course_pol_en": "Behavior in the classroom should always be prompt, professional, prepared, and courteous. Effective learning can only be achieved by maintaining mutual dignity and mutual respect among classmates, teachers or other lecturers. In order to ensure a conducive learning environment, everyone is expected to do the following, abide by each other's classroom behavior rules, and get used to a culture of politeness.\n    Students should attend class on time. If you cannot arrive at the class on time due to your class time, please do not register for the class. Unless you are sick or there is an emergency, you should be in your classroom on time and in your seat before class starts. If you have to leave class early for any reason, please let me know in advance.\n    All students are expected to treat everyone with respect in the classroom and to behave reasonably, responsibly, and courteously at all times.\n    Do not talk, read, sleep or do other non-course-related homework during class, except for group discussions, otherwise marginal conversations should be minimized. If you are sitting next to someone who might be chatting with you during class, move to another seat so you don't give in to temptation.\n    You should listen attentively when classmates present or ask questions. When you present, you should speak loudly to your group or class so that they can hear you clearly.\n    Laptops or tablets are allowed to take notes in class, otherwise they should be put away.\n    Make sure that mobile devices such as mobile phones and PDAs are turned off during class, and put away and keep silent.\n    Students are not allowed to wear earphones in class.\n    Dress neatly without revealing.\nIt is hoped that the content of the course rules will be described in a professional dialogue mode of the highest standard and mutual respect, with diversity and inclusiveness.\nTeachers are able to guide students in ways, what students should do in the learning process, and their due responsibilities.",
+    "course_rem": null,
+    "course_rem_en": null,
+    "ais_meno": "<div>學習必須以誠信為基礎，任何學生企圖將自己未製作的作品，作為自己的作品，此行為是為不誠實行為。<br />\n任何以您的名義提交的測試、論文或報告都被認為是您自己的原創作品，並且之前未曾在其他課程中提交過的作業、作品、或報告等，除非事先獲得我的批准。&nbsp;在您的所有作業中，包括您的家庭作業或論文草稿，您可以引用其他人在出版物、網站或其他來源中撰寫的文字或想法，但必須註明出處。如果您對完成作業、或參加考試或考試的要求不清楚時，請務必事先向老師或TA尋求說明。最後，您應該記住，作為學生應該在所有學術活動中表現出誠信，完成學習任務。</div>\n",
+    "ais_meno_en": "<div>Learning must be based on honesty. Any student who attempts to use a work that he has not produced as his own is considered dishonest.</div>\n\n<div>Any tests, essays, or reports submitted on your behalf are considered to be your own original work and have not been previously submitted in another course as an assignment, work, or report, etc., unless prior approval has been obtained from me.</div>\n\n<div>In all your work, including your homework assignments or draft papers, you may cite words or ideas written by others in publications, websites, or other sources, provided you cite the source.</div>\n\n<div>If you are unclear about the requirements for completing an assignment, or taking a test or test, be sure to ask your teacher or TA for clarification beforehand.&nbsp;</div>\n\n<div>Finally, you should remember that as a student you are expected to demonstrate integrity and complete your studies in all academic activities.</div>\n",
+    "ilearn_mk": null
+  },
+  "integrity": {
+    "yms_year": 114.0,
+    "yms_smester": 1.0,
+    "cls_id": "CB26142",
+    "sub_id": "30976",
+    "scr_dup": "001",
+    "tpa_score_new": "<div>\n<div>1.「期初驗收」：各組指導老師自行評分</div>\n\n<div>2.「期中檢核」：各組指導老師自行評分</div>\n\n<div>3.「期末結案」：各組指導老師自行評分。文件由指導老師自行決定，例如：小論文或企劃書。</div>\n\n<div>4.「成果發表」：策展評分標準方式與標準請參考公告說明。並由各組指導老師自行決定是否納入總成績。</div>\n</div>\n",
+    "tpa_score_new_en": "<div>1. Initial report: Each group&#39;s supervisor will mark independently.</div>\n\n<div>2. Mid-term report: Each group&#39;s supervisor will mark independently.</div>\n\n<div>3. Final report: Each group&#39;s supervisor will mark independently. The required documents will be determined by the supervisor.</div>\n\n<div>4. Final project presentation: The criteria and standards for the evaluation of the exhibition can be found in the official announcement. Each group&#39;s supervisor will decide whether to include the score in the final grade.</div>\n",
+    "course_pol": "課堂上的行為始終應要及時、要專業、要做好準備、要有禮貌。同學、教師或其他講師間，應保有彼此尊嚴和相互尊重，才能進行有效的學習。為了確保有利於學習環境，冀望每個人都能做到以下幾點，彼此遵守課堂行為規則，習慣禮貌的文化。\n\n學生應準時出席上課。如果您的上課時間，無法按時到課，請不要選課。 除非您生病或有緊急情況，否則應在上課前，要準時到達教室，並坐在位子上。如果您有某種原因必須提早下課，請提前告知我。\n所有學生在課堂上都應尊重每個人，並且在任何時候都應以合理、負責和禮貌的態度行事。\n上課時請勿講話、閱讀、睡覺或做其他非本課程相關作業，除分組進行討論外，否則應盡量減少邊際對話。\n當同學簡報或提問時，您應該專心地聆聽。當您簡報時，您應該面對自己的小組或全班同學大聲說話，讓同學能聽清楚。\n允許使用筆記型電腦或平板等載具，進行課堂記筆記，否則應將其收起。\n要確保在上課時，關閉手機、PDA等移動設備，並收起及保持靜音。\n不得戴耳機上課。\n穿著整潔，不要暴露。\n冀望以最高標準、互相尊重的專業對話模式，以多樣化和包容性，講述課程規則內容。\n教師得以引導學生方式，學習過程中學生要做的事，應有的責任。",
+    "course_pol_en": "Behavior in the classroom should always be prompt, professional, prepared, and courteous. Effective learning can only be achieved by maintaining mutual dignity and mutual respect among classmates, teachers or other lecturers. In order to ensure a conducive learning environment, everyone is expected to do the following, abide by each other's classroom behavior rules, and get used to a culture of politeness.\n    Students should attend class on time. If you cannot arrive at the class on time due to your class time, please do not register for the class. Unless you are sick or there is an emergency, you should be in your classroom on time and in your seat before class starts. If you have to leave class early for any reason, please let me know in advance.\n    All students are expected to treat everyone with respect in the classroom and to behave reasonably, responsibly, and courteously at all times.\n    Do not talk, read, sleep or do other non-course-related homework during class, except for group discussions, otherwise marginal conversations should be minimized. If you are sitting next to someone who might be chatting with you during class, move to another seat so you don't give in to temptation.\n    You should listen attentively when classmates present or ask questions. When you present, you should speak loudly to your group or class so that they can hear you clearly.\n    Laptops or tablets are allowed to take notes in class, otherwise they should be put away.\n    Make sure that mobile devices such as mobile phones and PDAs are turned off during class, and put away and keep silent.\n    Students are not allowed to wear earphones in class.\n    Dress neatly without revealing.\nIt is hoped that the content of the course rules will be described in a professional dialogue mode of the highest standard and mutual respect, with diversity and inclusiveness.\nTeachers are able to guide students in ways, what students should do in the learning process, and their due responsibilities.",
+    "course_rem": null,
+    "course_rem_en": null,
+    "ais_meno": "<div>學習必須以誠信為基礎，任何學生企圖將自己未製作的作品，作為自己的作品，此行為是為不誠實行為。<br />\n任何以您的名義提交的測試、論文或報告都被認為是您自己的原創作品，並且之前未曾在其他課程中提交過的作業、作品、或報告等，除非事先獲得我的批准。&nbsp;在您的所有作業中，包括您的家庭作業或論文草稿，您可以引用其他人在出版物、網站或其他來源中撰寫的文字或想法，但必須註明出處。如果您對完成作業、或參加考試或考試的要求不清楚時，請務必事先向老師或TA尋求說明。最後，您應該記住，作為學生應該在所有學術活動中表現出誠信，完成學習任務。</div>\n",
+    "ais_meno_en": "<div>Learning must be based on honesty. Any student who attempts to use a work that he has not produced as his own is considered dishonest.</div>\n\n<div>Any tests, essays, or reports submitted on your behalf are considered to be your own original work and have not been previously submitted in another course as an assignment, work, or report, etc., unless prior approval has been obtained from me.</div>\n\n<div>In all your work, including your homework assignments or draft papers, you may cite words or ideas written by others in publications, websites, or other sources, provided you cite the source.</div>\n\n<div>If you are unclear about the requirements for completing an assignment, or taking a test or test, be sure to ask your teacher or TA for clarification beforehand.&nbsp;</div>\n\n<div>Finally, you should remember that as a student you are expected to demonstrate integrity and complete your studies in all academic activities.</div>\n",
+    "ilearn_mk": null
+  },
+  "policy": {
+    "yms_year": 114.0,
+    "yms_smester": 1.0,
+    "cls_id": "CB26142",
+    "sub_id": "30976",
+    "scr_dup": "001",
+    "tpa_score_new": "<div>\n<div>1.「期初驗收」：各組指導老師自行評分</div>\n\n<div>2.「期中檢核」：各組指導老師自行評分</div>\n\n<div>3.「期末結案」：各組指導老師自行評分。文件由指導老師自行決定，例如：小論文或企劃書。</div>\n\n<div>4.「成果發表」：策展評分標準方式與標準請參考公告說明。並由各組指導老師自行決定是否納入總成績。</div>\n</div>\n",
+    "tpa_score_new_en": "<div>1. Initial report: Each group&#39;s supervisor will mark independently.</div>\n\n<div>2. Mid-term report: Each group&#39;s supervisor will mark independently.</div>\n\n<div>3. Final report: Each group&#39;s supervisor will mark independently. The required documents will be determined by the supervisor.</div>\n\n<div>4. Final project presentation: The criteria and standards for the evaluation of the exhibition can be found in the official announcement. Each group&#39;s supervisor will decide whether to include the score in the final grade.</div>\n",
+    "course_pol": "課堂上的行為始終應要及時、要專業、要做好準備、要有禮貌。同學、教師或其他講師間，應保有彼此尊嚴和相互尊重，才能進行有效的學習。為了確保有利於學習環境，冀望每個人都能做到以下幾點，彼此遵守課堂行為規則，習慣禮貌的文化。\n\n學生應準時出席上課。如果您的上課時間，無法按時到課，請不要選課。 除非您生病或有緊急情況，否則應在上課前，要準時到達教室，並坐在位子上。如果您有某種原因必須提早下課，請提前告知我。\n所有學生在課堂上都應尊重每個人，並且在任何時候都應以合理、負責和禮貌的態度行事。\n上課時請勿講話、閱讀、睡覺或做其他非本課程相關作業，除分組進行討論外，否則應盡量減少邊際對話。\n當同學簡報或提問時，您應該專心地聆聽。當您簡報時，您應該面對自己的小組或全班同學大聲說話，讓同學能聽清楚。\n允許使用筆記型電腦或平板等載具，進行課堂記筆記，否則應將其收起。\n要確保在上課時，關閉手機、PDA等移動設備，並收起及保持靜音。\n不得戴耳機上課。\n穿著整潔，不要暴露。\n冀望以最高標準、互相尊重的專業對話模式，以多樣化和包容性，講述課程規則內容。\n教師得以引導學生方式，學習過程中學生要做的事，應有的責任。",
+    "course_pol_en": "Behavior in the classroom should always be prompt, professional, prepared, and courteous. Effective learning can only be achieved by maintaining mutual dignity and mutual respect among classmates, teachers or other lecturers. In order to ensure a conducive learning environment, everyone is expected to do the following, abide by each other's classroom behavior rules, and get used to a culture of politeness.\n    Students should attend class on time. If you cannot arrive at the class on time due to your class time, please do not register for the class. Unless you are sick or there is an emergency, you should be in your classroom on time and in your seat before class starts. If you have to leave class early for any reason, please let me know in advance.\n    All students are expected to treat everyone with respect in the classroom and to behave reasonably, responsibly, and courteously at all times.\n    Do not talk, read, sleep or do other non-course-related homework during class, except for group discussions, otherwise marginal conversations should be minimized. If you are sitting next to someone who might be chatting with you during class, move to another seat so you don't give in to temptation.\n    You should listen attentively when classmates present or ask questions. When you present, you should speak loudly to your group or class so that they can hear you clearly.\n    Laptops or tablets are allowed to take notes in class, otherwise they should be put away.\n    Make sure that mobile devices such as mobile phones and PDAs are turned off during class, and put away and keep silent.\n    Students are not allowed to wear earphones in class.\n    Dress neatly without revealing.\nIt is hoped that the content of the course rules will be described in a professional dialogue mode of the highest standard and mutual respect, with diversity and inclusiveness.\nTeachers are able to guide students in ways, what students should do in the learning process, and their due responsibilities.",
+    "course_rem": null,
+    "course_rem_en": null,
+    "ais_meno": "<div>學習必須以誠信為基礎，任何學生企圖將自己未製作的作品，作為自己的作品，此行為是為不誠實行為。<br />\n任何以您的名義提交的測試、論文或報告都被認為是您自己的原創作品，並且之前未曾在其他課程中提交過的作業、作品、或報告等，除非事先獲得我的批准。&nbsp;在您的所有作業中，包括您的家庭作業或論文草稿，您可以引用其他人在出版物、網站或其他來源中撰寫的文字或想法，但必須註明出處。如果您對完成作業、或參加考試或考試的要求不清楚時，請務必事先向老師或TA尋求說明。最後，您應該記住，作為學生應該在所有學術活動中表現出誠信，完成學習任務。</div>\n",
+    "ais_meno_en": "<div>Learning must be based on honesty. Any student who attempts to use a work that he has not produced as his own is considered dishonest.</div>\n\n<div>Any tests, essays, or reports submitted on your behalf are considered to be your own original work and have not been previously submitted in another course as an assignment, work, or report, etc., unless prior approval has been obtained from me.</div>\n\n<div>In all your work, including your homework assignments or draft papers, you may cite words or ideas written by others in publications, websites, or other sources, provided you cite the source.</div>\n\n<div>If you are unclear about the requirements for completing an assignment, or taking a test or test, be sure to ask your teacher or TA for clarification beforehand.&nbsp;</div>\n\n<div>Finally, you should remember that as a student you are expected to demonstrate integrity and complete your studies in all academic activities.</div>\n",
+    "ilearn_mk": null
+  },
+  "courseBankC": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CB26142",
+      "sub_id": "30976",
+      "scr_dup": "001",
+      "seq": 1,
+      "describe_ch": "專題具備行銷專業分析能力與否",
+      "describe_en": "The topic has the marketing specialized analysis ability or not",
+      "core_id": "A",
+      "core_item": "學生具備商管專業的思辨學習能力",
+      "core_eng": "Students possess critical thinking capability in business and management issue.",
+      "core_level": "4 ",
+      "strgy": [
+        "05"
+      ],
+      "evalb": [
+        "D5",
+        "I4"
+      ],
+      "strgy_name": [
+        "實驗實習"
+      ],
+      "strgy_name_en": [
+        "Experimental practice"
+      ],
+      "evalb_name": [
+        "期末專題",
+        "專題/成果發表(專家審查)"
+      ],
+      "evalb_name_en": [
+        "Final presentation",
+        "Specialized presentation"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CB26142",
+          "sub_id": "30976",
+          "scr_dup": "001",
+          "seq": 1,
+          "strgy_id": "05",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CB26142",
+          "sub_id": "30976",
+          "scr_dup": "001",
+          "seq": 1,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D5",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CB26142",
+          "sub_id": "30976",
+          "scr_dup": "001",
+          "seq": 1,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "I4",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CB26142",
+      "sub_id": "30976",
+      "scr_dup": "001",
+      "seq": 2,
+      "describe_ch": "專題行銷企劃與整合的應用分析",
+      "describe_en": "Special marketing business planning and conformity applied analysis",
+      "core_id": "B",
+      "core_item": "學生具備溝通技巧（口語溝通、書面溝通）",
+      "core_eng": "Students are able to be effective communicators.",
+      "core_level": "4 ",
+      "strgy": [
+        "05"
+      ],
+      "evalb": [
+        "D5",
+        "I4"
+      ],
+      "strgy_name": [
+        "實驗實習"
+      ],
+      "strgy_name_en": [
+        "Experimental practice"
+      ],
+      "evalb_name": [
+        "期末專題",
+        "專題/成果發表(專家審查)"
+      ],
+      "evalb_name_en": [
+        "Final presentation",
+        "Specialized presentation"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CB26142",
+          "sub_id": "30976",
+          "scr_dup": "001",
+          "seq": 2,
+          "strgy_id": "05",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CB26142",
+          "sub_id": "30976",
+          "scr_dup": "001",
+          "seq": 2,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D5",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CB26142",
+          "sub_id": "30976",
+          "scr_dup": "001",
+          "seq": 2,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "I4",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CB26142",
+      "sub_id": "30976",
+      "scr_dup": "001",
+      "seq": 3,
+      "describe_ch": "專題是否應用創意設計",
+      "describe_en": "Special whether application creativity design",
+      "core_id": "C",
+      "core_item": "學生具備專業倫理觀念與態度",
+      "core_eng": "Students have professional concepts and attitudes of ethics.",
+      "core_level": "3 ",
+      "strgy": [
+        "05"
+      ],
+      "evalb": [
+        "D5",
+        "I4"
+      ],
+      "strgy_name": [
+        "實驗實習"
+      ],
+      "strgy_name_en": [
+        "Experimental practice"
+      ],
+      "evalb_name": [
+        "期末專題",
+        "專題/成果發表(專家審查)"
+      ],
+      "evalb_name_en": [
+        "Final presentation",
+        "Specialized presentation"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CB26142",
+          "sub_id": "30976",
+          "scr_dup": "001",
+          "seq": 3,
+          "strgy_id": "05",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CB26142",
+          "sub_id": "30976",
+          "scr_dup": "001",
+          "seq": 3,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D5",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CB26142",
+          "sub_id": "30976",
+          "scr_dup": "001",
+          "seq": 3,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "I4",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    }
+  ],
+  "topicSdgs": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CB26142",
+      "sub_id": "30976",
+      "scr_dup": "001",
+      "sdgs_seq": 6,
+      "main_related": "N",
+      "ind_related": "Y",
+      "iss_name": "社會進步面",
+      "iss_ename": "Social Progress",
+      "content_name": "減少經濟、教育及身心弱勢的不平等",
+      "content_ename": "Reduced Inequalities"
+    }
+  ],
+  "learnHours": {
+    "total": 51.0,
+    "tpdOnlineAsyTotal": 0.0,
+    "tpdOnlineSynTotal": 0.0,
+    "tpdOnlineFaceTotal": 51.0,
+    "asySynInTotalPercent": 0.0
+  },
+  "crossVerYear": 114
+}

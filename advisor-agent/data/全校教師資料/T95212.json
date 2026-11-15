@@ -1,0 +1,362 @@
+{
+  "teacherId": "T95212",
+  "name": "許恒壽",
+  "mainUnit": "資訊電機學院",
+  "detailUnit": "電子工程學系",
+  "skill": [
+    "類比積體電路設計與模擬Analog Integrated Circuit Design",
+    "高速信號傳輸High Speed Data transmission technique",
+    "雷射二極體驅動電路Laser Diode Driving Circuitry",
+    "類比濾波器設計Design of Analog Filters"
+  ],
+  "edu": [
+    "國立交通大學 電子研究所博士班 博士",
+    "國立交通大學 電子工程學系 學士"
+  ],
+  "fcuExp": [
+    "計畫辦公室 秘書",
+    "電子工程學系 助理教授",
+    "電子工程學系 副教授",
+    "電子工程學系 副教授",
+    "電子工程學系 副教授"
+  ],
+  "currjob": [],
+  "otherExp": [
+    "明道管理學院 資訊工程學系 助理教授",
+    "聯發科技 類比電路設計處 技術副理",
+    "台灣積體電路 設計服務處 主任工程",
+    "世界先進 產品開發處 資深工程"
+  ],
+  "journal": [
+    {
+      "論文名稱": "Dual-Band Power Amplifier Design at 28/38 GHz for 5G New Radio Applications",
+      "期刊名稱": "IEEE Access (SSCI)",
+      "作者群": "YI-FAN TSAO , (Member, IEEE), HENG-SHOU HSU , JOACHIM WÜRFL  , (Member, IEEE), AND HENG-TUNG HSU*"
+    },
+    {
+      "論文名稱": "Design of a High Frequency Duty-Cycle Corrector within 20%–80% Correction Range",
+      "期刊名稱": "International Journal of Information and Electronics Engineering (SCIE)",
+      "作者群": "Chien Yu Lin and Heng Shou Hsu*"
+    },
+    {
+      "論文名稱": "A High Frequency and Amplitude Modulated CMOS Laser Diode Driver for Low Noise Readout Applications",
+      "期刊名稱": "Analog Integrated Circuits and Signal Processing (SCIE)",
+      "作者群": "* Heng Shou Hsu, Pei Ju Tsai"
+    },
+    {
+      "論文名稱": "Reductionofcurrentmismatchingintheswitches-in-source CMOS chargepump",
+      "期刊名稱": "Microelectronics Journal (SCIE)",
+      "作者群": "Miin-Shyue Shiau, Heng-Shou Hsu, Ching-Hwa Cheng*, Hsiu-Hua Weng,Hong-Chong Wu, Don-Gey Liu"
+    },
+    {
+      "論文名稱": "Design a Bioamplifier with High CMRR",
+      "期刊名稱": "VLSI Design (EI)",
+      "作者群": "Yu-Ming Hsiao, Miin-Shyue Shiau, Kuen-Han Li, Jing-Jhong Hou, Heng-Shou Hsu, Hong-Chong Wu, and Don-Gey Liu"
+    },
+    {
+      "論文名稱": "High-Speed Driver with Built-In Self Detection Functions for Off-Chip Transmission",
+      "期刊名稱": "Analog Integrated Circuits and Signal Processing (SCIE)",
+      "作者群": "*Heng-Shou Hsu,Guan-Yu Lu"
+    },
+    {
+      "論文名稱": "High-Speed Driver with Built-In Self Detection Functions for Off-Chip Transmission",
+      "期刊名稱": "Analog Integrated Circuits and Signal Processing (SCIE)",
+      "作者群": "Heng-Shou Hsu* and Guan-Yu Lu"
+    },
+    {
+      "論文名稱": "Design and Realization of 1.3Gb/s off-chip transmission circuitry using 0.35um CMOS technology",
+      "期刊名稱": "Analog Integrated Circuits and Signal Processing (SCIE)",
+      "作者群": "Heng-Shou Hsu*, and Yu-Homg Chang"
+    },
+    {
+      "論文名稱": "A novel low-stress driven technique for on-panel TFT gate driver",
+      "期刊名稱": "Scientific Journal of Electrical Engineering (EI)",
+      "作者群": "Nan Xiong Huang*, Miin Shyue Shiau, Po Hung Chen, Hong Chong Wu, Heng-Shou Hsu, Don-Gey Liu"
+    },
+    {
+      "論文名稱": "V-Band Flip-Chip Assembled Gain Block Using In06Ga04As Metamorphic High-Electron-Mobility Transistor Technology",
+      "期刊名稱": "Applied Physics Express (SCIE)",
+      "作者群": "Che-Yang Chiang, Heng-Tung Hsu, Chin-Te Wang, Chien-Kuo, Heng-Shou Hsu, and Edward Yi Chang"
+    },
+    {
+      "論文名稱": "System Level Integration of Simulation Methods for High Data-Rate Transmission Circuit Design Applications",
+      "期刊名稱": "Progress in Electromagnetics Research (SCIE)",
+      "作者群": "H.-S. Hsu, H.-T. Hsu"
+    },
+    {
+      "論文名稱": "The Design of CMOS Continuous-Time VHF Current and Voltage-Mode Lowpass Filters with Q-Enhancement Circuits",
+      "期刊名稱": "IEEE Journal of Solid-State Circuits (SCIE)",
+      "作者群": "Chung-Yu Wu, and Heng-Shou Hsu"
+    }
+  ],
+  "journal2": [],
+  "conference": [
+    {
+      "論文名稱": "A Duty Cycle Corrector Using Active Inductor To Promote Acceptable Correction Frequency",
+      "會議名稱": "台灣機電工程國際學會第六屆全國學術研討會",
+      "作者群": "Heng Shou Hsu* ,Hsuan Chen Liu"
+    },
+    {
+      "論文名稱": "Design of A 0.8GHz-3GHz Duty-Cycle Corrector With a 20%-80% Input Duty\nCycle",
+      "會議名稱": "IEEE International Conference on Consumer Electronics - Taiwan (ICCE-TW)",
+      "作者群": "C. Y. Lin and Heng-Shou Hsu*"
+    },
+    {
+      "論文名稱": "Design of A 0.8GHz-3GHz Duty-Cycle Corrector with Wide Correction Range",
+      "會議名稱": "台灣機電工程國際學會第二屆第一次年會暨全國學術研討會",
+      "作者群": "Chien-Yu Lin, Heng-Shou Hsu*"
+    },
+    {
+      "論文名稱": "The Design of 0.2-2.2 GHz Duty Cycle Correction Circuit",
+      "會議名稱": "2018Asia-Pacific Workshop on Fundamentals and Applications of Advanced Semiconductor Devices(AWAD2018)",
+      "作者群": "Heng-Shou Hsu* , Guan-Wei Wu"
+    },
+    {
+      "論文名稱": "高速責任周期校正電路之設計",
+      "會議名稱": "2017 第15屆微電子技術發展與應用研討會",
+      "作者群": "許恒壽* , 陳律昂"
+    },
+    {
+      "論文名稱": "Design of High Speed Laser Diode Driver with Inductance Simulation",
+      "會議名稱": "2015電子,信號與通訊創新科技研討會",
+      "作者群": "*許恒壽,蔡沛儒,劉堂傑"
+    },
+    {
+      "論文名稱": "Analog Type Wide Range High Frequency Duty-Cycle Corrector",
+      "會議名稱": "2015電子,信號與通訊創新科技研討會",
+      "作者群": "洪裕棠,許恒壽*,劉堂傑"
+    },
+    {
+      "論文名稱": "Thin-Film Transistor Integrated Circuits for System-on-a-Panel Applications",
+      "會議名稱": "2014 IEEE International Conference on Electron Devices and Solid-State Circuits (EDSSC2014)",
+      "作者群": "N.-X. Huang, R.-C. Sun, H.-C. Wu, C.-H. Cheng, H.-S. Hsu, M.-S. Shiau, D.-G. Liu*"
+    },
+    {
+      "論文名稱": "Design of High Speed Laser Diode Driver with Rising Edge Detecting Technique",
+      "會議名稱": "Electronic Technology Symposium ETS",
+      "作者群": "*Heng-Shou Hsu,Chia-Chun Huang"
+    },
+    {
+      "論文名稱": "High Speed LVDS Transmission Circuits with Built-In Duty Cycle Calibration",
+      "會議名稱": "Electronic Technology Synposium",
+      "作者群": "*許恒壽,許銘峻"
+    },
+    {
+      "論文名稱": "AN INTEGRATED PHYSIOLOGICAL SYSTEM",
+      "會議名稱": "Symposium on Engineering, Medicine and Biology Applications (SEMBA 2014)",
+      "作者群": "Wan-Ju Wu, Jing-Jhong Hou, Chia-Wei Wu, Miin-Shyue Shiau, Yenyu Wang, Kai-Che Liu, Ching-Hwa Cheng, Heng-Shou Hsu, Hong-Chong Wu, Guang-Bao Lu, and Don-Gey Liu*"
+    },
+    {
+      "論文名稱": "ACTIVE FILTERS FOR ECG SIGNALS",
+      "會議名稱": "Symposium on Engineering, Medicine and Biology Applications (SEMBA 2014)",
+      "作者群": "Ming-Syuan Wu, Ruei-Lin Yang,Ruei-Cheng Sun, Heng-Shou Hsu, Yenyu Wang, Kai-Che Liu, Ching-Hwa Cheng, Miin-Shyue Shiau, Hong-Chong Wu, Guang-Bao Lu, and Don-Gey Liu*"
+    },
+    {
+      "論文名稱": "Design for low current mismatch in the CMOS charge pump",
+      "會議名稱": "SoC Design Conference (ISOCC), 2013 International",
+      "作者群": "Miin-Shyue Shiau; Ching-Hwa Cheng; Heng-Shou Hsu; Hong-Chong Wu; Hsiu-Hua Weng; Jing-Jhong Hou; Ruei-Cheng Sun; Kai-Che Liu; Guang-Bao Lu; Don-Gey Liu"
+    },
+    {
+      "論文名稱": "Design for Low Current Mismatch in the CMOS Charge Pump",
+      "會議名稱": "Circuit Architectures and Methodologies for Emerging Applications, Int’l SOC Design Conf. (ISOCC2013)",
+      "作者群": "Miin-Shyue Shiau, Ching-Hwa Cheng, Heng-Shou Hsu, Hong-Chong Wu, Hsiu-Hua Weng, Jing-Jhong Hou, Ruei-Cheng Sun, Kai-Che Liu, Guang-Bao Lu, and Don-Gey Liu*"
+    },
+    {
+      "論文名稱": "Integrated amorphous-Si TFT circuits for gate drivers on LCD panels",
+      "會議名稱": "ASIC (ASICON), 2013 IEEE 10th International Conference on",
+      "作者群": "Nan-Xiong Huang; Hsi Rong Han; Wen Tui Liao; Chih Hung Huang; Wen Chun Wang; Miin-Shyue Shiau; Ching-Hwa Cheng; Hong-Chong Wu; Heng-Shou Hsu; Liou, J.J.; Shry-Sann Liao; Ruei-Cheng Sun; Guang-Bao Lu; Don-Gey Liu"
+    },
+    {
+      "論文名稱": "利用源極追隨電流鏡之高速雷射二極體驅動電路之設計",
+      "會議名稱": "Electronic Technology Symposium(ETS)",
+      "作者群": "*許恒壽,蔡怡進"
+    },
+    {
+      "論文名稱": "應用於生理訊號心電圖之放大器與濾波器晶片化設計",
+      "會議名稱": "Electronic Technology Symposium(ETS)",
+      "作者群": "*許恒壽,吳明軒"
+    },
+    {
+      "論文名稱": "應用於高速信號傳輸之類比式責任周期校正電路",
+      "會議名稱": "2013 Electronic Technology Symposium(ETS)",
+      "作者群": "*許恒壽,趙冠雲"
+    },
+    {
+      "論文名稱": "對於低電壓差動訊號資料傳輸之責任周期校正電路",
+      "會議名稱": "民生電子Workshop on Consumer Electrons",
+      "作者群": "*許恒壽,盧冠宇"
+    },
+    {
+      "論文名稱": "應用於影像傳輸ADC之低功率比較器研究",
+      "會議名稱": "2012 ISC智慧型系統工程應用研討會(ISC2012)",
+      "作者群": "賴品睿, 許恒壽, 蕭敏學, 吳鴻章, 劉堂傑"
+    },
+    {
+      "論文名稱": "應用於鎖相迴路之高速環型振盪器",
+      "會議名稱": "2012 ISC智慧型系統工程應用研討會(ISC2012)",
+      "作者群": "張貽翔, 許恒壽, 蕭敏學, 吳鴻章, 劉堂傑"
+    },
+    {
+      "論文名稱": "A novel single clock gate driver using ?\\-Si TFTs,",
+      "會議名稱": "International Conference on Electric Information and Control Engineering (ICEICE)",
+      "作者群": "Po-Hung Chen, Nan-Xiong Huang, Miin-Shyue Shiau, Hong-Chong Wu, Heng-Shou Hsu, and Don-Gety Liu"
+    },
+    {
+      "論文名稱": "Design of High-Speed Laser Diode Driver with Fast Switching and Reaction Time",
+      "會議名稱": " IEEE International Symposium on Integrated Circuits (ISIC2011)",
+      "作者群": "*Heng-Shou Hsu, Don Gey Liu , and Shih-Chi Liu"
+    },
+    {
+      "論文名稱": "High-Speed Laser Diode Driver with Low Sensitivity to Process Variation and Improvement on Overshoot Performance",
+      "會議名稱": "IEEE International Symposium on Integrated Circuits (ISIC2011)",
+      "作者群": "*Heng-Shou Hsu, Don Gey Liu , and Chia-Ming Chuang"
+    },
+    {
+      "論文名稱": "Pseudo Differential Operational Transconductance Amplifier using Common Mode Feed Forward and HD3 Feed Forward",
+      "會議名稱": " IEEE International Symposium on Integrated Circuits",
+      "作者群": "Yen Shuo Chang, Hong Chong Wu, Miin Shyue Shiau, Don Gey Liu, and Heng-Shou Hsu"
+    },
+    {
+      "論文名稱": "Design for Less Stress in the Pull-Down Transistors for On-panel TFT Gate Drivers",
+      "會議名稱": "International Meeting on Information Display (IMID 2011)",
+      "作者群": "Nan Xiong Huang, Miin Shyue Shiau, Po Hung Chen, Hong-Chong Wu, Heng-Shou Hsu, and Don Gey Liu"
+    },
+    {
+      "論文名稱": "A novel low-stress driven technique for on-panel TFT gate driver",
+      "會議名稱": "International Conference on Artificial Intelligence, Management Science and Electronic Commerce (AIMSEC)",
+      "作者群": "Nan Xiong Huang(黃男雄), Miin Shyue Shiau, Po Hung Chen(陳柏宏), Hong-Chong Wu, Heng-Shou Hsu, Don-Gey Liu"
+    },
+    {
+      "論文名稱": "The High-Speed Laser Diode Driver with Fast Reaction Time",
+      "會議名稱": "Electronic Technology Symposium",
+      "作者群": "*Heng-Shou Hsu, and Shih-Chi Liu"
+    },
+    {
+      "論文名稱": "The High-Speed Laser Diode Driver with Low-Sensitivity to Process Variation",
+      "會議名稱": " Electronic Technology Symposium",
+      "作者群": "*Heng-Shou Hsu, and Chia-Ming Chuang"
+    },
+    {
+      "論文名稱": "An ECG Front-End Subsystem for Portable Physiological Monitoring Applications",
+      "會議名稱": "2011 International Conference on Electric Information and Control Engineering (ICEICE)",
+      "作者群": "Hsiu-Cheng Lee, Don-Gey Liu,  Ching-Sung Lee, Yu-Ming Shiau, Miin-Shyiue Shiau, Kuang-Hung Chen, and Heng-Shou Hsu"
+    },
+    {
+      "論文名稱": "Design of detection circuits for high speed LVDS interface",
+      "會議名稱": "Workshop on Consumer Electrons",
+      "作者群": "Heng-Shou Hsu, and Hsieh-Wei Chun"
+    },
+    {
+      "論文名稱": "Design of High Speed Laser Diode Driver",
+      "會議名稱": "Workshop on Consumer Electrons",
+      "作者群": "Heng-Shou Hsu, and Hung-Chieh Chung"
+    },
+    {
+      "論文名稱": "High Speed Laser Diode Driver",
+      "會議名稱": "The 2009 IEEE International Symposium on Integrated Circuits (ISIC2009)",
+      "作者群": "Heng-Shou Hsu, Hung-Chieh Chung"
+    },
+    {
+      "論文名稱": "High Speed Off-Chip Data Transmission with Data Rate up to 500Mb/s",
+      "會議名稱": "2009 Electronic Technology Symposium",
+      "作者群": "Heng-Shou Hsu, Yu-Hung Chung"
+    },
+    {
+      "論文名稱": "CMOS 可調變增益放大器之設計",
+      "會議名稱": "2009 Electronic Technology Symposium",
+      "作者群": "Heng-Shou Hsu,陳韻如"
+    },
+    {
+      "論文名稱": "Design and Implementation of High-Speed Laser Diode Driver Circuitry for High-Speed Data Recording",
+      "會議名稱": "Progress in Electromagnetic Research Symposium (PIERS)",
+      "作者群": "Heng-SHou Hsu"
+    },
+    {
+      "論文名稱": "Built-In-Self-Test(BIST) Circuitry for LVDS-Type-Off-Chip Transmission with Speed up to 640Mb/s",
+      "會議名稱": "Progress in Electromagnetic Research Symposium (PIERS)",
+      "作者群": "Heng-Shou Hsu"
+    },
+    {
+      "論文名稱": "Design and Implementation of Novel Switching-Mode Output Driver with Off-Chip Transmission Speed up to 640Mb/s",
+      "會議名稱": "Progress in Electromagnetic Research Symposium (PIERS)",
+      "作者群": "Heng-Shou Hsu"
+    },
+    {
+      "論文名稱": "Novel Switching-Mode Output Driver with Off-Chip Transmission Speed up to 640Mb/s",
+      "會議名稱": "2007 IEEE International Conference on Electron Devices and Solid-State Circuits (EDSSC",
+      "作者群": "Heng-Shou Hsu"
+    },
+    {
+      "論文名稱": "Accurate Performance Evaluation of HEMT Devices for High-Speed Logic Applications through Rigorous Device Modeling Technique",
+      "會議名稱": "Asia-Pacific Microwave Conference",
+      "作者群": "Heng-Tung Hsu, Chia-Yuan Chang, Edward Yi Chang, and Heng-Shou Hsu"
+    },
+    {
+      "論文名稱": "Evaluation of RF and Logic Performance for 80nm InAs/InGaAs Composite Channel HEMTs Using Gate Sinking Technology",
+      "會議名稱": "2007 IEEE International Conference on Electro Devices and Solid-State Circuits (EDSSC)",
+      "作者群": "Chien-I Kuo, Heng-Tung Hsu, Chia-Yuan Chang, Edward Yi Chang, and Heng-Shou Hsu"
+    },
+    {
+      "論文名稱": "Fully Integrated CMOS SoC for 56/18/16 CD/DVD-dual/RAM Applications with On-Chip 4-LVDS Channel WSG and 1.5Gb/s SATA PHY",
+      "會議名稱": "IEEE Solid State Conference",
+      "作者群": "Heng-Shou Hsu; Chun-Yiu Lin; Shang-nien Tsai; Jenn-Ning Yang; Chien, S.; Kuan-Hua Chao;"
+    },
+    {
+      "論文名稱": "A New Design Technique of CMOS Continuous-Time VHF Current-Mode Bandpass Ladder Filters Using VHF Bandpass Biquads",
+      "會議名稱": "IEEE International Conference on Electronics, Circuits, and Systems",
+      "作者群": "Chung-Yu Wu, Heng-Shou Hsu"
+    },
+    {
+      "論文名稱": "The design of New Low-Voltage CMOS VHF Continuous-Time Lowpass Biquad Filters",
+      "會議名稱": "IEEE International Symp. on Circuits and Systems",
+      "作者群": "Chung-Yu Wu, Heng-Shou Hsu"
+    },
+    {
+      "論文名稱": "The continuous-time VHF lowpass filter design using finite-gain current and voltage amplifiers and special Q-enhancement circuit",
+      "會議名稱": "IEEE International Symp. on Circuits and Systems",
+      "作者群": "Chung-Yu Wu, Heng-Shou Hsu"
+    }
+  ],
+  "book": [
+    {
+      "專業書籍": "具內建責任周期校正機制之晶片間高速信號傳輸電路",
+      "出版單位": "科技部",
+      "作者群": "許恒壽*, 許銘峻"
+    },
+    {
+      "專業書籍": "提升高速信號傳輸品質之低電壓差動模式電路設計",
+      "出版單位": "行政院國家科學委員會",
+      "作者群": "許恒壽*, 盧冠宇"
+    },
+    {
+      "專業書籍": "高速雷射二極體驅動電路晶片之設計",
+      "出版單位": "行政院國家科學委員會",
+      "作者群": "許恒壽*, 鍾宏杰"
+    }
+  ],
+  "patent": [],
+  "most": [
+    {
+      "name": "具內建責任周期校正機制之晶片間高速信號傳輸電路",
+      "schoolYear": "102"
+    },
+    {
+      "name": "提升高速信號傳輸品質之低電壓差動模式電路設計",
+      "schoolYear": "99"
+    },
+    {
+      "name": "高速雷射二極體驅動電路晶片之設計",
+      "schoolYear": "97"
+    }
+  ],
+  "tech": [],
+  "induAca": [],
+  "perform": [],
+  "reward": [
+    "逢甲大學論文著作獎勵優良獎 (103, 2014-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (103, 2014-11) - 逢甲大學"
+  ],
+  "speech": [],
+  "material": [],
+  "tal": []
+}

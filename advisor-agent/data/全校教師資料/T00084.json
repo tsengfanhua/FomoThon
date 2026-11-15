@@ -1,0 +1,295 @@
+{
+  "teacherId": "T00084",
+  "name": "黃同瑤",
+  "mainUnit": "工程與科學學院",
+  "detailUnit": "應用數學系",
+  "skill": [
+    "最佳化Optimization",
+    "凸分析Convex Analysis"
+  ],
+  "edu": [
+    "私立中原大學 應用數學系 博士",
+    "國立中正大學 數學所 碩士"
+  ],
+  "fcuExp": [
+    "應用數學系 系主任",
+    "數據科學碩士學位學程 主任",
+    "微積分教學中心 助理教授",
+    "微積分教學中心 副教授",
+    "應用數學系 副教授"
+  ],
+  "currjob": [],
+  "otherExp": [
+    "日本新潟大學 教育研究高度化中心  助理教授",
+    "私立中原大學 應用數學系 助理教授"
+  ],
+  "journal": [
+    {
+      "論文名稱": "Second-ordered parametric duality for the multi-objective programming problem in complex space",
+      "期刊名稱": "Axioms (SCIE)",
+      "作者群": "Chia-Yu Hsu, Tone-Yau Huang*"
+    },
+    {
+      "論文名稱": "Optimality and duality for complex multi-objective programming",
+      "期刊名稱": "Numerical Algebra, Control and Optimization (ESCI)",
+      "作者群": "Tone-Yau Huang*, Tamaki Tanaka"
+    },
+    {
+      "論文名稱": "Optimality and duality for multi-objective fractional programming in complex spaces",
+      "期刊名稱": "Bulletin of the Malaysian Mathematical Sciences Society (SCIE)",
+      "作者群": "Tone-Yau Huang,  Shun-Chin Ho*"
+    },
+    {
+      "論文名稱": "Second-Order Parametric Free Dualities for Complex Minimax Fractional Programming",
+      "期刊名稱": "Mathematics (SCIE)",
+      "作者群": "Tone-Yau Huang"
+    },
+    {
+      "論文名稱": "Second-order mixed type duality for minimax fractional programming in complex spaces",
+      "期刊名稱": "Linear and Nonlinear Analysis (ISSN 2188-8159 (PRINT),   ISSN 2188-8167 (ONLINE))",
+      "作者群": "Tone-Yau Huang"
+    },
+    {
+      "論文名稱": "Second-order parametric duality for a minimax fractional programming in complex spaces",
+      "期刊名稱": "Journal of Nonlinear and Convex Analysis (SCIE)",
+      "作者群": "Tone-Yau Huang*, Hang-Chin Lai"
+    },
+    {
+      "論文名稱": "Second order duality for a non-differentiable minimax programming in complex spaces\r\n",
+      "期刊名稱": " International Journal of Computer Mathematics (SCIE)",
+      "作者群": "Tone-Yau Huang"
+    },
+    {
+      "論文名稱": "Mixed type duality for a Nondifferentiable Minimax Fractional Complex Programming",
+      "期刊名稱": "Pacific\nJournal of Optimization (SCIE)",
+      "作者群": "Hang-Chin Lai, Tone-Yau Huang*"
+    },
+    {
+      "論文名稱": "Nondifferentiable Minimax Fractional Programming in Complex\nSpaces with Parametric Duality",
+      "期刊名稱": "Journal of Global\nOptimization (SCIE)",
+      "作者群": "Hang-Chin Lai*, Tone-Yau Huang"
+    },
+    {
+      "論文名稱": "Complex Analysis Method Related an Optimization Problem with Complex Variables",
+      "期刊名稱": "European Journal of Pure and Applied Mathematics ()",
+      "作者群": "Hang-Chin Lai*, Tone-Yau Huang"
+    },
+    {
+      "論文名稱": "Optimality Conditions for a Nondifferentiable Minimax Programming in Complex Spaces",
+      "期刊名稱": "Nonlinear Analysis - Theory Methods & Applications (SCIE)",
+      "作者群": "Hang-Chin Lai*, Tone-Yau Huang"
+    },
+    {
+      "論文名稱": "Optimality Conditions for Nondifferentiable Minimax Fractional Programming with Complex Variables",
+      "期刊名稱": "Journal of Mathematical Analysis and Applications (SCIE)",
+      "作者群": "Hang-Chin Lai*, Tone-Yau Huang"
+    },
+    {
+      "論文名稱": "Minimax Fractional Programming for n-Set Functions and Mixed-Type Duality\r\nunder Generalized Invexity",
+      "期刊名稱": "Journal of Optimization Theory and Applications (SCIE)",
+      "作者群": "Hang-Chin Lai*, Tone-Yau Huang"
+    },
+    {
+      "論文名稱": "Optimization Theory for Set Functions in\r\nNondifferentiable Fractional Programming with Mixed type duality",
+      "期刊名稱": "Taiwanese journal of Mathematics (SCIE)",
+      "作者群": "Tone-Yau Huang, Hang-Chin Lai*, S. Schaible"
+    }
+  ],
+  "journal2": [],
+  "conference": [
+    {
+      "論文名稱": "Second order duality for a non-differentiable minimax complex programming with generalized Θ-bonvexity.",
+      "會議名稱": "The fifth Asian conference on Nonlinear Analysis and Optimization (NAO-Asia 2016)",
+      "作者群": "Tone-Yau Huang"
+    },
+    {
+      "論文名稱": "Mixed Type Duality for a Nondifferentiable Minimax Fractional Complex Programming",
+      "會議名稱": "NAO-Asia 2012",
+      "作者群": "Hang-Chin Lai*, Tone-Yau Huang"
+    }
+  ],
+  "book": [],
+  "patent": [],
+  "most": [
+    {
+      "name": "複變數規劃問題與基因演算法(2)",
+      "schoolYear": "113"
+    },
+    {
+      "name": "複變數規劃問題與基因演算法",
+      "schoolYear": "112"
+    },
+    {
+      "name": "複變數多目標分式型規劃之非參數對偶模型之研究",
+      "schoolYear": "111"
+    },
+    {
+      "name": "複變數多目標分式型規劃問題",
+      "schoolYear": "110"
+    },
+    {
+      "name": "複變數多目標規劃之二階對偶問題",
+      "schoolYear": "109"
+    },
+    {
+      "name": "複變數多目標函數對偶問題之研究",
+      "schoolYear": "108"
+    },
+    {
+      "name": "複變函數之二階凸性質與其應用",
+      "schoolYear": "107"
+    },
+    {
+      "name": "以數位學習與大數據分析改善微積分課程學習成效之研究",
+      "schoolYear": "106"
+    },
+    {
+      "name": "複變數函數之極小極大分式型規劃問題在二階參數型對偶問題之研究",
+      "schoolYear": "106"
+    },
+    {
+      "name": "極小極大複變數向量值函數最佳化問題之研究",
+      "schoolYear": "105"
+    },
+    {
+      "name": "複變數極小極大規劃在二階對偶性質之研究",
+      "schoolYear": "104"
+    },
+    {
+      "name": "極大極小定理在集合值函數推廣之研究",
+      "schoolYear": "101"
+    },
+    {
+      "name": "複變數函數之極大極小分式型規劃的混合型對偶問題之研究",
+      "schoolYear": "100"
+    }
+  ],
+  "tech": [],
+  "induAca": [],
+  "perform": [],
+  "reward": [
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (111, 2022-11) - 逢甲大學",
+    "111學年度教學績優獎 (111, 2022-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (110, 2021-11) - 逢甲大學",
+    "108學年度科技部補助大專校院研究獎勵 (108, 2019-09) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (107, 2018-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (107, 2018-11) - 逢甲大學",
+    "逢甲大學優良教材獎勵優等獎 (104, 2015-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (104, 2015-11) - 逢甲大學"
+  ],
+  "speech": [
+    {
+      "演講題目": "Wolfe type and Mond-Weir type duality models for the complex multi-objective fractional programming",
+      "邀請單位": "(NAOA2023)日本，新潟大學主辦",
+      "演講日期": "2023-06"
+    },
+    {
+      "演講題目": "Optimality and duality for multi-objective fractional programming in complex space.",
+      "邀請單位": "台灣大學(數學年會)",
+      "演講日期": "2022-01"
+    },
+    {
+      "演講題目": "Optimality and duality for complex multi-objective programming",
+      "邀請單位": "中興大學(數學年會)",
+      "演講日期": "2019-12"
+    },
+    {
+      "演講題目": "Second-order parametric free duality models for minimax fractional programming in complex spaces",
+      "邀請單位": "NACA-ICOTA2019(日本北海道函館-未來大學)",
+      "演講日期": "2019-08"
+    },
+    {
+      "演講題目": "Second-order mixed type duality for a minimax fractional programming in complex spaces",
+      "邀請單位": "日本新潟",
+      "演講日期": "2018-08"
+    },
+    {
+      "演講題目": "翻轉微積分",
+      "邀請單位": "雲端學院(MOOCs/SPOCs 課程推動經驗分享會)",
+      "演講日期": "2018-03"
+    },
+    {
+      "演講題目": "Second-order parametric duality for a minimax fractional programming in complex spaces",
+      "邀請單位": "NACA2017(日本千歲)",
+      "演講日期": "2017-07"
+    },
+    {
+      "演講題目": "Second order duality for a minimax programming in complex spaces",
+      "邀請單位": "東華大學(數學年會)",
+      "演講日期": "2016-12"
+    },
+    {
+      "演講題目": "Second order duality for a non-differentiable minimax programming in complex spaces",
+      "邀請單位": "NAO-Asia2016(日本新潟大學主辦)",
+      "演講日期": "2016-08"
+    },
+    {
+      "演講題目": "微積分翻轉教室Try! Try! Try!",
+      "邀請單位": "理學院教師教學成長社群",
+      "演講日期": "2015-04"
+    },
+    {
+      "演講題目": "Mixed Type Duality for Nondifferentiable Minimax Fractional Complex Programming",
+      "邀請單位": "ICOTA 2013(台科大主辦)",
+      "演講日期": "2013-12"
+    },
+    {
+      "演講題目": "Optimailty Conditions and Mixed Type Duality for Nondifferentiable Minimax Fractional Complex Programming",
+      "邀請單位": "NACA2013(日本青森縣 弘前大學)",
+      "演講日期": "2013-08"
+    },
+    {
+      "演講題目": "Mixed type duality for Nondifferentiable Minimax Fractional Complex Programming",
+      "邀請單位": "日本，新潟大學主辦",
+      "演講日期": "2012-07"
+    },
+    {
+      "演講題目": "Duality for Nondifferentiable Minimax Fractional Programming in complex spaces",
+      "邀請單位": "ICOTA 2010(上海，復旦大學主辦)",
+      "演講日期": "2010-12"
+    },
+    {
+      "演講題目": "Optimality Conditions for a Programming Problem -From Calculus to Optimal Problem",
+      "邀請單位": "日本，新潟大學主辦",
+      "演講日期": "2010-08"
+    },
+    {
+      "演講題目": "Optimality Conditions for Nondifferentiable Minimax Fractional Programming with Complex Spaces",
+      "邀請單位": "台日交流應用數學研討會(台灣師大主辦)",
+      "演講日期": "2010-02"
+    },
+    {
+      "演講題目": "Nondifferentiable Minimax Fractional Programming in Complex Spaces",
+      "邀請單位": "分析研討會 (清華大學",
+      "演講日期": "2009-12"
+    },
+    {
+      "演講題目": "Minimax Fractional Programming for n-Set Functions and Mixed-Type Duality under Generalized Invexity.",
+      "邀請單位": "NAO-Asia2008(日本島根縣島根大學)",
+      "演講日期": "2008-09"
+    },
+    {
+      "演講題目": "Optimality Conditions for a Nondifferentiable Minimax Programming in Complex Spaces.",
+      "邀請單位": "SJOM_4th(成功大學主辦)",
+      "演講日期": "2008-08"
+    },
+    {
+      "演講題目": "Optimization Theory for Set Functions in Nondifferentiable Fractional Programming with Mixed Type Duality.",
+      "邀請單位": "NACA2007(清華大學主辦)",
+      "演講日期": "2007-06"
+    },
+    {
+      "演講題目": "On the hyper (quasi/semi) normed spaces.",
+      "邀請單位": "青苗分析研討會(彰師大主辦)",
+      "演講日期": "2006-10"
+    }
+  ],
+  "material": [
+    "SPOC:微積分[微積分(一)大一統籌科目]-極限與連續單元影音教材\t應用數學系\t曾勵新，黃同瑤，許佳嶼，魏傳昇，張其棟，張志鴻\t微積分翻轉教室影音教材",
+    "SPOC:微積分[微積分(二)大一統籌科目]\t應用數學系/雲端學院\t林維鈞*、魏傳昇、張其棟、許佳璵、黃同瑤\tMOOCs/SPOCs",
+    "SPOC:微積分[微積分(二)大一統籌科目]-二重積分單元影音教材\t應用數學系/雲端學院\t林維鈞、魏傳昇、張其棟、許佳璵、黃同瑤*\tMOOCs/SPOCs",
+    "SPOC:微積分[微積分(二)大一統籌科目]-部分積分及三角函數代換等積分技巧單元影音教材\t應用數學系/雲端學院\t林維鈞、魏傳昇、張其棟、許佳璵*、黃同瑤\tMOOCs/SPOCs"
+  ],
+  "tal": []
+}

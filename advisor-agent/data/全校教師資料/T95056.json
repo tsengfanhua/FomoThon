@@ -1,0 +1,188 @@
+{
+  "teacherId": "T95056",
+  "name": "廖本義",
+  "mainUnit": "資訊電機學院",
+  "detailUnit": "自動控制工程學系",
+  "skill": [
+    "醫學工程Biomedical Engineering",
+    "生醫訊號處理分析Biomedical signal processing",
+    "生物力學Biomechanics"
+  ],
+  "edu": [
+    "逢甲大學 電機與通訊工程研究所 博士",
+    "陽明大學 醫學工程研究所 碩士",
+    "中興大學 農業機械工程 學士"
+  ],
+  "fcuExp": [
+    "智慧聯網產業博士學位學程 主任",
+    "視光科技碩士在職學位學程 主任",
+    "資訊電機工程碩士在職專班 主任",
+    "資訊電機工程碩士在職學位學程 主任",
+    "光電能源與視覺科技碩士在職專班 主任",
+    "電機工程學系 兼任講師",
+    "自動控制工程學系 兼任講師",
+    "自動控制工程學系 副教授"
+  ],
+  "currjob": [],
+  "otherExp": [
+    "弘光科技大學 醫工系 系主住",
+    "弘光科技大學 醫工系 副教授",
+    "美國范德堡大學 醫學中心 交換學生"
+  ],
+  "journal": [
+    {
+      "論文名稱": "Hippocampal volume asymmetry in Alzheimer disease : A systematic review and meta-analysis",
+      "期刊名稱": "Medicine (SCIE)",
+      "作者群": "Yori Pusparani, Chih-Yang Lin, Yih-Kuen Jan, Fu-Yu Lin, Ben-Yi Liau, John Sahaya Rani Alex, Jeetashree Aparajeeta, Wen-Hung Chao, Chi-Wen Lung*"
+    },
+    {
+      "論文名稱": "The relationship between cardiovagal baroreflex and cerebral autoregulation in postural orthostatic tachycardia disorder using advanced cross-correlation function",
+      "期刊名稱": "Scientific Reports (SCIE)",
+      "作者群": "Shoou-Jeng Yeh, Chi-Wen Lung, Yih-Kuen Jan, Lin-Lin Lee, Yao-Chin Wang, Ben-Yi Liau*"
+    },
+    {
+      "論文名稱": "Editorial for the Special Issue on Sensors and Wearable Technologies in Sports Biomechanics",
+      "期刊名稱": "Sensors (SCIE)",
+      "作者群": "Yih-Kuen Jan*, Chi-Wen Lung, Ben-Yi Liau, Manuel E. Hernandez"
+    },
+    {
+      "論文名稱": "Measures of Gait Complexity during the Timed Up-and-Go Test in Older Adults with Vertebral Compression Fracture",
+      "期刊名稱": "Journal of Medical and Biological Engineering (SCIE)",
+      "作者群": "Chen-I Kao,· Ben-Yi Liau, · Fang-Chuan Kuo*"
+    },
+    {
+      "論文名稱": "Effect of different inner pressures of air insoles and walking durations on plantar pressure time integral",
+      "期刊名稱": "Scientific Reports (SCIE)",
+      "作者群": "Gilang Titah Ramadhan, Fahni Haris, Yih‑Kuen Jan, Ben‑Yi Liau, Wen‑Thong Chang, Chien‑Cheng Tai, Chi‑Wen Lung*"
+    },
+    {
+      "論文名稱": "Deep Learning Applications in MRI-Based Detection of the Hippocampal Region for Alzheimer’s Diagnosis",
+      "期刊名稱": "IEEE Access (SCIE)",
+      "作者群": "YORI PUSPARANI, CHIH-YANG LIN, YIH-KUEN JAN, FU-YU LIN, BEN-YI LIAU, PETER ARDHIANTO, ELVIN NUR FURQON, JOHN SAHAYA RANI ALEX, JEETASHREE APARAJEETA, CHI-WEN LUNG*"
+    },
+    {
+      "論文名稱": "Effect of negative pressure therapy on the treatment response to scar thickness and viscoelasticity",
+      "期刊名稱": "Frontiers in Bioengineering and Biotechnology (SCIE)",
+      "作者群": "Wei-Cheng Shen, Hsu-Tang Cheng, Yih-Kuen Jan, Ben-Yi Liau, Chang-Wei Hsieh, Jian-Guo Bau, Chien-Cheng Tai, Chi-Wen Lung*"
+    },
+    {
+      "論文名稱": "Plantar pressure gradient and pressure gradient angle are affected by inner pressure of air insole",
+      "期刊名稱": "Frontiers in Bioengieering and Biotechnology (SCIE)",
+      "作者群": "Fahni Haris, Yih-Kuen Jan, Ben-Yi Liau, Chang-Wei Hsieh, Wei-Cheng Shen, Chien-Cheng Tai, Yin-Hwa Shih, Chi-Wen Lung*"
+    },
+    {
+      "論文名稱": "The effects of different inner pressures of air insoles and walking durations on peak plantar pressure",
+      "期刊名稱": "Medicine (SCIE)",
+      "作者群": "Haris, F., Y.-K. Jan, B.-Y. Liau, C.-W. Hsieh, W.-C. Shen, C.-C. Tai, Y.-H. Shih and C.-W. Lung*"
+    },
+    {
+      "論文名稱": "An approach to the diagnosis of Lumbar Disc Herniation Using Deep Learning Models",
+      "期刊名稱": "Frontiers in Bioengineering and Biotechnology (SCIE)",
+      "作者群": "Ardha Ardea Prisilla, Yue Leon Guo, Yih-Kuen Jan, Chih-Yang Lin, Fu-Yu Lin, Ben-Yi Liau, Jen-yung Tsai, Peter Ardhianto, Yori Pusparani, Chi-Wen Lung*"
+    },
+    {
+      "論文名稱": "Using cross-correlation analysis of multi-channel near infrared spectroscopy to assess the hemodynamic response to cupping therapy",
+      "期刊名稱": "Biomedical Optics Express (SCIE)",
+      "作者群": "BEN-YI LIAU, CHI-WEN LUNG, MANUEL E. HERNANDEZ, PU-CHUN MO, YAMENG LI, JIAQI GUO, YIH-KUEN JAN*"
+    },
+    {
+      "論文名稱": "Diagnosis of Alzheimer’s Disease Using Convolutional Neural Network With Select Slices by Landmark on Hippocampus in MRI Images",
+      "期刊名稱": "IEEE Access (SCIE)",
+      "作者群": "YORI PUSPARANI, CHIH-YANG LIN, YIH-KUEN JAN, FU-YU LIN, BEN-YI LIAU, PETER ARDHIANTO, ISACK FARADY, JOHN SAHAYA RANI ALEX, JEETASHREE APARAJEETA, WEN-HUNG CHAO, CHI-WEN LUNG*"
+    },
+    {
+      "論文名稱": "Correlation Among Disease Activity, Musculoskeletal Function, and Quality of Life in Patients with Ankylosing Spondylitis with Mild to Moderate Radiographic Signs",
+      "期刊名稱": "Journal of Medical and Biological Engineering (SCIE)",
+      "作者群": "Chen‑I Kao, Ben‑Yi Liau, Kuo‑Lung Lai, Fang‑Chuan Kuo*"
+    },
+    {
+      "論文名稱": "Effectiveness of self-management of dry and wet cupping therapy for low back pain: A systematic review and meta-analysis",
+      "期刊名稱": "MEDICINE (SCIE)",
+      "作者群": "Shen W-C, Jan Y-K, Liau B-Y, Lin Q, Wang S, Tai C-C, Lung C-W"
+    },
+    {
+      "論文名稱": "Deep Learning in Left and Right Footprint Image Detection Based on Plantar Pressure",
+      "期刊名稱": "Applied Sciences (SCIE)",
+      "作者群": "Peter Ardhianto, Ben-Yi Liau, Yih-Kuen Jan, Jen-Yung Tsai, Fityanul Akhyar, Chih-Yang Lin, Raden Bagus Reinaldy Subiakto and Chi-Wen Lung"
+    },
+    {
+      "論文名稱": "Effects of walking speeds and durations on the plantar pressure gradient and pressure gradient angle",
+      "期刊名稱": "BMC Musculoskeletal Disorders (SCIE)",
+      "作者群": "Chi-Wen Lung, Pu-Chun Mo, Chunmei Cao, Keying Zhang, Fu-Lien Wu, Ben-Yi Liau & Yih-Kuen Jan"
+    },
+    {
+      "論文名稱": "Advanced cross-correlation function application to identify arterial baroreflex sensitivity variations from healthy to diabetes mellitus",
+      "期刊名稱": "Frontiers in Neuroscience (SCIE)",
+      "作者群": "Shoou-Jeng Yeh, Chi-Wen Lung, Yih-Kuen Jan, Ben-Yi*"
+    },
+    {
+      "論文名稱": "A Deep Learning Method for Foot Progression Angle Detection in Plantar Pressure Images",
+      "期刊名稱": "sensors (SCIE)",
+      "作者群": "Peter Ardhianto, Jen-Yung Tsai, Chih-Yang Lin, Yih-Kuen Jan, Ben-Yi Liau, Veit Babak Hamun Akbari, Chi-Wen Lung"
+    }
+  ],
+  "journal2": [],
+  "conference": [
+    {
+      "論文名稱": "Using Multiscale Entropy to Quantify the Complexity of Blood Pressure in Patients with Hypertensive Cardiovascular Disease",
+      "會議名稱": "The 6th Global Conference on Biomedical Engineering (GCBME 2024)",
+      "作者群": "Shoou-Jeng Yeh, Chi-Wen Lung, Yih-Kuen Jan, Lin-Lin Lee, Ben-Yi Liau*"
+    },
+    {
+      "論文名稱": "Using cross-correlation function to evaluate cardiovascular disease progress by blood pressure, blood flow, and respiratory signals in hypertension and stroke",
+      "會議名稱": "International Conference on Intelligent Technology and Sustainable Environment (ICITSE 2024)",
+      "作者群": "Shoou-Jeng Yeh, Chi-Wen Lung, Yih-Kuen Jan, Ben-Yi Liau*"
+    },
+    {
+      "論文名稱": "The Effect of Heating Design on Skin Hardness During Negative Pressure Therapy",
+      "會議名稱": "2023 年生物醫學工程科技研討會 (TSBME 2023)",
+      "作者群": "Yu-Shuan Lee, Chi-Wen Lung, Ben-Yi Liau, Yung-Sheng Lin, Wei -Cheng Shen*"
+    },
+    {
+      "論文名稱": "Benefits of vibrator design conditions on skin microcirculation",
+      "會議名稱": "2023 年生物醫學工程科技研討會 (TSBME 2023)",
+      "作者群": "Yu-Hsin Shih, Chi-Wen Lung, Ben-Yi Liau, Yung-Sheng Lin, Wei -Cheng Shen"
+    },
+    {
+      "論文名稱": "ESTABLISHMENT OF MULTI-FACE INTELLIGENT RECOGNITION AND QUANTIFICATION SYSTEM BASED ON YOLOv5 MODEL",
+      "會議名稱": "2023 年生物醫學工程科技研討會 (TSBME 2023)",
+      "作者群": "Y.-M. Jian,T.-J. Chiang, M.-Y. Li, C.-W. Lung, Y.-K. Jan, B.-Y. Liau*"
+    }
+  ],
+  "book": [],
+  "patent": [],
+  "most": [
+    {
+      "name": "結合近紅外光譜與光學同調斷層掃描術開發極近似三維空間熵定量法應用於負壓對疤痕組織治癒影響之研究",
+      "schoolYear": "113"
+    },
+    {
+      "name": "直覺化機車導航輔助系統之開發",
+      "schoolYear": "112"
+    }
+  ],
+  "tech": [],
+  "induAca": [],
+  "perform": [],
+  "reward": [
+    "逢甲大學論文著作獎勵傑出獎 (113, 2024-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (113, 2024-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (113, 2024-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (113, 2024-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (113, 2024-11) - 逢甲大學"
+  ],
+  "speech": [
+    {
+      "演講題目": "應用於人體恆定系統評估之跨域生醫研究",
+      "邀請單位": "中興大學生醫工程所",
+      "演講日期": "2024-04"
+    },
+    {
+      "演講題目": "智慧檢測於生醫系統之應用研究",
+      "邀請單位": "智慧化辨識系統教師社群",
+      "演講日期": "2023-10"
+    }
+  ],
+  "material": [],
+  "tal": []
+}

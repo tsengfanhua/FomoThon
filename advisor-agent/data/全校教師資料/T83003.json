@@ -1,0 +1,2284 @@
+{
+  "teacherId": "T83003",
+  "name": "張興政",
+  "mainUnit": "資訊電機學院",
+  "detailUnit": "自動控制工程學系",
+  "skill": [
+    "微機電系統MEMS",
+    "感測器與自動量測Sensors and Measurement Automation",
+    "工程科技教育Engineering and Technology Education",
+    "半導體元件與製程Semiconductor Devices and Fabrication"
+  ],
+  "edu": [
+    "美國辛辛那堤大學 電機與計算機工程研究所 博士",
+    "私立淡江大學 物理研究所 碩士",
+    "美國辛辛那堤大學 電機與計算機工程研究所 碩士",
+    "私立淡江大學 物理系 學士"
+  ],
+  "fcuExp": [
+    "自動控制工程學系 系主任",
+    "自動控制工程學系(所) 副教授",
+    "自動控制工程學系 教授",
+    "自動控制工程學系 教授",
+    "自動控制工程學系 教授",
+    "自動控制工程學系 教授",
+    "自動控制工程學系 教授",
+    "自動控制工程學系 教授",
+    "自動控制工程學系 教授",
+    "自動控制工程學系 教授"
+  ],
+  "currjob": [],
+  "otherExp": [
+    "私立東南工業專科學校 電子科 講師"
+  ],
+  "journal": [
+    {
+      "論文名稱": "Induced transition from Schottky to ohmic contact in In/n-type Si owing to (NH4)2Sx treatment",
+      "期刊名稱": "Indian J Phys (SCIE)",
+      "作者群": "X-Y Lin , H-C Chang , B-L Huang and Y-J Lin *"
+    },
+    {
+      "論文名稱": "Interaction of defects with solar irradiation for devices used ZnO/Ga2O3 heterojunctions in which Ga2O3 prepared using oxidation of the heavily doped p-type GaAs",
+      "期刊名稱": "Chinese Journal of Physics (SCIE)",
+      "作者群": "Yow-Jon Lin*, Meng-Hsun Lin, Jing-Shiuan Huang, Hsing-Cheng Chang"
+    },
+    {
+      "論文名稱": "Effects of the addition of graphene on the defect-related photoluminescent  and electrical properties of n-type ZnO thin films",
+      "期刊名稱": "Journal of Luminescence (SCIE)",
+      "作者群": "Yow-Jon Lin, Jing-Shiuan Huang, Hsing-Cheng Chang, C. Y. Chuang, Men-Hsun Lin"
+    },
+    {
+      "論文名稱": "A source of free holes in NiO thin films with different nickel content that are prepared using the sol-gel method",
+      "期刊名稱": "Materials Chemistry and Physics (SCIE)",
+      "作者群": "Yow-Jon Lin, Ting-Hong Su, Po-Chih Kuo, Hsing-Cheng Chang"
+    },
+    {
+      "論文名稱": "Design and Implementation of an Intelligent Autonomous Surveillance System for Indoor Environments",
+      "期刊名稱": "IEEE Sensors Journal (SCIE)",
+      "作者群": "Hsing-Cheng Chang, Yu-Liang Hsu*, Ching-Yuan Hsiao, and Yi-Fan Chen"
+    },
+    {
+      "論文名稱": "Electrical and ferromagnetic properties of p-type ZnO thin films with and without the addition of graphene prepared by the sol-gel method",
+      "期刊名稱": "Journal of Alloys and Compounds (SCIE)",
+      "作者群": "Yow-Jon Lin*, Hsing-Cheng Chang, C. Y. Chuang, Ping-En Lu, Jing-Shiuan Huang"
+    },
+    {
+      "論文名稱": "Parallel-packaged multiple-gas microsensors based on hollowed nanostructures of doped tin oxides",
+      "期刊名稱": "Microsystem Technologies (SCIE)",
+      "作者群": "Hsing-Cheng Chang, Yu-Liang Hsu*, Shyan-Lung Lin, Ya-Hui Chen, Tai-Jiun Guo, and Fan-Wei Cheng"
+    },
+    {
+      "論文名稱": "Autonomous water quality monitoring and water surface cleaning for unmanned surface vehicle",
+      "期刊名稱": "Sensors (SCIE)",
+      "作者群": "Hsing-Cheng Chang, Yu-Liang Hsu*, San-Shan Hung, Guan-Ru Ou, Jia-Ron Wu, and Chuan Hsu"
+    },
+    {
+      "論文名稱": "Effects of graphene content on resistive switching for Au/poly(methyl methacrylate): reduced graphene oxide/heavily doped p-type Si devices",
+      "期刊名稱": "Indian Journal of Physics (SCIE)",
+      "作者群": "Yow-Jon Lin*, Chang-Lin Wu, Zun-Yuan Ke, Hsing-Cheng Chang"
+    },
+    {
+      "論文名稱": "Incorporation of polyvinyl alcohol into ZrO2 to modulate the hysteresis\u0002type current–voltage characteristics of Au/ZrO2/heavily doped p-type Si\ndevices",
+      "期刊名稱": "Indian Journal of Physics (SCIE)",
+      "作者群": "J-F Yu , Y-J Lin *, M-H Lin, H-C Chang"
+    },
+    {
+      "論文名稱": "Optical properties and defects of ZnO nanorods that are modified by treatment with H2O2 and used as conductive filaments for poly(methyl methacrylate)-based resistive switching applications",
+      "期刊名稱": "Bulletin of Materials Science (SCIE)",
+      "作者群": "Nian-Hao Yan, Yow-Jon Lin *, Ting-Hong Su, Hsing-Cheng Chang"
+    },
+    {
+      "論文名稱": "Electrochemical properties and trap states of TiO2 nanoparticles modified by doping with graphene and used as counter electrodes for dye-sensitized solar cell applications",
+      "期刊名稱": "Indian Journal of Physics (SCIE)",
+      "作者群": "Y. J. Lin*, C. L. Wu, H. C. Chang"
+    },
+    {
+      "論文名稱": "Wearable sport activity classification based on deep convolutional neural network",
+      "期刊名稱": "IEEE Access (SCIE)",
+      "作者群": "Yu-Liang Hsu*, Hsing-Cheng Chang, and Yung-Jung Chiu"
+    },
+    {
+      "論文名稱": "Electrical and surface properties of SiO2 films modified by ultraviolet irradiation and used as gate dielectrics for  pentacene thin-film transistor applications",
+      "期刊名稱": "Chinese Journal of Physics (SCIE)",
+      "作者群": "Y. Lin*, C. Hung, J. Huang, S. Lin, and H. C. Chang"
+    },
+    {
+      "論文名稱": "Ohmic-rectification conversion that is tuned using H2O2 for enhanced rectification and optoelectronic performance in MoS2/ZnO nanorod devices",
+      "期刊名稱": "Chinese Journal of Physics (SCIE)",
+      "作者群": "Yow-Jon Lin, Cheng-You Wu, Hsing-Cheng Chang"
+    },
+    {
+      "論文名稱": "Vibration measurement and suppression for laser galvanometers using a micro-electromechanical system-based accelerometer",
+      "期刊名稱": "Sensors and Materials (SCIE)",
+      "作者群": "Po-Huan Chou, Yu-Liang Hsu*, Shih-Chin Yang, Hsing-Cheng Chang, Yu-Chen Kuo, Li-Feng Chiu, and Yu-Tai Chen"
+    },
+    {
+      "論文名稱": "Human daily and sport activity recognition using a wearable inertial sensor network",
+      "期刊名稱": "IEEE Access (SCIE)",
+      "作者群": "Yu-Liang Hsu*, Shih-Chin Yang, Hsing-Cheng Chang, and Hung-Che Lai"
+    },
+    {
+      "論文名稱": "Effects of H2O2 treatment on the temperature-dependent behavior of carrier transport and the optoelectronic properties for sol–gel grown MoS2/Si nanowire/Si devices",
+      "期刊名稱": "Journal of Materials Science: Materials in Electronics (SCIE)",
+      "作者群": "Cheng-You Wu, Yow-Jon Lin, Hsing-Cheng Chang, Ya-Hui Chen"
+    },
+    {
+      "論文名稱": "Responsibility to solar irradiation and the response time of photodetectors that use ZnO nanoparticles with and without thermal annealing in pure oxygen ambient",
+      "期刊名稱": "Optik (SCIE)",
+      "作者群": "Yow-Jon Lin*, Gi-Min Chang, Hsing-Cheng Chang, Ya-Hui Chen"
+    },
+    {
+      "論文名稱": "Behavior of carrier transports and responsivity to solar irradiation for poly(3-hexylthiophene)/silicon devices with and without the insertion of silicon nanowires and the addition of black phosphorus",
+      "期刊名稱": "Thin Solid Films (SCIE)",
+      "作者群": "Yow-Jon Lin, Hong-Zhi Lin, Hsing-Cheng Chang, Ya-Hui Chen"
+    },
+    {
+      "論文名稱": "Solar-irradiation photodetectors based on ZnO nanoparticles with gold and indium electrodes",
+      "期刊名稱": "Optik (SCIE)",
+      "作者群": "Yow-Jon Lin*, Yao-Ming Chen, Hsing-Cheng Chang, Ya-Hui Chen"
+    },
+    {
+      "論文名稱": "Electrical and optoelectronic propertes for devices that use MoS2 deposited on Si substrates with and without (NH4)2Sx treatment by chemical vapor deposition",
+      "期刊名稱": "J. Mater Sci. : Mater Electron (SCIE)",
+      "作者群": "Ting-Hong Su, Chang-Lin Wu, Hsing-Cheng Chang, Yow-Jon Lin"
+    },
+    {
+      "論文名稱": "Design and implementation of a smart home system using multisensor data fusion technology",
+      "期刊名稱": "Sensors (SCIE)",
+      "作者群": "Yu-Liang Hsu*, Po-Huan Chou, Hsing-Cheng Chang, Shyan-Lung Lin, Shih-Chin Yang, Heng-Yi Su, Chih-Chien Chang, Yuan-Sheng Cheng, and Yu-Chen Kuo"
+    },
+    {
+      "論文名稱": "Nanofiber-based brush-distributed sensor for detecting heavy metal ions",
+      "期刊名稱": "Microsystem Technologies (SCIE)",
+      "作者群": "Hsing-Cheng Chang*, Yu-Liang Hsu, Cheng-Yan Tsai, Ya-Hui Chen, and Shyan-Lung Lin"
+    },
+    {
+      "論文名稱": "Nanoflower structures of ZnO-SnO2 arranged on nanoporous Al2O3 for sensing ethanol and methanol gases",
+      "期刊名稱": "Microsystem Technologies (SCIE)",
+      "作者群": "Hsing-Cheng Chang*, Yu-Liang Hsu, Wen-Chieh Huang, Ya-Hui Chen, and I-Nan Chang"
+    },
+    {
+      "論文名稱": "Dependence of Carrier Transport of [6,6]-phenyl C61-butyric Acid Methyl Ester/p-Type Si Diodes upon Incorporation of ZnO Nanoparticles",
+      "期刊名稱": "ECS Journal of Solid State Science and Technology (SCIE,TSSCI)",
+      "作者群": "Yow-Jon Lin, Yi-Min Chin, Hsing-Cheng Chang"
+    },
+    {
+      "論文名稱": "A Portable Array-Type Optical Fiber Sensing Instrument for Real-Time Gas Detection",
+      "期刊名稱": "Sensors (SCIE,TSSCI)",
+      "作者群": "San-Shan Hung, Hsing-Cheng Chang, I-Nan Chang"
+    },
+    {
+      "論文名稱": "A wearable inertial measurement system with complementary filter for gait analysis of patients with stroke or Parkinson’s disease",
+      "期刊名稱": "IEEE Access (SCIE)",
+      "作者群": " Hsing-Cheng Chang*,  Yu-Liang Hsu,  Shih-Chin Yang,  Jung-Chih Lin, and Zhi-Hao Wu"
+    },
+    {
+      "論文名稱": "Simulation of mechanical resistive loading on an optimal respiratory control model with added dead space and CO2 breathing",
+      "期刊名稱": "Applied Mathematical Modelling (SCIE)",
+      "作者群": "Shyan-Lung Lin*, Hsing-Cheng Chang, Chieh-Liang Wu"
+    },
+    {
+      "論文名稱": "Incorporation of black phosphorus into P3HT:PCBM/n-type Si devices resulting in improvement in electrical and optoelectronic performances",
+      "期刊名稱": "Applied Physics A (SCIE,TSSCI)",
+      "作者群": "Yow-Jon Lin, Hong-Zhi Lin, Nian-Hao Yan, Zhi-Hui-Tang, Hsing-Cheng Chang"
+    },
+    {
+      "論文名稱": "Electrical and optoelectronic properties of [6,6]-phenyl C61-butyric acid methyl ester: Black phosphorus/p-type Si devices",
+      "期刊名稱": "Microelectronic Engineering (SCIE,TSSCI)",
+      "作者群": "Yow-Jon Lin, Hong-Zhi Lin, Zhi-Hui Tang, Hsing-Cheng Chang"
+    },
+    {
+      "論文名稱": "Automatic microfluidic fluorescence-array measurement system for detecting organic phosphate",
+      "期刊名稱": "Technology and Health Care (SCIE)",
+      "作者群": "Hsing-Cheng Chang, Jung-Chih Lin, Shyan-Lung Lin, I-Nan Chang, Chern-Sheng Lin, Shi-Yao Chen"
+    },
+    {
+      "論文名稱": "Extrinsic and intrinsic performance effects on the electrical property in few-layer graphene",
+      "期刊名稱": "Applied Physics A (SCIE,TSSCI)",
+      "作者群": "Yow-Jon Lin, Cheng-Chun Hung, Jian-Jhou Zeng, Hsing-Cheng Chang"
+    },
+    {
+      "論文名稱": "Using Nonlinear Respiratory Mechanics to Optimize the Respiratory Signals under Eucapnic and Hypercapnic Conditions",
+      "期刊名稱": "Transactions of the Canadian Society for Mechanical Engineer (SCIE)",
+      "作者群": "Shyan-Lung Lin*, Hsing-Cheng Chang, Yu-Zhe Tsai"
+    },
+    {
+      "論文名稱": "Luminescence behavior and compensation effect on the hole concentration in the sol-gel Zn1-xCuxSy films with different compositions",
+      "期刊名稱": "Journal of Luminescence (SCIE)",
+      "作者群": "Wei-Shih Ni, Yow-Jon Lin, Hsing-Cheng Chang, Chia-Jyi Liu, Liang-Ru Chen"
+    },
+    {
+      "論文名稱": "Rectifying performance of p-type tin(II) sulfide contacts on n-type silicon: Effect of silicon nanowire sulfidation on electronic transport of heterojunction diodes",
+      "期刊名稱": "Materials Science in Semiconductor Processing (SCIE)",
+      "作者群": "Cheng-He Ruan, YowuJon Lin, Ya-Hui Chen, Hsing-Cheng Chang"
+    },
+    {
+      "論文名稱": "Gold-deposited nanoporous anodic aluminium oxide structures patterned on specified microfluidic areas for enhancing chemiluminescence reactions",
+      "期刊名稱": "Materials Research Innovations (SCIE)",
+      "作者群": "洪三山，陳雅惠，張興政"
+    },
+    {
+      "論文名稱": "Tuning charge transport in pentacene thin-film transistors using the strain-induced electron-phonon coupling modification",
+      "期刊名稱": "Applied Physics A: Materials Science & Processing (SCIE)",
+      "作者群": "Yow-Jon Lin, Hsing-Cheng Chang, Day-Shan Liu"
+    },
+    {
+      "論文名稱": "Environmental effects on temperature-dependent carrier transports in poly(3-hexylthiophene) films",
+      "期刊名稱": "Applied Physics A: Materials Science & Processing (SCIE)",
+      "作者群": "Yow-Jon Lin, Yi-Min Chin, Hsing-Cheng Chang"
+    },
+    {
+      "論文名稱": "Effects of sulfide treatment on the photoluminescent and structural properties of electrodeposited CdS films",
+      "期刊名稱": "Journal of Luminescence (SCIE)",
+      "作者群": "Yow-Jon Lin , Chang-Feng You, Hsing-Cheng Chang, Chia-0Jyi Liu, Chi-Ann Wu"
+    },
+    {
+      "論文名稱": "Temperature-dependent electrical properties for graphene Schottky contact on n-type Si with and without sulfide treatment",
+      "期刊名稱": "Applied Physics A: Materials Science & Processing (SCIE)",
+      "作者群": "Yow0-jon Lin,Jian-Jhou Zeng, Hsing-Cheng Chang"
+    },
+    {
+      "論文名稱": "The Effect of Added Dead Space on Optimal Neuro-Muscular Drive and Respiratory Signals under Hypercapnia",
+      "期刊名稱": "Journal of Applied Research and Technology (SCIE)",
+      "作者群": "Shyan-Lung Lin, H.C. Chang, C.Y. Huang"
+    },
+    {
+      "論文名稱": "Interface Modification and trap-type transformation in Al-doped CdO/Si-nanowire array/p-type Si devices by nanowire surface passivation",
+      "期刊名稱": "Current Applied Physics (SCIE)",
+      "作者群": "Yow-Jon Lin, Wei-Min Cho, Hsing-Cheng Chang, Ya-Hui Chen"
+    },
+    {
+      "論文名稱": "Optimization of the Neural Muscular Drive and Respiratory Signals under Dead Space Loading and CO2 Inhalation",
+      "期刊名稱": "Applied Mechanics and Materials (EI)",
+      "作者群": "Shyan-Lung Lin, Tsung-Chi Chen, Hsing-Cheng Chang"
+    },
+    {
+      "論文名稱": "An Optical Centrifugal-and-Pneumatic Controlled Microfluidic System for Sensing Real-Time Biochemical Reactions",
+      "期刊名稱": "Applied Mechanics and Materials (EI)",
+      "作者群": "Hsing-Cheng Chang, Ya-Hui Chen, Shyan-Lung Lin, and San-Shan Hung"
+    },
+    {
+      "論文名稱": "An optomechatronic curvature measurement array based on fiber Bragg gratings",
+      "期刊名稱": "Measurement Science and Technology (SCIE)",
+      "作者群": "Hsing-Cheng Chang, I-Nan Chang, Ya-Hui Chen, Shyan-Lung Lin,\r\nSan-Shan Hung, Jung-Chih Lin and Wen-Fung Liu"
+    },
+    {
+      "論文名稱": "Modified nanoporous membranes on cetrifugal microfluidic platform for detecting heavy metal ions",
+      "期刊名稱": "Materials research innovationsa (SCIE)",
+      "作者群": "H.-C. Chang, Y.-H. Chen, A.-T. Lo, S.-S. Hung, S.-L. Lin, I.-N. Chang, J.-C. Lin"
+    },
+    {
+      "論文名稱": "Electrical properties of CuxZnySnS4 films with different Cu/Zn ratios",
+      "期刊名稱": "Thin Solid Films (SCIE)",
+      "作者群": "Cheng-He Ruan, Chung-Cheng Huang, Yow-Jon Lin, Guan-Ru He, Hsing-Cheng Chang, Ya-Hui Chen"
+    },
+    {
+      "論文名稱": "Effect of Co content on magnetic and optical properties of Zn1-xCoxOy nanorods",
+      "期刊名稱": "Journal of Alloys and Compounds (SCIE)",
+      "作者群": "Jia-Hong, Yow-Jon Lin, Hsing-Cheng Chang, Ya-Hui Chen, Lance Horng, Chia-Chi Chang"
+    },
+    {
+      "論文名稱": "Effects of H2O2 treatment on the optical and structural properties of ZnO nanorods and the electrical properties of conductive polymer/ZnO-nanorod array diodes",
+      "期刊名稱": "thin solid films (SCIE)",
+      "作者群": "Shih-Hung Yang, Yow-Jon Lin, Hsing-Cheng Chang, Ya-Hui Chen"
+    },
+    {
+      "論文名稱": "Ferromagnetic and luminescence properties of Zn1-xMnxOy nanorods",
+      "期刊名稱": "Solid State Communication (SCIE)",
+      "作者群": "Jia-Hong Chen, Yow-Jon Lin, Hsing-Cheng Chang, Ya-Hui Chen, Lance Horng, Chia-Chi Chang"
+    },
+    {
+      "論文名稱": "A Cerebral Autoregulation Simulator based on the Model of Intracranial Dynamics",
+      "期刊名稱": "Journal of Pure and Applied Microbiology (SCIE)",
+      "作者群": "Shyan-Lung Lin, Hua-Wei Lin, Hsing-Cheng Chang"
+    },
+    {
+      "論文名稱": "An Automatic Anemometer Based on the Technology of Double-Ring Thermoelectric Sensing Structure",
+      "期刊名稱": "Advanced Materials Research (EI)",
+      "作者群": "Hsing-Cheng Chang*, San-Shan Hung, Shyan-Lung Lin, I-Nan Chang, Chi-Chih Lai"
+    },
+    {
+      "論文名稱": "A Novel Integrated Portable Elasticity Measurement System",
+      "期刊名稱": "Applied Mechanics and Materials (EI)",
+      "作者群": "Hsing-Cheng Chang*, Chung-Chien Chiang, San-Shan Hung, Shyan-Lung Lin, Shu-Chun Liao, and Chang-Hsiung Chen"
+    },
+    {
+      "論文名稱": "Electronic transport for polymer/Si-nanowire arrays/n-type Si diodes with and without Si-nanowire surface passvation",
+      "期刊名稱": "Microelectronic Engineering (SCIE)",
+      "作者群": "Wei-Min Cho, Yow-Jon Lin, Hsing-Cheng Chang, Ya-Hui Chen"
+    },
+    {
+      "論文名稱": "Effect of Co content on magnetic and optical properties of Zn1-xCoxOy nanorods",
+      "期刊名稱": "Journal of Alloys and Compounds (SCIE)",
+      "作者群": "Jia-Hong Chen, Yow-Jon Lin, Hsing-Cheng Chang, Ya-hui Chen, Lance Horng, Chia-Chi Chang"
+    },
+    {
+      "論文名稱": "A Novel and Experimental Design for Mechanical Ventilation with Optimal Spontaneous Flow Pattern and WOB Feedback Control",
+      "期刊名稱": "Applied Mechanics and Materials (EI)",
+      "作者群": "Shyan-Lung Lin, San Shan Hung, Ching-Kun Chen, Hsing-Cheng Chang"
+    },
+    {
+      "論文名稱": "Real-time detection of tannin concentration of crude gall using dynamic microfluidic centrifugal-and-fluorescence platform",
+      "期刊名稱": "Journal of Biobased Materials and Bioenergy (SCIE)",
+      "作者群": "Hsing-Cheng Chang, Jung-Chih Lin, San-Shan Hung, Chun-Han Li, Shyan-Lung Lin, Chern-Sheng Lin"
+    },
+    {
+      "論文名稱": "Effects of interface modification by H2O2 treatment on the electrical properties of n-type ZnO/p-type Si diodes",
+      "期刊名稱": "Thin Solid Films (SCIE)",
+      "作者群": "Guan-Ru He, Yow-Jon Lin,Hsing-Cheng Chang, Ya-Hui Chen"
+    },
+    {
+      "論文名稱": "Effects of interface modification by H2O2 treatment on the electrical properties of n-type ZnO/p-type Si diodes",
+      "期刊名稱": "Thin Solid Films (SCIE)",
+      "作者群": "Guan-Ru He, Yow-Jon Lin, Hsing-Cheng Chang, Ya-Hui Chen"
+    },
+    {
+      "論文名稱": "Design of the Liquid-Cooling System for High Power LED Modules Using Taguchi Analysis",
+      "期刊名稱": "Advanced Materials Research (EI)",
+      "作者群": "San-Shan Hung*, Hsing-Cheng Chang, Chan-Ming Liang"
+    },
+    {
+      "論文名稱": "A smart detection interface for processing universal electrical sensor signal",
+      "期刊名稱": "Sensor Letters (SCIE)",
+      "作者群": "Hsing-Cheng Chang, San-Shan Hung, Te-Wei Wang, Chi-Chih Lai, I-Nan Chang"
+    },
+    {
+      "論文名稱": "Dependence of luminescent properties and crystal structure of Li-doped ZnO nanoparticles upon Li content",
+      "期刊名稱": "Journal of Luminescence (SCIE)",
+      "作者群": "Yu-Chih Tseng, Yow-Jon Lin, Hsing-Cheng Chang, Ya-Hui Chen, Chia-Jyi Liu, Yi-Yan Zou"
+    },
+    {
+      "論文名稱": "Nano-AAO-based Microsensors for Monitoring Process Carbon Monoxide",
+      "期刊名稱": "Advanced Materials Research (EI)",
+      "作者群": "Hsing-Cheng Chang, San-Shan Hung, Chi-Chih Lai, Ya-Hui Chen, I-Nan Chang, Jung-Chih Lin, Tze-Chun Liu"
+    },
+    {
+      "論文名稱": "Study on light intensity enhancement of ZnO/ITO/p-GaN light-emitting diodes",
+      "期刊名稱": "Applied Mechanics and Materials (EI)",
+      "作者群": "Hsing-Cheng Chang, Ya-Hui Chen, San-Shan hung, Chi-Chih Lai, Chein-Chuan Hung, I-Nan Chang,"
+    },
+    {
+      "論文名稱": "Based on Tagchi analysis for high power LED light-cooling system design",
+      "期刊名稱": "Applied Mechanics and Materials (EI)",
+      "作者群": "San-Shan Hung*, Hsing-Cheng Chang, Jhih-Wei Huang"
+    },
+    {
+      "論文名稱": "On the origin of the ferromagnetism in Zn0.8Mn0.2O having a higher curier temperature than Zn0.8Co0.2O",
+      "期刊名稱": "Solid State Communication (SCIE)",
+      "作者群": "Chia-Lung Tsai, Yow-Jon Lin, Jia-Hong Chen, Hsing-Cheng Chang, Ya-Hui Chen, Lance Horng, Yu-Tai Shih"
+    },
+    {
+      "論文名稱": "Effects vof ultraviolet treatment on the optical and structural properties of ZnO nanoparticles",
+      "期刊名稱": "Materials Chemistry and Physics (SCIE)",
+      "作者群": "Chia-Lung Tsai, Yu-Chih Tseng, Wei-Min Cho, Yow-Jon Lin, Hsing-Cheng Chang, Ya-Hui Chen, Chiu-Hsun Lin"
+    },
+    {
+      "論文名稱": "Effects of Ti content on the optical and structural properties of the Ti-doped ZnO nanoparticles",
+      "期刊名稱": "Journal of Luminescence (SCIE)",
+      "作者群": "Yu-Chih Tseng, Yow-Jon Lin, Hsing-Cheng Chang, Ya-Hui Chen, Chia-Jyi Liu, Yi-Yan Zou"
+    },
+    {
+      "論文名稱": "Effects of Na content on the luminecence behavior, conduction type, and crystal structure of Na-doped ZnO films",
+      "期刊名稱": "Journal of Applied Physics (SCIE)",
+      "作者群": "Jian-Jhong Lai, Yow-Jon Lin, Ya-Hui Chen, Hsing-Cheng Chang, Chia-Jyi Liu, Yi-Yan Zou, Yu-Tai Shih, Meng-Chieh Wang"
+    },
+    {
+      "論文名稱": "Design Comparison of Fractional IPM Machine Types for An Electric Power Steering Application",
+      "期刊名稱": "Materials Science Forum (EI)",
+      "作者群": "Chang-Chou Hwang, Hsing-Cheng Chang, Ming-Te Ho, Cheng-Tsung Liu"
+    },
+    {
+      "論文名稱": "Leakage Current Through In/MgO/n-type Si/In Structure",
+      "期刊名稱": "Solid State Communications (SCIE)",
+      "作者群": "Hou-Yen Tsao, Yow-Jon Lin, Ya-Hui Cheng, Hsing-Cheng Chang"
+    },
+    {
+      "論文名稱": "Fabrication and application of a wireless inductance-capacitance coupling microsensor with electroplate high permeability material NiFe",
+      "期刊名稱": "Journal of Physics: Conference Series (EI)",
+      "作者群": "Ya-Hui Cheng,Hsing-Cheng Chang*, Chi-Chih Lai, I-Nan Chang"
+    },
+    {
+      "論文名稱": "A magnetic microsensor with temperature compensation based on optical mechatronic technology",
+      "期刊名稱": "Material Science Forum (EI)",
+      "作者群": "Chi-Chih Lai, I-Nan Chang, Hsing-Cheng Chang*, Chang-Chou Hwang, Wen-Feung Liu, Chih-Hsiang Ma, Ya-Hui Chen"
+    },
+    {
+      "論文名稱": "Effects of Li content on the structural, optical, and electrical properties of LiZnMgO films",
+      "期刊名稱": "Journal of Applied Physics (SCIE)",
+      "作者群": "Chia-lung Tsai, Mu-Shan Wang, Ya-Hui Chen, Hsing-Cheng Chang, Chia-Jyi Liu, Ching-Ting Lee, Yu-Tai Shih, Yow-Jon Lin*"
+    },
+    {
+      "論文名稱": "Effects of oxygen deficiency in the sol-gel ZrOx film on the electrical properties of Au/ZrOx/n-type Si/In devices",
+      "期刊名稱": "Semiconductor Science and Technology (SCIE)",
+      "作者群": "Wei-Chung Chen, Yow-Jon Lin, Ya-Hui Chen, Hsing-Cheng Chang"
+    },
+    {
+      "論文名稱": "Improved ohmic contacts on pentacene based on Au with ultraviolet irradiation treatment",
+      "期刊名稱": "Thin Solid Films (SCIE)",
+      "作者群": "Yow-Jon Lin, Jian-An Chu, Yu-Chao Su, Ching-Ting Lee, Hsing-Cheng Chang"
+    },
+    {
+      "論文名稱": "Structural, electrical, optical and magnetic properties of Co0.2AlxZn0.8-xO film",
+      "期刊名稱": "Applied Surface Science (SCIE)",
+      "作者群": "C. L. Tsai, Y. J Lin, C. J. Liu, L. Horng, Y. T. Shih, M. S. Wang, C. S. Huang, C. S. Jhang, Y. H. Chen, H. C. Chang"
+    },
+    {
+      "論文名稱": "Capacitance-voltage and current-voltage characteristics of Au Schottky contact on n-type Si with a conducting polymer",
+      "期刊名稱": "Journal of Physics:Applied Physics (SCIE)",
+      "作者群": "Yow-Jon Lin, Bo-Chieh Huang, Yi-Chun Lien, Ching-Ting Lee, Chia-Lung Tsai, Hsing-Cheng Chang"
+    },
+    {
+      "論文名稱": "Effects of ultraviolet treatment on the contact resistivity and electronic transport at the Ti/ZnO interfaces",
+      "期刊名稱": "Journal of Applied Physics (SCIE)",
+      "作者群": "Yow-Jon Lin, Chia-Lung Tsai, W. R. Liu, W. F. Hsieh, C. H. Hsu, Hou-Yen Tsao, Jian-An Chu, Hsing-Cheng Chang"
+    },
+    {
+      "論文名稱": "High-barrier rectifying contacts on undoped ZnO films with (NH4)Sx treatment owing to Fermi-level pining",
+      "期刊名稱": "Journal Physics D: Applied Physics (SCIE)",
+      "作者群": "Yow-Jon Lin, Shih-Sheng Chang, Hsing-Cheng Chang,Yang-Chun Liu"
+    },
+    {
+      "論文名稱": "Analysis of the band-edge luminescence degradation for ZnO films with Al doping prepared by the sol-gel method",
+      "期刊名稱": "Journal of Crystal Growth (SCIE)",
+      "作者群": "Yow-Jon Lin, Wei-Chung Chen, Hsing-Cheng Chang, Chia-Jyi Liu, Zhi-Ru Lin"
+    },
+    {
+      "論文名稱": "Effects of Mg incorporation on the optical properties of ZnO prepared by the sol-gel method",
+      "期刊名稱": "Journal of Applied Physics (SCIE)",
+      "作者群": "Yow-Jon Lin, Ping-Hsun Wu, Chia-Lung Tsai, Chia-Jyi Liu, Zhi-Ru Lin, Hsing-Cheng Chang, Ching-Ting Lee"
+    },
+    {
+      "論文名稱": "A real-time dynamic imaging system for centrifugal microflow plateforms",
+      "期刊名稱": "Measurement Science and Technology (SCIE)",
+      "作者群": "Hsing-Cheng Chang, Chinhfu Tsou, Chi-Chih Lai, Guo-Hong Wun"
+    },
+    {
+      "論文名稱": "Mehanisms of enhancing band-edge luminescence of Zn1-xMgxO prepared by the sol-gel method",
+      "期刊名稱": "Journal of Physics D: Applied Physics (SCIE)",
+      "作者群": "Yow-Jon Lin, ping-Hsun Wu, Chia-Lung Tsai, Chia-Jyi Liu, Ching-Ting Lee, Hsing-Cheng Chang, Zhi-Ru Lin, Kai-Yi Jeng"
+    },
+    {
+      "論文名稱": "Electro-Optical Magnetic Microsensor with Reducing Interference Packaging",
+      "期刊名稱": "Journal of Shanghai Jiaotong University (Science) (EI)",
+      "作者群": "Hsing-Cheng Chang, San-Shan Hung, Ching-Fu Tsou, Wen-Fung Liu, Chi-Chih Lai, Ching-Shang Jian"
+    },
+    {
+      "論文名稱": "Fiber-Liquid-Level Sensor Based on A Fiber Bragg Grating",
+      "期刊名稱": "Japanese Journal of Applied Physics (SCIE)",
+      "作者群": "Hao-Jan Sheng,Wen-Fung Liu,Sheau-Shong Bor,Hsing-Cheng Chang"
+    },
+    {
+      "論文名稱": "Pneumatic-Controlled Fluidic Microdevices for Executing NOT, NOR, and NAND Logic Functions",
+      "期刊名稱": "Japanese Journal of Applied Physics (SCIE)",
+      "作者群": "Hsing-Cheng Chang, Chingfu Tsou, Chi-Chih Lai, and Ming-Che Huang"
+    },
+    {
+      "論文名稱": "An Opto-mechatronic Magnetic Field Microsensor",
+      "期刊名稱": "Phys. Stat. Sol. (a) (SCIE)",
+      "作者群": "H. C. Chang, C. C. Hwang, C. C. Lai, and C. L. Tseng"
+    },
+    {
+      "論文名稱": "Performance and Applications of A Small PM Generator",
+      "期刊名稱": "Phys. Stat. Sol. (c) (EI)",
+      "作者群": "C. C. Hwang, C. L. Tien, and H. C. Chang"
+    },
+    {
+      "論文名稱": "A novel wafer-level hermetic packaging for MEMS devices",
+      "期刊名稱": "IEEE Transactions on Advanced Packaging (SCIE)",
+      "作者群": "C. Tsou, H. C. Li and Hsing-Cheng Chang"
+    },
+    {
+      "論文名稱": "Induced increase in surface work function and surface energy of indium tin oxide-doped ZnO films by (NH4)2Sx treatment",
+      "期刊名稱": "Journal of Applied Physics (SCIE)",
+      "作者群": "C-L Tsai, Y-J Lin, P-H Wu, S-Y Chen, D-S Liu, J-H Hong, C-J Liu, Y-T Shih, J-M Cheng, Hsing-Cheng Chang"
+    },
+    {
+      "論文名稱": "Effects of (NH4)2Sx treatment on electrical properties of indium tin oxide/poly(3,4-ethylenedioxythiophene) doped with poly(4-styrenesulfonate)",
+      "期刊名稱": "Applied Physics Letters (SCIE)",
+      "作者群": "Yow-Jon Lin, Hsing-Cheng Chang, Bei-Yuang Liu"
+    },
+    {
+      "論文名稱": "Changes in activation energies of donors and carrier concentration in Si-doped n-type GaN due to (NH4)2Sx treatment",
+      "期刊名稱": "Semiconductor Science and Technology (SCIE,TSSCI)",
+      "作者群": "Yow-Jon Lin, Ching-Ting Lee, Hsing-Cheng Chang"
+    },
+    {
+      "論文名稱": "Electronic Transport and Schottky Barrier Heights of Ni/Au Contacts on n-Type GaN Surface with and without a Thin Native Oxide Layer",
+      "期刊名稱": "Japanese Journal of Applied Physics (SCIE)",
+      "作者群": "Yow-Jon Lin, Wen-Xiang Lin, Chin-Ting Lee, Hsing-Cheng Chang"
+    },
+    {
+      "論文名稱": "具微塵抑制機制之超音波微換能組件封裝設計",
+      "期刊名稱": "電子工業專用設備 (中文核心期刊)",
+      "作者群": "張興政、賴啟智、曾憲輝、陳彥儒"
+    },
+    {
+      "論文名稱": "Chandes in surface roughness and work function of indium-tin-oxide due to KrF excimer laser irradiation",
+      "期刊名稱": "J. of Vacuum Science Technology (SCIE,TSSCI)",
+      "作者群": "Yow-Jon Lin, Iain D. Baikie, Wei-Yang Chou, Shih-Ting Lin, Hsing-Cheng Chang, Yao-Ming Chen, Wen-Fung Liu"
+    },
+    {
+      "論文名稱": "Optical and electrical properties of heavily Mg-doped GaN upon (NH4)2Sx treatment",
+      "期刊名稱": "Applied Physics Letters (SCIE,TSSCI)",
+      "作者群": "Yow-Jon Lin, Yow-Lin Chu, Y. S. Huang, Hsing-Cheng Chang"
+    },
+    {
+      "論文名稱": "An image-based LCD positioning system utilizing the modified FHT method",
+      "期刊名稱": "International Journal for Light and Electron Optics (SCIE)",
+      "作者群": "C.S.Lin,Y.L.Lay,C.C.Huan,H.C.Chang,and T.S.Hwang"
+    },
+    {
+      "論文名稱": "The Preprocessing and Recognition Methods of an Integrated Automated Production Lot Number Inspection System",
+      "期刊名稱": "Journal of Scientific & Industrial Research (SCIE)",
+      "作者群": "C.S.Lin,Y.L.Lay,C.C.Huan,H.C.Chang,and T.S.Hwang"
+    },
+    {
+      "論文名稱": "Nitrogen-vacancy-related defects and Fermi level pinning in n-GaN Schottky diodes",
+      "期刊名稱": "Journal of Applied Physics (SCIE)",
+      "作者群": "Y. J. Lin, Q. Ker, C. Y. Ho, H. C. Chang, and F. T. Chien"
+    },
+    {
+      "論文名稱": "Investigation of degradation for ohmic performance of oxidized Au/Ni/Mg-doped GaN",
+      "期刊名稱": "Applied Physics Letters (SCIE)",
+      "作者群": "Y. J. Lin, Z. D. Li, C. W. Hsu, F. T. Chien, C. T. Lee, S. T. Shao, H. C. Chang"
+    },
+    {
+      "論文名稱": "Surface band bending, nitrogen-vacancy-related defects and 2.8-eV photoluminescence band of (NH4)2Sx-treated p-GaN",
+      "期刊名稱": "Applied Physics Letters (SCIE)",
+      "作者群": "Y. J. Lin, Z. L. Wang and H. C. Chang"
+    },
+    {
+      "論文名稱": "微感測器之應用與開發",
+      "期刊名稱": "微系統科技協會會刊 ()",
+      "作者群": "張興政，林欽裕"
+    },
+    {
+      "論文名稱": "The Design of Microstructures for Multifunctional Pulse Measurements",
+      "期刊名稱": "Biomedical Engineering, Applications, Basis and Communicatio (EI)",
+      "作者群": "Hsing-Cheng Chang, Albert C.Y. Lin"
+    }
+  ],
+  "journal2": [],
+  "conference": [
+    {
+      "論文名稱": "印刷電路板自動鑽孔及焊接之智 慧檢測教學系統",
+      "會議名稱": "系統。2022 中華民國力學學會年會暨第四十六屆全國力學會議  Conference on Theoretical and Applied Mechanics, CTAM 2022",
+      "作者群": "張興政、許煜亮*、王子豪"
+    },
+    {
+      "論文名稱": "多功能型水質檢測分析裝置",
+      "會議名稱": "2022 中華民國力學學會年會暨第四十六屆全國力學會議 Conference on  Theoretical and Applied Mechanicss, CTAM 2022",
+      "作者群": "張興政*、許煜亮、葉致萌"
+    },
+    {
+      "論文名稱": "智慧化軌道及障 礙檢測系統",
+      "會議名稱": "2022 中華民國力學學會年會暨第四十六屆全國力學會議",
+      "作者群": "張興政*、許煜亮、李珮渝、張詠淳、陳沛君"
+    },
+    {
+      "論文名稱": "新式自動 化垂直農場",
+      "會議名稱": "2022 中華民國力學學會年會暨第四十六屆全國力學會議  Conference on Theoretical and Applied Mechanics, CTAM 2022",
+      "作者群": "張興政*、林宸生、許煜亮、林常瀚、陳柏儒、張峻瑋"
+    },
+    {
+      "論文名稱": "區域環安 動態智能檢測系統",
+      "會議名稱": "2022 中華民國力學學會年會暨第四十六屆全國力學會 議 Conference on Theoretical and Applied Mechanics, CTAM 2022",
+      "作者群": "張興政*、林賢龍、許煜亮、李芷蓉、丁姸菱、黃榆雯"
+    },
+    {
+      "論文名稱": "An Intelligent  Lower Limb Exoskeleton Assistive Device",
+      "會議名稱": "第二十五屆全國機構與機器設計學 術研討會(CSMMT2022)",
+      "作者群": "張興政*、許煜亮、蕭姵甄、蕭宇晴、趙元誠"
+    },
+    {
+      "論文名稱": "A heavy metal ion detection platform based on micro-current photoelectric \nmeasurement technology",
+      "會議名稱": "IEEE 2022 International Conference on Applied  System Innovation (IEEE ICASI 2022)",
+      "作者群": "Hsing-Cheng Chang*; Yu-Liang Hsu; Yi-Fan Chen; Jung-Chih Lin"
+    },
+    {
+      "論文名稱": "A real-time phosphate microfluidic detection system",
+      "會議名稱": "7th IEEE International Conference on Applied System Innovation 2021 (IEEE ICASI 2021)",
+      "作者群": "Hsing-Cheng Chang, Yu-Liang Hsu,  Yi-Fan Chen, and Jung-Chih Lin"
+    },
+    {
+      "論文名稱": "智慧型無人水面載具應用於汙染漂浮物清理",
+      "會議名稱": "第33屆中國造船暨輪機工程研討會",
+      "作者群": "張興政、許煜亮* 、蘇科銘"
+    },
+    {
+      "論文名稱": "智慧型互動式協同復健輔助系統",
+      "會議名稱": "2020中國機械工程學會第三十七屆全國學術研討會",
+      "作者群": "許煜亮*、張興政、何儒昇、李岳閎"
+    },
+    {
+      "論文名稱": "Human emotion recognition using photoplethysmography signals",
+      "會議名稱": "2020 International Automatic Control Conference (CACS2020)",
+      "作者群": "Yu-Liang Hsu*, Hsing-Cheng Chang, En-Ni Shih"
+    },
+    {
+      "論文名稱": "Movie-induced discrete emotion classification using PPG signals",
+      "會議名稱": "9th International Multi-Conference on Engineering and Technology Innovation 2020 (IMETI 2020)",
+      "作者群": "Yu-Liang Hsu*, Hsing-Cheng Chang, En-Ni Shih"
+    },
+    {
+      "論文名稱": "智慧型軌道動態感測系統應用於廠房自動化環境安全監控設計",
+      "會議名稱": "2020 台灣機電工程國際學會全國學術研討會(ISME 2020)",
+      "作者群": "張興政、許煜亮*、林賢龍、蕭景元、陳奕帆"
+    },
+    {
+      "論文名稱": "穿戴式上肢復健協作裝置",
+      "會議名稱": "2020 台灣機電工程國際學會全國學術研討會(ISME 2020)",
+      "作者群": "許煜亮*、張興政、林裕晴、林賢龍、陳嬿竹、蕭景元"
+    },
+    {
+      "論文名稱": "Development of a wearable inertial-sensing-based sport activity recognition system",
+      "會議名稱": "International Automatic Control Conference (CACS2019)",
+      "作者群": "Yu-Liang Hsu*, Hsing-Cheng Chang, Yung-Jung Chiu, Shih-Chin Yang, Ching-Yuan Hsiao, and Chi-Hsiang Weng"
+    },
+    {
+      "論文名稱": "An intelligent-sensing-based autonomous surface vehicle",
+      "會議名稱": "5th IEEE International Conference on Applied System Innovation 2019 (IEEE ICASI 2019)",
+      "作者群": "Hsing-Cheng Chang, Yu-Liang Hsu*, Shih-Chin Yang, Guan-Ru Ou, Jia-Ron Wu, Chuan Hsu, and Chi-Hsiang Weng"
+    },
+    {
+      "論文名稱": "2D手寫數字辨識系統之研發",
+      "會議名稱": "2019台灣機電工程國際學會第四屆暨全國學術研討會",
+      "作者群": "許煜亮*、楊士進 、張興政 、翁啟翔 、謝秉佑 、葉彥廷 、劉晏維 、裘詠融"
+    },
+    {
+      "論文名稱": "智慧型水上無人裝置應用於環境品質監控與自動污染採樣清理",
+      "會議名稱": "2019台灣機電工程國際學會第四屆暨全國學術研討會",
+      "作者群": "張興政、許煜亮*、楊士進、歐冠汝、吳佳蓉、徐銓"
+    },
+    {
+      "論文名稱": "Innovated noninvasive assessment of Parkinson’s disease based on measurement of cerebral vasomotor reactivity with transcranial Doppler ultrasonography and capnography",
+      "會議名稱": "4th IEEE International Conference on Applied System Innovation 2018 (IEEE ICASI 2018)",
+      "作者群": "Ching-Kun Chen, Shoou-Jeng Yeh, Shyan-Lung Lin*, Yu-Liang Hsu, and Hsing-Cheng Chang"
+    },
+    {
+      "論文名稱": "Parallel-packaged multiple-gas microsensors based on hollowed nanostructures of doped tin oxides",
+      "會議名稱": "4th IEEE International Conference on Applied System Innovation 2018 (IEEE ICASI 2018)",
+      "作者群": "Hsing-Cheng Chang*, Yu-Liang Hsu, Shyan-Lung Lin, Ya-Hui Chen, and Tai-Jiun Guo"
+    },
+    {
+      "論文名稱": "Development of an inertial-sensing-based robotic arm control system",
+      "會議名稱": "4th IEEE International Conference on Applied System Innovation 2018 (IEEE ICASI 2018)",
+      "作者群": "Yu-Liang Hsu*, Po-Huan Chou, Hsin-Ru Lee, Shih-Chin Yang, Hsing-Cheng Chang, Wan-Lung Lee, and Guan-Ting Chen"
+    },
+    {
+      "論文名稱": "Automatic sport activity classification using deep learning and wearable inertial sensors",
+      "會議名稱": "4th IEEE International Conference on Applied System Innovation 2018 (IEEE ICASI 2018)",
+      "作者群": "Yu-Liang Hsu*, Shih-Chin Yang, Hsing-Cheng Chang, Shyan-Lung Lin, Po-Huan Chou, Yung-Jung Chiu, Chun-Chih Lin, and Hsin-Ru Lee"
+    },
+    {
+      "論文名稱": "基於慣性感測技術之棒球揮棒分期分析系統研發",
+      "會議名稱": "2018 台灣機電工程國際學會全國學術研討會",
+      "作者群": "許煜亮*、張興政、楊士進、林群智"
+    },
+    {
+      "論文名稱": "智慧型情緒辨識系統之研發",
+      "會議名稱": "2018 台灣機電工程國際學會全國學術研討會",
+      "作者群": "許煜亮*、張興政、楊士進、陳冠廷、吳建賢、沈家屏、陳昱態"
+    },
+    {
+      "論文名稱": "智慧型人機協同機械手臂控制系統之研發",
+      "會議名稱": "2018 台灣機電工程國際學會全國學術研討會",
+      "作者群": "許煜亮*、楊士進、張興政、周柏寰、李欣儒、鄭宇程、趙建勛、郭祐辰、陳昱態"
+    },
+    {
+      "論文名稱": "Development of an indoor pedestrian navigation system and extended Kalman filter-based pedestrian trajectory reconstruction algorithm for reconstructing 3D walking trajectories",
+      "會議名稱": "2017 International Conference on Innovation, Communication and Engineering",
+      "作者群": "Yu-Liang Hsu*, Hsing-Cheng Chang, and Yu-Chen Kuo"
+    },
+    {
+      "論文名稱": "Integrated and packaged optoelectromechnical measurement system for detecting water quality",
+      "會議名稱": "2017 International Conference on Innovation, Communication and Engineering",
+      "作者群": "Hsing-Cheng Chang*, I-Nan Chang, and Yu-Liang Hsu"
+    },
+    {
+      "論文名稱": "An integrated gas microsensor by doping metal oxides to tin dioxides for detecting multiple gases",
+      "會議名稱": "International Multi-Conference on Engineering and Technology Innovation 2017 (IMETI2017)",
+      "作者群": "Hsing-Cheng Chang*, Yu-Liang Hsu, Ya-Hui Chen, and Tai-Jiun Guo"
+    },
+    {
+      "論文名稱": "Vibration measurement and suppression for laser galvanometers using a MEMS-based accelerometer",
+      "會議名稱": "2017 The 3rd International Conference on Inventions (ICI2017)",
+      "作者群": "Yu-Liang Hsu*, Shih-Chin Yang, Po-Huan Chou, Hsing-Cheng Chang, Yu-Chen Kuo, and Li-Feng Chiu"
+    },
+    {
+      "論文名稱": "The ethanol gas sensor by using a long period grating and ZnO-SnO2 materials",
+      "會議名稱": "22th OptoElectronics and Communications Conference(OECC 2017)",
+      "作者群": "Hung-Ying Chang, Wen-Fung Liu*, Teng-Lung Wang, Hsing-Cheng Chang, and Yu-Liang Hsu"
+    },
+    {
+      "論文名稱": "Development of a smart home system based on multi-sensor data fusion technology",
+      "會議名稱": "2017 IEEE International Conference on Applied System Innovation (IEEE ICASI 2017)",
+      "作者群": "Po-Huan Chou, Yu-Liang Hsu*, Wan-Lung Lee, Yu-Chen Kuo, Chih-Chien Chang, Yuan-Sheng Cheng, Hsing-Cheng Chang, Shyan-Lung Lin, and Hsin-Hung Lee"
+    },
+    {
+      "論文名稱": "Application of nonparametric weighted feature extraction for an inertial-signal-based human activity recognition system",
+      "會議名稱": "2017 IEEE International Conference on Applied System Innovation (IEEE ICASI 2017)",
+      "作者群": "Yu-Liang Hsu*, Shyan-Lung Lin, Po-Huan Chou, Hung-Che Lai, and Hsing-Cheng Chang"
+    },
+    {
+      "論文名稱": "A metal-oxide doped SnO2-based microsensor for measuring H2S concentration",
+      "會議名稱": "2017 IEEE International Conference on Applied System Innovation (IEEE ICASI 2017)",
+      "作者群": "Hsing-Chang Chang*, Shyan-Lung Lin, Yu-Liang Hsu, Ya-Hui Chen, and Tai-Jiun Guo"
+    },
+    {
+      "論文名稱": "The comparison study between distinct physical fitness norms and their ECG signals under graded exercise intensities and recovery",
+      "會議名稱": "2017 IEEE International Conference on Applied System Innovation (IEEE ICASI 2017)",
+      "作者群": "Shyan-Lung Lin*, Tung-Yi Lin, Cheng-Yi Huang, Yu-Liang Hsu, and Hsing-Cheng Chang"
+    },
+    {
+      "論文名稱": "Development of the vibration analysis and suppression technology for laser galvanometers based on inertial sensing technology",
+      "會議名稱": "International Symposium on Control Systems (ISCS 2017)",
+      "作者群": "Wen-Chuan Chen, Yu-Liang Hsu*, Po-Huan Chou, Hsin-Hung Lee, Hsing-Cheng Chang, Shih-Chin Yang, and Chin-Sheng Chen"
+    },
+    {
+      "論文名稱": "基於慣性感測技術之雷射振鏡馬達振動分析及除振技術之研發",
+      "會議名稱": "中華民國第三十七屆電力工程研討會",
+      "作者群": "陳文泉、許煜亮*、周柏寰、張興政、楊士進、李峰吉、陳金聖"
+    },
+    {
+      "論文名稱": "The Ethanol Sensor Base onLong Period Grating",
+      "會議名稱": "OPTIC 2016",
+      "作者群": "Teng-Lung Wang, Chan-Yu Kuo, Hung-Ying Chang, Wen-Chieh Huang, Hsing-Cheng Chang, Wen-Fung Liu"
+    },
+    {
+      "論文名稱": "Nanofiber-based Brush-distributed Sensor for Detecting Heavy Metal Ions",
+      "會議名稱": " International Multi-Conference on Engineering and Technology Innovation2016 (IMETI 2016)",
+      "作者群": "Hsing-Cheng Chang, Yu-Liang Hsu, Cheng-Yan Tsai, Ya-Hui Chen, Shyan-Lung Lin"
+    },
+    {
+      "論文名稱": "Nanoflower Structures of ZnO-SnO2 Arranged on Nanoprous AL2O3 for Sensing Ethanol and Methanol Gases",
+      "會議名稱": " International Multi-Conference on Engineering and Technology Innovation2016 (IMETI 2016)",
+      "作者群": "Hsing-Cheng Chang, Yu-Liang Hsu, Wen-Chieh Huang, Ya-Hui Chen, I-Nan Chang"
+    },
+    {
+      "論文名稱": "Gas Microsensor Based on Nanosensing Film Coated Inside Hollow Optical Fiber",
+      "會議名稱": "2016 2nd Recent and Emerging trends in Computer and Computational Sciences",
+      "作者群": "張興政*，黃昌圳，洪三山，張一楠"
+    },
+    {
+      "論文名稱": "Optical Gas Microsensor Based on Hollow Fiber Structure",
+      "會議名稱": "2016 2nd Recent and Emerging Trends in Computer and Computational Sciences ( RETCOMP 2016)",
+      "作者群": "Hsing-Cheng Chang, Chang-Chou Hwang, San-Shan Hung, I-Nan Chang"
+    },
+    {
+      "論文名稱": "可撓曲電感陣列之質量流量感測系統",
+      "會議名稱": "中國機械工程師學會第32屆全國學術研討會",
+      "作者群": "張興政*、王森巨、陳雅惠、張一楠、林榮志、陳威儒"
+    },
+    {
+      "論文名稱": "Simulation of Mechanical Resistive Loading on an Optimal Respiratory Control Model With Added Dead Space and CO2 Breathing",
+      "會議名稱": "The International Conference on Computing and Precision Engineering",
+      "作者群": "Shyan-Lung Lin, Hsing-Cheng Chang, and Chieh-Liang Wu"
+    },
+    {
+      "論文名稱": "Patterning and Fabrication of Nanofibers Using Near-field Electrospinning for Sensor Application",
+      "會議名稱": "2015 13th International Conference on Automation Technology",
+      "作者群": "Hsing-Cheng Chang, Chi-Chih Lai, Yu-Hsuan Lin, Ta-Hui Chen, I-Nan Chang, Jung-Chih Lin, Zong-Sian Huang"
+    },
+    {
+      "論文名稱": "The study of cerebral autoregulation based on CO2 reactivity with Healthy Subjects and Parkinson’s patients",
+      "會議名稱": "The International Conference on Biomedical Engineering Innovation 2015 (ICBEI2015)",
+      "作者群": "Shyan-Lung Lin, Andy Ying-Chi Liao, Shoou-Jeng Yeh, and Hsing-Cheng Chang"
+    },
+    {
+      "論文名稱": "Automatic Microfluidic Fluorescence Array Measurement System for Detecting Organic Phosphate",
+      "會議名稱": "2015 The International Multi-Conference on Engineering and Technology Innovation",
+      "作者群": "Hsing-Cheng Chang, Jung-Chih Lin, Shyan-Lung Lin, I-Nan Chang, Shi-Yao Chen"
+    },
+    {
+      "論文名稱": "Automatic Microfluidic Fluorescence Array Measurement System for Detecting Organic Phosphate",
+      "會議名稱": "2015 The International Multi-Conference on Engineering and Technology Innovation",
+      "作者群": "Hsing-Cheng Chang, Jung-Chih Lin, Shyan-Lung Lin, I-Nan Chang, Shi-Yao Chen"
+    },
+    {
+      "論文名稱": "Automatic Microfluidic Fluorescence Array Measurement System for Detecting Organic Phosphate",
+      "會議名稱": "2015 The International Multi-Conference on Engineering and Technology Innovation",
+      "作者群": "Hsing-Cheng Chang, Jung-Chih Lin, Shyan-Lung Lin, I-Nan Chang, Shi-Yao Chen"
+    },
+    {
+      "論文名稱": "Automatic Microfluidic Fluorescence Array Measurement System for Detecting Organic Phosphate",
+      "會議名稱": "2015 The International Multi-Conference on Engineering and Technology Innovation",
+      "作者群": "Hsing-Cheng Chang, Jung-Chih Lin, Shyan-Lung Lin, I-Nan Chang, Shi-Yao Chen"
+    },
+    {
+      "論文名稱": "Automatic Microfluidic Fluorescence Array Measurement System for Detecting Organic Phosphate",
+      "會議名稱": "2015 The International Multi-Conference on Engineering and Technology Innovation",
+      "作者群": "Hsing-Cheng Chang*, Jung-Chih Lin, Shyan-Lung Lin, I-Nan Chang, Shi-Yao Chen"
+    },
+    {
+      "論文名稱": "Automatic Microfluidic Fluorescence Array Measurement System for Detecting Organic Phosphate",
+      "會議名稱": "2015 The International Multi-Conference on Engineering and Technology Innovation",
+      "作者群": "Hsing-Cheng Chang*, Jung-Chih Lin, Shyan-Lung Lin, I-Nan Chang, Shi-Yao Chen"
+    },
+    {
+      "論文名稱": "Automatic Microfluidic Fluorescence Array Measurement System for Detecting Organic Phosphate\r\n",
+      "會議名稱": "2015 The International Multi-Conference on Engineering and Technology Innovation",
+      "作者群": "Hsing-Cheng Chang, Jung-Chih Lin, Shyan-Lung Lin, I-Nan Chang, Shi-Yao Chen"
+    },
+    {
+      "論文名稱": "氧化銅/二氧化錫中空奈米紡絲硫化氫感測器",
+      "會議名稱": "第19屆奈米工程研討會",
+      "作者群": "張興政、郭泰均、陳雅惠、張一楠、林榮志"
+    },
+    {
+      "論文名稱": "A Wireless Surface Acoustic Wave-based Tire Pressure and Temperature Sensing Module",
+      "會議名稱": "2015 3rd International Conference on Computer Applications and Applied Electronics (2015 ICCAAE)",
+      "作者群": "張興政*、洪三山、陳雅惠、蔡明翰"
+    },
+    {
+      "論文名稱": "多參數量測之智慧型運動感測系統",
+      "會議名稱": "第三十ㄧ二屆全國機械工程學術研討會",
+      "作者群": "張興政，翁維謙，廖國勳，蔡承延"
+    },
+    {
+      "論文名稱": "以同軸靜電紡絲技術發展中空型氣體微感測器",
+      "會議名稱": "第二十二屆全國自動化科技研討會",
+      "作者群": "張興政，賴啟智，廖啟安，陳雅惠，張ㄧ楠，林榮志"
+    },
+    {
+      "論文名稱": "電容式微感測元件於微流平台之製作與應用",
+      "會議名稱": "第二十二屆全國自動化科技研討會",
+      "作者群": "張興政，賴啟智，張文澤，陳雅惠，張ㄧ楠，林榮志"
+    },
+    {
+      "論文名稱": "光纖光柵酸鹼值即時感測模組",
+      "會議名稱": "第二十二屆全國自動化科技研討會",
+      "作者群": "張興政，李雅筑，饒銘軒，陳雅惠，張ㄧ楠，林榮志"
+    },
+    {
+      "論文名稱": "The Effect of Linear and Nonlinear Respiratory Mechanics on the Opti-mization of Neuromuscular Drive and Ventilatory Responses",
+      "會議名稱": "the 3rd International Conference on Engineering and Technology Innovation 2014 (ICETI2014)",
+      "作者群": "Shyan-Lung Lin, Hsing-Cheng Chang, Yu-Zhe Tsai"
+    },
+    {
+      "論文名稱": "An Optical Fiber Fluorescence Gas Sensor Based on Hollow Detection Structure",
+      "會議名稱": "2014 International Symposium on Nano Science and Technology",
+      "作者群": "H.C.Chang,M.H.Jao,Y.H.Chen,I. N. Chang,Y.C.Lee,J.C.Lin"
+    },
+    {
+      "論文名稱": "The study of cerebral autoregulation based on CO2 reactivity with Healthy Subjects and Parkinson’s patients",
+      "會議名稱": "The 3rd International Conference on Biomedical Engineering and Biotechnology (iCBEB2014)",
+      "作者群": "Shyan-Lung Lin, Andy Ying-Chi Liao, Shoou-Jeng Yeh, and Hsing-Cheng Chang"
+    },
+    {
+      "論文名稱": "Multi-Gas Microsensors Based on a Nanoporous Structures",
+      "會議名稱": "2014 International Symposium on Nano Science and Technology",
+      "作者群": "Hsing-Cheng Chang, Ming-Chang Tsai, Ya-Hui Chen, I-Nan Chang, Jung-Chih Lin"
+    },
+    {
+      "論文名稱": "智慧型一氧化碳偵測系統之研製",
+      "會議名稱": "2014系統科學與工程研討會",
+      "作者群": "陳志佳、 洪三山、 張興政、 李士甫、 李景德 、林育揚"
+    },
+    {
+      "論文名稱": "Optimization of the Neural Muscular Drive and Respiratory Signals under Dead Space Loading and CO2 Inhalation",
+      "會議名稱": "2013 International Applied Science and Precision Engineering Conference (ASPEC2013)",
+      "作者群": "Shyan-Lung Lin, Tsung-Chi Chen, Hsing-Cheng Chang"
+    },
+    {
+      "論文名稱": "以微流螢光技術即時撿檢測有機磷農藥殘留濃度",
+      "會議名稱": "2013第17屆奈米工程暨微系統技術研討會",
+      "作者群": "張興政,陳世堯,陳雅惠,張一楠,林榮志"
+    },
+    {
+      "論文名稱": "Modified Nanoporous Membranes on Centrifugal Microfluidic Platforms for Detecting Heavy Metal Ions",
+      "會議名稱": "2013 3rd International Conference on Advanced Design and Manufacturing Engineering",
+      "作者群": "Hsing-Cheng Chang, Ya-Hui Chen, An-Ting Lo, San-Shan Hung, Shyan-Lung Lin, I-Nan Chang, Jung-Chih Lin"
+    },
+    {
+      "論文名稱": "Applying Wireless Transmission for Aluminum Wheel Cornering Simulation and Testing",
+      "會議名稱": "ICAEMT 2013 -3rd International Conference on Advanced Engineering Materials and Technology",
+      "作者群": "San-Shan Hung, Hsing-Cheng Chang"
+    },
+    {
+      "論文名稱": "A Cerebral Autoregulation Simulator based on the Model of Intracranial Dynamics",
+      "會議名稱": "International Conference on Biomedicine and Pharmacology",
+      "作者群": "Shyan-Lung Lin, Hua-Wei Lin, Hsing-Cheng Chang"
+    },
+    {
+      "論文名稱": "以微流螢光檢測平台發展多功能生化檢測陣列",
+      "會議名稱": "中華民國第二十屆自動化科技研討會",
+      "作者群": "張興政,歐明宗,陳雅惠,張一楠,林榮志"
+    },
+    {
+      "論文名稱": "A Novel and Experimental Design for Mechanical Ventilation with Optimal Spontaneous Flow Pattern and WOB Feedback Control",
+      "會議名稱": "The 2nd International Conference on Engineering and Technology Innovation 2012 (ICETI2012)",
+      "作者群": "Shyan-Lung Lin*, San Shan Hung, Ching-Kun Chen, Hsing-Cheng Chang"
+    },
+    {
+      "論文名稱": "具螢光檢測結構之光纖多氣體感測器",
+      "會議名稱": "2012光電與通訊工程研討會",
+      "作者群": "張興政、賴啟智、黃建勳、陳雅惠、張一楠、林榮志、劉文豐"
+    },
+    {
+      "論文名稱": "Detection of Real-time Tannic Acid Concentration Based-on Quasi-static Centrifugal-and-fluoresence Microfluid Technology",
+      "會議名稱": "The 2012 International Conference on Agricultural, Food and Biological Engineering (2012 ICAFBE)",
+      "作者群": "Hsing-Cheng Chang, Jung-Chih Lin, San-Shan Hung, Chun-Han Li, Ya-Hui Chen, I-Nan Chang, Che-Ming Chang"
+    },
+    {
+      "論文名稱": "Nano-AAO-based Microsensor for Monitoring Process Carbon Monoxide",
+      "會議名稱": "International Conference on Manufacturing Science and Engineering 2012 (ICMSE2012)",
+      "作者群": "Hsing-Cheng Chang, San-Shan Hung, Chi-Chih Lai, Ya-Hui Chen,  I-Nan Chang, Jung-Chih Lin,Tze-Chun Liu"
+    },
+    {
+      "論文名稱": "Development of An Adaptive Mobil Front-Lighting System Using Multi-Functional Sensors",
+      "會議名稱": "International Conference on Manufacturing Science and Engineering 2012 (ICMSE2012)",
+      "作者群": "San-Shan Hung, Hsing-Cheng Chang"
+    },
+    {
+      "論文名稱": "可應用於輔具弱電磁信號檢測之三維螺線管微元件",
+      "會議名稱": "2011中區輔助電玩大賽暨研發成果發表會",
+      "作者群": "張興政，陳雅惠，張一楠"
+    },
+    {
+      "論文名稱": "高效能雙軸太陽光能追蹤系統設計與應用",
+      "會議名稱": "中國機械工程學會第28屆全國學術研討會",
+      "作者群": "張興政，賴啟智，黃世昕，陳雅惠，張一楠，林榮志"
+    },
+    {
+      "論文名稱": "光纖光柵之動態溫度補償與重量量測",
+      "會議名稱": "中國機械工程學會第28屆全國學術研討會",
+      "作者群": "張興政，王唯儒，張一楠，陳雅惠，林榮志，劉文豐"
+    },
+    {
+      "論文名稱": "A smart interface for processing universal electrical sensor signal",
+      "會議名稱": "The 1st International Conference on Engineering and Technology Innovation (ICETI2011)",
+      "作者群": "Hsing-Cheng Chang, San-Shan Hung, Te-Wei Wang, Chi-Chih Lai, I-Nan Chang"
+    },
+    {
+      "論文名稱": "多孔性奈米陽極氧化鋁氣體微感測器",
+      "會議名稱": "2011民生電子研討會",
+      "作者群": "張興政、賴啟智，劉澤鈞、陳雅惠、張一楠"
+    },
+    {
+      "論文名稱": "三維微螺線管製作與應用",
+      "會議名稱": "2011民生電子研討會",
+      "作者群": "張興政、賴啟智、劉泓澤、陳雅惠、張一楠"
+    },
+    {
+      "論文名稱": "Study on Light Intensity Enhancement of ZnO/ITO/P-GaN Light-Emitting Diodes",
+      "會議名稱": "2011 3rd International Conference on Mechanical and Electronics Engineering (ICMEE2011",
+      "作者群": "H. C. Chang, Y. H. Chen, S. S. Hung, C. C. Lai, C. C. Hung, I N. Chang"
+    },
+    {
+      "論文名稱": "Based on Taguchi Analysis for High Power LED Liquid-Cooling System Design",
+      "會議名稱": "2011 3rd International Conference on Mechanical and Electronics Engineering (ICMEE2011)",
+      "作者群": "S. S. Hung, H. C. Chang, J. W. Huang"
+    },
+    {
+      "論文名稱": "Evaluating Solar microsensors Packaged with MEMS Covers for Improving Light Tracking Efficiency",
+      "會議名稱": "2010 11th International Conference on Electronic Packaging Technology & High Density Packaging (ICEPT_HDT 2010)",
+      "作者群": "I-Nan Chang, Hsing-Cheng Chang, San-Shan Hung, Chi-Chih Lai, Ya-Hui Chen, Shih-Hsin Huang"
+    },
+    {
+      "論文名稱": "Packaged Wireless Multisensor Module Embedded Reinforced Concrete for Monitoring Construction Characteristics",
+      "會議名稱": "2010 11th International Conference on Electronic Packaging Technology & High Density Packaging (ICEPT_HDT 2010)",
+      "作者群": "San-Sanh Hung, Chih-Yuan Chang, Hsing-Cheng Chang, Hsin-Yi Feng"
+    },
+    {
+      "論文名稱": "Fabrication and application for a wireless inductance-capacitance coupling microsensor with electroplated high permeability material NiFe",
+      "會議名稱": "ISAMMA 2010",
+      "作者群": "Ya-Hui Chen, Hsing-Cheng Chang*,Chi-Chih Lai, I-Nan Chang"
+    },
+    {
+      "論文名稱": "無線電容-電感耦合液位微感測元件",
+      "會議名稱": "2010第十八屆全國自動化科技研討會",
+      "作者群": "張興政*,賴啟智,李宜真,陳雅惠,張一楠,劉泓擇"
+    },
+    {
+      "論文名稱": "具平衡校正機制之曲率量測光機電微感測元件",
+      "會議名稱": "2010第十八屆全國自動化科技研討會",
+      "作者群": "張興政*,賴啟智,林政德,張一楠,陳雅惠,劉人豪"
+    },
+    {
+      "論文名稱": "以光機電整合技術發展具溫度補償之磁場微感測元件",
+      "會議名稱": "中國機械工程學會第26屆全國學術研討會",
+      "作者群": "賴啟智、張興政、馬錦祥、張一楠、陳雅惠"
+    },
+    {
+      "論文名稱": "氣控微流即時檢測平臺",
+      "會議名稱": "中國機械工程學會第26屆全國學術研討會",
+      "作者群": "張興政、賴啟智、張晉育、陳雅惠、張一楠"
+    },
+    {
+      "論文名稱": "可攜式彈力量測系統與應用分析",
+      "會議名稱": "中國機械工程學會第26屆全國學術研討會",
+      "作者群": "張興政、江忠鍵、賴啟智、廖述俊"
+    },
+    {
+      "論文名稱": "A Magnetic Microsensor with Temperature Compensation based on Optical Mechatronic Technology",
+      "會議名稱": "6th Japanese-Mediterranean Workshop on Applied Electromagnetic Engineering for Magnetic, Superconducting and Nano Materials",
+      "作者群": "I-Nan Chang, Chi-Chih Lai, Hsing-Cheng Chang, Chang-Chou Hwang, Wen-Fung Liu, Chin-Hsiang Ma"
+    },
+    {
+      "論文名稱": "多維熱電感測風速儀",
+      "會議名稱": "中國機械工程學會第25屆全國學術研討會",
+      "作者群": "張興政、賴啟智、魏上淳、張一楠"
+    },
+    {
+      "論文名稱": "管線動態資訊可視化監控系統",
+      "會議名稱": "中國機械工程學會第25屆全國學術研討會",
+      "作者群": "賴啟智、張興政、尤致翔"
+    },
+    {
+      "論文名稱": "恆溫離心微流即時檢測系統",
+      "會議名稱": "中國機械工程學會第25屆全國學術研討會",
+      "作者群": "張興政、賴啟智、廖特螢、陳稚惠"
+    },
+    {
+      "論文名稱": "The fiber liquid-level sensor based on a fiber Bragg grating",
+      "會議名稱": "WFOPC'2007",
+      "作者群": "Hao-Jan Sheng,Wen-Fung Liu,Sheau-Shong Bor and Hsing-Cheng Chang"
+    },
+    {
+      "論文名稱": "新型即時微流量測裝置之動態分析",
+      "會議名稱": "中國機械工程學會第24屆全國學術研討會",
+      "作者群": "張興政、賴啟智、廖特瑩"
+    },
+    {
+      "論文名稱": "自動化即時靜電動態處理系統(II)",
+      "會議名稱": "國科會自動化學門九十五年度專題計畫成果發表會",
+      "作者群": "張興政，黃俊嘉，尤致翔"
+    },
+    {
+      "論文名稱": "太陽能動態偵測與自動尋跡定位技術",
+      "會議名稱": "2007第六屆台灣電力電子研討會暨展覽會",
+      "作者群": "張興政、藍志清、賴啟智"
+    },
+    {
+      "論文名稱": "晶圓級真空封裝技術之開發",
+      "會議名稱": "第十一屆柰米工程暨微系統技術研討會",
+      "作者群": "鄒慶福、李鴻忠、陳威宇、張興政"
+    },
+    {
+      "論文名稱": "A Novel Electro-Optical Magnetic Microsensor with Reducing Interference Packaging",
+      "會議名稱": "2007 8th International Conference on Electronics Packaging Technology",
+      "作者群": "張興政、洪三山、鄒慶福、劉文豐、賴啟智、簡勤尚"
+    },
+    {
+      "論文名稱": "High Efficiency Liquid-type Cooling and Packaging Technology for a Miscellaneous Application of Microprocessors",
+      "會議名稱": "2007 8th International Conference on Electronics Packaging Technology",
+      "作者群": "洪三山、張興政、陳佑論、劉明華"
+    },
+    {
+      "論文名稱": "An Opto-Mechatronic Magnetic Field Microsensor",
+      "會議名稱": "ISAMMA2007, The 1st International Symposium on Advanced Magnetic Materials",
+      "作者群": "張興政、黃昌圳、賴啟智、曾志倫"
+    },
+    {
+      "論文名稱": "Performance and Application of a High-speed Small PMgenerator",
+      "會議名稱": "ISSMA2007",
+      "作者群": "C.C, Hwang, C. L. Tien, H. C. Chang"
+    },
+    {
+      "論文名稱": "碟片微流道離心即時動態檢測分析系統",
+      "會議名稱": "第十屆奈米工程暨微系統技術研討會",
+      "作者群": "張興政、鄒慶福、賴啟智、溫郭鴻、張一楠"
+    },
+    {
+      "論文名稱": "醫療儀器靜電即時量測與安全性分析",
+      "會議名稱": "2006第九屆工程科技與中西醫學應用研討會",
+      "作者群": "黃俊嘉、賴啟智、張興政、曾憲輝、陳雅惠"
+    },
+    {
+      "論文名稱": "離心式生醫碟片即時量測與分析",
+      "會議名稱": "2006第九屆工程科技與中西醫學應用研討會",
+      "作者群": "溫郭鴻、張興政、賴啟智、曾憲輝、陳雅惠"
+    },
+    {
+      "論文名稱": "微電容元件之機電特性與信號響應之研究",
+      "會議名稱": "中國機械工程學會第二十二屆全國學術研討會",
+      "作者群": "張興政、欒同現、洪三山、賴啟智、張明暐"
+    },
+    {
+      "論文名稱": "具主動微塵抑制功能之超音波微換能元件封裝",
+      "會議名稱": "中國機械工程學會第二十二屆全國學術研討會",
+      "作者群": "張興政、賴啟智、曾憲輝、陳彥儒"
+    },
+    {
+      "論文名稱": "Automation Measurement and Visulization of Invisible Multi-dimensional Temperature Information",
+      "會議名稱": "2005 CACS Automatic Control Conference",
+      "作者群": "張興政、賴啟智、曾憲輝、梁偉民"
+    },
+    {
+      "論文名稱": "Micromachined Packaging for Ultrasonic Transducers with Particle Restraint Mechanisms",
+      "會議名稱": "2005 6th International Conference on Electronics Packaging Technology",
+      "作者群": "Hsing-Cheng Chang, Chih-Chih Lai, Hsien-Hui Tseng, Yen-Ju Chen"
+    },
+    {
+      "論文名稱": "On the Determination of Thermal Expansion Coefficient ogf Thermal Oxide",
+      "會議名稱": "2005 NSTI Nanotechnology Conference and Trade Show",
+      "作者群": "鄒慶福，黃裕盛，張興政"
+    },
+    {
+      "論文名稱": "Analysis and Design of Capacitive-type Microtransducers Based-on Database Simulation and Optimization",
+      "會議名稱": "Automation 2005, The Eighth International Conference on Automation Technology",
+      "作者群": "Hsing-Cheng Chang, Tung-Hsian Luan, San-Shan Hung, Chi-Chih Lai, Chih-Min Lai, Shih-Ping Lee, Ming-Sheng Wang"
+    },
+    {
+      "論文名稱": "提升效能之改良式SPIHT影像壓縮技術",
+      "會議名稱": "第三屆現代通訊科技應用學術研討會",
+      "作者群": "曾憲輝、廖和恩、張興政、謝忠智"
+    },
+    {
+      "論文名稱": "以CPLD實現適用於正交分頻多工之可程式交錯器",
+      "會議名稱": "第三屆現代通訊科技應用學術研討會",
+      "作者群": "曾憲輝、廖和恩、張興政、徐輔擎"
+    },
+    {
+      "論文名稱": "以CPLD實現適用於正交分頻多工之維特比碼器",
+      "會議名稱": "第三屆現代通訊科技應用學術研討會",
+      "作者群": "曾憲輝、廖和恩、張興政、陳仁和"
+    },
+    {
+      "論文名稱": "最佳化呼吸器及最小耗能為指標的智慧型回授控制器之研發",
+      "會議名稱": "中華民國九十三年度生物醫學工程科技研討會",
+      "作者群": "林賢龍、楊正宏、張興政"
+    },
+    {
+      "論文名稱": "氣控微流子邏輯元件之實現",
+      "會議名稱": "第八屆奈米工程暨微系統技術研討會",
+      "作者群": "張興政、賴啟智、黃明哲"
+    },
+    {
+      "論文名稱": "二氧化矽薄膜熱膨脹係數之量測",
+      "會議名稱": "中國機械工程學會第二十一屆全國學術研討會",
+      "作者群": "鄒慶福、黃裕盛、張興政"
+    },
+    {
+      "論文名稱": "智慧型動態預警控制教學模型",
+      "會議名稱": "第21屆中國機械工程全國學術研討會",
+      "作者群": "賴啟智、張興政、許煜亮、藍志清、"
+    },
+    {
+      "論文名稱": "以VHDL設計CPLD實現適用於正交分頻多工之時序與頻率同步處理器",
+      "會議名稱": "2004年民生電子暨訊號處理研討會",
+      "作者群": "曾憲輝、張興政、廖和恩、李瀚德、謝忠智"
+    },
+    {
+      "論文名稱": "以VHDL設計CPLD實現適用於正交分頻多工之交錯器",
+      "會議名稱": "2004年民生電子既訊號處理研討會",
+      "作者群": "曾憲輝、張興政、廖和恩、凌君瑜、徐輔擎"
+    },
+    {
+      "論文名稱": "模糊類神經於多參數感測之設計與應用",
+      "會議名稱": "2004中華民國第十二屆模糊理論及其應用會議",
+      "作者群": "張興政，賴啟智，許煜亮，藍志清，陳建銘"
+    },
+    {
+      "論文名稱": "以印刷電路板和類微機電技術研發氣泡偵測器",
+      "會議名稱": "第十三屆中華民國自動化科技研討會",
+      "作者群": "張興政、賴啟智、王國驊、賴志敏"
+    },
+    {
+      "論文名稱": "微混流電泳系統與電控模組之設計",
+      "會議名稱": "第十三屆中華民國自動化科技研討會",
+      "作者群": "張興政、洪啟琮、李世平、曾憲輝"
+    },
+    {
+      "論文名稱": "氣控微邏輯元件之研製",
+      "會議名稱": "第十三屆中華民國自動化科技研討會",
+      "作者群": "張興政、賴啟智、曾憲輝、黃明哲"
+    },
+    {
+      "論文名稱": "以類神經動態規劃設計智慧型防災預警控制系統",
+      "會議名稱": "第十三屆中華民國自動化科技研討會",
+      "作者群": "張興政、賴啟智、鄒慶福、許煜亮、丁輔善、黃宇君"
+    },
+    {
+      "論文名稱": "氣控矽膠薄膜微流子邏輯閘之研究",
+      "會議名稱": "2004中華民國自動控制研討會",
+      "作者群": "張興政、賴啟智、黃明哲"
+    },
+    {
+      "論文名稱": "電控自動配比之微流電泳晶片分析系統",
+      "會議名稱": "2004中華民國自動控制研討會",
+      "作者群": "張興政、洪啟琮、賴啟智"
+    },
+    {
+      "論文名稱": "動態微流氣泡偵測微感測元件",
+      "會議名稱": "2004中華民國自動控制研討會",
+      "作者群": "張興政、賴啟智、王國驊"
+    },
+    {
+      "論文名稱": "自動化高溫高壓設備線上即時故障檢測與安全監控系統",
+      "會議名稱": "2003全國計算機會議",
+      "作者群": "賴啟智、張興政、陳永森"
+    },
+    {
+      "論文名稱": "危險性自動化製程設備之安全即時偵測與監控系統",
+      "會議名稱": "第五屆可靠度與維護度技術研討會",
+      "作者群": "賴啟智、張興政、陳永森"
+    },
+    {
+      "論文名稱": "以VHDL設計CPLD實現適用於OFDM之快速傅立業處理器",
+      "會議名稱": "2003民生電子研討會",
+      "作者群": "曾憲輝、張興政、廖和恩、林信滄"
+    },
+    {
+      "論文名稱": "以VHDL設計CPLD實現適用於OFDM之16-QAM調變器",
+      "會議名稱": "2003民生電子研討會",
+      "作者群": "曾憲輝、廖和恩、張興政、楊雅惠"
+    },
+    {
+      "論文名稱": "以VHDL設計適用於OFDM之等化器",
+      "會議名稱": "2003數位生活與網際網路科技研討會",
+      "作者群": "曾憲輝、張興政、廖和恩、莊字軒"
+    },
+    {
+      "論文名稱": "用於生物檢測的微流體系統",
+      "會議名稱": "第六屆工程科技與中西醫學應用研討會",
+      "作者群": "張興政、賴啟智、曾憲輝、張崇賢"
+    },
+    {
+      "論文名稱": "應用光波導與表面電漿波之光電化學微感測器設計",
+      "會議名稱": "2003第九屆化學感測器科技研討會",
+      "作者群": "張興政、陳玨靜、曾憲輝、賴啟智"
+    },
+    {
+      "論文名稱": "多功能數位邏輯運算之微機電元件設計與實現",
+      "會議名稱": "第二屆微機電共用晶片研討會",
+      "作者群": "張興政、賴啟智、陳賢能、張一楠"
+    },
+    {
+      "論文名稱": "有效面積使用二維離散餘弦轉換及反轉換架構之超大型積體電路實現",
+      "會議名稱": "2002數位生活與網際網路科技研討會",
+      "作者群": "曾憲輝、張興政、洪明吉"
+    },
+    {
+      "論文名稱": "應用光波導與表面電漿波之光電化學微感測器設計",
+      "會議名稱": "2003第九屆化學感測器科技研討會",
+      "作者群": "張興政、陳随靜、曾憲輝、賴啟智"
+    },
+    {
+      "論文名稱": "用於機電感測系統自動量測偵錯迴路之研究",
+      "會議名稱": "第十九屆機械工程研討會",
+      "作者群": "張興致、賴啟智、曾憲輝、林永基"
+    },
+    {
+      "論文名稱": "有效面積使用二維離散餘弦轉換及反轉換架構之超大型積體電路實現",
+      "會議名稱": "2002數位生活與網際網路科技研討會",
+      "作者群": "曾憲輝、張興政、洪明吉"
+    },
+    {
+      "論文名稱": "生物微觸覺即時量測和校準系統",
+      "會議名稱": "2002年「工程科技與中西醫學應用」會議",
+      "作者群": "張興政、賴啟智、劉慶國"
+    },
+    {
+      "論文名稱": "微流控機電微結構之設計與實現",
+      "會議名稱": "第二十五屆中華民國力學學會年會暨全國力學會議",
+      "作者群": "張興政，賴啟智\n林傳隆"
+    },
+    {
+      "論文名稱": "具主動溫度補償之電容式濕度微感測器設計",
+      "會議名稱": "第25屆全國力學會議",
+      "作者群": "張興政、賴啟智、曾憲輝、蔣裕和"
+    },
+    {
+      "論文名稱": "VLSI Realization of Frequency-Based Multilayer Neural Network",
+      "會議名稱": "The 12th VLSI Design/CAD Symposium",
+      "作者群": "Hsien-Hui Tseng、H.-Cheng Chang、Chien-Ying Li"
+    },
+    {
+      "論文名稱": "An Intelligent Protection System for Power Electronics Equipments",
+      "會議名稱": "The 5th Annual International Conference on Industrial Engineering- Theory, Applications, and Practic",
+      "作者群": "Hsing-Cheng Chang、Ming-Yui Tsai"
+    },
+    {
+      "論文名稱": "子計畫二:複合式微型感測體之設計與研製",
+      "會議名稱": "88學年研究群成果發表會論文集",
+      "作者群": "張興政、賴啟智"
+    },
+    {
+      "論文名稱": "總計畫:非侵入性複合式微型脈波訊息感測系統之研製與應用",
+      "會議名稱": "88學年研究群成果發表會論文集",
+      "作者群": "張興政、張永賢"
+    },
+    {
+      "論文名稱": "VLSI Realization of SC Neural Networks for Solving Optimization Problems",
+      "會議名稱": "5th Conferenceon Artificial Intelligence and",
+      "作者群": "Hsien-Hui Tseng,Hsing-Cheng Chang and Chih-Shoung Sheu"
+    },
+    {
+      "論文名稱": "微機電系統之中醫科學化應用研究",
+      "會議名稱": "中科院第五研究所89年度執行經濟部科專計畫微機電研討成果發表會",
+      "作者群": "張興政"
+    },
+    {
+      "論文名稱": "脈診量測微機構設計與實現",
+      "會議名稱": "2000工程科技與中西醫學應用研討會",
+      "作者群": "張興政、蔣志陽、陳雅惠"
+    },
+    {
+      "論文名稱": "微振動量測之微結構設計",
+      "會議名稱": "中華民國振動與噪音工程學會第八屆學術研討會",
+      "作者群": "張興政、賴啟智、蔣志陽"
+    },
+    {
+      "論文名稱": "An Intelligent Circuit Design for Power Inverter Protection",
+      "會議名稱": "2000Automation, The Sixth International Conference on Automation Technology",
+      "作者群": "張興政、Hsien-Hui Tseng、Ming-Yui Tsai"
+    },
+    {
+      "論文名稱": "功率電晶體新型保護電路系統設計",
+      "會議名稱": "2000自動控制研討會",
+      "作者群": "張興政、曾憲輝、蔡銘裕"
+    },
+    {
+      "論文名稱": "隨機接觸力微感測器設計,",
+      "會議名稱": "中華民國八十八年醫學工程科技研討會",
+      "作者群": "張興政、賴啟智、蔣志陽"
+    },
+    {
+      "論文名稱": "聚亞醯胺薄膜微電應用模擬",
+      "會議名稱": "1999年中華民國電子材料與元件研討會",
+      "作者群": "張興政、曾憲輝、韓佳男"
+    },
+    {
+      "論文名稱": "The Design of a Character Recognition Chip",
+      "會議名稱": "The 10th VLSI Design/CAD Symposium",
+      "作者群": "曾憲輝、張興政、黃旭東"
+    },
+    {
+      "論文名稱": "聚亞胺薄膜應用於多用途微感測器之研究",
+      "會議名稱": "國科會工程處微電子學門87年度專題計畫研究成果發表會",
+      "作者群": "張興政"
+    },
+    {
+      "論文名稱": "中醫脈診複合式微感測體之設計",
+      "會議名稱": "一九九九中醫藥暨工程科技與中西醫學應用研討會論文摘要",
+      "作者群": "林永峻、張興政、林欽裕、賴啟智"
+    },
+    {
+      "論文名稱": "接觸力微感測器之設計",
+      "會議名稱": "陸軍官校75週年校慶綜合學術研討會",
+      "作者群": "林永峻、張興政、林欽裕"
+    },
+    {
+      "論文名稱": "多維信號感測系統之設計與驗證",
+      "會議名稱": "88年陸軍官校綜合學術研討會論文集",
+      "作者群": "林明煌、張興政、賴啟智"
+    },
+    {
+      "論文名稱": "聚醯亞胺薄膜微電應用模擬",
+      "會議名稱": "88年陸軍官校綜合學術研討會論文集",
+      "作者群": "韓佳男、張興政"
+    },
+    {
+      "論文名稱": "以複雜可程式邏輯元件實現適應共振理論(一)類神經網路晶片之回想電路",
+      "會議名稱": "1999自動控制研討會",
+      "作者群": "曾憲輝、張興政、蔡佳澄"
+    },
+    {
+      "論文名稱": "晶圓切割監控量測與分析系統",
+      "會議名稱": "1999自動控制研討會論文集",
+      "作者群": "張興政、曾憲輝、沈聖智"
+    },
+    {
+      "論文名稱": "複合微感測系統研製與應用研究",
+      "會議名稱": "MEMS 微機電研討成果發表會",
+      "作者群": "張興政"
+    },
+    {
+      "論文名稱": "晶圓切割系統之振動量測光機電系統",
+      "會議名稱": "八十六國科會補助生產自動化技術研究專題要覽",
+      "作者群": "張興政"
+    }
+  ],
+  "book": [
+    {
+      "專業書籍": "財團法人中正農業科技社會公益基金會研究計畫結案報告：奈米蠶絲自動化製程設備開發及應用於人工皮膚之研究(第一年)",
+      "出版單位": "財團法人中正農業科技社會公益基金會",
+      "作者群": "張興政、許煜亮、陳雅惠、吳登楨、徐維均"
+    },
+    {
+      "專業書籍": "工研院研究計畫執行結案報告：智慧水質檢測系統",
+      "出版單位": "工業技術研究院",
+      "作者群": "張興政、許煜亮、張一楠"
+    },
+    {
+      "專業書籍": "工研院研究計畫執行結案報告：委託進行業者技術服務_ 國暉鑫企業有限公司",
+      "出版單位": "工業技術研究院",
+      "作者群": "張興政、許煜亮"
+    },
+    {
+      "專業書籍": "工研院研究計畫執行結案報告：基於深度學習技術之智慧型機械手臂目標抓取任務系統之分析與研究",
+      "出版單位": "原著",
+      "作者群": "許煜亮、張興政"
+    },
+    {
+      "專業書籍": "中科院研究計畫執行結案報告：頭盔姿態定位軟體開發及韌體製作",
+      "出版單位": "原著",
+      "作者群": "許煜亮、張興政"
+    },
+    {
+      "專業書籍": "工研院研究計畫執行結案報告：智慧型虛實整合機器手臂操作平台之研發",
+      "出版單位": "原著",
+      "作者群": "許煜亮、張興政、劉漢胤"
+    },
+    {
+      "專業書籍": "財團法人中正農業科技社會公益基金會研究計畫結案報告：奈米蠶絲纖維傷口敷料產品開發及美妝保養品功能性評估",
+      "出版單位": "原著",
+      "作者群": "吳登楨、張興政、許煜亮、陳雅惠、李松泰"
+    },
+    {
+      "專業書籍": "台灣蠶業發展基金會研究計畫結案報告：自動化蠶業切消設備之設計與研發",
+      "出版單位": "原著",
+      "作者群": "許煜亮、張興政、張一楠、徐維均"
+    },
+    {
+      "專業書籍": "工研院研究計畫執行結案報告：智慧型人機協同機器手臂控制技術之研發",
+      "出版單位": "原著",
+      "作者群": "許煜亮、張興政、楊士進"
+    },
+    {
+      "專業書籍": "財團法人中正農業科技社會公益基金會研究計畫結案報告：蠶絲蛋白微奈米化量產技術開發及化妝產品應用(第一年)",
+      "出版單位": "原著",
+      "作者群": "張興政、吳登楨、許煜亮、陳雅惠"
+    },
+    {
+      "專業書籍": "工研院研究計畫執行結案報告：雷射振鏡馬達振動分析及除振技術之研發",
+      "出版單位": " 原著",
+      "作者群": "許煜亮、張興政、楊士進"
+    },
+    {
+      "專業書籍": "新形複合奈微米感測結構設計與應用研究",
+      "出版單位": "科技部",
+      "作者群": "張興政"
+    },
+    {
+      "專業書籍": "自動化陣列式螢光即時量測系統對生物體有機磷快速檢測分析研究",
+      "出版單位": "國科會",
+      "作者群": "張興政、林榮志"
+    },
+    {
+      "專業書籍": "新型具平衡與溫度補償之自動化微光機電曲率量測系統",
+      "出版單位": "國科會",
+      "作者群": "張興政、劉文豐、賴啟智"
+    },
+    {
+      "專業書籍": "Microsensors",
+      "出版單位": "Intech",
+      "作者群": "Edited by Igor V. Minin and Oleg V.Minin"
+    },
+    {
+      "專業書籍": "新型增強型氣控微流平臺和多鏡頭與螢光分析之即時量測系統",
+      "出版單位": "國科會",
+      "作者群": "張興政、賴啟智、鄒慶福"
+    },
+    {
+      "專業書籍": "智慧型產業動態管線資訊可視化之自動安全監控系統(II)",
+      "出版單位": "國科會",
+      "作者群": "賴啟智、張興政"
+    },
+    {
+      "專業書籍": "壓力變形量測系統介面開發與驗證",
+      "出版單位": "工研院",
+      "作者群": "張興政"
+    },
+    {
+      "專業書籍": "新式智慧型無線恆溫之離心微流即時檢測系統",
+      "出版單位": "行政院國科會",
+      "作者群": "張興政、賴啟智、鄒慶福"
+    },
+    {
+      "專業書籍": "智慧型產業管線動態資訊可視化之自動安全監控系統(I)",
+      "出版單位": "行政院國科會",
+      "作者群": "賴啟智、張興政"
+    },
+    {
+      "專業書籍": "彈力測試",
+      "出版單位": "工研院",
+      "作者群": "張興政"
+    },
+    {
+      "專業書籍": "喝水流量裝置",
+      "出版單位": "工研院",
+      "作者群": "張興政"
+    },
+    {
+      "專業書籍": "可研究動態生化反應之光機電即時自動微流檢測分析系統",
+      "出版單位": "大同大學/國科會工程處",
+      "作者群": "張興政、賴啟智"
+    },
+    {
+      "專業書籍": "自動化即時靜電動態處理系統(II)",
+      "出版單位": "大同大學/國科會工程處",
+      "作者群": "賴啟智，張興政"
+    },
+    {
+      "專業書籍": "防手振專利地圖建立與訊號估測分析",
+      "出版單位": "工研院",
+      "作者群": "張興政"
+    },
+    {
+      "專業書籍": "可用於自動化系統之自感測積體式氣控組合邏輯微元件",
+      "出版單位": "國家科學委員會",
+      "作者群": "張興政、賴啟智"
+    },
+    {
+      "專業書籍": "自動化即時靜電動態處理系統（I）",
+      "出版單位": "國家科學委員會",
+      "作者群": "賴啟智、張興政"
+    },
+    {
+      "專業書籍": "以氣控和電控作自動配比設計之生化微流分析系統之研發(3/3)",
+      "出版單位": "國家科學委員會",
+      "作者群": "張興政、賴啟智"
+    },
+    {
+      "專業書籍": "智慧型靜電量測與除電安全迴授控制系統",
+      "出版單位": "國家科學委員會",
+      "作者群": "賴啟智、張興政"
+    },
+    {
+      "專業書籍": "以氣控和電控作自動配比設計之生化微流分析系統之研發(2/3)",
+      "出版單位": "國科會",
+      "作者群": "張興政、賴啟智、林賢龍"
+    },
+    {
+      "專業書籍": "最佳化呼吸器及最小耗能為指標的智慧型回授控制器之研發(2/2)",
+      "出版單位": "國科會",
+      "作者群": "林賢龍、楊正宏、張興政"
+    },
+    {
+      "專業書籍": "以氣控和電控作自動配比設計之生化微流分析系統之研發(1/3)",
+      "出版單位": "國科會",
+      "作者群": "張興政、賴啟智、林賢龍"
+    },
+    {
+      "專業書籍": "自動控制高溫高壓設備即時故障檢測與安全監控之研究",
+      "出版單位": "國科會",
+      "作者群": "賴啟智、張興政、林賢龍"
+    },
+    {
+      "專業書籍": "可智慧化多向力微感測器之研究-適用於自動化加速度和力之量測(2/2)",
+      "出版單位": "國科會",
+      "作者群": "張興政、賴啟智、林賢龍"
+    },
+    {
+      "專業書籍": "危險性自動化製程設備安全即時偵測與監控之研究",
+      "出版單位": "國科會",
+      "作者群": "賴啟智、張興政、林賢龍"
+    },
+    {
+      "專業書籍": "汽車引擎歧管壓力量測成品測試平台系統",
+      "出版單位": "自行出版",
+      "作者群": "洪三山,張興政,林欽裕"
+    },
+    {
+      "專業書籍": "可智慧化多向力微感測器之研究—適用於自動化加速度和力之量測(1/2)",
+      "出版單位": "國科會",
+      "作者群": "張興政，賴啟智，林賢龍"
+    },
+    {
+      "專業書籍": "工程量測多變數量測偵錯系統與科教應用",
+      "出版單位": "國科會",
+      "作者群": "賴啟智，張興政，林賢龍"
+    },
+    {
+      "專業書籍": "Simulation of Capacitive Pressure Microsensors for MEMS- MPMC Process",
+      "出版單位": "國家高速電腦中心",
+      "作者群": "H. C. Chang,Y-N Chang"
+    },
+    {
+      "專業書籍": "Simulation of Microdiffuser/nozzle Structures in Microflow Devices",
+      "出版單位": "國家高速電腦中心",
+      "作者群": "H. C. Chang , C-C Lai, C-L Lin"
+    }
+  ],
+  "patent": [
+    {
+      "title": "發明",
+      "desc": "氣控微流檢測裝置"
+    },
+    {
+      "title": "發明",
+      "desc": "水量攝取管理裝置"
+    },
+    {
+      "title": "發明",
+      "desc": "水量攝取管理裝置"
+    },
+    {
+      "title": "發明",
+      "desc": "Resilience and displacement measuring device and method"
+    },
+    {
+      "title": "發明",
+      "desc": "彈力及位移量量測裝置、用途與方法"
+    },
+    {
+      "title": "發明",
+      "desc": "感測元件自動偵測系統"
+    },
+    {
+      "title": "發明",
+      "desc": "多維溫度參數自動化量測系統"
+    },
+    {
+      "title": "發明",
+      "desc": "碟型微流即時檢測系統"
+    },
+    {
+      "title": "發明",
+      "desc": "管線檢測裝置"
+    }
+  ],
+  "most": [
+    {
+      "name": "新型穿戴式即時環境暨路況智慧辨識裝置",
+      "schoolYear": "113"
+    },
+    {
+      "name": "新型智慧聯網多維壓力微感測系統與防跌預測應用研究(II)",
+      "schoolYear": "112"
+    },
+    {
+      "name": "基於車速實現具距離與FOV動態調控之車用盲點偵測系統",
+      "schoolYear": "112"
+    },
+    {
+      "name": "新型智慧聯網多維壓力微感測系統與防跌預測應用研究",
+      "schoolYear": "111"
+    },
+    {
+      "name": "智慧式下肢外骨骼協行機器人系統",
+      "schoolYear": "111"
+    },
+    {
+      "name": "基於深度學習之智慧聯網三維動態量測監控系統",
+      "schoolYear": "110"
+    },
+    {
+      "name": "基於超寬頻定位與深度學習技術之智慧型商場購物車",
+      "schoolYear": "110"
+    },
+    {
+      "name": "智慧聯網即時多功能微流品質與汙染因子檢測系統",
+      "schoolYear": "109"
+    },
+    {
+      "name": "智慧型產業環境多氣體感測監控系統",
+      "schoolYear": "108"
+    },
+    {
+      "name": "智慧監控之可攜式手部復健系統研製",
+      "schoolYear": "108"
+    },
+    {
+      "name": "智慧型軌道動態感測系統應用於廠房自動化環境安全監控設計",
+      "schoolYear": "107"
+    },
+    {
+      "name": "具無線聯網功能之積體式多氣體感測裝置",
+      "schoolYear": "106"
+    },
+    {
+      "name": "互動式復健機構與智慧型控制研究",
+      "schoolYear": "106"
+    },
+    {
+      "name": "新型多功能光機電水資源檢測系統之積體式構裝與應用測試",
+      "schoolYear": "105"
+    },
+    {
+      "name": "雲端聯網技術應用於智慧型自動控制生產系統",
+      "schoolYear": "105"
+    },
+    {
+      "name": "新型可攜式多功能積體式光機電水資源檢測系統",
+      "schoolYear": "104"
+    },
+    {
+      "name": "具自動控制機電結構之智慧型復健裝置",
+      "schoolYear": "104"
+    },
+    {
+      "name": "自動控制用於新型多參數即時安全監控模組設計",
+      "schoolYear": "104"
+    },
+    {
+      "name": "新型積體化奈米金屬氧化物溶膠凝膠多氣體光電微感測陣列",
+      "schoolYear": "103"
+    },
+    {
+      "name": "以智慧型視障聽覺響應重現虛擬實境自動導航系統",
+      "schoolYear": "103"
+    },
+    {
+      "name": "新型複合奈微米感測結構設計與應用之研發",
+      "schoolYear": "102"
+    },
+    {
+      "name": "自動化陣列式螢光即時量測系統對生物體有機磷快速檢測分析研究(II)",
+      "schoolYear": "101"
+    },
+    {
+      "name": "智慧型靜電感測陣列與自動危險消除系統",
+      "schoolYear": "101"
+    },
+    {
+      "name": "自動化陣列式螢光即時量測系統對生物體有機磷快速檢測分析研究",
+      "schoolYear": "100"
+    },
+    {
+      "name": "智慧型建築之自動化防災及安全預警系統",
+      "schoolYear": "100"
+    },
+    {
+      "name": "新型具平衡與溫度補償之自動化微光機電曲率量測系統(2/2)",
+      "schoolYear": "99"
+    },
+    {
+      "name": "PCB微泵流感測元件與控制電路設計與應用",
+      "schoolYear": "99"
+    },
+    {
+      "name": "新型具平衡與溫度補償之自動化微光機電曲率量測系統(1/2)",
+      "schoolYear": "98"
+    },
+    {
+      "name": "智慧型產業管線動態資訊可視化之自動安全監控系統(II)",
+      "schoolYear": "97"
+    },
+    {
+      "name": "新型增強型氣控微流檢測平台和多鏡頭與螢光分析之即時量測系統",
+      "schoolYear": "97"
+    },
+    {
+      "name": "智慧型產業管線動態資訊可視化之自動安全監控系統(I)",
+      "schoolYear": "96"
+    },
+    {
+      "name": "新式智慧型無線恆溫之離心微流即時檢測系統與動態微圖形識別",
+      "schoolYear": "96"
+    },
+    {
+      "name": "永磁電機之電磁設計與性能分析",
+      "schoolYear": "95"
+    },
+    {
+      "name": "自動化即時靜電動態處理系統(II)",
+      "schoolYear": "95"
+    },
+    {
+      "name": "可研究動態生化反應之光機電即時自動微流檢測分析系統",
+      "schoolYear": "95"
+    },
+    {
+      "name": "以動態不確定性分析法建立自動化感測與傳輸訊號之補償修正技術",
+      "schoolYear": "95"
+    },
+    {
+      "name": "自動化即時靜電動態處理系統(I)",
+      "schoolYear": "94"
+    },
+    {
+      "name": "可用於自動化系統之自感測積體式氣控組合邏輯微元件",
+      "schoolYear": "94"
+    },
+    {
+      "name": "智慧型靜電量測與除電安全迴授控制系統",
+      "schoolYear": "93"
+    },
+    {
+      "name": "以氣控和電控作自動配比設計之生化微流分析系統之研發(3/3)",
+      "schoolYear": "93"
+    },
+    {
+      "name": "整合CMOS與電鑄技術應用於高靈敏度電容式微力感測器之開發",
+      "schoolYear": "92"
+    },
+    {
+      "name": "以氣控和電控作自動配比設計之生化微流分析系統之研發(2/3)",
+      "schoolYear": "92"
+    },
+    {
+      "name": "可提升精密微混流控制效率之自調變電磁驅動系統",
+      "schoolYear": "92"
+    },
+    {
+      "name": "自動控制高溫高壓設備即時故障檢測與安全監控之研究",
+      "schoolYear": "91"
+    },
+    {
+      "name": "以氣控和電控作自動配比設計之生化微流分析系統之研發(1/3)",
+      "schoolYear": "91"
+    },
+    {
+      "name": "具自動控制功能之迷你型機電微流系統之研製",
+      "schoolYear": "91"
+    },
+    {
+      "name": "危險性自動化製程設備安全即時偵測與監控之研究",
+      "schoolYear": "90"
+    },
+    {
+      "name": "可智慧化多向力微感測器之研究-適用於自動化加速度和力之量測(2/2)",
+      "schoolYear": "90"
+    },
+    {
+      "name": "動態微力和微加速度自動化量測系統",
+      "schoolYear": "90"
+    },
+    {
+      "name": "工程多變數量測偵錯系統與科教應用",
+      "schoolYear": "89"
+    },
+    {
+      "name": "可智慧化多向力微感測器之研究-適用於自動化加速度和力之量測(1/2)",
+      "schoolYear": "89"
+    },
+    {
+      "name": "最佳機化呼吸控制系統之系統整合鑑別、機構製作與應用研究(2/2)",
+      "schoolYear": "89"
+    },
+    {
+      "name": "智慧型多點熱感測與自動化♫溫迴授控制系統",
+      "schoolYear": "89"
+    },
+    {
+      "name": "多用途感測陣列量測系統之設計與應用",
+      "schoolYear": "88"
+    },
+    {
+      "name": "最佳機化呼吸控制系統之系統整合鑑別、機構製作與應用研究(1/2)",
+      "schoolYear": "88"
+    },
+    {
+      "name": "光電感測陣列迴授控制之三維尋跡系統",
+      "schoolYear": "88"
+    },
+    {
+      "name": "精密切割影像與動態參數即時監控系統",
+      "schoolYear": "87"
+    },
+    {
+      "name": "晶片切割自動監控系統與切割誘發缺陷模型",
+      "schoolYear": "87"
+    },
+    {
+      "name": "空間潔淨度量測技術與網路教學之設計",
+      "schoolYear": "87"
+    },
+    {
+      "name": "聚亞銨薄膜應用於多用途微感測器之研究",
+      "schoolYear": "86"
+    },
+    {
+      "name": "三維定位感測之多段定時定速馬達控制系統(大專生暑期)",
+      "schoolYear": "86"
+    },
+    {
+      "name": "晶片切割系統之振動量測光機電系統",
+      "schoolYear": "85"
+    },
+    {
+      "name": "智慧型防災預警及安全應變系統(大專生暑期)",
+      "schoolYear": "85"
+    }
+  ],
+  "tech": [
+    {
+      "論文名稱": "雷射振鏡馬達振動分析及除振技術之研究 (2017-05)",
+      "書名": "機械工業雜誌",
+      "作者群": "周柏寰、許煜亮、張興政、楊士進、陳昱態、朱玉鳳"
+    },
+    {
+      "論文名稱": "自動化陣列式螢光即時量測系統對生物體有機磷快速檢測分析研究 (2012-11)",
+      "書名": "國科會100年度專題研究計畫成果報告",
+      "作者群": "張興政,林榮志,歐明宗,黃建勳,劉陳世堯,羅安婷"
+    },
+    {
+      "論文名稱": "Photoelectronic Magnetic Microsensor with a Digit Readout (2011-05)",
+      "書名": "Microsensors (Igor V. Minin and Oleg V. Minin)",
+      "作者群": "Hsing-Cheng Chang"
+    },
+    {
+      "論文名稱": "智慧型靜電量測與除電安全迴授控制系統 (2005-08)",
+      "書名": "國科會",
+      "作者群": "賴啟智、張興政、林腎龍、洪三山"
+    },
+    {
+      "論文名稱": "以氣控和電控作自動配比設計之生化微流分析系統之研發(3/3) (2005-08)",
+      "書名": "國科會",
+      "作者群": "張興政、賴啟智、林賢龍"
+    },
+    {
+      "論文名稱": "系統耦合特性模擬與封裝製程影響之研究 (2005-08)",
+      "書名": "工業技術研究院研究成果報告",
+      "作者群": "張興政、洪三山、欒同現"
+    },
+    {
+      "論文名稱": "以氣控和電控作自動配比設計之生化微流分析系統之研發(2/3) (2004-08)",
+      "書名": "國科會研究成果報告",
+      "作者群": "張興政、賴啟智、林賢龍"
+    },
+    {
+      "論文名稱": "以氣控和電控作自動配比設計之生化微流分析系統之研發(1/3) (2003-08)",
+      "書名": "國科會研究成果報告",
+      "作者群": "張興政、賴啟智、林賢龍"
+    },
+    {
+      "論文名稱": "可智慧化多向力微感測器之研究-適用於自動化加速度和力之量測(2/2) (2002-08)",
+      "書名": "國科會研究成果報告",
+      "作者群": "張興政、賴啟智、林賢龍"
+    },
+    {
+      "論文名稱": "可智慧化多向力微感測器之研究-適用於自動化加速度和力之量測(1/2) (2001-08)",
+      "書名": "國科會研究成果報告",
+      "作者群": "張興政、賴啟智、林賢龍"
+    },
+    {
+      "論文名稱": "工程多變數量測偵錯系統與科教應用 (2001-08)",
+      "書名": "國科會研究成果報告",
+      "作者群": "張興政、賴啟智"
+    },
+    {
+      "論文名稱": "最佳化呼吸控制系統之系統整合鑑別、機構製作與應用研究 (2001-08)",
+      "書名": "國科會研究成果報告",
+      "作者群": "林賢龍、張興政"
+    }
+  ],
+  "induAca": [
+    "台灣易格斯有限公司申請進駐中部科學園區一案 (2023-12 to 2024-02)",
+    "深層海水取水管線整合性監測系統研究試驗壹式 (2022-05 to 2022-11)",
+    "FCU-C4A-01 Wiper 與 Nozzle 不具合改善 (2022-04 to 2023-03)",
+    "預兆診斷技術電路板測試(含AI技術) (2021-05 to 2021-06)",
+    "塑橡膠製程資料收集 (2021-04 to 2021-11)",
+    "智慧檢測技術開發與測試驗證 (2021-02 to 2021-04)",
+    "智慧水質檢測系統 (2020-09 to 2020-12)",
+    "委託進行業者技術服務 (2020-05 to 2020-10)",
+    "奈米蠶絲自動化製程設備開發及應用於人工皮膚之研究（第一年） (2020-01 to 2020-12)",
+    "智慧型虛實整合機械手臂操作平台 (2018-09 to 2018-12)",
+    "專業技術服務 (2018-06 to 2018-12)",
+    "奈米蠶絲纖維傷口敷料產品開發及美妝保養品功能性評估 (2018-01 to 2018-12)",
+    "自動化蠶繭切削設備之設計與開發 (2017-07 to 2018-06)",
+    "智慧型人機協同機械手臂控制技術之研發 (2017-04 to 2017-12)",
+    "蠶絲蛋白奈微米化量產技術開發及醫美產品應用（第二年） (2017-01 to 2017-12)",
+    "雷射振鏡馬達振動分析及除振技術之研發 (2016-03 to 2016-11)",
+    "蠶絲蛋白奈微米化量產技術開發及醫美產品應用（第一年） (2016-01 to 2016-12)",
+    "量感測系統暨遠端監控系統整合設計研究 (2015-05 to 2015-12)",
+    "快拆接頭水質處理技術研究 (2010-08 to 2010-12)",
+    "壓力與變形檢測系統介面開發與驗證 (2008-06 to 2008-11)",
+    "薩克斯風按鍵彈力調整規格式樣書--彈力測試 (2007-10 to 2008-02)",
+    "喝水流量裝置 (2007-07 to 2007-12)",
+    "防手振專利地圖建立與訊號估測分析 (2007-04 to 2007-07)",
+    "科學工業園區人才培育補助計畫：半導體微製程實務與光電元件設計技術 (2006-08 to 2007-07)",
+    "科學工業園區人才培育補助計畫－微製程模組設計與設備技術實務 (2005-07 to 2006-08)",
+    "系統耦合特性之模擬分析與封裝製程影響研究 (2004-04 to 2004-11)",
+    "汽車引擎歧管壓力量測成品測試平台系統 (2001-09 to 2002-08)",
+    "多用途汽車微感測器設計與應用模擬 (1997-05 to 1998-04)",
+    "熱鍛控制信號防干擾研究 (1996-07 to 1997-05)",
+    "機電整合科技教育改進計畫- 感測元件設計實驗室 (1995-07 to 1996-06)"
+  ],
+  "perform": [],
+  "reward": [
+    "112年度國科會補助大專校院研究獎勵 (112, 2023-12) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "第二十三屆旺宏金矽獎—半導體設計與應用大賽-評審團金獎 (111, 2023-07) - 旺宏電子股份有限公司暨財團法人旺宏教育基金會",
+    "第二十三屆旺宏金矽獎—半導體設計與應用大賽-最佳指導教授獎 (111, 2023-07) - 旺宏電子股份有限公司暨財團法人旺宏教育基金會",
+    "逢甲大學論文著作獎勵傑出獎 (111, 2022-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (111, 2022-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (111, 2022-11) - 逢甲大學",
+    "111年度國科會補助大專校院研究獎勵 (111, 2022-10) - 研究發展處",
+    "教學滿意度全校前10%_電子學(一) (110, 2022-04) - 逢甲大學",
+    "教學滿意度全校前10%_電子學實驗(一) (110, 2022-04) - 逢甲大學",
+    "教學滿意度全校前10%_感測與量度工程 (110, 2022-04) - 逢甲大學",
+    "110-1勤學有禮2.0活動競賽_榮獲第一名 (110, 2022-01) - 逢甲大學",
+    "110-1勤學有禮2.0活動競賽_榮獲第一名 (110, 2022-01) - 逢甲大學",
+    "110-1勤學有禮2.0活動競賽_榮獲第一名 (110, 2022-01) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (110, 2021-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (110, 2021-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (110, 2021-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (110, 2021-11) - 逢甲大學",
+    "第二十一屆旺宏金矽獎—半導體設計與應用大賽-評審團金獎 (110, 2021-08) - 旺宏電子股份有限公司暨財團法人旺宏教育基金會",
+    "2021`生態型市民農園數位創作競賽-亞軍 (109, 2021-03) - 中華民國生態型市民農園發展協會",
+    "2020 台灣建築醫學學會第二屆優秀學位論文獎  優秀論文指導獎 (109, 2020-11) - 台灣建築醫學學會",
+    "逢甲大學論文著作獎勵傑出獎 (109, 2020-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (109, 2020-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (109, 2020-11) - 逢甲大學",
+    "教學滿意度全校前10%_半導體元件 (109, 2020-11) - 逢甲大學",
+    "教學滿意度全校前10%_電子學實驗(二) (109, 2020-11) - 逢甲大學",
+    "109年度科技部補助大專校院研究獎勵 (109, 2020-10) - 逢甲大學",
+    "2020福星熱能創意競賽-智能家電生活應用類第三名 (109, 2020-08) - 福星熱能科技股份有限公司",
+    "台灣機電工程國際學會109年度全國學術研討會學生論文競賽第一名 (109, 2020-08) - 台灣機電工程國際學會",
+    "台灣機電工程國際學會109年度全國學術研討會學生論文競賽第一名 (109, 2020-08) - 台灣機電工程國際學會",
+    "教學滿意度全校前10%_微光機電工程實務 (108, 2020-05) - 逢甲大學",
+    "2019全國大專院ˋ智慧電子與資通應用創新創意競賽-第一名 (108, 2019-12) - 國立高雄科技大學",
+    "逢甲大學論文著作獎勵傑出獎 (108, 2019-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (108, 2019-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (108, 2019-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (108, 2019-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (108, 2019-11) - 逢甲大學",
+    "科技部107年度大專生研究計畫研究創作獎 (108, 2019-09) - 科技部",
+    "第十九屆旺宏金矽獎—半導體設計與應用大賽-優勝獎 (107, 2019-05) - 旺宏電子股份有限公司暨財團法人旺宏教育基金會",
+    "第十九屆旺宏金矽獎—半導體設計與應用大賽-優勝獎 (107, 2019-05) - 旺宏電子股份有限公司暨財團法人旺宏教育基金會",
+    "教學滿意度全校前10%_電子學(一) (107, 2019-05) - 逢甲大學",
+    "教學滿意度全校前10%_半導體原理 (107, 2019-05) - 逢甲大學",
+    "ISME2019福星熱能創意競賽-第一名 (107, 2019-02) - 福星熱能科技公司",
+    "台灣機電工程國際學會108年全國學術研討會論文競賽-第二名 (107, 2019-02) - 台灣機電工程國際學會",
+    "台灣機電工程國際學會108年全國學術研討會論文競賽-第一名 (107, 2019-02) - 台灣機電工程國際學會",
+    "107年度畢業專題競賽-第一名吳全臨紀念獎 (107, 2019-02) - 逢甲大學",
+    "教學滿意度全校前10%_電子學(二) (107, 2018-11) - 逢甲大學",
+    "教學滿意度全校前10%_半導體元件 (107, 2018-11) - 逢甲大學",
+    "教學滿意度全校前10%_IC與微系統構裝 (107, 2018-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (107, 2018-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (107, 2018-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (107, 2018-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (107, 2018-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (107, 2018-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (107, 2018-11) - 逢甲大學",
+    "2018全國大專院ˋ智慧電子與資通應用創新創意競賽-第一名 (107, 2018-10) - 國立高雄科技大學",
+    "2018全國微電腦應用系統設計創作競賽-值得注目獎 (107, 2018-10) - 中央大學",
+    "107科技部大專生研究計畫創作獎 (107, 2018-09) - 科技部",
+    "107年度科技部補助大專校院研究獎勵 (107, 2018-08) - 逢甲大學",
+    "第十八屆旺宏金矽獎-半導體設計與應用大賽-金獎 (106, 2018-07) - 旺宏電子公司暨旺宏教育基金會",
+    "第十八屆旺宏金矽獎-半導體設計與應用大賽-新手獎 (106, 2018-07) - 旺宏電子公司暨旺宏教育基金會",
+    "Best Conference Paper Award - 2018 IEEE - ICASI (106, 2018-04) - IEEE-ICSAI",
+    "2018第十四屆全國電子設計創意競賽-佳作 (106, 2018-04) - 高雄科大",
+    "台灣機電工程國際學會108年全國學術研討會論文競賽-佳作 (106, 2018-02) - 台灣機電工程國際學會",
+    "第一屆第三次年會暨全國學術研討會-學生論文競賽-第二名 (106, 2018-02) - 台灣機電工程國際學會",
+    "第一屆第三次年會暨全國學術研討會-機電整合創意競賽-佳作 (106, 2018-02) - 台灣機電工程國際學會",
+    "台灣機電工程國際學會-第一屆第三次年會暨全國學術研討會-學生論文競賽-第一名 (106, 2018-02) - 台灣機電工程國際學會",
+    "105科技部大專生研究計畫創作獎 (106, 2017-12) - 科技部",
+    "教學滿意度全校前10%_IC與微系統 (106, 2017-12) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (106, 2017-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (106, 2017-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (106, 2017-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (106, 2017-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (106, 2017-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (106, 2017-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (106, 2017-11) - 逢甲大學",
+    "2017MATLAB/Simulink技術與應用論文比賽-優選 (106, 2017-10) - TeraSoft",
+    "2017MATLAB/Simulink技術與應用論文徵文比賽-優選 (106, 2017-10) - TeraSoft鈦思科技",
+    "106年度全國微電腦應用系統設計創作競賽-值得注目獎 (106, 2017-10) - 教育部，中央大學",
+    "106年度科技部獎勵特殊優秀人才 (106, 2017-08) - 產學合作處",
+    "First Prize :Paper Award- 2017IEEE - ICASI (105, 2017-05) - 2017IEEE-ICASI",
+    "資電學院畢業專題競賽-自控組 第二名 (105, 2017-03) - 逢甲大學",
+    "106資電學院專題競賽-自控組第二名 (105, 2017-03) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (105, 2016-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (105, 2016-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (105, 2016-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (105, 2016-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (105, 2016-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (105, 2016-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (105, 2016-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (105, 2016-11) - 逢甲大學",
+    "104科技部大專生研究計畫創作獎 (105, 2016-09) - 科技部",
+    "104科技部大專生研究計畫創作獎 (105, 2016-09) - 科技部",
+    "105年全國微型機器競賽-創意設計獎第一名 (104, 2016-05) - 科技部",
+    "資電自控組畢業專題競賽-第二名 (104, 2016-03) - 逢甲大學",
+    "資電學院自控組畢業專題競賽-第ㄧ名 (104, 2016-03) - 逢甲大學",
+    "104學年學術研究獎勵論文_傑出獎 (104, 2015-11) - 逢甲大學",
+    "104學年學術研究獎勵論文_優等獎 (104, 2015-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (104, 2015-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (104, 2015-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (104, 2015-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (104, 2015-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (104, 2015-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (104, 2015-11) - 逢甲大學",
+    "第19屆奈米工程暨微系統技術研討會-海報佳作獎 (104, 2015-08) - 中華民國微系統技奈米科技協會",
+    "第十九屆奈米工程暨微系統技術研 (104, 2015-08) - 中華民國微系統暨奈米科技協會/台大",
+    "103年度畢業專題競賽-天晴獎 (103, 2015-06) - 自控系",
+    "自動控制系畢業專題競賽-天晴獎 (103, 2015-06) - 自控系",
+    "103年度畢業專題競賽-優等獎 (103, 2015-06) - 自控系",
+    "自動控制系畢業專題競賽-優等獎 (103, 2015-06) - 自控系",
+    "教學滿意度全校前10%_IC與微系統 (103, 2014-11) - 逢甲大學",
+    "教學滿意度全校前10%_IC與微系統 (103, 2014-11) - 獎勵信函/教務長",
+    "論文著作傑出獎 (103, 2014-11) - 逢甲大學",
+    "論文著作優等獎 (103, 2014-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (103, 2014-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (103, 2014-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (103, 2014-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (103, 2014-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (103, 2014-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (103, 2014-11) - 逢甲大學",
+    "意法半導體2013iNEMO校園設計競賽-佳作 (102, 2013-12) - 意法半導體大中華暨南亞區事業部",
+    "意法半導體校園設計競賽/感謝狀 (102, 2013-12) - 意法半導體大中華暨南亞感測事業部",
+    "意法半導體校園設計競賽/佳作 (102, 2013-12) - 意法半導體大中華暨南亞感測事業部",
+    "論文著作傑出獎 (102, 2013-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (102, 2013-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (102, 2013-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (102, 2013-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (102, 2013-11) - 逢甲大學",
+    "101學年度優良導師 (101, 2013-08) - 逢甲大學",
+    "102年度科技部獎勵特殊優秀人才 (102, 2013-08) - 研究發展處",
+    "101年全國微型機器競賽-創意設計獎佳作 (101, 2013-05) - 國科會",
+    "教學滿意度全校前10%_半導體原理 (101, 2013-04) - 逢甲大學",
+    "獎狀 (101, 2013-04) - 工業技術研究院",
+    "逢甲大學優良教材獎勵優等獎 (101, 2012-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (101, 2012-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (101, 2012-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (101, 2012-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (101, 2012-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (101, 2012-11) - 逢甲大學",
+    "教學滿意度全校前10%_半導體元件 (101, 2012-11) - 獎勵信函/教務長",
+    "教學滿意度全校前10%_電子學(二) (101, 2012-11) - 獎勵信函/教務長",
+    "教學滿意度全校前10%_電子學實驗 (101, 2012-11) - 獎勵信函/教務長",
+    "101年度科技部獎勵特殊優秀人才 (101, 2012-08) - 研究發展處",
+    "資電學院行政服務優良教師講 (100, 2012-07) - 獎狀/資電學院",
+    "101學年度優良導師 (100, 2012-07) - 逢甲大學",
+    "教學滿意度全校前10%_微機電製程 (100, 2012-03) - 獎勵信函/教務長",
+    "100學年論文著作傑出獎 (100, 2011-11) - 逢甲大學獎狀/逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (100, 2011-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (100, 2011-11) - 逢甲大學",
+    "教學滿意度全校前10%_電子學(二) (100, 2011-11) - 獎勵信函/教務長",
+    "100年度科技部獎勵特殊優秀人才 (100, 2011-08) - 研究發展處",
+    "逢甲大學感謝狀 (99, 2011-06) - 逢甲大學獎狀/逢甲大學",
+    "99學年度論文傑出獎 (99, 2010-11) - 逢甲大學獎狀/逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (99, 2010-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (99, 2010-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (99, 2010-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (99, 2010-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (99, 2010-11) - 逢甲大學",
+    "99年度科技部獎勵特殊優秀人才 (99, 2010-10) - 研究發展處",
+    "98學年度優良導師 (98, 2010-08) - 逢甲大學",
+    "機電整合最佳論文-佳作 (98, 2010-06) - 第18屆全國自動化科技研討會",
+    "98學年度優良導師 (98, 2010-06) - 逢甲大學",
+    "98學年校級優良導師 (98, 2010-06) - 校長，董事長/逢甲大學",
+    "98學年系級優良導師 (98, 2010-03) - 自控系",
+    "逢甲大學論文著作獎勵傑出獎 (98, 2009-11) - 逢甲大學",
+    "逢甲大學98學年論文著作-傑出獎 (98, 2009-11) - 校長張保隆/逢甲大學",
+    "逢甲大學98學年論文著作-優等獎 (98, 2009-11) - 校長張保隆/逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (98, 2009-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (98, 2009-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (98, 2009-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (98, 2009-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (98, 2009-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (98, 2009-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (98, 2009-11) - 逢甲大學",
+    "97學年學術研究獎勵論文_傑出獎 (97, 2008-11) - 逢甲大學",
+    "97學年學術研究獎勵論文_優等獎 (97, 2008-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (97, 2008-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (97, 2008-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (97, 2008-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (97, 2008-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (97, 2008-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (97, 2008-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (97, 2008-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (97, 2008-11) - 逢甲大學",
+    "96學年學術研究獎勵論文_佳作獎 (96, 2007-11) - 逢甲大學",
+    "96學年學術研究獎勵論文_傑出獎 (96, 2007-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵 (96, 2007-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (96, 2007-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (96, 2007-11) - 逢甲大學",
+    "Semiconductor Best Paper Award (96, 2007-08) - 2007ICEPT",
+    "95年科學園區人才培育計畫感謝狀 (95, 2007-06) - 國科會",
+    "逢甲大學優良導師 (95, 2007-06) - 逢甲大學",
+    "學術研究獎勵研發成果傑出獎 (95, 2006-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (95, 2006-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (95, 2006-11) - 逢甲大學",
+    "10年三等服務獎章 (95, 2006-08) - 行政院",
+    "94年科學園區人才培育計畫感謝狀 (94, 2006-06) - 中部科學工業園區開發籌備處",
+    "論文競賽-優等 (94, 2006-05) - 2006第九屆工程科技與中西醫學應用研討會",
+    "學術研究獎勵-傑出獎 (93, 2004-11) - 逢甲大學",
+    "學術研究獎勵-優等獎 (93, 2004-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (93, 2004-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (93, 2004-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (92, 2003-11) - 逢甲大學",
+    "2000義隆盃單晶片微控制器應用製作大賽暨人工智慧大賽-控制組優等 (88, 2000-05) - 南台科技大學及義隆電子公司"
+  ],
+  "speech": [
+    {
+      "演講題目": "為奈米多氣體感測器研製",
+      "邀請單位": "國家實驗研究院台灣儀器科技研究中心",
+      "演講日期": "2019-08"
+    },
+    {
+      "演講題目": "奈米蠶絲蛋白多針式靜電紡絲技術開發與應用",
+      "邀請單位": "中正農業科技社會公益基金會",
+      "演講日期": "2018-06"
+    },
+    {
+      "演講題目": "蠶絲蛋白微奈米量產技術開發",
+      "邀請單位": "中正農業科技社會公益基金會",
+      "演講日期": "2018-05"
+    },
+    {
+      "演講題目": "蠶絲蛋白微奈米量產技術開發與化妝產品應用",
+      "邀請單位": "中興大學",
+      "演講日期": "2016-08"
+    },
+    {
+      "演講題目": "微奈米氣體感氣裝置",
+      "邀請單位": "晶元光電股份有限公司-新竹N6廠",
+      "演講日期": "2015-12"
+    },
+    {
+      "演講題目": "以奈米材料為基礎的多氣體感測器",
+      "邀請單位": "明道大學",
+      "演講日期": "2015-08"
+    },
+    {
+      "演講題目": "以微流螢光檢測平台發展多功能生化檢測陣列",
+      "邀請單位": "中興大學精密工程所",
+      "演講日期": "2013-12"
+    },
+    {
+      "演講題目": "Thin Films of Semiconductors and MEMS",
+      "邀請單位": "勤益科技大學機械系",
+      "演講日期": "2010-11"
+    },
+    {
+      "演講題目": "即時微流檢測系統之研發與應用",
+      "邀請單位": "勤益科技大學機械工程系",
+      "演講日期": "2010-05"
+    },
+    {
+      "演講題目": "智慧型感測技術",
+      "邀請單位": "彰師大光電科技所",
+      "演講日期": "2009-03"
+    },
+    {
+      "演講題目": "微機電系統技術與發展趨勢",
+      "邀請單位": "暨南大學電機工程糸",
+      "演講日期": "2008-10"
+    },
+    {
+      "演講題目": "微感測與自動化技術",
+      "邀請單位": "彰師大光電技術研究所",
+      "演講日期": "2008-04"
+    },
+    {
+      "演講題目": "微機電製程與即時自動檢測系統",
+      "邀請單位": "勤益科技大學",
+      "演講日期": "2007-04"
+    },
+    {
+      "演講題目": "碟片微流道離心反應即時自動檢測分析系統",
+      "邀請單位": "高雄海洋科技大學輪機系",
+      "演講日期": "2006-11"
+    },
+    {
+      "演講題目": "自動化微元件與監控技術",
+      "邀請單位": "勤益技術學院電機工程系",
+      "演講日期": "2005-12"
+    },
+    {
+      "演講題目": "氣電耦合-微氣控邏輯元件之研製",
+      "邀請單位": "聯合大學電機工程系",
+      "演講日期": "2005-11"
+    },
+    {
+      "演講題目": "氣控微邏輯元件之研製",
+      "邀請單位": "中興大學機械工程系(所)",
+      "演講日期": "2005-06"
+    }
+  ],
+  "material": [
+    "Microsensors\tINTECH\tEdited by Igor V. Minin and Oleg V. Minin\t複合教材",
+    "Microsensors\tINTECH\tEdited by Igor V. Minin and Oleg V. Minin\t複合教材"
+  ],
+  "tal": []
+}

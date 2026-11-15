@@ -1,0 +1,801 @@
+{
+  "success": true,
+  "info": {
+    "yms_year": 114.0,
+    "yms_smester": 1.0,
+    "sub_id": "13911",
+    "cls_id": "CB06140",
+    "scr_dup": "001",
+    "sub_id3": "COOP4041",
+    "cls_name": "合經四",
+    "cls_ename": "Department of Cooperative Economics",
+    "sub_name": "合作與非營利志願服務",
+    "sub_ename": "EXPERIENTIAL STUDY IN COOPERATIVES, NONPROFITS, AND VOLUNTEERING MANAGEMENT",
+    "scr_mso": "選修",
+    "scr_mso_en": "Elective",
+    "scr_credit": 2.0,
+    "scr_periodly": "(一)00",
+    "scr_periodly_eng": "(Mon)00",
+    "lang_name": "中文                                                      ",
+    "lang_ename": "Chinese",
+    "scr_room": "待排",
+    "scr_room_eng": "TBD",
+    "scr_teacher": "翟本瑞,汪浩,黃慧慈,吳肇展,江宜芳,葉俐廷,郭廸賢,王芊惠,林瑞發",
+    "scr_teacher_eng": "Ruey-Fa Lin,Hao Wang,Hui-Tzu Huang,Chao-Chan Wu,Yi-Fang Chiang,Li-Ting Yeh,Dyi-Shyan Guo,Chien-Hui Wang,Ruey-Fa Lin",
+    "scr_selcode": "0520",
+    "scr_elearning": "全學期",
+    "scr_elearning_en": "Full semester",
+    "scr_hours": "1",
+    "scr_english": "N",
+    "unt_name": null,
+    "unt_ename": null,
+    "link_traminal": null,
+    "link_traminal_en": null,
+    "scr_ldl": "D",
+    "course_mk": "N",
+    "teams_mk": "N",
+    "sub_title": null,
+    "sub_title_en": null,
+    "sub_describe": null,
+    "sub_describe_en": null,
+    "hasDescription": null,
+    "hasInstructor": null,
+    "hasTA": null,
+    "hasTextBooks": null,
+    "hasReadings": null,
+    "hasiSoftwares": null,
+    "hasAssistSoftwares": null,
+    "hasObjective": null,
+    "hasWeeklyScds": null,
+    "hasGradeRules": null,
+    "hasGradeRuleDescribe": null,
+    "hasIntegrity": null,
+    "hasCoursePol": null,
+    "hasCourseRem": null,
+    "hasObjectiveReleation": null,
+    "hasTopicSdgs": null,
+    "hasSubTitleDesc": null
+  },
+  "subTitleDesc": null,
+  "description": {
+    "sub_id3": null,
+    "sub_name": "合作與非營利志願服務",
+    "sub_ename": "EXPERIENTIAL STUDY IN COOPERATIVES, NONPROFITS, AND VOLUNTEERING MANAGEMENT",
+    "describe_ch": "源自於服務學習的理念架構和經驗技術的考量和最佳實作特色的考量，本課程以厚實學生敬業態度與從業倫理理想，積極落實實務運作、經驗與倫理，增進產官學合作介面與互動，回饋改善教學模式與過程品質和職能內容，以增進多元生涯能力與興趣和增進職場競爭力。",
+    "describe_eh": "This course us characterized by best practice and service learning paradigm. It is aimed to the quality assurance for students' marketability and competitiveness. For promoting the professional knowledge, skill/experience, attitudes and such behavioral characteristics as corporate social responsibilities and so on. Coordinated teaching groups composed of teaching and practice from different fields for empowering students' competencies. The apprentice-like tutorial system is also formulated as for improving those competencies preferred in occupational contexts.",
+    "pre_subname": "",
+    "pre_sub_id3": null,
+    "pre_sub_ename": "",
+    "pre_describe": null,
+    "pre_describe_en": null,
+    "scr_credit": 2.0
+  },
+  "targets": [
+    {
+      "seq": 1,
+      "describe_ch": "商管與經營知能",
+      "describe_en": "Capacity and Capability in Business and Management"
+    },
+    {
+      "seq": 2,
+      "describe_ch": "企業倫理與社會責任素養",
+      "describe_en": "Business Ethics and Corporate Social Responsibility"
+    },
+    {
+      "seq": 3,
+      "describe_ch": "溝通領導與團隊合作能力",
+      "describe_en": "Communicate, Lead and cooperate as a team"
+    },
+    {
+      "seq": 4,
+      "describe_ch": "跨領域多元專知與終身學習",
+      "describe_en": "Interdisciplinary and Life-Long Education"
+    },
+    {
+      "seq": 5,
+      "describe_ch": "邏輯推理與分析辯證能力",
+      "describe_en": "Logic, reasoning, analytic and heuristic manner"
+    }
+  ],
+  "teachersInfo": [
+    {
+      "cname": "翟本瑞",
+      "ename": "Ben-Ray Jai",
+      "period": "(Tue)06-07 文202,(Wed)06-07 文202",
+      "roletype": 0,
+      "email": "brjai@o365.fcu.edu.tw",
+      "ext": "4361"
+    },
+    {
+      "cname": "汪浩",
+      "ename": "Hao Wang",
+      "period": " ",
+      "roletype": 0,
+      "email": "hwang@o365.fcu.edu.tw",
+      "ext": "4362"
+    },
+    {
+      "cname": "黃慧慈",
+      "ename": "Hui-Tzu Huang",
+      "period": " ",
+      "roletype": 0,
+      "email": "huithuang@o365.fcu.edu.tw",
+      "ext": "4369"
+    },
+    {
+      "cname": "吳肇展",
+      "ename": "Chao-Chan Wu",
+      "period": " ",
+      "roletype": 0,
+      "email": "chaocwu@o365.fcu.edu.tw",
+      "ext": "4359"
+    },
+    {
+      "cname": "江宜芳",
+      "ename": "Yi-Fang Chiang",
+      "period": "(Wed)03-04 商934,(Fri)03-04 商934",
+      "roletype": 0,
+      "email": "yfchiang@o365.fcu.edu.tw",
+      "ext": "4358"
+    },
+    {
+      "cname": "葉俐廷",
+      "ename": "Li-Ting Yeh",
+      "period": "(Mon)04  商936,(Tue)02-03 商936,(Tue)04  商936",
+      "roletype": 0,
+      "email": "lityeh@o365.fcu.edu.tw",
+      "ext": "4355"
+    },
+    {
+      "cname": "郭廸賢",
+      "ename": "Dyi-Shyan Guo",
+      "period": "(Mon)06  商904,(Tue)09  商904,(Thu)02-03 商904",
+      "roletype": 0,
+      "email": "dsguo@o365.fcu.edu.tw",
+      "ext": "4356"
+    },
+    {
+      "cname": "王芊惠",
+      "ename": "Chien-Hui Wang",
+      "period": "(Wed)07-08 商905,(Thu)06-07 商905",
+      "roletype": 0,
+      "email": "chienhwang@o365.fcu.edu.tw",
+      "ext": "4367"
+    },
+    {
+      "cname": "林瑞發",
+      "ename": "Ruey-Fa Lin",
+      "period": " ",
+      "roletype": 0,
+      "email": "rflin@o365.fcu.edu.tw",
+      "ext": "4357"
+    }
+  ],
+  "textBooks": {
+    "yms_year": 114.0,
+    "yms_smester": 1.0,
+    "cls_id": "CB06140",
+    "sub_id": "13911",
+    "scr_dup": "001",
+    "tpb_seq": 1,
+    "tpb_book": "<div>Barbara Jacoby著 劉若蘭、郭瑋芸、邱佳慧、王美鴻、劉芳與邱筱琪譯(2018) 服務：學習的本質：問題、解答與啟示，學富文化。</div>\n\n<div>黃玉等(2009) 從服務中學習：跨領域服務學習理論與實務【修訂版】，洪葉文化。陳武雄(2015) 志願服務：理論與實務(Theory and Practice to Voluntary Service)，揚智。</div>\n\n<div>(寒暑假實習)</div>\n",
+    "tpb_book_en": null
+  },
+  "readings": {
+    "yms_year": 114.0,
+    "yms_smester": 1.0,
+    "cls_id": "CB06140",
+    "sub_id": "13911",
+    "scr_dup": "001",
+    "tpc_seq": 1,
+    "tpc_book": "<div>陳武雄(2015) 志願服務：理論與實務(Theory and Practice to Voluntary Service)，揚智。</div>\n",
+    "tpc_book_en": null
+  },
+  "iSoftwares": [],
+  "assistSoftwares": [],
+  "weeklyScds": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CB06140",
+      "sub_id": "13911",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "1-2",
+      "tpd_reading": "<div>實習服務導論與說明</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": null,
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": "學生熟習工作場域與環境",
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CB06140",
+      "sub_id": "13911",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "3-4",
+      "tpd_reading": "<div>實習工作內容</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": null,
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": "學生熟習工作內容與範疇",
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CB06140",
+      "sub_id": "13911",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "5-6",
+      "tpd_reading": "<div>企業導師指引互動</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": null,
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": "企業導師給予回饋建議",
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CB06140",
+      "sub_id": "13911",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "7-8",
+      "tpd_reading": "<div>工作內容熟悉與調整</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": null,
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": "學生依據企業導師回饋建議予以工作任務上的修正調整",
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CB06140",
+      "sub_id": "13911",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "9-10",
+      "tpd_reading": "<div>實習導師訪視互動</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": null,
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": "學生、企業導師與實習導師約時間進行訪視",
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CB06140",
+      "sub_id": "13911",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "11-14",
+      "tpd_reading": "<div>實習狀況改善與紀錄</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": null,
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CB06140",
+      "sub_id": "13911",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "15-18",
+      "tpd_reading": "<div>實習工作任務收尾與相關資料彙整</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": null,
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CB06140",
+      "sub_id": "13911",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": null,
+      "tpd_reading": " ",
+      "tpd_reading_en": null,
+      "tpd_learn": null,
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    }
+  ],
+  "gradeRules": [],
+  "gradeRuleDescribe": {
+    "yms_year": 114.0,
+    "yms_smester": 1.0,
+    "cls_id": "CB06140",
+    "sub_id": "13911",
+    "scr_dup": "001",
+    "tpa_score_new": "<div>實習成績100%(本課程採學生寒暑假實習160小時方式本課程採學生寒暑假實習160小時方式本課程採學生寒暑假實習160小時方式本課程採學生寒暑假實習160小時方式)</div>\n",
+    "tpa_score_new_en": null,
+    "course_pol": "學生須遵守企業工作倫理守則之要求，不得遲到早退、或有違反企業守則及雙方實習契約之情事。實習期間務必注意個人安全。",
+    "course_pol_en": null,
+    "course_rem": null,
+    "course_rem_en": null,
+    "ais_meno": "<div>學生須遵守企業實習之相關規範，嚴守企業文化與商業倫理道德，秉持誠信守則進行企業實習職場上的互動，認真完成工作任務。</div>\n",
+    "ais_meno_en": null,
+    "ilearn_mk": null
+  },
+  "integrity": {
+    "yms_year": 114.0,
+    "yms_smester": 1.0,
+    "cls_id": "CB06140",
+    "sub_id": "13911",
+    "scr_dup": "001",
+    "tpa_score_new": "<div>實習成績100%(本課程採學生寒暑假實習160小時方式本課程採學生寒暑假實習160小時方式本課程採學生寒暑假實習160小時方式本課程採學生寒暑假實習160小時方式)</div>\n",
+    "tpa_score_new_en": null,
+    "course_pol": "學生須遵守企業工作倫理守則之要求，不得遲到早退、或有違反企業守則及雙方實習契約之情事。實習期間務必注意個人安全。",
+    "course_pol_en": null,
+    "course_rem": null,
+    "course_rem_en": null,
+    "ais_meno": "<div>學生須遵守企業實習之相關規範，嚴守企業文化與商業倫理道德，秉持誠信守則進行企業實習職場上的互動，認真完成工作任務。</div>\n",
+    "ais_meno_en": null,
+    "ilearn_mk": null
+  },
+  "policy": {
+    "yms_year": 114.0,
+    "yms_smester": 1.0,
+    "cls_id": "CB06140",
+    "sub_id": "13911",
+    "scr_dup": "001",
+    "tpa_score_new": "<div>實習成績100%(本課程採學生寒暑假實習160小時方式本課程採學生寒暑假實習160小時方式本課程採學生寒暑假實習160小時方式本課程採學生寒暑假實習160小時方式)</div>\n",
+    "tpa_score_new_en": null,
+    "course_pol": "學生須遵守企業工作倫理守則之要求，不得遲到早退、或有違反企業守則及雙方實習契約之情事。實習期間務必注意個人安全。",
+    "course_pol_en": null,
+    "course_rem": null,
+    "course_rem_en": null,
+    "ais_meno": "<div>學生須遵守企業實習之相關規範，嚴守企業文化與商業倫理道德，秉持誠信守則進行企業實習職場上的互動，認真完成工作任務。</div>\n",
+    "ais_meno_en": null,
+    "ilearn_mk": null
+  },
+  "courseBankC": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CB06140",
+      "sub_id": "13911",
+      "scr_dup": "001",
+      "seq": 1,
+      "describe_ch": "商管與經營知能",
+      "describe_en": "Capacity and Capability in Business and Management",
+      "core_id": "A",
+      "core_item": "學生具備商管專業的思辨學習能力",
+      "core_eng": "Students possess critical thinking capability in business and management issue",
+      "core_level": "4 ",
+      "strgy": [
+        "03"
+      ],
+      "evalb": [
+        "F2"
+      ],
+      "strgy_name": [
+        "個案討論"
+      ],
+      "strgy_name_en": [
+        "Case study"
+      ],
+      "evalb_name": [
+        "口頭評量"
+      ],
+      "evalb_name_en": [
+        "Oral evaluation"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CB06140",
+          "sub_id": "13911",
+          "scr_dup": "001",
+          "seq": 1,
+          "strgy_id": "03",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CB06140",
+          "sub_id": "13911",
+          "scr_dup": "001",
+          "seq": 1,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "F2",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CB06140",
+      "sub_id": "13911",
+      "scr_dup": "001",
+      "seq": 2,
+      "describe_ch": "企業倫理與社會責任素養",
+      "describe_en": "Business Ethics and Corporate Social Responsibility",
+      "core_id": "B",
+      "core_item": "學生具備溝通技巧",
+      "core_eng": "Students are able to be effective communicators.",
+      "core_level": "4 ",
+      "strgy": [
+        "17"
+      ],
+      "evalb": [
+        "G4"
+      ],
+      "strgy_name": [
+        "產業實習"
+      ],
+      "strgy_name_en": [
+        "Internship"
+      ],
+      "evalb_name": [
+        "專業實習報告"
+      ],
+      "evalb_name_en": [
+        "Internship report"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CB06140",
+          "sub_id": "13911",
+          "scr_dup": "001",
+          "seq": 2,
+          "strgy_id": "17",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CB06140",
+          "sub_id": "13911",
+          "scr_dup": "001",
+          "seq": 2,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "G4",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CB06140",
+      "sub_id": "13911",
+      "scr_dup": "001",
+      "seq": 3,
+      "describe_ch": "溝通領導與團隊合作能力",
+      "describe_en": "Communicate, Lead and cooperate as a team",
+      "core_id": "C",
+      "core_item": "學生具備專業倫理觀念與態度",
+      "core_eng": "Students have professional concepts and attitudes of ethics",
+      "core_level": "4 ",
+      "strgy": [
+        "17",
+        "21"
+      ],
+      "evalb": [
+        "G4"
+      ],
+      "strgy_name": [
+        "產業實習",
+        "服務學習"
+      ],
+      "strgy_name_en": [
+        "Internship",
+        "Service Learning, SL"
+      ],
+      "evalb_name": [
+        "專業實習報告"
+      ],
+      "evalb_name_en": [
+        "Internship report"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CB06140",
+          "sub_id": "13911",
+          "scr_dup": "001",
+          "seq": 3,
+          "strgy_id": "17",
+          "strgy_name": null,
+          "strgy_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CB06140",
+          "sub_id": "13911",
+          "scr_dup": "001",
+          "seq": 3,
+          "strgy_id": "21",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CB06140",
+          "sub_id": "13911",
+          "scr_dup": "001",
+          "seq": 3,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "G4",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CB06140",
+      "sub_id": "13911",
+      "scr_dup": "001",
+      "seq": 4,
+      "describe_ch": "跨領域多元專知與終身學習",
+      "describe_en": "Interdisciplinary and Life-Long Education",
+      "core_id": "D",
+      "core_item": "學生具備跨領域及問題解決能力",
+      "core_eng": "Students possess interdisciplinary capabilities and problem-solving skills, supported by appropriate analytical techniques",
+      "core_level": "5 ",
+      "strgy": [
+        "18"
+      ],
+      "evalb": [
+        "I6"
+      ],
+      "strgy_name": [
+        "主動學習"
+      ],
+      "strgy_name_en": [
+        "Active Learning, AL"
+      ],
+      "evalb_name": [
+        "專業實習表現"
+      ],
+      "evalb_name_en": [
+        "Internship representation"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CB06140",
+          "sub_id": "13911",
+          "scr_dup": "001",
+          "seq": 4,
+          "strgy_id": "18",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CB06140",
+          "sub_id": "13911",
+          "scr_dup": "001",
+          "seq": 4,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "I6",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CB06140",
+      "sub_id": "13911",
+      "scr_dup": "001",
+      "seq": 5,
+      "describe_ch": "邏輯推理與分析辯證能力",
+      "describe_en": "Logic, reasoning, analytic and heuristic manner",
+      "core_id": null,
+      "core_item": null,
+      "core_eng": null,
+      "core_level": null,
+      "strgy": [
+        "18"
+      ],
+      "evalb": [
+        "I6"
+      ],
+      "strgy_name": [
+        "主動學習"
+      ],
+      "strgy_name_en": [
+        "Active Learning, AL"
+      ],
+      "evalb_name": [
+        "專業實習表現"
+      ],
+      "evalb_name_en": [
+        "Internship representation"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CB06140",
+          "sub_id": "13911",
+          "scr_dup": "001",
+          "seq": 5,
+          "strgy_id": "18",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CB06140",
+          "sub_id": "13911",
+          "scr_dup": "001",
+          "seq": 5,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "I6",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    }
+  ],
+  "topicSdgs": [],
+  "learnHours": {
+    "total": 0.0,
+    "tpdOnlineAsyTotal": 0.0,
+    "tpdOnlineSynTotal": 0.0,
+    "tpdOnlineFaceTotal": 0.0,
+    "asySynInTotalPercent": 0.0
+  },
+  "crossVerYear": 114
+}

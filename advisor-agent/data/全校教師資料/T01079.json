@@ -1,0 +1,620 @@
+{
+  "teacherId": "T01079",
+  "name": "黃誠甫",
+  "mainUnit": "商學院",
+  "detailUnit": "企業管理學系",
+  "skill": [
+    "網路分析Network Analysis",
+    "系統可靠度System Reliability",
+    "製程能力分析Process capability analysis"
+  ],
+  "edu": [
+    "台灣科技大學 工業管理系 博士"
+  ],
+  "fcuExp": [
+    "校務研究中心 主任",
+    "企業管理學系 系主任",
+    "科技管理碩士學位學程 主任",
+    "工業工程與系統管理學系 兼任助理教授",
+    "工業工程與系統管理學系 兼任助理教授",
+    "企業管理學系 助理教授",
+    "企業管理學系 副教授"
+  ],
+  "currjob": [],
+  "otherExp": [
+    "台灣科技大學  助理研究學者",
+    "台灣科技大學  博士後研究"
+  ],
+  "journal": [
+    {
+      "論文名稱": "Reliability evaluation for time-based stochastic manufacturing networks with time-dependent reliability",
+      "期刊名稱": "Quality Technology & Quantitative Management (SCIE)",
+      "作者群": "Chang, P. C., Huang, C. F.*, & Fiondella, L."
+    },
+    {
+      "論文名稱": "A reliability prediction model for a multistate cloud/edge-based network based on a deep neural network",
+      "期刊名稱": "Annals of Operations Research (SCIE)",
+      "作者群": "Huang, D. H., Huang, C. F. and Lin, Y. K.*"
+    },
+    {
+      "論文名稱": "Simulation-based system reliability estimation of a multi-state flow network for all possible demand levels",
+      "期刊名稱": "Annals of Operations Research (SCIE)",
+      "作者群": "Chang, P. C., Huang, D. H, & Huang, C. F.*"
+    },
+    {
+      "論文名稱": "MC-reduction simulation approach with heuristic rules for reliability estimation in a multi-state flow network",
+      "期刊名稱": "Simulation Modelling Practice and Theory (SCIE)",
+      "作者群": "Chang, P. C., Huang, C. F., & Huang, D. H*"
+    },
+    {
+      "論文名稱": "Reliability evaluation of a cloud–fog computing network considering transmission mechanisms",
+      "期刊名稱": "IEEE Transactions on Reliability (SCIE)",
+      "作者群": "Huang, C. F., Huang, D. H. and Lin, Y. K.*"
+    },
+    {
+      "論文名稱": "System reliability for a multi-state distribution network with multiple terminals under stocks",
+      "期刊名稱": "Annals of Operations Research (SCIE)",
+      "作者群": "Huang, C. F.*"
+    },
+    {
+      "論文名稱": "System reliability analysis for a cloud-based network under edge server capacity and budget constraints",
+      "期刊名稱": "Annals of Operations Research (SCIE)",
+      "作者群": "Huang, C. F., Huang, D. H. and Lin, Y. K.*"
+    },
+    {
+      "論文名稱": "Reliability of spare routing via intersectional minimal paths\nwithin budget and time constraints by simulation",
+      "期刊名稱": "Annals of Operations Research (SCIE)",
+      "作者群": "Lin, Y. K., Huang, C. F.*, & Chang, C. C"
+    },
+    {
+      "論文名稱": "Network reliability evaluation for multi-state computing networks considering demand as the non-integer type",
+      "期刊名稱": "Reliability Engineering & System Safety (SCIE)",
+      "作者群": "Huang, C. F., Huang, D. H. and Lin, Y. K.*"
+    },
+    {
+      "論文名稱": "Using deep neural networks to evaluate the system reliability of manufacturing networks",
+      "期刊名稱": "International Journal of Performability Engineering (EI)",
+      "作者群": "Chen, Y. F., Lin, Y. K.* and Huang, C. F."
+    },
+    {
+      "論文名稱": "Network reliability evaluation for a distributed network with edge computing",
+      "期刊名稱": "Computers & Industrial Engineering (SCIE)",
+      "作者群": "Huang, C. F., Huang, D. H., and Lin, Y. K.*"
+    },
+    {
+      "論文名稱": "A binding algorithm of lower boundary points generation for network reliability evaluation",
+      "期刊名稱": "IEEE Transactions on Reliability (SCIE)",
+      "作者群": "Huang, D. H., Huang, C. F. and Lin, Y. K.*"
+    },
+    {
+      "論文名稱": "A novel minimal cut-based algorithm to find all minimal capacity vectors for multi-state flow networks",
+      "期刊名稱": "European Journal of Operational Research (SCIE)",
+      "作者群": "Huang, D. H., Huang, C. F. and Lin, Y. K.*"
+    },
+    {
+      "論文名稱": "System reliability assessment of a fast retransmit through k separate minimal paths under the latency",
+      "期刊名稱": "IEEE Transactions on Systems, Man, and Cybernetics: Systems (SCIE)",
+      "作者群": "Huang, C. F., Lin, Y. K.* and Yeng, C. L."
+    },
+    {
+      "論文名稱": "Exact project reliability for a multi-state project network subject to time and budget constraints",
+      "期刊名稱": "Reliability Engineering & System Safety (SCIE)",
+      "作者群": "Huang, D. H., Huang, C. F. and Lin, Y. K.*"
+    },
+    {
+      "論文名稱": "Reliability evaluation for a stochastic flow network based on upper and lower boundary vectors",
+      "期刊名稱": "Mathematics (SCIE)",
+      "作者群": "Huang, D. H., Huang, C. F. and Lin, Y. K.*"
+    },
+    {
+      "論文名稱": "Reliability of a stochastic intermodal logistics network under spoilage and time considerations.",
+      "期刊名稱": " Annals of Operations Research. (SCIE)",
+      "作者群": "Lin, Y. K., Huang, C. F.* and Liao, Y. C."
+    },
+    {
+      "論文名稱": "Evaluation of system reliability for a stochastic delivery-flow distribution network with inventory",
+      "期刊名稱": "Annals of Operations Research (SCIE)",
+      "作者群": "Huang, C. F.*"
+    },
+    {
+      "論文名稱": "Evaluation of system reliability for a freeway system with stochastic speed.",
+      "期刊名稱": "International Journal of Industrial Engineering: Theory, Applications and Practice. (SCIE)",
+      "作者群": "Lin, Y. K., Huang, C. F.*, Lin, J. S. and Li, S. Y."
+    },
+    {
+      "論文名稱": "作業研究歷久彌新的回顧",
+      "期刊名稱": "管理與系統 (TSSCI)",
+      "作者群": "張秉宸、黃誠甫、吳吉政、洪一薰、林義貴*"
+    },
+    {
+      "論文名稱": "作業管理：設計思考與CDIO融入的創新",
+      "期刊名稱": "大學教學實務與研究期刊 (ISSN：2519-6499)",
+      "作者群": "吳如娟*、黃誠甫"
+    },
+    {
+      "論文名稱": "Project Reliability Interval for a Stochastic Project Network Subject to Time and Budget Constraints.",
+      "期刊名稱": " IEEE Transactions on Reliability. (SCIE)",
+      "作者群": "Lin, Y. K.*, Huang, C. F., Yeng, C. L. and Cho, Y. L."
+    },
+    {
+      "論文名稱": "System Reliability for a Multistate Intermodal Logistics Network with Time Windows",
+      "期刊名稱": "International Journal of Production Research (SCIE)",
+      "作者群": "Lin, Y. K.*, Huang, C. F., Liao, Y. C and Yeh, C. C."
+    },
+    {
+      "論文名稱": "A mathematical programming model for constructing the confidence interval of process capability index Cpm in evaluating process performance: An example of five-way pipe",
+      "期刊名稱": "Journal of the Chinese Institute of Engineers (SCIE)",
+      "作者群": "Chen, K. S., Huang, C. F. and Chang, T. C.*"
+    },
+    {
+      "論文名稱": "Reliability assessment of a multistate freight network for perishable merchandise with multiple suppliers and buyers",
+      "期刊名稱": "International Journal of Systems Science (SCIE)",
+      "作者群": "Lin, Y. K.*, Yeh, C. T. and Huang, C. F."
+    },
+    {
+      "論文名稱": "A simple algorithm to evaluate supply-chain reliability for brittle commodity logistics under production and delivery constraints",
+      "期刊名稱": "Annals of Operations Research (SCIE)",
+      "作者群": "Lin, Y. K.*, Yeh, C. T. and Huang, C. F."
+    },
+    {
+      "論文名稱": "Reliability evaluation according to a routing scheme for multi-state computer networks under assured accuracy rate",
+      "期刊名稱": "Annals of Operations Research (SCIE)",
+      "作者群": "Lin, Y. K.* and Huang, C. F."
+    },
+    {
+      "論文名稱": "Assessment of system reliability for a stochastic-flow distribution network with the spoilage property",
+      "期刊名稱": "International Journal of Systems Science (SCIE)",
+      "作者群": "Lin, Y. K.*, Huang, C. F. and Yeh, C. T."
+    },
+    {
+      "論文名稱": "Estimated network reliability evaluation for a stochastic flexible flow shop network with different types of jobs",
+      "期刊名稱": "Computers & Industrial Engineering (SCIE)",
+      "作者群": "Lin, Y. K.*, Huang, D. H., and Huang, C. F."
+    },
+    {
+      "論文名稱": "Reliability of a multi-state computer network through k minimal paths within tolerable error rate and time threshold",
+      "期刊名稱": "Quality and Reliability Engineering International. (SCIE)",
+      "作者群": "Lin, Y. K.* and Huang, C. F."
+    },
+    {
+      "論文名稱": "Routing scheme of a multi-state computer network employing a retransmission mechanism within a time threshold",
+      "期刊名稱": "Information Sciences (SCIE)",
+      "作者群": "Huang, C. F., Lin, Y. K.* and Yeng, C. L"
+    },
+    {
+      "論文名稱": "Vehicle glass distribution reliability measurement under transportation cost constraint",
+      "期刊名稱": "European Journal of Industrial Engineering (SCIE)",
+      "作者群": "Yeh, C. T., Lin, Y. K.* and Huang, C. F."
+    },
+    {
+      "論文名稱": "Assessment of spare reliability for multi-state computer networks within tolerable packet unreliability",
+      "期刊名稱": "International Journal of Systems Science (SCIE)",
+      "作者群": "Lin, Y. K.* and Huang, C. F."
+    },
+    {
+      "論文名稱": "Reliability evaluation of a multi-state network with multiple sinks under individual accuracy rate constraint",
+      "期刊名稱": "Communications in Statistics – Theory and Methods (SCIE)",
+      "作者群": "Lin, Y. K.* and Huang, C. F."
+    },
+    {
+      "論文名稱": "Network reliability with deteriorating product and production capacity through a multi-state delivery network",
+      "期刊名稱": "International Journal of Production Research (SCIE)",
+      "作者群": "Lin, Y. K.*, Huang, C. F. and Yeh, C. T."
+    },
+    {
+      "論文名稱": "A reliability indicator to measure a stochastic supply chain network with transportation damage and limited production capacity",
+      "期刊名稱": "IIE Transactions (SCIE)",
+      "作者群": "Yeh, C. T., Lin, Y. K.* and Huang, C. F."
+    },
+    {
+      "論文名稱": "Backup reliability assessment within tolerable packet error rate for a multi-state unreliable vertex computer network",
+      "期刊名稱": "Information Sciences (SCIE)",
+      "作者群": "Lin, Y. K. and Huang, C. F.*"
+    },
+    {
+      "論文名稱": "Spare reliability for capacitated computer networks under tolerable error rate and latency considerations",
+      "期刊名稱": "Communications in Statistics - Simulation and Computation. (SCIE)",
+      "作者群": "Lin, Y. K.* and Huang, C. F."
+    },
+    {
+      "論文名稱": "Performance assessment of stochastic node-failure computer networks according to routing scheme under packet reliability",
+      "期刊名稱": "Journal of the Chinese Institute of Engineers. (SCIE)",
+      "作者群": "Lin, Y. K.* and Huang, C. F."
+    },
+    {
+      "論文名稱": "Reliability evaluation subject to assured accuracy rate and time for stochastic unreliable-node computer networks",
+      "期刊名稱": "Journal of Statistical Computation and Simulation (SCIE)",
+      "作者群": "Lin, Y. K.* and Huang, C. F."
+    },
+    {
+      "論文名稱": "System reliability of assured accuracy rate for multi-state computer networks from service level agreements viewpoint",
+      "期刊名稱": "Journal of Systems Science and Systems Engineering (SCIE)",
+      "作者群": "Lin, Y. K.* and Huang, C. F."
+    },
+    {
+      "論文名稱": "A stochastic node-failure network with individual tolerable error rate at multiple sinks",
+      "期刊名稱": "International Journal of Systems Science (SCIE)",
+      "作者群": "Huang, C. F. and Lin, Y. K.*"
+    },
+    {
+      "論文名稱": "Reliability assessment of a stochastic node-failure network with multiple sinks under tolerable error rate",
+      "期刊名稱": "International Journal of Computer Mathematics (SCIE)",
+      "作者群": "Lin, Y. K.* and Huang, C. F."
+    },
+    {
+      "論文名稱": "Transmission reliability of a stochastic imperfect vertex computer network with packet unreliability and time attributes",
+      "期刊名稱": "International Journal of Reliability, Quality and Safety Engineering (EI)",
+      "作者群": "Lin, Y. K.* and Huang, C. F."
+    },
+    {
+      "論文名稱": "Delivery reliability of computer networks for data transmission within the permitted packet error rate and latency",
+      "期刊名稱": "Computers & Electrical Engineering (SCIE)",
+      "作者群": "Lin, Y. K.* and Huang, C. F."
+    },
+    {
+      "論文名稱": "System reliability evaluation of a touch panel manufacturing system with defect rate and reworking",
+      "期刊名稱": "Reliability Engineering & System Safety (SCIE)",
+      "作者群": "Lin, Y. K.*, Huang, C. F., and Chang, P. C."
+    },
+    {
+      "論文名稱": "Reliability evaluation of a stochastic-flow distribution network with delivery spoilage",
+      "期刊名稱": "Computers & Industrial Engineering (SCIE)",
+      "作者群": "Lin, Y. K.*, Yeh, C. T. and Huang, C. F."
+    },
+    {
+      "論文名稱": "Stochastic computer network under accuracy rate constraint from QoS viewpoint",
+      "期刊名稱": "Information Sciences (SCIE)",
+      "作者群": "Lin, Y. K.* and Huang, C. F."
+    },
+    {
+      "論文名稱": "System reliability with routing scheme for a stochastic computer network under accuracy rate",
+      "期刊名稱": "International Journal of Industrial Engineering: Theory, Applications and Practice (SCIE)",
+      "作者群": "Lin, Y. K.* and Huang, C. F."
+    },
+    {
+      "論文名稱": "Backup reliability of stochastic imperfect-node computer networks subject to assured accuracy rate and time constraint",
+      "期刊名稱": "International Journal of Computer Mathematics (SCIE)",
+      "作者群": "Lin, Y. K.* and Huang, C. F."
+    },
+    {
+      "論文名稱": "Stochastic computer network with multiple terminals under total accuracy rate",
+      "期刊名稱": "Journal of Zhejiang University Science C (Computers & Electronics) (SCIE)",
+      "作者群": "Lin, Y. K.* and Huang, C. F."
+    },
+    {
+      "論文名稱": "Stochastic Flow network reliability with tolerable error rate",
+      "期刊名稱": "Quality Technology and Quantitative Management (SCIE)",
+      "作者群": "Lin, Y. K.* and Huang, C. F."
+    },
+    {
+      "論文名稱": "Assessing reliability within error rate and time constraint for a stochastic node imperfect computer network",
+      "期刊名稱": "Proceedings of the Institution of Mechanical Engineers Part O-Journal of Risk and Reliability (SCIE)",
+      "作者群": "Lin, Y. K.* and Huang, C. F."
+    },
+    {
+      "論文名稱": "A multi-state computer network within transmission error rate and time constraints",
+      "期刊名稱": "Journal of the Chinese Institute of Industrial Engineers (EI,TSSCI)",
+      "作者群": "Lin, Y. K.* and Huang, C. F."
+    },
+    {
+      "論文名稱": "Application of RPN analysis to parameter optimization of passive components",
+      "期刊名稱": "Microelectronics & Reliability (SCIE)",
+      "作者群": "Chen, K. S., Wang, C. C., Wang, C. H.*, and Huang, C. F."
+    },
+    {
+      "論文名稱": "Enhancement of axle bearing quality in sewing machines using six sigma",
+      "期刊名稱": "Proceedings of the Institution of Mechanical Engineers, Part B, Journal of Engineering Manufacture (SCIE)",
+      "作者群": "Huang, C. F.*, Chen, K. S., Sheu, S. H., and Hsu, T. S."
+    }
+  ],
+  "journal2": [],
+  "conference": [
+    {
+      "論文名稱": "數位成熟度對製造業數位轉型影響之探討:TOE架構",
+      "會議名稱": "IMP 2021  第二十六屆國際資訊管理暨實務研討會",
+      "作者群": "吳如娟、李康誼"
+    },
+    {
+      "論文名稱": "Network reliability evaluation for stochastic-flow computing networks considering non-integer demands",
+      "會議名稱": "proceedings of 2021 International Conference of Annual Meeting of the Operations Research Society of Taiwan & 19th Conference on Sustainable Operation and Development",
+      "作者群": "Huang, D. H.*, Huang, C. F., Lin, Y. K. and Huang, C. H."
+    },
+    {
+      "論文名稱": "System reliability evaluation with time attribute for a multi-state hybrid flow shop network with preventive maintenance policy",
+      "會議名稱": "Proceedings of 2021 Chinese Institute of Industrial Engineers Annual Conference",
+      "作者群": "Liao, Y. T., Huang, C. F. and Lin, Y. K.*"
+    },
+    {
+      "論文名稱": "Reliability for the edge-cloud computing network",
+      "會議名稱": "Proceedings of the 26th ISSAT International Conference of Reliability and Quality in Design",
+      "作者群": "Liao, Y. T., Huang, C. F., Huang, D. H. and Lin, Y. K.*"
+    },
+    {
+      "論文名稱": "以TOE架構探討數位成熟度評量對企業數位轉型的影響",
+      "會議名稱": "國際大數據與ERP學術及實務研討會",
+      "作者群": "吳如娟、黃誠甫、李康誼"
+    },
+    {
+      "論文名稱": "Reliability evaluation for a cloud computer network with fog computing",
+      "會議名稱": "2020 IEEE 20th International Conference on Software Quality, Reliability and Security Companion (QRS-C)",
+      "作者群": "Chen, Y. F., Huang, D. H., Huang, C. F. and Lin, Y. K.*"
+    },
+    {
+      "論文名稱": "Time-related network reliability evaluation",
+      "會議名稱": "2020 Chinese Institute of Industrial Engineers Annual Conference",
+      "作者群": "Huang, D. H.*, Huang, C. F. and Lin, Y. K."
+    },
+    {
+      "論文名稱": "Reliability analysis for multi-state projects by decomposition subsets",
+      "會議名稱": "2020 Asia-Pacific International Symposium on Advanced Reliability and Maintenance Modeling (APARM)",
+      "作者群": "Chiu, Y. H.,  Huang, C. F.*, Lin, Y. K. and Huang, D. H."
+    },
+    {
+      "論文名稱": "Reliability evaluation for a computer network with fog computing",
+      "會議名稱": "2020 IEEE 20th International Conference on Software Quality, Reliability and Security Companion (QRS-C)",
+      "作者群": "Huang, D. H.*, Huang, C. F. and Lin, Y. K.*"
+    },
+    {
+      "論文名稱": "Reliability evaluation in terms of multiple upper and lower boundary points",
+      "會議名稱": "2019 Annual Meeting of the Operations Research Society of Taiwan",
+      "作者群": "Huang, D. H., Huang, C. F. and Lin, Y. K.*"
+    },
+    {
+      "論文名稱": "Performance evaluation for a cloud computing network with edge computing",
+      "會議名稱": "The 17th Asia Network for Quality (ANQ) Conference",
+      "作者群": "Huang, D. H.*, Huang, C. F. and Lin, Y. K."
+    },
+    {
+      "論文名稱": "A novel algorithm with heuristic rules to lower boundary points generation for network reliability evaluation",
+      "會議名稱": "The 25th ISSAT International Conference of Reliability and Quality in Design",
+      "作者群": "Huang, D. H.*, Huang, C. F. and Lin, Y. K."
+    },
+    {
+      "論文名稱": "d-MPs algorithm with group searching in multi-state flow networks",
+      "會議名稱": "The 11th International Conference on Mathematical Methods in Reliability",
+      "作者群": "Huang, C. F.*, Huang, D. H. and Lin, Y. K."
+    },
+    {
+      "論文名稱": "Project reliability evaluation for project management subject to uncertain durations and cost attributes",
+      "會議名稱": "The 2019 International Conference in Management Sciences and Decision Making",
+      "作者群": "Huang, D. H.*, Huang, C. F. and Lin, Y. K."
+    },
+    {
+      "論文名稱": "Maximize a computer network reliability under time and budget constraints using genetic algorithm",
+      "會議名稱": "IEEE 6th International Conference on Industrial Engineering and Applications (ICIEA 2019)",
+      "作者群": "Yeh, C. T.* and Huang, C. F."
+    },
+    {
+      "論文名稱": "Construction of process capability analysis model with multiple characteristics for different data types",
+      "會議名稱": "IEEE 6th International Conference on Industrial Engineering and Applications (ICIEA 2019)",
+      "作者群": "Huang, C. F. and Lin, B. Y.*"
+    },
+    {
+      "論文名稱": "Quantifying reliability with time attribute in a stochastic flow network based on the weibull distribution",
+      "會議名稱": "The 8th Asia-Pacific International Symposium on Advanced Reliability and Maintenance Modeling (APARM 2018) & the 8th International Conference on Quality, Reliability, Risk, Maintenance, and Safety Engineering (QR2MSE 2018)",
+      "作者群": "Chang, P. C.*, Huang, C. F. and Lin, Y. K."
+    },
+    {
+      "論文名稱": "Backup reliability evaluation for a stochastic computer network with the retransmission and time considerations",
+      "會議名稱": "The 24th ISSAT International Conference of Reliability and Quality in Design",
+      "作者群": "Huang, C. F.*, Chang, P. C. and Lin, Y. K."
+    },
+    {
+      "論文名稱": "Stochastic flow distribution network of multiple sinks with inventory consideration",
+      "會議名稱": "The 23rd ISSAT International Conference of Reliability and Quality in Design",
+      "作者群": "Huang, C. F.*, Lin, Y. K. and Chuang, Man-Ju"
+    },
+    {
+      "論文名稱": "Using Confidence Intervals of Index Cpp to Construct an Evaluation System for Manufacturers",
+      "會議名稱": "The 17th Asia Pacific Industrial Engineering and Management Society (APIEMS 2016)",
+      "作者群": "Huang, C. F.*, Lan, W. Y. and Chen, K. S."
+    },
+    {
+      "論文名稱": "An interval of project reliability evaluation for multistate project network",
+      "會議名稱": "The 7th Asia-Pacific International Symposium on Advanced Reliability and Maintenance Modeling (APARM 2016)",
+      "作者群": "Huang, C. F.*, Lin, Y. K and Cho, Y. L."
+    },
+    {
+      "論文名稱": "System reliability with delivery spoilage and time windows for a multistate intermodal logistics network",
+      "會議名稱": "The 22th ISSAT International Conference of Reliability and Quality in Design",
+      "作者群": "Huang, C. F.*, Liao, Y. C. and Lin, Y. K."
+    },
+    {
+      "論文名稱": "System reliability for a fast retransmit through two separate quickest paths under the time constraint",
+      "會議名稱": "The 22th ISSAT International Conference of Reliability and Quality in Design",
+      "作者群": "Huang, C. F.* and Lin, Y. K."
+    },
+    {
+      "論文名稱": "Network reliability evaluation for stochastic-flow intermodal transportation network with time windows",
+      "會議名稱": "The 2015 CIIE Annual Conference",
+      "作者群": "Huang, C. F.*, Liao, Y. C. and Lin, Y. K."
+    },
+    {
+      "論文名稱": "Project reliability evaluation for the multi-state project network",
+      "會議名稱": "The 2015 CIIE Annual Conference",
+      "作者群": "Huang, C. F., Cho, Y. L. and Lin, Y. K.*"
+    },
+    {
+      "論文名稱": "Confidence-based reliability evaluation of multistate production network with process improvement",
+      "會議名稱": "The 21th ISSAT International Conference of Reliability and Quality in Design.",
+      "作者群": "Cho, Y. L, Huang, C. F. and Lin, Y. K.*"
+    },
+    {
+      "論文名稱": "System reliability with the spoilage property for a stochastic-flow distribution network",
+      "會議名稱": "The 6th Asia-Pacific International Symposium on Advanced Reliability and Maintenance Modeling (APARM 2014)",
+      "作者群": "Lin, Y. K.*, Huang, C. F. and Yeh, C. T."
+    },
+    {
+      "論文名稱": "Performance measure for a multistate distribution network under the delivery spoilage consideration",
+      "會議名稱": "The 19th ISSAT International Conference of Reliability and Quality in Design",
+      "作者群": "Huang, C. F., Yeh, C. T. and Lin, Y. K.*"
+    },
+    {
+      "論文名稱": "Reliability of permitted packet unreliability and latency in a multi-state imperfect vertex computer network",
+      "會議名稱": "The 19th ISSAT International Conference of Reliability and Quality in Design",
+      "作者群": "Huang, C. F. and Lin, Y. K.*"
+    },
+    {
+      "論文名稱": "A study of accuracy rate and time constraint in system reliability with routing scheme",
+      "會議名稱": "The 5th Asia-Pacific International Symposium on Advanced Reliability and Maintenance Modeling (APARM 2012).",
+      "作者群": "Lin, Y. K.*, Huang, C. F., and Yeh, R. H."
+    },
+    {
+      "論文名稱": "Accuracy Rate Issue for System Reliability Evaluation of Multiple Terminals",
+      "會議名稱": "The 18th ISSAT International Conference of Reliability and Quality in Design",
+      "作者群": "Lin, Y. K.* and Huang, C. F."
+    },
+    {
+      "論文名稱": "Application of RPN analysis in parameter optimization design of frequency passive component",
+      "會議名稱": "BAI 2010 International Conference on Business and Information",
+      "作者群": "Chen, K. S., Huang, C. F., Wang, C. C. and Wang, C. H.*"
+    },
+    {
+      "論文名稱": "The improvement of assembly efficiency of military product by Six-Sigma",
+      "會議名稱": "International Conference on Science, Technology and Innovation for Sustainable Well-Being (STISWB 2009)",
+      "作者群": "Chen, K. S., Huang, C. F. and Wang, C. H.*"
+    }
+  ],
+  "book": [],
+  "patent": [],
+  "most": [
+    {
+      "name": "(博士增核)電力系統之網路可靠度研究(3/3)",
+      "schoolYear": "113"
+    },
+    {
+      "name": "電力系統之網路可靠度研究(3/3)",
+      "schoolYear": "113"
+    },
+    {
+      "name": "基於時間損壞率之隨機流量物流網路的網路可靠度評估與最佳化研究(1/3)",
+      "schoolYear": "113"
+    },
+    {
+      "name": "學生機車位需求預測與校園停車場管理之研究",
+      "schoolYear": "113"
+    },
+    {
+      "name": "(博士增核)電力系統之網路可靠度研究(2/3)",
+      "schoolYear": "112"
+    },
+    {
+      "name": "電力系統之網路可靠度研究(2/3)",
+      "schoolYear": "112"
+    },
+    {
+      "name": "電力系統之網路可靠度研究(1/3)",
+      "schoolYear": "111"
+    },
+    {
+      "name": "邊緣運算考量之雲端服務網路系統可靠度評估(3/3)",
+      "schoolYear": "111"
+    },
+    {
+      "name": "邊緣運算考量之雲端服務網路系統可靠度評估(2/3)",
+      "schoolYear": "110"
+    },
+    {
+      "name": "以六標準差DMAIC流程提升超商取貨服務績效",
+      "schoolYear": "110"
+    },
+    {
+      "name": "邊緣運算考量之雲端服務網路系統可靠度評估(1/3)",
+      "schoolYear": "109"
+    },
+    {
+      "name": "改良式系統可靠度評估模式建構與應用(2/2)",
+      "schoolYear": "108"
+    },
+    {
+      "name": "改良式系統可靠度評估模式建構與應用(1/2)",
+      "schoolYear": "107"
+    },
+    {
+      "name": "考量重傳機制下大數據電腦網路之網路可靠度研究(3/3)",
+      "schoolYear": "106"
+    },
+    {
+      "name": "探討存貨之考量下多點運送物流網路之系統可靠度評估模式",
+      "schoolYear": "106"
+    },
+    {
+      "name": "考量重傳機制下大數據電腦網路之網路可靠度研究(2/3)",
+      "schoolYear": "105"
+    },
+    {
+      "name": "考量重傳機制下大數據電腦網路之網路可靠度研究(1/3)",
+      "schoolYear": "104"
+    }
+  ],
+  "tech": [
+    {
+      "論文名稱": "System Reliability of an Intermittent Production System (2017-07)",
+      "書名": "Reliability Modeling with Computer and Maintenance Applications",
+      "作者群": "Chang, P. C., Huang, C. F., Lin, Y. K., and Shih, P. S."
+    },
+    {
+      "論文名稱": "System Reliability Evaluation of a Multistate Manufacturing Network (2015-11)",
+      "書名": "Quality and Reliability Management and Its Applications",
+      "作者群": "Lin, Y. K., Chang, P. C. and Huang, C. F."
+    }
+  ],
+  "induAca": [
+    "臺中市企業先進智造學院計畫委託專業服務案-分項三：全球供應鏈管理 (2023-03 to 2023-11)"
+  ],
+  "perform": [],
+  "reward": [
+    "113年度國科會補助大專校院研究獎勵 (113, 2024-11) - 逢甲大學",
+    "112年度國科會補助大專校院研究獎勵 (112, 2023-12) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (111, 2022-11) - 逢甲大學",
+    "111學年度教學績優獎 (111, 2022-11) - 逢甲大學",
+    "111年度國科會補助大專校院研究獎勵 (111, 2022-10) - 研究發展處",
+    "逢甲大學論文著作獎勵傑出獎 (110, 2021-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (110, 2021-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (110, 2021-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (110, 2021-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (110, 2021-11) - 逢甲大學",
+    "110年度科技部補助大專校院研究獎勵 (110, 2021-10) - 產學合作處",
+    "逢甲大學論文著作獎勵優良獎 (109, 2020-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (109, 2020-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (109, 2020-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (109, 2020-11) - 逢甲大學",
+    "109年度科技部補助大專校院研究獎勵 (109, 2020-10) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (108, 2019-11) - 逢甲大學",
+    "108學年度科技部補助大專校院研究獎勵 (108, 2019-09) - 逢甲大學",
+    "107學年度E化教學優良獎 (107, 2019-03) - 中華企業資源規劃學會",
+    "逢甲大學論文著作獎勵傑出獎 (107, 2018-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (107, 2018-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (107, 2018-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (107, 2018-11) - 逢甲大學",
+    "107年度科技部補助大專校院研究獎勵 (107, 2018-08) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (106, 2017-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (106, 2017-11) - 逢甲大學",
+    "2017年大學教師優良創新課程及教學競賽 優等獎 (106, 2017-09) - 清華大學",
+    "ISSAT RQD 2016 Best Paper Award, (106, 2017-08) - The International Society of Science and Applied Technologies (ISSAT)"
+  ],
+  "speech": [
+    {
+      "演講題目": "學習歷程與 研究轉換之經驗分享",
+      "邀請單位": "台灣科技大學工業管理系",
+      "演講日期": "2018-05"
+    },
+    {
+      "演講題目": "System Reliability Evaluation for Stochastic Flow Networks",
+      "邀請單位": "勤益科技大學工業工程與管理系",
+      "演講日期": "2016-12"
+    },
+    {
+      "演講題目": "Network Reliability with Time Windows and Delivery Spoilage Considerations for a Multistate Intermodal Logistics Network.",
+      "邀請單位": "清華大學工業工程與工程管理學系",
+      "演講日期": "2016-12"
+    }
+  ],
+  "material": [],
+  "tal": []
+}

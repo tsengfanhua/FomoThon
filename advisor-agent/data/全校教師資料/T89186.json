@@ -1,0 +1,181 @@
+{
+  "teacherId": "T89186",
+  "name": "朱嘯秋",
+  "mainUnit": "資訊電機學院",
+  "detailUnit": "通訊工程學系",
+  "skill": [
+    "數位通訊 Digital Communications",
+    "無線網路Wireless Communication",
+    "偵錯編碼Coding Design"
+  ],
+  "edu": [
+    "美國普渡大學 電機系 博士",
+    "美國麻薩諸塞州立大學 電機系 碩士",
+    "國立台灣大學 電機系 學士"
+  ],
+  "fcuExp": [
+    "電子工程學系 助理教授",
+    "通訊工程學系 助理教授"
+  ],
+  "currjob": [],
+  "otherExp": [
+    "工業局委託 無線通訊養成班 講師",
+    "資訊工業策進會 資訊技術處 網路實驗室 工程師",
+    "AT&T Bell Lab Contract developer 工程師",
+    "美國印第安那大學 電腦中心 諮詢顧問",
+    "美國普渡大學 電機系 研究助理",
+    "美國麻州大學 電機系 研究助理",
+    "美國麻州大學 電機系 助教"
+  ],
+  "journal": [
+    {
+      "論文名稱": "Large area code construction and correlation properties",
+      "期刊名稱": "International Journal of Electrical Engineering (EI)",
+      "作者群": "Chen-Yan Lai, Hsiao-Chiu Chu, Shry-Sann Liao, Chung-Min Muang"
+    },
+    {
+      "論文名稱": "Array representations of binary PN sequences with large linear span",
+      "期刊名稱": "International Journal of Electrical Engineering (EI)",
+      "作者群": "Chen-Yan Lai, Hsiao-Chiu Chu, Shry-Sann Liao"
+    }
+  ],
+  "journal2": [],
+  "conference": [
+    {
+      "論文名稱": "Fast File Recovery by Meshed File Systems",
+      "會議名稱": "The 13th International Conference on Advanced Information Technologies (AIT 2019)",
+      "作者群": "Hsiao-Chiu Chu (朱嘯秋)"
+    },
+    {
+      "論文名稱": "段落化混合單字與字元壓縮方法還原受損文字檔案",
+      "會議名稱": "銘傳大學 2019 資訊科技與實務研討會",
+      "作者群": "黃品丰，朱嘯秋"
+    },
+    {
+      "論文名稱": "Partial Recovery of Corrupted Compressed Text\nFiles by Segmented Hoffman Encoding",
+      "會議名稱": "The 12th International Conference on Advanced Information Technologies (AIT2018)",
+      "作者群": "Hsiao-Chiu Chu(朱嘯秋）, Chih-Wen Huang"
+    },
+    {
+      "論文名稱": "以網狀檔案系統實現快速檔案復原",
+      "會議名稱": "2018全國電信研討會",
+      "作者群": "詹婷伊，朱嘯秋"
+    },
+    {
+      "論文名稱": "以段落化霍夫曼編碼復原部分毀損文字檔案",
+      "會議名稱": "2016年民生電子研討會",
+      "作者群": "黃智文，朱嘯秋"
+    },
+    {
+      "論文名稱": "室內局部三度空間定位：叢集式基地台之配置",
+      "會議名稱": "2016民生電子研討會",
+      "作者群": "唐偉杰，朱嘯秋"
+    },
+    {
+      "論文名稱": "Power-Saving Encoding Schemes for Wireless ECG Signal Transmissions",
+      "會議名稱": "Seventh International Conference on Complex, Intelligent, and Software Intensive Systems (CISIS 2013)",
+      "作者群": "朱嘯秋"
+    },
+    {
+      "論文名稱": "'A Civilization Backup System for the Post-Armageddon World",
+      "會議名稱": "2013 IEEE International Symposium on Consumer Electronics",
+      "作者群": "朱嘯秋"
+    },
+    {
+      "論文名稱": "隨機事件引起移動式感測網路拓樸改變之研究",
+      "會議名稱": "2013第七屆資訊科技國際研討會 (International Conference on Advanced Information Technologies, AIT2013)",
+      "作者群": "潘世樺，朱嘯秋"
+    },
+    {
+      "論文名稱": "以拓樸規劃延長移動式感測網路壽命之研究",
+      "會議名稱": "2013第七屆資訊科技國際研討會 (International Conference on Advanced Information Technologies, AIT2013)",
+      "作者群": "朱嘯秋，林世育"
+    },
+    {
+      "論文名稱": "室內局部三度空間定位之研究",
+      "會議名稱": "2013 全國網際網路暨通訊科技研討會，NWICT2013",
+      "作者群": "林英傑 , 朱嘯秋"
+    },
+    {
+      "論文名稱": "Structured Wireless Local Area Network Planning",
+      "會議名稱": "2010電子通訊應用研討會",
+      "作者群": "Hsiao-Chiu Chu, Ming-Li Hsu"
+    },
+    {
+      "論文名稱": "一種醫療用智慧衣之無線網路傳輸系統研製",
+      "會議名稱": "2005國際醫學資訊研討會（MIST2005）",
+      "作者群": "賴辰彥、朱嘯秋、邱創乾、陳勇華、黃志仁"
+    },
+    {
+      "論文名稱": "LA code construction and performance analysis for LAS-2000",
+      "會議名稱": "IEEE Asia-Pacific Conference on Circuits and Systems (APCCAS2004)",
+      "作者群": "Chen-Yan Lai, Hsiao-Chiu Chu, Shry-Sann Liao, Chung-Min Huang"
+    },
+    {
+      "論文名稱": "On LA code performance analysis for LAS-CDMA communications",
+      "會議名稱": "IEEE 6th CAS Symposium on Emerging Technologies: Frontiers of Mobile and Wireless Communication (MWC'04)",
+      "作者群": "Chen-Yan Lai, Hsiao-Chiu Chu, Shry-Sann Liao, Chung-Min Huang"
+    },
+    {
+      "論文名稱": "一種醫療用智慧衣無線傳輸系統之實現",
+      "會議名稱": "2003民生電子研討會（2003 Workshop on Consumer Electronics）",
+      "作者群": "賴辰彥、朱嘯秋、邱創乾、許致偉、紀運錦"
+    },
+    {
+      "論文名稱": "Array Formation of Gold Codes and Bent Sequences",
+      "會議名稱": "IEEE Asia-Pacific Microwave",
+      "作者群": "Chen-Yan Lai, Hsiao-Chiu Chu, Shry-Sann Liao"
+    },
+    {
+      "論文名稱": "Combining TCM with PAPR reduction schemes on MC-CDMA",
+      "會議名稱": "2001 Cross Strait Tri-Regional Radio Science and Wireless Technology Conference",
+      "作者群": "Hsiao-Chiu Chu、Youn-Tai Lee"
+    }
+  ],
+  "book": [],
+  "patent": [],
+  "most": [
+    {
+      "name": "Image scrambling with pseudo random patterns from direct-sequence-generating",
+      "schoolYear": "112"
+    },
+    {
+      "name": "第四代多址進接碼與應用擬亂序列探討二進位平方剩餘碼之研究",
+      "schoolYear": "94"
+    },
+    {
+      "name": "第四代行動通訊之大區域同步編碼研究",
+      "schoolYear": "93"
+    },
+    {
+      "name": "B3G高效能編碼技術研究(II)",
+      "schoolYear": "92"
+    },
+    {
+      "name": "應用於高使用者密度無線區域網路之高效率數據傳輸方法研究",
+      "schoolYear": "92"
+    },
+    {
+      "name": "藍芽系統數散網路有效封包傳輸機制之研究",
+      "schoolYear": "91"
+    }
+  ],
+  "tech": [],
+  "induAca": [
+    "通訊科技教育改進計畫─光通訊系統組：光纖通訊網路導(概)論 (2003-03 to 2003-12)"
+  ],
+  "perform": [],
+  "reward": [
+    "逢甲大學論文著作獎勵優良獎 (96, 2007-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (95, 2006-11) - 逢甲大學"
+  ],
+  "speech": [
+    {
+      "演講題目": "藍芽無線技術與應用",
+      "邀請單位": "大華大學機電研究所",
+      "演講日期": "2008-12"
+    }
+  ],
+  "material": [],
+  "tal": []
+}

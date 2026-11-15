@@ -1,0 +1,712 @@
+{
+  "success": true,
+  "info": {
+    "yms_year": 114.0,
+    "yms_smester": 2.0,
+    "sub_id": "99889",
+    "cls_id": "CM02310",
+    "scr_dup": "001",
+    "sub_id3": "TLOG6002",
+    "cls_name": "運輸物流碩一",
+    "cls_ename": "Master's Program, Department of Transportation and Logistics",
+    "sub_name": "人工智慧與大數據",
+    "sub_ename": "MACHINE LEARNING & BIG DATA ANALYSIS",
+    "scr_mso": "必修",
+    "scr_mso_en": "Required",
+    "scr_credit": 3.0,
+    "scr_periodly": "(一)02-04",
+    "scr_periodly_eng": "(Mon)02-04",
+    "lang_name": "英語                                                      ",
+    "lang_ename": "English",
+    "scr_room": "V002教室(共善樓)",
+    "scr_room_eng": "V002",
+    "scr_teacher": "翁祥凱,葉昭甫,劉霈",
+    "scr_teacher_eng": "Hsiang-Kai Weng,Chao-Fu Yeh,Pei Liu",
+    "scr_selcode": "2266",
+    "scr_elearning": "全學期",
+    "scr_elearning_en": "Full semester",
+    "scr_hours": "3",
+    "scr_english": "Y",
+    "unt_name": null,
+    "unt_ename": null,
+    "link_traminal": null,
+    "link_traminal_en": null,
+    "scr_ldl": "D",
+    "course_mk": "N",
+    "teams_mk": "Y",
+    "sub_title": null,
+    "sub_title_en": null,
+    "sub_describe": null,
+    "sub_describe_en": null,
+    "hasDescription": null,
+    "hasInstructor": null,
+    "hasTA": null,
+    "hasTextBooks": null,
+    "hasReadings": null,
+    "hasiSoftwares": null,
+    "hasAssistSoftwares": null,
+    "hasObjective": null,
+    "hasWeeklyScds": null,
+    "hasGradeRules": null,
+    "hasGradeRuleDescribe": null,
+    "hasIntegrity": null,
+    "hasCoursePol": null,
+    "hasCourseRem": null,
+    "hasObjectiveReleation": null,
+    "hasTopicSdgs": null,
+    "hasTopicAiIndicators": null,
+    "hasSubTitleDesc": null
+  },
+  "subTitleDesc": null,
+  "description": {
+    "sub_id3": null,
+    "sub_name": "人工智慧與大數據",
+    "sub_ename": "MACHINE LEARNING & BIG DATA ANALYSIS",
+    "describe_ch": "人工智慧及大數據分析可以求解許多極高維度的複雜問題，亦能在迅速累積的巨量資料中找到有價值的知識。本課程將從基本的機率、統計開始，進而涵蓋機器學習、深度學習等最新的人工智慧技術，期能提供學生完整的概念。",
+    "describe_eh": "Machine learning and big data analyses have been adopted to solve complex high degree problems. These techniques are also found to be able to extract valuable information from rapidly accumulated tremendous data. This course is designed to give a whole picture about machine learning and big data analysis. Content of this course will include probability, basic statistics, machine learning, deep learning, and so on…",
+    "pre_subname": "",
+    "pre_sub_id3": null,
+    "pre_sub_ename": "",
+    "pre_describe": null,
+    "pre_describe_en": null,
+    "scr_credit": 3.0
+  },
+  "targets": [
+    {
+      "seq": 1,
+      "describe_ch": "3. 培養學生妥適運用資料調查、數據分析或數學模型分析運輸或物流問題之能力。",
+      "describe_en": "3. Develop students' ability to effectively analyze transportation and logistics problems using data collection, data analysis, or mathematical models."
+    },
+    {
+      "seq": 2,
+      "describe_ch": "7. 培養學生評析與討論國內外運輸或物流時勢議題之能力。",
+      "describe_en": "7. Develop students' ability to analyze and discuss domestic and international current issues in transportation and logistics."
+    },
+    {
+      "seq": 3,
+      "describe_ch": "9. 培養學生獨立研究、發現及解決運輸或物流專業問題之能力。",
+      "describe_en": "9. Develop students' ability to independently research, identify, and solve professional problems in transportation and logistics."
+    }
+  ],
+  "teachersInfo": [
+    {
+      "cname": "翁祥凱",
+      "ename": "Hsiang-Kai Weng",
+      "period": "(Tue)02-03 紀525,(Wed)02-03 紀525,(Thu)02-03 紀525",
+      "roletype": 0,
+      "email": "hkweng@o365.fcu.edu.tw",
+      "ext": "4661"
+    },
+    {
+      "cname": "葉昭甫",
+      "ename": "Chao-Fu Yeh",
+      "period": " ",
+      "roletype": 0,
+      "email": "cfyeh@o365.fcu.edu.tw",
+      "ext": "4681"
+    },
+    {
+      "cname": "劉霈",
+      "ename": "Pei Liu",
+      "period": " ",
+      "roletype": 0,
+      "email": "peiliu@o365.fcu.edu.tw",
+      "ext": "4657"
+    }
+  ],
+  "textBooks": {
+    "yms_year": 114.0,
+    "yms_smester": 2.0,
+    "cls_id": "CM02310",
+    "sub_id": "99889",
+    "scr_dup": "001",
+    "tpb_seq": 1,
+    "tpb_book": "<div>課堂上使用各指導老師的自編教材。</div>\n\n<div>&nbsp;</div>\n",
+    "tpb_book_en": "<div>Teachers use their own compiled teaching materials in the classroom.</div>\n\n<div>&nbsp; &nbsp;&nbsp;</div>\n"
+  },
+  "readings": {
+    "yms_year": 114.0,
+    "yms_smester": 2.0,
+    "cls_id": "CM02310",
+    "sub_id": "99889",
+    "scr_dup": "001",
+    "tpc_seq": 1,
+    "tpc_book": "<div>課堂上使用各指導老師的自編教材。</div>\n",
+    "tpc_book_en": "<div>Teachers use their own compiled teaching materials in the classroom.</div>\n\n<div>&nbsp; &nbsp;&nbsp;</div>\n"
+  },
+  "iSoftwares": [],
+  "assistSoftwares": [],
+  "weeklyScds": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CM02310",
+      "sub_id": "99889",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "單元1",
+      "tpd_reading": "<div>大數據與人工智慧基礎</div>\n",
+      "tpd_reading_en": "<div>Big Data and Artificial Intelligence Fundamentals</div>\n",
+      "tpd_learn": "<ul>\n\t<li>大數據技術與架構</li>\n\t<li>人工智慧的基本原理與應用</li>\n\t<li>Python數據分析基礎</li>\n</ul>\n",
+      "tpd_learn_en": "<ul>\n\t<li>Big Data Technologies and Architecture</li>\n\t<li>Basic Principles and Applications of Artificial Intelligence</li>\n\t<li>Fundamentals of Python Data Analysis</li>\n</ul>\n",
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": "Unit 1",
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CM02310",
+      "sub_id": "99889",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "單元 2",
+      "tpd_reading": "<div>智慧交通系統與數據分析</div>\n",
+      "tpd_reading_en": "<div>Intelligent Transportation Systems and Data Analysis</div>\n",
+      "tpd_learn": "<div>\n<ul>\n\t<li>交通數據的收集與分析</li>\n\t<li>智慧交通系統的設計與實現</li>\n\t<li>交通流量和路網分析</li>\n</ul>\n</div>\n",
+      "tpd_learn_en": "<ul>\n\t<li>Collection and Analysis of Transportation Data</li>\n\t<li>Design and Implementation of Intelligent Transportation Systems</li>\n\t<li>Analysis of Traffic Flow and Road Networks</li>\n</ul>\n",
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": "Unit 2",
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CM02310",
+      "sub_id": "99889",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "單元 3",
+      "tpd_reading": "<div>永續海運與大數據應用</div>\n",
+      "tpd_reading_en": "<div>Sustainable Maritime Shipping and Big Data Applications</div>\n",
+      "tpd_learn": "<ul>\n\t<li>海運業的數據驅動決策</li>\n\t<li>永續航運實踐與環境影響評估</li>\n\t<li>海運物流數據分析與優化</li>\n</ul>\n",
+      "tpd_learn_en": "<ul>\n\t<li>Data-Driven Decision Making in Maritime Industry</li>\n\t<li>Sustainable Shipping Practices and Environmental Impact Assessment</li>\n\t<li>Analysis and Optimization of Maritime Logistics Data</li>\n</ul>\n",
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": "Unit 3",
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CM02310",
+      "sub_id": "99889",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "單元 4",
+      "tpd_reading": "<div>智慧物流與供應鏈管理</div>\n",
+      "tpd_reading_en": "<div>Smart Logistics and Supply Chain Management</div>\n",
+      "tpd_learn": "<ul>\n\t<li>物流數據分析與系統最佳化</li>\n\t<li>供應鏈管理中的人工智慧應用</li>\n\t<li>智慧倉儲與自動化物流</li>\n</ul>\n",
+      "tpd_learn_en": "<ul>\n\t<li>Data Analysis and System Optimization in Logistics</li>\n\t<li>Applications of Artificial Intelligence in Supply Chain Management</li>\n\t<li>Smart Warehousing and Automated Logistics</li>\n</ul>\n",
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": "Unit 4",
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CM02310",
+      "sub_id": "99889",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "單元 5",
+      "tpd_reading": "<div>深度學習與進階分析技術</div>\n",
+      "tpd_reading_en": "<div>Deep Learning and Advanced Analysis Techniques</div>\n",
+      "tpd_learn": "<ul>\n\t<li>深度學習理論與神經網絡</li>\n\t<li>機器學習在交通與物流中的應用</li>\n\t<li>數據驅動的決策支持系統</li>\n</ul>\n",
+      "tpd_learn_en": "<ul>\n\t<li>Theories of Deep Learning and Neural Networks</li>\n\t<li>Applications of Machine Learning in Transportation and Logistics</li>\n\t<li>Data-Driven Decision Support Systems</li>\n</ul>\n",
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": "Unit 5",
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CM02310",
+      "sub_id": "99889",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "單元 6",
+      "tpd_reading": "<div>綜合案例研究與項目</div>\n",
+      "tpd_reading_en": "<div>Comprehensive Case Studies and Projects</div>\n",
+      "tpd_learn": "<ul>\n\t<li>結合前述學習的綜合案例分析</li>\n\t<li>跨學科團隊項目，解決實際問題</li>\n\t<li>案例研究：當前行業挑戰與機遇</li>\n</ul>\n",
+      "tpd_learn_en": "<ul>\n\t<li>Comprehensive Case Analysis Integrating Previous Learning</li>\n\t<li>Interdisciplinary Team Projects to Solve Real-World Problems</li>\n\t<li>Case Study: Current Industry Challenges and Opportunities</li>\n</ul>\n",
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": "Unit 6",
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CM02310",
+      "sub_id": "99889",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "單元 7",
+      "tpd_reading": "<div>研究方法與學術論文</div>\n",
+      "tpd_reading_en": "<div>Research Methods and Academic Writing</div>\n",
+      "tpd_learn": "<ul>\n\t<li>數據科學研究方法論</li>\n\t<li>學術論文或項目</li>\n</ul>\n",
+      "tpd_learn_en": "<ul>\n\t<li>Research Methodology in Data Science</li>\n\t<li>Graduation Thesis or Project</li>\n</ul>\n",
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": "Unit 7",
+      "mode": 0
+    }
+  ],
+  "gradeRules": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CM02310",
+      "sub_id": "99889",
+      "scr_dup": "001",
+      "evalb_id": "D5",
+      "score_rate": 40,
+      "evalb_memo": "演講技巧：語言表達是否流暢，是否能夠吸引聽眾的注意。\n內容組織：演示內容是否組織有序，是否合理地使用了視覺輔助材料。\n問答回應：對觀眾提問的回答是否準確、有洞察力。",
+      "evalb_memo_en": null,
+      "evalb_name": "期末專題",
+      "evalb_name_en": "Final presentation",
+      "seq": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CM02310",
+      "sub_id": "99889",
+      "scr_dup": "001",
+      "evalb_id": "G2",
+      "score_rate": 30,
+      "evalb_memo": "研究方法和數據分析：使用的方法是否合適，數據分析是否準確。\n實際應用性：解決方案是否切實可行，是否能有效解決實際問題。\n報告質量：報告是否清晰、組織良好，是否適當地引用了文獻。",
+      "evalb_memo_en": null,
+      "evalb_name": "實驗/實習報告",
+      "evalb_name_en": "Laboratory/internship report",
+      "seq": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CM02310",
+      "sub_id": "99889",
+      "scr_dup": "001",
+      "evalb_id": "L3",
+      "score_rate": 30,
+      "evalb_memo": "積極參與：學生是否積極參與課堂討論和活動。\n貢獻質量：在討論中提出的觀點是否有深度，是否能夠促進話題的深入。\n團隊合作：在團隊任務中的表現，包括合作態度和對團隊的貢獻。",
+      "evalb_memo_en": null,
+      "evalb_name": "課堂討論參與",
+      "evalb_name_en": "Participation",
+      "seq": 0
+    }
+  ],
+  "gradeRuleDescribe": {
+    "yms_year": 114.0,
+    "yms_smester": 2.0,
+    "cls_id": "CM02310",
+    "sub_id": "99889",
+    "scr_dup": "001",
+    "tpa_score_new": "<div>\n<div>由於本課程有三位老師</div>\n\n<div>&nbsp;</div>\n\n<div>1. 參與度與課堂討論 (30%)</div>\n\n<ul>\n\t<li><strong>目的</strong>: 鼓勵學生積極參與課堂活動，促進交流和深入理解。</li>\n\t<li><strong>評分標準</strong>:\n\t<ul>\n\t\t<li>積極參與：學生是否積極參與課堂討論和活動。</li>\n\t\t<li>貢獻質量：在討論中提出的觀點是否有深度，是否能夠促進話題的深入。</li>\n\t\t<li>團隊合作：在團隊任務中的表現，包括合作態度和對團隊的貢獻。</li>\n\t</ul>\n\t</li>\n</ul>\n</div>\n\n<div>2. 專案報告與案例分析 (30%)</div>\n\n<ul>\n\t<li><strong>目的</strong>: 評估學生解決實際問題的能力，以及將課程學習應用於具體情境的技巧。</li>\n\t<li><strong>評分標準</strong>:\n\t<ul>\n\t\t<li>研究方法和數據分析：使用的方法是否合適，數據分析是否準確。</li>\n\t\t<li>實際應用性：解決方案是否切實可行，是否能有效解決實際問題。</li>\n\t\t<li>報告質量：報告是否清晰、組織良好，是否適當地引用了文獻。</li>\n\t</ul>\n\t</li>\n</ul>\n\n<div>\n<div>3.期末專題&nbsp;(40%)</div>\n\n<ul>\n\t<li><strong>目的</strong>: 評估學生的溝通技巧和向同儕或專業人士有效呈現想法的能力。</li>\n\t<li><strong>評分標準</strong>:\n\t<ul>\n\t\t<li>演講技巧：語言表達是否流暢，是否能夠吸引聽眾的注意。</li>\n\t\t<li>內容組織：演示內容是否組織有序，是否合理地使用了視覺輔助材料。</li>\n\t\t<li>問答回應：對聽眾提問的回答是否準確、有洞察力。</li>\n\t</ul>\n\t</li>\n</ul>\n</div>\n",
+    "tpa_score_new_en": null,
+    "course_pol": "1 明確說明對師生互動及學生彼此之間在課堂內外互動的期望。\n• 展現對其他同學感受的尊重與體諒，避免任何突發的聲響與動作自動分散或吸引他人注意，例如服裝禮儀、課堂飲食、聲音（音樂、交談、敲擊等）、誇張動作等。\n• 課堂中筆記型電腦及行動裝置的使用。\n• 網路禮儀規範。\n• 課堂時間與課外時間衝突之協調。\n• 實作場域應遵守安全規範。\n2 期望以最高標準、相互尊重、多元與包容的專業對話模式，說明課程規則內容。\n• 這並不表示學生不能提出相反的觀點。相反地，課程鼓勵學生透過課程內容彼此激盪與挑戰想法，進而促進與引發討論。\n3 教師應能引導學生了解其在學習過程中應做之事，以及應負之責任。",
+    "course_pol_en": "1.\tClearly state your expectations for teacher-student and student-student interactions both in and out of the classroom.\n•\tDemonstrate respect and consideration for the feelings of other students, unexpected noises and movements that automatically divert and attract attention, such as dress etiquette, classroom food/drinks, sounds (music, speaking, tapping, etc.), exaggerated movements, etc.\n•\tUse laptops and mobile devices in class.\n•\tInternet etiquette rules.\n•\tMediation of classroom and out-of-class time conflicts.\n•\tFields of practice require security specifications.\n2.\tIt is hoped that the content of the course rules will be described in a professional dialogue mode of the highest standard and mutual respect, with diversity and inclusiveness.\n•\tThis does not mean that students cannot present opposing points of view. In fact, motivating and challenging each other's ideas through the course content and stimulating and sparking discussion.\n3.\tTeachers are able to guide students in ways, what students should do in the learning process, and their due responsibilities.",
+    "course_rem": "請準時上課、負責任地參與課程，並在實體與線上學習情境中尊重授課教師與同學。讓我們共同營造一個友善、包容且有效的學習環境。",
+    "course_rem_en": "Please attend class on time, participate responsibly, and show respect to the instructor and classmates in both face-to-face and online settings. By maintaining professional behavior and active engagement, we can create a friendly, inclusive, and effective learning environment for everyone.",
+    "ais_meno": "<div>凡是學生曲解自己的學習任務、或損害學術任務之不端正行為，包括在作業或考試中作弊、剽竊、串改；或將他人完成的作品作為自己的作品；或未經教師批准和同意，提交相同或相似的論文、報告，以滿足多門課程的要求；凡被認定有學術不端行為的學生，其學業成績將扣分，若第二次勸說不聽者，該學期成績以不及格計算，並依本校學生獎懲辦法提報處分。</div>\n",
+    "ais_meno_en": "<div>Any student who misinterprets his/her own learning tasks, or misbehaves that damages academic tasks, including cheating, plagiarizing, and colluding in homework or exams; or using other people&#39;s works as their own; or submitting The same or similar papers and reports to meet the requirements of multiple courses; students who are found to have academic misconduct will have their academic grades deducted. And report for punishment in accordance with the school&#39;s student reward and punishment regulations.</div>\n",
+    "ilearn_mk": null
+  },
+  "integrity": {
+    "yms_year": 114.0,
+    "yms_smester": 2.0,
+    "cls_id": "CM02310",
+    "sub_id": "99889",
+    "scr_dup": "001",
+    "tpa_score_new": "<div>\n<div>由於本課程有三位老師</div>\n\n<div>&nbsp;</div>\n\n<div>1. 參與度與課堂討論 (30%)</div>\n\n<ul>\n\t<li><strong>目的</strong>: 鼓勵學生積極參與課堂活動，促進交流和深入理解。</li>\n\t<li><strong>評分標準</strong>:\n\t<ul>\n\t\t<li>積極參與：學生是否積極參與課堂討論和活動。</li>\n\t\t<li>貢獻質量：在討論中提出的觀點是否有深度，是否能夠促進話題的深入。</li>\n\t\t<li>團隊合作：在團隊任務中的表現，包括合作態度和對團隊的貢獻。</li>\n\t</ul>\n\t</li>\n</ul>\n</div>\n\n<div>2. 專案報告與案例分析 (30%)</div>\n\n<ul>\n\t<li><strong>目的</strong>: 評估學生解決實際問題的能力，以及將課程學習應用於具體情境的技巧。</li>\n\t<li><strong>評分標準</strong>:\n\t<ul>\n\t\t<li>研究方法和數據分析：使用的方法是否合適，數據分析是否準確。</li>\n\t\t<li>實際應用性：解決方案是否切實可行，是否能有效解決實際問題。</li>\n\t\t<li>報告質量：報告是否清晰、組織良好，是否適當地引用了文獻。</li>\n\t</ul>\n\t</li>\n</ul>\n\n<div>\n<div>3.期末專題&nbsp;(40%)</div>\n\n<ul>\n\t<li><strong>目的</strong>: 評估學生的溝通技巧和向同儕或專業人士有效呈現想法的能力。</li>\n\t<li><strong>評分標準</strong>:\n\t<ul>\n\t\t<li>演講技巧：語言表達是否流暢，是否能夠吸引聽眾的注意。</li>\n\t\t<li>內容組織：演示內容是否組織有序，是否合理地使用了視覺輔助材料。</li>\n\t\t<li>問答回應：對聽眾提問的回答是否準確、有洞察力。</li>\n\t</ul>\n\t</li>\n</ul>\n</div>\n",
+    "tpa_score_new_en": null,
+    "course_pol": "1 明確說明對師生互動及學生彼此之間在課堂內外互動的期望。\n• 展現對其他同學感受的尊重與體諒，避免任何突發的聲響與動作自動分散或吸引他人注意，例如服裝禮儀、課堂飲食、聲音（音樂、交談、敲擊等）、誇張動作等。\n• 課堂中筆記型電腦及行動裝置的使用。\n• 網路禮儀規範。\n• 課堂時間與課外時間衝突之協調。\n• 實作場域應遵守安全規範。\n2 期望以最高標準、相互尊重、多元與包容的專業對話模式，說明課程規則內容。\n• 這並不表示學生不能提出相反的觀點。相反地，課程鼓勵學生透過課程內容彼此激盪與挑戰想法，進而促進與引發討論。\n3 教師應能引導學生了解其在學習過程中應做之事，以及應負之責任。",
+    "course_pol_en": "1.\tClearly state your expectations for teacher-student and student-student interactions both in and out of the classroom.\n•\tDemonstrate respect and consideration for the feelings of other students, unexpected noises and movements that automatically divert and attract attention, such as dress etiquette, classroom food/drinks, sounds (music, speaking, tapping, etc.), exaggerated movements, etc.\n•\tUse laptops and mobile devices in class.\n•\tInternet etiquette rules.\n•\tMediation of classroom and out-of-class time conflicts.\n•\tFields of practice require security specifications.\n2.\tIt is hoped that the content of the course rules will be described in a professional dialogue mode of the highest standard and mutual respect, with diversity and inclusiveness.\n•\tThis does not mean that students cannot present opposing points of view. In fact, motivating and challenging each other's ideas through the course content and stimulating and sparking discussion.\n3.\tTeachers are able to guide students in ways, what students should do in the learning process, and their due responsibilities.",
+    "course_rem": "請準時上課、負責任地參與課程，並在實體與線上學習情境中尊重授課教師與同學。讓我們共同營造一個友善、包容且有效的學習環境。",
+    "course_rem_en": "Please attend class on time, participate responsibly, and show respect to the instructor and classmates in both face-to-face and online settings. By maintaining professional behavior and active engagement, we can create a friendly, inclusive, and effective learning environment for everyone.",
+    "ais_meno": "<div>凡是學生曲解自己的學習任務、或損害學術任務之不端正行為，包括在作業或考試中作弊、剽竊、串改；或將他人完成的作品作為自己的作品；或未經教師批准和同意，提交相同或相似的論文、報告，以滿足多門課程的要求；凡被認定有學術不端行為的學生，其學業成績將扣分，若第二次勸說不聽者，該學期成績以不及格計算，並依本校學生獎懲辦法提報處分。</div>\n",
+    "ais_meno_en": "<div>Any student who misinterprets his/her own learning tasks, or misbehaves that damages academic tasks, including cheating, plagiarizing, and colluding in homework or exams; or using other people&#39;s works as their own; or submitting The same or similar papers and reports to meet the requirements of multiple courses; students who are found to have academic misconduct will have their academic grades deducted. And report for punishment in accordance with the school&#39;s student reward and punishment regulations.</div>\n",
+    "ilearn_mk": null
+  },
+  "policy": {
+    "yms_year": 114.0,
+    "yms_smester": 2.0,
+    "cls_id": "CM02310",
+    "sub_id": "99889",
+    "scr_dup": "001",
+    "tpa_score_new": "<div>\n<div>由於本課程有三位老師</div>\n\n<div>&nbsp;</div>\n\n<div>1. 參與度與課堂討論 (30%)</div>\n\n<ul>\n\t<li><strong>目的</strong>: 鼓勵學生積極參與課堂活動，促進交流和深入理解。</li>\n\t<li><strong>評分標準</strong>:\n\t<ul>\n\t\t<li>積極參與：學生是否積極參與課堂討論和活動。</li>\n\t\t<li>貢獻質量：在討論中提出的觀點是否有深度，是否能夠促進話題的深入。</li>\n\t\t<li>團隊合作：在團隊任務中的表現，包括合作態度和對團隊的貢獻。</li>\n\t</ul>\n\t</li>\n</ul>\n</div>\n\n<div>2. 專案報告與案例分析 (30%)</div>\n\n<ul>\n\t<li><strong>目的</strong>: 評估學生解決實際問題的能力，以及將課程學習應用於具體情境的技巧。</li>\n\t<li><strong>評分標準</strong>:\n\t<ul>\n\t\t<li>研究方法和數據分析：使用的方法是否合適，數據分析是否準確。</li>\n\t\t<li>實際應用性：解決方案是否切實可行，是否能有效解決實際問題。</li>\n\t\t<li>報告質量：報告是否清晰、組織良好，是否適當地引用了文獻。</li>\n\t</ul>\n\t</li>\n</ul>\n\n<div>\n<div>3.期末專題&nbsp;(40%)</div>\n\n<ul>\n\t<li><strong>目的</strong>: 評估學生的溝通技巧和向同儕或專業人士有效呈現想法的能力。</li>\n\t<li><strong>評分標準</strong>:\n\t<ul>\n\t\t<li>演講技巧：語言表達是否流暢，是否能夠吸引聽眾的注意。</li>\n\t\t<li>內容組織：演示內容是否組織有序，是否合理地使用了視覺輔助材料。</li>\n\t\t<li>問答回應：對聽眾提問的回答是否準確、有洞察力。</li>\n\t</ul>\n\t</li>\n</ul>\n</div>\n",
+    "tpa_score_new_en": null,
+    "course_pol": "1 明確說明對師生互動及學生彼此之間在課堂內外互動的期望。\n• 展現對其他同學感受的尊重與體諒，避免任何突發的聲響與動作自動分散或吸引他人注意，例如服裝禮儀、課堂飲食、聲音（音樂、交談、敲擊等）、誇張動作等。\n• 課堂中筆記型電腦及行動裝置的使用。\n• 網路禮儀規範。\n• 課堂時間與課外時間衝突之協調。\n• 實作場域應遵守安全規範。\n2 期望以最高標準、相互尊重、多元與包容的專業對話模式，說明課程規則內容。\n• 這並不表示學生不能提出相反的觀點。相反地，課程鼓勵學生透過課程內容彼此激盪與挑戰想法，進而促進與引發討論。\n3 教師應能引導學生了解其在學習過程中應做之事，以及應負之責任。",
+    "course_pol_en": "1.\tClearly state your expectations for teacher-student and student-student interactions both in and out of the classroom.\n•\tDemonstrate respect and consideration for the feelings of other students, unexpected noises and movements that automatically divert and attract attention, such as dress etiquette, classroom food/drinks, sounds (music, speaking, tapping, etc.), exaggerated movements, etc.\n•\tUse laptops and mobile devices in class.\n•\tInternet etiquette rules.\n•\tMediation of classroom and out-of-class time conflicts.\n•\tFields of practice require security specifications.\n2.\tIt is hoped that the content of the course rules will be described in a professional dialogue mode of the highest standard and mutual respect, with diversity and inclusiveness.\n•\tThis does not mean that students cannot present opposing points of view. In fact, motivating and challenging each other's ideas through the course content and stimulating and sparking discussion.\n3.\tTeachers are able to guide students in ways, what students should do in the learning process, and their due responsibilities.",
+    "course_rem": "請準時上課、負責任地參與課程，並在實體與線上學習情境中尊重授課教師與同學。讓我們共同營造一個友善、包容且有效的學習環境。",
+    "course_rem_en": "Please attend class on time, participate responsibly, and show respect to the instructor and classmates in both face-to-face and online settings. By maintaining professional behavior and active engagement, we can create a friendly, inclusive, and effective learning environment for everyone.",
+    "ais_meno": "<div>凡是學生曲解自己的學習任務、或損害學術任務之不端正行為，包括在作業或考試中作弊、剽竊、串改；或將他人完成的作品作為自己的作品；或未經教師批准和同意，提交相同或相似的論文、報告，以滿足多門課程的要求；凡被認定有學術不端行為的學生，其學業成績將扣分，若第二次勸說不聽者，該學期成績以不及格計算，並依本校學生獎懲辦法提報處分。</div>\n",
+    "ais_meno_en": "<div>Any student who misinterprets his/her own learning tasks, or misbehaves that damages academic tasks, including cheating, plagiarizing, and colluding in homework or exams; or using other people&#39;s works as their own; or submitting The same or similar papers and reports to meet the requirements of multiple courses; students who are found to have academic misconduct will have their academic grades deducted. And report for punishment in accordance with the school&#39;s student reward and punishment regulations.</div>\n",
+    "ilearn_mk": null
+  },
+  "courseBankC": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CM02310",
+      "sub_id": "99889",
+      "scr_dup": "001",
+      "seq": 1,
+      "describe_ch": "3. 培養學生妥適運用資料調查、數據分析或數學模型分析運輸或物流問題之能力。",
+      "describe_en": "3. Develop students' ability to effectively analyze transportation and logistics problems using data collection, data analysis, or mathematical models.",
+      "core_id": "B",
+      "core_item": "具備運用資訊技術及各項專業技能 ，蒐集、分析與解釋數據之能力。",
+      "core_eng": " ",
+      "core_level": "4 ",
+      "strgy": [
+        "01",
+        "03"
+      ],
+      "evalb": [
+        "D4",
+        "L3"
+      ],
+      "strgy_name": [
+        "課堂授課",
+        "個案討論"
+      ],
+      "strgy_name_en": [
+        "Classroom instruction",
+        "Case study"
+      ],
+      "evalb_name": [
+        "作業",
+        "課堂討論參與"
+      ],
+      "evalb_name_en": [
+        "Homework",
+        "Participation"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CM02310",
+          "sub_id": "99889",
+          "scr_dup": "001",
+          "seq": 1,
+          "strgy_id": "01",
+          "strgy_name": null,
+          "strgy_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CM02310",
+          "sub_id": "99889",
+          "scr_dup": "001",
+          "seq": 1,
+          "strgy_id": "03",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CM02310",
+          "sub_id": "99889",
+          "scr_dup": "001",
+          "seq": 1,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D4",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CM02310",
+          "sub_id": "99889",
+          "scr_dup": "001",
+          "seq": 1,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "L3",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CM02310",
+      "sub_id": "99889",
+      "scr_dup": "001",
+      "seq": 2,
+      "describe_ch": "7. 培養學生評析與討論國內外運輸或物流時勢議題之能力。",
+      "describe_en": "7. Develop students' ability to analyze and discuss domestic and international current issues in transportation and logistics.",
+      "core_id": "E",
+      "core_item": "具備透過多元觀點發現、解析或評估運輸與物流問題之認知能力。",
+      "core_eng": " ",
+      "core_level": "4 ",
+      "strgy": [
+        "01",
+        "10"
+      ],
+      "evalb": [
+        "G2"
+      ],
+      "strgy_name": [
+        "課堂授課",
+        "小組討論及活動"
+      ],
+      "strgy_name_en": [
+        "Classroom instruction",
+        "Group activity & discussion"
+      ],
+      "evalb_name": [
+        "實驗/實習報告"
+      ],
+      "evalb_name_en": [
+        "Laboratory/internship report"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CM02310",
+          "sub_id": "99889",
+          "scr_dup": "001",
+          "seq": 2,
+          "strgy_id": "01",
+          "strgy_name": null,
+          "strgy_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CM02310",
+          "sub_id": "99889",
+          "scr_dup": "001",
+          "seq": 2,
+          "strgy_id": "10",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CM02310",
+          "sub_id": "99889",
+          "scr_dup": "001",
+          "seq": 2,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "G2",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CM02310",
+      "sub_id": "99889",
+      "scr_dup": "001",
+      "seq": 3,
+      "describe_ch": "9. 培養學生獨立研究、發現及解決運輸或物流專業問題之能力。",
+      "describe_en": "9. Develop students' ability to independently research, identify, and solve professional problems in transportation and logistics.",
+      "core_id": "C",
+      "core_item": "具備獨立解決問題、策劃及執行專題研究及撰寫專業論文之能力。",
+      "core_eng": " ",
+      "core_level": "5 ",
+      "strgy": [
+        "01",
+        "10"
+      ],
+      "evalb": [
+        "D5"
+      ],
+      "strgy_name": [
+        "課堂授課",
+        "小組討論及活動"
+      ],
+      "strgy_name_en": [
+        "Classroom instruction",
+        "Group activity & discussion"
+      ],
+      "evalb_name": [
+        "期末專題"
+      ],
+      "evalb_name_en": [
+        "Final presentation"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CM02310",
+          "sub_id": "99889",
+          "scr_dup": "001",
+          "seq": 3,
+          "strgy_id": "01",
+          "strgy_name": null,
+          "strgy_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CM02310",
+          "sub_id": "99889",
+          "scr_dup": "001",
+          "seq": 3,
+          "strgy_id": "10",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CM02310",
+          "sub_id": "99889",
+          "scr_dup": "001",
+          "seq": 3,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D5",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    }
+  ],
+  "topicSdgs": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CM02310",
+      "sub_id": "99889",
+      "scr_dup": "001",
+      "sdgs_seq": 13,
+      "main_related": "N",
+      "ind_related": "Y",
+      "iss_name": "環境保護面",
+      "iss_ename": "Environmental Protection",
+      "content_name": "永續通勤與居住環境",
+      "content_ename": "Sustainable Cities and Communities"
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CM02310",
+      "sub_id": "99889",
+      "scr_dup": "001",
+      "sdgs_seq": 14,
+      "main_related": "N",
+      "ind_related": "Y",
+      "iss_name": "環境保護面",
+      "iss_ename": "Environmental Protection",
+      "content_name": "減緩氣候變遷",
+      "content_ename": "Climate Action"
+    }
+  ],
+  "topicAiIndicators": [],
+  "learnHours": {
+    "total": 0.0,
+    "tpdOnlineAsyTotal": 0.0,
+    "tpdOnlineSynTotal": 0.0,
+    "tpdOnlineFaceTotal": 0.0,
+    "asySynInTotalPercent": 0.0
+  },
+  "crossVerYear": 114
+}

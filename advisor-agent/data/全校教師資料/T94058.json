@@ -1,0 +1,709 @@
+{
+  "teacherId": "T94058",
+  "name": "陳青文",
+  "mainUnit": "資訊電機學院",
+  "detailUnit": "資訊工程學系",
+  "skill": [
+    "高效能低功率多核心系統High Performance and Low Power Multi-core Computer Architecture",
+    "嵌入式系統與周邊驅動Kernel and Driver Programming of Embedded Systems",
+    "無線隨意行動與感測網路Wireless Mobile Ad hoc and Sensor Networks"
+  ],
+  "edu": [
+    "交通大學 資訊工程學系 博士",
+    "清華大學 資訊科學學系 碩士",
+    "逢甲大學 資訊工程學系 學士"
+  ],
+  "fcuExp": [
+    "系統維運組 組長",
+    "系統維運組 組長",
+    "系統維運組 組長",
+    "資訊工程學系 助理教授",
+    "資訊工程學系 副教授",
+    "資訊工程學系 教授",
+    "資訊工程學系 教授",
+    "資訊工程學系 教授"
+  ],
+  "currjob": [],
+  "otherExp": [
+    "朝陽科技大學 資訊工程學系 助理教授"
+  ],
+  "journal": [
+    {
+      "論文名稱": "An Ensemble Machine Learning Botnet Detection Framework Based on Noise Filtering",
+      "期刊名稱": "Journal of Internet Technology (SCIE)",
+      "作者群": "Tzong-Jye Liu*, Tze-Shiun Lin and Ching-Wen Chen"
+    },
+    {
+      "論文名稱": "Set-Level Capacity-Sharing and Energy-Efficient Cache Coherence Protocol in Multicore Processors",
+      "期刊名稱": "International Journal of Advances in Electronics and Computer Science (IJAECS) (JIFACTOR, EuroPub)",
+      "作者群": "You-Wei Zhan, Chi-Chao Hung, Han-Chun Chen, Ching-Wen Chen*"
+    },
+    {
+      "論文名稱": "Memory-aware dynamic frequency scaling for saving energy in real-time systems",
+      "期刊名稱": "International Journal of Advances in Electronics and Computer Science (JIFACTOR)",
+      "作者群": "Yong-Wei Zhan, Ching-Wen Chen"
+    },
+    {
+      "論文名稱": "Energy-Efficient Hybrid Coherence Protocol for Multicore Processors",
+      "期刊名稱": "Cluster Computing (SCIE,EI)",
+      "作者群": "Ching-Wen Chen, An Hsia, Wong-Wei Zhan, Tzong-Jye Liu"
+    },
+    {
+      "論文名稱": "A Cost- and Energy-Efficient Embedded System Design Based on Instruction Execution Frequencies",
+      "期刊名稱": "Journal of the Chinese Institute of Engineers (SCIE,EI)",
+      "作者群": "An Hsia, Ching-Wen Chen*, Chang-Jung Ku, Tzong-Jye Liu"
+    },
+    {
+      "論文名稱": "Energy-Efficient Synonym Data Detection and Consistency for Virtual Cache",
+      "期刊名稱": "Microprocessors and Microsystems (SCIE,EI)",
+      "作者群": "An Hsia, Ching-Wen Chen*, Tzong-Jye Liu"
+    },
+    {
+      "論文名稱": "利用訊號變化與遮蔽效應之802.11 MAC碰撞避免協定",
+      "期刊名稱": "International Journal of Science and Engineering (Invited) ()",
+      "作者群": "陳伯岳，盧彥甫，陳青文*"
+    },
+    {
+      "論文名稱": "Linked Instruction Caches for Enhancing Power Efficiency of Embedded Systems\r\n",
+      "期刊名稱": "Microprocessors and Microsystems (SCIE,EI)",
+      "作者群": "Chang-Jung Ku, Ching-Wen Chen*, An Hsia, Chun-Lin Chen"
+    },
+    {
+      "論文名稱": "A Self-Adaptable Image Spam Filtering System",
+      "期刊名稱": "Journal of the Chinese Institute of Engineers (SCIE,EI)",
+      "作者群": "Tzong-Jye Liu*, Cheng-Nan Wu, Chia-Lin Lee and Ching-Wen Chen"
+    },
+    {
+      "論文名稱": "Efficient Trace File Compression Design with Locality and Address Difference",
+      "期刊名稱": "Journal of Information Science and Engineering (SCIE,EI)",
+      "作者群": "Ching-Wen Chen*, Chang-Jung Ku, Tzong-Jye Liu"
+    },
+    {
+      "論文名稱": "Design of an Energy-Efficient Cross-Layer Protocol for Mobile Ad Hoc Networks",
+      "期刊名稱": "IET Communications (SCIE,EI)",
+      "作者群": "Chuan-Chi Weng,Ching-Wen Chen*,Po-Yueh Chen,Kuei-Chung Chang"
+    },
+    {
+      "論文名稱": "Energy-Efficient Data Reporting with Sink Mobility Support in Object Tracking Sensor Networks",
+      "期刊名稱": "International Journal of Ad Hoc and Ubiquitous Computing (SCIE,EI)",
+      "作者群": "Shiow-Fen Hwang*, Kun-Hsien Lu, Liang-Ren Yang, Chyi-Ren Dow, and Ching-Wen Chen"
+    },
+    {
+      "論文名稱": "A Tagless Cache Design for Power Saving in Embedded Systems",
+      "期刊名稱": "The Journal of Supercomputing (SCIE,EI)",
+      "作者群": "Ching-Wen Chen and Chang-Jung Ku"
+    },
+    {
+      "論文名稱": "An Interference Avoidance MAC Protocol Design in Mobile Ad Hoc Networks",
+      "期刊名稱": "Computer Networks (SCIE,EI)",
+      "作者群": "Ching-Wen Chen*, Chuan-Chi Weng, and Po-Yueh Chen"
+    },
+    {
+      "論文名稱": "A Power Efficiency Routing and Maintenance Protocol in Wireless Multi-Hop Networks",
+      "期刊名稱": "The Journal of Systems and Software (SCIE,EI)",
+      "作者群": "Ching-Wen Chen and Chuan-Chi Weng"
+    },
+    {
+      "論文名稱": "A Lightweight Routing Protocol for Mobile Target Detection in Wireless Sensor Networks",
+      "期刊名稱": "IEICE Transactions on Communications (SCIE,EI)",
+      "作者群": "Yu-Chen Kuo, Wen-Tien Yeh, Ching-Sung Chen,and Ching-Wen Chen"
+    },
+    {
+      "論文名稱": "A Bandwidth-Based Power-Aware Routing Protocol with Low Route Discovery Overhead in Mobile Ad hoc Networks",
+      "期刊名稱": "The Computer Journal (SCIE,EI)",
+      "作者群": "Chuan-Chi Weng, Ching-Wen Chen*, Chang-Jung Ku, and Shiow-Fen Hwang"
+    },
+    {
+      "論文名稱": "Signal strength based routing for power saving in mobile ad hoc networks",
+      "期刊名稱": "The Journal of Systems and Software (SCIE,EI)",
+      "作者群": "Ching-Wen Chen, Chuan-Chi Weng,and Yu-Chen Kuo"
+    },
+    {
+      "論文名稱": "Bandwidth-based routing protocols in mobile ad hoc networks",
+      "期刊名稱": "The Journal of Supercomputing (SCIE,EI)",
+      "作者群": "Ching-Wen Chen and Chuan-Chi Weng"
+    },
+    {
+      "論文名稱": "An Overlapping and Pipelining Data Transmission MAC Protocol with Multiple Channels in Ad Hoc Networks",
+      "期刊名稱": "Parallel Computing (SCIE,EI)",
+      "作者群": "Ching-Wen Chen, Chuan-Chi Weng, Chang-Jung Ku"
+    },
+    {
+      "論文名稱": "Design of a Low-Power and Low-Latency MAC Protocol with Node Grouping and Transmission Pipelining in Wireless Sensor Networks",
+      "期刊名稱": "Computer Communications (SCIE,EI)",
+      "作者群": "Ching-Wen Chen, Chuan-Chi Weng, Chang-Jung Ku"
+    },
+    {
+      "論文名稱": "An Improved Efficient Performance Design with Multiple Channels and Bandwidth Allocation Strategy for Mobile Ad-Hoc Networks",
+      "期刊名稱": "International Journal of Pervasive Computing and Communicati ()",
+      "作者群": "Ching-Wen Chen, Chun-Liang Lai"
+    },
+    {
+      "論文名稱": "Design Schemes of Dynamic Rerouting Networks with Destination Tag Routing for Tolerating Faults and Preventing Collisions",
+      "期刊名稱": "The Journal of Supercomputing (SCIE,EI)",
+      "作者群": "Ching-Wen Chen"
+    },
+    {
+      "論文名稱": "A Low Power-consuming Embedded System Design by Reducing Memory Access Frequencies with Multiple Reference Tables and Encoding the Most Executed Instructions",
+      "期刊名稱": "IEICE Transactions on Information and Systems (SCIE,EI)",
+      "作者群": "Ching-Wen Chen, Chih-Hung Chang, and Chang-Jung Ku"
+    },
+    {
+      "論文名稱": "Designing A Disjoint Paths Interconnection Network with Fault Tolerance and Collision Solving",
+      "期刊名稱": "The Journal of Supercomputing (SCIE,EI)",
+      "作者群": "Ching-Wen Chen and Chung-Ping Chung"
+    },
+    {
+      "論文名稱": "An Efficient Authentication Scheme between MANET and WLAN Based on Mobile IPv6",
+      "期刊名稱": "Internation Journal of Network Security ()",
+      "作者群": "Ching-Wen Chen, Ming-Chin Chuang, and Chwei-Shyong Tsai"
+    },
+    {
+      "論文名稱": "A Low Collision and Fault Tolerant Multistage Interconnection Network with Destination Tag Dynamic Rerouting",
+      "期刊名稱": "GESTS International Transaction on Computer Science and Engi ()",
+      "作者群": "Ching-Wen Chen, Phui-Si Gan, and Chih-Hung Chang"
+    },
+    {
+      "論文名稱": "A Minimal Traversed Links Dynamic Rerouting Network",
+      "期刊名稱": "Parallel Computing (SCIE,EI)",
+      "作者群": "Ching-Wen Chen and  Shih-Chang Fu"
+    },
+    {
+      "論文名稱": "3-Disjoint Gamma Interconnection Networks",
+      "期刊名稱": "Journal of Systems and Software (SCIE,EI)",
+      "作者群": "Ching-Wen Chen, Neng-Ping Lu, and Chung-Ping Chung"
+    },
+    {
+      "論文名稱": "Fault-tolerant Gamma Interconnection Networks without backtracking",
+      "期刊名稱": "Journal of Systems and Software (SCIE,EI)",
+      "作者群": "Ching-Wen Chen and Chung-Ping Chung"
+    },
+    {
+      "論文名稱": "Fault-tolerant gamma interconnection networks by chaining",
+      "期刊名稱": "IEE Proceedings-Computers and Digital Techniques (SCIE,EI)",
+      "作者群": "Ching-Wen Chen, Neng-Ping Lu, Ten-Fu Chen, and Chung-Ping Chung"
+    }
+  ],
+  "journal2": [],
+  "conference": [
+    {
+      "論文名稱": "有效資料擺放與Warp數量調控之高效能GPU設計",
+      "會議名稱": "Conference on Information Technology and Application in Outlying Islands 2022",
+      "作者群": "Bo-Sheng Hong, Lung Chao, Haw-Jiun Ku, Chung-Han Hsu, Ching-Wen Chen"
+    },
+    {
+      "論文名稱": "有效記憶體請求快取命中提升之高效能GPU設計",
+      "會議名稱": "Artificial Intelligence Technology and Application 2022",
+      "作者群": "Bo-Sheng Hong, Lung Chao, Zu-Hao Syue, Ching-Wen Chen"
+    },
+    {
+      "論文名稱": "有效快取命中與集合關聯預測機制之高效能省電處理器設計",
+      "會議名稱": "2019 創新發明應用研討會 (AII 2019) (最佳論文獎)",
+      "作者群": "顏郁修、洪維成、薛祖澔、陳青文"
+    },
+    {
+      "論文名稱": "Set-Level Capacity-Sharing and Energy-Efficient Cache Coherence Protocol in Multicore Processors",
+      "會議名稱": "GSRD - 90th International Conference on Science, Engineering & Technology (ICSET), 5th -6th July, 2019",
+      "作者群": "You-Wei Zhan, Chi-Chao Hung, Han-Chun Chen, Ching-Wen Chen"
+    },
+    {
+      "論文名稱": "設計改善分享是快取競爭及公平性的多核心排程機制",
+      "會議名稱": "2018 創新發明應用研討會 (AII 2018) (最佳論文獎)",
+      "作者群": "詹祐維，洪啟超，許敬林，陳青文"
+    },
+    {
+      "論文名稱": "Memory-Aware Dynamic Frequency Scaling for Saving Energy in Real-Time Systems",
+      "會議名稱": "IASTEM-412th International Conference on Recent Advances in Engineering and Technology",
+      "作者群": "Yong-Wei Zhan, Ching-Wen Chen"
+    },
+    {
+      "論文名稱": "基於 ZigBee 之家用電器監控系統",
+      "會議名稱": "201 7 創新發明應用研討會",
+      "作者群": "黃俊瑋、 陳政諄、 曾敬豪、 郭啟烈、陳青文"
+    },
+    {
+      "論文名稱": "Adaptive Energy-Aware Cache Coherence Protocol for Virtual Machines",
+      "會議名稱": "IEEE Symposium on Low-Power and High-Speed Chips COOL CHIPS 20",
+      "作者群": "Chia-Hsiang Chung, Jian-Cheng Huang, Ching-Wen Chen"
+    },
+    {
+      "論文名稱": "A Dynamic Frequency Scaling Approach for Reducing Product of Energy and Delay",
+      "會議名稱": "IEEE Symposium on Low-Power and High-Speed Chips COOL CHIPS 20",
+      "作者群": "Jian-Cheng Huang, Chia-Hsiang Chung, Ching-Wen Chen"
+    },
+    {
+      "論文名稱": "Application-Aware DFS for Real-time Systems",
+      "會議名稱": "IEEE symposium on Low-Power and High-Speed Chips (COOL Chips XIX)",
+      "作者群": "An Hsia, Ching-Wen Chen*, Yu-Xiang Wang"
+    },
+    {
+      "論文名稱": "利用動態繞路與資料聚合設計行動隨意網路之有效資料傳輸繞路協定",
+      "會議名稱": "第二十屆行動計算研討會",
+      "作者群": "陳昱豪，夏安，陳青文*"
+    },
+    {
+      "論文名稱": "A Capacity Sharing Mechanism for Energy Savings in MCP",
+      "會議名稱": "IEEE Symposium on Low-Power and High-Speed Chips (COOL Chips XVIII)",
+      "作者群": "An Hsia, Jui-Hsiang Wang, Ching-Wen Chen"
+    },
+    {
+      "論文名稱": "利用訊號變化與遮蔽效應之802.11 MAC碰撞避免協定",
+      "會議名稱": "第十九屆行動計算研討會",
+      "作者群": "陳柏岳，盧彥甫，陳青文"
+    },
+    {
+      "論文名稱": "Energy-Efficient Cache Coherence in Multi-processor with Efficient Broadcasts",
+      "會議名稱": "IEEE Symposium on Low-Power and High-Speed Chips COOL Chips XVII",
+      "作者群": "An Hsia, Chang-Jung Ku, Ching-Lin Hsu, Ching-Wen Chen"
+    },
+    {
+      "論文名稱": "避免多餘廣播與標籤比對行為之省電快取一致性設計",
+      "會議名稱": "2013全國計算機會議 (NCS 2013)",
+      "作者群": "陳青文，夏安，謝鎧鴻，顧長榮"
+    },
+    {
+      "論文名稱": "利用協同傳輸設計有效多重速率媒體存取控制協定",
+      "會議名稱": "Taiwan Academic Network Conference 2013 (TANET 2013)",
+      "作者群": "陳柏岳，江庭輝，陳青文"
+    },
+    {
+      "論文名稱": "利用路徑指引設計無線隨意網路動態跳躍之繞路協定",
+      "會議名稱": "The 9th Workshop on Wireless, Ad Hoc and Sensor Networks (WASN 2013)",
+      "作者群": "陳柏岳，范辰銘，陳青文"
+    },
+    {
+      "論文名稱": "A Space-Efficient Trace File Compression with Dynamic Reference Table",
+      "會議名稱": "IEEE Symposium on Low-Power and High-Speed Chips COOL Chips XVI",
+      "作者群": "Chang-Jung Ku, Ching-Wen Chen, and An Hsia"
+    },
+    {
+      "論文名稱": "Energy Efficient Alias Detection for Virtual Cache",
+      "會議名稱": "IEEE Symposium on Low-Power and High-Speed Chips COOL Chips XVI",
+      "作者群": "Chang-Jung Ku, Ching-Wen Chen, An Hsia, and Chun-Lin Chen"
+    },
+    {
+      "論文名稱": "以嵌入式平台與GPS設計逢甲大學校園導覽系統",
+      "會議名稱": "第二屆創新發明應用研討會 (AII 2012)",
+      "作者群": "陳青文，夏安"
+    },
+    {
+      "論文名稱": "音樂辨識與樂譜制作",
+      "會議名稱": "第二屆創新發明應用研討會(AII 2012)",
+      "作者群": "呂名峰，周書輔，陳青文"
+    },
+    {
+      "論文名稱": "設計一個具快速存取與省電的虛擬快取",
+      "會議名稱": "第二屆創新發明應用研討會 (AII 2012)",
+      "作者群": "陳青文，夏安，顧長榮"
+    },
+    {
+      "論文名稱": "校園網路資料中心導入綠色機房之建置實務",
+      "會議名稱": "TANET 2012 臺灣網際網路研討會",
+      "作者群": "邱清鴻，梁瑞崧，林育民，陳青文"
+    },
+    {
+      "論文名稱": "分析連結變化之省電跨層路徑維護協定設計",
+      "會議名稱": "The 17th Mobile Computing Workshop (MC 2012)",
+      "作者群": "陳柏岳，朱韋陵，陳青文"
+    },
+    {
+      "論文名稱": "在多重跳躍行動網路上預測連結變化之省電與高輸出量繞路協定設計",
+      "會議名稱": "The 8th Workshop on Wireless, Ad Hoc and Sensor Networks (WASN 2012)",
+      "作者群": "陳柏岳，詹家驊，陳青文"
+    },
+    {
+      "論文名稱": "A Minimum Transmission Energy Consumption Routing Protocol for User-Centric Wireless Networks",
+      "會議名稱": "the 2011 IEEE/SICE International Symposium on System Integration (SII2011)",
+      "作者群": "Chuan-Chi Weng, Ching-Wen Chen, Chang-Jung Ku"
+    },
+    {
+      "論文名稱": "設計具空間重疊之高輸出量媒體存取控制協定",
+      "會議名稱": "The 7th International Workshop on Wireless, Ad hoc and Sensor Networks (WASN 2011)",
+      "作者群": "翁傳奇, 陳青文, 郭志成"
+    },
+    {
+      "論文名稱": "An Adaptable Path Maintenance Mechanism Using Neighbor Relay Model",
+      "會議名稱": "The 41th Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN 2011)",
+      "作者群": "Ching-Wen Chen, Chuan-Chi Weng, Chang-Jung Ku"
+    },
+    {
+      "論文名稱": "An Energy-Efficient Cache Design Based on Basic Blocks in Embedded Systems",
+      "會議名稱": "The 41th Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN 2011)",
+      "作者群": "Ching-Wen Chen, Chang-Jung Ku, Chuan-Chi Weng"
+    },
+    {
+      "論文名稱": "利用傳輸成功率設計省電之跨層行動隨意網路協定",
+      "會議名稱": "2011 Mobile Computing The 16th Mobile Computing Workshop (MC'2011)",
+      "作者群": "陳青文, 翁傳奇, 張維帆, 詹家驊"
+    },
+    {
+      "論文名稱": "預測連結變化設計省電與高輸出量之行動隨意網路繞路協定",
+      "會議名稱": "2011 International Conference on Information Management (ICIM 2011)",
+      "作者群": "陳青文, 翁傳奇, 詹家驊, 張維帆"
+    },
+    {
+      "論文名稱": "設計具低傳輸延遲與高傳輸效率之無線多重跳躍網路繞路協定",
+      "會議名稱": "2010 全國電信研討會 (NST 2010)",
+      "作者群": "陳青文, 翁傳奇, 張維帆, 詹家驊"
+    },
+    {
+      "論文名稱": "Design of Caches with Conflict Misses Reduction in Power-aware Embedded Systems",
+      "會議名稱": "IEEE Symposium on Low-Power and High-Speed Chips (CoolChips XIII)",
+      "作者群": "Ching-Wen CHEN, Chang-Jung KU, and Chien-Fu CHEN"
+    },
+    {
+      "論文名稱": "A Bandwidth-Based Routing Protocol with Efficient Path Discovery in Mobile Ad Hoc Networks",
+      "會議名稱": "The 10th International Symposium on Pervasive Systems, Algorithms and Networks (I-SPAN 2009)",
+      "作者群": "Ching-Wen Chen, Chuan-Chi Weng"
+    },
+    {
+      "論文名稱": "A Power-Aware Routing Protocol with Signal Strength Variation in Mobile Ad Hoc Networks",
+      "會議名稱": "The Fifteenth International Conference on Parallel and Distributed Systems (IEEE ICPADS'09)",
+      "作者群": "Chuan-Chi Weng and Ching-Wen Chen"
+    },
+    {
+      "論文名稱": "利用路徑頻寬維護設計有效的行動隨意網路繞路協定",
+      "會議名稱": "2009 National Computer Symposium (NCS 2009)",
+      "作者群": "陳青文，翁傳奇，林子健"
+    },
+    {
+      "論文名稱": "設計無標籤比對快取之省電嵌入式系統",
+      "會議名稱": "National Computer Symposium (NCS 2009)",
+      "作者群": "陳青文,夏安,顧長榮,林俊宏"
+    },
+    {
+      "論文名稱": "利用多通道技術設計具區域重疊的高效能媒體存取控制層協定",
+      "會議名稱": "二○○九數位生活科技研討會-人本智慧生活科技",
+      "作者群": "陳青文, 翁傳奇, 陳柏岳, 張豪偉"
+    },
+    {
+      "論文名稱": "A Tagless and Efficient Cache Design in Embedded Systems",
+      "會議名稱": "IEEE Symposium on Low-Power and High-Speed Chips, Cool Chips XII",
+      "作者群": "Ching-Wen CHEN, Chang-Jung KU and Chun-Hung LIN"
+    },
+    {
+      "論文名稱": "有效的路徑頻寬維護能力之低成本行動隨意網路繞路協定設計",
+      "會議名稱": "2008全國電信研討會(NST'2008)",
+      "作者群": "陳青文, 林子健, 翁傳奇"
+    },
+    {
+      "論文名稱": "Resource Classification and Bootstrap Using DNS-Agent in a P2P Network",
+      "會議名稱": "2008 Symposium on Digital Life Technologies: Human- Centric Smart Living Technology",
+      "作者群": "陳青文,王德譽,劉博文,翁傳奇"
+    },
+    {
+      "論文名稱": "利用偵測dB衰退率來預測路徑資料傳輸量之行動隨意網路繞路協定",
+      "會議名稱": "2008 Symposium on Digital Life Technologies: Human- Centric Smart Living Technology",
+      "作者群": "陳青文,王德譽,劉博文,翁傳奇"
+    },
+    {
+      "論文名稱": "Design of a Low-Power and Low-Latency MAC Protocol with Nodes Grouping and Transmission Pipelining in Wireless Sensor Networks",
+      "會議名稱": "2008 IEEE 67th Vehicular Technology Conference: IEEE VTC2008-Spring",
+      "作者群": "Ching-Wen Chen, Po-Jung Chen, Chuan-Chi Weng"
+    },
+    {
+      "論文名稱": "A Novel Linked-Entry Frequently Executed Instruction Table Design for Conflict Avoidance and Low Energy Consumption",
+      "會議名稱": "IEEE Symposium on Low-Power and High-Speed Chips COOL Chips XI",
+      "作者群": "Ching-Wen Chen, Chang-Jung Ku, Ming-Chi Huang"
+    },
+    {
+      "論文名稱": "在隨意無線網路中以考量找路成本與路徑頻寬來設計有效的省電繞路協定",
+      "會議名稱": "2007 National Computer Symposium (NCS'2007)",
+      "作者群": "陳青文,詹京龍,翁傳奇"
+    },
+    {
+      "論文名稱": "利用區域性與變動位址偏移量設計高效率的追蹤檔壓縮方法",
+      "會議名稱": "2007 National Computer Symposium (NCS'2007)",
+      "作者群": "陳青文, 黃銘吉, 顧長榮"
+    },
+    {
+      "論文名稱": "以分群與管線化傳輸之低耗電與低延遲的無線感測網路媒體存取控制協定設計",
+      "會議名稱": "2007 National Computer Symposium (NCS'2007)",
+      "作者群": "陳青文,陳柏榮,翁傳奇"
+    },
+    {
+      "論文名稱": "Multiple Channels with Overlapping Data Sub-Channel Method for Mobile Ad Hoc Networks",
+      "會議名稱": "IEEE Wireless Communications and Networking Conference 2007 (IEEE WCNC'2007)",
+      "作者群": "Ching-Wen Chen, Chun-Liang Lai, Chuan-Chi Weng,Chang-Jung Ku"
+    },
+    {
+      "論文名稱": "Designing A Power-aware Embedded System with Reducing Memory Access Frequency",
+      "會議名稱": "International Computer Symposium 2006 (ICS'2006)",
+      "作者群": "Ching-Wen Chen, Chang-Jung Ku, Chuan-Chi Weng"
+    },
+    {
+      "論文名稱": "Power-Aware Routing Protocols with Link-Bandwidth and Path Remaining Power in Mobile Ad Hoc Networks",
+      "會議名稱": "The 14th IEEE International Conference on Networks (IEEE ICON'2006)",
+      "作者群": "Ching-Wen Chen, Keng-Hao Lai, Ching-Lung Chan"
+    },
+    {
+      "論文名稱": "An Improved Efficient Performance Design with Multiple Channels and Bandwidth Allocation strategy for Mobile Ad-Hoc Networks",
+      "會議名稱": "The IEEE International Conference on Sensor Networks, Ubiquitous, and Trustworthy Computing (IEEE SUTC'2006)",
+      "作者群": "Ching-Wen Chen, Chun-Liang Lai"
+    },
+    {
+      "論文名稱": "嵌入式即時監控與音樂點播系統的設計與實作",
+      "會議名稱": "2006 Symposium on Digital Life Technologies",
+      "作者群": "陳青文,李宏哲,吳志恩,謝一鳴,王峻國"
+    },
+    {
+      "論文名稱": "Hierarchical Resource Classification Overlay Network (HRCON) with Efficient Keyword Search in DHT-based Structured P2P Networks",
+      "會議名稱": "2006 International Conference of Digital Technology and Innovation Management",
+      "作者群": "Ching-Wen Chen, Chuan-Chi Weng"
+    },
+    {
+      "論文名稱": "Bandwidth-Based High Performance Routing Protocols with Transmission Amount Prediction in Mobile Ad Hoc Networks",
+      "會議名稱": "Mobile Computing Workshop 2006",
+      "作者群": "Ching-Wen Chen, Keng-Hao Lai, Ching-Lung Chan"
+    },
+    {
+      "論文名稱": "在多通道隨意網路下以重疊資料通道與頻寬配置策略來改善媒體存取傳輸效率之方法",
+      "會議名稱": "Mobile Computing Workshop 2006",
+      "作者群": "陳青文, 賴俊良"
+    },
+    {
+      "論文名稱": "在隨意網路下以切割通道與最小控制頻寬保留策略來改善媒體存取傳輸效率之方法",
+      "會議名稱": "National Computer Symposium 2005 (NCS'2005)",
+      "作者群": "陳青文, 賴俊良"
+    },
+    {
+      "論文名稱": "Design Schemes and Performance Analysis of Dynamic Rerouting Interconnection Networks for Tolerating Faults",
+      "會議名稱": "The Third International Symposium on Parallel and Distributed Processing and Applications (ISPA'2005), , published by Lecture Notes in Computer Science (LNCS), Spring-Verlag",
+      "作者群": "Ching-Wen Chen,Chang-Jung Ku, and Chih-Hung Chang"
+    },
+    {
+      "論文名稱": "建立具快速關鍵字查詢之結構化階層式的P2P網路",
+      "會議名稱": "The 16th Workshop on Object-Oriented Technology and Applications (OOTA'2005)",
+      "作者群": "陳青文, 楊朝翔, 翁傳奇"
+    },
+    {
+      "論文名稱": "Designing a High Performance and Low Energy-Consuming Embedded System with Considering Code Compressed Environments",
+      "會議名稱": "The 11th IEEE International Conference on Embedded and Real-Time Computing Systems and Applications (IEEE RTCSA'2005)",
+      "作者群": "Ching-Wen Chen, Chang-Jung Ku, and, Chih-Hung Chang"
+    },
+    {
+      "論文名稱": "A Service Discovery Mechanism with Load Balance Issue in Decentralized Peer-to-Peer Network",
+      "會議名稱": "The 11th International Conference on Parallel and Distributed Systems (IEEE ICPADS'2005)",
+      "作者群": "Ching-Wen Chen, Phui-Si Gan, and Chao-Hsiang Yang"
+    },
+    {
+      "論文名稱": "具各種設備瀏覽功能的自動化網頁內容剖析系統製作",
+      "會議名稱": "Proceedings of the 2005 Symposium on Digital Life and Internet Technologies (DLAIT'2005)",
+      "作者群": "陳青文，張育銓，詹京龍，張剴為"
+    },
+    {
+      "論文名稱": "A Low Power-consuming Embedded System Design by Reducing Memory Access Frequencies with Multiple Reference Tables and Encoding the Most Executed Instructions",
+      "會議名稱": "International Computer Symposium 2004 (ICS'2004)",
+      "作者群": "Ching-Wen Chen, Chih-Hung Chang, and Chang-Jung Ku"
+    },
+    {
+      "論文名稱": "Designing a Decentralized Peer-to-Peer Network with Rapid Service Discovery and Effective Load Balancing",
+      "會議名稱": "International Computer Symposium 2004 (ICS'2004)",
+      "作者群": "Ching-Wen Chen, Phui-Si Gan, and Chao-Hsiang Yang"
+    },
+    {
+      "論文名稱": "Designing a High Performance One-Fault Tolerant Multistage Interconnection Network with Easy Dynamic Rerouting",
+      "會議名稱": "the Second International Symposium on Parallel and Distributed Processing and Applications (ISPA'04), , published by Lecture Notes in Computer Science (LNCS), Spring-Verlag",
+      "作者群": "Ching-Wen Chen, Phui-Si Gan, and Chih-Hung Chang"
+    },
+    {
+      "論文名稱": "An Improved Performance by Low Rerouting Hops and Fault-tolerant Guaranteeing Dynamic Rerouting Multistage Interconnection Network",
+      "會議名稱": " the 16th IASTED International Conference on PARALLEL AND DISTRIBUTED COMPUTING AND SYSTEMS (IASTED PDCS'2004)",
+      "作者群": "Ching-Wen Chen, Shih-Chang Fu"
+    },
+    {
+      "論文名稱": "在隨意網路上最佳化的資料與控制頻寬分配下利用多資料通道來改善效能之策略",
+      "會議名稱": "台灣網際網路研討會 2004 (TANET'2004)",
+      "作者群": "陳青文，方清宏，賴俊良，洪瑞聰"
+    },
+    {
+      "論文名稱": "建立一個快速搜尋且具有負載平衡之同儕計算",
+      "會議名稱": "台灣網際網路研討會 2004 (TANET'2004)",
+      "作者群": "陳青文，楊朝翔，顏佩詩"
+    },
+    {
+      "論文名稱": "A Rapid Service Discovery Mechanism with Low Bandwidth Requirement in Decentralized Peer-to-Peer Network",
+      "會議名稱": "the 2004 International Conference on Embedded And Ubiquitous Computing (EUC'04), published by Lecture Notes in Computer Science (LNCS), Spring-Verlag",
+      "作者群": "Ching-Wen Chen, Phui-Si Gan and Chao-Hsiang Yang"
+    },
+    {
+      "論文名稱": "嵌入式系統中以執行特色來達成效能改進並兼顧成本之設計",
+      "會議名稱": "Proceedings of the 2004 Symposium on Digital Life and Internet Technologies (DLAIT'2004)",
+      "作者群": "陳青文，張志鴻，傅世彰"
+    },
+    {
+      "論文名稱": "在多重通道隨意網路上利用控制與資料通道頻寬比例使效能最大化之策略",
+      "會議名稱": "International conference of information management 2004 (ICIM'2004)",
+      "作者群": "陳青文，方清宏，賴俊良，洪瑞聰"
+    },
+    {
+      "論文名稱": "非集中式點對點環境下之快速與低頻寬需求的服務搜尋方法設計",
+      "會議名稱": "International Conference on Information Management 2004 (ICIM'2004)",
+      "作者群": "陳青文，楊朝翔，顏佩詩"
+    },
+    {
+      "論文名稱": "Dynamic Disjoint Paths Switching in Gamma Networks",
+      "會議名稱": "the 10th Workshop on Compiler Techniques for High-Performance Computing 2004 (CTHPC'2004)",
+      "作者群": "Ching-Wen Chen, Shih-Chang Fu and Chung-Ping Chung"
+    },
+    {
+      "論文名稱": "Design of Fault-Tolerant Interconnection Networks with Minimal Rerouting Hops",
+      "會議名稱": "of the 2003 National Computer Symposium (NCS'2003)",
+      "作者群": "Ching-Wen Chen and Shih-Chang Fu"
+    }
+  ],
+  "book": [],
+  "patent": [],
+  "most": [
+    {
+      "name": "結合手機姿勢識别與社群競爭以促進身體活動習慣養成",
+      "schoolYear": "113"
+    },
+    {
+      "name": "演算法家家酒：具LEGO 遊戲關卡影像辨識與體現操作之遊戲式演算法學習系統開發與評估",
+      "schoolYear": "112"
+    },
+    {
+      "name": "有效記憶體請求快取命中提升與佇列優先之高效能GPU設計",
+      "schoolYear": "110"
+    },
+    {
+      "name": "設計有效快取命中之高效能GPU研究",
+      "schoolYear": "109"
+    },
+    {
+      "name": "利用有效目錄紀錄與warp產量之高效能GPU與多核心處理器設計",
+      "schoolYear": "108"
+    },
+    {
+      "name": "有效快取命中與集合關聯預測機制之高效能省電處理器設計",
+      "schoolYear": "107"
+    },
+    {
+      "name": "快速TLB轉換與減少Page walks並提升快取命中率之省電處理器設計",
+      "schoolYear": "106"
+    },
+    {
+      "name": "以DVFS與動態快取配置設計高效能與低耗電之多核心處理器",
+      "schoolYear": "105"
+    },
+    {
+      "name": "設計改善虛擬機器快取一致性耗電與共享快取競爭之多核心系統",
+      "schoolYear": "104"
+    },
+    {
+      "name": "結合WIFI技術與雷射測距設計自動定位導航之自走車系統",
+      "schoolYear": "104"
+    },
+    {
+      "name": "利用有效率廣播與快取分享設計省電多核心快取一致性協定(2/2)",
+      "schoolYear": "103"
+    },
+    {
+      "name": "基於ZigBee之家用電器監控系統",
+      "schoolYear": "103"
+    },
+    {
+      "name": "利用有效率廣播與快取分享設計省電多核心快取一致性協定(1/2)",
+      "schoolYear": "102"
+    },
+    {
+      "name": "多核心處理器虛擬快取與實體快取之省電資料一致性協定設計",
+      "schoolYear": "101"
+    },
+    {
+      "name": "在無線行動網路上設計無干擾並提升通訊對數量協定與低傳輸耗電之跨層協定研究",
+      "schoolYear": "100"
+    },
+    {
+      "name": "在繞路與媒體存取控制層分析網路傳輸量、電量消耗與傳遞延遲之行動無線網路協定設計",
+      "schoolYear": "99"
+    },
+    {
+      "name": "在行動與隨意網路中設計具高效能與低耗電之繞路與媒體存取控制協定之研究(3/3)",
+      "schoolYear": "98"
+    },
+    {
+      "name": "在行動與隨意網路中設計具高效能與低耗電之繞路與媒體存取控制協定之研究(2/3)",
+      "schoolYear": "97"
+    },
+    {
+      "name": "在行動與隨意網路中設計具高效能與低耗電之繞路與媒體存取控制協定之研究(1/3)",
+      "schoolYear": "96"
+    },
+    {
+      "name": "省電式嵌入式系統與追蹤檔壓縮的研究分析與設計(2/2)",
+      "schoolYear": "95"
+    },
+    {
+      "name": "省電式嵌入式系統與追蹤檔壓縮的研究分析與設計(1/2)",
+      "schoolYear": "94"
+    }
+  ],
+  "tech": [],
+  "induAca": [
+    "資通訊人才培育先導型計畫-98年度課程發展計畫-教材發展:「車載嵌入式系統與周邊介面程式設計 (2009-04 to 2010-03)"
+  ],
+  "perform": [],
+  "reward": [
+    "逢甲大學論文著作獎勵傑出獎 (111, 2022-11) - 逢甲大學",
+    "108學年度教學績優獎 (108, 2019-11) - 逢甲大學",
+    "最佳論文獎 (108, 2019-11) - 2018創新發明應用研討會",
+    "逢甲大學論文著作獎勵傑出獎 (108, 2019-11) - 逢甲大學",
+    "最佳論文獎 (107, 2018-11) - 2018創新發明應用研討會",
+    "逢甲大學論文著作獎勵優良獎 (106, 2017-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (106, 2017-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (104, 2015-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (104, 2015-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (103, 2014-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (103, 2014-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (102, 2013-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (102, 2013-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (102, 2013-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (102, 2013-11) - 逢甲大學",
+    "最佳論文獎 (101, 2012-11) - 第二屆創新發明應用研討會 (AII 2012)",
+    "逢甲大學論文著作獎勵傑出獎 (100, 2011-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (100, 2011-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (100, 2011-11) - 逢甲大學",
+    "斐陶斐榮譽會員 (100, 2011-06) - 中華民國斐陶斐榮譽學會",
+    "逢甲大學論文著作獎勵傑出獎 (99, 2010-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (99, 2010-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵 (98, 2009-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (98, 2009-11) - 逢甲大學",
+    "97學年度優良導師 (97, 2009-08) - 逢甲大學",
+    "逢甲大學優良導師 (97, 2009-06) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (96, 2007-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (95, 2006-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (95, 2006-11) - 逢甲大學",
+    "最佳論文獎 (94, 2006-03) - 行動計算研討會"
+  ],
+  "speech": [
+    {
+      "演講題目": "Bandwidth-Based Power-Aware Routing and Path Maintenance Protocols in Mobile Ad-Hoc Networks",
+      "邀請單位": "彰化師範大學資訊工程系",
+      "演講日期": "2011-08"
+    },
+    {
+      "演講題目": "大學學群科系介紹",
+      "邀請單位": "台中市東山高級中學",
+      "演講日期": "2010-12"
+    },
+    {
+      "演講題目": "在多通道隨意網路下以重資料通道與頻寬配置策略來改善媒體存取傳輸效率之方法",
+      "邀請單位": "彰化師範大學資訊工程系",
+      "演講日期": "2007-12"
+    },
+    {
+      "演講題目": "資訊學群介紹",
+      "邀請單位": "長億高中",
+      "演講日期": "2007-10"
+    },
+    {
+      "演講題目": "A Cost-efficient Embedded System Design with Performance and Power Consideration Based on Instructions Execution Frequencies",
+      "邀請單位": "逢甲大學資訊工程系",
+      "演講日期": "2005-03"
+    }
+  ],
+  "material": [],
+  "tal": []
+}

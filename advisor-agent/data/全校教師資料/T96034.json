@@ -1,0 +1,233 @@
+{
+  "teacherId": "T96034",
+  "name": "陳益生",
+  "mainUnit": "資訊電機學院",
+  "detailUnit": "通訊工程學系",
+  "skill": [
+    "通信信號處理signal processing for communication",
+    "多輸入多輸出系統MIMO systems",
+    "無線通訊wireless communication"
+  ],
+  "edu": [
+    "國立交通大學 電機與控制工程學系 博士",
+    "國立中興大學(台中) 電機工程學系 碩士",
+    "國立中興大學(台中) 電機工程學系 學士"
+  ],
+  "fcuExp": [
+    "資訊電機學院 秘書",
+    "通訊工程學系 系主任",
+    "電機與通訊工程博士學位學程 主任",
+    "生醫資訊暨生醫工程碩士學位學程 主任",
+    "通訊工程學系 助理教授",
+    "通訊工程學系 副教授"
+  ],
+  "currjob": [],
+  "otherExp": [
+    "高雄捷運公司 電控系統工程處 助理工程師",
+    "國防部 陸軍馬祖防衛司令部 通信少尉預"
+  ],
+  "journal": [
+    {
+      "論文名稱": "Resolving two-dimensional ambiguity in subspace-based frequency estimation for harmonic signals",
+      "期刊名稱": "Circuits, Systems and Signal Processing (SCIE)",
+      "作者群": "Yi-Sheng Chen, Ho-En Liao and Yue-Der Lin*"
+    },
+    {
+      "論文名稱": "A novel PLI suppression method in ECG by notch filtering with a modulation-based detection and frequency estimation scheme",
+      "期刊名稱": "Biomedical Signal Processing and Control (SCIE)",
+      "作者群": "Yi-Sheng Chen, Po-Yen Lin and Yue-Der Lin*"
+    },
+    {
+      "論文名稱": "Novel subspace method for frequencies estimation of two sinusoids with applications to vital signals",
+      "期刊名稱": "IET Signal Processing (SCIE,EI)",
+      "作者群": "Yi-Sheng Chen and Yue-Der Lin*"
+    },
+    {
+      "論文名稱": "Wavelet-based embedded algorithm for respiratory rate estimation from PPG signal",
+      "期刊名稱": "Biomedical Signal Processing and Control (SCIE)",
+      "作者群": "Yue-Der Lin*, Ya-Hsueh Chien, and Yi-Sheng Chen"
+    },
+    {
+      "論文名稱": "DOA Estimation for Periodically Modulated Sources",
+      "期刊名稱": "EURASIP Journal on Advances in Signal Processing (SCIE,EI)",
+      "作者群": "Yi-Sheng Chen*"
+    },
+    {
+      "論文名稱": "Semiblind Channel Estimation for MIMO-OFDM Systems",
+      "期刊名稱": "EURASIP Journal on Advances in Signal Processing (SCIE,EI)",
+      "作者群": "Yi-Sheng Chen* and Jyu-Han Song"
+    },
+    {
+      "論文名稱": "An Eigendecomposition-Based Algorithm for Frequencies Estimation of Two Sinusoids",
+      "期刊名稱": "IEEE Communications Letters (SCIE,EI)",
+      "作者群": "Yi-Sheng Chen*, Shaw-Jyh Shin, and Ben-Yi Liau"
+    },
+    {
+      "論文名稱": "Statistical Covariance-Matching Based Blind Channel Estimation for Zero-Padding MIMO-OFDM Systems",
+      "期刊名稱": "EURASIP Journal on Advances in Signal Processing (SCIE,EI)",
+      "作者群": "Yi-Sheng Chen* and Jwo-Yuh Wu"
+    },
+    {
+      "論文名稱": "A simple precoding-based blind channel estimation for space-time block-coded single-carrier with frequency-domain equalization systems",
+      "期刊名稱": "IEEE trans. on Signal Processing (SCIE,EI)",
+      "作者群": "Yi-Sheng Chen"
+    },
+    {
+      "論文名稱": "Semiblind channel estimation for MIMO single carrier with frequency-domain equalization systems",
+      "期刊名稱": "IEEE trans. on Vehicular Technology (SCIE,EI)",
+      "作者群": "Yi-Sheng Chen"
+    },
+    {
+      "論文名稱": "Blind-Channel Identification for MIMO Single-Carrier Zero-Padding Block Transmission Systems",
+      "期刊名稱": "IEEE trans.on Circuits and Systems I : Regular Papers (SCIE,EI)",
+      "作者群": "Yi-Sheng Chen and Ching-An Lin"
+    },
+    {
+      "論文名稱": "Blind Identification of MIMO Channels Using Optimal Periodic Precoding",
+      "期刊名稱": "IEEE trans. on Circuits and Systems --I: Regular Papers (SCIE,EI)",
+      "作者群": "Ching-An Lin and Yi-Sheng Chen"
+    },
+    {
+      "論文名稱": "Blind Identification of MIMO Channels in Zero Padding Block Transmission Systems",
+      "期刊名稱": "IEEE trans. on Signal Processing (SCIE,EI)",
+      "作者群": "Yi-Sheng Chen and Ching-An Lin"
+    }
+  ],
+  "journal2": [],
+  "conference": [
+    {
+      "論文名稱": "An Interference Suppressing Technique for CP Free SC-FDE UWB Systems With Multiple Users",
+      "會議名稱": "2019全國電信研討會",
+      "作者群": "陳益生*、莊瀚文"
+    },
+    {
+      "論文名稱": "以圓形陣列天線為基礎之信號源二維入射角度估測技術",
+      "會議名稱": "2018全國電信研討會",
+      "作者群": "許智炫*、陳益生"
+    },
+    {
+      "論文名稱": "具空時區塊碼之多輸入多輸出單載波頻域等化傳輸系統之半盲蔽式通道估測",
+      "會議名稱": "民生電子研討會",
+      "作者群": "宋居翰,陳益生"
+    },
+    {
+      "論文名稱": "A simple precoding-based blind channel estimation for space-time block-coded single-carrier with frequency-domain equalization systems",
+      "會議名稱": "2010 International Symposium on Spread Spectrum Techniques and Applications",
+      "作者群": "陳益生"
+    },
+    {
+      "論文名稱": "Statistical covariance-matching based blind channel estimation for zero-padding MIMO-OFDM systems",
+      "會議名稱": "IEEE International Symposium on Circuits and Systems",
+      "作者群": "陳益生、吳卓諭"
+    },
+    {
+      "論文名稱": "Semi-blind channel estimation for MIMO single carrier with frequency domain equalization systems",
+      "會議名稱": "IEEE International Conference on Acoustics, Speech, and Signal Processing",
+      "作者群": "陳益生"
+    },
+    {
+      "論文名稱": "Blind channel estimation for single carrier block transmission systems with frequency domain equalization",
+      "會議名稱": "The 14th Asia-Pacific Conference on Communications (日本東京, Oct. 14-16, 2008)",
+      "作者群": "陳益生"
+    },
+    {
+      "論文名稱": "A triangular factorization-based blind channel estimation for MIMO zero padding block transmission systems",
+      "會議名稱": "2007民生電子暨信號處理研討會",
+      "作者群": "陳益生"
+    }
+  ],
+  "book": [
+    {
+      "專業書籍": "數位通訊系統實習---MatLab/Simulink---",
+      "出版單位": "逢甲大學",
+      "作者群": "廖和恩 陳益生 林維崙"
+    },
+    {
+      "專業書籍": "類比通訊系統實習---MatLab/Simulink",
+      "出版單位": "逢甲大學",
+      "作者群": "廖和恩 陳益生 林維崙"
+    }
+  ],
+  "patent": [],
+  "most": [
+    {
+      "name": "循環延遲多樣性之多輸入多輸出單載波頻域等化系統下的盲通道估測:以週期性預編碼為基礎",
+      "schoolYear": "112"
+    },
+    {
+      "name": "一個新型的多輸入多輸出頻域等化傳輸系統及其相應之半盲式通道估測：以週期性重複碼為基礎的研究",
+      "schoolYear": "110"
+    },
+    {
+      "name": "一個以子空間為基礎的新型多重頻率估測技術",
+      "schoolYear": "107"
+    },
+    {
+      "name": "當代頻率估測方法與應用",
+      "schoolYear": "106"
+    },
+    {
+      "name": "以週期性調變為基礎之二維角度估測技術",
+      "schoolYear": "104"
+    },
+    {
+      "name": "正弦諧波信號之基礎頻率估測",
+      "schoolYear": "101"
+    },
+    {
+      "name": "以空時碼為基礎之多輸入多輸出正交分頻多工系統於多用戶通信中之盲蔽式通道估測",
+      "schoolYear": "100"
+    },
+    {
+      "name": "信號抵達方向角的估測:以變動信號模數為基礎的研究",
+      "schoolYear": "99"
+    },
+    {
+      "name": "多輸入多輸出正交分頻多工系統之盲蔽式通道估測︰以循環式預編碼為基礎的研究",
+      "schoolYear": "98"
+    },
+    {
+      "name": "以單載波頻域等化機制與空時區塊碼為基礎之多輸入多輸出傳輸系統之盲蔽式通道估測",
+      "schoolYear": "97"
+    },
+    {
+      "name": "具頻域等化機制之多輸入多輸出單載波傳輸系統之盲蔽式通道估側",
+      "schoolYear": "96"
+    }
+  ],
+  "tech": [],
+  "induAca": [
+    "教育部5G行動寬頻課程推廣計畫(第2期)—5G NR實體層技術課程模組「通訊科技專論」 (2022-02 to 2023-01)"
+  ],
+  "perform": [],
+  "reward": [
+    "逢甲大學論文著作獎勵傑出獎 (111, 2022-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (110, 2021-11) - 逢甲大學",
+    "110學年度教學績優獎 (110, 2021-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (107, 2018-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (107, 2018-11) - 逢甲大學",
+    "104學年度優良導師 (104, 2016-11) - 學務處",
+    "逢甲大學論文著作獎勵傑出獎 (103, 2014-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (102, 2013-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (102, 2013-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (102, 2013-11) - 逢甲大學",
+    "101學年度教學優良教師 (101, 2012-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (100, 2011-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (100, 2011-11) - 逢甲大學",
+    "九十九學年度第二學期考試監考人員查獲違反考試規則 (99, 2011-08) - 逢甲大學",
+    "逢甲大學論文著作獎勵 (99, 2010-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵 (99, 2010-11) - 逢甲大學",
+    "98學年度優良導師 (98, 2010-08) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (98, 2009-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (98, 2009-11) - 逢甲大學"
+  ],
+  "speech": [
+    {
+      "演講題目": "Blind identification for MIMO wireless communication channel",
+      "邀請單位": "國立暨南國際大學通訊工程研究所",
+      "演講日期": "2008-06"
+    }
+  ],
+  "material": [],
+  "tal": []
+}

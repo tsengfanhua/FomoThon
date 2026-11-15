@@ -1,0 +1,161 @@
+{
+  "teacherId": "T08189",
+  "name": "曾琮瑋",
+  "mainUnit": "工程與科學學院",
+  "detailUnit": "化學工程學系",
+  "skill": [
+    "電化學鍍銅",
+    "無機奈米顆粒合成",
+    "有機無機混摻材料",
+    "有機太陽能電池",
+    "水性樹脂塗料與塗佈"
+  ],
+  "edu": [
+    "台灣大學 材料科學與工程學系 博士",
+    "台灣大學 化學工程學系 碩士",
+    "台灣大學 化學工程學系 學士"
+  ],
+  "fcuExp": [
+    "化學工程學系 助理教授"
+  ],
+  "currjob": [],
+  "otherExp": [
+    "南亞塑膠工業股份有限公司 聚酯膜部研發 高級工程師",
+    "台灣大學 材料科學與工程學系 博士後研究",
+    "台達電子工業股份有限公司 計畫開發一處 主任工程師",
+    "台灣積體電路製造股份有限公司 製程 工程師"
+  ],
+  "journal": [
+    {
+      "論文名稱": "Effects of water/ethanol solvent ratios on the morphology of SnO2 nanorods",
+      "期刊名稱": "Inorganic Chemistry Communications (SCIE)",
+      "作者群": "T.-W. Zeng* , Y.-F. Liang"
+    },
+    {
+      "論文名稱": "Improvement of mechanical properties of silica nanoparticle antireflection films via including a tetraethoxysilane-based sol",
+      "期刊名稱": "Optical Materials (SCIE)",
+      "作者群": "T.-W. Zeng*, J.-R. Zhan"
+    },
+    {
+      "論文名稱": "Evaluation of the effects of synthesis conditions on the crystallite size of SnO2 nanoparticles via the Taguchi method",
+      "期刊名稱": "Inorganic Chemistry Communications (SCIE)",
+      "作者群": "Y.-J. Liu, T.-W. Zeng*"
+    },
+    {
+      "論文名稱": "奈米材料與結構於抗反射膜之應用",
+      "期刊名稱": "化工 (ISSN)",
+      "作者群": "曾琮瑋"
+    },
+    {
+      "論文名稱": "Size Dependent Photocatalytic Activities of Rod-Shape SnO2 Nanocrystals",
+      "期刊名稱": "Materials Letters: X (ESCI)",
+      "作者群": "I-C. Li, T.-W. Zeng*"
+    },
+    {
+      "論文名稱": "Fabrication parameters of spin coating hollow SiO2 nanospheres for antireflection films",
+      "期刊名稱": "Optics Continuum (ESCI)",
+      "作者群": "T.-C. Chang, T.-W. Zeng*"
+    },
+    {
+      "論文名稱": "Effects of Additives in an Electrodeposition Bath on the Surface Morphologic Evolution of Electrodeposited Copper",
+      "期刊名稱": "International Journal of Electrochemical Science (SCIE)",
+      "作者群": "T.-W. Zeng*, S.-C. Yen"
+    },
+    {
+      "論文名稱": "Effects of Gelatin on Electroplated Copper Through the Use of a Modified-Hydrodynamic Electroplating Test Cell",
+      "期刊名稱": "International Journal of Electrochemical Science (SCIE)",
+      "作者群": "T.-W. Zeng*, S.-C. Yen"
+    },
+    {
+      "論文名稱": "Hybrid Poly(3-hexyl thiophene):TiO2 Nanorods Oxygen Sensor",
+      "期刊名稱": "RSC Advances (SCIE)",
+      "作者群": "C.-P. Hsu, T.-W. Zeng, M.-C. Wu*, Y.-C. Tu, H.-C. Liao, W.-F. Su*"
+    },
+    {
+      "論文名稱": "Correlating hetero interface structure, charge recombination and device efficiency of poly(3-hexyl thiophene):TiO2 nanorod solar cell",
+      "期刊名稱": "Langmuir (SCIE)",
+      "作者群": "T.-W. Zeng, C.-C. Ho, Y.-C. Tu, G.-Y. Tu, L.-Y. Wang and W.-F. Su*"
+    },
+    {
+      "論文名稱": "Effects of bifunctional linker on the optical properties of ZnO nanocolumn-linker-CdSe quantum dots heterostructure",
+      "期刊名稱": "Journal of Colloid and Interface Science (SCIE)",
+      "作者群": "T.-W. Zeng, I-S. Liu, K.-T. Huang, H.-C. Liao, C.-T. Chien, D. K.-P. Wong, C.-W. Chen, J.-J. Wu, Y.-F. Chen, W.-F. Su*"
+    },
+    {
+      "論文名稱": "Effects of bifunctional linker on the performance of P3HT/CdSe quantum dot-linker-ZnO nanocolumn photovoltaic device",
+      "期刊名稱": "Opt. Express (SCIE)",
+      "作者群": "T.-W. Zeng, I.-S. Liu, F.-C. Hsu, K.-T. Huang, H.-C. Liao, W.-F. Su*"
+    },
+    {
+      "論文名稱": "Kelvin Probe Force Microscopy Study on Hybrid P3HT: Titanium Dioxide Nanorod Materials",
+      "期刊名稱": "Chem. Phys. Lett. (SCIE)",
+      "作者群": "T.-W. Zeng, F.-C. Hsu, Y.-C. Tu, T.-H. Lin, W.-F. Su*"
+    },
+    {
+      "論文名稱": "Hybrid Poly (3-hexylthiophene) / Titanium Dioxide Nanorods Material for Solar Cell Applications",
+      "期刊名稱": "Solar Energy Materials and Solar Cells (SCIE)",
+      "作者群": "T.-W. Zeng, H.-H. Lo, C.-H. Chang, Y.-Y. Lin, C.-W. Chen, W.-F. Su*"
+    },
+    {
+      "論文名稱": "Nanostructured Polymer Blends (P3ht/Pmma): Inorganic Titania Hybrid Photovoltaic Devices",
+      "期刊名稱": "Solar Energy Materials and Solar Cells (SCIE)",
+      "作者群": "M.-C. Wu, H.-C. Liao, H.-H. Lo, S. Chen, Y.-Y. Lin, W.-C. Yen, T.-W. Zeng, C.-W. Chen, Y.-F. Chen, W.-F. Su*"
+    },
+    {
+      "論文名稱": "Using Scanning Probe Microscopy to Study the Effect of Molecular Weight of Poly(3-hexylthiophene) on the Performance of Poly(3-hexylthiophene):TiO2 Nanorod Photovoltaic Devices",
+      "期刊名稱": "Solar Energy Materials and Solar Cells (SCIE)",
+      "作者群": "M.-C. Wu, H.-H. Lo, H.-C. Liao, S. Chen, Y.-Y. Lin, W.-C. Yen, T.-W. Zeng, Y.-F. Chen, C.-W. Chen, W.-F. Su*"
+    },
+    {
+      "論文名稱": "Efficient Photoinduced Charge Transfer in TiO2 Nanorod/Conjugated Polymer Hybrid Materials",
+      "期刊名稱": "Nanotechnology (SCIE)",
+      "作者群": "Y.-T. Lin, T.-W. Zeng, W.-Z. Lai, C.-W. Chen*, Y.-Y. Lin, Y.-S. Chang, W.-F. Su*"
+    },
+    {
+      "論文名稱": "A Large Interconnecting Network within Hybrid MEH-PPV/TiO2 Nanorod Photovoltaic Devices",
+      "期刊名稱": "Nanotechnology (SCIE)",
+      "作者群": "T.-W. Zeng, Y.-Y. Lin, H.-H. Lo, C.-W. Chen*, C.-H. Chen, S.-C. Liou, H.-Y. Huang,  W.-F. Su*"
+    }
+  ],
+  "journal2": [],
+  "conference": [],
+  "book": [],
+  "patent": [],
+  "most": [
+    {
+      "name": "以高分子封頂劑改變化學法合成二氧化錫奈米棒尺寸以應用於光催化降解",
+      "schoolYear": "113"
+    },
+    {
+      "name": "研製可撓曲光電元件用之抗反射膜組成",
+      "schoolYear": "112"
+    },
+    {
+      "name": "探討碳基鈣鈦礦太陽能電池的介面工程技術以提升元件穩定性",
+      "schoolYear": "112"
+    },
+    {
+      "name": "無機氧化物奈米顆粒的形態調控用於軟性載膜的光學膜與光伏元件中之光學與電性調整層",
+      "schoolYear": "109"
+    },
+    {
+      "name": "纖維與高分子之循環再生標誌系統及高值化再利用技術(IV)",
+      "schoolYear": "108"
+    }
+  ],
+  "tech": [],
+  "induAca": [
+    "水分散型樹脂檢測與分析III (2025-03 to 2026-02)",
+    "水分散型樹脂檢測與分析II (2024-11 to 2025-01)",
+    "水分散型樹脂檢測與分析 (2024-08 to 2024-10)"
+  ],
+  "perform": [],
+  "reward": [
+    "逢甲大學論文著作獎勵優等獎 (113, 2024-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優等獎 (113, 2024-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (113, 2024-11) - 逢甲大學"
+  ],
+  "speech": [],
+  "material": [],
+  "tal": []
+}

@@ -1,0 +1,616 @@
+{
+  "teacherId": "T87092",
+  "name": "趙啟時",
+  "mainUnit": "資訊電機學院",
+  "detailUnit": "通訊工程學系",
+  "skill": [
+    "高速網路High Speed Networks",
+    "網路管理與系統Network Management and Systems",
+    "網路防火牆系統Network Firewall Systems",
+    "網路攻防Network Attack and Defense"
+  ],
+  "edu": [
+    "逢甲大學 資訊所 博士",
+    "逢甲大學 資訊所 碩士",
+    "逢甲大學 資訊系 學士"
+  ],
+  "fcuExp": [
+    "資源管理中心 主任",
+    "資訊加值組 組長",
+    "雲端學院(籌備) 秘書",
+    "資訊工程學系(所) 兼任講師",
+    "資訊工程學系 博士後研究人員",
+    "資源管理中心 組員",
+    "通訊工程學系 助理教授",
+    "通訊工程學系 助理教授",
+    "通訊工程學系 助理教授",
+    "通訊工程學系 副教授"
+  ],
+  "currjob": [],
+  "otherExp": [
+    "台中健康暨管理學院 資管系 助理教授",
+    "私立東海大學 資訊科學 講師",
+    "私立東海大學 資訊科學 講師"
+  ],
+  "journal": [
+    {
+      "論文名稱": "A Bit Vector-Based Diagnosis Mechanism for Firewall Rule Anomalies in IPv6 Networking Environment",
+      "期刊名稱": "Journal of Internet Technology (SCIE)",
+      "作者群": "Chi-Shih Chao, Stephen J. H. Yang"
+    },
+    {
+      "論文名稱": "A Novel Mechanism for Anomaly Removal of Firewall Filtering Rules",
+      "期刊名稱": "Journal of Internet Technology (SCIE,EI)",
+      "作者群": "Chi-Shih Chao and Stephen J. H. Yang"
+    },
+    {
+      "論文名稱": "Towards a Usable Anomaly Diagnosis System among Internet Firewalls’ Rules",
+      "期刊名稱": "Journal of Internet Technology (SCIE,EI)",
+      "作者群": "Chi-Shih Chao and Stephen Jen-Hwa Yang"
+    },
+    {
+      "論文名稱": "Using Monitoring Cycles for Efficient Multi-Link Failure Diagnosis on All-Optical Mesh Networks",
+      "期刊名稱": "Journal of Internet Technology (SCIE,EI)",
+      "作者群": "Chi-Shih Chao, Szu-Pei Lu"
+    },
+    {
+      "論文名稱": "An ARAR-Tree-Based Diagnosis Mechanism for Rule Anomalies among Internet Firewalls",
+      "期刊名稱": "Lecture Notes in Electrical Engineering (LNEE) (EI)",
+      "作者群": "Chi-Shih Chao"
+    },
+    {
+      "論文名稱": "Multi-Fault Isolation Combined with Backup Paths and Active Probing on All Optical Networks",
+      "期刊名稱": "Lecture Notes in Electrical Engineering (LNEE) (EI)",
+      "作者群": "Chi-Shih Chao, Szu-Pei Lu"
+    },
+    {
+      "論文名稱": "A Novel and Feasible System for Rule Anomaly and\r\nBehavior Mismatching Diagnosis among Firewalls",
+      "期刊名稱": "Springer Lecture Notes in Electrical Engineering (LNEE) (EI)",
+      "作者群": "Chi-Shih Chao"
+    },
+    {
+      "論文名稱": "An Adaptive Probe Selection Mechanism for k-link Fault Diagnosis on All-Optical Mesh Networks",
+      "期刊名稱": "Proceedings of IEEE ICOIN 2013 (EI)",
+      "作者群": "Chi-Shih Chao and Szu-pei Lu"
+    },
+    {
+      "論文名稱": "A Feasible Visualized System for Anomaly Diagnosis of Internet Firewall Rules",
+      "期刊名稱": "Journal of Communication and Computer (US Congress Lib.)",
+      "作者群": "Chi-Shih Chao"
+    },
+    {
+      "論文名稱": "Toward efficient multi-link failure diagnosis by using monitoring cycle for all-optical mesh networks\r\n",
+      "期刊名稱": "Proceedings of IEEE ICOIN2012 (EI)",
+      "作者群": "Chi-Shih Chao, Szu-Pei Lu"
+    },
+    {
+      "論文名稱": "A Novel Three-Tiered Visualization Approach to Firewall Rule Validation",
+      "期刊名稱": "Journal of Visual Languages and Computing (SCIE,EI)",
+      "作者群": "C. S. Chao and Stephen J. H. Yang"
+    },
+    {
+      "論文名稱": "A Flexible and Feasible Anoamly Diagnosis System for Internet Firewall Rules",
+      "期刊名稱": "Proceedings of IEEE APNOMS 2011 (EI)",
+      "作者群": "Chi-Shih Chao"
+    },
+    {
+      "論文名稱": "Toward Fault Isolation in WDM Mesh Networks",
+      "期刊名稱": "Lecture Note of Computer Science (EI)",
+      "作者群": "Chi=Shih Chao and Szu-Pei Lu"
+    },
+    {
+      "論文名稱": "A Novel Fault Diagnosis Approach to Path-Protected WDM Mesh Networks",
+      "期刊名稱": "Springer Lecture Notes in Computer Science for Managing Next (EI)",
+      "作者群": "趙啟時"
+    },
+    {
+      "論文名稱": "Call Forwarding-Based Active Probing for POTS Fault Isolation",
+      "期刊名稱": "Springer Journal of Network and Systems Management (SCIE)",
+      "作者群": "C. S. Chao, M. Natu, and A. S. Sethi"
+    },
+    {
+      "論文名稱": "A Visualized Internet Firewall Rule Validation System",
+      "期刊名稱": "Lecture Notes in Computer Science for Managing NGN/Services (EI)",
+      "作者群": "C. S. Chao (Single Author)"
+    },
+    {
+      "論文名稱": "Wearable Device for Real-Time Monitoring of Human Falls",
+      "期刊名稱": "Measurement (SCIE)",
+      "作者群": "C.S.Lin, H. C. Hsu, Y. L. Lay, C. C. Chiu, and C. S. Chao"
+    },
+    {
+      "論文名稱": "A PDA Based Wearable System for Real-Time Monitoring of Human Falls",
+      "期刊名稱": "IETE Journal of Research (SCIE)",
+      "作者群": "Lin, Chern-Sheng, Hung-Chun Hsu, Chuang-Chien Chiu, Shyan-Lung Lin, Chi-Shie Chao"
+    },
+    {
+      "論文名稱": "A PDA Based Wearable System for Real-Time Monitoring of Human Falls",
+      "期刊名稱": "IETE Journal of Research (SCIE)",
+      "作者群": "C. S. Lin, H. C. Hsu, C. C. Chiu, S. L. Lin and C. S. Chao"
+    },
+    {
+      "論文名稱": "A Distributed Management Framework for Enterprise VoIP Networks",
+      "期刊名稱": "Journal of Internet Technology (SCIE,EI)",
+      "作者群": "C. S. Chao and A. C. Liu"
+    },
+    {
+      "論文名稱": "Abnormal Event Detection for Network Flooding Attacks",
+      "期刊名稱": "Journal of Information Science and Engineering (SCIE)",
+      "作者群": "C. S. Chao and A. C. Liu"
+    },
+    {
+      "論文名稱": "MoD開啟數位家電之路",
+      "期刊名稱": "網路通訊雜誌 ()",
+      "作者群": "趙啟時"
+    },
+    {
+      "論文名稱": "An Alarm Management Framework for Automated Network Fault Identification",
+      "期刊名稱": "Computer Communications (SCIE,EI)",
+      "作者群": "C. S. Chao and A. C. Liu"
+    },
+    {
+      "論文名稱": "網路電話管理系統的規劃與建置",
+      "期刊名稱": "網路通訊雜誌 ()",
+      "作者群": "S. C. Ke, C. S. Chao, and A. C. Liu"
+    },
+    {
+      "論文名稱": "A LAN Fault Diagnosis System",
+      "期刊名稱": "Computer Communications (SCIE,EI)",
+      "作者群": "C. S. Chao, D. L. Yang, and A. C. Liu"
+    },
+    {
+      "論文名稱": "An Automated Fault Diagnosis System Using Hierarchical Reasoning and Alarm Correlation",
+      "期刊名稱": "The Journal of Network and Systems Management (SCIE,EI)",
+      "作者群": "C. S. Chao, D. L. Yang, and A. C. Liu"
+    },
+    {
+      "論文名稱": "A Visualization Modeling Framework for a CSP-Based System",
+      "期刊名稱": "Journal of Visual Languages and Computing (SCIE,EI)",
+      "作者群": "C. S. Chao, A. C. Liu"
+    }
+  ],
+  "journal2": [],
+  "conference": [
+    {
+      "論文名稱": "A Firewall Rule Optimization Mechanism for IPv6-Based IoT Networks (Best Paper Award)",
+      "會議名稱": "2024 IEEE 4th International Conference on Electronic Communications, Internet of Things and Big Data",
+      "作者群": "Chi-Shih Chao"
+    },
+    {
+      "論文名稱": "Developing a Feasible Firewall System with Parallel Rule Allocation Optimization for High Service Availability under Large-Scale Network Attacks (Best Paper Award)",
+      "會議名稱": "2023 IEEE 5th Eurasia Conference on IoT, Communication and Engineering",
+      "作者群": "Chi-Shih Chao"
+    },
+    {
+      "論文名稱": "網路攻擊分類之特徵向量萃取技術－以 SNMP 為例",
+      "會議名稱": "TANet -2022",
+      "作者群": "魏佑霖, 林駿璋, 林欣儀, 趙啟時"
+    },
+    {
+      "論文名稱": "Real-Time Dynamic Configuration of Firewall Rules for High-Speed IoT Networks (Best Paper)",
+      "會議名稱": "4th IEEE Eurasia Conference on IOT, Communication and Engineering 2022",
+      "作者群": "邵宇安, 趙啟時"
+    },
+    {
+      "論文名稱": "高效率多功能互動式防火牆政策除錯暨編輯平台之開發與實作",
+      "會議名稱": "TANet2020 台灣網際網路研討會",
+      "作者群": "趙啟時, 劉亭妤, 呂佳勳, 邱子嫣"
+    },
+    {
+      "論文名稱": "基因演算法之防火牆規則異常優化",
+      "會議名稱": "TANet2018",
+      "作者群": "趙啟時, 詹怡婷"
+    },
+    {
+      "論文名稱": "A Feasible Anomaly Diagnosis Mechanism for Stateful Firewall Rules",
+      "會議名稱": "The 27th IEEE International Conference on Computer Communications and Networks (ICCCN 2018)",
+      "作者群": "Chi-Shih Chao"
+    },
+    {
+      "論文名稱": "以SDN實作動態貝氏網路之網路攻擊推理引擎",
+      "會議名稱": "第28屆全國資訊安全會議暨資安產業技術研討會",
+      "作者群": "趙啟時, 黃百駿"
+    },
+    {
+      "論文名稱": "高效率狀態防火牆規則異常診斷機制",
+      "會議名稱": "NCS2017",
+      "作者群": "趙啟時, 林煥堯"
+    },
+    {
+      "論文名稱": "適用於任意架構的網路電話監控管理平台",
+      "會議名稱": "The 23th Conference on Information Management and Practice (2017IMP)",
+      "作者群": "陳文遠, 趙啟時"
+    },
+    {
+      "論文名稱": "Towards a Usable Visualized Rule Editing Platform for Internet Firewalls",
+      "會議名稱": "TANet2017",
+      "作者群": "趙啟時, 羅仁偉"
+    },
+    {
+      "論文名稱": "Tree-Based Diagnosis Mechanisms for Rule Anomalies among Internet Firewalls",
+      "會議名稱": "The 7th International Conference on Advances in Computing, Electronics and Electrical Technology - CEET 2017",
+      "作者群": "Chi-Shih Chao"
+    },
+    {
+      "論文名稱": "以自適性異常關係樹為基底之防火牆規則異常優化系統 (Best Paper Award)",
+      "會議名稱": "第二十二屆資訊管理暨實務研討會(IMP2016)",
+      "作者群": "趙啟時, 廖家鋐"
+    },
+    {
+      "論文名稱": "A Fixed-Stride Trie-Based Diagnosis System for Rule Anomalies and Behavior Mismatching among Modern Network Firewalls (Best Paper)",
+      "會議名稱": "TANet2015",
+      "作者群": "趙啟時*, 紀彥呈"
+    },
+    {
+      "論文名稱": "An Innovative Diagnosis Mechanism for Rule Anomalies among Firewalls",
+      "會議名稱": "14th IEIE/IEEE International Conference on Electronics, Information, and Communication (ICEIC 2015)",
+      "作者群": "Chi-Shih Chao"
+    },
+    {
+      "論文名稱": "A Novel Multi-link Failure Isolation with Adjustable Fault Diagnostic Capability on All Optical Networks",
+      "會議名稱": "IEEE IS3C2014",
+      "作者群": "Chi-Shih Chao, Szu-Pei Lu"
+    },
+    {
+      "論文名稱": "An Adaptive RAR Tree-Based Diagnosis System for Rule Anomalies and Behavior Mismatching among Firewalls",
+      "會議名稱": "2013 National Computer Symposium (NCS2013)",
+      "作者群": "趙啟時, 邱振添"
+    },
+    {
+      "論文名稱": "以自適性異常關性樹為基底之防火牆規則異常診斷系統",
+      "會議名稱": "TANET2013",
+      "作者群": "趙啟時,邱振添"
+    },
+    {
+      "論文名稱": "A Novel Mulit-Link Failure Diagnosis Algorithm in All Optical Networks with Bi-Directional Topology",
+      "會議名稱": "TANET 2010,Session A2,No.3,Oct.2010",
+      "作者群": "C.S.Chao,M.H.Yu,andR.Y.Pan"
+    },
+    {
+      "論文名稱": "A RAR Tree-Based Diagnosis System for Rule Anomalies among Network Firewalls",
+      "會議名稱": "TANET 2010,Session A2,No.3,Oct.2010",
+      "作者群": "C.S.Chao,M.H.Yu,and R.Y.Pan"
+    },
+    {
+      "論文名稱": "Power Management for VoIP/UDP Traffic over Wireless LAN",
+      "會議名稱": "the 2009 The 5th National Workshop on Internet and Communication Technology",
+      "作者群": "林國貴,許維倫,姚仁豪,趙啟時"
+    },
+    {
+      "論文名稱": "網路攻擊與入侵偵測系統的探討",
+      "會議名稱": "第三屆電資科技應用與發展學術研討會",
+      "作者群": "廖國仁，陳泊堯、趙啟時"
+    },
+    {
+      "論文名稱": "A Novel Fault Diagnosis Approach to Path-Protected WDM Mesh Networks",
+      "會議名稱": "The 11th IEEE/IEICE/KICS Asia-Pacific Network Operations and Management Symposium (APNOMS2008)",
+      "作者群": "趙啟時"
+    },
+    {
+      "論文名稱": "A Visualized Internet Firewall Policy Validation System",
+      "會議名稱": "The 10th IEEE/IEICE Asia-Pacific Network Operations and Management Symposium (APNOMS 2007)",
+      "作者群": "C. S. Chao"
+    },
+    {
+      "論文名稱": "Construct and Analyze SIP-Based VoIP Traversal over NAT Mechanisms",
+      "會議名稱": "TANET 2006",
+      "作者群": "C. S. Chao, S. P. Lu, and B. J. Huang"
+    },
+    {
+      "論文名稱": "An Internet Firewall Policy Verification System",
+      "會議名稱": "2006 IEICE/KNOM Asia-Pacific Network Operations and Management Symposium (APNOMS2006)",
+      "作者群": "C. S. Chao and A. C. Liu"
+    },
+    {
+      "論文名稱": "Use Open Source to Construct the Service Platform of the Wireless Digital Content",
+      "會議名稱": "2006 International Conference of Digital Technology and Innovation Management",
+      "作者群": "C. S. Chao and S. P. Lu"
+    },
+    {
+      "論文名稱": "Management and Construction Issues for Enterprise-Wide IP Telephony",
+      "會議名稱": "the 2005 IEICE/KNOM Asia-Pacific Network Operations and Management Symposium (APNOMS2005)",
+      "作者群": "C. S. Chao and A. C. Liu"
+    },
+    {
+      "論文名稱": "A Tele-Medical Monitoring System for Human Falls",
+      "會議名稱": "2005 Symposium on Digital Life and Internet Technologies",
+      "作者群": "趙啟時, 張文華, 邱創乾"
+    },
+    {
+      "論文名稱": "Statistical Detection for Network Flooding Attacks",
+      "會議名稱": "Proceedings of the 2003 National Computer Symposium",
+      "作者群": "C. S. Chao, Y. S. Chen, and A. C. Liu"
+    },
+    {
+      "論文名稱": "逢甲大學VoIP網路之頻寬規劃與管理",
+      "會議名稱": "TANET 2003",
+      "作者群": "M. H. Liu, C. S. Chao, and A. C. Liu"
+    },
+    {
+      "論文名稱": "網路電話之效能監測與路徑選擇",
+      "會議名稱": "TANET 2003",
+      "作者群": "S. C. Ke, C. S. Chao, and A. C. Liu"
+    },
+    {
+      "論文名稱": "A Distributed Management Framework for VoIP Networks",
+      "會議名稱": "Proceedings of the 2003 IEICE/IEEE Asia-Pacific Network Operations and Management Symposium (APNOMS2003)",
+      "作者群": "C. S. Chao, C. C. Huang, and A. C. Liu"
+    },
+    {
+      "論文名稱": "A Distributed Management Framework for H.323-Based VoIP System",
+      "會議名稱": "Proceedings of the 2003 International Conference on Communications in Computing",
+      "作者群": "C. C. Huang, C. S. Chao, and A. C. Liu"
+    },
+    {
+      "論文名稱": "FCU VoIP Network Management -- A Case Study",
+      "會議名稱": "TANET 2002",
+      "作者群": "S. C. Ke, C. S. Chao, and A. C. Liu"
+    },
+    {
+      "論文名稱": "Network Information on User's Perspectives",
+      "會議名稱": "Proceedings of the International Conference on Parallel and Distributed Processing Techniques and Applications",
+      "作者群": "C. S. Chao, Z. C. Chang, and A. C. Liu"
+    },
+    {
+      "論文名稱": "Network Information on Users' Perspectives",
+      "會議名稱": "Proceedings of the International Conference on Parallel and Distributed Processing Techniques and Ap",
+      "作者群": "C.S. Chao、J.C. Chang、A.C. Liu"
+    },
+    {
+      "論文名稱": "A Time-Aware Fault Diagnosis System in LAN",
+      "會議名稱": "Proceedings of the 2001 IFIP/IEEE International Symposium on Integrated Network Management(IM2001)",
+      "作者群": "C. S. Chao, D. L. Yang and A. C. Liu"
+    },
+    {
+      "論文名稱": "An Autonomous and Automated Network Fault Identification for Distributed Software Systems",
+      "會議名稱": "Proceedings of the 4th World Multiconference on Systemics, Cybernetics and Informatics",
+      "作者群": "C. S. Chao, D. L. Yang and A. C. Liu"
+    },
+    {
+      "論文名稱": "An Automated Fault Diagnosis System Using Hierarchical Reasoning and Alarm Correlation",
+      "會議名稱": "Proceedings of 1999 IEEE Workshop on Internet Applications",
+      "作者群": "C.S. Chao, D.L. Yang, A.C. Liu"
+    }
+  ],
+  "book": [
+    {
+      "專業書籍": "大臺中地區消防資源整併暨未來發展策略",
+      "出版單位": "臺中縣消防局",
+      "作者群": "馬彥斌、李秉乾、楊龍士、雷祖強、趙啟時、紀人豪、鍾侑庭"
+    },
+    {
+      "專業書籍": "Springer Lecture Notes in Computer Science (Vol. 5758)",
+      "出版單位": "Springer",
+      "作者群": "C. S. Hong, T. Tonouchi, Y. Ma,Chi-Shi Chao"
+    },
+    {
+      "專業書籍": "利用SNMP MIB建置WLAN管理系統",
+      "出版單位": "網路通訊雜誌",
+      "作者群": "趙啟時、劉安之"
+    },
+    {
+      "專業書籍": "VoIP管理功課不能少",
+      "出版單位": "網路通訊雜誌",
+      "作者群": "趙啟時、劉安之"
+    }
+  ],
+  "patent": [
+    {
+      "title": "發明",
+      "desc": "即時監測的人身保護裝置及方法"
+    }
+  ],
+  "most": [
+    {
+      "name": "在大規模網路攻擊下具高存活率之防火牆規則平行最佳化系統之研發與實作",
+      "schoolYear": "111"
+    },
+    {
+      "name": "防火牆規則動態管理與配置",
+      "schoolYear": "111"
+    },
+    {
+      "name": "智能探測獲取防火牆策略之研究與實作—以DoF攻擊為例",
+      "schoolYear": "110"
+    },
+    {
+      "name": "適用於新一代IPv6網路環境之向量化防火牆規則異常診斷系統",
+      "schoolYear": "109"
+    },
+    {
+      "name": "高效率多功能互動式防火牆政策除錯暨編輯平台之開發與實作",
+      "schoolYear": "108"
+    },
+    {
+      "name": "單機版防火牆異常診斷系統",
+      "schoolYear": "108"
+    },
+    {
+      "name": "適用於新一代網際網路之反防火牆阻斷攻擊與規則異常優化系統研發",
+      "schoolYear": "106"
+    },
+    {
+      "name": "以固定跨距決定樹為基底之新一代防火牆規則異常與行為分歧診斷系統",
+      "schoolYear": "104"
+    },
+    {
+      "name": "以自適性規則異常關係樹為基底之防火牆規則異常與行為分歧診斷系統",
+      "schoolYear": "103"
+    },
+    {
+      "name": "以規則異常關係樹為基底之防火牆規則異常與行為分歧診斷系統",
+      "schoolYear": "101"
+    },
+    {
+      "name": "在全光網狀網路下之高精確度多鏈結故障診斷機制",
+      "schoolYear": "100"
+    },
+    {
+      "name": "光纖骨幹網路之多點故障診斷暨定位系統",
+      "schoolYear": "98"
+    },
+    {
+      "name": "具路徑保護機制之DWDM網狀骨幹網路故障診斷系統研發",
+      "schoolYear": "97"
+    },
+    {
+      "name": "以呼叫轉接與主動式探測技術為基底之電話網路故障管理系統",
+      "schoolYear": "96"
+    },
+    {
+      "name": "網際網路防火牆政策驗證系統",
+      "schoolYear": "94"
+    }
+  ],
+  "tech": [],
+  "induAca": [
+    "大學校院自行選送人才出國研修-趙啟時 (2006-01 to 2006-07)",
+    "手持式都會區地理資料發佈技術的研究與應用 (2002-02 to 2002-12)"
+  ],
+  "perform": [],
+  "reward": [
+    "112年度國科會補助大專校院研究獎勵 (112, 2023-12) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (111, 2022-11) - 逢甲大學",
+    "Best Paper Award for 4th IEEE Eurasia Conference on IOT, Communication and Engineering 2022 (111, 2022-10) - IEEE",
+    "逢甲大學論文著作獎勵傑出獎 (110, 2021-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (109, 2020-11) - 逢甲大學",
+    "台灣學術網路2020年最佳論文獎 (109, 2020-10) - 台灣網際網路協會/教育部",
+    "逢甲大學論文著作獎勵傑出獎 (107, 2018-11) - 逢甲大學",
+    "106學年度通訊系專題競賽佳作 (106, 2017-12) - 逢甲大學",
+    "106學年度通訊系專題競賽表現優異獎 (106, 2017-12) - 逢甲大學",
+    "106學年度教學傑出獎 (106, 2017-11) - 逢甲大學",
+    "105學年度逢甲大學資電學院專題競賽佳作 (105, 2017-03) - 逢甲大學",
+    "105學年度逢甲大學資電學院專題競賽通訊組第一名 (105, 2017-03) - 逢甲大學",
+    "逢甲大學資訊電機學院畢業專題競賽通訊組佳作 (105, 2017-03) - 逢甲大學",
+    "逢甲大學資訊電機學院畢業專題競賽通訊組第一名 (105, 2017-03) - 逢甲大學",
+    "第廿二屆資訊管理暨實務研討會最佳論文獎 (105, 2016-12) - 中華民國資訊管理協會",
+    "104學年度逢甲大學教學滿意度前10% (105, 2016-11) - 逢甲大學",
+    "104學年度逢甲大學資電學院專題競賽通訊組第三名 (104, 2016-03) - 逢甲大學",
+    "教育部資通訊軟體創新人才PTC線上程式設計競賽績優團隊獎 (104, 2015-11) - 教育部",
+    "PTC線上程式設計競賽績優團隊獎 (104, 2015-11) - 中華民國電腦學會",
+    "台灣學術網路2015年最佳論文獎 (104, 2015-10) - 台灣網際網路協會",
+    "逢甲大學資電學院專題競賽第一名 (103, 2015-04) - 逢甲大學",
+    "逢甲大學資電學院專題競賽第三名 (103, 2015-03) - 逢甲大學資電學院",
+    "論文著作傑出獎 (101, 2012-11) - 逢甲大學",
+    "論文著作優等獎 (101, 2012-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (101, 2012-11) - 逢甲大學",
+    "逢甲大學資電學院專題競賽第三名 (100, 2012-05) - 逢甲大學資電學院",
+    "99學年度優良導師 (99, 2011-08) - 逢甲大學",
+    "99學年度校優良導師 (100, 2011-08) - 逢甲大學",
+    "逢甲大學資電學院專題競賽第一名 (99, 2011-05) - 逢甲大學資電學院",
+    "逢甲大學優良教材獎勵 (99, 2010-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (99, 2010-11) - 逢甲大學",
+    "逢甲大學教學滿意度前10% (99, 2010-11) - 逢甲大學",
+    "逢甲大學研究傑出獎 (99, 2010-11) - 逢甲大學",
+    "逢甲大學論文著作傑出獎 (98, 2009-11) - 逢甲大學",
+    "逢甲大學論文著作優等獎 (98, 2009-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (98, 2009-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (98, 2009-11) - 逢甲大學",
+    "逢甲大學教學滿意度前10% (98, 2009-11) - 逢甲大學",
+    "逢甲大學教學滿意度前10% (98, 2009-11) - 逢甲大",
+    "單項課程教學滿意度全校前10% (97, 2008-12) - 教務處",
+    "97學年度逢甲大學論文著作優等獎 (97, 2008-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (97, 2008-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (97, 2008-11) - 逢甲大學",
+    "第三屆ARM晶片設計大賽決賽入圍 (97, 2008-10) - CIC與ARM晶片股份有限公司(新竹)",
+    "96學年度通訊系專題競賽佳作 (96, 2008-04) - 通訊工程系所",
+    "95學年度院優良導師 (95, 2007-06) - 資訊電機學院",
+    "Who's Who in Asia (95, 2006-08) - 亞洲名人錄",
+    "Who'sWho in Science/Engineerin (95, 2006-08) - 世界科學與工程名人錄",
+    "年度學術研究獎勵研發成果傑出獎 (94, 2005-11) - 逢甲大學",
+    "年度學術研究獎勵研發成果優等獎 (94, 2005-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (94, 2005-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (94, 2005-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (94, 2005-11) - 逢甲大學",
+    "學術研究獎勵研發成果優等獎 (93, 2004-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (93, 2004-11) - 逢甲大學",
+    "92年年度論文佳作獎 (92, 2004-04) - 中華民國電腦學會",
+    "2003年全國計算機會議論文佳作獎 (92, 2003-12) - 教育部暨中華民國電腦學會",
+    "專任教職員學術研究獎勵優等獎 (91, 2002-10) - 逢甲大學",
+    "管理資訊系統類最佳論文獎 (88, 2000-07) - 第四屆國際電腦暨資訊網路會議"
+  ],
+  "speech": [
+    {
+      "演講題目": "How A Computer Nerd Survived from Lecturing English Classes",
+      "邀請單位": "逢甲大學外語中心/EMI Symposium",
+      "演講日期": "2022-05"
+    },
+    {
+      "演講題目": "為自己打開通向世界的道路--MOOCs",
+      "邀請單位": "逢甲大學雲端學院",
+      "演講日期": "2018-12"
+    },
+    {
+      "演講題目": "為自己打開通向世界的道路--MOOCs",
+      "邀請單位": "逢甲大學雲端學院",
+      "演講日期": "2018-06"
+    },
+    {
+      "演講題目": "一個英文笨蛋如何教科技英文?",
+      "邀請單位": "逢甲大學AACSB",
+      "演講日期": "2017-05"
+    },
+    {
+      "演講題目": "一個笨蛋如何教科技英文? (Flip Learning翻轉教學)",
+      "邀請單位": "106年人文創新論壇-創新教學法實務共學",
+      "演講日期": "2017-03"
+    },
+    {
+      "演講題目": "逢甲大學資電學院不分系專題演講:學習大未來",
+      "邀請單位": "資電不分系",
+      "演講日期": "2015-11"
+    },
+    {
+      "演講題目": "逢甲大學通訊系專題演講:學習大未來",
+      "邀請單位": "通訊系",
+      "演講日期": "2015-11"
+    },
+    {
+      "演講題目": "學習大未來",
+      "邀請單位": "國立大甲高工",
+      "演講日期": "2015-10"
+    },
+    {
+      "演講題目": "MOOCs的現況與未來(2)",
+      "邀請單位": "逢甲大學雲端學院",
+      "演講日期": "2015-10"
+    },
+    {
+      "演講題目": "MOOCs的現況與未來(1)",
+      "邀請單位": "逢甲大學雲端學院",
+      "演講日期": "2015-09"
+    },
+    {
+      "演講題目": "MOOCs現況與未來-以逢甲大學為例",
+      "邀請單位": "中山醫大",
+      "演講日期": "2015-04"
+    },
+    {
+      "演講題目": "大學圖書館的省思與契",
+      "邀請單位": "逢甲大學圖書館",
+      "演講日期": "2013-10"
+    },
+    {
+      "演講題目": "Implementing QoS Policies on Networks",
+      "邀請單位": "教育部網路應用服務推動中心",
+      "演講日期": "2005-06"
+    },
+    {
+      "演講題目": "Issues for Policy-Based Network and System Management",
+      "邀請單位": "教育部網路應用服務教學推動中心",
+      "演講日期": "2004-08"
+    },
+    {
+      "演講題目": "VoIP's Today and Future",
+      "邀請單位": "逢甲大學通訊工程系所",
+      "演講日期": "2003-03"
+    },
+    {
+      "演講題目": "Network Management",
+      "邀請單位": "台中健康暨管理學院資管系所",
+      "演講日期": "2001-10"
+    }
+  ],
+  "material": [],
+  "tal": []
+}

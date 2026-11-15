@@ -1,0 +1,799 @@
+{
+  "success": true,
+  "info": {
+    "yms_year": 114.0,
+    "yms_smester": 2.0,
+    "sub_id": "63422",
+    "cls_id": "CS03320",
+    "scr_dup": "001",
+    "sub_id3": "MSE6064",
+    "cls_name": "材料碩二",
+    "cls_ename": "Master's Program, Department of Materials Science and Engineering",
+    "sub_name": "微製造學",
+    "sub_ename": "MICRO FABRICATION",
+    "scr_mso": "選修",
+    "scr_mso_en": "Elective",
+    "scr_credit": 3.0,
+    "scr_periodly": "(二)06-08",
+    "scr_periodly_eng": "(Tue)06-08",
+    "lang_name": "中文                                                      ",
+    "lang_ename": "Chinese",
+    "scr_room": "學409",
+    "scr_room_eng": "XSB409",
+    "scr_teacher": "邱國峰",
+    "scr_teacher_eng": "Kuo-Feng Chiu",
+    "scr_selcode": "2508",
+    "scr_elearning": "全學期",
+    "scr_elearning_en": "Full semester",
+    "scr_hours": "3",
+    "scr_english": "N",
+    "unt_name": null,
+    "unt_ename": null,
+    "link_traminal": null,
+    "link_traminal_en": null,
+    "scr_ldl": "D",
+    "course_mk": "0",
+    "teams_mk": "N",
+    "sub_title": null,
+    "sub_title_en": null,
+    "sub_describe": null,
+    "sub_describe_en": null,
+    "hasDescription": null,
+    "hasInstructor": null,
+    "hasTA": null,
+    "hasTextBooks": null,
+    "hasReadings": null,
+    "hasiSoftwares": null,
+    "hasAssistSoftwares": null,
+    "hasObjective": null,
+    "hasWeeklyScds": null,
+    "hasGradeRules": null,
+    "hasGradeRuleDescribe": null,
+    "hasIntegrity": null,
+    "hasCoursePol": null,
+    "hasCourseRem": null,
+    "hasObjectiveReleation": null,
+    "hasTopicSdgs": null,
+    "hasTopicAiIndicators": null,
+    "hasSubTitleDesc": null
+  },
+  "subTitleDesc": null,
+  "description": {
+    "sub_id3": null,
+    "sub_name": "微製造學",
+    "sub_ename": "MICRO FABRICATION",
+    "describe_ch": "學習現代微電子之重要製程技術，以高等微影及蝕刻技術與材料為內容主軸。內容包括微製造概論、微影技術、10奈米以下的浸潤式微影，極紫外光微影，電漿蝕刻原理與技術、原子層蝕刻、立體型塑技術(LIGA 製程)等。",
+    "describe_eh": "To learn the modern fabrication technologies of micro-electronic devices, focusing on materials and technologies of advanced micro-lithography and etching.   The course content includes overall introduction to micro-fabrication, micro-lithography, sub-10 nm immersion lithography, extreme ultra-violet (EUV) lithography, plasma etching, atomic layer etching, and 3D pattern transfer techniques (LIGA).",
+    "pre_subname": "",
+    "pre_sub_id3": null,
+    "pre_sub_ename": "",
+    "pre_describe": null,
+    "pre_describe_en": null,
+    "scr_credit": 3.0
+  },
+  "targets": [
+    {
+      "seq": 1,
+      "describe_ch": "理解何謂微影技術:包括微影的歷史、原理及高等製程技術的說明\t",
+      "describe_en": "To understand Micro-lithography including the history, principles and advanced processes."
+    },
+    {
+      "seq": 2,
+      "describe_ch": "理解蝕刻原理與技術:包括電漿原理的簡介、高等蝕刻製程及溼式蝕刻及乾式蝕刻的比較",
+      "describe_en": "To understand the principles and techniques of plasma etching, including basic theories, advanced etching processes, and comparisons between dry and wet etching"
+    },
+    {
+      "seq": 3,
+      "describe_ch": "理解何謂立體型塑技術(LIGA製程):包括製程的背景以及LIGA製程的流程步驟說明\t",
+      "describe_en": "To understand the fabrication techniques of 3-D structures by LIGA processes, including background, processes, and fabrication flow"
+    },
+    {
+      "seq": 4,
+      "describe_ch": "理解當代微製造技術之發展，包括應用與整合不同技術，並學習且理解當代次微製造技術的應用及市場的分佈情形\t",
+      "describe_en": "To understand the development of modern micro-fabrication technologies, including the application and integration of varies technologies, and learn an overall view of the current applications and markets"
+    }
+  ],
+  "teachersInfo": [
+    {
+      "cname": "邱國峰",
+      "ename": "Kuo-Feng Chiu",
+      "period": " ",
+      "roletype": 0,
+      "email": "kfchiu@o365.fcu.edu.tw",
+      "ext": "5336"
+    }
+  ],
+  "textBooks": {
+    "yms_year": 114.0,
+    "yms_smester": 2.0,
+    "cls_id": "CS03320",
+    "sub_id": "63422",
+    "scr_dup": "001",
+    "tpb_seq": 1,
+    "tpb_book": "<div>Fundamentals of Microfabrication, CRC Press, latest edition.&nbsp;</div>\n\n<div>Notes from ProMOS education program by Prof. K. F. Chiu.&nbsp;</div>\n",
+    "tpb_book_en": " "
+  },
+  "readings": {
+    "yms_year": 114.0,
+    "yms_smester": 2.0,
+    "cls_id": "CS03320",
+    "sub_id": "63422",
+    "scr_dup": "001",
+    "tpc_seq": 1,
+    "tpc_book": "<div>Class handouts, lecture notes by Prof. K. F. Chiu.&nbsp;</div>\n\n<div>資策會授課資料 by Prof. K. F. Chiu.&nbsp;</div>\n",
+    "tpc_book_en": null
+  },
+  "iSoftwares": [],
+  "assistSoftwares": [],
+  "weeklyScds": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CS03320",
+      "sub_id": "63422",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "1~3",
+      "tpd_reading": "<div>Overall introduction</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": "<div>lecturing</div>\n",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": "homwwork and discussion",
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": 1.0,
+      "tpd_online_face": 9.0,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CS03320",
+      "sub_id": "63422",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "4~5",
+      "tpd_reading": "<div>Micro-lithography</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": "<div>lecturing</div>\n",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": "homwwork and discussion",
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": 6.0,
+      "tpd_online_face": 9.0,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CS03320",
+      "sub_id": "63422",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "6~8",
+      "tpd_reading": "<div>Plasma etching</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": "<div>lecturing</div>\n",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": "homwwork and discussion",
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": 6.0,
+      "tpd_online_face": 9.0,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CS03320",
+      "sub_id": "63422",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "9",
+      "tpd_reading": "<div>Midterm Exam or report</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": "<div>lecturing</div>\n",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": "problem review",
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": 1.0,
+      "tpd_online_face": 3.0,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CS03320",
+      "sub_id": "63422",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "10~11",
+      "tpd_reading": "<div>3D pattern transfer techniques (LIGA)</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": "<div>lecturing</div>\n",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": "homwwork and discussion",
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": 6.0,
+      "tpd_online_face": 9.0,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CS03320",
+      "sub_id": "63422",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "12~14",
+      "tpd_reading": "<div>Micro machining and thin film stress</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": "<div>lecturing</div>\n",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": "homwwork and discussion",
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": 6.0,
+      "tpd_online_face": 9.0,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CS03320",
+      "sub_id": "63422",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "15~17",
+      "tpd_reading": "<div>Nano electromechanical systems (NEMS)</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": "<div>lecturing</div>\n",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": "homwwork and discussion",
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": 3.0,
+      "tpd_online_face": 9.0,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CS03320",
+      "sub_id": "63422",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "18",
+      "tpd_reading": "<div>Final Exam</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": "<div>lecturing</div>\n",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": "problem review",
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": 1.0,
+      "tpd_online_face": 3.0,
+      "tpd_week_en": null,
+      "mode": 0
+    }
+  ],
+  "gradeRules": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CS03320",
+      "sub_id": "63422",
+      "scr_dup": "001",
+      "evalb_id": "D4",
+      "score_rate": 40,
+      "evalb_memo": "mid-term homework",
+      "evalb_memo_en": null,
+      "evalb_name": "作業",
+      "evalb_name_en": "Homework",
+      "seq": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CS03320",
+      "sub_id": "63422",
+      "scr_dup": "001",
+      "evalb_id": "D5",
+      "score_rate": 40,
+      "evalb_memo": "final homework",
+      "evalb_memo_en": null,
+      "evalb_name": "期末專題",
+      "evalb_name_en": "Final presentation",
+      "seq": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CS03320",
+      "sub_id": "63422",
+      "scr_dup": "001",
+      "evalb_id": "L2",
+      "score_rate": 20,
+      "evalb_memo": "in class registration and homework",
+      "evalb_memo_en": null,
+      "evalb_name": "點名",
+      "evalb_name_en": "Roll call",
+      "seq": 0
+    }
+  ],
+  "gradeRuleDescribe": {
+    "yms_year": 114.0,
+    "yms_smester": 2.0,
+    "cls_id": "CS03320",
+    "sub_id": "63422",
+    "scr_dup": "001",
+    "tpa_score_new": "<div>1.學期成績計算項目及權重標準如下： Mid-term Homework: 40%, Final homework: 40% In class registration and Homework assignment: 20%: 期末考配合學校考試時程，內容包括講授內容、習題等。利用小考、作業評量方式，使同學了解學習尚有哪些未通透了解的地方。 指定作業(Homework assignment): 指定作業部分主要來自於教科書的內容及上課中所遇到之問題，亦包含其他相關資料。指定作業的次數為2次，目的在培養學生平時複習的學習習慣。指定作業的時間均已排定在課程進度表中。</div>\n",
+    "tpa_score_new_en": null,
+    "course_pol": "課堂上的行為始終應要及時、要專業、要做好準備、要有禮貌。同學、教師或其他講師間，應保有彼此尊嚴和相互尊重，才能進行有效的學習。",
+    "course_pol_en": null,
+    "course_rem": "希望各位同學能按授課進度完成各項學習任務，有規矩地、主動積極地參與各項學習活動、準時繳交作業，完成各項學習任務，並符合本課程的學 習目標者，以獲得應得的成績。",
+    "course_rem_en": null,
+    "ais_meno": "<div>凡是學生曲解自己的學習任務、或損害學術任務之不端正行為，包括在作業或考試中作弊、剽竊、串改；或將他人完成的作品作為自己的作品；或未經教師批准和同意，提交相同或相似的論文、報告，以滿足多門課程的要求；凡被認定有學術不端行為的學生，其學業成績將扣分，若第二次勸說不聽者，該學期成績以不及格計算，並依本校學生獎懲辦法提報處分。</div>\n",
+    "ais_meno_en": null,
+    "ilearn_mk": "N"
+  },
+  "integrity": {
+    "yms_year": 114.0,
+    "yms_smester": 2.0,
+    "cls_id": "CS03320",
+    "sub_id": "63422",
+    "scr_dup": "001",
+    "tpa_score_new": "<div>1.學期成績計算項目及權重標準如下： Mid-term Homework: 40%, Final homework: 40% In class registration and Homework assignment: 20%: 期末考配合學校考試時程，內容包括講授內容、習題等。利用小考、作業評量方式，使同學了解學習尚有哪些未通透了解的地方。 指定作業(Homework assignment): 指定作業部分主要來自於教科書的內容及上課中所遇到之問題，亦包含其他相關資料。指定作業的次數為2次，目的在培養學生平時複習的學習習慣。指定作業的時間均已排定在課程進度表中。</div>\n",
+    "tpa_score_new_en": null,
+    "course_pol": "課堂上的行為始終應要及時、要專業、要做好準備、要有禮貌。同學、教師或其他講師間，應保有彼此尊嚴和相互尊重，才能進行有效的學習。",
+    "course_pol_en": null,
+    "course_rem": "希望各位同學能按授課進度完成各項學習任務，有規矩地、主動積極地參與各項學習活動、準時繳交作業，完成各項學習任務，並符合本課程的學 習目標者，以獲得應得的成績。",
+    "course_rem_en": null,
+    "ais_meno": "<div>凡是學生曲解自己的學習任務、或損害學術任務之不端正行為，包括在作業或考試中作弊、剽竊、串改；或將他人完成的作品作為自己的作品；或未經教師批准和同意，提交相同或相似的論文、報告，以滿足多門課程的要求；凡被認定有學術不端行為的學生，其學業成績將扣分，若第二次勸說不聽者，該學期成績以不及格計算，並依本校學生獎懲辦法提報處分。</div>\n",
+    "ais_meno_en": null,
+    "ilearn_mk": "N"
+  },
+  "policy": {
+    "yms_year": 114.0,
+    "yms_smester": 2.0,
+    "cls_id": "CS03320",
+    "sub_id": "63422",
+    "scr_dup": "001",
+    "tpa_score_new": "<div>1.學期成績計算項目及權重標準如下： Mid-term Homework: 40%, Final homework: 40% In class registration and Homework assignment: 20%: 期末考配合學校考試時程，內容包括講授內容、習題等。利用小考、作業評量方式，使同學了解學習尚有哪些未通透了解的地方。 指定作業(Homework assignment): 指定作業部分主要來自於教科書的內容及上課中所遇到之問題，亦包含其他相關資料。指定作業的次數為2次，目的在培養學生平時複習的學習習慣。指定作業的時間均已排定在課程進度表中。</div>\n",
+    "tpa_score_new_en": null,
+    "course_pol": "課堂上的行為始終應要及時、要專業、要做好準備、要有禮貌。同學、教師或其他講師間，應保有彼此尊嚴和相互尊重，才能進行有效的學習。",
+    "course_pol_en": null,
+    "course_rem": "希望各位同學能按授課進度完成各項學習任務，有規矩地、主動積極地參與各項學習活動、準時繳交作業，完成各項學習任務，並符合本課程的學 習目標者，以獲得應得的成績。",
+    "course_rem_en": null,
+    "ais_meno": "<div>凡是學生曲解自己的學習任務、或損害學術任務之不端正行為，包括在作業或考試中作弊、剽竊、串改；或將他人完成的作品作為自己的作品；或未經教師批准和同意，提交相同或相似的論文、報告，以滿足多門課程的要求；凡被認定有學術不端行為的學生，其學業成績將扣分，若第二次勸說不聽者，該學期成績以不及格計算，並依本校學生獎懲辦法提報處分。</div>\n",
+    "ais_meno_en": null,
+    "ilearn_mk": "N"
+  },
+  "courseBankC": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CS03320",
+      "sub_id": "63422",
+      "scr_dup": "001",
+      "seq": 1,
+      "describe_ch": "理解何謂微影技術:包括微影的歷史、原理及高等製程技術的說明\t",
+      "describe_en": "To understand Micro-lithography including the history, principles and advanced processes.",
+      "core_id": "D",
+      "core_item": "創新思考及獨立解決材料研發問題的能力並注重環境永續問題。",
+      "core_eng": "Innovative thinking and the ability to independently solve material research and development problems and pay attention to environmental sustainability issues.",
+      "core_level": "2 ",
+      "strgy": [
+        "01"
+      ],
+      "evalb": [
+        "A3",
+        "D4"
+      ],
+      "strgy_name": [
+        "課堂授課"
+      ],
+      "strgy_name_en": [
+        "Classroom instruction"
+      ],
+      "evalb_name": [
+        "課程問卷",
+        "作業"
+      ],
+      "evalb_name_en": [
+        "Curriculum questionnaire",
+        "Homework"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CS03320",
+          "sub_id": "63422",
+          "scr_dup": "001",
+          "seq": 1,
+          "strgy_id": "01",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CS03320",
+          "sub_id": "63422",
+          "scr_dup": "001",
+          "seq": 1,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "A3",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CS03320",
+          "sub_id": "63422",
+          "scr_dup": "001",
+          "seq": 1,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D4",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CS03320",
+      "sub_id": "63422",
+      "scr_dup": "001",
+      "seq": 2,
+      "describe_ch": "理解蝕刻原理與技術:包括電漿原理的簡介、高等蝕刻製程及溼式蝕刻及乾式蝕刻的比較",
+      "describe_en": "To understand the principles and techniques of plasma etching, including basic theories, advanced etching processes, and comparisons between dry and wet etching",
+      "core_id": "D",
+      "core_item": "創新思考及獨立解決材料研發問題的能力並注重環境永續問題。",
+      "core_eng": "Innovative thinking and the ability to independently solve material research and development problems and pay attention to environmental sustainability issues.",
+      "core_level": "2 ",
+      "strgy": [
+        "01"
+      ],
+      "evalb": [
+        "A3",
+        "D4"
+      ],
+      "strgy_name": [
+        "課堂授課"
+      ],
+      "strgy_name_en": [
+        "Classroom instruction"
+      ],
+      "evalb_name": [
+        "課程問卷",
+        "作業"
+      ],
+      "evalb_name_en": [
+        "Curriculum questionnaire",
+        "Homework"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CS03320",
+          "sub_id": "63422",
+          "scr_dup": "001",
+          "seq": 2,
+          "strgy_id": "01",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CS03320",
+          "sub_id": "63422",
+          "scr_dup": "001",
+          "seq": 2,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "A3",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CS03320",
+          "sub_id": "63422",
+          "scr_dup": "001",
+          "seq": 2,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D4",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CS03320",
+      "sub_id": "63422",
+      "scr_dup": "001",
+      "seq": 3,
+      "describe_ch": "理解何謂立體型塑技術(LIGA製程):包括製程的背景以及LIGA製程的流程步驟說明\t",
+      "describe_en": "To understand the fabrication techniques of 3-D structures by LIGA processes, including background, processes, and fabrication flow",
+      "core_id": "A",
+      "core_item": "材料科學與工程的專業領域",
+      "core_eng": "Areas of Specialization in Materials Science and Engineering",
+      "core_level": "2 ",
+      "strgy": [
+        "01"
+      ],
+      "evalb": [
+        "A3",
+        "D4"
+      ],
+      "strgy_name": [
+        "課堂授課"
+      ],
+      "strgy_name_en": [
+        "Classroom instruction"
+      ],
+      "evalb_name": [
+        "課程問卷",
+        "作業"
+      ],
+      "evalb_name_en": [
+        "Curriculum questionnaire",
+        "Homework"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CS03320",
+          "sub_id": "63422",
+          "scr_dup": "001",
+          "seq": 3,
+          "strgy_id": "01",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CS03320",
+          "sub_id": "63422",
+          "scr_dup": "001",
+          "seq": 3,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "A3",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CS03320",
+          "sub_id": "63422",
+          "scr_dup": "001",
+          "seq": 3,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D4",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CS03320",
+      "sub_id": "63422",
+      "scr_dup": "001",
+      "seq": 4,
+      "describe_ch": "理解當代微製造技術之發展，包括應用與整合不同技術，並學習且理解當代次微製造技術的應用及市場的分佈情形\t",
+      "describe_en": "To understand the development of modern micro-fabrication technologies, including the application and integration of varies technologies, and learn an overall view of the current applications and markets",
+      "core_id": "F",
+      "core_item": "良好的國際觀。",
+      "core_eng": "Good international outlook.",
+      "core_level": "1 ",
+      "strgy": [
+        "01"
+      ],
+      "evalb": [
+        "A3",
+        "D4"
+      ],
+      "strgy_name": [
+        "課堂授課"
+      ],
+      "strgy_name_en": [
+        "Classroom instruction"
+      ],
+      "evalb_name": [
+        "課程問卷",
+        "作業"
+      ],
+      "evalb_name_en": [
+        "Curriculum questionnaire",
+        "Homework"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CS03320",
+          "sub_id": "63422",
+          "scr_dup": "001",
+          "seq": 4,
+          "strgy_id": "01",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CS03320",
+          "sub_id": "63422",
+          "scr_dup": "001",
+          "seq": 4,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "A3",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CS03320",
+          "sub_id": "63422",
+          "scr_dup": "001",
+          "seq": 4,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D4",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    }
+  ],
+  "topicSdgs": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CS03320",
+      "sub_id": "63422",
+      "scr_dup": "001",
+      "sdgs_seq": 9,
+      "main_related": "N",
+      "ind_related": "Y",
+      "iss_name": "經濟成長面",
+      "iss_ename": "Economic Growth",
+      "content_name": "健全就業制度與經濟成長",
+      "content_ename": "Decent Work and Economic Growth"
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CS03320",
+      "sub_id": "63422",
+      "scr_dup": "001",
+      "sdgs_seq": 10,
+      "main_related": "Y",
+      "ind_related": "N",
+      "iss_name": "經濟成長面",
+      "iss_ename": "Economic Growth",
+      "content_name": "研發創新和建立工業建設",
+      "content_ename": "Industry, Innovation and Infrastructure"
+    }
+  ],
+  "topicAiIndicators": [],
+  "learnHours": {
+    "total": 90.0,
+    "tpdOnlineAsyTotal": 0.0,
+    "tpdOnlineSynTotal": 30.0,
+    "tpdOnlineFaceTotal": 60.0,
+    "asySynInTotalPercent": 33.33
+  },
+  "crossVerYear": 114
+}

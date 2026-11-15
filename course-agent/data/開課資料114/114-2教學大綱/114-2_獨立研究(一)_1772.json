@@ -1,0 +1,551 @@
+{
+  "success": true,
+  "info": {
+    "yms_year": 114.0,
+    "yms_smester": 2.0,
+    "sub_id": "10050",
+    "cls_id": "CE17410",
+    "scr_dup": "001",
+    "sub_id3": "IMAE7095",
+    "cls_name": "機航博一學位學程",
+    "cls_ename": "Ph.D Program in Mechanical and Aeronautical Engineering",
+    "sub_name": "獨立研究(一)",
+    "sub_ename": "INDEPENDENT STUDY(1)",
+    "scr_mso": "必修",
+    "scr_mso_en": "Required",
+    "scr_credit": 3.0,
+    "scr_periodly": "(一)00     (二)00     (三)00",
+    "scr_periodly_eng": "(Mon)00     (Tue)00     (Wed)00",
+    "lang_name": "中文                                                      ",
+    "lang_ename": "Chinese",
+    "scr_room": "待排",
+    "scr_room_eng": "TBD",
+    "scr_teacher": "黃柏文,陳裕益,洪子倫,謝宗翰,戴國政,方俊,彭信舒,林孟儒,黃錦煌,張淵仁,陳宗正,朱正永",
+    "scr_teacher_eng": "Chen-Yeon Chu,Yuh-Yih Chen,Tzyy-Leng Horng,Tzong-Hann Shieh,Kuo-Cheng Tai,Jiunn Fang,Hsin-Shu Peng,Meng-Ju lin,Jin-Huang Huang,Yuan-Jen Chang,Tzun-Cheng Chen,Chen-Yeon Chu",
+    "scr_selcode": "1772",
+    "scr_elearning": "全學期",
+    "scr_elearning_en": "Full semester",
+    "scr_hours": "3",
+    "scr_english": "N",
+    "unt_name": null,
+    "unt_ename": null,
+    "link_traminal": null,
+    "link_traminal_en": null,
+    "scr_ldl": "D",
+    "course_mk": "N",
+    "teams_mk": "N",
+    "sub_title": null,
+    "sub_title_en": null,
+    "sub_describe": null,
+    "sub_describe_en": null,
+    "hasDescription": null,
+    "hasInstructor": null,
+    "hasTA": null,
+    "hasTextBooks": null,
+    "hasReadings": null,
+    "hasiSoftwares": null,
+    "hasAssistSoftwares": null,
+    "hasObjective": null,
+    "hasWeeklyScds": null,
+    "hasGradeRules": null,
+    "hasGradeRuleDescribe": null,
+    "hasIntegrity": null,
+    "hasCoursePol": null,
+    "hasCourseRem": null,
+    "hasObjectiveReleation": null,
+    "hasTopicSdgs": null,
+    "hasTopicAiIndicators": null,
+    "hasSubTitleDesc": null
+  },
+  "subTitleDesc": null,
+  "description": {
+    "sub_id3": null,
+    "sub_name": "獨立研究(一)",
+    "sub_ename": "INDEPENDENT STUDY(1)",
+    "describe_ch": "獨立研究作為教育的一種形式，涉及直接研究、且是個人在較少或甚至無監督的情形下進行 研究的教育活動。學生和教授共同討論出一個研究主題，並在教師的輔導 (tutorial meetings) 下 進行研究。本學期的主要目標是協助學生面對該解決的問題，並擬定研究方法及策略。",
+    "describe_eh": "Independent study is a form of education. It is referred to as directed study, and is an educational activity undertaken by an individual with little to no supervision. A student and professor agree upon a topic for the student to research with guidance from the tutor for an agreed upon amount of credits.",
+    "pre_subname": "",
+    "pre_sub_id3": null,
+    "pre_sub_ename": "",
+    "pre_describe": null,
+    "pre_describe_en": null,
+    "scr_credit": 3.0
+  },
+  "targets": [
+    {
+      "seq": 1,
+      "describe_ch": "提供學生主動的持續探索其感興趣的主題",
+      "describe_en": "To provide a way for well-motivated\r\nstudents to pursue a topic of interest.\r\n"
+    },
+    {
+      "seq": 2,
+      "describe_ch": "取得獨特的材料之道",
+      "describe_en": "To learn specialized material"
+    },
+    {
+      "seq": 3,
+      "describe_ch": "獲取研究經驗",
+      "describe_en": "To gain research experience"
+    },
+    {
+      "seq": 4,
+      "describe_ch": "提供更深入地去探索自己的興趣的機會，為其未來將如何即在何處引導其才能做出\r\n決定提供機會\r\n",
+      "describe_en": "To provide students opportunities to explore their interests deeper. To make important decisions about how\r\nand where they will direct their talents in\r\nthe future\r\n\r\n"
+    }
+  ],
+  "teachersInfo": [
+    {
+      "cname": "黃柏文",
+      "ename": "Po-Wen Hwang",
+      "period": "(Wed)05  科航420,(Wed)12  科航420,(Thu)12-13 科航420",
+      "roletype": 0,
+      "email": "pwhwang@o365.fcu.edu.tw",
+      "ext": "3980"
+    },
+    {
+      "cname": "陳裕益",
+      "ename": "Yuh-Yih Chen",
+      "period": "(Tue)02  理318A,(Tue)07  理318A,(Wed)07  理318A,(Thu)03  理318A",
+      "roletype": 0,
+      "email": "yychen@o365.fcu.edu.tw",
+      "ext": "5112"
+    },
+    {
+      "cname": "洪子倫",
+      "ename": "Tzyy-Leng Horng",
+      "period": "(Tue)01  理416,(Wed)01  理416,(Thu)05  理416,(Fri)02  理416",
+      "roletype": 0,
+      "email": "tlhorng@o365.fcu.edu.tw",
+      "ext": "5126"
+    },
+    {
+      "cname": "謝宗翰",
+      "ename": "Tzong-Hann Shieh",
+      "period": "(Tue)08-09 科航410,(Wed)08  科航410,(Thu)08  科航410",
+      "roletype": 0,
+      "email": "thshieh@o365.fcu.edu.tw",
+      "ext": "3960"
+    },
+    {
+      "cname": "戴國政",
+      "ename": "Kuo-Cheng Tai",
+      "period": " ",
+      "roletype": 0,
+      "email": "kctai@o365.fcu.edu.tw",
+      "ext": "3521"
+    },
+    {
+      "cname": "方俊",
+      "ename": "Jiunn Fang",
+      "period": "(Tue)06-07 科航409,(Thu)03-04 科航409",
+      "roletype": 0,
+      "email": "jfang@o365.fcu.edu.tw",
+      "ext": "3976"
+    },
+    {
+      "cname": "彭信舒",
+      "ename": "Hsin-Shu Peng",
+      "period": " ",
+      "roletype": 0,
+      "email": "hspeng@o365.fcu.edu.tw",
+      "ext": "3530"
+    },
+    {
+      "cname": "林孟儒",
+      "ename": "Meng-Ju lin",
+      "period": "(Mon)09  工306-2,(Tue)09  工306-2,(Wed)08-09 工306-2",
+      "roletype": 0,
+      "email": "mengjlin@o365.fcu.edu.tw",
+      "ext": "3554"
+    },
+    {
+      "cname": "黃錦煌",
+      "ename": "Jin-Huang Huang",
+      "period": " ",
+      "roletype": 0,
+      "email": "jhhuang@o365.fcu.edu.tw",
+      "ext": "3526"
+    },
+    {
+      "cname": "張淵仁",
+      "ename": "Yuan-Jen Chang",
+      "period": "(Mon)06-07 科航414,(Wed)06-07 科航414",
+      "roletype": 0,
+      "email": "yjenchang@o365.fcu.edu.tw",
+      "ext": "3959"
+    },
+    {
+      "cname": "陳宗正",
+      "ename": "Tzun-Cheng Chen",
+      "period": "(Mon)06-07 科航418,(Tue)08  科航418,(Wed)08  科航418",
+      "roletype": 0,
+      "email": "tzuncchen@o365.fcu.edu.tw",
+      "ext": "3956"
+    },
+    {
+      "cname": "朱正永",
+      "ename": "Chen-Yeon Chu",
+      "period": "(Wed)06-07 學814,(Thu)06-07 學814",
+      "roletype": 0,
+      "email": "cychu@o365.fcu.edu.tw",
+      "ext": "6211"
+    }
+  ],
+  "textBooks": {
+    "yms_year": 114.0,
+    "yms_smester": 2.0,
+    "cls_id": "CE17410",
+    "sub_id": "10050",
+    "scr_dup": "001",
+    "tpb_seq": 1,
+    "tpb_book": "<div>自編講義&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</div>\n",
+    "tpb_book_en": " "
+  },
+  "readings": {
+    "yms_year": 114.0,
+    "yms_smester": 2.0,
+    "cls_id": "CE17410",
+    "sub_id": "10050",
+    "scr_dup": "001",
+    "tpc_seq": 1,
+    "tpc_book": "<div>無&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</div>\n",
+    "tpc_book_en": " "
+  },
+  "iSoftwares": [],
+  "assistSoftwares": [],
+  "weeklyScds": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CE17410",
+      "sub_id": "10050",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "1-18",
+      "tpd_reading": "<div>\n<div>\n<div>\n<div>\n<div>本課程為博士班「獨立研究(二)」，旨在接續前期研究基礎，引導學生進行更深入且具原創性的學術探討。本課程無固定之教科書或閱讀教材，進度規劃將完全圍繞學生的個人研究計畫展開。 「閱讀教材」將由學生依據其研究主題（例如：無人機空氣動力學、稀薄氣體動力學、導彈控制等），在指導教授的協助下，自行搜集與精讀相關領域之頂尖期刊論文（如 AIAA Journal, Journal of Fluid Mechanics, Acta Astronautica 等）、學術專書及關鍵技術報告。 學期進度將依循以下研究里程碑動態調整： * **第 1-4 週：研究計畫深化與文獻精析** 確立本學期具體研究目標與欲解決之核心問題。進行批判性文獻回顧（Critical Literature Review），精確定位研究缺口（Research Gap）。提交一份詳細的研究計畫書（Research Proposal），包含嚴謹的研究方法、時程規劃",
+      "tpd_reading_en": null,
+      "tpd_learn": null,
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": "研究計畫書 (Research Proposal)\n\n每週 (或隔週) 進度報告 (Weekly / Bi-weekly Progress Report)",
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": 54.0,
+      "tpd_week_en": null,
+      "mode": 0
+    }
+  ],
+  "gradeRules": [],
+  "gradeRuleDescribe": {
+    "yms_year": 114.0,
+    "yms_smester": 2.0,
+    "cls_id": "CE17410",
+    "sub_id": "10050",
+    "scr_dup": "001",
+    "tpa_score_new": "專題報告",
+    "tpa_score_new_en": null,
+    "course_pol": "本課程高度重視學術研究倫理。所有繳交之報告、數據與論文，均應嚴格遵守學術誠信規範。\n\n禁止抄襲 (Plagiarism): 任何引用他人之論述、數據或圖表，皆須依循標準學術格式（如 APA, IEEE, MLA 等）明確註明出處。\n\n禁止造假 (Fabrication) / 變造 (Falsification): 嚴禁偽造或竄改研究過程中的數據及結果。\n\n原創性 (Originality): 所有繳交之作業與報告應為學生本人之原創成果。\n\n不當引用: 應避免過度引用或不當之自我引用。\n\n凡經查證有違反學術誠信之情事，本課程成績將以零分計算，並依校規提報學術倫理委員會處置。",
+    "course_pol_en": null,
+    "course_rem": "為確保獨立研究順利進行，學生應遵守以下規則：\n\n主動積極: 學生應展現高度的自主學習、時間管理與問題解決能力。\n\n定期會報 (Meeting): 學生必須依照與指導教授約定之時間（例如：每週固定時段），主動安排會面並「N天前」提交進度報告（書面或口頭），以便進行有效討論。\n\n確實溝通: 研究過程中若遭遇任何困難、瓶頸或進度延遲，應立即主動與指導教授商討，尋求解決方案。\n\n尊重智財權: 研究過程與產出之成果（如數據、程式碼、論文發表）之智慧財產權歸屬，應與指導教授充分討論並遵循校方相關規定。\n\n遵守時限: 所有進度里程碑與期末報告，均須按時完成並繳交。",
+    "course_rem_en": null,
+    "ais_meno": "<table>\n\t<tbody>\n\t\t<tr>\n\t\t\t<th>課堂規則</th>\n\t\t</tr>\n\t</tbody>\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<div>\n\t\t\t<div>\n\t\t\t<div>\n\t\t\t<div>本課程高度重視學術研究倫理。所有繳交之報告、數據與論文，均應嚴格遵守學術誠信規範。 禁止抄襲 (Plagiarism): 任何引用他人之論述、數據或圖表，皆須依循標準學術格式（如 APA, IEEE, MLA 等）明確註明出處。 禁止造假 (Fabrication) / 變造 (Falsification): 嚴禁偽造或竄改研究過程中的數據及結果。 原創性 (Originality): 所有繳交之作業與報告應為學生本人之原創成果。 不當引用: 應避免過度引用或不當之自我引用。 凡經查證有違反學術誠信之情事，本課程成績將以零分計算，並依校規提報學術倫理委員會處置。</div>\n\t\t\t</div>\n\t\t\t</div>\n\t\t\t</div>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>\n",
+    "ais_meno_en": null,
+    "ilearn_mk": null
+  },
+  "integrity": {
+    "yms_year": 114.0,
+    "yms_smester": 2.0,
+    "cls_id": "CE17410",
+    "sub_id": "10050",
+    "scr_dup": "001",
+    "tpa_score_new": "專題報告",
+    "tpa_score_new_en": null,
+    "course_pol": "本課程高度重視學術研究倫理。所有繳交之報告、數據與論文，均應嚴格遵守學術誠信規範。\n\n禁止抄襲 (Plagiarism): 任何引用他人之論述、數據或圖表，皆須依循標準學術格式（如 APA, IEEE, MLA 等）明確註明出處。\n\n禁止造假 (Fabrication) / 變造 (Falsification): 嚴禁偽造或竄改研究過程中的數據及結果。\n\n原創性 (Originality): 所有繳交之作業與報告應為學生本人之原創成果。\n\n不當引用: 應避免過度引用或不當之自我引用。\n\n凡經查證有違反學術誠信之情事，本課程成績將以零分計算，並依校規提報學術倫理委員會處置。",
+    "course_pol_en": null,
+    "course_rem": "為確保獨立研究順利進行，學生應遵守以下規則：\n\n主動積極: 學生應展現高度的自主學習、時間管理與問題解決能力。\n\n定期會報 (Meeting): 學生必須依照與指導教授約定之時間（例如：每週固定時段），主動安排會面並「N天前」提交進度報告（書面或口頭），以便進行有效討論。\n\n確實溝通: 研究過程中若遭遇任何困難、瓶頸或進度延遲，應立即主動與指導教授商討，尋求解決方案。\n\n尊重智財權: 研究過程與產出之成果（如數據、程式碼、論文發表）之智慧財產權歸屬，應與指導教授充分討論並遵循校方相關規定。\n\n遵守時限: 所有進度里程碑與期末報告，均須按時完成並繳交。",
+    "course_rem_en": null,
+    "ais_meno": "<table>\n\t<tbody>\n\t\t<tr>\n\t\t\t<th>課堂規則</th>\n\t\t</tr>\n\t</tbody>\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<div>\n\t\t\t<div>\n\t\t\t<div>\n\t\t\t<div>本課程高度重視學術研究倫理。所有繳交之報告、數據與論文，均應嚴格遵守學術誠信規範。 禁止抄襲 (Plagiarism): 任何引用他人之論述、數據或圖表，皆須依循標準學術格式（如 APA, IEEE, MLA 等）明確註明出處。 禁止造假 (Fabrication) / 變造 (Falsification): 嚴禁偽造或竄改研究過程中的數據及結果。 原創性 (Originality): 所有繳交之作業與報告應為學生本人之原創成果。 不當引用: 應避免過度引用或不當之自我引用。 凡經查證有違反學術誠信之情事，本課程成績將以零分計算，並依校規提報學術倫理委員會處置。</div>\n\t\t\t</div>\n\t\t\t</div>\n\t\t\t</div>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>\n",
+    "ais_meno_en": null,
+    "ilearn_mk": null
+  },
+  "policy": {
+    "yms_year": 114.0,
+    "yms_smester": 2.0,
+    "cls_id": "CE17410",
+    "sub_id": "10050",
+    "scr_dup": "001",
+    "tpa_score_new": "專題報告",
+    "tpa_score_new_en": null,
+    "course_pol": "本課程高度重視學術研究倫理。所有繳交之報告、數據與論文，均應嚴格遵守學術誠信規範。\n\n禁止抄襲 (Plagiarism): 任何引用他人之論述、數據或圖表，皆須依循標準學術格式（如 APA, IEEE, MLA 等）明確註明出處。\n\n禁止造假 (Fabrication) / 變造 (Falsification): 嚴禁偽造或竄改研究過程中的數據及結果。\n\n原創性 (Originality): 所有繳交之作業與報告應為學生本人之原創成果。\n\n不當引用: 應避免過度引用或不當之自我引用。\n\n凡經查證有違反學術誠信之情事，本課程成績將以零分計算，並依校規提報學術倫理委員會處置。",
+    "course_pol_en": null,
+    "course_rem": "為確保獨立研究順利進行，學生應遵守以下規則：\n\n主動積極: 學生應展現高度的自主學習、時間管理與問題解決能力。\n\n定期會報 (Meeting): 學生必須依照與指導教授約定之時間（例如：每週固定時段），主動安排會面並「N天前」提交進度報告（書面或口頭），以便進行有效討論。\n\n確實溝通: 研究過程中若遭遇任何困難、瓶頸或進度延遲，應立即主動與指導教授商討，尋求解決方案。\n\n尊重智財權: 研究過程與產出之成果（如數據、程式碼、論文發表）之智慧財產權歸屬，應與指導教授充分討論並遵循校方相關規定。\n\n遵守時限: 所有進度里程碑與期末報告，均須按時完成並繳交。",
+    "course_rem_en": null,
+    "ais_meno": "<table>\n\t<tbody>\n\t\t<tr>\n\t\t\t<th>課堂規則</th>\n\t\t</tr>\n\t</tbody>\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<div>\n\t\t\t<div>\n\t\t\t<div>\n\t\t\t<div>本課程高度重視學術研究倫理。所有繳交之報告、數據與論文，均應嚴格遵守學術誠信規範。 禁止抄襲 (Plagiarism): 任何引用他人之論述、數據或圖表，皆須依循標準學術格式（如 APA, IEEE, MLA 等）明確註明出處。 禁止造假 (Fabrication) / 變造 (Falsification): 嚴禁偽造或竄改研究過程中的數據及結果。 原創性 (Originality): 所有繳交之作業與報告應為學生本人之原創成果。 不當引用: 應避免過度引用或不當之自我引用。 凡經查證有違反學術誠信之情事，本課程成績將以零分計算，並依校規提報學術倫理委員會處置。</div>\n\t\t\t</div>\n\t\t\t</div>\n\t\t\t</div>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>\n",
+    "ais_meno_en": null,
+    "ilearn_mk": null
+  },
+  "courseBankC": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CE17410",
+      "sub_id": "10050",
+      "scr_dup": "001",
+      "seq": 1,
+      "describe_ch": "提供學生主動的持續探索其感興趣的主題",
+      "describe_en": "To provide a way for well-motivated\r\nstudents to pursue a topic of interest.\r\n",
+      "core_id": "A",
+      "core_item": "應用基礎科學以系統化思維發掘、研判、診斷工程問題，並具策劃及執行 專題研究與解決方案之能力。",
+      "core_eng": "Application basic science systematization thought excavation, the evaluation, the diagnosis project question, and plans and carries out ability of the special study and the solution.",
+      "core_level": "1 ",
+      "strgy": [
+        "07"
+      ],
+      "evalb": [
+        "D5"
+      ],
+      "strgy_name": [
+        "指定閱讀"
+      ],
+      "strgy_name_en": [
+        "Extensive reading"
+      ],
+      "evalb_name": [
+        "期末專題"
+      ],
+      "evalb_name_en": [
+        "Final presentation"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE17410",
+          "sub_id": "10050",
+          "scr_dup": "001",
+          "seq": 1,
+          "strgy_id": "07",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE17410",
+          "sub_id": "10050",
+          "scr_dup": "001",
+          "seq": 1,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D5",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CE17410",
+      "sub_id": "10050",
+      "scr_dup": "001",
+      "seq": 2,
+      "describe_ch": "取得獨特的材料之道",
+      "describe_en": "To learn specialized material",
+      "core_id": "B",
+      "core_item": "具有獨立研究、蒐集資料、規範問題加以分析驗證獲得結論，並有研發創新與撰寫專業論文之能力。",
+      "core_eng": "Have independent research, collection the data, standard problem take into analytical the identification acquire conclusion, and have development innovation and compose the ability",
+      "core_level": "2 ",
+      "strgy": [
+        "07"
+      ],
+      "evalb": [
+        "D5"
+      ],
+      "strgy_name": [
+        "指定閱讀"
+      ],
+      "strgy_name_en": [
+        "Extensive reading"
+      ],
+      "evalb_name": [
+        "期末專題"
+      ],
+      "evalb_name_en": [
+        "Final presentation"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE17410",
+          "sub_id": "10050",
+          "scr_dup": "001",
+          "seq": 2,
+          "strgy_id": "07",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE17410",
+          "sub_id": "10050",
+          "scr_dup": "001",
+          "seq": 2,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D5",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CE17410",
+      "sub_id": "10050",
+      "scr_dup": "001",
+      "seq": 3,
+      "describe_ch": "獲取研究經驗",
+      "describe_en": "To gain research experience",
+      "core_id": "B",
+      "core_item": "具有獨立研究、蒐集資料、規範問題加以分析驗證獲得結論，並有研發創新與撰寫專業論文之能力。",
+      "core_eng": "Have independent research, collection the data, standard problem take into analytical the identification acquire conclusion, and have development innovation and compose the ability",
+      "core_level": "4 ",
+      "strgy": [
+        "07"
+      ],
+      "evalb": [
+        "D5"
+      ],
+      "strgy_name": [
+        "指定閱讀"
+      ],
+      "strgy_name_en": [
+        "Extensive reading"
+      ],
+      "evalb_name": [
+        "期末專題"
+      ],
+      "evalb_name_en": [
+        "Final presentation"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE17410",
+          "sub_id": "10050",
+          "scr_dup": "001",
+          "seq": 3,
+          "strgy_id": "07",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE17410",
+          "sub_id": "10050",
+          "scr_dup": "001",
+          "seq": 3,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D5",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CE17410",
+      "sub_id": "10050",
+      "scr_dup": "001",
+      "seq": 4,
+      "describe_ch": "提供更深入地去探索自己的興趣的機會，為其未來將如何即在何處引導其才能做出\r\n決定提供機會\r\n",
+      "describe_en": "To provide students opportunities to explore their interests deeper. To make important decisions about how\r\nand where they will direct their talents in\r\nthe future\r\n\r\n",
+      "core_id": "E",
+      "core_item": "具備數理與工程專業領域自我學習、創新思考及持續發展之能力。",
+      "core_eng": "Has mathematical and the project professional field self-study, the innovation ponder and ability of the sustained development.",
+      "core_level": "3 ",
+      "strgy": [
+        "09"
+      ],
+      "evalb": [
+        "K2"
+      ],
+      "strgy_name": [
+        "口頭報告"
+      ],
+      "strgy_name_en": [
+        "Oral report"
+      ],
+      "evalb_name": [
+        "口頭報告"
+      ],
+      "evalb_name_en": [
+        "Oral presentation"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE17410",
+          "sub_id": "10050",
+          "scr_dup": "001",
+          "seq": 4,
+          "strgy_id": "09",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE17410",
+          "sub_id": "10050",
+          "scr_dup": "001",
+          "seq": 4,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "K2",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    }
+  ],
+  "topicSdgs": [],
+  "topicAiIndicators": [],
+  "learnHours": {
+    "total": 54.0,
+    "tpdOnlineAsyTotal": 0.0,
+    "tpdOnlineSynTotal": 0.0,
+    "tpdOnlineFaceTotal": 54.0,
+    "asySynInTotalPercent": 0.0
+  },
+  "crossVerYear": 114
+}

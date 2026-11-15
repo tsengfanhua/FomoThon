@@ -1,0 +1,514 @@
+{
+  "success": true,
+  "info": {
+    "yms_year": 114.0,
+    "yms_smester": 2.0,
+    "sub_id": "43080",
+    "cls_id": "CE08139",
+    "scr_dup": "001",
+    "sub_id3": "CHE4990",
+    "cls_name": "化工三合",
+    "cls_ename": "Department of Chemical Engineering",
+    "sub_name": "專題研究(一)",
+    "sub_ename": "SPECIAL TOPICS STUDY (1)",
+    "scr_mso": "選修",
+    "scr_mso_en": "Elective",
+    "scr_credit": 1.0,
+    "scr_periodly": "(一)00     (二)00     (三)00     (四)00     (五)00",
+    "scr_periodly_eng": "(Mon)00     (Tue)00     (Wed)00     (Thu)00     (Fri)00",
+    "lang_name": "中文                                                      ",
+    "lang_ename": "Chinese",
+    "scr_room": "待排",
+    "scr_room_eng": "TBD",
+    "scr_teacher": "李亦宸,陳志賢,曾怡享,曾琮瑋,張棋榕,袁維勵,翁于晴,陳奎佑",
+    "scr_teacher_eng": "Kew-Yu Chen,Chih-Hsien Chen,I-Hsiang Tseng,Tsung-Wei Zeng,Chi-Jung Chang,Wei-Li Yuan,Yu-Ching Weng,Kew-Yu Chen",
+    "scr_selcode": "1399",
+    "scr_elearning": "全學期",
+    "scr_elearning_en": "Full semester",
+    "scr_hours": "5",
+    "scr_english": "N",
+    "unt_name": null,
+    "unt_ename": null,
+    "link_traminal": null,
+    "link_traminal_en": null,
+    "scr_ldl": "D",
+    "course_mk": "N",
+    "teams_mk": "N",
+    "sub_title": null,
+    "sub_title_en": null,
+    "sub_describe": null,
+    "sub_describe_en": null,
+    "hasDescription": null,
+    "hasInstructor": null,
+    "hasTA": null,
+    "hasTextBooks": null,
+    "hasReadings": null,
+    "hasiSoftwares": null,
+    "hasAssistSoftwares": null,
+    "hasObjective": null,
+    "hasWeeklyScds": null,
+    "hasGradeRules": null,
+    "hasGradeRuleDescribe": null,
+    "hasIntegrity": null,
+    "hasCoursePol": null,
+    "hasCourseRem": null,
+    "hasObjectiveReleation": null,
+    "hasTopicSdgs": null,
+    "hasTopicAiIndicators": null,
+    "hasSubTitleDesc": null
+  },
+  "subTitleDesc": null,
+  "description": {
+    "sub_id3": null,
+    "sub_name": "專題研究(一)",
+    "sub_ename": "SPECIAL TOPICS STUDY (1)",
+    "describe_ch": "給大學部學生有上台報告的機會，並讓其它同學了解不同領域的科技與新知",
+    "describe_eh": "There will be an excellent opportunity for the students to demonstrate their oral abilities and they will have a chance to contact different science and technology from these seminars",
+    "pre_subname": "CHE3015微製造與微流體技術",
+    "pre_sub_id3": "CHE3015",
+    "pre_sub_ename": "CHE3015 MICROFABRICATION AND MICROFLUIDICS",
+    "pre_describe": null,
+    "pre_describe_en": null,
+    "scr_credit": 1.0
+  },
+  "targets": [
+    {
+      "seq": 1,
+      "describe_ch": "問題解決能力",
+      "describe_en": "Problem solving skills"
+    },
+    {
+      "seq": 2,
+      "describe_ch": "實驗技巧",
+      "describe_en": "Experimental techniques"
+    }
+  ],
+  "teachersInfo": [
+    {
+      "cname": "李亦宸",
+      "ename": "Yi-Chen Li",
+      "period": " ",
+      "roletype": 0,
+      "email": "yicli@o365.fcu.edu.tw",
+      "ext": "3688"
+    },
+    {
+      "cname": "袁維勵",
+      "ename": "Wei-Li Yuan",
+      "period": "(Mon)07-08 學604,(Mon)09-10 學604",
+      "roletype": 0,
+      "email": "wyuan@o365.fcu.edu.tw",
+      "ext": "3658"
+    },
+    {
+      "cname": "陳志賢",
+      "ename": "Chih-Hsien Chen",
+      "period": "(Mon)06-07 學510,(Thu)03-04 學510",
+      "roletype": 0,
+      "email": "chschen@o365.fcu.edu.tw",
+      "ext": "3687"
+    },
+    {
+      "cname": "翁于晴",
+      "ename": "Yu-Ching Weng",
+      "period": "(Mon)06-07 學706,(Wed)06-07 學706",
+      "roletype": 0,
+      "email": "ycweng@o365.fcu.edu.tw",
+      "ext": "3689"
+    },
+    {
+      "cname": "陳奎佑",
+      "ename": "Kew-Yu Chen",
+      "period": "(Wed)01-02 學508,(Thu)01-02 學508",
+      "roletype": 0,
+      "email": "kyuchen@o365.fcu.edu.tw",
+      "ext": "3683"
+    },
+    {
+      "cname": "張棋榕",
+      "ename": "Chi-Jung Chang",
+      "period": "(Mon)09  學602,(Wed)07-08 學602,(Thu)07-08 學602",
+      "roletype": 0,
+      "email": "changcj@o365.fcu.edu.tw",
+      "ext": "3678"
+    },
+    {
+      "cname": "曾怡享",
+      "ename": "I-Hsiang Tseng",
+      "period": "(Mon)04  學512,(Mon)07  學512,(Tue)04  學512,(Tue)07  學512,(Wed)07  學512,(Thu)07  學512,(Fri)07  學512",
+      "roletype": 0,
+      "email": "ihtseng@o365.fcu.edu.tw",
+      "ext": "3666"
+    },
+    {
+      "cname": "曾琮瑋",
+      "ename": "Tsung-Wei Zeng",
+      "period": "(Mon)07-08 學610,(Mon)09  學610,(Thu)03  學610",
+      "roletype": 0,
+      "email": "twzeng@o365.fcu.edu.tw",
+      "ext": "3682"
+    }
+  ],
+  "textBooks": {
+    "yms_year": 114.0,
+    "yms_smester": 2.0,
+    "cls_id": "CE08139",
+    "sub_id": "43080",
+    "scr_dup": "001",
+    "tpb_seq": 1,
+    "tpb_book": "Microsystem engineering of Lab-on-a-chip Devices",
+    "tpb_book_en": " "
+  },
+  "readings": null,
+  "iSoftwares": [],
+  "assistSoftwares": [],
+  "weeklyScds": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CE08139",
+      "sub_id": "43080",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": " ",
+      "tpd_reading": "微流道設計與分析",
+      "tpd_reading_en": " ",
+      "tpd_learn": null,
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    }
+  ],
+  "gradeRules": [],
+  "gradeRuleDescribe": {
+    "yms_year": 114.0,
+    "yms_smester": 2.0,
+    "cls_id": "CE08139",
+    "sub_id": "43080",
+    "scr_dup": "001",
+    "tpa_score_new": "實驗操作與討論",
+    "tpa_score_new_en": " ",
+    "course_pol": null,
+    "course_pol_en": null,
+    "course_rem": null,
+    "course_rem_en": null,
+    "ais_meno": null,
+    "ais_meno_en": null,
+    "ilearn_mk": null
+  },
+  "integrity": {
+    "yms_year": 114.0,
+    "yms_smester": 2.0,
+    "cls_id": "CE08139",
+    "sub_id": "43080",
+    "scr_dup": "001",
+    "tpa_score_new": "實驗操作與討論",
+    "tpa_score_new_en": " ",
+    "course_pol": null,
+    "course_pol_en": null,
+    "course_rem": null,
+    "course_rem_en": null,
+    "ais_meno": null,
+    "ais_meno_en": null,
+    "ilearn_mk": null
+  },
+  "policy": {
+    "yms_year": 114.0,
+    "yms_smester": 2.0,
+    "cls_id": "CE08139",
+    "sub_id": "43080",
+    "scr_dup": "001",
+    "tpa_score_new": "實驗操作與討論",
+    "tpa_score_new_en": " ",
+    "course_pol": null,
+    "course_pol_en": null,
+    "course_rem": null,
+    "course_rem_en": null,
+    "ais_meno": null,
+    "ais_meno_en": null,
+    "ilearn_mk": null
+  },
+  "courseBankC": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CE08139",
+      "sub_id": "43080",
+      "scr_dup": "001",
+      "seq": 1,
+      "describe_ch": "問題解決能力",
+      "describe_en": "Problem solving skills",
+      "core_id": "F",
+      "core_item": "具備發掘、分析、應用研究成果及兼顧永續發展，以解決複雜且整合性工程問題之能力",
+      "core_eng": "具備發掘、分析、應用研究成果及兼顧永續發展，以解決複雜且整合性工程問題之能力",
+      "core_level": "3 ",
+      "strgy": [
+        "03"
+      ],
+      "evalb": [
+        "B3",
+        "D5",
+        "F3",
+        "G3",
+        "I2",
+        "K2"
+      ],
+      "strgy_name": [
+        "個案討論"
+      ],
+      "strgy_name_en": [
+        "Case study"
+      ],
+      "evalb_name": [
+        "學生個別請益",
+        "期末專題",
+        "小組討論",
+        "心得報告",
+        "實驗操作",
+        "口頭報告"
+      ],
+      "evalb_name_en": [
+        "Individual tutoring",
+        "Final presentation",
+        "Group discussion",
+        "Report on gained knowledge",
+        "Experiment operation",
+        "Oral presentation"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE08139",
+          "sub_id": "43080",
+          "scr_dup": "001",
+          "seq": 1,
+          "strgy_id": "03",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE08139",
+          "sub_id": "43080",
+          "scr_dup": "001",
+          "seq": 1,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "B3",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE08139",
+          "sub_id": "43080",
+          "scr_dup": "001",
+          "seq": 1,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D5",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE08139",
+          "sub_id": "43080",
+          "scr_dup": "001",
+          "seq": 1,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "F3",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE08139",
+          "sub_id": "43080",
+          "scr_dup": "001",
+          "seq": 1,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "G3",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE08139",
+          "sub_id": "43080",
+          "scr_dup": "001",
+          "seq": 1,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "I2",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE08139",
+          "sub_id": "43080",
+          "scr_dup": "001",
+          "seq": 1,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "K2",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CE08139",
+      "sub_id": "43080",
+      "scr_dup": "001",
+      "seq": 2,
+      "describe_ch": "實驗技巧",
+      "describe_en": "Experimental techniques",
+      "core_id": "C",
+      "core_item": "具備應用現代工具、技術、技巧從事工程實務的能力。",
+      "core_eng": " Possess the ability to apply modern tools, techniques, and skills in engineering practices.",
+      "core_level": "3 ",
+      "strgy": [
+        "05"
+      ],
+      "evalb": [
+        "B3",
+        "D5",
+        "F3",
+        "K2"
+      ],
+      "strgy_name": [
+        "實驗實習"
+      ],
+      "strgy_name_en": [
+        "Experimental practice"
+      ],
+      "evalb_name": [
+        "學生個別請益",
+        "期末專題",
+        "小組討論",
+        "口頭報告"
+      ],
+      "evalb_name_en": [
+        "Individual tutoring",
+        "Final presentation",
+        "Group discussion",
+        "Oral presentation"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE08139",
+          "sub_id": "43080",
+          "scr_dup": "001",
+          "seq": 2,
+          "strgy_id": "05",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE08139",
+          "sub_id": "43080",
+          "scr_dup": "001",
+          "seq": 2,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "B3",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE08139",
+          "sub_id": "43080",
+          "scr_dup": "001",
+          "seq": 2,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D5",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE08139",
+          "sub_id": "43080",
+          "scr_dup": "001",
+          "seq": 2,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "F3",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CE08139",
+          "sub_id": "43080",
+          "scr_dup": "001",
+          "seq": 2,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "K2",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    }
+  ],
+  "topicSdgs": [],
+  "topicAiIndicators": [],
+  "learnHours": {
+    "total": 0.0,
+    "tpdOnlineAsyTotal": 0.0,
+    "tpdOnlineSynTotal": 0.0,
+    "tpdOnlineFaceTotal": 0.0,
+    "asySynInTotalPercent": 0.0
+  },
+  "crossVerYear": 114
+}

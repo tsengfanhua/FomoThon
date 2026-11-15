@@ -1,0 +1,882 @@
+{
+  "success": true,
+  "info": {
+    "yms_year": 114.0,
+    "yms_smester": 1.0,
+    "sub_id": "00001",
+    "cls_id": "CB35511",
+    "scr_dup": "001",
+    "sub_id3": "GEID0010",
+    "cls_name": "商學進修一學位學程甲班",
+    "cls_ename": "Continuing Education Bachelor's Program of Business",
+    "sub_name": "班級活動",
+    "sub_ename": "CLASS ACTIVITY",
+    "scr_mso": "必修",
+    "scr_mso_en": "Required",
+    "scr_credit": 0.0,
+    "scr_periodly": "(三)14",
+    "scr_periodly_eng": "(Wed)14",
+    "lang_name": "中文                                                      ",
+    "lang_ename": "Chinese",
+    "scr_room": "商202",
+    "scr_room_eng": "BB202",
+    "scr_teacher": "黃鈺婷",
+    "scr_teacher_eng": "Yu-Ting Huang",
+    "scr_selcode": "0806",
+    "scr_elearning": "全學期",
+    "scr_elearning_en": "Full semester",
+    "scr_hours": "1",
+    "scr_english": "N",
+    "unt_name": null,
+    "unt_ename": null,
+    "link_traminal": null,
+    "link_traminal_en": null,
+    "scr_ldl": "D",
+    "course_mk": "N",
+    "teams_mk": "N",
+    "sub_title": null,
+    "sub_title_en": null,
+    "sub_describe": null,
+    "sub_describe_en": null,
+    "hasDescription": null,
+    "hasInstructor": null,
+    "hasTA": null,
+    "hasTextBooks": null,
+    "hasReadings": null,
+    "hasiSoftwares": null,
+    "hasAssistSoftwares": null,
+    "hasObjective": null,
+    "hasWeeklyScds": null,
+    "hasGradeRules": null,
+    "hasGradeRuleDescribe": null,
+    "hasIntegrity": null,
+    "hasCoursePol": null,
+    "hasCourseRem": null,
+    "hasObjectiveReleation": null,
+    "hasTopicSdgs": null,
+    "hasSubTitleDesc": null
+  },
+  "subTitleDesc": null,
+  "description": {
+    "sub_id3": null,
+    "sub_name": "班級活動",
+    "sub_ename": "CLASS ACTIVITY",
+    "describe_ch": "提供學生們與導師建立互動機會，形成良好夥伴關係，以發展實現學生個人、學業、職涯目標，確保及達成學生學習成就。提供生涯規劃及選課諮詢，並導引善用學校各項學習資源與服務，獲得各種學習能力資訊及機會，輔助學生建立完整的學習經驗及歷程，讓學生個人的學習發展，朝向永續學習及成功之路。",
+    "describe_eh": "Providing the interactive opportunity establishes in the students and academic advisor, forms the good partnership. develops realizes student individual, the studies, the duty border goal, guarantees and achieves the student to study the achievement. Provides the profession plan and chooses the class consultation, and guides makes good use of the school each study resources and the service, obtains each kind of learning capability information and the opportunity, the auxiliary student establishes the complete learning experience and the course, lets the student individual study development, faces continues forever to study and the steps to success.",
+    "pre_subname": "",
+    "pre_sub_id3": null,
+    "pre_sub_ename": "",
+    "pre_describe": null,
+    "pre_describe_en": null,
+    "scr_credit": 0.0
+  },
+  "targets": [
+    {
+      "seq": 1,
+      "describe_ch": "班級活動及諮詢：培養學生責任感與凝聚班級向心力。",
+      "describe_en": "Class Activities Operation and Advising: Cultivate students' responsibilities and enhance the sense of belonging."
+    },
+    {
+      "seq": 2,
+      "describe_ch": "個人成長：協助同學發展核心軟技能及決策制訂能力，以及從各種學習經驗當中獲得綜合技能並能適時運用之。",
+      "describe_en": "Personal growth: Develop core soft skills and decision-making. Be able to identify and communicate the transferable skills gained through your educational experience."
+    },
+    {
+      "seq": 3,
+      "describe_ch": "資源應用：幫助同學分配與有效利用校園資源服務的技巧以達成學生目標。",
+      "describe_en": "Resource identification: Develop skills in locating and effectively using information and resources that help you achieve your goals."
+    },
+    {
+      "seq": 4,
+      "describe_ch": "職涯規劃：讓同學瞭解在課堂學習經驗與個人學業、職涯及制訂目標之間的關係。",
+      "describe_en": "Curriculum integration: Understand the relationship between your classroom experiences and your academic, career, and personal goals."
+    },
+    {
+      "seq": 5,
+      "describe_ch": "經驗學習：瞭解包含課堂外學習經驗的重要性。",
+      "describe_en": "Experiential learning: Understand the importance of including experiences outside of the classroom in your educational plan."
+    }
+  ],
+  "teachersInfo": [
+    {
+      "cname": "黃鈺婷",
+      "ename": "Yu-Ting Huang",
+      "period": "(Mon)10  商502,(Tue)10  商502,(Thu)10  商502,(Fri)10  商502",
+      "roletype": 0,
+      "email": "ytinghuang@o365.fcu.edu.tw",
+      "ext": "4069"
+    }
+  ],
+  "textBooks": {
+    "yms_year": 114.0,
+    "yms_smester": 1.0,
+    "cls_id": "CB35511",
+    "sub_id": "00001",
+    "scr_dup": "001",
+    "tpb_seq": 1,
+    "tpb_book": "<div>1.做自己的生命設計師：史丹佛最夯的生涯規畫課，用「設計思考」重擬問題，打造全新生命藍圖</div>\n\n<div><a href=\"https://search.books.com.tw/search/query/cat/all/key/Designing%20Your%20Life%3A%20How%20to%20Build%20a%20Well-lived%2C%20Joyful%20Life\">Designing Your Life: How to Build a Well-lived, Joyful Life</a></div>\n\n<div>2.TED Talk 十八分鐘的祕密,&nbsp;<a href=\"https://search.books.com.tw/search/query/key/%E5%82%91%E7%91%9E%E7%B1%B3%EF%BC%8E%E5%94%90%E7%B4%8D%E6%96%87/adv_author/1/\">傑瑞米．唐納文</a>&nbsp;&nbsp;\n\n<div>3.我們為什麼要讀書？為什麼要工作？為了得到幸福，希望你能好好思考這些事,&nbsp;&nbsp;<a href=\"https://search.books.com.tw/search/query/key/%E6%B1%A0%E4%B8%8A%E5%BD%B0/adv_author/1/\">池上彰</a></div>\n\n<div>4.一聽就懂的邏輯表達力：從面試、開會、簡報到人脈經營，26堂全方位職場說話課&nbsp;</div>\n\n<div>&nbsp;</div>\n</div>\n",
+    "tpb_book_en": null
+  },
+  "readings": {
+    "yms_year": 114.0,
+    "yms_smester": 1.0,
+    "cls_id": "CB35511",
+    "sub_id": "00001",
+    "scr_dup": "001",
+    "tpc_seq": 1,
+    "tpc_book": "<div>\n<ol>\n\t<li>TED Talk 十八分鐘的祕密,&nbsp;<a href=\"https://search.books.com.tw/search/query/key/%E5%82%91%E7%91%9E%E7%B1%B3%EF%BC%8E%E5%94%90%E7%B4%8D%E6%96%87/adv_author/1/\">傑瑞米．唐納文</a>&nbsp;&nbsp;</li>\n\t<li>我們為什麼要讀書？為什麼要工作？為了得到幸福，希望你能好好思考這些事,&nbsp;&nbsp;<a href=\"https://search.books.com.tw/search/query/key/%E6%B1%A0%E4%B8%8A%E5%BD%B0/adv_author/1/\">池上彰</a></li>\n\t<li>一聽就懂的邏輯表達力：從面試、開會、簡報到人脈經營，26堂全方位職場說話課</li>\n</ol>\n\n<div>-----------------------------------------------------------------------------</div>\n\n<div>&nbsp;</div>\n\n<div>&nbsp;</div>\n\n<div>&nbsp;</div>\n</div>\n\n<div>&nbsp;</div>\n",
+    "tpc_book_en": null
+  },
+  "iSoftwares": [],
+  "assistSoftwares": [],
+  "weeklyScds": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CB35511",
+      "sub_id": "00001",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "1",
+      "tpd_reading": "<div>第 1-2 週：介紹與破冰</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": "<ul>\n\t<li><strong>第 1 週</strong>：入學指導和破冰活動，建立友誼。</li>\n\t<li><strong>第 2 週</strong>：課程期望概述和初步小組形成。</li>\n</ul>\n",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CB35511",
+      "sub_id": "00001",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "2",
+      "tpd_reading": "<div>第 3-6 週：建立基礎</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": "<ul>\n\t<li><strong>第 3 週</strong>：介紹讀書會和有效溝通技巧。</li>\n\t<li><strong>第 4 週</strong>：首次閱讀任務和討論準備。</li>\n\t<li><strong>第 5 週</strong>：讀書會展示指定閱讀內容。</li>\n\t<li><strong>第 6 週</strong>：讀書會經驗反饋和反思。</li>\n</ul>\n",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CB35511",
+      "sub_id": "00001",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "3",
+      "tpd_reading": "<div>第 7-10 週：增強合作</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": "<ul>\n\t<li><strong>第 7 週</strong>：團隊動力學和衝突解決工作坊。</li>\n\t<li><strong>第 8 週</strong>：第二次閱讀任務和準備。</li>\n\t<li><strong>第 9 週</strong>：讀書會展示及同儕評審。</li>\n\t<li><strong>第 10 週</strong>：期中反思和小組聯誼活動。</li>\n</ul>\n",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CB35511",
+      "sub_id": "00001",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "4",
+      "tpd_reading": "<div>第 11-14 週：應用技能</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": "<ul>\n\t<li><strong>第 11 週</strong>：批判性思維和分析工作坊。</li>\n\t<li><strong>第 12 週</strong>：第三次閱讀任務和準備。</li>\n\t<li><strong>第 13 週</strong>：讀書會展示，重點在批判性分析。</li>\n\t<li><strong>第 14 週</strong>：反饋和改進策略。</li>\n</ul>\n",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CB35511",
+      "sub_id": "00001",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "5",
+      "tpd_reading": "<div>第 15&nbsp;週：演講</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": "<ul>\n\t<li><strong>第 15 週</strong>：演講技巧工作坊和最終專案介紹。</li>\n</ul>\n",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CB35511",
+      "sub_id": "00001",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "6",
+      "tpd_reading": "<div>第 16-17&nbsp;週：總結和慶祝一學期結束啦！</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": "<ul>\n\t<li><strong>第 16 週</strong>：第四次閱讀任務和準備。</li>\n\t<li><strong>第 17 週</strong>：最終讀書會展示及同儕評價。</li>\n</ul>\n",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CB35511",
+      "sub_id": "00001",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "7",
+      "tpd_reading": "<div>第 18 週：總結和慶祝一學期結束啦！</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": "<div><strong>第 18 週</strong>：課程反思，最終回饋和慶祝活動。</div>\n",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    }
+  ],
+  "gradeRules": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CB35511",
+      "sub_id": "00001",
+      "scr_dup": "001",
+      "evalb_id": "L1",
+      "score_rate": 20,
+      "evalb_memo": "每位學生每週上iLearn 課程討論區，針對討論議題至少回應一則至少100個字的看法，未回應者扣平常成績5分。\n在上課之前，要做好閱讀和作業寫作，以便您準備上課時幫助和參與討論。\n使用FCU電子郵件和iLearn，與授課教師和同學進行交流。",
+      "evalb_memo_en": null,
+      "evalb_name": "印象分數",
+      "evalb_name_en": "General impression",
+      "seq": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CB35511",
+      "sub_id": "00001",
+      "scr_dup": "001",
+      "evalb_id": "L3",
+      "score_rate": 30,
+      "evalb_memo": "每位學生每週上iLearn 課程討論區，針對討論議題至少回應一則至少100個字的看法，未回應者扣平常成績5分。\n在上課之前，要做好閱讀和作業寫作，以便您準備上課時幫助和參與討論。\n使用FCU電子郵件和iLearn，與授課教師和同學進行交流。",
+      "evalb_memo_en": null,
+      "evalb_name": "課堂討論參與",
+      "evalb_name_en": "Participation",
+      "seq": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CB35511",
+      "sub_id": "00001",
+      "scr_dup": "001",
+      "evalb_id": "L4",
+      "score_rate": 50,
+      "evalb_memo": "出席及缺席\n登記為曠課者，曠課一次扣平時成績5分。\n學生請假依本校學生請假辦法辦理，務必要在上課之前，檢附請假理由及文件，線上提出申請。若不在申請期限內完成請假作業者，無充分的理由，經核准不得取消扣分。",
+      "evalb_memo_en": null,
+      "evalb_name": "出席狀況",
+      "evalb_name_en": "Attendances",
+      "seq": 0
+    }
+  ],
+  "gradeRuleDescribe": {
+    "yms_year": 114.0,
+    "yms_smester": 1.0,
+    "cls_id": "CB35511",
+    "sub_id": "00001",
+    "scr_dup": "001",
+    "tpa_score_new": null,
+    "tpa_score_new_en": null,
+    "course_pol": "Class Activity Rules for Freshmen 大一新生班級活動規則\n\n1.Punctuality 準時: Arrive on time for all activities. 準時參加所有活動。\n2.Participation 參與: Actively engage and contribute to discussions and tasks. 積極參與討論和任務。\n3.Respect 尊重: Show respect to classmates, instructors, and guest speakers. 尊重同學、老師和客座講師。\n4,Collaboration 合作: Work cooperatively in group settings, valuing everyone's input. 在小組環境中合作，重視每個人的意見。\n5.Responsibility 責任: Complete assigned tasks and meet deadlines. 完成分配的任務並遵守期限。\n6.Open-mindedness 開放心態: Be open to different perspectives and constructive feedback. 對不同的觀點和建設性的反饋保持開放心態。\n7.Preparedness 準備: Come prepared with necessary materials and a positive attitude. 帶齊必要的資料並保持積極的態度。\n8.Communication 溝通: Communicate clearly and effectively, addressing any concerns with the instructor promptly. 清晰有效地溝通，及時向老師反映任何問題。",
+    "course_pol_en": null,
+    "course_rem": null,
+    "course_rem_en": null,
+    "ais_meno": "<div>學習必須以誠信為基礎，任何學生企圖將自己未製作的作品，作為自己的作品，此行為是為不誠實行為。在作業、測驗或考試中作弊或抄襲的學生或協助他人的行為，該次成績以零分計，若是累犯，將依逢甲大學學生獎懲辦法提送。\n<ul>\n\t<li>考核時如果您抄襲他人的答案、或交作業時您交出全部或部分由他人撰寫的論文或作業，則被視為作弊。</li>\n\t<li>考核時如果您抄襲他人的答案、或交作業時您交出全部或部分由他人撰寫的論文或作業，則被視為作弊。</li>\n</ul>\n</div>\n",
+    "ais_meno_en": null,
+    "ilearn_mk": null
+  },
+  "integrity": {
+    "yms_year": 114.0,
+    "yms_smester": 1.0,
+    "cls_id": "CB35511",
+    "sub_id": "00001",
+    "scr_dup": "001",
+    "tpa_score_new": null,
+    "tpa_score_new_en": null,
+    "course_pol": "Class Activity Rules for Freshmen 大一新生班級活動規則\n\n1.Punctuality 準時: Arrive on time for all activities. 準時參加所有活動。\n2.Participation 參與: Actively engage and contribute to discussions and tasks. 積極參與討論和任務。\n3.Respect 尊重: Show respect to classmates, instructors, and guest speakers. 尊重同學、老師和客座講師。\n4,Collaboration 合作: Work cooperatively in group settings, valuing everyone's input. 在小組環境中合作，重視每個人的意見。\n5.Responsibility 責任: Complete assigned tasks and meet deadlines. 完成分配的任務並遵守期限。\n6.Open-mindedness 開放心態: Be open to different perspectives and constructive feedback. 對不同的觀點和建設性的反饋保持開放心態。\n7.Preparedness 準備: Come prepared with necessary materials and a positive attitude. 帶齊必要的資料並保持積極的態度。\n8.Communication 溝通: Communicate clearly and effectively, addressing any concerns with the instructor promptly. 清晰有效地溝通，及時向老師反映任何問題。",
+    "course_pol_en": null,
+    "course_rem": null,
+    "course_rem_en": null,
+    "ais_meno": "<div>學習必須以誠信為基礎，任何學生企圖將自己未製作的作品，作為自己的作品，此行為是為不誠實行為。在作業、測驗或考試中作弊或抄襲的學生或協助他人的行為，該次成績以零分計，若是累犯，將依逢甲大學學生獎懲辦法提送。\n<ul>\n\t<li>考核時如果您抄襲他人的答案、或交作業時您交出全部或部分由他人撰寫的論文或作業，則被視為作弊。</li>\n\t<li>考核時如果您抄襲他人的答案、或交作業時您交出全部或部分由他人撰寫的論文或作業，則被視為作弊。</li>\n</ul>\n</div>\n",
+    "ais_meno_en": null,
+    "ilearn_mk": null
+  },
+  "policy": {
+    "yms_year": 114.0,
+    "yms_smester": 1.0,
+    "cls_id": "CB35511",
+    "sub_id": "00001",
+    "scr_dup": "001",
+    "tpa_score_new": null,
+    "tpa_score_new_en": null,
+    "course_pol": "Class Activity Rules for Freshmen 大一新生班級活動規則\n\n1.Punctuality 準時: Arrive on time for all activities. 準時參加所有活動。\n2.Participation 參與: Actively engage and contribute to discussions and tasks. 積極參與討論和任務。\n3.Respect 尊重: Show respect to classmates, instructors, and guest speakers. 尊重同學、老師和客座講師。\n4,Collaboration 合作: Work cooperatively in group settings, valuing everyone's input. 在小組環境中合作，重視每個人的意見。\n5.Responsibility 責任: Complete assigned tasks and meet deadlines. 完成分配的任務並遵守期限。\n6.Open-mindedness 開放心態: Be open to different perspectives and constructive feedback. 對不同的觀點和建設性的反饋保持開放心態。\n7.Preparedness 準備: Come prepared with necessary materials and a positive attitude. 帶齊必要的資料並保持積極的態度。\n8.Communication 溝通: Communicate clearly and effectively, addressing any concerns with the instructor promptly. 清晰有效地溝通，及時向老師反映任何問題。",
+    "course_pol_en": null,
+    "course_rem": null,
+    "course_rem_en": null,
+    "ais_meno": "<div>學習必須以誠信為基礎，任何學生企圖將自己未製作的作品，作為自己的作品，此行為是為不誠實行為。在作業、測驗或考試中作弊或抄襲的學生或協助他人的行為，該次成績以零分計，若是累犯，將依逢甲大學學生獎懲辦法提送。\n<ul>\n\t<li>考核時如果您抄襲他人的答案、或交作業時您交出全部或部分由他人撰寫的論文或作業，則被視為作弊。</li>\n\t<li>考核時如果您抄襲他人的答案、或交作業時您交出全部或部分由他人撰寫的論文或作業，則被視為作弊。</li>\n</ul>\n</div>\n",
+    "ais_meno_en": null,
+    "ilearn_mk": null
+  },
+  "courseBankC": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CB35511",
+      "sub_id": "00001",
+      "scr_dup": "001",
+      "seq": 1,
+      "describe_ch": "班級活動及諮詢：培養學生責任感與凝聚班級向心力。",
+      "describe_en": "Class Activities Operation and Advising: Cultivate students' responsibilities and enhance the sense of belonging.",
+      "core_id": "F",
+      "core_item": "公民實踐：能關注社會問題；能重視人與環境之和諧；能參與公民社會活動。",
+      "core_eng": "Global Citizenship：To be equipped with humanistic sentiments toward the care of social and natural environment; conduct life-long learning, civic responsibility and serve the public .",
+      "core_level": "3 ",
+      "strgy": [
+        "01",
+        "02",
+        "10"
+      ],
+      "evalb": [
+        "L3",
+        "L4"
+      ],
+      "strgy_name": [
+        "課堂授課",
+        "專題演講",
+        "小組討論及活動"
+      ],
+      "strgy_name_en": [
+        "Classroom instruction",
+        "Topical lecture",
+        "Group activity & discussion"
+      ],
+      "evalb_name": [
+        "課堂討論參與",
+        "出席狀況"
+      ],
+      "evalb_name_en": [
+        "Participation",
+        "Attendances"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CB35511",
+          "sub_id": "00001",
+          "scr_dup": "001",
+          "seq": 1,
+          "strgy_id": "01",
+          "strgy_name": null,
+          "strgy_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CB35511",
+          "sub_id": "00001",
+          "scr_dup": "001",
+          "seq": 1,
+          "strgy_id": "02",
+          "strgy_name": null,
+          "strgy_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CB35511",
+          "sub_id": "00001",
+          "scr_dup": "001",
+          "seq": 1,
+          "strgy_id": "10",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CB35511",
+          "sub_id": "00001",
+          "scr_dup": "001",
+          "seq": 1,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "L3",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CB35511",
+          "sub_id": "00001",
+          "scr_dup": "001",
+          "seq": 1,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "L4",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CB35511",
+      "sub_id": "00001",
+      "scr_dup": "001",
+      "seq": 2,
+      "describe_ch": "個人成長：協助同學發展核心軟技能及決策制訂能力，以及從各種學習經驗當中獲得綜合技能並能適時運用之。",
+      "describe_en": "Personal growth: Develop core soft skills and decision-making. Be able to identify and communicate the transferable skills gained through your educational experience.",
+      "core_id": "F",
+      "core_item": "公民實踐：能關注社會問題；能重視人與環境之和諧；能參與公民社會活動。",
+      "core_eng": "Global Citizenship：To be equipped with humanistic sentiments toward the care of social and natural environment; conduct life-long learning, civic responsibility and serve the public .",
+      "core_level": "3 ",
+      "strgy": [
+        "01",
+        "03",
+        "10"
+      ],
+      "evalb": [
+        "L3"
+      ],
+      "strgy_name": [
+        "課堂授課",
+        "個案討論",
+        "小組討論及活動"
+      ],
+      "strgy_name_en": [
+        "Classroom instruction",
+        "Case study",
+        "Group activity & discussion"
+      ],
+      "evalb_name": [
+        "課堂討論參與"
+      ],
+      "evalb_name_en": [
+        "Participation"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CB35511",
+          "sub_id": "00001",
+          "scr_dup": "001",
+          "seq": 2,
+          "strgy_id": "01",
+          "strgy_name": null,
+          "strgy_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CB35511",
+          "sub_id": "00001",
+          "scr_dup": "001",
+          "seq": 2,
+          "strgy_id": "03",
+          "strgy_name": null,
+          "strgy_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CB35511",
+          "sub_id": "00001",
+          "scr_dup": "001",
+          "seq": 2,
+          "strgy_id": "10",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CB35511",
+          "sub_id": "00001",
+          "scr_dup": "001",
+          "seq": 2,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "L3",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CB35511",
+      "sub_id": "00001",
+      "scr_dup": "001",
+      "seq": 3,
+      "describe_ch": "資源應用：幫助同學分配與有效利用校園資源服務的技巧以達成學生目標。",
+      "describe_en": "Resource identification: Develop skills in locating and effectively using information and resources that help you achieve your goals.",
+      "core_id": "C",
+      "core_item": "溝通技巧：能具備清楚表達的能力；能理解他人口語與非口語的訊息；能建立良好的人際關係。",
+      "core_eng": "Communication Skills：To be equipped with the skills of effective verbal and non-verbal  interaction  and team work communication.",
+      "core_level": "3 ",
+      "strgy": [
+        "01",
+        "02",
+        "04",
+        "10"
+      ],
+      "evalb": [
+        "L3"
+      ],
+      "strgy_name": [
+        "課堂授課",
+        "專題演講",
+        "專題討論",
+        "小組討論及活動"
+      ],
+      "strgy_name_en": [
+        "Classroom instruction",
+        "Topical lecture",
+        "Seminar",
+        "Group activity & discussion"
+      ],
+      "evalb_name": [
+        "課堂討論參與"
+      ],
+      "evalb_name_en": [
+        "Participation"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CB35511",
+          "sub_id": "00001",
+          "scr_dup": "001",
+          "seq": 3,
+          "strgy_id": "01",
+          "strgy_name": null,
+          "strgy_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CB35511",
+          "sub_id": "00001",
+          "scr_dup": "001",
+          "seq": 3,
+          "strgy_id": "02",
+          "strgy_name": null,
+          "strgy_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CB35511",
+          "sub_id": "00001",
+          "scr_dup": "001",
+          "seq": 3,
+          "strgy_id": "04",
+          "strgy_name": null,
+          "strgy_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CB35511",
+          "sub_id": "00001",
+          "scr_dup": "001",
+          "seq": 3,
+          "strgy_id": "10",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CB35511",
+          "sub_id": "00001",
+          "scr_dup": "001",
+          "seq": 3,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "L3",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CB35511",
+      "sub_id": "00001",
+      "scr_dup": "001",
+      "seq": 4,
+      "describe_ch": "職涯規劃：讓同學瞭解在課堂學習經驗與個人學業、職涯及制訂目標之間的關係。",
+      "describe_en": "Curriculum integration: Understand the relationship between your classroom experiences and your academic, career, and personal goals.",
+      "core_id": "A",
+      "core_item": "知識探索：能培養多元領域學習的興趣；能統整跨領域的知識；能持續從事跨領域的學習。",
+      "core_eng": "Knowledge Pursuit：To integrate extensive interests, curiosities and literacy of multidisciplinary knowledge and internalize one’s won viewpoints.",
+      "core_level": "3 ",
+      "strgy": [
+        "10"
+      ],
+      "evalb": [
+        "L3"
+      ],
+      "strgy_name": [
+        "小組討論及活動"
+      ],
+      "strgy_name_en": [
+        "Group activity & discussion"
+      ],
+      "evalb_name": [
+        "課堂討論參與"
+      ],
+      "evalb_name_en": [
+        "Participation"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CB35511",
+          "sub_id": "00001",
+          "scr_dup": "001",
+          "seq": 4,
+          "strgy_id": "10",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CB35511",
+          "sub_id": "00001",
+          "scr_dup": "001",
+          "seq": 4,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "L3",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CB35511",
+      "sub_id": "00001",
+      "scr_dup": "001",
+      "seq": 5,
+      "describe_ch": "經驗學習：瞭解包含課堂外學習經驗的重要性。",
+      "describe_en": "Experiential learning: Understand the importance of including experiences outside of the classroom in your educational plan.",
+      "core_id": "F",
+      "core_item": "公民實踐：能關注社會問題；能重視人與環境之和諧；能參與公民社會活動。",
+      "core_eng": "Global Citizenship：To be equipped with humanistic sentiments toward the care of social and natural environment; conduct life-long learning, civic responsibility and serve the public .",
+      "core_level": "3 ",
+      "strgy": [
+        "02",
+        "10"
+      ],
+      "evalb": [
+        "L3"
+      ],
+      "strgy_name": [
+        "專題演講",
+        "小組討論及活動"
+      ],
+      "strgy_name_en": [
+        "Topical lecture",
+        "Group activity & discussion"
+      ],
+      "evalb_name": [
+        "課堂討論參與"
+      ],
+      "evalb_name_en": [
+        "Participation"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CB35511",
+          "sub_id": "00001",
+          "scr_dup": "001",
+          "seq": 5,
+          "strgy_id": "02",
+          "strgy_name": null,
+          "strgy_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CB35511",
+          "sub_id": "00001",
+          "scr_dup": "001",
+          "seq": 5,
+          "strgy_id": "10",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CB35511",
+          "sub_id": "00001",
+          "scr_dup": "001",
+          "seq": 5,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "L3",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    }
+  ],
+  "topicSdgs": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CB35511",
+      "sub_id": "00001",
+      "scr_dup": "001",
+      "sdgs_seq": 3,
+      "main_related": "Y",
+      "ind_related": "N",
+      "iss_name": "社會進步面",
+      "iss_ename": "Social Progress",
+      "content_name": "促進身心健康",
+      "content_ename": "Good Health and Well-Being"
+    }
+  ],
+  "learnHours": {
+    "total": 0.0,
+    "tpdOnlineAsyTotal": 0.0,
+    "tpdOnlineSynTotal": 0.0,
+    "tpdOnlineFaceTotal": 0.0,
+    "asySynInTotalPercent": 0.0
+  },
+  "crossVerYear": 114
+}

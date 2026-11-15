@@ -1,0 +1,420 @@
+{
+  "teacherId": "T99121",
+  "name": "林威延",
+  "mainUnit": "建設學院",
+  "detailUnit": "土木工程學系",
+  "skill": [
+    "地理資訊系統GIS",
+    "營建管理Construction Management",
+    "工程資訊管理Engineering Information Management",
+    "空間資訊整合應用技術Geoinfomatics",
+    "建築資訊塑模Building Information Modeling (BIM)",
+    "三維地理資訊系統3D-GIS"
+  ],
+  "edu": [
+    "台灣大學 土木工程學系 博士",
+    "淡江大學 土木工程學系 碩士",
+    "馬奎里大學 資訊技術 碩士",
+    "國立台灣大學 土木工程學系 學士"
+  ],
+  "fcuExp": [
+    "營建資訊模擬研究中心 應用研究組組長",
+    "營建資訊模擬研究中心 應用研究組組長",
+    "智慧運輸與物流創新中心 顧問",
+    "土木工程學系 系主任",
+    "土木工程學系營建工程與管理進修學士班 主任",
+    "逢甲大學帆宣智慧城市5G實驗室 研究員",
+    "地理資訊系統研究中心 博士後研究人員",
+    "都市計畫與空間資訊學系 助理教授",
+    "地理資訊系統研究中心 博士後研究人員",
+    "土木工程學系 助理教授",
+    "土木工程學系 副教授"
+  ],
+  "currjob": [],
+  "otherExp": [
+    "逢甲大學 地理資訊系統研究中心 博士後研究人員",
+    "逢甲大學 都市計畫與空間資訊系 助理教授",
+    "逢甲大學 都市計畫與空間資訊學系 助理教授",
+    "逢甲大學 地理資訊系統研究中心 助理教授",
+    "致遠管理學院 營建管理學系 助理教授"
+  ],
+  "journal": [
+    {
+      "論文名稱": "Prototyping a Chatbot for Site Managers Using Building Information Modeling (BIM) and Natural Language Understanding (NLU) Techniques",
+      "期刊名稱": "Sensors (SCIE,EI)",
+      "作者群": "Will Y. Lin"
+    },
+    {
+      "論文名稱": "Automatic Generation of High-Accuracy Stair Paths for Straight, Spiral, and Winder Stairs Using IFC-based Models",
+      "期刊名稱": "ISPRS International Journal of Geo-Information (SCIE)",
+      "作者群": "Will Y. Lin"
+    },
+    {
+      "論文名稱": "Filtering of Irrelevant Clashes Detected by BIM Software Using a Hybrid Method of Rule-Based Reasoning and Supervised Machine Learning",
+      "期刊名稱": "Applied Sciences (SCIE)",
+      "作者群": "Will Y. Lin* and Ying-Hua Huang"
+    },
+    {
+      "論文名稱": "基於IFC模型之室內非平面路徑自動化產製與其應用",
+      "期刊名稱": "中國土木水利工程學刊 (EI,ECONLIT)",
+      "作者群": "林威延"
+    },
+    {
+      "論文名稱": "Intelligent generation of indoor topology (i-GIT) for human indoor pathfinding based on IFC models and 3D GIS technology",
+      "期刊名稱": "Automation in Construction (SCIE,ECONLIT)",
+      "作者群": "Will Y. Lin⁎, Pao H. Lin"
+    },
+    {
+      "論文名稱": "官方版電子地圖空間資料完整性檢核案例研究",
+      "期刊名稱": "中國土木水利工程學刊 (ECONLIT)",
+      "作者群": "林威延*、林保宏"
+    },
+    {
+      "論文名稱": "GEOTARGETING PROTOCOL STANDARDS",
+      "期刊名稱": "WILLY-AAG INTERNATIONAL ENCYCLOPEDIA OF GEOGRAPHY (https://onlinelibrary.wiley.com/doi/abs/10.1002/97811)",
+      "作者群": "Tien-Yin Chou, Yi-Min Huang, Wei-Yen Lin, Feng-Cheng Lin, Chen-Yu Hao"
+    },
+    {
+      "論文名稱": "應用GIS技術於計程車旅行時間與共乘路線之初步探勘-以台中港路為例",
+      "期刊名稱": "都市交通半年刊 ()",
+      "作者群": "林威延，林保宏，黃志偉*"
+    },
+    {
+      "論文名稱": "When Technology Encounters Culture: A Closer Watch on Dajia Mazu Patrol and Pilgrimage in Taiwan",
+      "期刊名稱": "Journal of Geographic Information System ()",
+      "作者群": "Will Y. Lin*, Tien-Yin Chou, Lung-Shih Yang, Cheng-Shu Kao"
+    },
+    {
+      "論文名稱": "農村再生數位典藏平台",
+      "期刊名稱": "檔案季刊 ()",
+      "作者群": "周天穎、林威延*"
+    },
+    {
+      "論文名稱": "Developing an Electronic Acquisition Model for Project Scheduling (e-AMPS) Using XML-based Information Standard",
+      "期刊名稱": "Automation in Construction (SCIE,EI)",
+      "作者群": "H. P Tserng, Will Y. Lin*"
+    },
+    {
+      "論文名稱": "網路式營建專案績效評估系統之建置",
+      "期刊名稱": "營建管理季刊 ()",
+      "作者群": "林保宏*、曾惠斌、林威延"
+    }
+  ],
+  "journal2": [],
+  "conference": [
+    {
+      "論文名稱": "Covid-19 Infection Detection Taiwan (CIDT)-A Visual Aid for Epidemic Investors with Spatial Awareness Using BIM",
+      "會議名稱": "The 24th Symposium on Construction Engineering and Management",
+      "作者群": "Shameika R. Prentice*, Yi-Shiang Shiu, Will Y. Lin"
+    },
+    {
+      "論文名稱": "Application of Project Management System on MaaS Development- A Case Study of Kaohsiung City in Taiwan",
+      "會議名稱": "26th ITS World Congress, Singapore, 21-25 October 2019",
+      "作者群": "Liang-Tay Lin, Chi-Hwa Chern, Tung-Ling Wu, Chao-Fu Yeh, Shih-Huei Lyu, Chung-Chieh Liu, Wei-Liang Chen, Ho-Sheng Chang*, Shang-Chun Lin, Wei-Yen Lin"
+    },
+    {
+      "論文名稱": "Automatic Classification of Design Conflicts Using Rule-based Reasoning and Machine Learning--An Example of Structural Clashes against the MEP model",
+      "會議名稱": "36th International Symposium on Automation and Robotics in Construction (ISARC 2019)",
+      "作者群": "Ying-Hua Huanga, Will Y. Lin*"
+    },
+    {
+      "論文名稱": "室內拓撲產製(i-GIT)之非平面路徑演算法-坡道與升降梯路徑",
+      "會議名稱": " 第22屆營建工程與管理學術研討會 (SCEM 2018)",
+      "作者群": "王昱淇，林威延"
+    },
+    {
+      "論文名稱": "Automating the Generation of Indoor Space Topology for 3D Route Planning Using BIM and 3D-GIS Techniques",
+      "會議名稱": "34th International Symposium on Automation and Robotics in Construction",
+      "作者群": "Will Y. Lin, Pao H. Lin and Hui P. Tserng"
+    },
+    {
+      "論文名稱": "大型運輸場站一對多計程車共乘媒合演算法",
+      "會議名稱": "中華民國運輸學會105年學術論文研討會",
+      "作者群": "張毓倫、林威延、張學孔"
+    },
+    {
+      "論文名稱": "易損性曲線於坡地崩塌警戒模式之應用",
+      "會議名稱": "第三屆逢甲-同濟土木工程防災學術暨教學研討會",
+      "作者群": "黃亦敏、林威延"
+    },
+    {
+      "論文名稱": "一米精度下的WGS84與TWD坐標快速轉換",
+      "會議名稱": "台灣地理資訊學會年會暨學術研討會(TGIS)",
+      "作者群": "林威延"
+    },
+    {
+      "論文名稱": "Implementation of Traffic Cloud Using Taxi Fleet as Vehicle Probe",
+      "會議名稱": "ITS World Congress",
+      "作者群": "Yi-Chih Cho, Will Y. Lin, Ker-Tsung Lee"
+    },
+    {
+      "論文名稱": "應用雲端技術於GPS探針車之路段辨識",
+      "會議名稱": "台灣地理資訊學會年會暨學術研討會(TGIS)",
+      "作者群": "辜文元*、林威延"
+    },
+    {
+      "論文名稱": "應用 Mobile VGI 於交通事件定位與通報之研究",
+      "會議名稱": "中華空間資訊學會103年學生專題及論文競賽",
+      "作者群": "魏肇賢*、高豫麒、林威延"
+    },
+    {
+      "論文名稱": "Development of a Taxi Pooling Dispatching Platform-A Case Study in Taiwan",
+      "會議名稱": "The 12th Asia Pacific ITS Forum & Exhibition 2012",
+      "作者群": "Will Y. Lin*, Ker-Tsung Lee, Tsung-Nan Liu"
+    },
+    {
+      "論文名稱": "當代科技與文化信仰之融通-以媽祖遶境進香活動為例",
+      "會議名稱": "台灣地理資訊學會年會暨學術研討會(TGIS)",
+      "作者群": "陳政宇*、郭保宏、林威延"
+    },
+    {
+      "論文名稱": "Using GRID Geospatial Database to enhance the performance of spatial identification-an example of a fleet management system, SkyEyes",
+      "會議名稱": "ISPRS workshop on Dynamic and Multi-dimensional GIS",
+      "作者群": "Chien-Fu Chen*,Will Y.Lin"
+    },
+    {
+      "論文名稱": "Using Smartphones in Reporting Real-Time Traffic Incidents",
+      "會議名稱": "The 11th Asia-Pacific ITS Forum and Exhibition",
+      "作者群": "Will Y. Lin*, Bau-Hung Kuo"
+    },
+    {
+      "論文名稱": "A Lesson Learned of Cloud Computing for Fleet Management in Taiwan",
+      "會議名稱": "International Symposium on Grids and Clouds (ISGC 2011) and the Open Grid Forum (OGF 31)",
+      "作者群": "Wei-Yen Lin*, Wen-Yuan Ku"
+    },
+    {
+      "論文名稱": "運用專案管理思維整合空間資訊技術導入營建管理之研究",
+      "會議名稱": "台灣地理資訊學會年會暨學術研討會(TGIS)",
+      "作者群": "郭保宏*、洪炯麒、林威延、周天穎"
+    },
+    {
+      "論文名稱": "使用JAVA技術建構一個SCORM標準化教材相容之線上學習平台",
+      "會議名稱": "2007全國大專專題學術交流研討會",
+      "作者群": "林威延*、蔡宜靜"
+    },
+    {
+      "論文名稱": "導入無線射頻技術(RFID)於圖書管理盤點系統之研究",
+      "會議名稱": "2007資訊管理暨商務科技研討會(IMCT2007)",
+      "作者群": "林威延*、陳逸軒"
+    },
+    {
+      "論文名稱": "Supply Chain Management System for Construction Material Planning",
+      "會議名稱": "The International Symposium on Automation and Robotics in Construction (ISARC)",
+      "作者群": "H. P. Tserng*, Will Y. Lin, H. S. Hsu"
+    },
+    {
+      "論文名稱": "Intelligent Agent-based Subcontracting System in Construction",
+      "會議名稱": "The International Symposium on Automation and Robotics in Construction (ISARC)",
+      "作者群": "Pao H. Lin*, Will Y. Lin"
+    },
+    {
+      "論文名稱": "Development of Electronic Acquisition Model for Project Scheduling (e-AMPS) Using Java-XML",
+      "會議名稱": "The International Symposium on Automation and Robotics in Construction (ISARC)",
+      "作者群": "Will Y. Lin*"
+    },
+    {
+      "論文名稱": "Automating Communication for Construction Schedule Control Using XML-based Information",
+      "會議名稱": "The 29th Canadian Society for Civil Engineering (CSCE) Annual Conference",
+      "作者群": "Will Y. Lin*, H. Ping Tserng"
+    },
+    {
+      "論文名稱": "Application of Expert System and WWW in Construction Information Management",
+      "會議名稱": "Artificial Intelligent",
+      "作者群": "Jenmu Wang*, Will Y. Lin"
+    },
+    {
+      "論文名稱": "A Construction Schedule Controlling System Using Web-Based Knowledge Technology.",
+      "會議名稱": "The International Symposium on Automation and Robotics in Construction and Mining (ISARC)",
+      "作者群": "Will Y. Lin*, H. Ping Tserng"
+    },
+    {
+      "論文名稱": "The Development of WWW-Based Expert System for Construction Project Scheduling.",
+      "會議名稱": "East Asia-Pacific Conference on Structural Engineering and Construction (EASEC)",
+      "作者群": "Will Y. Lin, H. Ping Tserng*"
+    },
+    {
+      "論文名稱": "專家系統與網際網路於施工日報作業之應用",
+      "會議名稱": "第一屆營管學術研討會",
+      "作者群": "林威延*、王人牧"
+    },
+    {
+      "論文名稱": "專家系統與網際網路於專案進度排程之應用",
+      "會議名稱": "第一屆營管學術研討會",
+      "作者群": "林威延、曾惠斌"
+    }
+  ],
+  "book": [
+    {
+      "專業書籍": "105年度彰化縣海堤結構安全檢測委託專業服務之透地雷達檢測研究報告",
+      "出版單位": "逢甲大學土木工程學系",
+      "作者群": "康裕明(*)、林威延、林保宏"
+    },
+    {
+      "專業書籍": "全國交通及運輸網路空間資料基礎設施(SDI)規劃期末報告",
+      "出版單位": "交通部",
+      "作者群": "林威延等"
+    }
+  ],
+  "patent": [],
+  "most": [
+    {
+      "name": "應用大型語言模型(LLM)、BIM與Chatbots於工程圖說資訊檢索之研究",
+      "schoolYear": "113"
+    },
+    {
+      "name": "應用 Autodesk Forge API 與 Line Messaging API 開發營建客服機器人(Chatbot)",
+      "schoolYear": "113"
+    },
+    {
+      "name": "應用CloudBIM於建築工程施工協調管理之研究",
+      "schoolYear": "111"
+    },
+    {
+      "name": "應用BIM與3D-GlS技術開發Covid-19高風險被感染者自動匡列系統",
+      "schoolYear": "111"
+    },
+    {
+      "name": "基於中心線法產製非直線梯段樓梯三維路徑演算法",
+      "schoolYear": "110"
+    },
+    {
+      "name": "基於i-GIT室內拓撲產製架構之樓梯連結路徑演算法設計",
+      "schoolYear": "110"
+    },
+    {
+      "name": "基於IFC模型之室內非平面路徑產製演算法及其應用",
+      "schoolYear": "108"
+    },
+    {
+      "name": "機械學習在設計衝突自動分類之應用",
+      "schoolYear": "108"
+    },
+    {
+      "name": "BIM與3D-GIS技術於大型運輸場站室內轉乘路徑規劃與指引之應用--以高鐵台中站為例",
+      "schoolYear": "108"
+    },
+    {
+      "name": "應用深度學習自動分類三維建物模型之設計干涉--以建築工程之結構及MEP模型為例",
+      "schoolYear": "107"
+    },
+    {
+      "name": "應用BIM與3D-GIS技術於自動化建構室內空間拓樸之研究",
+      "schoolYear": "106"
+    },
+    {
+      "name": "開發電子地圖空間資料完整性檢核演算法之研究",
+      "schoolYear": "106"
+    }
+  ],
+  "tech": [
+    {
+      "論文名稱": "Geotargeting Protocol Standards (2017-03)",
+      "書名": "The International Encyclopedia of Geography",
+      "作者群": "Tien-Yin Chou, Yi-Min Huang, Wei-Yen Lin, Feng-Cheng Lin, Chen-Yu Hao"
+    }
+  ],
+  "induAca": [
+    "土木系委託試驗(111/10/12-112/06/15) (2022-10 to 2023-06)",
+    "BIM塑模及VR虛擬實境導覽系統之應用研究 (2022-07 to 2024-08)",
+    "嘉義縣推動工程資訊模型(EIM)規劃委託專業服務案 (2021-11 to 2022-08)",
+    "智慧營建 深耕土木 永續防災 (2021-03 to 2023-01)",
+    "小客車租賃業數位轉型發展計畫—商業模式設計與數位轉型推動實務之專案管理及監督審驗(1/2) (2021-02 to 2021-12)",
+    "MOTC-IOT-109-MEB002小客車租賃業數位轉型發展計畫專案管理及監督審驗(1/2) (2020-03 to 2020-09)",
+    "智慧營建在海陸域風力發電設施之理論設計與實務應用108年度新工程教育方法實驗與建構計畫「B類計畫：主題式課群之創建」— (2019-06 to 2021-02)",
+    "交通行動服務（MaaS）示範建置計畫專案管理及監督審驗 (2018-10 to 2019-12)",
+    "105年度彰化縣海堤結構安全檢測委託專業服務之透地雷達檢測 (2016-06 to 2017-05)",
+    "交通路網數值圖擴充維護暨公共運輸網絡圖資規劃試作 (2016-04 to 2016-12)",
+    "全國交通及運輸網路空間資料基礎設施(SDI)規劃 (2015-06 to 2016-02)",
+    "省道大客車行駛應特別注意路段幾何線形量測作業 (2014-02 to 2014-05)"
+  ],
+  "perform": [],
+  "reward": [
+    "逢甲大學論文著作獎勵傑出獎 (113, 2024-11) - 逢甲大學",
+    "109年度科技部補助大專校院研究獎勵 (109, 2021-03) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (109, 2020-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (109, 2020-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (108, 2019-11) - 逢甲大學",
+    "108學年度科技部補助大專校院研究獎勵 (108, 2019-09) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (107, 2018-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (107, 2018-11) - 逢甲大學"
+  ],
+  "speech": [
+    {
+      "演講題目": "JULIE: 大型語言模型(LLM)、BIM與Chatbots於工程圖說檢索之應用",
+      "邀請單位": "重慶大學",
+      "演講日期": "2023-11"
+    },
+    {
+      "演講題目": "Applications of Indoor Location-based Services in Taiwan Using BIM and 3D-GIS",
+      "邀請單位": "International Virtual Course on Integrated Green Technology",
+      "演講日期": "2021-08"
+    },
+    {
+      "演講題目": "BIM於室內路徑自動化產製及其工程應用",
+      "邀請單位": "國立陽明交通大學土木工程系",
+      "演講日期": "2021-04"
+    },
+    {
+      "演講題目": "機械學習與深度學習於營建工程之應用",
+      "邀請單位": "台東大學綠色與資訊科技學士學位學程",
+      "演講日期": "2019-11"
+    },
+    {
+      "演講題目": "空間資訊技術於土木工程之應用",
+      "邀請單位": "雲林科技大學營建工程系碩士在職專班",
+      "演講日期": "2018-04"
+    },
+    {
+      "演講題目": "空間資訊技術於智慧城市之應用",
+      "邀請單位": "台東大學綠色與資訊科技學士學位學程",
+      "演講日期": "2017-12"
+    },
+    {
+      "演講題目": "空間資訊技術於土木及防災之應用",
+      "邀請單位": "逢甲大學土木工程系碩士在職專班",
+      "演講日期": "2017-11"
+    },
+    {
+      "演講題目": "適地性服務(LBS)於休閒產業之應用",
+      "邀請單位": "台灣首府大學休閒資訊管理學系",
+      "演講日期": "2016-03"
+    },
+    {
+      "演講題目": "空間資訊技術於土木及防災之應用",
+      "邀請單位": "淡江大學土木工程研究所",
+      "演講日期": "2015-10"
+    },
+    {
+      "演講題目": "智慧城市下的永續運輸策略",
+      "邀請單位": "逢甲大學運輸科技與管理學系",
+      "演講日期": "2014-07"
+    },
+    {
+      "演講題目": "Geoinformatics for Disaster Prediction & Prevention",
+      "邀請單位": "台北科技大學土木與防災研究所",
+      "演講日期": "2014-05"
+    },
+    {
+      "演講題目": "A Use Case of GeoSMS for Taxi Pooling in Taiwan",
+      "邀請單位": "Open Geospatial Consortium (OGC)",
+      "演講日期": "2011-11"
+    },
+    {
+      "演講題目": "Improving efficiency and safety of freight management through application of GNSS in Chinese Taipei",
+      "邀請單位": "Asia-Pacific Economic Cooperation (APEC)",
+      "演講日期": "2011-10"
+    },
+    {
+      "演講題目": "The Applications of OGC Standards on Transportation in Taiwan",
+      "邀請單位": "Open Geospatial Consortium (OGC)",
+      "演講日期": "2011-06"
+    },
+    {
+      "演講題目": "Decision Making for Commercial Fleet Companies",
+      "邀請單位": "Open Geospatial Consortium (OGC)",
+      "演講日期": "2011-03"
+    }
+  ],
+  "material": [],
+  "tal": []
+}

@@ -1,0 +1,654 @@
+{
+  "teacherId": "T00076",
+  "name": "李立鼎",
+  "mainUnit": "工程與科學學院",
+  "detailUnit": "材料科學與工程學系",
+  "skill": [
+    "高分子科學polymer science",
+    "高分子摻合體polymer blends",
+    "高分子物理與微奈米結構polymer physics and micro-/nano- structure",
+    "生物可分解與環境友善性高分子biodegradable and environmental friendly polymers",
+    "能源用光電共軛高分子conjugated polymers for energy end-use"
+  ],
+  "edu": [
+    "國立成功大學 化學工程系 博士",
+    "國立成功大學 化學工程系 碩士",
+    "中原大學 化學工程系 學士"
+  ],
+  "fcuExp": [
+    "材料科學與工程學系 助理教授",
+    "材料科學與工程學系 副教授",
+    "材料科學與工程學系 副教授",
+    "材料科學與工程學系 副教授",
+    "材料科學與工程學系 教授"
+  ],
+  "currjob": [],
+  "otherExp": [
+    "日本京都大學 高分子化學系 博士後研究人員",
+    "陸軍官校 化學系 助教",
+    "德國漢堡大學 物理化學系 研究助理"
+  ],
+  "journal": [
+    {
+      "論文名稱": "Nano-Assembly Architectures and Structural Iridescence in Poly(3-hydroxybutyric acid-co-3-hydroxyvaleric)",
+      "期刊名稱": "ACS Applied Polymer Materials (SCIE)",
+      "作者群": "Widyantari Rahmayanti, Selvaraj Nagarajan, Chean-Cheng Su,*  Siti Nurkhamidah, Li-Ting Lee,* and Eamor M. Woo*"
+    },
+    {
+      "論文名稱": "Universality in interior periodic assembly of banded D-(−)-poly(3-hydroxybutyrate) justified with the iridescence test",
+      "期刊名稱": "Crystengcomm (SCIE)",
+      "作者群": "Tzu-Ching Chuang, Selvaraj Nagarajan, Chean-Cheng Su, Li-Ting Lee* and Eamor M. Woo*"
+    },
+    {
+      "論文名稱": "Microbeam X-ray Reanalysis on Periodically Assembled Poly(\f\f\fbeta-Hydroxybutyric acid-Co-beta-hydroxyvaleric acid) Tailored with Diluents",
+      "期刊名稱": "Polymers (SCIE)",
+      "作者群": "Chun-Ning Wu, Selvaraj Nagarajan,* Li-Ting Lee, Chean-Cheng Su and Eamor M. Woo*"
+    },
+    {
+      "論文名稱": "Applications of polymer coatings consisting of 9,9′-(4,4′-sulfonylbis(4,1-phenylene))biscarbazole and thiophene derivatives in electrochromic devices",
+      "期刊名稱": "Progress in Organic Coatings (SCIE)",
+      "作者群": "Chung-Wen Kuo, Shu-Chien Fan, Jui-Cheng Chang, Jeng-Kuei Chang, Li-Ting Lee, Pei-Ying Lee, Tzi-Yi Wu*"
+    },
+    {
+      "論文名稱": "Iridescence from tuned microstructures in poly(octamethylene terephthalate)",
+      "期刊名稱": "Express Polymer Letters (SCIE)",
+      "作者群": "Yu-Zhe Huang, Selvaraj Nagarajan, Widyantari Rahmyanti, Li-Ting Lee, Eamor M. Woo*"
+    },
+    {
+      "論文名稱": "Synthesis and multicolored electrochromism of polycarbazoles containing oxadiazole",
+      "期刊名稱": "Dyes and Pigments (SCIE)",
+      "作者群": "Tzi-Yi Wu,* Jui-Cheng Chang, Yuan-Chung Lin, Jia-En Chiang, Chen-Hao Yeh, Li-Ting Lee, Chung-Wen Kuo, Pei-Ying Lee"
+    },
+    {
+      "論文名稱": "Discussions on crystallization behaviors and physical properties of biodegradable poly(ethylene succinate) composites containing PCL-CD-IC",
+      "期刊名稱": "Journal of Polymer Research (SCIE)",
+      "作者群": "Li-Ting Lee,* Cheng-Yu Tsai, and Tzu-Yi Wu"
+    },
+    {
+      "論文名稱": "Crystal-by-Crystal Assembly in Two Types of Periodically Banded Aggregates of Poly(p-Dioxanone)",
+      "期刊名稱": "Polymers (SCIE)",
+      "作者群": "Kuan-Ying Huang, Yu-Zhe Huang, Li-Ting Lee, and Eamor M. Woo,*"
+    },
+    {
+      "論文名稱": "1,4-Bis((9H-Carbazol-9-yl)Methyl)Benzene-Containing Electrochromic Polymers as Potential Electrodes for High-Contrast Electrochromic Devices",
+      "期刊名稱": "Polymers (SCIE)",
+      "作者群": "Chung-Wen Kuo, Jui-Cheng Chang, Li-Ting Lee, Yi-Dong Lin, Pei-Ying Lee, Tzi-Yi Wu*"
+    },
+    {
+      "論文名稱": "SI ATRP for the Surface Modifications of Optically Transparent Paper Films Made by TEMPO-Oxidized Cellulose Nanofibers",
+      "期刊名稱": "Polymers (SCIE)",
+      "作者群": "Jem-Kun Chen, Hsiang-Ya Huang, Cheng-Wei Tu, Li-Ting Lee, Tongsai Jamnongkan,* Chih-Feng Huang*"
+    },
+    {
+      "論文名稱": "Electrosynthesis of Electrochromic Polymers Based on Bis-(4-(Ncarbazolyl) phenyl)-phenylphosphine Oxide and 3,4-Propylenedioxythiophene Derivatives and Studies of Their Applications in High Contrast Dual Type Electrochromic Devices",
+      "期刊名稱": "Journal of the Taiwan Institute of Chemical Engineers (SCIE)",
+      "作者群": "Chung-Wen Kuo, Jui-Cheng Chang, Li-Ting Lee, Jeng-Kuei Chang, Yu-Ting Huang, Pei-Ying Lee, Tzi-Yi Wu*"
+    },
+    {
+      "論文名稱": "Crystallization Behaviors of Composites Comprising Biodegradable Polyester and Functional Nucleation Agent",
+      "期刊名稱": "Crystals (SCIE)",
+      "作者群": "Li-Ting Lee,* Hsiang-Yun Tseng, Tzi-YiWu"
+    },
+    {
+      "論文名稱": "Enhancement of Crystallization Behaviors in Quaternary Composites Containing Biodegradable Polymer by Supramolecular Inclusion Complex",
+      "期刊名稱": "Crystals (SCIE)",
+      "作者群": "Li-Ting Lee,* Sheng-Ping He and Chih-Feng Huang"
+    },
+    {
+      "論文名稱": "Superior Crystallization kinetics Caused by the Remarkable Nucleation Effect of Graphene Oxide in Novel Ternary Biodegradable Polymer Composites",
+      "期刊名稱": "ACS Omega (SCIE)",
+      "作者群": "Li-Ting Lee* and Yong-Liang Ke"
+    },
+    {
+      "論文名稱": "Investigations on Novel Ternary Green Polymer Composite",
+      "期刊名稱": "Processes (SCIE)",
+      "作者群": "Ting-Chia Hsu, Li-Ting Lee * and Xin-Yun Wu"
+    },
+    {
+      "論文名稱": "Promoted crystallization kinetics of biodegradable poly(butylene succinate) by a nucleation agent of green chemical",
+      "期刊名稱": "Journal of Polymer Research (SCIE)",
+      "作者群": "Li-Ting Lee,* Chiao-Ying Hsu, and Sheng-Po Hung"
+    },
+    {
+      "論文名稱": "Applications of Copolymers Consisting of 2,6-di(9H-carbazol-9-yl)pyridine and 3,6-di(2-thienyl)carbazole Units as Electrodes in Electrochromic Devices",
+      "期刊名稱": "Materials (SCIE)",
+      "作者群": "Chung-Wen Kuo, Jui-Cheng Chang, Yu-Ting Huang, Jeng-Kuei Chang, Li-Ting Lee, and Tzi-Yi Wu*"
+    },
+    {
+      "論文名稱": "Isothermal and Nonisothermal Crystallization Kinetics of Poly(ɛ-caprolactone) Blended with a Novel Ionic Liquid, 1-Ethyl-3-propylimidazolium Bis(trifluoromethanesulfonyl)imide",
+      "期刊名稱": "Polymers (SCIE)",
+      "作者群": "Chun-Ting Yang, Li-Ting Lee*,  and Tzi-Yi Wu"
+    },
+    {
+      "論文名稱": "Electrochromic Devices Based on Poly(2,6-di(9Hcarbazol-9-yl)pyridine)-Type Polymer Films and PEDOT-PSS",
+      "期刊名稱": "Polymers (SCIE)",
+      "作者群": "Chung-Wen Kuo, Bo-Wei Wu, Jeng-Kuei Chang, Jui-Cheng Chang, Li-Ting Lee, Tzi-Yi Wu,* and Tsung-Han Ho"
+    },
+    {
+      "論文名稱": "Investigations on Green Blends Comprising Biodegradable Polymer and Ionic Liquid",
+      "期刊名稱": "Polymers (SCIE)",
+      "作者群": "Li-Ting Lee * and Chun-Ting Yang"
+    },
+    {
+      "論文名稱": "Studies of inherent mixing and physical properties for green polymer blends comprising natural polyphenol and biodegradable polymer with aliphatic-aromatic backbone",
+      "期刊名稱": "Journal of Polymer Research (SCIE)",
+      "作者群": "Li-Ting Lee,* Ming-Chien Wu, Chun-Ting Yang and Chi-Wen Li"
+    },
+    {
+      "論文名稱": "Ternary Miscibility with Specific Interactions in Novel Blends Comprising Biodegradable Polymers and a Natural Polyphenol",
+      "期刊名稱": "Journal of Polymer Research (SCIE)",
+      "作者群": "Li-Ting Lee,* Huie-Ru Chien and Chun-Ting Yang"
+    },
+    {
+      "論文名稱": "Distorted Ring-Banded Spherulites in Poly(L-lactic acid)/Poly(epslion-caprolactone) Blends",
+      "期刊名稱": "RSC Adv., (SCIE)",
+      "作者群": "Febryan Harmansyah, Eamor M. Woo, Li-Ting Lee,* Huie-Ru Chien"
+    },
+    {
+      "論文名稱": "\"Novel miscible blends of biodegradable polymer and biocompatible polyphenol acquired from natural source",
+      "期刊名稱": "J. Polym. Res. (SCIE)",
+      "作者群": "Li-Ting Lee,* Ming-Chien Wu, and Ming-Hsiu Lee"
+    },
+    {
+      "論文名稱": "Phase compatibilization through chemical exchange reactions in blends of copolyesters with poly(hydroxyether of bisphenol A) upon annealing",
+      "期刊名稱": "Ind. Eng. Chem. Res (SCIE)",
+      "作者群": "Chean-Cheng Su,* Shiang-Ching Wang, Wan-Jing Chen, and Li-Ting Lee"
+    },
+    {
+      "論文名稱": "Development of highly conductive nanodomains in poly(3-hexylthiophene) films studied by conductive atomic force microscopy",
+      "期刊名稱": "Polymer (SCIE)",
+      "作者群": "Miki Osaka, Hiroaki Benten,* Li-Ting Lee, Hideo Ohkita, and Shinzaburo Ito"
+    },
+    {
+      "論文名稱": "Development of polymer blend solar cells composed of conjugated donor and acceptor polymers",
+      "期刊名稱": "J. Photopolym Sci. Technol. (SCIE)",
+      "作者群": "Shinzaburo Ito, Toshiaki Hirata, Daisuke Mori,Hiroaki Benten,Li-Ting Lee,* and Hideo Ohkita"
+    },
+    {
+      "論文名稱": "Macro- and micro-lamellar assembly and mechanisms for unusual large-pitch banding in poly(L-lactic acid)",
+      "期刊名稱": "Polymer (SCIE)",
+      "作者群": "Li-Ting Lee,* Eamor M Woo,* and Ya-Ting Hsieh"
+    },
+    {
+      "論文名稱": "Current Mode Atomic Force Microscopy (C-AFM) Study for Local Electrical Characterization of Conjugated Polymer Blends",
+      "期刊名稱": "AMBIO (SCIE)",
+      "作者群": "Li-Ting Lee,* Shinzaburo Ito, Hiroaki Benten, Hideo Ohkita, and Daisuke Mori"
+    },
+    {
+      "論文名稱": "Characterization of Surface Compositions of Phase-Separated Structures in Conjugated Poly(phenylene vinylene) Blends by Scanning Near-Field Optical Microscopy",
+      "期刊名稱": "Polymer (SCIE)",
+      "作者群": "Li-Ting Lee, Toru Ube, Hiroyuki Aoki,* Shinzaburo Ito"
+    },
+    {
+      "論文名稱": "Phase Behavior and Interactions in Blends of Poly[(butylene adipate)-co-poly(butylene terephthalate)] Copolyester with Poly(4-vinyl phenol)",
+      "期刊名稱": "Colloid Polym. Sci. (SCIE)",
+      "作者群": "Li-Ting Lee, E. M. Woo,* Wei-Ting Chen, Ling Chang, and Kai-Cheng Yen"
+    },
+    {
+      "論文名稱": "Atomic-Force Microscopy Characterization and Interpretation on Thin-Film Poly(butylene adipate) Spherulites with Ring Bands",
+      "期刊名稱": "Macromol. Rapid Commun. (SCIE)",
+      "作者群": "Andreas Fromsdorf, E. M. Woo,* Li-Ting Lee, Yu-Fan Chen, and Stephan Forster,*"
+    },
+    {
+      "論文名稱": "Highly Ordered Nanostructured Surfaces Obtained with Silica-Filled Diblock-Copolymer Micelles as Templates",
+      "期刊名稱": "Small (SCIE)",
+      "作者群": "Andreas Fromsdorf,* Andreas Kornowski, Sabine Putter, Holger Stillrich, and Li-Ting Lee,"
+    },
+    {
+      "論文名稱": "Miscibility with Positive Deviation in Tg-Composition Relationship in Blends of Poly(2-vinyl pyridine)-block-poly(ethylene oxide) and Poly(p-vinyl phenol)",
+      "期刊名稱": "Polymer (SCIE)",
+      "作者群": "Li-Ting Lee, E. M. Woo,* S.S. Hou and S. Forster,"
+    },
+    {
+      "論文名稱": "A Comparative Study on Transreactions Induced Phase Changes in Blends of Poly(trimethylene terephthalate) and Poly(ethylene naphthalate) upon Annealing",
+      "期刊名稱": "Colloid Polym. Sci. (SCIE)",
+      "作者群": "D.H. Haung, E.M. Woo* and Li-Ting Lee,"
+    },
+    {
+      "論文名稱": "Thermal and Spectroscopy Studies on Ternary Miscibility and Phase Behavior in Blends Comprising Poly(4-vinyl phenol) and Two Aryl Polyesters",
+      "期刊名稱": "J. Polym. Sci. Pt. B-Polym. Phys. (SCIE)",
+      "作者群": "Li-Ting Lee and E.M. Woo,*"
+    },
+    {
+      "論文名稱": "Thermal and NMR Characterization on Trans-esterification-induced Phase Changes in Blends of Poly (ethylene-2,6-naphthalate) with Poly(pentylene terephthalate)",
+      "期刊名稱": "Polymer (SCIE)",
+      "作者群": "E.M. Woo,* S. S. Hou,* D. H. Huang and Li-Ting Lee,"
+    },
+    {
+      "論文名稱": "Characterization and Analyses on Complex Melting, Polymorphism, and Crystal phases in Melt-crystallized Poly(hexamethylene terephthalate)",
+      "期刊名稱": "Macromolecules (SCIE)",
+      "作者群": "A.K. Ghosh, E.M. Woo,* Y.S. Sun, Li-Ting Lee and M.C. Wu,"
+    },
+    {
+      "論文名稱": "Reaction-Induced Miscibility in Blends Comprised of Bisphenol-A Polycarbonate and Poly(trimethylene terephthalate)",
+      "期刊名稱": "Colloid Polym. Sci. (SCIE)",
+      "作者群": "Li-Ting Lee and E.M. Woo"
+    },
+    {
+      "論文名稱": "Miscible Blends of Poly(4-vinyl phenol)/Poly(trimethylene terephthalate)",
+      "期刊名稱": "Polym. Int. (SCIE)",
+      "作者群": "Li-Ting Lee and E.M. Woo,*"
+    },
+    {
+      "論文名稱": "A Novel Quaternary Blend System of Poly(ethylene terephthalate), Poly(trimethylene terephthalate), Poly(butylene terephthalate), and Poly(ether imide)",
+      "期刊名稱": "Polym. Bull. (SCIE)",
+      "作者群": "E.M. Woo* and Li-Ting Lee"
+    },
+    {
+      "論文名稱": "Experimental Verification on Upper Critical Solution Temperature (UCST) Behavior in Blend of Poly(2,6-dimethyl p-phenylene oxide) with Poly(4-methyl styrene)",
+      "期刊名稱": "Polymer (SCIE)",
+      "作者群": "E.M. Woo,* I.-C. Chou and Li-Ting Lee,"
+    }
+  ],
+  "journal2": [],
+  "conference": [
+    {
+      "論文名稱": "MULTINARY BIODEGRADABLE POLYMER COMPOSITES WITH SUPERMOLECULAR INCLUSION COMPLEX OF CYCLODEXTRIN",
+      "會議名稱": "Polymer Engineering and Science International (PESI) Conference 2024",
+      "作者群": "Yen-Hsi Lin, Yu-Kai Chou, Shu-Yu Chou and Li-Ting Lee*"
+    },
+    {
+      "論文名稱": "Discussions on Physical Properties of Novel Biodegradable Polymer Composites with Metal-Organic Frameworks Compounds and Prospective Applications of Membrane",
+      "會議名稱": "2024 International Conference of Membrane and Chitosan Materials in Taiwan (2024 ICMCMT)",
+      "作者群": "Shu-Yu Chou, Kai-Xiang Kao, Chiao-Yu Tsai, and Li-Ting Lee"
+    },
+    {
+      "論文名稱": "Promoted Crystallization in Ternary Biodegradable Polymer Composites with Green Inclusion Complex",
+      "會議名稱": "2024中華民國高分子學會年會",
+      "作者群": "Yen-Hsi Lin, Yu-Kai Chou, and Li-Ting Lee*"
+    },
+    {
+      "論文名稱": "Investigations on Biodegradable Aliphatic Poly(ethylene azelate) Composites with Stereocomplex",
+      "會議名稱": "2024中華民國高分子學會年會",
+      "作者群": "Wei-Jung Chen, Chao-Ming Yang, and Li-Ting Lee*"
+    },
+    {
+      "論文名稱": "Crystallization in Biodegradable Polymer Composites with the Presence of Green Inclusion Complex and Functional Filler",
+      "會議名稱": "2024中華民國高分子學會年會",
+      "作者群": "Shu-Yu Chou, Cheng-Yu Tsai, Kai-Xiang Kao, Chiao-Yu Tsai, and Li-Ting Lee*"
+    },
+    {
+      "論文名稱": "Discussions on Crystallization of Multi-component Biodegradable Polymer Composites and Influence of Polymeric Inclusion Complex on Crystallization Kinetics",
+      "會議名稱": "2023中華民國高分子學會年會",
+      "作者群": "Yi-Ying Li, Sheng-Ping He, and Li-Ting Lee*"
+    },
+    {
+      "論文名稱": "Green Multinary Composites of Biodegradable Poly (butylene succinate): Non-isothermal Crystallization and Its Kinetic Study",
+      "會議名稱": "2023中華民國高分子學會年會",
+      "作者群": "Yi-Jhen Mo, Chiao-Ying Hsu, and Li-Ting Lee*"
+    },
+    {
+      "論文名稱": "Discussions on Crystallization Behaviors of Novel Multi-component Biodegradable Polymer Composites",
+      "會議名稱": "2023中華民國高分子學會年會",
+      "作者群": "Li-Ting Lee*"
+    },
+    {
+      "論文名稱": "Studies of the Crystallization kinetics of Biodegradable Polymers in Their Novel Blends and Composites",
+      "會議名稱": "2022中華民國高分子學會年會",
+      "作者群": "Li-Ting Lee*"
+    },
+    {
+      "論文名稱": "四成分含生物可分解高分子與功能性填料複合材料結晶特性之探討",
+      "會議名稱": "2022中華民國高分子學會年會",
+      "作者群": "趙柏安, 周郁凱, 楊朝銘, 蔡丞昱, 李立鼎*"
+    },
+    {
+      "論文名稱": "Ternary Composites of Biodegradable Polymer and Functional Filler with Preferable Crystallization Kinetics",
+      "會議名稱": "2022中華民國高分子學會年會",
+      "作者群": "Yi-Ying Li, Yi-Jhen Mo, Cheng-Yu Tsai, Hsiang-Yun Tseng, and Li-Ting Lee*"
+    },
+    {
+      "論文名稱": "Crystallization and Physical Properties of Novel Blends and Composites Containing Biodegradable Polymers",
+      "會議名稱": "Korea-Taiwan Joint Symposium: Emerging Technology in Polymer Science and Engineering, Fall Meeting of PSK",
+      "作者群": "Li-Ting Lee*"
+    },
+    {
+      "論文名稱": "Discussions on non-isothermal crystallization of ternary biodegradable polymer composites\nin the presence of functional nucleation agent",
+      "會議名稱": "Polymer Engineering and Science International Conference 2021",
+      "作者群": "C.-Y. Tsai, Y.-C. Tung, H.-Y. Tseng, and Li-Ting Lee*"
+    },
+    {
+      "論文名稱": "Studies of Isothermal Crystallization Behaviors in Ternary Biodegradable Polymer Composite Comprising Hexagonal Boron Nitride",
+      "會議名稱": "The 6th Federation of Asian Polymer Societies Polymer Congress (FAPS 2019)",
+      "作者群": "T.-C. Hsu, H.-Y. Tseng, S.-P. He, Li-Ting Lee*"
+    },
+    {
+      "論文名稱": "Crystallization Behaviors in Multinary Biodegradable Polymer Composite Comprising Green Nucleation Agent",
+      "會議名稱": "The 6th Federation of Asian Polymer Societies Polymer Congress (FAPS 2019)",
+      "作者群": "C.-Y. Hsu, S.-P. He, H.-Y. Tseng, Li-Ting Lee*"
+    },
+    {
+      "論文名稱": "Novel Blends and Composites of Biodegradable Polymer: Investigations on Crystallization and Physical Properties",
+      "會議名稱": "The 6th Federation of Asian Polymer Societies Polymer Congress (FAPS 2019)",
+      "作者群": "Li-Ting Lee*"
+    },
+    {
+      "論文名稱": "Studies of environmental friendly composite comprising biodegradable polymer and aminated graphene",
+      "會議名稱": "Sixth International Symposium Frontiers in Polymer Science",
+      "作者群": "Li-Ting Lee,* T.-Y. Lin, C.-Y. Hsu, T.-C. Hsu"
+    },
+    {
+      "論文名稱": "Effect of Functional Nucleation Agent on the Crystallization Behaviors of Poly(L-lactic acid)",
+      "會議名稱": "第42屆高分子年會",
+      "作者群": "Ting-Chia Hsu, Chiao-Ying Hsu, Li-Ting Lee,* Sheng-Ping He, Hsiang-Yun Tseng"
+    },
+    {
+      "論文名稱": "Effect of Green Nucleation Agent on Isothermal Crystallization Behaviors of Biodegradable Poly(butylene succinate)",
+      "會議名稱": "第42屆高分子年會",
+      "作者群": "Chiao-Ying Hsu, Ting-Chia Hsu, Li-Ting Lee*, Hsiang-Yun Tseng, Sheng-Ping He"
+    },
+    {
+      "論文名稱": "Discussions on Isothermal Crystallization Behaviors of Biodegradable Polymer Composites Comprising Poly(butylene succinate) and Green Nucleation Agent",
+      "會議名稱": "34th International Conference of the Polymer Processing Society",
+      "作者群": "Chiao-Ying Hsu, Ting-Chia Hsu, Li-Ting Lee*"
+    },
+    {
+      "論文名稱": "Investigations on Crystallization Behaviors of Biodegradable Polymer Composite Comprising Poly(L-lactic acid) and Functional Nucleation Agent",
+      "會議名稱": "34th International Conference of the Polymer Processing Society",
+      "作者群": "Ting-Chia Hsu, Chiao-Ying Hsu, Li-Ting Lee*"
+    },
+    {
+      "論文名稱": "Investigation on Functional Environmental Friendly Composite Comprising Biodegradable Polymer and Graphene Oxide",
+      "會議名稱": "The 8th International Congress on Engineering and Information",
+      "作者群": "Li-Ting Lee*, Tsung-Ying Lin, Yong-Lang Ke"
+    },
+    {
+      "論文名稱": "含聚己二酸乙二酯之生物可分解高分子綠色多元複合材料恆溫結晶特性之研究",
+      "會議名稱": "41屆高分子年會",
+      "作者群": "廖紫淳, 李立鼎*"
+    },
+    {
+      "論文名稱": "多成分含聚丁二酸乙二醇酯之新型高分子複合材料結晶特性之探討\r\n",
+      "會議名稱": "41屆高分子年會",
+      "作者群": "柯永莨、李立鼎*"
+    },
+    {
+      "論文名稱": "新型含生物可分解聚壬二酸乙二酯與氧化石墨烯之高分子複合材料恆溫結晶特性之探討\r\n",
+      "會議名稱": "41屆高分子年會",
+      "作者群": "林聰穎, 許庭嘉, 柯永莨, 李立鼎*, 葉杰"
+    },
+    {
+      "論文名稱": "新穎含聚己二酸乙二酯之生物可分解高分子複合材料恆溫結晶特性之研究\r\n",
+      "會議名稱": "41屆高分子年會",
+      "作者群": "陳思涵,許巧穎,廖紫淳,李立鼎*,張繼齊"
+    },
+    {
+      "論文名稱": "Potential green materials blends of green ionic liquid and water-soluble polymer",
+      "會議名稱": "2nd Green and Sustainable Chemistry Conference",
+      "作者群": "Li-Ting Lee,* Chun-Ting Yang, Tzi-Yi Wu, Szu-Han Chen"
+    },
+    {
+      "論文名稱": "Eco-friendly Blends of Polymer and Ionic liquid",
+      "會議名稱": "2017 International Congress on Chemical, Biological and Environmental Sciences  (ICCBES 2017)",
+      "作者群": "Li-Ting Lee,* Chun-Ting Yang"
+    },
+    {
+      "論文名稱": "Investigations on Eco-friendly Polymer Blends Comprising Biodegradable Polymer and Ionic Liquid",
+      "會議名稱": "40屆高分子年會",
+      "作者群": "Chun-Ting Yang, Szu-Han Chen, Li-Ting Lee,* Tzi-Yi Wu"
+    },
+    {
+      "論文名稱": "新穎含生物可分解高分子與多面體矽氧烷寡聚物複合材料非恆溫結晶特性之研究",
+      "會議名稱": "40屆高分子年會",
+      "作者群": "陳思涵、廖紫淳、李立鼎*"
+    },
+    {
+      "論文名稱": "新穎含生物可分解聚己二酸亞乙基酯與氧化石墨烯之高分子複合材料非恆溫結晶特性之探討",
+      "會議名稱": "40屆高分子年會",
+      "作者群": "林聰穎、柯永莨、李立鼎*"
+    },
+    {
+      "論文名稱": "含聚己二酸亞乙基酯之綠色高分子摻合體非恆溫結晶特性之研究",
+      "會議名稱": "40屆高分子年會",
+      "作者群": "簡彗如、林聰穎、李立鼎*、柯永莨"
+    },
+    {
+      "論文名稱": "先端具綠色離子液體與生物可分解高分子摻合體中分子間作用力與離子液體對生物可分解高分子物性影響之探討",
+      "會議名稱": "40屆高分子年會",
+      "作者群": "李立鼎*"
+    },
+    {
+      "論文名稱": "Novel Ternery Blends with Chemically Hydrogen-bonding Interactions",
+      "會議名稱": "The 23rd  IUPAC Conference on Physical Organic Chemistry (ICPOC23)",
+      "作者群": "Li-Ting Lee,* Huie-Ru Chien, Chun-Ting Yang"
+    },
+    {
+      "論文名稱": "Novel Functional Blends with Ternary Miscibility : Blends of Green Materials Comprising Two Biodegradable Polymers and a Natural Polyphenol",
+      "會議名稱": "2016年功能性材料研討會暨科技部專題研究計畫成果發表會論文發表競賽",
+      "作者群": "Chun-Ting Yang, Huie-Ru Chien, Li-Ting Lee*"
+    },
+    {
+      "論文名稱": "Eco-friendly Polymer Blends of Ionic Liquid and Water-soluble Polymer",
+      "會議名稱": "2016年功能性材料研討會暨科技部專題研究計畫成果發表會論文發表競賽",
+      "作者群": "Chun-Ting Yang, Szu-Han Chen,  Li-Ting Lee,* Tzi-Yi Wu"
+    },
+    {
+      "論文名稱": "A Novel Ternary blend system comprising biodegradable polymers and a natural polyphenol",
+      "會議名稱": "39屆高分子年會",
+      "作者群": "Huie-Ru Chien, Li-Ting Lee,* Chun-Ting Yang, Tsung-Ying Lin"
+    },
+    {
+      "論文名稱": "環境友善性綠色高分子摻合體之研究:含天然多酚類摻合體之相容性、分子間作用力、結晶行為與熔融現象之探討",
+      "會議名稱": "39屆高分子年會",
+      "作者群": "李季紋,李立鼎,* 洪子惠, 陳思涵"
+    },
+    {
+      "論文名稱": "Novel Miscible Blends of Biodegradable Polymer and Natural Polyphenol",
+      "會議名稱": "The 5th International Conference on Bio-based Polymers (ICBP2015)",
+      "作者群": "Li-Ting Lee*, Ming-Chien Wu, Huie-Ru Chien, Chi-Wen Li"
+    },
+    {
+      "論文名稱": "Eco-friendly Polymer Blends of Natural Polyphenol and Biodegradable Polymer: Study on Crystallization Behaviors",
+      "會議名稱": "38屆高分子年會",
+      "作者群": "簡彗如,李立鼎*,楊君婷,李明修"
+    },
+    {
+      "論文名稱": "多成份綠色高分子摻合體複雜相行為、相容性與進階物性之研究",
+      "會議名稱": "38屆高分子年會",
+      "作者群": "李立鼎*"
+    },
+    {
+      "論文名稱": "環境友善性多酚/生物可分解高分子摻合體非恆溫結晶特性之研究",
+      "會議名稱": "38屆高分子年會",
+      "作者群": "李季紋,李立鼎*,洪子惠,吳明謙"
+    },
+    {
+      "論文名稱": "Investigations on Thermal and Crystallization Behaviors in Blends of Natural Polyphenol and Biodegradable Polymer Blends",
+      "會議名稱": "2014 Macro",
+      "作者群": "Li-Ting Lee,* Ming-Chien Wu, Ming-Hsiu Lee and Chun-Ting Yang"
+    },
+    {
+      "論文名稱": "單寧酸/生物可分解性脂肪族-芳香族共聚酯摻合體結晶特性之研究",
+      "會議名稱": "37屆高分子年會",
+      "作者群": "李明修,李立鼎*,楊君婷"
+    },
+    {
+      "論文名稱": "環境友善性天然多酚/生物可分解高分子摻合體之探討",
+      "會議名稱": "37屆高分子年會",
+      "作者群": "李立鼎*,簡彗如,李季紋"
+    },
+    {
+      "論文名稱": "Phase Morphology and Miscibility of Natural Polyphenol/Biodegradable Polymer Blends",
+      "會議名稱": "The 13th Pacific Polymer Conference",
+      "作者群": "Li-Ting Lee*,Ming-Chien Wu, Ming-Hsiu Lee and Chun-Ting Yang"
+    },
+    {
+      "論文名稱": "單寧酸/生物可分解性脂肪族-芳香族共聚酯摻合體相容性之研究",
+      "會議名稱": "36屆高分子年會",
+      "作者群": "吳明謙、李立鼎*、楊君婷、李明修"
+    },
+    {
+      "論文名稱": "Study of the Phase Separation in Conjugated Polymer Blends by AFM with Current Mode Detection",
+      "會議名稱": "IUPAC 8th International Conference on Novel Materials and Synthesis (NMS-VIII) & 22nd International Symposium on Fine Chemistry and Functional Polymers (FCFP-XXII)",
+      "作者群": "Li-Ting Lee,* Shinzaburo Ito, Hiroaki Benten,* Hideo Ohkita,* Daisuke Mori, and Ming-Chien Wu"
+    },
+    {
+      "論文名稱": "Characterizations for Conjugated Polymer Blends by Current Mode Atomic Force Microscopy (C-AFM)",
+      "會議名稱": "35屆高分子年會",
+      "作者群": "Li-Ting Lee,* Shinzaburo Ito, Hiroaki Benten, Hideo Ohkita, Daisuke Mori, and Ming-Chien Wu"
+    }
+  ],
+  "book": [],
+  "patent": [],
+  "most": [
+    {
+      "name": "多元含功能型金屬有機框架化合物填料生物可分解高分子複合材料之研究與開發(1/3)",
+      "schoolYear": "113"
+    },
+    {
+      "name": "多元型綠色環境友善性複合材料系統之研究:物性、結晶多重促進效應之最適化與相關功能性之探討",
+      "schoolYear": "112"
+    },
+    {
+      "name": "多成分含功能性添加材生物可分解高分子複合材料之研究",
+      "schoolYear": "111"
+    },
+    {
+      "name": "綠色含生物可分解高分子與高分子包合物多元複合材料之探討",
+      "schoolYear": "110"
+    },
+    {
+      "name": "新穎含超分子結構化合物與生物可分解高分子複合材料之探索：複合材料物性與功能性之研究",
+      "schoolYear": "109"
+    },
+    {
+      "name": "新穎多元含生物可分解高分子與功能性填料複合材料系統之研究與複合材料結晶特性之探討",
+      "schoolYear": "108"
+    },
+    {
+      "name": "先端多元生物可分解高分子複合材料系統之開發與研究: 含功能性成核劑與綠色塑化材之功能性生物可分解高分子複合材料物性之探討",
+      "schoolYear": "107"
+    },
+    {
+      "name": "先端三元生物可分解高分子/功能性奈米材料/綠色材料複合材料之開發與探討",
+      "schoolYear": "106"
+    },
+    {
+      "name": "先端具綠色離子液體與生物可分解高分子摻合體中分子間作用力與離子液體對生物可分解高分子物性影響之探討",
+      "schoolYear": "105"
+    },
+    {
+      "name": "新穎含綠色離子液體與生物可分解高分子摻合體之研究",
+      "schoolYear": "104"
+    },
+    {
+      "name": "多成份綠色高分子摻合體複雜相行為、相容性與進階物性之研究",
+      "schoolYear": "103"
+    },
+    {
+      "name": "環境友善性綠色高分子摻合體之研究: 含天然多酚類摻合體之相容性、分子間作用力、結晶行為與熔融現象之探討",
+      "schoolYear": "102"
+    },
+    {
+      "name": "環境友善性生物可分解高分子摻合體之探討：相容性、物性、分子間作用力與薄膜結構之生成機制",
+      "schoolYear": "100"
+    }
+  ],
+  "tech": [],
+  "induAca": [],
+  "perform": [],
+  "reward": [
+    "113年度國科會補助大專校院研究獎勵 (113, 2024-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (113, 2024-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (113, 2024-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (113, 2024-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (113, 2024-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優等獎 (113, 2024-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (113, 2024-11) - 逢甲大學",
+    "Polymer Engineering and Science International (PESI) Conference 2024, PESI 2024 最佳海報論文獎 (112, 2024-07) - 日本東京工業大學",
+    "2024 International Conference of Membrane and Chitosan Materials in Taiwan, 2024 ICMCMT 海報論文競賽銅牌獎 (112, 2024-07) - 國立台灣科技大學應用科技研究所",
+    "2024中華民國高分子學會年會海報論文競賽佳作獎 (112, 2024-01) - 國立成功大學化工系",
+    "112年度國科會補助大專校院研究獎勵 (112, 2023-12) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (111, 2022-11) - 逢甲大學",
+    "111年度國科會補助大專校院研究獎勵 (111, 2022-10) - 研究發展處",
+    "國立成功大學優秀青年校友 (110, 2022-04) - 國立成功大學",
+    "逢甲大學論文著作獎勵傑出獎 (110, 2021-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (110, 2021-11) - 逢甲大學",
+    "110年度科技部補助大專校院研究獎勵 (110, 2021-10) - 產學合作處",
+    "Polymer Engineering and Science International Conference 2021, PESI 2021 最佳海報發表獎 (109, 2021-05) - 長庚大學",
+    "逢甲大學論文著作獎勵傑出獎 (109, 2020-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (109, 2020-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (109, 2020-11) - 逢甲大學",
+    "109年度科技部補助大專校院研究獎勵 (109, 2020-10) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (108, 2019-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (108, 2019-11) - 逢甲大學",
+    "108學年度科技部補助大專校院研究獎勵 (108, 2019-09) - 逢甲大學",
+    "107年度科技部補助大專校院研究獎勵 (107, 2018-08) - 逢甲大學",
+    "Best Poster Award of 34th International Conference of the Polymer Processing Society (106, 2018-05) - The Polymer Processing Society",
+    "逢甲大學論文著作獎勵傑出獎 (106, 2017-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (106, 2017-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (106, 2017-11) - 逢甲大學",
+    "2017年功能性材料研討會暨科技部專題研究計畫成果發表會壁報論文發表競賽佳作 (105, 2017-06) - 南臺科技大學",
+    "2017年功能性材料研討會暨科技部專題研究計畫成果發表會壁報論文發表競賽佳作 (105, 2017-06) - 南臺科技大學",
+    "2017中華民國高分子學會年會壁報論文競賽佳作獎 (105, 2017-01) - 國立中興大學化工系",
+    "康寧創星家創新應用競賽佳作獎 (105, 2016-12) - 台灣康寧",
+    "2016年度 海外學友會推薦扶輪米山訪問研究員獎勵 (105, 2016-08) - 中華民國扶輪米山會",
+    "2016年功能性材料研討會暨科技部專題研究計畫成果發表會論文發表競賽第三名 (104, 2016-06) - 南臺科技大學化工與材料系",
+    "2016年功能性材料研討會暨科技部專題研究計畫成果發表會論文發表競賽第二名 (104, 2016-06) - 南臺科技大學化工與材料系",
+    "逢甲大學論文著作獎勵傑出獎 (104, 2015-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (103, 2014-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (103, 2014-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (103, 2014-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (103, 2014-11) - 逢甲大學",
+    "2014中華民國高分子學會年會壁報論文競賽佳作獎 (102, 2014-01) - 東海大學化材系",
+    "逢甲大學論文著作獎勵傑出獎 (102, 2013-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (102, 2013-11) - 逢甲大學"
+  ],
+  "speech": [
+    {
+      "演講題目": "Novel Functional Polymers and Related Multicomponent Systems",
+      "邀請單位": "國立台灣大學高分子所",
+      "演講日期": "2020-03"
+    },
+    {
+      "演講題目": "Investigations on Novel Functional Polymers and Relevant Multi-component Systems",
+      "邀請單位": "國立成功大學化工系",
+      "演講日期": "2018-09"
+    },
+    {
+      "演講題目": "綠色科技與綠色生物可分解高分子",
+      "邀請單位": "國立雲林科技大學工學院化工系",
+      "演講日期": "2018-03"
+    },
+    {
+      "演講題目": "Investigations on Functional Polymers Blends Comprising Biodegradable Polymers and Conjugated Polymers",
+      "邀請單位": "國立台南大學綠色能源科技學系",
+      "演講日期": "2017-10"
+    },
+    {
+      "演講題目": "Investigations on Functional Polymers Blends",
+      "邀請單位": "Nara Institute of Science and Technology (Japan, 日本)",
+      "演講日期": "2017-04"
+    },
+    {
+      "演講題目": "功能性高分子摻合體 (Polymer Blends Comprising Functional Polymers)",
+      "邀請單位": "元智大學化學工程與材料科學學系",
+      "演講日期": "2015-10"
+    },
+    {
+      "演講題目": "多成分功能性高分子系統之研究(Investigations on Multi-component Systems Comprising Functional Polymers)",
+      "邀請單位": "國立中山大學材料與光電科學學系",
+      "演講日期": "2015-06"
+    },
+    {
+      "演講題目": "功能性高分子摻合體之研究",
+      "邀請單位": "國立中興大學工學院",
+      "演講日期": "2014-12"
+    },
+    {
+      "演講題目": "生物可分解性高分子材料與綠色科技",
+      "邀請單位": "國立雲林科技大學工學院化工系",
+      "演講日期": "2014-03"
+    },
+    {
+      "演講題目": "漫談環境友善性生物可分解高分子與綠色科技",
+      "邀請單位": "國立雲林科技大學工學院化工系",
+      "演講日期": "2013-04"
+    }
+  ],
+  "material": [],
+  "tal": []
+}

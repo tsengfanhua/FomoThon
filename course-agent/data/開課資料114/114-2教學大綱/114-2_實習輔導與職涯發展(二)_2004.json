@@ -1,0 +1,654 @@
+{
+  "success": true,
+  "info": {
+    "yms_year": 114.0,
+    "yms_smester": 2.0,
+    "sub_id": "67169",
+    "cls_id": "CI00101",
+    "scr_dup": "002",
+    "sub_id3": "IEE4937",
+    "cls_name": "資電學院綜合班",
+    "cls_ename": "College of Information and Electrical Engineering",
+    "sub_name": "實習輔導與職涯發展(二)",
+    "sub_ename": "INTERNSHIP ADVISING AND CAREER DEVELOPMENT (2)",
+    "scr_mso": "選修",
+    "scr_mso_en": "Elective",
+    "scr_credit": 1.0,
+    "scr_periodly": "(一)00     (二)00",
+    "scr_periodly_eng": "(Mon)00     (Tue)00",
+    "lang_name": "中文                                                      ",
+    "lang_ename": "Chinese",
+    "scr_room": "待排",
+    "scr_room_eng": "TBD",
+    "scr_teacher": "陳俊雄",
+    "scr_teacher_eng": "Chun-Hsiung Chen",
+    "scr_selcode": "2004",
+    "scr_elearning": "全學期",
+    "scr_elearning_en": "Full semester",
+    "scr_hours": "2",
+    "scr_english": "N",
+    "unt_name": null,
+    "unt_ename": null,
+    "link_traminal": null,
+    "link_traminal_en": null,
+    "scr_ldl": "D",
+    "course_mk": "0",
+    "teams_mk": "Y",
+    "sub_title": null,
+    "sub_title_en": null,
+    "sub_describe": null,
+    "sub_describe_en": null,
+    "hasDescription": null,
+    "hasInstructor": null,
+    "hasTA": null,
+    "hasTextBooks": null,
+    "hasReadings": null,
+    "hasiSoftwares": null,
+    "hasAssistSoftwares": null,
+    "hasObjective": null,
+    "hasWeeklyScds": null,
+    "hasGradeRules": null,
+    "hasGradeRuleDescribe": null,
+    "hasIntegrity": null,
+    "hasCoursePol": null,
+    "hasCourseRem": null,
+    "hasObjectiveReleation": null,
+    "hasTopicSdgs": null,
+    "hasTopicAiIndicators": null,
+    "hasSubTitleDesc": null
+  },
+  "subTitleDesc": null,
+  "description": {
+    "sub_id3": null,
+    "sub_name": "實習輔導與職涯發展(二)",
+    "sub_ename": "INTERNSHIP ADVISING AND CAREER DEVELOPMENT (2)",
+    "describe_ch": "本課程搭配各學士班或研究所之專業實習課程，於學生實習期間，進行個人化實習與職涯輔導，關注實習生的實習安全與預防。引導實習生強化職場倫理與態度、實習之權利義務、性別平等、環境安全衛生等進階觀念，並能了解專業實習實務與職業生涯發展關聯性。與實習生建立聯繫管道，安排時間與實習生晤談，晤談內容得包含職涯規劃、職涯發展、職場不適應或職場倫理等議題，並關切實習適應情形。若遇到實習生身心問題時，得視狀況轉介至專業輔導人員協助之。",
+    "describe_eh": "This course is paired with an internship course for bachelor’s or graduate’s programs. Personalized advising is executed for internships and careers during the internship. Interns are concerned about the safety and prevention of internships. It also guides interns to strengthen advanced concepts such as workplace ethics and attitudes, rights and duties of internships, gender equality, or environmental, health and safety etc. They understand the relationship between professional practice and career development. To set up contact channels with interns, arrange time for interviews with interns, including career planning, career development, workplace incompatibility, or employment ethics and other issues. To care about internship adaptation. If the interns encounters physical and mental problems, depending on the situation, he or she may be referred to professional counselors for assistance.",
+    "pre_subname": "",
+    "pre_sub_id3": null,
+    "pre_sub_ename": "",
+    "pre_describe": null,
+    "pre_describe_en": null,
+    "scr_credit": 1.0
+  },
+  "targets": [
+    {
+      "seq": 1,
+      "describe_ch": "能務實地實行專業實習之重要。",
+      "describe_en": "To pragmatically implement the importance of the professional practical training."
+    },
+    {
+      "seq": 2,
+      "describe_ch": "能應用職涯理論於實務工作中。",
+      "describe_en": "To apply career theory in practical work."
+    },
+    {
+      "seq": 3,
+      "describe_ch": "能對生涯輔導研習進行評論。",
+      "describe_en": "To comment on career coaching studies."
+    }
+  ],
+  "teachersInfo": [
+    {
+      "cname": "陳俊雄",
+      "ename": "Chun-Hsiung Chen",
+      "period": " ",
+      "roletype": 0,
+      "email": "chchen.t10@o365.fcu.edu.tw",
+      "ext": null
+    }
+  ],
+  "textBooks": {
+    "yms_year": 114.0,
+    "yms_smester": 2.0,
+    "cls_id": "CI00101",
+    "sub_id": "67169",
+    "scr_dup": "002",
+    "tpb_seq": 1,
+    "tpb_book": "<div>本課程無使用教科書。 　　&nbsp;　　　　</div>\n",
+    "tpb_book_en": " "
+  },
+  "readings": {
+    "yms_year": 114.0,
+    "yms_smester": 2.0,
+    "cls_id": "CI00101",
+    "sub_id": "67169",
+    "scr_dup": "002",
+    "tpc_seq": 1,
+    "tpc_book": "<div>本課程無使用教科書。</div>\n",
+    "tpc_book_en": null
+  },
+  "iSoftwares": [],
+  "assistSoftwares": [],
+  "weeklyScds": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CI00101",
+      "sub_id": "67169",
+      "scr_dup": "002",
+      "tpd_seq": 0,
+      "tpd_week": "1",
+      "tpd_reading": "<div>學生實習共通性職前訓練課程-1.職業安全衛生與管理</div>\n",
+      "tpd_reading_en": " ",
+      "tpd_learn": "<div>觀看課程影片</div>\n\n<div>影片網址&nbsp;<a href=\"https://youtu.be/GNbw3h_IxrI\">https://youtu.be/GNbw3h_IxrI</a></div>\n",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": "觀看課程影片(公告於iLearn)",
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": 1.0,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CI00101",
+      "sub_id": "67169",
+      "scr_dup": "002",
+      "tpd_seq": 0,
+      "tpd_week": "2",
+      "tpd_reading": "<div>學生實習共通性職前訓練課程-2.求職安全相關法令瞭解</div>\n",
+      "tpd_reading_en": " ",
+      "tpd_learn": "<div>觀看課程影片</div>\n\n<div>影片網址 <a href=\"https://youtu.be/Vxk6mikpA88\">https://youtu.be/Vxk6mikpA88</a></div>\n",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": "觀看課程影片(公告於iLearn)",
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": 1.0,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CI00101",
+      "sub_id": "67169",
+      "scr_dup": "002",
+      "tpd_seq": 0,
+      "tpd_week": "3",
+      "tpd_reading": "<div>學生實習共通性職前訓練課程-3.性平與性騷擾防治</div>\n",
+      "tpd_reading_en": " ",
+      "tpd_learn": "<div>觀看課程影片</div>\n\n<div>影片網址 <a href=\"https://www.youtube.com/watch?v=PzZCiyzVB-c\">https://www.youtube.com/watch?v=PzZCiyzVB-c</a></div>\n",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": "觀看課程影片(公告於iLearn)",
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": 1.0,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CI00101",
+      "sub_id": "67169",
+      "scr_dup": "002",
+      "tpd_seq": 0,
+      "tpd_week": "4",
+      "tpd_reading": "<div>學生實習共通性職前訓練課程-4.時間管理與工作績效改善</div>\n",
+      "tpd_reading_en": " ",
+      "tpd_learn": "<div>觀看課程影片</div>\n\n<div>影片網址 <a href=\"https://youtu.be/LTnYe0w_kQE\">https://youtu.be/LTnYe0w_kQE</a></div>\n",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": "觀看課程影片(公告於iLearn)",
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": 1.0,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CI00101",
+      "sub_id": "67169",
+      "scr_dup": "002",
+      "tpd_seq": 0,
+      "tpd_week": "5",
+      "tpd_reading": "<div>學生實習共通性職前訓練課程-5.保密協議落實影音教材</div>\n",
+      "tpd_reading_en": " ",
+      "tpd_learn": "<div>觀看課程影片</div>\n\n<div>影片網址 <a href=\"https://youtu.be/MfrlRxbh_p0\">https://youtu.be/MfrlRxbh_p0</a></div>\n\n<div>&nbsp;</div>\n",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": "觀看課程影片(公告於iLearn)",
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": 1.0,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CI00101",
+      "sub_id": "67169",
+      "scr_dup": "002",
+      "tpd_seq": 0,
+      "tpd_week": "6-17",
+      "tpd_reading": "<div>諮詢晤談</div>\n",
+      "tpd_reading_en": " ",
+      "tpd_learn": " ",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": 12.0,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CI00101",
+      "sub_id": "67169",
+      "scr_dup": "002",
+      "tpd_seq": 0,
+      "tpd_week": "18",
+      "tpd_reading": "<div>個人實習分享報告</div>\n",
+      "tpd_reading_en": " ",
+      "tpd_learn": " ",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": 1.0,
+      "tpd_week_en": null,
+      "mode": 0
+    }
+  ],
+  "gradeRules": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CI00101",
+      "sub_id": "67169",
+      "scr_dup": "002",
+      "evalb_id": "B1",
+      "score_rate": 80,
+      "evalb_memo": "每一位學生與教師至少晤談1次",
+      "evalb_memo_en": null,
+      "evalb_name": "個人訪談",
+      "evalb_name_en": "Individual interview",
+      "seq": 1
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CI00101",
+      "sub_id": "67169",
+      "scr_dup": "002",
+      "evalb_id": "G4",
+      "score_rate": 10,
+      "evalb_memo": "如期填寫及繳交實習相關表單,完成實習任務",
+      "evalb_memo_en": null,
+      "evalb_name": "專業實習報告",
+      "evalb_name_en": "Internship report",
+      "seq": 2
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CI00101",
+      "sub_id": "67169",
+      "scr_dup": "002",
+      "evalb_id": "L5",
+      "score_rate": 10,
+      "evalb_memo": "完成共通性職前訓練課程",
+      "evalb_memo_en": null,
+      "evalb_name": "線上參與",
+      "evalb_name_en": "Online Participation",
+      "seq": 3
+    }
+  ],
+  "gradeRuleDescribe": {
+    "yms_year": 114.0,
+    "yms_smester": 2.0,
+    "cls_id": "CI00101",
+    "sub_id": "67169",
+    "scr_dup": "002",
+    "tpa_score_new": "<div>本課程學期成績記分法採通過 P或不通過 F記分， 1.每一位學生與教師至少晤談1次、0.5小時以上。 2.完成共通性職前訓練課程(6小時) 3.如期填寫及繳交實習相關表單，完成實習任務。&nbsp;</div>\n",
+    "tpa_score_new_en": " ",
+    "course_pol": "1.學生實習期間應依簽署之三方合約辦理。 \n2.與實習輔導老師約定訪談時間，務必準時。\n3.學生應如實完成共通性職前訓練課程影片。",
+    "course_pol_en": null,
+    "course_rem": null,
+    "course_rem_en": null,
+    "ais_meno": "<div>學生實習之保密義務：<br />\n(一)實習項目如有涉及實習機構營運業務資料如營業秘密者，學生應克盡保密義務。非經甲方同意，不得發表、引用或洩漏。&nbsp;<br />\n(二)學生於實習期間與實習機構所生之權利義務關係，由學生單獨負法律上之責任。</div>\n",
+    "ais_meno_en": null,
+    "ilearn_mk": "N"
+  },
+  "integrity": {
+    "yms_year": 114.0,
+    "yms_smester": 2.0,
+    "cls_id": "CI00101",
+    "sub_id": "67169",
+    "scr_dup": "002",
+    "tpa_score_new": "<div>本課程學期成績記分法採通過 P或不通過 F記分， 1.每一位學生與教師至少晤談1次、0.5小時以上。 2.完成共通性職前訓練課程(6小時) 3.如期填寫及繳交實習相關表單，完成實習任務。&nbsp;</div>\n",
+    "tpa_score_new_en": " ",
+    "course_pol": "1.學生實習期間應依簽署之三方合約辦理。 \n2.與實習輔導老師約定訪談時間，務必準時。\n3.學生應如實完成共通性職前訓練課程影片。",
+    "course_pol_en": null,
+    "course_rem": null,
+    "course_rem_en": null,
+    "ais_meno": "<div>學生實習之保密義務：<br />\n(一)實習項目如有涉及實習機構營運業務資料如營業秘密者，學生應克盡保密義務。非經甲方同意，不得發表、引用或洩漏。&nbsp;<br />\n(二)學生於實習期間與實習機構所生之權利義務關係，由學生單獨負法律上之責任。</div>\n",
+    "ais_meno_en": null,
+    "ilearn_mk": "N"
+  },
+  "policy": {
+    "yms_year": 114.0,
+    "yms_smester": 2.0,
+    "cls_id": "CI00101",
+    "sub_id": "67169",
+    "scr_dup": "002",
+    "tpa_score_new": "<div>本課程學期成績記分法採通過 P或不通過 F記分， 1.每一位學生與教師至少晤談1次、0.5小時以上。 2.完成共通性職前訓練課程(6小時) 3.如期填寫及繳交實習相關表單，完成實習任務。&nbsp;</div>\n",
+    "tpa_score_new_en": " ",
+    "course_pol": "1.學生實習期間應依簽署之三方合約辦理。 \n2.與實習輔導老師約定訪談時間，務必準時。\n3.學生應如實完成共通性職前訓練課程影片。",
+    "course_pol_en": null,
+    "course_rem": null,
+    "course_rem_en": null,
+    "ais_meno": "<div>學生實習之保密義務：<br />\n(一)實習項目如有涉及實習機構營運業務資料如營業秘密者，學生應克盡保密義務。非經甲方同意，不得發表、引用或洩漏。&nbsp;<br />\n(二)學生於實習期間與實習機構所生之權利義務關係，由學生單獨負法律上之責任。</div>\n",
+    "ais_meno_en": null,
+    "ilearn_mk": "N"
+  },
+  "courseBankC": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CI00101",
+      "sub_id": "67169",
+      "scr_dup": "002",
+      "seq": 1,
+      "describe_ch": "能務實地實行專業實習之重要。",
+      "describe_en": "To pragmatically implement the importance of the professional practical training.",
+      "core_id": "C",
+      "core_item": "理解專業倫理及社會責任，並具備自我管理的能力。",
+      "core_eng": "Comprehend professional morality and social responsibility，and possess self-management ability.",
+      "core_level": "3 ",
+      "strgy": [
+        "08"
+      ],
+      "evalb": [
+        "G3"
+      ],
+      "strgy_name": [
+        "書面報告"
+      ],
+      "strgy_name_en": [
+        "Written report"
+      ],
+      "evalb_name": [
+        "心得報告"
+      ],
+      "evalb_name_en": [
+        "Report on gained knowledge"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CI00101",
+          "sub_id": "67169",
+          "scr_dup": "002",
+          "seq": 1,
+          "strgy_id": "08",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CI00101",
+          "sub_id": "67169",
+          "scr_dup": "002",
+          "seq": 1,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "G3",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CI00101",
+      "sub_id": "67169",
+      "scr_dup": "002",
+      "seq": 2,
+      "describe_ch": "能應用職涯理論於實務工作中。",
+      "describe_en": "To apply career theory in practical work.",
+      "core_id": "C",
+      "core_item": "理解專業倫理及社會責任，並具備自我管理的能力。",
+      "core_eng": "Comprehend professional morality and social responsibility，and possess self-management ability.",
+      "core_level": "3 ",
+      "strgy": [
+        "08"
+      ],
+      "evalb": [
+        "G3",
+        "G5"
+      ],
+      "strgy_name": [
+        "書面報告"
+      ],
+      "strgy_name_en": [
+        "Written report"
+      ],
+      "evalb_name": [
+        "心得報告",
+        "書面報告"
+      ],
+      "evalb_name_en": [
+        "Report on gained knowledge",
+        "Writing report"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CI00101",
+          "sub_id": "67169",
+          "scr_dup": "002",
+          "seq": 2,
+          "strgy_id": "08",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CI00101",
+          "sub_id": "67169",
+          "scr_dup": "002",
+          "seq": 2,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "G3",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CI00101",
+          "sub_id": "67169",
+          "scr_dup": "002",
+          "seq": 2,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "G5",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CI00101",
+      "sub_id": "67169",
+      "scr_dup": "002",
+      "seq": 3,
+      "describe_ch": "能對生涯輔導研習進行評論。",
+      "describe_en": "To comment on career coaching studies.",
+      "core_id": "E",
+      "core_item": "發掘、分析及處理問題的能力。",
+      "core_eng": "Discover, analyze and handle problem ability.",
+      "core_level": "5 ",
+      "strgy": [
+        "08"
+      ],
+      "evalb": [
+        "G3"
+      ],
+      "strgy_name": [
+        "書面報告"
+      ],
+      "strgy_name_en": [
+        "Written report"
+      ],
+      "evalb_name": [
+        "心得報告"
+      ],
+      "evalb_name_en": [
+        "Report on gained knowledge"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CI00101",
+          "sub_id": "67169",
+          "scr_dup": "002",
+          "seq": 3,
+          "strgy_id": "08",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CI00101",
+          "sub_id": "67169",
+          "scr_dup": "002",
+          "seq": 3,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "G3",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    }
+  ],
+  "topicSdgs": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CI00101",
+      "sub_id": "67169",
+      "scr_dup": "002",
+      "sdgs_seq": 4,
+      "main_related": "Y",
+      "ind_related": "N",
+      "iss_name": "社會進步面",
+      "iss_ename": "Social Progress",
+      "content_name": "提供全民教育",
+      "content_ename": "Quality Education"
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CI00101",
+      "sub_id": "67169",
+      "scr_dup": "002",
+      "sdgs_seq": 10,
+      "main_related": "N",
+      "ind_related": "Y",
+      "iss_name": "經濟成長面",
+      "iss_ename": "Economic Growth",
+      "content_name": "研發創新和建立工業建設",
+      "content_ename": "Industry, Innovation and Infrastructure"
+    }
+  ],
+  "topicAiIndicators": [],
+  "learnHours": {
+    "total": 18.0,
+    "tpdOnlineAsyTotal": 0.0,
+    "tpdOnlineSynTotal": 5.0,
+    "tpdOnlineFaceTotal": 13.0,
+    "asySynInTotalPercent": 27.78
+  },
+  "crossVerYear": 114
+}

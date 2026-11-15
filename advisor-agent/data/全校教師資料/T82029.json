@@ -1,0 +1,981 @@
+{
+  "teacherId": "T82029",
+  "name": "林泰生",
+  "mainUnit": "工程與科學學院",
+  "detailUnit": "光電科學與工程學系",
+  "skill": [
+    "原子分子光譜atomic and molecular spectroscopy",
+    "光學optics",
+    "雷射laser",
+    "原子分子物理atomic amd molecular physics"
+  ],
+  "edu": [
+    "國立清華大學 物理研究所 博士",
+    "國立清華大學 物理研究所 碩士",
+    "輔仁大學 物理系 學士"
+  ],
+  "fcuExp": [
+    "光電物理研究所 所長",
+    "物理教學研究中心 主任",
+    "光電學系 系主任",
+    "理學院 院長",
+    "物理教學研究中心 副教授",
+    "物理教學研究中心 教授",
+    "光電學系 教授",
+    "光電學系 教授",
+    "光電學系 教授",
+    "光電科學與工程學系 教授",
+    "光電科學與工程學系 教授",
+    "光電科學與工程學系 教授",
+    "光電科學與工程學系 教授"
+  ],
+  "currjob": [],
+  "otherExp": [],
+  "journal": [
+    {
+      "論文名稱": "A Tabletop Experiment for Speed of Light Measurement Using a Red Pitaya STEMlab Board",
+      "期刊名稱": "AMERICAN JOURNAL OF PHYSICS (SCIE)",
+      "作者群": "Che-Chung Chou*,  Shi-Yu Hsaio, Jun-Zhi Feng, Tyson Lin, and Sheng-Hua Lu"
+    },
+    {
+      "論文名稱": "Coaxial equal-path interferometer for polarization-sensitive optical coherence tomography",
+      "期刊名稱": "Optics Communications (SCIE)",
+      "作者群": "Sheng-Hua Lu ∗ , Chih-Min Chang, Tyson Lin, Che-Chung Chou"
+    },
+    {
+      "論文名稱": "Environment-noise-free optical heterodyne retardation measurement using a double-pass acousto-optic frequency shifter",
+      "期刊名稱": "Optics Letters (SCIE)",
+      "作者群": "Che-Chung Chou*, Shin-Yu Lu, Tyson Lin, Sheng-Hua Lu, and Ru-Jong Jeng"
+    },
+    {
+      "論文名稱": "Diode Laser Frequency Locking to an Etalon With a Double-Pass Acousto-Optic Frequency Shifter",
+      "期刊名稱": "IEEE Photonics Technology Letters (SCIE)",
+      "作者群": "Che-Chung Chou*, Shine-Chieh Lin, Tyson Lin, and Sheng-Hua Lu"
+    },
+    {
+      "論文名稱": "Generation of azimuthally and radially polarized off-axis beams with an intracavity large-apex-angle axicon\r\n",
+      "期刊名稱": "Optics Express (SCIE)",
+      "作者群": "Ken-Chia Chang, Tyson Lin, and Ming-Dar Wei"
+    },
+    {
+      "論文名稱": "Frequency stabilization of a frequency-doubled 197.2 THz distributed feedback diode laser on rubidium 5S1/2-7S1/2 two-photon transitions",
+      "期刊名稱": "Optics and Lasers in Engineering (SCIE,EI)",
+      "作者群": "Hsiang-Chen Chuia,Ming-Sheng Ko, Yi-Wei Liu, Tyson Lin, Jow-Tsong Shy, Sen-Yen Shaw, Rostislav, V. Roussev, Martin M. Fejer"
+    },
+    {
+      "論文名稱": "Molecular Iodine Spectra and Laser Stabilization by Frequency-Doubled 1534nm Diode Laser",
+      "期刊名稱": "Japanese Journal of Applied Physics (SCIE)",
+      "作者群": "Wang-Yau CHENG, Jow-Tsong SHY, Tyson LIN and Che-Chung CHOU"
+    },
+    {
+      "論文名稱": "Iodine stabilization of a diode laser in the optical\r\ncommunication band",
+      "期刊名稱": "OPTICS LETTERS (SCIE)",
+      "作者群": "Hsiang-Chen Chui,Sen-Yen Shaw,Ming-Sheng Ko,Yi-Wei Liu,Jow-Tsong Shy,Tyson Lin,Wang-Yau Cheng,Rostislav V. Roussev,Martin M. Fejer"
+    },
+    {
+      "論文名稱": "Modulation-Free Laser Frequency Stabilization to Molecular Absorption Using Single Acoustooptic Frequency Shifter",
+      "期刊名稱": "IEEE Photonics Technology Letters (SCIE)",
+      "作者群": "Che-Chung Chou, Tyson Lin, Po-Chiang Huang, and Meng-Hung Chien"
+    },
+    {
+      "論文名稱": "奔騰紙馬─力學教學活動設計",
+      "期刊名稱": "亞太科學教育論壇 ()",
+      "作者群": "王雅惠、林泰生"
+    },
+    {
+      "論文名稱": "外文教科書對推動普通物理教學革新之影響",
+      "期刊名稱": "物理教育 ()",
+      "作者群": "張慧貞，林泰生"
+    },
+    {
+      "論文名稱": "Wavenumber Measurements of CO2 Transitions in 1.5-mm Atmospheric Window Using an External-Cavity Diode Laser",
+      "期刊名稱": "Journal of Molecular Spectroscopy ()",
+      "作者群": "Che-Chung Chou, Tyson Lin, and Jow-Tsong Shy"
+    },
+    {
+      "論文名稱": "Polarization Properties and Frequency Stabilization of an Internal-Mirror 1523nm He-Ne Laser under Axial Magnetic Field",
+      "期刊名稱": "Japanese Journal of Applied Physics JJAP (SCIE)",
+      "作者群": "Tong-Long Huang、Jow-Tsong Shy、林泰生、Hai-Pei Liu"
+    },
+    {
+      "論文名稱": "Frequency Stabilization and Measurements of 543 nm HeNe Lasers",
+      "期刊名稱": "Optical and Quantum Electronics (SCIE)",
+      "作者群": "Wang-Yau Cheng、Yi-Shi Chen、Chun-Yen Cheng、Jow-Tsong Shy 、林泰生"
+    },
+    {
+      "論文名稱": "Absorption spectrum of the P(5) transition of the first overtone band of HD",
+      "期刊名稱": "Physics Review A. (SCIE)",
+      "作者群": "林泰生、Che-Chung Chou、Dau-Jeng Lwo、Jow-Tsong Shy"
+    },
+    {
+      "論文名稱": "A compact iodine-stabilized HeNe laser and crossover resonances at 543 nm",
+      "期刊名稱": "OPTICS COMMUNICATIONS (SCIE)",
+      "作者群": "Wang-Yau Cheng、Jow-Tsong Shy、林泰生"
+    },
+    {
+      "論文名稱": "Absolute Frequencies of the 133Cs2 Transitions near 1064 nm",
+      "期刊名稱": "Optics Communications (SCIE)",
+      "作者群": "Shie-Chang Jeng、De-Yuan Chung、Chi-Chang Liaw、Fu-Hsiang Yang、Jow-Tsong Shy、林泰生、Sen-Yen Shaw"
+    }
+  ],
+  "journal2": [],
+  "conference": [
+    {
+      "論文名稱": "基於Red Pitaya與LabVIEW之操作簡易且\u000b經濟的桌面光速量測實驗",
+      "會議名稱": "2023中華民國物理教育聯合會議",
+      "作者群": "呂韋頡、馮俊智、周哲仲、林泰生、盧聖華"
+    },
+    {
+      "論文名稱": "A Digitalized Band-Pass Filter for Band-Pass Filter System Based Laser Frequency Offset Locking",
+      "會議名稱": "2023 Annual Meeting of the Physical Society of Taiwan",
+      "作者群": "Yi Jun Xu*, Che-Chung Chou, Tyson Lin"
+    },
+    {
+      "論文名稱": "A tabletop speed of light measurement using a Red Pitaya STEMlab board and a low-cost diode laser module",
+      "會議名稱": "2023 Annual Meeting of the Physical Society of Taiwan",
+      "作者群": "Jun-Zhi Feng*, Wei-Jie Lu, Che-Chung Chou, Tyson Lin, Sheng-Hua Lu"
+    },
+    {
+      "論文名稱": "Speed of Light Measurement by Using the Bode Analyzer of Red Pitaya STEMlab",
+      "會議名稱": "Optics & Photonics Taiwan International Conference (OPTIC 2020)",
+      "作者群": "Shi-Yu Hsiao,* Zong-Han He, Che-Chung Chou, Tyson Lin"
+    },
+    {
+      "論文名稱": "Acetylene photo-thermal spectroscopy using an optical heterodyne interferometer based on a double-pass\nacousto-optic frequency shifter",
+      "會議名稱": "OPTICS & PHOTONICS International Congress 2020",
+      "作者群": "Pin Wei Huang, Che Chung Chou, Tyson Lin, Sheng Hua Lu"
+    },
+    {
+      "論文名稱": "Laser Frequency Stabilization Using a low-cost Arduino Microcontroller",
+      "會議名稱": "Optics & Photonics Taiwan International Conference (OPTIC 2019)",
+      "作者群": "Li-Han Chang*, Che-Chung Chou, and Tyson Lin"
+    },
+    {
+      "論文名稱": "Demonstration of Cavity Enhanced Absorption with a Tapered Fiber Inside a Frequency-Stabilized Hybrid Fiber Cavity",
+      "會議名稱": "2019台灣物理年會暨科技部計畫成果發表會",
+      "作者群": "Yang-Hong Lou*, Tyson Lin, Che-Chung Chou, Chien-Jen Tang, Wen-Fung Liu"
+    },
+    {
+      "論文名稱": "Optical Heterodyne Spectroscopy of 87Rb D2-Saturation Absorption by Using a Double-Pass Acousto-optic Frequency Shifter",
+      "會議名稱": "The 24th Congress of the International Commission for Optics",
+      "作者群": "Che-Chung Chou*, Shine-Chieh Lin, and Tyson Lin"
+    },
+    {
+      "論文名稱": "Using Delayed Self-Heterodyne Method and LabVIEW to Measure Fm Noise Spectrum of a Laser",
+      "會議名稱": "2017中華民國物理年會",
+      "作者群": "Mi-Mi Huang*, Che-Chung Chou, Tyson Lin"
+    },
+    {
+      "論文名稱": "物理演示與動手實作在課堂教學上的運用舉例",
+      "會議名稱": "2016物理教育聯合會議",
+      "作者群": "林泰生"
+    },
+    {
+      "論文名稱": "Systematic study on the 3rd derivative signal of acetylene saturation absorption in a hollow-core photonic crystal fiber",
+      "會議名稱": "Annual Meeting of the Physical Society of the Republic of China , 2016",
+      "作者群": "Kai-Ching Haung*, Che-Chung Chou, Tyson Lin"
+    },
+    {
+      "論文名稱": "The Derivative Spectroscopy of Acetylene Gas Mixed with Nitrogen using the Evanescent Wave of a Submicro Fiber Taper",
+      "會議名稱": "2016中華民國物理年會",
+      "作者群": "Wen-Hsuan Hsieh*, Sheng-Jun Wu, Cheng-Wen Wu, Che-Chung Chou, Tyson Lin"
+    },
+    {
+      "論文名稱": "The Frequency Stabilization of A Fiber-Bragg-Grating Cavity With The Pound-Drever-Hall Scheme",
+      "會議名稱": "2016中華民國物理年會",
+      "作者群": "Shu-Lin Chen*, Jau-Ming Jian, Tyson Lin, Che-Chung Chou"
+    },
+    {
+      "論文名稱": "物理通識課程實現與經營之淺見與分享",
+      "會議名稱": "2015物理教育聯合會議",
+      "作者群": "林泰生"
+    },
+    {
+      "論文名稱": "Laser frequency stabilization on an all-fiber optical cavity with birefringence",
+      "會議名稱": "第三十三屆光譜技術與表面科學研討會",
+      "作者群": "Han-Rong Ou ( 歐翰融 ), Shiang-He Kuo  郭祥和 ), Che-Chung Chou ( 周哲仲 ),  and Tyson Lin ( 林泰生)"
+    },
+    {
+      "論文名稱": "Acetylene Saturated Absorption in the Hollow-core Photonic Crystal Fiber Using Interferometer Stabilized Diode Laser",
+      "會議名稱": "第三十三屆光譜技術與表面科學研討會",
+      "作者群": "Heng-Pin Chen( 陳亨斌 ),  Che-Chung Chou ( 周哲仲 ),  Tyson Lin ( 林泰生 )"
+    },
+    {
+      "論文名稱": "Saturated absorption of acetylene molecules with the fiber evanescent wave spectroscopy",
+      "會議名稱": "第三十三屆光譜技術與表面科學研討會",
+      "作者群": "Guan-Wei Dung (董冠偉), Sheng-Jun Wu(吳昇潤), Cheng-Wen Wu (吳正文) Che-Chung Chou(周哲仲), Tyson Lin* (林泰生)"
+    },
+    {
+      "論文名稱": "Quartz tuning fork modulation on acetylene gas with the fiber evanescent wave spectroscopy",
+      "會議名稱": "2015物理年會",
+      "作者群": "Guan-Wei Dung, Sheng-Jun Wu, Cheng-Wen Wu, Che-Chung Chou, Tyson Lin*,"
+    },
+    {
+      "論文名稱": "The modulation transfer spectroscopy of acetylene molecules from a quartz tuning fork outside the cell to the laser beam",
+      "會議名稱": " 2015物理年會",
+      "作者群": "Chia-Hsun Wang, Che-Chung Chou, Tyson Lin*"
+    },
+    {
+      "論文名稱": "Dispersion-like optical heterodyne spectroscopy of acetylene saturated absorption in hollow-core photonic crystal fiber",
+      "會議名稱": "2015物理年會",
+      "作者群": "Heng-Pin Chen*, Che-Chung Chou, Tyson Lin"
+    },
+    {
+      "論文名稱": "Third Harmonic Frequency Stabilization to Acetylene Saturated Absorption in a Hollow-core Photonic Crystal Fiber",
+      "會議名稱": "CLEO 2014",
+      "作者群": "Liang-Yu Wei*, Chun-Chieh Liu, Che-Chung Chou, and Tyson Lin"
+    },
+    {
+      "論文名稱": "Size effect of micro fiber taper and observation of the saturated absorption in acetylene gas with the fiber evanescent wave spectroscopy",
+      "會議名稱": "2014中華民國物理學會年會",
+      "作者群": "Guan-Wei Dung* ,Kuo-Jui Wang ,Sheng-Jun Wu,Kai-Jun Huang , Che-Chung Chou , Tyson Lin,Cheng-Wen Wu"
+    },
+    {
+      "論文名稱": "Third harmonic frequency stabilization to acetylene saturated absorption in a hollow-core photonic crystal fiber",
+      "會議名稱": "2014中華民國物理學會年會",
+      "作者群": "Liang-Yu Wei*; Chun-Chieh Liu; Che-Chung Chou; Tyson Lin"
+    },
+    {
+      "論文名稱": "Modulation effect of quartz tuning fork on laser modulation transfer spectroscopy of acetylene molecules",
+      "會議名稱": "2014中華民國物理年會",
+      "作者群": " Chih-Yuan Wen(溫智元), Chun-Ping Chuang(莊鈞評), Tyson Lin(林泰生)* and  Che-Chung Chou (周哲仲)"
+    },
+    {
+      "論文名稱": "以三色雷射光源與玻璃球驗證彩虹之原理與特性",
+      "會議名稱": "2013中華民國物理教育聯合會議",
+      "作者群": "溫智元，林泰生*，周哲仲"
+    },
+    {
+      "論文名稱": "Etalon’s birefringence measurement by using an optical heterodyne interferometer based on an acousto-optics frequency shifter",
+      "會議名稱": "2014中華民國物理學會年會",
+      "作者群": "Shang-Chen Chen *; Che-Chung Chou ; Tyson Lin and Shou Tai Lin"
+    },
+    {
+      "論文名稱": "Fiber evanescent wave spectroscopy of acetylene molecules with the optical microfiber",
+      "會議名稱": "The 10th Conference on Laser and Electro-optics Pacific Rim 2013",
+      "作者群": "K. J. Huang, T. Lin*, C. C. Chou, and C. W. Wu"
+    },
+    {
+      "論文名稱": "Optical Heterodyne Spectroscopy of Acetylene Saturated Absorption in a Hollow-core Photonic Crystal Fiber",
+      "會議名稱": "The 10th Conference on Lasers and Electro-Optics Pacific Rim",
+      "作者群": "J. J. Liu,* J. L. Chang, C. C. Chou, and T. Lin"
+    },
+    {
+      "論文名稱": "Measurement of optical constants of the linear electro-optic effect by using heterodyne interferometer based on single acousto-optic modulator",
+      "會議名稱": "2013 中華民國物理年會暨成果發表會",
+      "作者群": "Shang-Chen Chen*,Che-Chung Chou,Tyson Lin,Shou-Tai Lin,Ru-Jong Jeng"
+    },
+    {
+      "論文名稱": "Optical heterodyne spectroscopy of acetylene saturated absorption in a hollow-core photonic crystal fiber",
+      "會議名稱": "2013 中華民國物理年會暨成果發表會",
+      "作者群": "Chun-Chieh Liu*,Jia-Lun Chang,Che-Chung Chou,Tyson Lin"
+    },
+    {
+      "論文名稱": "Saturation Spectroscopy of Rubidium D2 Lines Using Acousto-Optic Modulator Based Optical Heterodyne Detection",
+      "會議名稱": "30th Symposium on Spectroscopy Technologies and Surface Sciences",
+      "作者群": "Shin-Chieh Lin a(林信介), Chu-Chung Chou a (周哲仲) and Tyson Lin (林泰生)"
+    },
+    {
+      "論文名稱": "Heterodyne Interferometer with Single Acousto-optic Modulator Application to Measure the Property of Optical Material",
+      "會議名稱": "30th Symposium on Spectroscopy Technologies and Surface Sciences",
+      "作者群": "Shin-Yu Lu (呂馨予)*, Che-Chung Chou (周哲仲), Tyson Lin (林泰生), and Ru-Jong Jeng (鄭如忠)"
+    },
+    {
+      "論文名稱": "Laser modulation transfer spectroscopy of C2H2 molecules with a quartz tuning fork",
+      "會議名稱": "2012中華民國物理年會暨成果發表會",
+      "作者群": "莊鈞評，林泰生*，周哲仲"
+    },
+    {
+      "論文名稱": "Optical Heterodyne Phase Detection and Frequency Stabilization of an External Cavity Diode Laser by Using Single Acousto-optics Frequency Shifter",
+      "會議名稱": "2011 IQEC / CLEO Pacific Rim Conference",
+      "作者群": "Shine-Chieh Lin*, Shin-Yu Lu, Che-Chung Chou, and Tyson Lin"
+    },
+    {
+      "論文名稱": "Spectroscopic detection of acetylene molecules by the fiber-optic evanescent wave spectroscopy",
+      "會議名稱": "2011年中華民國物理年會暨研究成果發表會",
+      "作者群": "Yung-Hsiang Lai(賴永祥)*, Tyson Lin(林泰生), Che-Chung Chou(周哲仲), Cheng-Wen Wu(吳正文), Po-Neng Chang(張博能)"
+    },
+    {
+      "論文名稱": "Stabilization of a hollow-core-photonic-crystal fiber cavity",
+      "會議名稱": "2011年中華民國物理年會暨研究成果發表會",
+      "作者群": "Tai-Hung Liu(劉泰宏)*, Jia-Lun Chang(張家綸), Che-Chung Chou(周哲仲), Tyson Lin(林泰生)"
+    },
+    {
+      "論文名稱": "Observation of CO2 3v3 band R(16) absorption line by using an External Cavity Diode Laser and a Multipass cell",
+      "會議名稱": "2011年中華民國物理年會暨研究成果發表會",
+      "作者群": "CHI KUN HSUEH(薛紀?)*, Che-Chung Chou(周哲仲), Tyson Lin(林泰生)"
+    },
+    {
+      "論文名稱": "Optical Phase-Locked Loop for Optical Frequency Comb",
+      "會議名稱": "OPT 2010 台灣光電科技研討會暨國科會光電學門研究成果發表會",
+      "作者群": "Hsiu-Ru Yang*, Che-Chung Chou, Tyson Lin"
+    },
+    {
+      "論文名稱": "Study of 5S1/2-4D3/2 two-photon absorption of atomic rubiduim",
+      "會議名稱": "Annual meeting of the Physical Society of Republic of China",
+      "作者群": "Chen-Ang Yu(余貞昂), Che-Chung Chou(周哲仲), Tyson Lin(林泰生)"
+    },
+    {
+      "論文名稱": "The study of acetylene saturation absorption in hollow-core photonic crystal fiber",
+      "會議名稱": "Annual meeting of the Physical Society of Republic of China",
+      "作者群": "Jhih-Wei Jhuang (莊志偉), Che-Chung Chou (周哲仲), Tyson Lin (林泰生)"
+    },
+    {
+      "論文名稱": "The study of 1.5 um frequency-shifted-feedback fiber laser for frequency comb application",
+      "會議名稱": "Annual meeting of the Physical Society of Republic of China",
+      "作者群": "Yu-Cheng Wu(吳育政), Chun-nan Chen(陳俊男) ,Che-Chung Chou(周哲仲), Tyson Lin(林泰生)"
+    },
+    {
+      "論文名稱": "Sensitivity Comparison of Off-beam Quartz Enhanced Photoacoustic Spectroscopy and Differential Photoacoustic Spectroscopy",
+      "會議名稱": "OPT 2009台灣光電科技研討會暨 國科會光電學門研究成果發表會",
+      "作者群": "Der-Yi Hsu, Jim-Hong Chang, Tyson Lin, Che-Chung Chou and Jow-Tsong Shy"
+    },
+    {
+      "論文名稱": "氣球膜直笛的製作與探討",
+      "會議名稱": "2009物理教學及示範研討會",
+      "作者群": "王雅惠，林泰生"
+    },
+    {
+      "論文名稱": "Laser Phase Stabilization Using Optical Heterodyne Detection Based on Single Acousto-Optic Shifter",
+      "會議名稱": "19th International Conference on Laser Spectroscopy",
+      "作者群": "Che-Chung Chou, Chien-Hou Chang, and Tyson Lin"
+    },
+    {
+      "論文名稱": "Saturated Absorption Spectroscopy of C2H2 with Hollow Fiber in the 1.5μm Region",
+      "會議名稱": "19th International Conference on Laser Spectroscopy",
+      "作者群": "Tyson Lin*, Shin-Li Tseng, Che-Chung Chou, Jow-Tsong Shy and Mitsunobu Miyagi"
+    },
+    {
+      "論文名稱": "Measurement of the vibrational Doppler shift using optical heterodyne interferometer based on single acousto-optic modulator",
+      "會議名稱": "Optics and Photonics Taiwan (OPT), 2008",
+      "作者群": "Cha-Wei Li(李嘉偉), Che-Chung Chou(周哲仲), Tyson Lin(林泰生)"
+    },
+    {
+      "論文名稱": "光風車性質與機制之實驗探討",
+      "會議名稱": "2008物理教學及示範研討會",
+      "作者群": "陳光祥,廖冠翔,蕭景文,林宗徽,林泰生"
+    },
+    {
+      "論文名稱": "The laser spectroscopy of acetylene v1+v3+v4'-v4'band in the 1.5 um wavelength region",
+      "會議名稱": "2008中華民物理學會年會暨成果發表會",
+      "作者群": "Jung-Yui Chen, Che-Chung Chou and Tyson Lin"
+    },
+    {
+      "論文名稱": "The saturated absorption spectroscopy of acetylene R(9) transition of v1+v3 band in the 1.5 um region using modulation transfer technique in the hollow fiber absorption cell",
+      "會議名稱": "2008中華民物理學會年會暨成果發表會",
+      "作者群": "Shin-Li Tseng, Tyson Lin and Che-Chung Chou"
+    },
+    {
+      "論文名稱": "Optical heterodyne interometer with a single acousto-optical modulator",
+      "會議名稱": "2007中華民國物理學會年會暨研究成果發表會",
+      "作者群": "張介侯,周哲仲,林泰生"
+    },
+    {
+      "論文名稱": "Optical heterodyne interferometer with single acousto-optical modulator",
+      "會議名稱": "2007中華民國物理學會年會暨研究成果發表會",
+      "作者群": "張介侯,周哲仲,林泰生"
+    },
+    {
+      "論文名稱": "Actively harmonic mode-locked fiber laser by using a semiconductor optical amplifier and a distributed feedback laser diode as the mode locker",
+      "會議名稱": "2007中華民國物理學會年會暨研究成果發表會",
+      "作者群": "黃博鈞,周哲仲,林泰生"
+    },
+    {
+      "論文名稱": "簡易版騎輪車玩偶",
+      "會議名稱": "2006物理教學暨示範研討會",
+      "作者群": "王雅惠，林泰生"
+    },
+    {
+      "論文名稱": "Internal Second Harmonics of an Injection-Locked Laser Diode and Its Application to Laser Frequency Stabilization",
+      "會議名稱": "Conference on Lasers and Electro-Optics",
+      "作者群": "Che-Chung Chou, Chia-Hung Sun, I-Hao Chien, and Tyson Lin"
+    },
+    {
+      "論文名稱": "Study of the optical second harmonic generation of laser diodes pumped by a 1.5-um laser",
+      "會議名稱": "2006中華民國物理學會年會",
+      "作者群": "Chia-Hung Sun,I-Hao Chien Che-Chung, Tyson Lin"
+    },
+    {
+      "論文名稱": "The laser spectroscopy of acetylene molecules with the modulation trandfer method using hollow fiber absorption cell",
+      "會議名稱": "2006中華民國物理學會年會",
+      "作者群": "Pei-Huan Hsu, Tyson Lin, Che-Chung Chou"
+    },
+    {
+      "論文名稱": "Spectroscopic detection of acetylene molecule by the evanescent-wave spectroscopy with the taper fiber",
+      "會議名稱": "2006中華民國物理學會年會",
+      "作者群": "Ming-Kuen Lin, Tyson Lin, Che-Chung Chou, and Cheng-Wen Wu"
+    },
+    {
+      "論文名稱": "物理玩具教學設計-會唱歌的波浪狀排水管",
+      "會議名稱": "2005物理教學及示範（暑期）研討會",
+      "作者群": "林泰生"
+    },
+    {
+      "論文名稱": "Monitoring the active harmonically mode locking by using the internal second harmonic of a mode locker based on a laser diode",
+      "會議名稱": "International Conference on Quantum Electronics",
+      "作者群": "Che-Chung Chou, Tyson Lin, Chao-Kun Yang, Chiu Feng Yang"
+    },
+    {
+      "論文名稱": "物理玩具製作──鋼索騎輪車玩偶",
+      "會議名稱": "2005物理教學及示範研討會",
+      "作者群": "楊美姍"
+    },
+    {
+      "論文名稱": "An optical spectrum analyzer with Littman configuration",
+      "會議名稱": "Annual Meeting of Physics Society of Chinese",
+      "作者群": "2.\tChiu Feng Yang, Che-Chung Chou and Tyson Lin"
+    },
+    {
+      "論文名稱": "Modulation-free laser frequency stabilization to a Fabry-Perot cavity using single acoustooptic frequency shifter",
+      "會議名稱": "Annual Meeting of Physics Society of Chinese",
+      "作者群": "Hsin-Yi Yeh, Che-Chung Chou, Tyson Lin , and Ite Albert Yu"
+    },
+    {
+      "論文名稱": "A rubidium stabilized mode-locked fiber laser",
+      "會議名稱": "Annual Meeting of Physics Society of Chinese",
+      "作者群": "I-Hao Chien, Che-Chung Chou and Tyson Lin"
+    },
+    {
+      "論文名稱": "Iodine-stabilized 1520 nm diode laser for optical fiber communication",
+      "會議名稱": "2004 CLEO/IQEC conference",
+      "作者群": "Hsiang-Chen Chui, Sen-Yen Shaw, Ming-Sheng Ko, Yi-Wei Liu, Jow-Tsong Shy, Rostislav V. Roussev, Martin M. Fejer, Tyson Lin"
+    },
+    {
+      "論文名稱": "Stabilization of an active mode-locked fiber laser using the internal second harmonic signal from its mode locker as the discriminator",
+      "會議名稱": "2004中華民國物理年會",
+      "作者群": "Chao-Kun Yang(楊朝坤), Meng-Hung Chien(簡孟泓), Min-Hsiang Hong(洪敏翔), Che-Chung Chou(周哲仲) and Tyson Lin(林泰生)"
+    },
+    {
+      "論文名稱": "Laser Frequency Stabilization of 1.5μm external",
+      "會議名稱": "2004中華民國物理年會",
+      "作者群": "葛育坤、朱振弦、林泰生、周哲仲"
+    },
+    {
+      "論文名稱": "Modulation-free laser frequency stabilization to the saturated absorption of rubidium using single acousto-optic modulator",
+      "會議名稱": "2004中華民國物理年會",
+      "作者群": "彭康偉、周哲仲、林泰生、余怡德"
+    },
+    {
+      "論文名稱": "The study of acetylene saturation spectroscopy using hollow fiber absorption cell",
+      "會議名稱": "2004中華民國物理年會",
+      "作者群": "黃光煌、曾一峻、林泰生、周哲仲"
+    },
+    {
+      "論文名稱": "The frequency measurement of P(5) transition of the 1st overtone band of HD",
+      "會議名稱": "2004中華民國物理年會",
+      "作者群": "王雅惠、謝智強、黃柏強、林泰生、周哲仲"
+    },
+    {
+      "論文名稱": "奔騰紙馬",
+      "會議名稱": "2003物理教學及示範研討會",
+      "作者群": "王雅惠、林泰生"
+    },
+    {
+      "論文名稱": "Modulation-free laser frequency stabilization to molecular absorption using single acousto-optic modulator",
+      "會議名稱": "16th International Conference on Laser Spectroscopy",
+      "作者群": "1.\tChe-Chung Chou, Tyson Lin, Meng-Hung Chien, and Po-Chiang Huang"
+    },
+    {
+      "論文名稱": "Actively mode-locking of fiber ring laser using a Fabry-Perot laser diode as a mode-locker",
+      "會議名稱": "2003中華民國物理學會年會",
+      "作者群": "1.簡孟泓,2.周哲仲,3.林泰生"
+    },
+    {
+      "論文名稱": "空氣柱教學設計-寶特瓶音階",
+      "會議名稱": "2002物理教學及示範研討會",
+      "作者群": "2.\t楊美姍，林泰生"
+    },
+    {
+      "論文名稱": "以細小玻璃珠做動態彩虹示範",
+      "會議名稱": "2002物理教學及示範研討會",
+      "作者群": "3.\t林泰生，周哲仲，薛兆揚，楊美姍"
+    },
+    {
+      "論文名稱": "利用反射式截光器檢驗螢光燈",
+      "會議名稱": "2002物理教學及示範研討會",
+      "作者群": "4.\t簡孟泓，洪敏翔，黃柏強，林泰生，周哲仲"
+    },
+    {
+      "論文名稱": "Modulation-free frequency stablization of diode lasers to molecular absorption",
+      "會議名稱": "2002中華民國物理學會年會暨成果發表會",
+      "作者群": "Che -Chung Chou、Tyson Lin"
+    },
+    {
+      "論文名稱": "以細小玻璃珠示範彩虹現象",
+      "會議名稱": "2001物理教學及示範研討會",
+      "作者群": "薛兆揚、江亞欣、周哲仲、林泰生、施宙聰"
+    },
+    {
+      "論文名稱": "Linewidth-narrowing of an external-mirror cavity 1.55mm DFB diode laser",
+      "會議名稱": "2001中華民國物理年會",
+      "作者群": "許立原、林泰生、周哲仲、施宙聰"
+    },
+    {
+      "論文名稱": "Saturation spectroscopy of acetylene molecule in the 1.5mm",
+      "會議名稱": "2001中華民國物理年會",
+      "作者群": "謝旺羽、林泰生、周哲仲、施宙聰"
+    },
+    {
+      "論文名稱": "特技表演—人肉鐵砧的替代示範",
+      "會議名稱": "2000物理教學及示範研討會",
+      "作者群": "林泰生"
+    },
+    {
+      "論文名稱": "現行原文教科書對普通物理教學影響之探討",
+      "會議名稱": "2000物理教學及示範研討會",
+      "作者群": "張慧貞、林泰生"
+    },
+    {
+      "論文名稱": "簡易吸管直笛製作",
+      "會議名稱": "2000物理教學及示範研討會",
+      "作者群": "林泰生、周哲仲"
+    },
+    {
+      "論文名稱": "Frequency Stabilization of an Internal-mirror 1.523?m Longirudiaanl-Zeeman HeNe Laser",
+      "會議名稱": "Conference on Precision Electromagnetic Measurements 2000",
+      "作者群": "T. L. Huang、J.T. Shy、林泰生、H. P. Liu"
+    },
+    {
+      "論文名稱": "Iodine-Stabilized 1550nm Diode Laser for the Optical Fiber Communications",
+      "會議名稱": "Conference on Precision Electromagnetic Measurements 2000",
+      "作者群": "W. Y. Cheng、H. Y. Chang、Y. R. Lin、J. T. Shy、林泰生、Y. K. Chen、M. H. Chou、M. M. Fejer"
+    },
+    {
+      "論文名稱": "可變顏色的風景畫—以光作畫",
+      "會議名稱": "1999物理教學及示範研討會",
+      "作者群": "林泰生"
+    },
+    {
+      "論文名稱": "High-Sensitive Diode Laser Spectroscopy of CO2 Molecule in 1.5mm Region",
+      "會議名稱": "1999中華民國物理學會年會",
+      "作者群": "Che-Chung Chou、林泰生、Jow-Tsong Shy"
+    }
+  ],
+  "book": [
+    {
+      "專業書籍": "2007物理教學示範研討會論文集",
+      "出版單位": "逢甲大學光電學系暨物理教學研究",
+      "作者群": "林泰生主編，王雅惠編輯"
+    }
+  ],
+  "patent": [],
+  "most": [
+    {
+      "name": "高 Q 值石英音叉受雷射照射振盪之鬆弛時間變化研究",
+      "schoolYear": "113"
+    },
+    {
+      "name": "掃瞄式微型雷射收發器研製(II)",
+      "schoolYear": "105"
+    },
+    {
+      "name": "掃瞄式微型雷射收發系統研製",
+      "schoolYear": "104"
+    },
+    {
+      "name": "科普活動：中文維基平台「光電知識普及」計畫",
+      "schoolYear": "104"
+    },
+    {
+      "name": "銣原子穩頻之1.5微米光頻率梳及其光譜應用",
+      "schoolYear": "96"
+    },
+    {
+      "name": "1.5 微米光學頻率梳之全光學穩頻於銣原子光譜研究(II)",
+      "schoolYear": "95"
+    },
+    {
+      "name": "改善基礎研究設備-射頻頻譜分析儀等",
+      "schoolYear": "94"
+    },
+    {
+      "name": "1.5um波段弱吸收高靈敏度雷射光譜研究",
+      "schoolYear": "94"
+    },
+    {
+      "name": "1.5微米光學頻率梳之全光學穩頻於銣原子光譜研究",
+      "schoolYear": "94"
+    },
+    {
+      "name": "1.5 微米光學頻率梳及其光譜之應用(3/3)",
+      "schoolYear": "93"
+    },
+    {
+      "name": "1.5 um 波段弱吸收分子高靈敏度雷射光譜及頻率測量研究(3/3)",
+      "schoolYear": "93"
+    },
+    {
+      "name": "1.5 微米光學頻率梳及其光譜之應用(2/3)",
+      "schoolYear": "92"
+    },
+    {
+      "name": "1.5 um 波段弱吸收分子高靈敏度雷射光譜及頻率測量研究(2/3)",
+      "schoolYear": "92"
+    },
+    {
+      "name": "1.5微米光學頻率梳及其光譜之應用(1/3)",
+      "schoolYear": "91"
+    },
+    {
+      "name": "1.5um波段弱吸收分子高靈敏度雷射光譜及頻率測量研究(1/3)",
+      "schoolYear": "91"
+    },
+    {
+      "name": "1.5 um波段之分子雷射光譜研究(Ⅱ)",
+      "schoolYear": "90"
+    },
+    {
+      "name": "1.5微米波段之光學頻率梳研究",
+      "schoolYear": "90"
+    },
+    {
+      "name": "1.5UM波段之分子雷射光譜研究",
+      "schoolYear": "89"
+    },
+    {
+      "name": "1.5UM波段之分子雷射光譜及頻率測量",
+      "schoolYear": "87"
+    },
+    {
+      "name": "HD分子泛音帶之雷射光譜研究(IV)",
+      "schoolYear": "86"
+    },
+    {
+      "name": "HD分子泛音譜帶之雷射光譜研究(Ⅲ)",
+      "schoolYear": "85"
+    },
+    {
+      "name": "HD分子泛音譜帶之雷射光譜研究(Ⅱ)",
+      "schoolYear": "84"
+    },
+    {
+      "name": "HD分子泛音譜帶之雷射光譜研究",
+      "schoolYear": "83"
+    }
+  ],
+  "tech": [],
+  "induAca": [
+    "基礎科學前瞻性人才培育計畫--物理領域-大學教授支援高中教學及推展科學新知-提昇高中生之物理學習與輔導 (2006-01 to 2006-12)",
+    "基礎科學前瞻性人才培育計畫--物理領域-大學教授支援高中教學及推展科學新知-提昇高中生之物理學習與輔導 (2005-01 to 2005-12)",
+    "提昇大學基礎教育計畫－自然科學專業基礎與通識教育之提昇－物理與數學－分項計畫一:電腦化普物實驗(4/4) (2004-08 to 2005-07)",
+    "提昇大學基礎教育計畫－自然科學專業基礎與通識教育之提昇－物理與數學－分項計畫三:物理通識課程教材設計及實施(4/4) (2004-08 to 2005-07)",
+    "基礎科學教育改進計畫─物理B類-培養基礎科學人才─高中學生物理知識之輔導與研習 (2004-02 to 2004-12)",
+    "提昇大學基礎教育計畫－自然科學專業基礎與通識教育之提昇－物理與數學－分項計畫一:電腦化普物實驗(3/4) (2003-08 to 2004-07)",
+    "提昇大學基礎教育計畫－自然科學專業基礎與通識教育之提昇－物理與數學－分項計畫三:物理通識課程教材設計及實施(3/4) (2003-08 to 2004-07)",
+    "基礎科學教育改進計畫─物理B類計畫─「培養基礎科學人才－高中學生物理知識之輔導與研習」 (2003-03 to 2003-12)",
+    "提昇大學基礎教育計畫－自然科學專業基礎與通識教育之提昇─物理與數學－分項計畫一：電腦化普物實驗(2/4) (2002-08 to 2003-07)",
+    "提昇大學基礎教育計畫－自然科學專業基礎與通識教育之提昇─物理與數學－分項計畫三：物理通識課程教材設計及實施(2/4) (2002-08 to 2003-07)",
+    "提昇大學基礎教育計畫－自然科學專業基礎與通識教育之提昇－物理與數學－分項計畫一：電腦化普物實驗(1/4) (2001-09 to 2002-08)",
+    "提昇大學基礎教育計畫－自然科學專業基礎與通識教育之提昇－物理與數學－分項計畫三：物理通識課程教材設計及實施(1/4) (2001-09 to 2002-08)",
+    "大學基礎科學設立『教學諮詢中心』計畫─物理諮詢中心 (2001-05 to 2001-12)"
+  ],
+  "perform": [],
+  "reward": [
+    "逢甲大學論文著作獎勵優等獎 (113, 2024-11) - 逢甲大學",
+    "113學年度教學績優獎 (113, 2024-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (111, 2022-11) - 逢甲大學",
+    "物理教育特殊貢獻獎 (107, 2018-08) - 物理教育學會",
+    "105學年度優良導師 (105, 2017-11) - 學生事務處",
+    "逢甲大學論文著作獎勵傑出獎 (106, 2017-11) - 逢甲大學",
+    "104學年度教學優良教師 (104, 2015-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (104, 2015-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (103, 2014-11) - 逢甲大學",
+    "協助教育部及普通高級中學課程物理學科中心辦理「高中資訊科技融入教學-數位教材發展與推廣計畫」 (101, 2012-08) - 教育部",
+    "指導普通高級中學課程物理學科中心辦理100年度工作計畫，提供高中物理課程及教師研習之專業諮詢 (100, 2012-03) - 教育部",
+    "指導普通高級中學課程物理學科中心(國立臺中第一高級中學)辦理99年度工作計畫及提供課程專業諮詢 (99, 2011-07) - 教育部",
+    "指導普通高級中學課程物理學科中心（國立臺中第一高級中學）辦理98年度工作計畫及提供課程專業諮詢 (98, 2010-04) - 逢甲大學/人事室",
+    "辦理優先採購身心障礙福利機構團體或庇護工場生產物品及服務獲得內政部推薦獎勵 (97, 2009-02) - 逢甲大學/人事室",
+    "物理教育傑出推廣獎 (95, 2006-11) - 中華民國物理教育學會",
+    "逢甲大學論文著作獎勵傑出獎 (95, 2006-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (95, 2006-11) - 逢甲大學",
+    "特殊貢獻獎 (95, 2006-08) - 2006物理教學及示範研討會",
+    "逢甲大學論文著作獎勵傑出獎 (94, 2005-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵 (93, 2004-11) - 逢甲大學",
+    "92年度基礎教育改進計畫 優等獎 (92, 2004-05) - 教育部",
+    "逢甲大學論文著作獎勵 (91, 2002-11) - 逢甲大學"
+  ],
+  "speech": [
+    {
+      "演講題目": "從一公尺有多長談雷射的應用 －公尺的故事",
+      "邀請單位": "清水高中",
+      "演講日期": "2017-08"
+    },
+    {
+      "演講題目": "偏振光彩色圖及燈箱的製作",
+      "邀請單位": "台中市龍海國小",
+      "演講日期": "2017-03"
+    },
+    {
+      "演講題目": "空氣柱共振與聲音頻分析",
+      "邀請單位": "台中市龍海國小",
+      "演講日期": "2016-03"
+    },
+    {
+      "演講題目": "物理通識課程實現與經營之淺見與分享",
+      "邀請單位": "2015物理教育年會",
+      "演講日期": "2015-08"
+    },
+    {
+      "演講題目": "運用在課堂上的物理演示及實作",
+      "邀請單位": "輔大物理系",
+      "演講日期": "2015-06"
+    },
+    {
+      "演講題目": "2D變3D的光學立體圖術",
+      "邀請單位": "西苑高中",
+      "演講日期": "2015-05"
+    },
+    {
+      "演講題目": "2D變3D的光學立體圖術",
+      "邀請單位": "惠文高中",
+      "演講日期": "2014-12"
+    },
+    {
+      "演講題目": "2D變3D的光學立體圖術",
+      "邀請單位": "暨大附屬高中",
+      "演講日期": "2014-10"
+    },
+    {
+      "演講題目": "2D變3D的光學立體圖術",
+      "邀請單位": "中港高中",
+      "演講日期": "2014-09"
+    },
+    {
+      "演講題目": "2D變3D的光學立體圖術",
+      "邀請單位": "弘文高中",
+      "演講日期": "2014-05"
+    },
+    {
+      "演講題目": "Fiber Evanescent Wave Spectroscopy of C2H2 Molecules in the 1.5μm Wavelength Region",
+      "邀請單位": "中研院原分所",
+      "演講日期": "2014-05"
+    },
+    {
+      "演講題目": "2D變3D的光學立體圖術",
+      "邀請單位": "豐原高中",
+      "演講日期": "2014-05"
+    },
+    {
+      "演講題目": "2D變3D的光學立體圖術",
+      "邀請單位": "大甲高中",
+      "演講日期": "2014-05"
+    },
+    {
+      "演講題目": "Fiber Evanescent Wave Spectroscopy of C2H2 Molecules in the 1.5μm Wavelength Region",
+      "邀請單位": "彰化師大物理系",
+      "演講日期": "2014-05"
+    },
+    {
+      "演講題目": "管鐘與氣球膜直笛的原理與製作",
+      "邀請單位": "台中市龍井區龍海國小",
+      "演講日期": "2014-04"
+    },
+    {
+      "演講題目": "數位化實驗在物理課堂演示上的運用",
+      "邀請單位": "嘉義高工與高中課程物理學科中心",
+      "演講日期": "2014-03"
+    },
+    {
+      "演講題目": "奔騰紙馬的製作與物理探索",
+      "邀請單位": "台中一中科研社",
+      "演講日期": "2014-03"
+    },
+    {
+      "演講題目": "兩難困境與適切的抉擇— 科技與工程倫理簡介及案例分析",
+      "邀請單位": "逢甲大學光電學系",
+      "演講日期": "2013-10"
+    },
+    {
+      "演講題目": "數位化實驗在物理課堂演示上的運用",
+      "邀請單位": "高中物理學科中心",
+      "演講日期": "2013-09"
+    },
+    {
+      "演講題目": "瑰麗奇妙的彩虹 -以細小玻璃珠展示彩虹",
+      "邀請單位": "台中市新社高中",
+      "演講日期": "2012-11"
+    },
+    {
+      "演講題目": "聽宇宙在唱歌－隨手取材 演示共振的奧妙",
+      "邀請單位": "高中物理學科中心",
+      "演講日期": "2012-10"
+    },
+    {
+      "演講題目": "燃燒物理魂-把彩虹捧在手心 ：以細小玻璃珠展示彩虹",
+      "邀請單位": "中華民國物理教育聯合會議，遠流",
+      "演講日期": "2012-08"
+    },
+    {
+      "演講題目": "科技與工程倫理 -兩難困境下的抉擇",
+      "邀請單位": "逢甲大學光電系",
+      "演講日期": "2011-12"
+    },
+    {
+      "演講題目": "課堂教學之物理示範與遊戲範例",
+      "邀請單位": "東海大學物理系",
+      "演講日期": "2011-11"
+    },
+    {
+      "演講題目": "生活中的偏振光",
+      "邀請單位": "台中市龍井區龍海國小",
+      "演講日期": "2011-11"
+    },
+    {
+      "演講題目": "High Sensitivity and High Resolution Laser Spectroscopy of C2H2 Molecules with Optical Waveguides in the 1.5μm Wavelength Region",
+      "邀請單位": "聯合大學光電工程系",
+      "演講日期": "2011-05"
+    },
+    {
+      "演講題目": "High Sensitivity and High Resolution Laser Spectroscopy of C2H2 Molecules with Optical Waveguides in the 1.5μm Wavelength Region",
+      "邀請單位": "清華大學物理系",
+      "演講日期": "2011-03"
+    },
+    {
+      "演講題目": "立體圖與全像術",
+      "邀請單位": "台中縣龍海國小",
+      "演講日期": "2010-12"
+    },
+    {
+      "演講題目": "奇妙有趣的聲學與偏振光學示範",
+      "邀請單位": "台中縣龍井鄉龍海國小",
+      "演講日期": "2010-04"
+    },
+    {
+      "演講題目": "從二朵烏雲到重新綻放光明-談近代物理發展的例子：光量子說到雷射",
+      "邀請單位": "苗栗縣竹南君毅高中",
+      "演講日期": "2009-03"
+    },
+    {
+      "演講題目": "奇妙有趣的聲學示範",
+      "邀請單位": "台中縣龍海國小",
+      "演講日期": "2008-09"
+    },
+    {
+      "演講題目": "運用在課堂上的物理示範與實作",
+      "邀請單位": "東海大學物理系",
+      "演講日期": "2008-06"
+    },
+    {
+      "演講題目": "從一公尺有多長談雷射的應用",
+      "邀請單位": "中正大學物理系（TEAL）",
+      "演講日期": "2008-05"
+    },
+    {
+      "演講題目": "奇妙有趣的物理示範及動手做",
+      "邀請單位": "台中市向上國中",
+      "演講日期": "2008-04"
+    },
+    {
+      "演講題目": "High Sensitivity and High Resolution Laser Spectroscopy of M",
+      "邀請單位": "中興大學物理系",
+      "演講日期": "2007-05"
+    },
+    {
+      "演講題目": "從一公尺有多長談雷射的應用",
+      "邀請單位": "國立虎尾高中",
+      "演講日期": "2007-04"
+    },
+    {
+      "演講題目": "普物教師成長社群研習：普物補充教材的開發與實施",
+      "邀請單位": "逢甲大學光電學系/物理中心",
+      "演講日期": "2006-03"
+    },
+    {
+      "演講題目": "High Sensitivity and High Resolution Laser Spectroscopy of M",
+      "邀請單位": "高雄師範大學物理研究所",
+      "演講日期": "2006-03"
+    },
+    {
+      "演講題目": "從一公尺有多長談雷射的應用",
+      "邀請單位": "高師大物理系與光通系",
+      "演講日期": "2006-03"
+    },
+    {
+      "演講題目": "彩虹",
+      "邀請單位": "國立虎尾高中",
+      "演講日期": "2005-12"
+    },
+    {
+      "演講題目": "奇妙全像術",
+      "邀請單位": "惠文高中",
+      "演講日期": "2005-07"
+    },
+    {
+      "演講題目": "公尺的故事",
+      "邀請單位": "逢甲大學通識中心：通識沙龍",
+      "演講日期": "2005-06"
+    },
+    {
+      "演講題目": "彩虹",
+      "邀請單位": "台中縣立人高中",
+      "演講日期": "2005-06"
+    },
+    {
+      "演講題目": "彩虹",
+      "邀請單位": "台中縣長億高中",
+      "演講日期": "2005-05"
+    },
+    {
+      "演講題目": "彩虹",
+      "邀請單位": "台中一中",
+      "演講日期": "2005-04"
+    },
+    {
+      "演講題目": "彩虹",
+      "邀請單位": "文華高中",
+      "演講日期": "2004-11"
+    },
+    {
+      "演講題目": "應用在課堂教學上的物理示範與遊戲",
+      "邀請單位": "新竹市國教輔導團",
+      "演講日期": "2004-11"
+    },
+    {
+      "演講題目": "以玻璃珠示範彩虹現象",
+      "邀請單位": "台東高中",
+      "演講日期": "2004-08"
+    },
+    {
+      "演講題目": "彩虹",
+      "邀請單位": "苑裡高中",
+      "演講日期": "2004-08"
+    },
+    {
+      "演講題目": "應用在課堂教學上的物理示範與遊戲",
+      "邀請單位": "國立科學工藝博物館",
+      "演講日期": "2004-07"
+    },
+    {
+      "演講題目": "彩虹",
+      "邀請單位": "西苑高中",
+      "演講日期": "2003-11"
+    },
+    {
+      "演講題目": "彩虹與奔騰紙馬教學設計",
+      "邀請單位": "國立教育研究院",
+      "演講日期": "2003-11"
+    },
+    {
+      "演講題目": "彩虹",
+      "邀請單位": "惠文高中",
+      "演講日期": "2003-10"
+    },
+    {
+      "演講題目": "彩虹",
+      "邀請單位": "明道高中",
+      "演講日期": "2003-10"
+    },
+    {
+      "演講題目": "High Sensitivity and High Resolution Laser Spectroscopy of M",
+      "邀請單位": "台灣師範大學物理系",
+      "演講日期": "2003-04"
+    },
+    {
+      "演講題目": "從公尺的定義探討雷射在測長之應用",
+      "邀請單位": "財團法人精密機械研究發展中心",
+      "演講日期": "2002-11"
+    }
+  ],
+  "material": [],
+  "tal": []
+}

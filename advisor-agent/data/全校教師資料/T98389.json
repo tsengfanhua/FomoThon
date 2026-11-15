@@ -1,0 +1,902 @@
+{
+  "teacherId": "T98389",
+  "name": "王啟昌",
+  "mainUnit": "工程與科學學院",
+  "detailUnit": "機械與電腦輔助工程學系",
+  "skill": [
+    "熱設計與熱決策Thermal design and decision",
+    "工具機熱設計、快熱與熱變位補償技術Tool machine thermal design, fast heat and thermal",
+    "感測器設計與智慧決策Sensor design and intelligent decision making"
+  ],
+  "edu": [
+    "國立成功大學 機械工程學系 博士",
+    "國立成功大學 機械系 碩士",
+    "國立中興大學 農業機械工程學系 學士"
+  ],
+  "fcuExp": [
+    "研究推動組 組長",
+    "研究發展處 副研發長",
+    "機械與電腦輔助工程學系 系主任",
+    "產學合作處 副產學合作長",
+    "研究發展處 研發長",
+    "工程與科學學院 院長",
+    "微積分教學中心 主任",
+    "物理教學研究中心 主任",
+    "紡織與材料工業研究中心 主任",
+    "逢甲大學帆宣智慧城市5G實驗室 研究員",
+    "鞋業製造中心 主任",
+    "機械與電腦輔助工程學系 副教授",
+    "機械與電腦輔助工程學系 教授",
+    "機械與電腦輔助工程學系 特聘教授",
+    "機械與電腦輔助工程學系 教授",
+    "機械與電腦輔助工程學系 教授",
+    "機械與電腦輔助工程學系 特聘教授",
+    "機械與電腦輔助工程學系 特聘教授"
+  ],
+  "currjob": [],
+  "otherExp": [
+    "興國管理學院 教務處 教務長",
+    "興國管理學院 研發室 主任",
+    "興國管理學院 科技管理學系 副教授",
+    "興國管理學院 科技管理學系 系主任",
+    "興國管理學院 資訊管理學系 助理教授"
+  ],
+  "journal": [
+    {
+      "論文名稱": "Thermal Behavior of Polytetrafluoroethylene in Sintering Process",
+      "期刊名稱": "Thermal Science and Engineering Progress (SCIE)",
+      "作者群": "Van-The Than*, Chi-Chang Wang, Thi-Thao Ngo, Chi-Hung Lin"
+    },
+    {
+      "論文名稱": "Applying rapid heating for controlling thermal displacement of CNC lathe",
+      "期刊名稱": "Archive of Mechanical Engineering (JCR-ESCI)",
+      "作者群": "Van-The Than, Chi-Chang Wang, Thi-Thao Ngo, Guan-Liang Guo"
+    },
+    {
+      "論文名稱": "A Study on Thermal Displacement of CNC Horizontal Lathe Based on Movable Component Temperature Corresponding",
+      "期刊名稱": "Australian Journal of Mechanical Engineering (JCR-ESCI)",
+      "作者群": "Van-The Than, Thi-Thao Ngo, Ding-Yuan Su, Chi-Chang Wang"
+    },
+    {
+      "論文名稱": "Developing a Thermoelectric Cooling Module for control Temperature and Thermal Displacement of Small Built-in Spindle",
+      "期刊名稱": "Thermal Science and Engineering Progress (EI)",
+      "作者群": "Thi-Thao Ngo, Chi-Chang Wang, Yen-Tung Chen, Van-The Than*"
+    },
+    {
+      "論文名稱": "Using A Flexible IoT Architecture and Sequential AI Model to Recognize and Predict the Production Activities in the Labor-intensive Manufacturing Site",
+      "期刊名稱": "Electronics (SCIE)",
+      "作者群": "Cadmus Yuan*, Chic Chang Wang, Ming-Lun Chang, Wen-Ting Lin, Po-An Lin, Chang-Chi Lee, Zhe-Luen Tsui"
+    },
+    {
+      "論文名稱": "Study on Heat Sources of Horizontal Lathe Machine by Using Inverse Method",
+      "期刊名稱": "Journal of Engineering Research (SCIE)",
+      "作者群": "Thi-Thao Ngo, Chi-Chang Wang, Ming-Lun Chang, Van-The Than*"
+    },
+    {
+      "論文名稱": "Improving Temperature Uniformity of Glass Panels in TFT-LCD Oven Based on Perforated Plates",
+      "期刊名稱": "Thermal Science and Engineering Progress (SCIE)",
+      "作者群": "Thi-Thao Ngo, Chi-Chang Wang, Hsiao-Hui Wu, Van-The Than"
+    },
+    {
+      "論文名稱": "Estimating heat generation and welding temperature for gas metal arc welding process",
+      "期刊名稱": "Applied Thermal Engineering (SCIE)",
+      "作者群": "T. T. Ngo*, C. C. Wang, H. H. Jin, V. T. Than"
+    },
+    {
+      "論文名稱": "Analyzing characteristics of high-speed spindle bearing under constant preload",
+      "期刊名稱": "Journal of Engineering Tribology, Proceedings of the Institution of Mechanical Engineers Part J (SCIE)",
+      "作者群": "T. T. Ngo, V. T. Than, C. C. Wang, and J. H. Huang*"
+    },
+    {
+      "論文名稱": "One-dimensional model for axial thermal error in a micro high-speed spindle",
+      "期刊名稱": "Proceedings of the Institution of Mechanical Engineers, Part C: Journal of Mechanical Engineering Science (SCIE)",
+      "作者群": "V. T. Than*, J. H. Huang, T. T. Ngo and C. C. Wang"
+    },
+    {
+      "論文名稱": "One-dimensional model for axial thermal error in a micro high-speed spindle",
+      "期刊名稱": "Journal of Mechanical Engineering Science (SCIE)",
+      "作者群": "Van-The Than,  Jin H. Huang* Thi-Thao Ngo and Chi-Chang Wang"
+    },
+    {
+      "論文名稱": "Hybrid Spline Difference Method for Heat Transfer Analysis of Nonlinear Rectangular Fins",
+      "期刊名稱": "Journal of the Chinese Society of Mechanical Engineers (SCIE)",
+      "作者群": "Chi-Chang Wang* and Liao Wu_Jung"
+    },
+    {
+      "論文名稱": "Three Degrees-of-Freedom Optical Spindle Error Motion Measurement Device",
+      "期刊名稱": "SENSORS AND MATERIALS (SCIE)",
+      "作者群": "H. W. Lee*, J. R. Chen, B. L. Ho, and C. C. Wang"
+    },
+    {
+      "論文名稱": "Simplified BFGS method estimate Mechanical Parameters of a Moving-Coil Loudspeaker",
+      "期刊名稱": "Journal of the Chinese Society of Mechanical Engineers (SCIE)",
+      "作者群": "Huang Jin-Huang and Chi-Chang Wang*"
+    },
+    {
+      "論文名稱": "Analyzing characteristics of high-speed spindle bearing under constant preload",
+      "期刊名稱": "Journal of Engineering Tribology, Proceedings of the Institution of Mechanical Engineers Part J (SCIE)",
+      "作者群": "Thi-Thao Ngo, Van-The Than, Chi-Chang Wang, and Jin H. Huang*"
+    },
+    {
+      "論文名稱": "Preventing damage to miniature-loudspeaker by means of dynamic detection of excessive diaphragm displacement",
+      "期刊名稱": "The Journal of the Acoustical Society of America (SCIE)",
+      "作者群": "Yu-Ting Tsai, S. J. Pawar, Chi-Chang Wang and Jin H. Huang*"
+    },
+    {
+      "論文名稱": "A BFGS and simple step method for estimating the interface temperature in 2D ultrasonic seam welding",
+      "期刊名稱": "Applied Thermal Engineering (SCIE)",
+      "作者群": "Thi-Thao Ngo, Jin H. Huang, Van-The Than, Chi-Chang Wang"
+    },
+    {
+      "論文名稱": "A New Meshfree Method for Solving Steady-state Modified Burgers’ Equation in Transport Problems",
+      "期刊名稱": "Smart Science (SCIE)",
+      "作者群": "Chih-Wen Chang*, Jin-Huang Huang and Chi-Chang Wang"
+    },
+    {
+      "論文名稱": "Estimating time-varying heat sources in a high speed spindle based on two measurement temperatures",
+      "期刊名稱": "International Journal of Thermal Sciences (SCIE)",
+      "作者群": "Van-The Than, Chi-Chang Wang, Thi-Thao Ngo and Jin H. Huang*"
+    },
+    {
+      "論文名稱": "An inverse method for estimating heat sources in a high speed spindle",
+      "期刊名稱": "Applied Thermal Engineering (SCIE)",
+      "作者群": "Jin H. Huang*, V.T. Than, T.T. Ngo, C.C. Wang"
+    },
+    {
+      "論文名稱": "Inverse Simulation and Experimental Verification of Temperature-Dependent Thermophysical Properties",
+      "期刊名稱": "International Communication in Heat and Mass Transfer (SCIE)",
+      "作者群": "Thi-Thang Ngo, Jin-Huang Huang and Chi-Chang Wang*"
+    },
+    {
+      "論文名稱": "HSDM and BFGS method for Determining the Heat Generation and Range of Heat Distribution in 2-D Ultrasonic Seam Welding Problem",
+      "期刊名稱": "Numerical Heat Transfer (SCIE)",
+      "作者群": "Jin-Huang Huang, Thi-Thao Ngo, and Chi-Chang Wang"
+    },
+    {
+      "論文名稱": "The study of an innovative heat removal model of the aluminumacetone flat plate heat pipe on high power leds",
+      "期刊名稱": "Transactions of the Canadian Society for Mechanical Engineering (SCIE)",
+      "作者群": "P. J. Cheng, David T. W. Lin, W. M. Liu, Jui-Ching Hsieh, Chi-Chang Wang"
+    },
+    {
+      "論文名稱": "The BFGS Method for Estimating the Interface Temperature and Convection Coefficient in Ultrasonic Welding",
+      "期刊名稱": "International Communications in Heat and Mass Transfer Corresponding (SCIE)",
+      "作者群": "Thi-Thao Ngo, Jin-Huang Huang and Chi-Chang Wang*,"
+    },
+    {
+      "論文名稱": "Design of the Cooling Module of LEDs Based on the Aluminum-Acetone Flat Plate Heat Pipe",
+      "期刊名稱": "Applied Mechanics and Materials (EI)",
+      "作者群": "Po-Jen Cheng, David T. W. Lin, Chi-Chang Wang, Wu Man Liu and Chai Wei Chang"
+    },
+    {
+      "論文名稱": "Thermal analysis of aluminum-acetone flat plate heat pipe application in heat dissipation of high power LEDs",
+      "期刊名稱": "International Proceedings of Chemical, Biological and Environmental Engineering (EI)",
+      "作者群": "W.M. Liu, David T.W. Lin, Chi-Chang Wang"
+    },
+    {
+      "論文名稱": "Using Insertion Heuristic to Solve Dynamic Multi-Depot Vehicle Routing Problem",
+      "期刊名稱": "Journal of Algorithms and Optimization ()",
+      "作者群": "Yiyi Kuo, Chi-Chang Wang"
+    },
+    {
+      "論文名稱": "Bifurcation and Nonlinear Dynamic Analysis of Externally Pressurized Double Air films Bearing System",
+      "期刊名稱": "Mathematical Problems in Engineering (SCIE)",
+      "作者群": "Cheng-Chi Wang*, Chin-Chia Liu and Chi-Chang Wang"
+    },
+    {
+      "論文名稱": "Minimum Entropy Generation Theorem Investigation and Optimization of Metal Hydride Alloy Hydrogen Storage",
+      "期刊名稱": "Smart Science (一般期刊)",
+      "作者群": "Chi-Chang Wang*, Tzu-Wei Liu"
+    },
+    {
+      "論文名稱": "An inverse method to estimate the electromechanical parameters of moving-coil loudspeakers",
+      "期刊名稱": "Journal of the Acoustical Society of America (SCIE)",
+      "作者群": "Yu-Ting Tsai, Chi-Chang Wang, and J. H. Huang*"
+    },
+    {
+      "論文名稱": "Use Residual Correction Method and Monotone Iterative Technique to Calculate the Upper and Lower Approximate Solutions of Singularly Perturbed Non-linear Boundary Value Problems",
+      "期刊名稱": "Smart Science ()",
+      "作者群": "Chi-Chang Wang*, Cha'o-Kuang Chen"
+    },
+    {
+      "論文名稱": "Hybrid Spline Difference Method for Heat Transfer and Thermal Stresses in Annular Fins",
+      "期刊名稱": "Numerical Heat Transfer Part B: Fundamentals (SCIE)",
+      "作者群": "Chi-Chang Wang*, Wu-Jung Liao and Ching-Yu Yang"
+    },
+    {
+      "論文名稱": "Bifurcation and nonlinear dynamic analysis of noncircular aerodynamic journal bearing system",
+      "期刊名稱": "Nonlinear Dynamics (SCIE)",
+      "作者群": "Cheng-Chi Wang*, Chi-Chang Wang"
+    },
+    {
+      "論文名稱": "Chaotic and Subharmonic motion Analysis of Floating Ring Gas Bearing System by Hybrid Numerical Method",
+      "期刊名稱": "Mathematical Problems in Engineering (SCIE)",
+      "作者群": "Cheng-Chi Wang*, Her Terng Yau and Chi-Chang Wang"
+    },
+    {
+      "論文名稱": "Bus Route Design with limited Travel Time",
+      "期刊名稱": "Transport (SCIE)",
+      "作者群": "Yiyo Kuo*, Chi-Ming Luo, Chi-Chang Wang"
+    },
+    {
+      "論文名稱": "Numerical and Experimental Analysis of Harmonic Distortion in a Moving-Coil Loudspeaker",
+      "期刊名稱": "Communications in Nonlinear Science and Numerical Simulation (SCIE)",
+      "作者群": "Chun Chang, Chi-Chang Wang, Y.C. Shiah, and J. H. Huang"
+    },
+    {
+      "論文名稱": "Analysis of convective-radiative fins by using hybrid spline difference method",
+      "期刊名稱": "Applied Mechanics and Materials (EI)",
+      "作者群": "Chi-Chang Wang*, Liao Wu-Jung, Chao Lu-Ping"
+    },
+    {
+      "論文名稱": "Hybrid Spline Difference Method (HSDM) for Transient Heat Conduction",
+      "期刊名稱": "Numerical Heat Transfer (SCIE,EI)",
+      "作者群": "Chi-Chang Wang*, Lu-Ping Chao, Wu-Jung Liao"
+    },
+    {
+      "論文名稱": " Hybrid Spline Difference Method for the Burgers’ Equation",
+      "期刊名稱": "Applied Mathematics and Computer (SCIE,EI)",
+      "作者群": "Chi-Chang Wang*, Wu-Jung Liao, Yin-Sung Hsu"
+    },
+    {
+      "論文名稱": "Effects of Carbon-Fiber Metal-Hydrogen Tank with Inner Heat",
+      "期刊名稱": "Advanced Science Letters ()",
+      "作者群": "Wang Chi-Chang*, Wu Chang-Mou, Huang Jin-Huang, Peng Chi-Hong"
+    },
+    {
+      "論文名稱": "Cubic Spline Difference Method for Heat Conduction",
+      "期刊名稱": "Inter. Comm. in Heat and Mass Transfer (SCIE)",
+      "作者群": "Wang Chi-Chang, Huang, J.H., Yang Dane-Jong"
+    },
+    {
+      "論文名稱": "A variable neighborhood search for the multi-depot vehicle routing problem with loading cost",
+      "期刊名稱": "Expert Systems With Applications (SCIE)",
+      "作者群": "Yiyo Kuo*, Chi-Chang Wang"
+    },
+    {
+      "論文名稱": "Inverse estimation of unknown heat flux boundary with irregular shape fins",
+      "期刊名稱": " Int. J. Heat Mass Transfer (SCIE,EI)",
+      "作者群": "David T. W. Lin, C. Y. Yang, J. C. Li and C. C. Wang"
+    },
+    {
+      "論文名稱": "Hybrid Spline Difference Method for Steady State Heat Conduction",
+      "期刊名稱": "Numerical Heat Transfer, Part B: Fundamentals (SCIE,EI)",
+      "作者群": "Wang Chi-Chang*, Huang Jin-Hung, Yang Dane-Jong"
+    },
+    {
+      "論文名稱": "Optimizing the VRP by Minimizing Fuel Consumption",
+      "期刊名稱": "Management of Environmental Quality: An International Journa ()",
+      "作者群": "Kuo, Y.* and Chi-Chang Wang"
+    },
+    {
+      "論文名稱": "Inverse method in simultaneously estimate internal heat generation and root temperature of T-shaped fin",
+      "期刊名稱": "International Communication in Heat and Mass Transfer (SCIE,EI)",
+      "作者群": "Chi-Chang Wang and Ching-Yu Yang"
+    },
+    {
+      "論文名稱": "Turbulent film boiling on a Non-isothermal horizontal elliptical tube with steam heating surface with steam heating surface",
+      "期刊名稱": "Journal of Mechanics (SCIE,EI)",
+      "作者群": "Hai-Ping Hu*, Chi-Chang Wang, Cha'o-Kuang Chen"
+    },
+    {
+      "論文名稱": "Error Analysis of Solutions of Second-order Boundary Value Problems Obtained with Residual Correction Method",
+      "期刊名稱": "International Journal of Computer Mathematics (SCIE,EI)",
+      "作者群": "Chi-Chang Wang*"
+    },
+    {
+      "論文名稱": "Inverse Estimation of Temperature Boundary Conditions with Irregular Shape of Gas Tank",
+      "期刊名稱": "International Journal of Heat and Mass Transfer (SCIE,EI)",
+      "作者群": "David T.W. Lin, Chi-Chang Wang* and Ching-Yu Yang"
+    },
+    {
+      "論文名稱": "Direct and Inverse solutions with non-Fourier effect on the irregular shape",
+      "期刊名稱": "International Journal of Heat and Mass Transfer (SCIE,EI)",
+      "作者群": "Chi-Chang Wang*"
+    },
+    {
+      "論文名稱": "Analysis of Error Bounds of Elliptic Partial Differential Equations by Using Residual Correction Method",
+      "期刊名稱": "3CA 2010 - 2010 International Symposium on Computer, Communication, Control and Automation (EI,研討會後轉收錄EI)",
+      "作者群": "Chi-Chang Wang* and Minter Cheng"
+    },
+    {
+      "論文名稱": "An analysis of inverse heat conduction problem on irregular shape fins",
+      "期刊名稱": "IMECS 2010 (EI)",
+      "作者群": "Li J. C., Lin David T. W.*, Wang C. C., Yang, C.Y."
+    },
+    {
+      "論文名稱": "Applying the differential equation maximum principle with cubic spline method to determine the error bounds of forced convection problems",
+      "期刊名稱": "International Communications in Heat and Mass Transfer (SCIE,EI)",
+      "作者群": "Chi-Chang Wang*"
+    },
+    {
+      "論文名稱": "Application of the Maximum Principle for Differential Equations Together with Fifth-degree B-spline in Deciding Error Boundaries of Fourth Order Obstacle Boundary Value Problems",
+      "期刊名稱": "Journal of Hsing Kuo University ()",
+      "作者群": "Chi-Chang Wang* and Z. Y. Lee"
+    },
+    {
+      "論文名稱": "Analysis on Error Bounds of Heat Transfer Problems Using the Fast Residual Correction Method",
+      "期刊名稱": "Numerical Heat Transfer (SCIE,EI)",
+      "作者群": "Chi-Chang Wang*, Cha'o-Kuang Chen and Chen-Yu Chiang"
+    },
+    {
+      "論文名稱": "Uniform-parameter spline method for solving non-fourier heat conduction problems",
+      "期刊名稱": "Numerical Heat Transfer Part B (SSCI)",
+      "作者群": "Chi-Chang Wang* and Zong-Yi Lee"
+    },
+    {
+      "論文名稱": "Uniform Parameter Spline Method for solving the non-Fourier heat conduction problems",
+      "期刊名稱": "Numerical Heat Transfer (SCIE,EI)",
+      "作者群": "Chi-Chang Wang* and Zong-Yi Lee"
+    },
+    {
+      "論文名稱": "Optimizing Goods Assignment and the Vehicle Routing Problem with Time-Dependent Travel Speeds",
+      "期刊名稱": "Computers and Industrial Engineering (SCIE,EI)",
+      "作者群": "Y. Kuo*, Chi-Chang Wang. and P.Y. Chuang"
+    },
+    {
+      "論文名稱": "Flow and heat transfer of the axisymmetric stagnation flow passing through irregular wafe",
+      "期刊名稱": "Proceedings of the Institution of Mechanical Engineers (SCIE,EI)",
+      "作者群": "Chi-Chang Wang*, Hai-Ping Hu and  Zong-Yi Lee"
+    },
+    {
+      "論文名稱": "Error Analysis of Approximate Solutions of Non-linear Burgers' Equation",
+      "期刊名稱": "Applied Mathematics and Computation (SCIE,EI)",
+      "作者群": "Chi-Chang Wang*, David. T. W. Lin and Hai-Ping Hu"
+    },
+    {
+      "論文名稱": "Application of finite difference residual correction method for nonlinear heat transfer problems",
+      "期刊名稱": "Numerical Heat Transfer Part B: Fundamentals (SCIE,EI)",
+      "作者群": "Chi-Chang Wang*"
+    },
+    {
+      "論文名稱": "Application of the Maximum Principle for Differential Equations in Combination with Finite Difference Method to Find Transient Approximate Solutions of Heat Equations and Error Analysis",
+      "期刊名稱": "Numerical Heat Transfer Part B: Fundamentals (SCIE,EI)",
+      "作者群": "Chi-Chang Wang*"
+    },
+    {
+      "論文名稱": "Surface Tension Effects in Turbulent Film Boiling on a Horizontal Elliptical Tube",
+      "期刊名稱": "AIAA Journal of Thermophysics and Heat Transfer (SCIE,EI)",
+      "作者群": "Hai-Ping Hu*, Chi-Chang Wang, Cha'o-Kuang Chen"
+    },
+    {
+      "論文名稱": "Magnetothermoelastic transient response of multilayered conical shells",
+      "期刊名稱": "International Communications in Heat and Mass Transfer (SCIE,EI)",
+      "作者群": "Zong-Yi Lee*, Yi-Hsien Wu, Hung-Ming Sung,Chi-Chang Wang"
+    },
+    {
+      "論文名稱": "Turbulent film boiling on a horizontal tube with variable wall temperature",
+      "期刊名稱": "International Communications in Heat and Mass Transfer (SCIE,EI)",
+      "作者群": "Hai-Ping Hu*, Chi-Chang Wang, Cha'o-Kuang Chen,"
+    },
+    {
+      "論文名稱": "Study on Monotonicity of Boundary Value Problems of Differential Equations",
+      "期刊名稱": "Applied Mathematics and Computation (SCIE,EI)",
+      "作者群": "Chi-Chang Wang* and Hai-Ping Hu"
+    },
+    {
+      "論文名稱": "Application of Residual Correction Method in Calculating Upper and Lower Approximate Solutions of Fifth-order Boundary Value Problems",
+      "期刊名稱": "Applied Mathematics and Computation (SCIE,EI)",
+      "作者群": "Chi-Chang Wang*, Zong-Yi Lee and Yiyo Kuo"
+    },
+    {
+      "論文名稱": "Hybrid Numerical Method For Studying Thermal Deformation In Rotating Multilayered Hollow Cylinder",
+      "期刊名稱": "MMAIJ: Macromolecules An Indian Journal ()",
+      "作者群": "Z.Y.Lee*, Chi-Chang Wang, H.M.Sung and C.Y.Hu"
+    },
+    {
+      "論文名稱": "Use of new residual correction method to calculate upper and lower solutions of natural convection",
+      "期刊名稱": "Numerical Heat Transfer Part A: Applications (SCIE,EI)",
+      "作者群": "Chi-Chang Wang*"
+    },
+    {
+      "論文名稱": "Use residual correction method to calculate the upper and lower solutions of initial value problem",
+      "期刊名稱": "Applied Mathematics and Computation (SCIE,EI)",
+      "作者群": "Chi-Chang Wang*"
+    },
+    {
+      "論文名稱": "Hybrid numerical method applied to multilayered hollow cylinder with vapor flow",
+      "期刊名稱": "Applied Mathematics and Computation (SCIE,EI)",
+      "作者群": "Z. Y. Lee*, Chi-Chang Wang and C. Y. Hu"
+    },
+    {
+      "論文名稱": "Combined effects of inertia and thermophoresis on particle deposition onto a wafer with wavy surface",
+      "期刊名稱": "International Journal of Heat and Mass Transfer ()",
+      "作者群": "Chi-Chang Wang*"
+    },
+    {
+      "論文名稱": "Thermophoretic deposition of particles from a boundary layer flow onto a continuously moving wavy surface",
+      "期刊名稱": "Acta Mechanica (SCIE,EI)",
+      "作者群": "Chi-Chang Wang* and Cha'o-Kuang Chen"
+    },
+    {
+      "論文名稱": "Effect of thermophoresis on particle deposition rate from a natural convection flow onto a vertical wavy plate,\"",
+      "期刊名稱": "International Communications in Heat and Mass Transfer (SCIE,EI)",
+      "作者群": "Chi-Chang Wang*"
+    },
+    {
+      "論文名稱": "Forced convection in micropolar fluid flow through a wavy-wall channel",
+      "期刊名稱": "Numerical Heat Transform Part A: Applications (SCIE,EI)",
+      "作者群": "Chi-Chang Wang* and Cha'o-Kuang Chen"
+    },
+    {
+      "論文名稱": "Mixed convection boundary layer flow on inclined wavy plates including the magnetic field effect",
+      "期刊名稱": "International Journal of Thermal Science (SCIE,EI)",
+      "作者群": "Chi-Chang Wang* and Cha'o-Kuang Chen"
+    },
+    {
+      "論文名稱": "Three-Dimensional inverse heat transfer analysis during the grinding process",
+      "期刊名稱": "Proceedings of the Institution of Mechanical Engineers (SCIE,EI)",
+      "作者群": "Chi-Chang Wang and Cha'o-Kuang Chen*"
+    },
+    {
+      "論文名稱": "Combined free and forced convection film condensation on a finite-size horizontal wavy plate",
+      "期刊名稱": "ASME Journal of Heat Transfer (SCIE,EI)",
+      "作者群": "Chi-Chang Wang and Cha'o-Kuang Cheng*"
+    },
+    {
+      "論文名稱": "Mixed convection boundary layer flow of non-Newtonian fluids along vertical wavy plates",
+      "期刊名稱": "International Journal of Heat and Fluid Flow (SCIE,EI)",
+      "作者群": "Chi-Chang Wang and Cha'o-Kuang Chen*"
+    },
+    {
+      "論文名稱": "Forced convection in a wavy-wall channel",
+      "期刊名稱": "International Journal of Heat and Mass Transfer ()",
+      "作者群": "Chi-Chang Wang and Cha'o-Kuang Chen*"
+    },
+    {
+      "論文名稱": "Mixed convection of micropolar fluids along a vertical wavy surface",
+      "期刊名稱": "Acta Mechanica (SCIE,EI)",
+      "作者群": "Pao-Tung Hsu, Cha'o-Kuang Chen* and Chi-Chang Wang"
+    },
+    {
+      "論文名稱": "Transient force and free convection along a vertical wavy surface in micropolar fluids,",
+      "期刊名稱": "International Journal of Heat and Mass Transfer (SCIE,EI)",
+      "作者群": "Chi-Chang Wang and Chao'-Kuang Chen*"
+    },
+    {
+      "論文名稱": "Transient analysis of forced convection along a wavy surface in micropolar fluids",
+      "期刊名稱": "AIAA Journal of Thermophysics and Heat Transfer (SCIE,EI)",
+      "作者群": "Cha'o-Kuang Chen* and Chi-Chang Wang"
+    },
+    {
+      "論文名稱": "Forced convection in micropolar fluid flow over a wavy surface",
+      "期刊名稱": "Numerical Heat Transfer Part A (SCIE,EI)",
+      "作者群": "Ching-Yang Cheng and Chi-Chang Wang"
+    }
+  ],
+  "journal2": [],
+  "conference": [
+    {
+      "論文名稱": "Development of a Semiautomatic Probe Card Adjustment Equipment",
+      "會議名稱": "IMPACT 2023 | 18th International Microsystems, Packaging, Assembly and Circuits Technology Conference",
+      "作者群": "Fu Chen Gao, Kuo-Wei Chiang, Zhe-Luen Tsui, Cadmus Yuan, and Chic Chang Wang"
+    },
+    {
+      "論文名稱": "Vibration sensor based IOT system for foot-wear manufacturing",
+      "會議名稱": "the 43rd Conference on Theoretical and Applied Mechanics",
+      "作者群": "C. Yuan, C. C. Wang, M.-L. Chang, W.-T. Lin, P.-A. Lin, and H.-S. Tseng"
+    },
+    {
+      "論文名稱": "Application of Recurrent Neural Network on Reliability Assessment and Manufacturing Condition Monitoring",
+      "會議名稱": "the 43rd Conference on Theoretical and Applied Mechanics",
+      "作者群": "C. Yuan, C. C. Wang, C. C. Lee, and H.-S. Tseng"
+    },
+    {
+      "論文名稱": "Application of 3D-Metal Powder Printing of the Conformal Cooling Channel Design and Establishment on Blow Mold",
+      "會議名稱": "The 43rd National Conference on Theoretical and Applied Mechanics",
+      "作者群": "Hsin-Shu Peng, Kai-Fu Liew, Te-Ming Jou, Chi-Chang Wang"
+    },
+    {
+      "論文名稱": "Effects of Metal Hydride Absorption in Reactor with Annular Finned Tube Heat Exchanger",
+      "會議名稱": "2013 International Applied Science and Precision Engineering Conference (ASPEC2013)",
+      "作者群": "Chi Chang Wang, Chi Hong Peng and Yong Soon Yap*"
+    },
+    {
+      "論文名稱": "Minimum Entropy Generation and Optimization of a metal Hydride Reactor for Hydrogen Storage",
+      "會議名稱": "International Conference on Mechanical and Industrial Engineering (ICMIE'2013)",
+      "作者群": "Chi Chang Wang*, Tzu Wei Liu, Chi Hong Peng and Yong Soon Yap"
+    },
+    {
+      "論文名稱": "具矩形熱控鰭片之碳纖維儲氫罐混合儲釋氫效能分析",
+      "會議名稱": "中國機械工程學會第二十九屆全國學術研討會",
+      "作者群": "王啟昌、劉長學、謝硯鈞*"
+    },
+    {
+      "論文名稱": "混合樣線差分法應用在環狀散熱片之熱傳分析",
+      "會議名稱": "中國機械工程學會第二十九屆全國學術研討會",
+      "作者群": "詹雅勳*、劉建均、王啟昌"
+    },
+    {
+      "論文名稱": "Analysis of convective-radiative fins by using hybrid spline difference method",
+      "會議名稱": "2nd International Conference on Engineering and Technology Innovation 2012 (ICETI2012)",
+      "作者群": "Chi-Chang Wang*, Wu-Jung Liao, Lu-Ping Chao"
+    },
+    {
+      "論文名稱": "金屬氫化物儲氫筒溫控管最佳化儲氫分析與研究",
+      "會議名稱": "第19屆全國計算流體力學研討會",
+      "作者群": "王啟昌*、彭吉宏"
+    },
+    {
+      "論文名稱": "Study on Theoretical Models for Simulation of Self-Propagating High-Temperature Synthesis",
+      "會議名稱": "The 6th Internation Conference on Advanced Computational Engineering and Experimenting",
+      "作者群": "P.W. Hwang*, C.L. Yeh, C.C. Wang"
+    },
+    {
+      "論文名稱": " Ellipsoidal Function Modulated ART Neural Networks for Patter",
+      "會議名稱": "IEEE IS3C 2012",
+      "作者群": "Chao Yin Hsiao, Chin Kun Teng, Po Shih Hsu"
+    },
+    {
+      "論文名稱": "The design and fabrication of the vibration-induced energy harvester on the heat pipe generator",
+      "會議名稱": "The 1st MDEATED international conference",
+      "作者群": "David T. W. Lin, Cheng Fung Shen, Jui-Ching Hsieh, Yuh-Chung Hu, Chi-Cheng Wang"
+    },
+    {
+      "論文名稱": "Effects of lamina consolidation temperature on the mechanical properties of all-polyester self-reinforced composites",
+      "會議名稱": "18th International Conference on Composite Materials",
+      "作者群": "C. M. Wu, C. Y. Chang, C. F. Li, C. C. Wang and C. Y. Lin"
+    },
+    {
+      "論文名稱": "Effects of Carbon-Fiber Metal-Hydrogen Tank with Inner Heat Tube",
+      "會議名稱": "The First International Conference on Engineering and Technology Innovation 2011 (ICETI2011)",
+      "作者群": "Wang Chi-Chang*, Wu Chang-Mou, Huang Jin-Huang, Peng Chi-Hong"
+    },
+    {
+      "論文名稱": "台灣發展結合海洋與地熱之異種資源發電可行性探討",
+      "會議名稱": "2011中華民國航太學會學術研討會",
+      "作者群": "王啟昌，葉詠順，許盈松，張廣智，莊禮鴻"
+    },
+    {
+      "論文名稱": "Circular-Type Routing Optimization for Shuttle Bus Service",
+      "會議名稱": "Transportation Research Board 2011 Annual Meeting",
+      "作者群": "Kuo, Y., Luo C. M. and Chi-Chang Wang"
+    },
+    {
+      "論文名稱": "Optimizing the multi-depot vehicle routing problem minimizing total transportation cost",
+      "會議名稱": "International Conference on Intelligent Manufacturing & Logistics Systems.",
+      "作者群": "Yiyo Kuo, and Chi-Chang Wang"
+    },
+    {
+      "論文名稱": "Analysis of Error Bounds of Elliptic Partial Differential Equations by Using Residual Correction Method",
+      "會議名稱": "2010 International Symposium on Computer, Communication, Control and Automation",
+      "作者群": "Chi-Chang Wang and Minter Cheng"
+    },
+    {
+      "論文名稱": "An Analysis of Inverse Heat Conduction Problem on Irregular Shape Fins",
+      "會議名稱": "Proceedings of the International MultiConference of Engineers and Computer Scientists 2010",
+      "作者群": "J. C. Li, David T. W. Lin, Chi-Chang Wang and C. Y. Yang"
+    },
+    {
+      "論文名稱": "Inverse estimation of temperature boundary on the gas tank",
+      "會議名稱": "2009 The Asian Symposium on Computational Heat Transfer and Fluid Flow (ASCHT)",
+      "作者群": "J. C. Li, P. J. Cheng,Chi-Chang Wang, C. Y. Yang and D. T.W. Lin"
+    },
+    {
+      "論文名稱": "Optimizing vehicle scheduling problem with time-dependent travel speeds",
+      "會議名稱": "中華民國運輸學會97年年會暨國際學術論文研討會",
+      "作者群": "郭宜雍、王啟昌、莊沛縈"
+    },
+    {
+      "論文名稱": " A COMPARISON AND ANALYSIS OF EQUIPMENT EFFICIENCY METRICS FOR EQUIPMENT RELIABILITY",
+      "會議名稱": "2008 Asian International Workshop on Advanced Reliability",
+      "作者群": "Yiyo Kuo, Chi-Chang Wang and PEI-YU LU"
+    },
+    {
+      "論文名稱": "An Optimal Multiple Criteria Operator Allocation Problem for A Multi-Production Line System",
+      "會議名稱": "The 8th Asia Pacific Industrial Engineering & Management System and 2007 Chinese Institute of Industrial Engineers Conference (APIEMS & CIIE Conference 2007)",
+      "作者群": "Yiyo Kuo, and Chi-Chang Wang"
+    },
+    {
+      "論文名稱": "Free and forced convection in turbulent film condensation on a sphere with variable wall temperature",
+      "會議名稱": "第十三屆全國計算流體力學學術研討會",
+      "作者群": "胡海平、王啟昌"
+    },
+    {
+      "論文名稱": "通過不規則圓盤表面的軸對稱停滯流熱傳導分析",
+      "會議名稱": "科技與管理學術研討會",
+      "作者群": "王啟昌、周宏憲"
+    },
+    {
+      "論文名稱": "應用線性熱傳逆算法預測爐內壁幾何形狀",
+      "會議名稱": "科技與管理學術研討會",
+      "作者群": "王啟昌、邱士榮"
+    },
+    {
+      "論文名稱": "利用殘差修正法計算非線性邊界值微分問題的較大及較小解",
+      "會議名稱": "科技與管理學術研討會",
+      "作者群": "王啟昌、江奇男"
+    },
+    {
+      "論文名稱": "波形圓盤上電泳效應對於粒子沈積的影響",
+      "會議名稱": "中國機械工程學會第二十二屆全國學術研討會",
+      "作者群": "詹昆潔、王啟昌"
+    },
+    {
+      "論文名稱": "外加流場下有限長水平版上的薄膜凝結熱傳",
+      "會議名稱": "中國機械工程學會第十八屆全國學術研討會",
+      "作者群": "鄭慶陽、王啟昌"
+    },
+    {
+      "論文名稱": "微極流體在波形面上之強迫對流分析",
+      "會議名稱": "中國力學學會第二十二屆全國學術研討會",
+      "作者群": "王啟昌、陳朝光"
+    },
+    {
+      "論文名稱": "研磨加工過程之三維逆向熱傳分析",
+      "會議名稱": "中國機械工程學會第十五屆全國學術研討會",
+      "作者群": "王啟昌、陳朝光"
+    },
+    {
+      "論文名稱": "微極流體在垂直波形面上之強迫對流分析",
+      "會議名稱": "中國力學學會第二十二屆全國學術研討會",
+      "作者群": "王啟昌、陳朝光"
+    }
+  ],
+  "book": [],
+  "patent": [],
+  "most": [
+    {
+      "name": "無外加溫度感測與現場修模之工具機空間熱變位補償探討(II)",
+      "schoolYear": "113"
+    },
+    {
+      "name": "無外加溫度感測與現場修模之5軸工具機空間熱變位補償探討",
+      "schoolYear": "112"
+    },
+    {
+      "name": "面板製程多層爐之熱板均溫性分析",
+      "schoolYear": "112"
+    },
+    {
+      "name": "研究半監督強化元學習方法應用於工具機加工系統的序列行為診斷分析",
+      "schoolYear": "111"
+    },
+    {
+      "name": "工具機主軸軸承滾珠暫態熱源預測技術(2/2)",
+      "schoolYear": "110"
+    },
+    {
+      "name": "連續生產異質設備產線之工業物聯網建置、狀態預測模型與智能決策方法研究(2/2)",
+      "schoolYear": "110"
+    },
+    {
+      "name": "(興大)結合新穎線上檢驗與力控技術實現工具機與機械手臂精確執行虛實智慧化拋光研磨加工整合研發計畫-結合新穎線上檢驗與力控技術實現工具機與機械手臂精確執行虛實智慧化拋",
+      "schoolYear": "109"
+    },
+    {
+      "name": "製鞋智動化機電系統暨網宇虛實整合開發計畫－製鞋智動化機電系統暨網宇虛實整合開發計畫(3/3)",
+      "schoolYear": "109"
+    },
+    {
+      "name": "工具機主軸軸承滾珠暫態熱源預測技術(1/2)",
+      "schoolYear": "109"
+    },
+    {
+      "name": "連續生產異質設備產線之工業物聯網建置、狀態預測模型與智能決策方法研究(1/2)",
+      "schoolYear": "109"
+    },
+    {
+      "name": "臥式車床X軸向螺桿快熱技術之研發與效應探討",
+      "schoolYear": "109"
+    },
+    {
+      "name": "製鞋智動化機電系統暨網宇虛實整合開發計畫－製鞋智動化機電系統暨網宇虛實整合開發計畫(2/3)",
+      "schoolYear": "108"
+    },
+    {
+      "name": "旋轉葉片振動感測儀器開發與應力分析",
+      "schoolYear": "108"
+    },
+    {
+      "name": "製鞋智動化機電系統暨網宇虛實整合開發計畫－製鞋智動化機電系統暨網宇虛實整合開發計畫(1/3)",
+      "schoolYear": "107"
+    },
+    {
+      "name": "(3/3)4i工程人才培育研究計畫–智慧機械跨領域工程人才培育與研究(跨領域工程教育人才培育與研究計畫)",
+      "schoolYear": "107"
+    },
+    {
+      "name": "(應用型)產學合作計畫－創新氣體輔助雙迴路機構結合模具設計應用於高彈性發泡射出產品開發與成型之研究",
+      "schoolYear": "107"
+    },
+    {
+      "name": "內藏式高速主軸智慧熱決策與熱變位補償技術之探討",
+      "schoolYear": "107"
+    },
+    {
+      "name": "嵌入式感測整合系統之研製與應用",
+      "schoolYear": "107"
+    },
+    {
+      "name": "(中興)AI於智慧機台系統開發：Arvis專業助理、機台預診與精度維持(1/4)",
+      "schoolYear": "106"
+    },
+    {
+      "name": "逢甲大學自有貴重儀器共同使用服務計畫",
+      "schoolYear": "106"
+    },
+    {
+      "name": "(2/3)4i工程人才培育研究計畫–智慧機械跨領域工程人才培育與研究(跨領域工程教育人才培育與研究計畫)",
+      "schoolYear": "106"
+    },
+    {
+      "name": "(深耕)精密主軸於智慧型滾齒機之應用暨推廣(2/2)",
+      "schoolYear": "106"
+    },
+    {
+      "name": "簡易薄膜熱傳導係數量測方法之研究",
+      "schoolYear": "106"
+    },
+    {
+      "name": "逢甲大學自有貴重儀器共同使用服務計畫",
+      "schoolYear": "105"
+    },
+    {
+      "name": "(1/3)4i工程人才培育研究計畫－智慧機械跨領域工程人才培育與研究(跨領域工程教育人才培育與研究計畫)",
+      "schoolYear": "105"
+    },
+    {
+      "name": "(深耕)精密主軸於智慧型滾齒機之應用暨推廣(1/2)",
+      "schoolYear": "105"
+    },
+    {
+      "name": "溫度相依熱參數量測桿之反算技術研究與實驗驗證",
+      "schoolYear": "105"
+    },
+    {
+      "name": "逢甲大學自有貴重儀器共同使用服務計畫",
+      "schoolYear": "104"
+    },
+    {
+      "name": "深耕工業基礎技術專案計畫-工具機精密主軸基礎技術推動與自動化量測平台之研發(2/2)",
+      "schoolYear": "104"
+    },
+    {
+      "name": "簡易BFGS法應用於非線性動圈式換能器熱相依集中參數反算量測之研究與設備研製(2/2)",
+      "schoolYear": "104"
+    },
+    {
+      "name": "深耕工業基礎技術專案計畫-工具機精密主軸基礎技術推動與自動化量測平台之研發(1/2)",
+      "schoolYear": "103"
+    },
+    {
+      "name": "簡易BFGS法應用於非線性動圈式換能器熱相依集中參數反算量測之研究與設備研製(1/2)",
+      "schoolYear": "103"
+    },
+    {
+      "name": "(廠配)產學技術聯盟合作計畫-齒輪CNC磨齒技術發展聯盟(2/3)",
+      "schoolYear": "102"
+    },
+    {
+      "name": "產學技術聯盟合作計畫-齒輪CNC磨齒技術發展聯盟(2/3)",
+      "schoolYear": "102"
+    },
+    {
+      "name": "動圈式換能器熱機制之研究與技術開發：熱模型建構、參數預測、及設計",
+      "schoolYear": "102"
+    },
+    {
+      "name": "以最小熵增定理探討金屬儲氫罐鰭片之優化設計",
+      "schoolYear": "102"
+    },
+    {
+      "name": "(廠配)產業技術聯盟合作計畫-齒輪CNC磨齒技術發展聯盟(1/3)",
+      "schoolYear": "101"
+    },
+    {
+      "name": "產業技術聯盟合作計畫-齒輪CNC磨齒技術發展聯盟(1/3)",
+      "schoolYear": "101"
+    },
+    {
+      "name": "3維金屬儲氫罐熱質傳逆問題之理論探討與實作驗證(2/2)",
+      "schoolYear": "101"
+    },
+    {
+      "name": "3維金屬儲氫罐熱質傳逆問題之理論探討與實作驗證(1/2)",
+      "schoolYear": "100"
+    },
+    {
+      "name": "金屬氫化物儲氫筒溫控元件最佳化分析與研究",
+      "schoolYear": "100"
+    },
+    {
+      "name": "建構參數樣線數值計算方法與應用於微尺度下非傅立葉熱傳逆問題之探討",
+      "schoolYear": "99"
+    }
+  ],
+  "tech": [],
+  "induAca": [
+    "智慧產線開發與相關技術之探討應用II (2024-12 to 2025-11)",
+    "真空壓膜機硬對硬壓力均勻性評估計畫 (2024-11 to 2025-10)",
+    "齒輪箱殼體熱變形分析及熱源反算 (2024-10 to 2025-09)",
+    "主軸預熱與控溫技術開發 (2024-01 to 2025-12)",
+    "智慧產線開發與相關技術之探討應用 (2023-12 to 2024-11)",
+    "台積電半導體學程產學合作-(製程/模組學程及儀器工程學程) (2023-09 to 2025-01)",
+    "C5E廠基於SLAM導引之牙叉式AGV開發驗證 (2023-03 to 2024-06)",
+    "氣冷式控制箱散熱模型設計與驗證計畫 (2023-03 to 2024-02)",
+    "智慧產線虛實整合技術開發與相關技術之探討應用 (2022-12 to 2023-11)",
+    "無塵無氧烤箱之氧含量分析與APP設計 (2022-09 to 2023-02)",
+    "機上熱變位驗證開發 (2022-07 to 2023-03)",
+    "智慧產線相關技術發展與應用之探討 (2021-12 to 2022-11)",
+    "以XY平台實現懸臂式PC的半自動調針技術研究專案 (2021-11 to 2022-10)",
+    "以AGV實現待測品至烤箱搬運與取放的自動化技術開發專案 (2021-11 to 2022-10)",
+    "子計畫2-AGV推送待測品進入Oven的自動化設計 (2021-04 to 2021-07)",
+    "2021年逢甲大學-欣銓科技產學合作先導計畫 (2021-04 to 2021-07)",
+    "先進智慧技術於系統應用之探討 (2020-11 to 2021-10)",
+    "達佛羅股份有限公司申請投資設立於中部科學園區之諮詢顧問案 (2020-09 to 2020-09)",
+    "CNC車床整機AI熱補償 (2020-07 to 2022-06)",
+    "燒結爐燒結物溫度之預測技術 (2019-10 to 2020-04)",
+    "人工智慧技術於自動化製鞋產線之研究I (2019-09 to 2020-08)",
+    "應用人工智慧(AI)影像辨識技術進行交通數據蒐集與分析之研究 (2019-05 to 2020-02)",
+    "CNC車床熱特性與智能決策技術 (2019-05 to 2021-04)",
+    "射出料管溫度/壓力即時量測應用於CAE模擬軟體開發與應用之研究 (2019-04 to 2020-03)",
+    "小水力發電之潛能調查及評估 (2019-02 to 2019-12)",
+    "強化區域合作推動中南部智慧機械及航太產業升級計畫108年度研發補助計畫辦公室服務案 (2019-01 to 2019-12)",
+    "射出成型產品性能監測技術開發與應用 (2018-11 to 2019-04)",
+    "先進封裝設備計畫(2/4)- 推動產學合作(智慧機械與智慧製造之典範案例選拔)計畫 (2018-01 to 2018-11)",
+    "強化區域合作推動中南部智慧機械及航太產業升級計畫107年度研發補助計畫辦公室服務案 (2018-01 to 2018-12)",
+    "CNC車床X/Z軸傳動機構熱分析 (2017-01 to 2018-12)",
+    "強化區域合作推動中南部智慧機械及航太產業升級106年研發補助計畫辦公室服務案 (2017-01 to 2017-12)",
+    "智能化製鞋自動化產線技術研發與人才培育計畫_總計畫 (2016-11 to 2018-10)",
+    "智能化製鞋自動化產線技術研發與人才培育計畫_子計畫一：製鞋用智慧機器人針車自動化產線系統 (2016-11 to 2018-10)",
+    "HSK E20內藏式高速主軸熱源分析與熱伸長預測技術開發 (2016-08 to 2017-06)",
+    "石門水庫及寶山第二水庫附屬設施小(微)水力發電潛能評估(2/2) (2016-03 to 2016-12)",
+    "微水利發電應用於再生水廠評估建置計畫(2/2) (2016-03 to 2016-12)",
+    "直結式主軸熱源預測及熱設計改進分析 (2015-10 to 2016-09)",
+    "微水力發電應用於再生水廠評估建置計畫(1/2) (2015-05 to 2015-12)",
+    "整合微水利發電技術於輸配水系統之可行性研究 (2014-06 to 2014-12)",
+    "台中市環境影響評估對於高層建築案之再生能源或低碳能源設施規劃研究案 (2011-12 to 2012-03)",
+    "虹吸管道排砂研究計畫(2/2) (2011-05 to 2011-12)",
+    "S型散熱渠道分析與模擬 (2011-04 to 2011-09)",
+    "雲彰地區抽水站抽水機械與抽水井構造物模擬及運轉效率研究(1/2) (2010-08 to 2010-12)",
+    "磁場3D模擬與分析 (2010-06 to 2011-05)",
+    "曾文水庫沖刷漏斗、射流排淤機制與操作策略研究(2/2) (2010-05 to 2011-01)"
+  ],
+  "perform": [],
+  "reward": [
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優等獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (111, 2022-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (111, 2022-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (110, 2021-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (109, 2020-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (108, 2019-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (108, 2019-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (107, 2018-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (107, 2018-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (107, 2018-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (107, 2018-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (107, 2018-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (107, 2018-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (107, 2018-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (107, 2018-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (106, 2017-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (106, 2017-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (106, 2017-11) - 逢甲大學",
+    "106年度科技部獎勵特殊優秀人才 (106, 2017-08) - 產學合作處",
+    "105學年度教學優良教師 (105, 2016-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (105, 2016-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (105, 2016-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (104, 2015-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (103, 2014-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (103, 2014-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (103, 2014-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (103, 2014-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (103, 2014-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (103, 2014-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (103, 2014-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (102, 2013-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (102, 2013-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (102, 2013-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (102, 2013-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (101, 2012-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (101, 2012-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (100, 2011-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (100, 2011-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (100, 2011-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (100, 2011-11) - 逢甲大學"
+  ],
+  "speech": [],
+  "material": [],
+  "tal": []
+}

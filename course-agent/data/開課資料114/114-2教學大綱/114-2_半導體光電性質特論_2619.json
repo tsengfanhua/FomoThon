@@ -1,0 +1,938 @@
+{
+  "success": true,
+  "info": {
+    "yms_year": 114.0,
+    "yms_smester": 2.0,
+    "sub_id": "11350",
+    "cls_id": "CS06320",
+    "scr_dup": "001",
+    "sub_id3": "OPT7025",
+    "cls_name": "光電碩二",
+    "cls_ename": "Master's Program, Department of Photonics",
+    "sub_name": "半導體光電性質特論",
+    "sub_ename": "OPTICAL AND ELECTRICAL PROPERTIES OF SEMICONDUCTORS",
+    "scr_mso": "選修",
+    "scr_mso_en": "Elective",
+    "scr_credit": 3.0,
+    "scr_periodly": "(三)06-08",
+    "scr_periodly_eng": "(Wed)06-08",
+    "lang_name": "中文                                                      ",
+    "lang_ename": "Chinese",
+    "scr_room": "理101",
+    "scr_room_eng": "SB101",
+    "scr_teacher": "吳宗諭",
+    "scr_teacher_eng": "Zong-yu Wu",
+    "scr_selcode": "2619",
+    "scr_elearning": "全學期",
+    "scr_elearning_en": "Full semester",
+    "scr_hours": "3",
+    "scr_english": "N",
+    "unt_name": null,
+    "unt_ename": null,
+    "link_traminal": null,
+    "link_traminal_en": null,
+    "scr_ldl": "D",
+    "course_mk": "N",
+    "teams_mk": "N",
+    "sub_title": null,
+    "sub_title_en": null,
+    "sub_describe": null,
+    "sub_describe_en": null,
+    "hasDescription": null,
+    "hasInstructor": null,
+    "hasTA": null,
+    "hasTextBooks": null,
+    "hasReadings": null,
+    "hasiSoftwares": null,
+    "hasAssistSoftwares": null,
+    "hasObjective": null,
+    "hasWeeklyScds": null,
+    "hasGradeRules": null,
+    "hasGradeRuleDescribe": null,
+    "hasIntegrity": null,
+    "hasCoursePol": null,
+    "hasCourseRem": null,
+    "hasObjectiveReleation": null,
+    "hasTopicSdgs": null,
+    "hasTopicAiIndicators": null,
+    "hasSubTitleDesc": null
+  },
+  "subTitleDesc": null,
+  "description": {
+    "sub_id3": null,
+    "sub_name": "半導體光電性質特論",
+    "sub_ename": "OPTICAL AND ELECTRICAL PROPERTIES OF SEMICONDUCTORS",
+    "describe_ch": "本課程為半導體光電性質的特論，為進階半導體材料之光電性質專業課程。本課程由影響半導體光學與電學特性之基本物理(如載子、激子、聲子、接面、狀態密度等)切入，進一步介紹現行量測技術，最後將進一步討論這些光電特性在不同維度下的物理變化。",
+    "describe_eh": "This course will introduce the fundamental knowledge of the properties and applications of photonics materials, as well as the basic principle and analysis method of different measurement instruments. Students will be able to correctly select appropriate photonics material measurement tools and to analyze the data and results. The course emphasizes both theoretical learning and practical case studies.",
+    "pre_subname": "",
+    "pre_sub_id3": null,
+    "pre_sub_ename": "",
+    "pre_describe": null,
+    "pre_describe_en": null,
+    "scr_credit": 3.0
+  },
+  "targets": [
+    {
+      "seq": 1,
+      "describe_ch": "能瞭解半導體光學與電學原理與特性，以及量測技術。",
+      "describe_en": "Understand the principles, characteristics, and measurement technique of semiconductor materials in optical and electrical characterization."
+    },
+    {
+      "seq": 2,
+      "describe_ch": "熟悉半導體相關專業術語，並能處理和分析半導體材料光學與電學相關的問題。",
+      "describe_en": "Be familiar with the related terms in the field of semiconductor materials. Be able to solve the problems of optical and electrical characterization."
+    },
+    {
+      "seq": 3,
+      "describe_ch": "能以書面或口頭方式將所獲結果與同儕、助教及教師溝通。",
+      "describe_en": "Be able to present results in written or oral form to classmates, teaching assistants, and the instructor."
+    },
+    {
+      "seq": 4,
+      "describe_ch": "能將所獲半導體材料光學與電學結果，以英文書面表現。",
+      "describe_en": "Be able to present results of semiconductor materials related to optics and electrics\r\nin English written form.\r\n"
+    },
+    {
+      "seq": 5,
+      "describe_ch": "能將團隊所獲半導體材料光學與電學結果，以英文口頭報告表現。",
+      "describe_en": "Be able to present teams’ results of semiconductor materials related to optics and electrics in English oral form."
+    }
+  ],
+  "teachersInfo": [
+    {
+      "cname": "吳宗諭",
+      "ename": "Zong-yu Wu",
+      "period": " ",
+      "roletype": 0,
+      "email": "zywu.t13@o365.fcu.edu.tw",
+      "ext": null
+    }
+  ],
+  "textBooks": {
+    "yms_year": 114.0,
+    "yms_smester": 2.0,
+    "cls_id": "CS06320",
+    "sub_id": "11350",
+    "scr_dup": "001",
+    "tpb_seq": 1,
+    "tpb_book": "<div>Mark Fox, Optical Properties of Solids, 2nd Edition&nbsp;(Oxford University Press, 2010) ISBN 978-0-19-957337-0.</div>\n",
+    "tpb_book_en": null
+  },
+  "readings": {
+    "yms_year": 114.0,
+    "yms_smester": 2.0,
+    "cls_id": "CS06320",
+    "sub_id": "11350",
+    "scr_dup": "001",
+    "tpc_seq": 1,
+    "tpc_book": "<div>1. Arthur Beiser, Cnocepts of Modern Physics, 6th Edition (McGraw-Hill, 2003) ISBN 0-07-115096-X.</div>\n\n<div>&nbsp;</div>\n\n<div>2. Charles Kittel, Introduction to Solid Physics, 8th Edition (John Wiley &amp; Sons, Inc., 2005)&nbsp;ISBN 0-471-41526-X</div>\n",
+    "tpc_book_en": null
+  },
+  "iSoftwares": [],
+  "assistSoftwares": [],
+  "weeklyScds": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CS06320",
+      "sub_id": "11350",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "單元 1",
+      "tpd_reading": "<div>古典物理中的光與物質交互作用</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": null,
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CS06320",
+      "sub_id": "11350",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "單元 2",
+      "tpd_reading": "<div>半導體的帶間吸收</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": null,
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CS06320",
+      "sub_id": "11350",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "單元 3",
+      "tpd_reading": "<div>激子</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": null,
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CS06320",
+      "sub_id": "11350",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "單元 4",
+      "tpd_reading": "<div>半導體的發光行為</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": null,
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CS06320",
+      "sub_id": "11350",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "補充",
+      "tpd_reading": "<div>量子力學簡介</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": null,
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CS06320",
+      "sub_id": "11350",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "單元 5",
+      "tpd_reading": "<div>量子侷限效應</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": null,
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CS06320",
+      "sub_id": "11350",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "單元 6",
+      "tpd_reading": "<div>聲子與極化子</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": null,
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    }
+  ],
+  "gradeRules": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CS06320",
+      "sub_id": "11350",
+      "scr_dup": "001",
+      "evalb_id": "L2",
+      "score_rate": 10,
+      "evalb_memo": "簽到點名",
+      "evalb_memo_en": null,
+      "evalb_name": "點名",
+      "evalb_name_en": "Roll call",
+      "seq": 1
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CS06320",
+      "sub_id": "11350",
+      "scr_dup": "001",
+      "evalb_id": "D3",
+      "score_rate": 35,
+      "evalb_memo": "依課程內容進行測驗",
+      "evalb_memo_en": null,
+      "evalb_name": "隨堂測驗",
+      "evalb_name_en": "In-class examination",
+      "seq": 2
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CS06320",
+      "sub_id": "11350",
+      "scr_dup": "001",
+      "evalb_id": "G5",
+      "score_rate": 55,
+      "evalb_memo": "個人書面報告",
+      "evalb_memo_en": null,
+      "evalb_name": "書面報告",
+      "evalb_name_en": "Writing report",
+      "seq": 3
+    }
+  ],
+  "gradeRuleDescribe": {
+    "yms_year": 114.0,
+    "yms_smester": 2.0,
+    "cls_id": "CS06320",
+    "sub_id": "11350",
+    "scr_dup": "001",
+    "tpa_score_new": "<div>1. 出席狀況，以點名紀錄計分，一次未到扣1分，但請假不扣分。</div>\n\n<div>&nbsp;</div>\n\n<div>2. 除了病假、公假、生理假、心理假和突發意外等特殊因素，事假請於上課前於線上申請，並附上證明。</div>\n",
+    "tpa_score_new_en": null,
+    "course_pol": "1. 期中考試及隨堂測驗請攜帶筆和計算機。\n\n2. 嚴禁作弊，作弊者該學期分數以0分計算。\n\n3. 請勿詢問與課堂極不相干的問題。",
+    "course_pol_en": null,
+    "course_rem": null,
+    "course_rem_en": null,
+    "ais_meno": "<div>1. 考試和報告，請勿抄襲他人及AI的答案和作品。</div>\n\n<div>&nbsp;</div>\n\n<div>2. 報告若引用他人作品，請附上參考文獻或資料出處。<br />\n<br />\n3. 請勿冒名參與課程、考試和報告，一經發現後果自負。<br />\n<br />\n4. 請勿使用自己所屬實驗室的機密內容進行報告。</div>\n",
+    "ais_meno_en": null,
+    "ilearn_mk": "N"
+  },
+  "integrity": {
+    "yms_year": 114.0,
+    "yms_smester": 2.0,
+    "cls_id": "CS06320",
+    "sub_id": "11350",
+    "scr_dup": "001",
+    "tpa_score_new": "<div>1. 出席狀況，以點名紀錄計分，一次未到扣1分，但請假不扣分。</div>\n\n<div>&nbsp;</div>\n\n<div>2. 除了病假、公假、生理假、心理假和突發意外等特殊因素，事假請於上課前於線上申請，並附上證明。</div>\n",
+    "tpa_score_new_en": null,
+    "course_pol": "1. 期中考試及隨堂測驗請攜帶筆和計算機。\n\n2. 嚴禁作弊，作弊者該學期分數以0分計算。\n\n3. 請勿詢問與課堂極不相干的問題。",
+    "course_pol_en": null,
+    "course_rem": null,
+    "course_rem_en": null,
+    "ais_meno": "<div>1. 考試和報告，請勿抄襲他人及AI的答案和作品。</div>\n\n<div>&nbsp;</div>\n\n<div>2. 報告若引用他人作品，請附上參考文獻或資料出處。<br />\n<br />\n3. 請勿冒名參與課程、考試和報告，一經發現後果自負。<br />\n<br />\n4. 請勿使用自己所屬實驗室的機密內容進行報告。</div>\n",
+    "ais_meno_en": null,
+    "ilearn_mk": "N"
+  },
+  "policy": {
+    "yms_year": 114.0,
+    "yms_smester": 2.0,
+    "cls_id": "CS06320",
+    "sub_id": "11350",
+    "scr_dup": "001",
+    "tpa_score_new": "<div>1. 出席狀況，以點名紀錄計分，一次未到扣1分，但請假不扣分。</div>\n\n<div>&nbsp;</div>\n\n<div>2. 除了病假、公假、生理假、心理假和突發意外等特殊因素，事假請於上課前於線上申請，並附上證明。</div>\n",
+    "tpa_score_new_en": null,
+    "course_pol": "1. 期中考試及隨堂測驗請攜帶筆和計算機。\n\n2. 嚴禁作弊，作弊者該學期分數以0分計算。\n\n3. 請勿詢問與課堂極不相干的問題。",
+    "course_pol_en": null,
+    "course_rem": null,
+    "course_rem_en": null,
+    "ais_meno": "<div>1. 考試和報告，請勿抄襲他人及AI的答案和作品。</div>\n\n<div>&nbsp;</div>\n\n<div>2. 報告若引用他人作品，請附上參考文獻或資料出處。<br />\n<br />\n3. 請勿冒名參與課程、考試和報告，一經發現後果自負。<br />\n<br />\n4. 請勿使用自己所屬實驗室的機密內容進行報告。</div>\n",
+    "ais_meno_en": null,
+    "ilearn_mk": "N"
+  },
+  "courseBankC": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CS06320",
+      "sub_id": "11350",
+      "scr_dup": "001",
+      "seq": 1,
+      "describe_ch": "能瞭解半導體光學與電學原理與特性，以及量測技術。",
+      "describe_en": "Understand the principles, characteristics, and measurement technique of semiconductor materials in optical and electrical characterization.",
+      "core_id": "A",
+      "core_item": "光電進階專業知識。",
+      "core_eng": "professional knowledge in photonic field.",
+      "core_level": "1 ",
+      "strgy": [
+        "01"
+      ],
+      "evalb": [
+        "D1",
+        "D3",
+        "K2",
+        "G5"
+      ],
+      "strgy_name": [
+        "課堂授課"
+      ],
+      "strgy_name_en": [
+        "Classroom instruction"
+      ],
+      "evalb_name": [
+        "期中考",
+        "隨堂測驗",
+        "口頭報告",
+        "書面報告"
+      ],
+      "evalb_name_en": [
+        "Midterm examination",
+        "In-class examination",
+        "Oral presentation",
+        "Writing report"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CS06320",
+          "sub_id": "11350",
+          "scr_dup": "001",
+          "seq": 1,
+          "strgy_id": "01",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CS06320",
+          "sub_id": "11350",
+          "scr_dup": "001",
+          "seq": 1,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D1",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CS06320",
+          "sub_id": "11350",
+          "scr_dup": "001",
+          "seq": 1,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D3",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CS06320",
+          "sub_id": "11350",
+          "scr_dup": "001",
+          "seq": 1,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "K2",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CS06320",
+          "sub_id": "11350",
+          "scr_dup": "001",
+          "seq": 1,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "G5",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CS06320",
+      "sub_id": "11350",
+      "scr_dup": "001",
+      "seq": 2,
+      "describe_ch": "熟悉半導體相關專業術語，並能處理和分析半導體材料光學與電學相關的問題。",
+      "describe_en": "Be familiar with the related terms in the field of semiconductor materials. Be able to solve the problems of optical and electrical characterization.",
+      "core_id": "A",
+      "core_item": "光電進階專業知識。",
+      "core_eng": "professional knowledge in photonic field.",
+      "core_level": "2 ",
+      "strgy": [
+        "01"
+      ],
+      "evalb": [
+        "D1",
+        "D3",
+        "K2",
+        "G5"
+      ],
+      "strgy_name": [
+        "課堂授課"
+      ],
+      "strgy_name_en": [
+        "Classroom instruction"
+      ],
+      "evalb_name": [
+        "期中考",
+        "隨堂測驗",
+        "口頭報告",
+        "書面報告"
+      ],
+      "evalb_name_en": [
+        "Midterm examination",
+        "In-class examination",
+        "Oral presentation",
+        "Writing report"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CS06320",
+          "sub_id": "11350",
+          "scr_dup": "001",
+          "seq": 2,
+          "strgy_id": "01",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CS06320",
+          "sub_id": "11350",
+          "scr_dup": "001",
+          "seq": 2,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D1",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CS06320",
+          "sub_id": "11350",
+          "scr_dup": "001",
+          "seq": 2,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D3",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CS06320",
+          "sub_id": "11350",
+          "scr_dup": "001",
+          "seq": 2,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "K2",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CS06320",
+          "sub_id": "11350",
+          "scr_dup": "001",
+          "seq": 2,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "G5",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CS06320",
+      "sub_id": "11350",
+      "scr_dup": "001",
+      "seq": 3,
+      "describe_ch": "能以書面或口頭方式將所獲結果與同儕、助教及教師溝通。",
+      "describe_en": "Be able to present results in written or oral form to classmates, teaching assistants, and the instructor.",
+      "core_id": "D",
+      "core_item": "有效溝通、團隊合作及跨領域協調整合之能力。",
+      "core_eng": "ability to communicate effectively, function on teams, and work in multi-disciplinary environment.",
+      "core_level": "5 ",
+      "strgy": [
+        "01",
+        "08",
+        "09"
+      ],
+      "evalb": [
+        "D1",
+        "K2",
+        "G5"
+      ],
+      "strgy_name": [
+        "課堂授課",
+        "書面報告",
+        "口頭報告"
+      ],
+      "strgy_name_en": [
+        "Classroom instruction",
+        "Written report",
+        "Oral report"
+      ],
+      "evalb_name": [
+        "期中考",
+        "口頭報告",
+        "書面報告"
+      ],
+      "evalb_name_en": [
+        "Midterm examination",
+        "Oral presentation",
+        "Writing report"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CS06320",
+          "sub_id": "11350",
+          "scr_dup": "001",
+          "seq": 3,
+          "strgy_id": "01",
+          "strgy_name": null,
+          "strgy_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CS06320",
+          "sub_id": "11350",
+          "scr_dup": "001",
+          "seq": 3,
+          "strgy_id": "08",
+          "strgy_name": null,
+          "strgy_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CS06320",
+          "sub_id": "11350",
+          "scr_dup": "001",
+          "seq": 3,
+          "strgy_id": "09",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CS06320",
+          "sub_id": "11350",
+          "scr_dup": "001",
+          "seq": 3,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D1",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CS06320",
+          "sub_id": "11350",
+          "scr_dup": "001",
+          "seq": 3,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "K2",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CS06320",
+          "sub_id": "11350",
+          "scr_dup": "001",
+          "seq": 3,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "G5",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CS06320",
+      "sub_id": "11350",
+      "scr_dup": "001",
+      "seq": 4,
+      "describe_ch": "能將所獲半導體材料光學與電學結果，以英文書面表現。",
+      "describe_en": "Be able to present results of semiconductor materials related to optics and electrics\r\nin English written form.\r\n",
+      "core_id": "E",
+      "core_item": "良好的專業與資訊倫理、社會共好與責任，和國際觀。　",
+      "core_eng": "sound professional ethics ,social responsibilities and international scope of view.",
+      "core_level": "5 ",
+      "strgy": [
+        "01"
+      ],
+      "evalb": [
+        "K2",
+        "G5"
+      ],
+      "strgy_name": [
+        "課堂授課"
+      ],
+      "strgy_name_en": [
+        "Classroom instruction"
+      ],
+      "evalb_name": [
+        "口頭報告",
+        "書面報告"
+      ],
+      "evalb_name_en": [
+        "Oral presentation",
+        "Writing report"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CS06320",
+          "sub_id": "11350",
+          "scr_dup": "001",
+          "seq": 4,
+          "strgy_id": "01",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CS06320",
+          "sub_id": "11350",
+          "scr_dup": "001",
+          "seq": 4,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "K2",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CS06320",
+          "sub_id": "11350",
+          "scr_dup": "001",
+          "seq": 4,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "G5",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CS06320",
+      "sub_id": "11350",
+      "scr_dup": "001",
+      "seq": 5,
+      "describe_ch": "能將團隊所獲半導體材料光學與電學結果，以英文口頭報告表現。",
+      "describe_en": "Be able to present teams’ results of semiconductor materials related to optics and electrics in English oral form.",
+      "core_id": "F",
+      "core_item": "領導、管理及規劃之能力。",
+      "core_eng": "leadership, management and planning.",
+      "core_level": "5 ",
+      "strgy": [
+        "01"
+      ],
+      "evalb": [
+        "K2",
+        "G5"
+      ],
+      "strgy_name": [
+        "課堂授課"
+      ],
+      "strgy_name_en": [
+        "Classroom instruction"
+      ],
+      "evalb_name": [
+        "口頭報告",
+        "書面報告"
+      ],
+      "evalb_name_en": [
+        "Oral presentation",
+        "Writing report"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CS06320",
+          "sub_id": "11350",
+          "scr_dup": "001",
+          "seq": 5,
+          "strgy_id": "01",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CS06320",
+          "sub_id": "11350",
+          "scr_dup": "001",
+          "seq": 5,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "K2",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CS06320",
+          "sub_id": "11350",
+          "scr_dup": "001",
+          "seq": 5,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "G5",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    }
+  ],
+  "topicSdgs": [],
+  "topicAiIndicators": [],
+  "learnHours": {
+    "total": 0.0,
+    "tpdOnlineAsyTotal": 0.0,
+    "tpdOnlineSynTotal": 0.0,
+    "tpdOnlineFaceTotal": 0.0,
+    "asySynInTotalPercent": 0.0
+  },
+  "crossVerYear": 114
+}

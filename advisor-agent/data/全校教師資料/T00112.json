@@ -1,0 +1,245 @@
+{
+  "teacherId": "T00112",
+  "name": "盧鈺欣",
+  "mainUnit": "商學院",
+  "detailUnit": "會計學系",
+  "skill": [
+    "財務會計",
+    "會計資訊系統",
+    "電腦審計",
+    "資料探勘"
+  ],
+  "edu": [
+    "中正大學 會計與資訊科技 博士",
+    "彰化師範大學 會計學系 碩士",
+    "逢甲大學 會計學系 學士"
+  ],
+  "fcuExp": [
+    "會計學系 系主任",
+    "家族企業中心 主任",
+    "會計學系 兼任助理教授",
+    "會計學系 助理教授",
+    "會計學系 副教授"
+  ],
+  "currjob": [],
+  "otherExp": [
+    "亞洲大學 會計與資訊學系 助理教授",
+    "開南技術學院 財務金融學系 講師",
+    "勤業眾信會計師事務所  組長"
+  ],
+  "journal": [
+    {
+      "論文名稱": "Bankruptcy Prediction: Integration of Convolutional Neural Networks and Explainable Artificial Intelligence Techniques",
+      "期刊名稱": "International Journal of Accounting Information Systems (SSCI)",
+      "作者群": "Yu-Cheng Lin, Roni Padliansyah, Yu-Hsin Lu, and Wen-Rang Liu."
+    },
+    {
+      "論文名稱": "The determinants of voluntary disclosure: Integration of eXtreme gradient boost (XGBoost) and explainable artificial intelligence (XAI) techniques",
+      "期刊名稱": "International Review of Financial Analysis (SSCI)",
+      "作者群": "Yu-Hsin Lu and Yu-Cheng Lin"
+    },
+    {
+      "論文名稱": "Does Audit Fees Reflect Audit Risk? Evidence from Countries with Lower Audit Fees",
+      "期刊名稱": "Journal of Accounting, Finance & Mangement Strategy (ECONLIT)",
+      "作者群": "Yu-Hsin Lu"
+    },
+    {
+      "論文名稱": "DECISION INFORMATION FOR AUDITORS TO ASSESS LITIGATION RISK: APPLICATION OF MACHINE LEARNING TECHNIQUES",
+      "期刊名稱": "Corporate Ownership & Control (ECONLIT)",
+      "作者群": "Yu-Hsin Lu, Yu-Cheng Lin, Fang-Ci Gu"
+    },
+    {
+      "論文名稱": "會計領域學位論文研究議題視覺化分析-大數據下之實證",
+      "期刊名稱": "中華會計學刊 (TSSCI)",
+      "作者群": "林昱成  盧鈺欣*  林懿範"
+    },
+    {
+      "論文名稱": "Feature Selection in Single and Ensemble Learning Based Bankruptcy Prediction Models",
+      "期刊名稱": "Expert  Systems (SCIE)",
+      "作者群": "Lin, W.-C., Lu, Y.-H., Tsai, C.-F."
+    },
+    {
+      "論文名稱": "Net Losses and the Relationship between Auditor Independence and Client Importance: Evidence from a Cubist Regression-Tree Model",
+      "期刊名稱": "Journal of Emerging Technologies in Accounting ()",
+      "作者群": "Yu-Cheng Lin, Yu-Hsin Lu, Fang-Chi Lin, and Yi-Chen Lin"
+    },
+    {
+      "論文名稱": "資料探勘技術在繼續經營疑慮意見診斷模型之應用",
+      "期刊名稱": "會計評論 (TSSCI)",
+      "作者群": "盧鈺欣、林昱成、林育伶"
+    },
+    {
+      "論文名稱": "Intangible Assets Evaluation: The Machine Learning Perspective",
+      "期刊名稱": "Neurocomputing (SCIE)",
+      "作者群": "Tsai, C.-F., Lu, Y.-H., Hung, Y.-C., and Yen, D.C."
+    },
+    {
+      "論文名稱": "Using Hybrid Classifiers to Conduct Intangible Assets Evaluation",
+      "期刊名稱": "International Journal of Applied Metaheuristic Computing ()",
+      "作者群": "Yu-Hsin, Lu and Yu-Cheng, Lin"
+    },
+    {
+      "論文名稱": "Customer Segmentation Issues and Strategies for an Automobile Dealership with Two Clustering Techniques",
+      "期刊名稱": "Expert Systems (SCIE)",
+      "作者群": "Tsai, C.-F., Hu, Y.-H., and Lu, Y.-H."
+    },
+    {
+      "論文名稱": "Machine Learning in Concrete Strength Simulations: Multi-nation data analytics",
+      "期刊名稱": "Construction and Buliding Materials (SCIE)",
+      "作者群": "Chou, J.-S., Tsai, C.-F., Pham, A.-D., and Lu, Y.-H."
+    },
+    {
+      "論文名稱": "Project Dispute Prediction by Hybird Machine Learning Techniques",
+      "期刊名稱": "Journal of Civil Engineering and Management (SCIE)",
+      "作者群": "Chou, J.-S. Tsai, C,-F. and Lu, Y.-H."
+    },
+    {
+      "論文名稱": "Determinants of Intangible Assets Value: The Data Mining Approach",
+      "期刊名稱": "Knowledge-Based Systems (SCIE)",
+      "作者群": "Tsai, C.-F., Lu, Y.-H., and Yen, D.C."
+    },
+    {
+      "論文名稱": "Discovering Important Factors of Intangible Firm Value by Association Rules",
+      "期刊名稱": "The International Journal of Digital Accounting Research ()",
+      "作者群": "Yu-Hsin Lu, Chih-Fong Tsai and David C. Yen"
+    },
+    {
+      "論文名稱": "Data Mining Techniques in Customer Churn Prediction",
+      "期刊名稱": "Recent Patents on Computer Science (EI)",
+      "作者群": "Chih-Fong Tsai and Yu-Hsin Lu"
+    },
+    {
+      "論文名稱": "Customer churn prediction by hybrid neural networks",
+      "期刊名稱": "Expert Systems with Applications (SCIE)",
+      "作者群": "Chih-Fong Tsai and Yu-Hsin Lu"
+    },
+    {
+      "論文名稱": "The Critical Deciding Factors of Auditor Choice Decision：An Application of the Decision Tree Technique",
+      "期刊名稱": "Journal of Accounting and Corporate Governance ()",
+      "作者群": "Chia-Sheng Hung, Yu-Hsin Lu, and Chin S. Ou."
+    },
+    {
+      "論文名稱": "Inhibitory Factors of Implementing Internet Banks",
+      "期刊名稱": "International Journal of Electronic Finance ()",
+      "作者群": "Yu-Chung Hung, and Yu-Hsin Lu"
+    }
+  ],
+  "journal2": [],
+  "conference": [
+    {
+      "論文名稱": "審計委員會專業性是否影響公司風險追求程度？",
+      "會議名稱": "2019現代會計論壇學術研討會",
+      "作者群": "盧鈺欣、廖昱涵"
+    },
+    {
+      "論文名稱": "Using Data Mining Technologies to Construct Litigation Warning Model",
+      "會議名稱": "2017 International Conference on Computer Auditing",
+      "作者群": "Tzong-Huei Lin, Yu-Hsin Lu, Yu-Cheng Lin and Yun-Hsuan Wang"
+    },
+    {
+      "論文名稱": "Litigation Warning Model: The Application of Data Mining Technologies",
+      "會議名稱": "2015 Accounting Theory and Practice Conference",
+      "作者群": "Yu-Hsin Lu, Yu-Cheng Lin, and Fang-Chi Gu"
+    },
+    {
+      "論文名稱": "公司治理與會計師懲戒之關聯性",
+      "會議名稱": "2015現代會計論壇學術研討會",
+      "作者群": "黃娟娟、盧鈺欣、趙建名"
+    },
+    {
+      "論文名稱": "Going-concern Opinion：The Application of Data Mining Technologies",
+      "會議名稱": "2014 International Conference on Accounting and Information Technology",
+      "作者群": "盧鈺欣、林育伶、古芳綺"
+    },
+    {
+      "論文名稱": "Intangible Assets Evaluation by Data Mining Technologies",
+      "會議名稱": "2013 International Conference on Business and Information",
+      "作者群": "Yu-Hsin Lu, Yu-Cheng Lin, and Yu-Ling Lin"
+    },
+    {
+      "論文名稱": "Determinants of Intangible Assets: The Application of Data Mining Technologies",
+      "會議名稱": "The 20th Annual Conference on Pacific Basin Finance, Economics, Accounting, and Management",
+      "作者群": "Yu-Hsin Lu"
+    },
+    {
+      "論文名稱": "運用資料探勘技術探討無形資產之關鍵決定因素",
+      "會議名稱": "2012現代會計論壇學術研討會",
+      "作者群": "蔡志豐、盧鈺欣、林育伶"
+    },
+    {
+      "論文名稱": "Auditor Choice of Business Groups-Application of Artificial Neural Network",
+      "會議名稱": "當前會計理論與實務研討會",
+      "作者群": "Yu-Hsin Lu"
+    },
+    {
+      "論文名稱": "Discovering Important Factors of Firm Value by Association Rules",
+      "會議名稱": "資訊管理與數位內容研討會",
+      "作者群": "Yu-Hsin Lu, Chih-Fong Tsai, David C. Yen."
+    },
+    {
+      "論文名稱": "The association among fixed assets structure, ultimate ownership structure, and overproduction.",
+      "會議名稱": "Annual Conference Association for Chinese Management Educators",
+      "作者群": "Yu-Chung Hung, and Yu-Hsin Lu"
+    },
+    {
+      "論文名稱": "股權結構與會計師選擇關性之研究－多重選擇模型之應用",
+      "會議名稱": "會計學術研討會",
+      "作者群": "洪嘉聲、盧鈺欣"
+    },
+    {
+      "論文名稱": "資訊科技對於企業經營績效之影響",
+      "會議名稱": "會計與資訊科技國際研討會",
+      "作者群": "洪新源、歐進士、盧俊全、盧鈺欣"
+    },
+    {
+      "論文名稱": "集團企業最終股權結構對會計師選擇之影響",
+      "會議名稱": "會計與產業整合學術研討會",
+      "作者群": "盧鈺欣"
+    }
+  ],
+  "book": [],
+  "patent": [],
+  "most": [
+    {
+      "name": "建構繼續經營疑慮審計意見診斷模型-資料探勘技術之應用",
+      "schoolYear": "101"
+    },
+    {
+      "name": "應用資料探勘技術建構最佳化無形資產評價模型",
+      "schoolYear": "100"
+    }
+  ],
+  "tech": [
+    {
+      "論文名稱": "Bankruptcy Prediction by Supervised Machine Learning Techniques: A Comparative Study (2011-08)",
+      "書名": "SurveillanceTechnologies and Early Warning Systems: Data Mining Applications for Risk Detection",
+      "作者群": "Tsai, C.-F., Lu, Y.-H., and Hsu, Y.-F."
+    }
+  ],
+  "induAca": [
+    "營建工程成本預測模型合作案 (2022-07 to 2022-12)",
+    "2022021「認識會計師」專業行銷全國微電影競賽 (2020-12 to 2021-05)"
+  ],
+  "perform": [],
+  "reward": [
+    "逢甲大學論文著作獎勵優良獎 (111, 2022-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (109, 2020-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (107, 2018-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (106, 2017-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (106, 2017-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (105, 2016-11) - 逢甲大學",
+    "論文著作傑出獎 (104, 2015-11) - 逢甲大學",
+    "總決賽-一等獎(亞軍) (103, 2015-06) - 2015年兩岸財務會計與商業管理案例競賽",
+    "台灣賽區-優勝 (103, 2015-05) - 2015年兩岸財務會計與商業管理案例競賽",
+    "論文著作傑出獎 (103, 2014-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (103, 2014-11) - 逢甲大學",
+    "論文著作傑出獎 (102, 2013-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (102, 2013-11) - 逢甲大學"
+  ],
+  "speech": [],
+  "material": [
+    "從賣章魚燒了解財務報表\t逢甲大學商學院\t盧鈺欣\tPBL教案",
+    "104創新教學成果報告\t逢甲大學商學院\t盧鈺欣\t創新教學成果報告"
+  ],
+  "tal": []
+}

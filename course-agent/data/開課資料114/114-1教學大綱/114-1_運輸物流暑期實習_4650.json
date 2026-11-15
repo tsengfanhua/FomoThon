@@ -1,0 +1,635 @@
+{
+  "success": true,
+  "info": {
+    "yms_year": 114.0,
+    "yms_smester": 1.0,
+    "sub_id": "58963",
+    "cls_id": "CM02149",
+    "scr_dup": "001",
+    "sub_id3": "TLOG4105",
+    "cls_name": "運輸物流四合",
+    "cls_ename": "Department of Transportation and Logistics",
+    "sub_name": "運輸物流暑期實習",
+    "sub_ename": "SUMMER INTERNSHIP IN TRANSPORTATION AND LOGISTICS",
+    "scr_mso": "選修",
+    "scr_mso_en": "Elective",
+    "scr_credit": 4.0,
+    "scr_periodly": "(四)00",
+    "scr_periodly_eng": "(Thu)00",
+    "lang_name": "中文                                                      ",
+    "lang_ename": "Chinese",
+    "scr_room": " ",
+    "scr_room_eng": " ",
+    "scr_teacher": "温傑華,翁祥凱,洪百賢,林大傑,吳沛儒,郭仲偉",
+    "scr_teacher_eng": "Chieh-Hua Wen,Hsiang-Kai Weng,Pai-Hsien Hung,Da-Jie Lin,Pei-Ju Wu,Chung-Wei Kuo",
+    "scr_selcode": "4650",
+    "scr_elearning": "全學期",
+    "scr_elearning_en": "Full semester",
+    "scr_hours": "1",
+    "scr_english": "N",
+    "unt_name": null,
+    "unt_ename": null,
+    "link_traminal": null,
+    "link_traminal_en": null,
+    "scr_ldl": "D",
+    "course_mk": "N",
+    "teams_mk": "N",
+    "sub_title": null,
+    "sub_title_en": null,
+    "sub_describe": null,
+    "sub_describe_en": null,
+    "hasDescription": null,
+    "hasInstructor": null,
+    "hasTA": null,
+    "hasTextBooks": null,
+    "hasReadings": null,
+    "hasiSoftwares": null,
+    "hasAssistSoftwares": null,
+    "hasObjective": null,
+    "hasWeeklyScds": null,
+    "hasGradeRules": null,
+    "hasGradeRuleDescribe": null,
+    "hasIntegrity": null,
+    "hasCoursePol": null,
+    "hasCourseRem": null,
+    "hasObjectiveReleation": null,
+    "hasTopicSdgs": null,
+    "hasSubTitleDesc": null
+  },
+  "subTitleDesc": null,
+  "description": {
+    "sub_id3": null,
+    "sub_name": "運輸物流暑期實習",
+    "sub_ename": "SUMMER INTERNSHIP IN TRANSPORTATION AND LOGISTICS",
+    "describe_ch": "本課程鼓勵本系大學生理論與實務整合，參與暑期實習，以增進就業競爭力。實習單位由本系洽商實習名額，學生選填志願，課程委員會審核錄取名單。實習學生應於實習前參加本系舉辦之職前講習，參與實務工作達320小時以上，實習期間學生應準時簽到上下班，填寫實習工作日誌，實習結束繳交實習心得書面報告，並進行口頭簡報。本課程由實習單位指定之實習導師與本系輔導教師共同考評。",
+    "describe_eh": "With an aim to integrate theory with practice, this course encourages students to participate internship during summer vacation to strengthen their competitiveness when looking for employment. Internship vacancies are provided by the internship agents. Students interested in the internship should apply and are   selected by the Course Planning Committee of the department. Students have to take a  pre-internship readiness program held by the department prior to the beginning of the internship and complete more than 320 hours of practical work as part of the internship. They are also required to come to work and get off duty as requested and write up daily work report on time. At the end of the internship, students have to hand in an overall internship report and prepare for oral presentation. The performances of the students are jointly evaluated by an internship mentor appointed by the agent and the faculty member of the department.",
+    "pre_subname": "",
+    "pre_sub_id3": null,
+    "pre_sub_ename": "",
+    "pre_describe": null,
+    "pre_describe_en": null,
+    "scr_credit": 4.0
+  },
+  "targets": [
+    {
+      "seq": 1,
+      "describe_ch": "管理理論與知識於交通運輸與工程管理之應用",
+      "describe_en": "Apply customer relationship to transportation management and engineering."
+    },
+    {
+      "seq": 2,
+      "describe_ch": "交通工程師與從業人員應具有專業倫理的項目",
+      "describe_en": "Possess professional ethics for traffic engineer and practicians."
+    },
+    {
+      "seq": 3,
+      "describe_ch": "簡報製作、報告撰寫、口頭報告以及提問研討之實力",
+      "describe_en": "Possess the abilities of presentation documents preparation, essay writing, oral presentations, and comments making."
+    }
+  ],
+  "teachersInfo": [
+    {
+      "cname": "温傑華",
+      "ename": "Chieh-Hua Wen",
+      "period": "(Fri)05-06 紀507,(Fri)07-08 紀507",
+      "roletype": 0,
+      "email": "chwen@o365.fcu.edu.tw",
+      "ext": "4679"
+    },
+    {
+      "cname": "翁祥凱",
+      "ename": "Hsiang-Kai Weng",
+      "period": "(Wed)02-03 紀525,(Thu)02-03 紀525",
+      "roletype": 0,
+      "email": "hkweng@o365.fcu.edu.tw",
+      "ext": "4661"
+    },
+    {
+      "cname": "洪百賢",
+      "ename": "Pai-Hsien Hung",
+      "period": "(Mon)06-07 紀526,(Tue)03-04 紀526",
+      "roletype": 0,
+      "email": "phhung@o365.fcu.edu.tw",
+      "ext": "4663"
+    },
+    {
+      "cname": "林大傑",
+      "ename": "Da-Jie Lin",
+      "period": "(Wed)01-02 503,(Wed)03-04 503",
+      "roletype": 0,
+      "email": "dajielin@o365.fcu.edu.tw",
+      "ext": "4670"
+    },
+    {
+      "cname": "吳沛儒",
+      "ename": "Pei-Ju Wu",
+      "period": "(Tue)09-10 紀523,(Wed)09-10 紀523",
+      "roletype": 0,
+      "email": "wupj@o365.fcu.edu.tw",
+      "ext": "4668"
+    },
+    {
+      "cname": "郭仲偉",
+      "ename": "Chung-Wei Kuo",
+      "period": "(Tue)06-07 紀520,(Tue)08  紀520,(Wed)06-07 紀520,(Wed)08  紀520",
+      "roletype": 0,
+      "email": "cweikuo@o365.fcu.edu.tw",
+      "ext": "4664"
+    }
+  ],
+  "textBooks": {
+    "yms_year": 114.0,
+    "yms_smester": 1.0,
+    "cls_id": "CM02149",
+    "sub_id": "58963",
+    "scr_dup": "001",
+    "tpb_seq": 1,
+    "tpb_book": "<div>無，由企業導師依照各實習工作主題與實際需要，擇定相關手冊以供學生研習。</div>\n",
+    "tpb_book_en": " "
+  },
+  "readings": {
+    "yms_year": 114.0,
+    "yms_smester": 1.0,
+    "cls_id": "CM02149",
+    "sub_id": "58963",
+    "scr_dup": "001",
+    "tpc_seq": 1,
+    "tpc_book": "<div>無，由企業導師依照各實習工作主題與實際需要，擇定相關手冊以供學生研習。</div>\n",
+    "tpc_book_en": null
+  },
+  "iSoftwares": [],
+  "assistSoftwares": [],
+  "weeklyScds": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CM02149",
+      "sub_id": "58963",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "0",
+      "tpd_reading": "<div>職前講習： 實習前參加本系舉辦之職前講習，接受職場倫理及安全衛生教育訓練。</div>\n",
+      "tpd_reading_en": " ",
+      "tpd_learn": "<table style=\"width:100%\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<div>職場倫理及安全衛生教育訓練。</div>\n\t\t\t</td>\n\t\t\t<td>&nbsp;</td>\n\t\t</tr>\n\t\t<tr>\n\t\t</tr>\n\t</tbody>\n</table>\n",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CM02149",
+      "sub_id": "58963",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "1-3",
+      "tpd_reading": "<div>1.企業實習 2.填寫實習工作日誌(工作內容)。 3.填寫實習週誌(問題發掘與問題解決)。 4.填寫實習月報(問題討論與心得報告)。</div>\n",
+      "tpd_reading_en": " ",
+      "tpd_learn": "<div>填寫實習工作日誌、週誌、月報。</div>\n",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CM02149",
+      "sub_id": "58963",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "18",
+      "tpd_reading": "<div>期末報告</div>\n",
+      "tpd_reading_en": " ",
+      "tpd_learn": "<div>依公告格式撰寫繳交學期報告，並進行口頭簡報。</div>\n",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CM02149",
+      "sub_id": "58963",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "4-8",
+      "tpd_reading": "<div>1.企業實習 2.填寫實習工作日誌(工作內容)。 3.填寫實習週誌(問題發掘與問題解決)。 4.填寫實習月報(問題討論與心得報告)。</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": "<div>填寫實習工作日誌、週誌、月報。</div>\n",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CM02149",
+      "sub_id": "58963",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "9-12",
+      "tpd_reading": "<div>1.企業實習 2.填寫實習工作日誌(工作內容)。 3.填寫實習週誌(問題發掘與問題解決)。 4.填寫實習月報(問題討論與心得報告)。</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": "<div>填寫實習工作日誌、週誌、月報。</div>\n",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CM02149",
+      "sub_id": "58963",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "13-16",
+      "tpd_reading": "<div>1.企業實習 2.填寫實習工作日誌(工作內容)。 3.填寫實習週誌(問題發掘與問題解決)。 4.填寫實習月報(問題討論與心得報告)。</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": "<div>填寫實習工作日誌、週誌、月報。</div>\n",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CM02149",
+      "sub_id": "58963",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "16-17",
+      "tpd_reading": "<div>1.企業實習 2.填寫實習工作日誌(工作內容)。 3.填寫實習週誌(問題發掘與問題解決)。 4.填寫實習月報(問題討論與心得報告)。</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": "<div>填寫實習工作日誌、週誌、月報。</div>\n",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    }
+  ],
+  "gradeRules": [],
+  "gradeRuleDescribe": {
+    "yms_year": 114.0,
+    "yms_smester": 1.0,
+    "cls_id": "CM02149",
+    "sub_id": "58963",
+    "scr_dup": "001",
+    "tpa_score_new": "實習期間至少滿四個半月或實習總時數不少於 720 小時。 \n學期成績計算項目及權重標準如下： \n1. 平時成績(業師考評) \n2. 期中成績(業師考評) \n    70%\n3. 期末成績(系輔導老師考評) \n    30% \n(日誌/週誌/期末報告(書面)/心得分享(口頭報告))\n(書面報告15%/工作日誌7.5%/簡報7.5%)",
+    "tpa_score_new_en": null,
+    "course_pol": "學生責任:\n作為大學生，有一定的學生責任。同學們應該積極參與學習和課程活動，確保按時完成作業和報告。自主尋求必要的支持和資源，並在需要時尋求老師或學術顧問的指導。此外，同學們應該充分利用校園資源，參與小組活動、行銷系共同活動，並尊重校園的行為準則和規定。",
+    "course_pol_en": null,
+    "course_rem": "請同學依合約內容融入公司企業文化。",
+    "course_rem_en": null,
+    "ais_meno": "<div>學術誠信是大學生在學習、評量、互動以及課程結束後表現中至關重要的一個方面。作為期望的大學生，應該堅守誠信原則，以保持高水平的學術道德。</div>\n\n<div>首先，在學習評量方面，期望的大學生應該獨立完成個人作業和測驗，以展現自己的知識和能力。不應該從任何非法、不正當的來源抄襲或抄襲他人的作品。大學生應該遵守學校的作業指導，適當引用和參考來源，確保他們的作業和報告是原創性的。如果被發現有學術不誠信行為，可能的處分包括扣分、重寫作業、學術警告、甚至學術不良紀錄的建立。</div>\n\n<div>&nbsp;</div>\n\n<div>其次，在班上互動方面，學術誠信同樣至關重要。大學生應該尊重他人的學術努力，不試圖獲得不正當的競爭優勢。這意味著他們不應該從他人那裡抄襲答案或利用未經授權的資源獲取答案。此外，應該遵守合作項目的規則，確保每個成員都有平等的貢獻。違反這些原則的學生可能面臨個人責任、組織制裁或與其他學生的合作分數扣減等處分。</div>\n\n<div>&nbsp;</div>\n\n<div>最後，在課程結束後的表現方面，大學生應該在學術領域中展示誠信。這包括不在簡歷或申請文件中提供虛假信息，不將他人的作品或研究成果視為自己的，以及在發表學術論文或演講時遵從引文和參考文獻的要求。如果大學生被發現有學術不誠信行為，可能面臨到職業生涯的影響，包括錯失就業機會、聲譽受損以及影響學術社群的名望。</div>\n",
+    "ais_meno_en": null,
+    "ilearn_mk": null
+  },
+  "integrity": {
+    "yms_year": 114.0,
+    "yms_smester": 1.0,
+    "cls_id": "CM02149",
+    "sub_id": "58963",
+    "scr_dup": "001",
+    "tpa_score_new": "實習期間至少滿四個半月或實習總時數不少於 720 小時。 \n學期成績計算項目及權重標準如下： \n1. 平時成績(業師考評) \n2. 期中成績(業師考評) \n    70%\n3. 期末成績(系輔導老師考評) \n    30% \n(日誌/週誌/期末報告(書面)/心得分享(口頭報告))\n(書面報告15%/工作日誌7.5%/簡報7.5%)",
+    "tpa_score_new_en": null,
+    "course_pol": "學生責任:\n作為大學生，有一定的學生責任。同學們應該積極參與學習和課程活動，確保按時完成作業和報告。自主尋求必要的支持和資源，並在需要時尋求老師或學術顧問的指導。此外，同學們應該充分利用校園資源，參與小組活動、行銷系共同活動，並尊重校園的行為準則和規定。",
+    "course_pol_en": null,
+    "course_rem": "請同學依合約內容融入公司企業文化。",
+    "course_rem_en": null,
+    "ais_meno": "<div>學術誠信是大學生在學習、評量、互動以及課程結束後表現中至關重要的一個方面。作為期望的大學生，應該堅守誠信原則，以保持高水平的學術道德。</div>\n\n<div>首先，在學習評量方面，期望的大學生應該獨立完成個人作業和測驗，以展現自己的知識和能力。不應該從任何非法、不正當的來源抄襲或抄襲他人的作品。大學生應該遵守學校的作業指導，適當引用和參考來源，確保他們的作業和報告是原創性的。如果被發現有學術不誠信行為，可能的處分包括扣分、重寫作業、學術警告、甚至學術不良紀錄的建立。</div>\n\n<div>&nbsp;</div>\n\n<div>其次，在班上互動方面，學術誠信同樣至關重要。大學生應該尊重他人的學術努力，不試圖獲得不正當的競爭優勢。這意味著他們不應該從他人那裡抄襲答案或利用未經授權的資源獲取答案。此外，應該遵守合作項目的規則，確保每個成員都有平等的貢獻。違反這些原則的學生可能面臨個人責任、組織制裁或與其他學生的合作分數扣減等處分。</div>\n\n<div>&nbsp;</div>\n\n<div>最後，在課程結束後的表現方面，大學生應該在學術領域中展示誠信。這包括不在簡歷或申請文件中提供虛假信息，不將他人的作品或研究成果視為自己的，以及在發表學術論文或演講時遵從引文和參考文獻的要求。如果大學生被發現有學術不誠信行為，可能面臨到職業生涯的影響，包括錯失就業機會、聲譽受損以及影響學術社群的名望。</div>\n",
+    "ais_meno_en": null,
+    "ilearn_mk": null
+  },
+  "policy": {
+    "yms_year": 114.0,
+    "yms_smester": 1.0,
+    "cls_id": "CM02149",
+    "sub_id": "58963",
+    "scr_dup": "001",
+    "tpa_score_new": "實習期間至少滿四個半月或實習總時數不少於 720 小時。 \n學期成績計算項目及權重標準如下： \n1. 平時成績(業師考評) \n2. 期中成績(業師考評) \n    70%\n3. 期末成績(系輔導老師考評) \n    30% \n(日誌/週誌/期末報告(書面)/心得分享(口頭報告))\n(書面報告15%/工作日誌7.5%/簡報7.5%)",
+    "tpa_score_new_en": null,
+    "course_pol": "學生責任:\n作為大學生，有一定的學生責任。同學們應該積極參與學習和課程活動，確保按時完成作業和報告。自主尋求必要的支持和資源，並在需要時尋求老師或學術顧問的指導。此外，同學們應該充分利用校園資源，參與小組活動、行銷系共同活動，並尊重校園的行為準則和規定。",
+    "course_pol_en": null,
+    "course_rem": "請同學依合約內容融入公司企業文化。",
+    "course_rem_en": null,
+    "ais_meno": "<div>學術誠信是大學生在學習、評量、互動以及課程結束後表現中至關重要的一個方面。作為期望的大學生，應該堅守誠信原則，以保持高水平的學術道德。</div>\n\n<div>首先，在學習評量方面，期望的大學生應該獨立完成個人作業和測驗，以展現自己的知識和能力。不應該從任何非法、不正當的來源抄襲或抄襲他人的作品。大學生應該遵守學校的作業指導，適當引用和參考來源，確保他們的作業和報告是原創性的。如果被發現有學術不誠信行為，可能的處分包括扣分、重寫作業、學術警告、甚至學術不良紀錄的建立。</div>\n\n<div>&nbsp;</div>\n\n<div>其次，在班上互動方面，學術誠信同樣至關重要。大學生應該尊重他人的學術努力，不試圖獲得不正當的競爭優勢。這意味著他們不應該從他人那裡抄襲答案或利用未經授權的資源獲取答案。此外，應該遵守合作項目的規則，確保每個成員都有平等的貢獻。違反這些原則的學生可能面臨個人責任、組織制裁或與其他學生的合作分數扣減等處分。</div>\n\n<div>&nbsp;</div>\n\n<div>最後，在課程結束後的表現方面，大學生應該在學術領域中展示誠信。這包括不在簡歷或申請文件中提供虛假信息，不將他人的作品或研究成果視為自己的，以及在發表學術論文或演講時遵從引文和參考文獻的要求。如果大學生被發現有學術不誠信行為，可能面臨到職業生涯的影響，包括錯失就業機會、聲譽受損以及影響學術社群的名望。</div>\n",
+    "ais_meno_en": null,
+    "ilearn_mk": null
+  },
+  "courseBankC": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CM02149",
+      "sub_id": "58963",
+      "scr_dup": "001",
+      "seq": 1,
+      "describe_ch": "管理理論與知識於交通運輸與工程管理之應用",
+      "describe_en": "Apply customer relationship to transportation management and engineering.",
+      "core_id": "A",
+      "core_item": "具備運輸與物流知識、解析時事議題及運用專業知識解決問題之能力",
+      "core_eng": "Knowledge of transportation and logistics, ability to resolve current issues and apply professional knowledge to solve problems.",
+      "core_level": "3 ",
+      "strgy": [
+        "17"
+      ],
+      "evalb": [
+        "I6"
+      ],
+      "strgy_name": [
+        "產業實習"
+      ],
+      "strgy_name_en": [
+        "Internship"
+      ],
+      "evalb_name": [
+        "專業實習表現"
+      ],
+      "evalb_name_en": [
+        "Internship representation"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CM02149",
+          "sub_id": "58963",
+          "scr_dup": "001",
+          "seq": 1,
+          "strgy_id": "17",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CM02149",
+          "sub_id": "58963",
+          "scr_dup": "001",
+          "seq": 1,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "I6",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CM02149",
+      "sub_id": "58963",
+      "scr_dup": "001",
+      "seq": 2,
+      "describe_ch": "交通工程師與從業人員應具有專業倫理的項目",
+      "describe_en": "Possess professional ethics for traffic engineer and practicians.",
+      "core_id": null,
+      "core_item": null,
+      "core_eng": null,
+      "core_level": null,
+      "strgy": [
+        "17"
+      ],
+      "evalb": [
+        "I6",
+        "L4"
+      ],
+      "strgy_name": [
+        "產業實習"
+      ],
+      "strgy_name_en": [
+        "Internship"
+      ],
+      "evalb_name": [
+        "專業實習表現",
+        "出席狀況"
+      ],
+      "evalb_name_en": [
+        "Internship representation",
+        "Attendances"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CM02149",
+          "sub_id": "58963",
+          "scr_dup": "001",
+          "seq": 2,
+          "strgy_id": "17",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CM02149",
+          "sub_id": "58963",
+          "scr_dup": "001",
+          "seq": 2,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "I6",
+          "evalb_name": null,
+          "evalb_name_en": null
+        },
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CM02149",
+          "sub_id": "58963",
+          "scr_dup": "001",
+          "seq": 2,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "L4",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CM02149",
+      "sub_id": "58963",
+      "scr_dup": "001",
+      "seq": 3,
+      "describe_ch": "簡報製作、報告撰寫、口頭報告以及提問研討之實力",
+      "describe_en": "Possess the abilities of presentation documents preparation, essay writing, oral presentations, and comments making.",
+      "core_id": "A",
+      "core_item": "具備運輸與物流知識、解析時事議題及運用專業知識解決問題之能力",
+      "core_eng": "Knowledge of transportation and logistics, ability to resolve current issues and apply professional knowledge to solve problems.",
+      "core_level": "3 ",
+      "strgy": [
+        "17"
+      ],
+      "evalb": [
+        "I6"
+      ],
+      "strgy_name": [
+        "產業實習"
+      ],
+      "strgy_name_en": [
+        "Internship"
+      ],
+      "evalb_name": [
+        "專業實習表現"
+      ],
+      "evalb_name_en": [
+        "Internship representation"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CM02149",
+          "sub_id": "58963",
+          "scr_dup": "001",
+          "seq": 3,
+          "strgy_id": "17",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 1.0,
+          "cls_id": "CM02149",
+          "sub_id": "58963",
+          "scr_dup": "001",
+          "seq": 3,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "I6",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    }
+  ],
+  "topicSdgs": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 1.0,
+      "cls_id": "CM02149",
+      "sub_id": "58963",
+      "scr_dup": "001",
+      "sdgs_seq": 9,
+      "main_related": "Y",
+      "ind_related": "N",
+      "iss_name": "經濟成長面",
+      "iss_ename": "Economic Growth",
+      "content_name": "健全就業制度與經濟成長",
+      "content_ename": "Decent Work and Economic Growth"
+    }
+  ],
+  "learnHours": {
+    "total": 0.0,
+    "tpdOnlineAsyTotal": 0.0,
+    "tpdOnlineSynTotal": 0.0,
+    "tpdOnlineFaceTotal": 0.0,
+    "asySynInTotalPercent": 0.0
+  },
+  "crossVerYear": 114
+}

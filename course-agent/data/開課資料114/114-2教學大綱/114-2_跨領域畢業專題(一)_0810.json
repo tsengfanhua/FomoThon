@@ -1,0 +1,673 @@
+{
+  "success": true,
+  "info": {
+    "yms_year": 114.0,
+    "yms_smester": 2.0,
+    "sub_id": "57889",
+    "cls_id": "CD00101",
+    "scr_dup": "001",
+    "sub_id3": "COND5990",
+    "cls_name": "建設學院綜合班",
+    "cls_ename": "College of Construction and Development",
+    "sub_name": "跨領域畢業專題(一)",
+    "sub_ename": "INTERDISCIPLINARY GRADUATION PROJECT(1)",
+    "scr_mso": "選修",
+    "scr_mso_en": "Elective",
+    "scr_credit": 3.0,
+    "scr_periodly": "(五)00",
+    "scr_periodly_eng": "(Fri)00",
+    "lang_name": "中文                                                      ",
+    "lang_ename": "Chinese",
+    "scr_room": "待排",
+    "scr_room_eng": "TBD",
+    "scr_teacher": "黃彥斐,廖文如",
+    "scr_teacher_eng": "Wen-Ju Liao,Wen-Ju Liao",
+    "scr_selcode": "0810",
+    "scr_elearning": "全學期",
+    "scr_elearning_en": "Full semester",
+    "scr_hours": "1",
+    "scr_english": "N",
+    "unt_name": null,
+    "unt_ename": null,
+    "link_traminal": null,
+    "link_traminal_en": null,
+    "scr_ldl": "D",
+    "course_mk": "0",
+    "teams_mk": "N",
+    "sub_title": null,
+    "sub_title_en": null,
+    "sub_describe": null,
+    "sub_describe_en": null,
+    "hasDescription": null,
+    "hasInstructor": null,
+    "hasTA": null,
+    "hasTextBooks": null,
+    "hasReadings": null,
+    "hasiSoftwares": null,
+    "hasAssistSoftwares": null,
+    "hasObjective": null,
+    "hasWeeklyScds": null,
+    "hasGradeRules": null,
+    "hasGradeRuleDescribe": null,
+    "hasIntegrity": null,
+    "hasCoursePol": null,
+    "hasCourseRem": null,
+    "hasObjectiveReleation": null,
+    "hasTopicSdgs": null,
+    "hasTopicAiIndicators": null,
+    "hasSubTitleDesc": null
+  },
+  "subTitleDesc": null,
+  "description": {
+    "sub_id3": null,
+    "sub_name": "跨領域畢業專題(一)",
+    "sub_ename": "INTERDISCIPLINARY GRADUATION PROJECT(1)",
+    "describe_ch": "以智慧城市之資通訊科技及感測物聯技術，研析各項智慧應用與決策分析數據及空間資訊平台，融合GIS、AI及三維城市發展技術做為專題課程引導之基礎及創新學習方式。",
+    "describe_eh": "Using smart communication technology and sensing IoT technology to research spatial information platform for smart applications and decision analysis. The course will integrate GIS, AI and 3D city development technology to guide innovative learning methods.",
+    "pre_subname": "",
+    "pre_sub_id3": null,
+    "pre_sub_ename": "",
+    "pre_describe": null,
+    "pre_describe_en": null,
+    "scr_credit": 3.0
+  },
+  "targets": [
+    {
+      "seq": 1,
+      "describe_ch": "能理解智慧城市及應用科技",
+      "describe_en": "Understand smart cities and applied technologies"
+    },
+    {
+      "seq": 2,
+      "describe_ch": "能利用數據分析城市治理方法",
+      "describe_en": "Use data to analyze urban governance methods"
+    },
+    {
+      "seq": 3,
+      "describe_ch": "能以整合式科技解決城市問題",
+      "describe_en": "Integrate technology to solve urban issues"
+    }
+  ],
+  "teachersInfo": [
+    {
+      "cname": "黃彥斐",
+      "ename": "Yen-Fei Huang",
+      "period": "(Mon)07-08 紀524,(Tue)04  紀524,(Tue)06  紀524",
+      "roletype": 0,
+      "email": "yfhuang@o365.fcu.edu.tw",
+      "ext": "4669"
+    },
+    {
+      "cname": "廖文如",
+      "ename": "Wen-Ju Liao",
+      "period": "(Wed)04  商1218,(Wed)06  商1218,(Thu)06-07 商1218",
+      "roletype": 0,
+      "email": "wenjliao@o365.fcu.edu.tw",
+      "ext": "4159"
+    }
+  ],
+  "textBooks": {
+    "yms_year": 114.0,
+    "yms_smester": 2.0,
+    "cls_id": "CD00101",
+    "sub_id": "57889",
+    "scr_dup": "001",
+    "tpb_seq": 1,
+    "tpb_book": "<div>授課教師將依照課程需求提供自編講義或教材</div>\n",
+    "tpb_book_en": null
+  },
+  "readings": {
+    "yms_year": 114.0,
+    "yms_smester": 2.0,
+    "cls_id": "CD00101",
+    "sub_id": "57889",
+    "scr_dup": "001",
+    "tpc_seq": 1,
+    "tpc_book": "<div>各課程授課教師將依需求自行提供參考教材</div>\n",
+    "tpc_book_en": null
+  },
+  "iSoftwares": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CD00101",
+      "sub_id": "57889",
+      "scr_dup": "001",
+      "seq_no": 1,
+      "soft_kind": "2",
+      "soft_name": null,
+      "soft_memo": "<div>&nbsp;</div>\n\n<div>&nbsp;</div>\n",
+      "soft_name_en": null,
+      "soft_memo_en": null
+    }
+  ],
+  "assistSoftwares": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CD00101",
+      "sub_id": "57889",
+      "scr_dup": "001",
+      "seq_no": 2,
+      "soft_kind": "3",
+      "soft_name": null,
+      "soft_memo": " ",
+      "soft_name_en": null,
+      "soft_memo_en": null
+    }
+  ],
+  "weeklyScds": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CD00101",
+      "sub_id": "57889",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "1-3",
+      "tpd_reading": "<div>前人研究與相關文獻閱讀</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": "<div>預習教材、閱讀先備知識內容</div>\n",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CD00101",
+      "sub_id": "57889",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "4-6",
+      "tpd_reading": "<div>研究材料收集與整理</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": "<div>內業整理或外業調查</div>\n",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CD00101",
+      "sub_id": "57889",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "7-9",
+      "tpd_reading": "<div>研究材料收集與分析</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": "<div>資料彙整與分析</div>\n",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CD00101",
+      "sub_id": "57889",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "10",
+      "tpd_reading": "<div>研究架構與流程擬定</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": "<div>研究架構流程討論與修正</div>\n",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CD00101",
+      "sub_id": "57889",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "11-12",
+      "tpd_reading": "<div>實驗分析與操作</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": "<div>實驗現場操作與數據調校</div>\n",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CD00101",
+      "sub_id": "57889",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "13-16",
+      "tpd_reading": "<div>研究結果整理與分析討論</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": "<div>統計工具使用與評估方法建置</div>\n",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CD00101",
+      "sub_id": "57889",
+      "scr_dup": "001",
+      "tpd_seq": 0,
+      "tpd_week": "17-18",
+      "tpd_reading": "<div>結論整理與撰寫</div>\n",
+      "tpd_reading_en": null,
+      "tpd_learn": "<div>研究論文撰寫</div>\n",
+      "tpd_learn_en": null,
+      "tpd_duedate": null,
+      "tpd_duedate_en": null,
+      "tpd_in": null,
+      "tpd_in_en": null,
+      "tpd_rtime": null,
+      "tpd_rtime_en": null,
+      "tpd_sync": null,
+      "tpd_sync_en": null,
+      "tpd_ass": null,
+      "tpd_ass_en": null,
+      "tpd_online_asy": null,
+      "tpd_online_syn": null,
+      "tpd_online_face": null,
+      "tpd_week_en": null,
+      "mode": 0
+    }
+  ],
+  "gradeRules": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CD00101",
+      "sub_id": "57889",
+      "scr_dup": "001",
+      "evalb_id": "D5",
+      "score_rate": 60,
+      "evalb_memo": "期末專題成果發表",
+      "evalb_memo_en": null,
+      "evalb_name": "期末專題",
+      "evalb_name_en": "Final presentation",
+      "seq": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CD00101",
+      "sub_id": "57889",
+      "scr_dup": "001",
+      "evalb_id": "G2",
+      "score_rate": 30,
+      "evalb_memo": "研究進行期中進度報告",
+      "evalb_memo_en": null,
+      "evalb_name": "實驗/實習報告",
+      "evalb_name_en": "Laboratory/internship report",
+      "seq": 0
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CD00101",
+      "sub_id": "57889",
+      "scr_dup": "001",
+      "evalb_id": "L3",
+      "score_rate": 10,
+      "evalb_memo": "課堂討論參與",
+      "evalb_memo_en": null,
+      "evalb_name": "課堂討論參與",
+      "evalb_name_en": "Participation",
+      "seq": 0
+    }
+  ],
+  "gradeRuleDescribe": {
+    "yms_year": 114.0,
+    "yms_smester": 2.0,
+    "cls_id": "CD00101",
+    "sub_id": "57889",
+    "scr_dup": "001",
+    "tpa_score_new": "<div>依據各授課教師自行設定之評分標準：</div>\n\n<div>&nbsp;</div>\n\n<div>\n<ol>\n\t<li>學期成績記分法<br />\n\t本科目以P/F記分，其通過標準：完成作品，並公開發表。<br />\n\t本科目採百分記分法<br />\n\t本科目採等第記分</li>\n\t<li>出席及缺席\n\t<ul>\n\t\t<li>登記為曠課者，曠課一次扣平時成績5分。</li>\n\t\t<li>學生請假依本校學生請假辦法辦理，務必要在上課之前，檢附請假理由及文件，線上提出申請。若不在申請期限內完成請假作業者，無充分的理由，經核准不得取消扣分。</li>\n\t</ul>\n\t</li>\n\t<li>課堂互動與參與討論\n\t<ul>\n\t\t<li>每位學生每週上iLearn 課程討論區，針對討論議題至少回應一則至少100個字的看法，未回應者扣平常成績5分。</li>\n\t\t<li>在上課之前，要做好閱讀和作業寫作，以便您準備上課時幫助和參與討論。</li>\n\t\t<li>使用FCU電子郵件和iLearn，與授課教師和同學進行交流。</li>\n\t</ul>\n\t</li>\n\t<li>作業提交及遲交\n\t<ul>\n\t\t<li>每次作業延遲將扣分。若您能提前通知我，並附上說明和預計完成的時間，我將酌情考量展延繳交作業時間的請求，若理由不充分不會批准請求。</li>\n\t\t<li>用iLearn提交作業，書面資料要使用Microsoft Office/Word、Excel、PowerPoint進行撰寫。</li>\n\t\t<li>所有討論作業必須在作業的截止日期和時間之前完成，或者必須在到期日之前要求教師給予特殊許可。討論作業的延遲或缺失會影響您的成績。</li>\n\t\t<li>保留所有作業的備份副本。</li>\n\t</ul>\n\t</li>\n\t<li>考評及補考<br />\n\t應參加考試之學生，未遵守請假或請假未經核准，而未參加考試者，該科該次考試成績以零分計算。</li>\n\t<li>作弊及抄襲\n\t<ul>\n\t\t<li>違反此規則者，該次評核&ldquo;不計分&rdquo;或課程&ldquo;不計分&rdquo;。</li>\n\t\t<li>紙筆測驗時，不得交談、竊窺他人試卷或故意便利鄰座竊窺，或有夾帶、抄襲或傳遞資料等情事經發現時，違者該次考試成績以零分計算；為累犯者則以逢甲大學學生獎懲辦法相關規定處理。</li>\n\t\t<li>如有替考情事，其舞弊之雙方，均依逢甲大學學生獎懲辦法相關規定處理。</li>\n\t\t<li>提交原創作品，嚴禁任何形式的抄襲。違反此規則者，該次作業&ldquo;不計分&rdquo;或課程&ldquo;不計分&rdquo;，結果會導致課程學期成績不及格。</li>\n\t</ul>\n\t</li>\n\t<li>加分及補救措施<br />\n\t如果您發現學期出現困難時，如跟不上學習進度、聽不懂、或作業有問題等，請您儘早與老師聯繫，以便幫助您找到解決方案。</li>\n\t<li>學期預警\n\t<ul>\n\t\t<li>當我發現您的學習進度跟不上、可能會妨礙學業成功之疑慮時，我可能會發出預警訊息給您、及您的學習導師。如果您收到預警通知，則您有責任盡快與我聯繫，討論學習上問題，將透過諮詢方式，給予您可能的協助。</li>\n\t\t<li>另一方面，您也可以多多與您的學習導師聯繫及諮詢，與您面談，一起找尋您的學習障礙點，給予建議改善學習的方案。</li>\n\t</ul>\n\t</li>\n</ol>\n</div>\n",
+    "tpa_score_new_en": null,
+    "course_pol": "請遵照各教師對於上課型態之需求，維持課堂禮儀、網路禮儀並負起研究責任。\n課堂實體進行時請注意出席率與出席時間，網路討論時請遵守網路交流禮儀與責任。",
+    "course_pol_en": null,
+    "course_rem": null,
+    "course_rem_en": null,
+    "ais_meno": "<div>研究人員應遵守及推行學術倫理管理及自律規範事項如下：</div>\n\n<div>（一）基本態度：研究人員應確保研究過程（包含研究構想、執行、成果呈現）之誠實、 負責、專業、客觀、嚴謹、公正，並尊重被研究對象，避免利益衝突。</div>\n\n<div>（二）不違反學術倫理行為：研究人員不得有下列行為 1.造假：虛構不存在之申請資料、研究資料或研究成果。 2.變造：不實變更申請資料、研究資料或研究成果。 3.抄襲：援用他人之申請資料、研究資料或研究成果未註明出處。註明出處不當， 情節重大者，以抄襲論。 4.由他人代寫。 5.未經註明而重複出版公開發行。 6.大幅引用本人已發表之著作，未適當引註。 7.以翻譯代替論著，並未適當註明。 8.教師資格審查履歷表、合著人證明登載不實、代表作未確實填載為合著及繳交合 著人證明。 9.送審人本人或經由他人有請託、關說、利誘、威脅或其他干擾審查人或審查程序 之情事，或送審人以違法或不當手段影響論文之審查。 10.其他違反學術倫理行為。 （三）研究資料或數據之蒐集與分析：研究人員應盡可能客觀地蒐集與分析研究資料或 數據，不得捏造竄改，並避免對資料或數據作選擇性處理。如需處理原始數據，應 詳實揭露所做之完整過程，以免誤導。研究人員應根據研究內容描述研究方法與 結果，不做無根據且與事實不合之詮釋與推論。</div>\n\n<div>（四）研究紀錄之完整保存與備查：研究人員應當以能夠使他人驗證和重複其工作之方 式，清楚、準確、客觀、完整記錄其研究方法與數據，並於相當期間內妥善保存原 始資料。</div>\n\n<div>（五）研究資料與結果之公開與共享：研究人員於有機會確立其優先權後，應當儘速公 開分享其研究資料與結果。用國家研究經費所蒐集之資料，應公開給學術社群使 用。</div>\n\n<div>（六）註明他人之貢獻： 1.引用他人資料或論點時，必須尊重智慧財產權，註明出處，避免誤導使人過度認 定本人之創見或貢獻。 2.有相當程度地引用他人著述卻未引註而足以誤導者，視為抄襲；抄襲部分非著作 核心部分，不足以對其原創性構成誤導者，應依該領域之慣例判斷其嚴重性。 3.未遵守學術慣例或不嚴謹之引註，其行為應受學術社群自律，且應極力避免，並 應習得正確學術慣例及引註方式。 4.同一成果如為多人共同研究且共同發表，可為各人之研究成果。如為多人共同研 究成果但分別發表者，應註明其他人之貢獻。 5.共同發表之論文、共同申請之研究計畫、整合型計畫總計畫與子計畫，皆可視為 共同著作（全部或部分），對共同著作之引用非為抄襲。</div>\n\n<div>（七）自我抄襲之制約： 1.研究計畫或論文不應抄襲本人已發表之著作。 2.研究計畫中不應將已發表之成果當作將要進行之研究。 3.論文中不應隱瞞本人曾發表之相似研究成果，而誤導審查人對其貢獻與創見之判斷。</div>\n",
+    "ais_meno_en": null,
+    "ilearn_mk": null
+  },
+  "integrity": {
+    "yms_year": 114.0,
+    "yms_smester": 2.0,
+    "cls_id": "CD00101",
+    "sub_id": "57889",
+    "scr_dup": "001",
+    "tpa_score_new": "<div>依據各授課教師自行設定之評分標準：</div>\n\n<div>&nbsp;</div>\n\n<div>\n<ol>\n\t<li>學期成績記分法<br />\n\t本科目以P/F記分，其通過標準：完成作品，並公開發表。<br />\n\t本科目採百分記分法<br />\n\t本科目採等第記分</li>\n\t<li>出席及缺席\n\t<ul>\n\t\t<li>登記為曠課者，曠課一次扣平時成績5分。</li>\n\t\t<li>學生請假依本校學生請假辦法辦理，務必要在上課之前，檢附請假理由及文件，線上提出申請。若不在申請期限內完成請假作業者，無充分的理由，經核准不得取消扣分。</li>\n\t</ul>\n\t</li>\n\t<li>課堂互動與參與討論\n\t<ul>\n\t\t<li>每位學生每週上iLearn 課程討論區，針對討論議題至少回應一則至少100個字的看法，未回應者扣平常成績5分。</li>\n\t\t<li>在上課之前，要做好閱讀和作業寫作，以便您準備上課時幫助和參與討論。</li>\n\t\t<li>使用FCU電子郵件和iLearn，與授課教師和同學進行交流。</li>\n\t</ul>\n\t</li>\n\t<li>作業提交及遲交\n\t<ul>\n\t\t<li>每次作業延遲將扣分。若您能提前通知我，並附上說明和預計完成的時間，我將酌情考量展延繳交作業時間的請求，若理由不充分不會批准請求。</li>\n\t\t<li>用iLearn提交作業，書面資料要使用Microsoft Office/Word、Excel、PowerPoint進行撰寫。</li>\n\t\t<li>所有討論作業必須在作業的截止日期和時間之前完成，或者必須在到期日之前要求教師給予特殊許可。討論作業的延遲或缺失會影響您的成績。</li>\n\t\t<li>保留所有作業的備份副本。</li>\n\t</ul>\n\t</li>\n\t<li>考評及補考<br />\n\t應參加考試之學生，未遵守請假或請假未經核准，而未參加考試者，該科該次考試成績以零分計算。</li>\n\t<li>作弊及抄襲\n\t<ul>\n\t\t<li>違反此規則者，該次評核&ldquo;不計分&rdquo;或課程&ldquo;不計分&rdquo;。</li>\n\t\t<li>紙筆測驗時，不得交談、竊窺他人試卷或故意便利鄰座竊窺，或有夾帶、抄襲或傳遞資料等情事經發現時，違者該次考試成績以零分計算；為累犯者則以逢甲大學學生獎懲辦法相關規定處理。</li>\n\t\t<li>如有替考情事，其舞弊之雙方，均依逢甲大學學生獎懲辦法相關規定處理。</li>\n\t\t<li>提交原創作品，嚴禁任何形式的抄襲。違反此規則者，該次作業&ldquo;不計分&rdquo;或課程&ldquo;不計分&rdquo;，結果會導致課程學期成績不及格。</li>\n\t</ul>\n\t</li>\n\t<li>加分及補救措施<br />\n\t如果您發現學期出現困難時，如跟不上學習進度、聽不懂、或作業有問題等，請您儘早與老師聯繫，以便幫助您找到解決方案。</li>\n\t<li>學期預警\n\t<ul>\n\t\t<li>當我發現您的學習進度跟不上、可能會妨礙學業成功之疑慮時，我可能會發出預警訊息給您、及您的學習導師。如果您收到預警通知，則您有責任盡快與我聯繫，討論學習上問題，將透過諮詢方式，給予您可能的協助。</li>\n\t\t<li>另一方面，您也可以多多與您的學習導師聯繫及諮詢，與您面談，一起找尋您的學習障礙點，給予建議改善學習的方案。</li>\n\t</ul>\n\t</li>\n</ol>\n</div>\n",
+    "tpa_score_new_en": null,
+    "course_pol": "請遵照各教師對於上課型態之需求，維持課堂禮儀、網路禮儀並負起研究責任。\n課堂實體進行時請注意出席率與出席時間，網路討論時請遵守網路交流禮儀與責任。",
+    "course_pol_en": null,
+    "course_rem": null,
+    "course_rem_en": null,
+    "ais_meno": "<div>研究人員應遵守及推行學術倫理管理及自律規範事項如下：</div>\n\n<div>（一）基本態度：研究人員應確保研究過程（包含研究構想、執行、成果呈現）之誠實、 負責、專業、客觀、嚴謹、公正，並尊重被研究對象，避免利益衝突。</div>\n\n<div>（二）不違反學術倫理行為：研究人員不得有下列行為 1.造假：虛構不存在之申請資料、研究資料或研究成果。 2.變造：不實變更申請資料、研究資料或研究成果。 3.抄襲：援用他人之申請資料、研究資料或研究成果未註明出處。註明出處不當， 情節重大者，以抄襲論。 4.由他人代寫。 5.未經註明而重複出版公開發行。 6.大幅引用本人已發表之著作，未適當引註。 7.以翻譯代替論著，並未適當註明。 8.教師資格審查履歷表、合著人證明登載不實、代表作未確實填載為合著及繳交合 著人證明。 9.送審人本人或經由他人有請託、關說、利誘、威脅或其他干擾審查人或審查程序 之情事，或送審人以違法或不當手段影響論文之審查。 10.其他違反學術倫理行為。 （三）研究資料或數據之蒐集與分析：研究人員應盡可能客觀地蒐集與分析研究資料或 數據，不得捏造竄改，並避免對資料或數據作選擇性處理。如需處理原始數據，應 詳實揭露所做之完整過程，以免誤導。研究人員應根據研究內容描述研究方法與 結果，不做無根據且與事實不合之詮釋與推論。</div>\n\n<div>（四）研究紀錄之完整保存與備查：研究人員應當以能夠使他人驗證和重複其工作之方 式，清楚、準確、客觀、完整記錄其研究方法與數據，並於相當期間內妥善保存原 始資料。</div>\n\n<div>（五）研究資料與結果之公開與共享：研究人員於有機會確立其優先權後，應當儘速公 開分享其研究資料與結果。用國家研究經費所蒐集之資料，應公開給學術社群使 用。</div>\n\n<div>（六）註明他人之貢獻： 1.引用他人資料或論點時，必須尊重智慧財產權，註明出處，避免誤導使人過度認 定本人之創見或貢獻。 2.有相當程度地引用他人著述卻未引註而足以誤導者，視為抄襲；抄襲部分非著作 核心部分，不足以對其原創性構成誤導者，應依該領域之慣例判斷其嚴重性。 3.未遵守學術慣例或不嚴謹之引註，其行為應受學術社群自律，且應極力避免，並 應習得正確學術慣例及引註方式。 4.同一成果如為多人共同研究且共同發表，可為各人之研究成果。如為多人共同研 究成果但分別發表者，應註明其他人之貢獻。 5.共同發表之論文、共同申請之研究計畫、整合型計畫總計畫與子計畫，皆可視為 共同著作（全部或部分），對共同著作之引用非為抄襲。</div>\n\n<div>（七）自我抄襲之制約： 1.研究計畫或論文不應抄襲本人已發表之著作。 2.研究計畫中不應將已發表之成果當作將要進行之研究。 3.論文中不應隱瞞本人曾發表之相似研究成果，而誤導審查人對其貢獻與創見之判斷。</div>\n",
+    "ais_meno_en": null,
+    "ilearn_mk": null
+  },
+  "policy": {
+    "yms_year": 114.0,
+    "yms_smester": 2.0,
+    "cls_id": "CD00101",
+    "sub_id": "57889",
+    "scr_dup": "001",
+    "tpa_score_new": "<div>依據各授課教師自行設定之評分標準：</div>\n\n<div>&nbsp;</div>\n\n<div>\n<ol>\n\t<li>學期成績記分法<br />\n\t本科目以P/F記分，其通過標準：完成作品，並公開發表。<br />\n\t本科目採百分記分法<br />\n\t本科目採等第記分</li>\n\t<li>出席及缺席\n\t<ul>\n\t\t<li>登記為曠課者，曠課一次扣平時成績5分。</li>\n\t\t<li>學生請假依本校學生請假辦法辦理，務必要在上課之前，檢附請假理由及文件，線上提出申請。若不在申請期限內完成請假作業者，無充分的理由，經核准不得取消扣分。</li>\n\t</ul>\n\t</li>\n\t<li>課堂互動與參與討論\n\t<ul>\n\t\t<li>每位學生每週上iLearn 課程討論區，針對討論議題至少回應一則至少100個字的看法，未回應者扣平常成績5分。</li>\n\t\t<li>在上課之前，要做好閱讀和作業寫作，以便您準備上課時幫助和參與討論。</li>\n\t\t<li>使用FCU電子郵件和iLearn，與授課教師和同學進行交流。</li>\n\t</ul>\n\t</li>\n\t<li>作業提交及遲交\n\t<ul>\n\t\t<li>每次作業延遲將扣分。若您能提前通知我，並附上說明和預計完成的時間，我將酌情考量展延繳交作業時間的請求，若理由不充分不會批准請求。</li>\n\t\t<li>用iLearn提交作業，書面資料要使用Microsoft Office/Word、Excel、PowerPoint進行撰寫。</li>\n\t\t<li>所有討論作業必須在作業的截止日期和時間之前完成，或者必須在到期日之前要求教師給予特殊許可。討論作業的延遲或缺失會影響您的成績。</li>\n\t\t<li>保留所有作業的備份副本。</li>\n\t</ul>\n\t</li>\n\t<li>考評及補考<br />\n\t應參加考試之學生，未遵守請假或請假未經核准，而未參加考試者，該科該次考試成績以零分計算。</li>\n\t<li>作弊及抄襲\n\t<ul>\n\t\t<li>違反此規則者，該次評核&ldquo;不計分&rdquo;或課程&ldquo;不計分&rdquo;。</li>\n\t\t<li>紙筆測驗時，不得交談、竊窺他人試卷或故意便利鄰座竊窺，或有夾帶、抄襲或傳遞資料等情事經發現時，違者該次考試成績以零分計算；為累犯者則以逢甲大學學生獎懲辦法相關規定處理。</li>\n\t\t<li>如有替考情事，其舞弊之雙方，均依逢甲大學學生獎懲辦法相關規定處理。</li>\n\t\t<li>提交原創作品，嚴禁任何形式的抄襲。違反此規則者，該次作業&ldquo;不計分&rdquo;或課程&ldquo;不計分&rdquo;，結果會導致課程學期成績不及格。</li>\n\t</ul>\n\t</li>\n\t<li>加分及補救措施<br />\n\t如果您發現學期出現困難時，如跟不上學習進度、聽不懂、或作業有問題等，請您儘早與老師聯繫，以便幫助您找到解決方案。</li>\n\t<li>學期預警\n\t<ul>\n\t\t<li>當我發現您的學習進度跟不上、可能會妨礙學業成功之疑慮時，我可能會發出預警訊息給您、及您的學習導師。如果您收到預警通知，則您有責任盡快與我聯繫，討論學習上問題，將透過諮詢方式，給予您可能的協助。</li>\n\t\t<li>另一方面，您也可以多多與您的學習導師聯繫及諮詢，與您面談，一起找尋您的學習障礙點，給予建議改善學習的方案。</li>\n\t</ul>\n\t</li>\n</ol>\n</div>\n",
+    "tpa_score_new_en": null,
+    "course_pol": "請遵照各教師對於上課型態之需求，維持課堂禮儀、網路禮儀並負起研究責任。\n課堂實體進行時請注意出席率與出席時間，網路討論時請遵守網路交流禮儀與責任。",
+    "course_pol_en": null,
+    "course_rem": null,
+    "course_rem_en": null,
+    "ais_meno": "<div>研究人員應遵守及推行學術倫理管理及自律規範事項如下：</div>\n\n<div>（一）基本態度：研究人員應確保研究過程（包含研究構想、執行、成果呈現）之誠實、 負責、專業、客觀、嚴謹、公正，並尊重被研究對象，避免利益衝突。</div>\n\n<div>（二）不違反學術倫理行為：研究人員不得有下列行為 1.造假：虛構不存在之申請資料、研究資料或研究成果。 2.變造：不實變更申請資料、研究資料或研究成果。 3.抄襲：援用他人之申請資料、研究資料或研究成果未註明出處。註明出處不當， 情節重大者，以抄襲論。 4.由他人代寫。 5.未經註明而重複出版公開發行。 6.大幅引用本人已發表之著作，未適當引註。 7.以翻譯代替論著，並未適當註明。 8.教師資格審查履歷表、合著人證明登載不實、代表作未確實填載為合著及繳交合 著人證明。 9.送審人本人或經由他人有請託、關說、利誘、威脅或其他干擾審查人或審查程序 之情事，或送審人以違法或不當手段影響論文之審查。 10.其他違反學術倫理行為。 （三）研究資料或數據之蒐集與分析：研究人員應盡可能客觀地蒐集與分析研究資料或 數據，不得捏造竄改，並避免對資料或數據作選擇性處理。如需處理原始數據，應 詳實揭露所做之完整過程，以免誤導。研究人員應根據研究內容描述研究方法與 結果，不做無根據且與事實不合之詮釋與推論。</div>\n\n<div>（四）研究紀錄之完整保存與備查：研究人員應當以能夠使他人驗證和重複其工作之方 式，清楚、準確、客觀、完整記錄其研究方法與數據，並於相當期間內妥善保存原 始資料。</div>\n\n<div>（五）研究資料與結果之公開與共享：研究人員於有機會確立其優先權後，應當儘速公 開分享其研究資料與結果。用國家研究經費所蒐集之資料，應公開給學術社群使 用。</div>\n\n<div>（六）註明他人之貢獻： 1.引用他人資料或論點時，必須尊重智慧財產權，註明出處，避免誤導使人過度認 定本人之創見或貢獻。 2.有相當程度地引用他人著述卻未引註而足以誤導者，視為抄襲；抄襲部分非著作 核心部分，不足以對其原創性構成誤導者，應依該領域之慣例判斷其嚴重性。 3.未遵守學術慣例或不嚴謹之引註，其行為應受學術社群自律，且應極力避免，並 應習得正確學術慣例及引註方式。 4.同一成果如為多人共同研究且共同發表，可為各人之研究成果。如為多人共同研 究成果但分別發表者，應註明其他人之貢獻。 5.共同發表之論文、共同申請之研究計畫、整合型計畫總計畫與子計畫，皆可視為 共同著作（全部或部分），對共同著作之引用非為抄襲。</div>\n\n<div>（七）自我抄襲之制約： 1.研究計畫或論文不應抄襲本人已發表之著作。 2.研究計畫中不應將已發表之成果當作將要進行之研究。 3.論文中不應隱瞞本人曾發表之相似研究成果，而誤導審查人對其貢獻與創見之判斷。</div>\n",
+    "ais_meno_en": null,
+    "ilearn_mk": null
+  },
+  "courseBankC": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CD00101",
+      "sub_id": "57889",
+      "scr_dup": "001",
+      "seq": 1,
+      "describe_ch": "能理解智慧城市及應用科技",
+      "describe_en": "Understand smart cities and applied technologies",
+      "core_id": "A",
+      "core_item": "具備國土建設之基本知識、解析時事議題及運用專業知識解決問題之能力。",
+      "core_eng": "Possess the basic knowledge of national land development, the ability to analyze contemporary issues and use professional knowledge to solve problems.",
+      "core_level": "1 ",
+      "strgy": [
+        "04"
+      ],
+      "evalb": [
+        "D5"
+      ],
+      "strgy_name": [
+        "專題討論"
+      ],
+      "strgy_name_en": [
+        "Seminar"
+      ],
+      "evalb_name": [
+        "期末專題"
+      ],
+      "evalb_name_en": [
+        "Final presentation"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CD00101",
+          "sub_id": "57889",
+          "scr_dup": "001",
+          "seq": 1,
+          "strgy_id": "04",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CD00101",
+          "sub_id": "57889",
+          "scr_dup": "001",
+          "seq": 1,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D5",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CD00101",
+      "sub_id": "57889",
+      "scr_dup": "001",
+      "seq": 2,
+      "describe_ch": "能利用數據分析城市治理方法",
+      "describe_en": "Use data to analyze urban governance methods",
+      "core_id": "B",
+      "core_item": "具備運用資訊技術及各項專業技能，進行蒐集、分析與解釋數據之能力。",
+      "core_eng": "Possess the ability to use information technology and various professional skills to collect, analyze and interpret data.",
+      "core_level": "2 ",
+      "strgy": [
+        "04"
+      ],
+      "evalb": [
+        "D5"
+      ],
+      "strgy_name": [
+        "專題討論"
+      ],
+      "strgy_name_en": [
+        "Seminar"
+      ],
+      "evalb_name": [
+        "期末專題"
+      ],
+      "evalb_name_en": [
+        "Final presentation"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CD00101",
+          "sub_id": "57889",
+          "scr_dup": "001",
+          "seq": 2,
+          "strgy_id": "04",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CD00101",
+          "sub_id": "57889",
+          "scr_dup": "001",
+          "seq": 2,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D5",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CD00101",
+      "sub_id": "57889",
+      "scr_dup": "001",
+      "seq": 3,
+      "describe_ch": "能以整合式科技解決城市問題",
+      "describe_en": "Integrate technology to solve urban issues",
+      "core_id": "E",
+      "core_item": "具備國際視野、社會關懷、跨域整合、專業及資訊倫理重要性之能力。",
+      "core_eng": "Understand the importance of international vision, social care, cross-disciplines integration, professional ethics, and information ethics.",
+      "core_level": "4 ",
+      "strgy": [
+        "04"
+      ],
+      "evalb": [
+        "D5"
+      ],
+      "strgy_name": [
+        "專題討論"
+      ],
+      "strgy_name_en": [
+        "Seminar"
+      ],
+      "evalb_name": [
+        "期末專題"
+      ],
+      "evalb_name_en": [
+        "Final presentation"
+      ],
+      "GetTchstrgys": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CD00101",
+          "sub_id": "57889",
+          "scr_dup": "001",
+          "seq": 3,
+          "strgy_id": "04",
+          "strgy_name": null,
+          "strgy_name_en": null
+        }
+      ],
+      "GetTchevalB": [
+        {
+          "yms_year": 114.0,
+          "yms_smester": 2.0,
+          "cls_id": "CD00101",
+          "sub_id": "57889",
+          "scr_dup": "001",
+          "seq": 3,
+          "evala_id": null,
+          "evala_name": null,
+          "evala_name_en": null,
+          "evalb_id": "D5",
+          "evalb_name": null,
+          "evalb_name_en": null
+        }
+      ]
+    }
+  ],
+  "topicSdgs": [
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CD00101",
+      "sub_id": "57889",
+      "scr_dup": "001",
+      "sdgs_seq": 10,
+      "main_related": "Y",
+      "ind_related": "N",
+      "iss_name": "經濟成長面",
+      "iss_ename": "Economic Growth",
+      "content_name": "研發創新和建立工業建設",
+      "content_ename": "Industry, Innovation and Infrastructure"
+    },
+    {
+      "yms_year": 114.0,
+      "yms_smester": 2.0,
+      "cls_id": "CD00101",
+      "sub_id": "57889",
+      "scr_dup": "001",
+      "sdgs_seq": 17,
+      "main_related": "N",
+      "ind_related": "Y",
+      "iss_name": "多元合作",
+      "iss_ename": "Cooperation",
+      "content_name": "建立全球夥伴關係",
+      "content_ename": "Partnerships for the Goals"
+    }
+  ],
+  "topicAiIndicators": [],
+  "learnHours": {
+    "total": 0.0,
+    "tpdOnlineAsyTotal": 0.0,
+    "tpdOnlineSynTotal": 0.0,
+    "tpdOnlineFaceTotal": 0.0,
+    "asySynInTotalPercent": 0.0
+  },
+  "crossVerYear": 114
+}

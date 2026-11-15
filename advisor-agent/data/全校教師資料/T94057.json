@@ -1,0 +1,940 @@
+{
+  "teacherId": "T94057",
+  "name": "劉榮平",
+  "mainUnit": "工程與科學學院",
+  "detailUnit": "光電科學與工程學系",
+  "skill": [
+    "數位全像術Digital Holography",
+    "三維顯示技術3D Display",
+    "光學工程Optical Engineering"
+  ],
+  "edu": [
+    "國立中央大學 光電科學研究所 博士",
+    "國立清華大學 物理系 學士"
+  ],
+  "fcuExp": [
+    "數位光學中心 主任",
+    "光電科學與工程學系 系主任",
+    "光電學系 助理教授",
+    "光電學系 副教授",
+    "光電學系 教授",
+    "光電科學與工程學系 教授",
+    "光電科學與工程學系 教授",
+    "光電科學與工程學系 教授",
+    "光電科學與工程學系 特聘教授",
+    "光電科學與工程學系 特聘教授"
+  ],
+  "currjob": [],
+  "otherExp": [],
+  "journal": [
+    {
+      "論文名稱": "Computational Optical Scanning Holography",
+      "期刊名稱": "Photonics (SCIE)",
+      "作者群": "Naru Yoneda, Jung-Ping Liu, Osamu Matoba, Yusuke Saita, Takanori Nomura"
+    },
+    {
+      "論文名稱": "Single-pixel three-dimensional imaging of the terahertz-wave by complex-field synthesis",
+      "期刊名稱": "Optics Express (SCIE)",
+      "作者群": "Jung-Ping Liu*, Kun-Chi Tsai, Yu-Chih Lin, Kun-Huang Chen"
+    },
+    {
+      "論文名稱": "Single recording without heterodyning in optical scanning holography",
+      "期刊名稱": "Optics and Laser Technology (SCIE)",
+      "作者群": "Jung-Ping Liu*, Chieh-Cheng Lee, Yaping Zhang, Yongwei Yao, and Ting-Chung Poon"
+    },
+    {
+      "論文名稱": "Three-dimensional imaging by interferenceless optical scanning holography",
+      "期刊名稱": "Optics and Lasers in Engineering (SCIE)",
+      "作者群": "Jung-Ping Liu*, Chen-Ming Tsai, Ting-Chung Poon, P.W.M. Tsang, Yaping Zhang"
+    },
+    {
+      "論文名稱": "Binary computer-generated holograms by simulated-annealing binary search",
+      "期刊名稱": "Photonics (SCIE)",
+      "作者群": "Jung-Ping Liu*, Chen-Ming Tsai"
+    },
+    {
+      "論文名稱": "Off-axis optical scanning holography [Invited]",
+      "期刊名稱": "Journal of the Optical Society of America A (SCIE)",
+      "作者群": "Yaping Zhang*, Yongwei Yao, Jingyuan Zhang, Jung-Ping Liu*, and Ting-Chung Poon"
+    },
+    {
+      "論文名稱": "Down-sampling slim camera using a micro-lens array",
+      "期刊名稱": "Optics Express (SCIE,EI)",
+      "作者群": "Chih-Hsiung Lin, Jung-Ping Liu*, Kun-Huang Chen"
+    },
+    {
+      "論文名稱": "Optimal sampled phase-only hologram (OSPOH)",
+      "期刊名稱": "Optics Express (SCIE,EI)",
+      "作者群": "Peter W. M. Tsang*, Jung-Ping Liu, H-H Lam, and Ting-Chung Poon"
+    },
+    {
+      "論文名稱": "Performance Estimation of Intensity Accumulation Display by Computer-Generated Holograms",
+      "期刊名稱": "Applied Sciences (SCIE)",
+      "作者群": "Jung-Ping Liu, Yu-Chih Lin, Shuming Jiao, and Ting-Chung Poon*"
+    },
+    {
+      "論文名稱": "Study on optical scanning holography with a polarization directed flat lens",
+      "期刊名稱": "Applied Optics (SCIE,EI)",
+      "作者群": "Chen-Ming Tsai, Hong-Yuan Sie, Ting-Chung Poon, and Jung-Ping Liu*"
+    },
+    {
+      "論文名稱": "Unconventional imaging: introduction to the feature issue",
+      "期刊名稱": "Applied Optics (SCIE,EI)",
+      "作者群": "Jung-Ping Liu*, Chau-Jern Cheng, Yoshio Hayasaki, Jun Tanida, and Peter W. M. Tsang"
+    },
+    {
+      "論文名稱": "Fast calculation of high-definition depth-added computer-generated holographic stereogram by spectrum-domain look-up-table (SDLUT) [Invited]",
+      "期刊名稱": "Applied Optics (SCIE,EI)",
+      "作者群": "Jung-Ping Liu*, Sung-Lin Lu"
+    },
+    {
+      "論文名稱": "3D display by binary computer-generated holograms with localized random down-sampling and adaptive intensity accumulation",
+      "期刊名稱": "Optics Express (SCIE,EI)",
+      "作者群": "Jung-Ping Liu*, Ming-Hsuan Wu, and Peter W. M. Tsang"
+    },
+    {
+      "論文名稱": "Recording of a curved digital hologram for orthoscopic real image reconstruction",
+      "期刊名稱": "Optics Letters (SCIE,EI)",
+      "作者群": "Jung-Ping Liu*, Wen-Ting Chen, Hsuan-Hsuan Wen, and Ting-Chung Poon"
+    },
+    {
+      "論文名稱": "Enhancing the Quality of Sampled Phase-Only Hologram (SPOH) Based on Time-Division Comb Filtering",
+      "期刊名稱": "Applied Sciences (SCIE)",
+      "作者群": "PeterW. M. Tsang*, Jung-Ping Liu, Hoson Lam, Ting-Chung Poon"
+    },
+    {
+      "論文名稱": "High-quality image retrieval by iterative total-error compensation for single-pixel imaging of random illuminations",
+      "期刊名稱": "Optics and Lasers in Engineering (SCIE,EI)",
+      "作者群": "Jung-Ping Liu*, Kun-Chi Tsai, Bo-Bing Luo, Yoshio Hayasaki"
+    },
+    {
+      "論文名稱": "Optical scanning tilt holography",
+      "期刊名稱": "IEEE Transactions on Industrial Informatics (SCIE,EI)",
+      "作者群": "Jung-Ping Liu*, Hsuan-Hsuan Wen"
+    },
+    {
+      "論文名稱": "Error diffusion method with optimized weighting coefficients for binary hologram generation",
+      "期刊名稱": "Applied Optics (SCIE,EI)",
+      "作者群": "Yang Gao; Shuming Jiao; Jung-Ping Liu; Ting Lei; Xiaocong Yuan"
+    },
+    {
+      "論文名稱": "Enhanced direct binary search algorithm for binary computer-generated Fresnel holograms",
+      "期刊名稱": "Applied Optics (SCIE,EI)",
+      "作者群": "Jung-Ping Liu*, Chu-qiao Yu, Peter W. M. Tsang"
+    },
+    {
+      "論文名稱": "Fast Extended Depth-of-Field Reconstruction for Complex Holograms Using Block Partitioned Entropy Minimization",
+      "期刊名稱": "Applied Sciences (SCIE)",
+      "作者群": "Peter Wai Ming Tsang*, Ting-Chung Poon, Jung-Ping Liu"
+    },
+    {
+      "論文名稱": "Fast occlusion processing for a polygon-based computer-generated hologram using the slice-by-slice silhouette method",
+      "期刊名稱": "Applied Optics (SCIE)",
+      "作者群": "Jung-Ping Liu, Heng-Kuang Liao"
+    },
+    {
+      "論文名稱": "Incoherent Digital Holography: A Review",
+      "期刊名稱": "Applied Sciences (SCIE)",
+      "作者群": "Jung-Ping Liu, Tatsuki Tahara, Yoshio Hayasaki, Ting-Chung Poon*"
+    },
+    {
+      "論文名稱": "Enhanced Autofocusing in Optical Scanning Holography Based on Hologram Decomposition",
+      "期刊名稱": "IEEE Transactions on Industrial Informatics (SCIE)",
+      "作者群": "A. Jiao*, P. W. M. Tsang, T.-C. Poon, J.-P. Liu, Wenbin Zou, and Xia Li"
+    },
+    {
+      "論文名稱": "Stereo-Lighting Reconstruction of Optical Scanning Holography",
+      "期刊名稱": "IEEE Transactions on Industrial Informatics (SCIE)",
+      "作者群": "Jung-Ping Liu* and Sheng-Yen Wang"
+    },
+    {
+      "論文名稱": "Low Complexity Compression and Speed Enhancement for Optical Scanning Holography",
+      "期刊名稱": "Scientific Reports (SCIE)",
+      "作者群": "P. W. M. Tsang*, T.-C. Poon, J.-P. Liu, T. Kim, and Y. S. Kim"
+    },
+    {
+      "論文名稱": "Nonlinearity compensation and complex-to-phase conversion of complex incoherent digital holograms for optical reconstruction",
+      "期刊名稱": "Optics Express (SCIE)",
+      "作者群": "Jung-Ping Liu*, Sheng-Yen Wang, P.W.M. Tsang, and Ting-Chung Poon"
+    },
+    {
+      "論文名稱": "Adaptive Optical Scanning Holography",
+      "期刊名稱": "Scientific Reports (SCIE)",
+      "作者群": "P.W.M. Tsang, Ting-Chung Poon, and Jung-Ping Liu"
+    },
+    {
+      "論文名稱": "Generation and optical display of a binary sampled-phase-only hologram (BSPOH)",
+      "期刊名稱": "Chinese Optics Letters (SCIE)",
+      "作者群": "P.W.M. Tsang*, Y.-T. Chow, T.-C. Poon, J.-P. Liu"
+    },
+    {
+      "論文名稱": "Coherence experiments in single-pixel digital holography",
+      "期刊名稱": "Optics Letters (SCIE)",
+      "作者群": "Jung-Ping Liu*, Chia-Hao Guo, Wei-Jen Hsiao, Ting-Chung Poon, and Peter Tsang"
+    },
+    {
+      "論文名稱": "Compressive Optical Scanning Holography",
+      "期刊名稱": "Optica ()",
+      "作者群": "Peter W.M. Tsang*, Jung-Ping Liu, Ting-Chung Poon"
+    },
+    {
+      "論文名稱": "High-axial-resolution, full-field optical coherence microscopy using tungsten halogen lamp and liquid-crystal-based achromatic phase shifter",
+      "期刊名稱": "Applied Optics (SCIE)",
+      "作者群": "Sheng-Hua Lu,* Wei-Chang Liu, and Jung-Ping Liu"
+    },
+    {
+      "論文名稱": "Feature Issue of Digital Holography and 3D Imaging (DH)",
+      "期刊名稱": "Applied Optics (SCIE,EI)",
+      "作者群": "Yoshio Hayasaki*, Jung-Ping Liu, and Marc Georges"
+    },
+    {
+      "論文名稱": "Spatial coherence analysis for optical scanning holography",
+      "期刊名稱": "Applied Optics (SCIE,EI)",
+      "作者群": "Jung-Ping Liu*"
+    },
+    {
+      "論文名稱": "Spatial-Temporal Demodulation Technique for Heterodyne Optical Scanning Holography",
+      "期刊名稱": "Optics and Lasers in Engineering (SCIE,EI)",
+      "作者群": "Jung-Ping Liu*, Dao-Zheng Luo, and Sheng-Hua Lu"
+    },
+    {
+      "論文名稱": "A Review on Holographic-based Three-Dimensional Object Recognition Techniques [invited]",
+      "期刊名稱": "Applied Optics (SCIE,EI)",
+      "作者群": "P.W.M. Tsang*, T.-C. Poon, J.-P. Liu, and W.C. Situ"
+    },
+    {
+      "論文名稱": "Automatic Decomposition of a Complex Hologram based on the Virtual Diffraction Plane Framework",
+      "期刊名稱": "Journal of Optics (SCIE,EI)",
+      "作者群": "Albert Jiao, Peter Tsang*, Ting-Chung Poon, Jung-Ping Liu, C-C Lee, and Jason Lam"
+    },
+    {
+      "論文名稱": "Vignetting-Free Computer-Generated Fresnel Holograms by Mask-Shifting",
+      "期刊名稱": "Applied Optics (SCIE,EI)",
+      "作者群": "Jung-Ping Liu*, Peter Tsang, and Ting-Chung Poon"
+    },
+    {
+      "論文名稱": "Controlling the aliasing by zero-padding in the digital calculation of the scalar diffraction",
+      "期刊名稱": "Journal of the Optical Society of America A (SCIE,EI)",
+      "作者群": "Jung-Ping Liu*"
+    },
+    {
+      "論文名稱": "An enhanced method for generation of binary Fresnel hologram based on adaptive and uniform grid-cross down-sampling",
+      "期刊名稱": "Optics Communications (SCIE,EI)",
+      "作者群": "Peter Tsang*, W.-K. Cheung, T.-C. Poon, J.-P. Liu"
+    },
+    {
+      "論文名稱": "Vertical-bandwidth-limited digital holography",
+      "期刊名稱": "Optics Letters (SCIE,EI)",
+      "作者群": "Jung-Ping Liu*、Chieh-Cheng Lee、Ying-Hau Lo、Dao-Zheng Luo"
+    },
+    {
+      "論文名稱": "The validity of weak-coupling approach for a transmission phase hologram",
+      "期刊名稱": "Optik (SCIE,EI)",
+      "作者群": "Jung-Ping Liu*, Wei-Chia Su, and Jing-Heng Chen"
+    },
+    {
+      "論文名稱": "Complex Fresnel hologram display using a single SLM",
+      "期刊名稱": "Applied Optics (SCIE)",
+      "作者群": "Jung-Ping Liu*, Wang-Yu Hsieh, Ting-Chung Poon, and Peter Tsang"
+    },
+    {
+      "論文名稱": "Investigation of zero-order-light suppression methods for digital holograms in various ratio factors",
+      "期刊名稱": "Optical Engineering (SCIE,EI)",
+      "作者群": "Jung-Ping Liu*, Ting-Chung Poon, and Tsung-Hsun Yang"
+    },
+    {
+      "論文名稱": "Comparison of two-,three- and four-exposure quadrature phase shifting holography",
+      "期刊名稱": "Applied Optics (SCIE)",
+      "作者群": "Jung-Ping Liu*,Ting-Chung Poon,Gui-Syu Jhou,and Po-Jung Chen"
+    },
+    {
+      "論文名稱": "Three-Dimensional Complex Image Coding Using a Circular Dammann Grating",
+      "期刊名稱": "Applied Optics (SCIE)",
+      "作者群": "Yukitaka Shinoda, Jung-Ping Liu*, Po Sheun Chung, Kelly Dobson, Xin Zhou, and Ting-Chung Poon"
+    },
+    {
+      "論文名稱": "Computer generation of binary Fresnel holography",
+      "期刊名稱": "Applied Optics (SCIE)",
+      "作者群": "P.W.M. Tsang, T.-C. Poon, K.W.K. Cheung,and J.-P. Liu"
+    },
+    {
+      "論文名稱": "Angle-multiplexed holographic data storage with minimum crosstalk noise",
+      "期刊名稱": "Journal of the Optical Society of America A (SCIE,EI)",
+      "作者群": "Jung-Ping Liu*"
+    },
+    {
+      "論文名稱": "Projected fringe profilometry using a liquid-crystal spatial light modulator to extend the depth measuring range",
+      "期刊名稱": "Optics Express (SCIE)",
+      "作者群": "Wei-Hung Su*, Chun-Hsiang Hsu, Wei-Chia Su,and Jung-Ping Liu"
+    },
+    {
+      "論文名稱": "Growth and photorefractive properties of Mg, Fe co-doped near-stoichiometric lithium tantalate single crystals",
+      "期刊名稱": "Optical Materials (SCIE)",
+      "作者群": "W.T. Hsu, Z.B. Chen, C.A. You, S.W. Huang, J.P. Liu, C.W. Lan*"
+    },
+    {
+      "論文名稱": "Fast generation of Fresnel holograms based on multirate filtering",
+      "期刊名稱": "Applied Optics (SCIE,EI)",
+      "作者群": "Peter Tsang, Jung-Ping Liu, Wai-Keung Cheung, and Ting-Chung Poon"
+    },
+    {
+      "論文名稱": "An enhanced method for fast generation of hologram sub-lines",
+      "期刊名稱": "Chinese Optics Letters (EI)",
+      "作者群": "P.W.M. Tsang, J.-P. Liu, K.W.K. Cheung, and T.-C. Poon"
+    },
+    {
+      "論文名稱": "Holographic recording in LiNbO3 using various polarized lights",
+      "期刊名稱": "Optical Review (SCIE,EI)",
+      "作者群": "Hong Shyuan Chen, Tzu Wei Lin, Jung Ping Liu*, Hsiu Fong Chang, and Yueh Ouyang"
+    },
+    {
+      "論文名稱": "Two-color holographic recording in a single-doped photorefractive LiNbO3 crystal",
+      "期刊名稱": "Optical Engineering (SCIE,EI)",
+      "作者群": "Jung-Ping Liu*, Hong-Shyuan Chen, and Wei-Chia Su"
+    },
+    {
+      "論文名稱": "Two-Step-Only Quadrature Phase-Shifting Digital Holography",
+      "期刊名稱": "Optics Letters (SCIE,EI)",
+      "作者群": "Jung-Ping Liu and Ting-Jung Poon"
+    },
+    {
+      "論文名稱": "The investigation of angular separation for holographic angle multiplexing",
+      "期刊名稱": "Proceeding of SPIE (EI)",
+      "作者群": "Tzu Wei Lin, Jung-Ping Liu, Hon-Fai Yau, and Jing-Heng Chen"
+    },
+    {
+      "論文名稱": "Performance comparison of amplitude object and phase object recording in LiNbO3 crystal",
+      "期刊名稱": "SPIE Proceeding (EI)",
+      "作者群": "Ching-Yang Lin, Ming-Chan Wu, Jung-Ping Liu and Hon-Fai Yau"
+    },
+    {
+      "論文名稱": "Incoherent one beam recording in LiNbO3",
+      "期刊名稱": "Optics Communications (SCIE,EI)",
+      "作者群": "Jung-Ping Liu, Tsung-Hsun Yang, Hon-Fai Yau, Hsiao-Yi Lee"
+    },
+    {
+      "論文名稱": "Angle multiplexed storage with object beam alone",
+      "期刊名稱": "Applied Physics Letters (SCIE,EI)",
+      "作者群": "Hon-Fai Yau and Jung-Ping Liu*"
+    },
+    {
+      "論文名稱": "Amphoteric refraction exhibited by anisotropic crystal",
+      "期刊名稱": "Optik (SCIE,EI)",
+      "作者群": "Jung-Ping Liu, Hon-Fai Yau, Zhen Ye, Chao-Hsien Kuo, and BoWen Ke"
+    },
+    {
+      "論文名稱": "Single beam one-way imaging through a thick dynamic distorting medium",
+      "期刊名稱": "Applied Optics (SCIE,EI)",
+      "作者群": "Hon-Fai Yau, Jung-Ping Liu, Hsiao-Yi Lee, and Yin-Zhong Chen"
+    },
+    {
+      "論文名稱": "Decryption of a random-phase multiplexing recording system",
+      "期刊名稱": "Optics Communications (SCIE,EI)",
+      "作者群": "Chi-Ching Chang, Jung-Ping Liu, Hsiao-Yi Lee, Ching-Yang Lin, Tsung-Chien Chang, Hon-Fai Yau,"
+    }
+  ],
+  "journal2": [],
+  "conference": [
+    {
+      "論文名稱": "Resolution Enhancement of Optical Scanning Holographic Microscopy",
+      "會議名稱": "Information Photonics 2024",
+      "作者群": "Chen-Hsiang Huang, Jung-Ping Liu*"
+    },
+    {
+      "論文名稱": "Different Strategies for down-sampling computer-generated holograms",
+      "會議名稱": "Photonics Asia 2023",
+      "作者群": "Jung-Ping Liu*"
+    },
+    {
+      "論文名稱": "Improvement for the Display Quality of a Single Binary Computer-Generated Hologram",
+      "會議名稱": "Digital Holography and Three-Dimensional Imaging 2023",
+      "作者群": "Jung-Ping Liu*, Chen-Ming Tsai"
+    },
+    {
+      "論文名稱": "Binary computer-generated holograms for high-quality display",
+      "會議名稱": "International Workshop on Holography and Related Technologies 2021",
+      "作者群": "Jung-Ping Liu*, Chen-Ming Tsai, Xiang Li"
+    },
+    {
+      "論文名稱": "Rainbow Holographic Display by Computer-Generated Holographic Stereogram",
+      "會議名稱": "Optics and Photonics Taiwan, International Conference 2021",
+      "作者群": "Chia-Jung Cheng, Jung-Ping Liu*"
+    },
+    {
+      "論文名稱": "High-Resolution Hologram Printer",
+      "會議名稱": "Optics and Photonics Taiwan, International Conference 2021",
+      "作者群": "Hong-Yuan Sie, Jung-Ping Liu*"
+    },
+    {
+      "論文名稱": "Optical scanning holography without interference",
+      "會議名稱": "Optics and Photonics Taiwan, International Conference 2021",
+      "作者群": "Chen-Ming Tsai, Jung-Ping Liu*"
+    },
+    {
+      "論文名稱": "Holographic Display by Computer-Generated Binary Holograms",
+      "會議名稱": "Frontiers in Optics (FiO) 2021",
+      "作者群": "Jung-Ping Liu*, Chen-Ming Tsai, and Chia-Jung Cheng"
+    },
+    {
+      "論文名稱": "Common-Path Optical Scanning Holography",
+      "會議名稱": "Digital Holography & 3D Imaging",
+      "作者群": "Chen-Ming Tsai, Jung-Ping Liu*"
+    },
+    {
+      "論文名稱": "3D Display by Binary Holograms and Intensity Accumulation",
+      "會議名稱": "Optics and Photonics Taiwan, International Conference 2020",
+      "作者群": "Chia-Jung Cheng, Ming-Hsuan Wu, P. W. M. Tsang, and Jung-Ping Liu*"
+    },
+    {
+      "論文名稱": "Common-Path Optical Scanning Holography",
+      "會議名稱": "Optics and Photonics Taiwan, International Conference 2020, December 3-5",
+      "作者群": "Chen-Ming Tsai, Jung-Ping Liu*"
+    },
+    {
+      "論文名稱": "On the Study of the THz Computational Imaging",
+      "會議名稱": "Optics and Photonics Taiwan, International Conference 2020",
+      "作者群": "Kun-Chi Tsai, Kun‑Huang Chen, Jung-Ping Liu*"
+    },
+    {
+      "論文名稱": "Fast Computing of Computer-Generated Hologram by Spectral Look-Up Table",
+      "會議名稱": "International Workshop on Holography and Related Technologies 2020",
+      "作者群": "Chia-Jung Cheng, Sung-Lin Lu, and Jung-Ping Liu*"
+    },
+    {
+      "論文名稱": "3D Imaging by Common-Path Optical Scanning holography",
+      "會議名稱": "International Workshop on Holography and Related Technologies 2020",
+      "作者群": "Hong-Yuan Sie, Chen-Ming Tsai, and Jung-Ping Liu*"
+    },
+    {
+      "論文名稱": "Recent Progress in Optical Scanning Holography",
+      "會議名稱": "International Workshop on Holography and Related Technologies 2020",
+      "作者群": "Jung-Ping Liu*"
+    },
+    {
+      "論文名稱": "The Recording of a Cylindrical Hologram by Optical Scanning Holography",
+      "會議名稱": "OSA Frontiers in Optics (FiO) 2020",
+      "作者群": "Jung-Ping Liu*, Wen-Ting Chen, and Ting-Chung Poon"
+    },
+    {
+      "論文名稱": "Binary Holograms Generated by Localized Random Down-Sampling and Intensity Accumulation",
+      "會議名稱": "Information Photonics 2020",
+      "作者群": "Ming-Hsuan Wu, and Jung-Ping Liu*"
+    },
+    {
+      "論文名稱": "Common-Path Optical Scanning Holography",
+      "會議名稱": "Information Photonics 2020",
+      "作者群": "Chen-Ming Tsai, and Jung-Ping Liu*"
+    },
+    {
+      "論文名稱": "Recording of a Curved Hologram by Optical Scanning Holography",
+      "會議名稱": "Information Photonics 2020",
+      "作者群": "Wen-Ting Chen, and Jung-Ping Liu*"
+    },
+    {
+      "論文名稱": "Computational Imaging by Millimeter Wave",
+      "會議名稱": "Information Photonics 2020",
+      "作者群": "Kun-Chi Tsai, Kun‑Huang Chen, and Jung-Ping Liu*"
+    },
+    {
+      "論文名稱": "Unconventional Three-Dimensional Imaging by Optical Scanning Holography",
+      "會議名稱": "Digital Holography & 3D Imaging",
+      "作者群": "Jung-Ping Liu*"
+    },
+    {
+      "論文名稱": "Fast Computing of Computer-Generated Hologram by Spectral Look-Up Table",
+      "會議名稱": "Optics and Photonics Taiwan, International Conference 2019",
+      "作者群": "Ching-Hua Huang and Jung-Ping Liu*"
+    },
+    {
+      "論文名稱": "Optical Scanning Curve Holography: Recording and Reconstruction",
+      "會議名稱": "Optics and Photonics Taiwan, International Conference 2019",
+      "作者群": "Wen-Ting Chen,  Hsuan-Hsuan Wen, and Jung-Ping Liu*"
+    },
+    {
+      "論文名稱": "Generation of Binary Hologram by Multiple Down-Sampling and Time-Multiplexing",
+      "會議名稱": "Optics and Photonics Taiwan, International Conference 2019",
+      "作者群": "Ming-Hsuan Wu and Jung-Ping Liu*"
+    },
+    {
+      "論文名稱": "Binary Computer-Generated Hologram by Back-Propagation Neural Network",
+      "會議名稱": "Optics and Photonics Taiwan, International Conference 2019",
+      "作者群": "Chu-qiao Yu, Jung-Ping Liu*"
+    },
+    {
+      "論文名稱": "Computing and fabrication of high-definition depth-added computer-generated holographic stereogram",
+      "會議名稱": "Photonics Asia",
+      "作者群": "Jung-Ping Liu*, Sung-Lin Lu, and Chien-Yu Yu"
+    },
+    {
+      "論文名稱": "Depth Measurement by Optical Scanning Tilt Holography",
+      "會議名稱": "OSA Frontiers in Optics",
+      "作者群": "Jung-Ping Liu*, Hsuan-Hsuan Wen, and Ting-Chung Poon"
+    },
+    {
+      "論文名稱": "Optical Scanning Holography: From Tilt Holography to Curve Holography [Invited]",
+      "會議名稱": "28th International Symposium on Industrial Electronics (ISIE)",
+      "作者群": "Jung-Ping Liu*, Hsuan-Hsuan Wen, and Jammy Chen"
+    },
+    {
+      "論文名稱": "Design of Gray-Tone Fresnel Hologram with Enhanced Diffraction Efficiency",
+      "會議名稱": "Optics & Photonics Taiwan, International Conference 2013",
+      "作者群": "Wang-Yu Hsieh, Jing-Heng Chen, Jung-Ping Liu*, and Sung-Lin Lu"
+    },
+    {
+      "論文名稱": "Mask-Shifting Fresnel Holography",
+      "會議名稱": "Optics & Photonics Taiwan, International Conference 2013",
+      "作者群": "Jung-Ping Liu*, Ting-Chung Poon, Peter Tsang, and Sheng-Yen Wang"
+    },
+    {
+      "論文名稱": "Synthetic Scanning Holography",
+      "會議名稱": "Digital Holography& 3D Imaging",
+      "作者群": "Chieh-Cheng Lee, Ting-Chung Poon, and Jung-Ping Liu*"
+    },
+    {
+      "論文名稱": "以光學掃描全像術拍攝減少取樣之全像",
+      "會議名稱": "Optics and Photonics Taiwan International Conference’12",
+      "作者群": "李杰成、劉榮平、蕭瑋仁"
+    },
+    {
+      "論文名稱": "電腦產生全像片二值化技術之分析",
+      "會議名稱": "Optics and Photonics Taiwan International Conference’12",
+      "作者群": "謝旺育、劉榮平"
+    },
+    {
+      "論文名稱": "Optical Scanning Holography with an Asymmetric Low-Pass Filtering Pupil",
+      "會議名稱": "International Workshop on Holography and Related Technologies",
+      "作者群": "Chieh-Cheng Lee, Jung-Ping Liu and Wei-Ren Hsiao"
+    },
+    {
+      "論文名稱": "Sampling Conditions for the Digital Implementation of the Fresnel Diffraction Integral",
+      "會議名稱": "International Workshop on Holography and Related Technologies",
+      "作者群": "Jung-Ping Liu"
+    },
+    {
+      "論文名稱": "Experimental Demonstration of Optical Scanning Holography",
+      "會議名稱": "中華民國物理年會",
+      "作者群": "Chieh-Cheng Lee*,Dao-Zheng Luo,Ying-Hao Luo,and Jung-Ping Liu"
+    },
+    {
+      "論文名稱": "Experimental Demonstration of Optical Scanning Holography",
+      "會議名稱": "中華民國物理年會",
+      "作者群": "Chieh-Cheng Lee*,Dao-Zheng Luo,Ying-Hao Luo,and Jung-Ping Liu"
+    },
+    {
+      "論文名稱": "Experiment Demonstration of Optical Scanning Holography",
+      "會議名稱": "中華民國物理年會",
+      "作者群": "Chieh-Cheng Lee*,Dao-Zheng Luo,Ying-Hao Luo,and Jung-Ping Liu"
+    },
+    {
+      "論文名稱": "Investigation of Quadrature Phase-Shifting Digital Holography",
+      "會議名稱": "2010 International Conference on Optics and Photonics in Taiwan",
+      "作者群": "Po-Jung Chen and Jung-Ping Liu"
+    },
+    {
+      "論文名稱": "An alternative design of holographic polarization-selective elements",
+      "會議名稱": "2010 International Conference on Optics and Photonics in Taiwan",
+      "作者群": "Jhen-yu Jiang and Jung-Ping Liu"
+    },
+    {
+      "論文名稱": "Optimization of angle-multiplexing data storage in the transmission geometry",
+      "會議名稱": "International Symposium on Optical Memory 2010",
+      "作者群": "Jung-Ping Liu"
+    },
+    {
+      "論文名稱": "Optimization of Angle-Multiplexing Holographic Data Storage in the 90 Degree Geometry",
+      "會議名稱": "7th International Conference on Optics-photonics Design & Fabrication",
+      "作者群": "Jung-Ping Liu"
+    },
+    {
+      "論文名稱": "二步式九十度相位差相移全像術",
+      "會議名稱": "Optics and Photonics Taiwan‘09",
+      "作者群": "周桂勗，Ting-Chung Poon，劉榮周桂勗，Ting-Chung Poon，劉榮平"
+    },
+    {
+      "論文名稱": "光瞳位置偏移對光學掃瞄全像術的影響",
+      "會議名稱": "Optics and Photonics Taiwan‘09",
+      "作者群": "羅英豪，劉榮羅英豪，劉榮平"
+    },
+    {
+      "論文名稱": "The effect of pupil shift in optical scanning holography",
+      "會議名稱": "International Workshop on Holographic Memories and display 2009",
+      "作者群": "Ying-Hau Lo, and Jung-Ping Liu"
+    },
+    {
+      "論文名稱": "Fast generation of hologram sub-lines based on Field Programmable Gate Array",
+      "會議名稱": "Digital Holography and Three-Dimensional Imaging (DH09)",
+      "作者群": "P.W.M. Tsang, K.W.K. Cheung, J.-P. Liu, and T.-C. Poon"
+    },
+    {
+      "論文名稱": "Advances in Quarduature-Phase shifting Digital Holography",
+      "會議名稱": "Digital Holography and Three-Dimensional Imaging (DH09)",
+      "作者群": "Jung-Ping Liu and Ting-Chung Poon"
+    },
+    {
+      "論文名稱": "Two-color recording in a photorefractive lithium niobate crystal",
+      "會議名稱": "International Workshop on Holographic Memories 2008",
+      "作者群": "Hong Shyuan Chen, Jung-Ping Liu, and Wei-Chia Su"
+    },
+    {
+      "論文名稱": "The investigation of angular separation for holographic angle multiplexing",
+      "會議名稱": "SPIE Symposium on Photonic Devices + Applications",
+      "作者群": "Tzu Wei Lin, Jung-Ping Liu, Hon-Fai Yau, and Jing-Heng Chen"
+    },
+    {
+      "論文名稱": "以短波長激發光提昇鈮酸鋰全像儲存特性之研究",
+      "會議名稱": "Optics and Photonics Taiwan'07",
+      "作者群": "吳雯婷，陳泓軒，劉榮平"
+    },
+    {
+      "論文名稱": "在全像多工儲存系統中使用振幅式圖片與相位式圖片之比較",
+      "會議名稱": "Optics and Photonics Taiwan'07",
+      "作者群": "林子瑋，吳銘展，游漢輝，劉榮平"
+    },
+    {
+      "論文名稱": "Performance comparison of amplitude object and phase object recording in LiNbO3 crystal",
+      "會議名稱": "SPIE Optics+Photonics",
+      "作者群": "Ching-Yang Lin,Ming-Chan Wu, Jung-Ping Liu and Hon-Fai Yau"
+    },
+    {
+      "論文名稱": "純相位圖片與振幅圖片應用於體積全像儲存時之特性比較",
+      "會議名稱": "Optics and Photonics Taiwan'06",
+      "作者群": "吳銘展，林清陽，游漢輝，劉榮平，張冀青"
+    },
+    {
+      "論文名稱": "不同偏振光的穿透式全像儲存特性之研究",
+      "會議名稱": "Optics and Photonics Taiwan'06",
+      "作者群": "陳泓軒，劉榮平"
+    },
+    {
+      "論文名稱": "Color-Hologram in LiNbO3 recorded with single beam",
+      "會議名稱": "Optics and Photonics Taiwan'05",
+      "作者群": "Chi-Ching Chang, Ching-Yang Lin, Hon-Fai Yau, Jung-Ping Liu, and Hsiao-Yi Lee"
+    },
+    {
+      "論文名稱": "Grey level image recording by only an object beam",
+      "會議名稱": "Optics and Photonics Taiwan'05",
+      "作者群": "Jung-Ping Liu, Hon-Fai Yau and Hsiao-Yi Lee"
+    },
+    {
+      "論文名稱": "The photorefractive effect in lithium niobate due to linear photovoltaic effect",
+      "會議名稱": "Optics and Photonics Taiwan'05",
+      "作者群": "Jung-Ping Liu, Wei-Chia Su, and Hon-Fai Yau"
+    },
+    {
+      "論文名稱": "Multiplexing using only object beam",
+      "會議名稱": "SPIE annual meeting",
+      "作者群": "Jung-Ping Liu, Hon-Fai Yau and Hsiao-Yi Lee"
+    }
+  ],
+  "book": [
+    {
+      "專業書籍": "Introduction to Modern Digital Holography with MATLAB",
+      "出版單位": "Cambridge University Press",
+      "作者群": "Ting-Chung Poon and Jung-Ping Liu"
+    }
+  ],
+  "patent": [
+    {
+      "title": "新型",
+      "desc": "全像成像裝置"
+    },
+    {
+      "title": "發明",
+      "desc": "MOIRÉ Pattern Imaging Device"
+    },
+    {
+      "title": "發明",
+      "desc": "摩爾紋成像裝置"
+    },
+    {
+      "title": "發明",
+      "desc": "摩尔纹成像装置"
+    }
+  ],
+  "most": [
+    {
+      "name": "用於混合實境頭戴顯示器之全像三維近眼顯示技術開發(2/3)",
+      "schoolYear": "113"
+    },
+    {
+      "name": "基於深度學習之高品質電腦產生全像之研究",
+      "schoolYear": "113"
+    },
+    {
+      "name": "邀請Virginia Tech Ting-Chung Poon教授",
+      "schoolYear": "112"
+    },
+    {
+      "name": "用於混合實境頭戴顯示器之全像三維近眼顯示技術開發(1/3)",
+      "schoolYear": "112"
+    },
+    {
+      "name": "超解析彩色全像三維顯示技術開發(3/3)",
+      "schoolYear": "111"
+    },
+    {
+      "name": "光瞳編碼之光學掃描全像顯微術",
+      "schoolYear": "111"
+    },
+    {
+      "name": "超解析彩色全像三維顯示技術開發(2/3)",
+      "schoolYear": "110"
+    },
+    {
+      "name": "超解析彩色全像三維顯示技術開發(1/3)",
+      "schoolYear": "109"
+    },
+    {
+      "name": "非干涉式掃描全像術之研究",
+      "schoolYear": "109"
+    },
+    {
+      "name": "基於計算光學之兆赫波二維與三維顯影(3/3)",
+      "schoolYear": "108"
+    },
+    {
+      "name": "以隨機減少取樣法製作二值電腦產生全像",
+      "schoolYear": "108"
+    },
+    {
+      "name": "基於計算光學之兆赫波二維與三維顯影(2/3)",
+      "schoolYear": "107"
+    },
+    {
+      "name": "邀請國際科技人士短期訪問(Virginia Tech Ting-Chung Poon教授)",
+      "schoolYear": "106"
+    },
+    {
+      "name": "基於計算光學之兆赫波二維與三維顯影(1/3)",
+      "schoolYear": "106"
+    },
+    {
+      "name": "基於共光程干涉之光學掃描全像術",
+      "schoolYear": "106"
+    },
+    {
+      "name": "邀請國際科技人士短期訪問(Virginia Tech Ting-Chung Poon教授)",
+      "schoolYear": "105"
+    },
+    {
+      "name": "曲面數位全像之擷取，處理與重建技術探討(3/3)",
+      "schoolYear": "105"
+    },
+    {
+      "name": "螢光掃描全像顯微術",
+      "schoolYear": "105"
+    },
+    {
+      "name": "曲面數位全像之擷取，處理與重建技術探討(2/3)",
+      "schoolYear": "104"
+    },
+    {
+      "name": "曲面數位全像之擷取，處理與重建技術探討(1/3)",
+      "schoolYear": "103"
+    },
+    {
+      "name": "光學掃瞄全像顯微術之研究(3/3)",
+      "schoolYear": "102"
+    },
+    {
+      "name": "以光學掃描全像術拍攝大尺寸數位全像",
+      "schoolYear": "102"
+    },
+    {
+      "name": "光學掃瞄全像顯微術之研究(2/3)",
+      "schoolYear": "101"
+    },
+    {
+      "name": "光學掃瞄全像顯微術之研究(1/3)",
+      "schoolYear": "100"
+    },
+    {
+      "name": "數位全像顯微術之探討",
+      "schoolYear": "100"
+    },
+    {
+      "name": "光學掃瞄全像技術之研究（II）",
+      "schoolYear": "99"
+    },
+    {
+      "name": "移相式數位全像之進階研究",
+      "schoolYear": "99"
+    },
+    {
+      "name": "光學掃瞄全像技術之研究",
+      "schoolYear": "98"
+    },
+    {
+      "name": "二步式九十度相位差相移數位全像術",
+      "schoolYear": "98"
+    },
+    {
+      "name": "精確光定位全像多工系統之研究",
+      "schoolYear": "97"
+    },
+    {
+      "name": "光學掃描全像術之研究",
+      "schoolYear": "97"
+    },
+    {
+      "name": "以光折變鈮酸鋰晶體進行全像儲存之研究",
+      "schoolYear": "96"
+    },
+    {
+      "name": "多域性鈮酸鋰晶體之小角度儲存",
+      "schoolYear": "96"
+    },
+    {
+      "name": "全像儲存儲存系統之研發",
+      "schoolYear": "95"
+    },
+    {
+      "name": "鈮酸鋰光扇效應之研究",
+      "schoolYear": "94"
+    }
+  ],
+  "tech": [],
+  "induAca": [
+    "無鏡頭光場相機技術開發 (2018-04 to 2018-12)"
+  ],
+  "perform": [],
+  "reward": [
+    "逢甲大學論文著作獎勵 (113, 2024-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (113, 2024-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (113, 2024-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優等獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (112, 2023-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (111, 2022-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (111, 2022-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (111, 2022-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (111, 2022-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (111, 2022-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (111, 2022-11) - 逢甲大學",
+    "111年度國科會補助大專校院研究獎勵 (111, 2022-10) - 研究發展處",
+    "學生口頭報告論文獎 (110, 2021-12) - 中華民國光電學會",
+    "逢甲大學論文著作獎勵傑出獎 (110, 2021-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (110, 2021-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (110, 2021-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (110, 2021-11) - 逢甲大學",
+    "110年度科技部補助大專校院研究獎勵 (110, 2021-10) - 產學合作處",
+    "逢甲大學論文著作獎勵傑出獎 (109, 2020-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (109, 2020-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (109, 2020-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (109, 2020-11) - 逢甲大學",
+    "109年度科技部補助大專校院研究獎勵 (109, 2020-10) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (108, 2019-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (108, 2019-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (108, 2019-11) - 逢甲大學",
+    "107學年度教學績優獎 (107, 2018-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (107, 2018-11) - 逢甲大學",
+    "107年度科技部補助大專校院研究獎勵 (107, 2018-08) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (106, 2017-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (106, 2017-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (106, 2017-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (106, 2017-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (106, 2017-11) - 逢甲大學",
+    "壁報論文獎 (105, 2016-12) - 中華民國光電學會",
+    "逢甲大學論文著作獎勵傑出獎 (105, 2016-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (105, 2016-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (105, 2016-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (105, 2016-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (105, 2016-11) - 逢甲大學",
+    "逢甲大學優良教材獎勵優等獎 (104, 2015-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (104, 2015-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (104, 2015-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (104, 2015-11) - 逢甲大學",
+    "104年度科技部獎勵特殊優秀人才 (104, 2015-08) - 產學合作處",
+    "103年度科技部獎勵特殊優秀人才 (103, 2014-08) - 研究發展處",
+    "逢甲大學論文著作獎勵傑出獎 (102, 2013-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (102, 2013-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (102, 2013-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (102, 2013-11) - 逢甲大學",
+    "102年度科技部獎勵特殊優秀人才 (102, 2013-08) - 研究發展處",
+    "逢甲大學論文著作獎勵傑出獎 (101, 2012-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (101, 2012-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (101, 2012-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (101, 2012-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (101, 2012-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (101, 2012-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (101, 2012-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (100, 2011-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (99, 2010-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (99, 2010-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (99, 2010-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (99, 2010-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (99, 2010-11) - 逢甲大學",
+    "99年度科技部獎勵特殊優秀人才 (99, 2010-10) - 研究發展處",
+    "逢甲大學論文著作獎勵優良獎 (98, 2009-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (97, 2008-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (97, 2008-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (97, 2008-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵優良獎 (97, 2008-11) - 逢甲大學",
+    "學術研究獎勵論文著作傑出獎 (96, 2007-11) - 逢甲大學",
+    "逢甲大學論文著作獎勵傑出獎 (96, 2007-11) - 逢甲大學"
+  ],
+  "speech": [
+    {
+      "演講題目": "光學掃瞄全像原理與應用",
+      "邀請單位": "3D互動影像顯示學術論壇",
+      "演講日期": "2014-12"
+    },
+    {
+      "演講題目": "Issues in Digital Holographic Display",
+      "邀請單位": "依元素科技有限公司",
+      "演講日期": "2014-04"
+    },
+    {
+      "演講題目": "Optical Scanning Holography",
+      "邀請單位": "清華大學光電所",
+      "演講日期": "2012-11"
+    },
+    {
+      "演講題目": "數位全像之原理與應用",
+      "邀請單位": "彰化師範大學光電所",
+      "演講日期": "2011-09"
+    },
+    {
+      "演講題目": "數位全像術",
+      "邀請單位": "中興大學精密所",
+      "演講日期": "2010-12"
+    },
+    {
+      "演講題目": "Digital Holography",
+      "邀請單位": "明道大學",
+      "演講日期": "2010-06"
+    },
+    {
+      "演講題目": "Holographic Data Storage",
+      "邀請單位": "雲林科技大學",
+      "演講日期": "2008-06"
+    },
+    {
+      "演講題目": "光折變鈮酸鋰晶體之光扇效應與應用",
+      "邀請單位": "彰化師範大學",
+      "演講日期": "2007-06"
+    },
+    {
+      "演講題目": "光電漫談",
+      "邀請單位": "中央大學光電系",
+      "演講日期": "2007-04"
+    },
+    {
+      "演講題目": "哇∼這張圖是立體的",
+      "邀請單位": "文華高中",
+      "演講日期": "2006-12"
+    },
+    {
+      "演講題目": "哇∼這張圖是立體的",
+      "邀請單位": "明道中學",
+      "演講日期": "2006-11"
+    },
+    {
+      "演講題目": "光折變晶體之光學原理、現象與應用",
+      "邀請單位": "陸軍軍官學校物理系",
+      "演講日期": "2005-10"
+    }
+  ],
+  "material": [],
+  "tal": []
+}
