@@ -1,0 +1,228 @@
+{
+  "student_demo_001": [
+    {
+      "course_id": "course_001",
+      "course_name": "程式設計基礎",
+      "semester": "114-2",
+      "grade": 86
+    },
+    {
+      "course_id": "course_002",
+      "course_name": "資料庫概念與設計",
+      "semester": "114-2",
+      "grade": 79
+    },
+    {
+      "course_id": "course_008",
+      "course_name": "資料結構程式實作",
+      "semester": "114-2",
+      "grade": 83
+    },
+    {
+      "course_id": "course_009",
+      "course_name": "演算法設計基礎",
+      "semester": "114-2",
+      "grade": 81
+    },
+    {
+      "course_id": "course_013",
+      "course_name": "網路程式開發",
+      "semester": "114-2",
+      "grade": 85
+    },
+    {
+      "course_id": "course_010",
+      "course_name": "網路安全治理",
+      "semester": "114-2",
+      "grade": 78
+    }
+  ],
+  "student_demo_002": [
+    {
+      "course_id": "course_001",
+      "course_name": "程式設計基礎",
+      "semester": "114-2",
+      "grade": 88
+    },
+    {
+      "course_id": "course_003",
+      "course_name": "機率與資料推論",
+      "semester": "114-2",
+      "grade": 91
+    },
+    {
+      "course_id": "course_005",
+      "course_name": "人工智慧應用概論",
+      "semester": "114-2",
+      "grade": 89
+    },
+    {
+      "course_id": "course_006",
+      "course_name": "統計推論方法",
+      "semester": "114-2",
+      "grade": 85
+    },
+    {
+      "course_id": "course_011",
+      "course_name": "資料分析與視覺化",
+      "semester": "114-2",
+      "grade": 90
+    },
+    {
+      "course_id": "course_014",
+      "course_name": "深度學習與神經網路",
+      "semester": "114-2",
+      "grade": 87
+    }
+  ],
+  "student_demo_003": [
+    {
+      "course_id": "course_003",
+      "course_name": "機率與資料推論",
+      "semester": "114-2",
+      "grade": 77
+    },
+    {
+      "course_id": "course_004",
+      "course_name": "運算方法與設計應用",
+      "semester": "114-2",
+      "grade": 84
+    },
+    {
+      "course_id": "course_007",
+      "course_name": "資料探勘與應用",
+      "semester": "114-2",
+      "grade": 80
+    },
+    {
+      "course_id": "course_011",
+      "course_name": "資料分析與視覺化",
+      "semester": "114-2",
+      "grade": 88
+    },
+    {
+      "course_id": "course_012",
+      "course_name": "數位圖像技術",
+      "semester": "114-2",
+      "grade": 86
+    },
+    {
+      "course_id": "course_016",
+      "course_name": "視覺創意設計",
+      "semester": "114-2",
+      "grade": 92
+    }
+  ],
+  "student_demo_004": [
+    {
+      "course_id": "course_004",
+      "course_name": "運算方法與設計應用",
+      "semester": "114-2",
+      "grade": 82
+    },
+    {
+      "course_id": "course_005",
+      "course_name": "人工智慧應用概論",
+      "semester": "114-2",
+      "grade": 78
+    },
+    {
+      "course_id": "course_012",
+      "course_name": "數位圖像技術",
+      "semester": "114-2",
+      "grade": 90
+    },
+    {
+      "course_id": "course_014",
+      "course_name": "深度學習與神經網路",
+      "semester": "114-2",
+      "grade": 83
+    },
+    {
+      "course_id": "course_015",
+      "course_name": "敏捷方法與專案管理",
+      "semester": "114-2",
+      "grade": 88
+    },
+    {
+      "course_id": "course_016",
+      "course_name": "視覺創意設計",
+      "semester": "114-2",
+      "grade": 91
+    }
+  ],
+  "student_demo_005": [
+    {
+      "course_id": "course_001",
+      "course_name": "程式設計基礎",
+      "semester": "114-2",
+      "grade": 80
+    },
+    {
+      "course_id": "course_002",
+      "course_name": "資料庫概念與設計",
+      "semester": "114-2",
+      "grade": 85
+    },
+    {
+      "course_id": "course_006",
+      "course_name": "統計推論方法",
+      "semester": "114-2",
+      "grade": 82
+    },
+    {
+      "course_id": "course_007",
+      "course_name": "資料探勘與應用",
+      "semester": "114-2",
+      "grade": 88
+    },
+    {
+      "course_id": "course_011",
+      "course_name": "資料分析與視覺化",
+      "semester": "114-2",
+      "grade": 87
+    },
+    {
+      "course_id": "course_013",
+      "course_name": "網路程式開發",
+      "semester": "114-2",
+      "grade": 79
+    },
+    {
+      "course_id": "course_015",
+      "course_name": "敏捷方法與專案管理",
+      "semester": "114-2",
+      "grade": 90
+    }
+  ],
+  "case_missing_grade": [
+    {
+      "course_id": "course_001",
+      "course_name": "程式設計基礎",
+      "semester": "114-2",
+      "grade": null
+    }
+  ],
+  "case_unmatched_course": [
+    {
+      "course_id": "course_unknown",
+      "course_name": "未知課程",
+      "semester": "114-2",
+      "grade": 80
+    }
+  ],
+  "case_duplicate_enrollment": [
+    {
+      "course_id": "course_002",
+      "course_name": "資料庫概念與設計",
+      "semester": "114-2",
+      "grade": 79
+    },
+    {
+      "course_id": "course_002",
+      "course_name": "資料庫概念與設計",
+      "semester": "114-2",
+      "grade": 79
+    }
+  ]
+}

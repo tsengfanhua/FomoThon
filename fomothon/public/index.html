@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="zh-Hant-TW">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Fomo鬆 參賽助理</title>
+<link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+<div class="app" id="app" hidden>
+  <header class="top">
+    <div class="logo"><img src="/mascot.png" alt=""><span>Fomo<b>鬆</b></span></div>
+    <div class="ttl">校園協作媒合平台</div>
+    <div class="top-r">
+      <span class="badge" id="brain-badge"></span>
+      <span class="who" id="who"></span>
+      <button class="tbtn" id="btn-logout" type="button">切換帳號</button>
+    </div>
+  </header>
+  <nav class="side" id="nav" aria-label="主選單"></nav>
+  <main class="main" id="main" tabindex="-1"></main>
+  <aside class="trace" aria-label="Agent 執行紀錄">
+    <div class="trace-h">
+      <b>Agent 執行紀錄</b><span id="ev-count">0 筆</span>
+      <button type="button" id="btn-export" disabled>匯出 Trace</button>
+    </div>
+    <div class="metrics" id="metrics"></div>
+    <div class="logs" id="logs" aria-live="polite"><div class="empty">啟動任務後，每一次決策、工具調用、閘門判斷與人工確認都會記錄在這裡。成績不會寫入紀錄。</div></div>
+  </aside>
+</div>
+<div class="login" id="login" hidden>
+  <div class="login-card">
+    <div class="logo big"><img src="/mascot.png" alt=""><span>Fomo<b>鬆</b></span></div>
+    <p class="lead">能力盤點 × 競賽分析 × 找隊友 × 找老師。請選擇示意帳號登入。</p>
+    <div id="login-code"></div>
+    <div id="login-list"></div>
+    <p class="mu small">帳號、助理、能力檔案與邀請使用合成的示意資料；「技能串接」各頁使用公開的比賽、課綱與教師資料（教師姓名預設遮蔽）。</p>
+    <p class="err" id="login-err" role="alert"></p>
+  </div>
+</div>
+<div class="toast" id="toast" role="status" hidden></div>
+<script src="/app.js" type="module"></script>
+</body>
+</html>

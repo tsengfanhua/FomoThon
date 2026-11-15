@@ -1,0 +1,266 @@
+[
+  {
+    "teacher_id": "D00001",
+    "teacher_name": "示範教師A",
+    "department": "資訊工程學系",
+    "expertise": [
+      "http://data.europa.eu/esco/skill/d4ee5954-d60b-4d3b-8ea1-c8eaa0dcb606",
+      "http://data.europa.eu/esco/skill/08deb446-76f3-4fa2-bd01-dd368c66880d",
+      "http://data.europa.eu/esco/skill/0ee9e985-0ee5-4a73-8a12-78b53b261bb2",
+      "http://data.europa.eu/esco/skill/1fe42b38-cd42-4fc7-ae77-14e4c9e96295",
+      "http://data.europa.eu/esco/skill/1063b061-329e-4212-8db4-ab936dc60efc"
+    ],
+    "research_areas": [],
+    "courses": [
+      "機器學習",
+      "人工智慧概論"
+    ],
+    "advised_competitions": [],
+    "competition_evidence": [],
+    "availability": "unknown",
+    "profile_source": "合成範例資料（公開版不含真實教師資料）",
+    "is_synthetic": true
+  },
+  {
+    "teacher_id": "D00002",
+    "teacher_name": "示範教師B",
+    "department": "資訊管理學系",
+    "expertise": [
+      "http://data.europa.eu/esco/skill/d4571b99-fac8-4cf7-8944-fdae399f4413",
+      "http://data.europa.eu/esco/skill/4c92020a-110b-4daf-b1ec-c4e17c3b9b2c",
+      "http://data.europa.eu/esco/skill/4754d9fe-dc3a-4f8f-8ea6-5dbcea3a21ca",
+      "http://data.europa.eu/esco/skill/a4557e97-d7f9-4669-88b0-c57591acce80",
+      "http://data.europa.eu/esco/skill/6400e5a5-5534-4465-b456-3632af0c5cf1"
+    ],
+    "research_areas": [],
+    "courses": [
+      "Python 程式設計",
+      "資料結構"
+    ],
+    "advised_competitions": [],
+    "competition_evidence": [],
+    "availability": "unknown",
+    "profile_source": "合成範例資料（公開版不含真實教師資料）",
+    "is_synthetic": true
+  },
+  {
+    "teacher_id": "D00003",
+    "teacher_name": "示範教師C",
+    "department": "電機工程學系",
+    "expertise": [
+      "http://data.europa.eu/esco/skill/4754d9fe-dc3a-4f8f-8ea6-5dbcea3a21ca",
+      "http://data.europa.eu/esco/skill/fce3268c-c944-4a5f-8b9c-034a72d5df13",
+      "http://data.europa.eu/esco/skill/9bbe0d37-822c-4096-8b56-8729e5783b4b",
+      "http://data.europa.eu/esco/skill/7e5a7bec-0e19-4a35-b27b-1c4a6d9c4de0",
+      "http://data.europa.eu/esco/skill/eb44d926-143f-4921-8150-4e537434b904"
+    ],
+    "research_areas": [],
+    "courses": [
+      "資料庫系統",
+      "Web 程式設計"
+    ],
+    "advised_competitions": [],
+    "competition_evidence": [],
+    "availability": "unknown",
+    "profile_source": "合成範例資料（公開版不含真實教師資料）",
+    "is_synthetic": true
+  },
+  {
+    "teacher_id": "D00004",
+    "teacher_name": "示範教師D",
+    "department": "工業工程與系統管理學系",
+    "expertise": [
+      "http://data.europa.eu/esco/skill/a6d85c13-4703-4d5c-b826-1d7e867eb645",
+      "http://data.europa.eu/esco/skill/4c92020a-110b-4daf-b1ec-c4e17c3b9b2c",
+      "http://data.europa.eu/esco/skill/ecc4552a-92c5-4222-b18d-faf5ac841080",
+      "http://data.europa.eu/esco/skill/d4ee5954-d60b-4d3b-8ea1-c8eaa0dcb606",
+      "http://data.europa.eu/esco/skill/377861af-f966-4c87-a2db-7e99904312b9"
+    ],
+    "research_areas": [],
+    "courses": [
+      "統計學",
+      "資料分析"
+    ],
+    "advised_competitions": [],
+    "competition_evidence": [],
+    "availability": "unknown",
+    "profile_source": "合成範例資料（公開版不含真實教師資料）",
+    "is_synthetic": true
+  },
+  {
+    "teacher_id": "D00005",
+    "teacher_name": "示範教師E",
+    "department": "企業管理學系",
+    "expertise": [
+      "http://data.europa.eu/esco/skill/1fe42b38-cd42-4fc7-ae77-14e4c9e96295",
+      "http://data.europa.eu/esco/skill/7e5a7bec-0e19-4a35-b27b-1c4a6d9c4de0",
+      "http://data.europa.eu/esco/skill/a6d85c13-4703-4d5c-b826-1d7e867eb645",
+      "http://data.europa.eu/esco/skill/fce3268c-c944-4a5f-8b9c-034a72d5df13",
+      "http://data.europa.eu/esco/skill/08deb446-76f3-4fa2-bd01-dd368c66880d"
+    ],
+    "research_areas": [],
+    "courses": [
+      "行銷管理",
+      "數位行銷"
+    ],
+    "advised_competitions": [],
+    "competition_evidence": [],
+    "availability": "unknown",
+    "profile_source": "合成範例資料（公開版不含真實教師資料）",
+    "is_synthetic": true
+  },
+  {
+    "teacher_id": "D00006",
+    "teacher_name": "示範教師F",
+    "department": "統計學系",
+    "expertise": [
+      "http://data.europa.eu/esco/skill/e465a154-93f7-4973-9ce1-31659fe16dd2",
+      "http://data.europa.eu/esco/skill/fb82ae25-b59f-43fd-aacf-a8308afbe85e",
+      "http://data.europa.eu/esco/skill/3912401a-cccf-4995-9f5b-76302b26fff4",
+      "http://data.europa.eu/esco/skill/5ce5236e-93e2-4899-8971-fff526f85a01",
+      "http://data.europa.eu/esco/skill/6b49d940-6440-4dd7-a960-3d7c5ef51e83"
+    ],
+    "research_areas": [],
+    "courses": [
+      "影像處理",
+      "電腦視覺"
+    ],
+    "advised_competitions": [],
+    "competition_evidence": [],
+    "availability": "unknown",
+    "profile_source": "合成範例資料（公開版不含真實教師資料）",
+    "is_synthetic": true
+  },
+  {
+    "teacher_id": "D00007",
+    "teacher_name": "示範教師G",
+    "department": "資訊工程學系",
+    "expertise": [
+      "http://data.europa.eu/esco/skill/0ee9e985-0ee5-4a73-8a12-78b53b261bb2",
+      "http://data.europa.eu/esco/skill/d88cb3f1-8e02-4618-bf32-4b0488066934",
+      "http://data.europa.eu/esco/skill/ac42ad10-4399-4730-a097-04dfb605aace",
+      "http://data.europa.eu/esco/skill/ecc4552a-92c5-4222-b18d-faf5ac841080",
+      "http://data.europa.eu/esco/skill/4754d9fe-dc3a-4f8f-8ea6-5dbcea3a21ca"
+    ],
+    "research_areas": [],
+    "courses": [
+      "機器學習",
+      "人工智慧概論"
+    ],
+    "advised_competitions": [],
+    "competition_evidence": [],
+    "availability": "unknown",
+    "profile_source": "合成範例資料（公開版不含真實教師資料）",
+    "is_synthetic": true
+  },
+  {
+    "teacher_id": "D00008",
+    "teacher_name": "示範教師H",
+    "department": "資訊管理學系",
+    "expertise": [
+      "http://data.europa.eu/esco/skill/7fa93d7f-8ff9-4878-9ad0-1968d75476aa",
+      "http://data.europa.eu/esco/skill/377861af-f966-4c87-a2db-7e99904312b9",
+      "http://data.europa.eu/esco/skill/b5ff2ded-a91d-468b-afed-f9737f929e86",
+      "http://data.europa.eu/esco/skill/88af9294-b697-4687-ae19-aefbb6234dfa",
+      "http://data.europa.eu/esco/skill/6400e5a5-5534-4465-b456-3632af0c5cf1"
+    ],
+    "research_areas": [],
+    "courses": [
+      "Python 程式設計",
+      "資料結構"
+    ],
+    "advised_competitions": [],
+    "competition_evidence": [],
+    "availability": "unknown",
+    "profile_source": "合成範例資料（公開版不含真實教師資料）",
+    "is_synthetic": true
+  },
+  {
+    "teacher_id": "D00009",
+    "teacher_name": "示範教師I",
+    "department": "電機工程學系",
+    "expertise": [
+      "http://data.europa.eu/esco/skill/3993c87c-7719-4186-811b-8ddfb40e76be",
+      "http://data.europa.eu/esco/skill/25c4cb91-d64b-48d1-a350-3527334a360d",
+      "http://data.europa.eu/esco/skill/a886afe5-6a20-40ac-b660-562d46f94d9e",
+      "http://data.europa.eu/esco/skill/b5ff2ded-a91d-468b-afed-f9737f929e86",
+      "http://data.europa.eu/esco/skill/4bdbd6db-7d75-40e7-b40e-5718e2982dfb"
+    ],
+    "research_areas": [],
+    "courses": [
+      "資料庫系統",
+      "Web 程式設計"
+    ],
+    "advised_competitions": [],
+    "competition_evidence": [],
+    "availability": "unknown",
+    "profile_source": "合成範例資料（公開版不含真實教師資料）",
+    "is_synthetic": true
+  },
+  {
+    "teacher_id": "D00010",
+    "teacher_name": "示範教師J",
+    "department": "工業工程與系統管理學系",
+    "expertise": [
+      "http://data.europa.eu/esco/skill/ecc4552a-92c5-4222-b18d-faf5ac841080",
+      "http://data.europa.eu/esco/skill/fb82ae25-b59f-43fd-aacf-a8308afbe85e",
+      "http://data.europa.eu/esco/skill/9bbe0d37-822c-4096-8b56-8729e5783b4b",
+      "http://data.europa.eu/esco/skill/4754d9fe-dc3a-4f8f-8ea6-5dbcea3a21ca",
+      "http://data.europa.eu/esco/skill/fce3268c-c944-4a5f-8b9c-034a72d5df13"
+    ],
+    "research_areas": [],
+    "courses": [
+      "統計學",
+      "資料分析"
+    ],
+    "advised_competitions": [],
+    "competition_evidence": [],
+    "availability": "unknown",
+    "profile_source": "合成範例資料（公開版不含真實教師資料）",
+    "is_synthetic": true
+  },
+  {
+    "teacher_id": "D00011",
+    "teacher_name": "示範教師K",
+    "department": "企業管理學系",
+    "expertise": [
+      "http://data.europa.eu/esco/skill/d4ee5954-d60b-4d3b-8ea1-c8eaa0dcb606",
+      "http://data.europa.eu/esco/skill/4bdbd6db-7d75-40e7-b40e-5718e2982dfb",
+      "http://data.europa.eu/esco/skill/0ee9e985-0ee5-4a73-8a12-78b53b261bb2",
+      "http://data.europa.eu/esco/skill/d4571b99-fac8-4cf7-8944-fdae399f4413",
+      "http://data.europa.eu/esco/skill/fce3268c-c944-4a5f-8b9c-034a72d5df13"
+    ],
+    "research_areas": [],
+    "courses": [
+      "行銷管理",
+      "數位行銷"
+    ],
+    "advised_competitions": [],
+    "competition_evidence": [],
+    "availability": "unknown",
+    "profile_source": "合成範例資料（公開版不含真實教師資料）",
+    "is_synthetic": true
+  },
+  {
+    "teacher_id": "D00012",
+    "teacher_name": "示範教師L",
+    "department": "統計學系",
+    "expertise": [
+      "http://data.europa.eu/esco/skill/fb82ae25-b59f-43fd-aacf-a8308afbe85e",
+      "http://data.europa.eu/esco/skill/be252635-341e-4b1c-b94f-aef362b645ed",
+      "http://data.europa.eu/esco/skill/3912401a-cccf-4995-9f5b-76302b26fff4",
+      "http://data.europa.eu/esco/skill/a4557e97-d7f9-4669-88b0-c57591acce80",
+      "http://data.europa.eu/esco/skill/6400e5a5-5534-4465-b456-3632af0c5cf1"
+    ],
+    "research_areas": [],
+    "courses": [
+      "影像處理",
+      "電腦視覺"
+    ],
+    "advised_competitions": [],
+    "competition_evidence": [],
+    "availability": "unknown",
+    "profile_source": "合成範例資料（公開版不含真實教師資料）",
+    "is_synthetic": true
+  }
+]

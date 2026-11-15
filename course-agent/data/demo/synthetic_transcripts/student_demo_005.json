@@ -1,0 +1,58 @@
+[
+  {
+    "academic_year": 114,
+    "semester": 2,
+    "course_code": "0772",
+    "course_name": "Python程式設計與應用",
+    "credits": 3.0,
+    "grade": 86
+  },
+  {
+    "academic_year": 114,
+    "semester": 2,
+    "course_code": "1193",
+    "course_name": "資料庫設計",
+    "credits": 3.0,
+    "grade": 79
+  },
+  {
+    "academic_year": 114,
+    "semester": 2,
+    "course_code": "0457",
+    "course_name": "專案管理與AI協作",
+    "credits": 3.0,
+    "grade": 91
+  },
+  {
+    "academic_year": 114,
+    "semester": 2,
+    "course_code": "0795",
+    "course_name": "AI專案管理規劃與協作",
+    "credits": 3.0,
+    "grade": 84
+  },
+  {
+    "academic_year": 114,
+    "semester": 2,
+    "course_code": "1503",
+    "course_name": "儀器人機介面設計與分析",
+    "credits": 3.0,
+    "grade": 88
+  },
+  {
+    "academic_year": 114,
+    "semester": 2,
+    "course_code": "1264",
+    "course_name": "資料庫系統",
+    "credits": 3.0,
+    "grade": 82
+  },
+  {
+    "academic_year": 114,
+    "semester": 2,
+    "course_code": "1817",
+    "course_name": "資料科學實務應用",
+    "credits": 3.0,
+    "grade": null
+  }
+]

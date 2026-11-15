@@ -1,0 +1,38 @@
+[
+  {
+    "course_id": "course_001",
+    "course_name": "程式設計基礎",
+    "semester": "114-2",
+    "grade": 88
+  },
+  {
+    "course_id": "course_003",
+    "course_name": "機率與資料推論",
+    "semester": "114-2",
+    "grade": 91
+  },
+  {
+    "course_id": "course_005",
+    "course_name": "人工智慧應用概論",
+    "semester": "114-2",
+    "grade": 89
+  },
+  {
+    "course_id": "course_006",
+    "course_name": "統計推論方法",
+    "semester": "114-2",
+    "grade": 85
+  },
+  {
+    "course_id": "course_011",
+    "course_name": "資料分析與視覺化",
+    "semester": "114-2",
+    "grade": 90
+  },
+  {
+    "course_id": "course_014",
+    "course_name": "深度學習與神經網路",
+    "semester": "114-2",
+    "grade": 87
+  }
+]

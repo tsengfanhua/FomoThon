@@ -1,0 +1,166 @@
+[
+  {
+    "competition_id": "C001",
+    "name": "DEMO 綠芽永續黑客松",
+    "aliases": [
+      "Green Sprout",
+      "綠芽"
+    ],
+    "year": 2027,
+    "category": "hackathon",
+    "theme": "永續生活",
+    "description": "虛構 DEMO：所有年份、日期、資格與技能門檻均為合成測試資料，非官方要求。",
+    "required_skills": [
+      {
+        "skill_id": "SK001",
+        "skill_name": "Python",
+        "required_score": 60
+      }
+    ],
+    "eligibility": {
+      "student_required": true,
+      "team_min": 2,
+      "team_max": 4,
+      "education_levels": null,
+      "regions": null
+    },
+    "deadline": "2027-03-01",
+    "requires_advisor": false,
+    "official_url": null,
+    "source_status": "demo",
+    "evidence": []
+  },
+  {
+    "competition_id": "C002",
+    "name": "DEMO 星河資料挑戰賽",
+    "aliases": [
+      "Star Data",
+      "星河"
+    ],
+    "year": 2027,
+    "category": "data_science",
+    "theme": "資料探索",
+    "description": "虛構 DEMO：所有年份、日期、資格與技能門檻均為合成測試資料，非官方要求。",
+    "required_skills": [
+      {
+        "skill_id": "SK001",
+        "skill_name": "Python",
+        "required_score": 75
+      },
+      {
+        "skill_id": "SK002",
+        "skill_name": "資料分析",
+        "required_score": 70
+      }
+    ],
+    "eligibility": {
+      "student_required": false,
+      "team_min": 1,
+      "team_max": 3,
+      "education_levels": null,
+      "regions": null
+    },
+    "deadline": "2027-04-15",
+    "requires_advisor": null,
+    "official_url": null,
+    "source_status": "demo",
+    "evidence": []
+  },
+  {
+    "competition_id": "C003",
+    "name": "DEMO 紙飛機創意設計賽",
+    "aliases": [
+      "Paper Design",
+      "紙飛機"
+    ],
+    "year": 2027,
+    "category": "design",
+    "theme": "無障礙設計",
+    "description": "虛構 DEMO：所有年份、日期、資格與技能門檻均為合成測試資料，非官方要求。",
+    "required_skills": [
+      {
+        "skill_id": "SK003",
+        "skill_name": "介面設計",
+        "required_score": 50
+      }
+    ],
+    "eligibility": {
+      "student_required": true,
+      "team_min": 1,
+      "team_max": 1,
+      "education_levels": [
+        "大學"
+      ],
+      "regions": null
+    },
+    "deadline": "2027-05-20",
+    "requires_advisor": true,
+    "official_url": null,
+    "source_status": "demo",
+    "evidence": []
+  },
+  {
+    "competition_id": "C004",
+    "name": "DEMO 小島創業提案賽",
+    "aliases": [
+      "Island Startup",
+      "小島"
+    ],
+    "year": 2027,
+    "category": "business",
+    "theme": "在地服務",
+    "description": "虛構 DEMO：所有年份、日期、資格與技能門檻均為合成測試資料，非官方要求。",
+    "required_skills": [
+      {
+        "skill_id": "SK004",
+        "skill_name": "商業簡報",
+        "required_score": 65
+      }
+    ],
+    "eligibility": {
+      "student_required": null,
+      "team_min": 2,
+      "team_max": 5,
+      "education_levels": null,
+      "regions": [
+        "虛構示範區"
+      ]
+    },
+    "deadline": null,
+    "requires_advisor": null,
+    "official_url": null,
+    "source_status": "demo",
+    "evidence": []
+  },
+  {
+    "competition_id": "C005",
+    "name": "DEMO 月光機器人挑戰賽",
+    "aliases": [
+      "Moon Robot",
+      "月光"
+    ],
+    "year": null,
+    "category": "robotics",
+    "theme": "機器人協作",
+    "description": "虛構 DEMO：所有資格與技能門檻均為合成測試資料；未知年份與日期保持 null，非官方要求。",
+    "required_skills": [
+      {
+        "skill_id": "SK005",
+        "skill_name": "機器人控制",
+        "required_score": 80
+      }
+    ],
+    "eligibility": {
+      "student_required": null,
+      "team_min": null,
+      "team_max": null,
+      "education_levels": null,
+      "regions": null
+    },
+    "deadline": null,
+    "requires_advisor": null,
+    "official_url": null,
+    "source_status": "demo",
+    "evidence": []
+  }
+]

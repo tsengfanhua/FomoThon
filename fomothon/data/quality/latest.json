@@ -1,0 +1,443 @@
+{
+  "version": "2026-11-12",
+  "today": "2026-11-21",
+  "sources": {
+    "skills": 46,
+    "relations": 22,
+    "courses": 24,
+    "students": 16,
+    "teachers": 10,
+    "competitions": 9
+  },
+  "overall": 99.1,
+  "gate": "pass",
+  "blocking": [],
+  "dimensions": [
+    {
+      "key": "completeness",
+      "label": "完整性",
+      "score": 99.3,
+      "checks": 4,
+      "failedChecks": 1
+    },
+    {
+      "key": "validity",
+      "label": "有效性",
+      "score": 100,
+      "checks": 4,
+      "failedChecks": 0
+    },
+    {
+      "key": "uniqueness",
+      "label": "唯一性",
+      "score": 100,
+      "checks": 4,
+      "failedChecks": 0
+    },
+    {
+      "key": "consistency",
+      "label": "一致性",
+      "score": 100,
+      "checks": 5,
+      "failedChecks": 0
+    },
+    {
+      "key": "timeliness",
+      "label": "時效性",
+      "score": 96.3,
+      "checks": 3,
+      "failedChecks": 1
+    },
+    {
+      "key": "credibility",
+      "label": "可信度",
+      "score": 99,
+      "checks": 3,
+      "failedChecks": 2
+    }
+  ],
+  "checks": [
+    {
+      "id": "C1",
+      "dimension": "completeness",
+      "severity": "error",
+      "title": "必填欄位齊全（依資料契約）",
+      "personal": true,
+      "checked": 106,
+      "failed": 0,
+      "passRate": 1,
+      "samples": []
+    },
+    {
+      "id": "C2",
+      "dimension": "completeness",
+      "severity": "warning",
+      "title": "課綱至少 16 週進度、教學目標完整",
+      "personal": false,
+      "checked": 24,
+      "failed": 1,
+      "passRate": 0.958,
+      "samples": [
+        "GE199「資訊倫理專題」：14 週"
+      ]
+    },
+    {
+      "id": "C3",
+      "dimension": "completeness",
+      "severity": "warning",
+      "title": "每門課都能萃取出至少一項技能（課綱→技能覆蓋）",
+      "personal": false,
+      "checked": 24,
+      "failed": 0,
+      "passRate": 1,
+      "samples": []
+    },
+    {
+      "id": "C4",
+      "dimension": "completeness",
+      "severity": "warning",
+      "title": "競賽需要的技能都有課程可以培養（需求→課程覆蓋）",
+      "personal": false,
+      "checked": 16,
+      "failed": 0,
+      "passRate": 1,
+      "samples": []
+    },
+    {
+      "id": "V1",
+      "dimension": "validity",
+      "severity": "error",
+      "title": "欄位格式與值域符合資料契約",
+      "personal": true,
+      "checked": 106,
+      "failed": 0,
+      "passRate": 1,
+      "samples": []
+    },
+    {
+      "id": "V2",
+      "dimension": "validity",
+      "severity": "error",
+      "title": "課程評量權重合計為 100%",
+      "personal": false,
+      "checked": 24,
+      "failed": 0,
+      "passRate": 1,
+      "samples": []
+    },
+    {
+      "id": "V3",
+      "dimension": "validity",
+      "severity": "error",
+      "title": "競賽門檻與技能量尺一致（英文用 CEFR、其他用分數）",
+      "personal": false,
+      "checked": 27,
+      "failed": 0,
+      "passRate": 1,
+      "samples": []
+    },
+    {
+      "id": "V4",
+      "dimension": "validity",
+      "severity": "error",
+      "title": "技能關聯格式為 [技能, 技能, 0～1 的權重]",
+      "personal": false,
+      "checked": 22,
+      "failed": 0,
+      "passRate": 1,
+      "samples": []
+    },
+    {
+      "id": "U1",
+      "dimension": "uniqueness",
+      "severity": "error",
+      "title": "各類資料的 ID 不重複（人員 ID 跨角色也不重複）",
+      "personal": true,
+      "checked": 106,
+      "failed": 0,
+      "passRate": 1,
+      "samples": []
+    },
+    {
+      "id": "U2",
+      "dimension": "uniqueness",
+      "severity": "error",
+      "title": "技能名稱與別名不重複（避免一詞對應多個技能）",
+      "personal": false,
+      "checked": 202,
+      "failed": 0,
+      "passRate": 1,
+      "samples": []
+    },
+    {
+      "id": "U3",
+      "dimension": "uniqueness",
+      "severity": "warning",
+      "title": "技能關聯沒有重複或自我關聯",
+      "personal": false,
+      "checked": 22,
+      "failed": 0,
+      "passRate": 1,
+      "samples": []
+    },
+    {
+      "id": "U4",
+      "dimension": "uniqueness",
+      "severity": "warning",
+      "title": "同一位學生沒有重複的修課紀錄",
+      "personal": true,
+      "checked": 16,
+      "failed": 0,
+      "passRate": 1,
+      "samples": []
+    },
+    {
+      "id": "R1",
+      "dimension": "consistency",
+      "severity": "error",
+      "title": "技能階層：上位技能存在、沒有循環、最多 3 層",
+      "personal": false,
+      "checked": 46,
+      "failed": 0,
+      "passRate": 1,
+      "samples": []
+    },
+    {
+      "id": "R2",
+      "dimension": "consistency",
+      "severity": "error",
+      "title": "所有技能引用都存在於 Skill 資料庫",
+      "personal": false,
+      "checked": 131,
+      "failed": 0,
+      "passRate": 1,
+      "samples": []
+    },
+    {
+      "id": "R3",
+      "dimension": "consistency",
+      "severity": "error",
+      "title": "課程的授課教師存在於教師名單",
+      "personal": false,
+      "checked": 24,
+      "failed": 0,
+      "passRate": 1,
+      "samples": []
+    },
+    {
+      "id": "R4",
+      "dimension": "consistency",
+      "severity": "error",
+      "title": "修課紀錄的課程代碼存在於課綱庫（課綱庫外課程必須填課名）",
+      "personal": true,
+      "checked": 45,
+      "failed": 0,
+      "passRate": 1,
+      "samples": []
+    },
+    {
+      "id": "R5",
+      "dimension": "consistency",
+      "severity": "error",
+      "title": "數量邏輯合理（已用名額 ≤ 名額、隊伍人數下限 ≤ 上限）",
+      "personal": true,
+      "checked": 19,
+      "failed": 0,
+      "passRate": 1,
+      "samples": []
+    },
+    {
+      "id": "T1",
+      "dimension": "timeliness",
+      "severity": "warning",
+      "title": "競賽報名尚未截止（已截止者應封存）",
+      "personal": false,
+      "checked": 9,
+      "failed": 1,
+      "passRate": 0.889,
+      "samples": [
+        "C03「資料分析創意競賽（示意）」已於 2026-11-08 截止"
+      ]
+    },
+    {
+      "id": "T2",
+      "dimension": "timeliness",
+      "severity": "warning",
+      "title": "修課紀錄在 4 學年內",
+      "personal": true,
+      "checked": 45,
+      "failed": 0,
+      "passRate": 1,
+      "samples": []
+    },
+    {
+      "id": "T3",
+      "dimension": "timeliness",
+      "severity": "warning",
+      "title": "外部標準對應在 365 天內查證過",
+      "personal": false,
+      "checked": 1,
+      "failed": 0,
+      "passRate": 1,
+      "samples": []
+    },
+    {
+      "id": "A1",
+      "dimension": "credibility",
+      "severity": "error",
+      "title": "別名比對不會誤中無上下位關係的其他技能（例如 Java ≠ JavaScript）",
+      "personal": false,
+      "checked": 46,
+      "failed": 0,
+      "passRate": 1,
+      "samples": []
+    },
+    {
+      "id": "A2",
+      "dimension": "credibility",
+      "severity": "warning",
+      "title": "外部文件不含提示注入或程式碼片段",
+      "personal": true,
+      "checked": 66,
+      "failed": 2,
+      "passRate": 0.97,
+      "samples": [
+        "課程 GE199：疑似提示注入、HTML／腳本片段",
+        "學生 S90 證據「<img src=x onerror=a」：HTML／腳本片段"
+      ]
+    },
+    {
+      "id": "A3",
+      "dimension": "credibility",
+      "severity": "warning",
+      "title": "技能至少對應一個外部標準（ESCO／O*NET／SFIA／UCAN）",
+      "personal": false,
+      "checked": 46,
+      "failed": 1,
+      "passRate": 0.978,
+      "samples": [
+        "SK-PRG-006「版本控制（Git）」沒有外部標準對應"
+      ]
+    }
+  ],
+  "insights": {
+    "standardMapping": {
+      "skills": 46,
+      "esco": {
+        "exact": 24,
+        "broader": 7,
+        "narrower": 0,
+        "related": 12,
+        "none": 3
+      },
+      "onetUnspsc": 4,
+      "sfia": 12,
+      "ucan": 8
+    },
+    "demandSupply": [
+      {
+        "skillId": "SK-DSN-001",
+        "name": "UI 介面設計",
+        "competitions": 3,
+        "courses": 2
+      },
+      {
+        "skillId": "SK-DAT-002",
+        "name": "資料分析",
+        "competitions": 3,
+        "courses": 5
+      },
+      {
+        "skillId": "SK-SFT-009",
+        "name": "簡報表達",
+        "competitions": 3,
+        "courses": 6
+      },
+      {
+        "skillId": "SK-BIZ-004",
+        "name": "財務分析",
+        "competitions": 2,
+        "courses": 1
+      },
+      {
+        "skillId": "SK-WEB-001",
+        "name": "前端開發",
+        "competitions": 2,
+        "courses": 2
+      },
+      {
+        "skillId": "SK-DAT-003",
+        "name": "資料視覺化",
+        "competitions": 2,
+        "courses": 3
+      },
+      {
+        "skillId": "SK-PRG-001",
+        "name": "Python",
+        "competitions": 2,
+        "courses": 5
+      },
+      {
+        "skillId": "SK-BIZ-002",
+        "name": "商業企劃",
+        "competitions": 1,
+        "courses": 1
+      },
+      {
+        "skillId": "SK-LNG-001",
+        "name": "英文",
+        "competitions": 1,
+        "courses": 1
+      },
+      {
+        "skillId": "SK-PRG-002",
+        "name": "Java",
+        "competitions": 1,
+        "courses": 1
+      },
+      {
+        "skillId": "SK-WEB-004",
+        "name": "JavaScript",
+        "competitions": 1,
+        "courses": 1
+      },
+      {
+        "skillId": "SK-WEB-005",
+        "name": "響應式網頁設計",
+        "competitions": 1,
+        "courses": 1
+      },
+      {
+        "skillId": "SK-AI-001",
+        "name": "機器學習",
+        "competitions": 1,
+        "courses": 2
+      },
+      {
+        "skillId": "SK-BIZ-003",
+        "name": "行銷",
+        "competitions": 1,
+        "courses": 2
+      },
+      {
+        "skillId": "SK-DAT-001",
+        "name": "資料庫與 SQL",
+        "competitions": 1,
+        "courses": 2
+      },
+      {
+        "skillId": "SK-DSN-003",
+        "name": "原型設計（Figma）",
+        "competitions": 1,
+        "courses": 2
+      },
+      {
+        "skillId": "SK-PRG-004",
+        "name": "資料結構與演算法",
+        "competitions": 1,
+        "courses": 4
+      }
+    ],
+    "offCatalogEnrollments": 1
+  }
+}

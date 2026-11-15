@@ -1,0 +1,547 @@
+{
+  "generatedAt": "2026-11-12T03:14:59.173Z",
+  "courses": 24,
+  "gold": {
+    "method": "共識標註：全體標註者都標註的技能為正例；只有部分標註者標註的列為模糊項，不計入對錯",
+    "annotators": [
+      "A",
+      "B"
+    ],
+    "positives": 63,
+    "ambiguous": 7,
+    "agreement": {
+      "kappa": 0.944,
+      "observedAgreement": 0.994,
+      "both": 63,
+      "onlyA": 1,
+      "onlyB": 6,
+      "neither": 1034,
+      "pairs": 1104
+    },
+    "note": "目前兩位標註者皆為彼此獨立的 AI 標註（不同模型、不共享脈絡），屬預標註；正式評測前應由兩位教師複核並以同一程式重算。"
+  },
+  "maxSkillsPerCourse": 5,
+  "methods": {
+    "rule": {
+      "micro": {
+        "tp": 58,
+        "fp": 20,
+        "fn": 5,
+        "precision": 0.744,
+        "recall": 0.921,
+        "f1": 0.823
+      },
+      "macro": {
+        "precision": 0.767,
+        "recall": 0.943,
+        "f1": 0.819
+      },
+      "perCourse": [
+        {
+          "code": "BA210",
+          "tp": 2,
+          "fp": 1,
+          "fn": 0,
+          "precision": 0.667,
+          "recall": 1,
+          "f1": 0.8,
+          "falsePositives": [
+            "SK-SFT-001"
+          ],
+          "falseNegatives": []
+        },
+        {
+          "code": "BA220",
+          "tp": 1,
+          "fp": 1,
+          "fn": 0,
+          "precision": 0.5,
+          "recall": 1,
+          "f1": 0.667,
+          "falsePositives": [
+            "SK-SFT-009"
+          ],
+          "falseNegatives": []
+        },
+        {
+          "code": "BA310",
+          "tp": 4,
+          "fp": 1,
+          "fn": 0,
+          "precision": 0.8,
+          "recall": 1,
+          "f1": 0.889,
+          "falsePositives": [
+            "SK-BIZ-003"
+          ],
+          "falseNegatives": []
+        },
+        {
+          "code": "CS101",
+          "tp": 3,
+          "fp": 0,
+          "fn": 0,
+          "precision": 1,
+          "recall": 1,
+          "f1": 1,
+          "falsePositives": [],
+          "falseNegatives": []
+        },
+        {
+          "code": "CS102",
+          "tp": 4,
+          "fp": 0,
+          "fn": 0,
+          "precision": 1,
+          "recall": 1,
+          "f1": 1,
+          "falsePositives": [],
+          "falseNegatives": []
+        },
+        {
+          "code": "CS201",
+          "tp": 1,
+          "fp": 1,
+          "fn": 0,
+          "precision": 0.5,
+          "recall": 1,
+          "f1": 0.667,
+          "falsePositives": [
+            "SK-PRG-001"
+          ],
+          "falseNegatives": []
+        },
+        {
+          "code": "CS230",
+          "tp": 2,
+          "fp": 2,
+          "fn": 0,
+          "precision": 0.5,
+          "recall": 1,
+          "f1": 0.667,
+          "falsePositives": [
+            "SK-DAT-002",
+            "SK-DAT-004"
+          ],
+          "falseNegatives": []
+        },
+        {
+          "code": "CS240",
+          "tp": 1,
+          "fp": 0,
+          "fn": 1,
+          "precision": 1,
+          "recall": 0.5,
+          "f1": 0.667,
+          "falsePositives": [],
+          "falseNegatives": [
+            "SK-SYS-002"
+          ]
+        },
+        {
+          "code": "CS330",
+          "tp": 2,
+          "fp": 3,
+          "fn": 0,
+          "precision": 0.4,
+          "recall": 1,
+          "f1": 0.571,
+          "falsePositives": [
+            "SK-PRG-001",
+            "SK-PRG-004",
+            "SK-DAT-002"
+          ],
+          "falseNegatives": []
+        },
+        {
+          "code": "CS340",
+          "tp": 4,
+          "fp": 1,
+          "fn": 0,
+          "precision": 0.8,
+          "recall": 1,
+          "f1": 0.889,
+          "falsePositives": [
+            "SK-PRG-001"
+          ],
+          "falseNegatives": []
+        },
+        {
+          "code": "CS350",
+          "tp": 5,
+          "fp": 0,
+          "fn": 1,
+          "precision": 1,
+          "recall": 0.833,
+          "f1": 0.909,
+          "falsePositives": [],
+          "falseNegatives": [
+            "SK-SYS-001"
+          ]
+        },
+        {
+          "code": "DS120",
+          "tp": 1,
+          "fp": 1,
+          "fn": 0,
+          "precision": 0.5,
+          "recall": 1,
+          "f1": 0.667,
+          "falsePositives": [
+            "SK-DAT-003"
+          ],
+          "falseNegatives": []
+        },
+        {
+          "code": "DS210",
+          "tp": 3,
+          "fp": 2,
+          "fn": 0,
+          "precision": 0.6,
+          "recall": 1,
+          "f1": 0.75,
+          "falsePositives": [
+            "SK-SFT-006",
+            "SK-SFT-009"
+          ],
+          "falseNegatives": []
+        },
+        {
+          "code": "DS310",
+          "tp": 3,
+          "fp": 1,
+          "fn": 0,
+          "precision": 0.75,
+          "recall": 1,
+          "f1": 0.857,
+          "falsePositives": [
+            "SK-SFT-009"
+          ],
+          "falseNegatives": []
+        },
+        {
+          "code": "FN210",
+          "tp": 1,
+          "fp": 0,
+          "fn": 0,
+          "precision": 1,
+          "recall": 1,
+          "f1": 1,
+          "falsePositives": [],
+          "falseNegatives": []
+        },
+        {
+          "code": "GE120",
+          "tp": 2,
+          "fp": 2,
+          "fn": 0,
+          "precision": 0.5,
+          "recall": 1,
+          "f1": 0.667,
+          "falsePositives": [
+            "SK-DAT-003",
+            "SK-DSN-004"
+          ],
+          "falseNegatives": []
+        },
+        {
+          "code": "GE130",
+          "tp": 2,
+          "fp": 0,
+          "fn": 0,
+          "precision": 1,
+          "recall": 1,
+          "f1": 1,
+          "falsePositives": [],
+          "falseNegatives": []
+        },
+        {
+          "code": "GE199",
+          "tp": 1,
+          "fp": 1,
+          "fn": 0,
+          "precision": 0.5,
+          "recall": 1,
+          "f1": 0.667,
+          "falsePositives": [
+            "SK-PRG-004"
+          ],
+          "falseNegatives": []
+        },
+        {
+          "code": "HR210",
+          "tp": 1,
+          "fp": 0,
+          "fn": 0,
+          "precision": 1,
+          "recall": 1,
+          "f1": 1,
+          "falsePositives": [],
+          "falseNegatives": []
+        },
+        {
+          "code": "IM150",
+          "tp": 5,
+          "fp": 0,
+          "fn": 0,
+          "precision": 1,
+          "recall": 1,
+          "f1": 1,
+          "falsePositives": [],
+          "falseNegatives": []
+        },
+        {
+          "code": "IM250",
+          "tp": 2,
+          "fp": 3,
+          "fn": 2,
+          "precision": 0.4,
+          "recall": 0.5,
+          "f1": 0.444,
+          "falsePositives": [
+            "SK-WEB-008",
+            "SK-SFT-001",
+            "SK-SYS-001"
+          ],
+          "falseNegatives": [
+            "SK-PRG-007",
+            "SK-WEB-005"
+          ]
+        },
+        {
+          "code": "IM260",
+          "tp": 4,
+          "fp": 0,
+          "fn": 1,
+          "precision": 1,
+          "recall": 0.8,
+          "f1": 0.889,
+          "falsePositives": [],
+          "falseNegatives": [
+            "SK-PRG-007"
+          ]
+        },
+        {
+          "code": "ST110",
+          "tp": 2,
+          "fp": 0,
+          "fn": 0,
+          "precision": 1,
+          "recall": 1,
+          "f1": 1,
+          "falsePositives": [],
+          "falseNegatives": []
+        },
+        {
+          "code": "ST220",
+          "tp": 2,
+          "fp": 0,
+          "fn": 0,
+          "precision": 1,
+          "recall": 1,
+          "f1": 1,
+          "falsePositives": [],
+          "falseNegatives": []
+        }
+      ]
+    }
+  },
+  "llm": null,
+  "goldLabels": {
+    "BA210": {
+      "skills": [
+        "SK-BIZ-001",
+        "SK-SFT-004"
+      ],
+      "ambiguous": []
+    },
+    "BA220": {
+      "skills": [
+        "SK-BIZ-003"
+      ],
+      "ambiguous": []
+    },
+    "BA310": {
+      "skills": [
+        "SK-BIZ-002",
+        "SK-SFT-004",
+        "SK-SFT-006",
+        "SK-SFT-009"
+      ],
+      "ambiguous": []
+    },
+    "CS101": {
+      "skills": [
+        "SK-PRG-001",
+        "SK-PRG-004",
+        "SK-PRG-005"
+      ],
+      "ambiguous": [
+        "SK-SFT-005"
+      ]
+    },
+    "CS102": {
+      "skills": [
+        "SK-PRG-002",
+        "SK-PRG-005",
+        "SK-PRG-006",
+        "SK-PRG-007"
+      ],
+      "ambiguous": []
+    },
+    "CS201": {
+      "skills": [
+        "SK-PRG-004"
+      ],
+      "ambiguous": []
+    },
+    "CS230": {
+      "skills": [
+        "SK-AI-001",
+        "SK-AI-004"
+      ],
+      "ambiguous": [
+        "SK-AI-002"
+      ]
+    },
+    "CS240": {
+      "skills": [
+        "SK-DAT-001",
+        "SK-SYS-002"
+      ],
+      "ambiguous": []
+    },
+    "CS330": {
+      "skills": [
+        "SK-AI-001",
+        "SK-AI-002"
+      ],
+      "ambiguous": []
+    },
+    "CS340": {
+      "skills": [
+        "SK-AI-002",
+        "SK-AI-003",
+        "SK-AI-004",
+        "SK-AI-005"
+      ],
+      "ambiguous": []
+    },
+    "CS350": {
+      "skills": [
+        "SK-BIZ-001",
+        "SK-PRG-006",
+        "SK-PRG-007",
+        "SK-PRG-008",
+        "SK-SFT-004",
+        "SK-SYS-001"
+      ],
+      "ambiguous": []
+    },
+    "DS120": {
+      "skills": [
+        "SK-DSN-004"
+      ],
+      "ambiguous": []
+    },
+    "DS210": {
+      "skills": [
+        "SK-DSN-001",
+        "SK-DSN-002",
+        "SK-DSN-003"
+      ],
+      "ambiguous": []
+    },
+    "DS310": {
+      "skills": [
+        "SK-DSN-001",
+        "SK-DSN-002",
+        "SK-DSN-003"
+      ],
+      "ambiguous": []
+    },
+    "FN210": {
+      "skills": [
+        "SK-BIZ-004"
+      ],
+      "ambiguous": []
+    },
+    "GE120": {
+      "skills": [
+        "SK-SFT-001",
+        "SK-SFT-009"
+      ],
+      "ambiguous": [
+        "SK-SFT-004"
+      ]
+    },
+    "GE130": {
+      "skills": [
+        "SK-LNG-001",
+        "SK-SFT-009"
+      ],
+      "ambiguous": []
+    },
+    "GE199": {
+      "skills": [
+        "SK-SYS-002"
+      ],
+      "ambiguous": []
+    },
+    "HR210": {
+      "skills": [
+        "SK-BIZ-005"
+      ],
+      "ambiguous": [
+        "SK-DAT-002",
+        "SK-SFT-001",
+        "SK-SFT-003"
+      ]
+    },
+    "IM150": {
+      "skills": [
+        "SK-WEB-001",
+        "SK-WEB-002",
+        "SK-WEB-003",
+        "SK-WEB-004",
+        "SK-WEB-005"
+      ],
+      "ambiguous": []
+    },
+    "IM250": {
+      "skills": [
+        "SK-PRG-007",
+        "SK-WEB-001",
+        "SK-WEB-005",
+        "SK-WEB-006"
+      ],
+      "ambiguous": []
+    },
+    "IM260": {
+      "skills": [
+        "SK-DAT-001",
+        "SK-PRG-007",
+        "SK-SYS-001",
+        "SK-SYS-002",
+        "SK-WEB-008"
+      ],
+      "ambiguous": []
+    },
+    "ST110": {
+      "skills": [
+        "SK-DAT-002",
+        "SK-DAT-004"
+      ],
+      "ambiguous": []
+    },
+    "ST220": {
+      "skills": [
+        "SK-DAT-003",
+        "SK-PRG-001"
+      ],
+      "ambiguous": [
+        "SK-DAT-002"
+      ]
+    }
+  }
+}

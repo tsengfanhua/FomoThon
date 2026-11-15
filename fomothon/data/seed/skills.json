@@ -1,0 +1,75 @@
+{
+  "_meta": {
+    "note": "自建 Skill 指標庫：內部 ID 為主鍵，外部標準僅作對應。ESCO URI 於 2026-11-12 以 ESCO API search 端點實際查得；match 欄位標示對應精確度（exact 精確／broader 上位概念／related 相近概念）。O*NET UNSPSC 與 SFIA 代碼僅填入已查證者，其餘留空。",
+    "escoBase": "http://data.europa.eu/esco/skill/",
+    "escoVersion": "v1.2",
+    "mappingVerifiedAt": "2026-11-12",
+    "sources": ["ESCO v1.2 (European Commission, free reuse with attribution)", "O*NET Technology Skills (CC BY 4.0)", "SFIA 9 skill codes (reference only)", "UCAN 共通職能 8 項"]
+  },
+  "skills": [
+    {"id": "SK-PRG-001", "zh": "Python", "en": "Python", "category": "程式設計", "aliases": ["Python"], "sfia": "PROG", "esco": {"id": "ccd0a1d9-afda-43d9-b901-96344886e14d", "label": "Python (computer programming)", "match": "exact"}},
+    {"id": "SK-PRG-002", "zh": "Java", "en": "Java", "category": "程式設計", "aliases": ["Java"], "sfia": "PROG", "esco": {"id": "19a8293b-8e95-4de3-983f-77484079c389", "label": "Java (computer programming)", "match": "exact"}},
+    {"id": "SK-PRG-003", "zh": "C/C++", "en": "C/C++", "category": "程式設計", "aliases": ["C++", "C 語言", "C語言"], "sfia": "PROG", "esco": {"id": "b633eb55-8f1f-4ae6-ab4c-2022ffe2cb7f", "label": "C++", "match": "exact"}},
+    {"id": "SK-PRG-004", "zh": "資料結構與演算法", "en": "Data structures & algorithms", "category": "程式設計", "aliases": ["資料結構", "演算法", "algorithm"], "sfia": "PROG", "esco": {"id": "54924a2c-daca-40d3-9716-4b38ceb04f38", "label": "algorithms", "match": "related"}},
+    {"id": "SK-PRG-005", "zh": "物件導向程式設計", "en": "Object-oriented programming", "category": "程式設計", "aliases": ["物件導向", "OOP"], "sfia": "PROG", "esco": {"id": "5be3d306-6cf1-4b49-aa1d-01651dd4ba4c", "label": "object-oriented modelling", "match": "related"}},
+    {"id": "SK-PRG-006", "zh": "版本控制（Git）", "en": "Version control (Git)", "category": "程式設計", "aliases": ["Git", "GitHub", "版本控制"]},
+    {"id": "SK-PRG-007", "zh": "軟體測試", "en": "Software testing", "category": "程式設計", "aliases": ["軟體測試", "單元測試", "測試案例"], "esco": {"id": "85f46538-ae70-498a-bfbc-b8ddafe96c7d", "label": "levels of software testing", "match": "related"}},
+    {"id": "SK-PRG-008", "zh": "軟體工程", "en": "Software engineering", "category": "程式設計", "aliases": ["軟體工程", "需求分析", "系統分析", "軟體設計"], "sfia": "SWDN", "esco": {"id": "8ff015a0-98ea-4d80-a23e-1f68110a919e", "label": "software design methodologies", "match": "related"}},
+
+    {"id": "SK-WEB-001", "zh": "前端開發", "en": "Front-end development", "category": "網頁開發", "aliases": ["前端", "front-end", "frontend"], "esco": {"id": "c4b1f326-224a-420a-b8b3-814a8f13b6cb", "label": "implement front-end website design", "match": "exact"}},
+    {"id": "SK-WEB-002", "zh": "HTML", "en": "HTML", "category": "網頁開發", "parent": "SK-WEB-001", "aliases": ["HTML", "HTML5"], "onetUnspsc": "43232408", "esco": {"id": "0af062de-eb43-41e9-9b96-249e2cd22d26", "label": "use markup languages", "match": "broader"}},
+    {"id": "SK-WEB-003", "zh": "CSS", "en": "CSS", "category": "網頁開發", "parent": "SK-WEB-001", "aliases": ["CSS", "CSS3"], "esco": {"id": "e5d1f825-60ed-4bdd-872a-e748c387f777", "label": "CSS", "match": "exact"}},
+    {"id": "SK-WEB-004", "zh": "JavaScript", "en": "JavaScript", "category": "網頁開發", "parent": "SK-WEB-001", "aliases": ["JavaScript", "JS", "ES6"], "onetUnspsc": "43232408", "esco": {"id": "3cd569a2-4f88-4c1e-9995-8dce8c5e51a7", "label": "JavaScript", "match": "exact"}},
+    {"id": "SK-WEB-005", "zh": "響應式網頁設計", "en": "Responsive web design", "category": "網頁開發", "parent": "SK-WEB-001", "aliases": ["響應式", "RWD", "responsive"], "esco": {"id": "6ad40ca3-dc34-4442-b23f-0b1b28936f56", "label": "maintain responsive design", "match": "exact"}},
+    {"id": "SK-WEB-006", "zh": "Vue.js", "en": "Vue.js", "category": "網頁開發", "parent": "SK-WEB-004", "aliases": ["Vue", "Vue.js"], "onetUnspsc": "43232408", "esco": {"id": "9b9de2a4-d8af-4a7b-933a-a8334ae60067", "label": "JavaScript Framework", "match": "broader"}},
+    {"id": "SK-WEB-007", "zh": "React", "en": "React", "category": "網頁開發", "parent": "SK-WEB-004", "aliases": ["React"], "onetUnspsc": "43232408", "esco": {"id": "9b9de2a4-d8af-4a7b-933a-a8334ae60067", "label": "JavaScript Framework", "match": "broader"}},
+    {"id": "SK-WEB-008", "zh": "後端與 API 開發", "en": "Back-end & API development", "category": "網頁開發", "aliases": ["後端", "RESTful", "REST API", "Node.js", "伺服器端"], "esco": {"id": "69bbd53f-fbb0-4476-b4b2-ef7844464e28", "label": "web programming", "match": "broader"}},
+
+    {"id": "SK-DAT-001", "zh": "資料庫與 SQL", "en": "Databases & SQL", "category": "資料", "aliases": ["SQL", "資料庫", "關聯式"], "esco": {"id": "598de5b0-5b58-4ea7-8058-a4bc4d18c742", "label": "SQL", "match": "exact"}},
+    {"id": "SK-DAT-002", "zh": "資料分析", "en": "Data analysis", "category": "資料", "aliases": ["資料分析", "數據分析", "資料前處理", "data analysis"], "sfia": "DATS", "esco": {"id": "2b92a5b2-6758-4ee3-9fb4-b6387a55cc8f", "label": "perform data analysis", "match": "exact"}},
+    {"id": "SK-DAT-003", "zh": "資料視覺化", "en": "Data visualisation", "category": "資料", "aliases": ["視覺化", "儀表板", "dashboard", "圖表設計"], "esco": {"id": "c3e36d05-8ae8-447f-bb2b-6f9409f85389", "label": "deliver visual presentation of data", "match": "exact"}},
+    {"id": "SK-DAT-004", "zh": "統計學", "en": "Statistics", "category": "資料", "aliases": ["統計", "機率", "假設檢定", "迴歸分析"], "esco": {"id": "7ee4c2ea-b349-4bd2-81a3-ec31475d4833", "label": "statistics", "match": "exact"}},
+
+    {"id": "SK-AI-001", "zh": "機器學習", "en": "Machine learning", "category": "人工智慧", "aliases": ["機器學習", "machine learning", "分類模型", "監督式", "非監督式"], "sfia": "MLNG", "esco": {"id": "8369c2d6-c100-4cf6-bd83-9668d8678433", "label": "utilise machine learning", "match": "exact"}},
+    {"id": "SK-AI-002", "zh": "深度學習", "en": "Deep learning", "category": "人工智慧", "parent": "SK-AI-001", "aliases": ["深度學習", "神經網路", "deep learning", "CNN"], "sfia": "MLNG", "esco": {"id": "8369c2d6-c100-4cf6-bd83-9668d8678433", "label": "utilise machine learning", "match": "broader"}},
+    {"id": "SK-AI-003", "zh": "自然語言處理", "en": "Natural language processing", "category": "人工智慧", "parent": "SK-AI-001", "aliases": ["自然語言", "NLP", "文字探勘"], "esco": {"id": "fff0e2cd-d0bd-4b02-9daf-158b79d9688a", "label": "natural language processing", "match": "exact"}},
+    {"id": "SK-AI-004", "zh": "生成式 AI 應用", "en": "Generative AI application", "category": "人工智慧", "aliases": ["生成式 AI", "生成式AI", "大型語言模型", "LLM", "提示工程", "prompt"], "esco": {"id": "e465a154-93f7-4973-9ce1-31659fe16dd2", "label": "principles of artificial intelligence", "match": "broader"}},
+    {"id": "SK-AI-005", "zh": "電腦視覺", "en": "Computer vision", "category": "人工智慧", "parent": "SK-AI-001", "aliases": ["電腦視覺", "影像辨識", "影像處理"], "esco": {"id": "8369c2d6-c100-4cf6-bd83-9668d8678433", "label": "utilise machine learning", "match": "broader"}},
+
+    {"id": "SK-DSN-001", "zh": "UI 介面設計", "en": "User interface design", "category": "設計", "aliases": ["介面設計", "UI 設計", "UI設計", "UI", "使用者介面"], "sfia": "HCEV", "esco": {"id": "fd33c66c-70c4-40e6-b87c-5495bd3bf26e", "label": "design user interface", "match": "exact"}},
+    {"id": "SK-DSN-002", "zh": "UX 研究與評估", "en": "UX research & evaluation", "category": "設計", "aliases": ["使用者研究", "使用者經驗", "UX", "可用性測試", "使用者訪談"], "sfia": "USEV", "esco": {"id": "95ee5e38-5c1e-4cd2-a21d-6921390025a9", "label": "usability engineering", "match": "related"}},
+    {"id": "SK-DSN-003", "zh": "原型設計（Figma）", "en": "Prototyping (Figma)", "category": "設計", "aliases": ["原型", "Figma", "線框圖", "prototype", "wireframe"], "sfia": "HCEV", "esco": {"id": "07dd856d-6141-48a7-a228-918f88494812", "label": "create prototype of user experience solutions", "match": "exact"}},
+    {"id": "SK-DSN-004", "zh": "視覺設計", "en": "Graphic design", "category": "設計", "aliases": ["視覺設計", "平面設計", "視覺傳達", "排版", "色彩學"], "esco": {"id": "7fb699d9-182a-430e-b7a0-6d8ed05c284b", "label": "graphic design", "match": "exact"}},
+
+    {"id": "SK-SYS-001", "zh": "雲端部署", "en": "Cloud deployment", "category": "系統", "aliases": ["雲端", "Docker", "容器化", "部署"], "esco": {"id": "bd14968e-e409-45af-b362-3495ed7b10e0", "label": "cloud technologies", "match": "related"}},
+    {"id": "SK-SYS-002", "zh": "資訊安全", "en": "Information security", "category": "系統", "aliases": ["資訊安全", "資安", "網路安全"], "esco": {"id": "6833e58b-eceb-4599-9375-1b7e6ec64087", "label": "ensure information security", "match": "exact"}},
+
+    {"id": "SK-BIZ-001", "zh": "專案管理", "en": "Project management", "category": "商管", "aliases": ["專案管理", "專案規劃", "時程管理", "甘特圖"], "esco": {"id": "7111b95d-0ce3-441a-9d92-4c75d05c4388", "label": "project management", "match": "exact"}},
+    {"id": "SK-BIZ-002", "zh": "商業企劃", "en": "Business planning", "category": "商管", "aliases": ["商業企劃", "商業模式", "營運計畫", "商業計畫", "創業"], "esco": {"id": "ead58f22-0af5-467c-ac1e-b750e4e1ac6a", "label": "develop business plans", "match": "exact"}},
+    {"id": "SK-BIZ-003", "zh": "行銷", "en": "Marketing", "category": "商管", "aliases": ["行銷", "市場分析", "品牌管理", "消費者行為"], "esco": {"id": "13e2378e-0d10-450d-843a-b3592575826e", "label": "implement marketing strategies", "match": "related"}},
+    {"id": "SK-BIZ-004", "zh": "財務分析", "en": "Financial analysis", "category": "商管", "aliases": ["財務分析", "財務報表", "財報", "投資評估"], "esco": {"id": "99571e68-801f-49af-a897-5f75996642e1", "label": "financial analysis", "match": "exact"}},
+    {"id": "SK-BIZ-005", "zh": "人力資源管理", "en": "Human resource management", "category": "商管", "aliases": ["人力資源", "人資", "招募甄選", "績效管理"], "esco": {"id": "e437eba1-3e22-41f2-8703-741e94785cba", "label": "human resource management", "match": "exact"}},
+
+    {"id": "SK-LNG-001", "zh": "英文", "en": "English", "category": "語言", "scale": "cefr", "aliases": ["英文", "英語", "English"], "esco": {"id": "6d3edede-8951-4621-a835-e04323300fa0", "label": "English", "match": "exact"}},
+
+    {"id": "SK-SFT-001", "zh": "溝通表達", "en": "Communication", "category": "共通職能", "ucan": "溝通表達", "aliases": ["溝通", "表達能力"], "esco": {"id": "15d76317-c71a-4fa2-aadc-2ecc34e627b7", "label": "communication", "match": "exact"}},
+    {"id": "SK-SFT-002", "zh": "持續學習", "en": "Continuous learning", "category": "共通職能", "ucan": "持續學習", "aliases": ["持續學習", "自主學習"], "esco": {"id": "9bf266a6-188b-4d17-a22f-2f266d76832b", "label": "demonstrate willingness to learn", "match": "related"}},
+    {"id": "SK-SFT-003", "zh": "人際互動", "en": "Interpersonal interaction", "category": "共通職能", "ucan": "人際互動", "aliases": ["人際互動", "人際關係"], "esco": {"id": "09e28145-e205-4b7a-8b3b-5c4876396069", "label": "interact with others", "match": "exact"}},
+    {"id": "SK-SFT-004", "zh": "團隊合作", "en": "Teamwork", "category": "共通職能", "ucan": "團隊合作", "aliases": ["團隊合作", "團隊協作", "分組專題", "小組專題"], "esco": {"id": "a5b0cd5c-e13a-4ab3-8d93-4d242adcfb01", "label": "teamwork principles", "match": "related"}},
+    {"id": "SK-SFT-005", "zh": "問題解決", "en": "Problem solving", "category": "共通職能", "ucan": "問題解決", "aliases": ["問題解決", "解決問題"]},
+    {"id": "SK-SFT-006", "zh": "創新", "en": "Innovation", "category": "共通職能", "ucan": "創新", "aliases": ["創新", "創意思考", "設計思考"], "esco": {"id": "c624c6a3-b0ba-4a31-a296-0d433fe47e41", "label": "think creatively", "match": "related"}},
+    {"id": "SK-SFT-007", "zh": "工作責任及紀律", "en": "Responsibility & discipline", "category": "共通職能", "ucan": "工作責任及紀律", "aliases": ["工作責任", "職場倫理"]},
+    {"id": "SK-SFT-008", "zh": "資訊科技應用", "en": "ICT application", "category": "共通職能", "ucan": "資訊科技應用", "aliases": ["資訊科技應用", "資訊素養"], "esco": {"id": "d15ce60f-ddab-41ce-ba56-398451b77b60", "label": "have computer literacy", "match": "related"}},
+    {"id": "SK-SFT-009", "zh": "簡報表達", "en": "Presentation", "category": "共通職能", "parent": "SK-SFT-001", "aliases": ["簡報", "口頭報告", "口頭發表", "上台發表"], "esco": {"id": "1ba59ce0-7fec-434b-8d5c-9b275250a26c", "label": "prepare presentation material", "match": "related"}}
+  ],
+  "relations": [
+    ["SK-DSN-001", "SK-DSN-003", 0.6], ["SK-DSN-001", "SK-DSN-004", 0.5], ["SK-DSN-001", "SK-DSN-002", 0.5], ["SK-DSN-001", "SK-WEB-001", 0.4],
+    ["SK-DSN-002", "SK-DSN-003", 0.5],
+    ["SK-AI-001", "SK-DAT-002", 0.5], ["SK-AI-001", "SK-DAT-004", 0.4], ["SK-AI-004", "SK-AI-001", 0.5], ["SK-AI-004", "SK-PRG-001", 0.3],
+    ["SK-DAT-002", "SK-DAT-004", 0.6], ["SK-DAT-002", "SK-DAT-003", 0.5], ["SK-DAT-002", "SK-DAT-001", 0.4],
+    ["SK-PRG-001", "SK-PRG-004", 0.4], ["SK-PRG-002", "SK-PRG-005", 0.7], ["SK-PRG-002", "SK-PRG-004", 0.4],
+    ["SK-WEB-008", "SK-DAT-001", 0.4], ["SK-WEB-008", "SK-WEB-004", 0.4],
+    ["SK-BIZ-002", "SK-BIZ-003", 0.5], ["SK-BIZ-002", "SK-SFT-006", 0.4], ["SK-BIZ-004", "SK-DAT-004", 0.3], ["SK-BIZ-001", "SK-SFT-004", 0.4],
+    ["SK-SFT-009", "SK-DSN-004", 0.3]
+  ]
+}
